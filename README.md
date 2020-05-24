@@ -1,5 +1,9 @@
 # 2021 New Grad Applications
-The 2021 Full time grind has begun! Use this repo to share and keep track of any undergraduate internships in quant, SWE, and PM. Need internship prep? Check out Yangshun Tay's [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/) for help!
+The 2021 Full time grind has begun! Use this repo to share and keep track of any full time positions in quant, SWE, and PM. 
+
+Need interview prep? Check out Yangshun Tay's [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/) for help!
+
+Looking for internships? Check out our internship repo [here](https://github.com/Pitt-CSC/Summer2021-Internships)
 
 Thanks to [elaine-zheng](https://github.com/elaine-zheng/summer2020internships) and [christine-hu](https://github.com/christine-hu/summer-2019-internships) for inspiration!
 
