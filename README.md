@@ -20,3 +20,5 @@ To Contribute:
 |---|---|-------------|
 |[Blend](https://jobs.lever.co/blendlabs/ea55639b-3ab0-45d6-98fc-13d731ed766e?lever-origin=applied&lever-source%255B%255D=LinkedInPremium&lever-source=LinkedInJobs)| San Francisco | SWE |
 |[Databricks](https://databricks.com/company/careers/open-positions/job?gh_jid=4364076002&gh_src=62a881d62) | San Francisco | |
+|[Facebook](https://www.facebook.com/careers/jobs/?q=university%20grad)| Los Angeles, Menlo Park, Seattle, Washington DC, Boston, New York, other locations | Software, Network, Quant Research, Research Engineer |
+|[Palantir](https://jobs.lever.co/palantir/ab28c3a6-8c44-488b-9009-282ecfcc5dc9)| Washington DC | Forward Deployed Software Engineering|
