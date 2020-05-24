@@ -14,3 +14,4 @@ To Contribute:
 
 | Name  |  Location |  Notes |
 |---|---|-------------|
+|[Blend](https://jobs.lever.co/blendlabs/ea55639b-3ab0-45d6-98fc-13d731ed766e?lever-origin=applied&lever-source%255B%255D=LinkedInPremium&lever-source=LinkedInJobs)| San Francisco | SWE |
