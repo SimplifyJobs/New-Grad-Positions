@@ -7,12 +7,7 @@ Need interview prep? Check out Yangshun Tay's [Tech Interview Handbook](https://
 
 Thanks to [elaine-zheng](https://github.com/elaine-zheng/summer2020internships) and [christine-hu](https://github.com/christine-hu/summer-2019-internships) for inspiration!
 
-To Contribute:
-1. Fork this repository
-2. Edit README.md and add your posting!
-3. Submit a Pull Request!
-
-**Don't wanna do all that? Fill out [this Google Form](https://bit.ly/3cUV89H) and we'll add it for you!**
+**Contribute by making a pull request or using [this Google Form](https://bit.ly/3cUV89H)!**
 
 ## The List
 
