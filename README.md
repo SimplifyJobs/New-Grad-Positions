@@ -1,7 +1,7 @@
 # 2021 New Grad Applications
 The 2021 Full time grind has begun! Use this repo to share and keep track of any full time positions in quant, SWE, and PM. 
 
-Looking for internships? Check out our internship repo [here](https://github.com/Pitt-CSC/Summer2021-Internships).
+Looking for internships? Check out our **internship repo [here]**(https://github.com/Pitt-CSC/Summer2021-Internships).
 
 Need interview prep? Check out Yangshun Tay's [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/) for help!
 
