@@ -15,5 +15,6 @@ Need interview prep? Check out Yangshun Tay's [Tech Interview Handbook](https://
 |[Blend](https://jobs.lever.co/blendlabs/ea55639b-3ab0-45d6-98fc-13d731ed766e?lever-origin=applied&lever-source%255B%255D=LinkedInPremium&lever-source=LinkedInJobs)| San Francisco | |
 |[Bridgewater Associates](https://boards.greenhouse.io/bridgewater89/jobs/4076429002)| Westport, CT | Investment Logic Engineer |
 |[Facebook](https://www.facebook.com/careers/jobs/?q=university%20grad)| Los Angeles, Menlo Park, Seattle, Washington DC, Boston, New York, other locations | Software, Network, Quant Research, Research Engineer |
+|[Jane Street](https://www.janestreet.com/join-jane-street/position/4743431002/) | New York | Software|
 |[Palantir](https://jobs.lever.co/palantir/ab28c3a6-8c44-488b-9009-282ecfcc5dc9)| Washington DC | Forward Deployed Software Engineering|
 
