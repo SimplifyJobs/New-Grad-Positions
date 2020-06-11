@@ -12,7 +12,7 @@ Need interview prep? Check out Yangshun Tay's [Tech Interview Handbook](https://
 | Name  |  Location |  Notes |
 |---|---|-------------|
 |[Amazon](https://www.amazon.jobs/en/jobs/1153724/software-development-engineer)| East Palo Alto | SDE|
-|[Blend](https://jobs.lever.co/blendlabs/ea55639b-3ab0-45d6-98fc-13d731ed766e?lever-origin=applied&lever-source%255B%255D=LinkedInPremium&lever-source=LinkedInJobs)| San Francisco | |
+|[Blend](https://blend.com/company/careers/opening/?oid=ecccb3f7-d3d7-41fb-b2fb-32352c578813)| San Francisco | |
 |[Bridgewater Associates](https://boards.greenhouse.io/bridgewater89/jobs/4076429002)| Westport, CT | Investment Logic Engineer |
 |[Facebook](https://www.facebook.com/careers/jobs/?q=university%20grad)| Los Angeles, Menlo Park, Seattle, Washington DC, Boston, New York, other locations | Software, Network, Quant Research, Research Engineer |
 |[Jane Street](https://www.janestreet.com/join-jane-street/position/4743431002/) | New York | Software|
