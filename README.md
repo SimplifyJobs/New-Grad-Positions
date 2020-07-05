@@ -13,9 +13,12 @@ Need interview prep? Check out Yangshun Tay's [Tech Interview Handbook](https://
 |---|---|-------------|
 |[Amazon](https://www.amazon.jobs/en/jobs/1153724/software-development-engineer)| East Palo Alto | SDE|
 |[Blend](https://blend.com/company/careers/opening/?oid=ecccb3f7-d3d7-41fb-b2fb-32352c578813)| San Francisco | |
+|[BlackRock](https://careers.blackrock.com/job/10999757/associate-software-engineer-applications-wilmington-de)| New York, NY | Software Engineer |
 |[Bridgewater Associates](https://boards.greenhouse.io/bridgewater89/jobs/4076429002)| Westport, CT | Investment Logic Engineer |
+|[D.E. Shaw](https://www.deshaw.com/careers/software-developer-new-york-2646)| New York, NY | Software Developer |
 |[Facebook](https://www.facebook.com/careers/jobs/?q=university%20grad)| Los Angeles, Menlo Park, Seattle, Washington DC, Boston, New York, other locations | Software, Network, Quant Research, Research Engineer |
 |[Jane Street](https://www.janestreet.com/join-jane-street/position/4743431002/) | New York | Software|
 |[IMC](https://careers.imc.com/us/en/c/graduates-jobs) | Chicago, Sydney, Amsterdam | Software, Hardware, Quant Trader|
+|[Optiver](https://www.optiver.com/na/en/job-opportunities/us-4200121002?foo=bar)| Chicago, Illinois | Software Engineer |
 |[Palantir](https://jobs.lever.co/palantir/ab28c3a6-8c44-488b-9009-282ecfcc5dc9)| Washington DC | Forward Deployed Software Engineering|
 
