@@ -12,7 +12,7 @@ Need interview prep? Check out Yangshun Tay's [Tech Interview Handbook](https://
 
 | Name  |  Location |  Notes |
 |---|---|-------------|
-|[Amazon](https://www.amazon.jobs/en/jobs/1153724/software-development-engineer)| East Palo Alto | SDE|
+|[Amazon](https://www.amazon.jobs/en/teams/jobs-for-grads)| East Palo Alto | SDE|
 |[Akuna Capital](https://akunacapital.com/job-details?gh_jid=2236978&gh_src=fcb01e3f1us) | Chicago, IL | Junior Developer (Software)|
 |[Blend](https://blend.com/company/careers/opening/?oid=ecccb3f7-d3d7-41fb-b2fb-32352c578813)| San Francisco | Software Engineer|
 |[Bridgewater Associates](https://boards.greenhouse.io/bridgewater89/jobs/4076429002)| Westport, CT | Investment Logic Engineer |
