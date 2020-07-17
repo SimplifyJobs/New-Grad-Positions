@@ -28,3 +28,4 @@ Need interview prep? Check out Yangshun Tay's [Tech Interview Handbook](https://
 |[Whisper.ai](https://boards.greenhouse.io/whisperai/jobs/4465259002?gh_src=3202a8272)| San Francisco | |
 |[Paypal](https://jobsearch.paypal-corp.com/en-US/search?keywords=graduate&location=&facetcountry=us) | Various | Software Engineer | 
 |[Asana](https://boards.greenhouse.io/asana/jobs/2191025) | San Francisco| Software Engineer |
+|[Neeva](https://jobs.lever.co/neeva/d95ffe9a-0717-49a0-be61-e59c5bf01b49)| Mtn. View, CA | |
