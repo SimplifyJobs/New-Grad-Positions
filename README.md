@@ -32,4 +32,4 @@ Need interview prep? Check out Yangshun Tay's [Tech Interview Handbook](https://
 |[Nuro](https://nuro.ai/careersitem?gh_jid=2257033)| Mtn View, CA | |
 |[Two Sigma](https://careers.twosigma.com/careers/RegisterMethod?jobId=714&source=PittCSC)| NY | |
 |[Kohl's](https://careers.kohls.com/corporate/job/R123005/Software-Engineer)| Milpitas, CA | Software Engineer - E-Commerce |
-|[Kohl's](https://careers.kohls.com/corporate/job/R122542/Data-Science-Engineer)| Milpitas, CA | Data Science Engineer - Looking for Master/PhD |
+|[Kohl's](https://careers.kohls.com/corporate/job/R122542/Data-Science-Engineer)| Milpitas, CA | Data Science Engineer - Looking for Masters/PhD |
