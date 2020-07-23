@@ -32,9 +32,7 @@ Need interview prep? Check out Yangshun Tay's [Tech Interview Handbook](https://
 |[Nuro](https://nuro.ai/careersitem?gh_jid=2257033)| Mtn View, CA | |
 |[Two Sigma](https://careers.twosigma.com/careers/RegisterMethod?jobId=714&source=PittCSC)| NY | |
 |[Kohl's](https://careers.kohls.com/corporate/job/R123005/Software-Engineer)| Milpitas, CA | Software Engineer - E-Commerce |
-|[Kohl's](https://careers.kohls.com/corporate/job/R122542/Data-Science-Engineer)| Milpitas, CA | Data Science Engineer - Looking for Masters/PhD |
 |[DRW](https://drw.com/careers/job/1352350)| Chicago, Austin | |
 |[Jump Trading](https://www.jumptrading.com/apply.html?gh_jid=1847809)| Chicago | |
 |[SAP](https://jobs.sap.com/job/Palo-Alto-Silicon-Valley-Next-Talent-Rotational-Program-2021-Job-CA-94303/609822201) | Palo Alto | |
 |[Belvedere](https://belvederetrading.applicantstack.com/x/detail/a2sa4x0hfsr9?noia=1) | Chicago | |
-|[PayPal](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-CA/Software-Engineer---University-Graduate_R0057736?Codes=W-LINKEDIN)| Various||
