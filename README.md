@@ -31,8 +31,8 @@ Need interview prep? Check out Yangshun Tay's [Tech Interview Handbook](https://
 |[Neeva](https://jobs.lever.co/neeva/d95ffe9a-0717-49a0-be61-e59c5bf01b49)| Mtn. View, CA | |
 |[Nuro](https://nuro.ai/careersitem?gh_jid=2257033)| Mtn View, CA | |
 |[Two Sigma](https://careers.twosigma.com/careers/RegisterMethod?jobId=714&source=PittCSC)| NY | |
-|[Kohl's](https://careers.kohls.com/corporate/job/R123005/Software-Engineer)| Milpitas, CA | Software Engineer - E-Commerce |
 |[DRW](https://drw.com/careers/job/1352350)| Chicago, Austin | |
 |[Jump Trading](https://www.jumptrading.com/apply.html?gh_jid=1847809)| Chicago | |
 |[SAP](https://jobs.sap.com/job/Palo-Alto-Silicon-Valley-Next-Talent-Rotational-Program-2021-Job-CA-94303/609822201) | Palo Alto | |
 |[Belvedere](https://belvederetrading.applicantstack.com/x/detail/a2sa4x0hfsr9?noia=1) | Chicago | |
+|[IMC Trading](https://careers.imc.com/us/en/job/REQ-00852/Graduate-Software-Engineer) | Chicago| | 
