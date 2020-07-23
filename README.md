@@ -35,5 +35,5 @@ Need interview prep? Check out Yangshun Tay's [Tech Interview Handbook](https://
 |[Jump Trading](https://www.jumptrading.com/apply.html?gh_jid=1847809)| Chicago | |
 |[SAP](https://jobs.sap.com/job/Palo-Alto-Silicon-Valley-Next-Talent-Rotational-Program-2021-Job-CA-94303/609822201) | Palo Alto | |
 |[Belvedere](https://belvederetrading.applicantstack.com/x/detail/a2sa4x0hfsr9?noia=1) | Chicago | |
-|[IMC Trading](https://careers.imc.com/us/en/job/REQ-00852/Graduate-Software-Engineer) | Chicago| | 
 |[Kohl's](https://careers.kohls.com/corporate/job/R123005/Software-Engineer)| Milpitas, CA | Software Engineer - E-Commerce |
+|[Coursera](https://jobs.lever.co/coursera/23cb4338-2c9f-4f9f-9278-ef67713a9f6d) | Mountain View | |
