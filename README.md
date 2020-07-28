@@ -38,3 +38,4 @@ Need interview prep? Check out Yangshun Tay's [Tech Interview Handbook](https://
 |[Kohl's](https://careers.kohls.com/corporate/job/R123005/Software-Engineer)| Milpitas, CA | Software Engineer - E-Commerce |
 |[Coursera](https://jobs.lever.co/coursera/23cb4338-2c9f-4f9f-9278-ef67713a9f6d) | Mountain View | |
 |[Optiver](https://www.optiver.com/na/en/job-opportunities/us-4798943002?foo=bar)| Chicago ||
+|[Citadel](https://www.citadel.com/careers/details/software-engineering-rotation-program-full-time-us/)| Chicago | Software Engineering Rotation Program – Full Time |
