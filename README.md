@@ -39,3 +39,4 @@ Need interview prep? Check out Yangshun Tay's [Tech Interview Handbook](https://
 |[Optiver](https://www.optiver.com/na/en/job-opportunities/us-4798943002?foo=bar)| Chicago ||
 |[Citadel](https://www.citadel.com/careers/details/software-engineering-rotation-program-full-time-us/)| Chicago | Software Engineering Rotation Program – Full Time |
 |[Wish](https://jobs.smartrecruiters.com/Wish/743999716273717)| San Francisco, CA |  Software Engineer, Data |
+|[Citrix](https://jobs.citrix.com/job/R22177/University-Software-Engineer-2021)| Various | |
