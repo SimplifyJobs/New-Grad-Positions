@@ -40,3 +40,4 @@ Need interview prep? Check out Yangshun Tay's [Tech Interview Handbook](https://
 |[Citadel](https://www.citadel.com/careers/details/software-engineering-rotation-program-full-time-us/)| Chicago | Software Engineering Rotation Program – Full Time |
 |[Citrix](https://jobs.citrix.com/job/R22177/University-Software-Engineer-2021)| Various | |
 |[Robinhood](https://boards.greenhouse.io/robinhood/jobs/2214430) | Menlo Park | More [here](https://boards.greenhouse.io/robinhood/jobs/2214430) |
+|[HubSpot](https://boards.greenhouse.io/embed/job_app?token=844714&gh_src=240b46771) | Cambridge, MA | |
