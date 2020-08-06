@@ -42,3 +42,5 @@ Need interview prep? Check out Yangshun Tay's [Tech Interview Handbook](https://
 |[Robinhood](https://boards.greenhouse.io/robinhood/jobs/2214430) | Menlo Park | More [here](https://boards.greenhouse.io/robinhood/jobs/2214430) |
 |[HubSpot](https://boards.greenhouse.io/embed/job_app?token=844714&gh_src=PittCSC) | Cambridge, MA | |
 |[Duolingo](https://boards.greenhouse.io/duolingo/jobs/4811959002) | Pittsburgh, PA | |
+|[Wish](https://jobs.smartrecruiters.com/Wish/743999716337373) | San Francisco, CA, | |
+
