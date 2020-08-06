@@ -43,4 +43,4 @@ Need interview prep? Check out Yangshun Tay's [Tech Interview Handbook](https://
 |[HubSpot](https://boards.greenhouse.io/embed/job_app?token=844714&gh_src=PittCSC) | Cambridge, MA | |
 |[Duolingo](https://boards.greenhouse.io/duolingo/jobs/4811959002) | Pittsburgh, PA | |
 |[Wish](https://jobs.smartrecruiters.com/Wish/743999716337373) | San Francisco, CA, | |
-
+|[Cisco](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-Bachelor-s-Full-Time-United-States/1295249)|Various| |
