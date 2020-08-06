@@ -38,6 +38,9 @@ Need interview prep? Check out Yangshun Tay's [Tech Interview Handbook](https://
 |[Kohl's](https://careers.kohls.com/corporate/job/R123005/Software-Engineer)| Milpitas, CA | Software Engineer - E-Commerce |
 |[Optiver](https://www.optiver.com/na/en/job-opportunities/us-4798943002?foo=bar)| Chicago ||
 |[Citadel](https://www.citadel.com/careers/details/software-engineering-rotation-program-full-time-us/)| Chicago | Software Engineering Rotation Program – Full Time |
-|[Wish](https://jobs.smartrecruiters.com/Wish/743999716273717)| San Francisco, CA |  Software Engineer, Data |
 |[Citrix](https://jobs.citrix.com/job/R22177/University-Software-Engineer-2021)| Various | |
-|[Cisco](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-Bachelor-s-Full-Time-United-States/1295249)|Various|
+|[Robinhood](https://boards.greenhouse.io/robinhood/jobs/2214430) | Menlo Park | More [here](https://boards.greenhouse.io/robinhood/jobs/2214430) |
+|[HubSpot](https://boards.greenhouse.io/embed/job_app?token=844714&gh_src=PittCSC) | Cambridge, MA | |
+|[Duolingo](https://boards.greenhouse.io/duolingo/jobs/4811959002) | Pittsburgh, PA | |
+|[Wish](https://jobs.smartrecruiters.com/Wish/743999716337373) | San Francisco, CA, | |
+|[Cisco](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-Bachelor-s-Full-Time-United-States/1295249)|Various| |
