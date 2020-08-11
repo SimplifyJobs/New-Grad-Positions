@@ -48,3 +48,4 @@ Need interview prep? Check out Yangshun Tay's [Tech Interview Handbook](https://
 |[BlackRock](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/candidate/so/pm/1/pl/1/opp/4478-Analyst-Program-Americas/en-GB)| |Analyst Program|
 |[Capital One](https://campus.capitalone.com/job/mclean/technology-development-program-associate-2021/1786/17009507)|Various|Technology Development Program Associate|
 |[Scale AI](https://jobs.lever.co/scaleai/41e05b90-7e65-4dac-8676-50be9c1afc27)| San Francisco, CA |New Grad Software Engineer|
+|[Stripe](https://stripe.com/jobs/listing/2021-new-grad-engineer/2162716)| San Francisco, New York, Dublin, Singapore, Seattle|New Grad Software Engineer|
