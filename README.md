@@ -50,3 +50,4 @@ Need interview prep? Check out Yangshun Tay's [Tech Interview Handbook](https://
 |[Capital One](https://campus.capitalone.com/job/mclean/technology-development-program-associate-2021/1786/17009507)|Various|Technology Development Program Associate|
 |[Scale AI](https://jobs.lever.co/scaleai/41e05b90-7e65-4dac-8676-50be9c1afc27)| San Francisco, CA |New Grad Software Engineer|
 |[Stripe](https://stripe.com/jobs/listing/2021-new-grad-engineer/2162716)| San Francisco, New York, Dublin, Singapore, Seattle|New Grad Software Engineer|
+|[Palantir](https://jobs.lever.co/palantir/01dab70c-073c-4a22-bf76-fb6b9e0a75b0)| Palo Alto, New York, Seattle, Washington|Software Engineer, New Grad|
