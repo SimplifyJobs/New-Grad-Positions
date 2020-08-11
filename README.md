@@ -43,6 +43,7 @@ Need interview prep? Check out Yangshun Tay's [Tech Interview Handbook](https://
 |[Wish](https://jobs.smartrecruiters.com/Wish/743999716337373) | San Francisco, CA, | |
 |[Cisco](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-Bachelor-s-Full-Time-United-States/1295249)|Various| |
 |[Qualtrics](https://www.qualtrics.com/careers/us/en/search-results?m=3&keywords=new%20grad)|Seattle, Provo| Software Engineer, Software Test Engineer|
+|[Qualcomm](https://qualcomm.wd5.myworkdayjobs.com/en-US/External/job/San-Diego/Engineer_3001551)| San Diego, CA | Engineer |
 |[JP Morgan](https://careers.jpmorgan.com/us/en/students/programs/software-engineer-fulltime)|Various|Software Engineer|
 |[Amazon](https://www.amazon.jobs/en/jobs/1204412/software-development-engineer-2021-united-states)|Various|Software Engineer|
 |[BlackRock](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/candidate/so/pm/1/pl/1/opp/4478-Analyst-Program-Americas/en-GB)| |Analyst Program|
