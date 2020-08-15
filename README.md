@@ -14,7 +14,6 @@ Need interview prep? Check out Yangshun Tay's [Tech Interview Handbook](https://
 |---|---|-------------|
 |[Akuna Capital](https://akunacapital.com/job-details?gh_jid=2236978&gh_src=fcb01e3f1us) | Chicago, IL | Junior Developer (Software)|
 |[Blend](https://blend.com/company/careers/opening/?oid=ecccb3f7-d3d7-41fb-b2fb-32352c578813)| San Francisco | Software Engineer|
-|[Bridgewater Associates](https://boards.greenhouse.io/bridgewater89/jobs/4076429002)| Westport, CT | Investment Logic Engineer |
 |[D.E. Shaw](https://www.deshaw.com/careers/software-developer-new-york-2646)| New York, NY | Software Developer |
 |[Facebook](https://www.facebook.com/careers/jobs/?q=university%20grad)| Los Angeles, Menlo Park, Seattle, Washington DC, Boston, New York, other locations | Software, Network, Quant Research, Research Engineer |
 |[Goldman Sachs](https://goldmansachs.tal.net/vx/lang-en-GB/mobile-0/brand-2/user-1786316/xf-6c8bbd207c0e/candidate/so/pm/1/pl/1/opp/1-New-Analyst-New-Associate-Full-time-roles/en-GB)| New York | |
