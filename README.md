@@ -50,3 +50,4 @@ Need interview prep? Check out Yangshun Tay's [Tech Interview Handbook](https://
 |[Palantir](https://jobs.lever.co/palantir/01dab70c-073c-4a22-bf76-fb6b9e0a75b0)| Palo Alto, New York, Seattle, Washington|Software Engineer, New Grad|
 |[Figma](https://jobs.lever.co/figma/31f60538-9c04-4dd3-821d-7980370f9be3)| San Francisco, CA |Software Engineer, New Grad (2021)|
 |[FedEx Services](https://careers.fedex.com/services/jobs/POSTING-3-247063?lang=en-US)| Pennsylvania |Full Stack Developer I|
+|[Morgan Stanley](https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-3786f0ce9359/candidate/so/pm/1/pl/1/opp/10102-2021-Technology-Full-Time-Analyst-Program-Mumbai-Bangalore/en-GB)| Mumbai, India | Full-Time Analyst|
