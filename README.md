@@ -57,7 +57,4 @@ Need interview prep? Check out Yangshun Tay's [Tech Interview Handbook](https://
 |[Mastercard](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/San-Francisco-California/Software-Development-Engineer-I_R-112958-1/?source=LINKEDIN)|San Francisco, CA|Software Engineer I|
 |[Walmart](https://careers.walmart.com/us/jobs/WD294738-2021-campus-software-engineer)|Bentonville, AR|2021 Campus: Software Engineer
 |[Coinbase](https://www.coinbase.com/careers/positions/1724688)|San Francisco, CA|University Grad, Software Engineer (Remote)
-|[Verkada](https://jobs.lever.co/verkada/508bb40a-83b5-41fd-91c8-03c5b4c44e05)|San Mateo, CA|Back End, University Graduate
-|[Verkada](https://jobs.lever.co/verkada/08dae376-80a4-4df9-b862-c198760cf8c2)|San Mateo, CA|Front end, University Graduate
-|[Verkada](https://jobs.lever.co/verkada/b5296e85-99d4-414f-9e07-bce48266e922)|San Mateo, CA|Computer Vision, University Graduate
-|[Verkada](https://jobs.lever.co/verkada/21602ef3-ec1f-4c02-8a86-c86efea3ad08)|San Mateo, CA|Embedded Systems, University Graduate
+|[Verkada](https://jobs.lever.co/verkada/508bb40a-83b5-41fd-91c8-03c5b4c44e05)|San Mateo, CA|Back End, [Front End](https://jobs.lever.co/verkada/08dae376-80a4-4df9-b862-c198760cf8c2), [Comp Vision](https://jobs.lever.co/verkada/b5296e85-99d4-414f-9e07-bce48266e922), [Embedded Systems](https://jobs.lever.co/verkada/21602ef3-ec1f-4c02-8a86-c86efea3ad08)|
