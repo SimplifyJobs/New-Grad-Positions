@@ -61,4 +61,5 @@ Need interview prep? Check out Yangshun Tay's [Tech Interview Handbook](https://
 |[Plaid](https://jobs.lever.co/plaid/58690464-4e63-4180-8dc7-a1e87a18fb6d)|San Francisco|[Utah](https://jobs.lever.co/plaid/32597039-3497-4876-ad70-c23d95f55d32), [NYC](https://jobs.lever.co/plaid/02998813-cd2a-4449-9eb1-49ee383d977f)|
 |[Factset](https://factset.wd1.myworkdayjobs.com/en-US/FactSetCareers/job/New-York-NY-USA/Software-Engineer---US-Campus--2021-_R7733)|Various|Software Engineer - US Campus (2021)|
 |[Citi](https://citi.avature.net/careers/ProjectDetail/New-York-New-York-United-States-NAM-ICG-Technology-Full-Time-Software-Development-Analyst-New-York-City-North-America-2021-/10721)|Various|Software Development Analyst|
+|[Vanguard](https://www.vanguardjobs.com/job/11233910/developer-entry-level-2021-start-date-malvern-pa/)|Malvern, PA|Developer|
 
