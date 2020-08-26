@@ -55,4 +55,10 @@ Need interview prep? Check out Yangshun Tay's [Tech Interview Handbook](https://
 |[IBM](https://www.ibm.com/us-en/employment/entrylevel/#jobs?%23jobs=&job-search=)|Various|Cognitive Developer, Back End Developer, Front End Developer, Research Software Engineer, etc|
 |[Anduril](https://jobs.lever.co/anduril/9a88ea8a-2017-41d4-b02b-2482db6cb4f9/apply?lever-source=PittCSC)|Seattle, WA|Software Engineer - New Grad|
 |[Mastercard](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/San-Francisco-California/Software-Development-Engineer-I_R-112958-1/?source=LINKEDIN)|San Francisco, CA|Software Engineer I|
+|[Walmart](https://careers.walmart.com/us/jobs/WD294738-2021-campus-software-engineer)|Bentonville, AR|2021 Campus: Software Engineer
+|[Coinbase](https://www.coinbase.com/careers/positions/1724688)|San Francisco, CA|University Grad, Software Engineer (Remote)
+|[Verkada](https://jobs.lever.co/verkada/508bb40a-83b5-41fd-91c8-03c5b4c44e05)|San Mateo, CA|Back End, [Front End](https://jobs.lever.co/verkada/08dae376-80a4-4df9-b862-c198760cf8c2), [Comp Vision](https://jobs.lever.co/verkada/b5296e85-99d4-414f-9e07-bce48266e922), [Embedded Systems](https://jobs.lever.co/verkada/21602ef3-ec1f-4c02-8a86-c86efea3ad08)|
+|[Plaid](https://jobs.lever.co/plaid/58690464-4e63-4180-8dc7-a1e87a18fb6d)|San Francisco|[Utah](https://jobs.lever.co/plaid/32597039-3497-4876-ad70-c23d95f55d32), [NYC](https://jobs.lever.co/plaid/02998813-cd2a-4449-9eb1-49ee383d977f)|
+|[Factset](https://factset.wd1.myworkdayjobs.com/en-US/FactSetCareers/job/New-York-NY-USA/Software-Engineer---US-Campus--2021-_R7733)|Various|Software Engineer - US Campus (2021)|
 |[Citi](https://citi.avature.net/careers/ProjectDetail/New-York-New-York-United-States-NAM-ICG-Technology-Full-Time-Software-Development-Analyst-New-York-City-North-America-2021-/10721)|Various|Software Development Analyst|
+
