@@ -62,4 +62,4 @@ Need interview prep? Check out Yangshun Tay's [Tech Interview Handbook](https://
 |[Factset](https://factset.wd1.myworkdayjobs.com/en-US/FactSetCareers/job/New-York-NY-USA/Software-Engineer---US-Campus--2021-_R7733)|Various|Software Engineer - US Campus (2021)|
 |[Citi](https://citi.avature.net/careers/ProjectDetail/New-York-New-York-United-States-NAM-ICG-Technology-Full-Time-Software-Development-Analyst-New-York-City-North-America-2021-/10721)|Various|Software Development Analyst|
 |[Vanguard](https://www.vanguardjobs.com/job/11233910/developer-entry-level-2021-start-date-malvern-pa/)|Malvern, PA|Developer|
-
+|[Roblox](https://corp.roblox.com/careers/listing/?gh_jid=1777652)|San Mateo, CA|Software Engineer - Backend (New College Grad 2020)|
