@@ -51,7 +51,6 @@ Need interview prep? Check out Yangshun Tay's [Tech Interview Handbook](https://
 |[Hudson River Trading](https://www.hudsonrivertrading.com/careers/job/?gh_jid=86641)| Various |Software Engineer - On Campus Recruiting|
 |[Benchling](https://www.benchling.com/careers/?gh_jid=2235318#detail)| San Francisco, CA / Boston, MA |Software Engineer, New Grad 2020 & 2021|
 |[PIMCO](https://careers.pimco.com/careers/FolderDetail/2021-Full-time-Tech-Analyst-Software-Engineering/28909)| Various |2021 Full-time Tech Analyst, Software Engineering|
-|[Seat Geek](https://www.linkedin.com/jobs/view/1988894105/?alternateChannel=search&refId=%2B5Klv2HPInOcI04537NONA%3D%3D&trk=flagship3_jobs_discovery_jymbii)| New York |Software Engineer - New Graduate|
 |[IBM](https://www.ibm.com/us-en/employment/entrylevel/#jobs?%23jobs=&job-search=)|Various|Cognitive Developer, Back End Developer, Front End Developer, Research Software Engineer, etc|
 |[Anduril](https://jobs.lever.co/anduril/9a88ea8a-2017-41d4-b02b-2482db6cb4f9/apply?lever-source=PittCSC)|Seattle, WA|Software Engineer - New Grad|
 |[Mastercard](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/San-Francisco-California/Software-Development-Engineer-I_R-112958-1/?source=LINKEDIN)|San Francisco, CA|Software Engineer I|
