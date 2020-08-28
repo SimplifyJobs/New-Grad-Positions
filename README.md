@@ -63,4 +63,4 @@ Need interview prep? Check out Yangshun Tay's [Tech Interview Handbook](https://
 |[Vanguard](https://www.vanguardjobs.com/job/11233910/developer-entry-level-2021-start-date-malvern-pa/)|Malvern, PA|Developer|
 |[Roblox](https://corp.roblox.com/careers/listing/?gh_jid=1777652)|San Mateo, CA|Software Engineer - Backend (New College Grad 2020)|
 |[Quora](https://boards.greenhouse.io/quora2/jobs/4810866002?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)|Remote - Anywhere|Software Engineer (New Grad 2021)
-|[NVIDIA](https://nvidia.wd5.myworkdayjobs.com/en-US/UniversityJobs)|Santa Clara, CA|Texas, Utah, etc
+|[NVIDIA](https://nvidia.wd5.myworkdayjobs.com/en-US/UniversityJobs/job/US-MA-Westford/Verification-Engineer---New-College-Grad_JR1924728)|Santa Clara, CA|Texas, Utah, etc
