@@ -29,7 +29,7 @@ Need interview prep? Check out Yangshun Tay's [Tech Interview Handbook](https://
 |[DRW](https://drw.com/careers/job/1352350)| Chicago, Austin | |
 |[Jump Trading](https://www.jumptrading.com/apply.html?gh_jid=1847809)| Chicago | |
 |[SAP](https://jobs.sap.com/job/Palo-Alto-Silicon-Valley-Next-Talent-Rotational-Program-2021-Job-CA-94303/609822201) | Palo Alto | |
-|[Belvedere](https://belvederetrading.applicantstack.com/x/detail/a2sa4x0hfsr9?noia=1) | Chicago | |
+|[Belvedere](https://belvederetrading.applicantstack.com/x/detail/a2sa4x0hfsr9?noia=1) | Chicago | [Software Engineer](http://belvederetrading.applicantstack.com/x/detail/a2sa4x0hfsr9) |
 |[Citadel](https://www.citadel.com/careers/details/software-engineering-rotation-program-full-time-us/)| Chicago | Software Engineering Rotation Program – Full Time |
 |[Citrix](https://jobs.citrix.com/job/R22177/University-Software-Engineer-2021)| Various | |
 |[Robinhood](https://boards.greenhouse.io/robinhood/jobs/2214430) | Menlo Park | More [here](https://boards.greenhouse.io/robinhood/jobs/2214430) |
@@ -64,6 +64,5 @@ Need interview prep? Check out Yangshun Tay's [Tech Interview Handbook](https://
 |[Roblox](https://corp.roblox.com/careers/listing/?gh_jid=1777652)|San Mateo, CA|Software Engineer - Backend (New College Grad 2020)|
 |[Quora](https://boards.greenhouse.io/quora2/jobs/4810866002?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)|Remote - Anywhere|Software Engineer (New Grad 2021)
 |[NVIDIA](https://nvidia.wd5.myworkdayjobs.com/en-US/UniversityJobs/job/US-MA-Westford/Verification-Engineer---New-College-Grad_JR1924728)|Santa Clara, CA|Texas, Utah, etc
-|[Belvedere Trading](http://belvederetrading.applicantstack.com/x/detail/a2sa4x0hfsr9)|Chicago|Software Engineer |
 |[DiDi Labs](https://boards.greenhouse.io/didi/jobs/2281086)|Mountain View|Student Careers at DiDi 2021|
 |[Mathwork](https://www.mathworks.com/company/jobs/opportunities/16217-multiple-openings-engineering-development-group-u-s)||Multiple Openings - Engineering Development Group - U.S.|
