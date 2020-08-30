@@ -65,5 +65,5 @@ Need interview prep? Check out Yangshun Tay's [Tech Interview Handbook](https://
 |[Quora](https://boards.greenhouse.io/quora2/jobs/4810866002?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)|Remote - Anywhere|Software Engineer (New Grad 2021)
 |[NVIDIA](https://nvidia.wd5.myworkdayjobs.com/en-US/UniversityJobs/job/US-MA-Westford/Verification-Engineer---New-College-Grad_JR1924728)|Santa Clara, CA|Texas, Utah, etc
 |[DiDi Labs](https://boards.greenhouse.io/didi/jobs/2281086)|Mountain View|Student Careers at DiDi 2021|
-|[Mathwork](https://www.mathworks.com/company/jobs/opportunities/16217-multiple-openings-engineering-development-group-u-s)||Multiple Openings - Engineering Development Group - U.S.|
+|[Mathworks](https://www.mathworks.com/company/jobs/opportunities/16217-multiple-openings-engineering-development-group-u-s)||Multiple Openings - Engineering Development Group - U.S.|
 |[mongoDB](https://www.mongodb.com/careers/jobs/2309034?gh_src=0wcvpq1)|New York City|New Grad - Software Engineer 2021|
