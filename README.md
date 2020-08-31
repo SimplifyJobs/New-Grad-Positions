@@ -69,3 +69,4 @@ Need interview prep? Check out Yangshun Tay's [Tech Interview Handbook](https://
 |[mongoDB](https://www.mongodb.com/careers/jobs/2309034?gh_src=0wcvpq1)|New York City|New Grad - Software Engineer 2021|
 |[Orchard](https://boards.greenhouse.io/perch1/jobs/4822825002?gh_src=f2d78a2f2us)|New York City|New Grad - Software Engineer|
 |[WillowTree](https://willowtreeapps.com/careers/jobs/4795388002/software-engineer-(new-grad))|Colombus, Ohio| New Grad - Software Engineer|
+|[Yext](https://boards.greenhouse.io/yext/jobs/2290402)|New York, Washington DC| New Grad - Software Engineer|
