@@ -53,7 +53,6 @@ Need interview prep? Check out Yangshun Tay's [Tech Interview Handbook](https://
 |[PIMCO](https://careers.pimco.com/careers/FolderDetail/2021-Full-time-Tech-Analyst-Software-Engineering/28909)| Various |2021 Full-time Tech Analyst, Software Engineering|
 |[IBM](https://www.ibm.com/us-en/employment/entrylevel/#jobs?%23jobs=&job-search=)|Various|Cognitive Developer, Back End Developer, Front End Developer, Research Software Engineer, etc|
 |[Anduril](https://jobs.lever.co/anduril/9a88ea8a-2017-41d4-b02b-2482db6cb4f9/apply?lever-source=PittCSC)|Seattle, WA|Software Engineer - New Grad|
-|[Mastercard](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/San-Francisco-California/Software-Development-Engineer-I_R-112958-1/?source=LINKEDIN)|San Francisco, CA|Software Engineer I|
 |[Walmart](https://careers.walmart.com/us/jobs/WD294738-2021-campus-software-engineer)|Bentonville, AR|2021 Campus: Software Engineer
 |[Coinbase](https://www.coinbase.com/careers/positions/1724688)|San Francisco, CA|University Grad, Software Engineer (Remote)
 |[Verkada](https://jobs.lever.co/verkada/508bb40a-83b5-41fd-91c8-03c5b4c44e05)|San Mateo, CA|Back End, [Front End](https://jobs.lever.co/verkada/08dae376-80a4-4df9-b862-c198760cf8c2), [Comp Vision](https://jobs.lever.co/verkada/b5296e85-99d4-414f-9e07-bce48266e922), [Embedded Systems](https://jobs.lever.co/verkada/21602ef3-ec1f-4c02-8a86-c86efea3ad08)|
@@ -71,3 +70,4 @@ Need interview prep? Check out Yangshun Tay's [Tech Interview Handbook](https://
 |[WillowTree](https://willowtreeapps.com/careers/jobs/4795388002/software-engineer-(new-grad))|Colombus, Ohio| New Grad - Software Engineer|
 |[Yext](https://boards.greenhouse.io/yext/jobs/2290402)|New York, Washington DC| New Grad - Software Engineer|
 |[Expanse](https://boards.greenhouse.io/embed/job_app?token=4803222002)|Atlanta, GA , San Francisco, CA|Software Engineer - New College Graduate|
+|[Datadog](https://www.datadoghq.com/careers/detail/?gh_jid=1826267)|Boston, New York|Software Engineer - Recent Grad|
