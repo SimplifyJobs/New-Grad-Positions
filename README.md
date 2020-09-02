@@ -71,3 +71,4 @@ Need interview prep? Check out Yangshun Tay's [Tech Interview Handbook](https://
 |[Yext](https://boards.greenhouse.io/yext/jobs/2290402)|New York, Washington DC| New Grad - Software Engineer|
 |[Expanse](https://boards.greenhouse.io/embed/job_app?token=4803222002)|Atlanta, GA , San Francisco, CA|Software Engineer - New College Graduate|
 |[Datadog](https://www.datadoghq.com/careers/detail/?gh_jid=1826267)|Boston, New York|Software Engineer - Recent Grad|
+|[Applied Intuition](https://jobs.lever.co/applied/186f572c-f554-43bf-9c7c-0cb0885b1ea3/apply?lever-source=Glassdoor)|Mountain View|Software Engineer - New Grad|
