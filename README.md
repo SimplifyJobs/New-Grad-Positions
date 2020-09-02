@@ -71,4 +71,4 @@ Need interview prep? Check out Yangshun Tay's [Tech Interview Handbook](https://
 |[WillowTree](https://willowtreeapps.com/careers/jobs/4795388002/software-engineer-(new-grad))|Colombus, Ohio| New Grad - Software Engineer|
 |[Yext](https://boards.greenhouse.io/yext/jobs/2290402)|New York, Washington DC| New Grad - Software Engineer|
 |[Expanse](https://boards.greenhouse.io/embed/job_app?token=4803222002)|Atlanta, GA , San Francisco, CA|Software Engineer - New College Graduate|
-|[Datadog](https://www.datadoghq.com/careers/detail/?gh_jid=1826267&gh_src=8363eca61)|‌Boston, New York|Software Engineer - Recent Grad|
+|[Datadog](https://www.datadoghq.com/careers/detail/?gh_jid=1826267)|Boston, New York|Software Engineer - Recent Grad|
