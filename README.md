@@ -13,7 +13,6 @@ Need interview prep? Check out Yangshun Tay's [Tech Interview Handbook](https://
 | Name  |  Location |  Notes |
 |---|---|-------------|
 |[Akuna Capital](https://akunacapital.com/job-details?gh_jid=2236978&gh_src=fcb01e3f1us) | Chicago, IL | Junior Developer (Software)|
-|[Blend](https://blend.com/company/careers/opening/?oid=ecccb3f7-d3d7-41fb-b2fb-32352c578813)| San Francisco | Software Engineer|
 |[D.E. Shaw](https://www.deshaw.com/careers/software-developer-new-york-2646)| New York, NY | Software Developer |
 |[Facebook](https://www.facebook.com/careers/jobs/?q=university%20grad)| Los Angeles, Menlo Park, Seattle, Washington DC, Boston, New York, other locations | Software, Network, Quant Research, Research Engineer |
 |[IMC](https://careers.imc.com/us/en/c/graduates-jobs) | Chicago, Sydney, Amsterdam | Software, Hardware, Quant Trader|
