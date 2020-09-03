@@ -67,7 +67,6 @@ Need interview prep? Check out Yangshun Tay's [Tech Interview Handbook](https://
 |[Orchard](https://boards.greenhouse.io/perch1/jobs/4822825002?gh_src=f2d78a2f2us)|New York City|New Grad - Software Engineer|
 |[WillowTree](https://willowtreeapps.com/careers/jobs/4795388002/software-engineer-(new-grad))|Colombus, Ohio| New Grad - Software Engineer|
 |[Yext](https://boards.greenhouse.io/yext/jobs/2290402)|New York, Washington DC| New Grad - Software Engineer|
-|[Expanse](https://boards.greenhouse.io/embed/job_app?token=4803222002)|Atlanta, GA , San Francisco, CA|Software Engineer - New College Graduate|
 |[Datadog](https://www.datadoghq.com/careers/detail/?gh_jid=1826267)|Boston, New York|Software Engineer - Recent Grad|
 |[Applied Intuition](https://jobs.lever.co/applied/186f572c-f554-43bf-9c7c-0cb0885b1ea3/apply)|Mountain View|Software Engineer - New Grad|
 |[Affirm](https://boards.greenhouse.io/affirm/jobs/4114396003) | SF | |
