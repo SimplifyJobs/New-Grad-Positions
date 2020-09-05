@@ -73,3 +73,19 @@ Need interview prep?  Check out the [Zero to Offer 📈 program here](https://ww
 |[Nightfall](https://jobs.lever.co/nightfall/80cdcd6e-1d19-41c5-9eeb-ee1b3d4d5a56)|San Franciso| New Grad - Backend Engineer(Remote)|
 |[Apple](https://jobs.apple.com/en-us/details/200189775/software-or-machine-learning-engineer-entry-level?team=SFTWR) | Cupertino | Software or Machine Learning Engineer|
 |[Roblox](https://corp.roblox.com/careers/listing/?gh_jid=2322821) | San Mateo | |
+|[Goldman Sachs](https://www.goldmansachs.com/careers/students/programs/americas/new-analyst-program.html) | Various | |
+|[Expedia](https://lifeatexpediagroup.com/jobs/job?jobid=R-55584) | Seattle | |
+|[Five Rings Capital](https://jobs.jobvite.com/fiverings/job/oRiIcfwN) | NYC | |
+|[General Mills](https://careers.generalmills.com/job/11289689/digital-and-technology-early-career-program-minneapolis-mn/) | Minneapolis | |
+|[Honeywell](https://careers.honeywell.com/us/en/job/req238515/Computer-Software-Engineer-Computer-Science-Recent-Grad-Full-Time) | Various | |
+|[McKinsey](https://www.mckinsey.com/careers/search-jobs/jobs/analyst-softwareengineerdataengineerdatascientist-campusstudents-41876) | Atlanta, Austin, Boston, Chicago, Dallas, Denver, NJ, NYC, SF, SV , SoCal | |
+|[Peak6](https://boards.greenhouse.io/capitalmanagement/jobs/2259594) | Chicago | |
+|[Pendo](https://boards.greenhouse.io/pendo/jobs/4821861002) | Raleigh, NC | |
+|[Qumulo](https://qumulo.com/company/jobs/?gh_jid=2290068#details) | Seattle, WA | |
+|[Squarepoint Capital](https://www.squarepoint-capital.com/job#475700) | London, Montreal, Singapore | |
+|[Textron](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=284978&tz=GMT-04:00&tzname=America/Toronto) | Missoula, MT | |
+|[Wolverine Trading](https://chu.tbe.taleo.net/chu01/ats/careers/v2/viewRequisition?org=WOLVE&cws=37&rid=311) | Chicago | |
+|[Appian](https://www.appian.com/careers/search/job/?gh_jid=2305797&job_name=software-engineer&location=mclean-virginia)| McLean, VA | |
+|[BNY Mellon](https://jobs.bnymellon.com/jobs/2007808) | NYC, Jersey City, Pittsburgh | |
+|[Clearbanc](http://clearbanc.hrmdirect.com/employment/job-opening.php?req=1377841#job) | Toronto | |
+|[Cockroach Labs](https://www.cockroachlabs.com/careers/job/?gh_jid=2177472) | NYC | |
