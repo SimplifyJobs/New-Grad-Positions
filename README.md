@@ -89,4 +89,3 @@ Need interview prep?  Check out the [Zero to Offer 📈 program here](https://ww
 |[BNY Mellon](https://jobs.bnymellon.com/jobs/2007808) | NYC, Jersey City, Pittsburgh | |
 |[Clearbanc](http://clearbanc.hrmdirect.com/employment/job-opening.php?req=1377841#job) | Toronto | |
 |[Cockroach Labs](https://www.cockroachlabs.com/careers/job/?gh_jid=2177472) | NYC | |
-|[Expedia Group](https://expedia.wd5.myworkdayjobs.com/en-US/search/job/Washington---Seattle-Campus/New-Graduate---Software-Development-Engineer-I_R-55584?source=lifeatexpedia&pk_vid=19bdcd309dc004581599428494ac7ef0) | Seattle, WA | |
