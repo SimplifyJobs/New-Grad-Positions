@@ -78,7 +78,6 @@ Need interview prep?  Check out the [Zero to Offer 📈 program here](https://ww
 |[Five Rings Capital](https://jobs.jobvite.com/fiverings/job/oRiIcfwN) | NYC | |
 |[General Mills](https://careers.generalmills.com/job/11289689/digital-and-technology-early-career-program-minneapolis-mn/) | Minneapolis | |
 |[Honeywell](https://careers.honeywell.com/us/en/job/req238515/Computer-Software-Engineer-Computer-Science-Recent-Grad-Full-Time) | Various | |
-|[McKinsey](https://www.mckinsey.com/careers/search-jobs/jobs/analyst-softwareengineerdataengineerdatascientist-campusstudents-41876) | Atlanta, Austin, Boston, Chicago, Dallas, Denver, NJ, NYC, SF, SV , SoCal | |
 |[Peak6](https://boards.greenhouse.io/capitalmanagement/jobs/2259594) | Chicago | |
 |[Pendo](https://boards.greenhouse.io/pendo/jobs/4821861002) | Raleigh, NC | |
 |[Qumulo](https://qumulo.com/company/jobs/?gh_jid=2290068#details) | Seattle, WA | |
