@@ -4,7 +4,7 @@ The 2021 Full time grind has begun! Use this repo to share and keep track of any
 
 Looking for internships? Check out our **internship repo** [here](https://github.com/Pitt-CSC/Summer2021-Internships).
 
-Need interview prep? Check out Yangshun Tay's [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/) for help!
+Need interview prep?  Check out the [Zero to Offer 📈 program here](https://www.pittcs.wiki/zero-to-offer).
 
 **Contribute by making a pull request or using [this Google Form](https://bit.ly/3cUV89H)!**
 
@@ -13,10 +13,8 @@ Need interview prep? Check out Yangshun Tay's [Tech Interview Handbook](https://
 | Name  |  Location |  Notes |
 |---|---|-------------|
 |[Akuna Capital](https://akunacapital.com/job-details?gh_jid=2236978&gh_src=fcb01e3f1us) | Chicago, IL | Junior Developer (Software)|
-|[Blend](https://blend.com/company/careers/opening/?oid=ecccb3f7-d3d7-41fb-b2fb-32352c578813)| San Francisco | Software Engineer|
 |[D.E. Shaw](https://www.deshaw.com/careers/software-developer-new-york-2646)| New York, NY | Software Developer |
 |[Facebook](https://www.facebook.com/careers/jobs/?q=university%20grad)| Los Angeles, Menlo Park, Seattle, Washington DC, Boston, New York, other locations | Software, Network, Quant Research, Research Engineer |
-|[Goldman Sachs](https://goldmansachs.tal.net/vx/lang-en-GB/mobile-0/brand-2/user-1786316/xf-6c8bbd207c0e/candidate/so/pm/1/pl/1/opp/1-New-Analyst-New-Associate-Full-time-roles/en-GB)| New York | |
 |[IMC](https://careers.imc.com/us/en/c/graduates-jobs) | Chicago, Sydney, Amsterdam | Software, Hardware, Quant Trader|
 |[Jane Street](https://www.janestreet.com/join-jane-street/position/4743431002/) | New York | Software Engineer|
 |[LeetCode](https://www.cognitoforms.com/LeetCodeLLC/LeetCodeFullStackEngineerApplicationNewGrad)| | |
@@ -60,7 +58,6 @@ Need interview prep? Check out Yangshun Tay's [Tech Interview Handbook](https://
 |[Factset](https://factset.wd1.myworkdayjobs.com/en-US/FactSetCareers/job/New-York-NY-USA/Software-Engineer---US-Campus--2021-_R7733)|Various|Software Engineer - US Campus (2021)|
 |[Citi](https://citi.avature.net/careers/ProjectDetail/New-York-New-York-United-States-NAM-ICG-Technology-Full-Time-Software-Development-Analyst-New-York-City-North-America-2021-/10721)|Various|Software Development Analyst|
 |[Vanguard](https://www.vanguardjobs.com/job/11233910/developer-entry-level-2021-start-date-malvern-pa/)|Malvern, PA|Developer|
-|[Roblox](https://corp.roblox.com/careers/listing/?gh_jid=1777652)|San Mateo, CA|Software Engineer - Backend (New College Grad 2020)|
 |[Quora](https://boards.greenhouse.io/quora2/jobs/4810866002?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)|Remote - Anywhere|Software Engineer (New Grad 2021)
 |[NVIDIA](https://nvidia.wd5.myworkdayjobs.com/en-US/UniversityJobs/job/US-MA-Westford/Verification-Engineer---New-College-Grad_JR1924728)|Santa Clara, CA|Texas, Utah, etc
 |[DiDi Labs](https://boards.greenhouse.io/didi/jobs/2281086)|Mountain View|Student Careers at DiDi 2021|
@@ -69,6 +66,30 @@ Need interview prep? Check out Yangshun Tay's [Tech Interview Handbook](https://
 |[Orchard](https://boards.greenhouse.io/perch1/jobs/4822825002?gh_src=f2d78a2f2us)|New York City|New Grad - Software Engineer|
 |[WillowTree](https://willowtreeapps.com/careers/jobs/4795388002/software-engineer-(new-grad))|Colombus, Ohio| New Grad - Software Engineer|
 |[Yext](https://boards.greenhouse.io/yext/jobs/2290402)|New York, Washington DC| New Grad - Software Engineer|
-|[Expanse](https://boards.greenhouse.io/embed/job_app?token=4803222002)|Atlanta, GA , San Francisco, CA|Software Engineer - New College Graduate|
 |[Datadog](https://www.datadoghq.com/careers/detail/?gh_jid=1826267)|Boston, New York|Software Engineer - Recent Grad|
 |[Applied Intuition](https://jobs.lever.co/applied/186f572c-f554-43bf-9c7c-0cb0885b1ea3/apply)|Mountain View|Software Engineer - New Grad|
+|[Thrivecash](https://jobs.lever.co/thrive/679241fc-cd3a-45da-af66-f442034c90fb)|San Franciso| New Grad - Software Engineer|
+|[Nightfall](https://jobs.lever.co/nightfall/80cdcd6e-1d19-41c5-9eeb-ee1b3d4d5a56)|San Franciso| New Grad - Backend Engineer(Remote)|
+|[Apple](https://jobs.apple.com/en-us/details/200189775/software-or-machine-learning-engineer-entry-level?team=SFTWR) | Cupertino | Software or Machine Learning Engineer|
+|[Roblox](https://corp.roblox.com/careers/listing/?gh_jid=2322821) | San Mateo | |
+|[Goldman Sachs](https://www.goldmansachs.com/careers/students/programs/americas/new-analyst-program.html) | Various | |
+|[Expedia](https://lifeatexpediagroup.com/jobs/job?jobid=R-55584) | Seattle | |
+|[Five Rings Capital](https://jobs.jobvite.com/fiverings/job/oRiIcfwN) | NYC | |
+|[General Mills](https://careers.generalmills.com/job/11289689/digital-and-technology-early-career-program-minneapolis-mn/) | Minneapolis | |
+|[Honeywell](https://careers.honeywell.com/us/en/job/req238515/Computer-Software-Engineer-Computer-Science-Recent-Grad-Full-Time) | Various | |
+|[Peak6](https://boards.greenhouse.io/capitalmanagement/jobs/2259594) | Chicago | |
+|[Pendo](https://boards.greenhouse.io/pendo/jobs/4821861002) | Raleigh, NC | |
+|[Qumulo](https://qumulo.com/company/jobs/?gh_jid=2290068#details) | Seattle, WA | |
+|[Squarepoint Capital](https://www.squarepoint-capital.com/job#475700) | London, Montreal, Singapore | |
+|[Textron](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=284978&tz=GMT-04:00&tzname=America/Toronto) | Missoula, MT | |
+|[Wolverine Trading](https://chu.tbe.taleo.net/chu01/ats/careers/v2/viewRequisition?org=WOLVE&cws=37&rid=311) | Chicago | |
+|[Appian](https://www.appian.com/careers/search/job/?gh_jid=2305797&job_name=software-engineer&location=mclean-virginia)| McLean, VA | |
+|[BNY Mellon](https://jobs.bnymellon.com/jobs/2007808) | NYC, Jersey City, Pittsburgh | |
+|[Clearbanc](http://clearbanc.hrmdirect.com/employment/job-opening.php?req=1377841#job) | Toronto | |
+|[Cockroach Labs](https://www.cockroachlabs.com/careers/job/?gh_jid=2177472) | NYC | |
+|[Clumio](https://clumio.com/careers/?gh_jid=4478429002)|Santa Clara, California|Software Engineer, University Graduate|
+|[databricks](https://databricks.com/company/careers/open-positions/job?gh_jid=4780023002)|San Francisco, California|Software Engineer, New Grad(2021)|
+|[Twilio](https://boards.greenhouse.io/twilio/jobs/2321815)|California, Colarado|Software Engineer, New Graduate|
+|[C3.ai](https://c3.ai/job-description/?gh_jid=4416889002)|Redwood City, California|Software Engineer, Early Professional(2021)|
+|[Viasat](https://careers.viasat.com/careers/FolderDetail/Software-Engineer-University-Grad/5800)|Carlsbad, California|Software Engineer, University Grad|
+|[Bloomberg](https://careers.bloomberg.com/job/detail/84014)|New York|2021 Software Engineer|
