@@ -93,3 +93,4 @@ Need interview prep?  Check out the [Zero to Offer 📈 program here](https://ww
 |[C3.ai](https://c3.ai/job-description/?gh_jid=4416889002)|Redwood City, California|Software Engineer, Early Professional(2021)|
 |[Viasat](https://careers.viasat.com/careers/FolderDetail/Software-Engineer-University-Grad/5800)|Carlsbad, California|Software Engineer, University Grad|
 |[Bloomberg](https://careers.bloomberg.com/job/detail/84014)|New York|2021 Software Engineer|
+|[Epsilon](https://www.smartrecruiters.com/PublicisGroupe/743999719329614-associate-software-engineer)|Chicago|Associate Software Engineer|
