@@ -95,3 +95,6 @@ Need interview prep?  Check out the [Zero to Offer 📈 program here](https://ww
 |[Bloomberg](https://careers.bloomberg.com/job/detail/84014)|New York|2021 Software Engineer|
 |[Epsilon](https://www.smartrecruiters.com/PublicisGroupe/743999719329614-associate-software-engineer)|Chicago|Associate Software Engineer|
 |[eBay](https://jobs.ebayinc.com/job/san-jose/software-engineer-recent-grad/403/1054728320)|San Jose, California, Bellevue, Washington, New York, New York, Portland, Oregon|Software Egineer, Recent Grad|
+|[Pinterest](https://www.pinterestcareers.com/jobs/university-grad-software-engineer-san-francisco-california-united-states)|San Francisco|University Grad Software Engineer|
+|[memSQL](https://boards.greenhouse.io/memsql/jobs/2328586)|San Francisco|Software Engineer,University Grad|
+|[Verizon Media](https://vzbuilders.wd5.myworkdayjobs.com/en-US/careers/job/US---Sunnyvale/Assoc-Software-Dev-Engineer_JR0014308)|Sunnyvale,CA|Associate Software Engineer|
