@@ -98,3 +98,18 @@ Need interview prep?  Check out the [Zero to Offer 📈 program here](https://ww
 |[Pinterest](https://www.pinterestcareers.com/jobs/university-grad-software-engineer-san-francisco-california-united-states)|San Francisco|University Grad Software Engineer|
 |[memSQL](https://boards.greenhouse.io/memsql/jobs/2328586)|San Francisco|Software Engineer,University Grad|
 |[Verizon Media](https://vzbuilders.wd5.myworkdayjobs.com/en-US/careers/job/US---Sunnyvale/Assoc-Software-Dev-Engineer_JR0014308)|Sunnyvale,CA|Associate Software Engineer|
+|[Veeva](https://jobs.lever.co/veeva/689b64ea-1518-483e-9c47-b41fd72fdcfa)| Pleasanton | |
+|[DoorDash](https://boards.greenhouse.io/doordash/jobs/2337990?gh_jid=2337990)| SF, NYC, Mtn View | |
+|[Salesforce](https://salesforce.wd1.myworkdayjobs.com/en-US/Futureforce_NewGradRoles/job/California---San-Francisco/AMTS-Software-Engineer_JR71195?d=cta-hm-explore-grads-2) | Various | |
+|[John Deere](https://jobs.deere.com/job/Moline-Engineering-Development-Program-2021a-IL-61265/673423600/?from=email&refid=12401133500&utm_source=J2WEmail&source=2&eid=40700-202015090415-20580782800&locale=en_US) | Moline , IL | |
+|[Cogo Labs](https://boards.greenhouse.io/cogolabs/jobs/4839535002) | Boston | |
+|[Scholastic](https://scholastic.referrals.selectminds.com/jobs/associate-software-engineer-recent-graduate-college-hire-6397)| NYC | |
+|[Bolt](https://jobs.lever.co/bolt/5a260836-617b-47c4-a4d5-51fd012070d8) | SF | |
+|[Nvidia](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Algorithms-and-Machine-Learning---New-College-Grad_JR1932394-2) | Santa Clara, CA | |
+|[American Express](https://jobs.americanexpress.com/jobs/20006557?lang=en-us&previousLocale=en-US) | Various | |
+|[CapTech](https://jobs.smartrecruiters.com/CapTechConsulting/743999715469518-software-engineering-consultant-graduating-dec-2020-may-2021-) | Richmond,VA | |
+|[IXL Learning](https://www.ixl.com/company/careers?gh_jid=4776947002) | San Mateo, CA | |
+|[Cigna](https://jobs.cigna.com/us/en/technology-early-career-development-program) | Various | |
+|[arm](https://careers.arm.com/job/austin/graduate-software-engineer/33099/992655504) | Austin, TX | |
+|[WhatsApp](https://www.whatsapp.com/join/?dept=whatsapp&id=a1K2K000007ubgBUAQ) | Menlo Park, CA | |
+|[Motorola](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Chicago-IL/Software-Engineer_R7456?source=APPLICANT_SOURCE-6-250) | | |
