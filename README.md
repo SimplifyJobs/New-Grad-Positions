@@ -20,7 +20,6 @@ Need interview prep?  Check out the [Zero to Offer 📈 program here](https://ww
 |[LeetCode](https://www.cognitoforms.com/LeetCodeLLC/LeetCodeFullStackEngineerApplicationNewGrad)| | |
 |[Optiver](https://www.optiver.com/na/en/job-opportunities/us-4798943002?foo=bar)| Chicago, Illinois | Software Engineer |
 |[VMWare](https://careers.vmware.com/new-graduates/jobs/R2009349?lang=en-us)| Palo Alto, CA| |
-|Whisper.ai| San Francisco | |
 |[Paypal](https://jobsearch.paypal-corp.com/en-US/search?keywords=graduate&location=&facetcountry=us) | Various | Software Engineer |
 |[Neeva](https://jobs.lever.co/neeva/d95ffe9a-0717-49a0-be61-e59c5bf01b49)| Mtn. View, CA | |
 |[Two Sigma](https://careers.twosigma.com/careers/RegisterMethod?jobId=714&source=PittCSC)| NY | |
@@ -100,7 +99,6 @@ Need interview prep?  Check out the [Zero to Offer 📈 program here](https://ww
 |[Verizon Media](https://vzbuilders.wd5.myworkdayjobs.com/en-US/careers/job/US---Sunnyvale/Assoc-Software-Dev-Engineer_JR0014308)|Sunnyvale,CA|Associate Software Engineer|
 |[Veeva](https://jobs.lever.co/veeva/689b64ea-1518-483e-9c47-b41fd72fdcfa)| Pleasanton | |
 |[DoorDash](https://boards.greenhouse.io/doordash/jobs/2337990?gh_jid=2337990)| SF, NYC, Mtn View | |
-|[Salesforce](https://salesforce.wd1.myworkdayjobs.com/en-US/Futureforce_NewGradRoles/job/California---San-Francisco/AMTS-Software-Engineer_JR71195?d=cta-hm-explore-grads-2) | Various | |
 |[John Deere](https://jobs.deere.com/job/Moline-Engineering-Development-Program-2021a-IL-61265/673423600/?from=email&refid=12401133500&utm_source=J2WEmail&source=2&eid=40700-202015090415-20580782800&locale=en_US) | Moline , IL | |
 |[Cogo Labs](https://boards.greenhouse.io/cogolabs/jobs/4839535002) | Boston | |
 |[Scholastic](https://scholastic.referrals.selectminds.com/jobs/associate-software-engineer-recent-graduate-college-hire-6397)| NYC | |
@@ -113,3 +111,7 @@ Need interview prep?  Check out the [Zero to Offer 📈 program here](https://ww
 |[arm](https://careers.arm.com/job/austin/graduate-software-engineer/33099/992655504) | Austin, TX | |
 |[WhatsApp](https://www.whatsapp.com/join/?dept=whatsapp&id=a1K2K000007ubgBUAQ) | Menlo Park, CA | |
 |[Motorola](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Chicago-IL/Software-Engineer_R7456?source=APPLICANT_SOURCE-6-250) | | |
+|[SambaNova Systems](https://jobs.lever.co/sambanovasystems/46d43adb-03b7-41a5-9e56-732f7d33b46a) | Palo Alto | |
+|[Credera](https://www.credera.com/careers/students/jobs/2266582) | Various | |
+|[Ford](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25385&siteid=5311&PageType=JobDetails&jobid=497562#jobDetails=497562_5311) | Dearborn, MI | |
+|[Epic Systems](https://epic.avature.net/Careers/FolderDetail/Verona-Wisconsin-United-States-Software-Developer/740) | Wisconsin | | 
