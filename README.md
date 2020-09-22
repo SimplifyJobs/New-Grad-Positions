@@ -108,7 +108,6 @@ Need interview prep?  Check out the [Zero to Offer 📈 program here](https://ww
 |[CapTech](https://jobs.smartrecruiters.com/CapTechConsulting/743999715469518-software-engineering-consultant-graduating-dec-2020-may-2021-) | Richmond,VA | |
 |[IXL Learning](https://www.ixl.com/company/careers?gh_jid=4776947002) | San Mateo, CA | |
 |[Cigna](https://jobs.cigna.com/us/en/technology-early-career-development-program) | Various | |
-|[arm](https://careers.arm.com/job/austin/graduate-software-engineer/33099/992655504) | Austin, TX | |
 |[WhatsApp](https://www.whatsapp.com/join/?dept=whatsapp&id=a1K2K000007ubgBUAQ) | Menlo Park, CA | |
 |[Motorola](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Chicago-IL/Software-Engineer_R7456?source=APPLICANT_SOURCE-6-250) | | |
 |[SambaNova Systems](https://jobs.lever.co/sambanovasystems/46d43adb-03b7-41a5-9e56-732f7d33b46a) | Palo Alto | |
