@@ -93,6 +93,7 @@ Need interview prep?  Check out the [Zero to Offer 📈 program here](https://ww
 |[Viasat](https://careers.viasat.com/careers/FolderDetail/Software-Engineer-University-Grad/5800)|Carlsbad, California|Software Engineer, University Grad|
 |[Bloomberg](https://careers.bloomberg.com/job/detail/84014)|New York|2021 Software Engineer|
 |[Epsilon](https://www.smartrecruiters.com/PublicisGroupe/743999719329614-associate-software-engineer)|Chicago|Associate Software Engineer|
+|[TuSimple](https://boards.greenhouse.io/tusimple/jobs/4880809002)|San Diego, CA|(New Graduate) General Submission for Full-Time Employment|
 |[eBay](https://jobs.ebayinc.com/job/san-jose/software-engineer-recent-grad/403/1054728320)|San Jose, California, Bellevue, Washington, New York, New York, Portland, Oregon|Software Egineer, Recent Grad|
 |[Pinterest](https://www.pinterestcareers.com/jobs/university-grad-software-engineer-san-francisco-california-united-states)|San Francisco|University Grad Software Engineer|
 |[memSQL](https://boards.greenhouse.io/memsql/jobs/2328586)|San Francisco|Software Engineer,University Grad|
