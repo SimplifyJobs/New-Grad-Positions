@@ -118,5 +118,5 @@ Need interview prep?  Check out the [Zero to Offer 📈 program here](https://ww
 |[SeatGeek](https://seatgeek.com/jobs/107959) | New York | |
 |[Nextdoor](https://about.nextdoor.com/careers-list/?gh_jid=2337636)|San Francisco, CA|Software Engineer - New Grad
 |[Cloudflare](https://boards.greenhouse.io/cloudflare/jobs/2350116?gh_jid=2350116)|San Francisco, Austin, Champaign|Software Engineer - New Grad (2021)
-|[Blend](https://jobs.lever.co/blendlabs/ea55639b-3ab0-45d6-98fc-13d731ed766e?lever-origin=applied&lever-source%255B%255D=LinkedInPremium&lever-source=LinkedInJobs)|San Francisco|Software Engineer - New Grad (2021)
+|[Blend](https://jobs.lever.co/blendlabs/ea55639b-3ab0-45d6-98fc-13d731ed766e)|San Francisco|Software Engineer - New Grad (2021)
 |[Adobe](https://adobe.wd5.myworkdayjobs.com/en-US/external_university/job/Boston/Software-Development-University-Grad--Adobe-Sign-Enterprise_R100958-1)|Boston, San Jose|Software Development - University Grad (2021)
