@@ -120,4 +120,5 @@ Need interview prep?  Check out the [Zero to Offer 📈 program here](https://ww
 |[Cloudflare](https://boards.greenhouse.io/cloudflare/jobs/2350116?gh_jid=2350116)|San Francisco, Austin, Champaign|Software Engineer - New Grad (2021)
 |[Blend](https://jobs.lever.co/blendlabs/ea55639b-3ab0-45d6-98fc-13d731ed766e)|San Francisco|Software Engineer - New Grad (2021)
 |[Adobe](https://adobe.wd5.myworkdayjobs.com/en-US/external_university/job/Boston/Software-Development-University-Grad--Adobe-Sign-Enterprise_R100958-1)|Boston, San Jose|Software Development - University Grad (2021)
+|[Clear Street](https://boards.greenhouse.io/clearstreet/)|New York|Software Engineer - New Grad Rotation|
 |[Collins Aerospace](https://jobs.rtx.com/job/-/-/4679/17480234?utm_source=linkedin.com&utm_campaign=enterprise&utm_medium=social_media&utm_content=job_posting&ss=paid&dclid=CjgKEAjwzbv7BRCmibeFwJLjhSQSJACPy2MMM5LHTSVkpZ11Z_KXifac_c-sxhTkj4bMv1TDbUO1LfD_BwE)|Iowa|Associate Software Engineering (New Grad)
