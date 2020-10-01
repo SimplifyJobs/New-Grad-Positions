@@ -126,3 +126,4 @@ Need interview prep?  Check out the [Zero to Offer 📈 program here](https://ww
 |[Snap](https://wd1.myworkdaysite.com/en-US/recruiting/snapchat/snap/job/Los-Angeles-California/New-Grad-Software-Engineer-2021--Application-Window--2--Sep-28th---Oct-2nd-_R0015006)|Los Angeles, Seattle, San Francisco, New York, Mountain View|New Grad Software Engineer 2021|
 |[Affirm](https://boards.greenhouse.io/affirm/jobs/4114396003) | SF | |
 |[Twitter](https://jobs.smartrecruiters.com/Twitter2/743999720851282-2021-university-application-north-america-latin-america-full-time-and-internships) | SF | |
+|[Rippling](https://www.rippling.com/careers/?gh_jid=4187142003)|San Francisco|Software Engineer - New Grads|
