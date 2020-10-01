@@ -124,3 +124,4 @@ Need interview prep?  Check out the [Zero to Offer 📈 program here](https://ww
 |[T. Rowe Price](https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Owings-Mills-MD/Associate-Software-Engineer--Dec-2020-May-2021-graduates-_48077)|Owings Mills, MD|Associate Software Engineer (Dec 2020/May 2021 graduates)|
 |[Flatiron Health](https://boards.greenhouse.io/conferenceapplications/jobs/2324288?gh_src=3b743e001us&fbclid=IwAR1qMFkNzbggbABPWyvfRUkY0Pf_W2V6KreOdqpCf5Stz4C3J02LgTipLzo)|NYC|Software Engineer (2021 New Graduate)|
 |[Snap](https://wd1.myworkdaysite.com/en-US/recruiting/snapchat/snap/job/Los-Angeles-California/New-Grad-Software-Engineer-2021--Application-Window--2--Sep-28th---Oct-2nd-_R0015006)|Los Angeles, Seattle, San Francisco, New York, Mountain View|New Grad Software Engineer 2021|
+|[Affirm](https://boards.greenhouse.io/affirm/jobs/4114396003) | SF | |
