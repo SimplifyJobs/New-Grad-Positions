@@ -128,4 +128,8 @@ Need interview prep?  Check out the [Zero to Offer 📈 program here](https://ww
 |[Twitter](https://jobs.smartrecruiters.com/Twitter2/743999720851282-2021-university-application-north-america-latin-america-full-time-and-internships) | SF | |
 |[Rippling](https://www.rippling.com/careers/?gh_jid=4187142003)|San Francisco|Software Engineer - New Grads|
 |[ADP](https://jobs.adp.com/job/11388733/associate-application-developer-global-product-technology-2021-development-program-may-2021-grads-roseland-nj/)|NJ| Associate Application Developer - New Grads|
-|[Cruise](https://www.getcruise.com/careers/jobs/?department=2bGFusPlaxpzEPHPIb2QLK)|SF| New Grad, Software Engineer, several roles|
+|[Brex](https://www.brex.com/careers/?gh_jid=4851404002/)|SF| Software Engineer, New Grad|
+|[Cruise](https://boards.greenhouse.io/cruise/jobs/2365730?gh_jid=2365730/)|SF| New Grad, Software Engineer, Controls Simulation|
+|[Real-Time Innovations (RTI)](https://boards.greenhouse.io/rti/jobs/2337910/)|Denver, CO or Sunnyvale, CA|Software Engineer, New Grad|
+|[OneTrust](https://www.onetrust.com/careers/detail/?gh_jid=2330513)|Atlanta, GA|Application Support Engineer - New Grad|
+|[Zynga](https://www.zynga.com/job-listing/new-grad-full-time-rotational-product-manager/)|Austin, TX|New Grad Full-Time Rotational Product Manager|
