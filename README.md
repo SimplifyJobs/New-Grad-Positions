@@ -87,7 +87,7 @@ Need interview prep?  Check out the [Zero to Offer 📈 program here](https://ww
 |[Clearbanc](http://clearbanc.hrmdirect.com/employment/job-opening.php?req=1377841#job) | Toronto | |
 |[Cockroach Labs](https://www.cockroachlabs.com/careers/job/?gh_jid=2177472) | NYC | |
 |[Clumio](https://clumio.com/careers/?gh_jid=4478429002)|Santa Clara, California|Software Engineer, University Graduate|
-|[databricks](https://databricks.com/company/careers/open-positions/job?gh_jid=4780023002)|San Francisco, California, Amsterdam|Software Engineer, New Grad(2021)|
+|[Databricks](https://databricks.com/company/careers/open-positions/job?gh_jid=4780023002)|San Francisco, California, Amsterdam|Software Engineer, New Grad(2021)|
 |[Twilio](https://boards.greenhouse.io/twilio/jobs/2321815)|California, Colarado|Software Engineer, New Graduate|
 |[C3.ai](https://c3.ai/job-description/?gh_jid=4416889002)|Redwood City, California|Software Engineer, Early Professional(2021)|
 |[Viasat](https://careers.viasat.com/careers/FolderDetail/Software-Engineer-University-Grad/5800)|Carlsbad, California|Software Engineer, University Grad|
