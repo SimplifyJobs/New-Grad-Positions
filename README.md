@@ -139,4 +139,6 @@ Need interview prep?  Check out the [Zero to Offer 📈 program here](https://ww
 |[Freddie Mac](https://careers.freddiemac.com/us/en/job/JR429/Technology-Analyst-Program-Software-Developer-Programmer)|McLean, VA|Technology Analyst Program - Software Developer/Programmer|
 |[Blackstone](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers/job/New-York/XMLNAME-2021-Software-Engineer--Full-Time-Analyst_12636)|New York, NY|2021 Software Engineer- Full Time Analyst|
 |[General Motors](https://search-careers.gm.com/job/GENEA0084JR000008126ENUS/Entry-Level-Information-Technology)| MI,GA,TX|Entry Level Information Technology|
-
+|[Fortinet](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/NewGrads2019/)|Sunnyvale, CA|Various New Grad roles|
+|[FDM Group](https://apply.fdmgroup.com/displayjob.aspx?jobid=852)|Fully Remote|2020/2021 University Graduates - Software Development Consultant - USA|
+|[Bridgewater Associates](https://angel.co/company/bridgewater-associates-lp-1/jobs/805732-software-engineer-new-grad)|Westport,CT|Software Engineer- New Grad|
