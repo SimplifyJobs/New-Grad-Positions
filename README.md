@@ -32,7 +32,7 @@ Need interview prep?  Check out the [Zero to Offer 📈 program here](https://ww
 |[Robinhood](https://boards.greenhouse.io/robinhood/jobs/2214430) | Menlo Park | More [here](https://boards.greenhouse.io/robinhood/jobs/2214430) |
 |[HubSpot](https://boards.greenhouse.io/embed/job_app?token=844714&gh_src=PittCSC) | Cambridge, MA | |
 |[Duolingo](https://boards.greenhouse.io/duolingo/jobs/4811959002) | Pittsburgh, PA | |
-|[Wish](https://jobs.smartrecruiters.com/Wish/743999716337373) | San Francisco, CA, | |
+|[Wish](https://jobs.smartrecruiters.com/Wish/743999716337373) | San Francisco, CA, Toronto, ON| |
 |[Cisco](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-Bachelor-s-Full-Time-United-States/1295249)|Various| |
 |[Qualtrics](https://www.qualtrics.com/careers/us/en/search-results?m=3&keywords=new%20grad)|Seattle, Provo| Software Engineer, Software Test Engineer|
 |[Qualcomm](https://qualcomm.wd5.myworkdayjobs.com/en-US/External/job/San-Diego/Software-Engineer_3001699)| San Diego, CA | Engineer |
@@ -87,7 +87,7 @@ Need interview prep?  Check out the [Zero to Offer 📈 program here](https://ww
 |[Clearbanc](http://clearbanc.hrmdirect.com/employment/job-opening.php?req=1377841#job) | Toronto | |
 |[Cockroach Labs](https://www.cockroachlabs.com/careers/job/?gh_jid=2177472) | NYC | |
 |[Clumio](https://clumio.com/careers/?gh_jid=4478429002)|Santa Clara, California|Software Engineer, University Graduate|
-|[databricks](https://databricks.com/company/careers/open-positions/job?gh_jid=4780023002)|San Francisco, California|Software Engineer, New Grad(2021)|
+|[Databricks](https://databricks.com/company/careers/open-positions/job?gh_jid=4780023002)|San Francisco, California, Amsterdam|Software Engineer, New Grad(2021)|
 |[Twilio](https://boards.greenhouse.io/twilio/jobs/2321815)|California, Colarado|Software Engineer, New Graduate|
 |[C3.ai](https://c3.ai/job-description/?gh_jid=4416889002)|Redwood City, California|Software Engineer, Early Professional(2021)|
 |[Viasat](https://careers.viasat.com/careers/FolderDetail/Software-Engineer-University-Grad/5800)|Carlsbad, California|Software Engineer, University Grad|
@@ -124,6 +124,15 @@ Need interview prep?  Check out the [Zero to Offer 📈 program here](https://ww
 |[T. Rowe Price](https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Owings-Mills-MD/Associate-Software-Engineer--Dec-2020-May-2021-graduates-_48077)|Owings Mills, MD|Associate Software Engineer (Dec 2020/May 2021 graduates)|
 |[Flatiron Health](https://boards.greenhouse.io/conferenceapplications/jobs/2324288?gh_src=3b743e001us&fbclid=IwAR1qMFkNzbggbABPWyvfRUkY0Pf_W2V6KreOdqpCf5Stz4C3J02LgTipLzo)|NYC|Software Engineer (2021 New Graduate)|
 |[Snap](https://wd1.myworkdaysite.com/en-US/recruiting/snapchat/snap/job/Los-Angeles-California/New-Grad-Software-Engineer-2021--Application-Window--2--Sep-28th---Oct-2nd-_R0015006)|Los Angeles, Seattle, San Francisco, New York, Mountain View|New Grad Software Engineer 2021|
-|[Affirm](https://boards.greenhouse.io/affirm/jobs/4114396003) | SF | |
 |[Twitter](https://jobs.smartrecruiters.com/Twitter2/743999720851282-2021-university-application-north-america-latin-america-full-time-and-internships) | SF | |
 |[Rippling](https://www.rippling.com/careers/?gh_jid=4187142003)|San Francisco|Software Engineer - New Grads|
+|[ADP](https://jobs.adp.com/job/11388733/associate-application-developer-global-product-technology-2021-development-program-may-2021-grads-roseland-nj/)|NJ| Associate Application Developer - New Grads|
+|[Brex](https://www.brex.com/careers/?gh_jid=4851404002/)|SF| Software Engineer, New Grad|
+|[Cruise](https://boards.greenhouse.io/cruise/jobs/2365730?gh_jid=2365730/)|SF| New Grad, Software Engineer, Controls Simulation|
+|[Real-Time Innovations (RTI)](https://boards.greenhouse.io/rti/jobs/2337910/)|Denver, CO or Sunnyvale, CA|Software Engineer, New Grad|
+|[OneTrust](https://www.onetrust.com/careers/detail/?gh_jid=2330513)|Atlanta, GA|Application Support Engineer - New Grad|
+|[Zynga](https://www.zynga.com/job-listing/new-grad-full-time-rotational-product-manager/)|Austin, TX|New Grad Full-Time Rotational Product Manager|
+|[Google](https://careers.google.com/jobs/results/83479121809547974-applications-engineer-university-graduate-2021)|Sunnyvale, CA|Applications Engineer, University Graduate, 2021|
+|[BoomTown](https://jobs.lever.co/boomtownroi.com/d57daeef-bd3e-496b-8c8d-df7b162fa11e/apply)|Charlestown, SC|Associate Software Engineer|
+|[SAP Ariba](https://jobs.sap.com/job/Pittsburgh-SAP-Ariba-Procurement-Operations-Specialist-Job-PA-15122/622691401/) | Pittsburgh, PA | |
+|[L3Harris Technologies](https://careers.l3harris.com/job/rochester/software-engineer-new-grad-rochester-ny/4832/16718485?src=SNS-10240) | Rochester, New York |Software Engineer (New Grad)|
