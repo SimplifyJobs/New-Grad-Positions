@@ -133,5 +133,11 @@ Need interview prep?  Check out the [Zero to Offer 📈 program here](https://ww
 |[Zynga](https://www.zynga.com/job-listing/new-grad-full-time-rotational-product-manager/)|Austin, TX|New Grad Full-Time Rotational Product Manager|
 |[Google](https://careers.google.com/jobs/results/83479121809547974-applications-engineer-university-graduate-2021)|Sunnyvale, CA|Applications Engineer, University Graduate, 2021|
 |[BoomTown](https://jobs.lever.co/boomtownroi.com/d57daeef-bd3e-496b-8c8d-df7b162fa11e/apply)|Charlestown, SC|Associate Software Engineer|
-|[SAP Ariba](https://jobs.sap.com/job/Pittsburgh-SAP-Ariba-Procurement-Operations-Specialist-Job-PA-15122/622691401/) | Pittsburgh, PA | |
+|[SAP Ariba](https://jobs.sap.com/job/Pittsburgh-SAP-Ariba-Procurement-Operations-Specialist-Job-PA-15122/622691401/) | Pittsburgh, PA | |Procurement Operations Specialist Job|
 |[L3Harris Technologies](https://careers.l3harris.com/job/rochester/software-engineer-new-grad-rochester-ny/4832/16718485?src=SNS-10240) | Rochester, New York |Software Engineer (New Grad)|
+|[Freddie Mac](https://careers.freddiemac.com/us/en/job/JR429/Technology-Analyst-Program-Software-Developer-Programmer)|McLean, VA|Technology Analyst Program - Software Developer/Programmer|
+|[Blackstone](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers/job/New-York/XMLNAME-2021-Software-Engineer--Full-Time-Analyst_12636)|New York, NY|2021 Software Engineer- Full Time Analyst|
+|[General Motors](https://search-careers.gm.com/job/GENEA0084JR000008126ENUS/Entry-Level-Information-Technology)| MI,GA,TX|Entry Level Information Technology|
+|[Fortinet](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/NewGrads2019/)|Sunnyvale, CA|Various New Grad roles|
+|[FDM Group](https://apply.fdmgroup.com/displayjob.aspx?jobid=852)|Fully Remote|2020/2021 University Graduates - Software Development Consultant - USA|
+|[Bridgewater Associates](https://angel.co/company/bridgewater-associates-lp-1/jobs/805732-software-engineer-new-grad)|Westport,CT|Software Engineer- New Grad|
