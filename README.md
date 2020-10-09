@@ -82,7 +82,7 @@ Need interview prep?  Check out the [Zero to Offer 📈 program here](https://ww
 |[Appian](https://www.appian.com/careers/search/job/?gh_jid=2305797&job_name=software-engineer&location=mclean-virginia)| McLean, VA | |
 |[BNY Mellon](https://jobs.bnymellon.com/jobs/2007808) | NYC, Jersey City, Pittsburgh | |
 |[Clearbanc](http://clearbanc.hrmdirect.com/employment/job-opening.php?req=1377841#job) | Toronto | |
-|[Cockroach Labs](https://www.cockroachlabs.com/careers/job/?gh_jid=2177472) | NYC | |
+|[Cockroach Labs](https://www.cockroachlabs.com/careers) | NYC | |
 |[Clumio](https://clumio.com/careers/?gh_jid=4478429002)|Santa Clara, California|Software Engineer, University Graduate|
 |[Databricks](https://databricks.com/company/careers/open-positions/job?gh_jid=4780023002)|San Francisco, California, Amsterdam|Software Engineer, New Grad(2021)|
 |[C3.ai](https://c3.ai/job-description/?gh_jid=4416889002)|Redwood City, California|Software Engineer, Early Professional(2021)|
