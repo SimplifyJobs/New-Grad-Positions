@@ -26,11 +26,9 @@ Need interview prep?  Check out the [Zero to Offer 📈 program here](https://ww
 |[DRW](https://drw.com/careers/job/1352350)| Chicago, Austin | |
 |[Jump Trading](https://www.jumptrading.com/apply.html?gh_jid=1847809)| Chicago | |
 |[SAP](https://jobs.sap.com/job/Palo-Alto-Silicon-Valley-Next-Talent-Rotational-Program-2021-Job-CA-94303/609822201) | Palo Alto | |
-|[Belvedere](https://belvederetrading.applicantstack.com/x/detail/a2sa4x0hfsr9?noia=1) | Chicago | [Software Engineer](http://belvederetrading.applicantstack.com/x/detail/a2sa4x0hfsr9) |
 |[Citadel](https://www.citadel.com/careers/details/software-engineering-rotation-program-full-time-us/)| Chicago | Software Engineering Rotation Program – Full Time |
 |[Citrix](https://jobs.citrix.com/job/R22177/University-Software-Engineer-2021)| Various | |
 |[Robinhood](https://boards.greenhouse.io/robinhood/jobs/2214430) | Menlo Park | More [here](https://boards.greenhouse.io/robinhood/jobs/2214430) |
-|[HubSpot](https://boards.greenhouse.io/embed/job_app?token=844714&gh_src=PittCSC) | Cambridge, MA | |
 |[Duolingo](https://boards.greenhouse.io/duolingo/jobs/4811959002) | Pittsburgh, PA | |
 |[Wish](https://jobs.smartrecruiters.com/Wish/743999716337373) | San Francisco, CA, Toronto, ON| |
 |[Cisco](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-Bachelor-s-Full-Time-United-States/1295249)|Various| |
@@ -56,7 +54,6 @@ Need interview prep?  Check out the [Zero to Offer 📈 program here](https://ww
 |[Plaid](https://jobs.lever.co/plaid/58690464-4e63-4180-8dc7-a1e87a18fb6d)|San Francisco|[Utah](https://jobs.lever.co/plaid/32597039-3497-4876-ad70-c23d95f55d32), [NYC](https://jobs.lever.co/plaid/02998813-cd2a-4449-9eb1-49ee383d977f)|
 |[Factset](https://factset.wd1.myworkdayjobs.com/en-US/FactSetCareers/job/New-York-NY-USA/Software-Engineer---US-Campus--2021-_R7733)|Various|Software Engineer - US Campus (2021)|
 |[Citi](https://citi.avature.net/careers/ProjectDetail/New-York-New-York-United-States-NAM-ICG-Technology-Full-Time-Software-Development-Analyst-New-York-City-North-America-2021-/10721)|Various|Software Development Analyst|
-|[Vanguard](https://www.vanguardjobs.com/job/11233910/developer-entry-level-2021-start-date-malvern-pa/)|Malvern, PA|Developer|
 |[Quora](https://boards.greenhouse.io/quora2/jobs/4810866002?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)|Remote - Anywhere|Software Engineer (New Grad 2021)
 |[NVIDIA](https://nvidia.wd5.myworkdayjobs.com/en-US/UniversityJobs/job/US-MA-Westford/Verification-Engineer---New-College-Grad_JR1924728)|Santa Clara, CA|Texas, Utah, etc
 |[DiDi Labs](https://boards.greenhouse.io/didi/jobs/2281086)|Mountain View|Student Careers at DiDi 2021|
@@ -85,10 +82,9 @@ Need interview prep?  Check out the [Zero to Offer 📈 program here](https://ww
 |[Appian](https://www.appian.com/careers/search/job/?gh_jid=2305797&job_name=software-engineer&location=mclean-virginia)| McLean, VA | |
 |[BNY Mellon](https://jobs.bnymellon.com/jobs/2007808) | NYC, Jersey City, Pittsburgh | |
 |[Clearbanc](http://clearbanc.hrmdirect.com/employment/job-opening.php?req=1377841#job) | Toronto | |
-|[Cockroach Labs](https://www.cockroachlabs.com/careers/job/?gh_jid=2177472) | NYC | |
+|[Cockroach Labs](https://www.cockroachlabs.com/careers) | NYC | |
 |[Clumio](https://clumio.com/careers/?gh_jid=4478429002)|Santa Clara, California|Software Engineer, University Graduate|
 |[Databricks](https://databricks.com/company/careers/open-positions/job?gh_jid=4780023002)|San Francisco, California, Amsterdam|Software Engineer, New Grad(2021)|
-|[Twilio](https://boards.greenhouse.io/twilio/jobs/2321815)|California, Colarado|Software Engineer, New Graduate|
 |[C3.ai](https://c3.ai/job-description/?gh_jid=4416889002)|Redwood City, California|Software Engineer, Early Professional(2021)|
 |[Viasat](https://careers.viasat.com/careers/FolderDetail/Software-Engineer-University-Grad/5800)|Carlsbad, California|Software Engineer, University Grad|
 |[Bloomberg](https://careers.bloomberg.com/job/detail/84014)|New York|2021 Software Engineer|
@@ -112,7 +108,6 @@ Need interview prep?  Check out the [Zero to Offer 📈 program here](https://ww
 |[WhatsApp](https://www.whatsapp.com/join/?dept=whatsapp&id=a1K2K000007ubgBUAQ) | Menlo Park, CA | |
 |[Motorola](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Chicago-IL/Software-Engineer_R7456?source=APPLICANT_SOURCE-6-250) | | |
 |[SambaNova Systems](https://jobs.lever.co/sambanovasystems/46d43adb-03b7-41a5-9e56-732f7d33b46a) | Palo Alto | |
-|[Credera](https://www.credera.com/careers/students/jobs/2266582) | Various | |
 |[Ford](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25385&siteid=5311&PageType=JobDetails&jobid=497562#jobDetails=497562_5311) | Dearborn, MI | |
 |[Epic Systems](https://epic.avature.net/Careers/FolderDetail/Verona-Wisconsin-United-States-Software-Developer/740) | Wisconsin | | 
 |[SeatGeek](https://seatgeek.com/jobs/107959) | New York | |
@@ -120,16 +115,12 @@ Need interview prep?  Check out the [Zero to Offer 📈 program here](https://ww
 |[Blend](https://jobs.lever.co/blendlabs/ea55639b-3ab0-45d6-98fc-13d731ed766e)|San Francisco|Software Engineer - New Grad (2021)
 |[Adobe](https://adobe.wd5.myworkdayjobs.com/en-US/external_university/job/Boston/Software-Development-University-Grad--Adobe-Sign-Enterprise_R100958-1)|Boston, San Jose|Software Development - University Grad (2021)
 |[Clear Street](https://boards.greenhouse.io/clearstreet/)|New York|Software Engineer - New Grad Rotation|
-|[Collins Aerospace](https://jobs.rtx.com/job/-/-/4679/17480234?utm_source=linkedin.com&utm_campaign=enterprise&utm_medium=social_media&utm_content=job_posting&ss=paid&dclid=CjgKEAjwzbv7BRCmibeFwJLjhSQSJACPy2MMM5LHTSVkpZ11Z_KXifac_c-sxhTkj4bMv1TDbUO1LfD_BwE)|Iowa|Associate Software Engineering (New Grad)
 |[T. Rowe Price](https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Owings-Mills-MD/Associate-Software-Engineer--Dec-2020-May-2021-graduates-_48077)|Owings Mills, MD|Associate Software Engineer (Dec 2020/May 2021 graduates)|
 |[Flatiron Health](https://boards.greenhouse.io/conferenceapplications/jobs/2324288?gh_src=3b743e001us&fbclid=IwAR1qMFkNzbggbABPWyvfRUkY0Pf_W2V6KreOdqpCf5Stz4C3J02LgTipLzo)|NYC|Software Engineer (2021 New Graduate)|
-|[Snap](https://wd1.myworkdaysite.com/en-US/recruiting/snapchat/snap/job/Los-Angeles-California/New-Grad-Software-Engineer-2021--Application-Window--2--Sep-28th---Oct-2nd-_R0015006)|Los Angeles, Seattle, San Francisco, New York, Mountain View|New Grad Software Engineer 2021|
+|Snap|Los Angeles, Seattle, San Francisco, New York, Mountain View| **Closed** New Grad Software Engineer 2021|
 |[Twitter](https://jobs.smartrecruiters.com/Twitter2/743999720851282-2021-university-application-north-america-latin-america-full-time-and-internships) | SF | |
 |[Rippling](https://www.rippling.com/careers/?gh_jid=4187142003)|San Francisco|Software Engineer - New Grads|
-|[ADP](https://jobs.adp.com/job/11388733/associate-application-developer-global-product-technology-2021-development-program-may-2021-grads-roseland-nj/)|NJ| Associate Application Developer - New Grads|
-|[Brex](https://www.brex.com/careers/?gh_jid=4851404002/)|SF| Software Engineer, New Grad|
 |[Cruise](https://boards.greenhouse.io/cruise/jobs/2365730?gh_jid=2365730/)|SF| New Grad, Software Engineer, Controls Simulation|
-|[Real-Time Innovations (RTI)](https://boards.greenhouse.io/rti/jobs/2337910/)|Denver, CO or Sunnyvale, CA|Software Engineer, New Grad|
 |[OneTrust](https://www.onetrust.com/careers/detail/?gh_jid=2330513)|Atlanta, GA|Application Support Engineer - New Grad|
 |[Zynga](https://www.zynga.com/job-listing/new-grad-full-time-rotational-product-manager/)|Austin, TX|New Grad Full-Time Rotational Product Manager|
 |[Google](https://careers.google.com/jobs/results/83479121809547974-applications-engineer-university-graduate-2021)|Sunnyvale, CA|Applications Engineer, University Graduate, 2021|
@@ -141,4 +132,4 @@ Need interview prep?  Check out the [Zero to Offer 📈 program here](https://ww
 |[General Motors](https://search-careers.gm.com/job/GENEA0084JR000008126ENUS/Entry-Level-Information-Technology)| MI,GA,TX|Entry Level Information Technology|
 |[Fortinet](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/NewGrads2019/)|Sunnyvale, CA|Various New Grad roles|
 |[FDM Group](https://apply.fdmgroup.com/displayjob.aspx?jobid=852)|Fully Remote|2020/2021 University Graduates - Software Development Consultant - USA|
-|[Bridgewater Associates](https://angel.co/company/bridgewater-associates-lp-1/jobs/805732-software-engineer-new-grad)|Westport,CT|Software Engineer- New Grad|
+|[Vectra AI](https://www.vectra.ai/about/careers?gh_jid=2366784)|San Jose, CA|Data Scientist - New Graduates|
