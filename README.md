@@ -133,3 +133,5 @@ Need interview prep?  Check out the [Zero to Offer 📈 program here](https://ww
 |[Fortinet](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/NewGrads2019/)|Sunnyvale, CA|Various New Grad roles|
 |[FDM Group](https://apply.fdmgroup.com/displayjob.aspx?jobid=852)|Fully Remote|2020/2021 University Graduates - Software Development Consultant - USA|
 |[Vectra AI](https://www.vectra.ai/about/careers?gh_jid=2366784)|San Jose, CA|Data Scientist - New Graduates|
+|[Betterment](https://boards.greenhouse.io/betterment/jobs/2388587/)|New York, NY|Software Engineer - New Grad 2021|
+|[Amazon Robotics](https://www.amazon.jobs/en/jobs/1241746/software-development-engineer-amazon-robotics-2021-grad?cmpid=SPLICX0248M)|Westborough, MA| New Grad 2021|
