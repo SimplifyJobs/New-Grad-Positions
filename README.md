@@ -135,3 +135,5 @@ Need interview prep?  Check out the [Zero to Offer 📈 program here](https://ww
 |[Vectra AI](https://www.vectra.ai/about/careers?gh_jid=2366784)|San Jose, CA|Data Scientist - New Graduates|
 |[Betterment](https://boards.greenhouse.io/betterment/jobs/2388587/)|New York, NY|Software Engineer - New Grad 2021|
 |[Amazon Robotics](https://www.amazon.jobs/en/jobs/1241746/software-development-engineer-amazon-robotics-2021-grad?cmpid=SPLICX0248M)|Westborough, MA| New Grad 2021|
+|[EverQuote](https://careers.everquote.com/job/?url=job&gh_jid=4168520003)|Cambridge, MA|Software Engineer I, Class of 2021|
+|[Cvent](https://recruit.hirebridge.com/v3/careercenter/v2/details.aspx?bid=1&jid=512759&cid=6876&locvalue=1128)|Tysons Corner, VA|Software Engineer (Campus 2020-2021)|
