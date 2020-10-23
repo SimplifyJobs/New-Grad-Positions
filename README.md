@@ -90,7 +90,7 @@ Need interview prep?  Check out the [Zero to Offer 📈 program here](https://ww
 |[Bloomberg](https://careers.bloomberg.com/job/detail/84014)|New York|2021 Software Engineer|
 |[Epsilon](https://www.smartrecruiters.com/PublicisGroupe/743999719329614-associate-software-engineer)|Chicago|Associate Software Engineer|
 |[TuSimple](https://boards.greenhouse.io/tusimple/jobs/4880809002)|San Diego, CA|(New Graduate) General Submission for Full-Time Employment|
-|[eBay](https://jobs.ebayinc.com/job/san-jose/software-engineer-recent-grad/403/1054728320)|San Jose, California, Bellevue, Washington, New York, New York, Portland, Oregon|Software Egineer, Recent Grad|
+|[eBay](https://jobs.ebayinc.com/job/san-jose/software-engineer-recent-grad/403/1054728320)|San Jose, California, Bellevue, Washington, New York, New York, Portland, Oregon|Software Engineer, Recent Grad|
 |[Pinterest](https://www.pinterestcareers.com/jobs/university-grad-software-engineer-san-francisco-california-united-states)|San Francisco|University Grad Software Engineer|
 |[memSQL](https://boards.greenhouse.io/memsql/jobs/2328586)|San Francisco|Software Engineer,University Grad|
 |[Verizon Media](https://vzbuilders.wd5.myworkdayjobs.com/en-US/careers/job/US---Sunnyvale/Assoc-Software-Dev-Engineer_JR0014308)|Sunnyvale,CA|Associate Software Engineer|
@@ -138,3 +138,8 @@ Need interview prep?  Check out the [Zero to Offer 📈 program here](https://ww
 |[BMO](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Developer---New-Grad--Fall-2020-start-_R200011937)|Toronto, ON|Developer - New Grad (Fall 2020 Start)|
 |[BIM Object](https://bimobject.bamboohr.com/jobs/view.php?id=54)|Malmö, Sweden|Software Developer - Newly Graduated|
 |[ARM](https://careers.arm.com/job/lund/2020-or-2021-gpu-graduate-software-engineer/33099/1395863808)|Lund, Sweden|2020 or 2021 GPU Graduate Software Engineer|
+|[Verisign](https://verisign.taleo.net/careersection/2/jobdetail.ftl?job=00005692&tz=GMT-04%3A00&tzname=America%2FNew_York)|Reston, VA|Spring 21 Grads|
+|[Mark43](https://www.mark43.com/list-job/?gh_jid=2334749)|Charlotte, NC|New Grad 2021|
+|[SpyCloud](https://boards.greenhouse.io/spycloud/jobs/4134481003)|Austin, TX|Software Engineer-Data Team|
+|[EverQuote](https://careers.everquote.com/job/?url=job&gh_jid=4168520003)|Cambridge, MA|Software Engineer I, Class of 2021|
+|[Cvent](https://recruit.hirebridge.com/v3/careercenter/v2/details.aspx?bid=1&jid=512759&cid=6876&locvalue=1128)|Tysons Corner, VA|Software Engineer (Campus 2020-2021)|
