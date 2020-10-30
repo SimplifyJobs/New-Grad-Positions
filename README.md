@@ -24,7 +24,6 @@ Need interview prep?  Check out the [Zero to Offer 📈 program here](https://ww
 |[Neeva](https://jobs.lever.co/neeva/d95ffe9a-0717-49a0-be61-e59c5bf01b49)| Mtn. View, CA | |
 |[Two Sigma](https://careers.twosigma.com/careers/RegisterMethod?jobId=714&source=PittCSC)| NY | |
 |[DRW](https://drw.com/careers/job/1352350)| Chicago, Austin | |
-|[Jump Trading](https://www.jumptrading.com/apply.html?gh_jid=1847809)| Chicago | |
 |[SAP](https://jobs.sap.com/job/Palo-Alto-Silicon-Valley-Next-Talent-Rotational-Program-2021-Job-CA-94303/609822201) | Palo Alto | |
 |[Citadel](https://www.citadel.com/careers/details/software-engineering-rotation-program-full-time-us/)| Chicago | Software Engineering Rotation Program – Full Time |
 |[Citrix](https://jobs.citrix.com/job/R22177/University-Software-Engineer-2021)| Various | |
@@ -64,7 +63,6 @@ Need interview prep?  Check out the [Zero to Offer 📈 program here](https://ww
 |[Yext](https://boards.greenhouse.io/yext/jobs/2290402)|New York, Washington DC| New Grad - Software Engineer|
 |[Datadog](https://www.datadoghq.com/careers/detail/?gh_jid=1826267)|Boston, New York|Software Engineer - Recent Grad|
 |[Applied Intuition](https://jobs.lever.co/applied/186f572c-f554-43bf-9c7c-0cb0885b1ea3/apply)|Mountain View|Software Engineer - New Grad|
-|[Thrivecash](https://jobs.lever.co/thrive/679241fc-cd3a-45da-af66-f442034c90fb)|San Franciso| New Grad - Software Engineer|
 |[Nightfall](https://jobs.lever.co/nightfall/80cdcd6e-1d19-41c5-9eeb-ee1b3d4d5a56)|San Franciso| New Grad - Backend Engineer(Remote)|
 |[Apple](https://jobs.apple.com/en-us/details/200189775/software-or-machine-learning-engineer-entry-level?team=SFTWR) | Cupertino | Software or Machine Learning Engineer|
 |[Roblox](https://corp.roblox.com/careers/listing/?gh_jid=2322821) | San Mateo | |
@@ -77,7 +75,6 @@ Need interview prep?  Check out the [Zero to Offer 📈 program here](https://ww
 |[Pendo](https://boards.greenhouse.io/pendo/jobs/4821861002) | Raleigh, NC | |
 |[Qumulo](https://qumulo.com/company/jobs/?gh_jid=2290068#details) | Seattle, WA | |
 |[Squarepoint Capital](https://www.squarepoint-capital.com/job#475700) | London, Montreal, Singapore | |
-|[Textron](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=284978&tz=GMT-04:00&tzname=America/Toronto) | Missoula, MT | |
 |[Wolverine Trading](https://chu.tbe.taleo.net/chu01/ats/careers/v2/viewRequisition?org=WOLVE&cws=37&rid=311) | Chicago | |
 |[Appian](https://www.appian.com/careers/search/job/?gh_jid=2305797&job_name=software-engineer&location=mclean-virginia)| McLean, VA | |
 |[BNY Mellon](https://jobs.bnymellon.com/jobs/2007808) | NYC, Jersey City, Pittsburgh | |
@@ -93,7 +90,6 @@ Need interview prep?  Check out the [Zero to Offer 📈 program here](https://ww
 |[eBay](https://jobs.ebayinc.com/job/san-jose/software-engineer-recent-grad/403/1054728320)|San Jose, California, Bellevue, Washington, New York, New York, Portland, Oregon|Software Engineer, Recent Grad|
 |[Pinterest](https://www.pinterestcareers.com/jobs/university-grad-software-engineer-san-francisco-california-united-states)|San Francisco|University Grad Software Engineer|
 |[memSQL](https://boards.greenhouse.io/memsql/jobs/2328586)|San Francisco|Software Engineer,University Grad|
-|[Verizon Media](https://vzbuilders.wd5.myworkdayjobs.com/en-US/careers/job/US---Sunnyvale/Assoc-Software-Dev-Engineer_JR0014308)|Sunnyvale,CA|Associate Software Engineer|
 |[Veeva](https://jobs.lever.co/veeva/689b64ea-1518-483e-9c47-b41fd72fdcfa)| Pleasanton | |
 |[DoorDash](https://boards.greenhouse.io/doordash/jobs/2337990?gh_jid=2337990)| SF, NYC, Mtn View | |
 |[John Deere](https://jobs.deere.com/job/Moline-Engineering-Development-Program-2021a-IL-61265/673423600/?from=email&refid=12401133500&utm_source=J2WEmail&source=2&eid=40700-202015090415-20580782800&locale=en_US) | Moline , IL | |
@@ -106,7 +102,6 @@ Need interview prep?  Check out the [Zero to Offer 📈 program here](https://ww
 |[IXL Learning](https://www.ixl.com/company/careers?gh_jid=4776947002) | San Mateo, CA | |
 |[Cigna](https://jobs.cigna.com/us/en/technology-early-career-development-program) | Various | |
 |[WhatsApp](https://www.whatsapp.com/join/?dept=whatsapp&id=a1K2K000007ubgBUAQ) | Menlo Park, CA | |
-|[Motorola](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Chicago-IL/Software-Engineer_R7456?source=APPLICANT_SOURCE-6-250) | | |
 |[SambaNova Systems](https://jobs.lever.co/sambanovasystems/46d43adb-03b7-41a5-9e56-732f7d33b46a) | Palo Alto | |
 |[Ford](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25385&siteid=5311&PageType=JobDetails&jobid=497562#jobDetails=497562_5311) | Dearborn, MI | |
 |[Epic Systems](https://epic.avature.net/Careers/FolderDetail/Verona-Wisconsin-United-States-Software-Developer/740) | Wisconsin | | 
@@ -119,11 +114,9 @@ Need interview prep?  Check out the [Zero to Offer 📈 program here](https://ww
 |[Flatiron Health](https://boards.greenhouse.io/conferenceapplications/jobs/2324288?gh_src=3b743e001us&fbclid=IwAR1qMFkNzbggbABPWyvfRUkY0Pf_W2V6KreOdqpCf5Stz4C3J02LgTipLzo)|NYC|Software Engineer (2021 New Graduate)|
 |Snap|Los Angeles, Seattle, San Francisco, New York, Mountain View| **Closed** New Grad Software Engineer 2021|
 |[Twitter](https://jobs.smartrecruiters.com/Twitter2/743999720851282-2021-university-application-north-america-latin-america-full-time-and-internships) | SF | |
-|[Rippling](https://www.rippling.com/careers/?gh_jid=4187142003)|San Francisco|Software Engineer - New Grads|
 |[Cruise](https://boards.greenhouse.io/cruise/jobs/2365730?gh_jid=2365730/)|SF| New Grad, Software Engineer, Controls Simulation|
 |[OneTrust](https://www.onetrust.com/careers/detail/?gh_jid=2330513)|Atlanta, GA|Application Support Engineer - New Grad|
 |[Zynga](https://www.zynga.com/job-listing/new-grad-full-time-rotational-product-manager/)|Austin, TX|New Grad Full-Time Rotational Product Manager|
-|[Google](https://careers.google.com/jobs/results/83479121809547974-applications-engineer-university-graduate-2021)|Sunnyvale, CA|Applications Engineer, University Graduate, 2021|
 |[BoomTown](https://jobs.lever.co/boomtownroi.com/d57daeef-bd3e-496b-8c8d-df7b162fa11e/apply)|Charlestown, SC|Associate Software Engineer|
 |[SAP Ariba](https://jobs.sap.com/job/Pittsburgh-SAP-Ariba-Procurement-Operations-Specialist-Job-PA-15122/622691401/) | Pittsburgh, PA | |Procurement Operations Specialist Job|
 |[L3Harris Technologies](https://careers.l3harris.com/job/rochester/software-engineer-new-grad-rochester-ny/4832/16718485?src=SNS-10240) | Rochester, New York |Software Engineer (New Grad)|
