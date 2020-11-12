@@ -131,7 +131,7 @@ Need interview prep?  Check out the [Zero to Offer 📈 program here](https://ww
 |[BMO](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Developer---New-Grad--Fall-2020-start-_R200011937)|Toronto, ON|Developer - New Grad (Fall 2020 Start)|
 |[BIM Object](https://bimobject.bamboohr.com/jobs/view.php?id=54)|Malmö, Sweden|Software Developer - Newly Graduated|
 |[ARM](https://careers.arm.com/job/lund/2020-or-2021-gpu-graduate-software-engineer/33099/1395863808)|Lund, Sweden|2020 or 2021 GPU Graduate Software Engineer|
-|[Verisign](https://verisign.taleo.net/careersection/2/jobdetail.ftl?job=00005692&tz=GMT-04%3A00&tzname=America%2FNew_York)|Reston, VA|Spring 21 Grads|
+|Verisign|Reston, VA|Spring 21 Grads|
 |[Mark43](https://www.mark43.com/list-job/?gh_jid=2334749)|Charlotte, NC|New Grad 2021|
 |[SpyCloud](https://boards.greenhouse.io/spycloud/jobs/4134481003)|Austin, TX|Software Engineer-Data Team|
 |[EverQuote](https://careers.everquote.com/job/?url=job&gh_jid=4168520003)|Cambridge, MA|Software Engineer I, Class of 2021|
