@@ -137,5 +137,5 @@ Need interview prep?  Check out the [Zero to Offer 📈 program here](https://ww
 |[EverQuote](https://careers.everquote.com/job/?url=job&gh_jid=4168520003)|Cambridge, MA|Software Engineer I, Class of 2021|
 |[Cvent](https://recruit.hirebridge.com/v3/careercenter/v2/details.aspx?bid=1&jid=512759&cid=6876&locvalue=1128)|Tysons Corner, VA|Software Engineer (Campus 2020-2021)|
 |[KLA](https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Software-Engineer_2000461?bid=370)|Milipitas, CA|Software Engineer|
-|[Square](https://jobs.smartrecruiters.com/Square/743999724420850-software-engineer-new-grad-)|San Francisco, CA|Software Engineer
-
+|[Square](https://jobs.smartrecruiters.com/Square/743999724420850-software-engineer-new-grad-)|San Francisco, CA|Software Engineer|
+|[TikTok](https://careers.tiktok.com/position/detail/6893590379792697608)|Mountain View|Software Engineer, Backend (Ads Technology) - 2021 StartApplied|
