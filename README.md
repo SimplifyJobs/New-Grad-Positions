@@ -134,7 +134,7 @@ Need interview prep?  Check out the [Zero to Offer 📈 program here](https://ww
 |Verisign|Reston, VA|Spring 21 Grads|
 |[Mark43](https://www.mark43.com/list-job/?gh_jid=2334749)|Charlotte, NC|New Grad 2021|
 |[SpyCloud](https://boards.greenhouse.io/spycloud/jobs/4134481003)|Austin, TX|Software Engineer-Data Team|
-|[EverQuote](https://careers.everquote.com/job/?url=job&gh_jid=4168520003)|Cambridge, MA|Software Engineer I, Class of 2021|
+|EverQuote|Cambridge, MA|Software Engineer I, Class of 2021|
 |[Cvent](https://recruit.hirebridge.com/v3/careercenter/v2/details.aspx?bid=1&jid=512759&cid=6876&locvalue=1128)|Tysons Corner, VA|Software Engineer (Campus 2020-2021)|
 |[KLA](https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Software-Engineer_2000461?bid=370)|Milipitas, CA|Software Engineer|
 |[Square](https://jobs.smartrecruiters.com/Square/743999724420850-software-engineer-new-grad-)|San Francisco, CA|Software Engineer|
