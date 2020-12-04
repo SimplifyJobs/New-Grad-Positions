@@ -135,3 +135,4 @@ Need interview prep?  Check out the [Zero to Offer 📈 program here](https://ww
 |[Vectra AI](https://www.vectra.ai/about/careers?gh_jid=2366784)|San Jose, CA|Data Scientist - New Graduates|
 |[Betterment](https://boards.greenhouse.io/betterment/jobs/2388587/)|New York, NY|Software Engineer - New Grad 2021|
 |[Amazon Robotics](https://www.amazon.jobs/en/jobs/1241746/software-development-engineer-amazon-robotics-2021-grad?cmpid=SPLICX0248M)|Westborough, MA| New Grad 2021|
+|[Confluent](https://jobs.lever.co/confluent/e825f59b-85db-4bd4-b501-40676b3c170b)|MountainView, CA| New Grad 2021|
