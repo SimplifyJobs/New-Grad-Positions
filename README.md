@@ -14,6 +14,7 @@ Need interview prep?  Check out the [Zero to Offer 📈 program here](https://ww
 |---|---|-------------|
 |[Akuna Capital](https://akunacapital.com/job-details?gh_jid=2236978&gh_src=fcb01e3f1us) | Chicago, IL | Junior Developer (Software)|
 |[D.E. Shaw](https://www.deshaw.com/careers/software-developer-new-york-2646)| New York, NY | Software Developer |
+|[Reservoir Labs](https://www.reservoir.com/careers/?gh_jid=4437048002)| NY, Portland, or remote | Compiler Developer, Research Engineer|
 |[Facebook](https://www.facebook.com/careers/jobs/?q=university%20grad)| Los Angeles, Menlo Park, Seattle, Washington DC, Boston, New York, other locations | Software, Network, Quant Research, Research Engineer |
 |[IMC](https://careers.imc.com/us/en/c/graduates-jobs) | Chicago, Sydney, Amsterdam | Software, Hardware, Quant Trader|
 |[Jane Street](https://www.janestreet.com/join-jane-street/position/4743431002/) | New York | Software Engineer|
