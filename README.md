@@ -12,6 +12,7 @@ Need interview prep?  Check out the [Zero to Offer 📈 program here](https://ww
 
 | Name  |  Location |  Notes |
 |---|---|-------------|
+|[ByteDance/TikTok](https://careers.tiktok.com/position?project=6915220576183961870&type=2&&current=1&limit=200) | Singapore, Mountain View, San Diego | Remote allowed during pandemic. Referral code: VC7FSRM |
 |[Akuna Capital](https://akunacapital.com/job-details?gh_jid=2236978&gh_src=fcb01e3f1us) | Chicago, IL | Junior Developer (Software)|
 |[D.E. Shaw](https://www.deshaw.com/careers/software-developer-new-york-2646)| New York, NY | Software Developer |
 |[Reservoir Labs](https://www.reservoir.com/careers/?gh_jid=4437048002)| NY, Portland, or remote | Compiler Developer, Research Engineer|
