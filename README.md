@@ -138,6 +138,6 @@ Need interview prep?  Check out the [Zero to Offer 📈 program here](https://ww
 |[SpyCloud](https://boards.greenhouse.io/spycloud/jobs/4134481003)|Austin, TX|Software Engineer-Data Team|
 |[Cvent](https://recruit.hirebridge.com/v3/careercenter/v2/details.aspx?bid=1&jid=512759&cid=6876&locvalue=1128)|Tysons Corner, VA|Software Engineer (Campus 2020-2021)|
 |[KLA](https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Software-Engineer_2000461?bid=370)|Milipitas, CA|Software Engineer|
-|[Square](https://jobs.smartrecruiters.com/Square/743999724420850-software-engineer-new-grad-)|San Francisco, CA|Software Engineer|
 |[TikTok](https://careers.tiktok.com/position/detail/6893590379792697608)|Mountain View|Software Engineer, Backend (Ads Technology) - 2021 Start|
 |[Confluent](https://jobs.lever.co/confluent/e825f59b-85db-4bd4-b501-40676b3c170b)|MountainView, CA| New Grad 2021|
+|[Square](https://www.smartrecruiters.com/Square/743999731392942)|Redwood City, CA or Remote|AI Engineer|
