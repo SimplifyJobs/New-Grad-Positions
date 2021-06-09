@@ -2,7 +2,7 @@
 
 The 2022 Full time grind has begun! Use this repo to share and keep track of any full time positions in quant, SWE, and PM.  
 
-**Contribute by making a pull request!**
+**Contribute by making a pull request!**  
 
 ## The List
 
