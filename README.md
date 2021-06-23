@@ -14,5 +14,5 @@ The 2022 Full time grind has begun! Use this repo to share and keep track of any
 [Wish](https://jobs.smartrecruiters.com/Wish/743999745330820)| SF | [Other positions available](https://www.wish.com/careers/jobs) |
 [Hudson River Trading](https://www.hudsonrivertrading.com/careers/job/?gh_jid=82675)| New York | Algo Developer, [SWE](https://www.hudsonrivertrading.com/careers/job/?gh_jid=86641) |
 |[Fidelity](https://jobs.fidelity.com/job-details/13162494/2021-2022-undergraduates-full-stack-engineer-merrimack-nh/)| Boston + others | Full-Stack Engineer |
-|[Stitch](https://jobs.lever.co/stytch/020d5d2e-fe49-4dfd-b6c6-77a0c3eb377f) | SF/Remote | |
+|[Stytch](https://jobs.lever.co/stytch/020d5d2e-fe49-4dfd-b6c6-77a0c3eb377f) | SF/Remote | |
 
