@@ -17,3 +17,4 @@ The 2022 Full time grind has begun! Use this repo to share and keep track of any
 |[Stytch](https://jobs.lever.co/stytch/020d5d2e-fe49-4dfd-b6c6-77a0c3eb377f) | SF, Remote | |
 |[VMWare](https://careers.vmware.com/new-graduates/jobs/R2111971?lang=en-us) | Palo Alto, Atlanta | University Launch SWE |
 |[Cruise](https://boards.greenhouse.io/cruise/jobs/2364685) | SF | |
+|[Nvidia](https://nvidia.wd5.myworkdayjobs.com/UniversityJobs/) | Various | Many SWE New Grad positions |
