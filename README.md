@@ -22,4 +22,3 @@ The 2022 Full time grind has begun! Use this repo to share and keep track of any
 |[Grubhub](https://careers-grubhub.icims.com/jobs/11919/software-engineer-i/job) | Chicago, NY, Boston | New Grad SWE (Spring/Winter 2022) |
 |[Asana](https://boards.greenhouse.io/earlycareerprograms/jobs/3261084) | SF | New Graduate: Software Engineering (2022 start)
 |[The Voleon Group](https://jobs.lever.co/voleon/a059b894-b468-4fb1-a86f-36fb63afe3a5) | Berkeley | |
-|[Facebook](https://www.facebook.com/careers/v2/jobs/213402246952404/) | Various | |
