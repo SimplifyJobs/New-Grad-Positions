@@ -17,7 +17,7 @@ The 2022 Full time grind has begun! Use this repo to share and keep track of any
 |[Stytch](https://jobs.lever.co/stytch/020d5d2e-fe49-4dfd-b6c6-77a0c3eb377f) | SF, Remote | |
 |[VMWare](https://careers.vmware.com/new-graduates/jobs/R2111971?lang=en-us) | Palo Alto, Atlanta | University Launch SWE |
 |[Cruise](https://boards.greenhouse.io/cruise/jobs/2364685) | SF | |
-|[Nvidia](https://nvidia.wd5.myworkdayjobs.com/UniversityJobs/) | Various | Many SWE New Grad positions |
+|[Nvidia](https://nvidia.wd5.myworkdayjobs.com/UniversityJobs/) | US | Recruiting by group and hiring manager |
 |[Airtable](https://boards.greenhouse.io/airtable/jobs/5311220002?) | SF | |
 |[Grubhub](https://careers-grubhub.icims.com/jobs/11919/software-engineer-i/job) | Chicago, NY, Boston | New Grad SWE (Spring/Winter 2022) |
 |[Asana](https://boards.greenhouse.io/earlycareerprograms/jobs/3261084) | SF | New Graduate: Software Engineering (2022 start)
@@ -25,3 +25,4 @@ The 2022 Full time grind has begun! Use this repo to share and keep track of any
 |[SIG](https://careers.sig.com/job/5471/Software-Developer-Campus-2022-Start) | Bala Cynwyd, PA | |
 |[Goldman Sachs](https://www.goldmansachs.com/careers/students/programs/americas/new-analyst-program.html) | Various | New Analyst (SWE and others)|
 |[Johnson&Johnson](https://jobs.jnj.com/jobs/2005853988W?lang=en-us&previousLocale=en-US) | Cincinnati | |
+|[Square](https://www.smartrecruiters.com/Square/743999749472927-software-engineer-new-grad-) | Atlanta, GA, USA | | Maybe there will be more positions later
