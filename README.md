@@ -1,4 +1,7 @@
-# 2021 New Grad Applications
+# This Repo is no longer maintained
+For a 2022 repository check out [our fork here](https://github.com/coderQuad/New-Grad-Positions-2022)
+
+## 2021 New Grad Applications
 
 The 2021 Full time grind has begun! Use this repo to share and keep track of any full time positions in quant, SWE, and PM.  
 
@@ -8,7 +11,7 @@ Need interview prep?  Check out the [Zero to Offer 📈 program here](https://ww
 
 **Contribute by making a pull request or using [this Google Form](https://bit.ly/3cUV89H)!**
 
-## The List
+### The List
 
 | Name  |  Location |  Notes |
 |---|---|-------------|
