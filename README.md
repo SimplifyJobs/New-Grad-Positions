@@ -4,6 +4,8 @@ The 2022 Full time grind has begun! Use this repo to share and keep track of any
 
 **Contribute by making a pull request!**  
 
+Subscribe [here](https://www.akshattekriwal.com/projects/New-Grad-Notifier/) to **Recieve new position updates through SMS.** 
+
 ## The List
 
 | Name  |  Location |  Notes |
