@@ -33,3 +33,4 @@ The 2022 Full time grind has begun! Use this repo to share and keep track of any
 |[Caterpillar](https://caterpillarcareers.ttcportals.com/jobs/7129260-associate-software-engineer) | Chicago | |
 |[Morgan Stanley](https://www.morganstanley.com/careers/career-opportunities-search#) | NYC, Alpharetta | |
 |[Vanguard](https://www.vanguardjobs.com/job-search-results/?category=Technology&level%5B%5D=Student%20%26%20Recent%20Graduates) | Multiple | |
+|[D.E. Shaw](https://www.deshaw.com/careers/choose-your-path) | NYC | |
