@@ -30,6 +30,5 @@ The 2022 Full time grind has begun! Use this repo to share and keep track of any
 |[Five Rings](https://jobs.jobvite.com/fiverings/job/oxvBffwC) | NYC | |
 |[Palantir](https://www.palantir.com/careers/) | NYC, Palo Alto, Seattle, London | Multiple SWE Positions | 
 |[Mckinsey](https://www.mckinsey.com/careers/search-jobs/jobs/analyst-softwareengineerdataengineerdatascientist-campusstudents-41876) | Multiple | |
-|[Caterpillar](https://caterpillarcareers.ttcportals.com/jobs/7129260-associate-software-engineer) | Chicago | |
 |[Morgan Stanley](https://www.morganstanley.com/careers/career-opportunities-search#) | NYC, Alpharetta | |
 |[Vanguard](https://www.vanguardjobs.com/job-search-results/?category=Technology&level%5B%5D=Student%20%26%20Recent%20Graduates) | Multiple | |
