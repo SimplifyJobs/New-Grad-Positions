@@ -28,4 +28,4 @@ The 2022 Full time grind has begun! Use this repo to share and keep track of any
 |[Capital Group](https://jobs.capitalgroup.com/job/Los-Angeles-New-Grad-Software-Development-Engineer-I-CA-90071/740361000/) | LA | |
 |[DRW](https://drw.com/careers/job/1881596) | Austin, Chicago | |
 |[Five Rings](https://jobs.jobvite.com/fiverings/job/oxvBffwC) | NYC | |
-|[Palantir](https://jobs.lever.co/palantir/01dab70c-073c-4a22-bf76-fb6b9e0a75b0) | NYC, Palo Alto, Seattle, London | | FDSWE open also
+|[Palantir](https://www.palantir.com/careers/) | NYC, Palo Alto, Seattle, London | Multiple SWE Positions | 
