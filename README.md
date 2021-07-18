@@ -35,4 +35,4 @@ The 2022 Full time grind has begun! Use this repo to share and keep track of any
 |[Belvedere Trading](http://www.belvederetrading.com/jobs/) | Chicago | Quant + Swe |
 |[Brex](https://www.brex.com/careers/engineering/5319155002?gh_jid=5319155002)| Remote | |
 |[Microsoft](https://careers.microsoft.com/us/en/job/1085245/Software-Engineering-Full-time-Opportunities-for-University-Graduates) | Multiple | |
-|[RedVenture](https://careers.redventures.com/positions.html?team=college&office=&brand=) | Multiple | |
+|[Red Ventures](https://careers.redventures.com/positions.html?team=college&office=&brand=) | Multiple | |
