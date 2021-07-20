@@ -36,3 +36,4 @@ The 2022 Full time grind has begun! Use this repo to share and keep track of any
 |[Brex](https://www.brex.com/careers/engineering/5319155002?gh_jid=5319155002)| Remote | |
 |[Microsoft](https://careers.microsoft.com/us/en/job/1085245/Software-Engineering-Full-time-Opportunities-for-University-Graduates) | Multiple | |
 |[Red Ventures](https://careers.redventures.com/positions.html?team=college&office=&brand=) | Multiple | |
+|[IMC](https://careers.imc.com/us/en/job/REQ-01188/Graduate-Software-Engineer) | Chicago | SWE, [Quant](https://careers.imc.com/us/en/job/REQ-01184/Graduate-Quant-Trader) | 
