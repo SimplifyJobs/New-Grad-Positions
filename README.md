@@ -27,7 +27,7 @@ The 2022 Full time grind has begun! Use this repo to share and keep track of any
 |[Johnson & Johnson](https://jobs.jnj.com/jobs/2005853988W?lang=en-us&previousLocale=en-US) | Cincinnati | |
 |[Capital Group](https://jobs.capitalgroup.com/job/Los-Angeles-New-Grad-Software-Development-Engineer-I-CA-90071/740361000/) | LA | |
 |[DRW](https://drw.com/careers/job/1881596) | Austin, Chicago | |
-|[Five Rings](https://jobs.jobvite.com/fiverings/job/oxvBffwC) | NYC | |
+|[Five Rings](https://fiverings.avature.net/careers/FolderDetail/New-York-New-York-United-States-Software-Developer-Campus-Hire-Full-Time-Class-of-2022/543) | NYC | |
 |[Palantir](https://www.palantir.com/careers/) | NYC, Palo Alto, Seattle, London | Multiple SWE Positions | 
 |[McKinsey](https://www.mckinsey.com/careers/search-jobs/jobs/analyst-softwareengineerdataengineerdatascientist-campusstudents-41876) | Multiple | SWE Consulting |
 |[Morgan Stanley](https://www.morganstanley.com/careers/career-opportunities-search#) | NYC, Alpharetta | |
@@ -35,6 +35,7 @@ The 2022 Full time grind has begun! Use this repo to share and keep track of any
 |[Belvedere Trading](http://www.belvederetrading.com/jobs/) | Chicago | Quant + Swe |
 |[Brex](https://www.brex.com/careers/engineering/5319155002?gh_jid=5319155002)| Remote | |
 |[Microsoft](https://careers.microsoft.com/us/en/job/1085245/Software-Engineering-Full-time-Opportunities-for-University-Graduates) | Multiple | |
+|[Facebook](https://www.facebook.com/careers/v2/jobs/213402246952404/) | Multiple | |
 |[Red Ventures](https://careers.redventures.com/positions.html?team=college&office=&brand=) | Multiple | |
 |[IMC](https://careers.imc.com/us/en/job/REQ-01188/Graduate-Software-Engineer) | Chicago | SWE, [Quant](https://careers.imc.com/us/en/job/REQ-01184/Graduate-Quant-Trader) | 
 |[General Motors](https://search-careers.gm.com/job/GENEA0084JR000044848ENUS/Entry-Level-Global-Product-Development-Software-Engineer-Rotational-Program) | Warren, Michigan, United States of America | Entry Level Global Product Development – Software Engineer Rotational Program |
