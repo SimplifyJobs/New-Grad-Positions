@@ -46,3 +46,4 @@ The 2022 Full time grind has begun! Use this repo to share and keep track of any
 |[Sunshine](https://jobs.lever.co/sunshine/a576f278-9748-49ab-b0b5-1104ef8880c4) | Palo Alto, CA |  |
 |[PEAK6](https://careers.peak6.com/jobs/campus/chicago-il-united-states/software-engineer-campus-entry-level/3193254?gh_jid=3193254#/) | Chicago, IL |  |
 |[Roblox](https://corp.roblox.com/careers/listing/?gh_jid=3185067) | San Mateo, CA |  |
+|[Duolingo](https://boards.greenhouse.io/duolingo/jobs/5422486002?gh_src=10b1cce22us) | Pittsburgh, PA |  |
