@@ -42,7 +42,7 @@ The 2022 Full time grind has begun! Use this repo to share and keep track of any
 |[General Motors](https://search-careers.gm.com/job/GENEA0084JR000044848ENUS/Entry-Level-Global-Product-Development-Software-Engineer-Rotational-Program) | Warren, Michigan, United States of America | Entry Level Global Product Development – Software Engineer Rotational Program |
 |[Nova Credit](https://jobs.lever.co/neednova/27786c27-5092-43ae-b287-44ccfa72511f) | NYC, SF | |
 |[Qualtrics](https://www.qualtrics.com/careers/us/en/job/260179/Software-Engineer-New-Grad-Seattle-WA) | Seattle | |
-|[Robinhood](https://robinhood.com/us/en/careers/openings/?gh_jid=3355040) | Menlo Park, CA | |
+|[Robinhood](https://robinhood.com/us/en/careers/openings/) | Menlo Park, CA | |
 |[Sunshine](https://jobs.lever.co/sunshine/a576f278-9748-49ab-b0b5-1104ef8880c4) | Palo Alto, CA |  |
 |[PEAK6](https://careers.peak6.com/jobs/campus/chicago-il-united-states/software-engineer-campus-entry-level/3193254?gh_jid=3193254#/) | Chicago, IL |  |
 |[Roblox](https://corp.roblox.com/careers/listing/?gh_jid=3185067) | San Mateo, CA |  |
