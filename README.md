@@ -42,3 +42,6 @@ The 2022 Full time grind has begun! Use this repo to share and keep track of any
 |[Nova Credit](https://jobs.lever.co/neednova/27786c27-5092-43ae-b287-44ccfa72511f) | NYC, SF | |
 |[Qualtrics](https://www.qualtrics.com/careers/us/en/job/260179/Software-Engineer-New-Grad-Seattle-WA) | Seattle | |
 |[Robinhood](https://robinhood.com/us/en/careers/openings/?gh_jid=3355040) | Menlo Park, CA | |
+|[Sunshine](https://jobs.lever.co/sunshine/a576f278-9748-49ab-b0b5-1104ef8880c4) | Palo Alto, CA | SWE |
+|[PEAK6](https://careers.peak6.com/jobs/campus/chicago-il-united-states/software-engineer-campus-entry-level/3193254?gh_jid=3193254#/) | Chicago, IL | SWE |
+
