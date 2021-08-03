@@ -38,4 +38,5 @@ The 2022 Full time grind has begun! Use this repo to share and keep track of any
 |[Red Ventures](https://careers.redventures.com/positions.html?team=college&office=&brand=) | Multiple | |
 |[IMC](https://careers.imc.com/us/en/job/REQ-01188/Graduate-Software-Engineer) | Chicago | SWE, [Quant](https://careers.imc.com/us/en/job/REQ-01184/Graduate-Quant-Trader) |
 |[Nova Credit](https://jobs.lever.co/neednova/27786c27-5092-43ae-b287-44ccfa72511f) | NYC, SF | |
-|[Square](https://www.smartrecruiters.com/Square/743999749472925) | Atlanta, Remote | New Grad (SWE & Mobile Developer)
+|[Robinhood](https://robinhood.com/us/en/careers/openings/) | Menlo Park, CA | New Grad (Andriod, Backend, Data Scientist, iOS, Web Engineer)
+|[Roblox](https://corp.roblox.com/careers/listing/?gh_jid=3185067) | San Mateo, CA | New Grad (Software Engineer)
