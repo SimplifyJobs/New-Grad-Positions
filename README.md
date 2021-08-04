@@ -50,3 +50,10 @@ The 2022 Full time grind has begun! Use this repo to share and keep track of any
 |[L3Harris](https://careers.l3harris.com/search-jobs/Software%20engineer%20new%20grad/4832/1?glat=40.71066&glon=-73.99903) | Many |  |
 |[Secureframe](https://jobs.lever.co/secureframe/d90aa468-f846-413f-a9c9-0834d3dfa9d7) | SF (remote) |  |
 |[Keysight Technologies](https://jobs.keysight.com/job/Santa-Rosa-R&D-Engineer-2%2C-Software-CA-95401/768839700/) | Santa Rosa, CA |  |
+|[Citrix](https://jobs.citrix.com/job/R27644/University-Software-Engineer-2022) | Multiple |  |
+|[HubSpot](https://www.hubspot.com/careers/jobs/1847807?hubs_signup-cta=careers-apply) | Cambridge |  |
+|[Dropbox](https://www.dropbox.com/jobs/listing/3354694) | Remote |  |
+|[Nuro](https://www.nuro.ai/careersitem?gh_jid=3355701) | Mountain View |  |
+|[Capital One](https://campus.capitalone.com/job/mclean/technology-development-program-associate-2022/1786/19643594) | Multiple |  |
+|[JP Morgan](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210139739/apply/email?keyword=2022+Software+Engineer+Program+-+Full+Time+Opportunity) | NYC |  |
+|[MathWorks](https://www.mathworks.com/company/jobs/opportunities/search?job_type_id%5B%5D=1756&keywords=new+graduate&location%5B%5D=US&posting_org_id%5B%5D=1&posting_team_id%5B%5D=6&posting_team_id%5B%5D=5&posting_team_id%5B%5D=22&posting_team_id%5B%5D=21&posting_team_id%5B%5D=12&posting_team_id%5B%5D=12&posting_team_id%5B%5D=3&posting_team_id%5B%5D=13&posting_team_id%5B%5D=1&posting_team_id%5B%5D=20&posting_team_id%5B%5D=11&posting_team_id%5B%5D=8&posting_team_id%5B%5D=4&posting_team_id%5B%5D=7&posting_team_id%5B%5D=18&posting_team_id%5B%5D=10&posting_team_id%5B%5D=9&posting_team_id%5B%5D=2) | Natick, MA |  |
