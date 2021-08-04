@@ -47,3 +47,6 @@ The 2022 Full time grind has begun! Use this repo to share and keep track of any
 |[PEAK6](https://careers.peak6.com/jobs/campus/chicago-il-united-states/software-engineer-campus-entry-level/3193254?gh_jid=3193254#/) | Chicago, IL |  |
 |[Roblox](https://corp.roblox.com/careers/listing/?gh_jid=3185067) | San Mateo, CA |  |
 |[Duolingo](https://boards.greenhouse.io/duolingo/jobs/5422486002?gh_src=10b1cce22us) | Pittsburgh, PA |  |
+|[L3Harris](https://careers.l3harris.com/search-jobs/Software%20engineer%20new%20grad/4832/1?glat=40.71066&glon=-73.99903) | Many |  |
+|[Secureframe](https://jobs.lever.co/secureframe/d90aa468-f846-413f-a9c9-0834d3dfa9d7) | SF (remote) |  |
+|[Keysight Technologies](https://jobs.keysight.com/job/Santa-Rosa-R&D-Engineer-2%2C-Software-CA-95401/768839700/) | Santa Rosa, CA |  |
