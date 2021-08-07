@@ -6,7 +6,6 @@ The 2022 Full time grind has begun! Use this repo to share and keep track of any
 
 ## Resources
 Here are some resources Coder Quad recommends to prepare for OA's and technical interviews!
-#### Websites
 #### Books
 * [Competitive Programmer's Handbook](https://cses.fi/book/book.pdf)
 * [CLRS Introduction To Algorithms](https://amzn.to/2X3YuUS)
