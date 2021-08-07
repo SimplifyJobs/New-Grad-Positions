@@ -5,7 +5,13 @@ The 2022 Full time grind has begun! Use this repo to share and keep track of any
 **Contribute by making a pull request!**  
 
 ## Resources
-* [Cracking The Coding Interview](https://amzn.to/2Vvk2c9) technical interview prep book
+Here are some resources Coder Quad recommends to prepare for OA's and technical interviews!
+#### Websites
+#### Books
+* [Python - Elements of Programming Interviews](https://amzn.to/3fExT7o)
+* [Java - Elements of Programming Interviews](https://amzn.to/2U0DnSd)
+* [C++ - Elements of Programming Interviews](https://amzn.to/3yqalKF)
+* [Cracking The Coding Interview](https://amzn.to/2Vvk2c9)
 
 ## The List
 
