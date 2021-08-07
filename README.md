@@ -4,6 +4,9 @@ The 2022 Full time grind has begun! Use this repo to share and keep track of any
 
 **Contribute by making a pull request!**  
 
+## Resources
+* [Cracking The Coding Interview](https://amzn.to/2Vvk2c9) technical interview prep book
+
 ## The List
 
 | Name  |  Location |  Notes |
