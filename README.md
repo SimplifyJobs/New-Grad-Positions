@@ -69,3 +69,5 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 |[PayPal](https://wd1.myworkdaysite.com/recruiting/paypal/jobs/job/San-Jose-CA/Software-Engineer---Recent-College-Graduate_R0075015) | Multiple Locations |  |
 |[Salesforce](https://salesforce.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/AMTS-Software-Engineer_JR105192?d=cta-nav-sjb-1) | Multiple Locations |  |
 |[Affirm](https://boards.greenhouse.io/affirm/jobs/4650345003) | Remote |  |
+[Acorns](https://boards.greenhouse.io/acorns/jobs/2589045?gh_jid=2589045) | Irvine, CA | Option to be remote|
+|[IBM](https://careers.ibm.com/job/13459877/entry-level-associate-developer-commercial-remote/?codes=JB_EPH_JobBoard2021) | Various | |
