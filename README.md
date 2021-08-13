@@ -73,4 +73,5 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 |[IBM](https://careers.ibm.com/job/13459877/entry-level-associate-developer-commercial-remote/?codes=JB_EPH_JobBoard2021) | Various | |
 |[TIBCO Software](https://hrbrg.co/of6nni) | Chicago | SWE Messaging Engineering Team | 
 |[Stripe](https://stripe.com/jobs/listing/new-grad-software-engineer/3368453?gh_src=73vnei) | Multiple | | 
-|[Datadog](https://www.datadoghq.com/careers/detail/?gh_jid=3339660&gh_src=8363eca61) | New York | SWE | 
+|[Datadog](https://www.datadoghq.com/careers/detail/?gh_jid=3339660&gh_src=8363eca61) | New York | SWE |
+|[Quora](https://boards.greenhouse.io/quora) | Remote | SWE, ML, Data science | 
