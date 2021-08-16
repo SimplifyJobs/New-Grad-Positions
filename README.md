@@ -75,3 +75,4 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 |[Stripe](https://stripe.com/jobs/listing/new-grad-software-engineer/3368453?gh_src=73vnei) | Multiple | | 
 |[Datadog](https://www.datadoghq.com/careers/detail/?gh_jid=3339660&gh_src=8363eca61) | New York | SWE |
 |[Quora](https://boards.greenhouse.io/quora) | Remote | SWE, ML, Data science | 
+|[ElasticSearch](https://jobs.elastic.co/jobs/engineering/distributed-global/graduate-software-engineer/3342699?lang=en_us#/) | US, Canada, UK & others | SWE | 
