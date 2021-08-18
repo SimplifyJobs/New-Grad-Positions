@@ -76,3 +76,4 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 |[Datadog](https://www.datadoghq.com/careers/detail/?gh_jid=3339660&gh_src=8363eca61) | New York | SWE |
 |[Quora](https://boards.greenhouse.io/quora) | Remote | SWE, ML, Data science | 
 |[ElasticSearch](https://jobs.elastic.co/jobs/engineering/distributed-global/graduate-software-engineer/3342699?lang=en_us#/) | US, Canada, UK & others | SWE | 
+|[Figma](https://jobs.lever.co/figma/54b745d8-29b1-45cd-8109-63213f524929) | SF, NYC | Software Engineer, New Grad (2022) | 
