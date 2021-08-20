@@ -78,3 +78,4 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 |[Benchling](https://www.benchling.com/careers/?gh_jid=3248513#detail) | San Francisco, Boston |  |
 |[ElasticSearch](https://jobs.elastic.co/jobs/engineering/distributed-global/graduate-software-engineer/3342699?lang=en_us#/) | US, Canada, UK & others | SWE | 
 |[Figma](https://jobs.lever.co/figma/54b745d8-29b1-45cd-8109-63213f524929) | SF, NYC | Software Engineer, New Grad (2022) | 
+|[Snapchat](https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Los-Angeles-California/XMLNAME-2022-Software-Engineer--New-Grad_R0020583) | Multiple | 2022 Software Engineer, New Grad | 
