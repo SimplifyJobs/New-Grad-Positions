@@ -80,3 +80,4 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 |[Silicon Labs](https://jobs.jobvite.com/silabs/job/odEEgfwv) | Austin, Boston | Software Engineer – New College Graduate  |
 |[Cisco](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-I-Full-Time-United-States/1337310) | Multiple | Software Engineer I (Full Time) United States - No Visa sponsorship |
 |[Aquatic](https://boards.greenhouse.io/aquaticcapitalmanagement) | Chicago | Quant, SWE | 
+|[Citadel](https://www.citadel.com/careers/open-positions/positions-for-students/?keyword=Full%20Time) | New York, Chicago | Quant, SWE | 
