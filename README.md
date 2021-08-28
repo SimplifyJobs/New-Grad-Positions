@@ -81,3 +81,13 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 |[Cisco](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-I-Full-Time-United-States/1337310) | Multiple | Software Engineer I (Full Time) United States - No Visa sponsorship |
 |[Aquatic](https://boards.greenhouse.io/aquaticcapitalmanagement) | Chicago | Quant, SWE | 
 |[Citadel](https://www.citadel.com/careers/open-positions/positions-for-students/?keyword=Full%20Time) | New York, Chicago | Quant, SWE | 
+|[Blackstone](https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers) | New York, London + Others | SWE, Analyst, others |
+|[Twilio](https://www.twilio.com/company/jobs?department=students#open-positions) | SF, Denver | SWE, others |
+|[Workday](https://workday.wd5.myworkdayjobs.com/en-US/Workday_University_Careers) | Multiple | Multiple |
+|[EAB](https://eab.com/careers/open-positions/) | Multiple | Multiple "Associate" positions starting Summer 2022 |
+|[IXL](https://ie.ixl.com/company/careers) | San Mateo, Raleigh, Toronto | New Grad SWE |
+|[Visa](https://careers.smartrecruiters.com/Visa/university-recruiting) | Multiple | Multiple positions |
+|[Gem](https://www.gem.com/company/careers#jobboard) | San Francisco | New Grad Product Engineer (Rotation) | 
+|[Indeed](https://ur-careers-indeed.icims.com/jobs/search?ics_keywords=Grad) | US-Remote | SWE |
+|[Restaurant Brands International](https://careers.rbi.com/global/en/c/campus-jobs) | Miami, Toronto | SWE, Leadership |
+
