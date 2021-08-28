@@ -81,3 +81,15 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 |[Cisco](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-I-Full-Time-United-States/1337310) | Multiple | Software Engineer I (Full Time) United States - No Visa sponsorship |
 |[Aquatic](https://boards.greenhouse.io/aquaticcapitalmanagement) | Chicago | Quant, SWE | 
 |[Citadel](https://www.citadel.com/careers/open-positions/positions-for-students/?keyword=Full%20Time) | New York, Chicago | Quant, SWE | 
+|[Twilio](https://boards.greenhouse.io/twilio/jobs/3409275) | San Francisco, CA | SWE |
+|[Databricks](https://databricks.com/company/careers/open-positions/job?gh_jid=5488575002&gh_src=62a881d62) | San Francisco, CA | SWE |
+|[Point72](https://careers.point72.com/CSJobDetail?jobName=2022-cubist-software-engineer-program&jobCode=CSS-0003338&retURL=/CSCareerSearch?filters=_experience=interns%20and%20entry%20level_location=new%20york) | New York | Multiple roles |
+|[FactSet](https://factset.wd1.myworkdayjobs.com/en-US/FactSetCareers/job/New-York-NY-USA/Software-Engineer---Americas-Campus--July-2022-_R12000?source=Linkedin) | Multiple | Multiple roles |
+|[Ironclad](https://jobs.lever.co/ironcladapp/33179813-c6f6-439d-977d-0a68733d77cf) | San Francisco | SWE |
+|[TD](https://jobs.td.com/en/job/13581190/2022-full-time-analyst-software-engineer-new-york-ny/) | Multiple | Multiple roles |
+|[Verkada](https://jobs.lever.co/verkada?department=Engineering) | Multiple | Multiple roles |
+|[Rippling](https://www.rippling.com/careers/4627196003?gh_jid=4627196003) | San Francisco | Multiple roles |
+|[Ripple](https://ripple.com/company/careers/all-jobs) | San Francisco | Multiple roles |
+|[Yext](https://www.yext.com/careers/open-positions?facetFilters=%257B%2522c_jobCategory%2522%253A%255B%257B%2522c_jobCategory%2522%253A%257B%2522%2524eq%2522%253A%2522Interns%2520%2526%2520New%2520Grads%2522%257D%257D%255D%252C%2522c_jobLocationShortDescription%2522%253A%255B%255D%257D) | Multiple | Multiple roles |
+|[Stytch](https://jobs.ashbyhq.com/stytch/b4ee9734-3657-4393-8eca-269ae179d7eb?departmentId=0c06150f-b42c-40c2-a0f4-271b9a2ab26b&employmentType=FullTime) | San Francisco | SWE |
+|[AnyScale](https://jobs.lever.co/anyscale/207867b9-8780-4e90-a82c-d8dd46ecba12) | San Francisco | SWE |
