@@ -18,7 +18,6 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 
 | Name  |  Location |  Notes |
 |---|---|-------------|
-|[Blend](https://grnh.se/ffa48e034us) | SF, NYC, Remote | Software Engineer, New Grad |
 |[Akuna Capital](https://akunacapital.com/careers?experience=junior&department=development#careers) | Chicago | Various Junior Developer Positions |
 |[Amazon](https://www.amazon.jobs/en/jobs/1558079/software-development-engineer-2022-us?cmpid=SPLICX0248M&utm_source=linkedin.com&utm_campaign=cxro&utm_medium=social_media&utm_content=job_posting&ss=paid) | US | New Grad SDE |
 |[Jane Street](https://www.janestreet.com/join-jane-street/position/5311286002/) | NYC | |
@@ -82,3 +81,4 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 |[Cisco](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-I-Full-Time-United-States/1337310) | Multiple | Software Engineer I (Full Time) United States - No Visa sponsorship |
 |[Aquatic](https://boards.greenhouse.io/aquaticcapitalmanagement) | Chicago | Quant, SWE |
 |[Citadel](https://www.citadel.com/careers/open-positions/positions-for-students/?keyword=Full%20Time) | New York, Chicago | Quant, SWE |
+|[Blend](https://boards.greenhouse.io/blend/jobs/4092807004) | SF, NYC, Remote | Software Engineer, New Grad |
