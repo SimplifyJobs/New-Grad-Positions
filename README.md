@@ -1,8 +1,8 @@
 # 2022 New Grad Applications
 
-The 2022 Full time grind has begun! Use this repo to share and keep track of any full time positions in quant, SWE, and PM.  
+The 2022 Full time grind has begun! Use this repo to share and keep track of any full time positions in quant, SWE, and PM.
 
-**Contribute by making a pull request!**  
+**Contribute by making a pull request!**
 
 ## Resources
 Here are some resources Coder Quad recommends to prepare for OA's and technical interviews!
@@ -38,7 +38,7 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 |[Capital Group](https://jobs.capitalgroup.com/job/Los-Angeles-New-Grad-Software-Development-Engineer-I-CA-90071/740361000/) | LA | |
 |[DRW](https://drw.com/careers/job/1881596) | Austin, Chicago | |
 |[Five Rings](https://fiverings.avature.net/careers/FolderDetail/New-York-New-York-United-States-Software-Developer-Campus-Hire-Full-Time-Class-of-2022/543) | NYC | |
-|[Palantir](https://www.palantir.com/careers/) | NYC, Palo Alto, Seattle, London | Multiple SWE Positions | 
+|[Palantir](https://www.palantir.com/careers/) | NYC, Palo Alto, Seattle, London | Multiple SWE Positions |
 |[McKinsey](https://www.mckinsey.com/careers/search-jobs/jobs/analyst-softwareengineerdataengineerdatascientist-campusstudents-41876) | Multiple | SWE Consulting |
 |[Morgan Stanley](https://www.morganstanley.com/careers/career-opportunities-search#) | NYC, Alpharetta | |
 |[Vanguard](https://www.vanguardjobs.com/job-search-results/?category=Technology&level%5B%5D=Student%20%26%20Recent%20Graduates) | Multiple | |
@@ -47,8 +47,8 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 |[Microsoft](https://careers.microsoft.com/us/en/job/1085245/Software-Engineering-Full-time-Opportunities-for-University-Graduates) | Multiple | |
 |[Facebook](https://www.facebook.com/careers/v2/jobs/213402246952404/) | Multiple | |
 |[Red Ventures](https://careers.redventures.com/positions.html?team=college&office=&brand=) | Multiple | |
-|[IMC](https://careers.imc.com/us/en/job/REQ-01188/Graduate-Software-Engineer) | Chicago | SWE, [Quant](https://careers.imc.com/us/en/job/REQ-01184/Graduate-Quant-Trader) | 
-|[Optiver](https://www.optiver.com/working-at-optiver/career-opportunities/5423850002/) | Chicago, Austin | [SWE (Chicago)](https://www.optiver.com/working-at-optiver/career-opportunities/5423850002/), [SWE (Austin)](https://www.optiver.com/working-at-optiver/career-opportunities/5423874002/) | 
+|[IMC](https://careers.imc.com/us/en/job/REQ-01188/Graduate-Software-Engineer) | Chicago | SWE, [Quant](https://careers.imc.com/us/en/job/REQ-01184/Graduate-Quant-Trader) |
+|[Optiver](https://www.optiver.com/working-at-optiver/career-opportunities/5423850002/) | Chicago, Austin | [SWE (Chicago)](https://www.optiver.com/working-at-optiver/career-opportunities/5423850002/), [SWE (Austin)](https://www.optiver.com/working-at-optiver/career-opportunities/5423874002/) |
 |[General Motors](https://search-careers.gm.com/job/GENEA0084JR000044848ENUS/Entry-Level-Global-Product-Development-Software-Engineer-Rotational-Program) | Warren, Michigan, United States of America | Entry Level Global Product Development – Software Engineer Rotational Program |
 |[Qualtrics](https://www.qualtrics.com/careers/us/en/job/260179/Software-Engineer-New-Grad-Seattle-WA) | Seattle, Provo | |
 |[Robinhood](https://robinhood.com/us/en/careers/openings/) | Menlo Park, CA | Multiple positions, listed under University at bottom of the page|
@@ -70,15 +70,16 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 |[Affirm](https://boards.greenhouse.io/affirm/jobs/4650345003) | Remote |  |
 [Acorns](https://boards.greenhouse.io/acorns/jobs/2589045?gh_jid=2589045) | Irvine, CA | Option to be remote|
 |[IBM](https://careers.ibm.com/job/13459877/entry-level-associate-developer-commercial-remote/?codes=JB_EPH_JobBoard2021) | Various | |
-|[TIBCO Software](https://hrbrg.co/of6nni) | Chicago | SWE Messaging Engineering Team | 
-|[Stripe](https://stripe.com/jobs/listing/new-grad-software-engineer/3368453?gh_src=73vnei) | Multiple | | 
+|[TIBCO Software](https://hrbrg.co/of6nni) | Chicago | SWE Messaging Engineering Team |
+|[Stripe](https://stripe.com/jobs/listing/new-grad-software-engineer/3368453?gh_src=73vnei) | Multiple | |
 |[Datadog](https://www.datadoghq.com/careers/detail/?gh_jid=3339660&gh_src=8363eca61) | New York | SWE |
-|[Quora](https://boards.greenhouse.io/quora) | Remote | SWE, ML, Data science | 
+|[Quora](https://boards.greenhouse.io/quora) | Remote | SWE, ML, Data science |
 |[Benchling](https://www.benchling.com/careers/?gh_jid=3248513#detail) | San Francisco, Boston |  |
-|[ElasticSearch](https://jobs.elastic.co/jobs/engineering/distributed-global/graduate-software-engineer/3342699?lang=en_us#/) | US, Canada, UK & others | SWE | 
-|[Figma](https://jobs.lever.co/figma/54b745d8-29b1-45cd-8109-63213f524929) | SF, NYC | Software Engineer, New Grad (2022) | 
+|[ElasticSearch](https://jobs.elastic.co/jobs/engineering/distributed-global/graduate-software-engineer/3342699?lang=en_us#/) | US, Canada, UK & others | SWE |
+|[Figma](https://jobs.lever.co/figma/54b745d8-29b1-45cd-8109-63213f524929) | SF, NYC | Software Engineer, New Grad (2022) |
 |[Silicon Labs](https://jobs.jobvite.com/silabs/job/odEEgfwv) | Austin, Boston | Software Engineer – New College Graduate  |
 |[Cisco](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-I-Full-Time-United-States/1337310) | Multiple | Software Engineer I (Full Time) United States - No Visa sponsorship |
-|[Aquatic](https://boards.greenhouse.io/aquaticcapitalmanagement) | Chicago | Quant, SWE | 
-|[Citadel](https://www.citadel.com/careers/open-positions/positions-for-students/?keyword=Full%20Time) | New York, Chicago | Quant, SWE | 
-|[Zoom](https://zoom.wd5.myworkdayjobs.com/Zoom/1/refreshFacet/318c8bb6f553100021d223d9780d30be) | Remote | [Full Stack](https://zoom.wd5.myworkdayjobs.com/en-US/Zoom/job/Remote--CA---Bay-Area/XMLNAME-2022-Full-Stack-Development-Engineer--NEW-GRAD-_R5738), [Frontend](https://zoom.wd5.myworkdayjobs.com/en-US/Zoom/job/Remote--CA---Bay-Area/XMLNAME-2022-Front-End-Development-Engineer--NEW-GRAD-_R5740), [Backend](https://zoom.wd5.myworkdayjobs.com/en-US/Zoom/job/Remote--CA---Bay-Area/XMLNAME-2022-Back-End-Development-Engineer--NEW-GRAD-_R5741), [Devops](https://zoom.wd5.myworkdayjobs.com/en-US/Zoom/job/Remote--CA---Bay-Area/XMLNAME-2022-DevOps-Engineer--NEW-GRAD-_R5743-1) | 
+|[Aquatic](https://boards.greenhouse.io/aquaticcapitalmanagement) | Chicago | Quant, SWE |
+|[Citadel](https://www.citadel.com/careers/open-positions/positions-for-students/?keyword=Full%20Time) | New York, Chicago | Quant, SWE |
+|[Blend](https://boards.greenhouse.io/blend/jobs/4092807004) | SF, NYC, Remote | Software Engineer, New Grad |
+|[Zoom](https://zoom.wd5.myworkdayjobs.com/Zoom/1/refreshFacet/318c8bb6f553100021d223d9780d30be) | Remote | [Full Stack](https://zoom.wd5.myworkdayjobs.com/en-US/Zoom/job/Remote--CA---Bay-Area/XMLNAME-2022-Full-Stack-Development-Engineer--NEW-GRAD-_R5738), [Frontend](https://zoom.wd5.myworkdayjobs.com/en-US/Zoom/job/Remote--CA---Bay-Area/XMLNAME-2022-Front-End-Development-Engineer--NEW-GRAD-_R5740), [Backend](https://zoom.wd5.myworkdayjobs.com/en-US/Zoom/job/Remote--CA---Bay-Area/XMLNAME-2022-Back-End-Development-Engineer--NEW-GRAD-_R5741), [Devops](https://zoom.wd5.myworkdayjobs.com/en-US/Zoom/job/Remote--CA---Bay-Area/XMLNAME-2022-DevOps-Engineer--NEW-GRAD-_R5743-1) |
