@@ -91,6 +91,5 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 |[TD](https://jobs.td.com/en/job/13581190/2022-full-time-analyst-software-engineer-new-york-ny/) | NYC | |
 |[Verkada](https://jobs.lever.co/verkada?department=Engineering&commitment=Full-Time) | San Mateo, CA | [Backend](https://jobs.lever.co/verkada/bec69e5c-a213-42b8-8bfa-bcde4da59623) [Frontend](https://jobs.lever.co/verkada/db65cdcd-d9a4-4c12-ac4e-18938a422601) [Computer Vision](https://jobs.lever.co/verkada/df9e9fcb-2d66-4e8d-8a3c-892a200d470a) [Embedded Systems](https://jobs.lever.co/verkada/df7390d9-b69f-4f3c-a43d-817cbf4af161)|
 |[Rippling](https://www.rippling.com/careers/4627196003?gh_jid=4627196003) | SF | |
-|[Ripple](https://ripple.com/company/careers/all-jobs) | San Francisco | Multiple roles |
 |[Yext](https://www.yext.com/careers/open-positions?facetFilters=%257B%2522c_jobCategory%2522%253A%255B%257B%2522c_jobCategory%2522%253A%257B%2522%2524eq%2522%253A%2522Interns%2520%2526%2520New%2520Grads%2522%257D%257D%255D%252C%2522c_jobLocationShortDescription%2522%253A%255B%255D%257D) | Multiple | Multiple roles |
 |[AnyScale](https://jobs.lever.co/anyscale/207867b9-8780-4e90-a82c-d8dd46ecba12) | SF| |
