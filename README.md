@@ -24,7 +24,7 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 [Wish](https://jobs.smartrecruiters.com/Wish/743999745330820)| SF | [Other positions available](https://www.wish.com/careers/jobs) |
 [Hudson River Trading](https://www.hudsonrivertrading.com/careers/job/?gh_jid=82675)| New York | Algo Developer, [SWE](https://www.hudsonrivertrading.com/careers/job/?gh_jid=86641) |
 |[Fidelity](https://jobs.fidelity.com/job-details/13162494/2021-2022-undergraduates-full-stack-engineer-merrimack-nh/)| Boston + others | Full-Stack Engineer |
-|[Stytch](https://jobs.ashbyhq.com/stytch/b4ee9734-3657-4393-8eca-269ae179d7eb) | SF, Remote | |
+|[Stytch](https://jobs.ashbyhq.com/stytch/b4ee9734-3657-4393-8eca-269ae179d7eb) | SF | |
 |[VMWare](https://careers.vmware.com/new-graduates/jobs/R2111971?lang=en-us) | Palo Alto, Atlanta | University Launch SWE |
 |[Cruise](https://boards.greenhouse.io/cruise/jobs/2364685) | SF | |
 |[Nvidia](https://nvidia.wd5.myworkdayjobs.com/UniversityJobs/) | Various | Many SWE New Grad positions |
@@ -83,3 +83,13 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 |[Citadel](https://www.citadel.com/careers/open-positions/positions-for-students/?keyword=Full%20Time) | New York, Chicago | Quant, SWE |
 |[Blend](https://boards.greenhouse.io/blend/jobs/4092807004) | SF, NYC, Remote | Software Engineer, New Grad |
 |[Zoom](https://zoom.wd5.myworkdayjobs.com/Zoom/1/refreshFacet/318c8bb6f553100021d223d9780d30be) | Remote | [Full Stack](https://zoom.wd5.myworkdayjobs.com/en-US/Zoom/job/Remote--CA---Bay-Area/XMLNAME-2022-Full-Stack-Development-Engineer--NEW-GRAD-_R5738), [Frontend](https://zoom.wd5.myworkdayjobs.com/en-US/Zoom/job/Remote--CA---Bay-Area/XMLNAME-2022-Front-End-Development-Engineer--NEW-GRAD-_R5740), [Backend](https://zoom.wd5.myworkdayjobs.com/en-US/Zoom/job/Remote--CA---Bay-Area/XMLNAME-2022-Back-End-Development-Engineer--NEW-GRAD-_R5741), [Devops](https://zoom.wd5.myworkdayjobs.com/en-US/Zoom/job/Remote--CA---Bay-Area/XMLNAME-2022-DevOps-Engineer--NEW-GRAD-_R5743-1) |
+|[Twilio](https://boards.greenhouse.io/twilio/jobs/3409275) | SF | |
+|[Databricks](https://databricks.com/company/careers/open-positions/job?gh_jid=5488575002) | SF | |
+|[Point72](https://careers.point72.com/CSJobDetail?jobName=2022-cubist-software-engineer-program&jobCode=CSS-0003338) | NYC | Multiple roles |
+|[FactSet](https://factset.wd1.myworkdayjobs.com/en-US/FactSetCareers/job/New-York-NY-USA/Software-Engineer---Americas-Campus--July-2022-_R12000) | Multiple | |
+|[Ironclad](https://jobs.lever.co/ironcladapp/33179813-c6f6-439d-977d-0a68733d77cf) | SF | |
+|[TD](https://jobs.td.com/en/job/13581190/2022-full-time-analyst-software-engineer-new-york-ny/) | NYC | |
+|[Verkada](https://jobs.lever.co/verkada?department=Engineering&commitment=Full-Time) | San Mateo, CA | [Backend](https://jobs.lever.co/verkada/bec69e5c-a213-42b8-8bfa-bcde4da59623) [Frontend](https://jobs.lever.co/verkada/db65cdcd-d9a4-4c12-ac4e-18938a422601) [Computer Vision](https://jobs.lever.co/verkada/df9e9fcb-2d66-4e8d-8a3c-892a200d470a) [Embedded Systems](https://jobs.lever.co/verkada/df7390d9-b69f-4f3c-a43d-817cbf4af161)|
+|[Rippling](https://www.rippling.com/careers/4627196003?gh_jid=4627196003) | SF | |
+|[Yext](https://www.yext.com/careers/open-positions?facetFilters=%257B%2522c_jobCategory%2522%253A%255B%257B%2522c_jobCategory%2522%253A%257B%2522%2524eq%2522%253A%2522Interns%2520%2526%2520New%2520Grads%2522%257D%257D%255D%252C%2522c_jobLocationShortDescription%2522%253A%255B%255D%257D) | Multiple | Multiple roles |
+|[AnyScale](https://jobs.lever.co/anyscale/207867b9-8780-4e90-a82c-d8dd46ecba12) | SF| |
