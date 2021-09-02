@@ -90,3 +90,12 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 |[AnyScale](https://jobs.lever.co/anyscale/207867b9-8780-4e90-a82c-d8dd46ecba12) | SF| |
 |[Uber](https://university-uber.icims.com/jobs/106097/new-grad-software-engineer-backend/job) | SF| Software Engineer, Back-End |
 |[DoorDash](https://boards.greenhouse.io/doordash/jobs/3393632?gh_jid=3393632) | Multiple | Software Engineer, New Grad (Winter 2021/Spring 2022) |
+|[Blackstone](https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers) | NYC, London + Others | SWE, Analyst, others |
+|[Twilio](https://www.twilio.com/company/jobs?department=students#open-positions) | SF, Denver | SWE, others |
+|[Workday](https://workday.wd5.myworkdayjobs.com/en-US/Workday_University_Careers) | Multiple | Multiple |
+|[EAB](https://eab.com/careers/open-positions/) | Multiple | Multiple "Associate" positions starting Summer 2022 |
+|[IXL](https://ie.ixl.com/company/careers) | San Mateo, Raleigh, Toronto | New Grad SWE |
+|[Visa](https://careers.smartrecruiters.com/Visa/university-recruiting) | Multiple | Multiple positions |
+|[Gem](https://www.gem.com/company/careers#jobboard) | San Francisco | New Grad Product Engineer (Rotation) | 
+|[Indeed](https://ur-careers-indeed.icims.com/jobs/search?ics_keywords=Grad) | US-Remote | SWE |
+|[Restaurant Brands International](https://careers.rbi.com/global/en/c/campus-jobs) | Miami, Toronto | SWE, Leadership |
