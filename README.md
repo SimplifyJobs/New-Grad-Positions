@@ -98,3 +98,14 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 |[Gem](https://www.gem.com/company/careers#jobboard) | San Francisco | New Grad Product Engineer (Rotation) | 
 |[Indeed](https://ur-careers-indeed.icims.com/jobs/search?ics_keywords=Grad) | US-Remote | SWE |
 |[Restaurant Brands International](https://careers.rbi.com/global/en/c/campus-jobs) | Miami, Toronto | SWE, Leadership |
+|[Accenture](https://www.accenture.com/us-en/careers/life-at-accenture/entry-level) | Multiple | Development programs (technical, consulting, interactive...) |
+|[Becton Dickinson](https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-CA---San-Diego-Bldg-AB/BD-Software-Development-Program--SDP-_R-410769-1) | CA, NJ, MD | Software Development Program |
+|[Vise](https://univiserty.splashthat.com/) | NY | SWE |
+|[Circle](https://boards.greenhouse.io/circle) | Ithaca, US-remote | SWE, Data Scientist |
+|[Jerry](https://getjerry.com/careers) | Toronto, SF | SWE |
+|[OneTrust](https://www.onetrust.com/careers/all-jobs/) | Atlanta | Java Developer, QA, Consultant (search "New Grad" on search bar) |
+|[Cadence](https://cadence.wd1.myworkdayjobs.com/en-US/Univ_Careers/job/SAN-JOSE/Software-Engineer--New-College-Graduate_R35300) | San Jose | SWE |
+|[Redfin](https://www.redfin.com/careers/departments/emerging-talent) | Seattle | SWE, Product Designer, Product Management |
+|[UBS](https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5131&PageType=searchResults&SearchType=linkquery&LinkID=6552#keyWordSearch=&locationSearch=) | Multiple (US, London, Hongkong, Singapore...) | Tech, Banking, Asset Management, Multiple |
+|[DraftKings](https://draftkings.wd1.myworkdayjobs.com/DraftKings/) | Boston | [Analyst](https://draftkings.wd1.myworkdayjobs.com/en-US/DraftKings/job/Boston-MA/Analyst--December-2021-and-2022-Grads-Only-_JR1637), [SWE](https://draftkings.wd1.myworkdayjobs.com/en-US/DraftKings/job/Boston-MA/Software-Engineer--December-2021-and-2022-Grads-Only-_JR1633) |
+|[Coursera](https://jobs.lever.co/coursera) | Mountain View, Toronto | SWE |
