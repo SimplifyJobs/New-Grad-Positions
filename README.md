@@ -101,3 +101,14 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 |[Pinterest](https://www.pinterestcareers.com/job-search-results/?keyword=university%20grad%20swe&primary_category=University&job_type=Regular) | San Francisco, Palo Alto, Seattle, Toronto | SWE |
 |[Liberty Mutual](https://jobs.libertymutualgroup.com/job/13586540/2022-techstart-full-time-program-portsmouth-nh/) | Various | TechStart Full-Time Program | 
 |[Two Sigma](https://careers.twosigma.com/careers/Careers?jobId=8473) | NYC | SWE |
+|[Accenture](https://www.accenture.com/us-en/careers/life-at-accenture/entry-level) | Multiple | Development programs - no separate links, click "Create Your Profile" |
+|[Becton Dickinson](https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-CA---San-Diego-Bldg-AB/BD-Software-Development-Program--SDP-_R-410769-1) | CA, NJ, MD | Software Development Program |
+|[Vise](https://boards.greenhouse.io/viseai/jobs/4695495003) | NY | SWE |
+|[Circle](https://boards.greenhouse.io/circle/jobs/5506852002) | Ithaca, US-remote | SWE (Backend), SWE (Frontend), Data Scientist |
+|[Jerry](https://jobs.lever.co/getjerry/3f85c5dd-4b36-4035-a8b6-e54c349054e8) | Toronto, SF | SWE |
+|[OneTrust](https://www.onetrust.com/careers/detail/?gh_jid=3331757) | Atlanta | Java Developer, QA, Consultant (search "New Grad" on search bar) |
+|[Cadence](https://cadence.wd1.myworkdayjobs.com/en-US/Univ_Careers/job/SAN-JOSE/Software-Engineer--New-College-Graduate_R35300) | San Jose | SWE |
+|[Redfin](https://www.redfin.com/careers/departments/emerging-talent) | Seattle | [SWE](https://redfin.wd1.myworkdayjobs.com/redfin_careers/job/WA---Seattle/Full-Time-Opportunities-for-Recent-Graduates-OR-BootCamp-Graduates_40452), [Product Designer](https://redfin.wd1.myworkdayjobs.com/redfin_careers/job/WA---Seattle/Product-Designer--Full-Time-Opportunities-for-Students-and-Recent-Graduates_41458), [Product Management](https://redfin.wd1.myworkdayjobs.com/redfin_careers/job/WA---Seattle/Product-Manager--Full-Time-Opportunities-for-Students-and-Recent-Graduates_41361) |
+|[UBS](https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5131&PageType=JobDetails&jobid=239106#jobDetails=239106_5131) | Multiple (US, London, Hongkong, Singapore...) | Tech, Banking, Asset Management, Multiple |
+|[DraftKings](https://draftkings.wd1.myworkdayjobs.com/DraftKings/) | Boston | [Analyst](https://draftkings.wd1.myworkdayjobs.com/en-US/DraftKings/job/Boston-MA/Analyst--December-2021-and-2022-Grads-Only-_JR1637), [SWE](https://draftkings.wd1.myworkdayjobs.com/en-US/DraftKings/job/Boston-MA/Software-Engineer--December-2021-and-2022-Grads-Only-_JR1633) |
+|[Coursera](https://jobs.lever.co/coursera/97594f4e-0906-4f7f-b183-0cc9a0e0885f) | Mountain View, Toronto | SWE |
