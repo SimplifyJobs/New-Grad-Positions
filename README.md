@@ -117,3 +117,5 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 |[SeatGeek](https://seatgeek.com/jobs/107959?gh_jid=107959) | NYC | SWE |
 |[Squarespace](https://www.squarespace.com/careers/jobs/3408877) | NYC | SWE |
 |[Western Digital](https://jobs.smartrecruiters.com/WesternDigital/743999770489869-software-engineering-new-college-grad-pursuing-bachelor-of-science-) | San Jose, CA | SWE |
+|[TikTok](https://careers.tiktok.com/position/7002790917644568845/detail) | MTV, SFO, SEA | SWE |
+
