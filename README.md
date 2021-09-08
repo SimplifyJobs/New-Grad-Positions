@@ -116,3 +116,4 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 |[Plaid](https://plaid.com/careers/openings/all-departments/all-locations/?role=new%20grad) | NYC, SF, Salt Lake City | SWE |
 |[SeatGeek](https://seatgeek.com/jobs/107959?gh_jid=107959) | NYC | SWE |
 |[Squarespace](https://www.squarespace.com/careers/jobs/3408877) | NYC | SWE |
+|[Western Digital](https://jobs.smartrecruiters.com/WesternDigital/743999770489869-software-engineering-new-college-grad-pursuing-bachelor-of-science-) | San Jose, CA | SWE |
