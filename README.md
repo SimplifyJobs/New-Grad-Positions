@@ -126,3 +126,4 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 |[MemSQL](https://boards.greenhouse.io/singlestore/jobs/3401522) | SF | SWE |
 |[Discovery](https://jobs.discovery.com/careers-home/jobs/27025?lang=en-us&previousLocale=en-US) | NY, WA, TN | SWE |
 |[Ebay](https://ebay.wd5.myworkdayjobs.com/en-US/apply/job/Software-Engineer--Recent-Graduate_R0049006) | Multiple Locations in the US | SWE |
+|[Audible](https://www.audiblecareers.com/job/newark/software-development-engineer-i/27552/19666722) | Newark, NJ | SWE |
