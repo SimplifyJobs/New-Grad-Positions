@@ -54,7 +54,6 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 |[Secureframe](https://jobs.lever.co/secureframe/d90aa468-f846-413f-a9c9-0834d3dfa9d7) | SF (remote) |  |
 |[Keysight Technologies](https://jobs.keysight.com/job/Santa-Rosa-R&D-Engineer-2%2C-Software-CA-95401/768839700/) | Santa Rosa, CA |  |
 |[Citrix](https://jobs.citrix.com/job/R27644/University-Software-Engineer-2022) | Multiple |  |
-|[HubSpot](https://www.hubspot.com/careers/jobs/1847807?hubs_signup-cta=careers-apply) | Cambridge |  |
 |[Nuro](https://www.nuro.ai/careersitem?gh_jid=3355701) | Mountain View |  |
 |[Capital One](https://campus.capitalone.com/job/mclean/technology-development-program-associate-2022/1786/19643594) | Multiple |  |
 |[JP Morgan](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210139739/apply/email?keyword=2022+Software+Engineer+Program+-+Full+Time+Opportunity) | NYC |  |
