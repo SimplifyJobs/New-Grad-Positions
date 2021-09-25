@@ -20,7 +20,6 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 [Hudson River Trading](https://www.hudsonrivertrading.com/careers/job/?gh_jid=82675)| New York | Algo Developer, [SWE](https://www.hudsonrivertrading.com/careers/job/?gh_jid=86641) |
 |[Fidelity](https://jobs.fidelity.com/job-details/13162494/2021-2022-undergraduates-full-stack-engineer-merrimack-nh/)| Boston + others | Full-Stack Engineer |
 |[Stytch](https://jobs.ashbyhq.com/stytch/b4ee9734-3657-4393-8eca-269ae179d7eb) | SF | |
-|[VMWare](https://careers.vmware.com/new-graduates/jobs/R2111971?lang=en-us) | Palo Alto, Atlanta | University Launch SWE |
 |[Cruise](https://boards.greenhouse.io/cruise/jobs/2364685) | SF | |
 |[Nvidia](https://nvidia.wd5.myworkdayjobs.com/UniversityJobs/) | Various | Many SWE New Grad positions |
 |[Airtable](https://boards.greenhouse.io/airtable/jobs/5311220002?) | SF | |
@@ -55,7 +54,6 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 |[Secureframe](https://jobs.lever.co/secureframe/d90aa468-f846-413f-a9c9-0834d3dfa9d7) | SF (remote) |  |
 |[Keysight Technologies](https://jobs.keysight.com/job/Santa-Rosa-R&D-Engineer-2%2C-Software-CA-95401/768839700/) | Santa Rosa, CA |  |
 |[Citrix](https://jobs.citrix.com/job/R27644/University-Software-Engineer-2022) | Multiple |  |
-|[HubSpot](https://www.hubspot.com/careers/jobs/1847807?hubs_signup-cta=careers-apply) | Cambridge |  |
 |[Nuro](https://www.nuro.ai/careersitem?gh_jid=3355701) | Mountain View |  |
 |[Capital One](https://campus.capitalone.com/job/mclean/technology-development-program-associate-2022/1786/19643594) | Multiple |  |
 |[JP Morgan](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210139739/apply/email?keyword=2022+Software+Engineer+Program+-+Full+Time+Opportunity) | NYC |  |
@@ -140,3 +138,4 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 |[Modern Treasury](https://jobs.ashbyhq.com/moderntreasury/a14a33e3-c262-425a-830c-d86965d2a864) | SF, New York, Remote | SWE |
 |[Eightfold AI](https://app.eightfold.ai/careers/job?domain=volkscience.com&pid=68728335636) | Santa Clara | SWE |
 |[Old Mission Capitol](https://www.oldmissioncapital.com/careers/?gh_jid=4371488003) | Chicago | SWE, [Quant Trader](https://www.oldmissioncapital.com/careers/?gh_jid=4454178003)
+|[Flexport](https://boards.greenhouse.io/flexport/jobs/3479879?s=LinkedIn&source=LinkedIn) | Bellevue, Chicago (High Priority), San Francisco | SWE |
