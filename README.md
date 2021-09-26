@@ -93,11 +93,11 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 |[EAB](https://eab.com/careers/open-positions/) | Multiple | Multiple "Associate" positions starting Summer 2022 |
 |[IXL](https://ie.ixl.com/company/careers) | San Mateo, Raleigh, Toronto | New Grad SWE |
 |[Visa](https://careers.smartrecruiters.com/Visa/university-recruiting) | Multiple | Multiple positions |
-|[Gem](https://www.gem.com/company/careers#jobboard) | San Francisco | New Grad Product Engineer (Rotation) | 
+|[Gem](https://www.gem.com/company/careers#jobboard) | San Francisco | New Grad Product Engineer (Rotation) |
 |[Indeed](https://ur-careers-indeed.icims.com/jobs/search?ics_keywords=Grad) | US-Remote | SWE |
 |[Restaurant Brands International](https://careers.rbi.com/global/en/c/campus-jobs) | Miami, Toronto | SWE, Leadership |
 |[Pinterest](https://www.pinterestcareers.com/job-search-results/?keyword=university%20grad%20swe&primary_category=University&job_type=Regular) | San Francisco, Palo Alto, Seattle, Toronto | SWE |
-|[Liberty Mutual](https://jobs.libertymutualgroup.com/job/13586540/2022-techstart-full-time-program-portsmouth-nh/) | Various | TechStart Full-Time Program | 
+|[Liberty Mutual](https://jobs.libertymutualgroup.com/job/13586540/2022-techstart-full-time-program-portsmouth-nh/) | Various | TechStart Full-Time Program |
 |[Two Sigma](https://careers.twosigma.com/careers/Careers?jobId=8473) | NYC | SWE |
 |[Accenture](https://www.accenture.com/us-en/careers/life-at-accenture/entry-level) | Multiple | Development programs - no separate links, click "Create Your Profile" |
 |[Becton Dickinson](https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-CA---San-Diego-Bldg-AB/BD-Software-Development-Program--SDP-_R-410769-1) | CA, NJ, MD | Software Development Program |
@@ -139,3 +139,4 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 |[Eightfold AI](https://app.eightfold.ai/careers/job?domain=volkscience.com&pid=68728335636) | Santa Clara | SWE |
 |[Old Mission Capitol](https://www.oldmissioncapital.com/careers/?gh_jid=4371488003) | Chicago | SWE, [Quant Trader](https://www.oldmissioncapital.com/careers/?gh_jid=4454178003)
 |[Flexport](https://boards.greenhouse.io/flexport/jobs/3479879?s=LinkedIn&source=LinkedIn) | Bellevue, Chicago (High Priority), San Francisco | SWE |
+|[Twitter](https://jobs.smartrecruiters.com/ni/Twitter2/38c17a4c-60d1-4333-b666-22632c1ce39b-2022-engineering-new-graduates-and-early-career-north-america-latin-america) | SF | Various Engineer Positions |
