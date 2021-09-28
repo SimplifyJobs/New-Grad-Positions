@@ -139,3 +139,5 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 |[Eightfold AI](https://app.eightfold.ai/careers/job?domain=volkscience.com&pid=68728335636) | Santa Clara | SWE |
 |[Old Mission Capitol](https://www.oldmissioncapital.com/careers/?gh_jid=4371488003) | Chicago | SWE, [Quant Trader](https://www.oldmissioncapital.com/careers/?gh_jid=4454178003)
 |[Flexport](https://boards.greenhouse.io/flexport/jobs/3479879?s=LinkedIn&source=LinkedIn) | Bellevue, Chicago (High Priority), San Francisco | SWE |
+|[Netflix](https://jobs.netflix.com/jobs/127236667) | Los Gatos, California | New Grad, Software Engineer |
+
