@@ -85,7 +85,6 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 |[Rippling](https://www.rippling.com/careers/4627196003?gh_jid=4627196003) | SF | |
 |[Yext](https://www.yext.com/careers/open-positions?facetFilters=%257B%2522c_jobCategory%2522%253A%255B%257B%2522c_jobCategory%2522%253A%257B%2522%2524eq%2522%253A%2522Interns%2520%2526%2520New%2520Grads%2522%257D%257D%255D%252C%2522c_jobLocationShortDescription%2522%253A%255B%255D%257D) | Multiple | Multiple roles |
 |[AnyScale](https://jobs.lever.co/anyscale/207867b9-8780-4e90-a82c-d8dd46ecba12) | SF| |
-|[Uber](https://university-uber.icims.com/jobs/106097/new-grad-software-engineer-backend/job) | SF| Software Engineer, Back-End |
 |[DoorDash](https://boards.greenhouse.io/doordash/jobs/3393632?gh_jid=3393632) | Multiple | Software Engineer, New Grad (Winter 2021/Spring 2022) |
 |[Blackstone](https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers) | NYC, London + Others | SWE, Analyst, others |
 |[Twilio](https://www.twilio.com/company/jobs?department=students#open-positions) | SF, Denver | SWE, others |
