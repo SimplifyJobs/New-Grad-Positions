@@ -142,3 +142,4 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 |[Netflix](https://jobs.netflix.com/jobs/127236667) | Los Gatos, California | New Grad, Software Engineer |
 |[Square](https://www.smartrecruiters.com/Square/743999776502570) | SF, Remote | Software Engineer (New Grad) |
 |[Atlassian](https://www.atlassian.com/company/careers/detail/620921f2-c09c-4d3e-8bd2-f8781fbcc276) | CA, Remote  | SWE, PM, Site Reliability Eng, Data Scientist ([Full list here](https://www.atlassian.com/company/careers/students))|
+|[Gusto](https://boards.greenhouse.io/gusto/jobs/3499021) | SF, NYC, Denver | No sponsorship |
