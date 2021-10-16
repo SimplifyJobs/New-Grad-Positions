@@ -117,7 +117,6 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 |[Better](https://boards.greenhouse.io/better/jobs/3416543) | NYC | |
 |[Sentry](https://boards.greenhouse.io/sentry/jobs/3462843) | SF, Toronto | SWE |
 |[Abnormal Security](https://boards.greenhouse.io/abnormalsecurity/jobs/4708438003) | SF | SWE |
-|[Otter.ai](https://otter.ai/careers?gh_jid=4167329003) | SF | Backend SWE |
 |[HP Enterprise](https://careers.hpe.com/job/Hewlett-Packard-Enterprise-Roseville-California/160181802) | Multiple Locations in the US | SWE |
 |[MemSQL](https://boards.greenhouse.io/singlestore/jobs/3401522) | SF | SWE |
 |[Discovery](https://jobs.discovery.com/careers-home/jobs/27025?lang=en-us&previousLocale=en-US) | NY, WA, TN | SWE |
