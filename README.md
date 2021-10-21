@@ -146,3 +146,4 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 |[Google](https://careers.google.com/jobs/results/139295856164512454-software-engineer-early-career-campus/) | US, [Canada](https://careers.google.com/jobs/results/74898009881486022-software-developer-early-career-campus/) | SWE, [Front End](https://careers.google.com/jobs/results/91669597192626886-ux-engineer-front-end-early-career/) |
 |[Gap Inc](https://www.gapinc.com/en-us/jobs/37/63/gaptech-engineering-rotational-program-2) | San Francisco, Columbus, Atlanta, Dallas | SWE |
 |[Aura](https://careers-aura.icims.com/jobs/1479/platform-engineer/job) | Remote | SWE/Platform Engineer |
+|[Slack](https://salesforce.wd1.myworkdayjobs.com/en-US/Slack/job/California---San-Francisco/Associate-Software-Engineer--New-Grad----Slack_JR117902-2) | SF | SWE |
