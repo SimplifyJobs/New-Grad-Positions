@@ -146,3 +146,4 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 |[Gap Inc](https://www.gapinc.com/en-us/jobs/37/63/gaptech-engineering-rotational-program-2) | San Francisco, Columbus, Atlanta, Dallas | SWE |
 |[Aura](https://careers-aura.icims.com/jobs/1479/platform-engineer/job) | Remote | SWE/Platform Engineer |
 |[Slack](https://salesforce.wd1.myworkdayjobs.com/en-US/Slack/job/California---San-Francisco/Associate-Software-Engineer--New-Grad----Slack_JR117902-2) | SF | SWE |
+|[Fractal](https://tryfractal.notion.site/Fractal-Job-Board-a39b64712f094c7785f588053fc283a9) | Remote/NYC | Systems/Backend Engineer |
