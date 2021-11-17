@@ -148,3 +148,4 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 |[Slack](https://salesforce.wd1.myworkdayjobs.com/en-US/Slack/job/California---San-Francisco/Associate-Software-Engineer--New-Grad----Slack_JR117902-2) | SF | SWE |
 |[Tucows](https://tucows.com/job/?gh_jid=4665305003) | Canada, USA, Fully Remote  | SWE, PM ([Full list here](https://tucows.com/careers/opportunities/))|
 |[Benchling](https://www.benchling.com/careers/?gh_jid=3248513#detail) | SF, [Boston](https://www.benchling.com/careers/?gh_jid=3632416#detail) | |
+|[Jerry](https://jobs.lever.co/getjerry/3f85c5dd-4b36-4035-a8b6-e54c349054e8) | SF, [Vancouver](https://jobs.lever.co/getjerry/e0d8f129-4750-4b42-b950-d3ba2a96a604), [Toronto](https://jobs.lever.co/getjerry/192721da-da33-4a7a-8ece-aca135e52c14) | |
