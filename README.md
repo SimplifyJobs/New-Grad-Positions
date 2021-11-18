@@ -150,3 +150,5 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 |[Benchling](https://www.benchling.com/careers/?gh_jid=3248513#detail) | SF, [Boston](https://www.benchling.com/careers/?gh_jid=3632416#detail) | |
 |[Jerry](https://jobs.lever.co/getjerry/3f85c5dd-4b36-4035-a8b6-e54c349054e8) | SF, [Vancouver](https://jobs.lever.co/getjerry/e0d8f129-4750-4b42-b950-d3ba2a96a604), [Toronto](https://jobs.lever.co/getjerry/192721da-da33-4a7a-8ece-aca135e52c14) | |
 |[WillowTree](https://www.willowtreeapps.com/careers/jobs?gh_jid=5525482002) | Charlottesville, Columbus, Durham NC | |
+|[Loom](https://jobs.lever.co/useloom/2825ab49-a5db-4ed7-a6ed-09b0d21d2439) | Remote (US and Canada) | |
+|[Cloudflare](https://boards.greenhouse.io/cloudflare/jobs/3419797?gh_jid=3419797) | SF, Austin, Champaign IL, Kirkland WA | |
