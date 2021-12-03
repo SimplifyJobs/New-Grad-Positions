@@ -151,3 +151,4 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 |[Jerry](https://jobs.lever.co/getjerry/3f85c5dd-4b36-4035-a8b6-e54c349054e8) | SF, [Vancouver](https://jobs.lever.co/getjerry/e0d8f129-4750-4b42-b950-d3ba2a96a604), [Toronto](https://jobs.lever.co/getjerry/192721da-da33-4a7a-8ece-aca135e52c14) | |
 |[WillowTree](https://www.willowtreeapps.com/careers/jobs?gh_jid=5525482002) | Charlottesville, Columbus, Durham NC | |
 |[Forward](https://jobs.lever.co/goforward/073d1961-b3fd-4515-a7a4-a34a2eedb74a?lever-source=ForwardJobsLP) | San Francisco |Full Stack |
+|[Merge](https://boards.greenhouse.io/merge/jobs/4147906004) | San Francisco, NYC | Full Stack |
