@@ -152,3 +152,4 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 |[WillowTree](https://www.willowtreeapps.com/careers/jobs?gh_jid=5525482002) | Charlottesville, Columbus, Durham NC | |
 |[Forward](https://jobs.lever.co/goforward/073d1961-b3fd-4515-a7a4-a34a2eedb74a?lever-source=ForwardJobsLP) | San Francisco |Full Stack |
 |[Merge](https://boards.greenhouse.io/merge/jobs/4147906004) | San Francisco, NYC | Full Stack |
+|[Coinbase](https://www.coinbase.com/careers/positions/1724688?gh_jid=1724688) | Remote | Full Stack |
