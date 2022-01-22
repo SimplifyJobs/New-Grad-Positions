@@ -153,3 +153,4 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 |[Merge](https://boards.greenhouse.io/merge/jobs/4147906004) | San Francisco, NYC | Full Stack |
 |[Orchard](https://boards.greenhouse.io/orchard/jobs/4822825002) | NYC | SWE |
 |[Coinbase](https://www.coinbase.com/careers/positions/1724688?gh_jid=1724688) | Remote | Full Stack |
+|[Raytheon Technologies](https://careers.rtx.com/global/en/job/191574MBR) | Riverdale, MD | Systems Engineer |
