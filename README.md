@@ -18,7 +18,7 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 |[Arrowstreet Capital](https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Arrowstreet/details/XMLNAME-2022-Technology-Rotational-Development-Program_R523) | Boston | SWE Technology Rotational Development Program |
 |[Jane Street](https://www.janestreet.com/join-jane-street/position/5311286002/) | NYC | |
 [Hudson River Trading](https://www.hudsonrivertrading.com/careers/job/?gh_jid=82675)| New York | Algo Developer, [SWE](https://www.hudsonrivertrading.com/careers/job/?gh_jid=86641) |
-|[Fidelity](https://jobs.fidelity.com/job-details/13162494/2021-2022-undergraduates-full-stack-engineer-merrimack-nh/)| Boston + others | Full-Stack Engineer |
+|[Fidelity](https://jobs.fidelity.com/job-search-results/?parent_category[]=Technology)| Boston + others | Full-Stack Engineer and Others|
 |[Stytch](https://jobs.ashbyhq.com/stytch/b4ee9734-3657-4393-8eca-269ae179d7eb) | SF | |
 |[Cruise](https://boards.greenhouse.io/cruise/jobs/2364685) | SF | |
 |[Nvidia](https://nvidia.wd5.myworkdayjobs.com/UniversityJobs/) | Various | Many SWE New Grad positions |
