@@ -16,4 +16,4 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 
 | Name                                   | Location | Notes                                   |
 | -------------------------------------- | -------- | --------------------------------------- |
-| [Example Company](https://example.com) | NYC      | Hiring Software Engineer, PM, and Quant |
+| [Akuna Capital](https://akunacapital.com/careers?experience=junior&department=development#careers) | Chicago      | 	Various Junior Developer Positions |
