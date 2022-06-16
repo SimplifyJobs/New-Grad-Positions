@@ -20,3 +20,4 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [VMware](https://careers.vmware.com/main/jobs/R2212905?lang=en-us) | Palo Alto, California; Atlanta, Georgia  | Launch New Grad SWE |
 | [IMC](https://imc.wd5.myworkdayjobs.com/invitation/job/Chicago/Graduate-Software-Engineer_REQ-01946#utm_source=peoplepath) | Chicago  | Graduate Software Engineer |
 | [Palantir](https://jobs.lever.co/palantir/c34b424e-caf2-455a-b104-ae1096ccca29) | Denver, CO | Software Engineer, New Grad |
+| [Sofi](https://www.sofi.com/careers/job/?gh_jid=5110537003) | Seattle, San Francisco, Murrah | Software Development Engineer, New Grad |
