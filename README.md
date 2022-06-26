@@ -23,3 +23,4 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [Sofi](https://www.sofi.com/careers/job/?gh_jid=5110537003) | Seattle, San Francisco, Murrah | Software Development Engineer, New Grad |
 | [Egen Solutions](https://jobs.lever.co/egensolutions/b8241d47-ab6c-456c-823d-1a6bd59e402f) | Naperville, IL | Software Engineer, University Graduates, 2023 |
 | [Amazon](https://www.amazon.jobs/en/jobs/2080728/software-development-engineer-2023-us) | US | New Grad SDE |
+| [Sunshine](https://www.linkedin.com/jobs/view/3129938108/) | Palo Alto, CA | SWE New Grad 2023 | 
