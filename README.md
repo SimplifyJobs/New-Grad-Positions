@@ -26,3 +26,4 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [Sunshine](https://jobs.lever.co/sunshine/a576f278-9748-49ab-b0b5-1104ef8880c4/apply) | Palo Alto, CA | SWE New Grad 2023 | 
 | [Jane Street](https://www.janestreet.com/join-jane-street/position/6214578002/) | NYC | Software Engineer, New Grad |
 | [Raytheon Technologies](https://careers.rtx.com/global/en/job/01544342) | Sterling, VA | Software Engineer I, New Grad |
+| [Red Hat Software Engineers](https://us-redhat.icims.com/jobs/95771/software-engineer/job) | Remote, MA | Software Engineer, New Grad |
