@@ -27,4 +27,4 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [Jane Street](https://www.janestreet.com/join-jane-street/position/6214578002/) | NYC | Software Engineer, New Grad |
 | [~~Raytheon Technologies~~](https://careers.rtx.com/global/en/job/01544342) | Sterling, VA | Software Engineer I, New Grad |
 | [Cruise](https://boards.greenhouse.io/cruise/jobs/3466899?gh_jid=3466899&gh_src=1xdap08r1) | San Francisco, CA | New Grad, Software Engineer |
-| [Applied Intuition](https://jobs.lever.co/applied/cbcfe9b0-7f94-4dee-aa27-248e4135c307) | MOUNTAIN VIEW, CA | New Grad, Software Engineer |
+| [Applied Intuition](https://jobs.lever.co/applied/?team=New%20Grad) | MOUNTAIN VIEW, CA | New Grad, Software Engineer |
