@@ -27,3 +27,4 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [Jane Street](https://www.janestreet.com/join-jane-street/position/6214578002/) | NYC | Software Engineer, New Grad |
 | [~~Raytheon Technologies~~](https://careers.rtx.com/global/en/job/01544342) | Sterling, VA | Software Engineer I, New Grad |
 | [Cruise](https://boards.greenhouse.io/cruise/jobs/3466899?gh_jid=3466899&gh_src=1xdap08r1) | San Francisco, CA | New Grad, Software Engineer |
+| [Capital One](https://www.capitalonecareers.com/job/mclean/technology-development-program-associate-2023/31238/31914108720) | McLean, Virginia; Roswell, Georgia; Philadelphia, Pennsylvania; New York, New York; Chicago, Illinois; San Francisco, California; Wilmington, Delaware; Cambridge, Massachusetts; Richmond, Virginia; Plano, Texas | Technology Development Program Associate |
