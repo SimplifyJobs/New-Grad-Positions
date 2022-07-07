@@ -33,3 +33,4 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [Indeed](https://university.indeed.jobs/university/jobs/39977?lang=en-us) | Remote | Associate Research Engineer. Accepts F1 OPT and will sponsor work visas. |
 | [Capital One](https://www.capitalonecareers.com/job/mclean/technology-development-program-associate-2023/31238/31914108720) | US | Technology Development Program Associate |
 | [Virtu Financial](https://www.virtu.com/careers/) | New York, NY | Entry-Level Software Engineer |
+| [Citadel](https://www.citadel.com/careers/open-positions/positions-for-students/?keyword=Full%20Time) | US | Software Engineer |
