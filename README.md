@@ -31,6 +31,6 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [Applied Intuition](https://jobs.lever.co/applied/?team=New%20Grad) | Mountain View, CA | New Grad, Software Engineer |
 | [D. E. Shaw](https://www.deshaw.com/careers/choose-your-path) | NYC, London | Various tech roles. Accepts F1 OPT and will sponsor work visas. |
 | [~~Indeed~~](https://university.indeed.jobs/university/jobs/39977?lang=en-us) | Remote | Associate Research Engineer. Accepts F1 OPT and will sponsor work visas. |
-| [Capital One](https://www.capitalonecareers.com/job/mclean/technology-development-program-associate-2023/31238/31914108720) | US | Technology Development Program Associate (do not sponsor; if you need sponsorship, you will be immediately rejected upon submitting the application) |
+| [Capital One](https://www.capitalonecareers.com/job/mclean/technology-development-program-associate-2023/31238/31914108720) | US | Technology Development Program Associate (if you need sponsorship, you will be immediately rejected upon submitting the application) |
 | [Virtu Financial](https://www.virtu.com/careers/) | New York, NY | Entry-Level Software Engineer |
 | [Citadel](https://www.citadel.com/careers/open-positions/positions-for-students/?keyword=Full%20Time) | US | Software Engineer |
