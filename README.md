@@ -37,4 +37,4 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [Philadelphia Phillies](https://boards.greenhouse.io/philadelphiaphilliesrddepartment/jobs/5203393003?gh_src=99fc01a23us) | Philadelphia, PA | Software Engineer Associate (Sprint/Summer 2023) |
 | [Caterpillar](https://careers.caterpillar.com/en/jobs/job/r0000140356-2023-associate-software-engineer-cat-digital/?source=LinkedIn) | Champaign, IL | Associate Software Engineer (Cat Digital) |
 | [Procter & Gamble](https://www.pgcareers.com/job/cincinnati/software-data-engineer-2023-grads/936/32401863136) | Cincinnati, OH | Software/Data Engineer 2023 Grads |
-| [Oracle](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/175340/location=United+States&locationId=300000000149325&selectedFlexFieldsFacets=%22AttributeChar13%7CCampus%22) | US | Software Engineer 2023 Grads |
+| [Oracle](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/175340/?location=United+States&locationId=300000000149325&selectedFlexFieldsFacets=%22AttributeChar13%7CCampus%22) | US | Software Engineer 2023 Grads |
