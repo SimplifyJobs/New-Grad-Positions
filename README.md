@@ -38,3 +38,4 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [Caterpillar](https://careers.caterpillar.com/en/jobs/job/r0000140356-2023-associate-software-engineer-cat-digital/?source=LinkedIn) | Champaign, IL | Associate Software Engineer (Cat Digital) |
 | [Procter & Gamble](https://www.pgcareers.com/job/cincinnati/software-data-engineer-2023-grads/936/32401863136) | Cincinnati, OH | Software/Data Engineer 2023 Grads |
 | [Optiver](https://www.optiver.com/working-at-optiver/career-opportunities/6254739002/?gh_src=9fb491cd2&gh_src=9fb491cd2) | Austin, TX | Graduate Software Engineer 2023 |
+| [Stytch](https://jobs.ashbyhq.com/stytch/b4ee9734-3657-4393-8eca-269ae179d7eb) | San Francisco, CA | New Grad, Software Engineer |
