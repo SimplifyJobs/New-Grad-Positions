@@ -13,7 +13,7 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 - [Competitive Programmer's Handbook](https://cses.fi/book/book.pdf)
 
 ## The List
-
+test
 | Name                                   | Location | Notes                                   |
 | -------------------------------------- | -------- | --------------------------------------- |
 | [Akuna Capital](https://akunacapital.com/careers?experience=junior&department=development#careers) | Chicago      | 	Various Junior Developer Positions |
