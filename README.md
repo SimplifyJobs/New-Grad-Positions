@@ -29,8 +29,8 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [Cruise](https://boards.greenhouse.io/cruise/jobs/3466899?gh_jid=3466899&gh_src=1xdap08r1) | San Francisco, CA | New Grad, Software Engineer |
 | [Goldman Sachs](https://www.goldmansachs.com/careers/students/programs/americas/new-analyst-program.html) | US | 2023 New Analyst Program |
 | [Applied Intuition](https://jobs.lever.co/applied/?team=New%20Grad) | Mountain View, CA | New Grad, Software Engineer |
-| [D. E. Shaw](https://www.deshaw.com/careers/choose-your-path) | NYC, London | Various tech roles. Accepts F1 OPT and will sponsor work visas. |
-| [~~Indeed~~](https://university.indeed.jobs/university/jobs/39977?lang=en-us) | Remote | Associate Research Engineer. Accepts F1 OPT and will sponsor work visas. |
+| [D. E. Shaw](https://www.deshaw.com/careers/choose-your-path) | NYC, London | Various tech roles |
+| [~~Indeed~~](https://university.indeed.jobs/university/jobs/39977?lang=en-us) | Remote | Associate Research Engineer |
 | [Capital One](https://www.capitalonecareers.com/job/mclean/technology-development-program-associate-2023/31238/31914108720) | US | Technology Development Program Associate |
 | [Virtu Financial](https://www.virtu.com/careers/) | New York, NY | Entry-Level Software Engineer |
 | [Citadel](https://www.citadel.com/careers/open-positions/positions-for-students/?keyword=Full%20Time) | US | Software Engineer |
@@ -41,4 +41,4 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [Oracle](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/175340/?location=United+States&locationId=300000000149325&selectedFlexFieldsFacets=%22AttributeChar13%7CCampus%22) | US | Software Engineer 2023 Grads |
 | [Cisco (Meraki)](https://jobs.cisco.com/jobs/ProjectDetail/Full-Stack-Engineer-Early-Career-Meraki/1372139) | San Francisco, CA | Full Stack Engineer, Early Career (Meraki) |
 | [Stytch](https://jobs.ashbyhq.com/stytch/b4ee9734-3657-4393-8eca-269ae179d7eb) | San Francisco, CA | New Grad, Software Engineer |
-| [SIG](https://careers.sig.com/job/SUSQA004Y6229)  | Bala Cynwyd, PA | Software Developer--Campus 2023 Start. Visa sponsorship is available. |
+| [SIG](https://careers.sig.com/job/SUSQA004Y6229)  | Bala Cynwyd, PA | Software Developer--Campus 2023 Start |
