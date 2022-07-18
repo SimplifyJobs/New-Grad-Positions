@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> CoderQuad | New-Grad-Positions-2023</title>
+    <script type="module">
+        const README_URL =
+            "https://raw.githubusercontent.com/coderQuad/New-Grad-Positions-2023/master/README.md";
+        const SPLIT_LINE =
+            "| -------------------------------------- | -------- | --------------------------------------- |";
+
+        const readme = await fetch(README_URL).then((res) => res.text());
+        let table = "";
+        readme
+            .split(SPLIT_LINE)[1]
+            .split("\n")
+            .forEach((row) => {
+                if (row.length > 0) {
+                    table += `<tr>${row
+                        .split("|")
+                        .slice(1, 4)
+                        .map((cell) => {
+                            if (cell.includes("[")) {
+                                cell = cell.replace("~~", "<s>").replace("~~", "</s>");
+                                return `<td><a href=${cell.split("(")[1].split(")")[0]}>${cell.split("[")[1].split("]")[0]
+                                    }</a></td>`;
+                            }
+                            return `<td>${cell.trim()}</td>`;
+                        })
+                        .join("")}</tr>`;
+                }
+            });
+
+        document.getElementById("table-body").innerHTML = table;
+    </script>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+        body {
+            font-family: 'Open Sans', sans-serif;
+            text-align: center;
+        }
+
+        .sortable {
+            margin: auto;
+            margin-bottom: 3rem;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>CoderQuad | New-Grad-Positions-2023</h1>
+    <table class="sortable">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Location</th>
+                <th>Notes</th>
+            </tr>
+        </thead>
+        <tbody id="table-body">
+
+        </tbody>
+    </table>
+
+    <link href="https://tofsjonas.github.io/sortable/sortable.css" rel="stylesheet" />
+    <script src="https://tofsjonas.github.io/sortable/sortable.js"></script>
+</body>
+
+</html>
