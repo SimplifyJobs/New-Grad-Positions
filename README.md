@@ -42,3 +42,4 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [Cisco (Meraki)](https://jobs.cisco.com/jobs/ProjectDetail/Full-Stack-Engineer-Early-Career-Meraki/1372139) | San Francisco, CA | Full Stack Engineer, Early Career (Meraki) |
 | [Stytch](https://jobs.ashbyhq.com/stytch/b4ee9734-3657-4393-8eca-269ae179d7eb) | San Francisco, CA | New Grad, Software Engineer |
 | [SIG](https://careers.sig.com/job/SUSQA004Y6229)  | Bala Cynwyd, PA | Software Developer--Campus 2023 Start |
+| [Five Rings](https://fiverings.avature.net/careers)  | New York, NY | Software Developer--Campus 2023 Start |
