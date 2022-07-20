@@ -43,4 +43,6 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [Stytch](https://jobs.ashbyhq.com/stytch/b4ee9734-3657-4393-8eca-269ae179d7eb) | San Francisco, CA | New Grad, Software Engineer |
 | [SIG](https://careers.sig.com/job/SUSQA004Y6229)  | Bala Cynwyd, PA | Software Developer--Campus 2023 Start |
 | [Raytheon Technologies](https://careers.rtx.com/global/en/job/01517187/Software-Engineer-I--New-Grad---Hybrid-)  | Cedar Rapids, IA | Software Engineer I(New Grad)(Hybrid)|
+| [Qualcomm](https://qualcomm.wd5.myworkdayjobs.com/en-US/External/job/Camera-Software-Engineer--New-Graduates-_3023665)  | San Diego, CA | Camera Software Engineer I(New Graduates)|
+
 
