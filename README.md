@@ -44,3 +44,4 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [SIG](https://careers.sig.com/job/SUSQA004Y6229)  | Bala Cynwyd, PA | Software Developer--Campus 2023 Start |
 | [Five Rings](https://fiverings.avature.net/careers)  | New York, NY | Software Developer--Campus 2023 Start |
 | [Otter.ai](https://otter.ai/job-detail?gh_jid=5120493003&gh_src=null)  | Mountain View, CA | Software Engineer, Backend (New Grad) |
+| [General Motors](https://search-careers.gm.com/jobs/job/entry-level-software-engineering-rotational-program-warren-jr-000089747/)  | Warren, MI | Entry Level SWE Rotational |
