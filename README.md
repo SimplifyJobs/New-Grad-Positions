@@ -21,7 +21,7 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [IMC](https://imc.wd5.myworkdayjobs.com/invitation/job/Chicago/Graduate-Software-Engineer_REQ-01946#utm_source=peoplepath) | Chicago| Graduate Software Engineer | Applied |
 | [Palantir](https://jobs.lever.co/palantir/c34b424e-caf2-455a-b104-ae1096ccca29) | Denver, CO | Software Engineer, New Grad |
 | [~~Sofi~~](https://www.sofi.com/careers/job/?gh_jid=5110537003) | Seattle, San Francisco, Murrah | Software Development Engineer, New Grad |
-| [Egen Solutions](https://jobs.lever.co/egensolutions/b8241d47-ab6c-456c-823d-1a6bd59e402f) | Naperville, IL | Software Engineer, University Graduates, 2023 |
+| [Egen Solutions](https://jobs.lever.co/egensolutions/b8241d47-ab6c-456c-823d-1a6bd59e402f) | Naperville, IL | Software Engineer, University Graduates, 2023 | Applied |
 | [Amazon](https://www.amazon.jobs/en/jobs/2080728/software-development-engineer-2023-us) | US | New Grad SDE | Applied |
 | [~~Sunshine~~](https://jobs.lever.co/sunshine/a576f278-9748-49ab-b0b5-1104ef8880c4/apply) | Palo Alto, CA | SWE New Grad 2023 | 
 | [Jane Street](https://www.janestreet.com/join-jane-street/position/6214578002/) | NYC | Software Engineer, New Grad |
