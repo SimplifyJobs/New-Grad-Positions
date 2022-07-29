@@ -44,3 +44,4 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [SIG](https://careers.sig.com/job/SUSQA004Y6229)  | Bala Cynwyd, PA | Software Developer--Campus 2023 Start |
 | [Five Rings](https://fiverings.avature.net/careers)  | New York, NY | Software Developer--Campus 2023 Start |
 | [Ripple](https://boards.greenhouse.io/ripple/jobs/4387791) | San Francisco, CA | Software Engineer, RippleNet Payments (New Grad) |
+| [IXL Learning](https://www.ixl.com/company/careers?gh_jid=5779287002&gh_src=e358d0722) | Raleigh, NC | Software Engineer, New Grad |
