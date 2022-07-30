@@ -44,3 +44,5 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [SIG](https://careers.sig.com/job/SUSQA004Y6229)  | Bala Cynwyd, PA | Software Developer--Campus 2023 Start |
 | [Five Rings](https://fiverings.avature.net/careers)  | New York, NY | Software Developer--Campus 2023 Start |
 | [Otter.ai](https://otter.ai/job-detail?gh_jid=5120493003&gh_src=null)  | Mountain View, CA | Software Engineer, Backend (New Grad) |
+| [MathWorks](https://www.mathworks.com/company/jobs/opportunities/16217-multiple-openings-engineering-development-group-u-s?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)  | Natick, MA | Multiple Openings - Engineering Development Group |
+
