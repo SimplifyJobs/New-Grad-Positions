@@ -46,3 +46,4 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [Five Rings](https://fiverings.avature.net/careers)  | New York, NY | Software Developer--Campus 2023 Start |
 | [Otter.ai](https://otter.ai/job-detail?gh_jid=5120493003&gh_src=null)  | Mountain View, CA | Software Engineer, Backend (New Grad) |
 | [Vanta](https://boards.greenhouse.io/vanta/jobs/5745472002)  | New York, San Francisco | Software Engineer, New Grad |
+| [Stytch](https://valence.jobboard.io/jobs/137194208-software-engineer-new-grad-2023-at-stytch)  | San Francisco, CA | Software Engineer - New Grad 2023 |
