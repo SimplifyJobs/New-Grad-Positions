@@ -17,7 +17,6 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | Name                                   | Location | Notes                                   |
 | -------------------------------------- | -------- | --------------------------------------- |
 | [Akuna Capital](https://akunacapital.com/careers?experience=junior&department=development#careers) | Chicago      | 	Various Junior Developer Positions |
-| [Esri](https://www.esri.com/careers/software-development-engineer-client-server-16670) | Redlands, CA; Remote | Software Development Engineer (Client/Server) Entry Level |
 | [Disney](https://jobs.disneycareers.com/job/-/-/391/33379644048) | Burbank, CA | SWE 1; Requires 0 Experience|
 | [VMware](https://careers.vmware.com/main/jobs/R2212905?lang=en-us) | Palo Alto, California; Atlanta, Georgia  | Launch New Grad SWE |
 | [IMC](https://imc.wd5.myworkdayjobs.com/invitation/job/Chicago/Graduate-Software-Engineer_REQ-01946#utm_source=peoplepath) | Chicago  | Graduate Software Engineer |
@@ -61,3 +60,4 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [Abnormal Security](https://careers.abnormalsecurity.com/open-roles?gh_jid=5131426003) | San Francisco, California | New Grad SWE |
 | [Audible](https://www.amazon.jobs/en/jobs/1999808/software-development-engineer?cmpid=SPLICX0248M&utm_source=linkedin.com&utm_campaign=audible&utm_medium=social_media&utm_content=job_posting&ss=paid) | Culver City, CA | Software Development Engineer|
 | [Argano](https://argano.hrmdirect.com/employment/view.php?req=2024176) | Remote | Junior Software Engineer|
+| [Esri](https://www.esri.com/careers/software-development-engineer-client-server-16670) | Redlands, CA; Remote | Software Development Engineer (Client/Server) Entry Level |
