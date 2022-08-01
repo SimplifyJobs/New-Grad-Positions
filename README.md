@@ -3,6 +3,7 @@
 The 2023 Full time grind has begun! Use this repo to share and keep track of any full time positions in Quant, Data Scientist, SWE, ML Engineer and PM.
 
 **Contribute by making a pull request!**
+##### Note: This posting is for 2023 positions. So please make sure it is included in the job description that the start date is in 2023.
 
 ## Resources
 
