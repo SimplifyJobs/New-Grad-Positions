@@ -43,6 +43,7 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [Cisco (Meraki)](https://jobs.cisco.com/jobs/ProjectDetail/Full-Stack-Engineer-Early-Career-Meraki/1372139) | San Francisco, CA | Full Stack Engineer, Early Career (Meraki) |
 | [Stytch](https://jobs.ashbyhq.com/stytch/b4ee9734-3657-4393-8eca-269ae179d7eb) | San Francisco, CA | New Grad, Software Engineer |
 | [SIG](https://careers.sig.com/job/SUSQA004Y6229)  | Bala Cynwyd, PA | Software Developer--Campus 2023 Start |
+| [Capstone](https://www.capstoneco.com/careers/2023-technology-graduate-rotation-program-nyc/?gh_jid=6223901002)  | NYC | 2023 Technology Graduate Rotation Program |
 | [Five Rings](https://fiverings.avature.net/careers)  | New York, NY | Software Developer--Campus 2023 Start |
 | [Otter.ai](https://otter.ai/job-detail?gh_jid=5120493003&gh_src=null)  | Mountain View, CA | Software Engineer, Backend (New Grad) |
 | [Citrix](https://citrix.wd1.myworkdayjobs.com/en-US/CitrixCareers/job/Software-Engineer--2023-_R34470)  | US | Software Engineer 2023 |
