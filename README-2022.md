@@ -155,3 +155,4 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 |[Coinbase](https://www.coinbase.com/careers/positions/1724688?gh_jid=1724688) | Remote | Full Stack |
 |[Raytheon Technologies](https://careers.rtx.com/global/en/job/191574MBR) | Riverdale, MD | Systems Engineer |
 |[CGI](https://cgi.njoyn.com/cgi/xweb/xweb.asp?clid=21001&page=jobdetails&jobid=J1021-0817&BRID=866616&SBDID=943) | Plymouth Meeting, PA | Software Developer - Campus Recruiting | 
+|[Broadway Technology](https://jobs.lever.co/broadwaytechnology/d01f088a-0b3d-4dd9-97ab-86dda8ba83ef?lever-source=LinkedInJobs) | Austin, TX | Software Consultant (New Grad) - Austin |
