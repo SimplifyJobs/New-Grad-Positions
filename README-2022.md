@@ -154,3 +154,4 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 |[Orchard](https://boards.greenhouse.io/orchard/jobs/4822825002) | NYC | SWE |
 |[Coinbase](https://www.coinbase.com/careers/positions/1724688?gh_jid=1724688) | Remote | Full Stack |
 |[Raytheon Technologies](https://careers.rtx.com/global/en/job/191574MBR) | Riverdale, MD | Systems Engineer |
+|[CGI](https://cgi.njoyn.com/cgi/xweb/xweb.asp?clid=21001&page=jobdetails&jobid=J1021-0817&BRID=866616&SBDID=943) | Plymouth Meeting, PA | Software Developer - Campus Recruiting | 
