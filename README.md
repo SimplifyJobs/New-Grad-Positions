@@ -49,7 +49,7 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [Capstone](https://www.capstoneco.com/careers/2023-technology-graduate-rotation-program-nyc/?gh_jid=6223901002)  | NYC | 2023 Technology Graduate Rotation Program |
 | [Five Rings](https://fiverings.avature.net/careers)  | New York, NY | Software Developer--Campus 2023 Start |
 | [Citrix](https://citrix.wd1.myworkdayjobs.com/en-US/CitrixCareers/job/Software-Engineer--2023-_R34470)  | US | Software Engineer 2023 |
-| [WeRide.ai](https://jobs.lever.co/weride/97063737-808b-4078-b1d8-8ffcef30635a)  | San Jose, CA | Software Engineer (New Grad) |
+| [WeRide.ai](https://jobs.lever.co/weride/97063737-808b-4078-b1d8-8ffcef30635a)  | San Jose, CA | Software Engineer (New Grad) | Applied |
 | [~~Otter.ai~~](https://otter.ai/job-detail?gh_jid=5120493003&gh_src=null)  | ~~Mountain View, CA~~ | ~~Software Engineer, Backend (New Grad)~~|
 | [Verkada](https://jobs.lever.co/verkada/b0946e83-4174-4ecb-9873-6d0030ca1023?lever-source=LinkedIn) | San Mateo, CA | Software Engineer, Backend (2023 Grad) | Applied |
 | [MathWorks](https://www.mathworks.com/company/jobs/opportunities/16217-multiple-openings-engineering-development-group-u-s?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)  | Natick, MA | Multiple Openings - Engineering Development Group |
