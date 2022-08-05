@@ -155,3 +155,4 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 |[Coinbase](https://www.coinbase.com/careers/positions/1724688?gh_jid=1724688) | Remote | Full Stack |
 |[Raytheon Technologies](https://careers.rtx.com/global/en/job/191574MBR) | Riverdale, MD | Systems Engineer |
 |[Moloco](https://boards.greenhouse.io/moloco/jobs/5136172003?s=LinkedIn&source=LinkedIn) | Redwood City, CA | Software Engineer, Frontend (New Grad or Junior) |
+|[National Instruments](https://pef.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/5861?utm_medium=jobshare&utm_medium=jobboard&utm_source=Linkedin) | Austin, TX | IT Software Engineer (New Grad) |
