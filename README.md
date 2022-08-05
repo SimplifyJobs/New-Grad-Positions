@@ -46,7 +46,7 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [SIG](https://careers.sig.com/job/SUSQA004Y6229)  | Bala Cynwyd, PA | Software Developer--Campus 2023 Start | Applied | 
 | [Raytheon Technologies](https://careers.rtx.com/global/en/job/01517187/Software-Engineer-I--New-Grad---Hybrid-)  | Cedar Rapids, IA | Software Engineer I(New Grad)(Hybrid)|
 | [Qualcomm](https://qualcomm.wd5.myworkdayjobs.com/en-US/External/job/Camera-Software-Engineer--New-Graduates-_3023665)  | San Diego, CA | Camera Software Engineer I(New Graduates)|
-| [Capstone](https://www.capstoneco.com/careers/2023-technology-graduate-rotation-program-nyc/?gh_jid=6223901002)  | NYC | 2023 Technology Graduate Rotation Program |
+| [Capstone](https://www.capstoneco.com/careers/2023-technology-graduate-rotation-program-nyc/?gh_jid=6223901002)  | NYC | 2023 Technology Graduate Rotation Program | Applied |
 | [Five Rings](https://fiverings.avature.net/careers)  | New York, NY | Software Developer--Campus 2023 Start |
 | [Citrix](https://citrix.wd1.myworkdayjobs.com/en-US/CitrixCareers/job/Software-Engineer--2023-_R34470)  | US | Software Engineer 2023 |
 | [WeRide.ai](https://jobs.lever.co/weride/97063737-808b-4078-b1d8-8ffcef30635a)  | San Jose, CA | Software Engineer (New Grad) | Applied |
