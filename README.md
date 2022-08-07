@@ -61,3 +61,4 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [Audible](https://www.amazon.jobs/en/jobs/1999808/software-development-engineer?cmpid=SPLICX0248M&utm_source=linkedin.com&utm_campaign=audible&utm_medium=social_media&utm_content=job_posting&ss=paid) | Culver City, CA | Software Development Engineer|
 | [Argano](https://argano.hrmdirect.com/employment/view.php?req=2024176) | Remote | Junior Software Engineer|
 | [Hudson River Trading](https://www.hudsonrivertrading.com/careers/job/?gh_jid=4454933&gh_src=b79c7b511us) | Austin, TX | Software Engineer - On Campus Recruiting 2023 |
+| [Neeva](https://jobs.lever.co/neeva/8f7622f3-174b-421b-88f2-407c89ef55fe?lever-source=LinkedInJobs) | Mountain View, CA / Austin, TX | Software Engineer, New Grad, 2023 |
