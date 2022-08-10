@@ -24,7 +24,7 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [~~Sofi~~](https://www.sofi.com/careers/job/?gh_jid=5110537003) | Seattle, San Francisco, Murrah | Software Development Engineer, New Grad |
 | [Egen Solutions](https://jobs.lever.co/egensolutions/b8241d47-ab6c-456c-823d-1a6bd59e402f) | Naperville, IL | Software Engineer, University Graduates, 2023 |
 | [Amazon](https://www.amazon.jobs/en/jobs/2080728/software-development-engineer-2023-us) | US | [New Grad SDE](https://www.amazon.jobs/en/jobs/2080728/software-development-engineer-2023-us), [New Grad Frontend](https://www.amazon.jobs/en/jobs/2141834/front-end-engineer-2023-us) |
-| [~~Sunshine~~](https://jobs.lever.co/sunshine/a576f278-9748-49ab-b0b5-1104ef8880c4/apply) | Palo Alto, CA | SWE New Grad 2023 |
+| [~~Sunshine~~](https://jobs.lever.co/sunshine/a576f278-9748-49ab-b0b5-1104ef8880c4/apply) | Palo Alto, CA | SWE New Grad 2023 | 
 | [Jane Street](https://www.janestreet.com/join-jane-street/position/6214578002/) | NYC | Software Engineer, New Grad |
 | [~~Raytheon Technologies~~](https://careers.rtx.com/global/en/job/01544342) | Sterling, VA | Software Engineer I, New Grad |
 | [Cruise](https://boards.greenhouse.io/cruise/jobs/3466899?gh_jid=3466899&gh_src=1xdap08r1) | San Francisco, CA | New Grad, Software Engineer |
@@ -52,15 +52,15 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [~~Otter.ai~~](https://otter.ai/job-detail?gh_jid=5120493003&gh_src=null)  | ~~Mountain View, CA~~ | ~~Software Engineer, Backend (New Grad)~~|
 | [MathWorks](https://www.mathworks.com/company/jobs/opportunities/16217-multiple-openings-engineering-development-group-u-s?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)  | Natick, MA | Multiple Openings - Engineering Development Group |
 | [Vanta](https://boards.greenhouse.io/vanta/jobs/5745472002)  | New York, San Francisco | Software Engineer, New Grad |
-| [Verkada](https://jobs.lever.co/verkada/b0946e83-4174-4ecb-9873-6d0030ca1023)  | San Mateo, CA | [Backend](https://jobs.lever.co/verkada/b0946e83-4174-4ecb-9873-6d0030ca1023), [Frontend](https://jobs.lever.co/verkada/dfcab784-b82e-4bcc-9949-3cff41a5084e)|
+| [Verkada](https://jobs.lever.co/verkada/b0946e83-4174-4ecb-9873-6d0030ca1023)  | San Mateo, CA | [Backend](https://jobs.lever.co/verkada/b0946e83-4174-4ecb-9873-6d0030ca1023), [Frontend](https://jobs.lever.co/verkada/dfcab784-b82e-4bcc-9949-3cff41a5084e)
 | [Credit Suisse](https://tas-creditsuisse.taleo.net/careersection/campus/jobdetail.ftl?job=213383&lang=en)  | New York, NY; Raleigh, NC  | 2023 Americas Technology Full-Time Analyst. For the role in Raleigh, search for the job title on their website. |
 | [Old Mission](https://www.oldmissioncapital.com/careers/?gh_jid=5193176003)  | Multiple locations  | College Graduates - Full-Time - Junior Software Engineer |
 | [Abnormal Security](https://careers.abnormalsecurity.com/open-roles?gh_jid=5131426003) | San Francisco, California | New Grad SWE |
 | [~~Audible~~](https://www.amazon.jobs/en/jobs/1999808/software-development-engineer?cmpid=SPLICX0248M&utm_source=linkedin.com&utm_campaign=audible&utm_medium=social_media&utm_content=job_posting&ss=paid) | Culver City, CA | Software Development Engineer|
 | [Argano](https://argano.hrmdirect.com/employment/view.php?req=2024176) | Remote | Junior Software Engineer|
-| [Microsoft](https://careers.microsoft.com/us/en/job/1388843/Software-Engineering-Full-Time-Opportunities-for-University-Graduates?jobsource=indeed&utm_source=indeed&utm_medium=indeed&utm_campaign=indeed-feed)  | USA  | New Graduate Software Engineer|
+| [Microsoft](https://careers.microsoft.com/us/en/job/1388843/Software-Engineering-Full-Time-Opportunities-for-University-Graduates?jobsource=indeed&utm_source=indeed&utm_medium=indeed&utm_campaign=indeed-feed)  | USA  | New Graduate Software Engineer
 | [Uber](https://university-uber.icims.com/jobs/116884/job) | San Francisco, Sunnyvale, CA; Seattle, WA; Boulder, CO; New York, NY; Toronto, ON | New Grad - Software Engineer I |
 | [Lawrence Livermore National Laboratory](https://www.llnl.gov/join-our-team/careers/find-your-job/all/software%20developer/3743990000246205) | Livermore, CA or remote | Software Developer |
 | [Hudson River Trading](https://www.hudsonrivertrading.com/careers/job/?_4118765=Full-Time%3A+New+Grad&_4168241=Software+Engineering%3AC%2B%2B&gh_jid=4454918&req_id=311) | Multiple | Software Engineer & [Algo Software Engineer](https://www.hudsonrivertrading.com/careers/job/?_4118765=Full-Time%3A+New+Grad&_4168241=Software+Engineering%3AC%2B%2B&gh_jid=4454781&req_id=310). For the roles in other locations, search for the job title on their website. |
 | [Roblox](https://jobs.roblox.com/careers?gh_jid=4395968) | San Mateo, CA| Software Engineer - New Grad (Summer 2023)|
-| [Ceridian](https://www.mydayforce.com/CandidatePortal/en-us/mydayforce/site/alljobs/Posting/View/43677) | Remote | Software Developer; 0 Experience Required|
+| [Ceridian](https://www.mydayforce.com/CandidatePortal/en-us/mydayforce/site/alljobs/Posting/View/43677) | Remote | Software Developer; 0 Experience Required
