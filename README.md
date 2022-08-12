@@ -17,7 +17,7 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | Name                                   | Location | Notes                                   |
 | -------------------------------------- | -------- | --------------------------------------- |
 | [Akuna Capital](https://akunacapital.com/careers?experience=junior&department=development#careers) | Chicago      | 	Various Junior Developer Positions |
-| [Disney](https://jobs.disneycareers.com/job/-/-/391/33379644048) | Burbank, CA | SWE 1; Requires 0 Experience|
+| [~Disney~](https://jobs.disneycareers.com/job/-/-/391/33379644048) | Burbank, CA | SWE 1; Requires 0 Experience|
 | [VMware](https://careers.vmware.com/main/jobs/R2212905?lang=en-us) | Palo Alto, California; Atlanta, Georgia  | Launch New Grad SWE |
 | [IMC](https://imc.wd5.myworkdayjobs.com/invitation/job/Chicago/Graduate-Software-Engineer_REQ-01946#utm_source=peoplepath) | Chicago  | Graduate Software Engineer |
 | [Palantir](https://jobs.lever.co/palantir/c34b424e-caf2-455a-b104-ae1096ccca29) | Denver, CO | Software Engineer, New Grad |
