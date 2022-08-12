@@ -65,7 +65,10 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [Roblox](https://jobs.roblox.com/careers?gh_jid=4395968) | San Mateo, CA| Software Engineer - New Grad (Summer 2023)|
 | [Ceridian](https://www.mydayforce.com/CandidatePortal/en-us/mydayforce/site/alljobs/Posting/View/43677) | Remote | Software Developer; 0 Experience Required
 | [Broadway Technology](https://jobs.lever.co/broadwaytechnology/d364919b-64e9-464a-b848-04bc3a4dcd15?lever-origin=applied&lever-source%5B%5D=Handshake%20Applicant) | NYC | Software Engineer (New Grad-Fall 2022/Spring 2023) |
+<<<<<<< HEAD
 | [Morgan Stanley](https://morganstanley.tal.net/vx/candidate/apply/12954) | NYC & more | 2023 Technology Summer Analyst Program. For the roles in other locations, look up the job title on their website. |
 | [Capstone Investment Advisors](https://www.capstoneco.com/careers/2023-technology-graduate-rotation-program-nyc/?gh_jid=6223901002) | NYC, London | 2023 Technology Graduate Rotation Program. For the role in London, look up the job title on their website. |
 | [Seven Eight Capital](https://boards.greenhouse.io/seveneightcapital/jobs/6306094002?gh_jid=6306094002) | NYC | 2023 Software Engineer (Campus Hire Graduating 2023) |
 | [PEAK6](https://careers.peak6.com/jobs/technology-management/chicago-il-new-york-ny-austin-tx/software-engineer-campus-entry-level/4449643?gh_jid=4449643#/) | NYC & more | Software Engineer - Campus Entry-Level. The same application is used for all locations. |
+=======
+>>>>>>> fd7ee2922984a43af3fd9f8a3b9fb0d16f41f636
