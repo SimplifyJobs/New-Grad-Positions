@@ -79,4 +79,8 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [Pure Storage](https://boards.greenhouse.io/purestorage/jobs/4462848) | Mountain View, CA | Software Engineer Grad (for Spring/Summer 2023) |
 =======
 | [Restaurant Brands International](https://careers.rbi.com/global/en/job/6262048002/2023-Technical-Development-Program-TDP-Software-Engineering-Full-Time) | Miami, FL | 2023 Technical Development Program (TDP), Software Engineering (Full-Time). |
+<<<<<<< HEAD
 >>>>>>> 33cba7d (Add RBI)
+=======
+| [Johnson & Johnson](https://jobs.jnj.com/jobs/2206060951W?lang=en-us&src=JB-10280&src=JB-10280) | Cincinnati, OH | Assistant/Associate Engineer, 2023 Engineering Development Program (EDP) | Assistant/Associate Engineer, 2023 Engineering Development Program (EDP) – Software Engineer |
+>>>>>>> 4277609 (Add Johnson & Johnson)
