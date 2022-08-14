@@ -75,6 +75,7 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [PEAK6](https://careers.peak6.com/jobs/technology-management/chicago-il-new-york-ny-austin-tx/software-engineer-campus-entry-level/4449643?gh_jid=4449643#/) | NYC & more | Software Engineer - Campus Entry-Level. The same application is used for all locations. |
 | [Bloomberg](https://careers.bloomberg.com/job/detail/105010) | New York, NY | 2023 Software Engineer
 | [Two Sigma](https://careers.twosigma.com/careers/SearchJobs/campus%20hire) | NYC, Houston(TX), and London | Software Engineer, Quantitative Researcher |
+<<<<<<< HEAD
 | [Pure Storage](https://boards.greenhouse.io/purestorage/jobs/4462848) | Mountain View, CA | Software Engineer Grad (for Spring/Summer 2023) |
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -111,3 +112,6 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 =======
 | [F5](https://f5.recsolu.com/jobs/-UQRHJZzdpMkPLRHVhQ7ew?job_board_id=USARc2y-c5XCyiKQlSxsbQ) | Seattle, WA | 2023 University Graduates - Software Engineer |
 >>>>>>> 36d107c (Add F5)
+=======
+| [Restaurant Brands International](https://careers.rbi.com/global/en/job/6262048002/2023-Technical-Development-Program-TDP-Software-Engineering-Full-Time) | Miami, FL | 2023 Technical Development Program (TDP), Software Engineering (Full-Time). |
+>>>>>>> 33cba7d (Add RBI)
