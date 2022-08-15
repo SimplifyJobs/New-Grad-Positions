@@ -87,4 +87,8 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 >>>>>>> 4277609 (Add Johnson & Johnson)
 =======
 | [Jump Trading](https://www.jumptrading.com/careers/4457617/?gh_jid=4457617) | Chicago | Campus \| Software Engineer 2023 (Full-Time) |
+<<<<<<< HEAD
 >>>>>>> e6177c5 (Add Jump Trading)
+=======
+| [SRC](https://jobs.jobvite.com/src-inc/job/omtCkfwv) | Syracuse, NY | Software Engineer - New Grad |
+>>>>>>> 014d1c9 (Add SRC)
