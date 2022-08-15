@@ -83,4 +83,8 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 >>>>>>> 33cba7d (Add RBI)
 =======
 | [Johnson & Johnson](https://jobs.jnj.com/jobs/2206060951W?lang=en-us&src=JB-10280&src=JB-10280) | Cincinnati, OH | Assistant/Associate Engineer, 2023 Engineering Development Program (EDP) | Assistant/Associate Engineer, 2023 Engineering Development Program (EDP) – Software Engineer |
+<<<<<<< HEAD
 >>>>>>> 4277609 (Add Johnson & Johnson)
+=======
+| [Jump Trading](https://www.jumptrading.com/careers/4457617/?gh_jid=4457617) | Chicago | Campus \| Software Engineer 2023 (Full-Time) |
+>>>>>>> e6177c5 (Add Jump Trading)
