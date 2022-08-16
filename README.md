@@ -76,3 +76,5 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [Bloomberg](https://careers.bloomberg.com/job/detail/105010) | New York, NY | 2023 Software Engineer
 | [Two Sigma](https://careers.twosigma.com/careers/SearchJobs/campus%20hire) | NYC, Houston(TX), and London | Software Engineer, Quantitative Researcher |
 | [Pure Storage](https://boards.greenhouse.io/purestorage/jobs/4462848) | Mountain View, CA | Software Engineer Grad (for Spring/Summer 2023) |
+| [Circle](https://boards.greenhouse.io/circle) | Remote | New Grad Software Engineer, Backend. Various locations with remote options. Search under Engineering Department to see all locations |
+
