@@ -81,3 +81,4 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [Jump Trading](https://www.jumptrading.com/careers/4457617/?gh_jid=4457617) | Chicago | Campus \| Software Engineer 2023 (Full-Time) |
 | [SRC](https://jobs.jobvite.com/src-inc/job/omtCkfwv) | Syracuse, NY | Software Engineer - New Grad |
 | [F5](https://f5.recsolu.com/jobs/-UQRHJZzdpMkPLRHVhQ7ew?job_board_id=USARc2y-c5XCyiKQlSxsbQ) | Seattle, WA | 2023 University Graduates - Software Engineer |
+| [EAB](https://recruit.hirebridge.com/v3/Jobs/JobDetails.aspx?cid=7856&jid=581704&locvalue=1036) | Remote | Associate Software Engineer (Full Time Starting Summer 2023) |
