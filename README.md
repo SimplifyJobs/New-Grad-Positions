@@ -75,8 +75,8 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [PEAK6](https://careers.peak6.com/jobs/technology-management/chicago-il-new-york-ny-austin-tx/software-engineer-campus-entry-level/4449643?gh_jid=4449643#/) | NYC & more | Software Engineer - Campus Entry-Level. The same application is used for all locations. |
 | [Bloomberg](https://careers.bloomberg.com/job/detail/105010) | New York, NY | 2023 Software Engineer
 | [Two Sigma](https://careers.twosigma.com/careers/SearchJobs/campus%20hire) | NYC, Houston(TX), and London | Software Engineer, Quantitative Researcher |
-<<<<<<< HEAD
 | [Pure Storage](https://boards.greenhouse.io/purestorage/jobs/4462848) | Mountain View, CA | Software Engineer Grad (for Spring/Summer 2023) |
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 | [Databricks](https://www.databricks.com/company/careers/open-positions/job?gh_jid=6289866002) | Seattle / San Francisco | Software Engineer - New Grad (2023 Start) | 
@@ -85,6 +85,8 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 =======
 =======
 >>>>>>> 385a1af (Fixed merge conflicts)
+=======
+>>>>>>> 8305993 (Fixed merge conflicts)
 | [Restaurant Brands International](https://careers.rbi.com/global/en/job/6262048002/2023-Technical-Development-Program-TDP-Software-Engineering-Full-Time) | Miami, FL | 2023 Technical Development Program (TDP), Software Engineering (Full-Time). |
 | [Johnson & Johnson](https://jobs.jnj.com/jobs/2206060951W?lang=en-us&src=JB-10280&src=JB-10280) | Cincinnati, OH | Assistant/Associate Engineer, 2023 Engineering Development Program (EDP) | Assistant/Associate Engineer, 2023 Engineering Development Program (EDP) – Software Engineer |
 <<<<<<< HEAD
@@ -111,6 +113,7 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [Jump Trading](https://www.jumptrading.com/careers/4457617/?gh_jid=4457617) | Chicago | Campus \| Software Engineer 2023 (Full-Time) |
 | [SRC](https://jobs.jobvite.com/src-inc/job/omtCkfwv) | Syracuse, NY | Software Engineer - New Grad |
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 385a1af (Fixed merge conflicts)
 =======
 | [F5](https://f5.recsolu.com/jobs/-UQRHJZzdpMkPLRHVhQ7ew?job_board_id=USARc2y-c5XCyiKQlSxsbQ) | Seattle, WA | 2023 University Graduates - Software Engineer |
@@ -126,3 +129,6 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 =======
 | [SRC](https://jobs.jobvite.com/src-inc/job/omtCkfwv) | Syracuse, NY | Software Engineer - New Grad |
 >>>>>>> 014d1c9 (Add SRC)
+=======
+| [F5](https://f5.recsolu.com/jobs/-UQRHJZzdpMkPLRHVhQ7ew?job_board_id=USARc2y-c5XCyiKQlSxsbQ) | Seattle, WA | 2023 University Graduates - Software Engineer |
+>>>>>>> 8305993 (Fixed merge conflicts)
