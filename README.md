@@ -118,6 +118,7 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 =======
 | [F5](https://f5.recsolu.com/jobs/-UQRHJZzdpMkPLRHVhQ7ew?job_board_id=USARc2y-c5XCyiKQlSxsbQ) | Seattle, WA | 2023 University Graduates - Software Engineer |
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 36d107c (Add F5)
 =======
 | [Restaurant Brands International](https://careers.rbi.com/global/en/job/6262048002/2023-Technical-Development-Program-TDP-Software-Engineering-Full-Time) | Miami, FL | 2023 Technical Development Program (TDP), Software Engineering (Full-Time). |
@@ -136,3 +137,6 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 =======
 | [EAB](https://recruit.hirebridge.com/v3/Jobs/JobDetails.aspx?cid=7856&jid=581704&locvalue=1036) | Remote | Associate Software Engineer (Full Time Starting Summer 2023) |
 >>>>>>> f67e2c0 (Add EAB)
+=======
+| [EAB](https://recruit.hirebridge.com/v3/Jobs/JobDetails.aspx?cid=7856&jid=581704&locvalue=1036) | Remote & more | Associate Software Engineer (Full Time Starting Summer 2023) |
+>>>>>>> f912991 (Update EAB)
