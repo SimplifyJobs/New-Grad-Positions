@@ -79,6 +79,7 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 | [Databricks](https://www.databricks.com/company/careers/open-positions/job?gh_jid=6289866002) | Seattle / San Francisco | Software Engineer - New Grad (2023 Start) | 
 
 =======
@@ -140,3 +141,11 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 =======
 | [EAB](https://recruit.hirebridge.com/v3/Jobs/JobDetails.aspx?cid=7856&jid=581704&locvalue=1036) | Remote & more | Associate Software Engineer (Full Time Starting Summer 2023) |
 >>>>>>> f912991 (Update EAB)
+=======
+| [Restaurant Brands International](https://careers.rbi.com/global/en/job/6262048002/2023-Technical-Development-Program-TDP-Software-Engineering-Full-Time) | Miami, FL | 2023 Technical Development Program (TDP), Software Engineering (Full-Time). |
+| [Johnson & Johnson](https://jobs.jnj.com/jobs/2206060951W?lang=en-us&src=JB-10280&src=JB-10280) | Cincinnati, OH | Assistant/Associate Engineer, 2023 Engineering Development Program (EDP) | Assistant/Associate Engineer, 2023 Engineering Development Program (EDP) – Software Engineer |
+| [Jump Trading](https://www.jumptrading.com/careers/4457617/?gh_jid=4457617) | Chicago | Campus \| Software Engineer 2023 (Full-Time) |
+| [SRC](https://jobs.jobvite.com/src-inc/job/omtCkfwv) | Syracuse, NY | Software Engineer - New Grad |
+| [F5](https://f5.recsolu.com/jobs/-UQRHJZzdpMkPLRHVhQ7ew?job_board_id=USARc2y-c5XCyiKQlSxsbQ) | Seattle, WA | 2023 University Graduates - Software Engineer |
+| [EAB](https://recruit.hirebridge.com/v3/Jobs/JobDetails.aspx?cid=7856&jid=581704&locvalue=1036) | Remote & more | Associate Software Engineer (Full Time Starting Summer 2023) |
+>>>>>>> f912991c248c03884cad39b773f8ea89c830b02d
