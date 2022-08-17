@@ -77,4 +77,5 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [Two Sigma](https://careers.twosigma.com/careers/SearchJobs/campus%20hire) | NYC, Houston(TX), and London | Software Engineer, Quantitative Researcher |
 | [Pure Storage](https://boards.greenhouse.io/purestorage/jobs/4462848) | Mountain View, CA | Software Engineer Grad (for Spring/Summer 2023) |
 | [Databricks](https://www.databricks.com/company/careers/open-positions/job?gh_jid=6289866002) | Seattle / San Francisco | Software Engineer - New Grad (2023 Start) | 
+| [American Express](https://aexp.eightfold.ai/careers?query=Campus&location=United%20States) | [Sunrise, FL](https://aexp.eightfold.ai/careers?query=Campus&location=United%20States&pid=12787262&domain=aexp.com) / [Phoenix, AZ](https://aexp.eightfold.ai/careers?query=Campus&location=United%20States&pid=12787218&domain=aexp.com) | **No Visa Sponsorship** SWE, Information Security, DS, PM... Check the website for more locations and positions. | 
 
