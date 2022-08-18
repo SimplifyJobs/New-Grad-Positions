@@ -84,3 +84,6 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [F5](https://f5.recsolu.com/jobs/-UQRHJZzdpMkPLRHVhQ7ew?job_board_id=USARc2y-c5XCyiKQlSxsbQ) | Seattle, WA | 2023 University Graduates - Software Engineer |
 | [EAB](https://recruit.hirebridge.com/v3/Jobs/JobDetails.aspx?cid=7856&jid=581704&locvalue=1036) | Remote & more | Associate Software Engineer (Full Time Starting Summer 2023) |
 | [Schmidt Futures](https://jobs.lever.co/schmidtfutures/b4a9e13d-8fdb-4e24-a104-3720442e5ddf) | NYC | Engineer, Technologists for Global Transformation (TGT) Program - Fall 2023. Accepts OPT and will sponsor work visas. |
+| [Crusoe Energy](https://jobs.lever.co/crusoeenergy/14a0355b-d17c-48ab-a697-529e008fe677) | San Francisco | University \| Software Engineer |
+| [Roivant Sciences](https://boards.greenhouse.io/roivantsciences/jobs/4457842) | NYC | Roivant Rotational Analyst 2023 (Tech) |
+| [Alcon](https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Fort-Worth-Texas/XMLNAME-2023-Envision-R-D-Program---Discipline-Track-2_R-2022-18015-1?source=Linkedin) | Fort Worth, TX & more | 2023 Envision R&D Programs - Discipline Track 2. Accepts OPT but will NOT sponsor work visas. |
