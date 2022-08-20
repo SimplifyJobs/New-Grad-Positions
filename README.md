@@ -78,12 +78,12 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [Pure Storage](https://boards.greenhouse.io/purestorage/jobs/4462848) | Mountain View, CA | Software Engineer Grad (for Spring/Summer 2023) |
 | [Databricks](https://www.databricks.com/company/careers/open-positions/job?gh_jid=6289866002) | Seattle / San Francisco | Software Engineer - New Grad (2023 Start) | 
 | [Restaurant Brands International](https://careers.rbi.com/global/en/job/6262048002/2023-Technical-Development-Program-TDP-Software-Engineering-Full-Time) | Miami, FL | 2023 Technical Development Program (TDP), Software Engineering (Full-Time). |
-| [Johnson & Johnson](https://jobs.jnj.com/jobs/2206060951W?lang=en-us&src=JB-10280&src=JB-10280) | Cincinnati, OH | Assistant/Associate Engineer, 2023 Engineering Development Program (EDP) | Assistant/Associate Engineer, 2023 Engineering Development Program (EDP) – Software Engineer |
+| [Johnson & Johnson](https://jobs.jnj.com/jobs/2206060951W?lang=en-us) | Cincinnati, OH | Assistant/Associate Engineer, 2023 Engineering Development Program (EDP) | Assistant/Associate Engineer, 2023 Engineering Development Program (EDP) Â– Software Engineer |
 | [Jump Trading](https://www.jumptrading.com/careers/4457617/?gh_jid=4457617) | Chicago | Campus \| Software Engineer 2023 (Full-Time) |
 | [SRC](https://jobs.jobvite.com/src-inc/job/omtCkfwv) | Syracuse, NY | Software Engineer - New Grad |
-| [F5](https://f5.recsolu.com/jobs/-UQRHJZzdpMkPLRHVhQ7ew?job_board_id=USARc2y-c5XCyiKQlSxsbQ) | Seattle, WA | 2023 University Graduates - Software Engineer |
+| [F5](https://f5.recsolu.com/jobs/-UQRHJZzdpMkPLRHVhQ7ew) | Seattle, WA | 2023 University Graduates - Software Engineer |
 | [EAB](https://recruit.hirebridge.com/v3/Jobs/JobDetails.aspx?cid=7856&jid=581704&locvalue=1036) | Remote & more | Associate Software Engineer (Full Time Starting Summer 2023) |
 | [Schmidt Futures](https://jobs.lever.co/schmidtfutures/b4a9e13d-8fdb-4e24-a104-3720442e5ddf) | NYC | Engineer, Technologists for Global Transformation (TGT) Program - Fall 2023. Accepts OPT and will sponsor work visas. |
 | [Crusoe Energy](https://jobs.lever.co/crusoeenergy/14a0355b-d17c-48ab-a697-529e008fe677) | San Francisco | University \| Software Engineer |
 | [Roivant Sciences](https://boards.greenhouse.io/roivantsciences/jobs/4457842) | NYC | Roivant Rotational Analyst 2023 (Tech) |
-| [Alcon](https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Fort-Worth-Texas/XMLNAME-2023-Envision-R-D-Program---Discipline-Track-2_R-2022-18015-1?source=Linkedin) | Fort Worth, TX & more | 2023 Envision R&D Programs - Discipline Track 2. Accepts OPT but will NOT sponsor work visas. |
+| [Alcon](https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Fort-Worth-Texas/XMLNAME-2023-Envision-R-D-Program---Discipline-Track-2_R-2022-18015-1) | Fort Worth, TX & more | 2023 Envision R&D Programs - Discipline Track 2. Accepts OPT but will NOT sponsor work visas. |
