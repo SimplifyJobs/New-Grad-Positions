@@ -50,7 +50,7 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [Citrix](https://citrix.wd1.myworkdayjobs.com/en-US/CitrixCareers/job/Software-Engineer--2023-_R34470)  | US | Software Engineer 2023 |
 | [WeRide.ai](https://jobs.lever.co/weride/97063737-808b-4078-b1d8-8ffcef30635a)  | San Jose, CA | Software Engineer (New Grad) |
 | [~~Otter.ai~~](https://otter.ai/job-detail?gh_jid=5120493003&gh_src=null)  | ~~Mountain View, CA~~ | ~~Software Engineer, Backend (New Grad)~~|
-| [MathWorks](https://www.mathworks.com/company/jobs/opportunities/16217-multiple-openings-engineering-development-group-u-s?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)  | Natick, MA | Multiple Openings - Engineering Development Group |
+| [MathWorks](https://www.mathworks.com/company/jobs/opportunities/16217-multiple-openings-engineering-development-group-u-s)  | Natick, MA | Multiple Openings - Engineering Development Group |
 | [Vanta](https://boards.greenhouse.io/vanta/jobs/5745472002)  | New York, San Francisco | Software Engineer, New Grad |
 | [Verkada](https://jobs.lever.co/verkada/b0946e83-4174-4ecb-9873-6d0030ca1023)  | San Mateo, CA | [Backend](https://jobs.lever.co/verkada/b0946e83-4174-4ecb-9873-6d0030ca1023), [Frontend](https://jobs.lever.co/verkada/dfcab784-b82e-4bcc-9949-3cff41a5084e)
 | [Credit Suisse](https://tas-creditsuisse.taleo.net/careersection/campus/jobdetail.ftl?job=213383&lang=en)  | New York, NY; Raleigh, NC  | 2023 Americas Technology Full-Time Analyst. For the role in Raleigh, search for the job title on their website. |
@@ -58,8 +58,7 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [Abnormal Security](https://careers.abnormalsecurity.com/open-roles?gh_jid=5131426003) | San Francisco, California | New Grad SWE |
 | [~~Audible~~](https://www.amazon.jobs/en/jobs/1999808/software-development-engineer?cmpid=SPLICX0248M&utm_source=linkedin.com&utm_campaign=audible&utm_medium=social_media&utm_content=job_posting&ss=paid) | Culver City, CA | Software Development Engineer|
 | [Argano](https://argano.hrmdirect.com/employment/view.php?req=2024176) | Remote | Junior Software Engineer|
-| [Microsoft](https://careers.microsoft.com/us/en/job/1388843/Software-Engineering-Full-Time-Opportunities-for-University-Graduates?jobsource=indeed&utm_source=indeed&utm_medium=indeed&utm_campaign=indeed-feed)  | USA  | New Graduate Software Engineer
-| [Google](https://careers.google.com/jobs/results/131020049566573254-software-engineer-early-career-campus/)  | USA  | Software Engineer, Early Career, Campus
+| [Microsoft](https://careers.microsoft.com/us/en/job/1388843/Software-Engineering-Full-Time-Opportunities-for-University-Graduates?jobsource=indeed&utm_source=indeed&utm_medium=indeed&utm_campaign=indeed-feed)  | USA  | New Graduate Software Engineer |
 | [Uber](https://university-uber.icims.com/jobs/116884/job) | San Francisco, Sunnyvale, CA; Seattle, WA; Boulder, CO; New York, NY; Toronto, ON | New Grad - Software Engineer I |
 | [Lawrence Livermore National Laboratory](https://www.llnl.gov/join-our-team/careers/find-your-job/all/software%20developer/3743990000246205) | Livermore, CA or remote | Software Developer |
 | [Hudson River Trading](https://www.hudsonrivertrading.com/careers/job/?_4118765=Full-Time%3A+New+Grad&_4168241=Software+Engineering%3AC%2B%2B&gh_jid=4454918&req_id=311) | Multiple | Software Engineer & [Algo Software Engineer](https://www.hudsonrivertrading.com/careers/job/?_4118765=Full-Time%3A+New+Grad&_4168241=Software+Engineering%3AC%2B%2B&gh_jid=4454781&req_id=310). For the roles in other locations, search for the job title on their website. |
@@ -78,4 +77,4 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [Two Sigma](https://careers.twosigma.com/careers/SearchJobs/campus%20hire) | NYC, Houston(TX), and London | Software Engineer, Quantitative Researcher |
 | [Pure Storage](https://boards.greenhouse.io/purestorage/jobs/4462848) | Mountain View, CA | Software Engineer Grad (for Spring/Summer 2023) |
 | [Databricks](https://www.databricks.com/company/careers/open-positions/job?gh_jid=6289866002) | Seattle / San Francisco | Software Engineer - New Grad (2023 Start) | 
-
+| [Google](https://careers.google.com/jobs/results/131020049566573254-software-engineer-early-career-campus/)  | USA  | Software Engineer, Early Career, Campus |
