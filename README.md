@@ -87,3 +87,4 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [Crusoe Energy](https://jobs.lever.co/crusoeenergy/14a0355b-d17c-48ab-a697-529e008fe677) | San Francisco | University \| Software Engineer |
 | [Roivant Sciences](https://boards.greenhouse.io/roivantsciences/jobs/4457842) | NYC | Roivant Rotational Analyst 2023 (Tech) |
 | [Alcon](https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Fort-Worth-Texas/XMLNAME-2023-Envision-R-D-Program---Discipline-Track-2_R-2022-18015-1) | Fort Worth, TX & more | 2023 Envision R&D Programs - Discipline Track 2. Accepts OPT but will NOT sponsor work visas. |
+| [Quantcast](https://jobs.lever.co/quantcast/052ae051-4aad-4c51-af01-8f74c1756c57) | San Francisco | Software Engineer - New College Graduate |
