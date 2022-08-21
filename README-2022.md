@@ -154,4 +154,3 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 |[Orchard](https://boards.greenhouse.io/orchard/jobs/4822825002) | NYC | SWE |
 |[Coinbase](https://www.coinbase.com/careers/positions/1724688?gh_jid=1724688) | Remote | Full Stack |
 |[Raytheon Technologies](https://careers.rtx.com/global/en/job/191574MBR) | Riverdale, MD | Systems Engineer |
-| [Twitch](https://www.twitch.tv/jobs/en/careers/intern-new-grad/) | San Fransisco, CA | Multiple (Software Engineer, Systems Development Engineer, UX Designer) |
