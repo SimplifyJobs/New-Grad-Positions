@@ -21,6 +21,7 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 |[Fidelity](https://jobs.fidelity.com/job-search-results/?parent_category[]=Technology)| Boston + others | Full-Stack Engineer and Others|
 |[Stytch](https://jobs.ashbyhq.com/stytch/b4ee9734-3657-4393-8eca-269ae179d7eb) | SF | |
 |[Cruise](https://boards.greenhouse.io/cruise/jobs/2364685) | SF | |
+|[Comma ai](https://comma.ai/jobs#work_at_comma_dot_ai) | San Diego | Full-Stack Engineer and Others|
 |[Nvidia](https://nvidia.wd5.myworkdayjobs.com/UniversityJobs/) | Various | Many SWE New Grad positions |
 |[Airtable](https://boards.greenhouse.io/airtable/jobs/5311220002?) | SF | |
 |[Grubhub](https://careers-grubhub.icims.com/jobs/11919/software-engineer-i/job) | Chicago, NY, Boston | New Grad SWE (Spring/Winter 2022) |
