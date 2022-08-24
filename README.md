@@ -96,4 +96,4 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [SambaNova Systems](https://boards.greenhouse.io/sambanovasystems/jobs/4589084004) | Palo Alto, CA | NCG - Software Engineer |
 | [Manulife](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Boston-Massachusetts/START-Program---Software-Engineering_JR22080183-1) | Boston, MA | START Program - New Grad (June 2023 Start) | 
 | [Adobe](https://adobe.wd5.myworkdayjobs.com/external_university/job/San-Jose/XMLNAME-2023-University-Graduate---Software-Engineer_R130209) | San Jose | 2023 University Graduate - Software Engineer | 
- [Twitch](https://www.twitch.tv/jobs/en/careers/intern-new-grad/) | San Fransisco, CA | Multiple (Sof    tware Engineer, Systems Development Engineer, UX Designer) |
+ [Twitch](https://www.twitch.tv/jobs/en/careers/6269587002/) | San Fransisco, CA | Software Engineer |
