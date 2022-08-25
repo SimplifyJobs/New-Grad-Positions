@@ -97,3 +97,4 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [Manulife](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Boston-Massachusetts/START-Program---Software-Engineering_JR22080183-1) | Boston, MA | START Program - New Grad (June 2023 Start) | 
 | [Adobe](https://adobe.wd5.myworkdayjobs.com/external_university/job/San-Jose/XMLNAME-2023-University-Graduate---Software-Engineer_R130209) | San Jose | 2023 University Graduate - Software Engineer | 
 | [General Motors](https://search-careers.gm.com/jobs/job/entry-level-software-engineering-rotational-program-warren-jr-000089747/) | Warren, MI | Entry-Level Software Engineering Rotational Program | 
+| [BlackRock](https://careers.blackrock.com/job/16107625/associate-software-developer-san-francisco-ca/?=12748) | San Francisco, CA | Associate Software Developer |
