@@ -80,7 +80,7 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [Restaurant Brands International](https://careers.rbi.com/global/en/job/6262048002/2023-Technical-Development-Program-TDP-Software-Engineering-Full-Time) | Miami, FL | 2023 Technical Development Program (TDP), Software Engineering (Full-Time). |
 | [Johnson & Johnson](https://jobs.jnj.com/jobs/2206060951W?lang=en-us) | Cincinnati, OH | Assistant/Associate Engineer, 2023 Engineering Development Program (EDP) | Assistant/Associate Engineer, 2023 Engineering Development Program (EDP)  Software Engineer |
 | [Jump Trading](https://www.jumptrading.com/careers/4457617/?gh_jid=4457617) | Chicago | Campus \| Software Engineer 2023 (Full-Time) |
-| [SRC](https://jobs.jobvite.com/src-inc/job/omtCkfwv) | Syracuse, NY | Software Engineer - New Grad |
+| [~~SRC~~](https://jobs.jobvite.com/src-inc/job/omtCkfwv) | Syracuse, NY | Software Engineer - New Grad |
 | [F5](https://f5.recsolu.com/jobs/-UQRHJZzdpMkPLRHVhQ7ew) | Seattle, WA | 2023 University Graduates - Software Engineer |
 | [EAB](https://recruit.hirebridge.com/v3/Jobs/JobDetails.aspx?cid=7856&jid=581704&locvalue=1036) | Remote & more | Associate Software Engineer (Full Time Starting Summer 2023) |
 | [Schmidt Futures](https://jobs.lever.co/schmidtfutures/b4a9e13d-8fdb-4e24-a104-3720442e5ddf) | NYC | Engineer, Technologists for Global Transformation (TGT) Program - Fall 2023. Accepts OPT and will sponsor work visas. |
