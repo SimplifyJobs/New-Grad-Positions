@@ -97,6 +97,7 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [Manulife](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Boston-Massachusetts/START-Program---Software-Engineering_JR22080183-1) | Boston, MA | START Program - New Grad (June 2023 Start) | 
 | [Adobe](https://adobe.wd5.myworkdayjobs.com/external_university/job/San-Jose/XMLNAME-2023-University-Graduate---Software-Engineer_R130209) | San Jose | 2023 University Graduate - Software Engineer | 
 | [General Motors](https://search-careers.gm.com/jobs/job/entry-level-software-engineering-rotational-program-warren-jr-000089747/) | Warren, MI | Entry-Level Software Engineering Rotational Program | 
+| [Benchling](https://www.benchling.com/careers?jobId=4504765&gh_src=838b85821us) | Boston, MA | Software Engineer, New Graduate | 
 | [NetFlix](https://jobs.netflix.com/jobs/225717269) | Los Gatos/ Los Angeles, California | New Grad 2023 (Undergrad) |
 | [Amdocs](https://jobs.amdocs.com/job/Champaign-Software-Engineer-New-Grad-IL/914631400/) | Champaign Illinois | Software Engineer - New Grad | 
 | [National Instruments (NI)](https://pef.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/5936?utm_medium=jobshare&utm_medium=jobboard&utm_source=Linkedin) | Austin, TX | Software Engineer - New Graduate. NO petition for H-1B status from student visas for this position.  |
