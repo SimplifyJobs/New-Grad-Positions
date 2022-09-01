@@ -95,6 +95,7 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [American Express](https://aexp.eightfold.ai/careers?query=Campus&location=United%20States) | [Sunrise, FL](https://aexp.eightfold.ai/careers?query=Campus&location=United%20States&pid=12787262&domain=aexp.com) / [Phoenix, AZ](https://aexp.eightfold.ai/careers?query=Campus&location=United%20States&pid=12787218&domain=aexp.com) | **No Visa Sponsorship** SWE, Information Security, DS, PM... Check the website for more locations and positions. | 
 | [SambaNova Systems](https://boards.greenhouse.io/sambanovasystems/jobs/4589084004) | Palo Alto, CA | NCG - Software Engineer |
 | [Manulife](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Boston-Massachusetts/START-Program---Software-Engineering_JR22080183-1) | Boston, MA | START Program - New Grad (June 2023 Start) | 
+| [Gordian Software](https://jobs.ashbyhq.com/GordianSoftware/80539622-fb89-4806-9d1f-b319d100fedd/application) | Bellevue, WA & remote | Software Engineer (New College Graduate) |
 | [Neuralink](https://boards.greenhouse.io/neuralink/jobs/5285569003) | Fremont, CA & more | Software Engineer (Fresh Grad 2023) |
 | [Adobe](https://adobe.wd5.myworkdayjobs.com/en-US/external_university) | US | Multiple 2023 New Grad Roles | 
 | [Levvel](https://jobs.lever.co/levvel/870a74c2-2ab1-46e4-83ff-c24d620b6c0f?lever-via=Emo8FrYRZ6/) | Remote | Junior Developer (Early Talent 2023) |  
