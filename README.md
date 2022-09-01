@@ -110,6 +110,7 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [Amdocs](https://jobs.amdocs.com/job/Champaign-Software-Engineer-New-Grad-IL/914631400/) | Champaign Illinois | Software Engineer - New Grad | 
 | [~~National Instruments (NI)~~](https://pef.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/5936?utm_medium=jobshare&utm_medium=jobboard&utm_source=Linkedin) | Austin, TX | Software Engineer - New Graduate. NO petition for H-1B status from student visas for this position.  |
 | [ThoughtSpot](https://www.thoughtspot.com/job/4496761?gh_jid=4496761) | US Remote | Software Engineer (New Grad) [master candidate only](https://www.thoughtspot.com/job/4496761?gh_jid=4496761#:~:text=You%20are%20about%20to%20complete%20a%20master%E2%80%99s%20degree%20in%20Computer%20Science%2C%20Engineering%20or%20a%20related%20field.)|
+| [Delta Airlines](https://delta.avature.net/careers/SearchJobs/associate%20software%20engineer) | Atlanta | Associate SWE |
 | [RVO Health](https://www.redventures.com/careers/apply/4518163) | Charlotte, NC | 2023 Software Engineer |
 | [Vecna](https://vecnahealthcare.com/careers/?gnk=job&gni=8a7885a882ae53b00182e5e79a5c0889&gns=LinkedIn%2BLimited) | Burlington, MA | New Grad - Software Engineer | 
 | [Western Digital](https://jobs.smartrecruiters.com/WesternDigital/743999839535273-new-college-grad-engineer-software-engineering?trid=55fe2b03-11c1-41e1-ab70-337c7fd98d48) | Rochester, MN | New College Grad Engineer, Software Engineering |
