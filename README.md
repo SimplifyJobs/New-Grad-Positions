@@ -128,3 +128,4 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [RVO Health](https://www.redventures.com/careers/apply/4518163) | Charlotte, NC | 2023 Software Engineer |
 | [Vecna](https://vecnahealthcare.com/careers/?gnk=job&gni=8a7885a882ae53b00182e5e79a5c0889&gns=LinkedIn%2BLimited) | Burlington, MA | New Grad - Software Engineer | 
 | [Western Digital](https://jobs.smartrecruiters.com/WesternDigital/743999839535273-new-college-grad-engineer-software-engineering?trid=55fe2b03-11c1-41e1-ab70-337c7fd98d48) | Rochester, MN | New College Grad Engineer, Software Engineering |
+| [Flexport](https://boards.greenhouse.io/flexport/jobs/3878424) | Bellevue, Chicago, San Francisco | 2023 New Grad Full-Stack Software Engineer (Masters Degree). Pursuing a **Masters** degree, expected graduation date between December 2022 through August 2023 |
