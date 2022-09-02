@@ -128,3 +128,4 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [RVO Health](https://www.redventures.com/careers/apply/4518163) | Charlotte, NC | 2023 Software Engineer |
 | [Vecna](https://vecnahealthcare.com/careers/?gnk=job&gni=8a7885a882ae53b00182e5e79a5c0889&gns=LinkedIn%2BLimited) | Burlington, MA | New Grad - Software Engineer | 
 | [Western Digital](https://jobs.smartrecruiters.com/WesternDigital/743999839535273-new-college-grad-engineer-software-engineering?trid=55fe2b03-11c1-41e1-ab70-337c7fd98d48) | Rochester, MN | New College Grad Engineer, Software Engineering |
+| [Paramount](https://careers.viacomcbs.com/job/Los-Angeles-Software-Engineering-Development-Program-%28Start-Date-January-June-2023%29-CA-90069/930477600/?feedId=340900&utm_source=LinkedInJobPostings&utm_campaign=ViacomCBS_LinkedIn) | Los Angeles, New York, San Francisco | Software Engineering Development Program (Start Date: January / June 2023)|
