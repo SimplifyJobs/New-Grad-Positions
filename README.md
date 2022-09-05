@@ -27,7 +27,7 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [~~Sunshine~~](https://jobs.lever.co/sunshine/a576f278-9748-49ab-b0b5-1104ef8880c4/apply) | Palo Alto, CA | SWE New Grad 2023 | 
 | [Jane Street](https://www.janestreet.com/join-jane-street/position/6214578002/) | NYC | Software Engineer, New Grad |
 | [~~Raytheon Technologies~~](https://careers.rtx.com/global/en/job/01544342) | Sterling, VA | Software Engineer I, New Grad |
-| [Cruise](https://www.getcruise.com/careers/jobs/3851967/?department=University%20Opportunities%20%26%20Internships&search=software%20engineer) | San Francisco, CA | New Grad, Software Engineer, Developer Platform |
+| [~Cruise~](https://www.getcruise.com/careers/jobs/3851967/?department=University%20Opportunities%20%26%20Internships&search=software%20engineer) | San Francisco, CA | New Grad, Software Engineer, Developer Platform |
 | [Goldman Sachs](https://www.goldmansachs.com/careers/students/programs/americas/new-analyst-program.html) | US | 2023 New Analyst Program |
 | [~~Applied Intuition~~](https://jobs.lever.co/applied/?team=New%20Grad) | Mountain View, CA | New Grad, Software Engineer |
 | [D. E. Shaw](https://www.deshaw.com/careers/choose-your-path) | NYC, London | Various tech roles |
@@ -127,7 +127,7 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [Delta Airlines](https://delta.avature.net/careers/SearchJobs/associate%20software%20engineer) | Atlanta | Associate SWE |
 | [RVO Health](https://www.redventures.com/careers/apply/4518163) | Charlotte, NC | 2023 Software Engineer |
 | [Vecna](https://vecnahealthcare.com/careers/?gnk=job&gni=8a7885a882ae53b00182e5e79a5c0889&gns=LinkedIn%2BLimited) | Burlington, MA | New Grad - Software Engineer | 
-| [Western Digital](https://jobs.smartrecruiters.com/WesternDigital/743999839535273-new-college-grad-engineer-software-engineering?trid=55fe2b03-11c1-41e1-ab70-337c7fd98d48) | Rochester, MN | New College Grad Engineer, Software Engineering |
+| [~Western Digital~](https://jobs.smartrecruiters.com/WesternDigital/743999839535273-new-college-grad-engineer-software-engineering?trid=55fe2b03-11c1-41e1-ab70-337c7fd98d48) | Rochester, MN | New College Grad Engineer, Software Engineering |
 | [Paramount](https://careers.viacomcbs.com/job/Los-Angeles-Software-Engineering-Development-Program-%28Start-Date-January-June-2023%29-CA-90069/930477600/?feedId=340900&utm_source=LinkedInJobPostings&utm_campaign=ViacomCBS_LinkedIn) | Los Angeles, New York, San Francisco | Software Engineering Development Program (Start Date: January / June 2023)|
 | [Datadog](https://app.ripplematch.com/job/datadog/98af8a8c/) | NYC & more | Software Engineer - Recent Grad |
 | [Flexport](https://boards.greenhouse.io/flexport) | Bellevue, Chicago, San Francisco | Search for "2023 New Grad" in the openings page. 4 Available: Full-Stack Software Engineer for [Masters](https://boards.greenhouse.io/flexport/jobs/3878424) and [Undergrad](https://boards.greenhouse.io/flexport/jobs/4499827); [Machine Learning Scientist](https://boards.greenhouse.io/flexport/jobs/4515031); [Applied Research Scientist (PhD)](https://boards.greenhouse.io/flexport/jobs/4515144) |
