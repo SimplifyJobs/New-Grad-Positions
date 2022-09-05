@@ -128,6 +128,7 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [RVO Health](https://www.redventures.com/careers/apply/4518163) | Charlotte, NC | 2023 Software Engineer |
 | [Vecna](https://vecnahealthcare.com/careers/?gnk=job&gni=8a7885a882ae53b00182e5e79a5c0889&gns=LinkedIn%2BLimited) | Burlington, MA | New Grad - Software Engineer | 
 | [Western Digital](https://jobs.smartrecruiters.com/WesternDigital/743999839535273-new-college-grad-engineer-software-engineering?trid=55fe2b03-11c1-41e1-ab70-337c7fd98d48) | Rochester, MN | New College Grad Engineer, Software Engineering |
+| [Arm](https://earlycareers-arm.icims.com/jobs/6215/graduate-rotation-engineer---cpu/job?mode=submit_apply) | Austin, TX | Graduate Rotation Engineer - CPU |
 | [Netsmart](https://ntst.wd1.myworkdayjobs.com/Careers/job/Overland-Park-KS/Software-Engineer-May-Grad-2023--Campus-_R010688?source=LinkedIn) | Overland Park, KS | Software Engineer May Grad 2023 |
 | [TikTok](https://careers.tiktok.com/position?keywords=&category=&location=CT_203%2CCT_75%2CCT_222%2CCT_104%2CCT_223%2CCT_221%2CCT_247%2CCT_157%2CCT_243%2CCT_114%2CCT_94&project=&type=2&job_hot_flag=&current=1&limit=10&functionCategory=) | Mountain View, Santa Clara, SF, Seattle, LA, and NYC | SWE, MLE, DS, SRE, and Researcher |
 | [Garda Capital Partner](https://boards.greenhouse.io/gardacp/jobs/4614474004) | NYC | Python Software Engineer |
