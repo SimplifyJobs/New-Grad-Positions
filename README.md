@@ -128,6 +128,7 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [RVO Health](https://www.redventures.com/careers/apply/4518163) | Charlotte, NC | 2023 Software Engineer |
 | [Vecna](https://vecnahealthcare.com/careers/?gnk=job&gni=8a7885a882ae53b00182e5e79a5c0889&gns=LinkedIn%2BLimited) | Burlington, MA | New Grad - Software Engineer | 
 | [Western Digital](https://jobs.smartrecruiters.com/WesternDigital/743999839535273-new-college-grad-engineer-software-engineering?trid=55fe2b03-11c1-41e1-ab70-337c7fd98d48) | Rochester, MN | New College Grad Engineer, Software Engineering |
+| [PMG](https://momentum.wd1.myworkdayjobs.com/PMG/job/Dallas-Office/Graduate-Leadership-Program---Software-Developer---Summer-2023_JR100144) | Dallas, TX | Graduate Leadership Program - Software Engineer - Summer 2023. Will sponsor a work visa. |
 | [Point72](https://careers.point72.com/CSJobDetail?jobName=2023-cubist-quant-academy-developers&jobCode=CSS-0010116) | NYC | 2023 Cubist Quant Academy � Developers |
 | [Lam Research](https://careers.lamresearch.com/job/Fremont-Software-Engineer-Sys-3-CA-94538/878792900/?feedId=157600) | Fremont, CA | New College Graduate Software Engineer |
 | [Cadence Design Systems](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Engineer-for-Mixed-Signal-Simulation-and-Verification--New-College-Graduate-_R40004-1) | San Jose, CA | Software Engineer for Mixed-Signal Simulation and Verification (New College Graduate) |
