@@ -127,6 +127,7 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [Delta Airlines](https://delta.avature.net/careers/SearchJobs/associate%20software%20engineer) | Atlanta | Associate SWE |
 | [RVO Health](https://www.redventures.com/careers/apply/4518163) | Charlotte, NC | 2023 Software Engineer |
 | [Vecna](https://vecnahealthcare.com/careers/?gnk=job&gni=8a7885a882ae53b00182e5e79a5c0889&gns=LinkedIn%2BLimited) | Burlington, MA | New Grad - Software Engineer | 
+| [Anyscale](https://jobs.lever.co/anyscale/207867b9-8780-4e90-a82c-d8dd46ecba12) | San Francisco, CA | Software Engineer (New Grad) |
 | [FactSet](https://factset.wd1.myworkdayjobs.com/FactSetCareers/job/New-York-NY-USA/Software-Engineer---Americas-Campus--July-2023-_R18011) | NYC & more | Software Engineer - Americas Campus (July 2023). Use the same application for all locations. |
 | [Belvedere Trading](https://jobs.lever.co/belvederetrading/58aa92b6-6444-43b5-bd67-cb75219a80f0) | Chicago, IL | Software Engineer - Entry Level 2023 |
 | [Ironclad](https://jobs.lever.co/ironcladapp/33179813-c6f6-439d-977d-0a68733d77cf) | San Francisco, CA | Software Engineer, New Grad |
