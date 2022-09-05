@@ -127,6 +127,7 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [Delta Airlines](https://delta.avature.net/careers/SearchJobs/associate%20software%20engineer) | Atlanta | Associate SWE |
 | [RVO Health](https://www.redventures.com/careers/apply/4518163) | Charlotte, NC | 2023 Software Engineer |
 | [Vecna](https://vecnahealthcare.com/careers/?gnk=job&gni=8a7885a882ae53b00182e5e79a5c0889&gns=LinkedIn%2BLimited) | Burlington, MA | New Grad - Software Engineer | 
+| [Ironclad](https://jobs.lever.co/ironcladapp/33179813-c6f6-439d-977d-0a68733d77cf) | San Francisco, CA | Software Engineer, New Grad |
 | [BlackRock](https://careers.blackrock.com/early-careers/americas/?2022-2023) | USA | Full-Time Analyst Program |
 | [~Western Digital~](https://jobs.smartrecruiters.com/WesternDigital/743999839535273-new-college-grad-engineer-software-engineering?trid=55fe2b03-11c1-41e1-ab70-337c7fd98d48) | Rochester, MN | New College Grad Engineer, Software Engineering |
 | [Paramount](https://careers.viacomcbs.com/job/Los-Angeles-Software-Engineering-Development-Program-%28Start-Date-January-June-2023%29-CA-90069/930477600/?feedId=340900&utm_source=LinkedInJobPostings&utm_campaign=ViacomCBS_LinkedIn) | Los Angeles, New York, San Francisco | Software Engineering Development Program (Start Date: January / June 2023)|
