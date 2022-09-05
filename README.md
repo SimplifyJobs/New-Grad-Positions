@@ -128,6 +128,7 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [RVO Health](https://www.redventures.com/careers/apply/4518163) | Charlotte, NC | 2023 Software Engineer |
 | [Vecna](https://vecnahealthcare.com/careers/?gnk=job&gni=8a7885a882ae53b00182e5e79a5c0889&gns=LinkedIn%2BLimited) | Burlington, MA | New Grad - Software Engineer | 
 | [Western Digital](https://jobs.smartrecruiters.com/WesternDigital/743999839535273-new-college-grad-engineer-software-engineering?trid=55fe2b03-11c1-41e1-ab70-337c7fd98d48) | Rochester, MN | New College Grad Engineer, Software Engineering |
+| [KBX](https://jobs.kochcareers.com/jobs/10523579-software-engineer-full-time-2023-remote?bid=370&tm_company=12614&tm_event=view&tm_job=KOCH-INFOR-81497-OTHLOC-US-CO-DENVER3) | Remote | Software Engineer - Full Time 2023 (Remote) |
 | [EY](https://studentjobs.ey.com/job/phoenix/usa-consulting-technology-consulting-staff/39053/35333171488) | NYC & more | USA - Consulting - Technology Consulting - Staff. Use the same application for any location. Will sponsor a work visa. |
 | [PMG](https://momentum.wd1.myworkdayjobs.com/PMG/job/Dallas-Office/Graduate-Leadership-Program---Software-Developer---Summer-2023_JR100144) | Dallas, TX | Graduate Leadership Program - Software Engineer - Summer 2023. Will sponsor a work visa. |
 | [Point72](https://careers.point72.com/CSJobDetail?jobName=2023-cubist-quant-academy-developers&jobCode=CSS-0010116) | NYC | 2023 Cubist Quant Academy � Developers |
