@@ -24,7 +24,7 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [Sofi](https://www.sofi.com/careers/intern/?gh_jid=5255634003) | Murrah, UT | New Grad, Platform Infrastructure Engineer |
 | [Egen Solutions](https://jobs.lever.co/egensolutions/b8241d47-ab6c-456c-823d-1a6bd59e402f) | Naperville, IL | Software Engineer, University Graduates, 2023 |
 | [Amazon](https://www.amazon.jobs/en/jobs/2080728/software-development-engineer-2023-us) | US | [New Grad SDE](https://www.amazon.jobs/en/jobs/2080728/software-development-engineer-2023-us), [New Grad Frontend](https://www.amazon.jobs/en/jobs/2141834/front-end-engineer-2023-us) |
-| [~~Sunshine~~](https://jobs.lever.co/sunshine/a576f278-9748-49ab-b0b5-1104ef8880c4/apply) | Palo Alto, CA | SWE New Grad 2023 | 
+| [~~Sunshine~~](https://jobs.lever.co/sunshine/a576f278-9748-49ab-b0b5-1104ef8880c4/apply) | Palo Alto, CA | SWE New Grad 2023 |
 | [Jane Street](https://www.janestreet.com/join-jane-street/position/6214578002/) | NYC | Software Engineer, New Grad |
 | [~~Raytheon Technologies~~](https://careers.rtx.com/global/en/job/01544342) | Sterling, VA | Software Engineer I, New Grad |
 | [~Cruise~](https://www.getcruise.com/careers/jobs/3851967/?department=University%20Opportunities%20%26%20Internships&search=software%20engineer) | San Francisco, CA | New Grad, Software Engineer, Developer Platform |
@@ -67,7 +67,7 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [Aquatic](https://boards.greenhouse.io/aquaticcapitalmanagement) | Chicago, IL or Remote | Junior Developer and Quant positions
 | [Neeva](https://jobs.lever.co/neeva/8f7622f3-174b-421b-88f2-407c89ef55fe?lever-source=LinkedInJobs) | Mountain View, CA | Software Engineer, New Grad, 2023 |
 | [Forward](https://jobs.lever.co/goforward/073d1961-b3fd-4515-a7a4-a34a2eedb74a) | San Francisco, CA| Software Engineer - New Grad Full Stack)|
-| [Cisco](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-I-Full-Time-United-States/1380884?source=coderQuad) | San Jose, CA | Software Engineer I (Full Time) 
+| [Cisco](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-I-Full-Time-United-States/1380884?source=coderQuad) | San Jose, CA | Software Engineer I (Full Time)
 | [Broadway Technology](https://jobs.lever.co/broadwaytechnology/d364919b-64e9-464a-b848-04bc3a4dcd15?lever-origin=applied&lever-source%5B%5D=Handshake%20Applicant) | NYC | Software Engineer (New Grad-Fall 2022/Spring 2023) |
 | [Morgan Stanley](https://morganstanley.tal.net/vx/candidate/apply/12947) | NYC & more | 2023 Technology Full-Time Analyst Program. For the roles in other locations, look up the job title on their website. |
 | [Capstone Investment Advisors](https://www.capstoneco.com/careers/2023-technology-graduate-rotation-program-nyc/?gh_jid=6223901002) | NYC, London | 2023 Technology Graduate Rotation Program. For the role in London, look up the job title on their website. |
@@ -76,7 +76,7 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [Bloomberg](https://careers.bloomberg.com/job/detail/105010) | New York, NY | 2023 Software Engineer
 | [Two Sigma](https://careers.twosigma.com/careers/SearchJobs/campus%20hire) | NYC, Houston(TX), and London | Software Engineer, Quantitative Researcher |
 | [Pure Storage](https://boards.greenhouse.io/purestorage/jobs/4462848) | Mountain View, CA | Software Engineer Grad (for Spring/Summer 2023) |
-| [Databricks](https://www.databricks.com/company/careers/open-positions/job?gh_jid=6289866002) | Seattle / San Francisco | Software Engineer - New Grad (2023 Start) | 
+| [Databricks](https://www.databricks.com/company/careers/open-positions/job?gh_jid=6289866002) | Seattle / San Francisco | Software Engineer - New Grad (2023 Start) |
 | [Restaurant Brands International](https://careers.rbi.com/global/en/job/6262048002/2023-Technical-Development-Program-TDP-Software-Engineering-Full-Time) | Miami, FL | 2023 Technical Development Program (TDP), Software Engineering (Full-Time). |
 | [Johnson & Johnson](https://jobs.jnj.com/jobs/2206060951W?lang=en-us) | Cincinnati, OH | Assistant/Associate Engineer, 2023 Engineering Development Program (EDP) |
 | [Jump Trading](https://www.jumptrading.com/careers/4457617/?gh_jid=4457617) | Chicago | Campus \| Software Engineer 2023 (Full-Time) |
@@ -92,9 +92,9 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [Flatiron Health](https://flatiron.com/careers/open-positions/4454680) | New York, NY | Software Engineer (2023 New Graduate)
 | [Circle](https://boards.greenhouse.io/circle/jobs/6331155002) | Remote | New Grad Software Engineer, Backend/Frontend. Various locations and remote. Search under Engineering Department to see all locations |
 | [~~Google~~](https://careers.google.com/jobs/results/131020049566573254-software-engineer-early-career-campus/)  | USA  | Software Engineer, Early Career, Campus |
-| [American Express](https://aexp.eightfold.ai/careers?query=Campus&location=United%20States) | [Sunrise, FL](https://aexp.eightfold.ai/careers?query=Campus&location=United%20States&pid=12787262&domain=aexp.com) / [Phoenix, AZ](https://aexp.eightfold.ai/careers?query=Campus&location=United%20States&pid=12787218&domain=aexp.com) | **No Visa Sponsorship** SWE, Information Security, DS, PM... Check the website for more locations and positions. | 
+| [American Express](https://aexp.eightfold.ai/careers?query=Campus&location=United%20States) | [Sunrise, FL](https://aexp.eightfold.ai/careers?query=Campus&location=United%20States&pid=12787262&domain=aexp.com) / [Phoenix, AZ](https://aexp.eightfold.ai/careers?query=Campus&location=United%20States&pid=12787218&domain=aexp.com) | **No Visa Sponsorship** SWE, Information Security, DS, PM... Check the website for more locations and positions. |
 | [SambaNova Systems](https://boards.greenhouse.io/sambanovasystems/jobs/4589084004) | Palo Alto, CA | NCG - Software Engineer |
-| [Manulife](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Boston-Massachusetts/START-Program---Software-Engineering_JR22080183-1) | Boston, MA | START Program - New Grad (June 2023 Start) | 
+| [Manulife](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Boston-Massachusetts/START-Program---Software-Engineering_JR22080183-1) | Boston, MA | START Program - New Grad (June 2023 Start) |
 | [NetApp](https://netapp.eightfold.ai/careers?pid=12956090&domain=netapp.com&utm) | San Jose, CA & more | NetApp Emerging Talent - Software Engineer. For the same role in other locations, look up the job title on their website. |
 | [U.S. Bank](https://careers.usbank.com/global/en/job/UBNAGLOBAL20220029893EXTERNALENGLOBAL) | Richfield, MN & more | 2023 Engineering Full-Time Rotation Program �rly Careers (Undergraduate) |
 | [Rippling](https://www.rippling.com/careers/5237048003?gh_jid=5237048003) | San Francisco, CA | Software Engineer - New Grad |
@@ -102,19 +102,19 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [Textron Specialized Vehicles](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=303763) | Augusta, GA | 2023 Software Engineer I |
 | [Gordian Software](https://jobs.ashbyhq.com/GordianSoftware/80539622-fb89-4806-9d1f-b319d100fedd/application) | Bellevue, WA & remote | Software Engineer (New College Graduate) |
 | [Neuralink](https://boards.greenhouse.io/neuralink/jobs/5285569003) | Fremont, CA & more | Software Engineer (Fresh Grad 2023) |
-| [Adobe](https://adobe.wd5.myworkdayjobs.com/en-US/external_university) | US | Multiple 2023 New Grad Roles | 
-| [~~Levvel~~](https://jobs.lever.co/levvel/870a74c2-2ab1-46e4-83ff-c24d620b6c0f?lever-via=Emo8FrYRZ6/) | Remote | Junior Developer (Early Talent 2023) |  
-| [General Motors](https://search-careers.gm.com/jobs/job/entry-level-software-engineering-rotational-program-warren-jr-000089747/) | Warren, MI | Entry-Level Software Engineering Rotational Program | 
-| [Mueller Water Products](https://muellerwaterproducts.wd5.myworkdayjobs.com/en-US/Mueller/job/Atlanta-GA/XMLNAME-2023-Software-Engineer-Development-Program_R3081) | Atlanta, GA | 2023 Software Engineer Development Program | 
+| [Adobe](https://adobe.wd5.myworkdayjobs.com/en-US/external_university) | US | Multiple 2023 New Grad Roles |
+| [~~Levvel~~](https://jobs.lever.co/levvel/870a74c2-2ab1-46e4-83ff-c24d620b6c0f?lever-via=Emo8FrYRZ6/) | Remote | Junior Developer (Early Talent 2023) |
+| [General Motors](https://search-careers.gm.com/jobs/job/entry-level-software-engineering-rotational-program-warren-jr-000089747/) | Warren, MI | Entry-Level Software Engineering Rotational Program |
+| [Mueller Water Products](https://muellerwaterproducts.wd5.myworkdayjobs.com/en-US/Mueller/job/Atlanta-GA/XMLNAME-2023-Software-Engineer-Development-Program_R3081) | Atlanta, GA | 2023 Software Engineer Development Program |
 | [RTI](https://boards.greenhouse.io/rti/jobs/4510497?gh_src=aafe777a1us) | Greensboro, NC | Software Engineer - New Grad |
 | [Cat Digital](https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/XMLNAME-2023-Software-Engineering-Recent-Grad-Positions---Cat-Digital_R0000153666) | Chicago & more | 2023 Software Engineering Recent Grad |
 | [Thomson Reuters](https://jobs.thomsonreuters.com/job/16553660/software-engineer-new-grad-2023-eagan-mn/) | Eagan, MN | Software Engineer - New Grad - 2023 |
-| [JPMorgan Chase](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210321358) | US | **No Visa Sponsorship** Software Engineer. Check their website for more locations and positions. | 
+| [JPMorgan Chase](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210321358) | US | **No Visa Sponsorship** Software Engineer. Check their website for more locations and positions. |
 | [Silicon Labs](https://jobs.jobvite.com/silabs/job/oOjJkfwU) | Austin, TX | Software Engineer - New College Graduate |
 | [SpaceX](https://boards.greenhouse.io/spacex/jobs/6324788002?gh_jid=6324788002&gh_src=130ac1d82us) | USA | New Graduate, Software Engineer. Requires US Citizenship |
-| [Benchling](https://www.benchling.com/careers?jobId=4504765&gh_src=838b85821us) | Boston, MA | Software Engineer, New Graduate | 
+| [Benchling](https://www.benchling.com/careers?jobId=4504765&gh_src=838b85821us) | Boston, MA | Software Engineer, New Graduate |
 | [NetFlix](https://jobs.netflix.com/jobs/225717269) | Los Gatos/ Los Angeles, California | New Grad 2023 (Undergrad) |
-| [Amdocs](https://jobs.amdocs.com/job/Champaign-Software-Engineer-New-Grad-IL/914631400/) | Champaign Illinois | Software Engineer - New Grad | 
+| [Amdocs](https://jobs.amdocs.com/job/Champaign-Software-Engineer-New-Grad-IL/914631400/) | Champaign Illinois | Software Engineer - New Grad |
 | [~~National Instruments (NI)~~](https://pef.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/5936?utm_medium=jobshare&utm_medium=jobboard&utm_source=Linkedin) | Austin, TX | Software Engineer - New Graduate. NO petition for H-1B status from student visas for this position.  |
 | [ThoughtSpot](https://www.thoughtspot.com/job/4496761?gh_jid=4496761) | US Remote | Software Engineer (New Grad) [master candidate only](https://www.thoughtspot.com/job/4496761?gh_jid=4496761#:~:text=You%20are%20about%20to%20complete%20a%20master%E2%80%99s%20degree%20in%20Computer%20Science%2C%20Engineering%20or%20a%20related%20field.)|
 | [Whatnot](https://boards.greenhouse.io/whatnot/jobs/4309462004) | US Remote | Software Engineer - New Grad |
@@ -126,7 +126,7 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [Duolingo](https://boards.greenhouse.io/duolingo/jobs/6302219002) | Pittsburgh, PA | Software Engineer I, New Graduate |
 | [Delta Airlines](https://delta.avature.net/careers/SearchJobs/associate%20software%20engineer) | Atlanta | Associate SWE |
 | [RVO Health](https://www.redventures.com/careers/apply/4518163) | Charlotte, NC | 2023 Software Engineer |
-| [Vecna](https://vecnahealthcare.com/careers/?gnk=job&gni=8a7885a882ae53b00182e5e79a5c0889&gns=LinkedIn%2BLimited) | Burlington, MA | New Grad - Software Engineer | 
+| [Vecna](https://vecnahealthcare.com/careers/?gnk=job&gni=8a7885a882ae53b00182e5e79a5c0889&gns=LinkedIn%2BLimited) | Burlington, MA | New Grad - Software Engineer |
 | [Western Digital](https://jobs.smartrecruiters.com/WesternDigital/743999839535273-new-college-grad-engineer-software-engineering?trid=55fe2b03-11c1-41e1-ab70-337c7fd98d48) | Rochester, MN | New College Grad Engineer, Software Engineering |
 | [ByteDance](https://jobs.bytedance.com/en/position/7138210801609591077/detail?spread=BSPP2KS) | Mountain View, CA | Software Engineer, University Graduate (Lark)- 2023 Start (BS/MS) |
 | [Deutsche Bank](https://db.recsolu.com/external/requisitions/BdxMLqPU47fab0oSR7kz-g) | NYC & more | Deutsche Bank Analyst Program - Technology, Data and Innovation - New York - 2023. For the same role in other locations, google the job title. |
@@ -156,3 +156,4 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [Cadence Design Systems](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Engineer-for-Mixed-Signal-Simulation-and-Verification--New-College-Graduate-_R40004-1) | San Jose, CA | Software Engineer for Mixed-Signal Simulation and Verification (New College Graduate) |
 | [PwC](https://jobs.us.pwc.com/job/los-angeles/products-and-tech-pwc-labs-software-engineer-associate-summer-fall-23/932/33431420992) | CA-Los Angeles,DC-Washington,GA-Atlanta,IL-Chicago,MA-Boston,NY-New York,US-Remote | Products & Tech - PwC Labs Software Engineer Associate Summer/Fall '23 |
 | [Qualtrics](https://www.qualtrics.com/careers/us/en/job/260179/Software-Engineer-New-Grad-Seattle-WA) | [Seattle](https://www.qualtrics.com/careers/us/en/job/260179/Software-Engineer-New-Grad-Seattle-WA), [Reston(VA)](https://www.qualtrics.com/careers/us/en/job/3559206/Software-Engineer-New-Grad-Reston-VA), [Provo(UT)](https://www.qualtrics.com/careers/us/en/job/180276/Software-Engineer-New-Grad-Provo-UT) | **No Visa Sponsorship** Software Engineer - New Grad |
+| [Singularity Data](https://apply.workable.com/risingwave-labs/j/02769A5861/) | Santa Clara| Software Engineer (New Grad)-Cloud Database
