@@ -130,7 +130,7 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [Western Digital](https://jobs.smartrecruiters.com/WesternDigital/743999839535273-new-college-grad-engineer-software-engineering?trid=55fe2b03-11c1-41e1-ab70-337c7fd98d48) | Rochester, MN | New College Grad Engineer, Software Engineering |
 | [ByteDance](https://jobs.bytedance.com/en/position/7138210801609591077/detail?spread=BSPP2KS) | Mountain View, CA | Software Engineer, University Graduate (Lark)- 2023 Start (BS/MS) |
 | [Deutsche Bank](https://db.recsolu.com/external/requisitions/BdxMLqPU47fab0oSR7kz-g) | NYC & more | Deutsche Bank Analyst Program - Technology, Data and Innovation - New York - 2023. For the same role in other locations, google the job title. |
-| [IBM](https://careers.ibm.com/job/16565244/entry-level-backend-developer-2023-remote/?codes=IBM_CareerWebSite) | NYC & more | Entry Level Backend Developer: 2023. The same application is used for all locations. |
+| [IBM](https://careers.ibm.com/job/16565244/entry-level-backend-developer-2023-remote/?codes=IBM_CareerWebSite) | NYC & more | **No Visa Sponsorship** Entry Level Backend Developer: 2023. The same application is used for all locations. |
 | [Anyscale](https://jobs.lever.co/anyscale/207867b9-8780-4e90-a82c-d8dd46ecba12) | San Francisco, CA | Software Engineer (New Grad) |
 | [FactSet](https://factset.wd1.myworkdayjobs.com/FactSetCareers/job/New-York-NY-USA/Software-Engineer---Americas-Campus--July-2023-_R18011) | NYC & more | Software Engineer - Americas Campus (July 2023). Use the same application for all locations. |
 | [Belvedere Trading](https://jobs.lever.co/belvederetrading/58aa92b6-6444-43b5-bd67-cb75219a80f0) | Chicago, IL | Software Engineer - Entry Level 2023 |
