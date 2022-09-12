@@ -127,7 +127,7 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [Delta Airlines](https://delta.avature.net/careers/SearchJobs/associate%20software%20engineer) | Atlanta | Associate SWE |
 | [RVO Health](https://www.redventures.com/careers/apply/4518163) | Charlotte, NC | 2023 Software Engineer |
 | [Vecna](https://vecnahealthcare.com/careers/?gnk=job&gni=8a7885a882ae53b00182e5e79a5c0889&gns=LinkedIn%2BLimited) | Burlington, MA | New Grad - Software Engineer | 
-| [Western Digital](https://jobs.smartrecruiters.com/WesternDigital/743999839535273-new-college-grad-engineer-software-engineering?trid=55fe2b03-11c1-41e1-ab70-337c7fd98d48) | Rochester, MN | New College Grad Engineer, Software Engineering |
+| [~Western Digital~](https://jobs.smartrecruiters.com/WesternDigital/743999839535273-new-college-grad-engineer-software-engineering?trid=55fe2b03-11c1-41e1-ab70-337c7fd98d48) | Rochester, MN | New College Grad Engineer, Software Engineering |
 | [ByteDance](https://jobs.bytedance.com/en/position/7138210801609591077/detail?spread=BSPP2KS) | Mountain View, CA | Software Engineer, University Graduate (Lark)- 2023 Start (BS/MS) |
 | [Deutsche Bank](https://db.recsolu.com/external/requisitions/BdxMLqPU47fab0oSR7kz-g) | NYC & more | Deutsche Bank Analyst Program - Technology, Data and Innovation - New York - 2023. For the same role in other locations, google the job title. |
 | [IBM](https://careers.ibm.com/job/16565244/entry-level-backend-developer-2023-remote/?codes=IBM_CareerWebSite) | NYC & more | Entry Level Backend Developer: 2023. The same application is used for all locations. |
