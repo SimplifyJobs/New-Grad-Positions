@@ -179,3 +179,4 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [DISCO](https://www.csdisco.com/careers/software-engineer-associate) | Austin, TX | Software Engineer Associate |
 | [ZipRecruiter](https://boards.greenhouse.io/ziprecruiter/jobs/4546753) | Santa Monica, CA or US Remote | Software Engineer - New Grad |
 | [Singularity Data](https://apply.workable.com/risingwave-labs/j/02769A5861/) | Santa Clara| Software Engineer (New Grad)-Cloud Database
+| [Northrop Grumman](https://www.northropgrumman.com/jobs/?country=United%20States%20of%20America&category=Engineering&search=2023%20Associate%20Software%20Engineer) | US | **Be able to obtain a U.S. Government security clearance (U.S. citizenship is a pre-requisite)** 2023 Associate Software Engineer |
