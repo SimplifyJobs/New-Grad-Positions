@@ -115,7 +115,7 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [Benchling](https://www.benchling.com/careers?jobId=4504765&gh_src=838b85821us) | Boston, MA | Software Engineer, New Graduate | 
 | [NetFlix](https://jobs.netflix.com/jobs/225717269) | Los Gatos/ Los Angeles, California | New Grad 2023 (Undergrad) |
 | [Amdocs](https://jobs.amdocs.com/job/Champaign-Software-Engineer-New-Grad-IL/914631400/) | Champaign Illinois | Software Engineer - New Grad | 
-| [~~National Instruments (NI)~~](https://pef.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/5936?utm_medium=jobshare&utm_medium=jobboard&utm_source=Linkedin) | Austin, TX | Software Engineer - New Graduate. NO petition for H-1B status from student visas for this position.  |
+| [National Instruments (NI)](https://pef.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/requisitions/preview/6176/?keyword=New+Grad) | Austin, TX | Software Engineer - New Graduate. NO petition for H-1B status from student visas for this position. Check their website for more positions. |
 | [ThoughtSpot](https://www.thoughtspot.com/job/4496761?gh_jid=4496761) | US Remote | Software Engineer (New Grad) [master candidate only](https://www.thoughtspot.com/job/4496761?gh_jid=4496761#:~:text=You%20are%20about%20to%20complete%20a%20master%E2%80%99s%20degree%20in%20Computer%20Science%2C%20Engineering%20or%20a%20related%20field.)|
 | [Whatnot](https://boards.greenhouse.io/whatnot/jobs/4309462004) | US Remote | Software Engineer - New Grad |
 | [Zscaler](https://jobs.smartrecruiters.com/Zscaler/743999839821324-cloud-operations-engineer-junior-new-grad-san-jose-ca) | San Jose, CA | **US Citizens Only** Cloud Operations Engineer (Junior/New Grad) |
