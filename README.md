@@ -15,11 +15,11 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 ## The List
 
 | Name                                   | Location | Notes                                   |
-| -------------------------------------- | -------- | --------------------------------------- |
-| [Akuna Capital](https://akunacapital.com/careers?experience=junior&department=development#careers) | Chicago      | 	Various Junior Developer Positions |
+| -------------------------------------- | -- | --------------------------------------- |
+| [Akuna Capital](https://akunacapital.com/careers?experience=junior&department=development#careers) | Chicago | 	Various Junior Developer Positions |
 | [~Disney~](https://jobs.disneycareers.com/job/-/-/391/33379644048) | Burbank, CA | SWE 1; Requires 0 Experience|
-| [~~VMware~~](https://careers.vmware.com/main/jobs/R2212905?lang=en-us) | Palo Alto, California; Atlanta, Georgia  | Launch New Grad SWE |
-| [IMC](https://imc.wd5.myworkdayjobs.com/invitation/job/Chicago/Graduate-Software-Engineer_REQ-01946#utm_source=peoplepath) | Chicago  | Graduate Software Engineer |
+| [~~VMware~~](https://careers.vmware.com/main/jobs/R2212905?lang=en-us) | Palo Alto, California; Atlanta, Georgia | Launch New Grad SWE |
+| [IMC](https://imc.wd5.myworkdayjobs.com/invitation/job/Chicago/Graduate-Software-Engineer_REQ-01946#utm_source=peoplepath) | Chicago | Graduate Software Engineer |
 | [Palantir](https://jobs.lever.co/palantir/c34b424e-caf2-455a-b104-ae1096ccca29) | Denver, CO | Software Engineer, New Grad |
 | [Sofi](https://www.sofi.com/careers/intern/?gh_jid=5255634003) | Murrah, UT | New Grad, Platform Infrastructure Engineer (Oct. 2022 Start)|
 | [Egen Solutions](https://jobs.lever.co/egensolutions/b8241d47-ab6c-456c-823d-1a6bd59e402f) | Naperville, IL | Software Engineer, University Graduates, 2023 |
@@ -53,12 +53,12 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [MathWorks](https://www.mathworks.com/company/jobs/opportunities/16217-multiple-openings-engineering-development-group-u-s)  | Natick, MA | Multiple Openings - Engineering Development Group |
 | [Vanta](https://boards.greenhouse.io/vanta/jobs/5745472002)  | New York, San Francisco | Software Engineer, New Grad |
 | [Verkada](https://jobs.lever.co/verkada/b0946e83-4174-4ecb-9873-6d0030ca1023)  | San Mateo, CA | [Backend](https://jobs.lever.co/verkada/b0946e83-4174-4ecb-9873-6d0030ca1023), [Frontend](https://jobs.lever.co/verkada/dfcab784-b82e-4bcc-9949-3cff41a5084e)
-| [Credit Suisse](https://tas-creditsuisse.taleo.net/careersection/campus/jobdetail.ftl?job=213383&lang=en)  | New York, NY; Raleigh, NC  | 2023 Americas Technology Full-Time Analyst. For the role in Raleigh, search for the job title on their website. |
-| [Old Mission](https://www.oldmissioncapital.com/careers/?gh_jid=5193176003)  | Multiple locations  | College Graduates - Full-Time - Junior Software Engineer |
+| [Credit Suisse](https://tas-creditsuisse.taleo.net/careersection/campus/jobdetail.ftl?job=213383&lang=en)  | New York, NY; Raleigh, NC | 2023 Americas Technology Full-Time Analyst. For the role in Raleigh, search for the job title on their website. |
+| [Old Mission](https://www.oldmissioncapital.com/careers/?gh_jid=5193176003)  | Multiple locations | College Graduates - Full-Time - Junior Software Engineer |
 | [Abnormal Security](https://careers.abnormalsecurity.com/open-roles?gh_jid=5131426003) | San Francisco, California | New Grad SWE |
 | [~~Audible~~](https://www.amazon.jobs/en/jobs/1999808/software-development-engineer?cmpid=SPLICX0248M&utm_source=linkedin.com&utm_campaign=audible&utm_medium=social_media&utm_content=job_posting&ss=paid) | Culver City, CA | Software Development Engineer|
 | [Argano](https://argano.hrmdirect.com/employment/view.php?req=2024176) | Remote | Junior Software Engineer|
-| [Microsoft](https://careers.microsoft.com/us/en/job/1388843/Software-Engineering-Full-Time-Opportunities-for-University-Graduates?jobsource=indeed&utm_source=indeed&utm_medium=indeed&utm_campaign=indeed-feed)  | USA  | New Graduate Software Engineer |
+| [Microsoft](https://careers.microsoft.com/us/en/job/1388843/Software-Engineering-Full-Time-Opportunities-for-University-Graduates?jobsource=indeed&utm_source=indeed&utm_medium=indeed&utm_campaign=indeed-feed)  | USA | New Graduate Software Engineer |
 | [Uber](https://university-uber.icims.com/jobs/116884/job) | San Francisco, Sunnyvale, CA; Seattle, WA; Boulder, CO; New York, NY; Toronto, ON | New Grad - Software Engineer I |
 | [Lawrence Livermore National Laboratory](https://www.llnl.gov/join-our-team/careers/find-your-job/all/software%20developer/3743990000246205) | Livermore, CA or remote | Software Developer |
 | [Hudson River Trading](https://www.hudsonrivertrading.com/careers/job/?_4118765=Full-Time%3A+New+Grad&_4168241=Software+Engineering%3AC%2B%2B&gh_jid=4454918&req_id=311) | Multiple | Software Engineer & [Algo Software Engineer](https://www.hudsonrivertrading.com/careers/job/?_4118765=Full-Time%3A+New+Grad&_4168241=Software+Engineering%3AC%2B%2B&gh_jid=4454781&req_id=310). For the roles in other locations, search for the job title on their website. |
@@ -91,7 +91,7 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [Figma](https://boards.greenhouse.io/figma/jobs/4595288004) | NYC, SF, and London | Software Engineer, Data Scientist, Product Design |
 | [Flatiron Health](https://flatiron.com/careers/open-positions/4454680) | New York, NY | Software Engineer (2023 New Graduate)
 | [Circle](https://boards.greenhouse.io/circle/jobs/6331155002) | Remote | New Grad Software Engineer, Backend/Frontend. Various locations and remote. Search under Engineering Department to see all locations |
-| [~~Google~~](https://careers.google.com/jobs/results/131020049566573254-software-engineer-early-career-campus/)  | USA  | Software Engineer, Early Career, Campus |
+| [~~Google~~](https://careers.google.com/jobs/results/131020049566573254-software-engineer-early-career-campus/)  | USA | Software Engineer, Early Career, Campus |
 | [American Express](https://aexp.eightfold.ai/careers?query=Campus&location=United%20States) | [Sunrise, FL](https://aexp.eightfold.ai/careers?query=Campus&location=United%20States&pid=12787262&domain=aexp.com) / [Phoenix, AZ](https://aexp.eightfold.ai/careers?query=Campus&location=United%20States&pid=12787218&domain=aexp.com) | **No Visa Sponsorship** SWE, Information Security, DS, PM... Check the website for more locations and positions. | 
 | [SambaNova Systems](https://boards.greenhouse.io/sambanovasystems/jobs/4589084004) | Palo Alto, CA | NCG - Software Engineer |
 | [Manulife](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Boston-Massachusetts/START-Program---Software-Engineering_JR22080183-1) | Boston, MA | START Program - New Grad (June 2023 Start) | 
@@ -178,4 +178,4 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [Sentry](https://boards.greenhouse.io/sentry/jobs/4349409?s=LinkedIn&source=LinkedIn) | San Francisco, CA | Software Engineer, New Grad (2023) |
 | [DISCO](https://www.csdisco.com/careers/software-engineer-associate) | Austin, TX | Software Engineer Associate |
 | [ZipRecruiter](https://boards.greenhouse.io/ziprecruiter/jobs/4546753) | Santa Monica, CA or US Remote | Software Engineer - New Grad |
-| [Singularity Data](https://apply.workable.com/risingwave-labs/j/02769A5861/) | Santa Clara| Software Engineer (New Grad)-Cloud Database
+| [Singularity Data](https://apply.workable.com/risingwave-labs/j/02769A5861/) | US remote| Software Engineer (New Grad)-Cloud Database
