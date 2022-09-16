@@ -156,9 +156,6 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [Cadence Design Systems](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Engineer-for-Mixed-Signal-Simulation-and-Verification--New-College-Graduate-_R40004-1) | San Jose, CA | Software Engineer for Mixed-Signal Simulation and Verification (New College Graduate) |
 | [PwC](https://jobs.us.pwc.com/job/los-angeles/products-and-tech-pwc-labs-software-engineer-associate-summer-fall-23/932/33431420992) | CA-Los Angeles,DC-Washington,GA-Atlanta,IL-Chicago,MA-Boston,NY-New York,US-Remote | Products & Tech - PwC Labs Software Engineer Associate Summer/Fall '23 |
 | [Qualtrics](https://www.qualtrics.com/careers/us/en/job/260179/Software-Engineer-New-Grad-Seattle-WA) | [Seattle](https://www.qualtrics.com/careers/us/en/job/260179/Software-Engineer-New-Grad-Seattle-WA), [Reston(VA)](https://www.qualtrics.com/careers/us/en/job/3559206/Software-Engineer-New-Grad-Reston-VA), [Provo(UT)](https://www.qualtrics.com/careers/us/en/job/180276/Software-Engineer-New-Grad-Provo-UT) | **No Visa Sponsorship** Software Engineer - New Grad |
-<<<<<<< HEAD
-| [IronClad](https://jobs.lever.co/ironcladapp/33179813-c6f6-439d-977d-0a68733d77cf) | Remote | Software Engineer - New Grad | 
-=======
 | [PROS](https://pros.wd5.myworkdayjobs.com/PROS_Careers/job/USA-Houston-Hybrid/XMLNAME-2023-University-Recruiting---Software-Engineer-I_R2428) | Houston, TX | 2023 University Recruiting - Software Engineer I |
 | [Fairmarkit](https://www.fairmarkit.com/careers?gh_jid=4653176004) | Remote | Software Engineer - 2023 New Grad | 
 | [WillowTree](https://boards.greenhouse.io/willowtree/jobs/6330270002) | Multiple | Backend Software Engineer - New Grad 2023. Will NOT sponsor work visas. Use the same application for all locations. |
@@ -181,5 +178,6 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [Sentry](https://boards.greenhouse.io/sentry/jobs/4349409?s=LinkedIn&source=LinkedIn) | San Francisco, CA | Software Engineer, New Grad (2023) |
 | [DISCO](https://www.csdisco.com/careers/software-engineer-associate) | Austin, TX | Software Engineer Associate |
 | [ZipRecruiter](https://boards.greenhouse.io/ziprecruiter/jobs/4546753) | Santa Monica, CA or US Remote | Software Engineer - New Grad |
-| [Singularity Data](https://apply.workable.com/risingwave-labs/j/02769A5861/) | Santa Clara| Software Engineer (New Grad)-Cloud Database
->>>>>>> f2b4cbed6306ddb75e76d40f25cf20f0e08e80cf
+| [Singularity Data](https://apply.workable.com/risingwave-labs/j/02769A5861/) | Santa Clara | Software Engineer (New Grad)-Cloud Database |
+| [IronClad](https://jobs.lever.co/ironcladapp/33179813-c6f6-439d-977d-0a68733d77cf) | Remote | Software Engineer - New Grad | 
+
