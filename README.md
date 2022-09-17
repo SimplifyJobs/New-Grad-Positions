@@ -179,3 +179,4 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [DISCO](https://www.csdisco.com/careers/software-engineer-associate) | Austin, TX | Software Engineer Associate |
 | [ZipRecruiter](https://boards.greenhouse.io/ziprecruiter/jobs/4546753) | Santa Monica, CA or US Remote | Software Engineer - New Grad |
 | [Singularity Data](https://apply.workable.com/risingwave-labs/j/02769A5861/) | Santa Clara| Software Engineer (New Grad)-Cloud Database
+| [Lucid](https://boards.greenhouse.io/lucidsoftware/jobs/4365607004) | Remote, US | Software Engineer |
