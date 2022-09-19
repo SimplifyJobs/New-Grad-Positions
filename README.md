@@ -197,3 +197,4 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [Comcast](https://jobs.comcast.com/jobs/description/regular?job_id=R339662&external_or_internal=external) | Philadelphia, LA | CORE Technology Rotational Program |
 | [Singularity Data](https://apply.workable.com/risingwave-labs/j/02769A5861/) | Santa Clara | Software Engineer (New Grad)-Cloud Database |
 | [Mastercard](https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Software-Engineer_R-174382) | Multiple Locations | Software Engineer I |
+| [Salesforce](https://salesforce.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Associate-Software-Engineer--New-Grad----Slack_JR158724-1) | California - San Francisco | **Current/Prior Interns Only** Associate Software Engineer (New Grad) - Slack |
