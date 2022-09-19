@@ -179,6 +179,7 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [DISCO](https://www.csdisco.com/careers/software-engineer-associate) | Austin, TX | Software Engineer Associate |
 | [ZipRecruiter](https://boards.greenhouse.io/ziprecruiter/jobs/4546753) | Santa Monica, CA or US Remote | Software Engineer - New Grad |
 | [Singularity Data](https://apply.workable.com/risingwave-labs/j/02769A5861/) | Santa Clara| Software Engineer (New Grad)-Cloud Database
+| [DoorDash](https://boards.greenhouse.io/doordash/jobs/4563590) | LOS ANGELES, CA; NEW YORK, NY; SAN FRANCISCO, CA; SEATTLE, WA; SOUTH BAY, CA; UNITED STATES - REMOTE | Software Engineer, Entry-Level 2022/23 |
 | [Fidelity](https://jobs.fidelity.com/job-details/16491200/2022-2023-undergraduates-leap-full-stack-engineer/) | Durham, NH; Westlake, TX; Merrimack, NH; Smithfield, RI; and Boston, MA | **No Visa Sponsorship** Undergraduates Full Stack Engineer |
 | [Okta](https://www.okta.com/company/careers/engineering/new-grad-software-engineer-devices-platform-dec-2022-4450143/?gh_src=7j0um41) | US Remote | New Grad Software Engineer, Devices Platform (Dec 2022) |
 | [Lucid](https://boards.greenhouse.io/lucidsoftware/jobs/4365607004) | Remote, US | Software Engineer |
