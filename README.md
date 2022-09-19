@@ -159,7 +159,7 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [PROS](https://pros.wd5.myworkdayjobs.com/PROS_Careers/job/USA-Houston-Hybrid/XMLNAME-2023-University-Recruiting---Software-Engineer-I_R2428) | Houston, TX | 2023 University Recruiting - Software Engineer I |
 | [Fairmarkit](https://www.fairmarkit.com/careers?gh_jid=4653176004) | Remote | Software Engineer - 2023 New Grad | 
 | [WillowTree](https://boards.greenhouse.io/willowtree/jobs/6330270002) | Multiple | Backend Software Engineer - New Grad 2023. Will NOT sponsor work visas. Use the same application for all locations. |
-| [Hudl](https://boards.greenhouse.io/hudl/jobs/3187136) | Remote | Software Engineer - December & May Graduates |
+| [~~Hudl~~](https://boards.greenhouse.io/hudl/jobs/3187136) | Remote | Software Engineer - December & May Graduates |
 | [Aon](https://jobs.aon.com/jobs/58607) | NYC & more | Early Careers: Cyber Associate - Nationwide. Use the same application for all locations. |
 | [Brex](https://www.brex.com/careers/6368437002) | Remote | Software Engineer, New Grad - c/o 2023 (Remote) |
 | [Atlassian](https://www.atlassian.com/company/careers/students) | Fully Remote, MTV | [SWE](https://www.atlassian.com/company/careers/detail/977df53a-539d-4b6c-9fbf-0167d8ffd83b), [Security](https://www.atlassian.com/company/careers/detail/c8c64071-c8be-402c-8ee7-147cfc2d5f93), [SRE](https://www.atlassian.com/company/careers/detail/3dd03324-aff9-4e59-b3c6-8516c530f868) - Does not offer H1B sponsors for F1 visa holders |
