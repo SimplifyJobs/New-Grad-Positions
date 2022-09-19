@@ -181,6 +181,7 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [Singularity Data](https://apply.workable.com/risingwave-labs/j/02769A5861/) | Santa Clara| Software Engineer (New Grad)-Cloud Database | 
 | [New Relic,Inc.](https://newrelic.careers/careers/JobDetail/Associate-Software-Engineer/2847?s=LinkedIn&nl=0) | Remote | (**No Visa Sponsorship available**) Associate Software Engineer  | 
 | [Singularity Data](https://apply.workable.com/risingwave-labs/j/02769A5861/) | Santa Clara| Software Engineer (New Grad)-Cloud Database
+| [Twilio](https://boards.greenhouse.io/twiliostudents/jobs/4539524) | Remote | Software Engineer New Grad | 
 | [SingleStore](https://boards.greenhouse.io/singlestore/jobs/4567491) | San Francisco, Seattle, North Carolina (Raleigh)  | Software Engineer, Database Engine (University Graduate) |
 | [DoorDash](https://boards.greenhouse.io/doordash/jobs/4563590) | LOS ANGELES, CA; NEW YORK, NY; SAN FRANCISCO, CA; SEATTLE, WA; SOUTH BAY, CA; UNITED STATES - REMOTE | Software Engineer, Entry-Level 2022/23 |
 | [Fidelity](https://jobs.fidelity.com/job-details/16491200/2022-2023-undergraduates-leap-full-stack-engineer/) | Durham, NH; Westlake, TX; Merrimack, NH; Smithfield, RI; and Boston, MA | **No Visa Sponsorship** Undergraduates Full Stack Engineer |
