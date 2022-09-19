@@ -40,7 +40,7 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [Procter & Gamble](https://www.pgcareers.com/job/cincinnati/software-data-engineer-2023-grads/936/32401863136) | Cincinnati, OH | Software/Data Engineer 2023 Grads |
 | [Optiver](https://grnh.se/57f5e82c2us) | Chicago, IL | Software engineer for [Chicago](https://grnh.se/57f5e82c2us) and [Austin](https://grnh.se/399a56ed2us). Quantitative trading for [Chicago](https://grnh.se/d3570d372us) and [Austin](https://grnh.se/7f269bd52us). Hardware engineer for [Chicago](https://grnh.se/c79a58512us) and [Austin](https://grnh.se/1490cbe32us). |
 | [Oracle](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions?location=United%20States&locationId=300000000149325&selectedFlexFieldsFacets=%22AttributeChar16%7CCampusSoftware%22) | US | Software Engineer 2023 Grads |
-| [~~Cisco (Meraki)~~](https://jobs.cisco.com/jobs/ProjectDetail/Full-Stack-Engineer-Early-Career-Meraki/1372139) | San Francisco, CA | Full Stack Engineer, Early Career (Meraki) |
+| [Cisco](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-I-Full-Time-United-States/1380884?source=LinkedIn) | US multiple | [**No Visa Sponsorship**](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-I-Full-Time-United-States/1380884?source=LinkedIn#:~:text=Able%20to%20legally%20live%20and%20work%20in%20the%20country%20for%20which%20you%E2%80%99re%20applying%2C%20without%20visa%20support%20or%20sponsorship%C2%A0); Software Engineer I (Full Time) United States |
 | [Stytch](https://jobs.ashbyhq.com/stytch/b4ee9734-3657-4393-8eca-269ae179d7eb) | San Francisco, CA | New Grad, Software Engineer |
 | [SIG](https://careers.sig.com/job/SUSQA004Y6229)  | Bala Cynwyd, PA | Software Developer--Campus 2023 Start |
 | [Raytheon Technologies](https://careers.rtx.com/global/en/job/01501768/Software-Engineer-I-New-Grad)  | Cedar Rapids, IA | Software Engineer I(New Grad)(Hybrid)|
@@ -180,3 +180,9 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [ZipRecruiter](https://boards.greenhouse.io/ziprecruiter/jobs/4546753) | Santa Monica, CA or US Remote | Software Engineer - New Grad |
 | [Singularity Data](https://apply.workable.com/risingwave-labs/j/02769A5861/) | Santa Clara| Software Engineer (New Grad)-Cloud Database
 | [DoorDash](https://boards.greenhouse.io/doordash/jobs/4563590) | LOS ANGELES, CA; NEW YORK, NY; SAN FRANCISCO, CA; SEATTLE, WA; SOUTH BAY, CA; UNITED STATES - REMOTE | Software Engineer, Entry-Level 2022/23 |
+| [Fidelity](https://jobs.fidelity.com/job-details/16491200/2022-2023-undergraduates-leap-full-stack-engineer/) | Durham, NH; Westlake, TX; Merrimack, NH; Smithfield, RI; and Boston, MA | **No Visa Sponsorship** Undergraduates Full Stack Engineer |
+| [Okta](https://www.okta.com/company/careers/engineering/new-grad-software-engineer-devices-platform-dec-2022-4450143/?gh_src=7j0um41) | US Remote | New Grad Software Engineer, Devices Platform (Dec 2022) |
+| [Lucid](https://boards.greenhouse.io/lucidsoftware/jobs/4365607004) | Remote, US | Software Engineer |
+| [Comcast](https://jobs.comcast.com/jobs/description/regular?job_id=R339662&external_or_internal=external) | Philadelphia, LA | CORE Technology Rotational Program |
+| [Singularity Data](https://apply.workable.com/risingwave-labs/j/02769A5861/) | Santa Clara | Software Engineer (New Grad)-Cloud Database |
+| [Mastercard](https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Software-Engineer_R-174382) | Multiple Locations | Software Engineer I |
