@@ -17,7 +17,7 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | Name                                   | Location | Notes                                   |
 | -------------------------------------- | -------- | --------------------------------------- |
 | [Akuna Capital](https://akunacapital.com/careers?experience=junior&department=development#careers) | Chicago      | 	Various Junior Developer Positions |
-| [~Disney~](https://jobs.disneycareers.com/job/-/-/391/33379644048) | Burbank, CA | SWE 1; Requires 0 Experience|
+| [Disney](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Software-Engineer-I_10021078) | Burbank, CA | Software Engineer I |
 | [~~VMware~~](https://careers.vmware.com/main/jobs/R2212905?lang=en-us) | Palo Alto, California; Atlanta, Georgia  | Launch New Grad SWE |
 | [IMC](https://imc.wd5.myworkdayjobs.com/invitation/job/Chicago/Graduate-Software-Engineer_REQ-01946#utm_source=peoplepath) | Chicago  | Graduate Software Engineer |
 | [Palantir](https://jobs.lever.co/palantir/c34b424e-caf2-455a-b104-ae1096ccca29) | Denver, CO | Software Engineer, New Grad |
@@ -40,7 +40,7 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [Procter & Gamble](https://www.pgcareers.com/job/cincinnati/software-data-engineer-2023-grads/936/32401863136) | Cincinnati, OH | Software/Data Engineer 2023 Grads |
 | [Optiver](https://grnh.se/57f5e82c2us) | Chicago, IL | Software engineer for [Chicago](https://grnh.se/57f5e82c2us) and [Austin](https://grnh.se/399a56ed2us). Quantitative trading for [Chicago](https://grnh.se/d3570d372us) and [Austin](https://grnh.se/7f269bd52us). Hardware engineer for [Chicago](https://grnh.se/c79a58512us) and [Austin](https://grnh.se/1490cbe32us). |
 | [Oracle](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions?location=United%20States&locationId=300000000149325&selectedFlexFieldsFacets=%22AttributeChar16%7CCampusSoftware%22) | US | Software Engineer 2023 Grads |
-| [~~Cisco (Meraki)~~](https://jobs.cisco.com/jobs/ProjectDetail/Full-Stack-Engineer-Early-Career-Meraki/1372139) | San Francisco, CA | Full Stack Engineer, Early Career (Meraki) |
+| [Cisco](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-I-Full-Time-United-States/1380884?source=LinkedIn) | US multiple | [**No Visa Sponsorship**](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-I-Full-Time-United-States/1380884?source=LinkedIn#:~:text=Able%20to%20legally%20live%20and%20work%20in%20the%20country%20for%20which%20you%E2%80%99re%20applying%2C%20without%20visa%20support%20or%20sponsorship%C2%A0); Software Engineer I (Full Time) United States |
 | [Stytch](https://jobs.ashbyhq.com/stytch/b4ee9734-3657-4393-8eca-269ae179d7eb) | San Francisco, CA | New Grad, Software Engineer |
 | [SIG](https://careers.sig.com/job/SUSQA004Y6229)  | Bala Cynwyd, PA | Software Developer--Campus 2023 Start |
 | [Raytheon Technologies](https://careers.rtx.com/global/en/job/01501768/Software-Engineer-I-New-Grad)  | Cedar Rapids, IA | Software Engineer I(New Grad)(Hybrid)|
@@ -159,10 +159,10 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [PROS](https://pros.wd5.myworkdayjobs.com/PROS_Careers/job/USA-Houston-Hybrid/XMLNAME-2023-University-Recruiting---Software-Engineer-I_R2428) | Houston, TX | 2023 University Recruiting - Software Engineer I |
 | [Fairmarkit](https://www.fairmarkit.com/careers?gh_jid=4653176004) | Remote | Software Engineer - 2023 New Grad | 
 | [WillowTree](https://boards.greenhouse.io/willowtree/jobs/6330270002) | Multiple | Backend Software Engineer - New Grad 2023. Will NOT sponsor work visas. Use the same application for all locations. |
-| [Hudl](https://boards.greenhouse.io/hudl/jobs/3187136) | Remote | Software Engineer - December & May Graduates |
+| [~~Hudl~~](https://boards.greenhouse.io/hudl/jobs/3187136) | Remote | Software Engineer - December & May Graduates |
 | [Aon](https://jobs.aon.com/jobs/58607) | NYC & more | Early Careers: Cyber Associate - Nationwide. Use the same application for all locations. |
 | [Brex](https://www.brex.com/careers/6368437002) | Remote | Software Engineer, New Grad - c/o 2023 (Remote) |
-| [Atlassian](https://www.atlassian.com/company/careers/students) | Fully Remote, MTV | [SWE](https://www.atlassian.com/company/careers/detail/977df53a-539d-4b6c-9fbf-0167d8ffd83b), [Security](https://www.atlassian.com/company/careers/detail/c8c64071-c8be-402c-8ee7-147cfc2d5f93), [SRE](https://www.atlassian.com/company/careers/detail/3dd03324-aff9-4e59-b3c6-8516c530f868) - Does not offer H1B sponsors for F1 visa holders |
+| [Atlassian](https://www.atlassian.com/company/careers/students) | Fully Remote, MTV | [SWE](https://www.atlassian.com/company/careers/detail/977df53a-539d-4b6c-9fbf-0167d8ffd83b), [Security](https://www.atlassian.com/company/careers/detail/c8c64071-c8be-402c-8ee7-147cfc2d5f93), [SRE](https://www.atlassian.com/company/careers/detail/3dd03324-aff9-4e59-b3c6-8516c530f868) - **Does not offer H1B sponsors for F1 visa holders** |
 | [Nike](https://jobs.nike.com/job/URSRCGTECHENGUD23) | Beaverton, Oregon | Software Engineer ([Undergraduate](https://jobs.nike.com/job/URSRCGTECHENGUD23), [Graduate with 1-3 years experience](https://jobs.nike.com/job/URSRCGTGD23)) |
 | [Zoom](https://zoom.wd5.myworkdayjobs.com/Zoom/job/Remote--US/XMLNAME-2023-Software-Development-Engineer---New-Grad_R10542-1?source=linkedin) | Remote | 2023 Software Development Engineer - New Grad |
 | [Nutanix](https://nutanix.eightfold.ai/careers?pid=13264357&domain=nutanix.com) | San Jose, CA (Hybrid) | Software Engineering - New Grad |
@@ -178,5 +178,16 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [Sentry](https://boards.greenhouse.io/sentry/jobs/4349409?s=LinkedIn&source=LinkedIn) | San Francisco, CA | Software Engineer, New Grad (2023) |
 | [DISCO](https://www.csdisco.com/careers/software-engineer-associate) | Austin, TX | Software Engineer Associate |
 | [ZipRecruiter](https://boards.greenhouse.io/ziprecruiter/jobs/4546753) | Santa Monica, CA or US Remote | Software Engineer - New Grad |
+| [Singularity Data](https://apply.workable.com/risingwave-labs/j/02769A5861/) | Santa Clara| Software Engineer (New Grad)-Cloud Database | 
+| [New Relic,Inc.](https://newrelic.careers/careers/JobDetail/Associate-Software-Engineer/2847?s=LinkedIn&nl=0) | Remote | (**No Visa Sponsorship available**) Associate Software Engineer  | 
 | [Singularity Data](https://apply.workable.com/risingwave-labs/j/02769A5861/) | Santa Clara| Software Engineer (New Grad)-Cloud Database
 | [Bentley](https://jobs.bentley.com/job/Philadelphia-Software-Engineer-Rotation-Program-2023-Graduates-PA-19102/934779600/) | [Philadelphia, PA](https://jobs.bentley.com/job/Philadelphia-Software-Engineer-Rotation-Program-2023-Graduates-PA-19102/934779600/), [Huntsville, AL](https://jobs.bentley.com/job/Huntsville-Software-Engineer-Rotation-Program-2023-Graduates-AL-35806/934780500/), and [Burlington, ON, CA](https://jobs.bentley.com/job/Burlington-Software-Engineer-Rotation-Program-2023-Graduates-ON-L7L-5Z1/933088200/) | Software Engineer Rotation Program - 2023 Graduates |
+| [Twilio](https://boards.greenhouse.io/twiliostudents/jobs/4539524) | Remote | Software Engineer New Grad | 
+| [SingleStore](https://boards.greenhouse.io/singlestore/jobs/4567491) | San Francisco, Seattle, North Carolina (Raleigh)  | Software Engineer, Database Engine (University Graduate) |
+| [DoorDash](https://boards.greenhouse.io/doordash/jobs/4563590) | LOS ANGELES, CA; NEW YORK, NY; SAN FRANCISCO, CA; SEATTLE, WA; SOUTH BAY, CA; UNITED STATES - REMOTE | Software Engineer, Entry-Level 2022/23 |
+| [Fidelity](https://jobs.fidelity.com/job-details/16491200/2022-2023-undergraduates-leap-full-stack-engineer/) | Durham, NH; Westlake, TX; Merrimack, NH; Smithfield, RI; and Boston, MA | **No Visa Sponsorship** Undergraduates Full Stack Engineer |
+| [Okta](https://www.okta.com/company/careers/engineering/new-grad-software-engineer-devices-platform-dec-2022-4450143/?gh_src=7j0um41) | US Remote | New Grad Software Engineer, Devices Platform (Dec 2022) |
+| [Lucid](https://boards.greenhouse.io/lucidsoftware/jobs/4365607004) | Remote, US | Software Engineer |
+| [Comcast](https://jobs.comcast.com/jobs/description/regular?job_id=R339662&external_or_internal=external) | Philadelphia, LA | CORE Technology Rotational Program |
+| [Singularity Data](https://apply.workable.com/risingwave-labs/j/02769A5861/) | Santa Clara | Software Engineer (New Grad)-Cloud Database |
+| [Mastercard](https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Software-Engineer_R-174382) | Multiple Locations | Software Engineer I |
