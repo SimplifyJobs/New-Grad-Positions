@@ -197,3 +197,4 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [Comcast](https://jobs.comcast.com/jobs/description/regular?job_id=R339662&external_or_internal=external) | Philadelphia, LA | CORE Technology Rotational Program |
 | [Singularity Data](https://apply.workable.com/risingwave-labs/j/02769A5861/) | Santa Clara | Software Engineer (New Grad)-Cloud Database |
 | [Mastercard](https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Software-Engineer_R-174382) | Multiple Locations | Software Engineer I |
+| [ADP](https://tech.adp.com/job-search-results/?keyword=grad) | Norfolk, VA; Alpharetta, GA; Pasadena, CA; and Roseland, NJ | GPT Development Program – Associate Application Developer |
