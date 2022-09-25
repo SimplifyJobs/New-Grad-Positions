@@ -195,7 +195,7 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [Fidelity](https://jobs.fidelity.com/job-details/16491200/2022-2023-undergraduates-leap-full-stack-engineer/) | Durham, NH; Westlake, TX; Merrimack, NH; Smithfield, RI; and Boston, MA | **No Visa Sponsorship** Undergraduates Full Stack Engineer |
 | [Okta](https://www.okta.com/company/careers/engineering/new-grad-software-engineer-devices-platform-dec-2022-4450143/?gh_src=7j0um41) | US Remote | New Grad Software Engineer, Devices Platform (Dec 2022) |
 | [Lucid](https://boards.greenhouse.io/lucidsoftware/jobs/4365607004) | Remote, US | Software Engineer |
-| [Comcast](https://jobs.comcast.com/jobs/description/regular?job_id=R339662&external_or_internal=external) | Philadelphia, LA | CORE Technology Rotational Program |
+| [~~Comcast~~](https://jobs.comcast.com/jobs/description/regular?job_id=R339662&external_or_internal=external) | Philadelphia, LA | CORE Technology Rotational Program |
 | [Singularity Data](https://apply.workable.com/risingwave-labs/j/02769A5861/) | Santa Clara | Software Engineer (New Grad)-Cloud Database |
 | [Mastercard](https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Software-Engineer_R-174382) | Multiple Locations | Software Engineer I |
 | [Draftkings](https://draftkings.wd1.myworkdayjobs.com/en-US/Campus_Career_Portal/) | Boston, MA | SWE, SRE, and Data Analyst |
