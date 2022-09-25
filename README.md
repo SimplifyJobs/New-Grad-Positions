@@ -197,6 +197,7 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [Comcast](https://jobs.comcast.com/jobs/description/regular?job_id=R339662&external_or_internal=external) | Philadelphia, LA | CORE Technology Rotational Program |
 | [Singularity Data](https://apply.workable.com/risingwave-labs/j/02769A5861/) | Santa Clara | Software Engineer (New Grad)-Cloud Database |
 | [Mastercard](https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Software-Engineer_R-174382) | Multiple Locations | Software Engineer I |
+| [Tebra](https://boards.greenhouse.io/tebra/jobs/4094268005) | Newport Beach, CA (Remote) | Front End Software Engineer I |
 | [Rakuten Advertising](https://rakuten.wd1.myworkdayjobs.com/en-US/RakutenAdvertising/job/Associate-Software-Engineer_1012132-1) | San Mateo, CA; New York, NY; Midvale, Utah | Associate Software Engineer |
 | [PayPal](https://wd1.myworkdaysite.com/recruiting/paypal/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer--Recent-Graduate_R0092213-1?Codes=W-LINKEDIN) | US multiple | Software Engineer- Recent Graduate | 
 | [Lockedheed Martin](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25037&siteid=5010&PageType=JobDetails&jobid=705384) | Marietta, GA | **Must be a US Citizen. This position is located at a facility that requires special access and an Interim Secret clearance required to start.** Software Engineer (Early Career) |
