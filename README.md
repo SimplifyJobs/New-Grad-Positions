@@ -96,7 +96,7 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [SambaNova Systems](https://boards.greenhouse.io/sambanovasystems/jobs/4589084004) | Palo Alto, CA | NCG - Software Engineer |
 | [Manulife](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Boston-Massachusetts/START-Program---Software-Engineering_JR22080183-1) | Boston, MA | START Program - New Grad (June 2023 Start) | 
 | [NetApp](https://netapp.eightfold.ai/careers?pid=12956090&domain=netapp.com&utm) | San Jose, CA & more | NetApp Emerging Talent - Software Engineer. For the same role in other locations, look up the job title on their website. |
-| [U.S. Bank](https://careers.usbank.com/global/en/job/UBNAGLOBAL20220029893EXTERNALENGLOBAL) | Richfield, MN & more | 2023 Engineering Full-Time Rotation Program �rly Careers (Undergraduate) |
+| [U.S. Bank](https://careers.usbank.com/global/en/job/UBNAGLOBAL20220029893EXTERNALENGLOBAL) | Richfield, MN & more | 2023 Engineering Full-Time Rotation Program Early Careers (Undergraduate) |
 | [Rippling](https://www.rippling.com/careers/5237048003?gh_jid=5237048003) | San Francisco, CA | Software Engineer - New Grad |
 | [Bank of America](https://campus.bankofamerica.com/careers/global_technology_analyst_program__2023.html) | NYC & more | Global Technology Analyst Program - 2023 |
 | [Textron Specialized Vehicles](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=303763) | Augusta, GA | 2023 Software Engineer I |
