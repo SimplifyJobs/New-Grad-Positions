@@ -230,3 +230,6 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [Expedia](https://careers.expediagroup.com/jobs/?keyword=early+careers&&filter[category]=Technology&filter[country]=United+States) | Seattle,Austin,Chicago | Multiple Roles DS,SDE,Machine Learning
 | [eBay](https://app.ripplematch.com/job/ebay/58692682/)|San Jose, CA, USA - San Francisco, CA, USA - Austin, TX, USA - Salt Lake City, UT, USA +4|Software Engineer, Recent College Graduate|
 | [Boeing](https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/Entry-Level-Software-Engineer_00000304196-1) | Multiple locations | **Need U.S. Person status** [Entry Level Software Engineer](https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/Entry-Level-Software-Engineer_00000304196-1), [Entry Level Software Engineer - F15 USAF Trainers](https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/Entry-Level-Software-Engineer---F15-USAF-Trainers_00000337291-1), [Entry Level Real Time Software Engineer](https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/Entry-Level-Real-Time-Software-Engineer_00000342554-1) |
+| [Codvo](https://www.glassdoor.co.in/job-listing/sde-codvo-ai-JV_KO0,3_KE4,12.htm?jl=1008139209570&trk=bingjobs) | Remote | SDE-Full-time |
+
+
