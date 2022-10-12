@@ -155,3 +155,4 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 |[Coinbase](https://www.coinbase.com/careers/positions/1724688?gh_jid=1724688) | Remote | Full Stack |
 |[Raytheon Technologies](https://careers.rtx.com/global/en/job/191574MBR) | Riverdale, MD | Systems Engineer |
 |[Scale AI](https://scale.com/careers/4037926005) | San Francisco | Software Engineer |
+|[Leidos](https://careers.leidos.com/jobs/9690258-software-engineer-entry-level) | Bethesda, MD | SWE, **US Citizenship Required** |
