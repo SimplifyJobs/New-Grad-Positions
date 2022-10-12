@@ -18,7 +18,7 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | Name                                   | Location | Notes                                   |
 | -------------------------------------- | -------- | --------------------------------------- |
 | [Akuna Capital](https://akunacapital.com/careers?experience=junior&department=development#careers) | Chicago      | 	Various Junior Developer Positions |
-| [Disney](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Software-Engineer-I_10021078) | Burbank, CA | Software Engineer I |
+| [~~Disney~~](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Software-Engineer-I_10021078) | Burbank, CA | Software Engineer I |
 | [~~VMware~~](https://careers.vmware.com/main/jobs/R2212905?lang=en-us) | Palo Alto, California; Atlanta, Georgia  | Launch New Grad SWE |
 | [IMC](https://imc.wd5.myworkdayjobs.com/invitation/job/Chicago/Graduate-Software-Engineer_REQ-01946#utm_source=peoplepath) | Chicago  | Graduate Software Engineer |
 | [Palantir](https://jobs.lever.co/palantir/c34b424e-caf2-455a-b104-ae1096ccca29) | Denver, CO | Software Engineer, New Grad |
@@ -190,7 +190,7 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [Northrop Grumman](https://www.northropgrumman.com/jobs/?country=United%20States%20of%20America&category=Engineering&search=2023%20Associate%20Software%20Engineer) | US | **Be able to obtain a U.S. Government security clearance (U.S. citizenship is a pre-requisite)** 2023 Associate Software Engineer |
 | [Bentley](https://jobs.bentley.com/job/Philadelphia-Software-Engineer-Rotation-Program-2023-Graduates-PA-19102/934779600/) | [Philadelphia, PA](https://jobs.bentley.com/job/Philadelphia-Software-Engineer-Rotation-Program-2023-Graduates-PA-19102/934779600/), [Huntsville, AL](https://jobs.bentley.com/job/Huntsville-Software-Engineer-Rotation-Program-2023-Graduates-AL-35806/934780500/), and [Burlington, ON, CA](https://jobs.bentley.com/job/Burlington-Software-Engineer-Rotation-Program-2023-Graduates-ON-L7L-5Z1/933088200/) | Software Engineer Rotation Program - 2023 Graduates |
 | [~~Twilio~~](https://boards.greenhouse.io/twiliostudents/jobs/4539524) | Remote | Software Engineer New Grad | 
-| [SingleStore](https://boards.greenhouse.io/singlestore/jobs/4567491) | San Francisco, Seattle, North Carolina (Raleigh)  | Software Engineer, Database Engine (University Graduate) |
+| SingleStore | San Francisco, Seattle, North Carolina (Raleigh)  | Software Engineer, Database Engine (University Graduate) |
 | [DoorDash](https://boards.greenhouse.io/doordash/jobs/4563590) | LOS ANGELES, CA; NEW YORK, NY; SAN FRANCISCO, CA; SEATTLE, WA; SOUTH BAY, CA; UNITED STATES - REMOTE | Software Engineer, Entry-Level 2022/23 |
 | [Fidelity](https://jobs.fidelity.com/job-details/16491200/2022-2023-undergraduates-leap-full-stack-engineer/) | Durham, NH; Westlake, TX; Merrimack, NH; Smithfield, RI; and Boston, MA | **No Visa Sponsorship** Undergraduates Full Stack Engineer |
 | [Okta](https://www.okta.com/company/careers/engineering/new-grad-software-engineer-devices-platform-dec-2022-4450143/?gh_src=7j0um41) | US Remote | New Grad Software Engineer, Devices Platform (Dec 2022) |
