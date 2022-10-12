@@ -46,7 +46,6 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [SIG](https://careers.sig.com/job/SUSQA004Y6229)  | Bala Cynwyd, PA | Software Developer--Campus 2023 Start |
 | [Raytheon Technologies](https://careers.rtx.com/global/en/job/01501768/Software-Engineer-I-New-Grad)  | Cedar Rapids, IA | Software Engineer I(New Grad)(Hybrid)|
 | [Qualcomm](https://qualcomm.wd5.myworkdayjobs.com/External/job/San-Diego-USA/Software-Engineer--University-Grad-_3043053?source=APPLICANT_SOURCE-6-2)  | San Diego, CA | Software Engineer - New Grad|
-| [Capstone](https://www.capstoneco.com/careers/2023-technology-graduate-rotation-program-nyc/?gh_jid=6223901002)  | NYC | 2023 Technology Graduate Rotation Program |
 | [Five Rings](https://fiverings.avature.net/careers)  | New York, NY | Software Developer--Campus 2023 Start |
 | [Citrix](https://citrix.wd1.myworkdayjobs.com/en-US/CitrixCareers/job/Software-Engineer--2023-_R34470)  | US | Software Engineer 2023 |
 | [WeRide.ai](https://jobs.lever.co/weride/97063737-808b-4078-b1d8-8ffcef30635a)  | San Jose, CA | Software Engineer (New Grad) |
@@ -72,7 +71,7 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [Broadway Technology](https://jobs.lever.co/broadwaytechnology/d364919b-64e9-464a-b848-04bc3a4dcd15?lever-origin=applied&lever-source%5B%5D=Handshake%20Applicant) | NYC | Software Engineer (New Grad-Fall 2022/Spring 2023) |
 | [Morgan Stanley](https://morganstanley.tal.net/vx/candidate/apply/12947) | NYC & more | 2023 Technology Full-Time Analyst Program. For the roles in other locations, look up the job title on their website. |
 | [Capstone Investment Advisors](https://www.capstoneco.com/careers/2023-technology-graduate-rotation-program-nyc/?gh_jid=6223901002) | NYC, London | 2023 Technology Graduate Rotation Program. For the role in London, look up the job title on their website. |
-| [Seven Eight Capital](https://boards.greenhouse.io/seveneightcapital/jobs/6306094002?gh_jid=6306094002) | NYC | 2023 Software Engineer (Campus Hire Graduating 2023) |
+| [Seven Eight Capital](https://www.seveneightcapital.com/join-us) | NYC | [2023 Software Engineer (Campus Hire Graduating 2023)](https://boards.greenhouse.io/seveneightcapital/jobs/6306094002?gh_jid=6306094002), Quant Developer, Quant Researcher roles also available |
 | [PEAK6](https://careers.peak6.com/jobs/technology-management/chicago-il-new-york-ny-austin-tx/software-engineer-campus-entry-level/4449643?gh_jid=4449643#/) | NYC & more | Software Engineer - Campus Entry-Level. The same application is used for all locations. |
 | [Bloomberg](https://careers.bloomberg.com/job/detail/105010) | New York, NY | 2023 Software Engineer
 | [Two Sigma](https://careers.twosigma.com/careers/SearchJobs/campus%20hire) | NYC, Houston(TX), and London | Software Engineer, Quantitative Researcher |
@@ -97,7 +96,7 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [SambaNova Systems](https://boards.greenhouse.io/sambanovasystems/jobs/4589084004) | Palo Alto, CA | NCG - Software Engineer |
 | [Manulife](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Boston-Massachusetts/START-Program---Software-Engineering_JR22080183-1) | Boston, MA | START Program - New Grad (June 2023 Start) | 
 | [NetApp](https://netapp.eightfold.ai/careers?pid=12956090&domain=netapp.com&utm) | San Jose, CA & more | NetApp Emerging Talent - Software Engineer. For the same role in other locations, look up the job title on their website. |
-| [U.S. Bank](https://careers.usbank.com/global/en/job/UBNAGLOBAL20220029893EXTERNALENGLOBAL) | Richfield, MN & more | 2023 Engineering Full-Time Rotation Program �rly Careers (Undergraduate) |
+| [U.S. Bank](https://careers.usbank.com/global/en/job/UBNAGLOBAL20220029893EXTERNALENGLOBAL) | Richfield, MN & more | 2023 Engineering Full-Time Rotation Program Early Careers (Undergraduate) |
 | [Rippling](https://www.rippling.com/careers/5237048003?gh_jid=5237048003) | San Francisco, CA | Software Engineer - New Grad |
 | [Bank of America](https://campus.bankofamerica.com/careers/global_technology_analyst_program__2023.html) | NYC & more | Global Technology Analyst Program - 2023 |
 | [Textron Specialized Vehicles](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=303763) | Augusta, GA | 2023 Software Engineer I |
