@@ -141,7 +141,7 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [Datadog](https://app.ripplematch.com/job/datadog/98af8a8c/) | NYC & more | Software Engineer - Recent Grad |
 | [Flexport](https://boards.greenhouse.io/flexport) | Bellevue, Chicago, San Francisco | Search for "2023 New Grad" in the openings page. 4 Available: Full-Stack Software Engineer for [Masters](https://boards.greenhouse.io/flexport/jobs/3878424) and [Undergrad](https://boards.greenhouse.io/flexport/jobs/4499827); [Machine Learning Scientist](https://boards.greenhouse.io/flexport/jobs/4515031); [Applied Research Scientist (PhD)](https://boards.greenhouse.io/flexport/jobs/4515144) |
 | [AT&T](https://www.att.jobs/search-jobs?orgIds=117&acm=61644) | US | **No Visa Sponsorship** SWE, DA, Network, and Technical Business Manager |
-| [Merge](https://boards.greenhouse.io/merge/jobs/4147906004?s=LinkedIn&source=LinkedIn) | San Francisco, CA & New York City, NY | New Grad 2023, Software Engineering |
+| [~~Merge~~](https://boards.greenhouse.io/merge/jobs/4147906004?s=LinkedIn&source=LinkedIn) | San Francisco, CA & New York City, NY | New Grad 2023, Software Engineering |
 | [Visa](https://usa.visa.com/en_us/jobs/REF52473N) | Austin, TX | Software Engineer - Undergrad New College Grad - Multiple Locations - 2023 |
 | [Appian Corporation](https://app.ripplematch.com/job/appian/7d45c0ae/?tl=de206e19) | McLean, VA | Technology Strategy Engineer |
 | [Arm](https://earlycareers-arm.icims.com/jobs/6215/graduate-rotation-engineer---cpu/job?mode=submit_apply) | Austin, TX | Graduate Rotation Engineer - CPU |
@@ -202,7 +202,7 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [BAE System](https://jobs.baesystems.com/global/en/search-results?keywords=2023%20Entry%20Level%20Software%20Engineer&s=1) | US | **Requires US Citizenship Status** 2023 Entry Level Software Engineer | 
 | Nextdoor | San Francisco, CA / US Remote | Machine Learning Engineer - New Grad 2023 (Master / PhD required) ([SF](https://about.nextdoor.com/careers-list/?gh_jid=4571489), [Remote](https://about.nextdoor.com/careers-list/?gh_jid=4571500)); Software Engineer - New Grad 2023 ([SF](https://about.nextdoor.com/careers-list/?gh_jid=4328986)) |
 | [Tebra](https://boards.greenhouse.io/tebra/jobs/4094268005) | Newport Beach, CA (Remote) | Front End Software Engineer I |
-| [Rakuten Advertising](https://rakuten.wd1.myworkdayjobs.com/en-US/RakutenAdvertising/job/Associate-Software-Engineer_1012132-1) | San Mateo, CA; New York, NY; Midvale, Utah | Associate Software Engineer |
+| [~~Rakuten Advertising~~](https://rakuten.wd1.myworkdayjobs.com/en-US/RakutenAdvertising/job/Associate-Software-Engineer_1012132-1) | San Mateo, CA; New York, NY; Midvale, Utah | Associate Software Engineer |
 | [PayPal](https://wd1.myworkdaysite.com/recruiting/paypal/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer--Recent-Graduate_R0092213-1?Codes=W-LINKEDIN) | US multiple | Software Engineer- Recent Graduate | 
 | [~~Lockedheed Martin~~](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25037&siteid=5010&PageType=JobDetails&jobid=705384) | Marietta, GA | **Must be a US Citizen. This position is located at a facility that requires special access and an Interim Secret clearance required to start.** Software Engineer (Early Career) |
 | [ADP](https://tech.adp.com/job-search-results/?keyword=grad) | Norfolk, VA; Alpharetta, GA; Pasadena, CA; and Roseland, NJ | GPT Development Program – Associate Application Developer |
