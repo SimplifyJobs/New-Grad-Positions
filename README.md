@@ -251,3 +251,4 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [Nightfall AI](https://jobs.lever.co/nightfall/d9edaa15-300f-48b0-9481-556ad995cd00) | San Francisco | [New Grad Full Stack Engineer](https://jobs.lever.co/nightfall/d9edaa15-300f-48b0-9481-556ad995cd00) and [New Grad Backend Engineer](https://jobs.lever.co/nightfall/80cdcd6e-1d19-41c5-9eeb-ee1b3d4d5a56) |
 | [Niantic](https://boards.greenhouse.io/niantic/jobs/6452435002) | Lawrence, KS | Software Engineer, New Grad |
 | Stytch | San Francisco | [Software Engineer - New Grad 2023](https://jobs.ashbyhq.com/stytch/b4ee9734-3657-4393-8eca-269ae179d7eb?utm_source=35JPEzvE9E) |
+｜[SAP](https://jobs.sap.com/job/Palo-Alto-SOFTWARE-ENGINEERING-SAP-Next-Talent-Rotational-Program-%282023-Grads%29-CA-94304/865869201/) | Palo Alto, CA | SOFTWARE ENGINEERING: SAP Next Talent - Rotational Program (2023 Grads) | 
