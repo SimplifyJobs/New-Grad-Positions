@@ -88,7 +88,7 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [Roivant Sciences](https://boards.greenhouse.io/roivantsciences/jobs/4457842) | NYC | Roivant Rotational Analyst 2023 (Tech) |
 | [~~Alcon~~](https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Fort-Worth-Texas/XMLNAME-2023-Envision-R-D-Program---Discipline-Track-2_R-2022-18015-1) | Fort Worth, TX & more | 2023 Envision R&D Programs - Discipline Track 2. Accepts OPT but will NOT sponsor work visas. |
 | [Quantcast](https://jobs.lever.co/quantcast/052ae051-4aad-4c51-af01-8f74c1756c57) | San Francisco | Software Engineer - New College Graduate |
-| [Figma](https://boards.greenhouse.io/figma/jobs/4595288004) | NYC, SF, and London | Software Engineer, Data Scientist, Product Design |
+| [~~Figma~~](https://boards.greenhouse.io/figma/jobs/4595288004) | NYC, SF, and London | Software Engineer, Data Scientist, Product Design |
 | [Flatiron Health](https://flatiron.com/careers/open-positions/4454680) | New York, NY | Software Engineer (2023 New Graduate)
 | [Circle](https://boards.greenhouse.io/circle/jobs/6331155002) | Remote | New Grad Software Engineer, Backend/Frontend. Various locations and remote. Search under Engineering Department to see all locations |
 | [~~Google~~](https://careers.google.com/jobs/results/131020049566573254-software-engineer-early-career-campus/)  | USA  | Software Engineer, Early Career, Campus |
