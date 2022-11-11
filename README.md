@@ -109,7 +109,7 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [RTI](https://boards.greenhouse.io/rti/jobs/4510497?gh_src=aafe777a1us) | Greensboro, NC | Software Engineer - New Grad |
 | [Cat Digital](https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/XMLNAME-2023-Software-Engineering-Recent-Grad-Positions---Cat-Digital_R0000153666) | Chicago & more | 2023 Software Engineering Recent Grad |
 | [Thomson Reuters](https://jobs.thomsonreuters.com/job/16553660/software-engineer-new-grad-2023-eagan-mn/) | Eagan, MN | Software Engineer - New Grad - 2023 |
-| [~~JPMorgan Chase~~](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210321358) | US | **No Visa Sponsorship** Software Engineer. Check their website for more locations and positions. | 
+| [JPMorgan Chase](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210321358) | US | **No Visa Sponsorship** Software Engineer. Check their website for more locations and positions. | 
 | [Silicon Labs](https://jobs.jobvite.com/silabs/job/oOjJkfwU) | Austin, TX | Software Engineer - New College Graduate |
 | [SpaceX](https://boards.greenhouse.io/spacex/jobs/6324788002?gh_jid=6324788002&gh_src=130ac1d82us) | USA | New Graduate, Software Engineer. Requires US Citizenship |
 | [Benchling](https://www.benchling.com/careers?jobId=4504765&gh_src=838b85821us) | Boston, MA | Software Engineer, New Graduate | 
