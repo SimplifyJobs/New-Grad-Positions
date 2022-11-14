@@ -8,3 +8,4 @@ Thank you for contributing to new grad positions! Please follow this format when
 * When adding position use "Add" ("Add Microsoft")
 * When removing a position use ("Close Microsoft") and mark that position with a strikethrough
 -->
+Close Lucid
