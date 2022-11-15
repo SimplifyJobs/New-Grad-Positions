@@ -253,6 +253,7 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [Niantic](https://boards.greenhouse.io/niantic/jobs/6452435002) | Lawrence, KS | Software Engineer, New Grad |
 | [Constant Contact](https://careers.constantcontact.com/global/en/job/4605737/Software-Engineering-Development-Program-United-States) | Waltham | Software Engineering Development Program (United States) |
 | Stytch | San Francisco | [Software Engineer - New Grad 2023](https://jobs.ashbyhq.com/stytch/b4ee9734-3657-4393-8eca-269ae179d7eb?utm_source=35JPEzvE9E) |
+| Radical Semiconductors | Los Angeles, CA | **No Visa Sponsorship** [Full-Stack Product Engineer (New Grad)](https://simplify.jobs/p/4695e0d6-77c6-453c-ab8c-239abb28a450/Full-Stack-Product-Engineer-New-Grad) |
 | Affirm | Remote(US) | [Software Engineer, New Grad 2023](https://boards.greenhouse.io/affirm/jobs/5249942003?t=54db7ac73us)|
 | [2K (Visual Concepts)](https://boards.greenhouse.io/visualconcepts/jobs/5293521003) | Austin, TX | **This is a great opportunity ideally starting in January 2023.** Associate Software Engineer (Please check their websites for other locations and roles, but can't confirm if they are ng roles.) |
 | [Blend360](https://careers.smartrecruiters.com/Blend360?search=new%20grad) | Denver, CO; Columbia, MD | Data Engineer and Data Scientist | 
