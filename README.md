@@ -264,3 +264,4 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [2K (Visual Concepts)](https://boards.greenhouse.io/visualconcepts/jobs/5293521003) | Austin, TX | **This is a great opportunity ideally starting in January 2023.** Associate Software Engineer (Please check their websites for other locations and roles, but can't confirm if they are ng roles.) |
 | [Blend360](https://careers.smartrecruiters.com/Blend360?search=new%20grad) | Denver, CO; Columbia, MD | Data Engineer and Data Scientist | 
 | [Auterion](https://auterion.com/company/careers-open-position/?gh_jid=6414930002) | Sorrento Valley, CA | Frontend Software Engineer, Web Applications (New Graduate) |
+| [Tektronix](https://careers.fortive.com/job/FORTUSTEK011301/2023-Engineering-Rotation-Program-Participant?utm_source=linkedin&src=SNS-10043&utm_medium=phenom-feeds&src=SNS-10043) | Beaverton, Oregon | 2023 Engineering Rotation Program |
