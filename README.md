@@ -263,4 +263,4 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | Affirm | Remote(US) | [Software Engineer, New Grad 2023](https://boards.greenhouse.io/affirm/jobs/5249942003?t=54db7ac73us)|
 | [2K (Visual Concepts)](https://boards.greenhouse.io/visualconcepts/jobs/5293521003) | Austin, TX | **This is a great opportunity ideally starting in January 2023.** Associate Software Engineer (Please check their websites for other locations and roles, but can't confirm if they are ng roles.) |
 | [Blend360](https://careers.smartrecruiters.com/Blend360?search=new%20grad) | Denver, CO; Columbia, MD | Data Engineer and Data Scientist | 
-| [Auterion](https://auterion.com/company/careers-open-position/?gh_jid=6414930002) | Sorrento Valley, CA | Frontend Software Engineer, Web Applications (New Graduate) |
+| [Auterion](https://auterion.com/company/careers-open-position/?gh_jid=6414930002) | Sorrento Valley, CA | **Require US Citizenship.** Frontend Software Engineer, Web Applications (New Graduate) |
