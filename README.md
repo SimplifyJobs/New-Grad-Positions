@@ -253,6 +253,7 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [Niantic](https://boards.greenhouse.io/niantic/jobs/6452435002) | Lawrence, KS | Software Engineer, New Grad |
 | [Constant Contact](https://careers.constantcontact.com/global/en/job/4605737/Software-Engineering-Development-Program-United-States) | Waltham | Software Engineering Development Program (United States) |
 | Stytch | San Francisco | [Software Engineer - New Grad 2023](https://jobs.ashbyhq.com/stytch/b4ee9734-3657-4393-8eca-269ae179d7eb?utm_source=35JPEzvE9E) |
+| [C3.ai](https://c3.ai/job-description/?gh_jid=6345004002) | Redwood City, CA | Software Engineer - Early Professional (2023) |
 | [Cleanlab.ai](https://cleanlab.ai/careers/) | Remote | **Full-time positions start summer 2023** Backend Engineer, Frontend Engineer, Full-Stack Engineer, Infrastructure Engineer, ML Engineer, and Research Scientist |
 | [SAP](https://jobs.sap.com/job/Palo-Alto-SOFTWARE-ENGINEERING-SAP-Next-Talent-Rotational-Program-%282023-Grads%29-CA-94304/865869201/) | Palo Alto, CA | **Requirement of not needing permanent US work authorization (now nor in the future) to be considered, there is no visa sponsorship available at this time.** SOFTWARE ENGINEERING: SAP Next Talent - Rotational Program (2023 Grads) | 
 | [Glean](https://boards.greenhouse.io/gleanwork/jobs/4006730005) | Palo Alto | Software Engineer - University Grad |
