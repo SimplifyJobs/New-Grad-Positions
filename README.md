@@ -62,7 +62,7 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [~~Uber~~](https://university-uber.icims.com/jobs/116884/job) | San Francisco, Sunnyvale, CA; Seattle, WA; Boulder, CO; New York, NY; Toronto, ON | New Grad - Software Engineer I |
 | [~~Lawrence Livermore National Laboratory~~](https://www.llnl.gov/join-our-team/careers/find-your-job/all/software%20developer/3743990000246205) | Livermore, CA or remote | Software Developer |
 | [Hudson River Trading](https://www.hudsonrivertrading.com/careers/job/?_4118765=Full-Time%3A+New+Grad&_4168241=Software+Engineering%3AC%2B%2B&gh_jid=4454918&req_id=311) | Multiple | Software Engineer & [Algo Software Engineer](https://www.hudsonrivertrading.com/careers/job/?_4118765=Full-Time%3A+New+Grad&_4168241=Software+Engineering%3AC%2B%2B&gh_jid=4454781&req_id=310). For the roles in other locations, search for the job title on their website. |
-| [Roblox](https://jobs.roblox.com/careers?gh_jid=4395968) | San Mateo, CA| Software Engineer - New Grad (Summer 2023)|
+| [~~Roblox~~](https://jobs.roblox.com/careers?gh_jid=4395968) | San Mateo, CA| Software Engineer - New Grad (Summer 2023)|
 | [~~Ceridian~~](https://www.mydayforce.com/CandidatePortal/en-us/mydayforce/site/alljobs/Posting/View/43677) | Remote | Software Developer; 0 Experience Required
 | [Aquatic](https://boards.greenhouse.io/aquaticcapitalmanagement) | Chicago, IL or Remote | Junior Developer and Quant positions
 | [~~Neeva~~](https://jobs.lever.co/neeva/8f7622f3-174b-421b-88f2-407c89ef55fe?lever-source=LinkedInJobs) | Mountain View, CA | Software Engineer, New Grad, 2023 |
