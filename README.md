@@ -100,7 +100,7 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [~~Rippling~~](https://www.rippling.com/careers/5237048003?gh_jid=5237048003) | San Francisco, CA | Software Engineer - New Grad |
 | [Bank of America](https://campus.bankofamerica.com/careers/global_technology_analyst_program__2023.html) | NYC & more | Global Technology Analyst Program - 2023 |
 | [~~Textron Specialized Vehicles~~](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=303763) | Augusta, GA | 2023 Software Engineer I |
-| [Gordian Software](https://jobs.ashbyhq.com/GordianSoftware/80539622-fb89-4806-9d1f-b319d100fedd/application) | Bellevue, WA & remote | Software Engineer (New College Graduate) |
+| [~~Gordian Software~~](https://jobs.ashbyhq.com/GordianSoftware/80539622-fb89-4806-9d1f-b319d100fedd/application) | Bellevue, WA & remote | Software Engineer (New College Graduate) |
 | [Neuralink](https://boards.greenhouse.io/neuralink/jobs/5285569003) | Fremont, CA & more | Software Engineer (Fresh Grad 2023) |
 | [~~Adobe~~](https://adobe.wd5.myworkdayjobs.com/en-US/external_university) | US | Multiple 2023 New Grad Roles | 
 | [~~Levvel~~](https://jobs.lever.co/levvel/870a74c2-2ab1-46e4-83ff-c24d620b6c0f?lever-via=Emo8FrYRZ6/) | Remote | Junior Developer (Early Talent 2023) |  
