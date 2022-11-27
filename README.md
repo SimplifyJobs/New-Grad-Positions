@@ -108,7 +108,7 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [Mueller Water Products](https://muellerwaterproducts.wd5.myworkdayjobs.com/en-US/Mueller/job/Atlanta-GA/XMLNAME-2023-Software-Engineer-Development-Program_R3169) | Atlanta, GA | 2023 Software Engineer Development Program | 
 | [~RTI~](https://boards.greenhouse.io/rti/jobs/4510497?gh_src=aafe777a1us) | Greensboro, NC | Software Engineer - New Grad |
 | [~~Cat Digital~~](https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/XMLNAME-2023-Software-Engineering-Recent-Grad-Positions---Cat-Digital_R0000153666) | Chicago & more | 2023 Software Engineering Recent Grad |
-| [Thomson Reuters](https://jobs.thomsonreuters.com/job/16553660/software-engineer-new-grad-2023-eagan-mn/) | Eagan, MN | Software Engineer - New Grad - 2023 |
+| [~~Thomson Reuters~~](https://jobs.thomsonreuters.com/job/16553660/software-engineer-new-grad-2023-eagan-mn/) | Eagan, MN | Software Engineer - New Grad - 2023 |
 | [JPMorgan Chase](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210321358) | US | **No Visa Sponsorship** Software Engineer. Check their website for more locations and positions. | 
 | [~Thomson Reuters~](https://jobs.thomsonreuters.com/job/16553660/software-engineer-new-grad-2023-eagan-mn/) | Eagan, MN | Software Engineer - New Grad - 2023 |
 | [Silicon Labs](https://jobs.jobvite.com/silabs/job/oOjJkfwU) | Austin, TX | Software Engineer - New College Graduate |
