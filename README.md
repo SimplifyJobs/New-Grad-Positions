@@ -159,7 +159,7 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [~PROS~](https://pros.wd5.myworkdayjobs.com/PROS_Careers/job/USA-Houston-Hybrid/XMLNAME-2023-University-Recruiting---Software-Engineer-I_R2428) | Houston, TX | 2023 University Recruiting - Software Engineer I |
 | [~~Qualtrics~~](https://www.qualtrics.com/careers/us/en/job/260179/Software-Engineer-New-Grad-Seattle-WA) | [Seattle](https://www.qualtrics.com/careers/us/en/job/260179/Software-Engineer-New-Grad-Seattle-WA), [Reston(VA)](https://www.qualtrics.com/careers/us/en/job/3559206/Software-Engineer-New-Grad-Reston-VA), [Provo(UT)](https://www.qualtrics.com/careers/us/en/job/180276/Software-Engineer-New-Grad-Provo-UT) | **No Visa Sponsorship** Software Engineer - New Grad |
 | [Fairmarkit](https://www.fairmarkit.com/careers?gh_jid=4653176004) | Remote | Software Engineer - 2023 New Grad | 
-| [WillowTree](https://boards.greenhouse.io/willowtree/jobs/6330270002) | Multiple | Backend Software Engineer - New Grad 2023. Will NOT sponsor work visas. Use the same application for all locations. |
+| [~~WillowTree~~](https://boards.greenhouse.io/willowtree/jobs/6330270002) | Multiple | Backend Software Engineer - New Grad 2023. Will NOT sponsor work visas. Use the same application for all locations. |
 | [~~Hudl~~](https://boards.greenhouse.io/hudl/jobs/3187136) | Remote | Software Engineer - December & May Graduates |
 | [~Aon~](https://jobs.aon.com/jobs/58607) | NYC & more | Early Careers: Cyber Associate - Nationwide. Use the same application for all locations. |
 | [Brex](https://www.brex.com/careers/6368437002) | Remote | Software Engineer, New Grad - c/o 2023 (Remote) |
