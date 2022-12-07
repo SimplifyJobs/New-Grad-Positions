@@ -20,7 +20,7 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [Akuna Capital](https://akunacapital.com/careers?experience=junior&department=development#careers) | Chicago      | 	Various Junior Developer Positions |
 | [~~Disney~~](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Software-Engineer-I_10021078) | Burbank, CA | Software Engineer I |
 | [~~VMware~~](https://careers.vmware.com/main/jobs/R2212905?lang=en-us) | Palo Alto, California; Atlanta, Georgia  | Launch New Grad SWE |
-| [IMC](https://imc.wd5.myworkdayjobs.com/invitation/job/Chicago/Graduate-Software-Engineer_REQ-01946#utm_source=peoplepath) | Chicago  | Graduate Software Engineer |
+| [~~IMC~~](https://imc.wd5.myworkdayjobs.com/invitation/job/Chicago/Graduate-Software-Engineer_REQ-01946#utm_source=peoplepath) | Chicago  | Graduate Software Engineer |
 | [Palantir](https://jobs.lever.co/palantir/c34b424e-caf2-455a-b104-ae1096ccca29) | Denver, CO | Software Engineer, New Grad |
 | [Sofi](https://www.sofi.com/careers/) | NYC; Seattle; SF; Murrah, UT; Remote;... | Several "New Grad, Software Engineer" roles in "Engineering". Some of them may need to start in Jan 23 / ASAP |
 | [Egen Solutions](https://jobs.lever.co/egensolutions/b8241d47-ab6c-456c-823d-1a6bd59e402f) | Naperville, IL | Software Engineer, University Graduates, 2023 |
@@ -89,7 +89,7 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [~~Alcon~~](https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Fort-Worth-Texas/XMLNAME-2023-Envision-R-D-Program---Discipline-Track-2_R-2022-18015-1) | Fort Worth, TX & more | 2023 Envision R&D Programs - Discipline Track 2. Accepts OPT but will NOT sponsor work visas. |
 | [Quantcast](https://jobs.lever.co/quantcast/052ae051-4aad-4c51-af01-8f74c1756c57) | San Francisco | Software Engineer - New College Graduate |
 | [~~Figma~~](https://boards.greenhouse.io/figma/jobs/4595288004) | NYC, SF, and London | Software Engineer, Data Scientist, Product Design |
-| [Flatiron Health](https://flatiron.com/careers/open-positions/4454680) | New York, NY | Software Engineer (2023 New Graduate)
+| [~~Flatiron Health~~](https://flatiron.com/careers/open-positions/4454680) | New York, NY | Software Engineer (2023 New Graduate)
 | [~Circle~](https://boards.greenhouse.io/circle/jobs/6331155002) | Remote | New Grad Software Engineer, Backend/Frontend. Various locations and remote. Search under Engineering Department to see all locations |
 | [~~Google~~](https://careers.google.com/jobs/results/131020049566573254-software-engineer-early-career-campus/)  | USA  | Software Engineer, Early Career, Campus |
 | [American Express](https://aexp.eightfold.ai/careers?query=Campus&location=United%20States) | [Sunrise, FL](https://aexp.eightfold.ai/careers?query=Campus&location=United%20States&pid=12787262&domain=aexp.com) / [Phoenix, AZ](https://aexp.eightfold.ai/careers?query=Campus&location=United%20States&pid=12787218&domain=aexp.com) | **No Visa Sponsorship** SWE, Information Security, DS, PM... Check the website for more locations and positions. | 
@@ -99,16 +99,16 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [~U.S. Bank~](https://careers.usbank.com/global/en/job/UBNAGLOBAL20220029893EXTERNALENGLOBAL) | Richfield, MN & more | 2023 Engineering Full-Time Rotation Program Early Careers (Undergraduate) |
 | [~~Rippling~~](https://www.rippling.com/careers/5237048003?gh_jid=5237048003) | San Francisco, CA | Software Engineer - New Grad |
 | [Bank of America](https://campus.bankofamerica.com/careers/global_technology_analyst_program__2023.html) | NYC & more | Global Technology Analyst Program - 2023 |
-| [Textron Specialized Vehicles](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=303763) | Augusta, GA | 2023 Software Engineer I |
-| [Gordian Software](https://jobs.ashbyhq.com/GordianSoftware/80539622-fb89-4806-9d1f-b319d100fedd/application) | Bellevue, WA & remote | Software Engineer (New College Graduate) |
+| [~~Textron Specialized Vehicles~~](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=303763) | Augusta, GA | 2023 Software Engineer I |
+| [~~Gordian Software~~](https://jobs.ashbyhq.com/GordianSoftware/80539622-fb89-4806-9d1f-b319d100fedd/application) | Bellevue, WA & remote | Software Engineer (New College Graduate) |
 | [Neuralink](https://boards.greenhouse.io/neuralink/jobs/5285569003) | Fremont, CA & more | Software Engineer (Fresh Grad 2023) |
 | [~~Adobe~~](https://adobe.wd5.myworkdayjobs.com/en-US/external_university) | US | Multiple 2023 New Grad Roles | 
 | [~~Levvel~~](https://jobs.lever.co/levvel/870a74c2-2ab1-46e4-83ff-c24d620b6c0f?lever-via=Emo8FrYRZ6/) | Remote | Junior Developer (Early Talent 2023) |  
 | [~General Motors~](https://search-careers.gm.com/jobs/job/entry-level-software-engineering-rotational-program-warren-jr-000089747/) | Warren, MI | Entry-Level Software Engineering Rotational Program | 
 | [Mueller Water Products](https://muellerwaterproducts.wd5.myworkdayjobs.com/en-US/Mueller/job/Atlanta-GA/XMLNAME-2023-Software-Engineer-Development-Program_R3169) | Atlanta, GA | 2023 Software Engineer Development Program | 
 | [~RTI~](https://boards.greenhouse.io/rti/jobs/4510497?gh_src=aafe777a1us) | Greensboro, NC | Software Engineer - New Grad |
-| [Cat Digital](https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/XMLNAME-2023-Software-Engineering-Recent-Grad-Positions---Cat-Digital_R0000153666) | Chicago & more | 2023 Software Engineering Recent Grad |
-| [Thomson Reuters](https://jobs.thomsonreuters.com/job/16553660/software-engineer-new-grad-2023-eagan-mn/) | Eagan, MN | Software Engineer - New Grad - 2023 |
+| [~~Cat Digital~~](https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/XMLNAME-2023-Software-Engineering-Recent-Grad-Positions---Cat-Digital_R0000153666) | Chicago & more | 2023 Software Engineering Recent Grad |
+| [~~Thomson Reuters~~](https://jobs.thomsonreuters.com/job/16553660/software-engineer-new-grad-2023-eagan-mn/) | Eagan, MN | Software Engineer - New Grad - 2023 |
 | [JPMorgan Chase](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210321358) | US | **No Visa Sponsorship** Software Engineer. Check their website for more locations and positions. | 
 | [~Thomson Reuters~](https://jobs.thomsonreuters.com/job/16553660/software-engineer-new-grad-2023-eagan-mn/) | Eagan, MN | Software Engineer - New Grad - 2023 |
 | [Silicon Labs](https://jobs.jobvite.com/silabs/job/oOjJkfwU) | Austin, TX | Software Engineer - New College Graduate |
