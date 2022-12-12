@@ -113,7 +113,7 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [~Thomson Reuters~](https://jobs.thomsonreuters.com/job/16553660/software-engineer-new-grad-2023-eagan-mn/) | Eagan, MN | Software Engineer - New Grad - 2023 |
 | [Silicon Labs](https://jobs.jobvite.com/silabs/job/oOjJkfwU) | Austin, TX | Software Engineer - New College Graduate |
 | [SpaceX](https://boards.greenhouse.io/spacex/jobs/6324788002?gh_jid=6324788002&gh_src=130ac1d82us) | USA | New Graduate, Software Engineer. Requires US Citizenship |
-| [Benchling](https://www.benchling.com/careers?jobId=4504765&gh_src=838b85821us) | Boston, MA | Software Engineer, New Graduate | 
+| [~~Benchling~~](https://www.benchling.com/careers?jobId=4504765&gh_src=838b85821us) | Boston, MA | Software Engineer, New Graduate | 
 | [~~NetFlix~~](https://jobs.netflix.com/jobs/225717269) | Los Gatos/ Los Angeles, California | New Grad 2023 (Undergrad) |
 | [~~Amdocs~~](https://jobs.amdocs.com/job/Champaign-Software-Engineer-New-Grad-IL/914631400/) | Champaign Illinois | Software Engineer - New Grad | 
 | [~~National Instruments (NI)~~](https://pef.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/5936?utm_medium=jobshare&utm_medium=jobboard&utm_source=Linkedin) | Austin, TX | Software Engineer - New Graduate. NO petition for H-1B status from student visas for this position.  |
