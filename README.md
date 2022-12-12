@@ -114,7 +114,7 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [Silicon Labs](https://jobs.jobvite.com/silabs/job/oOjJkfwU) | Austin, TX | Software Engineer - New College Graduate |
 | [SpaceX](https://boards.greenhouse.io/spacex/jobs/6324788002?gh_jid=6324788002&gh_src=130ac1d82us) | USA | New Graduate, Software Engineer. Requires US Citizenship |
 | [~~Benchling~~](https://www.benchling.com/careers?jobId=4504765&gh_src=838b85821us) | Boston, MA | Software Engineer, New Graduate | 
-| [NetFlix](https://jobs.netflix.com/jobs/225717269) | Los Gatos/ Los Angeles, California | New Grad 2023 (Undergrad) |
+| [~~NetFlix~~](https://jobs.netflix.com/jobs/225717269) | Los Gatos/ Los Angeles, California | New Grad 2023 (Undergrad) |
 | [~~Amdocs~~](https://jobs.amdocs.com/job/Champaign-Software-Engineer-New-Grad-IL/914631400/) | Champaign Illinois | Software Engineer - New Grad | 
 | [~~National Instruments (NI)~~](https://pef.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/5936?utm_medium=jobshare&utm_medium=jobboard&utm_source=Linkedin) | Austin, TX | Software Engineer - New Graduate. NO petition for H-1B status from student visas for this position.  |
 | [~~ThoughtSpot~~](https://www.thoughtspot.com/job/4496761?gh_jid=4496761) | US Remote | Software Engineer (New Grad) [~~master candidate only~~](https://www.thoughtspot.com/job/4496761?gh_jid=4496761#:~:text=You%20are%20about%20to%20complete%20a%20master%E2%80%99s%20degree%20in%20Computer%20Science%2C%20Engineering%20or%20a%20related%20field.)|
@@ -250,7 +250,7 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [~Airtable~](https://grnh.se/f142e2602us) | San Francisco, CA; New York, NY | Software Engineer, New Grad (2023)|
 | [Medallion](https://boards.greenhouse.io/medallion/jobs/4148296004?utm_source=Simplify) | Remote | New Graduate Software Engineer
 | [Nightfall AI](https://jobs.lever.co/nightfall/d9edaa15-300f-48b0-9481-556ad995cd00) | San Francisco | [New Grad Full Stack Engineer](https://jobs.lever.co/nightfall/d9edaa15-300f-48b0-9481-556ad995cd00) and [New Grad Backend Engineer](https://jobs.lever.co/nightfall/80cdcd6e-1d19-41c5-9eeb-ee1b3d4d5a56) |
-| [Niantic](https://boards.greenhouse.io/niantic/jobs/6452435002) | Lawrence, KS | Software Engineer, New Grad |
+| [~~Niantic~~](https://boards.greenhouse.io/niantic/jobs/6452435002) | Lawrence, KS | Software Engineer, New Grad |
 | [Constant Contact](https://careers.constantcontact.com/global/en/job/4605737/Software-Engineering-Development-Program-United-States) | Waltham | Software Engineering Development Program (United States) |
 | Stytch | San Francisco | [Software Engineer - New Grad 2023](https://jobs.ashbyhq.com/stytch/b4ee9734-3657-4393-8eca-269ae179d7eb?utm_source=35JPEzvE9E) |
 | [Sprout Social](https://sproutsocial.com/careers/open-positions/?gh_jid=4503546&gh_src=4d2fd2d61us#/4503546) | Remote US | Associate Software Engineer - New Grad | 
