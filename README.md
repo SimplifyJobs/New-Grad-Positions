@@ -35,7 +35,7 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [~~Indeed~~](https://university.indeed.jobs/university/jobs/39977?lang=en-us) | Remote | Associate Research Engineer |
 | [~~Capital One~~](https://www.capitalonecareers.com/job/mclean/technology-development-program-associate-2023/31238/31914108720) | US | Technology Development Program Associate |
 | [~~Virtu Financial~~](https://www.virtu.com/careers/) | New York, NY | Entry-Level Software Engineer |
-| [Citadel](https://www.citadel.com/careers/open-positions/positions-for-students/?keyword=Full%20Time) | US | Software Engineer |
+| [~~Citadel~~](https://www.citadel.com/careers/open-positions/positions-for-students/?keyword=Full%20Time) | US | Software Engineer |
 | [~~Philadelphia Phillies~~](https://boards.greenhouse.io/philadelphiaphilliesrddepartment/jobs/5203393003?gh_src=99fc01a23us) | Philadelphia, PA | Software Engineer Associate (Spring/Summer 2023) |
 | [~~Caterpillar~~](https://careers.caterpillar.com/en/jobs/job/r0000140356-2023-associate-software-engineer-cat-digital/?source=LinkedIn) | Champaign, IL | Associate Software Engineer (Cat Digital) |
 | [~~Procter & Gamble~~](https://www.pgcareers.com/job/cincinnati/software-data-engineer-2023-grads/936/32401863136) | Cincinnati, OH | Software/Data Engineer 2023 Grads |
@@ -69,7 +69,7 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [Forward](https://jobs.lever.co/goforward/073d1961-b3fd-4515-a7a4-a34a2eedb74a) | San Francisco, CA| Software Engineer - New Grad Full Stack)|
 | [Cisco](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-I-Full-Time-United-States/1380884?source=coderQuad) | San Jose, CA | Software Engineer I (Full Time) 
 | [~Broadway Technology~](https://jobs.lever.co/broadwaytechnology/d364919b-64e9-464a-b848-04bc3a4dcd15?lever-origin=applied&lever-source%5B%5D=Handshake%20Applicant) | NYC | Software Engineer (New Grad-Fall 2022/Spring 2023) |
-| [Morgan Stanley](https://morganstanley.tal.net/vx/candidate/apply/12947) | NYC & more | 2023 Technology Full-Time Analyst Program. For the roles in other locations, look up the job title on their website. |
+| [~~Morgan Stanley~~](https://morganstanley.tal.net/vx/candidate/apply/12947) | NYC & more | 2023 Technology Full-Time Analyst Program. For the roles in other locations, look up the job title on their website. |
 | [Capstone Investment Advisors](https://www.capstoneco.com/careers/2023-technology-graduate-rotation-program-nyc/?gh_jid=6223901002) | NYC, London | 2023 Technology Graduate Rotation Program. For the role in London, look up the job title on their website. |
 | [~Seven Eight Capital~](https://www.seveneightcapital.com/join-us) | NYC | [2023 Software Engineer (Campus Hire Graduating 2023)](https://boards.greenhouse.io/seveneightcapital/jobs/6306094002?gh_jid=6306094002), Quant Developer, Quant Researcher roles also available |
 | [PEAK6](https://careers.peak6.com/jobs/technology-management/chicago-il-new-york-ny-austin-tx/software-engineer-campus-entry-level/4449643?gh_jid=4449643#/) | NYC & more | Software Engineer - Campus Entry-Level. The same application is used for all locations. |
