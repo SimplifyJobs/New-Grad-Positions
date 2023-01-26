@@ -136,7 +136,7 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [FactSet](https://factset.wd1.myworkdayjobs.com/FactSetCareers/job/New-York-NY-USA/Software-Engineer---Americas-Campus--July-2023-_R18011) | NYC & more | Software Engineer - Americas Campus (July 2023). Use the same application for all locations. |
 | [~~Belvedere Trading~~](https://jobs.lever.co/belvederetrading/58aa92b6-6444-43b5-bd67-cb75219a80f0) | Chicago, IL | Software Engineer - Entry Level 2023 |
 | [~~Ironclad~~](https://jobs.lever.co/ironcladapp/33179813-c6f6-439d-977d-0a68733d77cf) | San Francisco, CA | Software Engineer, New Grad |
-| [BlackRock](https://careers.blackrock.com/early-careers/americas/?2022-2023) | USA | Full-Time Analyst Program |
+| [~~BlackRock~~](https://careers.blackrock.com/early-careers/americas/?2022-2023) | USA | Full-Time Analyst Program |
 | [~Western Digital~](https://jobs.smartrecruiters.com/WesternDigital/743999839535273-new-college-grad-engineer-software-engineering?trid=55fe2b03-11c1-41e1-ab70-337c7fd98d48) | Rochester, MN | New College Grad Engineer, Software Engineering |
 | [Paramount](https://careers.viacomcbs.com/job/Los-Angeles-Software-Engineering-Development-Program-%28Start-Date-January-June-2023%29-CA-90069/930477600/?feedId=340900&utm_source=LinkedInJobPostings&utm_campaign=ViacomCBS_LinkedIn) | Los Angeles, New York, San Francisco | Software Engineering Development Program (Start Date: January / June 2023)|
 | [~~Datadog~~](https://app.ripplematch.com/job/datadog/98af8a8c/) | NYC & more | Software Engineer - Recent Grad |
