@@ -197,7 +197,7 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [~~Lucid~~](https://boards.greenhouse.io/lucidsoftware/jobs/4365607004) | Remote, US | Software Engineer |
 | [~~Comcast~~](https://jobs.comcast.com/jobs/description/regular?job_id=R339662&external_or_internal=external) | Philadelphia, LA | CORE Technology Rotational Program |
 | [Mastercard](https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Software-Engineer_R-174382) | Multiple Locations | Software Engineer I |
-| [Walmart](https://careers.walmart.com/us/jobs/WD1241701-usa-2023-full-time-sams-club-software-engineer-ii) | BENTONVILLE, AR | (**No Visa Sponsorship available**) Sam's Club Software Engineer II |
+| [~~Walmart~~](https://careers.walmart.com/us/jobs/WD1241701-usa-2023-full-time-sams-club-software-engineer-ii) | BENTONVILLE, AR | (**No Visa Sponsorship available**) Sam's Club Software Engineer II |
 | [Draftkings](https://draftkings.wd1.myworkdayjobs.com/en-US/Campus_Career_Portal/) | Boston, MA | SWE, SRE, and Data Analyst |
 | [~USAA~](https://www.usaajobs.com/job/-/-/1207/36525714528) | San Antonio, Texas; Phoenix, Arizona; Plano, Texas | Software Engineer - Early Career(*Closed*) |
 | [BAE System](https://jobs.baesystems.com/global/en/search-results?keywords=2023%20Entry%20Level%20Software%20Engineer&s=1) | US | **Requires US Citizenship Status** 2023 Entry Level Software Engineer | 
