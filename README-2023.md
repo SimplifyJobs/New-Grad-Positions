@@ -50,7 +50,7 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [~Citrix~](https://citrix.wd1.myworkdayjobs.com/en-US/CitrixCareers/job/Software-Engineer--2023-_R34470)  | US | Software Engineer 2023 |
 | [WeRide.ai](https://jobs.lever.co/weride/97063737-808b-4078-b1d8-8ffcef30635a)  | San Jose, CA | Software Engineer (New Grad) |
 | [~~Otter.ai~~](https://otter.ai/job-detail?gh_jid=5120493003&gh_src=null)  | ~~Mountain View, CA~~ | ~~Software Engineer, Backend (New Grad)~~|
-| [MathWorks](https://www.mathworks.com/company/jobs/opportunities/16217-multiple-openings-engineering-development-group-u-s)  | Natick, MA | Multiple Openings - Engineering Development Group |
+| [MathWorks](https://www.mathworks.com/company/jobs/opportunities/16217?source=19210&s_eid=Rci_19210)  | Natick, MA | Multiple Openings - Engineering Development Group |
 | [Vanta](https://boards.greenhouse.io/vanta/jobs/5745472002)  | New York, San Francisco | Software Engineer, New Grad |
 | [Verkada](https://jobs.lever.co/verkada/b0946e83-4174-4ecb-9873-6d0030ca1023)  | San Mateo, CA | [Backend](https://jobs.lever.co/verkada/b0946e83-4174-4ecb-9873-6d0030ca1023), [Frontend](https://jobs.lever.co/verkada/dfcab784-b82e-4bcc-9949-3cff41a5084e) , [Security](https://jobs.lever.co/verkada/47c2d4d8-ee90-4809-8084-dabc2e93b321?lever-source=LinkedIn)|
 | [~Credit Suisse~](https://tas-creditsuisse.taleo.net/careersection/campus/jobdetail.ftl?job=213383&lang=en)  | New York, NY; Raleigh, NC  | 2023 Americas Technology Full-Time Analyst. For the role in Raleigh, search for the job title on their website. |
