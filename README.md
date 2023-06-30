@@ -18,12 +18,12 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 #### Books
 
 - [Competitive Programmer's Handbook](https://cses.fi/book/book.pdf)
-- [Cracking The Coding Interview](https://github.com/Avinash987/Coding/blob/master/Cracking-the-Coding-Interview-6th-Edition-189-Programming-Questions-and-Solutions.pdf)
 
 #### Discords
 
 - [CS Majors](https://discord.gg/csmajors)
 - [CS Careers](https://discord.gg/cscareers)
+- [CS Career Hub](https://discord.gg/cscareerhub)
 
 ## The List
 
