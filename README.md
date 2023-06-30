@@ -8,9 +8,22 @@ The 2024 full time grind has begun! Use this repo to share and keep track of any
 
 Here are some resources Coder Quad recommends to prepare for OA's and technical interviews!
 
+#### Online Platforms
+
+- [LeetCode](https://leetcode.com)
+- [HackerRank](https://hackerrank.com)
+- [QuantGuide](https://quantguide.io)
+- [NeetCode](https://neetcode.io/)
+
 #### Books
 
 - [Competitive Programmer's Handbook](https://cses.fi/book/book.pdf)
+
+#### Discords
+
+- [CS Majors](https://discord.gg/csmajors)
+- [CS Careers](https://discord.gg/cscareers)
+- [CS Career Hub](https://discord.gg/cscareerhub)
 
 ## The List
 
