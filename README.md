@@ -27,6 +27,7 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [Capgemini](https://www.capgemini.com/jobs/N92ZBYcBf9EzbUpvy_Nu/071398-technology-consultant---new-york---campus-recruiting-2024/?utm_source=Indeed&utm_medium=organic&utm_campaign=Indeed&idOrigine=1522&jobPipeline=Indeed)                                                                   | New York, NY | Technology Consultant |
 | [Meta](https://www.metacareers.com/careerprograms/students/?p[teams][0]=Internship%20-%20Engineering%2C%20Tech%20%26%20Design&p[teams][1]=Internship%20-%20Business&p[teams][2]=Internship%20-%20PhD&p[teams][3]=University%20Grad%20-%20PhD%20%26%20Postdoc&p[teams][4]=University%20Grad%20-%20Engineering%2C%20Tech%20%26%20Design&p[teams][5]=University%20Grad%20-%20Business&teams[0]=University%20Grad%20-%20Business&teams[1]=University%20Grad%20-%20Engineering%2C%20Tech%20%26%20Design#openpositions) | USA | University grads |
 | [MathWorks](https://www.mathworks.com/company/jobs/opportunities/16217?source=19210&s_eid=Rci_19210)  | Natick, MA | Entry-Level, Multiple Openings - Engineering Development Group |
+| [TikTok](https://careers.tiktok.com/position?keywords=&category=&location=&project=7247019463362005306&type=2&job_hot_flag=&current=1&limit=10&functionCategory=&tag=) | Global | Research Scientist, Machine Learning Engineer, etc. |
 
 ## Thank you to our amazing contributors :-) ❤️
 
