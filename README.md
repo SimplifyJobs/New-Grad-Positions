@@ -4,6 +4,14 @@ The 2024 full time grind has begun! Use this repo to share and keep track of any
 
 **Contribute by making a pull request!**
 
+## We are looking for maintainers!
+
+Unfortunately, I have run out of time to actively maintain this resource. 
+
+Also, I finished undergrad a while ago now so I am probably not the best person to be maintaining this.
+
+If you are interested in helping maintain the repo, please shoot me an email [hey@dane.to](mailto:hey@dane.to)
+
 ## Resources
 
 Here are some resources Coder Quad recommends to prepare for OA's and technical interviews!
