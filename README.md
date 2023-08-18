@@ -35,7 +35,7 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [Meta](https://www.metacareers.com/careerprograms/students/?p[teams][0]=Internship%20-%20Engineering%2C%20Tech%20%26%20Design&p[teams][1]=Internship%20-%20Business&p[teams][2]=Internship%20-%20PhD&p[teams][3]=University%20Grad%20-%20PhD%20%26%20Postdoc&p[teams][4]=University%20Grad%20-%20Engineering%2C%20Tech%20%26%20Design&p[teams][5]=University%20Grad%20-%20Business&teams[0]=University%20Grad%20-%20Business&teams[1]=University%20Grad%20-%20Engineering%2C%20Tech%20%26%20Design#openpositions) | USA | University grads |
 | [MathWorks](https://www.mathworks.com/company/jobs/opportunities/16217?source=19210&s_eid=Rci_19210)  | Natick, MA | Entry-Level, Multiple Openings - Engineering Development Group |
 | [Old Mission](https://www.oldmissioncapital.com/careers/?gh_jid=5643831003)  | Chicago, Illinois, United States | College Graduates - Full-Time - Junior Software Engineer (2024) |
-
+| [LTIMindtree](https://careers.ltimindtree.com/job/Digital-Technology-Associate/848922801/)  | Hartford, CT <br> Houston, TX <br> Milwaukee, WI <br> | Digital Technology Associate Program (DTAP), Two-year rotational program |
 
 ## Thank you to our amazing contributors :-) ❤️
 
