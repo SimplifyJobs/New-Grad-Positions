@@ -16,12 +16,22 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 > - ✏️ Easier Contributions! - Submit an issue to add/edit a job. See [guidelines](./CONTRIBUTING.md).
 > - ✨ New Apply Options! - gray button is standard posting, blue is Simplify's one-click application.
 ---
-
-### :eyes: Looking for Summer 2024 Tech Internships?
-- 🥳 We're back! Check it out here: [Summer-2024-Tech-Internships](https://github.com/SimplifyJobs/Summer2024-Internships)
-- ✨ Check it out for summer software, tech, CS, PM, and quant internships.
+<div align="center">
+	<h3>😮‍💨 Tired of checking every day for new Jobs? 😩</h3>
+	<p>
+			Check out ⬇️ <strong>SWE List</strong> ⬇️ that sends you email updates for this repo 
+			<br>
+			<div>
+			<a href="https://swelist.com">
+          <img src="https://i.imgur.com/n8ZX4tt.png" width="400" alt="Email">
+        </a>
+			</div>
+		<sub><i>Share any other cool projects you make using the repo, and we might give you a shoutout!</i></sub>
+	</p>
+</div>
 
 ---
+
 <div align="center">
 	<p>
 		<a href="https://simplify.jobs/?utm_source=GHList&utm_medium=banner">
