@@ -6,6 +6,15 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/New-Grad-Positions/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
+> Update (Sep 1, 2023) 🥳
+>
+> You might have noticed that the repo looks a little different 👀.
+>
+> Coder Quad has teamed up with Simplify to maintain this repo, and we've made some exciting new changes!
+>
+> - ⬆️ More Jobs! - A script automatically updates this repo with new jobs on Simplify.
+> - ✏️ Easier Contributions! - Submit an issue to add/edit a job. See [guidelines](./CONTRIBUTING.md).
+> - ✨ New Apply Options! - gray button is standard posting, blue is Simplify's one-click application.
 ---
 
 ### :eyes: Looking for Summer 2024 Tech Internships?
