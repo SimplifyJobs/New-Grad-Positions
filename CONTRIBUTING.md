@@ -1,7 +1,7 @@
 # Contributing to the Job List
 Thank you for your interest in contributing to the Simplify new-grad job list!
 
-Below, you'll find the guidelines for our repository. If you have any questions, please create a [miscellaneous issue](https://github.com/SimplifyJobs/2024-New-Grad-Tech-Roles/issues/new/choose).
+Below, you'll find the guidelines for our repository. If you have any questions, please create a [miscellaneous issue](https://github.com/SimplifyJobs/New-Grad-Positions/issues/new/choose).
 
 ## Finding an Internship to Add
 We ask that the jobs openings that you add meet some requirements. Specifically, your posting must
@@ -18,7 +18,7 @@ We ask that the jobs openings that you add meet some requirements. Specifically,
 ## Adding a Job
 Cool! You're ready to add a job to the list. Follow these steps:
 
-1) First create a new issue [here](https://github.com/SimplifyJobs/2024-New-Grad-Tech-Roles/issues/new/choose).
+1) First create a new issue [here](https://github.com/SimplifyJobs/New-Grad-Positions/issues/new/choose).
 2) Select the **New Role** issue template.
 3) Fill in the information about your job opening into the form, then hit submit.
 > Please make a new submission for each unique position, **even if they are for the same company**.
@@ -28,7 +28,7 @@ Cool! You're ready to add a job to the list. Follow these steps:
 To edit a job posting (changing name, setting as inactive, removing, etc.), follow these steps:
 1) First copy the url of the job you would like to edit.
 > This can be found by right-clicking on the `APPLY` button and selecting **copy link address**
-2) Create a new issue [here](https://github.com/SimplifyJobs/2024-New-Grad-Tech-Roles/issues/new/choose).
+2) Create a new issue [here](https://github.com/SimplifyJobs/New-Grad-Positions/issues/new/choose).
 3) Select the **Edit Role** issue template.
 4) Fill in the url to the **link** input.
 > This is how we ensure your edit affects the correct job posting
