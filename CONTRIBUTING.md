@@ -1,5 +1,5 @@
 # Contributing to the Job List
-Thank you for your interest in contributing to the Simplify new-grad job list!
+Thank you for your interest in contributing to the CoderQuad and Simplify new-grad job list!
 
 Below, you'll find the guidelines for our repository. If you have any questions, please create a [miscellaneous issue](https://github.com/SimplifyJobs/New-Grad-Positions/issues/new/choose).
 
