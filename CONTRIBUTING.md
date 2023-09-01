@@ -3,7 +3,7 @@ Thank you for your interest in contributing to the Coder Quad and Simplify new-g
 
 Below, you'll find the guidelines for our repository. If you have any questions, please create a [miscellaneous issue](https://github.com/SimplifyJobs/New-Grad-Positions/issues/new/choose).
 
-## Finding an Internship to Add
+## Finding a Job to Add
 We ask that the jobs openings that you add meet some requirements. Specifically, your posting must
 - be in one of the following categories:
     - software/computer engineering
