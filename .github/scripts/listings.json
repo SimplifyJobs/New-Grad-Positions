@@ -791,7 +791,7 @@
         "company_name": "Basis Technologies",
         "id": "eebbdf83-0365-44bf-a353-087d01c56e40",
         "title": "Associate Systems Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1689750599,
         "date_posted": 1689750599,
         "url": "https://jobs.lever.co/centro/cdafce34-df79-4d13-8aff-243be9788e11/apply",
@@ -2747,6 +2747,38 @@
             "Charlotte, NC"
         ],
         "company_url": "https://simplify.jobs/c/RVO-Health",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "InterSystems",
+        "id": "ec76586a-9494-4409-b216-0b6f94818b36",
+        "title": "Core Development Program",
+        "active": true,
+        "date_updated": 1693927034,
+        "date_posted": 1693927034,
+        "url": "https://www.intersystems.com/careers/careers-search/?gh_jid=5698667003",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/InterSystems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "InterSystems",
+        "id": "e14086f4-cff5-418c-a46a-f291036f342b",
+        "title": "Solutions Development Program",
+        "active": true,
+        "date_updated": 1693927037,
+        "date_posted": 1693927037,
+        "url": "https://www.intersystems.com/careers/careers-search/?gh_jid=5698671003",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/InterSystems",
         "is_visible": true,
         "sponsorship": "Other"
     }
