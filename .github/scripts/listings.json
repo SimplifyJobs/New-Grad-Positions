@@ -357,7 +357,7 @@
         "company_name": "Palantir",
         "id": "1f6bee99-9cca-467c-a0b3-899d61139a03",
         "title": "Forward Deployed Software Engineer \u2013 New Grad - US Government",
-        "active": true,
+        "active": false,
         "date_updated": 1691421162,
         "date_posted": 1691421162,
         "url": "https://jobs.lever.co/palantir/d1ac83d0-e923-42a5-8e6d-58dd0cab25ca/apply",
@@ -2803,7 +2803,7 @@
         "company_name": "Chartboost",
         "id": "b523e1a3-fda2-499b-a752-9d8009b4c21f",
         "title": "Software Engineer - Bidder - Spain",
-        "active": true,
+        "active": false,
         "date_updated": 1693955718,
         "date_posted": 1693955718,
         "url": "https://boards.greenhouse.io/chartboost/jobs/5105253",
@@ -2811,6 +2811,22 @@
             "Remote"
         ],
         "company_url": "https://simplify.jobs/c/Chartboost",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Nuro",
+        "id": "5226b89a-052a-454b-8b98-8970c8791140",
+        "title": "Software Engineer - Web Application",
+        "active": true,
+        "date_updated": 1693984164,
+        "date_posted": 1693984164,
+        "url": "https://nuro.ai/careersitem?gh_jid=5325839",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Nuro",
         "is_visible": true,
         "sponsorship": "Other"
     }
