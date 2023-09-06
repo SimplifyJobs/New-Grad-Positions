@@ -757,7 +757,7 @@
         "company_name": "NVIDIA",
         "id": "d6ea87fe-7108-4b5c-8d15-7c4797e98f64",
         "title": "System Verification Infrastructure Engineer \u2013 New College Grad 2023",
-        "active": true,
+        "active": false,
         "date_updated": 1690499174,
         "date_posted": 1690499174,
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/System-Verification-Infrastructure-Engineer---New-College-Grad-2023_JR1969409",
@@ -2779,6 +2779,38 @@
             "Cambridge, MA"
         ],
         "company_url": "https://simplify.jobs/c/InterSystems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Glean",
+        "id": "61eb5256-f83c-47d9-b742-e3ad328cb7c2",
+        "title": "Software Engineer \u2013 University Grad",
+        "active": true,
+        "date_updated": 1693956549,
+        "date_posted": 1693956549,
+        "url": "https://boards.greenhouse.io/gleanwork/jobs/4006730005",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Glean",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Chartboost",
+        "id": "b523e1a3-fda2-499b-a752-9d8009b4c21f",
+        "title": "Software Engineer - Bidder - Spain",
+        "active": true,
+        "date_updated": 1693955718,
+        "date_posted": 1693955718,
+        "url": "https://boards.greenhouse.io/chartboost/jobs/5105253",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/Chartboost",
         "is_visible": true,
         "sponsorship": "Other"
     }
