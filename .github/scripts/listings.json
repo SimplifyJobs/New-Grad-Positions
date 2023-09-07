@@ -2861,5 +2861,37 @@
         "company_url": "https://simplify.jobs/c/TopHat",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Workato",
+        "id": "025b8899-70ce-44b0-9185-5bfe311bd157",
+        "title": "Interaction Designer",
+        "active": true,
+        "date_updated": 1694099835,
+        "date_posted": 1694099835,
+        "url": "https://boards.greenhouse.io/workato/jobs/6366484002",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Workato",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "WhatNot",
+        "id": "ee6d9af8-53cf-40c0-8c2f-281f9d37231b",
+        "title": "Software Engineer \u2013 2024 New Grad",
+        "active": true,
+        "date_updated": 1694099547,
+        "date_posted": 1694099547,
+        "url": "https://boards.greenhouse.io/whatnot/jobs/4957329004",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/WhatNot",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
