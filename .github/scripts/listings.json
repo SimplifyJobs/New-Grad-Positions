@@ -1776,7 +1776,7 @@
         "company_name": "Magic Leap",
         "id": "1be8fcd1-5dbb-40ea-ad0d-892675426c8f",
         "title": "Associate \u2013 Software Engineer - Graphics Systems",
-        "active": true,
+        "active": false,
         "date_updated": 1691709566,
         "date_posted": 1691709566,
         "url": "https://boards.greenhouse.io/magicleapinc/jobs/5264164",
@@ -2819,7 +2819,7 @@
         "company_name": "Nuro",
         "id": "5226b89a-052a-454b-8b98-8970c8791140",
         "title": "Software Engineer - Web Application",
-        "active": true,
+        "active": false,
         "date_updated": 1693984164,
         "date_posted": 1693984164,
         "url": "https://nuro.ai/careersitem?gh_jid=5325839",
@@ -2827,6 +2827,38 @@
             "Mountain View, CA"
         ],
         "company_url": "https://simplify.jobs/c/Nuro",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Applied Materials",
+        "id": "f3af4a46-4e01-4df1-aafd-6ca49af96eee",
+        "title": "Software Engineer \u2013 New College Grad Opportunity - Common Systems Software",
+        "active": true,
+        "date_updated": 1694070787,
+        "date_posted": 1694070787,
+        "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Software-Engineer--Common-Systems-Software----New-College-Grad-Opportunity-_R2315377-1",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/AMAT",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Top Hat",
+        "id": "be7c8eda-14cc-4f84-9abe-bb7c8a53201e",
+        "title": "Software Developer",
+        "active": true,
+        "date_updated": 1694070546,
+        "date_posted": 1694070546,
+        "url": "https://jobs.lever.co/tophat/0851f204-4920-4e44-a9aa-08d7e0d453c6/apply",
+        "locations": [
+            "Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/TopHat",
         "is_visible": true,
         "sponsorship": "Other"
     }
