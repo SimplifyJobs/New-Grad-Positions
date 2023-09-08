@@ -2930,17 +2930,17 @@
         "source": "Simplify",
         "company_name": "Okta",
         "id": "5eaf82b2-57d4-4438-af4d-41ca13735066",
-        "title": "Quality Engineer New Grad - Customer Identity Cloud",
+        "title": "Quality Engineer New Grad - Customer Identity Cloud\t",
         "active": true,
-        "date_updated": 1694128230,
+        "date_updated": 1694148566,
         "date_posted": 1694128230,
         "url": "https://www.okta.com/company/careers/opportunity/5349073?gh_jid=5349073",
         "locations": [
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Okta",
-        "is_visible": true,
-        "sponsorship": "Other"
+        "is_visible": false,
+        "sponsorship": "Offers Sponsorship"
     },
     {
         "source": "Simplify",
