@@ -58,7 +58,7 @@ def main():
         event_data = json.load(f)
 
     
-    # CHECK IF NEW OR OLD INTERNSHIP
+    # CHECK IF NEW OR OLD JOB
 
     new_role = "new_role" in [label["name"] for label in event_data["issue"]["labels"]]
     edit_role = "edit_role" in [label["name"] for label in event_data["issue"]["labels"]]
