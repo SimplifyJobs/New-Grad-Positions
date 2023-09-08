@@ -132,7 +132,7 @@
         "company_name": "Salesforce",
         "id": "af21cd98-16f4-4bea-ab94-55368e1a4366",
         "title": "Associate Site Reliability Engineer \u2013 New Grad - Govcloud",
-        "active": true,
+        "active": false,
         "date_updated": 1692056620,
         "date_posted": 1692056620,
         "url": "https://salesforce.wd12.myworkdayjobs.com/en-us/External_Career_Site/job/Massachusetts---Burlington/Associate-Site-Reliability-Engineer--GovCloud---New-Grad-_JR208404-1",
@@ -2891,6 +2891,70 @@
             "Remote"
         ],
         "company_url": "https://simplify.jobs/c/WhatNot",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Okta",
+        "id": "d6946e37-7f19-4f0a-9001-387e7bc0e9cb",
+        "title": "Software Engineer New Grad - Customer Identity Cloud",
+        "active": true,
+        "date_updated": 1694128238,
+        "date_posted": 1694128238,
+        "url": "https://www.okta.com/company/careers/opportunity/5325611?gh_jid=5325611",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Okta",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wellington Management",
+        "id": "ca4a0b28-9b85-4422-83f8-7a048122996a",
+        "title": "Software Engineering Track \u2013 Investment Services & Technology Early Career Program - Class of 2024 - Boston",
+        "active": true,
+        "date_updated": 1694128314,
+        "date_posted": 1694128314,
+        "url": "https://wellington.wd5.myworkdayjobs.com/Campus/job/Boston-MA-United-States/Software-Engineering-Track---Investment-Services---Technology-Early-Career-Program--Class-of-2024--Boston_R89503",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Wellington",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Okta",
+        "id": "5eaf82b2-57d4-4438-af4d-41ca13735066",
+        "title": "Quality Engineer New Grad - Customer Identity Cloud",
+        "active": true,
+        "date_updated": 1694128230,
+        "date_posted": 1694128230,
+        "url": "https://www.okta.com/company/careers/opportunity/5349073?gh_jid=5349073",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Okta",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Capital One",
+        "id": "8403b7ed-8cc0-40e1-8453-193f280d089e",
+        "title": "FT Associate \u2013 New Grad 2024 - Software Engineer",
+        "active": true,
+        "date_updated": 1694128171,
+        "date_posted": 1694128171,
+        "url": "https://capitalone.wd1.myworkdayjobs.com/Capital_One/job/Toronto-ON/FT-Associate--Software-Engineer--New-Grad-2024-_R174356",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Capital-One",
         "is_visible": true,
         "sponsorship": "Other"
     }
