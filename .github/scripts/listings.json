@@ -2579,7 +2579,7 @@
         "company_name": "SeatGeek",
         "id": "390ae36d-a938-4c1a-9ca5-c6872ff749f5",
         "title": "Software Engineer \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1693552011,
         "date_posted": 1693552011,
         "url": "https://seatgeek.com/jobs/3788489?gh_jid=3788489",
@@ -2595,7 +2595,7 @@
         "company_name": "SeatGeek",
         "id": "948a0613-0a14-462e-a266-5597321746e4",
         "title": "Software Engineer \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1693552008,
         "date_posted": 1693552008,
         "url": "https://seatgeek.com/jobs/5328134?gh_jid=5328134",
@@ -2955,6 +2955,38 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Capital-One",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Chartboost",
+        "id": "b1ae3cc1-1e0f-4ee4-871c-f2a3bbbf6cc3",
+        "title": "Software Engineer - Bidder",
+        "active": true,
+        "date_updated": 1694214837,
+        "date_posted": 1694214837,
+        "url": "https://boards.greenhouse.io/chartboost/jobs/5105265",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/Chartboost",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wolverine Trading",
+        "id": "a9c870b6-c10f-45c7-9e33-b7880898beef",
+        "title": "Entry-Level Software Engineer - Immediate Start",
+        "active": true,
+        "date_updated": 1694214651,
+        "date_posted": 1694214651,
+        "url": "https://jobs.lever.co/wolve/9652fd35-2a3c-4443-829d-0f13fa6e5c5a/apply",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/wolverine-trading",
         "is_visible": true,
         "sponsorship": "Other"
     }
