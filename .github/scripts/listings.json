@@ -2963,7 +2963,7 @@
         "company_name": "Chartboost",
         "id": "b1ae3cc1-1e0f-4ee4-871c-f2a3bbbf6cc3",
         "title": "Software Engineer - Bidder",
-        "active": true,
+        "active": false,
         "date_updated": 1694214837,
         "date_posted": 1694214837,
         "url": "https://boards.greenhouse.io/chartboost/jobs/5105265",
@@ -2987,6 +2987,22 @@
             "Chicago, IL"
         ],
         "company_url": "https://simplify.jobs/c/wolverine-trading",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Samsara",
+        "id": "3be658f3-3aa9-481f-b33d-2bb81088788a",
+        "title": "Software Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1694243150,
+        "date_posted": 1694243150,
+        "url": "https://boards.greenhouse.io/samsara/jobs/5273880",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/Samsara",
         "is_visible": true,
         "sponsorship": "Other"
     }
