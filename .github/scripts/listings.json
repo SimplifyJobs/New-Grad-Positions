@@ -2419,7 +2419,7 @@
         "company_name": "The Boeing Company",
         "id": "d045ef25-9988-4aec-a6ec-0ea3802b4e54",
         "title": "Manager Software Development \u2013 Early Career Program",
-        "active": true,
+        "active": false,
         "date_updated": 1693408418,
         "date_posted": 1693408418,
         "url": "https://boeing.wd1.myworkdayjobs.com/external_careers/job/USA---Seattle-WA/Manager-Software-Development---Early-Career-Program_00000390214-1",
@@ -3037,5 +3037,21 @@
         "date_posted": 1694440726,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Justworks",
+        "id": "830ebc97-f836-4d54-9840-2c4e0fbcf9a5",
+        "title": "Software Engineer - Tax Technology",
+        "active": true,
+        "date_updated": 1694444773,
+        "date_posted": 1694444773,
+        "url": "https://boards.greenhouse.io/justworks/jobs/5305638",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Justworks",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
