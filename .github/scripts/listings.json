@@ -3021,5 +3021,21 @@
         "company_url": "https://simplify.jobs/c/Sony-Music",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1694440726,
+        "url": "https://careers.garmin.com/careers-home/jobs/11249?lang=en-us&iss=linkedin",
+        "company_name": "Garmin",
+        "title": "SOFTWARE ENGINEER 1 - EMBEDDED DEVELOPMENT",
+        "locations": [
+            "Olathe, KS"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "abg5043",
+        "id": "6637e11c-cf39-41bf-af45-d5fc4d86a845",
+        "date_posted": 1694440726,
+        "company_url": "",
+        "is_visible": true
     }
 ]

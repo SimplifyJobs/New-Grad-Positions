@@ -62,6 +62,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Garmin** | SOFTWARE ENGINEER 1 - EMBEDDED DEVELOPMENT | Olathe, KS | <a href="https://careers.garmin.com/careers-home/jobs/11249?lang=en-us&iss=linkedin&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 11 |
 | **[Sony Music Entertainment](https://simplify.jobs/c/Sony-Music)** | Data Analytics Rotation Training Program-2024 | NYC | <a href="https://boards.greenhouse.io/sonymusic/jobs/6916340002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/32961dbc-0688-45c2-8f1f-2a9ef7248e2d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Sep 11 |
 | **[Samsara](https://simplify.jobs/c/Samsara)** | Software Engineer – New Grad | Remote | <a href="https://boards.greenhouse.io/samsara/jobs/5273880?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/3be658f3-3aa9-481f-b33d-2bb81088788a?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Sep 09 |
 | **Chartboost** | Software Engineer - Bidder | Remote | 🔒 | Sep 08 |
