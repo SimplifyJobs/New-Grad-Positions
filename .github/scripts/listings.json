@@ -3005,5 +3005,21 @@
         "company_url": "https://simplify.jobs/c/Samsara",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Sony Music Entertainment",
+        "id": "32961dbc-0688-45c2-8f1f-2a9ef7248e2d",
+        "title": "Data Analytics Rotation Training Program-2024",
+        "active": true,
+        "date_updated": 1694416213,
+        "date_posted": 1694416213,
+        "url": "https://boards.greenhouse.io/sonymusic/jobs/6916340002",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Sony-Music",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
