@@ -2082,7 +2082,7 @@
         "company_name": "Qualtrics",
         "id": "c64aa23c-d6a8-4d93-bb7b-f87943779cda",
         "title": "Software Engineer \u2013 New Grad - Seattle - WA",
-        "active": true,
+        "active": false,
         "date_updated": 1692918573,
         "date_posted": 1692918573,
         "url": "https://www.qualtrics.com/careers/us/en/job/5317704?gh_jid=5317704",
@@ -2114,7 +2114,7 @@
         "company_name": "Qualtrics",
         "id": "2adca490-9850-45e8-b06b-c31f6bd2aa98",
         "title": "Software Engineer \u2013 New Grad - Provo - UT",
-        "active": true,
+        "active": false,
         "date_updated": 1692918573,
         "date_posted": 1692918573,
         "url": "https://www.qualtrics.com/careers/us/en/job/5317685?gh_jid=5317685",
@@ -2130,7 +2130,7 @@
         "company_name": "Qualtrics",
         "id": "111a8afe-d8e8-4517-8ede-d39790c67f36",
         "title": "Software Engineer \u2013 New Grad - Reston - VA",
-        "active": true,
+        "active": false,
         "date_updated": 1692918571,
         "date_posted": 1692918571,
         "url": "https://www.qualtrics.com/careers/us/en/job/5317695?gh_jid=5317695",
@@ -2643,7 +2643,7 @@
         "company_name": "SeatGeek",
         "id": "82d88ee4-2e44-4c5d-a9a9-55cfc6cd72f9",
         "title": "Data Analyst \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1693552002,
         "date_posted": 1693552002,
         "url": "https://seatgeek.com/jobs/2423041?gh_jid=2423041",
@@ -2659,7 +2659,7 @@
         "company_name": "SeatGeek",
         "id": "137dcab8-180e-41da-982a-74ef8c063632",
         "title": "Data Analyst \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1693552001,
         "date_posted": 1693552001,
         "url": "https://seatgeek.com/jobs/5328240?gh_jid=5328240",
@@ -3043,7 +3043,7 @@
         "company_name": "Justworks",
         "id": "830ebc97-f836-4d54-9840-2c4e0fbcf9a5",
         "title": "Software Engineer - Tax Technology",
-        "active": true,
+        "active": false,
         "date_updated": 1694444773,
         "date_posted": 1694444773,
         "url": "https://boards.greenhouse.io/justworks/jobs/5305638",
@@ -3051,6 +3051,70 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Justworks",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Aviatrix",
+        "id": "be62e1fc-359a-41e1-9eef-6ef89e833eb2",
+        "title": "Software Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1694474328,
+        "date_posted": 1694474328,
+        "url": "https://aviatrix.com/careers/?gh_jid=4316168005",
+        "locations": [
+            "Urbana, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Aviatrix",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Perpay",
+        "id": "87535675-cdd3-44ea-b36f-622b1a2be47b",
+        "title": "Software Engineer \u2013 New Grad 2024",
+        "active": true,
+        "date_updated": 1694474200,
+        "date_posted": 1694474200,
+        "url": "https://boards.greenhouse.io/perpay/jobs/4034578007",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Perpay",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Phaidra",
+        "id": "ea82418f-f413-4f48-8d11-bd8355cb3474",
+        "title": "Software Engineer - Connectivity",
+        "active": true,
+        "date_updated": 1694473995,
+        "date_posted": 1694473995,
+        "url": "https://boards.greenhouse.io/phaidra/jobs/4255483005",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/Phaidra",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "OptionMetrics",
+        "id": "b61dc3ca-f85e-4df0-b6f3-6072d297acec",
+        "title": "IT Operations Engineer",
+        "active": true,
+        "date_updated": 1694459328,
+        "date_posted": 1694041599,
+        "url": "https://jobs.lever.co/optionmetrics/e5f8a568-2237-42a5-b600-798438ced275/apply",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/OptionMetrics",
         "is_visible": true,
         "sponsorship": "Other"
     }
