@@ -1243,7 +1243,7 @@
         "company_name": "Yodlee",
         "id": "8680d523-a745-455c-976d-8fb779f106ef",
         "title": "Client Service Associate - Tamarac Trading",
-        "active": false,
+        "active": true,
         "date_updated": 1692659510,
         "date_posted": 1690845562,
         "url": "https://jobs.jobvite.com/yodlee/job/oqUTnfwk?nl=1&nl=1&fr=false",
@@ -3219,7 +3219,7 @@
         "company_name": "Matroid",
         "id": "d059eee6-37f6-4b63-9ac3-ceea2b177dce",
         "title": "Full Stack Engineer for Computer Vision Products",
-        "active": true,
+        "active": false,
         "date_updated": 1694503111,
         "date_posted": 1694503111,
         "url": "https://matroid.breezy.hr/p/7d0cd0f732a2/apply",
@@ -3275,6 +3275,22 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/HealthJoy",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Taboola",
+        "id": "f69a1456-5a18-46ad-8283-b98aa7847e31",
+        "title": "Solutions Engineer",
+        "active": true,
+        "date_updated": 1694531622,
+        "date_posted": 1694531622,
+        "url": "https://www.taboola.com/careers/job/5362443?gh_jid=5362443",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Taboola",
         "is_visible": true,
         "sponsorship": "Other"
     }
