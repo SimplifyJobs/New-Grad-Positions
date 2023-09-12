@@ -2563,7 +2563,7 @@
         "company_name": "ZipRecruiter",
         "id": "de61c5ba-72fd-4401-bf79-8637abf97a1e",
         "title": "Software Engineer \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1693552278,
         "date_posted": 1693552278,
         "url": "https://boards.greenhouse.io/ziprecruiter/jobs/4861030",
@@ -3107,7 +3107,7 @@
         "company_name": "OptionMetrics",
         "id": "b61dc3ca-f85e-4df0-b6f3-6072d297acec",
         "title": "IT Operations Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1694459328,
         "date_posted": 1694041599,
         "url": "https://jobs.lever.co/optionmetrics/e5f8a568-2237-42a5-b600-798438ced275/apply",
@@ -3115,6 +3115,166 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/OptionMetrics",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Orion Innovation",
+        "id": "dd758103-1a50-47c9-b37a-be9696dc227c",
+        "title": "Programmer Analyst",
+        "active": true,
+        "date_updated": 1694503209,
+        "date_posted": 1694503209,
+        "url": "https://www.orioninc.com/careers/job/?gh_jid=4066069006",
+        "locations": [
+            "Edison, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/OrionInnovation",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Orion Innovation",
+        "id": "0702d171-e061-4086-b25d-f01b5a7110ad",
+        "title": "Programmer Analyst",
+        "active": true,
+        "date_updated": 1694503205,
+        "date_posted": 1694503205,
+        "url": "https://www.orioninc.com/careers/job/?gh_jid=4066072006",
+        "locations": [
+            "Edison, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/OrionInnovation",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Arista Networks",
+        "id": "a570004f-d47c-4173-9872-8d6b4f072eda",
+        "title": "UX Designer - Remote from Turkey - Hungary or Romania",
+        "active": true,
+        "date_updated": 1694503142,
+        "date_posted": 1694503142,
+        "url": "https://jobs.smartrecruiters.com/AristaNetworks/743999916788973",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/Arista-Networks",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Arista Networks",
+        "id": "fb6360e4-d4c1-4930-b451-e7756e0b245b",
+        "title": "Software Engineer - Packet Forwarding Engines",
+        "active": true,
+        "date_updated": 1694503134,
+        "date_posted": 1694503134,
+        "url": "https://jobs.smartrecruiters.com/AristaNetworks/743999925821598",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Arista-Networks",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Connectly",
+        "id": "c701edb2-f2f6-416c-8fd4-d43e4c802e73",
+        "title": "Software Engineer - Backend",
+        "active": true,
+        "date_updated": 1694503123,
+        "date_posted": 1694503123,
+        "url": "https://jobs.lever.co/connectly/f855a7d3-976f-4c36-87af-6d222911ab26/apply",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/Connectly",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Arista Networks",
+        "id": "8a01dfce-c7ab-4c29-924a-c1ea162993f2",
+        "title": "Software Engineer - Network Systems",
+        "active": true,
+        "date_updated": 1694503125,
+        "date_posted": 1694503125,
+        "url": "https://jobs.smartrecruiters.com/AristaNetworks/743999925821023",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Arista-Networks",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Matroid",
+        "id": "d059eee6-37f6-4b63-9ac3-ceea2b177dce",
+        "title": "Full Stack Engineer for Computer Vision Products",
+        "active": true,
+        "date_updated": 1694503111,
+        "date_posted": 1694503111,
+        "url": "https://matroid.breezy.hr/p/7d0cd0f732a2/apply",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Matroid",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Vontive",
+        "id": "254424d6-6ef6-4bd9-829a-c9dba13852bc",
+        "title": "New Grad Software Engineer - 2023",
+        "active": true,
+        "date_updated": 1694503121,
+        "date_posted": 1694503121,
+        "url": "https://apply.workable.com/vontive/j/A66EF3C988/apply",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Vontive",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Matroid",
+        "id": "1aced54c-3be5-48fd-b7c1-081b18518eff",
+        "title": "Vision Solutions Field Engineer",
+        "active": true,
+        "date_updated": 1694503116,
+        "date_posted": 1694503116,
+        "url": "https://matroid.breezy.hr/p/f493393ecb8c/apply",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Matroid",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "HealthJoy",
+        "id": "3f1cfdb2-70f5-4891-a47c-57185a0a3944",
+        "title": "Analytics Engineer I",
+        "active": true,
+        "date_updated": 1694503102,
+        "date_posted": 1694503102,
+        "url": "https://boards.greenhouse.io/healthjoy/jobs/6883008002",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/HealthJoy",
         "is_visible": true,
         "sponsorship": "Other"
     }
