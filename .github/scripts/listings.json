@@ -3042,16 +3042,16 @@
         "source": "Simplify",
         "company_name": "Justworks",
         "id": "830ebc97-f836-4d54-9840-2c4e0fbcf9a5",
-        "title": "Software Engineer - Tax Technology",
+        "title": "Software Engineer, Tax Technology",
         "active": false,
-        "date_updated": 1694444773,
+        "date_updated": 1694527709,
         "date_posted": 1694444773,
         "url": "https://boards.greenhouse.io/justworks/jobs/5305638",
         "locations": [
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Justworks",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
