@@ -2467,7 +2467,7 @@
         "company_name": "Bankers Healthcare Group",
         "id": "ee29f2d1-d01b-4ac2-b634-49de1fde3a25",
         "title": "Quantitative Analyst - Credit Risk",
-        "active": true,
+        "active": false,
         "date_updated": 1693436887,
         "date_posted": 1693436887,
         "url": "https://jobs.lever.co/bhg-inc/fba6b225-133e-4a45-a9f6-902117ef98ed/apply",
@@ -2483,7 +2483,7 @@
         "company_name": "Bankers Healthcare Group",
         "id": "9aa533c9-6b4a-4b7d-874a-2c123314f44d",
         "title": "Quantitative Analyst - Credit Risk",
-        "active": true,
+        "active": false,
         "date_updated": 1693436889,
         "date_posted": 1693436889,
         "url": "https://jobs.lever.co/bhg-inc/c966fb5d-4a65-4536-a954-8c4fa6d0def9/apply",
@@ -3325,5 +3325,21 @@
         "date_posted": 1694615532,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Capital One",
+        "id": "af4e6cde-ee99-41ae-8d8c-5a4e6a9e2988",
+        "title": "Associate \u2013 FT New Grad 2024 - Data Analyst",
+        "active": true,
+        "date_updated": 1694612267,
+        "date_posted": 1694612267,
+        "url": "https://capitalone.wd1.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Data-Analyst--FT-New-Grad-2024-_R174596",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Capital-One",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
