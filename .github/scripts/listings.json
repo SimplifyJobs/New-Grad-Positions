@@ -2675,7 +2675,7 @@
         "company_name": "January",
         "id": "c11eb3c6-2cb0-4cab-aafa-6c19d508fb16",
         "title": "Software Engineer - San Francisco",
-        "active": true,
+        "active": false,
         "date_updated": 1693523739,
         "date_posted": 1693523739,
         "url": "https://boards.greenhouse.io/january/jobs/4017062007",
@@ -3107,7 +3107,7 @@
         "company_name": "OptionMetrics",
         "id": "b61dc3ca-f85e-4df0-b6f3-6072d297acec",
         "title": "IT Operations Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1694459328,
         "date_posted": 1694041599,
         "url": "https://jobs.lever.co/optionmetrics/e5f8a568-2237-42a5-b600-798438ced275/apply",
@@ -3291,6 +3291,22 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/Taboola",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Arista Networks",
+        "id": "d5c342b6-1475-4e14-9cc4-7c44a70f15b7",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1694560695,
+        "date_posted": 1694560695,
+        "url": "https://jobs.smartrecruiters.com/AristaNetworks/743999925823994",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Arista-Networks",
         "is_visible": true,
         "sponsorship": "Other"
     }
