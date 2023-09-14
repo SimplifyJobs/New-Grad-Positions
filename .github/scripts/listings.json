@@ -3463,5 +3463,22 @@
         "company_url": "https://simplify.jobs/c/Riot-Games",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "ServiceNow",
+        "id": "f1dc15fc-94d0-4301-ab56-42668ef72ebb",
+        "title": "Associate Product Designer \u2013 New College Grad",
+        "active": true,
+        "date_updated": 1694704840,
+        "date_posted": 1694704840,
+        "url": "https://jobs.smartrecruiters.com/ServiceNow/743999930520864",
+        "locations": [
+            "Remote in USA",
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ServiceNow",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
