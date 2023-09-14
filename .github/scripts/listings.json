@@ -2772,14 +2772,14 @@
         "id": "e14086f4-cff5-418c-a46a-f291036f342b",
         "title": "Solutions Development Program",
         "active": true,
-        "date_updated": 1693927037,
+        "date_updated": 1694722992,
         "date_posted": 1693927037,
         "url": "https://www.intersystems.com/careers/careers-search/?gh_jid=5698671003",
         "locations": [
             "Cambridge, MA"
         ],
         "company_url": "https://simplify.jobs/c/InterSystems",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
