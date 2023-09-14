@@ -2756,14 +2756,14 @@
         "id": "ec76586a-9494-4409-b216-0b6f94818b36",
         "title": "Core Development Program",
         "active": true,
-        "date_updated": 1693927034,
+        "date_updated": 1694723062,
         "date_posted": 1693927034,
         "url": "https://www.intersystems.com/careers/careers-search/?gh_jid=5698667003",
         "locations": [
             "Cambridge, MA"
         ],
         "company_url": "https://simplify.jobs/c/InterSystems",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
