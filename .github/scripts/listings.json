@@ -117,14 +117,14 @@
         "id": "20cc80aa-9a86-4b1c-bbb0-6719bb631798",
         "title": "VAS Trader",
         "active": true,
-        "date_updated": 1692205663,
+        "date_updated": 1694723131,
         "date_posted": 1692140976,
         "url": "https://boards.greenhouse.io/vestmark/jobs/5284315",
         "locations": [
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Vestmark",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {

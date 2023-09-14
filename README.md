@@ -162,7 +162,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[Databricks](https://simplify.jobs/c/Databricks)** | Data Scientist – New Grad - 2024 Start | SF | <a href="https://boards.greenhouse.io/embed/job_app?token=6866554002&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/ea29c605-ae90-4d90-9e3f-3790c81943c8?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Aug 18 |
 | **Sonatype** | Associate Data Scientist | Remote in USA | 🔒 | Aug 18 |
 | **Allegiant Air** | Software Middleware Engineer I | Las Vegas, NV | 🔒 | Aug 16 |
-| **[Vestmark](https://simplify.jobs/c/Vestmark)** | VAS Trader | Remote in USA | <a href="https://boards.greenhouse.io/vestmark/jobs/5284315?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/20cc80aa-9a86-4b1c-bbb0-6719bb631798?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Aug 15 |
 | **Salesforce** | Associate Site Reliability Engineer – New Grad - Govcloud | Reston, VA</br>Burlington, MA | 🔒 | Aug 14 |
 | **Kitware** | OSTP Software Developer | Clifton Park, NY | 🔒 | Aug 14 |
 | **Celonis** | Associate Value Engineer - Orbit Program | NYC | 🔒 | Aug 13 |
