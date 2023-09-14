@@ -3470,7 +3470,7 @@
         "id": "f1dc15fc-94d0-4301-ab56-42668ef72ebb",
         "title": "Associate Product Designer \u2013 New College Grad",
         "active": true,
-        "date_updated": 1694704840,
+        "date_updated": 1694721495,
         "date_posted": 1694704840,
         "url": "https://jobs.smartrecruiters.com/ServiceNow/743999930520864",
         "locations": [
@@ -3478,7 +3478,7 @@
             "Santa Clara, CA"
         ],
         "company_url": "https://simplify.jobs/c/ServiceNow",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     }
 ]
