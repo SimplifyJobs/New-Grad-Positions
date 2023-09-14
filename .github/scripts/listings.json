@@ -2867,7 +2867,7 @@
         "company_name": "Workato",
         "id": "025b8899-70ce-44b0-9185-5bfe311bd157",
         "title": "Interaction Designer",
-        "active": true,
+        "active": false,
         "date_updated": 1694099835,
         "date_posted": 1694099835,
         "url": "https://boards.greenhouse.io/workato/jobs/6366484002",
@@ -3339,6 +3339,128 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Capital-One",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Salesforce",
+        "id": "df26b6a8-3546-4e5b-9f1e-e93b12e24ef2",
+        "title": "Associate Technical Consultant \u2013 New Grad - January 2024 Start",
+        "active": true,
+        "date_updated": 1694647900,
+        "date_posted": 1694647900,
+        "url": "https://salesforce.wd12.myworkdayjobs.com/en-us/External_Career_Site/job/Canada---Toronto/Associate-Technical-Consultant---January-2024-Start--New-Grad-_JR215448-1",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Salesforce",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Salesforce",
+        "id": "19304064-7394-49b1-8200-b0e0cd7bf7b9",
+        "title": "Associate Technical Consultant \u2013 New Grad - January 2024 Start Date",
+        "active": true,
+        "date_updated": 1694647901,
+        "date_posted": 1694647901,
+        "url": "https://salesforce.wd12.myworkdayjobs.com/en-us/External_Career_Site/job/Georgia---Atlanta/Associate-Technical-Consultant---January-2024-Start-Date--New-Grad-_JR215447",
+        "locations": [
+            "Indianapolis, IN",
+            "Dallas, TX",
+            "Raleigh, NC",
+            "McLean, VA",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Salesforce",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Salesforce",
+        "id": "1665b12a-0de4-47c4-b259-81002b19054e",
+        "title": "Associate Technical Consultant \u2013 New Grad - July 2024 Start Date",
+        "active": true,
+        "date_updated": 1694647899,
+        "date_posted": 1694647899,
+        "url": "https://salesforce.wd12.myworkdayjobs.com/en-us/External_Career_Site/job/Canada---Toronto/Associate-Technical-Consultant---July-2024-Start-Date--New-Grad-_JR216601-1",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Salesforce",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Salesforce",
+        "id": "a274801b-5373-4baa-9a59-40f97e14d0e6",
+        "title": "Associate Technical Consultant \u2013 New Grad - July 2024 Start Date",
+        "active": true,
+        "date_updated": 1694647898,
+        "date_posted": 1694647898,
+        "url": "https://salesforce.wd12.myworkdayjobs.com/en-us/External_Career_Site/job/Georgia---Atlanta/Associate-Technical-Consultant---July-2024-Start-Date--New-Grad-_JR216870-2",
+        "locations": [
+            "Indianapolis, IN",
+            "Dallas, TX",
+            "Raleigh, NC",
+            "McLean, VA",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Salesforce",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Regrello",
+        "id": "a83f77f3-63ec-4a2d-be82-66d05ab5939d",
+        "title": "Software Engineer - AI",
+        "active": true,
+        "date_updated": 1694647076,
+        "date_posted": 1694647076,
+        "url": "https://jobs.lever.co/regrello/f6f93cd6-c81c-4809-adb0-cde869130b8b/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Regrello",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Vanta",
+        "id": "11d684f7-36c5-4cfb-9227-9cc529318ee9",
+        "title": "Software Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1694647062,
+        "date_posted": 1694647062,
+        "url": "https://jobs.ashbyhq.com/vanta/9a2b70fa-ff3c-456d-ac11-0cc9ff13edd8/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Vanta",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Riot Games",
+        "id": "7d840305-038a-470c-bc03-eb6852ce02bc",
+        "title": "Analyst \u2013 Competitive and Social & Player Dynamics - Valorant",
+        "active": true,
+        "date_updated": 1694646648,
+        "date_posted": 1694646648,
+        "url": "https://www.riotgames.com/en/work-with-us/job/5107759?gh_jid=5107759",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Riot-Games",
         "is_visible": true,
         "sponsorship": "Other"
     }
