@@ -294,14 +294,14 @@
         "id": "b59d5101-c35b-4a9e-9eaf-8b92d2f4e476",
         "title": "Data Analyst",
         "active": true,
-        "date_updated": 1691540102,
+        "date_updated": 1694892686,
         "date_posted": 1691540102,
         "url": "https://jobs.lever.co/cdcfoundation/4c56a33e-9b37-44dc-8542-d7a3f20d0c17/apply",
         "locations": [
             "Waterbury, CT"
         ],
         "company_url": "https://simplify.jobs/c/CDC-Foundation",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
