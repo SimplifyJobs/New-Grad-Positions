@@ -1954,14 +1954,14 @@
         "id": "bd0a7d63-ad07-4711-8edf-ccf978dcc09d",
         "title": "Data Analyst",
         "active": true,
-        "date_updated": 1692717626,
+        "date_updated": 1694892608,
         "date_posted": 1692717626,
         "url": "https://jobs.lever.co/cdcfoundation/5f857154-a898-468a-b18d-47d5e94669d4/apply",
         "locations": [
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/CDC-Foundation",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
