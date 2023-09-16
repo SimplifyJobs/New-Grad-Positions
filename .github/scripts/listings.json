@@ -2724,14 +2724,14 @@
         "id": "c512d8af-b7b8-442e-aa53-6d4886810d05",
         "title": "2024 Early Career Program: Data Analyst Intern",
         "active": true,
-        "date_updated": 1693581580,
+        "date_updated": 1694892578,
         "date_posted": 1693581580,
         "url": "https://boards.greenhouse.io/rvohealth/jobs/4306587005",
         "locations": [
             "Charlotte, NC"
         ],
         "company_url": "https://simplify.jobs/c/RVO-Health",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
