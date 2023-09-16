@@ -2851,7 +2851,7 @@
         "company_name": "Top Hat",
         "id": "be7c8eda-14cc-4f84-9abe-bb7c8a53201e",
         "title": "Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1694070546,
         "date_posted": 1694070546,
         "url": "https://jobs.lever.co/tophat/0851f204-4920-4e44-a9aa-08d7e0d453c6/apply",
@@ -3453,7 +3453,7 @@
         "company_name": "Riot Games",
         "id": "7d840305-038a-470c-bc03-eb6852ce02bc",
         "title": "Analyst \u2013 Competitive and Social & Player Dynamics - Valorant",
-        "active": true,
+        "active": false,
         "date_updated": 1694646648,
         "date_posted": 1694646648,
         "url": "https://www.riotgames.com/en/work-with-us/job/5107759?gh_jid=5107759",
@@ -3479,6 +3479,86 @@
         ],
         "company_url": "https://simplify.jobs/c/ServiceNow",
         "is_visible": false,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Chartboost",
+        "id": "d2b3b320-d601-45d0-8895-52cfa09c436b",
+        "title": "Software Engineer - Bidder",
+        "active": true,
+        "date_updated": 1694820053,
+        "date_posted": 1694820053,
+        "url": "https://boards.greenhouse.io/chartboost/jobs/5014480",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Chartboost",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Relativity Space",
+        "id": "cd300933-48c6-4757-8b9b-6a74012aa1a9",
+        "title": "Simulation Engineer I",
+        "active": true,
+        "date_updated": 1694819983,
+        "date_posted": 1694819983,
+        "url": "https://boards.greenhouse.io/relativity/jobs/6933663002",
+        "locations": [
+            "Long Beach, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Relativity-Space",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Capital One",
+        "id": "e28996ca-2351-4469-9c1a-d180df10bdfe",
+        "title": "Associate \u2013 FT New Grad 2024 - Software Engineer",
+        "active": true,
+        "date_updated": 1694819754,
+        "date_posted": 1694819754,
+        "url": "https://capitalone.wd1.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--FT-New-Grad-2024-_R174779",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Capital-One",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Capital One",
+        "id": "33f3981b-b7f2-48b7-ab04-f161de57a889",
+        "title": "FT Associate \u2013 New Grad 2024 - Data Analyst",
+        "active": true,
+        "date_updated": 1694819756,
+        "date_posted": 1694819756,
+        "url": "https://capitalone.wd1.myworkdayjobs.com/Capital_One/job/Toronto-ON/FT-Associate--Data-Analyst--New-Grad-2024-_R174781",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Capital-One",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Edward Daniels Group",
+        "id": "5df28b97-6a36-4d28-ad86-5e0b91807ac2",
+        "title": "Cloud Engineer - Public Clouds",
+        "active": true,
+        "date_updated": 1694819662,
+        "date_posted": 1694819662,
+        "url": "https://jobs.lever.co/edgrp/befb6be7-c278-49a6-951e-bd7327085af7/apply",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Edward-Daniels-Grp",
+        "is_visible": true,
         "sponsorship": "Other"
     }
 ]
