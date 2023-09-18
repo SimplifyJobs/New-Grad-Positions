@@ -3592,5 +3592,21 @@
         "company_url": "https://simplify.jobs/c/EliseAI",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Hitachi Vantara",
+        "id": "2ef4756b-5c1c-43ed-80e8-16338763e353",
+        "title": "Technical Customer Success Engineer",
+        "active": true,
+        "date_updated": 1695021982,
+        "date_posted": 1695021982,
+        "url": "https://www.hitachivantara.com/en-us/company/careers/job-details.6932545002.html?gh_jid=6932545002",
+        "locations": [
+            "Orlando, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Hitachi-Vantara",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
