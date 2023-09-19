@@ -3640,5 +3640,37 @@
         "company_url": "https://simplify.jobs/c/ZipRecruiter",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "TuSimple",
+        "id": "b3b89679-11b3-4e94-8716-a46209b53950",
+        "title": "Map Engine Engineer",
+        "active": true,
+        "date_updated": 1695079332,
+        "date_posted": 1695079332,
+        "url": "https://boards.greenhouse.io/tusimple/jobs/6909202002",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TuSimple",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "TuSimple",
+        "id": "8c3cddb0-dfdc-48c4-a846-f1fbcfc10829",
+        "title": "Localization Engineer",
+        "active": true,
+        "date_updated": 1695079331,
+        "date_posted": 1695079331,
+        "url": "https://boards.greenhouse.io/tusimple/jobs/6909191002",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TuSimple",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
