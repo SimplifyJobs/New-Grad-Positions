@@ -2883,7 +2883,7 @@
         "company_name": "WhatNot",
         "id": "ee6d9af8-53cf-40c0-8c2f-281f9d37231b",
         "title": "Software Engineer \u2013 2024 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1694099547,
         "date_posted": 1694099547,
         "url": "https://boards.greenhouse.io/whatnot/jobs/4957329004",
@@ -3107,7 +3107,7 @@
         "company_name": "OptionMetrics",
         "id": "b61dc3ca-f85e-4df0-b6f3-6072d297acec",
         "title": "IT Operations Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1694459328,
         "date_posted": 1694041599,
         "url": "https://jobs.lever.co/optionmetrics/e5f8a568-2237-42a5-b600-798438ced275/apply",
@@ -3606,6 +3606,38 @@
             "Orlando, FL"
         ],
         "company_url": "https://simplify.jobs/c/Hitachi-Vantara",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Chan Zuckerberg Biohub ",
+        "id": "39d79baa-01a6-4d27-8dcc-3d9aecfe040f",
+        "title": "Application Engineer - Advanced Optical Microscopy",
+        "active": true,
+        "date_updated": 1695079079,
+        "date_posted": 1695079079,
+        "url": "https://boards.greenhouse.io/chanzuckerbergbiohub/jobs/4303847005",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/CZBiohub",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "ZipRecruiter",
+        "id": "4a8618d4-4065-420b-9cb9-ac0283d93e9d",
+        "title": "Software Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1695078993,
+        "date_posted": 1695078993,
+        "url": "https://boards.greenhouse.io/ziprecruiter/jobs/5281310",
+        "locations": [
+            "Santa Monica, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ZipRecruiter",
         "is_visible": true,
         "sponsorship": "Other"
     }
