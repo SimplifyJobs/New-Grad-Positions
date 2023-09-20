@@ -3267,7 +3267,7 @@
         "company_name": "HealthJoy",
         "id": "3f1cfdb2-70f5-4891-a47c-57185a0a3944",
         "title": "Analytics Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1694503102,
         "date_posted": 1694503102,
         "url": "https://boards.greenhouse.io/healthjoy/jobs/6883008002",
@@ -3670,6 +3670,38 @@
             "San Diego, CA"
         ],
         "company_url": "https://simplify.jobs/c/TuSimple",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Trumid",
+        "id": "23bc99ee-fcd6-4118-8f64-7f7e9eac4d70",
+        "title": "Fixed Income Operations Analyst",
+        "active": true,
+        "date_updated": 1695165849,
+        "date_posted": 1695165849,
+        "url": "https://boards.greenhouse.io/trumid/jobs/4976920003",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Trumid",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NVIDIA",
+        "id": "adf0167d-e5ef-4cad-ad64-a786e5a6bb9e",
+        "title": "Firmware Engineer \u2013 New College Grad 2023",
+        "active": true,
+        "date_updated": 1695164938,
+        "date_posted": 1695164938,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Firmware-Engineer---New-College-Grad-2023_JR1972317",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
         "is_visible": true,
         "sponsorship": "Other"
     }
