@@ -3091,7 +3091,7 @@
         "company_name": "Phaidra",
         "id": "ea82418f-f413-4f48-8d11-bd8355cb3474",
         "title": "Software Engineer - Connectivity",
-        "active": true,
+        "active": false,
         "date_updated": 1694473995,
         "date_posted": 1694473995,
         "url": "https://boards.greenhouse.io/phaidra/jobs/4255483005",
@@ -3702,6 +3702,125 @@
             "Santa Clara, CA"
         ],
         "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Salesforce",
+        "id": "4bd67c24-6c31-4484-adb6-1e7c865e6906",
+        "title": "Software Engineering AMTS \u2013 New Grad",
+        "active": true,
+        "date_updated": 1695252485,
+        "date_posted": 1695252485,
+        "url": "https://salesforce.wd12.myworkdayjobs.com/en-us/External_Career_Site/job/Washington---Seattle/Software-Engineering-AMTS_JR214451-2",
+        "locations": [
+            "Seattle, WA",
+            "SF",
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Salesforce",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Scale AI",
+        "id": "969b8221-b69d-4f62-a31e-ea276a6a4874",
+        "title": "Operations Program Manager - Customer Operations",
+        "active": true,
+        "date_updated": 1695252013,
+        "date_posted": 1695252013,
+        "url": "https://boards.greenhouse.io/scaleai/jobs/4289123005",
+        "locations": [
+            "Seattle, WA",
+            "SF",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Scale-AI",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Scale AI",
+        "id": "c253fa4b-66eb-4e8e-b2d9-653f8c464212",
+        "title": "Operations Associate",
+        "active": true,
+        "date_updated": 1695252009,
+        "date_posted": 1695252009,
+        "url": "https://boards.greenhouse.io/scaleai/jobs/4293652005",
+        "locations": [
+            "SF",
+            "Dallas, TX",
+            "St. Louis, MO",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Scale-AI",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Codazen",
+        "id": "697af10a-abbb-4047-98e5-1b5483486c2c",
+        "title": "Full-Stack Engineer Winter New Grad",
+        "active": true,
+        "date_updated": 1695251766,
+        "date_posted": 1695251766,
+        "url": "https://boards.greenhouse.io/codazen/jobs/4979883004",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Codazen",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Oscar Health",
+        "id": "ccd1a49f-28ad-42f7-8ace-6c3c876bc773",
+        "title": "Data Scientist I - Risk Analytics",
+        "active": true,
+        "date_updated": 1695251491,
+        "date_posted": 1695251491,
+        "url": "http://www.hioscar.com/careers/5380078?gh_jid=5380078",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Oscar-Health",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Oscar Health",
+        "id": "ac34e04f-0a4d-429e-a017-4062490142de",
+        "title": "Data Scientist I - Risk Analytics",
+        "active": true,
+        "date_updated": 1695251492,
+        "date_posted": 1695251492,
+        "url": "http://www.hioscar.com/careers/5380090?gh_jid=5380090",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/Oscar-Health",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Oscar Health",
+        "id": "a59cfbdb-6c52-4085-8809-83d4f31bdfcb",
+        "title": "Data Scientist I - Risk Analytics",
+        "active": true,
+        "date_updated": 1695251491,
+        "date_posted": 1695251491,
+        "url": "http://www.hioscar.com/careers/5379881?gh_jid=5379881",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Oscar-Health",
         "is_visible": true,
         "sponsorship": "Other"
     }
