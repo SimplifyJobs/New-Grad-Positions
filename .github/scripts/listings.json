@@ -3765,7 +3765,7 @@
         "company_name": "Codazen",
         "id": "697af10a-abbb-4047-98e5-1b5483486c2c",
         "title": "Full-Stack Engineer Winter New Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1695251766,
         "date_posted": 1695251766,
         "url": "https://boards.greenhouse.io/codazen/jobs/4979883004",
@@ -3821,6 +3821,38 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Oscar-Health",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Pear VC",
+        "id": "6eca7c43-1309-4019-88b9-fa1935790ec6",
+        "title": "Founding Software Engineer",
+        "active": true,
+        "date_updated": 1695337971,
+        "date_posted": 1695337971,
+        "url": "https://jobs.ashbyhq.com/pear/6e4785e1-5871-42ea-9aca-d33673b4db92/application",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/PearVC",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "OptionMetrics",
+        "id": "c853cb41-eaaf-4b08-b49a-408be8709bb6",
+        "title": "IT Operations Engineering Manager",
+        "active": true,
+        "date_updated": 1695337932,
+        "date_posted": 1695337932,
+        "url": "https://jobs.lever.co/optionmetrics/0d16df55-785c-44ce-8b1c-33b9390db710/apply",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/OptionMetrics",
         "is_visible": true,
         "sponsorship": "Other"
     }
