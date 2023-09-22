@@ -3855,5 +3855,21 @@
         "company_url": "https://simplify.jobs/c/OptionMetrics",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Abnormal Security",
+        "id": "60ebc399-2df7-4da6-9525-c6411362d230",
+        "title": "Software Engineer II - Machine Learning",
+        "active": true,
+        "date_updated": 1695395865,
+        "date_posted": 1695395865,
+        "url": "https://careers.abnormalsecurity.com/jobs/5744629003?gh_jid=5744629003",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/Abnormal-Security",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
