@@ -3502,7 +3502,7 @@
         "company_name": "Relativity Space",
         "id": "cd300933-48c6-4757-8b9b-6a74012aa1a9",
         "title": "Simulation Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1694819983,
         "date_posted": 1694819983,
         "url": "https://boards.greenhouse.io/relativity/jobs/6933663002",
@@ -3869,6 +3869,38 @@
             "Remote"
         ],
         "company_url": "https://simplify.jobs/c/Abnormal-Security",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NVIDIA",
+        "id": "f0fcb93d-6eb6-4563-b1a5-432bf52ca287",
+        "title": "Deep Learning Algorithm Engineer \u2013 New College Grad",
+        "active": true,
+        "date_updated": 1695424140,
+        "date_posted": 1695424140,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Deep-Learning-Algorithm-Engineer---New-College-Grad_JR1972676-1",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NVIDIA",
+        "id": "510fdb72-165d-4cb8-b478-60b8780368ad",
+        "title": "Developer Technology Engineer \u2013 New College Grad - Public Sector",
+        "active": true,
+        "date_updated": 1695424141,
+        "date_posted": 1695424141,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Developer-Technology-Engineer--Public-Sector---New-College-Grad_JR1972596",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
         "is_visible": true,
         "sponsorship": "Other"
     }
