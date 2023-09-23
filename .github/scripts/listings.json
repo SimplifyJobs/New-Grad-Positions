@@ -3903,5 +3903,21 @@
         "company_url": "https://simplify.jobs/c/NVIDIA",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Abnormal Security",
+        "id": "6e209793-646e-4996-b5d3-b04c70553a1a",
+        "title": "Machine Learning Engineer",
+        "active": true,
+        "date_updated": 1695453205,
+        "date_posted": 1695453205,
+        "url": "https://careers.abnormalsecurity.com/jobs/5754278003?gh_jid=5754278003",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Abnormal-Security",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
