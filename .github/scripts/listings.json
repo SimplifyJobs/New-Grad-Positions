@@ -3919,5 +3919,37 @@
         "company_url": "https://simplify.jobs/c/Abnormal-Security",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Conduit",
+        "id": "c4e8cc97-6b5a-4097-93d1-89f426e156e5",
+        "title": "Software Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1695568574,
+        "date_posted": 1695568574,
+        "url": "https://jobs.ashbyhq.com/Conduit/f3b3256b-de95-45f0-9014-f524d7f88360/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Conduit",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "HPR (Hyannis Port Research)",
+        "id": "96c767c5-c497-4669-9bc9-2df91901eccd",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1695568494,
+        "date_posted": 1695568494,
+        "url": "https://boards.greenhouse.io/hyannisportresearch/jobs/5597621003",
+        "locations": [
+            "Needham, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/HyannisPortResearch",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
