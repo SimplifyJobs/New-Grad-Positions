@@ -3968,5 +3968,21 @@
         "company_url": "https://simplify.jobs/c/Uncountable",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "XTX Markets",
+        "id": "c7637337-dd11-491c-bfa0-231d1af32758",
+        "title": "Operations Analyst - New York",
+        "active": true,
+        "date_updated": 1695655218,
+        "date_posted": 1695655218,
+        "url": "https://boards.greenhouse.io/xtxmarketstechnologies/jobs/5754577003",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/XTXMarkets",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
