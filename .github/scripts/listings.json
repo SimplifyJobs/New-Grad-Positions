@@ -2499,7 +2499,7 @@
         "company_name": "NVIDIA",
         "id": "f694cc15-f9ce-4666-9a86-58edf176877b",
         "title": "GPU Performance Software Engineer \u2013 New College Grad 2023",
-        "active": true,
+        "active": false,
         "date_updated": 1693436681,
         "date_posted": 1693436681,
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/GPU-Performance-Software-Engineer---New-College-Grad-2023_JR1971483",
@@ -3949,6 +3949,23 @@
             "Needham, MA"
         ],
         "company_url": "https://simplify.jobs/c/HyannisPortResearch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Uncountable",
+        "id": "f9ed9a98-92f9-48d1-b91f-c51efa261575",
+        "title": "Product Manager (New Grad)",
+        "active": true,
+        "date_updated": 1695622000,
+        "date_posted": 1695621999,
+        "url": "https://simplify.jobs/p/f9ed9a98-92f9-48d1-b91f-c51efa261575",
+        "locations": [
+            "SF",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Uncountable",
         "is_visible": true,
         "sponsorship": "Other"
     }
