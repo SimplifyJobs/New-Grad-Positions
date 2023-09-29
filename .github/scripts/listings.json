@@ -68,7 +68,7 @@
         "company_name": "Databricks",
         "id": "ea29c605-ae90-4d90-9e3f-3790c81943c8",
         "title": "Data Scientist \u2013 New Grad - 2024 Start",
-        "active": true,
+        "active": false,
         "date_updated": 1692343499,
         "date_posted": 1692343499,
         "url": "https://boards.greenhouse.io/embed/job_app?token=6866554002",
@@ -1728,7 +1728,7 @@
         "company_name": "Jump Trading",
         "id": "a2563ed5-bb87-41d2-aa54-c4585c79b9aa",
         "title": "Campus Quantitative Researcher - Full-Time",
-        "active": true,
+        "active": false,
         "date_updated": 1692637880,
         "date_posted": 1692343958,
         "url": "https://boards.greenhouse.io/embed/job_app?token=5286900",
@@ -1969,7 +1969,7 @@
         "company_name": "NVIDIA",
         "id": "5f60f36a-5c6e-455b-9c98-bf5d2629720c",
         "title": "Semiconductor Safety Engineer \u2013 New College Grad 2023",
-        "active": false,
+        "active": true,
         "date_updated": 1692746794,
         "date_posted": 1692746794,
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Semiconductor-Safety-Engineer---New-College-Grad-2023_JR1969405",
@@ -2787,7 +2787,7 @@
         "company_name": "Glean",
         "id": "61eb5256-f83c-47d9-b742-e3ad328cb7c2",
         "title": "Software Engineer \u2013 University Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1693956549,
         "date_posted": 1693956549,
         "url": "https://boards.greenhouse.io/gleanwork/jobs/4006730005",
@@ -2979,7 +2979,7 @@
         "company_name": "Wolverine Trading",
         "id": "a9c870b6-c10f-45c7-9e33-b7880898beef",
         "title": "Entry-Level Software Engineer - Immediate Start",
-        "active": true,
+        "active": false,
         "date_updated": 1694214651,
         "date_posted": 1694214651,
         "url": "https://jobs.lever.co/wolve/9652fd35-2a3c-4443-829d-0f13fa6e5c5a/apply",
@@ -3582,7 +3582,7 @@
         "company_name": "EliseAI",
         "id": "1ad53ccf-5bba-4142-9d1b-fcbec75b6209",
         "title": "Software Engineer \u2013 2024 Campus Grads - 2023",
-        "active": true,
+        "active": false,
         "date_updated": 1694992350,
         "date_posted": 1694992350,
         "url": "https://boards.greenhouse.io/meetelise/jobs/6893159002",
@@ -3646,7 +3646,7 @@
         "company_name": "TuSimple",
         "id": "b3b89679-11b3-4e94-8716-a46209b53950",
         "title": "Map Engine Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1695079332,
         "date_posted": 1695079332,
         "url": "https://boards.greenhouse.io/tusimple/jobs/6909202002",
@@ -3662,7 +3662,7 @@
         "company_name": "TuSimple",
         "id": "8c3cddb0-dfdc-48c4-a846-f1fbcfc10829",
         "title": "Localization Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1695079331,
         "date_posted": 1695079331,
         "url": "https://boards.greenhouse.io/tusimple/jobs/6909191002",
@@ -3710,7 +3710,7 @@
         "company_name": "Salesforce",
         "id": "4bd67c24-6c31-4484-adb6-1e7c865e6906",
         "title": "Software Engineering AMTS \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1695252485,
         "date_posted": 1695252485,
         "url": "https://salesforce.wd12.myworkdayjobs.com/en-us/External_Career_Site/job/Washington---Seattle/Software-Engineering-AMTS_JR214451-2",
@@ -3877,7 +3877,7 @@
         "company_name": "NVIDIA",
         "id": "f0fcb93d-6eb6-4563-b1a5-432bf52ca287",
         "title": "Deep Learning Algorithm Engineer \u2013 New College Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1695781955,
         "date_posted": 1695424140,
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Deep-Learning-Algorithm-Engineer---New-College-Grad_JR1972676-1",
@@ -3982,6 +3982,183 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/XTXMarkets",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Figma",
+        "id": "00806137-949a-4e8f-90da-0dc902be677c",
+        "title": "Business Data Scientist \u2013 Early Career - 2024",
+        "active": true,
+        "date_updated": 1695943319,
+        "date_posted": 1695943319,
+        "url": "https://boards.greenhouse.io/figma/jobs/4985943004",
+        "locations": [
+            "SF",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Figma",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Pinterest",
+        "id": "d8511fd5-3578-40f4-8dc2-1e2ef4e9da03",
+        "title": "University Grad Software Engineer - USA",
+        "active": true,
+        "date_updated": 1695777430,
+        "date_posted": 1695713555,
+        "url": "https://www.pinterestcareers.com/job-form?gh_jid=5377766",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pinterest",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Pinterest",
+        "id": "bd51c2f3-0e6e-42db-8720-9aa50e270f35",
+        "title": "Mobile Engineer University Grad - USA",
+        "active": true,
+        "date_updated": 1695777733,
+        "date_posted": 1695713539,
+        "url": "https://www.pinterestcareers.com/job-form?gh_jid=5379748",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pinterest",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Pomelo",
+        "id": "77210e6c-47c5-4e7f-be61-21edbdad3eff",
+        "title": "Software Engineer \u2013 New Graduates",
+        "active": true,
+        "date_updated": 1695856690,
+        "date_posted": 1695856690,
+        "url": "https://boards.greenhouse.io/pomelo/jobs/4033378007",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/PomeloCard",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Twist Bioscience",
+        "id": "da613b49-f6f0-4147-b425-12fd6603b5cd",
+        "title": "Associate Engineer Bioinformatics - Biopharma Libraries",
+        "active": true,
+        "date_updated": 1695770136,
+        "date_posted": 1695770136,
+        "url": "https://boards.greenhouse.io/twistbioscience/jobs/5366738",
+        "locations": [
+            "San Bruno, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TwistBioscience",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "HBK Capital Management",
+        "id": "5c5e86b4-327d-4c57-9967-4e9c4490bf93",
+        "title": "Systems Developer",
+        "active": true,
+        "date_updated": 1695712796,
+        "date_posted": 1695712796,
+        "url": "https://boards.greenhouse.io/hbkcapitalmanagement/jobs/5312276",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/HBK-CM",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Zoom",
+        "id": "5f071fd6-cccf-4e44-a712-5a8e8cbcb54c",
+        "title": "Video Codec Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1695885327,
+        "date_posted": 1695885327,
+        "url": "https://zoom.wd5.myworkdayjobs.com/Zoom/job/Bay-Area-CA/Video-Codec-Engineer---New-Grad_R12371-1",
+        "locations": [
+            "Oakland, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Zoom",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cantina",
+        "id": "3f290cd0-9e8d-4824-ae25-b41b9b04615a",
+        "title": "Media Software Engineer - Real-Time",
+        "active": true,
+        "date_updated": 1695841534,
+        "date_posted": 1695741964,
+        "url": "https://boards.greenhouse.io/cantina/jobs/1801602",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/CantinaApp",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "FreedomPay",
+        "id": "bf759829-3c69-4d8e-a77b-cad8a383c4e3",
+        "title": "Software Engineer Associate - Device Team",
+        "active": true,
+        "date_updated": 1695714377,
+        "date_posted": 1695714377,
+        "url": "https://jobs.lever.co/freedompay/35ceb29c-8c12-4a9a-88ac-b2f441245e5a/apply",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/FreedomPay",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Boston Dynamics AI Institute",
+        "id": "5f428ba7-5335-42b3-9cb0-7d12c128ab85",
+        "title": "Robot Application Engineer",
+        "active": true,
+        "date_updated": 1695742161,
+        "date_posted": 1695742161,
+        "url": "https://jobs.lever.co/bostondynamicsaiinstitute/d923441d-dc78-4e55-b6b4-9e2cf57e086e/apply",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/BDAI-Institute",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Pinterest",
+        "id": "863d7acf-a689-4891-8bcb-a83db3c1fd55",
+        "title": "University Grad Software Engineer - Palo Alto",
+        "active": true,
+        "date_updated": 1695777752,
+        "date_posted": 1695713554,
+        "url": "https://www.pinterestcareers.com/job-form?gh_jid=5389743",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pinterest",
         "is_visible": true,
         "sponsorship": "Other"
     }
