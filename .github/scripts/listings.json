@@ -2210,7 +2210,7 @@
         "company_name": "Figma",
         "id": "14e32997-f9c8-451b-9623-b1ad53d6a399",
         "title": "Data Scientist \u2013 Early Career - 2024",
-        "active": true,
+        "active": false,
         "date_updated": 1692947680,
         "date_posted": 1692947680,
         "url": "https://boards.greenhouse.io/figma/jobs/4945812004",
@@ -3566,7 +3566,7 @@
         "company_name": "EliseAI",
         "id": "f2de9cf2-1095-4316-8521-729ee37b0da2",
         "title": "Operations \u2013 2024 Campus Grads - 2023",
-        "active": true,
+        "active": false,
         "date_updated": 1694992348,
         "date_posted": 1694992348,
         "url": "https://boards.greenhouse.io/meetelise/jobs/6928855002",
@@ -4103,7 +4103,7 @@
         "company_name": "Cantina",
         "id": "3f290cd0-9e8d-4824-ae25-b41b9b04615a",
         "title": "Media Software Engineer - Real-Time",
-        "active": true,
+        "active": false,
         "date_updated": 1695841534,
         "date_posted": 1695741964,
         "url": "https://boards.greenhouse.io/cantina/jobs/1801602",
@@ -4159,6 +4159,22 @@
             "Palo Alto, CA"
         ],
         "company_url": "https://simplify.jobs/c/Pinterest",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "ServiceNow",
+        "id": "cc3ac67a-ad28-49f9-b864-34b25b439c85",
+        "title": "Utg \u2013 New Grad - Software Quality Engineer",
+        "active": true,
+        "date_updated": 1695971966,
+        "date_posted": 1695971966,
+        "url": "https://jobs.smartrecruiters.com/ServiceNow/743999933709753",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ServiceNow",
         "is_visible": true,
         "sponsorship": "Other"
     }
