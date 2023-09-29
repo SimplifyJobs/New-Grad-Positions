@@ -4071,7 +4071,7 @@
         "company_name": "HBK Capital Management",
         "id": "5c5e86b4-327d-4c57-9967-4e9c4490bf93",
         "title": "Systems Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1695712796,
         "date_posted": 1695712796,
         "url": "https://boards.greenhouse.io/hbkcapitalmanagement/jobs/5312276",
@@ -4175,6 +4175,71 @@
             "San Diego, CA"
         ],
         "company_url": "https://simplify.jobs/c/ServiceNow",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "SoFi",
+        "id": "4e7f7d32-73df-4b22-8b62-b651f332fcc6",
+        "title": "New Grad \u2013 Software Engineer - Borrow",
+        "active": true,
+        "date_updated": 1696001217,
+        "date_posted": 1696001217,
+        "url": "https://www.sofi.com/careers/sofi-university/5749584003?gh_jid=5749584003",
+        "locations": [
+            "Helena, MT"
+        ],
+        "company_url": "https://simplify.jobs/c/SoFi",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Optiver",
+        "id": "a2a6dfd5-1675-45f6-aa42-c6f233c65ff0",
+        "title": "Campus: Software Engineer - 2024 Start - Austin",
+        "active": true,
+        "date_updated": 1696000922,
+        "date_posted": 1696000922,
+        "url": "https://boards.greenhouse.io/optiverinternreferralc4/jobs/6782311002",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Optiver",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "84.51 Degrees",
+        "id": "52b0e7a3-bb11-4a73-8ecc-9fcb5bffe013",
+        "title": "Software Engineer - Development Program 2024",
+        "active": true,
+        "date_updated": 1696000665,
+        "date_posted": 1696000665,
+        "url": "https://boards.greenhouse.io/8451university/jobs/6867242002",
+        "locations": [
+            "Chicago, IL",
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/84-51",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Duolingo",
+        "id": "81638f88-1378-46ba-b9e4-ecd3819d102d",
+        "title": "Product Designer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1696000408,
+        "date_posted": 1696000408,
+        "url": "https://boards.greenhouse.io/duolingo/jobs/6935992002",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Duolingo",
         "is_visible": true,
         "sponsorship": "Other"
     }
