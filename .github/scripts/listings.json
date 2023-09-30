@@ -4274,5 +4274,21 @@
         "company_url": "https://simplify.jobs/c/Palantir",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Chartboost",
+        "id": "7fd4b2c9-99de-4b3a-bf6e-e881a75eea6c",
+        "title": "Data Engineer",
+        "active": true,
+        "date_updated": 1696058057,
+        "date_posted": 1696058057,
+        "url": "https://boards.greenhouse.io/chartboost/jobs/5404685",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Chartboost",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
