@@ -105,7 +105,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[ZipRecruiter](https://simplify.jobs/c/ZipRecruiter)** | Software Engineer – New Grad | Santa Monica, CA | <a href="https://boards.greenhouse.io/ziprecruiter/jobs/5281310?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/4a8618d4-4065-420b-9cb9-ac0283d93e9d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Sep 18 |
 | **Hitachi Vantara** | Technical Customer Success Engineer | Orlando, FL | 🔒 | Sep 18 |
 | **EliseAI** | Software Engineer – 2024 Campus Grads - 2023 | NYC | 🔒 | Sep 17 |
-| **EliseAI** | Operations – 2024 Campus Grads - 2023 | NYC | 🔒 | Sep 17 |
+| **Elise AI** | Operations – 2024 Campus Grads - 2023 | NYC | 🔒 | Sep 17 |
 | **Chartboost** | Software Engineer - Bidder | Remote in USA | 🔒 | Sep 15 |
 | **Relativity Space** | Simulation Engineer I | Long Beach, CA | 🔒 | Sep 15 |
 | **[Capital One](https://simplify.jobs/c/Capital-One)** | FT Associate – New Grad 2024 - Data Analyst | Toronto, ON, Canada | <a href="https://capitalone.wd1.myworkdayjobs.com/Capital_One/job/Toronto-ON/FT-Associate--Data-Analyst--New-Grad-2024-_R174781?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/33f3981b-b7f2-48b7-ab04-f161de57a889?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Sep 15 |
