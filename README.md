@@ -62,7 +62,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
-| **[Chartboost](https://simplify.jobs/c/Chartboost)** | Data Engineer | SF | <a href="https://boards.greenhouse.io/chartboost/jobs/5404685?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/7fd4b2c9-99de-4b3a-bf6e-e881a75eea6c?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Sep 30 |
+| **Chartboost** | Data Engineer | SF | 🔒 | Sep 30 |
 | **[Businessolver](https://simplify.jobs/c/Businessolver)** | Java Engineer I - Work Remotely within the United States | Remote in USA | <a href="https://www.businessolver.com/careers/openings/?gh_jid=5395839&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/b9de6473-715f-43ce-bbc5-295f4f2206ab?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Sep 29 |
 | **[Palantir](https://simplify.jobs/c/Palantir)** | Software Engineer – New Grad | Denver, CO | <a href="https://jobs.lever.co/palantir/c34b424e-caf2-455a-b104-ae1096ccca29/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/7e134007-3fa8-4732-84ca-e7119c8f4116?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Sep 29 |
 | **SoFi** | New Grad – Software Engineer - Borrow | Helena, MT | 🔒 | Sep 29 |
