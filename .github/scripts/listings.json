@@ -4290,5 +4290,21 @@
         "company_url": "https://simplify.jobs/c/Chartboost",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "CDC Foundation",
+        "id": "a7dd9336-c5a6-4942-8902-58f47de45362",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1696260402,
+        "date_posted": 1696260402,
+        "url": "https://jobs.lever.co/cdcfoundation/e4d00857-f444-40f3-8c86-1ca658114b5f/apply",
+        "locations": [
+            "Arizona"
+        ],
+        "company_url": "https://simplify.jobs/c/CDC-Foundation",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
