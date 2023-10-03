@@ -2899,7 +2899,7 @@
         "company_name": "Okta",
         "id": "d6946e37-7f19-4f0a-9001-387e7bc0e9cb",
         "title": "Software Engineer New Grad - Customer Identity Cloud",
-        "active": true,
+        "active": false,
         "date_updated": 1694128238,
         "date_posted": 1694128238,
         "url": "https://www.okta.com/company/careers/opportunity/5325611?gh_jid=5325611",
@@ -3251,7 +3251,7 @@
         "company_name": "Matroid",
         "id": "1aced54c-3be5-48fd-b7c1-081b18518eff",
         "title": "Vision Solutions Field Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1694503116,
         "date_posted": 1694503116,
         "url": "https://matroid.breezy.hr/p/f493393ecb8c/apply",
@@ -4248,7 +4248,7 @@
         "company_name": "Businessolver",
         "id": "b9de6473-715f-43ce-bbc5-295f4f2206ab",
         "title": "Java Engineer I - Work Remotely within the United States",
-        "active": true,
+        "active": false,
         "date_updated": 1696029536,
         "date_posted": 1696029536,
         "url": "https://www.businessolver.com/careers/openings/?gh_jid=5395839",
@@ -4304,6 +4304,22 @@
             "Arizona"
         ],
         "company_url": "https://simplify.jobs/c/CDC-Foundation",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Applied Intuition",
+        "id": "feae57c5-bd69-4c29-aa99-8299b7f8854e",
+        "title": "Embedded Software Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1696288627,
+        "date_posted": 1696288627,
+        "url": "https://boards.greenhouse.io/appliedintuition/jobs/4319633005",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Intuition",
         "is_visible": true,
         "sponsorship": "Other"
     }
