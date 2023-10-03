@@ -3845,7 +3845,7 @@
         "company_name": "OptionMetrics",
         "id": "c853cb41-eaaf-4b08-b49a-408be8709bb6",
         "title": "IT Operations Engineering Manager",
-        "active": false,
+        "active": true,
         "date_updated": 1695337932,
         "date_posted": 1695337932,
         "url": "https://jobs.lever.co/optionmetrics/0d16df55-785c-44ce-8b1c-33b9390db710/apply",
@@ -4119,7 +4119,7 @@
         "company_name": "FreedomPay",
         "id": "bf759829-3c69-4d8e-a77b-cad8a383c4e3",
         "title": "Software Engineer Associate - Device Team",
-        "active": true,
+        "active": false,
         "date_updated": 1695714377,
         "date_posted": 1695714377,
         "url": "https://jobs.lever.co/freedompay/35ceb29c-8c12-4a9a-88ac-b2f441245e5a/apply",
@@ -4368,6 +4368,22 @@
             "Austin, TX"
         ],
         "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RVO Health",
+        "id": "bb5e31be-4ccc-499d-b4d8-365c74648866",
+        "title": "2024 Early Career Program: Business Analysis Associate",
+        "active": true,
+        "date_updated": 1696346480,
+        "date_posted": 1696346480,
+        "url": "https://boards.greenhouse.io/rvohealth/jobs/4324509005",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/RVO-Health",
         "is_visible": true,
         "sponsorship": "Other"
     }
