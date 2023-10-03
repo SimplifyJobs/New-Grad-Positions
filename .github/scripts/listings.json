@@ -4322,5 +4322,53 @@
         "company_url": "https://simplify.jobs/c/Applied-Intuition",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Visa",
+        "id": "c39194e5-55e6-4fc0-9da8-9672c5454e01",
+        "title": "Software Engineer - New College Grad-2024",
+        "active": true,
+        "date_updated": 1696317095,
+        "date_posted": 1696317095,
+        "url": "https://jobs.smartrecruiters.com/Visa/743999934441238",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Visa",
+        "id": "ab85a90d-960f-4649-8af7-cf47b6335ce7",
+        "title": "Software Engineer - New College Grad-2024",
+        "active": true,
+        "date_updated": 1696317094,
+        "date_posted": 1696317094,
+        "url": "https://jobs.smartrecruiters.com/Visa/743999934410984",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Visa",
+        "id": "e87aeacc-3896-4c8b-b030-df93eacafb03",
+        "title": "Software Engineer - New College Grad-2024",
+        "active": true,
+        "date_updated": 1696317095,
+        "date_posted": 1696317095,
+        "url": "https://jobs.smartrecruiters.com/Visa/743999934440210",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
