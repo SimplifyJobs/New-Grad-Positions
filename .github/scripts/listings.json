@@ -116,7 +116,7 @@
         "company_name": "Vestmark",
         "id": "20cc80aa-9a86-4b1c-bbb0-6719bb631798",
         "title": "VAS Trader",
-        "active": true,
+        "active": false,
         "date_updated": 1694723131,
         "date_posted": 1692140976,
         "url": "https://boards.greenhouse.io/vestmark/jobs/5284315",
@@ -3251,7 +3251,7 @@
         "company_name": "Matroid",
         "id": "1aced54c-3be5-48fd-b7c1-081b18518eff",
         "title": "Vision Solutions Field Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1694503116,
         "date_posted": 1694503116,
         "url": "https://matroid.breezy.hr/p/f493393ecb8c/apply",
@@ -4199,7 +4199,7 @@
         "company_name": "Optiver",
         "id": "a2a6dfd5-1675-45f6-aa42-c6f233c65ff0",
         "title": "Campus: Software Engineer - 2024 Start - Austin",
-        "active": false,
+        "active": true,
         "date_updated": 1696000922,
         "date_posted": 1696000922,
         "url": "https://boards.greenhouse.io/optiverinternreferralc4/jobs/6782311002",
@@ -4215,7 +4215,7 @@
         "company_name": "84.51 Degrees",
         "id": "52b0e7a3-bb11-4a73-8ecc-9fcb5bffe013",
         "title": "Software Engineer - Development Program 2024",
-        "active": false,
+        "active": true,
         "date_updated": 1696000665,
         "date_posted": 1696000665,
         "url": "https://boards.greenhouse.io/8451university/jobs/6867242002",
@@ -4384,6 +4384,72 @@
             "Charlotte, NC"
         ],
         "company_url": "https://simplify.jobs/c/RVO-Health",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Chartboost",
+        "id": "d433f06f-a335-4d97-9a15-241d71f0b1d3",
+        "title": "Software Engineer - Bidder",
+        "active": true,
+        "date_updated": 1696461389,
+        "date_posted": 1696461389,
+        "url": "https://boards.greenhouse.io/chartboost/jobs/5412362",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Chartboost",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Brain Technologies",
+        "id": "dbbc934f-fd0f-47fb-9480-1f7f0b120d89",
+        "title": "NLP Fellow",
+        "active": true,
+        "date_updated": 1696461290,
+        "date_posted": 1696461290,
+        "url": "https://boards.greenhouse.io/braintechnologies/jobs/4989817004",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/brain-technologies",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NVIDIA",
+        "id": "26cd6170-7a9a-41d0-bfab-75ae1af6d1ad",
+        "title": "Compiler Engineer \u2013 New College Grad - LLVM",
+        "active": true,
+        "date_updated": 1696460770,
+        "date_posted": 1696460770,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Compiler-Engineer--LLVM---New-College-Grad_JR1973221-1",
+        "locations": [
+            "Austin, TX",
+            "Redmond, WA",
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Rackspace Technology",
+        "id": "e0a06e44-a3a7-41d1-b14e-75728f389619",
+        "title": "Python Developer II / III",
+        "active": true,
+        "date_updated": 1696440135,
+        "date_posted": 1696440135,
+        "url": "https://jobs.lever.co/rackspace/29ac76e7-dbfd-49a7-9fa4-ce5b444cd2f4/apply",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/Rackspace-Technology",
         "is_visible": true,
         "sponsorship": "Other"
     }
