@@ -4409,14 +4409,14 @@
         "id": "dbbc934f-fd0f-47fb-9480-1f7f0b120d89",
         "title": "NLP Fellow",
         "active": true,
-        "date_updated": 1696461290,
+        "date_updated": 1696929415,
         "date_posted": 1696461290,
         "url": "https://boards.greenhouse.io/braintechnologies/jobs/4989817004",
         "locations": [
             "Remote"
         ],
         "company_url": "https://simplify.jobs/c/brain-technologies",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
