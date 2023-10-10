@@ -4507,14 +4507,14 @@
         "id": "b6e40c7a-23d7-4364-82cb-78eb1fb1644d",
         "title": "Software Engineer II - Cloud Infrastructure",
         "active": true,
-        "date_updated": 1696922922,
+        "date_updated": 1696929364,
         "date_posted": 1696922922,
         "url": "https://careers.abnormalsecurity.com/jobs/5760926003?gh_jid=5760926003",
         "locations": [
             "Remote"
         ],
         "company_url": "https://simplify.jobs/c/Abnormal-Security",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
