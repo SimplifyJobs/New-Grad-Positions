@@ -261,7 +261,7 @@
         "company_name": "Gecko Robotics",
         "id": "5397a10b-c7d2-4f2e-9084-48738433d60d",
         "title": "Robotics \u2013 New Grad - Localization Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1691623756,
         "date_posted": 1691623756,
         "url": "https://www.geckorobotics.com/careers/apply?gh_jid=5709289003",
@@ -1728,7 +1728,7 @@
         "company_name": "Jump Trading",
         "id": "a2563ed5-bb87-41d2-aa54-c4585c79b9aa",
         "title": "Campus Quantitative Researcher - Full-Time",
-        "active": false,
+        "active": true,
         "date_updated": 1692637880,
         "date_posted": 1692343958,
         "url": "https://boards.greenhouse.io/embed/job_app?token=5286900",
@@ -2995,7 +2995,7 @@
         "company_name": "Samsara",
         "id": "3be658f3-3aa9-481f-b33d-2bb81088788a",
         "title": "Software Engineer \u2013 New Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1694243150,
         "date_posted": 1694243150,
         "url": "https://boards.greenhouse.io/samsara/jobs/5273880",
@@ -3011,7 +3011,7 @@
         "company_name": "Sony Music Entertainment",
         "id": "32961dbc-0688-45c2-8f1f-2a9ef7248e2d",
         "title": "Data Analytics Rotation Training Program-2024",
-        "active": true,
+        "active": false,
         "date_updated": 1694416213,
         "date_posted": 1694416213,
         "url": "https://boards.greenhouse.io/sonymusic/jobs/6916340002",
@@ -3582,7 +3582,7 @@
         "company_name": "EliseAI",
         "id": "1ad53ccf-5bba-4142-9d1b-fcbec75b6209",
         "title": "Software Engineer \u2013 2024 Campus Grads - 2023",
-        "active": true,
+        "active": false,
         "date_updated": 1694992350,
         "date_posted": 1694992350,
         "url": "https://boards.greenhouse.io/meetelise/jobs/6893159002",
@@ -3710,7 +3710,7 @@
         "company_name": "Salesforce",
         "id": "4bd67c24-6c31-4484-adb6-1e7c865e6906",
         "title": "Software Engineering AMTS \u2013 New Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1695252485,
         "date_posted": 1695252485,
         "url": "https://salesforce.wd12.myworkdayjobs.com/en-us/External_Career_Site/job/Washington---Seattle/Software-Engineering-AMTS_JR214451-2",
@@ -4215,7 +4215,7 @@
         "company_name": "84.51 Degrees",
         "id": "52b0e7a3-bb11-4a73-8ecc-9fcb5bffe013",
         "title": "Software Engineer - Development Program 2024",
-        "active": true,
+        "active": false,
         "date_updated": 1696000665,
         "date_posted": 1696000665,
         "url": "https://boards.greenhouse.io/8451university/jobs/6867242002",
@@ -4450,6 +4450,183 @@
             "Remote"
         ],
         "company_url": "https://simplify.jobs/c/Rackspace-Technology",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Forward",
+        "id": "69ee35be-0ef9-4b03-ab2b-941c9402d9db",
+        "title": "Software Engineer \u2013 Entry Level - Full Stack",
+        "active": true,
+        "date_updated": 1696923440,
+        "date_posted": 1696923440,
+        "url": "https://jobs.lever.co/goforward/073d1961-b3fd-4515-a7a4-a34a2eedb74a/apply",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Forward",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NimbleRx",
+        "id": "2fd5d0a4-8aaf-4447-ac69-2af5d4b4e27b",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1696923027,
+        "date_posted": 1696923027,
+        "url": "https://jobs.lever.co/nimblerx/9b498e97-4f4e-48a9-9504-0bc5f0dc2bee/apply",
+        "locations": [
+            "San Carlos, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NimbleRx",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Abnormal Security",
+        "id": "76246157-65d4-4833-aa88-636eb1891ac9",
+        "title": "Software Engineer II - Cloud Infrastructure",
+        "active": true,
+        "date_updated": 1696922923,
+        "date_posted": 1696922923,
+        "url": "https://careers.abnormalsecurity.com/jobs/5760906003?gh_jid=5760906003",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Abnormal-Security",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Abnormal Security",
+        "id": "b6e40c7a-23d7-4364-82cb-78eb1fb1644d",
+        "title": "Software Engineer II - Cloud Infrastructure",
+        "active": true,
+        "date_updated": 1696922922,
+        "date_posted": 1696922922,
+        "url": "https://careers.abnormalsecurity.com/jobs/5760926003?gh_jid=5760926003",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/Abnormal-Security",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NVIDIA",
+        "id": "4586c131-1c8d-4228-85e8-99bdc5784e67",
+        "title": "Silicon Solution Engineer \u2013 New College Grad 2024",
+        "active": true,
+        "date_updated": 1696922870,
+        "date_posted": 1696922870,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Silicon-Solution-Engineer---New-College-Grad-2024_JR1973425",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Sprout Social",
+        "id": "bd7bdc83-7911-4688-bec0-703699036b03",
+        "title": "Associate Software Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1696922850,
+        "date_posted": 1696922850,
+        "url": "https://sproutsocial.com/careers/open-positions/5279268/?gh_jid=5279268",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/SproutSocial",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NVIDIA",
+        "id": "21f28825-7df9-4707-a3f2-e963c152b6ba",
+        "title": "Infrastructure Engineer \u2013 New College Grad 2024",
+        "active": true,
+        "date_updated": 1696922836,
+        "date_posted": 1696922836,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/Canada-Toronto/Infrastructure-Engineer---New-College-Grad-2024_JR1973573",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Relativity",
+        "id": "c06d8364-862f-4cf2-b0dc-de1c5eba625f",
+        "title": ".NET Software Engineer - Remote",
+        "active": true,
+        "date_updated": 1696922803,
+        "date_posted": 1696922803,
+        "url": "https://jobs.lever.co/relativity/1439212c-09f0-4256-b904-f7b5558be566/apply",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/Relativity",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Grammarly",
+        "id": "f1b5d425-a780-426d-a5b1-7ffb9550576c",
+        "title": "Software Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1696922612,
+        "date_posted": 1696922612,
+        "url": "https://boards.greenhouse.io/grammarly/jobs/5425114",
+        "locations": [
+            "Remote in USA",
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Grammarly",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Sonatype",
+        "id": "2f74402e-505c-4435-a813-cb66a7dd06ce",
+        "title": "Associate Data Engineer",
+        "active": true,
+        "date_updated": 1696922364,
+        "date_posted": 1696922364,
+        "url": "https://jobs.lever.co/sonatype/849c215b-83d5-4fed-9b89-7857f67fe81b/apply",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/Sonatype",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "AXS",
+        "id": "9c5854f7-2161-4a52-9939-9d62b797684b",
+        "title": "Associate Software Engineer II",
+        "active": true,
+        "date_updated": 1696922182,
+        "date_posted": 1696922182,
+        "url": "https://boards.greenhouse.io/axs/jobs/6945523002",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/AXScom",
         "is_visible": true,
         "sponsorship": "Other"
     }
