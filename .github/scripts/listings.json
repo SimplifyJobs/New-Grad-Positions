@@ -4604,14 +4604,14 @@
         "id": "2f74402e-505c-4435-a813-cb66a7dd06ce",
         "title": "Associate Data Engineer",
         "active": true,
-        "date_updated": 1696922364,
+        "date_updated": 1696929398,
         "date_posted": 1696922364,
         "url": "https://jobs.lever.co/sonatype/849c215b-83d5-4fed-9b89-7857f67fe81b/apply",
         "locations": [
             "Remote"
         ],
         "company_url": "https://simplify.jobs/c/Sonatype",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
