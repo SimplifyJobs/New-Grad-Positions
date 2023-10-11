@@ -357,7 +357,7 @@
         "company_name": "Palantir",
         "id": "1f6bee99-9cca-467c-a0b3-899d61139a03",
         "title": "Forward Deployed Software Engineer \u2013 New Grad - US Government",
-        "active": false,
+        "active": true,
         "date_updated": 1691421162,
         "date_posted": 1691421162,
         "url": "https://jobs.lever.co/palantir/d1ac83d0-e923-42a5-8e6d-58dd0cab25ca/apply",
@@ -2387,7 +2387,7 @@
         "company_name": "Stripe",
         "id": "0ebc4abe-2620-4172-bc5e-10aa8bd34928",
         "title": "Software Engineering \u2013 New Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1693379853,
         "date_posted": 1693379853,
         "url": "https://stripe.com/jobs/search?gh_jid=5318696",
@@ -3845,7 +3845,7 @@
         "company_name": "OptionMetrics",
         "id": "c853cb41-eaaf-4b08-b49a-408be8709bb6",
         "title": "IT Operations Engineering Manager",
-        "active": false,
+        "active": true,
         "date_updated": 1695337932,
         "date_posted": 1695337932,
         "url": "https://jobs.lever.co/optionmetrics/0d16df55-785c-44ce-8b1c-33b9390db710/apply",
@@ -4199,7 +4199,7 @@
         "company_name": "Optiver",
         "id": "a2a6dfd5-1675-45f6-aa42-c6f233c65ff0",
         "title": "Campus: Software Engineer - 2024 Start - Austin",
-        "active": false,
+        "active": true,
         "date_updated": 1696000922,
         "date_posted": 1696000922,
         "url": "https://boards.greenhouse.io/optiverinternreferralc4/jobs/6782311002",
@@ -4627,6 +4627,102 @@
             "LA"
         ],
         "company_url": "https://simplify.jobs/c/AXScom",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Zoom",
+        "id": "eae33a34-04bf-4359-93a8-f24c2233cddf",
+        "title": "AI Machine Learning Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1697009217,
+        "date_posted": 1697009217,
+        "url": "https://zoom.wd5.myworkdayjobs.com/Zoom/job/Bay-Area-CA/AI-Machine-Learning-Engineer---New-Grad_R12438-1",
+        "locations": [
+            "Oakland, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Zoom",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Zoom",
+        "id": "68c86908-ab12-489e-9e9a-0706477a3b3d",
+        "title": "AI Machine Learning Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1697009216,
+        "date_posted": 1697009216,
+        "url": "https://zoom.wd5.myworkdayjobs.com/Zoom/job/Bay-Area-CA/AI-Machine-Learning-Engineer---New-Grad_R12439-1",
+        "locations": [
+            "Oakland, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Zoom",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Zoom",
+        "id": "2b97493b-d362-4e31-91fc-9c31afbccf66",
+        "title": "AI Machine Learning Speech Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1697009216,
+        "date_posted": 1697009216,
+        "url": "https://zoom.wd5.myworkdayjobs.com/Zoom/job/Bay-Area-CA/AI-Machine-Learning-Speech-Engineer---New-Grad_R12440-2",
+        "locations": [
+            "Oakland, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Zoom",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Zoom",
+        "id": "4376eb62-712b-403f-afa6-23cba4aa6399",
+        "title": "AI Machine Learning Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1697009216,
+        "date_posted": 1697009216,
+        "url": "https://zoom.wd5.myworkdayjobs.com/Zoom/job/Bay-Area-CA/AI-Machine-Learning-Engineer---New-Grad_R12437-1",
+        "locations": [
+            "Oakland, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Zoom",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NVIDIA",
+        "id": "2b3b00e6-e994-4d77-8f05-4b856b44650f",
+        "title": "Solutions Architect \u2013 New College Grad - Wwfo",
+        "active": true,
+        "date_updated": 1697008988,
+        "date_posted": 1697008988,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Solutions-Architect--WWFO---New-College-Grad_JR1970906-1",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Qumulo",
+        "id": "a8073961-2f91-4938-a1fb-721cb7c8be9a",
+        "title": "Software Development Engineer: Entry-Level - 2024",
+        "active": true,
+        "date_updated": 1697008857,
+        "date_posted": 1697008857,
+        "url": "https://boards.greenhouse.io/qumulo/jobs/5427091",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Qumulo",
         "is_visible": true,
         "sponsorship": "Other"
     }
