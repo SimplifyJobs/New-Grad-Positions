@@ -4805,5 +4805,22 @@
         "date_posted": 1697150803,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1697150818,
+        "url": "https://app.ripplematch.com/v2/public/job/d7342288/details",
+        "company_name": "Figma",
+        "title": "Associate Product Manager, Early Career (2024)",
+        "locations": [
+            "San Francisco, CA",
+            "New York, NY,"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "mtlogs",
+        "id": "2140157d-3b65-4133-869b-9af908a27689",
+        "date_posted": 1697150818,
+        "company_url": "",
+        "is_visible": true
     }
 ]
