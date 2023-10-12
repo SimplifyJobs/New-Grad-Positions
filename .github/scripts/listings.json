@@ -4789,5 +4789,21 @@
         "date_posted": 1697150786,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1697150803,
+        "url": "https://cummins.jobs/columbus-in/software-engineering-entry-level-full-time-positions/5DC8B81CE0244B7A903DFD6D251C7A74/job/?vs=7000",
+        "company_name": "Cummins",
+        "title": "Software Engineer Entry Level Full Time Positions",
+        "locations": [
+            "Columbus, Indiana"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "why-karthik",
+        "id": "a839a488-44c7-4669-8de8-a34da7d08a8e",
+        "date_posted": 1697150803,
+        "company_url": "",
+        "is_visible": true
     }
 ]
