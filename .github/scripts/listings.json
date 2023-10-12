@@ -1953,7 +1953,7 @@
         "company_name": "CDC Foundation",
         "id": "bd0a7d63-ad07-4711-8edf-ccf978dcc09d",
         "title": "Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1694892608,
         "date_posted": 1692717626,
         "url": "https://jobs.lever.co/cdcfoundation/5f857154-a898-468a-b18d-47d5e94669d4/apply",
@@ -2915,7 +2915,7 @@
         "company_name": "Wellington Management",
         "id": "ca4a0b28-9b85-4422-83f8-7a048122996a",
         "title": "Software Engineering Track \u2013 Investment Services & Technology Early Career Program - Class of 2024 - Boston",
-        "active": true,
+        "active": false,
         "date_updated": 1694128314,
         "date_posted": 1694128314,
         "url": "https://wellington.wd5.myworkdayjobs.com/Campus/job/Boston-MA-United-States/Software-Engineering-Track---Investment-Services---Technology-Early-Career-Program--Class-of-2024--Boston_R89503",
@@ -3075,7 +3075,7 @@
         "company_name": "Perpay",
         "id": "87535675-cdd3-44ea-b36f-622b1a2be47b",
         "title": "Software Engineer \u2013 New Grad 2024",
-        "active": false,
+        "active": true,
         "date_updated": 1694474200,
         "date_posted": 1694474200,
         "url": "https://boards.greenhouse.io/perpay/jobs/4034578007",
@@ -3710,7 +3710,7 @@
         "company_name": "Salesforce",
         "id": "4bd67c24-6c31-4484-adb6-1e7c865e6906",
         "title": "Software Engineering AMTS \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1695252485,
         "date_posted": 1695252485,
         "url": "https://salesforce.wd12.myworkdayjobs.com/en-us/External_Career_Site/job/Washington---Seattle/Software-Engineering-AMTS_JR214451-2",
@@ -4723,6 +4723,54 @@
             "Seattle, WA"
         ],
         "company_url": "https://simplify.jobs/c/Qumulo",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Palantir",
+        "id": "cc9946c2-f2b2-40f7-90aa-d42161650946",
+        "title": "Product Designer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1697066432,
+        "date_posted": 1697066432,
+        "url": "https://jobs.lever.co/palantir/fad33b90-3cb4-4198-8bf1-6d741ca96943/apply",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Palantir",
+        "id": "53266dfa-5b39-4d29-9a9c-7e1f19bf4bfc",
+        "title": "Product Designer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1697066432,
+        "date_posted": 1697066432,
+        "url": "https://jobs.lever.co/palantir/4c0fb3a1-8256-4d14-9a27-23727235752e/apply",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Tenstorrent",
+        "id": "8e1f1902-a9ff-47fe-91b6-58220b4f6720",
+        "title": "Physical Design Engineer \u2013 New Grad - AI/CPU Silicon Design",
+        "active": true,
+        "date_updated": 1697066062,
+        "date_posted": 1697066062,
+        "url": "https://jobs.lever.co/tenstorrent/313dc047-a6b7-4012-ad43-2f0c5038c03b/apply",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Tenstorrent",
         "is_visible": true,
         "sponsorship": "Other"
     }
