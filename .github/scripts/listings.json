@@ -4773,5 +4773,21 @@
         "company_url": "https://simplify.jobs/c/Tenstorrent",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1697150786,
+        "url": "https://www.wayfair.com/careers/job/software-engineer-i/6945942002",
+        "company_name": "Wayfair",
+        "title": "Software Engineer I - Summer 2024",
+        "locations": [
+            "Boston, Massachusetts"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "ramirezfernando",
+        "id": "d2b41c21-d843-42a0-a920-2d4c3e89cd00",
+        "date_posted": 1697150786,
+        "company_url": "",
+        "is_visible": true
     }
 ]
