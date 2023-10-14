@@ -4135,7 +4135,7 @@
         "company_name": "Boston Dynamics AI Institute",
         "id": "5f428ba7-5335-42b3-9cb0-7d12c128ab85",
         "title": "Robot Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1695742161,
         "date_posted": 1695742161,
         "url": "https://jobs.lever.co/bostondynamicsaiinstitute/d923441d-dc78-4e55-b6b4-9e2cf57e086e/apply",
@@ -4619,7 +4619,7 @@
         "company_name": "AXS",
         "id": "9c5854f7-2161-4a52-9939-9d62b797684b",
         "title": "Associate Software Engineer II",
-        "active": false,
+        "active": true,
         "date_updated": 1696922182,
         "date_posted": 1696922182,
         "url": "https://boards.greenhouse.io/axs/jobs/6945523002",
@@ -4836,6 +4836,38 @@
             "Santa Clara, CA"
         ],
         "company_url": "https://simplify.jobs/c/ServiceNow",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Immuta",
+        "id": "deb81969-ead8-408e-8181-a4675e339cdb",
+        "title": "Software Engineer - Application Support",
+        "active": true,
+        "date_updated": 1697241460,
+        "date_posted": 1697241460,
+        "url": "https://jobs.lever.co/immuta/1bf0d39c-a5a3-4d4f-a625-80945fad56c1/apply",
+        "locations": [
+            "Hyattsville, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Immuta",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Immuta",
+        "id": "6b610ba1-107a-4037-b8e6-85e17f2ed2a9",
+        "title": "Software Engineer - Application Support",
+        "active": true,
+        "date_updated": 1697241457,
+        "date_posted": 1697241457,
+        "url": "https://jobs.lever.co/immuta/59fa1e60-7958-4143-906a-446854707fe1/apply",
+        "locations": [
+            "Hyattsville, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Immuta",
         "is_visible": true,
         "sponsorship": "Other"
     }
