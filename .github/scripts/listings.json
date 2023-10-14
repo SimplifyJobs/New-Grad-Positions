@@ -469,7 +469,7 @@
         "company_name": "Belvedere Trading",
         "id": "8fef7a51-952a-44ff-a6c3-3e8bc7ff7106",
         "title": "Software Engineer \u2013 Entry Level 2024 Chicago",
-        "active": true,
+        "active": false,
         "date_updated": 1691600802,
         "date_posted": 1691162359,
         "url": "https://jobs.lever.co/belvederetrading/d9596403-6195-4af3-9e41-279d2dd6ef4e/apply",
@@ -4538,7 +4538,7 @@
         "company_name": "Sprout Social",
         "id": "bd7bdc83-7911-4688-bec0-703699036b03",
         "title": "Associate Software Engineer \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1696922850,
         "date_posted": 1696922850,
         "url": "https://sproutsocial.com/careers/open-positions/5279268/?gh_jid=5279268",
@@ -4586,7 +4586,7 @@
         "company_name": "Grammarly",
         "id": "f1b5d425-a780-426d-a5b1-7ffb9550576c",
         "title": "Software Engineer \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1696922612,
         "date_posted": 1696922612,
         "url": "https://boards.greenhouse.io/grammarly/jobs/5425114",
@@ -4619,7 +4619,7 @@
         "company_name": "AXS",
         "id": "9c5854f7-2161-4a52-9939-9d62b797684b",
         "title": "Associate Software Engineer II",
-        "active": true,
+        "active": false,
         "date_updated": 1696922182,
         "date_posted": 1696922182,
         "url": "https://boards.greenhouse.io/axs/jobs/6945523002",
@@ -4868,6 +4868,22 @@
             "Hyattsville, MD"
         ],
         "company_url": "https://simplify.jobs/c/Immuta",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Jane Street",
+        "id": "2c146167-9f53-4769-8ea1-1d63f19b6d00",
+        "title": "Operations Specialist",
+        "active": true,
+        "date_updated": 1697242202,
+        "date_posted": 1697242202,
+        "url": "https://boards.greenhouse.io/janestreet/jobs/6971131002",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Jane-Street",
         "is_visible": true,
         "sponsorship": "Other"
     }
