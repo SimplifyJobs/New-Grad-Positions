@@ -4909,14 +4909,14 @@
         "id": "66ef22a4-a749-4b77-b3f9-b4615aefe5af",
         "title": "Student Developer",
         "active": true,
-        "date_updated": 1697671405,
+        "date_updated": 1697747029,
         "date_posted": 1697671405,
         "url": "https://boards.greenhouse.io/wil/jobs/1448818",
         "locations": [
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/def2202a-6a24-4c34-84ce-f6a882c8602b",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
