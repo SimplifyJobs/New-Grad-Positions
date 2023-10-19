@@ -4893,14 +4893,14 @@
         "id": "f8e79e25-88f2-4d28-97be-89ab03055a8f",
         "title": "Member of Technical Staff - Search",
         "active": true,
-        "date_updated": 1697671593,
+        "date_updated": 1697747067,
         "date_posted": 1697671593,
         "url": "https://jobs.lever.co/cohere/96c34a55-cc04-4ff8-9b41-2bb3b124e7a3/apply",
         "locations": [
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/Cohere",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
