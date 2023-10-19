@@ -2531,7 +2531,7 @@
         "company_name": "ServiceNow",
         "id": "7b611fe4-090f-4ca0-95ae-fcc4901e02a2",
         "title": "Finance Development Rotation Program \u2013 New Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1694722896,
         "date_posted": 1693523676,
         "url": "https://jobs.smartrecruiters.com/ServiceNow/743999927720948",
@@ -3453,7 +3453,7 @@
         "company_name": "Riot Games",
         "id": "7d840305-038a-470c-bc03-eb6852ce02bc",
         "title": "Analyst \u2013 Competitive and Social & Player Dynamics - Valorant",
-        "active": false,
+        "active": true,
         "date_updated": 1694646648,
         "date_posted": 1694646648,
         "url": "https://www.riotgames.com/en/work-with-us/job/5107759?gh_jid=5107759",
@@ -3518,7 +3518,7 @@
         "company_name": "Capital One",
         "id": "e28996ca-2351-4469-9c1a-d180df10bdfe",
         "title": "Associate \u2013 FT New Grad 2024 - Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1694819754,
         "date_posted": 1694819754,
         "url": "https://capitalone.wd1.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--FT-New-Grad-2024-_R174779",
@@ -3845,7 +3845,7 @@
         "company_name": "OptionMetrics",
         "id": "c853cb41-eaaf-4b08-b49a-408be8709bb6",
         "title": "IT Operations Engineering Manager",
-        "active": false,
+        "active": true,
         "date_updated": 1695337932,
         "date_posted": 1695337932,
         "url": "https://jobs.lever.co/optionmetrics/0d16df55-785c-44ce-8b1c-33b9390db710/apply",
@@ -4199,7 +4199,7 @@
         "company_name": "Optiver",
         "id": "a2a6dfd5-1675-45f6-aa42-c6f233c65ff0",
         "title": "Campus: Software Engineer - 2024 Start - Austin",
-        "active": false,
+        "active": true,
         "date_updated": 1696000922,
         "date_posted": 1696000922,
         "url": "https://boards.greenhouse.io/optiverinternreferralc4/jobs/6782311002",
@@ -4280,7 +4280,7 @@
         "company_name": "Chartboost",
         "id": "7fd4b2c9-99de-4b3a-bf6e-e881a75eea6c",
         "title": "Data Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1696058057,
         "date_posted": 1696058057,
         "url": "https://boards.greenhouse.io/chartboost/jobs/5404685",
@@ -4828,7 +4828,7 @@
         "company_name": "ServiceNow",
         "id": "c41304a4-01ed-4a65-aa9e-adb1a8a76440",
         "title": "Finance Development Rotation Program \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1697181263,
         "date_posted": 1697181263,
         "url": "https://jobs.smartrecruiters.com/ServiceNow/743999937036913",
@@ -4884,6 +4884,111 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Jane-Street",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cohere",
+        "id": "f8e79e25-88f2-4d28-97be-89ab03055a8f",
+        "title": "Member of Technical Staff - Search",
+        "active": true,
+        "date_updated": 1697671593,
+        "date_posted": 1697671593,
+        "url": "https://jobs.lever.co/cohere/96c34a55-cc04-4ff8-9b41-2bb3b124e7a3/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Cohere",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Waterfront International",
+        "id": "66ef22a4-a749-4b77-b3f9-b4615aefe5af",
+        "title": "Student Developer",
+        "active": true,
+        "date_updated": 1697671405,
+        "date_posted": 1697671405,
+        "url": "https://boards.greenhouse.io/wil/jobs/1448818",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/def2202a-6a24-4c34-84ce-f6a882c8602b",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "The Athletic Media Company",
+        "id": "dbc53418-8fec-4c6b-b5cb-aa5562224357",
+        "title": "Software Engineer - Full Stack - Australia",
+        "active": true,
+        "date_updated": 1697671299,
+        "date_posted": 1697671299,
+        "url": "https://jobs.lever.co/theathletic/85315367-9c86-42e4-8987-9d2c8b6d538b/apply",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Athletic-Media-Company",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Loop",
+        "id": "407be627-e0f0-4a48-9e97-5215c31a0436",
+        "title": "Software Engineer \u2013 2024 New Grad",
+        "active": true,
+        "date_updated": 1697671056,
+        "date_posted": 1697671056,
+        "url": "https://boards.greenhouse.io/loop/jobs/4998105004",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/818d871b-7677-4426-a53b-7199dbe1039e",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Loop",
+        "id": "bc3d1530-94fd-42cd-a021-6a5406061a1f",
+        "title": "Software Engineer \u2013 2024 New Grad",
+        "active": true,
+        "date_updated": 1697671053,
+        "date_posted": 1697671053,
+        "url": "https://boards.greenhouse.io/loop/jobs/4998106004",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/818d871b-7677-4426-a53b-7199dbe1039e",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Salesforce",
+        "id": "d669f72f-5219-4d43-a435-edac0fb27f20",
+        "title": "Software Engineering AMTS/MTS \u2013 New Grad",
+        "active": true,
+        "date_updated": 1697670622,
+        "date_posted": 1697670622,
+        "url": "https://salesforce.wd12.myworkdayjobs.com/en-us/External_Career_Site/job/California---San-Francisco/MTS-Software-Engineer_JR214486-1",
+        "locations": [
+            "Cambridge, MA",
+            "Seattle, WA",
+            "Indianapolis, IN",
+            "SF",
+            "Remote in USA",
+            "Chicago, IL",
+            "NYC",
+            "Bellevue, WA",
+            "Atlanta, GA",
+            "Burlington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Salesforce",
         "is_visible": true,
         "sponsorship": "Other"
     }
