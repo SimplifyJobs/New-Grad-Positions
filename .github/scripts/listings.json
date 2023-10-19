@@ -2451,7 +2451,7 @@
         "company_name": "Ramp",
         "id": "ebe01b3a-3eff-478b-baa4-8981955031a1",
         "title": "New Grad 2024 - Software Engineer - Backend",
-        "active": true,
+        "active": false,
         "date_updated": 1693437422,
         "date_posted": 1693437422,
         "url": "https://jobs.ashbyhq.com/ramp/29663a4b-c457-4a38-bbdf-069f189b20eb/application",
@@ -2707,7 +2707,7 @@
         "company_name": "RVO Health",
         "id": "74246609-2ccf-408e-b917-f14a301ed26f",
         "title": "2024 Early Career Program: Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1693581573,
         "date_posted": 1693581573,
         "url": "https://boards.greenhouse.io/rvohealth/jobs/4302889005",
@@ -4989,6 +4989,22 @@
             "Burlington, MA"
         ],
         "company_url": "https://simplify.jobs/c/Salesforce",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Parallel",
+        "id": "0efcae3e-bab0-4873-b45e-1ed5e6bda1af",
+        "title": "Supply Chain Analyst",
+        "active": true,
+        "date_updated": 1697727960,
+        "date_posted": 1697727960,
+        "url": "https://boards.greenhouse.io/paralleljobs/jobs/6979570002",
+        "locations": [
+            "Franklin, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/b3bc9e4f-4d8b-401b-bc34-e8b6a82eba5d",
         "is_visible": true,
         "sponsorship": "Other"
     }
