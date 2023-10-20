@@ -199,12 +199,12 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[January](https://simplify.jobs/c/January)** | Software Engineer - New York City | NYC | <a href="https://boards.greenhouse.io/january/jobs/4017063007?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/45c9e42a-982e-40ba-adf0-58ea2308e370?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Aug 31 |
 | **January** | Software Engineer - San Francisco | SF | 🔒 | Aug 31 |
 | **Disher** | RPA Developer | Remote | 🔒 | Aug 30 |
-| **Ramp** | New Grad 2024 - Software Engineer - Backend | NYC | 🔒 | Aug 30 |
+| **[Ramp](https://simplify.jobs/c/Ramp)** | New Grad 2024 - Software Engineer - Backend | NYC | <a href="https://jobs.ashbyhq.com/ramp/29663a4b-c457-4a38-bbdf-069f189b20eb/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/ebe01b3a-3eff-478b-baa4-8981955031a1?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Aug 30 |
 | **Bankers Healthcare Group** | Quantitative Analyst - Credit Risk | Plantation, FL | 🔒 | Aug 30 |
 | **Bankers Healthcare Group** | Quantitative Analyst - Credit Risk | Remote in USA | 🔒 | Aug 30 |
 | **NVIDIA** | GPU Performance Software Engineer – New College Grad 2023 | Santa Clara, CA | 🔒 | Aug 30 |
 | **The Boeing Company** | Manager Software Development – Early Career Program | Seattle, WA | 🔒 | Aug 30 |
-| **[Stripe](https://simplify.jobs/c/Stripe)** | Software Engineering – New Grad | Toronto, ON, Canada | <a href="https://stripe.com/jobs/search?gh_jid=5318696&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/0ebc4abe-2620-4172-bc5e-10aa8bd34928?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Aug 30 |
+| **Stripe** | Software Engineering – New Grad | Toronto, ON, Canada | 🔒 | Aug 30 |
 | **[Ramp](https://simplify.jobs/c/Ramp)** | New Grad 2024 - Software Engineer - Frontend | NYC | <a href="https://jobs.ashbyhq.com/ramp/0ae01d73-3f48-4722-9810-0c6c1940d7bd/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/e41da6ef-819c-48f2-98a9-d4717ceb3fa8?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Aug 30 |
 | **Wisetack** | Credit Risk Analyst | Remote in USA | 🔒 | Aug 29 |
 | **Jagger** | IT Manager | Abbotsford, BC, Canada | 🔒 | Aug 29 |
