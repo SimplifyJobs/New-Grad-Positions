@@ -5024,5 +5024,21 @@
         "company_url": "https://simplify.jobs/c/Alchemy",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cover Genius",
+        "id": "f7c6819b-a9f0-4436-b5a9-d7d7a1927e1c",
+        "title": "Client Solutions Engineer",
+        "active": true,
+        "date_updated": 1697901798,
+        "date_posted": 1697901798,
+        "url": "https://jobs.lever.co/covergenius/1b3ff878-a773-43b8-ad4d-760bd733b36a/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Cover-Genius",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
