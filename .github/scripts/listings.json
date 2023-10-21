@@ -5007,5 +5007,22 @@
         "company_url": "https://simplify.jobs/c/b3bc9e4f-4d8b-401b-bc34-e8b6a82eba5d",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Alchemy",
+        "id": "7280d881-ad57-4a59-a41a-9d0838ca267c",
+        "title": "Software Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1697843182,
+        "date_posted": 1697843182,
+        "url": "https://boards.greenhouse.io/alchemy/jobs/4330447005",
+        "locations": [
+            "SF",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Alchemy",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
