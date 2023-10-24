@@ -4376,7 +4376,7 @@
         "company_name": "RVO Health",
         "id": "bb5e31be-4ccc-499d-b4d8-365c74648866",
         "title": "2024 Early Career Program: Business Analysis Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1696346480,
         "date_posted": 1696346480,
         "url": "https://boards.greenhouse.io/rvohealth/jobs/4324509005",
@@ -4699,7 +4699,7 @@
         "company_name": "NVIDIA",
         "id": "2b3b00e6-e994-4d77-8f05-4b856b44650f",
         "title": "Solutions Architect \u2013 New College Grad - Wwfo",
-        "active": true,
+        "active": false,
         "date_updated": 1697008988,
         "date_posted": 1697008988,
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Solutions-Architect--WWFO---New-College-Grad_JR1970906-1",
@@ -5038,6 +5038,57 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/Cover-Genius",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Palantir",
+        "id": "f0bfc241-81bc-4e41-9302-f5eca6339fdf",
+        "title": "Software Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1698103003,
+        "date_posted": 1698103003,
+        "url": "https://jobs.lever.co/palantir/dea9d3d5-75b2-4588-b7bd-585a47b79c8c/apply",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cadence Design Systems",
+        "id": "191e58d1-0693-4771-a954-0eef814ce861",
+        "title": "Software Engineer \u2013 New College Grad 2024",
+        "active": true,
+        "date_updated": 1698102814,
+        "date_posted": 1698102814,
+        "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/SAN-JOSE/Software-Engineer--New-College-Grad-2024-_R44313-3",
+        "locations": [
+            "San Jose, CA",
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Salesforce",
+        "id": "5b1cb719-283d-46bf-8b6e-d84b0fe2ce32",
+        "title": "Software Engineering AMTS \u2013 New Grad",
+        "active": true,
+        "date_updated": 1698102521,
+        "date_posted": 1698102521,
+        "url": "https://salesforce.wd12.myworkdayjobs.com/en-us/External_Career_Site/job/Washington---Seattle/Software-Engineering-AMTS_JR223439-1",
+        "locations": [
+            "Seattle, WA",
+            "SF",
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Salesforce",
         "is_visible": true,
         "sponsorship": "Other"
     }
