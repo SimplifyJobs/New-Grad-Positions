@@ -1760,7 +1760,7 @@
         "company_name": "Arrowstreet Capital",
         "id": "8ec2e365-b6a1-499b-8fdb-b77b0883acc8",
         "title": "Quantitative Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1691733557,
         "date_posted": 1691733557,
         "url": "https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Arrowstreet/job/Boston/Quantitative-Developer_R866",
@@ -2531,7 +2531,7 @@
         "company_name": "ServiceNow",
         "id": "7b611fe4-090f-4ca0-95ae-fcc4901e02a2",
         "title": "Finance Development Rotation Program \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1694722896,
         "date_posted": 1693523676,
         "url": "https://jobs.smartrecruiters.com/ServiceNow/743999927720948",
@@ -4828,7 +4828,7 @@
         "company_name": "ServiceNow",
         "id": "c41304a4-01ed-4a65-aa9e-adb1a8a76440",
         "title": "Finance Development Rotation Program \u2013 New Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1697181263,
         "date_posted": 1697181263,
         "url": "https://jobs.smartrecruiters.com/ServiceNow/743999937036913",
@@ -5062,7 +5062,7 @@
         "company_name": "Cadence Design Systems",
         "id": "191e58d1-0693-4771-a954-0eef814ce861",
         "title": "Software Engineer \u2013 New College Grad 2024",
-        "active": true,
+        "active": false,
         "date_updated": 1698102814,
         "date_posted": 1698102814,
         "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/SAN-JOSE/Software-Engineer--New-College-Grad-2024-_R44313-3",
@@ -5121,6 +5121,23 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Jane-Street",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cadence Design Systems",
+        "id": "7d8635a9-4ff2-486a-92cb-7713127877fd",
+        "title": "Software Engineer \u2013 New College Grad 2024",
+        "active": true,
+        "date_updated": 1698218044,
+        "date_posted": 1698218044,
+        "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/SAN-JOSE/Software-Engineer--New-College-Grad-2024-_R44430-3",
+        "locations": [
+            "Austin, TX",
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
         "is_visible": true,
         "sponsorship": "Other"
     }
