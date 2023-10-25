@@ -2531,7 +2531,7 @@
         "company_name": "ServiceNow",
         "id": "7b611fe4-090f-4ca0-95ae-fcc4901e02a2",
         "title": "Finance Development Rotation Program \u2013 New Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1694722896,
         "date_posted": 1693523676,
         "url": "https://jobs.smartrecruiters.com/ServiceNow/743999927720948",
@@ -4264,7 +4264,7 @@
         "company_name": "Palantir",
         "id": "7e134007-3fa8-4732-84ca-e7119c8f4116",
         "title": "Software Engineer \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1696029158,
         "date_posted": 1696029158,
         "url": "https://jobs.lever.co/palantir/c34b424e-caf2-455a-b104-ae1096ccca29/apply",
@@ -4828,7 +4828,7 @@
         "company_name": "ServiceNow",
         "id": "c41304a4-01ed-4a65-aa9e-adb1a8a76440",
         "title": "Finance Development Rotation Program \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1697181263,
         "date_posted": 1697181263,
         "url": "https://jobs.smartrecruiters.com/ServiceNow/743999937036913",
@@ -5079,7 +5079,7 @@
         "company_name": "Salesforce",
         "id": "5b1cb719-283d-46bf-8b6e-d84b0fe2ce32",
         "title": "Software Engineering AMTS \u2013 New Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1698102521,
         "date_posted": 1698102521,
         "url": "https://salesforce.wd12.myworkdayjobs.com/en-us/External_Career_Site/job/Washington---Seattle/Software-Engineering-AMTS_JR223439-1",
@@ -5089,6 +5089,38 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Salesforce",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Jane Street",
+        "id": "dabf5f46-1bdb-458d-960e-eb9d91b98dca",
+        "title": "Teaching Assistants - Computer Science - Academy of Math and Programming - Amp",
+        "active": true,
+        "date_updated": 1698190114,
+        "date_posted": 1698190114,
+        "url": "https://boards.greenhouse.io/janestreet/jobs/6988811002",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Jane-Street",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Jane Street",
+        "id": "c5e5b62a-f73f-4010-a244-b1c5e59eb57e",
+        "title": "Teaching Assistants - Mathematics - Academy of Math and Programming - Amp",
+        "active": true,
+        "date_updated": 1698190115,
+        "date_posted": 1698190115,
+        "url": "https://boards.greenhouse.io/janestreet/jobs/6988841002",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Jane-Street",
         "is_visible": true,
         "sponsorship": "Other"
     }
