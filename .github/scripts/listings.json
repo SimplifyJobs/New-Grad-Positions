@@ -2531,7 +2531,7 @@
         "company_name": "ServiceNow",
         "id": "7b611fe4-090f-4ca0-95ae-fcc4901e02a2",
         "title": "Finance Development Rotation Program \u2013 New Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1694722896,
         "date_posted": 1693523676,
         "url": "https://jobs.smartrecruiters.com/ServiceNow/743999927720948",
@@ -4828,7 +4828,7 @@
         "company_name": "ServiceNow",
         "id": "c41304a4-01ed-4a65-aa9e-adb1a8a76440",
         "title": "Finance Development Rotation Program \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1697181263,
         "date_posted": 1697181263,
         "url": "https://jobs.smartrecruiters.com/ServiceNow/743999937036913",
@@ -5138,6 +5138,22 @@
             "San Jose, CA"
         ],
         "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Palantir",
+        "id": "7b0e9437-e5f3-4413-98c1-7ea5c125a2af",
+        "title": "Forward Deployed Software Engineer \u2013 New Grad - UK Government",
+        "active": true,
+        "date_updated": 1698246964,
+        "date_posted": 1698246964,
+        "url": "https://jobs.lever.co/palantir/b4aa51a2-bc43-4d67-bf55-12db7feefb3a/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
         "is_visible": true,
         "sponsorship": "Other"
     }
