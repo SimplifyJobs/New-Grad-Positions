@@ -3582,7 +3582,7 @@
         "company_name": "EliseAI",
         "id": "1ad53ccf-5bba-4142-9d1b-fcbec75b6209",
         "title": "Software Engineer \u2013 2024 Campus Grads - 2023",
-        "active": true,
+        "active": false,
         "date_updated": 1694992350,
         "date_posted": 1694992350,
         "url": "https://boards.greenhouse.io/meetelise/jobs/6893159002",
@@ -4506,7 +4506,7 @@
         "company_name": "Abnormal Security",
         "id": "b6e40c7a-23d7-4364-82cb-78eb1fb1644d",
         "title": "Software Engineer II - Cloud Infrastructure",
-        "active": true,
+        "active": false,
         "date_updated": 1696929364,
         "date_posted": 1696922922,
         "url": "https://careers.abnormalsecurity.com/jobs/5760926003?gh_jid=5760926003",
@@ -5062,7 +5062,7 @@
         "company_name": "Cadence Design Systems",
         "id": "191e58d1-0693-4771-a954-0eef814ce861",
         "title": "Software Engineer \u2013 New College Grad 2024",
-        "active": false,
+        "active": true,
         "date_updated": 1698102814,
         "date_posted": 1698102814,
         "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/SAN-JOSE/Software-Engineer--New-College-Grad-2024-_R44313-3",
@@ -5154,6 +5154,22 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "AnaVation LLC",
+        "id": "44d6e57c-29c4-4d61-8d80-678632f35905",
+        "title": "Software Developer - Remote",
+        "active": true,
+        "date_updated": 1698275847,
+        "date_posted": 1698275847,
+        "url": "https://jobs.lever.co/anavationllc/58f11fde-7059-4690-8dec-efda795656e0/apply",
+        "locations": [
+            "Chantilly, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/AnaVation-LLC",
         "is_visible": true,
         "sponsorship": "Other"
     }
