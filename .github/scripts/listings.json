@@ -5162,7 +5162,7 @@
         "company_name": "AnaVation LLC",
         "id": "44d6e57c-29c4-4d61-8d80-678632f35905",
         "title": "Software Developer - Remote",
-        "active": true,
+        "active": false,
         "date_updated": 1698275847,
         "date_posted": 1698275847,
         "url": "https://jobs.lever.co/anavationllc/58f11fde-7059-4690-8dec-efda795656e0/apply",
@@ -5200,6 +5200,22 @@
         "url": "https://jobs.smartrecruiters.com/Visa/743999940137283",
         "locations": [
             "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Visa",
+        "id": "e7c3b58f-22a8-4ce7-a580-7414bad3e651",
+        "title": "Site Reliability Engineer \u2013 New College Grad - 2024",
+        "active": true,
+        "date_updated": 1698390827,
+        "date_posted": 1698390827,
+        "url": "https://jobs.smartrecruiters.com/Visa/743999940196413",
+        "locations": [
+            "Denver, CO"
         ],
         "company_url": "https://simplify.jobs/c/Visa",
         "is_visible": true,
