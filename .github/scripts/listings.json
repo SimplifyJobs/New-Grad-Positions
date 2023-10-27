@@ -1872,7 +1872,7 @@
         "company_name": "Virtu Financial",
         "id": "01ef514b-1dad-40b9-8337-a7de56fa9337",
         "title": "Trading Operations Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1689750412,
         "date_posted": 1689750412,
         "url": "https://boards.greenhouse.io/virtu/jobs/5068225002",
@@ -1969,7 +1969,7 @@
         "company_name": "NVIDIA",
         "id": "5f60f36a-5c6e-455b-9c98-bf5d2629720c",
         "title": "Semiconductor Safety Engineer \u2013 New College Grad 2023",
-        "active": true,
+        "active": false,
         "date_updated": 1692746794,
         "date_posted": 1692746794,
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Semiconductor-Safety-Engineer---New-College-Grad-2023_JR1969405",
@@ -2259,7 +2259,7 @@
         "company_name": "NVIDIA",
         "id": "a40efd31-2503-4159-9242-85a74cbfb6a6",
         "title": "Software Engineer \u2013 New College Grad 2024 - Deep Learning Cudnn",
-        "active": false,
+        "active": true,
         "date_updated": 1693004680,
         "date_posted": 1693004680,
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineer--Deep-Learning-cuDNN---New-College-Grad-2024_JR1971497",
@@ -4997,7 +4997,7 @@
         "company_name": "Parallel",
         "id": "0efcae3e-bab0-4873-b45e-1ed5e6bda1af",
         "title": "Supply Chain Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1697727960,
         "date_posted": 1697727960,
         "url": "https://boards.greenhouse.io/paralleljobs/jobs/6979570002",
@@ -5170,6 +5170,38 @@
             "Chantilly, VA"
         ],
         "company_url": "https://simplify.jobs/c/AnaVation-LLC",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Palantir",
+        "id": "2c6a962b-bed1-41f8-9900-c257df1b6357",
+        "title": "Software Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1698363517,
+        "date_posted": 1698363517,
+        "url": "https://jobs.lever.co/palantir/adca978d-f02c-4ec5-bca7-20aaf2269793/apply",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Visa",
+        "id": "e011d846-3a6d-48c1-8858-51e037051e39",
+        "title": "Site Reliability Engineer \u2013 New College Grad - 2024",
+        "active": true,
+        "date_updated": 1698361952,
+        "date_posted": 1698361952,
+        "url": "https://jobs.smartrecruiters.com/Visa/743999940137283",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
         "is_visible": true,
         "sponsorship": "Other"
     }
