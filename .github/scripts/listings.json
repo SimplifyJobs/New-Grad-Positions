@@ -5220,5 +5220,21 @@
         "company_url": "https://simplify.jobs/c/Visa",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Nutanix",
+        "id": "b471de65-bb93-489f-a25b-5d0495ad2bc2",
+        "title": "Software Engineer 1 / Early Career",
+        "active": true,
+        "date_updated": 1698448807,
+        "date_posted": 1698448807,
+        "url": "https://jobs.jobvite.com/nutanix/job/oLjLofwX?nl=1&nl=1&fr=false",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Nutanix",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
