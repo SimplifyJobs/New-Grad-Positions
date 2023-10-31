@@ -2931,7 +2931,7 @@
         "company_name": "Okta",
         "id": "5eaf82b2-57d4-4438-af4d-41ca13735066",
         "title": "Quality Engineer New Grad - Customer Identity Cloud\t",
-        "active": true,
+        "active": false,
         "date_updated": 1694148566,
         "date_posted": 1694128230,
         "url": "https://www.okta.com/company/careers/opportunity/5349073?gh_jid=5349073",
@@ -5226,7 +5226,7 @@
         "company_name": "Nutanix",
         "id": "b471de65-bb93-489f-a25b-5d0495ad2bc2",
         "title": "Software Engineer 1 / Early Career",
-        "active": true,
+        "active": false,
         "date_updated": 1698448807,
         "date_posted": 1698448807,
         "url": "https://jobs.jobvite.com/nutanix/job/oLjLofwX?nl=1&nl=1&fr=false",
@@ -5234,6 +5234,22 @@
             "San Jose, CA"
         ],
         "company_url": "https://simplify.jobs/c/Nutanix",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wisk",
+        "id": "0a2c7d45-6d38-4ba1-823b-b52e66e548b0",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1698707480,
+        "date_posted": 1698707480,
+        "url": "https://jobs.lever.co/wisk/a3749fed-e0e5-48a2-8665-64817e40773a/apply",
+        "locations": [
+            "Mesa, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/wisk-aero",
         "is_visible": true,
         "sponsorship": "Other"
     }
