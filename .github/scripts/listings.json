@@ -5252,5 +5252,21 @@
         "company_url": "https://simplify.jobs/c/wisk-aero",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Palantir",
+        "id": "e94f5b72-1ca3-4376-8098-a07eacf2d7e1",
+        "title": "Software Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1698795528,
+        "date_posted": 1698795528,
+        "url": "https://jobs.lever.co/palantir/19d5e5f8-37a6-4a6f-b2ca-423370b3a1c2/apply",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
