@@ -1340,7 +1340,7 @@
         "company_name": "Wolverine Trading",
         "id": "41fc7222-635e-48c5-ae8f-1fff0030f8cb",
         "title": "Entry-Level Trader",
-        "active": true,
+        "active": false,
         "date_updated": 1690909657,
         "date_posted": 1689750892,
         "url": "https://jobs.lever.co/wolve/1ef76232-0c1b-4c1f-b446-d25d0d97708f/apply",
@@ -4972,7 +4972,7 @@
         "company_name": "Salesforce",
         "id": "d669f72f-5219-4d43-a435-edac0fb27f20",
         "title": "Software Engineering AMTS/MTS \u2013 New Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1697670622,
         "date_posted": 1697670622,
         "url": "https://salesforce.wd12.myworkdayjobs.com/en-us/External_Career_Site/job/California---San-Francisco/MTS-Software-Engineer_JR214486-1",
@@ -5266,6 +5266,22 @@
             "Washington, DC"
         ],
         "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "ServiceNow",
+        "id": "694d20f5-be81-4b39-8185-c0a748e94d9e",
+        "title": "Machine Learning Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1698881485,
+        "date_posted": 1698881485,
+        "url": "https://jobs.smartrecruiters.com/ServiceNow/743999941362853",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/ServiceNow",
         "is_visible": true,
         "sponsorship": "Other"
     }
