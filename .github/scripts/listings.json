@@ -3630,7 +3630,7 @@
         "company_name": "ZipRecruiter",
         "id": "4a8618d4-4065-420b-9cb9-ac0283d93e9d",
         "title": "Software Engineer \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1695078993,
         "date_posted": 1695078993,
         "url": "https://boards.greenhouse.io/ziprecruiter/jobs/5281310",
@@ -5113,7 +5113,7 @@
         "company_name": "Jane Street",
         "id": "c5e5b62a-f73f-4010-a244-b1c5e59eb57e",
         "title": "Teaching Assistants - Mathematics - Academy of Math and Programming - Amp",
-        "active": true,
+        "active": false,
         "date_updated": 1698190115,
         "date_posted": 1698190115,
         "url": "https://boards.greenhouse.io/janestreet/jobs/6988841002",
@@ -5129,7 +5129,7 @@
         "company_name": "Cadence Design Systems",
         "id": "7d8635a9-4ff2-486a-92cb-7713127877fd",
         "title": "Software Engineer \u2013 New College Grad 2024",
-        "active": false,
+        "active": true,
         "date_updated": 1698218044,
         "date_posted": 1698218044,
         "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/SAN-JOSE/Software-Engineer--New-College-Grad-2024-_R44430-3",
@@ -5226,7 +5226,7 @@
         "company_name": "Nutanix",
         "id": "b471de65-bb93-489f-a25b-5d0495ad2bc2",
         "title": "Software Engineer 1 / Early Career",
-        "active": true,
+        "active": false,
         "date_updated": 1698448807,
         "date_posted": 1698448807,
         "url": "https://jobs.jobvite.com/nutanix/job/oLjLofwX?nl=1&nl=1&fr=false",
@@ -5282,6 +5282,70 @@
             "Montreal, QC, Canada"
         ],
         "company_url": "https://simplify.jobs/c/ServiceNow",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Arista Networks",
+        "id": "83fd3f79-7d80-4055-be8c-2333a06292f6",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1698910659,
+        "date_posted": 1698910659,
+        "url": "https://jobs.smartrecruiters.com/AristaNetworks/743999941458073",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Arista-Networks",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Arista Networks",
+        "id": "4f16de4f-8eb1-4934-ac28-9ad3970ec0f6",
+        "title": "Software Engineer - Network Systems",
+        "active": true,
+        "date_updated": 1698910648,
+        "date_posted": 1698910648,
+        "url": "https://jobs.smartrecruiters.com/AristaNetworks/743999941456998",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Arista-Networks",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Arista Networks",
+        "id": "d4abb3a5-8126-4e22-b364-a1d7af9f62cd",
+        "title": "Software Engineer - Packet Forwarding Engines",
+        "active": true,
+        "date_updated": 1698910654,
+        "date_posted": 1698910654,
+        "url": "https://jobs.smartrecruiters.com/AristaNetworks/743999941458173",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Arista-Networks",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Matroid",
+        "id": "d48082fc-6f53-477d-8766-b684e6697134",
+        "title": "Full Stack Engineer for Computer Vision Products",
+        "active": true,
+        "date_updated": 1698909939,
+        "date_posted": 1698909939,
+        "url": "https://matroid.breezy.hr/p/c4458ce16409/apply",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Matroid",
         "is_visible": true,
         "sponsorship": "Other"
     }
