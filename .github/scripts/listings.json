@@ -3187,7 +3187,7 @@
         "company_name": "Connectly",
         "id": "c701edb2-f2f6-416c-8fd4-d43e4c802e73",
         "title": "Software Engineer - Backend",
-        "active": true,
+        "active": false,
         "date_updated": 1694503123,
         "date_posted": 1694503123,
         "url": "https://jobs.lever.co/connectly/f855a7d3-976f-4c36-87af-6d222911ab26/apply",
@@ -4972,7 +4972,7 @@
         "company_name": "Salesforce",
         "id": "d669f72f-5219-4d43-a435-edac0fb27f20",
         "title": "Software Engineering AMTS/MTS \u2013 New Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1697670622,
         "date_posted": 1697670622,
         "url": "https://salesforce.wd12.myworkdayjobs.com/en-us/External_Career_Site/job/California---San-Francisco/MTS-Software-Engineer_JR214486-1",
@@ -5394,6 +5394,54 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/Okta",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Oscar Health",
+        "id": "a7067c84-01dc-4deb-b55f-303752b98643",
+        "title": "Data Scientist I - Risk Analytics",
+        "active": true,
+        "date_updated": 1699024873,
+        "date_posted": 1699024873,
+        "url": "http://www.hioscar.com/careers/5482510?gh_jid=5482510",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Oscar-Health",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Oscar Health",
+        "id": "fe85fcd2-2ead-4347-b9d5-bc8ec714936b",
+        "title": "Data Scientist I - Risk Analytics",
+        "active": true,
+        "date_updated": 1699024873,
+        "date_posted": 1699024873,
+        "url": "http://www.hioscar.com/careers/5482514?gh_jid=5482514",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/Oscar-Health",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Oscar Health",
+        "id": "a9100c17-a243-4960-8fa4-89bba4be0011",
+        "title": "Data Scientist I - Risk Analytics",
+        "active": true,
+        "date_updated": 1699024876,
+        "date_posted": 1699024876,
+        "url": "http://www.hioscar.com/careers/5482511?gh_jid=5482511",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Oscar-Health",
         "is_visible": true,
         "sponsorship": "Other"
     }
