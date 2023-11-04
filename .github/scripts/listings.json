@@ -3299,7 +3299,7 @@
         "company_name": "Arista Networks",
         "id": "d5c342b6-1475-4e14-9cc4-7c44a70f15b7",
         "title": "Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1694560695,
         "date_posted": 1694560695,
         "url": "https://jobs.smartrecruiters.com/AristaNetworks/743999925823994",
@@ -3781,7 +3781,7 @@
         "company_name": "Oscar Health",
         "id": "ccd1a49f-28ad-42f7-8ace-6c3c876bc773",
         "title": "Data Scientist I - Risk Analytics",
-        "active": true,
+        "active": false,
         "date_updated": 1695251491,
         "date_posted": 1695251491,
         "url": "http://www.hioscar.com/careers/5380078?gh_jid=5380078",
@@ -3797,7 +3797,7 @@
         "company_name": "Oscar Health",
         "id": "ac34e04f-0a4d-429e-a017-4062490142de",
         "title": "Data Scientist I - Risk Analytics",
-        "active": true,
+        "active": false,
         "date_updated": 1695251492,
         "date_posted": 1695251492,
         "url": "http://www.hioscar.com/careers/5380090?gh_jid=5380090",
@@ -3813,7 +3813,7 @@
         "company_name": "Oscar Health",
         "id": "a59cfbdb-6c52-4085-8809-83d4f31bdfcb",
         "title": "Data Scientist I - Risk Analytics",
-        "active": true,
+        "active": false,
         "date_updated": 1695251491,
         "date_posted": 1695251491,
         "url": "http://www.hioscar.com/careers/5379881?gh_jid=5379881",
@@ -3845,7 +3845,7 @@
         "company_name": "OptionMetrics",
         "id": "c853cb41-eaaf-4b08-b49a-408be8709bb6",
         "title": "IT Operations Engineering Manager",
-        "active": false,
+        "active": true,
         "date_updated": 1695337932,
         "date_posted": 1695337932,
         "url": "https://jobs.lever.co/optionmetrics/0d16df55-785c-44ce-8b1c-33b9390db710/apply",
@@ -5290,7 +5290,7 @@
         "company_name": "Arista Networks",
         "id": "83fd3f79-7d80-4055-be8c-2333a06292f6",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1698910659,
         "date_posted": 1698910659,
         "url": "https://jobs.smartrecruiters.com/AristaNetworks/743999941458073",
@@ -5370,7 +5370,7 @@
         "company_name": "Rocket Lab USA",
         "id": "c9ca4374-6987-40c7-89d8-3e84d8bbbf5a",
         "title": "GNC Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1698967921,
         "date_posted": 1698967921,
         "url": "https://boards.greenhouse.io/rocketlab/jobs/5779114003",
@@ -5442,6 +5442,54 @@
             "LA"
         ],
         "company_url": "https://simplify.jobs/c/Oscar-Health",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Uber",
+        "id": "dc0ce92c-2945-446e-b820-be1fd0261bd6",
+        "title": "2024 Software Engineering Boost Fellowship - US",
+        "active": true,
+        "date_updated": 1699053673,
+        "date_posted": 1699053673,
+        "url": "https://university-uber.icims.com/jobs/126021/job",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Uber",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Visa",
+        "id": "c7959d25-543e-4708-b8ab-1a6583b1a9c3",
+        "title": "Software Engineer - New College Grad-2024",
+        "active": true,
+        "date_updated": 1699053182,
+        "date_posted": 1699053182,
+        "url": "https://jobs.smartrecruiters.com/Visa/743999941991044",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Visa",
+        "id": "92434cfa-2e35-4cc5-8e8c-4d4c911d5a74",
+        "title": "Software Engineer - New College Grad-2024",
+        "active": true,
+        "date_updated": 1699053184,
+        "date_posted": 1699053184,
+        "url": "https://jobs.smartrecruiters.com/Visa/743999941991328",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
         "is_visible": true,
         "sponsorship": "Other"
     }
