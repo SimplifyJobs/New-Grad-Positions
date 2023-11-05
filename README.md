@@ -133,7 +133,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Businessolver** | Java Engineer I - Work Remotely within the United States | Remote in USA | 🔒 | Sep 29 |
 | **Palantir** | Software Engineer – New Grad | Denver, CO | 🔒 | Sep 29 |
 | **SoFi** | New Grad – Software Engineer - Borrow | Helena, MT | 🔒 | Sep 29 |
-| **[Optiver](https://simplify.jobs/c/Optiver)** | Campus: Software Engineer - 2024 Start - Austin | Austin, TX | <a href="https://boards.greenhouse.io/optiverinternreferralc4/jobs/6782311002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/a2a6dfd5-1675-45f6-aa42-c6f233c65ff0?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Sep 29 |
+| **Optiver** | Campus: Software Engineer - 2024 Start - Austin | Austin, TX | 🔒 | Sep 29 |
 | **84.51 Degrees** | Software Engineer - Development Program 2024 | Chicago, IL</br>Cincinnati, OH | 🔒 | Sep 29 |
 | **Duolingo** | Product Designer – New Grad | Pittsburgh, PA | 🔒 | Sep 29 |
 | **[ServiceNow](https://simplify.jobs/c/ServiceNow)** | Utg – New Grad - Software Quality Engineer | San Diego, CA | <a href="https://jobs.smartrecruiters.com/ServiceNow/743999933709753?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/cc3ac67a-ad28-49f9-b864-34b25b439c85?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Sep 29 |
