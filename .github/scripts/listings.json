@@ -629,7 +629,7 @@
         "company_name": "Applied Intuition",
         "id": "5f5ed10b-981f-4c68-a459-dfd14c8c6e27",
         "title": "Product Application Engineer \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1689751286,
         "date_posted": 1689751286,
         "url": "https://boards.greenhouse.io/appliedintuition/jobs/4045211005?gh_jid=4045211005",
@@ -4199,7 +4199,7 @@
         "company_name": "Optiver",
         "id": "a2a6dfd5-1675-45f6-aa42-c6f233c65ff0",
         "title": "Campus: Software Engineer - 2024 Start - Austin",
-        "active": false,
+        "active": true,
         "date_updated": 1696000922,
         "date_posted": 1696000922,
         "url": "https://boards.greenhouse.io/optiverinternreferralc4/jobs/6782311002",
@@ -5097,7 +5097,7 @@
         "company_name": "Jane Street",
         "id": "dabf5f46-1bdb-458d-960e-eb9d91b98dca",
         "title": "Teaching Assistants - Computer Science - Academy of Math and Programming - Amp",
-        "active": true,
+        "active": false,
         "date_updated": 1698190114,
         "date_posted": 1698190114,
         "url": "https://boards.greenhouse.io/janestreet/jobs/6988811002",
@@ -5490,6 +5490,89 @@
             "Austin, TX"
         ],
         "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Salesforce",
+        "id": "97ab1823-0475-41d1-b953-cd029683fd0e",
+        "title": "Software Engineering AMTS \u2013 New Grad",
+        "active": true,
+        "date_updated": 1699335068,
+        "date_posted": 1699335068,
+        "url": "https://salesforce.wd12.myworkdayjobs.com/en-us/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS--New-Grad-_JR217901-1",
+        "locations": [
+            "Palo Alto, CA",
+            "Seattle, WA",
+            "SF",
+            "Kirkland, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Salesforce",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Visa",
+        "id": "79c7ff25-6655-4b72-aee4-b0d6b0bd17a6",
+        "title": "Systems Engineer \u2013 New College Grad - 2024",
+        "active": true,
+        "date_updated": 1699333543,
+        "date_posted": 1699333543,
+        "url": "https://jobs.smartrecruiters.com/Visa/743999942576703",
+        "locations": [
+            "Ashburn, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Affirm",
+        "id": "357cc614-dc35-421b-9631-ee70464dfdc6",
+        "title": "Software Engineer \u2013 Early Career",
+        "active": true,
+        "date_updated": 1699333302,
+        "date_posted": 1699333302,
+        "url": "https://boards.greenhouse.io/affirm/jobs/5794739003",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Affirm",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Affirm",
+        "id": "2011dff4-a6ec-4cef-af33-5f2d9b5a6ae9",
+        "title": "Software Engineer \u2013 Early Career",
+        "active": true,
+        "date_updated": 1699333303,
+        "date_posted": 1699333303,
+        "url": "https://boards.greenhouse.io/affirm/jobs/5794747003",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Affirm",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Affirm",
+        "id": "17642d18-76d9-4310-a2d0-92f096ca6a5b",
+        "title": "Software Engineer \u2013 Early Career",
+        "active": true,
+        "date_updated": 1699333302,
+        "date_posted": 1699333302,
+        "url": "https://boards.greenhouse.io/affirm/jobs/5794726003",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Affirm",
         "is_visible": true,
         "sponsorship": "Other"
     }
