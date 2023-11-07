@@ -283,7 +283,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[Arrowstreet Capital](https://simplify.jobs/c/Arrowstreet-Capital)** | Quantitative Researcher | Cambridge, MA | <a href="https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Arrowstreet/job/Boston/Quantitative-Researcher_R788?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/d301b868-62db-4adf-9f68-b43640f3b0fa?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Aug 11 |
 | **Arrowstreet Capital** | Quantitative Developer | Cambridge, MA | 🔒 | Aug 11 |
 | **Magic Leap** | Associate – Software Engineer - Graphics Systems | Sunnyvale, CA | 🔒 | Aug 10 |
-| **[Jump Trading](https://simplify.jobs/c/Jump-Trading)** | Campus Quantitative Researcher - Full-Time | Chicago, IL | <a href="https://boards.greenhouse.io/embed/job_app?token=5279528&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/8dfba23f-0f28-4b6c-8465-22985fa1be87?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Aug 10 |
+| **Jump Trading** | Campus Quantitative Researcher - Full-Time | Chicago, IL | 🔒 | Aug 10 |
 | **Hillel International** | Hillel at the University of Wisconsin Springboard Fellow | Madison, WI | 🔒 | Aug 10 |
 | **Gecko Robotics** | Software Engineer – New Grad - Robot Systems | Pittsburgh, PA | 🔒 | Aug 09 |
 | **Gecko Robotics** | Robotics – New Grad - Localization Engineer | Pittsburgh, PA | 🔒 | Aug 09 |
