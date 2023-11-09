@@ -36,7 +36,7 @@
         "company_name": "Rhombus Power",
         "id": "2004c9ed-17b1-424a-bc9f-c9c9121556d9",
         "title": "Data Engineer - Omaha",
-        "active": false,
+        "active": true,
         "date_updated": 1692376624,
         "date_posted": 1692376624,
         "url": "https://boards.greenhouse.io/rhombuspower/jobs/5432899003",
@@ -3187,7 +3187,7 @@
         "company_name": "Connectly",
         "id": "c701edb2-f2f6-416c-8fd4-d43e4c802e73",
         "title": "Software Engineer - Backend",
-        "active": false,
+        "active": true,
         "date_updated": 1694503123,
         "date_posted": 1694503123,
         "url": "https://jobs.lever.co/connectly/f855a7d3-976f-4c36-87af-6d222911ab26/apply",
@@ -4997,7 +4997,7 @@
         "company_name": "Parallel",
         "id": "0efcae3e-bab0-4873-b45e-1ed5e6bda1af",
         "title": "Supply Chain Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1697727960,
         "date_posted": 1697727960,
         "url": "https://boards.greenhouse.io/paralleljobs/jobs/6979570002",
@@ -5498,7 +5498,7 @@
         "company_name": "Salesforce",
         "id": "97ab1823-0475-41d1-b953-cd029683fd0e",
         "title": "Software Engineering AMTS \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1699335068,
         "date_posted": 1699335068,
         "url": "https://salesforce.wd12.myworkdayjobs.com/en-us/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS--New-Grad-_JR217901-1",
@@ -5613,7 +5613,7 @@
         "company_name": "Constellation Technologies",
         "id": "78ec8756-52c0-4eef-b873-bd0487bbc564",
         "title": "Software Engineer 0",
-        "active": true,
+        "active": false,
         "date_updated": 1699388244,
         "date_posted": 1699053634,
         "url": "https://jobs.lever.co/cti-md/34faebfb-5070-47b8-b047-7b2e8dad1ef9/apply",
@@ -5621,6 +5621,38 @@
             "Odenton, MD"
         ],
         "company_url": "https://simplify.jobs/c/Constellation-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Rhombus Power",
+        "id": "d292cec4-8e27-48ac-9297-7e88204f4bd2",
+        "title": "Data Engineer - Active TS or TS/SCI Clearance - Honolulu",
+        "active": true,
+        "date_updated": 1699530450,
+        "date_posted": 1699530450,
+        "url": "https://boards.greenhouse.io/rhombuspower/jobs/5432896003",
+        "locations": [
+            "Honolulu, HI"
+        ],
+        "company_url": "https://simplify.jobs/c/Rhombus-Power",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Rhombus Power",
+        "id": "61841f72-8630-4751-b266-80ff2fbe51dc",
+        "title": "Data Engineer - Active TS or TS/SCI Clearance - Washington DC",
+        "active": true,
+        "date_updated": 1699530451,
+        "date_posted": 1699530451,
+        "url": "https://boards.greenhouse.io/rhombuspower/jobs/5432902003",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Rhombus-Power",
         "is_visible": true,
         "sponsorship": "Other"
     }
