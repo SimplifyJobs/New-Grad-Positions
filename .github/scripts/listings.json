@@ -197,7 +197,7 @@
         "company_name": "AnaVation LLC",
         "id": "b42b54b8-c48d-481b-beeb-eac19f61210d",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1691824788,
         "date_posted": 1691824788,
         "url": "https://jobs.lever.co/anavationllc/31bfa921-0b7c-4d4c-ab6b-6d504b333196/apply",
@@ -1580,7 +1580,7 @@
         "company_name": "Palantir",
         "id": "629d4b11-0984-442c-b615-51b48771615b",
         "title": "Forward Deployed Software Engineer \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1691428023,
         "date_posted": 1690932001,
         "url": "https://jobs.lever.co/palantir/8dcdb586-46ae-4f94-9d05-7f1989400049/apply",
@@ -3728,7 +3728,7 @@
         "company_name": "Scale AI",
         "id": "969b8221-b69d-4f62-a31e-ea276a6a4874",
         "title": "Operations Program Manager - Customer Operations",
-        "active": true,
+        "active": false,
         "date_updated": 1695252013,
         "date_posted": 1695252013,
         "url": "https://boards.greenhouse.io/scaleai/jobs/4289123005",
@@ -5653,6 +5653,22 @@
             "Washington, DC"
         ],
         "company_url": "https://simplify.jobs/c/Rhombus-Power",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Reliable Robotics",
+        "id": "c82e598c-8a90-4eb2-b025-29260813060f",
+        "title": "Remote Piloting UX Engineer",
+        "active": true,
+        "date_updated": 1700014633,
+        "date_posted": 1692745766,
+        "url": "https://jobs.lever.co/reliable/8c842227-19a4-40a6-a0c2-a6211642a1dd/apply",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Reliable-Robotics",
         "is_visible": true,
         "sponsorship": "Other"
     }
