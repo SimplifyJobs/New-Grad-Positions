@@ -128,7 +128,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Sprout Social** | Associate Software Engineer – New Grad | Remote in USA | 🔒 | Oct 10 |
 | **[NVIDIA](https://simplify.jobs/c/NVIDIA)** | Infrastructure Engineer – New College Grad 2024 | Toronto, ON, Canada | <a href="https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/Canada-Toronto/Infrastructure-Engineer---New-College-Grad-2024_JR1973573?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/21f28825-7df9-4707-a3f2-e963c152b6ba?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Oct 10 |
 | **Grammarly** | Software Engineer – New Grad | Remote in USA</br>United States | 🔒 | Oct 10 |
-| **AXS** | Associate Software Engineer II | LA | 🔒 | Oct 10 |
 | **Chartboost** | Software Engineer - Bidder | Remote in USA | 🔒 | Oct 04 |
 | **NVIDIA** | Compiler Engineer – New College Grad - LLVM | Austin, TX</br>Redmond, WA</br>Santa Clara, CA | 🔒 | Oct 04 |
 | **Rackspace Technology** | Python Developer II / III | Remote | 🔒 | Oct 04 |

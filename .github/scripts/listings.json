@@ -4620,14 +4620,14 @@
         "id": "9c5854f7-2161-4a52-9939-9d62b797684b",
         "title": "Associate Software Engineer II",
         "active": false,
-        "date_updated": 1696922182,
+        "date_updated": 1700089074,
         "date_posted": 1696922182,
         "url": "https://boards.greenhouse.io/axs/jobs/6945523002",
         "locations": [
             "LA"
         ],
         "company_url": "https://simplify.jobs/c/AXScom",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
