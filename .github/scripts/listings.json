@@ -5671,5 +5671,21 @@
         "company_url": "https://simplify.jobs/c/Reliable-Robotics",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "GigaBrain",
+        "id": "ef7e8af4-64ef-4a20-b219-cc248a9ff01c",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1701222493,
+        "date_posted": 1701222493,
+        "url": "https://simplify.jobs/p/ef7e8af4-64ef-4a20-b219-cc248a9ff01c",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/GigaBrain",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
