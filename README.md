@@ -81,14 +81,14 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Visa** | Associate Cybersecurity Analyst – New College Grad | Austin, TX | 🔒 | Nov 08 |
 | **Visa** | Software Test Engineer – New College Grad | San Mateo, CA | 🔒 | Nov 08 |
 | **[Salesforce](https://simplify.jobs/c/Salesforce)** | Software Engineering AMTS – New Grad | <details><summary>**4 locations**</summary>Palo Alto, CA</br>Seattle, WA</br>SF</br>Kirkland, WA</details> | <a href="https://salesforce.wd12.myworkdayjobs.com/en-us/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS--New-Grad-_JR217901-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/97ab1823-0475-41d1-b953-cd029683fd0e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Nov 07 |
-| **[Visa](https://simplify.jobs/c/Visa)** | Systems Engineer – New College Grad - 2024 | Ashburn, VA | <a href="https://jobs.smartrecruiters.com/Visa/743999942576703?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/79c7ff25-6655-4b72-aee4-b0d6b0bd17a6?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Nov 07 |
+| **Visa** | Systems Engineer – New College Grad - 2024 | Ashburn, VA | 🔒 | Nov 07 |
 | **Affirm** | Software Engineer – Early Career | Chicago, IL | 🔒 | Nov 07 |
 | **Affirm** | Software Engineer – Early Career | SF | 🔒 | Nov 07 |
 | **Affirm** | Software Engineer – Early Career | NYC | 🔒 | Nov 07 |
 | **Uber** | 2024 Software Engineering Boost Fellowship - US | NYC | 🔒 | Nov 03 |
 | **[Constellation Technologies](https://simplify.jobs/c/Constellation-Technologies)** | Software Engineer 0 | Odenton, MD | <a href="https://jobs.lever.co/cti-md/34faebfb-5070-47b8-b047-7b2e8dad1ef9/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/78ec8756-52c0-4eef-b873-bd0487bbc564?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Nov 03 |
-| **[Visa](https://simplify.jobs/c/Visa)** | Software Engineer - New College Grad-2024 | Austin, TX | <a href="https://jobs.smartrecruiters.com/Visa/743999941991328?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/92434cfa-2e35-4cc5-8e8c-4d4c911d5a74?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Nov 03 |
-| **[Visa](https://simplify.jobs/c/Visa)** | Software Engineer - New College Grad-2024 | Atlanta, GA | <a href="https://jobs.smartrecruiters.com/Visa/743999941991044?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/c7959d25-543e-4708-b8ab-1a6583b1a9c3?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Nov 03 |
+| **Visa** | Software Engineer - New College Grad-2024 | Austin, TX | 🔒 | Nov 03 |
+| **Visa** | Software Engineer - New College Grad-2024 | Atlanta, GA | 🔒 | Nov 03 |
 | **Oscar Health** | Data Scientist I - Risk Analytics | LA | 🔒 | Nov 03 |
 | **Oscar Health** | Data Scientist I - Risk Analytics | NYC | 🔒 | Nov 03 |
 | **Oscar Health** | Data Scientist I - Risk Analytics | Remote | 🔒 | Nov 03 |
@@ -103,7 +103,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[Palantir](https://simplify.jobs/c/Palantir)** | Software Engineer – New Grad | Washington, DC | <a href="https://jobs.lever.co/palantir/19d5e5f8-37a6-4a6f-b2ca-423370b3a1c2/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/e94f5b72-1ca3-4376-8098-a07eacf2d7e1?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Oct 31 |
 | **[Wisk](https://simplify.jobs/c/wisk-aero)** | Software Engineer | Mesa, AZ | <a href="https://jobs.lever.co/wisk/a3749fed-e0e5-48a2-8665-64817e40773a/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/0a2c7d45-6d38-4ba1-823b-b52e66e548b0?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Oct 30 |
 | **Nutanix** | Software Engineer 1 / Early Career | San Jose, CA | 🔒 | Oct 27 |
-| **[Visa](https://simplify.jobs/c/Visa)** | Site Reliability Engineer – New College Grad - 2024 | Denver, CO | <a href="https://jobs.smartrecruiters.com/Visa/743999940196413?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/e7c3b58f-22a8-4ce7-a580-7414bad3e651?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Oct 27 |
+| **Visa** | Site Reliability Engineer – New College Grad - 2024 | Denver, CO | 🔒 | Oct 27 |
 | **Palantir** | Software Engineer – New Grad | Washington, DC | 🔒 | Oct 26 |
 | **Visa** | Site Reliability Engineer – New College Grad - 2024 | Austin, TX | 🔒 | Oct 26 |
 | **AnaVation LLC** | Software Developer - Remote | Chantilly, VA | 🔒 | Oct 25 |
@@ -273,7 +273,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Qualtrics** | Software Engineer – New Grad - Seattle - WA | Seattle, WA | 🔒 | Aug 24 |
 | **Qualtrics** | Software Engineer – New Grad - Provo - UT | Provo, UT | 🔒 | Aug 24 |
 | **Qualtrics** | Software Engineer – New Grad - Reston - VA | Reston, VA | 🔒 | Aug 24 |
-| **[Anyscale](https://simplify.jobs/c/Anyscale)** | Software Engineer – New Grad 2024 | SF | <a href="https://jobs.lever.co/anyscale/2888fb5f-3489-46c0-b776-2a02004ce21b/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/2b2c7e7c-7769-4e4e-a94d-01615c2c1559?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Aug 24 |
+| **Anyscale** | Software Engineer – New Grad 2024 | SF | 🔒 | Aug 24 |
 | **OKX ** | Software Engineer – New Grad - Backend - Mobile | San Jose, CA | 🔒 | Aug 23 |
 | **Benefitfocus** | Data Analyst | Remote in USA | 🔒 | Aug 23 |
 | **NVIDIA** | Semiconductor Safety Engineer – New College Grad 2023 | Austin, TX</br>Santa Clara, CA | 🔒 | Aug 22 |
