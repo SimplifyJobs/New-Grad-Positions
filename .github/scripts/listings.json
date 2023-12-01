@@ -4876,7 +4876,7 @@
         "company_name": "Jane Street",
         "id": "2c146167-9f53-4769-8ea1-1d63f19b6d00",
         "title": "Operations Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1697242202,
         "date_posted": 1697242202,
         "url": "https://boards.greenhouse.io/janestreet/jobs/6971131002",
@@ -5498,7 +5498,7 @@
         "company_name": "Salesforce",
         "id": "97ab1823-0475-41d1-b953-cd029683fd0e",
         "title": "Software Engineering AMTS \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1699335068,
         "date_posted": 1699335068,
         "url": "https://salesforce.wd12.myworkdayjobs.com/en-us/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS--New-Grad-_JR217901-1",
@@ -5693,7 +5693,7 @@
         "company_name": "theScore",
         "id": "48162ca0-aef4-4c85-af13-9cdd75a3138d",
         "title": "Data Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1701356531,
         "date_posted": 1701356531,
         "url": "https://boards.greenhouse.io/scoremediaandgaminginc/jobs/5020738004",
@@ -5741,7 +5741,7 @@
         "company_name": "Penn Interactive",
         "id": "df581657-bad9-47ee-a94c-b3449dd3757b",
         "title": "Data Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1701354016,
         "date_posted": 1701354016,
         "url": "https://boards.greenhouse.io/penninteractive/jobs/5023014004",
@@ -5911,6 +5911,22 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Waabi",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Proprio",
+        "id": "5c5a0f6e-8383-446c-a2c8-4737378c1098",
+        "title": "Software Engineer: Algorithms",
+        "active": true,
+        "date_updated": 1701419063,
+        "date_posted": 1701419063,
+        "url": "https://www.propriovision.com/careers?gh_jid=5801664003",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Proprio",
         "is_visible": true,
         "sponsorship": "Other"
     }
