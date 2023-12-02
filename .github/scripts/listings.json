@@ -5929,5 +5929,85 @@
         "company_url": "https://simplify.jobs/c/Proprio",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Ripple",
+        "id": "c485741e-3476-45de-8f4a-7965ae2abd09",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1701476714,
+        "date_posted": 1701476714,
+        "url": "https://ripple.com/careers/all-jobs/job/5543954?gh_jid=5543954",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Ripple",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "E-Space",
+        "id": "5205eacd-2c6b-4166-bdb3-58c6e4fe2c35",
+        "title": "GNC Software Engineer",
+        "active": true,
+        "date_updated": 1701475750,
+        "date_posted": 1701475750,
+        "url": "https://jobs.lever.co/espace/0d7b029d-555b-497a-993b-700bf96cd74f/apply",
+        "locations": [
+            "Saratoga, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/E-Space",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Visa",
+        "id": "4a71bbf0-3643-4740-a431-ed872ea435e0",
+        "title": "Software Engineer - New College Grad-2024",
+        "active": true,
+        "date_updated": 1701475669,
+        "date_posted": 1701475669,
+        "url": "https://jobs.smartrecruiters.com/Visa/743999948194077",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Visa",
+        "id": "4ff77059-81cd-4211-9a86-190695b7974d",
+        "title": "Software Engineer - New College Grad-2024",
+        "active": true,
+        "date_updated": 1701475668,
+        "date_posted": 1701475668,
+        "url": "https://jobs.smartrecruiters.com/Visa/743999948189541",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Hex Technologies",
+        "id": "25f79f45-2c4e-4b62-8805-a47b2b62ad9c",
+        "title": "AI Engineer",
+        "active": true,
+        "date_updated": 1701475612,
+        "date_posted": 1701475612,
+        "url": "https://boards.greenhouse.io/hextechnologies/jobs/5031479004",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/Hex-tech",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
