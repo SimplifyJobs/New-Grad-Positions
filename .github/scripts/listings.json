@@ -3893,7 +3893,7 @@
         "company_name": "NVIDIA",
         "id": "510fdb72-165d-4cb8-b478-60b8780368ad",
         "title": "Developer Technology Engineer \u2013 New College Grad - Public Sector",
-        "active": true,
+        "active": false,
         "date_updated": 1695424141,
         "date_posted": 1695424141,
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Developer-Technology-Engineer--Public-Sector---New-College-Grad_JR1972596",
@@ -5709,7 +5709,7 @@
         "company_name": "Arsiem Corporation",
         "id": "afd90a14-535c-4dd6-8425-03cf4bd17adb",
         "title": "Software Engineer 0",
-        "active": true,
+        "active": false,
         "date_updated": 1701356435,
         "date_posted": 1701356435,
         "url": "https://jobs.lever.co/arsiem/48e06f27-fe85-42ec-bcd2-9cf1a27cd53b/apply",
@@ -5999,7 +5999,7 @@
         "company_name": "Hex Technologies",
         "id": "25f79f45-2c4e-4b62-8805-a47b2b62ad9c",
         "title": "AI Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1701475612,
         "date_posted": 1701475612,
         "url": "https://boards.greenhouse.io/hextechnologies/jobs/5031479004",
@@ -6007,6 +6007,24 @@
             "Remote"
         ],
         "company_url": "https://simplify.jobs/c/Hex-tech",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NVIDIA",
+        "id": "c62115f7-6407-45b5-8f98-609b61391a38",
+        "title": "Compiler Engineer \u2013 New College Grad 2024 - LLVM",
+        "active": true,
+        "date_updated": 1701744180,
+        "date_posted": 1701744180,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Compiler-Engineer--LLVM---New-College-Grad-2024_JR1976292",
+        "locations": [
+            "Austin, TX",
+            "Redmond, WA",
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
         "is_visible": true,
         "sponsorship": "Other"
     }
