@@ -3974,7 +3974,7 @@
         "company_name": "XTX Markets",
         "id": "c7637337-dd11-491c-bfa0-231d1af32758",
         "title": "Operations Analyst - New York",
-        "active": true,
+        "active": false,
         "date_updated": 1695655218,
         "date_posted": 1695655218,
         "url": "https://boards.greenhouse.io/xtxmarketstechnologies/jobs/5754577003",
@@ -6025,6 +6025,22 @@
             "Santa Clara, CA"
         ],
         "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Palantir",
+        "id": "728f54e6-291b-4d2e-9229-2869dbf16426",
+        "title": "Forward Deployed Operations Engineer \u2013 New Grad - UK Government",
+        "active": true,
+        "date_updated": 1701792940,
+        "date_posted": 1701792940,
+        "url": "https://jobs.lever.co/palantir/228262da-877a-4040-b866-2a0388745012/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
         "is_visible": true,
         "sponsorship": "Other"
     }
