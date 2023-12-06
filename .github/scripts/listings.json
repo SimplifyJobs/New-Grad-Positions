@@ -6043,5 +6043,21 @@
         "company_url": "https://simplify.jobs/c/Palantir",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Fluence",
+        "id": "280409a9-743b-4720-acd7-6b1ce6b4da5e",
+        "title": "Rotational Engineer-Early Career",
+        "active": true,
+        "date_updated": 1701821693,
+        "date_posted": 1701821693,
+        "url": "https://jobs.lever.co/fluence/e7314912-3f06-4bfe-a641-fecb593fee53/apply",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Fluence",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
