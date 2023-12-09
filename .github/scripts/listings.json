@@ -6076,5 +6076,37 @@
         "company_url": "https://simplify.jobs/c/Salesforce",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Nutanix",
+        "id": "97ca344f-5bcc-4fd3-b069-16eca4a5c427",
+        "title": "Software Engineer 1 / Early Career",
+        "active": true,
+        "date_updated": 1702080876,
+        "date_posted": 1702080876,
+        "url": "https://jobs.jobvite.com/nutanix/job/olIaqfwn?nl=1&nl=1&fr=false",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Nutanix",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Flipp",
+        "id": "ada0351d-3f61-451c-ac5c-705136ad995b",
+        "title": "Data Engineer Associate",
+        "active": true,
+        "date_updated": 1702080838,
+        "date_posted": 1702080838,
+        "url": "https://corp.flipp.com/job-openings/?gh_jid=5475373",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/Flipp",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
