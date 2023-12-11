@@ -6108,5 +6108,21 @@
         "company_url": "https://simplify.jobs/c/Flipp",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Alto Pharmacy",
+        "id": "215494a2-b45f-43cd-806f-8b0c6e13175b",
+        "title": "Early Career Software Engineer",
+        "active": true,
+        "date_updated": 1702229019,
+        "date_posted": 1702229019,
+        "url": "https://boards.greenhouse.io/alto/jobs/5559075",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/Alto",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
