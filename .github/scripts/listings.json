@@ -4087,7 +4087,7 @@
         "company_name": "Zoom",
         "id": "5f071fd6-cccf-4e44-a712-5a8e8cbcb54c",
         "title": "Video Codec Engineer \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1695885327,
         "date_posted": 1695885327,
         "url": "https://zoom.wd5.myworkdayjobs.com/Zoom/job/Bay-Area-CA/Video-Codec-Engineer---New-Grad_R12371-1",
@@ -4667,7 +4667,7 @@
         "company_name": "Zoom",
         "id": "2b97493b-d362-4e31-91fc-9c31afbccf66",
         "title": "AI Machine Learning Speech Engineer \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1697009216,
         "date_posted": 1697009216,
         "url": "https://zoom.wd5.myworkdayjobs.com/Zoom/job/Bay-Area-CA/AI-Machine-Learning-Speech-Engineer---New-Grad_R12440-2",
@@ -6049,7 +6049,7 @@
         "company_name": "Fluence",
         "id": "280409a9-743b-4720-acd7-6b1ce6b4da5e",
         "title": "Rotational Engineer-Early Career",
-        "active": true,
+        "active": false,
         "date_updated": 1701821693,
         "date_posted": 1701821693,
         "url": "https://jobs.lever.co/fluence/e7314912-3f06-4bfe-a641-fecb593fee53/apply",
@@ -6138,6 +6138,22 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NVIDIA",
+        "id": "095ba836-08e3-44e0-850e-f44fdc6a38da",
+        "title": "ASIC Timing Engineer \u2013 New College Grad 2023",
+        "active": true,
+        "date_updated": 1702340569,
+        "date_posted": 1702340569,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/ASIC-Timing-Engineer---New-College-Grad-2023_JR1974629",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
         "is_visible": true,
         "sponsorship": "Other"
     }
