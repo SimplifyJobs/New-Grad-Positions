@@ -6204,5 +6204,87 @@
         "company_url": "https://simplify.jobs/c/Workato",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Neuralink",
+        "id": "bd90b104-47bf-4bb3-8869-4da207d66e6d",
+        "title": "Software Engineer New Grad",
+        "active": true,
+        "date_updated": 1702427027,
+        "date_posted": 1702427027,
+        "url": "https://boards.greenhouse.io/neuralink/jobs/5832835003",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Neuralink",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NVIDIA",
+        "id": "b312cb7c-8ed0-41a8-89a1-2feaa5879f2e",
+        "title": "System Verification Infrastructure Engineer \u2013 New College Grad 2024",
+        "active": true,
+        "date_updated": 1702426337,
+        "date_posted": 1702426337,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/System-Verification-Infrastructure-Engineer---New-College-Grad-2024_JR1976679",
+        "locations": [
+            "Santa Clara, CA",
+            "Durham, NC",
+            "Hillsboro, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NVIDIA",
+        "id": "f01473a9-5ff0-4fd8-bfeb-82a291c37049",
+        "title": "Verification Engineer \u2013 New College Grad 2024 - Memory Controller",
+        "active": true,
+        "date_updated": 1702426336,
+        "date_posted": 1702426336,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/Canada-Toronto/Verification-Engineer--Memory-Controller---New-College-Grad-2024_JR1976784",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wayfair",
+        "id": "f578e2d5-cff0-4a52-a489-5280d4fad97c",
+        "title": "Data Engineer",
+        "active": true,
+        "date_updated": 1702426184,
+        "date_posted": 1702426184,
+        "url": "https://www.wayfair.com/careers/jobs/7060893002?gh_jid=7060893002",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Wayfair",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Minitab",
+        "id": "edd280cb-1630-41af-9e5b-fa5753561fe6",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1702426084,
+        "date_posted": 1702426084,
+        "url": "https://boards.greenhouse.io/minitab/jobs/5832420003",
+        "locations": [
+            "State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Minitab",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
