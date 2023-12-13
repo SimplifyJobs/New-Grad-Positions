@@ -5030,7 +5030,7 @@
         "company_name": "Cover Genius",
         "id": "f7c6819b-a9f0-4436-b5a9-d7d7a1927e1c",
         "title": "Client Solutions Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1697901798,
         "date_posted": 1697901798,
         "url": "https://jobs.lever.co/covergenius/1b3ff878-a773-43b8-ad4d-760bd733b36a/apply",
@@ -6154,6 +6154,54 @@
             "Santa Clara, CA"
         ],
         "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Fluence",
+        "id": "5e12914c-f035-4f00-93b3-f2430b509ee3",
+        "title": "Rotational Engineer-Early Career",
+        "active": true,
+        "date_updated": 1702402054,
+        "date_posted": 1702402054,
+        "url": "https://jobs.lever.co/fluence/4732bf55-220e-47dd-ab8c-b908d73c59db/apply",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Fluence",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Workato",
+        "id": "948ad13d-8715-4a39-a2cc-2b3704e25232",
+        "title": "Interaction Designer",
+        "active": true,
+        "date_updated": 1702401713,
+        "date_posted": 1702401713,
+        "url": "https://boards.greenhouse.io/workato/jobs/6895438002",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Workato",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Workato",
+        "id": "45a56d83-7f0e-46c8-8e3f-147ccc53c92a",
+        "title": "Interaction Designer",
+        "active": true,
+        "date_updated": 1702401713,
+        "date_posted": 1702401713,
+        "url": "https://boards.greenhouse.io/workato/jobs/7060655002",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Workato",
         "is_visible": true,
         "sponsorship": "Other"
     }
