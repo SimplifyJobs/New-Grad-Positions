@@ -1580,7 +1580,7 @@
         "company_name": "Palantir",
         "id": "629d4b11-0984-442c-b615-51b48771615b",
         "title": "Forward Deployed Software Engineer \u2013 New Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1691428023,
         "date_posted": 1690932001,
         "url": "https://jobs.lever.co/palantir/8dcdb586-46ae-4f94-9d05-7f1989400049/apply",
@@ -6178,7 +6178,7 @@
         "company_name": "Workato",
         "id": "948ad13d-8715-4a39-a2cc-2b3704e25232",
         "title": "Interaction Designer",
-        "active": true,
+        "active": false,
         "date_updated": 1702401713,
         "date_posted": 1702401713,
         "url": "https://boards.greenhouse.io/workato/jobs/6895438002",
@@ -6194,7 +6194,7 @@
         "company_name": "Workato",
         "id": "45a56d83-7f0e-46c8-8e3f-147ccc53c92a",
         "title": "Interaction Designer",
-        "active": true,
+        "active": false,
         "date_updated": 1702401713,
         "date_posted": 1702401713,
         "url": "https://boards.greenhouse.io/workato/jobs/7060655002",
@@ -6276,7 +6276,7 @@
         "company_name": "Minitab",
         "id": "edd280cb-1630-41af-9e5b-fa5753561fe6",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1702426084,
         "date_posted": 1702426084,
         "url": "https://boards.greenhouse.io/minitab/jobs/5832420003",
@@ -6318,5 +6318,21 @@
         "date_posted": 1702538729,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Relativity Space",
+        "id": "f92e40db-8e68-40e6-b0a6-4b879c2e0ce3",
+        "title": "GNC Engineer I",
+        "active": true,
+        "date_updated": 1702513261,
+        "date_posted": 1702513261,
+        "url": "https://boards.greenhouse.io/relativity/jobs/7060330002",
+        "locations": [
+            "Long Beach, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Relativity-Space",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
