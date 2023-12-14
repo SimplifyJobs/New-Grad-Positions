@@ -6286,5 +6286,21 @@
         "company_url": "https://simplify.jobs/c/Minitab",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1702538695,
+        "url": "https://canonical.com/careers/3964543",
+        "company_name": "Canonical",
+        "title": "Graduate Linux System Engineer - QA, Tooling, Automation",
+        "locations": [
+            "Home based - Worldwide"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "ditirodt",
+        "id": "53741d8a-5e95-4c62-988f-4373b9f509a4",
+        "date_posted": 1702538695,
+        "company_url": "",
+        "is_visible": true
     }
 ]
