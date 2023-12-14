@@ -6302,5 +6302,21 @@
         "date_posted": 1702538695,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1702538729,
+        "url": "https://www.mwam.com/news/graduate/technology-graduate-programme-nyc/",
+        "company_name": "Marshall Wace",
+        "title": "New Grad Software Engineer",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "mwam-hackathon",
+        "id": "46bef04b-b2a7-40c4-9841-88ff85857bde",
+        "date_posted": 1702538729,
+        "company_url": "",
+        "is_visible": true
     }
 ]
