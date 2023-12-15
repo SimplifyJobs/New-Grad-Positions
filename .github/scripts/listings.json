@@ -6366,5 +6366,21 @@
         "company_url": "https://simplify.jobs/c/Column",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "CDC Foundation",
+        "id": "669a1764-9c36-4636-88b0-45613bde6238",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1702653420,
+        "date_posted": 1701821656,
+        "url": "https://jobs.lever.co/cdcfoundation/b8bdc1f8-f9aa-4c86-96c8-308649dcfbd6/apply",
+        "locations": [
+            "Pennsylvania"
+        ],
+        "company_url": "https://simplify.jobs/c/CDC-Foundation",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
