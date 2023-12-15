@@ -62,6 +62,8 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **[NVIDIA](https://simplify.jobs/c/NVIDIA)** | Software Engineer – New College Grad 2024 - Deep Learning Inference Workflows | Santa Clara, CA | <a href="https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineer--Deep-Learning-Inference-Workflows---New-College-Grad-2024_JR1977150?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/7c8a2086-b53c-4c6c-b11d-6bb0558055af?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Dec 15 |
+| **[Column](https://simplify.jobs/c/Column)** | Techops Engineer – New Grad | SF | <a href="https://jobs.ashbyhq.com/column/6ae2fc02-bc21-4281-ae20-e816ebdf0d90/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/9bdcd991-4a37-4c93-bdd1-dd396d961714?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Dec 15 |
 | **Marshall Wace** | New Grad Software Engineer | New York, NY | <a href="https://www.mwam.com/news/graduate/technology-graduate-programme-nyc/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 14 |
 | **[Canonical](https://simplify.jobs/c/Canonical)** | Graduate Linux System Engineer - QA, Tooling, Automation | Home based - Worldwide | <a href="https://canonical.com/careers/3964543?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 14 |
 | **[Relativity Space](https://simplify.jobs/c/Relativity-Space)** | GNC Engineer I | Long Beach, CA | <a href="https://boards.greenhouse.io/relativity/jobs/7060330002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/f92e40db-8e68-40e6-b0a6-4b879c2e0ce3?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Dec 14 |
@@ -179,7 +181,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **CDC Foundation** | Data Analyst | Arizona | 🔒 | Oct 02 |
 | **Chartboost** | Data Engineer | SF | 🔒 | Sep 30 |
 | **Businessolver** | Java Engineer I - Work Remotely within the United States | Remote in USA | 🔒 | Sep 29 |
-| **Palantir** | Software Engineer – New Grad | Denver, CO | 🔒 | Sep 29 |
+| **[Palantir](https://simplify.jobs/c/Palantir)** | Software Engineer – New Grad | Denver, CO | <a href="https://jobs.lever.co/palantir/c34b424e-caf2-455a-b104-ae1096ccca29/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/7e134007-3fa8-4732-84ca-e7119c8f4116?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Sep 29 |
 | **SoFi** | New Grad – Software Engineer - Borrow | Helena, MT | 🔒 | Sep 29 |
 | **Optiver** | Campus: Software Engineer - 2024 Start - Austin | Austin, TX | 🔒 | Sep 29 |
 | **84.51 Degrees** | Software Engineer - Development Program 2024 | Chicago, IL</br>Cincinnati, OH | 🔒 | Sep 29 |
@@ -276,7 +278,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **January** | Software Engineer - New York City | NYC | 🔒 | Aug 31 |
 | **January** | Software Engineer - San Francisco | SF | 🔒 | Aug 31 |
 | **Disher** | RPA Developer | Remote | 🔒 | Aug 30 |
-| **Ramp** | New Grad 2024 - Software Engineer - Backend | NYC | 🔒 | Aug 30 |
+| **[Ramp](https://simplify.jobs/c/Ramp)** | New Grad 2024 - Software Engineer - Backend | NYC | <a href="https://jobs.ashbyhq.com/ramp/29663a4b-c457-4a38-bbdf-069f189b20eb/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/ebe01b3a-3eff-478b-baa4-8981955031a1?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Aug 30 |
 | **Bankers Healthcare Group** | Quantitative Analyst - Credit Risk | Plantation, FL | 🔒 | Aug 30 |
 | **Bankers Healthcare Group** | Quantitative Analyst - Credit Risk | Remote in USA | 🔒 | Aug 30 |
 | **NVIDIA** | GPU Performance Software Engineer – New College Grad 2023 | Santa Clara, CA | 🔒 | Aug 30 |
