@@ -2451,7 +2451,7 @@
         "company_name": "Ramp",
         "id": "ebe01b3a-3eff-478b-baa4-8981955031a1",
         "title": "New Grad 2024 - Software Engineer - Backend",
-        "active": false,
+        "active": true,
         "date_updated": 1693437422,
         "date_posted": 1693437422,
         "url": "https://jobs.ashbyhq.com/ramp/29663a4b-c457-4a38-bbdf-069f189b20eb/application",
@@ -4264,7 +4264,7 @@
         "company_name": "Palantir",
         "id": "7e134007-3fa8-4732-84ca-e7119c8f4116",
         "title": "Software Engineer \u2013 New Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1696029158,
         "date_posted": 1696029158,
         "url": "https://jobs.lever.co/palantir/c34b424e-caf2-455a-b104-ae1096ccca29/apply",
@@ -6332,6 +6332,38 @@
             "Long Beach, CA"
         ],
         "company_url": "https://simplify.jobs/c/Relativity-Space",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NVIDIA",
+        "id": "7c8a2086-b53c-4c6c-b11d-6bb0558055af",
+        "title": "Software Engineer \u2013 New College Grad 2024 - Deep Learning Inference Workflows",
+        "active": true,
+        "date_updated": 1702599498,
+        "date_posted": 1702599498,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineer--Deep-Learning-Inference-Workflows---New-College-Grad-2024_JR1977150",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Column",
+        "id": "9bdcd991-4a37-4c93-bdd1-dd396d961714",
+        "title": "Techops Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1702599460,
+        "date_posted": 1702599460,
+        "url": "https://jobs.ashbyhq.com/column/6ae2fc02-bc21-4281-ae20-e816ebdf0d90/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Column",
         "is_visible": true,
         "sponsorship": "Other"
     }
