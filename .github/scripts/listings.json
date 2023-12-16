@@ -3990,7 +3990,7 @@
         "company_name": "Figma",
         "id": "00806137-949a-4e8f-90da-0dc902be677c",
         "title": "Business Data Scientist \u2013 Early Career - 2024",
-        "active": true,
+        "active": false,
         "date_updated": 1695943319,
         "date_posted": 1695943319,
         "url": "https://boards.greenhouse.io/figma/jobs/4985943004",
@@ -6396,6 +6396,55 @@
             "Arlington, VA"
         ],
         "company_url": "https://simplify.jobs/c/Rackner",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Arista Networks",
+        "id": "b0c9897c-e8b5-4293-87b6-9efc14684afe",
+        "title": "Software Engineer \u2013 Fresh graduates",
+        "active": true,
+        "date_updated": 1702686808,
+        "date_posted": 1702686808,
+        "url": "https://jobs.smartrecruiters.com/AristaNetworks/743999951903703",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Arista-Networks",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NVIDIA",
+        "id": "b40c4587-ba6e-46ac-8c9b-7588bb4e1273",
+        "title": "Semiconductor Safety Engineer \u2013 New College Grad 2024",
+        "active": true,
+        "date_updated": 1702686237,
+        "date_posted": 1702686237,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Semiconductor-Safety-Engineer---New-College-Grad-2024_JR1976695",
+        "locations": [
+            "Austin, TX",
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NVIDIA",
+        "id": "a834ce2f-059b-46a0-91f2-a9175ede8d51",
+        "title": "DL Infrastructure Engineer \u2013 New College Grad 2024",
+        "active": true,
+        "date_updated": 1702686237,
+        "date_posted": 1702686237,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/DL-Infrastructure-Engineer---New-College-Grad-2024_JR1976801",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
         "is_visible": true,
         "sponsorship": "Other"
     }
