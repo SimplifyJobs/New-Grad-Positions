@@ -1580,7 +1580,7 @@
         "company_name": "Palantir",
         "id": "629d4b11-0984-442c-b615-51b48771615b",
         "title": "Forward Deployed Software Engineer \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1691428023,
         "date_posted": 1690932001,
         "url": "https://jobs.lever.co/palantir/8dcdb586-46ae-4f94-9d05-7f1989400049/apply",
@@ -1696,7 +1696,7 @@
         "company_name": "Palantir",
         "id": "0a14e404-4828-4af4-bb63-2fb23a5a061f",
         "title": "Software Engineer \u2013 New Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1692630748,
         "date_posted": 1692630748,
         "url": "https://jobs.lever.co/palantir/94984771-0704-446c-88c6-91ce748f6d92/apply",
@@ -1728,7 +1728,7 @@
         "company_name": "Jump Trading",
         "id": "a2563ed5-bb87-41d2-aa54-c4585c79b9aa",
         "title": "Campus Quantitative Researcher - Full-Time",
-        "active": true,
+        "active": false,
         "date_updated": 1692637880,
         "date_posted": 1692343958,
         "url": "https://boards.greenhouse.io/embed/job_app?token=5286900",
@@ -5498,7 +5498,7 @@
         "company_name": "Salesforce",
         "id": "97ab1823-0475-41d1-b953-cd029683fd0e",
         "title": "Software Engineering AMTS \u2013 New Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1699335068,
         "date_posted": 1699335068,
         "url": "https://salesforce.wd12.myworkdayjobs.com/en-us/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS--New-Grad-_JR217901-1",
@@ -6380,6 +6380,22 @@
             "Pennsylvania"
         ],
         "company_url": "https://simplify.jobs/c/CDC-Foundation",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Rackner",
+        "id": "b8e7840b-d463-46cf-b888-d455473ab9af",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1702663982,
+        "date_posted": 1702663982,
+        "url": "https://boards.greenhouse.io/rackner/jobs/4351048005",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Rackner",
         "is_visible": true,
         "sponsorship": "Other"
     }
