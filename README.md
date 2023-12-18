@@ -186,7 +186,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **CDC Foundation** | Data Analyst | Arizona | 🔒 | Oct 02 |
 | **Chartboost** | Data Engineer | SF | 🔒 | Sep 30 |
 | **Businessolver** | Java Engineer I - Work Remotely within the United States | Remote in USA | 🔒 | Sep 29 |
-| **[Palantir](https://simplify.jobs/c/Palantir)** | Software Engineer – New Grad | Denver, CO | <a href="https://jobs.lever.co/palantir/c34b424e-caf2-455a-b104-ae1096ccca29/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/7e134007-3fa8-4732-84ca-e7119c8f4116?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Sep 29 |
+| **Palantir** | Software Engineer – New Grad | Denver, CO | 🔒 | Sep 29 |
 | **SoFi** | New Grad – Software Engineer - Borrow | Helena, MT | 🔒 | Sep 29 |
 | **Optiver** | Campus: Software Engineer - 2024 Start - Austin | Austin, TX | 🔒 | Sep 29 |
 | **84.51 Degrees** | Software Engineer - Development Program 2024 | Chicago, IL</br>Cincinnati, OH | 🔒 | Sep 29 |
