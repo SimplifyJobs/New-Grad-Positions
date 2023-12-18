@@ -6447,5 +6447,21 @@
         "company_url": "https://simplify.jobs/c/NVIDIA",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cadence Design Systems",
+        "id": "aa8ca880-8ca7-46cd-9cb6-8ffd06555b1d",
+        "title": "Application Engineer \u2013 New College Grad",
+        "active": true,
+        "date_updated": 1702890709,
+        "date_posted": 1702890709,
+        "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/SAN-JOSE/Application-Engineer---New-College-Grad_R44174-1",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
