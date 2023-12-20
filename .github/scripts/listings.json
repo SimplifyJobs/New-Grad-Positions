@@ -6463,5 +6463,21 @@
         "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Zoox",
+        "id": "c47895b6-b040-44e9-9331-1e257c194836",
+        "title": "Software Engineer: Secure Embedded Operating Systems",
+        "active": true,
+        "date_updated": 1703033387,
+        "date_posted": 1703033387,
+        "url": "https://jobs.lever.co/zoox/12dbaf69-ad61-43bf-b7ee-550562746010/apply",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Zoox",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
