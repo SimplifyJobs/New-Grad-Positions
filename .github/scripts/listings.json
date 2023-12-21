@@ -6479,5 +6479,23 @@
         "company_url": "https://simplify.jobs/c/Zoox",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NVIDIA",
+        "id": "ae6b7d5e-b938-473b-a690-720b08097584",
+        "title": "GPU Compute Compiler Engineer \u2013 New College Grad 2024",
+        "active": true,
+        "date_updated": 1703119157,
+        "date_posted": 1703119157,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/GPU-Compute-Compiler-Engineer---New-College-Grad-2024_JR1977398",
+        "locations": [
+            "Austin, TX",
+            "Redmond, WA",
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
