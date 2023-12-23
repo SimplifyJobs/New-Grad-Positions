@@ -6705,5 +6705,21 @@
         "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Jerry",
+        "id": "0544f579-b5b0-4118-854e-3298f08c52a7",
+        "title": "Full Stack Software Engineer - Chatbot",
+        "active": true,
+        "date_updated": 1703289967,
+        "date_posted": 1703289967,
+        "url": "https://jobs.ashbyhq.com/Jerry/d7553fef-61e1-444a-8e7a-83708cbddef2/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
