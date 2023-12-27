@@ -232,7 +232,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Salesforce** | Software Engineering AMTS – New Grad | Seattle, WA</br>SF</br>Remote in USA | 🔒 | Sep 20 |
 | **Scale AI** | Operations Program Manager - Customer Operations | Seattle, WA</br>SF</br>NYC | 🔒 | Sep 20 |
 | **Scale AI** | Operations Associate | <details><summary>**4 locations**</summary>SF</br>Dallas, TX</br>St. Louis, MO</br>NYC</details> | 🔒 | Sep 20 |
-| **[Codazen](https://simplify.jobs/c/Codazen)** | Full-Stack Engineer Winter New Grad | Irvine, CA | <a href="https://boards.greenhouse.io/codazen/jobs/4979883004?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/697af10a-abbb-4047-98e5-1b5483486c2c?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Sep 20 |
+| **Codazen** | Full-Stack Engineer Winter New Grad | Irvine, CA | 🔒 | Sep 20 |
 | **Oscar Health** | Data Scientist I - Risk Analytics | Remote | 🔒 | Sep 20 |
 | **Oscar Health** | Data Scientist I - Risk Analytics | LA | 🔒 | Sep 20 |
 | **Oscar Health** | Data Scientist I - Risk Analytics | NYC | 🔒 | Sep 20 |
