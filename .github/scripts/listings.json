@@ -6276,7 +6276,7 @@
         "company_name": "Minitab",
         "id": "edd280cb-1630-41af-9e5b-fa5753561fe6",
         "title": "Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1702426084,
         "date_posted": 1702426084,
         "url": "https://boards.greenhouse.io/minitab/jobs/5832420003",
