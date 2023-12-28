@@ -5129,7 +5129,7 @@
         "company_name": "Cadence Design Systems",
         "id": "7d8635a9-4ff2-486a-92cb-7713127877fd",
         "title": "Software Engineer \u2013 New College Grad 2024",
-        "active": true,
+        "active": false,
         "date_updated": 1698218044,
         "date_posted": 1698218044,
         "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/SAN-JOSE/Software-Engineer--New-College-Grad-2024-_R44430-3",
@@ -6719,6 +6719,73 @@
             "SF"
         ],
         "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "IXL Learning",
+        "id": "e356b0d8-019c-4e34-9459-fe6bdc72bb99",
+        "title": "Software Developer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1703722992,
+        "date_posted": 1703722992,
+        "url": "https://www.ixl.com/company/jobs?gh_jid=7076733002",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/IXL-Learning",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "IXL Learning",
+        "id": "60b342f6-c0c4-4c72-b779-09f44133a982",
+        "title": "Software Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1703722991,
+        "date_posted": 1703722991,
+        "url": "https://www.ixl.com/company/jobs?gh_jid=7076723002",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/IXL-Learning",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "IXL Learning",
+        "id": "d75bceb6-1f1e-41b5-b107-478386ce97d1",
+        "title": "Software Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1703722993,
+        "date_posted": 1703722993,
+        "url": "https://www.ixl.com/company/jobs?gh_jid=7076717002",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/IXL-Learning",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Hello Fresh",
+        "id": "89909ff8-141b-425a-a04d-67f84ec45e99",
+        "title": "Analyst \u2013 Planning",
+        "active": true,
+        "date_updated": 1703722783,
+        "date_posted": 1703722783,
+        "url": "https://careers.hellofresh.com/global/en/job/5589656?gh_jid=5589656",
+        "locations": [
+            "Newnan, GA",
+            "Newark, NJ",
+            "Phoenix, AZ",
+            "Irving, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Hello-Fresh",
         "is_visible": true,
         "sponsorship": "Other"
     }
