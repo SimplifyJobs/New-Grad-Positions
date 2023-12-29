@@ -6788,5 +6788,37 @@
         "company_url": "https://simplify.jobs/c/Hello-Fresh",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "CDC Foundation",
+        "id": "004404f9-e375-4feb-9fd3-233e98a0c2c0",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1703837606,
+        "date_posted": 1703837606,
+        "url": "https://jobs.lever.co/cdcfoundation/3434bbe2-2596-419b-8e26-5273452d0924/apply",
+        "locations": [
+            "Florida"
+        ],
+        "company_url": "https://simplify.jobs/c/CDC-Foundation",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "CDC Foundation",
+        "id": "e3aac1af-680e-4aad-9656-ce7981792beb",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1703837606,
+        "date_posted": 1703837606,
+        "url": "https://jobs.lever.co/cdcfoundation/a5cdba27-e4d5-4f9e-9f7c-8c0339f2d4a5/apply",
+        "locations": [
+            "Massachusetts"
+        ],
+        "company_url": "https://simplify.jobs/c/CDC-Foundation",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
