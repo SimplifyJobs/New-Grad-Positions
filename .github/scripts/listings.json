@@ -5757,7 +5757,7 @@
         "company_name": "Cadence Design Systems",
         "id": "50edac47-6d28-48dc-ad6f-90449701acdb",
         "title": "Software Engineer \u2013 New College Grad 2024",
-        "active": true,
+        "active": false,
         "date_updated": 1701352985,
         "date_posted": 1701352985,
         "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/BURLINGTON-01/Software-Engineer--New-College-Grad-2024-_R44307-3",
@@ -6818,6 +6818,22 @@
             "Massachusetts"
         ],
         "company_url": "https://simplify.jobs/c/CDC-Foundation",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NVIDIA",
+        "id": "b57eacb6-9779-4f3d-9d4e-dbf919f48aed",
+        "title": "Verification Engineer \u2013 New College Grad 2024 - Memory Controller",
+        "active": true,
+        "date_updated": 1703896418,
+        "date_posted": 1703896418,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Verification-Engineer--Memory-Controller---New-College-Grad-2024_JR1976229",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
         "is_visible": true,
         "sponsorship": "Other"
     }
