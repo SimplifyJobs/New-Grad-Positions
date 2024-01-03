@@ -2723,7 +2723,7 @@
         "company_name": "RVO Health",
         "id": "c512d8af-b7b8-442e-aa53-6d4886810d05",
         "title": "2024 Early Career Program: Data Analyst Intern",
-        "active": true,
+        "active": false,
         "date_updated": 1694892578,
         "date_posted": 1693581580,
         "url": "https://boards.greenhouse.io/rvohealth/jobs/4306587005",
@@ -6898,6 +6898,22 @@
             "Fremont, CA"
         ],
         "company_url": "https://simplify.jobs/c/1942a899-0df8-41ba-a9a2-69e9afa5961c",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "WeRide",
+        "id": "04fbcfe2-276a-4fac-8f36-483d14d33a4c",
+        "title": "Software Engineer \u2013 New Grads 2024 - Campus Recruiting",
+        "active": true,
+        "date_updated": 1704269954,
+        "date_posted": 1704269954,
+        "url": "https://jobs.lever.co/weride/f949226a-0c90-4368-84b2-eef81615ed62/apply",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/WeRide",
         "is_visible": true,
         "sponsorship": "Other"
     }
