@@ -309,7 +309,7 @@
         "company_name": "WeRide",
         "id": "bbe2f909-b51f-4c0e-ad96-0bea8d209cae",
         "title": "Software Engineer \u2013 New Grads 2024",
-        "active": true,
+        "active": false,
         "date_updated": 1691741157,
         "date_posted": 1691451121,
         "url": "https://jobs.lever.co/weride/6ee0e3cc-4f36-4224-a9b9-f5e79247ebef/apply",
@@ -6834,6 +6834,70 @@
             "Santa Clara, CA"
         ],
         "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Matroid",
+        "id": "86c7ce6d-b699-40ea-aea2-6abb467083e7",
+        "title": "Deep Learning Field Engineer",
+        "active": true,
+        "date_updated": 1704241371,
+        "date_posted": 1704241371,
+        "url": "https://matroid.breezy.hr/p/fd3a99c34bf6/apply",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Matroid",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Matroid",
+        "id": "019f774f-4f91-46a0-bc56-24c9606860e2",
+        "title": "Deep Learning Engineer",
+        "active": true,
+        "date_updated": 1704241369,
+        "date_posted": 1704241369,
+        "url": "https://matroid.breezy.hr/p/eb926c2e5033/apply",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Matroid",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Palantir",
+        "id": "fc30fd50-0806-493d-8d70-f71be1bb3d2e",
+        "title": "Product Designer \u2013 New Grad - US Government",
+        "active": true,
+        "date_updated": 1704240819,
+        "date_posted": 1704240819,
+        "url": "https://jobs.lever.co/palantir/25378ba0-db78-4c70-8174-a05ce514fc65/apply",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "pony.ai",
+        "id": "11dd71d6-6294-43e1-aa72-69ed7329f37c",
+        "title": "Software Engineer - Data and Evaluation",
+        "active": true,
+        "date_updated": 1704248027,
+        "date_posted": 1701390290,
+        "url": "https://apply.workable.com/pony-dot-ai/j/56A463E1D3/apply",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/1942a899-0df8-41ba-a9a2-69e9afa5961c",
         "is_visible": true,
         "sponsorship": "Other"
     }
