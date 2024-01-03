@@ -62,6 +62,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **[Matroid](https://simplify.jobs/c/Matroid)** | Deep Learning Field Engineer | Palo Alto, CA | <a href="https://matroid.breezy.hr/p/fd3a99c34bf6/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/86c7ce6d-b699-40ea-aea2-6abb467083e7?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jan 03 |
+| **[Matroid](https://simplify.jobs/c/Matroid)** | Deep Learning Engineer | Palo Alto, CA | <a href="https://matroid.breezy.hr/p/eb926c2e5033/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/019f774f-4f91-46a0-bc56-24c9606860e2?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jan 03 |
+| **[Palantir](https://simplify.jobs/c/Palantir)** | Product Designer – New Grad - US Government | Washington, DC | <a href="https://jobs.lever.co/palantir/25378ba0-db78-4c70-8174-a05ce514fc65/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/fc30fd50-0806-493d-8d70-f71be1bb3d2e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jan 03 |
 | **[NVIDIA](https://simplify.jobs/c/NVIDIA)** | Verification Engineer – New College Grad 2024 - Memory Controller | Santa Clara, CA | <a href="https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Verification-Engineer--Memory-Controller---New-College-Grad-2024_JR1976229?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/b57eacb6-9779-4f3d-9d4e-dbf919f48aed?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Dec 30 |
 | **CDC Foundation** | Data Analyst | Florida | 🔒 | Dec 29 |
 | **[CDC Foundation](https://simplify.jobs/c/CDC-Foundation)** | Data Analyst | Massachusetts | <a href="https://jobs.lever.co/cdcfoundation/a5cdba27-e4d5-4f9e-9f7c-8c0339f2d4a5/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/e3aac1af-680e-4aad-9656-ce7981792beb?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Dec 29 |
@@ -119,6 +122,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Visa** | Software Engineer - New College Grad-2024 | Austin, TX | 🔒 | Dec 02 |
 | **Hex Technologies** | AI Engineer | Remote | 🔒 | Dec 02 |
 | **Proprio** | Software Engineer: Algorithms | Seattle, WA | 🔒 | Dec 01 |
+| **[pony.ai](https://simplify.jobs/c/1942a899-0df8-41ba-a9a2-69e9afa5961c)** | Software Engineer - Data and Evaluation | Fremont, CA | <a href="https://apply.workable.com/pony-dot-ai/j/56A463E1D3/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/11dd71d6-6294-43e1-aa72-69ed7329f37c?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Dec 01 |
 | **theScore** | Data Scientist | Toronto, ON, Canada | 🔒 | Nov 30 |
 | **Arsiem Corporation** | Software Engineer 0 | Annapolis Junction, MD | 🔒 | Nov 30 |
 | **[Instacart](https://simplify.jobs/c/Instacart)** | Software Engineer | Toronto, ON, Canada | <a href="https://instacart.careers/job/?gh_jid=5509474&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/7639ace4-240f-4fa1-a181-65bb60fcfacd?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Nov 30 |
@@ -370,7 +374,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Color** | New Grad Software Engineer | Remote in USA | 🔒 | Aug 09 |
 | **Tensley Consulting** | Software Engineer Lvl 3 | Annapolis Junction, MD | 🔒 | Aug 09 |
 | **Tensley Consulting** | Software Engineer Level 1 - Java-focused | Annapolis Junction, MD | 🔒 | Aug 09 |
-| **[WeRide](https://simplify.jobs/c/WeRide)** | Software Engineer – New Grads 2024 | San Jose, CA | <a href="https://jobs.lever.co/weride/6ee0e3cc-4f36-4224-a9b9-f5e79247ebef/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/bbe2f909-b51f-4c0e-ad96-0bea8d209cae?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Aug 07 |
+| **WeRide** | Software Engineer – New Grads 2024 | San Jose, CA | 🔒 | Aug 07 |
 | **Palantir** | Forward Deployed Software Engineer – New Grad - US Government | NYC | 🔒 | Aug 07 |
 | **Woodard Curran** | Entry-level Data Integration Specialist | Helena, MT | 🔒 | Aug 07 |
 | **Databricks** | Software Engineer – New Grad - 2024 Start | Bellevue, WA | 🔒 | Aug 04 |
