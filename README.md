@@ -229,7 +229,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **FreedomPay** | Software Engineer Associate - Device Team | Philadelphia, PA | 🔒 | Sep 26 |
 | **Pinterest** | University Grad Software Engineer - USA | Remote in USA | 🔒 | Sep 26 |
 | **Pinterest** | University Grad Software Engineer - Palo Alto | Palo Alto, CA | 🔒 | Sep 26 |
-| **[Pinterest](https://simplify.jobs/c/Pinterest)** | Mobile Engineer University Grad - USA | Remote in USA | <a href="https://www.pinterestcareers.com/job-form?gh_jid=5379748&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/bd51c2f3-0e6e-42db-8720-9aa50e270f35?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Sep 26 |
+| **Pinterest** | Mobile Engineer University Grad - USA | Remote in USA | 🔒 | Sep 26 |
 | **HBK Capital Management** | Systems Developer | Dallas, TX | 🔒 | Sep 26 |
 | **XTX Markets** | Operations Analyst - New York | NYC | 🔒 | Sep 25 |
 | **Uncountable** | Product Manager (New Grad) | SF</br>NYC | 🔒 | Sep 25 |
