@@ -6098,7 +6098,7 @@
         "company_name": "Flipp",
         "id": "ada0351d-3f61-451c-ac5c-705136ad995b",
         "title": "Data Engineer Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1702080838,
         "date_posted": 1702080838,
         "url": "https://corp.flipp.com/job-openings/?gh_jid=5475373",
@@ -6340,7 +6340,7 @@
         "company_name": "NVIDIA",
         "id": "7c8a2086-b53c-4c6c-b11d-6bb0558055af",
         "title": "Software Engineer \u2013 New College Grad 2024 - Deep Learning Inference Workflows",
-        "active": true,
+        "active": false,
         "date_updated": 1702599498,
         "date_posted": 1702599498,
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineer--Deep-Learning-Inference-Workflows---New-College-Grad-2024_JR1977150",
@@ -6469,7 +6469,7 @@
         "company_name": "Zoox",
         "id": "c47895b6-b040-44e9-9331-1e257c194836",
         "title": "Software Engineer: Secure Embedded Operating Systems",
-        "active": true,
+        "active": false,
         "date_updated": 1703033387,
         "date_posted": 1703033387,
         "url": "https://jobs.lever.co/zoox/12dbaf69-ad61-43bf-b7ee-550562746010/apply",
@@ -6914,6 +6914,38 @@
             "San Jose, CA"
         ],
         "company_url": "https://simplify.jobs/c/WeRide",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "CoreWeave",
+        "id": "7268416b-4943-4290-9285-62cd63b28b4a",
+        "title": "IT Specialist II",
+        "active": true,
+        "date_updated": 1704413560,
+        "date_posted": 1704413560,
+        "url": "https://boards.greenhouse.io/coreweave/jobs/4319006006",
+        "locations": [
+            "Livingston, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/CoreWeave",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Visa",
+        "id": "4d35cd15-a698-4ceb-95c7-1711bb7954b8",
+        "title": "Associate Systems Analyst \u2013 New College Grad - 2024",
+        "active": true,
+        "date_updated": 1704413197,
+        "date_posted": 1704413197,
+        "url": "https://jobs.smartrecruiters.com/Visa/743999956829374",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
         "is_visible": true,
         "sponsorship": "Other"
     }
