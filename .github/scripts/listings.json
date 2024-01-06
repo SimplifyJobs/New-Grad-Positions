@@ -6775,7 +6775,7 @@
         "company_name": "Hello Fresh",
         "id": "89909ff8-141b-425a-a04d-67f84ec45e99",
         "title": "Analyst \u2013 Planning",
-        "active": true,
+        "active": false,
         "date_updated": 1703722783,
         "date_posted": 1703722783,
         "url": "https://careers.hellofresh.com/global/en/job/5589656?gh_jid=5589656",
@@ -6946,6 +6946,22 @@
             "Austin, TX"
         ],
         "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Constellation Technologies",
+        "id": "e13cba19-e8c7-4ebd-894e-6565bfd1d3f6",
+        "title": "Software Engineer \u2013 Entry level",
+        "active": true,
+        "date_updated": 1704485281,
+        "date_posted": 1703089742,
+        "url": "https://jobs.lever.co/cti-md/4ad8792e-81ce-44f9-bb70-a39a6c136d6c/apply",
+        "locations": [
+            "Odenton, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Constellation-Technologies",
         "is_visible": true,
         "sponsorship": "Other"
     }
