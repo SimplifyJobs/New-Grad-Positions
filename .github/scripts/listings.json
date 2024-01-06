@@ -6938,7 +6938,7 @@
         "company_name": "Visa",
         "id": "4d35cd15-a698-4ceb-95c7-1711bb7954b8",
         "title": "Associate Systems Analyst \u2013 New College Grad - 2024",
-        "active": true,
+        "active": false,
         "date_updated": 1704413197,
         "date_posted": 1704413197,
         "url": "https://jobs.smartrecruiters.com/Visa/743999956829374",
@@ -6962,6 +6962,22 @@
             "Odenton, MD"
         ],
         "company_url": "https://simplify.jobs/c/Constellation-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Visa",
+        "id": "be21cf0e-aace-4709-a5f3-a3de2c283b2e",
+        "title": "Associate Systems Analyst \u2013 New College Grad - 2024",
+        "active": true,
+        "date_updated": 1704507292,
+        "date_posted": 1704507292,
+        "url": "https://jobs.smartrecruiters.com/Visa/743999957173263",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
         "is_visible": true,
         "sponsorship": "Other"
     }
