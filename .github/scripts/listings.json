@@ -6980,5 +6980,37 @@
         "company_url": "https://simplify.jobs/c/Visa",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Western Digital",
+        "id": "cfd44e63-0568-459f-bcb3-bdc5b8d0f569",
+        "title": "New College Grad Software Engineer-Firmware Engineering - HDD Servo Signal Integration and Detection",
+        "active": true,
+        "date_updated": 1704758954,
+        "date_posted": 1704758954,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/743999957710749",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Digital",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NVIDIA",
+        "id": "1163206c-6a74-412a-84e2-6de3d9777ef7",
+        "title": "Machine Learning Software Platform Architecture \u2013 New College Grad 2024",
+        "active": true,
+        "date_updated": 1704758857,
+        "date_posted": 1704758857,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Machine-Learning-Software-Platform-Architecture---New-College-Grad-2024_JR1977849",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
