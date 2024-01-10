@@ -254,7 +254,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Oscar Health** | Data Scientist I - Risk Analytics | Remote | 🔒 | Sep 20 |
 | **Oscar Health** | Data Scientist I - Risk Analytics | LA | 🔒 | Sep 20 |
 | **Oscar Health** | Data Scientist I - Risk Analytics | NYC | 🔒 | Sep 20 |
-| **[Trumid](https://simplify.jobs/c/Trumid)** | Fixed Income Operations Analyst | NYC | <a href="https://boards.greenhouse.io/trumid/jobs/4976920003?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/23bc99ee-fcd6-4118-8f64-7f7e9eac4d70?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Sep 19 |
+| **Trumid** | Fixed Income Operations Analyst | NYC | 🔒 | Sep 19 |
 | **NVIDIA** | Firmware Engineer – New College Grad 2023 | Santa Clara, CA | 🔒 | Sep 19 |
 | **TuSimple** | Map Engine Engineer | San Diego, CA | 🔒 | Sep 18 |
 | **TuSimple** | Localization Engineer | San Diego, CA | 🔒 | Sep 18 |
