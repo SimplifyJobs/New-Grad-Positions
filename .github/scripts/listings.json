@@ -2515,7 +2515,7 @@
         "company_name": "January",
         "id": "45c9e42a-982e-40ba-adf0-58ea2308e370",
         "title": "Software Engineer - New York City",
-        "active": false,
+        "active": true,
         "date_updated": 1693523739,
         "date_posted": 1693523739,
         "url": "https://boards.greenhouse.io/january/jobs/4017063007",
@@ -4522,7 +4522,7 @@
         "company_name": "NVIDIA",
         "id": "4586c131-1c8d-4228-85e8-99bdc5784e67",
         "title": "Silicon Solution Engineer \u2013 New College Grad 2024",
-        "active": true,
+        "active": false,
         "date_updated": 1696922870,
         "date_posted": 1696922870,
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Silicon-Solution-Engineer---New-College-Grad-2024_JR1973425",
@@ -7006,6 +7006,22 @@
         "date_updated": 1704758857,
         "date_posted": 1704758857,
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Machine-Learning-Software-Platform-Architecture---New-College-Grad-2024_JR1977849",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NVIDIA",
+        "id": "150d4747-07c2-486c-a0bf-a7ea9ca22475",
+        "title": "GPU Architect \u2013 New College Grad 2024",
+        "active": true,
+        "date_updated": 1704931645,
+        "date_posted": 1704931645,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/GPU-Architect---New-College-Grad-2024_JR1978164",
         "locations": [
             "Santa Clara, CA"
         ],
