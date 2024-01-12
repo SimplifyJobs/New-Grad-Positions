@@ -7028,5 +7028,21 @@
         "company_url": "https://simplify.jobs/c/NVIDIA",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "ServiceNow",
+        "id": "71316a55-6ac0-41c6-8b3a-c86378c8bdc7",
+        "title": "Finance Development Rotation Program \u2013 New Grad",
+        "active": true,
+        "date_updated": 1705018411,
+        "date_posted": 1705018411,
+        "url": "https://jobs.smartrecruiters.com/ServiceNow/743999958349044",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ServiceNow",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
