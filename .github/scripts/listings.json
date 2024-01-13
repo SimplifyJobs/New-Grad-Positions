@@ -5773,7 +5773,7 @@
         "company_name": "Cadence Design Systems",
         "id": "90e657dd-cc0d-4e49-b483-615485f2d971",
         "title": "Software Engineer \u2013 New College Grad 2024",
-        "active": true,
+        "active": false,
         "date_updated": 1701352966,
         "date_posted": 1701352966,
         "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/SAN-JOSE/Software-Engineer--New-College-Grad-2024-_R44443",
@@ -6711,7 +6711,7 @@
         "company_name": "Jerry",
         "id": "0544f579-b5b0-4118-854e-3298f08c52a7",
         "title": "Full Stack Software Engineer - Chatbot",
-        "active": true,
+        "active": false,
         "date_updated": 1703289967,
         "date_posted": 1703289967,
         "url": "https://jobs.ashbyhq.com/Jerry/d7553fef-61e1-444a-8e7a-83708cbddef2/application",
@@ -6970,7 +6970,7 @@
         "company_name": "Visa",
         "id": "be21cf0e-aace-4709-a5f3-a3de2c283b2e",
         "title": "Associate Systems Analyst \u2013 New College Grad - 2024",
-        "active": true,
+        "active": false,
         "date_updated": 1704507292,
         "date_posted": 1704507292,
         "url": "https://jobs.smartrecruiters.com/Visa/743999957173263",
@@ -7042,6 +7042,38 @@
             "Santa Clara, CA"
         ],
         "company_url": "https://simplify.jobs/c/ServiceNow",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Alarm.com",
+        "id": "196b7020-3960-4d92-aeea-3594640a8dca",
+        "title": "Associate Build and Release Engineer",
+        "active": true,
+        "date_updated": 1705105489,
+        "date_posted": 1705105489,
+        "url": "https://boards.greenhouse.io/alarmcom/jobs/7076985002",
+        "locations": [
+            "Vienna, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Alarm",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Jerry",
+        "id": "a239912c-fd45-4b7b-888f-5984d64e02e9",
+        "title": "Full Stack Software Engineer - Chatbot",
+        "active": true,
+        "date_updated": 1705104367,
+        "date_posted": 1705104367,
+        "url": "https://jobs.ashbyhq.com/Jerry/3e70ea16-af8f-49e6-bc07-2aa041c07c38/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
         "is_visible": true,
         "sponsorship": "Other"
     }
