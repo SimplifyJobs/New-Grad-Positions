@@ -179,7 +179,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Palantir** | Software Engineer – New Grad | Washington, DC | 🔒 | Oct 26 |
 | **Visa** | Site Reliability Engineer – New College Grad - 2024 | Austin, TX | 🔒 | Oct 26 |
 | **AnaVation LLC** | Software Developer - Remote | Chantilly, VA | 🔒 | Oct 25 |
-| **[Palantir](https://simplify.jobs/c/Palantir)** | Forward Deployed Software Engineer – New Grad - UK Government | London, UK | <a href="https://jobs.lever.co/palantir/b4aa51a2-bc43-4d67-bf55-12db7feefb3a/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/7b0e9437-e5f3-4413-98c1-7ea5c125a2af?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Oct 25 |
+| **Palantir** | Forward Deployed Software Engineer – New Grad - UK Government | London, UK | 🔒 | Oct 25 |
 | **Cadence Design Systems** | Software Engineer – New College Grad 2024 | Austin, TX</br>San Jose, CA | 🔒 | Oct 25 |
 | **Jane Street** | Teaching Assistants - Mathematics - Academy of Math and Programming - Amp | NYC | 🔒 | Oct 24 |
 | **Jane Street** | Teaching Assistants - Computer Science - Academy of Math and Programming - Amp | NYC | 🔒 | Oct 24 |
