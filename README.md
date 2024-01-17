@@ -62,6 +62,8 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **[Jamf](https://simplify.jobs/c/Jamf)** | Technical Support Associate – Entry Level - High Potential | Remote in USA | <a href="https://www.jamf.com/about/careers/jobs/?gh_jid=5009559004&gh_jid=5009559004&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/9a658828-d7aa-4270-934b-03f38b4b1edc?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jan 17 |
+| **[Similarweb](https://simplify.jobs/c/Similarweb)** | Data Scientist – Entry Level | NYC | <a href="https://boards.greenhouse.io/similarweb/jobs/5621763?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/d1bef516-0bff-4f59-a8cf-de498aa3cc15?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jan 17 |
 | **[Alarm.com](https://simplify.jobs/c/Alarm)** | Associate Build and Release Engineer | Vienna, VA | <a href="https://boards.greenhouse.io/alarmcom/jobs/7076985002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/196b7020-3960-4d92-aeea-3594640a8dca?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jan 13 |
 | **[Jerry](https://simplify.jobs/c/Jerry)** | Full Stack Software Engineer - Chatbot | SF | <a href="https://jobs.ashbyhq.com/Jerry/3e70ea16-af8f-49e6-bc07-2aa041c07c38/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/a239912c-fd45-4b7b-888f-5984d64e02e9?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jan 13 |
 | **[ServiceNow](https://simplify.jobs/c/ServiceNow)** | Finance Development Rotation Program – New Grad | Santa Clara, CA | <a href="https://jobs.smartrecruiters.com/ServiceNow/743999958349044?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/71316a55-6ac0-41c6-8b3a-c86378c8bdc7?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jan 12 |
@@ -225,7 +227,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **CDC Foundation** | Data Analyst | Arizona | 🔒 | Oct 02 |
 | **Chartboost** | Data Engineer | SF | 🔒 | Sep 30 |
 | **Businessolver** | Java Engineer I - Work Remotely within the United States | Remote in USA | 🔒 | Sep 29 |
-| **Palantir** | Software Engineer – New Grad | Denver, CO | 🔒 | Sep 29 |
+| **[Palantir](https://simplify.jobs/c/Palantir)** | Software Engineer – New Grad | Denver, CO | <a href="https://jobs.lever.co/palantir/c34b424e-caf2-455a-b104-ae1096ccca29/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/7e134007-3fa8-4732-84ca-e7119c8f4116?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Sep 29 |
 | **SoFi** | New Grad – Software Engineer - Borrow | Helena, MT | 🔒 | Sep 29 |
 | **Optiver** | Campus: Software Engineer - 2024 Start - Austin | Austin, TX | 🔒 | Sep 29 |
 | **84.51 Degrees** | Software Engineer - Development Program 2024 | Chicago, IL</br>Cincinnati, OH | 🔒 | Sep 29 |
@@ -389,10 +391,10 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Palantir** | Forward Deployed Software Engineer – New Grad - US Government | NYC | 🔒 | Aug 07 |
 | **Woodard Curran** | Entry-level Data Integration Specialist | Helena, MT | 🔒 | Aug 07 |
 | **Databricks** | Software Engineer – New Grad - 2024 Start | Bellevue, WA | 🔒 | Aug 04 |
-| **[Databricks](https://simplify.jobs/c/Databricks)** | Software Engineer – New Grad - Distributed Data Systems - 2024 Start | Bellevue, WA | <a href="https://boards.greenhouse.io/embed/job_app?token=6866556002&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/e3d21593-1e8b-450d-b6d6-003cb9b886d3?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Aug 04 |
+| **Databricks** | Software Engineer – New Grad - Distributed Data Systems - 2024 Start | Bellevue, WA | 🔒 | Aug 04 |
 | **Databricks** | Software Engineer – New Grad - 2024 Start | Mountain View, CA | 🔒 | Aug 04 |
 | **Databricks** | Software Engineer – New Grad - 2024 Start | SF | 🔒 | Aug 04 |
-| **[Databricks](https://simplify.jobs/c/Databricks)** | Software Engineer – New Grad - Distributed Data Systems - 2024 Start | Mountain View, CA | <a href="https://boards.greenhouse.io/embed/job_app?token=6865704002&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/992ceb83-2b59-4901-b82d-8ca2b8edc498?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Aug 04 |
+| **Databricks** | Software Engineer – New Grad - Distributed Data Systems - 2024 Start | Mountain View, CA | 🔒 | Aug 04 |
 | **[The Voleon Group](https://simplify.jobs/c/The-Voleon-Group)** | Data Scientist | Oakland, CA | <a href="https://jobs.lever.co/voleon/ebd0306d-4353-4b10-be9d-479af8127617/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/05818f02-8334-4c43-bc92-eb2b09113918?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Aug 04 |
 | **Belvedere Trading** | Software Engineer – Entry Level 2024 Chicago | Chicago, IL | 🔒 | Aug 04 |
 | **Belvedere Trading** | Junior Trader – Entry Level 2024 | Chicago, IL | 🔒 | Aug 04 |
