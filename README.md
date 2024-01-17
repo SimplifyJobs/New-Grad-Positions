@@ -319,7 +319,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **SeatGeek** | Application Security Engineer – New Grad | Remote in USA | 🔒 | Sep 01 |
 | **SeatGeek** | Data Analyst – New Grad | NYC | 🔒 | Sep 01 |
 | **SeatGeek** | Data Analyst – New Grad | Remote in USA | 🔒 | Sep 01 |
-| **[January](https://simplify.jobs/c/January)** | Software Engineer - New York City | NYC | <a href="https://boards.greenhouse.io/january/jobs/4017063007?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/45c9e42a-982e-40ba-adf0-58ea2308e370?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Aug 31 |
+| **January** | Software Engineer - New York City | NYC | 🔒 | Aug 31 |
 | **January** | Software Engineer - San Francisco | SF | 🔒 | Aug 31 |
 | **Disher** | RPA Developer | Remote | 🔒 | Aug 30 |
 | **[Ramp](https://simplify.jobs/c/Ramp)** | New Grad 2024 - Software Engineer - Backend | NYC | <a href="https://jobs.ashbyhq.com/ramp/29663a4b-c457-4a38-bbdf-069f189b20eb/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/ebe01b3a-3eff-478b-baa4-8981955031a1?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Aug 30 |
