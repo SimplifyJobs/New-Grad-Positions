@@ -389,7 +389,7 @@
         "company_name": "Databricks",
         "id": "e3d21593-1e8b-450d-b6d6-003cb9b886d3",
         "title": "Software Engineer \u2013 New Grad - Distributed Data Systems - 2024 Start",
-        "active": true,
+        "active": false,
         "date_updated": 1691191948,
         "date_posted": 1691191948,
         "url": "https://boards.greenhouse.io/embed/job_app?token=6866556002",
@@ -437,7 +437,7 @@
         "company_name": "Databricks",
         "id": "992ceb83-2b59-4901-b82d-8ca2b8edc498",
         "title": "Software Engineer \u2013 New Grad - Distributed Data Systems - 2024 Start",
-        "active": true,
+        "active": false,
         "date_updated": 1691191947,
         "date_posted": 1691191947,
         "url": "https://boards.greenhouse.io/embed/job_app?token=6865704002",
@@ -4264,7 +4264,7 @@
         "company_name": "Palantir",
         "id": "7e134007-3fa8-4732-84ca-e7119c8f4116",
         "title": "Software Engineer \u2013 New Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1696029158,
         "date_posted": 1696029158,
         "url": "https://jobs.lever.co/palantir/c34b424e-caf2-455a-b104-ae1096ccca29/apply",
@@ -7074,6 +7074,38 @@
             "SF"
         ],
         "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Jamf",
+        "id": "9a658828-d7aa-4270-934b-03f38b4b1edc",
+        "title": "Technical Support Associate \u2013 Entry Level - High Potential",
+        "active": true,
+        "date_updated": 1705450324,
+        "date_posted": 1705450324,
+        "url": "https://www.jamf.com/about/careers/jobs/?gh_jid=5009559004&gh_jid=5009559004",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Jamf",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Similarweb",
+        "id": "d1bef516-0bff-4f59-a8cf-de498aa3cc15",
+        "title": "Data Scientist \u2013 Entry Level",
+        "active": true,
+        "date_updated": 1705450083,
+        "date_posted": 1705450083,
+        "url": "https://boards.greenhouse.io/similarweb/jobs/5621763",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Similarweb",
         "is_visible": true,
         "sponsorship": "Other"
     }
