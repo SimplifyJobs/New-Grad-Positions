@@ -2515,7 +2515,7 @@
         "company_name": "January",
         "id": "45c9e42a-982e-40ba-adf0-58ea2308e370",
         "title": "Software Engineer - New York City",
-        "active": true,
+        "active": false,
         "date_updated": 1693523739,
         "date_posted": 1693523739,
         "url": "https://boards.greenhouse.io/january/jobs/4017063007",
