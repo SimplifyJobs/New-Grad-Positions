@@ -4715,7 +4715,7 @@
         "company_name": "Qumulo",
         "id": "a8073961-2f91-4938-a1fb-721cb7c8be9a",
         "title": "Software Development Engineer: Entry-Level - 2024",
-        "active": true,
+        "active": false,
         "date_updated": 1697008857,
         "date_posted": 1697008857,
         "url": "https://boards.greenhouse.io/qumulo/jobs/5427091",
@@ -7154,6 +7154,22 @@
             "Rochester, MN"
         ],
         "company_url": "https://simplify.jobs/c/Western-Digital",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Codazen",
+        "id": "072b3c31-67dc-4102-a448-8257aca7d419",
+        "title": "Full-Stack Engineer Summer 2024 New Grad",
+        "active": true,
+        "date_updated": 1705623524,
+        "date_posted": 1705623524,
+        "url": "https://boards.greenhouse.io/codazen/jobs/4980889004",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Codazen",
         "is_visible": true,
         "sponsorship": "Other"
     }
