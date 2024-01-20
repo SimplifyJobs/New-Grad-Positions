@@ -3614,7 +3614,7 @@
         "company_name": "Chan Zuckerberg Biohub ",
         "id": "39d79baa-01a6-4d27-8dcc-3d9aecfe040f",
         "title": "Application Engineer - Advanced Optical Microscopy",
-        "active": true,
+        "active": false,
         "date_updated": 1695079079,
         "date_posted": 1695079079,
         "url": "https://boards.greenhouse.io/chanzuckerbergbiohub/jobs/4303847005",
@@ -6485,7 +6485,7 @@
         "company_name": "NVIDIA",
         "id": "ae6b7d5e-b938-473b-a690-720b08097584",
         "title": "GPU Compute Compiler Engineer \u2013 New College Grad 2024",
-        "active": false,
+        "active": true,
         "date_updated": 1703119157,
         "date_posted": 1703119157,
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/GPU-Compute-Compiler-Engineer---New-College-Grad-2024_JR1977398",
@@ -7170,6 +7170,103 @@
             "Irvine, CA"
         ],
         "company_url": "https://simplify.jobs/c/Codazen",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "The RealReal",
+        "id": "3e5d04a9-c43d-4785-829d-f8f156c77556",
+        "title": "Associate Specialist - Fjw",
+        "active": true,
+        "date_updated": 1705710050,
+        "date_posted": 1705710050,
+        "url": "https://boards.greenhouse.io/therealreal/jobs/7104483002",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/The-RealReal",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Pure Storage",
+        "id": "28b1f02f-0c26-47ec-a169-7e0f9ba749cb",
+        "title": "Software Engineer Grad",
+        "active": true,
+        "date_updated": 1705709597,
+        "date_posted": 1705709597,
+        "url": "https://boards.greenhouse.io/purestorage/jobs/5370588",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pure-Storage",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Akuna Capital",
+        "id": "4f671015-2e62-4358-bc1c-cdfabb83940c",
+        "title": "Women in Trading Sneak Peek Week - 2024",
+        "active": true,
+        "date_updated": 1705709318,
+        "date_posted": 1705709318,
+        "url": "https://www.akunacapital.com/job-details?gh_jid=5630638",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Akuna-Capital",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NVIDIA",
+        "id": "cdeccbc1-b611-4bbb-b216-7a56303c1104",
+        "title": "Architecture Energy Modeling Engineer \u2013 New College Grad 2024",
+        "active": true,
+        "date_updated": 1705709149,
+        "date_posted": 1705709149,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Architecture-Energy-Modeling-Engineer---New-College-Grad-2024_JR1978377",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NVIDIA",
+        "id": "b2f93fe7-3a5d-4b07-94ae-883c9ce397ad",
+        "title": "Power Architect \u2013 New College Grad 2024",
+        "active": true,
+        "date_updated": 1705709148,
+        "date_posted": 1705709148,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Power-Architect---New-College-Grad-2024_JR1978209",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NVIDIA",
+        "id": "0dbea02c-f2ca-4e9e-a1a4-259935d2d9e7",
+        "title": "Backend Compiler Engineer \u2013 New College Grad 2024 - Gpu",
+        "active": true,
+        "date_updated": 1705709147,
+        "date_posted": 1705709147,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-TX-Austin/Backend-Compiler-Engineer--GPU---New-College-Grad-2024_JR1976920",
+        "locations": [
+            "Austin, TX",
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
         "is_visible": true,
         "sponsorship": "Other"
     }
