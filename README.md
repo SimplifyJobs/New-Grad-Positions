@@ -216,7 +216,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Tenstorrent** | Physical Design Engineer – New Grad - AI/CPU Silicon Design | United States | 🔒 | Oct 11 |
 | **Zoom** | AI Machine Learning Engineer – New Grad | Oakland, CA | 🔒 | Oct 11 |
 | **Zoom** | AI Machine Learning Engineer – New Grad | Oakland, CA | 🔒 | Oct 11 |
-| **Zoom** | AI Machine Learning Speech Engineer – New Grad | Oakland, CA | 🔒 | Oct 11 |
+| **[Zoom](https://simplify.jobs/c/Zoom)** | AI Machine Learning Speech Engineer – New Grad | Oakland, CA | <a href="https://zoom.wd5.myworkdayjobs.com/Zoom/job/Bay-Area-CA/AI-Machine-Learning-Speech-Engineer---New-Grad_R12440-2?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/2b97493b-d362-4e31-91fc-9c31afbccf66?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Oct 11 |
 | **Zoom** | AI Machine Learning Engineer – New Grad | Oakland, CA | 🔒 | Oct 11 |
 | **[NVIDIA](https://simplify.jobs/c/NVIDIA)** | Solutions Architect – New College Grad - Wwfo | Santa Clara, CA | <a href="https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Solutions-Architect--WWFO---New-College-Grad_JR1970906-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/2b3b00e6-e994-4d77-8f05-4b856b44650f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Oct 11 |
 | **Qumulo** | Software Development Engineer: Entry-Level - 2024 | Seattle, WA | 🔒 | Oct 11 |
