@@ -5869,7 +5869,7 @@
         "company_name": "Navan (fka TripActions)",
         "id": "d101e5df-e633-4dbf-a173-7059964bd55c",
         "title": "New College Grad Software Engineer - Front-End",
-        "active": true,
+        "active": false,
         "date_updated": 1701348269,
         "date_posted": 1701348269,
         "url": "https://tripactions.com/job-openings?gh_jid=5511373",
@@ -7267,6 +7267,22 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Gelber Group",
+        "id": "fdebcec9-3d76-4db0-b15f-1be66ed04a3b",
+        "title": "Trade Desk Analyst",
+        "active": true,
+        "date_updated": 1705940556,
+        "date_posted": 1705940556,
+        "url": "https://boards.greenhouse.io/gelbergroup/jobs/4325528006",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/GelberGroup",
         "is_visible": true,
         "sponsorship": "Other"
     }
