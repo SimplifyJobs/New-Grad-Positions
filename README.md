@@ -133,7 +133,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **NVIDIA** | ASIC Timing Engineer – New College Grad 2023 | Santa Clara, CA | 🔒 | Dec 12 |
 | **[Palantir](https://simplify.jobs/c/Palantir)** | Product Designer – New Grad | London, UK | <a href="https://jobs.lever.co/palantir/c2b9add6-f347-4ee3-b5cd-2edc3a9053d2/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/c41e7b6e-6076-4c77-84a6-4e502511f63e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Dec 11 |
 | **Alto Pharmacy** | Early Career Software Engineer | Remote | 🔒 | Dec 10 |
-| **[Nutanix](https://simplify.jobs/c/Nutanix)** | Software Engineer 1 / Early Career | San Jose, CA | <a href="https://jobs.jobvite.com/nutanix/job/olIaqfwn?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/97ca344f-5bcc-4fd3-b069-16eca4a5c427?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Dec 09 |
+| **Nutanix** | Software Engineer 1 / Early Career | San Jose, CA | 🔒 | Dec 09 |
 | **Flipp** | Data Engineer Associate | Remote | 🔒 | Dec 09 |
 | **Salesforce** | Software Engineer AMTS/MTS – New Grad | Seattle, WA</br>SF | 🔒 | Dec 08 |
 | **Fluence** | Rotational Engineer-Early Career | Houston, TX | 🔒 | Dec 06 |
