@@ -3678,7 +3678,7 @@
         "company_name": "Trumid",
         "id": "23bc99ee-fcd6-4118-8f64-7f7e9eac4d70",
         "title": "Fixed Income Operations Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1695165849,
         "date_posted": 1695165849,
         "url": "https://boards.greenhouse.io/trumid/jobs/4976920003",
@@ -5901,7 +5901,7 @@
         "company_name": "Waabi",
         "id": "40e7d371-bf25-430e-953a-78d41f8f4e14",
         "title": "Software Engineer - Simulation",
-        "active": true,
+        "active": false,
         "date_updated": 1701354161,
         "date_posted": 1690988943,
         "url": "https://jobs.lever.co/waabi/2bebc91d-b75e-4ab3-9177-9e663443befc/apply",
@@ -7283,6 +7283,38 @@
             "Chicago, IL"
         ],
         "company_url": "https://simplify.jobs/c/GelberGroup",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cadence Design Systems",
+        "id": "b71c4ad3-04a2-4f17-bbc7-0d3681a70109",
+        "title": "Software Engineer II \u2013 New College Grad - Burlington - MA/Greater Boston Area",
+        "active": true,
+        "date_updated": 1706055709,
+        "date_posted": 1706055709,
+        "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/BURLINGTON-01/Software-Engineer-II--Burlington--MA-Greater-Boston-Area----New-College-Grad_R45039-1",
+        "locations": [
+            "Northridge, LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Abnormal Security",
+        "id": "3199ded2-4fa2-4cf8-abfb-1b04eae54cfe",
+        "title": "Software Engineer II - Cloud Infrastructure",
+        "active": true,
+        "date_updated": 1706055349,
+        "date_posted": 1706055349,
+        "url": "https://careers.abnormalsecurity.com/jobs/5867723003?gh_jid=5867723003",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Abnormal-Security",
         "is_visible": true,
         "sponsorship": "Other"
     }
