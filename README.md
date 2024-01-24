@@ -62,6 +62,8 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **[Cadence Design Systems](https://simplify.jobs/c/Cadence-Design-Systems)** | Software Engineer II – New College Grad - Burlington - MA/Greater Boston Area | Northridge, LA | <a href="https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/BURLINGTON-01/Software-Engineer-II--Burlington--MA-Greater-Boston-Area----New-College-Grad_R45039-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/b71c4ad3-04a2-4f17-bbc7-0d3681a70109?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jan 24 |
+| **[Abnormal Security](https://simplify.jobs/c/Abnormal-Security)** | Software Engineer II - Cloud Infrastructure | Remote in USA | <a href="https://careers.abnormalsecurity.com/jobs/5867723003?gh_jid=5867723003&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/3199ded2-4fa2-4cf8-abfb-1b04eae54cfe?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jan 24 |
 | **[Gelber Group](https://simplify.jobs/c/GelberGroup)** | Trade Desk Analyst | Chicago, IL | <a href="https://boards.greenhouse.io/gelbergroup/jobs/4325528006?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/fdebcec9-3d76-4db0-b15f-1be66ed04a3b?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jan 22 |
 | **[The RealReal](https://simplify.jobs/c/The-RealReal)** | Associate Specialist - Fjw | Phoenix, AZ | <a href="https://boards.greenhouse.io/therealreal/jobs/7104483002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/3e5d04a9-c43d-4785-829d-f8f156c77556?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jan 20 |
 | **[Pure Storage](https://simplify.jobs/c/Pure-Storage)** | Software Engineer Grad | Santa Clara, CA | <a href="https://boards.greenhouse.io/purestorage/jobs/5370588?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/28b1f02f-0c26-47ec-a169-7e0f9ba749cb?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jan 20 |
@@ -271,7 +273,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Oscar Health** | Data Scientist I - Risk Analytics | Remote | 🔒 | Sep 20 |
 | **Oscar Health** | Data Scientist I - Risk Analytics | LA | 🔒 | Sep 20 |
 | **Oscar Health** | Data Scientist I - Risk Analytics | NYC | 🔒 | Sep 20 |
-| **Trumid** | Fixed Income Operations Analyst | NYC | 🔒 | Sep 19 |
+| **[Trumid](https://simplify.jobs/c/Trumid)** | Fixed Income Operations Analyst | NYC | <a href="https://boards.greenhouse.io/trumid/jobs/4976920003?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/23bc99ee-fcd6-4118-8f64-7f7e9eac4d70?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Sep 19 |
 | **NVIDIA** | Firmware Engineer – New College Grad 2023 | Santa Clara, CA | 🔒 | Sep 19 |
 | **TuSimple** | Map Engine Engineer | San Diego, CA | 🔒 | Sep 18 |
 | **TuSimple** | Localization Engineer | San Diego, CA | 🔒 | Sep 18 |
@@ -417,7 +419,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Veeva Systems** | Associate Software Engineer – Seeking 2024 Grads | Raleigh, NC | 🔒 | Aug 02 |
 | **Veeva Systems** | Associate Software Engineer – Master’s 2024 Graduates in Computer Science | Cambridge, MA | 🔒 | Aug 02 |
 | **Veeva Systems** | Associate Performance Engineer – Seeking 2024 Grads | Cambridge, MA | 🔒 | Aug 02 |
-| **[Waabi](https://simplify.jobs/c/Waabi)** | Software Engineer - Simulation | Toronto, ON, Canada</br>SF</br>Remote in USA | <a href="https://jobs.lever.co/waabi/2bebc91d-b75e-4ab3-9177-9e663443befc/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/40e7d371-bf25-430e-953a-78d41f8f4e14?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Aug 02 |
+| **Waabi** | Software Engineer - Simulation | Toronto, ON, Canada</br>SF</br>Remote in USA | 🔒 | Aug 02 |
 | **Veeva Systems** | Associate Software Engineer – Seeking 2024 Grads | Cambridge, MA | 🔒 | Aug 02 |
 | **Veeva Systems** | Associate Software Engineer – Master’s 2024 Graduates in Computer Science | Toronto, ON, Canada | 🔒 | Aug 02 |
 | **Veeva Systems** | Associate Performance Engineer – Seeking 2024 Grads | Pleasanton, CA | 🔒 | Aug 02 |
