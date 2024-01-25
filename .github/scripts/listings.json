@@ -7317,5 +7317,53 @@
         "company_url": "https://simplify.jobs/c/Abnormal-Security",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Budderfly",
+        "id": "594ce3d3-70b9-402d-ac34-e269e93fb0cc",
+        "title": "Associate Energy Engineer - Solutions Development-Remote",
+        "active": true,
+        "date_updated": 1706142478,
+        "date_posted": 1706142478,
+        "url": "https://www.budderfly.com/careers/?gh_jid=4325405006",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/715640ea-fa92-4777-ac12-6b43cfa63c65",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Alexandra Lozano Immigration Law PLLC",
+        "id": "33b6fa0a-bff7-4df6-924a-10d9cfb4de2e",
+        "title": "IT Support Bilingual English/Spanish",
+        "active": true,
+        "date_updated": 1706142210,
+        "date_posted": 1706142210,
+        "url": "https://boards.greenhouse.io/alexandralozanoimmigrationlawpllc/jobs/5066148004",
+        "locations": [
+            "Tukwila, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Alexandra-Lozano-Immigration-Law-Pllc",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NVIDIA",
+        "id": "05f95ee6-4e16-4d2b-95e8-9c1b55b25a84",
+        "title": "Software Engineer \u2013 New College Grad 2024 - Chip Design Tools",
+        "active": true,
+        "date_updated": 1706141338,
+        "date_posted": 1706141338,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineer--Chip-Design-Tools---New-College-Grad-2024_JR1978759",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
