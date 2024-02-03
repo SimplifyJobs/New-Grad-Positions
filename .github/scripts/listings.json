@@ -7403,7 +7403,7 @@
         "company_name": "Western Digital",
         "id": "9233a51b-051d-46f5-b586-425aee06c735",
         "title": "New College Grad - Software Engineer - System Testing",
-        "active": true,
+        "active": false,
         "date_updated": 1706746151,
         "date_posted": 1706746151,
         "url": "https://jobs.smartrecruiters.com/WesternDigital/743999963048583",
@@ -7541,6 +7541,22 @@
             "Mountain View, CA"
         ],
         "company_url": "https://simplify.jobs/c/NewsBreak",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Trustpilot",
+        "id": "0768b3f5-ada5-46b9-a637-1dad31717de5",
+        "title": "Fraud Detection Analyst",
+        "active": true,
+        "date_updated": 1706890810,
+        "date_posted": 1706890810,
+        "url": "https://business.trustpilot.com/jobs/5616339?gh_jid=5616339",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Trustpilot",
         "is_visible": true,
         "sponsorship": "Other"
     }
