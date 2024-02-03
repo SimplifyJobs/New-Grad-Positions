@@ -7533,7 +7533,7 @@
         "company_name": "NewsBreak",
         "id": "1d8e7ec9-fef4-48da-9a60-c4c37d0b3cbc",
         "title": "Software Engineer \u2013 Junior & New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1706833541,
         "date_posted": 1706833541,
         "url": "https://boards.greenhouse.io/newsbreak/jobs/4054592006",
@@ -7557,6 +7557,22 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/Trustpilot",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Gelber Group",
+        "id": "c407d606-269e-43bd-ac9c-12d3ee3eb791",
+        "title": "Software Engineer-Equity Derivatives Desk",
+        "active": true,
+        "date_updated": 1706919769,
+        "date_posted": 1706919769,
+        "url": "https://boards.greenhouse.io/gelbergroup/jobs/4330057006",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/GelberGroup",
         "is_visible": true,
         "sponsorship": "Other"
     }
