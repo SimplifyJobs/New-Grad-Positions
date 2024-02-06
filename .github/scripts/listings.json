@@ -1420,7 +1420,7 @@
         "company_name": "Harmony",
         "id": "626e92e4-f7bc-4395-8672-043964f5ce95",
         "title": "AI Backend Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1689728548,
         "date_posted": 1689728548,
         "url": "https://jobs.lever.co/harmony/80681513-b887-4a9b-b725-6bba0e7e4e9f/apply",
@@ -6874,7 +6874,7 @@
         "company_name": "Palantir",
         "id": "fc30fd50-0806-493d-8d70-f71be1bb3d2e",
         "title": "Product Designer \u2013 New Grad - US Government",
-        "active": true,
+        "active": false,
         "date_updated": 1704240819,
         "date_posted": 1704240819,
         "url": "https://jobs.lever.co/palantir/25378ba0-db78-4c70-8174-a05ce514fc65/apply",
@@ -7589,6 +7589,38 @@
             "Canada"
         ],
         "company_url": "https://simplify.jobs/c/Zynga",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Qualtrics",
+        "id": "f62b75a4-f8f3-45b3-83eb-1eb6728ab214",
+        "title": "Security Operations Engineer I - Provo",
+        "active": true,
+        "date_updated": 1707178894,
+        "date_posted": 1707178894,
+        "url": "https://www.qualtrics.com/careers/us/en/job/5641207?gh_jid=5641207",
+        "locations": [
+            "Provo, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Qualtrics",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Relativity Space",
+        "id": "71853290-996b-465a-948c-fef601f24304",
+        "title": "Materials & Processes Engineer I - General Metallics",
+        "active": true,
+        "date_updated": 1707178873,
+        "date_posted": 1707178873,
+        "url": "https://boards.greenhouse.io/relativity/jobs/7166121002",
+        "locations": [
+            "Long Beach, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Relativity-Space",
         "is_visible": true,
         "sponsorship": "Other"
     }
