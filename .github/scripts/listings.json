@@ -581,7 +581,7 @@
         "company_name": "Yassir",
         "id": "91408924-5a47-4353-99c5-760093414fe6",
         "title": "Backend Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1690960694,
         "date_posted": 1690960694,
         "url": "https://jobs.lever.co/Yassir/010628b3-b386-45f4-b153-904c5e6d1ee6/apply",
@@ -7082,7 +7082,7 @@
         "company_name": "Jamf",
         "id": "9a658828-d7aa-4270-934b-03f38b4b1edc",
         "title": "Technical Support Associate \u2013 Entry Level - High Potential",
-        "active": false,
+        "active": true,
         "date_updated": 1705450324,
         "date_posted": 1705450324,
         "url": "https://www.jamf.com/about/careers/jobs/?gh_jid=5009559004&gh_jid=5009559004",
@@ -7371,7 +7371,7 @@
         "company_name": "NVIDIA",
         "id": "a263286a-f4bc-41b7-b0e1-fda0cc4d48c1",
         "title": "Deep Learning Tools Developer \u2013 New College Grad 2024",
-        "active": true,
+        "active": false,
         "date_updated": 1706774842,
         "date_posted": 1706774842,
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Deep-Learning-Tools-Developer---New-College-Grad-2024_JR1978973",
@@ -7419,7 +7419,7 @@
         "company_name": "Hudl",
         "id": "4678c9a9-075f-4ba4-b6dd-16fd0ba76278",
         "title": "Quality Assurance Engineer I \u2013 May Graduates",
-        "active": true,
+        "active": false,
         "date_updated": 1706314744,
         "date_posted": 1706314744,
         "url": "https://boards.greenhouse.io/hudl/jobs/5652204",
@@ -7452,7 +7452,7 @@
         "company_name": "Hudl",
         "id": "0b6bd5a6-2ac9-4790-aba0-4cfa71af20c0",
         "title": "Quality Assurance Engineer I \u2013 May Graduates",
-        "active": true,
+        "active": false,
         "date_updated": 1706314746,
         "date_posted": 1706314746,
         "url": "https://boards.greenhouse.io/hudl/jobs/5633984",
@@ -7565,7 +7565,7 @@
         "company_name": "Gelber Group",
         "id": "c407d606-269e-43bd-ac9c-12d3ee3eb791",
         "title": "Software Engineer-Equity Derivatives Desk",
-        "active": true,
+        "active": false,
         "date_updated": 1706919769,
         "date_posted": 1706919769,
         "url": "https://boards.greenhouse.io/gelbergroup/jobs/4330057006",
@@ -7621,6 +7621,118 @@
             "Long Beach, CA"
         ],
         "company_url": "https://simplify.jobs/c/Relativity-Space",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Redsox",
+        "id": "f75de2f1-d530-488b-aed5-6b997f16e3e8",
+        "title": "Developer \u2013 Baseball Systems",
+        "active": true,
+        "date_updated": 1707333761,
+        "date_posted": 1707333761,
+        "url": "https://jobs.lever.co/redsox/9d53d177-05c0-4d65-bd19-198973a583c6/apply",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/7cc38e40-51a5-49b3-ae8b-e6aa87543f5b",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Empowerly",
+        "id": "706a3c20-9781-4cdc-b81b-10bd8f83417c",
+        "title": "Product Manager",
+        "active": true,
+        "date_updated": 1707333733,
+        "date_posted": 1707333733,
+        "url": "https://jobs.lever.co/empowerly/38d07a6b-254c-4c5a-8da1-3e1e805e4c24/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/e94071bc-d06f-4d5c-8184-38e7ec715dd6",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Barkley",
+        "id": "2f9a6d05-6612-4a9b-bc46-d3242797297e",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1707333712,
+        "date_posted": 1707333712,
+        "url": "https://boards.greenhouse.io/barkley/jobs/5034218004",
+        "locations": [
+            "Kansas City, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/94a5947b-139f-46d0-860d-e1dcdcdd8515",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "DRW",
+        "id": "3577e15e-6eea-44e8-99e4-fa9a2f1f0d69",
+        "title": "Equities Operations Specialist",
+        "active": true,
+        "date_updated": 1707333173,
+        "date_posted": 1707333173,
+        "url": "https://boards.greenhouse.io/drweng/jobs/5682653",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/DRW",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Welocalize",
+        "id": "856c81b6-410a-4143-8c0a-5a5238458981",
+        "title": "Entry-Level AI Data Rater - English - US",
+        "active": true,
+        "date_updated": 1707332762,
+        "date_posted": 1707332762,
+        "url": "https://jobs.lever.co/welocalize/b6af22c2-0ae8-432f-bdce-90ffda2f555a/apply",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Welocalize",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Rockset",
+        "id": "02d1b24a-8f83-4242-a430-823c208dc488",
+        "title": "Software Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1707332188,
+        "date_posted": 1707332188,
+        "url": "https://jobs.lever.co/rockset/714a81cc-8133-4a14-aa50-60049b161d18/apply",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Rockset",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Fortra",
+        "id": "e588419d-6b77-4f69-b45b-8856909683ca",
+        "title": "Data Protection Analyst",
+        "active": true,
+        "date_updated": 1707331857,
+        "date_posted": 1707331857,
+        "url": "https://boards.greenhouse.io/fortra/jobs/4301255006",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/22d09017-c391-425c-975e-d260b660cb64",
         "is_visible": true,
         "sponsorship": "Other"
     }
