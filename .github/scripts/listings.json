@@ -20,7 +20,7 @@
         "company_name": "Rhombus Power",
         "id": "8e46c64a-e3a8-4a32-8438-1548f821d117",
         "title": "Data Engineer - Colorado Springs",
-        "active": true,
+        "active": false,
         "date_updated": 1692376616,
         "date_posted": 1692376616,
         "url": "https://boards.greenhouse.io/rhombuspower/jobs/5432893003",
@@ -36,7 +36,7 @@
         "company_name": "Rhombus Power",
         "id": "2004c9ed-17b1-424a-bc9f-c9c9121556d9",
         "title": "Data Engineer - Omaha",
-        "active": true,
+        "active": false,
         "date_updated": 1692376624,
         "date_posted": 1692376624,
         "url": "https://boards.greenhouse.io/rhombuspower/jobs/5432899003",
@@ -5629,7 +5629,7 @@
         "company_name": "Rhombus Power",
         "id": "d292cec4-8e27-48ac-9297-7e88204f4bd2",
         "title": "Data Engineer - Active TS or TS/SCI Clearance - Honolulu",
-        "active": true,
+        "active": false,
         "date_updated": 1699530450,
         "date_posted": 1699530450,
         "url": "https://boards.greenhouse.io/rhombuspower/jobs/5432896003",
@@ -7082,7 +7082,7 @@
         "company_name": "Jamf",
         "id": "9a658828-d7aa-4270-934b-03f38b4b1edc",
         "title": "Technical Support Associate \u2013 Entry Level - High Potential",
-        "active": true,
+        "active": false,
         "date_updated": 1705450324,
         "date_posted": 1705450324,
         "url": "https://www.jamf.com/about/careers/jobs/?gh_jid=5009559004&gh_jid=5009559004",
@@ -7733,6 +7733,22 @@
             "United States"
         ],
         "company_url": "https://simplify.jobs/c/22d09017-c391-425c-975e-d260b660cb64",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Evisort",
+        "id": "a6b2eb64-047a-4831-a5dc-41f889ebd75b",
+        "title": "Legal Fellow",
+        "active": true,
+        "date_updated": 1707351421,
+        "date_posted": 1707351421,
+        "url": "https://jobs.lever.co/evisort-2/58c9c460-99f4-4d5e-854f-3c624ef36b37/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Evisort",
         "is_visible": true,
         "sponsorship": "Other"
     }
