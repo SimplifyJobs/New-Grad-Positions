@@ -6922,7 +6922,7 @@
         "company_name": "CoreWeave",
         "id": "7268416b-4943-4290-9285-62cd63b28b4a",
         "title": "IT Specialist II",
-        "active": true,
+        "active": false,
         "date_updated": 1704413560,
         "date_posted": 1704413560,
         "url": "https://boards.greenhouse.io/coreweave/jobs/4319006006",
@@ -7709,7 +7709,7 @@
         "company_name": "Rockset",
         "id": "02d1b24a-8f83-4242-a430-823c208dc488",
         "title": "Software Engineer \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1707332188,
         "date_posted": 1707332188,
         "url": "https://jobs.lever.co/rockset/714a81cc-8133-4a14-aa50-60049b161d18/apply",
@@ -7749,6 +7749,54 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Evisort",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Govini",
+        "id": "ef519f7e-0a08-4732-8c8f-c58e28e595b1",
+        "title": "Entry Level Data Scientist",
+        "active": true,
+        "date_updated": 1707438513,
+        "date_posted": 1707438513,
+        "url": "https://jobs.lever.co/govini/b0955f04-029a-4c30-b758-4c488eff5923/apply",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Govini",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "HCVT",
+        "id": "8d6cdfb7-8dbe-4489-b855-232761c6accb",
+        "title": "Application Developer",
+        "active": true,
+        "date_updated": 1707438008,
+        "date_posted": 1707438008,
+        "url": "https://jobs.lever.co/hcvt/a4cf34d5-772b-4e21-ad64-ca846ae5a0c3/apply",
+        "locations": [
+            "Glendale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/HCVT",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Skydio",
+        "id": "441833e3-456b-4e96-869e-83d28cbbf6d7",
+        "title": "Robotics Automation Engineer",
+        "active": true,
+        "date_updated": 1707437797,
+        "date_posted": 1707437797,
+        "url": "https://boards.greenhouse.io/skydio/jobs/5739981003",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Skydio",
         "is_visible": true,
         "sponsorship": "Other"
     }
