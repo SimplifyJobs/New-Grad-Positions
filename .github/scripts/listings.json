@@ -7799,5 +7799,21 @@
         "company_url": "https://simplify.jobs/c/Skydio",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Western Digital",
+        "id": "34fda994-2e67-461d-b7c3-4cc66d82e525",
+        "title": "New College Grad - Data Scientist",
+        "active": true,
+        "date_updated": 1707523612,
+        "date_posted": 1707523612,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/743999966820588",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Digital",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
