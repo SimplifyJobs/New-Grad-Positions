@@ -84,7 +84,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Western Digital** | New College Grad - Software Engineer - System Testing | Rochester, MN | 🔒 | Feb 01 |
 | **[Navan (fka TripActions)](https://simplify.jobs/c/Navan)** | New College Grad Software Engineer - Front-End | Palo Alto, CA | <a href="https://tripactions.com/job-openings?gh_jid=5662125&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/8f2149e4-8e47-4f05-90b3-98d3b996cd82?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Feb 01 |
 | **Ultra Mobile** | QA Engineer - Hybrid | Newport Beach, CA | 🔒 | Jan 30 |
-| **[CannonDesign](https://simplify.jobs/c/Cannon-Design)** | Data Analyst & Visualizer – Entry Level | Remote in USA | <a href="http://www.cannondesign.com/careers/?gh_jid=7108359002&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/01722a18-b1ad-49cf-b622-8d7e16107b7c?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jan 29 |
+| **CannonDesign** | Data Analyst & Visualizer – Entry Level | Remote in USA | 🔒 | Jan 29 |
 | **Hudl** | Quality Assurance Engineer I – May Graduates | Lincoln, NE</br>Omaha, NE | 🔒 | Jan 27 |
 | **Hudl** | Quality Assurance Engineer I – May Graduates | Lincoln, NE</br>Omaha, NE | 🔒 | Jan 27 |
 | **Western Digital** | New College Grad Engineer - Software Engineering - Firmware | San Jose, CA | 🔒 | Jan 27 |
