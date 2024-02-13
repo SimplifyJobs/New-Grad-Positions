@@ -6404,7 +6404,7 @@
         "company_name": "Arista Networks",
         "id": "b0c9897c-e8b5-4293-87b6-9efc14684afe",
         "title": "Software Engineer \u2013 Fresh graduates",
-        "active": true,
+        "active": false,
         "date_updated": 1702686808,
         "date_posted": 1702686808,
         "url": "https://jobs.smartrecruiters.com/AristaNetworks/743999951903703",
@@ -7082,7 +7082,7 @@
         "company_name": "Jamf",
         "id": "9a658828-d7aa-4270-934b-03f38b4b1edc",
         "title": "Technical Support Associate \u2013 Entry Level - High Potential",
-        "active": false,
+        "active": true,
         "date_updated": 1705450324,
         "date_posted": 1705450324,
         "url": "https://www.jamf.com/about/careers/jobs/?gh_jid=5009559004&gh_jid=5009559004",
@@ -7258,7 +7258,7 @@
         "company_name": "NVIDIA",
         "id": "0dbea02c-f2ca-4e9e-a1a4-259935d2d9e7",
         "title": "Backend Compiler Engineer \u2013 New College Grad 2024 - Gpu",
-        "active": false,
+        "active": true,
         "date_updated": 1705709147,
         "date_posted": 1705709147,
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-TX-Austin/Backend-Compiler-Engineer--GPU---New-College-Grad-2024_JR1976920",
@@ -7829,6 +7829,22 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/MarketAxess",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cadence Design Systems",
+        "id": "2c63f8dc-3a8f-46bc-ad49-04a02426815c",
+        "title": "Software Engineer \u2013 New College Grad 2024",
+        "active": true,
+        "date_updated": 1707783671,
+        "date_posted": 1707783671,
+        "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/SAN-JOSE/Software-Engineer---New-College-Grad-2024_R45593-1",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
         "is_visible": true,
         "sponsorship": "Other"
     }
