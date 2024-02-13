@@ -987,7 +987,7 @@
         "company_name": "Veeva Systems",
         "id": "3f29d010-cc7e-46d3-809a-80b161151483",
         "title": "Associate Software Engineer \u2013 Seeking 2024 Grads",
-        "active": true,
+        "active": false,
         "date_updated": 1691082735,
         "date_posted": 1690988895,
         "url": "https://jobs.lever.co/veeva/f235ed8b-0972-4248-9d57-2d500aa094f5/apply",
@@ -4474,7 +4474,7 @@
         "company_name": "NimbleRx",
         "id": "2fd5d0a4-8aaf-4447-ac69-2af5d4b4e27b",
         "title": "Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1696923027,
         "date_posted": 1696923027,
         "url": "https://jobs.lever.co/nimblerx/9b498e97-4f4e-48a9-9504-0bc5f0dc2bee/apply",
@@ -7813,6 +7813,22 @@
             "San Jose, CA"
         ],
         "company_url": "https://simplify.jobs/c/Western-Digital",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "MarketAxess",
+        "id": "e7d301c6-13e7-43d7-a6b4-4c0f1127b77a",
+        "title": "2024 Future Leaders in Action Externship",
+        "active": true,
+        "date_updated": 1707768806,
+        "date_posted": 1704932384,
+        "url": "https://www.marketaxess.com/careers/current-openings/detail/jobs/4321256006?gh_jid=4321256006",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/MarketAxess",
         "is_visible": true,
         "sponsorship": "Other"
     }
