@@ -5062,7 +5062,7 @@
         "company_name": "Cadence Design Systems",
         "id": "191e58d1-0693-4771-a954-0eef814ce861",
         "title": "Software Engineer \u2013 New College Grad 2024",
-        "active": true,
+        "active": false,
         "date_updated": 1698102814,
         "date_posted": 1698102814,
         "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/SAN-JOSE/Software-Engineer--New-College-Grad-2024-_R44313-3",
@@ -7845,6 +7845,39 @@
             "San Jose, CA"
         ],
         "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "PayPal",
+        "id": "3adfbbcb-6f27-4bad-9e58-826acd3fbb20",
+        "title": "Software Engineer \u2013 Recent Grad",
+        "active": true,
+        "date_updated": 1707870118,
+        "date_posted": 1707870118,
+        "url": "https://wd1.myworkdaysite.com/recruiting/paypal/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer---Recent-Grad_R0105741-1",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/PayPal",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NVIDIA",
+        "id": "d951e174-1507-4b74-8f8b-0cc483ba6e19",
+        "title": "Compiler Engineer \u2013 New College Grad 2024 - Deep Learning",
+        "active": true,
+        "date_updated": 1707869207,
+        "date_posted": 1707869207,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Compiler-Engineer---Deep-Learning--New-College-Grad-2024_JR1979833",
+        "locations": [
+            "Redmond, WA",
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
         "is_visible": true,
         "sponsorship": "Other"
     }
