@@ -1324,7 +1324,7 @@
         "company_name": "Yassir",
         "id": "47e3203f-d811-42a2-b395-7f23beb827ca",
         "title": "Backend Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1690960496,
         "date_posted": 1690960496,
         "url": "https://jobs.lever.co/Yassir/13c90265-5c71-492d-a570-9c3af60282b0/apply",
@@ -1452,7 +1452,7 @@
         "company_name": "Yassir",
         "id": "c52d4c1c-df8d-4ac0-9859-bae2096e5f09",
         "title": "Backend Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1690960498,
         "date_posted": 1690960498,
         "url": "https://jobs.lever.co/Yassir/81cd65c0-f7bb-40a2-9a7a-a377db85bf7f/apply",
@@ -7875,6 +7875,38 @@
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Compiler-Engineer---Deep-Learning--New-College-Grad-2024_JR1979833",
         "locations": [
             "Redmond, WA",
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NVIDIA",
+        "id": "db4d0015-217e-4645-9158-b9945f96babb",
+        "title": "Software Engineer \u2013 New College Grad 2024",
+        "active": true,
+        "date_updated": 1707898019,
+        "date_posted": 1707898019,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineer---New-College-Grad-2024_JR1979403",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NVIDIA",
+        "id": "bd72698a-3681-4372-9e39-6855ef7af92d",
+        "title": "Web Application Software Engineer \u2013 New College Grad 2024",
+        "active": true,
+        "date_updated": 1707898018,
+        "date_posted": 1707898018,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Web-Application-Software-Engineer---New-College-Grad-2024_JR1979847",
+        "locations": [
             "Santa Clara, CA"
         ],
         "company_url": "https://simplify.jobs/c/NVIDIA",
