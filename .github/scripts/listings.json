@@ -7912,5 +7912,37 @@
         "company_url": "https://simplify.jobs/c/NVIDIA",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Acorns",
+        "id": "3ac11ed3-59cb-4415-bdb2-5d829b0aad2c",
+        "title": "Software Engineer I - Web",
+        "active": true,
+        "date_updated": 1707956973,
+        "date_posted": 1707956973,
+        "url": "https://boards.greenhouse.io/acorns/jobs/5708620",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Acorns",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Hello Fresh",
+        "id": "5c325bac-3cd1-4793-bbed-01f096218902",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1707956445,
+        "date_posted": 1707956445,
+        "url": "https://careers.hellofresh.com/global/en/job/5693264?gh_jid=5693264",
+        "locations": [
+            "Irving, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Hello-Fresh",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
