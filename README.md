@@ -156,7 +156,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **NVIDIA** | GPU Compute Compiler Engineer – New College Grad 2024 | Austin, TX</br>Redmond, WA</br>Santa Clara, CA | 🔒 | Dec 21 |
 | **[Constellation Technologies](https://simplify.jobs/c/Constellation-Technologies)** | Software Engineer – Entry level | Odenton, MD | <a href="https://jobs.lever.co/cti-md/4ad8792e-81ce-44f9-bb70-a39a6c136d6c/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/e13cba19-e8c7-4ebd-894e-6565bfd1d3f6?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Dec 20 |
 | **Zoox** | Software Engineer: Secure Embedded Operating Systems | San Mateo, CA | 🔒 | Dec 20 |
-| **[Cadence Design Systems](https://simplify.jobs/c/Cadence-Design-Systems)** | Application Engineer – New College Grad | San Jose, CA | <a href="https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/SAN-JOSE/Application-Engineer---New-College-Grad_R44174-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/aa8ca880-8ca7-46cd-9cb6-8ffd06555b1d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Dec 18 |
+| **Cadence Design Systems** | Application Engineer – New College Grad | San Jose, CA | 🔒 | Dec 18 |
 | **Arista Networks** | Software Engineer – Fresh graduates | Vancouver, BC, Canada | 🔒 | Dec 16 |
 | **NVIDIA** | Semiconductor Safety Engineer – New College Grad 2024 | Austin, TX</br>Santa Clara, CA | 🔒 | Dec 16 |
 | **NVIDIA** | DL Infrastructure Engineer – New College Grad 2024 | Santa Clara, CA | 🔒 | Dec 16 |
@@ -196,7 +196,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Instacart** | Software Engineer | Toronto, ON, Canada | 🔒 | Nov 30 |
 | **Penn Interactive** | Data Scientist | Philadelphia, PA | 🔒 | Nov 30 |
 | **Cadence Design Systems** | Software Engineer – New College Grad 2024 | Northridge, LA | 🔒 | Nov 30 |
-| **[Cadence Design Systems](https://simplify.jobs/c/Cadence-Design-Systems)** | Software Engineer – New College Grad 2024 | San Jose, CA | <a href="https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/SAN-JOSE/Software-Engineer--New-College-Grad-2024-_R44443?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/90e657dd-cc0d-4e49-b483-615485f2d971?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Nov 30 |
+| **Cadence Design Systems** | Software Engineer – New College Grad 2024 | San Jose, CA | 🔒 | Nov 30 |
 | **Weee!** | Logistics Analyst | Fremont, CA | 🔒 | Nov 30 |
 | **The Boeing Company** | Early career Software Implementation Developer | Montreal, QC, Canada | 🔒 | Nov 30 |
 | **Technergetics** | Entry Level Software Developer | Remote | 🔒 | Nov 30 |
