@@ -62,6 +62,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **[Konrad Group](https://simplify.jobs/c/Konrad-Group)** | Software Developer – Entry Level | Toronto, ON, Canada | <a href="https://boards.greenhouse.io/embed/job_app?token=5893240003&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/b063c145-57ac-4928-864c-83370dacdd44?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Feb 16 |
+| **[Konrad Group](https://simplify.jobs/c/Konrad-Group)** | Mobile Developer – Entry Level | Toronto, ON, Canada | <a href="https://boards.greenhouse.io/embed/job_app?token=5893296003&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/8a12530b-7cd6-4d88-aa6b-e83fc742aa40?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Feb 16 |
+| **[Konrad Group](https://simplify.jobs/c/Konrad-Group)** | Software Developer – Entry Level | Toronto, ON, Canada | <a href="https://boards.greenhouse.io/embed/job_app?token=5893276003&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/c5222dbe-53e9-4813-9053-f33de5a3954e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Feb 16 |
 | **[Acorns](https://simplify.jobs/c/Acorns)** | Software Engineer I - Web | Remote in USA | <a href="https://boards.greenhouse.io/acorns/jobs/5708620?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/3ac11ed3-59cb-4415-bdb2-5d829b0aad2c?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Feb 15 |
 | **Hello Fresh** | Data Analyst | Irving, TX | 🔒 | Feb 15 |
 | **NVIDIA** | Software Engineer – New College Grad 2024 | Santa Clara, CA | 🔒 | Feb 14 |
@@ -387,7 +390,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Jagger** | IT Manager | Abbotsford, BC, Canada | 🔒 | Aug 29 |
 | **Hudson River Trading** | Software Engineer – 2024 Grads - C++ | NYC | 🔒 | Aug 28 |
 | **Hudson River Trading** | Software Engineer – 2024 Grads - C++ | London, UK | 🔒 | Aug 28 |
-| **[Hudson River Trading](https://simplify.jobs/c/Hudson-River-Trading)** | Algorithm Developer – 2024 Grads | NYC | <a href="https://www.hudsonrivertrading.com/careers/job/?gh_jid=5271551&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/dfdfba20-5c7d-4d9b-8d05-a5d39b865ef4?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Aug 28 |
+| **Hudson River Trading** | Algorithm Developer – 2024 Grads | NYC | 🔒 | Aug 28 |
 | **Netflix** | New Grad Software Engineer - 2024 | Los Gatos, CA | 🔒 | Aug 28 |
 | **Relativity Space** | Materials and Process Engineer II | Long Beach, CA | 🔒 | Aug 25 |
 | **NVIDIA** | Software Engineer – New College Grad 2024 - Deep Learning Cudnn | Santa Clara, CA | 🔒 | Aug 25 |
