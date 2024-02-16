@@ -2291,7 +2291,7 @@
         "company_name": "Hudson River Trading",
         "id": "dfdfba20-5c7d-4d9b-8d05-a5d39b865ef4",
         "title": "Algorithm Developer \u2013 2024 Grads",
-        "active": true,
+        "active": false,
         "date_updated": 1693264955,
         "date_posted": 1693264955,
         "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=5271551",
@@ -7942,6 +7942,54 @@
             "Irving, TX"
         ],
         "company_url": "https://simplify.jobs/c/Hello-Fresh",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Konrad Group",
+        "id": "b063c145-57ac-4928-864c-83370dacdd44",
+        "title": "Software Developer \u2013 Entry Level",
+        "active": true,
+        "date_updated": 1708042720,
+        "date_posted": 1708042720,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=5893240003",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Konrad-Group",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Konrad Group",
+        "id": "8a12530b-7cd6-4d88-aa6b-e83fc742aa40",
+        "title": "Mobile Developer \u2013 Entry Level",
+        "active": true,
+        "date_updated": 1708042719,
+        "date_posted": 1708042719,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=5893296003",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Konrad-Group",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Konrad Group",
+        "id": "c5222dbe-53e9-4813-9053-f33de5a3954e",
+        "title": "Software Developer \u2013 Entry Level",
+        "active": true,
+        "date_updated": 1708042716,
+        "date_posted": 1708042716,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=5893276003",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Konrad-Group",
         "is_visible": true,
         "sponsorship": "Other"
     }
