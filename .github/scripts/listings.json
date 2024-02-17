@@ -7661,7 +7661,7 @@
         "company_name": "Barkley",
         "id": "2f9a6d05-6612-4a9b-bc46-d3242797297e",
         "title": "Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1707333712,
         "date_posted": 1707333712,
         "url": "https://boards.greenhouse.io/barkley/jobs/5034218004",
@@ -7990,6 +7990,38 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Konrad-Group",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Momentum Worldwide",
+        "id": "73ff690b-ed18-4f02-a28a-ba2492114573",
+        "title": "Associate Creative Technologist",
+        "active": true,
+        "date_updated": 1708101086,
+        "date_posted": 1708101086,
+        "url": "https://www.momentumww.com/opportunities/?gh_jid=7218155002",
+        "locations": [
+            "St. Louis, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Momentum-Worldwide",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "IPG DXTRA",
+        "id": "77bcdc09-4070-4457-a4fb-ea1a67c7a760",
+        "title": "Associate Creative Technologist",
+        "active": true,
+        "date_updated": 1708100225,
+        "date_posted": 1708100225,
+        "url": "https://boards.greenhouse.io/dxacirca/jobs/7218301002",
+        "locations": [
+            "St. Louis, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/IPG-DXTRA",
         "is_visible": true,
         "sponsorship": "Other"
     }
