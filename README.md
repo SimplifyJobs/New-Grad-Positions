@@ -232,7 +232,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Matroid** | Full Stack Engineer for Computer Vision Products | Palo Alto, CA | 🔒 | Nov 02 |
 | **ServiceNow** | Machine Learning Engineer – New Grad | Montreal, QC, Canada | 🔒 | Nov 01 |
 | **[Palantir](https://simplify.jobs/c/Palantir)** | Software Engineer – New Grad | Washington, DC | <a href="https://jobs.lever.co/palantir/19d5e5f8-37a6-4a6f-b2ca-423370b3a1c2/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/e94f5b72-1ca3-4376-8098-a07eacf2d7e1?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Oct 31 |
-| **[Wisk](https://simplify.jobs/c/wisk-aero)** | Software Engineer | Mesa, AZ | <a href="https://jobs.lever.co/wisk/a3749fed-e0e5-48a2-8665-64817e40773a/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/0a2c7d45-6d38-4ba1-823b-b52e66e548b0?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Oct 30 |
+| **Wisk** | Software Engineer | Mesa, AZ | 🔒 | Oct 30 |
 | **Nutanix** | Software Engineer 1 / Early Career | San Jose, CA | 🔒 | Oct 27 |
 | **Visa** | Site Reliability Engineer – New College Grad - 2024 | Denver, CO | 🔒 | Oct 27 |
 | **Palantir** | Software Engineer – New Grad | Washington, DC | 🔒 | Oct 26 |
