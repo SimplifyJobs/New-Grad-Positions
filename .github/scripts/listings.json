@@ -6826,7 +6826,7 @@
         "company_name": "NVIDIA",
         "id": "b57eacb6-9779-4f3d-9d4e-dbf919f48aed",
         "title": "Verification Engineer \u2013 New College Grad 2024 - Memory Controller",
-        "active": true,
+        "active": false,
         "date_updated": 1703896418,
         "date_posted": 1703896418,
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Verification-Engineer--Memory-Controller---New-College-Grad-2024_JR1976229",
@@ -7501,7 +7501,7 @@
         "company_name": "Cadence Design Systems",
         "id": "30432985-c9e1-4fb7-a17b-66971e4c4514",
         "title": "Software Engineer \u2013 New College Grad 2024",
-        "active": true,
+        "active": false,
         "date_updated": 1706257196,
         "date_posted": 1706257196,
         "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/HOME-MA/Software-Engineer--New-College-Grad-2024-_R44431-4",
@@ -8022,6 +8022,54 @@
             "St. Louis, MO"
         ],
         "company_url": "https://simplify.jobs/c/IPG-DXTRA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Thumbtack",
+        "id": "f6ea34e3-ea7e-4d3e-a501-2fbf9645f0bf",
+        "title": "Product Data Scientist - Customer Growth",
+        "active": true,
+        "date_updated": 1708475513,
+        "date_posted": 1708475513,
+        "url": "https://boards.greenhouse.io/thumbtack/jobs/5630260",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Thumbtack",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Thumbtack",
+        "id": "76e048cf-89b1-41e6-87cc-f235d9096234",
+        "title": "Product Data Scientist - Customer Growth",
+        "active": true,
+        "date_updated": 1708475512,
+        "date_posted": 1708475512,
+        "url": "https://boards.greenhouse.io/thumbtack/jobs/5630261",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/Thumbtack",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Onbe",
+        "id": "efb2950e-3dc5-4ced-bf11-f368b63c4233",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1708474644,
+        "date_posted": 1708474644,
+        "url": "https://www.onbe.com/company/careers?gh_jid=4337322006",
+        "locations": [
+            "Wheeling, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Onbe",
         "is_visible": true,
         "sponsorship": "Other"
     }
