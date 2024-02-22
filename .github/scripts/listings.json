@@ -7693,7 +7693,7 @@
         "company_name": "Welocalize",
         "id": "856c81b6-410a-4143-8c0a-5a5238458981",
         "title": "Entry-Level AI Data Rater - English - US",
-        "active": false,
+        "active": true,
         "date_updated": 1707332762,
         "date_posted": 1707332762,
         "url": "https://jobs.lever.co/welocalize/b6af22c2-0ae8-432f-bdce-90ffda2f555a/apply",
@@ -8070,6 +8070,54 @@
             "Wheeling, IL"
         ],
         "company_url": "https://simplify.jobs/c/Onbe",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Relativity Space",
+        "id": "649cfb5d-2861-4a0e-84cc-3929dbf3dadd",
+        "title": "Weld Engineer I",
+        "active": true,
+        "date_updated": 1708561046,
+        "date_posted": 1708561046,
+        "url": "https://boards.greenhouse.io/relativity/jobs/7254024002",
+        "locations": [
+            "Long Beach, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Relativity-Space",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "dunnhumby",
+        "id": "2698b474-d313-4e65-865d-f0b02f54d74e",
+        "title": "Customer Engagement Analyst",
+        "active": true,
+        "date_updated": 1708560756,
+        "date_posted": 1708560756,
+        "url": "https://www.dunnhumby.com/jobs/?gh_jid=5891031003",
+        "locations": [
+            "Grand Rapids, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/dunnhumby",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "TigerGraph",
+        "id": "f6892350-87e7-4949-b86e-b04103476027",
+        "title": "Software Engineer - Infrastructure",
+        "active": true,
+        "date_updated": 1708568335,
+        "date_posted": 1707784239,
+        "url": "https://boards.greenhouse.io/tigergraph/jobs/5664024",
+        "locations": [
+            "San Carlos, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TigerGraph",
         "is_visible": true,
         "sponsorship": "Other"
     }
