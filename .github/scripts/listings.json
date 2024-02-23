@@ -8120,5 +8120,37 @@
         "company_url": "https://simplify.jobs/c/TigerGraph",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Dow Jones",
+        "id": "63a036e6-a88d-4cd2-94de-789afe288f22",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1708647799,
+        "date_posted": 1708647799,
+        "url": "https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/Remote---USA/Software-Engineer_Job_Req_40827",
+        "locations": [
+            "Gaithersburg, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/ebbf3772-7f04-4984-871c-606e13d4f2aa",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Watershed",
+        "id": "0e3eaa70-2438-4631-b4bf-e7242c140401",
+        "title": "Software engineer \u2013 New grad",
+        "active": true,
+        "date_updated": 1708647789,
+        "date_posted": 1708647789,
+        "url": "https://boards.greenhouse.io/watershedclimate/jobs/4091574004",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Watershed",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
