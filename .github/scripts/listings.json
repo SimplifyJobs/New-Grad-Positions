@@ -7805,7 +7805,7 @@
         "company_name": "Western Digital",
         "id": "34fda994-2e67-461d-b7c3-4cc66d82e525",
         "title": "New College Grad - Data Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1707523612,
         "date_posted": 1707523612,
         "url": "https://jobs.smartrecruiters.com/WesternDigital/743999966820588",
@@ -8150,6 +8150,54 @@
             "SF"
         ],
         "company_url": "https://simplify.jobs/c/Watershed",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "LogicMonitor",
+        "id": "bd4a2344-8ec0-4a24-977d-38a3bf4f1414",
+        "title": "Associate Data Analyst - CX Strategy & Operations",
+        "active": true,
+        "date_updated": 1708705103,
+        "date_posted": 1708705103,
+        "url": "https://www.logicmonitor.com/career/?gh_jid=5618887",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/LogicMonitor",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "LogicMonitor",
+        "id": "59cbeab6-c3c9-421a-8ab9-1e428596a501",
+        "title": "Associate Data Analyst - CX Strategy & Operations",
+        "active": true,
+        "date_updated": 1708705101,
+        "date_posted": 1708705101,
+        "url": "https://www.logicmonitor.com/career/?gh_jid=5619571",
+        "locations": [
+            "Santa Barbara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/LogicMonitor",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Snyk",
+        "id": "13374406-7a09-414e-abf2-9cb1018ec647",
+        "title": "Help Desk Specialist",
+        "active": true,
+        "date_updated": 1708705110,
+        "date_posted": 1708705110,
+        "url": "https://boards.greenhouse.io/snyk/jobs/7076523002",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Snyk",
         "is_visible": true,
         "sponsorship": "Other"
     }
