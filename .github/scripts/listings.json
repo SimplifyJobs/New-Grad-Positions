@@ -7741,7 +7741,7 @@
         "company_name": "Evisort",
         "id": "a6b2eb64-047a-4831-a5dc-41f889ebd75b",
         "title": "Legal Fellow",
-        "active": true,
+        "active": false,
         "date_updated": 1707351421,
         "date_posted": 1707351421,
         "url": "https://jobs.lever.co/evisort-2/58c9c460-99f4-4d5e-854f-3c624ef36b37/apply",
@@ -8198,6 +8198,22 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/Snyk",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NewsBreak",
+        "id": "f6db0437-48c7-4c28-89d5-76d6e4f15f71",
+        "title": "Machine Learning Engineer \u2013 Junior & New Grad",
+        "active": true,
+        "date_updated": 1708733578,
+        "date_posted": 1708733578,
+        "url": "https://boards.greenhouse.io/newsbreak/jobs/4338876006",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NewsBreak",
         "is_visible": true,
         "sponsorship": "Other"
     }
