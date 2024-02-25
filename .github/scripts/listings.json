@@ -6178,7 +6178,7 @@
         "company_name": "Workato",
         "id": "948ad13d-8715-4a39-a2cc-2b3704e25232",
         "title": "Interaction Designer",
-        "active": false,
+        "active": true,
         "date_updated": 1702401713,
         "date_posted": 1702401713,
         "url": "https://boards.greenhouse.io/workato/jobs/6895438002",
@@ -6194,7 +6194,7 @@
         "company_name": "Workato",
         "id": "45a56d83-7f0e-46c8-8e3f-147ccc53c92a",
         "title": "Interaction Designer",
-        "active": false,
+        "active": true,
         "date_updated": 1702401713,
         "date_posted": 1702401713,
         "url": "https://boards.greenhouse.io/workato/jobs/7060655002",
@@ -8214,6 +8214,22 @@
             "Mountain View, CA"
         ],
         "company_url": "https://simplify.jobs/c/NewsBreak",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Western Digital",
+        "id": "cf198d32-5e06-440e-8b04-25a1088826b8",
+        "title": "New College Grad Engineer - Software Engineering - Graduating Dec 2023 - May 2024",
+        "active": true,
+        "date_updated": 1708819634,
+        "date_posted": 1708819634,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/743999969799333",
+        "locations": [
+            "Rochester, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Digital",
         "is_visible": true,
         "sponsorship": "Other"
     }
