@@ -1227,7 +1227,7 @@
         "company_name": "Veeva Systems",
         "id": "99a5345c-0dc1-4719-af78-03a0bd03533e",
         "title": "Associate Software Engineer \u2013 Seeking 2024 Grads",
-        "active": false,
+        "active": true,
         "date_updated": 1691082726,
         "date_posted": 1690988906,
         "url": "https://jobs.lever.co/veeva/ef05bae6-d743-4a19-ac00-3ad9881cac2e/apply",
@@ -7082,7 +7082,7 @@
         "company_name": "Jamf",
         "id": "9a658828-d7aa-4270-934b-03f38b4b1edc",
         "title": "Technical Support Associate \u2013 Entry Level - High Potential",
-        "active": false,
+        "active": true,
         "date_updated": 1705450324,
         "date_posted": 1705450324,
         "url": "https://www.jamf.com/about/careers/jobs/?gh_jid=5009559004&gh_jid=5009559004",
@@ -8230,6 +8230,38 @@
             "Rochester, MN"
         ],
         "company_url": "https://simplify.jobs/c/Western-Digital",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Old Mission",
+        "id": "df524333-ebb1-4a91-94f6-3bd584f9cc9a",
+        "title": "College Graduates - Full-Time - Fundamental Research Analyst - London",
+        "active": true,
+        "date_updated": 1708993180,
+        "date_posted": 1708993180,
+        "url": "https://www.oldmissioncapital.com/careers/?gh_jid=5899026003",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Old-Mission",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "The RealReal",
+        "id": "dda694ef-c457-4fa4-ab38-b9ccb9e6b6ce",
+        "title": "Associate Specialist - Fine Jewelry & Watches",
+        "active": true,
+        "date_updated": 1708992921,
+        "date_posted": 1708992921,
+        "url": "https://boards.greenhouse.io/therealreal/jobs/7259756002",
+        "locations": [
+            "Iselin, Woodbridge Township, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/The-RealReal",
         "is_visible": true,
         "sponsorship": "Other"
     }
