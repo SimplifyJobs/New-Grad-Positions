@@ -262,7 +262,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Salesforce** | Software Engineering AMTS – New Grad | Seattle, WA</br>SF</br>Remote in USA | 🔒 | Oct 23 |
 | **Cover Genius** | Client Solutions Engineer | London, UK | 🔒 | Oct 21 |
 | **Alchemy** | Software Engineer – New Grad | SF</br>NYC | 🔒 | Oct 20 |
-| **Parallel** | Supply Chain Analyst | Franklin, MA | 🔒 | Oct 19 |
 | **The Athletic Media Company** | Software Engineer - Full Stack - Australia | United States | 🔒 | Oct 18 |
 | **Loop** | Software Engineer – 2024 New Grad | SF | 🔒 | Oct 18 |
 | **Loop** | Software Engineer – 2024 New Grad | Chicago, IL | 🔒 | Oct 18 |
