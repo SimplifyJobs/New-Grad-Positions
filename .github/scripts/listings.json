@@ -6810,15 +6810,15 @@
         "company_name": "CDC Foundation",
         "id": "e3aac1af-680e-4aad-9656-ce7981792beb",
         "title": "Data Analyst",
-        "active": false,
-        "date_updated": 1703837606,
+        "active": true,
+        "date_updated": 1709081352,
         "date_posted": 1703837606,
         "url": "https://jobs.lever.co/cdcfoundation/a5cdba27-e4d5-4f9e-9f7c-8c0339f2d4a5/apply",
         "locations": [
             "Massachusetts"
         ],
         "company_url": "https://simplify.jobs/c/CDC-Foundation",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
