@@ -290,7 +290,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Grammarly** | Software Engineer – New Grad | Remote in USA</br>United States | 🔒 | Oct 10 |
 | **Chartboost** | Software Engineer - Bidder | Remote in USA | 🔒 | Oct 04 |
 | **NVIDIA** | Compiler Engineer – New College Grad - LLVM | Austin, TX</br>Redmond, WA</br>Santa Clara, CA | 🔒 | Oct 04 |
-| **Rackspace Technology** | Python Developer II / III | Remote | 🔒 | Oct 04 |
 | **[RVO Health](https://simplify.jobs/c/RVO-Health)** | 2024 Early Career Program: Business Analysis Associate | Charlotte, NC | <a href="https://boards.greenhouse.io/rvohealth/jobs/4324509005?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/bb5e31be-4ccc-499d-b4d8-365c74648866?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Oct 03 |
 | **Visa** | Software Engineer - New College Grad-2024 | San Mateo, CA | 🔒 | Oct 03 |
 | **Visa** | Software Engineer - New College Grad-2024 | Austin, TX | 🔒 | Oct 03 |
