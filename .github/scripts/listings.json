@@ -8376,5 +8376,21 @@
         "company_url": "https://simplify.jobs/c/VeritionFund",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Old Mission",
+        "id": "6cccf45a-9641-474b-afef-e9cd1d1e1e40",
+        "title": "College Graduates - Full-Time - Junior Quant Trader - London",
+        "active": true,
+        "date_updated": 1709194560,
+        "date_posted": 1709194560,
+        "url": "https://www.oldmissioncapital.com/careers/?gh_jid=5905728003",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Old-Mission",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
