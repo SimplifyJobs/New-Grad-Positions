@@ -7307,7 +7307,7 @@
         "company_name": "Abnormal Security",
         "id": "3199ded2-4fa2-4cf8-abfb-1b04eae54cfe",
         "title": "Software Engineer II - Cloud Infrastructure",
-        "active": true,
+        "active": false,
         "date_updated": 1706055349,
         "date_posted": 1706055349,
         "url": "https://careers.abnormalsecurity.com/jobs/5867723003?gh_jid=5867723003",
@@ -8342,6 +8342,38 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Altera-Digital-Health",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Abnormal Security",
+        "id": "2867a4d6-9d77-47d3-9709-1fd0981d3a33",
+        "title": "Software Engineer II - Cloud Infrastructure",
+        "active": true,
+        "date_updated": 1709166694,
+        "date_posted": 1709166694,
+        "url": "https://careers.abnormalsecurity.com/jobs/5905871003?gh_jid=5905871003",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Abnormal-Security",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Verition Fund Management",
+        "id": "7ceb4609-ce76-434e-b914-3999b0aa8d37",
+        "title": "Quant Researcher/Developer",
+        "active": true,
+        "date_updated": 1709166605,
+        "date_posted": 1709166605,
+        "url": "https://www.verition.com/open-positions?gh_jid=4160660007",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/VeritionFund",
         "is_visible": true,
         "sponsorship": "Other"
     }
