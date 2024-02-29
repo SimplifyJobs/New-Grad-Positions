@@ -8296,5 +8296,53 @@
         "company_url": "https://simplify.jobs/c/Lucid",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Squarepoint Capital",
+        "id": "b2771c9d-3832-44d8-b7f7-37bdfeac329f",
+        "title": "Financing Trader",
+        "active": true,
+        "date_updated": 1709137576,
+        "date_posted": 1709137576,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=5738194",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Squarepoint-Capital",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Altera Digital Health",
+        "id": "a7baed2c-2f60-442d-b4d2-1bc59fae781b",
+        "title": "Associate Software Engineer - Remote",
+        "active": true,
+        "date_updated": 1709151521,
+        "date_posted": 1709136552,
+        "url": "https://boards.greenhouse.io/alteradigitalhealth/jobs/4253680007",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Altera-Digital-Health",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Altera Digital Health",
+        "id": "8159d3b4-ac1e-4251-a8a9-9643f9ed0ca6",
+        "title": "Associate Software Engineer - Remote",
+        "active": true,
+        "date_updated": 1709151519,
+        "date_posted": 1709136552,
+        "url": "https://boards.greenhouse.io/alteradigitalhealth/jobs/4261795007",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Altera-Digital-Health",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
