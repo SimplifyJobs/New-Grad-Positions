@@ -7082,7 +7082,7 @@
         "company_name": "Jamf",
         "id": "9a658828-d7aa-4270-934b-03f38b4b1edc",
         "title": "Technical Support Associate \u2013 Entry Level - High Potential",
-        "active": true,
+        "active": false,
         "date_updated": 1705450324,
         "date_posted": 1705450324,
         "url": "https://www.jamf.com/about/careers/jobs/?gh_jid=5009559004&gh_jid=5009559004",
@@ -8030,7 +8030,7 @@
         "company_name": "Thumbtack",
         "id": "f6ea34e3-ea7e-4d3e-a501-2fbf9645f0bf",
         "title": "Product Data Scientist - Customer Growth",
-        "active": true,
+        "active": false,
         "date_updated": 1708475513,
         "date_posted": 1708475513,
         "url": "https://boards.greenhouse.io/thumbtack/jobs/5630260",
@@ -8046,7 +8046,7 @@
         "company_name": "Thumbtack",
         "id": "76e048cf-89b1-41e6-87cc-f235d9096234",
         "title": "Product Data Scientist - Customer Growth",
-        "active": true,
+        "active": false,
         "date_updated": 1708475512,
         "date_posted": 1708475512,
         "url": "https://boards.greenhouse.io/thumbtack/jobs/5630261",
@@ -8390,6 +8390,22 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/Old-Mission",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Alarm.com",
+        "id": "5f85438d-c555-4377-ae14-8f6710b626a7",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1709223614,
+        "date_posted": 1709223614,
+        "url": "https://boards.greenhouse.io/alarmcom/jobs/7264128002",
+        "locations": [
+            "Vienna, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Alarm",
         "is_visible": true,
         "sponsorship": "Other"
     }
