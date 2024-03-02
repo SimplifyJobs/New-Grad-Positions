@@ -1516,7 +1516,7 @@
         "company_name": "Old Mission",
         "id": "42b9157f-379f-45da-914f-2603072985dc",
         "title": "College Graduates - Full-Time - Junior Software Engineer - 2024",
-        "active": true,
+        "active": false,
         "date_updated": 1689750702,
         "date_posted": 1689750702,
         "url": "https://www.oldmissioncapital.com/careers/?gh_jid=5643831003",
@@ -6356,7 +6356,7 @@
         "company_name": "Column",
         "id": "9bdcd991-4a37-4c93-bdd1-dd396d961714",
         "title": "Techops Engineer \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1702599460,
         "date_posted": 1702599460,
         "url": "https://jobs.ashbyhq.com/column/6ae2fc02-bc21-4281-ae20-e816ebdf0d90/application",
@@ -8406,6 +8406,23 @@
             "Vienna, VA"
         ],
         "company_url": "https://simplify.jobs/c/Alarm",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "HeartFlow",
+        "id": "5e86a611-2529-4849-bfe8-081807ec5257",
+        "title": "Entry-level Software Engineer - Frontend Full Stack",
+        "active": true,
+        "date_updated": 1709323814,
+        "date_posted": 1709252863,
+        "url": "https://boards.greenhouse.io/heartflowinc/jobs/5094850004",
+        "locations": [
+            "Austin, TX",
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/HeartFlow",
         "is_visible": true,
         "sponsorship": "Other"
     }
