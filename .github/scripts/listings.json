@@ -8191,14 +8191,14 @@
         "id": "13374406-7a09-414e-abf2-9cb1018ec647",
         "title": "Help Desk Specialist",
         "active": true,
-        "date_updated": 1708705110,
+        "date_updated": 1709695835,
         "date_posted": 1708705110,
         "url": "https://boards.greenhouse.io/snyk/jobs/7076523002",
         "locations": [
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/Snyk",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
