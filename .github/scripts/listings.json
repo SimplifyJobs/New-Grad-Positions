@@ -8303,14 +8303,14 @@
         "id": "b2771c9d-3832-44d8-b7f7-37bdfeac329f",
         "title": "Financing Trader",
         "active": true,
-        "date_updated": 1709137576,
+        "date_updated": 1709695705,
         "date_posted": 1709137576,
         "url": "https://boards.greenhouse.io/embed/job_app?token=5738194",
         "locations": [
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/Squarepoint-Capital",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
