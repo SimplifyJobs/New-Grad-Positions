@@ -1227,7 +1227,7 @@
         "company_name": "Veeva Systems",
         "id": "99a5345c-0dc1-4719-af78-03a0bd03533e",
         "title": "Associate Software Engineer \u2013 Seeking 2024 Grads",
-        "active": true,
+        "active": false,
         "date_updated": 1691082726,
         "date_posted": 1690988906,
         "url": "https://jobs.lever.co/veeva/ef05bae6-d743-4a19-ac00-3ad9881cac2e/apply",
@@ -1696,7 +1696,7 @@
         "company_name": "Palantir",
         "id": "0a14e404-4828-4af4-bb63-2fb23a5a061f",
         "title": "Software Engineer \u2013 New Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1692630748,
         "date_posted": 1692630748,
         "url": "https://jobs.lever.co/palantir/94984771-0704-446c-88c6-91ce748f6d92/apply",
@@ -5951,7 +5951,7 @@
         "company_name": "E-Space",
         "id": "5205eacd-2c6b-4166-bdb3-58c6e4fe2c35",
         "title": "GNC Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1701475750,
         "date_posted": 1701475750,
         "url": "https://jobs.lever.co/espace/0d7b029d-555b-497a-993b-700bf96cd74f/apply",
@@ -6890,7 +6890,7 @@
         "company_name": "pony.ai",
         "id": "11dd71d6-6294-43e1-aa72-69ed7329f37c",
         "title": "Software Engineer - Data and Evaluation",
-        "active": true,
+        "active": false,
         "date_updated": 1704248027,
         "date_posted": 1701390290,
         "url": "https://apply.workable.com/pony-dot-ai/j/56A463E1D3/apply",
@@ -7082,7 +7082,7 @@
         "company_name": "Jamf",
         "id": "9a658828-d7aa-4270-934b-03f38b4b1edc",
         "title": "Technical Support Associate \u2013 Entry Level - High Potential",
-        "active": false,
+        "active": true,
         "date_updated": 1705450324,
         "date_posted": 1705450324,
         "url": "https://www.jamf.com/about/careers/jobs/?gh_jid=5009559004&gh_jid=5009559004",
@@ -8062,7 +8062,7 @@
         "company_name": "Onbe",
         "id": "efb2950e-3dc5-4ced-bf11-f368b63c4233",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1708474644,
         "date_posted": 1708474644,
         "url": "https://www.onbe.com/company/careers?gh_jid=4337322006",
@@ -8190,7 +8190,7 @@
         "company_name": "Snyk",
         "id": "13374406-7a09-414e-abf2-9cb1018ec647",
         "title": "Help Desk Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1709695835,
         "date_posted": 1708705110,
         "url": "https://boards.greenhouse.io/snyk/jobs/7076523002",
@@ -8318,7 +8318,7 @@
         "company_name": "Altera Digital Health",
         "id": "a7baed2c-2f60-442d-b4d2-1bc59fae781b",
         "title": "Associate Software Engineer - Remote",
-        "active": true,
+        "active": false,
         "date_updated": 1709151521,
         "date_posted": 1709136552,
         "url": "https://boards.greenhouse.io/alteradigitalhealth/jobs/4253680007",
@@ -8334,7 +8334,7 @@
         "company_name": "Altera Digital Health",
         "id": "8159d3b4-ac1e-4251-a8a9-9643f9ed0ca6",
         "title": "Associate Software Engineer - Remote",
-        "active": true,
+        "active": false,
         "date_updated": 1709151519,
         "date_posted": 1709136552,
         "url": "https://boards.greenhouse.io/alteradigitalhealth/jobs/4261795007",
@@ -8423,6 +8423,150 @@
             "Mountain View, CA"
         ],
         "company_url": "https://simplify.jobs/c/HeartFlow",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Palantir",
+        "id": "02c6d883-e2ce-4b3f-89d0-4ed8b9f0c826",
+        "title": "Product Reliability Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1709774808,
+        "date_posted": 1709774808,
+        "url": "https://jobs.lever.co/palantir/63494bd6-3c41-4449-b01f-0932dc664fc4/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Okta",
+        "id": "ef654d02-a634-44ff-a793-0301bc1f3a33",
+        "title": "2024 New Grad - Software Engineer I",
+        "active": true,
+        "date_updated": 1709774244,
+        "date_posted": 1709774244,
+        "url": "https://www.okta.com/company/careers/opportunity/5775813?gh_jid=5775813",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Okta",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Emerald Cloud Lab",
+        "id": "fcd97147-48c4-490c-bfaf-b49b64fd2fb4",
+        "title": "Platform Engineer",
+        "active": true,
+        "date_updated": 1709684375,
+        "date_posted": 1709684375,
+        "url": "https://jobs.lever.co/emeraldcloudlab/bf53c755-4275-4a91-9b08-cff7fe443580/apply",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Emerald-Cloud-Lab",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "The RealReal",
+        "id": "3fd32b4b-b2db-4cc0-b5fd-72ff1bef0dbb",
+        "title": "Associate Specialist - Fine Jewelry & Watches",
+        "active": true,
+        "date_updated": 1709683996,
+        "date_posted": 1709683996,
+        "url": "https://boards.greenhouse.io/therealreal/jobs/7271808002",
+        "locations": [
+            "Union City, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/The-RealReal",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "FanDuel",
+        "id": "095b491a-a037-4c6e-8140-352365ca5c14",
+        "title": "Analyst",
+        "active": true,
+        "date_updated": 1709656088,
+        "date_posted": 1709656088,
+        "url": "https://www.fanduel.careers/open-positions?gh_jid=5782522",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/FanDuel",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Welocalize",
+        "id": "b487f62b-f5e2-479a-9718-201a9666ee36",
+        "title": "Entry-Level AI Data Rater - English - Canada",
+        "active": true,
+        "date_updated": 1709651464,
+        "date_posted": 1709339209,
+        "url": "https://jobs.lever.co/welocalize/1aa1662e-3520-4847-930d-a635269f4694/apply",
+        "locations": [
+            "Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Welocalize",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Match Group",
+        "id": "42d55132-b894-4adb-9568-f98e47f20e4c",
+        "title": "Software Engineer - IOS",
+        "active": true,
+        "date_updated": 1709338235,
+        "date_posted": 1709338235,
+        "url": "https://jobs.lever.co/matchgroup/61e35c3c-3156-4760-a088-4a3765e37f8e/apply",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Match-Group",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Onbe",
+        "id": "e0466c86-81ad-4ebd-80c3-7926194ea86e",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1709582840,
+        "date_posted": 1708474644,
+        "url": "https://www.onbe.com/company/careers?gh_jid=4337325006",
+        "locations": [
+            "Conshohocken, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Onbe",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Onbe",
+        "id": "350c2099-bf19-4a37-a04b-18b2b8cf06a1",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1709582965,
+        "date_posted": 1708474644,
+        "url": "https://www.onbe.com/company/careers?gh_jid=4337327006",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Onbe",
         "is_visible": true,
         "sponsorship": "Other"
     }
