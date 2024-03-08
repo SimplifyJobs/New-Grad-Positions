@@ -7258,7 +7258,7 @@
         "company_name": "NVIDIA",
         "id": "0dbea02c-f2ca-4e9e-a1a4-259935d2d9e7",
         "title": "Backend Compiler Engineer \u2013 New College Grad 2024 - Gpu",
-        "active": true,
+        "active": false,
         "date_updated": 1705709147,
         "date_posted": 1705709147,
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-TX-Austin/Backend-Compiler-Engineer--GPU---New-College-Grad-2024_JR1976920",
@@ -7918,7 +7918,7 @@
         "company_name": "Acorns",
         "id": "3ac11ed3-59cb-4415-bdb2-5d829b0aad2c",
         "title": "Software Engineer I - Web",
-        "active": true,
+        "active": false,
         "date_updated": 1707956973,
         "date_posted": 1707956973,
         "url": "https://boards.greenhouse.io/acorns/jobs/5708620",
@@ -8527,7 +8527,7 @@
         "company_name": "Match Group",
         "id": "42d55132-b894-4adb-9568-f98e47f20e4c",
         "title": "Software Engineer - IOS",
-        "active": true,
+        "active": false,
         "date_updated": 1709338235,
         "date_posted": 1709338235,
         "url": "https://jobs.lever.co/matchgroup/61e35c3c-3156-4760-a088-4a3765e37f8e/apply",
@@ -8599,6 +8599,166 @@
             "Bellevue, WA"
         ],
         "company_url": "https://simplify.jobs/c/Okta",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "The Boeing Company",
+        "id": "0995c84c-eaab-4ead-bb2b-1ce37004143e",
+        "title": "Early career Software Implementation Developer",
+        "active": true,
+        "date_updated": 1709914907,
+        "date_posted": 1709914907,
+        "url": "https://boeing.wd1.myworkdayjobs.com/external_careers/job/CAN---Montreal-Canada/Early-career-Software-Implementation-Developer_00000411218-1",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Palantir",
+        "id": "1f21180c-eabd-4700-adce-d7671f26d783",
+        "title": "Product Reliability Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1709914909,
+        "date_posted": 1709914909,
+        "url": "https://jobs.lever.co/palantir/ae7fe1d6-bb4c-42dd-87f8-d3bd60b975a6/apply",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Palantir",
+        "id": "8a04ac84-4793-4c61-bb3e-2330c72aa5e8",
+        "title": "Product Reliability Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1709914908,
+        "date_posted": 1709914908,
+        "url": "https://jobs.lever.co/palantir/3ab4284d-c1e6-4540-acc7-2cf5702a0534/apply",
+        "locations": [
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Foursquare",
+        "id": "19111ed5-586e-4b2e-b1a2-b66a24a81fd6",
+        "title": "Software Engineer - Dpio",
+        "active": true,
+        "date_updated": 1709914094,
+        "date_posted": 1709914094,
+        "url": "https://boards.greenhouse.io/foursquare26/jobs/5795131",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Foursquare",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Foursquare",
+        "id": "fe7c7a1e-dde7-40cd-b131-06acd0953c97",
+        "title": "Software Engineer - Dpio",
+        "active": true,
+        "date_updated": 1709914070,
+        "date_posted": 1709914070,
+        "url": "https://boards.greenhouse.io/foursquare26/jobs/5792789",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Foursquare",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Foursquare",
+        "id": "ec1b0607-c5d7-4c29-ab2d-a873de46e36a",
+        "title": "Software Engineer - Dpio",
+        "active": true,
+        "date_updated": 1709914071,
+        "date_posted": 1709914071,
+        "url": "https://boards.greenhouse.io/foursquare26/jobs/5795130",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Foursquare",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Foursquare",
+        "id": "31d6ae1f-0262-4956-9455-3f478a1b287b",
+        "title": "Software Engineer - Dpio",
+        "active": true,
+        "date_updated": 1709914070,
+        "date_posted": 1709914070,
+        "url": "https://boards.greenhouse.io/foursquare26/jobs/5795128",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Foursquare",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Foursquare",
+        "id": "05adc192-ebd9-4454-9a63-60641930ecdd",
+        "title": "Software Engineer - Dpio",
+        "active": true,
+        "date_updated": 1709914070,
+        "date_posted": 1709914070,
+        "url": "https://boards.greenhouse.io/foursquare26/jobs/5795132",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Foursquare",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Coalition",
+        "id": "82a61642-fddf-48b0-8ebc-e447826c6a2c",
+        "title": "Software Engineer-Cyber Policies",
+        "active": true,
+        "date_updated": 1709929427,
+        "date_posted": 1709137760,
+        "url": "https://careers.coalitioninc.com/job-posting/?gh_jid=4378803005",
+        "locations": [
+            "Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Coalition",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Coalition",
+        "id": "5659f50d-df8a-4965-beb7-26e70e8a66c2",
+        "title": "Software Engineer-Cyber Policies",
+        "active": true,
+        "date_updated": 1709929088,
+        "date_posted": 1709137760,
+        "url": "https://careers.coalitioninc.com/job-posting/?gh_jid=4376725005",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Coalition",
         "is_visible": true,
         "sponsorship": "Other"
     }
