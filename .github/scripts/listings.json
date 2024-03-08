@@ -8569,5 +8569,37 @@
         "company_url": "https://simplify.jobs/c/Onbe",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Interactive Brokers",
+        "id": "2f8949c4-d6c8-4a79-88bc-ccf61e995a37",
+        "title": "Software Developer - C++",
+        "active": true,
+        "date_updated": 1709857964,
+        "date_posted": 1709857964,
+        "url": "https://boards.greenhouse.io/ibkr/jobs/7259701002",
+        "locations": [
+            "Greenwich, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/IBKR",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Okta",
+        "id": "efc41bb5-36f3-42d3-958f-279b29a41164",
+        "title": "Software Engineer I \u2013 New Grad - 2024",
+        "active": true,
+        "date_updated": 1709857691,
+        "date_posted": 1709857691,
+        "url": "https://www.okta.com/company/careers/opportunity/5792975?gh_jid=5792975",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Okta",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
