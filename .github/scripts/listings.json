@@ -7565,7 +7565,7 @@
         "company_name": "Gelber Group",
         "id": "c407d606-269e-43bd-ac9c-12d3ee3eb791",
         "title": "Software Engineer-Equity Derivatives Desk",
-        "active": false,
+        "active": true,
         "date_updated": 1706919769,
         "date_posted": 1706919769,
         "url": "https://boards.greenhouse.io/gelbergroup/jobs/4330057006",
@@ -8759,6 +8759,55 @@
             "United States"
         ],
         "company_url": "https://simplify.jobs/c/Coalition",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Arista Networks",
+        "id": "56d308b0-8b09-4f81-acfc-33826c795b28",
+        "title": "Electrical NPI Engineer \u2013 Entry Level",
+        "active": true,
+        "date_updated": 1709943814,
+        "date_posted": 1709943814,
+        "url": "https://jobs.smartrecruiters.com/AristaNetworks/743999972813223",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Arista-Networks",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NVIDIA",
+        "id": "8f0bc549-0975-4231-98e0-7d6268b15b81",
+        "title": "Compiler Engineer \u2013 New College Grad 2024 - Deep Learning",
+        "active": true,
+        "date_updated": 1709943374,
+        "date_posted": 1709943374,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Compiler-Engineer--Deep-Learning---New-College-Grad-2024_JR1981007",
+        "locations": [
+            "Redmond, WA",
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NVIDIA",
+        "id": "82fdab0c-3738-4437-9aed-7c73006f2766",
+        "title": "System Software Engineer \u2013 New College Grad 2024 - Cloud AI",
+        "active": true,
+        "date_updated": 1709943377,
+        "date_posted": 1709943377,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/System-Software-Engineer--Cloud-AI---New-College-Grad-2024_JR1979601",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
         "is_visible": true,
         "sponsorship": "Other"
     }
