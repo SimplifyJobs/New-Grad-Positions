@@ -218,7 +218,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Salesforce** | Software Engineer AMTS/MTS – New Grad | Seattle, WA</br>SF | 🔒 | Dec 08 |
 | **Fluence** | Rotational Engineer-Early Career | Houston, TX | 🔒 | Dec 06 |
 | **CDC Foundation** | Data Analyst | Pennsylvania | 🔒 | Dec 06 |
-| **[Palantir](https://simplify.jobs/c/Palantir)** | Forward Deployed Operations Engineer – New Grad - UK Government | London, UK | <a href="https://jobs.lever.co/palantir/228262da-877a-4040-b866-2a0388745012/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/728f54e6-291b-4d2e-9229-2869dbf16426?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Dec 05 |
 | **[NVIDIA](https://simplify.jobs/c/NVIDIA)** | Compiler Engineer – New College Grad 2024 - LLVM | Austin, TX</br>Redmond, WA</br>Santa Clara, CA | <a href="https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Compiler-Engineer--LLVM---New-College-Grad-2024_JR1976292?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/c62115f7-6407-45b5-8f98-609b61391a38?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Dec 05 |
 | **Ripple** | Software Engineer I | Toronto, ON, Canada | 🔒 | Dec 02 |
 | **E-Space** | GNC Software Engineer | Saratoga, CA | 🔒 | Dec 02 |
