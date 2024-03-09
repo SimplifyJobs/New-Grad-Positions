@@ -7115,14 +7115,14 @@
         "id": "86d928ac-1df6-431a-82b1-9d729a6aaf9c",
         "title": "Data Scientist",
         "active": true,
-        "date_updated": 1705537512,
+        "date_updated": 1709954363,
         "date_posted": 1705537512,
         "url": "https://jobs.lever.co/voleon/3e70512a-a6e7-42a3-b263-86120bc11051/apply",
         "locations": [
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/The-Voleon-Group",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
