@@ -8810,5 +8810,21 @@
         "company_url": "https://simplify.jobs/c/NVIDIA",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Navan (fka TripActions)",
+        "id": "defebec3-f484-414b-bb03-4a165e076b3a",
+        "title": "New College Grad - Android Engineer",
+        "active": true,
+        "date_updated": 1710079426,
+        "date_posted": 1702944438,
+        "url": "https://tripactions.com/job-openings?gh_jid=5511366",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Navan",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
