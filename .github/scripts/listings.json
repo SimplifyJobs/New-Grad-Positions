@@ -6324,7 +6324,7 @@
         "company_name": "Relativity Space",
         "id": "f92e40db-8e68-40e6-b0a6-4b879c2e0ce3",
         "title": "GNC Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1702513261,
         "date_posted": 1702513261,
         "url": "https://boards.greenhouse.io/relativity/jobs/7060330002",
@@ -7178,7 +7178,7 @@
         "company_name": "The RealReal",
         "id": "3e5d04a9-c43d-4785-829d-f8f156c77556",
         "title": "Associate Specialist - Fjw",
-        "active": true,
+        "active": false,
         "date_updated": 1705710050,
         "date_posted": 1705710050,
         "url": "https://boards.greenhouse.io/therealreal/jobs/7104483002",
@@ -7339,7 +7339,7 @@
         "company_name": "Alexandra Lozano Immigration Law PLLC",
         "id": "33b6fa0a-bff7-4df6-924a-10d9cfb4de2e",
         "title": "IT Support Bilingual English/Spanish",
-        "active": true,
+        "active": false,
         "date_updated": 1706142210,
         "date_posted": 1706142210,
         "url": "https://boards.greenhouse.io/alexandralozanoimmigrationlawpllc/jobs/5066148004",
@@ -7869,7 +7869,7 @@
         "company_name": "NVIDIA",
         "id": "d951e174-1507-4b74-8f8b-0cc483ba6e19",
         "title": "Compiler Engineer \u2013 New College Grad 2024 - Deep Learning",
-        "active": true,
+        "active": false,
         "date_updated": 1707869207,
         "date_posted": 1707869207,
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Compiler-Engineer---Deep-Learning--New-College-Grad-2024_JR1979833",
@@ -8800,7 +8800,7 @@
         "company_name": "NVIDIA",
         "id": "82fdab0c-3738-4437-9aed-7c73006f2766",
         "title": "System Software Engineer \u2013 New College Grad 2024 - Cloud AI",
-        "active": true,
+        "active": false,
         "date_updated": 1709943377,
         "date_posted": 1709943377,
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/System-Software-Engineer--Cloud-AI---New-College-Grad-2024_JR1979601",
@@ -8824,6 +8824,70 @@
             "Palo Alto, CA"
         ],
         "company_url": "https://simplify.jobs/c/Navan",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Relativity Space",
+        "id": "4138ee01-a08c-4ee8-a10a-2596d9b515b8",
+        "title": "Dynamic Environments Engineer II",
+        "active": true,
+        "date_updated": 1710342627,
+        "date_posted": 1710342627,
+        "url": "https://boards.greenhouse.io/relativity/jobs/7281081002",
+        "locations": [
+            "Long Beach, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Relativity-Space",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Belvedere Trading",
+        "id": "a23e6bcd-5493-49ae-86e1-f46a27de9f9b",
+        "title": "Accounting Systems Analyst",
+        "active": true,
+        "date_updated": 1710286573,
+        "date_posted": 1710286573,
+        "url": "https://jobs.lever.co/belvederetrading/77be7c7f-2804-4aff-8614-19cf1f865eea/apply",
+        "locations": [
+            "Boulder, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Belvedere-Trading",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wolverine Trading",
+        "id": "26791c5d-3804-4f8f-b886-d2c460bc35eb",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1710198796,
+        "date_posted": 1710198796,
+        "url": "https://jobs.lever.co/wolve/c7ce60f1-ab12-431a-a77a-9a300cffe736/apply",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/wolverine-trading",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NVIDIA",
+        "id": "ff97d0ab-3f44-41a5-90d2-43774d63e037",
+        "title": "Firmware Engineer \u2013 New College Grad 2024 - Memory Subsystem",
+        "active": true,
+        "date_updated": 1710198633,
+        "date_posted": 1710198633,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Firmware-Engineer--Memory-Subsystem---New-College-Grad-2024_JR1980397",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
         "is_visible": true,
         "sponsorship": "Other"
     }
