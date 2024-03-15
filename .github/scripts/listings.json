@@ -8890,5 +8890,21 @@
         "company_url": "https://simplify.jobs/c/NVIDIA",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Applied Materials",
+        "id": "155f7333-18a9-41e0-8dd6-e6e071b3cb70",
+        "title": "Data Scientist II \u2013 New College Grad",
+        "active": true,
+        "date_updated": 1710459124,
+        "date_posted": 1710459124,
+        "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Data-Scientist-II---New-College-Grad_R2411682",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/AMAT",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
