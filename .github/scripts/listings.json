@@ -807,7 +807,7 @@
         "company_name": "Tower Research Capital",
         "id": "19901f3d-e33b-4b9c-b026-24847c329e1b",
         "title": "Quantitative Research Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1689729806,
         "date_posted": 1689729806,
         "url": "https://www.tower-research.com/open-positions/?gh_jid=16635",
@@ -3678,7 +3678,7 @@
         "company_name": "Trumid",
         "id": "23bc99ee-fcd6-4118-8f64-7f7e9eac4d70",
         "title": "Fixed Income Operations Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1695165849,
         "date_posted": 1695165849,
         "url": "https://boards.greenhouse.io/trumid/jobs/4976920003",
@@ -6033,7 +6033,7 @@
         "company_name": "Palantir",
         "id": "728f54e6-291b-4d2e-9229-2869dbf16426",
         "title": "Forward Deployed Operations Engineer \u2013 New Grad - UK Government",
-        "active": true,
+        "active": false,
         "date_updated": 1709954382,
         "date_posted": 1701792940,
         "url": "https://jobs.lever.co/palantir/228262da-877a-4040-b866-2a0388745012/apply",
@@ -8302,7 +8302,7 @@
         "company_name": "Squarepoint Capital",
         "id": "b2771c9d-3832-44d8-b7f7-37bdfeac329f",
         "title": "Financing Trader",
-        "active": true,
+        "active": false,
         "date_updated": 1709695705,
         "date_posted": 1709137576,
         "url": "https://boards.greenhouse.io/embed/job_app?token=5738194",
@@ -8896,7 +8896,7 @@
         "company_name": "Applied Materials",
         "id": "155f7333-18a9-41e0-8dd6-e6e071b3cb70",
         "title": "Data Scientist II \u2013 New College Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1710459124,
         "date_posted": 1710459124,
         "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Data-Scientist-II---New-College-Grad_R2411682",
@@ -8904,6 +8904,22 @@
             "Santa Clara, CA"
         ],
         "company_url": "https://simplify.jobs/c/AMAT",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Mediabrands",
+        "id": "8331e7f2-3c20-4d10-bfff-be2086fe517a",
+        "title": "Operations Associate - Entry-Level",
+        "active": true,
+        "date_updated": 1710775010,
+        "date_posted": 1710775010,
+        "url": "https://boards.greenhouse.io/mediabrands/jobs/4267029007",
+        "locations": [
+            "United Kingdom"
+        ],
+        "company_url": "https://simplify.jobs/c/Mediabrands",
         "is_visible": true,
         "sponsorship": "Other"
     }
