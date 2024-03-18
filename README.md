@@ -453,7 +453,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Stripe** | Software Engineering – New Grad | <details><summary>**4 locations**</summary>Seattle, WA</br>SF</br>Chicago, IL</br>NYC</details> | 🔒 | Aug 21 |
 | **Figma** | Software Engineer – Early Career - 2024 | SF</br>NYC | 🔒 | Aug 21 |
 | **Zscaler** | Software Engineer | San Jose, CA | 🔒 | Aug 21 |
-| **[Palantir](https://simplify.jobs/c/Palantir)** | Forward Deployed Software Engineer – New Grad | London, UK | <a href="https://jobs.lever.co/palantir/73f6f11a-8165-4009-8dba-cc78ab9ca990/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/791ef167-9292-42dd-9cf5-714780fb6097?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Aug 21 |
 | **Palantir** | Software Engineer – New Grad | NYC | 🔒 | Aug 21 |
 | **[Uncountable](https://simplify.jobs/c/Uncountable)** | Full-Stack Engineer – New Grad | SF</br>NYC | <a href="https://simplify.jobs/p/76f659b7-cf65-4fe2-8f7c-52e86db4428f?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/76f659b7-cf65-4fe2-8f7c-52e86db4428f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Aug 20 |
 | **Rhombus Power** | Data Engineer - Omaha | Omaha, NE | 🔒 | Aug 18 |
