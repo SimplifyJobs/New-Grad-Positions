@@ -1681,14 +1681,14 @@
         "id": "4cbc04d5-d651-438a-81ec-b82f768a6602",
         "title": "Software Engineer \u2013 New Grad",
         "active": true,
-        "date_updated": 1692659477,
+        "date_updated": 1710804477,
         "date_posted": 1692659477,
         "url": "https://jobs.lever.co/palantir/d372c805-d0cd-4a10-9522-fbecc78d6f3e/apply",
         "locations": [
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/Palantir",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
