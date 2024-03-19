@@ -6244,7 +6244,7 @@
         "company_name": "NVIDIA",
         "id": "f01473a9-5ff0-4fd8-bfeb-82a291c37049",
         "title": "Verification Engineer \u2013 New College Grad 2024 - Memory Controller",
-        "active": true,
+        "active": false,
         "date_updated": 1702426336,
         "date_posted": 1702426336,
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/Canada-Toronto/Verification-Engineer--Memory-Controller---New-College-Grad-2024_JR1976784",
@@ -8318,7 +8318,7 @@
         "company_name": "Altera Digital Health",
         "id": "a7baed2c-2f60-442d-b4d2-1bc59fae781b",
         "title": "Associate Software Engineer - Remote",
-        "active": false,
+        "active": true,
         "date_updated": 1709151521,
         "date_posted": 1709136552,
         "url": "https://boards.greenhouse.io/alteradigitalhealth/jobs/4253680007",
@@ -8880,7 +8880,7 @@
         "company_name": "NVIDIA",
         "id": "ff97d0ab-3f44-41a5-90d2-43774d63e037",
         "title": "Firmware Engineer \u2013 New College Grad 2024 - Memory Subsystem",
-        "active": true,
+        "active": false,
         "date_updated": 1710198633,
         "date_posted": 1710198633,
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Firmware-Engineer--Memory-Subsystem---New-College-Grad-2024_JR1980397",
@@ -8921,6 +8921,81 @@
         ],
         "company_url": "https://simplify.jobs/c/Mediabrands",
         "is_visible": false,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Salesforce",
+        "id": "0e3999fb-1a40-463c-858d-fc0903e62bc2",
+        "title": "Software Engineering MTS \u2013 New Grad",
+        "active": true,
+        "date_updated": 1710833607,
+        "date_posted": 1710833607,
+        "url": "https://salesforce.wd12.myworkdayjobs.com/en-us/External_Career_Site/job/Washington---Bellevue/Software-Engineering-MTS--New-Grad-_JR244479-1",
+        "locations": [
+            "Cambridge, MA",
+            "Seattle, WA",
+            "Indianapolis, IN",
+            "SF",
+            "Remote in USA",
+            "McLean, VA",
+            "Chicago, IL",
+            "NYC",
+            "Bellevue, WA",
+            "Atlanta, GA",
+            "Burlington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Salesforce",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Okta",
+        "id": "a8b5e958-2ac0-4f16-bf81-71ec9d5c7b35",
+        "title": "Software Engineer New Grad - Customer Identity Cloud - Summer 2024",
+        "active": true,
+        "date_updated": 1710804557,
+        "date_posted": 1710804557,
+        "url": "https://www.okta.com/company/careers/opportunity/5829388?gh_jid=5829388",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/Okta",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Yodlee",
+        "id": "4494d99b-5b06-4bf2-9632-7f3191806b72",
+        "title": "Client Service Associate - Tamarac Trading",
+        "active": true,
+        "date_updated": 1710803850,
+        "date_posted": 1710803850,
+        "url": "https://jobs.jobvite.com/yodlee/job/oMIZrfwE?nl=1&nl=1&fr=false",
+        "locations": [
+            "California",
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Yodlee",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Western Digital",
+        "id": "746d3379-5b8e-4772-aef8-9c65c6582404",
+        "title": "New College Grad Engineer - Software Engineer - Firmware Engineering",
+        "active": true,
+        "date_updated": 1710803425,
+        "date_posted": 1710803425,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/743999974558895",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Digital",
+        "is_visible": true,
         "sponsorship": "Other"
     }
 ]
