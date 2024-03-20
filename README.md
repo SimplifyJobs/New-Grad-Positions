@@ -133,7 +133,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[Relativity Space](https://simplify.jobs/c/Relativity-Space)** | Materials & Processes Engineer I - General Metallics | Long Beach, CA | <a href="https://boards.greenhouse.io/relativity/jobs/7166121002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/71853290-996b-465a-948c-fef601f24304?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Feb 06 |
 | **[Gelber Group](https://simplify.jobs/c/GelberGroup)** | Software Engineer-Equity Derivatives Desk | Chicago, IL | <a href="https://boards.greenhouse.io/gelbergroup/jobs/4330057006?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/c407d606-269e-43bd-ac9c-12d3ee3eb791?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Feb 03 |
 | **Trustpilot** | Fraud Detection Analyst | London, UK | 🔒 | Feb 02 |
-| **NewsBreak** | Software Engineer – Junior & New Grad | Mountain View, CA | 🔒 | Feb 02 |
+| **[NewsBreak](https://simplify.jobs/c/NewsBreak)** | Software Engineer – Junior & New Grad | Mountain View, CA | <a href="https://boards.greenhouse.io/newsbreak/jobs/4054592006?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/1d8e7ec9-fef4-48da-9a60-c4c37d0b3cbc?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Feb 02 |
 | **Zynga** | Software Engineer - Client - Tech Enablement - Central tech | Canada | 🔒 | Feb 01 |
 | **NVIDIA** | Deep Learning Tools Developer – New College Grad 2024 | Santa Clara, CA | 🔒 | Feb 01 |
 | **Western Digital** | New College Grad - Software Engineer - System Testing | Rochester, MN | 🔒 | Feb 01 |
@@ -172,7 +172,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Visa** | Associate Systems Analyst – New College Grad - 2024 | Austin, TX | 🔒 | Jan 06 |
 | **CoreWeave** | IT Specialist II | Livingston, NJ | 🔒 | Jan 05 |
 | **Visa** | Associate Systems Analyst – New College Grad - 2024 | Austin, TX | 🔒 | Jan 05 |
-| **[WeRide](https://simplify.jobs/c/WeRide)** | Software Engineer – New Grads 2024 - Campus Recruiting | San Jose, CA | <a href="https://jobs.lever.co/weride/f949226a-0c90-4368-84b2-eef81615ed62/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/04fbcfe2-276a-4fac-8f36-483d14d33a4c?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jan 03 |
+| **WeRide** | Software Engineer – New Grads 2024 - Campus Recruiting | San Jose, CA | 🔒 | Jan 03 |
 | **[Matroid](https://simplify.jobs/c/Matroid)** | Deep Learning Field Engineer | Palo Alto, CA | <a href="https://matroid.breezy.hr/p/fd3a99c34bf6/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/86c7ce6d-b699-40ea-aea2-6abb467083e7?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jan 03 |
 | **[Matroid](https://simplify.jobs/c/Matroid)** | Deep Learning Engineer | Palo Alto, CA | <a href="https://matroid.breezy.hr/p/eb926c2e5033/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/019f774f-4f91-46a0-bc56-24c9606860e2?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jan 03 |
 | **Palantir** | Product Designer – New Grad - US Government | Washington, DC | 🔒 | Jan 03 |
@@ -513,7 +513,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Veeva Systems** | Associate Software Engineer – Seeking 2024 Grads | Toronto, ON, Canada | 🔒 | Aug 02 |
 | **Veeva Systems** | Associate Software Engineer – Seeking 2024 Grads | Columbus, OH | 🔒 | Aug 02 |
 | **Veeva Systems** | Associate Software Engineer – Master’s 2024 Graduates in Computer Science | Raleigh, NC | 🔒 | Aug 02 |
-| **[Veeva Systems](https://simplify.jobs/c/Veeva-Systems)** | Associate Software Engineer – Seeking 2024 Grads | Pleasanton, CA | <a href="https://jobs.lever.co/veeva/689b64ea-1518-483e-9c47-b41fd72fdcfa/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/0ed8b19a-cee7-4d7f-9b54-1c3863536432?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Aug 02 |
+| **Veeva Systems** | Associate Software Engineer – Seeking 2024 Grads | Pleasanton, CA | 🔒 | Aug 02 |
 | **Veeva Systems** | Associate Software Engineer – Master’s 2024 Graduates in Computer Science | Pleasanton, CA | 🔒 | Aug 02 |
 | **Yassir** | Backend Software Engineer | Remote | 🔒 | Aug 02 |
 | **Fluence** | Rotational Engineer | Pittsburgh, PA | 🔒 | Aug 02 |
