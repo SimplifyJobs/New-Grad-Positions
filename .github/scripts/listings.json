@@ -661,7 +661,7 @@
         "company_name": "Akuna Capital",
         "id": "1f4a37d6-99c3-4afb-a748-ea03ead2a7fa",
         "title": "Software Engineer - Entry-Level - C++",
-        "active": true,
+        "active": false,
         "date_updated": 1689750638,
         "date_posted": 1689750638,
         "url": "https://www.akunacapital.com/job-details?gh_jid=5136022",
@@ -1888,7 +1888,7 @@
         "company_name": "Vatic Investments",
         "id": "23894828-e082-4590-b0bf-b6af86ba42b1",
         "title": "Quantitative Researcher \u2013 Grads - Full Time",
-        "active": true,
+        "active": false,
         "date_updated": 1689751418,
         "date_posted": 1689751418,
         "url": "https://boards.greenhouse.io/vaticlabs/jobs/53549",
@@ -6743,7 +6743,7 @@
         "company_name": "IXL Learning",
         "id": "60b342f6-c0c4-4c72-b779-09f44133a982",
         "title": "Software Engineer \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1703722991,
         "date_posted": 1703722991,
         "url": "https://www.ixl.com/company/jobs?gh_jid=7076723002",
@@ -6759,7 +6759,7 @@
         "company_name": "IXL Learning",
         "id": "d75bceb6-1f1e-41b5-b107-478386ce97d1",
         "title": "Software Engineer \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1703722993,
         "date_posted": 1703722993,
         "url": "https://www.ixl.com/company/jobs?gh_jid=7076717002",
@@ -8995,6 +8995,54 @@
             "San Jose, CA"
         ],
         "company_url": "https://simplify.jobs/c/Western-Digital",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "IXL Learning",
+        "id": "5608f1d1-cd2f-4c79-902e-c9c4ecc0ec24",
+        "title": "Software Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1710976762,
+        "date_posted": 1710976762,
+        "url": "https://www.ixl.com/company/jobs?gh_jid=7295051002",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/IXL-Learning",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Rockset",
+        "id": "95d92001-1f0a-4b17-9676-8c40e293c7af",
+        "title": "Product Solutions Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1710976761,
+        "date_posted": 1710976761,
+        "url": "https://jobs.lever.co/rockset/3ba737d8-8955-40a0-b61f-6520cf187151/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Rockset",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "IXL Learning",
+        "id": "dac8a11e-bd01-49b1-839b-b253f3f79438",
+        "title": "Software Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1710976761,
+        "date_posted": 1710976761,
+        "url": "https://www.ixl.com/company/jobs?gh_jid=7294926002",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/IXL-Learning",
         "is_visible": true,
         "sponsorship": "Other"
     }
