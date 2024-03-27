@@ -453,7 +453,7 @@
         "company_name": "The Voleon Group",
         "id": "05818f02-8334-4c43-bc92-eb2b09113918",
         "title": "Data Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1692032813,
         "date_posted": 1691191171,
         "url": "https://jobs.lever.co/voleon/ebd0306d-4353-4b10-be9d-479af8127617/apply",
@@ -955,7 +955,7 @@
         "company_name": "Veeva Systems",
         "id": "769eae64-9b5a-4cc7-9d7b-223be07b4abf",
         "title": "Associate Quality Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1689750515,
         "date_posted": 1689750515,
         "url": "https://jobs.lever.co/veeva/0ec5445b-fe7f-49e2-8039-b3eb385a21d8/apply",
@@ -1051,7 +1051,7 @@
         "company_name": "Canonical",
         "id": "94832aed-3fbf-4054-9afc-24df644ac445",
         "title": "Cloud Field Engineer \u2013 Entry Level - Americas - Remote",
-        "active": true,
+        "active": false,
         "date_updated": 1690960489,
         "date_posted": 1690960489,
         "url": "https://boards.greenhouse.io/canonical/jobs/5130154",
@@ -1099,7 +1099,7 @@
         "company_name": "Veeva Systems",
         "id": "9cedbafb-69e9-4cfa-939f-06895228b980",
         "title": "Associate Mobile Engineer \u2013 Seeking 2024 Grads",
-        "active": false,
+        "active": true,
         "date_updated": 1690988899,
         "date_posted": 1690988899,
         "url": "https://jobs.lever.co/veeva/36cc1524-471d-4234-a1a8-013c378be061/apply",
@@ -1324,7 +1324,7 @@
         "company_name": "Yassir",
         "id": "47e3203f-d811-42a2-b395-7f23beb827ca",
         "title": "Backend Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1690960496,
         "date_posted": 1690960496,
         "url": "https://jobs.lever.co/Yassir/13c90265-5c71-492d-a570-9c3af60282b0/apply",
@@ -1372,7 +1372,7 @@
         "company_name": "Veeva Systems",
         "id": "3e569289-bf9b-427c-ac73-6152ef7a97e9",
         "title": "Associate Performance Engineer \u2013 Seeking 2024 Grads",
-        "active": true,
+        "active": false,
         "date_updated": 1690988901,
         "date_posted": 1690988901,
         "url": "https://jobs.lever.co/veeva/ad20a133-f6ac-4545-b758-a1313abdb0fa/apply",
@@ -1452,7 +1452,7 @@
         "company_name": "Yassir",
         "id": "c52d4c1c-df8d-4ac0-9859-bae2096e5f09",
         "title": "Backend Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1690960498,
         "date_posted": 1690960498,
         "url": "https://jobs.lever.co/Yassir/81cd65c0-f7bb-40a2-9a7a-a377db85bf7f/apply",
@@ -1500,7 +1500,7 @@
         "company_name": "Interactive Brokers",
         "id": "62660f4a-8e68-4d84-b573-e2ba403e7f2a",
         "title": "Finance Entry-Level Career Opportunities: Institutional Services",
-        "active": true,
+        "active": false,
         "date_updated": 1689750670,
         "date_posted": 1689750670,
         "url": "https://boards.greenhouse.io/ibkr/jobs/6104610002",
@@ -1664,7 +1664,7 @@
         "company_name": "Palantir",
         "id": "791ef167-9292-42dd-9cf5-714780fb6097",
         "title": "Forward Deployed Software Engineer \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1710804561,
         "date_posted": 1692659472,
         "url": "https://jobs.lever.co/palantir/73f6f11a-8165-4009-8dba-cc78ab9ca990/apply",
@@ -1712,7 +1712,7 @@
         "company_name": "Interactive Brokers",
         "id": "8ccd2279-a582-4d43-abf0-9131a766fc1a",
         "title": "Entry Level Career Opportunities in Finance & Operation",
-        "active": true,
+        "active": false,
         "date_updated": 1694723115,
         "date_posted": 1692400111,
         "url": "https://boards.greenhouse.io/ibkr/jobs/4246812002",
@@ -1856,7 +1856,7 @@
         "company_name": "ION Group",
         "id": "753bdcf8-6983-4344-b7cd-4833a9b33bc8",
         "title": "Trading Support Analyst - Toronto",
-        "active": true,
+        "active": false,
         "date_updated": 1689750979,
         "date_posted": 1689750979,
         "url": "https://jobs.lever.co/ion/cdbeca09-e04a-4dfe-9b2e-9b125f2881e3/apply",
@@ -1904,7 +1904,7 @@
         "company_name": "ION Group",
         "id": "038e3a4b-e145-43f1-b036-94725b6dfea0",
         "title": "Trading Support Analyst - Jersey City",
-        "active": true,
+        "active": false,
         "date_updated": 1689750979,
         "date_posted": 1689750979,
         "url": "https://jobs.lever.co/ion/aac1933b-9db6-4252-b44e-7a3f55d68c47/apply",
@@ -2146,7 +2146,7 @@
         "company_name": "Turbo.net",
         "id": "4230fa0e-b911-45ee-a6d7-c8d9e6d50ac3",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1692948564,
         "date_posted": 1692948564,
         "url": "https://boards.greenhouse.io/turbo/jobs/4115212005",
@@ -3550,7 +3550,7 @@
         "company_name": "Edward Daniels Group",
         "id": "5df28b97-6a36-4d28-ad86-5e0b91807ac2",
         "title": "Cloud Engineer - Public Clouds",
-        "active": true,
+        "active": false,
         "date_updated": 1694819662,
         "date_posted": 1694819662,
         "url": "https://jobs.lever.co/edgrp/befb6be7-c278-49a6-951e-bd7327085af7/apply",
@@ -3941,7 +3941,7 @@
         "company_name": "HPR (Hyannis Port Research)",
         "id": "96c767c5-c497-4669-9bc9-2df91901eccd",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1695568494,
         "date_posted": 1695568494,
         "url": "https://boards.greenhouse.io/hyannisportresearch/jobs/5597621003",
@@ -4376,7 +4376,7 @@
         "company_name": "RVO Health",
         "id": "bb5e31be-4ccc-499d-b4d8-365c74648866",
         "title": "2024 Early Career Program: Business Analysis Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1696346480,
         "date_posted": 1696346480,
         "url": "https://boards.greenhouse.io/rvohealth/jobs/4324509005",
@@ -4408,7 +4408,7 @@
         "company_name": "Brain Technologies",
         "id": "dbbc934f-fd0f-47fb-9480-1f7f0b120d89",
         "title": "NLP Fellow",
-        "active": true,
+        "active": false,
         "date_updated": 1696929415,
         "date_posted": 1696461290,
         "url": "https://boards.greenhouse.io/braintechnologies/jobs/4989817004",
@@ -5354,7 +5354,7 @@
         "company_name": "Movable Ink",
         "id": "60cbc5c2-00d9-4168-bd07-50228d8e1efe",
         "title": "Associate Software Developer - Integrations",
-        "active": true,
+        "active": false,
         "date_updated": 1698938986,
         "date_posted": 1698938986,
         "url": "https://movableink.com/careers/5478132?gh_jid=5478132",
@@ -5951,7 +5951,7 @@
         "company_name": "E-Space",
         "id": "5205eacd-2c6b-4166-bdb3-58c6e4fe2c35",
         "title": "GNC Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1701475750,
         "date_posted": 1701475750,
         "url": "https://jobs.lever.co/espace/0d7b029d-555b-497a-993b-700bf96cd74f/apply",
@@ -6388,7 +6388,7 @@
         "company_name": "Rackner",
         "id": "b8e7840b-d463-46cf-b888-d455473ab9af",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1702663982,
         "date_posted": 1702663982,
         "url": "https://boards.greenhouse.io/rackner/jobs/4351048005",
@@ -6453,7 +6453,7 @@
         "company_name": "Cadence Design Systems",
         "id": "aa8ca880-8ca7-46cd-9cb6-8ffd06555b1d",
         "title": "Application Engineer \u2013 New College Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1702890709,
         "date_posted": 1702890709,
         "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/SAN-JOSE/Application-Engineer---New-College-Grad_R44174-1",
@@ -6842,7 +6842,7 @@
         "company_name": "Matroid",
         "id": "86c7ce6d-b699-40ea-aea2-6abb467083e7",
         "title": "Deep Learning Field Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1704241371,
         "date_posted": 1704241371,
         "url": "https://matroid.breezy.hr/p/fd3a99c34bf6/apply",
@@ -6858,7 +6858,7 @@
         "company_name": "Matroid",
         "id": "019f774f-4f91-46a0-bc56-24c9606860e2",
         "title": "Deep Learning Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1704241369,
         "date_posted": 1704241369,
         "url": "https://matroid.breezy.hr/p/eb926c2e5033/apply",
@@ -6954,7 +6954,7 @@
         "company_name": "Constellation Technologies",
         "id": "e13cba19-e8c7-4ebd-894e-6565bfd1d3f6",
         "title": "Software Engineer \u2013 Entry level",
-        "active": true,
+        "active": false,
         "date_updated": 1704485281,
         "date_posted": 1703089742,
         "url": "https://jobs.lever.co/cti-md/4ad8792e-81ce-44f9-bb70-a39a6c136d6c/apply",
@@ -7082,7 +7082,7 @@
         "company_name": "Jamf",
         "id": "9a658828-d7aa-4270-934b-03f38b4b1edc",
         "title": "Technical Support Associate \u2013 Entry Level - High Potential",
-        "active": true,
+        "active": false,
         "date_updated": 1705450324,
         "date_posted": 1705450324,
         "url": "https://www.jamf.com/about/careers/jobs/?gh_jid=5009559004&gh_jid=5009559004",
@@ -7114,7 +7114,7 @@
         "company_name": "The Voleon Group",
         "id": "86d928ac-1df6-431a-82b1-9d729a6aaf9c",
         "title": "Data Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1709954363,
         "date_posted": 1705537512,
         "url": "https://jobs.lever.co/voleon/3e70512a-a6e7-42a3-b263-86120bc11051/apply",
@@ -7210,7 +7210,7 @@
         "company_name": "Akuna Capital",
         "id": "4f671015-2e62-4358-bc1c-cdfabb83940c",
         "title": "Women in Trading Sneak Peek Week - 2024",
-        "active": true,
+        "active": false,
         "date_updated": 1705709318,
         "date_posted": 1705709318,
         "url": "https://www.akunacapital.com/job-details?gh_jid=5630638",
@@ -7275,7 +7275,7 @@
         "company_name": "Gelber Group",
         "id": "fdebcec9-3d76-4db0-b15f-1be66ed04a3b",
         "title": "Trade Desk Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1705940556,
         "date_posted": 1705940556,
         "url": "https://boards.greenhouse.io/gelbergroup/jobs/4325528006",
@@ -7533,7 +7533,7 @@
         "company_name": "NewsBreak",
         "id": "1d8e7ec9-fef4-48da-9a60-c4c37d0b3cbc",
         "title": "Software Engineer \u2013 Junior & New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1706833541,
         "date_posted": 1706833541,
         "url": "https://boards.greenhouse.io/newsbreak/jobs/4054592006",
@@ -7565,7 +7565,7 @@
         "company_name": "Gelber Group",
         "id": "c407d606-269e-43bd-ac9c-12d3ee3eb791",
         "title": "Software Engineer-Equity Derivatives Desk",
-        "active": true,
+        "active": false,
         "date_updated": 1706919769,
         "date_posted": 1706919769,
         "url": "https://boards.greenhouse.io/gelbergroup/jobs/4330057006",
@@ -7645,7 +7645,7 @@
         "company_name": "Empowerly",
         "id": "706a3c20-9781-4cdc-b81b-10bd8f83417c",
         "title": "Product Manager",
-        "active": true,
+        "active": false,
         "date_updated": 1707333733,
         "date_posted": 1707333733,
         "url": "https://jobs.lever.co/empowerly/38d07a6b-254c-4c5a-8da1-3e1e805e4c24/apply",
@@ -7677,7 +7677,7 @@
         "company_name": "DRW",
         "id": "3577e15e-6eea-44e8-99e4-fa9a2f1f0d69",
         "title": "Equities Operations Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1709695903,
         "date_posted": 1707333173,
         "url": "https://boards.greenhouse.io/drweng/jobs/5682653",
@@ -7773,7 +7773,7 @@
         "company_name": "HCVT",
         "id": "8d6cdfb7-8dbe-4489-b855-232761c6accb",
         "title": "Application Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1707438008,
         "date_posted": 1707438008,
         "url": "https://jobs.lever.co/hcvt/a4cf34d5-772b-4e21-ad64-ca846ae5a0c3/apply",
@@ -7998,7 +7998,7 @@
         "company_name": "Momentum Worldwide",
         "id": "73ff690b-ed18-4f02-a28a-ba2492114573",
         "title": "Associate Creative Technologist",
-        "active": true,
+        "active": false,
         "date_updated": 1708101086,
         "date_posted": 1708101086,
         "url": "https://www.momentumww.com/opportunities/?gh_jid=7218155002",
@@ -8014,7 +8014,7 @@
         "company_name": "IPG DXTRA",
         "id": "77bcdc09-4070-4457-a4fb-ea1a67c7a760",
         "title": "Associate Creative Technologist",
-        "active": true,
+        "active": false,
         "date_updated": 1708100225,
         "date_posted": 1708100225,
         "url": "https://boards.greenhouse.io/dxacirca/jobs/7218301002",
@@ -8062,7 +8062,7 @@
         "company_name": "Onbe",
         "id": "efb2950e-3dc5-4ced-bf11-f368b63c4233",
         "title": "Associate Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1708474644,
         "date_posted": 1708474644,
         "url": "https://www.onbe.com/company/careers?gh_jid=4337322006",
@@ -8078,7 +8078,7 @@
         "company_name": "Relativity Space",
         "id": "649cfb5d-2861-4a0e-84cc-3929dbf3dadd",
         "title": "Weld Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1710218940,
         "date_posted": 1708561046,
         "url": "https://boards.greenhouse.io/relativity/jobs/7254024002",
@@ -8094,7 +8094,7 @@
         "company_name": "dunnhumby",
         "id": "2698b474-d313-4e65-865d-f0b02f54d74e",
         "title": "Customer Engagement Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1710218962,
         "date_posted": 1708560756,
         "url": "https://www.dunnhumby.com/jobs/?gh_jid=5891031003",
@@ -8254,7 +8254,7 @@
         "company_name": "The RealReal",
         "id": "dda694ef-c457-4fa4-ab38-b9ccb9e6b6ce",
         "title": "Associate Specialist - Fine Jewelry & Watches",
-        "active": true,
+        "active": false,
         "date_updated": 1708992921,
         "date_posted": 1708992921,
         "url": "https://boards.greenhouse.io/therealreal/jobs/7259756002",
@@ -8270,7 +8270,7 @@
         "company_name": "Lucid",
         "id": "f87c43e4-2a2a-4492-98ac-900e542cdfa9",
         "title": "Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1709079055,
         "date_posted": 1709079055,
         "url": "https://boards.greenhouse.io/lucidsoftware/jobs/5071206004",
@@ -8286,7 +8286,7 @@
         "company_name": "Lucid",
         "id": "0b44ea75-c489-419d-b0e5-389c0441d94b",
         "title": "Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1709079057,
         "date_posted": 1709079057,
         "url": "https://boards.greenhouse.io/lucidsoftware/jobs/5062228004",
@@ -8318,7 +8318,7 @@
         "company_name": "Altera Digital Health",
         "id": "a7baed2c-2f60-442d-b4d2-1bc59fae781b",
         "title": "Associate Software Engineer - Remote",
-        "active": true,
+        "active": false,
         "date_updated": 1709151521,
         "date_posted": 1709136552,
         "url": "https://boards.greenhouse.io/alteradigitalhealth/jobs/4253680007",
@@ -8350,7 +8350,7 @@
         "company_name": "Abnormal Security",
         "id": "2867a4d6-9d77-47d3-9709-1fd0981d3a33",
         "title": "Software Engineer II - Cloud Infrastructure",
-        "active": true,
+        "active": false,
         "date_updated": 1709166694,
         "date_posted": 1709166694,
         "url": "https://careers.abnormalsecurity.com/jobs/5905871003?gh_jid=5905871003",
@@ -8479,7 +8479,7 @@
         "company_name": "The RealReal",
         "id": "3fd32b4b-b2db-4cc0-b5fd-72ff1bef0dbb",
         "title": "Associate Specialist - Fine Jewelry & Watches",
-        "active": true,
+        "active": false,
         "date_updated": 1710804444,
         "date_posted": 1709683996,
         "url": "https://boards.greenhouse.io/therealreal/jobs/7271808002",
@@ -8559,7 +8559,7 @@
         "company_name": "Onbe",
         "id": "350c2099-bf19-4a37-a04b-18b2b8cf06a1",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1709582965,
         "date_posted": 1708474644,
         "url": "https://www.onbe.com/company/careers?gh_jid=4337327006",
@@ -8623,7 +8623,7 @@
         "company_name": "Palantir",
         "id": "1f21180c-eabd-4700-adce-d7671f26d783",
         "title": "Product Reliability Engineer \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1709914909,
         "date_posted": 1709914909,
         "url": "https://jobs.lever.co/palantir/ae7fe1d6-bb4c-42dd-87f8-d3bd60b975a6/apply",
@@ -8639,7 +8639,7 @@
         "company_name": "Palantir",
         "id": "8a04ac84-4793-4c61-bb3e-2330c72aa5e8",
         "title": "Product Reliability Engineer \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1709914908,
         "date_posted": 1709914908,
         "url": "https://jobs.lever.co/palantir/3ab4284d-c1e6-4540-acc7-2cf5702a0534/apply",
@@ -8655,7 +8655,7 @@
         "company_name": "Foursquare",
         "id": "19111ed5-586e-4b2e-b1a2-b66a24a81fd6",
         "title": "Software Engineer - Dpio",
-        "active": true,
+        "active": false,
         "date_updated": 1709914094,
         "date_posted": 1709914094,
         "url": "https://boards.greenhouse.io/foursquare26/jobs/5795131",
@@ -8735,7 +8735,7 @@
         "company_name": "Coalition",
         "id": "82a61642-fddf-48b0-8ebc-e447826c6a2c",
         "title": "Software Engineer-Cyber Policies",
-        "active": true,
+        "active": false,
         "date_updated": 1709929427,
         "date_posted": 1709137760,
         "url": "https://careers.coalitioninc.com/job-posting/?gh_jid=4378803005",
@@ -8767,7 +8767,7 @@
         "company_name": "Arista Networks",
         "id": "56d308b0-8b09-4f81-acfc-33826c795b28",
         "title": "Electrical NPI Engineer \u2013 Entry Level",
-        "active": true,
+        "active": false,
         "date_updated": 1710218905,
         "date_posted": 1709943814,
         "url": "https://jobs.smartrecruiters.com/AristaNetworks/743999972813223",
@@ -8832,7 +8832,7 @@
         "company_name": "Relativity Space",
         "id": "4138ee01-a08c-4ee8-a10a-2596d9b515b8",
         "title": "Dynamic Environments Engineer II",
-        "active": true,
+        "active": false,
         "date_updated": 1710804373,
         "date_posted": 1710342627,
         "url": "https://boards.greenhouse.io/relativity/jobs/7281081002",
@@ -8912,7 +8912,7 @@
         "company_name": "Mediabrands",
         "id": "8331e7f2-3c20-4d10-bfff-be2086fe517a",
         "title": "Operations Associate - Entry-Level",
-        "active": true,
+        "active": false,
         "date_updated": 1710804336,
         "date_posted": 1710775010,
         "url": "https://boards.greenhouse.io/mediabrands/jobs/4267029007",
@@ -8928,7 +8928,7 @@
         "company_name": "Salesforce",
         "id": "0e3999fb-1a40-463c-858d-fc0903e62bc2",
         "title": "Software Engineering MTS \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1710833607,
         "date_posted": 1710833607,
         "url": "https://salesforce.wd12.myworkdayjobs.com/en-us/External_Career_Site/job/Washington---Bellevue/Software-Engineering-MTS--New-Grad-_JR244479-1",
@@ -8970,7 +8970,7 @@
         "company_name": "Yodlee",
         "id": "4494d99b-5b06-4bf2-9632-7f3191806b72",
         "title": "Client Service Associate - Tamarac Trading",
-        "active": true,
+        "active": false,
         "date_updated": 1710997209,
         "date_posted": 1710803850,
         "url": "https://jobs.jobvite.com/yodlee/job/oMIZrfwE?nl=1&nl=1&fr=false",
@@ -8987,7 +8987,7 @@
         "company_name": "Western Digital",
         "id": "746d3379-5b8e-4772-aef8-9c65c6582404",
         "title": "New College Grad Engineer - Software Engineer - Firmware Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1710803425,
         "date_posted": 1710803425,
         "url": "https://jobs.smartrecruiters.com/WesternDigital/743999974558895",
@@ -9019,7 +9019,7 @@
         "company_name": "Rockset",
         "id": "95d92001-1f0a-4b17-9676-8c40e293c7af",
         "title": "Product Solutions Engineer \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1710976761,
         "date_posted": 1710976761,
         "url": "https://jobs.lever.co/rockset/3ba737d8-8955-40a0-b61f-6520cf187151/apply",
@@ -9043,6 +9043,2114 @@
             "Raleigh, NC"
         ],
         "company_url": "https://simplify.jobs/c/IXL-Learning",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Tower Research Capital",
+        "id": "d9581aad-4ce7-4556-9a26-0320ad086767",
+        "title": "Quantitative Researcher/Data Scientist",
+        "active": true,
+        "date_updated": 1711471754,
+        "date_posted": 1711471754,
+        "url": "https://www.tower-research.com/open-positions/?gh_jid=5803153",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Tower-Research-Capital",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Strategic HR",
+        "id": "0b902692-1f23-4177-8502-0e1717779e9f",
+        "title": "Entry Level Automotive Technician",
+        "active": true,
+        "date_updated": 1711472679,
+        "date_posted": 1711472679,
+        "url": "https://careers.strategichrinc.com/job-application/?gh_jid=5932837003",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Strategic-HR",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Global Atlantic",
+        "id": "b3a7dade-9efa-40a0-acc4-d8352e3077d6",
+        "title": "Program Analyst I",
+        "active": true,
+        "date_updated": 1711409217,
+        "date_posted": 1711409217,
+        "url": "https://boards.greenhouse.io/gafg/jobs/5549837",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Global-Atlantic",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "CannonDesign",
+        "id": "aea8aa0b-4970-4a9a-9c94-c988947f4839",
+        "title": "Data Analyst & Visualizer \u2013 Entry Level",
+        "active": true,
+        "date_updated": 1711388382,
+        "date_posted": 1711388382,
+        "url": "http://www.cannondesign.com/careers/?gh_jid=7297276002",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cannon-Design",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Nutanix",
+        "id": "cd7132e2-31b0-409b-8a77-49fc8f7d7f4b",
+        "title": "Consulting Architect - AI/ML",
+        "active": true,
+        "date_updated": 1711498174,
+        "date_posted": 1711498174,
+        "url": "https://jobs.jobvite.com/nutanix/job/ozOvsfw4?nl=1&nl=1&fr=false",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Nutanix",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Immuta",
+        "id": "97dbcfd5-f617-4f75-896b-0f0bec7cd198",
+        "title": "Software Engineer - Application Support",
+        "active": true,
+        "date_updated": 1711475599,
+        "date_posted": 1711475599,
+        "url": "https://jobs.lever.co/immuta/62a9ce16-04cb-4dc2-b778-7d359a4e61a5/apply",
+        "locations": [
+            "Cambridge, MA",
+            "Hyattsville, MD",
+            "Columbus, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Immuta",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Sunshine",
+        "id": "d0415559-7794-40ae-be66-3977fce52104",
+        "title": "Software Engineer \u2013 New College Grad",
+        "active": true,
+        "date_updated": 1711496597,
+        "date_posted": 1711496597,
+        "url": "https://boards.greenhouse.io/sunshine/jobs/4041479005",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Sunshine",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Konrad Group",
+        "id": "9f0c27b3-7838-496b-98dd-1c378d453c50",
+        "title": "Software Developer \u2013 Entry Level",
+        "active": true,
+        "date_updated": 1711497070,
+        "date_posted": 1711497070,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=5919106003",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Konrad-Group",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "UiPath",
+        "id": "dbb08fc8-a5f9-4ad0-bf8b-90ca08db4db2",
+        "title": "Software Engineer II",
+        "active": true,
+        "date_updated": 1711380421,
+        "date_posted": 1711227481,
+        "url": "https://careers.uipath.com/jobs/8999?lang=en-us&icims=1",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/UiPath",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wade Trim",
+        "id": "7ed44f96-d9a6-491e-8b02-c1b0b28b8618",
+        "title": "Entry Level Civil/Environmental Engineer",
+        "active": true,
+        "date_updated": 1711140088,
+        "date_posted": 1711140088,
+        "url": "https://jobs.lever.co/wadetrim/79b5b8a6-cb37-4f0e-8334-975c47912ddd/apply",
+        "locations": [
+            "Omaha, NE"
+        ],
+        "company_url": "https://simplify.jobs/c/Wade-Trim",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "PFM",
+        "id": "68c1e927-e2b7-4d32-b3f6-cab8943e3a48",
+        "title": "Project Engineer - Testing Engineering",
+        "active": true,
+        "date_updated": 1711147871,
+        "date_posted": 1711147871,
+        "url": "https://boards.greenhouse.io/pfm/jobs/5095339004",
+        "locations": [
+            "Bethesda, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/PFM",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Project Farma",
+        "id": "a830e0c0-7754-4f50-9522-5208ead5a84f",
+        "title": "Project Engineer - Validation Engineering",
+        "active": true,
+        "date_updated": 1711141159,
+        "date_posted": 1711141159,
+        "url": "https://boards.greenhouse.io/projectfarma/jobs/5094645004",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/6b317bdd-6a58-40f9-b45c-d2c892c7c6ab",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Xylem",
+        "id": "f70c1dfe-54f7-4141-8db3-e60dedb11768",
+        "title": "Associate Application Engineer",
+        "active": true,
+        "date_updated": 1711138373,
+        "date_posted": 1711138373,
+        "url": "https://jobs.jobvite.com/xylem/job/oFDVnfwk?nl=1&nl=1&fr=false",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Xylem",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "PFM",
+        "id": "648a8890-8f3e-4f4d-8af3-3a777edf61fe",
+        "title": "Project Engineer - Process Engineering",
+        "active": true,
+        "date_updated": 1711137174,
+        "date_posted": 1711137174,
+        "url": "https://boards.greenhouse.io/pfm/jobs/5095175004",
+        "locations": [
+            "Alexandria, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/PFM",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "PFM",
+        "id": "fcb1257b-d0de-45df-91ad-6632ac3b0f5b",
+        "title": "Project Engineer - Technical Manufactuing Solutions",
+        "active": true,
+        "date_updated": 1711137174,
+        "date_posted": 1711137174,
+        "url": "https://boards.greenhouse.io/pfm/jobs/5095325004",
+        "locations": [
+            "Bethesda, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/PFM",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "PFM",
+        "id": "4439720c-7df2-4d79-b43a-96b253334248",
+        "title": "Project Engineer - Process Engineering",
+        "active": true,
+        "date_updated": 1711137174,
+        "date_posted": 1711137174,
+        "url": "https://boards.greenhouse.io/pfm/jobs/5094642004",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/PFM",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Project Farma",
+        "id": "b56aa62b-886e-4cc9-b056-8cedc87101f6",
+        "title": "Project Engineer - Process Engineering",
+        "active": true,
+        "date_updated": 1711111632,
+        "date_posted": 1711111632,
+        "url": "https://boards.greenhouse.io/projectfarma/jobs/5095173004",
+        "locations": [
+            "Alexandria, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/6b317bdd-6a58-40f9-b45c-d2c892c7c6ab",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Windfall",
+        "id": "31c3da06-d02c-42fe-9c38-99e799bcbec0",
+        "title": "Data Validation Associate",
+        "active": true,
+        "date_updated": 1711111519,
+        "date_posted": 1711111519,
+        "url": "https://jobs.lever.co/windfalldata/afde4372-9962-4ee8-8f45-40d893e0bf55/apply",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Windfall-Data",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Project Farma",
+        "id": "bcaf93a8-1d83-4d93-a2ee-e6a5613981c3",
+        "title": "Project Engineer - Validation Engineering",
+        "active": true,
+        "date_updated": 1711111634,
+        "date_posted": 1711111634,
+        "url": "https://boards.greenhouse.io/projectfarma/jobs/5094057004",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/6b317bdd-6a58-40f9-b45c-d2c892c7c6ab",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wade Trim",
+        "id": "ae7ca19d-4c34-40b9-83b1-14af045abafd",
+        "title": "Entry Level Planner-2300.04",
+        "active": true,
+        "date_updated": 1711107266,
+        "date_posted": 1711107266,
+        "url": "https://jobs.lever.co/wadetrim/9922a60e-3007-44bd-9e19-03263ecb8639/apply",
+        "locations": [
+            "Detroit, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Wade-Trim",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Project Farma",
+        "id": "2e79beff-25dc-42da-a30d-cb25c45a5c05",
+        "title": "Project Engineer - Process Engineering",
+        "active": true,
+        "date_updated": 1711107966,
+        "date_posted": 1711107966,
+        "url": "https://boards.greenhouse.io/projectfarma/jobs/5094640004",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/6b317bdd-6a58-40f9-b45c-d2c892c7c6ab",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Project Farma",
+        "id": "8f36f402-8749-4d29-bfe2-ca93616bf4ed",
+        "title": "Project Engineer - Validation Engineering",
+        "active": true,
+        "date_updated": 1711107972,
+        "date_posted": 1711107972,
+        "url": "https://boards.greenhouse.io/projectfarma/jobs/5094180004",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/6b317bdd-6a58-40f9-b45c-d2c892c7c6ab",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "PFM",
+        "id": "9d1343c4-2f71-424d-91d3-d7566f4ee5cb",
+        "title": "Project Engineer - Technical Manufactuing Solutions",
+        "active": true,
+        "date_updated": 1711109911,
+        "date_posted": 1711109911,
+        "url": "https://boards.greenhouse.io/pfm/jobs/5094638004",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/PFM",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "CaptiveAire Systems",
+        "id": "373660d8-686a-406a-b540-c9464fa66570",
+        "title": "Field Engineer",
+        "active": true,
+        "date_updated": 1711108158,
+        "date_posted": 1711108158,
+        "url": "https://www.captiveaire.com/Careers/Opening.asp?id=7263268002&gh_jid=7263268002",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/CaptiveAire-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "AMT Engineering",
+        "id": "76cda480-72a5-42d0-9100-b847c55b50c0",
+        "title": "Entry Level Water Resources Engineer",
+        "active": true,
+        "date_updated": 1711108897,
+        "date_posted": 1711108897,
+        "url": "https://jobs.lever.co/amtengineering/43a08161-4f8b-4ccf-afa9-958942ca90ac/apply",
+        "locations": [
+            "Towson, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/AMT-Engineering",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cboe",
+        "id": "b83574c3-77ab-455f-9b22-aec5939a9878",
+        "title": "Trade Desk Specialist - Flex Hybrid - Lenexa - KS or Chicago - IL - Must be willing to work 10:30am - 7:30pm CST",
+        "active": true,
+        "date_updated": 1711106087,
+        "date_posted": 1711106087,
+        "url": "https://cboe.wd1.myworkdayjobs.com/en-US/External_Career_CBOE/job/Lenexa-KS/Trade-Desk-Specialist---Flex-Hybrid--Lenexa--KS-or-Chicago--IL-_R-3328",
+        "locations": [
+            "Chicago, IL",
+            "Lenexa, KS",
+            "Kansas City, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/fa2ed4e2-5eff-4e73-b98b-f986842bc5f4",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Project Farma",
+        "id": "a7a81beb-d17e-4faa-a6be-8a42c21bf685",
+        "title": "Project Engineer - Testing Engineering",
+        "active": true,
+        "date_updated": 1711107970,
+        "date_posted": 1711107970,
+        "url": "https://boards.greenhouse.io/projectfarma/jobs/5095337004",
+        "locations": [
+            "Bethesda, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/6b317bdd-6a58-40f9-b45c-d2c892c7c6ab",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "PFM",
+        "id": "cd503f69-7df7-410c-934a-6ad4abd59d5b",
+        "title": "Project Engineer - Process Engineering",
+        "active": true,
+        "date_updated": 1711109915,
+        "date_posted": 1711109915,
+        "url": "https://boards.greenhouse.io/pfm/jobs/5094157004",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/PFM",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Relay Financial",
+        "id": "09434f10-e0ee-4b43-bd3c-b4d995a41fe6",
+        "title": "Engineering Manager - Application Security",
+        "active": true,
+        "date_updated": 1711134272,
+        "date_posted": 1711094594,
+        "url": "https://jobs.lever.co/relayfi/144c6289-da0d-4634-aa2e-0c567df2b2f0/apply",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Relay-Fi",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "AMT Engineering",
+        "id": "b5d28d0d-0437-4b7e-8a7b-bb617753da9d",
+        "title": "Entry Level Water Resources Engineer",
+        "active": true,
+        "date_updated": 1711102603,
+        "date_posted": 1711102603,
+        "url": "https://jobs.lever.co/amtengineering/f91da425-eb09-41d4-971e-ed2affea8b8d/apply",
+        "locations": [
+            "Richmond, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/AMT-Engineering",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "CaptiveAire Systems",
+        "id": "91c34ff6-3336-4df1-97b2-bb987b2ffa91",
+        "title": "Field Engineer",
+        "active": true,
+        "date_updated": 1711108162,
+        "date_posted": 1711108162,
+        "url": "https://www.captiveaire.com/Careers/Opening.asp?id=7263246002&gh_jid=7263246002",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/CaptiveAire-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Project Farma",
+        "id": "008cf549-cc90-4798-8ac1-29112e705a8a",
+        "title": "Project Engineer - Validation Engineering",
+        "active": true,
+        "date_updated": 1711100352,
+        "date_posted": 1711100352,
+        "url": "https://boards.greenhouse.io/projectfarma/jobs/5095346004",
+        "locations": [
+            "Alexandria, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/6b317bdd-6a58-40f9-b45c-d2c892c7c6ab",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "CaptiveAire Systems",
+        "id": "8509f42a-0425-4b87-81fe-b6a57a737ce8",
+        "title": "Field Engineer",
+        "active": true,
+        "date_updated": 1711100802,
+        "date_posted": 1711100802,
+        "url": "https://www.captiveaire.com/Careers/Opening.asp?id=7263216002&gh_jid=7263216002",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/CaptiveAire-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Project Farma",
+        "id": "6c9569e3-f38e-4132-a391-ffe5c3f61a81",
+        "title": "Project Engineer - Testing Engineering",
+        "active": true,
+        "date_updated": 1711100346,
+        "date_posted": 1711100346,
+        "url": "https://boards.greenhouse.io/projectfarma/jobs/5094236004",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/6b317bdd-6a58-40f9-b45c-d2c892c7c6ab",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Project Farma",
+        "id": "3cd3d1d4-4f22-4edf-a171-76ace6e5c86a",
+        "title": "Project Engineer - Testing Engineering",
+        "active": true,
+        "date_updated": 1711100349,
+        "date_posted": 1711100349,
+        "url": "https://boards.greenhouse.io/projectfarma/jobs/5095328004",
+        "locations": [
+            "Alexandria, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/6b317bdd-6a58-40f9-b45c-d2c892c7c6ab",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Skyways",
+        "id": "6b2f4341-992f-4fd2-9f5c-39f2cd3807d2",
+        "title": "GNC Engineer",
+        "active": true,
+        "date_updated": 1711104012,
+        "date_posted": 1711104012,
+        "url": "https://jobs.lever.co/skyways/48e0a9d5-1369-404f-ba77-9f89b5cf8ff7/apply",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Skyways",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wade Trim",
+        "id": "f8a9f589-b33c-452f-9c44-c92044f829ab",
+        "title": "Entry Level Planner-2301.13",
+        "active": true,
+        "date_updated": 1711098850,
+        "date_posted": 1711098850,
+        "url": "https://jobs.lever.co/wadetrim/dda805bb-1e2a-48d0-9bab-36b7330abae9/apply",
+        "locations": [
+            "Tampa, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Wade-Trim",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Project Farma",
+        "id": "8e4b6fd5-c183-442f-92cc-88bef8dd1617",
+        "title": "Project Engineer - Technical Manufactuing Solutions",
+        "active": true,
+        "date_updated": 1711100345,
+        "date_posted": 1711100345,
+        "url": "https://boards.greenhouse.io/projectfarma/jobs/5094636004",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/6b317bdd-6a58-40f9-b45c-d2c892c7c6ab",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cadence Design Systems",
+        "id": "b68cf7f9-2fa3-412e-a3e4-ec63429487d9",
+        "title": "Software Verification Engineer \u2013 New College Grad 2024",
+        "active": true,
+        "date_updated": 1711102532,
+        "date_posted": 1711102532,
+        "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/SAN-JOSE/Software-Verification-Engineer--New-College-Grad-2024-_R44306",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Project Farma",
+        "id": "9ee19de4-8b89-435a-bf81-53699a0213ff",
+        "title": "Project Engineer - Technical Manufactuing Solutions",
+        "active": true,
+        "date_updated": 1711100338,
+        "date_posted": 1711100338,
+        "url": "https://boards.greenhouse.io/projectfarma/jobs/5095321004",
+        "locations": [
+            "Bethesda, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/6b317bdd-6a58-40f9-b45c-d2c892c7c6ab",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "PFM",
+        "id": "e8ce2185-a91f-4f65-909c-df4ba294d635",
+        "title": "Project Engineer - Validation Engineering",
+        "active": true,
+        "date_updated": 1711104629,
+        "date_posted": 1711104629,
+        "url": "https://boards.greenhouse.io/pfm/jobs/5094647004",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/PFM",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "AffiniPay",
+        "id": "4a98416c-2ef8-4970-b45f-ad7bb6118d25",
+        "title": "Data Migration Specialist",
+        "active": true,
+        "date_updated": 1711099721,
+        "date_posted": 1711099721,
+        "url": "https://www.affinipay.com/job-descriptions/?gh_jid=4332843006",
+        "locations": [
+            "Austin, TX",
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/AffiniPay",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "AMT Engineering",
+        "id": "96d919f0-b935-484e-b2e7-687ffa40ce10",
+        "title": "Entry Level Water Resources Engineer",
+        "active": true,
+        "date_updated": 1711102594,
+        "date_posted": 1711102594,
+        "url": "https://jobs.lever.co/amtengineering/681b1682-6082-4522-9382-148d9f78631f/apply",
+        "locations": [
+            "North Bethesda, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/AMT-Engineering",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "CaptiveAire Systems",
+        "id": "e28ddd2f-f6cc-46f7-bbc4-334d428ffe14",
+        "title": "Field Engineer",
+        "active": true,
+        "date_updated": 1711100802,
+        "date_posted": 1711100802,
+        "url": "https://www.captiveaire.com/Careers/Opening.asp?id=7263330002&gh_jid=7263330002",
+        "locations": [
+            "Eagan, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/CaptiveAire-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Project Farma",
+        "id": "742dc8e3-baae-4b4c-960c-f1fb92b47cf7",
+        "title": "Project Engineer - Technical Manufactuing Solutions",
+        "active": true,
+        "date_updated": 1711100341,
+        "date_posted": 1711100341,
+        "url": "https://boards.greenhouse.io/projectfarma/jobs/5094108004",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/6b317bdd-6a58-40f9-b45c-d2c892c7c6ab",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Project Farma",
+        "id": "55771222-dbc7-4a4e-8ff1-6e87e1e5b2f1",
+        "title": "Project Engineer - Process Engineering",
+        "active": true,
+        "date_updated": 1711100337,
+        "date_posted": 1711100337,
+        "url": "https://boards.greenhouse.io/projectfarma/jobs/5094153004",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/6b317bdd-6a58-40f9-b45c-d2c892c7c6ab",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "PFM",
+        "id": "fecbdc10-3db6-4cdb-a07e-aa953ca9d82b",
+        "title": "Project Engineer - Validation Engineering",
+        "active": true,
+        "date_updated": 1711104628,
+        "date_posted": 1711104628,
+        "url": "https://boards.greenhouse.io/pfm/jobs/5094060004",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/PFM",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Applied Materials",
+        "id": "5f553e59-1f83-4626-a5c1-9ab6ccd1db5d",
+        "title": "Global Product Support - Gps - Engineer II",
+        "active": true,
+        "date_updated": 1711102624,
+        "date_posted": 1711102624,
+        "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/HillsboroOR/Global-Product-Support--GPS--Engineer-II_R2410794",
+        "locations": [
+            "Hillsboro, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/d9a164c2-2f82-4ddc-9351-708bb0a4a8b2",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Project Farma",
+        "id": "4e662e96-251d-4e87-ab88-7a12037ac435",
+        "title": "Project Engineer - Technical Manufactuing Solutions",
+        "active": true,
+        "date_updated": 1711100341,
+        "date_posted": 1711100341,
+        "url": "https://boards.greenhouse.io/projectfarma/jobs/5095314004",
+        "locations": [
+            "Alexandria, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/6b317bdd-6a58-40f9-b45c-d2c892c7c6ab",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "AMT Engineering",
+        "id": "3e87a457-781e-41b7-83a1-a771646851aa",
+        "title": "Entry Level Water Resources Engineer",
+        "active": true,
+        "date_updated": 1711102619,
+        "date_posted": 1711102619,
+        "url": "https://jobs.lever.co/amtengineering/efc1ebce-2490-4747-a586-5d8260ed8616/apply",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/AMT-Engineering",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Project Farma",
+        "id": "14eb6d39-281b-4e0d-b900-9b4378ac76b1",
+        "title": "Project Engineer - Technical Manufactuing Solutions",
+        "active": true,
+        "date_updated": 1711100335,
+        "date_posted": 1711100335,
+        "url": "https://boards.greenhouse.io/projectfarma/jobs/5095103004",
+        "locations": [
+            "Newark, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/6b317bdd-6a58-40f9-b45c-d2c892c7c6ab",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Project Farma",
+        "id": "ed33ec0a-aa39-4323-a7b2-80827aafe0cd",
+        "title": "Project Engineer - Technical Manufactuing Solutions",
+        "active": true,
+        "date_updated": 1711100336,
+        "date_posted": 1711100336,
+        "url": "https://boards.greenhouse.io/projectfarma/jobs/5094772004",
+        "locations": [
+            "Princeton, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/6b317bdd-6a58-40f9-b45c-d2c892c7c6ab",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Project Farma",
+        "id": "951d2d68-ec8b-411a-9240-4a9cf25fe0ec",
+        "title": "Project Engineer - Process Engineering",
+        "active": true,
+        "date_updated": 1711100331,
+        "date_posted": 1711100331,
+        "url": "https://boards.greenhouse.io/projectfarma/jobs/5095177004",
+        "locations": [
+            "Bethesda, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/6b317bdd-6a58-40f9-b45c-d2c892c7c6ab",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "PFM",
+        "id": "b038dca2-3663-4997-9c63-f815586fb709",
+        "title": "Project Engineer - Technical Manufactuing Solutions",
+        "active": true,
+        "date_updated": 1711104628,
+        "date_posted": 1711104628,
+        "url": "https://boards.greenhouse.io/pfm/jobs/5095320004",
+        "locations": [
+            "Alexandria, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/PFM",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "PFM",
+        "id": "c41f1073-1a72-4500-bc8b-fd48faf4cac7",
+        "title": "Project Engineer - Technical Manufactuing Solutions",
+        "active": true,
+        "date_updated": 1711104625,
+        "date_posted": 1711104625,
+        "url": "https://boards.greenhouse.io/pfm/jobs/5094111004",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/PFM",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Project Farma",
+        "id": "b0dc209f-d1fb-4efb-a49a-48d353f27f86",
+        "title": "Project Engineer - Validation Engineering",
+        "active": true,
+        "date_updated": 1711100355,
+        "date_posted": 1711100355,
+        "url": "https://boards.greenhouse.io/projectfarma/jobs/5095358004",
+        "locations": [
+            "Bethesda, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/6b317bdd-6a58-40f9-b45c-d2c892c7c6ab",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "PFM",
+        "id": "ede02143-55ad-444f-be68-2947894f904d",
+        "title": "Project Engineer - Process Engineering",
+        "active": true,
+        "date_updated": 1711104620,
+        "date_posted": 1711104620,
+        "url": "https://boards.greenhouse.io/pfm/jobs/5095179004",
+        "locations": [
+            "Bethesda, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/PFM",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Project Farma",
+        "id": "ade00d4e-9208-47e3-8c7e-837cb2921b68",
+        "title": "Project Engineer - Testing Engineering",
+        "active": true,
+        "date_updated": 1711100347,
+        "date_posted": 1711100347,
+        "url": "https://boards.greenhouse.io/projectfarma/jobs/5094666004",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/6b317bdd-6a58-40f9-b45c-d2c892c7c6ab",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "PFM",
+        "id": "922e7e24-9fd3-421a-8798-2708c7e22cff",
+        "title": "Project Engineer - Validation Engineering",
+        "active": true,
+        "date_updated": 1711093323,
+        "date_posted": 1711093323,
+        "url": "https://boards.greenhouse.io/pfm/jobs/5095350004",
+        "locations": [
+            "Alexandria, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/PFM",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "PFM",
+        "id": "2bdd40c0-8b73-4bac-a855-fa6fa9038af0",
+        "title": "Project Engineer - Validation Engineering",
+        "active": true,
+        "date_updated": 1711093318,
+        "date_posted": 1711093318,
+        "url": "https://boards.greenhouse.io/pfm/jobs/5094189004",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/PFM",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "PFM",
+        "id": "a407eb98-e80a-4b11-8a16-4b3ba62a3258",
+        "title": "Project Engineer - Validation Engineering",
+        "active": true,
+        "date_updated": 1711093318,
+        "date_posted": 1711093318,
+        "url": "https://boards.greenhouse.io/pfm/jobs/5095364004",
+        "locations": [
+            "Bethesda, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/PFM",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Helion Energy",
+        "id": "79e3d272-e62a-45e4-8773-232647d53448",
+        "title": "Experimental Scientist - Plasmas",
+        "active": true,
+        "date_updated": 1711098004,
+        "date_posted": 1711098004,
+        "url": "https://boards.greenhouse.io/helionenergy/jobs/4224344005",
+        "locations": [
+            "Everett, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Helion-Energy",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "PFM",
+        "id": "e0bb9318-4686-4219-b4c2-e5ecb26129f4",
+        "title": "Project Engineer - Technical Manufactuing Solutions",
+        "active": true,
+        "date_updated": 1711093315,
+        "date_posted": 1711093315,
+        "url": "https://boards.greenhouse.io/pfm/jobs/5095106004",
+        "locations": [
+            "Newark, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/PFM",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "PFM",
+        "id": "607f17f8-44f1-4d06-8274-893e2c399c83",
+        "title": "Project Engineer - Testing Engineering",
+        "active": true,
+        "date_updated": 1711093316,
+        "date_posted": 1711093316,
+        "url": "https://boards.greenhouse.io/pfm/jobs/5094241004",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/PFM",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "PFM",
+        "id": "930e21da-71cd-4a7b-8d09-4511b99d0e55",
+        "title": "Project Engineer - Testing Engineering",
+        "active": true,
+        "date_updated": 1711093314,
+        "date_posted": 1711093314,
+        "url": "https://boards.greenhouse.io/pfm/jobs/5094671004",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/PFM",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "PFM",
+        "id": "783079c2-c96d-40a6-9062-cf74f3cb11a3",
+        "title": "Project Engineer - Testing Engineering",
+        "active": true,
+        "date_updated": 1711093314,
+        "date_posted": 1711093314,
+        "url": "https://boards.greenhouse.io/pfm/jobs/5095331004",
+        "locations": [
+            "Alexandria, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/PFM",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "PFM",
+        "id": "d6c17f11-8bbf-4149-98b7-70f3ddcfd37d",
+        "title": "Project Engineer - Technical Manufactuing Solutions",
+        "active": true,
+        "date_updated": 1711093313,
+        "date_posted": 1711093313,
+        "url": "https://boards.greenhouse.io/pfm/jobs/5094775004",
+        "locations": [
+            "Princeton, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/PFM",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wade Trim",
+        "id": "91a893b2-4358-4f05-9252-ca2202811480",
+        "title": "Entry Level Planner-2300.06",
+        "active": true,
+        "date_updated": 1711098869,
+        "date_posted": 1711098869,
+        "url": "https://jobs.lever.co/wadetrim/38911e73-b667-4971-af61-bd16cdc4f69e/apply",
+        "locations": [
+            "Detroit, MI",
+            "Flint, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Wade-Trim",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "SunPower Corporation",
+        "id": "86006325-30b7-4d0e-bfba-7cc73f566721",
+        "title": "Service Technician",
+        "active": true,
+        "date_updated": 1710920270,
+        "date_posted": 1710920270,
+        "url": "https://jobs.lever.co/sunpower/5c05ad74-da46-44d9-8ccf-fbedaf77ec2e/apply",
+        "locations": [
+            "Cranbury, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/SunPower-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Qrypt",
+        "id": "04c7c824-bdef-455a-81a3-46c3edec0948",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1710371840,
+        "date_posted": 1710371840,
+        "url": "https://jobs.lever.co/qrypt/45149450-7f83-404a-9bb8-0f5b2f0ac4cd/apply",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Qrypt",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Lincoln International",
+        "id": "af9aad68-90e3-4a5f-b9a8-c0336547ebae",
+        "title": "Multimedia Technician",
+        "active": true,
+        "date_updated": 1710286440,
+        "date_posted": 1710286440,
+        "url": "http://www.lincolninternational.com/greenhouse/?gh_jid=5028241",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/LincolnInternational",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "SEAKR Engineering",
+        "id": "7ef65538-bdc9-4754-8065-3b1a21b49674",
+        "title": "Embedded Software Engineer I/II",
+        "active": true,
+        "date_updated": 1710286246,
+        "date_posted": 1710286246,
+        "url": "https://jobs.smartrecruiters.com/SEAKREngineering/743999973395540",
+        "locations": [
+            "Cherry Hills Village, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/SEAKR-Engineering",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NVIDIA",
+        "id": "1b4294d3-5554-4acd-b433-cdcbe0c8a133",
+        "title": "Soc ASIC Verification Engineer \u2013 New College Grad 2024",
+        "active": true,
+        "date_updated": 1710284981,
+        "date_posted": 1710284981,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/SoC-ASIC-Verification-Engineer---New-College-Grad_JR1967150",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Western Digital",
+        "id": "ac5dd4d0-4135-409d-a935-2d153a0b971a",
+        "title": "New College Grad Engineer - X-Ray Equipment Engineering",
+        "active": true,
+        "date_updated": 1711468448,
+        "date_posted": 1711468448,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/743999964878378",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Digital",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Aloft",
+        "id": "423ac235-6c3d-4e1a-98cb-5336d78dc601",
+        "title": "Certified Residential Appraiser - Jacksonville",
+        "active": true,
+        "date_updated": 1710227353,
+        "date_posted": 1710227353,
+        "url": "https://www.aloftappraisal.com/careers/job-openings?gh_jid=4566624004",
+        "locations": [
+            "Jacksonville, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Aloft",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Credigy Solutions Inc",
+        "id": "95c33041-934e-4038-b1e4-8b400af57de8",
+        "title": "Analyst \u2013 Asset Management",
+        "active": true,
+        "date_updated": 1710029760,
+        "date_posted": 1710029760,
+        "url": "https://boards.greenhouse.io/credigysolutionsinc/jobs/4388489005",
+        "locations": [
+            "Norcross, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/bf11cace-7354-4199-bd9c-26fba3e49a07",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "ConnectWise",
+        "id": "5db84db8-24d4-4848-a828-9e62dbfabc40",
+        "title": "Security Platform Specialist",
+        "active": true,
+        "date_updated": 1709828879,
+        "date_posted": 1709828879,
+        "url": "https://boards.greenhouse.io/connectwise/jobs/4383342005",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/ConnectWise",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Formlabs",
+        "id": "17febbb7-e958-4eaa-959c-c0866d9b1cff",
+        "title": "Inside Sales Specialist \u2013 May 2024 Grads",
+        "active": true,
+        "date_updated": 1709777722,
+        "date_posted": 1709777722,
+        "url": "https://careers.formlabs.com/job/5786331/apply/?gh_jid=5786331",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Formlabs",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Stavvy",
+        "id": "08b42583-b760-4f1c-9f57-5164b98a31af",
+        "title": "Business Analyst - Mortgage Industry Experience",
+        "active": true,
+        "date_updated": 1709774643,
+        "date_posted": 1709774643,
+        "url": "https://jobs.lever.co/stavvy/52cc0ee8-ac02-4435-a09d-5811b431f8aa/apply",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Stavvy",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Geotab",
+        "id": "91897955-1ec1-444d-9c20-7afde42d0d5e",
+        "title": "Embedded Support Engineering",
+        "active": true,
+        "date_updated": 1710270807,
+        "date_posted": 1709684379,
+        "url": "https://jobs.lever.co/geotab/5b184f8a-c25c-4c46-8700-2de0ed536a3f/apply",
+        "locations": [
+            "Kitchener, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Geotab",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Palantir",
+        "id": "5a90e96b-dd47-4acd-8f68-50118067062a",
+        "title": "Web Application Developer - Defense",
+        "active": true,
+        "date_updated": 1710897872,
+        "date_posted": 1709684332,
+        "url": "https://jobs.lever.co/palantir/96e4295f-3af7-48e5-a2c8-74622eaf5587/apply",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Palantir",
+        "id": "d13e701b-22f5-4cd2-8dc8-e71aa406658d",
+        "title": "Web Application Developer - Defense",
+        "active": true,
+        "date_updated": 1710897920,
+        "date_posted": 1709684332,
+        "url": "https://jobs.lever.co/palantir/6a82fd06-5754-46c2-8214-9ca4cd89fb9d/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Samsung Austin Semiconductor",
+        "id": "84429462-6097-4079-96a3-a9f5195fea9f",
+        "title": "Financial Analyst",
+        "active": true,
+        "date_updated": 1710771911,
+        "date_posted": 1709568686,
+        "url": "https://boards.greenhouse.io/samsungaustinsemiconductor/jobs/4383768005",
+        "locations": [
+            "Austin, TX",
+            "Pflugerville, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/84672ed5-e406-4fa5-b852-ca62fe8dc66b",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Western Digital",
+        "id": "d796cd1a-2e91-475c-a551-cfc80ff732f8",
+        "title": "New College Grad Engineer - R&D Engineering",
+        "active": true,
+        "date_updated": 1709338187,
+        "date_posted": 1709338187,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/743999971208068",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Digital",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Bubble",
+        "id": "b580cc6a-0682-411a-873b-b27653f47e09",
+        "title": "Technical Product Support Specialist \u2013 New Grad 2024",
+        "active": true,
+        "date_updated": 1709078873,
+        "date_posted": 1709078873,
+        "url": "https://boards.greenhouse.io/bubble/jobs/7261805002",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Bubble",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "SEAKR Engineering",
+        "id": "e0b69492-1734-416a-9a65-88907108c820",
+        "title": "Configuration and Data Administrator",
+        "active": true,
+        "date_updated": 1708993808,
+        "date_posted": 1708993808,
+        "url": "https://jobs.smartrecruiters.com/SEAKREngineering/743999970012956",
+        "locations": [
+            "Cherry Hills Village, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/SEAKR-Engineering",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Benesch",
+        "id": "b86875ed-40c0-4035-a8dc-24b048ec5e84",
+        "title": "Entry-Level Opportunities - Connecticut",
+        "active": true,
+        "date_updated": 1710876151,
+        "date_posted": 1708762429,
+        "url": "https://www.benesch.com/job-openings/4266210007?gh_jid=4266210007",
+        "locations": [
+            "Glastonbury, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/Benesch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "XTX Markets",
+        "id": "74a93d08-0f57-4063-86f3-5d5bafb7e26d",
+        "title": "Trading Analyst - New York",
+        "active": true,
+        "date_updated": 1708618637,
+        "date_posted": 1708618637,
+        "url": "https://boards.greenhouse.io/xtxmarketstechnologies/jobs/5899235003",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/XTXMarkets",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "CaptiveAire Systems",
+        "id": "ee379509-7f87-4f1d-88c5-3c73a6220d67",
+        "title": "Industrial Engineer",
+        "active": true,
+        "date_updated": 1708474773,
+        "date_posted": 1708474773,
+        "url": "https://www.captiveaire.com/Careers/Opening.asp?id=7252369002&gh_jid=7252369002",
+        "locations": [
+            "Waterloo, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/CaptiveAire-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Yodlee",
+        "id": "b0711341-b345-4e4c-874c-79b1fb17ed61",
+        "title": "Client Service Associate - Tamarac Reporting",
+        "active": true,
+        "date_updated": 1708733190,
+        "date_posted": 1708474103,
+        "url": "https://jobs.jobvite.com/yodlee/job/oAtErfwS?nl=1&nl=1&fr=false",
+        "locations": [
+            "Remote in USA",
+            "Raleigh, NC",
+            "Berwyn, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Yodlee",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Datavant",
+        "id": "b2f9715e-1a27-44b4-8d27-25dd5332a732",
+        "title": "Data Engineer",
+        "active": true,
+        "date_updated": 1708042512,
+        "date_posted": 1708042512,
+        "url": "https://boards.greenhouse.io/datavant/jobs/6987592002",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Datavant",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Ultima Genomics",
+        "id": "b79c0a44-d0cf-4acb-a0ee-5978481d0327",
+        "title": "Product Engineer I",
+        "active": true,
+        "date_updated": 1707956045,
+        "date_posted": 1707956045,
+        "url": "https://boards.greenhouse.io/ultimagenomics/jobs/5066388004",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/UltimaGenomics",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "SIRUM",
+        "id": "98ae5bb0-351f-4a7a-8c72-f16238501e31",
+        "title": "Community Impact Fellow - Platform Team",
+        "active": true,
+        "date_updated": 1710788883,
+        "date_posted": 1707333272,
+        "url": "https://boards.greenhouse.io/sirum/jobs/5880375003",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/SIRUM",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Palantir",
+        "id": "02685730-ce50-409c-9f58-87b5b51af6fb",
+        "title": "Quality Compliance Manager",
+        "active": true,
+        "date_updated": 1708096191,
+        "date_posted": 1707332966,
+        "url": "https://jobs.lever.co/palantir/b8744016-c0ae-4b63-89fc-d653c46845e1/apply",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Rockset",
+        "id": "fe1fe8d1-744c-487a-b39a-ecdab0123ea9",
+        "title": "Technical Product Marketing Manager",
+        "active": true,
+        "date_updated": 1710876754,
+        "date_posted": 1707332194,
+        "url": "https://jobs.lever.co/rockset/92ec1efe-8f5b-4628-8170-21d891a40281/apply",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Rockset",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Anduril",
+        "id": "3cc5d4cf-76be-45ef-8744-dee7d11d7b44",
+        "title": "Test Engineer",
+        "active": true,
+        "date_updated": 1710963305,
+        "date_posted": 1707150340,
+        "url": "https://boards.greenhouse.io/andurilindustries/jobs/4198788007",
+        "locations": [
+            "Gulfport, MS"
+        ],
+        "company_url": "https://simplify.jobs/c/Anduril",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Rhombus Power",
+        "id": "cfbe3134-f18c-49c9-988e-0596587a7c0b",
+        "title": "Business Development Analyst",
+        "active": true,
+        "date_updated": 1709605193,
+        "date_posted": 1706660574,
+        "url": "https://boards.greenhouse.io/rhombuspower/jobs/5250240003",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Rhombus-Power",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Benesch",
+        "id": "71954b7e-95c6-4eb8-8c09-e28ceb64c3fb",
+        "title": "Entry-Level Civil/Structural Designer Opportunities - Georgia",
+        "active": true,
+        "date_updated": 1710876348,
+        "date_posted": 1706055853,
+        "url": "https://www.benesch.com/job-openings/4219814007?gh_jid=4219814007",
+        "locations": [
+            "Augusta, GA",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Benesch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NVIDIA",
+        "id": "3dc106f0-e2b8-4cdc-b227-00a2db181879",
+        "title": "CAD Engineer \u2013 New College Grad 2024",
+        "active": true,
+        "date_updated": 1709864091,
+        "date_posted": 1705968515,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/CAD-Engineer---New-College-Grad-2024_JR1978766",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "2K",
+        "id": "22e577ec-f285-4059-8021-e0ee2b533c78",
+        "title": "QA Localization Tester - Italian",
+        "active": true,
+        "date_updated": 1705716400,
+        "date_posted": 1705622950,
+        "url": "https://boards.greenhouse.io/2k/jobs/5863875003",
+        "locations": [
+            "Las Vegas, NV"
+        ],
+        "company_url": "https://simplify.jobs/c/2k",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NVIDIA",
+        "id": "47d1d508-69ee-4cdd-90d0-d83014fff7ab",
+        "title": "ASIC Design Efficiency Engineer \u2013 New College Grad 2024",
+        "active": true,
+        "date_updated": 1709864493,
+        "date_posted": 1705622779,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/ASIC-Design-Efficiency-Engineer---New-College-Grad-2024_JR1978195",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Samsara",
+        "id": "c853d57e-0e7c-43ae-9d05-8756efc70605",
+        "title": "Hardware Product Manager \u2013 New Grad",
+        "active": true,
+        "date_updated": 1711497990,
+        "date_posted": 1704413695,
+        "url": "https://boards.greenhouse.io/samsara/jobs/5600969",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Samsara",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "EasyPost",
+        "id": "15363c1b-c612-449d-8258-dd76f98c0c54",
+        "title": "Associate IT Helpdesk Technician",
+        "active": true,
+        "date_updated": 1703794128,
+        "date_posted": 1703780161,
+        "url": "https://jobs.lever.co/easypost-2/6d511f73-ec72-42f2-9239-7f7310eba06a/apply",
+        "locations": [
+            "Hanover, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/EasyPost",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "SMX",
+        "id": "e492f13b-5407-41fb-bf54-bbb32d9a5220",
+        "title": "SMX-Skillbridge Fellowship Program - Sfp",
+        "active": true,
+        "date_updated": 1711396657,
+        "date_posted": 1702889228,
+        "url": "https://www.smxtech.com/careers/?gh_jid=4955604003",
+        "locations": [
+            "Tampa, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Smx",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "CaptiveAire Systems",
+        "id": "b19a267a-cb1d-42de-a00c-6ee313e03f84",
+        "title": "Technical Sales and Field Service Engineer",
+        "active": true,
+        "date_updated": 1708632545,
+        "date_posted": 1702888195,
+        "url": "https://www.captiveaire.com/Careers/Opening.asp?id=7021993002&gh_jid=7021993002",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/CaptiveAire-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "GuidePoint Security",
+        "id": "6df207b2-3827-4760-900a-a01c0947962c",
+        "title": "GPSU Military and Spouses - Commercial Fellowship",
+        "active": true,
+        "date_updated": 1705479465,
+        "date_posted": 1702489868,
+        "url": "https://boards.greenhouse.io/guidepointsecurity/jobs/5037833004",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/GuidePoint-Security",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "LPA Design Studios",
+        "id": "b473b3fb-299c-4908-aa98-acfbff390850",
+        "title": "Entry Level Mechanical Designer",
+        "active": true,
+        "date_updated": 1701821576,
+        "date_posted": 1701821576,
+        "url": "https://jobs.lever.co/lpainc/8cd05ea0-e4c9-4a7a-bc06-07f3796c2443/apply",
+        "locations": [
+            "Irvine, CA",
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/LPA-Design-Studios",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Veeva Systems",
+        "id": "53469800-5901-4700-aeb6-f6673b0a6f68",
+        "title": "Associate Devops Engineer \u2013 Seeking 2024 Grads",
+        "active": true,
+        "date_updated": 1701476228,
+        "date_posted": 1701476228,
+        "url": "https://jobs.lever.co/veeva/c5802035-2150-410a-8d20-b565758fee88/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Veeva-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Constellation Technologies",
+        "id": "15f94f81-1d23-4cfd-9c2e-5dc2733a0adb",
+        "title": "Information Systems Security Engineer - Isse - Level 2",
+        "active": true,
+        "date_updated": 1711265088,
+        "date_posted": 1701357332,
+        "url": "https://jobs.lever.co/cti-md/ec22e52d-6d17-4217-bd93-d60a4ac7fa3f/apply",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Constellation-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "CaptiveAire Systems",
+        "id": "e80988eb-c865-4163-bd44-d15fc4bfe68b",
+        "title": "Fire Systems/ Ecommerce Sales Engineer",
+        "active": true,
+        "date_updated": 1708632829,
+        "date_posted": 1701352100,
+        "url": "https://www.captiveaire.com/Careers/Opening.asp?id=7021737002&gh_jid=7021737002",
+        "locations": [
+            "St. George, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/CaptiveAire-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "CaptiveAire Systems",
+        "id": "088b95f3-c6f3-4b63-be0d-f07b866a60af",
+        "title": "Technical Inside Sales",
+        "active": true,
+        "date_updated": 1708632988,
+        "date_posted": 1701352147,
+        "url": "https://www.captiveaire.com/Careers/Opening.asp?id=7021899002&gh_jid=7021899002",
+        "locations": [
+            "St. George, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/CaptiveAire-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "CaptiveAire Systems",
+        "id": "4bed5a38-23d4-437c-990a-02edd860b7f5",
+        "title": "Fire Systems/ Ecommerce Sales Engineer",
+        "active": true,
+        "date_updated": 1708632855,
+        "date_posted": 1701352099,
+        "url": "https://www.captiveaire.com/Careers/Opening.asp?id=7021685002&gh_jid=7021685002",
+        "locations": [
+            "Lancaster, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/CaptiveAire-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "ION Group",
+        "id": "8fc7ad68-6e23-47ee-b549-b3dee77f1f7a",
+        "title": "Technical Support Analyst",
+        "active": true,
+        "date_updated": 1701346080,
+        "date_posted": 1697816111,
+        "url": "https://jobs.lever.co/ion/afbd8447-1de7-4f94-981d-fef78ea53f3e/apply",
+        "locations": [
+            "Woking, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/ION-Group",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wade Trim",
+        "id": "7f84573f-a813-493e-938b-764fed8499ff",
+        "title": "Entry Level CAD Technician",
+        "active": true,
+        "date_updated": 1703240772,
+        "date_posted": 1697671927,
+        "url": "https://jobs.lever.co/wadetrim/5512db42-25ae-4046-9031-1f90186b39e8/apply",
+        "locations": [
+            "Grand Rapids, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Wade-Trim",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Orion Innovation",
+        "id": "f27f8752-5789-463e-b813-dc5cf2fe56ea",
+        "title": "Programmer Analyst - IAC23176",
+        "active": true,
+        "date_updated": 1695251964,
+        "date_posted": 1695251964,
+        "url": "https://www.orioninc.com/careers/job/?gh_jid=4282235006",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/OrionInnovation",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Veeva Systems",
+        "id": "310c5572-434b-431e-9ea1-9b642a2dfeb1",
+        "title": "Sales Development Program - UK",
+        "active": true,
+        "date_updated": 1710292672,
+        "date_posted": 1694560273,
+        "url": "https://jobs.lever.co/veeva/eac57426-9ece-4b03-b8fe-cf174e129b9a/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Veeva-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Sunnova Energy",
+        "id": "362799a4-6206-4530-aee1-63eed82c8720",
+        "title": "Regional Energy Advisor-Retail - El Paso - TX",
+        "active": true,
+        "date_updated": 1708740529,
+        "date_posted": 1694532809,
+        "url": "https://jobs.lever.co/sunnova/8b715795-582b-48c3-8667-7bf67bd88634/apply",
+        "locations": [
+            "El Paso, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Sunnova-Energy",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wade Trim",
+        "id": "e3226e9b-5064-49ca-8ad4-37171bcaf005",
+        "title": "Entry Level Civil/Environmental Engineer",
+        "active": true,
+        "date_updated": 1694474813,
+        "date_posted": 1694474813,
+        "url": "https://jobs.lever.co/wadetrim/68fc8831-c8f1-47ae-b61b-afa87f4993ec/apply",
+        "locations": [
+            "Detroit, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Wade-Trim",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Veeva Systems",
+        "id": "d61de3d6-13c6-41a1-be16-5e22a8f8dc84",
+        "title": "Associate Consultant",
+        "active": true,
+        "date_updated": 1709345497,
+        "date_posted": 1692140870,
+        "url": "https://jobs.lever.co/veeva/1584186a-ba9d-4827-9ecb-e7caec98d966/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Veeva-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Beta Technologies",
+        "id": "d5577042-93ea-498f-8476-cc8b9e39359e",
+        "title": "Test Equipment Software Engineer - Airborne Software",
+        "active": true,
+        "date_updated": 1710443445,
+        "date_posted": 1691540098,
+        "url": "https://jobs.lever.co/beta/efaee0b0-fa98-4780-b72d-ff25a75ddb67/apply",
+        "locations": [
+            "Burlington, VT"
+        ],
+        "company_url": "https://simplify.jobs/c/Beta-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Beta Technologies",
+        "id": "4ba19e47-ef4b-4724-a319-e0a18d22fa81",
+        "title": "Test Equipment Software Engineer - Airborne Software",
+        "active": true,
+        "date_updated": 1710443381,
+        "date_posted": 1691540098,
+        "url": "https://jobs.lever.co/beta/7f908454-be9c-48da-8267-a3ddee7a5c07/apply",
+        "locations": [
+            "Raleigh, NC",
+            "Burlington, VT"
+        ],
+        "company_url": "https://simplify.jobs/c/Beta-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Beta Technologies",
+        "id": "57ffc614-8b5b-4761-923b-4656c9906f41",
+        "title": "Embedded Software Engineer - Airborne Software",
+        "active": true,
+        "date_updated": 1710443685,
+        "date_posted": 1691540087,
+        "url": "https://jobs.lever.co/beta/8902aa4a-1c41-4186-ac26-0e9ed2d8506a/apply",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Beta-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wade Trim",
+        "id": "68eaab84-6fbb-4e51-aac3-67f7fafe8976",
+        "title": "Entry Level Civil/Environmental Engineer",
+        "active": true,
+        "date_updated": 1691219888,
+        "date_posted": 1691219888,
+        "url": "https://jobs.lever.co/wadetrim/18af6e07-0670-4769-a7c1-bc371e1d75e9/apply",
+        "locations": [
+            "Omaha, NE"
+        ],
+        "company_url": "https://simplify.jobs/c/Wade-Trim",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wade Trim",
+        "id": "a790a5bd-e7ca-4b35-84b9-aeca5398f21f",
+        "title": "Entry Level Structural Engineer",
+        "active": true,
+        "date_updated": 1691219670,
+        "date_posted": 1691219670,
+        "url": "https://jobs.lever.co/wadetrim/a5a36081-4d92-45c9-9245-aa6743b8fec7/apply",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Wade-Trim",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wade Trim",
+        "id": "09ec23ea-5501-481d-b4d7-d68421f01d94",
+        "title": "Entry Level Structural Engineer",
+        "active": true,
+        "date_updated": 1691219669,
+        "date_posted": 1691219669,
+        "url": "https://jobs.lever.co/wadetrim/9b5fc076-72a4-46c2-9fad-b017aa13382e/apply",
+        "locations": [
+            "Tampa, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Wade-Trim",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Sunnova Energy",
+        "id": "c7a64271-487d-4960-9573-b07ee9d6b9e3",
+        "title": "Regional Energy Advisor-Retail - Austin",
+        "active": true,
+        "date_updated": 1708740396,
+        "date_posted": 1691219839,
+        "url": "https://jobs.lever.co/sunnova/2e91d91f-c875-4e94-b88d-d16ebfff6708/apply",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Sunnova-Energy",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wade Trim",
+        "id": "6a5bd4eb-de31-4566-baad-46b73adc0b7b",
+        "title": "Entry Level Structural Engineer",
+        "active": true,
+        "date_updated": 1691219671,
+        "date_posted": 1691219671,
+        "url": "https://jobs.lever.co/wadetrim/a83dc870-ec22-45dc-88c7-bb4932c7d6ca/apply",
+        "locations": [
+            "Cleveland, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Wade-Trim",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wade Trim",
+        "id": "d2b6d44a-c3ab-4290-9e95-f7de06233e4f",
+        "title": "Entry Level Structural Engineer",
+        "active": true,
+        "date_updated": 1691219672,
+        "date_posted": 1691219672,
+        "url": "https://jobs.lever.co/wadetrim/2b19612b-04be-4e5c-a584-dcc96feb18b8/apply",
+        "locations": [
+            "Detroit, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Wade-Trim",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Sunnova Energy",
+        "id": "0410de20-04b1-4980-9a55-402d43d6bc47",
+        "title": "Regional Energy Advisor-Retail - Dallas",
+        "active": true,
+        "date_updated": 1708740977,
+        "date_posted": 1691219846,
+        "url": "https://jobs.lever.co/sunnova/2f1622ca-59b3-4f87-bf74-ee43974d08ff/apply",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Sunnova-Energy",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Jane Street",
+        "id": "e98f8db0-254f-402d-b815-6fc3c321027c",
+        "title": "Cybersecurity Analyst",
+        "active": true,
+        "date_updated": 1691105310,
+        "date_posted": 1691105310,
+        "url": "https://boards.greenhouse.io/janestreet/jobs/6855960002",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Jane-Street",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Arsiem Corporation",
+        "id": "5765157d-e801-40cb-884d-02c9e9a0b24d",
+        "title": "Software Engineer 0",
+        "active": true,
+        "date_updated": 1691046794,
+        "date_posted": 1691046794,
+        "url": "https://jobs.lever.co/arsiem/784ffcee-4c39-4d4d-858f-5c5b2b9812f3/apply",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Arsiem-Corporation",
         "is_visible": true,
         "sponsorship": "Other"
     }
