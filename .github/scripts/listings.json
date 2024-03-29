@@ -8575,7 +8575,7 @@
         "company_name": "Interactive Brokers",
         "id": "2f8949c4-d6c8-4a79-88bc-ccf61e995a37",
         "title": "Software Developer - C++",
-        "active": false,
+        "active": true,
         "date_updated": 1709857964,
         "date_posted": 1709857964,
         "url": "https://boards.greenhouse.io/ibkr/jobs/7259701002",
@@ -9083,7 +9083,7 @@
         "company_name": "Global Atlantic",
         "id": "b3a7dade-9efa-40a0-acc4-d8352e3077d6",
         "title": "Program Analyst I",
-        "active": true,
+        "active": false,
         "date_updated": 1711409217,
         "date_posted": 1711409217,
         "url": "https://boards.greenhouse.io/gafg/jobs/5549837",
@@ -9792,7 +9792,7 @@
         "company_name": "PFM",
         "id": "fecbdc10-3db6-4cdb-a07e-aa953ca9d82b",
         "title": "Project Engineer - Validation Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1711104628,
         "date_posted": 1711104628,
         "url": "https://boards.greenhouse.io/pfm/jobs/5094060004",
@@ -10548,7 +10548,7 @@
         "company_name": "Palantir",
         "id": "02685730-ce50-409c-9f58-87b5b51af6fb",
         "title": "Quality Compliance Manager",
-        "active": true,
+        "active": false,
         "date_updated": 1708096191,
         "date_posted": 1707332966,
         "url": "https://jobs.lever.co/palantir/b8744016-c0ae-4b63-89fc-d653c46845e1/apply",
@@ -11788,6 +11788,134 @@
         "url": "https://boards.greenhouse.io/ducerapartners/jobs/4007250003",
         "locations": [
             "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Ducera-Partners",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Quanterix",
+        "id": "51db8923-60c0-4867-813d-3491986e5a7d",
+        "title": "Quality Assurance Engineer I",
+        "active": true,
+        "date_updated": 1711731845,
+        "date_posted": 1711731845,
+        "url": "https://boards.greenhouse.io/quanterix/jobs/5863421",
+        "locations": [
+            "Billerica, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Quanterix",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "SharkNinja",
+        "id": "bfad6032-7646-476d-8f1a-bc0f3660a9a5",
+        "title": "Test Engineer",
+        "active": true,
+        "date_updated": 1711671773,
+        "date_posted": 1711671773,
+        "url": "https://www.sharkninja.com/careers/?gh_jid=4345388006",
+        "locations": [
+            "Needham, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/SharkNinja",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "TigerGraph",
+        "id": "0d9fc238-5023-4f82-9c8e-96801d7df119",
+        "title": "Software Engineer-Core Engine",
+        "active": true,
+        "date_updated": 1711671194,
+        "date_posted": 1711671194,
+        "url": "https://boards.greenhouse.io/tigergraph/jobs/5862458",
+        "locations": [
+            "San Carlos, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TigerGraph",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "AIG",
+        "id": "a06fe373-ea10-4d90-b5f3-c91d72f4d3d0",
+        "title": "2024 \u2013 Early Career \u2013 Summer Intern - Personal Lines Operations - United States - New York - NY",
+        "active": true,
+        "date_updated": 1711671116,
+        "date_posted": 1711671116,
+        "url": "https://aig.wd1.myworkdayjobs.com/aig/job/NY-New-York/XMLNAME-2024---Early-Career---Personal-Lines-Operations---Summer-Intern---United-States--New-York--NY-_JR2401345-1",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/AIG",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "TabaPay",
+        "id": "b8cfdab0-2530-4dd6-9244-c2aa448e121f",
+        "title": "Build Release Engineer",
+        "active": true,
+        "date_updated": 1711670598,
+        "date_posted": 1711670598,
+        "url": "https://tabapay.com/careers.html?gh_jid=4353000006",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TabaPay",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Western Digital",
+        "id": "cc5c5080-048e-4d17-bc22-e24d05b448f6",
+        "title": "New College Grad Engineer - Firmware Engineering",
+        "active": true,
+        "date_updated": 1711667218,
+        "date_posted": 1711667218,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/743999976965184",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Digital",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Pax8",
+        "id": "9e29b0e3-7a4c-44b8-bf10-ca8236a4033a",
+        "title": "Technical Support Engineer I-Continuity",
+        "active": true,
+        "date_updated": 1711739961,
+        "date_posted": 1710286565,
+        "url": "https://www.pax8.com/en-us/careers/job-openings?gh_jid=5094147004",
+        "locations": [
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Pax8",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Ducera Partners",
+        "id": "bf7b3c3f-d0c3-4599-b859-c756960a761b",
+        "title": "Investment Banking Analyst - San Francisco",
+        "active": true,
+        "date_updated": 1698847398,
+        "date_posted": 1694041961,
+        "url": "https://boards.greenhouse.io/ducerapartners/jobs/5712921003",
+        "locations": [
+            "SF"
         ],
         "company_url": "https://simplify.jobs/c/Ducera-Partners",
         "is_visible": true,
