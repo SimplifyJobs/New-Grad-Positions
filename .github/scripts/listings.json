@@ -9181,7 +9181,7 @@
         "company_name": "UiPath",
         "id": "dbb08fc8-a5f9-4ad0-bf8b-90ca08db4db2",
         "title": "Software Engineer II",
-        "active": true,
+        "active": false,
         "date_updated": 1711380421,
         "date_posted": 1711227481,
         "url": "https://careers.uipath.com/jobs/8999?lang=en-us&icims=1",
@@ -10902,7 +10902,7 @@
         "company_name": "Veeva Systems",
         "id": "310c5572-434b-431e-9ea1-9b642a2dfeb1",
         "title": "Sales Development Program - UK",
-        "active": true,
+        "active": false,
         "date_updated": 1710292672,
         "date_posted": 1694560273,
         "url": "https://jobs.lever.co/veeva/eac57426-9ece-4b03-b8fe-cf174e129b9a/apply",
@@ -11958,7 +11958,7 @@
         "company_name": "Dev Technology Group",
         "id": "fff6a747-010f-422a-afcc-3f697797d3de",
         "title": "Entry level New graduates - Computer Science/CIS",
-        "active": true,
+        "active": false,
         "date_updated": 1711908813,
         "date_posted": 1711908813,
         "url": "https://boards.greenhouse.io/devfuturetalent/jobs/6926223002",
@@ -12677,6 +12677,40 @@
             "Denver, CO"
         ],
         "company_url": "https://simplify.jobs/c/WhatNot",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Elastic",
+        "id": "b0db8dab-1b6f-45a4-ba2b-c2548ef7a605",
+        "title": "Sales Development Representative - Federal",
+        "active": true,
+        "date_updated": 1711388783,
+        "date_posted": 1711388783,
+        "url": "https://jobs.elastic.co/jobs/?gh_jid=3668333",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Elastic",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Veeva Systems",
+        "id": "c20d738e-35d5-4ed5-a146-0c99054a070e",
+        "title": "Associate Consultant",
+        "active": true,
+        "date_updated": 1709345498,
+        "date_posted": 1692140868,
+        "url": "https://jobs.lever.co/veeva/bf283bc3-6990-4b10-9005-cd685fc778de/apply",
+        "locations": [
+            "Cambridge, MA",
+            "SF",
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Veeva-Systems",
         "is_visible": true,
         "sponsorship": "Other"
     }
