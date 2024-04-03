@@ -1680,7 +1680,7 @@
         "company_name": "Palantir",
         "id": "4cbc04d5-d651-438a-81ec-b82f768a6602",
         "title": "Software Engineer \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1710804477,
         "date_posted": 1692659477,
         "url": "https://jobs.lever.co/palantir/d372c805-d0cd-4a10-9522-fbecc78d6f3e/apply",
@@ -7291,7 +7291,7 @@
         "company_name": "Cadence Design Systems",
         "id": "b71c4ad3-04a2-4f17-bbc7-0d3681a70109",
         "title": "Software Engineer II \u2013 New College Grad - Burlington - MA/Greater Boston Area",
-        "active": true,
+        "active": false,
         "date_updated": 1706055709,
         "date_posted": 1706055709,
         "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/BURLINGTON-01/Software-Engineer-II--Burlington--MA-Greater-Boston-Area----New-College-Grad_R45039-1",
@@ -10386,7 +10386,7 @@
         "company_name": "Western Digital",
         "id": "d796cd1a-2e91-475c-a551-cfc80ff732f8",
         "title": "New College Grad Engineer - R&D Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1709338187,
         "date_posted": 1709338187,
         "url": "https://jobs.smartrecruiters.com/WesternDigital/743999971208068",
@@ -11926,7 +11926,7 @@
         "company_name": "FreedomPay",
         "id": "6ab4cf1a-71f9-4c86-a53c-3d23f57b8ca3",
         "title": "Software Engineer - Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1711756461,
         "date_posted": 1711756461,
         "url": "https://jobs.lever.co/freedompay/77930227-94ea-4e6c-9b8a-41c786ed76cd/apply",
@@ -11958,7 +11958,7 @@
         "company_name": "Dev Technology Group",
         "id": "fff6a747-010f-422a-afcc-3f697797d3de",
         "title": "Entry level New graduates - Computer Science/CIS",
-        "active": false,
+        "active": true,
         "date_updated": 1711908813,
         "date_posted": 1711908813,
         "url": "https://boards.greenhouse.io/devfuturetalent/jobs/6926223002",
@@ -12023,7 +12023,7 @@
         "company_name": "CaptiveAire Systems",
         "id": "4291bd53-ffd9-465e-a3a0-e8df80a63aec",
         "title": "Technical Sales and Field Service Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1711850777,
         "date_posted": 1711850777,
         "url": "https://www.captiveaire.com/Careers/Opening.asp?id=6770201002&gh_jid=6770201002",
@@ -12312,7 +12312,7 @@
         "company_name": "Intersection",
         "id": "44c0b966-82b8-45d5-8a31-33775938138c",
         "title": "Bench Repair Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1710977355,
         "date_posted": 1710977355,
         "url": "https://boards.greenhouse.io/intersection/jobs/5834529",
@@ -12784,7 +12784,7 @@
         "company_name": "Open Asset",
         "id": "291f28e0-e88d-48a4-94ca-e153d9a523e6",
         "title": "Support Engineer - Entry-Level",
-        "active": true,
+        "active": false,
         "date_updated": 1712067568,
         "date_posted": 1712013932,
         "url": "https://axomic.bamboohr.com/careers/95/",
@@ -12792,6 +12792,122 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/fb8ed23e-95a1-474a-bfaa-90d600f9b8e3",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Snowflake",
+        "id": "d837909f-4900-49c3-a42a-cf6a74657312",
+        "title": "Cloud Support Engineer - Database Security & Authentication Management",
+        "active": true,
+        "date_updated": 1712160856,
+        "date_posted": 1712160856,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=7302958002",
+        "locations": [
+            "Dublin, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Snowflake",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Diligent Robotics",
+        "id": "59df94ee-6836-4bc4-b67d-ec667fbeb09f",
+        "title": "Robotics Software Development Engineer in Test",
+        "active": true,
+        "date_updated": 1712160652,
+        "date_posted": 1712160652,
+        "url": "https://boards.greenhouse.io/diligentrobotics/jobs/5942973003",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Diligent-Robotics",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Populus",
+        "id": "1860d3cd-f93b-4a21-9916-a6fbe913fa1c",
+        "title": "Code the Curb Fellow",
+        "active": true,
+        "date_updated": 1712103433,
+        "date_posted": 1712103433,
+        "url": "https://boards.greenhouse.io/populus/jobs/4354097006",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Populus",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "CaptiveAire Systems",
+        "id": "6295153b-61bc-4ace-a358-fd324fdfb004",
+        "title": "Technical Sales and Field Service Engineer",
+        "active": true,
+        "date_updated": 1712102570,
+        "date_posted": 1712102570,
+        "url": "https://www.captiveaire.com/Careers/Opening.asp?id=7315864002&gh_jid=7315864002",
+        "locations": [
+            "Springfield, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/CaptiveAire-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Homebase",
+        "id": "40632d20-691d-40e0-83ed-5a32557d832a",
+        "title": "Security Engineer - Hybrid",
+        "active": true,
+        "date_updated": 1712173929,
+        "date_posted": 1712014857,
+        "url": "https://boards.greenhouse.io/homebase/jobs/5940700003",
+        "locations": [
+            "Houston, TX",
+            "Toronto, ON, Canada",
+            "SF",
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Homebase",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Applied Materials",
+        "id": "6c080a49-3ede-4ac9-ac6b-78c0de4f5a83",
+        "title": "Technical Product Support - Tps - Engineer IV - E4",
+        "active": true,
+        "date_updated": 1711505873,
+        "date_posted": 1711102789,
+        "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/HillsboroOR/Technical-Product-Support--TPS--Engineer-III----E3-_R2410679",
+        "locations": [
+            "Santa Clara, CA",
+            "Hillsboro, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/d9a164c2-2f82-4ddc-9351-708bb0a4a8b2",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "IXL Learning",
+        "id": "cdec9433-803e-46f1-9c19-213de4f6f21b",
+        "title": "Associate Product Manager \u2013 New Grad",
+        "active": true,
+        "date_updated": 1711479819,
+        "date_posted": 1710976755,
+        "url": "https://www.ixl.com/company/jobs?gh_jid=7295054002",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/IXL-Learning",
         "is_visible": true,
         "sponsorship": "Other"
     }
