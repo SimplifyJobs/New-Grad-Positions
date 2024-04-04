@@ -4699,7 +4699,7 @@
         "company_name": "NVIDIA",
         "id": "2b3b00e6-e994-4d77-8f05-4b856b44650f",
         "title": "Solutions Architect \u2013 New College Grad - Wwfo",
-        "active": true,
+        "active": false,
         "date_updated": 1697008988,
         "date_posted": 1697008988,
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Solutions-Architect--WWFO---New-College-Grad_JR1970906-1",
@@ -11047,7 +11047,7 @@
         "company_name": "Wade Trim",
         "id": "09ec23ea-5501-481d-b4d7-d68421f01d94",
         "title": "Entry Level Structural Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1691219669,
         "date_posted": 1691219669,
         "url": "https://jobs.lever.co/wadetrim/9b5fc076-72a4-46c2-9fad-b017aa13382e/apply",
@@ -11175,7 +11175,7 @@
         "company_name": "AEG",
         "id": "1d35face-89e3-42ce-931a-9a708ff687af",
         "title": "Product Support Coordinator",
-        "active": true,
+        "active": false,
         "date_updated": 1711614854,
         "date_posted": 1711614854,
         "url": "https://www.aegworldwide.com/jobs?gh_jid=7282815002",
@@ -11207,7 +11207,7 @@
         "company_name": "Mobilityware",
         "id": "70eec435-fc61-4d4c-8bb8-7a84387b1b21",
         "title": "Software Engineer I - Unity",
-        "active": false,
+        "active": true,
         "date_updated": 1711586183,
         "date_posted": 1711498591,
         "url": "http://boards.greenhouse.io/mobilityware/jobs/5850631",
@@ -11353,7 +11353,7 @@
         "company_name": "Okta",
         "id": "1d2a41f1-5ed5-4e25-b3b3-3358fd162eab",
         "title": "Developer Support Associate \u2013 New Grad - 2024",
-        "active": true,
+        "active": false,
         "date_updated": 1711099227,
         "date_posted": 1711099227,
         "url": "https://www.okta.com/company/careers/opportunity/5746333?gh_jid=5746333",
@@ -11598,7 +11598,7 @@
         "company_name": "Global Atlantic",
         "id": "77791ecd-3760-4e87-b29b-59cacfee51c4",
         "title": "IT SOX Controls Manager",
-        "active": true,
+        "active": false,
         "date_updated": 1711637194,
         "date_posted": 1708129257,
         "url": "https://boards.greenhouse.io/gafg/jobs/5694938",
@@ -11630,7 +11630,7 @@
         "company_name": "CaptiveAire Systems",
         "id": "a8b82e94-ad5b-4b42-8776-44eddaa01a78",
         "title": "Inside Sales Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1709773024,
         "date_posted": 1705594420,
         "url": "https://www.captiveaire.com/Careers/Opening.asp?id=7082093002&gh_jid=7082093002",
@@ -11958,7 +11958,7 @@
         "company_name": "Dev Technology Group",
         "id": "fff6a747-010f-422a-afcc-3f697797d3de",
         "title": "Entry level New graduates - Computer Science/CIS",
-        "active": true,
+        "active": false,
         "date_updated": 1711908813,
         "date_posted": 1711908813,
         "url": "https://boards.greenhouse.io/devfuturetalent/jobs/6926223002",
@@ -12199,7 +12199,7 @@
         "company_name": "Inflection",
         "id": "db8dd67d-425c-418a-ae11-b07caba24e24",
         "title": "Member of Technical Staff - Safety",
-        "active": true,
+        "active": false,
         "date_updated": 1711100511,
         "date_posted": 1711100511,
         "url": "https://boards.greenhouse.io/inflectionai/jobs/4338175006",
@@ -12816,7 +12816,7 @@
         "company_name": "Diligent Robotics",
         "id": "59df94ee-6836-4bc4-b67d-ec667fbeb09f",
         "title": "Robotics Software Development Engineer in Test",
-        "active": true,
+        "active": false,
         "date_updated": 1712160652,
         "date_posted": 1712160652,
         "url": "https://boards.greenhouse.io/diligentrobotics/jobs/5942973003",
@@ -12908,6 +12908,152 @@
             "San Mateo, CA"
         ],
         "company_url": "https://simplify.jobs/c/IXL-Learning",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "CaptiveAire Systems",
+        "id": "e4cc86aa-45d9-483c-85ea-061104355f26",
+        "title": "Technical Sales and Field Service Engineer",
+        "active": true,
+        "date_updated": 1712248842,
+        "date_posted": 1712248842,
+        "url": "https://www.captiveaire.com/Careers/Opening.asp?id=7022150002&gh_jid=7022150002",
+        "locations": [
+            "Evansville, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/CaptiveAire-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "CaptiveAire Systems",
+        "id": "e0be3bf3-8a67-41c8-a3f7-0b0aa66ecc7a",
+        "title": "Technical Sales and Field Service Engineer",
+        "active": true,
+        "date_updated": 1712248841,
+        "date_posted": 1712248841,
+        "url": "https://www.captiveaire.com/Careers/Opening.asp?id=6990976002&gh_jid=6990976002",
+        "locations": [
+            "Columbus, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/CaptiveAire-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "CaptiveAire Systems",
+        "id": "9fed5bab-ba36-4564-9048-d8a0497fd94b",
+        "title": "Technical Sales and Field Service Engineer",
+        "active": true,
+        "date_updated": 1712248845,
+        "date_posted": 1712248845,
+        "url": "https://www.captiveaire.com/Careers/Opening.asp?id=7214606002&gh_jid=7214606002",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/CaptiveAire-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "CaptiveAire Systems",
+        "id": "93dafb1a-58f7-4e89-94aa-b401d2fa5310",
+        "title": "Technical Sales and Field Service Engineer",
+        "active": true,
+        "date_updated": 1712248846,
+        "date_posted": 1712248846,
+        "url": "https://www.captiveaire.com/Careers/Opening.asp?id=7037804002&gh_jid=7037804002",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/CaptiveAire-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Applied Materials",
+        "id": "745c47d6-8d55-4db7-8210-02976d6809d7",
+        "title": "Software Engineer II - E2",
+        "active": true,
+        "date_updated": 1712248178,
+        "date_posted": 1712248178,
+        "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/ChandlerAZ/Software-Engineer-II----E2-_R2412838",
+        "locations": [
+            "Chandler, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/d9a164c2-2f82-4ddc-9351-708bb0a4a8b2",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Western Digital",
+        "id": "6f58ce35-0f15-477a-bfe2-92b4a0f78e8d",
+        "title": "New College Grad Engineer - Software Engineering - Graduating Dec 2023 - May 2024",
+        "active": true,
+        "date_updated": 1712214380,
+        "date_posted": 1712214380,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/743999978063083",
+        "locations": [
+            "Rochester, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Digital",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Applied Materials",
+        "id": "112b5c84-58f0-4495-bfb3-aa225e5a4348",
+        "title": "Technical Product Support - Tps - Engineer II - E2 - Ald",
+        "active": true,
+        "date_updated": 1712187973,
+        "date_posted": 1712187973,
+        "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Technical-Product-Support--TPS--Engineer-II----E2----ALD_R2317100",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/d9a164c2-2f82-4ddc-9351-708bb0a4a8b2",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Epic Games",
+        "id": "79e75b52-8795-4f22-b0fc-237765f14920",
+        "title": "Web Engineer - Trust & Safety",
+        "active": true,
+        "date_updated": 1711650600,
+        "date_posted": 1711650600,
+        "url": "https://boards.greenhouse.io/epicgames/jobs/5140675004",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Epic-Games",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Benesch",
+        "id": "55e68f61-fd92-4a71-8ac7-3c5a550675a7",
+        "title": "Entry-Level Civil Designer Opportunities - North Carolina",
+        "active": true,
+        "date_updated": 1711591016,
+        "date_posted": 1706055850,
+        "url": "https://www.benesch.com/job-openings/4219669007?gh_jid=4219669007",
+        "locations": [
+            "Raleigh, NC",
+            "Charlotte, NC",
+            "Wilmington, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Benesch",
         "is_visible": true,
         "sponsorship": "Other"
     }
