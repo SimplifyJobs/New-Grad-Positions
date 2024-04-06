@@ -13110,7 +13110,7 @@
         "company_name": "ClearEdge",
         "id": "9d5dc85f-1a2d-44d3-a949-1bcc61ce5d9a",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1712272872,
         "date_posted": 1712272872,
         "url": "https://jobs.lever.co/clearedge/c0037be9-2b43-4aa1-8f77-1402708f3607/apply",
@@ -13221,6 +13221,54 @@
             "Washington, DC"
         ],
         "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Applied Materials",
+        "id": "4cc5e2ac-f4de-41aa-8f87-8b7717c305b2",
+        "title": "Process Engineer V - E5",
+        "active": true,
+        "date_updated": 1712360449,
+        "date_posted": 1712360449,
+        "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Process-Engineer-V----E5-_R2412579",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/d9a164c2-2f82-4ddc-9351-708bb0a4a8b2",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Solugen",
+        "id": "eb274a95-b030-4e2d-bca6-a6a3be195af5",
+        "title": "Production Engineer",
+        "active": true,
+        "date_updated": 1708474761,
+        "date_posted": 1708474761,
+        "url": "https://solugen.breezy.hr/p/1047da9d2d56/apply",
+        "locations": [
+            "Marshall, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/13fada2d-bacb-4d02-bb3e-1c5464d47df8",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Zoox",
+        "id": "4fc15d77-734c-49f1-8f8d-9ef4d540f7ac",
+        "title": "Interhost \u2013 C++ Software Engineer",
+        "active": true,
+        "date_updated": 1711761996,
+        "date_posted": 1689750716,
+        "url": "https://jobs.lever.co/zoox/ce086c1b-78c2-46e8-b886-12dae8a2e7c3/apply",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Zoox",
         "is_visible": true,
         "sponsorship": "Other"
     }
