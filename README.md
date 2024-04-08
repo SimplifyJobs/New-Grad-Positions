@@ -64,7 +64,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | --- | --- | --- | :---: | :---: |
 | **[Applied Materials](https://simplify.jobs/c/d9a164c2-2f82-4ddc-9351-708bb0a4a8b2)** | Process Engineer V - E5 | Santa Clara, CA | <a href="https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Process-Engineer-V----E5-_R2412579?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/4cc5e2ac-f4de-41aa-8f87-8b7717c305b2?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Apr 05 |
 | **Applied Materials** | Technical Project/Program Management III - E3 | Austin, TX | 🔒 | Apr 05 |
-| **[FreedomPay](https://simplify.jobs/c/FreedomPay)** | Software Engineer - Associate | Philadelphia, PA | <a href="https://jobs.lever.co/freedompay/453537c5-acab-449b-b18d-653dcd68a926/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/a5fbac07-d724-4601-b2bc-c8def3c005c4?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Apr 04 |
+| **FreedomPay** | Software Engineer - Associate | Philadelphia, PA | 🔒 | Apr 04 |
 | **[Snowflake](https://simplify.jobs/c/Snowflake)** | Data Scientist – New College Grad | San Mateo, CA | <a href="https://boards.greenhouse.io/embed/job_app?token=7317272002&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/0627a463-52d8-45c0-8a0f-f9718ffce91c?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Apr 04 |
 | **ClearEdge** | Software Engineer | Annapolis Junction, MD | 🔒 | Apr 04 |
 | **CaptiveAire Systems** | Technical Sales and Field Service Engineer | Philadelphia, PA | 🔒 | Apr 04 |
@@ -86,7 +86,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Homebase** | Security Engineer - Hybrid | <details><summary>**4 locations**</summary>Houston, TX</br>Toronto, ON, Canada</br>SF</br>Denver, CO</details> | 🔒 | Apr 01 |
 | **Open Asset** | Support Engineer - Entry-Level | NYC | 🔒 | Apr 01 |
 | **Dev Technology Group** | Entry level New graduates - Computer Science/CIS | Reston, VA | 🔒 | Mar 31 |
-| **[Weber Shandwick](https://simplify.jobs/c/Weber-Shandwick)** | Futures Fellow - Creative Tech - Summer 2024 | Remote in USA | <a href="https://www.webershandwick.com/work-at-weber/careers/?gh_jid=7261207002&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/d8810633-82b6-4371-80fa-f4af4d8b27ec?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Mar 31 |
+| **Weber Shandwick** | Futures Fellow - Creative Tech - Summer 2024 | Remote in USA | 🔒 | Mar 31 |
 | **HoYoverse** | Game Server Developer – Fresh Grad | Montreal, QC, Canada</br>LA | 🔒 | Mar 31 |
 | **Unlimit** | Financial Analyst | London, UK | 🔒 | Mar 31 |
 | **CaptiveAire Systems** | Technical Sales and Field Service Engineer | Springfield, MO | 🔒 | Mar 31 |
@@ -120,6 +120,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Ensono** | Expert Mainframe Systems Programmer - DB2 Physical | Remote in USA | 🔒 | Mar 22 |
 | **Quanterix** | Associate Process Engineer | Billerica, MA | 🔒 | Mar 22 |
 | **[Benesch](https://simplify.jobs/c/Benesch)** | Survey Specialist | <details><summary>**6 locations**</summary>Wichita, KS</br>Topeka, KS</br>Lenexa, KS</br>Kansas City, MO</br>Fort Riley, KS</br>Kansas City, KS</details> | <a href="https://www.benesch.com/job-openings/4173290007?gh_jid=4173290007&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/789b44fa-757e-4a0d-ab83-971d5c27b44c?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Mar 22 |
+| **[Ninja Van](https://simplify.jobs/c/Ninja-Van)** | Data Support Associate | Butuan City, Agusan Del Norte, Philippines | <a href="https://jobs.lever.co/ninjavan/ffff82d3-769f-4c04-9995-04392d3354bc/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/273ccbe2-52ce-4616-bd19-5b3bc0e1c9ea?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Mar 22 |
 | **PFM** | Project Engineer - Testing Engineering | Bethesda, MD | 🔒 | Mar 22 |
 | **LPA Design Studios** | Entry Level Structural Designer | San Diego, CA | 🔒 | Mar 22 |
 | **Project Farma** | Project Engineer - Validation Engineering | Raleigh, NC | 🔒 | Mar 22 |
@@ -287,7 +288,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Virtu Financial** | Client Implementation Specialist | NYC | 🔒 | Feb 23 |
 | **Dow Jones** | Software Engineer | Gaithersburg, MD | 🔒 | Feb 23 |
 | **Watershed** | Software engineer – New grad | SF | 🔒 | Feb 23 |
-| **[XTX Markets](https://simplify.jobs/c/XTXMarkets)** | Trading Analyst - New York | NYC | <a href="https://boards.greenhouse.io/xtxmarketstechnologies/jobs/5899235003?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/74a93d08-0f57-4063-86f3-5d5bafb7e26d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Feb 22 |
+| **XTX Markets** | Trading Analyst - New York | NYC | 🔒 | Feb 22 |
 | **[Thumbtack](https://simplify.jobs/c/Thumbtack)** | Product Data Scientist - Customer Growth | Remote in USA | <a href="https://boards.greenhouse.io/thumbtack/jobs/5630260?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/f6ea34e3-ea7e-4d3e-a501-2fbf9645f0bf?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Feb 21 |
 | **[Thumbtack](https://simplify.jobs/c/Thumbtack)** | Product Data Scientist - Customer Growth | Remote | <a href="https://boards.greenhouse.io/thumbtack/jobs/5630261?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/76e048cf-89b1-41e6-87cc-f235d9096234?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Feb 21 |
 | **CaptiveAire Systems** | Industrial Engineer | Waterloo, IA | 🔒 | Feb 21 |
@@ -302,7 +303,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Momentum Worldwide** | Associate Creative Technologist | St. Louis, MO | 🔒 | Feb 16 |
 | **IPG DXTRA** | Associate Creative Technologist | St. Louis, MO | 🔒 | Feb 16 |
 | **[Konrad Group](https://simplify.jobs/c/Konrad-Group)** | Software Developer – Entry Level | Toronto, ON, Canada | <a href="https://boards.greenhouse.io/embed/job_app?token=5893240003&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/b063c145-57ac-4928-864c-83370dacdd44?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Feb 16 |
-| **[Datavant](https://simplify.jobs/c/Datavant)** | Data Engineer | Remote in USA | <a href="https://boards.greenhouse.io/datavant/jobs/6987592002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/b2f9715e-1a27-44b4-8d27-25dd5332a732?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Feb 16 |
+| **Datavant** | Data Engineer | Remote in USA | 🔒 | Feb 16 |
 | **Acorns** | Software Engineer I - Web | Remote in USA | 🔒 | Feb 15 |
 | **IXL Learning** | Customer Support Analyst - Rosetta Stone | Harrisonburg, VA | 🔒 | Feb 15 |
 | **Hello Fresh** | Data Analyst | Irving, TX | 🔒 | Feb 15 |
@@ -799,7 +800,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Applied Intuition** | Product Application Engineer – New Grad | Mountain View, CA | 🔒 | Jul 19 |
 | **Verdant Robotics** | Machine Learning Devops Engineer | Hayward, CA | 🔒 | Jul 19 |
 | **[Study.com](https://simplify.jobs/c/studydotcom)** | Associate Software Engineer | Mountain View, CA | <a href="https://jobs.lever.co/Study.com/97db6059-b701-4fff-97d7-0e1a85d513c2/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/bf3dc737-4043-40b5-ae20-f18ea69ca886?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jul 19 |
-| **KoBold Metals** | Associate Data Scientist | Lusaka, Zambia | 🔒 | Jul 19 |
+| **[KoBold Metals](https://simplify.jobs/c/KoBold-Metals)** | Associate Data Scientist | Lusaka, Zambia | <a href="https://boards.greenhouse.io/koboldmetals/jobs/4283639005?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/3797b7cc-deea-4d23-b709-6833a135d1d8?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jul 19 |
 | **WhatNot** | Software Engineer - Infrastructure | <details><summary>**6 locations**</summary>Seattle, WA</br>SF</br>LA</br>NYC</br>Phoenix, AZ</br>Denver, CO</details> | 🔒 | Jul 19 |
 | **ION Group** | Trading Support Analyst - Toronto | Toronto, ON, Canada | 🔒 | Jul 19 |
 | **ION Group** | Trading Support Analyst - Jersey City | NYC | 🔒 | Jul 19 |
@@ -808,7 +809,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[Aquatic Capital Management](https://simplify.jobs/c/Aquatic-Capital-Management)** | Quantitative Researcher: Early Career | Chicago, IL | <a href="https://boards.greenhouse.io/aquaticcapitalmanagement/jobs/6825774002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/fe91a8c6-e8e8-498c-839c-daf7e881bb4a?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jul 19 |
 | **[Palantir](https://simplify.jobs/c/Palantir)** | Software Engineer - Developer Productivity | London, UK | <a href="https://jobs.lever.co/palantir/ba809804-6d03-4697-a8be-8704e99161b7/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/c967d047-cca6-45d0-b3a8-bc718a10f2c1?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jul 19 |
 | **Palantir** | Linux Engineer - US Government | Washington, DC | 🔒 | Jul 19 |
-| **Point72** | Data Scientist - Proprietary Research | NYC | 🔒 | Jul 19 |
+| **[Point72](https://simplify.jobs/c/Point72)** | Data Scientist - Proprietary Research | NYC | <a href="https://boards.greenhouse.io/point72/jobs/4644238002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/95aecc3f-675c-4152-8ce7-1da05cf5b4f3?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jul 19 |
 | **[Zoox](https://simplify.jobs/c/Zoox)** | Interhost – C++ Software Engineer | San Mateo, CA | <a href="https://jobs.lever.co/zoox/ce086c1b-78c2-46e8-b886-12dae8a2e7c3/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/4fc15d77-734c-49f1-8f8d-9ef4d540f7ac?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jul 19 |
 | **Old Mission** | College Graduates - Full-Time - Junior Quant Trader - 2024 | Chicago, IL | 🔒 | Jul 19 |
 | **Tower Research Capital** | Quantitative Trader - 2024 | NYC | 🔒 | Jul 19 |
