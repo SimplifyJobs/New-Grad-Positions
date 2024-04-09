@@ -13358,5 +13358,21 @@
         "company_url": "https://simplify.jobs/c/Ninja-Van",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Upfield",
+        "id": "f36acbe2-1434-400e-a4a4-d5df76cd2906",
+        "title": "Plant Process Improvement Engineer",
+        "active": true,
+        "date_updated": 1712619580,
+        "date_posted": 1712619580,
+        "url": "https://www.upfield.com/careers/join-upfield/7285035002?gh_jid=7285035002",
+        "locations": [
+            "Olathe, KS"
+        ],
+        "company_url": "https://simplify.jobs/c/Upfield",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
