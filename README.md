@@ -62,6 +62,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **[Upfield](https://simplify.jobs/c/Upfield)** | Plant Process Improvement Engineer | Olathe, KS | <a href="https://www.upfield.com/careers/join-upfield/7285035002?gh_jid=7285035002&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/f36acbe2-1434-400e-a4a4-d5df76cd2906?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Apr 08 |
 | **[Applied Materials](https://simplify.jobs/c/d9a164c2-2f82-4ddc-9351-708bb0a4a8b2)** | Process Engineer V - E5 | Santa Clara, CA | <a href="https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Process-Engineer-V----E5-_R2412579?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/4cc5e2ac-f4de-41aa-8f87-8b7717c305b2?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Apr 05 |
 | **Applied Materials** | Technical Project/Program Management III - E3 | Austin, TX | 🔒 | Apr 05 |
 | **FreedomPay** | Software Engineer - Associate | Philadelphia, PA | 🔒 | Apr 04 |
