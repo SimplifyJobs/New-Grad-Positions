@@ -8030,7 +8030,7 @@
         "company_name": "Thumbtack",
         "id": "f6ea34e3-ea7e-4d3e-a501-2fbf9645f0bf",
         "title": "Product Data Scientist - Customer Growth",
-        "active": true,
+        "active": false,
         "date_updated": 1708475513,
         "date_posted": 1708475513,
         "url": "https://boards.greenhouse.io/thumbtack/jobs/5630260",
@@ -8046,7 +8046,7 @@
         "company_name": "Thumbtack",
         "id": "76e048cf-89b1-41e6-87cc-f235d9096234",
         "title": "Product Data Scientist - Customer Growth",
-        "active": true,
+        "active": false,
         "date_updated": 1708475512,
         "date_posted": 1708475512,
         "url": "https://boards.greenhouse.io/thumbtack/jobs/5630261",
@@ -13372,6 +13372,71 @@
             "Olathe, KS"
         ],
         "company_url": "https://simplify.jobs/c/Upfield",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "IPG DXTRA",
+        "id": "097f2390-08d2-4cb6-a22d-a3c4c7c19aeb",
+        "title": "Futures Fellow - Creative Tech - Summer 2024",
+        "active": true,
+        "date_updated": 1712768502,
+        "date_posted": 1712768502,
+        "url": "https://boards.greenhouse.io/dxacirca/jobs/7261208002",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/IPG-DXTRA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Salesforce",
+        "id": "72b74dbf-e616-48a7-ad7d-0bb162696077",
+        "title": "Associate Database Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1712734524,
+        "date_posted": 1712734524,
+        "url": "https://salesforce.wd12.myworkdayjobs.com/en-us/External_Career_Site/job/Washington---Bellevue/Associate-Database-Engineer_JR245747-2",
+        "locations": [
+            "Bellevue, WA",
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Salesforce",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "CaptiveAire Systems",
+        "id": "aceea4e4-cb0c-4883-8a63-00754165e870",
+        "title": "Technical Sales and Field Service Engineer",
+        "active": true,
+        "date_updated": 1712620665,
+        "date_posted": 1712620665,
+        "url": "https://www.captiveaire.com/Careers/Opening.asp?id=7323971002&gh_jid=7323971002",
+        "locations": [
+            "Allentown, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/CaptiveAire-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "CaptiveAire Systems",
+        "id": "e2074329-da3f-4c50-a930-b0881177a263",
+        "title": "Technical Sales and Field Service Engineer",
+        "active": true,
+        "date_updated": 1712620666,
+        "date_posted": 1712620666,
+        "url": "https://www.captiveaire.com/Careers/Opening.asp?id=7323950002&gh_jid=7323950002",
+        "locations": [
+            "Harrisburg, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/CaptiveAire-Systems",
         "is_visible": true,
         "sponsorship": "Other"
     }
