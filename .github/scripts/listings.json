@@ -12996,7 +12996,7 @@
         "company_name": "Western Digital",
         "id": "6f58ce35-0f15-477a-bfe2-92b4a0f78e8d",
         "title": "New College Grad Engineer - Software Engineering - Graduating Dec 2023 - May 2024",
-        "active": true,
+        "active": false,
         "date_updated": 1712214380,
         "date_posted": 1712214380,
         "url": "https://jobs.smartrecruiters.com/WesternDigital/743999978063083",
@@ -13160,7 +13160,7 @@
         "company_name": "Benesch",
         "id": "789b44fa-757e-4a0d-ab83-971d5c27b44c",
         "title": "Survey Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1711592387,
         "date_posted": 1711150716,
         "url": "https://www.benesch.com/job-openings/4173290007?gh_jid=4173290007",
@@ -13197,7 +13197,7 @@
         "company_name": "Constellation Technologies",
         "id": "412e9ddd-a19c-4bf8-9577-bada14ab5db7",
         "title": "Software Engineer - Design - Multiple levels",
-        "active": true,
+        "active": false,
         "date_updated": 1711641175,
         "date_posted": 1703089750,
         "url": "https://jobs.lever.co/cti-md/9394c0c2-685e-4733-a22a-28e73312b802/apply",
@@ -13437,6 +13437,22 @@
             "Harrisburg, PA"
         ],
         "company_url": "https://simplify.jobs/c/CaptiveAire-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Jerry",
+        "id": "4b4f99c1-16ce-4343-bd34-11fca29be564",
+        "title": "Associate Data Scientist - Class of 2024",
+        "active": true,
+        "date_updated": 1712780595,
+        "date_posted": 1712274820,
+        "url": "https://jobs.ashbyhq.com/Jerry/8275645b-d544-455b-a54d-a1afaaba7f13/application",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
         "is_visible": true,
         "sponsorship": "Other"
     }
