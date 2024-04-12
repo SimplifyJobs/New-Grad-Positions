@@ -12833,14 +12833,14 @@
         "id": "1860d3cd-f93b-4a21-9916-a6fbe913fa1c",
         "title": "Code the Curb Fellow",
         "active": true,
-        "date_updated": 1712103433,
+        "date_updated": 1712885662,
         "date_posted": 1712103433,
         "url": "https://boards.greenhouse.io/populus/jobs/4354097006",
         "locations": [
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Populus",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
