@@ -12600,7 +12600,7 @@
         "company_name": "Celonis",
         "id": "64ec05d4-df73-4f47-b9d2-a9d1eee7aa40",
         "title": "Software Engineer - Machine Learning",
-        "active": true,
+        "active": false,
         "date_updated": 1710443440,
         "date_posted": 1701357190,
         "url": "https://boards.greenhouse.io/celonis/jobs/5814476003",
@@ -13143,7 +13143,7 @@
         "company_name": "Applied Materials",
         "id": "57298e1a-6488-40de-9334-2f154dfb5792",
         "title": "Compliance Data Analyst - B4",
-        "active": true,
+        "active": false,
         "date_updated": 1711734187,
         "date_posted": 1711734187,
         "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Compliance-Data-Analyst--B4-_R2412717",
@@ -13445,7 +13445,7 @@
         "company_name": "Jerry",
         "id": "4b4f99c1-16ce-4343-bd34-11fca29be564",
         "title": "Associate Data Scientist - Class of 2024",
-        "active": true,
+        "active": false,
         "date_updated": 1712780595,
         "date_posted": 1712274820,
         "url": "https://jobs.ashbyhq.com/Jerry/8275645b-d544-455b-a54d-a1afaaba7f13/application",
@@ -13502,6 +13502,38 @@
             "SF"
         ],
         "company_url": "https://simplify.jobs/c/HiveAI",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Jerry",
+        "id": "6216d01d-4043-4a85-8247-fde2f05ec163",
+        "title": "Associate Data Scientist - Class of 2024",
+        "active": true,
+        "date_updated": 1712966218,
+        "date_posted": 1712966218,
+        "url": "https://jobs.ashbyhq.com/Jerry/18e0f497-a68e-4ffe-966a-9c119ea7cf73/application",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "fuboTV",
+        "id": "0d8853b1-9c69-435a-a562-90f3652b9286",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1712965498,
+        "date_posted": 1712965498,
+        "url": "https://careers.fubo.tv/fubotv-job-openings/?gh_jid=5904926",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/fuboTV",
         "is_visible": true,
         "sponsorship": "Other"
     }
