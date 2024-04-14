@@ -346,7 +346,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Zynga** | Software Engineer - Client - Tech Enablement - Central tech | Canada | 🔒 | Feb 01 |
 | **NVIDIA** | Deep Learning Tools Developer – New College Grad 2024 | Santa Clara, CA | 🔒 | Feb 01 |
 | **Western Digital** | New College Grad - Software Engineer - System Testing | Rochester, MN | 🔒 | Feb 01 |
-| **Navan (fka TripActions)** | New College Grad Software Engineer - Front-End | Palo Alto, CA | 🔒 | Feb 01 |
+| **[Navan (fka TripActions)](https://simplify.jobs/c/Navan)** | New College Grad Software Engineer - Front-End | Palo Alto, CA | <a href="https://tripactions.com/job-openings?gh_jid=5662125&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/8f2149e4-8e47-4f05-90b3-98d3b996cd82?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Feb 01 |
 | **Rhombus Power** | Business Development Analyst | Palo Alto, CA | 🔒 | Jan 31 |
 | **Ultra Mobile** | QA Engineer - Hybrid | Newport Beach, CA | 🔒 | Jan 30 |
 | **CannonDesign** | Data Analyst & Visualizer – Entry Level | Remote in USA | 🔒 | Jan 29 |
@@ -793,7 +793,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Sentry** | Software Engineer – New Grad - 2024 | Toronto, ON, Canada | 🔒 | Aug 01 |
 | **Sentry** | Software Engineer – New Grad - 2024 | SF | 🔒 | Aug 01 |
 | **Palantir** | Forward Deployed Software Engineer – New Grad | NYC | 🔒 | Aug 01 |
-| **Palantir** | Forward Deployed Software Engineer – New Grad - US Government | Washington, DC | 🔒 | Aug 01 |
+| **[Palantir](https://simplify.jobs/c/Palantir)** | Forward Deployed Software Engineer – New Grad - US Government | Washington, DC | <a href="https://jobs.lever.co/palantir/cbe90327-3e6e-451c-a54c-1d3cbcef5aeb/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/f6f83b45-cf4c-4a3e-8f32-4c64672610a1?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Aug 01 |
 | **Gecko Robotics** | Software Engineer – New Grad | Cambridge, MA | 🔒 | Jul 31 |
 | **Gecko Robotics** | Forward Deployed Engineer – New Grad | NYC | 🔒 | Jul 31 |
 | **Alarm.com** | Software Engineer | Liberty Lake, WA | 🔒 | Jul 31 |
