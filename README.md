@@ -702,7 +702,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **OKX ** | Software Engineer – New Grad - Backend - Mobile | San Jose, CA | 🔒 | Aug 23 |
 | **Benefitfocus** | Data Analyst | Remote in USA | 🔒 | Aug 23 |
 | **NVIDIA** | Semiconductor Safety Engineer – New College Grad 2023 | Austin, TX</br>Santa Clara, CA | 🔒 | Aug 22 |
-| **[Scale AI](https://simplify.jobs/c/Scale-AI)** | Machine Learning Research Engineer – New Grad | SF | <a href="https://boards.greenhouse.io/scaleai/jobs/4305880005?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/614bd3d7-ab05-48e3-8028-576e487abf70?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Aug 22 |
+| **Scale AI** | Machine Learning Research Engineer – New Grad | SF | 🔒 | Aug 22 |
 | **Scale AI** | Software Engineer – New Grad | SF | 🔒 | Aug 22 |
 | **Enable** | Entry-Level Implementation Analyst | Toronto, ON, Canada | 🔒 | Aug 22 |
 | **Okcoin** | Software Engineer – New Grad - Backend - Frontend - Mobile | San Jose, CA | 🔒 | Aug 22 |
