@@ -11830,7 +11830,7 @@
         "company_name": "TigerGraph",
         "id": "0d9fc238-5023-4f82-9c8e-96801d7df119",
         "title": "Software Engineer-Core Engine",
-        "active": true,
+        "active": false,
         "date_updated": 1711671194,
         "date_posted": 1711671194,
         "url": "https://boards.greenhouse.io/tigergraph/jobs/5862458",
@@ -13396,7 +13396,7 @@
         "company_name": "Salesforce",
         "id": "72b74dbf-e616-48a7-ad7d-0bb162696077",
         "title": "Associate Database Engineer \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1712734524,
         "date_posted": 1712734524,
         "url": "https://salesforce.wd12.myworkdayjobs.com/en-us/External_Career_Site/job/Washington---Bellevue/Associate-Database-Engineer_JR245747-2",
@@ -13534,6 +13534,22 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/fuboTV",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "TripAdvisor",
+        "id": "fae4f482-39d9-4dd4-a169-7ddf3ffce736",
+        "title": "Software Engineer I - Full Stack",
+        "active": true,
+        "date_updated": 1713286188,
+        "date_posted": 1713286188,
+        "url": "https://boards.greenhouse.io/tripadvisor/jobs/5891379",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/TripAdvisor",
         "is_visible": true,
         "sponsorship": "Other"
     }
