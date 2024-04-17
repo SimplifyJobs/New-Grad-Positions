@@ -7387,7 +7387,7 @@
         "company_name": "Navan (fka TripActions)",
         "id": "8f2149e4-8e47-4f05-90b3-98d3b996cd82",
         "title": "New College Grad Software Engineer - Front-End",
-        "active": true,
+        "active": false,
         "date_updated": 1706745991,
         "date_posted": 1706745991,
         "url": "https://tripactions.com/job-openings?gh_jid=5662125",
@@ -8719,7 +8719,7 @@
         "company_name": "Foursquare",
         "id": "05adc192-ebd9-4454-9a63-60641930ecdd",
         "title": "Software Engineer - Dpio",
-        "active": false,
+        "active": true,
         "date_updated": 1709914070,
         "date_posted": 1709914070,
         "url": "https://boards.greenhouse.io/foursquare26/jobs/5795132",
@@ -13542,7 +13542,7 @@
         "company_name": "TripAdvisor",
         "id": "fae4f482-39d9-4dd4-a169-7ddf3ffce736",
         "title": "Software Engineer I - Full Stack",
-        "active": true,
+        "active": false,
         "date_updated": 1713286188,
         "date_posted": 1713286188,
         "url": "https://boards.greenhouse.io/tripadvisor/jobs/5891379",
@@ -13550,6 +13550,22 @@
             "Ottawa, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/TripAdvisor",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "PatientPoint",
+        "id": "51f4dccf-7e5d-40b7-bf01-4110ed94bca1",
+        "title": "Entry Level Data Engineer",
+        "active": true,
+        "date_updated": 1713381700,
+        "date_posted": 1713314229,
+        "url": "https://boards.greenhouse.io/patientpoint/jobs/4409686005",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/PatientPoint",
         "is_visible": true,
         "sponsorship": "Other"
     }
