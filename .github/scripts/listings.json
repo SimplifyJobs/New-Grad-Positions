@@ -6453,7 +6453,7 @@
         "company_name": "Cadence Design Systems",
         "id": "aa8ca880-8ca7-46cd-9cb6-8ffd06555b1d",
         "title": "Application Engineer \u2013 New College Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1702890709,
         "date_posted": 1702890709,
         "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/SAN-JOSE/Application-Engineer---New-College-Grad_R44174-1",
@@ -8816,7 +8816,7 @@
         "company_name": "Navan (fka TripActions)",
         "id": "defebec3-f484-414b-bb03-4a165e076b3a",
         "title": "New College Grad - Android Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1710079426,
         "date_posted": 1702944438,
         "url": "https://tripactions.com/job-openings?gh_jid=5511366",
@@ -13566,6 +13566,183 @@
             "Cincinnati, OH"
         ],
         "company_url": "https://simplify.jobs/c/PatientPoint",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Center",
+        "id": "c0aa15a3-5577-4920-b246-1d1f96a2bcba",
+        "title": "Data Scientist - 1",
+        "active": true,
+        "date_updated": 1713436608,
+        "date_posted": 1713436608,
+        "url": "https://jobs.lever.co/getcenter/112a27f4-679b-4d02-8d92-dab719139acb/apply",
+        "locations": [
+            "Minneapolis, MN",
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/3513654b-5c04-4852-93cb-620bf110cdc2",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Datalab USA",
+        "id": "8eaf7e59-da55-44a6-88da-2674a3ad030d",
+        "title": "Production Programmer \u2013 Entry level SQL Developer",
+        "active": true,
+        "date_updated": 1713435485,
+        "date_posted": 1713435485,
+        "url": "https://jobs.lever.co/datalabusa/64ec0337-a213-4543-8695-ed64c14df5e3/apply",
+        "locations": [
+            "Broomfield, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/4e196dfc-0d83-49e7-80f6-98d984caf06a",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Datalab USA",
+        "id": "66cd474c-4abc-46d1-b2f5-115173096e28",
+        "title": "Production Programmer \u2013 Entry Level SQL Developer",
+        "active": true,
+        "date_updated": 1713435485,
+        "date_posted": 1713435485,
+        "url": "https://jobs.lever.co/datalabusa/fc31836c-277f-42f3-b73e-5d63affe8613/apply",
+        "locations": [
+            "Germantown, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/4e196dfc-0d83-49e7-80f6-98d984caf06a",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Valdes Architecture and Engineering",
+        "id": "125a40aa-7b38-4674-ba8b-cfcc6099b0c2",
+        "title": "Associate Engineer I&C - Instrumentation & Controls",
+        "active": true,
+        "date_updated": 1713434907,
+        "date_posted": 1713434907,
+        "url": "https://jobs.lever.co/valdeseng/eab2f38b-406f-440f-aa29-6dfd5cf17330/apply",
+        "locations": [
+            "Merrillville, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/1a122d1d-f527-4bc7-9fc8-1d5f593d879b",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "ERG",
+        "id": "ff907aec-086a-4092-9d09-c0583ec2d77d",
+        "title": "Entry level Environmental Scientist/Engineer",
+        "active": true,
+        "date_updated": 1713434498,
+        "date_posted": 1713434498,
+        "url": "https://jobs.lever.co/erg/40c62d10-8753-46c4-b6db-fac96a69607a/apply",
+        "locations": [
+            "Chantilly, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/6e9b47bd-4af7-4df2-acc5-d9c9173b978b",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Stride",
+        "id": "8f3eac9a-ba16-4827-b542-a368b42bea50",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1713434249,
+        "date_posted": 1713434249,
+        "url": "https://jobs.ashbyhq.com/stride/c46d4b4f-8aee-4eb5-8c43-c3724ddbf1b7/application",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/165f37da-992c-4a6f-b7c2-861e140e7b35",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Nominal",
+        "id": "d5eee09d-40ff-4b0d-982b-43acea2a0c2d",
+        "title": "Software Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1713434074,
+        "date_posted": 1713434074,
+        "url": "https://jobs.lever.co/nominal/9ed92de3-a7de-4901-9fe0-054b9c66d7c9/apply",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/74e9f35a-1825-4520-a7b8-6a1cc49c1e40",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Nominal",
+        "id": "cdb76464-b9b9-44a7-a1f9-b944fd35b5a9",
+        "title": "Software Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1713434073,
+        "date_posted": 1713434073,
+        "url": "https://jobs.lever.co/nominal/89854893-f950-4b95-afd9-415190bbcd1c/apply",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/74e9f35a-1825-4520-a7b8-6a1cc49c1e40",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Nominal",
+        "id": "0446366e-48be-44ee-afc6-622c14d5b3af",
+        "title": "Software Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1713434073,
+        "date_posted": 1713434073,
+        "url": "https://jobs.lever.co/nominal/e6494c90-f3f3-4d18-b2bf-e72914e8a41d/apply",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/74e9f35a-1825-4520-a7b8-6a1cc49c1e40",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Binance",
+        "id": "cc614562-46ac-4e9f-bded-0b4f32e5669f",
+        "title": "Binance Accelerator Program - Affiliate Operations",
+        "active": true,
+        "date_updated": 1713403896,
+        "date_posted": 1713403896,
+        "url": "https://jobs.lever.co/binance/d25ffd05-35d3-458c-8a97-852adbd108b4/apply",
+        "locations": [
+            "St Charles, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Binance",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Applied Materials",
+        "id": "5fd4ceed-060e-424f-b8e9-8229e2588b9f",
+        "title": "Software Engineer III - E3",
+        "active": true,
+        "date_updated": 1713398707,
+        "date_posted": 1713398707,
+        "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Software-Engineer-III----E3-_R2412929",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/d9a164c2-2f82-4ddc-9351-708bb0a4a8b2",
         "is_visible": true,
         "sponsorship": "Other"
     }
