@@ -9245,7 +9245,7 @@
         "company_name": "Xylem",
         "id": "f70c1dfe-54f7-4141-8db3-e60dedb11768",
         "title": "Associate Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1711138373,
         "date_posted": 1711138373,
         "url": "https://jobs.jobvite.com/xylem/job/oFDVnfwk?nl=1&nl=1&fr=false",
@@ -13110,7 +13110,7 @@
         "company_name": "ClearEdge",
         "id": "9d5dc85f-1a2d-44d3-a949-1bcc61ce5d9a",
         "title": "Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1712272872,
         "date_posted": 1712272872,
         "url": "https://jobs.lever.co/clearedge/c0037be9-2b43-4aa1-8f77-1402708f3607/apply",
@@ -13396,7 +13396,7 @@
         "company_name": "Salesforce",
         "id": "72b74dbf-e616-48a7-ad7d-0bb162696077",
         "title": "Associate Database Engineer \u2013 New Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1712734524,
         "date_posted": 1712734524,
         "url": "https://salesforce.wd12.myworkdayjobs.com/en-us/External_Career_Site/job/Washington---Bellevue/Associate-Database-Engineer_JR245747-2",
@@ -13776,6 +13776,54 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/codeandtheory",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "MongoDB",
+        "id": "8d32ce49-2ef6-42fa-8b36-ac97f271d2d6",
+        "title": "Technical Services Librarian",
+        "active": true,
+        "date_updated": 1713568544,
+        "date_posted": 1713568544,
+        "url": "https://www.mongodb.com/careers/job/?gh_jid=5911606",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/MongoDB",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "MongoDB",
+        "id": "5db81e0e-5d3a-4ea8-9dc2-7c58cd95b2d0",
+        "title": "Technical Services Librarian",
+        "active": true,
+        "date_updated": 1713568543,
+        "date_posted": 1713568543,
+        "url": "https://www.mongodb.com/careers/job/?gh_jid=5918272",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/MongoDB",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "MongoDB",
+        "id": "033f7383-5c3c-4b46-8ccd-3eca33d936ac",
+        "title": "Technical Services Librarian",
+        "active": true,
+        "date_updated": 1713568542,
+        "date_posted": 1713568542,
+        "url": "https://www.mongodb.com/careers/job/?gh_jid=5918276",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/MongoDB",
         "is_visible": true,
         "sponsorship": "Other"
     }
