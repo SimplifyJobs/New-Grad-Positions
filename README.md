@@ -77,7 +77,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Nominal** | Software Engineer – New Grad | NYC | 🔒 | Apr 18 |
 | **Nominal** | Software Engineer – New Grad | LA | 🔒 | Apr 18 |
 | **Binance** | Binance Accelerator Program - Affiliate Operations | St Charles, MO | 🔒 | Apr 18 |
-| **[Applied Materials](https://simplify.jobs/c/d9a164c2-2f82-4ddc-9351-708bb0a4a8b2)** | Software Engineer III - E3 | Santa Clara, CA | <a href="https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Software-Engineer-III----E3-_R2412929?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/5fd4ceed-060e-424f-b8e9-8229e2588b9f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Apr 18 |
+| **Applied Materials** | Software Engineer III - E3 | Santa Clara, CA | 🔒 | Apr 18 |
 | **[PatientPoint](https://simplify.jobs/c/PatientPoint)** | Entry Level Data Engineer | Cincinnati, OH | <a href="https://boards.greenhouse.io/patientpoint/jobs/4409686005?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/51f4dccf-7e5d-40b7-bf01-4110ed94bca1?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Apr 17 |
 | **TripAdvisor** | Software Engineer I - Full Stack | Ottawa, ON, Canada | 🔒 | Apr 16 |
 | **[Jerry](https://simplify.jobs/c/Jerry)** | Associate Data Scientist - Class of 2024 | Palo Alto, CA | <a href="https://jobs.ashbyhq.com/Jerry/18e0f497-a68e-4ffe-966a-9c119ea7cf73/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/6216d01d-4043-4a85-8247-fde2f05ec163?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Apr 12 |
@@ -479,7 +479,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **NVIDIA** | Compiler Engineer – New College Grad 2024 - LLVM | Austin, TX</br>Redmond, WA</br>Santa Clara, CA | 🔒 | Dec 05 |
 | **Ripple** | Software Engineer I | Toronto, ON, Canada | 🔒 | Dec 02 |
 | **Veeva Systems** | Associate Devops Engineer – Seeking 2024 Grads | Remote in USA | 🔒 | Dec 02 |
-| **E-Space** | GNC Software Engineer | Saratoga, CA | 🔒 | Dec 02 |
+| **[E-Space](https://simplify.jobs/c/E-Space)** | GNC Software Engineer | Saratoga, CA | <a href="https://jobs.lever.co/espace/0d7b029d-555b-497a-993b-700bf96cd74f/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/5205eacd-2c6b-4166-bdb3-58c6e4fe2c35?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Dec 02 |
 | **Visa** | Software Engineer - New College Grad-2024 | Atlanta, GA | 🔒 | Dec 02 |
 | **Visa** | Software Engineer - New College Grad-2024 | Austin, TX | 🔒 | Dec 02 |
 | **Hex Technologies** | AI Engineer | Remote | 🔒 | Dec 02 |
@@ -760,7 +760,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Beta Technologies** | Test Equipment Software Engineer - Airborne Software | Raleigh, NC</br>Burlington, VT | 🔒 | Aug 09 |
 | **Beta Technologies** | Embedded Software Engineer - Airborne Software | Raleigh, NC | 🔒 | Aug 09 |
 | **WeRide** | Software Engineer – New Grads 2024 | San Jose, CA | 🔒 | Aug 07 |
-| **[Palantir](https://simplify.jobs/c/Palantir)** | Forward Deployed Software Engineer – New Grad - US Government | NYC | <a href="https://jobs.lever.co/palantir/d1ac83d0-e923-42a5-8e6d-58dd0cab25ca/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/1f6bee99-9cca-467c-a0b3-899d61139a03?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Aug 07 |
+| **Palantir** | Forward Deployed Software Engineer – New Grad - US Government | NYC | 🔒 | Aug 07 |
 | **Woodard Curran** | Entry-level Data Integration Specialist | Helena, MT | 🔒 | Aug 07 |
 | **Wade Trim** | Entry Level Civil/Environmental Engineer | Omaha, NE | 🔒 | Aug 05 |
 | **Sunnova Energy** | Regional Energy Advisor-Retail - Dallas | Dallas, TX | 🔒 | Aug 05 |
