@@ -13826,5 +13826,21 @@
         "company_url": "https://simplify.jobs/c/MongoDB",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Nutanix",
+        "id": "f0b46584-38dd-40c2-8c5b-8a3f0e30ecbd",
+        "title": "Early Career/ Software Engineer 1",
+        "active": true,
+        "date_updated": 1713852294,
+        "date_posted": 1713852294,
+        "url": "https://jobs.jobvite.com/nutanix/job/oWFDsfwq?nl=1&nl=1&fr=false",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Nutanix",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
