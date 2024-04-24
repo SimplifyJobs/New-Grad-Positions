@@ -13801,14 +13801,14 @@
         "id": "5db81e0e-5d3a-4ea8-9dc2-7c58cd95b2d0",
         "title": "Technical Services Librarian",
         "active": true,
-        "date_updated": 1713568543,
+        "date_updated": 1713921925,
         "date_posted": 1713568543,
         "url": "https://www.mongodb.com/careers/job/?gh_jid=5918272",
         "locations": [
             "Remote"
         ],
         "company_url": "https://simplify.jobs/c/MongoDB",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
