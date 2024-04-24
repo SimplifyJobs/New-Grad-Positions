@@ -68,7 +68,8 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[Jerry](https://simplify.jobs/c/Jerry)** | New Graduate Software Engineer Toronto and Alberta | Toronto, ON, Canada | <a href="https://simplify.jobs/p/7ab10679-ed27-45f4-bed0-efb26fb87a7f/New-Graduate-Software-Engineer-Toronto-and-Alberta?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 24 |
 | **[Nominal](https://simplify.jobs/c/74e9f35a-1825-4520-a7b8-6a1cc49c1e40)** | Software Engineer – New Grad | Los Angeles, CA | <a href="https://simplify.jobs/p/0446366e-48be-44ee-afc6-622c14d5b3af/Software-Engineer--New-Grad?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 24 |
 | **[Nominal](https://simplify.jobs/c/74e9f35a-1825-4520-a7b8-6a1cc49c1e40)** | Software Engineer – New Grad | Austin, TX | <a href="https://simplify.jobs/p/d5eee09d-40ff-4b0d-982b-43acea2a0c2d/Software-Engineer--New-Grad?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 24 |
-| **[Nutanix](https://simplify.jobs/c/Nutanix)** | Early Career/ Software Engineer 1 | San Jose, CA | <a href="https://jobs.jobvite.com/nutanix/job/oWFDsfwq?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/f0b46584-38dd-40c2-8c5b-8a3f0e30ecbd?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Apr 23 |
+| **[Persona](https://simplify.jobs/c/Persona)** | Software Engineer – New Grad - Sf | SF | <a href="https://jobs.lever.co/persona/2dea31ec-8e20-48ff-84df-33f943e7fc96/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/117046a1-0712-49fd-b849-043ff0487b55?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Apr 23 |
+| **Nutanix** | Early Career/ Software Engineer 1 | San Jose, CA | 🔒 | Apr 23 |
 | **[Code and Theory](https://simplify.jobs/c/codeandtheory)** | Data & Analytics Fellowship | NYC | <a href="https://www.codeandtheory.com/careers/7338319002?gh_jid=7338319002&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/ae48bcde-2b11-4839-b488-e8ec835ad1a0?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Apr 19 |
 | **[Center](https://simplify.jobs/c/3513654b-5c04-4852-93cb-620bf110cdc2)** | Data Scientist - 1 | Minneapolis, MN</br>Bellevue, WA | <a href="https://jobs.lever.co/getcenter/112a27f4-679b-4d02-8d92-dab719139acb/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/c0aa15a3-5577-4920-b246-1d1f96a2bcba?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Apr 18 |
 | **[Datalab USA](https://simplify.jobs/c/4e196dfc-0d83-49e7-80f6-98d984caf06a)** | Production Programmer – Entry level SQL Developer | Broomfield, CO | <a href="https://jobs.lever.co/datalabusa/64ec0337-a213-4543-8695-ed64c14df5e3/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/8eaf7e59-da55-44a6-88da-2674a3ad030d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Apr 18 |
@@ -321,7 +322,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **CaptiveAire Systems** | Industrial Engineer | Waterloo, IA | 🔒 | Feb 21 |
 | **Solugen** | Production Engineer | Marshall, MN | 🔒 | Feb 21 |
 | **Onbe** | Associate Software Engineer | Dallas, TX | 🔒 | Feb 21 |
-| **[Onbe](https://simplify.jobs/c/Onbe)** | Associate Software Engineer | Conshohocken, PA | <a href="https://www.onbe.com/company/careers?gh_jid=4337325006&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/e0466c86-81ad-4ebd-80c3-7926194ea86e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Feb 21 |
+| **Onbe** | Associate Software Engineer | Conshohocken, PA | 🔒 | Feb 21 |
 | **Onbe** | Associate Software Engineer | Wheeling, IL | 🔒 | Feb 21 |
 | **Yodlee** | Client Service Associate - Tamarac Reporting | Remote in USA</br>Raleigh, NC</br>Berwyn, PA | 🔒 | Feb 21 |
 | **Protective Life** | Actuarial Assistant P&C - Hybrid | Chesterfield, MO | 🔒 | Feb 17 |
@@ -403,7 +404,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Jamf** | Technical Support Associate – Entry Level - High Potential | Remote in USA | 🔒 | Jan 17 |
 | **Similarweb** | Data Scientist – Entry Level | NYC | 🔒 | Jan 17 |
 | **Alarm.com** | Associate Build and Release Engineer | Vienna, VA | 🔒 | Jan 13 |
-| **[Jerry](https://simplify.jobs/c/Jerry)** | Full Stack Software Engineer - Chatbot | SF | <a href="https://jobs.ashbyhq.com/Jerry/3e70ea16-af8f-49e6-bc07-2aa041c07c38/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/a239912c-fd45-4b7b-888f-5984d64e02e9?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jan 13 |
+| **Jerry** | Full Stack Software Engineer - Chatbot | SF | 🔒 | Jan 13 |
 | **ServiceNow** | Finance Development Rotation Program – New Grad | Santa Clara, CA | 🔒 | Jan 12 |
 | **MarketAxess** | 2024 Future Leaders in Action Externship | NYC | 🔒 | Jan 11 |
 | **NVIDIA** | GPU Architect – New College Grad 2024 | Santa Clara, CA | 🔒 | Jan 11 |
@@ -615,7 +616,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Salesforce** | Software Engineering AMTS – New Grad | Seattle, WA</br>SF</br>Remote in USA | 🔒 | Sep 20 |
 | **Scale AI** | Operations Program Manager - Customer Operations | Seattle, WA</br>SF</br>NYC | 🔒 | Sep 20 |
 | **Scale AI** | Operations Associate | <details><summary>**4 locations**</summary>SF</br>Dallas, TX</br>St. Louis, MO</br>NYC</details> | 🔒 | Sep 20 |
-| **[Orion Innovation](https://simplify.jobs/c/OrionInnovation)** | Programmer Analyst - IAC23176 | Remote in USA | <a href="https://www.orioninc.com/careers/job/?gh_jid=4282235006&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/f27f8752-5789-463e-b813-dc5cf2fe56ea?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Sep 20 |
+| **Orion Innovation** | Programmer Analyst - IAC23176 | Remote in USA | 🔒 | Sep 20 |
 | **Codazen** | Full-Stack Engineer Winter New Grad | Irvine, CA | 🔒 | Sep 20 |
 | **Oscar Health** | Data Scientist I - Risk Analytics | Remote | 🔒 | Sep 20 |
 | **Oscar Health** | Data Scientist I - Risk Analytics | LA | 🔒 | Sep 20 |
@@ -748,7 +749,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Celonis** | Associate Value Engineer - Orbit Program | NYC | 🔒 | Aug 13 |
 | **Celonis** | Associate Value Engineer - Orbit | Raleigh, NC | 🔒 | Aug 13 |
 | **AnaVation LLC** | Software Engineer | Reston, VA | 🔒 | Aug 12 |
-| **[Arrowstreet Capital](https://simplify.jobs/c/Arrowstreet-Capital)** | Quantitative Researcher | Cambridge, MA | <a href="https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Arrowstreet/job/Boston/Quantitative-Researcher_R788?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/d301b868-62db-4adf-9f68-b43640f3b0fa?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Aug 11 |
+| **Arrowstreet Capital** | Quantitative Researcher | Cambridge, MA | 🔒 | Aug 11 |
 | **Arrowstreet Capital** | Quantitative Developer | Cambridge, MA | 🔒 | Aug 11 |
 | **Magic Leap** | Associate – Software Engineer - Graphics Systems | Sunnyvale, CA | 🔒 | Aug 10 |
 | **Jump Trading** | Campus Quantitative Researcher - Full-Time | Chicago, IL | 🔒 | Aug 10 |
