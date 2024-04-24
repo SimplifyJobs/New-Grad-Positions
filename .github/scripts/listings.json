@@ -13874,5 +13874,21 @@
         "date_posted": 1713922038,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1713922052,
+        "url": "https://simplify.jobs/p/7ab10679-ed27-45f4-bed0-efb26fb87a7f/New-Graduate-Software-Engineer-Toronto-and-Alberta",
+        "company_name": "Jerry",
+        "title": "New Graduate Software Engineer Toronto and Alberta",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "Jahhx57",
+        "id": "a8bf75dc-adf5-42b5-88f7-71660174e5d7",
+        "date_posted": 1713922052,
+        "company_url": "",
+        "is_visible": true
     }
 ]
