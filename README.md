@@ -62,6 +62,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **[Western Digital](https://simplify.jobs/c/Western-Digital)** | New College Graduate Engineer | Irvine, CA | <a href="https://simplify.jobs/p/57bb51fd-65f2-4b15-83dc-6593043e8c1d/New-College-Graduate-Engineer-Software-Development?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 24 |
 | **Navan (fka TripActions) [https://simplify.jobs/c/Navan]** | University Graduate Software Engineer, Back-End | Palo Alto, CA | <a href="https://simplify.jobs/p/12d74d59-f8fb-4f04-a478-e3dd867f6e9d/University-Graduate?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 24 |
 | **[Nominal](https://simplify.jobs/c/74e9f35a-1825-4520-a7b8-6a1cc49c1e40)** | Software Engineer – New Grad | New York, NY | <a href="https://simplify.jobs/p/cdb76464-b9b9-44a7-a1f9-b944fd35b5a9/Software-Engineer--New-Grad?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 24 |
 | **[Jerry](https://simplify.jobs/c/Jerry)** | New Graduate Software Engineer Toronto and Alberta | Toronto, ON, Canada | <a href="https://simplify.jobs/p/7ab10679-ed27-45f4-bed0-efb26fb87a7f/New-Graduate-Software-Engineer-Toronto-and-Alberta?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 24 |

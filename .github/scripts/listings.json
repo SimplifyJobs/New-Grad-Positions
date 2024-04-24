@@ -13922,5 +13922,21 @@
         "date_posted": 1713922089,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1713922102,
+        "url": "https://simplify.jobs/p/57bb51fd-65f2-4b15-83dc-6593043e8c1d/New-College-Graduate-Engineer-Software-Development",
+        "company_name": "Western Digital",
+        "title": "New College Graduate Engineer",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "Jahhx57",
+        "id": "c5fb8f88-70db-4f6c-9c6e-012fc3fff094",
+        "date_posted": 1713922102,
+        "company_url": "",
+        "is_visible": true
     }
 ]
