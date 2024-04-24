@@ -13817,14 +13817,14 @@
         "id": "033f7383-5c3c-4b46-8ccd-3eca33d936ac",
         "title": "Technical Services Librarian",
         "active": true,
-        "date_updated": 1713568542,
+        "date_updated": 1713921941,
         "date_posted": 1713568542,
         "url": "https://www.mongodb.com/careers/job/?gh_jid=5918276",
         "locations": [
             "Vancouver, BC, Canada"
         ],
         "company_url": "https://simplify.jobs/c/MongoDB",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
