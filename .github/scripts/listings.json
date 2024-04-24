@@ -13842,5 +13842,21 @@
         "company_url": "https://simplify.jobs/c/Nutanix",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1713922021,
+        "url": "https://simplify.jobs/p/d5eee09d-40ff-4b0d-982b-43acea2a0c2d/Software-Engineer--New-Grad",
+        "company_name": "Nominal",
+        "title": "Software Engineer \u2013 New Grad",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "Jahhx57",
+        "id": "eca520d9-581a-4dd5-b8de-20e60332ac67",
+        "date_posted": 1713922021,
+        "company_url": "",
+        "is_visible": true
     }
 ]
