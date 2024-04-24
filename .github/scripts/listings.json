@@ -13906,5 +13906,21 @@
         "date_posted": 1713922071,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1713922089,
+        "url": "https://simplify.jobs/p/12d74d59-f8fb-4f04-a478-e3dd867f6e9d/University-Graduate",
+        "company_name": "Navan (fka TripActions) [https://simplify.jobs/c/Navan]",
+        "title": "University Graduate Software Engineer, Back-End",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "Jahhx57",
+        "id": "d1e0f277-3240-4fe3-9489-14675b79bf15",
+        "date_posted": 1713922089,
+        "company_url": "",
+        "is_visible": true
     }
 ]
