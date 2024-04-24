@@ -13890,5 +13890,21 @@
         "date_posted": 1713922052,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1713922071,
+        "url": "https://simplify.jobs/p/cdb76464-b9b9-44a7-a1f9-b944fd35b5a9/Software-Engineer--New-Grad",
+        "company_name": "Nominal",
+        "title": "Software Engineer \u2013 New Grad",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "Jahhx57",
+        "id": "a18c2ed3-1df8-45e3-b3a0-e41eb90d72f9",
+        "date_posted": 1713922071,
+        "company_url": "",
+        "is_visible": true
     }
 ]
