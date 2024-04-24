@@ -13858,5 +13858,21 @@
         "date_posted": 1713922021,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1713922038,
+        "url": "https://simplify.jobs/p/0446366e-48be-44ee-afc6-622c14d5b3af/Software-Engineer--New-Grad",
+        "company_name": "Nominal",
+        "title": "Software Engineer \u2013 New Grad",
+        "locations": [
+            "Los Angeles, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "Jahhx57",
+        "id": "4f7d84d3-8d37-425e-84fc-c413bce8f440",
+        "date_posted": 1713922038,
+        "company_url": "",
+        "is_visible": true
     }
 ]
