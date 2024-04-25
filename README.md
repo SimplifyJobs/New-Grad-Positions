@@ -62,6 +62,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **[Astranis](https://simplify.jobs/c/Astranis)** | Full Stack Engineer - Network Software Engineer | SF | <a href="https://boards.greenhouse.io/astranis/jobs/4360819006?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/92f837bb-bd83-447d-ace4-fcdc30a271df?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Apr 25 |
 | **[Western Digital](https://simplify.jobs/c/Western-Digital)** | New College Graduate Engineer | Irvine, CA | <a href="https://simplify.jobs/p/57bb51fd-65f2-4b15-83dc-6593043e8c1d/New-College-Graduate-Engineer-Software-Development?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 24 |
 | **Navan (fka TripActions) [https://simplify.jobs/c/Navan]** | University Graduate Software Engineer, Back-End | Palo Alto, CA | <a href="https://simplify.jobs/p/12d74d59-f8fb-4f04-a478-e3dd867f6e9d/University-Graduate?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 24 |
 | **[Nominal](https://simplify.jobs/c/74e9f35a-1825-4520-a7b8-6a1cc49c1e40)** | Software Engineer – New Grad | New York, NY | <a href="https://simplify.jobs/p/cdb76464-b9b9-44a7-a1f9-b944fd35b5a9/Software-Engineer--New-Grad?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 24 |
@@ -82,9 +83,10 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Binance** | Binance Accelerator Program - Affiliate Operations | St Charles, MO | 🔒 | Apr 18 |
 | **Applied Materials** | Software Engineer III - E3 | Santa Clara, CA | 🔒 | Apr 18 |
 | **[PatientPoint](https://simplify.jobs/c/PatientPoint)** | Entry Level Data Engineer | Cincinnati, OH | <a href="https://boards.greenhouse.io/patientpoint/jobs/4409686005?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/51f4dccf-7e5d-40b7-bf01-4110ed94bca1?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Apr 17 |
+| **[Pendo](https://simplify.jobs/c/Pendo)** | Associate Customer Experience Manager | London, UK | <a href="https://boards.greenhouse.io/pendo/jobs/7327899002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/bd620802-c163-4c34-ac4a-1e607a877dc7?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Apr 16 |
 | **TripAdvisor** | Software Engineer I - Full Stack | Ottawa, ON, Canada | 🔒 | Apr 16 |
-| **[Jerry](https://simplify.jobs/c/Jerry)** | Associate Data Scientist - Class of 2024 | Palo Alto, CA | <a href="https://jobs.ashbyhq.com/Jerry/18e0f497-a68e-4ffe-966a-9c119ea7cf73/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/6216d01d-4043-4a85-8247-fde2f05ec163?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Apr 12 |
-| **[fuboTV](https://simplify.jobs/c/fuboTV)** | Associate Software Engineer | Remote in USA | <a href="https://careers.fubo.tv/fubotv-job-openings/?gh_jid=5904926&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/0d8853b1-9c69-435a-a562-90f3652b9286?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Apr 12 |
+| **Jerry** | Associate Data Scientist - Class of 2024 | Palo Alto, CA | 🔒 | Apr 12 |
+| **fuboTV** | Associate Software Engineer | Remote in USA | 🔒 | Apr 12 |
 | **[HoYoverse](https://simplify.jobs/c/Ho-Yoverse)** | Software Engineer – Fresh Grad - Testing - Risk Control | Montreal, QC, Canada</br>LA | <a href="https://boards.greenhouse.io/hoyoverse/jobs/4271558007?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/91886100-f9ce-4b38-831f-8a309c486f4e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Apr 12 |
 | **[Samsara](https://simplify.jobs/c/Samsara)** | Machine Learning Engineer – New Grad | Remote in USA | <a href="https://boards.greenhouse.io/samsara/jobs/5901682?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/62004766-f605-449b-a9ec-4c025cd72c60?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Apr 12 |
 | **[Salesforce](https://simplify.jobs/c/Salesforce)** | Associate Database Engineer – New Grad | Bellevue, WA</br>Denver, CO | <a href="https://salesforce.wd12.myworkdayjobs.com/en-us/External_Career_Site/job/Washington---Bellevue/Associate-Database-Engineer_JR245747-2?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/72b74dbf-e616-48a7-ad7d-0bb162696077?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Apr 10 |
@@ -352,7 +354,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Barkley** | Data Analyst | Kansas City, MO | 🔒 | Feb 07 |
 | **[SIRUM](https://simplify.jobs/c/SIRUM)** | Community Impact Fellow - Platform Team | Palo Alto, CA | <a href="https://boards.greenhouse.io/sirum/jobs/5880375003?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/98ae5bb0-351f-4a7a-8c72-f16238501e31?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Feb 07 |
 | **Palantir** | Quality Compliance Manager | Seattle, WA | 🔒 | Feb 07 |
-| **[Welocalize](https://simplify.jobs/c/Welocalize)** | Entry-Level AI Data Rater - English - US | United States | <a href="https://jobs.lever.co/welocalize/b6af22c2-0ae8-432f-bdce-90ffda2f555a/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/856c81b6-410a-4143-8c0a-5a5238458981?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Feb 07 |
+| **Welocalize** | Entry-Level AI Data Rater - English - US | United States | 🔒 | Feb 07 |
 | **Rockset** | Technical Product Marketing Manager | San Mateo, CA | 🔒 | Feb 07 |
 | **Rockset** | Software Engineer – New Grad | San Mateo, CA | 🔒 | Feb 07 |
 | **Fortra** | Data Protection Analyst | United States | 🔒 | Feb 07 |
@@ -404,7 +406,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Jamf** | Technical Support Associate – Entry Level - High Potential | Remote in USA | 🔒 | Jan 17 |
 | **Similarweb** | Data Scientist – Entry Level | NYC | 🔒 | Jan 17 |
 | **Alarm.com** | Associate Build and Release Engineer | Vienna, VA | 🔒 | Jan 13 |
-| **Jerry** | Full Stack Software Engineer - Chatbot | SF | 🔒 | Jan 13 |
+| **[Jerry](https://simplify.jobs/c/Jerry)** | Full Stack Software Engineer - Chatbot | SF | <a href="https://jobs.ashbyhq.com/Jerry/3e70ea16-af8f-49e6-bc07-2aa041c07c38/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/a239912c-fd45-4b7b-888f-5984d64e02e9?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jan 13 |
 | **ServiceNow** | Finance Development Rotation Program – New Grad | Santa Clara, CA | 🔒 | Jan 12 |
 | **MarketAxess** | 2024 Future Leaders in Action Externship | NYC | 🔒 | Jan 11 |
 | **NVIDIA** | GPU Architect – New College Grad 2024 | Santa Clara, CA | 🔒 | Jan 11 |
@@ -495,7 +497,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Instacart** | Software Engineer | Toronto, ON, Canada | 🔒 | Nov 30 |
 | **Penn Interactive** | Data Scientist | Philadelphia, PA | 🔒 | Nov 30 |
 | **Cadence Design Systems** | Software Engineer – New College Grad 2024 | Northridge, LA | 🔒 | Nov 30 |
-| **Cadence Design Systems** | Software Engineer – New College Grad 2024 | San Jose, CA | 🔒 | Nov 30 |
+| **[Cadence Design Systems](https://simplify.jobs/c/Cadence-Design-Systems)** | Software Engineer – New College Grad 2024 | San Jose, CA | <a href="https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/SAN-JOSE/Software-Engineer--New-College-Grad-2024-_R44443?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/90e657dd-cc0d-4e49-b483-615485f2d971?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Nov 30 |
 | **Weee!** | Logistics Analyst | Fremont, CA | 🔒 | Nov 30 |
 | **CaptiveAire Systems** | Technical Inside Sales | St. George, UT | 🔒 | Nov 30 |
 | **CaptiveAire Systems** | Fire Systems/ Ecommerce Sales Engineer | St. George, UT | 🔒 | Nov 30 |
@@ -616,7 +618,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Salesforce** | Software Engineering AMTS – New Grad | Seattle, WA</br>SF</br>Remote in USA | 🔒 | Sep 20 |
 | **Scale AI** | Operations Program Manager - Customer Operations | Seattle, WA</br>SF</br>NYC | 🔒 | Sep 20 |
 | **Scale AI** | Operations Associate | <details><summary>**4 locations**</summary>SF</br>Dallas, TX</br>St. Louis, MO</br>NYC</details> | 🔒 | Sep 20 |
-| **Orion Innovation** | Programmer Analyst - IAC23176 | Remote in USA | 🔒 | Sep 20 |
+| **[Orion Innovation](https://simplify.jobs/c/OrionInnovation)** | Programmer Analyst - IAC23176 | Remote in USA | <a href="https://www.orioninc.com/careers/job/?gh_jid=4282235006&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/f27f8752-5789-463e-b813-dc5cf2fe56ea?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Sep 20 |
 | **Codazen** | Full-Stack Engineer Winter New Grad | Irvine, CA | 🔒 | Sep 20 |
 | **Oscar Health** | Data Scientist I - Risk Analytics | Remote | 🔒 | Sep 20 |
 | **Oscar Health** | Data Scientist I - Risk Analytics | LA | 🔒 | Sep 20 |
