@@ -5773,7 +5773,7 @@
         "company_name": "Cadence Design Systems",
         "id": "90e657dd-cc0d-4e49-b483-615485f2d971",
         "title": "Software Engineer \u2013 New College Grad 2024",
-        "active": false,
+        "active": true,
         "date_updated": 1701352966,
         "date_posted": 1701352966,
         "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/SAN-JOSE/Software-Engineer--New-College-Grad-2024-_R44443",
@@ -7066,7 +7066,7 @@
         "company_name": "Jerry",
         "id": "a239912c-fd45-4b7b-888f-5984d64e02e9",
         "title": "Full Stack Software Engineer - Chatbot",
-        "active": false,
+        "active": true,
         "date_updated": 1705104367,
         "date_posted": 1705104367,
         "url": "https://jobs.ashbyhq.com/Jerry/3e70ea16-af8f-49e6-bc07-2aa041c07c38/application",
@@ -7693,7 +7693,7 @@
         "company_name": "Welocalize",
         "id": "856c81b6-410a-4143-8c0a-5a5238458981",
         "title": "Entry-Level AI Data Rater - English - US",
-        "active": true,
+        "active": false,
         "date_updated": 1707332762,
         "date_posted": 1707332762,
         "url": "https://jobs.lever.co/welocalize/b6af22c2-0ae8-432f-bdce-90ffda2f555a/apply",
@@ -10886,7 +10886,7 @@
         "company_name": "Orion Innovation",
         "id": "f27f8752-5789-463e-b813-dc5cf2fe56ea",
         "title": "Programmer Analyst - IAC23176",
-        "active": false,
+        "active": true,
         "date_updated": 1695251964,
         "date_posted": 1695251964,
         "url": "https://www.orioninc.com/careers/job/?gh_jid=4282235006",
@@ -13510,7 +13510,7 @@
         "company_name": "Jerry",
         "id": "6216d01d-4043-4a85-8247-fde2f05ec163",
         "title": "Associate Data Scientist - Class of 2024",
-        "active": true,
+        "active": false,
         "date_updated": 1712966218,
         "date_posted": 1712966218,
         "url": "https://jobs.ashbyhq.com/Jerry/18e0f497-a68e-4ffe-966a-9c119ea7cf73/application",
@@ -13526,7 +13526,7 @@
         "company_name": "fuboTV",
         "id": "0d8853b1-9c69-435a-a562-90f3652b9286",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1712965498,
         "date_posted": 1712965498,
         "url": "https://careers.fubo.tv/fubotv-job-openings/?gh_jid=5904926",
@@ -13952,6 +13952,38 @@
             "SF"
         ],
         "company_url": "https://simplify.jobs/c/Persona",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Astranis",
+        "id": "92f837bb-bd83-447d-ace4-fcdc30a271df",
+        "title": "Full Stack Engineer - Network Software Engineer",
+        "active": true,
+        "date_updated": 1714034875,
+        "date_posted": 1714034875,
+        "url": "https://boards.greenhouse.io/astranis/jobs/4360819006",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Astranis",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Pendo",
+        "id": "bd620802-c163-4c34-ac4a-1e607a877dc7",
+        "title": "Associate Customer Experience Manager",
+        "active": true,
+        "date_updated": 1714066896,
+        "date_posted": 1713290218,
+        "url": "https://boards.greenhouse.io/pendo/jobs/7327899002",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Pendo",
         "is_visible": true,
         "sponsorship": "Other"
     }
