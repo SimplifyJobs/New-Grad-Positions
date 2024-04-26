@@ -1067,7 +1067,7 @@
         "company_name": "Aquatic Capital Management",
         "id": "fe91a8c6-e8e8-498c-839c-daf7e881bb4a",
         "title": "Quantitative Researcher: Early Career",
-        "active": true,
+        "active": false,
         "date_updated": 1689750885,
         "date_posted": 1689750885,
         "url": "https://boards.greenhouse.io/aquaticcapitalmanagement/jobs/6825774002",
@@ -13396,7 +13396,7 @@
         "company_name": "Salesforce",
         "id": "72b74dbf-e616-48a7-ad7d-0bb162696077",
         "title": "Associate Database Engineer \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1712734524,
         "date_posted": 1712734524,
         "url": "https://salesforce.wd12.myworkdayjobs.com/en-us/External_Career_Site/job/Washington---Bellevue/Associate-Database-Engineer_JR245747-2",
@@ -13461,7 +13461,7 @@
         "company_name": "HoYoverse",
         "id": "91886100-f9ce-4b38-831f-8a309c486f4e",
         "title": "Software Engineer \u2013 Fresh Grad - Testing - Risk Control",
-        "active": true,
+        "active": false,
         "date_updated": 1712915832,
         "date_posted": 1712915832,
         "url": "https://boards.greenhouse.io/hoyoverse/jobs/4271558007",
@@ -13984,6 +13984,38 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/Pendo",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Opal",
+        "id": "9d71c2be-fe09-445c-9bf8-9852079a4c5a",
+        "title": "Software Engineer \u2013 Early Career",
+        "active": true,
+        "date_updated": 1714109501,
+        "date_posted": 1714109501,
+        "url": "https://jobs.ashbyhq.com/Opal/76489840-ea85-4566-b6ed-dd7436fdcaac/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Opal",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Enable",
+        "id": "fa641db0-d723-48b8-84ea-6f130e252ba1",
+        "title": "Entry-Level Implementation Analyst",
+        "active": true,
+        "date_updated": 1714108731,
+        "date_posted": 1714108731,
+        "url": "https://jobs.lever.co/enable/2efabbf3-ba1d-498a-b7c2-c76d1c2c1578/apply",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Enable",
         "is_visible": true,
         "sponsorship": "Other"
     }
