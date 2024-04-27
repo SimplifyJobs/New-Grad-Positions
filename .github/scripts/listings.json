@@ -8783,7 +8783,7 @@
         "company_name": "NVIDIA",
         "id": "8f0bc549-0975-4231-98e0-7d6268b15b81",
         "title": "Compiler Engineer \u2013 New College Grad 2024 - Deep Learning",
-        "active": true,
+        "active": false,
         "date_updated": 1709943374,
         "date_posted": 1709943374,
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Compiler-Engineer--Deep-Learning---New-College-Grad-2024_JR1981007",
@@ -14016,6 +14016,22 @@
             "SF"
         ],
         "company_url": "https://simplify.jobs/c/Enable",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Sumo Logic",
+        "id": "d64289a9-7e76-45bb-86a8-cf42e8bcbfd1",
+        "title": "SWE-1 \u2013 Site Reliability Engineer",
+        "active": true,
+        "date_updated": 1714176568,
+        "date_posted": 1714176568,
+        "url": "https://boards.greenhouse.io/sumologic/jobs/5901075",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Sumo-Logic",
         "is_visible": true,
         "sponsorship": "Other"
     }
