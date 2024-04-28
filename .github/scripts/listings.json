@@ -14034,5 +14034,21 @@
         "company_url": "https://simplify.jobs/c/Sumo-Logic",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Welocalize",
+        "id": "38d9cf68-f6b0-4ef4-9e7a-b2d95e73128e",
+        "title": "Entry Level AI Projects - English US",
+        "active": true,
+        "date_updated": 1714272012,
+        "date_posted": 1714272012,
+        "url": "https://jobs.lever.co/welocalize/4ab77d44-68fa-4aa3-8b71-c77e2a75f8a7/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Welocalize",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
