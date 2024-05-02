@@ -8751,7 +8751,7 @@
         "company_name": "Coalition",
         "id": "5659f50d-df8a-4965-beb7-26e70e8a66c2",
         "title": "Software Engineer-Cyber Policies",
-        "active": false,
+        "active": true,
         "date_updated": 1709929088,
         "date_posted": 1709137760,
         "url": "https://careers.coalitioninc.com/job-posting/?gh_jid=4376725005",
@@ -14048,6 +14048,185 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Welocalize",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Point72",
+        "id": "e04142ea-01f2-4a8b-943e-0271ba1836de",
+        "title": "Point72 Academy Investment Analyst Program for Upcoming Graduates - 2025 - US",
+        "active": true,
+        "date_updated": 1714662712,
+        "date_posted": 1714662712,
+        "url": "https://boards.greenhouse.io/point72/jobs/7431897002",
+        "locations": [
+            "SF",
+            "Florida",
+            "Chicago, IL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Point72",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Point72",
+        "id": "48e74bd1-41a5-43bb-a34b-bfbcb7cab215",
+        "title": "Point72 Academy Investment Analyst Program for Upcoming Graduates - 2025 - UK",
+        "active": true,
+        "date_updated": 1714662708,
+        "date_posted": 1714662708,
+        "url": "https://boards.greenhouse.io/point72/jobs/7434405002",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Point72",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Nightfall",
+        "id": "8d97efd1-b677-4151-b8b8-09d67b8520b2",
+        "title": "New Grad Backend Engineer",
+        "active": true,
+        "date_updated": 1714513135,
+        "date_posted": 1714513135,
+        "url": "https://boards.greenhouse.io/nightfall/jobs/4008700006",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Nightfall",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Affirm",
+        "id": "cb0cee44-0dbd-4d29-b9c5-bb8d122e90c1",
+        "title": "Quantitative Analyst",
+        "active": true,
+        "date_updated": 1714514888,
+        "date_posted": 1714514888,
+        "url": "https://boards.greenhouse.io/affirm/jobs/5944661003",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/Affirm",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Critical Mass",
+        "id": "325bf886-aff6-404d-a95c-49d7e18b4e31",
+        "title": "Associate Developer",
+        "active": true,
+        "date_updated": 1714516029,
+        "date_posted": 1714516029,
+        "url": "https://boards.greenhouse.io/criticalmass/jobs/5846012",
+        "locations": [
+            "Calgary, AB, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Critical-Mass",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "WeRide",
+        "id": "694040e9-673d-400c-9fed-0d9b222403bc",
+        "title": "Software Engineer \u2013 New Grads 2024 - Planning & Control",
+        "active": true,
+        "date_updated": 1714605534,
+        "date_posted": 1714605534,
+        "url": "https://jobs.lever.co/weride/a102c558-c365-48cf-b1ae-766037509e5c/apply",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/WeRide",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "WeRide",
+        "id": "ccc1f29c-61cf-48d4-9546-92c64d6bd122",
+        "title": "Software Engineer \u2013 New Grads 2024 - Perception",
+        "active": true,
+        "date_updated": 1714605534,
+        "date_posted": 1714605534,
+        "url": "https://jobs.lever.co/weride/ffc66d09-5fd1-4f77-8b85-6725c74a5cc6/apply",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/WeRide",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Shearers Foods",
+        "id": "6b252005-b886-418d-96aa-5eaa30eff02f",
+        "title": "Environmental Health & Safety Analyst - Snack Food Mfg",
+        "active": true,
+        "date_updated": 1714505588,
+        "date_posted": 1714505588,
+        "url": "https://boards.greenhouse.io/shearerssnacks/jobs/7369241002",
+        "locations": [
+            "Fergus Falls, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Shearers-Foods",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Valdes Architecture and Engineering",
+        "id": "54efb04c-b943-4b95-9a1d-ce9bb70dfb76",
+        "title": "Associate Engineer I&C - Instrumentation & Controls",
+        "active": true,
+        "date_updated": 1714505520,
+        "date_posted": 1714505520,
+        "url": "https://jobs.lever.co/valdeseng/c47a3351-0fd9-47e9-811b-706779c377a7/apply",
+        "locations": [
+            "Lombard, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/1a122d1d-f527-4bc7-9fc8-1d5f593d879b",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Pendo",
+        "id": "67f35f56-1564-4c12-b721-ce7338b88a10",
+        "title": "Associate Customer Experience Manager",
+        "active": true,
+        "date_updated": 1714577407,
+        "date_posted": 1714577407,
+        "url": "https://boards.greenhouse.io/pendo/jobs/7336484002",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Pendo",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Relativity Space",
+        "id": "1cc524d1-1445-4640-be84-25f75c639783",
+        "title": "Software Simulation Engineer I",
+        "active": true,
+        "date_updated": 1714457655,
+        "date_posted": 1707352231,
+        "url": "https://boards.greenhouse.io/relativity/jobs/7060327002",
+        "locations": [
+            "Long Beach, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Relativity-Space",
         "is_visible": true,
         "sponsorship": "Other"
     }
