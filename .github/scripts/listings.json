@@ -14229,5 +14229,21 @@
         "company_url": "https://simplify.jobs/c/Relativity-Space",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Constant Contact",
+        "id": "28acd9ac-d0e0-4331-91c0-ead96fd0de12",
+        "title": "New Grad Java Developer - Contacts",
+        "active": true,
+        "date_updated": 1714691952,
+        "date_posted": 1714691952,
+        "url": "https://boards.greenhouse.io/constantcontact/jobs/5939736",
+        "locations": [
+            "Kitchener, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/eb918e75-8427-4377-8dd7-e5510452c637",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
