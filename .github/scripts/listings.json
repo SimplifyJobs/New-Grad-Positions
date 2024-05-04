@@ -3075,7 +3075,7 @@
         "company_name": "Perpay",
         "id": "87535675-cdd3-44ea-b36f-622b1a2be47b",
         "title": "Software Engineer \u2013 New Grad 2024",
-        "active": true,
+        "active": false,
         "date_updated": 1694474200,
         "date_posted": 1694474200,
         "url": "https://boards.greenhouse.io/perpay/jobs/4034578007",
@@ -13126,7 +13126,7 @@
         "company_name": "Genesis Therapeutics",
         "id": "eb31b68a-844e-4aef-8a2c-2ac248d6700f",
         "title": "ML Research Engineer \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1712101440,
         "date_posted": 1712101440,
         "url": "https://jobs.lever.co/genesistherapeutics/e46df7c2-5364-4a67-937a-10ecb3898ca3/apply",
@@ -14243,6 +14243,22 @@
             "Kitchener, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/eb918e75-8427-4377-8dd7-e5510452c637",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Axon",
+        "id": "5c538ae0-5dad-4f80-ab5c-8c7aa6330194",
+        "title": "Embedded Applications Software Engineer I",
+        "active": true,
+        "date_updated": 1714806727,
+        "date_posted": 1714806727,
+        "url": "https://boards.greenhouse.io/axon/jobs/5729825003",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Axon",
         "is_visible": true,
         "sponsorship": "Other"
     }
