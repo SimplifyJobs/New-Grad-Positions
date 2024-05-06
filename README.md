@@ -398,7 +398,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Budderfly** | Associate Energy Engineer - Solutions Development-Remote | Remote in USA | 🔒 | Jan 25 |
 | **Alexandra Lozano Immigration Law PLLC** | IT Support Bilingual English/Spanish | Tukwila, WA | 🔒 | Jan 25 |
 | **NVIDIA** | Software Engineer – New College Grad 2024 - Chip Design Tools | Santa Clara, CA | 🔒 | Jan 25 |
-| **[Capital One](https://simplify.jobs/c/Capital-One)** | Associate – New Grad 2024 - Business Analyst | Toronto, ON, Canada | <a href="https://capitalone.wd1.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Business-Analyst---New-Grad-2024_R180142?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/4e34b1a6-a31f-4737-9756-cb120bf2bad9?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jan 24 |
+| **Capital One** | Associate – New Grad 2024 - Business Analyst | Toronto, ON, Canada | 🔒 | Jan 24 |
 | **Benesch** | Entry-Level Civil/Structural Designer Opportunities - Georgia | Augusta, GA</br>Atlanta, GA | 🔒 | Jan 24 |
 | **Benesch** | Entry-Level Civil Designer Opportunities - North Carolina | Raleigh, NC</br>Charlotte, NC</br>Wilmington, NC | 🔒 | Jan 24 |
 | **Cadence Design Systems** | Software Engineer II – New College Grad - Burlington - MA/Greater Boston Area | Northridge, LA | 🔒 | Jan 24 |
