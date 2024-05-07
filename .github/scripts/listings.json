@@ -14123,7 +14123,7 @@
         "company_name": "Critical Mass",
         "id": "325bf886-aff6-404d-a95c-49d7e18b4e31",
         "title": "Associate Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1714516029,
         "date_posted": 1714516029,
         "url": "https://boards.greenhouse.io/criticalmass/jobs/5846012",
@@ -14259,6 +14259,38 @@
             "Seattle, WA"
         ],
         "company_url": "https://simplify.jobs/c/Axon",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Coalition",
+        "id": "ecc86fe5-90fb-4b66-bf06-25447eb1b542",
+        "title": "Software Engineer - Underwriting",
+        "active": true,
+        "date_updated": 1715037045,
+        "date_posted": 1715037045,
+        "url": "https://careers.coalitioninc.com/job-posting/?gh_jid=4416819005",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Coalition",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Coalition",
+        "id": "91133a82-cc50-46cf-94a6-09df3aa35c24",
+        "title": "Software Engineer - Underwriting",
+        "active": true,
+        "date_updated": 1715037042,
+        "date_posted": 1715037042,
+        "url": "https://careers.coalitioninc.com/job-posting/?gh_jid=4417160005",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/Coalition",
         "is_visible": true,
         "sponsorship": "Other"
     }
