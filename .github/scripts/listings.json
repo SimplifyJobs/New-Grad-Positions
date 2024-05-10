@@ -8954,7 +8954,7 @@
         "company_name": "Okta",
         "id": "a8b5e958-2ac0-4f16-bf81-71ec9d5c7b35",
         "title": "Software Engineer New Grad - Customer Identity Cloud - Summer 2024",
-        "active": true,
+        "active": false,
         "date_updated": 1710804557,
         "date_posted": 1710804557,
         "url": "https://www.okta.com/company/careers/opportunity/5829388?gh_jid=5829388",
@@ -14339,6 +14339,38 @@
             "Jacksonville, FL"
         ],
         "company_url": "https://simplify.jobs/c/Dun-and-Bradstreet",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Visa",
+        "id": "c6e2edaa-26e0-430f-9f97-e18cd9bee381",
+        "title": "Software Engineer - New College Grad-2024",
+        "active": true,
+        "date_updated": 1715353763,
+        "date_posted": 1715353763,
+        "url": "https://jobs.smartrecruiters.com/Visa/743999986682224",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Rhombus Power",
+        "id": "65c53951-bb07-46cb-88fc-0908b21e8990",
+        "title": "Data Engineer - Palo Alto",
+        "active": true,
+        "date_updated": 1715297018,
+        "date_posted": 1715297018,
+        "url": "https://boards.greenhouse.io/rhombuspower/jobs/5432887003",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Rhombus-Power",
         "is_visible": true,
         "sponsorship": "Other"
     }
