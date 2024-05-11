@@ -453,7 +453,7 @@
         "company_name": "The Voleon Group",
         "id": "05818f02-8334-4c43-bc92-eb2b09113918",
         "title": "Data Scientist",
-        "active": false,
+        "active": true,
         "date_updated": 1692032813,
         "date_posted": 1691191171,
         "url": "https://jobs.lever.co/voleon/ebd0306d-4353-4b10-be9d-479af8127617/apply",
@@ -1324,7 +1324,7 @@
         "company_name": "Yassir",
         "id": "47e3203f-d811-42a2-b395-7f23beb827ca",
         "title": "Backend Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1690960496,
         "date_posted": 1690960496,
         "url": "https://jobs.lever.co/Yassir/13c90265-5c71-492d-a570-9c3af60282b0/apply",
@@ -1452,7 +1452,7 @@
         "company_name": "Yassir",
         "id": "c52d4c1c-df8d-4ac0-9859-bae2096e5f09",
         "title": "Backend Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1690960498,
         "date_posted": 1690960498,
         "url": "https://jobs.lever.co/Yassir/81cd65c0-f7bb-40a2-9a7a-a377db85bf7f/apply",
@@ -1548,7 +1548,7 @@
         "company_name": "Point72",
         "id": "95aecc3f-675c-4152-8ce7-1da05cf5b4f3",
         "title": "Data Scientist - Proprietary Research",
-        "active": true,
+        "active": false,
         "date_updated": 1689750728,
         "date_posted": 1689750728,
         "url": "https://boards.greenhouse.io/point72/jobs/4644238002",
@@ -1856,7 +1856,7 @@
         "company_name": "ION Group",
         "id": "753bdcf8-6983-4344-b7cd-4833a9b33bc8",
         "title": "Trading Support Analyst - Toronto",
-        "active": false,
+        "active": true,
         "date_updated": 1689750979,
         "date_posted": 1689750979,
         "url": "https://jobs.lever.co/ion/cdbeca09-e04a-4dfe-9b2e-9b125f2881e3/apply",
@@ -1872,7 +1872,7 @@
         "company_name": "Virtu Financial",
         "id": "01ef514b-1dad-40b9-8337-a7de56fa9337",
         "title": "Trading Operations Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1689750412,
         "date_posted": 1689750412,
         "url": "https://boards.greenhouse.io/virtu/jobs/5068225002",
@@ -1888,7 +1888,7 @@
         "company_name": "Vatic Investments",
         "id": "23894828-e082-4590-b0bf-b6af86ba42b1",
         "title": "Quantitative Researcher \u2013 Grads - Full Time",
-        "active": true,
+        "active": false,
         "date_updated": 1689751418,
         "date_posted": 1689751418,
         "url": "https://boards.greenhouse.io/vaticlabs/jobs/53549",
@@ -1904,7 +1904,7 @@
         "company_name": "ION Group",
         "id": "038e3a4b-e145-43f1-b036-94725b6dfea0",
         "title": "Trading Support Analyst - Jersey City",
-        "active": false,
+        "active": true,
         "date_updated": 1689750979,
         "date_posted": 1689750979,
         "url": "https://jobs.lever.co/ion/aac1933b-9db6-4252-b44e-7a3f55d68c47/apply",
@@ -2403,7 +2403,7 @@
         "company_name": "Ramp",
         "id": "e41da6ef-819c-48f2-98a9-d4717ceb3fa8",
         "title": "New Grad 2024 - Software Engineer - Frontend",
-        "active": true,
+        "active": false,
         "date_updated": 1693379771,
         "date_posted": 1693379771,
         "url": "https://jobs.ashbyhq.com/ramp/0ae01d73-3f48-4722-9810-0c6c1940d7bd/application",
@@ -2675,7 +2675,7 @@
         "company_name": "January",
         "id": "c11eb3c6-2cb0-4cab-aafa-6c19d508fb16",
         "title": "Software Engineer - San Francisco",
-        "active": false,
+        "active": true,
         "date_updated": 1693523739,
         "date_posted": 1693523739,
         "url": "https://boards.greenhouse.io/january/jobs/4017062007",
@@ -3941,7 +3941,7 @@
         "company_name": "HPR (Hyannis Port Research)",
         "id": "96c767c5-c497-4669-9bc9-2df91901eccd",
         "title": "Software Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1695568494,
         "date_posted": 1695568494,
         "url": "https://boards.greenhouse.io/hyannisportresearch/jobs/5597621003",
@@ -4908,7 +4908,7 @@
         "company_name": "Waterfront International",
         "id": "66ef22a4-a749-4b77-b3f9-b4615aefe5af",
         "title": "Student Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1697747029,
         "date_posted": 1697671405,
         "url": "https://boards.greenhouse.io/wil/jobs/1448818",
@@ -5951,7 +5951,7 @@
         "company_name": "E-Space",
         "id": "5205eacd-2c6b-4166-bdb3-58c6e4fe2c35",
         "title": "GNC Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1701475750,
         "date_posted": 1701475750,
         "url": "https://jobs.lever.co/espace/0d7b029d-555b-497a-993b-700bf96cd74f/apply",
@@ -7114,7 +7114,7 @@
         "company_name": "The Voleon Group",
         "id": "86d928ac-1df6-431a-82b1-9d729a6aaf9c",
         "title": "Data Scientist",
-        "active": false,
+        "active": true,
         "date_updated": 1709954363,
         "date_posted": 1705537512,
         "url": "https://jobs.lever.co/voleon/3e70512a-a6e7-42a3-b263-86120bc11051/apply",
@@ -7162,7 +7162,7 @@
         "company_name": "Codazen",
         "id": "072b3c31-67dc-4102-a448-8257aca7d419",
         "title": "Full-Stack Engineer Summer 2024 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1705623524,
         "date_posted": 1705623524,
         "url": "https://boards.greenhouse.io/codazen/jobs/4980889004",
@@ -8110,7 +8110,7 @@
         "company_name": "TigerGraph",
         "id": "f6892350-87e7-4949-b86e-b04103476027",
         "title": "Software Engineer - Infrastructure",
-        "active": true,
+        "active": false,
         "date_updated": 1708568335,
         "date_posted": 1707784239,
         "url": "https://boards.greenhouse.io/tigergraph/jobs/5664024",
@@ -8206,7 +8206,7 @@
         "company_name": "NewsBreak",
         "id": "f6db0437-48c7-4c28-89d5-76d6e4f15f71",
         "title": "Machine Learning Engineer \u2013 Junior & New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1708733578,
         "date_posted": 1708733578,
         "url": "https://boards.greenhouse.io/newsbreak/jobs/4338876006",
@@ -10532,7 +10532,7 @@
         "company_name": "SIRUM",
         "id": "98ae5bb0-351f-4a7a-8c72-f16238501e31",
         "title": "Community Impact Fellow - Platform Team",
-        "active": true,
+        "active": false,
         "date_updated": 1710788883,
         "date_posted": 1707333272,
         "url": "https://boards.greenhouse.io/sirum/jobs/5880375003",
@@ -12719,7 +12719,7 @@
         "company_name": "Cboe",
         "id": "66798a04-9f4e-4ada-ae0f-cd0e75cee460",
         "title": "Trade Desk Specialist - Flex Hybrid OR Remote - Must be willing to work 10:30am - 7:30pm CST",
-        "active": true,
+        "active": false,
         "date_updated": 1712071980,
         "date_posted": 1712071980,
         "url": "https://cboe.wd1.myworkdayjobs.com/en-US/External_Career_CBOE/job/Lenexa-KS/Trade-Desk-Specialist---Flex-Hybrid-OR-Remote---must-be-willing-to-work-10-30am--7-30pm-CST_R-3463",
@@ -12752,7 +12752,7 @@
         "company_name": "Vestmark",
         "id": "bdd03dff-1942-4657-9c9c-763ef09a8a38",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1712086617,
         "date_posted": 1712070666,
         "url": "https://boards.greenhouse.io/vestmark/jobs/5852306",
@@ -12980,7 +12980,7 @@
         "company_name": "Applied Materials",
         "id": "745c47d6-8d55-4db7-8210-02976d6809d7",
         "title": "Software Engineer II - E2",
-        "active": true,
+        "active": false,
         "date_updated": 1712248178,
         "date_posted": 1712248178,
         "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/ChandlerAZ/Software-Engineer-II----E2-_R2412838",
@@ -13348,7 +13348,7 @@
         "company_name": "Ninja Van",
         "id": "273ccbe2-52ce-4616-bd19-5b3bc0e1c9ea",
         "title": "Data Support Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1711150475,
         "date_posted": 1711150475,
         "url": "https://jobs.lever.co/ninjavan/ffff82d3-769f-4c04-9995-04392d3354bc/apply",
@@ -13768,7 +13768,7 @@
         "company_name": "Code and Theory",
         "id": "ae48bcde-2b11-4839-b488-e8ec835ad1a0",
         "title": "Data & Analytics Fellowship",
-        "active": true,
+        "active": false,
         "date_updated": 1713484806,
         "date_posted": 1713484806,
         "url": "https://www.codeandtheory.com/careers/7338319002?gh_jid=7338319002",
@@ -13784,7 +13784,7 @@
         "company_name": "MongoDB",
         "id": "8d32ce49-2ef6-42fa-8b36-ac97f271d2d6",
         "title": "Technical Services Librarian",
-        "active": true,
+        "active": false,
         "date_updated": 1713921902,
         "date_posted": 1713568544,
         "url": "https://www.mongodb.com/careers/job/?gh_jid=5911606",
@@ -13800,7 +13800,7 @@
         "company_name": "MongoDB",
         "id": "5db81e0e-5d3a-4ea8-9dc2-7c58cd95b2d0",
         "title": "Technical Services Librarian",
-        "active": true,
+        "active": false,
         "date_updated": 1713921925,
         "date_posted": 1713568543,
         "url": "https://www.mongodb.com/careers/job/?gh_jid=5918272",
@@ -13816,7 +13816,7 @@
         "company_name": "MongoDB",
         "id": "033f7383-5c3c-4b46-8ccd-3eca33d936ac",
         "title": "Technical Services Librarian",
-        "active": true,
+        "active": false,
         "date_updated": 1713921941,
         "date_posted": 1713568542,
         "url": "https://www.mongodb.com/careers/job/?gh_jid=5918276",
@@ -14056,7 +14056,7 @@
         "company_name": "Point72",
         "id": "e04142ea-01f2-4a8b-943e-0271ba1836de",
         "title": "Point72 Academy Investment Analyst Program for Upcoming Graduates - 2025 - US",
-        "active": true,
+        "active": false,
         "date_updated": 1714662712,
         "date_posted": 1714662712,
         "url": "https://boards.greenhouse.io/point72/jobs/7431897002",
@@ -14107,7 +14107,7 @@
         "company_name": "Affirm",
         "id": "cb0cee44-0dbd-4d29-b9c5-bb8d122e90c1",
         "title": "Quantitative Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1714514888,
         "date_posted": 1714514888,
         "url": "https://boards.greenhouse.io/affirm/jobs/5944661003",
@@ -14315,7 +14315,7 @@
         "company_name": "Trustpilot",
         "id": "10443d8c-fa08-4c4e-b388-f88ed59f4ab6",
         "title": "Associate Data Scientist - B2B",
-        "active": true,
+        "active": false,
         "date_updated": 1715210237,
         "date_posted": 1715210237,
         "url": "https://business.trustpilot.com/jobs/5954273?gh_jid=5954273",
@@ -14331,7 +14331,7 @@
         "company_name": "Dun & Bradstreet",
         "id": "4b3b1b84-2a42-4d38-8fd7-d0616c313ebb",
         "title": "Audience Specialist - R-16058",
-        "active": true,
+        "active": false,
         "date_updated": 1715282398,
         "date_posted": 1713255435,
         "url": "https://jobs.lever.co/dnb/1c6a3813-2cd1-4376-8d5e-a9141c436c7f/apply",
@@ -14371,6 +14371,4756 @@
             "Palo Alto, CA"
         ],
         "company_url": "https://simplify.jobs/c/Rhombus-Power",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Tatari",
+        "id": "8fb46369-6baf-4475-be72-6609c6af072c",
+        "title": "Data Quality Analyst I",
+        "active": true,
+        "date_updated": 1715413460,
+        "date_posted": 1715413460,
+        "url": "https://boards.greenhouse.io/tatari/jobs/7433041002",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Tatari",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Labelbox",
+        "id": "1d3613f1-9dfc-4919-ae1e-b363e5ae4eb5",
+        "title": "AI Tutor \u2013 Hindi - Project based",
+        "active": true,
+        "date_updated": 1715383534,
+        "date_posted": 1715383534,
+        "url": "https://boards.greenhouse.io/labelbox/jobs/4373627007",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Labelbox",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Elegen",
+        "id": "9abaa26c-0b39-456b-be2c-288e411fa39f",
+        "title": "Software Engineer - Testing & Development",
+        "active": true,
+        "date_updated": 1715383213,
+        "date_posted": 1715383213,
+        "url": "https://boards.greenhouse.io/elegen/jobs/4414823005",
+        "locations": [
+            "San Carlos, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Elegen",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Barkley",
+        "id": "eb1b28eb-90ee-4f4c-82c0-4b03a3e7086f",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1715382734,
+        "date_posted": 1715382734,
+        "url": "https://boards.greenhouse.io/barkley/jobs/5177692004",
+        "locations": [
+            "Kansas City, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Barkley",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Alchemy",
+        "id": "01abf2aa-0891-4809-bf61-62d44dca05db",
+        "title": "Software Engineer - Wallet Services - Full Stack",
+        "active": true,
+        "date_updated": 1715382558,
+        "date_posted": 1715382558,
+        "url": "https://boards.greenhouse.io/alchemy/jobs/4419039005",
+        "locations": [
+            "SF",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Alchemy",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Square",
+        "id": "f10dee6a-4cdc-4492-b4b6-7081fd41ea3e",
+        "title": "Android Engineer - Families - Cash App",
+        "active": true,
+        "date_updated": 1715382388,
+        "date_posted": 1715382388,
+        "url": "https://jobs.smartrecruiters.com/Square/743999986716324",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Square",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Accurate Background",
+        "id": "b809133a-554f-46a7-9a41-f2c453bdedf8",
+        "title": "Key Language Researcher - Mandarin",
+        "active": true,
+        "date_updated": 1715382377,
+        "date_posted": 1715382377,
+        "url": "https://jobs.lever.co/accurate/fa17e024-e9b8-4030-9984-f196b2c114dd/apply",
+        "locations": [
+            "Brighton, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/AccurateBG",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Bridgewater Associates",
+        "id": "1a7091e6-dda6-4bb0-ab68-ada28a08c9b7",
+        "title": "Data Associate",
+        "active": true,
+        "date_updated": 1715355036,
+        "date_posted": 1715355036,
+        "url": "https://boards.greenhouse.io/bridgewater89/jobs/4487058002",
+        "locations": [
+            "Westport, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/Bridgewater-Associates",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Galaxy",
+        "id": "c4b4bec1-88f4-45a2-9ce4-9530f567198a",
+        "title": "Associate \u2013 Java Developer - Lending",
+        "active": true,
+        "date_updated": 1715389543,
+        "date_posted": 1715297237,
+        "url": "https://boards.greenhouse.io/galaxydigitalservices/jobs/5176789004",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Galaxy",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Seis",
+        "id": "7d3daf7f-5b2b-4111-ad42-7735f8d1f2d4",
+        "title": "BI Data Analyst - Risk Team",
+        "active": true,
+        "date_updated": 1715296790,
+        "date_posted": 1715296790,
+        "url": "https://jobs.ashbyhq.com/seis/dcd64be9-88e5-49b2-ae94-03ec113e1e71/application",
+        "locations": [
+            "Lehi, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Seis",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Red Ventures",
+        "id": "6ddfa459-114a-495b-8323-b1eb74672832",
+        "title": "Associate Web Publisher - Education",
+        "active": true,
+        "date_updated": 1715239698,
+        "date_posted": 1715239698,
+        "url": "https://www.redventures.com/careers/overview?gh_jid=5904907",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Red-Ventures",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Red Six Aerospace",
+        "id": "eff46996-720b-49b1-ad7c-ba22996178be",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1715210878,
+        "date_posted": 1715210878,
+        "url": "http://red6ar.com/jobs?gh_jid=5175700004",
+        "locations": [
+            "Orlando, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/RedSixAero",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "D2L",
+        "id": "7fa9bc59-9a81-45a9-b836-f69f12926137",
+        "title": "Software Developer - Skillswave",
+        "active": true,
+        "date_updated": 1715210967,
+        "date_posted": 1715210967,
+        "url": "https://www.d2l.com/careers/jobs/?job_id=5947933&gh_jid=5947933",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/D2L",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Moloco",
+        "id": "b1a63e31-8e15-4dd8-b052-afb7be0670bd",
+        "title": "Front End Engineer - Moloco Commerce Media",
+        "active": true,
+        "date_updated": 1715210797,
+        "date_posted": 1715210797,
+        "url": "https://boards.greenhouse.io/moloco/jobs/5878193003",
+        "locations": [
+            "San Carlos, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Moloco",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Red Ventures",
+        "id": "ea3a1710-39af-499a-aed6-efe327205187",
+        "title": "Analyst \u2013 Paid Search - Energy",
+        "active": true,
+        "date_updated": 1715210790,
+        "date_posted": 1715210790,
+        "url": "https://www.redventures.com/careers/overview?gh_jid=5901446",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Red-Ventures",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Flashpoint",
+        "id": "dcd71e1f-0ed0-41cc-ab54-ed6d63115287",
+        "title": "Analyst I \u2013 Rfi",
+        "active": true,
+        "date_updated": 1715210544,
+        "date_posted": 1715210544,
+        "url": "https://boards.greenhouse.io/flashpoint/jobs/7442258002",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/Flashpoint",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "StockX",
+        "id": "68288bc4-965f-45bc-b9a3-d9cb598f332c",
+        "title": "Programmatic & Streaming Media Coordinator",
+        "active": true,
+        "date_updated": 1715210173,
+        "date_posted": 1715210173,
+        "url": "https://boards.greenhouse.io/stockx/jobs/7441771002",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/StockX",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Fortra",
+        "id": "ec54dd7f-61ac-4e30-ad4d-9d7496c290e8",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1715210156,
+        "date_posted": 1715210156,
+        "url": "https://boards.greenhouse.io/fortra/jobs/4364493006",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Fortra",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Belvedere Trading",
+        "id": "a89c94ee-8a52-497b-90d0-228e8b0d158f",
+        "title": "Trading System Support Analyst",
+        "active": true,
+        "date_updated": 1715210089,
+        "date_posted": 1715210089,
+        "url": "https://jobs.lever.co/belvederetrading/50b225a0-09bc-47c6-abe4-5db4502be250/apply",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Belvedere-Trading",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Crypto.com",
+        "id": "14671abd-e368-4d41-bac0-b4bf043e6d0a",
+        "title": "Blockchain Solution Engineer",
+        "active": true,
+        "date_updated": 1715281570,
+        "date_posted": 1715181715,
+        "url": "https://jobs.lever.co/crypto/9ef8921a-cd77-4a3e-885a-f71cbe882d57/apply",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/Crypto-com",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "SMX",
+        "id": "aee2ea5e-392d-4d7e-9aae-8692ccb69468",
+        "title": "Cleared Data Analyst - On Site",
+        "active": true,
+        "date_updated": 1715181759,
+        "date_posted": 1715181759,
+        "url": "https://www.smxtech.com/careers/?gh_jid=5847108003",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Smx",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Astronomer",
+        "id": "c20c802e-5273-4ab1-ae6d-a085cd293ec2",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1715131130,
+        "date_posted": 1715124449,
+        "url": "https://jobs.ashbyhq.com/astronomer/6fd7b4db-ff70-41d6-b0c7-908dc4f3257b/application",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Astronomer",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Red Ventures",
+        "id": "6c64f530-0842-4b56-901b-038ab7286591",
+        "title": "Associate \u2013 Consumer Experience Analyst - Banking",
+        "active": true,
+        "date_updated": 1715217525,
+        "date_posted": 1715124327,
+        "url": "https://www.redventures.com/careers/overview?gh_jid=5936040",
+        "locations": [
+            "Charlotte, NC",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Red-Ventures",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Ledger Investing",
+        "id": "7bda792d-7bfc-4a66-9ed5-5706125113b4",
+        "title": "Reinsurance Data Analyst",
+        "active": true,
+        "date_updated": 1715123966,
+        "date_posted": 1715123966,
+        "url": "https://boards.greenhouse.io/ledgerinvesting/jobs/4412654005",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/LedgerInvesting",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Mediabrands",
+        "id": "933365a5-a598-4ca7-a426-27c9913c0202",
+        "title": "Kinesso \u2013 Associate - Addressable Activation",
+        "active": true,
+        "date_updated": 1715123564,
+        "date_posted": 1715123564,
+        "url": "https://boards.greenhouse.io/mediabrands/jobs/4368381007",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Mediabrands",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Stytch",
+        "id": "3f63d77b-bf18-471b-9b88-10b94f8e70dd",
+        "title": "Developer Success",
+        "active": true,
+        "date_updated": 1715123189,
+        "date_posted": 1715123189,
+        "url": "https://jobs.ashbyhq.com/stytch/e3135bdf-9385-4d94-a6a8-922a62dadda0/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Stytch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Street Context",
+        "id": "bd3fabb9-bcf8-4587-8cea-2957473619c4",
+        "title": "Software Developer 1 - Full Stack",
+        "active": true,
+        "date_updated": 1715094375,
+        "date_posted": 1715094375,
+        "url": "https://jobs.lever.co/streetcontext/48f48ccb-f497-4427-afd4-b371fc13cd5c/apply",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/StreetContext",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Influential",
+        "id": "5018e386-9cbd-4ec7-9bd2-39797f43826b",
+        "title": "Associate \u2013 Data Governance",
+        "active": true,
+        "date_updated": 1715066716,
+        "date_posted": 1715066716,
+        "url": "https://boards.greenhouse.io/influential/jobs/4349912006",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Influential",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Labelbox",
+        "id": "7d7289a7-858c-4d1a-87d3-82a0b2f0aca0",
+        "title": "AI Tutor \u2013 Spanish - Project based",
+        "active": true,
+        "date_updated": 1715038130,
+        "date_posted": 1715038130,
+        "url": "https://boards.greenhouse.io/labelbox/jobs/4368636007",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Labelbox",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Labelbox",
+        "id": "c1e6737d-a3f2-4c21-aa0c-443fde7c38f5",
+        "title": "AI Tutor \u2013 Coding - Project based",
+        "active": true,
+        "date_updated": 1715038130,
+        "date_posted": 1715038130,
+        "url": "https://boards.greenhouse.io/labelbox/jobs/4368624007",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Labelbox",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Upstart",
+        "id": "bfada531-0e31-4c67-bb58-7fcfa2260bf2",
+        "title": "Software Engineer - Home Lending",
+        "active": true,
+        "date_updated": 1715037615,
+        "date_posted": 1715037615,
+        "url": "https://careers.upstart.com/jobs?gh_jid=5944301",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Upstart",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "CoreWeave",
+        "id": "fb690ada-5dfa-4215-8567-b38db9ee5ed1",
+        "title": "Engineer \u2013 Data Platforms",
+        "active": true,
+        "date_updated": 1715037497,
+        "date_posted": 1715037497,
+        "url": "https://boards.greenhouse.io/coreweave/jobs/4366452006",
+        "locations": [
+            "Remote in USA",
+            "Brooklyn, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/CoreWeave",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Popmenu",
+        "id": "f8e5c712-2585-4403-9e83-b6ec5f4a386a",
+        "title": "Support Software Engineer",
+        "active": true,
+        "date_updated": 1715037146,
+        "date_posted": 1715037146,
+        "url": "https://jobs.lever.co/popmenu/0b6a71f0-f733-4e73-88d5-d6692bd64075/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Popmenu",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "ALTEN Technology",
+        "id": "7a02d2f5-9fbb-4435-b421-6c50665be3f4",
+        "title": "Tooling Analyst",
+        "active": true,
+        "date_updated": 1715037093,
+        "date_posted": 1715037093,
+        "url": "https://boards.greenhouse.io/altentechnologyusa/jobs/4368783007",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ALTEN-Technology",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Good Inside",
+        "id": "5a4f65ef-73a1-48de-8230-6aaba636d6ac",
+        "title": "Machine Learning Engineer",
+        "active": true,
+        "date_updated": 1715037089,
+        "date_posted": 1715037089,
+        "url": "https://boards.greenhouse.io/goodinside/jobs/4367959007",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Good-Inside",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Simplebet",
+        "id": "25d24d87-da10-4593-a345-f4bea751bbd1",
+        "title": "Live US Sports Trader",
+        "active": true,
+        "date_updated": 1714979244,
+        "date_posted": 1714979244,
+        "url": "https://jobs.lever.co/simplebet/82dd211e-1a09-4d60-b7da-0f4bf9f022ba/apply",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Simplebet",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Square",
+        "id": "27373c58-1ee5-4b3d-ba80-c3caed15dc22",
+        "title": "Software Engineer - Android - Mobile Developer Experience",
+        "active": true,
+        "date_updated": 1714958182,
+        "date_posted": 1714958182,
+        "url": "https://jobs.smartrecruiters.com/Square/743999985682613",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Square",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Walker Edison",
+        "id": "18c9402f-6077-470d-93d2-a0bba2f074a3",
+        "title": "EDI Developer I",
+        "active": true,
+        "date_updated": 1714778629,
+        "date_posted": 1714778629,
+        "url": "https://boards.greenhouse.io/walkeredison/jobs/5975663003",
+        "locations": [
+            "West Jordan, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Walker-Edison",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Tatari",
+        "id": "29535252-3e7e-4d4f-8bca-e9512f2ddde9",
+        "title": "Data Quality Analyst I",
+        "active": true,
+        "date_updated": 1714692702,
+        "date_posted": 1714692702,
+        "url": "https://boards.greenhouse.io/tatari/jobs/7433042002",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Tatari",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Tatari",
+        "id": "71c668d4-2a70-42cd-9a81-360bb40217dd",
+        "title": "Data Quality Analyst I",
+        "active": true,
+        "date_updated": 1714692702,
+        "date_posted": 1714692702,
+        "url": "https://boards.greenhouse.io/tatari/jobs/7433040002",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tatari",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wayfair",
+        "id": "e4946edb-80cc-4a1f-add7-7791bfc03f31",
+        "title": "Associate Machine Learning Scientist",
+        "active": true,
+        "date_updated": 1714691853,
+        "date_posted": 1714691853,
+        "url": "https://www.wayfair.com/careers/jobs/7256309002?gh_jid=7256309002",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Wayfair",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Canonical",
+        "id": "2c41849d-7bab-4a45-8044-ff85254f4898",
+        "title": "Marketing Data Analyst",
+        "active": true,
+        "date_updated": 1714691304,
+        "date_posted": 1714691304,
+        "url": "https://boards.greenhouse.io/canonical/jobs/5879559",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Canonical",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "GroundTruth",
+        "id": "6a97f9ee-7c92-4834-a746-791d31ad2c8c",
+        "title": "Platform Coordinator",
+        "active": true,
+        "date_updated": 1714691566,
+        "date_posted": 1714691566,
+        "url": "https://groundtruth.com/jobs-groundtruth/?gh_jid=5168264004",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/GroundTruth",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cars Commerce",
+        "id": "ec8e1947-5dad-4fdf-aa5e-585b42ae15ac",
+        "title": "Digital Analyst I",
+        "active": true,
+        "date_updated": 1714691264,
+        "date_posted": 1714691264,
+        "url": "https://boards.greenhouse.io/carsdotcom/jobs/5943830",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cars-Commerce",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "STORD",
+        "id": "0e69bda1-3615-4bf9-9989-1d48b10349b2",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1714486617,
+        "date_posted": 1714486617,
+        "url": "https://boards.greenhouse.io/stord13/jobs/7336063002",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/STORD",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Splunk",
+        "id": "fd8bebef-b615-4fa5-a525-cc5aad6dd2a2",
+        "title": "Software Engineer - Early in Career - Backend/Full-stack",
+        "active": true,
+        "date_updated": 1714511209,
+        "date_posted": 1714511209,
+        "url": "https://jobs.jobvite.com/splunk-careers/job/o9SxsfwK?nl=1&nl=1&fr=false",
+        "locations": [
+            "Colorado",
+            "North Carolina"
+        ],
+        "company_url": "https://simplify.jobs/c/Splunk",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "DigitalOcean",
+        "id": "86f76177-1919-49e7-ae97-2b1f229022d8",
+        "title": "Software Engineer I - Resiliency:Maintenance",
+        "active": true,
+        "date_updated": 1714511280,
+        "date_posted": 1714511280,
+        "url": "https://www.digitalocean.com/careers/position/apply/?gh_jid=5938589",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/DigitalOcean",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Engineers Gate",
+        "id": "935b825f-1a62-4e84-a86d-f3c54802f0fc",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1714548412,
+        "date_posted": 1714548412,
+        "url": "https://boards.greenhouse.io/engineersgate/jobs/5841169",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/EngineersGate",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "DigitalOcean",
+        "id": "bfa5f646-e45c-4fdf-965c-957b1766b9d1",
+        "title": "Software Engineer I - Resiliency:Maintenance",
+        "active": true,
+        "date_updated": 1714511283,
+        "date_posted": 1714511283,
+        "url": "https://www.digitalocean.com/careers/position/apply/?gh_jid=5938363",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/DigitalOcean",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Simbe Robotics",
+        "id": "34fff1ef-47f9-4868-a221-8d6760db4525",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1714510664,
+        "date_posted": 1714510664,
+        "url": "https://jobs.lever.co/SimbeRobotics/4fd4a198-6f53-4b75-8179-7e3b6ad89b78/apply",
+        "locations": [
+            "San Bruno, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/SimbeRobotics",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Challenge Manufacturing",
+        "id": "2e1398dd-a58c-4869-a0ee-e2951557da5f",
+        "title": "Press Packer C shift",
+        "active": true,
+        "date_updated": 1714580514,
+        "date_posted": 1714486467,
+        "url": "https://www.challenge-mfg.com/careers/job/?gh_jid=5167855004",
+        "locations": [
+            "Holland, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Challenge-Manufacturing",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Via",
+        "id": "5006fd59-7d56-46d5-8f1a-2c62840d175a",
+        "title": "Transportation Data Analyst - Citymapper",
+        "active": true,
+        "date_updated": 1715108907,
+        "date_posted": 1714577333,
+        "url": "https://boards.greenhouse.io/via/jobs/6758500002",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Via",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Podium",
+        "id": "1a28a4a6-78ff-46ab-b084-ab7733c06929",
+        "title": "CX Knowledge Manager",
+        "active": true,
+        "date_updated": 1714512798,
+        "date_posted": 1714512798,
+        "url": "https://boards.greenhouse.io/podium81/jobs/5931067",
+        "locations": [
+            "Lehi, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Podium",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Solar Landscape",
+        "id": "2ad2f242-d314-4fc1-ad10-1c6ca330a8c0",
+        "title": "Front-End Engineer",
+        "active": true,
+        "date_updated": 1714605723,
+        "date_posted": 1714605723,
+        "url": "https://jobs.lever.co/solarlandscape/9f63639d-0d7b-4fa7-8cc6-b4d433d8a4b9/apply",
+        "locations": [
+            "Shrewsbury, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Solar-Landscape",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Adtheorant",
+        "id": "ce94d54c-86f2-476c-8c87-2da045f4e7e5",
+        "title": "Associate \u2013 Data & Analytics - NYC",
+        "active": true,
+        "date_updated": 1714605345,
+        "date_posted": 1714605345,
+        "url": "https://apply.workable.com/adtheorent-1/j/9525048AFA/apply",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Adtheorant",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Critical Mass",
+        "id": "362e74f7-bd9a-4f99-81f3-63a7f569e145",
+        "title": "Associate Search - Seo - Strategist",
+        "active": true,
+        "date_updated": 1715282327,
+        "date_posted": 1714604949,
+        "url": "https://boards.greenhouse.io/criticalmass/jobs/5921660",
+        "locations": [
+            "Calgary, AB, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Critical-Mass",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Ekimetrics",
+        "id": "4bb35b74-23cc-4966-b646-7068e8505ba7",
+        "title": "Consultant in Data Engineering",
+        "active": true,
+        "date_updated": 1714604888,
+        "date_posted": 1714604888,
+        "url": "https://jobs.lever.co/ekimetrics/c31a99da-8261-4799-8333-3969ced06c53/apply",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Ekimetrics",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Walmart",
+        "id": "083638b3-442e-4fe9-98e4-b47e537fba96",
+        "title": "2025 Summer Intern: Software Engineer II",
+        "active": true,
+        "date_updated": 1714511681,
+        "date_posted": 1714511681,
+        "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/XMLNAME-2025-Summer-Intern--Software-Engineer-II_R-1859337",
+        "locations": [
+            "Bentonville, AR",
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Walmart",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Latitude AI",
+        "id": "8ab5910a-27c0-4c38-8482-4c1607c98afc",
+        "title": "GIS Production Analyst - Contractor",
+        "active": true,
+        "date_updated": 1714576904,
+        "date_posted": 1714576904,
+        "url": "https://boards.greenhouse.io/latitude/jobs/5939542",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/LatitudeAI",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "YPrime",
+        "id": "aa77c8e6-a0c4-460c-99fb-40fc3a550aff",
+        "title": "Data Management Analyst - UK - 9:00am - 5:00pm GMT",
+        "active": true,
+        "date_updated": 1714483606,
+        "date_posted": 1714483606,
+        "url": "https://boards.greenhouse.io/yprime/jobs/4364525006",
+        "locations": [
+            "Canterbury, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/YPrime",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "theScore",
+        "id": "7c1dfa82-c1c4-4fff-9328-6bcf40010981",
+        "title": "IOS Developer - Sportsbook Engagement",
+        "active": true,
+        "date_updated": 1714245995,
+        "date_posted": 1714245995,
+        "url": "https://boards.greenhouse.io/scoremediaandgaminginc/jobs/4757562004",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/TheScore",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Keywords Studios",
+        "id": "fe147c56-cebf-4fd6-91f4-6ec2ddc51cef",
+        "title": "Sp\u00e9cialiste des requ\u00eates et du langage de l'IA - Langue Indon\u00e9sienne",
+        "active": true,
+        "date_updated": 1714179628,
+        "date_posted": 1714179628,
+        "url": "https://apply.workable.com/keywords-intl1/j/9EC0637963/apply",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/Keywords-Studios",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Keywords Studios",
+        "id": "8a8a921f-f3c6-40c8-b890-1b7614439d9a",
+        "title": "AI Prompt & Language Specialist - English",
+        "active": true,
+        "date_updated": 1714179622,
+        "date_posted": 1714179622,
+        "url": "https://apply.workable.com/keywords-intl1/j/B5960B4CE2/apply",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/Keywords-Studios",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Keywords Studios",
+        "id": "bac1616f-0853-4338-8258-2a43bd95e329",
+        "title": "AI Prompt & Language Specialist - Indonesian",
+        "active": true,
+        "date_updated": 1714457694,
+        "date_posted": 1714179621,
+        "url": "https://apply.workable.com/keywords-intl1/j/C59EFFA503/apply",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/Keywords-Studios",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Keywords Studios",
+        "id": "27cb0d00-761a-4613-8f8b-b57301963bad",
+        "title": "AI Prompt & Language Specialist - Russian",
+        "active": true,
+        "date_updated": 1714457814,
+        "date_posted": 1714179620,
+        "url": "https://apply.workable.com/keywords-intl1/j/07ED1D9D64/apply",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/Keywords-Studios",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Keywords Studios",
+        "id": "c3790391-447c-44b8-9f44-64bb99ce480e",
+        "title": "Sp\u00e9cialiste des requ\u00eates et du langage de l'IA - Langue Anglaise",
+        "active": true,
+        "date_updated": 1714179633,
+        "date_posted": 1714179633,
+        "url": "https://apply.workable.com/keywords-intl1/j/D47E75B7A7/apply",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/Keywords-Studios",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Yellowbrick",
+        "id": "3590fde8-4abc-44e8-bfb6-b62b5a904443",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1714179418,
+        "date_posted": 1714179418,
+        "url": "https://www.yellowbrick.com/company/careers/7328241002/?gh_jid=7328241002",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Yellowbrick",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Lincoln International",
+        "id": "ca9f4d6c-1831-49df-a42e-2ef7e1a6e961",
+        "title": "Valuation Systems Analyst",
+        "active": true,
+        "date_updated": 1714509975,
+        "date_posted": 1714179117,
+        "url": "http://www.lincolninternational.com/greenhouse/?gh_jid=5931823",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/LincolnInternational",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Jerry",
+        "id": "1cdcc377-e331-42e8-b36b-3a84949fe0d7",
+        "title": "Associate Software Engineer - Toronto",
+        "active": true,
+        "date_updated": 1714177375,
+        "date_posted": 1714177375,
+        "url": "https://jobs.ashbyhq.com/Jerry/2884c850-9a03-4461-952e-752c87e56ec4/application",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "SEO (Sponsors for Educational Opportunity)",
+        "id": "30d9e0ac-b56e-4c4d-9c0d-e4e799450227",
+        "title": "10th-11th Math Associate Instructor - Summer 2024",
+        "active": true,
+        "date_updated": 1714177287,
+        "date_posted": 1714177287,
+        "url": "https://boards.greenhouse.io/sponsorsforeducationalopportunity/jobs/7321549002",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/SEO",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "DoraHacks",
+        "id": "4c657d4d-a493-45fe-8a0a-3dd2530544e7",
+        "title": "Product Specialist",
+        "active": true,
+        "date_updated": 1714177038,
+        "date_posted": 1714177038,
+        "url": "https://jobs.lever.co/DoraHacks/50a13adb-9b5a-49eb-95ff-5026397da1a9/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/DoraHacks",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Octopus Energy",
+        "id": "0dda6e24-7c7f-4579-a73d-218338488037",
+        "title": "Low Carbon Tech Analyst",
+        "active": true,
+        "date_updated": 1714507175,
+        "date_posted": 1714177084,
+        "url": "https://jobs.lever.co/octoenergy/1c637128-ea77-4c37-a5ad-c9b37c81f541/apply",
+        "locations": [
+            "Manchester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Octopus-energy",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Citylitics",
+        "id": "c47cc53b-0c05-47c0-ab78-1f136f936691",
+        "title": "Data Associate - 6 Month Contract",
+        "active": true,
+        "date_updated": 1714145458,
+        "date_posted": 1714145458,
+        "url": "https://apply.workable.com/citylitics/j/EBE56A5291/apply",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Citylitics",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "84.51 Degrees",
+        "id": "ecce1032-2887-4ef7-8422-d9cb81957fa3",
+        "title": "Software Engineer - Quality Engineering - P431",
+        "active": true,
+        "date_updated": 1714145300,
+        "date_posted": 1714145300,
+        "url": "https://boards.greenhouse.io/8451/jobs/7321348002",
+        "locations": [
+            "Chicago, IL",
+            "Highland Park, IL",
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/84-51",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Benesch",
+        "id": "ca76d72c-8692-4d1d-839f-c1a03d1dad5f",
+        "title": "Transit Planner I",
+        "active": true,
+        "date_updated": 1714108882,
+        "date_posted": 1714108882,
+        "url": "https://www.benesch.com/job-openings/4288163007?gh_jid=4288163007",
+        "locations": [
+            "Fort Lauderdale, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Benesch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Saronic",
+        "id": "fe60d9ed-8e40-48d8-971d-65d20b2c96ac",
+        "title": "EHS Technician",
+        "active": true,
+        "date_updated": 1715282166,
+        "date_posted": 1714037794,
+        "url": "https://jobs.lever.co/saronic/d5c94b8e-e2f7-46e9-ac9f-3c1dd5f21f5e/apply",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Saronic",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Keywords Studios",
+        "id": "80651eb3-924d-49da-9977-bfbc9778ca92",
+        "title": "AI Prompt & Language Specialist - Arabic",
+        "active": true,
+        "date_updated": 1714457755,
+        "date_posted": 1714034845,
+        "url": "https://apply.workable.com/keywords-intl1/j/F1BB7B6129/apply",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/Keywords-Studios",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Propelus",
+        "id": "71cb0b24-25ca-4048-b94d-aa245678d1bc",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1714763618,
+        "date_posted": 1714034965,
+        "url": "https://jobs.ashbyhq.com/propelus/0bd30d0c-9661-466f-8eec-1399db09d427/application",
+        "locations": [
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Propelus",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Keywords Studios",
+        "id": "a51fbc95-7aef-4b04-8b07-46a8a25ebd16",
+        "title": "AI Prompt & Language Specialist - Portuguese",
+        "active": true,
+        "date_updated": 1714430442,
+        "date_posted": 1714034844,
+        "url": "https://apply.workable.com/keywords-intl1/j/FACB495B19/apply",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/Keywords-Studios",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Affirm",
+        "id": "0863a23c-7037-4dcf-a715-0660c73b10c5",
+        "title": "Software Engineer I - Partner Interface - CAN",
+        "active": true,
+        "date_updated": 1714034811,
+        "date_posted": 1714034811,
+        "url": "https://boards.greenhouse.io/affirm/jobs/5952972003",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/Affirm",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Keywords Studios",
+        "id": "b000e85e-6374-4b00-9220-d92e4ae69e87",
+        "title": "AI Prompt & Language Specialist - Italian",
+        "active": true,
+        "date_updated": 1714457734,
+        "date_posted": 1714034845,
+        "url": "https://apply.workable.com/keywords-intl1/j/5F89D35669/apply",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/Keywords-Studios",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Verra Mobility",
+        "id": "295bade9-6d8c-4111-a591-4ff53cbdf6ba",
+        "title": "Associate Data Analyst",
+        "active": true,
+        "date_updated": 1714034806,
+        "date_posted": 1714034806,
+        "url": "https://boards.greenhouse.io/verramobility/jobs/4361833006",
+        "locations": [
+            "Southampton, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Verra-Mobility",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Keywords Studios",
+        "id": "209ba3f3-9ff7-4f0b-8dfe-137e5abd4df1",
+        "title": "AI Prompt & Language Specialist - Spanish",
+        "active": true,
+        "date_updated": 1714430464,
+        "date_posted": 1714034844,
+        "url": "https://apply.workable.com/keywords-intl1/j/D279B71F6E/apply",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/Keywords-Studios",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Keywords Studios",
+        "id": "826dbe88-cf55-4853-9456-f596a75ecd14",
+        "title": "Sp\u00e9cialiste des requ\u00eates et du langage de l'IA - Langue Espagnole",
+        "active": true,
+        "date_updated": 1714022810,
+        "date_posted": 1714022810,
+        "url": "https://apply.workable.com/keywords-intl1/j/DFEA478EE4/apply",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/Keywords-Studios",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Keywords Studios",
+        "id": "8c0fc586-af65-4a0b-b53a-973d331de254",
+        "title": "Sp\u00e9cialiste des requ\u00eates et du langage de l'IA - Langue Italienne",
+        "active": true,
+        "date_updated": 1714023175,
+        "date_posted": 1714023175,
+        "url": "https://apply.workable.com/keywords-intl1/j/D7464889D5/apply",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/Keywords-Studios",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Keywords Studios",
+        "id": "ba5ae1ae-30a6-49c7-87e9-4525e34df4a4",
+        "title": "AI Prompt & Language Specialist - Korean",
+        "active": true,
+        "date_updated": 1714457842,
+        "date_posted": 1714022457,
+        "url": "https://apply.workable.com/keywords-intl1/j/B43410F458/apply",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/Keywords-Studios",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Keywords Studios",
+        "id": "ff86cccb-acd4-47a4-b9b9-bfcb3759c86c",
+        "title": "AI Prompt & Language Specialist - Japanese",
+        "active": true,
+        "date_updated": 1714457754,
+        "date_posted": 1714023167,
+        "url": "https://apply.workable.com/keywords-intl1/j/D45F67A641/apply",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/Keywords-Studios",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Sanctuary AI",
+        "id": "89cef231-1300-4c9e-b889-d6340b915b4d",
+        "title": "Software Engineer - Robotics Simulation",
+        "active": true,
+        "date_updated": 1715281566,
+        "date_posted": 1714023997,
+        "url": "https://jobs.lever.co/sanctuary/070e51db-2fde-45c1-94ff-761a3bb5b85b/apply",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Sanctuary-AI",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Zynga",
+        "id": "fdcd3755-a7a8-4778-8a17-926b78453b27",
+        "title": "Software Engineer 1 - Client - Harry Potter",
+        "active": true,
+        "date_updated": 1714156657,
+        "date_posted": 1714023821,
+        "url": "https://boards.greenhouse.io/zynga/jobs/5162041004",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Zynga",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Keywords Studios",
+        "id": "1f3120fc-51af-4808-97ee-4c9f91eab9c9",
+        "title": "AI Prompt & Language Specialist - French",
+        "active": true,
+        "date_updated": 1714430422,
+        "date_posted": 1714023529,
+        "url": "https://apply.workable.com/keywords-intl1/j/42EB1FAECD/apply",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/Keywords-Studios",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Keywords Studios",
+        "id": "14f5141e-5b88-4cb4-9567-142bd1734658",
+        "title": "AI Prompt & Language Specialist - Hindi",
+        "active": true,
+        "date_updated": 1714430466,
+        "date_posted": 1714023526,
+        "url": "https://apply.workable.com/keywords-intl1/j/B7B9B40CD6/apply",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/Keywords-Studios",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Keywords Studios",
+        "id": "46afed09-8442-4e16-bf8a-ff1aac7da8fb",
+        "title": "Sp\u00e9cialiste des requ\u00eates et du langage de l'IA - Langue Fran\u00e7aise",
+        "active": true,
+        "date_updated": 1714022629,
+        "date_posted": 1714022629,
+        "url": "https://apply.workable.com/keywords-intl1/j/23DBDB286E/apply",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/Keywords-Studios",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Allen Integrated Solutions LLC",
+        "id": "3a1702b7-d377-4f68-975b-a59c1359c51e",
+        "title": "Data Analyst Job",
+        "active": true,
+        "date_updated": 1708960490,
+        "date_posted": 1702575605,
+        "url": "https://boards.greenhouse.io/allenintegratedsolutions/jobs/5815185003",
+        "locations": [
+            "Tampa, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Allen-Integrated-Solutions-LLC",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Keywords Studios",
+        "id": "f6639455-d144-45a2-b370-456d91ec2d90",
+        "title": "AI Prompt & Language Specialist - Finnish",
+        "active": true,
+        "date_updated": 1714457743,
+        "date_posted": 1714013631,
+        "url": "https://apply.workable.com/keywords-intl1/j/655E1BCA22/apply",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/Keywords-Studios",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Keywords Studios",
+        "id": "974cbafe-2edd-44a5-9992-a564dfce6fcf",
+        "title": "Sp\u00e9cialiste des requ\u00eates et du langage de l'IA - Finnois",
+        "active": true,
+        "date_updated": 1714012453,
+        "date_posted": 1714012453,
+        "url": "https://apply.workable.com/keywords-intl1/j/12D6E98B38/apply",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/Keywords-Studios",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Keywords Studios",
+        "id": "82d32a11-34dd-43ac-ad03-37fc75e10e3e",
+        "title": "AI Prompt & Language Specialist - Dutch",
+        "active": true,
+        "date_updated": 1714457801,
+        "date_posted": 1714012445,
+        "url": "https://apply.workable.com/keywords-intl1/j/5EE47710C9/apply",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/Keywords-Studios",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Keywords Studios",
+        "id": "322e74d6-262b-468e-8256-d2c03a16ef67",
+        "title": "Sp\u00e9cialiste des requ\u00eates et du langage de l'IA - Langue Arabe",
+        "active": true,
+        "date_updated": 1714012456,
+        "date_posted": 1714012456,
+        "url": "https://apply.workable.com/keywords-intl1/j/47B21F88F0/apply",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/Keywords-Studios",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "FanDuel",
+        "id": "a6e29093-af79-44ee-b8ae-14461b4cb0f8",
+        "title": "Software Engineer - Fraud",
+        "active": true,
+        "date_updated": 1713554947,
+        "date_posted": 1713554947,
+        "url": "https://www.fanduel.careers/open-positions?gh_jid=5918399",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/FanDuel",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wiley Edge",
+        "id": "090c0e93-df98-4827-9149-d71796a7b0ba",
+        "title": "Electronic Trading Support Analyst",
+        "active": true,
+        "date_updated": 1711035308,
+        "date_posted": 1711035308,
+        "url": "https://boards.greenhouse.io/wileyedgerecruitingportal/jobs/4350260006",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/WileyEdge",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Scale AI",
+        "id": "1790559a-424c-4c22-ac2e-30c901e6b0dd",
+        "title": "Data Labeling Quality Specialist - Public Sector - Contract",
+        "active": true,
+        "date_updated": 1707855325,
+        "date_posted": 1689751333,
+        "url": "https://boards.greenhouse.io/scaleai/jobs/4205018005",
+        "locations": [
+            "St. Louis, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Scale-AI",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wayfair",
+        "id": "2ef12825-b82e-469c-bce1-5143ba596066",
+        "title": "Software Engineer I - Summer 2024",
+        "active": true,
+        "date_updated": 1709583140,
+        "date_posted": 1708359003,
+        "url": "https://www.wayfair.com/careers/jobs/6945942002?gh_jid=6945942002",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Wayfair",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "CarGurus",
+        "id": "b955c23f-822f-4778-81b5-33c5b343d113",
+        "title": "Data Pipeline Engineer - Caroffer",
+        "active": true,
+        "date_updated": 1711220266,
+        "date_posted": 1711035487,
+        "url": "https://ats.comparably.com/api/v1/gh/cargurus/jobs/5820365?gh_jid=5820365",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/CarGurus",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "minware",
+        "id": "aafd82da-4697-4e3e-a617-6eff7e4c0688",
+        "title": "Front End Engineer",
+        "active": true,
+        "date_updated": 1715282330,
+        "date_posted": 1712511125,
+        "url": "https://boards.greenhouse.io/minware/jobs/4405264005",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Minware",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "minware",
+        "id": "c564cfe1-469c-471a-8545-5e762290eaa7",
+        "title": "Front End Engineer",
+        "active": true,
+        "date_updated": 1715282551,
+        "date_posted": 1712510048,
+        "url": "https://boards.greenhouse.io/minware/jobs/4405275005",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Minware",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Jane Street",
+        "id": "6b51a0ac-f794-4e5c-8901-9ff7fa1c735f",
+        "title": "Market Data Specialist - Metadata",
+        "active": true,
+        "date_updated": 1711099220,
+        "date_posted": 1711099220,
+        "url": "https://boards.greenhouse.io/janestreet/jobs/7216850002",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Jane-Street",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "The Voleon Group",
+        "id": "d94ab5f4-c224-450c-9a5b-bbc1234811be",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1715303934,
+        "date_posted": 1708129464,
+        "url": "https://jobs.lever.co/voleon/1a52c9aa-7c18-46e7-b342-a91442ed5349/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Voleon-Group",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Zynga",
+        "id": "adf24158-5afb-4139-9b86-91fe26f817cb",
+        "title": "Software Engineer-1",
+        "active": true,
+        "date_updated": 1711265393,
+        "date_posted": 1711265393,
+        "url": "https://boards.greenhouse.io/zynga/jobs/4389758004",
+        "locations": [
+            "United Kingdom"
+        ],
+        "company_url": "https://simplify.jobs/c/Zynga",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Saviynt",
+        "id": "a0bcf464-728a-4df1-99e4-1be3b1d3b1d5",
+        "title": "Associate Engineer - Software Engineering",
+        "active": true,
+        "date_updated": 1715044257,
+        "date_posted": 1691911540,
+        "url": "https://jobs.lever.co/saviynt/dec76671-c6d7-47f5-bf1a-90e3c11037ea/apply",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Saviynt",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "3RedPartners",
+        "id": "f577c9be-0138-4283-ac9f-0c18719ac999",
+        "title": "Assistant Trader",
+        "active": true,
+        "date_updated": 1690355758,
+        "date_posted": 1690355758,
+        "url": "https://boards.greenhouse.io/3redpartners/jobs/5597626002",
+        "locations": [
+            "Miami, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/3redpartners",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "xAI",
+        "id": "8c3794e0-4443-4589-8c84-6aec5d5f688c",
+        "title": "AI Tutor",
+        "active": true,
+        "date_updated": 1714361590,
+        "date_posted": 1713434835,
+        "url": "https://boards.greenhouse.io/xai/jobs/4101903007",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/xAI",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Weedmaps",
+        "id": "56335156-892f-4d81-804a-441af65fd0fa",
+        "title": "Software Engineer I - Android - Hybrid",
+        "active": true,
+        "date_updated": 1713913568,
+        "date_posted": 1713913568,
+        "url": "https://boards.greenhouse.io/weedmaps77/jobs/7251795002",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Weedmaps",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Encord",
+        "id": "6f4aad0b-9fcb-45d3-8257-7328f02cb339",
+        "title": "Bdr \u2013 AI Vertical - US - San Francisco",
+        "active": true,
+        "date_updated": 1712691532,
+        "date_posted": 1708388784,
+        "url": "https://jobs.lever.co/CordTechnologies/fd8869c9-7a17-402f-82ca-64ba25e30057/apply",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Encord",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Credit Karma",
+        "id": "17b087bd-ec46-42af-8d68-250912d4dba2",
+        "title": "Mobile Software Engineer - Android - All Levels",
+        "active": true,
+        "date_updated": 1710343840,
+        "date_posted": 1710343840,
+        "url": "https://boards.greenhouse.io/creditkarma/jobs/4427897003",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Credit-Karma",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Appen",
+        "id": "1bf8f0eb-7d4f-486f-8733-8501216e08e5",
+        "title": "Data Collection Engineer",
+        "active": true,
+        "date_updated": 1715281985,
+        "date_posted": 1711528304,
+        "url": "https://jobs.lever.co/appen-2/5bea4e77-86f8-434e-83d3-d8149d28ab5b/apply",
+        "locations": [
+            "Birmingham, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Appen",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Optiver",
+        "id": "30156050-febb-45e8-ad44-a81bfa5411be",
+        "title": "Software Engineer - Developer Excellence",
+        "active": true,
+        "date_updated": 1711561644,
+        "date_posted": 1711561644,
+        "url": "https://optiver.com/working-at-optiver/career-opportunities/7298389002/?gh_jid=7298389002",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Optiver",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Techruiter",
+        "id": "f8c66652-5874-419e-9e8e-de6eba2ca10a",
+        "title": "Front End Engineer - PHP/Javascript",
+        "active": true,
+        "date_updated": 1699523590,
+        "date_posted": 1699523590,
+        "url": "https://jobs.lever.co/techruiter/52343159-3717-4419-a7f1-c51c57b6d7f5/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Techruiter",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Tanius Technology",
+        "id": "a2f34248-090e-4ab3-8416-df2570c66247",
+        "title": "Software Developer",
+        "active": true,
+        "date_updated": 1699527564,
+        "date_posted": 1699527564,
+        "url": "https://boards.greenhouse.io/tanius/jobs/4331524002",
+        "locations": [
+            "Danville, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tanius-Tech",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Injective Labs",
+        "id": "d68b2685-0b01-4e1f-b9b5-e65793c5f0b0",
+        "title": "Integrations Engineer - US based",
+        "active": true,
+        "date_updated": 1715281808,
+        "date_posted": 1713435828,
+        "url": "https://jobs.lever.co/injectivelabs/f5c30c40-571e-434c-a742-f8cb3374006a/apply",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Injective-Labs",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Canonical",
+        "id": "47666c08-baec-47ca-9502-76fedd38f84f",
+        "title": "Linux Desktop Support Associate",
+        "active": true,
+        "date_updated": 1712004092,
+        "date_posted": 1711875808,
+        "url": "https://boards.greenhouse.io/canonical/jobs/3362177",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Canonical",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Govini",
+        "id": "18be28b3-2013-4e0e-a15c-03b1c31cecc1",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1715043951,
+        "date_posted": 1709050903,
+        "url": "https://jobs.lever.co/govini/e91e9eb9-fd2e-4bea-8560-62978cd8f775/apply",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Govini",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "MotherDuck",
+        "id": "432702a5-4f70-4687-82f8-826d765b0e51",
+        "title": "Data Engineering Advocate",
+        "active": true,
+        "date_updated": 1711110798,
+        "date_posted": 1711110798,
+        "url": "https://jobs.ashbyhq.com/MotherDuck/2392b147-544f-47a2-aa01-cbd278bdb84c/application",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/MotherDuck",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Vail Systems",
+        "id": "a2eafbe1-b4eb-4172-97ad-050a51d2a225",
+        "title": "Software Engineer - Ivr",
+        "active": true,
+        "date_updated": 1715303489,
+        "date_posted": 1689750822,
+        "url": "https://jobs.lever.co/vailsys/c2775699-21d7-466b-9eff-1c619efda71b/apply",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Vail-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Five9",
+        "id": "ec93629b-63b7-4341-a4bd-5a8fa9de551d",
+        "title": "Associate IVA Developer - Professional Services",
+        "active": true,
+        "date_updated": 1711585699,
+        "date_posted": 1711585699,
+        "url": "https://www.five9.com/about/careers/job-detail?gh_jid=5130024004",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Five9",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Art of Problem Solving",
+        "id": "ba3f7f40-2f00-4f6a-96ae-5061a5fa7b90",
+        "title": "Math Instructor",
+        "active": true,
+        "date_updated": 1711258390,
+        "date_posted": 1711258390,
+        "url": "https://artofproblemsolving.com/careers/job/5846108003?gh_jid=5846108003",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Art-of-Problem-Solving",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Datalab USA",
+        "id": "b672be27-15b7-4185-aa7c-d0ea82027d47",
+        "title": "Programmer Analyst - Marketing Analytics",
+        "active": true,
+        "date_updated": 1713485584,
+        "date_posted": 1713485584,
+        "url": "https://jobs.lever.co/datalabusa/b9a606d7-4d59-4a9d-9ad1-47799cc3e474/apply",
+        "locations": [
+            "Germantown, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Datalab-USA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Openmesh Networks",
+        "id": "610de21e-aa4e-4b26-8b30-a19dec4d0eec",
+        "title": "Junior Consensus Algorithm Developer - Blockchain Consensus and Development",
+        "active": true,
+        "date_updated": 1714957822,
+        "date_posted": 1707333698,
+        "url": "https://boards.greenhouse.io/openmesh/jobs/4145595007",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Openmesh-Networks",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Intercom",
+        "id": "9c74a7b8-acde-4a2a-bc53-2706a574cb22",
+        "title": "Data Scientist - Product Analytics",
+        "active": true,
+        "date_updated": 1711247646,
+        "date_posted": 1704990078,
+        "url": "https://boards.greenhouse.io/intercom/jobs/5615530",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Intercom",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Anaplan",
+        "id": "6b0b3dfc-83b3-49e1-bc02-4c967878d04b",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1712889815,
+        "date_posted": 1709253080,
+        "url": "https://boards.greenhouse.io/anaplan/jobs/7257269002",
+        "locations": [
+            "York, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Anaplan",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "HRL Laboratories",
+        "id": "2802716c-a772-4945-bf49-db836a469aca",
+        "title": "Inventory Control Specialist",
+        "active": true,
+        "date_updated": 1715281757,
+        "date_posted": 1711110692,
+        "url": "https://jobs.lever.co/dodmg/9f3ba949-b1eb-46c2-934d-9a620a7ab591/apply",
+        "locations": [
+            "Malibu, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/HRL-Laboratories",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Colibri Group",
+        "id": "c21233bb-69c7-40cf-a880-b08bfc4f3d15",
+        "title": "Online Course Developer",
+        "active": true,
+        "date_updated": 1711101482,
+        "date_posted": 1711101482,
+        "url": "https://jobs.lever.co/colibrigroup/879e53f1-b243-4825-8933-e8392ba17bfd/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/ColibriGroup",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Mediabrands",
+        "id": "29b414dd-76af-4038-a241-f96b9bb05d66",
+        "title": "Trading Account Executive - Entry-Level",
+        "active": true,
+        "date_updated": 1713199577,
+        "date_posted": 1713199577,
+        "url": "https://boards.greenhouse.io/mediabrands/jobs/4274081007",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Mediabrands",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Datalab USA",
+        "id": "cb777db7-7590-4e52-b7d6-95703bcb1112",
+        "title": "Programmer Analyst - Marketing Analytics",
+        "active": true,
+        "date_updated": 1713435484,
+        "date_posted": 1713435484,
+        "url": "https://jobs.lever.co/datalabusa/9ea1c7f4-1e9d-41b1-b65a-0ae90c4ae2ff/apply",
+        "locations": [
+            "Broomfield, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Datalab-USA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Vail Systems",
+        "id": "0314848a-ae74-404d-9385-e586596098bf",
+        "title": "Software Engineer - Ivr",
+        "active": true,
+        "date_updated": 1715303467,
+        "date_posted": 1704384563,
+        "url": "https://jobs.lever.co/vailsys/50747f82-bdfe-4d12-84f2-a52109efdb33/apply",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Vail-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Digital.ai",
+        "id": "b8c5e1ed-1f4e-4518-a0e6-accb89e12be7",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1713291237,
+        "date_posted": 1713291237,
+        "url": "https://digital.ai/current-job-openings?gh_jid=5940016003",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/DigitalAI",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "BigCommerce",
+        "id": "7489e381-c30f-4283-8275-1c9557bd0dd9",
+        "title": "Engineering Talent in Ukraine",
+        "active": true,
+        "date_updated": 1689751424,
+        "date_posted": 1689751424,
+        "url": "https://careers.bigcommerce.com/jobs/?gh_jid=4220258",
+        "locations": [
+            "Kyiv, Ukraine"
+        ],
+        "company_url": "https://simplify.jobs/c/BigCommerce",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Jam City",
+        "id": "bbf270ac-656b-455f-89d5-50cb59781968",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1715281902,
+        "date_posted": 1710805097,
+        "url": "https://jobs.lever.co/jamcity/42f5c51e-b752-4d8e-9edb-e4f43758b848/apply",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/Jam-City",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Optiver",
+        "id": "973eb732-f6d2-4039-a59f-12938aeaab66",
+        "title": "SPX Floor Trader Trainee",
+        "active": true,
+        "date_updated": 1702325725,
+        "date_posted": 1693005662,
+        "url": "https://optiver.com/working-at-optiver/career-opportunities/6435943002/?gh_jid=6435943002",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Optiver",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Overbond",
+        "id": "3fc59030-1407-4fe7-9fbf-1424de36128a",
+        "title": "Data Scientist - Fixed Income Trading",
+        "active": true,
+        "date_updated": 1712446656,
+        "date_posted": 1712446656,
+        "url": "https://jobs.lever.co/overbond/4340462d-acbd-4881-a00d-be97789a8edc/apply",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/Overbond",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Pison",
+        "id": "880b2529-1a89-45b1-a5d5-980b75aad67b",
+        "title": "Data Collection Technician",
+        "active": true,
+        "date_updated": 1711225855,
+        "date_posted": 1711225855,
+        "url": "https://jobs.lever.co/pison/a4842e38-3c5d-4478-b027-d39da96ce407/apply",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/PisonTech",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Plusgrade",
+        "id": "d90eab34-75c2-4ca3-a462-8d0697f4fcf4",
+        "title": "D\u00e9veloppeur Logiciel - Backend - /Development Engineer - Backend",
+        "active": true,
+        "date_updated": 1711676055,
+        "date_posted": 1711651985,
+        "url": "https://jobs.lever.co/plusgrade/357a1e84-2022-4d4c-8945-8800506baaf9/apply",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Plusgrade",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Tempus",
+        "id": "6278d876-7966-4753-8a85-31b6848957a3",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1712768293,
+        "date_posted": 1712768293,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=4368281002",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Tempus",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Techruiter",
+        "id": "e62db3a7-9d9a-48b9-8688-2a7afcdf4a97",
+        "title": "C++ Developer",
+        "active": true,
+        "date_updated": 1693524355,
+        "date_posted": 1693524355,
+        "url": "https://jobs.lever.co/techruiter/83fce7ff-4f26-4a70-933f-3e0097f84d54/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Techruiter",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Quantcast",
+        "id": "3323dc20-f6f5-4e4e-8218-8ad931498e9a",
+        "title": "Software Engineer - Edge Services",
+        "active": true,
+        "date_updated": 1712448415,
+        "date_posted": 1712448415,
+        "url": "https://jobs.lever.co/quantcast/acc17e5e-f4b9-4253-888b-8b4f1849a689/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Quantcast",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Parabola",
+        "id": "bafe5df0-aa04-4b95-a892-91e0b061a60f",
+        "title": "Product Specialist",
+        "active": true,
+        "date_updated": 1710976797,
+        "date_posted": 1710976797,
+        "url": "https://boards.greenhouse.io/parabola/jobs/4350011006",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Parabola",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "TripAdvisor",
+        "id": "5940ead1-a8c2-4820-b6ca-d274f5698c85",
+        "title": "CRM Specialist",
+        "active": true,
+        "date_updated": 1714110259,
+        "date_posted": 1712016377,
+        "url": "https://boards.greenhouse.io/tripadvisor/jobs/5868226",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/TripAdvisor",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Observe",
+        "id": "a918ea41-cda4-4806-8e04-c03f6452c0ed",
+        "title": "Product Specialist Engineer",
+        "active": true,
+        "date_updated": 1709064466,
+        "date_posted": 1705105346,
+        "url": "https://jobs.lever.co/observeinc/0d5de035-5ba5-4cab-b238-cce9bdfedfd2/apply",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ObserveInc",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Northbeam",
+        "id": "1ded41f7-1707-4f20-842c-da08ccb16c5e",
+        "title": "Staff Data Analyst",
+        "active": true,
+        "date_updated": 1713407052,
+        "date_posted": 1708070861,
+        "url": "https://boards.greenhouse.io/northbeam/jobs/4336603006",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Northbeam",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Second Spectrum",
+        "id": "0c9242f0-696b-4bb8-af12-5cceae36f0e5",
+        "title": "Software Engineer - Video Content Augmentation",
+        "active": true,
+        "date_updated": 1711139336,
+        "date_posted": 1711139336,
+        "url": "https://boards.greenhouse.io/secondspectrum/jobs/5930573003",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/SecondSpectrum",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "minware",
+        "id": "b72aad19-e1b3-4820-9f5c-bcef9cb5fb62",
+        "title": "Front End Engineer",
+        "active": true,
+        "date_updated": 1715282547,
+        "date_posted": 1712510048,
+        "url": "https://boards.greenhouse.io/minware/jobs/4405277005",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Minware",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "MediaAlpha",
+        "id": "a0167663-5d92-4d03-b03a-1e525ca9c895",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1714590291,
+        "date_posted": 1713435639,
+        "url": "https://boards.greenhouse.io/mediaalpha/jobs/6623284002",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/MediaAlpha",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Universal Engineering Sciences",
+        "id": "eea120c3-0574-474b-b411-c57ead6a5d32",
+        "title": "Field Geologist",
+        "active": true,
+        "date_updated": 1715281890,
+        "date_posted": 1713436606,
+        "url": "https://jobs.lever.co/universalengineeringsciences/4211819b-387b-4d6c-902c-29db160eaf3a/apply",
+        "locations": [
+            "Little Rock, AR"
+        ],
+        "company_url": "https://simplify.jobs/c/Universal-Engineering-Sciences",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Virtu Financial",
+        "id": "d38152ee-5860-42f2-99cd-42738dda7b36",
+        "title": "Automation Developer - Python",
+        "active": true,
+        "date_updated": 1709842497,
+        "date_posted": 1708993012,
+        "url": "https://boards.greenhouse.io/virtu/jobs/6167759002",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Virtu-Financial",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "dv01",
+        "id": "e61a5cff-c382-4b25-8f42-ed3f5ad267d4",
+        "title": "Data Analyst - Securitizations Reporting",
+        "active": true,
+        "date_updated": 1707332828,
+        "date_posted": 1707332828,
+        "url": "https://boards.greenhouse.io/dv01/jobs/7181646002",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Dv01",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "ALTEN Technology",
+        "id": "f7839c18-6b44-422f-a61a-2e6af073ccf4",
+        "title": "Software Flashing",
+        "active": true,
+        "date_updated": 1712361188,
+        "date_posted": 1712361188,
+        "url": "https://boards.greenhouse.io/altentechnologyusa/jobs/4342947007",
+        "locations": [
+            "Chattanooga, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/ALTEN-Technology",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Brain Corp",
+        "id": "81cef0d1-2acc-4442-8187-86c226dc338c",
+        "title": "Account Analyst",
+        "active": true,
+        "date_updated": 1713477981,
+        "date_posted": 1713403068,
+        "url": "https://boards.greenhouse.io/braincorporation/jobs/7336422002",
+        "locations": [
+            "Bentonville, AR"
+        ],
+        "company_url": "https://simplify.jobs/c/Brain-Corp",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Tanius Technology",
+        "id": "3785a01d-2ebc-4d60-a6ae-689489ae3f20",
+        "title": "Software Developer",
+        "active": true,
+        "date_updated": 1699527566,
+        "date_posted": 1699527566,
+        "url": "https://boards.greenhouse.io/tanius/jobs/4296333002",
+        "locations": [
+            "Danville, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tanius-Tech",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Windfall",
+        "id": "abb3e89d-88de-4313-be23-534c8e31e5e4",
+        "title": "Implementation Specialist",
+        "active": true,
+        "date_updated": 1715108709,
+        "date_posted": 1710545281,
+        "url": "https://jobs.lever.co/windfalldata/6c7d9ff1-a8af-4b58-8591-054f9825a879/apply",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Windfall-Data",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "The Voleon Group",
+        "id": "71afb9eb-0467-4cf6-b814-513aef008e8f",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1715303885,
+        "date_posted": 1708503659,
+        "url": "https://jobs.lever.co/voleon/e47d5699-5c1a-4b17-bbf4-c948efc0151d/apply",
+        "locations": [
+            "Oakland, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Voleon-Group",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Universal Engineering Sciences",
+        "id": "bb295f6e-af6d-474b-957e-9e30a3966fb5",
+        "title": "Field Geologist",
+        "active": true,
+        "date_updated": 1715281667,
+        "date_posted": 1713436606,
+        "url": "https://jobs.lever.co/universalengineeringsciences/c4eb311f-e2c1-4502-9b9b-90037fa68cab/apply",
+        "locations": [
+            "Springdale, AR"
+        ],
+        "company_url": "https://simplify.jobs/c/Universal-Engineering-Sciences",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Addepar",
+        "id": "23a2a382-b073-4e39-9306-332437ad1f0d",
+        "title": "Portfolio Data Analyst - Portfolio Data",
+        "active": true,
+        "date_updated": 1711730045,
+        "date_posted": 1711730045,
+        "url": "https://boards.greenhouse.io/addepar1/jobs/7294119002",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Addepar",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Allegiant Air",
+        "id": "cc693c64-638e-4fd1-83a4-0d8617ce2344",
+        "title": "A/C Records Admin",
+        "active": true,
+        "date_updated": 1715281893,
+        "date_posted": 1712273992,
+        "url": "https://jobs.lever.co/allegiantair/f9fac0fd-5b4a-4dd2-9cc2-7c22fa2bed45/apply",
+        "locations": [
+            "Las Vegas, NV"
+        ],
+        "company_url": "https://simplify.jobs/c/Allegiant-Air",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "minware",
+        "id": "5f7b528c-c0cc-40d9-8bcb-97e53f82b216",
+        "title": "Front End Engineer",
+        "active": true,
+        "date_updated": 1715282491,
+        "date_posted": 1712510047,
+        "url": "https://boards.greenhouse.io/minware/jobs/4405262005",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Minware",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Koddi",
+        "id": "243efc3e-508c-431c-ae85-8541bbb74432",
+        "title": "Data Scientist - Cohort Program",
+        "active": true,
+        "date_updated": 1710357182,
+        "date_posted": 1709943863,
+        "url": "https://jobs.lever.co/koddi/993d9049-9a2b-448a-ba2a-c1febae37e63/apply",
+        "locations": [
+            "Fort Worth, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Koddi",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Arsiem Corporation",
+        "id": "475a2bef-a6b0-4714-ad3c-f404843053c5",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1691046788,
+        "date_posted": 1691046788,
+        "url": "https://jobs.lever.co/arsiem/d5ee4cc6-4492-4b38-8333-0ea3e142122b/apply",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Arsiem-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "PolyAI",
+        "id": "753e7f82-8897-4030-9255-bf82d19ac449",
+        "title": "Dialogue Engineer - UK Based - 6 month contract",
+        "active": true,
+        "date_updated": 1711584450,
+        "date_posted": 1711584450,
+        "url": "https://apply.workable.com/poly-ai/j/249943B788/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/PolyAI",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Upgrade",
+        "id": "f1faeadd-dd90-4beb-a47b-4d7cb2dbd886",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1712690963,
+        "date_posted": 1712646938,
+        "url": "https://boards.greenhouse.io/upgrade/jobs/4405607005",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Upgrade",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "US Mobile",
+        "id": "2fccda85-f383-4067-87eb-b25d0722f82c",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1692861887,
+        "date_posted": 1692861887,
+        "url": "https://jobs.lever.co/USMobile/8ac5fc08-e0c6-488e-b63d-021cf416749b/apply",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/USMobile",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Red Ventures",
+        "id": "42d0f5af-b03e-4ede-9141-de4c298b201c",
+        "title": "Associate-Customer Experience - Save On Energy",
+        "active": true,
+        "date_updated": 1712870339,
+        "date_posted": 1712595695,
+        "url": "https://www.redventures.com/careers/overview?gh_jid=5741327",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Red-Ventures",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Workwave",
+        "id": "f679ea04-3705-4917-ae4e-81e48179e708",
+        "title": "Data Service Engineer - TEAM Software",
+        "active": true,
+        "date_updated": 1710962113,
+        "date_posted": 1710286574,
+        "url": "https://jobs.lever.co/workwave/c7c1b0a4-ba2b-4405-8917-dfc191953f0f/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Workwave",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Hive",
+        "id": "885c4a8b-e388-4017-89d4-fa549bf318af",
+        "title": "Machine Learning Engineer",
+        "active": true,
+        "date_updated": 1713730371,
+        "date_posted": 1713730371,
+        "url": "https://jobs.lever.co/hive/a06ede4e-46e3-40c8-b2e6-69af1658ab50/apply",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Hive",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Covariant",
+        "id": "1a1ebb62-4d5d-412e-9ae2-190098be6601",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1715368029,
+        "date_posted": 1689751429,
+        "url": "https://jobs.lever.co/covariant/9365ac6b-a1eb-436f-8b76-77691b4bf3fb/apply",
+        "locations": [
+            "Oakland, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Covariant",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "minware",
+        "id": "109754ff-7145-449a-8be9-a3d970cdc4e8",
+        "title": "Front End Engineer",
+        "active": true,
+        "date_updated": 1715282527,
+        "date_posted": 1712510048,
+        "url": "https://boards.greenhouse.io/minware/jobs/4405273005",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Minware",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "ConnectGEN",
+        "id": "268bd708-986a-4ffc-ba0e-43e10895c850",
+        "title": "Analyst/Associate - Transmission & Market Analytics",
+        "active": true,
+        "date_updated": 1711505530,
+        "date_posted": 1709684590,
+        "url": "https://jobs.lever.co/connectgen/feb144c0-feef-4fc2-8308-bab4dfc729ea/apply",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/ConnectGEN",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "minware",
+        "id": "00841873-98cb-4a3a-ada4-bebc8eb31846",
+        "title": "Front End Engineer",
+        "active": true,
+        "date_updated": 1715282370,
+        "date_posted": 1712510051,
+        "url": "https://boards.greenhouse.io/minware/jobs/4405268005",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Minware",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Flynn Companies",
+        "id": "21ea8879-792a-4131-ad96-b66717e99178",
+        "title": "CNC Programmer",
+        "active": true,
+        "date_updated": 1707956044,
+        "date_posted": 1707956044,
+        "url": "https://jobs.lever.co/flynncompanies/7aef473f-e6f5-49d8-ba97-9bc84bff85e1/apply",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Flynn-Companies",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Zanbato",
+        "id": "3d9abcd7-719b-419d-a3fc-426e90521a19",
+        "title": "Full Stack Software Engineer",
+        "active": true,
+        "date_updated": 1706660596,
+        "date_posted": 1706660596,
+        "url": "https://boards.greenhouse.io/zanbato/jobs/5638864",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Zanbato",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "minware",
+        "id": "9a6d31e7-c84d-4ccd-8586-cac0c35d673b",
+        "title": "Front End Engineer",
+        "active": true,
+        "date_updated": 1715282379,
+        "date_posted": 1712510052,
+        "url": "https://boards.greenhouse.io/minware/jobs/4405265005",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Minware",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Constellation Technologies",
+        "id": "e09a262f-c708-4963-9ed8-4fb4290ae699",
+        "title": "Software Engineers - Multiple levels",
+        "active": true,
+        "date_updated": 1713851901,
+        "date_posted": 1713754602,
+        "url": "https://jobs.lever.co/cti-md/20865fbe-739c-4204-b7b0-c8dab3485d56/apply",
+        "locations": [
+            "Odenton, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Constellation-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "US Mobile",
+        "id": "1b0aa987-4a31-442e-92bd-bf5e68afb55f",
+        "title": "Software Engineer - Canada",
+        "active": true,
+        "date_updated": 1712856796,
+        "date_posted": 1712856796,
+        "url": "https://jobs.lever.co/USMobile/b1c677ba-d885-4dd2-a628-508c03e3276c/apply",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/USMobile",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Red Ventures",
+        "id": "e23b83a5-4d1d-4fbc-a257-f49159d9b065",
+        "title": "Associate Software Engineer - AI Products",
+        "active": true,
+        "date_updated": 1714509296,
+        "date_posted": 1712015752,
+        "url": "https://www.redventures.com/careers/overview?gh_jid=5862491",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Red-Ventures",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "minware",
+        "id": "dd60d5e6-cc84-4e1d-9405-fd258f941d40",
+        "title": "Front End Engineer",
+        "active": true,
+        "date_updated": 1715282570,
+        "date_posted": 1712510049,
+        "url": "https://boards.greenhouse.io/minware/jobs/4405271005",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Minware",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Canonical",
+        "id": "9ed0b3c6-f19e-4bdb-a31f-12fc5341d0a6",
+        "title": "Python Software Engineer - Ubuntu Hardware Certification Team",
+        "active": true,
+        "date_updated": 1711109011,
+        "date_posted": 1711109011,
+        "url": "https://boards.greenhouse.io/canonical/jobs/3658005",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Canonical",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Orion Innovation",
+        "id": "342ca3c8-2135-4291-b152-cf317236f00e",
+        "title": "Programmer Analyst - IAC23104",
+        "active": true,
+        "date_updated": 1694503212,
+        "date_posted": 1694503212,
+        "url": "https://www.orioninc.com/careers/job/?gh_jid=4255956006",
+        "locations": [
+            "Edison, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/OrionInnovation",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Barbaricum",
+        "id": "33186d1d-e389-4595-b90b-04b3d29b84af",
+        "title": "Junior Data Scientist",
+        "active": true,
+        "date_updated": 1715282528,
+        "date_posted": 1710199798,
+        "url": "https://jobs.lever.co/barbaricum/019d5121-5961-4bfc-8aa2-ddb55ac40e8e/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Barbaricum",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "WindRanger",
+        "id": "d8843350-ef0a-41ab-9790-abf8ebdeaa84",
+        "title": "Zkvalidator - Research Analyst",
+        "active": true,
+        "date_updated": 1713853148,
+        "date_posted": 1713853148,
+        "url": "https://jobs.ashbyhq.com/windranger/919dbfb9-b11c-41ff-8e6d-883647bf599e/application",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/WindRanger",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Venture Global LNG",
+        "id": "9ee20801-a871-434a-b612-18da5fb5869f",
+        "title": "Applications Developer",
+        "active": true,
+        "date_updated": 1711588524,
+        "date_posted": 1704471705,
+        "url": "https://boards.greenhouse.io/venturegloballng/jobs/7084378002",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Venture-Global-Lng",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Genius Sports",
+        "id": "44588c2d-9eb6-4514-8864-a73790f59d3e",
+        "title": "Software Engineer - Platform",
+        "active": true,
+        "date_updated": 1712609288,
+        "date_posted": 1711730837,
+        "url": "https://boards.greenhouse.io/geniussports/jobs/5938642003",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Genius-Sports",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Deputy",
+        "id": "9715034e-28c6-49bf-9d4a-b2438cfca8c8",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1715282113,
+        "date_posted": 1713435218,
+        "url": "https://jobs.lever.co/deputy/b2971b64-064c-4a14-937f-0e29fe0495f8/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Deputy",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Splunk",
+        "id": "25cff9a7-5eec-41fa-beba-3865046afe42",
+        "title": "Software Engineer - Backend - Early in Career",
+        "active": true,
+        "date_updated": 1713908646,
+        "date_posted": 1713852732,
+        "url": "https://jobs.jobvite.com/splunk-careers/job/oct4sfwV?nl=1&nl=1&fr=false",
+        "locations": [
+            "Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Splunk",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "minware",
+        "id": "e8e651bb-f2dd-422d-b23e-1cd6687cbdc3",
+        "title": "Front End Engineer",
+        "active": true,
+        "date_updated": 1715282557,
+        "date_posted": 1712510058,
+        "url": "https://boards.greenhouse.io/minware/jobs/4405259005",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Minware",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "WindRanger",
+        "id": "f8007bf7-69a1-4b2a-80f9-3a20e7b146fc",
+        "title": "UX Programmer",
+        "active": true,
+        "date_updated": 1714581229,
+        "date_posted": 1712706392,
+        "url": "https://jobs.ashbyhq.com/windranger/7ea3342c-2d90-45ab-afda-b7e752c6e0bc/application",
+        "locations": [
+            "United Kingdom"
+        ],
+        "company_url": "https://simplify.jobs/c/WindRanger",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Dun & Bradstreet",
+        "id": "5e16aba7-bfe7-47e4-8236-e4c29eb60f1f",
+        "title": "2024 Technology Analyst Program",
+        "active": true,
+        "date_updated": 1715303710,
+        "date_posted": 1709080194,
+        "url": "https://jobs.lever.co/dnb/58bad248-3ce8-4bf8-99b4-aa4f506ce7a0/apply",
+        "locations": [
+            "Jacksonville, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Dun-and-Bradstreet",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Valdes Architecture and Engineering",
+        "id": "71639619-2fe4-41d6-bcdb-322302eb7ccc",
+        "title": "Engineer I&C - Instrumentation & Controls",
+        "active": true,
+        "date_updated": 1713434897,
+        "date_posted": 1713434897,
+        "url": "https://jobs.lever.co/valdeseng/00e8958f-7214-4782-b34d-57ed4db2ea1f/apply",
+        "locations": [
+            "Lombard, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Valdes-Architecture-and-Engineering",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Hive",
+        "id": "2ffac4b6-ef1a-4776-9261-7d069fa6893b",
+        "title": "Machine Learning Engineer",
+        "active": true,
+        "date_updated": 1689750574,
+        "date_posted": 1689750574,
+        "url": "https://jobs.lever.co/hive/fb175ecc-b6ba-4242-a84a-8699f9b0e971/apply",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/HiveAI",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "AeroVect",
+        "id": "13333b3e-a688-439d-91ad-5670f119fe4f",
+        "title": "Planning Intern",
+        "active": true,
+        "date_updated": 1706170282,
+        "date_posted": 1706170282,
+        "url": "https://jobs.ashbyhq.com/AeroVect/29be4d89-9ca3-4cf9-a7e4-ccd0404d55a9/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/AeroVect",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "DRW",
+        "id": "6d3878d6-cb38-498b-9d00-1af5410ab0d2",
+        "title": "Full Stack Software Developer",
+        "active": true,
+        "date_updated": 1711499297,
+        "date_posted": 1711499297,
+        "url": "https://boards.greenhouse.io/drweng/jobs/5844261",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/DRW",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Street Context",
+        "id": "89661f59-0ed4-4e56-8900-a49e28a8dcec",
+        "title": "Software & Cloud Engineers",
+        "active": true,
+        "date_updated": 1713754439,
+        "date_posted": 1713754439,
+        "url": "https://jobs.lever.co/streetcontext/a41afb6d-3edf-464f-94b6-42cfb4a138a7/apply",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/StreetContext",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Alchemy",
+        "id": "ca9a30db-c2a8-45bc-8e33-ef0e8c1df9f1",
+        "title": "Deployed Engineer",
+        "active": true,
+        "date_updated": 1713908547,
+        "date_posted": 1711099124,
+        "url": "https://boards.greenhouse.io/alchemy/jobs/4066152005",
+        "locations": [
+            "SF",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Alchemy",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Kroll Bond Rating Agency",
+        "id": "c9b2875e-35fe-42da-8e83-fe63d9d7d876",
+        "title": "Electronic Publishing - Coordinator - NY",
+        "active": true,
+        "date_updated": 1713908658,
+        "date_posted": 1713434643,
+        "url": "https://boards.greenhouse.io/krollbondratingagency/jobs/7335267002",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Kroll-Bond-Rating-Agency",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "ERG",
+        "id": "7ade700d-6955-45a5-8bb2-939c8f1e0d33",
+        "title": "Production Engineer",
+        "active": true,
+        "date_updated": 1713434524,
+        "date_posted": 1713434524,
+        "url": "https://jobs.lever.co/erg/a36d0068-1266-4763-b6f6-0cc0934e9ac0/apply",
+        "locations": [
+            "Indian Head, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/ERG",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Forward",
+        "id": "09e2e86f-9b12-46e9-9341-92c85bb92f1e",
+        "title": "Software Engineer - Growth",
+        "active": true,
+        "date_updated": 1713730688,
+        "date_posted": 1713730688,
+        "url": "https://jobs.lever.co/goforward/8fc4825a-d7bb-4fcb-95be-ea00d56f2adb/apply",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Forward",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Root16",
+        "id": "62d07b47-9619-4687-8a2c-04631e818a37",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1707333740,
+        "date_posted": 1707333740,
+        "url": "https://jobs.lever.co/root16/be6703b6-e78b-433e-abfa-a6a0ab5f3c7b/apply",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Root16",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Grand Rounds",
+        "id": "146ea259-126b-4e18-8753-a6d924f56f81",
+        "title": "Software Engineer I - Orchestration Platform - Canada",
+        "active": true,
+        "date_updated": 1715109426,
+        "date_posted": 1713853079,
+        "url": "https://jobs.lever.co/includedhealth/71927e92-88ec-4481-8d12-00a2bcd9c41f/apply",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/Grand-Rounds",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "SharkNinja",
+        "id": "d83da2d7-3022-4a46-bdcb-67f77ca51eee",
+        "title": "Associate Product Developer - Shark Beauty",
+        "active": true,
+        "date_updated": 1712854774,
+        "date_posted": 1712854774,
+        "url": "https://www.sharkninja.com/careers/?gh_jid=4357621006",
+        "locations": [
+            "Needham, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/SharkNinja",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Second Spectrum",
+        "id": "395285a7-2ee0-46bd-871b-0e957c0feeb3",
+        "title": "Software Engineer - Platform",
+        "active": true,
+        "date_updated": 1712609287,
+        "date_posted": 1711731583,
+        "url": "https://boards.greenhouse.io/secondspectrum/jobs/5938639003",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/SecondSpectrum",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Global Atlantic",
+        "id": "f58a35ed-0386-456f-b581-517a73b5d879",
+        "title": "Sales Data Analyst",
+        "active": true,
+        "date_updated": 1712853171,
+        "date_posted": 1712853171,
+        "url": "https://boards.greenhouse.io/gafg/jobs/5801019",
+        "locations": [
+            "Villanova, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Global-Atlantic",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "ERG",
+        "id": "df0611b7-2c40-45e0-8b9e-42c5ddfa760f",
+        "title": "Document Production Specialist",
+        "active": true,
+        "date_updated": 1713434496,
+        "date_posted": 1713434496,
+        "url": "https://jobs.lever.co/erg/01f48c49-06c5-4efc-b597-7b463b4bb5d8/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/ERG",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wayfair",
+        "id": "1d6fa2b9-7992-43dd-89d6-39a0425f0b1c",
+        "title": "Software Engineer I - Summer 2024",
+        "active": true,
+        "date_updated": 1709583114,
+        "date_posted": 1696923643,
+        "url": "https://www.wayfair.com/careers/jobs/6963112002?gh_jid=6963112002",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Wayfair",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Attentive",
+        "id": "bdffc864-114d-42ce-9f59-5cfad546f89f",
+        "title": "Data Analyst - Strategy & Operations",
+        "active": true,
+        "date_updated": 1714679683,
+        "date_posted": 1711585103,
+        "url": "https://jobs.lever.co/attentive/2cca853c-af13-4162-9244-c058a6c90fa5/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Attentive",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Narmi",
+        "id": "cc556733-4c21-40b8-b055-3d3168cc0b83",
+        "title": "Software Engineer - Solutions",
+        "active": true,
+        "date_updated": 1707869867,
+        "date_posted": 1707869867,
+        "url": "https://jobs.lever.co/narmi/362d3c62-5189-4e85-b106-3113155fdac7/apply",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Narmi",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Kin Insurance",
+        "id": "c8b458af-5942-4211-b6b3-dd6d8d819047",
+        "title": "Software Engineer - Back-End Focus",
+        "active": true,
+        "date_updated": 1714011314,
+        "date_posted": 1706314809,
+        "url": "https://boards.greenhouse.io/kininsurance/jobs/4490359004",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Kin-Insurance",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "HashiCorp",
+        "id": "5974e53e-fdc7-4b67-ba4f-caf1dd3f9823",
+        "title": "Solutions Engineer II",
+        "active": true,
+        "date_updated": 1714507950,
+        "date_posted": 1712945834,
+        "url": "https://www.hashicorp.com/career/5875248?gh_jid=5875248",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/HashiCorp",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Virtuous",
+        "id": "7dab871d-c7d2-4409-88d2-f9dbba6e0a3f",
+        "title": "Want to work with us",
+        "active": true,
+        "date_updated": 1712911015,
+        "date_posted": 1712911015,
+        "url": "https://jobs.ashbyhq.com/virtuous/ce224cfd-5302-4eaf-9381-c98d1691ba83/application",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/VirtuousCRM",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cohere",
+        "id": "7cce1dbe-fac8-4441-a3b5-91b359a5a5e8",
+        "title": "Data Annotator - Advanced Math",
+        "active": true,
+        "date_updated": 1715282376,
+        "date_posted": 1710429136,
+        "url": "https://jobs.lever.co/cohere/c10114ae-9ba0-4ddd-a4b0-7117deb5abc9/apply",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/Cohere",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Everlaw",
+        "id": "e1f8e514-3eae-4879-a64a-9c53199c28a5",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1697034404,
+        "date_posted": 1696029596,
+        "url": "https://boards.greenhouse.io/everlaw/jobs/4286640006",
+        "locations": [
+            "Oakland, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Everlaw",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "TransMarket Group",
+        "id": "bd9f68e9-c7c9-434f-b93f-3260c2f4f4ca",
+        "title": "Python Developer / Data Engineer",
+        "active": true,
+        "date_updated": 1696382358,
+        "date_posted": 1691652062,
+        "url": "https://boards.greenhouse.io/transmarketgroup/jobs/4023390007",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/TransMarket-Group",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Red Ventures",
+        "id": "44f35f10-c3b0-4fad-8de8-a9f9c47383ca",
+        "title": "Associate \u2013 Customer Experience - Broadband",
+        "active": true,
+        "date_updated": 1713401134,
+        "date_posted": 1713401134,
+        "url": "https://www.redventures.com/careers/overview?gh_jid=5912475",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Red-Ventures",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Schr\u00f6dinger",
+        "id": "1fce831e-b6d0-4a24-870e-1fc15cbb7aec",
+        "title": "Software Developer",
+        "active": true,
+        "date_updated": 1712973409,
+        "date_posted": 1695597212,
+        "url": "https://boards.greenhouse.io/schrdinger/jobs/4320220003",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Schrodinger",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "dv01",
+        "id": "6c0e1ce6-8ec5-4126-b4ed-8cb36c3d71d3",
+        "title": "Data Analyst - Integrations",
+        "active": true,
+        "date_updated": 1710832768,
+        "date_posted": 1710832768,
+        "url": "https://boards.greenhouse.io/dv01/jobs/7291389002",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Dv01",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Encord",
+        "id": "601e260b-b3e9-4d0a-9638-e6f661cff285",
+        "title": "Machine Learning Solutions Engineer",
+        "active": true,
+        "date_updated": 1711102566,
+        "date_posted": 1711102566,
+        "url": "https://jobs.lever.co/CordTechnologies/80f40fa8-34d5-4f61-a8b0-13db14755d35/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Encord",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wispr AI",
+        "id": "b5fce619-4a34-4125-990d-1b308bd1e6b5",
+        "title": "0 \u2013 1 Software Engineer",
+        "active": true,
+        "date_updated": 1713850994,
+        "date_posted": 1696921741,
+        "url": "https://jobs.lever.co/WisprAI/b5085d3d-4674-476f-929b-7ac1eb082544/apply",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Wispr-AI",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Rockstar Games",
+        "id": "9b4374af-622d-4b9e-91a6-20743035152b",
+        "title": "Associate Systems Designer",
+        "active": true,
+        "date_updated": 1715281467,
+        "date_posted": 1712595343,
+        "url": "https://boards.greenhouse.io/rockstargames/jobs/5673172003",
+        "locations": [
+            "Edinburgh, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Rockstar-Games",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Capital Solutions Group",
+        "id": "9ac7acbc-3096-489b-a2ba-309d13e70920",
+        "title": "Python Developer - Orava-DEV-03.071823",
+        "active": true,
+        "date_updated": 1713435580,
+        "date_posted": 1713435580,
+        "url": "https://jobs.lever.co/capitalsolutionsgroup/7c186912-0bd9-4285-bb20-c0f7ef58e0f3/apply",
+        "locations": [
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Capital-Solutions-Group",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Kargo",
+        "id": "4cea2554-7316-47f6-bd21-7fcfeebb950c",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1713908205,
+        "date_posted": 1713400426,
+        "url": "https://www.kargo.com/careers?gh_jid=4343917007",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Kargo",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Current",
+        "id": "573de4e8-d3df-48f9-a93b-59f8e2ac88f9",
+        "title": "Software Engineer - Associate",
+        "active": true,
+        "date_updated": 1714111259,
+        "date_posted": 1713554389,
+        "url": "https://current.com/careers/open-positions/?id=5918179&gh_jid=5918179",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Current",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Anne Lewis Strategies",
+        "id": "572ed5ac-4f4d-4cfc-aba6-f062d952ac0e",
+        "title": "Email Production Coordinator - Election Cycle 2024 - Mst/Pst",
+        "active": true,
+        "date_updated": 1715303067,
+        "date_posted": 1713407549,
+        "url": "https://jobs.lever.co/MissionWired/ea3cbf46-8eee-48bb-ae53-c98d4ccaeff9/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Anne-Lewis-Strategies",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Orion Innovation",
+        "id": "0efb155f-530e-4153-8753-eadcf36510b7",
+        "title": "Software Developer IAC23124",
+        "active": true,
+        "date_updated": 1694503980,
+        "date_posted": 1694503980,
+        "url": "https://www.orioninc.com/careers/job/?gh_jid=4266820006",
+        "locations": [
+            "Edison, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/OrionInnovation",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Anduril",
+        "id": "07db9133-c525-4f6a-90be-8afb15d79d3b",
+        "title": "C++ Software Engineer - Systems and Build - Imaging",
+        "active": true,
+        "date_updated": 1710961853,
+        "date_posted": 1703291036,
+        "url": "https://boards.greenhouse.io/andurilindustries/jobs/4182070007",
+        "locations": [
+            "Lexington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Anduril",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wellist",
+        "id": "ff42028c-c6e7-42a3-a0e7-62001c4c227a",
+        "title": "Directory Analyst",
+        "active": true,
+        "date_updated": 1712763974,
+        "date_posted": 1712189849,
+        "url": "https://boards.greenhouse.io/wellist/jobs/7317671002",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Wellist",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "GrowthBook",
+        "id": "e5a54c20-7a03-4c7b-bbdd-f8369ad7b525",
+        "title": "SDK Engineer",
+        "active": true,
+        "date_updated": 1711559831,
+        "date_posted": 1711559831,
+        "url": "https://apply.workable.com/growthbook/j/E64420249B/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/GrowthBook",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Plexus Worldwide",
+        "id": "0c1f0b64-0532-4d9f-bef6-36edb72b57ab",
+        "title": "Document Control Technician",
+        "active": true,
+        "date_updated": 1714110530,
+        "date_posted": 1713396837,
+        "url": "https://boards.greenhouse.io/plexusworldwidellc/jobs/4410392005",
+        "locations": [
+            "Scottsdale, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/PlexusWorldwide",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Art of Problem Solving",
+        "id": "136ed7a7-0594-42e7-af4a-9d1ba90f602f",
+        "title": "Math Instructor",
+        "active": true,
+        "date_updated": 1713381377,
+        "date_posted": 1712301471,
+        "url": "https://artofproblemsolving.com/careers/job/5846127003?gh_jid=5846127003",
+        "locations": [
+            "Vienna, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Art-of-Problem-Solving",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "SharkNinja",
+        "id": "6352971e-1801-4933-9ab7-6eaed44ef6e0",
+        "title": "Associate Product Developer - Shark",
+        "active": true,
+        "date_updated": 1711557269,
+        "date_posted": 1711557269,
+        "url": "https://www.sharkninja.com/careers/?gh_jid=4318806006",
+        "locations": [
+            "Needham, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/SharkNinja",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Tower Research Capital",
+        "id": "79f2611c-f321-4bc5-997f-9fd885434b65",
+        "title": "Production Trader - Trading Team",
+        "active": true,
+        "date_updated": 1706804347,
+        "date_posted": 1706804347,
+        "url": "https://www.tower-research.com/open-positions/?gh_jid=5665156",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Tower-Research-Capital",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "TopSpot Internet Marketing",
+        "id": "b4fad893-eea2-4e63-8e19-11740183ed76",
+        "title": "Web Analytics Specialist - Hybrid",
+        "active": true,
+        "date_updated": 1707330863,
+        "date_posted": 1693121031,
+        "url": "https://boards.greenhouse.io/topspot/jobs/4012040007",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/TopSpot-IM",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Qcells",
+        "id": "72289180-dd0a-4d85-9137-acf84b33fc27",
+        "title": "Sales Data Analyst",
+        "active": true,
+        "date_updated": 1705680358,
+        "date_posted": 1705680358,
+        "url": "https://jobs.lever.co/qcells/3b15ab7f-b4a5-4761-a50d-40d1687879f9/apply",
+        "locations": [
+            "Englewood, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Qcells",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Eulerity",
+        "id": "2b20a0ee-1997-47d5-ab21-0f61727294ee",
+        "title": "Paid Media Data Analyst",
+        "active": true,
+        "date_updated": 1711755336,
+        "date_posted": 1711755336,
+        "url": "https://boards.greenhouse.io/eulerity/jobs/4345225006",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Eulerity",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Hugging Face",
+        "id": "8bbf64d3-2c03-459f-89dc-c2d20ffc4f01",
+        "title": "Multimodal Research Engineer - US Remote",
+        "active": true,
+        "date_updated": 1712478600,
+        "date_posted": 1712478600,
+        "url": "https://apply.workable.com/huggingface/j/7D4FBACA3C/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Hugging-Face",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Canonical",
+        "id": "1d17cb1b-6997-4a03-9ddd-a7a817ea896d",
+        "title": "Dedicated Linux Desktop Support Engineer - Singapore",
+        "active": true,
+        "date_updated": 1713538446,
+        "date_posted": 1713538446,
+        "url": "https://boards.greenhouse.io/canonical/jobs/5169140",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Canonical",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Nisum",
+        "id": "25f26671-a361-4414-89ea-61dc427b8644",
+        "title": "IOS Mobile QA Tester G5983",
+        "active": true,
+        "date_updated": 1715281716,
+        "date_posted": 1713292009,
+        "url": "https://jobs.lever.co/nisum/a9610c14-2c64-4f05-afaa-c83620d6f8fb/apply",
+        "locations": [
+            "Pleasanton, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Nisum",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Iterative Health",
+        "id": "2dd7617b-c54d-4b85-be29-5cc84821ee2d",
+        "title": "Software Engineer I - Backend - Future Openings",
+        "active": true,
+        "date_updated": 1712912218,
+        "date_posted": 1712912218,
+        "url": "https://boards.greenhouse.io/iterativehealth/jobs/4009474006",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Iterative-Health",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Sumo Digital",
+        "id": "e367b447-a4ff-4d45-a5f0-82b90f29ad66",
+        "title": "Programmer",
+        "active": true,
+        "date_updated": 1707236176,
+        "date_posted": 1707236176,
+        "url": "https://jobs.lever.co/sumo-digital/f5c42f34-1d0c-442d-87c5-f4467c848dd3/apply",
+        "locations": [
+            "Leeds, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sumo-Digital",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Modal",
+        "id": "8eb191a6-0f83-42b7-b82a-44f6c319c3f2",
+        "title": "Technical Instructional Designer",
+        "active": true,
+        "date_updated": 1714505660,
+        "date_posted": 1713401837,
+        "url": "http://www.modallearning.com/careers?gh_jid=4317293004",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ModalLearning",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "FanDuel",
+        "id": "6b3537dc-072a-4269-89ca-a7564ed1ac7e",
+        "title": "Data Scientist",
+        "active": true,
+        "date_updated": 1712419780,
+        "date_posted": 1712419780,
+        "url": "https://www.fanduel.careers/open-positions?gh_jid=5844643",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/FanDuel",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Loft Orbital",
+        "id": "8b5dafe6-1dbf-414d-bb62-46d7b23d044d",
+        "title": "AI&T Technician",
+        "active": true,
+        "date_updated": 1715281761,
+        "date_posted": 1711475604,
+        "url": "https://jobs.lever.co/loftorbital/2f6f001c-8b8a-427c-9fc4-c416cafb6459/apply",
+        "locations": [
+            "Golden, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/LoftOrbitalSolutions",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "IXL Learning",
+        "id": "20cf2bfe-490f-4e96-a2a1-7924c8e240c6",
+        "title": "Front-End Software Engineer - IXL Product",
+        "active": true,
+        "date_updated": 1711049887,
+        "date_posted": 1708100493,
+        "url": "https://www.ixl.com/company/jobs?gh_jid=7193337002",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/IXL-Learning",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Loop Internet",
+        "id": "afc8de0f-e854-4993-932d-9a0eb56f6f73",
+        "title": "GIS Technician",
+        "active": true,
+        "date_updated": 1713435673,
+        "date_posted": 1713435673,
+        "url": "https://jobs.lever.co/loopinternet/2486c92d-68ab-4c76-a2e7-5c63c87ef1cf/apply",
+        "locations": [
+            "Dunmore, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Loop-Internet",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Keywords Studios",
+        "id": "6ea3e1f8-ec72-48a8-a501-f81f44aaaf7d",
+        "title": "Sp\u00e9cialiste des requ\u00eates et du langage de l'IA - Turc",
+        "active": true,
+        "date_updated": 1714011099,
+        "date_posted": 1713853031,
+        "url": "https://apply.workable.com/keywords-intl1/j/3F70C24B4D/apply",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/Keywords-Studios",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "minware",
+        "id": "9a2682fe-8c51-4adf-aabe-4019c8f5f696",
+        "title": "Front End Engineer",
+        "active": true,
+        "date_updated": 1715282379,
+        "date_posted": 1712510048,
+        "url": "https://boards.greenhouse.io/minware/jobs/4405270005",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Minware",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "MBTA",
+        "id": "ae289b75-e9ff-4aed-b888-7ff19803be49",
+        "title": "Data Analyst - Transit Tech",
+        "active": true,
+        "date_updated": 1715282128,
+        "date_posted": 1713852276,
+        "url": "https://jobs.lever.co/mbta/be98f786-126c-4bf9-8cbc-494c7b81ef52/apply",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/MBTA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Fullscript",
+        "id": "94a0efff-1de7-41d7-be9a-bd61517eef67",
+        "title": "Chatbot Trainer & Designer",
+        "active": true,
+        "date_updated": 1715281611,
+        "date_posted": 1713852063,
+        "url": "https://jobs.lever.co/fullscript/bc252e01-e770-418e-8bd6-8c6e243c702b/apply",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/FullScript",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wispr AI",
+        "id": "ed85724c-0b8a-46c8-ab75-93c8fa536901",
+        "title": "0 \u2013 1 Swift Engineer - IOS / Macos",
+        "active": true,
+        "date_updated": 1715282081,
+        "date_posted": 1713797711,
+        "url": "https://jobs.lever.co/WisprAI/527372b4-b433-4896-8207-e71ec5ff112f/apply",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Wispr-AI",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Squarepoint Capital",
+        "id": "743c34f9-a9e9-439a-be1a-404769bb6010",
+        "title": "Junior Discretionary Trader",
+        "active": true,
+        "date_updated": 1698762646,
+        "date_posted": 1689751313,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=3851879",
+        "locations": [
+            "London, UK",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Squarepoint-Capital",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Fizz",
+        "id": "72db2b03-7049-4448-a5df-603057d178fc",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1704586209,
+        "date_posted": 1704586209,
+        "url": "https://jobs.lever.co/fizz/7f6ce491-8f54-47fb-8cd2-49b45d6a30d0/apply",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Fizz-Social",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Orion Innovation",
+        "id": "4798bcad-39b4-4f50-9963-6f0beaf85004",
+        "title": "Programmer Analyst - IAC23135",
+        "active": true,
+        "date_updated": 1694503972,
+        "date_posted": 1694503972,
+        "url": "https://www.orioninc.com/careers/job/?gh_jid=4265182006",
+        "locations": [
+            "Edison, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/OrionInnovation",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Doss",
+        "id": "f469e60b-be38-4ec6-bce5-726429e7778d",
+        "title": "Product",
+        "active": true,
+        "date_updated": 1713435756,
+        "date_posted": 1713435756,
+        "url": "https://jobs.ashbyhq.com/doss/feb4242f-041b-4156-a623-b173042c536f/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Doss",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "minware",
+        "id": "a58ca12d-3d7c-4264-a641-ff0852c37889",
+        "title": "Front End Engineer",
+        "active": true,
+        "date_updated": 1715282530,
+        "date_posted": 1712510046,
+        "url": "https://boards.greenhouse.io/minware/jobs/4405274005",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Minware",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Capital Solutions Group",
+        "id": "49689ded-6671-4d1e-9a35-fed5303c9957",
+        "title": "Python Frameworks Software Developer - Tkoclv-Sw2",
+        "active": true,
+        "date_updated": 1713435585,
+        "date_posted": 1713435585,
+        "url": "https://jobs.lever.co/capitalsolutionsgroup/e7a2fc08-a097-4821-8b41-0daf58c6ea4c/apply",
+        "locations": [
+            "San Antonio, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Capital-Solutions-Group",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Flynn Companies",
+        "id": "db53e2d0-789a-489a-a642-2c9ea38d981c",
+        "title": "Computational Design Specialist",
+        "active": true,
+        "date_updated": 1715282315,
+        "date_posted": 1712101595,
+        "url": "https://jobs.lever.co/flynncompanies/834dbd0e-cbd7-4a2a-a003-ff497b80e9ee/apply",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Flynn-Companies",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "ION Group",
+        "id": "d545e778-3c62-49b2-92dd-035c2ddd907b",
+        "title": "Implementation Engineer",
+        "active": true,
+        "date_updated": 1711095546,
+        "date_posted": 1711095546,
+        "url": "https://jobs.lever.co/ion/0c226163-c911-40d2-91b9-7c27e23b6f28/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/ION-Group",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Veeva Systems",
+        "id": "5a05b3b2-2805-4fa2-9f98-6346f0932a5d",
+        "title": "Marketing Data Analyst",
+        "active": true,
+        "date_updated": 1714763247,
+        "date_posted": 1692112110,
+        "url": "https://jobs.lever.co/veeva/28c47d34-3ad6-4485-85a9-686b4239b9ea/apply",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Veeva-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Orb Labs",
+        "id": "489442fe-d6ff-4482-adf9-303c1d3f7093",
+        "title": "Early Software Engineer",
+        "active": true,
+        "date_updated": 1713435617,
+        "date_posted": 1713435617,
+        "url": "https://jobs.ashbyhq.com/orblabs/a17b5f00-ab6c-4661-b3f1-b785cca6570a/application",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Orb-Labs",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "The Voleon Group",
+        "id": "ba78c199-75c4-4a64-9aa7-0b093545597e",
+        "title": "Data Scientist - Client Research",
+        "active": true,
+        "date_updated": 1715044460,
+        "date_posted": 1713915666,
+        "url": "https://jobs.lever.co/voleon/747a21c9-508d-4c17-aebe-0bf7d0d46bf1/apply",
+        "locations": [
+            "Oakland, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Voleon-Group",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Messari",
+        "id": "497ad7b1-a758-467c-99b2-eeafd6a034b5",
+        "title": "Research Analyst - Infrastructure",
+        "active": true,
+        "date_updated": 1713914684,
+        "date_posted": 1713914684,
+        "url": "https://boards.greenhouse.io/messari/jobs/4357615005",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Messari",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Hello Fresh",
+        "id": "5f066053-764b-46b5-87e4-b48212bc6ae5",
+        "title": "Analyst \u2013 Consumer & Product Insights",
+        "active": true,
+        "date_updated": 1714590986,
+        "date_posted": 1713914418,
+        "url": "https://careers.hellofresh.com/global/en/job/5918380?gh_jid=5918380",
+        "locations": [
+            "NYC",
+            "Boulder, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Hello-Fresh",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Affirm",
+        "id": "7ed7469b-87d6-4888-bde0-d7170a58f529",
+        "title": "Software Engineer I - Backend - Disclosures",
+        "active": true,
+        "date_updated": 1713909872,
+        "date_posted": 1713909872,
+        "url": "https://boards.greenhouse.io/affirm/jobs/5958216003",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/Affirm",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Inflection",
+        "id": "9e033c12-f40a-40e4-8e7a-05c11f6e9fe1",
+        "title": "Member of Technical Staff - Artificial Intelligence",
+        "active": true,
+        "date_updated": 1714507901,
+        "date_posted": 1712908534,
+        "url": "https://boards.greenhouse.io/inflectionai/jobs/4044407006",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Inflection-AI",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Zynga",
+        "id": "22f6f09e-0014-43ec-97a8-93dab719087f",
+        "title": "Software Engineer-1",
+        "active": true,
+        "date_updated": 1712102076,
+        "date_posted": 1712102076,
+        "url": "https://boards.greenhouse.io/zynga/jobs/4389762004",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Zynga",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Rockstar Games",
+        "id": "0dbbb4a2-5a1c-4e70-95e5-379a1c5c5a05",
+        "title": "Associate Engine Programmer",
+        "active": true,
+        "date_updated": 1715195613,
+        "date_posted": 1711415455,
+        "url": "https://boards.greenhouse.io/rockstargames/jobs/5663589003",
+        "locations": [
+            "Carlsbad, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Rockstar-Games",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "DoorDash",
+        "id": "980721ce-937c-4047-97de-8aaa85837118",
+        "title": "Software Engineer I - Backend - Graduation Date Spring 2022-Winter 2023",
+        "active": true,
+        "date_updated": 1715390091,
+        "date_posted": 1707812148,
+        "url": "https://boards.greenhouse.io/doordash/jobs/5695380",
+        "locations": [
+            "Seattle, WA",
+            "SF",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/DoorDash",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Pattern Data",
+        "id": "80677ed4-384a-47ac-8b26-3f4f696f0e21",
+        "title": "Program Data Analyst",
+        "active": true,
+        "date_updated": 1713435536,
+        "date_posted": 1713435536,
+        "url": "https://boards.greenhouse.io/patterndata/jobs/4352635007",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pattern-Data",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "minware",
+        "id": "96eaccb6-bcad-4ccd-be22-e8e2f40cafce",
+        "title": "Front End Engineer",
+        "active": true,
+        "date_updated": 1715282387,
+        "date_posted": 1712510047,
+        "url": "https://boards.greenhouse.io/minware/jobs/4405263005",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Minware",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "minware",
+        "id": "dabbcf55-c5e4-4b33-a76e-4769706d56ba",
+        "title": "Front End Engineer",
+        "active": true,
+        "date_updated": 1715282181,
+        "date_posted": 1712510058,
+        "url": "https://boards.greenhouse.io/minware/jobs/4405260005",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Minware",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "minware",
+        "id": "d5878f1e-de0f-4113-8225-5a9c357633e3",
+        "title": "Front End Engineer",
+        "active": true,
+        "date_updated": 1715282541,
+        "date_posted": 1712510052,
+        "url": "https://boards.greenhouse.io/minware/jobs/4405267005",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Minware",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "AccuWeather",
+        "id": "47d258fb-5dfb-4d26-9fbc-49051b0fb9bd",
+        "title": "Meteorologist I",
+        "active": true,
+        "date_updated": 1712250188,
+        "date_posted": 1712250188,
+        "url": "https://boards.greenhouse.io/accuweather/jobs/5600709",
+        "locations": [
+            "State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/AccuWeather",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Canonical",
+        "id": "dc6c4d3f-b6f9-488f-8f61-a98829acccbb",
+        "title": "Linux Desktop Support Engineer - Remote",
+        "active": true,
+        "date_updated": 1711983625,
+        "date_posted": 1711102890,
+        "url": "https://boards.greenhouse.io/canonical/jobs/5169198",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Canonical",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Sony Music Entertainment",
+        "id": "0724935e-e19b-4bd3-82f3-c53d8eb5ecc7",
+        "title": "Analyst",
+        "active": true,
+        "date_updated": 1713399131,
+        "date_posted": 1713399131,
+        "url": "https://boards.greenhouse.io/sonymusic/jobs/7333388002",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Sony-Music",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Techruiter",
+        "id": "dfb534fc-2285-48e4-be32-a6b3359b6d78",
+        "title": "Full Stack Developers - Javascript - Nodejs",
+        "active": true,
+        "date_updated": 1693524368,
+        "date_posted": 1693524368,
+        "url": "https://jobs.lever.co/techruiter/b9866521-e7cc-4506-a114-4ea760d4904d/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Techruiter",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Squarepoint Capital",
+        "id": "cf5e0a04-5a7c-4483-918e-63f207343bde",
+        "title": "Software Developer - Data Pipelines - Python",
+        "active": true,
+        "date_updated": 1713363713,
+        "date_posted": 1711584219,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=953511",
+        "locations": [
+            "Montreal, QC, Canada",
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Squarepoint-Capital",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Pandion",
+        "id": "716f199e-9b00-4019-a7a4-a7c0ff87eaa8",
+        "title": "Data Analyst - Operations - Early-Stage Opportunity",
+        "active": true,
+        "date_updated": 1710573018,
+        "date_posted": 1710573018,
+        "url": "https://www.pandionpro.com/careers?gh_jid=5061009004",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pandion",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "minware",
+        "id": "3f72afe2-6ca4-49c5-9287-d887cf33cada",
+        "title": "Front End Engineer",
+        "active": true,
+        "date_updated": 1715282569,
+        "date_posted": 1712511125,
+        "url": "https://boards.greenhouse.io/minware/jobs/4405261005",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Minware",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Ribbon Health",
+        "id": "1d659210-e2d8-4772-b15e-cd6b2c1292ed",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1710286638,
+        "date_posted": 1710286638,
+        "url": "https://www.ribbonhealth.com/open-roles/?gh_jid=5128418004",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Ribbon-Health",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Orion Innovation",
+        "id": "a36b32d6-cb4d-4018-87ee-184e69468558",
+        "title": "Programmer Analyst",
+        "active": true,
+        "date_updated": 1699024944,
+        "date_posted": 1699024944,
+        "url": "https://www.orioninc.com/careers/job/?gh_jid=4300625006",
+        "locations": [
+            "Edison, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/OrionInnovation",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Collectors",
+        "id": "5b8b7c33-903a-4f54-ac70-6f3f0ae075ed",
+        "title": "Apprentice US Coin Grader",
+        "active": true,
+        "date_updated": 1709929155,
+        "date_posted": 1699524277,
+        "url": "https://boards.greenhouse.io/collectorsuniverse/jobs/4962006004",
+        "locations": [
+            "Orange, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Collectors",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Encord",
+        "id": "b57110f9-1c7e-49dc-a0a3-9fb27260151d",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1712852336,
+        "date_posted": 1706833714,
+        "url": "https://jobs.lever.co/CordTechnologies/d7fea930-147d-48db-bbd6-783dcf9c393f/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Encord",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "DoorDash",
+        "id": "7eed0f68-2bad-40cd-83ed-e5270c9f3938",
+        "title": "Software Engineer I - Android - Graduation Date Spring 2022 - Winter 2023",
+        "active": true,
+        "date_updated": 1715383516,
+        "date_posted": 1707870064,
+        "url": "https://boards.greenhouse.io/doordash/jobs/5702366",
+        "locations": [
+            "SF",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/DoorDash",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Genius Sports",
+        "id": "e385a4fe-7354-4972-9eed-f36cd826a7c0",
+        "title": "Software Engineer - Video Content Augmentation",
+        "active": true,
+        "date_updated": 1711138410,
+        "date_posted": 1711138410,
+        "url": "https://boards.greenhouse.io/geniussports/jobs/5930572003",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Genius-Sports",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "minware",
+        "id": "33da8107-bb5e-4740-b440-02851e4ee6a1",
+        "title": "Front End Engineer",
+        "active": true,
+        "date_updated": 1715282543,
+        "date_posted": 1712510051,
+        "url": "https://boards.greenhouse.io/minware/jobs/4405269005",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Minware",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Forward",
+        "id": "dd60dd6f-a9ef-49a9-8114-f51ed4c66995",
+        "title": "Software Engineer - Mobile Applications",
+        "active": true,
+        "date_updated": 1705975818,
+        "date_posted": 1689750541,
+        "url": "https://jobs.lever.co/goforward/e9224b58-68a1-4988-be09-128246a30d62/apply",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Forward",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Keywords Studios",
+        "id": "cd530979-b82a-47ee-b795-1df64f0240e2",
+        "title": "AI Prompt & Language Specialist - Turkish",
+        "active": true,
+        "date_updated": 1714457834,
+        "date_posted": 1713852890,
+        "url": "https://apply.workable.com/keywords-intl1/j/FE4DFA5BBC/apply",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/Keywords-Studios",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "DriveWealth",
+        "id": "5c5ee664-8b29-4545-9b84-9a3b71c1574a",
+        "title": "Software Development Engineer 2",
+        "active": true,
+        "date_updated": 1707927561,
+        "date_posted": 1707927561,
+        "url": "https://boards.greenhouse.io/drivewealth/jobs/5444613003",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/DriveWealth",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "minware",
+        "id": "28e623a5-7461-4db5-acf2-904d90670b8e",
+        "title": "Front End Engineer",
+        "active": true,
+        "date_updated": 1715282405,
+        "date_posted": 1712510055,
+        "url": "https://boards.greenhouse.io/minware/jobs/4405266005",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Minware",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "PerformLine",
+        "id": "f876d58c-e356-4b97-9b37-045385e51b2e",
+        "title": "Software Engineer - Python",
+        "active": true,
+        "date_updated": 1712949816,
+        "date_posted": 1712949816,
+        "url": "https://performline.com/company/career-opportunities/?gh_jid=5904405",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/PerformLine",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Arsiem Corporation",
+        "id": "3d599231-50d3-47ab-8867-6c5ced0c661b",
+        "title": "CNO Analyst/Programmer 1",
+        "active": true,
+        "date_updated": 1691046789,
+        "date_posted": 1691046789,
+        "url": "https://jobs.lever.co/arsiem/e578e0e5-2c3b-4d65-bd93-83006215522e/apply",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Arsiem-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Brain Station",
+        "id": "a0a23794-fe6a-4c6d-b2c6-934069427da5",
+        "title": "Associate Learning Advisor",
+        "active": true,
+        "date_updated": 1707438258,
+        "date_posted": 1707438258,
+        "url": "https://boards.greenhouse.io/brainstation/jobs/5840835003",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/Brain-Station",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "minware",
+        "id": "076f8d57-3d9d-459c-b1f5-e6550e694664",
+        "title": "Front End Engineer",
+        "active": true,
+        "date_updated": 1715282505,
+        "date_posted": 1712510048,
+        "url": "https://boards.greenhouse.io/minware/jobs/4405276005",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Minware",
         "is_visible": true,
         "sponsorship": "Other"
     }
