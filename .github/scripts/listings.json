@@ -14636,7 +14636,7 @@
         "company_name": "StockX",
         "id": "68288bc4-965f-45bc-b9a3-d9cb598f332c",
         "title": "Programmatic & Streaming Media Coordinator",
-        "active": true,
+        "active": false,
         "date_updated": 1715210173,
         "date_posted": 1715210173,
         "url": "https://boards.greenhouse.io/stockx/jobs/7441771002",
@@ -16658,7 +16658,7 @@
         "company_name": "Quantcast",
         "id": "3323dc20-f6f5-4e4e-8218-8ad931498e9a",
         "title": "Software Engineer - Edge Services",
-        "active": true,
+        "active": false,
         "date_updated": 1712448415,
         "date_posted": 1712448415,
         "url": "https://jobs.lever.co/quantcast/acc17e5e-f4b9-4253-888b-8b4f1849a689/apply",
@@ -16978,7 +16978,7 @@
         "company_name": "Koddi",
         "id": "243efc3e-508c-431c-ae85-8541bbb74432",
         "title": "Data Scientist - Cohort Program",
-        "active": true,
+        "active": false,
         "date_updated": 1710357182,
         "date_posted": 1709943863,
         "url": "https://jobs.lever.co/koddi/993d9049-9a2b-448a-ba2a-c1febae37e63/apply",
@@ -18307,7 +18307,7 @@
         "company_name": "IXL Learning",
         "id": "20cf2bfe-490f-4e96-a2a1-7924c8e240c6",
         "title": "Front-End Software Engineer - IXL Product",
-        "active": true,
+        "active": false,
         "date_updated": 1711049887,
         "date_posted": 1708100493,
         "url": "https://www.ixl.com/company/jobs?gh_jid=7193337002",
@@ -19121,6 +19121,38 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Minware",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "IXL Learning",
+        "id": "a4ecb88e-07d1-4e40-a033-0e33ce755155",
+        "title": "Front-End Software Engineer - IXL Product",
+        "active": true,
+        "date_updated": 1715614883,
+        "date_posted": 1715614883,
+        "url": "https://www.ixl.com/company/jobs?gh_jid=7444281002",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/IXL-Learning",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Gotion, Inc.",
+        "id": "e56bebf4-1796-4bd3-914b-88c45e0fec38",
+        "title": "Project Assistant",
+        "active": true,
+        "date_updated": 1715566085,
+        "date_posted": 1713538834,
+        "url": "https://boards.greenhouse.io/gotion/jobs/6565203002",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Gotion,-Inc.",
         "is_visible": true,
         "sponsorship": "Other"
     }
