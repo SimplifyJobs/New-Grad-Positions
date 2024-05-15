@@ -2675,7 +2675,7 @@
         "company_name": "January",
         "id": "c11eb3c6-2cb0-4cab-aafa-6c19d508fb16",
         "title": "Software Engineer - San Francisco",
-        "active": true,
+        "active": false,
         "date_updated": 1693523739,
         "date_posted": 1693523739,
         "url": "https://boards.greenhouse.io/january/jobs/4017062007",
@@ -5773,7 +5773,7 @@
         "company_name": "Cadence Design Systems",
         "id": "90e657dd-cc0d-4e49-b483-615485f2d971",
         "title": "Software Engineer \u2013 New College Grad 2024",
-        "active": true,
+        "active": false,
         "date_updated": 1701352966,
         "date_posted": 1701352966,
         "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/SAN-JOSE/Software-Engineer--New-College-Grad-2024-_R44443",
@@ -15698,7 +15698,7 @@
         "company_name": "Keywords Studios",
         "id": "209ba3f3-9ff7-4f0b-8dfe-137e5abd4df1",
         "title": "AI Prompt & Language Specialist - Spanish",
-        "active": true,
+        "active": false,
         "date_updated": 1714430464,
         "date_posted": 1714034844,
         "url": "https://apply.workable.com/keywords-intl1/j/D279B71F6E/apply",
@@ -15826,7 +15826,7 @@
         "company_name": "Keywords Studios",
         "id": "14f5141e-5b88-4cb4-9567-142bd1734658",
         "title": "AI Prompt & Language Specialist - Hindi",
-        "active": true,
+        "active": false,
         "date_updated": 1714430466,
         "date_posted": 1714023526,
         "url": "https://apply.workable.com/keywords-intl1/j/B7B9B40CD6/apply",
@@ -16866,7 +16866,7 @@
         "company_name": "Tanius Technology",
         "id": "3785a01d-2ebc-4d60-a6ae-689489ae3f20",
         "title": "Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1699527566,
         "date_posted": 1699527566,
         "url": "https://boards.greenhouse.io/tanius/jobs/4296333002",
@@ -16994,7 +16994,7 @@
         "company_name": "Arsiem Corporation",
         "id": "475a2bef-a6b0-4714-ad3c-f404843053c5",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1691046788,
         "date_posted": 1691046788,
         "url": "https://jobs.lever.co/arsiem/d5ee4cc6-4492-4b38-8333-0ea3e142122b/apply",
@@ -17122,7 +17122,7 @@
         "company_name": "minware",
         "id": "109754ff-7145-449a-8be9-a3d970cdc4e8",
         "title": "Front End Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1715282527,
         "date_posted": 1712510048,
         "url": "https://boards.greenhouse.io/minware/jobs/4405273005",
@@ -19145,7 +19145,7 @@
         "company_name": "Gotion, Inc.",
         "id": "e56bebf4-1796-4bd3-914b-88c45e0fec38",
         "title": "Project Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1715566085,
         "date_posted": 1713538834,
         "url": "https://boards.greenhouse.io/gotion/jobs/6565203002",
@@ -20322,6 +20322,134 @@
             "Albany, NY"
         ],
         "company_url": "https://simplify.jobs/c/Verra-Mobility",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Gemini",
+        "id": "d062e142-8f84-4d97-90d1-d71e53a49c39",
+        "title": "Software Developer - Security",
+        "active": true,
+        "date_updated": 1715785816,
+        "date_posted": 1715785816,
+        "url": "https://boards.greenhouse.io/embed/job_app?for=gemini&token=5905734&gh_jid=5905734",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Gemini",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Marqeta",
+        "id": "6fd99322-df46-4f61-a19c-ef0de35bce1f",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1715728529,
+        "date_posted": 1715728529,
+        "url": "https://boards.greenhouse.io/marqeta/jobs/5962969",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Marqeta",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Marqeta",
+        "id": "5b6ad8c5-7599-44da-9416-2c1bc50611c4",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1715728528,
+        "date_posted": 1715728528,
+        "url": "https://boards.greenhouse.io/marqeta/jobs/5932297",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Marqeta",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Collectors",
+        "id": "55251cd5-298a-4d6a-8d86-bdeada6b4908",
+        "title": "Trading Card Specialist - Temp-to-hire",
+        "active": true,
+        "date_updated": 1715716963,
+        "date_posted": 1715716963,
+        "url": "https://boards.greenhouse.io/collectorsuniverse/jobs/5163248004",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Collectors",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "G2",
+        "id": "39947f58-1a52-4847-89d5-51f91642b5cd",
+        "title": "Associate Software Engineer - Ruby on Rails",
+        "active": true,
+        "date_updated": 1715782764,
+        "date_posted": 1715709044,
+        "url": "https://boards.greenhouse.io/g2crowd/jobs/5952426",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/G2",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Red Ventures",
+        "id": "6414d995-222e-47a6-83ed-0e080ae07fdf",
+        "title": "Associate Data Engineer - Red Platform",
+        "active": true,
+        "date_updated": 1715124324,
+        "date_posted": 1715124324,
+        "url": "https://www.redventures.com/careers/overview?gh_jid=5949771",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Red-Ventures",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Flashpoint",
+        "id": "28ad46e5-962d-43a4-9e4e-0e4870d0ec82",
+        "title": "DOD Skillbridge - Technical Writer",
+        "active": true,
+        "date_updated": 1715716442,
+        "date_posted": 1715716442,
+        "url": "https://boards.greenhouse.io/flashpoint/jobs/6671183002",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Flashpoint",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Datavant",
+        "id": "c91ab12c-29a1-4e59-87f2-373be45e483c",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1715728227,
+        "date_posted": 1715728227,
+        "url": "https://www.datavant.com/about/careers/salaried-roles?gh_jid=7294595002",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Datavant",
         "is_visible": true,
         "sponsorship": "Other"
     }
