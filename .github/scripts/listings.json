@@ -987,7 +987,7 @@
         "company_name": "Veeva Systems",
         "id": "3f29d010-cc7e-46d3-809a-80b161151483",
         "title": "Associate Software Engineer \u2013 Seeking 2024 Grads",
-        "active": false,
+        "active": true,
         "date_updated": 1691082735,
         "date_posted": 1690988895,
         "url": "https://jobs.lever.co/veeva/f235ed8b-0972-4248-9d57-2d500aa094f5/apply",
@@ -2675,7 +2675,7 @@
         "company_name": "January",
         "id": "c11eb3c6-2cb0-4cab-aafa-6c19d508fb16",
         "title": "Software Engineer - San Francisco",
-        "active": false,
+        "active": true,
         "date_updated": 1693523739,
         "date_posted": 1693523739,
         "url": "https://boards.greenhouse.io/january/jobs/4017062007",
@@ -11958,7 +11958,7 @@
         "company_name": "Dev Technology Group",
         "id": "fff6a747-010f-422a-afcc-3f697797d3de",
         "title": "Entry level New graduates - Computer Science/CIS",
-        "active": true,
+        "active": false,
         "date_updated": 1711908813,
         "date_posted": 1711908813,
         "url": "https://boards.greenhouse.io/devfuturetalent/jobs/6926223002",
@@ -15312,7 +15312,7 @@
         "company_name": "Latitude AI",
         "id": "8ab5910a-27c0-4c38-8482-4c1607c98afc",
         "title": "GIS Production Analyst - Contractor",
-        "active": true,
+        "active": false,
         "date_updated": 1714576904,
         "date_posted": 1714576904,
         "url": "https://boards.greenhouse.io/latitude/jobs/5939542",
@@ -19161,7 +19161,7 @@
         "company_name": "Axon",
         "id": "94bb136b-91bf-4dc6-bc26-55f19b9c6339",
         "title": "Data Solutions Engineer I - Remote",
-        "active": true,
+        "active": false,
         "date_updated": 1715713520,
         "date_posted": 1715713520,
         "url": "https://boards.greenhouse.io/axon/jobs/5129078003",
@@ -19193,7 +19193,7 @@
         "company_name": "Luna Physical Therapy",
         "id": "bf8fdc11-dc1e-4f45-a108-e673941bd600",
         "title": "Clinical Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1715711750,
         "date_posted": 1715711750,
         "url": "https://jobs.lever.co/lunaphysicaltherapy/5630c6a9-76a0-48d2-b37e-41a6be9d7cc6/apply",
@@ -19401,7 +19401,7 @@
         "company_name": "Labelbox",
         "id": "21131a30-3a0e-4004-a540-6043d656ea44",
         "title": "AI Tutor \u2013 German - Project based",
-        "active": true,
+        "active": false,
         "date_updated": 1715297145,
         "date_posted": 1715297145,
         "url": "https://boards.greenhouse.io/labelbox/jobs/4372449007",
@@ -19417,7 +19417,7 @@
         "company_name": "Mediabrands",
         "id": "a804e277-b0a6-42b4-8047-f2c8bc186eeb",
         "title": "Associate \u2013 Programmatic - NY",
-        "active": true,
+        "active": false,
         "date_updated": 1715296324,
         "date_posted": 1715296324,
         "url": "https://boards.greenhouse.io/mediabrands/jobs/4354777007",
@@ -20330,7 +20330,7 @@
         "company_name": "Gemini",
         "id": "d062e142-8f84-4d97-90d1-d71e53a49c39",
         "title": "Software Developer - Security",
-        "active": true,
+        "active": false,
         "date_updated": 1715785816,
         "date_posted": 1715785816,
         "url": "https://boards.greenhouse.io/embed/job_app?for=gemini&token=5905734&gh_jid=5905734",
@@ -20442,7 +20442,7 @@
         "company_name": "Datavant",
         "id": "c91ab12c-29a1-4e59-87f2-373be45e483c",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1715728227,
         "date_posted": 1715728227,
         "url": "https://www.datavant.com/about/careers/salaried-roles?gh_jid=7294595002",
@@ -20450,6 +20450,246 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Datavant",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Pendo",
+        "id": "2d16f293-dfe8-4637-ba5b-aab1f1528093",
+        "title": "Software Engineer - Associate",
+        "active": true,
+        "date_updated": 1715887090,
+        "date_posted": 1715873145,
+        "url": "https://boards.greenhouse.io/pendo/jobs/7445401002",
+        "locations": [
+            "Sheffield, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Pendo",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Latitude AI",
+        "id": "bc84cc2c-c5d6-415c-819a-2241ea996e93",
+        "title": "GIS Production Analyst - Contractor",
+        "active": true,
+        "date_updated": 1715872958,
+        "date_posted": 1715872958,
+        "url": "https://boards.greenhouse.io/latitude/jobs/5970342",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/LatitudeAI",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "OwnBackup",
+        "id": "3cadff54-b01c-45f4-8978-c55077374638",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1715872222,
+        "date_posted": 1715872222,
+        "url": "https://www.owndata.com/jobs?gh_jid=7100330002",
+        "locations": [
+            "Englewood, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/OwnBackup",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Nutanix",
+        "id": "ab9f483b-1395-4f61-ac58-c94b6899432c",
+        "title": "Member of Technical Staff 1 - Bachelor's degree ONLY",
+        "active": true,
+        "date_updated": 1715872143,
+        "date_posted": 1715872143,
+        "url": "https://jobs.jobvite.com/nutanix/job/o2fstfwW?nl=1&nl=1&fr=false",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Nutanix",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Stytch",
+        "id": "59ab3dd5-f71f-45d2-b603-2a20fa16df95",
+        "title": "Developer Success - Hawaii Standard Time",
+        "active": true,
+        "date_updated": 1715814416,
+        "date_posted": 1715814416,
+        "url": "https://jobs.ashbyhq.com/stytch/c4aa7383-1867-473d-8329-bfd52d3ffbd6/application",
+        "locations": [
+            "Honolulu, HI"
+        ],
+        "company_url": "https://simplify.jobs/c/Stytch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Dandy",
+        "id": "b297be7b-c08c-4caa-9497-2cd462f7644d",
+        "title": "Order Production Flow \u2013 Entry Level",
+        "active": true,
+        "date_updated": 1715814526,
+        "date_posted": 1715814526,
+        "url": "https://jobs.ashbyhq.com/dandy/3ba880b4-f95f-4760-99ef-cd53daeec490/application",
+        "locations": [
+            "Lehi, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/d120984f-ffa2-48dd-a54b-9f3efe4c5fd5",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Art of Problem Solving",
+        "id": "b2b05a8b-fe55-4742-acb7-045df50290f5",
+        "title": "Math Instructor",
+        "active": true,
+        "date_updated": 1715843883,
+        "date_posted": 1715843883,
+        "url": "https://artofproblemsolving.com/careers/job/5971928003?gh_jid=5971928003",
+        "locations": [
+            "South Orange, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Art-of-Problem-Solving",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Diligent Robotics",
+        "id": "b41cc88c-af1f-4b9e-91fc-fcb8c5e76d51",
+        "title": "Part Time \u2013 Clinical Robot Associate - Columbus - OH",
+        "active": true,
+        "date_updated": 1715815376,
+        "date_posted": 1715815376,
+        "url": "https://boards.greenhouse.io/diligentrobotics/jobs/5987657003",
+        "locations": [
+            "Columbus, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Diligent-Robotics",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Diligent Robotics",
+        "id": "057a19e8-f634-4c45-b965-d75abf561e25",
+        "title": "Clinical Robot Associate - Columbus - OH",
+        "active": true,
+        "date_updated": 1715815350,
+        "date_posted": 1715815350,
+        "url": "https://boards.greenhouse.io/diligentrobotics/jobs/5987643003",
+        "locations": [
+            "Columbus, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Diligent-Robotics",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Lucid",
+        "id": "73fb2cf0-1505-4488-a20a-690747eac682",
+        "title": "Analytics Engineer",
+        "active": true,
+        "date_updated": 1715815091,
+        "date_posted": 1715815091,
+        "url": "https://boards.greenhouse.io/lucidsoftware/jobs/5179630004",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Lucid",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Lucid",
+        "id": "8215b2bb-30ad-4ea4-a275-4083d45a4dfb",
+        "title": "Analytics Engineer",
+        "active": true,
+        "date_updated": 1715815085,
+        "date_posted": 1715815085,
+        "url": "https://boards.greenhouse.io/lucidsoftware/jobs/5179646004",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Lucid",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Octopus Energy",
+        "id": "67c26513-ed8e-4c94-81da-b71ad83a1c47",
+        "title": "Domestic Surveyor - Oxfordshire",
+        "active": true,
+        "date_updated": 1715814703,
+        "date_posted": 1715814703,
+        "url": "https://jobs.lever.co/octoenergy/0e7a0f5d-5c0f-40b8-a3a4-27e0ca9ee2b2/apply",
+        "locations": [
+            "Remote in UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Octopus-energy",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Alarm.com",
+        "id": "5c5c09b7-6984-46ab-aba3-70db9eff385c",
+        "title": "Software Engineer - Android",
+        "active": true,
+        "date_updated": 1715814936,
+        "date_posted": 1715814936,
+        "url": "https://boards.greenhouse.io/alarmcom/jobs/7431154002",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Alarm",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Arsiem Corporation",
+        "id": "ed8c22bb-d7b9-43cb-9e11-3480ac5b5d98",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1715815039,
+        "date_posted": 1715815039,
+        "url": "https://jobs.lever.co/arsiem/f94bf15a-2979-4326-ad2e-d0c510ef9694/apply",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Arsiem-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Welocalize",
+        "id": "2f60bab4-6773-4cf6-8609-2f5e2a3a46b8",
+        "title": "Ads Quality Rater - English - US",
+        "active": true,
+        "date_updated": 1715868886,
+        "date_posted": 1709857706,
+        "url": "https://jobs.lever.co/welocalize/97e49bfe-36bf-486a-ac0d-12cc31f9d562/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Welocalize",
         "is_visible": true,
         "sponsorship": "Other"
     }
