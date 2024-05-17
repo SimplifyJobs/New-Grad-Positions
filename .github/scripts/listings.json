@@ -1484,7 +1484,7 @@
         "company_name": "Palantir",
         "id": "f6f83b45-cf4c-4a3e-8f32-4c64672610a1",
         "title": "Forward Deployed Software Engineer \u2013 New Grad - US Government",
-        "active": true,
+        "active": false,
         "date_updated": 1691428046,
         "date_posted": 1690903192,
         "url": "https://jobs.lever.co/palantir/cbe90327-3e6e-451c-a54c-1d3cbcef5aeb/apply",
@@ -5258,7 +5258,7 @@
         "company_name": "Palantir",
         "id": "e94f5b72-1ca3-4376-8098-a07eacf2d7e1",
         "title": "Software Engineer \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1698795528,
         "date_posted": 1698795528,
         "url": "https://jobs.lever.co/palantir/19d5e5f8-37a6-4a6f-b2ca-423370b3a1c2/apply",
@@ -13348,7 +13348,7 @@
         "company_name": "Ninja Van",
         "id": "273ccbe2-52ce-4616-bd19-5b3bc0e1c9ea",
         "title": "Data Support Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1711150475,
         "date_posted": 1711150475,
         "url": "https://jobs.lever.co/ninjavan/ffff82d3-769f-4c04-9995-04392d3354bc/apply",
@@ -16546,7 +16546,7 @@
         "company_name": "Jam City",
         "id": "bbf270ac-656b-455f-89d5-50cb59781968",
         "title": "Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1715281902,
         "date_posted": 1710805097,
         "url": "https://jobs.lever.co/jamcity/42f5c51e-b752-4d8e-9edb-e4f43758b848/apply",
@@ -19530,7 +19530,7 @@
         "company_name": "ERG",
         "id": "27749ed2-460c-408a-a252-d21fc5adb4e1",
         "title": "Environmental Analyst - Clean Transportation and Circular Economy",
-        "active": true,
+        "active": false,
         "date_updated": 1715108788,
         "date_posted": 1714520016,
         "url": "https://jobs.lever.co/erg/47436c60-b84a-4ae2-942b-9502659c52bc/apply",
@@ -19546,7 +19546,7 @@
         "company_name": "Universal Engineering Sciences",
         "id": "05954f13-bc42-4ef2-b5f8-d118ec56bcaf",
         "title": "Entry-Level Geologist/Hydrogeologist",
-        "active": true,
+        "active": false,
         "date_updated": 1715281752,
         "date_posted": 1714509424,
         "url": "https://jobs.lever.co/universalengineeringsciences/cc24cf0c-b915-4d17-84c1-22f0074e7c8d/apply",
@@ -19610,7 +19610,7 @@
         "company_name": "Spry Methods",
         "id": "02b70345-3603-4d18-9a4e-674bd11b46ba",
         "title": "Intelligence Analyst 1",
-        "active": true,
+        "active": false,
         "date_updated": 1714679656,
         "date_posted": 1714022205,
         "url": "https://jobs.lever.co/sprymethods/321a24ea-4cad-4a21-87bd-f53ff6a4a570/apply",
@@ -19866,7 +19866,7 @@
         "company_name": "CaptiveAire Systems",
         "id": "8dd936e3-f991-49ce-8557-324114e04db4",
         "title": "Technical Sales and Field Service Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1712947485,
         "date_posted": 1712947485,
         "url": "https://www.captiveaire.com/Careers/Opening.asp?id=7330495002&gh_jid=7330495002",
@@ -20538,7 +20538,7 @@
         "company_name": "Dandy",
         "id": "b297be7b-c08c-4caa-9497-2cd462f7644d",
         "title": "Order Production Flow \u2013 Entry Level",
-        "active": true,
+        "active": false,
         "date_updated": 1715814526,
         "date_posted": 1715814526,
         "url": "https://jobs.ashbyhq.com/dandy/3ba880b4-f95f-4760-99ef-cd53daeec490/application",
@@ -20666,7 +20666,7 @@
         "company_name": "Arsiem Corporation",
         "id": "ed8c22bb-d7b9-43cb-9e11-3480ac5b5d98",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1715815039,
         "date_posted": 1715815039,
         "url": "https://jobs.lever.co/arsiem/f94bf15a-2979-4326-ad2e-d0c510ef9694/apply",
@@ -20690,6 +20690,150 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Welocalize",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Match Group",
+        "id": "57ff5272-e025-441e-a464-1507d8eb9d5a",
+        "title": "Data Scientist I",
+        "active": true,
+        "date_updated": 1715973527,
+        "date_posted": 1715929584,
+        "url": "https://jobs.lever.co/matchgroup/c69a83e8-d2c5-46d4-a544-45a984370666/apply",
+        "locations": [
+            "Hollywood, LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Match-Group",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Optiver",
+        "id": "50ad6f74-9212-47ba-82ae-68bf380f2777",
+        "title": "SPX Floor Trader Trainee",
+        "active": true,
+        "date_updated": 1715901685,
+        "date_posted": 1715901685,
+        "url": "https://optiver.com/working-at-optiver/career-opportunities/7446078002/?gh_jid=7446078002",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Optiver",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Welocalize",
+        "id": "ba4dc045-ecde-44b2-a873-7771a31f4ba3",
+        "title": "Entry-Level AI Data Rater - English - UK",
+        "active": true,
+        "date_updated": 1715901445,
+        "date_posted": 1715901445,
+        "url": "https://jobs.lever.co/welocalize/f6205a41-7148-47d7-8265-6b345ffb4f84/apply",
+        "locations": [
+            "Remote in UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Welocalize",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "SunSource",
+        "id": "66f9f1a2-b83c-4630-a88c-d275370d6759",
+        "title": "Customer Service Representative",
+        "active": true,
+        "date_updated": 1715901170,
+        "date_posted": 1715901170,
+        "url": "https://jobs.lever.co/sunsrce/f293cd3d-62a8-4187-ae07-a7105c9d792b/apply",
+        "locations": [
+            "Metairie, LA"
+        ],
+        "company_url": "https://simplify.jobs/c/SunSource",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Mediabrands",
+        "id": "3b9871ef-223e-4971-8ae3-630aaac3823d",
+        "title": "Associate \u2013 Addressable TV",
+        "active": true,
+        "date_updated": 1715901060,
+        "date_posted": 1715901060,
+        "url": "https://boards.greenhouse.io/mediabrands/jobs/4334298007",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Mediabrands",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "SAM Labs",
+        "id": "bfc622cc-3049-447e-80fb-ba48ecfb83b1",
+        "title": "Portland Public Schools Summer Camp STEAM Instructor - July 1 - August 1 - $35/h =",
+        "active": true,
+        "date_updated": 1715973378,
+        "date_posted": 1715066498,
+        "url": "https://boards.greenhouse.io/samlabs/jobs/5949888",
+        "locations": [
+            "Portland, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/SAMLabs",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Arsiem Corporation",
+        "id": "7e549857-ae73-4c92-8932-52f696dea09b",
+        "title": "Software Engineer 0",
+        "active": true,
+        "date_updated": 1715908474,
+        "date_posted": 1714778695,
+        "url": "https://jobs.lever.co/arsiem/8dd1614b-9f2c-4fe1-8830-5bf7e18b298b/apply",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Arsiem-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Findhelp, A Public Benefit Corporation",
+        "id": "38b3375a-0e15-4a14-a61d-4bdb71587c39",
+        "title": "Data Research Specialist",
+        "active": true,
+        "date_updated": 1715908176,
+        "date_posted": 1713434595,
+        "url": "https://jobs.lever.co/findhelp/1e95144e-5a18-4a8b-a69a-c507d586fcb3/apply",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Findhelp,-A-Public-Benefit-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "FRONTSTEPS",
+        "id": "c228157e-486d-4025-ab40-7701b139dbff",
+        "title": "Software Implementation Specialist I - Onsite",
+        "active": true,
+        "date_updated": 1715908974,
+        "date_posted": 1713569323,
+        "url": "https://jobs.lever.co/frontsteps/0894b746-0543-48ee-97d5-d8e5746fbe95/apply",
+        "locations": [
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/FRONTSTEPS",
         "is_visible": true,
         "sponsorship": "Other"
     }
