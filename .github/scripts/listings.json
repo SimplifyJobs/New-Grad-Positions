@@ -14347,7 +14347,7 @@
         "company_name": "Visa",
         "id": "c6e2edaa-26e0-430f-9f97-e18cd9bee381",
         "title": "Software Engineer - New College Grad-2024",
-        "active": true,
+        "active": false,
         "date_updated": 1715353763,
         "date_posted": 1715353763,
         "url": "https://jobs.smartrecruiters.com/Visa/743999986682224",
@@ -20834,6 +20834,55 @@
             "Denver, CO"
         ],
         "company_url": "https://simplify.jobs/c/FRONTSTEPS",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Artsy",
+        "id": "20c4fcf3-b7b6-486f-8b5d-5fc148bc6f37",
+        "title": "Engineering",
+        "active": true,
+        "date_updated": 1715987614,
+        "date_posted": 1715987614,
+        "url": "https://boards.greenhouse.io/artsy/jobs/4450937",
+        "locations": [
+            "London, UK",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Artsy",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Arsiem Corporation",
+        "id": "44df3bb7-a0b4-4674-afd4-e46c43231db3",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1715987606,
+        "date_posted": 1715987606,
+        "url": "https://jobs.lever.co/arsiem/1a74e319-c20e-43c8-b839-6a68c9210cc4/apply",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Arsiem-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Dialpad",
+        "id": "8b7e1709-8159-4e19-9d59-a34c3a0577db",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1715987562,
+        "date_posted": 1715987562,
+        "url": "https://boards.greenhouse.io/dialpad/jobs/7443266002",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Dialpad",
         "is_visible": true,
         "sponsorship": "Other"
     }
