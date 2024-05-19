@@ -222,7 +222,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[Enable](https://simplify.jobs/c/Enable)** | Entry-Level Implementation Analyst | SF | <a href="https://jobs.lever.co/enable/2efabbf3-ba1d-498a-b7c2-c76d1c2c1578/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/fa641db0-d723-48b8-84ea-6f130e252ba1?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Apr 26 |
 | **Saronic** | EHS Technician | Austin, TX | 🔒 | Apr 25 |
 | **Propelus** | Data Analyst | Denver, CO | 🔒 | Apr 25 |
-| **[Astranis](https://simplify.jobs/c/Astranis)** | Full Stack Engineer - Network Software Engineer | SF | <a href="https://boards.greenhouse.io/astranis/jobs/4360819006?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/92f837bb-bd83-447d-ace4-fcdc30a271df?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Apr 25 |
+| **Astranis** | Full Stack Engineer - Network Software Engineer | SF | 🔒 | Apr 25 |
 | **Keywords Studios** | AI Prompt & Language Specialist - Arabic | Remote | 🔒 | Apr 25 |
 | **Keywords Studios** | AI Prompt & Language Specialist - Italian | Remote | 🔒 | Apr 25 |
 | **Keywords Studios** | AI Prompt & Language Specialist - Spanish | Remote | 🔒 | Apr 25 |
