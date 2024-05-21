@@ -3941,7 +3941,7 @@
         "company_name": "HPR (Hyannis Port Research)",
         "id": "96c767c5-c497-4669-9bc9-2df91901eccd",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1695568494,
         "date_posted": 1695568494,
         "url": "https://boards.greenhouse.io/hyannisportresearch/jobs/5597621003",
@@ -15986,7 +15986,7 @@
         "company_name": "Wayfair",
         "id": "2ef12825-b82e-469c-bce1-5143ba596066",
         "title": "Software Engineer I - Summer 2024",
-        "active": true,
+        "active": false,
         "date_updated": 1709583140,
         "date_posted": 1708359003,
         "url": "https://www.wayfair.com/careers/jobs/6945942002?gh_jid=6945942002",
@@ -16098,7 +16098,7 @@
         "company_name": "Saviynt",
         "id": "a0bcf464-728a-4df1-99e4-1be3b1d3b1d5",
         "title": "Associate Engineer - Software Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1715044257,
         "date_posted": 1691911540,
         "url": "https://jobs.lever.co/saviynt/dec76671-c6d7-47f5-bf1a-90e3c11037ea/apply",
@@ -20394,7 +20394,7 @@
         "company_name": "G2",
         "id": "39947f58-1a52-4847-89d5-51f91642b5cd",
         "title": "Associate Software Engineer - Ruby on Rails",
-        "active": true,
+        "active": false,
         "date_updated": 1715782764,
         "date_posted": 1715709044,
         "url": "https://boards.greenhouse.io/g2crowd/jobs/5952426",
@@ -21401,6 +21401,118 @@
             "Gaithersburg, MD"
         ],
         "company_url": "https://simplify.jobs/c/Art-of-Problem-Solving",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Triumvirate Environmental",
+        "id": "dc1daac7-4822-4d69-a20c-2a779ea9ba29",
+        "title": "Technical Services Associate",
+        "active": true,
+        "date_updated": 1716305128,
+        "date_posted": 1716305128,
+        "url": "https://boards.greenhouse.io/triumvirateenvironmental/jobs/4365510006",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Triumvirate-Environmental",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Trustpilot",
+        "id": "fcecdf26-8977-4b85-8419-c627aa5863ed",
+        "title": "Software Engineer I - API Platform",
+        "active": true,
+        "date_updated": 1716304762,
+        "date_posted": 1716304762,
+        "url": "https://business.trustpilot.com/jobs/5941007?gh_jid=5941007",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Trustpilot",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Dialpad",
+        "id": "5c8ca227-d84b-4f63-8e79-921fe3a684aa",
+        "title": "Multilingual Data Specialist",
+        "active": true,
+        "date_updated": 1716318574,
+        "date_posted": 1716304294,
+        "url": "https://boards.greenhouse.io/dialpad/jobs/7444760002",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Dialpad",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "EarnIn",
+        "id": "186d954f-1fec-434d-a620-09c7849d7d58",
+        "title": "Fintech Product Entrepreneur in Residence",
+        "active": true,
+        "date_updated": 1716247485,
+        "date_posted": 1716247485,
+        "url": "https://boards.greenhouse.io/earnin/jobs/5976846",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Earnin",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Tastylive",
+        "id": "2dd067ae-abe2-4f9d-bc4c-dc99a8104356",
+        "title": "Trading Services Representative",
+        "active": true,
+        "date_updated": 1716247214,
+        "date_posted": 1716247214,
+        "url": "https://boards.greenhouse.io/tastylive/jobs/5175203004",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Tastylive",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Octopus Energy",
+        "id": "a9f26680-d117-4f99-861a-d19e25815f95",
+        "title": "Domestic Surveyor - Coventry",
+        "active": true,
+        "date_updated": 1716300373,
+        "date_posted": 1715814702,
+        "url": "https://jobs.lever.co/octoenergy/b720bdef-72fb-4097-9767-15d6eefa4510/apply",
+        "locations": [
+            "Remote in UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Octopus-energy",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Octopus Energy",
+        "id": "be4cf449-0b29-41f8-8dde-e82b046ea31f",
+        "title": "Domestic Surveyor - Milton Keynes",
+        "active": true,
+        "date_updated": 1716300301,
+        "date_posted": 1715814703,
+        "url": "https://jobs.lever.co/octoenergy/e80fe413-6776-4a37-9b08-e91ac03aab66/apply",
+        "locations": [
+            "Remote in UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Octopus-energy",
         "is_visible": true,
         "sponsorship": "Other"
     }
