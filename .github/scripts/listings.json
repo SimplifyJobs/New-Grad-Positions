@@ -13316,7 +13316,7 @@
         "company_name": "Hive",
         "id": "a1097d61-803e-40bf-a33b-2ae676187628",
         "title": "Analyst \u2013 Enterprise Analytics",
-        "active": false,
+        "active": true,
         "date_updated": 1711091265,
         "date_posted": 1711091265,
         "url": "https://jobs.lever.co/hive/e7ce425f-1bb3-4703-ac0b-0b7b87b0794e/apply",
@@ -15119,7 +15119,7 @@
         "company_name": "DigitalOcean",
         "id": "86f76177-1919-49e7-ae97-2b1f229022d8",
         "title": "Software Engineer I - Resiliency:Maintenance",
-        "active": true,
+        "active": false,
         "date_updated": 1714511280,
         "date_posted": 1714511280,
         "url": "https://www.digitalocean.com/careers/position/apply/?gh_jid=5938589",
@@ -15151,7 +15151,7 @@
         "company_name": "DigitalOcean",
         "id": "bfa5f646-e45c-4fdf-965c-957b1766b9d1",
         "title": "Software Engineer I - Resiliency:Maintenance",
-        "active": true,
+        "active": false,
         "date_updated": 1714511283,
         "date_posted": 1714511283,
         "url": "https://www.digitalocean.com/careers/position/apply/?gh_jid=5938363",
@@ -15376,7 +15376,7 @@
         "company_name": "Keywords Studios",
         "id": "8a8a921f-f3c6-40c8-b890-1b7614439d9a",
         "title": "AI Prompt & Language Specialist - English",
-        "active": false,
+        "active": true,
         "date_updated": 1714179622,
         "date_posted": 1714179622,
         "url": "https://apply.workable.com/keywords-intl1/j/B5960B4CE2/apply",
@@ -16850,7 +16850,7 @@
         "company_name": "Brain Corp",
         "id": "81cef0d1-2acc-4442-8187-86c226dc338c",
         "title": "Account Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1713477981,
         "date_posted": 1713403068,
         "url": "https://boards.greenhouse.io/braincorporation/jobs/7336422002",
@@ -17987,7 +17987,7 @@
         "company_name": "Anne Lewis Strategies",
         "id": "572ed5ac-4f4d-4cfc-aba6-f062d952ac0e",
         "title": "Email Production Coordinator - Election Cycle 2024 - Mst/Pst",
-        "active": true,
+        "active": false,
         "date_updated": 1715303067,
         "date_posted": 1713407549,
         "url": "https://jobs.lever.co/MissionWired/ea3cbf46-8eee-48bb-ae53-c98d4ccaeff9/apply",
@@ -21513,6 +21513,102 @@
             "Remote in UK"
         ],
         "company_url": "https://simplify.jobs/c/Octopus-energy",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Labelbox",
+        "id": "cba7e3bb-d841-458b-a263-d2bd167c11dc",
+        "title": "AI Tutor \u2013 Korean - Project based",
+        "active": true,
+        "date_updated": 1716391161,
+        "date_posted": 1716391161,
+        "url": "https://boards.greenhouse.io/labelbox/jobs/4382237007",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Labelbox",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Labelbox",
+        "id": "4afc1a32-4e8d-4d09-b5e7-130021de5e5f",
+        "title": "AI Tutor \u2013 Japanese - Project based",
+        "active": true,
+        "date_updated": 1716391161,
+        "date_posted": 1716391161,
+        "url": "https://boards.greenhouse.io/labelbox/jobs/4382712007",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Labelbox",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "PBS Engineering and Environmental",
+        "id": "4d21f32a-317d-40e9-99be-7d7a5362749a",
+        "title": "Environmental Staff Professional",
+        "active": true,
+        "date_updated": 1716333295,
+        "date_posted": 1716333295,
+        "url": "https://boards.greenhouse.io/pbsusa/jobs/4422859005",
+        "locations": [
+            "Springfield, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/PBS-Engineering-and-Environmental",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Magna",
+        "id": "236cd6ca-c9ce-48f6-8ee9-3ef4a015ac10",
+        "title": "Software Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1716333203,
+        "date_posted": 1716333203,
+        "url": "https://boards.greenhouse.io/magna/jobs/4382449007",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Magna",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Redhorse",
+        "id": "b8b6bd63-ae29-498d-ba66-d498d648b151",
+        "title": "Full Stack Software Engineer Level I - Active Secret Clearance Required",
+        "active": true,
+        "date_updated": 1716333112,
+        "date_posted": 1716333112,
+        "url": "https://jobs.lever.co/redhorsecorp/3915e397-e0f4-4401-be03-f7fa422ff1a4/apply",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Redhorse",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "PolyAI",
+        "id": "d6e5175e-7e4b-4692-b02b-02830c18643b",
+        "title": "Junior Software Engineer - Data-UK Based",
+        "active": true,
+        "date_updated": 1716386927,
+        "date_posted": 1712360062,
+        "url": "https://apply.workable.com/poly-ai/j/6FCA9DD3C3/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/PolyAI",
         "is_visible": true,
         "sponsorship": "Other"
     }
