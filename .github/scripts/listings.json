@@ -14540,7 +14540,7 @@
         "company_name": "Red Ventures",
         "id": "6ddfa459-114a-495b-8323-b1eb74672832",
         "title": "Associate Web Publisher - Education",
-        "active": true,
+        "active": false,
         "date_updated": 1715239698,
         "date_posted": 1715239698,
         "url": "https://www.redventures.com/careers/overview?gh_jid=5904907",
@@ -21199,7 +21199,7 @@
         "company_name": "Cars Commerce",
         "id": "ab941716-2e91-420e-8f9e-cade4c0619c2",
         "title": "Production Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1714605041,
         "date_posted": 1714605041,
         "url": "https://boards.greenhouse.io/carsdotcom/jobs/5941710",
@@ -21281,7 +21281,7 @@
         "company_name": "Capital One",
         "id": "5fad2efe-5af4-477d-91ff-49722b901714",
         "title": "Associate \u2013 New Grad 2025 Full Time - Business Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1715037742,
         "date_posted": 1715037742,
         "url": "https://capitalone.wd1.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Business-Analyst---New-Grad-2025-Full-Time_R187183",
@@ -21609,6 +21609,104 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/PolyAI",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Diligent Robotics",
+        "id": "464b5fd0-4521-4989-9b40-840f74221b1f",
+        "title": "Part Time \u2013 Clinical Robot Associate - Kansas City - MO",
+        "active": true,
+        "date_updated": 1716448570,
+        "date_posted": 1716448570,
+        "url": "https://boards.greenhouse.io/diligentrobotics/jobs/5980205003",
+        "locations": [
+            "Kansas City, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Diligent-Robotics",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Welocalize",
+        "id": "368645e2-ad96-4690-a6a3-fa736913e3ee",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1716491740,
+        "date_posted": 1716420539,
+        "url": "https://jobs.lever.co/welocalize/562f3b99-a157-4b18-9cb9-432bbc8999f7/apply",
+        "locations": [
+            "Burlingame, CA",
+            "Redmond, WA",
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Welocalize",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "StepStone Group",
+        "id": "7d628a08-378b-48f4-83be-440b5217be2d",
+        "title": "Data Analytics & Reporting - Junior Analyst",
+        "active": true,
+        "date_updated": 1716419757,
+        "date_posted": 1716419757,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=5983248",
+        "locations": [
+            "La Jolla, San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/StepStoneGroup",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "iCapital Network",
+        "id": "e4af0626-672c-4735-98b4-453584010df3",
+        "title": "Developer \u2013 Automation Team - RPA - Associate",
+        "active": true,
+        "date_updated": 1716419527,
+        "date_posted": 1716419527,
+        "url": "https://boards.greenhouse.io/icapitalnetwork/jobs/7322978002",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/iCapital-Network",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Mediabrands",
+        "id": "03a1a525-3a7b-4551-913c-e9b5862497e8",
+        "title": "Associate \u2013 Addressable Activation",
+        "active": true,
+        "date_updated": 1716419499,
+        "date_posted": 1716419499,
+        "url": "https://boards.greenhouse.io/mediabrands/jobs/4329908007",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Mediabrands",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Anteriad",
+        "id": "aa6061c8-4f2b-476e-bd0b-9815fd09a978",
+        "title": "Data Engineer",
+        "active": true,
+        "date_updated": 1716491782,
+        "date_posted": 1714778634,
+        "url": "https://boards.greenhouse.io/anteriad/jobs/5171639004",
+        "locations": [
+            "Littleton, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Anteriad",
         "is_visible": true,
         "sponsorship": "Other"
     }
