@@ -8735,7 +8735,7 @@
         "company_name": "Coalition",
         "id": "82a61642-fddf-48b0-8ebc-e447826c6a2c",
         "title": "Software Engineer-Cyber Policies",
-        "active": true,
+        "active": false,
         "date_updated": 1709929427,
         "date_posted": 1709137760,
         "url": "https://careers.coalitioninc.com/job-posting/?gh_jid=4378803005",
@@ -8751,7 +8751,7 @@
         "company_name": "Coalition",
         "id": "5659f50d-df8a-4965-beb7-26e70e8a66c2",
         "title": "Software Engineer-Cyber Policies",
-        "active": true,
+        "active": false,
         "date_updated": 1709929088,
         "date_posted": 1709137760,
         "url": "https://careers.coalitioninc.com/job-posting/?gh_jid=4376725005",
@@ -19161,7 +19161,7 @@
         "company_name": "Axon",
         "id": "94bb136b-91bf-4dc6-bc26-55f19b9c6339",
         "title": "Data Solutions Engineer I - Remote",
-        "active": false,
+        "active": true,
         "date_updated": 1715713520,
         "date_posted": 1715713520,
         "url": "https://boards.greenhouse.io/axon/jobs/5129078003",
@@ -21747,7 +21747,7 @@
         "company_name": "Canonical",
         "id": "bd774aba-750d-41d5-b31d-0b4f1940cf71",
         "title": "People Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1716505652,
         "date_posted": 1716505652,
         "url": "https://boards.greenhouse.io/canonical/jobs/5088111",
@@ -21870,6 +21870,71 @@
             "Columbus, OH"
         ],
         "company_url": "https://simplify.jobs/c/Xometry",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Awardco",
+        "id": "dbd5dcf7-7a36-4ba2-97ed-f59e09470bdc",
+        "title": "Front-End Software Engineer",
+        "active": true,
+        "date_updated": 1716593025,
+        "date_posted": 1716593025,
+        "url": "https://award.co/position?gh_jid=4327802004",
+        "locations": [
+            "Orem, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Awardco",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Diligent Robotics",
+        "id": "68265659-a552-4760-88b4-cc501670c861",
+        "title": "Part Time \u2013 Clinical Robot Associate - Rochester - NY",
+        "active": true,
+        "date_updated": 1716592643,
+        "date_posted": 1716592643,
+        "url": "https://boards.greenhouse.io/diligentrobotics/jobs/5998986003",
+        "locations": [
+            "Rochester, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Diligent-Robotics",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Navan (fka TripActions)",
+        "id": "a0d5a6b0-d343-48ef-b485-3856cb2a9469",
+        "title": "Evergreen: New College Grad Software Engineer - Front-End",
+        "active": true,
+        "date_updated": 1716592037,
+        "date_posted": 1716592037,
+        "url": "https://tripactions.com/job-openings?gh_jid=5980878",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Navan",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Datadog",
+        "id": "0a8168ae-7f75-40b6-9958-a4f2c99f6d39",
+        "title": "Sales Systems Coordinator - US East",
+        "active": true,
+        "date_updated": 1716593180,
+        "date_posted": 1716593180,
+        "url": "https://careers.datadoghq.com/detail/5989412/?gh_jid=5989412",
+        "locations": [
+            "Cambridge, MA",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Datadog",
         "is_visible": true,
         "sponsorship": "Other"
     }
