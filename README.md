@@ -302,7 +302,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Hello Fresh** | Analyst – Consumer & Product Insights | NYC</br>Boulder, CO | 🔒 | Apr 23 |
 | **Persona** | Software Engineer – New Grad - Sf | SF | 🔒 | Apr 23 |
 | **[Weedmaps](https://simplify.jobs/c/Weedmaps)** | Software Engineer I - Android - Hybrid | Remote in USA | <a href="https://boards.greenhouse.io/weedmaps77/jobs/7251795002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/56335156-892f-4d81-804a-441af65fd0fa?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Apr 23 |
-| **[Affirm](https://simplify.jobs/c/Affirm)** | Software Engineer I - Backend - Disclosures | Remote | <a href="https://boards.greenhouse.io/affirm/jobs/5958216003?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/7ed7469b-87d6-4888-bde0-d7170a58f529?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Apr 23 |
+| **Affirm** | Software Engineer I - Backend - Disclosures | Remote | 🔒 | Apr 23 |
 | **WindRanger** | Zkvalidator - Research Analyst | Remote | 🔒 | Apr 23 |
 | **PFM** | Project Controls Engineer | Frederick, MD | 🔒 | Apr 23 |
 | **PFM** | Project Controls Engineer | Washington, DC | 🔒 | Apr 23 |
@@ -559,7 +559,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Xylem** | Application Engineer | Cartersville, GA</br>Fort Mill, SC</br>Suwanee, GA | 🔒 | Mar 22 |
 | **PFM** | Project Engineer - Process Engineering | Washington, DC | 🔒 | Mar 22 |
 | **PFM** | Project Engineer - Technical Manufactuing Solutions | Raleigh, NC | 🔒 | Mar 22 |
-| **[Openmesh Networks](https://simplify.jobs/c/Openmesh-Networks)** | Junior Developer in Consensus Algorithms Intern - Blockchain Consensus and Development | Remote in USA | <a href="https://boards.greenhouse.io/openmesh/jobs/4145262007?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/036eeff8-4d34-40de-946b-dab69c1a4f7c?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Mar 22 |
+| **Openmesh Networks** | Junior Developer in Consensus Algorithms Intern - Blockchain Consensus and Development | Remote in USA | 🔒 | Mar 22 |
 | **Canonical** | Python Software Engineer - Ubuntu Hardware Certification Team | Remote in USA | 🔒 | Mar 22 |
 | **AMT Engineering** | Entry Level Water Resources Engineer | Towson, MD | 🔒 | Mar 22 |
 | **AMT Engineering** | Land Survey Field Technician | Washington, DC | 🔒 | Mar 22 |
