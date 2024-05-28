@@ -16498,7 +16498,7 @@
         "company_name": "Vail Systems",
         "id": "0314848a-ae74-404d-9385-e586596098bf",
         "title": "Software Engineer - Ivr",
-        "active": true,
+        "active": false,
         "date_updated": 1715303467,
         "date_posted": 1704384563,
         "url": "https://jobs.lever.co/vailsys/50747f82-bdfe-4d12-84f2-a52109efdb33/apply",
@@ -17571,7 +17571,7 @@
         "company_name": "ERG",
         "id": "7ade700d-6955-45a5-8bb2-939c8f1e0d33",
         "title": "Production Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1713434524,
         "date_posted": 1713434524,
         "url": "https://jobs.lever.co/erg/a36d0068-1266-4763-b6f6-0cc0934e9ac0/apply",
@@ -20971,7 +20971,7 @@
         "company_name": "Diligent Robotics",
         "id": "3cb32e71-c82f-4892-9626-339bb718b50c",
         "title": "Part Time \u2013 Clinical Robot Associate - Tacoma - WA",
-        "active": true,
+        "active": false,
         "date_updated": 1715728821,
         "date_posted": 1715728821,
         "url": "https://boards.greenhouse.io/diligentrobotics/jobs/5971166003",
@@ -21231,7 +21231,7 @@
         "company_name": "Diligent Robotics",
         "id": "a822a222-3401-4a83-8a02-ab17116bf146",
         "title": "Part Time \u2013 Clinical Robot Associate - Tacoma - WA",
-        "active": true,
+        "active": false,
         "date_updated": 1715702303,
         "date_posted": 1715702303,
         "url": "https://boards.greenhouse.io/diligentrobotics/jobs/5960691003",
@@ -21651,7 +21651,7 @@
         "company_name": "StepStone Group",
         "id": "7d628a08-378b-48f4-83be-440b5217be2d",
         "title": "Data Analytics & Reporting - Junior Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1716419757,
         "date_posted": 1716419757,
         "url": "https://boards.greenhouse.io/embed/job_app?token=5983248",
@@ -21667,7 +21667,7 @@
         "company_name": "iCapital Network",
         "id": "e4af0626-672c-4735-98b4-453584010df3",
         "title": "Developer \u2013 Automation Team - RPA - Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1716419527,
         "date_posted": 1716419527,
         "url": "https://boards.greenhouse.io/icapitalnetwork/jobs/7322978002",
@@ -21683,7 +21683,7 @@
         "company_name": "Mediabrands",
         "id": "03a1a525-3a7b-4551-913c-e9b5862497e8",
         "title": "Associate \u2013 Addressable Activation",
-        "active": true,
+        "active": false,
         "date_updated": 1716419499,
         "date_posted": 1716419499,
         "url": "https://boards.greenhouse.io/mediabrands/jobs/4329908007",
@@ -21935,6 +21935,86 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Datadog",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Datadog",
+        "id": "3e5dc897-f9c1-41cf-bd73-d842581119fb",
+        "title": "Sales Systems Coordinator - US East",
+        "active": true,
+        "date_updated": 1716909540,
+        "date_posted": 1716909540,
+        "url": "https://careers.datadoghq.com/detail/5997409/?gh_jid=5997409",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Datadog",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Datadog",
+        "id": "ee4a124a-2ea7-41a0-8abf-258c1a3fd06c",
+        "title": "Sales Systems Coordinator - US East",
+        "active": true,
+        "date_updated": 1716909538,
+        "date_posted": 1716909538,
+        "url": "https://careers.datadoghq.com/detail/5997402/?gh_jid=5997402",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Datadog",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Datadog",
+        "id": "2749a108-d505-4dd5-8195-2e4ec03e3756",
+        "title": "Sales Systems Coordinator - US East",
+        "active": true,
+        "date_updated": 1716909538,
+        "date_posted": 1716909538,
+        "url": "https://careers.datadoghq.com/detail/5997407/?gh_jid=5997407",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Datadog",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Varicent",
+        "id": "6855e6e1-4c1f-4ba0-8cb8-43044c0712d6",
+        "title": "Software Developer I",
+        "active": true,
+        "date_updated": 1716908878,
+        "date_posted": 1716908878,
+        "url": "https://jobs.lever.co/varicent/e9792b62-4e9c-4251-8d50-0faba9b74e64/apply",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Varicent",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Modernizing Medicine",
+        "id": "f3c9ef81-2191-43f8-a21c-078063d2ae19",
+        "title": "Data Analyst - Hybrid",
+        "active": true,
+        "date_updated": 1716923684,
+        "date_posted": 1714109672,
+        "url": "https://www.modmed.com/company/careers/?gh_jid=7418939002",
+        "locations": [
+            "Boca Raton, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/ModMed",
         "is_visible": true,
         "sponsorship": "Other"
     }
