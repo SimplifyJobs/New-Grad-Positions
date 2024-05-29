@@ -8575,7 +8575,7 @@
         "company_name": "Interactive Brokers",
         "id": "2f8949c4-d6c8-4a79-88bc-ccf61e995a37",
         "title": "Software Developer - C++",
-        "active": true,
+        "active": false,
         "date_updated": 1709857964,
         "date_posted": 1709857964,
         "url": "https://boards.greenhouse.io/ibkr/jobs/7259701002",
@@ -16322,7 +16322,7 @@
         "company_name": "Vail Systems",
         "id": "a2eafbe1-b4eb-4172-97ad-050a51d2a225",
         "title": "Software Engineer - Ivr",
-        "active": false,
+        "active": true,
         "date_updated": 1715303489,
         "date_posted": 1689750822,
         "url": "https://jobs.lever.co/vailsys/c2775699-21d7-466b-9eff-1c619efda71b/apply",
@@ -16770,7 +16770,7 @@
         "company_name": "MediaAlpha",
         "id": "a0167663-5d92-4d03-b03a-1e525ca9c895",
         "title": "Data Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1714590291,
         "date_posted": 1713435639,
         "url": "https://boards.greenhouse.io/mediaalpha/jobs/6623284002",
@@ -17394,7 +17394,7 @@
         "company_name": "Splunk",
         "id": "25cff9a7-5eec-41fa-beba-3865046afe42",
         "title": "Software Engineer - Backend - Early in Career",
-        "active": true,
+        "active": false,
         "date_updated": 1713908646,
         "date_posted": 1713852732,
         "url": "https://jobs.jobvite.com/splunk-careers/job/oct4sfwV?nl=1&nl=1&fr=false",
@@ -21425,7 +21425,7 @@
         "company_name": "Trustpilot",
         "id": "fcecdf26-8977-4b85-8419-c627aa5863ed",
         "title": "Software Engineer I - API Platform",
-        "active": true,
+        "active": false,
         "date_updated": 1716304762,
         "date_posted": 1716304762,
         "url": "https://business.trustpilot.com/jobs/5941007?gh_jid=5941007",
@@ -21601,7 +21601,7 @@
         "company_name": "PolyAI",
         "id": "d6e5175e-7e4b-4692-b02b-02830c18643b",
         "title": "Junior Software Engineer - Data-UK Based",
-        "active": false,
+        "active": true,
         "date_updated": 1716386927,
         "date_posted": 1712360062,
         "url": "https://apply.workable.com/poly-ai/j/6FCA9DD3C3/apply",
@@ -22015,6 +22015,70 @@
             "Boca Raton, FL"
         ],
         "company_url": "https://simplify.jobs/c/ModMed",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Diligent Robotics",
+        "id": "b8b3e3e3-76af-4457-abd4-c2c7e3a845ac",
+        "title": "Part Time \u2013 Clinical Robot Associate - Newark - DE",
+        "active": true,
+        "date_updated": 1716995780,
+        "date_posted": 1716995780,
+        "url": "https://boards.greenhouse.io/diligentrobotics/jobs/6003479003",
+        "locations": [
+            "Newark, DE"
+        ],
+        "company_url": "https://simplify.jobs/c/Diligent-Robotics",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Splunk",
+        "id": "31bd40d2-03e5-4df7-bbcd-30c44e91ba9e",
+        "title": "Software Engineer - Early in Career - Frontend",
+        "active": true,
+        "date_updated": 1716938695,
+        "date_posted": 1716938695,
+        "url": "https://jobs.jobvite.com/splunk-careers/job/on3Csfwe?nl=1&nl=1&fr=false",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Splunk",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Red Ventures",
+        "id": "c9cfa900-b6bb-4d8b-9b65-5f96723a8625",
+        "title": "Associate Engineer - Red Platform",
+        "active": true,
+        "date_updated": 1716938526,
+        "date_posted": 1716938526,
+        "url": "https://www.redventures.com/careers/overview?gh_jid=5992626",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Red-Ventures",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Incode Technologies",
+        "id": "d47f9b6b-46f6-4dbc-bbab-5eafad2c96de",
+        "title": "Data Labeler - US",
+        "active": true,
+        "date_updated": 1716937685,
+        "date_posted": 1716937685,
+        "url": "https://boards.greenhouse.io/incode/jobs/5134955004",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Incode-Technologies",
         "is_visible": true,
         "sponsorship": "Other"
     }
