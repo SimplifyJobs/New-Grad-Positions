@@ -13992,7 +13992,7 @@
         "company_name": "Opal",
         "id": "9d71c2be-fe09-445c-9bf8-9852079a4c5a",
         "title": "Software Engineer \u2013 Early Career",
-        "active": true,
+        "active": false,
         "date_updated": 1714109501,
         "date_posted": 1714109501,
         "url": "https://jobs.ashbyhq.com/Opal/76489840-ea85-4566-b6ed-dd7436fdcaac/application",
@@ -14460,7 +14460,7 @@
         "company_name": "Square",
         "id": "f10dee6a-4cdc-4492-b4b6-7081fd41ea3e",
         "title": "Android Engineer - Families - Cash App",
-        "active": true,
+        "active": false,
         "date_updated": 1715382388,
         "date_posted": 1715382388,
         "url": "https://jobs.smartrecruiters.com/Square/743999986716324",
@@ -16290,7 +16290,7 @@
         "company_name": "Govini",
         "id": "18be28b3-2013-4e0e-a15c-03b1c31cecc1",
         "title": "Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1715043951,
         "date_posted": 1709050903,
         "url": "https://jobs.lever.co/govini/e91e9eb9-fd2e-4bea-8560-62978cd8f775/apply",
@@ -19305,7 +19305,7 @@
         "company_name": "Diligent Robotics",
         "id": "e230b0e1-9c8d-48ad-b510-f2aba6be5851",
         "title": "Part Time \u2013 Clinical Robot Associate - Chicago - IL",
-        "active": true,
+        "active": false,
         "date_updated": 1715709264,
         "date_posted": 1715709264,
         "url": "https://boards.greenhouse.io/diligentrobotics/jobs/5943043003",
@@ -21265,7 +21265,7 @@
         "company_name": "Curaleaf",
         "id": "7b6b16a7-00c8-42d2-a428-528b5c7d08f1",
         "title": "Extraction Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1712869916,
         "date_posted": 1711092529,
         "url": "https://boards.greenhouse.io/curaleaf/jobs/7207773002",
@@ -21943,7 +21943,7 @@
         "company_name": "Datadog",
         "id": "3e5dc897-f9c1-41cf-bd73-d842581119fb",
         "title": "Sales Systems Coordinator - US East",
-        "active": true,
+        "active": false,
         "date_updated": 1716909540,
         "date_posted": 1716909540,
         "url": "https://careers.datadoghq.com/detail/5997409/?gh_jid=5997409",
@@ -21975,7 +21975,7 @@
         "company_name": "Datadog",
         "id": "2749a108-d505-4dd5-8195-2e4ec03e3756",
         "title": "Sales Systems Coordinator - US East",
-        "active": true,
+        "active": false,
         "date_updated": 1716909538,
         "date_posted": 1716909538,
         "url": "https://careers.datadoghq.com/detail/5997407/?gh_jid=5997407",
@@ -22079,6 +22079,70 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Incode-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "ZoomInfo",
+        "id": "96f4fb23-ef32-4745-8d7d-882e513116ef",
+        "title": "Research Specialist I",
+        "active": true,
+        "date_updated": 1717082055,
+        "date_posted": 1717082055,
+        "url": "https://www.zoominfo.com/about/careers?gh_jid=7452329002",
+        "locations": [
+            "Vancouver, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/ZoomInfo",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Curaleaf",
+        "id": "7bc14b92-f316-4fe3-82eb-ee86c342eb99",
+        "title": "Extraction Technician",
+        "active": true,
+        "date_updated": 1717053160,
+        "date_posted": 1717053160,
+        "url": "https://boards.greenhouse.io/curaleaf/jobs/7471081002",
+        "locations": [
+            "Chambersburg, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Curaleaf",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Uber",
+        "id": "1192d8f7-ea05-4867-9f45-f6836b8c85bd",
+        "title": "Service Team Analyst - Consumer - Global Fix Experience",
+        "active": true,
+        "date_updated": 1717025016,
+        "date_posted": 1717025016,
+        "url": "https://www.uber.com/global/en/careers/list/131176/",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Uber",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Vonage",
+        "id": "6ecd6e1d-b14a-471f-86fe-020c95f0571a",
+        "title": "Associate Software Engineer - Java",
+        "active": true,
+        "date_updated": 1717078772,
+        "date_posted": 1716419597,
+        "url": "https://boards.greenhouse.io/vonage/jobs/7055300002",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Vonage",
         "is_visible": true,
         "sponsorship": "Other"
     }
