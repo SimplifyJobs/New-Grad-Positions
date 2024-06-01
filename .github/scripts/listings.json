@@ -20746,7 +20746,7 @@
         "company_name": "SunSource",
         "id": "66f9f1a2-b83c-4630-a88c-d275370d6759",
         "title": "Customer Service Representative",
-        "active": false,
+        "active": true,
         "date_updated": 1715901170,
         "date_posted": 1715901170,
         "url": "https://jobs.lever.co/sunsrce/f293cd3d-62a8-4187-ae07-a7105c9d792b/apply",
@@ -21473,7 +21473,7 @@
         "company_name": "Tastylive",
         "id": "2dd067ae-abe2-4f9d-bc4c-dc99a8104356",
         "title": "Trading Services Representative",
-        "active": true,
+        "active": false,
         "date_updated": 1716247214,
         "date_posted": 1716247214,
         "url": "https://boards.greenhouse.io/tastylive/jobs/5175203004",
@@ -22143,6 +22143,136 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/Vonage",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Strider Technologies",
+        "id": "94c04a2d-1e34-4da0-9ade-84d5ab966830",
+        "title": "Data Labeling Specialist",
+        "active": true,
+        "date_updated": 1717198009,
+        "date_posted": 1717198009,
+        "url": "https://boards.greenhouse.io/stridertechnologies/jobs/4374159006",
+        "locations": [
+            "South Jordan, UT",
+            "Vienna, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/StriderTech",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Verra Mobility",
+        "id": "3e4a8549-ff2b-487a-bdcd-fb0d88ccc0ec",
+        "title": "Mobile Speed Camera Operator / Processing Specialist",
+        "active": true,
+        "date_updated": 1717197838,
+        "date_posted": 1717197838,
+        "url": "https://boards.greenhouse.io/verramobility/jobs/4333321006",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Verra-Mobility",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Perpay",
+        "id": "590f1ae6-ef3f-4bcb-a7a0-e6957768779d",
+        "title": "Junior Data Engineer",
+        "active": true,
+        "date_updated": 1717197181,
+        "date_posted": 1717197181,
+        "url": "https://boards.greenhouse.io/perpay/jobs/4390291007",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Perpay",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Nium",
+        "id": "ba2a7f99-4dc4-487e-8c4f-8f6a9b61fce7",
+        "title": "Backend Engineer - Sde I",
+        "active": true,
+        "date_updated": 1717197092,
+        "date_posted": 1717197092,
+        "url": "https://jobs.lever.co/nium/bc54a3d5-489f-443c-9cc3-1575bf60ab85/apply",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Nium",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "OpenEye",
+        "id": "cb967210-0559-431e-96f3-777fc41e21b7",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1717196923,
+        "date_posted": 1717196923,
+        "url": "https://boards.greenhouse.io/openeye/jobs/7460213002",
+        "locations": [
+            "Liberty Lake, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/OpenEye",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "AccuWeather",
+        "id": "bf34cb5a-9b3f-4dc9-a5bc-723aba98f49d",
+        "title": "Software Developer I",
+        "active": true,
+        "date_updated": 1717196899,
+        "date_posted": 1717196899,
+        "url": "https://boards.greenhouse.io/accuweather/jobs/6008442",
+        "locations": [
+            "State College, PA",
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/AccuWeather",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Breeze Airways",
+        "id": "11f48e02-de2e-4cf2-b7d2-4b4ada15426b",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1717196862,
+        "date_posted": 1717196862,
+        "url": "https://boards.greenhouse.io/breezeairways/jobs/6006551003",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Breeze-Airways",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Breeze Airways",
+        "id": "6b5a60b5-dc0a-4473-9214-ac52d6ea5e5b",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1717196864,
+        "date_posted": 1717196864,
+        "url": "https://boards.greenhouse.io/breezeairways/jobs/6004104003",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Breeze-Airways",
         "is_visible": true,
         "sponsorship": "Other"
     }
