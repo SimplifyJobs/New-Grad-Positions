@@ -7162,7 +7162,7 @@
         "company_name": "Codazen",
         "id": "072b3c31-67dc-4102-a448-8257aca7d419",
         "title": "Full-Stack Engineer Summer 2024 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1705623524,
         "date_posted": 1705623524,
         "url": "https://boards.greenhouse.io/codazen/jobs/4980889004",
@@ -17987,7 +17987,7 @@
         "company_name": "Anne Lewis Strategies",
         "id": "572ed5ac-4f4d-4cfc-aba6-f062d952ac0e",
         "title": "Email Production Coordinator - Election Cycle 2024 - Mst/Pst",
-        "active": false,
+        "active": true,
         "date_updated": 1715303067,
         "date_posted": 1713407549,
         "url": "https://jobs.lever.co/MissionWired/ea3cbf46-8eee-48bb-ae53-c98d4ccaeff9/apply",
@@ -21086,7 +21086,7 @@
         "company_name": "Algolia",
         "id": "44efaefa-0da2-497d-a7b9-79bc4aaa6801",
         "title": "Associate Demo Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1712854858,
         "date_posted": 1712854858,
         "url": "https://boards.greenhouse.io/algolia/jobs/5148895004",
@@ -22249,7 +22249,7 @@
         "company_name": "Breeze Airways",
         "id": "11f48e02-de2e-4cf2-b7d2-4b4ada15426b",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1717196862,
         "date_posted": 1717196862,
         "url": "https://boards.greenhouse.io/breezeairways/jobs/6006551003",
@@ -22338,6 +22338,38 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/PanoAI",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cision",
+        "id": "4e3d8698-ba44-4086-8e04-58039ebdc2d6",
+        "title": "Analyst \u2013 Rapid Intelligence",
+        "active": true,
+        "date_updated": 1717687613,
+        "date_posted": 1717687613,
+        "url": "https://jobs.lever.co/cision/74d03ad0-b26f-4995-a1fc-fa21bb576e62/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cision",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Arsiem Corporation",
+        "id": "c0d8685b-6cc4-4753-ac97-1fd276837900",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1717629371,
+        "date_posted": 1717629371,
+        "url": "https://jobs.lever.co/arsiem/10a19034-c12c-45ee-a69a-6d0e6c1aa3f0/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Arsiem-Corporation",
         "is_visible": true,
         "sponsorship": "Other"
     }
