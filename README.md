@@ -62,6 +62,8 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **[Cision](https://simplify.jobs/c/Cision)** | Analyst – Rapid Intelligence | Remote in USA | <a href="https://jobs.lever.co/cision/74d03ad0-b26f-4995-a1fc-fa21bb576e62/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/4e3d8698-ba44-4086-8e04-58039ebdc2d6?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jun 06 |
+| **[Arsiem Corporation](https://simplify.jobs/c/Arsiem-Corporation)** | Software Engineer 1 | Remote in USA | <a href="https://jobs.lever.co/arsiem/10a19034-c12c-45ee-a69a-6d0e6c1aa3f0/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/c0d8685b-6cc4-4753-ac97-1fd276837900?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jun 05 |
 | **[HeyGen](https://simplify.jobs/c/HeyGen)** | Frontend Software Engineer | Palo Alto, CA</br>SF | <a href="https://boards.greenhouse.io/heygen/jobs/4225179007?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/ddef8625-d294-446b-98e4-6ec749f86ea5?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jun 05 |
 | **[Pushpay](https://simplify.jobs/c/Pushpay)** | App Production Specialist - Part-Time As Needed | Remote in USA | <a href="https://boards.greenhouse.io/pushpay/jobs/6016080?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/8a462d2c-fa3f-46f9-9a36-e976102b004a?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jun 04 |
 | **[Pano AI](https://simplify.jobs/c/PanoAI)** | Geospatial Data Analyst | Remote in USA | <a href="https://jobs.lever.co/pano/5d8e1429-bd5c-4b61-a4a5-067f187c7f7a/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/099ec072-73ba-443e-91d9-a11d3d0506b3?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jun 04 |
@@ -73,7 +75,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[OpenEye](https://simplify.jobs/c/OpenEye)** | Software Engineer I | Liberty Lake, WA | <a href="https://boards.greenhouse.io/openeye/jobs/7460213002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/cb967210-0559-431e-96f3-777fc41e21b7?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | May 31 |
 | **[AccuWeather](https://simplify.jobs/c/AccuWeather)** | Software Developer I | State College, PA</br>Remote in USA | <a href="https://boards.greenhouse.io/accuweather/jobs/6008442?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/bf34cb5a-9b3f-4dc9-a5bc-723aba98f49d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | May 31 |
 | **Breeze Airways** | Software Engineer | Remote in USA | 🔒 | May 31 |
-| **[Breeze Airways](https://simplify.jobs/c/Breeze-Airways)** | Software Engineer | Remote in USA | <a href="https://boards.greenhouse.io/breezeairways/jobs/6006551003?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/11f48e02-de2e-4cf2-b7d2-4b4ada15426b?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | May 31 |
+| **Breeze Airways** | Software Engineer | Remote in USA | 🔒 | May 31 |
 | **[ZoomInfo](https://simplify.jobs/c/ZoomInfo)** | Research Specialist I | Vancouver, WA | <a href="https://www.zoominfo.com/about/careers?gh_jid=7452329002&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/96f4fb23-ef32-4745-8d7d-882e513116ef?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | May 30 |
 | **[Curaleaf](https://simplify.jobs/c/Curaleaf)** | Extraction Technician | Chambersburg, PA | <a href="https://boards.greenhouse.io/curaleaf/jobs/7471081002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/7bc14b92-f316-4fe3-82eb-ee86c342eb99?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | May 30 |
 | **Uber** | Service Team Analyst - Consumer - Global Fix Experience | SF | 🔒 | May 29 |
@@ -396,7 +398,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Nominal** | Software Engineer – New Grad | Austin, TX | 🔒 | Apr 18 |
 | **Nominal** | Software Engineer – New Grad | NYC | 🔒 | Apr 18 |
 | **Nominal** | Software Engineer – New Grad | LA | 🔒 | Apr 18 |
-| **Anne Lewis Strategies** | Email Production Coordinator - Election Cycle 2024 - Mst/Pst | Remote in USA | 🔒 | Apr 18 |
+| **[Anne Lewis Strategies](https://simplify.jobs/c/Anne-Lewis-Strategies)** | Email Production Coordinator - Election Cycle 2024 - Mst/Pst | Remote in USA | <a href="https://jobs.lever.co/MissionWired/ea3cbf46-8eee-48bb-ae53-c98d4ccaeff9/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/572ed5ac-4f4d-4cfc-aba6-f062d952ac0e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Apr 18 |
 | **Binance** | Binance Accelerator Program - Affiliate Operations | St Charles, MO | 🔒 | Apr 18 |
 | **Brain Corp** | Account Analyst | Bentonville, AR | 🔒 | Apr 18 |
 | **Modal** | Technical Instructional Designer | San Mateo, CA | 🔒 | Apr 18 |
@@ -433,7 +435,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Inflection** | Member of Technical Staff - Artificial Intelligence | Remote in USA | 🔒 | Apr 12 |
 | **Samsara** | Machine Learning Engineer – New Grad | Remote in USA | 🔒 | Apr 12 |
 | **US Mobile** | Software Engineer - Canada | Remote | 🔒 | Apr 11 |
-| **[Algolia](https://simplify.jobs/c/Algolia)** | Associate Demo Engineer | London, UK | <a href="https://boards.greenhouse.io/algolia/jobs/5148895004?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/44efaefa-0da2-497d-a7b9-79bc4aaa6801?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Apr 11 |
+| **Algolia** | Associate Demo Engineer | London, UK | 🔒 | Apr 11 |
 | **SharkNinja** | Associate Product Developer - Shark Beauty | Needham, MA | 🔒 | Apr 11 |
 | **Global Atlantic** | Sales Data Analyst | Villanova, PA | 🔒 | Apr 11 |
 | **Tempus** | Software Engineer | Chicago, IL | 🔒 | Apr 10 |
@@ -869,7 +871,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **NVIDIA** | Power Architect – New College Grad 2024 | Santa Clara, CA | 🔒 | Jan 20 |
 | **NVIDIA** | Backend Compiler Engineer – New College Grad 2024 - Gpu | Austin, TX</br>Remote in USA | 🔒 | Jan 20 |
 | **Qcells** | Sales Data Analyst | Englewood, NJ | 🔒 | Jan 19 |
-| **[Codazen](https://simplify.jobs/c/Codazen)** | Full-Stack Engineer Summer 2024 New Grad | Irvine, CA | <a href="https://boards.greenhouse.io/codazen/jobs/4980889004?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/072b3c31-67dc-4102-a448-8257aca7d419?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jan 19 |
+| **Codazen** | Full-Stack Engineer Summer 2024 New Grad | Irvine, CA | 🔒 | Jan 19 |
 | **2K** | QA Localization Tester - Italian | Las Vegas, NV | 🔒 | Jan 19 |
 | **2K** | QA Localization Tester-Castilian Spanish | Las Vegas, NV | 🔒 | Jan 19 |
 | **NVIDIA** | ASIC Design Efficiency Engineer – New College Grad 2024 | Santa Clara, CA | 🔒 | Jan 19 |
