@@ -4474,7 +4474,7 @@
         "company_name": "NimbleRx",
         "id": "2fd5d0a4-8aaf-4447-ac69-2af5d4b4e27b",
         "title": "Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1696923027,
         "date_posted": 1696923027,
         "url": "https://jobs.lever.co/nimblerx/9b498e97-4f4e-48a9-9504-0bc5f0dc2bee/apply",
@@ -7966,7 +7966,7 @@
         "company_name": "Konrad Group",
         "id": "8a12530b-7cd6-4d88-aa6b-e83fc742aa40",
         "title": "Mobile Developer \u2013 Entry Level",
-        "active": true,
+        "active": false,
         "date_updated": 1709695859,
         "date_posted": 1708042719,
         "url": "https://boards.greenhouse.io/embed/job_app?token=5893296003",
@@ -20746,7 +20746,7 @@
         "company_name": "SunSource",
         "id": "66f9f1a2-b83c-4630-a88c-d275370d6759",
         "title": "Customer Service Representative",
-        "active": true,
+        "active": false,
         "date_updated": 1715901170,
         "date_posted": 1715901170,
         "url": "https://jobs.lever.co/sunsrce/f293cd3d-62a8-4187-ae07-a7105c9d792b/apply",
@@ -22362,7 +22362,7 @@
         "company_name": "Arsiem Corporation",
         "id": "c0d8685b-6cc4-4753-ac97-1fd276837900",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1717629371,
         "date_posted": 1717629371,
         "url": "https://jobs.lever.co/arsiem/10a19034-c12c-45ee-a69a-6d0e6c1aa3f0/apply",
@@ -22370,6 +22370,70 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Arsiem-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Energy Solutions",
+        "id": "ee4c7418-b1f3-4d55-b030-5bad4095e3da",
+        "title": "Energy Efficiency Associate - Remote - US",
+        "active": true,
+        "date_updated": 1717716284,
+        "date_posted": 1717716284,
+        "url": "https://boards.greenhouse.io/energysolutions/jobs/4366619007",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/EnergySolutions",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Konrad Group",
+        "id": "fa797771-52ff-4d34-b455-4ea452679bdb",
+        "title": "Mobile Developer \u2013 Entry Level",
+        "active": true,
+        "date_updated": 1717716152,
+        "date_posted": 1717716152,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=6015617003",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Konrad-Group",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Anser Advisory",
+        "id": "8cf695ca-5de7-4461-be42-db9088b61dce",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1717715154,
+        "date_posted": 1717715154,
+        "url": "https://jobs.lever.co/anseradvisory/0b7e67db-0951-4213-9eb1-5bea1b733462/apply",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Anser-Advisory",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "STR",
+        "id": "ab338d18-0d8f-46d6-a584-50cedadf81c3",
+        "title": "Software Developer",
+        "active": true,
+        "date_updated": 1717727524,
+        "date_posted": 1716333348,
+        "url": "https://boards.greenhouse.io/systemstechnologyresearch/jobs/4353667006",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/STR",
         "is_visible": true,
         "sponsorship": "Other"
     }
