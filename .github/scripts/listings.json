@@ -20810,7 +20810,7 @@
         "company_name": "Findhelp, A Public Benefit Corporation",
         "id": "38b3375a-0e15-4a14-a61d-4bdb71587c39",
         "title": "Data Research Specialist",
-        "active": false,
+        "active": true,
         "date_updated": 1715908176,
         "date_posted": 1713434595,
         "url": "https://jobs.lever.co/findhelp/1e95144e-5a18-4a8b-a69a-c507d586fcb3/apply",
@@ -21038,7 +21038,7 @@
         "company_name": "Thrive Market",
         "id": "35a3d80b-3082-41c1-baf7-c63b310da7ab",
         "title": "Environmental - Health & Safety - Ehs - Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1715908880,
         "date_posted": 1715844329,
         "url": "https://jobs.lever.co/thrivemarket/1903481c-0545-48ae-a7f8-3d838fc50e95/apply",
@@ -21070,7 +21070,7 @@
         "company_name": "Thrive Market",
         "id": "a09e2074-9be2-4bdc-85f7-ee52e633008e",
         "title": "Environmental - Health & Safety - Ehs - Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1715908829,
         "date_posted": 1715844327,
         "url": "https://jobs.lever.co/thrivemarket/a720139e-c9db-4e59-ae51-46f9031fcd62/apply",
@@ -22410,7 +22410,7 @@
         "company_name": "Anser Advisory",
         "id": "8cf695ca-5de7-4461-be42-db9088b61dce",
         "title": "Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1717715154,
         "date_posted": 1717715154,
         "url": "https://jobs.lever.co/anseradvisory/0b7e67db-0951-4213-9eb1-5bea1b733462/apply",
@@ -22434,6 +22434,86 @@
             "Arlington, VA"
         ],
         "company_url": "https://simplify.jobs/c/STR",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Flashpoint",
+        "id": "301eeae6-5b80-45a4-835f-bc98589abcda",
+        "title": "Analyst I \u2013 Ttm",
+        "active": true,
+        "date_updated": 1717867385,
+        "date_posted": 1717867385,
+        "url": "https://boards.greenhouse.io/flashpoint/jobs/7484820002",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Flashpoint",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Welocalize",
+        "id": "c6cd12fe-2403-42c4-8c68-25d223ad9fdc",
+        "title": "Entry-Level AI Response Evaluator - Japanese - United States",
+        "active": true,
+        "date_updated": 1717866586,
+        "date_posted": 1717866586,
+        "url": "https://jobs.lever.co/welocalize/110953c3-74d5-494a-a598-1c1fa8034fbc/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Welocalize",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Veeva Systems",
+        "id": "6770055a-7548-4e7b-bd26-7cda7d1b59b8",
+        "title": "Associate Software Engineer in Test",
+        "active": true,
+        "date_updated": 1717863833,
+        "date_posted": 1717863833,
+        "url": "https://jobs.lever.co/veeva/8683a486-a11b-44be-8824-d3afdaa37b2d/apply",
+        "locations": [
+            "Pleasanton, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Veeva-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Flexport",
+        "id": "62008a87-1b12-4ca2-80cd-e977a7c8a62a",
+        "title": "Data Analyst I",
+        "active": true,
+        "date_updated": 1717837048,
+        "date_posted": 1717837048,
+        "url": "https://boards.greenhouse.io/flexport/jobs/6022743",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Flexport",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Octopus Energy",
+        "id": "e669b41e-caf6-426a-b399-a3c265469c0c",
+        "title": "Domestic Surveyor - Norfolk",
+        "active": true,
+        "date_updated": 1717875593,
+        "date_posted": 1717814325,
+        "url": "https://jobs.lever.co/octoenergy/be7937bb-46bf-47a7-b8b5-edc830b1a963/apply",
+        "locations": [
+            "Easton, Norwich, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Octopus-energy",
         "is_visible": true,
         "sponsorship": "Other"
     }
