@@ -19177,7 +19177,7 @@
         "company_name": "Rocket Lab USA",
         "id": "1d330ec6-e847-4b70-8401-34e6058aa6e2",
         "title": "Embedded Flight Software Engineer I/II Pipeline",
-        "active": false,
+        "active": true,
         "date_updated": 1715713237,
         "date_posted": 1715713237,
         "url": "https://boards.greenhouse.io/rocketlab/jobs/5981950003",
@@ -22514,6 +22514,22 @@
             "Easton, Norwich, UK"
         ],
         "company_url": "https://simplify.jobs/c/Octopus-energy",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Catalist",
+        "id": "427c1094-38d3-48e7-b1ea-88163e62f315",
+        "title": "Absentee and Early Vote Specialist",
+        "active": true,
+        "date_updated": 1717952634,
+        "date_posted": 1717952634,
+        "url": "https://jobs.lever.co/catalist/48009878-a169-473a-89ce-9bf447c21d39/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Catalist",
         "is_visible": true,
         "sponsorship": "Other"
     }
