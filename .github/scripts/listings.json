@@ -7629,7 +7629,7 @@
         "company_name": "Redsox",
         "id": "f75de2f1-d530-488b-aed5-6b997f16e3e8",
         "title": "Developer \u2013 Baseball Systems",
-        "active": true,
+        "active": false,
         "date_updated": 1707333761,
         "date_posted": 1707333761,
         "url": "https://jobs.lever.co/redsox/9d53d177-05c0-4d65-bd19-198973a583c6/apply",
@@ -19578,7 +19578,7 @@
         "company_name": "Seismic",
         "id": "1b0c3476-f50c-4133-af75-9dfaf056009e",
         "title": "Data Analyst-PEY/ASIP - Month rotation",
-        "active": true,
+        "active": false,
         "date_updated": 1714176553,
         "date_posted": 1714176553,
         "url": "https://seismic.com/company/careers/job-detail/?gh_jid=5156011004",
@@ -22530,6 +22530,54 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Catalist",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Autotrader.ca",
+        "id": "d7bde62b-4a19-4146-80b5-4acdf159c540",
+        "title": "Junior Android Engineer",
+        "active": true,
+        "date_updated": 1718039117,
+        "date_posted": 1718039117,
+        "url": "https://jobs.lever.co/trader/c73888ca-83f5-44b3-a01a-27eee2e2e572/apply",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/AutoTrader-CA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Optiver",
+        "id": "e8e9aef3-8d3b-4bf7-a253-0f90da0386a3",
+        "title": "Campus: Quantitative Trader - 2024 Start - Chicago",
+        "active": true,
+        "date_updated": 1717987793,
+        "date_posted": 1717987793,
+        "url": "https://boards.greenhouse.io/optiverinternreferralc4/jobs/6782278002",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Optiver",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Brex",
+        "id": "26287f19-79df-4e16-8948-34e37d90d58d",
+        "title": "Integration Specialist I - Remote",
+        "active": true,
+        "date_updated": 1718048888,
+        "date_posted": 1717457101,
+        "url": "https://www.brex.com/careers/7476570002?gh_jid=7476570002",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Brex",
         "is_visible": true,
         "sponsorship": "Other"
     }
