@@ -15456,7 +15456,7 @@
         "company_name": "Lincoln International",
         "id": "ca9f4d6c-1831-49df-a42e-2ef7e1a6e961",
         "title": "Valuation Systems Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1714509975,
         "date_posted": 1714179117,
         "url": "http://www.lincolninternational.com/greenhouse/?gh_jid=5931823",
@@ -22576,6 +22576,91 @@
         "url": "https://www.brex.com/careers/7476570002?gh_jid=7476570002",
         "locations": [
             "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Brex",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "The New York Times",
+        "id": "bf24391f-47dc-422a-9722-2e7945fa582b",
+        "title": "Associate Android Engineer - Games",
+        "active": true,
+        "date_updated": 1718101207,
+        "date_posted": 1718101207,
+        "url": "https://boards.greenhouse.io/thenewyorktimes/jobs/4429695005",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/The-New-York-Times",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NVIDIA",
+        "id": "ab1a52ab-4aef-445b-a53e-b03aa9d37691",
+        "title": "Solutions Architect \u2013 New College Grad - Infrastructure",
+        "active": true,
+        "date_updated": 1718098988,
+        "date_posted": 1718098988,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Solutions-Architect--Infrastructure---New-College-Grad_JR1983199",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NVIDIA",
+        "id": "61f56def-c822-4305-b5f3-b91e8a14d41a",
+        "title": "System Software Engineer \u2013 New College Grad 2024 - Graphics Developer Tool",
+        "active": true,
+        "date_updated": 1718098999,
+        "date_posted": 1718098999,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/System-Software-Engineer--Graphics-Developer-Tool---New-College-Grad-2024_JR1981743-1",
+        "locations": [
+            "Austin, TX",
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "DoorDash",
+        "id": "56dc8a64-cecb-4443-bca1-ab038606134a",
+        "title": "Software Engineer - Backend - All Levels / All Teams",
+        "active": true,
+        "date_updated": 1718073170,
+        "date_posted": 1718073170,
+        "url": "https://boards.greenhouse.io/doordash/jobs/5630445",
+        "locations": [
+            "Seattle, WA",
+            "SF",
+            "LA",
+            "NYC",
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/DoorDash",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Brex",
+        "id": "391be12c-747e-4487-b43a-646fee58732f",
+        "title": "Integration Specialist I - Remote",
+        "active": true,
+        "date_updated": 1718066592,
+        "date_posted": 1717457101,
+        "url": "https://www.brex.com/careers/7476573002?gh_jid=7476573002",
+        "locations": [
+            "Canada"
         ],
         "company_url": "https://simplify.jobs/c/Brex",
         "is_visible": true,
