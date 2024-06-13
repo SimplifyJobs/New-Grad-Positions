@@ -9019,7 +9019,7 @@
         "company_name": "Rockset",
         "id": "95d92001-1f0a-4b17-9676-8c40e293c7af",
         "title": "Product Solutions Engineer \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1710976761,
         "date_posted": 1710976761,
         "url": "https://jobs.lever.co/rockset/3ba737d8-8955-40a0-b61f-6520cf187151/apply",
@@ -14781,7 +14781,7 @@
         "company_name": "Stytch",
         "id": "3f63d77b-bf18-471b-9b88-10b94f8e70dd",
         "title": "Developer Success",
-        "active": true,
+        "active": false,
         "date_updated": 1715123189,
         "date_posted": 1715123189,
         "url": "https://jobs.ashbyhq.com/stytch/e3135bdf-9385-4d94-a6a8-922a62dadda0/application",
@@ -18083,7 +18083,7 @@
         "company_name": "Art of Problem Solving",
         "id": "136ed7a7-0594-42e7-af4a-9d1ba90f602f",
         "title": "Math Instructor",
-        "active": false,
+        "active": true,
         "date_updated": 1713381377,
         "date_posted": 1712301471,
         "url": "https://artofproblemsolving.com/careers/job/5846127003?gh_jid=5846127003",
@@ -20266,7 +20266,7 @@
         "company_name": "Verra Mobility",
         "id": "96763d36-bc8e-463e-8697-266ce5e0703e",
         "title": "Mobile Speed Camera Operator",
-        "active": true,
+        "active": false,
         "date_updated": 1707784021,
         "date_posted": 1707784021,
         "url": "https://boards.greenhouse.io/verramobility/jobs/4333302006",
@@ -21151,7 +21151,7 @@
         "company_name": "Cardiosense",
         "id": "f47e2f2b-7b37-4cef-bbc4-d59defb4eec2",
         "title": "Software Engineer - Iot",
-        "active": true,
+        "active": false,
         "date_updated": 1713435204,
         "date_posted": 1713435204,
         "url": "https://jobs.lever.co/cardiosense/d5198abd-6e4e-438c-8f7f-2d19b31636de/apply",
@@ -21489,7 +21489,7 @@
         "company_name": "Octopus Energy",
         "id": "a9f26680-d117-4f99-861a-d19e25815f95",
         "title": "Domestic Surveyor - Coventry",
-        "active": true,
+        "active": false,
         "date_updated": 1716300373,
         "date_posted": 1715814702,
         "url": "https://jobs.lever.co/octoenergy/b720bdef-72fb-4097-9767-15d6eefa4510/apply",
@@ -21505,7 +21505,7 @@
         "company_name": "Octopus Energy",
         "id": "be4cf449-0b29-41f8-8dde-e82b046ea31f",
         "title": "Domestic Surveyor - Milton Keynes",
-        "active": true,
+        "active": false,
         "date_updated": 1716300301,
         "date_posted": 1715814703,
         "url": "https://jobs.lever.co/octoenergy/e80fe413-6776-4a37-9b08-e91ac03aab66/apply",
@@ -21683,7 +21683,7 @@
         "company_name": "Mediabrands",
         "id": "03a1a525-3a7b-4551-913c-e9b5862497e8",
         "title": "Associate \u2013 Addressable Activation",
-        "active": false,
+        "active": true,
         "date_updated": 1716419499,
         "date_posted": 1716419499,
         "url": "https://boards.greenhouse.io/mediabrands/jobs/4329908007",
@@ -21814,7 +21814,7 @@
         "company_name": "Triumvirate Environmental",
         "id": "a0132bf1-8f9b-47f0-8f48-7320afc47960",
         "title": "Environmental Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1716578329,
         "date_posted": 1715709286,
         "url": "https://boards.greenhouse.io/triumvirateenvironmental/jobs/4337203006",
@@ -21926,7 +21926,7 @@
         "company_name": "Datadog",
         "id": "0a8168ae-7f75-40b6-9958-a4f2c99f6d39",
         "title": "Sales Systems Coordinator - US East",
-        "active": true,
+        "active": false,
         "date_updated": 1716593180,
         "date_posted": 1716593180,
         "url": "https://careers.datadoghq.com/detail/5989412/?gh_jid=5989412",
@@ -21959,7 +21959,7 @@
         "company_name": "Datadog",
         "id": "ee4a124a-2ea7-41a0-8abf-258c1a3fd06c",
         "title": "Sales Systems Coordinator - US East",
-        "active": true,
+        "active": false,
         "date_updated": 1716909538,
         "date_posted": 1716909538,
         "url": "https://careers.datadoghq.com/detail/5997402/?gh_jid=5997402",
@@ -22103,7 +22103,7 @@
         "company_name": "Curaleaf",
         "id": "7bc14b92-f316-4fe3-82eb-ee86c342eb99",
         "title": "Extraction Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1717053160,
         "date_posted": 1717053160,
         "url": "https://boards.greenhouse.io/curaleaf/jobs/7471081002",
@@ -22281,7 +22281,7 @@
         "company_name": "Triumvirate Environmental",
         "id": "5e2038e2-92f1-4c7f-8b7f-62068d79b6fb",
         "title": "Environmental Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1717428252,
         "date_posted": 1717428252,
         "url": "https://boards.greenhouse.io/triumvirateenvironmental/jobs/4359798006",
@@ -22554,7 +22554,7 @@
         "company_name": "Optiver",
         "id": "e8e9aef3-8d3b-4bf7-a253-0f90da0386a3",
         "title": "Campus: Quantitative Trader - 2024 Start - Chicago",
-        "active": false,
+        "active": true,
         "date_updated": 1717987793,
         "date_posted": 1717987793,
         "url": "https://boards.greenhouse.io/optiverinternreferralc4/jobs/6782278002",
@@ -22586,7 +22586,7 @@
         "company_name": "The New York Times",
         "id": "bf24391f-47dc-422a-9722-2e7945fa582b",
         "title": "Associate Android Engineer - Games",
-        "active": true,
+        "active": false,
         "date_updated": 1718101207,
         "date_posted": 1718101207,
         "url": "https://boards.greenhouse.io/thenewyorktimes/jobs/4429695005",
@@ -22687,7 +22687,7 @@
         "company_name": "HealthJoy",
         "id": "9ada8f5d-98c1-411b-9efd-e03f362882a6",
         "title": "Associate Data Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1718187666,
         "date_posted": 1718187666,
         "url": "https://boards.greenhouse.io/healthjoy/jobs/7487584002",
@@ -22799,7 +22799,7 @@
         "company_name": "The New York Times",
         "id": "6f7b73db-f19a-4bb5-ab10-af112896e687",
         "title": "Associate Data Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1718139088,
         "date_posted": 1718139088,
         "url": "https://boards.greenhouse.io/thenewyorktimes/jobs/4428101005",
@@ -22831,7 +22831,7 @@
         "company_name": "iCapital Network",
         "id": "cdf550c7-ac9f-4a69-904c-ba743e79e5cb",
         "title": "Developer \u2013 Automation Team - RPA - Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1718138863,
         "date_posted": 1718138863,
         "url": "https://boards.greenhouse.io/icapitalnetwork/jobs/7486921002",
@@ -22871,6 +22871,311 @@
             "Remote in Canada"
         ],
         "company_url": "https://simplify.jobs/c/Keywords-Studios",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Kalderos",
+        "id": "e74ead1f-1d0b-438d-a594-37dc9b21096f",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1718302393,
+        "date_posted": 1718302393,
+        "url": "https://www.kalderos.com/company/job-board/?gh_jid=6024016003",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Kalderos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Origis Energy",
+        "id": "1a7ba466-1c49-42ab-b1d8-0da7a4ebbf6e",
+        "title": "Project Controls Scheduler \u2013 Entry Level",
+        "active": true,
+        "date_updated": 1718300802,
+        "date_posted": 1718300802,
+        "url": "https://boards.greenhouse.io/origisenergy/jobs/5197207004",
+        "locations": [
+            "Miami, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/OrigisEnergy",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Replo",
+        "id": "6b914596-3d09-4136-b34d-72d820620116",
+        "title": "Software Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1718272246,
+        "date_posted": 1718272246,
+        "url": "https://jobs.ashbyhq.com/replo/ec206174-ccc2-42fa-b295-8201421f21b0/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Replo",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Collectors",
+        "id": "6f79916e-3862-40d7-8e3a-d9d76d5b4566",
+        "title": "Trading Card Specialist - PM Shift - Temp-to-hire",
+        "active": true,
+        "date_updated": 1718270778,
+        "date_posted": 1718270778,
+        "url": "https://boards.greenhouse.io/collectorsuniverse/jobs/5201158004",
+        "locations": [
+            "Orange, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Collectors",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cohere",
+        "id": "2393fef0-ef4f-4575-90b7-87cd5ed1652d",
+        "title": "Data Annotator - Science",
+        "active": true,
+        "date_updated": 1718270229,
+        "date_posted": 1718270229,
+        "url": "https://jobs.lever.co/cohere/2fede710-d8ff-4ccc-af70-094877e7cc58/apply",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Cohere",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Axon",
+        "id": "c8012ea5-4c6c-40a8-8745-bc84b8ec7eba",
+        "title": "Firmware Engineer I - Hybrid",
+        "active": true,
+        "date_updated": 1718270260,
+        "date_posted": 1718270260,
+        "url": "https://boards.greenhouse.io/axon/jobs/6021607003",
+        "locations": [
+            "Scottsdale, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Axon",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Shipt",
+        "id": "2f8600cc-3bda-4176-9a9d-a9cbaa7c6b98",
+        "title": "Engineer",
+        "active": true,
+        "date_updated": 1718264625,
+        "date_posted": 1718264625,
+        "url": "https://shipt.wd1.myworkdayjobs.com/en-US/Shipt_External/job/US-Remote/Senior-Engineer_R3159",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Shipt",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Search Discovery",
+        "id": "01588f74-a4b9-4587-8f40-f60dee09ffe0",
+        "title": "Analytics Engineer I",
+        "active": true,
+        "date_updated": 1718231003,
+        "date_posted": 1718231003,
+        "url": "https://boards.greenhouse.io/searchdiscovery/jobs/6034609",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/SearchDiscovery",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Diligent Robotics",
+        "id": "e18995e9-e457-4096-9c97-492476e28931",
+        "title": "Part-Time \u2013 Clinical Robot Technician - Crt - Neenah - WI",
+        "active": true,
+        "date_updated": 1717197275,
+        "date_posted": 1717197275,
+        "url": "https://boards.greenhouse.io/diligentrobotics/jobs/6007089003",
+        "locations": [
+            "Neenah, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Diligent-Robotics",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Art of Problem Solving",
+        "id": "82a604d6-6539-4294-bcbe-4a942f749f29",
+        "title": "Math Instructor",
+        "active": true,
+        "date_updated": 1716938257,
+        "date_posted": 1716938257,
+        "url": "https://artofproblemsolving.com/careers/job/5964626003?gh_jid=5964626003",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Art-of-Problem-Solving",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Art of Problem Solving",
+        "id": "3a3c5770-60ca-490a-b663-734a24770348",
+        "title": "Math Instructor",
+        "active": true,
+        "date_updated": 1717463338,
+        "date_posted": 1711871425,
+        "url": "https://artofproblemsolving.com/careers/job/5846125003?gh_jid=5846125003",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Art-of-Problem-Solving",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Veeva Systems",
+        "id": "a2ec311c-9787-461e-a7e6-bd3483976b1d",
+        "title": "Analytics Services Associate",
+        "active": true,
+        "date_updated": 1715994443,
+        "date_posted": 1692112094,
+        "url": "https://jobs.lever.co/veeva/522a6d9d-5adc-4e03-a3ce-d2e6c1fbaadb/apply",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Veeva-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Affirm",
+        "id": "a7c2da61-cde5-42d7-ae2b-c8adbd77c4c0",
+        "title": "Analyst I \u2013 Payment Analytics",
+        "active": true,
+        "date_updated": 1717550379,
+        "date_posted": 1715296810,
+        "url": "https://boards.greenhouse.io/affirm/jobs/5979174003",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Affirm",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Resilience Cyber Insurance",
+        "id": "f2412198-9c7c-4d80-bd36-df27a841d8d5",
+        "title": "Cyber Claims Analyst",
+        "active": true,
+        "date_updated": 1715901123,
+        "date_posted": 1715901123,
+        "url": "https://jobs.lever.co/Resilience/cd397df6-16ef-4f45-8352-ad3038cbe53e/apply",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/ResilienceCyber",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "AnaVation LLC",
+        "id": "cf88487e-e4f3-4556-b886-79d8e3aadb63",
+        "title": "Systems Integration Engineer",
+        "active": true,
+        "date_updated": 1705623871,
+        "date_posted": 1705623871,
+        "url": "https://jobs.lever.co/anavationllc/02eb9462-b52d-478c-a1db-b589f403f301/apply",
+        "locations": [
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/AnaVation-LLC",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Benesch",
+        "id": "d08f6982-45bb-4cd1-a04d-e266b41c89a1",
+        "title": "Scientist/Planner",
+        "active": true,
+        "date_updated": 1713803462,
+        "date_posted": 1713568335,
+        "url": "https://www.benesch.com/job-openings/4351171007?gh_jid=4351171007",
+        "locations": [
+            "Omaha, NE",
+            "Offutt AFB, NE"
+        ],
+        "company_url": "https://simplify.jobs/c/Benesch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "HRL Laboratories",
+        "id": "cb28363c-f923-4770-9e08-26fc94173247",
+        "title": "Data Transfer Agent",
+        "active": true,
+        "date_updated": 1715901930,
+        "date_posted": 1715901930,
+        "url": "https://jobs.lever.co/dodmg/5f5b2053-1f24-40d4-8784-39ae0d33765c/apply",
+        "locations": [
+            "Malibu, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/HRL-Laboratories",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Art of Problem Solving",
+        "id": "5efe68ce-0031-443d-a5a1-3f84114e8985",
+        "title": "Math Instructor",
+        "active": true,
+        "date_updated": 1712301468,
+        "date_posted": 1712301468,
+        "url": "https://artofproblemsolving.com/careers/job/5846106003?gh_jid=5846106003",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Art-of-Problem-Solving",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Affirm",
+        "id": "7b9d96fa-1234-4a78-aefa-f1d8ac839f06",
+        "title": "Analyst I \u2013 Payment Analytics",
+        "active": true,
+        "date_updated": 1715296811,
+        "date_posted": 1715296811,
+        "url": "https://boards.greenhouse.io/affirm/jobs/5979172003",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Affirm",
         "is_visible": true,
         "sponsorship": "Other"
     }
