@@ -4908,7 +4908,7 @@
         "company_name": "Waterfront International",
         "id": "66ef22a4-a749-4b77-b3f9-b4615aefe5af",
         "title": "Student Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1697747029,
         "date_posted": 1697671405,
         "url": "https://boards.greenhouse.io/wil/jobs/1448818",
@@ -5258,7 +5258,7 @@
         "company_name": "Palantir",
         "id": "e94f5b72-1ca3-4376-8098-a07eacf2d7e1",
         "title": "Software Engineer \u2013 New Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1698795528,
         "date_posted": 1698795528,
         "url": "https://jobs.lever.co/palantir/19d5e5f8-37a6-4a6f-b2ca-423370b3a1c2/apply",
@@ -7210,7 +7210,7 @@
         "company_name": "Akuna Capital",
         "id": "4f671015-2e62-4358-bc1c-cdfabb83940c",
         "title": "Women in Trading Sneak Peek Week - 2024",
-        "active": false,
+        "active": true,
         "date_updated": 1705709318,
         "date_posted": 1705709318,
         "url": "https://www.akunacapital.com/job-details?gh_jid=5630638",
@@ -10709,7 +10709,7 @@
         "company_name": "SMX",
         "id": "e492f13b-5407-41fb-bf54-bbb32d9a5220",
         "title": "SMX-Skillbridge Fellowship Program - Sfp",
-        "active": false,
+        "active": true,
         "date_updated": 1711396657,
         "date_posted": 1702889228,
         "url": "https://www.smxtech.com/careers/?gh_jid=4955604003",
@@ -13768,7 +13768,7 @@
         "company_name": "Code and Theory",
         "id": "ae48bcde-2b11-4839-b488-e8ec835ad1a0",
         "title": "Data & Analytics Fellowship",
-        "active": false,
+        "active": true,
         "date_updated": 1713484806,
         "date_posted": 1713484806,
         "url": "https://www.codeandtheory.com/careers/7338319002?gh_jid=7338319002",
@@ -17442,7 +17442,7 @@
         "company_name": "Dun & Bradstreet",
         "id": "5e16aba7-bfe7-47e4-8236-e4c29eb60f1f",
         "title": "2024 Technology Analyst Program",
-        "active": false,
+        "active": true,
         "date_updated": 1715303710,
         "date_posted": 1709080194,
         "url": "https://jobs.lever.co/dnb/58bad248-3ce8-4bf8-99b4-aa4f506ce7a0/apply",
@@ -19834,7 +19834,7 @@
         "company_name": "Groq",
         "id": "9871277e-ff9f-46fb-8741-eb8bf6943d20",
         "title": "Revenue Opportunities",
-        "active": false,
+        "active": true,
         "date_updated": 1713037102,
         "date_posted": 1713025989,
         "url": "https://wow.groq.com/careers?gh_jid=5913278003",
@@ -19930,7 +19930,7 @@
         "company_name": "Astranis",
         "id": "3ce006f7-87d3-4f9f-b046-7d3a639d7382",
         "title": "Flight Software Engineer - Associate Program - Fall 2024",
-        "active": false,
+        "active": true,
         "date_updated": 1714591002,
         "date_posted": 1711529261,
         "url": "https://boards.greenhouse.io/astranis/jobs/4300155006",
@@ -20907,7 +20907,7 @@
         "company_name": "Bolster",
         "id": "ba2ab53f-7c1f-48f3-8a42-7f8ca56d6c48",
         "title": "Software Engineer - Back-end systems",
-        "active": true,
+        "active": false,
         "date_updated": 1716193063,
         "date_posted": 1716193063,
         "url": "https://jobs.lever.co/bolster/1c8e8c62-03a4-4cf2-b939-8a16e95d02db/apply",
@@ -23055,7 +23055,7 @@
         "company_name": "Veeva Systems",
         "id": "a2ec311c-9787-461e-a7e6-bd3483976b1d",
         "title": "Analytics Services Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1715994443,
         "date_posted": 1692112094,
         "url": "https://jobs.lever.co/veeva/522a6d9d-5adc-4e03-a3ce-d2e6c1fbaadb/apply",
@@ -23224,6 +23224,135 @@
             "Canada"
         ],
         "company_url": "https://simplify.jobs/c/Mediabrands",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Jane Street",
+        "id": "627504f8-50a4-4683-a053-403279c50354",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1715798919,
+        "date_posted": 1696029850,
+        "url": "https://boards.greenhouse.io/janestreet/jobs/6860671002",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Jane-Street",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Brain Technologies",
+        "id": "6191c43a-88e4-40ba-ad6f-f2fd13df71f4",
+        "title": "Generative AI Creator",
+        "active": true,
+        "date_updated": 1696923035,
+        "date_posted": 1696923035,
+        "url": "https://boards.greenhouse.io/braintechnologies/jobs/4989823004",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/brain-technologies",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Jane Street",
+        "id": "0481e8fa-bd18-44de-9877-20dac94847ac",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1715799366,
+        "date_posted": 1706141305,
+        "url": "https://boards.greenhouse.io/janestreet/jobs/7108437002",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Jane-Street",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Welocalize",
+        "id": "81d73b00-80cf-4a6d-a950-5c971550cc66",
+        "title": "Scout Search Quality Rater - Simplified Chinese - Canada",
+        "active": true,
+        "date_updated": 1711106580,
+        "date_posted": 1711106580,
+        "url": "https://jobs.lever.co/welocalize/3d924884-192d-428a-b683-2b1496dfb98e/apply",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Welocalize",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Welocalize",
+        "id": "f6b66a4d-3a31-47b3-ad0d-4ca3d82ec7b7",
+        "title": "Remote Internet Search Quality Rater - English - United States",
+        "active": true,
+        "date_updated": 1714698656,
+        "date_posted": 1711097743,
+        "url": "https://jobs.lever.co/welocalize/33babd56-f6d6-4779-8146-498c9a9e42bd/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Welocalize",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Diligent Robotics",
+        "id": "9507aff3-c582-4265-8599-10b3f68f38eb",
+        "title": "Part Time \u2013 Clinical Robot Associate - Los Angeles - CA",
+        "active": true,
+        "date_updated": 1715709266,
+        "date_posted": 1715709266,
+        "url": "https://boards.greenhouse.io/diligentrobotics/jobs/5751739003",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Diligent-Robotics",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Groq",
+        "id": "99d83b50-8dd7-4a8d-b2f2-d3ac4dc2e88f",
+        "title": "Product Opportunities",
+        "active": true,
+        "date_updated": 1713026998,
+        "date_posted": 1713026998,
+        "url": "https://wow.groq.com/careers?gh_jid=5913280003",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Groq",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Rune Labs",
+        "id": "360589cf-8377-4f11-8e16-93eae446f26c",
+        "title": "Future Openings - Engineering",
+        "active": true,
+        "date_updated": 1714011466,
+        "date_posted": 1699402239,
+        "url": "https://boards.greenhouse.io/runelabs/jobs/4285982004",
+        "locations": [
+            "Remote in USA",
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/RuneLabs",
         "is_visible": true,
         "sponsorship": "Other"
     }
