@@ -71,7 +71,14 @@ def create_md_table(listings):
     return table
 
 def filterListings(listings):
-    return [listing for listing in listings if listing["is_visible"]]
+    final_listings = []
+    inclusion_terms = ["software eng", "software dev", "data scientist", "data engineer", "product manage", "apm", "frontend", "front end", "front-end", "backend", "back end", "full-stack", "full stack", "full-stack", "devops", "android", "ios", "mobile dev", "sre", "site reliability eng", "quantitative trad", "quantitative research", "quantitative trad", "quantitative dev", "security eng", "compiler eng", "machine learning eng", "infrastructure eng"]
+    for listing in listings:
+        if listing["is_visible"]:
+            if any(term in listing["title"].lower() for term in inclusion_terms): # check if title contains any of the terms
+                final_listings.append(listing)
+
+    return final_listings
 
 def getListingsFromJSON(filename=".github/scripts/listings.json"):
     with open(filename) as f:

@@ -2235,7 +2235,7 @@
             "Madison, WI"
         ],
         "company_url": "https://simplify.jobs/c/Hillel-International",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -5866,7 +5866,7 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Navan (fka TripActions)",
+        "company_name": "Navan",
         "id": "d101e5df-e633-4dbf-a173-7059964bd55c",
         "title": "New College Grad Software Engineer - Front-End",
         "active": false,
@@ -7384,7 +7384,7 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Navan (fka TripActions)",
+        "company_name": "Navan",
         "id": "8f2149e4-8e47-4f05-90b3-98d3b996cd82",
         "title": "New College Grad Software Engineer - Front-End",
         "active": false,
@@ -8813,7 +8813,7 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Navan (fka TripActions)",
+        "company_name": "Navan",
         "id": "defebec3-f484-414b-bb03-4a165e076b3a",
         "title": "New College Grad - Android Engineer",
         "active": false,
@@ -13910,7 +13910,7 @@
     {
         "date_updated": 1713922089,
         "url": "https://simplify.jobs/p/12d74d59-f8fb-4f04-a478-e3dd867f6e9d/University-Graduate",
-        "company_name": "Navan (fka TripActions) [https://simplify.jobs/c/Navan]",
+        "company_name": "Navan [https://simplify.jobs/c/Navan]",
         "title": "University Graduate Software Engineer, Back-End",
         "locations": [
             "Palo Alto, CA"
@@ -21907,7 +21907,7 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Navan (fka TripActions)",
+        "company_name": "Navan",
         "id": "a0d5a6b0-d343-48ef-b485-3856cb2a9469",
         "title": "Evergreen: New College Grad Software Engineer - Front-End",
         "active": false,
