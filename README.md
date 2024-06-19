@@ -6,7 +6,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/New-Grad-Positions/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
-> Update (Sep 1, 2023) 🥳
+> **Exciting Updates to this Repo! 🥳**
 >
 > You might have noticed that the repo looks a little different 👀.
 >
