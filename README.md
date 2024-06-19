@@ -1,4 +1,4 @@
-# 2024 New Grad Positions by Coder Quad and Simplify
+# 2025 New Grad Positions by Coder Quad and Simplify
 
 Use this repo to share and keep track of entry-level software, tech, CS, PM, quant jobs for new graduates.
 
