@@ -73,9 +73,10 @@ def create_md_table(listings):
 def filterListings(listings, earliest_date):
     final_listings = []
     inclusion_terms = ["software eng", "software dev", "data scientist", "data engineer", "product manage", "apm", "frontend", "front end", "front-end", "backend", "back end", "full-stack", "full stack", "full-stack", "devops", "android", "ios", "mobile dev", "sre", "site reliability eng", "quantitative trad", "quantitative research", "quantitative trad", "quantitative dev", "security eng", "compiler eng", "machine learning eng", "infrastructure eng"]
+    new_grad_terms = ["new grad", "early career", "college grad", "entry level", "early in career", "university grad", "fresh grad", "2024 grad", "2025 grad", "engineer 0", "engineer 1", "engineer i ", "junior"]
     for listing in listings:
         if listing["is_visible"] and listing["date_posted"] > earliest_date:
-            if any(term in listing["title"].lower() for term in inclusion_terms): # check if title contains any of the terms
+            if any(term in listing["title"].lower() for term in inclusion_terms) and (any(term in listing["title"].lower() for term in new_grad_terms) or (listing["title"].lower().endswith("engineer i"))): # check if title contains any of the terms
                 final_listings.append(listing)
 
     return final_listings
