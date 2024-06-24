@@ -1,464 +1,549 @@
 [
-  {
-    "source": "Simplify",
-    "company_name": "WeRide",
-    "id": "694040e9-673d-400c-9fed-0d9b222403bc",
-    "title": "Software Engineer \u2013 New Grads 2024 - Planning & Control",
-    "active": false,
-    "date_updated": 1714605534,
-    "date_posted": 1714605534,
-    "url": "https://jobs.lever.co/weride/a102c558-c365-48cf-b1ae-766037509e5c/apply",
-    "locations": ["San Jose, CA"],
-    "company_url": "https://simplify.jobs/c/WeRide",
-    "is_visible": true,
-    "sponsorship": "Other"
-  },
-  {
-    "source": "Simplify",
-    "company_name": "WeRide",
-    "id": "ccc1f29c-61cf-48d4-9546-92c64d6bd122",
-    "title": "Software Engineer \u2013 New Grads 2024 - Perception",
-    "active": false,
-    "date_updated": 1714605534,
-    "date_posted": 1714605534,
-    "url": "https://jobs.lever.co/weride/ffc66d09-5fd1-4f77-8b85-6725c74a5cc6/apply",
-    "locations": ["San Jose, CA"],
-    "company_url": "https://simplify.jobs/c/WeRide",
-    "is_visible": true,
-    "sponsorship": "Other"
-  },
-  {
-    "source": "Simplify",
-    "company_name": "Axon",
-    "id": "5c538ae0-5dad-4f80-ab5c-8c7aa6330194",
-    "title": "Embedded Applications Software Engineer I",
-    "active": false,
-    "date_updated": 1714806727,
-    "date_posted": 1714806727,
-    "url": "https://boards.greenhouse.io/axon/jobs/5729825003",
-    "locations": ["Seattle, WA"],
-    "company_url": "https://simplify.jobs/c/Axon",
-    "is_visible": true,
-    "sponsorship": "Other"
-  },
-  {
-    "source": "Simplify",
-    "company_name": "Visa",
-    "id": "c6e2edaa-26e0-430f-9f97-e18cd9bee381",
-    "title": "Software Engineer - New College Grad-2024",
-    "active": false,
-    "date_updated": 1715353763,
-    "date_posted": 1715353763,
-    "url": "https://jobs.smartrecruiters.com/Visa/743999986682224",
-    "locations": ["Bellevue, WA"],
-    "company_url": "https://simplify.jobs/c/Visa",
-    "is_visible": true,
-    "sponsorship": "Other"
-  },
-  {
-    "source": "Simplify",
-    "company_name": "Arsiem Corporation",
-    "id": "fec920fd-bbb8-4c71-9276-3d65a13df3de",
-    "title": "Software Engineer 0",
-    "active": true,
-    "date_updated": 1715354945,
-    "date_posted": 1715354945,
-    "url": "https://jobs.lever.co/arsiem/090b1544-1dbb-42e3-becb-0787ff7b63e0/apply",
-    "locations": ["Annapolis Junction, MD"],
-    "company_url": "https://simplify.jobs/c/Arsiem-Corporation",
-    "is_visible": true,
-    "sponsorship": "Other"
-  },
-  {
-    "source": "Simplify",
-    "company_name": "Splunk",
-    "id": "cde87b00-1165-48c8-be59-93f8dabed9d7",
-    "title": "Software Engineer - Early in Career - Frontend",
-    "active": true,
-    "date_updated": 1715037266,
-    "date_posted": 1715037266,
-    "url": "https://jobs.jobvite.com/splunk-careers/job/oeTxsfwQ?nl=1&nl=1&fr=false",
-    "locations": ["Colorado", "North Carolina"],
-    "company_url": "https://simplify.jobs/c/Splunk",
-    "is_visible": true,
-    "sponsorship": "Other"
-  },
-  {
-    "source": "Simplify",
-    "company_name": "Marqeta",
-    "id": "6fd99322-df46-4f61-a19c-ef0de35bce1f",
-    "title": "Software Engineer I",
-    "active": false,
-    "date_updated": 1715728529,
-    "date_posted": 1715728529,
-    "url": "https://boards.greenhouse.io/marqeta/jobs/5962969",
-    "locations": ["Vancouver, BC, Canada"],
-    "company_url": "https://simplify.jobs/c/Marqeta",
-    "is_visible": true,
-    "sponsorship": "Other"
-  },
-  {
-    "source": "Simplify",
-    "company_name": "Marqeta",
-    "id": "5b6ad8c5-7599-44da-9416-2c1bc50611c4",
-    "title": "Software Engineer I",
-    "active": false,
-    "date_updated": 1715728528,
-    "date_posted": 1715728528,
-    "url": "https://boards.greenhouse.io/marqeta/jobs/5932297",
-    "locations": ["Toronto, ON, Canada"],
-    "company_url": "https://simplify.jobs/c/Marqeta",
-    "is_visible": true,
-    "sponsorship": "Other"
-  },
-  {
-    "source": "Simplify",
-    "company_name": "Arsiem Corporation",
-    "id": "ed8c22bb-d7b9-43cb-9e11-3480ac5b5d98",
-    "title": "Software Engineer 1",
-    "active": false,
-    "date_updated": 1715815039,
-    "date_posted": 1715815039,
-    "url": "https://jobs.lever.co/arsiem/f94bf15a-2979-4326-ad2e-d0c510ef9694/apply",
-    "locations": ["Annapolis Junction, MD"],
-    "company_url": "https://simplify.jobs/c/Arsiem-Corporation",
-    "is_visible": true,
-    "sponsorship": "Other"
-  },
-  {
-    "source": "Simplify",
-    "company_name": "Arsiem Corporation",
-    "id": "7e549857-ae73-4c92-8932-52f696dea09b",
-    "title": "Software Engineer 0",
-    "active": true,
-    "date_updated": 1715908474,
-    "date_posted": 1714778695,
-    "url": "https://jobs.lever.co/arsiem/8dd1614b-9f2c-4fe1-8830-5bf7e18b298b/apply",
-    "locations": ["Annapolis Junction, MD"],
-    "company_url": "https://simplify.jobs/c/Arsiem-Corporation",
-    "is_visible": true,
-    "sponsorship": "Other"
-  },
-  {
-    "source": "Simplify",
-    "company_name": "Arsiem Corporation",
-    "id": "44df3bb7-a0b4-4674-afd4-e46c43231db3",
-    "title": "Software Engineer 1",
-    "active": false,
-    "date_updated": 1715987606,
-    "date_posted": 1715987606,
-    "url": "https://jobs.lever.co/arsiem/1a74e319-c20e-43c8-b839-6a68c9210cc4/apply",
-    "locations": ["Annapolis Junction, MD"],
-    "company_url": "https://simplify.jobs/c/Arsiem-Corporation",
-    "is_visible": true,
-    "sponsorship": "Other"
-  },
-  {
-    "source": "Simplify",
-    "company_name": "Wiley Edge",
-    "id": "ec4ea1f0-5c3a-40cc-bddd-ae5c654bdd96",
-    "title": "Junior Software Engineer",
-    "active": false,
-    "date_updated": 1715382627,
-    "date_posted": 1715382627,
-    "url": "https://boards.greenhouse.io/wileyedgerecruitingportal/jobs/4351490006",
-    "locations": ["United States"],
-    "company_url": "https://simplify.jobs/c/WileyEdge",
-    "is_visible": true,
-    "sponsorship": "Other"
-  },
-  {
-    "source": "Simplify",
-    "company_name": "Trustpilot",
-    "id": "fcecdf26-8977-4b85-8419-c627aa5863ed",
-    "title": "Software Engineer I - API Platform",
-    "active": false,
-    "date_updated": 1716304762,
-    "date_posted": 1716304762,
-    "url": "https://business.trustpilot.com/jobs/5941007?gh_jid=5941007",
-    "locations": ["London, UK"],
-    "company_url": "https://simplify.jobs/c/Trustpilot",
-    "is_visible": true,
-    "sponsorship": "Other"
-  },
-  {
-    "source": "Simplify",
-    "company_name": "Magna",
-    "id": "236cd6ca-c9ce-48f6-8ee9-3ef4a015ac10",
-    "title": "Software Engineer \u2013 New Grad",
-    "active": false,
-    "date_updated": 1716333203,
-    "date_posted": 1716333203,
-    "url": "https://boards.greenhouse.io/magna/jobs/4382449007",
-    "locations": ["NYC"],
-    "company_url": "https://simplify.jobs/c/Magna",
-    "is_visible": true,
-    "sponsorship": "Other"
-  },
-  {
-    "source": "Simplify",
-    "company_name": "Navan",
-    "id": "a0d5a6b0-d343-48ef-b485-3856cb2a9469",
-    "title": "Evergreen: New College Grad Software Engineer - Front-End",
-    "active": false,
-    "date_updated": 1716592037,
-    "date_posted": 1716592037,
-    "url": "https://tripactions.com/job-openings?gh_jid=5980878",
-    "locations": ["Palo Alto, CA"],
-    "company_url": "https://simplify.jobs/c/Navan",
-    "is_visible": true,
-    "sponsorship": "Other"
-  },
-  {
-    "source": "Simplify",
-    "company_name": "Splunk",
-    "id": "31bd40d2-03e5-4df7-bbcd-30c44e91ba9e",
-    "title": "Software Engineer - Early in Career - Frontend",
-    "active": false,
-    "date_updated": 1716938695,
-    "date_posted": 1716938695,
-    "url": "https://jobs.jobvite.com/splunk-careers/job/on3Csfwe?nl=1&nl=1&fr=false",
-    "locations": ["Vancouver, BC, Canada"],
-    "company_url": "https://simplify.jobs/c/Splunk",
-    "is_visible": true,
-    "sponsorship": "Other"
-  },
-  {
-    "source": "Simplify",
-    "company_name": "Perpay",
-    "id": "590f1ae6-ef3f-4bcb-a7a0-e6957768779d",
-    "title": "Junior Data Engineer",
-    "active": false,
-    "date_updated": 1717197181,
-    "date_posted": 1717197181,
-    "url": "https://boards.greenhouse.io/perpay/jobs/4390291007",
-    "locations": ["Philadelphia, PA"],
-    "company_url": "https://simplify.jobs/c/Perpay",
-    "is_visible": true,
-    "sponsorship": "Other"
-  },
-  {
-    "source": "Simplify",
-    "company_name": "OpenEye",
-    "id": "cb967210-0559-431e-96f3-777fc41e21b7",
-    "title": "Software Engineer I",
-    "active": false,
-    "date_updated": 1717196923,
-    "date_posted": 1717196923,
-    "url": "https://boards.greenhouse.io/openeye/jobs/7460213002",
-    "locations": ["Liberty Lake, WA"],
-    "company_url": "https://simplify.jobs/c/OpenEye",
-    "is_visible": true,
-    "sponsorship": "Other"
-  },
-  {
-    "source": "Simplify",
-    "company_name": "Arsiem Corporation",
-    "id": "c0d8685b-6cc4-4753-ac97-1fd276837900",
-    "title": "Software Engineer 1",
-    "active": false,
-    "date_updated": 1717629371,
-    "date_posted": 1717629371,
-    "url": "https://jobs.lever.co/arsiem/10a19034-c12c-45ee-a69a-6d0e6c1aa3f0/apply",
-    "locations": ["Remote in USA"],
-    "company_url": "https://simplify.jobs/c/Arsiem-Corporation",
-    "is_visible": true,
-    "sponsorship": "Other"
-  },
-  {
-    "source": "Simplify",
-    "company_name": "Konrad Group",
-    "id": "fa797771-52ff-4d34-b455-4ea452679bdb",
-    "title": "Mobile Developer \u2013 Entry Level",
-    "active": true,
-    "date_updated": 1717716152,
-    "date_posted": 1717716152,
-    "url": "https://boards.greenhouse.io/embed/job_app?token=6015617003",
-    "locations": ["Toronto, ON, Canada"],
-    "company_url": "https://simplify.jobs/c/Konrad-Group",
-    "is_visible": true,
-    "sponsorship": "Other"
-  },
-  {
-    "source": "Simplify",
-    "company_name": "Autotrader.ca",
-    "id": "d7bde62b-4a19-4146-80b5-4acdf159c540",
-    "title": "Junior Android Engineer",
-    "active": false,
-    "date_updated": 1718039117,
-    "date_posted": 1718039117,
-    "url": "https://jobs.lever.co/trader/c73888ca-83f5-44b3-a01a-27eee2e2e572/apply",
-    "locations": ["Toronto, ON, Canada"],
-    "company_url": "https://simplify.jobs/c/AutoTrader-CA",
-    "is_visible": true,
-    "sponsorship": "Other"
-  },
-  {
-    "source": "Simplify",
-    "company_name": "NVIDIA",
-    "id": "61f56def-c822-4305-b5f3-b91e8a14d41a",
-    "title": "System Software Engineer \u2013 New College Grad 2024 - Graphics Developer Tool",
-    "active": false,
-    "date_updated": 1718098999,
-    "date_posted": 1718098999,
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/System-Software-Engineer--Graphics-Developer-Tool---New-College-Grad-2024_JR1981743-1",
-    "locations": ["Austin, TX", "Santa Clara, CA"],
-    "company_url": "https://simplify.jobs/c/NVIDIA",
-    "is_visible": true,
-    "sponsorship": "Other"
-  },
-  {
-    "source": "Simplify",
-    "company_name": "Search Discovery",
-    "id": "78b06b8d-21a2-4ad0-896c-0a51dfb8318f",
-    "title": "Data Engineer I",
-    "active": true,
-    "date_updated": 1718187003,
-    "date_posted": 1718187003,
-    "url": "https://boards.greenhouse.io/searchdiscovery/jobs/6034491",
-    "locations": ["Cleveland, OH"],
-    "company_url": "https://simplify.jobs/c/SearchDiscovery",
-    "is_visible": true,
-    "sponsorship": "Other"
-  },
-  {
-    "source": "Simplify",
-    "company_name": "UiPath",
-    "id": "5e9167d8-f42f-4865-adc7-5e6603ba4a87",
-    "title": "Software Engineer I",
-    "active": false,
-    "date_updated": 1718186466,
-    "date_posted": 1718186466,
-    "url": "https://careers.uipath.com/jobs/9169?lang=en-us&icims=1",
-    "locations": ["Bellevue, WA"],
-    "company_url": "https://simplify.jobs/c/UiPath",
-    "is_visible": true,
-    "sponsorship": "Other"
-  },
-  {
-    "source": "Simplify",
-    "company_name": "Kalderos",
-    "id": "e74ead1f-1d0b-438d-a594-37dc9b21096f",
-    "title": "Software Engineer I",
-    "active": true,
-    "date_updated": 1718302393,
-    "date_posted": 1718302393,
-    "url": "https://www.kalderos.com/company/job-board/?gh_jid=6024016003",
-    "locations": ["Remote in USA"],
-    "company_url": "https://simplify.jobs/c/Kalderos",
-    "is_visible": true,
-    "sponsorship": "Other"
-  },
-  {
-    "source": "Simplify",
-    "company_name": "Replo",
-    "id": "6b914596-3d09-4136-b34d-72d820620116",
-    "title": "Software Engineer \u2013 New Grad",
-    "active": true,
-    "date_updated": 1718272246,
-    "date_posted": 1718272246,
-    "url": "https://jobs.ashbyhq.com/replo/ec206174-ccc2-42fa-b295-8201421f21b0/application",
-    "locations": ["SF"],
-    "company_url": "https://simplify.jobs/c/Replo",
-    "is_visible": true,
-    "sponsorship": "Other"
-  },
-  {
-    "source": "Simplify",
-    "company_name": "Arsiem Corporation",
-    "id": "370ac2f5-f0e3-410f-b905-4b82238a3dce",
-    "title": "Software Engineer 1",
-    "active": false,
-    "date_updated": 1716448342,
-    "date_posted": 1716448342,
-    "url": "https://jobs.lever.co/arsiem/ac0fe045-d6bc-4cf8-b515-07f643701c60/apply",
-    "locations": ["Annapolis Junction, MD"],
-    "company_url": "https://simplify.jobs/c/Arsiem-Corporation",
-    "is_visible": true,
-    "sponsorship": "Other"
-  },
-  {
-    "source": "Simplify",
-    "company_name": "Arsiem Corporation",
-    "id": "f299e016-08fb-4c0d-8553-9175ca12e4af",
-    "title": "Software Engineer 1",
-    "active": false,
-    "date_updated": 1715123669,
-    "date_posted": 1715123669,
-    "url": "https://jobs.lever.co/arsiem/002e1d3e-d510-4f69-beb2-e4be62fc827b/apply",
-    "locations": ["Annapolis Junction, MD"],
-    "company_url": "https://simplify.jobs/c/Arsiem-Corporation",
-    "is_visible": true,
-    "sponsorship": "Other"
-  },
-  {
-    "source": "Simplify",
-    "company_name": "Aquatic Capital Management",
-    "id": "fb85f521-0b44-4728-bb9f-3a936fdf0eae",
-    "title": "Software Engineer \u2013 Data: Early Career - 2024",
-    "active": true,
-    "date_updated": 1718752972,
-    "date_posted": 1718752972,
-    "url": "https://boards.greenhouse.io/aquaticcapitalmanagement/jobs/7500291002",
-    "locations": ["Chicago, IL", "NYC"],
-    "company_url": "https://simplify.jobs/c/Aquatic-Capital-Management",
-    "is_visible": true,
-    "sponsorship": "Other"
-  },
-  {
-    "source": "Simplify",
-    "company_name": "Wayfair",
-    "id": "c43c87c7-9e74-4bd1-b164-5b2dc4eb1276",
-    "title": "Software Engineer I - IOS",
-    "active": true,
-    "date_updated": 1718897126,
-    "date_posted": 1718897126,
-    "url": "https://www.wayfair.com/careers/jobs/7471733002?gh_jid=7471733002",
-    "locations": ["Cambridge, MA"],
-    "company_url": "https://simplify.jobs/c/Wayfair",
-    "is_visible": true,
-    "sponsorship": "Other"
-  },
-  {
-    "source": "Simplify",
-    "company_name": "Wayfair",
-    "id": "741af77f-23d5-4a65-b273-68eb622a7e78",
-    "title": "Software Engineer I - Backend",
-    "active": false,
-    "date_updated": 1718897120,
-    "date_posted": 1718897120,
-    "url": "https://www.wayfair.com/careers/jobs/7502993002?gh_jid=7502993002",
-    "locations": ["Cambridge, MA"],
-    "company_url": "https://simplify.jobs/c/Wayfair",
-    "is_visible": true,
-    "sponsorship": "Other"
-  },
-  {
-    "source": "Simplify",
-    "company_name": "SimpliSafe",
-    "id": "4623274c-aa5b-4987-abb6-0d44af521387",
-    "title": "Software Engineer I",
-    "active": true,
-    "date_updated": 1718982721,
-    "date_posted": 1718982721,
-    "url": "https://boards.greenhouse.io/simplisafe/jobs/6019248",
-    "locations": ["Cambridge, MA"],
-    "company_url": "https://simplify.jobs/c/SimpliSafe",
-    "is_visible": true,
-    "sponsorship": "Other"
-  },
-  {
-    "source": "Simplify",
-    "company_name": "Advanced Technology Services (ATS)",
-    "id": "34a2109e-c491-4143-b156-39bfa8cf7b98",
-    "title": "Software Engineer I",
-    "active": true,
-    "date_updated": 1718983575,
-    "date_posted": 1718983575,
-    "url": "https://boards.greenhouse.io/advancedtechnologyservices/jobs/4378598006",
-    "locations": ["Peoria, IL"],
-    "company_url": "https://simplify.jobs/c/Advanced-Technology-Services",
-    "is_visible": true,
-    "sponsorship": "Other"
-  }
+    {
+        "source": "Simplify",
+        "company_name": "WeRide",
+        "id": "694040e9-673d-400c-9fed-0d9b222403bc",
+        "title": "Software Engineer \u2013 New Grads 2024 - Planning & Control",
+        "active": false,
+        "date_updated": 1714605534,
+        "date_posted": 1714605534,
+        "url": "https://jobs.lever.co/weride/a102c558-c365-48cf-b1ae-766037509e5c/apply",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/WeRide",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "WeRide",
+        "id": "ccc1f29c-61cf-48d4-9546-92c64d6bd122",
+        "title": "Software Engineer \u2013 New Grads 2024 - Perception",
+        "active": false,
+        "date_updated": 1714605534,
+        "date_posted": 1714605534,
+        "url": "https://jobs.lever.co/weride/ffc66d09-5fd1-4f77-8b85-6725c74a5cc6/apply",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/WeRide",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Axon",
+        "id": "5c538ae0-5dad-4f80-ab5c-8c7aa6330194",
+        "title": "Embedded Applications Software Engineer I",
+        "active": false,
+        "date_updated": 1714806727,
+        "date_posted": 1714806727,
+        "url": "https://boards.greenhouse.io/axon/jobs/5729825003",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Axon",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Visa",
+        "id": "c6e2edaa-26e0-430f-9f97-e18cd9bee381",
+        "title": "Software Engineer - New College Grad-2024",
+        "active": false,
+        "date_updated": 1715353763,
+        "date_posted": 1715353763,
+        "url": "https://jobs.smartrecruiters.com/Visa/743999986682224",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Arsiem Corporation",
+        "id": "fec920fd-bbb8-4c71-9276-3d65a13df3de",
+        "title": "Software Engineer 0",
+        "active": true,
+        "date_updated": 1715354945,
+        "date_posted": 1715354945,
+        "url": "https://jobs.lever.co/arsiem/090b1544-1dbb-42e3-becb-0787ff7b63e0/apply",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Arsiem-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Splunk",
+        "id": "cde87b00-1165-48c8-be59-93f8dabed9d7",
+        "title": "Software Engineer - Early in Career - Frontend",
+        "active": true,
+        "date_updated": 1715037266,
+        "date_posted": 1715037266,
+        "url": "https://jobs.jobvite.com/splunk-careers/job/oeTxsfwQ?nl=1&nl=1&fr=false",
+        "locations": [
+            "Colorado",
+            "North Carolina"
+        ],
+        "company_url": "https://simplify.jobs/c/Splunk",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Marqeta",
+        "id": "6fd99322-df46-4f61-a19c-ef0de35bce1f",
+        "title": "Software Engineer I",
+        "active": false,
+        "date_updated": 1715728529,
+        "date_posted": 1715728529,
+        "url": "https://boards.greenhouse.io/marqeta/jobs/5962969",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Marqeta",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Marqeta",
+        "id": "5b6ad8c5-7599-44da-9416-2c1bc50611c4",
+        "title": "Software Engineer I",
+        "active": false,
+        "date_updated": 1715728528,
+        "date_posted": 1715728528,
+        "url": "https://boards.greenhouse.io/marqeta/jobs/5932297",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Marqeta",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Arsiem Corporation",
+        "id": "ed8c22bb-d7b9-43cb-9e11-3480ac5b5d98",
+        "title": "Software Engineer 1",
+        "active": false,
+        "date_updated": 1715815039,
+        "date_posted": 1715815039,
+        "url": "https://jobs.lever.co/arsiem/f94bf15a-2979-4326-ad2e-d0c510ef9694/apply",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Arsiem-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Arsiem Corporation",
+        "id": "7e549857-ae73-4c92-8932-52f696dea09b",
+        "title": "Software Engineer 0",
+        "active": true,
+        "date_updated": 1715908474,
+        "date_posted": 1714778695,
+        "url": "https://jobs.lever.co/arsiem/8dd1614b-9f2c-4fe1-8830-5bf7e18b298b/apply",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Arsiem-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Arsiem Corporation",
+        "id": "44df3bb7-a0b4-4674-afd4-e46c43231db3",
+        "title": "Software Engineer 1",
+        "active": false,
+        "date_updated": 1715987606,
+        "date_posted": 1715987606,
+        "url": "https://jobs.lever.co/arsiem/1a74e319-c20e-43c8-b839-6a68c9210cc4/apply",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Arsiem-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wiley Edge",
+        "id": "ec4ea1f0-5c3a-40cc-bddd-ae5c654bdd96",
+        "title": "Junior Software Engineer",
+        "active": false,
+        "date_updated": 1715382627,
+        "date_posted": 1715382627,
+        "url": "https://boards.greenhouse.io/wileyedgerecruitingportal/jobs/4351490006",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/WileyEdge",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Trustpilot",
+        "id": "fcecdf26-8977-4b85-8419-c627aa5863ed",
+        "title": "Software Engineer I - API Platform",
+        "active": false,
+        "date_updated": 1716304762,
+        "date_posted": 1716304762,
+        "url": "https://business.trustpilot.com/jobs/5941007?gh_jid=5941007",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Trustpilot",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Magna",
+        "id": "236cd6ca-c9ce-48f6-8ee9-3ef4a015ac10",
+        "title": "Software Engineer \u2013 New Grad",
+        "active": false,
+        "date_updated": 1716333203,
+        "date_posted": 1716333203,
+        "url": "https://boards.greenhouse.io/magna/jobs/4382449007",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Magna",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Navan",
+        "id": "a0d5a6b0-d343-48ef-b485-3856cb2a9469",
+        "title": "Evergreen: New College Grad Software Engineer - Front-End",
+        "active": false,
+        "date_updated": 1716592037,
+        "date_posted": 1716592037,
+        "url": "https://tripactions.com/job-openings?gh_jid=5980878",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Navan",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Splunk",
+        "id": "31bd40d2-03e5-4df7-bbcd-30c44e91ba9e",
+        "title": "Software Engineer - Early in Career - Frontend",
+        "active": false,
+        "date_updated": 1716938695,
+        "date_posted": 1716938695,
+        "url": "https://jobs.jobvite.com/splunk-careers/job/on3Csfwe?nl=1&nl=1&fr=false",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Splunk",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Perpay",
+        "id": "590f1ae6-ef3f-4bcb-a7a0-e6957768779d",
+        "title": "Junior Data Engineer",
+        "active": false,
+        "date_updated": 1717197181,
+        "date_posted": 1717197181,
+        "url": "https://boards.greenhouse.io/perpay/jobs/4390291007",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Perpay",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "OpenEye",
+        "id": "cb967210-0559-431e-96f3-777fc41e21b7",
+        "title": "Software Engineer I",
+        "active": false,
+        "date_updated": 1717196923,
+        "date_posted": 1717196923,
+        "url": "https://boards.greenhouse.io/openeye/jobs/7460213002",
+        "locations": [
+            "Liberty Lake, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/OpenEye",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Arsiem Corporation",
+        "id": "c0d8685b-6cc4-4753-ac97-1fd276837900",
+        "title": "Software Engineer 1",
+        "active": false,
+        "date_updated": 1717629371,
+        "date_posted": 1717629371,
+        "url": "https://jobs.lever.co/arsiem/10a19034-c12c-45ee-a69a-6d0e6c1aa3f0/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Arsiem-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Konrad Group",
+        "id": "fa797771-52ff-4d34-b455-4ea452679bdb",
+        "title": "Mobile Developer \u2013 Entry Level",
+        "active": true,
+        "date_updated": 1717716152,
+        "date_posted": 1717716152,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=6015617003",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Konrad-Group",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Autotrader.ca",
+        "id": "d7bde62b-4a19-4146-80b5-4acdf159c540",
+        "title": "Junior Android Engineer",
+        "active": false,
+        "date_updated": 1718039117,
+        "date_posted": 1718039117,
+        "url": "https://jobs.lever.co/trader/c73888ca-83f5-44b3-a01a-27eee2e2e572/apply",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/AutoTrader-CA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NVIDIA",
+        "id": "61f56def-c822-4305-b5f3-b91e8a14d41a",
+        "title": "System Software Engineer \u2013 New College Grad 2024 - Graphics Developer Tool",
+        "active": false,
+        "date_updated": 1718098999,
+        "date_posted": 1718098999,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/System-Software-Engineer--Graphics-Developer-Tool---New-College-Grad-2024_JR1981743-1",
+        "locations": [
+            "Austin, TX",
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Search Discovery",
+        "id": "78b06b8d-21a2-4ad0-896c-0a51dfb8318f",
+        "title": "Data Engineer I",
+        "active": true,
+        "date_updated": 1718187003,
+        "date_posted": 1718187003,
+        "url": "https://boards.greenhouse.io/searchdiscovery/jobs/6034491",
+        "locations": [
+            "Cleveland, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/SearchDiscovery",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "UiPath",
+        "id": "5e9167d8-f42f-4865-adc7-5e6603ba4a87",
+        "title": "Software Engineer I",
+        "active": false,
+        "date_updated": 1718186466,
+        "date_posted": 1718186466,
+        "url": "https://careers.uipath.com/jobs/9169?lang=en-us&icims=1",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/UiPath",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Kalderos",
+        "id": "e74ead1f-1d0b-438d-a594-37dc9b21096f",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1718302393,
+        "date_posted": 1718302393,
+        "url": "https://www.kalderos.com/company/job-board/?gh_jid=6024016003",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Kalderos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Replo",
+        "id": "6b914596-3d09-4136-b34d-72d820620116",
+        "title": "Software Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1718272246,
+        "date_posted": 1718272246,
+        "url": "https://jobs.ashbyhq.com/replo/ec206174-ccc2-42fa-b295-8201421f21b0/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Replo",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Arsiem Corporation",
+        "id": "370ac2f5-f0e3-410f-b905-4b82238a3dce",
+        "title": "Software Engineer 1",
+        "active": false,
+        "date_updated": 1716448342,
+        "date_posted": 1716448342,
+        "url": "https://jobs.lever.co/arsiem/ac0fe045-d6bc-4cf8-b515-07f643701c60/apply",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Arsiem-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Arsiem Corporation",
+        "id": "f299e016-08fb-4c0d-8553-9175ca12e4af",
+        "title": "Software Engineer 1",
+        "active": false,
+        "date_updated": 1715123669,
+        "date_posted": 1715123669,
+        "url": "https://jobs.lever.co/arsiem/002e1d3e-d510-4f69-beb2-e4be62fc827b/apply",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Arsiem-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Aquatic Capital Management",
+        "id": "fb85f521-0b44-4728-bb9f-3a936fdf0eae",
+        "title": "Software Engineer \u2013 Data: Early Career - 2024",
+        "active": true,
+        "date_updated": 1718752972,
+        "date_posted": 1718752972,
+        "url": "https://boards.greenhouse.io/aquaticcapitalmanagement/jobs/7500291002",
+        "locations": [
+            "Chicago, IL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Aquatic-Capital-Management",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wayfair",
+        "id": "c43c87c7-9e74-4bd1-b164-5b2dc4eb1276",
+        "title": "Software Engineer I - IOS",
+        "active": true,
+        "date_updated": 1718897126,
+        "date_posted": 1718897126,
+        "url": "https://www.wayfair.com/careers/jobs/7471733002?gh_jid=7471733002",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Wayfair",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wayfair",
+        "id": "741af77f-23d5-4a65-b273-68eb622a7e78",
+        "title": "Software Engineer I - Backend",
+        "active": false,
+        "date_updated": 1718897120,
+        "date_posted": 1718897120,
+        "url": "https://www.wayfair.com/careers/jobs/7502993002?gh_jid=7502993002",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Wayfair",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "SimpliSafe",
+        "id": "4623274c-aa5b-4987-abb6-0d44af521387",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1718982721,
+        "date_posted": 1718982721,
+        "url": "https://boards.greenhouse.io/simplisafe/jobs/6019248",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/SimpliSafe",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Advanced Technology Services (ATS)",
+        "id": "34a2109e-c491-4143-b156-39bfa8cf7b98",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1718983575,
+        "date_posted": 1718983575,
+        "url": "https://boards.greenhouse.io/advancedtechnologyservices/jobs/4378598006",
+        "locations": [
+            "Peoria, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Advanced-Technology-Services",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1719266198,
+        "url": "https://www.amazon.jobs/en/jobs/2644301/software-development-engineer-2024-us",
+        "company_name": "Amazon",
+        "title": "Software Development Engineer \u2013 2024",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "yan-michael",
+        "id": "4187daf4-4e7f-4787-87e7-354316c8750e",
+        "date_posted": 1719266198,
+        "company_url": "",
+        "is_visible": true
+    }
 ]
