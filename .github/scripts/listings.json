@@ -583,7 +583,7 @@
         "company_name": "Forward",
         "id": "69ee35be-0ef9-4b03-ab2b-941c9402d9db",
         "title": "Software Engineer \u2013 Entry Level - Full Stack",
-        "active": true,
+        "active": false,
         "date_updated": 1719271009,
         "date_posted": 1719271009,
         "url": "https://jobs.lever.co/goforward/073d1961-b3fd-4515-a7a4-a34a2eedb74a/apply",
@@ -807,7 +807,7 @@
         "company_name": "Welocalize",
         "id": "368645e2-ad96-4690-a6a3-fa736913e3ee",
         "title": "Data Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1719019114,
         "date_posted": 1718695694,
         "url": "https://jobs.lever.co/welocalize/562f3b99-a157-4b18-9cb9-432bbc8999f7/apply",
@@ -1096,7 +1096,7 @@
         "company_name": "Catalist",
         "id": "427c1094-38d3-48e7-b1ea-88163e62f315",
         "title": "Absentee and Early Vote Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1717952634,
         "date_posted": 1717952634,
         "url": "https://jobs.lever.co/catalist/48009878-a169-473a-89ce-9bf447c21d39/apply",
@@ -1192,7 +1192,7 @@
         "company_name": "Varicent",
         "id": "6855e6e1-4c1f-4ba0-8cb8-43044c0712d6",
         "title": "Software Developer I",
-        "active": true,
+        "active": false,
         "date_updated": 1716908878,
         "date_posted": 1716908878,
         "url": "https://jobs.lever.co/varicent/e9792b62-4e9c-4251-8d50-0faba9b74e64/apply",
@@ -1208,7 +1208,7 @@
         "company_name": "Mobilityware",
         "id": "70eec435-fc61-4d4c-8bb8-7a84387b1b21",
         "title": "Unity Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1712388975,
         "date_posted": 1712187782,
         "url": "http://boards.greenhouse.io/mobilityware/jobs/5850631",
@@ -2109,7 +2109,7 @@
         "company_name": "Uncountable",
         "id": "76f659b7-cf65-4fe2-8f7c-52e86db4428f",
         "title": "Full-Stack Engineer \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1693438187,
         "date_posted": 1692574187,
         "url": "https://simplify.jobs/p/76f659b7-cf65-4fe2-8f7c-52e86db4428f",
@@ -2342,6 +2342,71 @@
             "Remote in Canada"
         ],
         "company_url": "https://simplify.jobs/c/Keywords-Studios",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "DriveWealth",
+        "id": "26da0bd0-a5c8-4b7a-bcf8-27f6089aae60",
+        "title": "Software Development Engineer 1",
+        "active": true,
+        "date_updated": 1719415645,
+        "date_posted": 1719415645,
+        "url": "https://boards.greenhouse.io/drivewealth/jobs/6024839003",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/DriveWealth",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Venture Global LNG",
+        "id": "a457210c-8b99-4b37-8bc2-399b8bc07531",
+        "title": "Scheduler \u2013 Natural Gas",
+        "active": true,
+        "date_updated": 1719429658,
+        "date_posted": 1719358258,
+        "url": "https://boards.greenhouse.io/venturegloballng/jobs/7512263002",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Venture-Global-Lng",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Aquatic Capital Management",
+        "id": "9489bce0-5fcd-45d3-8146-b479668b7153",
+        "title": "Quantitative Researcher \u2013 Early Career - 2025",
+        "active": true,
+        "date_updated": 1719357834,
+        "date_posted": 1719357834,
+        "url": "https://boards.greenhouse.io/aquaticcapitalmanagement/jobs/7468705002",
+        "locations": [
+            "Chicago, IL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Aquatic-Capital-Management",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "SoundHound AI",
+        "id": "bfbca268-57bc-4cb8-bf33-47960b2ba82d",
+        "title": "UPCOMING: AI Service Analyst - Restaurants",
+        "active": true,
+        "date_updated": 1719356942,
+        "date_posted": 1719356942,
+        "url": "https://boards.greenhouse.io/soundhoundinc/jobs/7512306002",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/SoundHound-AI",
         "is_visible": true,
         "sponsorship": "Other"
     }
