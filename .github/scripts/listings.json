@@ -2409,5 +2409,21 @@
         "company_url": "https://simplify.jobs/c/SoundHound-AI",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1719444276,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1730183/Software-Engineer",
+        "company_name": "Microsoft",
+        "title": "Software Engineer",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "reddoy",
+        "id": "221a634f-b340-449b-bd5c-71bfce0130d2",
+        "date_posted": 1719444276,
+        "company_url": "",
+        "is_visible": true
     }
 ]
