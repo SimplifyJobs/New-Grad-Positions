@@ -62,7 +62,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
-| **[Forward](https://simplify.jobs/c/Forward)** | Software Engineer – Entry Level - Full Stack | SF | <a href="https://jobs.lever.co/goforward/073d1961-b3fd-4515-a7a4-a34a2eedb74a/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/69ee35be-0ef9-4b03-ab2b-941c9402d9db?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jun 24 |
+| **[DriveWealth](https://simplify.jobs/c/DriveWealth)** | Software Development Engineer 1 | NYC | <a href="https://boards.greenhouse.io/drivewealth/jobs/6024839003?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/26da0bd0-a5c8-4b7a-bcf8-27f6089aae60?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jun 26 |
+| **[Aquatic Capital Management](https://simplify.jobs/c/Aquatic-Capital-Management)** | Quantitative Researcher – Early Career - 2025 | Chicago, IL</br>NYC | <a href="https://boards.greenhouse.io/aquaticcapitalmanagement/jobs/7468705002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/9489bce0-5fcd-45d3-8146-b479668b7153?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jun 25 |
+| **Forward** | Software Engineer – Entry Level - Full Stack | SF | 🔒 | Jun 24 |
 | **Amazon** | Software Development Enginner - New Grad (2024) | Seattle, WA | <a href="https://www.amazon.jobs/en/jobs/2644301/software-development-engineer-2024-us?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 24 |
 | **Advanced Technology Services (ATS)** | Software Engineer I | Peoria, IL | 🔒 | Jun 21 |
 | **SimpliSafe** | Software Engineer I | Cambridge, MA | 🔒 | Jun 21 |
