@@ -78,7 +78,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[Search Discovery](https://simplify.jobs/c/SearchDiscovery)** | Data Engineer I | Cleveland, OH | <a href="https://boards.greenhouse.io/searchdiscovery/jobs/6034491?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/78b06b8d-21a2-4ad0-896c-0a51dfb8318f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jun 12 |
 | **UiPath** | Software Engineer I | Bellevue, WA | 🔒 | Jun 12 |
 | **NVIDIA** | System Software Engineer – New College Grad 2024 - Graphics Developer Tool | Austin, TX</br>Santa Clara, CA | 🔒 | Jun 11 |
-| **Autotrader.ca** | Junior Android Engineer | Toronto, ON, Canada | 🔒 | Jun 10 |
+| **[Autotrader.ca](https://simplify.jobs/c/AutoTrader-CA)** | Junior Android Engineer | Toronto, ON, Canada | <a href="https://jobs.lever.co/trader/c73888ca-83f5-44b3-a01a-27eee2e2e572/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/d7bde62b-4a19-4146-80b5-4acdf159c540?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jun 10 |
 | **[Konrad Group](https://simplify.jobs/c/Konrad-Group)** | Mobile Developer – Entry Level | Toronto, ON, Canada | <a href="https://boards.greenhouse.io/embed/job_app?token=6015617003&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/fa797771-52ff-4d34-b455-4ea452679bdb?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jun 06 |
 | **Arsiem Corporation** | Software Engineer 1 | Remote in USA | 🔒 | Jun 05 |
 | **Perpay** | Junior Data Engineer | Philadelphia, PA | 🔒 | May 31 |
@@ -86,7 +86,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Splunk** | Software Engineer - Early in Career - Frontend | Vancouver, BC, Canada | 🔒 | May 28 |
 | **Navan** | Evergreen: New College Grad Software Engineer - Front-End | Palo Alto, CA | 🔒 | May 24 |
 | **Arsiem Corporation** | Software Engineer 1 | Annapolis Junction, MD | 🔒 | May 23 |
-| **Magna** | Software Engineer – New Grad | NYC | 🔒 | May 21 |
+| **[Magna](https://simplify.jobs/c/Magna)** | Software Engineer – New Grad | NYC | <a href="https://boards.greenhouse.io/magna/jobs/4382449007?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/236cd6ca-c9ce-48f6-8ee9-3ef4a015ac10?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | May 21 |
 | **Trustpilot** | Software Engineer I - API Platform | London, UK | 🔒 | May 21 |
 | **Arsiem Corporation** | Software Engineer 1 | Annapolis Junction, MD | 🔒 | May 17 |
 | **[Veeva Systems](https://simplify.jobs/c/Veeva-Systems)** | Associate Software Engineer – Seeking 2024 Grads | Toronto, ON, Canada | <a href="https://jobs.lever.co/veeva/f235ed8b-0972-4248-9d57-2d500aa094f5/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/3f29d010-cc7e-46d3-809a-80b161151483?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | May 15 |
