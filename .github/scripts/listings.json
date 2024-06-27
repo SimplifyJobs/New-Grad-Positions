@@ -213,7 +213,7 @@
         "company_name": "Magna",
         "id": "236cd6ca-c9ce-48f6-8ee9-3ef4a015ac10",
         "title": "Software Engineer \u2013 New Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1716333203,
         "date_posted": 1716333203,
         "url": "https://boards.greenhouse.io/magna/jobs/4382449007",
@@ -325,7 +325,7 @@
         "company_name": "Autotrader.ca",
         "id": "d7bde62b-4a19-4146-80b5-4acdf159c540",
         "title": "Junior Android Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1718039117,
         "date_posted": 1718039117,
         "url": "https://jobs.lever.co/trader/c73888ca-83f5-44b3-a01a-27eee2e2e572/apply",
@@ -1884,7 +1884,7 @@
         "company_name": "Weedmaps",
         "id": "56335156-892f-4d81-804a-441af65fd0fa",
         "title": "Software Engineer I - Android - Hybrid",
-        "active": true,
+        "active": false,
         "date_updated": 1718309298,
         "date_posted": 1713913568,
         "url": "https://boards.greenhouse.io/weedmaps77/jobs/7251795002",
@@ -2077,7 +2077,7 @@
         "company_name": "Neuralink",
         "id": "bd90b104-47bf-4bb3-8869-4da207d66e6d",
         "title": "Software Engineer New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1707423314,
         "date_posted": 1702427027,
         "url": "https://boards.greenhouse.io/neuralink/jobs/5832835003",
@@ -2425,5 +2425,294 @@
         "date_posted": 1719444276,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "SMX",
+        "id": "eae823b7-a26a-4e79-8340-fd52be6175c5",
+        "title": "Oracle HCM Technical Associate",
+        "active": true,
+        "date_updated": 1719518261,
+        "date_posted": 1719518261,
+        "url": "https://www.smxtech.com/careers/?gh_jid=6006798003",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Smx",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Tekion",
+        "id": "48553f57-7986-4c87-a1b0-1d781e0ed74b",
+        "title": "Analytics Specialist",
+        "active": true,
+        "date_updated": 1719518039,
+        "date_posted": 1719518039,
+        "url": "https://boards.greenhouse.io/tekion/jobs/6037475003",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tekion",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Marathon Digital Holdings",
+        "id": "bce43dec-11fa-4576-abe3-0a3e642e63c9",
+        "title": "Field Application Engineer I - Fae I",
+        "active": true,
+        "date_updated": 1719517932,
+        "date_posted": 1719517932,
+        "url": "https://boards.greenhouse.io/marathondigitalholdings/jobs/4435411005",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Marathon-Digital-Holdings",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Tanius Technology",
+        "id": "d465d9fe-d9db-4426-a506-7d03ec8bc8e1",
+        "title": "Junior Trader",
+        "active": true,
+        "date_updated": 1719517863,
+        "date_posted": 1719517863,
+        "url": "https://boards.greenhouse.io/tanius/jobs/7500361002",
+        "locations": [
+            "Danville, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tanius-Tech",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Tanius Technology",
+        "id": "3785a01d-2ebc-4d60-a6ae-689489ae3f20",
+        "title": "Software Developer",
+        "active": true,
+        "date_updated": 1719517854,
+        "date_posted": 1719517854,
+        "url": "https://boards.greenhouse.io/tanius/jobs/4296333002",
+        "locations": [
+            "Danville, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tanius-Tech",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Black Cape",
+        "id": "adaf2643-4cc1-4d7e-871b-06ea3502699b",
+        "title": "Software Engineer - All Levels - Honolulu - HI - Camp Smith",
+        "active": true,
+        "date_updated": 1719517765,
+        "date_posted": 1719517765,
+        "url": "https://boards.greenhouse.io/blackcape/jobs/5996426003",
+        "locations": [
+            "Honolulu, HI"
+        ],
+        "company_url": "https://simplify.jobs/c/Black-Cape",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Dialpad",
+        "id": "5c8ca227-d84b-4f63-8e79-921fe3a684aa",
+        "title": "Multilingual Data Specialist",
+        "active": true,
+        "date_updated": 1719517733,
+        "date_posted": 1719517733,
+        "url": "https://boards.greenhouse.io/dialpad/jobs/7444760002",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Dialpad",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Stride",
+        "id": "8f3eac9a-ba16-4827-b542-a368b42bea50",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1719517725,
+        "date_posted": 1719517725,
+        "url": "https://jobs.ashbyhq.com/stride/c46d4b4f-8aee-4eb5-8c43-c3724ddbf1b7/application",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Stride",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Redhorse",
+        "id": "b8b6bd63-ae29-498d-ba66-d498d648b151",
+        "title": "Full Stack Software Engineer Level I - Active Secret Clearance Required",
+        "active": true,
+        "date_updated": 1719517660,
+        "date_posted": 1719517660,
+        "url": "https://jobs.lever.co/redhorsecorp/3915e397-e0f4-4401-be03-f7fa422ff1a4/apply",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Redhorse",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Mediabrands",
+        "id": "29b414dd-76af-4038-a241-f96b9bb05d66",
+        "title": "Trading Account Executive - Entry-Level",
+        "active": true,
+        "date_updated": 1719517584,
+        "date_posted": 1719517584,
+        "url": "https://boards.greenhouse.io/mediabrands/jobs/4274081007",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Mediabrands",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Bazaarvoice",
+        "id": "d319d813-b108-4e61-a358-bd71c0cde9d8",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1719517492,
+        "date_posted": 1719517492,
+        "url": "https://jobs.lever.co/bazaarvoice/9c090a71-bb9a-436c-acb5-63379f28d827/apply",
+        "locations": [
+            "Belfast, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Bazaarvoice",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Adtheorant",
+        "id": "ce94d54c-86f2-476c-8c87-2da045f4e7e5",
+        "title": "Associate \u2013 Data & Analytics - NYC",
+        "active": true,
+        "date_updated": 1719517456,
+        "date_posted": 1719517456,
+        "url": "https://apply.workable.com/adtheorent-1/j/9525048AFA/apply",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Adtheorant",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Datalab USA",
+        "id": "66cd474c-4abc-46d1-b2f5-115173096e28",
+        "title": "Production Programmer \u2013 Entry Level SQL Developer",
+        "active": true,
+        "date_updated": 1719517247,
+        "date_posted": 1719517247,
+        "url": "https://jobs.lever.co/datalabusa/fc31836c-277f-42f3-b73e-5d63affe8613/apply",
+        "locations": [
+            "Germantown, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Datalab-USA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Celonis",
+        "id": "338e00b9-4da5-4167-8421-00c4b456612e",
+        "title": "Associate Value Engineer",
+        "active": true,
+        "date_updated": 1719517190,
+        "date_posted": 1719517190,
+        "url": "https://boards.greenhouse.io/celonis/jobs/5970093003",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Celonis",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "AccuWeather",
+        "id": "bf34cb5a-9b3f-4dc9-a5bc-723aba98f49d",
+        "title": "Software Developer I",
+        "active": true,
+        "date_updated": 1719517142,
+        "date_posted": 1719517142,
+        "url": "https://boards.greenhouse.io/accuweather/jobs/6008442",
+        "locations": [
+            "State College, PA",
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/AccuWeather",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Coalition",
+        "id": "ecc86fe5-90fb-4b66-bf06-25447eb1b542",
+        "title": "Software Engineer - Underwriting",
+        "active": true,
+        "date_updated": 1719517112,
+        "date_posted": 1719517112,
+        "url": "https://careers.coalitioninc.com/job-posting/?gh_jid=4416819005",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Coalition",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Simbe Robotics",
+        "id": "34fff1ef-47f9-4868-a221-8d6760db4525",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1719516810,
+        "date_posted": 1719516810,
+        "url": "https://jobs.lever.co/SimbeRobotics/4fd4a198-6f53-4b75-8179-7e3b6ad89b78/apply",
+        "locations": [
+            "San Bruno, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/SimbeRobotics",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Welocalize",
+        "id": "3faec6fa-7780-4227-b4b0-0da71a0ac3fa",
+        "title": "Scout Search Quality Rater - Spanish - USA",
+        "active": true,
+        "date_updated": 1719516998,
+        "date_posted": 1718695634,
+        "url": "https://jobs.lever.co/welocalize/8c5d74a0-775b-420a-bf87-5bc20ba5a48e/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Welocalize",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
