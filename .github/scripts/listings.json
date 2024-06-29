@@ -631,7 +631,7 @@
         "company_name": "Clever",
         "id": "f4fde4d8-d3f6-4ace-8352-940fb35b55fd",
         "title": "General Applications - Software Engineer - All levels",
-        "active": true,
+        "active": false,
         "date_updated": 1718966220,
         "date_posted": 1718966220,
         "url": "https://www.clever.com/about/careers?gh_jid=4641126",
@@ -1064,7 +1064,7 @@
         "company_name": "Diligent Robotics",
         "id": "21048f42-2611-411d-b407-13af2c43dc82",
         "title": "Part Time \u2013 Clinical Robot Associate - Chicago - IL",
-        "active": true,
+        "active": false,
         "date_updated": 1718189535,
         "date_posted": 1718189535,
         "url": "https://boards.greenhouse.io/diligentrobotics/jobs/6021249003",
@@ -2720,7 +2720,7 @@
         "company_name": "Diligent Robotics",
         "id": "1bff44b4-1291-4d0c-a67d-5d1770216034",
         "title": "Part Time \u2013 Clinical Robot Associate - Dallas - TX",
-        "active": true,
+        "active": false,
         "date_updated": 1719588339,
         "date_posted": 1719588339,
         "url": "https://boards.greenhouse.io/diligentrobotics/jobs/6040046003",
@@ -3089,7 +3089,7 @@
         "company_name": "Verra Mobility",
         "id": "f294aec7-a2dc-4f32-ba30-ff4fcf44cc21",
         "title": "Mobile Speed Camera Operator / Processing Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1719519907,
         "date_posted": 1719519907,
         "url": "https://boards.greenhouse.io/verramobility/jobs/4333348006",
@@ -3631,6 +3631,606 @@
             "Waltham, MA"
         ],
         "company_url": "https://simplify.jobs/c/Art-of-Problem-Solving",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Welocalize",
+        "id": "270bd3c1-c941-4f8a-af07-add23d4057ee",
+        "title": "Search Satisfaction Grader - Spanish - US - Language",
+        "active": true,
+        "date_updated": 1719618330,
+        "date_posted": 1719618330,
+        "url": "https://jobs.lever.co/welocalize/3a5bf2be-69fa-4c96-9463-374cfe1ff0e6/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Welocalize",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Welocalize",
+        "id": "27d091d6-7f93-47c6-a652-5c3f74901f0c",
+        "title": "Search Satisfaction Grader - Spanish - Mexico - Language",
+        "active": true,
+        "date_updated": 1719618330,
+        "date_posted": 1719618330,
+        "url": "https://jobs.lever.co/welocalize/89bb3ade-8b88-4a04-8978-879f2e95538e/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Welocalize",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Welocalize",
+        "id": "669e76d4-1e24-4885-a308-26777bacd01d",
+        "title": "Entry-Level AI Data Rater - English US - Philippines",
+        "active": true,
+        "date_updated": 1719618309,
+        "date_posted": 1719618309,
+        "url": "https://jobs.lever.co/welocalize/616b3f01-fc00-4176-9670-8deea192597f/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Welocalize",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cape Analytics",
+        "id": "f43966b0-f0c6-4a12-a4cb-bc9f6dba28b5",
+        "title": "Client Success Analyst",
+        "active": true,
+        "date_updated": 1719618256,
+        "date_posted": 1719618256,
+        "url": "https://jobs.lever.co/capeanalytics/65f54597-4626-4bce-a14a-545854435840/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cape-Analytics",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Drivetrain",
+        "id": "c9af5cc2-063c-43fe-b4d6-2ef7358bc940",
+        "title": "Frontend Engineer",
+        "active": true,
+        "date_updated": 1719618209,
+        "date_posted": 1719618209,
+        "url": "https://jobs.lever.co/drivetrain/aea22d6c-01c8-4636-8df7-85b0a5696808/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Drivetrain",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Digital.ai",
+        "id": "8995be78-da9f-4c65-a3cb-349a91557056",
+        "title": "Software Engineer - Grade I",
+        "active": true,
+        "date_updated": 1719618136,
+        "date_posted": 1719618136,
+        "url": "https://digital.ai/current-job-openings?gh_jid=5996437003",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/DigitalAI",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Zeta",
+        "id": "f6ac81f6-fb55-49ab-af0c-f30d4076a9d8",
+        "title": "Software Development Engineer I - Fullstack",
+        "active": true,
+        "date_updated": 1719618120,
+        "date_posted": 1719618120,
+        "url": "https://jobs.lever.co/zeta/37c30f60-c740-4a23-8fea-2448cfec0a38/apply",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Zeta",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Databricks",
+        "id": "0271b62f-bc41-40a1-9839-d856febc3388",
+        "title": "Customer Data & Cloud Engineer - Growth",
+        "active": true,
+        "date_updated": 1719618063,
+        "date_posted": 1719618063,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=6849263002",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Databricks",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Genius Sports",
+        "id": "74584b1a-42e9-4acb-9cd5-38c7a563d960",
+        "title": "Sports Statistician - Worldwide",
+        "active": true,
+        "date_updated": 1719617815,
+        "date_posted": 1719617815,
+        "url": "https://boards.greenhouse.io/geniussports/jobs/4180598003",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Genius-Sports",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Canonical",
+        "id": "47666c08-baec-47ca-9502-76fedd38f84f",
+        "title": "Linux Desktop Support Associate",
+        "active": true,
+        "date_updated": 1719617827,
+        "date_posted": 1719617827,
+        "url": "https://boards.greenhouse.io/canonical/jobs/3362177",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Canonical",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Movable Ink",
+        "id": "28848fef-3c4e-4c9c-8b87-a4203365ec5b",
+        "title": "Front End Developer L1",
+        "active": true,
+        "date_updated": 1719617807,
+        "date_posted": 1719617807,
+        "url": "https://movableink.com/job-listing?gh_jid=6049209",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/MovableInk",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Udacity",
+        "id": "825b8008-dcd1-4b21-a282-bdc8a6765c15",
+        "title": "Korean Speaking Mentors - Independent Contractor - : Self Driving Car Mentor & Project Reviewer",
+        "active": true,
+        "date_updated": 1719617666,
+        "date_posted": 1719617666,
+        "url": "https://boards.greenhouse.io/udacity/jobs/6226962002",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Udacity",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Udacity",
+        "id": "8af2a42c-cd71-4282-845d-86007918ef7c",
+        "title": "Spanish Speaking Mentors - Independent Contractor - Data Analytics - Programming for Data Science",
+        "active": true,
+        "date_updated": 1719617670,
+        "date_posted": 1719617670,
+        "url": "https://boards.greenhouse.io/udacity/jobs/5226693002",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Udacity",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Udacity",
+        "id": "46c917d8-6319-4ca1-a48c-480e737d0a7b",
+        "title": "Korean Speaking Mentors - Independent Contractor - : Marketing Analytics Mentor & Project Reviewer",
+        "active": true,
+        "date_updated": 1719617668,
+        "date_posted": 1719617668,
+        "url": "https://boards.greenhouse.io/udacity/jobs/6660647002",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Udacity",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Udacity",
+        "id": "7cb0bd8c-36f8-400c-8fa6-f3903622786e",
+        "title": "Korean Speaking Mentors - Independent Contractor - : Product Manager Mentor & Project Reviewer",
+        "active": true,
+        "date_updated": 1719617666,
+        "date_posted": 1719617666,
+        "url": "https://boards.greenhouse.io/udacity/jobs/6899976002",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Udacity",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Udacity",
+        "id": "17bf7378-c636-4ff0-b210-7f9891cb37ff",
+        "title": "Korean Speaking Mentors - Independent Contractor - : Digital Marketing Mentor & Project Reviewer",
+        "active": true,
+        "date_updated": 1719617666,
+        "date_posted": 1719617666,
+        "url": "https://boards.greenhouse.io/udacity/jobs/6513205002",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Udacity",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Udacity",
+        "id": "8df90708-bb86-4bda-b294-cba88c6c26c4",
+        "title": "Korean Speaking Mentors - Independent Contractor - : Deep Learning Mentor & Project Reviewer",
+        "active": true,
+        "date_updated": 1719617665,
+        "date_posted": 1719617665,
+        "url": "https://boards.greenhouse.io/udacity/jobs/6418843002",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Udacity",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Udacity",
+        "id": "d2fececf-fae9-4efa-8c5c-893797a14c8d",
+        "title": "Korean Speaking Mentors - Independent Contractor - : C++ Mentor & Project Reviewer",
+        "active": true,
+        "date_updated": 1719617665,
+        "date_posted": 1719617665,
+        "url": "https://boards.greenhouse.io/udacity/jobs/6900075002",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Udacity",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Udacity",
+        "id": "db037924-f452-44f6-865a-9f9e580a1dcd",
+        "title": "Korean Speaking Mentors - Independent Contractor - : Business Analytics Mentor & Project Reviewer",
+        "active": true,
+        "date_updated": 1719617664,
+        "date_posted": 1719617664,
+        "url": "https://boards.greenhouse.io/udacity/jobs/6900057002",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Udacity",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Udacity",
+        "id": "14cf7eaf-f83b-44a8-bccf-6e896fbec355",
+        "title": "German Speaking Mentors - Independent Contractor - : Data Analytics & Visualization Mentor & Project Reviewer",
+        "active": true,
+        "date_updated": 1719617663,
+        "date_posted": 1719617663,
+        "url": "https://boards.greenhouse.io/udacity/jobs/6837289002",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Udacity",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Udacity",
+        "id": "661b867e-9320-4776-9497-7b6e5b53a309",
+        "title": "Korean Speaking Mentors - Independent Contractor - : Intro to Machine Learning w/ Pytorch Mentor & Project Reviewer",
+        "active": true,
+        "date_updated": 1719617666,
+        "date_posted": 1719617666,
+        "url": "https://boards.greenhouse.io/udacity/jobs/6418935002",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Udacity",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Axios",
+        "id": "a3dad451-a0c4-447c-b79c-691b756e5cf2",
+        "title": "Data Analyst I",
+        "active": true,
+        "date_updated": 1719617685,
+        "date_posted": 1719617685,
+        "url": "https://boards.greenhouse.io/axios/jobs/5904760",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Axios",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Udacity",
+        "id": "a543db6a-bb69-4a11-9d8b-d383ec793579",
+        "title": "Korean Speaking Mentors - Independent Contractor - : Intro to Programming Mentor & Project Reviewer",
+        "active": true,
+        "date_updated": 1719617666,
+        "date_posted": 1719617666,
+        "url": "https://boards.greenhouse.io/udacity/jobs/6900096002",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Udacity",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Udacity",
+        "id": "c4003300-477e-460e-b190-161add1450f2",
+        "title": "Korean Speaking Mentors - Independent Contractor - : AI for Healthcare Mentor & Project Reviewer",
+        "active": true,
+        "date_updated": 1719617665,
+        "date_posted": 1719617665,
+        "url": "https://boards.greenhouse.io/udacity/jobs/6722006002",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Udacity",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Optiver",
+        "id": "e8e9aef3-8d3b-4bf7-a253-0f90da0386a3",
+        "title": "Campus: Quantitative Trader - 2024 Start - Chicago",
+        "active": true,
+        "date_updated": 1719617641,
+        "date_posted": 1719617641,
+        "url": "https://boards.greenhouse.io/optiverinternreferralc4/jobs/6782278002",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Optiver",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Insider",
+        "id": "3067c2f0-46bd-498e-b0d5-22383913b7d7",
+        "title": "Software Developer - Insider Testinium Tech Hub - Remote",
+        "active": true,
+        "date_updated": 1719617488,
+        "date_posted": 1719617488,
+        "url": "https://jobs.lever.co/useinsider/2daee7a0-a781-4f78-a812-d8d5835cccee/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Insider",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Emsi",
+        "id": "7e4f91ca-2f7e-40fd-a9c4-f57409ea2ec5",
+        "title": "Data Aggregation & Curation Associate",
+        "active": true,
+        "date_updated": 1719617498,
+        "date_posted": 1719617498,
+        "url": "https://jobs.lever.co/economicmodeling/114e0b8f-14ee-4db7-8fd7-92b3f20ccf5f/apply",
+        "locations": [
+            "Cambridge, MA",
+            "Moscow, ID",
+            "United Kingdom"
+        ],
+        "company_url": "https://simplify.jobs/c/Emsi",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "HoYoverse",
+        "id": "1f269ec3-b9d2-4a1f-95a9-8a60a1940cce",
+        "title": "Data Analyst \u2013 Fresh Grad",
+        "active": true,
+        "date_updated": 1719617305,
+        "date_posted": 1719617305,
+        "url": "https://boards.greenhouse.io/hoyoverse/jobs/4271720007",
+        "locations": [
+            "Montreal, QC, Canada",
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Ho-Yoverse",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "HoYoverse",
+        "id": "37bf266d-7f6a-4d44-ba4e-907cc5d5ddee",
+        "title": "Game Server Developer \u2013 Fresh Grad",
+        "active": true,
+        "date_updated": 1719617313,
+        "date_posted": 1719617313,
+        "url": "https://boards.greenhouse.io/hoyoverse/jobs/4261501007",
+        "locations": [
+            "Montreal, QC, Canada",
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Ho-Yoverse",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "HoYoverse",
+        "id": "f81ee8e7-1de1-4735-9670-2cfd8ee6a53a",
+        "title": "Data Analyst \u2013 Fresh Grad - Globalization",
+        "active": true,
+        "date_updated": 1719617305,
+        "date_posted": 1719617305,
+        "url": "https://boards.greenhouse.io/hoyoverse/jobs/4271721007",
+        "locations": [
+            "Montreal, QC, Canada",
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Ho-Yoverse",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Vail Systems",
+        "id": "a2eafbe1-b4eb-4172-97ad-050a51d2a225",
+        "title": "Software Engineer - Ivr",
+        "active": true,
+        "date_updated": 1719616996,
+        "date_posted": 1719616996,
+        "url": "https://jobs.lever.co/vailsys/c2775699-21d7-466b-9eff-1c619efda71b/apply",
+        "locations": [
+            "Chicago, IL",
+            "Highland Park, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Vail-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Meridian Link",
+        "id": "bc64d1f7-04b6-48dc-ae7b-6747f6ef89b2",
+        "title": "Associate Software Instructional Designer",
+        "active": true,
+        "date_updated": 1719616712,
+        "date_posted": 1719616712,
+        "url": "https://jobs.lever.co/meridianlink/36dbad89-2ef1-4a7f-b73c-1964c6a23776/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Meridian-Link",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Blanc Labs",
+        "id": "655d6881-952a-4297-896b-893603d74e19",
+        "title": "Join Blanc Labs' Digital Academy Program",
+        "active": true,
+        "date_updated": 1719616690,
+        "date_posted": 1719616690,
+        "url": "https://jobs.lever.co/blanc-labs/b6971ff4-8c2b-47c7-b080-ff4c7ac28e63/apply",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Blanc-Labs",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Singularity 6",
+        "id": "844bbb7d-0364-4317-94e2-449bf2d04895",
+        "title": "Data Application Drop Box",
+        "active": true,
+        "date_updated": 1719616038,
+        "date_posted": 1719616038,
+        "url": "https://www.singularity6.com/careers?gh_jid=4930918004",
+        "locations": [
+            "LA",
+            "Irvine, CA",
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Singularity6",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Alchemy",
+        "id": "e466e004-6e57-4d38-bb66-1367f180c6d9",
+        "title": "Alchemy Analyst - Technical Writer - Part or Full Time",
+        "active": true,
+        "date_updated": 1719615931,
+        "date_posted": 1719615931,
+        "url": "https://boards.greenhouse.io/alchemy/jobs/4282639005",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Alchemy",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Level AI",
+        "id": "82618d55-27e8-4e2e-b289-8bb7c8f16b00",
+        "title": "AI Analyst - Delhi - India",
+        "active": true,
+        "date_updated": 1719615428,
+        "date_posted": 1719615428,
+        "url": "https://jobs.lever.co/levelai/e96adb66-218d-46f6-988f-f353bed10830/apply",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Level-AI",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cohere",
+        "id": "2393fef0-ef4f-4575-90b7-87cd5ed1652d",
+        "title": "Data Annotator - Science",
+        "active": true,
+        "date_updated": 1719617135,
+        "date_posted": 1719519150,
+        "url": "https://jobs.lever.co/cohere/2fede710-d8ff-4ccc-af70-094877e7cc58/apply",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Cohere",
         "is_visible": true,
         "sponsorship": "Other"
     }
