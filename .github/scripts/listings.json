@@ -2190,7 +2190,7 @@
         "company_name": "Constellation Technologies",
         "id": "e09a262f-c708-4963-9ed8-4fb4290ae699",
         "title": "Software Engineers - Multiple levels",
-        "active": true,
+        "active": false,
         "date_updated": 1713851901,
         "date_posted": 1713754602,
         "url": "https://jobs.lever.co/cti-md/20865fbe-739c-4204-b7b0-c8dab3485d56/apply",
@@ -2479,7 +2479,7 @@
         "company_name": "Tanius Technology",
         "id": "d465d9fe-d9db-4426-a506-7d03ec8bc8e1",
         "title": "Junior Trader",
-        "active": false,
+        "active": true,
         "date_updated": 1719517863,
         "date_posted": 1719517863,
         "url": "https://boards.greenhouse.io/tanius/jobs/7500361002",
@@ -4231,6 +4231,182 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Cohere",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Palantir",
+        "id": "ebf96118-757e-4330-8907-6871eeb1650f",
+        "title": "Software Engineer \u2013 New Grad - US Government",
+        "active": true,
+        "date_updated": 1719847228,
+        "date_posted": 1719847228,
+        "url": "https://jobs.lever.co/palantir/a771a3d8-a99f-4df1-b250-a9a30c6dd070/apply",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Palantir",
+        "id": "4be7508b-9fac-4d68-b61a-d0ea108bdbfb",
+        "title": "Software Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1719847227,
+        "date_posted": 1719847227,
+        "url": "https://jobs.lever.co/palantir/293d3ca4-0908-4ff7-87d6-c1adc066e527/apply",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Palantir",
+        "id": "e94f5b72-1ca3-4376-8098-a07eacf2d7e1",
+        "title": "Software Engineer \u2013 New Grad - US Government",
+        "active": true,
+        "date_updated": 1719847227,
+        "date_posted": 1719847227,
+        "url": "https://jobs.lever.co/palantir/19d5e5f8-37a6-4a6f-b2ca-423370b3a1c2/apply",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Palantir",
+        "id": "0a14e404-4828-4af4-bb63-2fb23a5a061f",
+        "title": "Software Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1719847226,
+        "date_posted": 1719847226,
+        "url": "https://jobs.lever.co/palantir/94984771-0704-446c-88c6-91ce748f6d92/apply",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Palantir",
+        "id": "395bbd57-d183-4045-a5a9-d66137760142",
+        "title": "Software Engineer \u2013 New Grad - US Government",
+        "active": true,
+        "date_updated": 1719847226,
+        "date_posted": 1719847226,
+        "url": "https://jobs.lever.co/palantir/000b1a24-4b0f-436f-a6da-9a920e259925/apply",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Palantir",
+        "id": "f6f83b45-cf4c-4a3e-8f32-4c64672610a1",
+        "title": "Forward Deployed Software Engineer \u2013 New Grad - US Government",
+        "active": true,
+        "date_updated": 1719861792,
+        "date_posted": 1719847211,
+        "url": "https://jobs.lever.co/palantir/cbe90327-3e6e-451c-a54c-1d3cbcef5aeb/apply",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Palantir",
+        "id": "1f6bee99-9cca-467c-a0b3-899d61139a03",
+        "title": "Forward Deployed Software Engineer \u2013 New Grad - US Government",
+        "active": true,
+        "date_updated": 1719847210,
+        "date_posted": 1719847210,
+        "url": "https://jobs.lever.co/palantir/d1ac83d0-e923-42a5-8e6d-58dd0cab25ca/apply",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Palantir",
+        "id": "629d4b11-0984-442c-b615-51b48771615b",
+        "title": "Forward Deployed Software Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1719847206,
+        "date_posted": 1719847206,
+        "url": "https://jobs.lever.co/palantir/8dcdb586-46ae-4f94-9d05-7f1989400049/apply",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Akuna Capital",
+        "id": "8c2c422f-682a-4e33-98ee-3a969594ebe4",
+        "title": "Akuna Capital\u2019s 2024 Virtual Quant Trading Challenge",
+        "active": true,
+        "date_updated": 1719860685,
+        "date_posted": 1719846633,
+        "url": "https://www.akunacapital.com/job-details?gh_jid=5652055",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Akuna-Capital",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Tanius Technology",
+        "id": "d049153b-242b-412f-b65d-dfdfdcb625b3",
+        "title": "Junior Trader",
+        "active": true,
+        "date_updated": 1719517863,
+        "date_posted": 1719517863,
+        "url": "https://boards.greenhouse.io/tanius/jobs/7501035002",
+        "locations": [
+            "Danville, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tanius-Tech",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Addepar",
+        "id": "7689a5e9-c7b8-435c-880c-9cac126b9a31",
+        "title": "Full-Stack Software Engineer - Billing",
+        "active": true,
+        "date_updated": 1719861447,
+        "date_posted": 1718696434,
+        "url": "https://boards.greenhouse.io/addepar1/jobs/7285744002",
+        "locations": [
+            "Edinburgh, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Addepar",
         "is_visible": true,
         "sponsorship": "Other"
     }
