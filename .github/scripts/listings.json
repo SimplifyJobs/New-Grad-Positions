@@ -245,7 +245,7 @@
         "company_name": "Splunk",
         "id": "31bd40d2-03e5-4df7-bbcd-30c44e91ba9e",
         "title": "Software Engineer - Early in Career - Frontend",
-        "active": false,
+        "active": true,
         "date_updated": 1716938695,
         "date_posted": 1716938695,
         "url": "https://jobs.jobvite.com/splunk-careers/job/on3Csfwe?nl=1&nl=1&fr=false",
@@ -615,7 +615,7 @@
         "company_name": "Mediabrands",
         "id": "a8cbf680-7187-425d-8949-0cbb2d517137",
         "title": "Associate \u2013 Programmatic",
-        "active": true,
+        "active": false,
         "date_updated": 1719011365,
         "date_posted": 1719011365,
         "url": "https://boards.greenhouse.io/mediabrands/jobs/4365650007",
@@ -727,7 +727,7 @@
         "company_name": "Welocalize",
         "id": "350cfdb9-8982-41e4-8e05-f3f740c15a6e",
         "title": "Scout Search Quality Rater - English - UK",
-        "active": true,
+        "active": false,
         "date_updated": 1718724477,
         "date_posted": 1718724477,
         "url": "https://jobs.lever.co/welocalize/70522b25-5543-4fa1-a511-158e27a64386/apply",
@@ -839,7 +839,7 @@
         "company_name": "Art of Problem Solving",
         "id": "b2b05a8b-fe55-4742-acb7-045df50290f5",
         "title": "Math Instructor",
-        "active": true,
+        "active": false,
         "date_updated": 1718694979,
         "date_posted": 1718694979,
         "url": "https://artofproblemsolving.com/careers/job/5971928003?gh_jid=5971928003",
@@ -2704,7 +2704,7 @@
         "company_name": "Welocalize",
         "id": "3faec6fa-7780-4227-b4b0-0da71a0ac3fa",
         "title": "Scout Search Quality Rater - Spanish - USA",
-        "active": true,
+        "active": false,
         "date_updated": 1719516998,
         "date_posted": 1718695634,
         "url": "https://jobs.lever.co/welocalize/8c5d74a0-775b-420a-bf87-5bc20ba5a48e/apply",
@@ -3121,7 +3121,7 @@
         "company_name": "Corelight",
         "id": "6738201a-8e90-4d10-8703-ee25ef392440",
         "title": "Software Development in Test - Sdet",
-        "active": true,
+        "active": false,
         "date_updated": 1719519737,
         "date_posted": 1719519737,
         "url": "https://boards.greenhouse.io/corelight/jobs/5945271",
@@ -3313,7 +3313,7 @@
         "company_name": "Triumvirate Environmental",
         "id": "dc1daac7-4822-4d69-a20c-2a779ea9ba29",
         "title": "Technical Services Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1719519374,
         "date_posted": 1719519374,
         "url": "https://boards.greenhouse.io/triumvirateenvironmental/jobs/4365510006",
@@ -3623,7 +3623,7 @@
         "company_name": "Art of Problem Solving",
         "id": "b457c4dc-4314-4704-9f50-961832ef52cf",
         "title": "Math Instructor",
-        "active": true,
+        "active": false,
         "date_updated": 1719518396,
         "date_posted": 1719518396,
         "url": "https://artofproblemsolving.com/careers/job/5952748003?gh_jid=5952748003",
@@ -4433,6 +4433,102 @@
             "Burlington, MA"
         ],
         "company_url": "https://simplify.jobs/c/Salesforce",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Triumvirate Environmental",
+        "id": "fce85f94-cb7d-436e-bc2f-f89af295616e",
+        "title": "Technical Services Associate",
+        "active": true,
+        "date_updated": 1720019859,
+        "date_posted": 1720019859,
+        "url": "https://boards.greenhouse.io/triumvirateenvironmental/jobs/4382923006",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Triumvirate-Environmental",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "CesiumAstro",
+        "id": "bab4e6a8-aada-4e99-9e7d-90684e671710",
+        "title": "Embedded Software Engineer I",
+        "active": true,
+        "date_updated": 1719962162,
+        "date_posted": 1719962162,
+        "url": "https://jobs.lever.co/CesiumAstro/a7adad7c-bcf8-4431-b04a-91c7ce005b07/apply",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/CesiumAstro",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Veeva Systems",
+        "id": "0ed8b19a-cee7-4d7f-9b54-1c3863536432",
+        "title": "Associate Software Engineer \u2013 Seeking 2024 Grads",
+        "active": true,
+        "date_updated": 1719961909,
+        "date_posted": 1719961909,
+        "url": "https://jobs.lever.co/veeva/689b64ea-1518-483e-9c47-b41fd72fdcfa/apply",
+        "locations": [
+            "Pleasanton, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Veeva-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Workrise",
+        "id": "96cfaafe-5617-402c-928d-2c58f034b12f",
+        "title": "Associate \u2013 Health Safety & Environmental",
+        "active": true,
+        "date_updated": 1720033425,
+        "date_posted": 1719520307,
+        "url": "https://boards.greenhouse.io/workrise/jobs/6021743003",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Workrise",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Sourcegraph",
+        "id": "e22655d2-f248-4bc6-af2d-f18003895b6a",
+        "title": "Software Engineer - Cloud Ops - Ic3",
+        "active": true,
+        "date_updated": 1719970016,
+        "date_posted": 1719520035,
+        "url": "https://boards.greenhouse.io/sourcegraph91/jobs/5201427004",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Sourcegraph",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Ascend Analytics",
+        "id": "6ffcf3d4-b6fd-43ff-b2fd-a9c8ab4eac57",
+        "title": "Energy Analyst - General Interest",
+        "active": true,
+        "date_updated": 1720034480,
+        "date_posted": 1718965188,
+        "url": "https://boards.greenhouse.io/ascendanalytics/jobs/4384286005",
+        "locations": [
+            "Boulder, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/AscendAnalytics",
         "is_visible": true,
         "sponsorship": "Other"
     }
