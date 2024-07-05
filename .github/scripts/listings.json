@@ -4606,5 +4606,22 @@
         "date_posted": 1720217188,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1720217203,
+        "url": "https://www.citadelsecurities.com/careers/details/software-engineer-2025-university-graduate-us-2/",
+        "company_name": "Citadel Securities",
+        "title": "Software Engineer \u2013 2025 University Graduate (US)",
+        "locations": [
+            "Miami, FL",
+            "New York, NY"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "DhyeyMavani2003",
+        "id": "99ca086f-7daf-46aa-939b-f5c2db9a24d4",
+        "date_posted": 1720217203,
+        "company_url": "",
+        "is_visible": true
     }
 ]
