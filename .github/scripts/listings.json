@@ -2768,7 +2768,7 @@
         "company_name": "Jerry",
         "id": "362e07b3-ade0-4a3d-9b1d-ba6823c22c07",
         "title": "Software Engineer I - Toronto",
-        "active": true,
+        "active": false,
         "date_updated": 1719587612,
         "date_posted": 1719587612,
         "url": "https://jobs.ashbyhq.com/Jerry/a9c7c0d9-4524-4b05-900e-e6d26ddf8e0d/application",
@@ -4473,7 +4473,7 @@
         "company_name": "Veeva Systems",
         "id": "0ed8b19a-cee7-4d7f-9b54-1c3863536432",
         "title": "Associate Software Engineer \u2013 Seeking 2024 Grads",
-        "active": true,
+        "active": false,
         "date_updated": 1719961909,
         "date_posted": 1719961909,
         "url": "https://jobs.lever.co/veeva/689b64ea-1518-483e-9c47-b41fd72fdcfa/apply",
@@ -4561,6 +4561,22 @@
             "El Segundo, CA"
         ],
         "company_url": "https://simplify.jobs/c/Internet-Brands",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Jerry",
+        "id": "fb72e240-9bf3-41f5-b801-a42abe9200aa",
+        "title": "Software Engineer I - Toronto",
+        "active": true,
+        "date_updated": 1720192298,
+        "date_posted": 1720192298,
+        "url": "https://jobs.ashbyhq.com/Jerry/288e3c48-5428-4397-90c9-5448ab57cc27/application",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
         "is_visible": true,
         "sponsorship": "Other"
     }
