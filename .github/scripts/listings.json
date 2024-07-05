@@ -4579,5 +4579,32 @@
         "company_url": "https://simplify.jobs/c/Jerry",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1720217188,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210527372",
+        "company_name": "JPMorgan Chase",
+        "title": "2025 Software Engineer Program",
+        "locations": [
+            "Atlanta, GA",
+            "Austin, TX",
+            "Chicago, IL",
+            "Columbus, OH",
+            "Houston, TX",
+            "Jersey City, NJ",
+            "New York, NY",
+            "Palo Alto, CA",
+            "Plano, TX",
+            "Seattle, WA",
+            "Tampa, FL",
+            "Wilmington, DE"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "hsoper",
+        "id": "5b4e70ab-73e3-48d5-9731-fbcc9c989e57",
+        "date_posted": 1720217188,
+        "company_url": "",
+        "is_visible": true
     }
 ]
