@@ -277,7 +277,7 @@
         "company_name": "OpenEye",
         "id": "cb967210-0559-431e-96f3-777fc41e21b7",
         "title": "Software Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1717196923,
         "date_posted": 1717196923,
         "url": "https://boards.greenhouse.io/openeye/jobs/7460213002",
@@ -4623,5 +4623,21 @@
         "date_posted": 1720217203,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Regrello",
+        "id": "66043d79-b1e1-42b7-a522-d0ddf82abe52",
+        "title": "Software Engineer - Backend - Forms Engine",
+        "active": true,
+        "date_updated": 1720220836,
+        "date_posted": 1720220836,
+        "url": "https://jobs.lever.co/regrello/466cc193-dc1e-49e0-86e4-8fd4b9b74d6f/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Regrello",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
