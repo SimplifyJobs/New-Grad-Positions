@@ -920,7 +920,7 @@
         "company_name": "Flashpoint",
         "id": "301eeae6-5b80-45a4-835f-bc98589abcda",
         "title": "Analyst I \u2013 Ttm",
-        "active": true,
+        "active": false,
         "date_updated": 1718690594,
         "date_posted": 1718690594,
         "url": "https://boards.greenhouse.io/flashpoint/jobs/7484820002",
@@ -1449,7 +1449,7 @@
         "company_name": "Red Six Aerospace",
         "id": "eff46996-720b-49b1-ad7c-ba22996178be",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1715210878,
         "date_posted": 1715210878,
         "url": "http://red6ar.com/jobs?gh_jid=5175700004",
@@ -3137,7 +3137,7 @@
         "company_name": "Axios",
         "id": "84e9f6c6-7d7a-4a32-8ac2-531ef3eb21e2",
         "title": "Data Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1719519690,
         "date_posted": 1719519690,
         "url": "https://boards.greenhouse.io/axios/jobs/6060108",
@@ -3153,7 +3153,7 @@
         "company_name": "Search Discovery",
         "id": "c053df05-9f81-4b9e-b746-875fce5cd50c",
         "title": "Digital Analyst I",
-        "active": true,
+        "active": false,
         "date_updated": 1719519662,
         "date_posted": 1719519662,
         "url": "https://boards.greenhouse.io/searchdiscovery/jobs/6034684",
@@ -4553,7 +4553,7 @@
         "company_name": "Internet Brands",
         "id": "fb919022-d55e-4303-aecf-bce5b13b1610",
         "title": "Data Analyst Job ID 2024",
-        "active": true,
+        "active": false,
         "date_updated": 1720048310,
         "date_posted": 1720048310,
         "url": "https://jobs.jobvite.com/internetbrands/job/oYIZtfwS?nl=1&nl=1&fr=false",
@@ -4637,6 +4637,22 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Regrello",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Civis Analytics",
+        "id": "1a8bfe10-b7a7-453e-b3aa-13922eeaa2b8",
+        "title": "Applied Data Scientist I - Contract",
+        "active": true,
+        "date_updated": 1720452226,
+        "date_posted": 1720452226,
+        "url": "https://boards.greenhouse.io/civisanalytics/jobs/6098079",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Civis-Analytics",
         "is_visible": true,
         "sponsorship": "Other"
     }
