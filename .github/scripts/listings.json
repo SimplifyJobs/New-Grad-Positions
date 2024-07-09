@@ -4672,5 +4672,22 @@
         "date_posted": 1720489300,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1720489342,
+        "url": "https://optiver.com/working-at-optiver/career-opportunities/7498618002/",
+        "company_name": "Optiver",
+        "title": "Graduate Software Engineer",
+        "locations": [
+            "Austin, TX",
+            "Chicago, IL"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "angelz913",
+        "id": "e4c5fe5b-c340-436b-901a-4be8d2936111",
+        "date_posted": 1720489342,
+        "company_url": "",
+        "is_visible": true
     }
 ]
