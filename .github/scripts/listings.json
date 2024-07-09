@@ -4788,5 +4788,21 @@
         "company_url": "https://simplify.jobs/c/Welocalize",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1720558816,
+        "url": "https://www.oldmissioncapital.com/careers/?gh_jid=6009326003",
+        "company_name": "Old Mission Capital",
+        "title": "Junior Software Engineer",
+        "locations": [
+            "Chicago, IL, USA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "Bryce-MW",
+        "id": "6bdad19f-0137-499b-b6d3-63c795d6cd6e",
+        "date_posted": 1720558816,
+        "company_url": "",
+        "is_visible": true
     }
 ]
