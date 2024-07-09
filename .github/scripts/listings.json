@@ -4804,5 +4804,21 @@
         "date_posted": 1720558816,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1720558834,
+        "url": "https://careers.sig.com/job/8423/Network-Engineer-New-Grad",
+        "company_name": "SIG",
+        "title": "Network Engineer",
+        "locations": [
+            "Bala Cynwyd (Philadelphia Area), Pennsylvania"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "zhiyi-zoe",
+        "id": "04afaec1-ac68-4fcf-834b-7b4fb2025d7e",
+        "date_posted": 1720558834,
+        "company_url": "",
+        "is_visible": true
     }
 ]
