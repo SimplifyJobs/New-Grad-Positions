@@ -62,6 +62,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Nium** | Backend Engineer - Sde I | San Francisco, CA | <a href="https://simplify.jobs/p/ba2a7f99-4dc4-487e-8c4f-8f6a9b61fce7/Backend-Engineer-Sde-I?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 09 |
 | **SIG** | Network Engineer | Bala Cynwyd (Philadelphia Area), Pennsylvania | <a href="https://careers.sig.com/job/8423/Network-Engineer-New-Grad?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 09 |
 | **Old Mission Capital** | Junior Software Engineer | Chicago, IL, USA | <a href="https://www.oldmissioncapital.com/careers/?gh_jid=6009326003&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 09 |
 | **Optiver** | Graduate Software Engineer | Austin, TX</br>Chicago, IL | <a href="https://optiver.com/working-at-optiver/career-opportunities/7498618002/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 09 |

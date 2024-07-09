@@ -4820,5 +4820,21 @@
         "date_posted": 1720558834,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1720558860,
+        "url": "https://simplify.jobs/p/ba2a7f99-4dc4-487e-8c4f-8f6a9b61fce7/Backend-Engineer-Sde-I",
+        "company_name": "Nium",
+        "title": "Backend Engineer - Sde I",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "angelz913",
+        "id": "e5052a13-d6b6-4b6e-9519-5d836451523c",
+        "date_posted": 1720558860,
+        "company_url": "",
+        "is_visible": true
     }
 ]
