@@ -551,7 +551,7 @@
         "company_name": "Future Publishing",
         "id": "b96c02e2-b956-4e9e-abe1-0a11bc680517",
         "title": "AI Writer \u2013 Techradar",
-        "active": true,
+        "active": false,
         "date_updated": 1719329394,
         "date_posted": 1719329394,
         "url": "https://apply.workable.com/futureplc/j/A4ED85D19C/apply",
@@ -1673,7 +1673,7 @@
         "company_name": "Citylitics",
         "id": "c47cc53b-0c05-47c0-ab78-1f136f936691",
         "title": "Data Associate - 6 Month Contract",
-        "active": true,
+        "active": false,
         "date_updated": 1714145458,
         "date_posted": 1714145458,
         "url": "https://apply.workable.com/citylitics/j/EBE56A5291/apply",
@@ -1836,7 +1836,7 @@
         "company_name": "IXL Learning",
         "id": "dac8a11e-bd01-49b1-839b-b253f3f79438",
         "title": "Software Engineer \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1717032006,
         "date_posted": 1710976761,
         "url": "https://www.ixl.com/company/jobs?gh_jid=7294926002",
@@ -2399,7 +2399,7 @@
         "company_name": "SoundHound AI",
         "id": "bfbca268-57bc-4cb8-bf33-47960b2ba82d",
         "title": "UPCOMING: AI Service Analyst - Restaurants",
-        "active": true,
+        "active": false,
         "date_updated": 1719356942,
         "date_posted": 1719356942,
         "url": "https://boards.greenhouse.io/soundhoundinc/jobs/7512306002",
@@ -3025,7 +3025,7 @@
         "company_name": "IXL Learning",
         "id": "5608f1d1-cd2f-4c79-902e-c9c4ecc0ec24",
         "title": "Software Engineer \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1719519884,
         "date_posted": 1719519884,
         "url": "https://www.ixl.com/company/jobs?gh_jid=7295051002",
@@ -4441,7 +4441,7 @@
         "company_name": "Triumvirate Environmental",
         "id": "fce85f94-cb7d-436e-bc2f-f89af295616e",
         "title": "Technical Services Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1720019859,
         "date_posted": 1720019859,
         "url": "https://boards.greenhouse.io/triumvirateenvironmental/jobs/4382923006",
@@ -4457,7 +4457,7 @@
         "company_name": "CesiumAstro",
         "id": "bab4e6a8-aada-4e99-9e7d-90684e671710",
         "title": "Embedded Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1719962162,
         "date_posted": 1719962162,
         "url": "https://jobs.lever.co/CesiumAstro/a7adad7c-bcf8-4431-b04a-91c7ce005b07/apply",
@@ -4689,5 +4689,104 @@
         "date_posted": 1720489342,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Vermont Information Processing",
+        "id": "48b3be5d-b068-4357-a76c-66d211d998bd",
+        "title": "Item Catalog Data Specialist",
+        "active": true,
+        "date_updated": 1720538644,
+        "date_posted": 1720538644,
+        "url": "https://boards.greenhouse.io/vipvermontinformationprocessing/jobs/4020854007",
+        "locations": [
+            "Burlington, VT"
+        ],
+        "company_url": "https://simplify.jobs/c/Vermont-Information-Processing",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "HealthJoy",
+        "id": "9ada8f5d-98c1-411b-9efd-e03f362882a6",
+        "title": "Associate Data Scientist",
+        "active": true,
+        "date_updated": 1720538413,
+        "date_posted": 1720538413,
+        "url": "https://boards.greenhouse.io/healthjoy/jobs/7487584002",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/HealthJoy",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Tower Research Capital",
+        "id": "94fb4e14-f70c-4a17-b8e0-d3fca91e7698",
+        "title": "Quantitative Trader - 2025",
+        "active": true,
+        "date_updated": 1720481014,
+        "date_posted": 1720481014,
+        "url": "https://www.tower-research.com/open-positions/?gh_jid=6072033",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Tower-Research-Capital",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Regrello",
+        "id": "0fd5c74a-e2e7-4b03-a2e1-d8a0cc6545dd",
+        "title": "Software Engineer - Frontend - Forms Engine",
+        "active": true,
+        "date_updated": 1720484851,
+        "date_posted": 1720480055,
+        "url": "https://jobs.lever.co/regrello/5d0cccdc-c5a1-44e0-9ff6-b08d586462f1/apply",
+        "locations": [
+            "Seattle, WA",
+            "SF",
+            "Austin, TX",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Regrello",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Granicus",
+        "id": "1a10f1ec-d680-432f-96e9-dd5a934b8f70",
+        "title": "Implementation Associate - Address ID & Validation",
+        "active": true,
+        "date_updated": 1720486387,
+        "date_posted": 1719616214,
+        "url": "https://jobs.lever.co/granicus/e5451632-f0bd-4f16-be0f-9296777eebf4/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Granicus",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Welocalize",
+        "id": "bfbab0eb-f229-4e62-b482-1c626fd3b5fc",
+        "title": "Search Satisfaction Grader - English - US - Language",
+        "active": true,
+        "date_updated": 1720485213,
+        "date_posted": 1719069811,
+        "url": "https://jobs.lever.co/welocalize/6bc91e9d-e58f-4013-b755-c7f188ac196c/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Welocalize",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
