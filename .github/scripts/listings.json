@@ -16154,5 +16154,21 @@
         "date_posted": 1720644826,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1720658501,
+        "url": "https://simplify.jobs/p/7a127c79-30d9-4b06-b17a-b05f4f90476c/Backend-Engineer",
+        "company_name": "Spotify",
+        "title": "Backend Engineer, Personalization",
+        "locations": [
+            "New York"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "angelz913",
+        "id": "0a77f9b6-05f2-488f-ab85-c80c98a2e7c9",
+        "date_posted": 1720658501,
+        "company_url": "",
+        "is_visible": true
     }
 ]
