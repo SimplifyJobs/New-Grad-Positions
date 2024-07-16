@@ -16186,5 +16186,21 @@
         "date_posted": 1721163609,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1721163640,
+        "url": "https://jobs.intel.com/en/job/toronto/fpga-software-engineer/41147/67421896768",
+        "company_name": "Intel",
+        "title": "FPGA Software Engineer",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "angelz913",
+        "id": "4da7771c-6d4c-4f51-9a6d-5c1afc33f807",
+        "date_posted": 1721163640,
+        "company_url": "",
+        "is_visible": true
     }
 ]

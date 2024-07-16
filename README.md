@@ -62,6 +62,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Intel** | FPGA Software Engineer | Toronto, ON, Canada | <a href="https://jobs.intel.com/en/job/toronto/fpga-software-engineer/41147/67421896768?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 16 |
 | **Microsoft** | Software Engineer | Redmond, Washington | <a href="https://jobs.careers.microsoft.com/global/en/job/1736578/Software-Engineer?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 16 |
 | **Spotify** | Backend Engineer, Personalization | New York | <a href="https://simplify.jobs/p/7a127c79-30d9-4b06-b17a-b05f4f90476c/Backend-Engineer?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 11 |
 | **ElectronX** | New Grad: Software Engineer 🛂 | New York, NY</br>Chicago, IL | <a href="https://jobs.ashbyhq.com/electronx/42123d2b-31b3-464c-a0cd-4c7a7e62d672?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 10 |
