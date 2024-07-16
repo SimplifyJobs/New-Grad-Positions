@@ -62,6 +62,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Microsoft** | Software Engineer | Redmond, Washington | <a href="https://jobs.careers.microsoft.com/global/en/job/1736578/Software-Engineer?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 16 |
 | **Spotify** | Backend Engineer, Personalization | New York | <a href="https://simplify.jobs/p/7a127c79-30d9-4b06-b17a-b05f4f90476c/Backend-Engineer?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 11 |
 | **ElectronX** | New Grad: Software Engineer 🛂 | New York, NY</br>Chicago, IL | <a href="https://jobs.ashbyhq.com/electronx/42123d2b-31b3-464c-a0cd-4c7a7e62d672?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 10 |
 | **[Square](https://simplify.jobs/c/Square)** | Junior Software Engineer - Android - Mobile Developer Experience | SF</br>Remote in USA | <a href="https://jobs.smartrecruiters.com/Square/743999999504436?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/101ccbab-64c0-435b-adaf-8c78414d1234?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jul 09 |
