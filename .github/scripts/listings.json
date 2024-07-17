@@ -16202,5 +16202,21 @@
         "date_posted": 1721163640,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1721243648,
+        "url": "https://boards.greenhouse.io/robinhood/jobs/6087178?gh_src=NaN&gh_jid=6087178",
+        "company_name": "Robinhood Careers",
+        "title": "Software Developer",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "angelz913",
+        "id": "27fc2dce-17a1-4deb-9269-daa0e8dc4d91",
+        "date_posted": 1721243648,
+        "company_url": "",
+        "is_visible": true
     }
 ]
