@@ -62,7 +62,8 @@ body:
   - type: dropdown
     id: active
     attributes:
-      label: Is this job posting currently accepting applications?
+      label: Is this job posting currently accepting applications? 
+      description: Mark this as "false" if the job is no longer active.
       multiple: false
       options:
         - "Yes"
@@ -72,8 +73,8 @@ body:
   - type: checkboxes
     id: is_visible
     attributes:
-      label: Remove this job from the list?
-      description: Only check this box if this job is fake, does not fit the theme of the repo, or is offensive.
+      label: Permanently remove this job from the list?
+      description: Only check this box if this job is fake, does not fit the theme of the repo, or is offensive. DO NOT check this box for jobs that are no longer active
       options:
         - label: "Yes, remove this job"
   - type: input
