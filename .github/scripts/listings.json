@@ -16240,5 +16240,23 @@
         "date_posted": 1722119314,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722830775,
+        "url": "https://www.mwam.com/technology-graduate-scheme/",
+        "company_name": "Marshall Wace",
+        "title": "Software Engineer \u2013 New Grad",
+        "locations": [
+            "London",
+            "NYC",
+            "Singapore"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "mwam-hackathon",
+        "id": "ba6d86ea-cd6d-4d0c-bb4a-7248462d46ae",
+        "date_posted": 1722830775,
+        "company_url": "",
+        "is_visible": true
     }
 ]
