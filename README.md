@@ -63,7 +63,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
 | **Marshall Wace** | Software Engineer – New Grad | London</br>NYC</br>Singapore | <a href="https://www.mwam.com/technology-graduate-scheme/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 05 |
-| **Jackson** | Software Developer I | Lansing, MI | <a href="https://jackson.wd1.myworkdayjobs.com/Jackson_Careers/job/Lansing-MI/Software-Developer-I_REQ-02873?src=JB-10088&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 27 |
+| **Jackson** | Software Developer I | Lansing, MI | 🔒 | Jul 27 |
 | **Axle Health** | Software Engineer (New Grad) | Los Angeles, CA | <a href="https://www.ycombinator.com/companies/axle-health/jobs/ommmQqU-software-engineer-new-grad?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 22 |
 | **Robinhood Careers** | Software Developer | Toronto, ON, Canada | <a href="https://boards.greenhouse.io/robinhood/jobs/6087178?gh_src=NaN&gh_jid=6087178&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 17 |
 | **Microsoft** | Software Engineer | Redmond, Washington | <a href="https://jobs.careers.microsoft.com/global/en/job/1736578/Software-Engineer?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 16 |
