@@ -16258,5 +16258,22 @@
         "date_posted": 1722830775,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722830823,
+        "url": "https://careers.confluent.io/jobs/14738286-2025-software-engineer",
+        "company_name": "Confluent",
+        "title": "Software Engineer",
+        "locations": [
+            "Austin, TX",
+            "Remote"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "Aparna-Rajesh",
+        "id": "9b0a722e-f5ac-444a-9789-28a8b41a8563",
+        "date_posted": 1722830823,
+        "company_url": "",
+        "is_visible": true
     }
 ]
