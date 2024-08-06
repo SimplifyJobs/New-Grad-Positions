@@ -16275,5 +16275,21 @@
         "date_posted": 1722830823,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722902527,
+        "url": "https://sentry.io/careers/6145443/",
+        "company_name": "Sentry",
+        "title": "Software Engineer, New Grad (2025)",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "ClamEater14",
+        "id": "2639c4b6-6f70-4651-bc0e-86244459d878",
+        "date_posted": 1722902527,
+        "company_url": "",
+        "is_visible": true
     }
 ]
