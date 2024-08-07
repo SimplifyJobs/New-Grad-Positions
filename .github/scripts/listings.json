@@ -16307,5 +16307,21 @@
         "date_posted": 1723074737,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1723074820,
+        "url": "https://www.konrad.com/careers/job/5893276003?gh_jid=5893276003",
+        "company_name": "Konrad Group",
+        "title": "Software Developer (Entry Level)",
+        "locations": [
+            "Vancouver, BC"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "reddoy",
+        "id": "8855647d-0d39-4566-a4dc-6da006be5052",
+        "date_posted": 1723074820,
+        "company_url": "",
+        "is_visible": true
     }
 ]
