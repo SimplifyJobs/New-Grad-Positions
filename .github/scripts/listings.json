@@ -16291,5 +16291,21 @@
         "date_posted": 1722902527,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1723074737,
+        "url": "https://careers.roblox.com/jobs/6086753",
+        "company_name": "Roblox",
+        "title": "Software Engineer - New Graduate",
+        "locations": [
+            "San Mateo"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "javier30112000",
+        "id": "7a314c39-ba0c-41f2-afd3-8461c1388ca8",
+        "date_posted": 1723074737,
+        "company_url": "",
+        "is_visible": true
     }
 ]
