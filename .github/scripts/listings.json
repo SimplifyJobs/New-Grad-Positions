@@ -16355,5 +16355,21 @@
         "date_posted": 1723583639,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1723583661,
+        "url": "https://jobs.ashbyhq.com/ramp/29663a4b-c457-4a38-bbdf-069f189b20eb",
+        "company_name": "Ramp",
+        "title": "New Grad 2025: Software Engineer - Backend",
+        "locations": [
+            "New York City, New York"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "rohanpurandare",
+        "id": "bbf5da12-dbb2-45da-bcb2-c50068d2aa17",
+        "date_posted": 1723583661,
+        "company_url": "",
+        "is_visible": true
     }
 ]
