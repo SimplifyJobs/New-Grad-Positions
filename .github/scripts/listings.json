@@ -16371,5 +16371,21 @@
         "date_posted": 1723583661,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1723583702,
+        "url": "https://jobs.ashbyhq.com/codeium/cb10c443-7e5b-44ac-8b21-0edd60b22095",
+        "company_name": "Codeium",
+        "title": "Software Engineer (New Grad)",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "jwang1011",
+        "id": "9f1fb861-8544-4e5d-a9f7-ba45aea53da3",
+        "date_posted": 1723583702,
+        "company_url": "",
+        "is_visible": true
     }
 ]
