@@ -141,7 +141,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Visa** | Software Engineer - New College Grad-2024 | Bellevue, WA | 🔒 | May 10 |
 | **Arsiem Corporation** | Software Engineer 1 | Annapolis Junction, MD | 🔒 | May 07 |
 | **Splunk** | Software Engineer - Early in Career - Frontend | Colorado</br>North Carolina | 🔒 | May 06 |
-| **[Zip](https://simplify.jobs/c/Zip)** | Software Engineer – Early Career - Product | SF | <a href="https://boards.greenhouse.io/zip/jobs/4731006004?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/17f1b740-2c6a-4b83-bbe8-8142b619f20e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | May 04 |
 | **Axon** | Embedded Applications Software Engineer I | Seattle, WA | 🔒 | May 04 |
 | **Arsiem Corporation** | Software Engineer 0 | Annapolis Junction, MD | 🔒 | May 03 |
 | **WeRide** | Software Engineer – New Grads 2024 - Planning & Control | San Jose, CA | 🔒 | May 01 |
