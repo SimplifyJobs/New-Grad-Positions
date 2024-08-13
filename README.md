@@ -62,6 +62,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Codeium** | AI Product Engineer (New Grad) | Mountain VIew, CA | <a href="https://jobs.ashbyhq.com/codeium/558657be-5082-4e97-8509-d49f5c25bf5b?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 13 |
 | **[Konrad Group](https://simplify.jobs/c/Konrad-Group)** | Software Developer (Entry Level) | Vancouver, BC | <a href="https://www.konrad.com/careers/job/5893276003?gh_jid=5893276003&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 07 |
 | **Roblox** | Software Engineer - New Graduate | San Mateo | <a href="https://careers.roblox.com/jobs/6086753?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 07 |
 | **Sentry** | Software Engineer, New Grad (2025) 🛂 | Toronto, ON, Canada | <a href="https://sentry.io/careers/6145443/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 06 |

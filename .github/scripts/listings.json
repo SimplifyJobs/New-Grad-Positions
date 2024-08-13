@@ -16323,5 +16323,21 @@
         "date_posted": 1723074820,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1723583608,
+        "url": "https://jobs.ashbyhq.com/codeium/558657be-5082-4e97-8509-d49f5c25bf5b",
+        "company_name": "Codeium",
+        "title": "AI Product Engineer (New Grad)",
+        "locations": [
+            "Mountain VIew, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "jwang1011",
+        "id": "d6364b2a-74b1-4a38-94a4-6580c2b2696a",
+        "date_posted": 1723583608,
+        "company_url": "",
+        "is_visible": true
     }
 ]
