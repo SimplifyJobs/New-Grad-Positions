@@ -278,14 +278,14 @@
         "id": "cb967210-0559-431e-96f3-777fc41e21b7",
         "title": "Software Engineer I",
         "active": true,
-        "date_updated": 1717196923,
+        "date_updated": 1724127913,
         "date_posted": 1717196923,
         "url": "https://boards.greenhouse.io/openeye/jobs/7460213002",
         "locations": [
             "Liberty Lake, WA"
         ],
         "company_url": "https://simplify.jobs/c/OpenEye",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
