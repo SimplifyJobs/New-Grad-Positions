@@ -62,6 +62,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Gecko Robotics** | Forward Deployed Engineer - New Graduate | New York, NY | <a href="https://www.geckorobotics.com/careers?ashby_jid=37a18535-7fd9-4491-a8a0-d567adc30e03#open-positions&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 22 |
 | **Gecko Robotics** | Embedded Software Engineer - New Graduate | Pittsburgh, PA | <a href="https://www.geckorobotics.com/careers?ashby_jid=c161948f-001d-45e4-a340-776cfccc1ff2#open-positions&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 22 |
 | **Gecko Robotics** | Software Engineer - New Graduate | Boston, MA | <a href="https://www.geckorobotics.com/careers?ashby_jid=34464bf6-1c55-4aed-8d08-ac43c7c965d1#open-positions&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 22 |
 | **Codeium** | Software Engineer (New Grad) | Mountain View, CA | <a href="https://jobs.ashbyhq.com/codeium/cb10c443-7e5b-44ac-8b21-0edd60b22095?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 13 |

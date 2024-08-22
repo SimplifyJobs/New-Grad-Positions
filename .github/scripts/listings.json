@@ -16419,5 +16419,21 @@
         "date_posted": 1724287564,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724287582,
+        "url": "https://www.geckorobotics.com/careers?ashby_jid=37a18535-7fd9-4491-a8a0-d567adc30e03#open-positions",
+        "company_name": "Gecko Robotics",
+        "title": "Forward Deployed Engineer - New Graduate",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "jkahn33",
+        "id": "798cdd74-db47-479a-8592-92b9a76046fc",
+        "date_posted": 1724287582,
+        "company_url": "",
+        "is_visible": true
     }
 ]
