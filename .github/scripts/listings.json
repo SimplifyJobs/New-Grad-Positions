@@ -16403,5 +16403,21 @@
         "date_posted": 1724287549,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724287564,
+        "url": "https://www.geckorobotics.com/careers?ashby_jid=c161948f-001d-45e4-a340-776cfccc1ff2#open-positions",
+        "company_name": "Gecko Robotics",
+        "title": "Embedded Software Engineer - New Graduate",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "jkahn33",
+        "id": "e6739fd1-ba21-43a2-85a1-9d3c43cc20b2",
+        "date_posted": 1724287564,
+        "company_url": "",
+        "is_visible": true
     }
 ]
