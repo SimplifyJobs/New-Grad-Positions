@@ -16387,5 +16387,21 @@
         "date_posted": 1723583702,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724287549,
+        "url": "https://www.geckorobotics.com/careers?ashby_jid=34464bf6-1c55-4aed-8d08-ac43c7c965d1#open-positions",
+        "company_name": "Gecko Robotics",
+        "title": "Software Engineer - New Graduate",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "jkahn33",
+        "id": "806f89c9-d6f9-491d-a742-e95d2829692b",
+        "date_posted": 1724287549,
+        "company_url": "",
+        "is_visible": true
     }
 ]
