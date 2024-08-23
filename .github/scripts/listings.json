@@ -16435,5 +16435,21 @@
         "date_posted": 1724287582,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724390764,
+        "url": "https://jobs.careers.microsoft.com/us/en/job/1750679/Software-Engineer",
+        "company_name": "Microsoft",
+        "title": "Software Engineer",
+        "locations": [
+            "Multiple Locations"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "justin-negron",
+        "id": "000fb0d7-21d8-4588-a138-95b22cd2ed62",
+        "date_posted": 1724390764,
+        "company_url": "",
+        "is_visible": true
     }
 ]
