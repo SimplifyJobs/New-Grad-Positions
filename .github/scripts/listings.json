@@ -16531,5 +16531,21 @@
         "date_posted": 1724708566,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724708596,
+        "url": "https://stripe.com/jobs/listing/software-engineer-new-grad/6025906",
+        "company_name": "Stripe",
+        "title": "Software Engineer, New Grad",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "ClamEater14",
+        "id": "757c31a9-2be7-4ca1-a2f0-936fedc9b853",
+        "date_posted": 1724708596,
+        "company_url": "",
+        "is_visible": true
     }
 ]
