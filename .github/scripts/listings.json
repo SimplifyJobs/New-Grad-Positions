@@ -16451,5 +16451,21 @@
         "date_posted": 1724390764,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724644330,
+        "url": "https://job-boards.greenhouse.io/verkada/jobs/4471879007",
+        "company_name": "Verkada",
+        "title": "Android Software Engineer - University Graduate 2025",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "angelz913",
+        "id": "4ce66dd5-f634-4a2d-aaa6-9cc1ee577728",
+        "date_posted": 1724644330,
+        "company_url": "",
+        "is_visible": true
     }
 ]
