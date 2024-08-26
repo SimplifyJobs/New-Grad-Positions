@@ -16515,5 +16515,21 @@
         "date_posted": 1724708535,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724708566,
+        "url": "https://job-boards.greenhouse.io/verkada/jobs/4471635007",
+        "company_name": "Verkada",
+        "title": "Frontend Software Engineer - University Graduate 2025",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "angelz913",
+        "id": "7eba444a-c100-4425-9f3e-08bc3222fa56",
+        "date_posted": 1724708566,
+        "company_url": "",
+        "is_visible": true
     }
 ]

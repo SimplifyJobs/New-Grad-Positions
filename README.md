@@ -62,6 +62,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Verkada** | Frontend Software Engineer - University Graduate 2025 | San Mateo, CA | <a href="https://job-boards.greenhouse.io/verkada/jobs/4471635007?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 26 |
 | **Verkada** | iOS Software Engineer - University Graduate 2025 | San Mateo, CA | <a href="https://job-boards.greenhouse.io/verkada/jobs/4471860007?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 26 |
 | **Verkada** | Security Software Engineer - University Graduate 2025 | San Mateo, CA | <a href="https://job-boards.greenhouse.io/verkada/jobs/4482613007?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 26 |
 | **Verkada** | Backend Software Engineer - University Graduate 2025 | San Mateo, CA | <a href="https://job-boards.greenhouse.io/verkada/jobs/4471600007?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 26 |
