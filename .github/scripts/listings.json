@@ -16483,5 +16483,21 @@
         "date_posted": 1724644343,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724644356,
+        "url": "https://job-boards.greenhouse.io/verkada/jobs/4482613007",
+        "company_name": "Verkada",
+        "title": "Security Software Engineer - University Graduate 2025",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "angelz913",
+        "id": "ae5c3938-1f71-4802-9e79-710d045448da",
+        "date_posted": 1724644356,
+        "company_url": "",
+        "is_visible": true
     }
 ]
