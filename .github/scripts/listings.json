@@ -16499,5 +16499,21 @@
         "date_posted": 1724644356,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724708535,
+        "url": "https://job-boards.greenhouse.io/verkada/jobs/4471860007",
+        "company_name": "Verkada",
+        "title": "iOS Software Engineer - University Graduate 2025",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "angelz913",
+        "id": "bb94f6b9-eb7a-42cc-9f13-fe5cad2c1bb9",
+        "date_posted": 1724708535,
+        "company_url": "",
+        "is_visible": true
     }
 ]
