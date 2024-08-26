@@ -62,6 +62,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Verkada** | Backend Software Engineer - University Graduate 2025 | San Mateo, CA | <a href="https://job-boards.greenhouse.io/verkada/jobs/4471600007?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 26 |
 | **Verkada** | Android Software Engineer - University Graduate 2025 | San Mateo, CA | <a href="https://job-boards.greenhouse.io/verkada/jobs/4471879007?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 26 |
 | **Microsoft** | Software Engineer | Multiple Locations | <a href="https://jobs.careers.microsoft.com/us/en/job/1750679/Software-Engineer?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 23 |
 | **Gecko Robotics** | Forward Deployed Engineer - New Graduate | New York, NY | <a href="https://www.geckorobotics.com/careers?ashby_jid=37a18535-7fd9-4491-a8a0-d567adc30e03#open-positions&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 22 |

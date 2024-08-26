@@ -16467,5 +16467,21 @@
         "date_posted": 1724644330,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724644343,
+        "url": "https://job-boards.greenhouse.io/verkada/jobs/4471600007",
+        "company_name": "Verkada",
+        "title": "Backend Software Engineer - University Graduate 2025",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "angelz913",
+        "id": "104b5c7e-6c62-4bd0-a7ae-f67f7f6da7be",
+        "date_posted": 1724644343,
+        "company_url": "",
+        "is_visible": true
     }
 ]
