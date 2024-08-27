@@ -84,7 +84,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Jackson** | Software Developer I | Lansing, MI | 🔒 | Jul 27 |
 | **Axle Health** | Software Engineer (New Grad) | Los Angeles, CA | <a href="https://www.ycombinator.com/companies/axle-health/jobs/ommmQqU-software-engineer-new-grad?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 22 |
 | **Robinhood Careers** | Software Developer | Toronto, ON, Canada | <a href="https://boards.greenhouse.io/robinhood/jobs/6087178?gh_src=NaN&gh_jid=6087178&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 17 |
-| **Microsoft** | Software Engineer | Redmond, Washington | <a href="https://jobs.careers.microsoft.com/global/en/job/1736578/Software-Engineer?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 16 |
+| **Microsoft** | Software Engineer | Redmond, Washington | 🔒 | Jul 16 |
 | **ElectronX** | New Grad: Software Engineer | New York, NY</br>Chicago, IL | 🔒 | Jul 10 |
 | **Square** | Junior Software Engineer - Android - Mobile Developer Experience | SF</br>Remote in USA | 🔒 | Jul 09 |
 | **Nium** | Backend Engineer - Sde I | San Francisco, CA | <a href="https://simplify.jobs/p/ba2a7f99-4dc4-487e-8c4f-8f6a9b61fce7/Backend-Engineer-Sde-I?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 09 |

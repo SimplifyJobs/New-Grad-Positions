@@ -16162,15 +16162,15 @@
         "is_visible": false
     },
     {
-        "date_updated": 1721163609,
+        "date_updated": 1724783490,
         "url": "https://jobs.careers.microsoft.com/global/en/job/1736578/Software-Engineer",
         "company_name": "Microsoft",
         "title": "Software Engineer",
         "locations": [
             "Redmond, Washington"
         ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "ikatyal2110",
         "id": "87834e42-b9d5-420b-bf4a-e5cf28790f94",
         "date_posted": 1721163609,
