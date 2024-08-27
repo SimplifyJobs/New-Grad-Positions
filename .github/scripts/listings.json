@@ -16129,7 +16129,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1720644826,
+        "date_updated": 1724738319,
         "url": "https://jobs.ashbyhq.com/electronx/42123d2b-31b3-464c-a0cd-4c7a7e62d672",
         "company_name": "ElectronX",
         "title": "New Grad: Software Engineer",
@@ -16137,8 +16137,8 @@
             "New York, NY",
             "Chicago, IL"
         ],
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "siddarthamuppalla",
         "id": "61f32c53-94f7-4299-8f33-c767f5273b77",
         "date_posted": 1720644826,
