@@ -17852,5 +17852,117 @@
         "company_url": "https://simplify.jobs/c/Databricks",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wiley Edge",
+        "id": "4e2587db-6361-4149-9d21-78c486d240f2",
+        "title": "Junior Software Engineer",
+        "active": true,
+        "date_updated": 1725061187,
+        "date_posted": 1725061187,
+        "url": "https://job-boards.greenhouse.io/wileyedgerecruitingportal/jobs/4374540006",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/WileyEdge",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wiley Edge",
+        "id": "03853a07-8236-44ce-bd3f-64a3b0150a1e",
+        "title": "Junior Software Engineer",
+        "active": true,
+        "date_updated": 1725061087,
+        "date_posted": 1725061087,
+        "url": "https://job-boards.greenhouse.io/wileyedgerecruitingportal/jobs/4392249006",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/WileyEdge",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wiley Edge",
+        "id": "878b38f9-b530-44ec-982d-cd6211337fe7",
+        "title": "Mthree \u2013 Junior Software Engineer",
+        "active": true,
+        "date_updated": 1725061087,
+        "date_posted": 1725061087,
+        "url": "https://job-boards.greenhouse.io/wileyedgerecruitingportal/jobs/4374266006",
+        "locations": [
+            "United Kingdom"
+        ],
+        "company_url": "https://simplify.jobs/c/WileyEdge",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wiley Edge",
+        "id": "9de17cca-57cb-4ea4-b73b-f9b65eafa5c3",
+        "title": "Junior Software Engineer",
+        "active": true,
+        "date_updated": 1725061086,
+        "date_posted": 1725061086,
+        "url": "https://job-boards.greenhouse.io/wileyedgerecruitingportal/jobs/4383912006",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/WileyEdge",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wiley Edge",
+        "id": "6e96ebf0-e159-4e9d-beb0-71b35ae0f887",
+        "title": "Junior Software Engineer",
+        "active": true,
+        "date_updated": 1725061086,
+        "date_posted": 1725061086,
+        "url": "https://job-boards.greenhouse.io/wileyedgerecruitingportal/jobs/4391958006",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/WileyEdge",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wiley Edge",
+        "id": "b2f60989-d115-4b9e-a071-5d6540c5313f",
+        "title": "C++ Junior Software Engineer - London Heathrow - UK",
+        "active": true,
+        "date_updated": 1725061080,
+        "date_posted": 1725061080,
+        "url": "https://job-boards.greenhouse.io/wileyedgerecruitingportal/jobs/4375160006",
+        "locations": [
+            "Feltham, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/WileyEdge",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wiley Edge",
+        "id": "a84d8845-f4db-45a6-b93d-dba7b71adbbb",
+        "title": "Junior Data Scientist",
+        "active": true,
+        "date_updated": 1725061085,
+        "date_posted": 1725061085,
+        "url": "https://job-boards.greenhouse.io/wileyedgerecruitingportal/jobs/4313148006",
+        "locations": [
+            "Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/WileyEdge",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
