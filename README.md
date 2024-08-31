@@ -62,6 +62,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **[Zip](https://simplify.jobs/c/Zip)** | Software Engineer – New Grad - 2025 Start | SF | <a href="https://job-boards.greenhouse.io/zip/jobs/5234060004?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/97b03a7e-3d00-428f-8f2a-94ea334e187f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Aug 30 |
 | **Wiley Edge** | Junior Software Engineer | Remote in USA | 🔒 | Aug 30 |
 | **Wiley Edge** | Junior Software Engineer | Vancouver, BC, Canada | 🔒 | Aug 30 |
 | **Wiley Edge** | Mthree – Junior Software Engineer | United Kingdom | 🔒 | Aug 30 |
