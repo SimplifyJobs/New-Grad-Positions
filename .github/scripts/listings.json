@@ -17964,5 +17964,21 @@
         "company_url": "https://simplify.jobs/c/WileyEdge",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Zip",
+        "id": "97b03a7e-3d00-428f-8f2a-94ea334e187f",
+        "title": "Software Engineer \u2013 New Grad - 2025 Start",
+        "active": true,
+        "date_updated": 1725061376,
+        "date_posted": 1725061376,
+        "url": "https://job-boards.greenhouse.io/zip/jobs/5234060004",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Zip",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
