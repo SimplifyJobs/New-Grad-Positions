@@ -18012,5 +18012,23 @@
         "company_url": "https://simplify.jobs/c/Replicant",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "WhatNot",
+        "id": "6478a001-380e-4ea7-aa85-48cec88bfafc",
+        "title": "Software Engineer \u2013 2025 New Grad",
+        "active": true,
+        "date_updated": 1725261085,
+        "date_posted": 1725261085,
+        "url": "https://job-boards.greenhouse.io/whatnot/jobs/5247525004",
+        "locations": [
+            "SF",
+            "LA",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/WhatNot",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
