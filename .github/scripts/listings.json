@@ -16635,7 +16635,7 @@
         "company_name": "esri",
         "id": "4ade0113-0354-476f-9184-43ba557450b8",
         "title": "Python Devops Engineer I - Arcgis Enterprise",
-        "active": true,
+        "active": false,
         "date_updated": 1724948945,
         "date_posted": 1724948945,
         "url": "https://www.esri.com/careers/4498359007?gh_jid=4498359007",
@@ -18061,6 +18061,22 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Datadog",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "ZipRecruiter",
+        "id": "ec8cddda-da0c-4e6c-be99-8c8ac79a925c",
+        "title": "Software Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1725391341,
+        "date_posted": 1725391341,
+        "url": "https://job-boards.greenhouse.io/ziprecruiter/jobs/6165341",
+        "locations": [
+            "Santa Monica, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ZipRecruiter",
         "is_visible": true,
         "sponsorship": "Other"
     }
