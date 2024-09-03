@@ -18095,5 +18095,21 @@
         "company_url": "https://simplify.jobs/c/RVO-Health",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "OKX ",
+        "id": "f98ecb17-34b6-44cf-8307-31ef552197e3",
+        "title": "Software Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1725405523,
+        "date_posted": 1725405523,
+        "url": "https://job-boards.greenhouse.io/okx/jobs/6081008003",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/OKX",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
