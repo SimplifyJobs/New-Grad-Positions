@@ -18030,5 +18030,38 @@
         "company_url": "https://simplify.jobs/c/WhatNot",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Datadog",
+        "id": "9a6f5b77-ab04-40be-9380-b9b8b7fa7b18",
+        "title": "Software Engineer \u2013 Early Career",
+        "active": true,
+        "date_updated": 1725376579,
+        "date_posted": 1725376579,
+        "url": "https://careers.datadoghq.com/detail/6182685/?gh_jid=6182685",
+        "locations": [
+            "Boston, MA",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Datadog",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Datadog",
+        "id": "2945c552-0101-45e5-8f9b-0e71bc01dac5",
+        "title": "Data Scientist \u2013 Early Career",
+        "active": true,
+        "date_updated": 1725376538,
+        "date_posted": 1725376538,
+        "url": "https://careers.datadoghq.com/detail/6209265/?gh_jid=6209265",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Datadog",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
