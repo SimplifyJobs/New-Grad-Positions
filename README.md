@@ -77,7 +77,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[Zip](https://simplify.jobs/c/Zip)** | Software Engineer – New Grad - 2025 Start | SF | <a href="https://job-boards.greenhouse.io/zip/jobs/5234060004?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/97b03a7e-3d00-428f-8f2a-94ea334e187f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Aug 30 |
 | **Wiley Edge** | Junior Software Engineer | Remote in USA | 🔒 | Aug 30 |
 | **Wiley Edge** | Junior Software Engineer | Vancouver, BC, Canada | 🔒 | Aug 30 |
-| **Wiley Edge** | Mthree – Junior Software Engineer | United Kingdom | 🔒 | Aug 30 |
+| **[Wiley Edge](https://simplify.jobs/c/WileyEdge)** | Mthree – Junior Software Engineer | United Kingdom | <a href="https://job-boards.greenhouse.io/wileyedgerecruitingportal/jobs/4374266006?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/878b38f9-b530-44ec-982d-cd6211337fe7?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Aug 30 |
 | **Wiley Edge** | Junior Software Engineer | Remote in USA | 🔒 | Aug 30 |
 | **Wiley Edge** | Junior Software Engineer | NYC | 🔒 | Aug 30 |
 | **Wiley Edge** | Junior Data Scientist | Canada | 🔒 | Aug 30 |
