@@ -18335,5 +18335,21 @@
         "date_posted": 1725514537,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Allen Integrated Solutions LLC",
+        "id": "dc89fbb4-e97b-410a-8ce7-67600935c6dc",
+        "title": "Data Scientist - Junior Job#479",
+        "active": true,
+        "date_updated": 1723166371,
+        "date_posted": 1717025191,
+        "url": "https://boards.greenhouse.io/allenintegratedsolutions/jobs/6003959003",
+        "locations": [
+            "Springfield, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Allen-Integrated-Solutions-LLC",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
