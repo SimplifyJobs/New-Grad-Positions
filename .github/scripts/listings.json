@@ -17906,7 +17906,7 @@
         "company_name": "Wiley Edge",
         "id": "9de17cca-57cb-4ea4-b73b-f9b65eafa5c3",
         "title": "Junior Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1725061086,
         "date_posted": 1725061086,
         "url": "https://job-boards.greenhouse.io/wileyedgerecruitingportal/jobs/4383912006",
@@ -17922,7 +17922,7 @@
         "company_name": "Wiley Edge",
         "id": "6e96ebf0-e159-4e9d-beb0-71b35ae0f887",
         "title": "Junior Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1725061086,
         "date_posted": 1725061086,
         "url": "https://job-boards.greenhouse.io/wileyedgerecruitingportal/jobs/4391958006",
@@ -17938,7 +17938,7 @@
         "company_name": "Wiley Edge",
         "id": "b2f60989-d115-4b9e-a071-5d6540c5313f",
         "title": "C++ Junior Software Engineer - London Heathrow - UK",
-        "active": false,
+        "active": true,
         "date_updated": 1725061080,
         "date_posted": 1725061080,
         "url": "https://job-boards.greenhouse.io/wileyedgerecruitingportal/jobs/4375160006",
@@ -18349,6 +18349,38 @@
             "Springfield, VA"
         ],
         "company_url": "https://simplify.jobs/c/Allen-Integrated-Solutions-LLC",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Trustpilot",
+        "id": "785f3420-6c01-4b61-b724-5401a97f0fab",
+        "title": "Fullstack Software Engineer I - Tnt",
+        "active": true,
+        "date_updated": 1725556195,
+        "date_posted": 1725556195,
+        "url": "https://business.trustpilot.com/jobs/6192971?gh_jid=6192971",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Trustpilot",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Trustpilot",
+        "id": "54a95d95-4203-4230-b62a-2d77ff52b61c",
+        "title": "Fullstack Software Engineer I - Tnt",
+        "active": true,
+        "date_updated": 1725556195,
+        "date_posted": 1725556195,
+        "url": "https://business.trustpilot.com/jobs/6235343?gh_jid=6235343",
+        "locations": [
+            "Edinburgh, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Trustpilot",
         "is_visible": true,
         "sponsorship": "Other"
     }
