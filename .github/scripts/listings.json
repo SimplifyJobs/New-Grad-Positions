@@ -17858,7 +17858,7 @@
         "company_name": "Wiley Edge",
         "id": "4e2587db-6361-4149-9d21-78c486d240f2",
         "title": "Junior Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1725061187,
         "date_posted": 1725061187,
         "url": "https://job-boards.greenhouse.io/wileyedgerecruitingportal/jobs/4374540006",
@@ -18173,6 +18173,22 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/Trustpilot",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "PolicyMe",
+        "id": "93dd032c-b3c0-454e-a0c3-b596dc8ca533",
+        "title": "Junior Software Engineer - Remote",
+        "active": true,
+        "date_updated": 1725494244,
+        "date_posted": 1725494244,
+        "url": "https://jobs.lever.co/policyme/b6b41cf8-fd9f-48d8-864c-671b53fc7042/apply",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/PolicyMe",
         "is_visible": true,
         "sponsorship": "Other"
     }
