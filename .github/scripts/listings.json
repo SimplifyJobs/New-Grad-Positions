@@ -18207,5 +18207,21 @@
         "company_url": "https://simplify.jobs/c/Anyscale",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "ServiceNow",
+        "id": "0dbf690d-0863-4a5e-ab8e-275128519f1a",
+        "title": "Utg \u2013 New College Grad - Software Engineer",
+        "active": true,
+        "date_updated": 1725503560,
+        "date_posted": 1725503560,
+        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000011667145",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ServiceNow",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
