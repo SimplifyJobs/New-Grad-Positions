@@ -18319,5 +18319,21 @@
         "company_url": "https://simplify.jobs/c/Nutanix",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1725514537,
+        "url": "https://job-boards.greenhouse.io/newsbreak/jobs/4054592006",
+        "company_name": "NewsBreak",
+        "title": "Software Engineer (Junior & New Grad)",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "YifengW86",
+        "id": "0ffe4ef0-c8b0-461f-b78e-dbba767c4d4c",
+        "date_posted": 1725514537,
+        "company_url": "",
+        "is_visible": true
     }
 ]
