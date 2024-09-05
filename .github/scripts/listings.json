@@ -18223,5 +18223,21 @@
         "company_url": "https://simplify.jobs/c/ServiceNow",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Pylon",
+        "id": "f2019b56-ba55-41fa-af52-f5aa7dad80a6",
+        "title": "New grad \u2013 Software Engineer",
+        "active": true,
+        "date_updated": 1725505898,
+        "date_posted": 1725505898,
+        "url": "https://jobs.ashbyhq.com/pylon-labs/ecf0d509-cfb9-43c6-b628-1e685d6f5f42/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Pylon",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
