@@ -173,7 +173,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **minware** | Junior Front End Engineer | Remote in USA | 🔒 | Jul 13 |
 | **minware** | Junior Front End Engineer | Remote in USA | 🔒 | Jul 13 |
 | **minware** | Junior Front End Engineer | Remote in USA | 🔒 | Jul 13 |
-| **[OpenGov](https://simplify.jobs/c/OpenGov)** | Software Engineer I - Rev | Atlanta, GA | <a href="https://jobs.lever.co/opengov/202da263-a2ad-4cc7-8c2d-79c57603f616/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/38de47b5-7283-42db-a5dd-dae92c42ad63?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jul 12 |
+| **OpenGov** | Software Engineer I - Rev | Atlanta, GA | 🔒 | Jul 12 |
 | **[Seneca Nation Group](https://simplify.jobs/c/Seneca-Nation-Group)** | Junior Data Scientist | Washington, DC | <a href="https://senecaholdings.com/jobs/?gh_jid=4443216005&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/2b6c2f0d-ade1-4005-b0ff-ab42375998ee?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jul 12 |
 | **ElectronX** | New Grad: Software Engineer | New York, NY</br>Chicago, IL | 🔒 | Jul 10 |
 | **Square** | Junior Software Engineer - Android - Mobile Developer Experience | SF</br>Remote in USA | 🔒 | Jul 09 |
