@@ -18489,5 +18489,24 @@
         "company_url": "https://simplify.jobs/c/Wyetech-LLC",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NVIDIA",
+        "id": "b97c7b5a-7b6c-40e4-94ab-349ba9be297a",
+        "title": "Compiler Engineer \u2013 New College Grad 2024 - HPC",
+        "active": true,
+        "date_updated": 1725912366,
+        "date_posted": 1725912366,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-OR-Hillsboro/Compiler-Engineer--HPC---New-College-Grad-2024_JR1987329",
+        "locations": [
+            "Austin, TX",
+            "Redmond, WA",
+            "Santa Clara, CA",
+            "Hillsboro, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
