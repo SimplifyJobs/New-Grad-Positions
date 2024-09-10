@@ -107,7 +107,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Wiley Edge** | Junior Software Engineer | Remote in USA | 🔒 | Aug 30 |
 | **Wiley Edge** | Junior Software Engineer | NYC | 🔒 | Aug 30 |
 | **Wiley Edge** | Junior Data Scientist | Canada | 🔒 | Aug 30 |
-| **[Wiley Edge](https://simplify.jobs/c/WileyEdge)** | C++ Junior Software Engineer - London Heathrow - UK | Feltham, UK | <a href="https://job-boards.greenhouse.io/wileyedgerecruitingportal/jobs/4375160006?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/b2f60989-d115-4b9e-a071-5d6540c5313f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Aug 30 |
+| **Wiley Edge** | C++ Junior Software Engineer - London Heathrow - UK | Feltham, UK | 🔒 | Aug 30 |
 | **NVIDIA** | Senior AI Software Engineer – New College Grad 2024 - Copilots | Seattle, WA</br>Redmond, WA</br>Santa Clara, CA | 🔒 | Aug 30 |
 | **[Qualtrics](https://simplify.jobs/c/Qualtrics)** | Software Development Engineer I - Internal Development Team | Provo, UT | <a href="https://www.qualtrics.com/careers/us/en/job/6199280?gh_jid=6199280&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/09f1d50f-83fc-412a-9e68-0cdf6e91664b?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Aug 30 |
 | **Wyetech LLC** | Software Engineer 1/Jr. Java Developer | Odenton, MD | 🔒 | Aug 30 |
