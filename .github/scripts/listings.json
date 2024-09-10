@@ -18647,5 +18647,21 @@
         "company_url": "https://simplify.jobs/c/3d3125df-3bbc-48fc-993c-8e2d0db65649",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1725928018,
+        "url": "https://job-boards.greenhouse.io/newsbreak/jobs/4338876006",
+        "company_name": "NewsBreak",
+        "title": "Machine Learning Engineer (Junior & New Grad)",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "YifengW86",
+        "id": "48b08de8-31b5-4dde-b181-47f7353aadf0",
+        "date_posted": 1725928018,
+        "company_url": "",
+        "is_visible": true
     }
 ]
