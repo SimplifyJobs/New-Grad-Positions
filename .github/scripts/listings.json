@@ -17890,7 +17890,7 @@
         "company_name": "Wiley Edge",
         "id": "878b38f9-b530-44ec-982d-cd6211337fe7",
         "title": "Mthree \u2013 Junior Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1725514760,
         "date_posted": 1725061087,
         "url": "https://job-boards.greenhouse.io/wileyedgerecruitingportal/jobs/4374266006",
@@ -17906,7 +17906,7 @@
         "company_name": "Wiley Edge",
         "id": "9de17cca-57cb-4ea4-b73b-f9b65eafa5c3",
         "title": "Junior Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1725061086,
         "date_posted": 1725061086,
         "url": "https://job-boards.greenhouse.io/wileyedgerecruitingportal/jobs/4383912006",
@@ -18677,6 +18677,22 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/c6651565-44c8-4050-8412-111c54942390",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Persona",
+        "id": "7b0a92a2-0f75-464b-980f-6a0501a5934f",
+        "title": "Software engineer \u2013 New grad",
+        "active": true,
+        "date_updated": 1725940879,
+        "date_posted": 1725940879,
+        "url": "https://jobs.lever.co/persona/70dd3239-d020-4035-aaab-16bd289642f7/apply",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Persona",
         "is_visible": true,
         "sponsorship": "Other"
     }
