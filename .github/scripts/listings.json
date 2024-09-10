@@ -17874,7 +17874,7 @@
         "company_name": "Wiley Edge",
         "id": "03853a07-8236-44ce-bd3f-64a3b0150a1e",
         "title": "Junior Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1725515067,
         "date_posted": 1725061087,
         "url": "https://job-boards.greenhouse.io/wileyedgerecruitingportal/jobs/4392249006",
@@ -17938,7 +17938,7 @@
         "company_name": "Wiley Edge",
         "id": "b2f60989-d115-4b9e-a071-5d6540c5313f",
         "title": "C++ Junior Software Engineer - London Heathrow - UK",
-        "active": false,
+        "active": true,
         "date_updated": 1725061080,
         "date_posted": 1725061080,
         "url": "https://job-boards.greenhouse.io/wileyedgerecruitingportal/jobs/4375160006",
@@ -18693,6 +18693,22 @@
             "SF"
         ],
         "company_url": "https://simplify.jobs/c/Persona",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Booz Allen",
+        "id": "a2ecf6f0-70cd-4517-847c-9b46f727003f",
+        "title": "Data Scientist - Junior",
+        "active": true,
+        "date_updated": 1725959468,
+        "date_posted": 1725959468,
+        "url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Data-Scientist--Junior_R0204910",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/45cb775d-2ca3-49ea-810f-65334ec70079",
         "is_visible": true,
         "sponsorship": "Other"
     }
