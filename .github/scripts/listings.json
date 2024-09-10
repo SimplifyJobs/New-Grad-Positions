@@ -18663,5 +18663,21 @@
         "date_posted": 1725928018,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "ManTech",
+        "id": "09ce31f4-516b-44d5-9cb4-4bfee37d6baf",
+        "title": "Junior Data Engineer",
+        "active": true,
+        "date_updated": 1725923544,
+        "date_posted": 1725923544,
+        "url": "https://mantech.wd1.myworkdayjobs.com/en-US/External/job/USA-Remote-Work/Junior-Data-Engineer_R54310",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/c6651565-44c8-4050-8412-111c54942390",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
