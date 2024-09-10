@@ -17858,7 +17858,7 @@
         "company_name": "Wiley Edge",
         "id": "4e2587db-6361-4149-9d21-78c486d240f2",
         "title": "Junior Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1725061187,
         "date_posted": 1725061187,
         "url": "https://job-boards.greenhouse.io/wileyedgerecruitingportal/jobs/4374540006",
@@ -17874,7 +17874,7 @@
         "company_name": "Wiley Edge",
         "id": "03853a07-8236-44ce-bd3f-64a3b0150a1e",
         "title": "Junior Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1725515067,
         "date_posted": 1725061087,
         "url": "https://job-boards.greenhouse.io/wileyedgerecruitingportal/jobs/4392249006",
@@ -17890,7 +17890,7 @@
         "company_name": "Wiley Edge",
         "id": "878b38f9-b530-44ec-982d-cd6211337fe7",
         "title": "Mthree \u2013 Junior Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1725514760,
         "date_posted": 1725061087,
         "url": "https://job-boards.greenhouse.io/wileyedgerecruitingportal/jobs/4374266006",
@@ -17906,7 +17906,7 @@
         "company_name": "Wiley Edge",
         "id": "9de17cca-57cb-4ea4-b73b-f9b65eafa5c3",
         "title": "Junior Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1725061086,
         "date_posted": 1725061086,
         "url": "https://job-boards.greenhouse.io/wileyedgerecruitingportal/jobs/4383912006",
@@ -17922,7 +17922,7 @@
         "company_name": "Wiley Edge",
         "id": "6e96ebf0-e159-4e9d-beb0-71b35ae0f887",
         "title": "Junior Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1725061086,
         "date_posted": 1725061086,
         "url": "https://job-boards.greenhouse.io/wileyedgerecruitingportal/jobs/4391958006",
@@ -17938,7 +17938,7 @@
         "company_name": "Wiley Edge",
         "id": "b2f60989-d115-4b9e-a071-5d6540c5313f",
         "title": "C++ Junior Software Engineer - London Heathrow - UK",
-        "active": false,
+        "active": true,
         "date_updated": 1725061080,
         "date_posted": 1725061080,
         "url": "https://job-boards.greenhouse.io/wileyedgerecruitingportal/jobs/4375160006",
@@ -17954,7 +17954,7 @@
         "company_name": "Wiley Edge",
         "id": "a84d8845-f4db-45a6-b93d-dba7b71adbbb",
         "title": "Junior Data Scientist",
-        "active": false,
+        "active": true,
         "date_updated": 1725061085,
         "date_posted": 1725061085,
         "url": "https://job-boards.greenhouse.io/wileyedgerecruitingportal/jobs/4313148006",
@@ -18413,7 +18413,7 @@
         "company_name": "Wiley Edge",
         "id": "aeab7799-c1ed-4f67-b4cc-81bfa2380655",
         "title": "Junior Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1725580968,
         "date_posted": 1725580968,
         "url": "https://job-boards.greenhouse.io/wileyedgerecruitingportal/jobs/4374347006",
@@ -18548,6 +18548,103 @@
             "Chantilly, VA"
         ],
         "company_url": "https://simplify.jobs/c/c6651565-44c8-4050-8412-111c54942390",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Disney Careers",
+        "id": "82d566c5-9240-49d0-8663-0c44ed17fced",
+        "title": "Data Engineer I",
+        "active": true,
+        "date_updated": 1725926182,
+        "date_posted": 1725926182,
+        "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Santa-Monica-CA-USA/Data-Engineer-I_10100253",
+        "locations": [
+            "Santa Monica, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/f4ca773e-168e-4f3d-bc3d-e0cc32345fc6",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Disney Careers",
+        "id": "e17031e1-ec88-46f8-85ca-51344ba0eac3",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1725926168,
+        "date_posted": 1725926168,
+        "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Santa-Monica-CA-USA/Software-Engineer-I_10097956",
+        "locations": [
+            "Santa Monica, CA",
+            "Bristol, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/f4ca773e-168e-4f3d-bc3d-e0cc32345fc6",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "TSC",
+        "id": "b6199ede-2821-4844-8cc0-85107b4525ba",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1725925847,
+        "date_posted": 1725925847,
+        "url": "https://tsc.wd12.myworkdayjobs.com/en-US/TSC-Careers/job/Bloomington-IN/Software-Engineer-I_JR1283",
+        "locations": [
+            "Bloomington, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/3d3125df-3bbc-48fc-993c-8e2d0db65649",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "TSC",
+        "id": "6ce62492-ef72-4285-9e04-ceb92fe1ea35",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1725925832,
+        "date_posted": 1725925832,
+        "url": "https://tsc.wd12.myworkdayjobs.com/en-US/TSC-Careers/job/Bloomington-IN/Software-Engineer-I_JR1519",
+        "locations": [
+            "Bloomington, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/3d3125df-3bbc-48fc-993c-8e2d0db65649",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "TSC",
+        "id": "794cc728-6700-4b4a-b913-bd57024ff3d9",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1725925801,
+        "date_posted": 1725925801,
+        "url": "https://tsc.wd12.myworkdayjobs.com/en-US/TSC-Careers/job/Silver-Spring-MD/Software-Engineer-I--Evergreen-_JR1602",
+        "locations": [
+            "Silver Spring, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/3d3125df-3bbc-48fc-993c-8e2d0db65649",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "TSC",
+        "id": "d06cb150-5167-4f61-8872-fbc267181d23",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1725925764,
+        "date_posted": 1725925764,
+        "url": "https://tsc.wd12.myworkdayjobs.com/en-US/TSC-Careers/job/Silver-Spring-MD/Software-Engineer-I_JR1709",
+        "locations": [
+            "Silver Spring, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/3d3125df-3bbc-48fc-993c-8e2d0db65649",
         "is_visible": true,
         "sponsorship": "Other"
     }
