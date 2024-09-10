@@ -252,7 +252,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Trustpilot** | Software Engineer I - API Platform | London, UK | 🔒 | May 21 |
 | **[NewsBreak](https://simplify.jobs/c/NewsBreak)** | Software Engineer – Junior & New Grad | Mountain View, CA | <a href="https://boards.greenhouse.io/newsbreak/jobs/4054592006?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/1d8e7ec9-fef4-48da-9a60-c4c37d0b3cbc?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | May 20 |
 | **Arsiem Corporation** | Software Engineer 1 | Annapolis Junction, MD | 🔒 | May 17 |
-| **[Veeva Systems](https://simplify.jobs/c/Veeva-Systems)** | Associate Software Engineer – Seeking 2024 Grads | Toronto, ON, Canada | <a href="https://jobs.lever.co/veeva/f235ed8b-0972-4248-9d57-2d500aa094f5/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/3f29d010-cc7e-46d3-809a-80b161151483?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | May 15 |
+| **Veeva Systems** | Associate Software Engineer – Seeking 2024 Grads | Toronto, ON, Canada | 🔒 | May 15 |
 | **Arsiem Corporation** | Software Engineer 1 | Annapolis Junction, MD | 🔒 | May 15 |
 | **Marqeta** | Software Engineer I | Vancouver, BC, Canada | 🔒 | May 14 |
 | **Marqeta** | Software Engineer I | Toronto, ON, Canada | 🔒 | May 14 |
