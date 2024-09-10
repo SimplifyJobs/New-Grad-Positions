@@ -102,9 +102,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Replicant** | Software Engineer I - Machine Learning | Remote in Canada | 🔒 | Aug 31 |
 | **Watershed** | Software engineer – New grad | SF | 🔒 | Aug 31 |
 | **[Zip](https://simplify.jobs/c/Zip)** | Software Engineer – New Grad - 2025 Start | SF | <a href="https://job-boards.greenhouse.io/zip/jobs/5234060004?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/97b03a7e-3d00-428f-8f2a-94ea334e187f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Aug 30 |
+| **[Wiley Edge](https://simplify.jobs/c/WileyEdge)** | Junior Software Engineer | Remote in USA | <a href="https://job-boards.greenhouse.io/wileyedgerecruitingportal/jobs/4374540006?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/4e2587db-6361-4149-9d21-78c486d240f2?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Aug 30 |
 | **Wiley Edge** | Junior Software Engineer | Remote in USA | 🔒 | Aug 30 |
-| **Wiley Edge** | Junior Software Engineer | Remote in USA | 🔒 | Aug 30 |
-| **Wiley Edge** | Junior Software Engineer | NYC | 🔒 | Aug 30 |
+| **[Wiley Edge](https://simplify.jobs/c/WileyEdge)** | Junior Software Engineer | NYC | <a href="https://job-boards.greenhouse.io/wileyedgerecruitingportal/jobs/4391958006?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/6e96ebf0-e159-4e9d-beb0-71b35ae0f887?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Aug 30 |
 | **Wiley Edge** | Junior Data Scientist | Canada | 🔒 | Aug 30 |
 | **Wiley Edge** | C++ Junior Software Engineer - London Heathrow - UK | Feltham, UK | 🔒 | Aug 30 |
 | **NVIDIA** | Senior AI Software Engineer – New College Grad 2024 - Copilots | Seattle, WA</br>Redmond, WA</br>Santa Clara, CA | 🔒 | Aug 30 |
