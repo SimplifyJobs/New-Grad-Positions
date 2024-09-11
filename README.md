@@ -259,7 +259,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Marqeta** | Software Engineer I | Vancouver, BC, Canada | 🔒 | May 14 |
 | **Marqeta** | Software Engineer I | Toronto, ON, Canada | 🔒 | May 14 |
 | **Wiley Edge** | Junior Software Engineer | United States | 🔒 | May 10 |
-| **[Arsiem Corporation](https://simplify.jobs/c/Arsiem-Corporation)** | Software Engineer 0 | Annapolis Junction, MD | <a href="https://jobs.lever.co/arsiem/090b1544-1dbb-42e3-becb-0787ff7b63e0/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/fec920fd-bbb8-4c71-9276-3d65a13df3de?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | May 10 |
+| **Arsiem Corporation** | Software Engineer 0 | Annapolis Junction, MD | 🔒 | May 10 |
 | **Visa** | Software Engineer - New College Grad-2024 | Bellevue, WA | 🔒 | May 10 |
 | **[Barbaricum](https://simplify.jobs/c/Barbaricum)** | Junior Full Stack Software Engineer | Arlington, VA | <a href="https://jobs.lever.co/barbaricum/4a17cdfc-138f-44de-b3f4-ab267185be59/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/07942845-5610-4018-b477-1fa49ee5b6c5?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | May 08 |
 | **Arsiem Corporation** | Software Engineer 1 | Annapolis Junction, MD | 🔒 | May 07 |
