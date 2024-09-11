@@ -18829,5 +18829,21 @@
         "date_posted": 1726075748,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "KLA",
+        "id": "04688802-4e15-4b0e-b04b-a1ad14f12bc2",
+        "title": "Software Engineer \u2013 New College Grad",
+        "active": true,
+        "date_updated": 1726083111,
+        "date_posted": 1726083111,
+        "url": "https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Software-Engineer--New-College-Grad-_2425130-1",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/adae5c6b-e3f9-4029-96e7-aa9b050e80d0",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
