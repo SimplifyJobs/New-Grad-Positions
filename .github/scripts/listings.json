@@ -16939,7 +16939,7 @@
         "company_name": "Pollen Mobile",
         "id": "79a02e5b-32a5-41d7-91e5-e6b098706fe4",
         "title": "Junior Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1720486190,
         "date_posted": 1717764512,
         "url": "https://jobs.lever.co/pronto-ai/575d882e-624c-4259-9114-260fe7aa860c/apply",
@@ -18341,7 +18341,7 @@
         "company_name": "Allen Integrated Solutions LLC",
         "id": "dc89fbb4-e97b-410a-8ce7-67600935c6dc",
         "title": "Data Scientist - Junior Job#479",
-        "active": true,
+        "active": false,
         "date_updated": 1723166371,
         "date_posted": 1717025191,
         "url": "https://boards.greenhouse.io/allenintegratedsolutions/jobs/6003959003",
@@ -18749,7 +18749,7 @@
         "company_name": "Disney Careers",
         "id": "29bb61ea-711c-453d-b98c-e8f52686426b",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1726009972,
         "date_posted": 1726009972,
         "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Santa-Monica-CA-USA/Software-Engineer-I_10099376",
@@ -18907,6 +18907,71 @@
             "Boston, MA"
         ],
         "company_url": "https://simplify.jobs/c/Gecko-Robotics",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Gecko Robotics",
+        "id": "cdf96759-2a86-4465-a888-b1307363d142",
+        "title": "Field Software Engineer \u2013 New Graduate",
+        "active": true,
+        "date_updated": 1725927375,
+        "date_posted": 1725927375,
+        "url": "https://jobs.ashbyhq.com/gecko-robotics/456af2b4-804c-4fc5-95c3-01d6539cdc0e/application",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Gecko-Robotics",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Gecko Robotics",
+        "id": "5dbc15df-2d1e-4184-9518-aaa2bd09551e",
+        "title": "Forward Deployed Software Engineer \u2013 New Graduate",
+        "active": true,
+        "date_updated": 1725927372,
+        "date_posted": 1725927372,
+        "url": "https://jobs.ashbyhq.com/gecko-robotics/37a18535-7fd9-4491-a8a0-d567adc30e03/application",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Gecko-Robotics",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Jerry",
+        "id": "5b6a8aa7-a630-435d-a1c6-cabd222a297d",
+        "title": "New Graduate Software Engineer - Palo Alto",
+        "active": true,
+        "date_updated": 1725564438,
+        "date_posted": 1722008890,
+        "url": "https://jobs.ashbyhq.com/Jerry/2201b806-93b2-4b6a-986b-407120670b9d/application",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Vectra",
+        "id": "9a63bd39-e642-47f1-b2af-0665cb194cac",
+        "title": "Software Engineer \u2013 New College Graduate",
+        "active": true,
+        "date_updated": 1724283294,
+        "date_posted": 1724283294,
+        "url": "https://boards.greenhouse.io/vectranetworks/jobs/6142089",
+        "locations": [
+            "Austin, TX",
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Vectra",
         "is_visible": true,
         "sponsorship": "Other"
     }
