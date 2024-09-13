@@ -19070,5 +19070,37 @@
         "company_url": "https://simplify.jobs/c/Wyetech-LLC",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Uber",
+        "id": "da9c1439-8d41-4e7a-bfac-38a85b41e87f",
+        "title": "2024 Graduate Software Engineer I - United States",
+        "active": true,
+        "date_updated": 1726257440,
+        "date_posted": 1726257440,
+        "url": "https://university-uber.icims.com/jobs/134010/job",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Uber",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wyetech",
+        "id": "b1fd2057-e1c2-4d84-ab83-1e93766bab8a",
+        "title": "Software Engineer 1 - Telework Available",
+        "active": true,
+        "date_updated": 1726258934,
+        "date_posted": 1726258934,
+        "url": "https://jobs.lever.co/wyetechllc/23c80f17-88a4-4f88-8309-b08259fd277e/apply",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Wyetech-LLC",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
