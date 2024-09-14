@@ -19102,5 +19102,23 @@
         "company_url": "https://simplify.jobs/c/Wyetech-LLC",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1726307527,
+        "url": "https://www.splunk.com/en_us/careers/jobs/software-engineer-early-in-29740.html",
+        "company_name": "Splunk",
+        "title": "Software Engineer - Early in Career (Backend/Full-stack, Immediate Start Date)",
+        "locations": [
+            "CO, United States",
+            "NC, United States",
+            "Hybrid Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "Akshay6890",
+        "id": "87348472-60dd-49f8-b9de-2c7e2f8a4545",
+        "date_posted": 1726307527,
+        "company_url": "",
+        "is_visible": true
     }
 ]
