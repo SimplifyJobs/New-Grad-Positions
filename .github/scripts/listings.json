@@ -18815,15 +18815,15 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1726075748,
+        "date_updated": 1726307479,
         "url": "https://careers.adobe.com/us/en/job/ADOBUSR148217EXTERNALENUS/2025-University-Graduate-Software-Engineer",
         "company_name": "Adobe",
         "title": "Software Engineer - University Graduate 2025",
         "locations": [
             "New York, NY"
         ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "whuang214",
         "id": "74775dc2-7dd0-4a7d-ad1c-b022190acfcc",
         "date_posted": 1726075748,
