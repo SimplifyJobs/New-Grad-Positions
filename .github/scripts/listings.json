@@ -19120,5 +19120,21 @@
         "date_posted": 1726307527,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726307549,
+        "url": "https://jobs.sap.com/job/Palo-Alto-Data-Scientist-SNT-%282024-Grads%29-CA-94304/1118371501/",
+        "company_name": "SAP",
+        "title": "Data Scientist: SNT (2024 Grads)",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": false,
+        "source": "mohammedsalmank04",
+        "id": "7b60ba5f-29fa-43b3-9d1c-a53d2229c3ac",
+        "date_posted": 1726307549,
+        "company_url": "",
+        "is_visible": true
     }
 ]
