@@ -62,6 +62,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **[Western Digital](https://simplify.jobs/c/Western-Digital)** | New College Grad Engineer - Software Engineer - Firmware Engineering | San Jose, CA | <a href="https://jobs.smartrecruiters.com/WesternDigital/744000014221462?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/a01d45cb-bb9a-41a7-8d48-4472ee0e9ce9?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Sep 16 |
 | **SAP** | Data Scientist: SNT (2024 Grads) 🛂 | Palo Alto, CA | 🔒 | Sep 14 |
 | **[Splunk](https://simplify.jobs/c/Splunk)** | Software Engineer - Early in Career (Backend/Full-stack, Immediate Start Date) | CO, United States</br>NC, United States</br>Hybrid Remote | <a href="https://www.splunk.com/en_us/careers/jobs/software-engineer-early-in-29740.html?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 14 |
 | **Wyetech** | Software Engineer 1 - Telework Available | Annapolis Junction, MD | 🔒 | Sep 13 |
