@@ -19152,5 +19152,21 @@
         "company_url": "https://simplify.jobs/c/Western-Digital",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "WeRide",
+        "id": "81ce0706-95f4-4b32-ab45-cd532285dd5d",
+        "title": "New Grads 2025 - General Software Engineer",
+        "active": true,
+        "date_updated": 1726513959,
+        "date_posted": 1726513959,
+        "url": "https://jobs.lever.co/weride/c6199fb6-cd1e-4f11-b51c-24702ddfa63d/apply",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/WeRide",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
