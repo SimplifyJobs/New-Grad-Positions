@@ -19168,5 +19168,37 @@
         "company_url": "https://simplify.jobs/c/WeRide",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Visa",
+        "id": "8f50b4d0-d3af-4269-abb6-1836747404a0",
+        "title": "Software Engineer \u2013 New College Grad - 2025",
+        "active": true,
+        "date_updated": 1726514170,
+        "date_posted": 1726514170,
+        "url": "https://jobs.smartrecruiters.com/Visa/744000014249028",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Visa",
+        "id": "7b133c04-a4b3-4a3f-b1ce-e7ec9b0f3f67",
+        "title": "Software Engineer \u2013 New College Grad - 2025",
+        "active": true,
+        "date_updated": 1726514170,
+        "date_posted": 1726514170,
+        "url": "https://jobs.smartrecruiters.com/Visa/744000014248486",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
