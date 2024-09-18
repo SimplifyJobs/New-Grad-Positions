@@ -294,7 +294,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Wiley Edge** | Junior Software Engineer | United States | 🔒 | May 10 |
 | **Arsiem Corporation** | Software Engineer 0 | Annapolis Junction, MD | 🔒 | May 10 |
 | **Visa** | Software Engineer - New College Grad-2024 | Bellevue, WA | 🔒 | May 10 |
-| **[Barbaricum](https://simplify.jobs/c/Barbaricum)** | Junior Full Stack Software Engineer | Arlington, VA | <a href="https://jobs.lever.co/barbaricum/4a17cdfc-138f-44de-b3f4-ab267185be59/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/07942845-5610-4018-b477-1fa49ee5b6c5?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | May 08 |
+| **Barbaricum** | Junior Full Stack Software Engineer | Arlington, VA | 🔒 | May 08 |
 | **Arsiem Corporation** | Software Engineer 1 | Annapolis Junction, MD | 🔒 | May 07 |
 | **Splunk** | Software Engineer - Early in Career - Frontend | Colorado</br>North Carolina | 🔒 | May 06 |
 | **Axon** | Embedded Applications Software Engineer I | Seattle, WA | 🔒 | May 04 |
