@@ -19346,5 +19346,38 @@
         "company_url": "https://simplify.jobs/c/ELEVI-Associates",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NVIDIA",
+        "id": "922c721f-9b0c-44d4-af33-5c75a368e6a4",
+        "title": "Optical Mixed Signal Design Software Engineer \u2013 New College Grad 2024",
+        "active": true,
+        "date_updated": 1726861159,
+        "date_posted": 1726861159,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Optical-Mixed-Signal-Design-Software-Engineer---New-College-Grad-2024_JR1987468",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Splunk",
+        "id": "151d21e0-ca6a-41ba-8c9e-688627666fd3",
+        "title": "Software Engineer \u2013 Early Career - Boulder - CO or Raleigh - NC - Jan 2025 or sooner start date ONLY",
+        "active": true,
+        "date_updated": 1726860832,
+        "date_posted": 1726860832,
+        "url": "https://jobs.jobvite.com/splunk-careers/job/oOIxufwh?nl=1&nl=1&fr=false",
+        "locations": [
+            "Raleigh, NC",
+            "Boulder, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Splunk",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
