@@ -17858,7 +17858,7 @@
         "company_name": "Wiley Edge",
         "id": "4e2587db-6361-4149-9d21-78c486d240f2",
         "title": "Junior Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1725061187,
         "date_posted": 1725061187,
         "url": "https://job-boards.greenhouse.io/wileyedgerecruitingportal/jobs/4374540006",
@@ -17890,7 +17890,7 @@
         "company_name": "Wiley Edge",
         "id": "878b38f9-b530-44ec-982d-cd6211337fe7",
         "title": "Mthree \u2013 Junior Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1725514760,
         "date_posted": 1725061087,
         "url": "https://job-boards.greenhouse.io/wileyedgerecruitingportal/jobs/4374266006",
@@ -17906,7 +17906,7 @@
         "company_name": "Wiley Edge",
         "id": "9de17cca-57cb-4ea4-b73b-f9b65eafa5c3",
         "title": "Junior Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1725061086,
         "date_posted": 1725061086,
         "url": "https://job-boards.greenhouse.io/wileyedgerecruitingportal/jobs/4383912006",
@@ -17938,7 +17938,7 @@
         "company_name": "Wiley Edge",
         "id": "b2f60989-d115-4b9e-a071-5d6540c5313f",
         "title": "C++ Junior Software Engineer - London Heathrow - UK",
-        "active": false,
+        "active": true,
         "date_updated": 1725061080,
         "date_posted": 1725061080,
         "url": "https://job-boards.greenhouse.io/wileyedgerecruitingportal/jobs/4375160006",
@@ -18413,7 +18413,7 @@
         "company_name": "Wiley Edge",
         "id": "aeab7799-c1ed-4f67-b4cc-81bfa2380655",
         "title": "Junior Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1725580968,
         "date_posted": 1725580968,
         "url": "https://job-boards.greenhouse.io/wileyedgerecruitingportal/jobs/4374347006",
@@ -19377,6 +19377,58 @@
             "Boulder, CO"
         ],
         "company_url": "https://simplify.jobs/c/Splunk",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "SingleStore",
+        "id": "fa2a973c-8235-41f5-a834-149693170158",
+        "title": "Software Engineer \u2013 University Graduate - Managed Service",
+        "active": true,
+        "date_updated": 1726873934,
+        "date_posted": 1726873934,
+        "url": "https://boards.greenhouse.io/singlestore/jobs/6237446",
+        "locations": [
+            "Seattle, WA",
+            "SF",
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/SingleStore",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "SingleStore",
+        "id": "573cd0e4-9d92-4879-badd-b57ad4e7796b",
+        "title": "Software Engineer \u2013 University Graduate - Database Engine",
+        "active": true,
+        "date_updated": 1726873933,
+        "date_posted": 1726873933,
+        "url": "https://boards.greenhouse.io/singlestore/jobs/6237482",
+        "locations": [
+            "Seattle, WA",
+            "SF",
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/SingleStore",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Magical",
+        "id": "04a16174-d8f0-48f6-a1d1-0e7305b5142d",
+        "title": "New Grad Front End/Fullstack Engineer - Remote - North America",
+        "active": true,
+        "date_updated": 1726873647,
+        "date_posted": 1726873647,
+        "url": "https://jobs.ashbyhq.com/magical/70434e4d-91a4-47b3-8cd1-a7adf8fcd718/application",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/82f71d0b-1b62-419e-a151-644b20c06ecd",
         "is_visible": true,
         "sponsorship": "Other"
     }
