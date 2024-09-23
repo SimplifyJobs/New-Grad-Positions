@@ -19104,17 +19104,15 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1726307527,
+        "date_updated": 1727127998,
         "url": "https://www.splunk.com/en_us/careers/jobs/software-engineer-early-in-29740.html",
         "company_name": "Splunk",
-        "title": "Software Engineer - Early in Career (Backend/Full-stack, Immediate Start Date)",
+        "title": "Software Engineer",
         "locations": [
-            "CO, United States",
-            "NC, United States",
-            "Hybrid Remote"
+            "SF Bay Area, Seattle Metro, and New York City Metro Area"
         ],
-        "sponsorship": "Other",
-        "active": true,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": false,
         "source": "Akshay6890",
         "id": "87348472-60dd-49f8-b9de-2c7e2f8a4545",
         "date_posted": 1726307527,

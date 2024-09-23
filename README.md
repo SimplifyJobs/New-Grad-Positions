@@ -85,7 +85,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[WeRide](https://simplify.jobs/c/WeRide)** | New Grads 2025 - General Software Engineer | San Jose, CA | <a href="https://jobs.lever.co/weride/c6199fb6-cd1e-4f11-b51c-24702ddfa63d/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/81ce0706-95f4-4b32-ab45-cd532285dd5d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Sep 16 |
 | **Western Digital** | New College Grad Engineer - Software Engineer - Firmware Engineering | San Jose, CA | 🔒 | Sep 16 |
 | **SAP** | Data Scientist: SNT (2024 Grads) 🛂 | Palo Alto, CA | 🔒 | Sep 14 |
-| **[Splunk](https://simplify.jobs/c/Splunk)** | Software Engineer - Early in Career (Backend/Full-stack, Immediate Start Date) | CO, United States</br>NC, United States</br>Hybrid Remote | <a href="https://www.splunk.com/en_us/careers/jobs/software-engineer-early-in-29740.html?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 14 |
+| **Splunk** | Software Engineer 🇺🇸 | SF Bay Area, Seattle Metro, and New York City Metro Area | 🔒 | Sep 14 |
 | **Wyetech** | Software Engineer 1 - Telework Available | Annapolis Junction, MD | 🔒 | Sep 13 |
 | **Uber** | 2024 Graduate Software Engineer I - United States | SF | 🔒 | Sep 13 |
 | **Wyetech LLC** | Software Engineer 1 - Telework Available | Annapolis Junction, MD | 🔒 | Sep 12 |
