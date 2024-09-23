@@ -19463,5 +19463,21 @@
         "company_url": "https://simplify.jobs/c/ff0e403d-7fb1-43cf-81ba-a2f00c99612b",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1727125614,
+        "url": "https://bloomberg.avature.net/careers/JobDetail/2025-Software-Engineer-New-York/6961",
+        "company_name": "Bloomberg",
+        "title": "Software Engineer (New Grad)",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": false,
+        "source": "quantumscholar",
+        "id": "d53614e8-c2ef-408d-afb3-97140046f4d1",
+        "date_posted": 1727125614,
+        "company_url": "",
+        "is_visible": true
     }
 ]
