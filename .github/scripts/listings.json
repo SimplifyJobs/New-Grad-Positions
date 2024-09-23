@@ -18765,16 +18765,16 @@
         "source": "Simplify",
         "company_name": "Perpay",
         "id": "87535675-cdd3-44ea-b36f-622b1a2be47b",
-        "title": "Software Engineer \u2013 New Grad",
+        "title": "Software Engineer, New Grad",
         "active": true,
-        "date_updated": 1726009552,
+        "date_updated": 1727128045,
         "date_posted": 1726009552,
         "url": "https://boards.greenhouse.io/perpay/jobs/4034578007",
         "locations": [
-            "Philadelphia, PA"
+            "Philadelphia, Pa"
         ],
         "company_url": "https://simplify.jobs/c/Perpay",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {

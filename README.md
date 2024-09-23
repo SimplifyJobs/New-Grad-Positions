@@ -98,7 +98,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Wiley Edge** | Junior Software Engineer - Open to relocation - Sheffield - Birmingham - Bournemouth - Newcastle & Glasgow | <details><summary>**5 locations**</summary>Christchurch, UK</br>Newcastle upon Tyne, UK</br>Birmingham, UK</br>Sheffield, UK</br>Glasgow, UK</details> | 🔒 | Sep 11 |
 | **Wiley Edge** | Mthree – Junior Software Engineer - Chester & Sheffield | Sheffield, UK</br>Liverpool, UK | 🔒 | Sep 11 |
 | **Disney Careers** | Software Engineer I | Santa Monica, CA</br>NYC | 🔒 | Sep 10 |
-| **[Perpay](https://simplify.jobs/c/Perpay)** | Software Engineer – New Grad | Philadelphia, PA | <a href="https://boards.greenhouse.io/perpay/jobs/4034578007?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/87535675-cdd3-44ea-b36f-622b1a2be47b?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Sep 10 |
 | **Subsplash** | Software Development Engineer I - Front-end | Remote in USA | 🔒 | Sep 10 |
 | **Subsplash** | Software Development Engineer I - Back-end | Remote in USA | 🔒 | Sep 10 |
 | **RELX** | Aspire Tech Graduate Program - Data Engineer I | Raleigh, NC | 🔒 | Sep 10 |
