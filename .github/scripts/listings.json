@@ -19509,5 +19509,53 @@
         "company_url": "https://simplify.jobs/c/Subsplash",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Nominal",
+        "id": "cdb76464-b9b9-44a7-a1f9-b944fd35b5a9",
+        "title": "Software Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1727133447,
+        "date_posted": 1727133447,
+        "url": "https://jobs.lever.co/nominal/89854893-f950-4b95-afd9-415190bbcd1c/apply",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Nominal",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Nominal",
+        "id": "0446366e-48be-44ee-afc6-622c14d5b3af",
+        "title": "Software Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1727133447,
+        "date_posted": 1727133447,
+        "url": "https://jobs.lever.co/nominal/e6494c90-f3f3-4d18-b2bf-e72914e8a41d/apply",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Nominal",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Nominal",
+        "id": "d5eee09d-40ff-4b0d-982b-43acea2a0c2d",
+        "title": "Software Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1727133449,
+        "date_posted": 1727133449,
+        "url": "https://jobs.lever.co/nominal/9ed92de3-a7de-4901-9fe0-054b9c66d7c9/apply",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Nominal",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
