@@ -19,7 +19,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <div align="center">
 	<h3>😮‍💨 Tired of checking every day for new Jobs? 😩</h3>
 	<p>
-			Check out ⬇️ <strong>SWE List</strong> ⬇️ that sends you email updates for this repo 
+			Check out ⬇️ <strong>SWE List</strong> ⬇️ that sends you email updates for this repo
 			<br>
 			<div>
 			<a href="https://swelist.com">
@@ -77,11 +77,11 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **GitHub** | Software Engineer I - Copilot | Remote in USA | 🔒 | Sep 17 |
 | **[Applied Intuition](https://simplify.jobs/c/Applied-Intuition)** | Embedded Software Engineer – New Grad | Mountain View, CA | <a href="https://boards.greenhouse.io/appliedintuition/jobs/4319633005?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/feae57c5-bd69-4c29-aa99-8299b7f8854e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Sep 16 |
 | **[Visa](https://simplify.jobs/c/Visa)** | Software Engineer – New College Grad - 2025 🛂 | San Mateo, CA | <a href="https://jobs.smartrecruiters.com/Visa/744000014248486?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/7b133c04-a4b3-4a3f-b1ce-e7ec9b0f3f67?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Sep 16 |
-| **[Visa](https://simplify.jobs/c/Visa)** | Software Engineer – New College Grad - 2025 | Austin, TX | <a href="https://jobs.smartrecruiters.com/Visa/744000014249028?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/8f50b4d0-d3af-4269-abb6-1836747404a0?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Sep 16 |
+| **[Visa](https://simplify.jobs/c/Visa)** | Software Engineer – New College Grad - 2025 🛂 | Austin, TX | <a href="https://jobs.smartrecruiters.com/Visa/744000014249028?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/8f50b4d0-d3af-4269-abb6-1836747404a0?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Sep 16 |
 | **[WeRide](https://simplify.jobs/c/WeRide)** | New Grads 2025 - General Software Engineer | San Jose, CA | <a href="https://jobs.lever.co/weride/c6199fb6-cd1e-4f11-b51c-24702ddfa63d/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/81ce0706-95f4-4b32-ab45-cd532285dd5d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Sep 16 |
 | **Western Digital** | New College Grad Engineer - Software Engineer - Firmware Engineering | San Jose, CA | 🔒 | Sep 16 |
 | **SAP** | Data Scientist: SNT (2024 Grads) 🛂 | Palo Alto, CA | 🔒 | Sep 14 |
-| **[Splunk](https://simplify.jobs/c/Splunk)** | Software Engineer - Early in Career (Backend/Full-stack, Immediate Start Date) | CO, United States</br>NC, United States</br>Hybrid Remote | <a href="https://www.splunk.com/en_us/careers/jobs/software-engineer-early-in-29740.html?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 14 |
+| **Splunk** | Software Engineer - Early in Career (Backend/Full-stack, Immediate Start Date) | CO, United States</br>NC, United States</br>Hybrid Remote | 🔒 | Sep 14 |
 | **Wyetech** | Software Engineer 1 - Telework Available | Annapolis Junction, MD | 🔒 | Sep 13 |
 | **Uber** | 2024 Graduate Software Engineer I - United States | SF | 🔒 | Sep 13 |
 | **Wyetech LLC** | Software Engineer 1 - Telework Available | Annapolis Junction, MD | 🔒 | Sep 12 |
