@@ -19479,5 +19479,21 @@
         "date_posted": 1727125614,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727125644,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1771661/Software-Engineer---Frontend%2C-Redmond",
+        "company_name": "Microsoft",
+        "title": "Software Engineer - Frontend",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "eneief",
+        "id": "e304ea0a-48de-4f61-b33a-4c249258619b",
+        "date_posted": 1727125644,
+        "company_url": "",
+        "is_visible": true
     }
 ]
