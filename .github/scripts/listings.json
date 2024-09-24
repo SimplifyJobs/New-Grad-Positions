@@ -18851,7 +18851,7 @@
         "company_name": "Chime",
         "id": "37ddb0b1-17d9-4b43-b1ca-15fa8da3652d",
         "title": "Software Engineer-New Grad - For Fall 2024 Event Attendees",
-        "active": false,
+        "active": true,
         "date_updated": 1726096329,
         "date_posted": 1726096329,
         "url": "https://boards.greenhouse.io/chime/jobs/7626713002",
@@ -19555,6 +19555,38 @@
             "Austin, TX"
         ],
         "company_url": "https://simplify.jobs/c/Nominal",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wyetech",
+        "id": "ddb195bd-e5aa-491a-b877-2a6a11757ec8",
+        "title": "Software Engineer 1 - Telework",
+        "active": true,
+        "date_updated": 1727205335,
+        "date_posted": 1727205335,
+        "url": "https://jobs.lever.co/wyetechllc/b6553339-b2a7-4b91-ba56-ac3b8a18f337/apply",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Wyetech-LLC",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wyetech",
+        "id": "d83f1539-88bd-4a36-adfd-1358207d8595",
+        "title": "Software Engineer 0",
+        "active": true,
+        "date_updated": 1727205328,
+        "date_posted": 1727205328,
+        "url": "https://jobs.lever.co/wyetechllc/3fa5ec95-940b-44b7-9d47-dece3dde2975/apply",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Wyetech-LLC",
         "is_visible": true,
         "sponsorship": "Other"
     }
