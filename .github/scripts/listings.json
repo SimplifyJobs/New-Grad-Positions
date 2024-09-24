@@ -19589,5 +19589,21 @@
         "company_url": "https://simplify.jobs/c/Wyetech-LLC",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wyetech",
+        "id": "96d18363-62af-4269-addc-1b0f280b2de7",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1727219353,
+        "date_posted": 1727219353,
+        "url": "https://jobs.lever.co/wyetechllc/e3e517ce-792b-4f97-974d-8d740caa2dd5/apply",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Wyetech-LLC",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
