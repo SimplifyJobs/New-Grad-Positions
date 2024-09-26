@@ -19693,7 +19693,7 @@
         "company_name": "Capital One",
         "id": "0708641e-cbe9-4912-b240-d5020e94ad77",
         "title": "Associate \u2013 New Grad - Software Engineer - OR049160",
-        "active": true,
+        "active": false,
         "date_updated": 1727363940,
         "date_posted": 1727363940,
         "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer---New-Grad--OR049160-_R195501",
@@ -19749,6 +19749,22 @@
             "Odenton, MD"
         ],
         "company_url": "https://simplify.jobs/c/Wyetech-LLC",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Chime",
+        "id": "ac3538f2-3069-4692-a897-7e83ab9935ef",
+        "title": "Software Engineer \u2013 New Grad - Pay Anyone",
+        "active": true,
+        "date_updated": 1727379050,
+        "date_posted": 1727379050,
+        "url": "https://boards.greenhouse.io/chime/jobs/7515160002",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Chime",
         "is_visible": true,
         "sponsorship": "Other"
     }
