@@ -19767,5 +19767,21 @@
         "company_url": "https://simplify.jobs/c/Chime",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Snap Inc.",
+        "id": "7737c33d-9b7b-49b1-94ed-7815816978c5",
+        "title": "Software Engineer \u2013 New Grad Engineer - Full Stack",
+        "active": true,
+        "date_updated": 1727392387,
+        "date_posted": 1727392387,
+        "url": "https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Seattle-Washington/Software-Engineer--Full-Stack--New-Grad-Engineer_R0037143-1",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Snap",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
