@@ -19703,5 +19703,53 @@
         "company_url": "https://simplify.jobs/c/Capital-One",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wyetech",
+        "id": "80ea5956-2483-4c16-a6eb-506add359c2f",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1727378200,
+        "date_posted": 1727378200,
+        "url": "https://jobs.lever.co/wyetechllc/f70a3c22-5c54-4e01-8128-421faf496fd6/apply",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Wyetech-LLC",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Sumo Logic",
+        "id": "41d041f6-06a8-4aa9-9697-845e9cbace2c",
+        "title": "Software Engineer I - Mle",
+        "active": true,
+        "date_updated": 1727378911,
+        "date_posted": 1727378911,
+        "url": "https://job-boards.greenhouse.io/sumologic/jobs/6267941",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Sumo-Logic",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wyetech",
+        "id": "0feb0097-f1f8-458e-b5fb-088f0ae06031",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1727378199,
+        "date_posted": 1727378199,
+        "url": "https://jobs.lever.co/wyetechllc/5278ff9a-4625-44b0-858d-67cb2c1c3fdc/apply",
+        "locations": [
+            "Odenton, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Wyetech-LLC",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
