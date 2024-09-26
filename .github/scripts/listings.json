@@ -19671,5 +19671,21 @@
         "company_url": "https://simplify.jobs/c/Disney",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Amplitude",
+        "id": "36e6b8c4-c134-4f08-a992-31498afc2999",
+        "title": "Software Engineer I - Growth",
+        "active": true,
+        "date_updated": 1727320014,
+        "date_posted": 1727320014,
+        "url": "https://job-boards.greenhouse.io/amplitude/jobs/7657831002",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Amplitude",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
