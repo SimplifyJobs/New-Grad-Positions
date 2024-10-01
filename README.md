@@ -115,7 +115,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Jerry** | Software Engineer I - Palo Alto | Palo Alto, CA | 🔒 | Sep 12 |
 | **[Tencent](https://simplify.jobs/c/Tencent)** | Security Software Engineer I | Palo Alto, CA | <a href="https://tencent.wd1.myworkdayjobs.com/en-US/Tencent_Careers/job/US-Palo-Alto/Security-Engineer-I_R103856?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/2fe87416-59d9-4125-ae96-47b609f83c15?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Sep 12 |
 | **Chime** | Software Engineer-New Grad - For Fall 2024 Event Attendees | SF | 🔒 | Sep 11 |
-| **[Alto Pharmacy](https://simplify.jobs/c/Alto)** | Early Career Software Engineer 🛂 | Remote in USA | <a href="https://boards.greenhouse.io/alto/jobs/6235262?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/0e38bd82-57b3-4b35-8bb2-e96f647a2e52?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Sep 11 |
+| **Alto Pharmacy** | Early Career Software Engineer 🛂 | Remote in USA | 🔒 | Sep 11 |
 | **KLA** | Software Engineer – New College Grad | Milpitas, CA | 🔒 | Sep 11 |
 | **Adobe** | Software Engineer - University Graduate 2025 | New York, NY | 🔒 | Sep 11 |
 | **Wiley Edge** | Junior Software Engineer - Open to relocation - Sheffield - Birmingham - Bournemouth - Newcastle & Glasgow | <details><summary>**5 locations**</summary>Christchurch, UK</br>Newcastle upon Tyne, UK</br>Birmingham, UK</br>Sheffield, UK</br>Glasgow, UK</details> | 🔒 | Sep 11 |
