@@ -19831,5 +19831,21 @@
         "company_url": "https://simplify.jobs/c/AccentureFederalServices",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Codazen",
+        "id": "8024d820-597d-41d3-b788-20dd2b2eaea4",
+        "title": "Full-Stack Engineer Summer 2025 New Grad",
+        "active": true,
+        "date_updated": 1727795737,
+        "date_posted": 1727795737,
+        "url": "https://boards.greenhouse.io/codazen/jobs/5338061004",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Codazen",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
