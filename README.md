@@ -62,6 +62,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **[Codazen](https://simplify.jobs/c/Codazen)** | Full-Stack Engineer Summer 2025 New Grad | Salt Lake City, UT | <a href="https://boards.greenhouse.io/codazen/jobs/5338061004?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/8024d820-597d-41d3-b788-20dd2b2eaea4?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Oct 01 |
 | **Accenture Federal Services** | Junior Software Developer | Huntsville, AL | 🔒 | Oct 01 |
 | **[Booz Allen](https://simplify.jobs/c/45cb775d-2ca3-49ea-810f-65334ec70079)** | Software Developer - Junior | McLean, VA | <a href="https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Software-Developer--Junior_R0206889-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/4c8c9e42-6a2b-4d1e-b99a-8c8c916b25cf?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Sep 30 |
 | **Snap Inc.** | Software Engineer – New Grad Engineer - Full Stack | Seattle, WA | 🔒 | Sep 26 |
