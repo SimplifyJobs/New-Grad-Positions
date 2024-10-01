@@ -19879,5 +19879,21 @@
         "company_url": "https://simplify.jobs/c/Smx",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Splunk",
+        "id": "b3cd2dc0-5c30-4527-abee-a408d1f0985f",
+        "title": "Fedramp Software Engineer \u2013 Early Career - Raleigh - NC - Jan 2025 or sooner start date ONLY",
+        "active": true,
+        "date_updated": 1727824595,
+        "date_posted": 1727824595,
+        "url": "https://jobs.jobvite.com/splunk-careers/job/ovBBufwV?nl=1&nl=1&fr=false",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Splunk",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
