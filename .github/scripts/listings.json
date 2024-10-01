@@ -19815,5 +19815,21 @@
         "company_url": "https://simplify.jobs/c/KLA",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Accenture Federal Services",
+        "id": "eaa3483e-9354-4e5a-b05c-1a0ed6257712",
+        "title": "Junior Software Developer",
+        "active": true,
+        "date_updated": 1727752415,
+        "date_posted": 1727752415,
+        "url": "https://boards.greenhouse.io/accenturefederalservices/jobs/4398469006",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/AccentureFederalServices",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
