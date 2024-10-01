@@ -19799,5 +19799,21 @@
         "company_url": "https://simplify.jobs/c/45cb775d-2ca3-49ea-810f-65334ec70079",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "KLA",
+        "id": "97057cba-e730-4b44-a093-b4377f13b939",
+        "title": "Software Engineer \u2013 C++ / New College Graduate",
+        "active": true,
+        "date_updated": 1727745838,
+        "date_posted": 1725927397,
+        "url": "https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Austin-TX/Software-Engineer--C-C-----Qt-_2424709-1",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/KLA",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
