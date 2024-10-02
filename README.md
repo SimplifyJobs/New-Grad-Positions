@@ -84,8 +84,8 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[Wyetech](https://simplify.jobs/c/Wyetech-LLC)** | Software Engineer 1 - Telework | Annapolis Junction, MD | <a href="https://jobs.lever.co/wyetechllc/b6553339-b2a7-4b91-ba56-ac3b8a18f337/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/ddb195bd-e5aa-491a-b877-2a6a11757ec8?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Sep 24 |
 | **Wyetech** | Software Engineer 0 | Annapolis Junction, MD | 🔒 | Sep 24 |
 | **Nominal** | Software Engineer – New Grad | Austin, TX | 🔒 | Sep 23 |
+| **Nominal** | Software Engineer – New Grad 🇺🇸 | LA | 🔒 | Sep 23 |
 | **Nominal** | Software Engineer – New Grad | NYC | 🔒 | Sep 23 |
-| **Nominal** | Software Engineer – New Grad | LA | 🔒 | Sep 23 |
 | **[Subsplash](https://simplify.jobs/c/Subsplash)** | Software Development Engineer I - Back-end | Remote in USA | <a href="https://boards.greenhouse.io/subsplash/jobs/7653784002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/edad236e-3134-4c79-b028-4f358e263660?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Sep 23 |
 | **Microsoft** | Software Engineer - Frontend | Redmond, WA | <a href="https://jobs.careers.microsoft.com/global/en/job/1771661/Software-Engineer---Frontend%2C-Redmond?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 23 |
 | **Bloomberg** | Software Engineer (New Grad) | New York, NY | 🔒 | Sep 23 |
