@@ -19895,5 +19895,23 @@
         "company_url": "https://simplify.jobs/c/Splunk",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1727859026,
+        "url": "https://careers.ibm.com/job/21000016/entry-level-back-end-developer-2025-remote/",
+        "company_name": "IBM",
+        "title": "Entry Level Back End Developer: 2025",
+        "locations": [
+            "Tucson, AZ",
+            "Austin, TX",
+            "San Jose, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "liamstamper",
+        "id": "59947027-cc64-493a-8efd-afc6d0096999",
+        "date_posted": 1727859026,
+        "company_url": "",
+        "is_visible": true
     }
 ]
