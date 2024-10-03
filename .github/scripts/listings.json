@@ -19929,5 +19929,21 @@
         "company_url": "https://simplify.jobs/c/Grand-Rounds",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "PolyAI",
+        "id": "1a84467e-5607-475f-80ae-9938c2d6d9b5",
+        "title": "Software Engineer \u2013 Graduate / Junior - Project - Must be in Toronto",
+        "active": true,
+        "date_updated": 1727939792,
+        "date_posted": 1727939792,
+        "url": "https://apply.workable.com/poly-ai/j/E2ED2F21C7/apply",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/PolyAI",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
