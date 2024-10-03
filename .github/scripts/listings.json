@@ -16461,7 +16461,7 @@
             "San Mateo, CA"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "source": "Simplify",
         "id": "997abd09-0ef6-4294-8f9c-3eb13c140d5d",
         "date_posted": 1724644330,
@@ -19220,7 +19220,7 @@
         "company_name": "GitHub",
         "id": "f84c07a1-2726-4b59-82df-2be684c240c0",
         "title": "Software Engineer I - Copilot",
-        "active": true,
+        "active": false,
         "date_updated": 1726601102,
         "date_posted": 1726601102,
         "url": "https://githubinc.jibeapply.com/jobs/3041?lang=en-us&icims=1",
