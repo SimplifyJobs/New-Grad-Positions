@@ -19977,5 +19977,38 @@
         "company_url": "https://simplify.jobs/c/Affirm",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NVIDIA",
+        "id": "34620c69-14aa-46d2-814a-23a053d3591e",
+        "title": "Software Engineer for Cloud Platforms \u2013 New College Graduate 2024 - Deep Learning Applications",
+        "active": true,
+        "date_updated": 1727997513,
+        "date_posted": 1727997513,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineer-for-Cloud-Platforms--Deep-Learning-Applications---New-College-Graduate-2024_JR1988779",
+        "locations": [
+            "Remote in USA",
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Capital One",
+        "id": "d0c6bf2e-e67e-494b-af52-2611c5dd70a2",
+        "title": "Associate \u2013 New Grad - Software Engineer - OR049161",
+        "active": true,
+        "date_updated": 1727997393,
+        "date_posted": 1727997393,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer---New-Grad--OR049161-_R195502",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Capital-One",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
