@@ -20026,5 +20026,37 @@
         "company_url": "https://simplify.jobs/c/Citylitics",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Uber",
+        "id": "ed67200c-e17b-47fe-bc16-1d1076bf3307",
+        "title": "Graduate 2024 Machine Learning Engineer I - San Francisco",
+        "active": true,
+        "date_updated": 1728070064,
+        "date_posted": 1728070064,
+        "url": "https://university-uber.icims.com/jobs/136141/job",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Uber",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Uber",
+        "id": "75b81ce3-05c5-4353-a2e8-a347710d20d7",
+        "title": "Graduate 2024 Software Engineer I - Tor",
+        "active": true,
+        "date_updated": 1728070062,
+        "date_posted": 1728070062,
+        "url": "https://university-uber.icims.com/jobs/136135/job",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Uber",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
