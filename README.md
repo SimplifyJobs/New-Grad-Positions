@@ -98,7 +98,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Nominal** | Software Engineer – New Grad | Austin, TX | 🔒 | Sep 23 |
 | **Nominal** | Software Engineer – New Grad 🇺🇸 | LA | 🔒 | Sep 23 |
 | **Nominal** | Software Engineer – New Grad | NYC | 🔒 | Sep 23 |
-| **[Subsplash](https://simplify.jobs/c/Subsplash)** | Software Development Engineer I - Back-end | Remote in USA | <a href="https://boards.greenhouse.io/subsplash/jobs/7653784002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/edad236e-3134-4c79-b028-4f358e263660?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Sep 23 |
 | **Microsoft** | Software Engineer - Frontend | Redmond, WA | <a href="https://jobs.careers.microsoft.com/global/en/job/1771661/Software-Engineer---Frontend%2C-Redmond?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 23 |
 | **Bloomberg** | Software Engineer (New Grad) | New York, NY | <a href="https://bloomberg.avature.net/careers/JobDetail/2025-Software-Engineer-New-York/6961?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 23 |
 | **Rocket Software** | Software Engineer I | Remote in UK | 🔒 | Sep 23 |
