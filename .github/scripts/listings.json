@@ -20010,5 +20010,21 @@
         "company_url": "https://simplify.jobs/c/Capital-One",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Citylitics",
+        "id": "fa5a36a9-0fbc-45bf-beac-f34757f70c86",
+        "title": "Junior Data Engineer",
+        "active": true,
+        "date_updated": 1728054587,
+        "date_posted": 1728054587,
+        "url": "https://apply.workable.com/citylitics/j/EF1E9FD739/apply",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Citylitics",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
