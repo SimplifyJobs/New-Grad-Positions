@@ -16277,15 +16277,15 @@
         "is_visible": true
     },
     {
-        "date_updated": 1725514561,
+        "date_updated": 1728076907,
         "url": "https://sentry.io/careers/6145443/",
         "company_name": "Sentry",
-        "title": "Software Engineer (New Grad)",
+        "title": "Software Engineer (New Grad)\t",
         "locations": [
             "San Francisco and Toronto and Vienna"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "ClamEater14",
         "id": "2639c4b6-6f70-4651-bc0e-86244459d878",
         "date_posted": 1722902527,
