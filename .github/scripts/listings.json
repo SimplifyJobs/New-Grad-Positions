@@ -20016,7 +20016,7 @@
         "company_name": "Citylitics",
         "id": "fa5a36a9-0fbc-45bf-beac-f34757f70c86",
         "title": "Junior Data Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1728054587,
         "date_posted": 1728054587,
         "url": "https://apply.workable.com/citylitics/j/EF1E9FD739/apply",
@@ -20054,6 +20054,55 @@
         "url": "https://university-uber.icims.com/jobs/136135/job",
         "locations": [
             "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Uber",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "ICF",
+        "id": "6aa24935-374d-41d7-bf2b-4cca40cc77fb",
+        "title": "Software Engineer \u2013 May 2025 Grad - Remote",
+        "active": true,
+        "date_updated": 1728070477,
+        "date_posted": 1728070477,
+        "url": "https://icf.wd5.myworkdayjobs.com/en-US/ICFExternal_Career_Site/job/Reston-VA/Software-Engineer--May-2025-Grad--Remote-_R2403844",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/750f50d0-c3f8-4334-822f-fb70fa81b529",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Uber",
+        "id": "b6d7783c-d86a-4694-8342-db1951ea4414",
+        "title": "Graduate 2024 Software Engineer I - Tor",
+        "active": true,
+        "date_updated": 1728070490,
+        "date_posted": 1728070490,
+        "url": "https://www.uber.com/global/en/careers/list/136135/",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Uber",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Uber",
+        "id": "eabff7f6-886e-407f-a155-f7a7338a349e",
+        "title": "Graduate 2024 Machine Learning Engineer I - San Francisco",
+        "active": true,
+        "date_updated": 1728070463,
+        "date_posted": 1728070463,
+        "url": "https://www.uber.com/global/en/careers/list/136141/",
+        "locations": [
+            "SF",
+            "Sunnyvale, CA"
         ],
         "company_url": "https://simplify.jobs/c/Uber",
         "is_visible": true,
