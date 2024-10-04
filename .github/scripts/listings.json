@@ -20107,5 +20107,54 @@
         "company_url": "https://simplify.jobs/c/Uber",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Anduril",
+        "id": "a762ecf1-4bf3-4753-a98f-3ce6232fc3bb",
+        "title": "Software Engineer \u2013 New Grad - Platform",
+        "active": true,
+        "date_updated": 1728083678,
+        "date_posted": 1728083678,
+        "url": "https://boards.greenhouse.io/andurilindustries/jobs/4533640007",
+        "locations": [
+            "Boston, MA",
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Anduril",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Anduril",
+        "id": "1f977e2c-4e99-48af-88fa-c667b25bf1d2",
+        "title": "Software Engineer \u2013 New Grad - Platform",
+        "active": true,
+        "date_updated": 1728083678,
+        "date_posted": 1728083678,
+        "url": "https://boards.greenhouse.io/andurilindustries/jobs/4533649007",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Anduril",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cerebras",
+        "id": "9c842cd2-23b7-49c6-a623-59a7e308948f",
+        "title": "Distributed Software Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1728083635,
+        "date_posted": 1728083635,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=6233230003",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cerebras-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
