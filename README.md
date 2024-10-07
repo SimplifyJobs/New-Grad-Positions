@@ -62,6 +62,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **[Qualtrics](https://simplify.jobs/c/Qualtrics)** | Software Engineer I - Statwing Products | Seattle, WA | <a href="https://www.qualtrics.com/careers/us/en/job/6306098?gh_jid=6306098&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/4e2f4fd4-2fa2-474f-89f6-709d2aaf2d79?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Oct 07 |
 | **Anduril** | Software Engineer – New Grad - Platform | Boston, MA</br>Seattle, WA | 🔒 | Oct 04 |
 | **Anduril** | Software Engineer – New Grad - Platform | Seattle, WA | 🔒 | Oct 04 |
 | **[Cerebras](https://simplify.jobs/c/Cerebras-Systems)** | Distributed Software Engineer – New Grad | Sunnyvale, CA | <a href="https://boards.greenhouse.io/embed/job_app?token=6233230003&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/9c842cd2-23b7-49c6-a623-59a7e308948f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Oct 04 |
