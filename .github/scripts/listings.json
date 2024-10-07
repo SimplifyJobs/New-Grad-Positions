@@ -19983,7 +19983,7 @@
         "company_name": "NVIDIA",
         "id": "34620c69-14aa-46d2-814a-23a053d3591e",
         "title": "Software Engineer for Cloud Platforms \u2013 New College Graduate 2024 - Deep Learning Applications",
-        "active": true,
+        "active": false,
         "date_updated": 1727997513,
         "date_posted": 1727997513,
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineer-for-Cloud-Platforms--Deep-Learning-Applications---New-College-Graduate-2024_JR1988779",
@@ -20170,6 +20170,22 @@
             "Seattle, WA"
         ],
         "company_url": "https://simplify.jobs/c/Qualtrics",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NVIDIA",
+        "id": "9b96fa4d-804c-4291-a78a-0a89edd67d24",
+        "title": "Software Engineer \u2013 New College Grad 2025 - Big Data",
+        "active": true,
+        "date_updated": 1728329844,
+        "date_posted": 1728329844,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineer--Big-Data---New-College-Grad-2025_JR1988904",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
         "is_visible": true,
         "sponsorship": "Other"
     }
