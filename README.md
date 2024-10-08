@@ -62,6 +62,8 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **[Codazen](https://simplify.jobs/c/Codazen)** | Full-Stack Engineer Summer 2025 New Grad | Irvine, CA | <a href="https://boards.greenhouse.io/codazen/jobs/5338060004?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/0866b4e3-6588-48bf-827f-7badd404a86d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Oct 08 |
+| **[Spotify](https://simplify.jobs/c/Spotify)** | Junior Backend Engineer - Content Catalog | London, UK | <a href="https://jobs.lever.co/spotify/934ede25-003a-4af6-84ee-a8dc5555f243/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/629cafe7-a191-416e-908a-fea248a8a65d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Oct 08 |
 | **Flexport** | Software Engineer I - Forwarding Applications | Bellevue, WA | 🔒 | Oct 07 |
 | **NVIDIA** | Software Engineer – New College Grad 2025 - Big Data | Santa Clara, CA | 🔒 | Oct 07 |
 | **[Qualtrics](https://simplify.jobs/c/Qualtrics)** | Software Engineer I - Statwing Products | Seattle, WA | <a href="https://www.qualtrics.com/careers/us/en/job/6306098?gh_jid=6306098&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/4e2f4fd4-2fa2-474f-89f6-709d2aaf2d79?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Oct 07 |
