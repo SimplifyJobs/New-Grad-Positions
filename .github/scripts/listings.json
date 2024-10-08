@@ -20204,5 +20204,37 @@
         "company_url": "https://simplify.jobs/c/Flexport",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Codazen",
+        "id": "0866b4e3-6588-48bf-827f-7badd404a86d",
+        "title": "Full-Stack Engineer Summer 2025 New Grad",
+        "active": true,
+        "date_updated": 1728429279,
+        "date_posted": 1728429279,
+        "url": "https://boards.greenhouse.io/codazen/jobs/5338060004",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Codazen",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Spotify",
+        "id": "629cafe7-a191-416e-908a-fea248a8a65d",
+        "title": "Junior Backend Engineer - Content Catalog",
+        "active": true,
+        "date_updated": 1728429166,
+        "date_posted": 1728429166,
+        "url": "https://jobs.lever.co/spotify/934ede25-003a-4af6-84ee-a8dc5555f243/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Spotify",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
