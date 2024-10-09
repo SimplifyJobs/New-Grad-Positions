@@ -20236,5 +20236,21 @@
         "company_url": "https://simplify.jobs/c/Spotify",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Universal Music Group",
+        "id": "ef49b34d-77ae-491e-84f6-48ac4b8636ea",
+        "title": "Junior Software Developer",
+        "active": true,
+        "date_updated": 1728486818,
+        "date_posted": 1728486818,
+        "url": "https://umusic.wd5.myworkdayjobs.com/en-US/UMGUS/job/New-York-New-York/Junior-Software-Developer_UMG-17506",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Universal-Music-Group",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
