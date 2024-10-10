@@ -73,7 +73,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[Cerebras](https://simplify.jobs/c/Cerebras-Systems)** | Distributed Software Engineer – New Grad | Sunnyvale, CA | <a href="https://boards.greenhouse.io/embed/job_app?token=6233230003&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/9c842cd2-23b7-49c6-a623-59a7e308948f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Oct 04 |
 | **Uber** | Graduate 2024 Software Engineer I - Tor | Toronto, ON, Canada | 🔒 | Oct 04 |
 | **ICF** | Software Engineer – May 2025 Grad - Remote | Remote in USA | 🔒 | Oct 04 |
-| **[Uber](https://simplify.jobs/c/Uber)** | Graduate 2024 Machine Learning Engineer I - San Francisco | SF</br>Sunnyvale, CA | <a href="https://www.uber.com/global/en/careers/list/136141/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/eabff7f6-886e-407f-a155-f7a7338a349e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Oct 04 |
+| **Uber** | Graduate 2024 Machine Learning Engineer I - San Francisco | SF</br>Sunnyvale, CA | 🔒 | Oct 04 |
 | **Uber** | Graduate 2024 Machine Learning Engineer I - San Francisco | SF | 🔒 | Oct 04 |
 | **Uber** | Graduate 2024 Software Engineer I - Tor | Toronto, ON, Canada | 🔒 | Oct 04 |
 | **Citylitics** | Junior Data Engineer | Toronto, ON, Canada | 🔒 | Oct 04 |
