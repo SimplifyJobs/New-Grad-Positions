@@ -20252,5 +20252,37 @@
         "company_url": "https://simplify.jobs/c/Universal-Music-Group",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wyetech",
+        "id": "643175cd-43b8-4c5e-8691-d623397f1d4b",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1728601731,
+        "date_posted": 1728601731,
+        "url": "https://jobs.lever.co/wyetechllc/c69b37d1-9955-47f9-8834-c91126a82a2f/apply",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Wyetech-LLC",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Nuro",
+        "id": "153be694-5eb6-4293-9218-0872ae77490a",
+        "title": "Software Engineer \u2013 New Grad - Autonomy",
+        "active": true,
+        "date_updated": 1728601751,
+        "date_posted": 1728601751,
+        "url": "https://nuro.ai/careersitem?gh_jid=6299078",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Nuro",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
