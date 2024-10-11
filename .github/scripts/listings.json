@@ -20364,5 +20364,53 @@
         "company_url": "https://simplify.jobs/c/Pax8",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Visa",
+        "id": "04fc622e-bf02-4310-af04-5658fbee7856",
+        "title": "Data Engineer \u2013 New College Grad",
+        "active": true,
+        "date_updated": 1728675724,
+        "date_posted": 1728675724,
+        "url": "https://jobs.smartrecruiters.com/Visa/744000019949715",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Visa",
+        "id": "f7eb80c8-14f5-4d92-8b76-808114ec9dfd",
+        "title": "Software Engineer \u2013 New College Grad - 2025",
+        "active": true,
+        "date_updated": 1728675707,
+        "date_posted": 1728675707,
+        "url": "https://jobs.smartrecruiters.com/Visa/744000019955129",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Visa",
+        "id": "c8f96181-d56f-499c-adfd-8f15133efcf3",
+        "title": "Software Engineer \u2013 New College Grad - 2025",
+        "active": true,
+        "date_updated": 1728675709,
+        "date_posted": 1728675709,
+        "url": "https://jobs.smartrecruiters.com/Visa/744000019958465",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
