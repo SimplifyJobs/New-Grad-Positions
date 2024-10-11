@@ -92,6 +92,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Codazen** | Full-Stack Engineer Summer 2025 New Grad | Salt Lake City, UT | 🔒 | Oct 01 |
 | **Accenture Federal Services** | Junior Software Developer | Huntsville, AL | 🔒 | Oct 01 |
 | **[Booz Allen](https://simplify.jobs/c/45cb775d-2ca3-49ea-810f-65334ec70079)** | Software Developer - Junior | McLean, VA | <a href="https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Software-Developer--Junior_R0206889-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/4c8c9e42-6a2b-4d1e-b99a-8c8c916b25cf?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Sep 30 |
+| **[AQR Capital Management](https://simplify.jobs/c/AQR-Capital-Management)** | Junior Software Engineer-Quantitative Research | Greenwich, CT | <a href="https://careers.aqr.com/jobs?gh_jid=6283929&gh_jid=6283929&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/fadb6bc7-4525-468a-8ab9-57c9ef9edda6?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Sep 30 |
 | **Snap Inc.** | Software Engineer – New Grad Engineer - Full Stack | Seattle, WA | 🔒 | Sep 26 |
 | **Chime** | Software Engineer – New Grad - Pay Anyone | SF | 🔒 | Sep 26 |
 | **Sumo Logic** | Software Engineer I - Mle | Remote in USA | 🔒 | Sep 26 |
@@ -180,7 +181,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[Pylon](https://simplify.jobs/c/Pylon)** | New grad – Software Engineer | SF | <a href="https://jobs.ashbyhq.com/pylon-labs/ecf0d509-cfb9-43c6-b628-1e685d6f5f42/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/f2019b56-ba55-41fa-af52-f5aa7dad80a6?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Sep 05 |
 | **ServiceNow** | Utg – New College Grad - Software Engineer | Santa Clara, CA | 🔒 | Sep 05 |
 | **Anyscale** | Software Engineer – New Grad 2025 | SF | 🔒 | Sep 05 |
-| **[PolicyMe](https://simplify.jobs/c/PolicyMe)** | Junior Software Engineer - Remote | Remote in Canada | <a href="https://jobs.lever.co/policyme/b6b41cf8-fd9f-48d8-864c-671b53fc7042/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/93dd032c-b3c0-454e-a0c3-b596dc8ca533?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Sep 04 |
+| **PolicyMe** | Junior Software Engineer - Remote | Remote in Canada | 🔒 | Sep 04 |
 | **Trustpilot** | Software Engineer I - API Platform | Edinburgh, UK | 🔒 | Sep 04 |
 | **Trustpilot** | Software Engineer I - API Platform | London, UK | 🔒 | Sep 04 |
 | **Wyetech LLC** | Software Engineer 1 | Odenton, MD | 🔒 | Sep 04 |
