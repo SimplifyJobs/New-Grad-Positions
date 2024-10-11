@@ -20300,5 +20300,69 @@
         "company_url": "https://simplify.jobs/c/AQR-Capital-Management",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Geico",
+        "id": "908568fa-58e7-461e-9d13-d93b4696cfaf",
+        "title": "Engineer I - Software Engineer",
+        "active": true,
+        "date_updated": 1728342931,
+        "date_posted": 1728342931,
+        "url": "https://geico.wd1.myworkdayjobs.com/en-US/External/job/Chevy-Chase-MD/Engineer-I--Software-Engineer_R0053497",
+        "locations": [
+            "Bethesda, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/b434eb6a-7cce-433f-b2a0-7accd4280dce",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Redhorse",
+        "id": "9dfcf51a-363b-4539-a6a2-8742858bf03f",
+        "title": "Junior Data Scientist",
+        "active": true,
+        "date_updated": 1728156652,
+        "date_posted": 1728156652,
+        "url": "https://jobs.lever.co/redhorsecorp/c5dcf08a-943b-432f-8dfe-4d441710b077/apply",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Redhorse",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "DV Trading",
+        "id": "9f73ebc2-717c-47ee-a630-ed3ff5aade38",
+        "title": "Junior Quantitative Developer",
+        "active": true,
+        "date_updated": 1726801881,
+        "date_posted": 1726801881,
+        "url": "https://boards.greenhouse.io/dvtrading/jobs/4475499005",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/DV-Trading",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Pax8",
+        "id": "0475d339-069e-46be-aed1-8b2f9f000ead",
+        "title": "Data Engineer I",
+        "active": true,
+        "date_updated": 1727897502,
+        "date_posted": 1724455309,
+        "url": "https://www.pax8.com/en-us/careers/job-openings?gh_jid=4694725004",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Pax8",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
