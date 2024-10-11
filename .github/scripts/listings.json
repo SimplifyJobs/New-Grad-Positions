@@ -17345,7 +17345,7 @@
         "company_name": "NetSage",
         "id": "c93b711c-b6f0-4772-b745-99b461a980da",
         "title": "Software Engineer-Junior",
-        "active": true,
+        "active": false,
         "date_updated": 1696460749,
         "date_posted": 1696460749,
         "url": "https://boards.greenhouse.io/netsage/jobs/5737726003",
@@ -18181,7 +18181,7 @@
         "company_name": "PolicyMe",
         "id": "93dd032c-b3c0-454e-a0c3-b596dc8ca533",
         "title": "Junior Software Engineer - Remote",
-        "active": true,
+        "active": false,
         "date_updated": 1725494244,
         "date_posted": 1725494244,
         "url": "https://jobs.lever.co/policyme/b6b41cf8-fd9f-48d8-864c-671b53fc7042/apply",
@@ -20282,6 +20282,22 @@
             "Mountain View, CA"
         ],
         "company_url": "https://simplify.jobs/c/Nuro",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "AQR Capital Management",
+        "id": "fadb6bc7-4525-468a-8ab9-57c9ef9edda6",
+        "title": "Junior Software Engineer-Quantitative Research",
+        "active": true,
+        "date_updated": 1727723719,
+        "date_posted": 1727723719,
+        "url": "https://careers.aqr.com/jobs?gh_jid=6283929&gh_jid=6283929",
+        "locations": [
+            "Greenwich, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/AQR-Capital-Management",
         "is_visible": true,
         "sponsorship": "Other"
     }
