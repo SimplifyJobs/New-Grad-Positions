@@ -355,7 +355,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Arsiem Corporation** | Software Engineer 1 | Annapolis Junction, MD | 🔒 | May 23 |
 | **Magna** | Software Engineer – New Grad | NYC | 🔒 | May 21 |
 | **Trustpilot** | Software Engineer I - API Platform | London, UK | 🔒 | May 21 |
-| **NewsBreak** | Software Engineer – Junior & New Grad | Mountain View, CA | 🔒 | May 20 |
+| **[NewsBreak](https://simplify.jobs/c/NewsBreak)** | Software Engineer – Junior & New Grad | Mountain View, CA | <a href="https://boards.greenhouse.io/newsbreak/jobs/4054592006?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/1d8e7ec9-fef4-48da-9a60-c4c37d0b3cbc?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | May 20 |
 | **Arsiem Corporation** | Software Engineer 1 | Annapolis Junction, MD | 🔒 | May 17 |
 | **Veeva Systems** | Associate Software Engineer – Seeking 2024 Grads | Toronto, ON, Canada | 🔒 | May 15 |
 | **Arsiem Corporation** | Software Engineer 1 | Annapolis Junction, MD | 🔒 | May 15 |
