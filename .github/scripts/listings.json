@@ -20428,5 +20428,23 @@
         "company_url": "https://simplify.jobs/c/727e9c32-2e2f-4325-819c-ef2ee50dffdb",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Amazon",
+        "id": "d40e0f4e-d1c1-4166-9069-9ce9c399ed0e",
+        "title": "2025 Graduate Software Dev Engineer",
+        "active": true,
+        "date_updated": 1728919073,
+        "date_posted": 1728919073,
+        "url": "https://amazon.jobs/en/jobs/2804113/2025-graduate-software-dev-engineer",
+        "locations": [
+            "London, UK",
+            "Edinburgh, UK",
+            "Cambridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
