@@ -20479,5 +20479,21 @@
         "company_url": "https://simplify.jobs/c/Floqast",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Splunk",
+        "id": "f2367b5a-f837-4457-b707-c2e1d40c31c0",
+        "title": "C++ Software Engineer \u2013 Early Career - Boulder - CO - January 2025 or sooner start date",
+        "active": true,
+        "date_updated": 1729005628,
+        "date_posted": 1729005628,
+        "url": "https://jobs.jobvite.com/splunk-careers/job/oFXGufww?nl=1&nl=1&fr=false",
+        "locations": [
+            "Boulder, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Splunk",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
