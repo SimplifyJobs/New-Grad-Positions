@@ -19869,7 +19869,7 @@
         "company_name": "SMX",
         "id": "efdb49dd-cee5-4049-bca9-01d77d755cf3",
         "title": "Junior Software Engineer - Ts/Sci CI Poly",
-        "active": false,
+        "active": true,
         "date_updated": 1727811030,
         "date_posted": 1727811030,
         "url": "https://www.smxtech.com/careers/?gh_jid=6228060003",
@@ -20418,7 +20418,7 @@
         "company_name": "Horace Mann",
         "id": "d0a3bf31-838e-4442-8a25-1472c6ee5117",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1728688427,
         "date_posted": 1728688427,
         "url": "https://boards.greenhouse.io/horacemannservicecorporation/jobs/5346297004",
@@ -20493,6 +20493,55 @@
             "Boulder, CO"
         ],
         "company_url": "https://simplify.jobs/c/Splunk",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Adobe",
+        "id": "35ccc7c7-f8eb-4fae-b5e5-84d4aaa7a099",
+        "title": "2025 University Graduate - Software Development Engineer",
+        "active": true,
+        "date_updated": 1729048479,
+        "date_posted": 1729048479,
+        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2025-University-Graduate---Software-Development-Engineer_R148212",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Adobe",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Adobe",
+        "id": "c603fa56-d5a1-4d1c-8589-376a3e45314d",
+        "title": "2025 University Graduate - Software Development Engineer",
+        "active": true,
+        "date_updated": 1729048515,
+        "date_posted": 1729048515,
+        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Seattle/XMLNAME-2025-University-Graduate---Software-Development-Engineer_R148211",
+        "locations": [
+            "Seattle, WA",
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Adobe",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Koddi",
+        "id": "57b25b8b-3f5f-46f8-8833-e9f3861eb2cc",
+        "title": "Junior Software Engineer Cohort",
+        "active": true,
+        "date_updated": 1729089016,
+        "date_posted": 1729005028,
+        "url": "https://jobs.lever.co/koddi/5d813cad-bb0d-46cc-b3e4-32b0307cb3b5/apply",
+        "locations": [
+            "Fort Worth, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Koddi",
         "is_visible": true,
         "sponsorship": "Other"
     }
