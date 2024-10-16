@@ -20560,5 +20560,21 @@
         "company_url": "https://simplify.jobs/c/WeRide",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "ManTech",
+        "id": "4867ce68-7b8a-4cb5-9f3f-858ae6cefee6",
+        "title": "Junior Software Engineer",
+        "active": true,
+        "date_updated": 1729120494,
+        "date_posted": 1729120494,
+        "url": "https://mantech.wd1.myworkdayjobs.com/en-US/External/job/USA-VA-Chantilly/Junior-Software-Engineer_R55970",
+        "locations": [
+            "Chantilly, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/c6651565-44c8-4050-8412-111c54942390",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
