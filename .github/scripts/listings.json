@@ -20544,5 +20544,21 @@
         "company_url": "https://simplify.jobs/c/Koddi",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "WeRide",
+        "id": "89936ca8-3004-4613-9cbc-677a399096c9",
+        "title": "New Grads 2025 - Software Engineer - Computer Vision/Deep Learning",
+        "active": true,
+        "date_updated": 1729107845,
+        "date_posted": 1729107845,
+        "url": "https://jobs.lever.co/weride/871b07f9-b4e4-4a4e-a5ec-d6adf794fc5a/apply",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/WeRide",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
