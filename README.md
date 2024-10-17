@@ -155,7 +155,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Wyetech LLC** | Software Engineer 1 - Telework Available | Annapolis Junction, MD | 🔒 | Sep 12 |
 | **Jerry** | Software Engineer I - Palo Alto | Palo Alto, CA | 🔒 | Sep 12 |
 | **[Tencent](https://simplify.jobs/c/Tencent)** | Security Software Engineer I | Palo Alto, CA | <a href="https://tencent.wd1.myworkdayjobs.com/en-US/Tencent_Careers/job/US-Palo-Alto/Security-Engineer-I_R103856?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/2fe87416-59d9-4125-ae96-47b609f83c15?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Sep 12 |
-| **[Chime](https://simplify.jobs/c/Chime)** | Software Engineer-New Grad - For Fall 2024 Event Attendees | SF | <a href="https://boards.greenhouse.io/chime/jobs/7626713002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/37ddb0b1-17d9-4b43-b1ca-15fa8da3652d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Sep 11 |
+| **Chime** | Software Engineer-New Grad - For Fall 2024 Event Attendees | SF | 🔒 | Sep 11 |
 | **Alto Pharmacy** | Early Career Software Engineer 🛂 | Remote in USA | 🔒 | Sep 11 |
 | **KLA** | Software Engineer – New College Grad | Milpitas, CA | 🔒 | Sep 11 |
 | **Adobe** | Software Engineer - University Graduate 2025 | New York, NY | 🔒 | Sep 11 |
