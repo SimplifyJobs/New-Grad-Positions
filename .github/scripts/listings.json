@@ -20274,7 +20274,7 @@
         "company_name": "Nuro",
         "id": "153be694-5eb6-4293-9218-0872ae77490a",
         "title": "Software Engineer \u2013 New Grad - Autonomy",
-        "active": false,
+        "active": true,
         "date_updated": 1728601751,
         "date_posted": 1728601751,
         "url": "https://nuro.ai/careersitem?gh_jid=6299078",
@@ -20590,6 +20590,38 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Signify-Health",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Adobe",
+        "id": "8b5d1fb6-7fb9-46cc-924b-20bb30760d1a",
+        "title": "2025 University Graduate - Software Engineer",
+        "active": true,
+        "date_updated": 1729206955,
+        "date_posted": 1729206955,
+        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2025-University-Graduate---Software-Engineer_R149900",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Adobe",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Splunk",
+        "id": "b0fd6eaf-786c-45d9-b69f-581af5d25cd9",
+        "title": "Fedramp Software Engineer \u2013 Early Career - Boulder - CO - Jan 2025 Start - US Citizens ONLY",
+        "active": true,
+        "date_updated": 1729207092,
+        "date_posted": 1729207092,
+        "url": "https://jobs.jobvite.com/splunk-careers/job/oINFufwo?nl=1&nl=1&fr=false",
+        "locations": [
+            "Boulder, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Splunk",
         "is_visible": true,
         "sponsorship": "Other"
     }
