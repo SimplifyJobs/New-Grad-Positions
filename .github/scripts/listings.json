@@ -20576,5 +20576,21 @@
         "company_url": "https://simplify.jobs/c/c6651565-44c8-4050-8412-111c54942390",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Signify Health",
+        "id": "3af3c77c-4b58-45b6-be27-a4e679ce9243",
+        "title": "Data Software Engineer I",
+        "active": true,
+        "date_updated": 1729206854,
+        "date_posted": 1729206854,
+        "url": "https://job-boards.greenhouse.io/signifyhealth/jobs/6243091003",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Signify-Health",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
