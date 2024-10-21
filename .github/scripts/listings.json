@@ -20640,5 +20640,53 @@
         "company_url": "https://simplify.jobs/c/Grand-Rounds",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Samsara",
+        "id": "87cd4482-91d7-4f32-819b-f5e8bd26472b",
+        "title": "Software Engineer \u2013 New Grad - Canada",
+        "active": true,
+        "date_updated": 1729539578,
+        "date_posted": 1729539578,
+        "url": "https://www.samsara.com/company/careers/roles/6340273?gh_jid=6340273",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Samsara",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Samsara",
+        "id": "f095768b-40f5-45a6-bc3b-dc38eea33fbf",
+        "title": "Software Engineer \u2013 New Grad - US",
+        "active": true,
+        "date_updated": 1729539579,
+        "date_posted": 1729539579,
+        "url": "https://www.samsara.com/company/careers/roles/6294998?gh_jid=6294998",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Samsara",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Old Mission",
+        "id": "6ba52774-13e1-4628-9de9-01246e98bbdb",
+        "title": "College Graduates - Full-Time - Junior Full-Stack Engineer - 2025",
+        "active": true,
+        "date_updated": 1729539610,
+        "date_posted": 1729539610,
+        "url": "https://www.oldmissioncapital.com/careers/?gh_jid=6113554003",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Old-Mission",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
