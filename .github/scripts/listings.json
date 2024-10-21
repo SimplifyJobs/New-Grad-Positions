@@ -20688,5 +20688,21 @@
         "company_url": "https://simplify.jobs/c/Old-Mission",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Palantir",
+        "id": "0bda1e84-c2f2-4ae4-8dd9-d8f66e3e1827",
+        "title": "Forward Deployed Software Engineer \u2013 New Grad - US Government",
+        "active": true,
+        "date_updated": 1729552126,
+        "date_posted": 1729552126,
+        "url": "https://jobs.lever.co/palantir/c42d2ce1-3e10-4c74-afc6-7d4cd82d2ce3/apply",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
