@@ -20704,5 +20704,24 @@
         "company_url": "https://simplify.jobs/c/Palantir",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "HeyGen",
+        "id": "d77772a3-fe1a-4758-be2e-00c66afa4864",
+        "title": "Software Engineer \u2013 University Graduate",
+        "active": true,
+        "date_updated": 1729627485,
+        "date_posted": 1729627485,
+        "url": "https://job-boards.greenhouse.io/heygen/jobs/4546885007",
+        "locations": [
+            "Palo Alto, CA",
+            "Toronto, ON, Canada",
+            "SF",
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/HeyGen",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
