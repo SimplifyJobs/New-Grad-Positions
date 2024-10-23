@@ -20723,5 +20723,21 @@
         "company_url": "https://simplify.jobs/c/HeyGen",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NVIDIA",
+        "id": "b674d428-36bd-48f7-ab19-dce59b10da0a",
+        "title": "System Software Engineer \u2013 New College Grad 2024 - CUDA Driver",
+        "active": true,
+        "date_updated": 1729726618,
+        "date_posted": 1729726618,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/System-Software-Engineer---CUDA-Driver---New-College-Grad-2024_JR1989948",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
