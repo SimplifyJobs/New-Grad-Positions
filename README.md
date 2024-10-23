@@ -127,7 +127,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **ManTech** | Junior Software Engineer | Chantilly, VA | 🔒 | Sep 25 |
 | **Flashpoint** | Software Engineer I - Collections | Remote in Canada | 🔒 | Sep 25 |
 | **The Walt Disney Company** | Software Engineer I | Seattle, WA | 🔒 | Sep 25 |
-| **[NVIDIA](https://simplify.jobs/c/NVIDIA)** | Compiler Engineer – New College Grad 2024 - LLVM | Austin, TX</br>Redmond, WA</br>Santa Clara, CA | <a href="https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Compiler-Engineer--LLVM---New-College-Grad-2024_JR1988112?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/0365c6ff-064f-42b8-92a3-b85c6ff96158?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Sep 25 |
+| **NVIDIA** | Compiler Engineer – New College Grad 2024 - LLVM | Austin, TX</br>Redmond, WA</br>Santa Clara, CA | 🔒 | Sep 25 |
 | **Wyetech** | Software Engineer 1 | Annapolis Junction, MD | 🔒 | Sep 24 |
 | **Wyetech** | Software Engineer 1 - Telework | Annapolis Junction, MD | 🔒 | Sep 24 |
 | **Wyetech** | Software Engineer 0 | Annapolis Junction, MD | 🔒 | Sep 24 |
