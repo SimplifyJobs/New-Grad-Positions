@@ -20739,5 +20739,21 @@
         "company_url": "https://simplify.jobs/c/NVIDIA",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Sprocket Security",
+        "id": "b0ecff71-3064-421c-9ee3-b663c1cc5f60",
+        "title": "Software Engineer - Early Careers",
+        "active": true,
+        "date_updated": 1727320504,
+        "date_posted": 1727320504,
+        "url": "https://www.sprocketsecurity.com/company/careers/apply?gh_jid=4133296008",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/38830c5c-616a-4e08-be48-d4ce6c915024",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
