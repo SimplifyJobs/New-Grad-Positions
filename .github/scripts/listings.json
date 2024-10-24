@@ -20787,5 +20787,21 @@
         "company_url": "https://simplify.jobs/c/Squarespace",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "DoorDash",
+        "id": "5edec334-b85d-4c7f-98ed-2b4a890c45cc",
+        "title": "Software Engineer I \u2013 Entry Level - Fall 2024-Summer 2025 - Toronto",
+        "active": true,
+        "date_updated": 1729811488,
+        "date_posted": 1729811488,
+        "url": "https://boards.greenhouse.io/doordashcanada/jobs/6346397",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/DoorDash",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
