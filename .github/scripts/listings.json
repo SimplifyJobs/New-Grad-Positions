@@ -10542,7 +10542,7 @@
         "company_name": "Vatic Investments",
         "id": "23894828-e082-4590-b0bf-b6af86ba42b1",
         "title": "Quantitative Researcher \u2013 2025 Grads - Full Time",
-        "active": true,
+        "active": false,
         "date_updated": 1718696789,
         "date_posted": 1718696789,
         "url": "https://boards.greenhouse.io/vaticlabs/jobs/53549",
@@ -20729,7 +20729,7 @@
         "company_name": "NVIDIA",
         "id": "b674d428-36bd-48f7-ab19-dce59b10da0a",
         "title": "System Software Engineer \u2013 New College Grad 2024 - CUDA Driver",
-        "active": true,
+        "active": false,
         "date_updated": 1729726618,
         "date_posted": 1729726618,
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/System-Software-Engineer---CUDA-Driver---New-College-Grad-2024_JR1989948",
@@ -20753,6 +20753,38 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/38830c5c-616a-4e08-be48-d4ce6c915024",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Brain Corp",
+        "id": "7467423e-7604-4178-9ca8-6686818a79d1",
+        "title": "Software Engineer I - Applied Machine Learning",
+        "active": true,
+        "date_updated": 1729799278,
+        "date_posted": 1729799278,
+        "url": "https://boards.greenhouse.io/braincorporation/jobs/7639331002",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Brain-Corp",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Squarespace",
+        "id": "643194f5-5c67-4669-91d0-657d256ec202",
+        "title": "Software Engineer \u2013 New Graduate - Java",
+        "active": true,
+        "date_updated": 1729799214,
+        "date_posted": 1729799214,
+        "url": "http://www.squarespace.com/about/careers?gh_jid=6283547",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Squarespace",
         "is_visible": true,
         "sponsorship": "Other"
     }
