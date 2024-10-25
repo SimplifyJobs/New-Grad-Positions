@@ -20064,7 +20064,7 @@
         "company_name": "ICF",
         "id": "6aa24935-374d-41d7-bf2b-4cca40cc77fb",
         "title": "Software Engineer \u2013 May 2025 Grad - Remote",
-        "active": false,
+        "active": true,
         "date_updated": 1728070477,
         "date_posted": 1728070477,
         "url": "https://icf.wd5.myworkdayjobs.com/en-US/ICFExternal_Career_Site/job/Reston-VA/Software-Engineer--May-2025-Grad--Remote-_R2403844",
@@ -20799,6 +20799,26 @@
         "url": "https://boards.greenhouse.io/doordashcanada/jobs/6346397",
         "locations": [
             "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/DoorDash",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "DoorDash",
+        "id": "ac5b0ba5-ed4f-491a-9387-c354e4661e2f",
+        "title": "Software Engineer I - Entry-Level - Graduation Date: Fall 2024-Summer 2025",
+        "active": true,
+        "date_updated": 1729811575,
+        "date_posted": 1729811575,
+        "url": "https://boards.greenhouse.io/doordashusa/jobs/6330949",
+        "locations": [
+            "Seattle, WA",
+            "SF",
+            "LA",
+            "NYC",
+            "Sunnyvale, CA"
         ],
         "company_url": "https://simplify.jobs/c/DoorDash",
         "is_visible": true,
