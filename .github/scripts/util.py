@@ -31,8 +31,8 @@ CATEGORIES = {
 }
 
 def setOutput(key, value):
-    with open('README.md', 'a') as readme:
-        print(f'{key}={value}', file=readme)
+    with open(os.environ['GITHUB_OUTPUT'], 'a') as fh:
+        print(f'{key}={value}', file=fh)
 
 def fail(why):
     setOutput("error_message", why)
