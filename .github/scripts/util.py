@@ -106,17 +106,6 @@ def create_md_table(listings):
 
     return table
 
-def filterListings(listings, earliest_date):
-    final_listings = []
-    inclusion_terms = ["software eng", "software dev", "data scientist", "data engineer", "founding eng", "research eng", "product manage", "apm", "frontend", "front end", "front-end", "backend", "back end", "full-stack", "full stack", "full-stack", "devops", "android", "ios", "mobile dev", "sre", "site reliability eng", "quantitative trad", "quantitative research", "quantitative trad", "quantitative dev", "security eng", "compiler eng", "machine learning eng", "infrastructure eng"]
-    new_grad_terms = ["new grad", "early career", "college grad", "entry level", "founding", "early in career", "university grad", "fresh grad", "2024 grad", "2025 grad", "engineer 0", "engineer 1", "engineer i ", "junior", "sde 1", "sde i"]
-    for listing in listings:
-        if listing["is_visible"] and listing["date_posted"] > earliest_date:
-            if listing['source'] != "Simplify" or (any(term in listing["title"].lower() for term in inclusion_terms) and (any(term in listing["title"].lower() for term in new_grad_terms) or (listing["title"].lower().endswith("engineer i")))):
-                final_listings.append(listing)
-
-    return final_listings
-
 def getListingsFromJSON(filename=".github/scripts/listings.json"):
     with open(filename) as f:
         listings = json.load(f)
@@ -167,27 +156,15 @@ def ensureCategories(listings):
             listing["category"] = classifyJobCategory(listing)
     return listings
 
-def embedTable(listings):
-    print(f"Total listings before filtering: {len(listings)}")
-    
-    # Ensure all listings have a category
-    listings = ensureCategories(listings)
-    print(f"Categories assigned: {[l['category'] for l in listings[:5]]}...")
-    
-    # Calculate active count and category counts
-    active_listings = filter_active(listings)
-    print(f"Active listings: {len(active_listings)}")
-    
-    # Count active listings per category
+def embedTable(listings):    
+    listings = ensureCategories(listings)    
+    active_listings = filter_active(listings)    
     category_counts = {}
     for category_info in CATEGORIES.values():
         count = len([l for l in active_listings if l["category"] == category_info["name"]])
         category_counts[category_info["name"]] = count
-        print(f"{category_info['name']}: {count}")
     
-    total_active = len(active_listings)
-    print(f"Total active: {total_active}")
-    
+    total_active = len(active_listings)    
     # Create category links with counts using correct anchor formats and emojis
     category_links = []
     for category_info in CATEGORIES.values():
@@ -201,8 +178,6 @@ def embedTable(listings):
     in_browse_section = False
     browse_section_replaced = False
     in_table_section = False
-    table_section_replaced = False
-    added_blockquote = False
     
     with open(filepath, "r") as f:
         for line in f.readlines():
