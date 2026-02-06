@@ -144986,7 +144986,7 @@
         "company_name": "Dave & Busters",
         "id": "34c2d164-7dd4-435a-ac9e-0ca009d30b3a",
         "title": "Game Support Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1764498800,
         "date_posted": 1764498800,
         "url": "https://daveandbusters.wd1.myworkdayjobs.com/dave_and_busters_careers/job/Lehigh-Valley-PA/Game-Support-Technician_R-1008102",
@@ -161144,7 +161144,7 @@
         "company_name": "Bonneville International",
         "id": "ce220279-6ca0-455f-9dd3-9b7979491f00",
         "title": "Product Manager 1 - KSL.com",
-        "active": true,
+        "active": false,
         "date_updated": 1768346310,
         "date_posted": 1768346310,
         "url": "https://deseretmanagement.wd1.myworkdayjobs.com/BonSaltLake/job/SLC-Triad-Center/Product-Manager-I--KSLcom_R7860",
@@ -197367,7 +197367,7 @@
         "company_name": "Sainsbury's",
         "id": "f90a71e9-dfe1-46f0-9e38-c9dc4b275168",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1770333349,
         "date_posted": 1770333349,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048376",
@@ -198582,7 +198582,7 @@
         "company_name": "Sainsbury's",
         "id": "86346f56-4dbd-4584-8d7b-d753dd0ffdaf",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1770361748,
         "date_posted": 1770361748,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048438",
@@ -198765,6 +198765,28 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "United Parcel Service (UPS)",
+        "id": "9f817159-bf21-4594-9a6b-f0fb95f27df6",
+        "title": "Intermediate / Senior AI Engineer - Python - Rag",
+        "active": true,
+        "date_updated": 1770117149,
+        "date_posted": 1769673546,
+        "url": "https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/IN---TDC-1-IN110/Intermediate---Senior-AI-Engineer---Python--RAG--Agentic-AI--ADK--MCP--GCP--Vertex-AI--IBM-Watsonx_R26002515",
+        "locations": [
+            "Indiana"
+        ],
+        "company_url": "https://simplify.jobs/c/United-Parcel-Service",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     }
 ]
