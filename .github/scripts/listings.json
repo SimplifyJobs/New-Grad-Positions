@@ -186471,7 +186471,7 @@
         "company_name": "RTX",
         "id": "73df5cff-7c3a-4d21-ae3c-c75a9096c4ba",
         "title": "2026 Full-time - Software Engineer II",
-        "active": true,
+        "active": false,
         "date_updated": 1769758967,
         "date_posted": 1769758967,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/XMLNAME-2026-Full-time---Software-Engineer-II---Onsite--AZ-_01820536",
@@ -196848,7 +196848,7 @@
         "company_name": "Close",
         "id": "8108763f-a11c-41ab-b39b-dcb796a6d941",
         "title": "Support Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1770304713,
         "date_posted": 1770304713,
         "url": "https://jobs.ashbyhq.com/Close/70a235e8-230f-492c-bb34-5559fe648298/application",
@@ -198651,5 +198651,64 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "3ca0649c-047b-4070-ae70-61ab26b32828",
+        "title": "Senior Associate - Software Engineer",
+        "active": true,
+        "date_updated": 1770304631,
+        "date_posted": 1770304631,
+        "url": "https://jobs.l3harris.com/job/Salt-Lake-City-Sr-Associate,-Software-Engineer-(Salt-Lake-City,-UT)-UT-84116/1316696500/?ats=successfactors",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Saviynt",
+        "id": "6eae0139-971e-4154-ad6d-259e34aba765",
+        "title": "Principal Software Engineer - Requests",
+        "active": true,
+        "date_updated": 1765444442,
+        "date_posted": 1763511665,
+        "url": "https://jobs.lever.co/saviynt/341f7de9-3cec-4917-aec6-9ac9c5f2b7d9/apply",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Saviynt",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Peraton",
+        "id": "a8c3ea34-c051-434a-8817-bccdf2d17c6c",
+        "title": "Technician 1 - Electronic",
+        "active": true,
+        "date_updated": 1770371754,
+        "date_posted": 1757726812,
+        "url": "https://careers-peraton.icims.com/jobs/158058/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Topeka, KS"
+        ],
+        "company_url": "https://simplify.jobs/c/Peraton",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
