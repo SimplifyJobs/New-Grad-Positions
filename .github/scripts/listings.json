@@ -141133,7 +141133,7 @@
         "company_name": "Analog Devices",
         "id": "ff763df4-1004-4999-a59b-e66141e0cc4f",
         "title": "Digital Design Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1763889435,
         "date_posted": 1763889435,
         "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Chelmsford-Alpha/Digital-Design-Engineer_R255049",
@@ -196706,7 +196706,7 @@
         "company_name": "Domo",
         "id": "c531842f-69c0-4bef-ba78-bc9a2bd97d13",
         "title": "Associate Product Marketing Manager",
-        "active": true,
+        "active": false,
         "date_updated": 1770291576,
         "date_posted": 1769826610,
         "url": "https://domo.wd12.myworkdayjobs.com/DomoCareers/job/American-Fork-Utah/Associate-Product-Marketing-Manager_JR100170",
@@ -196786,7 +196786,7 @@
         "company_name": "Crowe",
         "id": "77ed6589-1bae-43cb-a0cc-b61c29c041f2",
         "title": "Data Analytics Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1770298654,
         "date_posted": 1767656350,
         "url": "https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/Data-Analytics-Developer_R-50129",
@@ -198801,6 +198801,24 @@
         "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cincinnati-Ohio-United-States/Full-Time---Field-Engineer-Program--Field-Service-Engineer---Cincinnati--OH---July-2026_573773",
         "locations": [
             "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Philips",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Philips",
+        "id": "ce7595b9-692b-4f55-b865-913e05ff1d2f",
+        "title": "Full Time \u2013 Field Engineer Program - Field Service Engineer - Washington D.C",
+        "active": true,
+        "date_updated": 1770379748,
+        "date_posted": 1769644957,
+        "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Washington-District-of-Columbia-United-States/Full-Time---Field-Engineer-Program--Field-Service-Engineer---Washington-DC---July-2026_574008",
+        "locations": [
+            "Washington, DC"
         ],
         "company_url": "https://simplify.jobs/c/Philips",
         "is_visible": true,
