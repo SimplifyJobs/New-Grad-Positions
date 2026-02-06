@@ -183757,7 +183757,7 @@
         "company_name": "RTX",
         "id": "0df700d3-fbc3-4c82-9b19-3f0306c35360",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1769672610,
         "date_posted": 1769672610,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-401--401-Jan-Davis-Dr-NW--JAN-DAVIS-401/XMLNAME-2026-Full-time---Software-Engineer-I---Onsite--AL-_01819702",
@@ -193089,7 +193089,7 @@
         "company_name": "RTX",
         "id": "710f92fa-9372-4251-8601-89488552eee4",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1770162305,
         "date_posted": 1770162305,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-461--3200-E-Renner-Rd--RENNER-BLDG-461/Software-Engineer-I--Onsite-_01821509",
@@ -195613,7 +195613,7 @@
         "company_name": "Scout Motors",
         "id": "67eeda89-6bf7-4df0-a62f-a3da92238fc0",
         "title": "Quality Materials Laboratory Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1770247916,
         "date_posted": 1770247916,
         "url": "https://job-boards.greenhouse.io/scoutmotors/jobs/5036813007",
@@ -198534,5 +198534,99 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "ef94e327-b2b4-400c-af16-d41ac08c6430",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1770361745,
+        "date_posted": 1770361745,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400045763",
+        "locations": [
+            "Edinburgh, UK",
+            "Midlothian, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Oracle",
+        "id": "e96ccd2e-5f0e-4f05-a00e-3da1d07134ad",
+        "title": "PhD Software Engineer - Database Technologies",
+        "active": true,
+        "date_updated": 1770361699,
+        "date_posted": 1770361699,
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/325816",
+        "locations": [
+            "San Carlos, CA",
+            "Nashua, NH"
+        ],
+        "company_url": "https://simplify.jobs/c/Oracle",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "a51780fe-c659-4b61-b76e-3ad2773d6c84",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1770361744,
+        "date_posted": 1770361744,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048442",
+        "locations": [
+            "Tunbridge Wells, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "86346f56-4dbd-4584-8d7b-d753dd0ffdaf",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1770361748,
+        "date_posted": 1770361748,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048438",
+        "locations": [
+            "Bedford, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Broccoli AI",
+        "id": "6f239ba6-7cda-4f08-a6ee-8827af0eb7a4",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1770361681,
+        "date_posted": 1770361681,
+        "url": "https://jobs.ashbyhq.com/broccoli/3e59cf67-61dd-4210-b5dc-c7338fa91eba/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Broccoli-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
