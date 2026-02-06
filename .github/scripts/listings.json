@@ -141133,7 +141133,7 @@
         "company_name": "Analog Devices",
         "id": "ff763df4-1004-4999-a59b-e66141e0cc4f",
         "title": "Digital Design Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1763889435,
         "date_posted": 1763889435,
         "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Chelmsford-Alpha/Digital-Design-Engineer_R255049",
@@ -192032,7 +192032,7 @@
         "company_name": "The Boeing Company",
         "id": "7848bf7b-3394-4d37-ab38-8466cb514464",
         "title": "Boeing Pre-Employment Training - Assembly Electrical or System Mechanics",
-        "active": false,
+        "active": true,
         "date_updated": 1769211738,
         "date_posted": 1769211738,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/Boeing-Pre-Employment-Training--BPET--Students---Assembly-Electrical-or-System-Mechanics_JR2026493259-2",
@@ -198886,6 +198886,47 @@
         "degrees": [
             "Bachelor's",
             "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Walmart",
+        "id": "7587752c-1ec7-4d19-ac46-f4c7e9da56a2",
+        "title": "Senior Software Engineer",
+        "active": true,
+        "date_updated": 1770311719,
+        "date_posted": 1770311719,
+        "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-Crossman-Respect-Building-CA-SUNNYVALE-Home-Office/Senior-Software-Engineer_R-2398024-1",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Walmart",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Baker Hughes",
+        "id": "c9d5d052-f7f0-4d54-8519-75c97dfa1c23",
+        "title": "Controls Software Engineer",
+        "active": true,
+        "date_updated": 1770386235,
+        "date_posted": 1766445096,
+        "url": "https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/GB-Ashby-de-la-Zouch-Power-House-Excelsior-Road/Controls-Software-Engineer_R158846",
+        "locations": [
+            "Derby, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Baker-Hughes",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
