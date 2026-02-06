@@ -117962,7 +117962,7 @@
         "company_name": "CAE",
         "id": "43024f80-acac-4a96-bd62-dde45e459bb6",
         "title": "Simulator Technicians 1-4",
-        "active": false,
+        "active": true,
         "date_updated": 1764978246,
         "date_posted": 1764978246,
         "url": "https://cae.wd3.myworkdayjobs.com/career/job/Dallas/Pipelining-Project-Simulator-Technician_109574-1",
@@ -183414,7 +183414,7 @@
         "company_name": "Philips",
         "id": "9b85d6f2-a010-47cc-9b39-55b51485b3b8",
         "title": "Full Time \u2013 Field Engineer Program - Field Service Engineer - Birmingham, AL, July 2026",
-        "active": true,
+        "active": false,
         "date_updated": 1769644947,
         "date_posted": 1769644947,
         "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Birmingham-US-Alabama-United-States/Full-Time---Field-Engineer-Program--Field-Service-Engineer---Birmingham--AL---July-2026_574028",
@@ -185737,7 +185737,7 @@
         "company_name": "Argonne National Laboratory",
         "id": "e821adb1-3cbe-4971-a05c-e8d060feec10",
         "title": "Postdoctoral Appointee",
-        "active": true,
+        "active": false,
         "date_updated": 1769733790,
         "date_posted": 1769733790,
         "url": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---AI-Assisted-Scientific-Visualization-and-Intelligent-Data-Exploration_421703-1",
@@ -198824,5 +198824,47 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Morgan Stanley",
+        "id": "d39bb0ea-d7dc-4e21-9fd3-19af7cd82fe2",
+        "title": "Consultant - Associate - Tech Program Mgmt III",
+        "active": true,
+        "date_updated": 1770304820,
+        "date_posted": 1770304820,
+        "url": "https://ms.wd5.myworkdayjobs.com/private/job/Montreal-Canada/Consultant-conversion---Associate--Tech-Program-Mgmt-III_PT-JR029155",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Morgan-Stanley",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Uline",
+        "id": "1a4a9007-d083-4deb-8beb-2818ae2d594d",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1770381292,
+        "date_posted": 1769029992,
+        "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Data-Analyst_R260693-1",
+        "locations": [
+            "Waukegan, IL",
+            "Milwaukee, WI",
+            "Pleasant Prairie, WI",
+            "Morton Grove, IL",
+            "Kenosha, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Uline",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
