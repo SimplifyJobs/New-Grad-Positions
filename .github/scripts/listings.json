@@ -52029,7 +52029,7 @@
         "company_name": "Aristocrat Leisure",
         "id": "736e81fc-fb97-4824-91df-17e1f7b20083",
         "title": "Associate Product Manager",
-        "active": true,
+        "active": false,
         "date_updated": 1761993413,
         "date_posted": 1761993413,
         "url": "https://aristocrat.wd3.myworkdayjobs.com/aristocratexternalcareerssite/job/London-United-Kingdom/Associate-Product-Manager_R0019161",
@@ -56717,7 +56717,7 @@
         "company_name": "Argonne National Laboratory",
         "id": "26f366b0-ec19-4937-ba07-4b0753ac432e",
         "title": "Postdoctoral Research Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1761501628,
         "date_posted": 1761501628,
         "url": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Research-Associate---Machine-Learning-in-High-Energy-Physics-Detector-Operations_421270",
@@ -144986,7 +144986,7 @@
         "company_name": "Dave & Busters",
         "id": "34c2d164-7dd4-435a-ac9e-0ca009d30b3a",
         "title": "Game Support Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1764498800,
         "date_posted": 1764498800,
         "url": "https://daveandbusters.wd1.myworkdayjobs.com/dave_and_busters_careers/job/Lehigh-Valley-PA/Game-Support-Technician_R-1008102",
@@ -166942,7 +166942,7 @@
         "company_name": "Hub Group",
         "id": "94156e99-4b31-489e-b227-28f1339b3ba3",
         "title": "Business Intelligence Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1768605403,
         "date_posted": 1768605403,
         "url": "https://hdat.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/11145",
@@ -198788,5 +198788,23 @@
             "Master's",
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Philips",
+        "id": "0c9e8f51-8623-4c21-9c85-122bdff54c95",
+        "title": "Full Time Field Engineer Program - Field Service Engineer",
+        "active": true,
+        "date_updated": 1770378722,
+        "date_posted": 1769644957,
+        "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cincinnati-Ohio-United-States/Full-Time---Field-Engineer-Program--Field-Service-Engineer---Cincinnati--OH---July-2026_573773",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Philips",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
