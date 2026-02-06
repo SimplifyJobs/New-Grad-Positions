@@ -117036,7 +117036,7 @@
         "company_name": "CVS Health",
         "id": "079255b0-a4ee-4676-8be8-254bd15a9195",
         "title": "Senior Analyst - Digital Product",
-        "active": false,
+        "active": true,
         "date_updated": 1764901330,
         "date_posted": 1764901330,
         "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Work-from-home/Sr-Analyst-Digital-Product_R0633593",
@@ -198492,5 +198492,47 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "6d717f77-0df8-4239-b5c3-3407363916a4",
+        "title": "Systems Engineer 2",
+        "active": true,
+        "date_updated": 1770345427,
+        "date_posted": 1770345427,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB2--50-Apple-Hill-Dr--SUDBURY-BLDG-Tewksbury-Tb2-200-Sudbury/XMLNAME-2026---Fulltime-Systems-Engineer-II---Onsite_01821700",
+        "locations": [
+            "Massachusetts",
+            "Tewksbury, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Hewlett Packard Enterprise",
+        "id": "7e8ede78-047c-4fd2-9614-43c04fe00093",
+        "title": "Mechanical/Hardware Engineer",
+        "active": true,
+        "date_updated": 1770345029,
+        "date_posted": 1770345029,
+        "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Chippewa-Falls-Wisconsin-United-States-of-America/Mechanical-Hardware-Engineer_1202987",
+        "locations": [
+            "Eau Claire, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
