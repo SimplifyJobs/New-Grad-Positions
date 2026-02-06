@@ -45047,7 +45047,7 @@
         "company_name": "Schweitzer Engineering Laboratories",
         "id": "c6330af5-5672-4a94-9db3-89951980fa6c",
         "title": "Associate Hardware Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1762211640,
         "date_posted": 1762211640,
         "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Associate-Hardware-Engineer_2025-16326",
@@ -109005,7 +109005,7 @@
         "company_name": "Cisive",
         "id": "56ae36d3-be2d-4b0f-a8fa-7b306f926908",
         "title": "Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1764300420,
         "date_posted": 1764300420,
         "url": "https://cisive.wd108.myworkdayjobs.com/Cisive/job/Remote---Maryland/Software-Developer_JR100117-1",
@@ -125735,7 +125735,7 @@
         "company_name": "Analog Devices",
         "id": "634f1e03-a54f-4408-bd23-6d7c5c81ab55",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1765525017,
         "date_posted": 1765525017,
         "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/Canada-Vancouver/Software-Engineer_R257212",
@@ -149992,7 +149992,7 @@
         "company_name": "Allstate Insurance Company",
         "id": "93d93761-8cf0-47fb-90bc-44e3da3b80ce",
         "title": "ATS Technology Development Program",
-        "active": true,
+        "active": false,
         "date_updated": 1767657084,
         "date_posted": 1767657084,
         "url": "https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/USA---CA-Remote/XMLNAME-2026-ATS-Technology-Development-Program_R22128-1",
@@ -164366,7 +164366,7 @@
         "company_name": "Huntington Ingalls Industries",
         "id": "c66314f8-b4d6-4890-a0b5-e92001feaa67",
         "title": "Engineer Test 1",
-        "active": false,
+        "active": true,
         "date_updated": 1768518911,
         "date_posted": 1768518911,
         "url": "https://careers.huntingtoningalls.com/job/Pascagoula-ENGINEER-TEST-1-Miss/1356683400/?ats=successfactors",
@@ -173481,7 +173481,7 @@
         "company_name": "Fermilab",
         "id": "1150f792-278a-45eb-b3e9-a77598e3300f",
         "title": "Postdoctoral Research Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1769095431,
         "date_posted": 1769095431,
         "url": "https://fermilab.wd5.myworkdayjobs.com/FermilabCareers/job/Batavia/Postdoctoral-Research-Associate_R_008873",
@@ -185632,7 +185632,7 @@
         "company_name": "Genuine Parts Company",
         "id": "d77a629d-dc8b-4b9f-9435-c9d72cdf6d79",
         "title": "PIM Data Analyst - Enrichment",
-        "active": true,
+        "active": false,
         "date_updated": 1769731500,
         "date_posted": 1769731500,
         "url": "https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/PIM-Data-Analyst---Enrichment_R26_0000000220",
@@ -199571,6 +199571,317 @@
             "Tukwila, WA"
         ],
         "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "GM financial",
+        "id": "cb5fdcc4-e7f4-402f-a02b-e4c25225ce06",
+        "title": "Product Owner 1 - Digital Payments",
+        "active": true,
+        "date_updated": 1770419450,
+        "date_posted": 1770419450,
+        "url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1705",
+        "locations": [
+            "Arlington, TX",
+            "Irving, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/GM-Financial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Oracle",
+        "id": "c727ca0c-ef41-45f2-ac09-f9515644e1fb",
+        "title": "Software Developer 1",
+        "active": true,
+        "date_updated": 1770419286,
+        "date_posted": 1770419286,
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/325788",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Oracle",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Leidos",
+        "id": "f425f7fb-5f4c-4274-83ad-07281151c7b6",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1770420099,
+        "date_posted": 1770420099,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Software-Engineer_R-00175447",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "StubHub",
+        "id": "e8a92a4d-8eca-4c45-9c6b-f4ff5b6b7983",
+        "title": "Software Engineer 1 \u2013 New Grad - Marketplace Operations",
+        "active": true,
+        "date_updated": 1770419976,
+        "date_posted": 1770419976,
+        "url": "https://job-boards.eu.greenhouse.io/stubhubinc/jobs/4763976101",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/StubHub",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Oracle",
+        "id": "b8d3fc94-6758-4e75-b6ec-217371ea5888",
+        "title": "Systems Software Developer",
+        "active": true,
+        "date_updated": 1770419292,
+        "date_posted": 1770419292,
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/325787",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Oracle",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jerry",
+        "id": "a7fd06de-b9f1-470f-b4bc-2537af996c1d",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1770419766,
+        "date_posted": 1770419766,
+        "url": "https://jobs.ashbyhq.com/jerry.ai/14b58ce2-d2a0-452d-96f3-e9c18a5bb8fe/application",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Leidos",
+        "id": "7857367f-92f6-4c31-8b56-d8a88edcb349",
+        "title": "Entry Level Radar Analyst - Radar Analysis - Security & Defense",
+        "active": true,
+        "date_updated": 1770420093,
+        "date_posted": 1770420093,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/XMLNAME---Entry-Level-Radar-Analyst-_R-00175444-1",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Advanced Energy",
+        "id": "0b56ddb6-5b2f-4373-8c91-6e2340e67397",
+        "title": "Firmware Engineer 1",
+        "active": true,
+        "date_updated": 1770419398,
+        "date_posted": 1770419398,
+        "url": "https://jobs.advanced-energy.com/job/Eden-Prairie-Firmware-Engineer-I-MN-55344/1362892300/?ats=successfactors",
+        "locations": [
+            "Eden Prairie, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Advanced-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Microchip Technology",
+        "id": "bcbda01f-81fb-441c-9b0c-7d7b1f72efd8",
+        "title": "Engineer 1 - Software",
+        "active": true,
+        "date_updated": 1770419841,
+        "date_posted": 1770419841,
+        "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/CA---Santa-Rosa---Westwind/Engineer-I---Software_R386-26",
+        "locations": [
+            "Santa Rosa, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Microchip-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Fermilab",
+        "id": "6b2626be-1ca2-424d-b37c-0ceda379db45",
+        "title": "Metrologist 1",
+        "active": true,
+        "date_updated": 1770419764,
+        "date_posted": 1770419764,
+        "url": "https://fermilab.wd5.myworkdayjobs.com/FermilabCareers/job/Batavia/Metrologist-I_R_009278",
+        "locations": [
+            "Batavia, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Fermilab",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jerry",
+        "id": "161ba6df-2f66-4dd7-8037-d7675a4b090a",
+        "title": "Software Engineer - Entry",
+        "active": true,
+        "date_updated": 1770419611,
+        "date_posted": 1770419611,
+        "url": "https://jobs.ashbyhq.com/jerry.ai/db5ceb16-a41a-4b04-93ad-d81870372cbd/application",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Google",
+        "id": "d131f95c-8064-4b1a-9141-17335c27c794",
+        "title": "Software Engineer \u2013 Early Career - AI/ML - PhD",
+        "active": true,
+        "date_updated": 1770419262,
+        "date_posted": 1770419262,
+        "url": "https://www.google.com/about/careers/applications/jobs/results/92286686481785542",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Google",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Advanced Energy",
+        "id": "7df62b63-01d4-4de7-834b-2eac01d20607",
+        "title": "Electronics Service Technician 1",
+        "active": true,
+        "date_updated": 1770419397,
+        "date_posted": 1770419397,
+        "url": "https://jobs.advanced-energy.com/job/Fort-Collins-Electronics-Service-Technician-I-CO-80525/1349766000/?ats=successfactors",
+        "locations": [
+            "Fort Collins, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Advanced-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "796386b1-1a5a-4da7-8a98-b0aa8e7a75af",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1770419429,
+        "date_posted": 1770419429,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048554",
+        "locations": [
+            "Gloucester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Vertiv",
+        "id": "5a1dcd83-277f-4812-9718-ed337192acad",
+        "title": "Firmware Engineer",
+        "active": true,
+        "date_updated": 1770419497,
+        "date_posted": 1770419497,
+        "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20260492",
+        "locations": [
+            "Lincoln, NE"
+        ],
+        "company_url": "https://simplify.jobs/c/Vertiv",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "474e34a0-ff61-4411-9992-58a5507a7153",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1770419430,
+        "date_posted": 1770419430,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048555",
+        "locations": [
+            "Gloucester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
