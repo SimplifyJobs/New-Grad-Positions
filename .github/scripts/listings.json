@@ -179246,7 +179246,7 @@
         "company_name": "The Boeing Company",
         "id": "7171d22c-2824-42c0-8900-e0c66cf263b0",
         "title": "Application Developer - Scientific Applications",
-        "active": false,
+        "active": true,
         "date_updated": 1769470831,
         "date_posted": 1769470831,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Application-Developer--Scientific-Applications------Entry-Level--Associate--or-Mid-Level-_JR2025488280",
@@ -183455,7 +183455,7 @@
         "company_name": "Philips",
         "id": "6e5f1b0e-b674-42e2-8b8e-ffcf329b6ebc",
         "title": "Full Time - Field Engineer Program - Field Service Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1769644949,
         "date_posted": 1769644949,
         "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Louisville-Kentucky-United-States/Full-Time---Field-Engineer-Program--Field-Service-Engineer---Louisville--KY---July-2026_573794",
@@ -198865,6 +198865,27 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Becton Dickinson",
+        "id": "b46cc64f-a5cc-4013-a449-9046f9c6336c",
+        "title": "Field Service Engineer",
+        "active": true,
+        "date_updated": 1770384345,
+        "date_posted": 1769471645,
+        "url": "https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-MD---Sparks---39-Loveton-Circle/Field-Service-Engineer_R-537050",
+        "locations": [
+            "Sparks, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Becton-Dickinson",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
         ]
     }
 ]
