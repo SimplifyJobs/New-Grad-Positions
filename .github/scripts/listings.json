@@ -169325,7 +169325,7 @@
         "company_name": "Sainsbury's",
         "id": "73510f04-2794-4f8d-aa13-3ba48362fab0",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1768905177,
         "date_posted": 1768905177,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400046433",
@@ -172800,7 +172800,7 @@
         "company_name": "BAE Systems",
         "id": "b1426e6e-8d2e-4932-9d5d-48c5f0beb066",
         "title": "ILS/IPS Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1769078179,
         "date_posted": 1769078179,
         "url": "https://baesystems.taleo.net/careersection/2/jobdetail.ftl?job=00133187",
@@ -173408,7 +173408,7 @@
         "company_name": "Visa",
         "id": "70b9e595-1fcf-4025-8ea6-68e0de754399",
         "title": "Analyst - Merchant Data Platform",
-        "active": true,
+        "active": false,
         "date_updated": 1769094725,
         "date_posted": 1769094725,
         "url": "https://jobs.smartrecruiters.com/Visa/744000104917365",
@@ -193784,7 +193784,7 @@
         "company_name": "Persona",
         "id": "24fb788f-d019-4468-a337-ab36d0e99b0b",
         "title": "Product Analyst - Fraud",
-        "active": true,
+        "active": false,
         "date_updated": 1770171484,
         "date_posted": 1770171484,
         "url": "https://jobs.ashbyhq.com/persona/8d788998-16c0-47d6-b074-52c2c4fc3007/application",
@@ -196218,7 +196218,7 @@
         "company_name": "Sainsbury's",
         "id": "8c074af1-7783-4703-af75-efcb7ae2ee06",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1770257516,
         "date_posted": 1770257516,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048274",
@@ -196559,7 +196559,7 @@
         "company_name": "FiscalNote",
         "id": "895984ed-fee9-4db7-ac4f-41f22b455b21",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1770285311,
         "date_posted": 1770074022,
         "url": "https://jobs.lever.co/fiscalnote/4d7a3d6b-583e-413e-8e1e-534b552292fe/apply",
@@ -197668,7 +197668,7 @@
         "company_name": "Sainsbury's",
         "id": "f644a519-804a-4b47-b7dc-39729c5d499a",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1770333007,
         "date_posted": 1770333007,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047319",
@@ -198424,6 +198424,48 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Walmart",
+        "id": "f3f4b1d7-023d-4908-981d-46ad84987c3e",
+        "title": "Staff Product Manager",
+        "active": true,
+        "date_updated": 1770336287,
+        "date_posted": 1770336287,
+        "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Sunnyvale-CA/Staff-Product-Manager_R-2398042-1",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Walmart",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Walmart",
+        "id": "73a6f042-9e20-4c2a-afc1-fdcaed6a6aa7",
+        "title": "Senior Software Engineer",
+        "active": true,
+        "date_updated": 1770336305,
+        "date_posted": 1770336305,
+        "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Sunnyvale-CA/Senior-Software-Engineer_R-2398029-1",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Walmart",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
