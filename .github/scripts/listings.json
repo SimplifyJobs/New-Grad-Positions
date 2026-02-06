@@ -20949,7 +20949,7 @@
         "company_name": "DoorDash",
         "id": "cb54a03c-1819-40d6-85dd-7c94b79b337e",
         "title": "Software Engineer 1 - Multiple Teams",
-        "active": true,
+        "active": false,
         "date_updated": 1759820594,
         "date_posted": 1759820594,
         "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7263610",
@@ -85863,42 +85863,6 @@
             "Austin, TX"
         ],
         "company_url": "https://simplify.jobs/c/Saronic",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Agile Defense",
-        "id": "5bd36a78-118d-40cd-8be1-da93fdf2965f",
-        "title": "Windows System Administrator",
-        "active": false,
-        "date_updated": 1749738071,
-        "date_posted": 1749602452,
-        "url": "https://jobs.lever.co/agile-defense/548c081a-f357-49b9-b829-89ed9c608cd0/apply",
-        "locations": [
-            "Fort Huachuca, Sierra Vista, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Agile-Defense",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Agile Defense",
-        "id": "4ab4c8b1-6325-43c9-8658-50107f33c7d6",
-        "title": "Windows System Administrator",
-        "active": false,
-        "date_updated": 1749602434,
-        "date_posted": 1749602434,
-        "url": "https://jobs.lever.co/agile-defense/c1152f68-3f29-4510-822e-61bb8b9951fe/apply",
-        "locations": [
-            "Fort Huachuca, Sierra Vista, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Agile-Defense",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -197100,7 +197064,7 @@
         "company_name": "Sainsbury's",
         "id": "411e123a-ffa8-4329-b6a7-47ea8aec254c",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1770304297,
         "date_posted": 1770304297,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048347",
