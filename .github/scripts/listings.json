@@ -56534,7 +56534,7 @@
         "company_name": "Intercom",
         "id": "7e981412-ba99-4f51-8c8d-d0ab017c1c16",
         "title": "Graduate Product Engineer Dublin - 2026",
-        "active": true,
+        "active": false,
         "date_updated": 1761504939,
         "date_posted": 1761504939,
         "url": "https://job-boards.greenhouse.io/intercom/jobs/7317849",
@@ -148478,7 +148478,7 @@
         "company_name": "Crowe",
         "id": "88b77c22-1549-47ed-9ac6-b356e2434bd4",
         "title": "NetSuite Implementation Consultant",
-        "active": false,
+        "active": true,
         "date_updated": 1767630748,
         "date_posted": 1767630748,
         "url": "https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/NetSuite-Implementation-Consultant_R-50086",
@@ -186451,7 +186451,7 @@
         "company_name": "RTX",
         "id": "e4826ad9-d53b-40dc-b4b0-0edf95237c59",
         "title": "Software Engineer - Software Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1769758978,
         "date_posted": 1769758978,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/XMLNAME-2026-Full-time---Software-Engineer-I---Onsite--AZ-_01820534",
@@ -197109,7 +197109,7 @@
         "company_name": "Wells Fargo",
         "id": "07988ed2-6d81-4e5d-adc1-49543d9fcb4b",
         "title": "Quantitative Analytics Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1770306120,
         "date_posted": 1770306120,
         "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/SAN-FRANCISCO-CA/Quantitative-Analytics-Specialist--Ref-000846-_R-520189-1",
@@ -198927,6 +198927,89 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Loft",
+        "id": "afb2d348-6f71-4a87-8679-4ee016e99c7c",
+        "title": "Ecommerce Analytics Specialist",
+        "active": true,
+        "date_updated": 1770385499,
+        "date_posted": 1770247304,
+        "url": "https://knitwellgroup.wd1.myworkdayjobs.com/US_Corporate_Jobs/job/LB-OH-Corp-Office-LaneBryant-New-Albany-OH-43054/Ecommerce-Analytics-Specialist_R-2021749",
+        "locations": [
+            "New Albany, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Loft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Philips",
+        "id": "9689de52-3e24-46c3-9a98-dbcd706716fa",
+        "title": "Full Time \u2013 Field Engineer Program - Field Service Engineer - Philadelphia', 'PA-July 2026",
+        "active": true,
+        "date_updated": 1770387145,
+        "date_posted": 1769644954,
+        "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Philadelphia-Pennsylvania-United-States/Full-Time---Field-Engineer-Program--Field-Service-Engineer---Philadelphia--PA--July-2026_574013",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Philips",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Philips",
+        "id": "74174589-a825-4824-8778-56210df6492c",
+        "title": "Full Time \u2013 Field Engineer Program - Field Service Engineer - Seattle, WA (July 2026)",
+        "active": true,
+        "date_updated": 1770386415,
+        "date_posted": 1769644943,
+        "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Seattle-Washington-United-States/Full-Time---Field-Engineer-Program--Field-Service-Engineer---Seattle--WA---July-2026_574020-1",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Philips",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Philips",
+        "id": "4a9813a9-57e0-4c8e-a44b-fcaed0aa0e6a",
+        "title": "Full Time \u2013 Field Engineer Program - Field Service Engineer - Nashville, TN",
+        "active": true,
+        "date_updated": 1770386395,
+        "date_posted": 1769644948,
+        "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Nashville-Tennessee-United-States/Full-Time---Field-Engineer-Program--Field-Service-Engineer---Nashville--TN---July-2026_574030",
+        "locations": [
+            "Nashville, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/Philips",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
         ]
     }
 ]
