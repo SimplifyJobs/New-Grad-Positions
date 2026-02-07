@@ -200477,7 +200477,7 @@
         "company_name": "Cadence Design Systems",
         "id": "77deff99-e51d-421a-8005-4cd240645efe",
         "title": "LLM/ML Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1770422476,
         "date_posted": 1770422476,
         "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Lead-LLM-ML-Developer_R50574",
@@ -200797,5 +200797,26 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "American University",
+        "id": "f041c0e0-4f4e-4562-98c1-05bb379e602b",
+        "title": "Research Assistant - Institute for Applied Artificial Intelligence",
+        "active": true,
+        "date_updated": 1770470240,
+        "date_posted": 1770470240,
+        "url": "https://american.wd1.myworkdayjobs.com/au/job/Main-Campus-Washington-DC/Part-Time-Research-Assistant--Institute-for-Applied-Artificial-Intelligence-_R3866",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/American-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
