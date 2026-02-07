@@ -2,77 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Amentum",
-        "id": "6a073c64-89e1-494c-9db4-780abd1df87b",
-        "title": "Entry Level Software Engineer",
-        "active": false,
-        "date_updated": 1749693233,
-        "date_posted": 1749693233,
-        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0140459",
-        "locations": [
-            "Fredericksburg, VA",
-            "Dahlgren, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/4310804e-f9a0-44e7-b26f-51ecd2a9237d",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Amentum",
-        "id": "47ebe178-d299-43bf-95e4-e124d2404a24",
-        "title": "Entry Level Software Engineer",
-        "active": false,
-        "date_updated": 1749693233,
-        "date_posted": 1749693233,
-        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0140458",
-        "locations": [
-            "Fredericksburg, VA",
-            "Dahlgren, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/4310804e-f9a0-44e7-b26f-51ecd2a9237d",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Amentum",
-        "id": "7f96b1fe-e630-4032-add1-8e2e4a11ac4d",
-        "title": "Entry Level Software Engineer",
-        "active": false,
-        "date_updated": 1749693231,
-        "date_posted": 1749693231,
-        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0140460",
-        "locations": [
-            "Fredericksburg, VA",
-            "Dahlgren, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/4310804e-f9a0-44e7-b26f-51ecd2a9237d",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Relativity Space",
-        "id": "92b236e9-f2d6-4b02-a956-0ec292ed153f",
-        "title": "Software Engineer I - Factory Platform",
-        "active": false,
-        "date_updated": 1749693098,
-        "date_posted": 1749693098,
-        "url": "https://boards.greenhouse.io/relativity/jobs/8031811002",
-        "locations": [
-            "Long Beach, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Relativity-Space",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Procter & Gamble (P&G)",
         "id": "7f2f7c82-d34f-44c8-83b0-ef1e3a65c34d",
         "title": "Junior Software Developer",
@@ -15080,28 +15009,6 @@
             "Plainview, NY"
         ],
         "company_url": "https://simplify.jobs/c/Altice-USA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "SingleStore",
-        "id": "573cd0e4-9d92-4879-badd-b57ad4e7796b",
-        "title": "Software Engineer \u2013 University Graduate - Database Engine",
-        "active": false,
-        "date_updated": 1749692088,
-        "date_posted": 1749692088,
-        "url": "https://job-boards.greenhouse.io/singlestore/jobs/6237482",
-        "locations": [
-            "Seattle, WA",
-            "SF",
-            "Raleigh, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/SingleStore",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -154586,7 +154493,7 @@
         "company_name": "The Boeing Company",
         "id": "384025fa-7dad-4e4c-b929-2a6d569a16fe",
         "title": "Digital Services & Analytics Graduate \u2013 Graduate Rotational Programme",
-        "active": true,
+        "active": false,
         "date_updated": 1767899391,
         "date_posted": 1767899391,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/GBR---Bristol-UK/Digital-Services---Analytics-Graduate---Graduate-Rotational-Programme-2026_JR2026490808",
@@ -194928,7 +194835,7 @@
         "company_name": "Oracle",
         "id": "f2132676-ff43-41a6-99a0-e392bbc5f534",
         "title": "Software Developer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1770246598,
         "date_posted": 1770246598,
         "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/325063",
