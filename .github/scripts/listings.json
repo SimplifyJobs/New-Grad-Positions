@@ -171859,7 +171859,7 @@
         "company_name": "GE Vernova",
         "id": "23337132-837d-483a-bb50-1dfe019575c3",
         "title": "1&C \u2013 Instrumentation & Controls - Embedded Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1769028650,
         "date_posted": 1769028650,
         "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Wilmington-NC-USA/I-C--Instrumentation---Controls--Software-Engineer_R5030229-1",
@@ -183815,7 +183815,7 @@
         "company_name": "ASM International",
         "id": "0fa250fe-b2e9-4c29-b484-302686572482",
         "title": "Engineer \u2013 Field Service-\"1 & 2\"",
-        "active": true,
+        "active": false,
         "date_updated": 1769683055,
         "date_posted": 1766014576,
         "url": "https://www.asm.com/open-vacancies/?gh_jid=4664144101",
@@ -196293,7 +196293,7 @@
         "company_name": "Persona",
         "id": "82da0ee5-5a79-47e5-b294-dc291489bb04",
         "title": "Fraud Product Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1770198581,
         "date_posted": 1770160800,
         "url": "https://jobs.ashbyhq.com/persona/67809ff0-604d-4285-85cc-cc3ee1acfa72/application",
@@ -200647,6 +200647,59 @@
             "Irvine, CA"
         ],
         "company_url": "https://simplify.jobs/c/PDS-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Thermo Fisher Scientific",
+        "id": "2dc42f08-6bb7-477c-adf8-cdfdbe909b36",
+        "title": "Field Service Engineer",
+        "active": true,
+        "date_updated": 1770458591,
+        "date_posted": 1770214098,
+        "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-France/Field-Service-Engineer_R-01341803",
+        "locations": [
+            "Remote in UK",
+            "Remote in Italy",
+            "Remote in Germany",
+            "Remote in France"
+        ],
+        "company_url": "https://simplify.jobs/c/Thermo-Fisher-Scientific",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "PharmD",
+            "PhD",
+            "Associate's",
+            "JD",
+            "MD",
+            "Bootcamp",
+            "Certificate",
+            "Incomplete"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Windfall",
+        "id": "23322c4f-1f5b-4bec-8934-56db01b3fb26",
+        "title": "Product Operations Analyst",
+        "active": true,
+        "date_updated": 1770458475,
+        "date_posted": 1761872702,
+        "url": "https://jobs.lever.co/windfalldata/5d6230b1-5130-41fa-8976-5d703cd81e48/apply",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Windfall-Data",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
