@@ -53684,7 +53684,7 @@
         "company_name": "Four Seasons",
         "id": "ac9a8563-5688-44dd-82d6-427cc1d03dbe",
         "title": "Barista - Barista",
-        "active": false,
+        "active": true,
         "date_updated": 1761937835,
         "date_posted": 1761776232,
         "url": "https://fourseasons.wd3.myworkdayjobs.com/search/job/Hualalai/Trading-Company---Barista---Part-Time_REQ10360785",
@@ -165709,7 +165709,7 @@
         "company_name": "Sainsbury's",
         "id": "e1d95840-2143-485b-9caa-82dd67ceafb4",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1768472425,
         "date_posted": 1768472425,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400045973",
@@ -195026,7 +195026,7 @@
         "company_name": "Oracle",
         "id": "269fd00c-aa41-421d-bd78-3e77cc13c4ae",
         "title": "Software Developer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1770246573,
         "date_posted": 1770246573,
         "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/325062",
@@ -195926,7 +195926,7 @@
         "company_name": "Oracle",
         "id": "92e36a07-ef38-4712-8a50-b53086589839",
         "title": "Software Developer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1770247150,
         "date_posted": 1770247150,
         "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/325061",
@@ -200525,6 +200525,174 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Capital One",
+        "id": "55f6ec0c-6b91-46c9-b7e9-c046043f6a0d",
+        "title": "Associate - Software Engineer",
+        "active": true,
+        "date_updated": 1770423708,
+        "date_posted": 1770423708,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad_R235371",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Capital-One",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Walmart",
+        "id": "ee33298a-ae4c-4e0c-9276-d7a1f0d10d48",
+        "title": "Senior \u2013 Data Analyst - Walmart Brands",
+        "active": true,
+        "date_updated": 1770423064,
+        "date_posted": 1770423064,
+        "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-Hula-Building-Bentonville-AR-Home-Office/Senior--Data-Analyst---Walmart-Brands_R-2408667",
+        "locations": [
+            "Bentonville, AR"
+        ],
+        "company_url": "https://simplify.jobs/c/Walmart",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Walmart",
+        "id": "9971beb7-5d6d-4cae-af4c-76a6e332aa50",
+        "title": "Software Engineer 3",
+        "active": true,
+        "date_updated": 1770423054,
+        "date_posted": 1770423054,
+        "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-Crossman-Service-Building-CA-SUNNYVALE-Home-Office/Software-Engineer-III_R-2398900",
+        "locations": [
+            "Bentonville, AR",
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Walmart",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Citi",
+        "id": "7562c96a-74a9-4027-8406-5c160dedf931",
+        "title": "Entry Level Wholesale Lending Data Concern Management Analyst",
+        "active": true,
+        "date_updated": 1770422918,
+        "date_posted": 1770422918,
+        "url": "https://citi.wd5.myworkdayjobs.com/2/job/Getzville-New-York-United-States/Data-Governance-Analyst_26935260",
+        "locations": [
+            "Cheektowaga, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Citigroup",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Cleveland Clinic",
+        "id": "a76e7fcf-dcd5-404f-9c2e-a06d7287e672",
+        "title": "Data Scientist 1 - Cancer Center",
+        "active": true,
+        "date_updated": 1770422732,
+        "date_posted": 1770422732,
+        "url": "https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Remote-Location/Data-Scientist-I---Cancer-Center_312181-1",
+        "locations": [
+            "Cleveland, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Cleveland-Clinic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Cadence Design Systems",
+        "id": "77deff99-e51d-421a-8005-4cd240645efe",
+        "title": "LLM/ML Developer",
+        "active": true,
+        "date_updated": 1770422476,
+        "date_posted": 1770422476,
+        "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Lead-LLM-ML-Developer_R50574",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Fidelity Investments",
+        "id": "60653a0b-5e70-4784-bd71-a53d0dc25813",
+        "title": "Associate \u2013 Systematic Trading Product Development",
+        "active": true,
+        "date_updated": 1770422423,
+        "date_posted": 1770422423,
+        "url": "https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Boston-MA/Associate--Systematic-Trading-Product-Development_2122384-2",
+        "locations": [
+            "NYC",
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Fidelity-Investments",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Capital One",
+        "id": "87a93f21-d5ed-4427-af04-8da5cb15a491",
+        "title": "Associate - Software Engineer",
+        "active": true,
+        "date_updated": 1770422259,
+        "date_posted": 1770422259,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad_R235372",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Capital-One",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
