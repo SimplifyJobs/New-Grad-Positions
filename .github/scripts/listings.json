@@ -1,40 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Nutanix",
-        "id": "6c613844-7f1a-47bf-a3bd-174439762a3b",
-        "title": "Software Engineer 1 / Early Career - C++/Go/Linux/AWS-S3",
-        "active": false,
-        "date_updated": 1749762513,
-        "date_posted": 1749762513,
-        "url": "https://jobs.jobvite.com/nutanix/job/od3Jufwd?nl=1&nl=1&fr=false",
-        "locations": [
-            "Durham, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Nutanix",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Taco Bell",
-        "id": "8e36922e-f0b8-456e-973f-d5be216fc17f",
-        "title": "Data Engineer I",
-        "active": false,
-        "date_updated": 1749762927,
-        "date_posted": 1749762927,
-        "url": "https://job-boards.greenhouse.io/tacobell/jobs/6843093",
-        "locations": [
-            "Irvine, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/TacoBell",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "RTX",
         "id": "b2aecd49-2ada-460b-9b3e-775b0c71003a",
