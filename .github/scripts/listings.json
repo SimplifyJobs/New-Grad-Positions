@@ -185963,7 +185963,7 @@
         "company_name": "Sainsbury's",
         "id": "4307053f-55a6-471f-bca7-fb11348441f9",
         "title": "Trading Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1769739463,
         "date_posted": 1769739463,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047585",
@@ -200600,6 +200600,44 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "e7936394-46c4-4bd4-8151-66ab482d1bc1",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1770430201,
+        "date_posted": 1770430201,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048556",
+        "locations": [
+            "Letchworth Garden City, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Attentive",
+        "id": "29e0328d-5474-4c99-9033-c0d9ee79f2cb",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1770429985,
+        "date_posted": 1770429985,
+        "url": "https://jobs.lever.co/attentive/ddbe5d20-7697-4720-8967-608c31c2dc71/apply",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Attentive",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
