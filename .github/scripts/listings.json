@@ -167781,7 +167781,7 @@
         "company_name": "Sainsbury's",
         "id": "aa5e7214-a338-40ca-9202-c3be01386467",
         "title": "Trading Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1768691580,
         "date_posted": 1768691580,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400046244",
@@ -185895,7 +185895,7 @@
         "company_name": "Sainsbury's",
         "id": "4307053f-55a6-471f-bca7-fb11348441f9",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1769739463,
         "date_posted": 1769739463,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047585",
@@ -200818,5 +200818,23 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "0939c8d0-69c7-4660-8d5b-5359d1786893",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1770477102,
+        "date_posted": 1770477102,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048626",
+        "locations": [
+            "Harrogate, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
