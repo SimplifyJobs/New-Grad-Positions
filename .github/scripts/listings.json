@@ -175534,7 +175534,7 @@
         "company_name": "TD Bank",
         "id": "1cecf886-a119-4fbf-9af9-740141aea025",
         "title": "Data Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1769212159,
         "date_posted": 1769212159,
         "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Data-Engineer-I_R_1467802",
@@ -191678,7 +191678,7 @@
         "company_name": "RTX",
         "id": "800437e7-c0fd-4154-afcb-e85f1b3ed058",
         "title": "2026 Systems Engineer 1 - Integration & Test - Onsite, White Sands, NM",
-        "active": true,
+        "active": false,
         "date_updated": 1770104034,
         "date_posted": 1770104034,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-NM-WHITE-SANDS-038--RTSC-Milepost-186--BLDG-LC38-Mars-Site-Hwy-70E/XMLNAME-2026-Systems-Engineer-I----Integration---Test---Onsite---White-Sands--NM_01819999",
@@ -192063,7 +192063,7 @@
         "company_name": "Johnson & Johnson",
         "id": "1b84df33-932c-4b82-a2e2-62f5b1180262",
         "title": "Postdoctoral Researcher Omics & Multimodal Data Integration",
-        "active": false,
+        "active": true,
         "date_updated": 1770133701,
         "date_posted": 1770133701,
         "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/High-Wycombe-Buckinghamshire-United-Kingdom/Postdoctoral-Researcher-Omics---Multimodal-Data-Integration--R-D-Neuroscience-Data-Science---Digital-Health_R-056680",
@@ -196483,7 +196483,7 @@
         "company_name": "Johnson & Johnson",
         "id": "fb66b7b0-2b71-489d-b4f4-a4cb86db1d4e",
         "title": "Postdoctoral Researcher Omics & Multimodal Data Integration",
-        "active": false,
+        "active": true,
         "date_updated": 1770209669,
         "date_posted": 1770133693,
         "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Beerse-Antwerp-Belgium/Postdoctoral-Researcher-Omics---Multimodal-Data-Integration--R-D-Neuroscience-Data-Science---Digital-Health_R-056279-1",
@@ -200372,7 +200372,7 @@
         "company_name": "Capital One",
         "id": "55f6ec0c-6b91-46c9-b7e9-c046043f6a0d",
         "title": "Associate - Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1770423708,
         "date_posted": 1770423708,
         "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad_R235371",
@@ -200519,7 +200519,7 @@
         "company_name": "Capital One",
         "id": "87a93f21-d5ed-4427-af04-8da5cb15a491",
         "title": "Associate - Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1770422259,
         "date_posted": 1770422259,
         "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad_R235372",
@@ -200700,6 +200700,62 @@
             "SF"
         ],
         "company_url": "https://simplify.jobs/c/Windfall-Data",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "a6482392-3b2d-4e14-ab77-caf42e733c44",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1770460563,
+        "date_posted": 1770460563,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048564",
+        "locations": [
+            "Warrington, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "8a799f7f-830d-47cc-8f8f-d9ccd55d13f9",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1770460561,
+        "date_posted": 1770460561,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048569",
+        "locations": [
+            "Maidenhead, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Grayce",
+        "id": "5d2d33b0-9e07-47e9-bce1-d4e89d7af77e",
+        "title": "Graduate Tech Analyst - London",
+        "active": true,
+        "date_updated": 1770460540,
+        "date_posted": 1770287477,
+        "url": "https://apply.workable.com/grayce/j/B2ADEA7F67/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/ece08408-be43-4331-9af6-746c6e9977ec",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
