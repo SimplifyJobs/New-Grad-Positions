@@ -2,74 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Procter & Gamble (P&G)",
-        "id": "7f2f7c82-d34f-44c8-83b0-ef1e3a65c34d",
-        "title": "Junior Software Developer",
-        "active": false,
-        "date_updated": 1749696025,
-        "date_posted": 1749696025,
-        "url": "https://pg.wd5.myworkdayjobs.com/1000/job/COBALT-PARK-GO/Junior-Software-Developer_R000133283",
-        "locations": [
-            "Newcastle upon Tyne, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Procter-Gamble-Company",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Affirm",
-        "id": "c51f55af-91b8-4dbc-b0bd-93a96e0f3ec7",
-        "title": "Software Engineer I - Backend - Identity Decisioning",
-        "active": false,
-        "date_updated": 1749696761,
-        "date_posted": 1749696761,
-        "url": "https://job-boards.greenhouse.io/affirm/jobs/6605721003",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Affirm",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Affirm",
-        "id": "148f33c0-78be-4f05-af96-c10e696ee96d",
-        "title": "Software Engineer I - Backend - Identity Decisioning",
-        "active": false,
-        "date_updated": 1749696764,
-        "date_posted": 1749696764,
-        "url": "https://job-boards.greenhouse.io/affirm/jobs/6605722003",
-        "locations": [
-            "Remote in Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Affirm",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Tower Research Capital",
-        "id": "3fbe5f4e-e83b-4dd0-8d66-6873e67b8be4",
-        "title": "Software Engineer \u2013 New Grad - C++",
-        "active": false,
-        "date_updated": 1755269709,
-        "date_posted": 1749696611,
-        "url": "https://www.tower-research.com/open-positions/?gh_jid=6763894",
-        "locations": [
-            "New York, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Tower-Research-Capital",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Nutanix",
         "id": "6c613844-7f1a-47bf-a3bd-174439762a3b",
         "title": "Software Engineer 1 / Early Career - C++/Go/Linux/AWS-S3",
@@ -28605,7 +28537,7 @@
         "company_name": "Viridien",
         "id": "775c36f8-9bf5-425f-828b-2e2aa1ade7df",
         "title": "Machine Learning Engineer/Researcher \u2013 2026 Graduate Programme",
-        "active": false,
+        "active": true,
         "date_updated": 1762471948,
         "date_posted": 1762471948,
         "url": "https://cgg.wd103.myworkdayjobs.com/viridiencareers/job/Crawley-United-Kingdom/Machine-Learning-Engineer-Researcher---2026-Graduate-Programme_JR101055-1",
@@ -170527,7 +170459,7 @@
         "company_name": "Ultra",
         "id": "c4711aa1-f4a5-44b7-a1f4-f8bfd27a4c46",
         "title": "Production Test Operator 2",
-        "active": false,
+        "active": true,
         "date_updated": 1769030317,
         "date_posted": 1769030317,
         "url": "https://ultra.wd3.myworkdayjobs.com/ultra-careers/job/Wake-Forest-NC-United-States/Production-Test-Operator-II_REQ-11358",
