@@ -7,7 +7,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 ---
 ### Browse 374 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (252)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (253)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (10)
 
@@ -15,7 +15,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 📈 **[Quantitative Finance](#-quantitative-finance-new-grad-roles)** (9)
 
-🔧 **[Hardware Engineering](#-hardware-engineering-new-grad-roles)** (47)
+🔧 **[Hardware Engineering](#-hardware-engineering-new-grad-roles)** (46)
 
 💼 **[Other](#-other-new-grad-roles)** (0)
 
@@ -385,6 +385,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>2026] Software Engineer – Early Career - Creator</td>
 <td>San Mateo, CA</td>
 <td><div align="center"><a href="https://careers.roblox.com/jobs/7557909?gh_jid=7557909&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/583cb07a-8a7a-4df7-a6b7-fcf73518c51e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
+<td>10d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/PDS-Health?utm_source=GHList&utm_medium=company">PDS Health</a></strong></td>
+<td>Full Stack AI Engineer 1 - Innovation</td>
+<td>Irvine, CA</td>
+<td><div align="center"><a href="https://pdshcareers-pdshealth.icims.com/jobs/102669/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/a6ea7648-126b-45e7-a4fa-3443c2ce044d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
 <td>10d</td>
 </tr>
 <tr>
@@ -5117,7 +5124,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>3mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
 <td>Software Engineer II 🇺🇸</td>
 <td>Aurora, CO</td>
 <td>🔒</td>
@@ -11556,13 +11563,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
-<td>2026 Full-time - Software Engineer I</td>
-<td>Tewksbury, MA</td>
-<td><div align="center"><a href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/XMLNAME-2026-Full-time---Software-Engineer-I---Onsite--MA-_01815214?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/42ee92b5-8f36-4e80-bc3b-3ecf8ea37f52?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>2d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
 <td>2026 Full-time - Software Engineer I - Onsite, CA</td>
 <td>Goleta, CA</td>
 <td><div align="center"><a href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-GOLETA-H01--6380-Hollister-Ave--BLDG-H01/XMLNAME-2026-Full-time---Software-Engineer-I---Onsite--CA-_01821318?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/a5172b02-2eed-4674-9c81-8b31d8f63bbd?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
@@ -11853,7 +11853,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (195)</summary>
+<summary>🗃️ Inactive roles (196)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -11872,6 +11872,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Ottawa, ON, Canada</td>
 <td>🔒</td>
 <td>1d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
+<td>2026 Full-time - Software Engineer I</td>
+<td>Tewksbury, MA</td>
+<td>🔒</td>
+<td>2d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
