@@ -200571,5 +200571,26 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Heart Aerospace",
+        "id": "3bac44f6-4953-459e-8fe2-6fd5a71424a1",
+        "title": "Software Engineer - Flight Software",
+        "active": true,
+        "date_updated": 1770449457,
+        "date_posted": 1763031925,
+        "url": "https://job-boards.greenhouse.io/heartaerospace/jobs/4013531009",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Heart-Aerospace",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
