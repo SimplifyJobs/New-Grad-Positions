@@ -160691,7 +160691,7 @@
         "company_name": "Northrop Grumman",
         "id": "afea1137-cb1c-4c05-b769-a67e837ccec7",
         "title": "Solumina iSeries Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1768347203,
         "date_posted": 1768347203,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Unknown-City/Solumina-iSeries-Software-Developer-2-3_R10218870",
@@ -200817,6 +200817,24 @@
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048666",
         "locations": [
             "Manchester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "09f85471-7bae-42ab-9371-7a9ac6b047ca",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1770534681,
+        "date_posted": 1770534681,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048665",
+        "locations": [
+            "Cambridge, UK"
         ],
         "company_url": "https://simplify.jobs/c/Sainsburys",
         "is_visible": true,
