@@ -200914,5 +200914,25 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "General Dynamics Mission Systems",
+        "id": "8a8a1aa0-ab34-451b-b414-5bbfc0f083ca",
+        "title": "Manufacturing Specialist",
+        "active": true,
+        "date_updated": 1770544491,
+        "date_posted": 1770343726,
+        "url": "https://careers-gdms.icims.com/jobs/70715/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Manassas, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
     }
 ]
