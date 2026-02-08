@@ -85482,24 +85482,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "BetterHelp",
-        "id": "56b78d88-339c-491f-96a6-eb1c16b66f86",
-        "title": "Data Scientist - Experimentation",
-        "active": false,
-        "date_updated": 1749856235,
-        "date_posted": 1749856235,
-        "url": "https://job-boards.greenhouse.io/betterhelpcom/jobs/4756131008",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/BetterHelp",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "FOX",
         "id": "e479db10-c7ac-49a6-a850-8a0b5f9cb010",
@@ -200971,5 +200953,67 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "e73a030c-060b-43f5-b342-cb2036db54da",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1770592309,
+        "date_posted": 1770592309,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048721",
+        "locations": [
+            "Chesterfield, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Cummins",
+        "id": "fb32e50b-7225-45b6-a968-376a5592570a",
+        "title": "Product Functional Test Technology Engineer",
+        "active": true,
+        "date_updated": 1770592074,
+        "date_posted": 1770592074,
+        "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2420156",
+        "locations": [
+            "Columbus, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Cummins",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's",
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "LinkedIn",
+        "id": "19b9e8d0-9bcc-4b8d-8465-b3f7b7c9166c",
+        "title": "Software Engineer - Frontend - Media SDK Team",
+        "active": true,
+        "date_updated": 1770592083,
+        "date_posted": 1770592083,
+        "url": "https://jobs.smartrecruiters.com/LinkedIn3/744000108014435",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/LinkedIn",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
     }
 ]
