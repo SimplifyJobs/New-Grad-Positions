@@ -200878,5 +200878,41 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amazon",
+        "id": "c2821a6e-4442-4bcc-b484-dd143af28dfe",
+        "title": "System Development Engineer - Analytics Amazon Dedicated Cloud - Adc",
+        "active": true,
+        "date_updated": 1770542497,
+        "date_posted": 1761978284,
+        "url": "https://amazon.jobs/en/jobs/3117599/system-development-engineer-analytics-amazon-dedicated-cloud-adc",
+        "locations": [
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Welocalize",
+        "id": "350cfdb9-8982-41e4-8e05-f3f740c15a6e",
+        "title": "Scout Search Quality Rater - English - UK",
+        "active": true,
+        "date_updated": 1750308242,
+        "date_posted": 1750308242,
+        "url": "https://jobs.lever.co/welocalize/70522b25-5543-4fa1-a511-158e27a64386/apply",
+        "locations": [
+            "Remote in UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Welocalize",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
