@@ -2,23 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Truist",
-        "id": "ceb4bb2b-1182-4adb-aad0-7cde078e9465",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1749853698,
-        "date_posted": 1749853698,
-        "url": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/New-York-NY/Software-Engineer-I_R0103666-1",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Truist",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Jerry",
         "id": "dc9df46e-1cb8-4072-a94f-732cdc147608",
         "title": "Software Engineer I",
@@ -200941,7 +200924,7 @@
         "company_name": "Sainsbury's",
         "id": "b32f8a80-b129-4cd2-bbb0-975ee23192e7",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1770563505,
         "date_posted": 1770563505,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048700",
@@ -200959,7 +200942,7 @@
         "company_name": "Sainsbury's",
         "id": "9b13e2a0-5597-474b-b39a-e80f68ac0c23",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1770563516,
         "date_posted": 1770563516,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048698",
