@@ -92108,7 +92108,7 @@
         "company_name": "JP Morgan Chase",
         "id": "fe283eb4-6596-4dc6-97ec-5fb49182a287",
         "title": "Emerging Talent Software Engineers",
-        "active": true,
+        "active": false,
         "date_updated": 1763427266,
         "date_posted": 1763427266,
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210683258",
@@ -148269,7 +148269,7 @@
         "company_name": "TD Bank",
         "id": "509e7ae3-a4c5-410f-99f6-ec2fc2df1882",
         "title": "Senior Salesforce Analyst - Marketing",
-        "active": true,
+        "active": false,
         "date_updated": 1767632874,
         "date_posted": 1767632874,
         "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Senior-Salesforce-Analyst--Marketing-_R_1432667",
@@ -149718,7 +149718,7 @@
         "company_name": "Alamar Biosciences",
         "id": "f7a0fc0c-a251-45b4-af67-89e455812d52",
         "title": "Field Service Engineer - US East",
-        "active": true,
+        "active": false,
         "date_updated": 1767656620,
         "date_posted": 1762223265,
         "url": "https://job-boards.greenhouse.io/alamarbiosciences/jobs/5696574004",
@@ -183763,7 +183763,7 @@
         "company_name": "Philips",
         "id": "4f2b020a-4a8a-4c9b-abda-a6552daaedea",
         "title": "Field Engineer Program - Field Service Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1769644950,
         "date_posted": 1769644950,
         "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/St-Louis-Missouri-United-States/Full-Time---Field-Engineer-Program--Field-Service-Engineer---St-Louis--Missouri--July-2026_573793",
@@ -187758,7 +187758,7 @@
         "company_name": "TD Bank",
         "id": "e06f6a80-dee9-4e4c-8b2b-c108fbe30844",
         "title": "Data Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1769816009,
         "date_posted": 1769816009,
         "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Data-Associate_R_1470064",
@@ -191484,7 +191484,7 @@
         "company_name": "RTX",
         "id": "84a0be49-4c88-4fb5-b3d9-cf98233cc8c6",
         "title": "Software Engineer 1 - Hardware In the Loop",
-        "active": true,
+        "active": false,
         "date_updated": 1770104037,
         "date_posted": 1770104037,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/XMLNAME-2026-Software-Engineer-I---Hardware-In-the-Loop---Onsite_01820792",
@@ -201037,6 +201037,44 @@
             "Newport News, VA"
         ],
         "company_url": "https://simplify.jobs/c/Huntington-Ingalls-Industries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "fc515074-80e1-4e09-9d58-1d4bd8cd5a55",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1770621063,
+        "date_posted": 1770621063,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048732",
+        "locations": [
+            "Midlothian, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CivilGrid",
+        "id": "cdc4e083-a34f-4cd7-9893-cf0c92b0137d",
+        "title": "GIS Analyst 1",
+        "active": true,
+        "date_updated": 1770621151,
+        "date_posted": 1770621151,
+        "url": "https://jobs.ashbyhq.com/civilgrid/a81b2748-e239-4752-962d-b64316cb3382/application",
+        "locations": [
+            "Kansas City, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/CivilGrid",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
