@@ -185018,7 +185018,7 @@
         "company_name": "84.51 Degrees",
         "id": "7df04bfc-91f0-4bff-9ca1-d907f7f2a9f8",
         "title": "Senior Operations Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1769730022,
         "date_posted": 1769730022,
         "url": "https://job-boards.greenhouse.io/8451/jobs/8388735002",
@@ -201293,5 +201293,109 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Bass Pro Shops",
+        "id": "328e89a9-23b4-4112-895e-6ac3480281e2",
+        "title": "Marine Service Technician",
+        "active": true,
+        "date_updated": 1770652083,
+        "date_posted": 1770652083,
+        "url": "https://basspro.wd1.myworkdayjobs.com/careers/job/Richfield-WI/Marine-Service-Technician_R247504",
+        "locations": [
+            "Menomonee Falls, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Bass-Pro-Shops",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Allstate Insurance Company",
+        "id": "b3b743ac-c13f-417d-befd-df0c203c47f8",
+        "title": "Graduate Product Engineers - Registration of Interest",
+        "active": true,
+        "date_updated": 1770651913,
+        "date_posted": 1770651913,
+        "url": "https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/Belfast-10-Mays-Meadow/Graduate-Product-Engineers---Registration-of-Interest_R26289",
+        "locations": [
+            "Londonderry, UK",
+            "Belfast, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Allstate-Insurance-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Boeing Company",
+        "id": "fc28a1d7-0af7-4345-8586-41f45ddf716c",
+        "title": "Associate Finance Analytics Analyst - Finance Analytics",
+        "active": true,
+        "date_updated": 1770651701,
+        "date_posted": 1770651701,
+        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tukwila-WA/Associate-Finance-Analytics-Analyst_JR2026495245-1",
+        "locations": [
+            "Tukwila, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "PhD",
+            "JD",
+            "MD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "EquipmentShare",
+        "id": "940bd01e-1ce3-4c78-831f-03d40fd904ad",
+        "title": "Telematics Installer",
+        "active": true,
+        "date_updated": 1770651389,
+        "date_posted": 1770651389,
+        "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=7599076",
+        "locations": [
+            "Gainesville, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Equipment-Share",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Howard County Public School System",
+        "id": "17b79faf-d948-4209-891f-dadc5e5e50b0",
+        "title": "Programmer Analyst 1",
+        "active": true,
+        "date_updated": 1770651157,
+        "date_posted": 1770651157,
+        "url": "https://hcpss.wd1.myworkdayjobs.com/hcpss/job/Central-Office/Programmer-Analyst-I_R0001914",
+        "locations": [
+            "Maryland"
+        ],
+        "company_url": "https://simplify.jobs/c/HCPSS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
