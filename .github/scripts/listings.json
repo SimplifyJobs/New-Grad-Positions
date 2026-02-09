@@ -185402,7 +185402,7 @@
         "company_name": "Argonne National Laboratory",
         "id": "e821adb1-3cbe-4971-a05c-e8d060feec10",
         "title": "Postdoctoral Appointee",
-        "active": false,
+        "active": true,
         "date_updated": 1769733790,
         "date_posted": 1769733790,
         "url": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---AI-Assisted-Scientific-Visualization-and-Intelligent-Data-Exploration_421703-1",
@@ -201116,6 +201116,24 @@
             "Stoke-on-Trent, UK"
         ],
         "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Otis",
+        "id": "73d37f7e-78fc-4068-a16b-b8fe7b2c4e8c",
+        "title": "Lift Installation Engineer",
+        "active": true,
+        "date_updated": 1770640986,
+        "date_posted": 1763890800,
+        "url": "https://otis.wd5.myworkdayjobs.com/en-US/REC_Ext_Gateway/job/Otis-Somerset-7-Windmill-Business-Park-Windmill-Road-Kenn-Clevedon-North-Somerset-BS21-6SR/Lift-Installation-Engineer_20138802",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Otis",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
