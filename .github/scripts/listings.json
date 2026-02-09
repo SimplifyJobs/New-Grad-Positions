@@ -3,23 +3,6 @@
         "source": "Simplify",
         "category": "Software",
         "company_name": "Jerry",
-        "id": "dc9df46e-1cb8-4072-a94f-732cdc147608",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1749876528,
-        "date_posted": 1749876528,
-        "url": "https://jobs.ashbyhq.com/Jerry/011c16d3-cd6c-4b44-b887-bc5d391f224e/application",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Jerry",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Jerry",
         "id": "16661010-6f98-42f0-a289-1249e8f0229a",
         "title": "Software Engineer I",
         "active": false,
@@ -188999,7 +188982,7 @@
         "company_name": "Toshiba Global Commerce",
         "id": "2b42533c-2309-462a-8f7b-79dfec094f38",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1769999503,
         "date_posted": 1769999503,
         "url": "https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5039154007",
