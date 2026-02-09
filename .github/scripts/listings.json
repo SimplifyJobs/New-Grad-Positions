@@ -156006,7 +156006,7 @@
         "company_name": "LexisNexis Risk Solutions",
         "id": "ac5720f0-1702-4301-a3f3-a38a2925149a",
         "title": "Associate Analytics Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1767979788,
         "date_posted": 1767979788,
         "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/UK---London-Bishopsgate/Data-Analytics-III_R105719",
@@ -192572,7 +192572,7 @@
         "company_name": "The Boeing Company",
         "id": "9da1a3e5-6276-4c40-8eba-ea9bd553c17c",
         "title": "Intelligence Systems Electrical Hardware Design Engineer \u2013 Associate or Mid-Level",
-        "active": true,
+        "active": false,
         "date_updated": 1770162861,
         "date_posted": 1770162861,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Huntington-Beach-CA/Intelligence-Systems-Electrical-Hardware-Design-Engineer--Associate-or-Mid-Level-_JR2026493522-1",
@@ -196252,7 +196252,7 @@
         "company_name": "Sainsbury's",
         "id": "cf987c89-1716-44ba-9662-1bbbea2f6276",
         "title": "Trading Assistant - Shift",
-        "active": false,
+        "active": true,
         "date_updated": 1770287245,
         "date_posted": 1770287245,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048273",
@@ -196309,7 +196309,7 @@
         "company_name": "Johnson & Johnson",
         "id": "fb66b7b0-2b71-489d-b4f4-a4cb86db1d4e",
         "title": "Postdoctoral Researcher Omics & Multimodal Data Integration",
-        "active": false,
+        "active": true,
         "date_updated": 1770209669,
         "date_posted": 1770133693,
         "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Beerse-Antwerp-Belgium/Postdoctoral-Researcher-Omics---Multimodal-Data-Integration--R-D-Neuroscience-Data-Science---Digital-Health_R-056279-1",
@@ -201101,5 +201101,23 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "80d8e321-82fc-4d02-b275-0c5b5e722cf0",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1770632854,
+        "date_posted": 1770632854,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048722",
+        "locations": [
+            "Stoke-on-Trent, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
