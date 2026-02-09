@@ -199731,7 +199731,7 @@
         "company_name": "Plug Power",
         "id": "9138d539-40fe-45ae-aff2-f5fc0f76cd11",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1770420129,
         "date_posted": 1770420129,
         "url": "https://plugpower.wd5.myworkdayjobs.com/Plug_Power_Inc/job/Rochester-Innovation-Center/Software-Engineer-I_R6798-1",
@@ -200281,7 +200281,7 @@
         "company_name": "Cleveland Clinic",
         "id": "a76e7fcf-dcd5-404f-9c2e-a06d7287e672",
         "title": "Data Scientist 1 - Cancer Center",
-        "active": true,
+        "active": false,
         "date_updated": 1770422732,
         "date_posted": 1770422732,
         "url": "https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Remote-Location/Data-Scientist-I---Cancer-Center_312181-1",
@@ -200759,7 +200759,7 @@
         "company_name": "General Dynamics Information Technology",
         "id": "901f951f-7dc0-4383-a0c8-22481843805e",
         "title": "Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1770536638,
         "date_posted": 1770536638,
         "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Herndon/Software-Developer_RQ214333",
@@ -201137,5 +201137,25 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "f3f9c84c-482f-4228-813d-677cbd0eb932",
+        "title": "2026 Full-time - Software Engineering I - Onsite, CA",
+        "active": true,
+        "date_updated": 1770647216,
+        "date_posted": 1770647216,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-GOLETA-H01--6380-Hollister-Ave--BLDG-H01/XMLNAME-2026-Full-time---Software-Engineering-I---Onsite--CA-_01821775",
+        "locations": [
+            "Goleta, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
