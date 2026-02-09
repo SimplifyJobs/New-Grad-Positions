@@ -31082,7 +31082,7 @@
         "company_name": "PagerDuty",
         "id": "3bee333c-85d4-4a2f-88ce-5bf1a172ed93",
         "title": "Product Manager - App Platform",
-        "active": true,
+        "active": false,
         "date_updated": 1763088189,
         "date_posted": 1763088189,
         "url": "https://job-boards.greenhouse.io/pagerduty/jobs/5691989004",
@@ -201079,6 +201079,27 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "University of Central Florida",
+        "id": "2768df52-54e8-4b6c-9ad7-489f14b8c767",
+        "title": "Research Embedded Training Assistant / Software Engineer",
+        "active": true,
+        "date_updated": 1770622141,
+        "date_posted": 1770622141,
+        "url": "https://ucf.wd1.myworkdayjobs.com/careers/job/RESEARCH-PARK/Assistant-In-Research-Embedded-Training---Software-Engineer_R112596-2",
+        "locations": [
+            "Orlando, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/UCF",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
