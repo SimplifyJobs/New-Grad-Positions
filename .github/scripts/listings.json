@@ -203031,5 +203031,25 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Wellington Management",
+        "id": "1f266380-e6e9-4e3a-a44e-3fcc6285cfc4",
+        "title": "Technology Associate Programme",
+        "active": true,
+        "date_updated": 1770728860,
+        "date_posted": 1770728860,
+        "url": "https://wellington.wd5.myworkdayjobs.com/external/job/London-United-Kingdom/Technology-Associate-Programme_R92941-1",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Wellington",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
