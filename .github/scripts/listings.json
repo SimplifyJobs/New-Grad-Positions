@@ -201679,7 +201679,7 @@
         "company_name": "Sainsbury's",
         "id": "4ee72fac-39d6-425b-93d7-4b3e1f1df52f",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1770678793,
         "date_posted": 1770678793,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048440",
@@ -202588,6 +202588,213 @@
         "degrees": [
             "Bachelor's",
             "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Roche",
+        "id": "b438fd38-3af6-47f8-86c4-651bf761b9ff",
+        "title": "Software Engineer 1 - Cloud",
+        "active": true,
+        "date_updated": 1770690270,
+        "date_posted": 1770690270,
+        "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Santa-Clara/Software-Engineer-I--Cloud_202602-103210-2",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Roche",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AMH",
+        "id": "7db474ea-5cb0-469b-982f-f26a04d56bbd",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1770690354,
+        "date_posted": 1770690354,
+        "url": "https://amh.wd12.myworkdayjobs.com/External_Careers/job/Draper-UT/Software-Engineer-I_JR101323",
+        "locations": [
+            "Draper, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/AMH",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Leidos",
+        "id": "5f0a3120-5e1f-446a-b7c4-69387f1d7867",
+        "title": "Junior Simulation Engineer",
+        "active": true,
+        "date_updated": 1770690214,
+        "date_posted": 1770690214,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/San-Diego-CA/Junior-Simulation-Engineer_R-00175584",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "7d1be62d-2c95-4d09-a56b-5ad79f687077",
+        "title": "Software Engineer - Simulation - Oklahoma City or Melbourne FL",
+        "active": true,
+        "date_updated": 1770690159,
+        "date_posted": 1770690159,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Oklahoma-Oklahoma-City/Software-Engineer---Simulation--Oklahoma-City-or-Melbourne-FL-_R10222301",
+        "locations": [
+            "Oklahoma City, OK",
+            "Melbourne, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "7a991b0e-7000-47b2-9a6b-d80ce92e1ca0",
+        "title": "Software/Principal Software Engineer Level",
+        "active": true,
+        "date_updated": 1770690160,
+        "date_posted": 1770690160,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Clearfield/Software-Principal-Software-Engineer-Level-2-3_R10220310",
+        "locations": [
+            "Hill AFB, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Dyna Robotics",
+        "id": "7fe90a2a-0330-4ae9-9898-f398dc5bad9e",
+        "title": "Data Annotation Specialist",
+        "active": true,
+        "date_updated": 1770690000,
+        "date_posted": 1770690000,
+        "url": "https://jobs.ashbyhq.com/dyna-robotics/080a2b88-f724-4585-8d16-2d4839a1d563/application",
+        "locations": [
+            "San Carlos, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Dyna-Robotics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Becton Dickinson",
+        "id": "04f66a95-1715-4bf6-a8b5-2f6590954bde",
+        "title": "System Support Engineer 1",
+        "active": true,
+        "date_updated": 1770689956,
+        "date_posted": 1770689956,
+        "url": "https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-MD---Sparks---39-Loveton-Circle/System-Support-Engineer-1---Hybrid_R-538122",
+        "locations": [
+            "Sparks, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Becton-Dickinson",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Arcadis",
+        "id": "0b01483a-69c9-49f9-b289-192638e5ee1a",
+        "title": "Transit Analyst",
+        "active": true,
+        "date_updated": 1770689642,
+        "date_posted": 1770689642,
+        "url": "https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/38077",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Arcadis",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Deutsche Bank",
+        "id": "ed2b1a96-cf2e-4cbb-847f-31c3943c6ec2",
+        "title": "Product Management Specialist - Client Solutions Latam",
+        "active": true,
+        "date_updated": 1770689596,
+        "date_posted": 1770689596,
+        "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/New-York-1-Columbus-Circle/Product-Management-Specialist---Client-Solutions-LatAM_R0422458",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Deutsche-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Goldman Sachs",
+        "id": "e11fe3c1-32c0-47f9-b850-76c2704f180d",
+        "title": "FICC & Equities - Sales & Trading",
+        "active": true,
+        "date_updated": 1770689487,
+        "date_posted": 1770689487,
+        "url": "https://higher.gs.com/roles/159899",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Goldman-Sachs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
