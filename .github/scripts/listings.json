@@ -90419,7 +90419,7 @@
         "company_name": "RTX",
         "id": "5c92f994-fdfe-4606-b2ac-a10a3e7b09d0",
         "title": "Electronics Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1763378598,
         "date_posted": 1763378598,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/Goodrich-Control-Systems-The-Radleys-Marston-Green-Birmingham-B33-0HZ/Electronics-Technician_01805668",
@@ -94507,7 +94507,7 @@
         "company_name": "The Hartford ",
         "id": "bd766241-266e-4209-b825-d833b6e011a2",
         "title": "Associate Tech - Data Analytics - Cyber",
-        "active": false,
+        "active": true,
         "date_updated": 1763512173,
         "date_posted": 1763512173,
         "url": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Associate--Tech--Data--Analytics--Cyber--and-Operations-Leadership-Development-Program_R2522284",
@@ -158522,7 +158522,7 @@
         "company_name": "Bank of Montreal",
         "id": "5558b06f-abdf-4b7b-b2b7-a53f2749d7e0",
         "title": "Associate \u2013 Software Engineer - C#",
-        "active": true,
+        "active": false,
         "date_updated": 1768259998,
         "date_posted": 1768259998,
         "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Associate--Software-Engineer--C--_R260001080",
@@ -167754,7 +167754,7 @@
         "company_name": "Sainsbury's",
         "id": "02e7b89f-c0f6-49fd-8a8c-ff8023a3c408",
         "title": "Trading Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1768818917,
         "date_posted": 1768818917,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400046347",
@@ -194286,7 +194286,7 @@
         "company_name": "Sainsbury's",
         "id": "63b93318-df61-4f77-8f7a-5aac5616943b",
         "title": "Trading Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1770247146,
         "date_posted": 1770247146,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048267",
@@ -196270,7 +196270,7 @@
         "company_name": "JP Morgan Chase",
         "id": "74e4dcea-4343-4489-aabe-0319fa8b26b5",
         "title": "Risk Management - Data Scientist Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1770287343,
         "date_posted": 1770287343,
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210706552",
@@ -197050,7 +197050,7 @@
         "company_name": "Cincinnati Financial",
         "id": "e74921fe-dbbb-441b-ac42-01882b5f1d5d",
         "title": "Life \u2013 Analytics Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1770333267,
         "date_posted": 1770333267,
         "url": "https://cinfin.taleo.net/careersection/ex/jobdetail.ftl?job=2600189",
@@ -197445,7 +197445,7 @@
         "company_name": "Mass General Brigham",
         "id": "8eb50a1f-ee58-40d3-8a57-cc217d9f9ee6",
         "title": "Research Data Analyst - Heart Vascular Institute",
-        "active": true,
+        "active": false,
         "date_updated": 1770335668,
         "date_posted": 1770335668,
         "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Boston-MA/Research-Data-Analyst--Heart-Vascular-Institute_RQ4050164",
@@ -203069,5 +203069,123 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Microchip Technology",
+        "id": "3d82aa12-a9da-4cd6-9872-44a8f2bd70d3",
+        "title": "Graduate CAD Engineer",
+        "active": true,
+        "date_updated": 1770736711,
+        "date_posted": 1770736711,
+        "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/United-Kingdom---Caldicot/Graduate---CAD-Engineer_R625-26",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Microchip-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "WSP",
+        "id": "809ec791-238b-40f4-96dd-95a4240b136e",
+        "title": "Assistant GIS Consultant",
+        "active": true,
+        "date_updated": 1770736625,
+        "date_posted": 1770736625,
+        "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/80364",
+        "locations": [
+            "Belfast, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/WSP",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Grayce",
+        "id": "46d1f722-3c69-498b-87e9-2cf41c5c95f4",
+        "title": "Graduate Data Analyst",
+        "active": true,
+        "date_updated": 1770736601,
+        "date_posted": 1770736601,
+        "url": "https://apply.workable.com/grayce/j/7016D40EA8/apply",
+        "locations": [
+            "Manchester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/ece08408-be43-4331-9af6-746c6e9977ec",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "706cafd6-04ea-4a24-b71e-00088661ba82",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1770736284,
+        "date_posted": 1770736284,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048905",
+        "locations": [
+            "Blackpool, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Ramboll",
+        "id": "5aa4cdb1-a9c7-40c4-ae18-c2ef404a7087",
+        "title": "Associate Air Quality Consultant",
+        "active": true,
+        "date_updated": 1770736343,
+        "date_posted": 1770736343,
+        "url": "https://jobs.smartrecruiters.com/Ramboll3/744000108538985",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Ramboll",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Sysmex",
+        "id": "4dc0c272-2d74-4e4c-8ab8-975472ba2170",
+        "title": "Technician - Field Service - Regional",
+        "active": true,
+        "date_updated": 1770736099,
+        "date_posted": 1770736099,
+        "url": "https://careers-sysmex.icims.com/jobs/4543/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Sysmex",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
     }
 ]
