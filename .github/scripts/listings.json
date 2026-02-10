@@ -179461,7 +179461,7 @@
         "company_name": "Lloyds Bank",
         "id": "42a6c4fb-43c2-4f93-a50d-8c855ad408b4",
         "title": "Data Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1769520594,
         "date_posted": 1769520594,
         "url": "https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Leeds-Wellington-Place/Data-Engineer_141010-2",
@@ -179695,7 +179695,7 @@
         "company_name": "Awardco",
         "id": "dbd5dcf7-7a36-4ba2-97ed-f59e09470bdc",
         "title": "Front End Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1769556403,
         "date_posted": 1769556403,
         "url": "https://award.co/position?gh_jid=4327802004",
@@ -198108,7 +198108,7 @@
         "company_name": "USAA",
         "id": "4212aee2-c968-4286-9eb1-cb5b70bfa2e1",
         "title": "Kafka Software Engineer Entry Level",
-        "active": false,
+        "active": true,
         "date_updated": 1770343803,
         "date_posted": 1770343803,
         "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/Plano-Legacy/Kafka-Software-Engineer-Entry-Level_R0114747",
@@ -201661,7 +201661,7 @@
         "company_name": "Sainsbury's",
         "id": "55722e3b-5ce4-4f5f-b38e-30fc5b2b9299",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1770678790,
         "date_posted": 1770678790,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048853",
@@ -202547,6 +202547,47 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Comcast",
+        "id": "14befacf-e6ba-42ce-a9fd-315db54e9870",
+        "title": "Support Engineer",
+        "active": true,
+        "date_updated": 1770681658,
+        "date_posted": 1770681658,
+        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/NY---New-York-1407-Broadway-Floor-12/Support-Engineer_R430445",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Comcast",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Integer Holdings Corporation",
+        "id": "a3f19f84-1482-44db-88c2-ef03ad1d8d52",
+        "title": "Engineering Technician",
+        "active": true,
+        "date_updated": 1770681394,
+        "date_posted": 1770681394,
+        "url": "https://integer.wd1.myworkdayjobs.com/External/job/Salem-VA/Engineering-Technician_R34172",
+        "locations": [
+            "Roanoke, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Integer-Holdings-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
         ]
     }
 ]
