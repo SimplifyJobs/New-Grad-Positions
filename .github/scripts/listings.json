@@ -197663,7 +197663,7 @@
         "company_name": "Chamberlain Group",
         "id": "17cd526a-e9d0-49c4-b8c3-e23c0800ce1e",
         "title": "Technician 1 - Test",
-        "active": true,
+        "active": false,
         "date_updated": 1770334841,
         "date_posted": 1770334841,
         "url": "https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Elmhurst-IL/Technician-1--Test_JR30161",
@@ -202359,7 +202359,7 @@
         "company_name": "Planet",
         "id": "9f963b78-84f7-4869-9c75-04d10bdfdd65",
         "title": "Associate \u2013 Space Operations",
-        "active": true,
+        "active": false,
         "date_updated": 1770679933,
         "date_posted": 1770679933,
         "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7574476",
@@ -202791,6 +202791,66 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Goldman-Sachs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Applied Materials",
+        "id": "15aa5a64-af85-4d54-8f9b-89634ac9af19",
+        "title": "Software Engineer - New College Grad-Master's",
+        "active": true,
+        "date_updated": 1770691882,
+        "date_posted": 1770691882,
+        "url": "https://amat.wd1.myworkdayjobs.com/External/job/ChandlerAZ/Software-Engineer--New-College-Grad--Master-s--Chandler--AZ-_R2612590",
+        "locations": [
+            "Chandler, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Materials",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "fd1fdbe1-1b62-405e-9462-e64a85354dcf",
+        "title": "Fulltime-Systems Engineer 1",
+        "active": true,
+        "date_updated": 1770690660,
+        "date_posted": 1770690660,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513PW--2501-W-University-Dr--PW-BLDG/XMLNAME-2026--Fulltime-Systems-Engineer-I--Onsite_01821685",
+        "locations": [
+            "McKinney, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Captivation",
+        "id": "bde2fe2c-86f8-41bc-bb4b-c8591318433b",
+        "title": "Software Engineer 1 - AI/ML/Terraform/AWS/C++/Python/Golang",
+        "active": true,
+        "date_updated": 1770690737,
+        "date_posted": 1768606172,
+        "url": "https://job-boards.greenhouse.io/captivation/jobs/5074713008",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Captivation",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
