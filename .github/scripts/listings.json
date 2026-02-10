@@ -155706,7 +155706,7 @@
         "company_name": "Google",
         "id": "2108441f-f893-44c7-8037-1ea64188d866",
         "title": "Software Engineer 3 - Security/Privacy - Google Cloud Security and Privacy",
-        "active": true,
+        "active": false,
         "date_updated": 1767951415,
         "date_posted": 1764975956,
         "url": "https://www.google.com/about/careers/applications/jobs/results/91697964845540038",
@@ -183385,7 +183385,7 @@
         "company_name": "Legrand NA",
         "id": "26754532-8728-46b2-8375-3bb78714d7c2",
         "title": "Product Manager",
-        "active": true,
+        "active": false,
         "date_updated": 1769670370,
         "date_posted": 1769670370,
         "url": "https://jobs-legrand.icims.com/jobs/9778/job?mobile=true&needsRedirect=false",
@@ -190070,7 +190070,7 @@
         "company_name": "CenturyLink",
         "id": "73bd890d-5167-4960-9365-6257b7f8b05c",
         "title": "Software Developer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1770074144,
         "date_posted": 1770074144,
         "url": "https://internaljobs.centurylink.com/job/Remote-Software-Developer-I/1361176100/?ats=successfactors",
@@ -202957,5 +202957,23 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ION Group",
+        "id": "8756c089-fbac-4da2-ae9e-8ff53a99e16c",
+        "title": "iOS Engineer",
+        "active": true,
+        "date_updated": 1770715096,
+        "date_posted": 1770333170,
+        "url": "https://jobs.lever.co/ion/2d916f0e-4c8d-4d00-86cd-240b1fa38f30/apply",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/ION-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
