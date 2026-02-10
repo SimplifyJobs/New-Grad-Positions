@@ -201008,7 +201008,7 @@
         "company_name": "Hewlett Packard Enterprise",
         "id": "046e6135-45a0-4e94-a20a-91653c5fa6ea",
         "title": "Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1770604074,
         "date_posted": 1770604074,
         "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Roseville-California-United-States-of-America/Software-Engineer-I_1202397",
@@ -202915,6 +202915,47 @@
         "degrees": [
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AT&T",
+        "id": "5d08e2ae-cbb1-4920-b240-211e76b40cda",
+        "title": "Software Developer - Asset Management - Software Engineer I",
+        "active": true,
+        "date_updated": 1770708617,
+        "date_posted": 1770708617,
+        "url": "https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Columbia-Maryland/Software-Developer---Asset-Management--SWE-I---Government-_R-100811",
+        "locations": [
+            "Columbia, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/ATT",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Hewlett Packard Enterprise",
+        "id": "aa0b4bb2-e4d4-4698-87a6-5eb40bc6eef2",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1770708541,
+        "date_posted": 1770708541,
+        "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Roseville-California-United-States-of-America/Software-Engineer-I_1202393",
+        "locations": [
+            "Roseville, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
