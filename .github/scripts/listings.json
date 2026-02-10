@@ -56418,7 +56418,7 @@
         "company_name": "Argonne National Laboratory",
         "id": "26f366b0-ec19-4937-ba07-4b0753ac432e",
         "title": "Postdoctoral Research Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1761501628,
         "date_posted": 1761501628,
         "url": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Research-Associate---Machine-Learning-in-High-Energy-Physics-Detector-Operations_421270",
@@ -161312,7 +161312,7 @@
         "company_name": "Kaseya",
         "id": "f481c45d-1584-42f4-ac0e-4f0fb19ae561",
         "title": "Product Marketing Manager",
-        "active": true,
+        "active": false,
         "date_updated": 1768381874,
         "date_posted": 1766509613,
         "url": "https://www.kaseya.com/careers/jobs/id/5729960004/?gh_jid=5729960004",
@@ -187780,7 +187780,7 @@
         "company_name": "Fidelity National Information Services",
         "id": "af16a2ca-0233-4fee-afa3-ba51df54cd06",
         "title": "Operations Analyst Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1769816003,
         "date_posted": 1769816003,
         "url": "https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-WI-MKE-4900/Operations-Analyst-Specialist_JR0303970",
@@ -200779,7 +200779,7 @@
         "company_name": "Vanderbilt Health",
         "id": "3e3fdc0c-7f98-4dab-b27c-b7edaf11c3c3",
         "title": "Associate Product Manager - Clinical Engineering Products",
-        "active": true,
+        "active": false,
         "date_updated": 1770536205,
         "date_posted": 1770536205,
         "url": "https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Associate-Product-Manager---Clinical-Engineering-Products--Local---Hybrid-_R-53972-2",
@@ -203051,5 +203051,23 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "8a208e6f-a470-4885-b9a6-f594101cd762",
+        "title": "Principal Engineer Software - Payloads & Tasking Applications - San Diego CA",
+        "active": true,
+        "date_updated": 1770734170,
+        "date_posted": 1770420029,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Principal-Engineer-Software---Payloads---Tasking-Applications--San-Diego-CA-_R10221815",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
