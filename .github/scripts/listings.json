@@ -181154,7 +181154,7 @@
         "company_name": "Embry-Riddle Aeronautical University",
         "id": "309d1278-5da8-4c69-b939-254b37a47db3",
         "title": "Tenure-Track Faculty Position with a focus on Aviation Operations and Machine Learning/AI in the. - Daytona Beach Campus",
-        "active": true,
+        "active": false,
         "date_updated": 1769584450,
         "date_posted": 1769584450,
         "url": "https://embryriddle.wd1.myworkdayjobs.com/External/job/Daytona-Beach-FL/Tenure-Track-Faculty-Position-with-a-focus-on-Aviation-Operations-and-Machine-Learning-AI-in-the-School-of-Graduate-Studies--Daytona-Beach-Campus_R309969",
@@ -181174,7 +181174,7 @@
         "company_name": "Embry-Riddle Aeronautical University",
         "id": "cfe3c262-5c2f-410b-9099-bcaad21e6998",
         "title": "Assistant Professor",
-        "active": false,
+        "active": true,
         "date_updated": 1769584432,
         "date_posted": 1769584432,
         "url": "https://embryriddle.wd1.myworkdayjobs.com/External/job/Daytona-Beach-FL/Tenure-Track-Faculty-Position-with-a-focus-on-Big-Data-Analytics-and-Aviation-Safety-in-the-School-of-Graduate-Studies_R309967",
@@ -185402,7 +185402,7 @@
         "company_name": "Argonne National Laboratory",
         "id": "e821adb1-3cbe-4971-a05c-e8d060feec10",
         "title": "Postdoctoral Appointee",
-        "active": true,
+        "active": false,
         "date_updated": 1769733790,
         "date_posted": 1769733790,
         "url": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---AI-Assisted-Scientific-Visualization-and-Intelligent-Data-Exploration_421703-1",
@@ -203011,5 +203011,25 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Wellington Management",
+        "id": "8a684452-06e5-4b3f-b3b8-65315a2f9133",
+        "title": "Technology Associate Programme",
+        "active": true,
+        "date_updated": 1770726993,
+        "date_posted": 1770726993,
+        "url": "https://wellington.wd5.myworkdayjobs.com/Campus/job/London-United-Kingdom/Technology-Associate-Programme_R92941-2",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Wellington",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
