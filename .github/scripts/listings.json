@@ -178724,7 +178724,7 @@
         "company_name": "The Boeing Company",
         "id": "d8207772-fcd6-4fa3-afbb-802bf86850c8",
         "title": "Software Engineer - Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1769470820,
         "date_posted": 1769470820,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Herndon-VA/Software-Engineers--Associate-or-Experienced-_JR2026491832",
@@ -186116,7 +186116,7 @@
         "company_name": "RTX",
         "id": "e4826ad9-d53b-40dc-b4b0-0edf95237c59",
         "title": "Software Engineer - Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1769758978,
         "date_posted": 1769758978,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/XMLNAME-2026-Full-time---Software-Engineer-I---Onsite--AZ-_01820534",
@@ -189763,7 +189763,7 @@
         "company_name": "Cox",
         "id": "3eef765d-9505-405a-88d1-f527002c9c9f",
         "title": "Product Manager 1",
-        "active": false,
+        "active": true,
         "date_updated": 1770074501,
         "date_posted": 1770074501,
         "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Product-Manager-I_R202672840",
@@ -202855,6 +202855,66 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "IDEX",
+        "id": "8b115e4f-d29c-47e6-8186-4f49bd625457",
+        "title": "Optical Technician",
+        "active": true,
+        "date_updated": 1770707940,
+        "date_posted": 1770707940,
+        "url": "https://idexcorp.wd5.myworkdayjobs.com/idex_careers/job/Longmont-Colorado/Optical-Technician_R-08516",
+        "locations": [
+            "Longmont, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/IDEX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "JP Morgan Chase",
+        "id": "70918bac-d59d-4987-9444-4ca23b655ac2",
+        "title": "Applied AI/ML Associate",
+        "active": true,
+        "date_updated": 1770707707,
+        "date_posted": 1770707707,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210710290",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Faculty AI",
+        "id": "af167c7b-5780-4a52-ad60-7f665cece17b",
+        "title": "Faculty Fellowship Programme - Data Science - May 2026",
+        "active": true,
+        "date_updated": 1770707613,
+        "date_posted": 1770707613,
+        "url": "https://jobs.ashbyhq.com/faculty/766f9d2a-d40e-4ba3-a407-5157eda242c1/application",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Faculty-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
         ]
     }
 ]
