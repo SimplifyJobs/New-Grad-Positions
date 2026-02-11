@@ -174301,7 +174301,7 @@
         "company_name": "LG Electronics",
         "id": "70e36165-669b-4cba-9976-e1e0b13baced",
         "title": "Embodied AI Researcher",
-        "active": false,
+        "active": true,
         "date_updated": 1769124767,
         "date_posted": 1764530958,
         "url": "https://job-boards.greenhouse.io/lgelectronics/jobs/4946382008",
@@ -204632,7 +204632,7 @@
         "company_name": "HMT",
         "id": "e39217b9-6af1-4cc0-921f-03bdba279836",
         "title": "NDT Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1770765801,
         "date_posted": 1770765801,
         "url": "https://hmt-tank.breezy.hr/p/c9e9bcb31f83/apply",
@@ -204981,6 +204981,47 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "IEM",
+        "id": "05593cfc-a9e3-4f81-8bd6-57bbd3a99311",
+        "title": "Engineering Administrator",
+        "active": true,
+        "date_updated": 1770776887,
+        "date_posted": 1770766297,
+        "url": "https://job-boards.greenhouse.io/industrialelectricmanufacturing/jobs/4129298009",
+        "locations": [
+            "Tualatin, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/IEM",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Goldman Sachs",
+        "id": "6b46f053-a3ec-486e-98a9-552967da322b",
+        "title": "Global Markets Trading Platform Engineering - GBM Public - Associate implementation placeholder",
+        "active": true,
+        "date_updated": 1770803671,
+        "date_posted": 1770419751,
+        "url": "https://higher.gs.com/roles/161601",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Goldman-Sachs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
