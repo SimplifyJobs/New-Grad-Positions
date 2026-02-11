@@ -129965,7 +129965,7 @@
         "company_name": "Quantexa",
         "id": "05947923-c830-44f4-a7fa-43ab278c4e0f",
         "title": "Associate Data Scientist",
-        "active": false,
+        "active": true,
         "date_updated": 1765927002,
         "date_posted": 1765927002,
         "url": "https://apply.workable.com/quantexa/j/5AF3D5E524/apply",
@@ -169548,7 +169548,7 @@
         "company_name": "Xcel Energy",
         "id": "6bcaa3ab-5bea-4f32-a593-73816f81f650",
         "title": "Geospatial Data Technician 1",
-        "active": false,
+        "active": true,
         "date_updated": 1769027726,
         "date_posted": 1769027726,
         "url": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80223/Geospatial-Data-Technician-I_JR112327-1",
@@ -194286,7 +194286,7 @@
         "company_name": "Sainsbury's",
         "id": "63b93318-df61-4f77-8f7a-5aac5616943b",
         "title": "Trading Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1770247146,
         "date_posted": 1770247146,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048267",
@@ -203656,7 +203656,7 @@
         "company_name": "Sono-Tek Corporation",
         "id": "cabe9810-b1dc-471b-b4c8-66c909efe727",
         "title": "Electrical Lab Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1770765104,
         "date_posted": 1770765104,
         "url": "https://careers-councilofindustry.icims.com/jobs/4987/job?mobile=true&needsRedirect=false",
@@ -204813,7 +204813,7 @@
         "company_name": "Fidelity Investments",
         "id": "813e98e6-c5ec-418c-855d-a00aae9f6270",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1770767963,
         "date_posted": 1770767963,
         "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/Smithfield-RI/Associate-Software-Engineer_2122112-2",
@@ -205245,5 +205245,171 @@
         "degrees": [
             "Associate's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Caesars Entertainment",
+        "id": "ec4f307d-e699-40f3-962c-d162b6bca4e3",
+        "title": "Slot Technician",
+        "active": true,
+        "date_updated": 1770823039,
+        "date_posted": 1770823039,
+        "url": "https://edmn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/79699",
+        "locations": [
+            "Franklin, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Caesars-Entertainment",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Southern Company",
+        "id": "026721ba-090e-428f-809a-49efbe0f3570",
+        "title": "Marketing Data Analyst",
+        "active": true,
+        "date_updated": 1770823046,
+        "date_posted": 1770823046,
+        "url": "https://emje.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/17040",
+        "locations": [
+            "Birmingham, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Southern-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "ef2a7cfe-848e-419d-8418-a1d534fdff36",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1770822656,
+        "date_posted": 1770822656,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400049018",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "ec112456-6300-4dbf-ba76-ddd0a4c164be",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1770822650,
+        "date_posted": 1770822650,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400049029",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "d6c51031-360e-4c7e-a843-34aacb78f56f",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1770822643,
+        "date_posted": 1770822643,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400049034",
+        "locations": [
+            "Harlow, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "d6a795e3-7bf4-4a0d-be4b-e3cb1e64a59b",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1770822632,
+        "date_posted": 1770822632,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400049001",
+        "locations": [
+            "Durham, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "9986ca45-97c4-436c-9116-e35039b2ab0b",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1770822659,
+        "date_posted": 1770822659,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400049035",
+        "locations": [
+            "Harlow, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Michigan Farm Bureau",
+        "id": "3c7d7d46-4275-4650-b572-3a0dc1101ca8",
+        "title": "Associate IT Data Analyst",
+        "active": true,
+        "date_updated": 1770822496,
+        "date_posted": 1770822496,
+        "url": "https://careers-michfb.icims.com/jobs/8544/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "East Lansing, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Michigan-Farm-Bureau",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ServiceNow",
+        "id": "6bd765f5-e77a-4787-be3c-636bcbffa994",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1770822309,
+        "date_posted": 1770822309,
+        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000108759985",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/ServiceNow",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
