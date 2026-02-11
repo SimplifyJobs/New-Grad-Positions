@@ -117583,7 +117583,7 @@
         "company_name": "The Boeing Company",
         "id": "775bb551-6884-453a-af1b-9efc06585963",
         "title": "Linux System Administrator",
-        "active": true,
+        "active": false,
         "date_updated": 1764978180,
         "date_posted": 1764978180,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seal-Beach-CA/Linux-System-Administrator_JR2025487641",
@@ -193799,7 +193799,7 @@
         "company_name": "Ohio State University",
         "id": "11c82a30-609b-4b8b-864a-97aa7d6d1ef6",
         "title": "Research Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1770218299,
         "date_posted": 1770218299,
         "url": "https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Columbus-Campus/Research-Technician_R144167",
@@ -205510,5 +205510,25 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Oklahoma State Government",
+        "id": "91d23213-4a43-4f32-93c3-c80a0444edc7",
+        "title": "Oil and Gas Specialist 1",
+        "active": true,
+        "date_updated": 1770819072,
+        "date_posted": 1770334934,
+        "url": "https://okgov.wd1.myworkdayjobs.com/okgovjobs/job/Oklahoma-County/Oil-and-Gas-Specialist-I_JR55973",
+        "locations": [
+            "Oklahoma"
+        ],
+        "company_url": "https://simplify.jobs/c/Oklahoma-State-Government",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
