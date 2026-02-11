@@ -94635,7 +94635,7 @@
         "company_name": "Apple",
         "id": "f44ae0ca-45c3-469f-824c-7e4bff0a8292",
         "title": "GPU Design Engineer - Memory Hierarchy",
-        "active": true,
+        "active": false,
         "date_updated": 1763514489,
         "date_posted": 1763514489,
         "url": "https://jobs.apple.com/en-us/details/200605625",
@@ -114034,7 +114034,7 @@
         "company_name": "Microchip Technology",
         "id": "ac250283-32e6-43a1-9698-ed3cde7f9cfa",
         "title": "Engineer 1 - Test",
-        "active": true,
+        "active": false,
         "date_updated": 1764731864,
         "date_posted": 1764731864,
         "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/AZ---Chandler/Engineer-I-Test_R2113-25",
@@ -126805,7 +126805,7 @@
         "company_name": "Light & Wonder",
         "id": "9a2b268f-2fc9-4040-99d6-8f9d4455c290",
         "title": "Mathematician",
-        "active": false,
+        "active": true,
         "date_updated": 1765637068,
         "date_posted": 1763890332,
         "url": "https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Las-Vegas-NV/Senior-Mathematician_R320859",
@@ -136636,7 +136636,7 @@
         "company_name": "Microchip Technology",
         "id": "9d4e6e34-9bd9-42ee-be1c-31ddcdc05a4e",
         "title": "Engineer 1 - Test",
-        "active": true,
+        "active": false,
         "date_updated": 1766517446,
         "date_posted": 1766517446,
         "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/TX---Austin---Park-Centre/Engineer-I--Test_R2514-25",
@@ -137807,7 +137807,7 @@
         "company_name": "Voyager Technologies",
         "id": "9f6fb5df-8de7-479b-b29d-45f1fcf227da",
         "title": "AI Software Engineer - Agents - Ace",
-        "active": false,
+        "active": true,
         "date_updated": 1766619489,
         "date_posted": 1766509609,
         "url": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4087903009",
@@ -179990,7 +179990,7 @@
         "company_name": "Sainsbury's",
         "id": "ce920f0d-50d0-4fae-8baf-bbe7bdbfe1b9",
         "title": "Trading Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1769555908,
         "date_posted": 1769555908,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047266",
@@ -189049,7 +189049,7 @@
         "company_name": "Greenheck Group",
         "id": "8c2be8af-f08b-481d-80ff-d797b9dea024",
         "title": "Application Developer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1770017091,
         "date_posted": 1770017091,
         "url": "https://greenheckgroup.wd5.myworkdayjobs.com/external/job/Schofield-WI/Application-Developer-I_JR103120-1",
@@ -194460,7 +194460,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "638158a7-a85d-4f35-8803-8a45bac43027",
         "title": "Software Engineer \u2013 Entry Level",
-        "active": false,
+        "active": true,
         "date_updated": 1770246758,
         "date_posted": 1770246758,
         "url": "https://careers-gdms.icims.com/jobs/70392/job?mobile=true&needsRedirect=false",
@@ -196015,24 +196015,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Omnea",
-        "id": "4b1465ed-1a88-455c-9658-7bd0107b2be6",
-        "title": "Solutions Associate",
-        "active": true,
-        "date_updated": 1770282544,
-        "date_posted": 1750115208,
-        "url": "https://jobs.ashbyhq.com/omnea/425759c7-c2d6-4dcd-b04a-3dc27c4a3c10/application",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Omnea",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -205490,6 +205472,335 @@
             "Oklahoma"
         ],
         "company_url": "https://simplify.jobs/c/Oklahoma-State-Government",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Graphcore",
+        "id": "889485d0-79e9-4fcf-8bb6-4bdc35f5fe3c",
+        "title": "Graduate Software Engineer - Neuro Engine Modelling",
+        "active": true,
+        "date_updated": 1770852337,
+        "date_posted": 1770852337,
+        "url": "https://job-boards.greenhouse.io/graphcore/jobs/8418435002",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Graphcore",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Living Spaces",
+        "id": "cf313573-68d3-4883-ac3f-0ab555e19f1c",
+        "title": "Front End Web Developer 1",
+        "active": true,
+        "date_updated": 1770852139,
+        "date_posted": 1770852139,
+        "url": "https://livingspaces.wd5.myworkdayjobs.com/ls/job/La-Mirada-CA---Corporate/Front-End-Web-Developer-1_R42622",
+        "locations": [
+            "La Mirada, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Living-Spaces",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Northeastern",
+        "id": "bc233147-ab4b-4bf1-b567-e6b9c96abd4a",
+        "title": "Postdoctoral Research Associate",
+        "active": true,
+        "date_updated": 1770852173,
+        "date_posted": 1770852173,
+        "url": "https://northeastern.wd1.myworkdayjobs.com/careers/job/Boston-MA-Main-Campus/Postdoctoral-Research-Associate_R130045",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Northeastern",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Goldman Sachs",
+        "id": "65bbb6ae-b0b7-461c-abaf-ae8c0a71b8bf",
+        "title": "Global Banking & Markets - Public - New York Analyst CVA Trading",
+        "active": true,
+        "date_updated": 1770851967,
+        "date_posted": 1770851967,
+        "url": "https://higher.gs.com/roles/162111",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Goldman-Sachs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Leidos",
+        "id": "422bb9ea-d772-4c6b-ba80-f0ebf7826402",
+        "title": "Research Data Analyst",
+        "active": true,
+        "date_updated": 1770852226,
+        "date_posted": 1770852226,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/San-Diego-CA/Research-Data-Analyst_R-00175836",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "d69336fe-346b-44dd-aa56-eba43e01625d",
+        "title": "Assembly B",
+        "active": true,
+        "date_updated": 1770851657,
+        "date_posted": 1770851657,
+        "url": "https://jobs.l3harris.com/job/Cincinnati-Assembly-B-OH-45245/1364064000/?ats=successfactors",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Vertiv",
+        "id": "05c9542c-6b97-49a5-b744-6344694797e4",
+        "title": "ERS NETA Electrical Testing Technician - Abilene - TX",
+        "active": true,
+        "date_updated": 1770851810,
+        "date_posted": 1770851810,
+        "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20259650",
+        "locations": [
+            "Stamford, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Vertiv",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "f0d29cc8-b44a-4068-8a7f-381a1bdd93f1",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1770851544,
+        "date_posted": 1770851544,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400049084",
+        "locations": [
+            "Exeter, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "b1d3eb13-1ea0-41ea-95ae-184dcb43a9ca",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1770851504,
+        "date_posted": 1770851504,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048660",
+        "locations": [
+            "Moreton, Greasby, Wirral, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "a7e8b89b-3dfb-4acc-9064-481bb2576e19",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1770851490,
+        "date_posted": 1770851490,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400049124",
+        "locations": [
+            "Liverpool, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Peraton",
+        "id": "738e1b53-b530-4985-9a18-fc6333a84fcf",
+        "title": "AI/ML Research Scientist",
+        "active": true,
+        "date_updated": 1770851531,
+        "date_posted": 1770851531,
+        "url": "https://careers-peraton.icims.com/jobs/163611/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Peraton",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "6b533632-52b8-4eb8-8636-140e6c985f56",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1770851500,
+        "date_posted": 1770851500,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400049101",
+        "locations": [
+            "Brighton, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Markon",
+        "id": "69a45f0c-60bf-4ea6-814b-eba6de8a31d6",
+        "title": "Software Engineer Level 0",
+        "active": true,
+        "date_updated": 1770851529,
+        "date_posted": 1770851529,
+        "url": "https://careers-markon.icims.com/jobs/8107/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Odenton, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Markon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Seagate Technology ",
+        "id": "86d01f32-8c89-49b7-a09b-6dcc170f0117",
+        "title": "Test Process Firmware Engineer  Early Career",
+        "active": true,
+        "date_updated": 1770851323,
+        "date_posted": 1770851323,
+        "url": "https://seagatecareers.com/job/Longmont-Test-Process-Firmware-Engineer-Early-Career-CO-80501/1364038500/?ats=successfactors",
+        "locations": [
+            "Longmont, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Seagate-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "PennState University",
+        "id": "ebeaaeb3-5375-4984-b049-2834f6d0292f",
+        "title": "Research Assistant",
+        "active": true,
+        "date_updated": 1770850993,
+        "date_posted": 1770850993,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-Assistant_REQ_0000075541-1",
+        "locations": [
+            "Pennsylvania"
+        ],
+        "company_url": "https://simplify.jobs/c/Penn-State",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "PennState University",
+        "id": "c78ab6b6-f92c-4ba0-89ff-30d9473602c0",
+        "title": "Part Time \u2013 Artificial Intelligence - Non-Credit Instructor",
+        "active": true,
+        "date_updated": 1770850932,
+        "date_posted": 1770850932,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-Berks/Part-Time---Artificial-Intelligence---Non-Credit-Instructor_REQ_0000075709-2",
+        "locations": [
+            "Reading, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Penn-State",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "PennState University",
+        "id": "bc3e7acc-78c2-4aef-a244-c8e99635b0ca",
+        "title": "Part Time \u2013 Artificial Intelligence - Non-Credit Instructor",
+        "active": true,
+        "date_updated": 1770850975,
+        "date_posted": 1770850975,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-Berks/Part-Time---Artificial-Intelligence---Non-Credit-Instructor_REQ_0000075709-1",
+        "locations": [
+            "Reading, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Penn-State",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
