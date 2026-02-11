@@ -85523,7 +85523,7 @@
         "company_name": "Global Relay",
         "id": "088b3db1-13f4-442f-8107-be9ce02597ac",
         "title": "Data Services Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1761900479,
         "date_posted": 1761900479,
         "url": "https://www.globalrelay.com/careers/jobs?gh_jid=5537769004",
@@ -189221,7 +189221,7 @@
         "company_name": "Northrop Grumman",
         "id": "50cd7bac-30d4-42dd-b11c-27dcc02304ea",
         "title": "Sentinel Systems Engineer/Principal Systems Engineer - STPA-Sec",
-        "active": false,
+        "active": true,
         "date_updated": 1770040110,
         "date_posted": 1769816954,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/Sentinel----STPA-Sec--Systems-Engineer-Principal-Systems-Engineer---14774-1_R10216430-1",
@@ -203477,7 +203477,7 @@
         "company_name": "RingCentral",
         "id": "abe27500-e9f6-426b-90f5-4dd623b6db7f",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1770765399,
         "date_posted": 1770765399,
         "url": "https://ringcentral.wd1.myworkdayjobs.com/RingCentral_Careers/job/Belmont-California/Associate-Software-Engineer_R077496",
@@ -205186,6 +205186,24 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Goucher-College",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "The Boeing Company",
+        "id": "84c7a093-631d-4f94-9cfa-798e9da33c5e",
+        "title": "Entry-Level or Associate Product Review Engineer - Liaison Engineering - B/C Shift",
+        "active": true,
+        "date_updated": 1770766979,
+        "date_posted": 1770766979,
+        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Huntsville-AL/Entry-Level-or-Associate-Product-Review-Engineer--Liaison-Engineering---B-C-Shift----Patriot-Advanced-Capability-3--PAC-3-_JR2026495904-1",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
