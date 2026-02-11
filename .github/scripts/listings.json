@@ -203577,7 +203577,7 @@
         "company_name": "Sainsbury's",
         "id": "1a901064-fc86-4e98-8313-9ba920f1ef9c",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1770765237,
         "date_posted": 1770765237,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048971",
@@ -204665,6 +204665,167 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Nidec",
+        "id": "5b1e95b1-e530-4a5f-ac10-4250eeda661c",
+        "title": "Electronics Technician",
+        "active": true,
+        "date_updated": 1770769145,
+        "date_posted": 1770769145,
+        "url": "https://nidec.wd1.myworkdayjobs.com/nidec/job/North-AmericaUSAIllinoisSt-Charles-IL/ELECTRONICS-TECHNICIAN_R0014355",
+        "locations": [
+            "St. Charles, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Nidec",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Applied Materials",
+        "id": "5f51e7b3-0943-48b6-8ed3-e2870c9570ea",
+        "title": "Manufacturing Technician 1",
+        "active": true,
+        "date_updated": 1770768472,
+        "date_posted": 1770768472,
+        "url": "https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Manufacturing-Technician-I----T1-_R2612206",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Materials",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Applied Materials",
+        "id": "094b57d9-83fc-4b3b-8559-3ec220acaa72",
+        "title": "Manufacturing Technician 1",
+        "active": true,
+        "date_updated": 1770768476,
+        "date_posted": 1770768476,
+        "url": "https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/Manufacturing-Technician-I_R2612681-1",
+        "locations": [
+            "Essex County, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Materials",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "KBR",
+        "id": "6c52be14-25b4-4c8c-8019-edee2c6124d6",
+        "title": "Entry Level/ Junior Army Fires Modeling and Simulation Developer",
+        "active": true,
+        "date_updated": 1770768273,
+        "date_posted": 1770768273,
+        "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Fort-Belvoir-Virginia/Entry-Level--Junior-Army-Fires-Modeling-and-Simulation-Developer_R2118872",
+        "locations": [
+            "Fort Belvoir, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/KBR",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Unisys",
+        "id": "466a2406-f8b2-4e9e-a9a5-e4bf4d598acf",
+        "title": "Associate Engineer Clearpath",
+        "active": true,
+        "date_updated": 1770768276,
+        "date_posted": 1770768276,
+        "url": "https://unisys.wd5.myworkdayjobs.com/en-US/External/job/Blue-Bell-PA-United-States-of-America/Associate-Engineer-ClearPath_REQ569692",
+        "locations": [
+            "Ambler, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Unisys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Unisys",
+        "id": "0fcf842d-acc7-471c-b5df-a1ef128ce487",
+        "title": "Associate Engineer",
+        "active": true,
+        "date_updated": 1770768273,
+        "date_posted": 1770768273,
+        "url": "https://unisys.wd5.myworkdayjobs.com/en-US/External/job/Blue-Bell-PA-United-States-of-America/Associate-Engineer-ClearPath_REQ569420",
+        "locations": [
+            "Ambler, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Unisys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Fidelity Investments",
+        "id": "ddf329b8-a902-42fe-91ba-e56cf138465f",
+        "title": "Associate Software Engineer - Alternative Investments",
+        "active": true,
+        "date_updated": 1770767982,
+        "date_posted": 1770767982,
+        "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/Westlake-TX/Associate-Software-Engineer--Alternative-Investments_2124446",
+        "locations": [
+            "Merrimack, NH",
+            "Westlake, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Fidelity-Investments",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Fidelity Investments",
+        "id": "813e98e6-c5ec-418c-855d-a00aae9f6270",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1770767963,
+        "date_posted": 1770767963,
+        "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/Smithfield-RI/Associate-Software-Engineer_2122112-2",
+        "locations": [
+            "Westlake, TX",
+            "Smithfield, RI"
+        ],
+        "company_url": "https://simplify.jobs/c/Fidelity-Investments",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
