@@ -19234,7 +19234,7 @@
         "company_name": "RTX",
         "id": "4872a2dd-d3d3-4c32-8149-f247f4721d1c",
         "title": "Software Engineer 1 - Radar Product Line Team",
-        "active": false,
+        "active": true,
         "date_updated": 1759295272,
         "date_posted": 1759295272,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA801-Marlborough-MA-1001-Boston-Post-Road-Building-2-Marlborough-MA-01752-USA/XMLNAME-2026-Fulltime---Raytheon-Software-Engineer-I--On-site-_01797122",
@@ -147772,7 +147772,7 @@
         "company_name": "RTX",
         "id": "4836ddbf-d856-48ac-803a-01bb0274690a",
         "title": "Full-time Software Engineer - Software Engineer II",
-        "active": false,
+        "active": true,
         "date_updated": 1767629836,
         "date_posted": 1767629836,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA801-Marlborough-MA-1001-Boston-Post-Road-Building-2-Marlborough-MA-01752-USA/XMLNAME-2026-Fulltime---Raytheon-Software-Engineer-II----On-site-_01797124",
@@ -204922,6 +204922,45 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Fuse Energy",
+        "id": "e9cd071d-84ea-4f4f-8544-16b8883f5be0",
+        "title": "Tech Team Alpha Technician",
+        "active": true,
+        "date_updated": 1770794062,
+        "date_posted": 1770794062,
+        "url": "https://jobs.ashbyhq.com/Fuse/4172e615-802b-4af2-bc94-18018b5b40e7/application",
+        "locations": [
+            "San Leandro, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Fuse-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Giga AI",
+        "id": "e83508cd-799c-4ddd-bba7-57d96394e3e3",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1770794173,
+        "date_posted": 1770794173,
+        "url": "https://jobs.ashbyhq.com/gigaml/cb74c445-322b-47fc-804c-b0565e18ca3a/application",
+        "locations": [
+            "NYC",
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Giga-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
