@@ -205207,5 +205207,23 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Husqvarna Group",
+        "id": "8100be62-a30f-41ba-a41f-539948f8a734",
+        "title": "Workshop Technician",
+        "active": true,
+        "date_updated": 1770813775,
+        "date_posted": 1770813775,
+        "url": "https://husqvarnagroup.wd3.myworkdayjobs.com/External_Career_Site/job/Newton-Aycliffe/Workshop-Technician_R-16082",
+        "locations": [
+            "Durham, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Husqvarna-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
