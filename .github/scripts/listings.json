@@ -201029,7 +201029,7 @@
         "company_name": "Huntington Ingalls Industries",
         "id": "4ea8fcdf-dd84-4d24-8098-caa377d16368",
         "title": "Software Development Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1770602992,
         "date_posted": 1770602992,
         "url": "https://careers.huntingtoningalls.com/job/Newport-News-SOFTWARE-DEVELOPMENT-ENGINEER-Virg/1362993700/?ats=successfactors",
@@ -203761,7 +203761,7 @@
         "company_name": "Sainsbury's",
         "id": "0cd92f57-bfe8-4242-b44e-65222863cb60",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1770765235,
         "date_posted": 1770765235,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048364",
@@ -204855,7 +204855,7 @@
         "company_name": "Sainsbury's",
         "id": "8f8c53c0-7f91-4e05-86c6-c107425e4604",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1770775868,
         "date_posted": 1770775868,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048985",
@@ -205168,6 +205168,24 @@
             "Harrogate, UK"
         ],
         "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Goucher College",
+        "id": "734df251-0f3a-4f10-93be-2f5857dd4240",
+        "title": "Data Analyst/Programmer",
+        "active": true,
+        "date_updated": 1770810639,
+        "date_posted": 1770736441,
+        "url": "https://goucher.wd1.myworkdayjobs.com/Goucher_Careers/job/Goucher-College-Campus/Data-Analyst-Programmer_R-0000000720",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Goucher-College",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
