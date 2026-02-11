@@ -203981,7 +203981,7 @@
         "company_name": "Sainsbury's",
         "id": "f6328ac3-f73b-4786-ae9a-cf07547a260c",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1770765270,
         "date_posted": 1770765270,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048970",
@@ -204826,6 +204826,102 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Saviynt",
+        "id": "d947e316-a9bd-44c2-9ec8-a0fc6a899121",
+        "title": "Associate Engineer \u2013 New College Graduate - Software Engineering",
+        "active": true,
+        "date_updated": 1770775934,
+        "date_posted": 1770775934,
+        "url": "https://jobs.lever.co/saviynt/84a1db6f-6b4c-4915-a5f6-2759ee1b933e/apply",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Saviynt",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "8f8c53c0-7f91-4e05-86c6-c107425e4604",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1770775868,
+        "date_posted": 1770775868,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048985",
+        "locations": [
+            "Birmingham, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "61a09c8a-3061-46cf-a40f-67287e9d567d",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1770775864,
+        "date_posted": 1770775864,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048986",
+        "locations": [
+            "Essex, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "48d7052c-5be8-4976-bb60-9b5c3d25b879",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1770775879,
+        "date_posted": 1770775879,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048989",
+        "locations": [
+            "Basingstoke, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Texas - Austin",
+        "id": "c79a202f-361f-4e67-a8c9-c7926b5194f8",
+        "title": "Data Analysis Engineering Scientist Associate",
+        "active": true,
+        "date_updated": 1770775387,
+        "date_posted": 1770775387,
+        "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/PICKLE-RESEARCH-CAMPUS/Data-Analysis-Engineering-Scientist-Associate_R_00044440",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Texas-Austin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
