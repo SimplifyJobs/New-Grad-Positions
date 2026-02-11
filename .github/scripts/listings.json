@@ -175640,7 +175640,7 @@
         "company_name": "Walmart",
         "id": "46bffcf5-668f-4478-b73d-ee4ef95c5cbf",
         "title": "Staff Data Scientist - Walmart Connect",
-        "active": false,
+        "active": true,
         "date_updated": 1769213300,
         "date_posted": 1769213300,
         "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Hoboken-NJ/Staff--Data-Scientist---Walmart-Connect_R-2335653-1",
@@ -194286,7 +194286,7 @@
         "company_name": "Sainsbury's",
         "id": "63b93318-df61-4f77-8f7a-5aac5616943b",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1770247146,
         "date_posted": 1770247146,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048267",
@@ -204957,6 +204957,26 @@
             "SF"
         ],
         "company_url": "https://simplify.jobs/c/Giga-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Markforged",
+        "id": "8e9726e8-9475-422c-ac18-958e6d737e8a",
+        "title": "Systems Print Engineer",
+        "active": true,
+        "date_updated": 1770795075,
+        "date_posted": 1770795075,
+        "url": "https://job-boards.greenhouse.io/markforged/jobs/5799795004",
+        "locations": [
+            "Waltham, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Markforged",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
