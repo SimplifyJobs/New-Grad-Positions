@@ -190496,7 +190496,7 @@
         "company_name": "The Boeing Company",
         "id": "8495f655-e23d-45e2-b9c5-06c47fc1c798",
         "title": "Fabrication Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1770076415,
         "date_posted": 1770076415,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Salt-Lake-City-UT/Fabrication-Specialist_JR2026494428-1",
@@ -205492,5 +205492,23 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "JCDecaux",
+        "id": "2083861c-a66c-42f1-9641-ddcffb7e7907",
+        "title": "Digital Technician",
+        "active": true,
+        "date_updated": 1770818703,
+        "date_posted": 1770190159,
+        "url": "https://jcdecaux.wd3.myworkdayjobs.com/ExternalSiteJCDUK/job/London---Brentford/Digital---Technician_JR101566",
+        "locations": [
+            "Hammersmith, London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/JCDecaux",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
