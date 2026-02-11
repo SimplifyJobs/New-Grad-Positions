@@ -204691,7 +204691,7 @@
         "company_name": "Applied Materials",
         "id": "5f51e7b3-0943-48b6-8ed3-e2870c9570ea",
         "title": "Manufacturing Technician 1",
-        "active": true,
+        "active": false,
         "date_updated": 1770768472,
         "date_posted": 1770768472,
         "url": "https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Manufacturing-Technician-I----T1-_R2612206",
@@ -205411,5 +205411,86 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amentum",
+        "id": "e5e5a42f-6d19-40f2-b761-0151a8b6ddb6",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1770824607,
+        "date_posted": 1770824607,
+        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-FL-Kennedy-Space-Center/Software-Engineer-I_R0153774",
+        "locations": [
+            "Merritt Island, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Amentum",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "American Equity",
+        "id": "c194d2a4-c8a8-4da4-ab40-3f7fa1023c25",
+        "title": "Application Developer 1 - Early Talent",
+        "active": true,
+        "date_updated": 1770824491,
+        "date_posted": 1770824491,
+        "url": "https://www.american-equity.com/about/careers/openings?gh_jid=5048568007",
+        "locations": [
+            "West Des Moines, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/American-Equity",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "General Dynamics Information Technology",
+        "id": "53a7a493-5b2d-42f1-9cee-4697f06e542e",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1770824510,
+        "date_posted": 1770824510,
+        "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Software-Engineer-1_RQ214415-1",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/GDIT",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "EquipmentShare",
+        "id": "fda2f0e8-f0bf-4b0b-9193-8db3517f3869",
+        "title": "Telematics Installer",
+        "active": true,
+        "date_updated": 1770823794,
+        "date_posted": 1770823794,
+        "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=7603732",
+        "locations": [
+            "Niagara Falls, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Equipment-Share",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
