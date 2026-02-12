@@ -159757,7 +159757,7 @@
         "company_name": "Malvern Panalytical",
         "id": "d24dabb1-7ba5-4ed6-88ce-9d8d6a5d40ba",
         "title": "Benchtop Repair Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1768322221,
         "date_posted": 1768322221,
         "url": "https://spectris.wd3.myworkdayjobs.com/Malvern_Panalytical_Careers/job/Westborough-MA/Benchtop-Repair-Engineer_16972",
@@ -191336,7 +191336,7 @@
         "company_name": "Hewlett Packard Enterprise",
         "id": "434c6d87-468c-48ba-8cc1-8e2d15057c07",
         "title": "HPC and AI - Catch 3 Lab Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1770104259,
         "date_posted": 1770104259,
         "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Chippewa-Falls-Wisconsin-United-States-of-America/HPC---AI---Catch-3-Lab-Engineer_1200873",
@@ -197341,7 +197341,7 @@
         "company_name": "Fidelity Investments",
         "id": "7410e913-b705-4682-a390-0e1ea9899c36",
         "title": "Associate \u2013 Marketing Technologist",
-        "active": true,
+        "active": false,
         "date_updated": 1770335532,
         "date_posted": 1770335532,
         "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/Smithfield-RI/Associate--Marketing-Technologist_2122316",
@@ -206006,7 +206006,7 @@
         "company_name": "Crowdstrike",
         "id": "7f7955fb-1a6a-4c1e-97e8-1051124a0fd7",
         "title": "Front End Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1770853403,
         "date_posted": 1770853403,
         "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Austin-TX/Front-End-Engineer-I--Hybrid-_R26953",
@@ -207389,5 +207389,103 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Unisys",
+        "id": "b6d534d6-befd-4ddc-883d-dce656c44317",
+        "title": "Datacenter Onsite Engineer",
+        "active": true,
+        "date_updated": 1770911575,
+        "date_posted": 1770911575,
+        "url": "https://unisys.wd5.myworkdayjobs.com/en-US/External/job/Glasgow-Lanarkshire-United-Kingdom/Datacenter-Onsite-Engineer_REQ571067",
+        "locations": [
+            "Glasgow, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Unisys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cox",
+        "id": "bc3ddf5c-8666-4935-bc2f-2e95ccc67899",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1770911156,
+        "date_posted": 1770911156,
+        "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Irvine-CA/Software-Engineer-I_R202673070",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cox",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Amentum",
+        "id": "5d36bf32-a0e9-42c2-9a6c-cf027fdb72ce",
+        "title": "Entry Configuration Management Engineering Technician",
+        "active": true,
+        "date_updated": 1770911186,
+        "date_posted": 1770911186,
+        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-FL-Kennedy-Space-Center/Entry-Configuration-Management-Engineering-Technician_R0154006",
+        "locations": [
+            "Florida"
+        ],
+        "company_url": "https://simplify.jobs/c/Amentum",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Cubic",
+        "id": "746e307f-9044-482f-8294-bf9d1e41e388",
+        "title": "Field Service Technician",
+        "active": true,
+        "date_updated": 1770910431,
+        "date_posted": 1770910431,
+        "url": "https://cubic.wd1.myworkdayjobs.com/cubic_global_careers/job/Kingswinford/Field-Service-Technican_REQ_47269",
+        "locations": [
+            "Birmingham, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Cubic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "5f49884a-b451-4297-9d6e-55d11e5d7164",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1770910275,
+        "date_posted": 1770910275,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-FULLERTON-675--1801-Hughes-Dr--BLDG-675/Software-Engineer-I--Onsite_01823376",
+        "locations": [
+            "Anaheim, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
