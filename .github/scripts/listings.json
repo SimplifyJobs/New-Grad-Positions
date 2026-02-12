@@ -1,23 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "The Boeing Company",
-        "id": "b3d80b7e-302f-434c-b82a-09ceaf1236ff",
-        "title": "Entry Level Software Engineer",
-        "active": false,
-        "date_updated": 1750124976,
-        "date_posted": 1750124976,
-        "url": "https://boeing.wd1.myworkdayjobs.com/external_careers/job/USA---Berkeley-MO/Entry-Level-Software-Engineer_JR2025460122",
-        "locations": [
-            "Hazelwood, MO"
-        ],
-        "company_url": "https://simplify.jobs/c/Boeing",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "7shifts",
         "id": "ee439f91-f222-4f4b-b52e-b24be8115ef9",
