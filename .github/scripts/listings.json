@@ -206625,5 +206625,25 @@
         "degrees": [
             "Certificate"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "The Boeing Company",
+        "id": "3da95615-64d5-49ac-900f-5b8bbda3d67e",
+        "title": "Associate or Experienced Product Review Engineer",
+        "active": true,
+        "date_updated": 1770819778,
+        "date_posted": 1769643855,
+        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Associate-or-Experienced-Level-Product-Review-Engineer_JR2025478284",
+        "locations": [
+            "Hazelwood, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
