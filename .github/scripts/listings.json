@@ -207917,5 +207917,24 @@
         "date_posted": 1770939593,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1770939774,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://grnh.se/7pt3sv7q2us",
+        "company_name": "Airtable",
+        "title": "Software Engineer, New Grad (2026)",
+        "locations": [
+            "San Francisco, CA",
+            "New York, NY"
+        ],
+        "category": "Software Engineering",
+        "source": "CalebJiang-at",
+        "id": "7adbb38b-88b1-45fa-93c4-f1aaa9b98a51",
+        "date_posted": 1770939774,
+        "company_url": "",
+        "is_visible": true
     }
 ]
