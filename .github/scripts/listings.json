@@ -119513,7 +119513,7 @@
         "company_name": "Honeywell",
         "id": "e7311532-3cff-46e1-a23b-4a5433042352",
         "title": "Systems Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1765240860,
         "date_posted": 1765240860,
         "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/130307",
@@ -123707,7 +123707,7 @@
         "company_name": "Athena Health",
         "id": "21113b0b-fe53-4ddd-9b01-113924083018",
         "title": "Senior Associate - Product Management",
-        "active": true,
+        "active": false,
         "date_updated": 1765453597,
         "date_posted": 1764977922,
         "url": "https://athenahealth.wd1.myworkdayjobs.com/en-US/External/job/Boston-MA/Senior-Associate--Product-Management_R14016",
@@ -142774,7 +142774,7 @@
         "company_name": "Freeform",
         "id": "c2888899-2fd1-4c48-93bb-be212ac1db61",
         "title": "Materials Lab Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1767138994,
         "date_posted": 1767138994,
         "url": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7575047003",
@@ -144600,7 +144600,7 @@
         "company_name": "Dave & Busters",
         "id": "08b1f24c-be0d-420e-886e-8e15df9ad49d",
         "title": "Support Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1765626552,
         "date_posted": 1765626552,
         "url": "https://daveandbusters.wd1.myworkdayjobs.com/dave_and_busters_careers/job/Braintree-MA/Support-Technician_R-1005780",
@@ -152186,7 +152186,7 @@
         "company_name": "Stellant Systems",
         "id": "b501c0b2-2c2e-4474-afab-40056fb0e544",
         "title": "Fitter",
-        "active": true,
+        "active": false,
         "date_updated": 1767803616,
         "date_posted": 1766790732,
         "url": "https://careers-stellantsystems.icims.com/jobs/1983/job?mobile=true&needsRedirect=false",
@@ -177839,7 +177839,7 @@
         "company_name": "JP Morgan Chase",
         "id": "142930a0-5a57-42ba-819b-0cd09aab100e",
         "title": "Trading Services Analyst - Trading Services",
-        "active": false,
+        "active": true,
         "date_updated": 1769469330,
         "date_posted": 1769469330,
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210705067",
@@ -192795,7 +192795,7 @@
         "company_name": "Northrop Grumman",
         "id": "d07de5a7-9b30-4049-9bea-6c7abb71522e",
         "title": "Operations Mission Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1770161380,
         "date_posted": 1770161380,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Operations-Mission-Engineer---2-3--Aurora-CO-_R10221582",
@@ -204333,7 +204333,7 @@
         "company_name": "Centene",
         "id": "fcdfb82e-d43e-4be0-b59a-c40fc59ee7a6",
         "title": "Provider Data Management Analyst 1",
-        "active": true,
+        "active": false,
         "date_updated": 1770766280,
         "date_posted": 1770766280,
         "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-FL/Provider-Data-Management-Analyst-I_1630026",
@@ -204853,7 +204853,7 @@
         "company_name": "Sainsbury's",
         "id": "e6a7c3aa-a2c4-45a1-86dd-ef143d95babe",
         "title": "Trading Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1770805816,
         "date_posted": 1770805816,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048992",
@@ -204871,7 +204871,7 @@
         "company_name": "Sainsbury's",
         "id": "e0c7a364-3aad-4e6f-a123-386e2935a852",
         "title": "Trading Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1770805812,
         "date_posted": 1770805812,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048990",
@@ -207516,6 +207516,394 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Ohio State University",
+        "id": "cd358cb1-99d6-483b-9099-ed66b506e2ea",
+        "title": "Applied Research Associate Engineer",
+        "active": true,
+        "date_updated": 1770938386,
+        "date_posted": 1770938386,
+        "url": "https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Columbus-Campus/Applied-Research-Associate-Engineer_R145142-1",
+        "locations": [
+            "Massillon, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Ohio-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "cb02dd3c-4923-433c-a7ef-a47fa348673f",
+        "title": "Nightshift Trading Assistant - Local",
+        "active": true,
+        "date_updated": 1770938064,
+        "date_posted": 1770938064,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400049232",
+        "locations": [
+            "York, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "593a675b-0eb8-4689-87ee-5edfbed25888",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1770938059,
+        "date_posted": 1770938059,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400049265",
+        "locations": [
+            "Gloucester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Caterpillar Inc.",
+        "id": "1bf50934-099d-4def-b1c4-59832d7e5940",
+        "title": "Aftermarket Data Scientist 1",
+        "active": true,
+        "date_updated": 1770938587,
+        "date_posted": 1770938587,
+        "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chicago-Illinois/Aftermarket-Data-Scientist-I_R0000346205-1",
+        "locations": [
+            "Chicago, IL",
+            "Peoria, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Caterpillar-Inc",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Franklin Templeton",
+        "id": "e7aa78ed-8adb-4444-95e0-a4a266b69402",
+        "title": "Associate AI Enablement - Putnam Equity",
+        "active": true,
+        "date_updated": 1770938383,
+        "date_posted": 1770938383,
+        "url": "https://franklintempleton.wd5.myworkdayjobs.com/Primary-External-1/job/Boston-Massachusetts-United-States-of-America/Associate--AI-Enablement--Putnam-Equity-_866665-1",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Franklin-Templeton",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "JP Morgan Chase",
+        "id": "62553e2a-ba53-406f-b15e-c88ea33c0103",
+        "title": "Quant Analytics Associate - HR Product Analytics and Reporting",
+        "active": true,
+        "date_updated": 1770938146,
+        "date_posted": 1770938146,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210709845",
+        "locations": [
+            "Plano, TX",
+            "Chicago, IL",
+            "Columbus, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "332a5f95-fbfa-4a7b-93bc-2f5e60face23",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1770938076,
+        "date_posted": 1770938076,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400049267",
+        "locations": [
+            "Thirsk, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "BTI Solutions",
+        "id": "1afc5fed-5860-459d-ab3b-e760faea7aa4",
+        "title": "Software Tester - Korean Bilingual",
+        "active": true,
+        "date_updated": 1770938349,
+        "date_posted": 1770938349,
+        "url": "https://btisolutions.wd12.myworkdayjobs.com/External/job/Berkeley-Heights-NJ/Software-Tester--Korean-Bilingual--AO7167861_JR101619-1",
+        "locations": [
+            "Berkeley Heights, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/BTI-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Vertiv",
+        "id": "e90da4c8-4470-429d-a247-2279e63b7d5c",
+        "title": "Equipment Installer",
+        "active": true,
+        "date_updated": 1770938112,
+        "date_posted": 1770938112,
+        "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20267035",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Vertiv",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Lawrence Berkeley National Laboratory",
+        "id": "cf1daf52-62d0-4c5a-bb4b-6c0ac8aec1ad",
+        "title": "Postdoctoral Researcher - Ultrafast Science",
+        "active": true,
+        "date_updated": 1770938201,
+        "date_posted": 1770938201,
+        "url": "https://lbl.taleo.net/careersection/5/jobdetail.ftl?job=105931",
+        "locations": [
+            "Berkeley, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Lawrence-Berkeley-National-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Vertiv",
+        "id": "a9ba51d3-faba-49e6-a97b-eebc66e8b81a",
+        "title": "Customer Engineer 1",
+        "active": true,
+        "date_updated": 1770938122,
+        "date_posted": 1770938122,
+        "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20266812",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Vertiv",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "9c2364e5-f370-4d96-b3c7-8d63d6266d86",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1770938069,
+        "date_posted": 1770938069,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400049244",
+        "locations": [
+            "Tunbridge Wells, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Qualcomm",
+        "id": "94ca71b7-3469-4e78-a5ff-436af2e6c563",
+        "title": "Video Design Engineer - Video Systems, HW Architecture",
+        "active": true,
+        "date_updated": 1770938280,
+        "date_posted": 1770938280,
+        "url": "https://qualcomm.eightfold.ai/careers/job/446716781216",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Qualcomm",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Qualcomm",
+        "id": "878d6956-46e8-4902-a8a5-08dcc0e58bf2",
+        "title": "Software Engineer - Core Platform Test - Software Engineering",
+        "active": true,
+        "date_updated": 1770938272,
+        "date_posted": 1770938272,
+        "url": "https://qualcomm.eightfold.ai/careers/job/446716781260",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Qualcomm",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Vertiv",
+        "id": "6fb609df-e53c-4d8c-8b93-963ad73d246e",
+        "title": "Equipment Installer",
+        "active": true,
+        "date_updated": 1770938114,
+        "date_posted": 1770938114,
+        "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20267037",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Vertiv",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "4385b498-0723-4457-88f2-ec258975db46",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1770938061,
+        "date_posted": 1770938061,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400049277",
+        "locations": [
+            "Southampton, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Bowhead",
+        "id": "609da8a7-d6b2-45e8-8406-42a86309b5af",
+        "title": "Computer Engineer",
+        "active": true,
+        "date_updated": 1770937677,
+        "date_posted": 1770937677,
+        "url": "https://bowheadcareers-uicalaska.icims.com/jobs/24638/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Bedford, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Bowhead",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Coinbase",
+        "id": "2f30d97c-c548-477c-a5ec-4a4561abc721",
+        "title": "Product Manager 1 - Institutional Staking",
+        "active": true,
+        "date_updated": 1770937653,
+        "date_posted": 1770937653,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=7588994",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Coinbase",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Visa",
+        "id": "a092a1d7-f6c9-4a22-8805-01e7f6f76983",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1770937540,
+        "date_posted": 1770937540,
+        "url": "https://jobs.smartrecruiters.com/Visa/744000109091355",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "JD",
+            "MD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Iowa State University",
+        "id": "2292d55e-3cda-45c9-9d4f-74aec6b6b269",
+        "title": "Postdoc Research Associate",
+        "active": true,
+        "date_updated": 1770937364,
+        "date_posted": 1770937364,
+        "url": "https://isu.wd1.myworkdayjobs.com/IowaStateJobs/job/BLACK---Black-Engineering-Bldg/Postdoc-Research-Associate---Artificial-Intelligence-Institute-for-Resilient-Agriculture_R18635",
+        "locations": [
+            "Ames, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/Iowa-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
         ]
     }
 ]
