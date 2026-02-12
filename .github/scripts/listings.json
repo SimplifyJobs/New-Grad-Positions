@@ -199197,7 +199197,7 @@
         "company_name": "Leidos",
         "id": "f425f7fb-5f4c-4274-83ad-07281151c7b6",
         "title": "Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1770420099,
         "date_posted": 1770420099,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Software-Engineer_R-00175447",
@@ -203709,7 +203709,7 @@
         "company_name": "Mercury Insurance",
         "id": "febef5a3-7932-4b36-9349-549b9b01e286",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1770764883,
         "date_posted": 1770764883,
         "url": "https://careers-mercuryinsurance.icims.com/jobs/6159/job?mobile=true&needsRedirect=false",
@@ -206489,5 +206489,61 @@
         "degrees": [
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Thales",
+        "id": "e13087e0-2368-4cdb-ac8a-12b6c017da60",
+        "title": "Software Developer \u2013 New Grad - C#/C++ - Wpf",
+        "active": true,
+        "date_updated": 1770862918,
+        "date_posted": 1770862918,
+        "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Fredericton---Knowledge-Park/Software-Developer--New-Grad---C--C----WPF_R0314958-1",
+        "locations": [
+            "Fredericton, NB, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Thales",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "5071e2dc-d355-4894-9218-cbbec44dbf67",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1770862211,
+        "date_posted": 1770862211,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400049125",
+        "locations": [
+            "Nottingham, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "URBN",
+        "id": "5b050305-4a41-485b-b281-c14f3d7c5405",
+        "title": "FP Movement Product Development Coordinator",
+        "active": true,
+        "date_updated": 1770862097,
+        "date_posted": 1770862097,
+        "url": "https://homeoffice-na-urbn.icims.com/jobs/24548/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/URBN",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
