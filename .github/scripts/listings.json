@@ -203797,7 +203797,7 @@
         "id": "c947e679-1b9d-4192-87f4-79aaf9e7aa5b",
         "title": "Software Engineer 1/2 - Digital Engineering",
         "active": true,
-        "date_updated": 1770767156,
+        "date_updated": 1770939891,
         "date_posted": 1770767156,
         "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7626656003",
         "locations": [
@@ -203805,12 +203805,8 @@
         ],
         "company_url": "https://simplify.jobs/c/Rocket-Lab-USA",
         "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
+        "sponsorship": "U.S. Citizenship is Required",
+        "degrees": []
     },
     {
         "source": "Simplify",
