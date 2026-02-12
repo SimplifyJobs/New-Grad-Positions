@@ -101987,7 +101987,7 @@
         "company_name": "Heron Power",
         "id": "cad2f1cb-bef8-45a0-acbe-7a9c714ef9c4",
         "title": "Power Electronics PCBA Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1763881176,
         "date_posted": 1763669627,
         "url": "http://jobs.ashbyhq.com/heron-power/9f03d489-7fb1-48f8-9f41-70a9e64aed62/application",
@@ -147542,7 +147542,7 @@
         "company_name": "Sainsbury's",
         "id": "5df7fe08-7bdf-419d-83eb-6da156d56efe",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1767568293,
         "date_posted": 1767568293,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400044808",
@@ -202241,7 +202241,7 @@
         "company_name": "Northrop Grumman",
         "id": "ea90e293-43ca-4c18-b8b1-c5a2a249169f",
         "title": "Embedded Software Engineer / Principal Embedded Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1770679470,
         "date_posted": 1770679470,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/Embedded-Software-Engineer---Principal-Engineer-Embedded-Software--_R10222062",
@@ -204760,7 +204760,7 @@
         "company_name": "Fidelity Investments",
         "id": "813e98e6-c5ec-418c-855d-a00aae9f6270",
         "title": "Associate Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1770767963,
         "date_posted": 1770767963,
         "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/Smithfield-RI/Associate-Software-Engineer_2122112-2",
@@ -205309,7 +205309,7 @@
         "company_name": "Sainsbury's",
         "id": "9986ca45-97c4-436c-9116-e35039b2ab0b",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1770822659,
         "date_posted": 1770822659,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400049035",
@@ -206362,6 +206362,167 @@
         "sponsorship": "Other",
         "degrees": [
             "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Airbus",
+        "id": "ee9a1e64-0ec4-4ab8-bfb9-7b306e1af5d7",
+        "title": "Cabin Installer",
+        "active": true,
+        "date_updated": 1770854492,
+        "date_posted": 1770854492,
+        "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Mobile-Area-AL/Cabin-Installer_JR10389176-1",
+        "locations": [
+            "Mobile, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Airbus",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Unisys",
+        "id": "bdac5eec-e8c8-424a-8d96-7fbee842e16d",
+        "title": "Associate Engineer",
+        "active": true,
+        "date_updated": 1770854379,
+        "date_posted": 1770854379,
+        "url": "https://unisys.wd5.myworkdayjobs.com/en-US/External/job/Eagan-Regus/Associate-Engineer_REQ569717",
+        "locations": [
+            "Eagan, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Unisys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Airbus",
+        "id": "a5333041-8815-43a8-83f9-9280db0330cb",
+        "title": "Systems Installer",
+        "active": true,
+        "date_updated": 1770854498,
+        "date_posted": 1770854498,
+        "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Mobile-Area-AL/Systems-Installer_JR10389147",
+        "locations": [
+            "Mobile, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Airbus",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Applied Materials",
+        "id": "96c24300-0c19-4356-b32c-0c48ad8a1c3f",
+        "title": "Computational Physicist AI/ML - Fluid/Thermal Modeling",
+        "active": true,
+        "date_updated": 1770854540,
+        "date_posted": 1770854540,
+        "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Computational-Physicist---Fluid-Thermal-Modeling--AI-ML-New-College-Grad---Doctorate-Degree--Santa-Clara--CA-_R2612850",
+        "locations": [
+            "Santa Clara, CA",
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Materials",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jabil",
+        "id": "31e42031-0ecd-4a6d-a85e-fa29ce42295c",
+        "title": "Programmer Analyst 1",
+        "active": true,
+        "date_updated": 1770854350,
+        "date_posted": 1770854350,
+        "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Programmer-Analyst-I_J2439783",
+        "locations": [
+            "St. Petersburg, FL",
+            "Tampa, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Jabil",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Comcast",
+        "id": "118b4f00-4bd4-4d64-9100-a8fae3d4a2d9",
+        "title": "Support Engineer",
+        "active": true,
+        "date_updated": 1770854352,
+        "date_posted": 1770854352,
+        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/NY---New-York-1407-Broadway-Floor-12/Support-Engineer_R430507",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Comcast",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Unisys",
+        "id": "092bb369-7745-440c-b2a4-0e8c3816c56f",
+        "title": "Associate Engineer",
+        "active": true,
+        "date_updated": 1770854381,
+        "date_posted": 1770854381,
+        "url": "https://unisys.wd5.myworkdayjobs.com/en-US/External/job/Eagan-Regus/Associate-Engineer_REQ569718",
+        "locations": [
+            "Eagan, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Unisys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Argonne National Laboratory",
+        "id": "ccbfcaae-4579-41ff-9a0c-cb1e8971dd9a",
+        "title": "Postdoctoral Appointee",
+        "active": true,
+        "date_updated": 1770854239,
+        "date_posted": 1770854239,
+        "url": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---AI-Foundation-Models-for-Atmospheric-Science_421783",
+        "locations": [
+            "Woodridge, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Argonne-National-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
         ]
     }
 ]
