@@ -71940,7 +71940,7 @@
         "company_name": "TikTok",
         "id": "f2e6d807-83e9-4893-af01-89640146c3a5",
         "title": "Data Scientist Graduate - Tiktok UG-Mid Platform - 2026 Start (to be filtered)",
-        "active": true,
+        "active": false,
         "date_updated": 1756177035,
         "date_posted": 1756177035,
         "url": "https://lifeattiktok.com/search/7542359937256982791",
@@ -206648,5 +206648,63 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "AT&T",
+        "id": "4d51a622-fd25-4d01-afeb-eb85d2077373",
+        "title": "Lead Advanced Analytics",
+        "active": true,
+        "date_updated": 1770882199,
+        "date_posted": 1770882199,
+        "url": "https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Dallas-Texas/Lead-Advanced-Analytics_R-100137",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/ATT",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Toast",
+        "id": "3410f22b-b35c-4b2d-973e-a2b8b9040ca2",
+        "title": "Software Engineer 1 - Backend - Employee Lifecycle Management",
+        "active": true,
+        "date_updated": 1770881520,
+        "date_posted": 1770881520,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=7592625",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Toast",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Proconex",
+        "id": "584824e5-a16f-4def-b710-87f46da8cc1c",
+        "title": "Application Engineer - Systems",
+        "active": true,
+        "date_updated": 1770881361,
+        "date_posted": 1770881361,
+        "url": "https://job-boards.greenhouse.io/proconex/jobs/5802426004",
+        "locations": [
+            "Phoenixville, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Proconex",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
