@@ -85269,24 +85269,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "ByteDance",
-        "id": "4fdd47ff-cd20-4e3a-80d4-3286b646db32",
-        "title": "Software Engineer Graduate - Applied Machine Learning - Orchestration",
-        "active": true,
-        "date_updated": 1751559490,
-        "date_posted": 1750191138,
-        "url": "https://jobs.bytedance.com/en/position/7516656741909793042/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "ByteDance",
         "id": "0a607515-b824-4f51-a1ff-06e3e6931545",
