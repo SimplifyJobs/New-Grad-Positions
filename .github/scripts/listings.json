@@ -56348,7 +56348,7 @@
         "company_name": "Argonne National Laboratory",
         "id": "26f366b0-ec19-4937-ba07-4b0753ac432e",
         "title": "Postdoctoral Research Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1761501628,
         "date_posted": 1761501628,
         "url": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Research-Associate---Machine-Learning-in-High-Energy-Physics-Detector-Operations_421270",
@@ -171541,7 +171541,7 @@
         "company_name": "NVIDIA",
         "id": "a2b22bf8-6138-427a-b797-486f4ec81592",
         "title": "Research Scientist \u2013 PhD New College Grad 2026 - Human\u2011AI Perception and Interaction Research",
-        "active": true,
+        "active": false,
         "date_updated": 1769048780,
         "date_posted": 1769048780,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Human-AI-Perception-and-Interaction-Research---PhD-New-College-Grad-2026_JR2011804-1",
@@ -183657,7 +183657,7 @@
         "company_name": "Philips",
         "id": "4f2b020a-4a8a-4c9b-abda-a6552daaedea",
         "title": "Field Engineer Program - Field Service Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1769644950,
         "date_posted": 1769644950,
         "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/St-Louis-Missouri-United-States/Full-Time---Field-Engineer-Program--Field-Service-Engineer---St-Louis--Missouri--July-2026_573793",
@@ -207061,6 +207061,64 @@
         "degrees": [
             "Bachelor's",
             "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Caterpillar Inc.",
+        "id": "1265c333-e385-44ba-a466-af823cf1bdc3",
+        "title": "Test and Validation Graduate Engineer",
+        "active": true,
+        "date_updated": 1770901404,
+        "date_posted": 1770901404,
+        "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Desford-United-Kingdom/Test-and-Validation-Graduate-Engineer_R0000323095",
+        "locations": [
+            "Leicester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Caterpillar-Inc",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Airbus",
+        "id": "f54427fc-c50e-49b0-9461-fb2aeee8d649",
+        "title": "Cabin Installer",
+        "active": true,
+        "date_updated": 1770854491,
+        "date_posted": 1770854491,
+        "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Mobile-Area-AL/Cabin-Installer_JR10389180",
+        "locations": [
+            "Mobile, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Airbus",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "AeroVironment",
+        "id": "9c231176-4d7c-44d9-a84f-b1391ec58cd5",
+        "title": "Product Engineer 1",
+        "active": true,
+        "date_updated": 1770900907,
+        "date_posted": 1764729519,
+        "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Huntsville-AL/Product-Engineer-II-_6245",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/AeroVironment",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
