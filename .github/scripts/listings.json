@@ -85394,24 +85394,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "abcf7b37-6b5f-474f-b9b8-3d9030ec155f",
-        "title": "Machine Learning Engineer Graduate - E-Commerce Recommendation/Search Alliance - 2026 Start','Phd",
-        "active": true,
-        "date_updated": 1761833807,
-        "date_posted": 1750122088,
-        "url": "https://jobs.bytedance.com/en/position/7515557741370411282/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "FOX",
         "id": "e479db10-c7ac-49a6-a850-8a0b5f9cb010",
@@ -130095,7 +130077,7 @@
         "company_name": "Northrop Grumman",
         "id": "882f76c6-9800-4605-9563-c6f1dbe3c5e6",
         "title": "Data Insight Analyst - Principal Data Insight Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1765928633,
         "date_posted": 1765928633,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Edwards-AFB/Data-Insight-Analyst-or-Principal-Data-Insight-Analyst_R10213256",
