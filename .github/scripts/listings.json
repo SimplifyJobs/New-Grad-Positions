@@ -198100,23 +198100,21 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
+        "category": "Software Engineering",
         "company_name": "Motorola",
         "id": "0aeed641-fd7a-4ba0-b7f0-86ad92c75cd3",
         "title": "Software Engineer 1 - Quality Assurance",
         "active": true,
-        "date_updated": 1770362899,
+        "date_updated": 1770939625,
         "date_posted": 1770362899,
         "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Los-Angeles-CA/Software-Engineer-I---SQA_R61857",
         "locations": [
-            "LA"
+            "Los Angeles, CA"
         ],
         "company_url": "https://simplify.jobs/c/MotorolaSolutions",
         "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
+        "sponsorship": "U.S. Citizenship is Required",
+        "degrees": []
     },
     {
         "source": "Simplify",
