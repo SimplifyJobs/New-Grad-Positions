@@ -27015,24 +27015,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Reevo",
-        "id": "fcfe5ec1-3a73-4469-87a7-1566c70f3feb",
-        "title": "Builder \u2013 New Grad - Software Engineer",
-        "active": true,
-        "date_updated": 1761968434,
-        "date_posted": 1750134760,
-        "url": "https://jobs.ashbyhq.com/reevo/2ea4d267-cd80-4481-9965-216ecd469e7e/application",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/374054ce-758f-4d27-8f5a-2ad73d2e19df",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "RTX",
         "id": "861a0ca0-a8b2-43cd-bd83-1581ca871f82",
         "title": "2026 Full-time - Cyber Security Engineer I - Onsite - MA",
@@ -197617,7 +197599,7 @@
         "company_name": "Bluestaq",
         "id": "09e1ef46-9bb4-4d09-98af-a00bbc2c460a",
         "title": "Software Engineer / Senior Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1770333074,
         "date_posted": 1770333074,
         "url": "https://job-boards.greenhouse.io/bluestaq/jobs/4116895009",
@@ -202793,7 +202775,7 @@
         "company_name": "JP Morgan Chase",
         "id": "70918bac-d59d-4987-9444-4ca23b655ac2",
         "title": "Applied AI/ML Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1770707707,
         "date_posted": 1770707707,
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210710290",
