@@ -205608,7 +205608,7 @@
         "company_name": "Sainsbury's",
         "id": "b1d3eb13-1ea0-41ea-95ae-184dcb43a9ca",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1770851504,
         "date_posted": 1770851504,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048660",
@@ -206545,5 +206545,85 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Gensler",
+        "id": "63766d22-3391-4d5b-b830-c9784dc3bd2a",
+        "title": "Visualization Specialist - Junior",
+        "active": true,
+        "date_updated": 1770863697,
+        "date_posted": 1770863697,
+        "url": "https://gensler.wd1.myworkdayjobs.com/genslercareers/job/Washington-DC-US/Visualization-Specialist---Junior_R-17007",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Gensler",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "EOS IT Solutions",
+        "id": "adb426a5-16df-4add-9369-069e92f075ef",
+        "title": "Infrastructure Repair Technician - Data Center",
+        "active": true,
+        "date_updated": 1770863618,
+        "date_posted": 1770863618,
+        "url": "https://eosits.com/company/careers/?gh_jid=8419846002",
+        "locations": [
+            "Tualatin, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/EOS-IT-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "EOS IT Solutions",
+        "id": "4e520f50-943b-4dd7-81da-4e3188efe4d1",
+        "title": "Infrastructure Repair Technician - Data Center",
+        "active": true,
+        "date_updated": 1770863617,
+        "date_posted": 1770863617,
+        "url": "https://eosits.com/company/careers/?gh_jid=8419845002",
+        "locations": [
+            "Portland, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/EOS-IT-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "EOS IT Solutions",
+        "id": "0b6bb669-a1e7-4a3d-bf5f-a72fbea4c475",
+        "title": "Infrastructure Repair Technician - Data Center",
+        "active": true,
+        "date_updated": 1770863619,
+        "date_posted": 1770863619,
+        "url": "https://eosits.com/company/careers/?gh_jid=8419843002",
+        "locations": [
+            "Beaverton, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/EOS-IT-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Certificate"
+        ]
     }
 ]
