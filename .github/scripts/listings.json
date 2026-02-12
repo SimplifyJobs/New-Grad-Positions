@@ -68988,7 +68988,7 @@
         "company_name": "Advocate Health Care",
         "id": "aa319758-9ece-4f25-8c90-76e085bf7b08",
         "title": "IT Data Solutions Developer Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1763119625,
         "date_posted": 1757557098,
         "url": "https://aah.wd5.myworkdayjobs.com/External/job/Atrium-Health-Wake-Forest-Baptist---Medical-Center-Blvd-Winston-Salem-NC/IT-Data-Solutions-Develop-Associate_R178892",
@@ -163860,7 +163860,7 @@
         "company_name": "ASSA ABLOY",
         "id": "bab969ba-0294-46b6-be7e-1ba685f359b6",
         "title": "Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1768493834,
         "date_posted": 1768493834,
         "url": "https://assaabloy.jobs2web.com/job/New-Haven-Software-Developer-CT-06511/1283929701/?ats=successfactors",
@@ -197460,7 +197460,7 @@
         "company_name": "RTX",
         "id": "143b959e-232c-40b6-b3b7-6d74eed14181",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1770335163,
         "date_posted": 1770335163,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/XMLNAME-2026-Full-time---Software-Engineer-I---Advance-Product-Solutions---Onsite--IN-_01821821",
@@ -206596,7 +206596,7 @@
         "company_name": "The Boeing Company",
         "id": "3da95615-64d5-49ac-900f-5b8bbda3d67e",
         "title": "Associate or Experienced Product Review Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1770819778,
         "date_posted": 1769643855,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Associate-or-Experienced-Level-Product-Review-Engineer_JR2025478284",
@@ -206609,5 +206609,44 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "American Electric Power",
+        "id": "a30669ac-ae30-4266-97e3-e8f4cf76fca0",
+        "title": "Generation Applications Support Specialist - Multiple Teams",
+        "active": true,
+        "date_updated": 1770880752,
+        "date_posted": 1770880752,
+        "url": "https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/GENERATION-Applications-Support-Specialist--Associate---Mid----Work---Asset-Management--Data-Analysis--Visualization---Governance_R13896",
+        "locations": [
+            "Columbus, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/American-Electric-Power",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Epic Kids",
+        "id": "1f62b208-dd38-4338-ab4b-ca5469e1a1f8",
+        "title": "Product Manager",
+        "active": true,
+        "date_updated": 1770881092,
+        "date_posted": 1770679867,
+        "url": "https://job-boards.greenhouse.io/epickids/jobs/7625512003",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Epic-Kids",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
