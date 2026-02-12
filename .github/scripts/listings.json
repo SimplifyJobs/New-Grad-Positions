@@ -174600,7 +174600,7 @@
         "company_name": "Born Primitive",
         "id": "ec529e36-55ba-42ed-9d21-1292e0a34a68",
         "title": "Master Data Coordinator",
-        "active": true,
+        "active": false,
         "date_updated": 1769163067,
         "date_posted": 1768346202,
         "url": "https://ats.rippling.com/bornprimitive-careers/jobs/88a8a22a-a542-4604-9b20-360026e63115",
@@ -207482,6 +207482,26 @@
             "Anaheim, CA"
         ],
         "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Brown Brothers Harriman",
+        "id": "edb4781c-da69-410a-96c5-925966d46ae0",
+        "title": "Systems Programmer Analyst - .Net",
+        "active": true,
+        "date_updated": 1770909597,
+        "date_posted": 1770909597,
+        "url": "https://bbh.wd5.myworkdayjobs.com/en-US/BBH/job/Boston/Junior-Java-Developer_68763",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/8daaaedd-ec77-45a3-ab9c-dc153ae865ed",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
