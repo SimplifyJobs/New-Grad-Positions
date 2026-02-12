@@ -82129,7 +82129,7 @@
         "company_name": "Northeastern",
         "id": "82692f04-5e4a-4e6d-a1a6-2864ef02524d",
         "title": "Postdoctoral Research Fellow",
-        "active": true,
+        "active": false,
         "date_updated": 1755953181,
         "date_posted": 1755953181,
         "url": "https://northeastern.wd1.myworkdayjobs.com/careers/job/Boston-MA-Main-Campus/Postdoctoral-Research-Fellow_R115210-1",
@@ -153662,7 +153662,7 @@
         "company_name": "Uline",
         "id": "1ee823df-c090-4e43-92e8-7e7215a100df",
         "title": "Product Management Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1767884084,
         "date_posted": 1767884084,
         "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Product-Management-Analyst_R260339-1",
@@ -195850,7 +195850,7 @@
         "company_name": "RTX",
         "id": "ab89e37a-31f6-4830-ac0f-8460c7d32ac9",
         "title": "System Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1770277029,
         "date_posted": 1770277029,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/XMLNAME-2026-System-Engineer-I---Onsite---Tucson--AZ_01821009",
@@ -206085,7 +206085,7 @@
         "company_name": "DigitalOcean",
         "id": "0a2c044d-bb5c-4a3b-a54c-43e97371f7a2",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1770853007,
         "date_posted": 1770853007,
         "url": "https://www.digitalocean.com/careers/position/apply/?gh_jid=7605430",
@@ -206977,5 +206977,90 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Amazon",
+        "id": "7948b935-4bba-44b3-8907-7e5a942c3bb4",
+        "title": "AI Data Associate - Portuguese - Artificial General Intelligence",
+        "active": true,
+        "date_updated": 1770892110,
+        "date_posted": 1770892110,
+        "url": "https://amazon.jobs/en/jobs/3150263/ai-data-associate-portuguese-artificial-general-intelligence",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Amazon",
+        "id": "9d5e8f36-82d3-42d5-a61a-e1b14dfc5bdb",
+        "title": "AI Data Associate - Artificial General Intelligence",
+        "active": true,
+        "date_updated": 1770892087,
+        "date_posted": 1766160457,
+        "url": "https://amazon.jobs/en/jobs/3136405/ai-data-associate-portuguese-artificial-general-intelligence",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Amazon",
+        "id": "40376ce7-1646-4417-9ec8-5b9aa3777f5d",
+        "title": "AI Data Associate - French - Artificial General Intelligence",
+        "active": true,
+        "date_updated": 1770892093,
+        "date_posted": 1764778449,
+        "url": "https://amazon.jobs/en/jobs/3136504/ai-data-associate-french-artificial-general-intelligence",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "PhD",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Amazon",
+        "id": "8d5ea051-7365-4fc6-afc7-4ce059493592",
+        "title": "AI Data Associate - Artificial General Intelligence",
+        "active": true,
+        "date_updated": 1770892092,
+        "date_posted": 1764778454,
+        "url": "https://amazon.jobs/en/jobs/3136515/ai-data-associate-french-artificial-general-intelligence",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
     }
 ]
