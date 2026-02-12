@@ -194312,12 +194312,12 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
+        "category": "Software Engineering",
         "company_name": "General Dynamics Mission Systems",
         "id": "638158a7-a85d-4f35-8803-8a45bac43027",
         "title": "Software Engineer \u2013 Entry Level",
         "active": true,
-        "date_updated": 1770246758,
+        "date_updated": 1770939556,
         "date_posted": 1770246758,
         "url": "https://careers-gdms.icims.com/jobs/70392/job?mobile=true&needsRedirect=false",
         "locations": [
@@ -194325,10 +194325,8 @@
         ],
         "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
         "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
+        "sponsorship": "U.S. Citizenship is Required",
+        "degrees": []
     },
     {
         "source": "Simplify",
