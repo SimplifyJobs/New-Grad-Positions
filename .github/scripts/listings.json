@@ -65932,7 +65932,7 @@
         "company_name": "Brellium",
         "id": "6616d827-0690-4adf-985d-fa2b94eade44",
         "title": "Software Engineer - AI",
-        "active": true,
+        "active": false,
         "date_updated": 1762915057,
         "date_posted": 1761896646,
         "url": "https://jobs.ashbyhq.com/brellium/c1c54c79-d3cf-41d7-a3d2-a230ec9b6c9e/application",
@@ -129859,7 +129859,7 @@
         "company_name": "Quantexa",
         "id": "05947923-c830-44f4-a7fa-43ab278c4e0f",
         "title": "Associate Data Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1765927002,
         "date_posted": 1765927002,
         "url": "https://apply.workable.com/quantexa/j/5AF3D5E524/apply",
@@ -159739,7 +159739,7 @@
         "company_name": "Grayce",
         "id": "99c2bac2-68f0-42f8-909b-3555c998a37c",
         "title": "Graduate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1768320870,
         "date_posted": 1768320870,
         "url": "https://apply.workable.com/grayce/j/6F03729A98/apply",
@@ -196128,7 +196128,7 @@
         "company_name": "Sainsbury's",
         "id": "cf987c89-1716-44ba-9662-1bbbea2f6276",
         "title": "Trading Assistant - Shift",
-        "active": false,
+        "active": true,
         "date_updated": 1770287245,
         "date_posted": 1770287245,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048273",
@@ -200563,7 +200563,7 @@
         "company_name": "Sainsbury's",
         "id": "830700da-299b-4f3c-8370-bddeea8eaeb4",
         "title": "Trading Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1770505990,
         "date_posted": 1770505990,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048646",
@@ -201020,7 +201020,7 @@
         "company_name": "RTX",
         "id": "f3f9c84c-482f-4228-813d-677cbd0eb932",
         "title": "2026 Full-time - Software Engineering I - Onsite, CA",
-        "active": true,
+        "active": false,
         "date_updated": 1770647216,
         "date_posted": 1770647216,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-GOLETA-H01--6380-Hollister-Ave--BLDG-H01/XMLNAME-2026-Full-time---Software-Engineering-I---Onsite--CA-_01821775",
@@ -206899,6 +206899,81 @@
             "Phoenix, AZ"
         ],
         "company_url": "https://simplify.jobs/c/MLB",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "d0566368-18ed-4ef2-9151-c6deddfc97ce",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1770892076,
+        "date_posted": 1770892076,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048647",
+        "locations": [
+            "Tunbridge Wells, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "09c8cacf-e1e0-4a75-98c1-d9b69194596c",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1770892079,
+        "date_posted": 1770892079,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400049134",
+        "locations": [
+            "Southampton, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "QuinStreet",
+        "id": "aa35a7a8-19f5-4183-9fcf-feaea5431942",
+        "title": "Entry Level Software Engineer",
+        "active": true,
+        "date_updated": 1770891977,
+        "date_posted": 1770777440,
+        "url": "https://www.quinstreet.com/careers/?gh_jid=7605753",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/QuinStreet",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "RWS",
+        "id": "c6a814ce-9a21-4dbd-9637-32f194a35f8c",
+        "title": "Search Quality Rater - English - Indiana",
+        "active": true,
+        "date_updated": 1770891230,
+        "date_posted": 1767395963,
+        "url": "https://jobs.lever.co/rws/2c082054-6a8a-4ce9-a8b7-9237904195e9/apply",
+        "locations": [
+            "Indianapolis, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/RWS",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
