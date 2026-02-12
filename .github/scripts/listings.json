@@ -155900,7 +155900,7 @@
         "company_name": "LexisNexis Risk Solutions",
         "id": "ac5720f0-1702-4301-a3f3-a38a2925149a",
         "title": "Associate Analytics Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1767979788,
         "date_posted": 1767979788,
         "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/UK---London-Bishopsgate/Data-Analytics-III_R105719",
@@ -185854,7 +185854,7 @@
         "company_name": "Flutter",
         "id": "7fc46ff6-73ef-43e9-959c-84c4b8409883",
         "title": "Web Analytics Tagging Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1769757577,
         "date_posted": 1769757577,
         "url": "https://flutterbe.wd3.myworkdayjobs.com/FlutterUKI_External/job/Leeds-UK/BI-Implementation-Analyst_JR131157-2",
@@ -207502,6 +207502,67 @@
             "Boston, MA"
         ],
         "company_url": "https://simplify.jobs/c/8daaaedd-ec77-45a3-ab9c-dc153ae865ed",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Visa",
+        "id": "f96f1c6c-ba22-4027-814a-98c56a967f72",
+        "title": "Software Engineer - Multiple Openings",
+        "active": true,
+        "date_updated": 1770909668,
+        "date_posted": 1770909668,
+        "url": "https://jobs.smartrecruiters.com/Visa/744000108969105",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Manulife Financial",
+        "id": "70191ed7-eecc-4b81-bea7-bc2a2188e009",
+        "title": "Associate Full-Stack Software Engineer",
+        "active": true,
+        "date_updated": 1770909905,
+        "date_posted": 1770909905,
+        "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Waterloo-Ontario/Associate-Full-Stack-Software-Engineer_JR25110777-2",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Kitchener, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Manulife-Financial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Microchip Technology",
+        "id": "6e7633f7-5884-4091-80c0-866c8a6b117a",
+        "title": "Engineer 1-Test",
+        "active": true,
+        "date_updated": 1770909492,
+        "date_posted": 1770909492,
+        "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/MA---Lawrence/Engineer-I-Test_R660-26",
+        "locations": [
+            "Andover, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Microchip-Technology",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
