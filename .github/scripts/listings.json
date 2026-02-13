@@ -2,23 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "7shifts",
-        "id": "7756364a-3f30-4889-b775-278cbf59fdb3",
-        "title": "Junior Software Developer",
-        "active": false,
-        "date_updated": 1750215990,
-        "date_posted": 1750215990,
-        "url": "https://job-boards.greenhouse.io/7shifts/jobs/5567427004",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/7shifts",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Persona",
         "id": "68eccc04-cc20-47ac-a59e-eed897e63cb9",
         "title": "Software engineer \u2013 New grad",
@@ -130111,7 +130094,7 @@
         "company_name": "Scout AI",
         "id": "1cb14ca2-13b5-4aa1-8c8f-cf9741f24ba6",
         "title": "Drone Operator",
-        "active": true,
+        "active": false,
         "date_updated": 1765928604,
         "date_posted": 1759372398,
         "url": "https://job-boards.greenhouse.io/scoutai/jobs/4940440008",
