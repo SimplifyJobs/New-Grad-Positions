@@ -2,23 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Twilio",
-        "id": "6d485416-e467-4c79-8a6d-8b6d37a05876",
-        "title": "Software Engineer \u2013 Early Career - Messaging API",
-        "active": false,
-        "date_updated": 1750215193,
-        "date_posted": 1750215193,
-        "url": "https://job-boards.greenhouse.io/twilio/jobs/6987416",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Twilio",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "7shifts",
         "id": "7756364a-3f30-4889-b775-278cbf59fdb3",
         "title": "Junior Software Developer",
@@ -174165,7 +174148,7 @@
         "company_name": "1X",
         "id": "7cc57280-2f8d-4a04-916e-e3a0d0459517",
         "title": "Robot Operator - Swing Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1769134249,
         "date_posted": 1769134249,
         "url": "https://1x.recruitee.com/o/robot-operator-night-shift",
@@ -176522,7 +176505,7 @@
         "company_name": "Schweitzer Engineering Laboratories",
         "id": "159e9c37-8cf1-4b9a-8531-6cea0d25db0a",
         "title": "Associate Integration Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1769263100,
         "date_posted": 1769263100,
         "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Associate-Integration-Engineer_2025-18672",
@@ -205489,7 +205472,7 @@
         "company_name": "Sainsbury's",
         "id": "a7e8b89b-3dfb-4acc-9064-481bb2576e19",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1770851490,
         "date_posted": 1770851490,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400049124",
@@ -207006,7 +206989,7 @@
         "company_name": "AeroVironment",
         "id": "9c231176-4d7c-44d9-a84f-b1391ec58cd5",
         "title": "Product Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1770900907,
         "date_posted": 1764729519,
         "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Huntsville-AL/Product-Engineer-II-_6245",
@@ -208913,6 +208896,163 @@
         "degrees": [
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "One Brief",
+        "id": "f7cf0ea1-5530-43f1-b77d-aaef1130c643",
+        "title": "Outcome Engineer - Early in Career Professional",
+        "active": true,
+        "date_updated": 1770948846,
+        "date_posted": 1770948846,
+        "url": "https://jobs.ashbyhq.com/onebrief/a88e10d4-66d8-4911-99e3-3d20351e73d9/application",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/One-Brief",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Fellow",
+        "id": "b50602ac-999b-4033-a430-4fd6612337d5",
+        "title": "Technician - Temp",
+        "active": true,
+        "date_updated": 1770950645,
+        "date_posted": 1770950645,
+        "url": "https://fellowproducts.com/pages/careers?gh_jid=5051869007",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Fellow",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Anduril",
+        "id": "ab4bfc6b-77aa-445f-a333-2e3f7c3a338b",
+        "title": "Senior Software Engineer - Warfighter Systems",
+        "active": true,
+        "date_updated": 1770950168,
+        "date_posted": 1770950168,
+        "url": "https://boards.greenhouse.io/andurilindustries/jobs/5050193007",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Anduril",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "1X",
+        "id": "31b75032-5716-4ada-b3a9-eb072b815fc7",
+        "title": "Robot Operator - Swing Shift",
+        "active": true,
+        "date_updated": 1770948709,
+        "date_posted": 1770948709,
+        "url": "https://1x.recruitee.com/o/robot-operator-swing-shift",
+        "locations": [
+            "Palo Alto, CA",
+            "San Carlos, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/1x",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "0ca1b271-4261-401c-b158-446a05f23973",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1770948734,
+        "date_posted": 1770948734,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400049279",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Anduril",
+        "id": "fd13c0b8-1391-4ef9-93c7-ddd1da098dc1",
+        "title": "Early Career Software Engineer - Mixed Reality",
+        "active": true,
+        "date_updated": 1770950160,
+        "date_posted": 1770950160,
+        "url": "https://boards.greenhouse.io/andurilindustries/jobs/5051227007",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Anduril",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "3e772eca-4466-42e1-8bfe-42f307d6619a",
+        "title": "Software Engineer 1 - Effectors",
+        "active": true,
+        "date_updated": 1770949778,
+        "date_posted": 1770949778,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/XMLNAME-2026-Full-time---Software-Engineer-I---Effectors---Onsite--AZ-_01820532",
+        "locations": [
+            "Tucson, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Olsson",
+        "id": "c302f706-7413-4a07-b19e-170e933d374f",
+        "title": "Entry-Level Field Geologist",
+        "active": true,
+        "date_updated": 1770939224,
+        "date_posted": 1770939224,
+        "url": "https://job-boards.greenhouse.io/olsson/jobs/5118834008",
+        "locations": [
+            "Lincoln, NE",
+            "Oklahoma City, OK",
+            "Papillion, NE"
+        ],
+        "company_url": "https://simplify.jobs/c/Olsson",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
