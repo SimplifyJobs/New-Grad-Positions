@@ -195196,7 +195196,7 @@
         "company_name": "ASML",
         "id": "bcf6d24f-ec58-4442-b611-7334afd1bf91",
         "title": "Upgrade Install and Relocation Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1770248098,
         "date_posted": 1770248098,
         "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Dallas-TX-USA/Upgrade-Install-and-Relocation-Engineer_J-00334609",
@@ -197115,7 +197115,7 @@
         "company_name": "Iowa State University",
         "id": "a96b9b1e-9f04-47c3-b464-01754e05dc17",
         "title": "Financial Aid Data Analyst 1",
-        "active": true,
+        "active": false,
         "date_updated": 1770332525,
         "date_posted": 1770332525,
         "url": "https://isu.wd1.myworkdayjobs.com/IowaStateJobs/job/Ames-IA/Financial-Aid-Data-Analyst-I_R18581",
@@ -209017,5 +209017,97 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Mercor",
+        "id": "b7de0ef1-2ccb-400c-8e09-b5078a36aa4d",
+        "title": "Data Scientist",
+        "active": true,
+        "date_updated": 1770967083,
+        "date_posted": 1770967083,
+        "url": "https://jobs.ashbyhq.com/mercor/982a0751-e9eb-4b96-ac93-a1fd1d2f9152/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Mercor",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Maple AI",
+        "id": "2d46d675-43a4-49b2-8886-d3e7b43dd3a9",
+        "title": "GTM Engineer",
+        "active": true,
+        "date_updated": 1770967111,
+        "date_posted": 1770967111,
+        "url": "https://jobs.ashbyhq.com/maple/99c07e10-f81a-4b62-97c7-9388128c708a/application",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Maple-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Mudflap",
+        "id": "46e82831-0ad8-4735-8586-00543f539fa3",
+        "title": "Software Engineer - Ruby on Rails",
+        "active": true,
+        "date_updated": 1770967002,
+        "date_posted": 1770967002,
+        "url": "https://jobs.ashbyhq.com/mudflap/6d599ccc-4566-4cd3-9721-2273601acba6/application",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Mudflap",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "f294fd48-41aa-4e2e-add9-5fb479e1710a",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1770966641,
+        "date_posted": 1770966641,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400049281",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "056d967c-9f21-4126-8a05-76b639f5dd64",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1770966641,
+        "date_posted": 1770966641,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400049282",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
