@@ -1,21 +1,5 @@
 [
     {
-        "date_updated": 1750726102,
-        "url": "https://tally.so/r/w27qjg",
-        "company_name": "Anant LLC",
-        "title": "SWE Internships",
-        "locations": [
-            "Remote"
-        ],
-        "sponsorship": "Other",
-        "active": true,
-        "source": "yugoyal",
-        "id": "4ef08c3e-00d3-440f-a824-752a576b198c",
-        "date_posted": 1750205383,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
         "source": "Simplify",
         "category": "Software",
         "company_name": "Twilio",
@@ -128178,7 +128162,7 @@
         "company_name": "Genuine Parts Company",
         "id": "e517e06a-82f1-4d99-bcf4-55592bcee3b4",
         "title": "Data Conversion Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1765842393,
         "date_posted": 1765842393,
         "url": "https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Data-Conversion-Analyst_R25_0000043895",
@@ -204666,7 +204650,7 @@
         "company_name": "Sainsbury's",
         "id": "61a09c8a-3061-46cf-a40f-67287e9d567d",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1770775864,
         "date_posted": 1770775864,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048986",
@@ -207102,7 +207086,7 @@
         "company_name": "Sainsbury's",
         "id": "9cff2647-e999-42bb-95bf-c276409b9653",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1770909071,
         "date_posted": 1770909071,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400049180",
@@ -208725,5 +208709,127 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Equinix",
+        "id": "77c5f274-e403-4537-abb0-f60ed72d1767",
+        "title": "Analytics & Communications Specialist",
+        "active": true,
+        "date_updated": 1770941674,
+        "date_posted": 1770941674,
+        "url": "https://equinix.wd1.myworkdayjobs.com/External/job/Ashburn/Analytics---Communications-Specialist_JR-157403",
+        "locations": [
+            "Ashburn, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Equinix",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Applied Materials",
+        "id": "06def1a3-f95d-4552-87fd-fbae555b6dcd",
+        "title": "Data Scientist New College Grad - Masters Degree - Santa Clara CA",
+        "active": true,
+        "date_updated": 1770941101,
+        "date_posted": 1770941101,
+        "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Data-Scientist-New-College-Grad---Masters-Degree--Santa-Clara--CA-_R2612272",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Materials",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Dave & Busters",
+        "id": "40490d14-3065-4202-8c5b-2138de77c8b2",
+        "title": "Game Support Technician",
+        "active": true,
+        "date_updated": 1770940884,
+        "date_posted": 1770940884,
+        "url": "https://daveandbusters.wd1.myworkdayjobs.com/dave_and_busters_careers/job/Braintree-MA/Game-Support-Technician_R-1010286",
+        "locations": [
+            "Quincy, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Dave-And-Busters",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Stryker",
+        "id": "16549875-e60d-46cf-bf9f-27e945e8f4e4",
+        "title": "Specialist",
+        "active": true,
+        "date_updated": 1770940802,
+        "date_posted": 1770940802,
+        "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Dallas-Texas/OnSite-Specialist---Ft-Worth--TX_R560102",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Stryker",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "T-Mobile",
+        "id": "4ef3c840-0f67-430c-9926-4598fdfe1086",
+        "title": "Associate Engineer - Software Full Stack",
+        "active": true,
+        "date_updated": 1770940673,
+        "date_posted": 1770940673,
+        "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Associate-Engineer--Software-Full-Stack_REQ338054",
+        "locations": [
+            "Overland Park, KS",
+            "Bellevue, WA",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/T-Mobile",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Amentum",
+        "id": "46fd5aaf-f21e-46ea-ad53-d098fc493ee4",
+        "title": "Research Chemist",
+        "active": true,
+        "date_updated": 1770940603,
+        "date_posted": 1770940603,
+        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-DC-Washington/Research-Chemist_R0153923",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Amentum",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
