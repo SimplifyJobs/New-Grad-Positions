@@ -173654,7 +173654,7 @@
         "company_name": "Higher Logic",
         "id": "2f480a53-6f41-400f-bf17-bb93dc4b9d83",
         "title": "Junior Software Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1769125360,
         "date_posted": 1769125360,
         "url": "https://job-boards.greenhouse.io/higherlogic/jobs/6565676003",
@@ -176413,7 +176413,7 @@
         "company_name": "Intel",
         "id": "3714df2b-0b0e-4891-a2f4-88d031e66d4a",
         "title": "Packaging Module Development Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1769261790,
         "date_posted": 1769261790,
         "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Packaging-Module-Development-Engineer_JR0279520",
@@ -194975,7 +194975,7 @@
         "company_name": "Scout Motors",
         "id": "67eeda89-6bf7-4df0-a62f-a3da92238fc0",
         "title": "Quality Materials Laboratory Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1770247916,
         "date_posted": 1770247916,
         "url": "https://job-boards.greenhouse.io/scoutmotors/jobs/5036813007",
@@ -209594,5 +209594,189 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Blue Cross and Blue Shield of North Carolina",
+        "id": "689521e6-af20-4f61-970c-9d6e2bfaa92a",
+        "title": "Business Applications Associate",
+        "active": true,
+        "date_updated": 1770997751,
+        "date_posted": 1770997751,
+        "url": "https://bcbsnc.wd5.myworkdayjobs.com/bcbsnc/job/Remote---North-Carolina/Business-Applications-Associate_RQ0018166",
+        "locations": [
+            "North Carolina"
+        ],
+        "company_url": "https://simplify.jobs/c/Blue-Cross-And-Blue-Shield-Of-North-Carolina",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "PhD",
+            "MD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Capital One",
+        "id": "253ae4de-d428-4c39-8416-8c368f31de37",
+        "title": "Senior Associate - Product Manager - Capital One Travel",
+        "active": true,
+        "date_updated": 1770997740,
+        "date_posted": 1770997740,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Senior-Associate--Product-Manager---Capital-One-Travel_R235931-1",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Capital-One",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amentum",
+        "id": "16bdc2b6-f7d9-4c69-9cb5-3dd19d44e33f",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1770997754,
+        "date_posted": 1770997754,
+        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-MD-Fort-Meade/Software-Engineer-1_R0154171",
+        "locations": [
+            "Odenton, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Amentum",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "LexisNexis Risk Solutions",
+        "id": "57b5f35c-c262-4331-af5c-338491058216",
+        "title": "Graduate Data Analyst",
+        "active": true,
+        "date_updated": 1770997540,
+        "date_posted": 1770997540,
+        "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/UK---London-Bishopsgate/Graduate-Data-Analyst----DAT308_R108015-1",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/LexisNexis-Risk-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Latitude AI",
+        "id": "6407fee1-4171-49c0-8835-a615947a4a09",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1770997304,
+        "date_posted": 1770997304,
+        "url": "https://job-boards.greenhouse.io/latitude/jobs/7611239",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/LatitudeAI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Latitude AI",
+        "id": "55f2f604-8d91-47e4-8f99-02c927efbb3f",
+        "title": "Hardware Engineer 1",
+        "active": true,
+        "date_updated": 1770997302,
+        "date_posted": 1770997302,
+        "url": "https://job-boards.greenhouse.io/latitude/jobs/7611153",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/LatitudeAI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Expedia Group",
+        "id": "a9cfed70-97cd-4343-8122-59d97f62cf73",
+        "title": "Data Scientist 1 - Vrbo Brand Analytics",
+        "active": true,
+        "date_updated": 1770996995,
+        "date_posted": 1770996995,
+        "url": "https://expedia.wd108.myworkdayjobs.com/private/job/UK---London/Data-Scientist-I--Vrbo-Brand-Analytics_R-101883-1",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Expedia-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Expedia Group",
+        "id": "8ff8a95c-1caa-4347-b08b-f1fab22ba31f",
+        "title": "Software Development Engineer 1",
+        "active": true,
+        "date_updated": 1770996973,
+        "date_posted": 1770996973,
+        "url": "https://expedia.wd108.myworkdayjobs.com/private/job/UK---London/Software-Development-Engineer-I_R-97728-2",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Expedia-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Astreya",
+        "id": "f4948db8-768f-462c-a5fd-6bf138ac4b3d",
+        "title": "Fiber Network Mapping Specialist 4",
+        "active": true,
+        "date_updated": 1770996583,
+        "date_posted": 1770996583,
+        "url": "https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-CO/Fiber-Network-Mapping-Specialist-IV_R0014264",
+        "locations": [
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Astreya",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
