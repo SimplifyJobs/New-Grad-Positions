@@ -151536,7 +151536,7 @@
         "company_name": "The Boeing Company",
         "id": "e406c7bd-fbbb-4212-a25f-ad2003f3534e",
         "title": "Spacecraft Software Engineer - Early-Career - Millennium Space Systems",
-        "active": true,
+        "active": false,
         "date_updated": 1767785955,
         "date_posted": 1767407973,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Spacecraft-Software-Engineer--Early-Career----Millennium-Space-Systems_JR2026489982",
@@ -163028,7 +163028,7 @@
         "company_name": "Light & Wonder",
         "id": "5c50e2c3-abd5-4a8e-be06-58b7336d17e1",
         "title": "Field Service Technician 1",
-        "active": true,
+        "active": false,
         "date_updated": 1768474407,
         "date_posted": 1765625620,
         "url": "https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Minot-ND/Field-Service-Tech-1_R320489",
@@ -169266,7 +169266,7 @@
         "company_name": "Xcel Energy",
         "id": "6bcaa3ab-5bea-4f32-a593-73816f81f650",
         "title": "Geospatial Data Technician 1",
-        "active": true,
+        "active": false,
         "date_updated": 1769027726,
         "date_posted": 1769027726,
         "url": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80223/Geospatial-Data-Technician-I_JR112327-1",
@@ -206426,7 +206426,7 @@
         "company_name": "American Electric Power",
         "id": "a30669ac-ae30-4266-97e3-e8f4cf76fca0",
         "title": "Generation Applications Support Specialist - Multiple Teams",
-        "active": true,
+        "active": false,
         "date_updated": 1770880752,
         "date_posted": 1770880752,
         "url": "https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/GENERATION-Applications-Support-Specialist--Associate---Mid----Work---Asset-Management--Data-Analysis--Visualization---Governance_R13896",
@@ -209168,5 +209168,25 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "67f6c661-271f-4ca1-bb98-726a82f22d0c",
+        "title": "Payroll Data Analyst - Hrop - Ams",
+        "active": true,
+        "date_updated": 1770977017,
+        "date_posted": 1761909915,
+        "url": "https://jobs.bytedance.com/en/position/7499217669146478856/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
