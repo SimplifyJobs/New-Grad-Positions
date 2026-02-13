@@ -208831,5 +208831,88 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "NVIDIA",
+        "id": "d25fc693-17f5-4111-adf5-419f904a333c",
+        "title": "ASIC Clocks Verification Engineer",
+        "active": true,
+        "date_updated": 1770949145,
+        "date_posted": 1770949145,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Clocks-Verification-Engineer---New-College-Grad-2026_JR2013336",
+        "locations": [
+            "Santa Clara, CA",
+            "Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Fragomen",
+        "id": "7f0b69e0-bbba-4970-aa3c-246ec5cede16",
+        "title": "Application Engineer 1",
+        "active": true,
+        "date_updated": 1770949229,
+        "date_posted": 1770949229,
+        "url": "https://fragomen.wd1.myworkdayjobs.com/FragomenCareers/job/US-Corporate-Remote/Application-Engineer-I_REQ-025210",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Fragomen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northrop Grumman",
+        "id": "72bd8aea-662e-46c9-9575-1854ba5fd7ca",
+        "title": "Weapons C++ Embedded Software Engineer Level 2 or 3 - Aht",
+        "active": true,
+        "date_updated": 1770949181,
+        "date_posted": 1770949181,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Northridge/Weapons-C---Embedded-Software-Engineer-Level-2-or-3--AHT-_R10222814",
+        "locations": [
+            "Northridge, LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "NVIDIA",
+        "id": "4a8ff2e3-8188-4eb8-ace9-a1f8fca1a45c",
+        "title": "Graphics Architect \u2013 New College Grad 2026 - Hardware",
+        "active": true,
+        "date_updated": 1770949151,
+        "date_posted": 1770949151,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Graphics-Architect--Hardware---New-College-Grad-2026_JR2013161",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
     }
 ]
