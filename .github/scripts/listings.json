@@ -159563,7 +159563,7 @@
         "company_name": "Grayce",
         "id": "99c2bac2-68f0-42f8-909b-3555c998a37c",
         "title": "Graduate Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1768320870,
         "date_posted": 1768320870,
         "url": "https://apply.workable.com/grayce/j/6F03729A98/apply",
@@ -191605,7 +191605,7 @@
         "company_name": "Johnson & Johnson",
         "id": "1b84df33-932c-4b82-a2e2-62f5b1180262",
         "title": "Postdoctoral Researcher Omics & Multimodal Data Integration",
-        "active": true,
+        "active": false,
         "date_updated": 1770133701,
         "date_posted": 1770133701,
         "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/High-Wycombe-Buckinghamshire-United-Kingdom/Postdoctoral-Researcher-Omics---Multimodal-Data-Integration--R-D-Neuroscience-Data-Science---Digital-Health_R-056680",
@@ -193419,7 +193419,7 @@
         "company_name": "RTX",
         "id": "913882b3-f305-4a46-b5b0-e0fcd244ecb2",
         "title": "2026 Full-time - Real-time Embedded Software Engineer - Onsite (CA)",
-        "active": true,
+        "active": false,
         "date_updated": 1770209604,
         "date_posted": 1770209604,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/XMLNAME-2026-Full-time---Real-time-Embedded-Software-Engineer---Onsite--CA-_01821758",
@@ -201194,7 +201194,7 @@
         "company_name": "G2",
         "id": "cef9319e-c52e-4043-aab4-4de2053e668d",
         "title": "Software Engineer 1 - Ruby on Rails",
-        "active": true,
+        "active": false,
         "date_updated": 1770678912,
         "date_posted": 1770678912,
         "url": "https://jobs.ashbyhq.com/G2/9db0bd39-e7fe-4701-993c-6d68110354a8/application",
@@ -209183,6 +209183,44 @@
             "San Jose, CA"
         ],
         "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "02d771f1-c654-4585-bc6c-96b59a657c1a",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1770978921,
+        "date_posted": 1770978921,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400049296",
+        "locations": [
+            "United Kingdom"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Housecall Pro",
+        "id": "76933348-3f88-4cd5-876c-34d5bfbaafe8",
+        "title": "AI-First Software Engineer",
+        "active": true,
+        "date_updated": 1770979120,
+        "date_posted": 1770852970,
+        "url": "https://www.housecallpro.com/careers/open-positions/?gh_jid=5800275004",
+        "locations": [
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Housecall-Pro",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
