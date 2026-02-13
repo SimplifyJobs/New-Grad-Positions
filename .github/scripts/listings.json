@@ -209246,5 +209246,28 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "305034a8-cb2d-4dac-851f-dfb1ca3be776",
+        "title": "Principal Software Engineer - Simulation - Oklahoma City or Melbourne FL",
+        "active": true,
+        "date_updated": 1770690144,
+        "date_posted": 1770690144,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Oklahoma-Oklahoma-City/Principal-Software-Engineer---Simulation--Oklahoma-City-or-Melbourne-FL-_R10222303",
+        "locations": [
+            "Oklahoma City, OK",
+            "Melbourne, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
     }
 ]
