@@ -162654,7 +162654,7 @@
         "company_name": "Kettering Health",
         "id": "949f81f3-8837-4a4a-a477-acd2e4962faa",
         "title": "Clinical Analytics Analyst - IS Analytic Health",
-        "active": true,
+        "active": false,
         "date_updated": 1768461290,
         "date_posted": 1766197436,
         "url": "https://careers-ketteringhealth.icims.com/jobs/57002/job?mobile=true&needsRedirect=false",
@@ -190047,7 +190047,7 @@
         "company_name": "Keysight Technologies",
         "id": "bc6a048e-aa56-4f2d-892f-b6fae9fa43c5",
         "title": "Manufacturing Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1770073813,
         "date_posted": 1770073813,
         "url": "https://jobs.keysight.com/jobs/51434?lang=en-us&icims=1",
@@ -190069,7 +190069,7 @@
         "company_name": "Keysight Technologies",
         "id": "9023863a-17c7-4a36-a158-0f98fac212ad",
         "title": "Manufacturing Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1770073805,
         "date_posted": 1770073805,
         "url": "https://jobs.keysight.com/jobs/51435?lang=en-us&icims=1",
@@ -190129,7 +190129,7 @@
         "company_name": "Keysight Technologies",
         "id": "cb9e7aff-9e9c-4104-85f2-67d70a7f24ab",
         "title": "Manufacturing Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1770073487,
         "date_posted": 1770073487,
         "url": "https://jobs.keysight.com/jobs/51421?lang=en-us&icims=1",
@@ -192132,7 +192132,7 @@
         "company_name": "Goldman Sachs",
         "id": "2bd0dd98-c19b-4c1a-8b11-764f412d2f61",
         "title": "Asset & Wealth Management - Multi Asset Solutions",
-        "active": false,
+        "active": true,
         "date_updated": 1770160405,
         "date_posted": 1770160405,
         "url": "https://higher.gs.com/roles/161110",
@@ -200491,7 +200491,7 @@
         "company_name": "Amazon",
         "id": "c2821a6e-4442-4bcc-b484-dd143af28dfe",
         "title": "System Development Engineer - Analytics Amazon Dedicated Cloud - Adc",
-        "active": true,
+        "active": false,
         "date_updated": 1770542497,
         "date_posted": 1761978284,
         "url": "https://amazon.jobs/en/jobs/3117599/system-development-engineer-analytics-amazon-dedicated-cloud-adc",
@@ -203998,7 +203998,7 @@
         "company_name": "RTX",
         "id": "68f6afdf-50f7-4389-93cc-7f97277efba9",
         "title": "2026 \u2013 Raytheon Full Time - Electrical Component Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1770766719,
         "date_posted": 1770766719,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-M10--3360-E-Hemisphere-Loop--BLDG-M10/XMLNAME-2026---Raytheon-Full-Time---Electrical-Component-Engineer--Onsite-_01818082",
@@ -209094,5 +209094,79 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "90b99fdd-be6e-4d31-ae91-a45565bf732a",
+        "title": "Electronics Technician",
+        "active": true,
+        "date_updated": 1769269306,
+        "date_posted": 1769269306,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-ON-MIDLAND-450--450-Leitz-Rd--450-BLDG/Electronics-Technician_01760488",
+        "locations": [
+            "Barrie, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Amazon",
+        "id": "4df52417-0b3d-4ded-8098-59be4275e92b",
+        "title": "Data Center Engineering Operations Technician",
+        "active": true,
+        "date_updated": 1770975697,
+        "date_posted": 1766542644,
+        "url": "https://amazon.jobs/en/jobs/3148794/data-center-engineering-operations-technician",
+        "locations": [
+            "Hermiston, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Amazon",
+        "id": "8d34455c-555d-4ac0-adfe-a5d47a573f3b",
+        "title": "Data Center Engineering Operations Technician",
+        "active": true,
+        "date_updated": 1770975697,
+        "date_posted": 1766542084,
+        "url": "https://amazon.jobs/en/jobs/3148803/data-center-engineering-operations-technician",
+        "locations": [
+            "Hermiston, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Hawk-Eye Innovations",
+        "id": "5a770fe4-d97b-4197-9b54-a56a4dfa4e53",
+        "title": "Kinatrax Operator",
+        "active": true,
+        "date_updated": 1770976500,
+        "date_posted": 1766140001,
+        "url": "https://jobs.ashbyhq.com/hawkeyeinnovations/9f35a50b-0ddc-40f7-b348-b9144add5f13/application",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Hawk-Eye-Innovations",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
