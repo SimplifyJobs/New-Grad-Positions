@@ -2,23 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Persona",
-        "id": "68eccc04-cc20-47ac-a59e-eed897e63cb9",
-        "title": "Software engineer \u2013 New grad",
-        "active": false,
-        "date_updated": 1750237588,
-        "date_posted": 1750237588,
-        "url": "https://jobs.lever.co/persona/c709b41e-9079-48ed-a876-793c4b4ca56d/apply",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Persona",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Mastercard",
         "id": "43f86bfa-7d47-4228-9767-3c94d9ec1da3",
         "title": "Software Engineer I",
@@ -85164,24 +85147,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "RTX",
-        "id": "90b99fdd-be6e-4d31-ae91-a45565bf732a",
-        "title": "Electronics Technician",
-        "active": true,
-        "date_updated": 1750238904,
-        "date_posted": 1750238904,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/ELC01-Midland-Ontario-Canada-450-Leitz-Road-Midland-ON-L4R-5B8-Canada/Electronics-Technician_01760488",
-        "locations": [
-            "Barrie, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "ByteDance",
         "id": "0a607515-b824-4f51-a1ff-06e3e6931545",
@@ -131479,7 +131444,7 @@
         "company_name": "Google",
         "id": "1f0bd4bf-990f-4173-a067-755f7c247cd2",
         "title": "Product Manager 1 - Search",
-        "active": true,
+        "active": false,
         "date_updated": 1766013011,
         "date_posted": 1766013011,
         "url": "https://www.google.com/about/careers/applications/jobs/results/122360883127952070",
@@ -149954,7 +149919,7 @@
         "company_name": "Cisco",
         "id": "f0e5f56a-c715-4562-88b1-22879a24a4c6",
         "title": "AI Machine Learning Engineer 2",
-        "active": true,
+        "active": false,
         "date_updated": 1767716316,
         "date_posted": 1767716316,
         "url": "https://careers.cisco.com/global/en/job/2001899",
@@ -209109,5 +209074,25 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Daifuku",
+        "id": "2ceffd3a-5475-4907-ae72-9a5d08ffbf82",
+        "title": "Installation Quality Control Specialist 1",
+        "active": true,
+        "date_updated": 1770974812,
+        "date_posted": 1768955816,
+        "url": "https://careers-daifuku-america.icims.com/jobs/20949/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Woodridge, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Daifuku",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
