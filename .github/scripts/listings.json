@@ -57006,24 +57006,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Harbinger Motors",
-        "id": "3ab4a347-be9b-4dff-9de2-dfece33b0028",
-        "title": "Powertrain Build Technician - Contract",
-        "active": true,
-        "date_updated": 1751335151,
-        "date_posted": 1750321762,
-        "url": "https://job-boards.greenhouse.io/harbingermotors/jobs/4760173007",
-        "locations": [
-            "Westminster, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Harbinger-Motors",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "SWBC",
         "id": "709410bd-166d-49d0-baca-971847e557e2",
@@ -210596,6 +210578,26 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Murj",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Honeywell",
+        "id": "aa03d250-d300-4b2f-9c9b-eecd756e30c4",
+        "title": "Data Analyst 1",
+        "active": true,
+        "date_updated": 1771035101,
+        "date_posted": 1771035101,
+        "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/139407",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Honeywell",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
