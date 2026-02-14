@@ -50193,7 +50193,7 @@
         "company_name": "Adobe",
         "id": "a939b063-c40e-4457-a392-9cdb9a8c3cdc",
         "title": "University Graduate - Research Scientist/Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1761939028,
         "date_posted": 1761901031,
         "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Research-Scientist-Engineer_R160689",
@@ -85069,24 +85069,6 @@
             "San Mateo, CA"
         ],
         "company_url": "https://simplify.jobs/c/Verkada",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Artisan Partners",
-        "id": "c5609978-34a4-4e3b-a05b-1edfeada6347",
-        "title": "Senior Software Engineer - Trading and Trade Operations",
-        "active": false,
-        "date_updated": 1750296072,
-        "date_posted": 1750296072,
-        "url": "https://www.artisanpartners.com/careers/career-opportunities.html?gh_jid=6996635",
-        "locations": [
-            "Milwaukee, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/Artisan-Partners",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
