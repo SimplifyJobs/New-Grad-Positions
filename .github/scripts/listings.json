@@ -85040,24 +85040,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Verkada",
-        "id": "5d6829a1-ce12-4c2b-a70f-4b68728a5ed1",
-        "title": "IT Operations Specialist",
-        "active": false,
-        "date_updated": 1755826632,
-        "date_posted": 1750305642,
-        "url": "https://job-boards.greenhouse.io/verkada/jobs/4740808007",
-        "locations": [
-            "San Mateo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Verkada",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "ByteDance",
         "id": "0a607515-b824-4f51-a1ff-06e3e6931545",
