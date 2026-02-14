@@ -85093,26 +85093,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Zeeco",
-        "id": "323799d0-3d7c-4db2-8ba1-3a898b1e9439",
-        "title": "Application Engineer - Mandarin",
-        "active": true,
-        "date_updated": 1750291826,
-        "date_posted": 1750291826,
-        "url": "https://jobs.lever.co/zeeco/bbbf7d70-d942-48a8-9f76-b26f3f283498/apply",
-        "locations": [
-            "Broken Arrow, OK"
-        ],
-        "company_url": "https://simplify.jobs/c/Zeeco",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "ByteDance",
         "id": "0a607515-b824-4f51-a1ff-06e3e6931545",
@@ -117311,7 +117291,7 @@
         "company_name": "CAE",
         "id": "43024f80-acac-4a96-bd62-dde45e459bb6",
         "title": "Simulator Technicians 1-4",
-        "active": true,
+        "active": false,
         "date_updated": 1764978246,
         "date_posted": 1764978246,
         "url": "https://cae.wd3.myworkdayjobs.com/career/job/Dallas/Pipelining-Project-Simulator-Technician_109574-1",
@@ -154662,7 +154642,7 @@
         "company_name": "The Boeing Company",
         "id": "2cdb25dd-7fc7-48c6-8f99-3ee8c0e74b5b",
         "title": "Atmospheric Scientist \u2013 Associate or Mid-Level",
-        "active": false,
+        "active": true,
         "date_updated": 1767916038,
         "date_posted": 1767916038,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Kirtland-AFB-NM/Atmospheric-Scientist--Associate-or-Mid-Level-_JR2026490878-1",
@@ -157104,7 +157084,7 @@
         "company_name": "Hancock Whitney",
         "id": "6e8041f0-6f74-403b-a8d2-fd5f22326679",
         "title": "Financial Crimes Data Analyst 1",
-        "active": false,
+        "active": true,
         "date_updated": 1768179321,
         "date_posted": 1768179321,
         "url": "https://hancockwhitney.wd5.myworkdayjobs.com/Careers/job/UNO-Center---New-Orleans-LA/Financial-Crimes-Data-Analyst-1_R016047",
@@ -185344,7 +185324,7 @@
         "company_name": "Finning",
         "id": "38cf633c-ab48-4592-895d-a0e4b02c4ad7",
         "title": "Mining Engineers \u2013 Recent Graduates",
-        "active": true,
+        "active": false,
         "date_updated": 1769739750,
         "date_posted": 1769739750,
         "url": "https://finning.wd3.myworkdayjobs.com/External/job/Fort-McMurray-AB-CA/Mining-Engineers---Recent-Graduates_R-2025-4693",
@@ -189388,7 +189368,7 @@
         "company_name": "CAE",
         "id": "8ce771cc-aa1e-414c-89ed-fff95fc1f21b",
         "title": "Simulator Technician 1",
-        "active": true,
+        "active": false,
         "date_updated": 1770074473,
         "date_posted": 1770074473,
         "url": "https://cae.wd3.myworkdayjobs.com/career/job/Eagan/SIMULATOR-TECHNICIAN-I_119917",
@@ -193024,7 +193004,7 @@
         "company_name": "RELEX Solutions",
         "id": "e967dee8-513c-42e9-bee2-5c5b4ad850a7",
         "title": "Business Analyst / Data Analyst - RELEX North America",
-        "active": false,
+        "active": true,
         "date_updated": 1770171506,
         "date_posted": 1770171506,
         "url": "https://www.relexsolutions.com/careers/jobs/?gh_jid=7484005003",
@@ -210679,6 +210659,65 @@
             "San Jose, CA"
         ],
         "company_url": "https://simplify.jobs/c/Microchip-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Teledyne",
+        "id": "e1e12da6-0697-4ba6-9bae-313ad7f97ffb",
+        "title": "Optical Technician",
+        "active": true,
+        "date_updated": 1771025498,
+        "date_posted": 1771025498,
+        "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Freeport-PA/Optical-Technician_REQ31600",
+        "locations": [
+            "Tarentum, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/199b3c43-379a-408c-a6a8-980e79183038",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Walt Disney Company",
+        "id": "cf4217f1-89de-4eda-88ff-e3af53ff8890",
+        "title": "Associate Data Analyst",
+        "active": true,
+        "date_updated": 1771025865,
+        "date_posted": 1771025865,
+        "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/New-York-NY-USA/Associate-Data-Analyst_10142556",
+        "locations": [
+            "Santa Monica, CA",
+            "NYC",
+            "Glendale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Disney",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Sphinx Defense",
+        "id": "5f9b0dbb-9932-4420-a9c4-582b63f396a1",
+        "title": "Junior Associate Software Engineer",
+        "active": true,
+        "date_updated": 1771026000,
+        "date_posted": 1771026000,
+        "url": "https://job-boards.greenhouse.io/sphinxdefense/jobs/5119185008",
+        "locations": [
+            "Colorado Springs, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Sphinx-Defense",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
