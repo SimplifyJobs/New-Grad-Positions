@@ -1,23 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Iridium Communications",
-        "id": "88d62a54-4381-44b9-8b96-9e584cc2e849",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1750298243,
-        "date_posted": 1750298243,
-        "url": "https://careers-iridium.icims.com/jobs/4453/job",
-        "locations": [
-            "Tempe, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Iridium-Communications",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Meta",
         "id": "c51a0642-8e06-4b1c-bb9e-1008d2918379",
