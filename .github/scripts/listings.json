@@ -2,40 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Blue Yonder",
-        "id": "d21da63a-497c-4043-a9ad-decd79101ff2",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1750458325,
-        "date_posted": 1750458325,
-        "url": "https://jda.wd5.myworkdayjobs.com/en-US/JDA_Careers/job/Dallas/Software-Engineer-I_252041-1",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/db6baf80-a321-4d20-ac07-6a38a44b5a05",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Aledade",
-        "id": "326c6d03-726e-45a0-84b5-3e69605a5998",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1750457840,
-        "date_posted": 1750457840,
-        "url": "https://jobs.lever.co/aledade/908df068-fde7-4547-abda-deccd3bc6c64/apply",
-        "locations": [
-            "Bethesda, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/Aledade",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Collective Hub",
         "id": "5d6deca1-e3ba-4a5d-999c-d15fc2bc7fd2",
         "title": "Software Engineer \u2013 New Grad",
@@ -35050,7 +35016,7 @@
         "company_name": "Leidos",
         "id": "de6e3580-a3fb-4a6a-b4af-bd24bb0e1f6c",
         "title": "PCBA Soldering Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1762915565,
         "date_posted": 1762915565,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/PCBA-Aoldering-Technician_R-00170309",
