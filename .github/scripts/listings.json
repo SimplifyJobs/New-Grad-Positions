@@ -2,41 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Jerry",
-        "id": "e7129816-7d92-4580-bc0e-0da3dd1a62fb",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1750436128,
-        "date_posted": 1750436128,
-        "url": "https://jobs.ashbyhq.com/Jerry/1e185141-a0c5-46c6-bf7c-c42a0f1dac12/application",
-        "locations": [
-            "Toronto, ON, Canada",
-            "Greater Toronto Area, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Jerry",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Jerry",
-        "id": "1b9327e4-a4b6-4ed8-b0aa-2f8f9f2d82ce",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1750436127,
-        "date_posted": 1750436127,
-        "url": "https://jobs.ashbyhq.com/Jerry/a15ab174-75f1-4fb9-aebc-1d150fe37c85/application",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Jerry",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Blue Yonder",
         "id": "d21da63a-497c-4043-a9ad-decd79101ff2",
         "title": "Software Engineer I",
@@ -112710,7 +112675,7 @@
         "company_name": "LSEG",
         "id": "06edb55d-7b82-463f-8405-a5046baff4d0",
         "title": "Index Distribution Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1764704867,
         "date_posted": 1764704867,
         "url": "https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/London-United-Kingdom/Index-Distribution-Software-Engineer_R0114476-1",
@@ -164096,7 +164061,7 @@
         "company_name": "Curtiss-Wright Corporation",
         "id": "961937fd-eacf-4381-b8aa-e0b9836d12d6",
         "title": "Electrical Assembly Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1768520325,
         "date_posted": 1768520325,
         "url": "https://curtisswright.wd1.myworkdayjobs.com/cw_external_career_site/job/Canada-Stratford/Electrical-Assembly-Technician_JR10789",
