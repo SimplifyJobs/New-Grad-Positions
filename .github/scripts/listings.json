@@ -210057,7 +210057,7 @@
         "company_name": "Jabil",
         "id": "6c8c7f43-ab18-4967-b252-19ce85d17691",
         "title": "Repair Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1771026176,
         "date_posted": 1771026176,
         "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Richardson-TX/Repair-Technician_J2439905",
@@ -210160,7 +210160,7 @@
         "company_name": "Jabil",
         "id": "91c5e90e-af16-4b5a-9277-023bc1d6680f",
         "title": "Repair Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1771026175,
         "date_posted": 1771026175,
         "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Richardson-TX/Repair-Technician_J2439906",
@@ -210696,5 +210696,43 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Giga AI",
+        "id": "b13af309-1d30-490d-9736-e4888986a562",
+        "title": "Software Engineer 1 / 2 - New York",
+        "active": true,
+        "date_updated": 1771166817,
+        "date_posted": 1771166817,
+        "url": "https://jobs.ashbyhq.com/gigaml/e37bdddd-2647-403e-850c-9cfe7684069c/application",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Giga-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "EquipmentShare",
+        "id": "d090b8f2-8bcc-4a2e-bc66-4f777d11e256",
+        "title": "Telematics Installer - Telematics",
+        "active": true,
+        "date_updated": 1771166035,
+        "date_posted": 1771166035,
+        "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=7606900",
+        "locations": [
+            "Billings, MT"
+        ],
+        "company_url": "https://simplify.jobs/c/Equipment-Share",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
