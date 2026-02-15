@@ -203522,7 +203522,7 @@
         "company_name": "The Boeing Company",
         "id": "fe4af63f-f66e-4340-9b38-675ecc4e8889",
         "title": "Flight Test Requirements & Analysis Engineer - Entry-Level or Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1770766993,
         "date_posted": 1770766993,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Patuxent-River-MD/Flight-Test-Requirements---Analysis-Engineer--Entry-Level-or-Associate-_JR2026492656-1",
@@ -208202,7 +208202,7 @@
         "company_name": "Moog ",
         "id": "59667401-8820-4c9a-b151-4fea3fa9d128",
         "title": "Associate Product Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1770939012,
         "date_posted": 1770939012,
         "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Associate-Product-Engineer_R-26-16184",
@@ -209537,7 +209537,7 @@
         "company_name": "Sainsbury's",
         "id": "ed668ab8-4293-4975-94f4-94b534f1d11e",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1771024308,
         "date_posted": 1771024308,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400049283",
@@ -209555,7 +209555,7 @@
         "company_name": "Sainsbury's",
         "id": "ccba15d3-2709-4b62-a521-8419a866a846",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1771024304,
         "date_posted": 1771024304,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400049390",
@@ -209593,7 +209593,7 @@
         "company_name": "Sainsbury's",
         "id": "330921f6-d875-472a-9090-6b8a331c99fd",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1771024306,
         "date_posted": 1771024306,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400049406",
@@ -209783,7 +209783,7 @@
         "company_name": "Sainsbury's",
         "id": "9223687d-5493-4c6d-8f2c-88fb150bda13",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1771024306,
         "date_posted": 1771024306,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400049422",
@@ -210734,5 +210734,23 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Vantage Point Solutions",
+        "id": "f19a3081-4f91-4684-920d-8b526ae4471c",
+        "title": "Field Services Technician",
+        "active": true,
+        "date_updated": 1771168656,
+        "date_posted": 1771168656,
+        "url": "https://vantage-point-solutions-inc.breezy.hr/p/b6227fbc7307/apply",
+        "locations": [
+            "Des Moines, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/Vantage-Point-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
