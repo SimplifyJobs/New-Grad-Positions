@@ -1,23 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Tyson Foods",
-        "id": "b301187a-2de6-4dca-8b2b-e668fd12e6be",
-        "title": "Data Engineer I",
-        "active": false,
-        "date_updated": 1750378248,
-        "date_posted": 1750378248,
-        "url": "https://tysonfoods.wd5.myworkdayjobs.com/TSN/job/Corporate-412-West---Springdale-Arkansas/Data-Engineer-I---Springdale--AR_R0400865-1",
-        "locations": [
-            "Springdale, AR"
-        ],
-        "company_url": "https://simplify.jobs/c/Tyson-Foods",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Rockwell Automation",
         "id": "c1a259b0-9363-4f65-b75b-179ab72993d2",
