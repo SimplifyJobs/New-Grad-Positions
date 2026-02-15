@@ -2,23 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Collective Hub",
-        "id": "5d6deca1-e3ba-4a5d-999c-d15fc2bc7fd2",
-        "title": "Software Engineer \u2013 New Grad",
-        "active": false,
-        "date_updated": 1755269760,
-        "date_posted": 1750459321,
-        "url": "https://www.collective.com/careers/6614825003?gh_jid=6614825003",
-        "locations": [
-            "San Francisco, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/CollectiveHub",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Qualtrics",
         "id": "dac33903-bd48-461f-b704-7b8b877634ce",
         "title": "Software Engineer I - Research Methodologies",
@@ -209696,7 +209679,7 @@
         "company_name": "Sainsbury's",
         "id": "ab436a8b-017a-4e29-9ee5-7eb6fa687291",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1771024300,
         "date_posted": 1771024300,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400049416",
@@ -210544,7 +210527,7 @@
         "company_name": "Sainsbury's",
         "id": "5bd0548c-e435-4ff4-a996-70fe2ba32bbd",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1771163513,
         "date_posted": 1771163513,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400049128",
