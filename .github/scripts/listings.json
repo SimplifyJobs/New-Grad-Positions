@@ -1,23 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Qualtrics",
-        "id": "dac33903-bd48-461f-b704-7b8b877634ce",
-        "title": "Software Engineer I - Research Methodologies",
-        "active": false,
-        "date_updated": 1750462937,
-        "date_posted": 1750462937,
-        "url": "https://www.qualtrics.com/careers/us/en/job/6963280?gh_jid=6963280",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Qualtrics",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Capital Rx",
         "id": "ff409e69-5566-41e6-9960-7bc4c5720dfc",
@@ -126242,7 +126225,7 @@
         "company_name": "Light & Wonder",
         "id": "9a2b268f-2fc9-4040-99d6-8f9d4455c290",
         "title": "Mathematician",
-        "active": true,
+        "active": false,
         "date_updated": 1765637068,
         "date_posted": 1763890332,
         "url": "https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Las-Vegas-NV/Senior-Mathematician_R320859",
@@ -210755,6 +210738,24 @@
             "Tunbridge Wells, UK"
         ],
         "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northrop Grumman",
+        "id": "0c43e175-bd12-44fd-8cee-013df2691f65",
+        "title": "SCA Engineering Technician 1",
+        "active": true,
+        "date_updated": 1771199401,
+        "date_posted": 1771199401,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Georgia-Warner-Robins/SCA-Engineering-Technician-1_R10222672",
+        "locations": [
+            "Warner Robins, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
