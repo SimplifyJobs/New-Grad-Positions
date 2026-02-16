@@ -206350,7 +206350,7 @@
         "company_name": "Sainsbury's",
         "id": "d0566368-18ed-4ef2-9151-c6deddfc97ce",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1770892076,
         "date_posted": 1770892076,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048647",
@@ -206530,7 +206530,7 @@
         "company_name": "Airbus",
         "id": "f54427fc-c50e-49b0-9461-fb2aeee8d649",
         "title": "Cabin Installer",
-        "active": true,
+        "active": false,
         "date_updated": 1770854491,
         "date_posted": 1770854491,
         "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Mobile-Area-AL/Cabin-Installer_JR10389180",
@@ -210904,6 +210904,63 @@
             "Warner Robins, GA"
         ],
         "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Nectar Social",
+        "id": "edc2a94e-bfc1-445b-b315-34762399d6de",
+        "title": "Software Engineer \u2013 Early Career",
+        "active": true,
+        "date_updated": 1771226050,
+        "date_posted": 1771226050,
+        "url": "https://jobs.ashbyhq.com/nectar-social/606df770-4167-4066-bbfd-d7464b28d9b2/application",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Nectar-Social",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Neon Health",
+        "id": "062d52cd-75cb-4a14-a428-ccae778d2f6d",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1771225930,
+        "date_posted": 1771225930,
+        "url": "https://jobs.ashbyhq.com/neon-health/eb5b50a9-5cb6-4d1b-828e-189286f63320/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Neon-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "a63c157b-5c7a-4f1a-b58f-5c4237586bc4",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1771225673,
+        "date_posted": 1771225673,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400049579",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
