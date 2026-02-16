@@ -178169,7 +178169,7 @@
         "company_name": "Northrop Grumman",
         "id": "5c4c472d-40f3-4776-8bb3-79acdaf40fd2",
         "title": "Electronic Technician - Level 1 or Level 2",
-        "active": true,
+        "active": false,
         "date_updated": 1769470769,
         "date_posted": 1769470769,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/Electronic-Technician---Level-1-or-Level-2_R10220441",
@@ -194810,7 +194810,7 @@
         "company_name": "ASML",
         "id": "bcf6d24f-ec58-4442-b611-7334afd1bf91",
         "title": "Upgrade Install and Relocation Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1770248098,
         "date_posted": 1770248098,
         "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Dallas-TX-USA/Upgrade-Install-and-Relocation-Engineer_J-00334609",
@@ -211222,6 +211222,26 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "PennState University",
+        "id": "5fd3a345-4ef2-41a9-a1fc-ccf209544f29",
+        "title": "Postdoctoral Scholar - LUX-ZEPLIN - Lz - Dark Matter Experiment",
+        "active": true,
+        "date_updated": 1771249170,
+        "date_posted": 1769122972,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Scholar--LUX-ZEPLIN--LZ--Dark-Matter-Experiment_REQ_0000074880-1",
+        "locations": [
+            "State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Penn-State",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
         ]
     }
 ]
