@@ -113685,7 +113685,7 @@
         "company_name": "Dimensional Fund Advisors",
         "id": "b6c4c1b0-6d03-4055-aad2-7243314bd0c9",
         "title": "Associate \u2013 Investment Analytics and Data - Portfolio Analytics",
-        "active": false,
+        "active": true,
         "date_updated": 1764733582,
         "date_posted": 1764733582,
         "url": "https://dimensional.wd5.myworkdayjobs.com/dfa_careers/job/Charlotte/Associate--Investment-Analytics-and-Data--Portfolio-Analytics-_2025-8613",
@@ -206055,7 +206055,7 @@
         "company_name": "American Electric Power",
         "id": "a30669ac-ae30-4266-97e3-e8f4cf76fca0",
         "title": "Generation Applications Support Specialist - Multiple Teams",
-        "active": true,
+        "active": false,
         "date_updated": 1770880752,
         "date_posted": 1770880752,
         "url": "https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/GENERATION-Applications-Support-Specialist--Associate---Mid----Work---Asset-Management--Data-Analysis--Visualization---Governance_R13896",
@@ -210576,7 +210576,7 @@
         "company_name": "Altice USA",
         "id": "e13754a5-bbec-4fc1-aca8-1bc287d02040",
         "title": "Product Analyst 1",
-        "active": true,
+        "active": false,
         "date_updated": 1771164632,
         "date_posted": 1771164632,
         "url": "https://www.optimumcareers.com/job/Bethpage-Product-Analyst-I-NY-11714/1363541800/?ats=successfactors",
@@ -210798,7 +210798,7 @@
         "company_name": "Sainsbury's",
         "id": "f508bdde-e798-4f39-8821-d53df1ae4b70",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1771207712,
         "date_posted": 1771207712,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400049575",
@@ -211020,7 +211020,7 @@
         "company_name": "Sainsbury's",
         "id": "5b3ac755-38df-4cb6-83f3-d96014f45649",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1771237251,
         "date_posted": 1771237251,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400049588",
@@ -211038,7 +211038,7 @@
         "company_name": "Sainsbury's",
         "id": "54d27c47-4f52-4ce8-a1a5-566816a91f54",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1771237251,
         "date_posted": 1771237251,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400049586",
@@ -211074,7 +211074,7 @@
         "company_name": "Sainsbury's",
         "id": "24e104f5-c776-4421-92dd-86eef2060bd8",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1771237250,
         "date_posted": 1771237250,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400049587",
@@ -211110,7 +211110,7 @@
         "company_name": "Sainsbury's",
         "id": "0611baf4-279d-474a-8d52-77a9986a3c3d",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1771237252,
         "date_posted": 1771237252,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400049601",
@@ -211242,6 +211242,26 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Dimensional Fund Advisors",
+        "id": "d4cee94a-846a-457e-b099-9323ee16f080",
+        "title": "Associate Product Management",
+        "active": true,
+        "date_updated": 1771251769,
+        "date_posted": 1771251769,
+        "url": "https://dimensional.wd5.myworkdayjobs.com/dfa_careers/job/London/Associate--Product-Management_2026-8673",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/3d361434-7ac4-4284-b2ef-078b0bc92808",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
