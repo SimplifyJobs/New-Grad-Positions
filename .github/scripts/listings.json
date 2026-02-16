@@ -169853,7 +169853,7 @@
         "company_name": "Mastercard",
         "id": "55b64698-a0ef-442c-bf1b-9fcb878c1dc6",
         "title": "Associate Product Specialist Launch Graduate Program",
-        "active": true,
+        "active": false,
         "date_updated": 1769029241,
         "date_posted": 1769029241,
         "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/London-England-Angel-Lane/Associate-Product-Specialist--Launch-Graduate-Program-2026---London--UK_R-257374-1",
@@ -210777,5 +210777,25 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Teledyne",
+        "id": "41d88255-7fd4-4f4b-b5ef-9ac6cea4143f",
+        "title": "Software Configuration Management Analyst",
+        "active": true,
+        "date_updated": 1771191946,
+        "date_posted": 1770939524,
+        "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---El-Segundo-CA/Software-Configuration-Managment-Analyst_REQ32911",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/199b3c43-379a-408c-a6a8-980e79183038",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
