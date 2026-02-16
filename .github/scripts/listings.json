@@ -18893,7 +18893,7 @@
         "company_name": "RTX",
         "id": "4872a2dd-d3d3-4c32-8149-f247f4721d1c",
         "title": "Software Engineer 1 - Radar Product Line Team",
-        "active": true,
+        "active": false,
         "date_updated": 1759295272,
         "date_posted": 1759295272,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA801-Marlborough-MA-1001-Boston-Post-Road-Building-2-Marlborough-MA-01752-USA/XMLNAME-2026-Fulltime---Raytheon-Software-Engineer-I--On-site-_01797122",
@@ -156469,7 +156469,7 @@
         "company_name": "RTX",
         "id": "0488ba0f-6ca4-4bb5-bd8d-261ad1970f83",
         "title": "Assembly/Test 1",
-        "active": true,
+        "active": false,
         "date_updated": 1768178489,
         "date_posted": 1768178489,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HKS31-US041-Lenexa-KS-15701-W-95th-Street---Lenexa-KS-66219-USA/Assembly-Test-1_01813510",
@@ -164777,7 +164777,7 @@
         "company_name": "Baker Hughes",
         "id": "6a026d64-ecf1-480f-93ca-a5fdc6bb7227",
         "title": "Electrical Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1768559438,
         "date_posted": 1767655044,
         "url": "https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/US-PA-Turtle-Creek-601-Braddock-Avenue/Electrical-Technician_R159795",
@@ -177034,7 +177034,7 @@
         "company_name": "Carnegie Mellon University",
         "id": "02fa000c-c3ab-476c-9a51-e7bc466c3cdd",
         "title": "Research Assistant - S3D - School of Computer Science",
-        "active": true,
+        "active": false,
         "date_updated": 1769441467,
         "date_posted": 1769441467,
         "url": "https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Research-Assistant---S3D---School-of-Computer-Science_2024087",
@@ -194748,7 +194748,7 @@
         "company_name": "ASML",
         "id": "d4f84401-f8af-40f4-b74a-56b1bcd66a8f",
         "title": "Upgrade Install and Relocation Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1770248097,
         "date_posted": 1770248097,
         "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Austin-TX-USA/Upgrade-Install-and-Relocation-Engineer_J-00334608",
@@ -211262,6 +211262,26 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "State Street",
+        "id": "c7481b7c-ea89-4418-a0b7-3f7798316788",
+        "title": "Quantitative Research",
+        "active": true,
+        "date_updated": 1771252089,
+        "date_posted": 1771252089,
+        "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Cambridge-Massachusetts/Quantitative-Research--a-k-a-Researcher-_R-784329",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/State-Street",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
         ]
     }
 ]
