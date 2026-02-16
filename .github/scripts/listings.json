@@ -162677,7 +162677,7 @@
         "company_name": "Light & Wonder",
         "id": "5c50e2c3-abd5-4a8e-be06-58b7336d17e1",
         "title": "Field Service Technician 1",
-        "active": false,
+        "active": true,
         "date_updated": 1768474407,
         "date_posted": 1765625620,
         "url": "https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Minot-ND/Field-Service-Tech-1_R320489",
@@ -166570,7 +166570,7 @@
         "company_name": "Nextech Systems",
         "id": "d9e7c472-ede1-4bb9-b15c-2c948f76f72e",
         "title": "Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1768616379,
         "date_posted": 1768616379,
         "url": "https://jobs.lever.co/nextech/099609da-26cc-4fc2-aaeb-7aec86f343ca/apply",
@@ -184625,7 +184625,7 @@
         "company_name": "GXO Logistics",
         "id": "75ba767e-d829-46aa-9975-9f94cabf409d",
         "title": "Warehouse Engineering Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1769728712,
         "date_posted": 1769728712,
         "url": "https://jobs.gxo.com/job/Rugby-Warehouse-Engineering-Technician-ENG-CV21-1HG/1360427200/?ats=successfactors",
@@ -187691,7 +187691,7 @@
         "company_name": "Dominion Energy",
         "id": "de0957ad-91c2-4c61-80d0-801c8e52d428",
         "title": "Load Forecasting Engineer \u2013 Engineer/Senior/Staff - Engineering Analytics & Modeling",
-        "active": false,
+        "active": true,
         "date_updated": 1769858035,
         "date_posted": 1769858035,
         "url": "https://careers.dominionenergy.com/job/GLEN-ALLEN-Load-Forecasting-Engineer-(EngineerSeniorStaff)-Engineering-Analytics-&-Modeling-VA-23060/1360725700/?ats=successfactors",
@@ -193185,7 +193185,7 @@
         "company_name": "BlackRock",
         "id": "0e6b0c46-77b3-4b9e-b57c-8085955b6dce",
         "title": "Product Manager - Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1770218246,
         "date_posted": 1770218246,
         "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/London-Greater-London/Product-Manager--Associate-_R260563",
@@ -193651,7 +193651,7 @@
         "company_name": "Sainsbury's",
         "id": "63b93318-df61-4f77-8f7a-5aac5616943b",
         "title": "Trading Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1770247146,
         "date_posted": 1770247146,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048267",
@@ -206289,7 +206289,7 @@
         "company_name": "Sierra Nevada Corporation",
         "id": "1f051ec7-3d45-4eba-b8b9-45e794e4ac71",
         "title": "Data Scientist 1",
-        "active": true,
+        "active": false,
         "date_updated": 1770777069,
         "date_posted": 1770777069,
         "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Data-Scientist-I_R0029331",
@@ -211645,5 +211645,472 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Astro Mechanica",
+        "id": "e20f6849-08c5-44dc-8dbe-9b211c7e9cc8",
+        "title": "Flight Software Engineer",
+        "active": true,
+        "date_updated": 1771283830,
+        "date_posted": 1771283830,
+        "url": "https://jobs.ashbyhq.com/astro-mechanica/f25cc28c-9932-4e4d-a7e8-53a10a7fbd55/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Astro-Mechanica",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Caterpillar Inc.",
+        "id": "de478078-f10d-43de-a3ce-59e4d0766a1c",
+        "title": "Test Operator",
+        "active": true,
+        "date_updated": 1771284049,
+        "date_posted": 1771284049,
+        "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Shrewsbury-United-Kingdom/Test-Operator_R0000350452",
+        "locations": [
+            "Stoke-on-Trent, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Caterpillar-Inc",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "7-Eleven",
+        "id": "9c3b41bd-1205-414f-b166-1be4e9e1de87",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1771284231,
+        "date_posted": 1771284231,
+        "url": "https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-Irving-TX/Software-Engineer_R26_950",
+        "locations": [
+            "Irving, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/7-Eleven",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jerry",
+        "id": "7ef90c63-8809-4487-9388-4c15298ab607",
+        "title": "Software Engineer - Entry",
+        "active": true,
+        "date_updated": 1771283824,
+        "date_posted": 1771283824,
+        "url": "https://jobs.ashbyhq.com/jerry.ai/768b0858-b886-4ce9-9b48-27f27cebabbb/application",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Leidos",
+        "id": "74d1163c-a007-450f-81cb-7925fdd29019",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1771284249,
+        "date_posted": 1771284249,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Software-Engineer_R-00176124",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jerry",
+        "id": "cbd5f624-fc14-401d-843f-5da7145a983b",
+        "title": "Software Engineer - Entry",
+        "active": true,
+        "date_updated": 1771283837,
+        "date_posted": 1771283837,
+        "url": "https://jobs.ashbyhq.com/jerry.ai/e415a4a5-808e-4f36-93db-9e00d0e42409/application",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "American Express",
+        "id": "c31d8045-9344-40f4-b0a0-8677d1ee788d",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1771283733,
+        "date_posted": 1771283733,
+        "url": "https://aexp.eightfold.ai/careers/job/40094645",
+        "locations": [
+            "Brighton, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/American-Express",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jerry",
+        "id": "c09372b1-c775-4394-a221-ae78f3ce5f4f",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1771283810,
+        "date_posted": 1771283810,
+        "url": "https://jobs.ashbyhq.com/jerry.ai/93a62e90-a2a8-4674-8b1e-7c9c0ab3f50a/application",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Crest Industries",
+        "id": "36897b70-d3e2-4348-aaa1-4c698ec6cc70",
+        "title": "IT Programmer",
+        "active": true,
+        "date_updated": 1771283793,
+        "date_posted": 1771283793,
+        "url": "https://jobs.lever.co/crestoperations/fc2c5440-0370-4cdc-8da1-71bbed628578/apply",
+        "locations": [
+            "Alexandria, LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Crest-Industries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jerry",
+        "id": "340b9498-2938-4c37-80e9-24b99154a5c2",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1771283816,
+        "date_posted": 1771283816,
+        "url": "https://jobs.ashbyhq.com/jerry.ai/8f92d097-e898-44b1-b4cf-0b763925ff54/application",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Vertiv",
+        "id": "089d4363-41a2-4a03-a701-a8fe0b0fd99f",
+        "title": "NETA Electrical Testing Technician",
+        "active": true,
+        "date_updated": 1771283851,
+        "date_posted": 1771283851,
+        "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20267147",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Vertiv",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "RWS",
+        "id": "f2692922-8dad-4cfd-bd1f-1eb36abaf4fa",
+        "title": "AI Specialist - Liverpool English - Scouse",
+        "active": true,
+        "date_updated": 1771283631,
+        "date_posted": 1771283631,
+        "url": "https://jobs.lever.co/rws/4868e89f-15d2-42e0-93d3-b8bf38dc2709/apply",
+        "locations": [
+            "Liverpool, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/RWS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Arrive Logistics",
+        "id": "acc72600-617c-45b4-9ff2-632acf7e4847",
+        "title": "Business Data Analyst",
+        "active": true,
+        "date_updated": 1771283572,
+        "date_posted": 1771283572,
+        "url": "https://jobs.lever.co/arrivelogistics/2999a0b4-75e2-46bd-a627-18c4bfb5b89c/apply",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Arrive-Logistics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "JP Morgan Chase",
+        "id": "6de4c58d-0ee5-4845-bc64-1d4d5857e7ac",
+        "title": "Investment Product and Platform Associate - Associate - Investment Product and Platform",
+        "active": true,
+        "date_updated": 1771283676,
+        "date_posted": 1771283676,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210707886",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Blue Yonder",
+        "id": "3c8f56d0-0049-4090-951d-8650e5cf95f3",
+        "title": "Software Engineer 1 - U.S. Citizenship Required",
+        "active": true,
+        "date_updated": 1771283691,
+        "date_posted": 1771283691,
+        "url": "https://jda.wd5.myworkdayjobs.com/en-US/JDA_Careers/job/BYDS-Dallas/Software-Engineer-I_253929",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Blue-Yonder",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "ed95e4d1-6d90-47bc-9939-c183de8c992c",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1771283436,
+        "date_posted": 1771283436,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400049722",
+        "locations": [
+            "Hereford, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "d559ab43-83a3-4a5f-b196-dad68e6be3f1",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1771283443,
+        "date_posted": 1771283443,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400049770",
+        "locations": [
+            "East Midlands, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Kettering Health",
+        "id": "a3249e49-519d-4c58-88a1-96bbf8f0a96d",
+        "title": "Business Intell Developer - IS Analytic Health",
+        "active": true,
+        "date_updated": 1771283289,
+        "date_posted": 1771283289,
+        "url": "https://careers-ketteringhealth.icims.com/jobs/58223/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Miamisburg, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Kettering-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "88b1c92e-2de2-43c4-9be5-daadc4ede083",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1771283445,
+        "date_posted": 1771283445,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400049772",
+        "locations": [
+            "East Midlands, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "624c4119-061c-4160-8a7d-a35ff67c8039",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1771283447,
+        "date_posted": 1771283447,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400049786",
+        "locations": [
+            "Feltham, UK",
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "56a3f650-7aa9-4f2d-96f4-383f444e00a7",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1771283436,
+        "date_posted": 1771283436,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048268",
+        "locations": [
+            "Durham, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "qode.world",
+        "id": "30c4ad0a-869f-426d-9384-d5f6adf33433",
+        "title": "Associate Software Developer",
+        "active": true,
+        "date_updated": 1771283297,
+        "date_posted": 1771283297,
+        "url": "https://apply.workable.com/qodeworld/j/14568DCEDF/apply",
+        "locations": [
+            "Jackson Township, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Qode-World",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "PennState University",
+        "id": "e7169b81-e919-437f-871e-953601218ab3",
+        "title": "Postdoctoral Scholar",
+        "active": true,
+        "date_updated": 1771282947,
+        "date_posted": 1771282947,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Post-Doctoral-Scholar_REQ_0000075558-1",
+        "locations": [
+            "State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Penn-State",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "PennState University",
+        "id": "62ef5f95-4caa-4557-92b0-91aadef33482",
+        "title": "Chemical Engineering Postdoctoral Scholar",
+        "active": true,
+        "date_updated": 1771282946,
+        "date_posted": 1771282946,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Chemical-Engineering-Postdoctoral-Scholar_REQ_0000075338-1",
+        "locations": [
+            "State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Penn-State",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
     }
 ]
