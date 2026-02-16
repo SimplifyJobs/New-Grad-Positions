@@ -116787,7 +116787,7 @@
         "company_name": "ONYX Insight",
         "id": "68b629ea-0b83-47ce-8cbb-cc425b323320",
         "title": "Condition Monitoring Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1764955568,
         "date_posted": 1764955568,
         "url": "https://onyx-insight.breezy.hr/p/c5b7ac562f7301/apply",
@@ -207263,7 +207263,7 @@
         "company_name": "Qualcomm",
         "id": "94ca71b7-3469-4e78-a5ff-436af2e6c563",
         "title": "Video Design Engineer - Video Systems, HW Architecture",
-        "active": true,
+        "active": false,
         "date_updated": 1770938280,
         "date_posted": 1770938280,
         "url": "https://qualcomm.eightfold.ai/careers/job/446716781216",
@@ -210730,7 +210730,7 @@
         "company_name": "Sainsbury's",
         "id": "2dc9fbde-ee0a-44e1-9f31-3bc22338f3ce",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1771196901,
         "date_posted": 1771196901,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400049563",
@@ -210961,6 +210961,25 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Goodnotes",
+        "id": "20443b1a-7a60-4d70-9c62-24bb5d18a5ea",
+        "title": "Machine Learning Researcher \u2013 Fresh Graduates are welcome - Handwriting",
+        "active": true,
+        "date_updated": 1771226525,
+        "date_posted": 1762532293,
+        "url": "https://job-boards.greenhouse.io/goodnotes/jobs/5569058004",
+        "locations": [
+            "London, UK",
+            "Remote in UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Goodnotes",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
