@@ -204367,7 +204367,7 @@
         "company_name": "Sainsbury's",
         "id": "e6a7c3aa-a2c4-45a1-86dd-ef143d95babe",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1770805816,
         "date_posted": 1770805816,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048992",
@@ -204385,7 +204385,7 @@
         "company_name": "Sainsbury's",
         "id": "e0c7a364-3aad-4e6f-a123-386e2935a852",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1770805812,
         "date_posted": 1770805812,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048990",
@@ -210756,6 +210756,24 @@
             "Warner Robins, GA"
         ],
         "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Magnite",
+        "id": "306b3082-8707-415f-9f91-5aa4d03c3b72",
+        "title": "Engineer 1",
+        "active": true,
+        "date_updated": 1771200400,
+        "date_posted": 1771200400,
+        "url": "https://osv-rubicon.wd5.myworkdayjobs.com/en-US/MagniteCareers/job/United-Kingdom---Belfast/Engineer-I_R-01252",
+        "locations": [
+            "Belfast, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/ee8236a0-5b6a-4389-a774-e10fe29442a2",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
