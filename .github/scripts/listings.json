@@ -209275,20 +209275,16 @@
         "id": "16bdc2b6-f7d9-4c69-9cb5-3dd19d44e33f",
         "title": "Software Engineer 1",
         "active": true,
-        "date_updated": 1770997754,
+        "date_updated": 1771249880,
         "date_posted": 1770997754,
         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-MD-Fort-Meade/Software-Engineer-1_R0154171",
         "locations": [
             "Odenton, MD"
         ],
         "company_url": "https://simplify.jobs/c/Amentum",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
+        "is_visible": false,
+        "sponsorship": "U.S. Citizenship is Required",
+        "degrees": []
     },
     {
         "source": "Simplify",
