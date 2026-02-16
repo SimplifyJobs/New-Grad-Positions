@@ -205662,18 +205662,16 @@
         "id": "814885a0-c1a5-44d0-afcb-62c497fa66fc",
         "title": "Software Engineer 1",
         "active": true,
-        "date_updated": 1770851826,
+        "date_updated": 1771249817,
         "date_posted": 1770851826,
         "url": "https://ats.rippling.com/momentumcareers/jobs/61ab30a3-c47a-4b5c-8513-d719d623d096",
         "locations": [
             "Annapolis Junction, MD"
         ],
         "company_url": "https://simplify.jobs/c/Momentum-Engineering",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
+        "is_visible": false,
+        "sponsorship": "U.S. Citizenship is Required",
+        "degrees": []
     },
     {
         "source": "Simplify",
