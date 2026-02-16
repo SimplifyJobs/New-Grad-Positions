@@ -162122,7 +162122,7 @@
         "company_name": "EquipmentShare",
         "id": "89a25dc1-828d-4f70-b583-086a869c69cb",
         "title": "Telematics Installer",
-        "active": true,
+        "active": false,
         "date_updated": 1768444185,
         "date_posted": 1768444185,
         "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=7538278",
@@ -210889,5 +210889,23 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northrop Grumman",
+        "id": "3ab8432a-8cc9-436c-902d-510fc36806b5",
+        "title": "SCA Engineering Technician 1",
+        "active": true,
+        "date_updated": 1771199398,
+        "date_posted": 1771199398,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Georgia-Warner-Robins/SCA-Engineering-Technician-1_R10222651",
+        "locations": [
+            "Warner Robins, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
