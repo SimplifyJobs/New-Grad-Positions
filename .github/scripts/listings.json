@@ -211147,5 +211147,26 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Dimensional Fund Advisors",
+        "id": "33b423a8-00f3-4d89-ade2-e87336847546",
+        "title": "Analyst/Associate - Investment Engineering - Analytics Platforms",
+        "active": true,
+        "date_updated": 1771246477,
+        "date_posted": 1771246477,
+        "url": "https://dimensional.wd5.myworkdayjobs.com/dfa_careers/job/Charlotte/Analyst-Associate--Investment-Engineering--Data-Distribution-Team-_2026-8657",
+        "locations": [
+            "Charlotte, NC",
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/3d361434-7ac4-4284-b2ef-078b0bc92808",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
