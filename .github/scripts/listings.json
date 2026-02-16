@@ -81218,7 +81218,7 @@
         "company_name": "TikTok",
         "id": "73dc6fc6-fff7-449b-8103-4212ff085214",
         "title": "Data Engineer Graduate - E-commerce - 2026 Start",
-        "active": true,
+        "active": false,
         "date_updated": 1754554576,
         "date_posted": 1754554576,
         "url": "https://lifeattiktok.com/search/7533292831260920082",
@@ -211167,6 +211167,67 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Johnson & Johnson",
+        "id": "da65d877-654e-4f8e-a612-3b072d5fd05d",
+        "title": "Postdoctoral Researcher Omics & Multimodal Data Integration",
+        "active": true,
+        "date_updated": 1771248323,
+        "date_posted": 1771248323,
+        "url": "https://jj.wd5.myworkdayjobs.com/NonCompetetiveHiring/job/High-Wycombe-Buckinghamshire-United-Kingdom/Postdoctoral-Researcher-Omics---Multimodal-Data-Integration--R-D-Neuroscience-Data-Science---Digital-Health_R-056680-2",
+        "locations": [
+            "Ambler, PA",
+            "High Wycombe, UK",
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Johnson-Johnson",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Expedia Group",
+        "id": "035ef54c-e7b1-40bb-a586-db3d42ef0dde",
+        "title": "Software Development Engineer 1",
+        "active": true,
+        "date_updated": 1771248033,
+        "date_posted": 1771248033,
+        "url": "https://expedia.wd108.myworkdayjobs.com/private/job/UK---London/Software-Development-Engineer-I_R-102289",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Expedia-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Goldman Sachs",
+        "id": "42937147-601a-4fbc-975c-775aea412b40",
+        "title": "Asset & Wealth Management - Wealth Investment Solutions",
+        "active": true,
+        "date_updated": 1771172483,
+        "date_posted": 1770938205,
+        "url": "https://higher.gs.com/roles/162295",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Goldman-Sachs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
