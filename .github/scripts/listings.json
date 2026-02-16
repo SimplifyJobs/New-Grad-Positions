@@ -17526,7 +17526,7 @@
         "source": "Simplify",
         "category": "Software",
         "company_name": "mthree",
-        "id": "13614527-7efc-429b-ba53-e410fe62b4a0",
+        "id": "c69eca4d-3efe-46db-a9c2-5a84040d6c8b",
         "title": "Junior Software Developer - Java/Scala",
         "active": true,
         "date_updated": 1758755027,
@@ -111400,7 +111400,7 @@
         "company_name": "Anaplan",
         "id": "bfed99bf-e463-4a0a-bbcf-d3c157685e6c",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1764630197,
         "date_posted": 1764630197,
         "url": "https://job-boards.greenhouse.io/anaplan/jobs/8308966002",
@@ -164741,7 +164741,7 @@
         "company_name": "Sainsbury's",
         "id": "e1d95840-2143-485b-9caa-82dd67ceafb4",
         "title": "Trading Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1768472425,
         "date_posted": 1768472425,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400045973",
@@ -176062,7 +176062,7 @@
         "company_name": "Intel",
         "id": "3714df2b-0b0e-4891-a2f4-88d031e66d4a",
         "title": "Packaging Module Development Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1769261790,
         "date_posted": 1769261790,
         "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Packaging-Module-Development-Engineer_JR0279520",
@@ -206646,7 +206646,7 @@
         "company_name": "Sainsbury's",
         "id": "78f4cd68-6cba-429e-8209-a89d13244c29",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1770909073,
         "date_posted": 1770909073,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400049212",
@@ -210983,5 +210983,169 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "cae7491f-df22-4ae2-b9d6-e481c5ea9fd7",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1771237249,
+        "date_posted": 1771237249,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400049578",
+        "locations": [
+            "Birmingham, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "ab388724-2f83-43f2-b73a-471613d44faa",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1771237246,
+        "date_posted": 1771237246,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400049594",
+        "locations": [
+            "Norwich, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "5b3ac755-38df-4cb6-83f3-d96014f45649",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1771237251,
+        "date_posted": 1771237251,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400049588",
+        "locations": [
+            "Dartford District, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "54d27c47-4f52-4ce8-a1a5-566816a91f54",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1771237251,
+        "date_posted": 1771237251,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400049586",
+        "locations": [
+            "Trafford, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "400b3ba2-419b-4704-b67a-3dc819b431a8",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1771237253,
+        "date_posted": 1771237253,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400049604",
+        "locations": [
+            "Woking, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "24e104f5-c776-4421-92dd-86eef2060bd8",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1771237250,
+        "date_posted": 1771237250,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400049587",
+        "locations": [
+            "Dartford District, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "06ea4f25-749e-49a9-8766-1653ef374be4",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1771237246,
+        "date_posted": 1771237246,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400046272",
+        "locations": [
+            "Tunbridge Wells, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "0611baf4-279d-474a-8d52-77a9986a3c3d",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1771237252,
+        "date_posted": 1771237252,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400049601",
+        "locations": [
+            "Woking, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Visa",
+        "id": "fe552fcb-9aa0-404f-8e76-af7b3b364978",
+        "title": "Graduate Software Engineer",
+        "active": true,
+        "date_updated": 1771236330,
+        "date_posted": 1771236330,
+        "url": "https://jobs.smartrecruiters.com/Visa/744000109479245",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
