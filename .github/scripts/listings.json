@@ -117449,7 +117449,7 @@
         "company_name": "PolyAI",
         "id": "21797258-f5ee-476b-82f9-a9b95f5024a4",
         "title": "Turkish Language Specialist",
-        "active": false,
+        "active": true,
         "date_updated": 1764984793,
         "date_posted": 1764984793,
         "url": "https://job-boards.eu.greenhouse.io/polyai/jobs/4725072101",
@@ -176995,7 +176995,7 @@
         "company_name": "Lloyds Bank",
         "id": "c2173356-cc72-497f-a8b7-c15b6925e7d7",
         "title": "Software Engineer - Cards",
-        "active": false,
+        "active": true,
         "date_updated": 1769442396,
         "date_posted": 1769442396,
         "url": "https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Chester/Software-Engineer--Cards-_135039",
@@ -193550,7 +193550,7 @@
         "company_name": "Cox",
         "id": "d8c1ae81-7b7a-4427-aef2-962812779cfd",
         "title": "Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1770219158,
         "date_posted": 1770219158,
         "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I_R202672721",
@@ -209848,7 +209848,7 @@
         "company_name": "Badger Meter",
         "id": "398d32df-56b5-4dc4-aa78-f05db472bf0e",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1771024001,
         "date_posted": 1771024001,
         "url": "https://badgermeter.wd5.myworkdayjobs.com/US_CareerSite/job/Los-Gatos-CA/Software-Engineer-I_4234",
@@ -211584,6 +211584,44 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/Quantcast",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Jabil",
+        "id": "64d4ed11-f3d5-4dcf-86f1-d8242656d925",
+        "title": "Test Engineering Technician 1",
+        "active": true,
+        "date_updated": 1771256573,
+        "date_posted": 1771256573,
+        "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Test-Engineering-Technician-I_J2440162-1",
+        "locations": [
+            "St. Petersburg, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Jabil",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "McGill University",
+        "id": "6476356e-49de-44ad-a53a-2ec1e7c8b18e",
+        "title": "Research Assistant 1",
+        "active": true,
+        "date_updated": 1771256655,
+        "date_posted": 1771256655,
+        "url": "https://mcgill.wd3.myworkdayjobs.com/McGill_Careers/job/McGill-College-2001/Research-Assistant-1_JR0000073744",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/McGill-University",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
