@@ -138001,7 +138001,7 @@
         "company_name": "JP Morgan Chase",
         "id": "525d4edd-ae18-4edb-bab8-8f049be7ebc2",
         "title": "Trading Services Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1767029304,
         "date_posted": 1767029304,
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210688478",
@@ -141643,7 +141643,7 @@
         "company_name": "Aramark",
         "id": "9b0ab107-6ee8-4ec4-a356-3a2733b41555",
         "title": "Service Technician - First Class Vending",
-        "active": true,
+        "active": false,
         "date_updated": 1764545229,
         "date_posted": 1764545229,
         "url": "https://aramarkcareers.com/UnitedStates/job/Bell-Gardens-Service-Technician-First-Class-Vending-CA-90201-1937/1342538800/?ats=successfactors",
@@ -160058,7 +160058,7 @@
         "company_name": "Jabil",
         "id": "b9014c12-2621-49d4-8d30-77b93a02187c",
         "title": "Test Engineering Technician 1",
-        "active": true,
+        "active": false,
         "date_updated": 1768346953,
         "date_posted": 1768346953,
         "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Memphis-TN/Test-Engineering-Technician-I_J2435090",
@@ -162677,7 +162677,7 @@
         "company_name": "Light & Wonder",
         "id": "5c50e2c3-abd5-4a8e-be06-58b7336d17e1",
         "title": "Field Service Technician 1",
-        "active": true,
+        "active": false,
         "date_updated": 1768474407,
         "date_posted": 1765625620,
         "url": "https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Minot-ND/Field-Service-Tech-1_R320489",
@@ -200625,7 +200625,7 @@
         "company_name": "Bass Pro Shops",
         "id": "328e89a9-23b4-4112-895e-6ac3480281e2",
         "title": "Marine Service Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1770652083,
         "date_posted": 1770652083,
         "url": "https://basspro.wd1.myworkdayjobs.com/careers/job/Richfield-WI/Marine-Service-Technician_R247504",
@@ -203609,7 +203609,7 @@
         "company_name": "RTX",
         "id": "7a636911-f29e-4de7-9b6f-f58851cedb79",
         "title": "Engineer 1 - Designer/Drafter",
-        "active": true,
+        "active": false,
         "date_updated": 1770766699,
         "date_posted": 1770766699,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-NY-ROME-104--104-Otis-St--OTIS/Engineer-I--Designer-Drafter--Onsite-_01808649",
@@ -211627,5 +211627,23 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "RWS",
+        "id": "56f29a61-c1d7-4f5c-9486-af5bd05f692b",
+        "title": "AI Data Specialist - Nevada - US",
+        "active": true,
+        "date_updated": 1771171479,
+        "date_posted": 1769769237,
+        "url": "https://jobs.lever.co/rws/0b0b5758-aa4d-44d7-abf5-dc42a3a8ffc8/apply",
+        "locations": [
+            "Las Vegas, NV"
+        ],
+        "company_url": "https://simplify.jobs/c/RWS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
