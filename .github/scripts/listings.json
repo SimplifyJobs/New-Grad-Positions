@@ -145962,7 +145962,7 @@
         "company_name": "DXC Technology",
         "id": "19ec4fd6-b5b7-43fc-8474-7d021334b158",
         "title": "DXC Graduate Programme",
-        "active": false,
+        "active": true,
         "date_updated": 1764209945,
         "date_posted": 1764209945,
         "url": "https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/GBR---RFW---ERSKINE/DXC-Graduate-Programme-2026_51567258",
@@ -169774,7 +169774,7 @@
         "company_name": "Caterpillar Inc.",
         "id": "4a9cb6a7-9bfe-464b-8436-1f88a4565c76",
         "title": "Development and Applications Engineering Graduate Scheme",
-        "active": true,
+        "active": false,
         "date_updated": 1769029640,
         "date_posted": 1769029640,
         "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Shrewsbury-United-Kingdom/Development-and-Application-Engineering--Graduate-Scheme-_R0000323151",
@@ -212588,6 +212588,26 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Xylem",
+        "id": "e458eb0d-8810-4494-bd1f-2e2013c97828",
+        "title": "Engineering Lab Technician",
+        "active": true,
+        "date_updated": 1771332394,
+        "date_posted": 1771332394,
+        "url": "https://xylem.wd5.myworkdayjobs.com/en-US/xylem-careers/job/Irvine-California/Engineering-Lab-Technician_R46434",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Xylem",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
         ]
     }
 ]
