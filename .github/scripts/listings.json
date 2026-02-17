@@ -31894,7 +31894,7 @@
         "company_name": "PURE Insurance",
         "id": "1fe68310-0cf8-46fd-b3c1-81ce97dbbc1d",
         "title": "Product Development Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1763086255,
         "date_posted": 1763086255,
         "url": "https://pureinsurance.wd5.myworkdayjobs.com/pure/job/Chicago/Product-Development-Specialist_R2529",
@@ -191062,7 +191062,7 @@
         "company_name": "The Boeing Company",
         "id": "7848bf7b-3394-4d37-ab38-8466cb514464",
         "title": "Boeing Pre-Employment Training - Assembly Electrical or System Mechanics",
-        "active": false,
+        "active": true,
         "date_updated": 1769211738,
         "date_posted": 1769211738,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/Boeing-Pre-Employment-Training--BPET--Students---Assembly-Electrical-or-System-Mechanics_JR2026493259-2",
@@ -212609,5 +212609,23 @@
         "degrees": [
             "Associate's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Ocean Optics",
+        "id": "f80683c9-7b99-4155-86b5-85daecc424d3",
+        "title": "Field Services Engineer - South West & Midlands",
+        "active": true,
+        "date_updated": 1771334591,
+        "date_posted": 1771334591,
+        "url": "https://halma.wd3.myworkdayjobs.com/halma/job/Abingdon/Field-Services-Engineer---South-West---Midlands_JR26_000132",
+        "locations": [
+            "Oxford, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Ocean-Optics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
