@@ -212317,5 +212317,26 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Plante Moran",
+        "id": "11ed2a63-666d-48da-95d3-41ec07bc4489",
+        "title": "Investment Analyst",
+        "active": true,
+        "date_updated": 1771286235,
+        "date_posted": 1771286235,
+        "url": "https://plantemoran.wd1.myworkdayjobs.com/pmexternalcareers/job/Southfield/Investment-Analyst_JR-02201",
+        "locations": [
+            "Kalamazoo, MI",
+            "Southfield, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Plante-Moran",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
