@@ -144216,7 +144216,7 @@
         "company_name": "Dave & Busters",
         "id": "3427e6e9-f08c-42fe-9680-1494b93c0b86",
         "title": "Games Support Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1763916524,
         "date_posted": 1763916524,
         "url": "https://daveandbusters.wd1.myworkdayjobs.com/dave_and_busters_careers/job/St-Louis-MO/Games-Support-Technician_R-1009531",
@@ -165348,7 +165348,7 @@
         "company_name": "Medline",
         "id": "86651707-ed77-4d45-a20e-57270912bc79",
         "title": "Associate Product Manager - April 2026 Start Date",
-        "active": false,
+        "active": true,
         "date_updated": 1768577310,
         "date_posted": 1768577310,
         "url": "https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/CORP--Northfield---Headquarters/Associate-Product-Manager---April-2026-Start-Date_R2601062",
@@ -168604,7 +168604,7 @@
         "company_name": "EquipmentShare",
         "id": "e5c2ba19-31c1-40db-a656-32dbe94c9c88",
         "title": "Telematics Installer",
-        "active": false,
+        "active": true,
         "date_updated": 1768923315,
         "date_posted": 1768923315,
         "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=7549192",
@@ -173147,7 +173147,7 @@
         "company_name": "RTX",
         "id": "bdbfda44-e490-4230-945b-3ec790a90a6a",
         "title": "2026 Fulltime Raytheon Software Engineer 1 - Test Equipment",
-        "active": false,
+        "active": true,
         "date_updated": 1769123799,
         "date_posted": 1769123799,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/XMLNAME-2026-Fulltime-Raytheon-Software-Engineer-I---Test-Equipment---Onsite_01790414",
@@ -178438,7 +178438,7 @@
         "company_name": "Cerebras",
         "id": "ccfe7875-0056-4aad-9622-4b66cc4ed4d9",
         "title": "Compiler Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1769480941,
         "date_posted": 1769182633,
         "url": "https://boards.greenhouse.io/embed/job_app?token=7601200003",
@@ -184967,7 +184967,7 @@
         "company_name": "Jabil",
         "id": "6ef59148-5e08-460b-98d3-982f606aedaf",
         "title": "Tester 1 D Shift",
-        "active": false,
+        "active": true,
         "date_updated": 1769733096,
         "date_posted": 1769733096,
         "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Tester-I-D-Shift_J2438554",
@@ -189676,7 +189676,7 @@
         "company_name": "Zebra Technologies",
         "id": "1d396af4-f09a-4602-bf96-305265770ffb",
         "title": "Software Engineer - I - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1770073919,
         "date_posted": 1770073919,
         "url": "https://zebra.eightfold.ai/careers/job/343637102584",
@@ -192021,7 +192021,7 @@
         "company_name": "RTX",
         "id": "eefc03b7-7d66-4140-8923-87f12cde8974",
         "title": "Software Engineer 1 - Software Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1770162295,
         "date_posted": 1770162295,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/XMLNAME-2026-Full-time---Software-Engineer-I---Onsite--TX-_01821529",
@@ -196949,7 +196949,7 @@
         "company_name": "AAA Club Alliance",
         "id": "dc0ebacf-6d53-4e76-bbde-5c564dbb8bbf",
         "title": "Associate Guidewire Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1770334903,
         "date_posted": 1770334903,
         "url": "https://ace.wd5.myworkdayjobs.com/careers/job/Coppell-TX-Remote/Associate-Guidewire-Developer_JR202634501",
@@ -200625,7 +200625,7 @@
         "company_name": "Bass Pro Shops",
         "id": "328e89a9-23b4-4112-895e-6ac3480281e2",
         "title": "Marine Service Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1770652083,
         "date_posted": 1770652083,
         "url": "https://basspro.wd1.myworkdayjobs.com/careers/job/Richfield-WI/Marine-Service-Technician_R247504",
@@ -203771,7 +203771,7 @@
         "company_name": "OpenSesame",
         "id": "ca345717-85c8-4165-bf3b-a31bd3a76b6b",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1770766495,
         "date_posted": 1770766495,
         "url": "https://boards.greenhouse.io/opensesame/jobs/7600588",
@@ -212111,6 +212111,211 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Netsmart",
+        "id": "35738f95-560c-4cb5-a7bb-68ef8b50f8b8",
+        "title": "Software Engineer-.NET and C# Experience - Fully Onsite Position",
+        "active": true,
+        "date_updated": 1771286108,
+        "date_posted": 1771286108,
+        "url": "https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Software-Engineer--NET-and-C--Experience-Fully-Onsite-Position-_R015173-1",
+        "locations": [
+            "Overland Park, KS",
+            "Springfield, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Netsmart",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Sierra Nevada Corporation",
+        "id": "4bd7a730-4fa0-483c-9108-db46cc921b2c",
+        "title": "Systems Engineer 1",
+        "active": true,
+        "date_updated": 1771285714,
+        "date_posted": 1771285714,
+        "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Herndon-VA/Systems-Engineer-I_R0029356",
+        "locations": [
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Sierra-Nevada-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "OCLC",
+        "id": "5f258310-bf9a-45b2-bc37-0301fe21d78f",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1771285192,
+        "date_posted": 1771285192,
+        "url": "https://oclc.wd1.myworkdayjobs.com/en-US/OCLC_Careers/job/Dublin-OH--Hybrid/Associate-Software-Engineer_R0003752",
+        "locations": [
+            "Dublin, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/350afefb-30b2-4d69-899d-19a3d7dd96f5",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Brooklinen",
+        "id": "4f4b6f1d-cc23-4bbe-b5cf-402696f8f74e",
+        "title": "Product Development Associate",
+        "active": true,
+        "date_updated": 1771285122,
+        "date_posted": 1771285122,
+        "url": "https://job-boards.greenhouse.io/brooklinen/jobs/7620442",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Brooklinen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Olsson",
+        "id": "7a78226e-5a75-4a18-9730-5a03d4efe043",
+        "title": "Document Controls Assistant",
+        "active": true,
+        "date_updated": 1771284911,
+        "date_posted": 1771284911,
+        "url": "https://job-boards.greenhouse.io/olsson/jobs/5121644008",
+        "locations": [
+            "Overland Park, KS",
+            "Lincoln, NE",
+            "Fort Worth, TX",
+            "Omaha, NE"
+        ],
+        "company_url": "https://simplify.jobs/c/Olsson",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Thoughtworks",
+        "id": "e61ed736-5e31-48dc-9c7b-6232cc023bee",
+        "title": "Associate-Graduate:Developer",
+        "active": true,
+        "date_updated": 1771284734,
+        "date_posted": 1771284732,
+        "url": "https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7618967",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Thoughtworks",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "STR",
+        "id": "9ebec1f8-d7a9-46a8-80ef-0bb2489a5004",
+        "title": "Associate Software Reverse Engineer",
+        "active": true,
+        "date_updated": 1771284771,
+        "date_posted": 1771284771,
+        "url": "https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4654850006",
+        "locations": [
+            "Melbourne, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/STR",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "STR",
+        "id": "1a8eec2d-f014-4944-be5f-5176492a1655",
+        "title": "Associate Software Reverse Engineer",
+        "active": true,
+        "date_updated": 1771284771,
+        "date_posted": 1771284771,
+        "url": "https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4654846006",
+        "locations": [
+            "Burlington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/STR",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Barry-Wehmiller",
+        "id": "e73a2981-99fb-4f57-bac7-7a8593980d50",
+        "title": "Data Engineer",
+        "active": true,
+        "date_updated": 1771284586,
+        "date_posted": 1771284586,
+        "url": "https://barrywehmiller.wd1.myworkdayjobs.com/BWCareers/job/St-Louis-MO/Data-Engineer_R020827-1",
+        "locations": [
+            "St. Louis, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Barry-Wehmiller",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Rocket Lab USA",
+        "id": "14c9ba5d-845a-49d1-b11d-1ad46bb1e442",
+        "title": "Senior Firmware Engineer 2",
+        "active": true,
+        "date_updated": 1771285403,
+        "date_posted": 1767080883,
+        "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7557402003",
+        "locations": [
+            "Tucson, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Rocket-Lab-USA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
