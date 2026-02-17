@@ -92248,7 +92248,7 @@
         "company_name": "Visa",
         "id": "4c34bbce-42bc-4b9a-ba9d-ecfeb9db1820",
         "title": "Graduate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1763470847,
         "date_posted": 1763470847,
         "url": "https://jobs.smartrecruiters.com/Visa/744000094151680",
@@ -144270,7 +144270,7 @@
         "company_name": "Nokia",
         "id": "451c709a-b9df-41c3-b772-b5c0cc805627",
         "title": "Semi Mfg Technician 2",
-        "active": true,
+        "active": false,
         "date_updated": 1762907693,
         "date_posted": 1762907693,
         "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26889",
@@ -148588,7 +148588,7 @@
         "company_name": "Adorama",
         "id": "8db8963d-15c7-4a29-9d88-f5b23b1d818e",
         "title": "Photo Checker & Indexer",
-        "active": true,
+        "active": false,
         "date_updated": 1767657321,
         "date_posted": 1767657321,
         "url": "https://job-boards.greenhouse.io/creatorsworkhere/jobs/4090105009",
@@ -157589,7 +157589,7 @@
         "company_name": "Fiserv",
         "id": "89035086-af33-4ee8-ac31-d13569c96626",
         "title": "Technology Analyst Program",
-        "active": false,
+        "active": true,
         "date_updated": 1768259683,
         "date_posted": 1768259683,
         "url": "https://fiserv.wd5.myworkdayjobs.com/ext/job/Omaha-Nebraska/Technology-Analyst-Program--Omaha--NE-_R-10385188",
@@ -181754,7 +181754,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "326be5ed-6ed1-4e60-b250-001d74b2cebc",
         "title": "Entry Level Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1769641880,
         "date_posted": 1769641880,
         "url": "https://careers-gdms.icims.com/jobs/70443/job?mobile=true&needsRedirect=false",
@@ -185127,7 +185127,7 @@
         "company_name": "Tubi",
         "id": "84bc81ac-c2af-4009-94ea-ae61de41c035",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1769738673,
         "date_posted": 1769738673,
         "url": "https://job-boards.greenhouse.io/tubitv/jobs/7572988",
@@ -191727,7 +191727,7 @@
         "company_name": "Sainsbury's",
         "id": "328a93fc-68ce-453a-9aa4-ee79c4572fdc",
         "title": "Trading Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1770160438,
         "date_posted": 1770160438,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048124",
@@ -211128,7 +211128,7 @@
         "company_name": "Visa",
         "id": "fe552fcb-9aa0-404f-8e76-af7b3b364978",
         "title": "Graduate Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1771236330,
         "date_posted": 1771236330,
         "url": "https://jobs.smartrecruiters.com/Visa/744000109479245",
@@ -212666,6 +212666,383 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Leidos",
+        "id": "92392efd-e08f-462d-bb3e-640e3574c201",
+        "title": "Bare-Metal Embedded Software Engineer",
+        "active": true,
+        "date_updated": 1771341848,
+        "date_posted": 1771341848,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Lynnwood-WA/Bare-Metal-Embedded-Software-Engineer_R-00176099",
+        "locations": [
+            "Lynnwood, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "8a5ca1e9-5004-4d5e-953e-88ccd1c95bc5",
+        "title": "Software Engineer 2",
+        "active": true,
+        "date_updated": 1771341636,
+        "date_posted": 1771341636,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineer-II--Onsite-_01824725",
+        "locations": [
+            "Cedar Rapids, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Profound",
+        "id": "6c49e467-9cc1-46c2-abb8-fa7e3ff3203b",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1771341640,
+        "date_posted": 1771341640,
+        "url": "https://jobs.ashbyhq.com/Profound/1d4a905b-7b91-4763-88dd-7abc7562fbcd/application",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Profound",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Visa",
+        "id": "60ef8dc2-03ce-42ab-bc89-e8bb6c9ae78e",
+        "title": "Associate Product Manager",
+        "active": true,
+        "date_updated": 1771341775,
+        "date_posted": 1771341775,
+        "url": "https://jobs.smartrecruiters.com/Visa/744000109714355",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Visa",
+        "id": "2bdfdedb-3236-472b-b2ed-f834ab828daf",
+        "title": "Associate Product Manager",
+        "active": true,
+        "date_updated": 1771341776,
+        "date_posted": 1771341776,
+        "url": "https://jobs.smartrecruiters.com/Visa/744000109714395",
+        "locations": [
+            "San Mateo, CA",
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Profound",
+        "id": "59b6f9f7-e335-4912-96a7-a65f5c97269b",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1771341517,
+        "date_posted": 1771341517,
+        "url": "https://jobs.ashbyhq.com/Profound/70a34e11-d3c7-4db2-a3fa-52d8cf627642/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Profound",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "American Express",
+        "id": "288ae90d-ec78-40d4-acdb-7aacab761204",
+        "title": "Campus \u2013 Full Time - Associate Digital Product Management - 2026','UK','London",
+        "active": true,
+        "date_updated": 1771341404,
+        "date_posted": 1771341404,
+        "url": "https://aexp.eightfold.ai/careers/job/39939202",
+        "locations": [
+            "London, UK",
+            "Brighton, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/American-Express",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "cb6479da-725c-4208-975d-bcf1283ce0ec",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1771341076,
+        "date_posted": 1771341076,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400049624",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "b6d11965-fce7-41a2-9cb8-1281e44927a9",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1771341084,
+        "date_posted": 1771341084,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400049827",
+        "locations": [
+            "United Kingdom"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "a53f913a-e33f-424a-abc5-8495e30a5c98",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1771341083,
+        "date_posted": 1771341083,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400049821",
+        "locations": [
+            "Southampton, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Nextech Systems",
+        "id": "7d4e3886-07ea-4da8-959b-f21961cd78cc",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1771341026,
+        "date_posted": 1771341026,
+        "url": "https://jobs.lever.co/nextech/f941fd47-8283-40f7-a5aa-a48b6446733c/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/NextechSystems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "6919e1e0-c505-4582-a59e-c9b922722de2",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1771341093,
+        "date_posted": 1771341093,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400049829",
+        "locations": [
+            "Brighton, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "5320c4ea-9341-48ac-9ce1-e7daad32c077",
+        "title": "Trading Assistant - Local",
+        "active": true,
+        "date_updated": 1771341088,
+        "date_posted": 1771341088,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048525",
+        "locations": [
+            "United Kingdom"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "4c119e43-b965-499f-837c-ee57a17bf253",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1771341089,
+        "date_posted": 1771341089,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400049820",
+        "locations": [
+            "Warwick, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "46b28a56-e5c1-42ff-ad3d-9bf107da5334",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1771341106,
+        "date_posted": 1771341106,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400049842",
+        "locations": [
+            "Leeds, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "39ee464e-4e55-42c3-8b19-7a9d2831e1a5",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1771341091,
+        "date_posted": 1771341091,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400049430",
+        "locations": [
+            "Welwyn Garden City, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "2fd05f08-8450-4013-ade3-e2a1e35ed2d1",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1771341080,
+        "date_posted": 1771341080,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400049885",
+        "locations": [
+            "Portsmouth, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "246d8d17-887b-43ad-91d2-5d5e7ed5d619",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1771341074,
+        "date_posted": 1771341074,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048038",
+        "locations": [
+            "Beaconsfield, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "0348e44d-a1ea-4c9b-9934-c24e324922fe",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1771341076,
+        "date_posted": 1771341076,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400049832",
+        "locations": [
+            "Brighton, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Visa",
+        "id": "fb7a2d62-2245-4074-9e61-cd213db863c4",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1771340751,
+        "date_posted": 1771340751,
+        "url": "https://jobs.smartrecruiters.com/Visa/744000109726621",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
