@@ -150777,7 +150777,7 @@
         "company_name": "Lucid Motors",
         "id": "db792074-9b95-41d8-aebd-685f450858b2",
         "title": "Hardware Technician - Service Operations Tooling",
-        "active": true,
+        "active": false,
         "date_updated": 1767741877,
         "date_posted": 1767741877,
         "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5009024007",
@@ -179975,7 +179975,7 @@
         "company_name": "Carvana",
         "id": "2d745317-fa1f-439d-8164-15f67400c02b",
         "title": "Product Manager",
-        "active": false,
+        "active": true,
         "date_updated": 1769556739,
         "date_posted": 1769556738,
         "url": "https://www.carvana.com/careers/apply?gh_jid=7543098",
@@ -211290,7 +211290,7 @@
         "company_name": "Graphcore",
         "id": "70ebf47f-a814-4cdb-88bb-41122f34c301",
         "title": "Graduate Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1771255419,
         "date_posted": 1771255419,
         "url": "https://job-boards.greenhouse.io/graphcore/jobs/8424331002",
@@ -212531,5 +212531,63 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "9f2f5fbf-8e45-491f-88fb-14d82453e5be",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1771324881,
+        "date_posted": 1771324881,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400049248",
+        "locations": [
+            "Warrington, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RELEX Solutions",
+        "id": "49f79fb8-6c35-4493-b3f0-b9186ad9d271",
+        "title": "Forward Deployed Engineer - Fresh",
+        "active": true,
+        "date_updated": 1771284957,
+        "date_posted": 1771284957,
+        "url": "https://www.relexsolutions.com/careers/jobs/?gh_jid=7632967003",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/RELEX-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "General Dynamics",
+        "id": "6456b61d-58b8-48a2-a133-70c20eb88d2c",
+        "title": "Entry Level Communication Systems Engineer",
+        "active": true,
+        "date_updated": 1771324335,
+        "date_posted": 1770678741,
+        "url": "https://careers-gdeb.icims.com/jobs/17884/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Groton, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
     }
 ]
