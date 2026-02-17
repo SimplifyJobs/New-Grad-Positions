@@ -176772,7 +176772,7 @@
         "company_name": "Sainsbury's",
         "id": "decb221f-882b-4540-80ee-fda170481d2f",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1769440842,
         "date_posted": 1769440842,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047119",
@@ -181659,7 +181659,7 @@
         "company_name": "Sainsbury's",
         "id": "e879b1da-d71b-4f49-b929-500b4268afb5",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1769641968,
         "date_posted": 1769641968,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047401",
@@ -211966,7 +211966,7 @@
         "company_name": "Sainsbury's",
         "id": "d559ab43-83a3-4a5f-b196-dad68e6be3f1",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1771283443,
         "date_posted": 1771283443,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400049770",
@@ -212198,7 +212198,7 @@
         "company_name": "Olsson",
         "id": "7a78226e-5a75-4a18-9730-5a03d4efe043",
         "title": "Document Controls Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1771284911,
         "date_posted": 1771284911,
         "url": "https://job-boards.greenhouse.io/olsson/jobs/5121644008",
@@ -212337,6 +212337,46 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Capco",
+        "id": "9b001040-8a4e-486b-94cc-8f8eeee4d577",
+        "title": "Capco Associate Talent Program",
+        "active": true,
+        "date_updated": 1771296400,
+        "date_posted": 1771296400,
+        "url": "https://job-boards.greenhouse.io/capco/jobs/7621240",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Capco",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "EquipmentShare",
+        "id": "c43480f1-8387-4261-8953-a08b84b3cdee",
+        "title": "Telematics Installer",
+        "active": true,
+        "date_updated": 1771296241,
+        "date_posted": 1771296241,
+        "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=7621307",
+        "locations": [
+            "Hobbs, NM"
+        ],
+        "company_url": "https://simplify.jobs/c/Equipment-Share",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Certificate"
         ]
     }
 ]
