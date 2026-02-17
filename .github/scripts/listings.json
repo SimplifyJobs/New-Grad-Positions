@@ -17526,7 +17526,7 @@
         "source": "Simplify",
         "category": "Software",
         "company_name": "mthree",
-        "id": "c69eca4d-3efe-46db-a9c2-5a84040d6c8b",
+        "id": "13614527-7efc-429b-ba53-e410fe62b4a0",
         "title": "Junior Software Developer - Java/Scala",
         "active": true,
         "date_updated": 1758755027,
@@ -92248,7 +92248,7 @@
         "company_name": "Visa",
         "id": "4c34bbce-42bc-4b9a-ba9d-ecfeb9db1820",
         "title": "Graduate Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1763470847,
         "date_posted": 1763470847,
         "url": "https://jobs.smartrecruiters.com/Visa/744000094151680",
@@ -168016,7 +168016,7 @@
         "company_name": "Amazon",
         "id": "64492f80-5b94-4f1e-ad6d-1bb4f45c3630",
         "title": "Engineering Operations Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1768892850,
         "date_posted": 1768892850,
         "url": "https://amazon.jobs/en/jobs/3153277/engineering-operations-technician",
@@ -211128,7 +211128,7 @@
         "company_name": "Visa",
         "id": "fe552fcb-9aa0-404f-8e76-af7b3b364978",
         "title": "Graduate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1771236330,
         "date_posted": 1771236330,
         "url": "https://jobs.smartrecruiters.com/Visa/744000109479245",
@@ -211908,7 +211908,7 @@
         "company_name": "JP Morgan Chase",
         "id": "6de4c58d-0ee5-4845-bc64-1d4d5857e7ac",
         "title": "Investment Product and Platform Associate - Associate - Investment Product and Platform",
-        "active": true,
+        "active": false,
         "date_updated": 1771283676,
         "date_posted": 1771283676,
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210707886",
@@ -212490,6 +212490,44 @@
             "Hermiston, OR"
         ],
         "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Live! Casino & Hotel Maryland",
+        "id": "f1c2eb15-9f53-4443-a709-8b45ad196e07",
+        "title": "Slot Technician 1",
+        "active": true,
+        "date_updated": 1771323258,
+        "date_posted": 1770419099,
+        "url": "https://mdcareers-livech.icims.com/jobs/11970/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Hanover, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Live-Casino-And-Hotel-Maryland",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Electronic Arts",
+        "id": "5d4cd151-8978-450d-b32b-65eb3b6e6dbd",
+        "title": "Software Engineer 1 Game Server Hosting",
+        "active": true,
+        "date_updated": 1771322265,
+        "date_posted": 1759470056,
+        "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-I-Game-Server-Hosting/211063",
+        "locations": [
+            "Kirkland, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Electronic-Arts",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
