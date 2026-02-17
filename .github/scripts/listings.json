@@ -83345,7 +83345,7 @@
         "company_name": "Goldman Sachs",
         "id": "fa4a7a66-795e-4c54-b2c4-1d4ddac7befc",
         "title": "2026 \u2013 London - FICC & Equities - Sales & Trading",
-        "active": true,
+        "active": false,
         "date_updated": 1761832330,
         "date_posted": 1752547162,
         "url": "https://higher.gs.com/roles/150701?type=students",
@@ -132148,7 +132148,7 @@
         "company_name": "John Deere",
         "id": "6b4eb11e-c626-46ad-9b50-4191ef8ceee9",
         "title": "Engineer \u2013 Motor Grader Module Structures - Product Engineering (CA)",
-        "active": true,
+        "active": false,
         "date_updated": 1766100058,
         "date_posted": 1766100058,
         "url": "https://johndeere.eightfold.ai/careers/job/137478210542",
@@ -185106,7 +185106,7 @@
         "company_name": "Tubi",
         "id": "e8cd17a3-1294-4d25-8923-f28dc7fcb710",
         "title": "Associate Machine Learning Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1769738673,
         "date_posted": 1769738673,
         "url": "https://job-boards.greenhouse.io/tubitv/jobs/7574648",
@@ -186145,7 +186145,7 @@
         "company_name": "Microchip Technology",
         "id": "7f00c052-c44a-4a44-abb2-5a1b02d3f3e1",
         "title": "Graduate Supply Chain Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1769815375,
         "date_posted": 1769815375,
         "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/United-Kingdom---Caldicot/Graduate-Supply-Chain-Data-Analyst_R473-26",
@@ -212645,5 +212645,27 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "dffcc1b5-152b-4bfe-a10f-edfeeeab936c",
+        "title": "Principal Engineer Software - San Diego CA",
+        "active": true,
+        "date_updated": 1771339193,
+        "date_posted": 1770344286,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Principal-Engineer-Software---User-Experience-Applications--San-Diego-CA-_R10221825",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
     }
 ]
