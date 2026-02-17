@@ -180541,7 +180541,7 @@
         "company_name": "Embry-Riddle Aeronautical University",
         "id": "cfe3c262-5c2f-410b-9099-bcaad21e6998",
         "title": "Assistant Professor",
-        "active": false,
+        "active": true,
         "date_updated": 1769584432,
         "date_posted": 1769584432,
         "url": "https://embryriddle.wd1.myworkdayjobs.com/External/job/Daytona-Beach-FL/Tenure-Track-Faculty-Position-with-a-focus-on-Big-Data-Analytics-and-Aviation-Safety-in-the-School-of-Graduate-Studies_R309967",
@@ -183130,7 +183130,7 @@
         "company_name": "Philips",
         "id": "4f2b020a-4a8a-4c9b-abda-a6552daaedea",
         "title": "Field Engineer Program - Field Service Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1769644950,
         "date_posted": 1769644950,
         "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/St-Louis-Missouri-United-States/Full-Time---Field-Engineer-Program--Field-Service-Engineer---St-Louis--Missouri--July-2026_573793",
@@ -212624,6 +212624,24 @@
             "Oxford, UK"
         ],
         "company_url": "https://simplify.jobs/c/Ocean-Optics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Crowdstrike",
+        "id": "0ae685f9-3f6f-4b8d-b52e-2eb72c7119cc",
+        "title": "Engineer 1 - Sensor - Ssp",
+        "active": true,
+        "date_updated": 1771336067,
+        "date_posted": 1771336067,
+        "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/Canada---Toronto/Engineer-I---Sensor--SSP--Hybrid-_R27318",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Crowdstrike",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
