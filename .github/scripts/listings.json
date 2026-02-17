@@ -28789,7 +28789,7 @@
         "company_name": "Graphcore",
         "id": "936e4f8d-c318-4fa2-a18d-da426777294d",
         "title": "2026 Graduate Software Engineer - AI/ML Test Systems",
-        "active": false,
+        "active": true,
         "date_updated": 1762820279,
         "date_posted": 1762434200,
         "url": "https://job-boards.greenhouse.io/graphcore/jobs/8245655002",
@@ -53715,7 +53715,7 @@
         "company_name": "Invisible Technologies",
         "id": "cf18fd63-0f07-49f6-8d31-8e9463ea0585",
         "title": "Japanese Speaker - AI Trainer",
-        "active": false,
+        "active": true,
         "date_updated": 1761894421,
         "date_posted": 1761723684,
         "url": "https://job-boards.eu.greenhouse.io/agency/jobs/4650952101",
@@ -118230,7 +118230,7 @@
         "company_name": "Invisible Technologies",
         "id": "0916478b-142e-4a25-861e-fec8f49eb69e",
         "title": "Japanese Translator - Freelance AI Trainer Project",
-        "active": false,
+        "active": true,
         "date_updated": 1761758141,
         "date_posted": 1761758141,
         "url": "https://job-boards.eu.greenhouse.io/agency/jobs/4701712101",
@@ -136441,7 +136441,7 @@
         "company_name": "Trend Micro",
         "id": "1fe49225-8552-4e11-946a-837c7e3347c9",
         "title": "Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1766532563,
         "date_posted": 1766532563,
         "url": "https://trendmicro.wd3.myworkdayjobs.com/External/job/Ottawa/Software-Developer_R0008846",
@@ -145835,7 +145835,7 @@
         "company_name": "DXC Technology",
         "id": "2f875912-0e72-4d1e-8b06-482801386a04",
         "title": "DXC Graduate Programme",
-        "active": false,
+        "active": true,
         "date_updated": 1764209934,
         "date_posted": 1764209934,
         "url": "https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/GBR---GLS---TEWKESBURY/DXC-Graduate-Programme-2026_51567299",
@@ -160441,7 +160441,7 @@
         "company_name": "The Hartford ",
         "id": "487ef189-e852-4127-8c0e-5d7d6b7bb91e",
         "title": "Consultant - Digital Transformation and Reporting",
-        "active": true,
+        "active": false,
         "date_updated": 1768346445,
         "date_posted": 1768346445,
         "url": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Chicago-IL/Consultant--Digital-Transformation-and-Reporting_R2623644",
@@ -184847,7 +184847,7 @@
         "company_name": "Allied Solutions",
         "id": "0be0ae43-4721-42ef-a1fc-3c799d3f93a5",
         "title": "Data Integration Analyst 1",
-        "active": false,
+        "active": true,
         "date_updated": 1769733704,
         "date_posted": 1769733704,
         "url": "https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/Carmel-IN/Data-Integration-Analyst-I_R-010535",
@@ -213043,6 +213043,204 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Grant Thornton",
+        "id": "fef17583-e08e-42bd-9dc6-64d53bb1f936",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1771343322,
+        "date_posted": 1771343322,
+        "url": "https://ukgrantt.wd3.myworkdayjobs.com/careersgrantthornton/job/London/Data-Analyst_R1035583",
+        "locations": [
+            "Leeds, UK",
+            "London, UK",
+            "Manchester, UK",
+            "Milton Keynes, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Grant-Thornton",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RELX",
+        "id": "8791aab5-7603-4970-ab1e-462b082cf2b7",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1771343203,
+        "date_posted": 1771343203,
+        "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Philadelphia-PA/Software-Engineer-I_R107467-1",
+        "locations": [
+            "Delaware",
+            "Jackson Township, NJ",
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/RELX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Howard Hughes Medical Institute (HHMI)",
+        "id": "ceab9fa0-bb5f-43fc-be62-a20532d22f76",
+        "title": "Software Engineer 1-Neural Data Processing - Moore Lab",
+        "active": true,
+        "date_updated": 1771342895,
+        "date_posted": 1771342895,
+        "url": "https://hhmi.wd1.myworkdayjobs.com/external/job/Stanford-University/Software-Engineer-I--Neural-Data-Processing--Moore-Lab_R-4132",
+        "locations": [
+            "Menlo Park, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Howard-Hughes-Medical-Institute",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Trustpilot",
+        "id": "999e7d26-f317-4433-ad79-ad1f7a076b30",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1771342898,
+        "date_posted": 1771342898,
+        "url": "https://business.trustpilot.com/jobs/7621938?gh_jid=7621938",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Trustpilot",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Trustpilot",
+        "id": "1d90b701-1ce4-469b-b038-ee1be430f0f1",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1771342899,
+        "date_posted": 1771342899,
+        "url": "https://business.trustpilot.com/jobs/7353456?gh_jid=7353456",
+        "locations": [
+            "Edinburgh, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Trustpilot",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Fidelity National Information Services",
+        "id": "72e06b78-4076-4450-a7e2-8595b758e7d5",
+        "title": "Product Manager",
+        "active": true,
+        "date_updated": 1771342673,
+        "date_posted": 1771342673,
+        "url": "https://fis.wd5.myworkdayjobs.com/searchjobs/job/GBR-LNDN-25-Walbrook-FL56/Product-Manager---Commercial_JR0304593-1",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Fidelity-National-Information-Services",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Expedia Group",
+        "id": "4bfb3393-ba45-4e93-adbd-db51f5eed16a",
+        "title": "Data Scientist 1 - Vrbo Brand Analytics",
+        "active": true,
+        "date_updated": 1771342508,
+        "date_posted": 1771342508,
+        "url": "https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Data-Scientist-I--Vrbo-Brand-Analytics_R-101883-2",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Expedia-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Expedia Group",
+        "id": "290ffc94-28ff-44dd-a074-b2f5b7adb3f5",
+        "title": "Software Development Engineer 1",
+        "active": true,
+        "date_updated": 1771342507,
+        "date_posted": 1771342507,
+        "url": "https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Software-Development-Engineer-I_R-102289-1",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Expedia-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Capco",
+        "id": "d2c7ab55-211c-45fe-a1ce-cb7bf5d9a96d",
+        "title": "Capco Associate Talent Program - Houston Jan 2027",
+        "active": true,
+        "date_updated": 1771342486,
+        "date_posted": 1771342484,
+        "url": "https://job-boards.greenhouse.io/capco/jobs/7621251",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Capco",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Elsevier",
+        "id": "35d28da5-5914-4e95-8a70-684af616d026",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1771342359,
+        "date_posted": 1771342359,
+        "url": "https://relx.wd3.myworkdayjobs.com/ElsevierJobs/job/Philadelphia-PA/Software-Engineer-I_R107467",
+        "locations": [
+            "Delaware",
+            "Jackson Township, NJ",
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Elsevier",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
