@@ -25402,7 +25402,7 @@
         "company_name": "Solace Health",
         "id": "0f7a5963-9d0a-48b7-98ba-cf18160aa4b2",
         "title": "Associate Product Manager \u2013 College Grad 2026",
-        "active": true,
+        "active": false,
         "date_updated": 1761823292,
         "date_posted": 1761823292,
         "url": "https://jobs.ashbyhq.com/solace/4b746b99-e638-4f8b-b450-4f1ebed485b4/application",
@@ -146151,7 +146151,7 @@
         "company_name": "Walmart",
         "id": "6b51dbc4-66f9-4e59-bf6b-d1956835f76c",
         "title": "Software Engineer 3",
-        "active": true,
+        "active": false,
         "date_updated": 1767397721,
         "date_posted": 1767397721,
         "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Sunnyvale-CA/Software-Engineer-III_R-2347075",
@@ -175284,7 +175284,7 @@
         "company_name": "EquipmentShare",
         "id": "86c09d3f-d856-4f0a-bf4c-322822984878",
         "title": "Telematics Installer",
-        "active": true,
+        "active": false,
         "date_updated": 1769211290,
         "date_posted": 1769211290,
         "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=7558815",
@@ -212022,7 +212022,7 @@
         "company_name": "Sainsbury's",
         "id": "624c4119-061c-4160-8a7d-a35ff67c8039",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1771283447,
         "date_posted": 1771283447,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400049786",
@@ -212377,6 +212377,29 @@
         "sponsorship": "Other",
         "degrees": [
             "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "The Boeing Company",
+        "id": "05153f21-e2d5-45b1-8438-2d9f5a91f9ae",
+        "title": "Structures Test & Evaluation Instrumentation Engineer - Entry-Level or Associate",
+        "active": true,
+        "date_updated": 1771297811,
+        "date_posted": 1771297811,
+        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Structures-Test---Evaluation-Instrumentation-Engineer--Entry-Level-or-Associate-_JR2026495208-1",
+        "locations": [
+            "Hazelwood, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "PhD"
         ]
     }
 ]
