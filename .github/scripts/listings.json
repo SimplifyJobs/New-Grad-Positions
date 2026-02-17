@@ -173147,7 +173147,7 @@
         "company_name": "RTX",
         "id": "bdbfda44-e490-4230-945b-3ec790a90a6a",
         "title": "2026 Fulltime Raytheon Software Engineer 1 - Test Equipment",
-        "active": true,
+        "active": false,
         "date_updated": 1769123799,
         "date_posted": 1769123799,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/XMLNAME-2026-Fulltime-Raytheon-Software-Engineer-I---Test-Equipment---Onsite_01790414",
@@ -191299,7 +191299,7 @@
         "company_name": "RTX",
         "id": "0b2f525d-d1a9-4045-a23b-143254ecabd9",
         "title": "Software Engineer 1 - Software Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1770133173,
         "date_posted": 1770133173,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/XMLNAME-2026-Full-time---Software-Engineer-I---Onsite--IN-_01816726",
@@ -212401,5 +212401,79 @@
             "MBA",
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "924a3f02-0e67-40de-977a-bc76c34134e0",
+        "title": "2026 Full-Time - Onsite - MA",
+        "active": true,
+        "date_updated": 1771313087,
+        "date_posted": 1771313087,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/XMLNAME-2026-Full-Time---Missile-Defense-Sensors-Software-Engineer-I---Onsite--MA-_01823975",
+        "locations": [
+            "Tewksbury, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northrop Grumman",
+        "id": "1fe357ba-97e2-4687-a8ca-20c8fd8648ee",
+        "title": "U105 Sensors & Systems Technician - Electronics Technician",
+        "active": true,
+        "date_updated": 1771312642,
+        "date_posted": 1771312642,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/U105-Sensors---Systems-Technician--Electronics-Technician-_R10221728-1",
+        "locations": [
+            "Halethorpe, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "UiPath",
+        "id": "d016cbd9-af08-4e79-9213-31fe97c8abf8",
+        "title": "Data Scientist 1",
+        "active": true,
+        "date_updated": 1771312251,
+        "date_posted": 1771312251,
+        "url": "https://jobs.ashbyhq.com/uipath/10473afc-6e1e-4aa3-a9e5-a434a952fcc4/application",
+        "locations": [
+            "Manchester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/UiPath",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "f7d1b55a-9c92-4d3e-9ede-ab7bb6fd80a4",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1771312160,
+        "date_posted": 1771312160,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400049790",
+        "locations": [
+            "Oxford, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
