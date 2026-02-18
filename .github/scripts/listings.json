@@ -122090,9 +122090,9 @@
         "degrees": []
     },
     {
-        "date_updated": 1765391477,
+        "date_updated": 1771427786,
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210691366",
         "company_name": "JP Morgan Chase",
@@ -126601,9 +126601,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1765784053,
+        "date_updated": 1771427786,
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://jobs.lever.co/inductiveautomation/5cdc7a76-69f7-4979-8971-72e5e06015a0",
         "company_name": "Inductive Automation",
