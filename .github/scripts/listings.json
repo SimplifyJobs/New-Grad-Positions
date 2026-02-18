@@ -54965,7 +54965,7 @@
         "company_name": "Welocalize",
         "id": "e90ee66f-5e1b-4f15-a7c8-7ffc8536bf9d",
         "title": "Scout Search Quality Rater - English - United States",
-        "active": false,
+        "active": true,
         "date_updated": 1761544134,
         "date_posted": 1761544134,
         "url": "https://jobs.lever.co/welocalize/90c51db9-ff3f-43c7-8ead-d607582b230f/apply",
@@ -189704,7 +189704,7 @@
         "company_name": "Wyetech",
         "id": "d0ec33f7-afe4-43af-8668-041763e7a644",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1770073573,
         "date_posted": 1770073573,
         "url": "https://jobs.lever.co/wyetechllc/6b2178ca-8913-4ae8-ba23-9a20a871cd7b/apply",
@@ -191084,7 +191084,7 @@
         "company_name": "Norfolk Southern",
         "id": "ebeed74b-f509-49ae-8495-5a07dd864804",
         "title": "2026 Communications Electronic Technician - Bellevue - OH",
-        "active": true,
+        "active": false,
         "date_updated": 1770131686,
         "date_posted": 1770131686,
         "url": "https://jobs.nscorp.com/job/Bellevue-2026-Communications-Electronic-Technician-(Bellevue,-OH)-OH-44811/1361473000/?ats=successfactors",
@@ -197381,7 +197381,7 @@
         "company_name": "EOS IT Solutions",
         "id": "3d0043f4-4f63-4e40-84c1-534d94e09938",
         "title": "CST-AV Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1770344319,
         "date_posted": 1770344319,
         "url": "https://eosits.com/company/careers/?gh_jid=8403118002",
@@ -214406,5 +214406,25 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Goldman Sachs",
+        "id": "7b5f71f4-fea4-4689-b8e6-cbf14826ca1f",
+        "title": "Software Engineer - Multiple Teams",
+        "active": true,
+        "date_updated": 1771407017,
+        "date_posted": 1767655461,
+        "url": "https://higher.gs.com/roles/158741",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Goldman-Sachs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
