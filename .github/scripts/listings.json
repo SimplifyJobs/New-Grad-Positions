@@ -206348,7 +206348,7 @@
         "company_name": "Sainsbury's",
         "id": "d0566368-18ed-4ef2-9151-c6deddfc97ce",
         "title": "Trading Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1770892076,
         "date_posted": 1770892076,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048647",
@@ -214157,6 +214157,65 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Pure Storage",
+        "id": "dc97139d-fa2b-4aa2-8621-a1924dcbdb75",
+        "title": "Graduate Software Engineer",
+        "active": true,
+        "date_updated": 1771380909,
+        "date_posted": 1771380909,
+        "url": "https://boards.greenhouse.io/purestorage/jobs/7258968",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pure-Storage",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Vertiv",
+        "id": "fea147d1-028d-4089-b9a9-ee4ddfa619b4",
+        "title": "Associate Product Engineer - Energy Storage",
+        "active": true,
+        "date_updated": 1771380752,
+        "date_posted": 1771380752,
+        "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20267234",
+        "locations": [
+            "Ohio"
+        ],
+        "company_url": "https://simplify.jobs/c/Vertiv",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Benchling",
+        "id": "a780c82f-c69f-40f2-a0bc-8bbd280d5c7e",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1771380823,
+        "date_posted": 1771380823,
+        "url": "https://jobs.ashbyhq.com/benchling/b3c9b312-6e2b-4dbc-9b15-0b0310d75a7f/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Benchling",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
