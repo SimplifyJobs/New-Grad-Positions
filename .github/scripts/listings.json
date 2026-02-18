@@ -176664,7 +176664,7 @@
         "company_name": "ONEOK",
         "id": "b6af4f99-1347-46f4-ab42-9da66668d602",
         "title": "Integrity Analyst 1",
-        "active": true,
+        "active": false,
         "date_updated": 1769441062,
         "date_posted": 1769441062,
         "url": "https://oneok.wd1.myworkdayjobs.com/ONEOK/job/Tulsa-OK/Integrity-Analyst-I_R7456-1",
@@ -191657,7 +191657,7 @@
         "company_name": "Sainsbury's",
         "id": "328a93fc-68ce-453a-9aa4-ee79c4572fdc",
         "title": "Trading Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1770160438,
         "date_posted": 1770160438,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048124",
@@ -214592,5 +214592,292 @@
             "Master's",
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Rockstar Games",
+        "id": "4fd20f6f-0113-41b2-9c46-a51498be47d6",
+        "title": "Associate Game Systems Engineer",
+        "active": true,
+        "date_updated": 1771428093,
+        "date_posted": 1771428093,
+        "url": "https://job-boards.greenhouse.io/rockstargames/jobs/7635060003",
+        "locations": [
+            "Dundee, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Rockstar-Games",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "JP Morgan Chase",
+        "id": "e94d72ce-f87f-4dc8-bc60-f454dd9d26e8",
+        "title": "Applied AI ML Associate",
+        "active": true,
+        "date_updated": 1771427737,
+        "date_posted": 1771427737,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210713238",
+        "locations": [
+            "Christchurch, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Honeywell",
+        "id": "65b6a15a-a5a3-4e40-907d-7022584646f9",
+        "title": "Hardware Engineer 1",
+        "active": true,
+        "date_updated": 1771427708,
+        "date_posted": 1771427708,
+        "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/137946",
+        "locations": [
+            "Clearwater, FL",
+            "Minneapolis, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Honeywell",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Adept Solutions",
+        "id": "f70d684e-4805-42cc-97e0-feadf2d6bd55",
+        "title": "Python Django Developer",
+        "active": true,
+        "date_updated": 1771427547,
+        "date_posted": 1771427547,
+        "url": "https://jobs.smartrecruiters.com/AdeptSolutionsInc/90141946",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Adept-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Confluent",
+        "id": "b4d04ff1-08c7-4359-987a-811a54453049",
+        "title": "Data Engineer",
+        "active": true,
+        "date_updated": 1771427546,
+        "date_posted": 1771427546,
+        "url": "https://jobs.ashbyhq.com/confluent/70cc517e-1b5f-45cc-b3fc-2d202c0c00f7/application",
+        "locations": [
+            "California"
+        ],
+        "company_url": "https://simplify.jobs/c/Confluent",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Google",
+        "id": "c0db01c5-0252-4153-a97d-0efb2e481aee",
+        "title": "Product Manager 1 - Youtube Youth Responsibility",
+        "active": true,
+        "date_updated": 1771427414,
+        "date_posted": 1771427414,
+        "url": "https://www.google.com/about/careers/applications/jobs/results/128025623674135238",
+        "locations": [
+            "San Bruno, CA",
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Google",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "b7791ffe-8ebc-416c-aed8-a736c0002401",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1771427357,
+        "date_posted": 1771427357,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400049753",
+        "locations": [
+            "Stoke-on-Trent, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AO Swag",
+        "id": "9d57fa73-9ac1-43ce-ab33-bdd267f15ebe",
+        "title": "C# .Net Entry Level Web Developer Less Than 5 Years\u2019 experience",
+        "active": true,
+        "date_updated": 1771427352,
+        "date_posted": 1771427352,
+        "url": "https://jobs.smartrecruiters.com/Advanced-Online/115744534",
+        "locations": [
+            "Coppell, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/AO-Swag",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "8cfe7ed5-ea13-495b-a94c-49ae85c69195",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1771427355,
+        "date_posted": 1771427355,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050063",
+        "locations": [
+            "Stoke-on-Trent, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "381a5610-1f25-4eda-b0e0-6cd0e1388f87",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1771427349,
+        "date_posted": 1771427349,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050058",
+        "locations": [
+            "Molesworth, Huntingdon, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "a32664f1-d084-445d-8447-6c9963063dbd",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1771427336,
+        "date_posted": 1771427336,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050078",
+        "locations": [
+            "United Kingdom"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "9cbaa821-091f-4ceb-ab8e-6017606202c9",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1771427331,
+        "date_posted": 1771427331,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050061",
+        "locations": [
+            "Stoke-on-Trent, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "82a2968f-4ad4-40e9-be19-c8c9deb110df",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1771427335,
+        "date_posted": 1771427335,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050069",
+        "locations": [
+            "Brighton, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "6a3a3331-e32c-49c7-aa85-4c4507793daf",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1771427336,
+        "date_posted": 1771427336,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050054",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "5e8377a5-065b-4c1e-b9c6-eec727c57b48",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1771427337,
+        "date_posted": 1771427337,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050070",
+        "locations": [
+            "Stoke-on-Trent, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
