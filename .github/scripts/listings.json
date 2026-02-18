@@ -1,24 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Capital Rx",
-        "id": "ff409e69-5566-41e6-9960-7bc4c5720dfc",
-        "title": "Data Engineer I",
-        "active": false,
-        "date_updated": 1755269232,
-        "date_posted": 1750670041,
-        "url": "https://job-boards.greenhouse.io/capitalrx/jobs/4750004008",
-        "locations": [
-            "New York, NY",
-            "Denver, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Capital-Rx",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Sentry",
         "id": "a15680e4-5ffc-4ada-a0dd-820582ff0967",
@@ -84736,24 +84718,6 @@
             "Raleigh, NC"
         ],
         "company_url": "https://simplify.jobs/c/Celonis",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Nexstar",
-        "id": "83671161-027b-48d0-b9b7-c65e4a77d02b",
-        "title": "Master Control Operator",
-        "active": false,
-        "date_updated": 1763120598,
-        "date_posted": 1750670287,
-        "url": "https://nexstar.wd5.myworkdayjobs.com/nexstar/job/MA-Chicopee/Master-Control-Operator--I_REQ-25534",
-        "locations": [
-            "Holyoke, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Nexstar",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -212886,7 +212850,7 @@
         "company_name": "Sainsbury's",
         "id": "6919e1e0-c505-4582-a59e-c9b922722de2",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1771341093,
         "date_posted": 1771341093,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400049829",
@@ -213505,7 +213469,7 @@
         "company_name": "Sainsbury's",
         "id": "9cfaf599-a0dc-4d82-b442-5a4dcef92e8d",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1771369871,
         "date_posted": 1771369871,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400049915",
