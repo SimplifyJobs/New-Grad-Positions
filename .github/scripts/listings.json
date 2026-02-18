@@ -149931,7 +149931,7 @@
         "company_name": "Zebra Technologies",
         "id": "3347813c-fe68-41e2-85ba-d02f8aa932eb",
         "title": "Repair Services Associate - Manufacturing",
-        "active": false,
+        "active": true,
         "date_updated": 1767716474,
         "date_posted": 1767716474,
         "url": "https://zebra.eightfold.ai/careers/job/343636718610",
@@ -187204,7 +187204,7 @@
         "company_name": "TRIMEDX",
         "id": "d35b26ee-cef0-4824-8019-c3a62cd193a5",
         "title": "Sterilization Repair Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1769815697,
         "date_posted": 1769815697,
         "url": "https://trimedx.wd1.myworkdayjobs.com/TMX/job/Novi-MI/Sterilization-Repair-Technician_R13332",
@@ -192021,7 +192021,7 @@
         "company_name": "RTX",
         "id": "eefc03b7-7d66-4140-8923-87f12cde8974",
         "title": "Software Engineer 1 - Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1770162295,
         "date_posted": 1770162295,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/XMLNAME-2026-Full-time---Software-Engineer-I---Onsite--TX-_01821529",
@@ -212793,7 +212793,7 @@
         "company_name": "American Express",
         "id": "288ae90d-ec78-40d4-acdb-7aacab761204",
         "title": "Campus \u2013 Full Time - Associate Digital Product Management - 2026','UK','London",
-        "active": false,
+        "active": true,
         "date_updated": 1771341404,
         "date_posted": 1771341404,
         "url": "https://aexp.eightfold.ai/careers/job/39939202",
@@ -214277,6 +214277,148 @@
         "sponsorship": "Other",
         "degrees": [
             "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "3S Business Corporation",
+        "id": "af9b003f-eabf-4313-a486-425b39e293ca",
+        "title": "Java Training - Sales force - Cognos",
+        "active": true,
+        "date_updated": 1771399114,
+        "date_posted": 1771399114,
+        "url": "https://jobs.smartrecruiters.com/3SBusinessCorporationInc1/83254832",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/3S-Business-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Robert Bosch Venture Capital",
+        "id": "ea91d281-d84f-4516-98b4-05f799d2d28e",
+        "title": "Rotational Development Program - Software Engineer - Power Solutions",
+        "active": true,
+        "date_updated": 1771398746,
+        "date_posted": 1771398746,
+        "url": "https://jobs.smartrecruiters.com/BoschGroup/744000109865165",
+        "locations": [
+            "Southfield, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Bosch",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "3S Business Corporation",
+        "id": "afae6afa-4998-4e60-b32f-f483d2dabf83",
+        "title": "Excellent Training and Placement for the candidates who are graduating in may",
+        "active": true,
+        "date_updated": 1771398461,
+        "date_posted": 1771398461,
+        "url": "https://jobs.smartrecruiters.com/3SBusinessCorporationInc1/81218151",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/3S-Business-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "3S Business Corporation",
+        "id": "74855214-101f-46cb-bb86-5f3631c8ae4e",
+        "title": "Graduate Training and Placement Program",
+        "active": true,
+        "date_updated": 1771398457,
+        "date_posted": 1771398457,
+        "url": "https://jobs.smartrecruiters.com/3SBusinessCorporationInc1/81265100",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/3S-Business-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "4DS Corp",
+        "id": "18106f4a-ff11-4a3e-b09d-a635c6ba50c3",
+        "title": "Product Research and Development Analyst - Mandarin",
+        "active": true,
+        "date_updated": 1771398486,
+        "date_posted": 1771398486,
+        "url": "https://jobs.smartrecruiters.com/4DSCorp/743999869192441",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/4DS-Corp",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "LMI ",
+        "id": "f8f7a87e-5795-4efd-a8c9-4c849f1cbe0e",
+        "title": "Junior Data Scientist",
+        "active": true,
+        "date_updated": 1771398295,
+        "date_posted": 1771398295,
+        "url": "https://careers-lmi.icims.com/jobs/13654/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Colorado Springs, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/LMI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Scale AI",
+        "id": "8e0efa3d-62d2-4638-93d6-b2280c841b96",
+        "title": "Medical Fellow - Human Frontier Collective",
+        "active": true,
+        "date_updated": 1771399153,
+        "date_posted": 1760761409,
+        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4612329005",
+        "locations": [
+            "Remote in UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Scale-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "MD"
         ]
     }
 ]
