@@ -197285,7 +197285,7 @@
         "company_name": "Walmart",
         "id": "f3f4b1d7-023d-4908-981d-46ad84987c3e",
         "title": "Staff Product Manager",
-        "active": true,
+        "active": false,
         "date_updated": 1770336287,
         "date_posted": 1770336287,
         "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Sunnyvale-CA/Staff-Product-Manager_R-2398042-1",
@@ -211099,7 +211099,7 @@
         "company_name": "Johnson & Johnson",
         "id": "da65d877-654e-4f8e-a612-3b072d5fd05d",
         "title": "Postdoctoral Researcher Omics & Multimodal Data Integration",
-        "active": false,
+        "active": true,
         "date_updated": 1771248323,
         "date_posted": 1771248323,
         "url": "https://jj.wd5.myworkdayjobs.com/NonCompetetiveHiring/job/High-Wycombe-Buckinghamshire-United-Kingdom/Postdoctoral-Researcher-Omics---Multimodal-Data-Integration--R-D-Neuroscience-Data-Science---Digital-Health_R-056680-2",
@@ -211878,7 +211878,7 @@
         "company_name": "Sainsbury's",
         "id": "ed95e4d1-6d90-47bc-9939-c183de8c992c",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1771283436,
         "date_posted": 1771283436,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400049722",
@@ -213376,7 +213376,7 @@
         "company_name": "Sainsbury's",
         "id": "d3994217-2fff-4c9c-848a-edfd06816711",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1771369874,
         "date_posted": 1771369874,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400049974",
@@ -214481,6 +214481,27 @@
             "San Bruno, CA"
         ],
         "company_url": "https://simplify.jobs/c/Google",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Talkdesk",
+        "id": "93db0f5f-7083-430b-a2cd-707041399319",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1771413643,
+        "date_posted": 1771413643,
+        "url": "https://careers.talkdesk.com/jobs?id=7617427&gh_jid=7617427",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Talkdesk",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
