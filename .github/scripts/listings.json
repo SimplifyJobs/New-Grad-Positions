@@ -190992,7 +190992,7 @@
         "company_name": "The Boeing Company",
         "id": "7848bf7b-3394-4d37-ab38-8466cb514464",
         "title": "Boeing Pre-Employment Training - Assembly Electrical or System Mechanics",
-        "active": true,
+        "active": false,
         "date_updated": 1769211738,
         "date_posted": 1769211738,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/Boeing-Pre-Employment-Training--BPET--Students---Assembly-Electrical-or-System-Mechanics_JR2026493259-2",
@@ -214507,6 +214507,46 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Graco",
+        "id": "67c1ccc5-d399-4934-9b61-7737b4cb3ce8",
+        "title": "Product Manager",
+        "active": true,
+        "date_updated": 1771414697,
+        "date_posted": 1770017145,
+        "url": "https://graco.wd501.myworkdayjobs.com/Graco_Careers/job/Rogers-Minnesota-USA-David-Koch-Center/Product-Manager_R0021924",
+        "locations": [
+            "Albertville, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Graco",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Miami",
+        "id": "62613347-1818-47ee-a45b-5af6584ffa54",
+        "title": "CAS-Sociology-Artificial Intelligence at the rank of Assistant Professor - Associate Professor",
+        "active": true,
+        "date_updated": 1771415771,
+        "date_posted": 1769866839,
+        "url": "https://umiami.wd1.myworkdayjobs.com/UMFaculty/job/Coral-Gables-FL/CAS-Sociology-Artificial-Intelligence-at-the-rank-of-Assistant-Professor---Associate-Professor_R100091735",
+        "locations": [
+            "Coral Gables, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Miami",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
         ]
     }
 ]
