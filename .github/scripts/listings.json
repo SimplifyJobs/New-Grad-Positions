@@ -164615,7 +164615,7 @@
         "company_name": "Bloomreach",
         "id": "e10f5826-d599-4838-ac33-157b3c36527f",
         "title": "Product Engagement Manager - Affinity",
-        "active": true,
+        "active": false,
         "date_updated": 1768235608,
         "date_posted": 1768235608,
         "url": "https://job-boards.greenhouse.io/bloomreach/jobs/7529828",
@@ -184155,7 +184155,7 @@
         "company_name": "Wells Fargo",
         "id": "2828a338-7d68-4008-8984-a482bb96eff6",
         "title": "Engineering Associate - Middleware Operations",
-        "active": false,
+        "active": true,
         "date_updated": 1769730921,
         "date_posted": 1769730921,
         "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/MINNEAPOLIS-MN/Engineering-Associate---Middleware-Operations_R-518252",
@@ -214876,6 +214876,145 @@
             "Stoke-on-Trent, UK"
         ],
         "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "9a8519ca-d347-40af-acfe-c11d8a4cd5d6",
+        "title": "Software Engineer: Automation - Level 2 or 3 - Chandler",
+        "active": true,
+        "date_updated": 1771429944,
+        "date_posted": 1771429944,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/Software-Engineer--Automation---Level-2-or-3--Chandler-_R10223203",
+        "locations": [
+            "Chandler, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ING",
+        "id": "2b69ad54-7aaf-4beb-a154-559e6b6bc1ef",
+        "title": "Fixed Income Data Analyst",
+        "active": true,
+        "date_updated": 1771429791,
+        "date_posted": 1771429791,
+        "url": "https://ing.wd3.myworkdayjobs.com/icsgblcor/job/London/Fixed-Income-Data-Analyst_REQ-10109274-1",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/ING",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "CAE",
+        "id": "e0afa614-434a-468f-a397-17bb6c040fda",
+        "title": "Simulator Technician",
+        "active": true,
+        "date_updated": 1771429513,
+        "date_posted": 1771429513,
+        "url": "https://cae.wd3.myworkdayjobs.com/career/job/Phoenix/Simulator-Technician-I--II-or-III_118706",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/0584b8e0-c24c-4b9b-9e06-b2484d8779bf",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "OCLC",
+        "id": "298b243e-7503-4352-9398-517157e0aa4c",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1771428814,
+        "date_posted": 1771428814,
+        "url": "https://oclc.wd1.myworkdayjobs.com/en-US/OCLC_Careers/job/Dublin-OH--Hybrid/Associate-Software-Engineer_R0003772",
+        "locations": [
+            "Dublin, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/350afefb-30b2-4d69-899d-19a3d7dd96f5",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Teledyne",
+        "id": "dbe5d4c0-3d4a-4c6a-bcfe-b87cb0864915",
+        "title": "Assembly & Test Operator",
+        "active": true,
+        "date_updated": 1771428615,
+        "date_posted": 1771428615,
+        "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/UK---Lincoln/Assembly---Test-Operator_REQ33309",
+        "locations": [
+            "East Midlands, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/199b3c43-379a-408c-a6a8-980e79183038",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "RTX",
+        "id": "9965998e-4886-4f77-a905-90199aa2ba75",
+        "title": "Semiconductor Foundry Engineer 1",
+        "active": true,
+        "date_updated": 1771428608,
+        "date_posted": 1771428608,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-ANDOVER-AR1--358-Lowell-St--AR1-DUKES-BLDG/XMLNAME-2026-Fulltime--Raytheon--Semiconductor-Foundry-Engineer-I--Onsite-_01824697",
+        "locations": [
+            "Andover, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Howden",
+        "id": "91c89fb2-ca79-4811-8a1a-9645dc6fb200",
+        "title": "Data Administrator",
+        "active": true,
+        "date_updated": 1771428387,
+        "date_posted": 1771428387,
+        "url": "https://hyperiongrp.wd3.myworkdayjobs.com/Hyperion_External/job/Perth---Caledonian-House/Data-Administrator_R0016160-1",
+        "locations": [
+            "Dundee, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Howden",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
