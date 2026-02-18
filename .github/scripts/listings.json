@@ -1,39 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Sentry",
-        "id": "a15680e4-5ffc-4ada-a0dd-820582ff0967",
-        "title": "Software Engineer \u2013 New Grad",
-        "active": false,
-        "date_updated": 1755269781,
-        "date_posted": 1750675326,
-        "url": "https://jobs.ashbyhq.com/sentry/90fb5dd4-410d-4672-9f40-3f11ea01c75d/application",
-        "locations": [
-            "San Francisco, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Sentry",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Sentry",
-        "id": "ea4d0b2c-a5b8-412a-a95f-1f894697505a",
-        "title": "Software Engineer \u2013 New Grad",
-        "active": false,
-        "date_updated": 1750675099,
-        "date_posted": 1750675099,
-        "url": "https://jobs.ashbyhq.com/sentry/06d7ba85-17aa-4c02-83b9-e278acd88f45/application",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Sentry",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
         "date_updated": 1752136233,
         "url": "https://www.citadel.com/careers/details/quantitative-research-analyst-2025-university-graduate-us/",
         "company_name": "Citadel Securities",
@@ -116932,7 +116898,7 @@
         "company_name": "The Boeing Company",
         "id": "775bb551-6884-453a-af1b-9efc06585963",
         "title": "Linux System Administrator",
-        "active": true,
+        "active": false,
         "date_updated": 1764978180,
         "date_posted": 1764978180,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seal-Beach-CA/Linux-System-Administrator_JR2025487641",
@@ -149373,7 +149339,7 @@
         "company_name": "Alpha FMC",
         "id": "588611aa-5189-4fff-9570-48209f34c71d",
         "title": "Junior Product Manager - Aiviq",
-        "active": true,
+        "active": false,
         "date_updated": 1767692940,
         "date_posted": 1765583557,
         "url": "https://job-boards.greenhouse.io/alphafmcroles/jobs/8331745002",
@@ -214445,6 +214411,81 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "db242e4e-b693-43f2-bb68-ddf6844b2561",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1771411236,
+        "date_posted": 1771411236,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050012",
+        "locations": [
+            "Beaconsfield, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "caa222f0-f34c-49f8-b43b-04ca96e375ac",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1771411259,
+        "date_posted": 1771411259,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050015",
+        "locations": [
+            "Bury Saint Edmunds, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "2363936b-750a-4f4c-b508-b51237368829",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1771411237,
+        "date_posted": 1771411237,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050011",
+        "locations": [
+            "Beaconsfield, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Google",
+        "id": "2215bd53-d37f-4a6e-9aca-327738b65d9c",
+        "title": "Product Manager 1",
+        "active": true,
+        "date_updated": 1771411219,
+        "date_posted": 1771411219,
+        "url": "https://www.google.com/about/careers/applications/jobs/results/89956133074019014",
+        "locations": [
+            "San Bruno, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Google",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
