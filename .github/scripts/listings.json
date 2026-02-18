@@ -18893,7 +18893,7 @@
         "company_name": "RTX",
         "id": "4872a2dd-d3d3-4c32-8149-f247f4721d1c",
         "title": "Software Engineer 1 - Radar Product Line Team",
-        "active": false,
+        "active": true,
         "date_updated": 1759295272,
         "date_posted": 1759295272,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA801-Marlborough-MA-1001-Boston-Post-Road-Building-2-Marlborough-MA-01752-USA/XMLNAME-2026-Fulltime---Raytheon-Software-Engineer-I--On-site-_01797122",
@@ -41173,7 +41173,7 @@
         "company_name": "Bridgewater Associates",
         "id": "5a740424-ba2b-476c-a351-e95d4819756a",
         "title": "Trading Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1762470454,
         "date_posted": 1762470454,
         "url": "https://job-boards.greenhouse.io/bridgewater89/jobs/7985213002",
@@ -116365,7 +116365,7 @@
         "company_name": "Motional",
         "id": "c5474413-37ea-428a-ac40-22ad3f8e513e",
         "title": "Mapping Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1764921044,
         "date_posted": 1764921044,
         "url": "https://motional.com/open-positions/?gh_jid=7546537003#/7546537003",
@@ -119500,7 +119500,7 @@
         "company_name": "Freeform",
         "id": "b9b45c23-1024-4631-b390-9c8aeb92814f",
         "title": "Software Engineer \u2013 New Grad Summer 2026",
-        "active": false,
+        "active": true,
         "date_updated": 1765277006,
         "date_posted": 1765277006,
         "url": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7551045003",
@@ -124400,7 +124400,7 @@
         "company_name": "QTS",
         "id": "9e1a1bca-8143-488c-9702-820780f1f2c4",
         "title": "Investment Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1765495847,
         "date_posted": 1765495847,
         "url": "https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/Duluth-GA/Investment-Analyst_R2025-1384-1",
@@ -147139,7 +147139,7 @@
         "company_name": "RTX",
         "id": "4836ddbf-d856-48ac-803a-01bb0274690a",
         "title": "Full-time Software Engineer - Software Engineer II",
-        "active": false,
+        "active": true,
         "date_updated": 1767629836,
         "date_posted": 1767629836,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA801-Marlborough-MA-1001-Boston-Post-Road-Building-2-Marlborough-MA-01752-USA/XMLNAME-2026-Fulltime---Raytheon-Software-Engineer-II----On-site-_01797124",
@@ -191336,7 +191336,7 @@
         "company_name": "TKO Group Holdings, Inc",
         "id": "e6682453-4806-4e1b-b647-806d2e114219",
         "title": "Digital Products Coordinator",
-        "active": true,
+        "active": false,
         "date_updated": 1770161270,
         "date_posted": 1770161270,
         "url": "https://wwecorp.wd5.myworkdayjobs.com/tko/job/Stamford-CT--WWE-Headquarters/Digital-Products-Coordinator_R0006960-1",
@@ -192298,7 +192298,7 @@
         "company_name": "WWE",
         "id": "f924b790-848f-4192-8280-fc206eece9c7",
         "title": "Digital Products Coordinator",
-        "active": true,
+        "active": false,
         "date_updated": 1770161469,
         "date_posted": 1770161469,
         "url": "https://wwecorp.wd5.myworkdayjobs.com/wwecorp/job/Stamford-CT--WWE-Headquarters/Digital-Products-Coordinator_R0006960",
@@ -199937,7 +199937,7 @@
         "company_name": "Slack",
         "id": "e69e08c5-0501-439b-b080-d37fceb75cae",
         "title": "Software Engineer 1 - Product Backend",
-        "active": false,
+        "active": true,
         "date_updated": 1770462047,
         "date_posted": 1770161516,
         "url": "https://salesforce.wd12.myworkdayjobs.com/Slack/job/North-Carolina---Raleigh/Software-Engineer-II---Product-Backend_JR327593",
@@ -213672,5 +213672,305 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Elevance Health",
+        "id": "c1739396-4e37-4f1c-a623-69bd5423235d",
+        "title": "Engineer 1",
+        "active": true,
+        "date_updated": 1771372467,
+        "date_posted": 1771372467,
+        "url": "https://elevancehealth.wd1.myworkdayjobs.com/ELV-ET/job/GA-ATLANTA-740-W-PEACHTREE-ST-NW/Engineer-I_JR171701",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Elevance-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Bandwidth",
+        "id": "482723f9-64f3-4d87-ab37-876592793c03",
+        "title": "Enterprise Systems Administrator",
+        "active": true,
+        "date_updated": 1771371109,
+        "date_posted": 1771371109,
+        "url": "https://job-boards.greenhouse.io/bandwidth/jobs/7613350",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Bandwidth",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "PatientPoint",
+        "id": "f8279648-c344-4ba9-8ced-57c29c6ec8bc",
+        "title": "Product Manager",
+        "active": true,
+        "date_updated": 1771371663,
+        "date_posted": 1771371663,
+        "url": "https://job-boards.greenhouse.io/patientpoint/jobs/4657420005",
+        "locations": [
+            "Cincinnati, OH",
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/PatientPoint",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Fifth Third Bank",
+        "id": "a35a6d9a-dd74-45d7-9ef8-4ba2acdf7bdd",
+        "title": "Data Engineer 1 - Finance IT - Tax Squad",
+        "active": true,
+        "date_updated": 1771371218,
+        "date_posted": 1771371218,
+        "url": "https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Data-Engineer-I---Finance-IT--Tax-Squad_R65167-1",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Fifth-Third-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "VEGA Americas",
+        "id": "91845de3-0205-417f-bc67-6140407e9c2e",
+        "title": "Product Configuration Technician",
+        "active": true,
+        "date_updated": 1771372019,
+        "date_posted": 1771372019,
+        "url": "https://job-boards.greenhouse.io/vegaamericas/jobs/4654952006",
+        "locations": [
+            "Mason, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/VEGA-Americas",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "StubHub",
+        "id": "8feb2e2e-cdbf-4761-af56-a28c501c1e62",
+        "title": "Associate Product Manager - Marketing Operations",
+        "active": true,
+        "date_updated": 1771371284,
+        "date_posted": 1771371284,
+        "url": "https://job-boards.eu.greenhouse.io/stubhubinc/jobs/4781431101",
+        "locations": [
+            "LA",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/StubHub",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Microchip Technology",
+        "id": "78115cdb-db9d-43af-a013-162de0ca9b55",
+        "title": "Engineer 1-Validation",
+        "active": true,
+        "date_updated": 1771371805,
+        "date_posted": 1771371805,
+        "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/NY---Hauppauge/Engineer-I-Validation_R531-26",
+        "locations": [
+            "Long Island, New York"
+        ],
+        "company_url": "https://simplify.jobs/c/Microchip-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "3f0d081c-c1f4-41a8-bbd9-b65145b41bc9",
+        "title": "Systems Engineering 2",
+        "active": true,
+        "date_updated": 1771371318,
+        "date_posted": 1771371318,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IL-ROCKFORD-P6--4747-Harrison-Ave--4747-HARRISON-AVE-P6/Systems-Engineering-II--On-Site-_01824246",
+        "locations": [
+            "Rockford, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "d13067e7-5835-48c7-8da2-aa95fa6ace2d",
+        "title": "2026 Systems Engineer 1 - White Sands NM",
+        "active": true,
+        "date_updated": 1771371284,
+        "date_posted": 1771371284,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-NM-WHITE-SANDS-038--RTSC-Milepost-186--BLDG-LC38-Mars-Site-Hwy-70E/XMLNAME-2026-Systems-Engineer-I---Onsite---White-Sands--NM_01810266",
+        "locations": [
+            "Las Cruces, NM"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Open Farm Pet",
+        "id": "b303c77e-bbf5-4625-ad8c-b1157746ac09",
+        "title": "Data Analyst \u2013 Entry Level - Ecommerce & Growth",
+        "active": true,
+        "date_updated": 1771371704,
+        "date_posted": 1771371704,
+        "url": "https://job-boards.greenhouse.io/openfarminc/jobs/5123171008",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/OpenFarmPet",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "GE Aerospace",
+        "id": "52ea9c6b-c642-4763-911a-7c9692d6b28f",
+        "title": "Edison Engineering Development Programme",
+        "active": true,
+        "date_updated": 1771371809,
+        "date_posted": 1771371809,
+        "url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Warsaw/EDC-Edison-Engineering-Development-Programme---2026_R5028442-1",
+        "locations": [
+            "Gloucester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Aerospace",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "General Dynamics Information Technology",
+        "id": "23afece1-8460-489b-baa5-962867bd7b01",
+        "title": "Software Developer Associate - TS/SCI w/Poly",
+        "active": true,
+        "date_updated": 1771371537,
+        "date_posted": 1771371537,
+        "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Software-Developer-Associate---TS-SCI-w-Poly_RQ215097",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/GDIT",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SixGen",
+        "id": "054eb30c-5a43-48bf-839d-231fcc49852f",
+        "title": "Software Engineer Level 0 - TS/SCI w/ Poly",
+        "active": true,
+        "date_updated": 1771371485,
+        "date_posted": 1771371485,
+        "url": "https://job-boards.greenhouse.io/sixgeninc/jobs/5123488008",
+        "locations": [
+            "Odenton, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/SixGen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Maricopa County",
+        "id": "72eae534-ae3d-41da-a091-3fafe9a4823d",
+        "title": "Full Stack Developer",
+        "active": true,
+        "date_updated": 1771370995,
+        "date_posted": 1771370995,
+        "url": "https://maricopa.wd1.myworkdayjobs.com/en-US/MC_External/job/Phoenix-AZ-Hybrid/Full-Stack-Developer_JR22048",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Maricopa-County",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "WPP Media",
+        "id": "60fd1801-82e4-401c-9c61-238dbb80155d",
+        "title": "Insight Executive",
+        "active": true,
+        "date_updated": 1771370988,
+        "date_posted": 1771370988,
+        "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5115290008",
+        "locations": [
+            "Manchester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/WPP-Media",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
