@@ -104219,7 +104219,7 @@
         "company_name": "SERES",
         "id": "b898f8f1-4cdb-4471-8bf7-a98c257f0215",
         "title": "Embedded Firmware Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1764117269,
         "date_posted": 1764117269,
         "url": "https://www.driveseres.com/career/?gh_jid=7424807",
@@ -141496,7 +141496,7 @@
         "company_name": "Jabil",
         "id": "9dfb6291-cb8d-4ec6-9d57-c142e73c7d0e",
         "title": "Test Engineering Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1766398689,
         "date_posted": 1766398689,
         "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Salt-Lake-CityGrantsville-UT/Test-Engineering-Technician_J2434987",
@@ -212830,7 +212830,7 @@
         "company_name": "Sainsbury's",
         "id": "b6d11965-fce7-41a2-9cb8-1281e44927a9",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1771341084,
         "date_posted": 1771341084,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400049827",
@@ -212904,7 +212904,7 @@
         "company_name": "Sainsbury's",
         "id": "5320c4ea-9341-48ac-9ce1-e7daad32c077",
         "title": "Trading Assistant - Local",
-        "active": true,
+        "active": false,
         "date_updated": 1771341088,
         "date_posted": 1771341088,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048525",
@@ -212940,7 +212940,7 @@
         "company_name": "Sainsbury's",
         "id": "46b28a56-e5c1-42ff-ad3d-9bf107da5334",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1771341106,
         "date_posted": 1771341106,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400049842",
@@ -213972,5 +213972,191 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CVS Health",
+        "id": "10451c77-6995-4f7d-ae24-4c10489f6f69",
+        "title": "Associate Data Engineer",
+        "active": true,
+        "date_updated": 1771373419,
+        "date_posted": 1771373419,
+        "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Hartford/Associate-Data-Engineer_R0833523",
+        "locations": [
+            "Hartford, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/CVS-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Sanford Health",
+        "id": "cf017107-68b2-4adf-97b2-23d13738b504",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1771373219,
+        "date_posted": 1771373219,
+        "url": "https://sanford.wd5.myworkdayjobs.com/sanfordhealth/job/SD-Sioux-Falls/Software-Engineer_R-0249284",
+        "locations": [
+            "South Dakota",
+            "Sioux Falls, SD"
+        ],
+        "company_url": "https://simplify.jobs/c/Sanford-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Applied Materials",
+        "id": "cd9b5a28-16fc-40d4-998e-3c7a25678d37",
+        "title": "Computational Physicist \u2013 AI/ML - Plasma Modeling",
+        "active": true,
+        "date_updated": 1771373189,
+        "date_posted": 1771373189,
+        "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Computational-Physicist---Plasma-Modeling--AI-ML-New-College-Grad---Doctorate-Degree--Santa-Clara--Ca-_R2612851",
+        "locations": [
+            "Santa Clara, CA",
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Materials",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GE Healthcare",
+        "id": "e0c439a3-337d-458d-92a4-a825ff4292be",
+        "title": "Field Service Engineer Central FL",
+        "active": true,
+        "date_updated": 1771370749,
+        "date_posted": 1771370749,
+        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-Central-FL_R4036192-1",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Healthcare",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Sony Interactive Entertainment",
+        "id": "c6985b7b-2c09-4c4c-a299-b3e5d5fbbfdd",
+        "title": "Associate Game Designer - Technical - Contingent",
+        "active": true,
+        "date_updated": 1771371601,
+        "date_posted": 1771371601,
+        "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5806213004",
+        "locations": [
+            "Santa Monica, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Sony-Interactive-Entertainment",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "NextEra Energy",
+        "id": "c0ed6112-ee5f-48e9-b1d0-189cebe698d2",
+        "title": "Financial Data Science Analyst",
+        "active": true,
+        "date_updated": 1771370306,
+        "date_posted": 1771370306,
+        "url": "https://jobs.nexteraenergy.com/job/Miami-Financial-Data-Science-Analyst-FL-33134/1365436300/?ats=successfactors",
+        "locations": [
+            "Miami, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/NextEra-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Blue Origin",
+        "id": "de91feca-0eff-4dc0-bdff-d08c56c0e0c4",
+        "title": "Technician - Assembly & Integration B Shift",
+        "active": true,
+        "date_updated": 1771372814,
+        "date_posted": 1771372814,
+        "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Space-Coast-FL/Technician---Assembly---Integration-B-Shift_R57931",
+        "locations": [
+            "Florida"
+        ],
+        "company_url": "https://simplify.jobs/c/Blue-Origin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Fortive",
+        "id": "8a681735-7ddb-4e2b-904e-1822d8edc633",
+        "title": "GLDP Associate-Data Analysis and Engineering Track",
+        "active": true,
+        "date_updated": 1771370236,
+        "date_posted": 1771370236,
+        "url": "https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8766",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Fortive",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Blue Origin",
+        "id": "175de2c3-24d3-42d5-8371-c3e40591e242",
+        "title": "Technician - Assembly & Integration - All Levels/All Shifts",
+        "active": true,
+        "date_updated": 1771372831,
+        "date_posted": 1771372831,
+        "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Space-Coast-FL/Technician---Assembly---Integration--All-Levels-All-Shifts-_R60817",
+        "locations": [
+            "Florida"
+        ],
+        "company_url": "https://simplify.jobs/c/Blue-Origin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
