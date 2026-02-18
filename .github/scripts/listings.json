@@ -208576,7 +208576,7 @@
         "company_name": "RTX",
         "id": "3e772eca-4466-42e1-8bfe-42f307d6619a",
         "title": "Software Engineer 1 - Effectors",
-        "active": true,
+        "active": false,
         "date_updated": 1770949778,
         "date_posted": 1770949778,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/XMLNAME-2026-Full-time---Software-Engineer-I---Effectors---Onsite--AZ-_01820532",
@@ -214420,5 +214420,27 @@
         "degrees": [
             "MD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Weights & Biases",
+        "id": "eeac69f6-3c80-4f45-bbef-ffb73761d66c",
+        "title": "Software Engineer - Billing-Weights & Biases",
+        "active": true,
+        "date_updated": 1771399885,
+        "date_posted": 1771399885,
+        "url": "https://coreweave.com/careers/job?4629313006&board=weights_and_biases&gh_jid=4629313006",
+        "locations": [
+            "NYC",
+            "SF",
+            "Livingston, NJ",
+            "Bellevue, WA",
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Weights-And-Biases",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
