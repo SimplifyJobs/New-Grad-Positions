@@ -136844,7 +136844,7 @@
         "company_name": "Northrop Grumman",
         "id": "aec478e1-b79a-49bb-98c7-10fcdd2645e4",
         "title": "Associate Software Engineer / Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1766561731,
         "date_posted": 1766561731,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Oklahoma-Oklahoma-City/XMLNAME-2026-Associate-Software-Engineer-Software-Engineer_R10217878",
@@ -201121,7 +201121,7 @@
         "company_name": "HEXAWARE",
         "id": "3df7df28-e0dc-4be6-b4d6-daae4a220ec1",
         "title": "Java Full Stack Engineer - Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1770678521,
         "date_posted": 1770678521,
         "url": "https://fa-etqo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/594222",
@@ -202800,7 +202800,7 @@
         "company_name": "RingCentral",
         "id": "abe27500-e9f6-426b-90f5-4dd623b6db7f",
         "title": "Associate Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1770765399,
         "date_posted": 1770765399,
         "url": "https://ringcentral.wd1.myworkdayjobs.com/RingCentral_Careers/job/Belmont-California/Associate-Software-Engineer_R077496",
@@ -212976,7 +212976,7 @@
         "company_name": "Sainsbury's",
         "id": "2fd05f08-8450-4013-ade3-e2a1e35ed2d1",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1771341080,
         "date_posted": 1771341080,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400049885",
@@ -214216,6 +214216,67 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "e499377d-8b3e-4c61-9006-ff5d50f5c127",
+        "title": "Engineer Systems Modeling Simulation/Principal Engineer Systems Modeling Simulation",
+        "active": true,
+        "date_updated": 1771382784,
+        "date_posted": 1771382784,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/Engineer-Systems-Modeling-Simulation-Principal-Engineer-Systems-Modeling-Simulation_R10223083",
+        "locations": [
+            "Arlington, VA",
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Qualified Health",
+        "id": "82cbb85d-1a7b-4ab2-aead-3977c9303f63",
+        "title": "Product Analyst",
+        "active": true,
+        "date_updated": 1771381654,
+        "date_posted": 1771381654,
+        "url": "https://job-boards.greenhouse.io/qualifiedhealth/jobs/5123725008",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Qualified-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Olsson",
+        "id": "9d1df1a1-0f29-400f-8acc-4a6c14311d34",
+        "title": "Commissioning Agent - Data Center",
+        "active": true,
+        "date_updated": 1771371285,
+        "date_posted": 1771371285,
+        "url": "https://job-boards.greenhouse.io/olsson/jobs/5123215008",
+        "locations": [
+            "Cedar Rapids, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/Olsson",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
         ]
     }
 ]
