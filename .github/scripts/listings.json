@@ -43181,7 +43181,7 @@
         "company_name": "Motorola",
         "id": "4b94c7c1-90db-4f0d-9f8a-ba763ecb4681",
         "title": "Graduate Embedded Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1762273584,
         "date_posted": 1762273584,
         "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Edinburgh-UK-ZUK126/Graduate-Embedded-Software-Engineer_R57587",
@@ -83100,7 +83100,7 @@
         "company_name": "Dave & Busters",
         "id": "abf5612d-a2da-4b2a-898c-5a5239b9cd11",
         "title": "Games Support Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1752551496,
         "date_posted": 1752551496,
         "url": "https://daveandbusters.wd1.myworkdayjobs.com/dave_and_busters_careers/job/South-Arlington-TX/Games-Support-Technician_R-1008079",
@@ -83118,7 +83118,7 @@
         "company_name": "Dave & Busters",
         "id": "6e01bebd-6089-44bc-bbe7-533a31bc659c",
         "title": "Games Support Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1761869625,
         "date_posted": 1761869625,
         "url": "https://daveandbusters.wd1.myworkdayjobs.com/dave_and_busters_careers/job/Canton-OH/Games-Support-Technician_R-1008616",
@@ -182802,7 +182802,7 @@
         "company_name": "Agilent Technologies",
         "id": "04bed8e0-0187-4d57-b226-86993e04e6c7",
         "title": "Graduate Field Service Engineer - South West UK - Chromatography and Spectroscopy",
-        "active": false,
+        "active": true,
         "date_updated": 1769615446,
         "date_posted": 1769615446,
         "url": "https://agilent.wd5.myworkdayjobs.com/Agilent_Student_Careers/job/UK-Remote-Location-Harwell/Graduate-Field-Service-Engineer---South-West-UK---Chromatography-and-Spectroscopy_4034596",
@@ -214378,7 +214378,7 @@
         "company_name": "University of Miami",
         "id": "62613347-1818-47ee-a45b-5af6584ffa54",
         "title": "CAS-Sociology-Artificial Intelligence at the rank of Assistant Professor - Associate Professor",
-        "active": true,
+        "active": false,
         "date_updated": 1771415771,
         "date_posted": 1769866839,
         "url": "https://umiami.wd1.myworkdayjobs.com/UMFaculty/job/Coral-Gables-FL/CAS-Sociology-Artificial-Intelligence-at-the-rank-of-Assistant-Professor---Associate-Professor_R100091735",
@@ -216846,5 +216846,23 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Dave & Busters",
+        "id": "7e31c580-eb29-4d8c-8a57-c9aa401a67f3",
+        "title": "Games Support Technician - Polaris Dave & Buster's",
+        "active": true,
+        "date_updated": 1771500775,
+        "date_posted": 1765060319,
+        "url": "https://daveandbusters.wd1.myworkdayjobs.com/dave_and_busters_careers/job/Polaris-OH/Games-Support-Technician_R-1008077",
+        "locations": [
+            "Dublin, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Dave-And-Busters",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
