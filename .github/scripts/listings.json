@@ -2,41 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Jerry",
-        "id": "22ae3e67-4d30-4233-a489-29adb54d6cb9",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1750730867,
-        "date_posted": 1750730867,
-        "url": "https://jobs.ashbyhq.com/Jerry/a4df2ab0-3a8a-4a4a-abf3-d4a4f43ff80e/application",
-        "locations": [
-            "Toronto, ON, Canada",
-            "Greater Toronto Area, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Jerry",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Jerry",
-        "id": "dbc72db5-84c3-440d-9740-c4254383c0c9",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1750730868,
-        "date_posted": 1750730868,
-        "url": "https://jobs.ashbyhq.com/Jerry/59d16ded-982e-40bf-a917-a4afe99594af/application",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Jerry",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "USAA",
         "id": "d3f775c8-7ee2-4b66-aa3b-9d6fd945d0e1",
         "title": "Software Engineer I",
