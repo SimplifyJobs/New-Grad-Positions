@@ -133922,7 +133922,7 @@
         "company_name": "Motorola",
         "id": "1cbd14b8-a612-469a-bee7-65d58ee43d93",
         "title": "Electronics Test and Assembly Technician - AM Shift",
-        "active": false,
+        "active": true,
         "date_updated": 1766196067,
         "date_posted": 1766196067,
         "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Los-Angeles-CA/Electronics-Test-and-Assembly-Technician--AM-Shift---Entry-Level-_R60590",
@@ -169345,7 +169345,7 @@
         "company_name": "Microchip Technology",
         "id": "c49d3945-a0b8-4bd4-9a04-1ca469811522",
         "title": "Firmware Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1769030117,
         "date_posted": 1769030117,
         "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/United-Kingdom---Whiteley/Firmware-Engineer_R297-26-1",
@@ -216682,6 +216682,66 @@
             "State College, PA"
         ],
         "company_url": "https://simplify.jobs/c/Arka-Infotech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Johnson & Johnson",
+        "id": "785d6ff9-e61f-4b55-a6ce-b94fcdf17c3b",
+        "title": "Senior Robotic Software Engineer",
+        "active": true,
+        "date_updated": 1771486709,
+        "date_posted": 1771486709,
+        "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Santa-Clara-California-United-States-of-America/Senior-Robotic-Software-Engineer_R-055925",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Johnson-Johnson",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Asurion",
+        "id": "6edcff48-2039-492f-9338-43e8f72d37fd",
+        "title": "Cell Phone Repair Technician-Partnership Store - Google",
+        "active": true,
+        "date_updated": 1771486508,
+        "date_posted": 1771486508,
+        "url": "https://asurion.wd5.myworkdayjobs.com/asurioncareers_us/job/UBIF-DC---Washington---3235-M-St-NW/Cell-Phone-Repair-Technician--Partnership-Store--Google-_ASU0018854-1",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Asurion",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "5d2b8c04-74eb-4c9c-845d-81f14ac7d574",
+        "title": "2026 Full-time - Software Engineer I",
+        "active": true,
+        "date_updated": 1771486032,
+        "date_posted": 1771486032,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/XMLNAME-2026-Full-time---Software-Engineer-I---Onsite--MA-_01824796",
+        "locations": [
+            "Tewksbury, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
