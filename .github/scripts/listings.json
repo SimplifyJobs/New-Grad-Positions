@@ -175644,7 +175644,7 @@
         "company_name": "Prairie View A&M University",
         "id": "6f66ab1b-433f-4ac9-84c9-28a7d33a0ef5",
         "title": "Postdoctoral Researcher",
-        "active": false,
+        "active": true,
         "date_updated": 1769126467,
         "date_posted": 1769126467,
         "url": "https://tamus.wd1.myworkdayjobs.com/pvamu_external/job/Prairie-View-TX/Postdoctoral-Researcher--PIER---Environmental-Data-Science-and-Artificial-Intelligence-_R-089857-1",
@@ -212887,7 +212887,7 @@
         "company_name": "Trustpilot",
         "id": "999e7d26-f317-4433-ad79-ad1f7a076b30",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1771342898,
         "date_posted": 1771342898,
         "url": "https://business.trustpilot.com/jobs/7621938?gh_jid=7621938",
@@ -212905,7 +212905,7 @@
         "company_name": "Trustpilot",
         "id": "1d90b701-1ce4-469b-b038-ee1be430f0f1",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1771342899,
         "date_posted": 1771342899,
         "url": "https://business.trustpilot.com/jobs/7353456?gh_jid=7353456",
@@ -214657,7 +214657,7 @@
         "company_name": "Sainsbury's",
         "id": "9cbaa821-091f-4ceb-ab8e-6017606202c9",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1771427331,
         "date_posted": 1771427331,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050061",
@@ -216806,5 +216806,45 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Axon",
+        "id": "5e01b73c-fb23-4866-a4da-8999702383fb",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1771498962,
+        "date_posted": 1771498962,
+        "url": "https://job-boards.greenhouse.io/axon/jobs/7620148003",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Axon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Boeing Company",
+        "id": "b5509517-9392-44f1-b9c5-a76c66ed7e67",
+        "title": "Product Data Management Engineer \u2013 Associate or Mid-Level - Config & Data Mgmt/Tech Integ",
+        "active": true,
+        "date_updated": 1771499761,
+        "date_posted": 1771459017,
+        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Renton-WA/Product-Data-Management-Engineer---Config---Data-Mgmt-Tech-Integ--Associate-or-Mid-Level-_JR2026491114-1",
+        "locations": [
+            "Tukwila, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
