@@ -216948,5 +216948,27 @@
         "date_posted": 1771505037,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "a0f38101-9486-49cd-8d60-0d4546ee11f7",
+        "title": "SDS Engineer/Principal Engineer EHS",
+        "active": true,
+        "date_updated": 1771506155,
+        "date_posted": 1771506155,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/SDS-Engineer-Principal-Engineer-EHS---17676_R10222361",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
     }
 ]
