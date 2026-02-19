@@ -216930,5 +216930,23 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "date_updated": 1771505037,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.ashbyhq.com/batoncorporation/bb3ab630-5e59-48b5-9794-00a225879a66",
+        "company_name": "Baton Corporation",
+        "title": "Junior Full Stack Engineer",
+        "locations": [
+            "New York, NY"
+        ],
+        "category": "Software Engineering",
+        "source": "SuhaanCoding",
+        "id": "b3298ec2-a195-4322-b6bc-40539c93421f",
+        "date_posted": 1771505037,
+        "company_url": "",
+        "is_visible": true
     }
 ]
