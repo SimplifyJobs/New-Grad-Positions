@@ -6689,7 +6689,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Engineer 🇺🇸</td>
 <td>El Segundo, CA</td>
 <td>🔒</td>
-<td>4mo</td>
+<td>5mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Tencent?utm_source=GHList&utm_medium=company">Tencent</a></strong></td>
@@ -10935,7 +10935,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Data/Ai Engineer Intern</td>
 <td>Ogden, UT</td>
 <td>🔒</td>
-<td>4mo</td>
+<td>5mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Adobe?utm_source=GHList&utm_medium=company">🔥 Adobe</a></strong></td>
@@ -13645,7 +13645,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>7mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Cadence-Design-Systems?utm_source=GHList&utm_medium=company">Cadence Design Systems</a></strong></td>
+<td>↳</td>
 <td>C++ Software Engineer – New College Grad</td>
 <td>Burlington, MA</td>
 <td>🔒</td>
@@ -13717,7 +13717,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Technology – Analyst</td>
 <td>Charlotte, NC</br>Jersey City, NJ</td>
 <td>🔒</td>
-<td>4mo</td>
+<td>5mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Sev1Tech?utm_source=GHList&utm_medium=company">Sev1Tech</a></strong></td>
