@@ -143574,7 +143574,7 @@
         "company_name": "Danaher Corporation",
         "id": "ca0ee9ba-480e-438f-aae8-325ad589d017",
         "title": "Field Service Engineer - South West England",
-        "active": true,
+        "active": false,
         "date_updated": 1765641077,
         "date_posted": 1765641077,
         "url": "https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/GBR---Remote/Field-Service-Engineer--South-West-England-_R1298400-1",
@@ -147807,7 +147807,7 @@
         "company_name": "ASSA ABLOY",
         "id": "0c40e248-2851-4d72-9740-231b5e1e9081",
         "title": "Associate Product Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1767654902,
         "date_posted": 1767654902,
         "url": "https://assaabloy.jobs2web.com/job/Mason-City-Associate-Product-Engineer-IA-50401/1280375301/?ats=successfactors",
@@ -183020,7 +183020,7 @@
         "company_name": "Sainsbury's",
         "id": "7b7ab934-752b-4a9d-8f51-280e48de13e8",
         "title": "Trading Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1769699509,
         "date_posted": 1769699509,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400045560",
@@ -211681,7 +211681,7 @@
         "company_name": "JP Morgan Chase",
         "id": "6de4c58d-0ee5-4845-bc64-1d4d5857e7ac",
         "title": "Investment Product and Platform Associate - Associate - Investment Product and Platform",
-        "active": false,
+        "active": true,
         "date_updated": 1771283676,
         "date_posted": 1771283676,
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210707886",
@@ -212585,7 +212585,7 @@
         "company_name": "Sainsbury's",
         "id": "cb6479da-725c-4208-975d-bcf1283ce0ec",
         "title": "Trading Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1771341076,
         "date_posted": 1771341076,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400049624",
@@ -215584,7 +215584,7 @@
         "company_name": "Silfab Solar",
         "id": "7a25b168-6220-4752-af3f-e070bff4bb4f",
         "title": "Research Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1771455870,
         "date_posted": 1771455870,
         "url": "https://jobs.smartrecruiters.com/SilfabSolar/744000110043110",
@@ -216991,5 +216991,321 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pantheon Ventures Careers",
+        "id": "60df7d51-696e-480d-9c18-53dbb3cc1a92",
+        "title": "Data and Analytics Associate - Transactions Management",
+        "active": true,
+        "date_updated": 1771514663,
+        "date_posted": 1771514663,
+        "url": "https://job-boards.greenhouse.io/pantheonpublic/jobs/8418972002",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Pantheon-Ventures-Careers",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Goldman Sachs",
+        "id": "f46681e8-e34d-48da-8b85-70dabef7c17a",
+        "title": "Asset & Wealth Management - Software Engineer - Associate",
+        "active": true,
+        "date_updated": 1771514341,
+        "date_posted": 1771514341,
+        "url": "https://higher.gs.com/roles/161790",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Goldman-Sachs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Caterpillar Inc.",
+        "id": "19650f58-6c8a-42de-a817-9b7362d953f7",
+        "title": "Development Research Technician - Emissions Technician",
+        "active": true,
+        "date_updated": 1771514381,
+        "date_posted": 1771514381,
+        "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Peterborough-United-Kingdom/Development-Research-Technician--Emissions-Technician-_R0000351443",
+        "locations": [
+            "Peterborough, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Caterpillar-Inc",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Boston Consulting Group",
+        "id": "061215f6-15a5-4c1a-817a-50daef2eafb5",
+        "title": "AI Science Institute Postdoctoral Fellow",
+        "active": true,
+        "date_updated": 1771514381,
+        "date_posted": 1771514381,
+        "url": "https://careers.bcg.com/global/en/job/57011",
+        "locations": [
+            "NYC",
+            "Pittsburgh, PA",
+            "El Segundo, CA",
+            "Miami, FL",
+            "Boston, MA",
+            "Seattle, WA",
+            "Washington, DC",
+            "Brooklyn, NY",
+            "SF",
+            "Dallas, TX",
+            "LA",
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Boston-Consulting-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Camlin",
+        "id": "6db0e591-093c-483c-a932-f94fd0c3eaea",
+        "title": "Service Technician",
+        "active": true,
+        "date_updated": 1771514128,
+        "date_posted": 1771514128,
+        "url": "https://ats.rippling.com/camlin-careers/jobs/ccefe389-7ad6-4fc3-bae8-9d4629235b47",
+        "locations": [
+            "Coventry, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Camlin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Samsung",
+        "id": "34b46334-5b08-4885-a430-f5683e08536d",
+        "title": "Metrology Equipment Technician",
+        "active": true,
+        "date_updated": 1771514264,
+        "date_posted": 1771514264,
+        "url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/Metrology-Equipment-Technician_R114007",
+        "locations": [
+            "Pflugerville, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Samsung",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Latitude",
+        "id": "1c4bb906-af35-48ad-b531-aad685bd5feb",
+        "title": "Entry Level Database Developer",
+        "active": true,
+        "date_updated": 1771514115,
+        "date_posted": 1771514115,
+        "url": "https://jobs.lever.co/latitudeinc/a232712f-241a-435e-a3be-617b6907478a/apply",
+        "locations": [
+            "Baltimore, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Latitude",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "ddc807a5-9bc7-404c-a7e4-9fd7f3060066",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1771513821,
+        "date_posted": 1771513821,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050232",
+        "locations": [
+            "Camberley, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Walker & Dunlop",
+        "id": "88ce3e48-e632-42bf-840f-c81cac283c03",
+        "title": "2026 Debt Operations Analytics Analyst",
+        "active": true,
+        "date_updated": 1771513776,
+        "date_posted": 1771513776,
+        "url": "https://walkerdunlop.wd1.myworkdayjobs.com/WD/job/Needham-MA-USA/Debt-Operations-Analytics-Analyst_Req-1832-1",
+        "locations": [
+            "Needham, MA",
+            "Bethesda, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Walker-And-Dunlop",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The University of Edinburgh",
+        "id": "64e88340-ad32-43cc-9705-19d2486092be",
+        "title": "Postdoctoral Research Associate in glacial fjord modelling",
+        "active": true,
+        "date_updated": 1771514030,
+        "date_posted": 1771514030,
+        "url": "https://elxw.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/13758",
+        "locations": [
+            "Edinburgh, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/The-University-Of-Edinburgh",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The University of Edinburgh",
+        "id": "50187e92-15c6-445a-a1dc-41b82b7371fe",
+        "title": "Postdoctoral Research Associate in Greenland Ice Sheet-ocean interaction - Greenland Ice Sheet Ocean Interaction",
+        "active": true,
+        "date_updated": 1771514036,
+        "date_posted": 1771514036,
+        "url": "https://elxw.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/13674",
+        "locations": [
+            "Edinburgh, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/The-University-Of-Edinburgh",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "42641f0f-fa50-4110-bb5e-0be92f387df1",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1771513794,
+        "date_posted": 1771513794,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050224",
+        "locations": [
+            "Glasgow, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Polk County",
+        "id": "21ac2765-895e-410d-b2c6-6d4ec7a00b5d",
+        "title": "Survey Technician 2 - Roads and Drainage",
+        "active": true,
+        "date_updated": 1771513863,
+        "date_posted": 1771513863,
+        "url": "https://fa-eqpz-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2499",
+        "locations": [
+            "Winter Haven, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Polk-County",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Intertek",
+        "id": "85ac7e74-4a56-4995-a38a-4782c2426c38",
+        "title": "Engineer Energy Safety",
+        "active": true,
+        "date_updated": 1771513696,
+        "date_posted": 1771513696,
+        "url": "https://hcog.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/14052",
+        "locations": [
+            "Lake Forest, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Intertek",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "IDEMIA",
+        "id": "f8533915-cf48-4936-ab7c-92e8dccf94f4",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1771493097,
+        "date_posted": 1770937847,
+        "url": "https://uscareers-idemia.icims.com/jobs/8396/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Idemia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Amazon",
+        "id": "0202d268-924c-4cb5-abaf-86899e75e777",
+        "title": "Senior Data Center Technician - Dco 4 - DCC Communities",
+        "active": true,
+        "date_updated": 1771495582,
+        "date_posted": 1770775629,
+        "url": "https://amazon.jobs/en/jobs/3178411/data-center-technician-dcc-communities",
+        "locations": [
+            "Ridgeland, MS",
+            "Levittown, PA",
+            "Atlanta, GA",
+            "Nanticoke, PA",
+            "Ashburn, VA",
+            "Dulles, VA",
+            "New Albany, OH",
+            "Manassas, VA",
+            "Chantilly, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
