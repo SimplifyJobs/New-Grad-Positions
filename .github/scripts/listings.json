@@ -103456,7 +103456,7 @@
         "company_name": "Boston Consulting Group",
         "id": "450be4dd-71c9-45b4-a844-28b9c529e092",
         "title": "AI Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1764077526,
         "date_posted": 1764032535,
         "url": "https://careers.bcg.com/global/en/job/55995",
@@ -143773,7 +143773,7 @@
         "company_name": "Dave & Busters",
         "id": "6c2f3929-2e63-4d3b-ba2d-f77dc5bb81c6",
         "title": "Support Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1764498855,
         "date_posted": 1764498855,
         "url": "https://daveandbusters.wd1.myworkdayjobs.com/dave_and_busters_careers/job/Huntsville-AL/Support-Technician_R-1007245",
@@ -143899,7 +143899,7 @@
         "company_name": "Dave & Busters",
         "id": "ab7525c1-72e7-4e5d-9dcb-78553d92f6e5",
         "title": "Game Support Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1763897907,
         "date_posted": 1763897907,
         "url": "https://daveandbusters.wd1.myworkdayjobs.com/dave_and_busters_careers/job/Staten-Island-NY/Game-Support-Technician_R-1009445",
@@ -216861,6 +216861,72 @@
             "Dublin, OH"
         ],
         "company_url": "https://simplify.jobs/c/Dave-And-Busters",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Uline",
+        "id": "ed69d4ae-c262-4c29-a8d3-5e3a988b5aab",
+        "title": "Corporate Analyst Rotational Program",
+        "active": true,
+        "date_updated": 1771503550,
+        "date_posted": 1771503550,
+        "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Corporate-Analyst-Rotational-Program_R261548",
+        "locations": [
+            "Kenosha, WI",
+            "Waukegan, IL",
+            "Morton Grove, IL",
+            "Pleasant Prairie, WI",
+            "Milwaukee, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Uline",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Uline",
+        "id": "9778d507-4a7e-4e71-9cbb-06e2f901ed13",
+        "title": "Associate Product Manager",
+        "active": true,
+        "date_updated": 1771503550,
+        "date_posted": 1771503550,
+        "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Associate-Product-Manager_R261550-2",
+        "locations": [
+            "Kenosha, WI",
+            "Waukegan, IL",
+            "Morton Grove, IL",
+            "Pleasant Prairie, WI",
+            "Milwaukee, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Uline",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Virginia",
+        "id": "f67b358b-40cf-435e-9c00-77b58e2ed03f",
+        "title": "Nitrogen Working Group Student Employee - Student Wage",
+        "active": true,
+        "date_updated": 1771502648,
+        "date_posted": 1771369333,
+        "url": "https://uva.wd1.myworkdayjobs.com/uvastudentjobs/job/Charlottesville-VA/Nitrogen-Working-Group-Student-Employee--Student-Wage-_R0080689",
+        "locations": [
+            "Charlottesville, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Virginia",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
