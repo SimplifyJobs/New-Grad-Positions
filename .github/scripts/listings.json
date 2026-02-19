@@ -1217,24 +1217,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "EvenUp",
-        "id": "bf85e278-1c60-40dd-a026-a10c6789b9ff",
-        "title": "Early Career Machine Learning Engineer",
-        "active": false,
-        "date_updated": 1755269381,
-        "date_posted": 1750750206,
-        "url": "https://jobs.ashbyhq.com/evenup/fe3d36b4-696b-4c47-be72-2186b266035b/application",
-        "locations": [
-            "San Francisco, CA",
-            "Toronto, ON"
-        ],
-        "company_url": "https://simplify.jobs/c/a3893f84-8200-4d5f-aad7-2ff0d6d670dc",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Jerry",
         "id": "eba56ae9-5f60-4397-b126-d8f6cb306ca6",
@@ -206940,7 +206922,7 @@
         "company_name": "Sainsbury's",
         "id": "332a5f95-fbfa-4a7b-93bc-2f5e60face23",
         "title": "Trading Assistant - Shift",
-        "active": false,
+        "active": true,
         "date_updated": 1770938076,
         "date_posted": 1770938076,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400049267",
@@ -209201,7 +209183,7 @@
         "company_name": "Wells Fargo",
         "id": "d55024af-891a-41c7-89d8-176c372a32eb",
         "title": "Engineering Associate - .Net",
-        "active": true,
+        "active": false,
         "date_updated": 1770998738,
         "date_posted": 1770998738,
         "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/WEST-DES-MOINES-IA/Engineering-Associate---NET_R-517668",
@@ -216341,5 +216323,369 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Atria Group",
+        "id": "8c724b23-b84c-4c2a-899a-7d67be816fb9",
+        "title": "SharePoint Administrator/Developer",
+        "active": true,
+        "date_updated": 1771485226,
+        "date_posted": 1771485226,
+        "url": "https://jobs.smartrecruiters.com/AtriaGroupLLC/83605355",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Atria-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Atria Group",
+        "id": "84a4532b-6ed6-4737-984f-6b611a764056",
+        "title": "Core Java Developer",
+        "active": true,
+        "date_updated": 1771485228,
+        "date_posted": 1771485228,
+        "url": "https://jobs.smartrecruiters.com/AtriaGroupLLC/81188078",
+        "locations": [
+            "Cupertino, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Atria-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ASSYSTEM",
+        "id": "7b951641-67ec-4a4c-8658-d507f3cafbe7",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1771485186,
+        "date_posted": 1771485186,
+        "url": "https://jobs.smartrecruiters.com/ASSYSTEM/744000090789591",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/ASSYSTEM",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Atria Group",
+        "id": "73c9e1f1-c9ef-4e84-84a1-ae482c996cb1",
+        "title": "BI Data Analyst",
+        "active": true,
+        "date_updated": 1771485210,
+        "date_posted": 1771485210,
+        "url": "https://jobs.smartrecruiters.com/AtriaGroupLLC/83925014",
+        "locations": [
+            "Addison, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Atria-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Atria Group",
+        "id": "454b7531-1c3f-4d4c-a1c8-7fdefccc4258",
+        "title": "Entry Level ASP.NET programmer",
+        "active": true,
+        "date_updated": 1771485250,
+        "date_posted": 1771485250,
+        "url": "https://jobs.smartrecruiters.com/AtriaGroupLLC/72190211",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Atria-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "fa33a8fb-cb54-45e3-b56d-914b9a50ce3f",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1771484942,
+        "date_posted": 1771484942,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050130",
+        "locations": [
+            "Northwich, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Clearer.io",
+        "id": "c3855fad-4a08-4830-934a-13bcb746bf82",
+        "title": "Associate Software Engineer 1",
+        "active": true,
+        "date_updated": 1771485101,
+        "date_posted": 1771485101,
+        "url": "https://jobs.lever.co/Clearer/530ccee8-a05b-4511-9b0f-4296a8a489ef/apply",
+        "locations": [
+            "Leicester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Clearer-Io",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Emerson Electric",
+        "id": "61ef29ef-a9e3-4dbe-9c79-7fba40998fab",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1771485045,
+        "date_posted": 1771485045,
+        "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26001733",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Emerson-Electric",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Ask IT Consulting",
+        "id": "5e788858-b3db-4305-88ee-d91e583a9d7a",
+        "title": "Software Design Engineer",
+        "active": true,
+        "date_updated": 1771485153,
+        "date_posted": 1771485153,
+        "url": "https://jobs.smartrecruiters.com/AskITConsulting/103476528",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Ask-IT-Consulting",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ASSYSTEM",
+        "id": "57e04409-fc03-4d83-8a96-352f25125716",
+        "title": "Graduate Digital Engineering & Integration Engineer",
+        "active": true,
+        "date_updated": 1771485092,
+        "date_posted": 1771485092,
+        "url": "https://jobs.smartrecruiters.com/ASSYSTEM/744000107736138",
+        "locations": [
+            "Wellington, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/ASSYSTEM",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Ask IT Consulting",
+        "id": "1795cf4e-c11d-445a-b456-46e78f4e1bb6",
+        "title": "Software Design Engineer",
+        "active": true,
+        "date_updated": 1771485152,
+        "date_posted": 1771485152,
+        "url": "https://jobs.smartrecruiters.com/AskITConsulting/103462571",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Ask-IT-Consulting",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Arka Infotech",
+        "id": "c07df5ff-9c4a-4139-b95a-cd6534c007c0",
+        "title": "Hybris Developer",
+        "active": true,
+        "date_updated": 1771484841,
+        "date_posted": 1771484841,
+        "url": "https://jobs.smartrecruiters.com/ArkaInfotechInc/83437039",
+        "locations": [
+            "Cheektowaga, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Arka-Infotech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Arka Infotech",
+        "id": "8882eb24-cbbb-4369-992b-684cb6b5fb12",
+        "title": "SQL Server Architect",
+        "active": true,
+        "date_updated": 1771484837,
+        "date_posted": 1771484837,
+        "url": "https://jobs.smartrecruiters.com/ArkaInfotechInc/85225089",
+        "locations": [
+            "Baltimore, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Arka-Infotech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "BCforward",
+        "id": "7be86b0e-5b51-46fd-9eac-67bf83afe6af",
+        "title": "Net Developer",
+        "active": true,
+        "date_updated": 1771484699,
+        "date_posted": 1771484699,
+        "url": "https://jobs.smartrecruiters.com/BCforward3/93142765",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/BCforward",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "BCforward",
+        "id": "5f49434d-9995-49df-89f7-3b03f29ef00c",
+        "title": "DataStage Administrator",
+        "active": true,
+        "date_updated": 1771484673,
+        "date_posted": 1771484673,
+        "url": "https://jobs.smartrecruiters.com/BCforward3/91801731",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/BCforward",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Arka Infotech",
+        "id": "4dd42a3c-3fcd-491f-b922-16e435212142",
+        "title": "Angularjs Developer",
+        "active": true,
+        "date_updated": 1771484843,
+        "date_posted": 1771484843,
+        "url": "https://jobs.smartrecruiters.com/ArkaInfotechInc/85677157",
+        "locations": [
+            "Parowan, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Arka-Infotech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "BCforward",
+        "id": "432431b2-2756-4e92-a866-d8bcaf710a6b",
+        "title": "SAP MDG Consultant",
+        "active": true,
+        "date_updated": 1771484670,
+        "date_posted": 1771484670,
+        "url": "https://jobs.smartrecruiters.com/BCforward3/96417803",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/BCforward",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Beta Soft Systems",
+        "id": "325b5cec-2d43-402d-9e7e-c4772a5e57cc",
+        "title": "Quality Assurance Engineer - Quality Assurance - Software",
+        "active": true,
+        "date_updated": 1771484831,
+        "date_posted": 1771484831,
+        "url": "https://jobs.smartrecruiters.com/BetaSoftSystems3/85575889",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Beta-Soft-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Arka Infotech",
+        "id": "323f0d24-cbde-4bca-a596-412f91d84399",
+        "title": "Senior .NET Developer",
+        "active": true,
+        "date_updated": 1771484839,
+        "date_posted": 1771484839,
+        "url": "https://jobs.smartrecruiters.com/ArkaInfotechInc/83641651",
+        "locations": [
+            "State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Arka-Infotech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
