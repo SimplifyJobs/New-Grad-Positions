@@ -33433,7 +33433,7 @@
         "company_name": "Vertiv",
         "id": "79dba19d-e4fc-4196-a85b-60aaae99941b",
         "title": "Sales Pricing Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1762996348,
         "date_posted": 1762996348,
         "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20262439",
@@ -143192,7 +143192,7 @@
         "company_name": "L3Harris Technologies",
         "id": "a7edebff-644f-439b-b98f-c9480d1b1737",
         "title": "Electronics Assembly Technician 1",
-        "active": true,
+        "active": false,
         "date_updated": 1766013338,
         "date_posted": 1766013338,
         "url": "https://jobs.l3harris.com/job/Camden-Electronics-Assembly-Technician-1-NJ-08103/1350550200/?ats=successfactors",
@@ -193283,7 +193283,7 @@
         "company_name": "Carnegie Mellon University",
         "id": "827ee515-ad26-4995-aed0-8bc03d7180d0",
         "title": "Research Associate - Lti - School of Computer Science",
-        "active": true,
+        "active": false,
         "date_updated": 1770219597,
         "date_posted": 1770219597,
         "url": "https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Research-Associate----LTI---School-of-Computer-Science_2024127",
@@ -194460,7 +194460,7 @@
         "company_name": "EquipmentShare",
         "id": "11999972-b00d-4e68-b42a-8ed90d2224cb",
         "title": "Telematics Installer",
-        "active": true,
+        "active": false,
         "date_updated": 1770248334,
         "date_posted": 1770248334,
         "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=7589475",
@@ -199803,7 +199803,7 @@
         "company_name": "Sainsbury's",
         "id": "830700da-299b-4f3c-8370-bddeea8eaeb4",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1770505990,
         "date_posted": 1770505990,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048646",
@@ -206121,7 +206121,7 @@
         "company_name": "Sainsbury's",
         "id": "d0566368-18ed-4ef2-9151-c6deddfc97ce",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1770892076,
         "date_posted": 1770892076,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048647",
@@ -214675,7 +214675,7 @@
         "company_name": "Sainsbury's",
         "id": "82a2968f-4ad4-40e9-be19-c8c9deb110df",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1771427335,
         "date_posted": 1771427335,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050069",
@@ -216969,6 +216969,27 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "XPO",
+        "id": "8b67ff26-1a05-4c60-89ff-71ffa7f8c26a",
+        "title": "Scientist \u2013 Data Science for XPO Enterprise Services - LLC",
+        "active": true,
+        "date_updated": 1771492694,
+        "date_posted": 1770333192,
+        "url": "https://jobs.xpo.com/job/Portland-Scientist,-Data-Science-for-XPO-Enterprise-Services,-LLC_-OR-97209/1362413200/?ats=successfactors",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/XPO",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
