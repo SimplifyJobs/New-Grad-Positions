@@ -162606,7 +162606,7 @@
         "company_name": "Uline",
         "id": "98000eb8-6fac-4b4d-ac9e-d45c6b013b55",
         "title": "Associate Product Manager",
-        "active": true,
+        "active": false,
         "date_updated": 1768479419,
         "date_posted": 1768479419,
         "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Associate-Product-Manager_R260585-1",
@@ -210942,7 +210942,7 @@
         "company_name": "Johnson & Johnson",
         "id": "da65d877-654e-4f8e-a612-3b072d5fd05d",
         "title": "Postdoctoral Researcher Omics & Multimodal Data Integration",
-        "active": true,
+        "active": false,
         "date_updated": 1771248323,
         "date_posted": 1771248323,
         "url": "https://jj.wd5.myworkdayjobs.com/NonCompetetiveHiring/job/High-Wycombe-Buckinghamshire-United-Kingdom/Postdoctoral-Researcher-Omics---Multimodal-Data-Integration--R-D-Neuroscience-Data-Science---Digital-Health_R-056680-2",
@@ -213063,7 +213063,7 @@
         "company_name": "JP Morgan Chase",
         "id": "eebd2d36-240d-4bdf-964e-31773bd4b501",
         "title": "Trading Services Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1771370273,
         "date_posted": 1771370273,
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210711954",
@@ -216747,5 +216747,64 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Amentum",
+        "id": "d55d6241-35aa-4a28-982a-ac3a6e48fa27",
+        "title": "Electro/Mech Technician 1",
+        "active": true,
+        "date_updated": 1771497674,
+        "date_posted": 1771497674,
+        "url": "https://jacobs.taleo.net/careersection/ex3/jobdetail.ftl?job=ADV000CKH",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Amentum",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "WTW",
+        "id": "0fe64760-3e3f-4b6f-a607-94458b47a7d5",
+        "title": "Investment Analyst - Wealth Management",
+        "active": true,
+        "date_updated": 1771497442,
+        "date_posted": 1771497442,
+        "url": "https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202601176",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/WTW",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "7d570136-3dec-407f-913d-e912cbaabee1",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1771497079,
+        "date_posted": 1771497079,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050142",
+        "locations": [
+            "Chesterfield, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
