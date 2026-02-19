@@ -35,23 +35,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Chewy",
-        "id": "0ff73278-936e-4b1b-887e-58e6abb11ee3",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1750812825,
-        "date_posted": 1750782599,
-        "url": "https://boards.greenhouse.io/embed/job_app?token=6988045",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Chewy",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Cadence Design Systems",
         "id": "07d65df4-4bfc-4e78-87ec-484a0df20a8f",
@@ -1905,23 +1888,6 @@
         ],
         "company_url": "https://simplify.jobs/c/Coalition",
         "is_visible": false,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "WebFX",
-        "id": "a7bff833-62a9-4727-8191-01b4949dc26f",
-        "title": "Entry Level Software Engineer",
-        "active": false,
-        "date_updated": 1750781981,
-        "date_posted": 1750781981,
-        "url": "https://jobs.lever.co/webfx/7c15f9e7-6ca5-4188-887e-3b147485c58f/apply",
-        "locations": [
-            "Harrisburg, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/WebFX",
-        "is_visible": true,
         "sponsorship": "Other"
     },
     {
@@ -217344,5 +217310,25 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Hewlett Packard (HP)",
+        "id": "a954b525-39ed-411b-990b-860654bcb406",
+        "title": "Graduate Product Manager-Consumer Print",
+        "active": true,
+        "date_updated": 1771516629,
+        "date_posted": 1771516629,
+        "url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Reading-Berkshire-United-Kingdom/Category-Sales-Rep-Grad_3158428",
+        "locations": [
+            "Reading, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
