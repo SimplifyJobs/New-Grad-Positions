@@ -175518,7 +175518,7 @@
         "company_name": "Prairie View A&M University",
         "id": "6f66ab1b-433f-4ac9-84c9-28a7d33a0ef5",
         "title": "Postdoctoral Researcher",
-        "active": true,
+        "active": false,
         "date_updated": 1769126467,
         "date_posted": 1769126467,
         "url": "https://tamus.wd1.myworkdayjobs.com/pvamu_external/job/Prairie-View-TX/Postdoctoral-Researcher--PIER---Environmental-Data-Science-and-Artificial-Intelligence-_R-089857-1",
@@ -188836,7 +188836,7 @@
         "company_name": "Qualcomm",
         "id": "731136b5-7924-4038-b641-e232588ebcae",
         "title": "Software Engineer - Platform Test - Systems Test Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1770074371,
         "date_posted": 1770074371,
         "url": "https://qualcomm.eightfold.ai/careers/job/446715660321",
@@ -193719,7 +193719,7 @@
         "company_name": "Sonepar",
         "id": "78ac48bb-a3aa-4a35-bd3f-a96d0ccee239",
         "title": "Test Lab Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1770246471,
         "date_posted": 1770246471,
         "url": "https://career.sonepar.com/job/Fort-Worth-Test-Lab-Technician-TX-76118/1207159001/?ats=successfactors",
@@ -201874,7 +201874,7 @@
         "company_name": "Faculty AI",
         "id": "af167c7b-5780-4a52-ad60-7f665cece17b",
         "title": "Faculty Fellowship Programme - Data Science - May 2026",
-        "active": false,
+        "active": true,
         "date_updated": 1770707613,
         "date_posted": 1770707613,
         "url": "https://jobs.ashbyhq.com/faculty/766f9d2a-d40e-4ba3-a407-5157eda242c1/application",
@@ -212917,7 +212917,7 @@
         "company_name": "RTX",
         "id": "27974025-3d01-48cc-871c-2b7726b6bc5d",
         "title": "2026 Full Time-Raytheon FPGA Design Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1771370547,
         "date_posted": 1771370547,
         "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/XMLNAME-2026-Full-Time--Raytheon-FPGA-Design-Engineer-I--Onsite_01805513-1",
@@ -215179,7 +215179,7 @@
         "company_name": "Embry-Riddle Aeronautical University",
         "id": "8d556080-cd8e-45c3-a96c-2772eb1ca97b",
         "title": "Research Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1771456153,
         "date_posted": 1771456153,
         "url": "https://embryriddle.wd1.myworkdayjobs.com/External/job/Prescott-AZ/Part-Time-Temporary-Research-Technician--Prescott-Campus_R310987",
@@ -216707,7 +216707,7 @@
         "company_name": "The Boeing Company",
         "id": "b5509517-9392-44f1-b9c5-a76c66ed7e67",
         "title": "Product Data Management Engineer \u2013 Associate or Mid-Level - Config & Data Mgmt/Tech Integ",
-        "active": true,
+        "active": false,
         "date_updated": 1771499761,
         "date_posted": 1771459017,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Renton-WA/Product-Data-Management-Engineer---Config---Data-Mgmt-Tech-Integ--Associate-or-Mid-Level-_JR2026491114-1",
@@ -219566,5 +219566,23 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Dave & Busters",
+        "id": "d09428af-2607-45a7-a1f6-2e888d4306a0",
+        "title": "Support Technician",
+        "active": true,
+        "date_updated": 1771497909,
+        "date_posted": 1765623621,
+        "url": "https://daveandbusters.wd1.myworkdayjobs.com/dave_and_busters_careers/job/Wichita-KS/Support-Technician_R-1006562",
+        "locations": [
+            "Wichita, KS"
+        ],
+        "company_url": "https://simplify.jobs/c/Dave-And-Busters",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
