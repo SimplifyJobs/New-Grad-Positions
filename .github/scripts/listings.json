@@ -45182,7 +45182,7 @@
         "company_name": "Relativity Space",
         "id": "a7362af4-64e0-4965-913f-07b77fec304a",
         "title": "GNC Simulation Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1762905973,
         "date_posted": 1761960286,
         "url": "https://boards.greenhouse.io/relativity/jobs/8236930002",
@@ -201048,7 +201048,7 @@
         "company_name": "Microchip Technology",
         "id": "d14321e7-d479-4e54-9c53-f04fdeaff7e8",
         "title": "Engineer 1 - Software",
-        "active": true,
+        "active": false,
         "date_updated": 1770679368,
         "date_posted": 1770679368,
         "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/CO---Boulder/Engineer-I--Software_R518-26",
@@ -205622,7 +205622,7 @@
         "company_name": "EOS IT Solutions",
         "id": "adb426a5-16df-4add-9369-069e92f075ef",
         "title": "Infrastructure Repair Technician - Data Center",
-        "active": true,
+        "active": false,
         "date_updated": 1770863618,
         "date_posted": 1770863618,
         "url": "https://eosits.com/company/careers/?gh_jid=8419846002",
@@ -219470,5 +219470,23 @@
             "Bachelor's",
             "Associate's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Parafin",
+        "id": "f403fd62-44c2-4cbf-bad3-bfdbcb02b793",
+        "title": "Agentic AI Engineer",
+        "active": true,
+        "date_updated": 1771496897,
+        "date_posted": 1758246006,
+        "url": "https://jobs.ashbyhq.com/parafin/2dad66c2-a0f2-4379-92d6-797484c7206b/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Parafin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
