@@ -145926,7 +145926,7 @@
         "company_name": "The Boeing Company",
         "id": "df7c363f-4692-46f8-876d-a3dd8917fe9f",
         "title": "Systems Engineer - Entry Level",
-        "active": false,
+        "active": true,
         "date_updated": 1767397165,
         "date_posted": 1767397165,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Systems-Engineer--Entry-level--Associate-or-Experienced-Level-_JR2025464067-1",
@@ -157628,7 +157628,7 @@
         "company_name": "Bank of Montreal",
         "id": "5558b06f-abdf-4b7b-b2b7-a53f2749d7e0",
         "title": "Associate \u2013 Software Engineer - C#",
-        "active": false,
+        "active": true,
         "date_updated": 1768259998,
         "date_posted": 1768259998,
         "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Associate--Software-Engineer--C--_R260001080",
@@ -171917,7 +171917,7 @@
         "company_name": "AES",
         "id": "3314dbc2-37c7-47af-8dcd-8e7d887b1a72",
         "title": "Short Term Trader/Dispatcher 1",
-        "active": false,
+        "active": true,
         "date_updated": 1766445635,
         "date_posted": 1766445635,
         "url": "https://aes.wd1.myworkdayjobs.com/aes_clean_energy/job/US-Dayton-OH/Short-Term-Trader-Dispatcher-I_R1061617",
@@ -196892,7 +196892,7 @@
         "company_name": "Leidos",
         "id": "158a6ddf-d185-4369-b83c-5f1da5140d44",
         "title": "Database Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1770333750,
         "date_posted": 1770333750,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Aberdeen-Proving-Ground-MD/Database-Analyst_R-00175299",
@@ -199363,7 +199363,7 @@
         "company_name": "Cleveland Clinic",
         "id": "a76e7fcf-dcd5-404f-9c2e-a06d7287e672",
         "title": "Data Scientist 1 - Cancer Center",
-        "active": false,
+        "active": true,
         "date_updated": 1770422732,
         "date_posted": 1770422732,
         "url": "https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Remote-Location/Data-Scientist-I---Cancer-Center_312181-1",
@@ -218522,6 +218522,89 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Philips",
+        "id": "e5cdb51d-0a0f-47cb-8433-c8f69e908c03",
+        "title": "Usability & Human Factors Engineer",
+        "active": true,
+        "date_updated": 1771545836,
+        "date_posted": 1771545836,
+        "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/New-Kensington-Pennsylvania-United-States/Engineer--Usability---Human-Factors_576317-1",
+        "locations": [
+            "Tarentum, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Philips",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "The Boeing Company",
+        "id": "e3143f4f-de9f-4fb6-85cd-c743301a3846",
+        "title": "Entry Level Product Review Engineer - Liaison Engineering",
+        "active": true,
+        "date_updated": 1771545488,
+        "date_posted": 1771545488,
+        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---San-Antonio-TX/Entry-Level-Product-Review-Engineer--Liaison-Engineering-_JR2026494287-2",
+        "locations": [
+            "San Antonio, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Early Warning",
+        "id": "d864ce72-4014-4f4b-aa78-080844253247",
+        "title": "Automation Engineer - Robotic Process Automation",
+        "active": true,
+        "date_updated": 1771545504,
+        "date_posted": 1771545504,
+        "url": "https://earlywarning.wd5.myworkdayjobs.com/earlywarningcareers/job/Scottsdale/Automation-Engineer---RPA_REQ2026192",
+        "locations": [
+            "Scottsdale, AZ",
+            "Chicago, IL",
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Early-Warning",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "The Boeing Company",
+        "id": "d39712c0-bceb-4921-b0f3-e8580954d253",
+        "title": "Product Review Engineer - Liaison Engineering",
+        "active": true,
+        "date_updated": 1771545485,
+        "date_posted": 1771545485,
+        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---San-Antonio-TX/Product-Review-Engineer--Liaison-Engineering-_JR2026494286-1",
+        "locations": [
+            "San Antonio, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
