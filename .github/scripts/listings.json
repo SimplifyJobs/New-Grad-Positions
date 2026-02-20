@@ -84407,46 +84407,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Meta",
-        "id": "49f702c0-d178-44f7-b6c1-f008edfac8c6",
-        "title": "Software Engineer - Product",
-        "active": false,
-        "date_updated": 1756989397,
-        "date_posted": 1750835486,
-        "url": "https://www.metacareers.com/jobs/9818241978303850",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Meta",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Meta",
-        "id": "990b6ca4-a434-47e5-af9e-c59962fb0e7a",
-        "title": "Software Engineer - Product",
-        "active": true,
-        "date_updated": 1756988837,
-        "date_posted": 1750835486,
-        "url": "https://www.metacareers.com/jobs/592280103506066",
-        "locations": [
-            "Cambridge, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Meta",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Northwestern Mutual",
         "id": "33863275-2a05-41ff-bedb-8b3c2e3b8867",
@@ -147721,7 +147681,7 @@
         "company_name": "ASSA ABLOY",
         "id": "0c40e248-2851-4d72-9740-231b5e1e9081",
         "title": "Associate Product Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1767654902,
         "date_posted": 1767654902,
         "url": "https://assaabloy.jobs2web.com/job/Mason-City-Associate-Product-Engineer-IA-50401/1280375301/?ats=successfactors",
@@ -152256,7 +152216,7 @@
         "company_name": "Dover",
         "id": "f1aec1a3-2070-4c5c-8246-359622947a7b",
         "title": "Electronic Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1767828740,
         "date_posted": 1767828740,
         "url": "https://careers.dovercorporation.com/job/Salisbury-Electronic-Technician-MD-21801/1281152001/?ats=successfactors",
@@ -187151,7 +187111,7 @@
         "company_name": "Expedia Group",
         "id": "94abcf76-dd05-409b-a9bd-548ba4b9408a",
         "title": "Developer - Software",
-        "active": true,
+        "active": false,
         "date_updated": 1769826816,
         "date_posted": 1769826816,
         "url": "https://expedia.wd108.myworkdayjobs.com/search/job/Canada---Quebec---Montreal/Dveloppeur--euse--de-logiciels-I-2026--Montral_R-98560-1",
@@ -213345,7 +213305,7 @@
         "company_name": "Atos",
         "id": "3b6d7ad4-3e12-4b7d-9ffd-25db86e34348",
         "title": "Software Enginner",
-        "active": false,
+        "active": true,
         "date_updated": 1771369564,
         "date_posted": 1771369564,
         "url": "https://jobs.atos.net/job/Troy-Software-Enginner-IA/1365170933/?ats=successfactors",
@@ -218712,6 +218672,600 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Collabera",
+        "id": "f02d43f1-59ff-4696-9bb8-a4fbe1257d4a",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1771572002,
+        "date_posted": 1771572002,
+        "url": "https://jobs.smartrecruiters.com/Collabera2/83773995",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Collabera",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Collabera",
+        "id": "da8bee36-e25d-4828-abae-42e0ba09e3d2",
+        "title": "Web Administrator",
+        "active": true,
+        "date_updated": 1771571945,
+        "date_posted": 1771571945,
+        "url": "https://jobs.smartrecruiters.com/Collabera2/92389562",
+        "locations": [
+            "Oakland, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Collabera",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Collabera",
+        "id": "d4ad8cbd-fb31-4247-8378-42a86fb9622b",
+        "title": "Front-end Software Designer",
+        "active": true,
+        "date_updated": 1771571956,
+        "date_posted": 1771571956,
+        "url": "https://jobs.smartrecruiters.com/Collabera2/91727276",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Collabera",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Collabera",
+        "id": "b66cb5f7-4ce4-4163-8040-6fd06eb0ee09",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1771571989,
+        "date_posted": 1771571989,
+        "url": "https://jobs.smartrecruiters.com/Collabera2/88464493",
+        "locations": [
+            "Durham, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Collabera",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Collabera",
+        "id": "8084ec31-df80-427e-9074-35067b2d5506",
+        "title": "Engineer",
+        "active": true,
+        "date_updated": 1771572009,
+        "date_posted": 1771572009,
+        "url": "https://jobs.smartrecruiters.com/Collabera2/82869512",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Collabera",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "City and County of San Francisco",
+        "id": "3bd1e99f-97ba-49bc-8790-a377c0b0e6ca",
+        "title": "Fellows Program - Analyst Trainee",
+        "active": true,
+        "date_updated": 1771572150,
+        "date_posted": 1771572150,
+        "url": "https://jobs.smartrecruiters.com/CityAndCountyOfSanFrancisco1/3743990011383885",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/City-And-County-Of-San-Francisco",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Collabera",
+        "id": "f3bafc7b-13da-4ccc-a74b-82f3a05ee9f8",
+        "title": "NET Developer",
+        "active": true,
+        "date_updated": 1771571903,
+        "date_posted": 1771571903,
+        "url": "https://jobs.smartrecruiters.com/Collabera2/100415262",
+        "locations": [
+            "Mechanicsburg, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Collabera",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Collabera",
+        "id": "b7d377cb-6602-48e7-841a-eab30cde99a7",
+        "title": "Temp to Perm Websphere Integration Engineer - Entry",
+        "active": true,
+        "date_updated": 1771571933,
+        "date_posted": 1771571933,
+        "url": "https://jobs.smartrecruiters.com/Collabera2/96232684",
+        "locations": [
+            "Radcliff, KY"
+        ],
+        "company_url": "https://simplify.jobs/c/Collabera",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Collabera",
+        "id": "ad934536-7d76-474b-a12d-c07fd15abc08",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1771571912,
+        "date_posted": 1771571912,
+        "url": "https://jobs.smartrecruiters.com/Collabera2/96025426",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Collabera",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Collabera",
+        "id": "35e8ca00-935c-4c8f-8171-cf380c28e795",
+        "title": "Data Analysis",
+        "active": true,
+        "date_updated": 1771571937,
+        "date_posted": 1771571937,
+        "url": "https://jobs.smartrecruiters.com/Collabera2/93235247",
+        "locations": [
+            "Eagan, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Collabera",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Collabera",
+        "id": "27509ea7-2e69-4ba3-a39c-9a2c60b239cf",
+        "title": "Software Developer - Java",
+        "active": true,
+        "date_updated": 1771571982,
+        "date_posted": 1771571982,
+        "url": "https://jobs.smartrecruiters.com/Collabera2/89098842",
+        "locations": [
+            "Eagan, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Collabera",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Comtech",
+        "id": "c75be3ad-129e-4754-a1cd-4d7b467e9940",
+        "title": "O&M Application Middleware Administrator",
+        "active": true,
+        "date_updated": 1771571720,
+        "date_posted": 1771571720,
+        "url": "https://jobs.smartrecruiters.com/ComtechLLC2/104094947",
+        "locations": [
+            "Silver Spring, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Comtech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Comtech",
+        "id": "587ee087-8618-4256-a650-edb13f26ee80",
+        "title": "Software Development Engineer - Android/iOS",
+        "active": true,
+        "date_updated": 1771571707,
+        "date_posted": 1771571707,
+        "url": "https://jobs.smartrecruiters.com/ComtechLLC2/109140560",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Comtech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Comtech",
+        "id": "0dfe3a46-a02f-471b-b722-3c0845b74153",
+        "title": "Platform Developer",
+        "active": true,
+        "date_updated": 1771571679,
+        "date_posted": 1771571679,
+        "url": "https://jobs.smartrecruiters.com/ComtechLLC2/743999653581274",
+        "locations": [
+            "Lewisville, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Comtech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Consultadd Public Services",
+        "id": "fc077165-994d-480e-a1f5-4037f1b7f4bc",
+        "title": "Web Developer",
+        "active": true,
+        "date_updated": 1771571505,
+        "date_posted": 1771571505,
+        "url": "https://jobs.smartrecruiters.com/Consultadd4/83942301",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Consultadd-Public-Services",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "City and County of San Francisco",
+        "id": "ecd46ec2-9a4d-4ffd-81dc-4ad401afb5c3",
+        "title": "Assistant Information Systems Engineer - Applications Specialty",
+        "active": true,
+        "date_updated": 1771571439,
+        "date_posted": 1771571439,
+        "url": "https://jobs.smartrecruiters.com/CityAndCountyOfSanFrancisco1/3743990002931816",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/City-And-County-Of-San-Francisco",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Consultadd Public Services",
+        "id": "e70a6298-4295-4103-9bd0-c71132bdc2a4",
+        "title": "Python Developer",
+        "active": true,
+        "date_updated": 1771571510,
+        "date_posted": 1771571510,
+        "url": "https://jobs.smartrecruiters.com/Consultadd4/83402860",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Consultadd-Public-Services",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Boyd Gaming",
+        "id": "e5c58951-c23f-4073-a316-c8e1a3ccc335",
+        "title": "Slot Technician 1",
+        "active": true,
+        "date_updated": 1771571524,
+        "date_posted": 1771571524,
+        "url": "https://jobs.smartrecruiters.com/BoydGaming/3743990011686712",
+        "locations": [
+            "Mason City, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/Boyd-Gaming",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Consultadd Public Services",
+        "id": "d76147e1-85c4-4280-b10a-475d7e7d0915",
+        "title": "Web Developer",
+        "active": true,
+        "date_updated": 1771571504,
+        "date_posted": 1771571504,
+        "url": "https://jobs.smartrecruiters.com/Consultadd4/83938985",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Consultadd-Public-Services",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Consultadd Public Services",
+        "id": "cd515d44-ab4f-4999-b63f-cf646fcdf20c",
+        "title": "Web Developer",
+        "active": true,
+        "date_updated": 1771571527,
+        "date_posted": 1771571527,
+        "url": "https://jobs.smartrecruiters.com/Consultadd4/84363641",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Consultadd-Public-Services",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Consultadd Public Services",
+        "id": "ab0f0ce8-2bb0-47fd-af66-28975701445a",
+        "title": "Software Developer",
+        "active": true,
+        "date_updated": 1771571537,
+        "date_posted": 1771571537,
+        "url": "https://jobs.smartrecruiters.com/Consultadd4/86162033",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Consultadd-Public-Services",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Consultadd Public Services",
+        "id": "a2d5fd3d-4229-48f6-825c-46ab5d830520",
+        "title": "Python Developer",
+        "active": true,
+        "date_updated": 1771571513,
+        "date_posted": 1771571513,
+        "url": "https://jobs.smartrecruiters.com/Consultadd4/83313554",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Consultadd-Public-Services",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Consultadd Public Services",
+        "id": "76ed2ff9-24da-4222-9eaa-1634a844253c",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1771571510,
+        "date_posted": 1771571510,
+        "url": "https://jobs.smartrecruiters.com/Consultadd4/85050289",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Consultadd-Public-Services",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Consultadd Public Services",
+        "id": "6d05498d-b179-4732-b1bf-1d5be0bf6f35",
+        "title": "Web developer",
+        "active": true,
+        "date_updated": 1771571508,
+        "date_posted": 1771571508,
+        "url": "https://jobs.smartrecruiters.com/Consultadd4/83940151",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Consultadd-Public-Services",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Consultadd Public Services",
+        "id": "5cbf5a0a-7c10-4880-b936-73372c67f329",
+        "title": "Python Developer",
+        "active": true,
+        "date_updated": 1771571528,
+        "date_posted": 1771571528,
+        "url": "https://jobs.smartrecruiters.com/Consultadd4/87644936",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Consultadd-Public-Services",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Career Guidant",
+        "id": "501825d2-2214-4430-972f-4910bc758ed6",
+        "title": "Salesforce Developer 1 - Architect",
+        "active": true,
+        "date_updated": 1771571509,
+        "date_posted": 1771571509,
+        "url": "https://jobs.smartrecruiters.com/CareerGuidant/111709000",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Career-Guidant",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Career Guidant",
+        "id": "30abb8fc-d2a1-4fbb-84b7-439ed15610b9",
+        "title": "Java with Spring Boot",
+        "active": true,
+        "date_updated": 1771571492,
+        "date_posted": 1771571492,
+        "url": "https://jobs.smartrecruiters.com/CareerGuidant/114050960",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Career-Guidant",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Consultadd Public Services",
+        "id": "28026292-cafa-4127-a7e7-ea980ab5ddef",
+        "title": "Entery level web developer",
+        "active": true,
+        "date_updated": 1771571517,
+        "date_posted": 1771571517,
+        "url": "https://jobs.smartrecruiters.com/Consultadd4/83941565",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Consultadd-Public-Services",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Consultadd Public Services",
+        "id": "1b714aab-b048-4a93-9695-d2b8e296d4fc",
+        "title": "Hiring H1B",
+        "active": true,
+        "date_updated": 1771571516,
+        "date_posted": 1771571516,
+        "url": "https://jobs.smartrecruiters.com/Consultadd4/83746061",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Consultadd-Public-Services",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Consultadd Public Services",
+        "id": "0feed693-981e-4e08-8b5c-c552dde2d841",
+        "title": "Software Developer",
+        "active": true,
+        "date_updated": 1771571509,
+        "date_posted": 1771571509,
+        "url": "https://jobs.smartrecruiters.com/Consultadd4/84199346",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Consultadd-Public-Services",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Western Digital",
+        "id": "9cf6a484-f66b-4638-92a8-c159994f9932",
+        "title": "Early Career Talent - Electronics Design Engineering",
+        "active": true,
+        "date_updated": 1771571256,
+        "date_posted": 1771571256,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000110304414",
+        "locations": [
+            "Rochester, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Digital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
         ]
     }
 ]
