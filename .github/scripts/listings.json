@@ -155933,7 +155933,7 @@
         "company_name": "ITS Logistics",
         "id": "a5ab742b-8937-4b50-b1ef-ff8788585e03",
         "title": "Associate Product Manager",
-        "active": true,
+        "active": false,
         "date_updated": 1768002817,
         "date_posted": 1768002817,
         "url": "https://job-boards.greenhouse.io/itslogisticsllc/jobs/4077522008",
@@ -169837,7 +169837,7 @@
         "company_name": "CVS Health",
         "id": "e333039b-232d-4817-8a6f-db9fdf181e98",
         "title": "Data Scientist - Machine Learning & Deep Learning",
-        "active": true,
+        "active": false,
         "date_updated": 1769031722,
         "date_posted": 1769031722,
         "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Data-Scientist---Machine-Learning---Deep-Learning_R0760932",
@@ -220666,5 +220666,209 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "EquipmentShare",
+        "id": "b72b7d26-b0b8-45a4-92b8-0026293f2ecb",
+        "title": "Telematics Installer",
+        "active": true,
+        "date_updated": 1771467935,
+        "date_posted": 1771467935,
+        "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=7630584",
+        "locations": [
+            "Gainesville, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Equipment-Share",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Capital One",
+        "id": "6755d625-6c73-4cdc-bf3d-098fafbdb2d9",
+        "title": "Senior Associate - Product Manager - Capital One Travel",
+        "active": true,
+        "date_updated": 1771602182,
+        "date_posted": 1771602182,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Senior-Associate--Product-Manager---Capital-One-Travel_R235932",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Capital-One",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Elavon",
+        "id": "1fd62984-4c49-453b-add8-41deedb56742",
+        "title": "ESG Risk and Data Analyst",
+        "active": true,
+        "date_updated": 1771602217,
+        "date_posted": 1771602217,
+        "url": "https://usbank.wd1.myworkdayjobs.com/Elavon_Careers/job/Loughlinstown-Ireland/ESG-Risk-and-Data-Analyst_2026-0003474-1",
+        "locations": [
+            "London, UK",
+            "Dublin, Ireland"
+        ],
+        "company_url": "https://simplify.jobs/c/Elavon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "U.S. Bank",
+        "id": "bba73d2d-71c2-4ea1-b55b-015d3d1965a0",
+        "title": "ESG Risk and Data Analyst",
+        "active": true,
+        "date_updated": 1771601862,
+        "date_posted": 1771601862,
+        "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Loughlinstown-Ireland/ESG-Risk-and-Data-Analyst_2026-0003474",
+        "locations": [
+            "London, UK",
+            "Dublin, Ireland"
+        ],
+        "company_url": "https://simplify.jobs/c/US-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Latitude AI",
+        "id": "a17e8fc3-8bf3-446d-9ac8-7012a5ec8a53",
+        "title": "Bench Technician Associate - Greenville - SC",
+        "active": true,
+        "date_updated": 1771601925,
+        "date_posted": 1771601925,
+        "url": "https://job-boards.greenhouse.io/latitude/jobs/7629654",
+        "locations": [
+            "Greenville, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/LatitudeAI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cox",
+        "id": "16dd6c33-7f27-49e7-acd5-6a43b91192a5",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1771601763,
+        "date_posted": 1771601763,
+        "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA---6205-Peachtree-Dunwoody-Rd-Bldg-A/Software-Engineer-I_R202672269",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cox",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Amentum",
+        "id": "0908e4cd-581f-4494-be40-bff2564e1429",
+        "title": "Electrical Test Engineering Lab Technician",
+        "active": true,
+        "date_updated": 1771601737,
+        "date_posted": 1771601737,
+        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-IN-Crane/Electrical-Test-Engineering-Lab-Technician_R0154435",
+        "locations": [
+            "Bedford, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Amentum",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Elsevier",
+        "id": "e1c4ca1c-b720-4d17-87aa-f33baa6a0f0b",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1771601219,
+        "date_posted": 1771601219,
+        "url": "https://relx.wd3.myworkdayjobs.com/ElsevierJobs/job/Philadelphia-PA/Software-Engineer-I_R107469",
+        "locations": [
+            "Delaware",
+            "Jackson Township, NJ",
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Elsevier",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Highmark Health",
+        "id": "c89407c9-b32b-424e-ad73-897fb69f0a93",
+        "title": "Associate Data Solutions Analyst",
+        "active": true,
+        "date_updated": 1771601518,
+        "date_posted": 1771601518,
+        "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Associate-Data-Solutions-Analyst_J277300",
+        "locations": [
+            "Pennsylvania"
+        ],
+        "company_url": "https://simplify.jobs/c/Highmark-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "EquipmentShare",
+        "id": "dc9b41a0-57da-49d3-afc1-aa2f211f8fdf",
+        "title": "Telematics Installer",
+        "active": true,
+        "date_updated": 1771601084,
+        "date_posted": 1771601084,
+        "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=7635507",
+        "locations": [
+            "La Porte, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Equipment-Share",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
