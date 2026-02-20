@@ -82034,7 +82034,7 @@
         "company_name": "Schweitzer Engineering Laboratories",
         "id": "36bf56bc-91ab-43fb-b4c7-9b7121c5f350",
         "title": "Embedded Firmware Engineer - Embedded Systems",
-        "active": true,
+        "active": false,
         "date_updated": 1762446141,
         "date_posted": 1754068187,
         "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Embedded-Firmware-Engineer_2024-15456",
@@ -177736,7 +177736,7 @@
         "company_name": "Redfin",
         "id": "f43593d6-086e-4ec1-a335-4916ed94bec9",
         "title": "Software Developer 1 - One Stop Shop",
-        "active": true,
+        "active": false,
         "date_updated": 1769470605,
         "date_posted": 1769470605,
         "url": "https://redfin.wd1.myworkdayjobs.com/redfin_careers/job/WA---Seattle/Software-Developer-I---One-Stop-Shop_59698-2",
@@ -200607,7 +200607,7 @@
         "company_name": "Uber",
         "id": "f69dcab7-606f-45e8-8681-eb6e32b3b23c",
         "title": "Graduate 2026 PhD Scientist 2 - AEA/ASSA Economists Only - US",
-        "active": true,
+        "active": false,
         "date_updated": 1770678732,
         "date_posted": 1770678732,
         "url": "https://university-uber.icims.com/jobs/151823/job?mobile=true&needsRedirect=false",
@@ -213345,7 +213345,7 @@
         "company_name": "Atos",
         "id": "3b6d7ad4-3e12-4b7d-9ffd-25db86e34348",
         "title": "Software Enginner",
-        "active": true,
+        "active": false,
         "date_updated": 1771369564,
         "date_posted": 1771369564,
         "url": "https://jobs.atos.net/job/Troy-Software-Enginner-IA/1365170933/?ats=successfactors",
@@ -217666,7 +217666,7 @@
         "company_name": "Sainsbury's",
         "id": "f83b8cbb-7e18-4e1a-be5f-e8dd0589fa68",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1771542628,
         "date_posted": 1771542628,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050125",
@@ -218593,5 +218593,125 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Applied Materials",
+        "id": "8016ba22-80d3-4fbe-86e5-b593c075bd70",
+        "title": "Systems Engineer New College Grad - Doctorate Degree - Santa Clara, CA",
+        "active": true,
+        "date_updated": 1771556003,
+        "date_posted": 1771556003,
+        "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Systems-Engineer-New-College-Grad---Doctorate-Degree--Santa-Clara--CA-_R2518847",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Materials",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Stryker",
+        "id": "f3e8742b-d07b-4c4c-a8d0-97b232ff91f1",
+        "title": "Portfolio Associate - Upper Extremities",
+        "active": true,
+        "date_updated": 1771555044,
+        "date_posted": 1771555044,
+        "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Columbia-City-Indiana/Portfolio-Associate--Upper-Extremities_R559746",
+        "locations": [
+            "Columbia City, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Stryker",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "CAE",
+        "id": "b3e26bcc-b36f-43bf-a5a5-4c3c48cb75f9",
+        "title": "Technician 1",
+        "active": true,
+        "date_updated": 1771555114,
+        "date_posted": 1771555114,
+        "url": "https://cae.wd3.myworkdayjobs.com/career/job/Orlando/Technician-I_119846",
+        "locations": [
+            "Orlando, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/0584b8e0-c24c-4b9b-9e06-b2484d8779bf",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Johnson & Johnson",
+        "id": "9c64e3ca-8955-4640-b274-b2880ad23128",
+        "title": "Postdoctoral Scientist Data Science AI/ML & DH",
+        "active": true,
+        "date_updated": 1771555307,
+        "date_posted": 1771555307,
+        "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Cambridge-Massachusetts-United-States-of-America/Postdoctoral-Scientist-Data-Science-AI-ML---DH_R-058941-1",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Johnson-Johnson",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Expedia Group",
+        "id": "d71e76af-5fa6-469f-b9a5-992df66e6b01",
+        "title": "Software Development Engineer 1",
+        "active": true,
+        "date_updated": 1771554674,
+        "date_posted": 1771554674,
+        "url": "https://expedia.wd108.myworkdayjobs.com/private/job/Washington---Seattle-Campus/Software-Development-Engineer-I_R-102463-2",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Expedia-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Expedia Group",
+        "id": "9d0be779-7d1d-42b9-b26a-e895e46f136e",
+        "title": "Software Development Engineer 1",
+        "active": true,
+        "date_updated": 1771554676,
+        "date_posted": 1771554676,
+        "url": "https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Software-Development-Engineer-I_R-102463",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Expedia-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
