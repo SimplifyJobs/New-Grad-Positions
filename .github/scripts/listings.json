@@ -220870,5 +220870,25 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Boeing Company",
+        "id": "0f27de0d-edf6-4740-9e39-467903e2f40e",
+        "title": "Entry Level Software Engineer - Developer",
+        "active": true,
+        "date_updated": 1771469141,
+        "date_posted": 1771469141,
+        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tukwila-WA/Entry-Level-Software-Engineer---Developer_JR2026497210-1",
+        "locations": [
+            "Tukwila, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
