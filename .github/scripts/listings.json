@@ -218554,5 +218554,44 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Equip Health",
+        "id": "e517a70f-d995-4b36-8f7d-dc3e710fd608",
+        "title": "Product Support Associate",
+        "active": true,
+        "date_updated": 1771553650,
+        "date_posted": 1771553650,
+        "url": "https://jobs.ashbyhq.com/equip/56316fdb-35e1-4fa2-a23b-d512fda9388a/application",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Equip-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Electronic Arts",
+        "id": "4833c303-bbd4-455b-9390-6d18c567f60c",
+        "title": "Lead Scripter",
+        "active": true,
+        "date_updated": 1771553652,
+        "date_posted": 1771553652,
+        "url": "https://jobs.ea.com/en_US/careers/JobDetail/Lead-Scripter/212835",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Electronic-Arts",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
