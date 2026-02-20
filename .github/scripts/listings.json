@@ -26882,7 +26882,7 @@
         "company_name": "Graphcore",
         "id": "2a8dc926-14c4-469a-a90b-89ad57e7fc6f",
         "title": "2026 Graduate Software Engineer - Kernel Engineering Team",
-        "active": false,
+        "active": true,
         "date_updated": 1762274143,
         "date_posted": 1762274143,
         "url": "https://job-boards.greenhouse.io/graphcore/jobs/8230202002",
@@ -166217,7 +166217,7 @@
         "company_name": "Nextech Systems",
         "id": "d9e7c472-ede1-4bb9-b15c-2c948f76f72e",
         "title": "Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1768616379,
         "date_posted": 1768616379,
         "url": "https://jobs.lever.co/nextech/099609da-26cc-4fc2-aaeb-7aec86f343ca/apply",
@@ -176944,7 +176944,7 @@
         "company_name": "JP Morgan Chase",
         "id": "88d37046-5ca8-45e7-93ee-e76ea7b5227f",
         "title": "Data Scientist Associate - Payments Data & Analytics",
-        "active": false,
+        "active": true,
         "date_updated": 1769469332,
         "date_posted": 1769469332,
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210696388",
@@ -192560,7 +192560,7 @@
         "company_name": "JINGDONG",
         "id": "26235c12-915d-4a39-ba09-ac583587eb00",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1770190139,
         "date_posted": 1770190139,
         "url": "https://jd.wd103.myworkdayjobs.com/Campus_Career_Site/job/London/Software-Engineer--JD-Star-Program-_JR101687",
@@ -202906,7 +202906,7 @@
         "company_name": "JP Morgan Chase",
         "id": "4e89a09a-9920-4a3b-a85d-364eb70b94d7",
         "title": "Investment Grade Fixed Income - Pricing Direct Evaluator - Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1770765528,
         "date_posted": 1770765528,
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210710263",
@@ -207805,7 +207805,7 @@
         "company_name": "Worldpay",
         "id": "874270db-2832-40aa-8f4e-fb8693f1a297",
         "title": "Data Scientist 1",
-        "active": false,
+        "active": true,
         "date_updated": 1770938988,
         "date_posted": 1770938988,
         "url": "https://worldpay.wd5.myworkdayjobs.com/Worldpay_External_Careers_Site/job/BOSTON-MASSACHUSETTS/Data-Scientist-I_JR0608698",
@@ -212513,7 +212513,7 @@
         "company_name": "Nextech Systems",
         "id": "7d4e3886-07ea-4da8-959b-f21961cd78cc",
         "title": "Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1771341026,
         "date_posted": 1771341026,
         "url": "https://jobs.lever.co/nextech/f941fd47-8283-40f7-a5aa-a48b6446733c/apply",
@@ -217086,7 +217086,7 @@
         "company_name": "Sainsbury's",
         "id": "42641f0f-fa50-4110-bb5e-0be92f387df1",
         "title": "Trading Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1771513794,
         "date_posted": 1771513794,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050224",
@@ -220814,7 +220814,7 @@
         "company_name": "Elsevier",
         "id": "e1c4ca1c-b720-4d17-87aa-f33baa6a0f0b",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1771601219,
         "date_posted": 1771601219,
         "url": "https://relx.wd3.myworkdayjobs.com/ElsevierJobs/job/Philadelphia-PA/Software-Engineer-I_R107469",
@@ -220885,6 +220885,400 @@
             "Tukwila, WA"
         ],
         "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Intertek",
+        "id": "359f2377-045e-4728-929b-a8aa606fd717",
+        "title": "Engineer Hazardous Locations - Hazloc - Plano TX",
+        "active": true,
+        "date_updated": 1771629470,
+        "date_posted": 1771629470,
+        "url": "https://hcog.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/14075",
+        "locations": [
+            "Plano, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Intertek",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jerry",
+        "id": "f3f2b126-e071-4381-960e-a2d5b8bb7ab3",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1771629411,
+        "date_posted": 1771629411,
+        "url": "https://jobs.ashbyhq.com/jerry.ai/3b3a6ddd-7a44-4485-8768-151d8786400e/application",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Giga AI",
+        "id": "c6bf92cb-94ab-43a0-9033-c7be58351211",
+        "title": "Software Engineer \u2013 New Grads",
+        "active": true,
+        "date_updated": 1771629347,
+        "date_posted": 1771629347,
+        "url": "https://jobs.ashbyhq.com/gigaml/7314c5c1-e3d0-4439-ad9f-b3b09d4dde51/application",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Giga-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Halliburton",
+        "id": "9929f0de-fadf-4e48-9c7d-746bfa51a0f9",
+        "title": "Cable Technician 1",
+        "active": true,
+        "date_updated": 1771629345,
+        "date_posted": 1771629345,
+        "url": "https://jobs.halliburton.com/job/Hermleigh-Cable-Technician-I-TX-79526/1366613600/?ats=successfactors",
+        "locations": [
+            "Roscoe, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Halliburton",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "WSP",
+        "id": "90356915-d4a1-48ae-8a73-e3b76f8ee533",
+        "title": "Early Career Geologist",
+        "active": true,
+        "date_updated": 1771629239,
+        "date_posted": 1771629239,
+        "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/81083",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/WSP",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Giga AI",
+        "id": "785696d3-7074-4d82-8efb-f45a8f0ba828",
+        "title": "Software Engineer \u2013 New Grads - Vancouver",
+        "active": true,
+        "date_updated": 1771629347,
+        "date_posted": 1771629347,
+        "url": "https://jobs.ashbyhq.com/gigaml/fa3c51b7-cfe0-48ff-9b32-57ecab5ceb4f/application",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Giga-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Giga AI",
+        "id": "23e33f26-3a42-4fb5-9910-93c79b50e859",
+        "title": "Software Engineer 1 / 2 - New York",
+        "active": true,
+        "date_updated": 1771629329,
+        "date_posted": 1771629329,
+        "url": "https://jobs.ashbyhq.com/gigaml/ba9b543d-e85c-4bd1-978b-f838d7a4062f/application",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Giga-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "f44e51e5-d56d-4b09-b4a5-9b6e3bf966a7",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1771629099,
+        "date_posted": 1771629099,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050443",
+        "locations": [
+            "Northwich, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "d0e9df40-d7f6-4113-8697-ee83b4dba3b6",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1771629090,
+        "date_posted": 1771629090,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050428",
+        "locations": [
+            "Fleet, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The University of Chicago Medicine",
+        "id": "c6958dfc-4b37-4c2d-a803-6876eba3f61d",
+        "title": "Clinical Data Analyst Registry - Inpatient Coder",
+        "active": true,
+        "date_updated": 1771629116,
+        "date_posted": 1771629116,
+        "url": "https://careers-ucm.icims.com/jobs/81826/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/The-University-Of-Chicago-Medicine",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Honeywell",
+        "id": "b543773b-5b5c-45dc-a639-851b84a8a0ec",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1771629169,
+        "date_posted": 1771629169,
+        "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/139984",
+        "locations": [
+            "Clearwater, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Honeywell",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "7ca04a1a-a7da-4688-bb81-b1966d6abe0d",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1771629093,
+        "date_posted": 1771629093,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050436",
+        "locations": [
+            "Cardiff, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "79e3cca1-6c3b-4f82-837d-e5851577312e",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1771629100,
+        "date_posted": 1771629100,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050445",
+        "locations": [
+            "Northwich, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "58cb67fd-7cf7-423b-be85-2f14bc95506e",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1771629111,
+        "date_posted": 1771629111,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050444",
+        "locations": [
+            "Cardiff, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Community Health Systems",
+        "id": "3b63efc8-8575-4c61-9b69-6ab6a68b904e",
+        "title": "Master Data Management Analyst",
+        "active": true,
+        "date_updated": 1771629123,
+        "date_posted": 1771629123,
+        "url": "https://fa-evxo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/143448",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Community-Health-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "General Dynamics",
+        "id": "2139f126-4196-47a2-b23c-bfcf4d2a2295",
+        "title": "Special Projects Systems Integration Engineer - Comm Systems",
+        "active": true,
+        "date_updated": 1771629076,
+        "date_posted": 1771629076,
+        "url": "https://careers-gdeb.icims.com/jobs/17940/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Groton, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Acuren",
+        "id": "17f1219a-0773-44fb-ac6d-a140a0c0712c",
+        "title": "Nondestructive Testing Assistant",
+        "active": true,
+        "date_updated": 1771629170,
+        "date_posted": 1771629170,
+        "url": "https://uscareers-acuren.icims.com/jobs/17738/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Billings, MT"
+        ],
+        "company_url": "https://simplify.jobs/c/Acuren",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Nokia",
+        "id": "0fe36706-a7a6-4e9f-bd33-2e2fc16225a8",
+        "title": "Photonics Lab Technician",
+        "active": true,
+        "date_updated": 1771629083,
+        "date_posted": 1771629083,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/31831",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Nokia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Citizens Financial Group",
+        "id": "94a8e64d-7470-4fd8-bf70-6a741abbc068",
+        "title": "Platform Product Owner",
+        "active": true,
+        "date_updated": 1771628762,
+        "date_posted": 1771628762,
+        "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/43661",
+        "locations": [
+            "Phoenix, AZ",
+            "Providence, RI",
+            "Norwood, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Citizens-Financial-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Johnson County Government",
+        "id": "8e824a0c-500d-4606-88a7-de37dd4ca3c2",
+        "title": "Developer Analyst 1",
+        "active": true,
+        "date_updated": 1771628709,
+        "date_posted": 1771628709,
+        "url": "https://careers-jocogov.icims.com/jobs/3587/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Olathe, KS"
+        ],
+        "company_url": "https://simplify.jobs/c/Johnson-County-Government",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
