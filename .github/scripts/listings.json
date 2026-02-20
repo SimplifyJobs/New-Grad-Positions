@@ -48289,7 +48289,7 @@
         "company_name": "Sunco Lighting",
         "id": "48f216cd-b6c8-4a72-81b1-c69fef3e93a6",
         "title": "Associate Product Manager (Hardware)",
-        "active": true,
+        "active": false,
         "date_updated": 1761907061,
         "date_posted": 1761907061,
         "url": "https://ats.rippling.com/sunco-lighting/jobs/1ee9432b-51f0-4740-b2d8-c209325eca26",
@@ -134743,7 +134743,7 @@
         "company_name": "Heidi Health",
         "id": "c3503a82-a241-4574-8e3a-7072c29e5b19",
         "title": "Frontend Website Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1766400778,
         "date_posted": 1766400778,
         "url": "https://jobs.ashbyhq.com/heidihealth.com.au/026f306a-beab-47dd-bf86-f1d4ec34884a/application",
@@ -187338,7 +187338,7 @@
         "company_name": "Dominion Energy",
         "id": "de0957ad-91c2-4c61-80d0-801c8e52d428",
         "title": "Load Forecasting Engineer \u2013 Engineer/Senior/Staff - Engineering Analytics & Modeling",
-        "active": true,
+        "active": false,
         "date_updated": 1769858035,
         "date_posted": 1769858035,
         "url": "https://careers.dominionenergy.com/job/GLEN-ALLEN-Load-Forecasting-Engineer-(EngineerSeniorStaff)-Engineering-Analytics-&-Modeling-VA-23060/1360725700/?ats=successfactors",
@@ -189588,7 +189588,7 @@
         "company_name": "Expedia Group",
         "id": "c6a8b9f2-d41b-4045-a001-23b565c64952",
         "title": "Machine Learning Science Graduate - PhD - 2026",
-        "active": true,
+        "active": false,
         "date_updated": 1770076045,
         "date_posted": 1770076045,
         "url": "https://expedia.wd108.myworkdayjobs.com/search/job/USA---California---San-Jose/Machine-Learning-Science-Graduate---PhD---2026---San-Jose--Seattle_R-98587-2",
@@ -206110,7 +206110,7 @@
         "company_name": "Amazon",
         "id": "40376ce7-1646-4417-9ec8-5b9aa3777f5d",
         "title": "AI Data Associate - French - Artificial General Intelligence",
-        "active": true,
+        "active": false,
         "date_updated": 1770892093,
         "date_posted": 1764778449,
         "url": "https://amazon.jobs/en/jobs/3136504/ai-data-associate-french-artificial-general-intelligence",
@@ -206134,7 +206134,7 @@
         "company_name": "Amazon",
         "id": "8d5ea051-7365-4fc6-afc7-4ce059493592",
         "title": "AI Data Associate - Artificial General Intelligence",
-        "active": true,
+        "active": false,
         "date_updated": 1770892092,
         "date_posted": 1764778454,
         "url": "https://amazon.jobs/en/jobs/3136515/ai-data-associate-french-artificial-general-intelligence",
@@ -212569,7 +212569,7 @@
         "company_name": "Sainsbury's",
         "id": "4c119e43-b965-499f-837c-ee57a17bf253",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1771341089,
         "date_posted": 1771341089,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400049820",
@@ -219508,5 +219508,23 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "0d7d44a4-4853-412f-86c5-3ba2f7327715",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1771583249,
+        "date_posted": 1771583249,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400049768",
+        "locations": [
+            "Essex, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
