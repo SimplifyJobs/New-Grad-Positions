@@ -202788,7 +202788,7 @@
         "company_name": "Quanta Services",
         "id": "e1d138c5-1a23-4e6a-a5d5-a7d44327fb02",
         "title": "Low Voltage Technician--Savannah - Georgia",
-        "active": true,
+        "active": false,
         "date_updated": 1770764849,
         "date_posted": 1770764849,
         "url": "https://careers-quanta.icims.com/jobs/13634/job?mobile=true&needsRedirect=false",
@@ -207845,7 +207845,7 @@
         "company_name": "GE Healthcare",
         "id": "4f1ee269-c323-48ce-b5d4-830b6a161d29",
         "title": "Field Service Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1770938804,
         "date_posted": 1770938804,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1--MRI----Baltimore--MD_R4030391-2",
@@ -219649,6 +219649,26 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "IDEX",
+        "id": "b6c476e5-3dab-4ec5-a888-1a1bf3983290",
+        "title": "Precision Grinding - Optics",
+        "active": true,
+        "date_updated": 1771590981,
+        "date_posted": 1769514428,
+        "url": "https://idexcorp.wd5.myworkdayjobs.com/idex_careers/job/Portage-Michigan/CNC-Machinist_R-08273",
+        "locations": [
+            "Portage, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/IDEX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
