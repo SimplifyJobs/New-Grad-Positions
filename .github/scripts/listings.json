@@ -195908,7 +195908,7 @@
         "company_name": "GSK",
         "id": "65a3b949-2743-40fc-b9ed-ad3f5b8a676d",
         "title": "Analyst \u2013 Artificial Intelligence Policy",
-        "active": true,
+        "active": false,
         "date_updated": 1770333965,
         "date_posted": 1770333965,
         "url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/London-The-Stanley-Building/Analyst--Artificial-Intelligence-Policy--Fixed-Term-Contract-_435215-1",
@@ -199271,7 +199271,7 @@
         "company_name": "Cleveland Clinic",
         "id": "a76e7fcf-dcd5-404f-9c2e-a06d7287e672",
         "title": "Data Scientist 1 - Cancer Center",
-        "active": true,
+        "active": false,
         "date_updated": 1770422732,
         "date_posted": 1770422732,
         "url": "https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Remote-Location/Data-Scientist-I---Cancer-Center_312181-1",
@@ -213792,7 +213792,7 @@
         "company_name": "Blue Origin",
         "id": "175de2c3-24d3-42d5-8371-c3e40591e242",
         "title": "Technician - Assembly & Integration - All Levels/All Shifts",
-        "active": true,
+        "active": false,
         "date_updated": 1771372831,
         "date_posted": 1771372831,
         "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Space-Coast-FL/Technician---Assembly---Integration--All-Levels-All-Shifts-_R60817",
@@ -218052,7 +218052,7 @@
         "company_name": "Guidehouse",
         "id": "fa96c22f-9016-4812-97c1-13ad9cd2679b",
         "title": "Data Analyst/FM Product Consultant",
-        "active": true,
+        "active": false,
         "date_updated": 1771544623,
         "date_posted": 1771544623,
         "url": "https://guidehouse.wd1.myworkdayjobs.com/external/job/US---VA-McLean/Data-Analyst-FM-Product-Consultant_36596",
@@ -219665,6 +219665,28 @@
             "Portage, MI"
         ],
         "company_url": "https://simplify.jobs/c/IDEX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "SS&C",
+        "id": "8b6a60e9-9116-4c7c-8588-29c6400aab88",
+        "title": "Product Solutions Analyst",
+        "active": true,
+        "date_updated": 1771591563,
+        "date_posted": 1770940450,
+        "url": "https://wd1.myworkdaysite.com/recruiting/ssctech/SSCTechnologies/job/Boston-MA/Solutions-Engineer_R40939",
+        "locations": [
+            "NYC",
+            "Chicago, IL",
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/SSC",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
