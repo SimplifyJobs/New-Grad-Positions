@@ -1,40 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "USAA",
-        "id": "d3f775c8-7ee2-4b66-aa3b-9d6fd945d0e1",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1750813369,
-        "date_posted": 1750813369,
-        "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Software-Engineer-I_R0110441",
-        "locations": [
-            "San Antonio, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/664e9aa2-3c0e-4e96-9048-739e08b37a63",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Guidewire",
-        "id": "edfced35-ecac-4306-b9bd-2a3536f637e5",
-        "title": "Machine Learning Engineer I - Generative AI",
-        "active": false,
-        "date_updated": 1750813323,
-        "date_posted": 1750813323,
-        "url": "https://wd5.myworkdaysite.com/en-US/recruiting/guidewire/external/job/United-States---San-Mateo-CA/Machine-Learning-Engineer-I--Generative-AI_JR_13363",
-        "locations": [
-            "San Mateo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Guidewire",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Cadence Design Systems",
         "id": "07d65df4-4bfc-4e78-87ec-484a0df20a8f",
@@ -84478,24 +84444,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Celonis",
-        "id": "677b5a1f-cac6-4de4-8d8d-b7e56611d25e",
-        "title": "Associate Value Engineer - AI-Driven Data Science & Analytics - Orbit Program",
-        "active": false,
-        "date_updated": 1761889434,
-        "date_posted": 1750814416,
-        "url": "https://job-boards.greenhouse.io/celonis/jobs/6620068003?gh_jid=6620068003",
-        "locations": [
-            "Raleigh, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Celonis",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -176895,7 +176843,7 @@
         "company_name": "Plusgrade",
         "id": "9b79660a-29e2-45a8-8d98-0dcd4cc00dcc",
         "title": "Integrateur Integrator",
-        "active": true,
+        "active": false,
         "date_updated": 1769469516,
         "date_posted": 1769469516,
         "url": "https://jobs.lever.co/plusgrade/b2398e0f-c727-4596-942b-6ee38cf33b82/apply",
