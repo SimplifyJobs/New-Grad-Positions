@@ -176821,7 +176821,7 @@
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "iSoftStone",
-        "id": "4565e67d-2790-4700-a44f-21497935c66a",
+        "id": "68fa3265-2aef-4620-91de-b9dc986a6293",
         "title": "Data Analyst",
         "active": true,
         "date_updated": 1769469607,
@@ -183026,7 +183026,7 @@
         "company_name": "CoLab Software",
         "id": "702b0a1a-e8f4-4eed-9876-3eb8b15085af",
         "title": "Application Security Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1769701252,
         "date_posted": 1769701252,
         "url": "https://job-boards.greenhouse.io/colabsoftware/jobs/5097539008",
@@ -200080,7 +200080,7 @@
         "company_name": "Sainsbury's",
         "id": "80d8e321-82fc-4d02-b275-0c5b5e722cf0",
         "title": "Trading Assistant - Shift",
-        "active": false,
+        "active": true,
         "date_updated": 1770632854,
         "date_posted": 1770632854,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048722",
@@ -205662,7 +205662,7 @@
         "company_name": "EOS IT Solutions",
         "id": "0b6bb669-a1e7-4a3d-bf5f-a72fbea4c475",
         "title": "Infrastructure Repair Technician - Data Center",
-        "active": true,
+        "active": false,
         "date_updated": 1770863619,
         "date_posted": 1770863619,
         "url": "https://eosits.com/company/careers/?gh_jid=8419843002",
@@ -210612,7 +210612,7 @@
         "company_name": "Goodnotes",
         "id": "20443b1a-7a60-4d70-9c62-24bb5d18a5ea",
         "title": "Machine Learning Researcher \u2013 Fresh Graduates are welcome - Handwriting",
-        "active": true,
+        "active": false,
         "date_updated": 1771226525,
         "date_posted": 1762532293,
         "url": "https://job-boards.greenhouse.io/goodnotes/jobs/5569058004",
@@ -210816,7 +210816,7 @@
         "company_name": "Johnson & Johnson",
         "id": "da65d877-654e-4f8e-a612-3b072d5fd05d",
         "title": "Postdoctoral Researcher Omics & Multimodal Data Integration",
-        "active": false,
+        "active": true,
         "date_updated": 1771248323,
         "date_posted": 1771248323,
         "url": "https://jj.wd5.myworkdayjobs.com/NonCompetetiveHiring/job/High-Wycombe-Buckinghamshire-United-Kingdom/Postdoctoral-Researcher-Omics---Multimodal-Data-Integration--R-D-Neuroscience-Data-Science---Digital-Health_R-056680-2",
@@ -219526,5 +219526,45 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Maven Securities",
+        "id": "323ae085-bca0-41b4-aaf5-12697ce1a76a",
+        "title": "Trading Analyst",
+        "active": true,
+        "date_updated": 1771584657,
+        "date_posted": 1771584657,
+        "url": "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/7633996",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Maven-Securities",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Banco Bilbao Vizcaya Argentaria",
+        "id": "0f881a05-d2ce-487b-ae2a-6737ace68f39",
+        "title": "Data & AI Enablement - CIB Risk Unit Associate",
+        "active": true,
+        "date_updated": 1771584940,
+        "date_posted": 1771035695,
+        "url": "https://bbva.wd3.myworkdayjobs.com/BBVA/job/LONDON/Data---AI-Enablement---CIB-Risk-Unit-Associate_JR00095049-2",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Banco-Bilbao-Vizcaya-Argentaria",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
