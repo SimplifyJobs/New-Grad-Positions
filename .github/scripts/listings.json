@@ -84873,7 +84873,7 @@
         "company_name": "Verisk",
         "id": "01d91a0d-df34-43b0-b62c-c6fc83ade33f",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1763162387,
         "date_posted": 1763162387,
         "url": "https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2708",
@@ -180168,7 +180168,7 @@
         "company_name": "Embry-Riddle Aeronautical University",
         "id": "309d1278-5da8-4c69-b939-254b37a47db3",
         "title": "Tenure-Track Faculty Position with a focus on Aviation Operations and Machine Learning/AI in the. - Daytona Beach Campus",
-        "active": false,
+        "active": true,
         "date_updated": 1769584450,
         "date_posted": 1769584450,
         "url": "https://embryriddle.wd1.myworkdayjobs.com/External/job/Daytona-Beach-FL/Tenure-Track-Faculty-Position-with-a-focus-on-Aviation-Operations-and-Machine-Learning-AI-in-the-School-of-Graduate-Studies--Daytona-Beach-Campus_R309969",
@@ -196356,7 +196356,7 @@
         "company_name": "Microsoft",
         "id": "85b8e5c4-2220-49c4-83a7-eb0ced866a2c",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1770332789,
         "date_posted": 1770332789,
         "url": "https://apply.careers.microsoft.com/careers/job/1970393556631184",
@@ -204162,7 +204162,7 @@
         "company_name": "The Boeing Company",
         "id": "84c7a093-631d-4f94-9cfa-798e9da33c5e",
         "title": "Entry-Level or Associate Product Review Engineer - Liaison Engineering - B/C Shift",
-        "active": false,
+        "active": true,
         "date_updated": 1770766979,
         "date_posted": 1770766979,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Huntsville-AL/Entry-Level-or-Associate-Product-Review-Engineer--Liaison-Engineering---B-C-Shift----Patriot-Advanced-Capability-3--PAC-3-_JR2026495904-1",
@@ -219584,5 +219584,71 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "777ba8e7-2854-478a-be99-fe3b2a7836e0",
+        "title": "Fulltime-Systems Engineer 2",
+        "active": true,
+        "date_updated": 1771590318,
+        "date_posted": 1771457716,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/XMLNAME-2026--Fulltime--Electronic-Systems-Engineer-II-Onsite_01825193",
+        "locations": [
+            "Fort Wayne, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Brock University",
+        "id": "ad5d7194-fa9f-4f1d-8347-e3ac693bba12",
+        "title": "Canada Impact+ Emerging Leader in Sustainable Systems Engineering for Digital Agriculture - Assistant Professor or Associate Professor - Tenure Track",
+        "active": true,
+        "date_updated": 1771589853,
+        "date_posted": 1771455776,
+        "url": "https://brocku.wd3.myworkdayjobs.com/brocku_careers/job/St-Catharines-Main-Campus/Canada-Impact--Emerging-Leader-in-Sustainable-Systems-Engineering-for-Digital-Agriculture--Assistant-Professor-or-Associate-Professor--Tenure-Track-_JR-1022986",
+        "locations": [
+            "Niagara Falls, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Brock-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "GlobalFoundries",
+        "id": "08e95179-4f48-4db4-84bd-c1510f1905af",
+        "title": "AI Enablement Strategist \u2013 New College Graduate",
+        "active": true,
+        "date_updated": 1771588742,
+        "date_posted": 1769867704,
+        "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/Austin/AI-Enablement-Strategist_JR-2600122",
+        "locations": [
+            "NYC",
+            "Bengaluru, Karnataka, India",
+            "Dresden, Germany",
+            "Austin, TX",
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/GlobalFoundries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
