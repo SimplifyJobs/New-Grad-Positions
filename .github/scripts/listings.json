@@ -150740,7 +150740,7 @@
         "company_name": "The Boeing Company",
         "id": "dbb18e75-9c12-4854-8e10-b59cb3a2bf59",
         "title": "Software Engineer-Embedded",
-        "active": true,
+        "active": false,
         "date_updated": 1767774012,
         "date_posted": 1767774012,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/United-States---Remote/EstradaClint-6J7GI3-Software-Engineer-Embedded_JR2025487886-1",
@@ -201144,7 +201144,7 @@
         "company_name": "CAE",
         "id": "d960e19e-7557-4f44-af0c-d4a4a10cb7c4",
         "title": "Weapons Aero Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1770680050,
         "date_posted": 1770680050,
         "url": "https://cae.wd3.myworkdayjobs.com/career/job/Arlington-TX/Weapons-Aero-Software-Engineer_120371",
@@ -204162,7 +204162,7 @@
         "company_name": "The Boeing Company",
         "id": "84c7a093-631d-4f94-9cfa-798e9da33c5e",
         "title": "Entry-Level or Associate Product Review Engineer - Liaison Engineering - B/C Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1770766979,
         "date_posted": 1770766979,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Huntsville-AL/Entry-Level-or-Associate-Product-Review-Engineer--Liaison-Engineering---B-C-Shift----Patriot-Advanced-Capability-3--PAC-3-_JR2026495904-1",
@@ -215629,7 +215629,7 @@
         "company_name": "Solera Holdings",
         "id": "e34f8d9e-18fd-4a87-86bb-96b9c23c647b",
         "title": "Data Quality Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1771458399,
         "date_posted": 1771458399,
         "url": "https://solera.wd5.myworkdayjobs.com/global_career_site/job/Eagan-Minnesota/Data-Quality-Analyst---Eagan--MN_JR-018974",
@@ -219687,6 +219687,26 @@
             "Boston, MA"
         ],
         "company_url": "https://simplify.jobs/c/SSC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Aptiv",
+        "id": "6b7370a3-0424-4079-b851-38fe61391ae4",
+        "title": "Associate Engineer - Board Support Packages",
+        "active": true,
+        "date_updated": 1771595222,
+        "date_posted": 1771595222,
+        "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Associate-Engineer---Board-Support-Packages_J000694075",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Aptiv",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
