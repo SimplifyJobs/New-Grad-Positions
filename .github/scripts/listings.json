@@ -210077,7 +210077,7 @@
         "company_name": "Honeywell",
         "id": "aa03d250-d300-4b2f-9c9b-eecd756e30c4",
         "title": "Data Analyst 1",
-        "active": true,
+        "active": false,
         "date_updated": 1771035101,
         "date_posted": 1771035101,
         "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/139407",
@@ -213731,7 +213731,7 @@
         "company_name": "NextEra Energy",
         "id": "c0ed6112-ee5f-48e9-b1d0-189cebe698d2",
         "title": "Financial Data Science Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1771370306,
         "date_posted": 1771370306,
         "url": "https://jobs.nexteraenergy.com/job/Miami-Financial-Data-Science-Analyst-FL-33134/1365436300/?ats=successfactors",
@@ -217662,7 +217662,7 @@
         "company_name": "Sainsbury's",
         "id": "dfbc4b2c-94a0-4aa6-a078-f1f8ace5622d",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1771542619,
         "date_posted": 1771542619,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050296",
@@ -217719,7 +217719,7 @@
         "company_name": "Sainsbury's",
         "id": "cbee98f7-2166-4769-9803-6d1d3d630412",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1771542620,
         "date_posted": 1771542620,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050297",
@@ -219488,5 +219488,25 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "ISYS Technologies",
+        "id": "3de2bdae-683a-4dfd-959f-3d2a2940a335",
+        "title": "Product Manager 1",
+        "active": true,
+        "date_updated": 1771579391,
+        "date_posted": 1771369574,
+        "url": "https://careers-i2xisys.icims.com/jobs/14850/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/ISYS-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
