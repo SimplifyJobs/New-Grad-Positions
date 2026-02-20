@@ -150286,7 +150286,7 @@
         "company_name": "Brink",
         "id": "e124bd0c-22b6-44ee-ae79-7e005d1ee083",
         "title": "ATM Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1767743114,
         "date_posted": 1767743114,
         "url": "https://brinks.wd5.myworkdayjobs.com/brinkscareersus/job/Columbus-OH/ATM-Technician_R68495",
@@ -163835,7 +163835,7 @@
         "company_name": "SharkNinja",
         "id": "d2dae2df-bf0b-490e-81cf-0cead761b1c0",
         "title": "Associate Product Developer - Shark Corded",
-        "active": true,
+        "active": false,
         "date_updated": 1768519884,
         "date_posted": 1768519884,
         "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4645149006",
@@ -169837,7 +169837,7 @@
         "company_name": "CVS Health",
         "id": "e333039b-232d-4817-8a6f-db9fdf181e98",
         "title": "Data Scientist - Machine Learning & Deep Learning",
-        "active": false,
+        "active": true,
         "date_updated": 1769031722,
         "date_posted": 1769031722,
         "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Data-Scientist---Machine-Learning---Deep-Learning_R0760932",
@@ -207961,7 +207961,7 @@
         "company_name": "Stryker",
         "id": "16549875-e60d-46cf-bf9f-27e945e8f4e4",
         "title": "Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1770940802,
         "date_posted": 1770940802,
         "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Dallas-Texas/OnSite-Specialist---Ft-Worth--TX_R560102",
@@ -219266,6 +219266,209 @@
         "sponsorship": "Other",
         "degrees": [
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Walmart",
+        "id": "f8040dc6-a47d-4099-9943-632c3a0165de",
+        "title": "Staff Data Scientist",
+        "active": true,
+        "date_updated": 1771546084,
+        "date_posted": 1771546084,
+        "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/Staff--Data-Scientist_R-2416855",
+        "locations": [
+            "Bentonville, AR"
+        ],
+        "company_url": "https://simplify.jobs/c/Walmart",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Arconic",
+        "id": "f4f33809-347c-4599-8127-e47a5442617d",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1771542724,
+        "date_posted": 1771542724,
+        "url": "https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/113544",
+        "locations": [
+            "West Lafayette, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Arconic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TWG Global",
+        "id": "e735f84d-c645-477e-9e7a-c441b7ceb4c3",
+        "title": "Associate Software Engineer - AI Engineering",
+        "active": true,
+        "date_updated": 1771542876,
+        "date_posted": 1771542876,
+        "url": "https://apply.workable.com/twgai/j/BA666BB5DE/apply",
+        "locations": [
+            "Santa Monica, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TWG-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CVS Health",
+        "id": "ba929db8-dd9c-41f9-bf75-c1a7b28b5156",
+        "title": "Data Scientist",
+        "active": true,
+        "date_updated": 1771546212,
+        "date_posted": 1771546212,
+        "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Data-Scientist_R0837452",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/CVS-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Light & Wonder",
+        "id": "b305b428-2102-4190-acfb-e330727818f1",
+        "title": "Field Service Tech 2",
+        "active": true,
+        "date_updated": 1771542348,
+        "date_posted": 1771542348,
+        "url": "https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/New-York-US/FIELD-SERVICE-TECH-II_R321566",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Light-And-Wonder",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "USAA",
+        "id": "a4cd67c6-2100-47c3-9521-63a67966aa0c",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1771542729,
+        "date_posted": 1771542729,
+        "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/Phoenix-Campus-Main/Software-Engineer-I_R0115569",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/USAA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Light & Wonder",
+        "id": "74e64682-64a7-45de-a13c-ccbb6a6c0d02",
+        "title": "Field Service Tech 2",
+        "active": true,
+        "date_updated": 1771542367,
+        "date_posted": 1771542367,
+        "url": "https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/New-York-US/FIELD-SERVICE-TECH-II_R321570",
+        "locations": [
+            "Queens, NY",
+            "Jackson Township, NJ",
+            "Waterbury, CT",
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Light-And-Wonder",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "NVIDIA",
+        "id": "49c78cff-7e69-4412-b2da-9b33a4a8b6de",
+        "title": "Formal Verification Engineer \u2013 New College Grad 2026",
+        "active": true,
+        "date_updated": 1771543464,
+        "date_posted": 1771543464,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Formal-Verification-Engineer---New-College-Grad-2026_JR2013674",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Kodak",
+        "id": "420e15fd-43ee-461d-a05d-b3e5af65d245",
+        "title": "Opto-Mechanical Technician",
+        "active": true,
+        "date_updated": 1771542359,
+        "date_posted": 1771542359,
+        "url": "https://careers.kodak.com/job/Burnaby-Opto-Mechanical-Technician-Brit-V5G-4P5/1366323800/?ats=successfactors",
+        "locations": [
+            "Burnaby, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Kodak",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "General Dynamics",
+        "id": "31bc8e5e-07d1-48d6-9471-b09531d237f9",
+        "title": "Business Data Analyst 1",
+        "active": true,
+        "date_updated": 1771542676,
+        "date_posted": 1771542676,
+        "url": "https://careers-gd-ots.icims.com/jobs/35695/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "St. Petersburg, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
         ]
     }
 ]
