@@ -61972,7 +61972,7 @@
         "company_name": "Viridien",
         "id": "32630a1c-ac89-42c9-8670-0fc8eb773446",
         "title": "Researcher",
-        "active": true,
+        "active": false,
         "date_updated": 1759828750,
         "date_posted": 1759828750,
         "url": "https://cgg.wd103.myworkdayjobs.com/viridiencareers/job/Crawley-United-Kingdom/Researcher_JR100977",
@@ -96628,7 +96628,7 @@
         "company_name": "NOV",
         "id": "722c0a52-002a-4641-879c-05a4ffe1bf28",
         "title": "Application Engineer - Drilling Solutions",
-        "active": true,
+        "active": false,
         "date_updated": 1763666319,
         "date_posted": 1763666319,
         "url": "https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/37785",
@@ -101962,7 +101962,7 @@
         "company_name": "Viridien",
         "id": "ea30bf77-1030-4770-992a-b3687c59a3d2",
         "title": "Seismic Imaging Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1763910016,
         "date_posted": 1763910016,
         "url": "https://cgg.wd103.myworkdayjobs.com/viridiencareers/job/Houston-United-States-of-America/Seismic-Imaging-Analyst_JR101070-2",
@@ -134690,7 +134690,7 @@
         "company_name": "Viridien",
         "id": "b9618c4f-5db6-4ca6-9c55-d7d5f5875951",
         "title": "Seismic Imaging Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1766431897,
         "date_posted": 1766431897,
         "url": "https://cgg.wd103.myworkdayjobs.com/viridiencareers/job/Calgary-Canada/Seismic-Imaging-Analyst_JR101104-2",
@@ -155618,7 +155618,7 @@
         "company_name": "RTX",
         "id": "f8d0a933-7c85-45da-abd7-90c792b7c280",
         "title": "Assembly/Test 1",
-        "active": true,
+        "active": false,
         "date_updated": 1768001112,
         "date_posted": 1768001112,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HKS31-US041-Lenexa-KS-15701-W-95th-Street---Lenexa-KS-66219-USA/Assembly-Test-1_01813506",
@@ -201758,7 +201758,7 @@
         "company_name": "Applied Materials",
         "id": "15aa5a64-af85-4d54-8f9b-89634ac9af19",
         "title": "Software Engineer - New College Grad-Master's",
-        "active": false,
+        "active": true,
         "date_updated": 1770691882,
         "date_posted": 1770691882,
         "url": "https://amat.wd1.myworkdayjobs.com/External/job/ChandlerAZ/Software-Engineer--New-College-Grad--Master-s--Chandler--AZ-_R2612590",
@@ -212442,7 +212442,7 @@
         "company_name": "Sainsbury's",
         "id": "cb6479da-725c-4208-975d-bcf1283ce0ec",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1771341076,
         "date_posted": 1771341076,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400049624",
@@ -212819,7 +212819,7 @@
         "company_name": "Expedia Group",
         "id": "290ffc94-28ff-44dd-a074-b2f5b7adb3f5",
         "title": "Software Development Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1771342507,
         "date_posted": 1771342507,
         "url": "https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Software-Development-Engineer-I_R-102289-1",
@@ -220467,7 +220467,7 @@
         "company_name": "Sainsbury's",
         "id": "e0b6dac1-d207-4fdd-9ba0-2cf94ed44258",
         "title": "Trading Assistant - Local",
-        "active": true,
+        "active": false,
         "date_updated": 1771600098,
         "date_posted": 1771600098,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050360",
@@ -221097,7 +221097,7 @@
         "company_name": "Sainsbury's",
         "id": "7ca04a1a-a7da-4688-bb81-b1966d6abe0d",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1771629093,
         "date_posted": 1771629093,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050436",
@@ -221838,5 +221838,101 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "O'Reilly Auto Parts",
+        "id": "c4e7c571-c61d-4a8a-a6ab-6415de632355",
+        "title": "Electronic Catalog Technician",
+        "active": true,
+        "date_updated": 1771632705,
+        "date_posted": 1771632705,
+        "url": "https://oreillyauto.wd1.myworkdayjobs.com/oreilly/job/Store-03149-Phoenix-AZ/Electronic-Catalog-Technician-1_R165324",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/OReilly-Auto-Parts",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Cleveland Clinic",
+        "id": "acc02593-2ced-40d3-93fc-c5b2d69c5359",
+        "title": "Investment Data Analytics Analyst 1",
+        "active": true,
+        "date_updated": 1771632055,
+        "date_posted": 1771632055,
+        "url": "https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Administrative-Campus/Investment-Data-Analytics-Analyst_319352-1",
+        "locations": [
+            "Orange, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Cleveland-Clinic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Argonne National Laboratory",
+        "id": "ea89cc66-9578-4f20-b3ab-b8d3e3a57c50",
+        "title": "Postdoctoral Researcher - Electrochemical Energy Storage Modeling - Batpac",
+        "active": true,
+        "date_updated": 1771631966,
+        "date_posted": 1771631966,
+        "url": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Researcher---Electrochemical-Energy-Storage-Modeling--BatPaC-_421989-1",
+        "locations": [
+            "Woodridge, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Argonne-National-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Micron Technology",
+        "id": "c704acc6-eaba-4328-b18d-dfdb78c8ee31",
+        "title": "New College Grad - Fab Support Engineer",
+        "active": true,
+        "date_updated": 1771631927,
+        "date_posted": 1771631927,
+        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Manassas-VA----Fab-6/Sr-Fab-Support-Engineer_JR88698",
+        "locations": [
+            "Manassas, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Micron-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Aggreko",
+        "id": "17435888-b2b5-4578-aa84-41c58c8d7340",
+        "title": "OFA Technician",
+        "active": true,
+        "date_updated": 1771631985,
+        "date_posted": 1771631985,
+        "url": "https://aggreko.wd3.myworkdayjobs.com/aggreko_careers_1/job/Doncaster/OFA-Technician--Field-Based-_JR19307",
+        "locations": [
+            "Sheffield, UK",
+            "Newcastle upon Tyne, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Aggreko",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
