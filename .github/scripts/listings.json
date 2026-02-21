@@ -1,23 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Dell Technologies",
-        "id": "e097616a-224c-4c1e-bf4d-fd77f732f834",
-        "title": "Hardware Engineer 1",
-        "active": false,
-        "date_updated": 1750904375,
-        "date_posted": 1750904375,
-        "url": "https://dell.wd1.myworkdayjobs.com/External/job/Hopkinton-Massachusetts-United-States/Hardware-Engineer-1_R268814-1",
-        "locations": [
-            "Westborough, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Dell-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Uber",
         "id": "4c0d4dbd-c42e-4279-abb7-88e0835a51dd",
@@ -133524,7 +133507,7 @@
         "company_name": "Varian",
         "id": "0a82ce36-2e0f-4ec4-8869-7028c1defa19",
         "title": "Field Service Engineer - Proton Therapy - Columbus OH",
-        "active": false,
+        "active": true,
         "date_updated": 1766186387,
         "date_posted": 1766186387,
         "url": "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/SKH-25/Field-Service-Engineer--Proton-Therapy---Columbus--OH_R-25167-1",
@@ -202589,7 +202572,7 @@
         "company_name": "Red Bull",
         "id": "d302356d-0304-490a-89db-eb719d4ca615",
         "title": "Graduate Program - On Premise Insights & Analytics",
-        "active": true,
+        "active": false,
         "date_updated": 1770765202,
         "date_posted": 1770765202,
         "url": "https://jobs.smartrecruiters.com/RedBull/744000108617053",
@@ -206737,7 +206720,7 @@
         "company_name": "Franklin Templeton",
         "id": "e7aa78ed-8adb-4444-95e0-a4a266b69402",
         "title": "Associate AI Enablement - Putnam Equity",
-        "active": false,
+        "active": true,
         "date_updated": 1770938383,
         "date_posted": 1770938383,
         "url": "https://franklintempleton.wd5.myworkdayjobs.com/Primary-External-1/job/Boston-Massachusetts-United-States-of-America/Associate--AI-Enablement--Putnam-Equity-_866665-1",
@@ -216994,7 +216977,7 @@
         "company_name": "Sainsbury's",
         "id": "ddc807a5-9bc7-404c-a7e4-9fd7f3060066",
         "title": "Trading Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1771513821,
         "date_posted": 1771513821,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050232",
@@ -221934,5 +221917,129 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "NVIDIA",
+        "id": "55dd328c-ae78-4740-870d-9f942c28651f",
+        "title": "AI Developer Technology Engineer - Financial Sector",
+        "active": true,
+        "date_updated": 1771640593,
+        "date_posted": 1771640593,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Developer-Technology-Engineer--Financial-Sector---New-College-Grad-2026_JR2013803",
+        "locations": [
+            "Remote in USA",
+            "NYC",
+            "Santa Clara, CA",
+            "Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "American Express",
+        "id": "e926f253-86c1-4b6f-9ea6-a9228ce77826",
+        "title": "Associate \u2013 Digital Product Management",
+        "active": true,
+        "date_updated": 1771640095,
+        "date_posted": 1771640095,
+        "url": "https://aexp.eightfold.ai/careers/job/40312543",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/American-Express",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "ad5b3d1f-fd4c-4dd3-aae9-ca7d3e2d9dc5",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1771640201,
+        "date_posted": 1771640201,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050477",
+        "locations": [
+            "Canterbury, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Salesforce",
+        "id": "9c9d72e2-4773-4a77-b5c5-5776ba645c14",
+        "title": "Software Engineering AMTS/MTS \u2013 College Grad",
+        "active": true,
+        "date_updated": 1771640186,
+        "date_posted": 1771640186,
+        "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS-MTS--College-Grad-_JR330400-1",
+        "locations": [
+            "Palo Alto, CA",
+            "SF",
+            "Bellevue, WA",
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Salesforce",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Oracle",
+        "id": "3a77caa4-2992-4b3c-85bc-ac4bfa07a978",
+        "title": "User Experience Engineer",
+        "active": true,
+        "date_updated": 1771640039,
+        "date_posted": 1771640039,
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/327720",
+        "locations": [
+            "Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Oracle",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Western Digital",
+        "id": "567634ab-4202-406b-a1cf-5c0fcc2936dc",
+        "title": "Early Career Talent - Metrology Engineer - Optical & Physical,Ph.D. Only",
+        "active": true,
+        "date_updated": 1771639679,
+        "date_posted": 1771639679,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000110493255",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Digital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
     }
 ]
