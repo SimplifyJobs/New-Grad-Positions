@@ -1,25 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Uber",
-        "id": "4c0d4dbd-c42e-4279-abb7-88e0835a51dd",
-        "title": "Software Engineer I - Authorization Platform",
-        "active": false,
-        "date_updated": 1750909208,
-        "date_posted": 1750909208,
-        "url": "https://www.uber.com/global/en/careers/list/145253/",
-        "locations": [
-            "Seattle, WA",
-            "SF",
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Uber",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Cadence Design Systems",
         "id": "86ce04a9-7603-4349-9b12-07db7eff5c74",
