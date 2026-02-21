@@ -3,23 +3,6 @@
         "source": "Simplify",
         "category": "Hardware",
         "company_name": "Cadence Design Systems",
-        "id": "86ce04a9-7603-4349-9b12-07db7eff5c74",
-        "title": "C++ Software Engineer \u2013 New College Grad",
-        "active": false,
-        "date_updated": 1750913214,
-        "date_posted": 1750913214,
-        "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/Burlington-MA/C---Software-Engineer--New-College-Grad--Burlington--MA---Greater-Boston-_R50665-1",
-        "locations": [
-            "Burlington, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Cadence Design Systems",
         "id": "33be3440-ff6f-49af-b2a0-82beedfc4f37",
         "title": "C++ Software Engineer \u2013 New College Graduate",
         "active": false,
@@ -118755,24 +118738,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Skild AI",
-        "id": "589eda5f-6e37-44b6-bbfd-2b18500dd181",
-        "title": "Robot Operator",
-        "active": true,
-        "date_updated": 1765242388,
-        "date_posted": 1750913715,
-        "url": "https://job-boards.greenhouse.io/skildai-careers/jobs/4782103008",
-        "locations": [
-            "San Mateo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Skild-AI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "SpotOn",
         "id": "4866aaea-e156-4428-93c0-80ea1e8467f2",
@@ -197847,7 +197812,7 @@
         "company_name": "Sainsbury's",
         "id": "9fde64a5-2a83-4f72-a968-7d8ab58bc50c",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1770390608,
         "date_posted": 1770390608,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048511",
