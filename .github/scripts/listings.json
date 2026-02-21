@@ -49185,7 +49185,7 @@
         "company_name": "ByteDance",
         "id": "ea7e4e85-fd95-40c5-949e-d72f34089775",
         "title": "Graduate Research Scientist - Foundation Model - Video Generation",
-        "active": true,
+        "active": false,
         "date_updated": 1762926483,
         "date_posted": 1761902088,
         "url": "https://jobs.bytedance.com/en/position/7406115237839014171/detail",
@@ -49278,7 +49278,7 @@
         "company_name": "ByteDance",
         "id": "d8cd3f8f-dcc4-4721-a7d9-170cce6b8842",
         "title": "Research Scientist Graduate - Foundation Model-Multimodal - 2026 Start\uff08PhD\uff09",
-        "active": true,
+        "active": false,
         "date_updated": 1761902074,
         "date_posted": 1761902074,
         "url": "https://jobs.bytedance.com/en/position/7472872797213395218/detail",
@@ -49332,7 +49332,7 @@
         "company_name": "ByteDance",
         "id": "bb8c7b17-9548-40b4-b9f2-db830fd05d13",
         "title": "Research Scientist Graduate - Foundation Model-Music - 2026 Start(PhD)",
-        "active": true,
+        "active": false,
         "date_updated": 1761902077,
         "date_posted": 1761902077,
         "url": "https://jobs.bytedance.com/en/position/7397591474168645897/detail",
@@ -74606,7 +74606,7 @@
         "company_name": "ByteDance",
         "id": "5e6599f9-c22b-4539-a213-0e841aa12096",
         "title": "Research Scientist - Reinforcement Learning",
-        "active": true,
+        "active": false,
         "date_updated": 1761939524,
         "date_posted": 1761912909,
         "url": "https://jobs.bytedance.com/en/position/7533306565148281095/detail",
@@ -129164,7 +129164,7 @@
         "company_name": "Motorola",
         "id": "f886ac32-17c2-49e3-aca9-6eae324ccbf0",
         "title": "Electronics Technician 1 - Overnight",
-        "active": true,
+        "active": false,
         "date_updated": 1765929334,
         "date_posted": 1765929334,
         "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Los-Angeles-CA/Electronics-Test-and-Assembly-Technician--Overnight---Entry-Level-_R60437",
@@ -173281,7 +173281,7 @@
         "company_name": "LG Electronics",
         "id": "70e36165-669b-4cba-9976-e1e0b13baced",
         "title": "Embodied AI Researcher",
-        "active": true,
+        "active": false,
         "date_updated": 1769124767,
         "date_posted": 1764530958,
         "url": "https://job-boards.greenhouse.io/lgelectronics/jobs/4946382008",
@@ -193085,7 +193085,7 @@
         "company_name": "CBC/Radio-Canada",
         "id": "5eaea5c6-336c-4e87-bde0-b2c077bfd7ea",
         "title": "Staging Technician - On Call - French Services",
-        "active": false,
+        "active": true,
         "date_updated": 1770219816,
         "date_posted": 1770219816,
         "url": "https://cbcrc.wd3.myworkdayjobs.com/CBC_Radio-Canada_Jobs/job/Montreal-QC/Technicienne-ou-Technicien-de-plateau--Surnumraire---Services-franais-_JR00006847-1",
@@ -218123,7 +218123,7 @@
         "company_name": "Cracker Barrel",
         "id": "8b79999c-9cd4-4249-b65b-9806ae0e279d",
         "title": "Business Data Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1771544488,
         "date_posted": 1771544488,
         "url": "https://cbrlgroup.wd5.myworkdayjobs.com/CrackerBarrelExternal/job/305-Hartmann-Drive-Lebanon-Tennessee-37087-2519/Business-Data-Analyst_JR18895-1",
@@ -222040,6 +222040,48 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Abbott",
+        "id": "b2a2aa46-988e-4b81-9ebb-d2ac7e3e6864",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1771641866,
+        "date_posted": 1771641866,
+        "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Minnesota---Plymouth/Associate-Software-Engineer_31142661-1",
+        "locations": [
+            "Wayzata, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Abbott",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Abbott",
+        "id": "2c1704d9-ad18-426b-be05-91d12e29648d",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1771641278,
+        "date_posted": 1771641278,
+        "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---Minnesota---Plymouth/Associate-Software-Engineer_31142661",
+        "locations": [
+            "Wayzata, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Abbott",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
