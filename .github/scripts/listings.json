@@ -1,23 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "RTX",
-        "id": "3701a9cc-9df1-4e5f-b55e-40d72100cc07",
-        "title": "Software Engineer I - Embedded Communications",
-        "active": false,
-        "date_updated": 1751007764,
-        "date_posted": 1751007764,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HIN02-Ft-Wayne-IN-1010-Production-Road---Fort-Wayne-IN-46808-USA/Software-Engineer-I----Embedded-Communications--Onsite-_01776613",
-        "locations": [
-            "Fort Wayne, IN"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Xapien",
         "id": "e4f11117-380a-46f0-9b2f-d854686bc7a2",
@@ -217156,7 +217139,7 @@
         "company_name": "RTX",
         "id": "69180680-dad2-4727-b29a-2cef31608516",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1771543186,
         "date_posted": 1771543186,
         "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineer-I-Onsite-_01823655-2",
@@ -222266,6 +222249,89 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Western Digital",
+        "id": "d67111a5-b512-4a35-8faf-14a21a90e86d",
+        "title": "Early Career Talent - Software Development Engineer - Firmware",
+        "active": true,
+        "date_updated": 1771744161,
+        "date_posted": 1771744161,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000110544034",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Digital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Western Digital",
+        "id": "8cc1d5ce-411c-47d5-bf09-2772ba0723f6",
+        "title": "Early Career Talent - Software Engineering - Apps",
+        "active": true,
+        "date_updated": 1771744169,
+        "date_posted": 1771744169,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000110544245",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Digital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Western Digital",
+        "id": "8052c407-226a-45c7-8237-ab4189b4496a",
+        "title": "Early Career Talent - Software Development Engineering - Apps",
+        "active": true,
+        "date_updated": 1771744177,
+        "date_posted": 1771744177,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000110542766",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Digital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "City of Oklahoma City",
+        "id": "ebaf17c9-4cee-4312-9e9b-f7b2d0688a83",
+        "title": "Crime Analyst",
+        "active": true,
+        "date_updated": 1771743932,
+        "date_posted": 1771743932,
+        "url": "https://fa-etyr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/3579",
+        "locations": [
+            "Oklahoma City, OK"
+        ],
+        "company_url": "https://simplify.jobs/c/City-Of-Oklahoma-City",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Certificate"
         ]
     }
 ]
