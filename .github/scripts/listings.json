@@ -1,23 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Xapien",
-        "id": "e4f11117-380a-46f0-9b2f-d854686bc7a2",
-        "title": "Junior Applied Research Engineer \u2013 Graduate",
-        "active": false,
-        "date_updated": 1751038997,
-        "date_posted": 1751038997,
-        "url": "https://jobs.smartrecruiters.com/Xapien/744000067429395",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Xapien",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "RTX",
         "id": "6ebeb439-e6c1-4dc5-bc4d-ef54e28358ee",
@@ -222234,7 +222217,7 @@
         "company_name": "Northrop Grumman",
         "id": "95c35385-60e2-4721-a95f-b0c532fb7bb9",
         "title": "Principal Engineer Software - Embedded and Real Time - Florida & Oklahoma",
-        "active": true,
+        "active": false,
         "date_updated": 1771693998,
         "date_posted": 1771693998,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Principal-Engineer-Software---Embedded-and-Real-Time--Florida---Oklahoma-_R10222588",
