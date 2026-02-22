@@ -2,58 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Plusgrade",
-        "id": "793856dc-03bb-4726-af22-eb74bb565bb0",
-        "title": "Junior Software Developer / D\u00e9veloppeur logiciel junior",
-        "active": false,
-        "date_updated": 1751066724,
-        "date_posted": 1751066724,
-        "url": "https://jobs.lever.co/plusgrade/9c9728f3-031d-4df5-b3a3-f060e338f684/apply",
-        "locations": [
-            "Montreal, QC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Plusgrade",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Jerry",
-        "id": "d862d01e-68b9-42cf-944e-3f9d20b53e1d",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1751066571,
-        "date_posted": 1751066571,
-        "url": "https://jobs.ashbyhq.com/Jerry/28faa3d6-ef77-4a80-83f1-4104087b391f/application",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Jerry",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Jerry",
-        "id": "5502e169-2db9-41e6-96a6-38faa48d73b4",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1751066571,
-        "date_posted": 1751066571,
-        "url": "https://jobs.ashbyhq.com/Jerry/fc7c1a2d-ad09-411c-afdc-36d7329ec3d6/application",
-        "locations": [
-            "Toronto, ON, Canada",
-            "Greater Toronto Area, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Jerry",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Expedia",
         "id": "868353a4-02b8-429c-b657-dfe34e440499",
         "title": "Eggp \u2013 Software Development Engineer I",
@@ -84084,24 +84032,6 @@
             "Chantilly, VA"
         ],
         "company_url": "https://simplify.jobs/c/KBR",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "69219708-961a-4fdc-8409-f4fac462a623",
-        "title": "Graduate Machine Learning Engineer - E-Commerce Supply Chain & Logistics - PhD",
-        "active": false,
-        "date_updated": 1762918570,
-        "date_posted": 1751066825,
-        "url": "https://jobs.bytedance.com/en/position/7515555075555002642/detail",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -198504,7 +198434,7 @@
         "company_name": "Sainsbury's",
         "id": "4baa808c-2019-47f8-951b-5d994c4458e6",
         "title": "Trading Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1770419433,
         "date_posted": 1770419433,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048366",
@@ -222438,6 +222368,186 @@
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050581",
         "locations": [
             "Livingston, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "cc2313b0-2852-4500-98eb-edda3f997275",
+        "title": "Nightshift Trading Assistant",
+        "active": true,
+        "date_updated": 1771802059,
+        "date_posted": 1771802059,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050636",
+        "locations": [
+            "United Kingdom"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "d9c09969-a0fd-4841-a68b-ed074473b426",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1771801722,
+        "date_posted": 1771801722,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050640",
+        "locations": [
+            "Oxford, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "d34df524-d229-4689-a5a4-3cd5e143831a",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1771801722,
+        "date_posted": 1771801722,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050632",
+        "locations": [
+            "Chesterfield, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "b59b4a59-5c9d-4d55-896a-ea04e291ded9",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1771801727,
+        "date_posted": 1771801727,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050638",
+        "locations": [
+            "United Kingdom"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "9efa8df6-7972-4644-987f-99d52356562b",
+        "title": "Nightshift Trading Assistant - Local",
+        "active": true,
+        "date_updated": 1771801738,
+        "date_posted": 1771801738,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050225",
+        "locations": [
+            "Edinburgh, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "5d0ae603-75d1-4bae-82d5-115ae1abe083",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1771801722,
+        "date_posted": 1771801722,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050620",
+        "locations": [
+            "Midlothian, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "324d1c4c-12d6-44b2-b557-e5d42b7afe60",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1771801730,
+        "date_posted": 1771801730,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050641",
+        "locations": [
+            "Canterbury, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "287e67af-f6e0-41ca-8eb4-07facfa72f6e",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1771801725,
+        "date_posted": 1771801725,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050633",
+        "locations": [
+            "Chesterfield, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "0bdbc577-8832-471b-ad01-285de947cbb3",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1771801748,
+        "date_posted": 1771801748,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050219",
+        "locations": [
+            "Edinburgh, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "015e7835-a4fa-450a-9cbb-c8f425c21ef3",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1771801711,
+        "date_posted": 1771801711,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050634",
+        "locations": [
+            "Crawley, UK"
         ],
         "company_url": "https://simplify.jobs/c/Sainsburys",
         "is_visible": true,
