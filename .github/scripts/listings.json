@@ -140144,7 +140144,7 @@
         "company_name": "Halliburton",
         "id": "7ca6ce47-67f7-4bd5-9cd8-40383b789ea8",
         "title": "R&M Electrical Technician - I - III",
-        "active": true,
+        "active": false,
         "date_updated": 1764519166,
         "date_posted": 1764519166,
         "url": "https://jobs.halliburton.com/job/Houston-R&M-Electrical-Technician-(I-III)-Sperry-Drilling-TX-77032/1344575900/?ats=successfactors",
@@ -147888,7 +147888,7 @@
         "company_name": "Sherwin-Williams",
         "id": "fb8b980a-c7b6-4de5-89d2-81b2d186e7a1",
         "title": "Spray Equipment Repairer",
-        "active": false,
+        "active": true,
         "date_updated": 1767655494,
         "date_posted": 1767655494,
         "url": "https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2600151",
@@ -154465,7 +154465,7 @@
         "company_name": "Cummins",
         "id": "d319d360-c480-43cb-b7a2-6cb5590cf28d",
         "title": "Product Functional Test Technology Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1767974870,
         "date_posted": 1767974870,
         "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2420969",
@@ -166442,7 +166442,7 @@
         "company_name": "StarCompliance",
         "id": "b3920155-f2bd-411e-98dd-4abf5635ac06",
         "title": "Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1768835481,
         "date_posted": 1768835481,
         "url": "https://jobs.lever.co/starcompliance/fb9eb934-0c2a-407d-890f-21eff584cd37/apply",
@@ -177398,7 +177398,7 @@
         "company_name": "Capital One",
         "id": "308d4901-8497-4a65-98ec-751aba307b19",
         "title": "Applied Researcher 1 - Multi-agent Systems - Knowledge Graphs/Graphrag/Graph-of-Thought / Got",
-        "active": true,
+        "active": false,
         "date_updated": 1769471604,
         "date_posted": 1769471604,
         "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Applied-Researcher-I--Multi-agent-Systems--Knowledge-Graphs-GraphRAG-Graph-of-Thought---GoT--MCP--LangGraph--Agent-Protocols-_R234367",
@@ -210319,7 +210319,7 @@
         "company_name": "Sainsbury's",
         "id": "0611baf4-279d-474a-8d52-77a9986a3c3d",
         "title": "Trading Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1771237252,
         "date_posted": 1771237252,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400049601",
@@ -222784,5 +222784,149 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Global Channel Management",
+        "id": "9553a951-94b2-441a-ac0d-cccc7205d37d",
+        "title": "Quantitative Analyst 1",
+        "active": true,
+        "date_updated": 1771859601,
+        "date_posted": 1771859601,
+        "url": "https://jobs.smartrecruiters.com/GlobalChannelManagementInc/107765878",
+        "locations": [
+            "Columbia, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/Global-Channel-Management",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "JP Morgan Chase",
+        "id": "8d3eb758-3edb-485b-9bd0-0110af4f4ec2",
+        "title": "Asset & Wealth Management - Product Manager - Associate",
+        "active": true,
+        "date_updated": 1771859658,
+        "date_posted": 1771859658,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210715513",
+        "locations": [
+            "Edinburgh, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "8eee8f3c-9ace-49b9-9313-aea923c55d42",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1771859368,
+        "date_posted": 1771859368,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050716",
+        "locations": [
+            "Portadown, Craigavon, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "89bbdb2e-92e0-4309-b681-4c973cd1d004",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1771859367,
+        "date_posted": 1771859367,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050606",
+        "locations": [
+            "Sheffield, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "70f6e928-3295-43bd-bef4-29eaf018335c",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1771859340,
+        "date_posted": 1771859340,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050704",
+        "locations": [
+            "Aldershot, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "6239c6dc-74e6-4b83-83a8-1bbc05167198",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1771859353,
+        "date_posted": 1771859353,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050565",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Keysight Technologies",
+        "id": "feccf71d-3854-43d2-b943-e99be4400e6a",
+        "title": "Trainee Repair Engineer",
+        "active": true,
+        "date_updated": 1771859054,
+        "date_posted": 1771859054,
+        "url": "https://jobs.keysight.com/jobs/51111?lang=en-us&icims=1",
+        "locations": [
+            "Twyford, Reading, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Keysight-Technologies-Inc",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Coinbase",
+        "id": "52b651c8-be46-4b6c-9ef9-7c8d7bd812d3",
+        "title": "Product Manager 1 - Growth",
+        "active": true,
+        "date_updated": 1771859120,
+        "date_posted": 1771859120,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=7623211",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Coinbase",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
