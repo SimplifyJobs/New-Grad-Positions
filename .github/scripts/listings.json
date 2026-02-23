@@ -179202,7 +179202,7 @@
         "company_name": "RELX",
         "id": "9334dac6-9443-4ba0-a940-1cb43a2d2440",
         "title": "Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1769556629,
         "date_posted": 1769556629,
         "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Oklahoma-City-OK/Data-Analyst_R104140-1",
@@ -222632,5 +222632,45 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Fidelity Investments",
+        "id": "25991656-0036-4b4d-8c29-b6dc5e107669",
+        "title": "Associate Full Stack Engineer",
+        "active": true,
+        "date_updated": 1771832199,
+        "date_posted": 1771832199,
+        "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/Merrimack-NH/Associate-Full-Stack-Engineer_2124333",
+        "locations": [
+            "Merrimack, NH"
+        ],
+        "company_url": "https://simplify.jobs/c/Fidelity-Investments",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Blue Sky Innovators",
+        "id": "7c6ce81f-93d1-46b9-a710-cd27563baf97",
+        "title": "Radio Frequency Machine Learning - Rfml - Product Workflow Engineer",
+        "active": true,
+        "date_updated": 1771832087,
+        "date_posted": 1771832087,
+        "url": "https://job-boards.greenhouse.io/blueskyinnovators/jobs/5128729008",
+        "locations": [
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Blue-Sky-Innovators",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
