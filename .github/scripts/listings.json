@@ -121931,7 +121931,7 @@
         "company_name": "LexisNexis Risk Solutions",
         "id": "05b8055f-2b73-44ec-bf44-d01f874281d4",
         "title": "Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1765408831,
         "date_posted": 1765408831,
         "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Oklahoma-City-OK/Data-Analyst_R104140",
@@ -201844,7 +201844,7 @@
         "company_name": "The Toro Company",
         "id": "611daba0-ff1c-4f47-b266-5a74fa38d078",
         "title": "Electronic Service Technician 1 - Subsite",
-        "active": false,
+        "active": true,
         "date_updated": 1770765969,
         "date_posted": 1770765969,
         "url": "https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Perry-OK/ELECTRONIC-SERVICE-TECHNICIAN-I---Subsite_JR15129-1",
@@ -215430,7 +215430,7 @@
         "company_name": "RTX",
         "id": "28d55b7f-8c18-4251-ae2e-f7722064eeab",
         "title": "System Integration Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1771457729,
         "date_posted": 1771457729,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/System-Integration-Software-Engineer-I--Onsite-_01822583",
@@ -222479,6 +222479,156 @@
             "Crawley, UK"
         ],
         "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "S&P Global ",
+        "id": "f4f9ffb6-64ab-4360-a722-0706eff3a613",
+        "title": "Analytic Quality & Validation - AQV - Analyst",
+        "active": true,
+        "date_updated": 1771831582,
+        "date_posted": 1771831582,
+        "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Colorado-US/Analytic-Quality---Validation--AQV--Analyst_325807-1",
+        "locations": [
+            "Colorado"
+        ],
+        "company_url": "https://simplify.jobs/c/SP-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Direct Staffing",
+        "id": "b53c7441-a208-4541-9572-c297b0915e60",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1771830897,
+        "date_posted": 1771830897,
+        "url": "https://jobs.smartrecruiters.com/dstaff/86871360",
+        "locations": [
+            "San Carlos, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Direct-Staffing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Direct Staffing",
+        "id": "9b6c2e47-9c4f-4957-9dc8-ad0f50dfb71b",
+        "title": "Senior Software Engineer - Java & Front End",
+        "active": true,
+        "date_updated": 1771830932,
+        "date_posted": 1771830932,
+        "url": "https://jobs.smartrecruiters.com/dstaff/82673046",
+        "locations": [
+            "St. Louis, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Direct-Staffing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Direct Staffing",
+        "id": "9383dfd1-6cb9-425d-af2f-8eaa51456714",
+        "title": "Software Engineer 2",
+        "active": true,
+        "date_updated": 1771830904,
+        "date_posted": 1771830904,
+        "url": "https://jobs.smartrecruiters.com/dstaff/85274367",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Direct-Staffing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Direct Staffing",
+        "id": "4fd05319-1038-4b22-991b-c1fda48a1837",
+        "title": "Data Risk Report Bus Analyst",
+        "active": true,
+        "date_updated": 1771830940,
+        "date_posted": 1771830940,
+        "url": "https://jobs.smartrecruiters.com/dstaff/82899012",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Direct-Staffing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Experis",
+        "id": "406cb5a3-4041-44f0-bc74-9318c2da5bc3",
+        "title": "Ruby On Rails Developer",
+        "active": true,
+        "date_updated": 1771830589,
+        "date_posted": 1771830589,
+        "url": "https://jobs.smartrecruiters.com/EttainGroup/80873557",
+        "locations": [
+            "Westlake, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Experis",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Iowa State University",
+        "id": "a21e7d76-989c-4997-93c7-c691ef88e5fe",
+        "title": "Workday Integration Software Developer 1",
+        "active": true,
+        "date_updated": 1771830124,
+        "date_posted": 1771830124,
+        "url": "https://isu.wd1.myworkdayjobs.com/IowaStateJobs/job/Ames-IA/Workday-Integration-Software-Developer-I_R18675",
+        "locations": [
+            "Ames, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/Iowa-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Enviri",
+        "id": "278554f9-f89b-45bf-8154-6a9c3aded850",
+        "title": "Database Administrator - S&C - Maternity Cover",
+        "active": true,
+        "date_updated": 1771830197,
+        "date_posted": 1771830197,
+        "url": "https://jobs.smartrecruiters.com/EnviriCorporation/744000109512820",
+        "locations": [
+            "Nottingham, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Enviri",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
