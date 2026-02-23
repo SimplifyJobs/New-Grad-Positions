@@ -179750,7 +179750,7 @@
         "company_name": "Embry-Riddle Aeronautical University",
         "id": "cfe3c262-5c2f-410b-9099-bcaad21e6998",
         "title": "Assistant Professor",
-        "active": true,
+        "active": false,
         "date_updated": 1769584432,
         "date_posted": 1769584432,
         "url": "https://embryriddle.wd1.myworkdayjobs.com/External/job/Daytona-Beach-FL/Tenure-Track-Faculty-Position-with-a-focus-on-Big-Data-Analytics-and-Aviation-Safety-in-the-School-of-Graduate-Studies_R309967",
@@ -222759,6 +222759,26 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/WPP-Media",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Fugro",
+        "id": "d40e41cd-439c-4782-adda-73c0d8707fc7",
+        "title": "Staff GIS Specialist",
+        "active": true,
+        "date_updated": 1771854297,
+        "date_posted": 1771854297,
+        "url": "https://fugro.wd3.myworkdayjobs.com/broadbean_external/job/Wallingford-UK-United-Kingdom/Staff-GIS-Specialist_R0030412",
+        "locations": [
+            "Oxford, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Fugro",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
