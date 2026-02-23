@@ -147358,7 +147358,7 @@
         "company_name": "WPP Media",
         "id": "bfdae42f-e3b0-48a3-9d25-57ff8f61bb7a",
         "title": "Data Management and Reporting Executive \u2013 Entry Level",
-        "active": false,
+        "active": true,
         "date_updated": 1767654990,
         "date_posted": 1767654990,
         "url": "https://job-boards.greenhouse.io/wppmedia/jobs/4910255008",
@@ -175080,7 +175080,7 @@
         "company_name": "Prairie View A&M University",
         "id": "6f66ab1b-433f-4ac9-84c9-28a7d33a0ef5",
         "title": "Postdoctoral Researcher",
-        "active": true,
+        "active": false,
         "date_updated": 1769126467,
         "date_posted": 1769126467,
         "url": "https://tamus.wd1.myworkdayjobs.com/pvamu_external/job/Prairie-View-TX/Postdoctoral-Researcher--PIER---Environmental-Data-Science-and-Artificial-Intelligence-_R-089857-1",
@@ -199798,7 +199798,7 @@
         "company_name": "City Electrical Factors",
         "id": "9bb7cf95-fb87-42fd-a6dc-1845a1ac1931",
         "title": "Data Administrator",
-        "active": true,
+        "active": false,
         "date_updated": 1770650130,
         "date_posted": 1770650130,
         "url": "https://jobs.lever.co/cef/9b6ddcc0-d32d-4c56-8724-743054f4c2fd/apply",
@@ -216269,7 +216269,7 @@
         "company_name": "The Boeing Company",
         "id": "b5509517-9392-44f1-b9c5-a76c66ed7e67",
         "title": "Product Data Management Engineer \u2013 Associate or Mid-Level - Config & Data Mgmt/Tech Integ",
-        "active": false,
+        "active": true,
         "date_updated": 1771499761,
         "date_posted": 1771459017,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Renton-WA/Product-Data-Management-Engineer---Config---Data-Mgmt-Tech-Integ--Associate-or-Mid-Level-_JR2026491114-1",
@@ -222744,5 +222744,25 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "WPP Media",
+        "id": "eda1b6fd-f22e-4bf1-b2bc-1b2df3d79e84",
+        "title": "Data Executive",
+        "active": true,
+        "date_updated": 1771845561,
+        "date_posted": 1771845561,
+        "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5117302008",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/WPP-Media",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
