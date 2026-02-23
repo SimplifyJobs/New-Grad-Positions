@@ -162941,7 +162941,7 @@
         "company_name": "Aristocrat Leisure",
         "id": "7b918efe-26d6-4c78-9bc9-44a76750d2e4",
         "title": "Data Analyst - Finance",
-        "active": false,
+        "active": true,
         "date_updated": 1768520365,
         "date_posted": 1768520365,
         "url": "https://aristocrat.wd3.myworkdayjobs.com/aristocratexternalcareerssite/job/London-United-Kingdom/Data-Analyst---Finance_R0020491",
@@ -181575,7 +181575,7 @@
         "company_name": "GE Healthcare",
         "id": "7afdce0e-bf2c-4819-8732-02deaccad94e",
         "title": "Field Engineer 1 Monitoring/Diagnostic Cardiology - Los Angeles - CA",
-        "active": true,
+        "active": false,
         "date_updated": 1769642963,
         "date_posted": 1769642963,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer-1-Monitoring-Diagnostic-Cardiology---Los-Angeles--CA_R4035339-1",
@@ -214627,7 +214627,7 @@
         "company_name": "Western Digital",
         "id": "902de096-e22e-426c-8a55-3c500f140843",
         "title": "Early Career Talent - Metrology Engineer - Optical & Physical,Ph.D. Only",
-        "active": false,
+        "active": true,
         "date_updated": 1771456331,
         "date_posted": 1771456331,
         "url": "https://jobs.smartrecruiters.com/WesternDigital/744000110030945",
@@ -217675,7 +217675,7 @@
         "company_name": "Guidehouse",
         "id": "5ca45ae9-25a7-4b2f-98b1-b7324170998b",
         "title": "Data Analyst/FM Product Consultant",
-        "active": true,
+        "active": false,
         "date_updated": 1771544621,
         "date_posted": 1771544621,
         "url": "https://guidehouse.wd1.myworkdayjobs.com/external/job/US---IN-Indianapolis/Data-Analyst-FM-Product-Consultant_36597",
@@ -223009,5 +223009,97 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "5fbc5390-99ba-4c36-a718-b28eaab3c6b0",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1771756474,
+        "date_posted": 1771756474,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050558",
+        "locations": [
+            "Liverpool, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "5e3a2258-0ebe-436d-8c11-b3d17be8ac47",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1771756481,
+        "date_posted": 1771756481,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050580",
+        "locations": [
+            "York, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Cambridge Associates",
+        "id": "bae2bc8e-b4c7-428e-8d23-5c043680e8d7",
+        "title": "Investment Analyst - Hedge Funds Research",
+        "active": true,
+        "date_updated": 1771862606,
+        "date_posted": 1771862606,
+        "url": "https://cambridgeassociates.wd5.myworkdayjobs.com/Cambridge_Associates/job/London/Investment-Analyst---Hedge-Funds-Research_JR0000155",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Cambridge-Associates",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Milwaukee Tool",
+        "id": "0fe5664c-28bb-451b-b3d3-4d6d349acbeb",
+        "title": "Repair Technician 1",
+        "active": true,
+        "date_updated": 1771862304,
+        "date_posted": 1771862304,
+        "url": "https://tti.wd1.myworkdayjobs.com/en-US/Milwaukee/job/Greenwood-MS/Repair-Tech-1_R69377",
+        "locations": [
+            "Greenwood, MS"
+        ],
+        "company_url": "https://simplify.jobs/c/Milwaukee-Tool",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "BlackRock",
+        "id": "a85fe9f4-8464-4676-b652-c3e73615a4ec",
+        "title": "Product Manager - Associate",
+        "active": true,
+        "date_updated": 1771862161,
+        "date_posted": 1771862161,
+        "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/London-Greater-London/Product-Manager--Associate-_R260931",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/BlackRock",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
