@@ -192337,7 +192337,7 @@
         "company_name": "Fortive",
         "id": "8d0d352c-f1c2-4f2c-a857-628a59bd3537",
         "title": "Electronics Calibration and Repair Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1770218120,
         "date_posted": 1770218120,
         "url": "https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8861",
@@ -212021,7 +212021,7 @@
         "company_name": "Sainsbury's",
         "id": "cb6479da-725c-4208-975d-bcf1283ce0ec",
         "title": "Trading Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1771341076,
         "date_posted": 1771341076,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400049624",
@@ -221856,7 +221856,7 @@
         "company_name": "The Boeing Company",
         "id": "512d506b-d983-49e1-b8c3-c4247f81a28b",
         "title": "Electrical Network and Digital Connectivity System Design Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1771693723,
         "date_posted": 1771693723,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Electrical-Network-and-Digital-Connectivity-System-Design-Engineer--Entry-Level-or-Associate-_JR2026497450-2",
@@ -222672,5 +222672,77 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "8524ba95-cea7-45cc-8199-374cd6583895",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1771843252,
+        "date_posted": 1771843252,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050649",
+        "locations": [
+            "Welwyn Garden City, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "5fbb95f6-f71e-4488-9f3e-d020b895d202",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1771843253,
+        "date_posted": 1771843253,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050654",
+        "locations": [
+            "Chesterfield, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "57873b5e-ef79-4230-a7ed-8f661728abf2",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1771843257,
+        "date_posted": 1771843257,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050655",
+        "locations": [
+            "Chesterfield, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "0ace8c2a-9415-4aaa-aac7-d8801005d05d",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1771843253,
+        "date_posted": 1771843253,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050645",
+        "locations": [
+            "Portadown, Craigavon, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
