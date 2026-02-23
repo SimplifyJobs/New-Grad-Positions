@@ -148418,7 +148418,7 @@
         "company_name": "PDF Solutions",
         "id": "018d4c8c-e35c-4e06-bc92-124827633e83",
         "title": "Product Coordinator",
-        "active": true,
+        "active": false,
         "date_updated": 1767669837,
         "date_posted": 1767669837,
         "url": "https://careers.pdf.com/jobs/1488?lang=en-us&icims=1",
@@ -162341,7 +162341,7 @@
         "company_name": "The Travelers Companies",
         "id": "78579dd6-6c13-432e-9c8f-9ac750cb4a62",
         "title": "Software Engineer 1 - Aws",
-        "active": true,
+        "active": false,
         "date_updated": 1768494649,
         "date_posted": 1768494649,
         "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Software-Engineer-I---AWS_R-48613",
@@ -210400,7 +210400,7 @@
         "company_name": "Expedia Group",
         "id": "035ef54c-e7b1-40bb-a586-db3d42ef0dde",
         "title": "Software Development Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1771248033,
         "date_posted": 1771248033,
         "url": "https://expedia.wd108.myworkdayjobs.com/private/job/UK---London/Software-Development-Engineer-I_R-102289",
@@ -215347,7 +215347,7 @@
         "company_name": "Mass General Brigham",
         "id": "4946613c-d0c2-405f-b06a-9ffdb4c04dbc",
         "title": "Applications Analyst 1",
-        "active": true,
+        "active": false,
         "date_updated": 1771458120,
         "date_posted": 1771458120,
         "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Boston-MA/Applications-Analyst-I_RQ4052696",
@@ -215470,7 +215470,7 @@
         "company_name": "Parsons",
         "id": "f88dbe09-6ef7-4ce8-bfb4-84920e8ade1e",
         "title": "Equipment Repair Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1771457443,
         "date_posted": 1771457443,
         "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---NJ-Hamilton/EQUIPMENT-REPAIR-TECHNICIAN_R177374-1",
@@ -222928,5 +222928,86 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Amentum",
+        "id": "61897b58-573c-49ad-a044-fcd6c9abde98",
+        "title": "Electronic Technician - Ior - Optics (Sfrc)",
+        "active": true,
+        "date_updated": 1771861901,
+        "date_posted": 1771861901,
+        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-FL-Canaveral/Electronic-Technician--IOR----Optics_R0152734-1",
+        "locations": [
+            "Cape Canaveral, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Amentum",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TEGNA ",
+        "id": "477aad97-fb7d-4f5f-b832-cdf1be26ed79",
+        "title": "Digital Campaign Specialist",
+        "active": true,
+        "date_updated": 1771861633,
+        "date_posted": 1771861633,
+        "url": "https://boards.greenhouse.io/tegnainc/jobs/5057250007",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/TEGNA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northeastern University",
+        "id": "320868d6-74ae-45c2-9144-2735d67d06e5",
+        "title": "Research Engineer",
+        "active": true,
+        "date_updated": 1771861207,
+        "date_posted": 1771861207,
+        "url": "https://northeastern.wd1.myworkdayjobs.com/careers/job/Boston-MA-Main-Campus/Research-Engineer_R138783",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Northeastern-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TD Bank",
+        "id": "edfb21aa-29f9-45f7-ba03-9e0850658b0d",
+        "title": "Associate Engineer 1 - AI Platform",
+        "active": true,
+        "date_updated": 1771860753,
+        "date_posted": 1771860753,
+        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Associate-Engineer-I_R_1471784",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/TD-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
