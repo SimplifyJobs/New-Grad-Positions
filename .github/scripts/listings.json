@@ -83932,24 +83932,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "MemryX",
-        "id": "2d6d8a0d-8008-4726-87b9-5b40f2851564",
-        "title": "Software Engineer, Applications and Customer Solutions",
-        "active": true,
-        "date_updated": 1762937225,
-        "date_posted": 1751213043,
-        "url": "https://ats.rippling.com/memryx/jobs/f9cddbe0-dc8e-4f60-8243-003928a35f13",
-        "locations": [
-            "Ann Arbor, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/MemryX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "KBR",
         "id": "4c7e678b-0707-4494-a6fd-961dad84690e",
@@ -175271,7 +175253,7 @@
         "company_name": "Intel",
         "id": "3714df2b-0b0e-4891-a2f4-88d031e66d4a",
         "title": "Packaging Module Development Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1769261790,
         "date_posted": 1769261790,
         "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Packaging-Module-Development-Engineer_JR0279520",
@@ -207505,7 +207487,7 @@
         "company_name": "Dave & Busters",
         "id": "40490d14-3065-4202-8c5b-2138de77c8b2",
         "title": "Game Support Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1770940884,
         "date_posted": 1770940884,
         "url": "https://daveandbusters.wd1.myworkdayjobs.com/dave_and_busters_careers/job/Braintree-MA/Game-Support-Technician_R-1010286",
@@ -215410,7 +215392,7 @@
         "company_name": "RTX",
         "id": "506b179d-1bbb-4be7-8261-9cd47d7fe76c",
         "title": "Embedded Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1771457716,
         "date_posted": 1771457716,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/XMLNAME-2026-Fulltime-Raytheon-Embedded-Software-Engineer-I-Onsite-_01825236",
@@ -223965,7 +223947,7 @@
         "company_name": "TD Bank",
         "id": "6cb49ecd-405b-4fc8-a878-116658598e91",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1771889425,
         "date_posted": 1771889425,
         "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Associate-Software-Engineer_R_1467724",
@@ -226406,6 +226388,68 @@
             "Moscow, ID"
         ],
         "company_url": "https://simplify.jobs/c/SEL",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Capital One",
+        "id": "f9b04367-d95e-4a80-af3b-3293c269e8ec",
+        "title": "Associate New Grad - Software Engineer",
+        "active": true,
+        "date_updated": 1771949832,
+        "date_posted": 1771949832,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad_R236349",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Capital-One",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Comcast",
+        "id": "c6fba9e3-fadc-40af-88fa-8020272c380d",
+        "title": "Software Engineer - Golang & Java",
+        "active": true,
+        "date_updated": 1771949573,
+        "date_posted": 1771949573,
+        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Software-Engineer--GoLang---Java_R431013",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Comcast",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Bass Pro Shops",
+        "id": "d9e390dc-b61e-44cb-bcfa-8699f60c5af7",
+        "title": "Product Specialist - Apparel",
+        "active": true,
+        "date_updated": 1771948794,
+        "date_posted": 1771948794,
+        "url": "https://basspro.wd1.myworkdayjobs.com/careers/job/Springfield-MO-Bass-Pro-Shops-Base-Camp/Product-Specialist---Apparel_R248755",
+        "locations": [
+            "Springfield, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Bass-Pro-Shops",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
