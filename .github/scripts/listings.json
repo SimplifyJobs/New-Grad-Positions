@@ -116676,7 +116676,7 @@
         "company_name": "PolyAI",
         "id": "21797258-f5ee-476b-82f9-a9b95f5024a4",
         "title": "Turkish Language Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1764984793,
         "date_posted": 1764984793,
         "url": "https://job-boards.eu.greenhouse.io/polyai/jobs/4725072101",
@@ -218918,7 +218918,7 @@
         "company_name": "Light & Wonder",
         "id": "b305b428-2102-4190-acfb-e330727818f1",
         "title": "Field Service Tech 2",
-        "active": true,
+        "active": false,
         "date_updated": 1771542348,
         "date_posted": 1771542348,
         "url": "https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/New-York-US/FIELD-SERVICE-TECH-II_R321566",
@@ -226128,6 +226128,27 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GE Healthcare",
+        "id": "50f0dc5e-2485-4d89-8279-8b8a6eb4f746",
+        "title": "Field Engineer - Imaging",
+        "active": true,
+        "date_updated": 1771939641,
+        "date_posted": 1770305885,
+        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Associate-Field-Engineer-1--Denver--CO-_R4035664-1",
+        "locations": [
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Healthcare",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
         ]
     }
 ]
