@@ -1032,7 +1032,7 @@
         "company_name": "Old Mission",
         "id": "b09d07b6-2d11-469e-b3aa-b297ebd7f7a3",
         "title": "College Graduates - Full-Time - Junior Quantitative Trader",
-        "active": true,
+        "active": false,
         "date_updated": 1752520281,
         "date_posted": 1752520281,
         "url": "https://www.oldmissioncapital.com/careers/?gh_jid=6602928003",
@@ -161313,7 +161313,7 @@
         "company_name": "Aramark",
         "id": "1c7b1c03-a580-4f2d-9965-4c142a75a178",
         "title": "Repair Technician - BSWH Temple Clinics",
-        "active": true,
+        "active": false,
         "date_updated": 1768435968,
         "date_posted": 1768435968,
         "url": "https://aramarkcareers.com/UnitedStates/job/Temple-Repair-Technician-BSWH-Temple-Clinics-TX-76508/1348965100/?ats=successfactors",
@@ -163550,7 +163550,7 @@
         "company_name": "The Travelers Companies",
         "id": "386cce7f-7163-4dd6-8e96-72df25d7a9c2",
         "title": "Software Engineer 1 - Aws",
-        "active": false,
+        "active": true,
         "date_updated": 1768519709,
         "date_posted": 1768519709,
         "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Software-Engineer-I_R-48464",
@@ -216269,7 +216269,7 @@
         "company_name": "The Boeing Company",
         "id": "b5509517-9392-44f1-b9c5-a76c66ed7e67",
         "title": "Product Data Management Engineer \u2013 Associate or Mid-Level - Config & Data Mgmt/Tech Integ",
-        "active": true,
+        "active": false,
         "date_updated": 1771499761,
         "date_posted": 1771459017,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Renton-WA/Product-Data-Management-Engineer---Config---Data-Mgmt-Tech-Integ--Associate-or-Mid-Level-_JR2026491114-1",
@@ -222327,7 +222327,7 @@
         "company_name": "Sainsbury's",
         "id": "d9c09969-a0fd-4841-a68b-ed074473b426",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1771801722,
         "date_posted": 1771801722,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050640",
@@ -224624,7 +224624,7 @@
         "company_name": "Sainsbury's",
         "id": "5777593e-27de-4ff0-9aef-63ffa78b85f4",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1771898986,
         "date_posted": 1771898986,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050840",
@@ -226353,5 +226353,63 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "GE Vernova",
+        "id": "490d1d05-a79a-43a8-b5b1-f54d11240d2a",
+        "title": "Application Engineer - Tendering",
+        "active": true,
+        "date_updated": 1771948486,
+        "date_posted": 1771948486,
+        "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Rugby/Application-Engineer--Tendering-_R5031158-1",
+        "locations": [
+            "Rugby, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Vernova",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Mammoth Brands",
+        "id": "4667578c-9a14-412c-8d01-32e6a8bf85bb",
+        "title": "Associate Product Manager - Harry's",
+        "active": true,
+        "date_updated": 1771947959,
+        "date_posted": 1771947959,
+        "url": "https://job-boards.greenhouse.io/mammothbrands/jobs/7648185",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Mammoth-Brands",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Schweitzer Engineering Laboratories",
+        "id": "457a4c57-a27b-4c29-bc05-4f1edc46affb",
+        "title": "Firmware Engineer",
+        "active": true,
+        "date_updated": 1771947952,
+        "date_posted": 1771947952,
+        "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Firmware-Engineer_2025-19054",
+        "locations": [
+            "Moscow, ID"
+        ],
+        "company_url": "https://simplify.jobs/c/SEL",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
