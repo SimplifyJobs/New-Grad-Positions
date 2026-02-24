@@ -39170,7 +39170,7 @@
         "company_name": "University of Chicago",
         "id": "b6aa9221-6ea0-4ee5-ae68-a5b83b82a03a",
         "title": "Data Science - Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1762535241,
         "date_posted": 1762535241,
         "url": "https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Data-Science--Analyst_JR31922-1",
@@ -52383,7 +52383,7 @@
         "company_name": "TikTok",
         "id": "775950e7-6a55-4b1e-8404-d552f09b1618",
         "title": "Creative Product Operations Graduate - International Advertising - Creative and Brand Innovation",
-        "active": true,
+        "active": false,
         "date_updated": 1761777059,
         "date_posted": 1761777059,
         "url": "https://lifeattiktok.com/search/7538828742874122504",
@@ -73965,7 +73965,7 @@
         "company_name": "TikTok",
         "id": "10de16b2-cf3c-496e-997a-8d3b40e778d7",
         "title": "AI Product Manager Graduate - Creative and Brand Innovation - 2026 Start",
-        "active": true,
+        "active": false,
         "date_updated": 1755303675,
         "date_posted": 1755303675,
         "url": "https://lifeattiktok.com/search/7537485209698191623",
@@ -182684,7 +182684,7 @@
         "company_name": "EquipmentShare",
         "id": "a4666a64-4257-4111-a985-d598337fd115",
         "title": "Telematics Installer",
-        "active": true,
+        "active": false,
         "date_updated": 1769700694,
         "date_posted": 1769700694,
         "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=7572751",
@@ -183674,7 +183674,7 @@
         "company_name": "EquipmentShare",
         "id": "d618dbbf-5e26-4c3b-8ee4-7256fa9724a6",
         "title": "Telematics Installer",
-        "active": true,
+        "active": false,
         "date_updated": 1769729672,
         "date_posted": 1769729672,
         "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=7575591",
@@ -204965,7 +204965,7 @@
         "company_name": "Unisys",
         "id": "bdac5eec-e8c8-424a-8d96-7fbee842e16d",
         "title": "Associate Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1770854379,
         "date_posted": 1770854379,
         "url": "https://unisys.wd5.myworkdayjobs.com/en-US/External/job/Eagan-Regus/Associate-Engineer_REQ569717",
@@ -224400,5 +224400,45 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Royal Bank of Canada",
+        "id": "994c7dea-1b93-4530-9438-b0ec84225bcb",
+        "title": "Manager \u2013 Analytics Engineer",
+        "active": true,
+        "date_updated": 1771893137,
+        "date_posted": 1771893137,
+        "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Manager---Analytics-Engineer_R-0000160543-1",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CVS Health",
+        "id": "12c8747d-61cc-4b84-b3d4-56af644a7290",
+        "title": "Associate Data Engineer",
+        "active": true,
+        "date_updated": 1771893053,
+        "date_posted": 1771893053,
+        "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Work-from-home/Associate-Data-Engineer_R0794390",
+        "locations": [
+            "Texas"
+        ],
+        "company_url": "https://simplify.jobs/c/CVS-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
