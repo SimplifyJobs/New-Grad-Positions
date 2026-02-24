@@ -20606,7 +20606,7 @@
         "company_name": "NVIDIA",
         "id": "7d96c0dc-36d6-4e45-afd4-33c4829bf1a6",
         "title": "Software Engineer \u2013 New College Grad 2025 - CAD Automation",
-        "active": true,
+        "active": false,
         "date_updated": 1761559995,
         "date_posted": 1760072918,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--CAD-Automation---New-College-Grad-2025_JR2005867",
@@ -224435,6 +224435,235 @@
             "Texas"
         ],
         "company_url": "https://simplify.jobs/c/CVS-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "56cff4c4-bf56-46b7-9fa2-1f314a9762c0",
+        "title": "2026 Raytheon Full Time - FPGA Design Engineer II",
+        "active": true,
+        "date_updated": 1771899476,
+        "date_posted": 1771899476,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/XMLNAME-2026-Raytheon-Full-Time---FPGA-Design-Engineer-II--Onsite-_01823163-1",
+        "locations": [
+            "Tucson, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Idexcel",
+        "id": "f1f07a98-8496-494f-9e0c-2f3aabdda6ca",
+        "title": "Engineering Technician",
+        "active": true,
+        "date_updated": 1771899201,
+        "date_posted": 1771899201,
+        "url": "https://jobs.smartrecruiters.com/Idexcel3/105070681",
+        "locations": [
+            "South Bend, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Idexcel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "aaea0d45-9708-4c96-9381-ed36b013782d",
+        "title": "Associate Software Engineer - Mpes",
+        "active": true,
+        "date_updated": 1771899200,
+        "date_posted": 1771899200,
+        "url": "https://jobs.l3harris.com/job/Anaheim-Associate,-Software-Engineer-MPES-CA-92805/1317690800/?ats=successfactors",
+        "locations": [
+            "Anaheim, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Idealforce",
+        "id": "9d9f7cba-3b27-4f19-ad5a-4b31ace89a3e",
+        "title": "Java Programmer",
+        "active": true,
+        "date_updated": 1771899123,
+        "date_posted": 1771899123,
+        "url": "https://jobs.smartrecruiters.com/IDEALFORCELLC/83326652",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Idealforce",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Idealforce",
+        "id": "7158f4f7-5be3-45d4-8f8d-9ef1d543905d",
+        "title": "IOS Developers",
+        "active": true,
+        "date_updated": 1771899145,
+        "date_posted": 1771899145,
+        "url": "https://jobs.smartrecruiters.com/IDEALFORCELLC/77074853",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Idealforce",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Idealforce",
+        "id": "57f9008b-2fc9-49b9-ad13-315d341918c6",
+        "title": "Microsoft Access Developer",
+        "active": true,
+        "date_updated": 1771899160,
+        "date_posted": 1771899160,
+        "url": "https://jobs.smartrecruiters.com/IDEALFORCELLC/75420374",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Idealforce",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Idealforce",
+        "id": "0ea92974-1200-4acf-9ffc-fd172f158f17",
+        "title": ".Net Developer",
+        "active": true,
+        "date_updated": 1771899112,
+        "date_posted": 1771899112,
+        "url": "https://jobs.smartrecruiters.com/IDEALFORCELLC/86804423",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Idealforce",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "734ec834-622b-46ac-8dbe-d942cca56bff",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1771899019,
+        "date_posted": 1771899019,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050842",
+        "locations": [
+            "Exeter, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "i360technologies",
+        "id": "72968546-e180-4d56-9685-19a18d2933d9",
+        "title": "Procurement Data Analyst",
+        "active": true,
+        "date_updated": 1771898909,
+        "date_posted": 1771898909,
+        "url": "https://jobs.smartrecruiters.com/I360technologies/744000098093245",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/I360technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "5777593e-27de-4ff0-9aef-63ffa78b85f4",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1771898986,
+        "date_posted": 1771898986,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050840",
+        "locations": [
+            "Guildford, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Implify",
+        "id": "00b229ce-86d1-4f0b-ae4c-7bc1cd579109",
+        "title": "SFDC Multiple openings",
+        "active": true,
+        "date_updated": 1771899024,
+        "date_posted": 1771899024,
+        "url": "https://jobs.smartrecruiters.com/ImplifyInc/111128172",
+        "locations": [
+            "Carson, CA",
+            "Seattle, WA",
+            "Plano, TX",
+            "LA",
+            "Phoenix, AZ",
+            "San Diego, CA",
+            "Fort Worth, TX",
+            "Charlotte, NC",
+            "Dallas, TX",
+            "United States",
+            "Chicago, IL",
+            "Dunmore, PA",
+            "Baltimore, MD",
+            "Houston, TX",
+            "Milwaukee, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Implify",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
