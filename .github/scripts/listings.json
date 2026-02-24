@@ -127300,7 +127300,7 @@
         "company_name": "Curtiss-Wright Corporation",
         "id": "d30db10d-b71c-4298-bb53-dd172fb3af0d",
         "title": "Graduate Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1765842382,
         "date_posted": 1765842382,
         "url": "https://curtisswright.wd1.myworkdayjobs.com/cw_external_career_site/job/US-MD-Frederick-Nuclear/Graduate-Engineer_JR10597",
@@ -135848,7 +135848,7 @@
         "company_name": "Huron",
         "id": "bba49d0a-aa99-49ce-aac7-98bdd4457efa",
         "title": "Data Scientist - Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1766536041,
         "date_posted": 1766536041,
         "url": "https://huron.wd1.myworkdayjobs.com/huroncareers/job/Chicago---550-Van-Buren/Data-Scientist--Associate-_JR-0013624",
@@ -174554,7 +174554,7 @@
         "company_name": "The Travelers Companies",
         "id": "d96070c6-a613-4570-9b98-b8d13272c0e3",
         "title": "Data Engineer 1 - Databricks - Aws",
-        "active": true,
+        "active": false,
         "date_updated": 1769212115,
         "date_posted": 1769212115,
         "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Data-Engineer-I--Databricks--AWS--Python-_R-48550",
@@ -177300,7 +177300,7 @@
         "company_name": "The Boeing Company",
         "id": "d8207772-fcd6-4fa3-afbb-802bf86850c8",
         "title": "Software Engineer - Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1769470820,
         "date_posted": 1769470820,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Herndon-VA/Software-Engineers--Associate-or-Experienced-_JR2026491832",
@@ -178867,7 +178867,7 @@
         "company_name": "Johnson Controls",
         "id": "f729c36d-121b-4d3d-b36f-0d890ede157a",
         "title": "Nextgen Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1769558129,
         "date_posted": 1769558129,
         "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Glendale-Wisconsin-United-States-of-America/NextGen-Software-Engineer_WD30258779-1",
@@ -195368,7 +195368,7 @@
         "company_name": "Cloudera",
         "id": "b9164a4f-3c74-45fc-af33-adc313e3505e",
         "title": "Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1770311380,
         "date_posted": 1770311380,
         "url": "https://cloudera.wd5.myworkdayjobs.com/external_career/job/US-California-San-Jose/Software-Engineer_251356-1",
@@ -198035,7 +198035,7 @@
         "company_name": "Advanced Energy",
         "id": "7df62b63-01d4-4de7-834b-2eac01d20607",
         "title": "Electronics Service Technician 1",
-        "active": true,
+        "active": false,
         "date_updated": 1770419397,
         "date_posted": 1770419397,
         "url": "https://jobs.advanced-energy.com/job/Fort-Collins-Electronics-Service-Technician-I-CO-80525/1349766000/?ats=successfactors",
@@ -199331,7 +199331,7 @@
         "company_name": "Vanderbilt Health",
         "id": "3e3fdc0c-7f98-4dab-b27c-b7edaf11c3c3",
         "title": "Associate Product Manager - Clinical Engineering Products",
-        "active": false,
+        "active": true,
         "date_updated": 1770536205,
         "date_posted": 1770536205,
         "url": "https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Associate-Product-Manager---Clinical-Engineering-Products--Local---Hybrid-_R-53972-2",
@@ -214187,7 +214187,7 @@
         "company_name": "ING",
         "id": "2b69ad54-7aaf-4beb-a154-559e6b6bc1ef",
         "title": "Fixed Income Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1771429791,
         "date_posted": 1771429791,
         "url": "https://ing.wd3.myworkdayjobs.com/icsgblcor/job/London/Fixed-Income-Data-Analyst_REQ-10109274-1",
@@ -217571,7 +217571,7 @@
         "company_name": "CAE",
         "id": "3ccca4ee-060c-400f-8020-788d2b4b3d32",
         "title": "Simulator Technician 1",
-        "active": true,
+        "active": false,
         "date_updated": 1771544822,
         "date_posted": 1771544822,
         "url": "https://cae.wd3.myworkdayjobs.com/career/job/Orlando/Simulator-Technician-I_119502",
@@ -218897,7 +218897,7 @@
         "company_name": "CVS Health",
         "id": "ba929db8-dd9c-41f9-bf75-c1a7b28b5156",
         "title": "Data Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1771546212,
         "date_posted": 1771546212,
         "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Data-Scientist_R0837452",
@@ -222639,7 +222639,7 @@
         "company_name": "Fidelity Investments",
         "id": "25991656-0036-4b4d-8c29-b6dc5e107669",
         "title": "Associate Full Stack Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1771832199,
         "date_posted": 1771832199,
         "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/Merrimack-NH/Associate-Full-Stack-Engineer_2124333",
@@ -224239,6 +224239,164 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/GitLab",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "AeroVironment",
+        "id": "f4738f77-7902-4794-90e0-72dce0928ffc",
+        "title": "Production Technician 1",
+        "active": true,
+        "date_updated": 1771891642,
+        "date_posted": 1771891642,
+        "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Simi-Valley-CA/Production-Technician-I_6583",
+        "locations": [
+            "Simi Valley, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/AeroVironment",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "CAE",
+        "id": "ef3245b8-09f1-4c95-aa0c-71e47e0f8af4",
+        "title": "Simulator Technician 1",
+        "active": true,
+        "date_updated": 1771891235,
+        "date_posted": 1771891235,
+        "url": "https://cae.wd3.myworkdayjobs.com/career/job/Whippany/Simulator-Technician-I_120374",
+        "locations": [
+            "Parsippany-Troy Hills, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/0584b8e0-c24c-4b9b-9e06-b2484d8779bf",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Jabil",
+        "id": "cfa81bcf-f539-428d-b586-d9f54032a883",
+        "title": "Diagnostic Technician - Days - C Shift",
+        "active": true,
+        "date_updated": 1771891186,
+        "date_posted": 1771891186,
+        "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Diagnostic-Technician---Days---C-Shift_J2440813",
+        "locations": [
+            "St. Petersburg, FL",
+            "Tampa, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Jabil",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Fidelity Investments",
+        "id": "8e622a74-da9a-41eb-b0bf-94acf2f632aa",
+        "title": "Production Support Engineer - Java and Datadog",
+        "active": true,
+        "date_updated": 1771891209,
+        "date_posted": 1771891209,
+        "url": "https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Westlake-TX/Production-Support-Engineer--Java-and-Datadog-_2124408",
+        "locations": [
+            "Westlake, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Fidelity-Investments",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Boeing Company",
+        "id": "8bedc19b-7eb0-4235-b460-14231c0a66fd",
+        "title": "Associate Engineering Data Specialist",
+        "active": true,
+        "date_updated": 1771891306,
+        "date_posted": 1771891306,
+        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Oklahoma-City-OK/Associate-Engineering-Data-Specialist_JR2026497358-1",
+        "locations": [
+            "Oklahoma City, OK"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Boeing Company",
+        "id": "6e8cb3af-a4cb-42e0-bcd8-93925ca1f442",
+        "title": "Programmer Analyst \u2013 Associate or Mid-Level",
+        "active": true,
+        "date_updated": 1771891348,
+        "date_posted": 1771891348,
+        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/Programmer-Analyst--Associate-or-Mid-Level-_JR2026497877-1",
+        "locations": [
+            "North Charleston, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Jabil",
+        "id": "6693ec0f-8c02-43d5-89b5-5167d29305bc",
+        "title": "Diagnostic Technician",
+        "active": true,
+        "date_updated": 1771891249,
+        "date_posted": 1771891249,
+        "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Diagnostic-Technician---Days---A-Shift_J2440808",
+        "locations": [
+            "St. Petersburg, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Jabil",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Boeing Company",
+        "id": "2e04b7ae-bc33-4ec0-ac6a-02fb2ac76b0e",
+        "title": "Software Engineers-Hardware Emulation \u2013 Senior - Associate",
+        "active": true,
+        "date_updated": 1771891293,
+        "date_posted": 1771891293,
+        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Huntsville-AL/Software-Engineers-Hardware-Emulation--Associate--Experienced--Senior-_JR2026497732-3",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
