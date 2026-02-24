@@ -26572,7 +26572,7 @@
         "company_name": "Graphcore",
         "id": "2a8dc926-14c4-469a-a90b-89ad57e7fc6f",
         "title": "2026 Graduate Software Engineer - Kernel Engineering Team",
-        "active": false,
+        "active": true,
         "date_updated": 1762274143,
         "date_posted": 1762274143,
         "url": "https://job-boards.greenhouse.io/graphcore/jobs/8230202002",
@@ -216434,7 +216434,7 @@
         "company_name": "Pantheon Ventures Careers",
         "id": "60df7d51-696e-480d-9c18-53dbb3cc1a92",
         "title": "Data and Analytics Associate - Transactions Management",
-        "active": true,
+        "active": false,
         "date_updated": 1771514663,
         "date_posted": 1771514663,
         "url": "https://job-boards.greenhouse.io/pantheonpublic/jobs/8418972002",
@@ -216787,7 +216787,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "a954b525-39ed-411b-990b-860654bcb406",
         "title": "Graduate Product Manager-Consumer Print",
-        "active": true,
+        "active": false,
         "date_updated": 1771516629,
         "date_posted": 1771516629,
         "url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Reading-Berkshire-United-Kingdom/Category-Sales-Rep-Grad_3158428",
@@ -220809,7 +220809,7 @@
         "company_name": "Citizens Financial Group",
         "id": "94a8e64d-7470-4fd8-bf70-6a741abbc068",
         "title": "Platform Product Owner",
-        "active": true,
+        "active": false,
         "date_updated": 1771628762,
         "date_posted": 1771628762,
         "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/43661",
@@ -221856,7 +221856,7 @@
         "company_name": "The Boeing Company",
         "id": "512d506b-d983-49e1-b8c3-c4247f81a28b",
         "title": "Electrical Network and Digital Connectivity System Design Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1771693723,
         "date_posted": 1771693723,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Electrical-Network-and-Digital-Connectivity-System-Design-Engineer--Entry-Level-or-Associate-_JR2026497450-2",
@@ -226067,5 +226067,67 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Idealforce",
+        "id": "355b8238-f792-4bd3-a584-1d38f72e1ec4",
+        "title": ".Net Developer",
+        "active": true,
+        "date_updated": 1771899108,
+        "date_posted": 1771899108,
+        "url": "https://jobs.smartrecruiters.com/IDEALFORCELLC/85300922",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Idealforce",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Benchling",
+        "id": "13ca75f9-0d76-4939-882e-23456998a4c0",
+        "title": "Software Engineer - Full Stack - Admin & Identity Platform",
+        "active": true,
+        "date_updated": 1771930247,
+        "date_posted": 1771380824,
+        "url": "https://jobs.ashbyhq.com/benchling/982241d9-e79f-4d68-9b3d-ac4bd5940456/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Benchling",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Wyoming",
+        "id": "d8dd260d-bf0c-4287-990c-8dee8317e69c",
+        "title": "Assistant/Associate Professor",
+        "active": true,
+        "date_updated": 1771929690,
+        "date_posted": 1770938193,
+        "url": "https://eeik.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260347",
+        "locations": [
+            "Laramie, WY"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Wyoming",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
     }
 ]
