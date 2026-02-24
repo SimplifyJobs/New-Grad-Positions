@@ -145504,7 +145504,7 @@
         "company_name": "ByteDance",
         "id": "5ca5638a-d91f-4bd1-99cb-21e31590271d",
         "title": "Research Scientist in Large Language Model Graduate - Seed-LLM",
-        "active": true,
+        "active": false,
         "date_updated": 1767395895,
         "date_posted": 1767395895,
         "url": "https://jobs.bytedance.com/en/position/7561701031874693429/detail",
@@ -173476,7 +173476,7 @@
         "company_name": "Anaplan",
         "id": "1eea71ad-23c1-48fa-b410-3a8f04a051fe",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1769181697,
         "date_posted": 1769181697,
         "url": "https://job-boards.greenhouse.io/anaplan/jobs/8381161002",
@@ -220294,7 +220294,7 @@
         "company_name": "U.S. Bank",
         "id": "bba73d2d-71c2-4ea1-b55b-015d3d1965a0",
         "title": "ESG Risk and Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1771601862,
         "date_posted": 1771601862,
         "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Loughlinstown-Ireland/ESG-Risk-and-Data-Analyst_2026-0003474",
@@ -225152,7 +225152,7 @@
         "company_name": "KRG Technologies",
         "id": "db217be8-1ede-476b-9b82-64ff5f67b524",
         "title": "Lab Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1771917376,
         "date_posted": 1771917376,
         "url": "https://jobs.smartrecruiters.com/KrgTechnologyInc/743999657712295",
@@ -225188,7 +225188,7 @@
         "company_name": "KRG Technologies",
         "id": "9af9be43-abbc-4f53-88b6-0cf2018586f4",
         "title": "Lab Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1771917384,
         "date_posted": 1771917384,
         "url": "https://jobs.smartrecruiters.com/KrgTechnologyInc/743999657712426",
@@ -226031,5 +226031,41 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "5675dea8-90c5-4499-88c7-db06de435350",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1771928487,
+        "date_posted": 1771928487,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050600",
+        "locations": [
+            "Bath, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Honeywell",
+        "id": "4fa8a264-61f3-4954-aa67-0bf14c5a4cca",
+        "title": "Semiconductor Technician Level 1",
+        "active": true,
+        "date_updated": 1771928801,
+        "date_posted": 1771629169,
+        "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/139453",
+        "locations": [
+            "Wayzata, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Honeywell",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
