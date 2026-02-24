@@ -1015,7 +1015,7 @@
         "company_name": "Akuna Capital",
         "id": "1ac52fdb-7e69-4fc6-a38c-2d98bf9c0ca9",
         "title": "Junior Quantitative Developer & Strategist",
-        "active": false,
+        "active": true,
         "date_updated": 1752518406,
         "date_posted": 1752518406,
         "url": "https://www.akunacapital.com/job-details?gh_jid=7063563",
@@ -26572,7 +26572,7 @@
         "company_name": "Graphcore",
         "id": "2a8dc926-14c4-469a-a90b-89ad57e7fc6f",
         "title": "2026 Graduate Software Engineer - Kernel Engineering Team",
-        "active": true,
+        "active": false,
         "date_updated": 1762274143,
         "date_posted": 1762274143,
         "url": "https://job-boards.greenhouse.io/graphcore/jobs/8230202002",
@@ -47828,7 +47828,7 @@
         "company_name": "TikTok",
         "id": "95b7c7bf-3e89-4839-919f-035661f89acb",
         "title": "Data Scientist - TikTok Ads",
-        "active": true,
+        "active": false,
         "date_updated": 1761908502,
         "date_posted": 1761908502,
         "url": "https://lifeattiktok.com/search/6863478486973040910",
@@ -180051,7 +180051,7 @@
         "company_name": "Morgan Stanley",
         "id": "2a5ebfd4-fe23-4b5b-afc9-bbca6fb8bb08",
         "title": "Risk Analytics - Capital Projections Analytics - Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1769599010,
         "date_posted": 1768956770,
         "url": "https://ms.wd5.myworkdayjobs.com/External/job/London-United-Kingdom/Risk-Analytics---Capital-Projections-Analytics--Associate_PT-JR027455-1",
@@ -180090,7 +180090,7 @@
         "company_name": "Morgan Stanley",
         "id": "feb0d965-41e3-4937-aeae-0f1f5549a565",
         "title": "Risk Analytics - Capital Projections Analytics - Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1769599109,
         "date_posted": 1767979581,
         "url": "https://ms.wd5.myworkdayjobs.com/private/job/London-United-Kingdom/Risk-Analytics---Capital-Projections-Analytics--Associate_PT-JR027455",
@@ -210378,7 +210378,7 @@
         "company_name": "Johnson & Johnson",
         "id": "da65d877-654e-4f8e-a612-3b072d5fd05d",
         "title": "Postdoctoral Researcher Omics & Multimodal Data Integration",
-        "active": true,
+        "active": false,
         "date_updated": 1771248323,
         "date_posted": 1771248323,
         "url": "https://jj.wd5.myworkdayjobs.com/NonCompetetiveHiring/job/High-Wycombe-Buckinghamshire-United-Kingdom/Postdoctoral-Researcher-Omics---Multimodal-Data-Integration--R-D-Neuroscience-Data-Science---Digital-Health_R-056680-2",
@@ -226009,6 +226009,27 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Vanasse Hangen Brustlin (VHB)",
+        "id": "e822c5c8-1090-4c57-a7d0-b3d7fffb1ea5",
+        "title": "Entry Level Environmental Engineer",
+        "active": true,
+        "date_updated": 1771925856,
+        "date_posted": 1771600015,
+        "url": "https://careers-vhb.icims.com/jobs/5873/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Burlington, VT",
+            "Montpelier, VT"
+        ],
+        "company_url": "https://simplify.jobs/c/Vanasse-Hangen-Brustlin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
