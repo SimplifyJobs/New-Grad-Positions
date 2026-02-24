@@ -164281,7 +164281,7 @@
         "company_name": "Wells Fargo",
         "id": "47880064-6439-4b84-9243-141a2d0f1b78",
         "title": "Engineering Associate - Java API",
-        "active": true,
+        "active": false,
         "date_updated": 1768576826,
         "date_posted": 1768576826,
         "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHANDLER-AZ/Engineering-Associate---Java-API_R-515563",
@@ -181256,7 +181256,7 @@
         "company_name": "Northrop Grumman",
         "id": "b048322d-c899-4adb-9635-a877f6f30af9",
         "title": "SW Obsolescence Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1769643762,
         "date_posted": 1769643762,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/SW-Obsolescence-Engineer-2-3_R10221066",
@@ -183434,7 +183434,7 @@
         "company_name": "Wells Fargo",
         "id": "2828a338-7d68-4008-8984-a482bb96eff6",
         "title": "Engineering Associate - Middleware Operations",
-        "active": true,
+        "active": false,
         "date_updated": 1769730921,
         "date_posted": 1769730921,
         "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/MINNEAPOLIS-MN/Engineering-Associate---Middleware-Operations_R-518252",
@@ -184712,7 +184712,7 @@
         "company_name": "RTX",
         "id": "73df5cff-7c3a-4d21-ae3c-c75a9096c4ba",
         "title": "2026 Full-time - Software Engineer II",
-        "active": true,
+        "active": false,
         "date_updated": 1769758967,
         "date_posted": 1769758967,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/XMLNAME-2026-Full-time---Software-Engineer-II---Onsite--AZ-_01820536",
@@ -221045,7 +221045,7 @@
         "company_name": "DaVita",
         "id": "a3623005-4392-477f-8d90-e821d6670d9d",
         "title": "Patient Marketing and Communications Senior Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1771631360,
         "date_posted": 1771631360,
         "url": "https://davita.wd1.myworkdayjobs.com/DKC_External/job/09507---Colorado-Remote/Patient-Marketing-and-Communications-Sr-Analyst_R0446432",
@@ -225555,5 +225555,460 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jobsbridge",
+        "id": "a2ab2a2f-65f8-4ab1-9361-f09f6adb8e41",
+        "title": "Mobile Software Developer",
+        "active": true,
+        "date_updated": 1771917534,
+        "date_posted": 1771917534,
+        "url": "https://jobs.smartrecruiters.com/Jobsbridge1/93130280",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Jobsbridge",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jobsbridge",
+        "id": "f6235338-2c1a-4ce5-b8bf-cc208c9635da",
+        "title": "Entry Level Mobile Developer",
+        "active": true,
+        "date_updated": 1771917617,
+        "date_posted": 1771917617,
+        "url": "https://jobs.smartrecruiters.com/Jobsbridge1/88661485",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Jobsbridge",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Infojini",
+        "id": "ecb76800-abbb-47b3-9f45-5bc66744967e",
+        "title": "Java Developer",
+        "active": true,
+        "date_updated": 1771917317,
+        "date_posted": 1771917317,
+        "url": "https://jobs.smartrecruiters.com/InfojiniInc1/80880240",
+        "locations": [
+            "Waltham, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Infojini",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "KRG Technologies",
+        "id": "e4f63ac1-6662-49e3-81cc-bbb1543b65bd",
+        "title": "Lab Technician",
+        "active": true,
+        "date_updated": 1771917421,
+        "date_posted": 1771917421,
+        "url": "https://jobs.smartrecruiters.com/KrgTechnologyInc/115995759",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/KRG-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Jobs for Humanity",
+        "id": "c2e040f0-ef6a-49de-92f8-e2cbceff262a",
+        "title": "AI Web Search Evaluator",
+        "active": true,
+        "date_updated": 1771917905,
+        "date_posted": 1771917905,
+        "url": "https://jobs.smartrecruiters.com/JobsForHumanity/744000031457875",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Jobs-For-Humanity",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jobsbridge",
+        "id": "c24cb28c-f9f3-4fe1-a361-083f42434595",
+        "title": "Java Web Services Developer",
+        "active": true,
+        "date_updated": 1771917627,
+        "date_posted": 1771917627,
+        "url": "https://jobs.smartrecruiters.com/Jobsbridge1/88618378",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Jobsbridge",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jobsbridge",
+        "id": "b5893c80-32eb-4b0d-a954-eb89a754046f",
+        "title": "Junior Java Developer",
+        "active": true,
+        "date_updated": 1771917643,
+        "date_posted": 1771917643,
+        "url": "https://jobs.smartrecruiters.com/Jobsbridge1/87384744",
+        "locations": [
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Jobsbridge",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "PJM",
+        "id": "ae5e2ede-78b5-4c71-a14a-94967d760590",
+        "title": "Engineer/Analyst 1 - 2",
+        "active": true,
+        "date_updated": 1771917904,
+        "date_posted": 1771917904,
+        "url": "https://pjm.wd5.myworkdayjobs.com/pjmcareers/job/Audubon-PA-Hybrid/Engineer-Analyst-I--II-_REQ-2026-4139-1",
+        "locations": [
+            "King of Prussia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/PJM",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jobsbridge",
+        "id": "a49eed84-c6a2-4d9e-8e2f-b428574f0b17",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1771917557,
+        "date_posted": 1771917557,
+        "url": "https://jobs.smartrecruiters.com/Jobsbridge1/92290121",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Jobsbridge",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jobsbridge",
+        "id": "85f6e3a1-f951-4de0-9c07-f34967ac4e66",
+        "title": "Web Developer - Entry level",
+        "active": true,
+        "date_updated": 1771917522,
+        "date_posted": 1771917522,
+        "url": "https://jobs.smartrecruiters.com/Jobsbridge1/93677898",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Jobsbridge",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jobsbridge",
+        "id": "836a3397-4dff-43a9-a81e-79a1a71bc3ff",
+        "title": "Junior Java Developer",
+        "active": true,
+        "date_updated": 1771917526,
+        "date_posted": 1771917526,
+        "url": "https://jobs.smartrecruiters.com/Jobsbridge1/93541896",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Jobsbridge",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Infojini",
+        "id": "7ba010cd-1814-4312-bcb0-d4fff3454790",
+        "title": "Web Developer",
+        "active": true,
+        "date_updated": 1771917312,
+        "date_posted": 1771917312,
+        "url": "https://jobs.smartrecruiters.com/InfojiniInc1/84004571",
+        "locations": [
+            "Las Vegas, NV"
+        ],
+        "company_url": "https://simplify.jobs/c/Infojini",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jobsbridge",
+        "id": "734b8743-71ff-418a-abc6-9dc4da738253",
+        "title": "Java Developer",
+        "active": true,
+        "date_updated": 1771917571,
+        "date_posted": 1771917571,
+        "url": "https://jobs.smartrecruiters.com/Jobsbridge1/91943497",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Jobsbridge",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Integrated Resources",
+        "id": "485a6fb3-c3f9-4d57-b1df-90972fe970b9",
+        "title": "Web Developer",
+        "active": true,
+        "date_updated": 1771917992,
+        "date_posted": 1771917992,
+        "url": "https://jobs.smartrecruiters.com/IntegratedResourcesINC/82335132",
+        "locations": [
+            "Billerica, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Integrated-Resources",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Integrated Resources",
+        "id": "f7fc7117-6f08-42a7-a7aa-902e32277dd2",
+        "title": "Database Engineer",
+        "active": true,
+        "date_updated": 1771917880,
+        "date_posted": 1771917880,
+        "url": "https://jobs.smartrecruiters.com/IntegratedResourcesINC/111334828",
+        "locations": [
+            "Westborough, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Integrated-Resources",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Integrated Resources",
+        "id": "d5653575-51c4-4f6f-8b33-4d530cb4e6d1",
+        "title": "SAS Programmer/Analyst",
+        "active": true,
+        "date_updated": 1771917987,
+        "date_posted": 1771917987,
+        "url": "https://jobs.smartrecruiters.com/IntegratedResourcesINC/83876082",
+        "locations": [
+            "Lawrence Township, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Integrated-Resources",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Integrated Resources",
+        "id": "b2a8db15-2583-4575-adbe-f1d296925d99",
+        "title": "Dot Net Developer with QNXT experience",
+        "active": true,
+        "date_updated": 1771917990,
+        "date_posted": 1771917990,
+        "url": "https://jobs.smartrecruiters.com/IntegratedResourcesINC/83259528",
+        "locations": [
+            "Cherry Hills Village, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Integrated-Resources",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "KRG Technologies",
+        "id": "9cf0093d-927b-4d21-996b-4f128e3dfb44",
+        "title": "IOS Automation Developer:",
+        "active": true,
+        "date_updated": 1771918146,
+        "date_posted": 1771918146,
+        "url": "https://jobs.smartrecruiters.com/KrgTechnologyInc/743999658391460",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/KRG-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Integrated Resources",
+        "id": "5036062f-0dd1-43dd-bdfd-5d44b8084fc4",
+        "title": "Document/Data Analyst",
+        "active": true,
+        "date_updated": 1771917913,
+        "date_posted": 1771917913,
+        "url": "https://jobs.smartrecruiters.com/IntegratedResourcesINC/95378093",
+        "locations": [
+            "Boulder, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Integrated-Resources",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Lawrence Livermore National Laboratory (LLNL)",
+        "id": "4d453fb0-a1f8-43da-9810-884ad0f54eb3",
+        "title": "Applied Statistics Postdoctoral Researcher",
+        "active": true,
+        "date_updated": 1771918137,
+        "date_posted": 1771918137,
+        "url": "https://jobs.smartrecruiters.com/LLNL/3743990010389316",
+        "locations": [
+            "Livermore, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/LLNL",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Insilico Logix",
+        "id": "42301770-1799-48e9-83b9-76e83db1b360",
+        "title": "Business Analyst / Data Analyst Entry Level",
+        "active": true,
+        "date_updated": 1771918140,
+        "date_posted": 1771918140,
+        "url": "https://jobs.smartrecruiters.com/InsilicoLogix/743999653809331",
+        "locations": [
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Insilico-Logix",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Integrated Resources",
+        "id": "08d728b9-06a1-4896-9fb7-fa995fe8e5b8",
+        "title": "IOS developer",
+        "active": true,
+        "date_updated": 1771917970,
+        "date_posted": 1771917970,
+        "url": "https://jobs.smartrecruiters.com/IntegratedResourcesINC/85840388",
+        "locations": [
+            "Hartford, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/Integrated-Resources",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Jobs for Humanity",
+        "id": "072d7607-af18-4897-bf69-3a2a23ed2fc3",
+        "title": "Speakers/Writers",
+        "active": true,
+        "date_updated": 1771917913,
+        "date_posted": 1771917913,
+        "url": "https://jobs.smartrecruiters.com/JobsForHumanity/744000016308861",
+        "locations": [
+            "Bend, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Jobs-For-Humanity",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Lawrence Livermore National Laboratory (LLNL)",
+        "id": "00c6fb1a-a06c-4b96-86af-dc023929622d",
+        "title": "Deep Learning for Earth System Modeling Evaluation",
+        "active": true,
+        "date_updated": 1771918135,
+        "date_posted": 1771918135,
+        "url": "https://jobs.smartrecruiters.com/LLNL/3743990011639054",
+        "locations": [
+            "Livermore, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/LLNL",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
     }
 ]
