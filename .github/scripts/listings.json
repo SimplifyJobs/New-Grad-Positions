@@ -174493,7 +174493,7 @@
         "company_name": "EquipmentShare",
         "id": "86c09d3f-d856-4f0a-bf4c-322822984878",
         "title": "Telematics Installer",
-        "active": true,
+        "active": false,
         "date_updated": 1769211290,
         "date_posted": 1769211290,
         "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=7558815",
@@ -174827,7 +174827,7 @@
         "company_name": "Teledyne",
         "id": "5a95f63c-9637-4c9b-a893-79cef7f1d602",
         "title": "Field Service / Support Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1769221904,
         "date_posted": 1769221904,
         "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Tucson-AZ/Field-Service---Support-Technician_REQ32158",
@@ -189406,7 +189406,7 @@
         "company_name": "EquipmentShare",
         "id": "11a3ba18-27ab-4c95-9c52-215812d9c67c",
         "title": "Telematics Installer",
-        "active": true,
+        "active": false,
         "date_updated": 1770075452,
         "date_posted": 1770075452,
         "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=7582793",
@@ -211574,7 +211574,7 @@
         "company_name": "EquipmentShare",
         "id": "c43480f1-8387-4261-8953-a08b84b3cdee",
         "title": "Telematics Installer",
-        "active": false,
+        "active": true,
         "date_updated": 1771296241,
         "date_posted": 1771296241,
         "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=7621307",
@@ -220192,7 +220192,7 @@
         "company_name": "Charles Schwab",
         "id": "3c96ec2b-7ce8-4ec0-b644-a8df91dd7e9c",
         "title": "Associate \u2013 Data and Rep Technology",
-        "active": true,
+        "active": false,
         "date_updated": 1771600127,
         "date_posted": 1771600127,
         "url": "https://career-schwab.icims.com/jobs/119235/job?mobile=true&needsRedirect=false",
@@ -222381,7 +222381,7 @@
         "company_name": "Sainsbury's",
         "id": "9efa8df6-7972-4644-987f-99d52356562b",
         "title": "Nightshift Trading Assistant - Local",
-        "active": true,
+        "active": false,
         "date_updated": 1771801738,
         "date_posted": 1771801738,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050225",
@@ -222881,7 +222881,7 @@
         "company_name": "Sainsbury's",
         "id": "6239c6dc-74e6-4b83-83a8-1bbc05167198",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1771859353,
         "date_posted": 1771859353,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050565",
@@ -224668,6 +224668,107 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northrop Grumman",
+        "id": "4782615a-9789-4eb2-a7ba-3a954a5f815e",
+        "title": "Engineering Technician 1",
+        "active": true,
+        "date_updated": 1771901285,
+        "date_posted": 1771901285,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Georgia-Warner-Robins/SCA-Engineering-Technician-1_R10223099",
+        "locations": [
+            "Warner Robins, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "The Boeing Company",
+        "id": "ff018bc5-5357-4dee-b8f6-99a101a3721b",
+        "title": "Product Engineer",
+        "active": true,
+        "date_updated": 1771901059,
+        "date_posted": 1771901059,
+        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Sylmar-CA/Product-Engineer_JR2026497448",
+        "locations": [
+            "Pacoima, LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Microchip Technology",
+        "id": "f796e5b8-5da1-4431-ab6a-c5af43b9deab",
+        "title": "Engineer 2 - Digital Design",
+        "active": true,
+        "date_updated": 1771900433,
+        "date_posted": 1771900433,
+        "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/AZ---Chandler/Engineer-II-Digital-Design_R107-26",
+        "locations": [
+            "Chandler, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Microchip-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Blue Cross of Idaho",
+        "id": "569333ca-1fa6-4624-a965-7afd6e21eb10",
+        "title": "Configuration Analyst",
+        "active": true,
+        "date_updated": 1771900403,
+        "date_posted": 1771900403,
+        "url": "https://bcidaho.wd5.myworkdayjobs.com/BCI/job/Meridian---Main/Configuration-Analys_R3299",
+        "locations": [
+            "Meridian, ID"
+        ],
+        "company_url": "https://simplify.jobs/c/Blue-Cross-Of-Idaho",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "EquipmentShare",
+        "id": "d6553af0-a973-4ef2-82a4-459d47cd80e6",
+        "title": "Telematics Installer",
+        "active": true,
+        "date_updated": 1771899956,
+        "date_posted": 1771899956,
+        "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=7648737",
+        "locations": [
+            "South Plainfield, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Equipment-Share",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Certificate"
         ]
     }
 ]
