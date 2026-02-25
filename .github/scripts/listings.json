@@ -53992,7 +53992,7 @@
         "company_name": "Assort Health",
         "id": "724f5d68-f44c-4be2-b77e-f6f49f9991fe",
         "title": "Agent Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1762925546,
         "date_posted": 1761609995,
         "url": "https://jobs.ashbyhq.com/assorthealth/64876579-05a2-40b6-a772-d1ce8b0ac8c4/application",
@@ -78285,7 +78285,7 @@
         "company_name": "TikTok",
         "id": "ac899a9c-191b-4a0c-af3d-c1601e45e5b1",
         "title": "Software Engineer Graduate - Data Arch - E-commerce",
-        "active": true,
+        "active": false,
         "date_updated": 1762913179,
         "date_posted": 1761913910,
         "url": "https://lifeattiktok.com/search/7535238327160637703",
@@ -114157,7 +114157,7 @@
         "company_name": "Vanderlande Industries",
         "id": "584e4aaa-a661-48aa-9634-9dd80a7a36bc",
         "title": "Integration Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1764812664,
         "date_posted": 1764812664,
         "url": "https://vanderlande.wd3.myworkdayjobs.com/careers/job/Marietta-Atlanta/Integration-Engineer_JR34734-1",
@@ -144031,7 +144031,7 @@
         "company_name": "Arcadis",
         "id": "423ce665-120e-46ff-bc35-0b7dd92b77cb",
         "title": "Entry Level Environmental Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1764606208,
         "date_posted": 1764606208,
         "url": "https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36038",
@@ -165702,7 +165702,7 @@
         "company_name": "RTX",
         "id": "afe41c38-134e-4b43-bb27-363460b8bf63",
         "title": "Software Engineer 1 - Software Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1768615929,
         "date_posted": 1768615929,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-802--1151-E-Hermans-Rd--BLDG-802/XMLNAME-2026-Full-time---Software-Engineer-I---Onsite--AZ-_01802087",
@@ -213132,7 +213132,7 @@
         "company_name": "Maricopa County",
         "id": "72eae534-ae3d-41da-a091-3fafe9a4823d",
         "title": "Full Stack Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1771370995,
         "date_posted": 1771370995,
         "url": "https://maricopa.wd1.myworkdayjobs.com/en-US/MC_External/job/Phoenix-AZ-Hybrid/Full-Stack-Developer_JR22048",
@@ -226038,7 +226038,7 @@
         "company_name": "Honeywell",
         "id": "4fa8a264-61f3-4954-aa67-0bf14c5a4cca",
         "title": "Semiconductor Technician Level 1",
-        "active": true,
+        "active": false,
         "date_updated": 1771928801,
         "date_posted": 1771629169,
         "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/139453",
@@ -228523,6 +228523,89 @@
             "Columbus, MS"
         ],
         "company_url": "https://simplify.jobs/c/Steel-Dynamics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Eurofins",
+        "id": "f9a21ae7-fbe1-4977-83de-0107ece1134b",
+        "title": "Electrical Factory Inspector - Remote/Travel",
+        "active": true,
+        "date_updated": 1771974711,
+        "date_posted": 1771974711,
+        "url": "https://jobs.smartrecruiters.com/Eurofins/744000111116015",
+        "locations": [
+            "Dayton, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Eurofins",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Eurofins",
+        "id": "2cea44ab-924b-4dc4-8af3-b7a0a73a700c",
+        "title": "Electrical Factory Inspector - Remote/Travel",
+        "active": true,
+        "date_updated": 1771974712,
+        "date_posted": 1771974712,
+        "url": "https://jobs.smartrecruiters.com/Eurofins/744000111118005",
+        "locations": [
+            "Newark, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Eurofins",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Eurofins",
+        "id": "0ba3a5bf-1d6a-44d9-ba8e-0c7242be56c9",
+        "title": "Electrical Factory Inspector - Remote/Travel",
+        "active": true,
+        "date_updated": 1771974710,
+        "date_posted": 1771974710,
+        "url": "https://jobs.smartrecruiters.com/Eurofins/744000111115139",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Eurofins",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Warner Music",
+        "id": "94f1b678-3c92-4407-8f6a-5da6f9442e43",
+        "title": "Growth Automation Analyst",
+        "active": true,
+        "date_updated": 1772016243,
+        "date_posted": 1771691333,
+        "url": "https://wmg.wd1.myworkdayjobs.com/WMGUS/job/USA---Miami---555-Washington-Avenue/Analyst--Growth-Automation_R-026878",
+        "locations": [
+            "Miami, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/cce28f75-897e-4868-bcbb-501d451534d0",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
