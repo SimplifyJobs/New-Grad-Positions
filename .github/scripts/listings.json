@@ -17903,7 +17903,7 @@
         "company_name": "General Motors",
         "id": "947030be-f428-4b1a-9c83-6635b039aa33",
         "title": "Software Engineer \u2013 Early Career - Software Development",
-        "active": true,
+        "active": false,
         "date_updated": 1761884449,
         "date_posted": 1759001310,
         "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Mountain-View-California-United-States-of-America/Software-Engineer---Early-Career_JR-202517310",
@@ -95433,7 +95433,7 @@
         "company_name": "Cisco",
         "id": "f48c72a3-96f6-4642-bd40-b7dff24b1f90",
         "title": "Early in Career Data Analyst / Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1763664504,
         "date_posted": 1763664504,
         "url": "https://careers.cisco.com/global/en/job/2000221",
@@ -227842,5 +227842,210 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "General Motors",
+        "id": "9625e78d-5698-46ee-b54e-749e328b0095",
+        "title": "Software Engineer \u2013 Early Career",
+        "active": true,
+        "date_updated": 1771987738,
+        "date_posted": 1771987738,
+        "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Mountain-View-California-United-States-of-America/Software-Engineer---Early-Career_JR-202517310",
+        "locations": [
+            "Warren, MI",
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Motors",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Mindlance",
+        "id": "ea3db61c-719a-4562-a053-f71825957f10",
+        "title": "Maps and Records Technician",
+        "active": true,
+        "date_updated": 1771985931,
+        "date_posted": 1771985931,
+        "url": "https://jobs.smartrecruiters.com/Mindlance2/743999654969247",
+        "locations": [
+            "Syracuse, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Mindlance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "PVH",
+        "id": "b2cf1817-384b-4b3a-9852-2def4c845867",
+        "title": "Assistant Merchandiser",
+        "active": true,
+        "date_updated": 1771987324,
+        "date_posted": 1771987324,
+        "url": "https://pvh.wd1.myworkdayjobs.com/en-US/PVH_Careers/job/New-York-NY-Calvin-Klein-Office/Assistant-Merchandiser--Men-s-Apparel-Woven-Tops-and-Bottoms_R57837",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/PVH",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "f4dc7b42-37de-4758-8e11-0e952932b80f",
+        "title": "Engineering Technician A",
+        "active": true,
+        "date_updated": 1771985613,
+        "date_posted": 1771985613,
+        "url": "https://jobs.l3harris.com/job/Salt-Lake-City-Engineering-Technician-A-UT-84116/1367521700/?ats=successfactors",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Miracle Software Systems",
+        "id": "a5639007-e5ff-4da1-9359-39d1c379df96",
+        "title": "Software Developer - Full time",
+        "active": true,
+        "date_updated": 1771985640,
+        "date_posted": 1771985640,
+        "url": "https://jobs.smartrecruiters.com/MiracleSoftwareSystem1/743999691008059",
+        "locations": [
+            "Bentonville, AR",
+            "Novi, MI",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Miracle-Software-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Aristocrat Leisure",
+        "id": "9b2e6700-09fb-412d-8c0f-c9cba7d636e7",
+        "title": "Digital Games Coordinator",
+        "active": true,
+        "date_updated": 1771986990,
+        "date_posted": 1771986990,
+        "url": "https://aristocrat.wd3.myworkdayjobs.com/aristocratexternalcareerssite/job/Charleston-WV-US/Digital-Games-Coordinator_R0020661",
+        "locations": [
+            "Charleston, WV"
+        ],
+        "company_url": "https://simplify.jobs/c/Aristocrat-Leisure",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "MAT Holdings",
+        "id": "981f2626-8819-4648-86c1-d1ab6a6bb5c9",
+        "title": "Associate Product Manager",
+        "active": true,
+        "date_updated": 1771985621,
+        "date_posted": 1771985621,
+        "url": "https://jobs.smartrecruiters.com/MATHoldings/744000086453031",
+        "locations": [
+            "Jackson, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/MAT-Holdings",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Mindlance",
+        "id": "544d479c-79d2-4942-bc29-de87eeef8c1b",
+        "title": "Technical Product Owner",
+        "active": true,
+        "date_updated": 1771986055,
+        "date_posted": 1771986055,
+        "url": "https://jobs.smartrecruiters.com/Mindlance2/93714841",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Mindlance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "PermitFlow",
+        "id": "7fa1d4d8-c83e-4dbb-8172-66eff3bb6363",
+        "title": "Fullstack Software Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1771985297,
+        "date_posted": 1771985297,
+        "url": "https://jobs.ashbyhq.com/permitflow/78b1fccf-2ed9-4485-bd40-4a5aea3907d4/application",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/PermitFlow",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Xometry",
+        "id": "99ce9dbb-3f54-4256-adcd-8bd31a34b52a",
+        "title": "Application Engineer - Injection Molding",
+        "active": true,
+        "date_updated": 1771975905,
+        "date_posted": 1771975905,
+        "url": "https://job-boards.greenhouse.io/xometry/jobs/5061787007",
+        "locations": [
+            "Lexington, KY"
+        ],
+        "company_url": "https://simplify.jobs/c/Xometry",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "PharmD",
+            "PhD",
+            "Associate's",
+            "JD",
+            "MD"
+        ]
     }
 ]
