@@ -126434,7 +126434,7 @@
         "company_name": "Qualcomm",
         "id": "15285081-a634-4f80-a6b3-e49ec2525305",
         "title": "Software Engineer - Software Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1765815754,
         "date_posted": 1765815754,
         "url": "https://qualcomm.eightfold.ai/careers/job/446715747052",
@@ -199524,7 +199524,7 @@
         "company_name": "Hewlett Packard Enterprise",
         "id": "046e6135-45a0-4e94-a20a-91653c5fa6ea",
         "title": "Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1770604074,
         "date_posted": 1770604074,
         "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Roseville-California-United-States-of-America/Software-Engineer-I_1202397",
@@ -221722,7 +221722,7 @@
         "company_name": "Sainsbury's",
         "id": "6cb14239-3a9d-495c-b4ab-0673e21563fa",
         "title": "Trading Assistant - Shift",
-        "active": false,
+        "active": true,
         "date_updated": 1771686969,
         "date_posted": 1771686969,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050534",
@@ -227725,6 +227725,120 @@
             "Halethorpe, MD"
         ],
         "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "06a3ad28-778e-4eee-9353-85d16a2c4ee4",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1771985344,
+        "date_posted": 1771985344,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050986",
+        "locations": [
+            "Tunbridge Wells, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Mindlance",
+        "id": "9d4d3c24-151d-4061-ab4c-61fcc0f6ad56",
+        "title": "Database Coordinator",
+        "active": true,
+        "date_updated": 1771986069,
+        "date_posted": 1771986069,
+        "url": "https://jobs.smartrecruiters.com/Mindlance2/92047024",
+        "locations": [
+            "Paramus, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Mindlance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Mindlance",
+        "id": "b30aef5e-0da3-4f16-8353-a69402a9941f",
+        "title": "Entry Level Database Developer",
+        "active": true,
+        "date_updated": 1771985921,
+        "date_posted": 1771985921,
+        "url": "https://jobs.smartrecruiters.com/Mindlance2/743999656707257",
+        "locations": [
+            "Frisco, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Mindlance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Mindlance",
+        "id": "7a5fb4fd-b566-4712-8377-b3dfcbd2df38",
+        "title": "Web/Marketing Analytics",
+        "active": true,
+        "date_updated": 1771985938,
+        "date_posted": 1771985938,
+        "url": "https://jobs.smartrecruiters.com/Mindlance2/743999657437717",
+        "locations": [
+            "Western Springs, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Mindlance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "SpaceX",
+        "id": "7a30fdfc-b4b3-48bb-b4b9-d379a5e7a087",
+        "title": "Diamond Turning Machinist - Starlink",
+        "active": true,
+        "date_updated": 1771985930,
+        "date_posted": 1771985930,
+        "url": "https://boards.greenhouse.io/spacex/jobs/8428913002",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/SpaceX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "c1a5338d-1892-4030-8df9-7136ad52b982",
+        "title": "Engineering Technician A",
+        "active": true,
+        "date_updated": 1771985601,
+        "date_posted": 1771985601,
+        "url": "https://jobs.l3harris.com/job/Salt-Lake-City-Engineering-Technician-A-UT-84116/1367522500/?ats=successfactors",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
