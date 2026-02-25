@@ -175062,7 +175062,7 @@
         "company_name": "Prairie View A&M University",
         "id": "6f66ab1b-433f-4ac9-84c9-28a7d33a0ef5",
         "title": "Postdoctoral Researcher",
-        "active": false,
+        "active": true,
         "date_updated": 1769126467,
         "date_posted": 1769126467,
         "url": "https://tamus.wd1.myworkdayjobs.com/pvamu_external/job/Prairie-View-TX/Postdoctoral-Researcher--PIER---Environmental-Data-Science-and-Artificial-Intelligence-_R-089857-1",
@@ -182220,7 +182220,7 @@
         "company_name": "Agilent Technologies",
         "id": "04bed8e0-0187-4d57-b226-86993e04e6c7",
         "title": "Graduate Field Service Engineer - South West UK - Chromatography and Spectroscopy",
-        "active": true,
+        "active": false,
         "date_updated": 1769615446,
         "date_posted": 1769615446,
         "url": "https://agilent.wd5.myworkdayjobs.com/Agilent_Student_Careers/job/UK-Remote-Location-Harwell/Graduate-Field-Service-Engineer---South-West-UK---Chromatography-and-Spectroscopy_4034596",
@@ -199834,7 +199834,7 @@
         "company_name": "Allstate Insurance Company",
         "id": "b3b743ac-c13f-417d-befd-df0c203c47f8",
         "title": "Graduate Product Engineers - Registration of Interest",
-        "active": true,
+        "active": false,
         "date_updated": 1770651913,
         "date_posted": 1770651913,
         "url": "https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/Belfast-10-Mays-Meadow/Graduate-Product-Engineers---Registration-of-Interest_R26289",
@@ -214230,7 +214230,7 @@
         "company_name": "Teledyne",
         "id": "dbe5d4c0-3d4a-4c6a-bcfe-b87cb0864915",
         "title": "Assembly & Test Operator",
-        "active": true,
+        "active": false,
         "date_updated": 1771428615,
         "date_posted": 1771428615,
         "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/UK---Lincoln/Assembly---Test-Operator_REQ33309",
@@ -216251,7 +216251,7 @@
         "company_name": "The Boeing Company",
         "id": "b5509517-9392-44f1-b9c5-a76c66ed7e67",
         "title": "Product Data Management Engineer \u2013 Associate or Mid-Level - Config & Data Mgmt/Tech Integ",
-        "active": false,
+        "active": true,
         "date_updated": 1771499761,
         "date_posted": 1771459017,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Renton-WA/Product-Data-Management-Engineer---Config---Data-Mgmt-Tech-Integ--Associate-or-Mid-Level-_JR2026491114-1",
@@ -227677,7 +227677,7 @@
         "company_name": "Northrop Grumman",
         "id": "9e230057-bf3b-4d14-83f3-c976b26e8c94",
         "title": "Principal / Senior Principal Data Analyst Electronic Warfare Systems Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1771977572,
         "date_posted": 1771977572,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/Principal---Sr-Principal-Data-Analyst-Electronic-Warfare-Systems-Engineer_R10223850",
@@ -228610,6 +228610,29 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Johns Manville (JM)",
+        "id": "ed1d078c-29bf-42d1-bd9c-00a0fbd442bc",
+        "title": "Senior Product Engineer - Single Ply",
+        "active": true,
+        "date_updated": 1772018512,
+        "date_posted": 1771889349,
+        "url": "https://jm.wd103.myworkdayjobs.com/External/job/Littleton-CO-JMTC/Sr-Product-Engineer---Single-Ply_R26_0238",
+        "locations": [
+            "Elyria, OH",
+            "Littleton, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Johns-Manville",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     }
 ]
