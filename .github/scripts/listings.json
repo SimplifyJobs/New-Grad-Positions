@@ -55198,7 +55198,7 @@
         "company_name": "Quantexa",
         "id": "a1146331-b3dc-4372-8d2d-8cb1227b2f4e",
         "title": "Associate Data Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1761507400,
         "date_posted": 1761507400,
         "url": "https://apply.workable.com/quantexa/j/50C17DAD5A/apply",
@@ -213013,7 +213013,7 @@
         "company_name": "RTX",
         "id": "3f0d081c-c1f4-41a8-bbd9-b65145b41bc9",
         "title": "Systems Engineering 2",
-        "active": true,
+        "active": false,
         "date_updated": 1771371318,
         "date_posted": 1771371318,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IL-ROCKFORD-P6--4747-Harrison-Ave--4747-HARRISON-AVE-P6/Systems-Engineering-II--On-Site-_01824246",
@@ -222363,7 +222363,7 @@
         "company_name": "Sainsbury's",
         "id": "9efa8df6-7972-4644-987f-99d52356562b",
         "title": "Nightshift Trading Assistant - Local",
-        "active": false,
+        "active": true,
         "date_updated": 1771801738,
         "date_posted": 1771801738,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050225",
@@ -222435,7 +222435,7 @@
         "company_name": "Sainsbury's",
         "id": "0bdbc577-8832-471b-ad01-285de947cbb3",
         "title": "Trading Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1771801748,
         "date_posted": 1771801748,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050219",
@@ -222863,7 +222863,7 @@
         "company_name": "Sainsbury's",
         "id": "6239c6dc-74e6-4b83-83a8-1bbc05167198",
         "title": "Trading Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1771859353,
         "date_posted": 1771859353,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050565",
@@ -224057,7 +224057,7 @@
         "company_name": "City and County of San Francisco",
         "id": "cac368a5-1c3d-4ab4-b25b-21d070ce200a",
         "title": "Geographic Information Systems - GIS - Analyst-Design & Construction",
-        "active": true,
+        "active": false,
         "date_updated": 1771888413,
         "date_posted": 1771888413,
         "url": "https://jobs.smartrecruiters.com/CityAndCountyOfSanFrancisco1/3743990011802396",
@@ -226545,7 +226545,7 @@
         "company_name": "City and County of San Francisco",
         "id": "302341bb-3dff-425a-8cf2-3089f8c99aec",
         "title": "Geographic Information Systems - GIS - Analyst-Design & Construction",
-        "active": false,
+        "active": true,
         "date_updated": 1771975409,
         "date_posted": 1771975409,
         "url": "https://jobs.smartrecruiters.com/CityAndCountyOfSanFrancisco1/3743990011828896",
@@ -228721,5 +228721,103 @@
             "Bachelor's",
             "Certificate"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "American Express",
+        "id": "5351fd55-3b86-431b-8f86-5ed949236097",
+        "title": "Associate Product Manager",
+        "active": true,
+        "date_updated": 1772032703,
+        "date_posted": 1772032703,
+        "url": "https://aexp.eightfold.ai/careers/job/40259469",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/American-Express",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Booz Allen",
+        "id": "4263de72-f40a-4a9c-a785-60d9181638c7",
+        "title": "Software Developer",
+        "active": true,
+        "date_updated": 1772032791,
+        "date_posted": 1772032791,
+        "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Charleston-SC/Software-Developer_R0234695",
+        "locations": [
+            "Charleston, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/Booz-Allen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "6fe2f337-50fc-4ffe-9b7a-f84ea42ff374",
+        "title": "Manufacturing Technician A",
+        "active": true,
+        "date_updated": 1772032662,
+        "date_posted": 1772032662,
+        "url": "https://jobs.l3harris.com/job/Rochester-Manufacturing-Technician-A-NY-14623/1367791400/?ats=successfactors",
+        "locations": [
+            "Rochester, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "2e7d8208-4631-4207-ab85-d1b8783f96e9",
+        "title": "Manufacturing Technician A",
+        "active": true,
+        "date_updated": 1772032661,
+        "date_posted": 1772032661,
+        "url": "https://jobs.l3harris.com/job/Rochester-Manufacturing-Technician-A-NY-14623/1367791200/?ats=successfactors",
+        "locations": [
+            "Rochester, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "bf09058b-a329-4e96-afd4-735e093bd66a",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1772032222,
+        "date_posted": 1772032222,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051018",
+        "locations": [
+            "Cardiff, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
