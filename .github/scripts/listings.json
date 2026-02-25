@@ -2,41 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "FourKites",
-        "id": "de6552c1-f7f4-4d1a-bc13-ff388f55378d",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1751324804,
-        "date_posted": 1751324804,
-        "url": "https://job-boards.greenhouse.io/fourkites/jobs/7002143",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/FourKites",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Jerry",
-        "id": "dd18f20a-903f-491f-ab34-b52216f67e8a",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1751326103,
-        "date_posted": 1751326103,
-        "url": "https://jobs.ashbyhq.com/Jerry/aafa3b07-5705-4128-b344-14f0389d0130/application",
-        "locations": [
-            "Toronto, ON, Canada",
-            "Greater Toronto Area, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Jerry",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Noom",
         "id": "6de98a8c-05f7-4927-90dd-387ec16996b2",
         "title": "Software Engineer \u2013 New Grad",
@@ -48,23 +13,6 @@
             "Princeton, NJ"
         ],
         "company_url": "https://simplify.jobs/c/48d1021b-1679-4383-bba6-8a73ac654f64",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Jerry",
-        "id": "1be7d2bd-653d-44c2-bd70-152f9e16cef2",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1751326105,
-        "date_posted": 1751326105,
-        "url": "https://jobs.ashbyhq.com/Jerry/2f351dfa-4c5c-437c-98ad-471c1444bd77/application",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Jerry",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -168306,7 +168254,7 @@
         "company_name": "Maven Securities",
         "id": "9c65489a-b90e-479a-bd82-eb889fc0baee",
         "title": "Trading Analyst - Python - Options Market Making",
-        "active": true,
+        "active": false,
         "date_updated": 1769030065,
         "date_posted": 1769030065,
         "url": "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/7528267",
@@ -203648,7 +203596,7 @@
         "company_name": "Howmet Aerospace",
         "id": "47695da9-b23d-4956-b087-1a7460295402",
         "title": "Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1770805779,
         "date_posted": 1770805779,
         "url": "https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/116117",
@@ -214761,7 +214709,7 @@
         "company_name": "Marsh & McLennan",
         "id": "6cee3c67-bdad-4ef7-9479-e92911a60b56",
         "title": "Data/Account Management Analyst - Excel - Data Analysis & Reporting",
-        "active": false,
+        "active": true,
         "date_updated": 1771456105,
         "date_posted": 1771456105,
         "url": "https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Norwich---Willow/Account-Management-Data-Analyst_R_323585",
@@ -224077,7 +224025,7 @@
         "company_name": "Flextronics International",
         "id": "a02eb23e-23cc-4705-b721-c4b679414969",
         "title": "Engineering Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1771889289,
         "date_posted": 1771889289,
         "url": "https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-TX-Austin/Engineering-Technician_WD215745",
@@ -228879,6 +228827,467 @@
         "degrees": [
             "Associate's",
             "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Fiserv",
+        "id": "aaec7113-1da2-44fc-919b-b4986c930962",
+        "title": "API Integrations Analyst",
+        "active": true,
+        "date_updated": 1772061750,
+        "date_posted": 1772061750,
+        "url": "https://fiserv.wd5.myworkdayjobs.com/ext/job/Coral-Springs-Florida/API-Integrations-Analyst_R-10388214",
+        "locations": [
+            "Coral Springs, FL",
+            "Alpharetta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Fiserv",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RF-SMART",
+        "id": "a3db4338-6ae9-46e8-ab62-18b053850b46",
+        "title": "Technical Consultant 1",
+        "active": true,
+        "date_updated": 1772061870,
+        "date_posted": 1772061870,
+        "url": "https://job-boards.greenhouse.io/rfsmart/jobs/5131423008",
+        "locations": [
+            "Jacksonville, FL",
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/f006a158-9398-482e-9a19-a635e79862ae",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Fiserv",
+        "id": "8071512c-1505-418b-8c5d-78bac02e5f1a",
+        "title": "API Integrations Analyst",
+        "active": true,
+        "date_updated": 1772061753,
+        "date_posted": 1772061753,
+        "url": "https://fiserv.wd5.myworkdayjobs.com/ext/job/Coral-Springs-Florida/API-Integrations-Analyst_R-10388212",
+        "locations": [
+            "Coral Springs, FL",
+            "Alpharetta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Fiserv",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "American Express",
+        "id": "4a5335ca-836c-48e6-afe7-a9f29cab7ac1",
+        "title": "Data Analyst - Resy Credit Platform and Analytics",
+        "active": true,
+        "date_updated": 1772061615,
+        "date_posted": 1772061615,
+        "url": "https://aexp.eightfold.ai/careers/job/40454137",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/American-Express",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Cisco",
+        "id": "09ca8164-a46c-4d5c-9e37-56d3ad2f2327",
+        "title": "Data Engineer 1 - Full Time - United States",
+        "active": true,
+        "date_updated": 1772061662,
+        "date_posted": 1772061662,
+        "url": "https://careers.cisco.com/global/en/job/2003052",
+        "locations": [
+            "Research Triangle, Durham, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Cisco",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's",
+            "Bootcamp",
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Hawk-Eye Innovations",
+        "id": "dcb13eef-0487-4f7d-ab53-eec2e132b2fe",
+        "title": "Frontend Engineer - Level 2",
+        "active": true,
+        "date_updated": 1772061423,
+        "date_posted": 1772061423,
+        "url": "https://jobs.ashbyhq.com/hawkeyeinnovations/e12f521d-d620-4c1d-ac49-c06d734908f9/application",
+        "locations": [
+            "Basingstoke, UK",
+            "London, UK",
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Hawk-Eye-Innovations",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Vertiv",
+        "id": "b1df5402-acc8-48fb-bf44-75e537636609",
+        "title": "ERS-NETA Electrical Testing Technician",
+        "active": true,
+        "date_updated": 1772061450,
+        "date_posted": 1772061450,
+        "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20267723",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Vertiv",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Vertiv",
+        "id": "b1c1a8ab-b2ac-4caf-ba59-29276accb1fb",
+        "title": "Electrical Testing Technician",
+        "active": true,
+        "date_updated": 1772061435,
+        "date_posted": 1772061435,
+        "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20267725",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Vertiv",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Cummins",
+        "id": "97e6018d-a222-4954-8476-9d91cff1ce85",
+        "title": "Electronic Systems Product Engineer",
+        "active": true,
+        "date_updated": 1772061401,
+        "date_posted": 1772061401,
+        "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2423002",
+        "locations": [
+            "Columbus, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Cummins",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Vertiv",
+        "id": "4b11d49d-bea1-4a02-af80-7a9a1d68da98",
+        "title": "ERS-NETA Electrical Testing Technician",
+        "active": true,
+        "date_updated": 1772061451,
+        "date_posted": 1772061451,
+        "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20267722",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Vertiv",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "bae30d0d-be12-4e36-b249-81ee3838afdf",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1772061120,
+        "date_posted": 1772061120,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051051",
+        "locations": [
+            "Ashford District, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "SRI International",
+        "id": "9a3a0d72-d7f2-434c-ac6f-82ea3ebc3156",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1772061063,
+        "date_posted": 1772061063,
+        "url": "https://careers-sri.icims.com/jobs/6342/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Princeton, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/SRI-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Mycronic",
+        "id": "9133cf19-7bd1-48f5-ab4b-08233f772e9c",
+        "title": "Service Engineer",
+        "active": true,
+        "date_updated": 1772061103,
+        "date_posted": 1772061103,
+        "url": "https://ehtv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/730",
+        "locations": [
+            "California"
+        ],
+        "company_url": "https://simplify.jobs/c/Mycronic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "8ace960a-1bb7-43f8-91e8-9ae0ae9cee10",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1772061115,
+        "date_posted": 1772061115,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051049",
+        "locations": [
+            "Ashford District, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "88c9dc19-a620-4c8d-81d1-c3b783a4a7e4",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1772061116,
+        "date_posted": 1772061116,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051046",
+        "locations": [
+            "Ashford District, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Nokia",
+        "id": "6afded81-0fb2-46fc-982c-db783ffd023d",
+        "title": "Hardware Debug Technician",
+        "active": true,
+        "date_updated": 1772061090,
+        "date_posted": 1772061090,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/31726",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Nokia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Akima",
+        "id": "570386af-320c-4a36-976b-1cd0ab63cc23",
+        "title": "Web Application Developer 2",
+        "active": true,
+        "date_updated": 1772061255,
+        "date_posted": 1772061255,
+        "url": "https://careers.akima.com/jobs/21639?lang=en-us&icims=1",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Akima",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "4a48e8a1-3e5b-4df2-a468-1c84ffcdf5eb",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1772061108,
+        "date_posted": 1772061108,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050959",
+        "locations": [
+            "United Kingdom"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "001a05eb-6395-464f-a008-624bfa011723",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1772061118,
+        "date_posted": 1772061118,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051050",
+        "locations": [
+            "Ashford District, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Microsoft",
+        "id": "dd65b535-4767-423f-8d4b-9d0b9f9ecb70",
+        "title": "Quantum Software Engineer",
+        "active": true,
+        "date_updated": 1772060965,
+        "date_posted": 1772060965,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556754699",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Microsoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Microsoft",
+        "id": "c683f29c-df02-443d-af52-75915dbaf039",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1772060882,
+        "date_posted": 1772060882,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556768755",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Microsoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Washington State University",
+        "id": "dffe96c0-3d29-47d5-aeb2-89a28be7a608",
+        "title": "Entry IT Data Management",
+        "active": true,
+        "date_updated": 1772060570,
+        "date_posted": 1772060570,
+        "url": "https://wsu.wd5.myworkdayjobs.com/WSU_Jobs/job/Spokane-WA/Entry-IT-Data-Management---College-of-Medicine_R-14642",
+        "locations": [
+            "Spokane, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Washington-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "ASM International",
+        "id": "c81df46f-5efa-4098-b6c0-15e209f0b535",
+        "title": "Engineer \u2013 Field Service-\"Early Career\"",
+        "active": true,
+        "date_updated": 1772060630,
+        "date_posted": 1772060630,
+        "url": "https://www.asm.com/open-vacancies/?gh_jid=4739225101",
+        "locations": [
+            "Chandler, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/ASM-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
