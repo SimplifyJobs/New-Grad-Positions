@@ -15583,7 +15583,7 @@
         "company_name": "Adobe",
         "id": "d8d3887c-f0f5-45e9-af46-6c289c90d27f",
         "title": "MBA University Graduate - Product Manager",
-        "active": true,
+        "active": false,
         "date_updated": 1758358426,
         "date_posted": 1756434231,
         "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-MBA-University-Graduate---Product-Manager_R158962",
@@ -17903,7 +17903,7 @@
         "company_name": "General Motors",
         "id": "947030be-f428-4b1a-9c83-6635b039aa33",
         "title": "Software Engineer \u2013 Early Career - Software Development",
-        "active": false,
+        "active": true,
         "date_updated": 1761884449,
         "date_posted": 1759001310,
         "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Mountain-View-California-United-States-of-America/Software-Engineer---Early-Career_JR-202517310",
@@ -33552,7 +33552,7 @@
         "company_name": "Citigroup",
         "id": "94db29a7-a024-4251-9bb6-b2f6e7372df9",
         "title": "Technology - Application Development - Full Time Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1762993917,
         "date_posted": 1762993917,
         "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Irving-Texas-United-States/Technology--Application-Development--Full-Time-Analyst--Irving---USA--2026_25920347",
@@ -136035,7 +136035,7 @@
         "company_name": "Northrop Grumman",
         "id": "aec478e1-b79a-49bb-98c7-10fcdd2645e4",
         "title": "Associate Software Engineer / Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1766561731,
         "date_posted": 1766561731,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Oklahoma-Oklahoma-City/XMLNAME-2026-Associate-Software-Engineer-Software-Engineer_R10217878",
@@ -141455,7 +141455,7 @@
         "company_name": "Vantage Point Solutions",
         "id": "494340e2-9fde-4290-803c-56b2653f56d5",
         "title": "Field Services Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1762037646,
         "date_posted": 1762037646,
         "url": "https://vantage-point-solutions-inc.breezy.hr/p/fb1ad5c8457e/apply",
@@ -143774,7 +143774,7 @@
         "company_name": "Vantage Point Solutions",
         "id": "70d19d4c-8677-4af2-ad21-8f0a99317b5e",
         "title": "Field Services Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1764559797,
         "date_posted": 1764559797,
         "url": "https://vantage-point-solutions-inc.breezy.hr/p/dd335ea8ab5c/apply",
@@ -143864,7 +143864,7 @@
         "company_name": "Vantage Point Solutions",
         "id": "f761fda5-fd0c-4f96-9251-563e2d82e9fe",
         "title": "Field Services Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1765409493,
         "date_posted": 1765409493,
         "url": "https://vantage-point-solutions-inc.breezy.hr/p/d0c16589951a/apply",
@@ -209823,7 +209823,7 @@
         "company_name": "Vantage Point Solutions",
         "id": "f19a3081-4f91-4684-920d-8b526ae4471c",
         "title": "Field Services Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1771168656,
         "date_posted": 1771168656,
         "url": "https://vantage-point-solutions-inc.breezy.hr/p/b6227fbc7307/apply",
@@ -226827,7 +226827,7 @@
         "company_name": "Sainsbury's",
         "id": "d3002c98-1206-410b-8026-134f4654c8f0",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1771974652,
         "date_posted": 1771974652,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048938",
@@ -227569,5 +227569,164 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CVS Health",
+        "id": "6df0cec5-2f1d-4fb7-b23d-06eae146b9d6",
+        "title": "Associate Data Engineer",
+        "active": true,
+        "date_updated": 1771978335,
+        "date_posted": 1771978335,
+        "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Richardson/Associate-Data-Engineer_R0841402",
+        "locations": [
+            "Irving, TX",
+            "Richardson, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/CVS-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "T-Mobile",
+        "id": "aa996f2a-f534-4b7f-89e8-40e208d9e50d",
+        "title": "Associate Engineer - Software",
+        "active": true,
+        "date_updated": 1771977863,
+        "date_posted": 1771977863,
+        "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Associate-Engineer--Software_REQ344233-1",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/T-Mobile",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "T-Mobile",
+        "id": "47963e3c-f3e5-4a88-a3ba-bd4d05cf0f0f",
+        "title": "Associate Engineer - Software",
+        "active": true,
+        "date_updated": 1771977861,
+        "date_posted": 1771977861,
+        "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Associate-Engineer--Software_REQ343122-1",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/T-Mobile",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Target",
+        "id": "0bc3e39a-0b39-4970-a7de-2545698bb354",
+        "title": "Technology Leadership Program - Starting August 2026",
+        "active": true,
+        "date_updated": 1771977971,
+        "date_posted": 1771977971,
+        "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Technology-Leadership-Program---Hybrid--Starting-August-2026-_R0000430779",
+        "locations": [
+            "Brooklyn Park, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Target",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Banner Health",
+        "id": "3807499b-800c-4628-b6fb-4e6f297b8eb8",
+        "title": "Diagnostic Imaging Equipment Services Engineer",
+        "active": true,
+        "date_updated": 1771977829,
+        "date_posted": 1771977829,
+        "url": "https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/Banner-North-Colorado-Medical-Center-1801-16th-St/Diagnostic-Imaging-Equipment-Services-Engineer_R4433441-1",
+        "locations": [
+            "Greeley, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Banner-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Northrop Grumman",
+        "id": "9e230057-bf3b-4d14-83f3-c976b26e8c94",
+        "title": "Principal / Senior Principal Data Analyst Electronic Warfare Systems Engineer",
+        "active": true,
+        "date_updated": 1771977572,
+        "date_posted": 1771977572,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/Principal---Sr-Principal-Data-Analyst-Electronic-Warfare-Systems-Engineer_R10223850",
+        "locations": [
+            "Baltimore, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Grant Thornton",
+        "id": "97e93a15-9801-418e-9c89-54731127b5b0",
+        "title": "Digital Audit Graduate Programme",
+        "active": true,
+        "date_updated": 1771977511,
+        "date_posted": 1771977511,
+        "url": "https://ukgrantt.wd3.myworkdayjobs.com/careersgrantthornton/job/London/Digital-Audit-Graduate-Programme--Autumn-2026----London_TRN26_230-1",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Grant-Thornton",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "2aa2a426-a984-4b8b-8e23-9e5659efc120",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1771977557,
+        "date_posted": 1771977557,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Unknown-City/Software-Engineer_R10223688",
+        "locations": [
+            "Halethorpe, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
