@@ -47303,7 +47303,7 @@
         "company_name": "Sierra",
         "id": "118cca3a-9763-4851-9187-de42ca3d0021",
         "title": "Apx \u2013 New Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1763123894,
         "date_posted": 1761911178,
         "url": "https://jobs.ashbyhq.com/Sierra/9738d0f0-13be-4e89-9fba-505e7cac288f/application",
@@ -48873,7 +48873,7 @@
         "company_name": "TikTok",
         "id": "504f0b08-afb2-4964-b3cd-5dee1937b1ad",
         "title": "Frontend Software Engineer - Global CRM Platform",
-        "active": true,
+        "active": false,
         "date_updated": 1761902270,
         "date_posted": 1761902270,
         "url": "https://lifeattiktok.com/search/7104433489986734350",
@@ -119220,7 +119220,7 @@
         "company_name": "Corning",
         "id": "c1b875ad-a151-4291-9a22-0cfac83b1842",
         "title": "Measurement Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1765302062,
         "date_posted": 1765302062,
         "url": "https://corningjobs.corning.com/job/Wilmington-Measurement-Technician-NC-28405/1304713600/?ats=successfactors",
@@ -197048,7 +197048,7 @@
         "company_name": "Uline",
         "id": "1a4a9007-d083-4deb-8beb-2818ae2d594d",
         "title": "Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1770381292,
         "date_posted": 1769029992,
         "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Data-Analyst_R260693-1",
@@ -214451,7 +214451,7 @@
         "company_name": "Sierra",
         "id": "1c9b76df-6ee3-44ef-9feb-585cfa64aa45",
         "title": "Product Manager",
-        "active": true,
+        "active": false,
         "date_updated": 1771456796,
         "date_posted": 1771456796,
         "url": "https://jobs.ashbyhq.com/Sierra/1e937276-4002-4a1f-9c7d-5b5b5289b83e/application",
@@ -223929,7 +223929,7 @@
         "company_name": "Goldman Sachs",
         "id": "9e6d683e-72b2-4bef-8dec-ffe87cdb95eb",
         "title": "Compliance - Software Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1771888891,
         "date_posted": 1771888891,
         "url": "https://higher.gs.com/roles/161807",
@@ -226545,7 +226545,7 @@
         "company_name": "City and County of San Francisco",
         "id": "302341bb-3dff-425a-8cf2-3089f8c99aec",
         "title": "Geographic Information Systems - GIS - Analyst-Design & Construction",
-        "active": true,
+        "active": false,
         "date_updated": 1771975409,
         "date_posted": 1771975409,
         "url": "https://jobs.smartrecruiters.com/CityAndCountyOfSanFrancisco1/3743990011828896",
@@ -228359,6 +228359,174 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "c4cd68fc-fffe-40d4-912d-186054e3060f",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1772014510,
+        "date_posted": 1772014510,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050845",
+        "locations": [
+            "Bath, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "a3c5e73f-3567-4b39-bf24-7c0942867cf8",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1772014515,
+        "date_posted": 1772014515,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050989",
+        "locations": [
+            "Blackpool, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "a33c65fe-50a6-49c6-8ff6-165f10ffecc3",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1772014507,
+        "date_posted": 1772014507,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051007",
+        "locations": [
+            "Chesterfield, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "80b120cf-54f9-4bcf-955d-d592a28f419f",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1772014520,
+        "date_posted": 1772014520,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051009",
+        "locations": [
+            "Portadown, Craigavon, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "7d8ad58e-bd26-4052-b727-4da6bcd62688",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1772014515,
+        "date_posted": 1772014515,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051013",
+        "locations": [
+            "Portadown, Craigavon, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "128060d9-3167-45ca-bd83-ce765a9d2afb",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1772014507,
+        "date_posted": 1772014507,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050998",
+        "locations": [
+            "Yeovil, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Google",
+        "id": "5ffad7b9-bca7-4601-96bd-11ee94ec1e3a",
+        "title": "Product Manager 1 - Tube - Google Global Network",
+        "active": true,
+        "date_updated": 1772014405,
+        "date_posted": 1772014405,
+        "url": "https://www.google.com/about/careers/applications/jobs/results/94134968749302470",
+        "locations": [
+            "Addison, TX",
+            "Atlanta, GA",
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Google",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Integrated Resources",
+        "id": "d5f02edc-8773-4cb3-a440-ec9049645baf",
+        "title": "Fiber optic Technician",
+        "active": true,
+        "date_updated": 1771917905,
+        "date_posted": 1771917905,
+        "url": "https://jobs.smartrecruiters.com/IntegratedResourcesINC/101792473",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Integrated-Resources",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Steel Dynamics",
+        "id": "d9fc126a-d2b9-4427-b1f8-b0a7d11fae4e",
+        "title": "Software Developer - Adl",
+        "active": true,
+        "date_updated": 1772014034,
+        "date_posted": 1770332979,
+        "url": "https://careers-aluminumdynamics.icims.com/jobs/7019/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Columbus, MS"
+        ],
+        "company_url": "https://simplify.jobs/c/Steel-Dynamics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
