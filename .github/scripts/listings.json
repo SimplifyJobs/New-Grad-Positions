@@ -205285,7 +205285,7 @@
         "company_name": "AT&T",
         "id": "4d51a622-fd25-4d01-afeb-eb85d2077373",
         "title": "Lead Advanced Analytics",
-        "active": true,
+        "active": false,
         "date_updated": 1770882199,
         "date_posted": 1770882199,
         "url": "https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Dallas-Texas/Lead-Advanced-Analytics_R-100137",
@@ -228675,6 +228675,51 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Uline",
+        "id": "3a0844cd-c02e-41f1-8ee6-ed2da7652168",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1772026857,
+        "date_posted": 1772026857,
+        "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Data-Analyst_R261670",
+        "locations": [
+            "Kenosha, WI",
+            "Waukegan, IL",
+            "Morton Grove, IL",
+            "Pleasant Prairie, WI",
+            "Milwaukee, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Uline",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "TD Bank",
+        "id": "728c17a0-fb87-46a9-bbd2-ff9bf8bf3b09",
+        "title": "Product Owner 1 - US Martech",
+        "active": true,
+        "date_updated": 1771889425,
+        "date_posted": 1771889425,
+        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/New-York-New-York/Product-Owner-I--US-Martech--Salesforce-Data-Cloud--Marketing-Cloud---Loyalty-Management-_R_1472206-1",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/TD-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Certificate"
         ]
     }
 ]
