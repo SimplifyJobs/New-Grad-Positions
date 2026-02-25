@@ -165203,7 +165203,7 @@
         "company_name": "JP Morgan Chase",
         "id": "0a72bd0b-70aa-4714-85af-b2ccc04da4e1",
         "title": "Senior Product Associate - Connected Commerce - Wallets and Lending",
-        "active": false,
+        "active": true,
         "date_updated": 1768605396,
         "date_posted": 1768605396,
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210698430",
@@ -193856,7 +193856,7 @@
         "company_name": "Impiricus",
         "id": "18cb9384-3592-47be-8d69-def40c02046c",
         "title": "Software Engineer - Backend",
-        "active": true,
+        "active": false,
         "date_updated": 1770248190,
         "date_posted": 1770248190,
         "url": "https://job-boards.greenhouse.io/impiricus/jobs/5109145008",
@@ -204066,7 +204066,7 @@
         "company_name": "Living Spaces",
         "id": "cf313573-68d3-4883-ac3f-0ab555e19f1c",
         "title": "Front End Web Developer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1770852139,
         "date_posted": 1770852139,
         "url": "https://livingspaces.wd5.myworkdayjobs.com/ls/job/La-Mirada-CA---Corporate/Front-End-Web-Developer-1_R42622",
@@ -228047,5 +228047,276 @@
             "JD",
             "MD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "NVIDIA",
+        "id": "2186dfd7-23b0-4041-809c-bb98ccfe8e98",
+        "title": "Software Development Engineer - CAD Infrastructure",
+        "active": true,
+        "date_updated": 1772003971,
+        "date_posted": 1772003971,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Development-Engineer--CAD-Infrastructure---New-College-Grad-2026_JR2013599",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "SpaceX",
+        "id": "a6c492ab-7484-4d13-b292-cac0f087476a",
+        "title": "Laser Production Technician \u2013 Entry Level - Starlink",
+        "active": true,
+        "date_updated": 1772003818,
+        "date_posted": 1772003818,
+        "url": "https://boards.greenhouse.io/spacex/jobs/8436801002",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/SpaceX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Procom",
+        "id": "6a86c8ef-b247-4caa-a118-e8e999aa2961",
+        "title": "Web Application Developer",
+        "active": true,
+        "date_updated": 1772003779,
+        "date_posted": 1772003779,
+        "url": "https://jobs.smartrecruiters.com/ProcomConsultantsGroup/88303706",
+        "locations": [
+            "Hillsboro, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Procom",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Prosum",
+        "id": "d5cbb360-cae2-40b9-92c9-7e2971759691",
+        "title": "Salesforce Developer",
+        "active": true,
+        "date_updated": 1772003735,
+        "date_posted": 1772003735,
+        "url": "https://jobs.smartrecruiters.com/Prosum2/110260030",
+        "locations": [
+            "Broomfield, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Prosum",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "a75aa2da-30d2-4ce3-953c-f42540f8eb9c",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1772003714,
+        "date_posted": 1772003714,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050701",
+        "locations": [
+            "High Wycombe, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Procom",
+        "id": "9475c065-11b7-45df-b175-90b3cfa261d9",
+        "title": "Web Developer",
+        "active": true,
+        "date_updated": 1772003731,
+        "date_posted": 1772003731,
+        "url": "https://jobs.smartrecruiters.com/ProcomServices/87108262",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Procom",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Procom",
+        "id": "76d7432b-6523-43a1-b8c2-71bb5d3793b0",
+        "title": "PC Technician",
+        "active": true,
+        "date_updated": 1772003715,
+        "date_posted": 1772003715,
+        "url": "https://jobs.smartrecruiters.com/ProcomServices/88864968",
+        "locations": [
+            "Hillsboro, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Procom",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northwestern Mutual",
+        "id": "5de63ca7-6fec-48eb-84d5-706e1d8038be",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1772003648,
+        "date_posted": 1772003648,
+        "url": "https://jobs.smartrecruiters.com/NorthwesternMutual/743999658679125",
+        "locations": [
+            "Greendale, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Northwestern-Mutual",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "North Star Staffing Solutions",
+        "id": "4e472c61-4cc0-44ba-b561-5d8a90ba46a5",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1772003735,
+        "date_posted": 1772003735,
+        "url": "https://jobs.smartrecruiters.com/NorthStarStaffingSolutions1/81064849",
+        "locations": [
+            "Cleveland, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/North-Star-Staffing-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Procom",
+        "id": "1fceed24-f2fd-41af-83d8-5c7114574435",
+        "title": "Web Developer",
+        "active": true,
+        "date_updated": 1772003710,
+        "date_posted": 1772003710,
+        "url": "https://jobs.smartrecruiters.com/ProcomServices/88607930",
+        "locations": [
+            "Chandler, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Procom",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amazon",
+        "id": "f9e1443d-acb3-4b05-978a-590a97cc394b",
+        "title": "Manager 3 - Software Developer",
+        "active": true,
+        "date_updated": 1772003421,
+        "date_posted": 1772003421,
+        "url": "https://amazon.jobs/en/jobs/3163097/manager-iii-software-dev-amz9700792",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pioneer Data Systems",
+        "id": "d925b32c-6b7d-48ad-b323-468bb6ddedf7",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1772003072,
+        "date_posted": 1772003072,
+        "url": "https://jobs.smartrecruiters.com/PioneerDataSystemsInc/94743719",
+        "locations": [
+            "Bridgewater Township, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Pioneer-Data-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Proximate Technologies",
+        "id": "524e8882-51b0-4631-baf4-fd747567d5c4",
+        "title": "Java Developer",
+        "active": true,
+        "date_updated": 1772003070,
+        "date_posted": 1772003070,
+        "url": "https://jobs.smartrecruiters.com/ProximateTechnologiesInc1/79795677",
+        "locations": [
+            "Frisco, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Proximate-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "FourKites",
+        "id": "caa7a014-355a-4496-91ec-9c03c2481f90",
+        "title": "Forward Deployment Engineer",
+        "active": true,
+        "date_updated": 1772004354,
+        "date_posted": 1770807823,
+        "url": "https://job-boards.greenhouse.io/fourkites/jobs/7506270",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/FourKites",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
