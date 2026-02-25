@@ -119792,7 +119792,7 @@
         "company_name": "Mechanize",
         "id": "95cfcae1-13a4-46ee-998d-53e2d76bbe2f",
         "title": "Junior Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1767841111,
         "date_posted": 1767841111,
         "url": "https://jobs.ashbyhq.com/mechanize/b50c89dc-001c-4fb6-a4fc-a9f52f35b490/application",
@@ -151025,7 +151025,7 @@
         "company_name": "Kodak",
         "id": "0eb54acc-f9cc-4bc2-95ce-5900e157c370",
         "title": "Opto-Mechanical Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1767827024,
         "date_posted": 1767827024,
         "url": "https://careers.kodak.com/job/Burnaby-Opto-Mechanical-Technician-Brit-V5G-4P5/1354185400/?ats=successfactors",
@@ -165702,7 +165702,7 @@
         "company_name": "RTX",
         "id": "afe41c38-134e-4b43-bb27-363460b8bf63",
         "title": "Software Engineer 1 - Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1768615929,
         "date_posted": 1768615929,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-802--1151-E-Hermans-Rd--BLDG-802/XMLNAME-2026-Full-time---Software-Engineer-I---Onsite--AZ-_01802087",
@@ -171467,7 +171467,7 @@
         "company_name": "Intermountain Healthcare",
         "id": "9d458c77-cbbc-4d7a-abd4-8b554c584d11",
         "title": "Data Architect Senior",
-        "active": true,
+        "active": false,
         "date_updated": 1769086030,
         "date_posted": 1768894045,
         "url": "https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/SelectHealth---Murray/Data-Architect---Senior_R160772",
@@ -221838,7 +221838,7 @@
         "company_name": "The Boeing Company",
         "id": "512d506b-d983-49e1-b8c3-c4247f81a28b",
         "title": "Electrical Network and Digital Connectivity System Design Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1771693723,
         "date_posted": 1771693723,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Electrical-Network-and-Digital-Connectivity-System-Design-Engineer--Entry-Level-or-Associate-_JR2026497450-2",
@@ -226750,7 +226750,7 @@
         "company_name": "Entain",
         "id": "eb499249-b767-4595-a4db-c010e8335aba",
         "title": "Software Development Engineer 1 - Fullstack",
-        "active": true,
+        "active": false,
         "date_updated": 1771974821,
         "date_posted": 1771974821,
         "url": "https://jobs.smartrecruiters.com/Entain/744000111167985",
@@ -228337,6 +228337,28 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Geosyntec Consultants",
+        "id": "b45a36fa-bf64-417f-b1f4-61d1592263fe",
+        "title": "Early-Career GIS Specialist",
+        "active": true,
+        "date_updated": 1772011883,
+        "date_posted": 1769699412,
+        "url": "https://careers-geosyntec.icims.com/jobs/3883/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Geosyntec-Consultants",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     }
 ]
