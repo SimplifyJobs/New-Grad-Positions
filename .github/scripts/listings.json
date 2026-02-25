@@ -214230,7 +214230,7 @@
         "company_name": "Teledyne",
         "id": "dbe5d4c0-3d4a-4c6a-bcfe-b87cb0864915",
         "title": "Assembly & Test Operator",
-        "active": false,
+        "active": true,
         "date_updated": 1771428615,
         "date_posted": 1771428615,
         "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/UK---Lincoln/Assembly---Test-Operator_REQ33309",
@@ -228838,6 +228838,47 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "9666eed6-2c60-41d8-b695-06caf6d430fa",
+        "title": "Software Engineer 1 - Software Engineer I",
+        "active": true,
+        "date_updated": 1772035748,
+        "date_posted": 1772035748,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-FULLERTON-675--1801-Hughes-Dr--BLDG-675/XMLNAME-2026-Full-time---Software-Engineer-I---RDPL---Onsite--CA-_01826305",
+        "locations": [
+            "Anaheim, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "CACI",
+        "id": "8dc88895-f90a-4246-8aea-8129de0acbfd",
+        "title": "Engineering Technician 1",
+        "active": true,
+        "date_updated": 1772035391,
+        "date_posted": 1772035391,
+        "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-MD-St-Inigoes/Engineering-Technician-I_322160",
+        "locations": [
+            "Patuxent River, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's",
+            "Certificate"
         ]
     }
 ]
