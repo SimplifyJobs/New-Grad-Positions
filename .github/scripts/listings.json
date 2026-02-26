@@ -230096,5 +230096,41 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Holman",
+        "id": "3ce7151b-5fda-4053-aa1f-8137f18352eb",
+        "title": "Installation Mechanic",
+        "active": true,
+        "date_updated": 1772072592,
+        "date_posted": 1772072592,
+        "url": "https://holmanautogroup.wd1.myworkdayjobs.com/HolmanEnterprisesCareers/job/Colorado-Springs-CO-USA/Installation-Mechanic---Colorado-Springs-CO_R0053899",
+        "locations": [
+            "Colorado Springs, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Holman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Mandolin",
+        "id": "9bfc53ba-3098-4559-9580-b148dce706a8",
+        "title": "Graduate Member of Technical Staff - Integrations",
+        "active": true,
+        "date_updated": 1772071972,
+        "date_posted": 1772071972,
+        "url": "https://jobs.ashbyhq.com/mandolin/d3e7518c-0b37-45e7-aaa2-7b69ee459018/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Mandolin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
