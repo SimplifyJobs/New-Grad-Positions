@@ -213769,7 +213769,7 @@
         "company_name": "Northrop Grumman",
         "id": "3f9a42c9-ca91-49e7-a767-216d9d772d42",
         "title": "Guidance Navigation Control Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1771423264,
         "date_posted": 1771400559,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-North-Dakota-Emerado/Guidance-Navigation-Control-Engineer--Engineer-or-Principal-Engineer-Level-_R10223182-1",
@@ -230726,5 +230726,29 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Uline",
+        "id": "4305486a-d429-4b22-81a2-badb6c84ae70",
+        "title": "Associate Ecommerce Data Analyst",
+        "active": true,
+        "date_updated": 1772110548,
+        "date_posted": 1772110548,
+        "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Associate-eCommerce-Data-Analyst_R261735-1",
+        "locations": [
+            "Kenosha, WI",
+            "Waukegan, IL",
+            "Morton Grove, IL",
+            "Pleasant Prairie, WI",
+            "Milwaukee, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Uline",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
