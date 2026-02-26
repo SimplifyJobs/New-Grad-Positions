@@ -184954,7 +184954,7 @@
         "company_name": "Sainsbury's",
         "id": "925863a5-a485-46c2-9319-d04f126164ad",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1769785838,
         "date_posted": 1769785838,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047630",
@@ -205976,7 +205976,7 @@
         "company_name": "Amentum",
         "id": "5d36bf32-a0e9-42c2-9a6c-cf027fdb72ce",
         "title": "Entry Configuration Management Engineering Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1770911186,
         "date_posted": 1770911186,
         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-FL-Kennedy-Space-Center/Entry-Configuration-Management-Engineering-Technician_R0154006",
@@ -216487,7 +216487,7 @@
         "company_name": "Walker & Dunlop",
         "id": "88ce3e48-e632-42bf-840f-c81cac283c03",
         "title": "2026 Debt Operations Analytics Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1771513776,
         "date_posted": 1771513776,
         "url": "https://walkerdunlop.wd1.myworkdayjobs.com/WD/job/Needham-MA-USA/Debt-Operations-Analytics-Analyst_Req-1832-1",
@@ -230732,6 +230732,27 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Walmart",
+        "id": "21d6d49c-1b58-4c06-b263-e017f0133313",
+        "title": "Senior Software Engineer",
+        "active": true,
+        "date_updated": 1772116119,
+        "date_posted": 1772116119,
+        "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bellevue-WA/Senior-Software-Engineer_R-2415836-1",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Walmart",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
