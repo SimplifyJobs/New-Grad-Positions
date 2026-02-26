@@ -48714,7 +48714,7 @@
         "company_name": "TikTok",
         "id": "a5a7008b-043f-4943-ae35-d25f2b6ad45e",
         "title": "Graduate Software Engineer - Data-Search-Tiktok.US - BS/MS",
-        "active": false,
+        "active": true,
         "date_updated": 1762923984,
         "date_posted": 1761902291,
         "url": "https://lifeattiktok.com/search/7533719102990190866",
@@ -166621,7 +166621,7 @@
         "company_name": "RTX",
         "id": "c0f74af9-a66f-4622-840d-a0db0a758b8f",
         "title": "Software Engineer 2 - Software Engineer II",
-        "active": true,
+        "active": false,
         "date_updated": 1768864602,
         "date_posted": 1768864602,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/XMLNAME-2026-Fulltime---SW-Engineer-II_01813330",
@@ -175096,7 +175096,7 @@
         "company_name": "Baseten",
         "id": "5ae3593b-d12d-4b9d-9501-3b93df465f78",
         "title": "Software Engineer - Core Product",
-        "active": true,
+        "active": false,
         "date_updated": 1769246764,
         "date_posted": 1761868689,
         "url": "https://jobs.ashbyhq.com/baseten/fc6e5f2e-eb2d-4a6c-8a51-8422e8662bde/application",
@@ -177376,7 +177376,7 @@
         "company_name": "Uline",
         "id": "a39fa7dc-7bc3-485f-9d89-a5d7c5539230",
         "title": "Associate Ecommerce Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1769471373,
         "date_posted": 1769471373,
         "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Associate-eCommerce-Data-Analyst_R260722-1",
@@ -187950,7 +187950,7 @@
         "company_name": "Waters Corporation",
         "id": "badf3531-e08d-4cb1-b848-86b0696f768d",
         "title": "Manufacturing Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1770044963,
         "date_posted": 1770044963,
         "url": "https://uscareers-waters.icims.com/jobs/25160/job?mobile=true&needsRedirect=false",
@@ -218015,7 +218015,7 @@
         "company_name": "Electronic Arts",
         "id": "4833c303-bbd4-455b-9390-6d18c567f60c",
         "title": "Lead Scripter",
-        "active": true,
+        "active": false,
         "date_updated": 1771553652,
         "date_posted": 1771553652,
         "url": "https://jobs.ea.com/en_US/careers/JobDetail/Lead-Scripter/212835",
@@ -225910,7 +225910,7 @@
         "company_name": "Lawrence Livermore National Laboratory (LLNL)",
         "id": "00c6fb1a-a06c-4b96-86af-dc023929622d",
         "title": "Deep Learning for Earth System Modeling Evaluation",
-        "active": true,
+        "active": false,
         "date_updated": 1771918135,
         "date_posted": 1771918135,
         "url": "https://jobs.smartrecruiters.com/LLNL/3743990011639054",
@@ -230576,5 +230576,100 @@
             "Bachelor's",
             "Associate's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "a25655df-6e19-4c64-8b24-e85f531e94db",
+        "title": "Machine Learning Scientist Graduate - Global E-commerce Content Recommendation - 2026 Start",
+        "active": true,
+        "date_updated": 1772100354,
+        "date_posted": 1758688398,
+        "url": "https://lifeattiktok.com/search/7553175919394638087",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Sonsoft",
+        "id": "ca719402-7dc8-40c1-bbe1-3e69ffd37a08",
+        "title": "Java / Apache Camel",
+        "active": true,
+        "date_updated": 1772090881,
+        "date_posted": 1772090881,
+        "url": "https://jobs.smartrecruiters.com/SonsoftInc/743999653107539",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Sonsoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Procom",
+        "id": "c92568a6-30a9-4e93-95d9-9510a0d02896",
+        "title": "Hardware Technician",
+        "active": true,
+        "date_updated": 1772003786,
+        "date_posted": 1772003786,
+        "url": "https://jobs.smartrecruiters.com/ProcomConsultantsGroup/87636481",
+        "locations": [
+            "Hillsboro, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Procom",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Penumbra Inc",
+        "id": "b45a070d-b505-4adf-82bf-58c6453ab73c",
+        "title": "Equipment Technician 1",
+        "active": true,
+        "date_updated": 1772100742,
+        "date_posted": 1769134481,
+        "url": "https://jobs.lever.co/penumbrainc/a5b2c80f-eb4f-415d-bdc9-1a21bed3dcb1/apply",
+        "locations": [
+            "Roseville, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Penumbra-Inc",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Hawk-Eye Innovations",
+        "id": "04fd7ec0-7f43-4da3-9cf0-f811006458f9",
+        "title": "Sports Systems Operator",
+        "active": true,
+        "date_updated": 1772100464,
+        "date_posted": 1769094618,
+        "url": "https://jobs.ashbyhq.com/hawkeyeinnovations/5c83702c-c14f-45f6-acf3-3ac09ccff854/application",
+        "locations": [
+            "Basingstoke, UK",
+            "Southampton, UK",
+            "Reading, UK",
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Hawk-Eye-Innovations",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
