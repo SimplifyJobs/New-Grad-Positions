@@ -2,24 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Iridium Communications",
-        "id": "47ab4e50-7048-47ed-b68c-f8b8ba8b6164",
-        "title": "Engineer I - Software Developer \ud83c\uddfa\ud83c\uddf8",
-        "active": false,
-        "date_updated": 1753448689,
-        "date_posted": 1751410924,
-        "url": "https://careers-iridium.icims.com/jobs/4605/job",
-        "locations": [
-            "Reston, VA",
-            "Chandler, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Iridium-Communications",
-        "is_visible": false,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Candid Health",
         "id": "8098037f-f4db-4feb-a7ea-2a17e108f871",
         "title": "Forward Deployed Software Engineer New Grad",
@@ -166298,7 +166280,7 @@
         "company_name": "KCI Technologies",
         "id": "66c18f2d-0c1e-490f-8762-cae2550db7cc",
         "title": "GIS Technician 1 - Energy",
-        "active": false,
+        "active": true,
         "date_updated": 1768836203,
         "date_posted": 1761878967,
         "url": "https://careers-kci.icims.com/jobs/7367/job?mobile=true&needsRedirect=false",
@@ -173297,7 +173279,7 @@
         "company_name": "Tradeweb",
         "id": "f62ba167-5ead-4289-8ff0-59be26b58c8c",
         "title": "Credit Technical Product Owner",
-        "active": true,
+        "active": false,
         "date_updated": 1769210071,
         "date_posted": 1769210071,
         "url": "https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301600",
@@ -177863,7 +177845,7 @@
         "company_name": "Brenntag",
         "id": "cf01020f-45a4-4a45-863c-391b594ed254",
         "title": "Master Data Analyst - Mths FTC",
-        "active": false,
+        "active": true,
         "date_updated": 1769527879,
         "date_posted": 1769527879,
         "url": "https://brenntag.wd3.myworkdayjobs.com/brenntag_jobs/job/LeedsUnited-Kingdom/Master-Data-Analyst---18-mths-FTC_JR107647",
@@ -197821,7 +197803,7 @@
         "company_name": "Trane Technologies",
         "id": "88ff067b-9a8d-4878-b1b3-fd7544e0307f",
         "title": "Finance Data Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1770419702,
         "date_posted": 1770419702,
         "url": "https://careers.tranetechnologies.com/global/en/job/2600765",
@@ -205070,7 +205052,7 @@
         "company_name": "Sainsbury's",
         "id": "3449e090-a0df-44bb-9d57-5a22988a8504",
         "title": "Trading Assistant - Shift",
-        "active": false,
+        "active": true,
         "date_updated": 1770793780,
         "date_posted": 1770793780,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048993",
@@ -207358,7 +207340,7 @@
         "company_name": "Fellow",
         "id": "b50602ac-999b-4033-a430-4fd6612337d5",
         "title": "Technician - Temp",
-        "active": true,
+        "active": false,
         "date_updated": 1770950645,
         "date_posted": 1770950645,
         "url": "https://fellowproducts.com/pages/careers?gh_jid=5051869007",
@@ -212598,7 +212580,7 @@
         "company_name": "PatientPoint",
         "id": "f8279648-c344-4ba9-8ced-57c29c6ec8bc",
         "title": "Product Manager",
-        "active": true,
+        "active": false,
         "date_updated": 1771371663,
         "date_posted": 1771371663,
         "url": "https://job-boards.greenhouse.io/patientpoint/jobs/4657420005",
@@ -221410,7 +221392,7 @@
         "company_name": "Sainsbury's",
         "id": "6cb14239-3a9d-495c-b4ab-0673e21563fa",
         "title": "Trading Assistant - Shift",
-        "active": false,
+        "active": true,
         "date_updated": 1771686969,
         "date_posted": 1771686969,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050534",
@@ -231065,5 +231047,483 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Ascot",
+        "id": "825cd056-7440-42a0-9c34-847cc21a1cf9",
+        "title": "Associate Full Stack AI Engineer",
+        "active": true,
+        "date_updated": 1772147773,
+        "date_posted": 1772147773,
+        "url": "https://fa-emkq-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/889",
+        "locations": [
+            "Stamford, CT",
+            "NYC",
+            "Iselin, Woodbridge Township, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Ascot",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Schroders",
+        "id": "67ae22af-6df7-4243-847f-426eead1d91e",
+        "title": "Investment Analyst",
+        "active": true,
+        "date_updated": 1772147788,
+        "date_posted": 1772147788,
+        "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1141",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Schroders",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Lawrence Berkeley National Laboratory",
+        "id": "625d000b-95b4-4b89-bd0e-bef9438ee371",
+        "title": "Autonomous Material Processing Postdoctoral Fellow",
+        "active": true,
+        "date_updated": 1772148065,
+        "date_posted": 1772148065,
+        "url": "https://lbl.taleo.net/careersection/5/jobdetail.ftl?job=106096",
+        "locations": [
+            "Berkeley, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Lawrence-Berkeley-National-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Deutsche Bank",
+        "id": "61839fbd-d48b-4798-8171-da3ae76a39cf",
+        "title": "Java Engineer",
+        "active": true,
+        "date_updated": 1772147916,
+        "date_posted": 1772147916,
+        "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Cary-3000-CentreGreen-Way/Java-Engineer---Associate_R0418350-3",
+        "locations": [
+            "Morrisville, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Deutsche-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "onXmaps",
+        "id": "5308b42c-cc2e-4dca-bbf6-9cff62b3b2ac",
+        "title": "Data Engineer 2",
+        "active": true,
+        "date_updated": 1772147952,
+        "date_posted": 1772147952,
+        "url": "https://job-boards.greenhouse.io/onxmaps/jobs/4655665006",
+        "locations": [
+            "Bozeman, MT"
+        ],
+        "company_url": "https://simplify.jobs/c/OnXmaps",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "GHD",
+        "id": "f17cb5b0-2227-40b6-a86f-542279c08696",
+        "title": "Greenhouse Gas Verification - Verifier",
+        "active": true,
+        "date_updated": 1772147763,
+        "date_posted": 1772147763,
+        "url": "https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25020",
+        "locations": [
+            "Edmonton, AB, Canada",
+            "Calgary, AB, Canada",
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/GHD",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "JP Morgan Chase",
+        "id": "ec008497-23cc-4a4f-b923-1f946d20703f",
+        "title": "Compliance - Technology Operational Risk Management - Data Scientist",
+        "active": true,
+        "date_updated": 1772147767,
+        "date_posted": 1772147767,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210652456",
+        "locations": [
+            "Plano, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Virginia Department of Transportation",
+        "id": "b69cd39d-339d-445b-b0e5-4db3316db021",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1772147527,
+        "date_posted": 1772147527,
+        "url": "https://etgi.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4005/job/11829",
+        "locations": [
+            "Richmond, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Virginia-Department-Of-Transportation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "City of Greeley",
+        "id": "86b9e937-7428-4cd8-9ef8-21ed9d99047b",
+        "title": "GIS Asset Technician - Culture - Parks and Recreation Department",
+        "active": true,
+        "date_updated": 1772147974,
+        "date_posted": 1772147974,
+        "url": "https://elvp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2502",
+        "locations": [
+            "Greeley, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/City-Of-Greeley",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's",
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Halliburton",
+        "id": "33ec87b3-e858-47a0-b6e6-87642d726a13",
+        "title": "Assembly & Repair Technician 1",
+        "active": true,
+        "date_updated": 1772147861,
+        "date_posted": 1772147861,
+        "url": "https://jobs.halliburton.com/job/Odessa-Assembly-&-Repair-Technician-I-TX-79765/1368413400/?ats=successfactors",
+        "locations": [
+            "Midland, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Halliburton",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Fortive",
+        "id": "5b107fa4-4297-49db-8d04-3ff36688fcb1",
+        "title": "Assembly Technician",
+        "active": true,
+        "date_updated": 1772147750,
+        "date_posted": 1772147750,
+        "url": "https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/9094",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Fortive",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Northwell Health",
+        "id": "5051aa83-e9ee-49d3-90e4-bfdd73191de4",
+        "title": "Associate Business Intelligence Specialist",
+        "active": true,
+        "date_updated": 1772147671,
+        "date_posted": 1772147671,
+        "url": "https://eppr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/181711",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Northwell-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "IDEMIA",
+        "id": "fcc39f3a-9d3c-49a5-bc80-822b54eca99d",
+        "title": "Sustaining Engineer 1 - Linux Administrator",
+        "active": true,
+        "date_updated": 1772147449,
+        "date_posted": 1772147449,
+        "url": "https://uscareers-idemia.icims.com/jobs/8412/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Tallahassee, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Idemia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "PAR Tech",
+        "id": "f314f63e-cdd9-414f-a3bf-3d1786ef15d9",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1772147521,
+        "date_posted": 1772147521,
+        "url": "https://jobs.ashbyhq.com/PAR%20Technology/a189ceb3-0e83-43aa-97c4-1b76e5e5a7df/application",
+        "locations": [
+            "Utica, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/PAR-Tech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Huntington Ingalls Industries",
+        "id": "f1be74bf-e2fc-41d9-a8c1-10fe3a42d88f",
+        "title": "Engineer Test Operations 1",
+        "active": true,
+        "date_updated": 1772147459,
+        "date_posted": 1772147459,
+        "url": "https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-TEST-OPERATIONS-1-Virg/1368364900/?ats=successfactors",
+        "locations": [
+            "Newport News, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Huntington-Ingalls-Industries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "e1cfd3ac-d2c5-42ab-a2e9-f0dc0a896c60",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1772147505,
+        "date_posted": 1772147505,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051178",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "e10585aa-4625-41d1-945e-14ae869bb127",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1772147503,
+        "date_posted": 1772147503,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051172",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "c432110a-a6ee-486a-a92b-bdfc9724b918",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1772147509,
+        "date_posted": 1772147509,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051167",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "b56c8ab9-334d-4386-990b-bcab2af0344c",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1772147521,
+        "date_posted": 1772147521,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051168",
+        "locations": [
+            "Gloucester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Carmeuse",
+        "id": "ab698052-1a92-4b7d-b8c4-0c795da280d3",
+        "title": "Salesforce Analyst",
+        "active": true,
+        "date_updated": 1772147475,
+        "date_posted": 1772147475,
+        "url": "https://ekiz.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/193349",
+        "locations": [
+            "Beavercreek, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Carmeuse",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Brink",
+        "id": "9beb1be7-a0ab-420d-b931-543d792b9fcc",
+        "title": "ATM Technician",
+        "active": true,
+        "date_updated": 1772147514,
+        "date_posted": 1772147514,
+        "url": "https://brinks.wd5.myworkdayjobs.com/brinkscareersus/job/Richmond-VA/ATM-Technician_R70661",
+        "locations": [
+            "Richmond, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Brink",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "4432e135-157f-4c02-bc02-5c0d8ac87350",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1772147506,
+        "date_posted": 1772147506,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051082",
+        "locations": [
+            "Crawley, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "HEXAWARE",
+        "id": "8e6dedec-ef14-469b-9a85-785c67d78c47",
+        "title": "Java Full Stack Engineer - Associate",
+        "active": true,
+        "date_updated": 1772147331,
+        "date_posted": 1772147331,
+        "url": "https://fa-etqo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/594225",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/HEXAWARE",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Connection",
+        "id": "0eca49b9-0851-4500-ad80-94a7d07e4e0b",
+        "title": "Product Data Editor - Product Data",
+        "active": true,
+        "date_updated": 1772147202,
+        "date_posted": 1772147202,
+        "url": "https://careers-connection.icims.com/jobs/10118/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Merrimack, NH"
+        ],
+        "company_url": "https://simplify.jobs/c/Connection",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Wood Mackenzie",
+        "id": "e9a3e02b-8677-4eb8-95a4-c994427d1682",
+        "title": "Research Associate - Metereology",
+        "active": true,
+        "date_updated": 1772147144,
+        "date_posted": 1772147144,
+        "url": "https://woodmac.wd3.myworkdayjobs.com/woodmaccareers/job/Edinburgh-GB/Research-Associate---Metereology_JR2672",
+        "locations": [
+            "Edinburgh, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Wood-Mackenzie",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
