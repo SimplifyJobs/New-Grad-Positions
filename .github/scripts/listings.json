@@ -216861,7 +216861,7 @@
         "company_name": "2020 Companies",
         "id": "6e842554-423c-4df7-a3dc-ccbe8e4830b5",
         "title": "Android Sales Expert",
-        "active": false,
+        "active": true,
         "date_updated": 1771543245,
         "date_posted": 1771543245,
         "url": "https://2020companies.wd1.myworkdayjobs.com/external_careers/job/Hawthorne-CA/Android-Sales-Expert_REQ_099352",
@@ -226518,7 +226518,7 @@
         "company_name": "RTX",
         "id": "d8b0788c-c60e-4d12-9e44-14e54b461a6d",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1771975224,
         "date_posted": 1771975224,
         "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-106--400-Collins-Rd-NE--BLDG-106/Software-Engineer-I--Onsite-_01823654-2",
@@ -230132,5 +230132,197 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Sonsoft",
+        "id": "4959b358-7f6c-40ca-a537-900bfd2b48b1",
+        "title": "Automation Testing Python Telecom & Datacom",
+        "active": true,
+        "date_updated": 1772090843,
+        "date_posted": 1772090843,
+        "url": "https://jobs.smartrecruiters.com/SonsoftInc/743999655979939",
+        "locations": [
+            "Richardson, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Sonsoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale de Surveillance (SGS)",
+        "id": "3055d060-5583-4fd6-a808-d35ed380e0ff",
+        "title": "Air Quality Sensor Technician",
+        "active": true,
+        "date_updated": 1772090751,
+        "date_posted": 1772090751,
+        "url": "https://jobs.smartrecruiters.com/SGS/744000105958155",
+        "locations": [
+            "East Syracuse, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/SGS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Saxon Global",
+        "id": "89338d70-b185-443c-ab9d-8f66f7eb969e",
+        "title": "Angular JS Developer",
+        "active": true,
+        "date_updated": 1772090225,
+        "date_posted": 1772090225,
+        "url": "https://jobs.smartrecruiters.com/SaxonGlobal/743999658748942",
+        "locations": [
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Saxon-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Interstate Batteries",
+        "id": "705a5e35-e043-4812-b2d1-ef0b04dd8b62",
+        "title": "Product Manager 1",
+        "active": true,
+        "date_updated": 1772090298,
+        "date_posted": 1772090298,
+        "url": "https://interstate.wd1.myworkdayjobs.com/interstatebatteries-careers/job/US-TX-Dallas/Product-Manager-I_REQ-8335",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Interstate-Batteries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "SA Technologies",
+        "id": "6341d6f3-8dbf-41c3-8130-750c1c4f2d5b",
+        "title": "Data Analyst 1 - Only W2 Consultant",
+        "active": true,
+        "date_updated": 1772090327,
+        "date_posted": 1772090327,
+        "url": "https://jobs.smartrecruiters.com/SATechnologiesInc4/88604164",
+        "locations": [
+            "Fort Wayne, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/SA-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SA Technologies",
+        "id": "3f50eb79-7208-463b-ae79-794c879a45f0",
+        "title": ".Net Developer",
+        "active": true,
+        "date_updated": 1772090296,
+        "date_posted": 1772090296,
+        "url": "https://jobs.smartrecruiters.com/SATechnologiesInc4/95546593",
+        "locations": [
+            "Coppell, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/SA-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SA Technologies",
+        "id": "22d43520-b2e7-4ceb-b8b6-6a9e0a9bb684",
+        "title": "Software Developer",
+        "active": true,
+        "date_updated": 1772090327,
+        "date_posted": 1772090327,
+        "url": "https://jobs.smartrecruiters.com/SATechnologiesInc4/85211934",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/SA-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Radiant Info Systems",
+        "id": "cd0aec50-d929-47ac-9704-629038530854",
+        "title": "Java Developer 1 - Kansas City - MO','Fulltime/Permanent",
+        "active": true,
+        "date_updated": 1772090151,
+        "date_posted": 1772090151,
+        "url": "https://jobs.smartrecruiters.com/RadiantInfoSystemsLtd/85870423",
+        "locations": [
+            "Kansas City, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Radiant-Info-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "3dcfa2a6-fe41-48f8-a5e7-495c2712c038",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1772089715,
+        "date_posted": 1772089715,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051053",
+        "locations": [
+            "Camberley, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "SBT Global",
+        "id": "fd06c53c-40fb-4b5e-947a-576336b29f73",
+        "title": "Warehouse Innovation Project Consultant - Korean Bilingual",
+        "active": true,
+        "date_updated": 1772089545,
+        "date_posted": 1772089545,
+        "url": "https://jobs.smartrecruiters.com/SBTGlobalInc/3743990010888046",
+        "locations": [
+            "Norwalk, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/SBT-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
