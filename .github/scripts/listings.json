@@ -69574,7 +69574,7 @@
         "company_name": "TikTok",
         "id": "4a4ff675-00b5-4e2d-817e-a04d175820ae",
         "title": "Research Engineer Graduate Online Architecture-2026 Start - PhD",
-        "active": true,
+        "active": false,
         "date_updated": 1762922603,
         "date_posted": 1761902280,
         "url": "https://lifeattiktok.com/search/7545598011306346770",
@@ -207890,7 +207890,7 @@
         "company_name": "Amazon",
         "id": "8d34455c-555d-4ac0-adfe-a5d47a573f3b",
         "title": "Data Center Engineering Operations Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1770975697,
         "date_posted": 1766542084,
         "url": "https://amazon.jobs/en/jobs/3148803/data-center-engineering-operations-technician",
@@ -228965,7 +228965,7 @@
         "company_name": "Vertiv",
         "id": "b1c1a8ab-b2ac-4caf-ba59-29276accb1fb",
         "title": "Electrical Testing Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1772061435,
         "date_posted": 1772061435,
         "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20267725",
@@ -229741,7 +229741,7 @@
         "company_name": "Scandit",
         "id": "abbc7a05-aa04-4885-a648-e80237661225",
         "title": "Mobile Developer Support Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1772061971,
         "date_posted": 1772061971,
         "url": "https://www.scandit.com/careers/job-description/?gh_jid=7540981",
@@ -230554,6 +230554,27 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Leidos",
+        "id": "c3033082-ae78-4d17-9069-7de7093198a1",
+        "title": "Cartographer",
+        "active": true,
+        "date_updated": 1772099652,
+        "date_posted": 1771975448,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/St-Louis-MO/Geospatial-Discovery---Collection-Specialist_R-00176633",
+        "locations": [
+            "St. Louis, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
         ]
     }
 ]
