@@ -17834,7 +17834,7 @@
         "company_name": "General Motors",
         "id": "947030be-f428-4b1a-9c83-6635b039aa33",
         "title": "Software Engineer \u2013 Early Career - Software Development",
-        "active": true,
+        "active": false,
         "date_updated": 1761884449,
         "date_posted": 1759001310,
         "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Mountain-View-California-United-States-of-America/Software-Engineer---Early-Career_JR-202517310",
@@ -49240,7 +49240,7 @@
         "company_name": "Northeastern",
         "id": "3f3751fd-e6ea-4409-8cb6-fb0ad3dcc409",
         "title": "Research Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1758227283,
         "date_posted": 1758227283,
         "url": "https://northeastern.wd1.myworkdayjobs.com/careers/job/Boston-MA-Main-Campus/Research-Assistant_R136132-1",
@@ -207398,7 +207398,7 @@
         "company_name": "Applied Materials",
         "id": "06def1a3-f95d-4552-87fd-fbae555b6dcd",
         "title": "Data Scientist New College Grad - Masters Degree - Santa Clara CA",
-        "active": false,
+        "active": true,
         "date_updated": 1770941101,
         "date_posted": 1770941101,
         "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Data-Scientist-New-College-Grad---Masters-Degree--Santa-Clara--CA-_R2612272",
@@ -227780,7 +227780,7 @@
         "company_name": "General Motors",
         "id": "9625e78d-5698-46ee-b54e-749e328b0095",
         "title": "Software Engineer \u2013 Early Career",
-        "active": false,
+        "active": true,
         "date_updated": 1771987738,
         "date_posted": 1771987738,
         "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Mountain-View-California-United-States-of-America/Software-Engineer---Early-Career_JR-202517310",
@@ -230497,5 +230497,63 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Sonsoft",
+        "id": "406a1ad2-84a8-4641-8cba-c53662f5b9a3",
+        "title": "Bigdata with Java Background",
+        "active": true,
+        "date_updated": 1772090913,
+        "date_posted": 1772090913,
+        "url": "https://jobs.smartrecruiters.com/SonsoftInc/114573789",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Sonsoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Smiths Detection Group",
+        "id": "cd8afe96-69db-4e04-983b-f32197b6d2e9",
+        "title": "Embedded Software Engineer",
+        "active": true,
+        "date_updated": 1772090592,
+        "date_posted": 1772090592,
+        "url": "https://jobs.smartrecruiters.com/SmithsGroup2/744000103765506",
+        "locations": [
+            "Watford, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Smiths-Detection-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Sonsoft",
+        "id": "195c45a8-1b16-4c97-ae70-3d231bb8aa36",
+        "title": "Java / Apache Camel",
+        "active": true,
+        "date_updated": 1772090883,
+        "date_posted": 1772090883,
+        "url": "https://jobs.smartrecruiters.com/SonsoftInc/743999653322880",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Sonsoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
