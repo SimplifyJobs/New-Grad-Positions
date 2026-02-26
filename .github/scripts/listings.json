@@ -230324,5 +230324,178 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Sonsoft",
+        "id": "c7ac61c2-c337-407e-9646-2499b08b0620",
+        "title": "Sfdc \u2013 Developer 1",
+        "active": true,
+        "date_updated": 1772090945,
+        "date_posted": 1772090945,
+        "url": "https://jobs.smartrecruiters.com/SonsoftInc/111714535",
+        "locations": [
+            "Plano, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Sonsoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Sonsoft",
+        "id": "3112c976-dc37-4b15-9301-bf2d2a26b941",
+        "title": "Data Virtualization Developer",
+        "active": true,
+        "date_updated": 1772091001,
+        "date_posted": 1772091001,
+        "url": "https://jobs.smartrecruiters.com/SonsoftInc/105096717",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Sonsoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Softpath System",
+        "id": "6a5f9159-a26c-4e28-b048-7689b1b75794",
+        "title": "Internet / Web Engineer",
+        "active": true,
+        "date_updated": 1772091137,
+        "date_posted": 1772091137,
+        "url": "https://jobs.smartrecruiters.com/SoftpathSystemLLC/101875033",
+        "locations": [
+            "Columbia, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/Softpath-System",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Sonsoft",
+        "id": "145b1325-515c-4b90-af22-d478903922d7",
+        "title": "Salesforce Developer 1",
+        "active": true,
+        "date_updated": 1772090944,
+        "date_posted": 1772090944,
+        "url": "https://jobs.smartrecruiters.com/SonsoftInc/111714565",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Sonsoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Sonsoft",
+        "id": "9b4044f4-48a8-4cae-b329-2759e867589b",
+        "title": "Java/J2EE Consultant",
+        "active": true,
+        "date_updated": 1772091014,
+        "date_posted": 1772091014,
+        "url": "https://jobs.smartrecruiters.com/SonsoftInc/102769815",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Sonsoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Sonsoft",
+        "id": "93d3f127-ef3c-4c45-b3fe-7b136a165884",
+        "title": "Big Data Architect - With ETL Background",
+        "active": true,
+        "date_updated": 1772090904,
+        "date_posted": 1772090904,
+        "url": "https://jobs.smartrecruiters.com/SonsoftInc/116224160",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Sonsoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Sonsoft",
+        "id": "67bcd3cd-46b4-4f92-9257-d9b1307c5413",
+        "title": "Sfdc \u2013 Developer 1",
+        "active": true,
+        "date_updated": 1772090943,
+        "date_posted": 1772090943,
+        "url": "https://jobs.smartrecruiters.com/SonsoftInc/111467088",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Sonsoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Smiths Detection Group",
+        "id": "f57820d3-fc07-4e41-a681-5d9accb332c7",
+        "title": "Engineering Technician-Imaging",
+        "active": true,
+        "date_updated": 1772090593,
+        "date_posted": 1772090593,
+        "url": "https://jobs.smartrecruiters.com/SmithsGroup2/744000104774935",
+        "locations": [
+            "Gunpowder, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Smiths-Detection-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Sonsoft",
+        "id": "d45caf4b-62e4-482f-ab19-7e1ddc5ce6bc",
+        "title": "Swift IOS - Cocoa - Objectivec",
+        "active": true,
+        "date_updated": 1772090854,
+        "date_posted": 1772090854,
+        "url": "https://jobs.smartrecruiters.com/SonsoftInc/743999655720938",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Sonsoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
