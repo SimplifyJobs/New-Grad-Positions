@@ -17834,7 +17834,7 @@
         "company_name": "General Motors",
         "id": "947030be-f428-4b1a-9c83-6635b039aa33",
         "title": "Software Engineer \u2013 Early Career - Software Development",
-        "active": true,
+        "active": false,
         "date_updated": 1761884449,
         "date_posted": 1759001310,
         "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Mountain-View-California-United-States-of-America/Software-Engineer---Early-Career_JR-202517310",
@@ -189518,7 +189518,7 @@
         "company_name": "Ecolab",
         "id": "8f9f1eda-79b2-4093-9169-96417aec1fff",
         "title": "TPM Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1770076938,
         "date_posted": 1770076938,
         "url": "https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/USA---North-Carolina---Greensboro/TPM-Engineer_R00277701-1",
@@ -197711,7 +197711,7 @@
         "company_name": "GM financial",
         "id": "cb5fdcc4-e7f4-402f-a02b-e4c25225ce06",
         "title": "Product Owner 1 - Digital Payments",
-        "active": true,
+        "active": false,
         "date_updated": 1770419450,
         "date_posted": 1770419450,
         "url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1705",
@@ -210794,7 +210794,7 @@
         "company_name": "Caterpillar Inc.",
         "id": "de478078-f10d-43de-a3ce-59e4d0766a1c",
         "title": "Test Operator",
-        "active": true,
+        "active": false,
         "date_updated": 1771284049,
         "date_posted": 1771284049,
         "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Shrewsbury-United-Kingdom/Test-Operator_R0000350452",
@@ -227780,7 +227780,7 @@
         "company_name": "General Motors",
         "id": "9625e78d-5698-46ee-b54e-749e328b0095",
         "title": "Software Engineer \u2013 Early Career",
-        "active": false,
+        "active": true,
         "date_updated": 1771987738,
         "date_posted": 1771987738,
         "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Mountain-View-California-United-States-of-America/Software-Engineer---Early-Career_JR-202517310",
@@ -229835,6 +229835,266 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Invesco",
+        "id": "ea0a50b2-c250-4b15-a700-a4883483c955",
+        "title": "Early Career Analyst - Technology",
+        "active": true,
+        "date_updated": 1772065050,
+        "date_posted": 1772065050,
+        "url": "https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Atlanta-Georgia/Early-Career-Analyst---Technology_R-11041-1",
+        "locations": [
+            "Houston, TX",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Invesco",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "o9 Solutions",
+        "id": "aebda41c-4fa4-407d-a7cb-32c564921e2f",
+        "title": "Associate Architect",
+        "active": true,
+        "date_updated": 1772064852,
+        "date_posted": 1772064852,
+        "url": "https://o9solutions.wd5.myworkdayjobs.com/o9SolutionsExternal/job/Dallas-Texas-United-States/Associate-Architect_JR102243",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/O9-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Johnson & Johnson",
+        "id": "6582817a-f0ec-4bff-8510-6d14fcb87258",
+        "title": "ISRM 2026 Data & Analytics GEM Fellow",
+        "active": true,
+        "date_updated": 1772065069,
+        "date_posted": 1772065069,
+        "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/ISRM-2026-Data---Analytics-GEM-Fellow_R-059353",
+        "locations": [
+            "Bridgewater Township, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Johnson-Johnson",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CVS Health",
+        "id": "9e858da6-5c9d-4e61-a71f-b019c8478a9f",
+        "title": "Trade Finance Data Analyst",
+        "active": true,
+        "date_updated": 1772064561,
+        "date_posted": 1772064561,
+        "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Irving/Trade-Finance-Data-Analyst_R0835760",
+        "locations": [
+            "Irving, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/CVS-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "CVS Health",
+        "id": "61f563e2-5584-4142-bf98-39262b523816",
+        "title": "Product Manager Analyst",
+        "active": true,
+        "date_updated": 1772064573,
+        "date_posted": 1772064573,
+        "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/IL---Work-from-home/Product-Manager-Analyst_R0839485",
+        "locations": [
+            "Illinois"
+        ],
+        "company_url": "https://simplify.jobs/c/CVS-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "IDEXX",
+        "id": "df3ed117-991b-4a65-8003-2c38d125785c",
+        "title": "Data Conversions Technician",
+        "active": true,
+        "date_updated": 1772063479,
+        "date_posted": 1772063479,
+        "url": "https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Virtual-United-States/Data-Conversions-Technician_J-051787-1",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/IDEXX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "The Boeing Company",
+        "id": "77f024d6-4358-410f-bb32-8038623eeb11",
+        "title": "Associate Product Lifecycle Management - Plm - Specialist",
+        "active": true,
+        "date_updated": 1772063496,
+        "date_posted": 1772063496,
+        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Oklahoma-City-OK/Associate-Product-Lifecycle-Management--PLM--Specialist---Configuration-Management_JR2026492705-1",
+        "locations": [
+            "Oklahoma City, OK"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "DAT Freight & Analytics",
+        "id": "aec3af92-d016-4183-bd0e-eb58484ab9bb",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1772063107,
+        "date_posted": 1772063107,
+        "url": "https://careers.dat.com/jobs/5721169004?gh_jid=5721169004",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/DATFreight",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Tenstorrent",
+        "id": "a81eea1a-760c-4d93-a6f7-06b61725e7ae",
+        "title": "Hardware Technician",
+        "active": true,
+        "date_updated": 1772063262,
+        "date_posted": 1772063262,
+        "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/5061955007",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tenstorrent",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Stryker",
+        "id": "348dec2d-a3ac-4989-9edf-ac9577b7eb23",
+        "title": "Specialist",
+        "active": true,
+        "date_updated": 1772063123,
+        "date_posted": 1772063123,
+        "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Missouri-Virtual-Address/OnSite-Specialist---St-Louis--MO_R560889",
+        "locations": [
+            "St. Louis, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Stryker",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Capital One",
+        "id": "2f3506d2-7f59-4917-bfe4-60549eb4fbf4",
+        "title": "Applied Researcher 1 - AI Foundations",
+        "active": true,
+        "date_updated": 1772063287,
+        "date_posted": 1772063287,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Applied-Researcher-I--AI-Foundations-_R236764-1",
+        "locations": [
+            "McLean, VA",
+            "NYC",
+            "San Jose, CA",
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Capital-One",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northrop Grumman",
+        "id": "1850365f-f0f2-4cd1-adb4-950577d8bc4e",
+        "title": "Electrical Engineer / Principal Electrical Engineer",
+        "active": true,
+        "date_updated": 1772063850,
+        "date_posted": 1772063850,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/Engineer-Electrical---Principal-Engineer-Electrical_R10215266",
+        "locations": [
+            "Palmdale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Huron",
+        "id": "00ccc4ef-8a7f-4153-8a30-27367dee7ffa",
+        "title": "Associate \u2013 Data Management & Analytics - Healthcare Providers",
+        "active": true,
+        "date_updated": 1772063955,
+        "date_posted": 1772063955,
+        "url": "https://huron.wd1.myworkdayjobs.com/huroncareers/job/Chicago---550-Van-Buren/Associate---Data-Management---Analytics--Healthcare-Providers-_JR-0014240",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Huron",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
