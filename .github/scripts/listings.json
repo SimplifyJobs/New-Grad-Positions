@@ -2,159 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Palantir",
-        "id": "a8ce51d6-0756-4ce0-949a-618e2f755b99",
-        "title": "Software Engineer \u2013 New Grad - Production Infrastructure",
-        "active": true,
-        "date_updated": 1755269872,
-        "date_posted": 1751385401,
-        "url": "https://jobs.lever.co/palantir/e1a6c138-98bf-45e2-97f7-2c70371cc38a/apply",
-        "locations": [
-            "New York, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Palantir",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Palantir",
-        "id": "645100d8-0e6e-414b-aa7c-96ecb3ea36e4",
-        "title": "Software Engineer \u2013 New Grad - Defense",
-        "active": true,
-        "date_updated": 1755269846,
-        "date_posted": 1751385398,
-        "url": "https://jobs.lever.co/palantir/0a838e66-1ab0-4fc4-b4d3-4671c0352278/apply",
-        "locations": [
-            "New York, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Palantir",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Palantir",
-        "id": "345a57b5-fae1-45c1-8deb-5bbec4479e03",
-        "title": "Software Engineer \u2013 New Grad - Defense",
-        "active": true,
-        "date_updated": 1751385397,
-        "date_posted": 1751385397,
-        "url": "https://jobs.lever.co/palantir/f362d7aa-360d-4059-ab38-f482742693b3/apply",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Palantir",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Palantir",
-        "id": "0a14e404-4828-4af4-bb63-2fb23a5a061f",
-        "title": "Software Engineer \u2013 New Grad",
-        "active": true,
-        "date_updated": 1755269822,
-        "date_posted": 1751385393,
-        "url": "https://jobs.lever.co/palantir/94984771-0704-446c-88c6-91ce748f6d92/apply",
-        "locations": [
-            "New York, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Palantir",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Palantir",
-        "id": "28d1f6a3-0734-4ec4-9e9f-d57b3429cabf",
-        "title": "Software Engineer \u2013 New Grad - Infrastructure",
-        "active": true,
-        "date_updated": 1755269918,
-        "date_posted": 1751385403,
-        "url": "https://jobs.lever.co/palantir/4abf26b4-795c-420a-bf22-1ab98db268b4/apply",
-        "locations": [
-            "New York, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Palantir",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Palantir",
-        "id": "057e0386-1d1a-425c-b6a6-d6e3374a3d52",
-        "title": "Software Engineer \u2013 New Grad - Defense",
-        "active": true,
-        "date_updated": 1751385398,
-        "date_posted": 1751385398,
-        "url": "https://jobs.lever.co/palantir/18d901fc-93bb-4d18-9f04-c72031e20d79/apply",
-        "locations": [
-            "Washington, DC"
-        ],
-        "company_url": "https://simplify.jobs/c/Palantir",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Palantir",
-        "id": "1448f4ee-fa48-4c3e-807a-2faf4016ae0f",
-        "title": "Software Engineer \u2013 New Grad - Production Infrastructure",
-        "active": true,
-        "date_updated": 1751385401,
-        "date_posted": 1751385401,
-        "url": "https://jobs.lever.co/palantir/4d5a144e-87ea-45e2-a68c-3fad590629af/apply",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Palantir",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Palantir",
-        "id": "1f6bee99-9cca-467c-a0b3-899d61139a03",
-        "title": "Forward Deployed Software Engineer \u2013 New Grad - US Government",
-        "active": false,
-        "date_updated": 1755269804,
-        "date_posted": 1751385332,
-        "url": "https://jobs.lever.co/palantir/d1ac83d0-e923-42a5-8e6d-58dd0cab25ca/apply",
-        "locations": [
-            "New York, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Palantir",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Palantir",
-        "id": "f6f83b45-cf4c-4a3e-8f32-4c64672610a1",
-        "title": "Forward Deployed Software Engineer \u2013 New Grad - US Government",
-        "active": false,
-        "date_updated": 1751385330,
-        "date_posted": 1751385330,
-        "url": "https://jobs.lever.co/palantir/cbe90327-3e6e-451c-a54c-1d3cbcef5aeb/apply",
-        "locations": [
-            "Washington, DC"
-        ],
-        "company_url": "https://simplify.jobs/c/Palantir",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Iridium Communications",
         "id": "47ab4e50-7048-47ed-b68c-f8b8ba8b6164",
         "title": "Engineer I - Software Developer \ud83c\uddfa\ud83c\uddf8",
@@ -1371,23 +1218,6 @@
             "Seattle, WA"
         ],
         "company_url": "https://simplify.jobs/c/Qualtrics",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Palantir",
-        "id": "7e134007-3fa8-4732-84ca-e7119c8f4116",
-        "title": "Software Engineer \u2013 New Grad",
-        "active": true,
-        "date_updated": 1751385392,
-        "date_posted": 1751385392,
-        "url": "https://jobs.lever.co/palantir/c34b424e-caf2-455a-b104-ae1096ccca29/apply",
-        "locations": [
-            "Denver, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Palantir",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -6197,23 +6027,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Palantir",
-        "id": "f0bfc241-81bc-4e41-9302-f5eca6339fdf",
-        "title": "Software Engineer \u2013 New Grad",
-        "active": true,
-        "date_updated": 1753960073,
-        "date_posted": 1751385394,
-        "url": "https://jobs.lever.co/palantir/dea9d3d5-75b2-4588-b7bd-585a47b79c8c/apply",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Palantir",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Notion",
         "id": "75fb48a4-fff4-42d7-a3fd-fb29d7e57b96",
         "title": "Software Engineer \u2013 Early Career - Infrastructure",
@@ -8837,27 +8650,6 @@
             "Omaha, NE"
         ],
         "company_url": "https://simplify.jobs/c/Berkshire-Hathaway-Energy",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Verisk",
-        "id": "77d06abd-87ab-4f69-b03c-11fca5383d54",
-        "title": "Junior Data Scientist",
-        "active": false,
-        "date_updated": 1756206884,
-        "date_posted": 1751383894,
-        "url": "https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/1749",
-        "locations": [
-            "London, UK",
-            "Norwich, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Verisk",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -17817,7 +17609,7 @@
         "company_name": "General Motors",
         "id": "947030be-f428-4b1a-9c83-6635b039aa33",
         "title": "Software Engineer \u2013 Early Career - Software Development",
-        "active": true,
+        "active": false,
         "date_updated": 1761884449,
         "date_posted": 1759001310,
         "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Mountain-View-California-United-States-of-America/Software-Engineer---Early-Career_JR-202517310",
@@ -183330,7 +183122,7 @@
         "company_name": "Wells Fargo",
         "id": "2828a338-7d68-4008-8984-a482bb96eff6",
         "title": "Engineering Associate - Middleware Operations",
-        "active": false,
+        "active": true,
         "date_updated": 1769730921,
         "date_posted": 1769730921,
         "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/MINNEAPOLIS-MN/Engineering-Associate---Middleware-Operations_R-518252",
@@ -191267,7 +191059,7 @@
         "company_name": "Cencora",
         "id": "8cbcaec5-b1cf-413c-aa4c-0a66d37be364",
         "title": "Service and Installation Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1770162173,
         "date_posted": 1770162173,
         "url": "https://myhrabc.wd5.myworkdayjobs.com/Global/job/Remote-NE/Service-and-Installation-Technician_R261650",
@@ -200684,7 +200476,7 @@
         "company_name": "CAE",
         "id": "7556a813-f850-4ab5-8f62-40b01eb960fc",
         "title": "Weapons Aero Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1770680051,
         "date_posted": 1770680051,
         "url": "https://cae.wd3.myworkdayjobs.com/career/job/Arlington-TX/Weapons-Aero-Software-Engineer_120370",
@@ -227763,7 +227555,7 @@
         "company_name": "General Motors",
         "id": "9625e78d-5698-46ee-b54e-749e328b0095",
         "title": "Software Engineer \u2013 Early Career",
-        "active": false,
+        "active": true,
         "date_updated": 1771987738,
         "date_posted": 1771987738,
         "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Mountain-View-California-United-States-of-America/Software-Engineer---Early-Career_JR-202517310",
@@ -231094,6 +230886,144 @@
             "Hartford, CT"
         ],
         "company_url": "https://simplify.jobs/c/Travelers",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Airbus",
+        "id": "ea4a11cf-d37b-43a2-b41c-89883dcf6c9e",
+        "title": "Cabin Installer",
+        "active": true,
+        "date_updated": 1772121324,
+        "date_posted": 1772121324,
+        "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Mobile-Area-AL/Cabin-Installer_JR10389220",
+        "locations": [
+            "Mobile, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Airbus",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "IQVIA",
+        "id": "b03abb59-ac49-4012-ad4a-22eed444fcaf",
+        "title": "Associate Data Scientist - Privacy and De-identification - Associate Data Scientist",
+        "active": true,
+        "date_updated": 1772121150,
+        "date_posted": 1772121150,
+        "url": "https://iqvia.wd1.myworkdayjobs.com/en-US/IQVIA/job/Ottawa-Ontario-Canada/Scientifique-des-donnes-associ--confidentialit-et-dsidentification---Associate-Data-Scientist--Privacy-and-De-identification_R1523869",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/IQVIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "NMI",
+        "id": "d323e771-c0ce-4f5c-a81f-87d4a1c1912c",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1772120694,
+        "date_posted": 1772120694,
+        "url": "https://job-boards.greenhouse.io/nmi/jobs/5132338008",
+        "locations": [
+            "Remote in UK"
+        ],
+        "company_url": "https://simplify.jobs/c/NMI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "KBR",
+        "id": "906881b2-85b4-4a32-85a3-c9986af99da2",
+        "title": "Software Developer \u2013 Entry Level",
+        "active": true,
+        "date_updated": 1772120676,
+        "date_posted": 1772120676,
+        "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Houston-Texas/Software-Developer--Entry-Level-_R2119626",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/KBR",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Lumos",
+        "id": "6b3399e9-5270-466d-88de-c46a0ac7662a",
+        "title": "Operations Service Technician 1",
+        "active": true,
+        "date_updated": 1772120398,
+        "date_posted": 1772120398,
+        "url": "https://job-boards.greenhouse.io/lumosfiber/jobs/5132529008",
+        "locations": [
+            "High Point, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Lumos-Fiber",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Home Depot",
+        "id": "54c8da43-ec5e-4993-9d80-f7284120ae8f",
+        "title": "Associate Data Scientist - Tools & Automation",
+        "active": true,
+        "date_updated": 1772120152,
+        "date_posted": 1772120152,
+        "url": "https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Associate-Data-Scientist---Tools---Automation_Req169893",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Home-Depot",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Home Depot",
+        "id": "1431b554-2ee2-4f2e-980b-60cf32ba3a7f",
+        "title": "Data Analyst - Solutions Strategy - Analytics",
+        "active": true,
+        "date_updated": 1772120149,
+        "date_posted": 1772120149,
+        "url": "https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Data-Analyst---Solutions-Strategy--Analytics_Req169178-1",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Home-Depot",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
