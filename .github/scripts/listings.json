@@ -209790,7 +209790,7 @@
         "company_name": "Northeastern University",
         "id": "575bc022-0978-4066-9dc1-4b338fdb564e",
         "title": "Postdoctoral Research Associate - Human Data Interaction/Data Visualization - The Roux Institute",
-        "active": false,
+        "active": true,
         "date_updated": 1770894782,
         "date_posted": 1765051489,
         "url": "https://northeastern.wd1.myworkdayjobs.com/careers/job/Portland-ME/Postdoctoral-Research-Associate---Human-Data-Interaction-Data-Visualization----The-Roux-Institute--Portland--Maine_R127738",
@@ -223003,7 +223003,7 @@
         "company_name": "BlackRock",
         "id": "a85fe9f4-8464-4676-b652-c3e73615a4ec",
         "title": "Product Manager - Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1771862161,
         "date_posted": 1771862161,
         "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/London-Greater-London/Product-Manager--Associate-_R260931",
@@ -230705,6 +230705,24 @@
             "San Jose, CA"
         ],
         "company_url": "https://simplify.jobs/c/Bill-Dot-Com",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Airbus",
+        "id": "9ab83fd8-ac6c-4bf5-aa46-a4232cf0fb94",
+        "title": "Technical Publications Data Assembly and Distribution Specialist",
+        "active": true,
+        "date_updated": 1772107849,
+        "date_posted": 1771699624,
+        "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Montreal-Area/diteur-technique-Publicateur---Publications-techniques---Technical-Editor-Publisher---Technical-Publications_JR10376208",
+        "locations": [
+            "Laval, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Airbus",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
