@@ -179250,7 +179250,7 @@
         "company_name": "Embry-Riddle Aeronautical University",
         "id": "cfe3c262-5c2f-410b-9099-bcaad21e6998",
         "title": "Assistant Professor",
-        "active": false,
+        "active": true,
         "date_updated": 1769584432,
         "date_posted": 1769584432,
         "url": "https://embryriddle.wd1.myworkdayjobs.com/External/job/Daytona-Beach-FL/Tenure-Track-Faculty-Position-with-a-focus-on-Big-Data-Analytics-and-Aviation-Safety-in-the-School-of-Graduate-Studies_R309967",
@@ -221142,7 +221142,7 @@
         "company_name": "Abbott",
         "id": "b2a2aa46-988e-4b81-9ebb-d2ac7e3e6864",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1771641866,
         "date_posted": 1771641866,
         "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Minnesota---Plymouth/Associate-Software-Engineer_31142661-1",
@@ -221163,7 +221163,7 @@
         "company_name": "Abbott",
         "id": "2c1704d9-ad18-426b-be05-91d12e29648d",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1771641278,
         "date_posted": 1771641278,
         "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---Minnesota---Plymouth/Associate-Software-Engineer_31142661",
@@ -232901,5 +232901,23 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "AAA Club Alliance",
+        "id": "f6086171-fd31-4973-b46f-ae69734fd2c3",
+        "title": "Battery Service Technician",
+        "active": true,
+        "date_updated": 1772191690,
+        "date_posted": 1771690487,
+        "url": "https://ace.wd5.myworkdayjobs.com/careers/job/Suffolk-VA/Battery-Service-Technician_JR202633842",
+        "locations": [
+            "Suffolk, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/AAA-Club-Alliance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
