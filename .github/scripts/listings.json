@@ -4537,7 +4537,7 @@
         "company_name": "Apex Fintech Solutions",
         "id": "9d74aeea-fa25-46c6-af6f-3d20a6065b64",
         "title": "Software Engineer I - Aldp",
-        "active": true,
+        "active": false,
         "date_updated": 1755147515,
         "date_posted": 1755147515,
         "url": "https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions/job/Austin-TX/Software-Engineer-I--ALDP-_JR103414-1",
@@ -21838,7 +21838,7 @@
         "company_name": "Intuit",
         "id": "55a00559-28b9-41bc-b6dc-cda5714e2846",
         "title": "Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1760765120,
         "date_posted": 1760765120,
         "url": "https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/87369448720",
@@ -146876,7 +146876,7 @@
         "company_name": "Welocalize",
         "id": "46cc3138-70d9-488c-8ab2-9bcba1df2a4e",
         "title": "Search Quality Rater",
-        "active": false,
+        "active": true,
         "date_updated": 1767656573,
         "date_posted": 1767656573,
         "url": "https://welocalize.wd1.myworkdayjobs.com/welocalize/job/Austin-Texas/Search-Quality-Rater_R0007321",
@@ -196774,7 +196774,7 @@
         "company_name": "Man Group",
         "id": "8f4803db-b51e-46aa-a128-406799651630",
         "title": "Technology Graduate Programme - Software Engineer - C# / .NET",
-        "active": true,
+        "active": false,
         "date_updated": 1770391112,
         "date_posted": 1770391112,
         "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4682441101",
@@ -216349,7 +216349,7 @@
         "company_name": "GE Healthcare",
         "id": "1add7048-3f86-4d80-b527-334cce1223da",
         "title": "Software Engineer 1 - Workflows",
-        "active": false,
+        "active": true,
         "date_updated": 1771543430,
         "date_posted": 1771543430,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/OH05-01-Beachwood-Science-Park-Drive/Software-Engineer-I---Workflows_R4027571-1",
@@ -221240,7 +221240,7 @@
         "company_name": "Sainsbury's",
         "id": "6cb14239-3a9d-495c-b4ab-0673e21563fa",
         "title": "Trading Assistant - Shift",
-        "active": false,
+        "active": true,
         "date_updated": 1771686969,
         "date_posted": 1771686969,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050534",
@@ -228747,7 +228747,7 @@
         "company_name": "Sainsbury's",
         "id": "4a48e8a1-3e5b-4df2-a468-1c84ffcdf5eb",
         "title": "Trading Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1772061108,
         "date_posted": 1772061108,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050959",
@@ -230964,7 +230964,7 @@
         "company_name": "Deutsche Bank",
         "id": "61839fbd-d48b-4798-8171-da3ae76a39cf",
         "title": "Java Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1772147916,
         "date_posted": 1772147916,
         "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Cary-3000-CentreGreen-Way/Java-Engineer---Associate_R0418350-3",
@@ -232826,7 +232826,7 @@
         "company_name": "Intuit",
         "id": "e670be82-cf2f-40e5-bdff-fe27daa6213d",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1772189367,
         "date_posted": 1772189367,
         "url": "https://jobs.intuit.com/job/mountain-view/senior-product-designer/27595/87369442064",
@@ -232976,5 +232976,604 @@
         "date_posted": 1772204974,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Merative",
+        "id": "c551daed-04ac-42cb-a745-9664938e00da",
+        "title": "Software Engineering Associate",
+        "active": true,
+        "date_updated": 1772205777,
+        "date_posted": 1772205777,
+        "url": "https://jobs.smartrecruiters.com/TruvenHealthAnalyticsanIBMCompany/93930814",
+        "locations": [
+            "Greenwood Village, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Merative",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "First Quality",
+        "id": "557b50e5-afb4-4f01-8e62-0731609c5f3f",
+        "title": "Associate Product Development Scientist - Fqrs",
+        "active": true,
+        "date_updated": 1772205628,
+        "date_posted": 1772205628,
+        "url": "https://firstquality.wd5.myworkdayjobs.com/firstquality/job/US-PA-Lewistown/Associate-Product-Development-Scientist---FQRS_R10580",
+        "locations": [
+            "State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/88a12762-7571-4b02-ab44-d4b76f06a26a",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "USM Business Systems",
+        "id": "e64ce920-22d2-40d9-8d68-8082aa026632",
+        "title": "Locals Only Urgent Need Data Analyst",
+        "active": true,
+        "date_updated": 1772205399,
+        "date_posted": 1772205399,
+        "url": "https://jobs.smartrecruiters.com/USM2/95343795",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/USM-Business-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "USM Business Systems",
+        "id": "dff325ce-bfd4-4be3-bb50-a74b645c3d69",
+        "title": "WebSphere Middleware Engineer",
+        "active": true,
+        "date_updated": 1772205302,
+        "date_posted": 1772205302,
+        "url": "https://jobs.smartrecruiters.com/USM2/101594291",
+        "locations": [
+            "Dublin, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/USM-Business-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Huntington Ingalls Industries",
+        "id": "c780f25e-cc50-40c8-b3db-e55b89cd18e9",
+        "title": "Engineer Test Operations 1",
+        "active": true,
+        "date_updated": 1772205396,
+        "date_posted": 1772205396,
+        "url": "https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-TEST-OPERATIONS-1-Virg/1368621500/?ats=successfactors",
+        "locations": [
+            "Newport News, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Huntington-Ingalls-Industries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "USM Business Systems",
+        "id": "c6e7c1f7-a4be-4337-bf16-f3f34a99bfa5",
+        "title": "ETL Developer",
+        "active": true,
+        "date_updated": 1772205418,
+        "date_posted": 1772205418,
+        "url": "https://jobs.smartrecruiters.com/USM2/89909857",
+        "locations": [
+            "North Bethesda, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/USM-Business-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Vertiv",
+        "id": "c5a8bc2a-e4e5-48a2-a8b6-0e41d9cf82b3",
+        "title": "NETA Testing Technician-Charleston - SC",
+        "active": true,
+        "date_updated": 1772205403,
+        "date_posted": 1772205403,
+        "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20267705",
+        "locations": [
+            "Charleston, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/Vertiv",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "USM Business Systems",
+        "id": "bd8b3c20-c588-4db1-907f-4692e65390ff",
+        "title": "Risk Analyst Quant Background",
+        "active": true,
+        "date_updated": 1772205378,
+        "date_posted": 1772205378,
+        "url": "https://jobs.smartrecruiters.com/USM2/96166945",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/USM-Business-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Vertiv",
+        "id": "ba9fe7dd-74b3-4549-b35f-beac2e51ac55",
+        "title": "NETA Testing Technician-Charleston - SC",
+        "active": true,
+        "date_updated": 1772205397,
+        "date_posted": 1772205397,
+        "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20267706",
+        "locations": [
+            "Charleston, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/Vertiv",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "USM Business Systems",
+        "id": "b87472fc-5c3c-48ad-ac4b-954b4cfa2f05",
+        "title": "T-SQL Developer",
+        "active": true,
+        "date_updated": 1772205422,
+        "date_posted": 1772205422,
+        "url": "https://jobs.smartrecruiters.com/USM2/91864507",
+        "locations": [
+            "Jefferson City, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/USM-Business-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "USM Business Systems",
+        "id": "b612d521-328b-4904-b599-634bb4eb79fb",
+        "title": "SQL/PL SQL Developer",
+        "active": true,
+        "date_updated": 1772205413,
+        "date_posted": 1772205413,
+        "url": "https://jobs.smartrecruiters.com/USM2/90142541",
+        "locations": [
+            "Augusta, ME"
+        ],
+        "company_url": "https://simplify.jobs/c/USM-Business-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "CesiumAstro",
+        "id": "ac54b66b-b6e6-470a-870d-b0cec586ecbf",
+        "title": "FPGA Engineer 1",
+        "active": true,
+        "date_updated": 1772205277,
+        "date_posted": 1772205277,
+        "url": "https://jobs.lever.co/CesiumAstro/ae5b45f6-e65d-4b7e-bd10-8fda3834de8a/apply",
+        "locations": [
+            "Milton Keynes, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/CesiumAstro",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "USM Business Systems",
+        "id": "9ed58f87-d1e7-411d-9f4c-edaa7f93bda2",
+        "title": "Ruby on Rails - Ror - Developer! Jr levels",
+        "active": true,
+        "date_updated": 1772205323,
+        "date_posted": 1772205323,
+        "url": "https://jobs.smartrecruiters.com/USM2/101023933",
+        "locations": [
+            "Traverse City, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/USM-Business-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "USM Business Systems",
+        "id": "90fee869-7610-4b0e-945a-7327502bae37",
+        "title": "Portal Config Analyst",
+        "active": true,
+        "date_updated": 1772205419,
+        "date_posted": 1772205419,
+        "url": "https://jobs.smartrecruiters.com/USM2/90127346",
+        "locations": [
+            "Augusta, ME"
+        ],
+        "company_url": "https://simplify.jobs/c/USM-Business-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "USM Business Systems",
+        "id": "8cd4317f-1c27-459f-baee-a2cdc7fa786b",
+        "title": "Web Developer",
+        "active": true,
+        "date_updated": 1772205418,
+        "date_posted": 1772205418,
+        "url": "https://jobs.smartrecruiters.com/USM2/89640171",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/USM-Business-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "USM Business Systems",
+        "id": "7e128149-0af6-41ea-a738-b210ca21fb96",
+        "title": "Powershell - Need GC and USC",
+        "active": true,
+        "date_updated": 1772205368,
+        "date_posted": 1772205368,
+        "url": "https://jobs.smartrecruiters.com/USM2/100247617",
+        "locations": [
+            "St. Louis, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/USM-Business-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Vertiv",
+        "id": "7862141d-b252-4a68-8c8c-1ccdac37388f",
+        "title": "Customer Engineer 1 - Chicago IL",
+        "active": true,
+        "date_updated": 1772205249,
+        "date_posted": 1772205249,
+        "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20267741",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Vertiv",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "USM Business Systems",
+        "id": "691118f7-8002-409a-9c9b-e8dd64c9fbaa",
+        "title": "Informatica Developer",
+        "active": true,
+        "date_updated": 1772205329,
+        "date_posted": 1772205329,
+        "url": "https://jobs.smartrecruiters.com/USM2/99417588",
+        "locations": [
+            "Columbus, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/USM-Business-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "USM Business Systems",
+        "id": "653dbd3d-0c33-4411-b074-4d38a1f7b7c8",
+        "title": "Ruby on Rails",
+        "active": true,
+        "date_updated": 1772205423,
+        "date_posted": 1772205423,
+        "url": "https://jobs.smartrecruiters.com/USM2/83392775",
+        "locations": [
+            "Chantilly, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/USM-Business-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "USM Business Systems",
+        "id": "50e5c6dc-5ce5-4166-930c-11c1521ba0cc",
+        "title": "Portal Configuration Analyst",
+        "active": true,
+        "date_updated": 1772205405,
+        "date_posted": 1772205405,
+        "url": "https://jobs.smartrecruiters.com/USM2/92603712",
+        "locations": [
+            "Augusta, ME"
+        ],
+        "company_url": "https://simplify.jobs/c/USM-Business-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "USM Business Systems",
+        "id": "33b882be-083c-4aff-8ee5-4d2e8af677dc",
+        "title": "Portal Config Analyst",
+        "active": true,
+        "date_updated": 1772205414,
+        "date_posted": 1772205414,
+        "url": "https://jobs.smartrecruiters.com/USM2/90127318",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/USM-Business-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "USM Business Systems",
+        "id": "2a7f3795-730c-41fc-aaad-39eb47ee477b",
+        "title": "Core Java Developer - Need GC and USC",
+        "active": true,
+        "date_updated": 1772205372,
+        "date_posted": 1772205372,
+        "url": "https://jobs.smartrecruiters.com/USM2/96167321",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/USM-Business-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "USM Business Systems",
+        "id": "2075fb09-c4d4-4003-8cbf-816bf7ed1651",
+        "title": "Android developer - Need Gc and Usc",
+        "active": true,
+        "date_updated": 1772205393,
+        "date_posted": 1772205393,
+        "url": "https://jobs.smartrecruiters.com/USM2/95554628",
+        "locations": [
+            "Orlando, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/USM-Business-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "USM Business Systems",
+        "id": "202cd0ed-732e-427c-b193-8ebca0bfa6a1",
+        "title": "Pega LSA Certified Resources",
+        "active": true,
+        "date_updated": 1772205285,
+        "date_posted": 1772205285,
+        "url": "https://jobs.smartrecruiters.com/USM2/107007927",
+        "locations": [
+            "Owings Mills, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/USM-Business-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "USM Business Systems",
+        "id": "1ddd6d52-5018-4f14-8566-6ed017265f4d",
+        "title": "SharePoint Developer",
+        "active": true,
+        "date_updated": 1772205372,
+        "date_posted": 1772205372,
+        "url": "https://jobs.smartrecruiters.com/USM2/96355680",
+        "locations": [
+            "Southfield, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/USM-Business-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "US IT Solutions",
+        "id": "dcaf425f-e326-4b37-8d8c-6b3e08d570ad",
+        "title": "Technical Assistant with Adobe Acrobat Pro - Filemaker Pro - Access,Sharepoint",
+        "active": true,
+        "date_updated": 1772205176,
+        "date_posted": 1772205176,
+        "url": "https://jobs.smartrecruiters.com/USITSolutionsInc/116208461",
+        "locations": [
+            "Tulsa, OK"
+        ],
+        "company_url": "https://simplify.jobs/c/US-IT-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Arcadis",
+        "id": "9e959e22-3779-44bb-a819-d4d31e425c0e",
+        "title": "Junior Software Engineer",
+        "active": true,
+        "date_updated": 1772205145,
+        "date_posted": 1772205145,
+        "url": "https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/38201",
+        "locations": [
+            "Boca Raton, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Arcadis",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "3be9db47-fb9f-4359-b5d7-444ec35ae1f5",
+        "title": "Engineering Technician B",
+        "active": true,
+        "date_updated": 1772205184,
+        "date_posted": 1772205184,
+        "url": "https://jobs.l3harris.com/job/Salt-Lake-City-Engineering-Technician-B-UT-84116/1368645000/?ats=successfactors",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "820f6bd1-43dd-4da6-8bdc-ce2852cbb0bd",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1772204991,
+        "date_posted": 1772204991,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051335",
+        "locations": [
+            "Stoke-on-Trent, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Google",
+        "id": "776fe69f-3ae3-467a-bea5-cfd38dfc5bac",
+        "title": "Product Manager 1",
+        "active": true,
+        "date_updated": 1772204926,
+        "date_posted": 1772204926,
+        "url": "https://www.google.com/about/careers/applications/jobs/results/89488037473329862",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Google",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "6d7696a8-f027-4e46-ae7b-2b91f78770ee",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1772204986,
+        "date_posted": 1772204986,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051329",
+        "locations": [
+            "Stoke-on-Trent, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
