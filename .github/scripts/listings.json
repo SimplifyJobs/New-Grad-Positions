@@ -120777,9 +120777,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1765391380,
+        "date_updated": 1772205536,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Master's"
         ],
