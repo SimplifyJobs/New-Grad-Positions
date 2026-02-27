@@ -17553,7 +17553,7 @@
         "company_name": "General Motors",
         "id": "947030be-f428-4b1a-9c83-6635b039aa33",
         "title": "Software Engineer \u2013 Early Career - Software Development",
-        "active": true,
+        "active": false,
         "date_updated": 1761884449,
         "date_posted": 1759001310,
         "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Mountain-View-California-United-States-of-America/Software-Engineer---Early-Career_JR-202517310",
@@ -163110,7 +163110,7 @@
         "company_name": "KLA",
         "id": "841d96de-7df5-4491-ac44-841c2fe18d02",
         "title": "Software Engineer - AI & Full Stack Development",
-        "active": true,
+        "active": false,
         "date_updated": 1768518828,
         "date_posted": 1768518828,
         "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Software-Engineer---AI---Full-Stack-Development_2531265-3",
@@ -170551,7 +170551,7 @@
         "company_name": "KLA",
         "id": "ec90eb0b-9c36-4afe-9765-3b9862535c7b",
         "title": "Software Engineer - AI & Full Stack Development",
-        "active": true,
+        "active": false,
         "date_updated": 1768956399,
         "date_posted": 1768956399,
         "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Ann-Arbor-MI/Software-Engineer---AI---Full-Stack-Development_2531265-1",
@@ -170749,7 +170749,7 @@
         "company_name": "KLA",
         "id": "b0b59076-4ca9-4d72-8dcd-5c7b312b9de8",
         "title": "Software Engineer - AI & Full Stack Development",
-        "active": true,
+        "active": false,
         "date_updated": 1768956444,
         "date_posted": 1768956444,
         "url": "https://kla.wd1.myworkdayjobs.com/AnnArbor/job/Ann-Arbor-MI/Software-Engineer---AI---Full-Stack-Development_2531265-2",
@@ -227367,7 +227367,7 @@
         "company_name": "General Motors",
         "id": "9625e78d-5698-46ee-b54e-749e328b0095",
         "title": "Software Engineer \u2013 Early Career",
-        "active": false,
+        "active": true,
         "date_updated": 1771987738,
         "date_posted": 1771987738,
         "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Mountain-View-California-United-States-of-America/Software-Engineer---Early-Career_JR-202517310",
@@ -232526,6 +232526,86 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tower Research Capital",
+        "id": "abe09edc-f848-4592-9a3e-17672d62e78e",
+        "title": "Senior Data Analyst",
+        "active": true,
+        "date_updated": 1772160042,
+        "date_posted": 1772160042,
+        "url": "https://www.tower-research.com/open-positions/?gh_jid=7655792",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Tower-Research-Capital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Tower Research Capital",
+        "id": "76338ee1-134d-41bc-9983-f330ff6061f7",
+        "title": "Quantitative Researcher",
+        "active": true,
+        "date_updated": 1772160042,
+        "date_posted": 1772160042,
+        "url": "https://www.tower-research.com/open-positions/?gh_jid=7659865",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Tower-Research-Capital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Athena Health",
+        "id": "ad2beae1-acd9-4a9e-83fc-dd459c425079",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1772159461,
+        "date_posted": 1772159461,
+        "url": "https://athenahealth.wd1.myworkdayjobs.com/en-US/External/job/Boston-MA/Associate-Software-Engineer--Platform---COCore_R14456",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/e955406a-7989-4ed8-aff1-01032b96e141",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Sony Pictures Imageworks",
+        "id": "53ef7a5d-4218-4ac7-ba6f-f07c3734b8f5",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1772159248,
+        "date_posted": 1772159248,
+        "url": "https://job-boards.greenhouse.io/sonypicturesimageworks/jobs/7641507003",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Sony-Pictures-Imageworks",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
