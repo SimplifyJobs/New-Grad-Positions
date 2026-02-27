@@ -17553,7 +17553,7 @@
         "company_name": "General Motors",
         "id": "947030be-f428-4b1a-9c83-6635b039aa33",
         "title": "Software Engineer \u2013 Early Career - Software Development",
-        "active": false,
+        "active": true,
         "date_updated": 1761884449,
         "date_posted": 1759001310,
         "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Mountain-View-California-United-States-of-America/Software-Engineer---Early-Career_JR-202517310",
@@ -116268,7 +116268,7 @@
         "company_name": "Applied Materials",
         "id": "818ef91d-9069-4607-b7c1-bbccfb14b6a5",
         "title": "Product Line Management Data Science",
-        "active": false,
+        "active": true,
         "date_updated": 1764989476,
         "date_posted": 1764989476,
         "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Product-Line-Management-Data-Science--New-College-Grad--Bachelor-s-Master-s--Santa-Clara--CA-_R2519079-1",
@@ -152141,7 +152141,7 @@
         "company_name": "DV Trading",
         "id": "3a6af9b4-f4c1-4c34-bd2e-b954aa8b65be",
         "title": "Trading Operations Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1767897777,
         "date_posted": 1767897777,
         "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4608245005",
@@ -166788,7 +166788,7 @@
         "company_name": "United Parcel Service (UPS)",
         "id": "332db657-cd7f-4323-a83b-1ad8ad83cf1c",
         "title": "Bus Systems Analysis Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1768894645,
         "date_posted": 1768894645,
         "url": "https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/IN---TDC-1-IN110/Bus-Systems-Analysis-Associate_R25043013",
@@ -225008,7 +225008,7 @@
         "company_name": "Sainsbury's",
         "id": "2d4fddbd-8b80-464c-952a-98f55f1e5c29",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1771916989,
         "date_posted": 1771916989,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050843",
@@ -227367,7 +227367,7 @@
         "company_name": "General Motors",
         "id": "9625e78d-5698-46ee-b54e-749e328b0095",
         "title": "Software Engineer \u2013 Early Career",
-        "active": true,
+        "active": false,
         "date_updated": 1771987738,
         "date_posted": 1771987738,
         "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Mountain-View-California-United-States-of-America/Software-Engineer---Early-Career_JR-202517310",
@@ -228747,7 +228747,7 @@
         "company_name": "Sainsbury's",
         "id": "4a48e8a1-3e5b-4df2-a468-1c84ffcdf5eb",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1772061108,
         "date_posted": 1772061108,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050959",
@@ -231198,7 +231198,7 @@
         "company_name": "Sainsbury's",
         "id": "e1cfd3ac-d2c5-42ab-a2e9-f0dc0a896c60",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1772147505,
         "date_posted": 1772147505,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051178",
@@ -232076,6 +232076,110 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Walmart",
+        "id": "dc9d2040-9097-4d17-a02f-04f7682f31b5",
+        "title": "Staff Data Scientist",
+        "active": true,
+        "date_updated": 1772150959,
+        "date_posted": 1772150959,
+        "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-Sams-Home-Office-AR-Bentonville-Home-Office/Staff--Data-Scientist_R-2412294",
+        "locations": [
+            "Bentonville, AR"
+        ],
+        "company_url": "https://simplify.jobs/c/Walmart",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northrop Grumman",
+        "id": "7a7ee954-600a-488c-a8ae-ecb2ff376e78",
+        "title": "2026 Associate Engineer Survivability/Engineer Survivability",
+        "active": true,
+        "date_updated": 1772150852,
+        "date_posted": 1772150852,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2026-Associate-Engineer-Survivability-Engineer-Survivability_R10224219",
+        "locations": [
+            "Melbourne, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Walmart",
+        "id": "2c23975d-f026-4840-889c-12204bba1c2b",
+        "title": "Senior Software Engineer",
+        "active": true,
+        "date_updated": 1772150993,
+        "date_posted": 1772150993,
+        "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-Crossman-Respect-Building-CA-SUNNYVALE-Home-Office/Senior-Software-Engineer_R-2416058",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Walmart",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Amgen",
+        "id": "19fa2874-df58-4122-8259-50d0cc58726c",
+        "title": "Associate Manufacturing Systems Engineer",
+        "active": true,
+        "date_updated": 1772150574,
+        "date_posted": 1772150574,
+        "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/US---Ohio---New-Albany/Associate-Manufacturing-Systems-Engineer_R-236524",
+        "locations": [
+            "New Albany, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Amgen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "GAP",
+        "id": "8c01378b-5eb5-4819-ab9b-748eadfae1ec",
+        "title": "Product Manager 1",
+        "active": true,
+        "date_updated": 1772150232,
+        "date_posted": 1772150232,
+        "url": "https://gapinc.wd1.myworkdayjobs.com/GAPINC/job/SF---2-Folsom/Product-Manager-I----Loyalty-Experience_R207885",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/GAP",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
