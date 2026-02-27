@@ -230728,7 +230728,7 @@
         "company_name": "IQVIA",
         "id": "b03abb59-ac49-4012-ad4a-22eed444fcaf",
         "title": "Associate Data Scientist - Privacy and De-identification - Associate Data Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1772121150,
         "date_posted": 1772121150,
         "url": "https://iqvia.wd1.myworkdayjobs.com/en-US/IQVIA/job/Ottawa-Ontario-Canada/Scientifique-des-donnes-associ--confidentialit-et-dsidentification---Associate-Data-Scientist--Privacy-and-De-identification_R1523869",
@@ -232919,5 +232919,25 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "MSI",
+        "id": "e7fb3bdf-80d0-4c67-ba87-2cb46301e583",
+        "title": "Catastrophe Modeling Analyst - Msi",
+        "active": true,
+        "date_updated": 1772195234,
+        "date_posted": 1771697063,
+        "url": "https://baldwin.wd1.myworkdayjobs.com/MSI/job/Remote-US/Catastrophe-Modeling-Analyst---MSI_JR109072",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/MSI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
