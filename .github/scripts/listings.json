@@ -114020,7 +114020,7 @@
         "company_name": "Astranis",
         "id": "afd58e1f-48b3-4ec8-9f26-6d6662197729",
         "title": "Software Engineer - Backend - Platform",
-        "active": true,
+        "active": false,
         "date_updated": 1764830986,
         "date_posted": 1764830986,
         "url": "https://job-boards.greenhouse.io/astranis/jobs/4622097006",
@@ -125952,7 +125952,7 @@
         "company_name": "Qualcomm",
         "id": "15285081-a634-4f80-a6b3-e49ec2525305",
         "title": "Software Engineer - Software Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1765815754,
         "date_posted": 1765815754,
         "url": "https://qualcomm.eightfold.ai/careers/job/446715747052",
@@ -191817,7 +191817,7 @@
         "company_name": "Ohio State University",
         "id": "98cdbeb2-bc0e-4691-ae71-d5d3340f3778",
         "title": "Reporting and Analytics Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1770218285,
         "date_posted": 1770218285,
         "url": "https://osu.wd1.myworkdayjobs.com/OSUCareers/job/College-of-MedicineOffice-of-Health-Sciences/Reporting-and-Analytics-Specialist_R141558-1",
@@ -232180,6 +232180,352 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Tech Tammina",
+        "id": "88db4635-94b7-4ec3-8921-3dea328389d0",
+        "title": "Fidessa Developer - Capital Markets",
+        "active": true,
+        "date_updated": 1772158987,
+        "date_posted": 1772158987,
+        "url": "https://jobs.smartrecruiters.com/TecTammina/82182201",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Tech-Tammina",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Zone 5 Technologies",
+        "id": "f32fcb96-f342-42ee-a2cc-87114d8e8c49",
+        "title": "Quality Control Inspector 1",
+        "active": true,
+        "date_updated": 1772158953,
+        "date_posted": 1772158953,
+        "url": "https://job-boards.greenhouse.io/zone5technologies/jobs/5135091008",
+        "locations": [
+            "San Luis Obispo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Zone-5-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Everi",
+        "id": "bc1dd2fc-1a3d-409d-ae27-dda1db08b890",
+        "title": "Game Mathematician 1 - Chicago - IL",
+        "active": true,
+        "date_updated": 1772158616,
+        "date_posted": 1772158616,
+        "url": "https://everi.pinpointhq.com/en/postings/45e1b439-fa12-4142-ac6c-57d72908a08d?ats=pinpointhq",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Everi",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tech Tammina",
+        "id": "d8bbad6c-a257-4ff3-9154-816a89c0f6ac",
+        "title": "Informatica Developer",
+        "active": true,
+        "date_updated": 1772158347,
+        "date_posted": 1772158347,
+        "url": "https://jobs.smartrecruiters.com/TecTammina/82082079",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Tech-Tammina",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Tech Tammina",
+        "id": "d3708ff7-7bdb-4144-9ff1-a511dd47b5a0",
+        "title": "Fidessa Developer - Capital Markets",
+        "active": true,
+        "date_updated": 1772158324,
+        "date_posted": 1772158324,
+        "url": "https://jobs.smartrecruiters.com/TecTammina/81973074",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Tech-Tammina",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Tech Tammina",
+        "id": "d1d9bb9c-e66f-41fc-86b3-7503cd520a88",
+        "title": "Java Python Developer - Sql",
+        "active": true,
+        "date_updated": 1772158345,
+        "date_posted": 1772158345,
+        "url": "https://jobs.smartrecruiters.com/TecTammina/81973581",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Tech-Tammina",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Tech Tammina",
+        "id": "c6fa8e05-9a7d-4d25-a25b-781e48b138b5",
+        "title": "Software Engineer - Inspection - Permanent",
+        "active": true,
+        "date_updated": 1772158271,
+        "date_posted": 1772158271,
+        "url": "https://jobs.smartrecruiters.com/TecTammina/82753733",
+        "locations": [
+            "Rockford, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Tech-Tammina",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tech Tammina",
+        "id": "874614d3-ce78-4942-a9da-a1f90d9e10b6",
+        "title": "SAS Developer/Admin",
+        "active": true,
+        "date_updated": 1772158358,
+        "date_posted": 1772158358,
+        "url": "https://jobs.smartrecruiters.com/TecTammina/81972902",
+        "locations": [
+            "Alhambra, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tech-Tammina",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Tech Tammina",
+        "id": "622e2cf6-145b-4e05-89d8-607fd02e4cbe",
+        "title": "VB.Net Developer",
+        "active": true,
+        "date_updated": 1772158283,
+        "date_posted": 1772158283,
+        "url": "https://jobs.smartrecruiters.com/TecTammina/82346561",
+        "locations": [
+            "Hopkins, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Tech-Tammina",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Tech Tammina",
+        "id": "13d76ccb-b0f1-400a-a139-0306a6bfb405",
+        "title": "NET Developer",
+        "active": true,
+        "date_updated": 1772158329,
+        "date_posted": 1772158329,
+        "url": "https://jobs.smartrecruiters.com/TecTammina/82021920",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Tech-Tammina",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Tech Tammina",
+        "id": "020b0736-6fbf-47aa-bdab-97b241882a6e",
+        "title": "NET Developer",
+        "active": true,
+        "date_updated": 1772158339,
+        "date_posted": 1772158339,
+        "url": "https://jobs.smartrecruiters.com/TecTammina/82082495",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Tech-Tammina",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Software Quality Experts",
+        "id": "ebe0c3a5-934b-43a4-83a8-c05b37b44105",
+        "title": "Entry Level Business Analyst / Data Analyst",
+        "active": true,
+        "date_updated": 1772158185,
+        "date_posted": 1772158185,
+        "url": "https://jobs.smartrecruiters.com/SQexpetsLLC/743999653805861",
+        "locations": [
+            "Dulles, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Software-Quality-Experts",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "3d66fdf7-561e-4780-82dc-ec8b31632e22",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1772158116,
+        "date_posted": 1772158116,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051245",
+        "locations": [
+            "Stratford-upon-Avon, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Software Quality Experts",
+        "id": "2b463314-fbd2-4dd3-913b-300fb1abc4f0",
+        "title": "Business Analyst",
+        "active": true,
+        "date_updated": 1772158195,
+        "date_posted": 1772158195,
+        "url": "https://jobs.smartrecruiters.com/SQexpetsLLC/86846526",
+        "locations": [
+            "Alexandria, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Software-Quality-Experts",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Tech Tammina",
+        "id": "23f8d199-19c1-428a-8fa9-e1432979b772",
+        "title": "Entry Level Service Technician",
+        "active": true,
+        "date_updated": 1772158256,
+        "date_posted": 1772158256,
+        "url": "https://jobs.smartrecruiters.com/TecTammina/83449795",
+        "locations": [
+            "Sacramento, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tech-Tammina",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Spruce InfoTech",
+        "id": "bec5a3dc-fcfd-4927-8d13-b39aaa543016",
+        "title": "BA with Data Quality and Data Integrity",
+        "active": true,
+        "date_updated": 1772157821,
+        "date_posted": 1772157821,
+        "url": "https://jobs.smartrecruiters.com/SpruceInfotechInc/83127207",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Spruce-InfoTech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Spruce InfoTech",
+        "id": "186e6470-46e6-4b9b-aab9-b6bc85809573",
+        "title": "Senior Programmer / Analyst - MicroStrategy Developer",
+        "active": true,
+        "date_updated": 1772157859,
+        "date_posted": 1772157859,
+        "url": "https://jobs.smartrecruiters.com/SpruceInfotechInc/83681180",
+        "locations": [
+            "Harrisburg, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Spruce-InfoTech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
