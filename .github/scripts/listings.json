@@ -232958,5 +232958,23 @@
         "date_posted": 1772204659,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1772204974,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.apple.com/en-us/details/200647702/software-development-engineer-applications",
+        "company_name": "Apple",
+        "title": "Software Development Engineer - Applications",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "category": "Software Engineering",
+        "source": "Saikumarj-03",
+        "id": "89baf815-4d3e-4802-9f04-419da05d463a",
+        "date_posted": 1772204974,
+        "company_url": "",
+        "is_visible": true
     }
 ]
