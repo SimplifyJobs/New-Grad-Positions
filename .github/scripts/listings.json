@@ -21838,7 +21838,7 @@
         "company_name": "Intuit",
         "id": "55a00559-28b9-41bc-b6dc-cda5714e2846",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1760765120,
         "date_posted": 1760765120,
         "url": "https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/87369448720",
@@ -70806,7 +70806,7 @@
         "company_name": "Zip",
         "id": "af48c984-7c8e-49fb-9b63-40f5caf65648",
         "title": "Software Engineer - Identity",
-        "active": true,
+        "active": false,
         "date_updated": 1761850866,
         "date_posted": 1756140978,
         "url": "https://jobs.ashbyhq.com/zip/39eb8bf6-0876-4c14-bd5a-bb5bfe5705d9/application",
@@ -199142,7 +199142,7 @@
         "company_name": "Sainsbury's",
         "id": "80d8e321-82fc-4d02-b275-0c5b5e722cf0",
         "title": "Trading Assistant - Shift",
-        "active": false,
+        "active": true,
         "date_updated": 1770632854,
         "date_posted": 1770632854,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048722",
@@ -232819,5 +232819,67 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Intuit",
+        "id": "e670be82-cf2f-40e5-bdff-fe27daa6213d",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1772189367,
+        "date_posted": 1772189367,
+        "url": "https://jobs.intuit.com/job/mountain-view/senior-product-designer/27595/87369442064",
+        "locations": [
+            "Mountain View, CA",
+            "NYC",
+            "San Diego, CA",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Intuit",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "9d6d1ef2-8466-40d5-8263-febcc1bf7da6",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1772188856,
+        "date_posted": 1772188856,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051215",
+        "locations": [
+            "Portadown, Craigavon, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Brigham Young University - Provo",
+        "id": "bdf46d11-78d8-4704-87b9-1a1d55c1e79c",
+        "title": "Data and Reporting Analyst - Part-time hrs/wk - Local Candidates",
+        "active": true,
+        "date_updated": 1772189829,
+        "date_posted": 1771690984,
+        "url": "https://byu.wd1.myworkdayjobs.com/byu-careers/job/Provo-UT/Data---Reporting-Analyst----Part-time-28-hrs-wk-----LOCAL-CANDIDATES---_JR-8111",
+        "locations": [
+            "Provo, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Brigham-Young-University-Provo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
