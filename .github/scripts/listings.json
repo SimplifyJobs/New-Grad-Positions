@@ -175790,7 +175790,7 @@
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "iSoftStone",
-        "id": "68fa3265-2aef-4620-91de-b9dc986a6293",
+        "id": "4565e67d-2790-4700-a44f-21497935c66a",
         "title": "Data Analyst",
         "active": true,
         "date_updated": 1769469607,
@@ -184822,7 +184822,7 @@
         "company_name": "NXP Semiconductors",
         "id": "49922014-79de-4c9e-9c0d-322ced01de08",
         "title": "Entry Level Product Validation and Characterization Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1769815258,
         "date_posted": 1769815258,
         "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Entry-Level-Product-Validation-and-Characterization-Engineer_R-10060030-1",
@@ -214406,7 +214406,7 @@
         "company_name": "Microsoft",
         "id": "47c48415-17eb-4e93-b401-23c481550ec3",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1771456040,
         "date_posted": 1771456040,
         "url": "https://apply.careers.microsoft.com/careers/job/1970393556754145",
@@ -221552,7 +221552,7 @@
         "company_name": "City of Oklahoma City",
         "id": "ebaf17c9-4cee-4312-9e9b-f7b2d0688a83",
         "title": "Crime Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1771743932,
         "date_posted": 1771743932,
         "url": "https://fa-etyr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/3579",
@@ -235147,6 +235147,65 @@
             "Vancouver, BC, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Nutanix",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Vertiv",
+        "id": "145bbb3d-2796-427a-8786-78e949bfd84a",
+        "title": "ERS-NETA Electrical Testing Technician - El Paso",
+        "active": true,
+        "date_updated": 1772234225,
+        "date_posted": 1772234225,
+        "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20267886",
+        "locations": [
+            "Albuquerque, NM",
+            "El Paso, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Vertiv",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Fanatics",
+        "id": "8b3cbdfb-7b67-4f99-bfae-d33e8f80ac3a",
+        "title": "Trader 1 \u2013 International General Sports Risk",
+        "active": true,
+        "date_updated": 1772271981,
+        "date_posted": 1772147483,
+        "url": "https://fa-exki-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26884",
+        "locations": [
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Fanatics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Altice USA",
+        "id": "e45c6fbb-512a-49aa-b5e0-a1383db2cdea",
+        "title": "Software Development Engineer 2",
+        "active": true,
+        "date_updated": 1772270853,
+        "date_posted": 1764502980,
+        "url": "https://www.optimumcareers.com/job/Bethpage-Software-Development-Engineer-II-NY-11714/1315636500/?ats=successfactors",
+        "locations": [
+            "Plainview, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Altice-USA",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
