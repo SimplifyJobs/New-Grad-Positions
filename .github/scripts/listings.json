@@ -208967,7 +208967,7 @@
         "company_name": "Teledyne",
         "id": "e1e12da6-0697-4ba6-9bae-313ad7f97ffb",
         "title": "Optical Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1771025498,
         "date_posted": 1771025498,
         "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Freeport-PA/Optical-Technician_REQ31600",
@@ -215676,7 +215676,7 @@
         "company_name": "The Boeing Company",
         "id": "b5509517-9392-44f1-b9c5-a76c66ed7e67",
         "title": "Product Data Management Engineer \u2013 Associate or Mid-Level - Config & Data Mgmt/Tech Integ",
-        "active": true,
+        "active": false,
         "date_updated": 1771499761,
         "date_posted": 1771459017,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Renton-WA/Product-Data-Management-Engineer---Config---Data-Mgmt-Tech-Integ--Associate-or-Mid-Level-_JR2026491114-1",
@@ -235326,5 +235326,27 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Booz Allen",
+        "id": "4710caa5-3f92-4e40-9587-fb3f8b30a25c",
+        "title": "Data Scientist",
+        "active": true,
+        "date_updated": 1772278719,
+        "date_posted": 1771889439,
+        "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Data-Scientist_R0234498",
+        "locations": [
+            "Chantilly, VA",
+            "McLean, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Booz-Allen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
