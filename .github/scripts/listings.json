@@ -232461,7 +232461,7 @@
         "company_name": "Tower Research Capital",
         "id": "76338ee1-134d-41bc-9983-f330ff6061f7",
         "title": "Quantitative Researcher",
-        "active": true,
+        "active": false,
         "date_updated": 1772160042,
         "date_posted": 1772160042,
         "url": "https://www.tower-research.com/open-positions/?gh_jid=7659865",
@@ -232795,7 +232795,7 @@
         "company_name": "Northrop Grumman",
         "id": "adcea19e-2ee2-4a4e-bf47-49adee9baeab",
         "title": "Associate Systems Engineer / Systems Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1771977561,
         "date_posted": 1771977561,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2026-Associate-Systems-Engineer---Systems-Engineering---TOP-SECRET-CLEARANCE-REQUIRED---Dulles-VA_R10222819-1",
@@ -235060,7 +235060,7 @@
         "company_name": "Sainsbury's",
         "id": "a85ffbf8-d330-4878-adf8-44b6853dc7e9",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1772244674,
         "date_posted": 1772244674,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051364",
@@ -235282,6 +235282,47 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Tavily",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "The Boeing Company",
+        "id": "115f0882-ed90-4534-84d8-8e36b60ec0c4",
+        "title": "Spacecraft Software Engineer",
+        "active": true,
+        "date_updated": 1772277407,
+        "date_posted": 1772149881,
+        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Spacecraft-Software-Engineer--Associate-or-Mid-Level---Millennium-Space-Systems_JR2026498434-1",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SendBird",
+        "id": "02f33c49-b932-4c3e-bffa-4b56fe65c126",
+        "title": "Forward Deployed Engineer",
+        "active": true,
+        "date_updated": 1772277225,
+        "date_posted": 1763712314,
+        "url": "https://sendbird.com/careers?gh_jid=8051713002",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/SendBird",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
