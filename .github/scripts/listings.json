@@ -57533,7 +57533,7 @@
         "company_name": "Electronic Arts",
         "id": "38c7a686-8605-4d92-8bc0-5f48660cf0bc",
         "title": "Data Scientist Mobile Growth",
-        "active": false,
+        "active": true,
         "date_updated": 1760705438,
         "date_posted": 1760705438,
         "url": "https://jobs.ea.com/en_US/careers/JobDetail/Data-Scientist-Mobile-Growth/209775",
@@ -93459,7 +93459,7 @@
     {
         "date_updated": 1763587113,
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4577504101",
         "company_name": "IMC",
@@ -200804,7 +200804,7 @@
         "company_name": "IDEX",
         "id": "8b115e4f-d29c-47e6-8186-4f49bd625457",
         "title": "Optical Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1770707940,
         "date_posted": 1770707940,
         "url": "https://idexcorp.wd5.myworkdayjobs.com/idex_careers/job/Longmont-Colorado/Optical-Technician_R-08516",
@@ -218520,7 +218520,7 @@
         "company_name": "Banco Bilbao Vizcaya Argentaria",
         "id": "0f881a05-d2ce-487b-ae2a-6737ace68f39",
         "title": "Data & AI Enablement - CIB Risk Unit Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1771584940,
         "date_posted": 1771035695,
         "url": "https://bbva.wd3.myworkdayjobs.com/BBVA/job/LONDON/Data---AI-Enablement---CIB-Risk-Unit-Associate_JR00095049-2",
@@ -221508,7 +221508,7 @@
         "source": "Simplify",
         "category": "Hardware",
         "company_name": "Western Digital",
-        "id": "b08b2184-61d2-4621-b308-d71dd07df91e",
+        "id": "8cc1d5ce-411c-47d5-bf09-2772ba0723f6",
         "title": "Early Career Talent - Software Engineering - Apps",
         "active": true,
         "date_updated": 1771744169,
@@ -222288,7 +222288,7 @@
         "company_name": "Sainsbury's",
         "id": "6239c6dc-74e6-4b83-83a8-1bbc05167198",
         "title": "Trading Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1771859353,
         "date_posted": 1771859353,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050565",
@@ -235211,5 +235211,23 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "4bba4287-158c-464e-bb65-81c2b7e6af85",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1772273268,
+        "date_posted": 1772273268,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051404",
+        "locations": [
+            "Oxford, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
