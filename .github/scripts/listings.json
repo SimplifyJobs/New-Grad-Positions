@@ -97262,7 +97262,7 @@
         "company_name": "L3Harris Technologies",
         "id": "0b854df4-1e8f-47aa-a825-4a11b996820c",
         "title": "Associate \u2013 Software Engineering - Wilmington - MA",
-        "active": false,
+        "active": true,
         "date_updated": 1763711846,
         "date_posted": 1763711846,
         "url": "https://jobs.l3harris.com/job/Wilmington-Associate,-Software-Engineering-(Wilmington,-MA)-MA-01887/1344556300/?ats=successfactors",
@@ -235006,6 +235006,91 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "NVIDIA",
+        "id": "df46c47f-eefd-4c80-ace7-e57db972ffd5",
+        "title": "Software Engineer \u2013 New College Grad 2026 - Robotics - Isaac Lab",
+        "active": true,
+        "date_updated": 1772245314,
+        "date_posted": 1772245314,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Robotics---Isaac-Lab---New-College-Grad-2026_JR2014185",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "NVIDIA",
+        "id": "61afe023-f401-49eb-bc27-12e2c989b397",
+        "title": "Developer Technology Engineer - Central Processing Unit Performance",
+        "active": true,
+        "date_updated": 1772245309,
+        "date_posted": 1772245309,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Engineer--CPU-Performance---New-College-Grad-2026_JR2013804",
+        "locations": [
+            "NYC",
+            "Santa Clara, CA",
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "a85ffbf8-d330-4878-adf8-44b6853dc7e9",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1772244674,
+        "date_posted": 1772244674,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051364",
+        "locations": [
+            "Midlothian, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Microsoft",
+        "id": "2d585044-a7f1-43b1-b16a-47ac631b0132",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1772244661,
+        "date_posted": 1772244661,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556804007",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Microsoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
