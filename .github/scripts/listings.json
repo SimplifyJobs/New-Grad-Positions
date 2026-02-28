@@ -17480,7 +17480,7 @@
         "company_name": "General Motors",
         "id": "947030be-f428-4b1a-9c83-6635b039aa33",
         "title": "Software Engineer \u2013 Early Career - Software Development",
-        "active": false,
+        "active": true,
         "date_updated": 1761884449,
         "date_posted": 1759001310,
         "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Mountain-View-California-United-States-of-America/Software-Engineer---Early-Career_JR-202517310",
@@ -125148,7 +125148,7 @@
         "company_name": "Clerkie",
         "id": "123e8c6b-d651-4788-8e76-3051f3e136d4",
         "title": "Associate Product Manager",
-        "active": true,
+        "active": false,
         "date_updated": 1765754034,
         "date_posted": 1765754034,
         "url": "http://getfiber.ai/careers?gh_jid=5004501007",
@@ -198240,7 +198240,7 @@
         "company_name": "Cleveland Clinic",
         "id": "a76e7fcf-dcd5-404f-9c2e-a06d7287e672",
         "title": "Data Scientist 1 - Cancer Center",
-        "active": false,
+        "active": true,
         "date_updated": 1770422732,
         "date_posted": 1770422732,
         "url": "https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Remote-Location/Data-Scientist-I---Cancer-Center_312181-1",
@@ -227274,7 +227274,7 @@
         "company_name": "General Motors",
         "id": "9625e78d-5698-46ee-b54e-749e328b0095",
         "title": "Software Engineer \u2013 Early Career",
-        "active": true,
+        "active": false,
         "date_updated": 1771987738,
         "date_posted": 1771987738,
         "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Mountain-View-California-United-States-of-America/Software-Engineer---Early-Career_JR-202517310",
@@ -230391,7 +230391,7 @@
         "company_name": "Sainsbury's",
         "id": "d8ab7ebb-8f1f-48a1-bb9f-76aabfd9628c",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1772118612,
         "date_posted": 1772118612,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051138",
@@ -234744,7 +234744,7 @@
         "company_name": "ngrok",
         "id": "cbc70513-9640-4eef-8ceb-8d519473c492",
         "title": "Software Engineer 2/3/Senior - Gateway",
-        "active": true,
+        "active": false,
         "date_updated": 1772236033,
         "date_posted": 1770449430,
         "url": "https://job-boards.greenhouse.io/ngrokinc/jobs/5789584004",
@@ -235091,6 +235091,46 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "The Boeing Company",
+        "id": "1a5b65ca-123d-4172-885d-e421c5797eaf",
+        "title": "Posting Test & Evaluation Instrumentation Engineer - Entry & Associate Level",
+        "active": true,
+        "date_updated": 1772247107,
+        "date_posted": 1772247107,
+        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Posting-Title-Test---Evaluation-Instrumentation-Engineer--Entry---Associate-Level-_JR2026494163-1",
+        "locations": [
+            "Hazelwood, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Bank of Montreal",
+        "id": "b1d56a0d-2da0-4a7a-aa0c-bd2a8ab08f48",
+        "title": "Analyst \u2013 Data Engineer",
+        "active": true,
+        "date_updated": 1772246853,
+        "date_posted": 1772246853,
+        "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Analyst--Data-Engineer_R260006732",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/BMO",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
