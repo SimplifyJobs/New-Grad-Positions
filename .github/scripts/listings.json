@@ -2,25 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Uber",
-        "id": "cadfed96-51aa-405b-adb7-d9c88b068683",
-        "title": "Software Engineer I - Java Foundation",
-        "active": false,
-        "date_updated": 1753448456,
-        "date_posted": 1751499755,
-        "url": "https://www.uber.com/global/en/careers/list/138677/",
-        "locations": [
-            "Seattle, WA",
-            "SF",
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Uber",
-        "is_visible": false,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "State Street",
         "id": "57dfb70d-1413-4a27-998b-28752edc1f53",
         "title": "Software Engineer I",
@@ -6878,25 +6859,6 @@
         "degrees": [
             "PhD"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Pinterest",
-        "id": "47b59370-d74f-4114-888c-5d630133aee1",
-        "title": "Machine Learning Engineer I",
-        "active": false,
-        "date_updated": 1756120872,
-        "date_posted": 1751499351,
-        "url": "https://www.pinterestcareers.com/job-form?gh_jid=6864992",
-        "locations": [
-            "San Francisco, CA",
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Pinterest",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "date_updated": 1755716125,
@@ -155520,7 +155482,7 @@
         "company_name": "RTX",
         "id": "a787ea66-05d2-428b-a305-62602f5620b3",
         "title": "2026 Full-time - Software Engineer II - Onsite - MA",
-        "active": false,
+        "active": true,
         "date_updated": 1768201928,
         "date_posted": 1768201928,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA133-Tewksbury-Ma-Bldg-3-Concord-50-Apple-Hill-Drive-Concord---Building-3-Tewksbury-MA-01876-USA/XMLNAME-2026-Full-time---Software-Engineer-II---Onsite--MA-_01815212",
@@ -172266,7 +172228,7 @@
         "company_name": "GE Vernova",
         "id": "1e6046a0-27cf-4c61-98f3-feba3d298739",
         "title": "Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1769124244,
         "date_posted": 1769124244,
         "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Roanoke-US-VA-3/Software-Engineer_R5030434-2",
@@ -187023,7 +186985,7 @@
         "company_name": "GE Vernova",
         "id": "25150388-eac1-4f00-b502-dbd4d396302c",
         "title": "Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1769999428,
         "date_posted": 1769999428,
         "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Roanoke-US-VA-3/Software-Engineer_R5030434-3",
@@ -188750,7 +188712,7 @@
         "company_name": "RTX",
         "id": "0b526a06-e4b5-422a-bf7d-62ed68d75c89",
         "title": "2026 Modeling Simulation & Analysis Engineer 2 - Tucson (AZ)",
-        "active": false,
+        "active": true,
         "date_updated": 1770075983,
         "date_posted": 1770075983,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-9020--9020-S-Rita-Rd--BLDG-9020/XMLNAME-2026-Modeling-Simulation---Analysis-Engineer-II---Onsite---Tucson--AZ_01815966",
@@ -216878,7 +216840,7 @@
         "company_name": "Scripps",
         "id": "ab7d8386-45a9-403c-819e-015a73b7a8df",
         "title": "Part-Time Studio Tech",
-        "active": false,
+        "active": true,
         "date_updated": 1771545202,
         "date_posted": 1771545202,
         "url": "https://scripps.wd5.myworkdayjobs.com/en-US/Scripps_Careers/job/Denver-CO---KMGHKCDOKSBSKZCO/Part-Time-Studio-Tech--KMGH_JR036119-1",
@@ -234155,5 +234117,643 @@
             "Master's",
             "MBA"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "HCSC",
+        "id": "fbf3d36f-2bab-470b-b21f-a1f849793841",
+        "title": "Associate Developer - Mainframe",
+        "active": true,
+        "date_updated": 1772236280,
+        "date_posted": 1772236280,
+        "url": "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/MT---Helena/Assoc-Developer---Mainframe_R0044668",
+        "locations": [
+            "Helena, MT"
+        ],
+        "company_url": "https://simplify.jobs/c/de9db5fc-93ac-4e2a-873c-61d8a830873c",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Fidelity Investments",
+        "id": "c351b164-1510-4b28-9385-9e9c186f173c",
+        "title": "Investment Data Management - Data Analyst",
+        "active": true,
+        "date_updated": 1772236207,
+        "date_posted": 1772236207,
+        "url": "https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Merrimack-NH/Investment-Data-Management---Data-Analyst_2123946-1",
+        "locations": [
+            "Merrimack, NH"
+        ],
+        "company_url": "https://simplify.jobs/c/Fidelity-Investments",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Extra Space Storage",
+        "id": "905c29b3-fe3a-4148-beaf-6dfd5ab12511",
+        "title": "Product Analyst",
+        "active": true,
+        "date_updated": 1772236277,
+        "date_posted": 1772236277,
+        "url": "https://extraspace.wd5.myworkdayjobs.com/en-US/ESS_External/job/Salt-Lake-City-UT-United-States/Product-Analyst_R-77151",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Extra-Space-Storage",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Vermeer",
+        "id": "5622af66-93bd-4d2e-b287-87e66a865357",
+        "title": "IT Software Engineer",
+        "active": true,
+        "date_updated": 1772236259,
+        "date_posted": 1772236259,
+        "url": "https://vermeer.wd5.myworkdayjobs.com/externalcareersite/job/USA---Remote/IT-Software-Engineer_REQ-20736-2",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Vermeer",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "LexisNexis Risk Solutions",
+        "id": "359ff90c-ecc2-40e1-b4a8-046dd694daf9",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1772236343,
+        "date_posted": 1772236343,
+        "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/UK---London-Bishopsgate/Data-Analyst_R109428",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/LexisNexis-Risk-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Fidelity Investments",
+        "id": "2fa3e76e-7a79-49a3-ada1-56ecc9b868fb",
+        "title": "Associate Software Engineer-Contact Center Platform and Engineering",
+        "active": true,
+        "date_updated": 1772236216,
+        "date_posted": 1772236216,
+        "url": "https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Merrimack-NH/Associate-Software-Engineer--Contact-Center-Platform-and-Engineering_2125270",
+        "locations": [
+            "Merrimack, NH"
+        ],
+        "company_url": "https://simplify.jobs/c/Fidelity-Investments",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "RELX",
+        "id": "490639af-04a7-4b74-8eeb-8ca9bc92e1d9",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1772236035,
+        "date_posted": 1772236035,
+        "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/UK---London-Bishopsgate/Data-Analyst_R109428-1",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/RELX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Coursera",
+        "id": "c10a24ae-e4c3-4a4d-84d2-c3e49cf4fd89",
+        "title": "Software Engineer - I - Mobile( iOS )",
+        "active": true,
+        "date_updated": 1772235816,
+        "date_posted": 1772235816,
+        "url": "https://job-boards.greenhouse.io/coursera/jobs/5787883004",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Coursera",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Aristocrat Leisure",
+        "id": "bf8164d5-a673-4271-8152-1b980fd84279",
+        "title": "Digital Games Coordinator",
+        "active": true,
+        "date_updated": 1772235942,
+        "date_posted": 1772235942,
+        "url": "https://aristocrat.wd3.myworkdayjobs.com/aristocratexternalcareerssite/job/Boston-MA-US/Digital-Games-Coordinator_R0020798",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Aristocrat-Leisure",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Neros Technologies",
+        "id": "62a74e96-7f5b-42b5-82e9-07a3f7e84a25",
+        "title": "FPV Technician",
+        "active": true,
+        "date_updated": 1772235957,
+        "date_posted": 1772235957,
+        "url": "https://job-boards.greenhouse.io/nerostechnologies/jobs/5065761007",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Neros-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Amentum",
+        "id": "4b830373-a5a7-4d7b-a90d-8ee073dae27d",
+        "title": "Configuration and Data Management Specialist",
+        "active": true,
+        "date_updated": 1772235916,
+        "date_posted": 1772235916,
+        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-TX-Houston/Configuration-and-Data-Management-Specialist_R0153108-1",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Amentum",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cisive",
+        "id": "ff79f309-07df-467b-846d-daaeed8c3fd1",
+        "title": "Associate Software Developer-2",
+        "active": true,
+        "date_updated": 1772235314,
+        "date_posted": 1772235314,
+        "url": "https://cisive.wd108.myworkdayjobs.com/Cisive/job/Remote---Maryland/Associate-Software-Developer-2_JR100224",
+        "locations": [
+            "Concord, NH",
+            "California",
+            "Mississippi",
+            "Texas",
+            "Wyoming",
+            "Montana",
+            "Tennessee",
+            "Oklahoma",
+            "Indiana",
+            "West Virginia",
+            "Colorado",
+            "Alabama",
+            "Hawaii",
+            "NYC",
+            "South Dakota",
+            "Florida",
+            "Washington, DC",
+            "South Carolina",
+            "Kentucky",
+            "Vermont",
+            "Arkansas",
+            "Maryland",
+            "Nevada",
+            "North Dakota",
+            "Rhode Island",
+            "Nebraska",
+            "New Mexico",
+            "Waterbury, CT",
+            "Ohio",
+            "Louisiana",
+            "Minnesota",
+            "Wisconsin",
+            "Arizona",
+            "Missouri",
+            "Michigan",
+            "Kansas",
+            "Jackson Township, NJ",
+            "Pennsylvania",
+            "Illinois",
+            "Alaska",
+            "Washington",
+            "Virginia",
+            "Delaware",
+            "Massachusetts",
+            "Utah",
+            "Georgia",
+            "Oregon",
+            "Iowa",
+            "Idaho",
+            "Maine",
+            "North Carolina"
+        ],
+        "company_url": "https://simplify.jobs/c/Cisive",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Bass Pro Shops",
+        "id": "e2755c77-3349-401d-9212-060916683c94",
+        "title": "Developer 1",
+        "active": true,
+        "date_updated": 1772235382,
+        "date_posted": 1772235382,
+        "url": "https://basspro.wd1.myworkdayjobs.com/careers/job/Springfield-MO-Bass-Pro-Shops-Base-Camp/Developer-1_R249187-1",
+        "locations": [
+            "Springfield, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Bass-Pro-Shops",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "DLH",
+        "id": "7b784e6c-ca1e-4c86-8334-aa1485f9a9cc",
+        "title": "Engineering Technician 1 - Job",
+        "active": true,
+        "date_updated": 1772235636,
+        "date_posted": 1772235636,
+        "url": "https://job-boards.greenhouse.io/dlhcorporation/jobs/5064143007",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/fa260802-a03b-4795-8eef-bc8e31bb21b9",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cisive",
+        "id": "749aa1c6-8f4a-430f-9948-6a3f4e1b81af",
+        "title": "Associate Software Developer",
+        "active": true,
+        "date_updated": 1772235315,
+        "date_posted": 1772235315,
+        "url": "https://cisive.wd108.myworkdayjobs.com/Cisive/job/Remote---Maryland/Associate-Software-Developer-1_JR100223",
+        "locations": [
+            "Concord, NH",
+            "California",
+            "Mississippi",
+            "Texas",
+            "Wyoming",
+            "Montana",
+            "Tennessee",
+            "Oklahoma",
+            "Indiana",
+            "West Virginia",
+            "Colorado",
+            "Alabama",
+            "Hawaii",
+            "NYC",
+            "South Dakota",
+            "Florida",
+            "Washington, DC",
+            "South Carolina",
+            "Kentucky",
+            "Vermont",
+            "Arkansas",
+            "Maryland",
+            "Nevada",
+            "North Dakota",
+            "Rhode Island",
+            "Nebraska",
+            "New Mexico",
+            "Waterbury, CT",
+            "Ohio",
+            "Louisiana",
+            "Minnesota",
+            "Wisconsin",
+            "Arizona",
+            "Missouri",
+            "Michigan",
+            "Kansas",
+            "Jackson Township, NJ",
+            "Pennsylvania",
+            "Illinois",
+            "Alaska",
+            "Washington",
+            "Virginia",
+            "Delaware",
+            "Massachusetts",
+            "Utah",
+            "Georgia",
+            "Oregon",
+            "Iowa",
+            "Idaho",
+            "Maine",
+            "North Carolina"
+        ],
+        "company_url": "https://simplify.jobs/c/Cisive",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "EOS IT Solutions",
+        "id": "702563c6-b988-4685-8359-de0415fa035e",
+        "title": "Data Center Repair Technician",
+        "active": true,
+        "date_updated": 1772235099,
+        "date_posted": 1772235099,
+        "url": "https://eosits.com/company/careers/?gh_jid=8442995002",
+        "locations": [
+            "Bend, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/EOS-IT-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TD Bank",
+        "id": "20d7b8ae-aeb5-4dd2-b1e3-5d8eec889938",
+        "title": "Applied Machine Learning Scientist 1",
+        "active": true,
+        "date_updated": 1772234996,
+        "date_posted": 1772234996,
+        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/New-York-New-York/Applied-Machine-Learning-Scientist-I--US-_R_1473950",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/TD-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "EOS IT Solutions",
+        "id": "f629bc82-8cda-4db5-972a-6348e43ea41b",
+        "title": "Fiber Optical Splicing Technician",
+        "active": true,
+        "date_updated": 1772235107,
+        "date_posted": 1772235107,
+        "url": "https://eosits.com/company/careers/?gh_jid=8440496002",
+        "locations": [
+            "New Albany, OH",
+            "Columbus, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/EOS-IT-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "EOS IT Solutions",
+        "id": "ed5f2e1b-db55-4d47-ba3e-099559141180",
+        "title": "Fiber Optical Splicing Technician",
+        "active": true,
+        "date_updated": 1772235104,
+        "date_posted": 1772235104,
+        "url": "https://eosits.com/company/careers/?gh_jid=8440650002",
+        "locations": [
+            "Salt Lake City, UT",
+            "Lehi, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/EOS-IT-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Booz Allen",
+        "id": "587f5bb8-744b-4e9a-8a37-5ca952140827",
+        "title": "Data Scientist - Junior",
+        "active": true,
+        "date_updated": 1772234949,
+        "date_posted": 1772234949,
+        "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Charleston-SC/Data-Scientist--Junior_R0233003",
+        "locations": [
+            "Charleston, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/Booz-Allen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Manulife Financial",
+        "id": "3a6d659b-63b5-4537-896d-726a90934ccb",
+        "title": "Investment Analyst - Agriculture",
+        "active": true,
+        "date_updated": 1772235085,
+        "date_posted": 1772235085,
+        "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Boston-Massachusetts/Investment-Analyst---Private-Equity-Valuations---Financial-Modeling--Agriculture-_JR26010593",
+        "locations": [
+            "Charlotte, NC",
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Manulife-Financial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "MBA"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "True Anomaly",
+        "id": "37c35241-b94c-4ac3-9fde-a175d9096b68",
+        "title": "Software Engineer 1 - Elixir",
+        "active": true,
+        "date_updated": 1772235046,
+        "date_posted": 1772235046,
+        "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5065234007",
+        "locations": [
+            "Long Beach, CA",
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/TrueAnomaly",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Moog ",
+        "id": "d2a9ceff-f53c-4fc5-a28d-c2e15efc9c1d",
+        "title": "Associate Product Engineer",
+        "active": true,
+        "date_updated": 1772234919,
+        "date_posted": 1772234919,
+        "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Associate-Product-Engineer_R-26-16438",
+        "locations": [
+            "Buffalo, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Moog",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TMS",
+        "id": "bda77213-f6f5-4318-9d64-d8aaf2c895e9",
+        "title": "C# / C++ Developer",
+        "active": true,
+        "date_updated": 1772234812,
+        "date_posted": 1772234812,
+        "url": "https://jobs.smartrecruiters.com/TMSLLC/744000111889105",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/TMS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "KLA",
+        "id": "b3b6dd83-9204-4357-bb49-d72a88b17956",
+        "title": "Algorithm Engineer - Image Processing",
+        "active": true,
+        "date_updated": 1772234912,
+        "date_posted": 1772234912,
+        "url": "https://kla.wd1.myworkdayjobs.com/AnnArbor/job/Ann-Arbor-MI/Algorithm-Engineer--Image-Processing-_2634738",
+        "locations": [
+            "Ann Arbor, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/KLA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "NVIDIA",
+        "id": "5ee6df1d-861c-46c6-b0a0-7d12f252f59a",
+        "title": "Architecture Energy Modeling Engineer",
+        "active": true,
+        "date_updated": 1772234751,
+        "date_posted": 1771689071,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Architecture-Energy-Modeling-Engineer---New-College-Grad-2026_JR2011635",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ngrok",
+        "id": "cbc70513-9640-4eef-8ceb-8d519473c492",
+        "title": "Software Engineer 2/3/Senior - Gateway",
+        "active": true,
+        "date_updated": 1772236033,
+        "date_posted": 1770449430,
+        "url": "https://job-boards.greenhouse.io/ngrokinc/jobs/5789584004",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Ngrok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
