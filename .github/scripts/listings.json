@@ -61565,26 +61565,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Advocate Health Care",
-        "id": "1b0496f7-aee2-4632-a453-506f21027846",
-        "title": "Research Fellow - Center for Artificial Intelligence Research",
-        "active": false,
-        "date_updated": 1751596215,
-        "date_posted": 1751596215,
-        "url": "https://aah.wd5.myworkdayjobs.com/External/job/Atrium-Health-Wake-Forest-Baptist---Medical-Center-Blvd-Winston-Salem-NC/Research-Fellow--Center-for-Artificial-Intelligence-Research_R162350-1",
-        "locations": [
-            "Winston-Salem, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Advocate-Health-Care",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Stryker",
         "id": "60ac6e95-7e39-4853-991c-373092576e79",
@@ -207021,7 +207001,7 @@
         "company_name": "NVIDIA",
         "id": "4a8ff2e3-8188-4eb8-ace9-a1f8fca1a45c",
         "title": "Graphics Architect \u2013 New College Grad 2026 - Hardware",
-        "active": false,
+        "active": true,
         "date_updated": 1770949151,
         "date_posted": 1770949151,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Graphics-Architect--Hardware---New-College-Grad-2026_JR2013161",
@@ -208237,7 +208217,7 @@
         "company_name": "Sainsbury's",
         "id": "ab436a8b-017a-4e29-9ee5-7eb6fa687291",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1771024300,
         "date_posted": 1771024300,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400049416",
@@ -221627,7 +221607,7 @@
         "company_name": "Sainsbury's",
         "id": "3c9cf232-728d-4d9c-9345-941d133177bc",
         "title": "Trading Assistant - Local",
-        "active": true,
+        "active": false,
         "date_updated": 1771772929,
         "date_posted": 1771772929,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050590",
@@ -235412,7 +235392,7 @@
         "company_name": "Sainsbury's",
         "id": "17164bc4-66d4-45b5-a07d-c49c42b76284",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1772291445,
         "date_posted": 1772291445,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050977",
