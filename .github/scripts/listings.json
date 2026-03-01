@@ -83134,24 +83134,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Kelsey-Seybold Clinic",
-        "id": "6f55c298-5941-429d-94a7-45c5b0eaa3a2",
-        "title": "Per Diem PET/CT Technologist",
-        "active": false,
-        "date_updated": 1761934457,
-        "date_posted": 1751644879,
-        "url": "https://fa-evfp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/8979",
-        "locations": [
-            "Houston, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Kelsey-Seybold-Clinic",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Amentum",
         "id": "c1ac8aae-b979-4c9e-b9c4-f5ea39e07b91",
