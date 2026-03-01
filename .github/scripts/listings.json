@@ -17463,7 +17463,7 @@
         "company_name": "General Motors",
         "id": "947030be-f428-4b1a-9c83-6635b039aa33",
         "title": "Software Engineer \u2013 Early Career - Software Development",
-        "active": false,
+        "active": true,
         "date_updated": 1761884449,
         "date_posted": 1759001310,
         "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Mountain-View-California-United-States-of-America/Software-Engineer---Early-Career_JR-202517310",
@@ -227200,7 +227200,7 @@
         "company_name": "General Motors",
         "id": "9625e78d-5698-46ee-b54e-749e328b0095",
         "title": "Software Engineer \u2013 Early Career",
-        "active": true,
+        "active": false,
         "date_updated": 1771987738,
         "date_posted": 1771987738,
         "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Mountain-View-California-United-States-of-America/Software-Engineer---Early-Career_JR-202517310",
@@ -235602,5 +235602,25 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Cushman & Wakefield",
+        "id": "e62f8e83-407d-4a3d-9ca4-da3dc09423ae",
+        "title": "Analytics Analyst",
+        "active": true,
+        "date_updated": 1772351112,
+        "date_posted": 1772351112,
+        "url": "https://cw.wd1.myworkdayjobs.com/external/job/Remote-CW-Site---USA---Flexible-United-States/Analytics-Analyst_R307482",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cushman-And-Wakefield",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
