@@ -8278,30 +8278,6 @@
         "degrees": []
     },
     {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Berkshire Hathaway Energy",
-        "id": "3424ee82-76b1-4d00-8274-4ebca84ba369",
-        "title": "Software Engineer 1 - Corporate Applications",
-        "active": false,
-        "date_updated": 1756196797,
-        "date_posted": 1751621106,
-        "url": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/10002320",
-        "locations": [
-            "Salt Lake City, UT",
-            "Las Vegas, NV",
-            "Des Moines, IA",
-            "Reno, NV",
-            "Portland, OR"
-        ],
-        "company_url": "https://simplify.jobs/c/Berkshire-Hathaway-Energy",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "date_updated": 1762271905,
         "sponsorship": "Offers Sponsorship",
         "active": false,
@@ -164554,7 +164530,7 @@
         "company_name": "JP Morgan Chase",
         "id": "0a72bd0b-70aa-4714-85af-b2ccc04da4e1",
         "title": "Senior Product Associate - Connected Commerce - Wallets and Lending",
-        "active": true,
+        "active": false,
         "date_updated": 1768605396,
         "date_posted": 1768605396,
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210698430",
@@ -235281,7 +235257,7 @@
         "company_name": "Sainsbury's",
         "id": "a479e483-2a42-485a-8566-d331ce41ef7f",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1772291455,
         "date_posted": 1772291455,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051447",
