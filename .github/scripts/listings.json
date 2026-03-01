@@ -144319,7 +144319,7 @@
         "company_name": "Prysmian Cables & Systems",
         "id": "30dd5dbc-1240-4c11-965b-134eb0282e8e",
         "title": "Jointing Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1767236831,
         "date_posted": 1767236831,
         "url": "https://prysmiangroup.wd3.myworkdayjobs.com/careers/job/Bishopstoke/Jointing-Technician_R-27496",
@@ -235510,5 +235510,151 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "fac4bdb6-96b3-4745-a771-2b0e31ddc218",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1772406845,
+        "date_posted": 1772406845,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051557",
+        "locations": [
+            "Edinburgh, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "aa2f1d88-1f91-4398-aa81-07d4e473a78d",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1772406873,
+        "date_posted": 1772406873,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051542",
+        "locations": [
+            "Bath, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "524f7cf5-ea03-4a38-9ea3-fd474540809e",
+        "title": "Trading Assistant - Local",
+        "active": true,
+        "date_updated": 1772406852,
+        "date_posted": 1772406852,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051541",
+        "locations": [
+            "Tunbridge Wells, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Silfab Solar",
+        "id": "a3bdc5bf-2579-46c9-84e8-c4759ebbb8ae",
+        "title": "Research Engineer 1",
+        "active": true,
+        "date_updated": 1772406391,
+        "date_posted": 1772406391,
+        "url": "https://jobs.smartrecruiters.com/SilfabSolar/744000112047797",
+        "locations": [
+            "Burlington, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Silfab-Solar",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "a3820d91-19bb-4327-bdb8-be0ca27d6d26",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1772406597,
+        "date_posted": 1772406597,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051539",
+        "locations": [
+            "Bath, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "628daf94-feb8-4590-8c5a-94a153ea86f1",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1772406594,
+        "date_posted": 1772406594,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051558",
+        "locations": [
+            "Cardiff, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "4deb6433-f87d-427d-ac5f-22f84c763330",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1772406596,
+        "date_posted": 1772406596,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051551",
+        "locations": [
+            "Essex, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "3c3cdb56-51e6-4ffa-a3a6-f27938000a8c",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1772406589,
+        "date_posted": 1772406589,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051545",
+        "locations": [
+            "Bath, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
