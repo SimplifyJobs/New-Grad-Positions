@@ -2,41 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Jerry",
-        "id": "d917bfb2-84eb-4958-bdc2-7d0979453c59",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1751648266,
-        "date_posted": 1751648266,
-        "url": "https://jobs.ashbyhq.com/Jerry/f1e9dc65-6977-42ec-a5aa-03f877c6824e/application",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Jerry",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Jerry",
-        "id": "e9c4d599-d468-4bef-8726-acab5b9e47cf",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1751648094,
-        "date_posted": 1751648094,
-        "url": "https://jobs.ashbyhq.com/Jerry/4e481c63-5a45-4981-8e4e-11f48a422748/application",
-        "locations": [
-            "Toronto, ON, Canada",
-            "Greater Toronto Area, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Jerry",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Sigma Computing",
         "id": "9f6380b7-4668-49fb-9b83-4e51e0815a76",
         "title": "Software Engineer \u2013 New Grad Program",
@@ -83110,24 +83075,6 @@
             "Oklahoma City, OK"
         ],
         "company_url": "https://simplify.jobs/c/INTEGRIS-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "University of Maine System",
-        "id": "78e60294-3d85-49be-bde4-ea9004a364ae",
-        "title": "Assistant Professor of Computing and Information Science - Machine Learning",
-        "active": true,
-        "date_updated": 1751647110,
-        "date_posted": 1751647110,
-        "url": "https://fa-ewca-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/725",
-        "locations": [
-            "Bangor, ME"
-        ],
-        "company_url": "https://simplify.jobs/c/University-Of-Maine-System",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -233792,7 +233739,7 @@
         "company_name": "NextEra Energy",
         "id": "c32b8eb8-f511-4bd0-a55f-006931d296c6",
         "title": "Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1772233906,
         "date_posted": 1772233906,
         "url": "https://jobs.nexteraenergy.com/job/West-Palm-Beach-N-Engineer-I-FL-33407/1368863700/?ats=successfactors",
