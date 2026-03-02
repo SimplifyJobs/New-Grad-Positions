@@ -216447,7 +216447,7 @@
         "company_name": "Sainsbury's",
         "id": "cf8a89e2-51a2-4b51-8ae1-ac79016c093e",
         "title": "Delivery Lead - Instore - 10m FTC",
-        "active": true,
+        "active": false,
         "date_updated": 1771542642,
         "date_posted": 1771542642,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050257",
@@ -221785,7 +221785,7 @@
         "company_name": "Iowa State University",
         "id": "a21e7d76-989c-4997-93c7-c691ef88e5fe",
         "title": "Workday Integration Software Developer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1771830124,
         "date_posted": 1771830124,
         "url": "https://isu.wd1.myworkdayjobs.com/IowaStateJobs/job/Ames-IA/Workday-Integration-Software-Developer-I_R18675",
@@ -235516,7 +235516,7 @@
         "company_name": "Sainsbury's",
         "id": "524f7cf5-ea03-4a38-9ea3-fd474540809e",
         "title": "Trading Assistant - Local",
-        "active": true,
+        "active": false,
         "date_updated": 1772406852,
         "date_posted": 1772406852,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051541",
@@ -235827,6 +235827,26 @@
             "Reston, VA"
         ],
         "company_url": "https://simplify.jobs/c/Comstock-Companies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Scientific Research Corporation",
+        "id": "818b9dcf-ef5a-4efe-8bc4-a1a0523013bc",
+        "title": "Software Developer - Entry",
+        "active": true,
+        "date_updated": 1772443162,
+        "date_posted": 1769613051,
+        "url": "https://careers-scires.icims.com/jobs/10791/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "North Charleston, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/Scientific-Research-Corporation",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
