@@ -83045,24 +83045,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "INTEGRIS Health",
-        "id": "2af2b82d-7ff9-485c-afa3-f14b29af80b8",
-        "title": "Epic Applications Analyst 2",
-        "active": false,
-        "date_updated": 1762916104,
-        "date_posted": 1751697339,
-        "url": "https://ertr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/104640",
-        "locations": [
-            "Oklahoma City, OK"
-        ],
-        "company_url": "https://simplify.jobs/c/INTEGRIS-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Amentum",
         "id": "c1ac8aae-b979-4c9e-b9c4-f5ea39e07b91",
         "title": "Digital Network Exploitation Analyst 1 - 4 - Dnea",
@@ -210101,7 +210083,7 @@
         "company_name": "7-Eleven",
         "id": "9c3b41bd-1205-414f-b166-1be4e9e1de87",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1771284231,
         "date_posted": 1771284231,
         "url": "https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-Irving-TX/Software-Engineer_R26_950",
@@ -235013,7 +234995,7 @@
         "company_name": "Sainsbury's",
         "id": "4bba4287-158c-464e-bb65-81c2b7e6af85",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1772273268,
         "date_posted": 1772273268,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051404",
