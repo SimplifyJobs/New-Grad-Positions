@@ -11529,8 +11529,8 @@
         "company_name": "Symbotic",
         "id": "93aeba4d-f9cc-4ab2-bdf9-18797a9a15d0",
         "title": "New Grad-Hardware Engineer",
-        "active": true,
-        "date_updated": 1762779424,
+        "active": false,
+        "date_updated": 1772431282,
         "date_posted": 1757377925,
         "url": "https://symbotic.wd1.myworkdayjobs.com/en-US/Symbotic/job/USA-Wilmington--MA---HQ/New-Grad--Hardware-Engineer_R5411",
         "locations": [
@@ -15192,8 +15192,8 @@
         "company_name": "Boston Scientific",
         "id": "a1544892-4b8f-476c-9e5a-8cc674c24bc3",
         "title": "Software Development Engineer 1 - Engineering - Development",
-        "active": true,
-        "date_updated": 1761845342,
+        "active": false,
+        "date_updated": 1772431282,
         "date_posted": 1757972597,
         "url": "https://bostonscientific.eightfold.ai/careers/job/563602808591541",
         "locations": [
@@ -24173,8 +24173,8 @@
         "company_name": "D3",
         "id": "c193c408-add9-40a6-868f-c89a718f5272",
         "title": "Backend Engineer \u2013 New Grad",
-        "active": true,
-        "date_updated": 1761876256,
+        "active": false,
+        "date_updated": 1772431282,
         "date_posted": 1761876256,
         "url": "https://d3.com/careers?gh_jid=4915295008",
         "locations": [
@@ -118405,8 +118405,8 @@
         "company_name": "Hudson River Trading",
         "id": "29099208-ccd7-46d8-a388-0c637f8b6c02",
         "title": "Junior Crypto Electronic Trading Support Engineer",
-        "active": true,
-        "date_updated": 1765295710,
+        "active": false,
+        "date_updated": 1772431282,
         "date_posted": 1764642004,
         "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7351141",
         "locations": [
@@ -215470,8 +215470,8 @@
         "company_name": "Axon",
         "id": "5e01b73c-fb23-4866-a4da-8999702383fb",
         "title": "Software Engineer 1",
-        "active": true,
-        "date_updated": 1771498962,
+        "active": false,
+        "date_updated": 1772431282,
         "date_posted": 1771498962,
         "url": "https://job-boards.greenhouse.io/axon/jobs/7620148003",
         "locations": [
@@ -232662,9 +232662,9 @@
         ]
     },
     {
-        "date_updated": 1772204659,
+        "date_updated": 1772431282,
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://ffive.wd5.myworkdayjobs.com/f5jobs/job/Seattle/Software-Development-Engineer-I_RP1036144",
         "company_name": "F5",
