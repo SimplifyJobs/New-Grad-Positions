@@ -174264,7 +174264,7 @@
         "company_name": "Prairie View A&M University",
         "id": "6f66ab1b-433f-4ac9-84c9-28a7d33a0ef5",
         "title": "Postdoctoral Researcher",
-        "active": false,
+        "active": true,
         "date_updated": 1769126467,
         "date_posted": 1769126467,
         "url": "https://tamus.wd1.myworkdayjobs.com/pvamu_external/job/Prairie-View-TX/Postdoctoral-Researcher--PIER---Environmental-Data-Science-and-Artificial-Intelligence-_R-089857-1",
@@ -229986,7 +229986,7 @@
         "company_name": "Airbus",
         "id": "9ab83fd8-ac6c-4bf5-aa46-a4232cf0fb94",
         "title": "Technical Publications Data Assembly and Distribution Specialist",
-        "active": false,
+        "active": true,
         "date_updated": 1772107849,
         "date_posted": 1771699624,
         "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Montreal-Area/diteur-technique-Publicateur---Publications-techniques---Technical-Editor-Publisher---Technical-Publications_JR10376208",
@@ -232552,7 +232552,7 @@
         "company_name": "Brigham Young University - Provo",
         "id": "bdf46d11-78d8-4704-87b9-1a1d55c1e79c",
         "title": "Data and Reporting Analyst - Part-time hrs/wk - Local Candidates",
-        "active": true,
+        "active": false,
         "date_updated": 1772189829,
         "date_posted": 1771690984,
         "url": "https://byu.wd1.myworkdayjobs.com/byu-careers/job/Provo-UT/Data---Reporting-Analyst----Part-time-28-hrs-wk-----LOCAL-CANDIDATES---_JR-8111",
@@ -235961,6 +235961,26 @@
         "sponsorship": "Other",
         "degrees": [
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Anaplan",
+        "id": "895e55c8-1748-43fd-ae12-9aee8d440a76",
+        "title": "Junior Software Engineer - Dev Academy",
+        "active": true,
+        "date_updated": 1772449795,
+        "date_posted": 1772449795,
+        "url": "https://job-boards.greenhouse.io/anaplan/jobs/8395642002",
+        "locations": [
+            "Manchester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Anaplan",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
