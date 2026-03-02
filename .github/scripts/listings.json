@@ -51848,7 +51848,7 @@
         "company_name": "TikTok",
         "id": "775950e7-6a55-4b1e-8404-d552f09b1618",
         "title": "Creative Product Operations Graduate - International Advertising - Creative and Brand Innovation",
-        "active": false,
+        "active": true,
         "date_updated": 1761777059,
         "date_posted": 1761777059,
         "url": "https://lifeattiktok.com/search/7538828742874122504",
@@ -51868,7 +51868,7 @@
         "company_name": "TikTok",
         "id": "d4d1db91-a807-4bf9-a213-9aea65222efc",
         "title": "Graduate Product Manager - Creative and Brand Innovation",
-        "active": false,
+        "active": true,
         "date_updated": 1762923053,
         "date_posted": 1761777061,
         "url": "https://lifeattiktok.com/search/7537489406471604498",
@@ -73410,7 +73410,7 @@
         "company_name": "TikTok",
         "id": "10de16b2-cf3c-496e-997a-8d3b40e778d7",
         "title": "AI Product Manager Graduate - Creative and Brand Innovation - 2026 Start",
-        "active": false,
+        "active": true,
         "date_updated": 1755303675,
         "date_posted": 1755303675,
         "url": "https://lifeattiktok.com/search/7537485209698191623",
@@ -222047,7 +222047,7 @@
         "company_name": "Sainsbury's",
         "id": "70f6e928-3295-43bd-bef4-29eaf018335c",
         "title": "Trading Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1771859340,
         "date_posted": 1771859340,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050704",
@@ -235715,5 +235715,122 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "West Virginia University",
+        "id": "cacebf8d-6e1a-4e96-b8d0-ad4f330addde",
+        "title": "Part-time Adjunct Teaching Positions",
+        "active": true,
+        "date_updated": 1772435670,
+        "date_posted": 1772435670,
+        "url": "https://wvu.taleo.net/careersection/faculty/jobdetail.ftl?job=28955",
+        "locations": [
+            "Morgantown, WV",
+            "Berkeley Springs, WV",
+            "Beckley, WV"
+        ],
+        "company_url": "https://simplify.jobs/c/West-Virginia-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Dexcom",
+        "id": "aa562f8e-57d0-41c3-a2b3-1e187b2f66c1",
+        "title": "Hardware Engineer 1",
+        "active": true,
+        "date_updated": 1772435780,
+        "date_posted": 1772435780,
+        "url": "https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/San-Diego-California/Hardware-Engineer-1_JR116924",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Dexcoma",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Socket",
+        "id": "dcb71779-4117-4c15-955f-cc07635fabe4",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1772435568,
+        "date_posted": 1772435568,
+        "url": "https://jobs.ashbyhq.com/socket/a1be82e9-bbe4-44ad-b05a-c03075e47af1/application",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Socket-Dev",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "96a66671-6f09-43e5-be06-5cfca6dee08a",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1772435393,
+        "date_posted": 1772435393,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051568",
+        "locations": [
+            "Exeter, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Woongjin",
+        "id": "b66650d1-1c43-46e7-834b-634cce4bbe47",
+        "title": "Java Developer - Bilingual - English/Korean",
+        "active": true,
+        "date_updated": 1772435149,
+        "date_posted": 1772435149,
+        "url": "https://jobs.smartrecruiters.com/WJCompany/744000111731720",
+        "locations": [
+            "Savannah, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Woongjin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Comstock Companies",
+        "id": "2e9794b8-dee2-4d95-8bc4-f9598439af43",
+        "title": "AV Technician",
+        "active": true,
+        "date_updated": 1772435132,
+        "date_posted": 1772435132,
+        "url": "https://job-boards.greenhouse.io/comstock/jobs/4016130009",
+        "locations": [
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Comstock-Companies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
