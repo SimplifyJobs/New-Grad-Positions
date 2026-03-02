@@ -235704,7 +235704,7 @@
         "company_name": "Sainsbury's",
         "id": "1537b1de-c743-402a-be47-5a26b9a38b33",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1772417422,
         "date_posted": 1772417422,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051559",
@@ -235982,5 +235982,23 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Jones Lang LaSalle (JLL)",
+        "id": "8c837096-f54e-4598-9627-7f9e45c62d92",
+        "title": "Shift Technician - Data Centre",
+        "active": true,
+        "date_updated": 1772460024,
+        "date_posted": 1772460024,
+        "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/London-GBR/Shift-Technician--Data-Centre_REQ481516",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Jones-Lang-LaSalle",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
