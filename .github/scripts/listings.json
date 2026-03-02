@@ -213811,7 +213811,7 @@
         "company_name": "Western Digital",
         "id": "902de096-e22e-426c-8a55-3c500f140843",
         "title": "Early Career Talent - Metrology Engineer - Optical & Physical,Ph.D. Only",
-        "active": true,
+        "active": false,
         "date_updated": 1771456331,
         "date_posted": 1771456331,
         "url": "https://jobs.smartrecruiters.com/WesternDigital/744000110030945",
@@ -220806,7 +220806,7 @@
         "company_name": "Western Digital",
         "id": "567634ab-4202-406b-a1cf-5c0fcc2936dc",
         "title": "Early Career Talent - Metrology Engineer - Optical & Physical,Ph.D. Only",
-        "active": false,
+        "active": true,
         "date_updated": 1771639679,
         "date_posted": 1771639679,
         "url": "https://jobs.smartrecruiters.com/WesternDigital/744000110493255",
@@ -235534,7 +235534,7 @@
         "company_name": "Silfab Solar",
         "id": "a3bdc5bf-2579-46c9-84e8-c4759ebbb8ae",
         "title": "Research Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1772406391,
         "date_posted": 1772406391,
         "url": "https://jobs.smartrecruiters.com/SilfabSolar/744000112047797",
@@ -235852,5 +235852,95 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "fa320188-62a8-4b8c-ad11-3c6c633718fe",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1772447028,
+        "date_posted": 1772447028,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051553",
+        "locations": [
+            "Stoke-on-Trent, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "f03e5ba5-7265-4ca8-b374-c7755b3dbaae",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1772447025,
+        "date_posted": 1772447025,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051579",
+        "locations": [
+            "Harlow, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "adb84138-61b2-4e09-a34f-9cc3d3cc568e",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1772447022,
+        "date_posted": 1772447022,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051554",
+        "locations": [
+            "Stoke-on-Trent, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "45b06ed2-bdfd-47d7-b617-6eeb52240f58",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1772447038,
+        "date_posted": 1772447038,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051556",
+        "locations": [
+            "Stoke-on-Trent, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "2c3389c0-f1a9-4f34-b505-313032023d57",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1772447025,
+        "date_posted": 1772447025,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051577",
+        "locations": [
+            "Birmingham, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
