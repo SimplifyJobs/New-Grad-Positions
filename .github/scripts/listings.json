@@ -26091,7 +26091,7 @@
         "company_name": "Graphcore",
         "id": "a830a7a4-b450-4201-bfda-2fa9020a48af",
         "title": "2026 Graduate Software Engineer - System Software QA",
-        "active": true,
+        "active": false,
         "date_updated": 1762274138,
         "date_posted": 1762274138,
         "url": "https://job-boards.greenhouse.io/graphcore/jobs/8230262002",
@@ -161647,7 +161647,7 @@
         "company_name": "Sensata",
         "id": "0250792e-76dc-4f61-8eeb-3ba74ddcb509",
         "title": "Graduate Failure Analysis Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1768494589,
         "date_posted": 1768494589,
         "url": "https://sensata.wd1.myworkdayjobs.com/en-US/Sensata-Careers/job/Swindon-United-Kingdom/Graduate-Failure-Analysis-Engineer_IRC96633",
@@ -235590,7 +235590,7 @@
         "company_name": "Sainsbury's",
         "id": "4deb6433-f87d-427d-ac5f-22f84c763330",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1772406596,
         "date_posted": 1772406596,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051551",
@@ -235942,5 +235942,25 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "AECOM",
+        "id": "83b23b25-d169-455c-b4bb-d82672d8712f",
+        "title": "Hydrogeology/ Groundwater Specialist Graduate - Environment - Birmingham",
+        "active": true,
+        "date_updated": 1772447438,
+        "date_posted": 1772447438,
+        "url": "https://jobs.smartrecruiters.com/AECOM2/744000112122232",
+        "locations": [
+            "Birmingham, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/AECOM",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
     }
 ]
