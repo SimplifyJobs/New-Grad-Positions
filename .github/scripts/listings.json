@@ -189886,7 +189886,7 @@
         "company_name": "Ciena",
         "id": "5a70d1cc-933e-4847-81a6-78acf8ff9206",
         "title": "Metro Field Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1770161093,
         "date_posted": 1770161093,
         "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Remote-US/Metro-Field-Tech_R029868",
@@ -236190,5 +236190,103 @@
             "JD",
             "MD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "KBR",
+        "id": "304e334d-99fc-4385-8eaf-7b0818c8852f",
+        "title": "Data Manager",
+        "active": true,
+        "date_updated": 1772466414,
+        "date_posted": 1772466414,
+        "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Huntsville-Alabama/Data-Manager_R2119731",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/KBR",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "mthree",
+        "id": "58294ebc-0e76-4093-bcd9-c7171129309e",
+        "title": "C++ Junior Software Developer",
+        "active": true,
+        "date_updated": 1772465471,
+        "date_posted": 1772465471,
+        "url": "https://mthree.com/careers/job/?gh_jid=4576333006",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Mthree",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "EquipmentShare",
+        "id": "29a0df6d-f5d5-4edb-a9e1-aec94799b522",
+        "title": "Telematics Installer",
+        "active": true,
+        "date_updated": 1772465422,
+        "date_posted": 1772465422,
+        "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=7668499",
+        "locations": [
+            "Tulsa, OK"
+        ],
+        "company_url": "https://simplify.jobs/c/Equipment-Share",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Welocalize",
+        "id": "e37ebdc6-e45d-42e4-b043-9d48c137e1f5",
+        "title": "Search Quality Rater",
+        "active": true,
+        "date_updated": 1772464999,
+        "date_posted": 1772464999,
+        "url": "https://welocalize.wd1.myworkdayjobs.com/welocalize/job/Austin-Texas/Search-Quality-Rater_R0007450",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Welocalize",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Fospha",
+        "id": "5e123e1c-484d-4cf0-baa9-20781de7f452",
+        "title": "GTM Engineer",
+        "active": true,
+        "date_updated": 1772465799,
+        "date_posted": 1769441937,
+        "url": "https://job-boards.greenhouse.io/fosphamarketing/jobs/7556215",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Fospha",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
