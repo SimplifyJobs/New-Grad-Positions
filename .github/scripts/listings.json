@@ -127743,7 +127743,7 @@
         "company_name": "Quantexa",
         "id": "05947923-c830-44f4-a7fa-43ab278c4e0f",
         "title": "Associate Data Scientist",
-        "active": false,
+        "active": true,
         "date_updated": 1765927002,
         "date_posted": 1765927002,
         "url": "https://apply.workable.com/quantexa/j/5AF3D5E524/apply",
@@ -204856,7 +204856,7 @@
         "company_name": "Amazon",
         "id": "40376ce7-1646-4417-9ec8-5b9aa3777f5d",
         "title": "AI Data Associate - French - Artificial General Intelligence",
-        "active": false,
+        "active": true,
         "date_updated": 1770892093,
         "date_posted": 1764778449,
         "url": "https://amazon.jobs/en/jobs/3136504/ai-data-associate-french-artificial-general-intelligence",
@@ -204880,7 +204880,7 @@
         "company_name": "Amazon",
         "id": "8d5ea051-7365-4fc6-afc7-4ce059493592",
         "title": "AI Data Associate - Artificial General Intelligence",
-        "active": false,
+        "active": true,
         "date_updated": 1770892092,
         "date_posted": 1764778454,
         "url": "https://amazon.jobs/en/jobs/3136515/ai-data-associate-french-artificial-general-intelligence",
@@ -213811,7 +213811,7 @@
         "company_name": "Western Digital",
         "id": "902de096-e22e-426c-8a55-3c500f140843",
         "title": "Early Career Talent - Metrology Engineer - Optical & Physical,Ph.D. Only",
-        "active": false,
+        "active": true,
         "date_updated": 1771456331,
         "date_posted": 1771456331,
         "url": "https://jobs.smartrecruiters.com/WesternDigital/744000110030945",
@@ -215737,7 +215737,7 @@
         "company_name": "Latitude",
         "id": "1c4bb906-af35-48ad-b531-aad685bd5feb",
         "title": "Entry Level Database Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1771514115,
         "date_posted": 1771514115,
         "url": "https://jobs.lever.co/latitudeinc/a232712f-241a-435e-a3be-617b6907478a/apply",
@@ -220249,7 +220249,7 @@
         "company_name": "Sainsbury's",
         "id": "7222e735-b7f6-47cb-85d7-33947ab95910",
         "title": "Trading Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1771629091,
         "date_posted": 1771629091,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050430",
@@ -220806,7 +220806,7 @@
         "company_name": "Western Digital",
         "id": "567634ab-4202-406b-a1cf-5c0fcc2936dc",
         "title": "Early Career Talent - Metrology Engineer - Optical & Physical,Ph.D. Only",
-        "active": true,
+        "active": false,
         "date_updated": 1771639679,
         "date_posted": 1771639679,
         "url": "https://jobs.smartrecruiters.com/WesternDigital/744000110493255",
@@ -220924,7 +220924,7 @@
         "company_name": "Sainsbury's",
         "id": "6cb14239-3a9d-495c-b4ab-0673e21563fa",
         "title": "Trading Assistant - Shift",
-        "active": false,
+        "active": true,
         "date_updated": 1771686969,
         "date_posted": 1771686969,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050534",
@@ -236000,5 +236000,195 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Nevados",
+        "id": "5ea5e685-028c-4a4c-a2c8-c58a4ab259f3",
+        "title": "Solar Project Technician",
+        "active": true,
+        "date_updated": 1772464659,
+        "date_posted": 1772464659,
+        "url": "https://jobs.lever.co/nevados/0bed0ff9-c396-4db6-aa33-1d66b1896eed/apply",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Nevados",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Cummins",
+        "id": "1a5fd15a-e09d-4c3c-bf4b-1be250f7018b",
+        "title": "Electronic Systems Engineer - Hardware",
+        "active": true,
+        "date_updated": 1772464603,
+        "date_posted": 1772464603,
+        "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2424799",
+        "locations": [
+            "Columbus, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Cummins",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "d9d16038-ca86-4990-ba05-addfd4ec4439",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1772464259,
+        "date_posted": 1772464259,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051645",
+        "locations": [
+            "Glasgow, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "b5c39e29-f3ee-4170-b979-8420a44d5f5e",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1772464264,
+        "date_posted": 1772464264,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051659",
+        "locations": [
+            "Letchworth Garden City, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "a7029101-43de-4cda-9fec-79fcb9f4ea26",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1772464264,
+        "date_posted": 1772464264,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051588",
+        "locations": [
+            "Essex, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "92b9f3a0-ad3c-4819-88ab-547c3a548b4e",
+        "title": "Trading Assistant - Local",
+        "active": true,
+        "date_updated": 1772464266,
+        "date_posted": 1772464266,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051658",
+        "locations": [
+            "Durham, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "6132fe08-6d55-4cea-8039-561d815efea8",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1772464293,
+        "date_posted": 1772464293,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051620",
+        "locations": [
+            "Manchester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "5dcd658f-2e4d-4092-8951-364b0e5abc34",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1772464259,
+        "date_posted": 1772464259,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051612",
+        "locations": [
+            "Warwick, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "5546efef-4437-45b1-9c87-e989643440d4",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1772464285,
+        "date_posted": 1772464285,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051608",
+        "locations": [
+            "United Kingdom"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Visa",
+        "id": "24fc33dd-8d4f-4eda-9a69-ca48a5bbb598",
+        "title": "Data Scientist",
+        "active": true,
+        "date_updated": 1772464106,
+        "date_posted": 1772464106,
+        "url": "https://jobs.smartrecruiters.com/Visa/744000112182958",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "PhD",
+            "JD",
+            "MD"
+        ]
     }
 ]
