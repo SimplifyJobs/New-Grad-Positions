@@ -144580,7 +144580,7 @@
         "company_name": "The Boeing Company",
         "id": "df7c363f-4692-46f8-876d-a3dd8917fe9f",
         "title": "Systems Engineer - Entry Level",
-        "active": true,
+        "active": false,
         "date_updated": 1767397165,
         "date_posted": 1767397165,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Systems-Engineer--Entry-level--Associate-or-Experienced-Level-_JR2025464067-1",
@@ -217516,7 +217516,7 @@
         "company_name": "City and County of San Francisco",
         "id": "3bd1e99f-97ba-49bc-8790-a377c0b0e6ca",
         "title": "Fellows Program - Analyst Trainee",
-        "active": true,
+        "active": false,
         "date_updated": 1771572150,
         "date_posted": 1771572150,
         "url": "https://jobs.smartrecruiters.com/CityAndCountyOfSanFrancisco1/3743990011383885",
@@ -236288,5 +236288,26 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Bank of Montreal",
+        "id": "f87afa85-2004-41a4-b51e-1eefe2c6a6d3",
+        "title": "Analyst \u2013 Software Engineer - C#",
+        "active": true,
+        "date_updated": 1772466845,
+        "date_posted": 1772466845,
+        "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Analyst--Software-Engineer--C--_R260006682",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/BMO",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
