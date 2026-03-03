@@ -31899,7 +31899,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "7435410d-d3de-4fa6-ac13-6f490f754a17",
         "title": "Sports Trader",
-        "active": false,
+        "active": true,
         "date_updated": 1762991967,
         "date_posted": 1762991967,
         "url": "https://careers-sig.icims.com/jobs/8860/job?mobile=true&needsRedirect=false",
@@ -57205,7 +57205,7 @@
         "company_name": "W.W. Grainger",
         "id": "3a1edf1a-187b-4bf7-b4b2-c30e2631ddc8",
         "title": "Safety Equipment Service Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1761865271,
         "date_posted": 1760741528,
         "url": "https://jobs.grainger.com/Canada/job/EDMONTON-Safety-Equipment-Service-Technician-AB-T6E-6W4/1335687500/?ats=successfactors",
@@ -233836,7 +233836,7 @@
         "company_name": "Gulfstream",
         "id": "1ada42df-efc6-4e8c-856e-1849c89ba6ad",
         "title": "Business Intelligence Analyst 1",
-        "active": true,
+        "active": false,
         "date_updated": 1772233792,
         "date_posted": 1772233792,
         "url": "https://careers.gulfstream.com/job/Savannah-Business-Intelligence-Analyst-I-GA-31401/1368889100/?ats=successfactors",
@@ -235783,7 +235783,7 @@
         "company_name": "Sainsbury's",
         "id": "96a66671-6f09-43e5-be06-5cfca6dee08a",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1772435393,
         "date_posted": 1772435393,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051568",
@@ -237918,7 +237918,7 @@
         "company_name": "Sainsbury's",
         "id": "e80028f7-127c-490c-b11e-4179bc33e00d",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1772503795,
         "date_posted": 1772503795,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051253",
@@ -238252,6 +238252,52 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Google",
+        "id": "51e72308-b3d1-4bf6-9944-346d046b98c6",
+        "title": "Product Manager 1 - Ads",
+        "active": true,
+        "date_updated": 1772530336,
+        "date_posted": 1769642005,
+        "url": "https://www.google.com/about/careers/applications/jobs/results/120120494773936838",
+        "locations": [
+            "Mountain View, CA",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Google",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Google",
+        "id": "18a890c1-4548-4bd2-ad55-f7e977fa0b2e",
+        "title": "Software Engineer 3 - Infrastructure - Google Cloud Networking",
+        "active": true,
+        "date_updated": 1772530370,
+        "date_posted": 1765436869,
+        "url": "https://www.google.com/about/careers/applications/jobs/results/115140583005004486",
+        "locations": [
+            "Sunnyvale, CA",
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Google",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     }
 ]
