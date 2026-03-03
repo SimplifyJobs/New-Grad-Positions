@@ -237756,5 +237756,23 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Absurd",
+        "id": "833e196c-4b71-4fcb-8f56-00d0ea48c01a",
+        "title": "Founding Engineer",
+        "active": true,
+        "date_updated": 1772495780,
+        "date_posted": 1772495780,
+        "url": "https://simplify.jobs/p/833e196c-4b71-4fcb-8f56-00d0ea48c01a/Founding-Engineer",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Absurd",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
