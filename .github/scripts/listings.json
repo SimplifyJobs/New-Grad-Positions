@@ -111715,7 +111715,7 @@
         "company_name": "Samsung",
         "id": "8c9636c1-8871-4600-85ef-19b26b8d3e06",
         "title": "R&D Product Development Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1764730531,
         "date_posted": 1764730531,
         "url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/19-Chapin-Road-Pine-Brook-NJ-USA/R-D-Product-Development-Engineer_R111419-1",
@@ -147417,7 +147417,7 @@
         "company_name": "Allstate Insurance Company",
         "id": "93d93761-8cf0-47fb-90bc-44e3da3b80ce",
         "title": "ATS Technology Development Program",
-        "active": false,
+        "active": true,
         "date_updated": 1767657084,
         "date_posted": 1767657084,
         "url": "https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/USA---CA-Remote/XMLNAME-2026-ATS-Technology-Development-Program_R22128-1",
@@ -172524,7 +172524,7 @@
         "company_name": "Tradeweb",
         "id": "218315ba-b144-463c-94ba-4566bf71a5b7",
         "title": "Product Implementation",
-        "active": true,
+        "active": false,
         "date_updated": 1769164157,
         "date_posted": 1769164157,
         "url": "https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301593",
@@ -185679,7 +185679,7 @@
         "company_name": "Mizzen+Main",
         "id": "d62cb501-c041-4ca1-aa57-6d2e40e1dcee",
         "title": "Assistant Merchandiser",
-        "active": true,
+        "active": false,
         "date_updated": 1769816099,
         "date_posted": 1769556839,
         "url": "https://job-boards.greenhouse.io/mizzenandmain/jobs/4648465006",
@@ -191521,7 +191521,7 @@
         "company_name": "Fortive",
         "id": "8d0d352c-f1c2-4f2c-a857-628a59bd3537",
         "title": "Electronics Calibration and Repair Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1770218120,
         "date_posted": 1770218120,
         "url": "https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8861",
@@ -192503,7 +192503,7 @@
         "company_name": "Maven Securities",
         "id": "d4bc7cda-3670-45c6-92f5-c5007b343dbb",
         "title": "Quantitative Trading Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1770246954,
         "date_posted": 1770131567,
         "url": "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/7582506",
@@ -210163,7 +210163,7 @@
         "company_name": "American Express",
         "id": "c31d8045-9344-40f4-b0a0-8677d1ee788d",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1771283733,
         "date_posted": 1771283733,
         "url": "https://aexp.eightfold.ai/careers/job/40094645",
@@ -220249,7 +220249,7 @@
         "company_name": "Sainsbury's",
         "id": "7222e735-b7f6-47cb-85d7-33947ab95910",
         "title": "Trading Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1771629091,
         "date_posted": 1771629091,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050430",
@@ -230355,7 +230355,7 @@
         "company_name": "Sainsbury's",
         "id": "1014aaa2-d9f5-4a72-96e7-dad1373725ee",
         "title": "Trading Assistant - Local",
-        "active": false,
+        "active": true,
         "date_updated": 1772118596,
         "date_posted": 1772118596,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050896",
@@ -238496,6 +238496,281 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "EquipmentShare",
+        "id": "23baed5e-9e59-464d-b5cd-496acc21e230",
+        "title": "Telematics Installer",
+        "active": true,
+        "date_updated": 1772551550,
+        "date_posted": 1772551550,
+        "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=7672509",
+        "locations": [
+            "Lewiston, ME"
+        ],
+        "company_url": "https://simplify.jobs/c/Equipment-Share",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Hawk-Eye Innovations",
+        "id": "99be8a5e-87d6-4e45-bf4a-67001a352bfb",
+        "title": "Sports Technology Hardware Technician",
+        "active": true,
+        "date_updated": 1772551151,
+        "date_posted": 1772551151,
+        "url": "https://jobs.ashbyhq.com/hawkeyeinnovations/36fb995c-5849-4753-96c9-048065b714dd/application",
+        "locations": [
+            "Basingstoke, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Hawk-Eye-Innovations",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "United Wholesale Mortgage",
+        "id": "fd6de5cf-44c8-4e23-b04e-b9064c9c495b",
+        "title": "Entry Level Client Experience Analyst",
+        "active": true,
+        "date_updated": 1772550496,
+        "date_posted": 1772550496,
+        "url": "https://careers-uwmcareers.icims.com/jobs/15127/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Pontiac, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/United-Wholesale-Mortgage",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Diebold Nixdorf",
+        "id": "e9bf89cb-3027-4692-813b-1303fcb45f17",
+        "title": "Associate Repair Technician",
+        "active": true,
+        "date_updated": 1772550457,
+        "date_posted": 1772550457,
+        "url": "https://eeug.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/18204",
+        "locations": [
+            "Mississauga, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Diebold-Nixdorf",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "b3a77438-c369-4bb4-8be8-84e71965874b",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1772550517,
+        "date_posted": 1772550517,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051839",
+        "locations": [
+            "Glasgow, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "a407df61-a425-490c-9a65-9171697bbbe4",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1772550518,
+        "date_posted": 1772550518,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051811",
+        "locations": [
+            "Northamptonshire, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Virginia Department of Transportation",
+        "id": "996a2f46-f53e-4775-a78e-e0e80ed7fec1",
+        "title": "Engineering Technician Drill Crew",
+        "active": true,
+        "date_updated": 1772550535,
+        "date_posted": 1772550535,
+        "url": "https://etgi.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4005/job/11857",
+        "locations": [
+            "Petersburg, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Virginia-Department-Of-Transportation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "936f1678-cfe1-472c-b65b-bf635656017e",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1772550518,
+        "date_posted": 1772550518,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051830",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Sherwin-Williams",
+        "id": "8c055751-fb5c-4466-935b-66c35ee92114",
+        "title": "Branch Spray Equipment Lead",
+        "active": true,
+        "date_updated": 1772550575,
+        "date_posted": 1772550575,
+        "url": "https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2605041",
+        "locations": [
+            "Moonachie, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Sherwin-Williams",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "4f36595a-8007-449d-b519-fa5cb31d63e4",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1772550515,
+        "date_posted": 1772550515,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051180",
+        "locations": [
+            "Aylesbury, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "0a938d7d-8ba5-48a7-97c8-730553d2a70d",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1772550521,
+        "date_posted": 1772550521,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051795",
+        "locations": [
+            "Stoke-on-Trent, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "09b85543-3365-4ae2-bc08-6266d202a5b5",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1772550523,
+        "date_posted": 1772550523,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051829",
+        "locations": [
+            "Bolton, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "099f6e54-68ef-49de-965f-71b43eefab3b",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1772550520,
+        "date_posted": 1772550520,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051823",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "08f8ac2d-8d18-42eb-a88d-3472b81ed0e2",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1772550531,
+        "date_posted": 1772550531,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048704",
+        "locations": [
+            "Northamptonshire, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Visa",
+        "id": "e9a85c04-5aec-46d3-b10f-dce36d4c9df3",
+        "title": "Senior SW Engineer",
+        "active": true,
+        "date_updated": 1772550372,
+        "date_posted": 1772550372,
+        "url": "https://jobs.smartrecruiters.com/Visa/744000112409796",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
