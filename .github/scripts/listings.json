@@ -181523,7 +181523,7 @@
         "company_name": "Philips",
         "id": "4f2b020a-4a8a-4c9b-abda-a6552daaedea",
         "title": "Field Engineer Program - Field Service Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1769644950,
         "date_posted": 1769644950,
         "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/St-Louis-Missouri-United-States/Full-Time---Field-Engineer-Program--Field-Service-Engineer---St-Louis--Missouri--July-2026_573793",
@@ -229231,7 +229231,7 @@
         "company_name": "The Boeing Company",
         "id": "77f024d6-4358-410f-bb32-8038623eeb11",
         "title": "Associate Product Lifecycle Management - Plm - Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1772063496,
         "date_posted": 1772063496,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Oklahoma-City-OK/Associate-Product-Lifecycle-Management--PLM--Specialist---Configuration-Management_JR2026492705-1",
@@ -238450,6 +238450,48 @@
             "Boston, MA"
         ],
         "company_url": "https://simplify.jobs/c/Sonos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northrop Grumman",
+        "id": "16632bc0-caa8-4a0a-99af-2268a738cbda",
+        "title": "Energetics MFG Engineer/Princ Energetics MFG Engineer - Level 2 or Level 3",
+        "active": true,
+        "date_updated": 1772542055,
+        "date_posted": 1772286224,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Salt-Lake-City/Energetics-MFG-Engineer-Princ-Energetics-MFG-Engineer---Level-2-or-Level-3_R10222551",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Samsung",
+        "id": "1c0ad14f-24cb-4e5c-a945-81075f751fe2",
+        "title": "AMHS Engineer",
+        "active": true,
+        "date_updated": 1772542469,
+        "date_posted": 1772284068,
+        "url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/AMHS-System-Engineer_R112953-1",
+        "locations": [
+            "Pflugerville, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Samsung",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
