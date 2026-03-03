@@ -192100,7 +192100,7 @@
         "company_name": "Chaucer Group",
         "id": "d31edc59-b731-43ce-a2da-d96dcf02dc02",
         "title": "Associate Snowflake AI Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1770247078,
         "date_posted": 1770247078,
         "url": "https://chaucergroup.wd3.myworkdayjobs.com/chaucer_group_careers/job/London/Associate-Snowflake-AI-Developer_JR101180",
@@ -238232,6 +238232,26 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Persistent Systems",
+        "id": "1d5b2dcc-bdeb-4c37-af87-e5242b837fbb",
+        "title": "Microsoft Power Platform Specialist",
+        "active": true,
+        "date_updated": 1772529977,
+        "date_posted": 1770159999,
+        "url": "https://careers-persistentsystems.icims.com/jobs/2159/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Persistent-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
