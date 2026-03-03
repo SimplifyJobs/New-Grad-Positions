@@ -207235,7 +207235,7 @@
         "company_name": "Housecall Pro",
         "id": "76933348-3f88-4cd5-876c-34d5bfbaafe8",
         "title": "AI-First Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1770979120,
         "date_posted": 1770852970,
         "url": "https://www.housecallpro.com/careers/open-positions/?gh_jid=5800275004",
@@ -215453,7 +215453,7 @@
         "company_name": "The Boeing Company",
         "id": "b5509517-9392-44f1-b9c5-a76c66ed7e67",
         "title": "Product Data Management Engineer \u2013 Associate or Mid-Level - Config & Data Mgmt/Tech Integ",
-        "active": false,
+        "active": true,
         "date_updated": 1771499761,
         "date_posted": 1771459017,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Renton-WA/Product-Data-Management-Engineer---Config---Data-Mgmt-Tech-Integ--Associate-or-Mid-Level-_JR2026491114-1",
@@ -238414,6 +238414,46 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Agilent Technologies",
+        "id": "7ed4118b-233a-401e-9ba4-46c5aa442c1d",
+        "title": "Optics and Data Scientist - Fixed term",
+        "active": true,
+        "date_updated": 1772539001,
+        "date_posted": 1772236725,
+        "url": "https://agilent.wd5.myworkdayjobs.com/Agilent_Careers/job/UK-Harwell/Optics-and-Data-Scientist_4036653",
+        "locations": [
+            "Oxford, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Agilent-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Sonos",
+        "id": "95d55ccf-ffcc-469f-b37c-d62194806765",
+        "title": "Software Development Engineer 1 - Embedded Quality",
+        "active": true,
+        "date_updated": 1772538415,
+        "date_posted": 1771694989,
+        "url": "https://sonos.wd1.myworkdayjobs.com/Sonos/job/Boston-MA/Software-Development-Engineer---Embedded-Quality_R2641",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Sonos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
