@@ -152051,7 +152051,7 @@
         "company_name": "Valmet",
         "id": "eccb0b7e-8a15-4414-a4fa-74438517b119",
         "title": "Field Service Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1767898815,
         "date_posted": 1767898815,
         "url": "https://valmet.wd103.myworkdayjobs.com/external/job/Longview-WA/Field-Service-Engineer_R50887-1",
@@ -203596,7 +203596,7 @@
         "company_name": "Advocate Health Care",
         "id": "fdc12f4d-7cbd-4fd4-9267-8e5e50d15a52",
         "title": "Psychiatric Technician - PHP",
-        "active": false,
+        "active": true,
         "date_updated": 1770854025,
         "date_posted": 1770854025,
         "url": "https://aah.wd5.myworkdayjobs.com/External/job/Atrium-Health-Behavioral-Health-Charlotte---501-Billingsley-Rd-Charlotte-NC/Psychiatric-Technician---Atrium-Health-Charlotte-Behavioral-Health-O-P-Child---Adolescent-Partial-Hospitalization-Program--PHP--FT-Days_R216287",
@@ -214891,7 +214891,7 @@
         "company_name": "Danaher Corporation",
         "id": "efc60c2b-ff2d-48c5-b911-095ee3f1a710",
         "title": "Field Service Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1771458673,
         "date_posted": 1770422774,
         "url": "https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/San-Diego-California-United-States/Field-Service-Engineer---San-Diego_R1302930",
@@ -220249,7 +220249,7 @@
         "company_name": "Sainsbury's",
         "id": "7222e735-b7f6-47cb-85d7-33947ab95910",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1771629091,
         "date_posted": 1771629091,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050430",
@@ -234876,7 +234876,7 @@
         "company_name": "The Boeing Company",
         "id": "1a5b65ca-123d-4172-885d-e421c5797eaf",
         "title": "Posting Test & Evaluation Instrumentation Engineer - Entry & Associate Level",
-        "active": false,
+        "active": true,
         "date_updated": 1772247107,
         "date_posted": 1772247107,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Posting-Title-Test---Evaluation-Instrumentation-Engineer--Entry---Associate-Level-_JR2026494163-1",
@@ -236118,7 +236118,7 @@
         "company_name": "Sainsbury's",
         "id": "6132fe08-6d55-4cea-8039-561d815efea8",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1772464293,
         "date_posted": 1772464293,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051620",
@@ -237461,7 +237461,7 @@
         "company_name": "Maven Securities",
         "id": "3160f4f7-f2cf-46bf-a76e-de0018465d76",
         "title": "Quant Trader - Equity Options",
-        "active": true,
+        "active": false,
         "date_updated": 1772494687,
         "date_posted": 1770939056,
         "url": "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/7588724",
@@ -237487,6 +237487,272 @@
             "San Jose, CA"
         ],
         "company_url": "https://simplify.jobs/c/MuonSpace",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Cushman & Wakefield",
+        "id": "e18ed007-657a-4659-93ba-6d733446c408",
+        "title": "Data Specialist - Contract",
+        "active": true,
+        "date_updated": 1772497058,
+        "date_posted": 1772497058,
+        "url": "https://cw.wd1.myworkdayjobs.com/external/job/CW-Site---CAN---Calgary---250-6th-Avenue-SW/Data-Specialist--Contract-_R303865",
+        "locations": [
+            "Calgary, AB, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Cushman-And-Wakefield",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Jabil",
+        "id": "bb63f0db-1276-4a05-8fa7-8782f5b3e66e",
+        "title": "Test Engineering Technician 1",
+        "active": true,
+        "date_updated": 1772497056,
+        "date_posted": 1772497056,
+        "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Test-Engineering-Technician-I_J2441229",
+        "locations": [
+            "St. Petersburg, FL",
+            "Tampa, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Jabil",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "AssetMark",
+        "id": "55f30beb-6f90-439d-b897-1b09382e7a47",
+        "title": "Associate Data Engineer",
+        "active": true,
+        "date_updated": 1772497083,
+        "date_posted": 1772497083,
+        "url": "https://assetmark.wd5.myworkdayjobs.com/AssetMark_Careers/job/Charlotte-NC/Associate-Data-Engineer_Req-003563",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/AssetMark",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Analytical Mechanics Associates",
+        "id": "9ca425e1-468a-483d-8029-5b54d0cb2b57",
+        "title": "AIML Research Associate",
+        "active": true,
+        "date_updated": 1772496634,
+        "date_posted": 1772496634,
+        "url": "https://amainc.wd12.myworkdayjobs.com/ama_careers/job/Hampton-VA/AIML-Research-Associate_R-100498",
+        "locations": [
+            "Concord, NH",
+            "California",
+            "Hampton, VA",
+            "Mississippi",
+            "Texas",
+            "Wyoming",
+            "Montana",
+            "Tennessee",
+            "Oklahoma",
+            "Indiana",
+            "West Virginia",
+            "Colorado",
+            "Alabama",
+            "Hawaii",
+            "NYC",
+            "South Dakota",
+            "Florida",
+            "Washington, DC",
+            "South Carolina",
+            "Kentucky",
+            "Mountain View, CA",
+            "Vermont",
+            "Arkansas",
+            "Maryland",
+            "Nevada",
+            "North Dakota",
+            "Rhode Island",
+            "Nebraska",
+            "New Mexico",
+            "Waterbury, CT",
+            "Ohio",
+            "Louisiana",
+            "Minnesota",
+            "Arizona",
+            "Missouri",
+            "Michigan",
+            "Kansas",
+            "Jackson Township, NJ",
+            "Pennsylvania",
+            "Illinois",
+            "Alaska",
+            "Washington",
+            "Marcy, NY",
+            "Virginia",
+            "Delaware",
+            "Massachusetts",
+            "Utah",
+            "Georgia",
+            "Oregon",
+            "Iowa",
+            "Idaho",
+            "Maine",
+            "North Carolina"
+        ],
+        "company_url": "https://simplify.jobs/c/Analytical-Mechanics-Associates",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Ultra",
+        "id": "e7ffd398-c466-445b-9d76-f65abc3a18aa",
+        "title": "Graduate Software Engineer",
+        "active": true,
+        "date_updated": 1772496550,
+        "date_posted": 1772496550,
+        "url": "https://ultra.wd3.myworkdayjobs.com/ultra-careers/job/Foundation-Park-Maidenhead-UK/Graduate-Software-Engineer_REQ-11210-2",
+        "locations": [
+            "Maidenhead, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Ultra",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "GAP",
+        "id": "c076e469-e978-48a7-95bd-664c17a1b2e4",
+        "title": "Product Manager 1 - App Wayfinding",
+        "active": true,
+        "date_updated": 1772496579,
+        "date_posted": 1772496579,
+        "url": "https://gapinc.wd1.myworkdayjobs.com/GAPINC/job/SF---2-Folsom/Product-Manager-I---App-Wayfinding_R207923-1",
+        "locations": [
+            "NYC",
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/GAP",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Securian Financial Group",
+        "id": "902ea116-c374-4678-a0e4-e2b6a4542bd3",
+        "title": "Application Engineer-Actuarial Systems",
+        "active": true,
+        "date_updated": 1772496168,
+        "date_posted": 1772496168,
+        "url": "https://hq.wd12.myworkdayjobs.com/Securian_External/job/Saint-Paul-MN-Campus/Application-Engineer--Actuarial-Systems--Hybrid-_R-010461",
+        "locations": [
+            "St Paul, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Securian-Financial-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Micron Technology",
+        "id": "65798e0f-3405-4ac4-9d6d-eb762d9a6915",
+        "title": "New College Grad - Product Development Failure Analysis Engineer",
+        "active": true,
+        "date_updated": 1772496337,
+        "date_posted": 1772496337,
+        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Product-Development-Failure-Analysis-Engineer_JR92550",
+        "locations": [
+            "Boise, ID"
+        ],
+        "company_url": "https://simplify.jobs/c/Micron-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Micron Technology",
+        "id": "157a75f3-1098-4407-a54d-47b18abb7d4a",
+        "title": "New College Grad - Product Development Failure Analysis Engineer",
+        "active": true,
+        "date_updated": 1772496338,
+        "date_posted": 1772496338,
+        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Product-Development-Failure-Analysis-Engineer_JR92548",
+        "locations": [
+            "Boise, ID"
+        ],
+        "company_url": "https://simplify.jobs/c/Micron-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Goodway Group",
+        "id": "28f72ec9-4b1e-4b2d-8267-953886344664",
+        "title": "Data Analyst - Contract",
+        "active": true,
+        "date_updated": 1772496043,
+        "date_posted": 1772496043,
+        "url": "https://job-boards.greenhouse.io/goodwaygroup/jobs/5816929004",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Goodway-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Dave & Busters",
+        "id": "6069e0a2-b465-45f7-b301-0e067107b80e",
+        "title": "Games Support Technician",
+        "active": true,
+        "date_updated": 1772495856,
+        "date_posted": 1772495856,
+        "url": "https://daveandbusters.wd1.myworkdayjobs.com/dave_and_busters_careers/job/Plymouth-Meeting-PA/Games-Support-Technician_R-1010417",
+        "locations": [
+            "Conshohocken, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Dave-And-Busters",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
