@@ -143864,7 +143864,7 @@
         "company_name": "Northrop Grumman",
         "id": "24e6a0fd-67b2-417b-a2de-1a28d44898e5",
         "title": "Associate / Engineer Systems Architect",
-        "active": true,
+        "active": false,
         "date_updated": 1763898775,
         "date_posted": 1763898775,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Associate---Engineer-Systems-Architect_R10213736",
@@ -212800,7 +212800,7 @@
         "company_name": "Scale AI",
         "id": "8e0efa3d-62d2-4638-93d6-b2280c841b96",
         "title": "Medical Fellow - Human Frontier Collective",
-        "active": true,
+        "active": false,
         "date_updated": 1771399153,
         "date_posted": 1760761409,
         "url": "https://job-boards.greenhouse.io/scaleai/jobs/4612329005",
@@ -238007,5 +238007,43 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "KLA",
+        "id": "d2145930-6a58-4c54-ade1-87c4f0d0c97a",
+        "title": "Engineering Technician",
+        "active": true,
+        "date_updated": 1772522392,
+        "date_posted": 1772522392,
+        "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Engineering-Technician_2634724",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/KLA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "537211a9-2809-45e6-9336-17fde42da6d6",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1772521643,
+        "date_posted": 1772521643,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051731",
+        "locations": [
+            "Letchworth Garden City, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
