@@ -128244,7 +128244,7 @@
         "company_name": "Alation",
         "id": "c356b5a0-b62b-44db-b30f-35f8fb0affe1",
         "title": "AI/ML Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1765928491,
         "date_posted": 1765928491,
         "url": "https://alation.wd503.myworkdayjobs.com/ExternalSite/job/USA-CA-REDWOOD-CITY/AI-ML-Engineer_R10000621",
@@ -141519,7 +141519,7 @@
         "company_name": "GHD",
         "id": "f28e5a81-c9eb-4b15-8005-441162c1e769",
         "title": "Graduate Environmental Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1761172617,
         "date_posted": 1761172617,
         "url": "https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/23921",
@@ -167035,7 +167035,7 @@
         "company_name": "KCI Technologies",
         "id": "2ede5b0f-c1be-4395-b84a-7cefcd671fff",
         "title": "Associate Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1768922439,
         "date_posted": 1758139376,
         "url": "https://careers-kci.icims.com/jobs/7401/job?mobile=true&needsRedirect=false",
@@ -167155,7 +167155,7 @@
         "company_name": "Lexington Medical",
         "id": "ceede43b-9158-4613-8a39-4f30dfab6d52",
         "title": "Embedded Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1768923730,
         "date_posted": 1767804355,
         "url": "https://job-boards.greenhouse.io/lexingtonmedical/jobs/5057076008",
@@ -169909,7 +169909,7 @@
         "company_name": "Allegion",
         "id": "6bcb400c-a2b1-4c8e-847a-588ce58c3d8e",
         "title": "Service Technician - Stanley Access Technologies",
-        "active": true,
+        "active": false,
         "date_updated": 1768955910,
         "date_posted": 1768955910,
         "url": "https://allegion.wd5.myworkdayjobs.com/careers/job/Houston-TX/Service-Technician-Stanley-Access-Technologies_JR34905",
@@ -177047,7 +177047,7 @@
         "company_name": "Aramark",
         "id": "8050a9a1-2c2e-46d5-a175-40a8b09c3b7b",
         "title": "Cook",
-        "active": true,
+        "active": false,
         "date_updated": 1769509643,
         "date_posted": 1769509643,
         "url": "https://aramarkcareers.com/UnitedStates/job/Overland-Park-Cook-Shamrock-Trading-Corporation-KS-66212/1356610700/?ats=successfactors",
@@ -183797,7 +183797,7 @@
         "company_name": "Sierra",
         "id": "68f9ab93-7a51-4bc3-acc3-be31a2c1a861",
         "title": "Software Engineer \u2013 New Grad - Infrastructure",
-        "active": false,
+        "active": true,
         "date_updated": 1769757291,
         "date_posted": 1769757291,
         "url": "https://jobs.ashbyhq.com/Sierra/931d7b36-20ce-458c-99aa-6c853486f2b5/application",
@@ -184089,7 +184089,7 @@
         "company_name": "Johnson Controls",
         "id": "5cdbfb7e-d753-449e-8484-0aa0b4990833",
         "title": "Air Handling Unit Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1769771828,
         "date_posted": 1769644343,
         "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/York-Pennsylvania-United-States-of-America/Application-Engineer-II_WD30259010-1",
@@ -201331,7 +201331,7 @@
         "company_name": "Veralto",
         "id": "fe05a820-e1ba-4b88-b52b-682c8615d5cf",
         "title": "Environmental Software Configuration Analyst - Aquatic Informatics",
-        "active": true,
+        "active": false,
         "date_updated": 1770765124,
         "date_posted": 1770765124,
         "url": "https://veralto.wd1.myworkdayjobs.com/hachjobs/job/USA---Remote/Environmental-Software-Configuration-Analyst---Aquatic-Informatics_R10264557",
@@ -215888,7 +215888,7 @@
         "company_name": "IDEMIA",
         "id": "f8533915-cf48-4936-ab7c-92e8dccf94f4",
         "title": "Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1771493097,
         "date_posted": 1770937847,
         "url": "https://uscareers-idemia.icims.com/jobs/8396/job?mobile=true&needsRedirect=false",
@@ -222200,7 +222200,7 @@
         "company_name": "Sainsbury's",
         "id": "5fbc5390-99ba-4c36-a718-b28eaab3c6b0",
         "title": "Trading Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1771756474,
         "date_posted": 1771756474,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050558",
@@ -237801,7 +237801,7 @@
         "company_name": "Esri",
         "id": "36f416e0-2b10-4252-8d38-e0d713b49d77",
         "title": "Product Engineer 1 - Arcgis Enterprise Portal",
-        "active": true,
+        "active": false,
         "date_updated": 1772504745,
         "date_posted": 1772504745,
         "url": "https://www.esri.com/careers/5066715007?gh_jid=5066715007",
@@ -238869,5 +238869,351 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Veolia",
+        "id": "732690a4-570d-4925-b91a-64fe237846f0",
+        "title": "Repr\u00e9sentant - Field Services Representative",
+        "active": true,
+        "date_updated": 1772580264,
+        "date_posted": 1772580264,
+        "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000112508622",
+        "locations": [
+            "Quebec City, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Veolia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Deloitte",
+        "id": "731f9f4d-f98e-4af3-8825-012bc83bbe61",
+        "title": "Deloitte Technology - Associate Applied AI Engineer",
+        "active": true,
+        "date_updated": 1772580399,
+        "date_posted": 1772580399,
+        "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Deloitte-Technology-US-Associate-Applied-AI-Engineer/317680",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Deloitte",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Rain",
+        "id": "5b8631d3-7ead-436c-a588-e44a5f3251f8",
+        "title": "Financial Crimes Risk Data Analyst",
+        "active": true,
+        "date_updated": 1772580402,
+        "date_posted": 1772580402,
+        "url": "https://jobs.ashbyhq.com/rain/c6db1ace-2eb3-46c8-80ab-61ff00ab35a4/application",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Rain",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Intuit",
+        "id": "2fc4885b-77b7-4de0-b93a-f153258e3826",
+        "title": "Software Developer 1",
+        "active": true,
+        "date_updated": 1772580325,
+        "date_posted": 1772580325,
+        "url": "https://jobs.intuit.com/job/toronto/software-developer-1/27595/92352418576",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Intuit",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Schweitzer Engineering Laboratories",
+        "id": "ef094eaa-271d-45f8-a99e-0dfd7646e850",
+        "title": "Associate Hardware Engineer",
+        "active": true,
+        "date_updated": 1772580167,
+        "date_posted": 1772580167,
+        "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Associate-Hardware-Engineer_2025-18351",
+        "locations": [
+            "Moscow, ID"
+        ],
+        "company_url": "https://simplify.jobs/c/SEL",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Qualitest",
+        "id": "d419c79a-c232-4fdd-af26-51cb1284c9e8",
+        "title": "Data Collection Associate",
+        "active": true,
+        "date_updated": 1772580090,
+        "date_posted": 1772580090,
+        "url": "https://careers.qualitestgroup.com/job/Santa-Clara-Data-Collection-Associate-CA-95054/53395844/?ats=successfactors",
+        "locations": [
+            "Kirkland, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Qualitest",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Qualitest",
+        "id": "c6e69357-8396-4f38-b67e-0a25c1b6b6b7",
+        "title": "Technical Data Collection Associate",
+        "active": true,
+        "date_updated": 1772580083,
+        "date_posted": 1772580083,
+        "url": "https://careers.qualitestgroup.com/job/Santa-Clara-Technical-Data-Collection-Associate-CA-95054/53395444/?ats=successfactors",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Qualitest",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "9c72cafe-cbde-44db-b78a-330e07119ce3",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1772579974,
+        "date_posted": 1772579974,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051868",
+        "locations": [
+            "Crawley, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "c77ff1b6-a8d5-47fa-8a34-94df407c38e0",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1772579742,
+        "date_posted": 1772579742,
+        "url": "https://jobs.l3harris.com/job/Anaheim-Associate,-Software-Engineer-CA-92805/1369797800/?ats=successfactors",
+        "locations": [
+            "Anaheim, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Rivian",
+        "id": "e8750057-1ee5-4f18-bd37-485b4d0db170",
+        "title": "Data Analyst 2",
+        "active": true,
+        "date_updated": 1772579512,
+        "date_posted": 1772579512,
+        "url": "https://careers.rivian.com/jobs/29653?lang=en-us&icims=1",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Rivian",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "c5a95607-9698-4537-b0c7-5caa1e377d6d",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1772579464,
+        "date_posted": 1772579464,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051857",
+        "locations": [
+            "York, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Arable",
+        "id": "0ea13f5e-5810-4fb6-b906-1839734d1eab",
+        "title": "Field Technology Specialist - Oklahoma Panhandle",
+        "active": true,
+        "date_updated": 1772579578,
+        "date_posted": 1772579578,
+        "url": "https://jobs.lever.co/arable/924848ba-ea79-4d5f-ab10-0d47315bb9b1/apply",
+        "locations": [
+            "Hugoton, KS"
+        ],
+        "company_url": "https://simplify.jobs/c/Arable",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Persistent Systems",
+        "id": "b9a64755-e11a-49b8-a204-9875caf62864",
+        "title": "Assembly Technician",
+        "active": true,
+        "date_updated": 1772579387,
+        "date_posted": 1772579387,
+        "url": "https://careers-persistentsystems.icims.com/jobs/2187/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Persistent-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ServiceNow",
+        "id": "5ff260b7-1974-4dd5-bfb7-5035c788adf4",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1772579349,
+        "date_posted": 1772579349,
+        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000112492389",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ServiceNow",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Huntington Ingalls Industries",
+        "id": "30987b18-2380-40f5-869a-6162000543cc",
+        "title": "Engineer Metrology 1",
+        "active": true,
+        "date_updated": 1772579442,
+        "date_posted": 1772579442,
+        "url": "https://careers.huntingtoningalls.com/job/Goose-Creek-ENGINEER-METROLOGY-1-Sout/1369713300/?ats=successfactors",
+        "locations": [
+            "Goose Creek, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/Huntington-Ingalls-Industries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Persistent Systems",
+        "id": "e2a651c3-45c3-40f6-9a4c-6c454ad428a5",
+        "title": "Assembly Technician",
+        "active": true,
+        "date_updated": 1772579215,
+        "date_posted": 1772579215,
+        "url": "https://careers-persistentsystems.icims.com/jobs/2186/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Persistent-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Blackhawk Network Holdings",
+        "id": "ac973f7f-0f9c-407f-959f-e97064683164",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1772579048,
+        "date_posted": 1772579048,
+        "url": "https://careers-blackhawknetwork.icims.com/jobs/26246/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Pleasanton, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Blackhawk-Network-Holdings",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Royal Caribbean Group",
+        "id": "ca8f948f-abeb-463e-bc57-6f8023948013",
+        "title": "Senior Analyst - Discovery & Innovations - Product Development",
+        "active": true,
+        "date_updated": 1769857868,
+        "date_posted": 1769857868,
+        "url": "https://jobs.royalcaribbeangroup.com/job/Miami-Senior-Analyst,-Discovery-&-Innovations,-Product-Development-FL-33132/1360721100/?ats=successfactors",
+        "locations": [
+            "Miami, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Royal-Caribbean-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "MBA"
+        ]
     }
 ]
