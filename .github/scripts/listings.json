@@ -104544,7 +104544,7 @@
         "company_name": "Uare.ai",
         "id": "b013d54d-e343-4859-badb-79f7e0e59c09",
         "title": "Software Engineer \u2013 Early Career",
-        "active": false,
+        "active": true,
         "date_updated": 1764198602,
         "date_posted": 1764198602,
         "url": "https://job-boards.greenhouse.io/uareai/jobs/4036519009",
@@ -115379,7 +115379,7 @@
         "company_name": "The Boeing Company",
         "id": "775bb551-6884-453a-af1b-9efc06585963",
         "title": "Linux System Administrator",
-        "active": false,
+        "active": true,
         "date_updated": 1764978180,
         "date_posted": 1764978180,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seal-Beach-CA/Linux-System-Administrator_JR2025487641",
@@ -227509,7 +227509,7 @@
         "company_name": "FourKites",
         "id": "caa7a014-355a-4496-91ec-9c03c2481f90",
         "title": "Forward Deployment Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1772004354,
         "date_posted": 1770807823,
         "url": "https://job-boards.greenhouse.io/fourkites/jobs/7506270",
@@ -238772,5 +238772,102 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Philips",
+        "id": "44fac81c-bf64-44d5-8feb-195aedd18871",
+        "title": "Systems Engineer - Src",
+        "active": true,
+        "date_updated": 1772552984,
+        "date_posted": 1772552984,
+        "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/New-Kensington-Pennsylvania-United-States/Systems-Engineer--SRC_577214-1",
+        "locations": [
+            "Tarentum, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Philips",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Roswell Park Comprehensive Cancer Center",
+        "id": "2b476e1b-cec6-4494-a2ba-7a98966e56ff",
+        "title": "Programmer Analyst",
+        "active": true,
+        "date_updated": 1772553063,
+        "date_posted": 1772553063,
+        "url": "https://roswellpark.wd5.myworkdayjobs.com/ExternalCareers/job/Grace-Cancer-Drug-Cntr-GCDC/Programmer-Analyst_R-20600",
+        "locations": [
+            "Buffalo, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Roswell-Park-Comprehensive-Cancer-Center",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's",
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "BlackRock",
+        "id": "929c4bca-4aec-4160-98ae-d31bafdaeb4d",
+        "title": "Product Manager ETF - Associate",
+        "active": true,
+        "date_updated": 1772552213,
+        "date_posted": 1772552213,
+        "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/London-Greater-London/Product-Manager-ETF--Associate_R261173",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/BlackRock",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "RAPP",
+        "id": "6b9b3035-c7f0-4dd6-adf0-59db6f3c1e25",
+        "title": "Data Analyst-Luxury Automotive",
+        "active": true,
+        "date_updated": 1772552039,
+        "date_posted": 1772552038,
+        "url": "https://job-boards.greenhouse.io/rapp/jobs/7609895",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/RAPP",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Bass Pro Shops",
+        "id": "dcfefa2a-eae2-41a5-a5cd-a08367cdd530",
+        "title": "Rigger FT",
+        "active": true,
+        "date_updated": 1772551811,
+        "date_posted": 1772551811,
+        "url": "https://basspro.wd1.myworkdayjobs.com/careers/job/Ashland-VA/Rigger-FT_R249388-1",
+        "locations": [
+            "Hanover County, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Bass-Pro-Shops",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
