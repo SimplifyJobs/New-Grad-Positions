@@ -225747,7 +225747,7 @@
         "company_name": "City and County of San Francisco",
         "id": "302341bb-3dff-425a-8cf2-3089f8c99aec",
         "title": "Geographic Information Systems - GIS - Analyst-Design & Construction",
-        "active": true,
+        "active": false,
         "date_updated": 1771975409,
         "date_posted": 1771975409,
         "url": "https://jobs.smartrecruiters.com/CityAndCountyOfSanFrancisco1/3743990011828896",
@@ -237774,5 +237774,218 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Idaho Power",
+        "id": "b6d40596-ec5e-45b1-be8f-d2b7841f404b",
+        "title": "ERP Application Development Analyst Or Senior - Entry - Analyst",
+        "active": true,
+        "date_updated": 1772504775,
+        "date_posted": 1772504775,
+        "url": "https://idahopowercompany.wd1.myworkdayjobs.com/external/job/Boise-ID/ERP-Application-Development-Analyst---Entry--Analyst--or-Senior_R0004712-1",
+        "locations": [
+            "Boise, ID"
+        ],
+        "company_url": "https://simplify.jobs/c/Idaho-Power",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Esri",
+        "id": "36f416e0-2b10-4252-8d38-e0d713b49d77",
+        "title": "Product Engineer 1 - Arcgis Enterprise Portal",
+        "active": true,
+        "date_updated": 1772504745,
+        "date_posted": 1772504745,
+        "url": "https://www.esri.com/careers/5066715007?gh_jid=5066715007",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Esri",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "c3001825-71aa-4d98-90d0-9ea8e43ecd9c",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1772504082,
+        "date_posted": 1772504082,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051738",
+        "locations": [
+            "Brighton, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ATPCO",
+        "id": "240805d6-aa34-4d9b-a4c6-c9499543d647",
+        "title": "Data Strategist",
+        "active": true,
+        "date_updated": 1772504475,
+        "date_posted": 1772504475,
+        "url": "https://jobs.smartrecruiters.com/ATPCO1/744000112209457",
+        "locations": [
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/e38ff337-ef4e-42b4-b1fc-e1834b3b603f",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "f0d6f216-3186-4344-b3a7-d0bf5be87e11",
+        "title": "Assoc \u2013 Software Engineering - Camden - NJ",
+        "active": true,
+        "date_updated": 1772504250,
+        "date_posted": 1772504250,
+        "url": "https://jobs.l3harris.com/job/Camden-Assoc,-Software-Engineering-(Camden,-NJ)-NJ-08103/1321349500/?ats=successfactors",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "60245d30-9250-48f9-982c-d650cfb4113c",
+        "title": "Manufacturing Technician B",
+        "active": true,
+        "date_updated": 1772504259,
+        "date_posted": 1772504259,
+        "url": "https://jobs.l3harris.com/job/Cincinnati-Manufacturing-Technician-B-OH-45245/1369433300/?ats=successfactors",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "507861be-ca3a-4132-ba6b-c5f2e1e57952",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1772503818,
+        "date_posted": 1772503818,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051254",
+        "locations": [
+            "Stoke-on-Trent, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "e80028f7-127c-490c-b11e-4179bc33e00d",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1772503795,
+        "date_posted": 1772503795,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051253",
+        "locations": [
+            "Stoke-on-Trent, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Nevada National Security ",
+        "id": "04f4b695-35c1-4fe4-a143-18dbcf358fea",
+        "title": "Data Analyst Assistant - Business Assistant II - Casual",
+        "active": true,
+        "date_updated": 1772503655,
+        "date_posted": 1772503655,
+        "url": "https://ewij.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/11566",
+        "locations": [
+            "North Las Vegas, NV"
+        ],
+        "company_url": "https://simplify.jobs/c/Nevada-National-Security",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "DMC Engineering",
+        "id": "fb40c356-f572-4f7d-800d-dfebf7a8cc7a",
+        "title": "Entry Level Embedded Engineer",
+        "active": true,
+        "date_updated": 1772503354,
+        "date_posted": 1772503354,
+        "url": "https://www.dmcinfo.com/careers/open-positions?gh_jid=5136284008",
+        "locations": [
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/DMC-Engineering",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "DMC Engineering",
+        "id": "8eec9223-bf8a-4e44-b06e-47f3a714105e",
+        "title": "Entry Level Automation Engineer",
+        "active": true,
+        "date_updated": 1772503314,
+        "date_posted": 1772503314,
+        "url": "https://www.dmcinfo.com/careers/open-positions?gh_jid=4993577008",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/DMC-Engineering",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
