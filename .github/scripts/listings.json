@@ -225240,7 +225240,7 @@
         "company_name": "Honeywell",
         "id": "4fa8a264-61f3-4954-aa67-0bf14c5a4cca",
         "title": "Semiconductor Technician Level 1",
-        "active": false,
+        "active": true,
         "date_updated": 1771928801,
         "date_posted": 1771629169,
         "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/139453",
@@ -230936,7 +230936,7 @@
         "company_name": "Sainsbury's",
         "id": "b56c8ab9-334d-4386-990b-bcab2af0344c",
         "title": "Trading Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1772147521,
         "date_posted": 1772147521,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051168",
@@ -238298,6 +238298,122 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "JP Morgan Chase",
+        "id": "245c3b69-5aec-4d0c-99e0-b9acd7ecc4d7",
+        "title": "Digital Markets - Digital Product Manager Efxo - Associate",
+        "active": true,
+        "date_updated": 1772534817,
+        "date_posted": 1772534817,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210719285",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "JP Morgan Chase",
+        "id": "0e6d9fa4-ef28-4df1-8208-37fdfb19f8d1",
+        "title": "Corporate \u2013 Risk Management - Market Risk FRTB - Analytics','Analyst / Associate",
+        "active": true,
+        "date_updated": 1772534810,
+        "date_posted": 1772534810,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210718966",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "64b5a93b-d5e1-448f-b7d3-4107baffe9b9",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1772534658,
+        "date_posted": 1772534658,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051765",
+        "locations": [
+            "Leeds, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "5073984a-1e02-4de0-93c3-24f2fdea0ef4",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1772534660,
+        "date_posted": 1772534660,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051744",
+        "locations": [
+            "Durham, UK",
+            "Thirsk, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "173b2bed-920b-4d05-9297-8665c26aa05f",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1772534657,
+        "date_posted": 1772534657,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051741",
+        "locations": [
+            "Buxton, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Rambus",
+        "id": "6b2e9930-0fd1-4fbf-8a13-a0b32bd4ca4b",
+        "title": "PE Validation Engineer",
+        "active": true,
+        "date_updated": 1772534004,
+        "date_posted": 1769209812,
+        "url": "https://careers-rambus.icims.com/jobs/22476/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "San Jose, CA",
+            "Johns Creek, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Rambus",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
