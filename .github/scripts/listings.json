@@ -131354,7 +131354,7 @@
         "company_name": "Oracle",
         "id": "a662d083-24bd-44fe-a514-d51dfb208549",
         "title": "Senior Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1766110792,
         "date_posted": 1766110792,
         "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/320808",
@@ -140837,7 +140837,7 @@
         "company_name": "KBR",
         "id": "2bf81655-31f0-4733-86a8-c1e4be4a19de",
         "title": "Operations Research Analyst-Foundational",
-        "active": true,
+        "active": false,
         "date_updated": 1763808111,
         "date_posted": 1763808111,
         "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Arlington-Virginia/Operations-Research-Analyst--Foundational_R2111121",
@@ -145971,7 +145971,7 @@
         "company_name": "American Express",
         "id": "26ee324e-ddad-4cdd-bffb-5171227b722f",
         "title": "Senior Associate-Digital Product Management",
-        "active": true,
+        "active": false,
         "date_updated": 1767630347,
         "date_posted": 1767630347,
         "url": "https://aexp.eightfold.ai/careers/job/39272718",
@@ -154441,7 +154441,7 @@
         "company_name": "U.S. Bank",
         "id": "fc0f8624-1fc1-4faa-bb58-162278b78673",
         "title": "PWM Investment Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1768003417,
         "date_posted": 1768003417,
         "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Chicago-IL/PWM-Investment-Analyst_2026-0000501",
@@ -164904,7 +164904,7 @@
         "company_name": "RTX",
         "id": "afe41c38-134e-4b43-bb27-363460b8bf63",
         "title": "Software Engineer 1 - Software Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1768615929,
         "date_posted": 1768615929,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-802--1151-E-Hermans-Rd--BLDG-802/XMLNAME-2026-Full-time---Software-Engineer-I---Onsite--AZ-_01802087",
@@ -179753,7 +179753,7 @@
         "company_name": "Qualcomm",
         "id": "47852dca-ef9c-4d5d-9231-a50fb1ebb7b0",
         "title": "System Level Test Engineer - Hardware Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1769642336,
         "date_posted": 1769642336,
         "url": "https://qualcomm.eightfold.ai/careers/job/446716369150",
@@ -191156,7 +191156,7 @@
         "company_name": "Johnson Controls",
         "id": "8f7534fe-1c41-4a29-8d7a-8078cf4fd5e2",
         "title": "Nextgen Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1770189655,
         "date_posted": 1770189655,
         "url": "https://jci.wd5.myworkdayjobs.com/JCI_Confidential/job/Glendale-Wisconsin-United-States-of-America/NextGen-Software-Engineer_WD30258779",
@@ -204622,7 +204622,7 @@
         "company_name": "Motorola",
         "id": "5a43d065-d24c-4ee2-a70c-32d6243f33e4",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1770777365,
         "date_posted": 1770777365,
         "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Software-Engineer-I_R60996",
@@ -239968,5 +239968,240 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Stripe",
+        "id": "f7fe975e-2374-4a58-a579-154c42364fe2",
+        "title": "Backend Engineer",
+        "active": true,
+        "date_updated": 1772592742,
+        "date_posted": 1772592742,
+        "url": "https://stripe.com/jobs/search?gh_jid=7476555",
+        "locations": [
+            "Seattle, WA",
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Stripe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Live Nation Entertainment",
+        "id": "574fd3a7-be0c-4ee6-9a10-9e8b06d01320",
+        "title": "Senior Software Engineer",
+        "active": true,
+        "date_updated": 1772592527,
+        "date_posted": 1772592527,
+        "url": "https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Work-From-Home---Ohio/Lead-Software-Engineer_JR-77261",
+        "locations": [
+            "Texas",
+            "Ohio",
+            "Arizona",
+            "Florida"
+        ],
+        "company_url": "https://simplify.jobs/c/Live-Nation-Entertainment",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "IDEXX",
+        "id": "df431009-388b-4677-93d4-408df27f5ebc",
+        "title": "Water Quality Instrument Technician",
+        "active": true,
+        "date_updated": 1772592215,
+        "date_posted": 1772592215,
+        "url": "https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Kingston-Ontario/Water-Quality-Instrument-Technician_J-051684",
+        "locations": [
+            "Kingston, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/IDEXX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "PMG",
+        "id": "2e2f355d-35e4-4d6d-bf0e-5540fcc52626",
+        "title": "Graduate Leadership Program - Data Analytics",
+        "active": true,
+        "date_updated": 1772592237,
+        "date_posted": 1772592237,
+        "url": "https://job-boards.greenhouse.io/pmg/jobs/8446545002",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/PMG",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Niagara Bottling",
+        "id": "50f95f20-67a1-4035-a08f-0c399f2e2f01",
+        "title": "IT Functional Analyst 1 - Oracle OM Fusion Cloud",
+        "active": true,
+        "date_updated": 1772592079,
+        "date_posted": 1772592079,
+        "url": "https://niagarawater.wd5.myworkdayjobs.com/niagara/job/Corp-Main---Diamond-Bar-CA/IT-Functional-Analyst-I_R52657",
+        "locations": [
+            "Walnut, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Niagara-Bottling",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "LPL Financial Holdings",
+        "id": "d3437301-c9c3-412d-b777-58141013a89e",
+        "title": "New Grad 2026 - Technology - Data & Analytics",
+        "active": true,
+        "date_updated": 1772591819,
+        "date_posted": 1772591819,
+        "url": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/New-Grad-2026---Technology--Data---Analytics_R-046208",
+        "locations": [
+            "Fort Mill, SC",
+            "Charlotte, NC",
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/LPL-Financial-Holdings",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "LPL Financial Holdings",
+        "id": "ce8f478d-2b2a-42ac-9e3b-81b84927c10a",
+        "title": "New Grad 2026 - Technology - Product",
+        "active": true,
+        "date_updated": 1772591817,
+        "date_posted": 1772591817,
+        "url": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/San-Diego-CA/New-Grad-2026---Technology--Product_R-046437",
+        "locations": [
+            "Fort Mill, SC",
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/LPL-Financial-Holdings",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "LPL Financial Holdings",
+        "id": "ba23e70c-11af-4a15-9d4f-633b48a8ca7c",
+        "title": "New Grad - Data Analytics",
+        "active": true,
+        "date_updated": 1772591838,
+        "date_posted": 1772591838,
+        "url": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/New-Grad-2026---Foundational-Analyst-Rotational-Program--FAR----Data-Analytics_R-045022-1",
+        "locations": [
+            "Fort Mill, SC",
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/LPL-Financial-Holdings",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Littelfuse",
+        "id": "9f0715ee-74b3-4b1a-a5b4-328dd2a2514f",
+        "title": "Associate Product Manager - Relays",
+        "active": true,
+        "date_updated": 1772591876,
+        "date_posted": 1772591876,
+        "url": "https://littelfuse.wd1.myworkdayjobs.com/Littelfuse-Careers/job/Rapid-City/Associate-Product-Manager--Relays_JR-110732",
+        "locations": [
+            "Rapid City, SD"
+        ],
+        "company_url": "https://simplify.jobs/c/Littelfuse",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "LPL Financial Holdings",
+        "id": "14baa6e2-9ee9-4612-b385-8bad55d04c67",
+        "title": "New Grad - Technology - Software Development",
+        "active": true,
+        "date_updated": 1772591816,
+        "date_posted": 1772591816,
+        "url": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/San-Diego-CA/New-Grad-2026---Technology--Software-Development_R-046207",
+        "locations": [
+            "Fort Mill, SC",
+            "San Diego, CA",
+            "NYC",
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/LPL-Financial-Holdings",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "63703d4d-13ff-4bec-a203-233fd1628666",
+        "title": "2026 Fulltime - Electronics Design Engineer I",
+        "active": true,
+        "date_updated": 1772591548,
+        "date_posted": 1772591548,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-GOLETA-B01--6825-Cortona-Dr--BLDG-B01/XMLNAME-2026-Fulltime---Electronics-Design-Engineer-I---Onsite_01826209",
+        "locations": [
+            "Goleta, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
