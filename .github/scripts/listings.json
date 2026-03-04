@@ -230990,7 +230990,7 @@
         "company_name": "Sainsbury's",
         "id": "4432e135-157f-4c02-bc02-5c0d8ac87350",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1772147506,
         "date_posted": 1772147506,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051082",
@@ -237347,7 +237347,7 @@
         "company_name": "AECOM",
         "id": "01494b2a-7546-4407-9ea4-86807971657d",
         "title": "Associate Flood Forecasting Modeller",
-        "active": true,
+        "active": false,
         "date_updated": 1772494287,
         "date_posted": 1772494287,
         "url": "https://jobs.smartrecruiters.com/AECOM2/744000112245318",
@@ -240498,7 +240498,7 @@
         "company_name": "Metropolitan Transportation Authority",
         "id": "1114e9d4-9e30-4603-8fda-92f6bf7ca172",
         "title": "Computer Specialist Series",
-        "active": true,
+        "active": false,
         "date_updated": 1770419316,
         "date_posted": 1767396063,
         "url": "https://jobs.jobvite.com/metropolitantransportationauthority/job/oEbczfwk?nl=1&nl=1&fr=false",
@@ -240739,5 +240739,47 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Microsoft",
+        "id": "ff72e85e-810e-4d61-913a-d46fd379bad2",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1772623960,
+        "date_posted": 1772623960,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556819805",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Microsoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Stripe",
+        "id": "cc953d6e-bf93-4fa1-982f-cd773b9557ad",
+        "title": "Backend Engineer",
+        "active": true,
+        "date_updated": 1767691967,
+        "date_posted": 1767691967,
+        "url": "https://stripe.com/jobs/search?gh_jid=7292520",
+        "locations": [
+            "Remote in Canada",
+            "Toronto, ON, Canada",
+            "Remote in USA",
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Stripe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
