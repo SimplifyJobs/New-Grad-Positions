@@ -78458,7 +78458,7 @@
         "company_name": "TikTok",
         "id": "529d8dbc-30ce-43cb-8fd9-efdb2b2de164",
         "title": "Graduate Research Scientist - Multiple Teams",
-        "active": true,
+        "active": false,
         "date_updated": 1762930565,
         "date_posted": 1754621477,
         "url": "https://lifeattiktok.com/search/7516696922863864072",
@@ -127743,7 +127743,7 @@
         "company_name": "Quantexa",
         "id": "05947923-c830-44f4-a7fa-43ab278c4e0f",
         "title": "Associate Data Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1765927002,
         "date_posted": 1765927002,
         "url": "https://apply.workable.com/quantexa/j/5AF3D5E524/apply",
@@ -128451,7 +128451,7 @@
         "company_name": "Mintlify",
         "id": "52bf00f3-b325-414e-b820-7e50eb8c5314",
         "title": "Support Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1765964682,
         "date_posted": 1758158624,
         "url": "https://jobs.ashbyhq.com/Mintlify/4b5b6945-1a80-49fe-8bcb-64b3075e7b5f/application",
@@ -215701,7 +215701,7 @@
         "company_name": "Camlin",
         "id": "6db0e591-093c-483c-a932-f94fd0c3eaea",
         "title": "Service Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1771514128,
         "date_posted": 1771514128,
         "url": "https://ats.rippling.com/camlin-careers/jobs/ccefe389-7ad6-4fc3-bae8-9d4629235b47",
@@ -226995,7 +226995,7 @@
         "company_name": "Mindlance",
         "id": "7a5fb4fd-b566-4712-8377-b3dfcbd2df38",
         "title": "Web/Marketing Analytics",
-        "active": true,
+        "active": false,
         "date_updated": 1771985938,
         "date_posted": 1771985938,
         "url": "https://jobs.smartrecruiters.com/Mindlance2/743999657437717",
@@ -228509,7 +228509,7 @@
         "company_name": "Washington State University",
         "id": "dffe96c0-3d29-47d5-aeb2-89a28be7a608",
         "title": "Entry IT Data Management",
-        "active": true,
+        "active": false,
         "date_updated": 1772060570,
         "date_posted": 1772060570,
         "url": "https://wsu.wd5.myworkdayjobs.com/WSU_Jobs/job/Spokane-WA/Entry-IT-Data-Management---College-of-Medicine_R-14642",
@@ -238422,7 +238422,7 @@
         "company_name": "Agilent Technologies",
         "id": "7ed4118b-233a-401e-9ba4-46c5aa442c1d",
         "title": "Optics and Data Scientist - Fixed term",
-        "active": true,
+        "active": false,
         "date_updated": 1772539001,
         "date_posted": 1772236725,
         "url": "https://agilent.wd5.myworkdayjobs.com/Agilent_Careers/job/UK-Harwell/Optics-and-Data-Scientist_4036653",
@@ -240537,5 +240537,149 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Mastery Charter Schools",
+        "id": "a0a85c7b-400e-41a6-90b4-75acfb47dc72",
+        "title": "Business Systems Analyst",
+        "active": true,
+        "date_updated": 1772621005,
+        "date_posted": 1772234025,
+        "url": "https://jobs.lever.co/masterycharter/25983fc5-3cce-47dd-bc72-7b964f2b2960/apply",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Mastery-Charter-Schools",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Beta Soft Systems",
+        "id": "964678a1-b65c-49cc-b211-7b1113c3d406",
+        "title": "iOS Developer",
+        "active": true,
+        "date_updated": 1771484821,
+        "date_posted": 1771484821,
+        "url": "https://jobs.smartrecruiters.com/BetaSoftSystems3/85390019",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Beta-Soft-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Goldman Sachs",
+        "id": "6fd10ddf-26d4-4dac-938d-94b07f004498",
+        "title": "Compliance - Software Engineering - Vice President",
+        "active": true,
+        "date_updated": 1771255205,
+        "date_posted": 1771255205,
+        "url": "https://higher.gs.com/roles/161812",
+        "locations": [
+            "Birmingham, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Goldman-Sachs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Stulz",
+        "id": "3ecb39a0-4163-4485-9a64-59a6d403a683",
+        "title": "BOM Configuration Specialist 1",
+        "active": true,
+        "date_updated": 1771024518,
+        "date_posted": 1771024518,
+        "url": "https://careers-us.stulz.com/job/Frederick,-Maryland-BOM-Configuration-Specialist-I-MD-21704/1364852100/?ats=successfactors",
+        "locations": [
+            "Frederick, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Stulz",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "2174507d-b3cb-49df-8d6b-756be257de04",
+        "title": "Manufacturing Technician a",
+        "active": true,
+        "date_updated": 1772620695,
+        "date_posted": 1770862313,
+        "url": "https://jobs.l3harris.com/job/Redmond-Manufacturing-Technician-A-WA-98052/1364230000/?ats=successfactors",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Amazon",
+        "id": "6498a11a-a3c0-4140-9c97-7ff648f4f59c",
+        "title": "Engineering Operations Technician - DCC Communities",
+        "active": true,
+        "date_updated": 1772621660,
+        "date_posted": 1768835576,
+        "url": "https://amazon.jobs/en/jobs/3160395/engineering-operations-technician-dcc-communities",
+        "locations": [
+            "Ridgeland, MS",
+            "Hermiston, OR",
+            "Sparks, NV",
+            "Levittown, PA",
+            "Nanticoke, PA",
+            "Austell, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "PhD",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Vertiv",
+        "id": "ab6a1407-32da-45e8-8ca5-15b170bbf181",
+        "title": "Customer Engineer 1-Chicago",
+        "active": true,
+        "date_updated": 1769857851,
+        "date_posted": 1761529518,
+        "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20256060",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Vertiv",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
