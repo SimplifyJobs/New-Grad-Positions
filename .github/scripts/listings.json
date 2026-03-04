@@ -204622,7 +204622,7 @@
         "company_name": "Motorola",
         "id": "5a43d065-d24c-4ee2-a70c-32d6243f33e4",
         "title": "Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1770777365,
         "date_posted": 1770777365,
         "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Software-Engineer-I_R60996",
@@ -240241,5 +240241,123 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Abbott",
+        "id": "d38a58f5-8cce-4227-91b8-1bcd129ab8dc",
+        "title": "Software Engineer 1 - Backend",
+        "active": true,
+        "date_updated": 1772610887,
+        "date_posted": 1772610887,
+        "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---Massachusetts---Burlington/Software-Engineer-I--Backend-_31143106",
+        "locations": [
+            "Pleasanton, CA",
+            "Burlington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Abbott",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Magna International",
+        "id": "ac40cf9d-d73d-49da-8007-8239024d3274",
+        "title": "Software Engineer 1 - Thermal Camera",
+        "active": true,
+        "date_updated": 1772610556,
+        "date_posted": 1772610556,
+        "url": "https://magna.wd3.myworkdayjobs.com/Magna/job/Goleta-California-US/Software-Engineer-I---Thermal-Cameras_R00193769",
+        "locations": [
+            "Goleta, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Magna-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Magna International",
+        "id": "52a57763-80fe-473b-a42a-927c3633ed8c",
+        "title": "Product Engineer",
+        "active": true,
+        "date_updated": 1772610443,
+        "date_posted": 1772610443,
+        "url": "https://magna.wd3.myworkdayjobs.com/Magna/job/Grand-Rapids-Michigan-US/Product-Engineer_R00229738",
+        "locations": [
+            "Grand Rapids, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Magna-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Mastercard",
+        "id": "13f896a4-0120-4322-99c8-9c0bc42c43d2",
+        "title": "Data Engineering \u2013 Launch Graduate Program - London - UK",
+        "active": true,
+        "date_updated": 1772609838,
+        "date_posted": 1772609838,
+        "url": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/Data-Engineering--Launch-Graduate-Program-2026---London--UK_R-270091",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Mastercard",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "MBDA",
+        "id": "64ec9bf8-342d-4642-a4d7-af0d5d796f32",
+        "title": "Mechanical Technician",
+        "active": true,
+        "date_updated": 1772609608,
+        "date_posted": 1772609608,
+        "url": "https://mbda.wd3.myworkdayjobs.com/MBDA-UK/job/Stevenage/Mechanical-Technician_R31540-1",
+        "locations": [
+            "Letchworth Garden City, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/MBDA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Intermountain Healthcare",
+        "id": "8e8dabd7-335b-40dc-9398-2265ff5e7683",
+        "title": "Data Architect Senior - Clinical",
+        "active": true,
+        "date_updated": 1772609553,
+        "date_posted": 1772609553,
+        "url": "https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Lake-Park-Building/Data-Architect-Senior---Clinical_R164238-1",
+        "locations": [
+            "West Valley City, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Intermountain-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
     }
 ]
