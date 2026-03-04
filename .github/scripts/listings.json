@@ -52837,7 +52837,7 @@
         "company_name": "Huntington Ingalls Industries",
         "id": "bbaa7a2a-a4d3-4136-a3ca-5cd777edbe40",
         "title": "Metrology Technician 1",
-        "active": false,
+        "active": true,
         "date_updated": 1761692120,
         "date_posted": 1761692120,
         "url": "https://careers.huntingtoningalls.com/job/Goose-Creek-METROLOGY-TECHNICIAN-1-Sout/1338174800/?ats=successfactors",
@@ -102142,7 +102142,7 @@
         "company_name": "Stackline",
         "id": "5cba0867-9dba-4f74-ad53-b596f293ced9",
         "title": "Data Scientist 1",
-        "active": true,
+        "active": false,
         "date_updated": 1764112457,
         "date_posted": 1764112457,
         "url": "https://job-boards.greenhouse.io/stackline/jobs/4633616005",
@@ -133775,7 +133775,7 @@
         "company_name": "NVIDIA",
         "id": "f6a13ed4-651f-44af-9648-c33c0dd5e5da",
         "title": "Firmware Engineer \u2013 New College Grad 2026 - Memory Subsystem",
-        "active": false,
+        "active": true,
         "date_updated": 1766458010,
         "date_posted": 1766458010,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Firmware-Engineer--Memory-Subsystem---New-College-Grad-2026_JR2010096",
@@ -191239,7 +191239,7 @@
         "company_name": "L3Harris Technologies",
         "id": "707c5bc9-5eb1-42db-bb83-2bcb6b2223cc",
         "title": "Engineering Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1770197016,
         "date_posted": 1770114229,
         "url": "https://jobs.l3harris.com/job/State-College-Engineering-Technician-PA-16803/1361436200/?ats=successfactors",
@@ -230848,7 +230848,7 @@
         "company_name": "Carmeuse",
         "id": "ab698052-1a92-4b7d-b8c4-0c795da280d3",
         "title": "Salesforce Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1772147475,
         "date_posted": 1772147475,
         "url": "https://ekiz.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/193349",
@@ -241270,6 +241270,321 @@
         "sponsorship": "Other",
         "degrees": [
             "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Devon Energy",
+        "id": "c08f39a1-dff7-4471-84ab-c7ec93021da7",
+        "title": "Master Data Maintainer",
+        "active": true,
+        "date_updated": 1772665988,
+        "date_posted": 1772665988,
+        "url": "https://wd5.myworkdaysite.com/en-US/recruiting/devonenergy/Careers/job/Carlsbad-NM/Master-Data-Maintainer_R2653",
+        "locations": [
+            "Hobbs, NM",
+            "Carlsbad, NM",
+            "Kermit, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Devon-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Western Digital",
+        "id": "930e3758-0f53-4851-a57b-903e947b08ea",
+        "title": "Early Career Talent - Read/Write Channel Firmware Engineering",
+        "active": true,
+        "date_updated": 1772666262,
+        "date_posted": 1772666262,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000112741248",
+        "locations": [
+            "Rochester, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Digital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "iSoftStone",
+        "id": "33194c02-bba0-4195-a7b8-3adc219c42f8",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1772666492,
+        "date_posted": 1772666492,
+        "url": "https://jobs.jobvite.com/isoftstone/job/ouBLzfw9?nl=1&nl=1&fr=false",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ISoftStone",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Goldman Sachs",
+        "id": "1d16c5e6-4c34-44c8-864d-75c992c6c68a",
+        "title": "Asset and Wealth Management - Software Engineer - Analyst",
+        "active": true,
+        "date_updated": 1772666505,
+        "date_posted": 1772666505,
+        "url": "https://higher.gs.com/roles/163921",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Goldman-Sachs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Sysmex",
+        "id": "bda639f9-75a6-4d4e-a681-b0152ea90aba",
+        "title": "Technician - Field Service",
+        "active": true,
+        "date_updated": 1772665721,
+        "date_posted": 1772665721,
+        "url": "https://careers-sysmex.icims.com/jobs/4578/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Des Moines, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/Sysmex",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Huntington Ingalls Industries",
+        "id": "b8a86ad2-8ccb-4832-986e-41d1c8c71ee6",
+        "title": "Bus Tech Programmer 1",
+        "active": true,
+        "date_updated": 1772665753,
+        "date_posted": 1772665753,
+        "url": "https://careers.huntingtoningalls.com/job/Newport-News-BUS-TECH-PROGRAMMER-1-Virg/1370230500/?ats=successfactors",
+        "locations": [
+            "Newport News, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Huntington-Ingalls-Industries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AIG",
+        "id": "8ab632e6-3d49-498c-ab3d-b63a2cec1201",
+        "title": "2026 \u2013 Early Career - Technology - Analyst",
+        "active": true,
+        "date_updated": 1772666045,
+        "date_posted": 1772666045,
+        "url": "https://aig.wd1.myworkdayjobs.com/en-US/early_careers/job/NC-Charlotte/XMLNAME-2026---Early-Career---Technology---Analyst---United-States--Jersey-City--NJ--or-Charlotte--NC-_JR2504979",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/AIG",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "e67d2843-e9c6-45f9-b7ca-02797f32d144",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1772665716,
+        "date_posted": 1772665716,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052037",
+        "locations": [
+            "Cardiff, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Savannah River National Laboratory",
+        "id": "e12fa1ff-4dd0-46d3-b110-37e3bb0686a3",
+        "title": "Graduate Research Associate - Post Masters-Nuclear Engineering & Modeling",
+        "active": true,
+        "date_updated": 1772665947,
+        "date_posted": 1772665947,
+        "url": "https://ewvl.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1987",
+        "locations": [
+            "North Augusta, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/Savannah-River-National-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "US Conec",
+        "id": "cdb0264c-62ae-4d31-a561-fdde25293c29",
+        "title": "Metrology Technician",
+        "active": true,
+        "date_updated": 1772665734,
+        "date_posted": 1772665734,
+        "url": "https://job-boards.greenhouse.io/usconec/jobs/4163974009",
+        "locations": [
+            "Hickory, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/US-Conec",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "b1141e45-27bb-44e4-869a-bf58eecf1bf8",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1772665716,
+        "date_posted": 1772665716,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052016",
+        "locations": [
+            "Aldershot, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "9f51280c-c2b7-42b8-b799-a2234bfbc339",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1772665720,
+        "date_posted": 1772665720,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052036",
+        "locations": [
+            "Swindon, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Westinghouse Electric Company",
+        "id": "5b03093b-dc1e-4344-9373-7dd70b82a000",
+        "title": "GIS Technician",
+        "active": true,
+        "date_updated": 1772665728,
+        "date_posted": 1772665728,
+        "url": "https://careers.westinghousenuclear.com/job/Norwell-GIS-Technician-MA-02061/1370266200/?ats=successfactors",
+        "locations": [
+            "Gastonia, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Westinghouse-Electric-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Carmeuse",
+        "id": "5adfd78d-25a4-4dfd-8b04-9cd936a675e8",
+        "title": "Salesforce Analyst",
+        "active": true,
+        "date_updated": 1772665713,
+        "date_posted": 1772665713,
+        "url": "https://ekiz.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/193390",
+        "locations": [
+            "Beavercreek, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Carmeuse",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "AVIAN",
+        "id": "c691bbad-b494-40d3-aafe-2f6dac3d0fd5",
+        "title": "Engineering Technician",
+        "active": true,
+        "date_updated": 1772665676,
+        "date_posted": 1772665676,
+        "url": "https://careers-avian.icims.com/jobs/2525/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Patuxent River, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/AVIAN",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Barrios",
+        "id": "72e04f65-9137-4092-94aa-c83cc37bd8df",
+        "title": "ISS Real-Time Embedded Software Engineer",
+        "active": true,
+        "date_updated": 1772665677,
+        "date_posted": 1772665677,
+        "url": "https://careers-barrios.icims.com/jobs/2759/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Barrios",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
