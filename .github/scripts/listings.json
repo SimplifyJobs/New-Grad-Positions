@@ -149447,7 +149447,7 @@
         "company_name": "Amazon",
         "id": "0df5cb1d-8ceb-47ab-baf2-2f2f2ad4c03f",
         "title": "Software Engineer 1 - Builder",
-        "active": true,
+        "active": false,
         "date_updated": 1767769724,
         "date_posted": 1767769724,
         "url": "https://amazon.jobs/en/jobs/3154041/software-engineer-i-builder",
@@ -232743,7 +232743,7 @@
         "company_name": "Huntington Ingalls Industries",
         "id": "c780f25e-cc50-40c8-b3db-e55b89cd18e9",
         "title": "Engineer Test Operations 1",
-        "active": true,
+        "active": false,
         "date_updated": 1772205396,
         "date_posted": 1772205396,
         "url": "https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-TEST-OPERATIONS-1-Virg/1368621500/?ats=successfactors",
@@ -240359,5 +240359,97 @@
         "degrees": [
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Hawk-Eye Innovations",
+        "id": "a2c84b74-2810-4783-8f9e-82637d56d092",
+        "title": "College Sports Systems Technician - Michigan State University",
+        "active": true,
+        "date_updated": 1772535322,
+        "date_posted": 1772535322,
+        "url": "https://jobs.ashbyhq.com/hawkeyeinnovations/b206c133-baef-4ac1-8cc3-60d6fc6bf114/application",
+        "locations": [
+            "East Lansing, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Hawk-Eye-Innovations",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The University of Edinburgh",
+        "id": "5c1d498b-a55f-4aa4-adf4-638f6c7a6157",
+        "title": "Postdoctoral Research Associate - Geological CO2 Storage",
+        "active": true,
+        "date_updated": 1772617134,
+        "date_posted": 1772493527,
+        "url": "https://elxw.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/13863",
+        "locations": [
+            "Edinburgh, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/The-University-Of-Edinburgh",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Faculty AI",
+        "id": "838a1e37-fa96-44e0-afde-173b13e2eea2",
+        "title": "Associate",
+        "active": true,
+        "date_updated": 1772616587,
+        "date_posted": 1770995724,
+        "url": "https://jobs.ashbyhq.com/faculty/fdad876e-1eed-43ff-b054-e835e1e4b08e/application",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Faculty-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Legrand NA",
+        "id": "dc53275b-c699-4c7d-b902-07fa17df0306",
+        "title": "CAD Technician",
+        "active": true,
+        "date_updated": 1770995114,
+        "date_posted": 1770995114,
+        "url": "https://jobs-legrand.icims.com/jobs/9838/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Mississauga, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Legrand-NA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Upgrade",
+        "id": "6ad29e74-703a-4f06-a308-0c4022375eaf",
+        "title": "Product Data Analyst - Servicing",
+        "active": true,
+        "date_updated": 1764632264,
+        "date_posted": 1762817654,
+        "url": "https://job-boards.greenhouse.io/upgrade/jobs/4625902005",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Upgrade",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
