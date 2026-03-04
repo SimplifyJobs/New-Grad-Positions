@@ -1,22 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Jerry",
-        "id": "d47df80b-67c5-4d5d-b42d-a98eaa62ce5b",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1751933474,
-        "date_posted": 1751907689,
-        "url": "https://jobs.ashbyhq.com/Jerry/da971495-baa6-4d32-8138-34bcb2be8366/application",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Jerry",
-        "is_visible": false,
-        "sponsorship": "Other"
-    },
-    {
         "date_updated": 1751932494,
         "url": "https://jobs.careers.microsoft.com/global/en/job/1835561/",
         "company_name": "Microsoft",
