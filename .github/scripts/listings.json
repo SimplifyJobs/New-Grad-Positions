@@ -3,41 +3,6 @@
         "source": "Simplify",
         "category": "Software",
         "company_name": "Jerry",
-        "id": "eeaa4cc1-0e31-4939-8dec-9de609614afe",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1751933513,
-        "date_posted": 1751906090,
-        "url": "https://jobs.ashbyhq.com/Jerry/cd2c9819-712d-4a67-a0e1-c23e0814cf27/application",
-        "locations": [
-            "Toronto, ON, Canada",
-            "Greater Toronto Area, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Jerry",
-        "is_visible": false,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Ciena",
-        "id": "f3f5a9e1-9b27-4535-a685-2419883e5517",
-        "title": "New Grad: Wavelogic Software Development",
-        "active": false,
-        "date_updated": 1751906827,
-        "date_posted": 1751906827,
-        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/New-Grad--Wavelogic-Software-Development_R028366",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Ciena",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Jerry",
         "id": "d47df80b-67c5-4d5d-b42d-a98eaa62ce5b",
         "title": "Software Engineer I",
         "active": false,
@@ -82963,42 +82928,6 @@
         "url": "https://job-boards.greenhouse.io/drweng/jobs/6828054",
         "locations": [
             "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/DRW",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "DRW",
-        "id": "623982ac-7815-4bd8-88d3-1b7c1e3f593d",
-        "title": "Quantitative Researcher",
-        "active": false,
-        "date_updated": 1751906411,
-        "date_posted": 1751906411,
-        "url": "https://job-boards.greenhouse.io/drweng/jobs/6991933",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/DRW",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "DRW",
-        "id": "a08099c2-ff4a-437e-8827-dbda860bd8af",
-        "title": "AI Researcher",
-        "active": false,
-        "date_updated": 1751906411,
-        "date_posted": 1751906411,
-        "url": "https://job-boards.greenhouse.io/drweng/jobs/7039382",
-        "locations": [
-            "Palo Alto, CA"
         ],
         "company_url": "https://simplify.jobs/c/DRW",
         "is_visible": true,
