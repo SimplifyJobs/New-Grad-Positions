@@ -112631,7 +112631,7 @@
         "company_name": "Vanderlande Industries",
         "id": "15304295-2be6-4005-8574-7361eee3a9ca",
         "title": "Integration Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1764782068,
         "date_posted": 1764782068,
         "url": "https://vanderlande.wd3.myworkdayjobs.com/careers/job/Marietta-Atlanta/Integration-Engineer_JR34733",
@@ -121680,7 +121680,7 @@
         "company_name": "M&T Bank",
         "id": "7f95cfb1-aa2d-4b6d-add5-77edfd84f25b",
         "title": "Product Owner 1 - Consumer Capital Markets",
-        "active": true,
+        "active": false,
         "date_updated": 1765454751,
         "date_posted": 1764498277,
         "url": "https://mtb.wd5.myworkdayjobs.com/MTB/job/Buffalo-NY/Product-Owner-I_R80004-1",
@@ -207031,7 +207031,7 @@
         "company_name": "Maple AI",
         "id": "2d46d675-43a4-49b2-8886-d3e7b43dd3a9",
         "title": "GTM Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1770967111,
         "date_posted": 1770967111,
         "url": "https://jobs.ashbyhq.com/maple/99c07e10-f81a-4b62-97c7-9388128c708a/application",
@@ -210615,7 +210615,7 @@
         "company_name": "Thoughtworks",
         "id": "e61ed736-5e31-48dc-9c7b-6232cc023bee",
         "title": "Associate-Graduate:Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1771284734,
         "date_posted": 1771284732,
         "url": "https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7618967",
@@ -226681,7 +226681,7 @@
         "company_name": "Thoughtworks",
         "id": "743b5d1d-4bd6-40ed-a964-41d98984fbce",
         "title": "Associate-Graduate:Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1771975884,
         "date_posted": 1771975883,
         "url": "https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7598825",
@@ -230990,7 +230990,7 @@
         "company_name": "Sainsbury's",
         "id": "4432e135-157f-4c02-bc02-5c0d8ac87350",
         "title": "Trading Assistant - Shift",
-        "active": false,
+        "active": true,
         "date_updated": 1772147506,
         "date_posted": 1772147506,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051082",
@@ -233762,7 +233762,7 @@
         "company_name": "Sainsbury's",
         "id": "a1340264-0f1d-4efd-b09d-c0d7a0ca175d",
         "title": "Trading Assistant - Shift",
-        "active": false,
+        "active": true,
         "date_updated": 1772233883,
         "date_posted": 1772233883,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051348",
@@ -239309,7 +239309,7 @@
         "company_name": "Thoughtworks",
         "id": "e34d88ce-da34-4bc1-a009-9907bd221f57",
         "title": "Associate-Graduate:Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1772581524,
         "date_posted": 1772581524,
         "url": "https://www.thoughtworks.com/careers/jobs/7618564?gh_jid=7618564",
@@ -240203,5 +240203,43 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Axsome Therapeutics Inc",
+        "id": "903d115a-7d71-4507-98cf-6d4e2e02b112",
+        "title": "Associate/Senior Associate - Market Access Data Science",
+        "active": true,
+        "date_updated": 1772609050,
+        "date_posted": 1772609050,
+        "url": "https://job-boards.greenhouse.io/axsometherapeutics/jobs/5818066004",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Axsome-Therapeutics-Inc",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "032fb2be-0d55-461c-adc6-008596badc99",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1772608120,
+        "date_posted": 1772608120,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051904",
+        "locations": [
+            "Basingstoke, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
