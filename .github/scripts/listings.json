@@ -139472,7 +139472,7 @@
         "company_name": "CoreWeave",
         "id": "d1894a78-306e-46ca-8748-513224324392",
         "title": "Data Center Technician - Dalton",
-        "active": true,
+        "active": false,
         "date_updated": 1762936834,
         "date_posted": 1761755481,
         "url": "https://coreweave.com/careers/job?4613586006&board=coreweave&gh_jid=4613586006",
@@ -154401,7 +154401,7 @@
         "company_name": "CoreWeave",
         "id": "ec102feb-a895-4052-97ba-b76c25362710",
         "title": "Data Center Technician - Sandusky",
-        "active": true,
+        "active": false,
         "date_updated": 1768003505,
         "date_posted": 1768003505,
         "url": "https://coreweave.com/careers/job?4643595006&board=coreweave&gh_jid=4643595006",
@@ -171985,7 +171985,7 @@
         "company_name": "CoreWeave",
         "id": "4318be75-870a-4d4c-a7c9-9d3a5b9b6e6f",
         "title": "Data Center Technician - Lowell - MA",
-        "active": true,
+        "active": false,
         "date_updated": 1769125152,
         "date_posted": 1769125152,
         "url": "https://coreweave.com/careers/job?4647328006&board=coreweave&gh_jid=4647328006",
@@ -213945,7 +213945,7 @@
         "company_name": "Sainsbury's",
         "id": "72d2d5b6-8b6f-4c5d-8aa2-1856e6369842",
         "title": "Trading Assistant - Local",
-        "active": false,
+        "active": true,
         "date_updated": 1771456232,
         "date_posted": 1771456232,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050103",
@@ -240781,5 +240781,189 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Hawk-Eye Innovations",
+        "id": "f57e12b2-d1a2-45aa-a4a7-0800ebf5637c",
+        "title": "Basketball Replay Operator - Wnba - Brooklyn','NY",
+        "active": true,
+        "date_updated": 1772626533,
+        "date_posted": 1772626533,
+        "url": "https://jobs.ashbyhq.com/hawkeyeinnovations/a600e478-4aae-4c08-91f8-726fc564b42d/application",
+        "locations": [
+            "Brooklyn, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Hawk-Eye-Innovations",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Hawk-Eye Innovations",
+        "id": "64ffaa3d-7e13-45f8-95ae-aa0cde39bd91",
+        "title": "Basketball Replay Operator - Wnba - Dallas TX",
+        "active": true,
+        "date_updated": 1772626535,
+        "date_posted": 1772626535,
+        "url": "https://jobs.ashbyhq.com/hawkeyeinnovations/7dbb4954-ae4b-4e20-a93c-911d4fe0943d/application",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Hawk-Eye-Innovations",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Hawk-Eye Innovations",
+        "id": "2f7df351-d67a-4122-b5e5-f298941dd170",
+        "title": "Basketball Replay Operator - Wnba - Phoenix (location) eliminated",
+        "active": true,
+        "date_updated": 1772626550,
+        "date_posted": 1772626550,
+        "url": "https://jobs.ashbyhq.com/hawkeyeinnovations/42526df5-ce0a-42ae-af9d-e54489fdd3e5/application",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Hawk-Eye-Innovations",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Hawk-Eye Innovations",
+        "id": "2764e72a-dfcc-483f-b0d4-d5d234270e07",
+        "title": "Basketball Replay Operator - Wnba - Portland OR",
+        "active": true,
+        "date_updated": 1772626542,
+        "date_posted": 1772626542,
+        "url": "https://jobs.ashbyhq.com/hawkeyeinnovations/52e951fa-1a2d-4f5b-8bd8-e03ecda41b5e/application",
+        "locations": [
+            "Portland, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Hawk-Eye-Innovations",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "b0301e3d-e7ea-480b-84d6-751d506633bf",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1772625623,
+        "date_posted": 1772625623,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051911",
+        "locations": [
+            "Harlow, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "a3f40d94-8c0b-451e-b3a8-102322d10bec",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1772625618,
+        "date_posted": 1772625618,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051922",
+        "locations": [
+            "Trafford, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "67e0be47-727b-4c89-afdf-cb48c8418f96",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1772625625,
+        "date_posted": 1772625625,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051917",
+        "locations": [
+            "Essex, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Appen",
+        "id": "253059ce-a0e2-47a2-990b-12ee752ed450",
+        "title": "Annotator",
+        "active": true,
+        "date_updated": 1772625658,
+        "date_posted": 1772625658,
+        "url": "https://jobs.lever.co/appen-2/1f8d6868-2f02-4f25-b8f0-464e7fccb036/apply",
+        "locations": [
+            "Lafayette, KS"
+        ],
+        "company_url": "https://simplify.jobs/c/Appen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "FactSet",
+        "id": "b49efe67-b00c-40df-a03a-3565f7288687",
+        "title": "Junior Machine Learning Engineer - Multiple Teams",
+        "active": true,
+        "date_updated": 1771692223,
+        "date_posted": 1771692223,
+        "url": "https://factset.wd108.myworkdayjobs.com/FactSetCareers/job/London-GBR/Junior-Machine-Learning-Engineer--Python--Docker--and-API-development--Cloud-Architecture--AWS---AI-ML----Hybrid_R31340",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/FactSet",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "CoreWeave",
+        "id": "c58729a0-86d0-4011-b632-b65ba4603010",
+        "title": "Data Center Technician - Reno",
+        "active": true,
+        "date_updated": 1772627254,
+        "date_posted": 1769442049,
+        "url": "https://coreweave.com/careers/job?4647969006&board=coreweave&gh_jid=4647969006",
+        "locations": [
+            "Reno, NV"
+        ],
+        "company_url": "https://simplify.jobs/c/CoreWeave",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
     }
 ]
