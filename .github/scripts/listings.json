@@ -66124,7 +66124,7 @@
         "company_name": "BNY",
         "id": "9f7190aa-23b9-4618-946d-1996522e0545",
         "title": "2026 BNY Analyst Program - Engineering Data Science - Manchester",
-        "active": false,
+        "active": true,
         "date_updated": 1761874512,
         "date_posted": 1761874512,
         "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/69714",
@@ -175567,7 +175567,7 @@
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "iSoftStone",
-        "id": "68fa3265-2aef-4620-91de-b9dc986a6293",
+        "id": "4565e67d-2790-4700-a44f-21497935c66a",
         "title": "Data Analyst",
         "active": true,
         "date_updated": 1769469607,
@@ -187963,7 +187963,7 @@
         "company_name": "Primetals Technologies",
         "id": "e1e6a7b5-6f80-4c3c-9c17-c11ee619812c",
         "title": "Interior Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1770073939,
         "date_posted": 1770073939,
         "url": "https://mhicareers.com/job/Bridgeport-Interior-Technician-WV-26330/1289511101/?ats=successfactors",
@@ -202964,7 +202964,7 @@
         "company_name": "Caesars Entertainment",
         "id": "ec4f307d-e699-40f3-962c-d162b6bca4e3",
         "title": "Slot Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1770823039,
         "date_posted": 1770823039,
         "url": "https://edmn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/79699",
@@ -238324,7 +238324,7 @@
         "company_name": "JP Morgan Chase",
         "id": "0e6d9fa4-ef28-4df1-8208-37fdfb19f8d1",
         "title": "Corporate \u2013 Risk Management - Market Risk FRTB - Analytics','Analyst / Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1772534810,
         "date_posted": 1772534810,
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210718966",
@@ -240451,5 +240451,91 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "North Wind Group",
+        "id": "8b35e9b1-d5c5-4fb5-9a89-be83eed9f79a",
+        "title": "Engineering Technician 5 - Target Diagnostics Systems Operator - Nws",
+        "active": true,
+        "date_updated": 1770776443,
+        "date_posted": 1770776443,
+        "url": "https://north-wind-group.breezy.hr/p/89176a7adc89/apply",
+        "locations": [
+            "Livermore, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/North-Wind-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Macy's",
+        "id": "4c24c124-49f5-46db-8461-6a3a4ae8b94a",
+        "title": "Assistant Product Manager",
+        "active": true,
+        "date_updated": 1767630358,
+        "date_posted": 1767630358,
+        "url": "https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/83758",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Macys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Metropolitan Transportation Authority",
+        "id": "1114e9d4-9e30-4603-8fda-92f6bf7ca172",
+        "title": "Computer Specialist Series",
+        "active": true,
+        "date_updated": 1770419316,
+        "date_posted": 1767396063,
+        "url": "https://jobs.jobvite.com/metropolitantransportationauthority/job/oEbczfwk?nl=1&nl=1&fr=false",
+        "locations": [
+            "Long Island City, Queens, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Metropolitan-Transportation-Authority",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "IEM",
+        "id": "8c71ab38-1caa-49fc-86fb-36678f5a66fc",
+        "title": "Senior Product Engineer",
+        "active": true,
+        "date_updated": 1765988615,
+        "date_posted": 1765988615,
+        "url": "https://job-boards.greenhouse.io/industrialelectricmanufacturing/jobs/4086437009",
+        "locations": [
+            "Franklin, TN",
+            "Fremont, CA",
+            "Tualatin, OR",
+            "Vancouver, BC, Canada",
+            "Jacksonville, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/IEM",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
