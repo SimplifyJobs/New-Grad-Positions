@@ -144355,7 +144355,7 @@
         "company_name": "DXC Technology",
         "id": "19ec4fd6-b5b7-43fc-8474-7d021334b158",
         "title": "DXC Graduate Programme",
-        "active": true,
+        "active": false,
         "date_updated": 1764209945,
         "date_posted": 1764209945,
         "url": "https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/GBR---RFW---ERSKINE/DXC-Graduate-Programme-2026_51567258",
@@ -200620,7 +200620,7 @@
         "company_name": "Faculty AI",
         "id": "af167c7b-5780-4a52-ad60-7f665cece17b",
         "title": "Faculty Fellowship Programme - Data Science - May 2026",
-        "active": true,
+        "active": false,
         "date_updated": 1770707613,
         "date_posted": 1770707613,
         "url": "https://jobs.ashbyhq.com/faculty/766f9d2a-d40e-4ba3-a407-5157eda242c1/application",
@@ -225201,7 +225201,7 @@
         "company_name": "Vanasse Hangen Brustlin (VHB)",
         "id": "e822c5c8-1090-4c57-a7d0-b3d7fffb1ea5",
         "title": "Entry Level Environmental Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1771925856,
         "date_posted": 1771600015,
         "url": "https://careers-vhb.icims.com/jobs/5873/job?mobile=true&needsRedirect=false",
@@ -238704,7 +238704,7 @@
         "company_name": "Sainsbury's",
         "id": "09b85543-3365-4ae2-bc08-6266d202a5b5",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1772550523,
         "date_posted": 1772550523,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051829",
@@ -239957,7 +239957,7 @@
         "company_name": "ServiceNow",
         "id": "b04674ca-bfe4-441d-8319-2194c10c1050",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1772590205,
         "date_posted": 1772590205,
         "url": "https://jobs.smartrecruiters.com/ServiceNow/744000112551444",
@@ -240681,5 +240681,63 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Solace Health",
+        "id": "b60b87eb-67cd-48e0-b4f4-bfffdeda474b",
+        "title": "Technical Product Manager",
+        "active": true,
+        "date_updated": 1772621983,
+        "date_posted": 1768806850,
+        "url": "https://jobs.ashbyhq.com/solace/4f03a850-1d70-4982-984a-2f2328192fb4/application",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Solace-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Quantix SCS",
+        "id": "c22ed2b1-7dbc-4fec-8e24-0ed23174312c",
+        "title": "Application Support",
+        "active": true,
+        "date_updated": 1772003147,
+        "date_posted": 1772003147,
+        "url": "https://jobs.smartrecruiters.com/Quantix/106736418",
+        "locations": [
+            "Wheat Ridge, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Quantix-SCS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Lightcast",
+        "id": "9679fca2-c944-4514-b41e-e8f47c9fcb2d",
+        "title": "Data Analyst - Mandarin",
+        "active": true,
+        "date_updated": 1770975292,
+        "date_posted": 1770938115,
+        "url": "https://jobs.lever.co/economicmodeling/86790f15-e5d0-4235-aa18-4b4513382d2f/apply",
+        "locations": [
+            "Remote in UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Lightcast",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
