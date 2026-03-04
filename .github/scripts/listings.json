@@ -31151,7 +31151,7 @@
         "company_name": "Citigroup",
         "id": "b40e48ce-a96e-49e1-a44e-794e1c9744bd",
         "title": "Technology - Application Development - Full Time Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1763053062,
         "date_posted": 1763053062,
         "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Belfast--United-Kingdom/Technology---Application-Development--Full-Time-Analyst--Belfast--2026_25920692",
@@ -222256,7 +222256,7 @@
         "company_name": "BlackRock",
         "id": "a85fe9f4-8464-4676-b652-c3e73615a4ec",
         "title": "Product Manager - Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1771862161,
         "date_posted": 1771862161,
         "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/London-Greater-London/Product-Manager--Associate-_R260931",
@@ -241278,5 +241278,45 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "711fbb9a-d8c2-4bae-af94-07f494ea4cf2",
+        "title": "Software Engineer 1 - Connected Aviation",
+        "active": true,
+        "date_updated": 1772638973,
+        "date_posted": 1772638973,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MD-ANNAPOLIS-906--2551-Riva-Rd--BLDG-906/Software-Engineer-I_01828357",
+        "locations": [
+            "Annapolis, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Cambridge Associates",
+        "id": "5fb504d7-95b5-412b-b294-b0970b850bcf",
+        "title": "Investment Analyst",
+        "active": true,
+        "date_updated": 1772638982,
+        "date_posted": 1772638982,
+        "url": "https://cambridgeassociates.wd5.myworkdayjobs.com/Cambridge_Associates/job/London/Investment-Analyst---January-2026_JR0000024",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Cambridge-Associates",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
