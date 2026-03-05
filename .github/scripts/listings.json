@@ -122919,7 +122919,7 @@
         "company_name": "RELX",
         "id": "a48eea25-3bca-4a31-a06b-1a43b545cdae",
         "title": "Data Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1765523669,
         "date_posted": 1765523669,
         "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/PHL-RE-Shared-Services-Manila/Data-Analyst_R105711",
@@ -243230,5 +243230,87 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "b524de61-9d76-47f2-860e-deafce23e1d1",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1772697471,
+        "date_posted": 1772697471,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/XMLNAME-2026-Full-time---Software-Engineer-1---Onsite--IN-_01827401",
+        "locations": [
+            "Fort Wayne, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "The Boeing Company",
+        "id": "fb339e5f-b2ed-40a9-ba10-bb2b32cf287b",
+        "title": "Test & Evaluation Instrumentation Technicians - Entry-Level or Associate",
+        "active": true,
+        "date_updated": 1772696794,
+        "date_posted": 1772696794,
+        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Test---Evaluation-Instrumentation-Technicians--Entry-Level-or-Associate-_JR2026499370",
+        "locations": [
+            "Hazelwood, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD",
+            "Associate's",
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Curtiss-Wright Corporation",
+        "id": "13fd44fb-a003-4a94-9427-b404e413a4c2",
+        "title": "Inspector 2nd Class",
+        "active": true,
+        "date_updated": 1772696705,
+        "date_posted": 1772696705,
+        "url": "https://curtisswright.wd1.myworkdayjobs.com/cw_external_career_site/job/US-NY-East-Farmingdale-TR/Inspector--2nd-Class_JR11361",
+        "locations": [
+            "Plainview, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Curtiss-Wright",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Ontario Teachers' Pension Plan",
+        "id": "4e7498a1-6bcc-4457-9bd3-0dd14df35a12",
+        "title": "Investment Analyst - Capital Markets - Fundamental Equities",
+        "active": true,
+        "date_updated": 1772695705,
+        "date_posted": 1772695705,
+        "url": "https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Investment-Analyst--Capital-Markets---Fundamental-Equities_6911",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Ontario-Teachers-Pension-Plan",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
