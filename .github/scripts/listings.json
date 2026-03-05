@@ -242081,5 +242081,511 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cantina",
+        "id": "f7f13be6-0cb5-48f8-8085-43e54d7714d8",
+        "title": "Media Software Engineer",
+        "active": true,
+        "date_updated": 1772677399,
+        "date_posted": 1772677399,
+        "url": "https://jobs.ashbyhq.com/cantina/e8019c96-0f59-4b2d-9871-867a854dfa43/application",
+        "locations": [
+            "Brooklyn, NY",
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/CantinaApp",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Veeva Systems",
+        "id": "cb05d04f-5a87-4372-a83e-933fc8765a07",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1772677621,
+        "date_posted": 1772677621,
+        "url": "https://jobs.lever.co/veeva/93aa70b0-3f70-449a-ab56-ffa7df61a488/apply",
+        "locations": [
+            "Kansas City, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Veeva-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Nucor",
+        "id": "c572a69c-953f-4e96-b1eb-0f6eca908e80",
+        "title": "Software Developer 1",
+        "active": true,
+        "date_updated": 1772677415,
+        "date_posted": 1772677415,
+        "url": "https://jobs.nucor.com/job/Arthur-Software-Developer-I-IL-61911/1370289200/?ats=successfactors",
+        "locations": [
+            "Decatur, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Nucor",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "c4e1b6cf-32ab-4e90-a153-d4642af7d7d9",
+        "title": "Data Scientist - XR/VR Device",
+        "active": true,
+        "date_updated": 1772677456,
+        "date_posted": 1772677456,
+        "url": "https://lifeattiktok.com/search/7611425885984393525",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Invisible Technologies",
+        "id": "9a42c456-bb62-4b76-95c4-7afaa00ebb2d",
+        "title": "English Language Specialist - Freelance AI Trainer Project",
+        "active": true,
+        "date_updated": 1772677518,
+        "date_posted": 1772677518,
+        "url": "https://job-boards.eu.greenhouse.io/agency/jobs/4738026101",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Invisible-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "JP Morgan Chase",
+        "id": "284689fd-1688-4e8c-87cd-7018ee8feb36",
+        "title": "Asset Management - Multiple Teams",
+        "active": true,
+        "date_updated": 1772677339,
+        "date_posted": 1772677339,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210698919",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "American Express",
+        "id": "21fefb33-84b3-42fb-974c-ac2dea4322bb",
+        "title": "Associate Digital Product Manager",
+        "active": true,
+        "date_updated": 1772677380,
+        "date_posted": 1772677380,
+        "url": "https://aexp.eightfold.ai/careers/job/40183981",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/American-Express",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "2002e3fa-55aa-461c-a56f-fc1fc1bab258",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1772677397,
+        "date_posted": 1772677397,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052046",
+        "locations": [
+            "Moreton, Greasby, Wirral, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "BCforward",
+        "id": "1f552c7e-3fcc-4959-b8e2-4e762497ce0d",
+        "title": "Deltek ERP Team Member Consultant",
+        "active": true,
+        "date_updated": 1772677339,
+        "date_posted": 1772677339,
+        "url": "https://jobs.smartrecruiters.com/BCforward3/94093588",
+        "locations": [
+            "Boca Raton, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/BCforward",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "JP Morgan Chase",
+        "id": "1666286b-cf84-443c-8ffe-d267f363099e",
+        "title": "Applied AI ML Associate - AI for Operations - Customer Onboarding and Documentation",
+        "active": true,
+        "date_updated": 1772677338,
+        "date_posted": 1772677338,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210706920",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "AHEAD",
+        "id": "7a86410c-e966-4083-94a5-5d0009b0c474",
+        "title": "Rack Assembly Technician 1",
+        "active": true,
+        "date_updated": 1772677120,
+        "date_posted": 1772677120,
+        "url": "https://jobs.lever.co/thinkahead/cb190761-366a-43a3-9fe9-e6cd7a7bc8bd/apply",
+        "locations": [
+            "Vernon Hills, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/AHEAD",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "SpaceX",
+        "id": "62bc0daa-63c7-41ff-9966-a2acc413e192",
+        "title": "Printed Circuit Board Assembly Technician",
+        "active": true,
+        "date_updated": 1772677022,
+        "date_posted": 1772677022,
+        "url": "https://boards.greenhouse.io/spacex/jobs/8352162002",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/SpaceX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Horizon Technologies",
+        "id": "1a76239c-9e37-432f-ab3d-c3e6a1458a7b",
+        "title": "MuleSoft Developer",
+        "active": true,
+        "date_updated": 1772677178,
+        "date_posted": 1772677178,
+        "url": "https://jobs.smartrecruiters.com/HorizonTechnologiesInc/94324377",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Horizon-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Sentra",
+        "id": "f91fa919-2234-4f3e-9e18-bb9104e99f55",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1772676995,
+        "date_posted": 1772676995,
+        "url": "https://jobs.ashbyhq.com/sentra/3c9729ca-67b3-4f9f-9c64-5e1e10be1719/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Sentra",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Savannah River National Laboratory",
+        "id": "a82fc11a-5d61-4e03-b394-2fb04a8522b7",
+        "title": "Contaminant Fate and Transport Modeling Postdoc Research Associate",
+        "active": true,
+        "date_updated": 1772676975,
+        "date_posted": 1772676975,
+        "url": "https://ewvl.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1961",
+        "locations": [
+            "North Augusta, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/Savannah-River-National-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "e89956cc-4bb8-4d62-b4c8-b247cb62baac",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1772676630,
+        "date_posted": 1772676630,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051232",
+        "locations": [
+            "Moreton, Greasby, Wirral, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Huntington Ingalls Industries",
+        "id": "cc3e14b4-edeb-4b61-a1da-a36e1ef1f9ce",
+        "title": "Systems Engineer / Software Designer 2 - Reactor Plant Planning Yard Engineering - Software Development Team",
+        "active": true,
+        "date_updated": 1772676665,
+        "date_posted": 1772676665,
+        "url": "https://careers.huntingtoningalls.com/job/Newport-News-SYSTEMS-ENGINEER-SOFTWARE-DESIGNER-2-Virg/1355905300/?ats=successfactors",
+        "locations": [
+            "Newport News, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Huntington-Ingalls-Industries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Cirrus Logic",
+        "id": "a2e72f7b-81ca-4d2f-a14c-771b13dd9b8c",
+        "title": "Entry Level Validation and Characterization Engineer",
+        "active": true,
+        "date_updated": 1772676492,
+        "date_posted": 1772676492,
+        "url": "https://jobs.eu.lever.co/cirrus/f00a0311-831f-42cd-a0e8-802fe1866516/apply",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Cirrus-Logic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "9c18cebb-db4f-45a1-ab8e-1ffc25b8158c",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1772676622,
+        "date_posted": 1772676622,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052043",
+        "locations": [
+            "Chesterfield, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "7c885a88-7ee5-443c-aa73-f3ceffd5d8f1",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1772676630,
+        "date_posted": 1772676630,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052048",
+        "locations": [
+            "Hereford, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "73df2e99-fbd0-431f-a514-72445245b409",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1772676677,
+        "date_posted": 1772676677,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052045",
+        "locations": [
+            "Crawley, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Metropolitan Transportation Authority",
+        "id": "4c0dab45-55ba-43b4-a4c3-9f1bd32957ed",
+        "title": "Application Developer 1 - PeopleSoft",
+        "active": true,
+        "date_updated": 1772676547,
+        "date_posted": 1772676547,
+        "url": "https://jobs.jobvite.com/metropolitantransportationauthority/job/oVkxxfw3?nl=1&nl=1&fr=false",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Metropolitan-Transportation-Authority",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "AI Fund",
+        "id": "44f751ef-1a96-4f87-81d4-abd5dbf7c49f",
+        "title": "Founder in Residence - Generative AI",
+        "active": true,
+        "date_updated": 1772676503,
+        "date_posted": 1772676503,
+        "url": "https://jobs.lever.co/AIFund/8a2150a8-d89b-4fb4-ac33-ed3b04ae0b30/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/AI-Fund",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "3b270d59-e6ea-419c-a9de-6752b6cf0ee4",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1772676627,
+        "date_posted": 1772676627,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048725",
+        "locations": [
+            "Bedford, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Akima",
+        "id": "18e05a5f-7409-4061-85bc-6ccea654aefa",
+        "title": "Electronics Technician 1 - Travel",
+        "active": true,
+        "date_updated": 1772676693,
+        "date_posted": 1772676693,
+        "url": "https://careers.akima.com/jobs/19959?lang=en-us&icims=1",
+        "locations": [
+            "Oklahoma City, OK"
+        ],
+        "company_url": "https://simplify.jobs/c/Akima",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Testing Xperts",
+        "id": "155240f4-de3c-44f8-9ef6-cc34c5a93356",
+        "title": "Adobe Marketing Cloud Components Consultant",
+        "active": true,
+        "date_updated": 1772676625,
+        "date_posted": 1772676625,
+        "url": "https://jobs.smartrecruiters.com/TestingXperts/99232106",
+        "locations": [
+            "Malvern, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Testing-Xperts",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
