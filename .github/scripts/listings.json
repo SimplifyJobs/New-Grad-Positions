@@ -160633,7 +160633,7 @@
         "company_name": "Accenture",
         "id": "397e575e-7d19-4d10-9e33-546e3e3a21ac",
         "title": "AI & Data Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1768444817,
         "date_posted": 1768444817,
         "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mississauga-1-City-Centre-DCN/AI---Data-Analyst_R00306214",
@@ -243040,5 +243040,48 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Nidec",
+        "id": "a4132e53-cf70-4602-a955-30e619e74dd0",
+        "title": "Service Technician",
+        "active": true,
+        "date_updated": 1772682163,
+        "date_posted": 1772682163,
+        "url": "https://nidec.wd1.myworkdayjobs.com/nidec/job/North-AmericaUSALouisianaHouma-LA/Service-Technician_R0010363",
+        "locations": [
+            "Cocodrie, LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Nidec",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Terex",
+        "id": "0f54da6d-705b-4687-833c-e833cda41720",
+        "title": "Embedded Tooling Engineer 1 - Software",
+        "active": true,
+        "date_updated": 1772682070,
+        "date_posted": 1772682070,
+        "url": "https://terex.wd1.myworkdayjobs.com/terexcareers/job/USA-TX-Austin/Embedded-Tooling-Engineer-I--Software_REQ-11552-1",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Terex",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
     }
 ]
