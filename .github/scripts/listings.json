@@ -71691,7 +71691,7 @@
         "company_name": "ByteDance",
         "id": "bad92449-b1d1-4608-8ad3-69e1b30ef55f",
         "title": "Software Engineer Graduate - AI Platform - 2026 Start",
-        "active": true,
+        "active": false,
         "date_updated": 1755647942,
         "date_posted": 1755647942,
         "url": "https://jobs.bytedance.com/en/position/7540345448911309074/detail",
@@ -82783,24 +82783,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Fortinet",
-        "id": "1918ed21-30ce-4c20-adf6-931896a33fc7",
-        "title": "Technical Support Engineer",
-        "active": false,
-        "date_updated": 1751937798,
-        "date_posted": 1751937798,
-        "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/20131",
-        "locations": [
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Fortinet",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "IMC Trading",
         "id": "f17fbb9b-81df-4d4c-9b82-8214da5c45af",
@@ -90122,7 +90104,7 @@
         "company_name": "Trace3",
         "id": "b57a0780-0ccb-4518-b7da-f56802389d58",
         "title": "Java DevSecOps Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1763441473,
         "date_posted": 1761504900,
         "url": "https://job-boards.greenhouse.io/trace3/jobs/7350861",
@@ -100592,7 +100574,7 @@
         "company_name": "RWS",
         "id": "9ed2762e-b80e-4b6f-b52a-ce4fe7a1db64",
         "title": "Search Quality Rater - English - Delaware",
-        "active": true,
+        "active": false,
         "date_updated": 1764023660,
         "date_posted": 1763766958,
         "url": "https://jobs.lever.co/rws/aa69d147-a07a-41ef-a90c-c11fc6a82c3f/apply",
@@ -112778,7 +112760,7 @@
         "company_name": "The Boeing Company",
         "id": "5d6afc9f-624d-432e-a5ba-cc9a7ca8bff5",
         "title": "Equipment Engineer - Asset Integration & Systems - Fabrication Division",
-        "active": false,
+        "active": true,
         "date_updated": 1764805527,
         "date_posted": 1764805527,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Auburn-WA/Equipment-Engineer--Asset-Integration---Systems----Fabrication-Division_JR2025484520-1",
@@ -185166,7 +185148,7 @@
         "company_name": "Newrez",
         "id": "844ba664-2894-4531-8169-554f4d4b90af",
         "title": "TRAIL Rising Leaders Program - Software Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1769816452,
         "date_posted": 1769816452,
         "url": "https://newrez.wd1.myworkdayjobs.com/NRZ/job/TX-Coppell/TRAIL-Rising-Leaders-Program---Software-Engineering_R8404",
@@ -204574,7 +204556,7 @@
         "company_name": "RWS",
         "id": "c6a814ce-9a21-4dbd-9637-32f194a35f8c",
         "title": "Search Quality Rater - English - Indiana",
-        "active": true,
+        "active": false,
         "date_updated": 1770891230,
         "date_posted": 1767395963,
         "url": "https://jobs.lever.co/rws/2c082054-6a8a-4ce9-a8b7-9237904195e9/apply",
@@ -229358,7 +229340,7 @@
         "company_name": "SBT Global",
         "id": "fd06c53c-40fb-4b5e-947a-576336b29f73",
         "title": "Warehouse Innovation Project Consultant - Korean Bilingual",
-        "active": true,
+        "active": false,
         "date_updated": 1772089545,
         "date_posted": 1772089545,
         "url": "https://jobs.smartrecruiters.com/SBTGlobalInc/3743990010888046",
@@ -240952,7 +240934,7 @@
         "company_name": "Sainsbury's",
         "id": "651e4189-cb76-4498-bfd2-96f6954c8ca3",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1772636948,
         "date_posted": 1772636948,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051945",
@@ -241061,7 +241043,7 @@
         "company_name": "Sainsbury's",
         "id": "114ff772-6edd-4c17-946f-bde262c2cdce",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1772636958,
         "date_posted": 1772636958,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051994",
@@ -241306,7 +241288,7 @@
         "company_name": "Sainsbury's",
         "id": "e67d2843-e9c6-45f9-b7ca-02797f32d144",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1772665716,
         "date_posted": 1772665716,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052037",
@@ -242004,5 +241986,100 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northrop Grumman",
+        "id": "d9373335-a34c-4fb1-9582-63ef042b22f3",
+        "title": "Engineering Technician 1",
+        "active": true,
+        "date_updated": 1772672716,
+        "date_posted": 1772672716,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Minnesota-Plymouth/Engineering-Technician-1_R10224843-1",
+        "locations": [
+            "Wayzata, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "The Boeing Company",
+        "id": "a1c99329-dd5e-4b39-8cbc-51a0f536ab77",
+        "title": "Training Device Technician - Training Device Maintenance",
+        "active": true,
+        "date_updated": 1772672693,
+        "date_posted": 1772672693,
+        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/GBR---Wattisham-Airfield-UK/Training-Device-Technician--Training-Device-Maintenance-_JR2026498766-2",
+        "locations": [
+            "Ipswich, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northrop Grumman",
+        "id": "95c566d4-fe35-46d7-aebc-84fea696206e",
+        "title": "Engineering Technician 1",
+        "active": true,
+        "date_updated": 1772672711,
+        "date_posted": 1772672711,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Minnesota-Plymouth/Engineering-Tech-1_R10224850",
+        "locations": [
+            "Wayzata, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Boeing Company",
+        "id": "5a804625-fd1e-4461-b447-6689e4932d26",
+        "title": "Entry Level Illustrated Parts Catalog Data Author",
+        "active": true,
+        "date_updated": 1772672571,
+        "date_posted": 1772672571,
+        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seal-Beach-CA/Entry-Level-Illustrated-Parts-Catalog-Data-Author_JR2026498373-2",
+        "locations": [
+            "Seal Beach, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "The Boeing Company",
+        "id": "33db2130-d898-42ed-bfdc-99e8b9aa2245",
+        "title": "Embedded Software Engineer - Software Products and Capabilities - Common Embedded Team",
+        "active": true,
+        "date_updated": 1772672571,
+        "date_posted": 1772672571,
+        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/United-States---Remote/Software-Engineer-Embedded--Associate--Experienced-or-Senior--Virtual_JR2026497391-1",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
