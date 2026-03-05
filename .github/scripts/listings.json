@@ -241932,5 +241932,77 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Analytical Mechanics Associates",
+        "id": "71815af9-388a-4368-baa3-bd37b7aab788",
+        "title": "AI/ML Research Associate",
+        "active": true,
+        "date_updated": 1772672028,
+        "date_posted": 1772672028,
+        "url": "https://amainc.wd12.myworkdayjobs.com/ama_careers/job/Mary-W-Jackson-NASA-Headquarters/AI-ML-Research-Associate_R-100499",
+        "locations": [
+            "California",
+            "Hampton, VA",
+            "Huntsville, AL",
+            "Washington, DC",
+            "Lanham, MD",
+            "John C. Stennis Space Center, MS",
+            "Mountain View, CA",
+            "Edwards AFB, CA",
+            "New Orleans, LA",
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Analytical-Mechanics-Associates",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Nelnet",
+        "id": "018ba654-94c9-4135-b5d1-cf83917feeb4",
+        "title": "Data Analyst 1 - Consumer Loan Analytics",
+        "active": true,
+        "date_updated": 1772671898,
+        "date_posted": 1772671898,
+        "url": "https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Data-Analyst-I---Consumer-Loan-Analytics_R22385",
+        "locations": [
+            "Centennial, CO",
+            "Lincoln, NE",
+            "Madison, WI",
+            "Brownsville, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Nelnet",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "The Boeing Company",
+        "id": "9bb55013-cf40-477c-a139-903fc73ab6c8",
+        "title": "Test and Evaluation Lab Technician",
+        "active": true,
+        "date_updated": 1772671586,
+        "date_posted": 1772671586,
+        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Test---Evaluation-Lab-Technician--Associate-or-Experienced-_JR2026499040-1",
+        "locations": [
+            "Hazelwood, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
