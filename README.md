@@ -1750,7 +1750,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (1131)</summary>
+<summary>🗃️ Inactive roles (1130)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -1810,7 +1810,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Engineer 1</td>
 <td><details><summary><strong>4 locations</strong></summary>Mountain View, CA</br>NYC</br>San Diego, CA</br>Atlanta, GA</details></td>
 <td>🔒</td>
-<td>5d</td>
+<td>6d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
@@ -2314,7 +2314,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Engineer 1</td>
 <td>Chicago, IL</td>
 <td>🔒</td>
-<td>27d</td>
+<td>28d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Nelnet?utm_source=GHList&utm_medium=company">Nelnet</a></strong></td>
@@ -9670,13 +9670,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><strong>Ranger</strong></td>
 <td>Forward-Deployed Test Engineer 🛂</td>
 <td>San Francisco, CA</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/MotorolaSolutions?utm_source=GHList&utm_medium=company">Motorola</a></strong></td>
-<td>Entry Level Software Engineer</td>
-<td>Edinburgh, UK</td>
 <td>🔒</td>
 <td>7mo</td>
 </tr>
