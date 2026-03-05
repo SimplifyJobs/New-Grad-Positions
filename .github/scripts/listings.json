@@ -1,23 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Fifth Third Bank",
-        "id": "4383c0bf-9739-40f3-b1d7-604cd26607f2",
-        "title": "Consumer IT - Data Engineer I",
-        "active": false,
-        "date_updated": 1751942095,
-        "date_posted": 1751942095,
-        "url": "https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Consumer-IT---Data-Engineer-I_R59946",
-        "locations": [
-            "Cincinnati, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Fifth-Third-Bank",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Motorola",
         "id": "6cc8c463-d29b-4b4b-b4bd-1daa162792c7",
@@ -757,7 +740,7 @@
         "company_name": "mthree",
         "id": "b9796ce2-492e-4261-81ce-451a1728f732",
         "title": "D\u00e9veloppeur g\u00e9nie logiciel / Junior Software Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1755270120,
         "date_posted": 1752776843,
         "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4374767006",
@@ -157498,7 +157481,7 @@
         "company_name": "American Express",
         "id": "2c4fc7cd-5910-42fc-82ea-9ace3ebf79de",
         "title": "Associate Digital Product Management",
-        "active": true,
+        "active": false,
         "date_updated": 1768346199,
         "date_posted": 1768346199,
         "url": "https://aexp.eightfold.ai/careers/job/39309213",
@@ -182376,7 +182359,7 @@
         "company_name": "Wells Fargo",
         "id": "2828a338-7d68-4008-8984-a482bb96eff6",
         "title": "Engineering Associate - Middleware Operations",
-        "active": false,
+        "active": true,
         "date_updated": 1769730921,
         "date_posted": 1769730921,
         "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/MINNEAPOLIS-MN/Engineering-Associate---Middleware-Operations_R-518252",
@@ -191179,7 +191162,7 @@
         "company_name": "American Express",
         "id": "ca98230f-d6eb-4120-b38f-f074713bb7eb",
         "title": "Analyst-Loyalty Transformation",
-        "active": true,
+        "active": false,
         "date_updated": 1770200884,
         "date_posted": 1770200884,
         "url": "https://aexp.eightfold.ai/careers/job/39684158",
@@ -228971,7 +228954,7 @@
         "company_name": "IDEXX",
         "id": "df3ed117-991b-4a65-8003-2c38d125785c",
         "title": "Data Conversions Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1772063479,
         "date_posted": 1772063479,
         "url": "https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Virtual-United-States/Data-Conversions-Technician_J-051787-1",
@@ -242587,5 +242570,317 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Nordstrom",
+        "id": "f03748c0-4d84-4cab-89d4-53993080b5ee",
+        "title": "Engineer 1 - Misc Team",
+        "active": true,
+        "date_updated": 1772679104,
+        "date_posted": 1772679104,
+        "url": "https://nordstrom.wd501.myworkdayjobs.com/nordstrom_careers/job/Seattle-WA/Engineer-1---MISC-Team--Hybrid---Seattle--WA-_R-804547",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Nordstrom",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "State Street",
+        "id": "57dfb70d-1413-4a27-998b-28752edc1f53",
+        "title": "Software Engineer 1 - Full Stack",
+        "active": true,
+        "date_updated": 1772678875,
+        "date_posted": 1772678875,
+        "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Software-Engineer-I_R-774355-1",
+        "locations": [
+            "Burlington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/State-Street",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cerebras",
+        "id": "34766faf-b33b-4ace-888d-70c3fa642752",
+        "title": "Software Engineer - Kernel Reliability",
+        "active": true,
+        "date_updated": 1772678489,
+        "date_posted": 1772678489,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=7647330003",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cerebras-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "ConnectDER",
+        "id": "1b73642c-a6f5-44e8-a5d4-ce895976cdad",
+        "title": "Production and RMA Technician",
+        "active": true,
+        "date_updated": 1772678498,
+        "date_posted": 1772678498,
+        "url": "https://job-boards.greenhouse.io/connectder/jobs/5066270007",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/ConnectDER",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "MARA",
+        "id": "5d074cfb-2039-425b-b74c-e49ff31886b8",
+        "title": "Miner Technician 1",
+        "active": true,
+        "date_updated": 1772678401,
+        "date_posted": 1772678401,
+        "url": "https://job-boards.greenhouse.io/mara/jobs/4526565005",
+        "locations": [
+            "Aledo, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/MARA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Nidec",
+        "id": "13bc1189-b3de-4044-a6f5-f4292ea71ff5",
+        "title": "Service Technician",
+        "active": true,
+        "date_updated": 1772678303,
+        "date_posted": 1772678303,
+        "url": "https://nidec.wd1.myworkdayjobs.com/nidec/job/North-AmericaUSATexasHouston-HAW-TX/Service-Technician_R0010364",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Nidec",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Anaplan",
+        "id": "a2ac2123-48a3-462e-95b3-2d7bce1b2e5c",
+        "title": "Junior Software Engineer",
+        "active": true,
+        "date_updated": 1772678117,
+        "date_posted": 1772678117,
+        "url": "https://job-boards.greenhouse.io/anaplan/jobs/8442244002",
+        "locations": [
+            "York, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Anaplan",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Arize AI",
+        "id": "2cd03e8d-cc78-4e95-83d6-ea305c3d34ac",
+        "title": "AI Product Engineer",
+        "active": true,
+        "date_updated": 1772678104,
+        "date_posted": 1772678104,
+        "url": "https://job-boards.greenhouse.io/arizeai/jobs/5396470004",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/ArizeAI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Moog ",
+        "id": "b2eb6538-62e8-4003-954b-6437f93a4778",
+        "title": "Engineering Technician",
+        "active": true,
+        "date_updated": 1772678017,
+        "date_posted": 1772678017,
+        "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Mineral-Wells-TX/Engineering-Technician_R-26-16340",
+        "locations": [
+            "Aledo, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Moog",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Robert Bosch Venture Capital",
+        "id": "64c76ac6-2871-4787-bc0d-a95f4fb7d547",
+        "title": "Application Engineer 1",
+        "active": true,
+        "date_updated": 1772677883,
+        "date_posted": 1772677883,
+        "url": "https://jobs.smartrecruiters.com/BoschGroup/744000099610295",
+        "locations": [
+            "Vernon Hills, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Bosch",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Credit Union of Colorado",
+        "id": "f1c68736-c661-4699-9ed8-18c1ae1d22a0",
+        "title": "Enterprise Application Developer",
+        "active": true,
+        "date_updated": 1772677823,
+        "date_posted": 1772677823,
+        "url": "https://job-boards.greenhouse.io/creditunionofcolorado/jobs/5118246008",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Credit-Union-Of-Colorado",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Roljobs Technology Services",
+        "id": "e34aefe1-0ff4-4fc1-8484-42b238cbdbea",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1772677221,
+        "date_posted": 1772677221,
+        "url": "https://jobs.smartrecruiters.com/RA2/82680756",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Roljobs-Technology-Services",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Roljobs Technology Services",
+        "id": "a7b78f23-cd84-42ea-80ed-d0cd8016967c",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1772677220,
+        "date_posted": 1772677220,
+        "url": "https://jobs.smartrecruiters.com/RA2/82680814",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Roljobs-Technology-Services",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "mthree",
+        "id": "5034a0e7-592a-458f-b515-579d804d7bef",
+        "title": "Junior Software Developer",
+        "active": true,
+        "date_updated": 1772677698,
+        "date_posted": 1772677698,
+        "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4628952006",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Mthree",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Avance Consulting",
+        "id": "307fa8e9-1dd0-4f25-8488-fd159b5d19f4",
+        "title": "Technology Analyst - Java - Healthcare Domain",
+        "active": true,
+        "date_updated": 1772677828,
+        "date_posted": 1772677828,
+        "url": "https://jobs.smartrecruiters.com/AvanceConsultingServices2/743999656814099",
+        "locations": [
+            "Hartford, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/Avance-Consulting",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Gain Theory",
+        "id": "67e52517-9a1d-4dab-ae1e-4d6ed1e75d59",
+        "title": "Senior Analyst",
+        "active": true,
+        "date_updated": 1772678521,
+        "date_posted": 1770939802,
+        "url": "https://job-boards.greenhouse.io/gaintheory/jobs/8417365002",
+        "locations": [
+            "Miami, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Gain-Theory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
