@@ -121914,9 +121914,9 @@
         "is_visible": false
     },
     {
-        "date_updated": 1765484159,
+        "date_updated": 1772694433,
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Huntsville-AL/Full-Stack-Developer--Junior_R0230620",
         "company_name": "Booz Allen",
@@ -129784,9 +129784,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1766067836,
+        "date_updated": 1772694433,
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Master's"
         ],
@@ -157120,9 +157120,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1768311596,
+        "date_updated": 1772694433,
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://job-boards.greenhouse.io/cribl/jobs/5739562004",
         "company_name": "Cribl",
