@@ -234433,7 +234433,7 @@
         "company_name": "Moog ",
         "id": "185e755c-6864-4437-bf3f-4e33498a56dc",
         "title": "Associate Systems Packaging Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1772234936,
         "date_posted": 1772234936,
         "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Associate-Systems-Packaging-Engineer_R-26-16276",
@@ -236869,7 +236869,7 @@
         "company_name": "RTX",
         "id": "950615ec-04bb-42ca-a75e-471a3be89cd8",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1772494900,
         "date_posted": 1772494900,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/Software-Engineer-I--Onsite-_01815590",
@@ -243063,5 +243063,172 @@
             "Master's",
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Roljobs Technology Services",
+        "id": "e566ee1a-dc82-4ec0-af58-36da1b8ec8a3",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1772695604,
+        "date_posted": 1772695604,
+        "url": "https://jobs.smartrecruiters.com/RA2/82680780",
+        "locations": [
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Roljobs-Technology-Services",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "9f6e1640-b74e-4c5e-b4bb-1fdedfb47ba4",
+        "title": "Software Integration Engineer 1 - Software Integration Engineer 1 - Radar Digital Product Line",
+        "active": true,
+        "date_updated": 1772695541,
+        "date_posted": 1772695541,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/XMLNAME-2026-Full-time---Software-Integration-Engineer-I---Onsite--MA-_01828477",
+        "locations": [
+            "Marlborough, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Roljobs Technology Services",
+        "id": "0f461a8e-28bb-4ed4-915d-03f509f33164",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1772695604,
+        "date_posted": 1772695604,
+        "url": "https://jobs.smartrecruiters.com/RA2/82680404",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Roljobs-Technology-Services",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "78c45d95-924f-43eb-8a53-2be97faca877",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1772694951,
+        "date_posted": 1772694951,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052054",
+        "locations": [
+            "Cornwall, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "e1ed05c1-8ad5-4de5-a9f7-ffe8ab1d5a51",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1772694720,
+        "date_posted": 1772694720,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052050",
+        "locations": [
+            "United Kingdom"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Hormel Foods",
+        "id": "d638208f-0760-4e9a-92b6-5e231d4a866f",
+        "title": "Associate Applications Development Analyst - Wms",
+        "active": true,
+        "date_updated": 1772694432,
+        "date_posted": 1772694432,
+        "url": "https://ekkh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/33187",
+        "locations": [
+            "Rochester, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Hormel-Foods",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "873278e2-0ed4-4152-9c6a-c7d44c60b8f3",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1772694424,
+        "date_posted": 1772694424,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052052",
+        "locations": [
+            "United Kingdom",
+            "Durham, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "651dd1a5-7e00-4542-9110-cae4b2895915",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1772694422,
+        "date_posted": 1772694422,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052049",
+        "locations": [
+            "Moreton, Greasby, Wirral, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "5426cc75-8e26-498c-99b5-2e5a6e5fbb1e",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1772694430,
+        "date_posted": 1772694430,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052051",
+        "locations": [
+            "Northamptonshire, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
