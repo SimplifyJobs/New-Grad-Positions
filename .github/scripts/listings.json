@@ -1,39 +1,5 @@
 [
     {
-        "date_updated": 1754416326,
-        "url": "https://jobs.careers.microsoft.com/global/en/job/1835564/",
-        "company_name": "Microsoft",
-        "title": "Software Engineer - Systems",
-        "locations": [
-            "Redmond, WA"
-        ],
-        "sponsorship": "Other",
-        "active": false,
-        "source": "AshkanArabim",
-        "id": "bbec85ce-e198-4fb0-af7f-3b414645eae2",
-        "date_posted": 1751933435,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Chewy",
-        "id": "f7a0c536-7ba2-4d0b-ab43-13a883f5c3e3",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1751932903,
-        "date_posted": 1751932903,
-        "url": "https://boards.greenhouse.io/embed/job_app?token=6983872",
-        "locations": [
-            "Boston, MA",
-            "Fort Lauderdale, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Chewy",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Fifth Third Bank",
@@ -67457,7 +67423,7 @@
         "company_name": "Peraton",
         "id": "b90c77df-a31e-4ccf-9e66-223608a6983c",
         "title": "Associate Systems Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1757760654,
         "date_posted": 1757615552,
         "url": "https://careers-peraton.icims.com/jobs/158613/job?mobile=true&needsRedirect=false",
@@ -241848,5 +241814,123 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "JP Morgan Chase",
+        "id": "f38bb359-f539-4b7b-8fd8-3d58f64e80c3",
+        "title": "Automation & Data Analytics Associate",
+        "active": true,
+        "date_updated": 1772666016,
+        "date_posted": 1772666016,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210712269",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "American Express",
+        "id": "e9c7ac23-d03b-4022-809d-96ac2c2dac81",
+        "title": "AI Engineer 1 - Agentic AI",
+        "active": true,
+        "date_updated": 1772666382,
+        "date_posted": 1772666382,
+        "url": "https://aexp.eightfold.ai/careers/job/40366446",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/American-Express",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Oodle Financial Services",
+        "id": "d4dfc1a2-bf7f-4fc1-8ae2-1050e74e577d",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1772666910,
+        "date_posted": 1772666910,
+        "url": "https://job-boards.greenhouse.io/oodlefinance/jobs/8449019002",
+        "locations": [
+            "Oxford, UK",
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Oodle-Financial-Services",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "d43d274a-ba57-4612-b43c-5483dcfaf43b",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1772666425,
+        "date_posted": 1772666425,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineer-I--Onsite-_01828221",
+        "locations": [
+            "Cedar Rapids, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "RTX",
+        "id": "b488c6f6-c4fb-4e5c-b0bd-3692ca8baae8",
+        "title": "Data Analyst 1 - Manufacturing Operations",
+        "active": true,
+        "date_updated": 1772667168,
+        "date_posted": 1772667168,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-MELBOURNE-308--1100-W-Hibiscus-Blvd--BLDG-308/Data-Analyst-I---Manufacturing-Operations--Onsite-_01828227",
+        "locations": [
+            "Melbourne, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Wellmark",
+        "id": "ff807f31-8c58-4bbe-958d-0c2668929e54",
+        "title": "Data Wrangler",
+        "active": true,
+        "date_updated": 1772666230,
+        "date_posted": 1772666230,
+        "url": "https://jobs.smartrecruiters.com/WellmarkInc/744000112703828",
+        "locations": [
+            "Des Moines, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/Wellmark",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
