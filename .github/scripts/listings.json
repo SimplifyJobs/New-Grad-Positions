@@ -243797,5 +243797,45 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Genuine Parts Company",
+        "id": "d5030147-e7b4-4597-8517-a2e7f8affe81",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1772726448,
+        "date_posted": 1772726448,
+        "url": "https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Software-Engineer-I_R26_0000004116",
+        "locations": [
+            "Birmingham, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Genuine-Parts-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Huron",
+        "id": "9415cb8b-11e7-4b2f-a706-fee3959e9953",
+        "title": "Data Operations Analyst",
+        "active": true,
+        "date_updated": 1772726352,
+        "date_posted": 1772726352,
+        "url": "https://huron.wd1.myworkdayjobs.com/huroncareers/job/Chicago---550-Van-Buren/Data-Operations-Analyst_JR-0014281",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Huron",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
