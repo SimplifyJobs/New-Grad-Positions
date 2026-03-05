@@ -147081,7 +147081,7 @@
         "company_name": "LexisNexis Risk Solutions",
         "id": "bb28570e-41f5-419f-8288-ea54af10c69c",
         "title": "Product Manager 1",
-        "active": true,
+        "active": false,
         "date_updated": 1767657229,
         "date_posted": 1767657229,
         "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA/Product-Manager-I_R105575-1",
@@ -196590,7 +196590,7 @@
         "company_name": "Magna",
         "id": "afd5b3bd-9908-480c-bf1d-9a846a991ba8",
         "title": "Product Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1770392858,
         "date_posted": 1770392858,
         "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Grand-Rapids-Michigan-US/Product-Engineer_R00229738",
@@ -220610,7 +220610,7 @@
         "company_name": "Silfab Solar",
         "id": "dcf53825-b9f9-4906-aa5c-605ace415612",
         "title": "Research Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1771668101,
         "date_posted": 1771668101,
         "url": "https://jobs.smartrecruiters.com/SilfabSolar/744000110045157",
@@ -221163,7 +221163,7 @@
         "company_name": "Sainsbury's",
         "id": "370b884b-686d-4b76-baeb-17fc6e2a7a95",
         "title": "Trading Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1771772908,
         "date_posted": 1771772908,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050593",
@@ -235240,7 +235240,7 @@
         "company_name": "Silfab Solar",
         "id": "a3bdc5bf-2579-46c9-84e8-c4759ebbb8ae",
         "title": "Research Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1772406391,
         "date_posted": 1772406391,
         "url": "https://jobs.smartrecruiters.com/SilfabSolar/744000112047797",
@@ -243601,5 +243601,100 @@
             "Master's",
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Best Buy",
+        "id": "9c908116-0ca7-44bb-ba4e-eeeeed73121a",
+        "title": "Product Tester AV",
+        "active": true,
+        "date_updated": 1772724208,
+        "date_posted": 1772724208,
+        "url": "https://bestbuycanada.wd3.myworkdayjobs.com/BestBuyCA_Career/job/40002-Brampton-DC-1/Product-Tester-AV_R-49527",
+        "locations": [
+            "Brampton, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Best-Buy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Acuity",
+        "id": "717e0565-6753-4065-b763-f2d0ffb70c72",
+        "title": "Leadership Program - Data Engineering & Artificial Intelligence",
+        "active": true,
+        "date_updated": 1772724210,
+        "date_posted": 1772724210,
+        "url": "https://careers.acuityinc.com/job/Atlanta-Leadership-Program-Data-Engineering-&-Artificial-Intelligence-(Atlanta,-GA)-GA-30309/1370445000/?ats=successfactors",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Acuity",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Huntington Ingalls Industries",
+        "id": "9cfe16e6-1278-4743-9293-159178b6fa1d",
+        "title": "Visual Instruction Developer 1",
+        "active": true,
+        "date_updated": 1772723640,
+        "date_posted": 1772723640,
+        "url": "https://careers.huntingtoningalls.com/job/Newport-News-VISUAL-INSTRUCTION-DEVELOPER-1-Virg/1370456900/?ats=successfactors",
+        "locations": [
+            "Newport News, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Huntington-Ingalls-Industries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "e5a2f9f3-0cc2-4f07-b518-785e7ef4aa47",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1772723423,
+        "date_posted": 1772723423,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052112",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "8670bd90-e5ae-4950-b0cc-c46c926e64db",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1772723447,
+        "date_posted": 1772723447,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052108",
+        "locations": [
+            "Harlow, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
