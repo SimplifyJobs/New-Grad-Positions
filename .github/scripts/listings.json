@@ -222878,7 +222878,7 @@
         "company_name": "RTX",
         "id": "6202278e-a6a7-43ad-b124-37bfbb5e1e22",
         "title": "Full Stack Developer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1771889841,
         "date_posted": 1771889841,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-CAMBRIDGE-BBN06--10--50-Moulton-St--MOULTON-B6/Full-Stack-Developer-I--Hybrid-_01826194-1",
@@ -238718,7 +238718,7 @@
         "company_name": "Sainsbury's",
         "id": "9c72cafe-cbde-44db-b78a-330e07119ce3",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1772579974,
         "date_posted": 1772579974,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051868",
@@ -241311,7 +241311,7 @@
         "company_name": "Sainsbury's",
         "id": "9f51280c-c2b7-42b8-b799-a2234bfbc339",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1772665720,
         "date_posted": 1772665720,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052036",
@@ -243578,6 +243578,27 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Barclays",
+        "id": "a36f5417-77b5-402c-b02b-e9bf0cb016f1",
+        "title": "Quantitative Analytics Associate Graduate Programme",
+        "active": true,
+        "date_updated": 1772709091,
+        "date_posted": 1772709091,
+        "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Quantitative-Analytics-Associate-Graduate-Programme-2026-London_JR-0000070826",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Barclays",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
             "PhD"
         ]
     }
