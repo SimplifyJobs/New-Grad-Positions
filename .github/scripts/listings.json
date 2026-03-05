@@ -1,22 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Motorola",
-        "id": "6cc8c463-d29b-4b4b-b4bd-1daa162792c7",
-        "title": "Entry Level Software Engineer",
-        "active": false,
-        "date_updated": 1751971689,
-        "date_posted": 1751971689,
-        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Edinburgh-UK-ZUK129/Entry-Level-Software-Engineer_R55247",
-        "locations": [
-            "Edinburgh, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
         "date_updated": 1752022455,
         "url": "https://jobs.lever.co/ranger/38ef5184-0c8a-4980-836f-95e23e83ae7d",
         "company_name": "Ranger",
@@ -219972,7 +219955,7 @@
         "company_name": "Sainsbury's",
         "id": "7222e735-b7f6-47cb-85d7-33947ab95910",
         "title": "Trading Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1771629091,
         "date_posted": 1771629091,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050430",
@@ -241310,7 +241293,7 @@
         "company_name": "Sainsbury's",
         "id": "b1141e45-27bb-44e4-869a-bf58eecf1bf8",
         "title": "Trading Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1772665716,
         "date_posted": 1772665716,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052016",
@@ -243469,5 +243452,133 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "e5905fff-5eaa-4100-85f9-c123e42e858f",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1772708169,
+        "date_posted": 1772708169,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052017",
+        "locations": [
+            "Aldershot, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "5c0f27cb-60c1-4f36-8877-af63562809d6",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1772708168,
+        "date_posted": 1772708168,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051819",
+        "locations": [
+            "Brighton, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "fa606b5a-c55f-42be-8c0c-0a85e7642b7e",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1772708076,
+        "date_posted": 1772708076,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051816",
+        "locations": [
+            "Brighton, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "d700d982-2214-4e52-ade4-1e98106e1b9d",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1772707928,
+        "date_posted": 1772707928,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052064",
+        "locations": [
+            "Dartford District, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "95f00817-142a-49f8-bdb2-3de4838d7c7c",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1772707939,
+        "date_posted": 1772707939,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052018",
+        "locations": [
+            "Aldershot, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "12822553-058a-42c2-bebf-ccedd3da1b1b",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1772707947,
+        "date_posted": 1772707947,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051822",
+        "locations": [
+            "Brighton, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The University of Edinburgh",
+        "id": "13fa321b-5186-4bf6-ac9c-fd96afa2414e",
+        "title": "Postdoctoral Research Associate - Geological Hydrogen Storage",
+        "active": true,
+        "date_updated": 1772707853,
+        "date_posted": 1772707853,
+        "url": "https://elxw.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/13864",
+        "locations": [
+            "Edinburgh, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/The-University-Of-Edinburgh",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
     }
 ]
