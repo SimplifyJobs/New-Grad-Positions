@@ -238354,7 +238354,7 @@
         "company_name": "Sherwin-Williams",
         "id": "8c055751-fb5c-4466-935b-66c35ee92114",
         "title": "Branch Spray Equipment Lead",
-        "active": true,
+        "active": false,
         "date_updated": 1772550575,
         "date_posted": 1772550575,
         "url": "https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2605041",
@@ -241806,7 +241806,7 @@
         "company_name": "RTX",
         "id": "d43d274a-ba57-4612-b43c-5483dcfaf43b",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1772666425,
         "date_posted": 1772666425,
         "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineer-I--Onsite-_01828221",
@@ -243696,5 +243696,106 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Truist Bank",
+        "id": "414efc62-ad2f-44c4-91ef-8dc630a6966e",
+        "title": "Associate AI Engineer",
+        "active": true,
+        "date_updated": 1772725909,
+        "date_posted": 1772725909,
+        "url": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Charlotte-NC/Associate-AI-Engineer_R0111846",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Truist-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Capital One",
+        "id": "bd5eed81-29c9-43be-94e7-a7591ed5ef67",
+        "title": "Associate - Software Engineer",
+        "active": true,
+        "date_updated": 1772725744,
+        "date_posted": 1772725744,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad_R236921",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Capital-One",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Novanta",
+        "id": "1244a08f-e777-4f26-85b0-ef58f3ea1dda",
+        "title": "Test Technician 1",
+        "active": true,
+        "date_updated": 1772725360,
+        "date_posted": 1772725360,
+        "url": "https://novanta.wd5.myworkdayjobs.com/Novanta-Careers/job/Bedford-MA/Test-Technican-I_R009072",
+        "locations": [
+            "Bedford, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Novanta",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "J.Crew",
+        "id": "8d35d507-922e-4542-ab47-29f4153c5f73",
+        "title": "Ecommerce Assistant",
+        "active": true,
+        "date_updated": 1772724624,
+        "date_posted": 1772724624,
+        "url": "https://jcrew.wd1.myworkdayjobs.com/MadewellCareers/job/New-York-NY-USA-Headquarters/Ecommerce-Assistant_123388",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/JCrew",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Cambridge Associates",
+        "id": "71736e75-ff73-4c5b-8c85-4567e81a66f5",
+        "title": "Investment Analyst Program",
+        "active": true,
+        "date_updated": 1772724637,
+        "date_posted": 1772724637,
+        "url": "https://cambridgeassociates.wd5.myworkdayjobs.com/Handshake/job/Boston/Investment-Analyst-Program---Summer-2026-Class_JR0000016",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cambridge-Associates",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
