@@ -227830,7 +227830,7 @@
         "company_name": "Fiserv",
         "id": "aaec7113-1da2-44fc-919b-b4986c930962",
         "title": "API Integrations Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1772061750,
         "date_posted": 1772061750,
         "url": "https://fiserv.wd5.myworkdayjobs.com/ext/job/Coral-Springs-Florida/API-Integrations-Analyst_R-10388214",
@@ -242882,5 +242882,163 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "White Cap Supply Holdings",
+        "id": "9782d54d-6dc3-4370-b30a-70078ab1e340",
+        "title": "Application Engineer",
+        "active": true,
+        "date_updated": 1772680902,
+        "date_posted": 1772680902,
+        "url": "https://whitecap.wd1.myworkdayjobs.com/careers/job/Orlando_32822/Application-Engineer---VAS_WCJR-027987-1",
+        "locations": [
+            "Orlando, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/White-Cap-Supply-Holdings",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Globus Medical",
+        "id": "ace4b2e4-8a18-41e7-927a-342e24488383",
+        "title": "Associate Product Manager",
+        "active": true,
+        "date_updated": 1772680631,
+        "date_posted": 1772680631,
+        "url": "https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Audubon-PA/Associate-Product-Manager_JR105828",
+        "locations": [
+            "King of Prussia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Globus-Medical",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Globus Medical",
+        "id": "5f97452d-0967-4e5f-8591-3a06f82194b5",
+        "title": "Associate Product Manager",
+        "active": true,
+        "date_updated": 1772680637,
+        "date_posted": 1772680637,
+        "url": "https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Audubon-PA/Associate-Product-Manager_JR105687",
+        "locations": [
+            "King of Prussia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Globus-Medical",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Globus Medical",
+        "id": "4f435bab-5bee-4e7d-90f1-24528c436f63",
+        "title": "Associate Product Manager",
+        "active": true,
+        "date_updated": 1772680631,
+        "date_posted": 1772680631,
+        "url": "https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Audubon-PA/Associate-Product-Manager_JR105084",
+        "locations": [
+            "King of Prussia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Globus-Medical",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "BECU",
+        "id": "0c12b0f8-5ffe-44ff-a088-602110ac5041",
+        "title": "Statistical Modeling Analyst",
+        "active": true,
+        "date_updated": 1772680546,
+        "date_posted": 1772680546,
+        "url": "https://becu.wd1.myworkdayjobs.com/en-US/External/job/Tukwila-WA/Statistical-Modeling-Analyst_R-13014",
+        "locations": [
+            "Tukwila, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/cc81cf73-b8d2-4378-bc56-442cb934a1b7",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Stryker",
+        "id": "99ffeecb-8a1d-418c-98b1-14ae87e80bac",
+        "title": "Associate Installation Technician",
+        "active": true,
+        "date_updated": 1772680387,
+        "date_posted": 1772680387,
+        "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Des-Moines-Iowa/Associate-Installation-Technician---Des-Moines--IA---Omaha--NE_R559950",
+        "locations": [
+            "Des Moines, IA",
+            "Omaha, NE"
+        ],
+        "company_url": "https://simplify.jobs/c/Stryker",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "IDEXX",
+        "id": "f6bd529c-7b90-41cd-9373-dd7c662bd89a",
+        "title": "Data Onboarding Technician",
+        "active": true,
+        "date_updated": 1772680108,
+        "date_posted": 1772680108,
+        "url": "https://idexx.wd1.myworkdayjobs.com/IDEXX/job/London-United-Kingdom/Data-Onboarding-Tech_J-051257",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/IDEXX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "BorgWarner",
+        "id": "6ab1c532-f967-4db1-806d-6c9b8af277bf",
+        "title": "Engineering Technician",
+        "active": true,
+        "date_updated": 1772679568,
+        "date_posted": 1772679568,
+        "url": "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Wilsonville---Oregon---USA/Engineering-Technician_R2026-0581",
+        "locations": [
+            "Tualatin, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/BorgWarner",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
