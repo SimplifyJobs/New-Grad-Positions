@@ -1,21 +1,5 @@
 [
     {
-        "date_updated": 1752022455,
-        "url": "https://jobs.lever.co/ranger/38ef5184-0c8a-4980-836f-95e23e83ae7d",
-        "company_name": "Ranger",
-        "title": "Forward-Deployed Test Engineer",
-        "locations": [
-            "San Francisco, CA"
-        ],
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "source": "RangerBender",
-        "id": "2fe66a91-a965-48b8-b659-1f89ba6a4563",
-        "date_posted": 1752022455,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "source": "Simplify",
         "category": "Software",
         "company_name": "Sierra Nevada Coporation",
@@ -242814,7 +242798,7 @@
         "company_name": "Gain Theory",
         "id": "67e52517-9a1d-4dab-ae1e-4d6ed1e75d59",
         "title": "Senior Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1772678521,
         "date_posted": 1770939802,
         "url": "https://job-boards.greenhouse.io/gaintheory/jobs/8417365002",
