@@ -119168,7 +119168,7 @@
         "company_name": "The Boeing Company",
         "id": "8810576f-b428-42bd-ab6c-fdb329728fb6",
         "title": "Audiovisual Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1765378024,
         "date_posted": 1765378024,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Herndon-VA/Audiovisual-Engineer_JR2025488037-1",
@@ -180069,7 +180069,7 @@
         "company_name": "KeyBank",
         "id": "ff8fc7e5-a24d-41fa-9ba9-9d5158aba556",
         "title": "Quant Analytics Associate-Trading & Counterparty Risk Analytics",
-        "active": false,
+        "active": true,
         "date_updated": 1769643910,
         "date_posted": 1769643910,
         "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Cleveland-OH/Quant-Analytics-Associate-Trading---Counterparty-Risk-Analytics_R-37525",
@@ -182505,7 +182505,7 @@
         "company_name": "Fiserv",
         "id": "1e2a6b70-dfc9-437c-b929-1a82189931e0",
         "title": "Product Management Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1769729925,
         "date_posted": 1769729925,
         "url": "https://fiserv.wd5.myworkdayjobs.com/ext/job/Hagerstown-Maryland/Product-Management-Analyst-_R-10380252",
@@ -208253,7 +208253,7 @@
         "company_name": "Franklin Templeton",
         "id": "317c4254-bd7d-4af9-9440-0a846af3c135",
         "title": "Investment Associate - Quantitative Research - FT Investment Solutions",
-        "active": false,
+        "active": true,
         "date_updated": 1771024703,
         "date_posted": 1771024703,
         "url": "https://franklintempleton.wd5.myworkdayjobs.com/Primary-External-1/job/Boston-Massachusetts-United-States-of-America/Investment-Associate--Quantitative-Research---FT-Investment-Solutions-_862786-1",
@@ -214219,7 +214219,7 @@
         "company_name": "Mass General Brigham",
         "id": "4946613c-d0c2-405f-b06a-9ffdb4c04dbc",
         "title": "Applications Analyst 1",
-        "active": false,
+        "active": true,
         "date_updated": 1771458120,
         "date_posted": 1771458120,
         "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Boston-MA/Applications-Analyst-I_RQ4052696",
@@ -219309,7 +219309,7 @@
         "company_name": "The Boeing Company",
         "id": "0f27de0d-edf6-4740-9e39-467903e2f40e",
         "title": "Entry Level Software Engineer - Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1771469141,
         "date_posted": 1771469141,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tukwila-WA/Entry-Level-Software-Engineer---Developer_JR2026497210-1",
@@ -221145,7 +221145,7 @@
         "company_name": "Sainsbury's",
         "id": "370b884b-686d-4b76-baeb-17fc6e2a7a95",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1771772908,
         "date_posted": 1771772908,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050593",
@@ -221888,7 +221888,7 @@
         "company_name": "Sainsbury's",
         "id": "5fbc5390-99ba-4c36-a718-b28eaab3c6b0",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1771756474,
         "date_posted": 1771756474,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050558",
@@ -243649,7 +243649,7 @@
         "company_name": "Sainsbury's",
         "id": "e5a2f9f3-0cc2-4f07-b518-785e7ef4aa47",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1772723423,
         "date_posted": 1772723423,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052112",
@@ -244869,6 +244869,232 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Leidos",
+        "id": "fc030413-0f4d-4449-8e6a-76dc6a366e10",
+        "title": "Associate AI Software Developer",
+        "active": true,
+        "date_updated": 1772756738,
+        "date_posted": 1772756738,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Gaithersburg-MD/Associate-AI-Software-Developer_R-00177628",
+        "locations": [
+            "Eagan, MN",
+            "Gaithersburg, MD",
+            "Egg Harbor Township, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Abbott",
+        "id": "fc4ffa18-a04f-4270-83ac-a4ad6a3dd29b",
+        "title": "Design / Product Engineer",
+        "active": true,
+        "date_updated": 1772756248,
+        "date_posted": 1772756248,
+        "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Minnesota---St-Paul/Design---Product-Engineer_31143616-1",
+        "locations": [
+            "St Paul, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Abbott",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Johnson & Johnson",
+        "id": "6083e4c3-4b02-4ecc-9ada-d31860b7d84b",
+        "title": "Full Stack Software Engineer",
+        "active": true,
+        "date_updated": 1772756053,
+        "date_posted": 1772756053,
+        "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/Full-Stack-Software-Engineer_R-061665-1",
+        "locations": [
+            "Bridgewater Township, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Johnson-Johnson",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northrop Grumman",
+        "id": "c8a4e485-f1a1-4ad5-b2f6-d96da1852aa5",
+        "title": "Systems Engineer",
+        "active": true,
+        "date_updated": 1772755954,
+        "date_posted": 1772755954,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Systems-Engineer---Level-2-or-Level-3_R10224812",
+        "locations": [
+            "Aurora, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Boeing Company",
+        "id": "2c2f0c87-ec6d-4b36-9126-185a4b56b7ca",
+        "title": "Data Analytics Quality Engineer",
+        "active": true,
+        "date_updated": 1772755918,
+        "date_posted": 1772755918,
+        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Quality-Engineer--Associate-or-Mid-Level-_JR2025475714-1",
+        "locations": [
+            "Hazelwood, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "General Motors",
+        "id": "7f07b83f-6b6f-4722-9fc9-391681b0c844",
+        "title": "Software Engineer \u2013 Early Career - Autonomous Vehicles Software Systems",
+        "active": true,
+        "date_updated": 1772755792,
+        "date_posted": 1772755792,
+        "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/Software-Engineer--Autonomous-Vehicles-Software-Systems---Early-Career_JR-202604759",
+        "locations": [
+            "Sunnyvale, CA",
+            "Warren, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Motors",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Abbott",
+        "id": "1643a17c-dbe5-4655-a188-989a9b10e8a2",
+        "title": "Design / Product Engineer",
+        "active": true,
+        "date_updated": 1772755804,
+        "date_posted": 1772755804,
+        "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---Minnesota---St-Paul/Design---Product-Engineer_31143616",
+        "locations": [
+            "St Paul, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Abbott",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "TRIMEDX",
+        "id": "af5c419c-a1c1-4850-930b-ad1a0544733f",
+        "title": "Sterilization Technician 1",
+        "active": true,
+        "date_updated": 1772755728,
+        "date_posted": 1772755728,
+        "url": "https://trimedx.wd1.myworkdayjobs.com/TMX/job/Indianapolis-IN/Sterilization-Tech-I_R13595",
+        "locations": [
+            "Indianapolis, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/TRIMEDX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "FactSet",
+        "id": "d4ee3029-3697-4154-b40d-c9d5c0cdb97f",
+        "title": "Client Solutions Associate",
+        "active": true,
+        "date_updated": 1772755422,
+        "date_posted": 1772755422,
+        "url": "https://factset.wd108.myworkdayjobs.com/FactSetCareers/job/Chicago-IL-USA/Client-Solutions-Associate---Chicago--IL--June-2026-_R29417",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/FactSet",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Crowdstrike",
+        "id": "5a355f5a-ff26-4008-b537-7b083bc35bae",
+        "title": "Engineer 1 - Cloud & AI Runtime",
+        "active": true,
+        "date_updated": 1772755316,
+        "date_posted": 1772755316,
+        "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Engineer-I---Cloud---AI-Runtime_R27805",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Crowdstrike",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Illumina",
+        "id": "e8775089-b39a-45e3-aade-361fe8497a77",
+        "title": "Quality Data Analyst",
+        "active": true,
+        "date_updated": 1772755008,
+        "date_posted": 1772755008,
+        "url": "https://illumina.wd1.myworkdayjobs.com/illumina-careers/job/US---California---San-Diego/Quality-Data-Analyst_42271-JOB-1",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Illumina",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
