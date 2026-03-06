@@ -245840,5 +245840,23 @@
         "date_posted": 1772814373,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1772814508,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://careers-riversideresearch.icims.com/jobs/4146/junior-research-scientist---security-engineering/job",
+        "company_name": "Riverside Research",
+        "title": "Junior Research Scientist - Security Engineering",
+        "locations": [
+            "Beavercreek, OH"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "8f5abeec-64e9-4e9e-b652-3099867be757",
+        "date_posted": 1772814508,
+        "company_url": "",
+        "is_visible": true
     }
 ]

@@ -80,6 +80,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 </thead>
 <tbody>
 <tr>
+<td><strong>Riverside Research</strong></td>
+<td>Junior Research Scientist - Security Engineering</td>
+<td>Beavercreek, OH</td>
+<td><a href="https://careers-riversideresearch.icims.com/jobs/4146/junior-research-scientist---security-engineering/job?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
+<td>0d</td>
+</tr>
+<tr>
 <td><strong>Personalis</strong></td>
 <td>Software Engineer 1</td>
 <td>Fremont, CA</td>
@@ -1200,13 +1207,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>3mo</td>
 </tr>
 <tr>
-<td><strong>Warp</strong></td>
-<td>Software Engineer</td>
-<td>Remote in USA</br>Remote in Canada</td>
-<td><a href="https://job-boards.greenhouse.io/warp/jobs/4324888004?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td>4mo</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/McDonald?utm_source=GHList&utm_medium=company">McDonald's</a></strong></td>
 <td>Software Engineer I C#</td>
 <td>Chicago, IL</td>
@@ -1771,7 +1771,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (1136)</summary>
+<summary>🗃️ Inactive roles (1137)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -5393,6 +5393,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><strong><a href="https://simplify.jobs/c/Visa?utm_source=GHList&utm_medium=company">🔥 Visa</a></strong></td>
 <td>Graduate Software Engineer</td>
 <td>Reading, United Kingdom</td>
+<td>🔒</td>
+<td>4mo</td>
+</tr>
+<tr>
+<td><strong>Warp</strong></td>
+<td>Software Engineer</td>
+<td>Remote in USA</br>Remote in Canada</td>
 <td>🔒</td>
 <td>4mo</td>
 </tr>
@@ -13505,7 +13512,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>3mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/AeroVironment?utm_source=GHList&utm_medium=company">AeroVironment</a></strong></td>
+<td>↳</td>
 <td>Product Engineer 1</td>
 <td>Huntsville, AL</td>
 <td>🔒</td>
