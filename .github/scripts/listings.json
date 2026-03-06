@@ -179466,7 +179466,7 @@
         "company_name": "Clay",
         "id": "291c93ed-5b14-4d0a-ae2b-0aaa990cefee",
         "title": "GTM Data Scientist",
-        "active": false,
+        "active": true,
         "date_updated": 1769642298,
         "date_posted": 1769642298,
         "url": "https://jobs.ashbyhq.com/claylabs/31d3597f-400e-4c12-9692-a5fb6f5e0d03/application",
@@ -226143,7 +226143,7 @@
         "company_name": "Amentum",
         "id": "c4e3f3b5-1c6b-49cd-b742-04b114f07690",
         "title": "Computer Engineer-1",
-        "active": true,
+        "active": false,
         "date_updated": 1771976742,
         "date_posted": 1771976742,
         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-IN-Crane/Computer-Engineer-1_R0154935",
@@ -237511,7 +237511,7 @@
         "company_name": "ATPCO",
         "id": "240805d6-aa34-4d9b-a4c6-c9499543d647",
         "title": "Data Strategist",
-        "active": true,
+        "active": false,
         "date_updated": 1772504475,
         "date_posted": 1772504475,
         "url": "https://jobs.smartrecruiters.com/ATPCO1/744000112209457",
@@ -244029,7 +244029,7 @@
         "company_name": "ATPCO",
         "id": "013a5e77-04c2-4bc1-b882-5d6a71f8e234",
         "title": "Data Strategist",
-        "active": false,
+        "active": true,
         "date_updated": 1772752572,
         "date_posted": 1772752572,
         "url": "https://jobs.smartrecruiters.com/ATPCO1/744000113027323",
@@ -245409,5 +245409,59 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "JP Morgan Chase",
+        "id": "eda6153a-f4c0-4cd7-84ac-50eedad60c6b",
+        "title": "Associate Salesforce Product Manager",
+        "active": true,
+        "date_updated": 1772792540,
+        "date_posted": 1772792540,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210719385",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "5f99ae0b-4e32-49f8-8ba1-baf88cb9f5a2",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1772792539,
+        "date_posted": 1772792539,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052170",
+        "locations": [
+            "Hereford, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "1c47283f-ee8e-4473-8128-02fa9b3216d9",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1772792382,
+        "date_posted": 1772792382,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052173",
+        "locations": [
+            "Blackpool, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
