@@ -205564,7 +205564,7 @@
         "company_name": "Jabil",
         "id": "ab06ea97-b63e-4072-8d86-7ada0dbd8e24",
         "title": "Diagnostic Technician 1",
-        "active": false,
+        "active": true,
         "date_updated": 1770940521,
         "date_posted": 1770940521,
         "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Florence-KY/Diagnostic-Technician-I_J2439622",
@@ -245310,6 +245310,42 @@
             "Dallas, TX"
         ],
         "company_url": "https://simplify.jobs/c/Tangram-Interiors",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Shield AI",
+        "id": "c50d5a57-9e14-4d42-a68c-8a1c1dbed02d",
+        "title": "Staff Technician - Hardware Test",
+        "active": true,
+        "date_updated": 1772782443,
+        "date_posted": 1772782443,
+        "url": "https://jobs.lever.co/shieldai/f7fc236b-08c3-428d-970f-a6b7819abc0f/apply",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Shield-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Information Lab",
+        "id": "12429cea-aabe-4312-8402-1ea9487e3e76",
+        "title": "The Data School - Data Analyst/Consultant",
+        "active": true,
+        "date_updated": 1772782410,
+        "date_posted": 1772782410,
+        "url": "https://jobs.lever.co/theinformationlab/5c48a12b-6906-43d7-bd95-947b562c8701/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Information-Lab",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
