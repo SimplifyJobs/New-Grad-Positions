@@ -55316,7 +55316,7 @@
         "company_name": "iRhythm Technologies",
         "id": "d157a366-4002-4c7e-9ae6-ad3e015f7dc5",
         "title": "System Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1762919459,
         "date_posted": 1761486816,
         "url": "https://irhythmtech.wd5.myworkdayjobs.com/irhythm/job/San-Francisco-CA/System-Engineer-I_JR747",
@@ -207645,7 +207645,7 @@
         "company_name": "Latitude",
         "id": "7d9b5e69-7d54-4193-8223-7d3541c19c66",
         "title": "Production Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1771024606,
         "date_posted": 1771024606,
         "url": "https://jobs.lever.co/latitudeinc/3bda724d-2015-48d4-a1eb-185c13830354/apply",
@@ -225298,7 +225298,7 @@
         "company_name": "Bass Pro Shops",
         "id": "d9e390dc-b61e-44cb-bcfa-8699f60c5af7",
         "title": "Product Specialist - Apparel",
-        "active": true,
+        "active": false,
         "date_updated": 1771948794,
         "date_posted": 1771948794,
         "url": "https://basspro.wd1.myworkdayjobs.com/careers/job/Springfield-MO-Bass-Pro-Shops-Base-Camp/Product-Specialist---Apparel_R248755",
@@ -228558,7 +228558,7 @@
         "company_name": "Varian",
         "id": "5270bd6e-bfe8-4cb1-94e7-ab6e8dd73aed",
         "title": "Field Service Engineer - Proton Therapy",
-        "active": true,
+        "active": false,
         "date_updated": 1772062287,
         "date_posted": 1772062287,
         "url": "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/WAS-PA/Field-Service-Engineer--Proton-Therapy---New-York--NY_R-27048-1",
@@ -245794,6 +245794,33 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Excellus BCBS",
+        "id": "b83b83cc-c13d-4c1c-a766-338bea37bbd9",
+        "title": "Software Engineer 2",
+        "active": true,
+        "date_updated": 1772811323,
+        "date_posted": 1772811323,
+        "url": "https://lthc.wd1.myworkdayjobs.com/en-US/ExcellusBCBSCareers/job/Rochester/Software-Engineer-II-III-IV_JR102945-2",
+        "locations": [
+            "Rochester, NY",
+            "Utica, NY",
+            "Elmira, NY",
+            "Albany, NY",
+            "Binghamton, NY",
+            "Syracuse, NY",
+            "Buffalo, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Excellus-BCBS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
         ]
     }
 ]
