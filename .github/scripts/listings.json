@@ -2,24 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Silvus Technologies",
-        "id": "7c0aac85-3ba5-4b5a-9b5c-f61d49a8a8d5",
-        "title": "Software Engineer I - Sqa",
-        "active": false,
-        "date_updated": 1755700443,
-        "date_posted": 1752078283,
-        "url": "https://job-boards.greenhouse.io/silvus/jobs/4772754008",
-        "locations": [
-            "Los Angeles, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Silvus-Tech",
-        "is_visible": false,
-        "sponsorship": "U.S. Citizenship is Required",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Cox",
         "id": "f935ee5a-c392-44e1-809b-f9d430745018",
         "title": "Software Engineer I",
@@ -230145,7 +230127,7 @@
         "company_name": "The Home Depot",
         "id": "54c8da43-ec5e-4993-9d80-f7284120ae8f",
         "title": "Associate Data Scientist - Tools & Automation",
-        "active": false,
+        "active": true,
         "date_updated": 1772120152,
         "date_posted": 1772120152,
         "url": "https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Associate-Data-Scientist---Tools---Automation_Req169893",
