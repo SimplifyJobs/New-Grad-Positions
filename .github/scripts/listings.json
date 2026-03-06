@@ -2,23 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Cox",
-        "id": "6bdc6618-41d3-4c4e-bef1-c978b0efb97b",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1752081665,
-        "date_posted": 1752081665,
-        "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I_R202564424-1",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Cox",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Shield AI",
         "id": "72c508d4-e623-4eb8-bec5-752f6f35f948",
         "title": "Software Engineer I - Hardware Test",
