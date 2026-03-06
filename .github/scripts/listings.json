@@ -81559,7 +81559,7 @@
         "company_name": "Fanatics",
         "id": "b23221d6-057a-429a-8733-b1bc699ade26",
         "title": "Quantitative Analyst 1",
-        "active": true,
+        "active": false,
         "date_updated": 1761937301,
         "date_posted": 1761874204,
         "url": "https://fa-exki-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/22824",
@@ -104161,7 +104161,7 @@
         "company_name": "Arjo",
         "id": "265f643a-f0b6-44c6-af2b-c87e34590064",
         "title": "Field Service Engineer - North London - Essex",
-        "active": true,
+        "active": false,
         "date_updated": 1764199473,
         "date_posted": 1764199473,
         "url": "https://jobs.arjo.com/job/South-Region-UK,-Field-based-(-Field-Service-Engineer-North-London,Essex,-Kent-Lond/1271038501/?ats=successfactors",
@@ -148416,7 +148416,7 @@
         "company_name": "Grayce",
         "id": "9ddbb633-149d-412d-9714-028c1eb75d93",
         "title": "Graduate Digital Analyst - Basildon",
-        "active": true,
+        "active": false,
         "date_updated": 1767741485,
         "date_posted": 1767741485,
         "url": "https://apply.workable.com/grayce/j/B5D022B13D/apply",
@@ -166766,7 +166766,7 @@
         "company_name": "Danaher Corporation",
         "id": "db6fac8a-9ebd-4d65-b3cd-91b1271e1a42",
         "title": "Field Service Engineer - South West England",
-        "active": true,
+        "active": false,
         "date_updated": 1768923905,
         "date_posted": 1768923905,
         "url": "https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/GBR---Remote/Field-Service-Engineer--South-West-England-_R1303051-1",
@@ -166786,7 +166786,7 @@
         "company_name": "Danaher Corporation",
         "id": "62322cd3-461d-4647-9242-c2dc0cd8fea0",
         "title": "Field Service Engineer - South West England",
-        "active": true,
+        "active": false,
         "date_updated": 1768923904,
         "date_posted": 1768923904,
         "url": "https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/GBR---Remote/Field-Service-Engineer--South-West-England-_R1303050",
@@ -169947,7 +169947,7 @@
         "company_name": "Wachter",
         "id": "20133682-1e65-4cfd-9488-c552aa92e794",
         "title": "Staging and Configuration Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1768955729,
         "date_posted": 1768955729,
         "url": "https://jobs.lever.co/wachter/68b125d7-94d1-4dad-951c-5cc3793aadde/apply",
@@ -239860,7 +239860,7 @@
         "company_name": "RTX",
         "id": "63703d4d-13ff-4bec-a203-233fd1628666",
         "title": "2026 Fulltime - Electronics Design Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1772591548,
         "date_posted": 1772591548,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-GOLETA-B01--6825-Cortona-Dr--BLDG-B01/XMLNAME-2026-Fulltime---Electronics-Design-Engineer-I---Onsite_01826209",
@@ -242200,7 +242200,7 @@
         "company_name": "AHEAD",
         "id": "7a86410c-e966-4083-94a5-5d0009b0c474",
         "title": "Rack Assembly Technician 1",
-        "active": true,
+        "active": false,
         "date_updated": 1772677120,
         "date_posted": 1772677120,
         "url": "https://jobs.lever.co/thinkahead/cb190761-366a-43a3-9fe9-e6cd7a7bc8bd/apply",
@@ -244029,7 +244029,7 @@
         "company_name": "ATPCO",
         "id": "013a5e77-04c2-4bc1-b882-5d6a71f8e234",
         "title": "Data Strategist",
-        "active": true,
+        "active": false,
         "date_updated": 1772752572,
         "date_posted": 1772752572,
         "url": "https://jobs.smartrecruiters.com/ATPCO1/744000113027323",
@@ -245184,7 +245184,7 @@
         "company_name": "Sainsbury's",
         "id": "a2f2e52a-2723-4f24-b6a7-80bbd157ee06",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1772762909,
         "date_posted": 1772762909,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052166",
@@ -245349,5 +245349,65 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "EXL",
+        "id": "5046ff9b-750a-4830-816a-5222a19a0e04",
+        "title": "Manager-Data Product Analyst",
+        "active": true,
+        "date_updated": 1772789612,
+        "date_posted": 1772665735,
+        "url": "https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/10945",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/EXL",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Moog ",
+        "id": "9b729f9b-fc1c-4ad8-89f7-fb53d2eab51f",
+        "title": "Associate Development Engineer",
+        "active": true,
+        "date_updated": 1772790409,
+        "date_posted": 1772494382,
+        "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Associate-Development-Engineer_R-26-16395-1",
+        "locations": [
+            "Buffalo, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Moog",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Encord",
+        "id": "80ee2992-a15d-45d4-b625-a74136bdeac0",
+        "title": "Growth Engineer",
+        "active": true,
+        "date_updated": 1772789481,
+        "date_posted": 1762620665,
+        "url": "https://jobs.lever.co/CordTechnologies/c385a814-1c7d-4d22-8af0-d32f833131ba/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Encord",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
