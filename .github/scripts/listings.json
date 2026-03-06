@@ -118928,7 +118928,7 @@
         "company_name": "Leidos",
         "id": "deb07f7d-f3d0-4255-a529-010cf9b5c39c",
         "title": "Electronics Mechanical Assembly Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1765372138,
         "date_posted": 1763889847,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Electronics-Mechanical-Assembly-Technician_R-00168633",
@@ -152332,7 +152332,7 @@
         "company_name": "Rolls-Royce",
         "id": "9c1af1cf-5442-4e42-9fa8-678b254dc38e",
         "title": "Electronics Technician - Metrology / Electronics technician - Metrology",
-        "active": false,
+        "active": true,
         "date_updated": 1767915839,
         "date_posted": 1767915839,
         "url": "https://rollsroyce.wd3.myworkdayjobs.com/professional/job/Lachine/Technicien-en-lectronique---Mtrologie---Electronics-technician---Metrology_JR6148542",
@@ -245463,5 +245463,51 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Wheely",
+        "id": "fc8b8739-1b1e-457f-9a51-024e85f733da",
+        "title": "Associate Data Scientist - Operations Research",
+        "active": true,
+        "date_updated": 1772793154,
+        "date_posted": 1772793154,
+        "url": "https://boards.greenhouse.io/wheely/jobs/7655292003",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Wheely",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Cisco",
+        "id": "fe426872-e448-43b4-8224-e8f7a6f697e7",
+        "title": "Product Management Engineer 2",
+        "active": true,
+        "date_updated": 1772792840,
+        "date_posted": 1772792840,
+        "url": "https://careers.cisco.com/global/en/job/2007764",
+        "locations": [
+            "Seattle, WA",
+            "Milpitas, CA",
+            "SF",
+            "Research Triangle, Durham, NC",
+            "Richardson, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Cisco",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
