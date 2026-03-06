@@ -227006,7 +227006,7 @@
         "company_name": "Sainsbury's",
         "id": "a75aa2da-30d2-4ce3-953c-f42540f8eb9c",
         "title": "Trading Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1772003714,
         "date_posted": 1772003714,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050701",
@@ -245075,6 +245075,181 @@
             "San Diego, CA"
         ],
         "company_url": "https://simplify.jobs/c/Illumina",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Integrity",
+        "id": "0413491f-2810-4e44-81ad-ed0c0fbf950b",
+        "title": "Data Integrity Specialist",
+        "active": true,
+        "date_updated": 1772763748,
+        "date_posted": 1772763748,
+        "url": "https://integritymarketing.wd1.myworkdayjobs.com/en-US/Integrity/job/St-Albans-WV/Data-Integrity-Specialist_JR3709",
+        "locations": [
+            "Charleston, WV"
+        ],
+        "company_url": "https://simplify.jobs/c/Integrity",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "SpryPoint",
+        "id": "8a5792ca-e91d-46de-baa4-1081901c9e94",
+        "title": "Data Conversion Engineer",
+        "active": true,
+        "date_updated": 1772763248,
+        "date_posted": 1772763248,
+        "url": "https://jobs.lever.co/sprypointservices/ea33fe62-4334-4eac-9b05-9eac7f6312cc/apply",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/SpryPoint",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Patreon",
+        "id": "07249fc3-2757-4803-8ad1-eb54cb009f11",
+        "title": "Fullstack Software Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1772763429,
+        "date_posted": 1772763429,
+        "url": "https://jobs.ashbyhq.com/patreon/7302033c-d884-4e13-b6d4-74fcb16fe08a/application",
+        "locations": [
+            "SF",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Patreon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Yes Energy",
+        "id": "bc84ca20-b0e0-4895-9996-c1718c150dd2",
+        "title": "Data Validation Analyst 1",
+        "active": true,
+        "date_updated": 1772763176,
+        "date_posted": 1772763176,
+        "url": "https://job-boards.greenhouse.io/yesenergy/jobs/5143205008",
+        "locations": [
+            "San Dimas, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Yes-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "b5c26322-c2db-4dd4-84e9-71e15855c6b2",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1772762915,
+        "date_posted": 1772762915,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052167",
+        "locations": [
+            "Watford, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "a2f2e52a-2723-4f24-b6a7-80bbd157ee06",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1772762909,
+        "date_posted": 1772762909,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052166",
+        "locations": [
+            "Beaconsfield, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Melaleuca",
+        "id": "b11438ad-6646-499b-aec1-a51b48d26c34",
+        "title": "Software Engineer 1 - Business Intelligence",
+        "active": true,
+        "date_updated": 1772762776,
+        "date_posted": 1772762776,
+        "url": "https://careers-melaleuca.icims.com/jobs/9067/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Idaho Falls, ID"
+        ],
+        "company_url": "https://simplify.jobs/c/Melaleuca",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Corebridge Financial",
+        "id": "61d868bf-57dc-4559-9950-e804948e72f4",
+        "title": "Associate Analyst - Data and Analytics Platforms",
+        "active": true,
+        "date_updated": 1772762666,
+        "date_posted": 1772762666,
+        "url": "https://corebridgefinancial.wd1.myworkdayjobs.com/CorebridgeFinancial/job/TX-Houston/Associate-Analyst---Data-and-Analytics-Platforms_JR2600301",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Corebridge-Financial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Accenture",
+        "id": "ce022b58-cb77-4c8e-8ac6-e4892cec3566",
+        "title": "Full Stack Engineer",
+        "active": true,
+        "date_updated": 1772763825,
+        "date_posted": 1766447322,
+        "url": "https://boards.greenhouse.io/accenturefederalservices/jobs/4627938006",
+        "locations": [
+            "Springfield, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Accenture-FS",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
