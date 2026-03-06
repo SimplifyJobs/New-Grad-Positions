@@ -245822,5 +245822,23 @@
             "Bachelor's",
             "Associate's"
         ]
+    },
+    {
+        "date_updated": 1772814373,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://job-boards.greenhouse.io/personalisinc/jobs/7652896003",
+        "company_name": "Personalis",
+        "title": "Software Engineer 1",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "c1625d77-9de0-4e4f-9495-1d8c1fae474f",
+        "date_posted": 1772814373,
+        "company_url": "",
+        "is_visible": true
     }
 ]
