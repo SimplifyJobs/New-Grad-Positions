@@ -187065,7 +187065,7 @@
         "company_name": "BlackRock",
         "id": "7624e113-cdf6-4e17-aa86-5dd806000b9b",
         "title": "Java Engineer - Analyst/Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1770074566,
         "date_posted": 1770074566,
         "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/Edinburgh-Scotland/Java-Engineer--Analyst-Associate_R260487",
@@ -244772,7 +244772,7 @@
         "company_name": "Leidos",
         "id": "fc030413-0f4d-4449-8e6a-76dc6a366e10",
         "title": "Associate AI Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1772756738,
         "date_posted": 1772756738,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Gaithersburg-MD/Associate-AI-Software-Developer_R-00177628",
@@ -247115,5 +247115,140 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "HPR (Hyannis Port Research)",
+        "id": "805f81b4-b6dd-4279-b384-4d0dbfbbb72b",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1772850313,
+        "date_posted": 1772850313,
+        "url": "https://job-boards.greenhouse.io/hyannisportresearch/jobs/7651606003",
+        "locations": [
+            "Needham, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/HyannisPortResearch",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Cincinnati Children\u2019s Hospital and Medical Center",
+        "id": "36034137-c316-4e39-a93a-13a366a039f6",
+        "title": "Business Intelligence Analyst",
+        "active": true,
+        "date_updated": 1772850146,
+        "date_posted": 1772850146,
+        "url": "https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Burnet-Campus/Business-Intelligence-Analyst_JR218015",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Cincinnati-Childrens-Hospital-And-Medical-Center",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "dfaa88aa-6867-4a2f-8366-394931fe87ea",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1772849764,
+        "date_posted": 1772849764,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052295",
+        "locations": [
+            "Letchworth Garden City, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "EOS IT Solutions",
+        "id": "2452a9b1-23dd-46e5-aab8-3bdda63623e0",
+        "title": "Data Center Repair Technician",
+        "active": true,
+        "date_updated": 1772849651,
+        "date_posted": 1772849651,
+        "url": "https://eosits.com/company/careers/?gh_jid=8453113002",
+        "locations": [
+            "Bowling Green, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/EOS-IT-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "d9edb080-016d-4478-bea1-61b2a8265eb2",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1772849370,
+        "date_posted": 1772849370,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052296",
+        "locations": [
+            "Bolton, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Neuralink",
+        "id": "eb88db8a-82d4-4711-88a2-6aa3bf0891d3",
+        "title": "Software Engineer - Pathology and Digital Imaging",
+        "active": true,
+        "date_updated": 1772849210,
+        "date_posted": 1772849210,
+        "url": "https://boards.greenhouse.io/neuralink/jobs/7656401003",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Neuralink",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Woongjin",
+        "id": "12f9b72f-acc7-412d-8bb2-5a2e9d1a972e",
+        "title": "Java Developer",
+        "active": true,
+        "date_updated": 1772849082,
+        "date_posted": 1772849082,
+        "url": "https://jobs.smartrecruiters.com/WJCompany/744000113287272",
+        "locations": [
+            "Savannah, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Woongjin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
