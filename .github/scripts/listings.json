@@ -2,23 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Shield AI",
-        "id": "72c508d4-e623-4eb8-bec5-752f6f35f948",
-        "title": "Software Engineer I - Hardware Test",
-        "active": false,
-        "date_updated": 1752185283,
-        "date_posted": 1752185283,
-        "url": "https://jobs.lever.co/shieldai/38178f1e-34c5-481d-9914-c18a2263776f/apply",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Shield-AI",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Chewy",
         "id": "de53c64f-d4d0-4bf2-afad-10432609d156",
         "title": "Software Engineer I",
@@ -82327,24 +82310,6 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Jane-Street",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Celonis",
-        "id": "49b3ea05-8114-48ca-bb78-ba04d4361164",
-        "title": "GCDT Analyst - Global Cyber Defense Team",
-        "active": false,
-        "date_updated": 1762819587,
-        "date_posted": 1752185551,
-        "url": "https://job-boards.greenhouse.io/celonis/jobs/6619365003?gh_jid=6619365003",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Celonis",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
