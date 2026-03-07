@@ -220826,7 +220826,7 @@
         "company_name": "Northrop Grumman",
         "id": "5a267649-90e5-43bf-9eb7-3f245f5dd43c",
         "title": "Configuration Data Management Controller",
-        "active": false,
+        "active": true,
         "date_updated": 1771728214,
         "date_posted": 1771728214,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/Configuration-Data-Management-Controller-2-3_R10223669",
@@ -246952,5 +246952,186 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Amentum",
+        "id": "d0e60d55-d698-4726-bb58-19f1d05f8d25",
+        "title": "C or C++ Junior Developer",
+        "active": true,
+        "date_updated": 1772842555,
+        "date_posted": 1772842555,
+        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/C-or-C---Junior-Developer_R0155909-1",
+        "locations": [
+            "Dahlgren, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amentum",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Comcast",
+        "id": "9ff1eed7-d7f5-4bcb-85ff-8596ed077e4b",
+        "title": "Machine Learning Engineer 1",
+        "active": true,
+        "date_updated": 1772842552,
+        "date_posted": 1772842552,
+        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Machine-Learning-Engineer-1_R430663",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Comcast",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amentum",
+        "id": "3a72bba2-57f6-45d5-8cc3-e521a326c6a2",
+        "title": "Java or C++ Database Developer",
+        "active": true,
+        "date_updated": 1772842539,
+        "date_posted": 1772842539,
+        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Java-or-C---Database-Developer_R0155920",
+        "locations": [
+            "Dahlgren, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amentum",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Stanley Black & Decker",
+        "id": "f70d552e-2029-47ca-9c0d-ac88fc6d1ce5",
+        "title": "Service Technician 1",
+        "active": true,
+        "date_updated": 1772842409,
+        "date_posted": 1772842409,
+        "url": "https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Salt-Lake-City-UT-United-States/Service-Technician-I_REQ-1000046469",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Stanley-Black-Decker",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "H.B. Fuller",
+        "id": "b89beb62-30c1-4eed-9f6a-6b287f96727d",
+        "title": "Technical Specialist 1",
+        "active": true,
+        "date_updated": 1772842350,
+        "date_posted": 1772842350,
+        "url": "https://hbfuller.wd1.myworkdayjobs.com/Careers/job/St-Paul-Minnesota-USA/Technical-Specialist-I_R26_0000000558",
+        "locations": [
+            "St Paul, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/HB-Fuller",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CVS Health",
+        "id": "779755e6-180d-45f5-949c-168a6a46d626",
+        "title": "Associate Data Engineer - Enterprise Identity Services",
+        "active": true,
+        "date_updated": 1772842141,
+        "date_posted": 1772842141,
+        "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/AZ---Work-from-home/Associate-Data-Engineer---Enterprise-Identity-Services_R0839728",
+        "locations": [
+            "Arizona"
+        ],
+        "company_url": "https://simplify.jobs/c/CVS-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "QTS",
+        "id": "34e95c09-f9ec-4fad-bc96-f3f1d9275d67",
+        "title": "Investment Analyst",
+        "active": true,
+        "date_updated": 1772842131,
+        "date_posted": 1772842131,
+        "url": "https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/Duluth-GA/Investment-Analyst_R2026-0447-1",
+        "locations": [
+            "Duluth, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/QTS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Applied Materials",
+        "id": "56974fa2-3b47-4f26-817c-f54222582f14",
+        "title": "Associate Product Manager New College Grad",
+        "active": true,
+        "date_updated": 1772841690,
+        "date_posted": 1772841690,
+        "url": "https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Associate-Product-Manager--New-College-Grad--Bachelors---Austin--TX-_R2614157",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Materials",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northrop Grumman",
+        "id": "76463d82-e82d-4a00-bf08-470940f3a75d",
+        "title": "Embedded Software Engineer - Level 1 or 2",
+        "active": true,
+        "date_updated": 1772841609,
+        "date_posted": 1772841609,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/Embedded-Software-Engineer--Level-1-or-2-_R10225179",
+        "locations": [
+            "Dulles, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
