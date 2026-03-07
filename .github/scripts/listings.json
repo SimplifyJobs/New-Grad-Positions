@@ -25294,24 +25294,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Tucows",
-        "id": "cb4a0195-b8de-4371-aa29-dc7a9184c1aa",
-        "title": "Software Engineer 1 - Artificial Intelligence",
-        "active": false,
-        "date_updated": 1761935012,
-        "date_posted": 1752109282,
-        "url": "https://job-boards.greenhouse.io/tucows/jobs/6639788003",
-        "locations": [
-            "Remote in Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Tucows",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Hewlett Packard (HP)",
         "id": "ed92443d-64a2-428b-a0ef-6b6b4ce9e557",
         "title": "AI Lab \u2013 Junior Machine Learning Engineer - AI Lab - GenAI Modelling",
