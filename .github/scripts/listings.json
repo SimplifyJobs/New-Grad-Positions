@@ -82280,42 +82280,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Jane Street",
-        "id": "634a8640-7b13-4ee0-b51b-d03c06a0616a",
-        "title": "Trading Desk Operations Engineer",
-        "active": false,
-        "date_updated": 1752187848,
-        "date_posted": 1752187848,
-        "url": "https://job-boards.greenhouse.io/janestreet/jobs/8070509002",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Jane-Street",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Jane Street",
-        "id": "94833978-b3da-4d7b-8fe2-21b1ddeb9abe",
-        "title": "Quantitative Trader",
-        "active": true,
-        "date_updated": 1752187824,
-        "date_posted": 1752187824,
-        "url": "https://job-boards.greenhouse.io/janestreet/jobs/8070482002",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Jane-Street",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Alignerr",
         "id": "20af41cc-9d50-4c60-b93c-721d559e5ce7",
