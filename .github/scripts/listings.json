@@ -36611,24 +36611,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "10a Labs",
-        "id": "b54e591c-c08a-431c-a7a8-08557180e327",
-        "title": "Research Fellow",
-        "active": false,
-        "date_updated": 1760023815,
-        "date_posted": 1752127753,
-        "url": "https://job-boards.greenhouse.io/10alabs/jobs/4007350009",
-        "locations": [
-            "Washington, DC"
-        ],
-        "company_url": "https://simplify.jobs/c/10a-Labs",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "University of Virginia",
         "id": "0985ed0d-667f-4653-b269-86ee42934af7",
         "title": "Technology Assistant - Student Wage",
@@ -82528,24 +82510,6 @@
             "Remote in Canada"
         ],
         "company_url": "https://simplify.jobs/c/Alignerr",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "10a Labs",
-        "id": "efb9520d-ee90-44bf-96e4-4df2d013f5ea",
-        "title": "AI Red Teamer",
-        "active": false,
-        "date_updated": 1762904936,
-        "date_posted": 1752127757,
-        "url": "https://job-boards.greenhouse.io/10alabs/jobs/4002004009",
-        "locations": [
-            "Washington, DC"
-        ],
-        "company_url": "https://simplify.jobs/c/10a-Labs",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
