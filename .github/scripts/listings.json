@@ -81907,24 +81907,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Black Canyon Consulting",
-        "id": "e176141a-6fbd-427c-ba94-6ea00aa16620",
-        "title": "Software Developer",
-        "active": true,
-        "date_updated": 1752214415,
-        "date_posted": 1752214415,
-        "url": "https://job-boards.greenhouse.io/bcc/jobs/5880038003",
-        "locations": [
-            "Bethesda, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/Black-Canyon-Consulting",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Wash U",
         "id": "ace8bc2b-6513-4a62-bafc-464421bea500",
