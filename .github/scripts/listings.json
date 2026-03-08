@@ -7980,26 +7980,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Berkshire Hathaway Energy",
-        "id": "74f26036-33d9-4200-8dc2-ca925be3aa34",
-        "title": "Software Engineer 1/2/3/Sr",
-        "active": false,
-        "date_updated": 1756207205,
-        "date_posted": 1752271606,
-        "url": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/10003152",
-        "locations": [
-            "Omaha, NE"
-        ],
-        "company_url": "https://simplify.jobs/c/Berkshire-Hathaway-Energy",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Verisk",
         "id": "2206f5f3-7b68-47bd-8600-21f06f9a91b6",
         "title": "Software Engineer 1",
