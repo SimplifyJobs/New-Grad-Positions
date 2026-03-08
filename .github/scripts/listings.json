@@ -1,23 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Chewy",
-        "id": "de53c64f-d4d0-4bf2-afad-10432609d156",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1753969838,
-        "date_posted": 1752191756,
-        "url": "https://boards.greenhouse.io/embed/job_app?token=7062434",
-        "locations": [
-            "Minneapolis, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Chewy",
-        "is_visible": false,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Citadel Securities",
         "id": "ffea2fb6-ddc8-421a-b36a-3cf10b681138",
