@@ -1,117 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Citadel Securities",
-        "id": "ffea2fb6-ddc8-421a-b36a-3cf10b681138",
-        "title": "Quantitative Trader \u2013 University Graduate",
-        "active": false,
-        "date_updated": 1761210472,
-        "date_posted": 1752196371,
-        "url": "https://www.citadelsecurities.com/careers/details/quantitative-trader-university-graduate-us/",
-        "locations": [
-            "Miami, FL",
-            "New York, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Citadel-Securities",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Citadel",
-        "id": "d49ce116-07fc-4b1f-a3b2-32d8e0b6cedc",
-        "title": "Quantitative Research Analyst \u2013 University Graduate",
-        "active": true,
-        "date_updated": 1755284210,
-        "date_posted": 1752196371,
-        "url": "https://www.citadel.com/careers/details/quantitative-research-analyst-university-graduate-europe/",
-        "locations": [
-            "London, UK",
-            "Paris, France",
-            "Dublin, Ireland"
-        ],
-        "company_url": "https://simplify.jobs/c/Citadel",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Citadel Securities",
-        "id": "9f39417b-65f8-44a7-a1f8-63cce9e90313",
-        "title": "Quantitative Research Analyst \u2013 University Graduate",
-        "active": true,
-        "date_updated": 1755268857,
-        "date_posted": 1752196370,
-        "url": "https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-university-graduate-us/",
-        "locations": [
-            "Miami, FL",
-            "New York, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Citadel-Securities",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Citadel Securities",
-        "id": "79054f04-0e8b-45fb-865d-bc789b4acfe9",
-        "title": "Quantitative Research Analyst \u2013 University Graduate",
-        "active": true,
-        "date_updated": 1752196374,
-        "date_posted": 1752196374,
-        "url": "https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-university-graduate-europe/",
-        "locations": [
-            "London, UK",
-            "Paris, France",
-            "Dublin, Ireland"
-        ],
-        "company_url": "https://simplify.jobs/c/Citadel-Securities",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Citadel Securities",
-        "id": "495929ef-4f6f-4cdb-9c26-6156e4966b6b",
-        "title": "Software Engineer \u2013 University Graduate",
-        "active": true,
-        "date_updated": 1755284300,
-        "date_posted": 1752196370,
-        "url": "https://www.citadelsecurities.com/careers/details/software-engineer-university-graduate-us/",
-        "locations": [
-            "Miami, FL",
-            "New York, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Citadel-Securities",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Citadel",
-        "id": "1e5ec141-389c-43d9-8e1b-1e99a59ae8cf",
-        "title": "Quantitative Research Engineer \u2013 University Graduate",
-        "active": true,
-        "date_updated": 1755284243,
-        "date_posted": 1752196364,
-        "url": "https://www.citadel.com/careers/details/quantitative-research-engineer-university-graduate-us/",
-        "locations": [
-            "Miami, FL",
-            "New York, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Citadel",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Jerry",
         "id": "eba56ae9-5f60-4397-b126-d8f6cb306ca6",
@@ -23268,28 +23157,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Citadel",
-        "id": "d724f264-a5fb-4740-bde3-38ab45368cba",
-        "title": "Quantitative Research Analyst \u2013 University Graduate - US",
-        "active": true,
-        "date_updated": 1761857043,
-        "date_posted": 1752196369,
-        "url": "https://www.citadel.com/careers/details/quantitative-research-analyst-university-graduate-us/",
-        "locations": [
-            "Miami, FL",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Citadel",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
         ]
     },
     {
@@ -82188,63 +82055,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Citadel",
-        "id": "efc32a65-4a70-4386-892a-4d0c83f56292",
-        "title": "Quantitative Research Engineer \u2013 PhD Graduate - US",
-        "active": true,
-        "date_updated": 1761860905,
-        "date_posted": 1752196367,
-        "url": "https://www.citadel.com/careers/details/quantitative-research-engineer-phd-graduate-us/",
-        "locations": [
-            "Miami, FL",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Citadel",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Citadel Securities",
-        "id": "d34efe5f-8b16-4631-abb7-2997d0702bcd",
-        "title": "Quantitative Researcher \u2013 PhD Graduate - Europe",
-        "active": true,
-        "date_updated": 1752196368,
-        "date_posted": 1752196368,
-        "url": "https://www.citadelsecurities.com/careers/details/quantitative-researcher-phd-graduate-europe/",
-        "locations": [
-            "London, UK",
-            "Paris, France"
-        ],
-        "company_url": "https://simplify.jobs/c/Citadel-Securities",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Citadel",
-        "id": "6a5a374d-834e-4bb6-992d-4cc74f3f8e8e",
-        "title": "Quantitative Researcher \u2013 PhD Graduate",
-        "active": true,
-        "date_updated": 1761847644,
-        "date_posted": 1752196368,
-        "url": "https://www.citadel.com/careers/details/quantitative-researcher-phd-graduate-us/",
-        "locations": [
-            "Miami, FL",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Citadel",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Wash U",
         "id": "ace8bc2b-6513-4a62-bafc-464421bea500",
@@ -107662,24 +107472,6 @@
             "Bloomington, MN"
         ],
         "company_url": "https://simplify.jobs/c/Aramark",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Citadel",
-        "id": "1ad064d1-ddc7-4b14-8862-a0ac04de00ea",
-        "title": "Global Quantitative Strategies",
-        "active": false,
-        "date_updated": 1761829639,
-        "date_posted": 1752196371,
-        "url": "https://www.citadel.com/careers/details/global-quantitative-strategies-post-doctorate-quantitative-researcher/",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Citadel",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
