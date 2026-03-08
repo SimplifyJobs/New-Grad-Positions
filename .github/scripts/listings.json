@@ -81961,100 +81961,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "C & C Group",
-        "id": "b9c2b8ef-b2e4-4a04-a4c0-12d94ce2a0c9",
-        "title": "Security Construction Field Engineer/Technician",
-        "active": false,
-        "date_updated": 1752198480,
-        "date_posted": 1752198480,
-        "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/2964106",
-        "locations": [
-            "Chesterfield, MO"
-        ],
-        "company_url": "https://simplify.jobs/c/c40b815d-9e10-4fce-9a09-590949f3ebcc",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "C & C Group",
-        "id": "d20cbf12-4cfa-4ca9-88e6-e176bde09d13",
-        "title": "Fire Safety Field Engineer/Technician",
-        "active": false,
-        "date_updated": 1752198476,
-        "date_posted": 1752198476,
-        "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/2981272",
-        "locations": [
-            "Springfield, MO"
-        ],
-        "company_url": "https://simplify.jobs/c/c40b815d-9e10-4fce-9a09-590949f3ebcc",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Engineering Economics",
-        "id": "81d52a8f-1d96-4215-8dac-26650bc86326",
-        "title": "Data Center Mission Critical Commissioning Agent - Electrical & Mechanical",
-        "active": true,
-        "date_updated": 1752198228,
-        "date_posted": 1752198228,
-        "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/2527427",
-        "locations": [
-            "Columbus, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/a4b5859e-de93-40b2-9013-b2a5033ead3f",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Engineering Economics",
-        "id": "e2559e73-8caa-43db-a5e0-d1a03b6a6409",
-        "title": "Data Center Mission Critical Commissioning Agent - Electrical & Mechanical",
-        "active": true,
-        "date_updated": 1752198227,
-        "date_posted": 1752198227,
-        "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/2527589",
-        "locations": [
-            "Washington, DC"
-        ],
-        "company_url": "https://simplify.jobs/c/a4b5859e-de93-40b2-9013-b2a5033ead3f",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Engineering Economics",
-        "id": "43fd014c-59c2-48c4-bc41-90fcd49a31c2",
-        "title": "Data Center Mission Critical Commissioning Agent - Electrical & Mechanical",
-        "active": true,
-        "date_updated": 1752198227,
-        "date_posted": 1752198227,
-        "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/2643642",
-        "locations": [
-            "South Bend, IN"
-        ],
-        "company_url": "https://simplify.jobs/c/a4b5859e-de93-40b2-9013-b2a5033ead3f",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Wash U",
         "id": "ace8bc2b-6513-4a62-bafc-464421bea500",
@@ -246775,6 +246681,50 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Citadel Securities",
+        "id": "d34efe5f-8b16-4631-abb7-2997d0702bcd",
+        "title": "Quantitative Researcher \u2013 PhD Graduate - Europe",
+        "active": true,
+        "date_updated": 1768955568,
+        "date_posted": 1768955568,
+        "url": "https://www.citadelsecurities.com/careers/details/quantitative-researcher-phd-graduate-europe/",
+        "locations": [
+            "Paris, France",
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Citadel-Securities",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Citadel Securities",
+        "id": "495929ef-4f6f-4cdb-9c26-6156e4966b6b",
+        "title": "Software Engineer \u2013 University Graduate - US",
+        "active": true,
+        "date_updated": 1764581908,
+        "date_posted": 1761871128,
+        "url": "https://www.citadelsecurities.com/careers/details/software-engineer-university-graduate-us/",
+        "locations": [
+            "Miami, FL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Citadel-Securities",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     }
 ]
