@@ -150966,7 +150966,7 @@
         "company_name": "Vectra",
         "id": "2650784e-4146-48a0-8d08-dc37bed5d2cb",
         "title": "Software Engineer \u2013 New College Graduate",
-        "active": false,
+        "active": true,
         "date_updated": 1767914795,
         "date_posted": 1767914795,
         "url": "https://www.vectra.ai/about/jobs?gh_jid=6142112",
@@ -220953,7 +220953,7 @@
         "company_name": "Coinbase",
         "id": "52b651c8-be46-4b6c-9ef9-7c8d7bd812d3",
         "title": "Product Manager 1 - Growth",
-        "active": true,
+        "active": false,
         "date_updated": 1771859120,
         "date_posted": 1771859120,
         "url": "https://boards.greenhouse.io/embed/job_app?token=7623211",
@@ -224768,7 +224768,7 @@
         "company_name": "Sainsbury's",
         "id": "0f385e10-cb36-438a-8835-e3235bb0b110",
         "title": "Trading Assistant - Shift",
-        "active": false,
+        "active": true,
         "date_updated": 1771974655,
         "date_posted": 1771974655,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050985",
@@ -241067,7 +241067,7 @@
         "company_name": "The Boeing Company",
         "id": "9bb55013-cf40-477c-a139-903fc73ab6c8",
         "title": "Test and Evaluation Lab Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1772671586,
         "date_posted": 1772671586,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Test---Evaluation-Lab-Technician--Associate-or-Experienced-_JR2026499040-1",
@@ -245216,7 +245216,7 @@
         "company_name": "Sainsbury's",
         "id": "ef97d21c-5edc-416e-ae2c-5f0d0e1c51d9",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1772839035,
         "date_posted": 1772839035,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052288",
@@ -246488,7 +246488,7 @@
         "company_name": "Neuralink",
         "id": "eb88db8a-82d4-4711-88a2-6aa3bf0891d3",
         "title": "Software Engineer - Pathology and Digital Imaging",
-        "active": true,
+        "active": false,
         "date_updated": 1772849210,
         "date_posted": 1772849210,
         "url": "https://boards.greenhouse.io/neuralink/jobs/7656401003",
@@ -246576,6 +246576,245 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Citadel-Securities",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "6be0cbab-0819-4d12-9317-d153d1de3524",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1773093246,
+        "date_posted": 1773093246,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052618",
+        "locations": [
+            "Harrogate, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "29200b38-a16d-46b1-9b81-aac1832decab",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1773093248,
+        "date_posted": 1773093248,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052617",
+        "locations": [
+            "Harrogate, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "0683328a-77e4-4792-8b2c-5d1aa1b593af",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1773093075,
+        "date_posted": 1773093075,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052616",
+        "locations": [
+            "York, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "1625ae0c-1957-47b2-8b88-103908666c5f",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1773092966,
+        "date_posted": 1773092966,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051270",
+        "locations": [
+            "Belfast, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Northumbria University",
+        "id": "b97e1a86-1330-4d65-a1c2-46ab51fa120f",
+        "title": "Postdoctoral Research Fellow in Magnetospheric Physics",
+        "active": true,
+        "date_updated": 1773092280,
+        "date_posted": 1773092280,
+        "url": "https://fa-etnb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/3965",
+        "locations": [
+            "Newcastle upon Tyne, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Northumbria-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "9ce90e03-8ea6-48e7-8d5d-82a2de684e34",
+        "title": "Graduate Research Engineer - Seed Infra",
+        "active": true,
+        "date_updated": 1773092290,
+        "date_posted": 1773092290,
+        "url": "https://jobs.bytedance.com/en/position/7610599648994265397/detail",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "84ce65c5-ee9c-4539-92d2-5d28da82832e",
+        "title": "Graduate Research Engineer - Agent Evaluation & Training Infrastructure - Seed Infra",
+        "active": true,
+        "date_updated": 1773092280,
+        "date_posted": 1773092280,
+        "url": "https://jobs.bytedance.com/en/position/7610602401397639477/detail",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Markon",
+        "id": "15098c6e-b3f1-4ebf-8cf2-66dc4f038e9f",
+        "title": "Reverse Engineer",
+        "active": true,
+        "date_updated": 1773091814,
+        "date_posted": 1773091814,
+        "url": "https://careers-markon.icims.com/jobs/8199/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Odenton, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Markon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Peraton",
+        "id": "670252d5-68ec-4965-be7e-c0b88c83af8f",
+        "title": "All-Source Analyst",
+        "active": true,
+        "date_updated": 1773091852,
+        "date_posted": 1768605987,
+        "url": "https://careers-peraton.icims.com/jobs/162715/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Peraton",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Huntington Ingalls Industries",
+        "id": "518dc13a-a2e0-44ff-b0b1-3b3aa594aab9",
+        "title": "Engineering Technician 2",
+        "active": true,
+        "date_updated": 1773092272,
+        "date_posted": 1773092272,
+        "url": "https://careers.huntingtoningalls.com/job/Newport-News-ENGINEERING-TECHNICIAN-2-Virg/1370176000/?ats=successfactors",
+        "locations": [
+            "Newport News, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Huntington-Ingalls-Industries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Four Seasons",
+        "id": "3eb39f22-2bfe-4fa1-9717-84b0191a37e3",
+        "title": "Analyst \u2013 Data Assets",
+        "active": true,
+        "date_updated": 1773091925,
+        "date_posted": 1773091925,
+        "url": "https://fourseasons.wd3.myworkdayjobs.com/search/job/Four-Seasons-Corporate-Office-Toronto/Analyst--Data-Assets_REQ10374076",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Four-Seasons",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "LMI ",
+        "id": "32d6bf26-9fa2-42f6-999e-347b709e1cc1",
+        "title": "Junior Data Scientist",
+        "active": true,
+        "date_updated": 1773092206,
+        "date_posted": 1773092206,
+        "url": "https://careers-lmi.icims.com/jobs/13752/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Colorado Springs, CO",
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/LMI",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
