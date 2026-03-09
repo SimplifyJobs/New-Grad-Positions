@@ -1,41 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Jerry",
-        "id": "eba56ae9-5f60-4397-b126-d8f6cb306ca6",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1752279880,
-        "date_posted": 1752279880,
-        "url": "https://jobs.ashbyhq.com/Jerry/9bc019ed-e265-47be-9e6d-2d0c64c76cc5/application",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Jerry",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Jerry",
-        "id": "31a2f9d5-7681-4ecb-a37b-38da6e3742cf",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1752279356,
-        "date_posted": 1752279356,
-        "url": "https://jobs.ashbyhq.com/Jerry/ed0a663b-cad1-4c76-aec7-1e0ceeac9a58/application",
-        "locations": [
-            "Toronto, ON, Canada",
-            "Greater Toronto Area, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Jerry",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Expedia",
         "id": "921be1d3-f7c0-4490-90d3-89d0f6b90fe7",
