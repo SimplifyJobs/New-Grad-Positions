@@ -1,22 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Expedia",
-        "id": "921be1d3-f7c0-4490-90d3-89d0f6b90fe7",
-        "title": "Data Engineer I",
-        "active": false,
-        "date_updated": 1752282350,
-        "date_posted": 1752282350,
-        "url": "https://expedia.wd5.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Data-Engineer-I_R-96645",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Expedia",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
         "date_updated": 1753177758,
         "url": "https://jobs.careers.microsoft.com/global/en/job/1845733/Software-Engineer",
         "company_name": "Microsoft",
