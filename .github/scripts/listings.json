@@ -85290,7 +85290,7 @@
         "company_name": "Atlas Copco Group",
         "id": "dd1df72a-3334-4606-aed6-54b361408405",
         "title": "Service Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1763192126,
         "date_posted": 1763192126,
         "url": "https://www.careers.homeofindustrialideas.com/job/Rome-Service-Technician-New/1243323701/?ats=successfactors",
@@ -143080,7 +143080,7 @@
         "company_name": "DXC Technology",
         "id": "2f875912-0e72-4d1e-8b06-482801386a04",
         "title": "DXC Graduate Programme",
-        "active": true,
+        "active": false,
         "date_updated": 1764209934,
         "date_posted": 1764209934,
         "url": "https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/GBR---GLS---TEWKESBURY/DXC-Graduate-Programme-2026_51567299",
@@ -143540,7 +143540,7 @@
         "company_name": "ByteDance",
         "id": "5ca5638a-d91f-4bd1-99cb-21e31590271d",
         "title": "Research Scientist in Large Language Model Graduate - Seed-LLM",
-        "active": false,
+        "active": true,
         "date_updated": 1767395895,
         "date_posted": 1767395895,
         "url": "https://jobs.bytedance.com/en/position/7561701031874693429/detail",
@@ -150089,7 +150089,7 @@
         "company_name": "Applied Materials",
         "id": "557a8a2a-2148-4734-81ad-b5720674e1ef",
         "title": "2026 NCG-Technical Product Marketing Manager - Doctorate - Santa Clara, CA",
-        "active": true,
+        "active": false,
         "date_updated": 1767840507,
         "date_posted": 1767840507,
         "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2026-NCG--Technical-Product-Marketing-Manager---Doctorate--Santa-Clara--CA-_R2520002",
@@ -191577,7 +191577,7 @@
         "company_name": "American Equity",
         "id": "cc183c6b-e50e-4d98-ba04-cac76efc227b",
         "title": "Application Developer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1770248608,
         "date_posted": 1770248608,
         "url": "https://www.american-equity.com/about/careers/openings?gh_jid=5042779007",
@@ -245254,7 +245254,7 @@
         "company_name": "Vertiv",
         "id": "6f1adc92-5383-431d-8146-d4969820bbcb",
         "title": "Equipment Installer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1772839235,
         "date_posted": 1772839235,
         "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20268196",
@@ -248572,5 +248572,66 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Walmart",
+        "id": "11036f1f-bc99-4d86-807c-3798385c655b",
+        "title": "Staff Data Scientist",
+        "active": true,
+        "date_updated": 1773106505,
+        "date_posted": 1773106505,
+        "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Sunnyvale-CA/Staff--Data-Scientist_R-2434296",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Walmart",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "K-Love",
+        "id": "de94d39b-bd76-4f42-905d-30ad81f487d4",
+        "title": "Pastoral Care Data Analyst",
+        "active": true,
+        "date_updated": 1773107113,
+        "date_posted": 1772492833,
+        "url": "https://careers-kloveair1.icims.com/jobs/2376/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Franklin, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/K-Love",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Google",
+        "id": "802aa2a1-083c-46cc-85f5-db110d162df5",
+        "title": "ASIC RTL Design and Automation Engineer \u2013 University Graduate",
+        "active": true,
+        "date_updated": 1773107392,
+        "date_posted": 1770045175,
+        "url": "https://www.google.com/about/careers/applications/jobs/results/103596918067602118",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Google",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
     }
 ]
