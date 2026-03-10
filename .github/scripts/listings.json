@@ -113833,7 +113833,7 @@
         "company_name": "Caterpillar Inc.",
         "id": "8ce40e7a-a8d0-4b50-9a02-47ad995ba5a2",
         "title": "Mining Application Specialist",
-        "active": false,
+        "active": true,
         "date_updated": 1764922110,
         "date_posted": 1764922110,
         "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Home-in-Ontario/Mining-Application-Specialist---Early-Career_R0000338800",
@@ -169840,7 +169840,7 @@
         "company_name": "Prairie View A&M University",
         "id": "e5d196b5-c0c7-4639-9262-f97267a472f0",
         "title": "Postdoctoral Researcher - Pier",
-        "active": false,
+        "active": true,
         "date_updated": 1769123503,
         "date_posted": 1769123503,
         "url": "https://tamus.wd1.myworkdayjobs.com/pvamu_external/job/Prairie-View-TX/Postdoctoral-Researcher--PIER---Pioneering-Advanced-Materials-for-Renewable-Energy---2_R-089861-2",
@@ -170857,7 +170857,7 @@
         "company_name": "GE Vernova",
         "id": "1e6046a0-27cf-4c61-98f3-feba3d298739",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1769124244,
         "date_posted": 1769124244,
         "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Roanoke-US-VA-3/Software-Engineer_R5030434-2",
@@ -208436,7 +208436,7 @@
         "company_name": "Expedia Group",
         "id": "035ef54c-e7b1-40bb-a586-db3d42ef0dde",
         "title": "Software Development Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1771248033,
         "date_posted": 1771248033,
         "url": "https://expedia.wd108.myworkdayjobs.com/private/job/UK---London/Software-Development-Engineer-I_R-102289",
@@ -248891,6 +248891,64 @@
             "Alpharetta, GA"
         ],
         "company_url": "https://simplify.jobs/c/RELX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Watts Water",
+        "id": "3f816c53-db18-4fbc-b82d-32267b446cde",
+        "title": "Electronic Repair Technologist 1",
+        "active": true,
+        "date_updated": 1773124802,
+        "date_posted": 1773124802,
+        "url": "https://wattswater.wd5.myworkdayjobs.com/external/job/Vernon-BC/Electronic-Repair-Technologist-I_10016455",
+        "locations": [
+            "Kelowna, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Watts-Water",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Interstates",
+        "id": "80f2c21c-3fee-4af0-945f-9afdcdc272ae",
+        "title": "Manufacturing Production Technician",
+        "active": true,
+        "date_updated": 1773124233,
+        "date_posted": 1773124233,
+        "url": "https://www.interstates.com/careers/jobs?gh_jid=4178960009&gh_jid=4178960009",
+        "locations": [
+            "Sioux City, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/Interstates",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Scientific Research Corporation",
+        "id": "5981592a-4e0a-41e7-a5c3-0e0bab13dcef",
+        "title": "Software Developer 1",
+        "active": true,
+        "date_updated": 1773125699,
+        "date_posted": 1768956228,
+        "url": "https://careers-scires.icims.com/jobs/10453/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "North Charleston, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/Scientific-Research-Corporation",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
