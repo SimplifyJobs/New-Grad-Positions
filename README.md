@@ -5,9 +5,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/New-Grad-Positions/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
 ---
-### Browse 359 New Grad Roles by Category
+### Browse 360 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (237)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (238)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (11)
 
@@ -871,6 +871,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>1mo</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/Aurora-Innovation?utm_source=GHList&utm_medium=company">Aurora Innovation</a></strong></td>
+<td>Software Engineer 1 - Visualization</td>
+<td>Mountain View, CA</td>
+<td><div align="center"><a href="https://aurora.tech/jobs/8372578002?gh_jid=8372578002&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/d70d1f0a-93bf-4cd8-98bb-e6ee59283821?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Tower-Research-Capital?utm_source=GHList&utm_medium=company">Tower Research Capital</a></strong></td>
 <td>New Grad C++ Software Developer</td>
 <td>Montreal, QC, Canada</td>
@@ -1064,13 +1071,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Test Solutions Engineer I 🇺🇸</td>
 <td>Nashua, N</td>
 <td><a href="https://jobs.baesystems.com/global/en/job/BAE1US119164BREXTERNAL/Software-Test-Solutions-Engineer-I?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td>2mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Mthree?utm_source=GHList&utm_medium=company">mthree</a></strong></td>
-<td>Junior Software Developer</td>
-<td>London, UK</br>Glasgow, UK</td>
-<td><div align="center"><a href="https://mthree.com/careers/job/?gh_jid=4595457006&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/a164cd80-623e-4065-804d-54bd7b187f83?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
 <td>2mo</td>
 </tr>
 <tr>
@@ -1323,6 +1323,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Junior Full Stack Engineer - Frontend and Backend - TypeScript, React, Node.js, Next.js</td>
 <td>NYC</td>
 <td><div align="center"><a href="https://jobs.ashbyhq.com/glide/5ece3064-6884-43c2-923c-066d6187b25d/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/d68084c5-ab49-4255-ae22-0c224fc51dfe?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
+<td>4mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Mthree?utm_source=GHList&utm_medium=company">mthree</a></strong></td>
+<td>Junior Software Developer</td>
+<td>Glasgow, UK</td>
+<td><div align="center"><a href="https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4595457006?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/f7573d3e-e4fd-464e-9e3f-c2c7c1c7ab72?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
 <td>4mo</td>
 </tr>
 <tr>
@@ -1743,7 +1750,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (1150)</summary>
+<summary>🗃️ Inactive roles (1149)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -2828,13 +2835,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>1mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Aurora-Innovation?utm_source=GHList&utm_medium=company">Aurora Innovation</a></strong></td>
-<td>Software Engineer 1 - Visualization</td>
-<td>Mountain View, CA</td>
-<td>🔒</td>
-<td>1mo</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Blackboard?utm_source=GHList&utm_medium=company">Blackboard</a></strong></td>
 <td>Software Engineer 1</td>
 <td>Remote in USA</td>
@@ -3902,6 +3902,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><strong><a href="https://simplify.jobs/c/Yahoo?utm_source=GHList&utm_medium=company">Yahoo</a></strong></td>
 <td>Software Developer Engineer 1</td>
 <td>United States</td>
+<td>🔒</td>
+<td>2mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Mthree?utm_source=GHList&utm_medium=company">mthree</a></strong></td>
+<td>Junior Software Developer</td>
+<td>London, UK</br>Glasgow, UK</td>
 <td>🔒</td>
 <td>2mo</td>
 </tr>
@@ -6538,13 +6545,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>4mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Mthree?utm_source=GHList&utm_medium=company">mthree</a></strong></td>
-<td>Junior Software Developer</td>
-<td>Glasgow, UK</td>
-<td>🔒</td>
-<td>4mo</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Capital-One?utm_source=GHList&utm_medium=company">Capital One</a></strong></td>
 <td>Associate – New Grad - Software Engineer</td>
 <td>Toronto, ON, Canada</td>
@@ -7809,7 +7809,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>2026 University Graduate - Software Engineer</td>
 <td>San Jose, CA</br>Lehi, UT</td>
 <td>🔒</td>
-<td>5mo</td>
+<td>6mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Amentum?utm_source=GHList&utm_medium=company">Amentum</a></strong></td>
@@ -9167,7 +9167,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Returning New Grad Software Engineer I</td>
 <td>Chicago, IL</br>Kansas City, MO</br>Overland Park, KS</td>
 <td>🔒</td>
-<td>6mo</td>
+<td>7mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/DIRECTV?utm_source=GHList&utm_medium=company">DIRECTV</a></strong></td>
