@@ -9153,14 +9153,14 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Engineer, Connected Warfare 🇺🇸</td>
 <td>Costa Mesa, CA</td>
 <td>🔒</td>
-<td>6mo</td>
+<td>7mo</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Early Career Software Engineer 🇺🇸</td>
 <td>Costa Mesa, CA</td>
 <td>🔒</td>
-<td>6mo</td>
+<td>7mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/HNTB?utm_source=GHList&utm_medium=company">HNTB</a></strong></td>
@@ -14468,7 +14468,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Air Dominance & Strike - Flight Software Engineer, Embedded C/C++ 🛂</td>
 <td>Costa Mesa, CA</td>
 <td>🔒</td>
-<td>6mo</td>
+<td>7mo</td>
 </tr>
 <tr>
 <td><strong>Lumafield</strong></td>
