@@ -241222,7 +241222,7 @@
         "company_name": "Nucor",
         "id": "c572a69c-953f-4e96-b1eb-0f6eca908e80",
         "title": "Software Developer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1772677415,
         "date_posted": 1772677415,
         "url": "https://jobs.nucor.com/job/Arthur-Software-Developer-I-IL-61911/1370289200/?ats=successfactors",
@@ -241804,7 +241804,7 @@
         "company_name": "Anaplan",
         "id": "a2ac2123-48a3-462e-95b3-2d7bce1b2e5c",
         "title": "Junior Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1772678117,
         "date_posted": 1772678117,
         "url": "https://job-boards.greenhouse.io/anaplan/jobs/8442244002",
@@ -245330,7 +245330,7 @@
         "company_name": "WPP Media",
         "id": "f5449f09-99c8-47e5-9cb0-430a9fa95662",
         "title": "Data Analyst \u2013 Entry Level",
-        "active": true,
+        "active": false,
         "date_updated": 1772838807,
         "date_posted": 1772838807,
         "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5142063008",
@@ -249100,5 +249100,25 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "State Street",
+        "id": "bf12a188-3e69-4d93-b29b-5d01a400cb0f",
+        "title": "Front Office Trading Services - Foreign Exchange - Financing Solutions",
+        "active": true,
+        "date_updated": 1773136032,
+        "date_posted": 1773136032,
+        "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/London-England/Front-Office-Trading-Services--FX-FS--Officer_R-785152-1",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/State-Street",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
