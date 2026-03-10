@@ -239596,7 +239596,7 @@
         "company_name": "Microsoft",
         "id": "ff72e85e-810e-4d61-913a-d46fd379bad2",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1772623960,
         "date_posted": 1772623960,
         "url": "https://apply.careers.microsoft.com/careers/job/1970393556819805",
@@ -248713,6 +248713,50 @@
         "degrees": [
             "Bachelor's",
             "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "LexisNexis Risk Solutions",
+        "id": "7b5fe8b4-1224-4321-9213-04321bea34db",
+        "title": "Data Specialist",
+        "active": true,
+        "date_updated": 1773121416,
+        "date_posted": 1772496077,
+        "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Boca-Raton-FL/Sr-Data-Specialist_R109531",
+        "locations": [
+            "Dayton, OH",
+            "Boca Raton, FL",
+            "Alpharetta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/LexisNexis-Risk-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "RELX",
+        "id": "770b1235-be71-475f-96ab-658a18684d63",
+        "title": "Data Specialist",
+        "active": true,
+        "date_updated": 1773120565,
+        "date_posted": 1772495780,
+        "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Boca-Raton-FL/Sr-Data-Specialist_R109369-2",
+        "locations": [
+            "Dayton, OH",
+            "Boca Raton, FL",
+            "Alpharetta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/RELX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
