@@ -9470,7 +9470,7 @@
         "company_name": "Stripe",
         "id": "8510087c-34fe-43c9-b6e9-7f5a00f1d270",
         "title": "Software Engineer \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1756871707,
         "date_posted": 1756871707,
         "url": "https://stripe.com/jobs/search?gh_jid=7206505",
@@ -231462,7 +231462,7 @@
         "company_name": "MSI",
         "id": "e7fb3bdf-80d0-4c67-ba87-2cb46301e583",
         "title": "Catastrophe Modeling Analyst - Msi",
-        "active": true,
+        "active": false,
         "date_updated": 1772195234,
         "date_posted": 1771697063,
         "url": "https://baldwin.wd1.myworkdayjobs.com/MSI/job/Remote-US/Catastrophe-Modeling-Analyst---MSI_JR109072",
@@ -243538,7 +243538,7 @@
         "company_name": "Highmark Health",
         "id": "e2b15639-7130-4c33-899a-efb1956839e0",
         "title": "Associate Application Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1772753936,
         "date_posted": 1772753936,
         "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Associate-Application-Developer_J277936",
@@ -248632,6 +248632,26 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Worldpay",
+        "id": "ec0357bf-c8a7-42a5-92ea-17d7dce8b3fd",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1773109749,
+        "date_posted": 1772280555,
+        "url": "https://worldpay.wd5.myworkdayjobs.com/Worldpay_External_Careers_Site/job/CINCINNATI-OHIO/Statistician-Data-Analyst-II_JR0608725",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Worldpay",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
