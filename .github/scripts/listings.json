@@ -79475,7 +79475,7 @@
         "company_name": "TikTok",
         "id": "269b72d8-1c0a-4b17-bb1e-55078a413b84",
         "title": "Software Engineer Graduate - Global SRE - 2026 Start",
-        "active": true,
+        "active": false,
         "date_updated": 1761902266,
         "date_posted": 1761902266,
         "url": "https://lifeattiktok.com/search/7531164305472358663",
@@ -139159,7 +139159,7 @@
         "company_name": "Snap",
         "id": "bf4b96f6-f64a-4fe4-9759-d784853d0e60",
         "title": "Fab Operator",
-        "active": true,
+        "active": false,
         "date_updated": 1767251075,
         "date_posted": 1767251075,
         "url": "https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Chandler---300-N-56th-St/Fab-Operator_H225FO-1",
@@ -199393,7 +199393,7 @@
         "company_name": "RTX",
         "id": "fd1fdbe1-1b62-405e-9462-e64a85354dcf",
         "title": "Fulltime-Systems Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1770690660,
         "date_posted": 1770690660,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513PW--2501-W-University-Dr--PW-BLDG/XMLNAME-2026--Fulltime-Systems-Engineer-I--Onsite_01821685",
@@ -212441,7 +212441,7 @@
         "company_name": "Caterpillar Inc.",
         "id": "3b1fe382-1b4c-4f86-871f-b137c182e3ea",
         "title": "Mining Application Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1771456892,
         "date_posted": 1771456892,
         "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/British-Columbia-British-Columbia/Mining-Application-Specialist---Early-Career_R0000341198-1",
@@ -238712,7 +238712,7 @@
         "company_name": "Caterpillar Inc.",
         "id": "5041f189-1842-4d5b-b36c-7eb5f3cf5b17",
         "title": "Associate Product Owner - Electrification Applications",
-        "active": true,
+        "active": false,
         "date_updated": 1772584415,
         "date_posted": 1772584415,
         "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chicago-Illinois/Associate-Product-Owner--Electrification-Applications_R0000354270",
@@ -248648,6 +248648,46 @@
             "Cincinnati, OH"
         ],
         "company_url": "https://simplify.jobs/c/Worldpay",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pearson",
+        "id": "14b2bb6d-74c1-4dac-9870-336d43169a16",
+        "title": "Specialist - Service Provider - Intelligence and Data Analysis",
+        "active": true,
+        "date_updated": 1773113270,
+        "date_posted": 1772792551,
+        "url": "https://hccz.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/22946",
+        "locations": [
+            "Letchworth Garden City, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Pearson",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "LexisNexis Risk Solutions",
+        "id": "3a67b9bc-152f-4370-a91e-846d900ef544",
+        "title": "Data Specialist",
+        "active": true,
+        "date_updated": 1773112105,
+        "date_posted": 1772496060,
+        "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Boca-Raton-FL/Sr-Data-Specialist_R109369-1",
+        "locations": [
+            "Dayton, OH",
+            "Boca Raton, FL",
+            "Alpharetta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/LexisNexis-Risk-Solutions",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
