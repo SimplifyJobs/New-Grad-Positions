@@ -93647,7 +93647,7 @@
         "company_name": "Cisco",
         "id": "752cc127-39ae-4bed-977a-4fcbab271df8",
         "title": "Software Developer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1763664416,
         "date_posted": 1763664416,
         "url": "https://careers.cisco.com/global/en/job/2001076",
@@ -236711,7 +236711,7 @@
         "company_name": "L3Harris Technologies",
         "id": "f0d6f216-3186-4344-b3a7-d0bf5be87e11",
         "title": "Assoc \u2013 Software Engineering - Camden - NJ",
-        "active": true,
+        "active": false,
         "date_updated": 1772504250,
         "date_posted": 1772504250,
         "url": "https://jobs.l3harris.com/job/Camden-Assoc,-Software-Engineering-(Camden,-NJ)-NJ-08103/1321349500/?ats=successfactors",
@@ -248953,6 +248953,44 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Applied Materials",
+        "id": "36296cbc-a10f-474e-a378-13679080f081",
+        "title": "New College Grad: Photonics Design Engineer 3",
+        "active": true,
+        "date_updated": 1773126327,
+        "date_posted": 1773126327,
+        "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/New-College-Grad--Photonics-Design-Engineer-III---Doctorate--Santa-Clara--CA-_R2614488",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Materials",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Google",
+        "id": "f8f22029-1f40-411b-bbfa-ed78bbc20189",
+        "title": "RTL Design Engineer \u2013 University Graduate - PhD - Machine Learning",
+        "active": true,
+        "date_updated": 1773125696,
+        "date_posted": 1766074202,
+        "url": "https://www.google.com/about/careers/applications/jobs/results/105829554005648070",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Google",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
         ]
     }
 ]
