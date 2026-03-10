@@ -210057,7 +210057,7 @@
         "company_name": "Sainsbury's",
         "id": "cb6479da-725c-4208-975d-bcf1283ce0ec",
         "title": "Trading Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1771341076,
         "date_posted": 1771341076,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400049624",
@@ -234898,7 +234898,7 @@
         "company_name": "Sainsbury's",
         "id": "d9d16038-ca86-4990-ba05-addfd4ec4439",
         "title": "Trading Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1772464259,
         "date_posted": 1772464259,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051645",
@@ -244886,7 +244886,7 @@
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "J.S. Held",
-        "id": "3a5dce49-eed3-47ac-a773-0a57d4555d56",
+        "id": "7646c96d-ea3e-470b-a309-9438c65007aa",
         "title": "Data Analyst - Health Sciences",
         "active": true,
         "date_updated": 1772810327,
@@ -248992,5 +248992,113 @@
         "degrees": [
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "fe994482-a69e-4dcd-a891-9e4cb54eac43",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1773134611,
+        "date_posted": 1773134611,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052300",
+        "locations": [
+            "Newcastle upon Tyne, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "d8c465ff-2919-4ac4-80c2-9184ebf610d2",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1773134612,
+        "date_posted": 1773134612,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052373",
+        "locations": [
+            "Birmingham, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "d8383e4e-36ce-455c-811a-a0faebf6197b",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1773134613,
+        "date_posted": 1773134613,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052675",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "ab87d044-7d47-4bed-8adb-b877dd5ec39e",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1773134611,
+        "date_posted": 1773134611,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052371",
+        "locations": [
+            "Birmingham, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "7054067a-043a-4bf3-8c47-8536523d920c",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1773134627,
+        "date_posted": 1773134627,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052682",
+        "locations": [
+            "Oxford, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Dave & Busters",
+        "id": "8f337537-a742-49cd-8fd8-0525faeba9b0",
+        "title": "Support Technician",
+        "active": true,
+        "date_updated": 1773133906,
+        "date_posted": 1773133906,
+        "url": "https://daveandbusters.wd1.myworkdayjobs.com/dave_and_busters_careers/job/Florence-KY/Support-Technician_R-1006137",
+        "locations": [
+            "Florence, KY"
+        ],
+        "company_url": "https://simplify.jobs/c/Dave-And-Busters",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
