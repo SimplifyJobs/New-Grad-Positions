@@ -205403,7 +205403,7 @@
         "company_name": "Worldpay",
         "id": "874270db-2832-40aa-8f4e-fb8693f1a297",
         "title": "Data Scientist 1",
-        "active": true,
+        "active": false,
         "date_updated": 1770938988,
         "date_posted": 1770938988,
         "url": "https://worldpay.wd5.myworkdayjobs.com/Worldpay_External_Careers_Site/job/BOSTON-MASSACHUSETTS/Data-Scientist-I_JR0608698",
@@ -249115,6 +249115,26 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/State-Street",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Micron Technology",
+        "id": "b3ac6b51-fe71-4bd7-88fe-1399ed187339",
+        "title": "Engineer \u2013 Quality Metro Real-time Defect Analysis",
+        "active": true,
+        "date_updated": 1773136916,
+        "date_posted": 1773136916,
+        "url": "https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Engineer--Quality-Metro-Real-time-Defect-Analysis_JR94374",
+        "locations": [
+            "Leander, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Micron-Technology",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
