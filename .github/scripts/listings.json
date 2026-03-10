@@ -16777,7 +16777,7 @@
         "company_name": "General Motors",
         "id": "520a10d0-a5ec-46d6-acfe-66d0ec30804c",
         "title": "Software Engineer \u2013 Early Career",
-        "active": false,
+        "active": true,
         "date_updated": 1758995548,
         "date_posted": 1758995548,
         "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/Software-Engineer---Early-Career_JR-202518329",
@@ -159079,7 +159079,7 @@
         "company_name": "Wells Fargo",
         "id": "3c909b48-dea6-4477-ae77-3ee62844d8eb",
         "title": "Engineering Associate - Application Modernization",
-        "active": true,
+        "active": false,
         "date_updated": 1768435964,
         "date_posted": 1768435964,
         "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHANDLER-AZ/Engineering-Associate---Application-Modernization_R-515424",
@@ -165986,7 +165986,7 @@
         "company_name": "DXC Technology",
         "id": "293a8026-0188-4705-90d9-8930bd3548e8",
         "title": "Associate Professional Application Programmer",
-        "active": true,
+        "active": false,
         "date_updated": 1768923482,
         "date_posted": 1768923482,
         "url": "https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/USA---CT---ANY-CITY/Associate-Professional-Application-Programmer_51569293",
@@ -181390,7 +181390,7 @@
         "company_name": "CrowdGen by Appen",
         "id": "2ba025bc-8872-4479-a305-8a98a0dc777f",
         "title": "French Search Ads Evaluator",
-        "active": true,
+        "active": false,
         "date_updated": 1769728263,
         "date_posted": 1769728263,
         "url": "https://jobs.lever.co/appen/808ca8cd-9fcd-4632-90f3-c350fbae8a04/apply",
@@ -201778,7 +201778,7 @@
         "company_name": "Husqvarna Group",
         "id": "8100be62-a30f-41ba-a41f-539948f8a734",
         "title": "Workshop Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1770813775,
         "date_posted": 1770813775,
         "url": "https://husqvarnagroup.wd3.myworkdayjobs.com/External_Career_Site/job/Newton-Aycliffe/Workshop-Technician_R-16082",
@@ -222443,7 +222443,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "994c7dea-1b93-4530-9438-b0ec84225bcb",
         "title": "Manager \u2013 Analytics Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1771893137,
         "date_posted": 1771893137,
         "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Manager---Analytics-Engineer_R-0000160543-1",
@@ -227837,7 +227837,7 @@
         "company_name": "Centene",
         "id": "db6af2fd-9218-42e4-8b89-5811976b5987",
         "title": "Provider Data Management Analyst 1",
-        "active": false,
+        "active": true,
         "date_updated": 1772062076,
         "date_posted": 1772062076,
         "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-OH/Provider-Data-Management-Analyst-I_1632100",
@@ -236902,7 +236902,7 @@
         "company_name": "Kenco Management Services",
         "id": "e088cceb-0003-410c-9b7e-167a6c9897dd",
         "title": "Automation Technician-6",
-        "active": true,
+        "active": false,
         "date_updated": 1772524248,
         "date_posted": 1772524248,
         "url": "https://kencogroup.wd12.myworkdayjobs.com/kenco/job/USA-IL-Joliet-650-Emerald-Dr/Automation-Technician-6_JR103263",
@@ -248532,6 +248532,26 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Comcast",
+        "id": "78b68c39-9bfe-4b32-b075-cde42fb1bc6b",
+        "title": "Junior Full Stack Developer",
+        "active": true,
+        "date_updated": 1773103026,
+        "date_posted": 1773103026,
+        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/CO---Englewood-183-Inverness-Dr-West/Junior-Full-Stack-Developer--Eng1-_R430946",
+        "locations": [
+            "Cherry Hills Village, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Comcast",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
