@@ -20358,7 +20358,7 @@
         "company_name": "mthree",
         "id": "f7573d3e-e4fd-464e-9e3f-c2c7c1c7ab72",
         "title": "Junior Software Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1760473791,
         "date_posted": 1760473791,
         "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4595457006",
@@ -123105,7 +123105,7 @@
         "company_name": "mthree",
         "id": "a164cd80-623e-4065-804d-54bd7b187f83",
         "title": "Junior Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1765583666,
         "date_posted": 1765583666,
         "url": "https://mthree.com/careers/job/?gh_jid=4595457006",
@@ -168218,7 +168218,7 @@
         "company_name": "Aurora Innovation",
         "id": "d70d1f0a-93bf-4cd8-98bb-e6ee59283821",
         "title": "Software Engineer 1 - Visualization",
-        "active": false,
+        "active": true,
         "date_updated": 1769049671,
         "date_posted": 1769049671,
         "url": "https://aurora.tech/jobs/8372578002?gh_jid=8372578002",
@@ -181470,7 +181470,7 @@
         "company_name": "Wells Fargo",
         "id": "2828a338-7d68-4008-8984-a482bb96eff6",
         "title": "Engineering Associate - Middleware Operations",
-        "active": true,
+        "active": false,
         "date_updated": 1769730921,
         "date_posted": 1769730921,
         "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/MINNEAPOLIS-MN/Engineering-Associate---Middleware-Operations_R-518252",
@@ -182748,7 +182748,7 @@
         "company_name": "RTX",
         "id": "73df5cff-7c3a-4d21-ae3c-c75a9096c4ba",
         "title": "2026 Full-time - Software Engineer II",
-        "active": true,
+        "active": false,
         "date_updated": 1769758967,
         "date_posted": 1769758967,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/XMLNAME-2026-Full-time---Software-Engineer-II---Onsite--AZ-_01820536",
@@ -236691,7 +236691,7 @@
         "company_name": "ATPCO",
         "id": "240805d6-aa34-4d9b-a4c6-c9499543d647",
         "title": "Data Strategist",
-        "active": false,
+        "active": true,
         "date_updated": 1772504475,
         "date_posted": 1772504475,
         "url": "https://jobs.smartrecruiters.com/ATPCO1/744000112209457",
@@ -243209,7 +243209,7 @@
         "company_name": "ATPCO",
         "id": "013a5e77-04c2-4bc1-b882-5d6a71f8e234",
         "title": "Data Strategist",
-        "active": true,
+        "active": false,
         "date_updated": 1772752572,
         "date_posted": 1772752572,
         "url": "https://jobs.smartrecruiters.com/ATPCO1/744000113027323",
@@ -248747,6 +248747,144 @@
         "date_updated": 1773120565,
         "date_posted": 1772495780,
         "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Boca-Raton-FL/Sr-Data-Specialist_R109369-2",
+        "locations": [
+            "Dayton, OH",
+            "Boca Raton, FL",
+            "Alpharetta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/RELX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "bf90ca08-f76f-4ba6-85c6-16ce15bdbfc0",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1773122986,
+        "date_posted": 1773122986,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052670",
+        "locations": [
+            "Exeter, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "General Dynamics Mission Systems",
+        "id": "bb384d29-1461-484e-b34a-a6a27437dfb5",
+        "title": "Assembly/Wire",
+        "active": true,
+        "date_updated": 1773122871,
+        "date_posted": 1773122871,
+        "url": "https://careers-gdms.icims.com/jobs/70260/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Pittsfield, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "770f8d44-e5bc-4ccc-8f91-b1edcb3f84dc",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1773122918,
+        "date_posted": 1773122918,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052669",
+        "locations": [
+            "Letchworth Garden City, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Amazon",
+        "id": "438f098c-ca98-40ce-9c10-5046b47a5c49",
+        "title": "ML Data Associate 1",
+        "active": true,
+        "date_updated": 1773123008,
+        "date_posted": 1773123008,
+        "url": "https://amazon.jobs/en/jobs/3200360/ml-data-associate-i",
+        "locations": [
+            "Tiruchirappalli, Tamil Nadu, India",
+            "Tennessee",
+            "Indiana"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "0a1b4f30-7865-460b-a5ae-a91407c5522b",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1773122920,
+        "date_posted": 1773122920,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052671",
+        "locations": [
+            "Exeter, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Boeing Company",
+        "id": "64340b25-ad02-4e42-a0f9-e312f350e20e",
+        "title": "Business Intelligence Analyst - BI Analysis",
+        "active": true,
+        "date_updated": 1773123922,
+        "date_posted": 1772755895,
+        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Business-Intelligence-Analyst--BI-Analysis-_JR2026496271-1",
+        "locations": [
+            "Everett, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "RELX",
+        "id": "4efc6c58-7ef8-46b0-ae6f-a89a3109f740",
+        "title": "Data Specialist",
+        "active": true,
+        "date_updated": 1773122476,
+        "date_posted": 1772495780,
+        "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Boca-Raton-FL/Sr-Data-Specialist_R109531-1",
         "locations": [
             "Dayton, OH",
             "Boca Raton, FL",
