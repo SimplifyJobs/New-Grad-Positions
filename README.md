@@ -5,9 +5,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/New-Grad-Positions/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
 ---
-### Browse 360 New Grad Roles by Category
+### Browse 359 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (238)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (237)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (11)
 
@@ -547,13 +547,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>NYC</td>
 <td><div align="center"><a href="https://apply.workable.com/qodeworld/j/0EB604BB8C/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/4cf7bd70-7bbd-457b-b379-d0e23ce0cad7?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
 <td>19d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Expedia-Group?utm_source=GHList&utm_medium=company">Expedia Group</a></strong></td>
-<td>Software Development Engineer 1</td>
-<td>London, UK</td>
-<td><div align="center"><a href="https://expedia.wd108.myworkdayjobs.com/private/job/UK---London/Software-Development-Engineer-I_R-102289?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/035ef54c-e7b1-40bb-a586-db3d42ef0dde?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>21d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Nectar-Social?utm_source=GHList&utm_medium=company">Nectar Social</a></strong></td>
@@ -1750,7 +1743,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (1149)</summary>
+<summary>🗃️ Inactive roles (1150)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -2229,6 +2222,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><strong><a href="https://simplify.jobs/c/Blue-Yonder?utm_source=GHList&utm_medium=company">Blue Yonder</a></strong></td>
 <td>Software Engineer 1 - U.S. Citizenship Required</td>
 <td>Dallas, TX</td>
+<td>🔒</td>
+<td>21d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Expedia-Group?utm_source=GHList&utm_medium=company">Expedia Group</a></strong></td>
+<td>Software Development Engineer 1</td>
+<td>London, UK</td>
 <td>🔒</td>
 <td>21d</td>
 </tr>
