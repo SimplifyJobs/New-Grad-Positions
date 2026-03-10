@@ -197367,7 +197367,7 @@
         "company_name": "Vanderbilt Health",
         "id": "3e3fdc0c-7f98-4dab-b27c-b7edaf11c3c3",
         "title": "Associate Product Manager - Clinical Engineering Products",
-        "active": true,
+        "active": false,
         "date_updated": 1770536205,
         "date_posted": 1770536205,
         "url": "https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Associate-Product-Manager---Clinical-Engineering-Products--Local---Hybrid-_R-53972-2",
@@ -233432,7 +233432,7 @@
         "company_name": "KLA",
         "id": "74180c3f-7b47-41ce-8c05-a8fb896cfd04",
         "title": "Algorithm Engineer - Image Processing",
-        "active": true,
+        "active": false,
         "date_updated": 1772234667,
         "date_posted": 1772234667,
         "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Algorithm-Engineer--Image-Processing-_2634738-1",
@@ -235958,7 +235958,7 @@
         "company_name": "Metron",
         "id": "9047687d-58de-4de5-9c5d-5d66ae1ce92b",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1772495211,
         "date_posted": 1772495211,
         "url": "https://job-boards.greenhouse.io/metron/jobs/5066276007",
@@ -246391,7 +246391,7 @@
         "company_name": "HPR (Hyannis Port Research)",
         "id": "805f81b4-b6dd-4279-b384-4d0dbfbbb72b",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1772850313,
         "date_posted": 1772850313,
         "url": "https://job-boards.greenhouse.io/hyannisportresearch/jobs/7651606003",
@@ -249305,6 +249305,85 @@
             "St. Louis, MO"
         ],
         "company_url": "https://simplify.jobs/c/Focus-Financial-Partners",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Ultra",
+        "id": "1fd9b0dd-43ba-4e25-892a-11969b77c0be",
+        "title": "Graduate Software Engineer",
+        "active": true,
+        "date_updated": 1773154189,
+        "date_posted": 1773154189,
+        "url": "https://ultra.wd3.myworkdayjobs.com/ultra-careers/job/Weymouth-Dorset-England-UK/Graduate-Software-Engineer_REQ-11623",
+        "locations": [
+            "Wembley, UK",
+            "Dorchester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Ultra",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Perle",
+        "id": "b368b35f-e2e3-45c6-be6f-653117b8cac1",
+        "title": "Hebrew Language Specialist",
+        "active": true,
+        "date_updated": 1773152658,
+        "date_posted": 1773152658,
+        "url": "https://ats.rippling.com/perle/jobs/df9140d7-3f1f-4d0b-9b96-5ea92ac4db75",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Perle",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "52740a48-f9a8-43d5-be79-238d8584692c",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1773153020,
+        "date_posted": 1773153020,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052765",
+        "locations": [
+            "High Wycombe, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Howmet Aerospace",
+        "id": "2accf37d-7294-4a20-915e-8467a2253207",
+        "title": "Product Engineer",
+        "active": true,
+        "date_updated": 1773152945,
+        "date_posted": 1773152945,
+        "url": "https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/116547",
+        "locations": [
+            "Hampton, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Howmet-Aerospace",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
