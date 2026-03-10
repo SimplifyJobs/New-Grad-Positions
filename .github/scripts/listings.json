@@ -47175,7 +47175,7 @@
         "company_name": "Stanley Black & Decker",
         "id": "53ee8e88-8970-4993-b753-0f2e04e73d8a",
         "title": "Service Technician 1",
-        "active": true,
+        "active": false,
         "date_updated": 1761993133,
         "date_posted": 1761993133,
         "url": "https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/San-Antonio-TX-United-States/Service-Technician-I_REQ-1000041099",
@@ -228922,7 +228922,7 @@
         "company_name": "McAfee",
         "id": "d1d62463-eb71-463c-81ff-bde594aa212b",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1772119440,
         "date_posted": 1772119440,
         "url": "https://mcafee.wd1.myworkdayjobs.com/external/job/Canada/Software-Engineer_JR0032250",
@@ -249140,5 +249140,23 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Air Liquide",
+        "id": "cc2d75b2-d0ef-44c4-a501-b19754a503a8",
+        "title": "VIE-Data Scientist",
+        "active": true,
+        "date_updated": 1773146635,
+        "date_posted": 1773146635,
+        "url": "https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/United-Kingdom-Coleshill/VIE-Data-Scientist-M-F-D-_R10085052",
+        "locations": [
+            "Solihull, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Air-Liquide",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
