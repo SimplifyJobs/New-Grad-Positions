@@ -188738,7 +188738,7 @@
         "company_name": "Ciena",
         "id": "5a70d1cc-933e-4847-81a6-78acf8ff9206",
         "title": "Metro Field Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1770161093,
         "date_posted": 1770161093,
         "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Remote-US/Metro-Field-Tech_R029868",
@@ -189106,7 +189106,7 @@
         "company_name": "BNY",
         "id": "5c4b2ef2-bfaa-4528-b15b-1564717e380d",
         "title": "Loans Administrator and Data Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1770160363,
         "date_posted": 1770160363,
         "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/73163",
@@ -249158,5 +249158,157 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "West Virginia University",
+        "id": "3ccd5127-426c-4ad7-8fa1-15609ea42456",
+        "title": "Postdoctoral Research Associate - Department of Physics and Astronomy",
+        "active": true,
+        "date_updated": 1773152606,
+        "date_posted": 1773152606,
+        "url": "https://wvu.taleo.net/careersection/faculty/jobdetail.ftl?job=28736",
+        "locations": [
+            "Morgantown, WV"
+        ],
+        "company_url": "https://simplify.jobs/c/West-Virginia-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Greenheck Group",
+        "id": "03bcdee7-ec03-495a-b342-2d4ccf7afe55",
+        "title": "Application Engineer 1",
+        "active": true,
+        "date_updated": 1773152229,
+        "date_posted": 1773152229,
+        "url": "https://greenheckgroup.wd5.myworkdayjobs.com/external/job/Clearwater-FL/Application-Engineer-I_JR103280",
+        "locations": [
+            "Clearwater, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Greenheck-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Radiance Technologies",
+        "id": "3c0a711e-0539-44fc-b3e2-d144a0950a61",
+        "title": "Bathymetric Imagery Analyst",
+        "active": true,
+        "date_updated": 1773151909,
+        "date_posted": 1773151909,
+        "url": "https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Stennis-Space-Center-MS/Bathymetric-Imagery-Analyst_HR102039-1",
+        "locations": [
+            "John C. Stennis Space Center, MS"
+        ],
+        "company_url": "https://simplify.jobs/c/Radiance-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "d8cb8eb0-d22a-4175-874e-513a1c6c50ca",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1773151825,
+        "date_posted": 1773151825,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052642",
+        "locations": [
+            "Sheffield, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "d5dada12-7906-4927-9152-dd86d5014094",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1773151824,
+        "date_posted": 1773151824,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052230",
+        "locations": [
+            "Solihull, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "5f3025ce-3cac-41d5-95a2-b9c77525e33b",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1773151853,
+        "date_posted": 1773151853,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052688",
+        "locations": [
+            "Oxford, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "2c2ee487-c5db-439c-ab24-6a7b19740bc7",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1773151830,
+        "date_posted": 1773151830,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052769",
+        "locations": [
+            "Woking, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Focus Financial Partners",
+        "id": "2ee6e482-a4ee-4d7b-9033-06f1da03c4c7",
+        "title": "Compliance Data Analyst",
+        "active": true,
+        "date_updated": 1773152763,
+        "date_posted": 1770679536,
+        "url": "https://job-boards.greenhouse.io/focuspartnerswealth/jobs/5797785004",
+        "locations": [
+            "St. Louis, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Focus-Financial-Partners",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
