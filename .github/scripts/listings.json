@@ -17264,7 +17264,7 @@
         "company_name": "RTX",
         "id": "4872a2dd-d3d3-4c32-8149-f247f4721d1c",
         "title": "Software Engineer 1 - Radar Product Line Team",
-        "active": false,
+        "active": true,
         "date_updated": 1759295272,
         "date_posted": 1759295272,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA801-Marlborough-MA-1001-Boston-Post-Road-Building-2-Marlborough-MA-01752-USA/XMLNAME-2026-Fulltime---Raytheon-Software-Engineer-I--On-site-_01797122",
@@ -34135,7 +34135,7 @@
         "company_name": "Keysight Technologies",
         "id": "c6827d85-c93f-46c0-b9f9-50380cb2e678",
         "title": "Manufacturing Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1762907413,
         "date_posted": 1762907413,
         "url": "https://jobs.keysight.com/jobs/50825?lang=en-us&icims=1",
@@ -54062,7 +54062,7 @@
         "company_name": "Quantexa",
         "id": "a1146331-b3dc-4372-8d2d-8cb1227b2f4e",
         "title": "Associate Data Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1761507400,
         "date_posted": 1761507400,
         "url": "https://apply.workable.com/quantexa/j/50C17DAD5A/apply",
@@ -80640,7 +80640,7 @@
         "company_name": "PIMCO",
         "id": "7fb02739-552a-4a13-bdbb-a947861d3b86",
         "title": "Quantitative Research Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1754059590,
         "date_posted": 1754059590,
         "url": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/Quantitative-Research-Analyst_R104951-1",
@@ -100946,7 +100946,7 @@
         "company_name": "OneRail",
         "id": "3eb91961-056f-4648-934c-ee20a0cc9e80",
         "title": "Onerail",
-        "active": true,
+        "active": false,
         "date_updated": 1764076656,
         "date_posted": 1763771188,
         "url": "https://onerail.applytojob.com/apply/CNOA6LYsNb/Product-Analyst-Integrations",
@@ -108645,7 +108645,7 @@
         "company_name": "Nexthop.ai",
         "id": "4a0ac2bd-9aed-42eb-88de-3663340e79b5",
         "title": "Software Engineer \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1764630605,
         "date_posted": 1764630605,
         "url": "https://nexthopai.bamboohr.com/careers/24/",
@@ -149489,7 +149489,7 @@
         "company_name": "PlayStation",
         "id": "5ad78819-b651-44a9-b4a9-aa7d77a1c93e",
         "title": "Associate Game Designer - Technical - Contingent",
-        "active": true,
+        "active": false,
         "date_updated": 1767828672,
         "date_posted": 1767828672,
         "url": "https://job-boards.greenhouse.io/naughtydog/jobs/5647737004",
@@ -236119,7 +236119,7 @@
         "company_name": "TD Bank",
         "id": "e87dbccb-d601-4e5a-aff8-05c12d528866",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1772494418,
         "date_posted": 1772494418,
         "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-I_R_1470146-1",
@@ -242489,7 +242489,7 @@
         "company_name": "Crusoe",
         "id": "18e96224-6d57-47ed-8408-ba01253484d5",
         "title": "Procurement Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1772703762,
         "date_posted": 1772579634,
         "url": "https://jobs.ashbyhq.com/Crusoe/cf79c92a-3895-4c8d-97a7-984dffc3222c/application",
@@ -244000,7 +244000,7 @@
         "company_name": "IXL Learning",
         "id": "97ecac68-0eb8-483e-9b08-338e5c54a46f",
         "title": "Associate Product Manager - Dictionary Media Group",
-        "active": true,
+        "active": false,
         "date_updated": 1772753384,
         "date_posted": 1772753384,
         "url": "https://www.ixl.com/company/jobs?gh_jid=8447256002",
@@ -245178,7 +245178,7 @@
         "company_name": "Fanatics",
         "id": "128a584a-11d3-4621-8a68-f55cdb65ff90",
         "title": "Backend Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1772839337,
         "date_posted": 1772839337,
         "url": "https://fa-exki-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26985",
@@ -245625,7 +245625,7 @@
         "company_name": "Scientific Research Corporation",
         "id": "36abdd44-35b8-498e-9207-c9219d1a904f",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1772838522,
         "date_posted": 1772838522,
         "url": "https://careers-scires.icims.com/jobs/11006/job?mobile=true&needsRedirect=false",
@@ -248051,6 +248051,201 @@
             "Harrisburg, PA"
         ],
         "company_url": "https://simplify.jobs/c/WebFX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Analog Devices",
+        "id": "d6cc1d50-521a-4e2e-9d34-ac1a29813932",
+        "title": "Wafer Fab Operator - All Shifts Available",
+        "active": true,
+        "date_updated": 1773100461,
+        "date_posted": 1773100461,
+        "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-WA-Camas/Wafer-Fab-Operator---All-Shifts-Available_R260074",
+        "locations": [
+            "Fairview, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Analog-Devices",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northwood Space",
+        "id": "a4cf563e-3824-42d7-a44d-e7f19ab629c1",
+        "title": "Technician \u2013 Antenna Manufacturing & Integration",
+        "active": true,
+        "date_updated": 1773100272,
+        "date_posted": 1773100272,
+        "url": "https://jobs.ashbyhq.com/NorthwoodSpace/e29feaeb-9e18-40a7-a5b5-303865bdc084/application",
+        "locations": [
+            "Carson, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Northwood-Space",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Jabil",
+        "id": "83712bfb-604c-4ffb-a0ba-996c0067f77d",
+        "title": "Conversions Rework Operator - Shift - Wed/Thurs-Saturday",
+        "active": true,
+        "date_updated": 1773100491,
+        "date_posted": 1773100491,
+        "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Florence-KY/CVG300-Conversions-Rework-Operator---403-Shift--Wed-Thurs--Saturday-_J2414345",
+        "locations": [
+            "Florence, KY"
+        ],
+        "company_url": "https://simplify.jobs/c/Jabil",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Light & Wonder",
+        "id": "619525ad-3213-41ca-958a-39ecf2d2f1f0",
+        "title": "Field Service Tech 1",
+        "active": true,
+        "date_updated": 1773100267,
+        "date_posted": 1773100267,
+        "url": "https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/California-US/Field-Service-Tech-II_R321208",
+        "locations": [
+            "Vallejo, CA",
+            "Santa Rosa, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Light-And-Wonder",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Peregrine",
+        "id": "50872ff4-5c23-458d-849c-c49c4aab0e6b",
+        "title": "Deployment Strategist \u2013 New Graduate",
+        "active": true,
+        "date_updated": 1773100349,
+        "date_posted": 1773100349,
+        "url": "https://job-boards.greenhouse.io/peregrinetechnologies/jobs/4671367005",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Peregrine-Tech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Nationwide",
+        "id": "210ad11a-6c39-4aa2-b3ea-3aa8513d16ea",
+        "title": "Analytic Solution Advisor",
+        "active": true,
+        "date_updated": 1773100271,
+        "date_posted": 1773100271,
+        "url": "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-One-Nationwide-Plaza/Analytic-Solution-Advisor_096927",
+        "locations": [
+            "Columbus, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Nationwide",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cadence Design Systems",
+        "id": "67df2b9d-0e00-4389-9883-247c9bc0d4cb",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1773100227,
+        "date_posted": 1773100227,
+        "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Software-Engineer-I_R53533",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ERM",
+        "id": "fc67159f-369d-44ca-9b5f-87063cea7fea",
+        "title": "Consulting Associate - Hydrogeologist - Entry",
+        "active": true,
+        "date_updated": 1773099223,
+        "date_posted": 1773099223,
+        "url": "https://erm.wd3.myworkdayjobs.com/ERM_Careers/job/Calgary-Canada/Consulting-Associate--Hydrogeologist--Entry-_R00029270-1",
+        "locations": [
+            "Calgary, AB, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/ERM",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "AAR",
+        "id": "38ee2ad7-5add-4b25-8094-93062668319f",
+        "title": "Repairs Representative - Trading",
+        "active": true,
+        "date_updated": 1773099071,
+        "date_posted": 1772061471,
+        "url": "https://aarcorp.taleo.net/careersection/aar_mobile/jobdetail.ftl?job=17829",
+        "locations": [
+            "Elk Grove Village, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/AAR",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "AAR",
+        "id": "314d6c83-f6ac-4438-8f66-fc2487594096",
+        "title": "Repairs Representative-Trading",
+        "active": true,
+        "date_updated": 1773099063,
+        "date_posted": 1772061470,
+        "url": "https://aarcorp.taleo.net/careersection/aar_mobile/jobdetail.ftl?job=18008",
+        "locations": [
+            "Elk Grove Village, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/AAR",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
