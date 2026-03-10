@@ -170741,7 +170741,7 @@
         "company_name": "Ophelia",
         "id": "1f99f764-e28e-42c7-ac30-de258bce545c",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1769125575,
         "date_posted": 1769125575,
         "url": "https://job-boards.greenhouse.io/ophelia/jobs/5081493008",
@@ -188073,7 +188073,7 @@
         "company_name": "Hewlett Packard Enterprise",
         "id": "25058c1c-f69d-4473-bcaf-5e821643b421",
         "title": "Systems Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1770104206,
         "date_posted": 1770104206,
         "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Roseville-California-United-States-of-America/Systems-Software-Engineer_1199612",
@@ -195066,7 +195066,7 @@
         "company_name": "Philips",
         "id": "ce7595b9-692b-4f55-b865-913e05ff1d2f",
         "title": "Full Time \u2013 Field Engineer Program - Field Service Engineer - Washington D.C",
-        "active": false,
+        "active": true,
         "date_updated": 1770379748,
         "date_posted": 1769644957,
         "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Washington-District-of-Columbia-United-States/Full-Time---Field-Engineer-Program--Field-Service-Engineer---Washington-DC---July-2026_574008",
@@ -205800,7 +205800,7 @@
         "company_name": "Anduril",
         "id": "fd13c0b8-1391-4ef9-93c7-ddd1da098dc1",
         "title": "Early Career Software Engineer - Mixed Reality",
-        "active": true,
+        "active": false,
         "date_updated": 1770950160,
         "date_posted": 1770950160,
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/5051227007",
@@ -207255,7 +207255,7 @@
         "company_name": "The Boeing Company",
         "id": "0e9c4fc9-610a-4338-a719-97360af27c43",
         "title": "Entry-Level Software Engineer - Systems Test and Verification",
-        "active": false,
+        "active": true,
         "date_updated": 1771026357,
         "date_posted": 1771026357,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Oklahoma-City-OK/Entry-Level-Software-Engineer---Systems-Test-and-Verification_JR2026496504-1",
@@ -242366,7 +242366,7 @@
         "company_name": "RTX",
         "id": "b524de61-9d76-47f2-860e-deafce23e1d1",
         "title": "Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1772697471,
         "date_posted": 1772697471,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/XMLNAME-2026-Full-time---Software-Engineer-1---Onsite--IN-_01827401",
@@ -249243,7 +249243,7 @@
         "company_name": "Sainsbury's",
         "id": "d5dada12-7906-4927-9152-dd86d5014094",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1773151824,
         "date_posted": 1773151824,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052230",
@@ -250259,6 +250259,147 @@
             "Cambridge, MA"
         ],
         "company_url": "https://simplify.jobs/c/MORSECorp",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Greenheck Group",
+        "id": "addfc901-eaf4-4d1a-ab9f-b96737af38e4",
+        "title": "Test Engineering Specialist",
+        "active": true,
+        "date_updated": 1773184449,
+        "date_posted": 1773184449,
+        "url": "https://greenheckgroup.wd5.myworkdayjobs.com/external/job/Tulsa-Facility-7---RTU/Test-Engineering-Specialist_JR103291",
+        "locations": [
+            "Plover, WI",
+            "Tulsa, OK"
+        ],
+        "company_url": "https://simplify.jobs/c/Greenheck-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "NVIDIA",
+        "id": "7add8e6a-41ed-4983-b852-b97e2cb1837d",
+        "title": "Silicon Co-Design Engineer \u2013 New College Grad",
+        "active": true,
+        "date_updated": 1773184493,
+        "date_posted": 1773184493,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Silicon-Co-Design-Engineer---New-College-Grad-2026_JR2014451",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "114f1b79-651a-49e0-812c-95a76f44f806",
+        "title": "Full-time - Software Engineer II",
+        "active": true,
+        "date_updated": 1773184037,
+        "date_posted": 1773184037,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/XMLNAME-2026-Full-time---Software-Engineer-II---Onsite--IN-_01829637",
+        "locations": [
+            "Indianapolis, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Abbott",
+        "id": "0e5a5814-33f2-4666-8f48-2d04f3decb9a",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1773183690,
+        "date_posted": 1773183690,
+        "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---San-Diego/Software-Engineer_31142265-1",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Abbott",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "ebfd357e-b8d0-485b-9374-6df4777c4ff8",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1773184014,
+        "date_posted": 1773184014,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA3--1001-Boston-Post-Rd--BLDG-3/Software-Engineer-I--Onsite-_01806424",
+        "locations": [
+            "Marlborough, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Boeing Company",
+        "id": "5c0beedb-e9a6-4ed9-833c-0c816e820c8f",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1773183944,
+        "date_posted": 1773183944,
+        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tukwila-WA/Software-Engineer--Associate-or-Experienced-_JR2026500177-1",
+        "locations": [
+            "Tukwila, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "GAP",
+        "id": "288506b1-cbad-4ecd-a48e-eb7d0125bdb2",
+        "title": "Product Manager 1 - Payments",
+        "active": true,
+        "date_updated": 1773183861,
+        "date_posted": 1773183861,
+        "url": "https://gapinc.wd1.myworkdayjobs.com/GAPINC/job/SF---2-Folsom/Product-Manager-I---Payments_R208349",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/GAP",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
