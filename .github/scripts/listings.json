@@ -214188,7 +214188,7 @@
         "company_name": "Asurion",
         "id": "6edcff48-2039-492f-9338-43e8f72d37fd",
         "title": "Cell Phone Repair Technician-Partnership Store - Google",
-        "active": true,
+        "active": false,
         "date_updated": 1771486508,
         "date_posted": 1771486508,
         "url": "https://asurion.wd5.myworkdayjobs.com/asurioncareers_us/job/UBIF-DC---Washington---3235-M-St-NW/Cell-Phone-Repair-Technician--Partnership-Store--Google-_ASU0018854-1",
@@ -226379,7 +226379,7 @@
         "company_name": "The Home Depot",
         "id": "e6db640b-7d58-457c-92c2-dad2a03d7821",
         "title": "Data Analyst - Supply Chain",
-        "active": true,
+        "active": false,
         "date_updated": 1772004848,
         "date_posted": 1772004848,
         "url": "https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Data-Analyst--Supply-Chain_Req167063",
@@ -246626,7 +246626,7 @@
         "company_name": "Sainsbury's",
         "id": "0683328a-77e4-4792-8b2c-5d1aa1b593af",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1773093075,
         "date_posted": 1773093075,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052616",
@@ -246883,7 +246883,7 @@
         "company_name": "Sainsbury's",
         "id": "a8b8191e-21ed-4f59-98a5-7da56051acf2",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1773093248,
         "date_posted": 1773093248,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052657",
@@ -247475,7 +247475,7 @@
         "company_name": "Sainsbury's",
         "id": "9744824b-d51b-426e-8cd9-5a8e2462709a",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1773094045,
         "date_posted": 1773094045,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052625",
@@ -248560,7 +248560,7 @@
         "company_name": "Sainsbury's",
         "id": "50e42aea-1f5b-4b7e-9dc7-36a31d1d7351",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1773104825,
         "date_posted": 1773104825,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051674",
@@ -249388,6 +249388,81 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Royal Bank of Canada",
+        "id": "e3ebfdfc-c27e-46ca-b80c-4be99419c370",
+        "title": "Business Insights Associate",
+        "active": true,
+        "date_updated": 1773156077,
+        "date_posted": 1773156077,
+        "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/16-ST-HELENS-PLACELONDON/Business-Insights-Associate_R-0000163106",
+        "locations": [
+            "London, UK",
+            "Edinburgh, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Welocalize",
+        "id": "7e2d25e1-871a-4870-aabd-8533aade2137",
+        "title": "Mandarin Culture and Language Expert",
+        "active": true,
+        "date_updated": 1773156139,
+        "date_posted": 1772244502,
+        "url": "https://jobs.lever.co/welocalize/b760dae6-c39d-42d8-8094-a6b533df79aa/apply",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Welocalize",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northrop Grumman",
+        "id": "8a5030aa-c704-40c0-916a-175bf9b067e6",
+        "title": "SCA Engineering Technician 1",
+        "active": true,
+        "date_updated": 1773155535,
+        "date_posted": 1773155535,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Georgia-Warner-Robins/SCA-Engineering-Technician-1_R10225392",
+        "locations": [
+            "Warner Robins, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Techtronic Industries",
+        "id": "f83c3eab-50aa-4f08-a5d7-2fd1dfe55b8d",
+        "title": "Compliance Specialist",
+        "active": true,
+        "date_updated": 1773154814,
+        "date_posted": 1773154814,
+        "url": "https://tti.wd1.myworkdayjobs.com/tti_pe/job/Anderson-SC/Compliance-Specialist_R71594",
+        "locations": [
+            "Anderson, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/7b5dc30f-d4b0-4752-be0b-3844a8f590e9",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
         ]
     }
 ]
