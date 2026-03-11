@@ -212622,7 +212622,7 @@
         "company_name": "Emerson Electric",
         "id": "cba1abe6-bab0-4be0-9df0-13cbbde37106",
         "title": "Engineering Development Program - EE EDP 2026",
-        "active": true,
+        "active": false,
         "date_updated": 1771456396,
         "date_posted": 1771456396,
         "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26001942",
@@ -250403,5 +250403,263 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "bba7004f-ae1e-4aba-9bf0-55e3204b14a3",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1773191497,
+        "date_posted": 1773191497,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052849",
+        "locations": [
+            "Thurrock, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Wells Fargo",
+        "id": "6b758931-3422-4054-b24a-9c3294c2bcf6",
+        "title": "Analyst \u2013 E-FX Systematic Trading",
+        "active": true,
+        "date_updated": 1773192130,
+        "date_posted": 1773192130,
+        "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/NEW-YORK-NY/Analyst--E-FX-Systematic-Trading_R-528135",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Wells-Fargo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "FOX",
+        "id": "4a51294c-1f9a-4057-a49b-829f296c72e7",
+        "title": "Data Warehousing Specialist",
+        "active": true,
+        "date_updated": 1773192170,
+        "date_posted": 1773192170,
+        "url": "https://fox.wd1.myworkdayjobs.com/Domestic/job/Los-Angeles-California-USA/Database-Warehousing-Specialist_R50031910",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/FOX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Aurelian",
+        "id": "7d3a1910-764e-4d61-9f18-3c690f7a1042",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1773191873,
+        "date_posted": 1773191873,
+        "url": "https://jobs.ashbyhq.com/aurelian/72585ad6-b03e-452c-a943-9da0d167bd5e/application",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Aurelian",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Zebra Technologies",
+        "id": "0e0f40b6-cdfa-4731-97b7-92158d81d320",
+        "title": "Software Engineer - I - Engineering",
+        "active": true,
+        "date_updated": 1773191871,
+        "date_posted": 1773191871,
+        "url": "https://zebra.eightfold.ai/careers/job/343638048563",
+        "locations": [
+            "Vernon Hills, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Zebra-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Snowflake",
+        "id": "a90902da-0004-44a4-b28b-f38803133694",
+        "title": "Product Manager - Cortex Code Enablement",
+        "active": true,
+        "date_updated": 1773191563,
+        "date_posted": 1773191563,
+        "url": "https://jobs.ashbyhq.com/snowflake/0675599f-3475-4706-ab37-925bc34aebe0/application",
+        "locations": [
+            "Menlo Park, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Snowflake",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "353214a3-a894-4080-aa6c-222b658e45a5",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1773191680,
+        "date_posted": 1773191680,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052873",
+        "locations": [
+            "Blackpool, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Tolan",
+        "id": "1d12afa1-f2a3-4a87-bad6-bb6a19dfdab6",
+        "title": "Research Operations Coordinator",
+        "active": true,
+        "date_updated": 1773191731,
+        "date_posted": 1773191731,
+        "url": "https://jobs.ashbyhq.com/tolan/bdf5327a-ef81-4657-a4a4-22750ab6de57/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Tolan",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SpaceX",
+        "id": "96247fed-2a50-4c50-afd8-2bff0e45bf5d",
+        "title": "Security Software Engineer",
+        "active": true,
+        "date_updated": 1773191353,
+        "date_posted": 1773191353,
+        "url": "https://boards.greenhouse.io/spacex/jobs/8445643002",
+        "locations": [
+            "West Athens, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/SpaceX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Redwood Credit Union",
+        "id": "1b0fb6cf-5fa0-411f-b245-1fe0c1bd6959",
+        "title": "Automation Engineer 1",
+        "active": true,
+        "date_updated": 1773191379,
+        "date_posted": 1773191379,
+        "url": "https://jobs.lever.co/redwoodcu/bbc25562-46bb-409f-9a75-5c2d6ee28522/apply",
+        "locations": [
+            "Napa, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Redwood-Credit-Union",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Mercury Insurance",
+        "id": "c90377a2-4857-42ae-937b-07c19bb30837",
+        "title": "Mercury Ignite Growth Data Science and Data Governance Graduate Development Program",
+        "active": true,
+        "date_updated": 1773191141,
+        "date_posted": 1773191141,
+        "url": "https://careers-mercuryinsurance.icims.com/jobs/6229/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Mercury-Insurance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Woongjin",
+        "id": "c45292a2-9448-4413-a372-5bcd997cd643",
+        "title": "WMS Developer - Java - English/Korean",
+        "active": true,
+        "date_updated": 1773191060,
+        "date_posted": 1773191060,
+        "url": "https://jobs.smartrecruiters.com/WJCompany/744000113827477",
+        "locations": [
+            "Orange, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Woongjin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Mercury Insurance",
+        "id": "4e7c95c8-f527-4107-bb03-937c787d1deb",
+        "title": "Data Science & Machine Learning Graduate Development Program",
+        "active": true,
+        "date_updated": 1773191143,
+        "date_posted": 1773191143,
+        "url": "https://careers-mercuryinsurance.icims.com/jobs/6233/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Mercury-Insurance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
