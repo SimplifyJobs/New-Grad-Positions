@@ -94148,7 +94148,7 @@
         "company_name": "Milwaukee Tool",
         "id": "06473ec5-06c4-4fb3-8064-cdeaafaf65d9",
         "title": "Repair Technician 1",
-        "active": true,
+        "active": false,
         "date_updated": 1763666292,
         "date_posted": 1763666292,
         "url": "https://tti.wd1.myworkdayjobs.com/en-US/Milwaukee/job/Greenwood-MS/Repair-Tech-1_R66661",
@@ -189090,7 +189090,7 @@
         "company_name": "BNY",
         "id": "5c4b2ef2-bfaa-4528-b15b-1564717e380d",
         "title": "Loans Administrator and Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1770160363,
         "date_posted": 1770160363,
         "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/73163",
@@ -219276,7 +219276,7 @@
         "company_name": "Wash U",
         "id": "185aa63e-d009-4ae4-a2d6-f87f620a3938",
         "title": "Statistical Data Analyst - Pediatrics Newborn Medicine",
-        "active": true,
+        "active": false,
         "date_updated": 1771630770,
         "date_posted": 1771630770,
         "url": "https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-Medical-Campus/Statistical-Data-Analyst---Pediatrics-Newborn-Medicine_JR92756",
@@ -234042,7 +234042,7 @@
         "company_name": "Sainsbury's",
         "id": "b38a8ba5-3c5d-4774-8af3-292ee7379394",
         "title": "Trading Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1772291449,
         "date_posted": 1772291449,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051450",
@@ -236966,7 +236966,7 @@
         "company_name": "Leonardo",
         "id": "d0c43012-7a70-45e4-a00c-0afefb7024ab",
         "title": "Data Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1772522882,
         "date_posted": 1772522882,
         "url": "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Bristol---Coldharbour-Lane/Data-Scientist_R0026228-1",
@@ -251488,5 +251488,41 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "OPTrust",
+        "id": "cbbc1a62-4907-4c7d-8817-a88c31f354ab",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1773182168,
+        "date_posted": 1773182168,
+        "url": "https://optrust.wd3.myworkdayjobs.com/OPTrust/job/Toronto-ON/Data-Analyst_R1169",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/OPTrust",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "54c7e6a2-0d1e-4477-84f1-ade982d0a3d6",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1773238775,
+        "date_posted": 1773238775,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052918",
+        "locations": [
+            "Leeds, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
