@@ -251060,5 +251060,23 @@
         "date_posted": 1773236974,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1773237052,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://careers-gdms.icims.com/jobs/70886/entry-level-infrastructure-software-engineer/job",
+        "company_name": "General Dynamics Mission Systems",
+        "title": "Entry Level Infrastructure Software Engineer",
+        "locations": [
+            "Pittsfield, MA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "f57d2f29-1723-4e44-9ae0-dd5ab38d7bf3",
+        "date_posted": 1773237052,
+        "company_url": "",
+        "is_visible": true
     }
 ]
