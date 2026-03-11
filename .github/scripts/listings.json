@@ -47344,7 +47344,7 @@
         "company_name": "TikTok",
         "id": "8e04d6a6-5911-4f5b-9dfb-deb716c9d742",
         "title": "Associate Software Engineer - Global Engineering CDN Platform",
-        "active": true,
+        "active": false,
         "date_updated": 1761902906,
         "date_posted": 1761902906,
         "url": "https://lifeattiktok.com/search/7400411130659178761",
@@ -81586,45 +81586,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "DRW",
-        "id": "ae8ad002-58b2-414a-a46b-87b25c8eb521",
-        "title": "Quantitative Trading Analyst",
-        "active": true,
-        "date_updated": 1752527811,
-        "date_posted": 1752527811,
-        "url": "https://job-boards.greenhouse.io/drweng/jobs/6987086",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/DRW",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "DRW",
-        "id": "3f4389f0-fae7-431a-9157-f5242623ef3e",
-        "title": "Software Developer",
-        "active": false,
-        "date_updated": 1752527365,
-        "date_posted": 1752527365,
-        "url": "https://job-boards.greenhouse.io/drweng/jobs/6987089",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/DRW",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Wash U",
         "id": "ace8bc2b-6513-4a62-bafc-464421bea500",
@@ -100925,7 +100886,7 @@
         "company_name": "Stackline",
         "id": "5cba0867-9dba-4f74-ad53-b596f293ced9",
         "title": "Data Scientist 1",
-        "active": false,
+        "active": true,
         "date_updated": 1764112457,
         "date_posted": 1764112457,
         "url": "https://job-boards.greenhouse.io/stackline/jobs/4633616005",
@@ -237533,7 +237494,7 @@
         "company_name": "Veolia",
         "id": "732690a4-570d-4925-b91a-64fe237846f0",
         "title": "Repr\u00e9sentant - Field Services Representative",
-        "active": true,
+        "active": false,
         "date_updated": 1772580264,
         "date_posted": 1772580264,
         "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000112508622",
@@ -251347,5 +251308,26 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amentum",
+        "id": "8298fa01-a146-467b-aab9-b8f6171e2123",
+        "title": "Junior Software Engineer for Naval Research Technology",
+        "active": true,
+        "date_updated": 1773182259,
+        "date_posted": 1773182259,
+        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Fredericksburg/Junior-Software-Engineer-for-Naval-Research-Technology_R0156107",
+        "locations": [
+            "Fredericksburg, VA",
+            "Dahlgren, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amentum",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
