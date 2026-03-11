@@ -210928,7 +210928,7 @@
         "company_name": "Bandwidth",
         "id": "482723f9-64f3-4d87-ab37-876592793c03",
         "title": "Enterprise Systems Administrator",
-        "active": true,
+        "active": false,
         "date_updated": 1771371109,
         "date_posted": 1771371109,
         "url": "https://job-boards.greenhouse.io/bandwidth/jobs/7613350",
@@ -245067,7 +245067,7 @@
         "company_name": "Autodesk",
         "id": "9aacac0c-e41f-4c93-af62-9b9770bf4aee",
         "title": "Applied AI Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1772839338,
         "date_posted": 1772839338,
         "url": "https://autodesk.wd1.myworkdayjobs.com/uni/job/Toronto-ON-CAN/Applied-AI-Analyst_25WD91166-2",
@@ -246176,7 +246176,7 @@
         "company_name": "Autodesk",
         "id": "2e1b2d3c-f78d-4923-b631-9fc4cee7f574",
         "title": "Applied AI Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1772839614,
         "date_posted": 1772839614,
         "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Applied-AI-Analyst_25WD91166-3",
@@ -247077,7 +247077,7 @@
         "company_name": "State Street",
         "id": "e71637f3-93d6-4e0a-9743-73e6cf063739",
         "title": "Software Engineer 1 - Full Stack",
-        "active": true,
+        "active": false,
         "date_updated": 1773096658,
         "date_posted": 1773096658,
         "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/SW-Engineer-I---Full-Stack--Officer_R-785495",
@@ -251115,5 +251115,280 @@
         "date_posted": 1773237735,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "fa8e5a4f-2765-45d8-a1cb-2749feba5ed6",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1773238769,
+        "date_posted": 1773238769,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052948",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "b1648951-42a4-44fa-9aa9-6d3d9a126e00",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1773238767,
+        "date_posted": 1773238767,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051190",
+        "locations": [
+            "Dorking, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Faculty AI",
+        "id": "ef5fa86e-d3b0-4001-9291-645786553f8f",
+        "title": "Associate AI Safety",
+        "active": true,
+        "date_updated": 1773238505,
+        "date_posted": 1773238505,
+        "url": "https://jobs.ashbyhq.com/faculty/b4602efb-485a-4862-973a-e31edca06db8/application",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Faculty-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "cfacb1a5-cf78-4d00-b8b6-480731aaf994",
+        "title": "Engineering Technician C",
+        "active": true,
+        "date_updated": 1773238456,
+        "date_posted": 1773238456,
+        "url": "https://jobs.l3harris.com/job/State-College-Engineering-Technician-C-PA-16803/1372212600/?ats=successfactors",
+        "locations": [
+            "State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "c9e6c4de-76b9-4833-80d9-dc2af3f34d24",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1773238480,
+        "date_posted": 1773238480,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052970",
+        "locations": [
+            "Christchurch, UK",
+            "Dorchester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "bbb8eceb-ee49-4bd8-9df1-344a7582afe7",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1773238484,
+        "date_posted": 1773238484,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052947",
+        "locations": [
+            "Derby, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "754961f6-eb4f-45a2-81cf-74babe9abb18",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1773238486,
+        "date_posted": 1773238486,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052953",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "6e42d024-a8aa-4d78-bf62-818b02ef3c44",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1773238486,
+        "date_posted": 1773238486,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052997",
+        "locations": [
+            "Sheffield, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "BGIS",
+        "id": "6df1776e-5cd6-48f9-b5c8-069dc2e78d60",
+        "title": "Energy Analytics Developer",
+        "active": true,
+        "date_updated": 1773238594,
+        "date_posted": 1773238594,
+        "url": "https://fa-evcg-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/229485",
+        "locations": [
+            "Markham, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/BGIS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "65d43837-3b90-47e9-9d7d-2cd22f37a674",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1773238490,
+        "date_posted": 1773238490,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052999",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "51b369ad-f674-458d-a28f-aba67adf7f35",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1773238462,
+        "date_posted": 1773238462,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052955",
+        "locations": [
+            "Derby, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "43a1ca2f-241d-4991-b4fe-d028492e9cf2",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1773238502,
+        "date_posted": 1773238502,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052960",
+        "locations": [
+            "Derby, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "JP Morgan Chase",
+        "id": "41490a8a-dafc-441c-a6c8-469576962859",
+        "title": "Software Engineer 2 - Security and Privileged Access",
+        "active": true,
+        "date_updated": 1773238517,
+        "date_posted": 1773238517,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210722507",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "2cdf6eac-1b7a-4385-89ac-63a0cde09a31",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1773238488,
+        "date_posted": 1773238488,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052990",
+        "locations": [
+            "Gloucester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "2841e275-cd9d-4201-90da-725ef969b279",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1773238496,
+        "date_posted": 1773238496,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052607",
+        "locations": [
+            "Ipswich, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
