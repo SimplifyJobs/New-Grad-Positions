@@ -55,40 +55,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Old Mission",
-        "id": "f0523704-6917-4869-82a6-536b484b8fac",
-        "title": "College Graduates - Full-Time - Junior Software Engineer",
-        "active": false,
-        "date_updated": 1752520275,
-        "date_posted": 1752520275,
-        "url": "https://www.oldmissioncapital.com/careers/?gh_jid=6602927003",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Old-Mission",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Old Mission",
-        "id": "b09d07b6-2d11-469e-b3aa-b297ebd7f7a3",
-        "title": "College Graduates - Full-Time - Junior Quantitative Trader",
-        "active": false,
-        "date_updated": 1752520281,
-        "date_posted": 1752520281,
-        "url": "https://www.oldmissioncapital.com/careers/?gh_jid=6602928003",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Old-Mission",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Akamai Technologies",
         "id": "09cabfc5-67b1-4553-87c6-0866a7d70657",
         "title": "Software Engineer I",
@@ -102,24 +68,6 @@
         "company_url": "https://simplify.jobs/c/Akamai",
         "is_visible": true,
         "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Old Mission",
-        "id": "9e3271b2-bfd1-4924-80cc-6adf115fe3ac",
-        "title": "College Graduates - Full-Time - Junior Quantitative Trader",
-        "active": false,
-        "date_updated": 1761835024,
-        "date_posted": 1752520276,
-        "url": "https://www.oldmissioncapital.com/careers/?gh_jid=6602920003",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Old-Mission",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -110655,7 +110603,7 @@
         "company_name": "General Dynamics Information Technology",
         "id": "595b2d06-7f54-404b-a53a-31caefb3ae05",
         "title": "Human Performance Data Scientist 1",
-        "active": true,
+        "active": false,
         "date_updated": 1764731685,
         "date_posted": 1764731685,
         "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-FL-Hurlburt-Field---Hurlburt-Fld-FLC017/Human-Performance-Data-Scientist-I_RQ210954",
@@ -127433,7 +127381,7 @@
         "company_name": "JP Morgan Chase",
         "id": "14d1a8fb-7dea-42f3-867d-6bcc6fc421e9",
         "title": "Quantitative Research - Data Analytics - Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1765988349,
         "date_posted": 1765988349,
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210678649",
@@ -150028,7 +149976,7 @@
         "company_name": "Quantifind",
         "id": "aa7572ba-4d3e-4403-9a7a-be1290d585cb",
         "title": "Associate Product Marketing Manager",
-        "active": true,
+        "active": false,
         "date_updated": 1767839249,
         "date_posted": 1767839249,
         "url": "https://www.quantifind.com/open-positions/?gh_jid=7522110",
@@ -157483,7 +157431,7 @@
         "company_name": "General Dynamics Information Technology",
         "id": "36c9b7b4-9e96-49e9-adda-25c5ec121022",
         "title": "Junior Software Developer - Active TS/SCI with Poly Required",
-        "active": true,
+        "active": false,
         "date_updated": 1768347209,
         "date_posted": 1768347209,
         "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Junior-Software-Developer--Active-TS-SCI-with-Poly-Required-_RQ212931",
@@ -198164,7 +198112,7 @@
         "company_name": "Blissway",
         "id": "29bf42d1-b207-4dba-acb4-93a532406d14",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1770678786,
         "date_posted": 1770678786,
         "url": "https://jobs.ashbyhq.com/blissway/349b4318-a2bd-44c8-832b-f159701ab7e0/application",
