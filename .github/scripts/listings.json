@@ -251097,5 +251097,23 @@
         "date_posted": 1773237253,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1773237735,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://isu.wd1.myworkdayjobs.com/en-US/iowastatejobs/job/Ames-IA/Data-Analyst-I_R18764",
+        "company_name": "Iowa State University",
+        "title": "Data Analyst I",
+        "locations": [
+            "Ames, IA"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "ed32717e-2701-4296-9733-554bd3478df0",
+        "date_posted": 1773237735,
+        "company_url": "",
+        "is_visible": true
     }
 ]
