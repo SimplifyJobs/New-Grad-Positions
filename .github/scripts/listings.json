@@ -15881,7 +15881,7 @@
         "source": "Simplify",
         "category": "Software",
         "company_name": "mthree",
-        "id": "c69eca4d-3efe-46db-a9c2-5a84040d6c8b",
+        "id": "13614527-7efc-429b-ba53-e410fe62b4a0",
         "title": "Junior Software Developer - Java/Scala",
         "active": true,
         "date_updated": 1758755027,
@@ -117830,7 +117830,7 @@
         "company_name": "Mechanize",
         "id": "95cfcae1-13a4-46ee-998d-53e2d76bbe2f",
         "title": "Junior Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1767841111,
         "date_posted": 1767841111,
         "url": "https://jobs.ashbyhq.com/mechanize/b50c89dc-001c-4fb6-a4fc-a9f52f35b490/application",
@@ -195032,7 +195032,7 @@
         "company_name": "Philips",
         "id": "0c9e8f51-8623-4c21-9c85-122bdff54c95",
         "title": "Full Time Field Engineer Program - Field Service Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1770378722,
         "date_posted": 1769644957,
         "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cincinnati-Ohio-United-States/Full-Time---Field-Engineer-Program--Field-Service-Engineer---Cincinnati--OH---July-2026_573773",
@@ -227365,7 +227365,7 @@
         "company_name": "ASM International",
         "id": "c81df46f-5efa-4098-b6c0-15e209f0b535",
         "title": "Engineer \u2013 Field Service-\"Early Career\"",
-        "active": true,
+        "active": false,
         "date_updated": 1772060630,
         "date_posted": 1772060630,
         "url": "https://www.asm.com/open-vacancies/?gh_jid=4739225101",
@@ -236675,7 +236675,7 @@
         "company_name": "ATPCO",
         "id": "240805d6-aa34-4d9b-a4c6-c9499543d647",
         "title": "Data Strategist",
-        "active": true,
+        "active": false,
         "date_updated": 1772504475,
         "date_posted": 1772504475,
         "url": "https://jobs.smartrecruiters.com/ATPCO1/744000112209457",
@@ -250923,6 +250923,26 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ADT",
+        "id": "341fcb00-f30e-463e-ba11-fe0b76b4c529",
+        "title": "Java Engineer",
+        "active": true,
+        "date_updated": 1773218918,
+        "date_posted": 1772579679,
+        "url": "https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3018926",
+        "locations": [
+            "Ambler, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/ADT",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
