@@ -251024,5 +251024,23 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "date_updated": 1773236748,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://job-boards.greenhouse.io/cti/jobs/5143225008",
+        "company_name": "CTI",
+        "title": "Junior Java Software Engineer",
+        "locations": [
+            "Camarillo, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "6e1001cd-7c34-4623-8294-25078ff00652",
+        "date_posted": 1773236748,
+        "company_url": "",
+        "is_visible": true
     }
 ]
