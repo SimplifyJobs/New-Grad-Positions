@@ -81692,24 +81692,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Jane Street",
-        "id": "ee2ee074-f21f-47ad-b38e-18af8b49d72f",
-        "title": "Cybersecurity Analyst",
-        "active": false,
-        "date_updated": 1752517570,
-        "date_posted": 1752517570,
-        "url": "https://job-boards.greenhouse.io/janestreet/jobs/8069279002",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Jane-Street",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Core One",
         "id": "ca6ba120-30b7-463f-8084-5f11fa08eebc",
         "title": "Software Developer 1",
@@ -200691,7 +200673,7 @@
         "company_name": "Bank of America",
         "id": "d3b8012e-93ef-45cc-88fc-28ca62df97d8",
         "title": "Data Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1770766931,
         "date_posted": 1770766931,
         "url": "https://ghr.wd1.myworkdayjobs.com/us-emplsv/job/Charlotte/Data-Scientist_26003910-1",
@@ -243404,7 +243386,7 @@
         "company_name": "KBR",
         "id": "706793e9-ee8f-4122-807a-309235a6fabe",
         "title": "Entry-Level Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1772754495,
         "date_posted": 1772754495,
         "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Houston-Texas/Entry-Level-Software-Developer--Command-_R2119997",
