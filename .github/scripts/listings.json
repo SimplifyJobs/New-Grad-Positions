@@ -168029,7 +168029,7 @@
         "company_name": "Cirrus Logic",
         "id": "28c720e7-ee36-4d73-b9ab-9ad198683c15",
         "title": "Design Verification Engineer \u2013 Entry Level",
-        "active": true,
+        "active": false,
         "date_updated": 1769036847,
         "date_posted": 1769036847,
         "url": "https://jobs.eu.lever.co/cirrus/52d2a1c6-556a-43c0-9f80-76976667764d/apply",
@@ -220061,7 +220061,7 @@
         "company_name": "Northrop Grumman",
         "id": "5a267649-90e5-43bf-9eb7-3f245f5dd43c",
         "title": "Configuration Data Management Controller",
-        "active": true,
+        "active": false,
         "date_updated": 1771728214,
         "date_posted": 1771728214,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/Configuration-Data-Management-Controller-2-3_R10223669",
@@ -230646,7 +230646,7 @@
         "company_name": "Walmart",
         "id": "2c23975d-f026-4840-889c-12204bba1c2b",
         "title": "Senior Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1772150993,
         "date_posted": 1772150993,
         "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-Crossman-Respect-Building-CA-SUNNYVALE-Home-Office/Senior-Software-Engineer_R-2416058",
@@ -235777,7 +235777,7 @@
         "company_name": "Corning",
         "id": "2f797998-5279-4507-a799-9438ba16aaf2",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1772492965,
         "date_posted": 1772492965,
         "url": "https://corningjobs.corning.com/job/Corning-Software-Engineer-NY-14831/1369203400/?ats=successfactors",
@@ -241572,7 +241572,7 @@
         "source": "Simplify",
         "category": "Software",
         "company_name": "Metropolitan Transportation Authority",
-        "id": "4c0dab45-55ba-43b4-a4c3-9f1bd32957ed",
+        "id": "82bbe341-ce93-4a6a-a4f1-b0382f37cfc5",
         "title": "Application Developer 1 - PeopleSoft",
         "active": true,
         "date_updated": 1772676547,
@@ -242491,7 +242491,7 @@
         "company_name": "Daybreak Games",
         "id": "49713325-fb02-4ee3-92c6-f00e462814f5",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1772703933,
         "date_posted": 1772505281,
         "url": "https://www.daybreakgames.com/careers?gh_jid=8445528002",
@@ -243251,7 +243251,7 @@
         "company_name": "Sainsbury's",
         "id": "adffb957-7e0b-4d5a-8a76-cb425d4d4cd3",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1772752056,
         "date_posted": 1772752056,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052135",
@@ -250939,6 +250939,47 @@
             "Ambler, PA"
         ],
         "company_url": "https://simplify.jobs/c/ADT",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Monolithic Power Systems",
+        "id": "dcd323bc-7e40-413e-a80a-a2d381d63f81",
+        "title": "New Grad Product Marketing Engineer",
+        "active": true,
+        "date_updated": 1773220690,
+        "date_posted": 1773220690,
+        "url": "https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/San-Jose-CA/New-Grad-Product-Marketing-Engineer_R-463",
+        "locations": [
+            "San Jose, CA",
+            "Kirkland, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Monolithic-Power-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Susquehanna International Group (SIG)",
+        "id": "eddd9f96-e3d7-4f6a-9587-01f1c1add192",
+        "title": "Compensation Data Analyst",
+        "active": true,
+        "date_updated": 1773220407,
+        "date_posted": 1772234020,
+        "url": "https://careers-sig.icims.com/jobs/10589/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Ardmore, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Susquehanna",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
