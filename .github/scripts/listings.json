@@ -212201,7 +212201,7 @@
         "company_name": "Northrop Grumman",
         "id": "9a8519ca-d347-40af-acfe-c11d8a4cd5d6",
         "title": "Software Engineer: Automation - Level 2 or 3 - Chandler",
-        "active": false,
+        "active": true,
         "date_updated": 1771429944,
         "date_posted": 1771429944,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/Software-Engineer--Automation---Level-2-or-3--Chandler-_R10223203",
@@ -237902,7 +237902,7 @@
         "company_name": "Rivian",
         "id": "e8750057-1ee5-4f18-bd37-485b4d0db170",
         "title": "Data Analyst 2",
-        "active": true,
+        "active": false,
         "date_updated": 1772579512,
         "date_posted": 1772579512,
         "url": "https://careers.rivian.com/jobs/29653?lang=en-us&icims=1",
@@ -248119,7 +248119,7 @@
         "company_name": "Light & Wonder",
         "id": "619525ad-3213-41ca-958a-39ecf2d2f1f0",
         "title": "Field Service Tech 1",
-        "active": true,
+        "active": false,
         "date_updated": 1773100267,
         "date_posted": 1773100267,
         "url": "https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/California-US/Field-Service-Tech-II_R321208",
@@ -249471,7 +249471,7 @@
         "company_name": "Allstate Insurance Company",
         "id": "dd5c65ce-3d82-4536-a07a-5c577351420a",
         "title": "ATS Technology Development Program",
-        "active": true,
+        "active": false,
         "date_updated": 1773156500,
         "date_posted": 1773156500,
         "url": "https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/USA---CA-Remote/XMLNAME-2026-ATS-Technology-Development-Program_R22128",
@@ -250661,5 +250661,103 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CVS Health",
+        "id": "70eced2a-c1f8-414f-bc49-33b0b0a6a48f",
+        "title": "Data Engineer",
+        "active": true,
+        "date_updated": 1773184330,
+        "date_posted": 1773184330,
+        "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Hartford/Data-Engineer_R0841914",
+        "locations": [
+            "Hartford, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/CVS-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "518b457f-d649-4bdb-a188-9705146ac6d2",
+        "title": "Manufacturing Engineer / Principal Manufacturing Engineer",
+        "active": true,
+        "date_updated": 1773183602,
+        "date_posted": 1773183602,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Salt-Lake-City/Engineer-Manufacturing-Principal-Engineer-Manufacturing_R10225125",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northrop Grumman",
+        "id": "41924624-56b4-4145-8faa-c06818268847",
+        "title": "Engineering Technician Level 2 or 3 - Active Secret Clearance Required",
+        "active": true,
+        "date_updated": 1773183591,
+        "date_posted": 1773183591,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Engineering-Technician-Level-2-or-3--Active-Secret-Clearance-Required-_R10225480",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Maven Securities",
+        "id": "6437f9fb-a2c5-4f46-b13c-9e9bea098167",
+        "title": "Trading Analyst - Python",
+        "active": true,
+        "date_updated": 1773191594,
+        "date_posted": 1773191594,
+        "url": "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/7669839",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Maven-Securities",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "3d795c00-c05b-451f-b02d-ed0580b2d9aa",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1773191500,
+        "date_posted": 1773191500,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052888",
+        "locations": [
+            "Durham, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
