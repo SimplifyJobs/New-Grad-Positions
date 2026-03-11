@@ -191068,7 +191068,7 @@
         "company_name": "University of Texas - Austin",
         "id": "0a9be08c-daa1-47fd-aa7a-7fe64c9ec828",
         "title": "Postdoctoral Research Fellow - Department of Information - Risk and Operations Management",
-        "active": true,
+        "active": false,
         "date_updated": 1770246201,
         "date_posted": 1770246201,
         "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Postdoctoral-Research-Fellow--Department-of-Information--Risk--and-Operations-Management_R_00044413",
@@ -202734,7 +202734,7 @@
         "company_name": "Unisys",
         "id": "bdac5eec-e8c8-424a-8d96-7fbee842e16d",
         "title": "Associate Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1770854379,
         "date_posted": 1770854379,
         "url": "https://unisys.wd5.myworkdayjobs.com/en-US/External/job/Eagan-Regus/Associate-Engineer_REQ569717",
@@ -205903,7 +205903,7 @@
         "company_name": "Confluent",
         "id": "af76e8a1-da8b-4cce-b18e-f1c3745028e1",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1770995931,
         "date_posted": 1770995931,
         "url": "https://jobs.ashbyhq.com/confluent/67c15e3b-7d49-440e-9e33-8d04725e805d/application",
@@ -234981,7 +234981,7 @@
         "company_name": "Allegion",
         "id": "93761297-fc29-47ca-a7e8-9be53ee12ff1",
         "title": "Firmware Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1772493778,
         "date_posted": 1772493778,
         "url": "https://allegion.wd5.myworkdayjobs.com/careers/job/Indianapolis-IN---Hague-Rd/Firmware-Engineer-I_JR35424",
@@ -245621,7 +245621,7 @@
         "company_name": "RELX",
         "id": "157f0b1d-8048-4d2f-96ef-d182cf5e93fd",
         "title": "Associate Product Manager Rotational Program",
-        "active": false,
+        "active": true,
         "date_updated": 1772840621,
         "date_posted": 1772840621,
         "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Alpharetta-GA/Associate-Product-Manager-Rotational-Program--Hybrid-_R109914-2",
@@ -251664,6 +251664,297 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Captivation",
+        "id": "3c64da25-233c-4b4a-83db-612235ef7194",
+        "title": "Software Engineer 1 - Java/MapReduce/Cloud/GhostMachine/QTA",
+        "active": true,
+        "date_updated": 1773267458,
+        "date_posted": 1773267458,
+        "url": "https://job-boards.greenhouse.io/captivation/jobs/5150579008",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Captivation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Markon",
+        "id": "2dc45921-b9c5-4801-ae2b-3802e9152957",
+        "title": "Software Engineer Level 0",
+        "active": true,
+        "date_updated": 1773267130,
+        "date_posted": 1773267130,
+        "url": "https://careers-markon.icims.com/jobs/8208/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Odenton, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Markon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Agilent Technologies",
+        "id": "ae7de1cd-f2ad-416f-8881-938a0adc525a",
+        "title": "Data Scientist - Integrated Business Planning",
+        "active": true,
+        "date_updated": 1773269619,
+        "date_posted": 1773269619,
+        "url": "https://agilent.wd5.myworkdayjobs.com/Agilent_Student_Careers/job/US-DE-Wilmington/Data-Scientist--Integrated-Business-Planning_4037132",
+        "locations": [
+            "Santa Clara, CA",
+            "Wilmington, DE"
+        ],
+        "company_url": "https://simplify.jobs/c/Agilent-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Waymo",
+        "id": "97a2ec87-bbed-4c9b-9026-c59186fd59b1",
+        "title": "Applied Research Scientist \u2013 New Grad - Perception Large Language Model/Vision-Language Model - PhD",
+        "active": true,
+        "date_updated": 1773268640,
+        "date_posted": 1773268640,
+        "url": "https://careers.withwaymo.com/jobs?gh_jid=7488508",
+        "locations": [
+            "SF",
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Waymo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Medtronic",
+        "id": "35319a53-fa3d-468d-bc7a-1e9cf2fb7e0f",
+        "title": "Materials Engineer 1 Neuro/Metal",
+        "active": true,
+        "date_updated": 1773268776,
+        "date_posted": 1773268776,
+        "url": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Minneapolis-Minnesota-United-States-of-America/Materials-Engineer-I-Neuro-Metal_R61332",
+        "locations": [
+            "Minneapolis, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Medtronic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Agilent Technologies",
+        "id": "2b00b502-85d1-4bc3-9368-6cadf47b3e23",
+        "title": "Data Scientist - Integrated Business Planning",
+        "active": true,
+        "date_updated": 1773269619,
+        "date_posted": 1773269619,
+        "url": "https://agilent.wd5.myworkdayjobs.com/Agilent_Student_Careers/job/US-DE-Wilmington/Data-Scientist--Integrated-Business-Planning_4037133",
+        "locations": [
+            "Santa Clara, CA",
+            "Wilmington, DE"
+        ],
+        "company_url": "https://simplify.jobs/c/Agilent-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Omnicom Media Group",
+        "id": "762777ec-e36b-4284-b4b7-311c6803b528",
+        "title": "Analyst - Decisions Science",
+        "active": true,
+        "date_updated": 1773268269,
+        "date_posted": 1773268269,
+        "url": "https://job-boards.greenhouse.io/omguk/jobs/5019440007",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Omnicom-Media-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Regal Rexnord",
+        "id": "4e830b2d-50f1-45d0-b67f-ecb1ee7699cc",
+        "title": "Application Engineer",
+        "active": true,
+        "date_updated": 1773268454,
+        "date_posted": 1773268454,
+        "url": "https://regalrexnord.wd1.myworkdayjobs.com/careers/job/United-States/Application-Engineer_R26_00893",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/37e0cd83-539e-4474-a63a-abc8ce7b4694",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amentum",
+        "id": "635a28ee-a239-4b9f-8200-e32eface0d61",
+        "title": "C++ Junior Software Developer",
+        "active": true,
+        "date_updated": 1773268780,
+        "date_posted": 1773268780,
+        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/C---Junior-Software-Developer_R0156280",
+        "locations": [
+            "Dahlgren, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amentum",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "AgWest Farm Credit",
+        "id": "9706bb40-205e-4bb7-beda-52b8bbee30f5",
+        "title": "Data Operations Analyst",
+        "active": true,
+        "date_updated": 1773268326,
+        "date_posted": 1773268326,
+        "url": "https://job-boards.greenhouse.io/agwestfarmcredit/jobs/4178332009",
+        "locations": [
+            "Spokane, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/AgWest-Farm-Credit",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "T-Mobile",
+        "id": "77711321-7bd2-46e9-b569-497cdb1821c3",
+        "title": "Associate AI Engineer",
+        "active": true,
+        "date_updated": 1773268343,
+        "date_posted": 1773268343,
+        "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Assoc-Engineer--AI-Modeling_REQ329919",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/T-Mobile",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Western Digital",
+        "id": "fda09562-70f8-4706-b403-d7f980228174",
+        "title": "Early Career Talent - Software Development Engineer - Firmware",
+        "active": true,
+        "date_updated": 1773267849,
+        "date_posted": 1773267849,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000114153937",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Digital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Dimensional Fund Advisors",
+        "id": "ced23cdc-0261-4635-a4d1-abefa1c3f852",
+        "title": "Analyst/Associate",
+        "active": true,
+        "date_updated": 1773268068,
+        "date_posted": 1773268068,
+        "url": "https://dimensional.wd5.myworkdayjobs.com/dfa_careers/job/Austin/Analyst-Associate--Investment-Solutions-Group--Tax-Focused-_2026-8714",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/3d361434-7ac4-4284-b2ef-078b0bc92808",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GlobalFoundries",
+        "id": "4c0f2e34-6034-4426-acb9-a30b87c8d6de",
+        "title": "Silicon Photonics Module Packaging Integration Engineer",
+        "active": true,
+        "date_updated": 1773267904,
+        "date_posted": 1773267904,
+        "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/Silicon-Photonics-Module-Packaging-Integration-Engineer--2026-New-College-Graduate-_JR-2502070",
+        "locations": [
+            "Burlington, VT"
+        ],
+        "company_url": "https://simplify.jobs/c/GlobalFoundries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
             "Master's",
             "PhD"
         ]
