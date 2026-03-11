@@ -93380,7 +93380,7 @@
         "company_name": "Cisco",
         "id": "752cc127-39ae-4bed-977a-4fcbab271df8",
         "title": "Software Developer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1763664416,
         "date_posted": 1763664416,
         "url": "https://careers.cisco.com/global/en/job/2001076",
@@ -115407,7 +115407,7 @@
         "company_name": "Alliant Energy",
         "id": "d99b42ef-ee09-4a5a-b424-c133bd85f5ec",
         "title": "Meter Data Analyst 1",
-        "active": true,
+        "active": false,
         "date_updated": 1765223225,
         "date_posted": 1765223225,
         "url": "https://alliantenergy.wd1.myworkdayjobs.com/alliant/job/Madison-WI/Meter-Data-Analyst-I_JR-9238",
@@ -186589,7 +186589,7 @@
         "company_name": "General Dynamics",
         "id": "736601ef-d2f7-440f-81d2-25467641ae04",
         "title": "Newport Engineering Office - Embedded SW Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1770073922,
         "date_posted": 1770073922,
         "url": "https://careers-gdeb.icims.com/jobs/17555/job?mobile=true&needsRedirect=false",
@@ -214473,7 +214473,7 @@
         "company_name": "IDEMIA",
         "id": "f8533915-cf48-4936-ab7c-92e8dccf94f4",
         "title": "Data Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1771493097,
         "date_posted": 1770937847,
         "url": "https://uscareers-idemia.icims.com/jobs/8396/job?mobile=true&needsRedirect=false",
@@ -251293,6 +251293,379 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "c0db1adc-2a42-46c2-b68b-61072799fc8a",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1773267698,
+        "date_posted": 1773267698,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053041",
+        "locations": [
+            "Gloucester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Flex",
+        "id": "873a22aa-6e62-47bb-aa1e-bdbe736b7b50",
+        "title": "Support Engineer",
+        "active": true,
+        "date_updated": 1773267572,
+        "date_posted": 1773267572,
+        "url": "https://jobs.ashbyhq.com/withflex/d01069bf-9785-427e-a53e-49fc5754796f/application",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Withflex",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "WEC Energy Group",
+        "id": "08cf71f2-5da9-4682-ba02-1a36de290385",
+        "title": "IT Applications Analysts",
+        "active": true,
+        "date_updated": 1773267656,
+        "date_posted": 1773267656,
+        "url": "https://careers.wecenergygroup.com/job/Milwaukee-IT-Applications-Analysts-Developers-WI-53203/1372398500/?ats=successfactors",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/WEC-Energy-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "07a64338-a9d7-4b8b-b5b8-e7611751cd15",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1773267582,
+        "date_posted": 1773267582,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053021",
+        "locations": [
+            "United Kingdom"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "d9e3fe65-85ab-4bf3-b26e-4bcb5514dd2a",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1773267341,
+        "date_posted": 1773267341,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051817",
+        "locations": [
+            "United Kingdom"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Meta",
+        "id": "cbd5d21b-c0c5-4069-b4b4-d5edf2d712e4",
+        "title": "Research Scientist - Sensors and Systems Research",
+        "active": true,
+        "date_updated": 1773267340,
+        "date_posted": 1773267340,
+        "url": "https://www.metacareers.com/jobs/1439206290998609",
+        "locations": [
+            "Burlingame, CA",
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Meta",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Western Digital",
+        "id": "c4f83dec-1b03-48b9-a7f2-28b65ef20e55",
+        "title": "Early Career Talent - Software Development Engineer - Apps",
+        "active": true,
+        "date_updated": 1773267410,
+        "date_posted": 1773267410,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000114153367",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Digital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Captivation",
+        "id": "adfa42ab-cd87-4e57-842d-45193cd7e35f",
+        "title": "Software Engineer 0 - Java/MapReduce/Cloud/Ghostmachine/QTA",
+        "active": true,
+        "date_updated": 1773267459,
+        "date_posted": 1773267459,
+        "url": "https://job-boards.greenhouse.io/captivation/jobs/5150594008",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Captivation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Relay",
+        "id": "857527ed-b30e-4efa-a3c6-7494c08232b0",
+        "title": "Associate Product Manager-Internal Tools & Automation",
+        "active": true,
+        "date_updated": 1773267460,
+        "date_posted": 1773267460,
+        "url": "https://job-boards.greenhouse.io/relaypro/jobs/7698008",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/RelayPro",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "5f5b99d8-c28d-4dfb-8e8a-56099f706cc3",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1773267334,
+        "date_posted": 1773267334,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053025",
+        "locations": [
+            "Gloucester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Talroo",
+        "id": "2f0c8b5f-6388-45f1-9e8e-950c1d8ef501",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1773267381,
+        "date_posted": 1773267381,
+        "url": "https://www.talroo.com/careers/apply/?gh_jid=7695635",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/7b34387a-463a-4d98-bccb-36c5d4992237",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "CSC",
+        "id": "c21063a3-9434-48e8-88a1-31dc9bf88943",
+        "title": "Quantitative/Global Macro Trading Assistant",
+        "active": true,
+        "date_updated": 1773267103,
+        "date_posted": 1773267103,
+        "url": "https://hczw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/15291",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/CSC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Emerson Electric",
+        "id": "71a97d27-4df4-4bf2-bef8-fb08aabe3f91",
+        "title": "PSQ Application Engineer",
+        "active": true,
+        "date_updated": 1773267210,
+        "date_posted": 1773267210,
+        "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26002809",
+        "locations": [
+            "Reno, NV"
+        ],
+        "company_url": "https://simplify.jobs/c/Emerson-Electric",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Confluent",
+        "id": "71743184-52f2-462e-8db4-e97e00769152",
+        "title": "Software Engineer - Cloud Traffic",
+        "active": true,
+        "date_updated": 1773267077,
+        "date_posted": 1773267077,
+        "url": "https://jobs.ashbyhq.com/confluent/88579760-2f82-406f-8cc6-150c9164e659/application",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Confluent",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Distyl AI",
+        "id": "7040ffc8-8e65-4127-b64f-e01ab2cedebe",
+        "title": "Frontend Product Engineer - AI Applications",
+        "active": true,
+        "date_updated": 1773267197,
+        "date_posted": 1773267197,
+        "url": "https://jobs.ashbyhq.com/distyl/147bb404-915d-44ec-b268-be02701872bc/application",
+        "locations": [
+            "SF",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Distyl-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Thomson Reuters",
+        "id": "dd6c438c-0472-4fbd-80ad-168821c00354",
+        "title": "Al Engineer - New Grad - Materia",
+        "active": true,
+        "date_updated": 1773267000,
+        "date_posted": 1773267000,
+        "url": "https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Canada-Toronto-Ontario/Al-Engineer--Materia--New-Grad---2026-_JREQ199007",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Thomson-Reuters",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Intertek",
+        "id": "dab4035f-ed74-4b8e-8c5c-e9143e53bd7a",
+        "title": "Electrical Safety Engineer",
+        "active": true,
+        "date_updated": 1773266904,
+        "date_posted": 1773266904,
+        "url": "https://hcog.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/14215",
+        "locations": [
+            "Homer, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Intertek",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Intertek",
+        "id": "159acf94-8282-49e4-8348-09413565e9f6",
+        "title": "Electrical Safety Engineer",
+        "active": true,
+        "date_updated": 1773266930,
+        "date_posted": 1773266930,
+        "url": "https://hcog.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/14198",
+        "locations": [
+            "Plano, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Intertek",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SpaceX",
+        "id": "f2ab8b1b-6a4e-4c08-add2-7301814837e8",
+        "title": "Security Software Engineer - Starlink",
+        "active": true,
+        "date_updated": 1773267260,
+        "date_posted": 1770333454,
+        "url": "https://boards.greenhouse.io/spacex/jobs/8406031002",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/SpaceX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     }
 ]
