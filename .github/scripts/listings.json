@@ -153834,7 +153834,7 @@
         "company_name": "Veeva Systems",
         "id": "e17937f1-3eba-4987-8f74-b3f2d6507fdb",
         "title": "Associate Software Engineer in Test - Tooling & Infrastructure",
-        "active": false,
+        "active": true,
         "date_updated": 1768179048,
         "date_posted": 1768179048,
         "url": "https://jobs.lever.co/veeva/8d86a229-0d65-46a4-838f-3e4da21960f9/apply",
@@ -228025,7 +228025,7 @@
         "company_name": "CVS Health",
         "id": "9e858da6-5c9d-4e61-a71f-b019c8478a9f",
         "title": "Trade Finance Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1772064561,
         "date_posted": 1772064561,
         "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Irving/Trade-Finance-Data-Analyst_R0835760",
@@ -250759,5 +250759,66 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "ASM International",
+        "id": "7cd745e0-7a8a-4e77-acc6-f47d55c6c0d0",
+        "title": "Engineer - Field Service-Military Experience",
+        "active": true,
+        "date_updated": 1773181843,
+        "date_posted": 1773181843,
+        "url": "https://www.asm.com/open-vacancies/?gh_jid=4804690101",
+        "locations": [
+            "Chandler, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/ASM-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "The Boeing Company",
+        "id": "7627356c-38d4-4038-8a7f-5b6f4cbca263",
+        "title": "Software Engineer-Embedded - Embedded",
+        "active": true,
+        "date_updated": 1773183939,
+        "date_posted": 1773183939,
+        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Long-Beach-CA/Software-Engineer-Embedded--Embedded-_JR2025489394-1",
+        "locations": [
+            "Long Beach, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Hargreaves Lansdown",
+        "id": "2a4b71a7-124d-4677-b6bb-e27bd0fb21d7",
+        "title": "Software Developer Engineer in Test",
+        "active": true,
+        "date_updated": 1773181596,
+        "date_posted": 1773181596,
+        "url": "https://hargreaveslansdown.wd3.myworkdayjobs.com/hargreaveslansdown/job/Bristol-Harbourside/Software-Engineer-in-Test_R8423-1",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Hargreaves-Lansdown",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
