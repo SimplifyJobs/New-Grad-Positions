@@ -251042,5 +251042,23 @@
         "date_posted": 1773236748,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1773236974,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://deka.applytojob.com/apply/czadQFTDCe/Junior-Software-Engineer-DatabaseBack-End",
+        "company_name": "DEKA Research & Development",
+        "title": "Junior Software Engineer - Database/Back End",
+        "locations": [
+            "Manchester, NH"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "61e348a9-63fd-429d-8c42-2bce409c2780",
+        "date_posted": 1773236974,
+        "company_url": "",
+        "is_visible": true
     }
 ]
