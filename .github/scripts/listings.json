@@ -72,23 +72,6 @@
     {
         "source": "Simplify",
         "category": "Quant",
-        "company_name": "Akuna Capital",
-        "id": "1ac52fdb-7e69-4fc6-a38c-2d98bf9c0ca9",
-        "title": "Junior Quantitative Developer & Strategist",
-        "active": true,
-        "date_updated": 1752518406,
-        "date_posted": 1752518406,
-        "url": "https://www.akunacapital.com/job-details?gh_jid=7063563",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Akuna-Capital",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
         "company_name": "Old Mission",
         "id": "b09d07b6-2d11-469e-b3aa-b297ebd7f7a3",
         "title": "College Graduates - Full-Time - Junior Quantitative Trader",
@@ -100,23 +83,6 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/Old-Mission",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Akuna Capital",
-        "id": "495799cb-e3e0-4046-92c5-52eaeee8ecee",
-        "title": "Junior Quantitative Researcher",
-        "active": false,
-        "date_updated": 1752518404,
-        "date_posted": 1752518404,
-        "url": "https://www.akunacapital.com/job-details?gh_jid=7053014",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Akuna-Capital",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -81216,7 +81182,7 @@
         "company_name": "Five Rings Capital",
         "id": "dba9548e-2c09-4e24-b1c5-470b335f4a13",
         "title": "Campus Full Time 2026 - Software Developer - London",
-        "active": true,
+        "active": false,
         "date_updated": 1761269961,
         "date_posted": 1753288166,
         "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/4817027008",
@@ -81648,61 +81614,6 @@
             "Phoenix, AZ"
         ],
         "company_url": "https://simplify.jobs/c/Grand-Canyon-Education",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "WESCO International",
-        "id": "56b442d5-f749-4a5c-a11d-34fb21a063f2",
-        "title": "Information Technology Development Program",
-        "active": false,
-        "date_updated": 1762924853,
-        "date_posted": 1752518564,
-        "url": "https://eklm.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/jobs/job/25450",
-        "locations": [
-            "Pittsburgh, PA",
-            "Morton Grove, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/WESCO",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Captivation",
-        "id": "f9dead99-3724-407c-801b-9d2cb9ba9b98",
-        "title": "Systems Engineer 0 - Circuits/Network/Digital Forensics",
-        "active": false,
-        "date_updated": 1758311058,
-        "date_posted": 1752519397,
-        "url": "https://job-boards.greenhouse.io/captivation/jobs/4775256008",
-        "locations": [
-            "Annapolis Junction, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/Captivation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Core One",
-        "id": "ca6ba120-30b7-463f-8084-5f11fa08eebc",
-        "title": "Software Developer 1",
-        "active": false,
-        "date_updated": 1762816865,
-        "date_posted": 1752519352,
-        "url": "https://job-boards.greenhouse.io/coreone/jobs/6603161002",
-        "locations": [
-            "Vienna, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Core-One",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
