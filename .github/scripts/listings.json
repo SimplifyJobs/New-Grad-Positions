@@ -2,24 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Iridium Communications",
-        "id": "a966de7e-4dd1-4625-ba76-ccb5522b2da1",
-        "title": "Engineer I - Software Developer",
-        "active": false,
-        "date_updated": 1752535558,
-        "date_posted": 1752535558,
-        "url": "https://careers-iridium.icims.com/jobs/4596/job",
-        "locations": [
-            "Reston, VA",
-            "Chandler, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Iridium-Communications",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Akamai Technologies",
         "id": "09cabfc5-67b1-4553-87c6-0866a7d70657",
         "title": "Software Engineer I",
@@ -163173,7 +163155,7 @@
         "company_name": "Axle",
         "id": "bc84cb5c-5ffe-4b1a-9a3b-fb75a44225f0",
         "title": "Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1768607042,
         "date_posted": 1768607042,
         "url": "https://job-boards.greenhouse.io/axle/jobs/5026603007",
@@ -229983,7 +229965,7 @@
         "company_name": "VEGA Americas",
         "id": "f748fe91-6b94-4054-916b-fb72d64585c2",
         "title": "Field Service - Industrial Instrumentation Phone Support - Newport Beach, CA",
-        "active": true,
+        "active": false,
         "date_updated": 1772148011,
         "date_posted": 1772148011,
         "url": "https://job-boards.greenhouse.io/vegaamericas/jobs/4658247006",
@@ -251958,5 +251940,247 @@
             "Master's",
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Tiber Technologies",
+        "id": "cdd0700b-e8ae-4dae-b2ad-c03b08f7b374",
+        "title": "Web Developer/Visualization Analyst",
+        "active": true,
+        "date_updated": 1773267138,
+        "date_posted": 1773267138,
+        "url": "https://jobs.jobvite.com/tibertechnologies/job/o4HOzfwS?nl=1&nl=1&fr=false",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Tiber-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Hologic",
+        "id": "99ea73d2-390e-4983-8dd7-9eefd7b1d204",
+        "title": "Embedded Software Engineer",
+        "active": true,
+        "date_updated": 1773267064,
+        "date_posted": 1773267064,
+        "url": "https://ebwb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/11154",
+        "locations": [
+            "Marlborough, MA",
+            "Newark, DE"
+        ],
+        "company_url": "https://simplify.jobs/c/Hologic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "GM financial",
+        "id": "47cb53c9-51af-4f76-846e-93f33d4df2c9",
+        "title": "Product Manager 1",
+        "active": true,
+        "date_updated": 1773267337,
+        "date_posted": 1773267337,
+        "url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1943",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/GM-Financial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "1b5d29e1-5373-4c82-a8bc-1f7f27a2d4ed",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1773267345,
+        "date_posted": 1773267345,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053079",
+        "locations": [
+            "Leeds, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Analytic Partners",
+        "id": "371dbd61-c784-40af-96dd-f253b8647750",
+        "title": "Marketing Science Analyst",
+        "active": true,
+        "date_updated": 1773267335,
+        "date_posted": 1773267335,
+        "url": "https://jobs.lever.co/analyticpartners/bc0e1a1c-3a1a-4984-89f0-2714a599c5b9/apply",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Analytic-Partners",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "PhD",
+            "JD",
+            "MD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "113c6c60-3ba5-43db-9801-5d45148f5f26",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1773267598,
+        "date_posted": 1773267598,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053036",
+        "locations": [
+            "Gloucester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Roku",
+        "id": "5de5f9a5-8bea-40c2-8121-4ed65352ed36",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1773267361,
+        "date_posted": 1773267361,
+        "url": "https://www.weareroku.com/jobs/7680250?gh_jid=7680250",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Roku",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "52829c65-5f45-4f41-9bb6-f757a18a1357",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1773267350,
+        "date_posted": 1773267350,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051497",
+        "locations": [
+            "Edinburgh, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TD Bank",
+        "id": "0a6a6f31-5915-42c0-9325-f252d493fb31",
+        "title": "TD Gen AI Hackathon - AI Platform",
+        "active": true,
+        "date_updated": 1773267904,
+        "date_posted": 1773267904,
+        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/TD-Gen-AI-Hackathon---University-of-Toronto--March-14-15--Associate-Engineer-I---AI-Platform-Applicants_R_1478213",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/TD-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "011964f8-213f-454c-98e4-e7a96bba448c",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1773267579,
+        "date_posted": 1773267579,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053077",
+        "locations": [
+            "Essex, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Honeywell",
+        "id": "12e314b7-d89b-43a8-80bb-8bc4f2080629",
+        "title": "Finance Data Analyst 1",
+        "active": true,
+        "date_updated": 1773267171,
+        "date_posted": 1773267171,
+        "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/143113",
+        "locations": [
+            "Phoenix, AZ",
+            "Minneapolis, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Honeywell",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Analytic Partners",
+        "id": "b6b25f32-522f-486c-9a6c-59a7ceb84adc",
+        "title": "Marketing Science Analyst",
+        "active": true,
+        "date_updated": 1773267340,
+        "date_posted": 1773267340,
+        "url": "https://jobs.lever.co/analyticpartners/5accbca7-e5f5-46ac-9a52-173c64c2fdca/apply",
+        "locations": [
+            "Colorado",
+            "Denver, CO",
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Analytic-Partners",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
