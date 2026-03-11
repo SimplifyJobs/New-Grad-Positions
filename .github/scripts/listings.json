@@ -251078,5 +251078,24 @@
         "date_posted": 1773237052,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1773237253,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7657082003",
+        "company_name": "Sigma",
+        "title": "Software Engineer (New Grad Program)",
+        "locations": [
+            "San Francisco, CA",
+            "New York City, NY"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "32a76f1e-2192-4946-89c7-c671a0044210",
+        "date_posted": 1773237253,
+        "company_url": "",
+        "is_visible": true
     }
 ]
