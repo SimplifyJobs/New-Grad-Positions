@@ -2,23 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Jerry",
-        "id": "57c4c0fb-278c-4884-8572-22eaf07c22de",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1752530067,
-        "date_posted": 1752530067,
-        "url": "https://jobs.ashbyhq.com/Jerry/f53d2639-f7ad-4aa5-b17a-08f4e5a00882/application",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Jerry",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Iridium Communications",
         "id": "a966de7e-4dd1-4625-ba76-ccb5522b2da1",
         "title": "Engineer I - Software Developer",
@@ -59388,7 +59371,7 @@
         "company_name": "Global Lending Services",
         "id": "e1217743-809e-44d8-a639-45cfcc641af9",
         "title": "Business Systems Analyst - Data Warehouse",
-        "active": true,
+        "active": false,
         "date_updated": 1760041161,
         "date_posted": 1760041161,
         "url": "https://jobs.lever.co/glsllc/36be43e8-4c98-41c1-bdae-3f3bcb9353ba/apply",
@@ -81562,24 +81545,6 @@
             "Orlando, FL"
         ],
         "company_url": "https://simplify.jobs/c/Threatlocker",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "DRW",
-        "id": "82518465-b032-4170-866d-c0558c7e88a2",
-        "title": "Quantitative Researcher",
-        "active": false,
-        "date_updated": 1752529330,
-        "date_posted": 1752529330,
-        "url": "https://job-boards.greenhouse.io/drweng/jobs/6987099",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/DRW",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -140580,7 +140545,7 @@
         "company_name": "Michael Baker International",
         "id": "9b655826-974a-4643-a722-0a5857ef7bb9",
         "title": "Transportation Planner 1",
-        "active": true,
+        "active": false,
         "date_updated": 1762937064,
         "date_posted": 1762273885,
         "url": "https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/308745",
@@ -145854,7 +145819,7 @@
         "company_name": "Q2",
         "id": "541395cb-3ea7-4bc7-bde9-df6b61ca886e",
         "title": "Product Owner",
-        "active": true,
+        "active": false,
         "date_updated": 1767656675,
         "date_posted": 1767656675,
         "url": "https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-TX/Product-Owner_REQ-12002",
@@ -224202,7 +224167,7 @@
         "company_name": "Schweitzer Engineering Laboratories",
         "id": "457a4c57-a27b-4c29-bc05-4f1edc46affb",
         "title": "Firmware Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1771947952,
         "date_posted": 1771947952,
         "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Firmware-Engineer_2025-19054",
@@ -238612,7 +238577,7 @@
         "company_name": "Live Nation Entertainment",
         "id": "574fd3a7-be0c-4ee6-9a10-9e8b06d01320",
         "title": "Senior Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1772592527,
         "date_posted": 1772592527,
         "url": "https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Work-From-Home---Ohio/Lead-Software-Engineer_JR-77261",
