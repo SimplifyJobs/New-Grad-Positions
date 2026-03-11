@@ -195234,7 +195234,7 @@
         "company_name": "Philips",
         "id": "4a9813a9-57e0-4c8e-a44b-fcaed0aa0e6a",
         "title": "Full Time \u2013 Field Engineer Program - Field Service Engineer - Nashville, TN",
-        "active": false,
+        "active": true,
         "date_updated": 1770386395,
         "date_posted": 1769644948,
         "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Nashville-Tennessee-United-States/Full-Time---Field-Engineer-Program--Field-Service-Engineer---Nashville--TN---July-2026_574030",
@@ -219085,7 +219085,7 @@
         "company_name": "Sainsbury's",
         "id": "7222e735-b7f6-47cb-85d7-33947ab95910",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1771629091,
         "date_posted": 1771629091,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050430",
@@ -250080,7 +250080,7 @@
         "company_name": "Sainsbury's",
         "id": "a1bbb1ff-c000-44f7-b98b-a4d6d1d752b5",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1773180930,
         "date_posted": 1773180930,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052821",
@@ -251003,5 +251003,26 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "LexisNexis Risk Solutions",
+        "id": "66bd4cdf-f79a-45bb-890c-76087772d8fb",
+        "title": "Product Manager 1",
+        "active": true,
+        "date_updated": 1773183747,
+        "date_posted": 1773183747,
+        "url": "https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/Raleigh-NC/Product-Mgr-I_R109935",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/LexisNexis-Risk-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
