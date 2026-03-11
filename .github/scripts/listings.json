@@ -1,21 +1,5 @@
 [
     {
-        "date_updated": 1753177758,
-        "url": "https://jobs.careers.microsoft.com/global/en/job/1845733/Software-Engineer",
-        "company_name": "Microsoft",
-        "title": "Software Engineer",
-        "locations": [
-            "Redmond, Washington"
-        ],
-        "sponsorship": "Other",
-        "active": false,
-        "source": "laharigandrapu11",
-        "id": "304a7ded-72d0-47e6-bfba-a9de25f58228",
-        "date_posted": 1752472944,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
         "source": "Simplify",
         "category": "Software",
         "company_name": "Jerry",
@@ -202448,7 +202432,7 @@
         "company_name": "Advocate Health Care",
         "id": "fdc12f4d-7cbd-4fd4-9267-8e5e50d15a52",
         "title": "Psychiatric Technician - PHP",
-        "active": true,
+        "active": false,
         "date_updated": 1770854025,
         "date_posted": 1770854025,
         "url": "https://aah.wd5.myworkdayjobs.com/External/job/Atrium-Health-Behavioral-Health-Charlotte---501-Billingsley-Rd-Charlotte-NC/Psychiatric-Technician---Atrium-Health-Charlotte-Behavioral-Health-O-P-Child---Adolescent-Partial-Hospitalization-Program--PHP--FT-Days_R216287",
@@ -236140,7 +236124,7 @@
         "company_name": "Worldpay",
         "id": "bed56233-08fd-4be9-81db-08222ea596e4",
         "title": "Product Analyst 1",
-        "active": true,
+        "active": false,
         "date_updated": 1772494366,
         "date_posted": 1772494366,
         "url": "https://worldpay.wd5.myworkdayjobs.com/Worldpay_External_Careers_Site/job/CINCINNATI-OHIO/Product-Analyst-I_JR0608904",
@@ -238674,7 +238658,7 @@
         "company_name": "Comcast",
         "id": "0ad74d6f-a86f-4691-8cf1-a907b6543e2f",
         "title": "Technician 1 - Headend",
-        "active": true,
+        "active": false,
         "date_updated": 1772582271,
         "date_posted": 1772582271,
         "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/CO---Silverthorne-1271-Blue-River-Parkway/Technician-1--Headend_R432174",
@@ -241765,7 +241749,7 @@
         "company_name": "MARA",
         "id": "5d074cfb-2039-425b-b74c-e49ff31886b8",
         "title": "Miner Technician 1",
-        "active": true,
+        "active": false,
         "date_updated": 1772678401,
         "date_posted": 1772678401,
         "url": "https://job-boards.greenhouse.io/mara/jobs/4526565005",
@@ -250815,6 +250799,105 @@
             "Bristol, UK"
         ],
         "company_url": "https://simplify.jobs/c/Hargreaves-Lansdown",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "PermitFlow",
+        "id": "6995976e-4bef-4025-b0a5-99a6c2f868d6",
+        "title": "Analytics Engineer",
+        "active": true,
+        "date_updated": 1773209897,
+        "date_posted": 1773209897,
+        "url": "https://jobs.ashbyhq.com/permitflow/1a016b60-962b-4109-8eeb-6bec98306e6f/application",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/PermitFlow",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "MKS Instruments",
+        "id": "8a064bf4-db4b-49f9-8b4f-e9ec1a76b0d6",
+        "title": "HR Data Analyst",
+        "active": true,
+        "date_updated": 1773209650,
+        "date_posted": 1773209650,
+        "url": "https://mksinst.wd1.myworkdayjobs.com/mkscareersamericas/job/Andover-MA/HR-Data-Analyst_R16774",
+        "locations": [
+            "Andover, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/MKS-Instruments",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Western Digital",
+        "id": "59d1cea8-4f85-44e7-875d-ac5375397281",
+        "title": "Early Career Talent - Software Development Engineer - Firmware",
+        "active": true,
+        "date_updated": 1773209514,
+        "date_posted": 1773209514,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000113887140",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Digital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "469a2989-8dfe-48bc-98ba-21b32a538931",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1773209502,
+        "date_posted": 1773209502,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052891",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Eurofins",
+        "id": "23cef294-0022-4eaa-a1b9-ebd16424605a",
+        "title": "Application Engineer",
+        "active": true,
+        "date_updated": 1773209265,
+        "date_posted": 1773209265,
+        "url": "https://jobs.smartrecruiters.com/Eurofins/744000113809357",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Eurofins",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
