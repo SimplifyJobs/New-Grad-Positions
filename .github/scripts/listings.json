@@ -2,23 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Akamai Technologies",
-        "id": "09cabfc5-67b1-4553-87c6-0866a7d70657",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1752550111,
-        "date_posted": 1752550111,
-        "url": "https://fa-extu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/897",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Akamai",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "CACI",
         "id": "f95f5d5d-ca68-42fe-9088-64cae078432e",
         "title": "Entry Level Software Engineer - GUI Development",
@@ -722,24 +705,6 @@
             "Remote in UK"
         ],
         "company_url": "https://simplify.jobs/c/Activate-Group",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "EvenUp",
-        "id": "942f58f4-a188-4b32-8f9d-7e5979b48009",
-        "title": "Software Engineer \u2013 New Graduate",
-        "active": false,
-        "date_updated": 1755270087,
-        "date_posted": 1752549817,
-        "url": "https://jobs.ashbyhq.com/evenup/213e42cf-903d-4578-b3b5-df187780920d/application",
-        "locations": [
-            "San Francisco, CA",
-            "Toronto, ON"
-        ],
-        "company_url": "https://simplify.jobs/c/a3893f84-8200-4d5f-aad7-2ff0d6d670dc",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -250615,7 +250580,7 @@
         "company_name": "Sainsbury's",
         "id": "0abea9fe-5093-4f1c-8046-a531525b6b2b",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1773209500,
         "date_posted": 1773209500,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052892",
@@ -252375,6 +252340,24 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/Betway",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Arc",
+        "id": "fde1bcee-645f-44b5-adde-d68957552e11",
+        "title": "Electromechanical Technician",
+        "active": true,
+        "date_updated": 1770853332,
+        "date_posted": 1770853332,
+        "url": "https://job-boards.greenhouse.io/arcboatcompany/jobs/4513918008",
+        "locations": [
+            "Carson, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Arc",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
