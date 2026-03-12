@@ -81497,24 +81497,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Grand Canyon Education",
-        "id": "3d38dce2-ab99-44a0-b38d-2fa3a86fa988",
-        "title": "Student Worker - Technology Services - IT Warehouse Tech Assistant",
-        "active": false,
-        "date_updated": 1752543006,
-        "date_posted": 1752543006,
-        "url": "https://gcu.wd1.myworkdayjobs.com/GCEC/job/AZ-Phoenix/Student-Worker---Technology-Services---IT-Warehouse-Tech-Assistant_R000061119",
-        "locations": [
-            "Phoenix, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Grand-Canyon-Education",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Wash U",
         "id": "ace8bc2b-6513-4a62-bafc-464421bea500",
@@ -142504,7 +142486,7 @@
         "company_name": "FOX",
         "id": "879cbb8b-667d-40f3-a244-30f0fc4fa83e",
         "title": "Per Diem Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1764561835,
         "date_posted": 1764561835,
         "url": "https://fox.wd1.myworkdayjobs.com/Domestic/job/Philadelphia-Pennsylvania-USA/Per-Diem-Technician_R50029312-1",
@@ -200062,7 +200044,7 @@
         "company_name": "Mercury Insurance",
         "id": "febef5a3-7932-4b36-9349-549b9b01e286",
         "title": "Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1770764883,
         "date_posted": 1770764883,
         "url": "https://careers-mercuryinsurance.icims.com/jobs/6159/job?mobile=true&needsRedirect=false",
@@ -252199,6 +252181,122 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/CIBC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "23b94cd1-34c8-4cff-9151-3671381ab46f",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1773277873,
+        "date_posted": 1773277873,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052490",
+        "locations": [
+            "Letchworth Garden City, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Columbia Sportswear Company",
+        "id": "c2e8e16b-4e88-4a46-a28c-694bcee9a331",
+        "title": "Product Line Management Specialist 2 - Footwear",
+        "active": true,
+        "date_updated": 1773277974,
+        "date_posted": 1773277974,
+        "url": "https://columbiasportswearcompany.wd5.myworkdayjobs.com/en-US/CSC_Careers/job/Portland-Oregon-United-States-of-America/Product-Line-Management-Specialist-II---Footwear_R-021035-2",
+        "locations": [
+            "Portland, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Columbia-Sportswear-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Columbia Sportswear Company",
+        "id": "9df62d27-de0d-4c47-ba04-23b6388df8b4",
+        "title": "Product Line Management Specialist 2 - Footwear",
+        "active": true,
+        "date_updated": 1773277959,
+        "date_posted": 1773277959,
+        "url": "https://columbiasportswearcompany.wd5.myworkdayjobs.com/Columbia_Career_Site/job/Portland-Oregon-United-States-of-America/Product-Line-Management-Specialist-II---Footwear_R-021035-1",
+        "locations": [
+            "Portland, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Columbia-Sportswear-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "7204479d-891a-4306-b374-7d703f39024b",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1773277886,
+        "date_posted": 1773277886,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053100",
+        "locations": [
+            "United Kingdom"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Peraton",
+        "id": "05b14a15-e909-409f-9146-de156b350012",
+        "title": "Junior Software Developer",
+        "active": true,
+        "date_updated": 1773277542,
+        "date_posted": 1773277542,
+        "url": "https://careers-peraton.icims.com/jobs/164435/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Bowie, MD",
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Peraton",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Woongjin",
+        "id": "5d2e3058-e80a-41e7-90c4-9b6833082d5f",
+        "title": "WMS Developer - Java - English/Korean",
+        "active": true,
+        "date_updated": 1773277448,
+        "date_posted": 1773277448,
+        "url": "https://jobs.smartrecruiters.com/WJCompany/744000114161577",
+        "locations": [
+            "Orange, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Woongjin",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
