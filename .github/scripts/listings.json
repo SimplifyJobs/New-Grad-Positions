@@ -81461,24 +81461,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "CleanSpark",
-        "id": "928fb37c-02fd-44e3-8321-f0e09538731e",
-        "title": "Hardware Assembly Technician",
-        "active": false,
-        "date_updated": 1761934457,
-        "date_posted": 1752546023,
-        "url": "https://jobs.lever.co/cleanspark/8a1e3c59-40b1-457c-9e46-d519aef8109a/apply",
-        "locations": [
-            "Norcross, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/CleanSpark",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Wash U",
         "id": "ace8bc2b-6513-4a62-bafc-464421bea500",
@@ -225046,7 +225028,7 @@
         "company_name": "RTX",
         "id": "d4cadf02-5814-42fd-aabb-25a68166bc92",
         "title": "2026 Full-time - Software Engineer I - Onsite- AZ",
-        "active": false,
+        "active": true,
         "date_updated": 1771976129,
         "date_posted": 1771976129,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/XMLNAME-2026-Full-time---Software-Engineer-I---Onsite--AZ-_01826335",
@@ -249290,7 +249272,7 @@
         "company_name": "Sherwin-Williams",
         "id": "9d32a8f3-0685-4b54-b9d0-4e998a89aa12",
         "title": "Data Management Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1773181158,
         "date_posted": 1773181158,
         "url": "https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2605649",
@@ -250549,7 +250531,7 @@
         "company_name": "Sainsbury's",
         "id": "469a2989-8dfe-48bc-98ba-21b32a538931",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1773209502,
         "date_posted": 1773209502,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052891",
@@ -250567,7 +250549,7 @@
         "company_name": "Eurofins",
         "id": "23cef294-0022-4eaa-a1b9-ebd16424605a",
         "title": "Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773209265,
         "date_posted": 1773209265,
         "url": "https://jobs.smartrecruiters.com/Eurofins/744000113809357",
@@ -252351,6 +252333,46 @@
             "Mountain View, CA"
         ],
         "company_url": "https://simplify.jobs/c/ServiceNow",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northrop Grumman",
+        "id": "82f035f1-71e3-44dc-b51c-201e1b65a5c1",
+        "title": "Software Engineer - Embedded and Real Time",
+        "active": true,
+        "date_updated": 1773223772,
+        "date_posted": 1773223772,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Oklahoma-Oklahoma-City/Engineer-Software---Embedded-and-Real-Time--Oklahoma-or-Florida-_R10223587",
+        "locations": [
+            "Melbourne, FL",
+            "Oklahoma City, OK"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Loblaw Companies",
+        "id": "81e46816-09be-42d6-bd5a-39684ebac3bd",
+        "title": "Assistant Product Manager",
+        "active": true,
+        "date_updated": 1773223429,
+        "date_posted": 1773223429,
+        "url": "https://myview.wd3.myworkdayjobs.com/paradox_careers/job/1-Presidents-Choice-Circle-Brampton-ON/Assistant-Product-Manager_R2000637942",
+        "locations": [
+            "Brampton, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Loblaw-Companies",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
