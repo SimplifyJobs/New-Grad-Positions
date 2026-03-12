@@ -81425,42 +81425,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Goldman Sachs",
-        "id": "fa4a7a66-795e-4c54-b2c4-1d4ddac7befc",
-        "title": "2026 \u2013 London - FICC & Equities - Sales & Trading",
-        "active": false,
-        "date_updated": 1761832330,
-        "date_posted": 1752547162,
-        "url": "https://higher.gs.com/roles/150701?type=students",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Goldman-Sachs",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Arc",
-        "id": "fde1bcee-645f-44b5-adde-d68957552e11",
-        "title": "Electromechanical Technician",
-        "active": true,
-        "date_updated": 1752546900,
-        "date_posted": 1752546900,
-        "url": "https://job-boards.greenhouse.io/arcboatcompany/jobs/4513918008",
-        "locations": [
-            "Carson, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Arc",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Wash U",
         "id": "ace8bc2b-6513-4a62-bafc-464421bea500",
@@ -252373,6 +252337,44 @@
             "Brampton, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Loblaw-Companies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Betway",
+        "id": "a569f22c-538a-462d-96ee-b721a4378686",
+        "title": "Graduate Data Analyst",
+        "active": true,
+        "date_updated": 1773221209,
+        "date_posted": 1773221209,
+        "url": "https://myhcm.wd3.myworkdayjobs.com/Betway/job/North-London-UK/Graduate-Data-Analyst_JR12378",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Betway",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Betway",
+        "id": "2eaedffc-9dda-41bf-acb3-d4a699518468",
+        "title": "Senior Email Developer - CRM",
+        "active": true,
+        "date_updated": 1773221213,
+        "date_posted": 1773221213,
+        "url": "https://myhcm.wd3.myworkdayjobs.com/Betway/job/North-London-UK/Senior-Email-Developer_JR12379",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Betway",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
