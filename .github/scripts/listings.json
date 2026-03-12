@@ -81320,60 +81320,6 @@
         "source": "Simplify",
         "category": "Hardware",
         "company_name": "Dave & Busters",
-        "id": "5006c554-1ef9-4f8d-8814-1f635281d274",
-        "title": "Support Technician",
-        "active": false,
-        "date_updated": 1752551648,
-        "date_posted": 1752551648,
-        "url": "https://daveandbusters.wd1.myworkdayjobs.com/dave_and_busters_careers/job/Nashville-GSC-TN/Support-Technician---Dave-and-Busters_R-1005575",
-        "locations": [
-            "Nashville, TN"
-        ],
-        "company_url": "https://simplify.jobs/c/Dave-And-Busters",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Dave & Busters",
-        "id": "a9ab3e34-6021-4f33-9b14-cf06cc43f08c",
-        "title": "Support Technician",
-        "active": false,
-        "date_updated": 1752551642,
-        "date_posted": 1752551642,
-        "url": "https://daveandbusters.wd1.myworkdayjobs.com/dave_and_busters_careers/job/Orland-Park-IL/Support-Technician_R-1005909",
-        "locations": [
-            "Orland Park, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Dave-And-Busters",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Dave & Busters",
-        "id": "abf5612d-a2da-4b2a-898c-5a5239b9cd11",
-        "title": "Games Support Technician",
-        "active": true,
-        "date_updated": 1752551496,
-        "date_posted": 1752551496,
-        "url": "https://daveandbusters.wd1.myworkdayjobs.com/dave_and_busters_careers/job/South-Arlington-TX/Games-Support-Technician_R-1008079",
-        "locations": [
-            "Arlington, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Dave-And-Busters",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Dave & Busters",
         "id": "6e01bebd-6089-44bc-bbe7-533a31bc659c",
         "title": "Games Support Technician",
         "active": true,
@@ -244882,7 +244828,7 @@
         "company_name": "Ernst & Young",
         "id": "19efe29c-11e8-4303-bb73-15f01f50cc91",
         "title": "Technology Operations Analyst 1 - Guidewire - Managed Services Practice",
-        "active": true,
+        "active": false,
         "date_updated": 1772839151,
         "date_posted": 1772839151,
         "url": "https://careers.ey.com/ey/job/Dieppe-Technology-Operations-Analyst-I-%28Guidewire%29%2C-Managed-Services-Practice-Dieppe%2C-New-Brunswick-New-E1A-7Y7/1371211033/",
@@ -248930,7 +248876,7 @@
         "company_name": "Sainsbury's",
         "id": "52740a48-f9a8-43d5-be79-238d8584692c",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1773153020,
         "date_posted": 1773153020,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052765",
