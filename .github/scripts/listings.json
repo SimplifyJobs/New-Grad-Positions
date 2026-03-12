@@ -8827,7 +8827,7 @@
         "company_name": "Motorola",
         "id": "e0ff9c5a-7674-4cb1-97f3-f803968a130e",
         "title": "Junior Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1756747299,
         "date_posted": 1756747299,
         "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Uxbridge-UK-ZUK131/Junior-Software-Engineer_R57369",
@@ -26235,7 +26235,7 @@
         "company_name": "RELX",
         "id": "47b1f8e4-177f-4d9a-bb7e-3284f530bda3",
         "title": "Software Engineer 1 - Software Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1762532603,
         "date_posted": 1759450753,
         "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/UK---London-London-Wall/Tech-Accelerate-Graduate-Program---Software-Engineer_R100132-1",
@@ -242607,7 +242607,7 @@
         "company_name": "MEMIC",
         "id": "b9648b00-05ba-45c8-ad97-2bf06b9c69b6",
         "title": "Associate Business Intelligence Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1772752569,
         "date_posted": 1772752569,
         "url": "https://job-boards.greenhouse.io/memic/jobs/7653928003",
@@ -253331,5 +253331,43 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Formlabs",
+        "id": "669939f6-138f-4751-99d9-7f59c6cb1912",
+        "title": "Engineering Technician",
+        "active": true,
+        "date_updated": 1773325993,
+        "date_posted": 1773325993,
+        "url": "https://careers.formlabs.com/job/7711077/apply/?gh_jid=7711077",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Formlabs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "SCAN",
+        "id": "ee7c1fe0-ba0b-4da7-9047-cc8f2642c75f",
+        "title": "Desktop Product Owner",
+        "active": true,
+        "date_updated": 1773325583,
+        "date_posted": 1773325583,
+        "url": "https://scanhealthplan.wd108.myworkdayjobs.com/scancareers/job/Long-Beach-Office-3800/Desktop-Product-Owner-I_JR2198-1",
+        "locations": [
+            "Long Beach, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/SCAN-Health-Plan",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
