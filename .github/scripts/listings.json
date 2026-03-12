@@ -176947,7 +176947,7 @@
         "company_name": "Warner Bros.",
         "id": "3e6aec9c-af09-4d86-8a26-d0874fed1e72",
         "title": "Software Developer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1769567017,
         "date_posted": 1769567017,
         "url": "https://warnerbros.wd5.myworkdayjobs.com/global/job/Kanata-307-Legget-Dr/Software-Developer-I_R000100408",
@@ -198487,7 +198487,7 @@
         "company_name": "EquipmentShare",
         "id": "0d23ccf6-8c89-484c-9026-ac24ab4b5fc6",
         "title": "Telematics Installer",
-        "active": true,
+        "active": false,
         "date_updated": 1770680009,
         "date_posted": 1770680009,
         "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=7598879",
@@ -216430,7 +216430,7 @@
         "company_name": "TWG Global",
         "id": "e735f84d-c645-477e-9e7a-c441b7ceb4c3",
         "title": "Associate Software Engineer - AI Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1771542876,
         "date_posted": 1771542876,
         "url": "https://apply.workable.com/twgai/j/BA666BB5DE/apply",
@@ -248497,7 +248497,7 @@
         "company_name": "Google",
         "id": "f8f22029-1f40-411b-bbfa-ed78bbc20189",
         "title": "RTL Design Engineer \u2013 University Graduate - PhD - Machine Learning",
-        "active": true,
+        "active": false,
         "date_updated": 1773125696,
         "date_posted": 1766074202,
         "url": "https://www.google.com/about/careers/applications/jobs/results/105829554005648070",
@@ -252550,6 +252550,50 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Booz Allen",
+        "id": "eb755911-d79c-4c7c-8000-2dd138db8962",
+        "title": "Data Scientist",
+        "active": true,
+        "date_updated": 1773279569,
+        "date_posted": 1773279569,
+        "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Data-Scientist_R0235691",
+        "locations": [
+            "Chantilly, VA",
+            "McLean, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Booz-Allen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "X Development",
+        "id": "c584dd3c-41ef-4532-8e5c-2f7039ea2fce",
+        "title": "Machine Learning Engineer",
+        "active": true,
+        "date_updated": 1773278056,
+        "date_posted": 1773278056,
+        "url": "https://x.company/careers/8456349002?gh_jid=8456349002",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/X-Development",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     }
 ]
