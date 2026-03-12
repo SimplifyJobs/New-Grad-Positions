@@ -253090,5 +253090,26 @@
         "degrees": [
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TWG Global",
+        "id": "91484c21-7d21-4781-8d54-3fe7ea8b1db0",
+        "title": "Associate AI Data Scientist",
+        "active": true,
+        "date_updated": 1773325009,
+        "date_posted": 1773325009,
+        "url": "https://apply.workable.com/twgai/j/469F929A47/apply",
+        "locations": [
+            "Santa Monica, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TWG-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
