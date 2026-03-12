@@ -81242,27 +81242,6 @@
         "source": "Simplify",
         "category": "Software",
         "company_name": "Crowdstrike",
-        "id": "8be6ca37-0d66-439e-8caf-58d43bfa3b75",
-        "title": "Analyst 1  \u2013 Falcon Complete",
-        "active": false,
-        "date_updated": 1763116648,
-        "date_posted": 1752585978,
-        "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/United-Kingdom---Remote/Analyst-I--Falcon-Complete--Remote-_R23934",
-        "locations": [
-            "Remote in UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Crowdstrike",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Crowdstrike",
         "id": "2ac51bf3-0b24-48e1-81fb-2a535a16e730",
         "title": "Analyst 1  \u2013 Falcon Complete",
         "active": false,
@@ -253010,5 +252989,26 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Busuu",
+        "id": "0b3c511b-e92c-4133-b579-fdcc5ad9a983",
+        "title": "Data Engineer",
+        "active": true,
+        "date_updated": 1773307001,
+        "date_posted": 1773307001,
+        "url": "https://osv-chegg.wd5.myworkdayjobs.com/en-US/Busuu/job/London---Busuu/Data-Engineer_R5099",
+        "locations": [
+            "London, UK",
+            "Madrid, Spain"
+        ],
+        "company_url": "https://simplify.jobs/c/Busuu",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
