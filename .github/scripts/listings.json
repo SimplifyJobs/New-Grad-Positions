@@ -154392,7 +154392,7 @@
         "company_name": "ByteDance",
         "id": "4161dea8-2c79-4e24-b9c0-943b14710bfc",
         "title": "Research Scientist Graduate - Foundation Model - Generative AI",
-        "active": false,
+        "active": true,
         "date_updated": 1768259580,
         "date_posted": 1768259580,
         "url": "https://jobs.bytedance.com/en/position/7593345683353012485/detail",
@@ -175041,7 +175041,7 @@
         "company_name": "The Boeing Company",
         "id": "7171d22c-2824-42c0-8900-e0c66cf263b0",
         "title": "Application Developer - Scientific Applications",
-        "active": false,
+        "active": true,
         "date_updated": 1769470831,
         "date_posted": 1769470831,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Application-Developer--Scientific-Applications------Entry-Level--Associate--or-Mid-Level-_JR2025488280",
@@ -251894,7 +251894,7 @@
         "company_name": "Sainsbury's",
         "id": "52829c65-5f45-4f41-9bb6-f757a18a1357",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1773267350,
         "date_posted": 1773267350,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051497",
@@ -252503,6 +252503,53 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Jerry",
+        "id": "6a462399-ae35-4976-8151-d1bbbf44d49b",
+        "title": "Applied Data Scientist",
+        "active": true,
+        "date_updated": 1773278271,
+        "date_posted": 1773278271,
+        "url": "https://jobs.ashbyhq.com/jerry.ai/2b5810fb-ff0a-4a21-b330-b3669b2ab71f/application",
+        "locations": [
+            "Salt Lake City, UT",
+            "Austin, TX",
+            "Chicago, IL",
+            "NYC",
+            "Phoenix, AZ",
+            "Portland, OR",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "614327c5-9f3d-419b-8861-f1485588c673",
+        "title": "Embedded Cybersecurity Software Engineer 1",
+        "active": true,
+        "date_updated": 1773270288,
+        "date_posted": 1773270288,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Embedded-Cybersecurity-Software-Engineer-I--Onsite-_01829680",
+        "locations": [
+            "Cedar Rapids, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
