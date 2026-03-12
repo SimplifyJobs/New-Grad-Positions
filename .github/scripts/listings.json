@@ -47309,7 +47309,7 @@
         "company_name": "TikTok",
         "id": "8e04d6a6-5911-4f5b-9dfb-deb716c9d742",
         "title": "Associate Software Engineer - Global Engineering CDN Platform",
-        "active": false,
+        "active": true,
         "date_updated": 1761902906,
         "date_posted": 1761902906,
         "url": "https://lifeattiktok.com/search/7400411130659178761",
@@ -249683,7 +249683,7 @@
         "company_name": "Sainsbury's",
         "id": "d94c3951-971a-42dc-8e00-667f0b947711",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1773180914,
         "date_posted": 1773180914,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052685",
@@ -249701,7 +249701,7 @@
         "company_name": "Sainsbury's",
         "id": "b545e18d-71d2-41bb-9d75-73a0a9c56aa4",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1773180927,
         "date_posted": 1773180927,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052874",
@@ -249737,7 +249737,7 @@
         "company_name": "Vanderbilt Health",
         "id": "6abc0db9-2cfb-4006-9303-d29bb0629a8b",
         "title": "Associate Product Manager - Clinical Engineering Products",
-        "active": true,
+        "active": false,
         "date_updated": 1773182492,
         "date_posted": 1773182492,
         "url": "https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Associate-Product-Manager---Clinical-Engineering-Products--Local---Hybrid-_R-53983-1",
@@ -249771,7 +249771,7 @@
         "source": "Simplify",
         "category": "Hardware",
         "company_name": "Western Digital",
-        "id": "2305b147-6ef5-4a4d-beaf-61a57b3a4400",
+        "id": "87a955a3-f826-4cad-92ef-3d302343959b",
         "title": "Media Tribology Design Engineer - Media Tribology Design Engineer",
         "active": true,
         "date_updated": 1773180886,
@@ -252161,6 +252161,44 @@
             "United States"
         ],
         "company_url": "https://simplify.jobs/c/Analytic-Partners",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Keysight Technologies",
+        "id": "fbd4b6e2-870e-45d3-afe2-22e9ea3f7a45",
+        "title": "Application Engineer - Entry",
+        "active": true,
+        "date_updated": 1773266731,
+        "date_posted": 1773266731,
+        "url": "https://jobs.keysight.com/jobs/51779?lang=en-us&icims=1",
+        "locations": [
+            "Roseville, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Keysight-Technologies-Inc",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CIBC",
+        "id": "6630d06e-beed-48e2-a3e0-373faeb4d118",
+        "title": "Application Developer",
+        "active": true,
+        "date_updated": 1773182658,
+        "date_posted": 1773182658,
+        "url": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Application-Developer_2605414-1",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/CIBC",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
