@@ -223994,7 +223994,7 @@
         "company_name": "Comcast",
         "id": "c6fba9e3-fadc-40af-88fa-8020272c380d",
         "title": "Software Engineer - Golang & Java",
-        "active": false,
+        "active": true,
         "date_updated": 1771949573,
         "date_posted": 1771949573,
         "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Software-Engineer--GoLang---Java_R431013",
@@ -251142,7 +251142,7 @@
         "company_name": "Sainsbury's",
         "id": "07a64338-a9d7-4b8b-b5b8-e7611751cd15",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1773267582,
         "date_posted": 1773267582,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053021",
@@ -252364,5 +252364,145 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Baxter International",
+        "id": "72d27694-fc25-4808-8c65-80f562aae16d",
+        "title": "Embedded Software Engineer 1",
+        "active": true,
+        "date_updated": 1773268694,
+        "date_posted": 1773268694,
+        "url": "https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Raleigh-North-Carolina/Embedded-Software-Engineer-I_JR-196893-1",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Baxter-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "General Motors",
+        "id": "bbd4fb62-ea0c-4903-9ff3-2886bf802efe",
+        "title": "ML Validation Research Engineer \u2013 Early Career",
+        "active": true,
+        "date_updated": 1773269693,
+        "date_posted": 1773269693,
+        "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/ML-Validation-Research-Engineer---Early-Career_JR-202605769",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Motors",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "5e50d104-4b2a-4299-be1b-990dfc38d4c0",
+        "title": "Embedded Linux Software Engineer 1",
+        "active": true,
+        "date_updated": 1773269465,
+        "date_posted": 1773269465,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/Embedded-Linux-Software-Engineer-I--Onsite-_01793223-2",
+        "locations": [
+            "Cedar Rapids, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Fiserv",
+        "id": "758af815-d60e-46c3-9ce6-780bda77660a",
+        "title": "Technology Analyst - Analyst Program I",
+        "active": true,
+        "date_updated": 1773268943,
+        "date_posted": 1773268943,
+        "url": "https://fiserv.wd5.myworkdayjobs.com/ext/job/Sunnyvale-California/Technology---Analyst-Program-I_R-10381783",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Fiserv",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Globus Medical",
+        "id": "05d493ab-098c-46d8-aa5c-bafc4611c1a8",
+        "title": "Associate Product Manager",
+        "active": true,
+        "date_updated": 1773269329,
+        "date_posted": 1773269329,
+        "url": "https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Audubon-PA/Associate-Product-Manager_JR105815",
+        "locations": [
+            "King of Prussia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Globus-Medical",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Draper",
+        "id": "09fa2e51-18e3-497d-96b0-8e534fcee1da",
+        "title": "Embedded Flight Software Engineer",
+        "active": true,
+        "date_updated": 1773268934,
+        "date_posted": 1773268934,
+        "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Software-Flight-Engr-S-W-MTS2_JR001642",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Draper",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "KLA Corporation",
+        "id": "1dcc0ac1-0486-43ab-9edb-530c948a3193",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1773269161,
+        "date_posted": 1773153077,
+        "url": "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Software-Engineer_2634918-2",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/KLA-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
