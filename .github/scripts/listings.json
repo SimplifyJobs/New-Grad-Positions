@@ -81261,24 +81261,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Millennium Space Systems",
-        "id": "1592f636-a7bc-466f-80ae-e379a9ddeb99",
-        "title": "EGSE Software Engineer - Labview Specialist",
-        "active": false,
-        "date_updated": 1752594915,
-        "date_posted": 1752594915,
-        "url": "https://job-boards.greenhouse.io/millenniumspacesystems/jobs/4413815008",
-        "locations": [
-            "El Segundo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Millennium-Space-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Dave & Busters",
         "id": "1fc1bbbd-f5c3-4b43-860d-06f58ac775c1",
@@ -244211,7 +244193,7 @@
         "company_name": "Cox",
         "id": "62db5e5b-5506-4b0f-b911-cac4cc9c3db3",
         "title": "Shop Trailer Technician 1",
-        "active": true,
+        "active": false,
         "date_updated": 1772794948,
         "date_posted": 1772282172,
         "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Albertville-MN/Shop-Trailer-Technician-I_R202569455",
@@ -253086,6 +253068,26 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "e4839ecb-2777-4886-93d2-c56612b08784",
+        "title": "Software Engineer 2",
+        "active": true,
+        "date_updated": 1773310382,
+        "date_posted": 1773310382,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/XMLNAME-2026-Fulltime-Raytheon-Software-Engineer-II---Test-Equipment---Onsite_01790413",
+        "locations": [
+            "Tucson, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
             "Master's"
         ]
     }
