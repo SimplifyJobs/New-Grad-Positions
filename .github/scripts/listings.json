@@ -253046,5 +253046,24 @@
         "date_posted": 1773324569,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1773325109,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://careers-lmi.icims.com/jobs/13752/junior-data-scientist/job",
+        "company_name": "LMI",
+        "title": "Junior Data Scientist",
+        "locations": [
+            "El Segundo, CA",
+            "Colorado Springs, CO"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "d9ec538d-024c-47fe-ad27-621dcf07244f",
+        "date_posted": 1773325109,
+        "company_url": "",
+        "is_visible": true
     }
 ]
