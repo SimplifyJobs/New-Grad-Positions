@@ -253028,5 +253028,23 @@
         "date_posted": 1773324407,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1773324569,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://employees-hrblock.icims.com/jobs/41315/associate-software-engineer%2c-accelerate-program/job",
+        "company_name": "H&R Block",
+        "title": "Associate Software Engineer, Accelerate Program",
+        "locations": [
+            "Kansan City, MO"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "deb116ac-811f-4c92-a9ab-e044dc1fba4f",
+        "date_posted": 1773324569,
+        "company_url": "",
+        "is_visible": true
     }
 ]
