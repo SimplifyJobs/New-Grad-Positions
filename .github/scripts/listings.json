@@ -81515,24 +81515,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Threatlocker",
-        "id": "2108a8bd-1765-491d-aa1d-4fdc4843b016",
-        "title": "Application Technician",
-        "active": false,
-        "date_updated": 1752536460,
-        "date_posted": 1752536460,
-        "url": "https://job-boards.greenhouse.io/threatlocker/jobs/5472461004",
-        "locations": [
-            "Orlando, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Threatlocker",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Wash U",
         "id": "ace8bc2b-6513-4a62-bafc-464421bea500",
@@ -252009,7 +251991,7 @@
         "company_name": "Sainsbury's",
         "id": "1b5d29e1-5373-4c82-a8bc-1f7f27a2d4ed",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1773267345,
         "date_posted": 1773267345,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053079",
