@@ -246069,7 +246069,7 @@
         "company_name": "Sainsbury's",
         "id": "29200b38-a16d-46b1-9b81-aac1832decab",
         "title": "Trading Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1773093248,
         "date_posted": 1773093248,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052617",
@@ -250090,7 +250090,7 @@
         "company_name": "Woongjin",
         "id": "c45292a2-9448-4413-a372-5bcd997cd643",
         "title": "WMS Developer - Java - English/Korean",
-        "active": true,
+        "active": false,
         "date_updated": 1773191060,
         "date_posted": 1773191060,
         "url": "https://jobs.smartrecruiters.com/WJCompany/744000113827477",
@@ -251973,7 +251973,7 @@
         "company_name": "Sainsbury's",
         "id": "23b94cd1-34c8-4cff-9151-3671381ab46f",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1773277873,
         "date_posted": 1773277873,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052490",
@@ -252031,7 +252031,7 @@
         "company_name": "Sainsbury's",
         "id": "7204479d-891a-4306-b374-7d703f39024b",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1773277886,
         "date_posted": 1773277886,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053100",
@@ -252071,7 +252071,7 @@
         "company_name": "Woongjin",
         "id": "5d2e3058-e80a-41e7-90c4-9b6833082d5f",
         "title": "WMS Developer - Java - English/Korean",
-        "active": true,
+        "active": false,
         "date_updated": 1773277448,
         "date_posted": 1773277448,
         "url": "https://jobs.smartrecruiters.com/WJCompany/744000114161577",
@@ -252123,7 +252123,7 @@
         "source": "Simplify",
         "category": "Product",
         "company_name": "Abercrombie and Fitch Co.",
-        "id": "72bb01b6-34c1-4577-bf15-d8a142de1a94",
+        "id": "7f507217-e075-4660-8927-bee4c472572b",
         "title": "Fit Consultant - Adult Brand size set",
         "active": true,
         "date_updated": 1773192054,
@@ -253388,5 +253388,26 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Sallie Mae",
+        "id": "4642d59a-de2d-455f-97b8-8dd33d12529b",
+        "title": "Data Engineer",
+        "active": true,
+        "date_updated": 1773328103,
+        "date_posted": 1773328103,
+        "url": "https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Newark-DE/Data-Engineer_R25_000780",
+        "locations": [
+            "Newark, DE",
+            "Dulles, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Sallie-Mae",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
