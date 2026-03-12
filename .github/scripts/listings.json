@@ -229434,7 +229434,7 @@
         "company_name": "The Boeing Company",
         "id": "e3a9e581-220f-4b2f-aab9-d702c8f3e1af",
         "title": "Training Device Operations Specialist \u2013 Associate & Mid Level",
-        "active": true,
+        "active": false,
         "date_updated": 1772149888,
         "date_posted": 1772149888,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Training-Device-Operations-Specialist--Associate---Mid-Level-_JR2025481672",
@@ -243581,7 +243581,7 @@
         "company_name": "Abbott",
         "id": "fc4ffa18-a04f-4270-83ac-a4ad6a3dd29b",
         "title": "Design / Product Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1772756248,
         "date_posted": 1772756248,
         "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Minnesota---St-Paul/Design---Product-Engineer_31143616-1",
@@ -243685,7 +243685,7 @@
         "company_name": "Abbott",
         "id": "1643a17c-dbe5-4655-a188-989a9b10e8a2",
         "title": "Design / Product Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1772755804,
         "date_posted": 1772755804,
         "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---Minnesota---St-Paul/Design---Product-Engineer_31143616",
@@ -246835,7 +246835,7 @@
         "company_name": "Chamberlain Group",
         "id": "d0fb464f-b9d2-40c2-95ee-8860876c1d6e",
         "title": "Software Engineer 1 - AI",
-        "active": true,
+        "active": false,
         "date_updated": 1773095934,
         "date_posted": 1773095934,
         "url": "https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/Software-Engineer-I---AI_JR30291",
@@ -249504,7 +249504,7 @@
         "company_name": "Sainsbury's",
         "id": "d94c3951-971a-42dc-8e00-667f0b947711",
         "title": "Trading Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1773180914,
         "date_posted": 1773180914,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052685",
@@ -249966,7 +249966,7 @@
         "company_name": "FOX",
         "id": "4a51294c-1f9a-4057-a49b-829f296c72e7",
         "title": "Data Warehousing Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1773192170,
         "date_posted": 1773192170,
         "url": "https://fox.wd1.myworkdayjobs.com/Domestic/job/Los-Angeles-California-USA/Database-Warehousing-Specialist_R50031910",
@@ -250027,7 +250027,7 @@
         "company_name": "Snowflake",
         "id": "a90902da-0004-44a4-b28b-f38803133694",
         "title": "Product Manager - Cortex Code Enablement",
-        "active": true,
+        "active": false,
         "date_updated": 1773191563,
         "date_posted": 1773191563,
         "url": "https://jobs.ashbyhq.com/snowflake/0675599f-3475-4706-ab37-925bc34aebe0/application",
@@ -250066,7 +250066,7 @@
         "company_name": "Tolan",
         "id": "1d12afa1-f2a3-4a87-bad6-bb6a19dfdab6",
         "title": "Research Operations Coordinator",
-        "active": true,
+        "active": false,
         "date_updated": 1773191731,
         "date_posted": 1773191731,
         "url": "https://jobs.ashbyhq.com/tolan/bdf5327a-ef81-4657-a4a4-22750ab6de57/application",
@@ -251933,7 +251933,7 @@
         "company_name": "Sainsbury's",
         "id": "011964f8-213f-454c-98e4-e7a96bba448c",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1773267579,
         "date_posted": 1773267579,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053077",
@@ -252012,7 +252012,7 @@
         "company_name": "CIBC",
         "id": "6630d06e-beed-48e2-a3e0-373faeb4d118",
         "title": "Application Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1773182658,
         "date_posted": 1773182658,
         "url": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Application-Developer_2605414-1",
@@ -252580,7 +252580,7 @@
         "company_name": "X Development",
         "id": "c584dd3c-41ef-4532-8e5c-2f7039ea2fce",
         "title": "Machine Learning Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773278056,
         "date_posted": 1773278056,
         "url": "https://x.company/careers/8456349002?gh_jid=8456349002",
@@ -252657,5 +252657,180 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Netflix",
+        "id": "5a3d9a3a-38b6-456b-98c5-82707b11c4be",
+        "title": "Rigging Technical Assistant",
+        "active": true,
+        "date_updated": 1773297573,
+        "date_posted": 1773297573,
+        "url": "https://netflix.wd1.myworkdayjobs.com/Netflix/job/Vancouver/Rigging-Technical-Assistant_JR34738",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Netflix",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "2a66c426-bfb9-4fe3-891d-1ad7f16deadb",
+        "title": "Associate Software Engineer/Software Engineer",
+        "active": true,
+        "date_updated": 1773297252,
+        "date_posted": 1773297252,
+        "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_restricted_site/job/United-States-Oklahoma-Oklahoma-City/XMLNAME-2026-Associate-Software-Engineer-Software-Engineer_R10217878-2",
+        "locations": [
+            "Oklahoma City, OK"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northrop Grumman",
+        "id": "13dcf884-d066-4b4b-a3c1-aac75c8eef89",
+        "title": "Associate Embedded Software Engineer",
+        "active": true,
+        "date_updated": 1773297251,
+        "date_posted": 1773297251,
+        "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_restricted_site/job/United-States-Virginia-Dulles/XMLNAME-2026-Associate-Embedded-Software--Embedded-Software-Engineer---Dulles-VA_R10207140-2",
+        "locations": [
+            "Dulles, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "SpaceX",
+        "id": "7ac9326f-37b2-436b-9e22-dc571c015743",
+        "title": "Software Engineer - Embedded Software",
+        "active": true,
+        "date_updated": 1773296841,
+        "date_posted": 1773296841,
+        "url": "https://boards.greenhouse.io/spacex/jobs/8436708002",
+        "locations": [
+            "West Athens, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/SpaceX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "NJM Insurance Group",
+        "id": "050aeeed-e3e0-4a80-8608-a0d38abc50a2",
+        "title": "Solution Owner 2 - Personal Lines",
+        "active": true,
+        "date_updated": 1773296413,
+        "date_posted": 1773296413,
+        "url": "https://njm.wd1.myworkdayjobs.com/njm/job/NJM---Trenton/Solution-Owner-II---Personal-Lines_R2007664",
+        "locations": [
+            "Trenton, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/NJM-Insurance-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "c76979e7-3e47-42e4-a2b9-8114dc7dfdb7",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1773295849,
+        "date_posted": 1773295849,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053104",
+        "locations": [
+            "Aberdeen, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "NAV CANADA",
+        "id": "972073a8-11c8-4440-9363-2bfe7c429a3f",
+        "title": "Air Traffic Management Performance Analyst",
+        "active": true,
+        "date_updated": 1773295382,
+        "date_posted": 1773295382,
+        "url": "https://navcanada.wd10.myworkdayjobs.com/NAV_Careers/job/Ottawa/Air-Traffic-Management-Performance-Analyst_JR-7867-1",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/NAV-CANADA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Lightship RV",
+        "id": "6bb70a81-fee9-4ceb-822d-c66c593943fe",
+        "title": "Field Service Engineer",
+        "active": true,
+        "date_updated": 1773295630,
+        "date_posted": 1773295630,
+        "url": "https://jobs.lever.co/lightship/c031b869-fa93-4544-bfc7-561dd6442559/apply",
+        "locations": [
+            "Broomfield, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/LightshipRV",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "2d428c20-ba9d-4fa7-9632-55b9462fda5c",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1773295841,
+        "date_posted": 1773295841,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053102",
+        "locations": [
+            "Trafford, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
