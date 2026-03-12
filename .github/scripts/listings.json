@@ -249828,7 +249828,7 @@
         "company_name": "Abbott",
         "id": "0e5a5814-33f2-4666-8f48-2d04f3decb9a",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773183690,
         "date_posted": 1773183690,
         "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---San-Diego/Software-Engineer_31142265-1",
@@ -251355,7 +251355,7 @@
         "company_name": "Thomson Reuters",
         "id": "dd6c438c-0472-4fbd-80ad-168821c00354",
         "title": "Al Engineer - New Grad - Materia",
-        "active": true,
+        "active": false,
         "date_updated": 1773267000,
         "date_posted": 1773267000,
         "url": "https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Canada-Toronto-Ontario/Al-Engineer--Materia--New-Grad---2026-_JREQ199007",
@@ -253065,5 +253065,28 @@
         "date_posted": 1773325109,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Hudson River Trading",
+        "id": "65d9dfbd-5d39-42b0-988c-dd59701000db",
+        "title": "Software Engineer - Python",
+        "active": true,
+        "date_updated": 1773307996,
+        "date_posted": 1770085762,
+        "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7398013",
+        "locations": [
+            "London, UK",
+            "Chicago, IL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Hudson-River-Trading",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
