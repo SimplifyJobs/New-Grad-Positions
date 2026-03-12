@@ -26068,24 +26068,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Wyetech",
-        "id": "2a65f3ef-8fd4-41c5-95ad-56c0714eee35",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1762436258,
-        "date_posted": 1752618104,
-        "url": "https://jobs.lever.co/wyetechllc/08805fb2-ec83-47ba-a4bb-a82e47805e94/apply",
-        "locations": [
-            "Annapolis Junction, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/Wyetech-LLC",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Axon",
         "id": "d79bd3b7-c1d4-4bbd-913f-b004edba607b",
@@ -252782,7 +252764,7 @@
         "company_name": "Sainsbury's",
         "id": "2d428c20-ba9d-4fa7-9632-55b9462fda5c",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1773295841,
         "date_posted": 1773295841,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053102",
@@ -253369,5 +253351,42 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Littelfuse",
+        "id": "c35de9e7-9a61-4ba7-ad43-c4e89eca6262",
+        "title": "Reliability Technician",
+        "active": true,
+        "date_updated": 1773327275,
+        "date_posted": 1773327275,
+        "url": "https://littelfuse.wd1.myworkdayjobs.com/Littelfuse-Careers/job/Champaign---Oak-Street/Reliability-Technician_JR-111178",
+        "locations": [
+            "Urbana, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Littelfuse",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Barclays",
+        "id": "feb2005f-f9ed-4d08-9535-1283757ff309",
+        "title": "Data Modeller",
+        "active": true,
+        "date_updated": 1773326876,
+        "date_posted": 1773326876,
+        "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/Data-Modeller_JR-0000084644-1",
+        "locations": [
+            "Northwich, UK",
+            "United Kingdom"
+        ],
+        "company_url": "https://simplify.jobs/c/Barclays",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
