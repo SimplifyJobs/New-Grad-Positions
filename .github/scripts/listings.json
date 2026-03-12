@@ -147519,7 +147519,7 @@
         "company_name": "L3Harris Technologies",
         "id": "684c8243-8d73-4106-8ced-787221223504",
         "title": "Associate \u2013 Software Engineer - Palm Bay - FL",
-        "active": false,
+        "active": true,
         "date_updated": 1767742093,
         "date_posted": 1767742093,
         "url": "https://jobs.l3harris.com/job/Palm-Bay-Associate,-Software-Engineer-(Palm-Bay,-FL)-FL-32905/1325302600/?ats=successfactors",
@@ -172880,7 +172880,7 @@
         "company_name": "LexisNexis Risk Solutions",
         "id": "6ec9ce77-4295-47eb-b40b-7664efc54c31",
         "title": "Tech Accelerate Graduate Program",
-        "active": true,
+        "active": false,
         "date_updated": 1768321407,
         "date_posted": 1768321407,
         "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/UK---London-London-Wall/Tech-Accelerate-Graduate-Program---Software-Engineer_R100132",
@@ -191965,7 +191965,7 @@
         "company_name": "Sainsbury's",
         "id": "acd70588-9715-4973-b0a2-d557bd80e54e",
         "title": "Trading Assistant - Shift",
-        "active": false,
+        "active": true,
         "date_updated": 1770275476,
         "date_posted": 1770275476,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048277",
@@ -236692,7 +236692,7 @@
         "company_name": "Sainsbury's",
         "id": "5073984a-1e02-4de0-93c3-24f2fdea0ef4",
         "title": "Trading Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1772534660,
         "date_posted": 1772534660,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051744",
@@ -240523,7 +240523,7 @@
         "company_name": "Nelnet",
         "id": "018ba654-94c9-4135-b5d1-cf83917feeb4",
         "title": "Data Analyst 1 - Consumer Loan Analytics",
-        "active": true,
+        "active": false,
         "date_updated": 1772671898,
         "date_posted": 1772671898,
         "url": "https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Data-Analyst-I---Consumer-Loan-Analytics_R22385",
@@ -242584,7 +242584,7 @@
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "ATPCO",
-        "id": "be15c5f4-2ac1-4516-b7ba-2454e6be4bff",
+        "id": "11ad62a0-3c8d-494a-85b2-19f0343e7991",
         "title": "Data Engineer \u2013 New grads welcome to apply",
         "active": true,
         "date_updated": 1772752587,
@@ -246915,7 +246915,7 @@
         "company_name": "Huntington Ingalls Industries",
         "id": "d55a8108-acbf-44ef-b38b-6592a16a9d7d",
         "title": "Digital Research Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773093615,
         "date_posted": 1773093615,
         "url": "https://careers.huntingtoningalls.com/job/Newport-News-DIGITAL-RESEARCH-ENGINEER-Virg/1370027800/?ats=successfactors",
@@ -252373,7 +252373,7 @@
         "company_name": "RTX",
         "id": "5e50d104-4b2a-4299-be1b-990dfc38d4c0",
         "title": "Embedded Linux Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1773269465,
         "date_posted": 1773269465,
         "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/Embedded-Linux-Software-Engineer-I--Onsite-_01793223-2",
@@ -253111,5 +253111,225 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Genomics England",
+        "id": "5b36e345-edcf-4f31-a0a3-c2bbc085f20d",
+        "title": "Data Architect",
+        "active": true,
+        "date_updated": 1773325673,
+        "date_posted": 1773325673,
+        "url": "https://jobs.smartrecruiters.com/GenomicsEngland/744000114327740",
+        "locations": [
+            "London, UK",
+            "Leeds, UK",
+            "Cambridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Genomics-England",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "SMX",
+        "id": "e6ed8b81-cbcc-45c3-9ee9-35092f304f43",
+        "title": "Engineering Technician 1",
+        "active": true,
+        "date_updated": 1773325182,
+        "date_posted": 1773325182,
+        "url": "https://www.smxtech.com/careers/?gh_jid=7661465003",
+        "locations": [
+            "Patuxent River, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Smx",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "c1b8f7dc-919d-4fd6-ac7d-32d2c04ad837",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1773325215,
+        "date_posted": 1773325215,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053175",
+        "locations": [
+            "United Kingdom"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "1847f49d-81cf-4df9-8ed3-2aef78a7cf11",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1773325254,
+        "date_posted": 1773325254,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053157",
+        "locations": [
+            "Exeter, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Formlabs",
+        "id": "0eb3377c-d9d5-4aba-98fe-3f7c155096d6",
+        "title": "Engineering Technician",
+        "active": true,
+        "date_updated": 1773325690,
+        "date_posted": 1773325690,
+        "url": "https://careers.formlabs.com/job/7711076/apply/?gh_jid=7711076",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Formlabs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "084c3e00-8840-4847-90a5-08097d998f86",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1773325207,
+        "date_posted": 1773325207,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053182",
+        "locations": [
+            "United Kingdom"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "0747bbd1-9ab5-4d43-9481-23dd71b3a5b0",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1773325211,
+        "date_posted": 1773325211,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053147",
+        "locations": [
+            "Exeter, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "2e1716bc-c59e-4db8-bc5d-f26b3cb0cd69",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1773324930,
+        "date_posted": 1773324930,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053185",
+        "locations": [
+            "Gloucester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "25d2077c-2d1b-47a8-b41a-53b58c79715b",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1773324908,
+        "date_posted": 1773324908,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053176",
+        "locations": [
+            "Norwich, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "8de76190-1841-4e3e-b178-554d3d6492cc",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1773324920,
+        "date_posted": 1773324920,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053116",
+        "locations": [
+            "Stratford-upon-Avon, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "396f81d0-6fd2-4c3a-8486-d57acbf4298b",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1773324932,
+        "date_posted": 1773324932,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053148",
+        "locations": [
+            "Bath, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "2d28c8bb-0add-4b6f-a073-ead760253004",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1773324924,
+        "date_posted": 1773324924,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053187",
+        "locations": [
+            "Gloucester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
