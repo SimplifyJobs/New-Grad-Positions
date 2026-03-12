@@ -155694,7 +155694,7 @@
         "company_name": "TikTok",
         "id": "5c8331f4-e239-4c6f-a9ad-d69afeeb2da1",
         "title": "Benefits Operations Data Analyst - HR Operations - San Jose','Third-Party Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1768300695,
         "date_posted": 1768300695,
         "url": "https://lifeattiktok.com/search/7593570990719306037",
@@ -212181,7 +212181,7 @@
         "company_name": "Western Digital",
         "id": "902de096-e22e-426c-8a55-3c500f140843",
         "title": "Early Career Talent - Metrology Engineer - Optical & Physical,Ph.D. Only",
-        "active": true,
+        "active": false,
         "date_updated": 1771456331,
         "date_posted": 1771456331,
         "url": "https://jobs.smartrecruiters.com/WesternDigital/744000110030945",
@@ -231191,7 +231191,7 @@
         "company_name": "Vertiv",
         "id": "ba9fe7dd-74b3-4549-b35f-beac2e51ac55",
         "title": "NETA Testing Technician-Charleston - SC",
-        "active": true,
+        "active": false,
         "date_updated": 1772205397,
         "date_posted": 1772205397,
         "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20267706",
@@ -239916,7 +239916,7 @@
         "company_name": "Savannah River National Laboratory",
         "id": "e12fa1ff-4dd0-46d3-b110-37e3bb0686a3",
         "title": "Graduate Research Associate - Post Masters-Nuclear Engineering & Modeling",
-        "active": true,
+        "active": false,
         "date_updated": 1772665947,
         "date_posted": 1772665947,
         "url": "https://ewvl.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1987",
@@ -252952,5 +252952,63 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "a6118683-7bfb-4870-87dd-5e2fab150af0",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1773306463,
+        "date_posted": 1773306463,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052895",
+        "locations": [
+            "Manchester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Amazon",
+        "id": "43dbbab0-c717-4ffe-8833-d487dbf6d52a",
+        "title": "Software Development Engineer 1",
+        "active": true,
+        "date_updated": 1773306391,
+        "date_posted": 1773306391,
+        "url": "https://amazon.jobs/en/jobs/3195341/software-development-engineer-i",
+        "locations": [
+            "India",
+            "Tennessee",
+            "Chennai, Tamil Nadu, India"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Schreder",
+        "id": "d1cd0670-ec6a-4949-9344-427e30fda32f",
+        "title": "Application Engineer",
+        "active": true,
+        "date_updated": 1773306412,
+        "date_posted": 1772090025,
+        "url": "https://jobs.smartrecruiters.com/Schrder/744000114315248",
+        "locations": [
+            "Basingstoke, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Schreder",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
