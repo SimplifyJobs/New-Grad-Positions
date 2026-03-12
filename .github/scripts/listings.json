@@ -227800,7 +227800,7 @@
         "company_name": "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale de Surveillance (SGS)",
         "id": "3055d060-5583-4fd6-a808-d35ed380e0ff",
         "title": "Air Quality Sensor Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1772090751,
         "date_posted": 1772090751,
         "url": "https://jobs.smartrecruiters.com/SGS/744000105958155",
@@ -242765,7 +242765,7 @@
         "company_name": "Corning",
         "id": "07401b2c-6dfe-4d42-998b-046982193900",
         "title": "Data Enablement Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1772752165,
         "date_posted": 1772752165,
         "url": "https://corningjobs.corning.com/job/Texas-Data-Enablement-Analyst-TX/1370706800/?ats=successfactors",
@@ -247601,7 +247601,7 @@
         "company_name": "Northwood Space",
         "id": "a4cf563e-3824-42d7-a44d-e7f19ab629c1",
         "title": "Technician \u2013 Antenna Manufacturing & Integration",
-        "active": true,
+        "active": false,
         "date_updated": 1773100272,
         "date_posted": 1773100272,
         "url": "https://jobs.ashbyhq.com/NorthwoodSpace/e29feaeb-9e18-40a7-a5b5-303865bdc084/application",
@@ -252911,5 +252911,46 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "KLA Corporation",
+        "id": "7bef4342-f4f4-466c-aea1-49298d49f62e",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1773305543,
+        "date_posted": 1773154116,
+        "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Engineer_2634918-1",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/KLA-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Sprocket Security",
+        "id": "9adfdf78-d04f-49e7-bbb0-b4ec4526231d",
+        "title": "Product Owner",
+        "active": true,
+        "date_updated": 1773305803,
+        "date_posted": 1769182718,
+        "url": "https://www.sprocketsecurity.com/company/careers/apply?gh_jid=5081034008",
+        "locations": [
+            "Madison, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/38830c5c-616a-4e08-be48-d4ce6c915024",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
