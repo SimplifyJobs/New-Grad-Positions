@@ -253010,5 +253010,23 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "date_updated": 1773324407,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://continuous.com/careers?gh_jid=4129820009",
+        "company_name": "Continuous",
+        "title": "Software Engineer I - C# .NET",
+        "locations": [
+            "Remote in US"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "0057662c-3820-4afe-b8d6-e6b0938df933",
+        "date_posted": 1773324407,
+        "company_url": "",
+        "is_visible": true
     }
 ]
