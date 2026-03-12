@@ -182266,7 +182266,7 @@
         "company_name": "RTX",
         "id": "73df5cff-7c3a-4d21-ae3c-c75a9096c4ba",
         "title": "2026 Full-time - Software Engineer II",
-        "active": false,
+        "active": true,
         "date_updated": 1769758967,
         "date_posted": 1769758967,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/XMLNAME-2026-Full-time---Software-Engineer-II---Onsite--AZ-_01820536",
@@ -224963,7 +224963,7 @@
         "company_name": "Harris Central Appraisal District",
         "id": "f3dc6578-d632-41ea-bfae-12c1b1fc5c44",
         "title": "Specialist 1 - GIS",
-        "active": true,
+        "active": false,
         "date_updated": 1771975797,
         "date_posted": 1771975797,
         "url": "https://hcad.wd5.myworkdayjobs.com/HCADCareers/job/Houston-Texas/Specialist-I---GIS_JR421",
@@ -241884,7 +241884,7 @@
         "company_name": "RTX",
         "id": "b524de61-9d76-47f2-860e-deafce23e1d1",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1772697471,
         "date_posted": 1772697471,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/XMLNAME-2026-Full-time---Software-Engineer-1---Onsite--IN-_01827401",
@@ -246365,7 +246365,7 @@
         "company_name": "Sainsbury's",
         "id": "f7a07dff-32fd-4904-9c6d-30f07e198424",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1773093249,
         "date_posted": 1773093249,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052298",
@@ -252594,6 +252594,68 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "NVIDIA",
+        "id": "9e02f77d-0f5a-4cb5-9b0c-25a14b83f5f6",
+        "title": "Long-Horizon Agents Software Engineer",
+        "active": true,
+        "date_updated": 1773280206,
+        "date_posted": 1773280206,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Long-Horizon-Agents-Software-Engineer---New-College-Grad-2026_JR2014184",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Loblaw Companies",
+        "id": "931c30af-96ae-41ec-a871-17dceb118ebc",
+        "title": "Product Analyst",
+        "active": true,
+        "date_updated": 1773279884,
+        "date_posted": 1773279884,
+        "url": "https://myview.wd3.myworkdayjobs.com/paradox_careers/job/1-Presidents-Choice-Circle-Brampton-ON/Product-Analyst--Technology-Application_R2000646991",
+        "locations": [
+            "Brampton, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Loblaw-Companies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Daimler Truck",
+        "id": "d33543a6-e7b2-4bba-bdc4-bbb26cbfd77b",
+        "title": "Supplier Quality Management Analyst 1",
+        "active": true,
+        "date_updated": 1773279745,
+        "date_posted": 1773279745,
+        "url": "https://dtna.wd5.myworkdayjobs.com/dtna_affiliate/job/Portland-OR-US/Supplier-Quality-Management-Analyst-I_DT-16980",
+        "locations": [
+            "Portland, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Daimler-Truck",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
