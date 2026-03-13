@@ -250976,7 +250976,7 @@
         "company_name": "Sainsbury's",
         "id": "d9e3fe65-85ab-4bf3-b26e-4bcb5514dd2a",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1773267341,
         "date_posted": 1773267341,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051817",
@@ -254880,6 +254880,64 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amazon",
+        "id": "f9d9b4d6-0a79-435b-9c82-65027dc745d0",
+        "title": "Software Development Engineer - IAM Control Plane Team",
+        "active": true,
+        "date_updated": 1773382231,
+        "date_posted": 1773382231,
+        "url": "https://amazon.jobs/en/jobs/3202559/software-development-engineer-iam-control-plane-team",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Southwest Airlines",
+        "id": "21d2525d-2871-4a2d-ad5c-c4250a3a12ab",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1773382083,
+        "date_posted": 1773382083,
+        "url": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Associate-Software-Engineer---Warrior-Hire_R-2026-66100",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Southwest-Airlines",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Samsung",
+        "id": "072d4506-5871-490d-998e-e73997ace558",
+        "title": "Engineer 1 - Multiple Openings",
+        "active": true,
+        "date_updated": 1773382243,
+        "date_posted": 1773382243,
+        "url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/12100-Samsung-Blvd-Austin-TX-USA/Engineer-I--Multiple-Openings-_R114847-1",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Samsung",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
