@@ -2,24 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Iridium Communications",
-        "id": "16835add-c9d7-462d-bf56-9e806489af23",
-        "title": "Engineer I - Software Developer",
-        "active": false,
-        "date_updated": 1752706987,
-        "date_posted": 1752706987,
-        "url": "https://careers-iridium.icims.com/jobs/4606/job",
-        "locations": [
-            "Reston, VA",
-            "Chandler, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Iridium-Communications",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "CACI",
         "id": "ac8b67b8-97b8-4915-90f9-87cb00709c0a",
         "title": "Entry Level Software Engineer - Automated Testing",
@@ -211883,7 +211865,7 @@
         "company_name": "iwoca",
         "id": "2f824251-0126-48ca-958a-fdbfb135ef0a",
         "title": "Full Stack Engineer - Iwocapay",
-        "active": true,
+        "active": false,
         "date_updated": 1771456687,
         "date_posted": 1771456687,
         "url": "https://jobs.ashbyhq.com/iwoca.co.uk/8892dfda-83de-4664-97ec-48856c6c3cb1/application",
@@ -249321,7 +249303,7 @@
         "company_name": "Sainsbury's",
         "id": "98de8be9-8e68-41a8-a181-139574e0b0f0",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1773180923,
         "date_posted": 1773180923,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052883",
