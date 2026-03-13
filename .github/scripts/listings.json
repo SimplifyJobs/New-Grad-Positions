@@ -110108,7 +110108,7 @@
         "company_name": "Waystar",
         "id": "818e757e-d340-4275-815d-e3934b3fad23",
         "title": "ML Engineer 2",
-        "active": true,
+        "active": false,
         "date_updated": 1764731644,
         "date_posted": 1764731644,
         "url": "https://waystar.wd1.myworkdayjobs.com/Waystar/job/Atlanta-GA/ML-Engineer-II_R2882-1",
@@ -247117,7 +247117,7 @@
         "company_name": "Sainsbury's",
         "id": "223afe35-2fd9-4484-970d-c5341778519b",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1773093723,
         "date_posted": 1773093723,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052390",
@@ -254487,6 +254487,67 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Morgan Stanley",
+        "id": "42fefed3-d90b-481f-a7ae-0ac8f101599e",
+        "title": "Data Science Engineer - Associate",
+        "active": true,
+        "date_updated": 1773357293,
+        "date_posted": 1773357293,
+        "url": "https://ms.wd5.myworkdayjobs.com/private/job/New-York-New-York-United-States-of-America/Data-Science-Engineer---Associate_PT-JR031572",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Morgan-Stanley",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "45512ad3-acc2-4762-8855-139059b84169",
+        "title": "Software Engineer 2",
+        "active": true,
+        "date_updated": 1773356591,
+        "date_posted": 1773356591,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-106--400-Collins-Rd-NE--BLDG-106/Software-Engineer-II--Onsite-_01830547",
+        "locations": [
+            "Cedar Rapids, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Genuine Parts Company",
+        "id": "c649691d-feec-49b4-ac5d-10a40947c3a4",
+        "title": "PIM Data Analyst",
+        "active": true,
+        "date_updated": 1773357152,
+        "date_posted": 1773357152,
+        "url": "https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/PIM-Data-Analyst_R26_0000004892",
+        "locations": [
+            "Birmingham, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Genuine-Parts-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
