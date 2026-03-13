@@ -18369,7 +18369,7 @@
         "company_name": "Fullbay",
         "id": "419f72c2-240d-4b3d-a47e-2ce148967ba0",
         "title": "Software Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1761919455,
         "date_posted": 1759808742,
         "url": "https://fullbay.bamboohr.com/careers/178/",
@@ -254548,6 +254548,75 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "AECOM",
+        "id": "c8292589-8add-4192-ae9f-3958d47b1a0d",
+        "title": "Water Science Graduate/Environment",
+        "active": true,
+        "date_updated": 1773354798,
+        "date_posted": 1773354798,
+        "url": "https://jobs.smartrecruiters.com/AECOM2/744000114419417",
+        "locations": [
+            "Croydon, UK",
+            "Basingstoke, UK",
+            "Leeds, UK",
+            "Birmingham, UK",
+            "Manchester, UK",
+            "Dublin, Ireland",
+            "Nottingham, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/AECOM",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TD Bank",
+        "id": "4e8e3a51-02fc-4f29-9e92-17e7f1ed5d70",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1773357298,
+        "date_posted": 1773357298,
+        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-I_R_1478337",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/TD-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Walmart",
+        "id": "44b4ac32-f52d-4ac3-a87a-88a32953b77e",
+        "title": "Software Engineer 3",
+        "active": true,
+        "date_updated": 1773356886,
+        "date_posted": 1773356886,
+        "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-J-STREET-OFFICE-SPACE-AR-BENTONVILLE-Home-Office/Software-Engineer-III_R-2399814",
+        "locations": [
+            "Bentonville, AR"
+        ],
+        "company_url": "https://simplify.jobs/c/Walmart",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
