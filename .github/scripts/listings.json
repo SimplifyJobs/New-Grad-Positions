@@ -15673,7 +15673,7 @@
         "source": "Simplify",
         "category": "Software",
         "company_name": "mthree",
-        "id": "13614527-7efc-429b-ba53-e410fe62b4a0",
+        "id": "c69eca4d-3efe-46db-a9c2-5a84040d6c8b",
         "title": "Junior Software Developer - Java/Scala",
         "active": true,
         "date_updated": 1758755027,
@@ -213482,7 +213482,7 @@
         "company_name": "Johnson & Johnson",
         "id": "785d6ff9-e61f-4b55-a6ce-b94fcdf17c3b",
         "title": "Senior Robotic Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1771486709,
         "date_posted": 1771486709,
         "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Santa-Clara-California-United-States-of-America/Senior-Robotic-Software-Engineer_R-055925",
@@ -240772,7 +240772,7 @@
         "company_name": "Savannah River National Laboratory",
         "id": "a82fc11a-5d61-4e03-b394-2fb04a8522b7",
         "title": "Contaminant Fate and Transport Modeling Postdoc Research Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1772676975,
         "date_posted": 1772676975,
         "url": "https://ewvl.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1961",
@@ -240904,7 +240904,7 @@
         "source": "Simplify",
         "category": "Software",
         "company_name": "Metropolitan Transportation Authority",
-        "id": "82bbe341-ce93-4a6a-a4f1-b0382f37cfc5",
+        "id": "4c0dab45-55ba-43b4-a4c3-9f1bd32957ed",
         "title": "Application Developer 1 - PeopleSoft",
         "active": true,
         "date_updated": 1772676547,
@@ -245626,7 +245626,7 @@
         "company_name": "CVS Health",
         "id": "779755e6-180d-45f5-949c-168a6a46d626",
         "title": "Associate Data Engineer - Enterprise Identity Services",
-        "active": true,
+        "active": false,
         "date_updated": 1772842141,
         "date_posted": 1772842141,
         "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/AZ---Work-from-home/Associate-Data-Engineer---Enterprise-Identity-Services_R0839728",
@@ -254499,7 +254499,7 @@
         "company_name": "AECOM",
         "id": "c8292589-8add-4192-ae9f-3958d47b1a0d",
         "title": "Water Science Graduate/Environment",
-        "active": true,
+        "active": false,
         "date_updated": 1773354798,
         "date_posted": 1773354798,
         "url": "https://jobs.smartrecruiters.com/AECOM2/744000114419417",
@@ -255218,6 +255218,26 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Thorlabs",
+        "id": "2dc7d7cd-4ce4-482c-9a02-c56ff460d06f",
+        "title": "Draughtsperson",
+        "active": true,
+        "date_updated": 1773390620,
+        "date_posted": 1770995653,
+        "url": "https://apply.workable.com/thorlabs/j/1FC349B162/apply",
+        "locations": [
+            "Lakenheath, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Thorlabs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Certificate"
         ]
     }
 ]
