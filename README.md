@@ -399,7 +399,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Junior Software Engineer - Dev Academy</td>
 <td>Manchester, UK</td>
 <td><div align="center"><a href="https://job-boards.greenhouse.io/anaplan/jobs/8395642002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/895e55c8-1748-43fd-ae12-9aee8d440a76?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>10d</td>
+<td>11d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/TrueAnomaly?utm_source=GHList&utm_medium=company">True Anomaly</a></strong></td>
@@ -602,7 +602,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Engineer 1</td>
 <td>London, UK</td>
 <td><div align="center"><a href="https://job-boards.greenhouse.io/axon/jobs/7620148003?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/5e01b73c-fb23-4866-a4da-8999702383fb?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>21d</td>
+<td>22d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Clearer-Io?utm_source=GHList&utm_medium=company">Clearer.io</a></strong></td>
@@ -2279,7 +2279,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Engineer 1</td>
 <td>Seattle, WA</td>
 <td>🔒</td>
-<td>22d</td>
+<td>23d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/RELX?utm_source=GHList&utm_medium=company">RELX</a></strong></td>
@@ -10092,7 +10092,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>MBA University Graduate - Product Marketing Manager 🎓</td>
 <td>SF</br>San Jose, CA</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Alpha-FMC?utm_source=GHList&utm_medium=company">Alpha FMC</a></strong></td>
@@ -10970,7 +10970,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>AI Lab Junior Machine Learning Engineer</td>
 <td>Sant Cugat del Vallès, Barcelona, Spain</br>Palo Alto, CA</td>
 <td>🔒</td>
-<td>1mo</td>
+<td>2mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Adobe?utm_source=GHList&utm_medium=company">🔥 Adobe</a></strong></td>
