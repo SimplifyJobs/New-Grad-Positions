@@ -253875,7 +253875,7 @@
         "company_name": "Sainsbury's",
         "id": "6dd7dcc7-d7b9-4323-8f49-d28eca98be2c",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1773354086,
         "date_posted": 1773354086,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053268",
@@ -254938,6 +254938,90 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pima County",
+        "id": "b2e736fc-f68f-4a7a-875c-b823f873fe90",
+        "title": "Business Intelligence Analyst 1 - Public Health Data Manager",
+        "active": true,
+        "date_updated": 1773382972,
+        "date_posted": 1773382972,
+        "url": "https://pimacounty.wd5.myworkdayjobs.com/pimacareers/job/Tucson-AZ/Business-Intelligence-Analyst-I---Public-Health-Data-Manager_JR102794",
+        "locations": [
+            "Tucson, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Pima-County",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Public Partnerships (PPL)",
+        "id": "a1f7e7e3-7b2c-4d7f-a46b-3d29dbcaca18",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1773382513,
+        "date_posted": 1773382513,
+        "url": "https://publicpartnerships.wd1.myworkdayjobs.com/ppl/job/New-York/Data-Analyst_JR26-0746",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Public-Partnerships",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "SentiLink",
+        "id": "63fc30c3-4d13-40bc-8488-b39b2dc59b9e",
+        "title": "Applied ML Scientist",
+        "active": true,
+        "date_updated": 1773382522,
+        "date_posted": 1773382522,
+        "url": "https://jobs.ashbyhq.com/sentilink/5217d6c6-2140-4956-89c3-640088c29ffe/application",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/SentiLink",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "SentiLink",
+        "id": "5486f8fc-e958-437b-934e-ad3295e9a178",
+        "title": "Data Scientist \u2013 New Grad",
+        "active": true,
+        "date_updated": 1773382532,
+        "date_posted": 1773382532,
+        "url": "https://jobs.ashbyhq.com/sentilink/3cb2885e-7a58-4a14-94d5-b7b851053408/application",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/SentiLink",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     }
 ]
