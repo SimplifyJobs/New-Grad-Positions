@@ -2,40 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "CACI",
-        "id": "f95f5d5d-ca68-42fe-9088-64cae078432e",
-        "title": "Entry Level Software Engineer - GUI Development",
-        "active": false,
-        "date_updated": 1752623971,
-        "date_posted": 1752623971,
-        "url": "https://caci.wd1.myworkdayjobs.com/External/job/US-NY-Rochester/Entry-Level-Software-Engineer--GUI-Development-_314487",
-        "locations": [
-            "Rochester, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/CACI",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "CACI",
-        "id": "e23f991b-f6bb-4037-a415-84cb81506adb",
-        "title": "Entry Level DSP Software Engineer",
-        "active": false,
-        "date_updated": 1752623968,
-        "date_posted": 1752623968,
-        "url": "https://caci.wd1.myworkdayjobs.com/External/job/US-NY-Rochester/Entry-Level-DSP-Software-Engineer_314488-1",
-        "locations": [
-            "Rochester, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/CACI",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Iridium Communications",
         "id": "16835add-c9d7-462d-bf56-9e806489af23",
         "title": "Engineer I - Software Developer",
@@ -201909,7 +201875,7 @@
         "company_name": "Advocate Health Care",
         "id": "fdc12f4d-7cbd-4fd4-9267-8e5e50d15a52",
         "title": "Psychiatric Technician - PHP",
-        "active": false,
+        "active": true,
         "date_updated": 1770854025,
         "date_posted": 1770854025,
         "url": "https://aah.wd5.myworkdayjobs.com/External/job/Atrium-Health-Behavioral-Health-Charlotte---501-Billingsley-Rd-Charlotte-NC/Psychiatric-Technician---Atrium-Health-Charlotte-Behavioral-Health-O-P-Child---Adolescent-Partial-Hospitalization-Program--PHP--FT-Days_R216287",
@@ -235601,7 +235567,7 @@
         "company_name": "Worldpay",
         "id": "bed56233-08fd-4be9-81db-08222ea596e4",
         "title": "Product Analyst 1",
-        "active": true,
+        "active": false,
         "date_updated": 1772494366,
         "date_posted": 1772494366,
         "url": "https://worldpay.wd5.myworkdayjobs.com/Worldpay_External_Careers_Site/job/CINCINNATI-OHIO/Product-Analyst-I_JR0608904",
@@ -246051,7 +246017,7 @@
         "company_name": "Sainsbury's",
         "id": "6be0cbab-0819-4d12-9317-d153d1de3524",
         "title": "Trading Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1773093246,
         "date_posted": 1773093246,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052618",
