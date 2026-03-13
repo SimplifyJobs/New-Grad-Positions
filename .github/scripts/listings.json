@@ -81134,60 +81134,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "28364c69-14ae-4cf0-ae5a-eaa37e2e3cab",
-        "title": "Graduate Machine Learning Engineer - E-Commerce Governance - PhD",
-        "active": true,
-        "date_updated": 1762990003,
-        "date_posted": 1752633446,
-        "url": "https://jobs.bytedance.com/en/position/7527430521355143431/detail",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "660c3a00-d629-407f-a045-aae133cd0c02",
-        "title": "Graduate Machine Learning Engineer - E-Commerce Governance - PhD",
-        "active": true,
-        "date_updated": 1762929496,
-        "date_posted": 1752633445,
-        "url": "https://jobs.bytedance.com/en/position/7527426391449864466/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "fdc3a455-e72d-403a-8bf1-c952e5131c84",
-        "title": "Graduate Machine Learning Engineer - E-Commerce Governance-CV/NLP/Multimodal/LLM",
-        "active": true,
-        "date_updated": 1762920992,
-        "date_posted": 1752633161,
-        "url": "https://jobs.bytedance.com/en/position/7515571512419338514/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Crowdstrike",
         "id": "2ac51bf3-0b24-48e1-81fb-2a535a16e730",
@@ -129966,7 +129912,7 @@
         "company_name": "Microsoft",
         "id": "55165be0-ddb9-4546-b3a3-5ae4196c3515",
         "title": "Machine Learning Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1766160464,
         "date_posted": 1766160464,
         "url": "https://apply.careers.microsoft.com/careers/job/1970393556641984",
@@ -248724,7 +248670,7 @@
         "company_name": "Focus Financial Partners",
         "id": "2ee6e482-a4ee-4d7b-9033-06f1da03c4c7",
         "title": "Compliance Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1773152763,
         "date_posted": 1770679536,
         "url": "https://job-boards.greenhouse.io/focuspartnerswealth/jobs/5797785004",
@@ -253396,6 +253342,47 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Susquehanna International Group (SIG)",
+        "id": "469bcd26-46bc-44f8-8e7a-d8e8eff93e82",
+        "title": "HR Data Analyst - Operations Analyst Program",
+        "active": true,
+        "date_updated": 1773091904,
+        "date_posted": 1773091904,
+        "url": "https://careers-sig.icims.com/jobs/10604/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Ardmore, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Susquehanna",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Peraton",
+        "id": "c2979f8c-fd25-4fcc-83ed-f01519b2615f",
+        "title": "Cloud Software Engineer \u2013 Senior Associate - Java/Kotlin",
+        "active": true,
+        "date_updated": 1773092272,
+        "date_posted": 1773092272,
+        "url": "https://careers-peraton.icims.com/jobs/164275/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Peraton",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
