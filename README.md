@@ -6391,7 +6391,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>4mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
+<td>↳</td>
 <td>Software Engineer II 🇺🇸</td>
 <td>Aurora, CO</td>
 <td>🔒</td>
@@ -10767,7 +10767,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Research Engineer 1</td>
 <td>Burlington, WA</td>
 <td>🔒</td>
-<td>19d</td>
+<td>20d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/TD-Bank?utm_source=GHList&utm_medium=company">TD Bank</a></strong></td>
