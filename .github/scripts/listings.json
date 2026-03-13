@@ -254618,5 +254618,83 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "b6508c2e-172b-4a63-a77f-70271776bc76",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1773364367,
+        "date_posted": 1773364367,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053281",
+        "locations": [
+            "Brandon, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Light & Wonder",
+        "id": "fab46542-1288-45d7-923c-833c66726e00",
+        "title": "Junior AI Developer",
+        "active": true,
+        "date_updated": 1773363959,
+        "date_posted": 1773363959,
+        "url": "https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Las-Vegas-NV/Junior-AI-Developer_R321746",
+        "locations": [
+            "Las Vegas, NV",
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Light-And-Wonder",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Lincoln Financial",
+        "id": "970bb27c-c8d0-4f83-a692-cc2b7b5ea11e",
+        "title": "Associate \u2013 Application Development ETP",
+        "active": true,
+        "date_updated": 1773363993,
+        "date_posted": 1773363993,
+        "url": "https://jobs.lincolnfinancial.com/job/Radnor-Associate,-Application-Development-ETP-PA/1372816000/?ats=successfactors",
+        "locations": [
+            "Villanova, PA",
+            "Charlotte, NC",
+            "Greensboro, NC",
+            "Fort Wayne, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Lincoln-Financial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Diamondback Energy",
+        "id": "6400a028-812b-40eb-a29a-0bfeab646061",
+        "title": "Data Engineer",
+        "active": true,
+        "date_updated": 1773363912,
+        "date_posted": 1773363912,
+        "url": "https://diamondbackenergy.wd12.myworkdayjobs.com/DBE/job/Oklahoma-City-OK/Data-Engineer_R100568",
+        "locations": [
+            "Oklahoma City, OK"
+        ],
+        "company_url": "https://simplify.jobs/c/Diamondback-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
