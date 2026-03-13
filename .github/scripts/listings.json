@@ -125968,7 +125968,7 @@
         "company_name": "Quantexa",
         "id": "05947923-c830-44f4-a7fa-43ab278c4e0f",
         "title": "Associate Data Scientist",
-        "active": false,
+        "active": true,
         "date_updated": 1765927002,
         "date_posted": 1765927002,
         "url": "https://apply.workable.com/quantexa/j/5AF3D5E524/apply",
@@ -200548,7 +200548,7 @@
         "company_name": "KLA",
         "id": "e96257c2-c640-430c-8ecd-02db5bacd55e",
         "title": "Systems Software Engineer - Object Oriented - Data Analysis",
-        "active": false,
+        "active": true,
         "date_updated": 1770765846,
         "date_posted": 1770765846,
         "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Systems-Software-Engineer--Object-Oriented---Data-Analysis---Java-_2532371-1",
@@ -206236,7 +206236,7 @@
         "company_name": "Handshake",
         "id": "5bda6c70-3b07-422c-891c-e8dbe2827b28",
         "title": "Associate Forward Deployed Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1771024555,
         "date_posted": 1771024555,
         "url": "https://jobs.ashbyhq.com/handshake/dfa844d4-3a17-4773-9320-0455499d6f0b/application",
@@ -219129,7 +219129,7 @@
         "company_name": "Silfab Solar",
         "id": "dcf53825-b9f9-4906-aa5c-605ace415612",
         "title": "Research Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1771668101,
         "date_posted": 1771668101,
         "url": "https://jobs.smartrecruiters.com/SilfabSolar/744000110045157",
@@ -253672,5 +253672,375 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Allegion",
+        "id": "9b63c17f-5691-4f93-a9b1-8073d0d8f8f6",
+        "title": "Associate AI Engineer",
+        "active": true,
+        "date_updated": 1773353853,
+        "date_posted": 1773353853,
+        "url": "https://allegion.wd5.myworkdayjobs.com/careers/job/Carmel-IN/Associate-AI-Engineer_JR35531",
+        "locations": [
+            "Carmel, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Allegion",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Liaison International",
+        "id": "86ff7c69-b956-4345-bb73-1a96d2acad4f",
+        "title": "Data Analyst/Curator",
+        "active": true,
+        "date_updated": 1773354182,
+        "date_posted": 1773354182,
+        "url": "https://www.liaisonedu.com/open-positions/?gh_jid=4963330008",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Liaison-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Advanced Energy",
+        "id": "2d7d2caf-b0ab-4933-88d8-afa4154c30e7",
+        "title": "Electronic Engineer 2",
+        "active": true,
+        "date_updated": 1773354488,
+        "date_posted": 1773354488,
+        "url": "https://jobs.advanced-energy.com/job/Fort-Collins-Electronic-Engineer-II-CO-80525/1372880100/?ats=successfactors",
+        "locations": [
+            "Fort Collins, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Advanced-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Leidos",
+        "id": "288f643c-e97c-42c4-9beb-36296c5ef32a",
+        "title": "Entry Level Graphics Software Developer",
+        "active": true,
+        "date_updated": 1773354295,
+        "date_posted": 1773354295,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Entry-Level-Graphics-Software-Developer_R-00178050",
+        "locations": [
+            "Bethesda, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "UAP",
+        "id": "f098538b-c9fa-403e-b1a5-9024cca37163",
+        "title": "Product Management Administration Technician",
+        "active": true,
+        "date_updated": 1773354144,
+        "date_posted": 1773354144,
+        "url": "https://jobs.smartrecruiters.com/UAPInc/744000114386390",
+        "locations": [
+            "Longueuil, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/UAP",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "d08d59f5-861d-4b8c-b3da-9387940cb8ea",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1773353864,
+        "date_posted": 1773353864,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053234",
+        "locations": [
+            "Hereford, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "7ea4e1f7-f360-4617-b95e-cebbe4c950ad",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1773353863,
+        "date_posted": 1773353863,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053258",
+        "locations": [
+            "Easton, Norwich, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Microsoft",
+        "id": "72b73ccb-433f-4beb-a158-bb79319be5b0",
+        "title": "Applied Scientist",
+        "active": true,
+        "date_updated": 1773354269,
+        "date_posted": 1773354269,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556638831",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Microsoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TD Bank",
+        "id": "12c7a176-ab44-4cee-9ec4-c7a1c79d0157",
+        "title": "Software Engineer 1 - Mainframe",
+        "active": true,
+        "date_updated": 1773354416,
+        "date_posted": 1773354416,
+        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-I--Mainframe-_R_1476716",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/TD-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "QVC Group",
+        "id": "76b8059b-da0b-4498-8cf9-ff552690e079",
+        "title": "Assistant Merchant",
+        "active": true,
+        "date_updated": 1773353993,
+        "date_posted": 1773353993,
+        "url": "https://qvc.wd5.myworkdayjobs.com/QRG/job/USA-OH-West-Chester/Assistant-Merchant_R81641",
+        "locations": [
+            "Sharonville, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/QVC-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "311f50ce-6163-4a98-885c-c80677af2d23",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1773353861,
+        "date_posted": 1773353861,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053174",
+        "locations": [
+            "United Kingdom"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "0a842818-b4fd-4fd2-96b6-e47d67585b3f",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1773353861,
+        "date_posted": 1773353861,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053256",
+        "locations": [
+            "Easton, Norwich, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "6dd7dcc7-d7b9-4323-8f49-d28eca98be2c",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1773354086,
+        "date_posted": 1773354086,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053268",
+        "locations": [
+            "Norwich, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "NVIDIA",
+        "id": "1177df0d-3ca9-4827-8a32-cef484213ca3",
+        "title": "ASIC Methodology Engineer",
+        "active": true,
+        "date_updated": 1773354014,
+        "date_posted": 1773354014,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Toronto/ASIC-Methodology-Engineer---New-College-Grad-2026_JR2014274",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Aurora Innovation",
+        "id": "e2ee0891-9496-4c13-8138-1a6984ed14c2",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1773353855,
+        "date_posted": 1773353855,
+        "url": "https://aurora.tech/jobs/8450213002?gh_jid=8450213002",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Aurora-Innovation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "ada7240d-4f4d-4e7f-b8bc-3c3c7a6b1040",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1773354184,
+        "date_posted": 1773354184,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053212",
+        "locations": [
+            "Gloucester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Caterpillar Inc.",
+        "id": "926e7a33-029a-4d20-ac96-f194e1a0bc17",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1773353979,
+        "date_posted": 1773353979,
+        "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Irving-Texas/Software-Engineer-1_R0000355583",
+        "locations": [
+            "Peoria, IL",
+            "Irving, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Caterpillar-Inc",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Advanced Energy",
+        "id": "6ddbcfeb-22a5-4a95-bef3-9642c0aa74c3",
+        "title": "Electronic Engineer 1",
+        "active": true,
+        "date_updated": 1773354486,
+        "date_posted": 1773354486,
+        "url": "https://jobs.advanced-energy.com/job/Eden-Prairie-Electronic-Engineer-I-MN-55344/1372794600/?ats=successfactors",
+        "locations": [
+            "Eden Prairie, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Advanced-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "SMX",
+        "id": "743fb9bf-8d3f-4311-9704-b90c68466fa6",
+        "title": "Engineering Technician 1",
+        "active": true,
+        "date_updated": 1773353788,
+        "date_posted": 1773353788,
+        "url": "https://www.smxtech.com/careers/?gh_jid=7662704003",
+        "locations": [
+            "Patuxent River, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Smx",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
