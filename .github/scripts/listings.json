@@ -102005,7 +102005,7 @@
         "company_name": "BlackRock",
         "id": "4cc64155-89e1-4bb0-81d8-f160a23bb633",
         "title": "Associate \u2013 Index Fixed Income Algo Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1764153426,
         "date_posted": 1764153426,
         "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/San-Francisco-CA/Associate--Index-Fixed-Income-Algo-Engineer_R258025-1",
@@ -132746,7 +132746,7 @@
         "company_name": "Honeywell",
         "id": "db7dda8c-49ca-464c-8ca6-292009127af4",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1766531550,
         "date_posted": 1766531550,
         "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/132319",
@@ -152646,7 +152646,7 @@
         "company_name": "RBI",
         "id": "e5933a10-170e-48c4-9112-3e60aed62ce2",
         "title": "Product Manager 1",
-        "active": true,
+        "active": false,
         "date_updated": 1768000922,
         "date_posted": 1768000922,
         "url": "https://rbi.wd3.myworkdayjobs.com/RBI_External_Career_Site/job/Corp---Miami-Corporate-Office/Product-Manager-I_R2713",
@@ -210500,7 +210500,7 @@
         "company_name": "GE Aerospace",
         "id": "52ea9c6b-c642-4763-911a-7c9692d6b28f",
         "title": "Edison Engineering Development Programme",
-        "active": true,
+        "active": false,
         "date_updated": 1771371809,
         "date_posted": 1771371809,
         "url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Warsaw/EDC-Edison-Engineering-Development-Programme---2026_R5028442-1",
@@ -216265,7 +216265,7 @@
         "company_name": "Arconic",
         "id": "f4f33809-347c-4599-8127-e47a5442617d",
         "title": "Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1771542724,
         "date_posted": 1771542724,
         "url": "https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/113544",
@@ -217866,7 +217866,7 @@
         "company_name": "Intertek",
         "id": "359f2377-045e-4728-929b-a8aa606fd717",
         "title": "Engineer Hazardous Locations - Hazloc - Plano TX",
-        "active": true,
+        "active": false,
         "date_updated": 1771629470,
         "date_posted": 1771629470,
         "url": "https://hcog.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/14075",
@@ -224533,7 +224533,7 @@
         "company_name": "Abbott",
         "id": "54a0a5f9-a240-4ed2-aeb8-f0b125318724",
         "title": "Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1771977357,
         "date_posted": 1771977357,
         "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Pleasanton/Software-Engineer-I_31142796-1",
@@ -244353,7 +244353,7 @@
         "company_name": "Northumbria University",
         "id": "9a2e7722-c7de-4bb2-84bd-6a18ac186b05",
         "title": "Postdoctoral Research Fellow in Solar Physics",
-        "active": true,
+        "active": false,
         "date_updated": 1772809580,
         "date_posted": 1772809580,
         "url": "https://fa-etnb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/3966",
@@ -254039,6 +254039,286 @@
             "Patuxent River, MD"
         ],
         "company_url": "https://simplify.jobs/c/Smx",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Aerospace Corporation",
+        "id": "23ddcee7-96a1-4658-a718-a00b3d8ec77c",
+        "title": "Data Scientist",
+        "active": true,
+        "date_updated": 1773356140,
+        "date_posted": 1773356140,
+        "url": "https://aero.wd5.myworkdayjobs.com/external/job/Chantilly-VA/XMLNAME-2026-Data-Scientist_R014777",
+        "locations": [
+            "Chantilly, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Aerospace-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "T-Mobile",
+        "id": "792ce2f5-355a-40ca-9c7b-391b993eca0b",
+        "title": "Software Engineer - Fullstack",
+        "active": true,
+        "date_updated": 1773354754,
+        "date_posted": 1773354754,
+        "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Philadelphia-Pennsylvania/Software-Engineer--Fullstack_REQ348013-1",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/T-Mobile",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "BlackRock",
+        "id": "5f2e6fa4-3324-4791-817c-81de812da31e",
+        "title": "Associate Global Marketing & Digital Wealth COO Team - Measurement & Analytics",
+        "active": true,
+        "date_updated": 1773354897,
+        "date_posted": 1773354897,
+        "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/New-York-NY/Associate--Global-Marketing---Digital-Wealth-COO-Team--Measurement---Analytics_R258112",
+        "locations": [
+            "SF",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/BlackRock",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northrop Grumman",
+        "id": "0eb8c2f8-c31c-400f-9ad8-8aac4fee885f",
+        "title": "Digital Engineer or Principal Digital Engineer",
+        "active": true,
+        "date_updated": 1773356544,
+        "date_posted": 1773356544,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Annapolis/Digital-Engineer-or-Principal-Digital-Engineer_R10225587",
+        "locations": [
+            "Annapolis, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Micron Technology",
+        "id": "c2e9700e-87e8-4a89-9c99-ec1e6971bcf9",
+        "title": "New College Grad",
+        "active": true,
+        "date_updated": 1773357025,
+        "date_posted": 1773357025,
+        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Advanced-Packaging-Technology-Development-Engineer---APTD_JR93647",
+        "locations": [
+            "San Jose, CA",
+            "Boise, ID"
+        ],
+        "company_url": "https://simplify.jobs/c/Micron-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Microchip Technology",
+        "id": "84d05842-313e-45e3-81bf-1bc05ebe2f13",
+        "title": "Engineer 1",
+        "active": true,
+        "date_updated": 1773355538,
+        "date_posted": 1773355538,
+        "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/Canada---Saskatoon/Engineer-I_R980-26",
+        "locations": [
+            "Saskatoon, SK, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Microchip-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Mass General Brigham",
+        "id": "79a177bb-5795-4926-911f-2e42940ef7a7",
+        "title": "Grand Central/Prelude Application Analyst",
+        "active": true,
+        "date_updated": 1773355622,
+        "date_posted": 1773355622,
+        "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Somerville-MA/Grand-Central-Prelude-Application-Analyst_RQ4054374",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Mass-General-Brigham",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Micron Technology",
+        "id": "35f9a300-b091-4741-a6bf-d0e28b0cc7ce",
+        "title": "New College Grad - Multiple Teams",
+        "active": true,
+        "date_updated": 1773357021,
+        "date_posted": 1773357021,
+        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Computer-Science---Advance-Packaging-Technology-Development--APTD-_JR94330",
+        "locations": [
+            "San Jose, CA",
+            "Boise, ID"
+        ],
+        "company_url": "https://simplify.jobs/c/Micron-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "2930577c-c3c1-473f-b606-5c5086da2774",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1773355614,
+        "date_posted": 1773355614,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/Software-Engineer-I--Onsite-_01815590-1",
+        "locations": [
+            "Cedar Rapids, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Microchip Technology",
+        "id": "087bc9aa-0344-4dc6-a6ca-dab38ce4994b",
+        "title": "Technician 2 - Manufacturing",
+        "active": true,
+        "date_updated": 1773355546,
+        "date_posted": 1773355546,
+        "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/MA---Lowell/Technician-II---Manufacturing_R935-26",
+        "locations": [
+            "Lowell, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Microchip-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "42faeb39-8eb2-4735-8736-de0c9bf76c95",
+        "title": "Associate Database Engineer/ Database Engineer - Virtual",
+        "active": true,
+        "date_updated": 1773356547,
+        "date_posted": 1773356547,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Unknown-City/XMLNAME-2026-Associate-Database-Engineer--Database-Engineer--VIRTUAL--Rolling-Meadows-IL_R10225804",
+        "locations": [
+            "Palatine, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Cummins",
+        "id": "f0845b32-fa26-4944-9ee2-dba50406ab37",
+        "title": "Product Engineer",
+        "active": true,
+        "date_updated": 1773354092,
+        "date_posted": 1773354092,
+        "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2426392",
+        "locations": [
+            "Columbus, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Cummins",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Samsung",
+        "id": "c99a2166-aea7-4340-b496-c9ca2eaf89b3",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1773353829,
+        "date_posted": 1773353829,
+        "url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/3000-Hillswood-Drive-Chertsey-United-Kingdom/European-Data-Analyst_R115243",
+        "locations": [
+            "Weybridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Samsung",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "2536da29-eb9f-4d41-8ea5-2666ece06678",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1773354085,
+        "date_posted": 1773354085,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053210",
+        "locations": [
+            "Wimborne Minster, Wimborne, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
