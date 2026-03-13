@@ -15675,7 +15675,7 @@
         "company_name": "mthree",
         "id": "c69eca4d-3efe-46db-a9c2-5a84040d6c8b",
         "title": "Junior Software Developer - Java/Scala",
-        "active": true,
+        "active": false,
         "date_updated": 1758755027,
         "date_posted": 1758755027,
         "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4600596006",
@@ -142694,7 +142694,7 @@
         "company_name": "Princeton University",
         "id": "683fc3ac-bf44-427b-a41d-a6cf69a2e286",
         "title": "Senior Research Specialist 1",
-        "active": true,
+        "active": false,
         "date_updated": 1767395999,
         "date_posted": 1758324626,
         "url": "https://main-princeton.icims.com/jobs/21017/job?mobile=true&needsRedirect=false",
@@ -242507,7 +242507,7 @@
         "company_name": "Moonpig",
         "id": "0cb320b2-ca45-461d-b350-6a829d1a115f",
         "title": "Ecommerce Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1772752405,
         "date_posted": 1772752405,
         "url": "https://jobs.lever.co/moonpig/5b6ef6e6-dd09-417a-b1d9-60c19d07a85e/apply",
@@ -244801,7 +244801,7 @@
         "company_name": "Integral Federal",
         "id": "a4eaef17-c8b2-452e-a5e6-65c81405e419",
         "title": "Data Scientist 1",
-        "active": true,
+        "active": false,
         "date_updated": 1772838600,
         "date_posted": 1772838600,
         "url": "https://careers-integralfed.icims.com/jobs/5217/job?mobile=true&needsRedirect=false",
@@ -245978,7 +245978,7 @@
         "company_name": "Northumbria University",
         "id": "b97e1a86-1330-4d65-a1c2-46ab51fa120f",
         "title": "Postdoctoral Research Fellow in Magnetospheric Physics",
-        "active": true,
+        "active": false,
         "date_updated": 1773092280,
         "date_posted": 1773092280,
         "url": "https://fa-etnb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/3965",
@@ -255239,5 +255239,43 @@
         "degrees": [
             "Certificate"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Plexus",
+        "id": "b28ab799-b6e2-4b9b-b161-f8f9095da54f",
+        "title": "Product Engineer",
+        "active": true,
+        "date_updated": 1773391904,
+        "date_posted": 1771687155,
+        "url": "https://plexus.wd5.myworkdayjobs.com/en-US/Plexus_Careers/job/Nampa-ID/Product-Engineer-II_R034605-2",
+        "locations": [
+            "Nampa, ID"
+        ],
+        "company_url": "https://simplify.jobs/c/Plexus",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Rokt",
+        "id": "6409b0d3-0c55-4bc3-87d4-ffaeebd6a9e7",
+        "title": "Operations Accelerator",
+        "active": true,
+        "date_updated": 1773392082,
+        "date_posted": 1771629456,
+        "url": "https://apply.workable.com/rokt/j/3F5C106474/apply",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/f08512e1-117c-4076-b4b9-217616f1a3eb",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
