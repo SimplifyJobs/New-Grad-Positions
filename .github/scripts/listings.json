@@ -176410,7 +176410,7 @@
         "company_name": "Per Scholas",
         "id": "e901cd64-0e02-4c59-ba2d-5d78508f3b5a",
         "title": "Instructional Assistant - Data Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1769557701,
         "date_posted": 1769557701,
         "url": "https://job-boards.greenhouse.io/perscholashires/jobs/4646578006",
@@ -188125,7 +188125,7 @@
         "company_name": "Viavi Solutions",
         "id": "27031456-83d0-4faa-89a5-853db975f204",
         "title": "Product Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1770161269,
         "date_posted": 1770161269,
         "url": "https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Paeonian-Springs-VA-USA/Product-Engineer_260004276-1",
@@ -218231,7 +218231,7 @@
         "company_name": "Acuren",
         "id": "17f1219a-0773-44fb-ac6d-a140a0c0712c",
         "title": "Nondestructive Testing Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1771629170,
         "date_posted": 1771629170,
         "url": "https://uscareers-acuren.icims.com/jobs/17738/job?mobile=true&needsRedirect=false",
@@ -223641,7 +223641,7 @@
         "company_name": "ASOS plc",
         "id": "acf1acf0-1750-44f0-ab5a-1e5b9983ea31",
         "title": "Associate Software Engineer - .Net - Azure",
-        "active": true,
+        "active": false,
         "date_updated": 1771946000,
         "date_posted": 1771946000,
         "url": "https://jobs.smartrecruiters.com/ASOS/744000111107265",
@@ -234304,7 +234304,7 @@
         "company_name": "Cummins",
         "id": "1a5fd15a-e09d-4c3c-bf4b-1be250f7018b",
         "title": "Electronic Systems Engineer - Hardware",
-        "active": true,
+        "active": false,
         "date_updated": 1772464603,
         "date_posted": 1772464603,
         "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2424799",
@@ -237630,7 +237630,7 @@
         "company_name": "AlphaSense",
         "id": "e0bc3838-8838-4446-8d0e-964e46cd2c0d",
         "title": "Associate \u2013 COSE - Compliance Programs",
-        "active": true,
+        "active": false,
         "date_updated": 1772581200,
         "date_posted": 1772581200,
         "url": "https://job-boards.greenhouse.io/alphasense/jobs/8404159002",
@@ -239600,7 +239600,7 @@
         "company_name": "Cambridge Associates",
         "id": "5fb504d7-95b5-412b-b294-b0970b850bcf",
         "title": "Investment Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1772638982,
         "date_posted": 1772638982,
         "url": "https://cambridgeassociates.wd5.myworkdayjobs.com/Cambridge_Associates/job/London/Investment-Analyst---January-2026_JR0000024",
@@ -242160,7 +242160,7 @@
         "company_name": "Barclays",
         "id": "a36f5417-77b5-402c-b02b-e9bf0cb016f1",
         "title": "Quantitative Analytics Associate Graduate Programme",
-        "active": true,
+        "active": false,
         "date_updated": 1772709091,
         "date_posted": 1772709091,
         "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Quantitative-Analytics-Associate-Graduate-Programme-2026-London_JR-0000070826",
@@ -253374,6 +253374,28 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Cisco",
+        "id": "90a021cb-16fe-4e2e-b8a9-a0503a7a8755",
+        "title": "Senior Thermal Engineer",
+        "active": true,
+        "date_updated": 1773354048,
+        "date_posted": 1773354048,
+        "url": "https://careers.cisco.com/global/en/job/2007382",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cisco",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     }
 ]
