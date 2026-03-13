@@ -124508,7 +124508,7 @@
         "company_name": "The Boeing Company",
         "id": "54124e1b-a732-42e7-b5df-58863fef685b",
         "title": "Software Engineer-Developer - Development",
-        "active": true,
+        "active": false,
         "date_updated": 1765841645,
         "date_posted": 1765841645,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Kent-WA/Software-Engineer-Developer--Development-_JR2025487408-1",
@@ -220443,7 +220443,7 @@
         "company_name": "Sainsbury's",
         "id": "5e3a2258-0ebe-436d-8c11-b3d17be8ac47",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1771756481,
         "date_posted": 1771756481,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050580",
@@ -254876,6 +254876,27 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "University of Texas - Austin",
+        "id": "8dc4d9c8-10d0-4e3a-b029-e9811246f6b6",
+        "title": "Bioengineering Analyst 1",
+        "active": true,
+        "date_updated": 1773381768,
+        "date_posted": 1773381768,
+        "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/AUSTIN-TX/Bioengineering-Analyst_R_00044288",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Texas-Austin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
             "Associate's"
         ]
     }
