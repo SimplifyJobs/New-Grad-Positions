@@ -254838,5 +254838,45 @@
         "degrees": [
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TransUnion",
+        "id": "a0e74b8d-688e-4230-b7d1-b3c1a5521d61",
+        "title": "Developer",
+        "active": true,
+        "date_updated": 1773366865,
+        "date_posted": 1773366865,
+        "url": "https://transunion.wd5.myworkdayjobs.com/en-US/TransUnion/job/Boca-Raton-Florida/Developer_19038021",
+        "locations": [
+            "Boca Raton, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/TransUnion",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GE Healthcare",
+        "id": "27c3c5db-66a5-4d74-a0aa-47aa321436fd",
+        "title": "Field Service Engineer 1",
+        "active": true,
+        "date_updated": 1773366660,
+        "date_posted": 1773366660,
+        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1---Toledo--OH_R4037719-1",
+        "locations": [
+            "Toledo, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Healthcare",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
     }
 ]
