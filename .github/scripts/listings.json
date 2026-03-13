@@ -255179,5 +255179,45 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pima County",
+        "id": "a254df12-4f97-40fb-8f6e-97d88e1f1a4e",
+        "title": "Data Analyst 1 - Justice Services",
+        "active": true,
+        "date_updated": 1773385457,
+        "date_posted": 1773385457,
+        "url": "https://pimacounty.wd5.myworkdayjobs.com/pimacareers/job/Tucson-AZ/Data-Analyst-I---Justice-Services_JR103037",
+        "locations": [
+            "Tucson, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Pima-County",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "American University",
+        "id": "8cc1f1f3-e8c6-4750-b448-2e17f5b5af4b",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1773385373,
+        "date_posted": 1773385373,
+        "url": "https://american.wd1.myworkdayjobs.com/au/job/Main-Campus-Washington-DC/Data-Analyst--IRW_R4028",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/American-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
