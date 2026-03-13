@@ -146148,7 +146148,7 @@
         "company_name": "Conde Nast",
         "id": "30cebeaa-c510-4393-bfa5-fef5c15eb29e",
         "title": "Consumer Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1767709178,
         "date_posted": 1766516345,
         "url": "https://condenast.wd5.myworkdayjobs.com/en-US/CondeCareers/job/The-Adelphi-London-GB/Commerce-Analyst_R-20711",
@@ -224655,7 +224655,7 @@
         "company_name": "Abbott",
         "id": "d30840cd-8578-47f3-b9c0-18c3dfdb833c",
         "title": "Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1771976570,
         "date_posted": 1771976570,
         "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---California---Pleasanton/Software-Engineer-I_31142796",
@@ -237783,7 +237783,7 @@
         "company_name": "Abbott",
         "id": "35dcba0c-1e27-4ed1-8824-4557160a81ef",
         "title": "Software Engineer 1 - Backend",
-        "active": false,
+        "active": true,
         "date_updated": 1772583821,
         "date_posted": 1772583821,
         "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Massachusetts---Burlington/Software-Engineer-I--Backend-_31143106-1",
@@ -238471,7 +238471,7 @@
         "company_name": "Abbott",
         "id": "d38a58f5-8cce-4227-91b8-1bcd129ab8dc",
         "title": "Software Engineer 1 - Backend",
-        "active": false,
+        "active": true,
         "date_updated": 1772610887,
         "date_posted": 1772610887,
         "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---Massachusetts---Burlington/Software-Engineer-I--Backend-_31143106",
@@ -249282,7 +249282,7 @@
         "company_name": "ServiceNow",
         "id": "d9d950de-bf71-4804-a0ad-10413eb5b8d3",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773180990,
         "date_posted": 1773180990,
         "url": "https://jobs.smartrecruiters.com/ServiceNow/744000113786272",
@@ -249684,7 +249684,7 @@
         "company_name": "RTX",
         "id": "114f1b79-651a-49e0-812c-95a76f44f806",
         "title": "Full-time - Software Engineer II",
-        "active": true,
+        "active": false,
         "date_updated": 1773184037,
         "date_posted": 1773184037,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/XMLNAME-2026-Full-time---Software-Engineer-II---Onsite--IN-_01829637",
@@ -254322,5 +254322,171 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Bank of Montreal",
+        "id": "f6b7c236-d979-46f2-af55-ab913dcd8934",
+        "title": "Software Developer 1",
+        "active": true,
+        "date_updated": 1773356282,
+        "date_posted": 1773356282,
+        "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Irving-TX-USA/Software-Developer-I_R260006079",
+        "locations": [
+            "Irving, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/BMO",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "98996ed7-5efd-4dda-9785-0d0707e9a958",
+        "title": "Software Engineer 2 or 3",
+        "active": true,
+        "date_updated": 1773356545,
+        "date_posted": 1773356545,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Software-Engineer-Level-2-or-3_R10225756-1",
+        "locations": [
+            "Aurora, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Williams",
+        "id": "80e4c5ee-a567-4952-a947-d68bb5f2e11b",
+        "title": "Financial Data Scientist 2/3",
+        "active": true,
+        "date_updated": 1773354773,
+        "date_posted": 1773354773,
+        "url": "https://williams.wd5.myworkdayjobs.com/External/job/OK-Tulsa---Headquarters/Financial-Data-Scientist-II--III_R111421",
+        "locations": [
+            "Tulsa, OK"
+        ],
+        "company_url": "https://simplify.jobs/c/Williams",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "USAA",
+        "id": "2d9ee18b-c93b-4a6e-a081-cce16615c4dd",
+        "title": "Software Engineer Entry Level",
+        "active": true,
+        "date_updated": 1773355789,
+        "date_posted": 1773355789,
+        "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/Plano-Legacy/Software-Engineer-Entry-Level_R0115594",
+        "locations": [
+            "Plano, TX",
+            "San Antonio, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/USAA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Microchip Technology",
+        "id": "3837fe00-4ac9-45d6-a036-b516a885cc80",
+        "title": "Engineer 1 - Software Edge AI",
+        "active": true,
+        "date_updated": 1773355548,
+        "date_posted": 1773355548,
+        "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/AZ---Chandler/Engineer-I--Software-Edge-AI_R619-26",
+        "locations": [
+            "Chandler, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Microchip-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "The Boeing Company",
+        "id": "a4ffad22-2a82-4e8d-a9ad-e2d70ccc8a7e",
+        "title": "SAR Signal & Image Processing Engineer \u2013 Associate or Mid-Level",
+        "active": true,
+        "date_updated": 1773356450,
+        "date_posted": 1773356450,
+        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Kent-WA/SAR-Signal---Image-Processing-Engineer--Associate-or-Mid-Level-_JR2026500163-1",
+        "locations": [
+            "Kent, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Motorola",
+        "id": "ca0b8b7a-6549-441c-ab75-ecd5f5022bbc",
+        "title": "Junior Mechanical Designer",
+        "active": true,
+        "date_updated": 1773355235,
+        "date_posted": 1773355235,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Vancouver-Canada/Junior-Mechanical-Designer_R62293-1",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Vanta",
+        "id": "df235b55-df41-4226-9060-cb7af5604e4c",
+        "title": "Software Engineer \u2013 Entry Level",
+        "active": true,
+        "date_updated": 1773354767,
+        "date_posted": 1773354767,
+        "url": "https://jobs.ashbyhq.com/vanta/14f2aa15-7d35-43cc-8978-48986a325c4a/application",
+        "locations": [
+            "SF",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Vanta",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
