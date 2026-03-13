@@ -187953,7 +187953,7 @@
         "company_name": "Fiserv",
         "id": "81496b43-72ea-46a1-8360-6882d04c2bb0",
         "title": "Corporate Analyst Program - Product Management - New York 1 Broadway NY",
-        "active": true,
+        "active": false,
         "date_updated": 1770161027,
         "date_posted": 1770161027,
         "url": "https://fiserv.wd5.myworkdayjobs.com/ext/job/New-York-New-York/Corporate-Analyst-Program---Product-Management--New-York-1-Broadway--NY-_R-10387251",
@@ -223810,7 +223810,7 @@
         "company_name": "Comcast",
         "id": "c6fba9e3-fadc-40af-88fa-8020272c380d",
         "title": "Software Engineer - Golang & Java",
-        "active": true,
+        "active": false,
         "date_updated": 1771949573,
         "date_posted": 1771949573,
         "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Software-Engineer--GoLang---Java_R431013",
@@ -242127,7 +242127,7 @@
         "company_name": "Huntington Ingalls Industries",
         "id": "9cfe16e6-1278-4743-9293-159178b6fa1d",
         "title": "Visual Instruction Developer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1772723640,
         "date_posted": 1772723640,
         "url": "https://careers.huntingtoningalls.com/job/Newport-News-VISUAL-INSTRUCTION-DEVELOPER-1-Virg/1370456900/?ats=successfactors",
@@ -246100,7 +246100,7 @@
         "company_name": "Huntington Ingalls Industries",
         "id": "518dc13a-a2e0-44ff-b0b1-3b3aa594aab9",
         "title": "Engineering Technician 2",
-        "active": true,
+        "active": false,
         "date_updated": 1773092272,
         "date_posted": 1773092272,
         "url": "https://careers.huntingtoningalls.com/job/Newport-News-ENGINEERING-TECHNICIAN-2-Virg/1370176000/?ats=successfactors",
@@ -251749,7 +251749,7 @@
         "company_name": "Sainsbury's",
         "id": "011964f8-213f-454c-98e4-e7a96bba448c",
         "title": "Trading Assistant - Shift",
-        "active": false,
+        "active": true,
         "date_updated": 1773267579,
         "date_posted": 1773267579,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053077",
@@ -252354,7 +252354,7 @@
         "company_name": "RTX",
         "id": "614327c5-9f3d-419b-8861-f1485588c673",
         "title": "Embedded Cybersecurity Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1773270288,
         "date_posted": 1773270288,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Embedded-Cybersecurity-Software-Engineer-I--Onsite-_01829680",
@@ -254859,6 +254859,27 @@
         "degrees": [
             "Bachelor's",
             "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Thermo Fisher Scientific",
+        "id": "867f40e8-601c-4694-8986-c3ce494837e4",
+        "title": "Supply Chain Master Data Analyst",
+        "active": true,
+        "date_updated": 1773390138,
+        "date_posted": 1773269713,
+        "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Covingham-Swindon-United-Kingdom/SAP-Manufacturing-Master-Data-Analyst---Planning---Execution_R-01344792-1",
+        "locations": [
+            "Swindon, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Thermo-Fisher-Scientific",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
