@@ -176900,7 +176900,7 @@
         "company_name": "Fiserv",
         "id": "030b1d24-3210-4259-b61d-4ca631bf6235",
         "title": "Corporate Analyst Program - Product Management - Berkeley Heights, NJ",
-        "active": false,
+        "active": true,
         "date_updated": 1769566678,
         "date_posted": 1769566678,
         "url": "https://fiserv.wd5.myworkdayjobs.com/ext/job/Berkeley-Heights-New-Jersey/Corporate-Analyst-Program---Product-Management--Berkeley-Heights--NJ-_R-10386780",
@@ -243873,7 +243873,7 @@
         "company_name": "Shield AI",
         "id": "c50d5a57-9e14-4d42-a68c-8a1c1dbed02d",
         "title": "Staff Technician - Hardware Test",
-        "active": false,
+        "active": true,
         "date_updated": 1772782443,
         "date_posted": 1772782443,
         "url": "https://jobs.lever.co/shieldai/f7fc236b-08c3-428d-970f-a6b7819abc0f/apply",
@@ -254696,5 +254696,147 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Adobe",
+        "id": "fddcab17-1476-4ab7-9b29-71e8a89c74d1",
+        "title": "Software Development Engineer",
+        "active": true,
+        "date_updated": 1773365526,
+        "date_posted": 1773365526,
+        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Software-Development-Engineer_R165849-1",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Adobe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TransUnion",
+        "id": "f5aedcf5-ba18-4e08-bf0d-5e2c7fcc4232",
+        "title": "Developer",
+        "active": true,
+        "date_updated": 1773365264,
+        "date_posted": 1773365264,
+        "url": "https://transunion.wd5.myworkdayjobs.com/en-US/TransUnion/job/Boca-Raton-Florida/Developer_19037951",
+        "locations": [
+            "Boca Raton, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/TransUnion",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Red Hat",
+        "id": "11ac21c2-ee16-4ac1-82e8-2ac13b522337",
+        "title": "Associate Product Manager - Ansible Automation Platform",
+        "active": true,
+        "date_updated": 1773365473,
+        "date_posted": 1773365473,
+        "url": "https://redhat.wd5.myworkdayjobs.com/jobs/job/Raleigh/Associate-Product-Manager-Ansible-Automation-Platform_R-055461-1",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Red-Hat",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Deloitte",
+        "id": "db1399e9-c656-4a1c-8046-29a0af37cfca",
+        "title": "Associate GenAI Engineer",
+        "active": true,
+        "date_updated": 1773364669,
+        "date_posted": 1773364669,
+        "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Associate-GenAI-Engineer/326869",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Deloitte",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Secureframe",
+        "id": "3f94d282-4523-424c-8450-0e34874128ab",
+        "title": "Graduate Software Engineer",
+        "active": true,
+        "date_updated": 1773364658,
+        "date_posted": 1773364658,
+        "url": "https://jobs.lever.co/secureframe/29ff0477-faeb-44d6-abb3-8e894fc92a22/apply",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Secureframe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Western Digital",
+        "id": "18c1c491-a1ba-478c-8aa9-95ac4d98370e",
+        "title": "Early College Talent - Failure Analysis Engineer",
+        "active": true,
+        "date_updated": 1773364547,
+        "date_posted": 1773364547,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000114478120",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Digital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Analog Devices",
+        "id": "4e3d822b-3407-4d92-be03-3d1b812cb4da",
+        "title": "Semi Packaging Engineer",
+        "active": true,
+        "date_updated": 1773384266,
+        "date_posted": 1773384266,
+        "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Semi-Packaging-Engineer_R255209",
+        "locations": [
+            "Burlington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Analog-Devices",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
     }
 ]
