@@ -55786,7 +55786,7 @@
         "company_name": "IBC Bank",
         "id": "a9cee509-15da-45db-b2f5-3cd79fd29f3d",
         "title": "Quantitative Analyst 1",
-        "active": true,
+        "active": false,
         "date_updated": 1763123283,
         "date_posted": 1761992932,
         "url": "https://ibc.wd5.myworkdayjobs.com/ibc_careers/job/San-Antonio-TX/Quantitative-Analyst-I_R12707",
@@ -96433,7 +96433,7 @@
         "company_name": "RWS",
         "id": "98552b81-a14c-47cc-8832-28fb466dc1b7",
         "title": "AI Data Specialist",
-        "active": false,
+        "active": true,
         "date_updated": 1763766946,
         "date_posted": 1763766946,
         "url": "https://jobs.lever.co/rws/dd563b7b-74d5-4124-bb0b-89a8d44348ae/apply",
@@ -160241,7 +160241,7 @@
         "company_name": "Aristocrat Leisure",
         "id": "7b918efe-26d6-4c78-9bc9-44a76750d2e4",
         "title": "Data Analyst - Finance",
-        "active": true,
+        "active": false,
         "date_updated": 1768520365,
         "date_posted": 1768520365,
         "url": "https://aristocrat.wd3.myworkdayjobs.com/aristocratexternalcareerssite/job/London-United-Kingdom/Data-Analyst---Finance_R0020491",
@@ -164167,7 +164167,7 @@
         "company_name": "RWS",
         "id": "5e7b096b-b37a-4ff2-af4b-1649181356db",
         "title": "AI Data Specialist - Wisconsin - US",
-        "active": false,
+        "active": true,
         "date_updated": 1768864169,
         "date_posted": 1768864169,
         "url": "https://jobs.lever.co/rws/c4f5986d-789a-4a53-972b-957278e844cd/apply",
@@ -175245,7 +175245,7 @@
         "company_name": "RWS",
         "id": "e38f7164-328c-48d4-af23-a936a3ddd5f7",
         "title": "AI Data Specialist - Kansas - US",
-        "active": false,
+        "active": true,
         "date_updated": 1769509738,
         "date_posted": 1769509738,
         "url": "https://jobs.lever.co/rws/8156d182-8db3-461d-8469-cc09beee6eb5/apply",
@@ -192245,7 +192245,7 @@
         "company_name": "GE Healthcare",
         "id": "0824a073-0df8-4940-8521-e8d61c575ef7",
         "title": "Field Service Engineer 1 - Invasive Cardiology",
-        "active": false,
+        "active": true,
         "date_updated": 1770292176,
         "date_posted": 1768956801,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1_R4033852",
@@ -232170,7 +232170,7 @@
         "company_name": "Aristocrat Leisure",
         "id": "bf8164d5-a673-4271-8152-1b980fd84279",
         "title": "Digital Games Coordinator",
-        "active": true,
+        "active": false,
         "date_updated": 1772235942,
         "date_posted": 1772235942,
         "url": "https://aristocrat.wd3.myworkdayjobs.com/aristocratexternalcareerssite/job/Boston-MA-US/Digital-Games-Coordinator_R0020798",
@@ -240403,7 +240403,7 @@
         "company_name": "The Boeing Company",
         "id": "5a804625-fd1e-4461-b447-6689e4932d26",
         "title": "Entry Level Illustrated Parts Catalog Data Author",
-        "active": true,
+        "active": false,
         "date_updated": 1772672571,
         "date_posted": 1772672571,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seal-Beach-CA/Entry-Level-Illustrated-Parts-Catalog-Data-Author_JR2026498373-2",
@@ -256534,6 +256534,110 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Walmart",
+        "id": "973ba62b-6aef-4412-87f8-e6be5ba18499",
+        "title": "Software Engineer 3",
+        "active": true,
+        "date_updated": 1773443168,
+        "date_posted": 1773443168,
+        "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Sunnyvale-CA/Software-Engineer-III_R-2392718",
+        "locations": [
+            "Bentonville, AR",
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Walmart",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "PricewaterhouseCoopers (PwC)",
+        "id": "4b6887ed-9035-45e3-a448-1fb34872f985",
+        "title": "Associate \u2013 Data Engineer",
+        "active": true,
+        "date_updated": 1773442846,
+        "date_posted": 1773442846,
+        "url": "https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/AAC-Olivos/Associate---Data-Engineer_713057WD-1",
+        "locations": [
+            "Tampa, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/PwC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Huntington Bancshares",
+        "id": "2b93b5bb-b720-4209-948e-ff8026f167c6",
+        "title": "Finance Rotation Analyst - Data and Analytics",
+        "active": true,
+        "date_updated": 1773442614,
+        "date_posted": 1773442614,
+        "url": "https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/XMLNAME-2026-Finance-Rotation-Analyst_R0065091",
+        "locations": [
+            "Columbus, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Huntington-Bancshares",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Capital One",
+        "id": "ad1a0913-a964-490b-be77-866aba07f4d8",
+        "title": "Associate \u2013 New Grad Card Expansion",
+        "active": true,
+        "date_updated": 1773442113,
+        "date_posted": 1773442113,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R236388",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Capital-One",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Xcel Energy",
+        "id": "310c0f43-b46a-45a4-a272-46fae90d7e63",
+        "title": "Geospatial Data Technician 1",
+        "active": true,
+        "date_updated": 1773441222,
+        "date_posted": 1773441222,
+        "url": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80223/Geospatial-Data-Technician-I_JR113222-1",
+        "locations": [
+            "Eau Claire, WI",
+            "Minneapolis, MN",
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Xcel-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
