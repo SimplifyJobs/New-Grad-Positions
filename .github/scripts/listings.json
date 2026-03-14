@@ -208878,7 +208878,7 @@
         "company_name": "Crowdstrike",
         "id": "0ae685f9-3f6f-4b8d-b52e-2eb72c7119cc",
         "title": "Engineer 1 - Sensor - Ssp",
-        "active": false,
+        "active": true,
         "date_updated": 1771336067,
         "date_posted": 1771336067,
         "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/Canada---Toronto/Engineer-I---Sensor--SSP--Hybrid-_R27318",
@@ -220835,7 +220835,7 @@
         "company_name": "Booz Allen",
         "id": "4d779e66-2696-4d9b-817b-64d0aa7211f5",
         "title": "Software Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1771889425,
         "date_posted": 1771889425,
         "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Charleston-SC/Software-Developer_R0234570",
@@ -231156,7 +231156,7 @@
         "company_name": "Lawrence Berkeley National Laboratory",
         "id": "8a317bc8-3b1b-4fc4-830d-f29384ad0bab",
         "title": "Electronic Structure Theory Postdoc",
-        "active": true,
+        "active": false,
         "date_updated": 1772234539,
         "date_posted": 1772234539,
         "url": "https://lbl.taleo.net/careersection/5/jobdetail.ftl?job=106113",
@@ -245031,7 +245031,7 @@
         "company_name": "RWS",
         "id": "41697854-de86-4017-9115-00e1e03a6ca4",
         "title": "AI Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1772840174,
         "date_posted": 1772840174,
         "url": "https://jobs.lever.co/rws/f524dbeb-e8e8-4c42-a0c2-d10dfd83932a/apply",
@@ -257901,5 +257901,43 @@
         "degrees": [
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Generac",
+        "id": "9f573533-39c1-4a80-bdd1-3878e9171167",
+        "title": "Product Certification Engineer",
+        "active": true,
+        "date_updated": 1773487775,
+        "date_posted": 1773487775,
+        "url": "https://generac.wd5.myworkdayjobs.com/en-US/external/job/Waukesha-WI---USA/Product-Certification-Engineer_JR12882",
+        "locations": [
+            "Waukesha, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Generac",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "LG Ad Solutions",
+        "id": "2a097770-793a-4eca-af6c-a2c0778fa526",
+        "title": "Data Analytics Associate - Marketing Science",
+        "active": true,
+        "date_updated": 1773478093,
+        "date_posted": 1771629347,
+        "url": "https://jobs.ashbyhq.com/lgads/c049db92-3ae6-4022-84fa-821e4fed3253/application",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/LG-Ad-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
