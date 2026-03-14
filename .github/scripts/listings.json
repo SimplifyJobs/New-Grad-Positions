@@ -96667,7 +96667,7 @@
         "company_name": "Sensata",
         "id": "35b05f39-8081-404b-aab4-42ef82a8e346",
         "title": "Engineering Lab Technician - Emc",
-        "active": true,
+        "active": false,
         "date_updated": 1763768884,
         "date_posted": 1763768884,
         "url": "https://sensata.wd1.myworkdayjobs.com/en-US/Sensata-Careers/job/Attleboro-Massachusetts/Engineering-Lab-Technician--EMC_IRC96180",
@@ -199892,7 +199892,7 @@
         "company_name": "Torc Robotics",
         "id": "5e2e2ac1-593a-44c4-9d7a-7632b129729d",
         "title": "Annotator 1",
-        "active": true,
+        "active": false,
         "date_updated": 1770767075,
         "date_posted": 1770767075,
         "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8396187002",
@@ -202265,7 +202265,7 @@
         "company_name": "Unisys",
         "id": "bdac5eec-e8c8-424a-8d96-7fbee842e16d",
         "title": "Associate Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1770854379,
         "date_posted": 1770854379,
         "url": "https://unisys.wd5.myworkdayjobs.com/en-US/External/job/Eagan-Regus/Associate-Engineer_REQ569717",
@@ -245594,7 +245594,7 @@
         "company_name": "QTS",
         "id": "34e95c09-f9ec-4fad-bc96-f3f1d9275d67",
         "title": "Investment Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1772842131,
         "date_posted": 1772842131,
         "url": "https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/Duluth-GA/Investment-Analyst_R2026-0447-1",
@@ -252137,7 +252137,7 @@
         "company_name": "General Motors",
         "id": "bbd4fb62-ea0c-4903-9ff3-2886bf802efe",
         "title": "ML Validation Research Engineer \u2013 Early Career",
-        "active": true,
+        "active": false,
         "date_updated": 1773269693,
         "date_posted": 1773269693,
         "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/ML-Validation-Research-Engineer---Early-Career_JR-202605769",
@@ -253105,7 +253105,7 @@
         "company_name": "Sainsbury's",
         "id": "2d28c8bb-0add-4b6f-a073-ead760253004",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1773324924,
         "date_posted": 1773324924,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053187",
@@ -255283,5 +255283,159 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "GE Vernova",
+        "id": "864b1c6f-7b8f-4d7b-9233-04c32b767c63",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1773411566,
+        "date_posted": 1773411566,
+        "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Rugby/Software-Engineer---Visor_R5035143-1",
+        "locations": [
+            "Rugby, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Vernova",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GE Vernova",
+        "id": "00527d16-eca8-48aa-9884-7c63c3dfd969",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1773411569,
+        "date_posted": 1773411569,
+        "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Rugby/Software-Engineer---HPCI_R5035147-1",
+        "locations": [
+            "Rugby, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Vernova",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "fa98b193-9969-4441-b6b0-6bdd9f7ca089",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1773411154,
+        "date_posted": 1773411154,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053311",
+        "locations": [
+            "Brighton, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "BAE Systems",
+        "id": "856cb6e5-7aa2-49c2-9a26-0c3c35fa1c54",
+        "title": "ALIS Data Configuration Specialist",
+        "active": true,
+        "date_updated": 1773411298,
+        "date_posted": 1773411298,
+        "url": "https://baesystems.taleo.net/careersection/2/jobdetail.ftl?job=00134584",
+        "locations": [
+            "Brandon, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/BAE-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Huntington Ingalls Industries",
+        "id": "61c81270-3c34-472e-895f-472009660cc6",
+        "title": "Engineer Test Operations 1",
+        "active": true,
+        "date_updated": 1773411065,
+        "date_posted": 1773411065,
+        "url": "https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-TEST-OPERATIONS-1-Virg/1373077900/?ats=successfactors",
+        "locations": [
+            "Newport News, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Huntington-Ingalls-Industries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Arconic",
+        "id": "60741ec9-3628-411c-bc0d-e6a174a2987c",
+        "title": "IT Manufacturing Developer",
+        "active": true,
+        "date_updated": 1773411096,
+        "date_posted": 1773411096,
+        "url": "https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/113400",
+        "locations": [
+            "Davenport, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/Arconic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Northside Hospital",
+        "id": "0b786ab6-5649-42f6-8d50-15c740e2b59a",
+        "title": "Business Data Engineer 1",
+        "active": true,
+        "date_updated": 1773410716,
+        "date_posted": 1773410716,
+        "url": "https://careers-northside.icims.com/jobs/106614/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Northside-Hospital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Goldman Sachs",
+        "id": "031613c9-f894-499b-952f-c9d750e82608",
+        "title": "Asset & Wealth Management - Software Engineer - Associate",
+        "active": true,
+        "date_updated": 1773411030,
+        "date_posted": 1773411030,
+        "url": "https://higher.gs.com/roles/164571",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Goldman-Sachs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
