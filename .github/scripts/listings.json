@@ -33019,7 +33019,7 @@
         "company_name": "Leidos",
         "id": "de6e3580-a3fb-4a6a-b4af-bd24bb0e1f6c",
         "title": "PCBA Soldering Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1762915565,
         "date_posted": 1762915565,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/PCBA-Aoldering-Technician_R-00170309",
@@ -81001,24 +81001,6 @@
             "Halifax Regional Municipality, NS, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Mthree",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Omnicom Health",
-        "id": "68ef80f7-f717-411e-b24a-58fb85302680",
-        "title": "Associate Data Processing Analyst",
-        "active": false,
-        "date_updated": 1752775142,
-        "date_posted": 1752775142,
-        "url": "https://job-boards.greenhouse.io/omnicomhealth/jobs/4725867008",
-        "locations": [
-            "Buxton, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Omnicom-Health",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -141531,7 +141513,7 @@
         "company_name": "Procter & Gamble (P&G)",
         "id": "6a65fd5a-bbfa-4ebc-b2c6-5afd8c79453f",
         "title": "Distribution Center Automated Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1763887377,
         "date_posted": 1763887377,
         "url": "https://pg.wd5.myworkdayjobs.com/1000/job/SOUTHEAST-FULFILLMENT-CENTER/Distribution-Center-Automated-Technician_R000135210",
@@ -150758,7 +150740,7 @@
         "company_name": "Rolls-Royce",
         "id": "9c1af1cf-5442-4e42-9fa8-678b254dc38e",
         "title": "Electronics Technician - Metrology / Electronics technician - Metrology",
-        "active": true,
+        "active": false,
         "date_updated": 1767915839,
         "date_posted": 1767915839,
         "url": "https://rollsroyce.wd3.myworkdayjobs.com/professional/job/Lachine/Technicien-en-lectronique---Mtrologie---Electronics-technician---Metrology_JR6148542",
@@ -150858,7 +150840,7 @@
         "company_name": "The Travelers Companies",
         "id": "1a2d3960-20d1-4856-af50-1cd6f405d09e",
         "title": "Software Engineer 1 - .Net - Node.js','React",
-        "active": true,
+        "active": false,
         "date_updated": 1767915750,
         "date_posted": 1767915750,
         "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Software-Engineer-I--NET--Nodejs--React-_R-48474",
@@ -153836,7 +153818,7 @@
         "company_name": "O'Reilly Auto Parts",
         "id": "829bbb1a-bb6d-4f45-bc31-d6c0c90b731e",
         "title": "Electronic Catalog Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1768236108,
         "date_posted": 1768236108,
         "url": "https://oreillyauto.wd1.myworkdayjobs.com/oreilly/job/Regional-Office-PHX/Electronic-Catalog-Technician-1_R158616",
@@ -165809,7 +165791,7 @@
         "company_name": "TelevisaUnivision",
         "id": "dcb8ca1f-4554-491b-b6b3-32310ec6e80c",
         "title": "Digital Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1769030320,
         "date_posted": 1769030320,
         "url": "https://univision.wd1.myworkdayjobs.com/en-US/External/job/New-York-NY/Digital-Analyst_R019733",
@@ -199932,7 +199914,7 @@
         "company_name": "Ferguson ",
         "id": "d4f2970a-07f9-413f-a9d9-6d90113c6da8",
         "title": "Product Data Specialist - E-commerce",
-        "active": true,
+        "active": false,
         "date_updated": 1770766873,
         "date_posted": 1770766873,
         "url": "https://ferguson.wd1.myworkdayjobs.com/en-US/Ferguson_Experienced/job/Newport-News-VA/Product-Data-Specialist--E-commerce_R-133183",
@@ -212417,7 +212399,7 @@
         "company_name": "Dave & Busters",
         "id": "6397809d-3750-4620-a8fb-58ad6f70ed3c",
         "title": "Support Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1771458715,
         "date_posted": 1771458715,
         "url": "https://daveandbusters.wd1.myworkdayjobs.com/dave_and_busters_careers/job/Westminster-CO/Support-Technician_R-1005470",
@@ -218385,7 +218367,7 @@
         "company_name": "Likewize",
         "id": "3d28bffa-713c-419b-8348-d5606380ac3a",
         "title": "Mobile Repair Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1771631366,
         "date_posted": 1771631366,
         "url": "https://likewize.wd1.myworkdayjobs.com/en-US/External/job/Device-Protection-Canada---Remote/Mobile-Repair-Technician---Calgary--Alberta_R-1276",
@@ -231999,7 +231981,7 @@
         "company_name": "HCSC",
         "id": "fbf3d36f-2bab-470b-b21f-a1f849793841",
         "title": "Associate Developer - Mainframe",
-        "active": true,
+        "active": false,
         "date_updated": 1772236280,
         "date_posted": 1772236280,
         "url": "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/MT---Helena/Assoc-Developer---Mainframe_R0044668",
@@ -245237,7 +245219,7 @@
         "company_name": "Expedia Group",
         "id": "a7f379cc-8145-45f8-9333-9b25d4d8927a",
         "title": "Data Engineer 2",
-        "active": true,
+        "active": false,
         "date_updated": 1772840089,
         "date_posted": 1772840089,
         "url": "https://expedia.wd108.myworkdayjobs.com/search/job/USA---Illinois---Chicago/Data-Engineer-II_R-103326-1",
@@ -257583,6 +257565,88 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GE Healthcare",
+        "id": "a7e9ade7-c661-4373-a66f-14a7d6b8fccc",
+        "title": "Field Engineer 1",
+        "active": true,
+        "date_updated": 1773493394,
+        "date_posted": 1773493394,
+        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer-1--Sioux-Falls--SD_R4034109-2",
+        "locations": [
+            "Sioux Falls, SD"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Healthcare",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Walt Disney Company",
+        "id": "ae4def34-06b6-4eca-a02e-d93406bcba6d",
+        "title": "Technical Assistant 1",
+        "active": true,
+        "date_updated": 1773488397,
+        "date_posted": 1773488397,
+        "url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/London-United-Kingdom/Technical-Assistant-I_10036223",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Disney",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Adtran",
+        "id": "3026e392-29ef-4e78-80af-43a60b61e1d0",
+        "title": "Test Engineer - Linux Administrator",
+        "active": true,
+        "date_updated": 1773489998,
+        "date_posted": 1773489998,
+        "url": "https://adtran.wd3.myworkdayjobs.com/adtran/job/Adtran-Huntsville-HQ/Test-Engineer---Linux-Admin_R005295",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Adtran",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TD Bank",
+        "id": "a6dee434-c6bd-4a86-8602-cae71b6b4675",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1773483621,
+        "date_posted": 1773483621,
+        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Montral-Qubec/Software-Engineer-I_R_1471732",
+        "locations": [
+            "Montreal, QC, Canada",
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/TD-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD",
+            "Certificate"
         ]
     }
 ]
