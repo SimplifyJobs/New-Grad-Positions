@@ -364,7 +364,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Junior Software Engineer - Dev Academy</td>
 <td>Manchester, UK</td>
 <td><div align="center"><a href="https://job-boards.greenhouse.io/anaplan/jobs/8395642002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/895e55c8-1748-43fd-ae12-9aee8d440a76?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>11d</td>
+<td>12d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/TrueAnomaly?utm_source=GHList&utm_medium=company">True Anomaly</a></strong></td>
@@ -553,7 +553,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Engineer 1</td>
 <td>London, UK</td>
 <td><div align="center"><a href="https://job-boards.greenhouse.io/axon/jobs/7620148003?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/5e01b73c-fb23-4866-a4da-8999702383fb?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>22d</td>
+<td>23d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Clearer-Io?utm_source=GHList&utm_medium=company">Clearer.io</a></strong></td>
@@ -2279,7 +2279,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Engineer 1</td>
 <td>Seattle, WA</td>
 <td>🔒</td>
-<td>23d</td>
+<td>24d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/RELX?utm_source=GHList&utm_medium=company">RELX</a></strong></td>
@@ -10363,7 +10363,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><strong><a href="https://simplify.jobs/c/e38ff337-ef4e-42b4-b1fc-e1834b3b603f?utm_source=GHList&utm_medium=company">ATPCO</a></strong></td>
 <td>Data Engineer – New grads welcome to apply</td>
 <td>Reston, VA</td>
-<td><div align="center"><a href="https://jobs.smartrecruiters.com/ATPCO1/744000113027207?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/be15c5f4-2ac1-4516-b7ba-2454e6be4bff?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
+<td><div align="center"><a href="https://jobs.smartrecruiters.com/ATPCO1/744000113027207?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/11ad62a0-3c8d-494a-85b2-19f0343e7991?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
 <td>8d</td>
 </tr>
 <tr>
