@@ -156870,7 +156870,7 @@
         "company_name": "General Dynamics Information Technology",
         "id": "36c9b7b4-9e96-49e9-adda-25c5ec121022",
         "title": "Junior Software Developer - Active TS/SCI with Poly Required",
-        "active": true,
+        "active": false,
         "date_updated": 1768347209,
         "date_posted": 1768347209,
         "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Junior-Software-Developer--Active-TS-SCI-with-Poly-Required-_RQ212931",
@@ -191750,7 +191750,7 @@
         "company_name": "Sainsbury's",
         "id": "acd70588-9715-4973-b0a2-d557bd80e54e",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1770275476,
         "date_posted": 1770275476,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048277",
@@ -252196,7 +252196,7 @@
         "company_name": "Globus Medical",
         "id": "05d493ab-098c-46d8-aa5c-bafc4611c1a8",
         "title": "Associate Product Manager",
-        "active": true,
+        "active": false,
         "date_updated": 1773269329,
         "date_posted": 1773269329,
         "url": "https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Audubon-PA/Associate-Product-Manager_JR105815",
@@ -256700,5 +256700,25 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Varian",
+        "id": "b737ca01-e7bc-45b5-940c-17323baf6335",
+        "title": "Field Service Engineer - Proton Therapy",
+        "active": true,
+        "date_updated": 1773483495,
+        "date_posted": 1773483495,
+        "url": "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/ATL-G/Field-Service-Engineer--Proton-Therapy----Atlanta--GA_R-27202-1",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/670da3c5-bce0-4621-b519-da7ce7d528e6",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
     }
 ]
