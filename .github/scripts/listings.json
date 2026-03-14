@@ -94024,7 +94024,7 @@
         "company_name": "GAP",
         "id": "259f4ea5-eb42-4810-b292-e48c2547e24e",
         "title": "Assistant Merchandiser - BRFS Men's Woven Tops",
-        "active": true,
+        "active": false,
         "date_updated": 1763673445,
         "date_posted": 1763673445,
         "url": "https://gapinc.wd1.myworkdayjobs.com/GAPINC/job/SF---2-Folsom/Assistant-Merchandiser--BRFS-Men-s-Woven-Tops_R204039",
@@ -142115,7 +142115,7 @@
         "company_name": "Stanley Black & Decker",
         "id": "06d9ae25-525f-4e6a-b4d8-e93f340982e9",
         "title": "Service Technician 1",
-        "active": true,
+        "active": false,
         "date_updated": 1763814399,
         "date_posted": 1763814399,
         "url": "https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Norcross-GA-United-States/Service-Technician-I_REQ-1000041386",
@@ -142225,7 +142225,7 @@
         "company_name": "Stanley Black & Decker",
         "id": "100b9aad-ec08-4134-a3c7-4f8c2a11e847",
         "title": "Service Technician 1",
-        "active": true,
+        "active": false,
         "date_updated": 1763893569,
         "date_posted": 1763893569,
         "url": "https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Norcross-GA-United-States/Service-Technician-I_REQ-1000042992",
@@ -185256,7 +185256,7 @@
         "company_name": "Samsung",
         "id": "7742b9f4-8987-4b06-821b-eb1c30cbc281",
         "title": "SPAS Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1770074698,
         "date_posted": 1770074698,
         "url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/SPAS-Technician_R113731-1",
@@ -218062,7 +218062,7 @@
         "company_name": "Jabil",
         "id": "c0db0532-8967-4fd9-9064-ab9f9c6e5626",
         "title": "Diagnostic Technician 1",
-        "active": true,
+        "active": false,
         "date_updated": 1771631392,
         "date_posted": 1771631392,
         "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Florence-KY/Diagnostic-Technician-1_J2440710",
@@ -257613,6 +257613,117 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Texas - Austin",
+        "id": "332b7f1a-9679-41f3-b1f9-5ed2537ae9fa",
+        "title": "Research Scientist Associate 2",
+        "active": true,
+        "date_updated": 1773481704,
+        "date_posted": 1773481704,
+        "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/PICKLE-RESEARCH-CAMPUS/Research-Scientist-Associate-II_R_00042047",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Texas-Austin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "NVIDIA",
+        "id": "4abde8fd-c043-447c-9b29-b3af382c19ad",
+        "title": "ASIC Hardware Design Engineer",
+        "active": true,
+        "date_updated": 1773489521,
+        "date_posted": 1773489521,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/ASIC-Hardware-Design-Engineer---New-College-Grad-2026_JR2011787",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Vantage Data Centers",
+        "id": "5aa1dcd4-e824-47e9-a9af-8f56b2b34982",
+        "title": "Senior Billing & Telemetry Engineer",
+        "active": true,
+        "date_updated": 1773487488,
+        "date_posted": 1773487488,
+        "url": "https://vantagedc.wd1.myworkdayjobs.com/en-US/Vantage/job/Remote---CO/Senior-Billing---Telemetry-Engineer--NA_R19594",
+        "locations": [
+            "Remote in USA",
+            "Colorado"
+        ],
+        "company_url": "https://simplify.jobs/c/62df3370-bf7b-46b7-8619-e32dcd7d3fb3",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "15bfcc07-6976-4ef9-b3be-e02ab51fc348",
+        "title": "Electrical Computer Aided Designer",
+        "active": true,
+        "date_updated": 1773491881,
+        "date_posted": 1773491881,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-M10--3360-E-Hemisphere-Loop--BLDG-M10/Electrical-Computer-Aided-Designer_01825402",
+        "locations": [
+            "Tucson, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Bank of America",
+        "id": "f9d6bf78-99b1-483c-a095-904cf31802aa",
+        "title": "Data Scientist 1 - Client Protection",
+        "active": true,
+        "date_updated": 1773488558,
+        "date_posted": 1773488558,
+        "url": "https://ghr.wd1.myworkdayjobs.com/us-emplsv/job/Charlotte/Data-Scientist-I---Client-Protection_26004726",
+        "locations": [
+            "Boston, MA",
+            "Tampa, FL",
+            "Plano, TX",
+            "Newark, NJ",
+            "Chicago, IL",
+            "Charlotte, NC",
+            "Fort Worth, TX",
+            "Phoenix, AZ",
+            "Jacksonville, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Bank-Of-America",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
             "Master's",
             "PhD"
         ]
