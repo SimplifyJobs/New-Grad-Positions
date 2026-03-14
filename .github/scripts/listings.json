@@ -234267,7 +234267,7 @@
         "company_name": "Ken Garff Auto Group",
         "id": "91af8a6a-cf8b-452d-bca3-2ae13534644c",
         "title": "Business Intelligence Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1772493945,
         "date_posted": 1772493945,
         "url": "https://kengarff.wd1.myworkdayjobs.com/external_site/job/Garff-Enterprises-Corporate-Office---Salt-Lake-City-UT/Business-Intelligence-Analyst_R0041743",
@@ -257939,5 +257939,27 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TD Bank",
+        "id": "b8037914-8c82-4a04-a49a-dc0cfa249397",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1773483249,
+        "date_posted": 1773483249,
+        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-I_R_1474811",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/TD-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "Certificate"
+        ]
     }
 ]
