@@ -76334,7 +76334,7 @@
         "company_name": "CACI",
         "id": "599e1c10-4202-41e6-97d1-d3623ca5f2bb",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1761992474,
         "date_posted": 1761992474,
         "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-IL-Lisle/Software-Engineer_315814-2",
@@ -142043,7 +142043,7 @@
         "company_name": "Stanley Black & Decker",
         "id": "38264953-8f78-4dde-9065-e0b08e751811",
         "title": "Service Technician 1",
-        "active": true,
+        "active": false,
         "date_updated": 1765064338,
         "date_posted": 1765064338,
         "url": "https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Denver-CO-United-States/Service-Technician-I_REQ-1000042994",
@@ -149884,7 +149884,7 @@
         "company_name": "Motorola",
         "id": "14966d9b-3cee-4dff-a28c-61248b1a2555",
         "title": "IOS developer",
-        "active": false,
+        "active": true,
         "date_updated": 1767899408,
         "date_posted": 1767899408,
         "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/London-UK/iOS-developer_R60900",
@@ -161334,7 +161334,7 @@
         "company_name": "Michelin",
         "id": "e610ba11-8c2f-4d83-aa2f-219639e8767f",
         "title": "Reliability Maintainer - Electrical / Mechanical",
-        "active": true,
+        "active": false,
         "date_updated": 1768576441,
         "date_posted": 1768576441,
         "url": "https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Bridgewater/Reliability-Maintainer-Bridgewater----Electrical---Mechanical_R-2026001954",
@@ -216252,7 +216252,7 @@
         "company_name": "IDEX",
         "id": "b6c476e5-3dab-4ec5-a888-1a1bf3983290",
         "title": "Precision Grinding - Optics",
-        "active": true,
+        "active": false,
         "date_updated": 1771590981,
         "date_posted": 1769514428,
         "url": "https://idexcorp.wd5.myworkdayjobs.com/idex_careers/job/Portage-Michigan/CNC-Machinist_R-08273",
@@ -247100,7 +247100,7 @@
         "company_name": "Jabil",
         "id": "83712bfb-604c-4ffb-a0ba-996c0067f77d",
         "title": "Conversions Rework Operator - Shift - Wed/Thurs-Saturday",
-        "active": true,
+        "active": false,
         "date_updated": 1773100491,
         "date_posted": 1773100491,
         "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Florence-KY/CVG300-Conversions-Rework-Operator---403-Shift--Wed-Thurs--Saturday-_J2414345",
@@ -257726,6 +257726,64 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Teledyne",
+        "id": "a02dee97-5426-4bc9-b61c-bbc74db0ec03",
+        "title": "Junior Modeling and Simulation Developer",
+        "active": true,
+        "date_updated": 1773486708,
+        "date_posted": 1773486708,
+        "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/Jr-Modeling-and-Simulation-Developer_REQ32730",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/199b3c43-379a-408c-a6a8-980e79183038",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Prysmian Cables & Systems",
+        "id": "9ccca75f-28b2-44b0-b22b-d3bfe8574596",
+        "title": "Materials Testing Trainee Technician",
+        "active": true,
+        "date_updated": 1773483403,
+        "date_posted": 1773483403,
+        "url": "https://prysmiangroup.wd3.myworkdayjobs.com/careers/job/Bishopstoke/Materials-Testing-Trainee-Technician_R-29743-1",
+        "locations": [
+            "Southampton, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/de2a7df6-c0fa-4813-9fba-f1d7a2fb0149",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "AeroVironment",
+        "id": "d750ace8-baca-4ad8-8ddb-a516b71b7957",
+        "title": "Project Engineer 1",
+        "active": true,
+        "date_updated": 1773485831,
+        "date_posted": 1773485831,
+        "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Simi-Valley-CA/Project-Engineer-II_6540",
+        "locations": [
+            "Simi Valley, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/AeroVironment",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
