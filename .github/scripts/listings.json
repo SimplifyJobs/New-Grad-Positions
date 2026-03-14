@@ -24551,24 +24551,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Tucows Domains",
-        "id": "8eaaa4ae-6936-4b16-95fd-75c18a273499",
-        "title": "Software Engineer 1 - Artificial Intelligence",
-        "active": false,
-        "date_updated": 1761937711,
-        "date_posted": 1752780241,
-        "url": "https://job-boards.greenhouse.io/domains/jobs/6652550003",
-        "locations": [
-            "Remote in Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Tucows-Domains",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Hewlett Packard (HP)",
         "id": "ed92443d-64a2-428b-a0ef-6b6b4ce9e557",
         "title": "AI Lab \u2013 Junior Machine Learning Engineer - AI Lab - GenAI Modelling",
@@ -173815,7 +173797,7 @@
         "company_name": "CACI",
         "id": "668cc0b3-f38b-495a-84c6-8c052e08db4f",
         "title": "Systems Engineer-New grads encouraged to apply",
-        "active": true,
+        "active": false,
         "date_updated": 1769469229,
         "date_posted": 1769469229,
         "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-MD-Aberdeen-Proving-Ground/Systems-Engineer--New-grads-encouraged-to-apply_321459",
@@ -200290,7 +200272,7 @@
         "company_name": "Applied Materials",
         "id": "094b57d9-83fc-4b3b-8559-3ec220acaa72",
         "title": "Manufacturing Technician 1",
-        "active": true,
+        "active": false,
         "date_updated": 1770768476,
         "date_posted": 1770768476,
         "url": "https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/Manufacturing-Technician-I_R2612681-1",
@@ -219988,7 +219970,7 @@
         "company_name": "Amentum",
         "id": "61897b58-573c-49ad-a044-fcd6c9abde98",
         "title": "Electronic Technician - Ior - Optics (Sfrc)",
-        "active": false,
+        "active": true,
         "date_updated": 1771861901,
         "date_posted": 1771861901,
         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-FL-Canaveral/Electronic-Technician--IOR----Optics_R0152734-1",
@@ -220893,7 +220875,7 @@
         "company_name": "Relativity",
         "id": "b8945ac9-d40b-4a8b-9e8c-42a9f37141c6",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1771890153,
         "date_posted": 1771890153,
         "url": "https://kcura.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/Illinois/Software-Engineer_26-0090",
@@ -235386,7 +235368,7 @@
         "company_name": "Jabil",
         "id": "bb63f0db-1276-4a05-8fa7-8782f5b3e66e",
         "title": "Test Engineering Technician 1",
-        "active": true,
+        "active": false,
         "date_updated": 1772497056,
         "date_posted": 1772497056,
         "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Test-Engineering-Technician-I_J2441229",
@@ -242849,7 +242831,7 @@
         "company_name": "Leonardo",
         "id": "43dc6640-7e63-408c-9779-81c22c5dcbce",
         "title": "Digital Solutions Graduate",
-        "active": true,
+        "active": false,
         "date_updated": 1772753516,
         "date_posted": 1772753516,
         "url": "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Edinburgh/Digital-Solutions-Graduate_R0025087",
@@ -244946,7 +244928,7 @@
         "company_name": "Amentum",
         "id": "01aa7e45-00af-4ec4-b475-ad595eb78a2c",
         "title": "Computer Scientist/Mathematician",
-        "active": false,
+        "active": true,
         "date_updated": 1772840588,
         "date_posted": 1772840588,
         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Computer-Scientist-Mathematician_R0155914",
@@ -245287,7 +245269,7 @@
         "company_name": "Stanley Black & Decker",
         "id": "f70d552e-2029-47ca-9c0d-ac88fc6d1ce5",
         "title": "Service Technician 1",
-        "active": true,
+        "active": false,
         "date_updated": 1772842409,
         "date_posted": 1772842409,
         "url": "https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Salt-Lake-City-UT-United-States/Service-Technician-I_REQ-1000046469",
@@ -257576,6 +257558,63 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Amentum",
+        "id": "7adfc83a-dcb5-4ae7-a9a4-eea1060cf856",
+        "title": "Electronic Technician - Maintenance I",
+        "active": true,
+        "date_updated": 1773492335,
+        "date_posted": 1773492335,
+        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-AK-Fairbanks/Electronic-Technician--Maintenance-I_R0151750-1",
+        "locations": [
+            "Fairbanks, AK"
+        ],
+        "company_url": "https://simplify.jobs/c/Amentum",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Samsung",
+        "id": "41376812-92f3-4329-b1e1-121bc2d6ebdf",
+        "title": "Failure Analysis Technician",
+        "active": true,
+        "date_updated": 1773493265,
+        "date_posted": 1773493265,
+        "url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/Failure-Analysis-Technician_R113730-1",
+        "locations": [
+            "Pflugerville, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Samsung",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GlobalFoundries",
+        "id": "84e8f26c-0097-42f4-a80a-6e100be423d5",
+        "title": "Silicon Photonics Module Packaging Integration Engineer",
+        "active": true,
+        "date_updated": 1773478144,
+        "date_posted": 1771690069,
+        "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Sr-Photonics-Product-Packaging-Engineer_JR-2502067",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/GlobalFoundries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
         ]
     }
 ]
