@@ -242369,7 +242369,7 @@
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "ATPCO",
-        "id": "11ad62a0-3c8d-494a-85b2-19f0343e7991",
+        "id": "be15c5f4-2ac1-4516-b7ba-2454e6be4bff",
         "title": "Data Engineer \u2013 New grads welcome to apply",
         "active": true,
         "date_updated": 1772752587,
@@ -253033,7 +253033,7 @@
         "company_name": "Sainsbury's",
         "id": "2e1716bc-c59e-4db8-bc5d-f26b3cb0cd69",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1773324930,
         "date_posted": 1773324930,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053185",
@@ -255437,5 +255437,135 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Becton Dickinson",
+        "id": "d551deff-c78f-4853-8eb1-147e9e391fee",
+        "title": "BD Technology Leadership Development Program Senior Engineer - Tldp",
+        "active": true,
+        "date_updated": 1773412651,
+        "date_posted": 1773412651,
+        "url": "https://bdx.wd1.myworkdayjobs.com/US_EARLY_TALENT_SITE/job/USA-NC---Durham---Davis-Drive/BD-Technology-Leadership-Development-Program--TLDP---Senior-Engineer_R-539386-1",
+        "locations": [
+            "Salt Lake City, UT",
+            "Midland Park, NJ",
+            "Irvine, CA",
+            "Brea, CA",
+            "Durham, NC",
+            "Tempe, AZ",
+            "Vernon Hills, IL",
+            "Warwick, RI",
+            "Lafayette, CO",
+            "Monroe, GA",
+            "Research Triangle, Durham, NC",
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Becton-Dickinson",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Nasdaq",
+        "id": "8828caec-488c-41a3-bd3b-67be8784adfa",
+        "title": "Graduate Data Scientist",
+        "active": true,
+        "date_updated": 1773412352,
+        "date_posted": 1773412352,
+        "url": "https://nasdaq.wd1.myworkdayjobs.com/en-US/Global_External_Site/job/USA---Boston---Massachusetts/Data-Scientist---Graduate_R0025180",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Nasdaq",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Rochester",
+        "id": "5f8e0459-ea77-4433-9aae-c054eebd2a30",
+        "title": "Data Analyst 1",
+        "active": true,
+        "date_updated": 1773412450,
+        "date_posted": 1773412450,
+        "url": "https://rochester.wd5.myworkdayjobs.com/UR_Staff/job/Rochester---NY/Data-Analyst-I_R253904",
+        "locations": [
+            "Rochester, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Rochester",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "University of Rochester",
+        "id": "54490aee-61d3-45d0-8df5-270e47258fef",
+        "title": "Ophthalmic Tech Lead",
+        "active": true,
+        "date_updated": 1773412420,
+        "date_posted": 1773412420,
+        "url": "https://rochester.wd5.myworkdayjobs.com/UR_Staff/job/Strong-Memorial-Hospital/Ophthalmic-Tech-Lead_R264464",
+        "locations": [
+            "Rochester, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Rochester",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Rochester",
+        "id": "1dc48271-a8ed-4c36-9206-c1ce7171c031",
+        "title": "Research Data Engineer 1",
+        "active": true,
+        "date_updated": 1773412283,
+        "date_posted": 1773412283,
+        "url": "https://rochester.wd5.myworkdayjobs.com/UR_Staff/job/Rochester---NY/Research-Data-Engineer-I_R269057",
+        "locations": [
+            "Rochester, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Rochester",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Rochester",
+        "id": "1c7f71d1-7a8f-449f-8575-0f50a5c62cac",
+        "title": "Data Scientist 1",
+        "active": true,
+        "date_updated": 1773412292,
+        "date_posted": 1773412292,
+        "url": "https://rochester.wd5.myworkdayjobs.com/UR_Staff/job/Golisano-Childrens-Hospital-at-Strong/Data-Scientist-I_R269177",
+        "locations": [
+            "Rochester, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Rochester",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
