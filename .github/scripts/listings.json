@@ -67792,7 +67792,7 @@
         "company_name": "Encord",
         "id": "9c171818-9e25-42d7-bcd5-000492837f84",
         "title": "Associate Backend Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1763116191,
         "date_posted": 1761900124,
         "url": "https://jobs.lever.co/CordTechnologies/ff504425-cbe8-4d51-a5ab-9a4ae563192e/apply",
@@ -200154,7 +200154,7 @@
         "company_name": "Autodesk",
         "id": "001b6619-b3f7-4b7a-8d61-363bbef01e53",
         "title": "Software Development Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1770766200,
         "date_posted": 1770766200,
         "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Ontario-CAN---Remote/Software-Development-Engineer--1---5101-_25WD93468-2",
@@ -220659,7 +220659,7 @@
         "company_name": "Northumbria University",
         "id": "a6173b25-73fc-40bb-902a-72bb3a3a86bc",
         "title": "Research Fellow in Physical Geography and Environmental Science",
-        "active": true,
+        "active": false,
         "date_updated": 1771887973,
         "date_posted": 1771887973,
         "url": "https://fa-etnb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/3902",
@@ -246606,7 +246606,7 @@
         "company_name": "Sainsbury's",
         "id": "daeaf4aa-d107-4b95-a445-77712388f5f0",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1773093724,
         "date_posted": 1773093724,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052301",
@@ -256138,7 +256138,7 @@
         "company_name": "Sainsbury's",
         "id": "c58cd4f7-44e0-4830-99a8-0fd878b9c011",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1773440516,
         "date_posted": 1773440516,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053352",
@@ -256156,7 +256156,7 @@
         "company_name": "Sainsbury's",
         "id": "7c566d5a-bb3b-4aca-b669-ad0eb2244fd0",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1773440523,
         "date_posted": 1773440523,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053089",
@@ -257824,6 +257824,82 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Information Lab",
+        "id": "ca0e46bd-3d87-4ea3-ae5c-3f8c475e3706",
+        "title": "The Data School",
+        "active": true,
+        "date_updated": 1773477735,
+        "date_posted": 1772781089,
+        "url": "https://jobs.lever.co/theinformationlab/eaa64bb6-30b9-44bf-a490-3a2ea9754c13/apply",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Information-Lab",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Encord",
+        "id": "2be52873-175a-4e18-836f-810d2c49e12c",
+        "title": "Associate Full-Stack Engineer - Front-End Leaning",
+        "active": true,
+        "date_updated": 1773477567,
+        "date_posted": 1761900143,
+        "url": "https://jobs.lever.co/CordTechnologies/b683d54a-53e5-4683-959a-817e8f73e0e3/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Encord",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Johnson & Johnson",
+        "id": "cd63100b-31a5-431b-b8c8-4e59ad809d85",
+        "title": "Associate Design Engineer - R&D - Advanced Energy",
+        "active": true,
+        "date_updated": 1773475973,
+        "date_posted": 1772672818,
+        "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Associate-Design-Engineer--R-D---Advanced-Energy_R-061305-1",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Johnson-Johnson",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "JP Morgan Chase",
+        "id": "4384ebfa-0360-4e3b-9d7b-d7c21f6154c1",
+        "title": "Quantitative Trading and Research - Associate",
+        "active": true,
+        "date_updated": 1773477556,
+        "date_posted": 1761527921,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210679040",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
         ]
     }
 ]
