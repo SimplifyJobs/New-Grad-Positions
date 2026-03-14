@@ -106340,7 +106340,7 @@
         "company_name": "Intel",
         "id": "9a9ae9b6-d15e-46e0-8eef-a6fca332b718",
         "title": "CPU Verification Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1764560696,
         "date_posted": 1764560696,
         "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Texas-Austin/CPU-Verification-Engineer_JR0278559",
@@ -142151,7 +142151,7 @@
         "company_name": "Prysmian Cables & Systems",
         "id": "30dd5dbc-1240-4c11-965b-134eb0282e8e",
         "title": "Jointing Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1767236831,
         "date_posted": 1767236831,
         "url": "https://prysmiangroup.wd3.myworkdayjobs.com/careers/job/Bishopstoke/Jointing-Technician_R-27496",
@@ -181645,7 +181645,7 @@
         "company_name": "Florida Institute of Technology",
         "id": "08dfb958-a9c1-465a-9760-37f335e27083",
         "title": "Tenure-Track Assistant Professor in Chemical Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1769757417,
         "date_posted": 1769757417,
         "url": "https://floridatech.wd5.myworkdayjobs.com/FloridaTechCareers/job/Florida-Tech-Main-Campus-Melbourne/Tenure-Track-Assistant-Professor-in-Chemical-Engineering_R7828",
@@ -212801,7 +212801,7 @@
         "company_name": "GAP",
         "id": "3608ddfb-15c8-4e20-ba59-6663959e1dbe",
         "title": "Assistant Merchandiser - Women's",
-        "active": true,
+        "active": false,
         "date_updated": 1771459479,
         "date_posted": 1771459479,
         "url": "https://gapinc.wd1.myworkdayjobs.com/GAPINC/job/SF---2-Folsom/Assistant-Merchandiser--Women-s_R206789",
@@ -233858,7 +233858,7 @@
         "company_name": "Jones Lang LaSalle (JLL)",
         "id": "8c837096-f54e-4598-9627-7f9e45c62d92",
         "title": "Shift Technician - Data Centre",
-        "active": true,
+        "active": false,
         "date_updated": 1772460024,
         "date_posted": 1772460024,
         "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/London-GBR/Shift-Technician--Data-Centre_REQ481516",
@@ -235116,7 +235116,7 @@
         "company_name": "GlobalFoundries",
         "id": "42bb534d-15bb-483e-88d0-7e0e86c946bb",
         "title": "Tapeout & Mask Operations Engineer \u2013 2026 New College Graduate",
-        "active": true,
+        "active": false,
         "date_updated": 1772494595,
         "date_posted": 1772494595,
         "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Tapeout---Mask-Operations-Engineer--2026-New-College-Graduate-_JR-2600605-1",
@@ -235366,7 +235366,7 @@
         "company_name": "Cushman & Wakefield",
         "id": "e18ed007-657a-4659-93ba-6d733446c408",
         "title": "Data Specialist - Contract",
-        "active": true,
+        "active": false,
         "date_updated": 1772497058,
         "date_posted": 1772497058,
         "url": "https://cw.wd1.myworkdayjobs.com/external/job/CW-Site---CAN---Calgary---250-6th-Avenue-SW/Data-Specialist--Contract-_R303865",
@@ -257497,6 +257497,85 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Airbus",
+        "id": "f58b4044-c43e-430e-ab1f-a62c8df90a4b",
+        "title": "Flight Simulator Technician",
+        "active": true,
+        "date_updated": 1773493173,
+        "date_posted": 1773493173,
+        "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Aurora-CO/Flight-Simulator-Technician_JR10385817",
+        "locations": [
+            "Aurora, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Airbus",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "mthree",
+        "id": "b9796ce2-492e-4261-81ce-451a1728f732",
+        "title": "Junior Software Developer",
+        "active": true,
+        "date_updated": 1772677707,
+        "date_posted": 1772677707,
+        "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4374767006",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Mthree",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Hyve Solutions",
+        "id": "a5e53a3d-8104-4e3f-b158-5a63134dcae0",
+        "title": "Quality Technician",
+        "active": true,
+        "date_updated": 1773484377,
+        "date_posted": 1773484377,
+        "url": "https://synnex.wd5.myworkdayjobs.com/hyvecareers/job/Olive-Branch-MS/Quality-Technician_R42790",
+        "locations": [
+            "Olive Branch, MS"
+        ],
+        "company_url": "https://simplify.jobs/c/100a87e3-2540-44fd-9de7-caea9e8b2cfa",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Ribbon",
+        "id": "55a31bf5-3610-4d91-8745-efebd23ff9b8",
+        "title": "Junior Software Developer - Cloud Services Development Team",
+        "active": true,
+        "date_updated": 1773491176,
+        "date_posted": 1773491176,
+        "url": "https://vhr-genband.wd1.myworkdayjobs.com/ribboncareers/job/Canada-Quebec-Montreal/Junior-Software-Developer---Cloud-Services-Development-Team---Full-time-Position_REQ-2025-2793",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Ribbon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
