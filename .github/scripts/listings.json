@@ -53859,7 +53859,7 @@
         "company_name": "Argonne National Laboratory",
         "id": "4d974bd5-8f72-4917-872b-cf22dd304ff3",
         "title": "Postdoctoral Appointee: Physics-Informed AI for Microelectronics Materials",
-        "active": true,
+        "active": false,
         "date_updated": 1761992294,
         "date_posted": 1761992294,
         "url": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee--Physics-Informed-AI-for-Microelectronics-Materials_421205",
@@ -102787,7 +102787,7 @@
         "company_name": "University of Texas - Austin",
         "id": "13b7c776-b6dc-4c75-98d1-5e69dc3770bf",
         "title": "Postdoctoral Fellow - Transmission Electron Microscopy",
-        "active": false,
+        "active": true,
         "date_updated": 1764208295,
         "date_posted": 1764208295,
         "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Postdoctoral-Fellow---Transmission-Electron-Microscopy--Texas-Materials-Institute--Cockrell-School-of-Engineering_R_00043435",
@@ -141621,7 +141621,7 @@
         "company_name": "University of Southern California",
         "id": "08bbcda6-b643-4bce-b4d4-98a7423aaed7",
         "title": "Postdoctoral Research Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1763808122,
         "date_posted": 1763808122,
         "url": "https://usc.wd5.myworkdayjobs.com/ExternalUSCCareers/job/Los-Angeles-CA---University-Park-Campus/Postdoctoral-Research-Associate_REQ20143778",
@@ -156912,7 +156912,7 @@
         "company_name": "Healthfirst",
         "id": "4b156af8-f88d-40ab-821c-3e9572e78516",
         "title": "Technology Early Career Development Program - Product Owner/Business Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1768346807,
         "date_posted": 1768346807,
         "url": "https://healthfirst.wd1.myworkdayjobs.com/healthfirst/job/New-York-NY/XMLNAME-2026-Technology-Early-Career-Development-Program---Product-Owner-Business-Analyst_R021432",
@@ -158493,7 +158493,7 @@
         "company_name": "The Travelers Companies",
         "id": "d10609ec-9c47-4491-9edd-3879e613adb6",
         "title": "Software Engineer 1 - Multiple Teams",
-        "active": true,
+        "active": false,
         "date_updated": 1768436279,
         "date_posted": 1768436279,
         "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Software-Engineer-I--AWS--JavaScript--React-_R-48736",
@@ -162883,7 +162883,7 @@
         "company_name": "Scientific Games",
         "id": "13ee15ee-c6d3-4a92-99ed-f52ad4485caf",
         "title": "Field Service Tech 1 - Lawrence - KS & Kansas City','KS",
-        "active": true,
+        "active": false,
         "date_updated": 1768606483,
         "date_posted": 1768606483,
         "url": "https://sglottery.wd5.myworkdayjobs.com/ScientificGamesExternalCareers/job/Kansas-US/Field-Service-Tech-1---Lawrence--KS---Kansas-City--KS_R504225",
@@ -168171,7 +168171,7 @@
         "company_name": "The Travelers Companies",
         "id": "fa506c8b-f6c2-4912-8604-c55305824ae0",
         "title": "Data Engineer 1 - Databricks - Aws",
-        "active": true,
+        "active": false,
         "date_updated": 1768956969,
         "date_posted": 1768956969,
         "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Data-Engineer-I--Databricks--AWS--Python-_R-48789",
@@ -186628,7 +186628,7 @@
         "company_name": "Uhaul",
         "id": "308f4bf1-10be-4855-b010-67039705d503",
         "title": "Part Time Hitch Installer",
-        "active": true,
+        "active": false,
         "date_updated": 1770075719,
         "date_posted": 1770075719,
         "url": "https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/Cape-Girardeau-Missouri/Part-Time-Hitch-Installer_R236986",
@@ -239831,7 +239831,7 @@
         "company_name": "Cadence Design Systems",
         "id": "e72f0706-ad58-4d5b-8265-1d9a2009ee2f",
         "title": "Scientific Software Developer 2 - Modeler",
-        "active": true,
+        "active": false,
         "date_updated": 1772668210,
         "date_posted": 1772668210,
         "url": "https://cadence.wd1.myworkdayjobs.com/OpenEye_Careers/job/SANTA-FE-01/Scientific-Software-Developer-II---Modeler_R53423",
@@ -244932,7 +244932,7 @@
         "company_name": "Mass General Brigham",
         "id": "4ba769e3-7e0c-409d-a0f7-329a59acb615",
         "title": "Applications Analyst 1",
-        "active": true,
+        "active": false,
         "date_updated": 1772841390,
         "date_posted": 1772841390,
         "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Somerville-MA/Applications-Analyst-I_RQ4054458",
@@ -257541,6 +257541,48 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Chicago",
+        "id": "90def8d1-3208-4551-9b53-70b3b1acb518",
+        "title": "Research Professional",
+        "active": true,
+        "date_updated": 1773483395,
+        "date_posted": 1773483395,
+        "url": "https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Research-Professional--EPIC_JR32161",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Chicago",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Allison Transmission",
+        "id": "ce7a6dff-58d5-4e3c-b3da-52a865318a2f",
+        "title": "Embedded Controls Software Engineer",
+        "active": true,
+        "date_updated": 1773485358,
+        "date_posted": 1773485358,
+        "url": "https://allisontransmission.wd1.myworkdayjobs.com/ATI-External/job/Indianapolis-IN/Engineer--Embedded-Controls-Software_R006904-1",
+        "locations": [
+            "Indianapolis, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Allison-Transmission",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
