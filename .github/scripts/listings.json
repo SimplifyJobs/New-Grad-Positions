@@ -74001,7 +74001,7 @@
         "company_name": "Hyve Solutions",
         "id": "2199bc99-fa5c-471b-a746-2505b3b62413",
         "title": "Test Operator",
-        "active": true,
+        "active": false,
         "date_updated": 1755148798,
         "date_posted": 1755148798,
         "url": "https://synnex.wd5.myworkdayjobs.com/hyvecareers/job/Nevada-NV/Test-Operator_R40884-1",
@@ -145309,7 +145309,7 @@
         "company_name": "Q2",
         "id": "885672aa-a3ac-4547-9028-2f8edd3ac234",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1767656666,
         "date_posted": 1767656666,
         "url": "https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Cary-North-Carolina/Software-Engineer_REQ-11951",
@@ -160202,7 +160202,7 @@
         "company_name": "Wash U",
         "id": "b8f20032-fa1a-4d2f-adf9-81840411859f",
         "title": "Research/Lab Technician 1 - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1768519035,
         "date_posted": 1768519035,
         "url": "https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-Danforth-Campus/Research-Lab-Technician-I---Engineering_JR92057",
@@ -163000,7 +163000,7 @@
         "company_name": "ERM",
         "id": "6777a914-13ed-4456-a936-38cbde5c9495",
         "title": "GIS Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1768616734,
         "date_posted": 1768616734,
         "url": "https://erm.wd3.myworkdayjobs.com/ERM_Careers/job/Walnut-Creek-California/GIS-Technician_R00028912-1",
@@ -175317,7 +175317,7 @@
         "company_name": "LSEG",
         "id": "31d5ea1a-4566-4b39-a713-70644221b794",
         "title": "Quantitative Product Manager",
-        "active": true,
+        "active": false,
         "date_updated": 1769517901,
         "date_posted": 1769256737,
         "url": "https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/London-United-Kingdom/Quantitative-Product-Manager_R0106942-1",
@@ -194472,7 +194472,7 @@
         "company_name": "Philips",
         "id": "9689de52-3e24-46c3-9a98-dbcd706716fa",
         "title": "Full Time \u2013 Field Engineer Program - Field Service Engineer - Philadelphia', 'PA-July 2026",
-        "active": false,
+        "active": true,
         "date_updated": 1770387145,
         "date_posted": 1769644954,
         "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Philadelphia-Pennsylvania-United-States/Full-Time---Field-Engineer-Program--Field-Service-Engineer---Philadelphia--PA--July-2026_574013",
@@ -247985,7 +247985,7 @@
         "company_name": "LexisNexis Risk Solutions",
         "id": "7b5fe8b4-1224-4321-9213-04321bea34db",
         "title": "Data Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1773121416,
         "date_posted": 1772496077,
         "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Boca-Raton-FL/Sr-Data-Specialist_R109531",
@@ -257169,6 +257169,128 @@
             "Clearwater, FL"
         ],
         "company_url": "https://simplify.jobs/c/TD-Synnex",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Florida Atlantic University",
+        "id": "c1774400-39f4-4aae-b6c9-6092ff5a3b30",
+        "title": "Postdoctoral Fellow - Ucii",
+        "active": true,
+        "date_updated": 1773481879,
+        "date_posted": 1773481879,
+        "url": "https://fau.wd1.myworkdayjobs.com/FAU/job/Boca-Raton/Postdoctoral-Fellow---Computational-Geomatics---3D-Geospatial-Systems-Ubicquia-Center-for-Intelligent-Infrastructure--UCII-_REQ21743",
+        "locations": [
+            "Boca Raton, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Florida-Atlantic-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Milwaukee Tool",
+        "id": "b18f6234-ada1-4d36-a83e-6a0b541f9a6b",
+        "title": "Motor Engineer",
+        "active": true,
+        "date_updated": 1773486096,
+        "date_posted": 1773486096,
+        "url": "https://tti.wd1.myworkdayjobs.com/en-US/Milwaukee/job/Brookfield-WI/Motor-Engineer_R71391",
+        "locations": [
+            "Brookfield, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Milwaukee-Tool",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cadence Design Systems",
+        "id": "848d8c63-8d7e-4df0-b116-c6d859202dbc",
+        "title": "Scientific Software Developer 2 - Modeler",
+        "active": true,
+        "date_updated": 1773490285,
+        "date_posted": 1773490285,
+        "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SANTA-FE-01/Scientific-Software-Developer-II---Modeler_R53423-2",
+        "locations": [
+            "Boston, MA",
+            "Santa Fe, NM"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northrop Grumman",
+        "id": "98812211-b162-41da-a0a2-8a8335143772",
+        "title": "Associate Electromechanical Engineer",
+        "active": true,
+        "date_updated": 1773491836,
+        "date_posted": 1773491836,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-West-Virginia-Rocket-Center/Associate-Engineer-Electromechanical_R10224205",
+        "locations": [
+            "Berkeley Springs, WV"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "26d3392f-b5ce-4d3f-a248-3425f6f9ffab",
+        "title": "Software Development Analyst",
+        "active": true,
+        "date_updated": 1773491991,
+        "date_posted": 1773491991,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Software-Development-Analyst_R10222468",
+        "locations": [
+            "Melbourne, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "iHeartMedia",
+        "id": "007ce2a7-b34d-410a-8fef-2a755f359832",
+        "title": "Board Operator - Board Operator",
+        "active": true,
+        "date_updated": 1773489129,
+        "date_posted": 1773489129,
+        "url": "https://iheartmedia.wd5.myworkdayjobs.com/External_iHM/job/Dayton-OH-31-S-Main-St-Suite-208-45402/Part-Time-Board-Operator_Req37885-4",
+        "locations": [
+            "Dayton, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/IHeartMedia",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
