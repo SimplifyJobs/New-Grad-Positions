@@ -175386,7 +175386,7 @@
         "company_name": "Marathon Petroleum",
         "id": "316af2c3-8154-4d6c-a627-5e782ad40908",
         "title": "Associate Accounting Data Analyst/Accounting Data Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1769556336,
         "date_posted": 1769556336,
         "url": "https://mpc.wd1.myworkdayjobs.com/en-US/MPCCareers/job/San-Antonio-Texas/Associate-Accounting-Data-Analyst-Accounting-Data-Analyst_00020199",
@@ -242655,7 +242655,7 @@
         "company_name": "Hyve Solutions",
         "id": "69155935-fee6-483f-8b2a-0396840f7c90",
         "title": "Manufacturing Tech 1",
-        "active": true,
+        "active": false,
         "date_updated": 1772753904,
         "date_posted": 1772753904,
         "url": "https://synnex.wd5.myworkdayjobs.com/hyvecareers/job/Fremont-CA/Manufacturing-Tech-I_R48552",
@@ -250510,7 +250510,7 @@
         "company_name": "OPTrust",
         "id": "cbbc1a62-4907-4c7d-8817-a88c31f354ab",
         "title": "Data Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1773182168,
         "date_posted": 1773182168,
         "url": "https://optrust.wd3.myworkdayjobs.com/OPTrust/job/Toronto-ON/Data-Analyst_R1169",
@@ -251834,7 +251834,7 @@
         "company_name": "Austal USA",
         "id": "24994b0d-1f1e-4548-82fb-fd22dc831249",
         "title": "Test & Activation Specialist 1",
-        "active": false,
+        "active": true,
         "date_updated": 1773267781,
         "date_posted": 1773267781,
         "url": "https://austalusa.wd1.myworkdayjobs.com/austal/job/Mobile-AL/Test---Activation-Specialist-I_R0010989-1",
@@ -257961,5 +257961,23 @@
             "Master's",
             "Certificate"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "ee3f0199-d366-450b-8c8e-32b4219d63f2",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1773482121,
+        "date_posted": 1773482121,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053424",
+        "locations": [
+            "Crawley, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
