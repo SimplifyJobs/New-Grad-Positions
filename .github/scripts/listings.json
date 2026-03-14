@@ -162339,7 +162339,7 @@
         "company_name": "Carnegie Mellon University",
         "id": "e1204472-c1a9-4741-b588-01dd20a51907",
         "title": "Associate Reverse Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1768606075,
         "date_posted": 1768606075,
         "url": "https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Associate-Reverse-Engineer-Researcher_2024059-1",
@@ -254220,7 +254220,7 @@
         "company_name": "Bank of Montreal",
         "id": "f6b7c236-d979-46f2-af55-ab913dcd8934",
         "title": "Software Developer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1773356282,
         "date_posted": 1773356282,
         "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Irving-TX-USA/Software-Developer-I_R260006079",
@@ -254322,7 +254322,7 @@
         "company_name": "The Boeing Company",
         "id": "a4ffad22-2a82-4e8d-a9ad-e2d70ccc8a7e",
         "title": "SAR Signal & Image Processing Engineer \u2013 Associate or Mid-Level",
-        "active": true,
+        "active": false,
         "date_updated": 1773356450,
         "date_posted": 1773356450,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Kent-WA/SAR-Signal---Image-Processing-Engineer--Associate-or-Mid-Level-_JR2026500163-1",
@@ -256938,5 +256938,23 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "BlackRock",
+        "id": "085433c4-c864-4166-9b62-c8b9d2cf546a",
+        "title": "Quantitative Technology & Implementation",
+        "active": true,
+        "date_updated": 1773484942,
+        "date_posted": 1773484942,
+        "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/New-York-NY/Quantitative-Technology---Implementation--Associate_R261522",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/BlackRock",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
