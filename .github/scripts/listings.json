@@ -46092,7 +46092,7 @@
         "company_name": "ByteDance",
         "id": "2a22e614-0fd6-4b09-bc0f-15ed0eae562d",
         "title": "Graduate Research Scientist - Multimodal Interaction and World Model - Pre-Training",
-        "active": false,
+        "active": true,
         "date_updated": 1762920151,
         "date_posted": 1761910323,
         "url": "https://jobs.bytedance.com/en/position/7488465961747220744/detail",
@@ -95688,7 +95688,7 @@
         "company_name": "Zeiss",
         "id": "85281894-5d9f-437a-a073-f56049182653",
         "title": "3D Tomography Application Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1763717647,
         "date_posted": 1763717647,
         "url": "https://zeissgroup.wd3.myworkdayjobs.com/External/job/Boise/XMLNAME-3D-Tomography-Application-Engineer_JR_1044312-1",
@@ -187650,7 +187650,7 @@
         "company_name": "Sainsbury's",
         "id": "beb3bb94-344d-4d0c-920c-efed2416c724",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1770131511,
         "date_posted": 1770131511,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048074",
@@ -242369,7 +242369,7 @@
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "ATPCO",
-        "id": "be15c5f4-2ac1-4516-b7ba-2454e6be4bff",
+        "id": "11ad62a0-3c8d-494a-85b2-19f0343e7991",
         "title": "Data Engineer \u2013 New grads welcome to apply",
         "active": true,
         "date_updated": 1772752587,
@@ -256719,6 +256719,184 @@
         "sponsorship": "Other",
         "degrees": [
             "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cushman & Wakefield",
+        "id": "5bcb25ad-7214-4c42-a3d2-c51ecc47afae",
+        "title": "Sitecore Developer",
+        "active": true,
+        "date_updated": 1773452117,
+        "date_posted": 1773452117,
+        "url": "https://cw.wd1.myworkdayjobs.com/external/job/Remote-CW-Site---USA---Flexible-United-States/Sitecore-Developer_R310387",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cushman-And-Wakefield",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Astranis",
+        "id": "aa2872a5-8607-46a5-9083-e756e8fdc249",
+        "title": "Flight Software Engineer",
+        "active": true,
+        "date_updated": 1773451782,
+        "date_posted": 1773451782,
+        "url": "https://job-boards.greenhouse.io/astranis/jobs/4015622006",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Astranis",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "MKS Instruments",
+        "id": "9920dfde-9f38-4823-8cfe-4a645a606fc6",
+        "title": "Software Engineer - Associate",
+        "active": true,
+        "date_updated": 1773451782,
+        "date_posted": 1773451782,
+        "url": "https://mksinst.wd1.myworkdayjobs.com/mkscareersamericas/job/Rochester-NY/Software-Engineer--Associate_R17005",
+        "locations": [
+            "Rochester, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/MKS-Instruments",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "AEG",
+        "id": "955fbe43-537a-416d-beff-020d75b2fe3d",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1773451610,
+        "date_posted": 1773451610,
+        "url": "https://www.aegworldwide.com/jobs?gh_jid=8459974002",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/AEG",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Abbott",
+        "id": "8a61f544-0560-4f6c-9973-3dd2a0672023",
+        "title": "Field Service Engineer 2",
+        "active": true,
+        "date_updated": 1773451640,
+        "date_posted": 1773451640,
+        "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---Minnesota---Minnetonka/Field-Service-Engineer-II--Minneapolis_31144396",
+        "locations": [
+            "Hopkins, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Abbott",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "d9938fb6-994a-4d94-864e-e4f36be1002b",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1773451164,
+        "date_posted": 1773451164,
+        "url": "https://jobs.l3harris.com/job/Carlsbad-Associate,-Software-Engineering-(Carlsbad,-CA)-CA-92009/1373076800/?ats=successfactors",
+        "locations": [
+            "Carlsbad, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "d36d3290-77b0-4667-b96d-17fd6e1ceea2",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1773450953,
+        "date_posted": 1773450953,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053063",
+        "locations": [
+            "Northwich, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Eulerity",
+        "id": "c729ed73-288d-4898-a06b-ecee5b410c4a",
+        "title": "Associate Product Manager - AI First",
+        "active": true,
+        "date_updated": 1773450794,
+        "date_posted": 1773450794,
+        "url": "https://job-boards.greenhouse.io/eulerity/jobs/4663370006",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Eulerity",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "PDF Solutions",
+        "id": "8158e69c-5d74-49b3-942b-5fa281ab8c6f",
+        "title": "Software Systems Engineer",
+        "active": true,
+        "date_updated": 1773450415,
+        "date_posted": 1773450415,
+        "url": "https://careers.pdf.com/jobs/1530?lang=en-us&icims=1",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/PDF-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
         ]
     }
 ]
