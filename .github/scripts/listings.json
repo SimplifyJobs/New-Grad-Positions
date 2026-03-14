@@ -54186,7 +54186,7 @@
         "company_name": "University of Miami",
         "id": "fbf71ac1-f9cb-490b-ba78-5764ef478670",
         "title": "CAS-Chemistry-Computational",
-        "active": true,
+        "active": false,
         "date_updated": 1761879477,
         "date_posted": 1761879477,
         "url": "https://umiami.wd1.myworkdayjobs.com/UMFaculty/job/Coral-Gables-FL/CAS-Chemistry-Computational---Artificial-Intelligence-in-Chemistry--Assistant-Professor_R100091730",
@@ -81019,24 +81019,6 @@
             "Buxton, UK"
         ],
         "company_url": "https://simplify.jobs/c/Omnicom-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "SpaceX",
-        "id": "227cfe3d-35bc-4257-aa3d-fe6328122362",
-        "title": "Automation & Controls Engineer - Consumer Hardware - Starlink",
-        "active": false,
-        "date_updated": 1761256412,
-        "date_posted": 1752770845,
-        "url": "https://boards.greenhouse.io/spacex/jobs/8065854002",
-        "locations": [
-            "West Athens, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/SpaceX",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -113495,7 +113477,7 @@
         "company_name": "The Boeing Company",
         "id": "775bb551-6884-453a-af1b-9efc06585963",
         "title": "Linux System Administrator",
-        "active": true,
+        "active": false,
         "date_updated": 1764978180,
         "date_posted": 1764978180,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seal-Beach-CA/Linux-System-Administrator_JR2025487641",
@@ -127197,7 +127179,7 @@
         "company_name": "Oshkosh",
         "id": "869fd6b8-b9d9-4838-960d-11e5ed74cc18",
         "title": "NASCAR Cup Track Support Engineer \u2013 Entry Level",
-        "active": true,
+        "active": false,
         "date_updated": 1766015524,
         "date_posted": 1766015524,
         "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Huntersville-North-Carolina-United-States/NASCAR-Cup-Track-Support-Engineer---Entry-Level_R43333",
@@ -140563,7 +140545,7 @@
         "company_name": "Dave & Busters",
         "id": "f4df5cf9-5c5e-4777-a5dd-aee62b63ea7a",
         "title": "Support Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1764499082,
         "date_posted": 1764499082,
         "url": "https://daveandbusters.wd1.myworkdayjobs.com/dave_and_busters_careers/job/Woburn-MA/Support-Technician_R-1006022",
@@ -204805,7 +204787,7 @@
         "company_name": "Dave & Busters",
         "id": "40490d14-3065-4202-8c5b-2138de77c8b2",
         "title": "Game Support Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1770940884,
         "date_posted": 1770940884,
         "url": "https://daveandbusters.wd1.myworkdayjobs.com/dave_and_busters_careers/job/Braintree-MA/Game-Support-Technician_R-1010286",
@@ -212547,7 +212529,7 @@
         "company_name": "Milwaukee Tool",
         "id": "4aeda916-6ca3-4305-999a-d6f29593960f",
         "title": "Repair Technician 1",
-        "active": true,
+        "active": false,
         "date_updated": 1771458594,
         "date_posted": 1771458594,
         "url": "https://tti.wd1.myworkdayjobs.com/en-US/Milwaukee/job/Greenwood-MS/Repair-Tech-1_R70739",
@@ -218722,7 +218704,7 @@
         "company_name": "O'Reilly Auto Parts",
         "id": "c4e7c571-c61d-4a8a-a6ab-6415de632355",
         "title": "Electronic Catalog Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1771632705,
         "date_posted": 1771632705,
         "url": "https://oreillyauto.wd1.myworkdayjobs.com/oreilly/job/Store-03149-Phoenix-AZ/Electronic-Catalog-Technician-1_R165324",
@@ -219112,7 +219094,7 @@
         "company_name": "HNTB",
         "id": "50d35fe3-44df-402f-991f-ed8bc4693dd1",
         "title": "Aviation Planner Entry Level",
-        "active": true,
+        "active": false,
         "date_updated": 1771696167,
         "date_posted": 1771696167,
         "url": "https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Boston-MA/Aviation-Planner---Entry-Level_R-29216",
@@ -219359,7 +219341,7 @@
         "company_name": "Northrop Grumman",
         "id": "95c35385-60e2-4721-a95f-b0c532fb7bb9",
         "title": "Principal Engineer Software - Embedded and Real Time - Florida & Oklahoma",
-        "active": true,
+        "active": false,
         "date_updated": 1771693998,
         "date_posted": 1771693998,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Principal-Engineer-Software---Embedded-and-Real-Time--Florida---Oklahoma-_R10222588",
@@ -229376,7 +229358,7 @@
         "company_name": "QBE Insurance",
         "id": "e034ffa8-fb49-4b1f-8307-cf3874060a3b",
         "title": "E-Trade Trading Underwriter - Motor",
-        "active": true,
+        "active": false,
         "date_updated": 1772149600,
         "date_posted": 1772149600,
         "url": "https://qbe.wd3.myworkdayjobs.com/qbe-careers/job/Stafford-United-Kingdom/E-Trade-Trading-Underwriter---Motor_351384",
@@ -247644,7 +247626,7 @@
         "company_name": "GE Vernova",
         "id": "7e00279f-c9e6-4159-a0da-8e3b32fea5b5",
         "title": "Engineering Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1773101691,
         "date_posted": 1773101691,
         "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Rugby/Engineering-Technician_R5032194-3",
@@ -248353,7 +248335,7 @@
         "company_name": "Dave & Busters",
         "id": "8f337537-a742-49cd-8fd8-0525faeba9b0",
         "title": "Support Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1773133906,
         "date_posted": 1773133906,
         "url": "https://daveandbusters.wd1.myworkdayjobs.com/dave_and_busters_careers/job/Florence-KY/Support-Technician_R-1006137",
@@ -257417,5 +257399,148 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "United Parcel Service (UPS)",
+        "id": "ea153d3e-3a29-43f5-b28f-2578381b45d7",
+        "title": "PT Sup \u2013 F&A Analyst - F&A",
+        "active": true,
+        "date_updated": 1773491555,
+        "date_posted": 1773491555,
+        "url": "https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---AIR-GROUP-BUILDING-KYARP/PT-Sup---F-A-Analyst---099_R26006554",
+        "locations": [
+            "Louisville, KY"
+        ],
+        "company_url": "https://simplify.jobs/c/United-Parcel-Service",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "PVH",
+        "id": "9f5625fb-e00a-47a8-9222-37d060c4e53b",
+        "title": "Designer 1 Mens Wovens",
+        "active": true,
+        "date_updated": 1773485878,
+        "date_posted": 1773485878,
+        "url": "https://pvh.wd1.myworkdayjobs.com/en-US/PVH_Careers/job/New-York-NY-Calvin-Klein-Office/Designer-I-Mens-Wovens_R57528",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/PVH",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "AeroVironment",
+        "id": "570bbdd2-3972-4136-b70e-6e4956df7ae7",
+        "title": "Electrical",
+        "active": true,
+        "date_updated": 1773485833,
+        "date_posted": 1773485833,
+        "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/1300-Britt-Street-Southeast-Albuquerque-NM/Electrical--Electronic--and-Electromechanical--EEE--Parts-Engineer_7028",
+        "locations": [
+            "Albuquerque, NM"
+        ],
+        "company_url": "https://simplify.jobs/c/AeroVironment",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "OneDigital",
+        "id": "fc51c313-ce03-4b26-88c5-4d785cd05cc6",
+        "title": "Senior Investment Analyst",
+        "active": true,
+        "date_updated": 1773487411,
+        "date_posted": 1773487411,
+        "url": "https://onedigital.wd5.myworkdayjobs.com/onedigital/job/RIA-Overland-Park-KS/Senior-Investment-Analyst_R8437-1",
+        "locations": [
+            "Overland Park, KS"
+        ],
+        "company_url": "https://simplify.jobs/c/OneDigital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Chicago",
+        "id": "72786552-220d-4b78-aed7-0ac6384f19d4",
+        "title": "Data Management Coordinator",
+        "active": true,
+        "date_updated": 1773483365,
+        "date_posted": 1773483365,
+        "url": "https://uchicago.wd5.myworkdayjobs.com/External/job/Hyde-Park-Campus/Data-Management-Coordinator_JR32682",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Chicago",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Ercot",
+        "id": "e4c19383-3748-4153-b806-5b96c8eb9d0b",
+        "title": "GMS Development Program Entry Level Power & Computer Engineer",
+        "active": true,
+        "date_updated": 1773490043,
+        "date_posted": 1773490043,
+        "url": "https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Austin-TX/GMS-Development-Program---Entry-Level-Power---Computer-Engineer_R2189-1",
+        "locations": [
+            "Pflugerville, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Ercot",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TelevisaUnivision",
+        "id": "b98de3fd-b04c-457f-a8bd-f58e83561d64",
+        "title": "Digital Analyst",
+        "active": true,
+        "date_updated": 1773486588,
+        "date_posted": 1773486588,
+        "url": "https://univision.wd1.myworkdayjobs.com/en-US/External/job/New-York-NY/Digital-Analyst_R019734",
+        "locations": [
+            "Austin, TX",
+            "Miami, FL",
+            "Chicago, IL",
+            "NYC",
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/TelevisaUnivision",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
