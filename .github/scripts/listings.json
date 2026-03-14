@@ -207821,7 +207821,7 @@
         "company_name": "Malvern Panalytical",
         "id": "66d53646-b4d7-4818-af07-a49c74fd3bb1",
         "title": "Manufacturing Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1771255311,
         "date_posted": 1771255311,
         "url": "https://spectris.wd3.myworkdayjobs.com/Malvern_Panalytical_Careers/job/Malvern-GB/Manufacturing-Technician_17109",
@@ -251679,7 +251679,7 @@
         "company_name": "Sainsbury's",
         "id": "011964f8-213f-454c-98e4-e7a96bba448c",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1773267579,
         "date_posted": 1773267579,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053077",
@@ -255567,5 +255567,84 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Fidelity Investments",
+        "id": "a4bf1e6f-2d1f-418a-8a40-d53c8e8ee75d",
+        "title": "Analyst - Fraud Detection and Analytics",
+        "active": true,
+        "date_updated": 1773413417,
+        "date_posted": 1773413417,
+        "url": "https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Merrimack-NH/Analyst--Fraud-Detection-and-Analytics_2124696",
+        "locations": [
+            "Westlake, TX",
+            "Merrimack, NH",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Fidelity-Investments",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GE Healthcare",
+        "id": "d8a6cb8b-7083-4387-9e34-8658cedc969c",
+        "title": "Field Service Engineer",
+        "active": true,
+        "date_updated": 1773412931,
+        "date_posted": 1773412931,
+        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer---NM-PET-XR---Raleigh-Durham-NC_R4037756-1",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Healthcare",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Protiviti",
+        "id": "4ebcb1d5-e830-4ebf-8fc7-82a91f133cf5",
+        "title": "Technology Analyst",
+        "active": true,
+        "date_updated": 1773412777,
+        "date_posted": 1773412777,
+        "url": "https://roberthalf.wd1.myworkdayjobs.com/ProtivitiNA/job/CINCINNATI/Americas-Delivery-Center-Technology-Analyst_JR-259591",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Protiviti",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Flutter",
+        "id": "093f8034-d903-4155-8e02-d8abfab9f1a8",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1773412880,
+        "date_posted": 1773412880,
+        "url": "https://flutterbe.wd3.myworkdayjobs.com/FlutterUKI_External/job/Leeds-UK/Associate-Software-Engineer---Fixed-Term-Contract_JR136626-1",
+        "locations": [
+            "Leeds, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Flutter",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
