@@ -187337,7 +187337,7 @@
         "company_name": "Hewlett Packard Enterprise",
         "id": "25058c1c-f69d-4473-bcaf-5e821643b421",
         "title": "Systems Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1770104206,
         "date_posted": 1770104206,
         "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Roseville-California-United-States-of-America/Systems-Software-Engineer_1199612",
@@ -252862,7 +252862,7 @@
         "company_name": "RTX",
         "id": "e4839ecb-2777-4886-93d2-c56612b08784",
         "title": "Software Engineer 2",
-        "active": true,
+        "active": false,
         "date_updated": 1773310382,
         "date_posted": 1773310382,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/XMLNAME-2026-Fulltime-Raytheon-Software-Engineer-II---Test-Equipment---Onsite_01790413",
@@ -253729,7 +253729,7 @@
         "company_name": "TD Bank",
         "id": "12c7a176-ab44-4cee-9ec4-c7a1c79d0157",
         "title": "Software Engineer 1 - Mainframe",
-        "active": true,
+        "active": false,
         "date_updated": 1773354416,
         "date_posted": 1773354416,
         "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-I--Mainframe-_R_1476716",
@@ -254001,7 +254001,7 @@
         "company_name": "Northrop Grumman",
         "id": "0eb8c2f8-c31c-400f-9ad8-8aac4fee885f",
         "title": "Digital Engineer or Principal Digital Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773356544,
         "date_posted": 1773356544,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Annapolis/Digital-Engineer-or-Principal-Digital-Engineer_R10225587",
@@ -256913,6 +256913,26 @@
             "Hopkins, MN"
         ],
         "company_url": "https://simplify.jobs/c/Abbott",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "DXC Technology",
+        "id": "367a4804-2d31-4c7f-b8d8-453f7a94bf87",
+        "title": "DXC Graduate Programme",
+        "active": true,
+        "date_updated": 1773487520,
+        "date_posted": 1773487520,
+        "url": "https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/GBR---ENG---LONDON/DXC-Graduate-Programme-2026_51567282",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/DXC-Technology",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
