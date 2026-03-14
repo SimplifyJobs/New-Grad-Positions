@@ -14782,7 +14782,7 @@
         "company_name": "Adobe",
         "id": "5de30536-7ed9-4121-977c-734010710c22",
         "title": "University Graduate - Machine Learning Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1758597605,
         "date_posted": 1758597605,
         "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Seattle/XMLNAME-2026-University-Graduate---Machine-Learning-Engineer_R160133",
@@ -38963,7 +38963,7 @@
         "company_name": "Texas A&M University - Corpus Christi",
         "id": "7aaa18c9-7671-41d2-a552-4cb4c0e51c60",
         "title": "Assistant Professor - Data Science",
-        "active": true,
+        "active": false,
         "date_updated": 1762470801,
         "date_posted": 1762470801,
         "url": "https://tamus.wd1.myworkdayjobs.com/TAMUCC_External/job/Corpus-Christi-TX/Assistant-Professor--Data-Science_R-088833-1",
@@ -61284,7 +61284,7 @@
         "company_name": "PennState University",
         "id": "f56c3266-c05a-4ffc-b6f8-3f7ac6228863",
         "title": "Postdoctoral Scholar",
-        "active": false,
+        "active": true,
         "date_updated": 1759423602,
         "date_posted": 1759423602,
         "url": "https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Scholar_REQ_0000072094-1",
@@ -87134,7 +87134,7 @@
         "company_name": "The Wharton School",
         "id": "cd97b351-6ee4-4972-95e1-abeaf8b2228f",
         "title": "Pre-Doctoral Research Specialist",
-        "active": false,
+        "active": true,
         "date_updated": 1763420837,
         "date_posted": 1763420837,
         "url": "https://wd1.myworkdaysite.com/recruiting/upenn/Wharton/job/SD---Wharton-Accounting-Dept/Pre-Doctoral-Research-Specialist_JR00114176",
@@ -175406,7 +175406,7 @@
         "company_name": "Genuine Parts Company",
         "id": "1d69a0d4-9cfa-4caf-a97e-e09800653f6f",
         "title": "Motion Automation Intelligence-Field Services Support",
-        "active": true,
+        "active": false,
         "date_updated": 1769556402,
         "date_posted": 1769556402,
         "url": "https://genpt.wd1.myworkdayjobs.com/Careers/job/Salisbury-NC-USA/Motion-Automation-Intelligence--Field-Services-Support_R26_0000002591",
@@ -226884,7 +226884,7 @@
         "company_name": "Booz Allen",
         "id": "9e9e9e4a-7920-4b67-9b54-d863d0e2ce4f",
         "title": "Engineering Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1772062113,
         "date_posted": 1772062113,
         "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Wharton-NJ/Engineering-Technician_R0234742",
@@ -255569,7 +255569,7 @@
         "company_name": "Sainsbury's",
         "id": "0c95eda0-9f53-43cc-bc90-08f2512282be",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1773440298,
         "date_posted": 1773440298,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053351",
@@ -257784,6 +257784,26 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pennsylvania State University",
+        "id": "35881f08-d8c0-4d9b-9fd6-570f2aaad685",
+        "title": "Postdoctoral Scholar - MOCVD Thin Films",
+        "active": true,
+        "date_updated": 1773487043,
+        "date_posted": 1773487043,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Scholar---MOCVD-Thin-Films_REQ_0000068894-2",
+        "locations": [
+            "State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
         ]
     }
 ]
