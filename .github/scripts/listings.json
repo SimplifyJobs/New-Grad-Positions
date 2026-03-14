@@ -174787,7 +174787,7 @@
         "company_name": "The Boeing Company",
         "id": "7171d22c-2824-42c0-8900-e0c66cf263b0",
         "title": "Application Developer - Scientific Applications",
-        "active": true,
+        "active": false,
         "date_updated": 1769470831,
         "date_posted": 1769470831,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Application-Developer--Scientific-Applications------Entry-Level--Associate--or-Mid-Level-_JR2025488280",
@@ -251290,7 +251290,7 @@
         "company_name": "Medtronic",
         "id": "35319a53-fa3d-468d-bc7a-1e9cf2fb7e0f",
         "title": "Materials Engineer 1 Neuro/Metal",
-        "active": true,
+        "active": false,
         "date_updated": 1773268776,
         "date_posted": 1773268776,
         "url": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Minneapolis-Minnesota-United-States-of-America/Materials-Engineer-I-Neuro-Metal_R61332",
@@ -256897,6 +256897,26 @@
         "sponsorship": "Other",
         "degrees": [
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Abbott",
+        "id": "ac2d947e-eba6-4039-8fa8-7fafea14593b",
+        "title": "Field Service Engineer 2",
+        "active": true,
+        "date_updated": 1773453365,
+        "date_posted": 1773453365,
+        "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Minnesota---Minnetonka/Field-Service-Engineer-II--Minneapolis_31144396-1",
+        "locations": [
+            "Hopkins, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Abbott",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
