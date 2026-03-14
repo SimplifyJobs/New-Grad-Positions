@@ -249322,7 +249322,7 @@
         "company_name": "Sainsbury's",
         "id": "55a5ab08-a6a4-4cf7-9473-f6cae55fcff9",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1773180927,
         "date_posted": 1773180927,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052687",
@@ -250943,7 +250943,7 @@
         "company_name": "Western Digital",
         "id": "c4f83dec-1b03-48b9-a7f2-28b65ef20e55",
         "title": "Early Career Talent - Software Development Engineer - Apps",
-        "active": true,
+        "active": false,
         "date_updated": 1773267410,
         "date_posted": 1773267410,
         "url": "https://jobs.smartrecruiters.com/WesternDigital/744000114153367",
@@ -251852,7 +251852,7 @@
         "company_name": "Peraton",
         "id": "05b14a15-e909-409f-9146-de156b350012",
         "title": "Junior Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1773277542,
         "date_posted": 1773277542,
         "url": "https://careers-peraton.icims.com/jobs/164435/job?mobile=true&needsRedirect=false",
@@ -252257,7 +252257,7 @@
         "company_name": "Jerry",
         "id": "6a462399-ae35-4976-8151-d1bbbf44d49b",
         "title": "Applied Data Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1773278271,
         "date_posted": 1773278271,
         "url": "https://jobs.ashbyhq.com/jerry.ai/2b5810fb-ff0a-4a21-b330-b3669b2ab71f/application",
@@ -253865,7 +253865,7 @@
         "company_name": "Sainsbury's",
         "id": "ada7240d-4f4d-4e7f-b8bc-3c3c7a6b1040",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1773354184,
         "date_posted": 1773354184,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053212",
@@ -255646,5 +255646,106 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Rochester",
+        "id": "f6148df0-ed10-46d9-acab-e270399e4e65",
+        "title": "Data Scientist 1",
+        "active": true,
+        "date_updated": 1773414608,
+        "date_posted": 1773414608,
+        "url": "https://rochester.wd5.myworkdayjobs.com/UR_Staff/job/Strong-Memorial-Hospital/Data-Scientist-I_R256225",
+        "locations": [
+            "Rochester, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Rochester",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GE Vernova",
+        "id": "8b226ba0-cc69-41a2-aa95-38d782bf4441",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1773414428,
+        "date_posted": 1773414428,
+        "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Rugby/Software-Engineer_R5035016-1",
+        "locations": [
+            "Rugby, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Vernova",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "GE Vernova",
+        "id": "786f747f-2513-41c8-a221-a75c3c287b87",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1773414418,
+        "date_posted": 1773414418,
+        "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Rugby/Software-Engineer_R5035007",
+        "locations": [
+            "Rugby, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Vernova",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Flutter",
+        "id": "4db9fa1d-00ab-40ad-b573-d969f810c557",
+        "title": "Associate Trading Operations Executive",
+        "active": true,
+        "date_updated": 1773414607,
+        "date_posted": 1773414607,
+        "url": "https://flutterbe.wd3.myworkdayjobs.com/FlutterUKI_External/job/Dublin-Ireland/Associate-Trading-Operations-Exec_JR136786",
+        "locations": [
+            "Leeds, UK",
+            "Dublin, Ireland"
+        ],
+        "company_url": "https://simplify.jobs/c/Flutter",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Revantage Corporate Services",
+        "id": "270b01f8-4cc0-4fac-96b9-c74351ed1a47",
+        "title": "Analyst \u2013 Junior Quantitative Developer",
+        "active": true,
+        "date_updated": 1773414448,
+        "date_posted": 1773414448,
+        "url": "https://revantage.wd1.myworkdayjobs.com/Revantage/job/Remote---USA/Analyst--Junior-Quantitative-Developer_JR102973",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Revantage-Corporate-Services",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
     }
 ]
