@@ -14054,7 +14054,7 @@
         "company_name": "Adobe",
         "id": "d8d3887c-f0f5-45e9-af46-6c289c90d27f",
         "title": "MBA University Graduate - Product Manager",
-        "active": false,
+        "active": true,
         "date_updated": 1758358426,
         "date_posted": 1756434231,
         "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-MBA-University-Graduate---Product-Manager_R158962",
@@ -38745,7 +38745,7 @@
         "company_name": "Adobe",
         "id": "bd18507d-6522-487e-ab1c-37ae82793a0f",
         "title": "University Graduate - Applied Science",
-        "active": false,
+        "active": true,
         "date_updated": 1762923171,
         "date_posted": 1762473156,
         "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Seattle/XMLNAME-2026-University-Graduate---Applied-Science_R160136",
@@ -162055,7 +162055,7 @@
         "company_name": "Carnegie Mellon University",
         "id": "e1204472-c1a9-4741-b588-01dd20a51907",
         "title": "Associate Reverse Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1768606075,
         "date_posted": 1768606075,
         "url": "https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Associate-Reverse-Engineer-Researcher_2024059-1",
@@ -228480,7 +228480,7 @@
         "company_name": "Deutsche Bank",
         "id": "61839fbd-d48b-4798-8171-da3ae76a39cf",
         "title": "Java Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1772147916,
         "date_posted": 1772147916,
         "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Cary-3000-CentreGreen-Way/Java-Engineer---Associate_R0418350-3",
@@ -231924,7 +231924,7 @@
         "company_name": "Amentum",
         "id": "4b830373-a5a7-4d7b-a90d-8ee073dae27d",
         "title": "Configuration and Data Management Specialist",
-        "active": false,
+        "active": true,
         "date_updated": 1772235916,
         "date_posted": 1772235916,
         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-TX-Houston/Configuration-and-Data-Management-Specialist_R0153108-1",
@@ -244827,7 +244827,7 @@
         "company_name": "Amentum",
         "id": "2adbce3f-bd55-4022-a6f2-73838a518d94",
         "title": "Geophysical Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1772840589,
         "date_posted": 1772840589,
         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Geophysical-Analyst--Jr_R0155921",
@@ -253445,7 +253445,7 @@
         "company_name": "TD Bank",
         "id": "12c7a176-ab44-4cee-9ec4-c7a1c79d0157",
         "title": "Software Engineer 1 - Mainframe",
-        "active": false,
+        "active": true,
         "date_updated": 1773354416,
         "date_posted": 1773354416,
         "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-I--Mainframe-_R_1476716",
@@ -258057,6 +258057,27 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CACI",
+        "id": "be3e6141-9350-4a38-8c87-feb2d54f949d",
+        "title": "UAS Red Team Pilot",
+        "active": true,
+        "date_updated": 1773492974,
+        "date_posted": 1773492974,
+        "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-MD-Aberdeen-Proving-Ground/UAS-Red-Team-Pilot_323202",
+        "locations": [
+            "Aberdeen, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
         ]
     }
 ]
