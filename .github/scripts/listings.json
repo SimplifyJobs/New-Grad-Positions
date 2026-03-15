@@ -80760,25 +80760,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Baseten",
-        "id": "804671b5-678c-4cc9-bde9-67fac1f4c996",
-        "title": "GPU Kernel Engineer",
-        "active": false,
-        "date_updated": 1761866849,
-        "date_posted": 1752802376,
-        "url": "https://jobs.ashbyhq.com/baseten/ddb5bc98-6116-49a2-802e-1c05398663f1/application",
-        "locations": [
-            "SF",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Baseten",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Crowdstrike",
         "id": "2ac51bf3-0b24-48e1-81fb-2a535a16e730",
         "title": "Analyst 1  \u2013 Falcon Complete",
@@ -253425,7 +253406,7 @@
         "company_name": "Sainsbury's",
         "id": "7ea4e1f7-f360-4617-b95e-cebbe4c950ad",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1773353863,
         "date_posted": 1773353863,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053258",
@@ -253540,7 +253521,7 @@
         "company_name": "Sainsbury's",
         "id": "6dd7dcc7-d7b9-4323-8f49-d28eca98be2c",
         "title": "Trading Assistant - Shift",
-        "active": false,
+        "active": true,
         "date_updated": 1773354086,
         "date_posted": 1773354086,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053268",
@@ -258032,6 +258013,46 @@
             "Cheshire, CT"
         ],
         "company_url": "https://simplify.jobs/c/Airgas",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "RTX",
+        "id": "90f4c77b-2166-4a1d-bf3b-e2076cdbc1cf",
+        "title": "Analyst 1: Data & Analytics",
+        "active": true,
+        "date_updated": 1773490914,
+        "date_posted": 1773490914,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-REMOTE/Analyst-I--Data---Analytics--Remote-_01830083",
+        "locations": [
+            "Texas"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "3e5bc178-40c1-4293-a1d5-e82d0b8cbd47",
+        "title": "Electrical Components Engineer 1",
+        "active": true,
+        "date_updated": 1773490902,
+        "date_posted": 1773490902,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-315--315-Bob-Heath-Dr--BOB-HEATH/XMLNAME-2026-Fulltime-Raytheon-Electrical-Components-Engineer-I--Onsite-_01830287",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
