@@ -250192,7 +250192,7 @@
         "company_name": "Sainsbury's",
         "id": "c9e6c4de-76b9-4833-80d9-dc2af3f34d24",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1773238480,
         "date_posted": 1773238480,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052970",
@@ -258078,6 +258078,26 @@
         "degrees": [
             "Bachelor's",
             "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Carnegie Mellon University",
+        "id": "764d003a-5a6f-4bf8-942d-bbff43ca46e9",
+        "title": "Postdoctoral Research Associate - Print & Probability Project - Dietrich College",
+        "active": true,
+        "date_updated": 1773527085,
+        "date_posted": 1773527085,
+        "url": "https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Postdoctoral-Research-Associate---Print---Probability-Project---Dietrich-College_2024060",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Carnegie-Mellon-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
         ]
     }
 ]
