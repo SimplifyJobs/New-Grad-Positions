@@ -258017,5 +258017,25 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Airgas",
+        "id": "1150212b-0c7d-4c28-bc9d-b1247c30d0fd",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1773487536,
+        "date_posted": 1773487536,
+        "url": "https://airliquidehr.wd3.myworkdayjobs.com/airgasexternalcareer/job/Cheshire-CT-ATS---Management/Software-Engineer_R10086763",
+        "locations": [
+            "Cheshire, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/Airgas",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
