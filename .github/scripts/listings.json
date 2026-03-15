@@ -258171,5 +258171,26 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SOTI",
+        "id": "97a391eb-fe03-4889-9688-0349bb28d3e7",
+        "title": "Software Developer \u2013 New Grad - 8-month Contract",
+        "active": true,
+        "date_updated": 1773499220,
+        "date_posted": 1773499220,
+        "url": "https://soti.wd3.myworkdayjobs.com/Careers/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer---New-Grad--8-month-Contracts-_R09861-1",
+        "locations": [
+            "Mississauga, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/SOTI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
