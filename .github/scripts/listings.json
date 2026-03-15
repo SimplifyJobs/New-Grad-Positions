@@ -156605,7 +156605,7 @@
         "company_name": "General Dynamics Information Technology",
         "id": "36c9b7b4-9e96-49e9-adda-25c5ec121022",
         "title": "Junior Software Developer - Active TS/SCI with Poly Required",
-        "active": false,
+        "active": true,
         "date_updated": 1768347209,
         "date_posted": 1768347209,
         "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Junior-Software-Developer--Active-TS-SCI-with-Poly-Required-_RQ212931",
@@ -249171,7 +249171,7 @@
         "company_name": "Bank of America",
         "id": "4b4bdb4e-062f-4f8d-9d64-a9cdc8cb7bcb",
         "title": "Software Engineer 2 - Java",
-        "active": false,
+        "active": true,
         "date_updated": 1773181869,
         "date_posted": 1773181869,
         "url": "https://ghr.wd1.myworkdayjobs.com/us-emplsv/job/Charlotte/Software-Engineer-II-Java_26008505",
@@ -251107,7 +251107,7 @@
         "company_name": "Amentum",
         "id": "635a28ee-a239-4b9f-8200-e32eface0d61",
         "title": "C++ Junior Software Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1773268780,
         "date_posted": 1773268780,
         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/C---Junior-Software-Developer_R0156280",
@@ -251189,7 +251189,7 @@
         "company_name": "Dimensional Fund Advisors",
         "id": "ced23cdc-0261-4635-a4d1-abefa1c3f852",
         "title": "Analyst/Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1773268068,
         "date_posted": 1773268068,
         "url": "https://dimensional.wd5.myworkdayjobs.com/dfa_careers/job/Austin/Analyst-Associate--Investment-Solutions-Group--Tax-Focused-_2026-8714",
@@ -251931,7 +251931,7 @@
         "company_name": "Globus Medical",
         "id": "05d493ab-098c-46d8-aa5c-bafc4611c1a8",
         "title": "Associate Product Manager",
-        "active": false,
+        "active": true,
         "date_updated": 1773269329,
         "date_posted": 1773269329,
         "url": "https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Audubon-PA/Associate-Product-Manager_JR105815",
@@ -257979,5 +257979,43 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Micron Technology",
+        "id": "1b084ee5-3448-42f1-819d-c4fc903c9b23",
+        "title": "Graduate Design Architect - Design Architect - HBM",
+        "active": true,
+        "date_updated": 1773492992,
+        "date_posted": 1773492992,
+        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/New-College-Grad---Design-Architect--HBM_JR93489",
+        "locations": [
+            "Richardson, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Micron-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Stanley Black & Decker",
+        "id": "e6db1a56-27b0-4734-ae86-d204b7d67ff7",
+        "title": "Engineering Technician - Engines",
+        "active": true,
+        "date_updated": 1773483309,
+        "date_posted": 1773483309,
+        "url": "https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Valley-City-OH-United-States/Engineering-Technician--Engines_REQ-1000046253",
+        "locations": [
+            "Strongsville, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Stanley-Black-Decker",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
