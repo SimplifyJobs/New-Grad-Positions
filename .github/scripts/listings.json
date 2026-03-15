@@ -2,41 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Jerry",
-        "id": "f74c215f-f679-4382-ba30-752294713896",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1752880857,
-        "date_posted": 1752880857,
-        "url": "https://jobs.ashbyhq.com/Jerry/eb8a6a97-8177-4c5b-a607-afe98c8d4cfb/application",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Jerry",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Jerry",
-        "id": "3cfcb567-840d-47ed-ab5f-74a04168f3e9",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1752880856,
-        "date_posted": 1752880856,
-        "url": "https://jobs.ashbyhq.com/Jerry/b1126803-047b-4af5-97b1-70a2cc31d8f5/application",
-        "locations": [
-            "Toronto, ON, Canada",
-            "Greater Toronto Area, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Jerry",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Qualtrics",
         "id": "be5e98af-2684-4b4b-8de3-e4607b69e672",
         "title": "Software Engineer I - Foundation",
