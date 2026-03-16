@@ -258486,5 +258486,23 @@
         "date_posted": 1773651998,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1773652227,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://belk.wd1.myworkdayjobs.com/en-US/careers-collegecampus/job/Charlotte-NC---Corporate-Office/June-2026---Retail-Development-Program---Software-Engineering--Front-End_JR-99495-2",
+        "company_name": "Belk",
+        "title": "Retail Development Program - Software Engineering, Front-End",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "8ca74465-ee54-4706-bf18-5571d78c76c8",
+        "date_posted": 1773652227,
+        "company_url": "",
+        "is_visible": true
     }
 ]
