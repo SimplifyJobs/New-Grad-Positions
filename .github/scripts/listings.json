@@ -76466,7 +76466,7 @@
         "company_name": "AlphaSights",
         "id": "0485f920-641d-4c62-b891-89f06d38f531",
         "title": "Graduate Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1761834559,
         "date_posted": 1754680577,
         "url": "https://www.alphasights.com/careers/open-roles?gh_jid=6450783",
@@ -258444,5 +258444,29 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "IBM",
+        "id": "14b4120c-47e0-4863-8449-1fec8d070d52",
+        "title": "Associate Application Developer - Salesforce",
+        "active": true,
+        "date_updated": 1773641813,
+        "date_posted": 1773641813,
+        "url": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=87201",
+        "locations": [
+            "Houston, TX",
+            "SF",
+            "Austin, TX",
+            "Dallas, TX",
+            "Chicago, IL",
+            "NYC",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/IBM",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
