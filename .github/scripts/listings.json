@@ -80656,24 +80656,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Runpod",
-        "id": "499fa038-6f4a-4c4b-81ca-389b088d3246",
-        "title": "Software Engineer - Full-Stack",
-        "active": true,
-        "date_updated": 1752905269,
-        "date_posted": 1752905269,
-        "url": "https://job-boards.greenhouse.io/runpod/jobs/4785681008",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Runpod",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Crowdstrike",
         "id": "2ac51bf3-0b24-48e1-81fb-2a535a16e730",
         "title": "Analyst 1  \u2013 Falcon Complete",
@@ -258307,5 +258289,117 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "IBM",
+        "id": "f5c7d23b-688f-4460-8bf8-9c73db57da26",
+        "title": "Associate Application Developer",
+        "active": true,
+        "date_updated": 1773641835,
+        "date_posted": 1773641835,
+        "url": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=87273",
+        "locations": [
+            "Houston, TX",
+            "SF",
+            "Austin, TX",
+            "Dallas, TX",
+            "Chicago, IL",
+            "Reston, VA",
+            "NYC",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/IBM",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "IBM",
+        "id": "a7462ae1-e7bc-4fbc-8989-08806cf9d9ea",
+        "title": "Associate AI & Analytics - Data Scientist-Finance Transformation",
+        "active": true,
+        "date_updated": 1773642129,
+        "date_posted": 1773642129,
+        "url": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=97086",
+        "locations": [
+            "Houston, TX",
+            "Austin, TX",
+            "Dallas, TX",
+            "Durham, NC",
+            "Chicago, IL",
+            "NYC",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/IBM",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "IBM",
+        "id": "bc799c3c-1f7c-4597-a3f4-47fa07d3b9e0",
+        "title": "API Developer",
+        "active": true,
+        "date_updated": 1773641423,
+        "date_posted": 1773641423,
+        "url": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=93291",
+        "locations": [
+            "Calgary, AB, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/IBM",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "8d705f4e-96fc-4441-a14f-fb49ff19b660",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1773641823,
+        "date_posted": 1773641823,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052354",
+        "locations": [
+            "Letchworth Garden City, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Secureframe",
+        "id": "62969ff5-55ea-4213-999d-0154730708f3",
+        "title": "Graduate Software Engineer - Product",
+        "active": true,
+        "date_updated": 1773641898,
+        "date_posted": 1773641898,
+        "url": "https://jobs.lever.co/secureframe/5138ce50-65dc-4818-8940-a78b3d0bbd4f/apply",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Secureframe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
