@@ -27246,7 +27246,7 @@
         "company_name": "mthree",
         "id": "23cb0aa4-4617-4868-aa0f-03d66945fe2e",
         "title": "Entry Level Full-Stack Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1763086597,
         "date_posted": 1763086597,
         "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4613045006",
@@ -241689,7 +241689,7 @@
         "company_name": "Sainsbury's",
         "id": "e5a2f9f3-0cc2-4f07-b518-785e7ef4aa47",
         "title": "Trading Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1772723423,
         "date_posted": 1772723423,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052112",
@@ -247947,7 +247947,7 @@
         "company_name": "Sainsbury's",
         "id": "7054067a-043a-4bf3-8c47-8536523d920c",
         "title": "Trading Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1773134627,
         "date_posted": 1773134627,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052682",
@@ -258716,5 +258716,175 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GE Vernova",
+        "id": "781e3a3e-d6b5-4da0-80e0-5978b2ef5f55",
+        "title": "Software Engineer - Dp",
+        "active": true,
+        "date_updated": 1773671060,
+        "date_posted": 1773671060,
+        "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Rugby/Software-Engineer----DP_R5035145-2",
+        "locations": [
+            "Rugby, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Vernova",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "OakNorth Bank",
+        "id": "fe6e2c41-ac87-41e1-8110-6ee911d8d882",
+        "title": "Junior Software Engineer",
+        "active": true,
+        "date_updated": 1773670645,
+        "date_posted": 1773670645,
+        "url": "https://jobs.lever.co/oaknorth.ai/28daf547-064c-4f8f-a69b-17b6a2aab2f5/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/OakNorthBank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "bd4e47d7-d6ac-48a1-8a6a-ed8778cce601",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1773670602,
+        "date_posted": 1773670602,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053653",
+        "locations": [
+            "Norwich, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "a3010480-7ba0-4573-a9ad-b777c271b843",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1773670611,
+        "date_posted": 1773670611,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053659",
+        "locations": [
+            "Nottingham, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "e9a74c71-6c27-49aa-abbc-7be79e78331c",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1773670504,
+        "date_posted": 1773670504,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053657",
+        "locations": [
+            "York, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "af3ec817-622f-4c7d-9975-74bf4c6cfce7",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1773670501,
+        "date_posted": 1773670501,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053637",
+        "locations": [
+            "Newcastle upon Tyne, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "JP Morgan Chase",
+        "id": "5d288056-16f3-47e5-9e66-e6578a0b3bd9",
+        "title": "Anaplan Model Builder - Associate",
+        "active": true,
+        "date_updated": 1773670522,
+        "date_posted": 1773670522,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210723910",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Dordt University",
+        "id": "da3007e0-c576-45aa-a5c1-6cea579ba9f2",
+        "title": "AI Developer",
+        "active": true,
+        "date_updated": 1773669920,
+        "date_posted": 1773669920,
+        "url": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=93715",
+        "locations": [
+            "Calgary, AB, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Dordt-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Riverside Research",
+        "id": "caf80125-14e9-4cd7-ae6b-f0ab9e1e7a62",
+        "title": "Software Engineer - Multiple Teams",
+        "active": true,
+        "date_updated": 1773670123,
+        "date_posted": 1773670123,
+        "url": "https://careers-riversideresearch.icims.com/jobs/4127/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Lexington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Riverside-Research",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
