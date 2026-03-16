@@ -258468,5 +258468,23 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "date_updated": 1773651998,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.baesystems.com/global/en/job/BAE1US122188BREXTERNAL/Software-Engineer-I-Entry-Level",
+        "company_name": "BAE Systems",
+        "title": "Software Engineer I (Entry Level)",
+        "locations": [
+            "Patuxent River, MD"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "9c624cdd-2c56-4197-abcf-968dc287de87",
+        "date_posted": 1773651998,
+        "company_url": "",
+        "is_visible": true
     }
 ]
