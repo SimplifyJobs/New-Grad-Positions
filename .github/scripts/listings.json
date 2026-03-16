@@ -132085,7 +132085,7 @@
         "company_name": "Blackhawk Network Holdings",
         "id": "93ef514d-929c-4719-92d2-6ccbc4385c9c",
         "title": "Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1766508047,
         "date_posted": 1766508047,
         "url": "https://careers-blackhawknetwork.icims.com/jobs/24910/job?mobile=true&needsRedirect=false",
@@ -185755,7 +185755,7 @@
         "company_name": "Paramount Global",
         "id": "4cbba087-43bb-4f51-bd29-faf32422bec0",
         "title": "Analyst \u2013 Global Content & Lifecycle Analytics",
-        "active": false,
+        "active": true,
         "date_updated": 1770073890,
         "date_posted": 1770073890,
         "url": "https://careers.paramount.com/job/New-York-Analyst,-Global-Content-&-Lifecycle-Analytics-NY-10036/1361212900/?ats=successfactors",
@@ -259044,6 +259044,277 @@
         "sponsorship": "Other",
         "degrees": [
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "fa2c1725-fe48-49ab-a61a-c359707f248f",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1773699574,
+        "date_posted": 1773699574,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053741",
+        "locations": [
+            "Warwick, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "eb335caa-6310-4406-9fe8-80f40a9e30b8",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1773699579,
+        "date_posted": 1773699579,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053732",
+        "locations": [
+            "Harlow, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Clorox",
+        "id": "b4b675c1-ad17-4634-926e-fc0f643a8ddc",
+        "title": "Analytics Analyst",
+        "active": true,
+        "date_updated": 1773699682,
+        "date_posted": 1773699682,
+        "url": "https://clorox.wd1.myworkdayjobs.com/InviteClorox/job/Oakland-CA---USA/Analytics-Analyst_21345",
+        "locations": [
+            "Oakland, CA",
+            "Pleasanton, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Clorox",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "5cdb798c-0a1a-45f4-b8e4-17a4eac8f3f9",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1773699567,
+        "date_posted": 1773699567,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052926",
+        "locations": [
+            "Durham, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Skyward",
+        "id": "565cf6c9-dc1a-407a-b64c-2462bc43dddd",
+        "title": "State and Federal Compliance Analyst",
+        "active": true,
+        "date_updated": 1773699763,
+        "date_posted": 1773699763,
+        "url": "https://jobs.smartrecruiters.com/Skyward1/744000115020399",
+        "locations": [
+            "Plover, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Skyward",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "4a5078aa-0c3d-41c2-af6c-095a1351fd9b",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1773699573,
+        "date_posted": 1773699573,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053676",
+        "locations": [
+            "Edinburgh, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Huntington Ingalls Industries",
+        "id": "3af77b0e-165b-429c-b348-88b3dec91f80",
+        "title": "Corporate Data Analyst 1",
+        "active": true,
+        "date_updated": 1773699771,
+        "date_posted": 1773699771,
+        "url": "https://careers.huntingtoningalls.com/job/Newport-News-CORPORATE-DATA-ANALYST-1-Virg/1373622900/?ats=successfactors",
+        "locations": [
+            "Newport News, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Huntington-Ingalls-Industries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "JP Morgan Chase",
+        "id": "34d37206-2496-4678-b3c9-4cfe34e4971c",
+        "title": "Trading Services Analyst",
+        "active": true,
+        "date_updated": 1773699616,
+        "date_posted": 1773699616,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210724820",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "055726f0-b9c7-4621-97d5-7c6ca928a7da",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1773699578,
+        "date_posted": 1773699578,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053743",
+        "locations": [
+            "Warwick, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jerry",
+        "id": "d558d8fb-b1b8-4c23-8dd8-27108666416a",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1773699077,
+        "date_posted": 1773699077,
+        "url": "https://jobs.ashbyhq.com/jerry.ai/ae391882-ae86-495d-84a2-90f35b0e806d/application",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "The Children's Mercy Hospital",
+        "id": "3694f3d4-26c5-4bb4-8808-4c61e3f5b3d2",
+        "title": "Investment Analyst 1",
+        "active": true,
+        "date_updated": 1773698944,
+        "date_posted": 1773698944,
+        "url": "https://jobs-childrensmercykc.icims.com/jobs/37521/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Kansas City, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Childrens-Mercy-Hospital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "2K",
+        "id": "a11414f5-8c3d-4f73-b194-874b3c54ba62",
+        "title": "Associate Software Engineer 1",
+        "active": true,
+        "date_updated": 1773699072,
+        "date_posted": 1773699072,
+        "url": "https://job-boards.greenhouse.io/2k/jobs/7659495003",
+        "locations": [
+            "Burnaby, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/2k",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "General Dynamics Mission Systems",
+        "id": "0783c599-29f2-4efb-84c7-defbff1e2335",
+        "title": "Software Engineer \u2013 Entry Level",
+        "active": true,
+        "date_updated": 1773698805,
+        "date_posted": 1773698805,
+        "url": "https://careers-gdms.icims.com/jobs/71514/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Manassas, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Texas - Austin",
+        "id": "9fd96417-072c-4594-a05c-987479f1de10",
+        "title": "Postdoctoral Fellow",
+        "active": true,
+        "date_updated": 1773698555,
+        "date_posted": 1773698555,
+        "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Postdoctoral-Fellow_R_00044875",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Texas-Austin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
         ]
     }
 ]
