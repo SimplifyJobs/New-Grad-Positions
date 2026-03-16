@@ -258655,5 +258655,48 @@
         "date_posted": 1773654399,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SS&C",
+        "id": "48d08714-4a83-4fc1-997b-9397f8bdc911",
+        "title": "Product Solutions Analyst",
+        "active": true,
+        "date_updated": 1773654358,
+        "date_posted": 1773654358,
+        "url": "https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Boston-MA/Solutions-Engineer_R40939",
+        "locations": [
+            "Boston, MA",
+            "Chicago, IL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/SSC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SOTI",
+        "id": "205d02b0-3be2-4d49-9ba8-bc31b8219cd6",
+        "title": "Software Developer New Grad",
+        "active": true,
+        "date_updated": 1773654097,
+        "date_posted": 1773654097,
+        "url": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer---New-Grad--8-month-Contracts-_R09861",
+        "locations": [
+            "Mississauga, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/SOTI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
