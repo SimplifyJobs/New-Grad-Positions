@@ -258401,5 +258401,48 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "TikTok",
+        "id": "bdbdd4db-8be6-4e18-ad13-b89ef04988d5",
+        "title": "Associate Product Manager - TikTok Content Ecosystem",
+        "active": true,
+        "date_updated": 1773642673,
+        "date_posted": 1773642673,
+        "url": "https://lifeattiktok.com/search/7616433664344115461",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "IBM",
+        "id": "90df0a1a-4d7d-412c-bc2d-fc2a229d51ec",
+        "title": "Associate Application Developer - Hybrid Cloud and Data",
+        "active": true,
+        "date_updated": 1773641846,
+        "date_posted": 1773641846,
+        "url": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=87004",
+        "locations": [
+            "East Lansing, MI",
+            "Baton Rouge, LA",
+            "Buffalo, NY",
+            "Dundee, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/IBM",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
