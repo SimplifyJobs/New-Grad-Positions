@@ -258886,5 +258886,103 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "U.S. Bank",
+        "id": "7e058073-fe44-4921-9d3f-dd5bcbb31840",
+        "title": "Graduate Product Manager",
+        "active": true,
+        "date_updated": 1773672895,
+        "date_posted": 1773672895,
+        "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/London-United-Kingdom/Product-Management-Graduate_2026-0003477",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/US-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "BlackRock",
+        "id": "449fb50b-ae42-427b-80cd-d13c4c35b3f0",
+        "title": "Aladdin Client Transformations Associate - Front Office - Associate",
+        "active": true,
+        "date_updated": 1773672495,
+        "date_posted": 1773672495,
+        "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/Edinburgh-Scotland/Aladdin-Client-Transformations-Associate---Front-Office--Associate_R260606",
+        "locations": [
+            "Edinburgh, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/BlackRock",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Hamilton Lane",
+        "id": "68720529-46ca-494e-85d7-30fbc7b74979",
+        "title": "Analyst \u2013 Sustainability",
+        "active": true,
+        "date_updated": 1773672096,
+        "date_posted": 1773672096,
+        "url": "https://hamiltonlane.wd108.myworkdayjobs.com/Search/job/London-England-United-Kingdom/Analyst--Sustainability_R002929",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Hamilton-Lane",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "State Street",
+        "id": "12037ab8-615e-45f6-a8fb-18267e3a2f9d",
+        "title": "Technical Product Management",
+        "active": true,
+        "date_updated": 1773672110,
+        "date_posted": 1773672110,
+        "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Technical-Product-Management--VP-4_R-783639",
+        "locations": [
+            "Burlington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/State-Street",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "State Street",
+        "id": "25e21a98-5255-43de-bdb4-c909554f9bb2",
+        "title": "Front Office Trading Services - Foreign Exchange - Financing Solutions",
+        "active": true,
+        "date_updated": 1773671776,
+        "date_posted": 1773671776,
+        "url": "https://statestreet.wd1.myworkdayjobs.com/en-US/equest/job/London-England/Front-Office-Trading-Services--FX-FS--Officer_R-785152",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/State-Street",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
