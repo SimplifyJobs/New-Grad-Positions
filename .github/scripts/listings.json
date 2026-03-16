@@ -258578,5 +258578,23 @@
         "date_posted": 1773652884,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1773653010,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://labcorp.wd1.myworkdayjobs.com/en-US/external/job/USA---NC---Durham---10-Moore-Drive/Software-Engineer-I_265515",
+        "company_name": "Labcorp",
+        "title": "Software Engineer I",
+        "locations": [
+            "Durham, NC"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "65074ed1-7012-42c2-a5d9-94765b8a47cc",
+        "date_posted": 1773653010,
+        "company_url": "",
+        "is_visible": true
     }
 ]
