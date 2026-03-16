@@ -258637,5 +258637,23 @@
         "date_posted": 1773653575,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1773654399,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://allegion.wd5.myworkdayjobs.com/en-US/careers/job/Carmel-IN/Associate-AI-Engineer_JR35531",
+        "company_name": "Allegion",
+        "title": "Associate AI Engineer",
+        "locations": [
+            "Carmel, IN"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "9b568468-f050-4811-808a-0cfb480c8550",
+        "date_posted": 1773654399,
+        "company_url": "",
+        "is_visible": true
     }
 ]
