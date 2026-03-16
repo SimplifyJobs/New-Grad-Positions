@@ -258560,5 +258560,23 @@
         "date_posted": 1773652748,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1773652884,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://intelliforceitsolutionsgroup.applytojob.com/apply/uVOPHbn9X0/Junior-Software-Engineer-Fully-Cleared",
+        "company_name": "Intelliforce",
+        "title": "Junior Software Engineer- Fully Cleared",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "b6e40a32-ffd7-4ca4-8c20-990663d99bd9",
+        "date_posted": 1773652884,
+        "company_url": "",
+        "is_visible": true
     }
 ]
