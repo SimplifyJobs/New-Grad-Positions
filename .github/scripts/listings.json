@@ -258984,5 +258984,66 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "PNC Financial Services",
+        "id": "3e524801-a535-46d3-837c-bfeb733bc729",
+        "title": "Software Engineer - Associate",
+        "active": true,
+        "date_updated": 1773673415,
+        "date_posted": 1773673415,
+        "url": "https://pnc.wd5.myworkdayjobs.com/External/job/CO---Lakewood-80215/Software-Engineer--Associate_R214913-1",
+        "locations": [
+            "Lakewood, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/PNC-Financial-Services",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Accenture",
+        "id": "42000913-f8e5-4c45-916d-77c7a92ff540",
+        "title": "Oracle/PLSQL/APEX Level",
+        "active": true,
+        "date_updated": 1773673354,
+        "date_posted": 1773673354,
+        "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Sevilla-Bluenet/Oracle-PLSQL-APEX-Level-12_14207153",
+        "locations": [
+            "Seville, Spain",
+            "Eagan, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Accenture-FS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Morgan Stanley",
+        "id": "d6430deb-8e29-49fc-aaee-e12a8b94daa0",
+        "title": "Risk Analytics - Analyst",
+        "active": true,
+        "date_updated": 1773673031,
+        "date_posted": 1773673031,
+        "url": "https://ms.wd5.myworkdayjobs.com/private/job/London-United-Kingdom/Risk-Analytics--Analyst_PT-JR032201",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Morgan-Stanley",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
     }
 ]
