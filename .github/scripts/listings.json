@@ -258504,5 +258504,25 @@
         "date_posted": 1773652227,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1773652450,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://cat.wd5.myworkdayjobs.com/en-US/caterpillarcareers/job/Irving-Texas/Software-Engineer-1_R0000355583",
+        "company_name": "Caterpillar",
+        "title": "Software Engineer 1",
+        "locations": [
+            "Irving, TX",
+            "Peoria, IL",
+            "Mossville, IL"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "e6d8053a-1c94-4ff5-9080-2f88cc1e9769",
+        "date_posted": 1773652450,
+        "company_url": "",
+        "is_visible": true
     }
 ]
