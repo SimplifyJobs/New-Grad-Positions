@@ -258619,5 +258619,23 @@
         "date_posted": 1773653165,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1773653575,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://apply.workable.com/optitrack/j/DFD96026F7/",
+        "company_name": "OptiTrack",
+        "title": "Associate Software Engineer",
+        "locations": [
+            "Corvallis, OR"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "bdecc182-0435-4155-8a5b-f656838c14e4",
+        "date_posted": 1773653575,
+        "company_url": "",
+        "is_visible": true
     }
 ]
