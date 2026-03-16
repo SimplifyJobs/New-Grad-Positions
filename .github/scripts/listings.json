@@ -258619,5 +258619,23 @@
         "date_posted": 1773653165,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1773653410,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4807834101",
+        "company_name": "Man Group",
+        "title": "Associate Software Engineer",
+        "locations": [
+            "Boston, MA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "ef71ff8e-642e-4759-b2f3-54dcce5f1aa0",
+        "date_posted": 1773653410,
+        "company_url": "",
+        "is_visible": true
     }
 ]
