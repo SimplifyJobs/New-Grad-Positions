@@ -260188,5 +260188,25 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Texas A&M University System",
+        "id": "ce824613-3baa-41e2-a520-21be64235707",
+        "title": "Postdoctoral Researcher",
+        "active": true,
+        "date_updated": 1773729199,
+        "date_posted": 1773729199,
+        "url": "https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/Prairie-View-TX/Postdoctoral-Researcher--CREDIT-_R-079402-2",
+        "locations": [
+            "Prairie View, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Texas-AM-University-System",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
     }
 ]
