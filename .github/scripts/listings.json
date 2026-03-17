@@ -260062,5 +260062,131 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Texas A&M University System",
+        "id": "c7450821-260f-44c6-b528-718201a0a604",
+        "title": "Postdoctoral Researcher",
+        "active": true,
+        "date_updated": 1773729163,
+        "date_posted": 1773729163,
+        "url": "https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/Prairie-View-TX/Postdoctoral-Researcher--PIER---Pioneering-Advanced-Materials-for-Renewable-Energy---2_R-089861-1",
+        "locations": [
+            "Prairie View, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Texas-AM-University-System",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Aurora Innovation",
+        "id": "c9cea194-4359-4677-af86-57f85ced4893",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1773728893,
+        "date_posted": 1773728893,
+        "url": "https://aurora.tech/jobs/8159549002?gh_jid=8159549002",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Aurora-Innovation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Sumitomo Pharma America",
+        "id": "59a5b61d-26f5-4db9-80a1-cd792d1386a1",
+        "title": "Analytical Sciences Associate",
+        "active": true,
+        "date_updated": 1773728828,
+        "date_posted": 1773728828,
+        "url": "https://sumitomopharma.wd5.myworkdayjobs.com/smpa/job/US-Remote/Analytical-Sciences-Associate_R01229",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Sumitomo-Pharma-America",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Texas A&M University - College Station",
+        "id": "38334fff-26a2-4a56-8ab2-7e2e7a4f7322",
+        "title": "Postdoctoral Research Associate - Postdoctoral Research Associate",
+        "active": true,
+        "date_updated": 1773728923,
+        "date_posted": 1773728923,
+        "url": "https://tamus.wd1.myworkdayjobs.com/TAMU_External/job/College-Station-TX/Postdoctoral-Research-Associate_R-089574-2",
+        "locations": [
+            "College Station, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Texas-AM-University-College-Station",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "TaylorMade Golf",
+        "id": "21f7377a-a85e-4d98-ac66-f91099df24bd",
+        "title": "Associate Product Evaluation Analyst",
+        "active": true,
+        "date_updated": 1773728850,
+        "date_posted": 1773728850,
+        "url": "https://taylormadegolf.wd5.myworkdayjobs.com/taylormadegolf/job/Carlsbad-California/Associate-Business-Analyst-Product-Evaluation_R0003330",
+        "locations": [
+            "Carlsbad, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TaylorMade-Golf",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Synchrony Financial",
+        "id": "053c1e68-0995-404a-9c2a-650f4aa636ea",
+        "title": "University Direct Hire Program",
+        "active": true,
+        "date_updated": 1773728846,
+        "date_posted": 1773728846,
+        "url": "https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Stamford-Site/University-Direct-Hire-Program---Technology_2503733",
+        "locations": [
+            "Stamford, CT",
+            "Chicago, IL",
+            "NYC",
+            "Illinois"
+        ],
+        "company_url": "https://simplify.jobs/c/Synchrony-Financial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
