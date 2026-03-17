@@ -219239,7 +219239,7 @@
         "company_name": "Sainsbury's",
         "id": "d34df524-d229-4689-a5a4-3cd5e143831a",
         "title": "Trading Assistant - Shift",
-        "active": false,
+        "active": true,
         "date_updated": 1771801722,
         "date_posted": 1771801722,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050632",
@@ -260346,5 +260346,155 @@
         "degrees": [
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "John Deere",
+        "id": "9e9ecd4e-fd20-4170-ac0b-c6622a9c5593",
+        "title": "Control Systems Engineer - Product Engineering",
+        "active": true,
+        "date_updated": 1773757177,
+        "date_posted": 1773757177,
+        "url": "https://johndeere.eightfold.ai/careers/job/137479708535",
+        "locations": [
+            "Dubuque, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/John-Deere",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "faf2083b-f24b-4bd5-88ca-cf4f3b9918aa",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1773756718,
+        "date_posted": 1773756718,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053376",
+        "locations": [
+            "Portsmouth, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "cd0174a1-2509-43d2-ac3d-24b12c8afec3",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1773756723,
+        "date_posted": 1773756723,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053830",
+        "locations": [
+            "Trafford, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Dominion Energy",
+        "id": "c28af01d-5659-441b-b3f6-200a5d65ea90",
+        "title": "Associate Engineer/Engineer/Senior Engineer - Electric Transmission Operations Analytics",
+        "active": true,
+        "date_updated": 1773756819,
+        "date_posted": 1773756819,
+        "url": "https://careers.dominionenergy.com/job/GLEN-ALLEN-Associate-EngineerEngineerSr_-Engineer-Electric-Transmission-Operations-Analytics-VA-23060/1373988200/?ats=successfactors",
+        "locations": [
+            "Glen Allen, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Dominion-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "9a76f81a-9042-4f44-8b77-f9f7a6418dc2",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1773756721,
+        "date_posted": 1773756721,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053789",
+        "locations": [
+            "Crawley, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "953d3148-b3f0-4c7b-8f24-7f2e8bcce5a0",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1773756730,
+        "date_posted": 1773756730,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053849",
+        "locations": [
+            "Cornwall, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "8915ca08-8581-4bf8-87a9-75a370d4bf08",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1773756724,
+        "date_posted": 1773756724,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053848",
+        "locations": [
+            "Norwich, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The University of Edinburgh",
+        "id": "1acfa2d8-77af-4dd7-bee1-c564a9d6c5b0",
+        "title": "Research Associate",
+        "active": true,
+        "date_updated": 1773756733,
+        "date_posted": 1773756733,
+        "url": "https://elxw.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/13930",
+        "locations": [
+            "Edinburgh, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/The-University-Of-Edinburgh",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
