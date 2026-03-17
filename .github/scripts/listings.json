@@ -259753,5 +259753,211 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "WellSky",
+        "id": "f8c58670-70c8-4f65-97f6-cf941f687ee7",
+        "title": "Product Analyst",
+        "active": true,
+        "date_updated": 1773710635,
+        "date_posted": 1773710635,
+        "url": "https://wellsky.wd1.myworkdayjobs.com/WellSkyCareers/job/Overland-Park-KS/Product-Analyst_JR4571",
+        "locations": [
+            "Overland Park, KS"
+        ],
+        "company_url": "https://simplify.jobs/c/WellSky",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northrop Grumman",
+        "id": "c06861e3-5438-46dc-859b-0ee3e83cdf24",
+        "title": "Associate Systems Engineer/Systems Engineer",
+        "active": true,
+        "date_updated": 1773702362,
+        "date_posted": 1773702362,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Sunnyvale/XMLNAME-2026-Associate-Systems-Engineer-Systems-Engineer---Sunnyvale-CA_R10226049",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "GE Healthcare",
+        "id": "0422d91a-9ece-46ca-a10c-e3b152fe6a8b",
+        "title": "Account Data Analyst",
+        "active": true,
+        "date_updated": 1773703298,
+        "date_posted": 1773703298,
+        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Account-Data-Analyst_R4037507-2",
+        "locations": [
+            "Waukesha, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Healthcare",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "e174f883-7263-4480-9784-642c4721146c",
+        "title": "Software Engineer - Algorithm Software Engineer",
+        "active": true,
+        "date_updated": 1773711947,
+        "date_posted": 1773711947,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Engineer-Software---Algorithm-SW-Engineer--26-112-_R10226037",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Charles Schwab",
+        "id": "95b4a4fa-eefe-4521-a2b9-6e24fa76e193",
+        "title": "Associate Software Development Engineer",
+        "active": true,
+        "date_updated": 1773709700,
+        "date_posted": 1773709700,
+        "url": "https://career-schwab.icims.com/jobs/119954/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Southlake, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Charles-Schwab",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "NVIDIA",
+        "id": "9a34b614-896b-455d-ab81-d4c6f2ee41bc",
+        "title": "Software Engineer - Hardware Tools and Methodology",
+        "active": true,
+        "date_updated": 1773711464,
+        "date_posted": 1773711464,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Hardware-Tools-and-Methodology---New-College-Grad-2026_JR2014649",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "NVIDIA",
+        "id": "44be7251-bcb8-4f2f-852e-0fb4d69512de",
+        "title": "Research Scientist \u2013 New College Grad - Fundamental Generative AI",
+        "active": true,
+        "date_updated": 1773711461,
+        "date_posted": 1773711461,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Fundamental-Generative-AI---New-College-Grad-2026_JR2013293-3",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "65935bad-8182-4b85-915e-56e9567f34d8",
+        "title": "Systems Engineer 1 - Systems Engineer I - Electro-Optical",
+        "active": true,
+        "date_updated": 1773711278,
+        "date_posted": 1773711278,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/XMLNAME-2026-Raytheon-Full-Time---Systems-Engineer-I---Electro-Optical---McKinney--TX--Onsite-_01830535",
+        "locations": [
+            "McKinney, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "NVIDIA",
+        "id": "0d7c5495-ea1e-420c-abd4-78fb1698eae5",
+        "title": "SOC Hardware Engineer",
+        "active": true,
+        "date_updated": 1773711466,
+        "date_posted": 1773711466,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SOC-Hardware-Engineer----New-College-Grad-2026_JR2014039",
+        "locations": [
+            "Austin, TX",
+            "Santa Clara, CA",
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Relativity Space",
+        "id": "f7b65cee-3013-4885-8b56-ee5dc9a03b7b",
+        "title": "Simulation Software Engineer 1",
+        "active": true,
+        "date_updated": 1773710809,
+        "date_posted": 1773710809,
+        "url": "https://boards.greenhouse.io/relativity/jobs/8465281002",
+        "locations": [
+            "Long Beach, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Relativity-Space",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
     }
 ]
