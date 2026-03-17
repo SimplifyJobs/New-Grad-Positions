@@ -206172,7 +206172,7 @@
         "company_name": "ibotta",
         "id": "aa4cdd51-6f32-4980-99dc-b954617f27fc",
         "title": "Associate Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1771026094,
         "date_posted": 1771026094,
         "url": "https://ibotta.wd1.myworkdayjobs.com/en-US/Ibotta/job/Denver-CO/Associate-Software-Engineer_R-102337",
@@ -214465,7 +214465,7 @@
         "company_name": "CAE",
         "id": "3ccca4ee-060c-400f-8020-788d2b4b3d32",
         "title": "Simulator Technician 1",
-        "active": false,
+        "active": true,
         "date_updated": 1771544822,
         "date_posted": 1771544822,
         "url": "https://cae.wd3.myworkdayjobs.com/career/job/Orlando/Simulator-Technician-I_119502",
@@ -260735,5 +260735,229 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Argonne National Laboratory",
+        "id": "d3f9488b-1209-4cae-8523-743179bcd8ab",
+        "title": "Postdoctoral Appointee - Multiple Teams",
+        "active": true,
+        "date_updated": 1773787983,
+        "date_posted": 1773787983,
+        "url": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---Machine-Learning--Control--and-Cybersecurity-for-Power-Systems_422353",
+        "locations": [
+            "Woodridge, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Argonne-National-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "1a343bfc-6ccf-446b-9d43-9d1cc831de52",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1773787551,
+        "date_posted": 1773787551,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineer-I--Onsite-_01829721",
+        "locations": [
+            "Dulles, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Howden",
+        "id": "33a68919-f11c-48cf-a1af-8d09eb9e86c4",
+        "title": "Data Graduate",
+        "active": true,
+        "date_updated": 1773787226,
+        "date_posted": 1773787226,
+        "url": "https://hyperiongrp.wd3.myworkdayjobs.com/Hyperion_External/job/Home---UK--England/Data-Graduate_R0016594-1",
+        "locations": [
+            "United Kingdom"
+        ],
+        "company_url": "https://simplify.jobs/c/Howden",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Loyola Marymount University",
+        "id": "508babe7-78bc-4190-a870-2dc2886220d2",
+        "title": "Instructor of Mathematics - Statistics and Data Science",
+        "active": true,
+        "date_updated": 1773786951,
+        "date_posted": 1773786951,
+        "url": "https://lmu.wd1.myworkdayjobs.com/careers/job/Westchester-Campus/Instructor-of-Mathematics--Statistics-and-Data-Science_R14010",
+        "locations": [
+            "Inglewood, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Loyola-Marymount-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Arkansas",
+        "id": "fdb28bed-d2e6-44f2-b305-6599d8d12c2f",
+        "title": "Cosmos Extra Help Assistant 1",
+        "active": true,
+        "date_updated": 1773786839,
+        "date_posted": 1773786839,
+        "url": "https://uasys.wd5.myworkdayjobs.com/uasys/job/Little-Rock/COSMOS---Extra-Help-Assistant-I_R0082208-1",
+        "locations": [
+            "Little Rock, AR"
+        ],
+        "company_url": "https://simplify.jobs/c/1d49378c-2501-4900-8d62-ab3ca8ddadb0",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Markel Group, Inc.",
+        "id": "d6a4ff4e-7d15-4ff1-8c12-aa8ddca18071",
+        "title": "Associate Product Analyst",
+        "active": true,
+        "date_updated": 1773786687,
+        "date_posted": 1773786687,
+        "url": "https://markelcorp.wd5.myworkdayjobs.com/GlobalCareers/job/Milwaukee-WI/Associate-Product-Analyst_R0022734",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Markel-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Esri",
+        "id": "de889e79-8c8a-4e4b-b588-751548699e26",
+        "title": "Product Engineer 1 - Customization and Framework",
+        "active": true,
+        "date_updated": 1773786261,
+        "date_posted": 1773786261,
+        "url": "https://www.esri.com/careers/5082103007?gh_jid=5082103007",
+        "locations": [
+            "West Redlands, Redlands, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Esri",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "NextEra Energy",
+        "id": "c4a6b378-a558-483a-b124-b5a291a9671f",
+        "title": "Associate Data Scientist",
+        "active": true,
+        "date_updated": 1773786393,
+        "date_posted": 1773786393,
+        "url": "https://jobs.nexteraenergy.com/job/Miami-Associate-Data-Scientist-FL-33134/1374218100/?ats=successfactors",
+        "locations": [
+            "Miami, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/NextEra-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "PathAI",
+        "id": "af012315-2329-4907-89be-072d879f2916",
+        "title": "Software Engineer 1 - Fullstack",
+        "active": true,
+        "date_updated": 1773786170,
+        "date_posted": 1773786170,
+        "url": "https://www.pathai.com/careers/8466724002?gh_jid=8466724002",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/PathAI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Twitch",
+        "id": "75a3754e-4bb8-4c34-bd0e-5b307f7edd03",
+        "title": "Software Engineer 1 - Monetization ML",
+        "active": true,
+        "date_updated": 1773786505,
+        "date_posted": 1773786505,
+        "url": "https://job-boards.greenhouse.io/twitch/jobs/8417166002",
+        "locations": [
+            "Seattle, WA",
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Twitch",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "UAP",
+        "id": "4d8ee6a9-7f01-4a76-934c-a4c6d5de8c71",
+        "title": "Product Management Administration Technician",
+        "active": true,
+        "date_updated": 1773786245,
+        "date_posted": 1773786245,
+        "url": "https://jobs.smartrecruiters.com/UAPInc/744000115247447",
+        "locations": [
+            "Longueuil, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/UAP",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
