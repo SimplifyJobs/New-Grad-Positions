@@ -260496,5 +260496,32 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Johnson & Johnson",
+        "id": "fa83d680-80f1-4112-af15-c89bf7b0b770",
+        "title": "Research and Development Leadership Development Program",
+        "active": true,
+        "date_updated": 1773757642,
+        "date_posted": 1773757642,
+        "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Santa-Clara-California-United-States-of-America/Research-and-Development-Leadership-Development-Program--RDLDP---2026-Full-Time_R-030459",
+        "locations": [
+            "West Chester, PA",
+            "Bridgewater Township, NJ",
+            "Irvine, CA",
+            "San Carlos, CA",
+            "Santa Clara, CA",
+            "Bridgewater, MA",
+            "Jacksonville, FL",
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Johnson-Johnson",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
     }
 ]
