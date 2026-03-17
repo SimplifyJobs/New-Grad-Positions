@@ -225883,7 +225883,7 @@
         "company_name": "Cisco",
         "id": "09ca8164-a46c-4d5c-9e37-56d3ad2f2327",
         "title": "Data Engineer 1 - Full Time - United States",
-        "active": false,
+        "active": true,
         "date_updated": 1772061662,
         "date_posted": 1772061662,
         "url": "https://careers.cisco.com/global/en/job/2003052",
@@ -260576,6 +260576,160 @@
             "Oregon"
         ],
         "company_url": "https://simplify.jobs/c/Autodesk",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Pennsylvania",
+        "id": "897ee85b-dada-4422-8c31-7fba6405b228",
+        "title": "Pre-Doctoral Research Specialist",
+        "active": true,
+        "date_updated": 1773785715,
+        "date_posted": 1773785715,
+        "url": "https://upenn.wd1.myworkdayjobs.com/careers-at-penn/job/SD---Wharton-Accounting-Dept/Pre-Doctoral-Research-Specialist_JR00114176-1",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Pennsylvania",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "73e68c8b-872e-450c-8a70-de96dc283e7f",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1773785765,
+        "date_posted": 1773785765,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053700",
+        "locations": [
+            "Exeter, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "6e9ab873-dbdb-41e9-9cae-e5834bc1a3f1",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1773786072,
+        "date_posted": 1773786072,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053861",
+        "locations": [
+            "Leeds, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "f5cb1556-30f3-42b4-abd6-1017a2938605",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1773785624,
+        "date_posted": 1773785624,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053914",
+        "locations": [
+            "Canterbury, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Twitch",
+        "id": "25ec663e-854d-4edd-a023-081a4d168446",
+        "title": "Software Engineer 1 - Monetization ML",
+        "active": true,
+        "date_updated": 1773785638,
+        "date_posted": 1773785638,
+        "url": "https://job-boards.greenhouse.io/twitch/jobs/8417224002",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Twitch",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "239134f6-774f-4bea-84e3-e421020031fd",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1773785760,
+        "date_posted": 1773785760,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053911",
+        "locations": [
+            "Stoke-on-Trent, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Uber",
+        "id": "1f3cda27-0eb1-48a9-93a6-c0388fcc5e5d",
+        "title": "Graduate PhD Software Engineer 2 - Mobility Matching",
+        "active": true,
+        "date_updated": 1773785360,
+        "date_posted": 1773785360,
+        "url": "https://university-uber.icims.com/jobs/157141/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Seattle, WA",
+            "SF",
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Uber",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Pennsylvania",
+        "id": "a8ef631d-84ea-4472-8111-133d1ccfd984",
+        "title": "Research Specialist",
+        "active": true,
+        "date_updated": 1773785001,
+        "date_posted": 1773785001,
+        "url": "https://upenn.wd1.myworkdayjobs.com/careers-at-penn/job/McNeil-Building/Research-Specialist--The-Center-for-Social-Norms-and-Behavioral-Dynamics_JR00117192",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Pennsylvania",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
