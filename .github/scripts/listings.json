@@ -258370,7 +258370,7 @@
         "company_name": "Sainsbury's",
         "id": "8d705f4e-96fc-4441-a14f-fb49ff19b660",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1773641823,
         "date_posted": 1773641823,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052354",
@@ -260044,5 +260044,23 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "1e7e94cc-f63f-418f-b951-ab4e2eeb47e4",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1773727918,
+        "date_posted": 1773727918,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053756",
+        "locations": [
+            "Maidstone, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
