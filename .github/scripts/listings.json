@@ -258224,7 +258224,7 @@
         "company_name": "Sainsbury's",
         "id": "5fbd3aaf-7fed-436b-bb5c-ceb151292627",
         "title": "Nightshift Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1773612946,
         "date_posted": 1773612946,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053564",
@@ -259032,7 +259032,7 @@
         "company_name": "Morgan Stanley",
         "id": "d6430deb-8e29-49fc-aaee-e12a8b94daa0",
         "title": "Risk Analytics - Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1773673031,
         "date_posted": 1773673031,
         "url": "https://ms.wd5.myworkdayjobs.com/private/job/London-United-Kingdom/Risk-Analytics--Analyst_PT-JR032201",
@@ -259510,7 +259510,7 @@
         "company_name": "Sainsbury's",
         "id": "07033ff2-f90c-42f4-b328-a18ef079ce0a",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1773699576,
         "date_posted": 1773699576,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053739",
@@ -260001,6 +260001,48 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Walmart",
+        "id": "6da627b2-a4c6-4846-bbfc-b8ddf10d8359",
+        "title": "Software Engineer 3",
+        "active": true,
+        "date_updated": 1773712251,
+        "date_posted": 1773712251,
+        "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-Hula-Building-Bentonville-AR-Home-Office/Software-Engineer-III_R-2448622",
+        "locations": [
+            "Bentonville, AR"
+        ],
+        "company_url": "https://simplify.jobs/c/Walmart",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "General Dynamics Mission Systems",
+        "id": "57e711c6-d93b-478f-a197-461a6f67b23e",
+        "title": "Systems Engineer",
+        "active": true,
+        "date_updated": 1773698922,
+        "date_posted": 1773698922,
+        "url": "https://careers-gdms.icims.com/jobs/71489/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Newport, RI"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
