@@ -260561,5 +260561,25 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Autodesk",
+        "id": "fbdd1eec-0a09-40ed-a3d9-fc7e82aac237",
+        "title": "Software Development Engineer",
+        "active": true,
+        "date_updated": 1773758972,
+        "date_posted": 1773758972,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/uni/job/Oregon-USA---Remote/Software-Development-Engineer_26WD96347",
+        "locations": [
+            "Oregon"
+        ],
+        "company_url": "https://simplify.jobs/c/Autodesk",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
