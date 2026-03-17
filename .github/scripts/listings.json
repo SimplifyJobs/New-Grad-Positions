@@ -218228,7 +218228,7 @@
         "company_name": "Baystate Health",
         "id": "3f32056e-e118-4548-9840-e6da9b8f52dc",
         "title": "Application Data Engineer Assoc",
-        "active": false,
+        "active": true,
         "date_updated": 1771630587,
         "date_posted": 1771630587,
         "url": "https://baystatehealth.wd12.myworkdayjobs.com/External_Careers/job/Springfield-Massachusetts/Application-Data-Engineer-Assoc_R41056",
@@ -259557,5 +259557,201 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Microsoft",
+        "id": "ea0336b0-9983-4495-9c05-1f525d87a81c",
+        "title": "Software Engineer 1 - Officepy",
+        "active": true,
+        "date_updated": 1773710221,
+        "date_posted": 1773710221,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556847482",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Microsoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Axon",
+        "id": "d4716b7f-13f4-4a13-8cef-a9575afdbf7a",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1773710051,
+        "date_posted": 1773710051,
+        "url": "https://job-boards.greenhouse.io/axon/jobs/7629272003",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Axon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Bootcamp"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Hyve Solutions",
+        "id": "5180ca34-f17c-4936-9988-6e21d8eae2ea",
+        "title": "Manufacturing Technician",
+        "active": true,
+        "date_updated": 1773710327,
+        "date_posted": 1773710327,
+        "url": "https://synnex.wd5.myworkdayjobs.com/hyvecareers/job/Fremont-CA/Manufacturing-Technician_R49040",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/100a87e3-2540-44fd-9de7-caea9e8b2cfa",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "2a5f5a94-eb28-41fc-8b43-9cc7ff979206",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1773709951,
+        "date_posted": 1773709951,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052701",
+        "locations": [
+            "Leeds, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Michael Baker International",
+        "id": "07bba8ac-3db1-4566-9e16-004e1090b7b6",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1773710034,
+        "date_posted": 1773710034,
+        "url": "https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/309136",
+        "locations": [
+            "San Antonio, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Michael-Baker-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Google",
+        "id": "a29fb8e9-7043-444a-b064-5b6b15e66731",
+        "title": "Software Engineer 3 - Quantum",
+        "active": true,
+        "date_updated": 1773709549,
+        "date_posted": 1773709549,
+        "url": "https://www.google.com/about/careers/applications/jobs/results/84747246129554118",
+        "locations": [
+            "Goleta, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Google",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Micron Technology",
+        "id": "969b614f-867f-44e7-88d3-7cc217554987",
+        "title": "DRAM Product Engineer",
+        "active": true,
+        "date_updated": 1773702288,
+        "date_posted": 1773702288,
+        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/DRAM-Product-Engineer_JR94357",
+        "locations": [
+            "Boise, ID"
+        ],
+        "company_url": "https://simplify.jobs/c/Micron-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Thermo Fisher Scientific",
+        "id": "89a69e4f-9d15-4629-be57-a67638bc7288",
+        "title": "Field Service Engineer 1 - Multiple Teams",
+        "active": true,
+        "date_updated": 1773709722,
+        "date_posted": 1773709722,
+        "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-North-Carolina-USA/Field-Service-Engineer-I--TEM--Raleigh--NC-REMOTE_R-01345293",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Thermo-Fisher-Scientific",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Mondelez International",
+        "id": "6cc522b2-d477-484a-9708-c9ef9d44a5db",
+        "title": "Developer \u2013 Product Development",
+        "active": true,
+        "date_updated": 1773702495,
+        "date_posted": 1773702495,
+        "url": "https://wd3.myworkdaysite.com/recruiting/mdlz/External/job/East-Hanover-New-Jersey-United-States/Developer--Product-Development_R-161314",
+        "locations": [
+            "Livingston, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Mondelez-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Cambridge Associates",
+        "id": "37cb0e68-984d-408d-ad44-bc43682335c3",
+        "title": "Investment Analyst",
+        "active": true,
+        "date_updated": 1773703180,
+        "date_posted": 1773703180,
+        "url": "https://cambridgeassociates.wd5.myworkdayjobs.com/Cambridge_Associates/job/London/Investment-Analyst--Sustainable---Impact-Investing_JR0000177",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Cambridge-Associates",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
