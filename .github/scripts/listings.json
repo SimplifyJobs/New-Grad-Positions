@@ -260523,5 +260523,43 @@
         "degrees": [
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Vanguard",
+        "id": "bd6a1b08-9ffe-44ff-acdb-819753bf1bd8",
+        "title": "Application Engineer",
+        "active": true,
+        "date_updated": 1773758124,
+        "date_posted": 1773758124,
+        "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/contractors_restricted/job/Manchester-United-Kingdom/Application-Engineer---I_174863",
+        "locations": [
+            "Manchester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Vanguard",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "0f8428e8-1f97-4b48-95e5-f98c19928b41",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1773756895,
+        "date_posted": 1773756895,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053847",
+        "locations": [
+            "Bicester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
