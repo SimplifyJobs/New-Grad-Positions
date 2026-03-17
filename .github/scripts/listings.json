@@ -260959,5 +260959,168 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Arkansas",
+        "id": "d004a30f-6408-4997-bf70-b4e49e9e1520",
+        "title": "Cosmos Extra Help Assistant 2",
+        "active": true,
+        "date_updated": 1773786842,
+        "date_posted": 1773786842,
+        "url": "https://uasys.wd5.myworkdayjobs.com/uasys/job/Little-Rock/COSMOS---Extra-Help-Assistant-II_R0082222",
+        "locations": [
+            "Little Rock, AR"
+        ],
+        "company_url": "https://simplify.jobs/c/1d49378c-2501-4900-8d62-ab3ca8ddadb0",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Mass General Brigham",
+        "id": "1c959e44-a506-44e2-8cb0-755a002b094e",
+        "title": "Data Analyst 1",
+        "active": true,
+        "date_updated": 1773789459,
+        "date_posted": 1773789459,
+        "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Boston-MA/Data-Analyst-I_RQ4055957",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Mass-General-Brigham",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cleveland-Cliffs",
+        "id": "f0a21be2-fbc6-4306-bdc2-a6cc49705a40",
+        "title": "Associate IT Applications Engineer",
+        "active": true,
+        "date_updated": 1773789088,
+        "date_posted": 1773789088,
+        "url": "https://aksteel.wd1.myworkdayjobs.com/careers/job/Burns-Harbor/Associate-IT-Applications-Engineer_R12287",
+        "locations": [
+            "Hobart, IN",
+            "Merrillville, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Cleveland-Cliffs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Mississippi Medical Center",
+        "id": "d50017d7-ed78-4c07-82b4-708f91ce1627",
+        "title": "Intelligence Analyst Center for Informatics and Analytics",
+        "active": true,
+        "date_updated": 1773788638,
+        "date_posted": 1773788638,
+        "url": "https://ummc.wd5.myworkdayjobs.com/UMCCareers/job/Jackson-MS---Main-Campus/INTELLIGENCE-ANALYST-Center-for-Informatics-and-Analytics_R00048085-1",
+        "locations": [
+            "Jackson, MS"
+        ],
+        "company_url": "https://simplify.jobs/c/e22b7685-aa02-4cb1-b13e-245759036d89",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Arkansas",
+        "id": "56a118f2-c47a-4abb-804e-0f934bbe2731",
+        "title": "Cosmos - Data Engineer 1",
+        "active": true,
+        "date_updated": 1773786862,
+        "date_posted": 1773786862,
+        "url": "https://uasys.wd5.myworkdayjobs.com/uasys/job/Little-Rock/COSMOS---Data-Engineer-I_R0070783",
+        "locations": [
+            "Little Rock, AR"
+        ],
+        "company_url": "https://simplify.jobs/c/1d49378c-2501-4900-8d62-ab3ca8ddadb0",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "KBR",
+        "id": "ef86991f-7913-4101-ab25-59c75e0f9bf7",
+        "title": "Power Apps Developer \u2013 Entry Level",
+        "active": true,
+        "date_updated": 1773788525,
+        "date_posted": 1773788525,
+        "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Leatherhead-Surrey-United-Kingdom/Power-Apps-Developer---Entry-Level_R2120553-2",
+        "locations": [
+            "Dorking, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/KBR",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Chicago",
+        "id": "a989ae47-c9be-4491-89db-357f5e636718",
+        "title": "Data Science Analyst",
+        "active": true,
+        "date_updated": 1773788503,
+        "date_posted": 1773788503,
+        "url": "https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Data-Science-Analyst--TCOM_JR33014-1",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Chicago",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "University System of New Hampshire",
+        "id": "345420e4-2381-481f-aca5-052fb38b61d3",
+        "title": "Research Assistant",
+        "active": true,
+        "date_updated": 1773788367,
+        "date_posted": 1773788367,
+        "url": "https://usnh.wd5.myworkdayjobs.com/Careers/job/University-of-New-Hampshire--Main-Campus/Research-Assistant_JR5245",
+        "locations": [
+            "Dover, NH"
+        ],
+        "company_url": "https://simplify.jobs/c/University-System-Of-New-Hampshire",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
