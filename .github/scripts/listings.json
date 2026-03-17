@@ -260326,5 +260326,25 @@
         "degrees": [
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Texas A&M AgriLife Research",
+        "id": "e57725f1-85e1-4e3d-8770-0456a982ecfe",
+        "title": "Postdoctoral Research Associate",
+        "active": true,
+        "date_updated": 1773730910,
+        "date_posted": 1773730910,
+        "url": "https://tamus.wd1.myworkdayjobs.com/AgriLife_Research_External/job/Dallas-TX/Postdoctoral-Research-Associate_R-090331-1",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Texas-AM-AgriLife-Research",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
     }
 ]
