@@ -100417,7 +100417,7 @@
         "company_name": "Caterpillar Inc.",
         "id": "5ea3d6c8-9684-45ee-87b9-fc5931c49046",
         "title": "Digital Data Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1764122089,
         "date_posted": 1764122089,
         "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chicago-Illinois/Digital-Data-Analyst_R0000335361",
@@ -262292,6 +262292,243 @@
         "degrees": [
             "Bachelor's",
             "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Miami",
+        "id": "fae8dfdf-181a-4df5-b61c-f4217064a57f",
+        "title": "Data Analyst 1",
+        "active": true,
+        "date_updated": 1773874228,
+        "date_posted": 1773874228,
+        "url": "https://umiami.wd1.myworkdayjobs.com/UMCareerStaff/job/Miami-FL/Data-Analyst-1_R100095111",
+        "locations": [
+            "Miami, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Miami",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RELX",
+        "id": "e92ad2e8-5523-4425-8044-4d91daee5506",
+        "title": "Tech Accelerate Graduate Program - Software Engineer June",
+        "active": true,
+        "date_updated": 1773873624,
+        "date_posted": 1773873624,
+        "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program---Software-Engineer-June_R100293-1",
+        "locations": [
+            "Alpharetta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/RELX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "The Boeing Company",
+        "id": "c9103c39-526a-4a50-90e9-5b692c0f7c81",
+        "title": "Associate Software Engineer - Developer",
+        "active": true,
+        "date_updated": 1773874399,
+        "date_posted": 1773874399,
+        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Saint-Charles-MO/Associate-Software-Engineer--Developer-_JR2026500043-1",
+        "locations": [
+            "St Charles, MO",
+            "St. Louis, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Vishay Intertechnology",
+        "id": "1ced262d-c162-479f-b2f3-540bd42bb745",
+        "title": "R&D Tech",
+        "active": true,
+        "date_updated": 1773874041,
+        "date_posted": 1773874041,
+        "url": "https://vishay.wd3.myworkdayjobs.com/VishayCareers/job/Duluth-MN/R-D-Tech_JR-13728",
+        "locations": [
+            "Duluth, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Vishay-Intertechnology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Wyetech",
+        "id": "1647a14e-c983-4b71-be8a-c33890ccbbaf",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1773873003,
+        "date_posted": 1773873003,
+        "url": "https://jobs.lever.co/wyetechllc/63a3c4e8-35a8-45b7-8e93-b5bef6894fa7/apply",
+        "locations": [
+            "Halethorpe, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Wyetech-LLC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Littelfuse",
+        "id": "1e2536b2-aa6d-46b4-8292-bf9c0351ff8d",
+        "title": "RISE Rotational Engineer",
+        "active": true,
+        "date_updated": 1773873877,
+        "date_posted": 1773873877,
+        "url": "https://littelfuse.wd1.myworkdayjobs.com/Littelfuse-Careers/job/Mount-Prospect/RISE-Rotational-Engineer_JR-110544-2",
+        "locations": [
+            "Des Plaines, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Littelfuse",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Orchid Orthopedic Solutions",
+        "id": "2bdc6c11-3b74-4b41-b499-f1283b22a803",
+        "title": "QC Inspector",
+        "active": true,
+        "date_updated": 1773873347,
+        "date_posted": 1773873347,
+        "url": "https://orchidortho.wd5.myworkdayjobs.com/careers/job/Arab-AL/QC-Inspector_R-8554",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Orchid-Orthopedic-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "VF",
+        "id": "a46a8db8-439c-4ad5-a3de-fb4d05e9efaf",
+        "title": "Associate Designer - Lifestyle Everyday + Youth",
+        "active": true,
+        "date_updated": 1773872885,
+        "date_posted": 1773872885,
+        "url": "https://vfc.wd5.myworkdayjobs.com/vfc_careers/job/USCA--USA--Colorado--Denver-HQ---VFC/Associate-Designer--Lifestyle-Everyday---Youth_R-20260123-0027-1",
+        "locations": [
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/VF",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Formlabs",
+        "id": "976b3eea-5efd-4881-9c0c-e0a3878127ef",
+        "title": "3D Print Technician",
+        "active": true,
+        "date_updated": 1773873100,
+        "date_posted": 1773873100,
+        "url": "https://careers.formlabs.com/job/7733540/apply/?gh_jid=7733540",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Formlabs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "MatX",
+        "id": "f248e071-5ac5-4d03-bb14-ddb23cd10275",
+        "title": "Developer Augmentation Engineer",
+        "active": true,
+        "date_updated": 1773872882,
+        "date_posted": 1773872882,
+        "url": "https://job-boards.greenhouse.io/matx/jobs/5157866008",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/MatX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "NVIDIA",
+        "id": "bec791e2-3e1b-4f31-aff3-0f2ab0eafebf",
+        "title": "Field Application Engineer",
+        "active": true,
+        "date_updated": 1773872551,
+        "date_posted": 1773872551,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-NC-Durham/Field-Application-Engineer---New-College-Graduate-2026_JR2014639",
+        "locations": [
+            "Remote in USA",
+            "Santa Clara, CA",
+            "Durham, NC",
+            "Westford, MA",
+            "Massachusetts",
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AspenTech",
+        "id": "ba244c88-6a27-4388-ab71-e5f1a160d5cb",
+        "title": "Associate Software Developer",
+        "active": true,
+        "date_updated": 1773872528,
+        "date_posted": 1773872528,
+        "url": "https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Medina-Minnesota/Associate-Software-Developer_R8730",
+        "locations": [
+            "Wayzata, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/AspenTech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
