@@ -167543,7 +167543,7 @@
         "company_name": "RTX",
         "id": "24d256ca-f2c4-4169-80d9-b8b52c2c71a5",
         "title": "Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1768956837,
         "date_posted": 1768956837,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826-Ast/Software-Engineer-I--Onsite-_01791041",
@@ -261719,5 +261719,25 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "d14e601d-8bfe-459f-b2c6-e9e51ae1f7f4",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1773845386,
+        "date_posted": 1773845386,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826-Ast/Software-Engineer-I--Onsite-_01811717",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
