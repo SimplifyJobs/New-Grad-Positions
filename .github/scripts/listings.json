@@ -261249,5 +261249,99 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Western Digital",
+        "id": "a56ebbf4-20e7-4aac-858f-0b5a587d29ff",
+        "title": "Early Careers Talent - Failure Analysis Engineer",
+        "active": true,
+        "date_updated": 1773795973,
+        "date_posted": 1773795973,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000115303377",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Digital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "2d323797-77cd-4891-a7be-89305076e1cc",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1773785776,
+        "date_posted": 1773785776,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053698",
+        "locations": [
+            "Exeter, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Mach Industries",
+        "id": "02f1ff1f-2191-4db2-b27b-387a4ce7148b",
+        "title": "Field Drone Technician",
+        "active": true,
+        "date_updated": 1773785625,
+        "date_posted": 1773785625,
+        "url": "https://jobs.ashbyhq.com/mach/76f40290-69b5-4dfa-b47c-1d5192855843/application",
+        "locations": [
+            "Huntington Beach, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Mach-Industries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Four Seasons",
+        "id": "dbb1ad96-9104-4132-bf03-1d7cb62b79e6",
+        "title": "Barista \u2013 Trading Co",
+        "active": true,
+        "date_updated": 1773790148,
+        "date_posted": 1773790148,
+        "url": "https://fourseasons.wd3.myworkdayjobs.com/search/job/Naples/Barista--Naples-Trading-Co_REQ10374634",
+        "locations": [
+            "Naples, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Four-Seasons",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "12f5dcf3-3c3c-4f3d-8478-a10b07f24fce",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1773785876,
+        "date_posted": 1773785876,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053882",
+        "locations": [
+            "Southampton, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
