@@ -206757,7 +206757,7 @@
         "company_name": "Sainsbury's",
         "id": "b7a6fdd1-f93d-4bb3-9e30-0e15d0cde5b1",
         "title": "Trading Assistant - Shift",
-        "active": false,
+        "active": true,
         "date_updated": 1771196908,
         "date_posted": 1771196908,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400049570",
@@ -261924,6 +261924,373 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "JP Morgan Chase",
+        "id": "e779e33e-72b9-4f4f-92b1-1c85c363be83",
+        "title": "Trading Services Analyst",
+        "active": true,
+        "date_updated": 1773872387,
+        "date_posted": 1773872387,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210725466",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Walt Disney Company",
+        "id": "d8e61bc4-b259-438e-be91-000b545c0ae1",
+        "title": "Associate Data Analyst",
+        "active": true,
+        "date_updated": 1773872456,
+        "date_posted": 1773872456,
+        "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/New-York-NY-USA/Associate-Data-Analyst_10145577-1",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Disney",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "c3001887-aa85-480f-bb5b-fada010b90ab",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1773872392,
+        "date_posted": 1773872392,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054097",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Capital One",
+        "id": "5bcf3908-79dc-48a3-a148-cd1b56fba5e9",
+        "title": "Senior Associate - Product Management-Payments Platform",
+        "active": true,
+        "date_updated": 1773872398,
+        "date_posted": 1773872398,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Richmond-VA/Senior-Associate--Product-Management--Payments-Platform_R238369-1",
+        "locations": [
+            "McLean, VA",
+            "Richmond, VA",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Capital-One",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "31321181-aaf0-4727-bcc4-f361b9bb4925",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1773872455,
+        "date_posted": 1773872455,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054105",
+        "locations": [
+            "Leeds, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Vertiv",
+        "id": "21a57929-793f-40a9-9fa6-6494478313ac",
+        "title": "Associate Application Engineer",
+        "active": true,
+        "date_updated": 1773872377,
+        "date_posted": 1773872377,
+        "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20268913",
+        "locations": [
+            "New Albany, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Vertiv",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "LexisNexis Risk Solutions",
+        "id": "ec6b3515-c4f7-460c-8d1e-c4b214481582",
+        "title": "Tech Accelerate Graduate Program - Software Engineer June",
+        "active": true,
+        "date_updated": 1773872065,
+        "date_posted": 1773872065,
+        "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program---Software-Engineer-June_R100293",
+        "locations": [
+            "Alpharetta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/LexisNexis-Risk-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "e4005fcd-2167-40e3-ac5a-052c14fb771d",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1773872168,
+        "date_posted": 1773872168,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054060",
+        "locations": [
+            "Maidenhead, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "WSP",
+        "id": "dfde285a-1e83-4095-827d-2b9a3587ded3",
+        "title": "Early Career GIS Analyst",
+        "active": true,
+        "date_updated": 1773871961,
+        "date_posted": 1773871961,
+        "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/82963",
+        "locations": [
+            "Portland, ME"
+        ],
+        "company_url": "https://simplify.jobs/c/WSP",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "bd9b2674-b544-4a5a-ade8-78ca85cdc61b",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1773872168,
+        "date_posted": 1773872168,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054091",
+        "locations": [
+            "Dundee, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "PingWind",
+        "id": "bc31c6d4-144c-4b06-a3c8-46e2334e35a7",
+        "title": "BI Dashboard Software Engineer 1",
+        "active": true,
+        "date_updated": 1773872184,
+        "date_posted": 1773872184,
+        "url": "https://jobs.lever.co/pingwind/c75277f4-3030-4c48-a155-fc45726a52ee/apply",
+        "locations": [
+            "Alexandria, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/PingWind",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "8454ef5a-0035-4711-aef7-a618a5650bb3",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1773872164,
+        "date_posted": 1773872164,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054067",
+        "locations": [
+            "Aberdeen, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "CesiumAstro",
+        "id": "5aa8fe85-a76d-4cbf-90d9-f50aef033d88",
+        "title": "Software Engineer 2",
+        "active": true,
+        "date_updated": 1773871934,
+        "date_posted": 1773871934,
+        "url": "https://jobs.lever.co/CesiumAstro/ebd5004f-aaa5-4e9c-b5db-d17a406eb182/apply",
+        "locations": [
+            "Westminster, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/CesiumAstro",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Tyson Foods",
+        "id": "35f52be5-203a-44f0-9714-84e6c992275b",
+        "title": "Programmer/Analyst Applications",
+        "active": true,
+        "date_updated": 1773872026,
+        "date_posted": 1773872026,
+        "url": "https://tysonfoods.wd5.myworkdayjobs.com/TSN/job/Cobb-Vantress-Corporate---Siloam-Springs-Arkansas/Programmer-Analyst-Applications---Cobb-Vantress-Corporate--Siloam-Springs--AR-_R0450735-3",
+        "locations": [
+            "Siloam Springs, AR"
+        ],
+        "company_url": "https://simplify.jobs/c/Tyson-Foods",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Wex",
+        "id": "2dfdd106-45e5-4793-b3d9-545ca95c4b7f",
+        "title": "Software Development Engineer 2 - Front-End",
+        "active": true,
+        "date_updated": 1773872137,
+        "date_posted": 1773872137,
+        "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Software-Development-Engineer-2---Front-End_R20458",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/788246ec-e89c-499a-bb15-9a02acb178a9",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "1fcd56e3-de27-41d3-bcd2-8c169b9e91df",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1773872181,
+        "date_posted": 1773872181,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054077",
+        "locations": [
+            "Bath, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "1a2c39c4-df61-4f15-93ba-6385ecf4fed6",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1773872188,
+        "date_posted": 1773872188,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054048",
+        "locations": [
+            "Maidenhead, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "0db975be-0527-4a75-9940-e9995c2f3c05",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1773872167,
+        "date_posted": 1773872167,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054095",
+        "locations": [
+            "Stratford-upon-Avon, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Arthur Grand Technologies",
+        "id": "c5e96a2e-51ca-43d8-aa10-231b3cdc5e3f",
+        "title": "ERP Software Engineer",
+        "active": true,
+        "date_updated": 1773871479,
+        "date_posted": 1773871479,
+        "url": "https://jobs.smartrecruiters.com/ArthurGrandTechnologiesInc/744000115491098",
+        "locations": [
+            "Nebraska"
+        ],
+        "company_url": "https://simplify.jobs/c/Arthur-Grand-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
             "Associate's"
         ]
     }
