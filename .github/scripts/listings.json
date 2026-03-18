@@ -261226,5 +261226,28 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Leidos",
+        "id": "713dca75-dd2d-46be-a770-662b19c2c398",
+        "title": "Junior Software Engineer",
+        "active": true,
+        "date_updated": 1773798013,
+        "date_posted": 1773798013,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Orlando-FL/Junior-Software-Engineer_R-00178648-1",
+        "locations": [
+            "Orlando, FL",
+            "Morgantown, WV",
+            "Omaha, NE",
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
