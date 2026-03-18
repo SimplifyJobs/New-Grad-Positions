@@ -56690,7 +56690,7 @@
         "company_name": "Morgan Stanley",
         "id": "f79fc65f-4fe6-4602-8788-9e7b61ace523",
         "title": "Associate Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1760599622,
         "date_posted": 1760599622,
         "url": "https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Associate-Software-Engineer_PT-JR021580",
@@ -261780,5 +261780,109 @@
         "date_posted": 1773846537,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TransPerfect",
+        "id": "8c276d15-344d-4c48-bd7b-5258a73edda2",
+        "title": "Junior ESI Analyst",
+        "active": true,
+        "date_updated": 1773845117,
+        "date_posted": 1773845117,
+        "url": "https://transperfect.wd5.myworkdayjobs.com/transperfect/job/US-Washington-DC/Junior-ESI-Analyst_R2025-243469",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/TransPerfect",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Frazer-Nash Consultancy",
+        "id": "9963857b-58e3-4565-b1c3-2d56454606b1",
+        "title": "Complex Systems Design and Assurance Graduate Engineer",
+        "active": true,
+        "date_updated": 1773846753,
+        "date_posted": 1773846753,
+        "url": "https://kbr.wd5.myworkdayjobs.com/Frazer_Nash_Careers/job/Bristol-United-Kingdom/Complex-Systems-Design-and-Assurance-Graduate-Engineer_R2120627",
+        "locations": [
+            "Bristol, UK",
+            "Exeter, UK",
+            "Dorking, UK",
+            "Manchester, UK",
+            "Orton Southgate, Peterborough, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Frazer-Nash-Consultancy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Jabil",
+        "id": "83526648-4d3f-4fad-ab62-b61fc46d1e85",
+        "title": "Test Engineering Technician 1",
+        "active": true,
+        "date_updated": 1773845979,
+        "date_posted": 1773845979,
+        "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Test-Engineering-Technician-I_J2443448",
+        "locations": [
+            "St. Petersburg, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Jabil",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Jabil",
+        "id": "91c8ae21-4dcc-4ed1-811d-1d9572645e13",
+        "title": "Test Engineering Technician 1",
+        "active": true,
+        "date_updated": 1773845979,
+        "date_posted": 1773845979,
+        "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Test-Engineering-Technician-I_J2443447",
+        "locations": [
+            "St. Petersburg, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Jabil",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Jabil",
+        "id": "8a976d46-a19d-4466-a1e4-c6a1d9994a67",
+        "title": "Diagnostic Technician 1",
+        "active": true,
+        "date_updated": 1773845960,
+        "date_posted": 1773845960,
+        "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/DIAGNOSTIC-TECHNICIAN-I_J2443446",
+        "locations": [
+            "Tampa, FL",
+            "St. Petersburg, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Jabil",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
