@@ -1200,24 +1200,6 @@
         "sponsorship": "Other"
     },
     {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Clarity Innovations",
-        "id": "000ae1de-ef6c-4970-9032-96be016c3c60",
-        "title": "Junior Information System Security Engineer - Isse",
-        "active": false,
-        "date_updated": 1753119004,
-        "date_posted": 1753119004,
-        "url": "https://job-boards.greenhouse.io/clarityinnovates/jobs/4789602007",
-        "locations": [
-            "Reston, VA",
-            "Columbia, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/Clarity-Innovations",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
         "date_updated": 1754190061,
         "url": "https://lifeattiktok.com/search/7532349111480273159?spread=5MWH5CQ",
         "company_name": "TikTok",
@@ -261436,7 +261418,7 @@
         "company_name": "Sainsbury's",
         "id": "4f5f6a23-3e84-4fc1-ba17-e4cfdf5e8e9c",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1773824983,
         "date_posted": 1773824983,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053937",
@@ -261512,7 +261494,7 @@
         "company_name": "Sainsbury's",
         "id": "3c2541ba-a28d-407a-8fcf-b76fa354a953",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1773843490,
         "date_posted": 1773843490,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054008",
@@ -261850,5 +261832,43 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Konrad Group",
+        "id": "7553023b-466e-4a6c-a382-0087b6fe7877",
+        "title": "Software Developer - Entry Level",
+        "active": true,
+        "date_updated": 1773843544,
+        "date_posted": 1773843544,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=7669159003",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Konrad-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "d972c992-f1c8-4245-860d-20d0f11c6c9d",
+        "title": "Software Engineer 1 - C - C++",
+        "active": true,
+        "date_updated": 1773845387,
+        "date_posted": 1773845387,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-CAMBRIDGE-BBN01--10--50-Moulton-St--MOULTON-B2/Software-Engineer-I---C--C----Onsite-_01825606",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
