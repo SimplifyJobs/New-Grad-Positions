@@ -261739,5 +261739,28 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "date_updated": 1773846411,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://ascensushr.wd1.myworkdayjobs.com/en-US/ascensuscareers/job/Newton-MA/Associate-Software-Development-Engineer--SDET---IT-Software-Engineers_R0020925",
+        "company_name": "Ascensus",
+        "title": "Associate Software Development Engineer (SDET)",
+        "locations": [
+            "Newton, MA",
+            "Dresher, PA",
+            "Lake Mary, FL",
+            "Boston, MA",
+            "Philadelphia, PA",
+            "Orlando, FL"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "9e3b982e-eceb-43c0-bb4a-daf219ca0cb2",
+        "date_posted": 1773846411,
+        "company_url": "",
+        "is_visible": true
     }
 ]
