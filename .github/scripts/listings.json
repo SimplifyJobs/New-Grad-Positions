@@ -261186,5 +261186,45 @@
             "Master's",
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Apollo Global",
+        "id": "61628ada-61f3-4c59-8960-3d44e947c9d8",
+        "title": "Trading Analyst - Asset-Backed Finance",
+        "active": true,
+        "date_updated": 1773788786,
+        "date_posted": 1773788786,
+        "url": "https://athene.wd5.myworkdayjobs.com/Apollo_Careers/job/El-Segundo-California/Trading-Analyst--Asset-Backed-Finance_R260006",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Apollo-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Ingram Micro",
+        "id": "18c9acd3-73c8-4f76-ae36-1b284eaea9ad",
+        "title": "Platform Expert",
+        "active": true,
+        "date_updated": 1773789706,
+        "date_posted": 1773789706,
+        "url": "https://ingrammicro.wd5.myworkdayjobs.com/IngramMicro/job/Williamsville-NY-United-States-of-America/Platform-Expert--Capabilities_R-114060",
+        "locations": [
+            "Cheektowaga, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Ingram-Micro",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
