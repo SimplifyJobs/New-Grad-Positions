@@ -258452,9 +258452,9 @@
         "degrees": []
     },
     {
-        "date_updated": 1773651998,
+        "date_updated": 1773815629,
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://jobs.baesystems.com/global/en/job/BAE1US122188BREXTERNAL/Software-Engineer-I-Entry-Level",
         "company_name": "BAE Systems",
@@ -258470,9 +258470,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1773652227,
+        "date_updated": 1773815629,
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://belk.wd1.myworkdayjobs.com/en-US/careers-collegecampus/job/Charlotte-NC---Corporate-Office/June-2026---Retail-Development-Program---Software-Engineering--Front-End_JR-99495-2",
         "company_name": "Belk",
