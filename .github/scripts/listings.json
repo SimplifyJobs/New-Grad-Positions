@@ -7724,28 +7724,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "GM financial",
-        "id": "325a787b-0d7a-48d5-a230-7df1ab6dccd6",
-        "title": "Software Development Engineer I",
-        "active": false,
-        "date_updated": 1756300456,
-        "date_posted": 1753138978,
-        "url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/535",
-        "locations": [
-            "Arlington, TX",
-            "Fort Worth, TX",
-            "Irving, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/GM-Financial",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "USAA",
         "id": "b79c746f-439f-4b10-b5e0-68073bbfae22",
         "title": "Software Engineer Entry Level",
@@ -189236,7 +189214,7 @@
         "company_name": "BlackRock",
         "id": "0e6b0c46-77b3-4b9e-b57c-8085955b6dce",
         "title": "Product Manager - Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1770218246,
         "date_posted": 1770218246,
         "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/London-Greater-London/Product-Manager--Associate-_R260563",
@@ -262525,6 +262503,86 @@
             "Wayzata, MN"
         ],
         "company_url": "https://simplify.jobs/c/AspenTech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Royal Bank of Canada",
+        "id": "80e0d2bb-5eae-4fed-aa2b-5d67a69a7cc7",
+        "title": "Data Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1773874941,
+        "date_posted": 1773874941,
+        "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/Data-Engineer---New-Grad_R-0000164410",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Repsol",
+        "id": "f3af0140-c1c3-4872-bfad-d4bff65067c0",
+        "title": "Natural Gas and Power Trading Risk Management Analyst",
+        "active": true,
+        "date_updated": 1773874658,
+        "date_posted": 1773874658,
+        "url": "https://repsol.wd3.myworkdayjobs.com/Repsol/job/Houston/Natural-Gas-and-Power-Trading-Risk-Management-Analyst_80881-2",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Repsol",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "The North Face",
+        "id": "833c7313-deb6-4827-8425-003039e43e20",
+        "title": "Associate Designer - Lifestyle Everyday + Youth",
+        "active": true,
+        "date_updated": 1773873629,
+        "date_posted": 1773873629,
+        "url": "https://vfc.wd5.myworkdayjobs.com/northface_careers/job/USCA--USA--Colorado--Denver-HQ---VFC/Associate-Designer--Lifestyle-Everyday---Youth_R-20260123-0027",
+        "locations": [
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/The-North-Face",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Parsons",
+        "id": "79985779-6f91-4cd8-97b7-8efafabcd2ef",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1773873621,
+        "date_posted": 1773873621,
+        "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---CO-Colorado-Springs/Associate-Software-Engineer_R178557-2",
+        "locations": [
+            "Colorado Springs, CO",
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Parsons",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
