@@ -261122,5 +261122,69 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northrop Grumman",
+        "id": "6c2d759e-a962-49ff-a48f-d867c74d5581",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1773790066,
+        "date_posted": 1773790066,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Woodland-Hills/Software-Engineer--C---and-TS-Clearance-_R10226268",
+        "locations": [
+            "Canoga Park, LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Northrop Grumman",
+        "id": "f4252bb4-038e-4f7c-9a10-2bebeea5712f",
+        "title": "Data Insight Analyst / Principal Data Insight Analyst",
+        "active": true,
+        "date_updated": 1773789949,
+        "date_posted": 1773789949,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Georgia-Warner-Robins/Data-Insight-Analyst---Principal-Data-Insight-Analyst_R10226051",
+        "locations": [
+            "Warner Robins, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Northrop Grumman",
+        "id": "e40a1554-aba8-4b6b-8204-20f20515848d",
+        "title": "Geospatial Mission Analyst",
+        "active": true,
+        "date_updated": 1773789947,
+        "date_posted": 1773789947,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/Geospatial-Mission-Analyst_R10225984",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
     }
 ]
