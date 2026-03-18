@@ -261762,5 +261762,23 @@
         "date_posted": 1773846411,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1773846537,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://careers-gdms.icims.com/jobs/71514/software-engineer-%E2%80%93-entry-level/job",
+        "company_name": "General Dynamics Mission System",
+        "title": "Software Engineer \u2013 Entry Level",
+        "locations": [
+            "Manassas, VA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "1ac75bda-e493-4231-8308-06948d09837a",
+        "date_posted": 1773846537,
+        "company_url": "",
+        "is_visible": true
     }
 ]
