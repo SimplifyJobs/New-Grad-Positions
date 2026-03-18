@@ -246333,7 +246333,7 @@
         "company_name": "Sainsbury's",
         "id": "9744824b-d51b-426e-8cd9-5a8e2462709a",
         "title": "Trading Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1773094045,
         "date_posted": 1773094045,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052625",
@@ -261343,5 +261343,64 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Clipboard Health",
+        "id": "4543bde6-0ce0-47f7-a59f-2e7b53602b47",
+        "title": "Product Operations Associate",
+        "active": true,
+        "date_updated": 1773815097,
+        "date_posted": 1773815097,
+        "url": "https://jobs.ashbyhq.com/clipboard/83b78d23-bed2-41e4-8288-5736a1c7334c/application",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Clipboard-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "University of Arkansas",
+        "id": "e4f4a19a-0777-4687-9441-b8f377f86167",
+        "title": "Graduate Research Assistant - Developer",
+        "active": true,
+        "date_updated": 1773814930,
+        "date_posted": 1773814930,
+        "url": "https://uasys.wd5.myworkdayjobs.com/uasys/job/Little-Rock/COSMOS---Graduate-Research-Assistant--Developer-_R0053891",
+        "locations": [
+            "Little Rock, AR"
+        ],
+        "company_url": "https://simplify.jobs/c/1d49378c-2501-4900-8d62-ab3ca8ddadb0",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "General Dynamics Mission Systems",
+        "id": "3e16bda3-7d44-4ed9-8f94-7e85417c79b0",
+        "title": "Software Engineer \u2013 Entry Level",
+        "active": true,
+        "date_updated": 1773785212,
+        "date_posted": 1773785212,
+        "url": "https://careers-gdms.icims.com/jobs/71520/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Dedham, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
