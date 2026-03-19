@@ -262770,5 +262770,105 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Texas A&M University - College Station",
+        "id": "fe0a54da-bc26-40dd-a039-5cbc4426c03a",
+        "title": "Michel T. Halbouty Postdoctoral Research Associate",
+        "active": true,
+        "date_updated": 1773876032,
+        "date_posted": 1773876032,
+        "url": "https://tamus.wd1.myworkdayjobs.com/TAMU_External/job/College-Station-TX/Michel-T-Halbouty-Postdoctoral-Research-Associate_R-091722-1",
+        "locations": [
+            "College Station, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Texas-AM-University-College-Station",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Johnson Controls",
+        "id": "f88340ea-b30d-4da0-a530-8209167bff94",
+        "title": "Electrical Designer",
+        "active": true,
+        "date_updated": 1773875210,
+        "date_posted": 1773875210,
+        "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/New-Freedom-Pennsylvania-United-States-of-America/Electrical-Designer_WD30263444",
+        "locations": [
+            "Sparks, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Johnson-Controls",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Hewlett Packard Enterprise",
+        "id": "c0b68247-03d3-499b-8db7-1d562bb35e9e",
+        "title": "Security Lab Graduate",
+        "active": true,
+        "date_updated": 1773875651,
+        "date_posted": 1773875651,
+        "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Bristol-Avon-United-Kingdom/Security-Lab-Graduate_1204797-2",
+        "locations": [
+            "Bristol, UK",
+            "Minna, Inverin, Co. Galway, Ireland"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Formlabs",
+        "id": "8d7b8e38-67a4-418a-bda8-10e57e461111",
+        "title": "3D Print Technician",
+        "active": true,
+        "date_updated": 1773872393,
+        "date_posted": 1773872393,
+        "url": "https://careers.formlabs.com/job/7733491/apply/?gh_jid=7733491",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Formlabs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Eurofins",
+        "id": "f60a5f42-27da-475c-b831-e407346867bc",
+        "title": "EMC Technician",
+        "active": true,
+        "date_updated": 1773882720,
+        "date_posted": 1773882720,
+        "url": "https://jobs.smartrecruiters.com/Eurofins/744000115545961",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Eurofins",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
     }
 ]
