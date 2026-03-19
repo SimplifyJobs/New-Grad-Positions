@@ -262951,5 +262951,124 @@
         "degrees": [
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "CIBC",
+        "id": "101b2d45-7f99-4ddd-8fc6-5cb6e3165094",
+        "title": "Client Investment Analyst",
+        "active": true,
+        "date_updated": 1773874531,
+        "date_posted": 1773874531,
+        "url": "https://cibc.wd3.myworkdayjobs.com/search/job/Houston-TX/Client-Investment-Analyst_2606631",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/CIBC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "2ad3a144-74c3-4e51-8637-c6e54a5602d1",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1773882940,
+        "date_posted": 1773882940,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054122",
+        "locations": [
+            "Manchester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "27b2d68a-d4a2-4156-85b1-b48a7c548179",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1773882696,
+        "date_posted": 1773882696,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054119",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Rogers Behavioral Health",
+        "id": "d12ba7b0-b462-42e4-bb00-21c6f9a15e75",
+        "title": "Therapist - PHP/Iop",
+        "active": true,
+        "date_updated": 1773876700,
+        "date_posted": 1773876700,
+        "url": "https://rogersbh.wd1.myworkdayjobs.com/rbhcareer/job/Silver-Lake-Clinic-Oconomowoc-WI/Therapist---PHP-IOP_R6529",
+        "locations": [
+            "Oconomowoc, WI",
+            "Pleasant Prairie, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/b92a810e-00da-4d83-9a36-b7d609699d59",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Farmers Insurance",
+        "id": "06a2f648-c25c-4378-a6ad-bfa0dec84d0b",
+        "title": "Associate Data Scientist",
+        "active": true,
+        "date_updated": 1773872202,
+        "date_posted": 1773872202,
+        "url": "https://jobs.farmersinsurance.com/job/Associate-Data-Scientist/1355763657/?ats=successfactors",
+        "locations": [
+            "Spokane, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Farmers-Insurance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Walmart",
+        "id": "f85d1244-8599-4f50-8ddd-be6727068c7f",
+        "title": "Software Engineer - Android",
+        "active": true,
+        "date_updated": 1773875739,
+        "date_posted": 1773875739,
+        "url": "https://walmart.wd5.myworkdayjobs.com/Non-WorkdayInternal/job/Bentonville-AR/Software-Engineer---Android_R-1717052",
+        "locations": [
+            "Bentonville, AR"
+        ],
+        "company_url": "https://simplify.jobs/c/Walmart",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
