@@ -263330,5 +263330,23 @@
         "degrees": [
             "Associate's"
         ]
+    },
+    {
+        "date_updated": 1773909733,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://cvshealth.wd1.myworkdayjobs.com/en-US/cvs_health_careers/job/Work-At-Home-Illinois/Associate-Software-Development-Engineer--Enterprise-Applications-_R0856858",
+        "company_name": "CVS Health",
+        "title": "Associate Software Development Engineer (Enterprise Applications)",
+        "locations": [
+            "Remote in US"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "c189c34f-7bff-421f-ba82-6c90554b2289",
+        "date_posted": 1773909733,
+        "company_url": "",
+        "is_visible": true
     }
 ]
