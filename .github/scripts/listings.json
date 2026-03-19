@@ -262870,5 +262870,25 @@
         "degrees": [
             "Associate's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Walmart",
+        "id": "1d485360-2ce1-4ea9-99fb-4c435e291652",
+        "title": "Product Manager 2",
+        "active": true,
+        "date_updated": 1773884930,
+        "date_posted": 1773884930,
+        "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-VIZIO-SERVICES-IRVINE-CA-Irvine-Home-Office/XMLNAME--USA--Product-Manager-II_R-2441933",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Walmart",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
