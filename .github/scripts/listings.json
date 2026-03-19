@@ -2674,24 +2674,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "TripAdvisor",
-        "id": "b1e25a04-c0cf-4584-9b3c-cb00a33139c3",
-        "title": "Software Engineer I - Backend Focus - Viator",
-        "active": false,
-        "date_updated": 1754924707,
-        "date_posted": 1753203617,
-        "url": "https://job-boards.greenhouse.io/tripadvisor/jobs/6903058",
-        "locations": [
-            "London, UK",
-            "Oxford, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/TripAdvisor",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "HNTB",
         "id": "0de26396-5f65-44e7-9dd4-da7b069f7eca",
         "title": "Returning New Grad Software Engineer I",
