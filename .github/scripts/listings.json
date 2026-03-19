@@ -243947,7 +243947,7 @@
         "company_name": "Sainsbury's",
         "id": "ef97d21c-5edc-416e-ae2c-5f0d0e1c51d9",
         "title": "Trading Assistant - Shift",
-        "active": false,
+        "active": true,
         "date_updated": 1772839035,
         "date_posted": 1772839035,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052288",
@@ -263478,5 +263478,77 @@
         "date_posted": 1773911116,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Nuro",
+        "id": "a215fd25-7d7f-4cd8-98c5-5fa711e25234",
+        "title": "Associate Fleet Technician",
+        "active": true,
+        "date_updated": 1773912241,
+        "date_posted": 1773912241,
+        "url": "https://nuro.ai/careersitem?gh_jid=7442057",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Nuro",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "53e429b9-145d-494d-ad44-5ed6022ecc66",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1773911309,
+        "date_posted": 1773911309,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054132",
+        "locations": [
+            "Essex, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "29e68554-97d4-4990-954b-31a116ed56b0",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1773911303,
+        "date_posted": 1773911303,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053151",
+        "locations": [
+            "Chesterfield, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "295b6657-e177-4ee7-a54a-948e1688c9a2",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1773911327,
+        "date_posted": 1773911327,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053106",
+        "locations": [
+            "Gloucester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
