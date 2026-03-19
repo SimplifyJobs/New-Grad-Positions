@@ -263442,5 +263442,23 @@
         "date_posted": 1773910563,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1773910868,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.lever.co/ivo/3ce9dc16-90fd-4b99-b4b9-dfd48ec1a50d",
+        "company_name": "Ivo",
+        "title": "Software Engineer, Backend",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "23a17097-6dbf-4279-9567-c537ff173380",
+        "date_posted": 1773910868,
+        "company_url": "",
+        "is_visible": true
     }
 ]
