@@ -231067,7 +231067,7 @@
         "company_name": "Allegiant Air",
         "id": "f0556938-ec76-4563-a687-39987bbb868b",
         "title": "Planning and Revenue Systems Analyst 1",
-        "active": false,
+        "active": true,
         "date_updated": 1772234277,
         "date_posted": 1772234277,
         "url": "https://jobs.lever.co/allegiantair/d76619b4-1dd5-44e7-8966-ba48e2568d07/apply",
@@ -263153,7 +263153,7 @@
         "company_name": "Sainsbury's",
         "id": "b68f2bb3-1e3e-4b5f-8735-a798a784dd6b",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1773900910,
         "date_posted": 1773900910,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053927",
@@ -263574,5 +263574,23 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "693d81b3-bec7-413e-aab5-9ce87988d13f",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1773882685,
+        "date_posted": 1773882685,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050481",
+        "locations": [
+            "Woking, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
