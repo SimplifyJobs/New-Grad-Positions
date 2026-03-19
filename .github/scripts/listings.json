@@ -261205,7 +261205,7 @@
         "company_name": "Four Seasons",
         "id": "dbb1ad96-9104-4132-bf03-1d7cb62b79e6",
         "title": "Barista \u2013 Trading Co",
-        "active": true,
+        "active": false,
         "date_updated": 1773790148,
         "date_posted": 1773790148,
         "url": "https://fourseasons.wd3.myworkdayjobs.com/search/job/Naples/Barista--Naples-Trading-Co_REQ10374634",
@@ -262889,6 +262889,67 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Link Logistics",
+        "id": "fb05762c-1443-4d86-ac3c-3c149cc59712",
+        "title": "Investment Analyst",
+        "active": true,
+        "date_updated": 1773873723,
+        "date_posted": 1773873723,
+        "url": "https://linklogistics.wd5.myworkdayjobs.com/en-US/Link/job/CA---Irvine/Investment-Analyst_JR101734-1",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/6239df36-c310-4d81-9f43-abc34b0fc63e",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Toyota Research Institute",
+        "id": "2b494321-fbc0-4139-834b-d582eac6bb57",
+        "title": "AI Resident - Learning From Videos - Lfv",
+        "active": true,
+        "date_updated": 1773883254,
+        "date_posted": 1773883254,
+        "url": "https://jobs.lever.co/tri/07910a65-9ab3-4d48-85a8-44cd187afafd/apply",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Toyota-Research-Institute",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Texas A&M University System",
+        "id": "db8dd18c-1f8a-4f96-bd21-5999c175078f",
+        "title": "Michel T. Halbouty Postdoctoral Research Associate",
+        "active": true,
+        "date_updated": 1773876107,
+        "date_posted": 1773876107,
+        "url": "https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/College-Station-TX/Michel-T-Halbouty-Postdoctoral-Research-Associate_R-091722",
+        "locations": [
+            "College Station, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Texas-AM-University-System",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
         ]
     }
 ]
