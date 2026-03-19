@@ -263348,5 +263348,23 @@
         "date_posted": 1773909733,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1773909913,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://firstadvantage.applytojob.com/apply/fiN17xh6U2/Associate-Software-Engineer-US-Remote",
+        "company_name": "First Advantage",
+        "title": "Associate Software Engineer",
+        "locations": [
+            "Remote in US"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "5e062e30-2097-4a0a-b4f2-04d055c187ee",
+        "date_posted": 1773909913,
+        "company_url": "",
+        "is_visible": true
     }
 ]
