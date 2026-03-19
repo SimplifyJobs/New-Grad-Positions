@@ -262617,5 +262617,61 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Q2",
+        "id": "b8601e0c-9295-499f-b3c9-6c1358f5e269",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1773873343,
+        "date_posted": 1773873343,
+        "url": "https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-TX/Software-Engineer_REQ-12326",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Q2Software",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Convene",
+        "id": "ce8e96cd-5833-4872-aafe-c49890018c96",
+        "title": "Associate Digital Product Manager",
+        "active": true,
+        "date_updated": 1773873075,
+        "date_posted": 1773873075,
+        "url": "https://job-boards.greenhouse.io/convene/jobs/7729873",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Convene",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Orb",
+        "id": "66388b0c-6418-4e4e-9f8d-9c2f384de9cf",
+        "title": "Software Engineer \u2013 Early Career - Core Product",
+        "active": true,
+        "date_updated": 1773872824,
+        "date_posted": 1773872824,
+        "url": "https://jobs.ashbyhq.com/orb/b39f70d0-aaa9-46c1-896a-b064a1d3b2cc/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Orb",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
