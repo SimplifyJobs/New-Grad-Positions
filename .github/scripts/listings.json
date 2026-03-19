@@ -262089,7 +262089,7 @@
         "company_name": "Sainsbury's",
         "id": "8454ef5a-0035-4711-aef7-a618a5650bb3",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1773872164,
         "date_posted": 1773872164,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054067",
@@ -263070,5 +263070,23 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Jabil",
+        "id": "14edfd62-adc9-4093-bdcf-d43c8bd93553",
+        "title": "Diagnostic Technician 1",
+        "active": true,
+        "date_updated": 1773875434,
+        "date_posted": 1773875434,
+        "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Florence-KY/Diagnostic-Technician-I---401_J2441748",
+        "locations": [
+            "Florence, KY"
+        ],
+        "company_url": "https://simplify.jobs/c/Jabil",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
