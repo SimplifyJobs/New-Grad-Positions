@@ -294,14 +294,14 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Junior Software Engineer 🇺🇸</td>
 <td><details><summary><strong>6 locations</strong></summary>Newport News, VA</br>Omaha, NE</br>Orlando, FL</br>Charlottesville, VA</br>Lexington, MA</br>Morgantown, WV</details></td>
 <td><a href="https://leidos.wd5.myworkdayjobs.com/en-US/external/job/Newport-News-VA/Junior-Software-Engineer_R-00178244?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td>2d</td>
+<td>3d</td>
 </tr>
 <tr>
 <td><strong>Intelliforce</strong></td>
 <td>Junior Software Engineer- Fully Cleared 🇺🇸</td>
 <td>Annapolis Junction, MD</td>
 <td><a href="https://intelliforceitsolutionsgroup.applytojob.com/apply/uVOPHbn9X0/Junior-Software-Engineer-Fully-Cleared?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td>2d</td>
+<td>3d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/SOTI?utm_source=GHList&utm_medium=company">SOTI</a></strong></td>
@@ -2006,28 +2006,28 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Engineer I</td>
 <td>Durham, NC</td>
 <td>🔒</td>
-<td>2d</td>
+<td>3d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/General-Dynamics-Mission-Systems?utm_source=GHList&utm_medium=company">General Dynamics Mission Systems</a></strong></td>
 <td>Junior Software Engineer 🇺🇸</td>
 <td>Dedham, MA</td>
 <td>🔒</td>
-<td>2d</td>
+<td>3d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Software Engineer – Entry Level 🇺🇸</td>
 <td>Scottsdale, AZ</td>
 <td>🔒</td>
-<td>2d</td>
+<td>3d</td>
 </tr>
 <tr>
 <td><strong>Caterpillar</strong></td>
 <td>Software Engineer 1 🛂</td>
 <td>Irving, TX</br>Peoria, IL</br>Mossville, IL</td>
 <td>🔒</td>
-<td>2d</td>
+<td>3d</td>
 </tr>
 <tr>
 <td><strong>Belk</strong></td>
@@ -10207,7 +10207,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>New Grad Product Marketing Engineer 🎓</td>
 <td>San Jose, CA</br>Kirkland, WA</td>
 <td><div align="center"><a href="https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/San-Jose-CA/New-Grad-Product-Marketing-Engineer_R-463?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/dcd323bc-7e40-413e-a80a-a2d381d63f81?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>7d</td>
+<td>8d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Applied-Materials?utm_source=GHList&utm_medium=company">Applied Materials</a></strong></td>
