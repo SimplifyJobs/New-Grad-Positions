@@ -1,22 +1,5 @@
 [
     {
-        "date_updated": 1761556250,
-        "url": "https://www.coalitioninc.com/job-posting/4560711005",
-        "company_name": "Coalition",
-        "title": "Software Engineer I",
-        "locations": [
-            "Remote in USA"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "source": "AlmondCroffle",
-        "id": "9c9cb916-636c-461e-801d-614d77ddd2d0",
-        "date_posted": 1753196375,
-        "company_url": "",
-        "is_visible": true,
-        "degrees": []
-    },
-    {
         "date_updated": 1761563413,
         "url": "https://www.coalitioninc.com/job-posting/4560712005",
         "company_name": "Coalition",
@@ -167416,7 +167399,7 @@
         "company_name": "RTX",
         "id": "24d256ca-f2c4-4169-80d9-b8b52c2c71a5",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1768956837,
         "date_posted": 1768956837,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826-Ast/Software-Engineer-I--Onsite-_01791041",
@@ -263777,6 +263760,26 @@
             "Birmingham, AL"
         ],
         "company_url": "https://simplify.jobs/c/EBSCO",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "StepStone Group",
+        "id": "97094372-1f58-4b14-b55b-c4763ad0595e",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1773930380,
+        "date_posted": 1773930380,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=7733209",
+        "locations": [
+            "Orlando, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/StepStoneGroup",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
