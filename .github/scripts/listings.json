@@ -263184,5 +263184,171 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Northrop Grumman",
+        "id": "b08805f6-197e-4f72-8e87-0d64fc9d054c",
+        "title": "Systems Engineer",
+        "active": true,
+        "date_updated": 1773902877,
+        "date_posted": 1773902877,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Systems-Engineer_R10226323",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Intel",
+        "id": "6256c28e-e7a4-48ec-a176-451983be78a3",
+        "title": "GPU Software Development Engineer",
+        "active": true,
+        "date_updated": 1773902750,
+        "date_posted": 1773902750,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/GPU-Software-Development-Engineer_JR0282186",
+        "locations": [
+            "Hillsboro, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Intel",
+        "id": "a8040ee1-f2f3-49f4-aeca-1c51f512414e",
+        "title": "GPU Software Development Engineer",
+        "active": true,
+        "date_updated": 1773902751,
+        "date_posted": 1773902751,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/GPU-Software-Development-Engineer_JR0282189",
+        "locations": [
+            "Hillsboro, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Intel",
+        "id": "934e27c1-a965-4299-a6f7-01e568c70037",
+        "title": "GPU Software Development Engineer",
+        "active": true,
+        "date_updated": 1773902751,
+        "date_posted": 1773902751,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/GPU-Software-Development-Engineer_JR0282184",
+        "locations": [
+            "Hillsboro, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Intel",
+        "id": "31662e79-d4d8-4242-9da1-903e923f919f",
+        "title": "GPU Software Development Engineer",
+        "active": true,
+        "date_updated": 1773902753,
+        "date_posted": 1773902753,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/GPU-Software-Development-Engineer_JR0282183",
+        "locations": [
+            "Hillsboro, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "The Boeing Company",
+        "id": "ef027074-8f4c-4d32-a976-4ec43c0d7a26",
+        "title": "Entry-Level Missions Systems Software Engineers - Embedded",
+        "active": true,
+        "date_updated": 1773902227,
+        "date_posted": 1773902227,
+        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Entry-Level-Missions-Systems-Software-Engineers---Embedded_JR2026501664-1",
+        "locations": [
+            "Hazelwood, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "The Boeing Company",
+        "id": "2aa3faff-6c8f-43ab-bcda-2bd24e25964b",
+        "title": "F-15 Mission Systems Entry Level Software Engineer",
+        "active": true,
+        "date_updated": 1773902228,
+        "date_posted": 1773902228,
+        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/F-15-Mission-Systems-Entry-Level-Software-Engineer_JR2026501343-1",
+        "locations": [
+            "Hazelwood, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Littelfuse",
+        "id": "527541d3-9291-4145-877c-650775e07dd1",
+        "title": "Line Technician",
+        "active": true,
+        "date_updated": 1773901944,
+        "date_posted": 1773901944,
+        "url": "https://littelfuse.wd1.myworkdayjobs.com/Littelfuse-Careers/job/Lipa-EBU/Line-Technician_JR-111266",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Littelfuse",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
     }
 ]
