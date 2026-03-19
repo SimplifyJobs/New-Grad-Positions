@@ -263422,5 +263422,25 @@
         "date_posted": 1773910181,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1773910563,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [
+            "Master's"
+        ],
+        "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-TX-PLANO-465--465-Independence-Pkwy--INDEPENDENCE/XMLNAME-2026-Raytheon-Full-Time---Algorithm-Systems-Engineer-II---Plano--TX--Onsite-_01831054",
+        "company_name": "RTX",
+        "title": "Algorithm Systems Engineer II",
+        "locations": [
+            "Plano, TX"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "46dcc12b-ed84-4ac6-b072-debd93830a74",
+        "date_posted": 1773910563,
+        "company_url": "",
+        "is_visible": true
     }
 ]
