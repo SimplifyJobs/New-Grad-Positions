@@ -263460,5 +263460,23 @@
         "date_posted": 1773910868,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1773911116,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.lever.co/ivo/56746366-28dd-43e4-8457-ba7a17c43b57",
+        "company_name": "Ivo",
+        "title": "Software Engineer, Frontend",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "1ca94190-fd1a-4531-953f-194660778ad9",
+        "date_posted": 1773911116,
+        "company_url": "",
+        "is_visible": true
     }
 ]
