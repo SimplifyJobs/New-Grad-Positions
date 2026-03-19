@@ -264211,5 +264211,143 @@
         "degrees": [
             "Associate's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Papa John's",
+        "id": "12a3ceb5-4dc4-49e9-8bd9-05c0fd928f33",
+        "title": "Associate Engineer",
+        "active": true,
+        "date_updated": 1773960816,
+        "date_posted": 1773960816,
+        "url": "https://papajohns.wd1.myworkdayjobs.com/papajohnscareers/job/HQ_Louisville/Associate-Engineer_R26_0000001618",
+        "locations": [
+            "Louisville, KY"
+        ],
+        "company_url": "https://simplify.jobs/c/Papa-Johns",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "29bd9259-9eb7-4baf-b4ac-1bfd3163f0eb",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1773959267,
+        "date_posted": 1773959267,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054264",
+        "locations": [
+            "Harrogate, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "SS&C",
+        "id": "53f8bdca-c771-4216-aa5e-b677249f2951",
+        "title": "Software and Data Engineer - Financial Technology - Launch Program",
+        "active": true,
+        "date_updated": 1773960142,
+        "date_posted": 1773960142,
+        "url": "https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Union-NJ/Software---Data-Engineer---Financial-Technology---Launch-Program_R42203",
+        "locations": [
+            "South Orange, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/SSC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "State of Montana",
+        "id": "c4532b25-a7f3-494e-b9f0-62f9c21ed6f4",
+        "title": "Road Profile Analyst",
+        "active": true,
+        "date_updated": 1773959673,
+        "date_posted": 1773959673,
+        "url": "https://mtstatejobs.taleo.net/careersection/200/jobdetail.ftl?job=26140741",
+        "locations": [
+            "Montana"
+        ],
+        "company_url": "https://simplify.jobs/c/State-Of-Montana",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Intuit",
+        "id": "54a4c75f-0e8b-4a81-9bc0-baafc6113b85",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1773959662,
+        "date_posted": 1773959662,
+        "url": "https://jobs.intuit.com/job/san-diego/software-engineer-1/27595/92964236400",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Intuit",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "OpenAI",
+        "id": "a617adad-3aee-4229-8bc8-29458359a9d2",
+        "title": "Research Scientist / Research Engineer \u2013 Early Career Cohort",
+        "active": true,
+        "date_updated": 1773959529,
+        "date_posted": 1773959529,
+        "url": "https://jobs.ashbyhq.com/openai/4476b271-4987-4bd4-aa1e-0e68ea683b10/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/OpenAI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Avnet",
+        "id": "0374d942-8b19-45e9-8850-322095453a57",
+        "title": "Associate Field Application Engineer",
+        "active": true,
+        "date_updated": 1773959504,
+        "date_posted": 1773959504,
+        "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
+        "locations": [
+            "Hopkins, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Avnet",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
