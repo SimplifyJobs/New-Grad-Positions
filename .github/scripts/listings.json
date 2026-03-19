@@ -263909,5 +263909,307 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Cascade Asset Management Company",
+        "id": "16e6c0e2-16ca-4938-b9a0-3888540a78ec",
+        "title": "Trading Desk Analyst",
+        "active": true,
+        "date_updated": 1773959213,
+        "date_posted": 1773959213,
+        "url": "https://jobs.lever.co/cascademgt/60218238-bec0-4eb9-b9d5-5fe0e2ced40f/apply",
+        "locations": [
+            "Kirkland, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cascade-Asset-Management-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "e1a657f2-b3f5-4277-b84c-d5af4a771837",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1773958809,
+        "date_posted": 1773958809,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054254",
+        "locations": [
+            "Swindon, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "ba9d79e3-6bd0-49aa-a06a-f3f3d68fc71c",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1773958811,
+        "date_posted": 1773958811,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054272",
+        "locations": [
+            "Oxford, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "9f89c3fe-869f-4a19-a218-7843553f2a60",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1773958968,
+        "date_posted": 1773958968,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054215",
+        "locations": [
+            "Easton, Norwich, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Gulfstream",
+        "id": "534d2a5d-3de1-4ae4-b527-5a066dafff5d",
+        "title": "Quality Assurance System Specialist 1 - Data Management",
+        "active": true,
+        "date_updated": 1773958885,
+        "date_posted": 1773958885,
+        "url": "https://careers.gulfstream.com/job/Savannah-Quality-Assurance-System-Specialist-I-Data-Management-GA-31401/1375028700/?ats=successfactors",
+        "locations": [
+            "Savannah, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Gulfstream",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "2e764883-72f2-4e05-8dc9-f16e0118fac9",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1773958570,
+        "date_posted": 1773958570,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054262",
+        "locations": [
+            "Wimborne Minster, Wimborne, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "cfd6f0fa-e259-48c3-beae-37c99fb83513",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1773958553,
+        "date_posted": 1773958553,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054217",
+        "locations": [
+            "Brandon, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "cfa3a338-d9e3-4ad6-b9af-38bbd83ee1f4",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1773958553,
+        "date_posted": 1773958553,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054218",
+        "locations": [
+            "Brighton, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "b4d3ad25-7b7b-4e81-8933-28e161d15639",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1773958552,
+        "date_posted": 1773958552,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054266",
+        "locations": [
+            "Harrogate, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "914f2fa1-d634-4e81-b297-b950ca515791",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1773958552,
+        "date_posted": 1773958552,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054223",
+        "locations": [
+            "Brighton, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Voltus",
+        "id": "8d941556-2a3d-45bf-a1a1-92318fc4f7d2",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1773958746,
+        "date_posted": 1773958746,
+        "url": "https://jobs.lever.co/voltus/c8e44a4d-f53f-495d-835e-749f1d55d109/apply",
+        "locations": [
+            "Remote in USA",
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Voltus",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "87bf2368-d44b-41bf-ac71-979790f914d6",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1773958552,
+        "date_posted": 1773958552,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054257",
+        "locations": [
+            "Glasgow, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Lynker",
+        "id": "69b83e48-201f-4a83-92b7-80ea16f9d60f",
+        "title": "Engineering Technician 2 - Lab",
+        "active": true,
+        "date_updated": 1773958276,
+        "date_posted": 1773958276,
+        "url": "https://careers-lynker.icims.com/jobs/1509/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "John C. Stennis Space Center, MS"
+        ],
+        "company_url": "https://simplify.jobs/c/Lynker",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TIBCO Software",
+        "id": "06508aa8-06fb-43fe-961f-291c4afc5a93",
+        "title": "Application Development Engineer - Messaging Engineering",
+        "active": true,
+        "date_updated": 1773958271,
+        "date_posted": 1773958271,
+        "url": "https://tibco.wd5.myworkdayjobs.com/cloud_software_group/job/Naperville-IL/Application-Development-Engineer---Messaging-Engineering_R104379-1",
+        "locations": [
+            "Naperville, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/b699b9bd-e43b-4d2b-a427-90a2b6306594",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "17b33436-aeb9-4407-af97-6ec77499748c",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1773958551,
+        "date_posted": 1773958551,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054225",
+        "locations": [
+            "Brighton, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Moog ",
+        "id": "167dc303-a1d2-4069-8a78-ccfe30fa6bad",
+        "title": "Electronic Technician",
+        "active": true,
+        "date_updated": 1773958250,
+        "date_posted": 1773958250,
+        "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Blacksburg-VA/Electronic-Technician_R-26-16787",
+        "locations": [
+            "Blacksburg, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Moog",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
     }
 ]
