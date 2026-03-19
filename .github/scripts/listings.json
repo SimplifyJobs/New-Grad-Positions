@@ -263852,5 +263852,80 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Neuberger Berman",
+        "id": "4562a258-c537-47a1-8575-8bf5ae9ccd77",
+        "title": "Applied AI Engineer",
+        "active": true,
+        "date_updated": 1773931493,
+        "date_posted": 1773931493,
+        "url": "https://nb.wd1.myworkdayjobs.com/en-US/NBCareers/job/New-York-NY/Applied-AI-Engineer_R0011946",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Neuberger-Berman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "e57ac16e-2f2c-45c7-9d29-744e7b3d3d7d",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1773929732,
+        "date_posted": 1773929732,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053203",
+        "locations": [
+            "United Kingdom"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "a35fe9d2-cab0-4ae9-918a-771f5e7b8d2a",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1773929731,
+        "date_posted": 1773929731,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054185",
+        "locations": [
+            "Newcastle upon Tyne, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "91a1a0b2-7af1-48e3-8866-69ff6b22c22e",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1773929730,
+        "date_posted": 1773929730,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053658",
+        "locations": [
+            "Norwich, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
