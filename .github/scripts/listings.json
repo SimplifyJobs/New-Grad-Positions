@@ -1,22 +1,5 @@
 [
     {
-        "date_updated": 1761563413,
-        "url": "https://www.coalitioninc.com/job-posting/4560712005",
-        "company_name": "Coalition",
-        "title": "Software Engineer I",
-        "locations": [
-            "Remote in Canada"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "source": "AlmondCroffle",
-        "id": "a100b624-c8c2-41bc-8111-41cbf72a71b2",
-        "date_posted": 1753196474,
-        "company_url": "",
-        "is_visible": true,
-        "degrees": []
-    },
-    {
         "source": "Simplify",
         "category": "Software",
         "company_name": "Chewy",
@@ -263780,6 +263763,90 @@
             "Orlando, FL"
         ],
         "company_url": "https://simplify.jobs/c/StepStoneGroup",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Neuberger Berman",
+        "id": "d80d0c6f-8cdf-437c-94ff-a40a2b8fe7e0",
+        "title": "Applied AI Researcher",
+        "active": true,
+        "date_updated": 1773931491,
+        "date_posted": 1773931491,
+        "url": "https://nb.wd1.myworkdayjobs.com/en-US/NBCareers/job/New-York-NY/Applied-AI-Researcher_R0011945",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Neuberger-Berman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "DXC Technology",
+        "id": "eeab7cda-fcf4-4eda-9a83-3d06e4c35e52",
+        "title": "Data Engineer - Snowflake",
+        "active": true,
+        "date_updated": 1773933130,
+        "date_posted": 1773933130,
+        "url": "https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/GBR---NBL---NEWCASTLE/Data-Engineer--Snowflake-_51576095",
+        "locations": [
+            "London, UK",
+            "Aldershot, UK",
+            "Newcastle upon Tyne, UK",
+            "Glasgow, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/DXC-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Acxiom",
+        "id": "30691c26-c12c-4e0a-9e21-e5ccb278b216",
+        "title": "Associate Solution Developer",
+        "active": true,
+        "date_updated": 1773932875,
+        "date_posted": 1773932875,
+        "url": "https://acxiomllc.wd5.myworkdayjobs.com/AcxiomUSA/job/Conway/Associate-Solution-Developer_JR013902",
+        "locations": [
+            "Jacksonville, AR"
+        ],
+        "company_url": "https://simplify.jobs/c/Acxiom",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "La-Z-Boy",
+        "id": "3adbdd77-3e5d-4af5-92ec-5dce65c0f993",
+        "title": "Supply Chain Data Analyst 1",
+        "active": true,
+        "date_updated": 1773932481,
+        "date_posted": 1773932481,
+        "url": "https://lazboy.wd1.myworkdayjobs.com/lzbcareers/job/Monroe-MI/Supply-Chain-Data-Analyst-I_JR132078",
+        "locations": [
+            "Dundee, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/La-Z-Boy",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
