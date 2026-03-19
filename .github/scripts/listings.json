@@ -263610,5 +263610,177 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "76511793-fd2a-4f37-beee-2a0bc65f7e7c",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1773930081,
+        "date_posted": 1773930081,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054176",
+        "locations": [
+            "Durham, UK",
+            "United Kingdom"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AbbVie",
+        "id": "3aa6576f-e432-4c55-86bc-45f385b7164d",
+        "title": "Associate Engineer - Technology I",
+        "active": true,
+        "date_updated": 1773929959,
+        "date_posted": 1773929959,
+        "url": "https://jobs.smartrecruiters.com/AbbVie/3743990012221422",
+        "locations": [
+            "Waukegan, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/AbbVie",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Halliburton",
+        "id": "db2c66c2-397b-4bbc-8772-a77110c556d3",
+        "title": "Technical Professional Data Science - Associate-Technical Professional",
+        "active": true,
+        "date_updated": 1773929884,
+        "date_posted": 1773929884,
+        "url": "https://jobs.halliburton.com/job/Houston-Technical-Professional-Data-Science-(Associate-Technical-Professional)-TX-77032/1374843700/?ats=successfactors",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Halliburton",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "82735d92-6903-437c-8a46-e669c0da9a26",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1773929731,
+        "date_posted": 1773929731,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054154",
+        "locations": [
+            "Chesterfield, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "GM financial",
+        "id": "7d0b9ee4-e67a-458f-b2e8-9ec664639235",
+        "title": "Software Development Engineer 1",
+        "active": true,
+        "date_updated": 1773929512,
+        "date_posted": 1773929512,
+        "url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1991",
+        "locations": [
+            "Arlington, TX",
+            "Irving, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/GM-Financial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "2144a8df-a032-4f11-ae75-e9ea63f5cc2a",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1773929747,
+        "date_posted": 1773929747,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053748",
+        "locations": [
+            "Bath, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "20517161-9f14-47b9-a87e-1edc2c91f263",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1773929730,
+        "date_posted": 1773929730,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054200",
+        "locations": [
+            "Trowbridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Fortive",
+        "id": "8e9c02ad-c243-4a6c-80a1-cff79c687a89",
+        "title": "Calibration Technician",
+        "active": true,
+        "date_updated": 1773929367,
+        "date_posted": 1773929367,
+        "url": "https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/9246",
+        "locations": [
+            "Norwich, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Fortive",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "EBSCO",
+        "id": "3009ec4a-cd6d-4711-89fe-22af0e13939e",
+        "title": "Software Developer Engineer 1",
+        "active": true,
+        "date_updated": 1773929268,
+        "date_posted": 1773929268,
+        "url": "https://careers-ebscoind.icims.com/jobs/1975/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Birmingham, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/EBSCO",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
