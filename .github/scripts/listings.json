@@ -186040,7 +186040,7 @@
         "company_name": "Abbott",
         "id": "31431878-6f19-489b-8585-22078b228076",
         "title": "Clinical Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1770075697,
         "date_posted": 1770075697,
         "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---California---Sylmar/Clinical-Software-Engineer-I--on-site-_31140519",
@@ -232302,7 +232302,7 @@
         "company_name": "Mastercard",
         "id": "37fb3fb0-2c16-4324-93a4-ea5434b4ed2a",
         "title": "Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1772236534,
         "date_posted": 1772236534,
         "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Software-Engineer-I_R-271315",
@@ -234972,7 +234972,7 @@
         "company_name": "Leidos",
         "id": "307e46f9-0d4c-4f4f-bcec-4a9c1dbf24e2",
         "title": "Entry-Level Software Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1772494192,
         "date_posted": 1772494192,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Entry-Level-Software-Developer_R-00177216",
@@ -248719,7 +248719,7 @@
         "company_name": "Vanderbilt Health",
         "id": "6abc0db9-2cfb-4006-9303-d29bb0629a8b",
         "title": "Associate Product Manager - Clinical Engineering Products",
-        "active": false,
+        "active": true,
         "date_updated": 1773182492,
         "date_posted": 1773182492,
         "url": "https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Associate-Product-Manager---Clinical-Engineering-Products--Local---Hybrid-_R-53983-1",
@@ -264344,6 +264344,85 @@
             "Hopkins, MN"
         ],
         "company_url": "https://simplify.jobs/c/Avnet",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Avnet",
+        "id": "c4870cf5-df4b-4867-8589-d69331ec3113",
+        "title": "Associate Field Application Engineer",
+        "active": true,
+        "date_updated": 1773962352,
+        "date_posted": 1773962352,
+        "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
+        "locations": [
+            "Hopkins, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Avnet",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Micron Technology",
+        "id": "61dc64b6-149b-4c69-8efe-6e7e4cb5637c",
+        "title": "New College Grad - Design Engineer - AI",
+        "active": true,
+        "date_updated": 1773961566,
+        "date_posted": 1773961566,
+        "url": "https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/New-College-Grad---Design-Engineer--AI_JR95333",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Micron-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Goldman Sachs",
+        "id": "1d6180c2-0385-41d2-b8de-a4a65dfdcb1d",
+        "title": "Data Engineering",
+        "active": true,
+        "date_updated": 1773959675,
+        "date_posted": 1773959675,
+        "url": "https://higher.gs.com/roles/165547",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Goldman-Sachs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Arkansas",
+        "id": "7827d202-eb46-4b93-8cd8-45611c91468b",
+        "title": "Graduate Assistant - Data Science",
+        "active": true,
+        "date_updated": 1773959293,
+        "date_posted": 1773959293,
+        "url": "https://uasys.wd5.myworkdayjobs.com/UAF_External_Career_Site/job/Fayetteville/Graduate-Assistant---Data-Science-9-MONTH_R0082554-1",
+        "locations": [
+            "Fayetteville, AR"
+        ],
+        "company_url": "https://simplify.jobs/c/1d49378c-2501-4900-8d62-ab3ca8ddadb0",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
