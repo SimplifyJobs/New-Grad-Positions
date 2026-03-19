@@ -263404,5 +263404,23 @@
         "date_posted": 1773910108,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1773910181,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://giftogram.applytojob.com/apply/SXSlsMILTL/Junior-Full-Stack-Developer-On-Site-NJ",
+        "company_name": "Giftogram",
+        "title": "Junior Full Stack Developer",
+        "locations": [
+            "Whippany, NJ"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "24747dd6-4ac1-418f-a302-24a993d37452",
+        "date_posted": 1773910181,
+        "company_url": "",
+        "is_visible": true
     }
 ]
