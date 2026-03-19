@@ -263384,5 +263384,25 @@
         "date_posted": 1773909984,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1773910108,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/careers_gm/job/Austin-Texas-United-States-of-America/Simulation-Software-Engineer---Early-Career_JR-202605912",
+        "company_name": "General Motors",
+        "title": "Simulation Software Engineer - Early Career",
+        "locations": [
+            "Austin, TX",
+            "Mountain View, CA",
+            "Warren, MI"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "843b947f-ac34-46ef-ba37-4ee3f5888791",
+        "date_posted": 1773910108,
+        "company_url": "",
+        "is_visible": true
     }
 ]
