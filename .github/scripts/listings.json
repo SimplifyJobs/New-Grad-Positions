@@ -262012,7 +262012,7 @@
         "company_name": "Sainsbury's",
         "id": "e4005fcd-2167-40e3-ac5a-052c14fb771d",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1773872168,
         "date_posted": 1773872168,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054060",
@@ -262673,5 +262673,102 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AbbVie",
+        "id": "002cb9c3-f97d-4f33-be1b-ad930f9730c4",
+        "title": "Associate Engineer - Technology I",
+        "active": true,
+        "date_updated": 1773883067,
+        "date_posted": 1773883067,
+        "url": "https://jobs.smartrecruiters.com/AbbVie/3743990012202836",
+        "locations": [
+            "Waukegan, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/AbbVie",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "e3f587f7-4dbf-43b2-bc5d-660cbaa7672e",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1773883189,
+        "date_posted": 1773883189,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054120",
+        "locations": [
+            "Exeter, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Brandeis University",
+        "id": "ba9cfaff-5d1b-4a02-9b44-816715eb5968",
+        "title": "Data Analyst Research Fellow",
+        "active": true,
+        "date_updated": 1773873976,
+        "date_posted": 1773873976,
+        "url": "https://brandeis.wd5.myworkdayjobs.com/en-US/Jobs/job/Brandeis---Waltham-Campus/Data-Analyst-Research-Fellow-at-The-Blue-Square-Alliance-Against-Hate_R0012932-2",
+        "locations": [
+            "Mansfield, MA",
+            "Waltham, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Brandeis-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Deutsche Bank",
+        "id": "eb0285de-f766-4e79-8dfd-12cf9d420754",
+        "title": "Java Engineer",
+        "active": true,
+        "date_updated": 1773875801,
+        "date_posted": 1773875801,
+        "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Cary-3000-CentreGreen-Way/Java-Engineer---Associate_R0427077",
+        "locations": [
+            "Morrisville, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Deutsche-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "DraftKings",
+        "id": "b6c5758c-3588-481f-a0ff-62c38c97f1e6",
+        "title": "Analyst 1 - Casino Product",
+        "active": true,
+        "date_updated": 1773874199,
+        "date_posted": 1773874199,
+        "url": "https://draftkings.wd1.myworkdayjobs.com/Employee_Referral_Portal/job/Boston-MA/Analyst-I--Casino-Product_JR13866",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/DraftKings",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
