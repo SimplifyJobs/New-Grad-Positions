@@ -262186,7 +262186,7 @@
         "company_name": "Sainsbury's",
         "id": "1a2c39c4-df61-4f15-93ba-6385ecf4fed6",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1773872188,
         "date_posted": 1773872188,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054048",
@@ -262539,7 +262539,7 @@
         "company_name": "Parsons",
         "id": "79985779-6f91-4cd8-97b7-8efafabcd2ef",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773873621,
         "date_posted": 1773873621,
         "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---CO-Colorado-Springs/Associate-Software-Engineer_R178557-2",
@@ -263085,6 +263085,84 @@
             "Florence, KY"
         ],
         "company_url": "https://simplify.jobs/c/Jabil",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Hewlett Packard Enterprise",
+        "id": "a68d7dab-eea1-475a-8566-a86af2bfde4a",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1773875642,
+        "date_posted": 1773875642,
+        "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Roseville-California-United-States-of-America/Software-Engineer-I_1202398",
+        "locations": [
+            "Roseville, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Marigold",
+        "id": "9c2c07d8-2e79-4922-afca-b88661604d37",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1773872302,
+        "date_posted": 1773872302,
+        "url": "https://campaignmonitor.wd5.myworkdayjobs.com/marigold/job/Remote-United-States/Associate-Software-Engineer_R2412",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Marigold",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amentum",
+        "id": "a1945fab-3aae-419d-ac33-5c19333ddf97",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1773875466,
+        "date_posted": 1773875466,
+        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Fredericksburg/Software-Engineer_R0156761-1",
+        "locations": [
+            "Fredericksburg, VA",
+            "Dahlgren, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amentum",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Williams-Sonoma",
+        "id": "4614ffb1-d5de-4f9c-b46f-cd3e0dac10c8",
+        "title": "Assistant Website Merchandiser",
+        "active": true,
+        "date_updated": 1773882608,
+        "date_posted": 1773882608,
+        "url": "https://ehac.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/18048",
+        "locations": [
+            "Brooklyn, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Williams-Sonoma",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
