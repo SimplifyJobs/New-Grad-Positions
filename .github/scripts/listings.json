@@ -4853,8 +4853,8 @@
         ],
         "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
-        "source": "AlmondCroffle",
-        "id": "0890de9f-25df-4a97-b781-5879037ba32c",
+        "source": "Simplify",
+        "id": "ff09bedd-9b71-44fb-816d-cb2f72dd9231",
         "date_posted": 1755593486,
         "company_url": "",
         "is_visible": true
@@ -8570,7 +8570,7 @@
         "company_name": "N1",
         "id": "566e37cf-7620-4e64-90ea-d25a99bb5f19",
         "title": "New Grad Software Engineer - Backend Rust",
-        "active": false,
+        "active": true,
         "date_updated": 1756847561,
         "date_posted": 1756847561,
         "url": "https://jobs.ashbyhq.com/n1/a3e25c84-0846-454a-b2fc-a356c2a713bd/application",
@@ -263163,6 +263163,24 @@
             "Brooklyn, NY"
         ],
         "company_url": "https://simplify.jobs/c/Williams-Sonoma",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "b68f2bb3-1e3e-4b5f-8735-a798a784dd6b",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1773900910,
+        "date_posted": 1773900910,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053927",
+        "locations": [
+            "Maidstone, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
