@@ -2,24 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Chewy",
-        "id": "e3160033-b187-489b-9a2c-6ad90c7eb959",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1753227701,
-        "date_posted": 1753227701,
-        "url": "https://boards.greenhouse.io/embed/job_app?token=7075000",
-        "locations": [
-            "Seattle, WA",
-            "Bellevue, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Chewy",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "mthree",
         "id": "4570d8ad-62e5-475b-a211-802e05fe95d3",
         "title": "Junior Software Engineer",
@@ -185823,7 +185805,7 @@
         "company_name": "Abbott",
         "id": "1f696401-c5c4-49d8-935b-4f5715d569c1",
         "title": "Clinical Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1770076430,
         "date_posted": 1770076430,
         "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Sylmar/Clinical-Software-Engineer-I--on-site-_31140519-1",
@@ -264428,5 +264410,243 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Boeing Company",
+        "id": "1345853b-fa43-440b-abe9-b1956e51684b",
+        "title": "Product Data Management Engineer",
+        "active": true,
+        "date_updated": 1773960833,
+        "date_posted": 1773960833,
+        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Huntsville-AL/Product-Data-Management-Engineer--Associate-or-Experienced-Level_JR2026501838-1",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Cisco",
+        "id": "a36cbd7f-5da5-4313-8f57-e11698c480c6",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1773959637,
+        "date_posted": 1773959637,
+        "url": "https://careers.cisco.com/global/en/job/2011256",
+        "locations": [
+            "Research Triangle, Durham, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Cisco",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Old Mission",
+        "id": "b09d07b6-2d11-469e-b3aa-b297ebd7f7a3",
+        "title": "University Graduates",
+        "active": true,
+        "date_updated": 1773959500,
+        "date_posted": 1773959500,
+        "url": "https://www.oldmissioncapital.com/careers/?gh_jid=6602928003",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Old-Mission",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Ford Motor Company",
+        "id": "20b25ae5-43ea-479e-be7d-9efeca13d22f",
+        "title": "Senior Software Engineer Full Stack",
+        "active": true,
+        "date_updated": 1773958537,
+        "date_posted": 1773958537,
+        "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/61032",
+        "locations": [
+            "Dearborn, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Ford-Motor-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Avnet",
+        "id": "ff85f12b-375a-4ef2-a74f-4aeb14bf6f48",
+        "title": "Associate Field Application Engineer",
+        "active": true,
+        "date_updated": 1773959510,
+        "date_posted": 1773959510,
+        "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Irvine-California-United-States-Of-America/Associate-Field-Application-Engineer_JR-022070",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Avnet",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Avnet",
+        "id": "de8e563a-38a9-48ca-abdb-d0146a1aed16",
+        "title": "Associate Field Application Engineer",
+        "active": true,
+        "date_updated": 1773959515,
+        "date_posted": 1773959515,
+        "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Irvine-California-United-States-Of-America/Associate-Field-Application-Engineer_JR-022070",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Avnet",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Astronomer",
+        "id": "da35e250-cc83-40c3-8030-56a35545fe85",
+        "title": "Software Engineer - Platform",
+        "active": true,
+        "date_updated": 1773959546,
+        "date_posted": 1773959546,
+        "url": "https://jobs.ashbyhq.com/astronomer/de75aa5e-82f9-4348-9122-4cc83138a569/application",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Astronomer",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Ford Motor Company",
+        "id": "a792d13a-cad7-4945-9dbf-37b0516fdeed",
+        "title": "VEV Systems Integration Engineer",
+        "active": true,
+        "date_updated": 1773958539,
+        "date_posted": 1773958539,
+        "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/61016",
+        "locations": [
+            "Taylor, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Ford-Motor-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Avnet",
+        "id": "a1567658-4e67-4409-b53f-2f09b6501a39",
+        "title": "Associate Field Application Engineer",
+        "active": true,
+        "date_updated": 1773962357,
+        "date_posted": 1773962357,
+        "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Wilmington-Massachusetts-United-States-of-America/Associate-Field-Application-Engineer_JR-022067",
+        "locations": [
+            "Burlington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Avnet",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Cox",
+        "id": "79ed4cc5-0e73-48cb-afe9-c93c0a0db405",
+        "title": "Product Manager 1",
+        "active": true,
+        "date_updated": 1773962288,
+        "date_posted": 1773962288,
+        "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Product-Manager-I_R202674728",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cox",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Goldman Sachs",
+        "id": "62f2d668-cd38-4342-ac4f-de2c228b6c45",
+        "title": "Asset & Wealth Management",
+        "active": true,
+        "date_updated": 1773959684,
+        "date_posted": 1773959684,
+        "url": "https://higher.gs.com/roles/166092",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Goldman-Sachs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Mondelez International",
+        "id": "59fe8eb2-8abc-4f34-86c4-d836ada0f8d2",
+        "title": "Analyst IC",
+        "active": true,
+        "date_updated": 1773961257,
+        "date_posted": 1773961257,
+        "url": "https://wd3.myworkdaysite.com/recruiting/mdlz/External/job/Uxbridge-United-Kingdom/Analyst-IC--Immediate-Consumption-_R-160814",
+        "locations": [
+            "Uxbridge, UK",
+            "Birmingham, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Mondelez-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
