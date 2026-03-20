@@ -264262,7 +264262,7 @@
         "company_name": "Intuit",
         "id": "54a4c75f-0e8b-4a81-9bc0-baafc6113b85",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1773959662,
         "date_posted": 1773959662,
         "url": "https://jobs.intuit.com/job/san-diego/software-engineer-1/27595/92964236400",
@@ -265367,6 +265367,26 @@
         "date_updated": 1774002315,
         "date_posted": 1774002315,
         "url": "https://williammary.wd12.myworkdayjobs.com/WM/job/Swem-Library/CGA-Fellow--Technician-_JR101329",
+        "locations": [
+            "Williamsburg, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/William-And-Mary",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "William & Mary",
+        "id": "623698ea-3710-4d32-a204-482bee0e6eed",
+        "title": "Library Web Developer",
+        "active": true,
+        "date_updated": 1774002483,
+        "date_posted": 1774002483,
+        "url": "https://williammary.wd12.myworkdayjobs.com/WM/job/Posting-Location---William--Mary/Library-Web-Developer_JR101209",
         "locations": [
             "Williamsburg, VA"
         ],
