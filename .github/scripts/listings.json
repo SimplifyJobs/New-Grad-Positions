@@ -265396,5 +265396,79 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "69b3b524-3151-44d7-97a1-ff9306963ce5",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1774016255,
+        "date_posted": 1774016255,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054350",
+        "locations": [
+            "Wellington, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "ead8d50d-fdf4-499c-8531-0cbac6ebd8b2",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1774016086,
+        "date_posted": 1774016086,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054340",
+        "locations": [
+            "Wellington, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "9995045a-5153-460f-b95d-420282716d89",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1774016061,
+        "date_posted": 1774016061,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053802",
+        "locations": [
+            "Welwyn Garden City, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Wisconsin-Madison",
+        "id": "5fcb80ac-f68e-4c80-9424-b371e81f6af7",
+        "title": "Assistant Professor of Music Technology and Artificial Intelligence - Rise-AI",
+        "active": true,
+        "date_updated": 1774015768,
+        "date_posted": 1774015768,
+        "url": "https://wisconsin.wd1.myworkdayjobs.com/UW_Madison/job/Madison-WI/Assistant-Professor-of-Music-Technology-and-Artificial-Intelligence_JR10004513",
+        "locations": [
+            "Madison, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Wisconsin-Madison",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
     }
 ]
