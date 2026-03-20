@@ -265188,5 +265188,69 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Dordt University",
+        "id": "b1f65bbb-d590-45d3-bfd1-07d56a21e5e2",
+        "title": "Associate Data Engineer \u2013 Entry Level",
+        "active": true,
+        "date_updated": 1773986640,
+        "date_posted": 1773986640,
+        "url": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=87015",
+        "locations": [
+            "East Lansing, MI",
+            "Baton Rouge, LA",
+            "Buffalo, NY",
+            "Dundee, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Dordt-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Brown University",
+        "id": "486bf5b5-dedd-4bf9-ac37-b0f3b63f9f3a",
+        "title": "Research Data Analyst",
+        "active": true,
+        "date_updated": 1773986503,
+        "date_posted": 1773986503,
+        "url": "https://brown.wd5.myworkdayjobs.com/staff-careers-brown/job/Coro-Center-West/Research-Data-Analyst_REQ207235",
+        "locations": [
+            "Providence, RI"
+        ],
+        "company_url": "https://simplify.jobs/c/Brown-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Dordt University",
+        "id": "177977a5-4553-4494-a687-01975d51375c",
+        "title": "Associate SAP Technical - Entry level",
+        "active": true,
+        "date_updated": 1773986658,
+        "date_posted": 1773986658,
+        "url": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=101517",
+        "locations": [
+            "Nova Scotia, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Dordt-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
