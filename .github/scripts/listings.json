@@ -203543,7 +203543,7 @@
         "company_name": "CoorsTek",
         "id": "7f0077d9-8ed3-45f6-9d55-12c87738835d",
         "title": "Product Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1770940123,
         "date_posted": 1770940123,
         "url": "https://coorstek.wd1.myworkdayjobs.com/CoorsTekCareers/job/Golden-CO/Product-Engineer-I_R-113235",
@@ -264706,5 +264706,174 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "224060d1-afbb-453b-a16a-60e457cb6509",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1773969459,
+        "date_posted": 1773969459,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054283",
+        "locations": [
+            "Trowbridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Amazon",
+        "id": "4feeff32-d18d-464e-b56f-539484e9c533",
+        "title": "Data Engineer 1 - IT Pnd Data and Analytics",
+        "active": true,
+        "date_updated": 1773969641,
+        "date_posted": 1773969641,
+        "url": "https://amazon.jobs/en/jobs/10371877/data-engineer-i-it-pnd-data-and-analytics",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Airtable",
+        "id": "e0cae6a8-af21-444e-8817-34ed9c997b0c",
+        "title": "AI Analytics Engineer - Marketing Analytics",
+        "active": true,
+        "date_updated": 1773969327,
+        "date_posted": 1773969327,
+        "url": "https://job-boards.greenhouse.io/airtable/jobs/8434307002",
+        "locations": [
+            "SF",
+            "Austin, TX",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Airtable",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "d9585c96-cd73-484c-9045-9e4c123f23e6",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1773969272,
+        "date_posted": 1773969272,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054284",
+        "locations": [
+            "Trowbridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "607283bb-8609-49b1-b80a-a9b514dde9dc",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1773969282,
+        "date_posted": 1773969282,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053615",
+        "locations": [
+            "Stirling, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "3cfe1ce6-59f3-4d64-bc1f-47773155798a",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1773969277,
+        "date_posted": 1773969277,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054285",
+        "locations": [
+            "Trowbridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "137d2850-86bd-4637-9029-7d0138faddb8",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1773969265,
+        "date_posted": 1773969265,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053525",
+        "locations": [
+            "Christchurch, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Smartsheet",
+        "id": "22073d41-9c42-4b58-9a73-ac032c848da1",
+        "title": "Software Engineer 1 - Secure Platform Operations",
+        "active": true,
+        "date_updated": 1773968810,
+        "date_posted": 1773968810,
+        "url": "https://job-boards.greenhouse.io/smartsheet/jobs/7732551",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Smartsheet",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Intuit",
+        "id": "107c92f2-c610-4cca-89de-5b51b50041b9",
+        "title": "Full Stack Software Developer 1",
+        "active": true,
+        "date_updated": 1773968971,
+        "date_posted": 1773968971,
+        "url": "https://jobs.intuit.com/job/toronto/full-stack-software-developer-i/27595/92964236816",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Intuit",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
