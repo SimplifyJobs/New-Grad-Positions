@@ -263337,9 +263337,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1773910563,
+        "date_updated": 1774018721,
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "degrees": [
             "Master's"
         ],
