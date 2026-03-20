@@ -264145,7 +264145,7 @@
         "company_name": "Sainsbury's",
         "id": "17b33436-aeb9-4407-af97-6ec77499748c",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1773958551,
         "date_posted": 1773958551,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054225",
@@ -264995,5 +264995,198 @@
             "Master's",
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "ec47dfa7-1e0d-406d-b570-f460c1a06d2f",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1773958560,
+        "date_posted": 1773958560,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054263",
+        "locations": [
+            "Harrogate, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Arkansas",
+        "id": "9b48bb08-b4b3-4d4d-8fe7-f45594b0dd49",
+        "title": "Graduate Assistant - Data Science",
+        "active": true,
+        "date_updated": 1773961919,
+        "date_posted": 1773961919,
+        "url": "https://uasys.wd5.myworkdayjobs.com/uasys/job/Fayetteville/Graduate-Assistant---Data-Science-9-MONTH_R0082554-2",
+        "locations": [
+            "Fayetteville, AR"
+        ],
+        "company_url": "https://simplify.jobs/c/1d49378c-2501-4900-8d62-ab3ca8ddadb0",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Avnet",
+        "id": "49997310-9583-4e8c-981a-385b75e55815",
+        "title": "Associate Field Application Engineer",
+        "active": true,
+        "date_updated": 1773959504,
+        "date_posted": 1773959504,
+        "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Wilmington-Massachusetts-United-States-of-America/Associate-Field-Application-Engineer_JR-022067",
+        "locations": [
+            "Burlington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Avnet",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Acushnet Holdings",
+        "id": "e2cd7ff3-1288-40c6-bc82-53421317086f",
+        "title": "Associate Product Developer",
+        "active": true,
+        "date_updated": 1773959090,
+        "date_posted": 1773959090,
+        "url": "https://acushnetgolf.wd12.myworkdayjobs.com/ACU/job/Fairhaven-Massachusetts-United-States-of-America/Associate-Product-Developer_Req101114",
+        "locations": [
+            "Dartmouth, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Acushnet-Holdings",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Manulife Financial",
+        "id": "c38dfeb7-565f-4afc-a25b-62234dcb7a03",
+        "title": "Market Data Analyst",
+        "active": true,
+        "date_updated": 1773962037,
+        "date_posted": 1773962037,
+        "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Market-Data-Analyst_JR26030549",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Manulife-Financial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Viavi Solutions",
+        "id": "a40196b7-ef85-466b-9bd6-88c51ff5b496",
+        "title": "Calibration Technician",
+        "active": true,
+        "date_updated": 1773958971,
+        "date_posted": 1773958971,
+        "url": "https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Paeonian-Springs-VA-USA/Calibration-Technician_260004447-2",
+        "locations": [
+            "Leesburg, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Viavi-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sportradar",
+        "id": "3cfeb243-eadb-4dc5-9445-ddec8b559094",
+        "title": "Trading Analyst - Trading",
+        "active": true,
+        "date_updated": 1773959372,
+        "date_posted": 1773959372,
+        "url": "https://jobs.smartrecruiters.com/Sportradar/744000115744257",
+        "locations": [
+            "Las Vegas, NV"
+        ],
+        "company_url": "https://simplify.jobs/c/Sportradar",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "750d6084-9299-468f-94d8-6c4850d21b90",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1773958548,
+        "date_posted": 1773958548,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054245",
+        "locations": [
+            "Chesterfield, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Cisco",
+        "id": "c626fb47-c64c-47ec-a034-1f2723ef9a4e",
+        "title": "Hardware Engineer - High-speed IO/Testing",
+        "active": true,
+        "date_updated": 1773959713,
+        "date_posted": 1773959713,
+        "url": "https://careers.cisco.com/global/en/job/2011046",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cisco",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "7eb71ac0-6ed3-4ac5-8623-4886633081d7",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1773958545,
+        "date_posted": 1773958545,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054214",
+        "locations": [
+            "Brandon, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
