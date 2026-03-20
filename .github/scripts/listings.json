@@ -80369,60 +80369,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Five Rings Capital",
-        "id": "3e55e4cd-f701-4981-a9b1-f3de192e3068",
-        "title": "Campus Full Time - Quantitative Trader",
-        "active": false,
-        "date_updated": 1762906276,
-        "date_posted": 1753288163,
-        "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/4808867008",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Five-Rings",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Five Rings Capital",
-        "id": "8b8ff2d7-f927-45df-b525-fd76949754e8",
-        "title": "Campus Full Time - Quantitative Trader",
-        "active": true,
-        "date_updated": 1762818227,
-        "date_posted": 1753288166,
-        "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/4808892008",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Five-Rings",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Five Rings Capital",
-        "id": "dba9548e-2c09-4e24-b1c5-470b335f4a13",
-        "title": "Campus Full Time 2026 - Software Developer - London",
-        "active": false,
-        "date_updated": 1761269961,
-        "date_posted": 1753288166,
-        "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/4817027008",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Five-Rings",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Crowdstrike",
         "id": "2ac51bf3-0b24-48e1-81fb-2a535a16e730",
@@ -164705,24 +164651,6 @@
             "Master's",
             "PhD"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Lucid Motors",
-        "id": "a1fd0871-80e0-40c6-9967-e1e7a63bbf2a",
-        "title": "Service Technician",
-        "active": false,
-        "date_updated": 1768955611,
-        "date_posted": 1753287190,
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/4796907007",
-        "locations": [
-            "Newport Beach, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Lucid-Motors",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
