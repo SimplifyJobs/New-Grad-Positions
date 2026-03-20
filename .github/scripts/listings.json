@@ -265272,5 +265272,23 @@
         "degrees": [
             "Certificate"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Numeral",
+        "id": "d556c74b-3572-47ff-85d9-5bc3a4bbc529",
+        "title": "Product Operations Analyst",
+        "active": true,
+        "date_updated": 1773995670,
+        "date_posted": 1773786095,
+        "url": "https://jobs.ashbyhq.com/numeral/e50e001c-870b-4bc9-b519-9333e762e64b/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Numeral",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
