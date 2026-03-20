@@ -264258,24 +264258,21 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
+        "category": "Software Engineering",
         "company_name": "Intuit",
         "id": "54a4c75f-0e8b-4a81-9bc0-baafc6113b85",
         "title": "Software Engineer 1",
         "active": false,
-        "date_updated": 1773959662,
+        "date_updated": 1774018150,
         "date_posted": 1773959662,
         "url": "https://jobs.intuit.com/job/san-diego/software-engineer-1/27595/92964236400",
         "locations": [
             "San Diego, CA"
         ],
         "company_url": "https://simplify.jobs/c/Intuit",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
+        "degrees": []
     },
     {
         "source": "Simplify",
