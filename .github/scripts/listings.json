@@ -35263,7 +35263,7 @@
         "company_name": "Avis Budget Group",
         "id": "d5d7b662-9d2d-4c7b-8158-ade634cbe221",
         "title": "Accelerate Postgraduate Opportunity - Deployed Transformation Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1762920814,
         "date_posted": 1762818135,
         "url": "https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/379-Interpace-Pkwy-Parsippany-07054/Accelerate---Deployed-Transformation-Engineer--Post-Graduate-Opportunity-_R0182038",
@@ -265355,6 +265355,26 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "William & Mary",
+        "id": "ca83556c-e790-4a83-b2ee-010a8ddb7a38",
+        "title": "CGA Fellow",
+        "active": true,
+        "date_updated": 1774002315,
+        "date_posted": 1774002315,
+        "url": "https://williammary.wd12.myworkdayjobs.com/WM/job/Swem-Library/CGA-Fellow--Technician-_JR101329",
+        "locations": [
+            "Williamsburg, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/William-And-Mary",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
