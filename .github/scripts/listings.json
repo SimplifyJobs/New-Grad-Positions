@@ -1,22 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "mthree",
-        "id": "4570d8ad-62e5-475b-a211-802e05fe95d3",
-        "title": "Junior Software Engineer",
-        "active": false,
-        "date_updated": 1753235271,
-        "date_posted": 1753235271,
-        "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4586725006",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Mthree",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
         "date_updated": 1761560476,
         "url": "https://higher.gs.com/roles/150845",
         "company_name": "Goldman Sachs",
@@ -264870,6 +264853,122 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Intuit",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Applied Materials",
+        "id": "df6cf024-25be-46be-9d7f-64d79ec60c90",
+        "title": "Software Engineer New College Grad",
+        "active": true,
+        "date_updated": 1773971339,
+        "date_posted": 1773971339,
+        "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Software-Engineer-New-College-Grad_R2615502",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Materials",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Applied Materials",
+        "id": "851cdd9b-a53b-4460-be59-1a6c25c13548",
+        "title": "Software Engineer 2",
+        "active": true,
+        "date_updated": 1773971331,
+        "date_posted": 1773971331,
+        "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Software-Engineer-II_R2615499",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Materials",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Motorola",
+        "id": "e5123464-94b2-4c9d-82ca-242d4a2f8c45",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1773970781,
+        "date_posted": 1773970781,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Software-Engineer_R63225",
+        "locations": [
+            "Plantation, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Stratolaunch",
+        "id": "d1b2e0a7-0c10-4a6e-94ea-1c59826e0fdd",
+        "title": "Harness Engineer",
+        "active": true,
+        "date_updated": 1773970222,
+        "date_posted": 1773970222,
+        "url": "https://job-boards.greenhouse.io/stratolaunch/jobs/5159778008",
+        "locations": [
+            "Mojave, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Stratolaunch",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "90b114f2-0c70-459b-9900-a3216306eafd",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1773969469,
+        "date_posted": 1773969469,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054278",
+        "locations": [
+            "Welwyn Garden City, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Burlington Stores",
+        "id": "34053976-d953-4e70-956c-5882d3c0fe16",
+        "title": "AI Data Scientist",
+        "active": true,
+        "date_updated": 1773969419,
+        "date_posted": 1773969419,
+        "url": "https://burlington.wd5.myworkdayjobs.com/BurlingtonCareers/job/00505---Edgewater-Park-Corporate-Office/AI-Data-Scientist_R102489",
+        "locations": [
+            "Delanco, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Burlington-Stores",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
