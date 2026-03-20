@@ -265315,5 +265315,46 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "William & Mary",
+        "id": "8b9ccf56-5a60-45dc-b5a0-a0a436bb2470",
+        "title": "Assistant Teaching Professor of Data Science",
+        "active": true,
+        "date_updated": 1773999662,
+        "date_posted": 1773999662,
+        "url": "https://williammary.wd12.myworkdayjobs.com/WM/job/William--Mary/Assistant-Teaching-Professor-of-Data-Science_JR101068",
+        "locations": [
+            "Williamsburg, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/William-And-Mary",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "William & Mary",
+        "id": "3ba63298-5fab-45e1-827f-1485a5069ab4",
+        "title": "Postdoctoral Researcher",
+        "active": true,
+        "date_updated": 1773999672,
+        "date_posted": 1773999672,
+        "url": "https://williammary.wd12.myworkdayjobs.com/WM/job/Virginia-Institute-of-Marine-Science/Postdoctoral-Researcher_JR101341",
+        "locations": [
+            "Virginia"
+        ],
+        "company_url": "https://simplify.jobs/c/William-And-Mary",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
     }
 ]
