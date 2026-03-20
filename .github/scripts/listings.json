@@ -264648,5 +264648,63 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Thorlabs",
+        "id": "e19818b3-6c63-48d0-bcd5-afb624664fdb",
+        "title": "Engineering Technician 1",
+        "active": true,
+        "date_updated": 1773958485,
+        "date_posted": 1773958485,
+        "url": "https://apply.workable.com/thorlabs/j/AAB6CC9387/apply",
+        "locations": [
+            "Branchville, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Thorlabs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Concord",
+        "id": "2422d2a5-ee3b-4ed9-bfec-8d56965727be",
+        "title": "Data Insights Developer",
+        "active": true,
+        "date_updated": 1773958277,
+        "date_posted": 1773958277,
+        "url": "https://careers-concord.icims.com/jobs/2045/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Nashville, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/Concord",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "CACI",
+        "id": "2ef1bee3-467f-4d41-93ab-135878413164",
+        "title": "Engineering Development Support",
+        "active": true,
+        "date_updated": 1773961199,
+        "date_posted": 1773961199,
+        "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-MD-Aberdeen-Proving-Ground/Engineering-Development-Support_323549",
+        "locations": [
+            "Aberdeen, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
