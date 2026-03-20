@@ -263664,7 +263664,7 @@
         "company_name": "Fortive",
         "id": "8e9c02ad-c243-4a6c-80a1-cff79c687a89",
         "title": "Calibration Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1773929367,
         "date_posted": 1773929367,
         "url": "https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/9246",
