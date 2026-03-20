@@ -73490,7 +73490,7 @@
         "company_name": "Apex Fintech Solutions",
         "id": "61f248d1-fb21-4da6-ba94-323cd500187e",
         "title": "Associate Product Analyst - Aldp",
-        "active": false,
+        "active": true,
         "date_updated": 1755956717,
         "date_posted": 1755956717,
         "url": "https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions/job/Austin-TX/Associate-Product-Analyst--ALDP-_JR103415-1",
@@ -113538,7 +113538,7 @@
         "company_name": "Leidos",
         "id": "7735f94a-cee7-409d-8e93-ba8835c71acf",
         "title": "Entry Level Graphics Software Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1764991918,
         "date_posted": 1764991918,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Entry-Level-Graphics-Software-Developer_R-00171511",
@@ -265686,6 +265686,314 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "PVH",
+        "id": "be25b1a5-0713-45a5-ab73-c43b621a615b",
+        "title": "Assistant Merchandiser",
+        "active": true,
+        "date_updated": 1774047309,
+        "date_posted": 1774047309,
+        "url": "https://pvh.wd1.myworkdayjobs.com/en-US/PVH_Careers/job/New-York-NY-Calvin-Klein-Office/Assistant-Merchandiser--Apparel-Off-Price_R58009-1",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/PVH",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "PVH",
+        "id": "3e5e88ac-a0a1-486a-9a57-cae909b51062",
+        "title": "Assistant Merchandiser - Close to Body Off Price",
+        "active": true,
+        "date_updated": 1774047308,
+        "date_posted": 1774047308,
+        "url": "https://pvh.wd1.myworkdayjobs.com/en-US/PVH_Careers/job/New-York-NY-Calvin-Klein-Office/Assistant-Merchandiser--Close-to-Body-Off-Price_R58010-1",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/PVH",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Worldpay",
+        "id": "02550120-f814-4920-9adf-ae6bbaae11cf",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1774047406,
+        "date_posted": 1774047406,
+        "url": "https://worldpay.wd5.myworkdayjobs.com/Worldpay_External_Careers_Site/job/CINCINNATI-OHIO/Software-Engineer-I_JR0608959",
+        "locations": [
+            "Jacksonville, FL",
+            "Atlanta, GA",
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Worldpay",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Microchip Technology",
+        "id": "a18dc3f2-82fe-4ec8-8a76-a7773eb225e4",
+        "title": "Engineer 1 - Product - Test",
+        "active": true,
+        "date_updated": 1774047185,
+        "date_posted": 1774047185,
+        "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/MA---Beverly-Brimbal/Engineer-I---Product--Test-_R1173-26",
+        "locations": [
+            "Peabody, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Microchip-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Baird",
+        "id": "5d7b6012-9659-4506-bb89-fd56e8629feb",
+        "title": "Fixed Income Agency Mortgage-Backed - MBS",
+        "active": true,
+        "date_updated": 1774047240,
+        "date_posted": 1774047240,
+        "url": "https://baird.wd1.myworkdayjobs.com/careers/job/CT-Stamford/Fixed-Income-Agency-Mortgage-Backed--MBS--Trading-Assistant_R2026373-2",
+        "locations": [
+            "Stamford, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/Baird",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Grayce",
+        "id": "1e201c68-efa7-4539-bb6b-74482e4c7350",
+        "title": "Graduate AI Analyst",
+        "active": true,
+        "date_updated": 1774045775,
+        "date_posted": 1774045775,
+        "url": "https://apply.workable.com/grayce/j/2EC656B215/apply",
+        "locations": [
+            "Cardiff, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/ece08408-be43-4331-9af6-746c6e9977ec",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "NVIDIA",
+        "id": "4199fd90-fe22-403b-9269-f37ca01e3b1b",
+        "title": "Senior Systems Software Engineer",
+        "active": true,
+        "date_updated": 1774045494,
+        "date_posted": 1774045494,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-OR-Hillsboro/Senior-Systems-Software-Engineer---New-College-Grad-2026_JR2015144-1",
+        "locations": [
+            "Hillsboro, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Latitude AI",
+        "id": "a56758ed-a68a-4dda-bf75-d133e93e895a",
+        "title": "GIS Production Analyst",
+        "active": true,
+        "date_updated": 1774045268,
+        "date_posted": 1774045268,
+        "url": "https://job-boards.greenhouse.io/latitude/jobs/7739363",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/LatitudeAI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Blue Cross Blue Shield of Michigan",
+        "id": "5a35df3b-cdf4-46ba-936b-6b45a80d8c02",
+        "title": "Data Science Analyst 1",
+        "active": true,
+        "date_updated": 1774045636,
+        "date_posted": 1774045636,
+        "url": "https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/13982",
+        "locations": [
+            "Detroit, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Blue-Cross-Blue-Shield-Of-Michigan",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Integrity",
+        "id": "fa850c0e-9e14-4cd4-9f70-5b4112677a1f",
+        "title": "Data & Reporting Analyst",
+        "active": true,
+        "date_updated": 1774045622,
+        "date_posted": 1774045622,
+        "url": "https://integritymarketing.wd1.myworkdayjobs.com/en-US/Integrity/job/Coon-Rapids-MN/Data---Reporting-Analyst_JR3786",
+        "locations": [
+            "Blaine, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Integrity",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Kohl's",
+        "id": "cc1b63fd-ee57-46df-bb6c-a1f656362fac",
+        "title": "Assistant Designer",
+        "active": true,
+        "date_updated": 1774045962,
+        "date_posted": 1774045962,
+        "url": "https://kohls.wd1.myworkdayjobs.com/kohlscareers/job/Kohls-Corporate-Offices-0900/Assistant-Designer_R469236",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Kohls",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "bf492596-92cf-41bd-8c71-bbbedaaed798",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1774045708,
+        "date_posted": 1774045708,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054390",
+        "locations": [
+            "Edinburgh, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Jerry",
+        "id": "ac91cd52-e9d0-45a5-bfd2-ecd11f617bed",
+        "title": "Associate Applied Data Scientist",
+        "active": true,
+        "date_updated": 1774045459,
+        "date_posted": 1774045459,
+        "url": "https://jobs.ashbyhq.com/jerry.ai/4c6afd47-cbb6-4855-a7d8-ed1c24f9fb1b/application",
+        "locations": [
+            "Salt Lake City, UT",
+            "Austin, TX",
+            "Chicago, IL",
+            "NYC",
+            "Phoenix, AZ",
+            "Portland, OR",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Louisiana State University (LSU)",
+        "id": "270779e8-3962-49c9-b984-bfc3c2095215",
+        "title": "Customer Service Analyst - Data Analyst 1",
+        "active": true,
+        "date_updated": 1774045793,
+        "date_posted": 1774045793,
+        "url": "https://lsu.wd1.myworkdayjobs.com/LSU/job/0355-William-P-Johnston-Hall---Office/Customer-Service-Analyst--Data-Analyst-1-_R00114025",
+        "locations": [
+            "Baton Rouge, LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Louisiana-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Crusoe",
+        "id": "0e95b9fd-3889-436b-b159-9a6356f18e3a",
+        "title": "Hardware Systems Engineer 1",
+        "active": true,
+        "date_updated": 1774045589,
+        "date_posted": 1774045589,
+        "url": "https://jobs.ashbyhq.com/Crusoe/90d01247-2315-4af0-8ac7-8754340d6fa1/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Crusoe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
