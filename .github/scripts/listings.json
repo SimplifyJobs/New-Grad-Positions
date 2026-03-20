@@ -265431,5 +265431,25 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Wisconsin System",
+        "id": "20e96b2e-39e0-49cc-a65a-7bd6b46f5e83",
+        "title": "Institutional Policy Analyst",
+        "active": true,
+        "date_updated": 1774019995,
+        "date_posted": 1774019995,
+        "url": "https://wisconsin.wd1.myworkdayjobs.com/UW_Comprehensives/job/Stevens-Point-WI/Institutional-Policy-Analyst_JR10008634",
+        "locations": [
+            "Plover, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Wisconsin-System",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
