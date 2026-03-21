@@ -225,23 +225,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Machinify",
-        "id": "49f1c484-8ccc-4db7-87b8-0a324ee12097",
-        "title": "Data Engineer I",
-        "active": false,
-        "date_updated": 1753322788,
-        "date_posted": 1753322788,
-        "url": "https://jobs.ashbyhq.com/Machinify/635f87d9-fede-4da6-9ab3-51e5238c61cb/application",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Machinify",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Twitch",
         "id": "04aa6721-47f4-4bf9-aca9-4ad464ca844a",
@@ -266289,6 +266272,26 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Beyond New Horizons",
+        "id": "f5b74787-e511-4f36-a2b5-91cdf9dfa60a",
+        "title": "Early Career Software Engineer",
+        "active": true,
+        "date_updated": 1774044465,
+        "date_posted": 1774044465,
+        "url": "https://careers-bnh.icims.com/jobs/23560/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Tullahoma, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/Beyond-New-Horizons",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
