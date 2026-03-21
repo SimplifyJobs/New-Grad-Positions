@@ -259879,7 +259879,7 @@
         "company_name": "Motorola",
         "id": "db5cdba5-9dd9-485d-8a44-2234f5f2c3b9",
         "title": "Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773729472,
         "date_posted": 1773729472,
         "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/West-Valley-City-UT/Software-Engineer_R63109",
@@ -265742,7 +265742,7 @@
         "company_name": "NVIDIA",
         "id": "4199fd90-fe22-403b-9269-f37ca01e3b1b",
         "title": "Senior Systems Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1774045494,
         "date_posted": 1774045494,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-OR-Hillsboro/Senior-Systems-Software-Engineer---New-College-Grad-2026_JR2015144-1",
@@ -266522,5 +266522,25 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Royal Bank of Canada",
+        "id": "3380aaef-08bf-45a0-ab8d-eda9d0ac3395",
+        "title": "Software Developer - Gft",
+        "active": true,
+        "date_updated": 1774093423,
+        "date_posted": 1774093423,
+        "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Software-Developer--GFT_R-0000164802",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
     }
 ]
