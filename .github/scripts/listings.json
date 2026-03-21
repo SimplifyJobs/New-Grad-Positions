@@ -266153,5 +266153,26 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northslope Technologies",
+        "id": "89c2d6f9-9f51-4296-809a-7e8207949cd5",
+        "title": "Forward Deployed Software Engineer - New Grad",
+        "active": true,
+        "date_updated": 1773095967,
+        "date_posted": 1773095967,
+        "url": "https://jobs.ashbyhq.com/northslope-technologies/7ccd126f-b127-4526-87f1-57408919c30a/application",
+        "locations": [
+            "London, UK",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Northslope-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
