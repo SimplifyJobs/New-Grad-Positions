@@ -265805,7 +265805,7 @@
         "company_name": "Integrity",
         "id": "fa850c0e-9e14-4cd4-9f70-5b4112677a1f",
         "title": "Data & Reporting Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1774045622,
         "date_posted": 1774045622,
         "url": "https://integritymarketing.wd1.myworkdayjobs.com/en-US/Integrity/job/Coon-Rapids-MN/Data---Reporting-Analyst_JR3786",
@@ -265890,7 +265890,7 @@
         "company_name": "Louisiana State University (LSU)",
         "id": "270779e8-3962-49c9-b984-bfc3c2095215",
         "title": "Customer Service Analyst - Data Analyst 1",
-        "active": false,
+        "active": true,
         "date_updated": 1774045793,
         "date_posted": 1774045793,
         "url": "https://lsu.wd1.myworkdayjobs.com/LSU/job/0355-William-P-Johnston-Hall---Office/Customer-Service-Analyst--Data-Analyst-1-_R00114025",
@@ -266371,5 +266371,77 @@
             "Master's",
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "fc2881f9-0572-4843-81b9-4ac13c90a3b6",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1774084060,
+        "date_posted": 1774084060,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054445",
+        "locations": [
+            "Leicester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "7bc59ff7-8c47-4adc-8cfc-9b56fa0e5f1c",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1774084056,
+        "date_posted": 1774084056,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054442",
+        "locations": [
+            "Midlothian, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "72982202-df34-41d1-9a3f-785b3861f2e4",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1774084067,
+        "date_posted": 1774084067,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054447",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "64b96703-f3a8-499e-a93b-f83381275bec",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1774084050,
+        "date_posted": 1774084050,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054449",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
