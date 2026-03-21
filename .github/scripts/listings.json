@@ -208,23 +208,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Broadcom Limited",
-        "id": "323bd7d7-77ed-4cde-83a7-1a5badca5950",
-        "title": "Junior R & D Software Engineer",
-        "active": false,
-        "date_updated": 1753313866,
-        "date_posted": 1753313866,
-        "url": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA---Promontory-E/Junior-R---D-Software-Engineer_R023410",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Broadcom-Limited",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Maybern",
         "id": "1dbd172a-5bd7-46cc-bdeb-651eb76a9d90",
         "title": "Software Engineer \u2013 New Grad",
@@ -126724,7 +126707,7 @@
         "company_name": "Leidos",
         "id": "d7e59afc-b51a-4e5a-ab0c-6a482b80c0a8",
         "title": "Entry-Level Software Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1766014412,
         "date_posted": 1766014412,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/XMLNAME---Entry-Level-Software-Developer-_R-00172273",
@@ -266096,5 +266079,25 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jerry",
+        "id": "27834af4-1765-445e-b2b9-f2cc2d5c1619",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1774045460,
+        "date_posted": 1774045460,
+        "url": "https://jobs.ashbyhq.com/jerry.ai/4f27e893-caa9-4cc3-863f-e82eb48628f8/application",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
