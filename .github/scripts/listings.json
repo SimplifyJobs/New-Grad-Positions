@@ -225,24 +225,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Northslope Technologies",
-        "id": "89c2d6f9-9f51-4296-809a-7e8207949cd5",
-        "title": "Forward Deployed Software Engineer \u2013 New Grad",
-        "active": true,
-        "date_updated": 1755270266,
-        "date_posted": 1753315722,
-        "url": "https://jobs.ashbyhq.com/northslope-technologies/7ccd126f-b127-4526-87f1-57408919c30a/application",
-        "locations": [
-            "New York, NY",
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Northslope-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Machinify",
         "id": "49f1c484-8ccc-4db7-87b8-0a324ee12097",
@@ -265383,7 +265365,7 @@
         "company_name": "Sainsbury's",
         "id": "e5e01b5e-3d15-44d8-ad85-4b827c91625b",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1774016054,
         "date_posted": 1774016054,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054338",
@@ -266099,5 +266081,77 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "74c6dd75-5f26-46a5-9441-4bda856ef11d",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1774044946,
+        "date_posted": 1774044946,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054269",
+        "locations": [
+            "Harrogate, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "e0099702-f4ea-4286-9b2d-47290e4b97b9",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1774044974,
+        "date_posted": 1774044974,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053768",
+        "locations": [
+            "Trowbridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "d2ed9c5c-8932-4bd9-8bc7-d3675add3a3c",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1774044943,
+        "date_posted": 1774044943,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054410",
+        "locations": [
+            "Newcastle upon Tyne, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "35f39955-9d4c-4ca0-a027-6401d2ee3b6b",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1774044944,
+        "date_posted": 1774044944,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054395",
+        "locations": [
+            "Edinburgh, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
