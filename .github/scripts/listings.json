@@ -265825,7 +265825,7 @@
         "company_name": "Kohl's",
         "id": "cc1b63fd-ee57-46df-bb6c-a1f656362fac",
         "title": "Assistant Designer",
-        "active": true,
+        "active": false,
         "date_updated": 1774045962,
         "date_posted": 1774045962,
         "url": "https://kohls.wd1.myworkdayjobs.com/kohlscareers/job/Kohls-Corporate-Offices-0900/Assistant-Designer_R469236",
@@ -266125,7 +266125,7 @@
         "company_name": "Sainsbury's",
         "id": "35f39955-9d4c-4ca0-a027-6401d2ee3b6b",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1774044944,
         "date_posted": 1774044944,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054395",
@@ -266331,5 +266331,45 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Zello",
+        "id": "a695ca02-4e18-475f-a605-839901e002c6",
+        "title": "Applied AI Engineer",
+        "active": true,
+        "date_updated": 1774044707,
+        "date_posted": 1774044707,
+        "url": "https://jobs.ashbyhq.com/Zello/2fa8cd4a-7ddb-40c6-8577-4a004c182e80/application",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Zello",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Leonardo",
+        "id": "8b9df8ae-7e2b-44ef-b2c8-f9ee6373a4d1",
+        "title": "Graduate Software Engineer",
+        "active": true,
+        "date_updated": 1774048416,
+        "date_posted": 1774048416,
+        "url": "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Southampton/Graduate-Software-Engineer_R0022545-1",
+        "locations": [
+            "Southampton, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Leonardo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
     }
 ]
