@@ -215649,7 +215649,7 @@
         "company_name": "Banco Bilbao Vizcaya Argentaria",
         "id": "0f881a05-d2ce-487b-ae2a-6737ace68f39",
         "title": "Data & AI Enablement - CIB Risk Unit Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1771584940,
         "date_posted": 1771035695,
         "url": "https://bbva.wd3.myworkdayjobs.com/BBVA/job/LONDON/Data---AI-Enablement---CIB-Risk-Unit-Associate_JR00095049-2",
@@ -237408,7 +237408,7 @@
         "company_name": "Niagara Bottling",
         "id": "50f95f20-67a1-4035-a08f-0c399f2e2f01",
         "title": "IT Functional Analyst 1 - Oracle OM Fusion Cloud",
-        "active": true,
+        "active": false,
         "date_updated": 1772592079,
         "date_posted": 1772592079,
         "url": "https://niagarawater.wd5.myworkdayjobs.com/niagara/job/Corp-Main---Diamond-Bar-CA/IT-Functional-Analyst-I_R52657",
@@ -266443,5 +266443,65 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "KLA",
+        "id": "5f972d4f-2994-4753-a13b-711e1beb7a9b",
+        "title": "Software Engineer \u2013 New College Graduate",
+        "active": true,
+        "date_updated": 1774045156,
+        "date_posted": 1774045156,
+        "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Engineer--New-College-Graduate-_2634931",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/KLA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jerry",
+        "id": "1c83ea31-0516-4e08-b554-e95a55e22da4",
+        "title": "Software Engineer - Entry",
+        "active": true,
+        "date_updated": 1774045737,
+        "date_posted": 1774045737,
+        "url": "https://jobs.ashbyhq.com/jerry.ai/2f872573-f8dc-4f10-890d-67d89ace5a0e/application",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "General Dynamics Information Technology",
+        "id": "01b460b1-1f54-4157-8c7d-752594edef8f",
+        "title": "UiPath Robotic Process Automation Developer Associate",
+        "active": true,
+        "date_updated": 1774085633,
+        "date_posted": 1774085633,
+        "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-LA-Bossier-City/UiPath-Robotic-Process-Automation-Developer-Associate_RQ216790-2",
+        "locations": [
+            "Shreveport, LA"
+        ],
+        "company_url": "https://simplify.jobs/c/GDIT",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
