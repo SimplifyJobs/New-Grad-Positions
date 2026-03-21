@@ -120361,7 +120361,7 @@
         "company_name": "Masimo",
         "id": "01787301-065c-4294-86d1-3e878401aa19",
         "title": "Data Analytics Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1765505835,
         "date_posted": 1765505835,
         "url": "https://egcu.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3539",
@@ -266174,5 +266174,59 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "AbbVie",
+        "id": "69cef731-5b2b-4069-b674-196ca8b3b39f",
+        "title": "Vendor Master Data Analyst",
+        "active": true,
+        "date_updated": 1774055965,
+        "date_posted": 1774055965,
+        "url": "https://jobs.smartrecruiters.com/AbbVie/3743990012245626",
+        "locations": [
+            "Waukegan, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/AbbVie",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "2aee3072-9d60-46b2-8e0a-9e82147d8286",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1774055728,
+        "date_posted": 1774055728,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054436",
+        "locations": [
+            "Tunbridge Wells, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "2ae996f9-8b11-4e98-929c-aa4a47d4c466",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1774055606,
+        "date_posted": 1774055606,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054437",
+        "locations": [
+            "Workington, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
