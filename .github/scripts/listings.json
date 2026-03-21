@@ -1,22 +1,5 @@
 [
     {
-        "date_updated": 1761560476,
-        "url": "https://higher.gs.com/roles/150845",
-        "company_name": "Goldman Sachs",
-        "title": "New Analyst",
-        "locations": [
-            "New York, NY"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "source": "TaniDiament",
-        "id": "f14ca51b-ad7f-451f-aa23-c1329b8179ca",
-        "date_posted": 1753368039,
-        "company_url": "",
-        "is_visible": true,
-        "degrees": []
-    },
-    {
         "source": "Simplify",
         "category": "Software",
         "company_name": "Franklin St",
