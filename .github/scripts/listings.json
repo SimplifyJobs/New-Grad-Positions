@@ -265825,7 +265825,7 @@
         "company_name": "Kohl's",
         "id": "cc1b63fd-ee57-46df-bb6c-a1f656362fac",
         "title": "Assistant Designer",
-        "active": false,
+        "active": true,
         "date_updated": 1774045962,
         "date_posted": 1774045962,
         "url": "https://kohls.wd1.myworkdayjobs.com/kohlscareers/job/Kohls-Corporate-Offices-0900/Assistant-Designer_R469236",
@@ -266503,5 +266503,24 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jade Global",
+        "id": "4a6f60b3-8a42-416d-a0ab-8460c0d91543",
+        "title": "Senior Workday Finance Lead",
+        "active": true,
+        "date_updated": 1774088657,
+        "date_posted": 1774088657,
+        "url": "https://jadeglobal.wd5.myworkdayjobs.com/en-US/jade_careers/job/San-Jose-CA/Senior-Workday-Finance-Lead_R-105029",
+        "locations": [
+            "San Jose, CA",
+            "North Wales, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Jade-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
