@@ -36,23 +36,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Esri",
-        "id": "59669f06-ab37-4efd-9dcf-df3ce00de200",
-        "title": "Software Development Engineer I",
-        "active": false,
-        "date_updated": 1753475440,
-        "date_posted": 1753475440,
-        "url": "https://www.esri.com/careers/4799605007?gh_jid=4799605007",
-        "locations": [
-            "St. Louis, MO"
-        ],
-        "company_url": "https://simplify.jobs/c/Esri",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Amentum",
         "id": "645f2ed7-1f3c-4fbd-ba6e-977758cdb035",
         "title": "Entry Level Software Developer",
@@ -82,23 +65,6 @@
             "Dahlgren, VA"
         ],
         "company_url": "https://simplify.jobs/c/4310804e-f9a0-44e7-b26f-51ecd2a9237d",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Esri",
-        "id": "c6a61c12-248b-47db-8533-c6478cef77b0",
-        "title": "Software Development Engineer I",
-        "active": false,
-        "date_updated": 1753475431,
-        "date_posted": 1753475431,
-        "url": "https://www.esri.com/careers/4795713007?gh_jid=4795713007",
-        "locations": [
-            "St. Louis, MO"
-        ],
-        "company_url": "https://simplify.jobs/c/Esri",
         "is_visible": true,
         "sponsorship": "Other"
     },
