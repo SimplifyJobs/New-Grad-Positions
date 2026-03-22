@@ -157,23 +157,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Activate Group",
-        "id": "61a29eb8-d0c1-440f-8e60-f3c24f31a890",
-        "title": "Junior Software Developer",
-        "active": false,
-        "date_updated": 1753431607,
-        "date_posted": 1753431607,
-        "url": "https://activate-group-limited.breezy.hr/p/ce91d3dbfe2201/apply",
-        "locations": [
-            "Remote in UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Activate-Group",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Maybern",
         "id": "1dbd172a-5bd7-46cc-bdeb-651eb76a9d90",
         "title": "Software Engineer \u2013 New Grad",
