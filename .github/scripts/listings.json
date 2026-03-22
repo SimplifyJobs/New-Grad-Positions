@@ -2,23 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Jerry",
-        "id": "943def57-acaf-447f-b905-cd107cb76ed4",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1753481907,
-        "date_posted": 1753481907,
-        "url": "https://jobs.ashbyhq.com/Jerry/8c751f13-33de-429b-9cb8-3c58bea0d904/application",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Jerry",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Maybern",
         "id": "1dbd172a-5bd7-46cc-bdeb-651eb76a9d90",
         "title": "Software Engineer \u2013 New Grad",
@@ -266782,6 +266765,24 @@
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054576",
         "locations": [
             "Milton Keynes, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "abc8c51d-b3db-4d5f-b74f-7a5cf6399af0",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1774217744,
+        "date_posted": 1774217744,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052489",
+        "locations": [
+            "Newcastle upon Tyne, UK"
         ],
         "company_url": "https://simplify.jobs/c/Sainsburys",
         "is_visible": true,
