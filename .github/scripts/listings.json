@@ -209529,7 +209529,7 @@
         "company_name": "Microchip Technology",
         "id": "78115cdb-db9d-43af-a013-162de0ca9b55",
         "title": "Engineer 1-Validation",
-        "active": true,
+        "active": false,
         "date_updated": 1771371805,
         "date_posted": 1771371805,
         "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/NY---Hauppauge/Engineer-I-Validation_R531-26",
@@ -234256,7 +234256,7 @@
         "company_name": "Kettering Health",
         "id": "a2c90496-0e59-41b0-949d-d942e85c97fa",
         "title": "Clin Analytics Analyst - Information Systems Analytic Health",
-        "active": true,
+        "active": false,
         "date_updated": 1772492851,
         "date_posted": 1772492851,
         "url": "https://careers-ketteringhealth.icims.com/jobs/58221/job?mobile=true&needsRedirect=false",
@@ -266550,7 +266550,7 @@
         "company_name": "Sainsbury's",
         "id": "ddf8bf97-7535-4ba8-a423-cc7913efbe12",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1774102382,
         "date_posted": 1774102382,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054477",
@@ -266676,7 +266676,7 @@
         "company_name": "Sainsbury's",
         "id": "0f6ca422-e3a9-43a7-b49a-7ff5f246a811",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1774131486,
         "date_posted": 1774131486,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054488",
@@ -266797,5 +266797,41 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "efefad06-3d89-4e54-938e-837b62d8d0a3",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1774141958,
+        "date_posted": 1774141958,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054560",
+        "locations": [
+            "Midlothian, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "e964e70e-1a79-46e9-8754-f0c5a0919205",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1774141958,
+        "date_posted": 1774141958,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052315",
+        "locations": [
+            "Tunbridge Wells, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
