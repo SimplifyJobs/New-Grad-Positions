@@ -2,23 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Franklin St",
-        "id": "c3f9ea9a-bc61-4ef2-9206-158a41f33374",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1753410448,
-        "date_posted": 1753410448,
-        "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3439993",
-        "locations": [
-            "Tampa, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Franklin-St",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Amentum",
         "id": "91e3c508-4b87-475d-9cb1-3688326bb405",
         "title": "Entry Level Software Developer",
