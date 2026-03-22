@@ -266888,5 +266888,23 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "b61f8e76-4cce-41aa-8d49-ce2c8b95be4f",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1774189001,
+        "date_posted": 1774189001,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054600",
+        "locations": [
+            "Kelso, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
