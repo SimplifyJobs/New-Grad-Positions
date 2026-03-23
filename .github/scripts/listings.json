@@ -266889,5 +266889,23 @@
         "date_posted": 1774260465,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1774260606,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Aberdeen-Proving-Ground-MD/Business-Process-Analyst-and-Knowledge-Management-Specialist_R0236027",
+        "company_name": "Booz Allen",
+        "title": "Software Engineer, Junior",
+        "locations": [
+            "Aberdeen Proving Ground, MD"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "301e98b5-f248-4d91-bcb8-387cda7a7e43",
+        "date_posted": 1774260606,
+        "company_url": "",
+        "is_visible": true
     }
 ]
