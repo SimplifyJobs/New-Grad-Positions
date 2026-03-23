@@ -2,24 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Maybern",
-        "id": "1dbd172a-5bd7-46cc-bdeb-651eb76a9d90",
-        "title": "Software Engineer \u2013 New Grad",
-        "active": false,
-        "date_updated": 1756202093,
-        "date_posted": 1753486335,
-        "url": "https://jobs.ashbyhq.com/maybern/d1f5828f-fba9-4e0e-bb03-e03a3f0f54e4/application",
-        "locations": [
-            "New York, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Maybern",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Twitch",
         "id": "04aa6721-47f4-4bf9-aca9-4ad464ca844a",
         "title": "Software Development Engineer I - Frontend & Mobile",
@@ -200242,7 +200224,7 @@
         "company_name": "EquipmentShare",
         "id": "fda2f0e8-f0bf-4b0b-9193-8db3517f3869",
         "title": "Telematics Installer",
-        "active": true,
+        "active": false,
         "date_updated": 1770823794,
         "date_posted": 1770823794,
         "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=7603732",
@@ -206058,7 +206040,7 @@
         "company_name": "EquipmentShare",
         "id": "d090b8f2-8bcc-4a2e-bc66-4f777d11e256",
         "title": "Telematics Installer - Telematics",
-        "active": true,
+        "active": false,
         "date_updated": 1771166035,
         "date_posted": 1771166035,
         "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=7606900",
