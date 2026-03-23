@@ -266943,5 +266943,23 @@
         "date_posted": 1774261404,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1774263580,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://www.smxtech.com/jobs/smxtech/junior-software-engineer-ts-sci-ci-poly-5157-chantilly-va/",
+        "company_name": "SMX",
+        "title": "Junior Software Engineer",
+        "locations": [
+            "Chantilly, VA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "d099ed9d-c72f-456c-9249-48e68ec9d0fa",
+        "date_posted": 1774263580,
+        "company_url": "",
+        "is_visible": true
     }
 ]
