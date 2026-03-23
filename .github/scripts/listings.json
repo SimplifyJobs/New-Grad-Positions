@@ -267435,5 +267435,168 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Duke Energy",
+        "id": "775849f3-52b5-4fe3-bc39-e0a6c4cc20b1",
+        "title": "Geographic Information System Technologist 1",
+        "active": true,
+        "date_updated": 1774306510,
+        "date_posted": 1774306510,
+        "url": "https://dukeenergy.wd1.myworkdayjobs.com/search/job/Charlotte-NC/Natural-Gas-GIS-Technologist-I_R38969",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Duke-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Nissan",
+        "id": "05b25413-9fde-4648-a4c2-97ab46f206d1",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1774306081,
+        "date_posted": 1774306081,
+        "url": "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Data-Analyst-1_R00204613-1",
+        "locations": [
+            "Franklin, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/Nissan",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "f30b5443-f677-4e3e-90ba-6ac01f37c42f",
+        "title": "Nightshift Trading Assistant",
+        "active": true,
+        "date_updated": 1774304528,
+        "date_posted": 1774304528,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054778",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "e2eea359-6977-4929-b265-a2ef1fdc6117",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1774304530,
+        "date_posted": 1774304530,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053654",
+        "locations": [
+            "Crawley, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Pivotal Software",
+        "id": "d4cba08a-0968-4988-8fab-29430e78556e",
+        "title": "R&D Mechanical Technician",
+        "active": true,
+        "date_updated": 1774304677,
+        "date_posted": 1774304677,
+        "url": "https://jobs.lever.co/pivotal/41feeb6e-2f90-4646-95e4-643b1ca130be/apply",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pivotal-Software",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "c7cb2211-290e-42ff-bf7b-b5efb6782d41",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1774304135,
+        "date_posted": 1774304135,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054788",
+        "locations": [
+            "York, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Tarleton State University",
+        "id": "986b8de7-e94a-403c-a964-a92b951fd4bf",
+        "title": "Software Applications Developer 1",
+        "active": true,
+        "date_updated": 1774304830,
+        "date_posted": 1774304830,
+        "url": "https://tamus.wd1.myworkdayjobs.com/TARLETON_External/job/Stephenville-TX/CAE-Software-Applications-Developer-I_R-091835-1",
+        "locations": [
+            "Carlton, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Tarleton-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Jerry",
+        "id": "8d28fcbc-eacf-43fc-91b7-39f2fc7eed09",
+        "title": "Associate Applied Data Scientist",
+        "active": true,
+        "date_updated": 1774304276,
+        "date_posted": 1774304276,
+        "url": "https://jobs.ashbyhq.com/jerry.ai/c7eff7e7-ac05-4846-8e96-f13c1640e91e/application",
+        "locations": [
+            "Salt Lake City, UT",
+            "Austin, TX",
+            "Chicago, IL",
+            "NYC",
+            "Phoenix, AZ",
+            "Portland, OR",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "PhD"
+        ]
     }
 ]
