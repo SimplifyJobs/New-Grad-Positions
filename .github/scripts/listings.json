@@ -267216,5 +267216,25 @@
         "degrees": [
             "Associate's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Moog ",
+        "id": "11dfd2b4-515f-4f2a-8cb0-8feb48cc775c",
+        "title": "Electronic Technician",
+        "active": true,
+        "date_updated": 1774278232,
+        "date_posted": 1774278232,
+        "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Johnson-City-TN/Electronic-Technician_R-26-16775",
+        "locations": [
+            "Johnson City, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/Moog",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
     }
 ]
