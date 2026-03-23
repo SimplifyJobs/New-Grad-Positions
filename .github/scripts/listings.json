@@ -15045,7 +15045,7 @@
         "company_name": "ICF International",
         "id": "9b0ce0d5-9785-473a-acc4-c5fdb6a42dfa",
         "title": "Software Developer \u2013 Entry Level - Summer 2026",
-        "active": false,
+        "active": true,
         "date_updated": 1761918386,
         "date_posted": 1758825837,
         "url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/Software-Developer--Summer-2026--Entry-Level--Remote-_R2502713",
@@ -234993,7 +234993,7 @@
         "company_name": "Amentum",
         "id": "7ac9190e-6548-4d60-9e55-b5eb15d299d2",
         "title": "Entry Level Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1772636779,
         "date_posted": 1772505999,
         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-AL-Huntsville/Entry-Level-Software-Engineer_R0155505",
@@ -267597,6 +267597,259 @@
         "degrees": [
             "Bachelor's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "fce174fb-699d-44f2-8bcc-b271734302b2",
+        "title": "Flight Management Software Engineer 1",
+        "active": true,
+        "date_updated": 1774305149,
+        "date_posted": 1774305149,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/Flight-Management-Software-Engineer-I--Onsite-_01792047-2",
+        "locations": [
+            "Cedar Rapids, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "7ed1066e-f876-4fb7-8c72-76ee4af91572",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1774304527,
+        "date_posted": 1774304527,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054819",
+        "locations": [
+            "Solihull, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jerry",
+        "id": "a6c79f81-a9b6-4303-9eb0-fe737f5f6dbf",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1774304930,
+        "date_posted": 1774304930,
+        "url": "https://jobs.ashbyhq.com/jerry.ai/8b0110cd-1a47-4198-9d82-8413dc92f985/application",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "GM financial",
+        "id": "9ed6ed00-93c0-4587-a8ad-991d9290fbd2",
+        "title": "Data Engineer",
+        "active": true,
+        "date_updated": 1774304055,
+        "date_posted": 1774304055,
+        "url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1960",
+        "locations": [
+            "Fort Worth, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/GM-Financial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "6c9995ec-1ae7-47de-a78c-00af5a8cc9e5",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1774304133,
+        "date_posted": 1774304133,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054777",
+        "locations": [
+            "United Kingdom"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "0c468231-5aba-4342-9f57-0a33bc33e6e7",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1774304133,
+        "date_posted": 1774304133,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054771",
+        "locations": [
+            "United Kingdom"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "CAI",
+        "id": "8439c535-205c-4d27-884f-75e1c4e143c8",
+        "title": "Toll Equipment Technician 1",
+        "active": true,
+        "date_updated": 1774307686,
+        "date_posted": 1774307686,
+        "url": "https://cai.wd5.myworkdayjobs.com/computer_aid/job/FL-CLIENT-STATE/Toll-Equipment-Technician-I_R7384",
+        "locations": [
+            "Pompano Beach, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/CAI-Io",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Johnson Controls",
+        "id": "f654c310-ebb2-443a-9826-a655fa56f6f2",
+        "title": "Electrical Tester",
+        "active": true,
+        "date_updated": 1774307103,
+        "date_posted": 1774307103,
+        "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Nisku-Alberta-Canada/Electrical-Tester_WD30265281",
+        "locations": [
+            "Nisku, AB, Canada",
+            "Edmonton, AB, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Johnson-Controls",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Micron Technology",
+        "id": "8df2d245-477e-4269-b40d-573251fc0cde",
+        "title": "New College Grad - Software Development Engineer",
+        "active": true,
+        "date_updated": 1774307342,
+        "date_posted": 1774307342,
+        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Software-Development-Engineer_JR95528",
+        "locations": [
+            "Boise, ID"
+        ],
+        "company_url": "https://simplify.jobs/c/Micron-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CACI",
+        "id": "6af8c893-078d-4b0c-895a-7fe8105ba976",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1774306885,
+        "date_posted": 1774306885,
+        "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-MD-Annapolis-Junction/Software-Engineer-Skill-Level-0_323580",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "26d34176-3de1-431c-8ee6-1cc675c27174",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1774306265,
+        "date_posted": 1774306265,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/XMLNAME-2026-Full-time---Software-Engineer-I---Onsite--MA-_01831719",
+        "locations": [
+            "Marlborough, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Mastercard",
+        "id": "0ca2ab86-eecb-4aef-99a3-14eed0f6cf55",
+        "title": "Senior Specialist - Product Management",
+        "active": true,
+        "date_updated": 1774307340,
+        "date_posted": 1774307340,
+        "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/London-England-Angel-Lane/Senior-Specialist--Product-Management_R-272492-1",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Mastercard",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northrop Grumman",
+        "id": "a9e86141-2124-4e4b-a6dc-a2ae0711ffe5",
+        "title": "Electronics Engineer - Ground System Architect/Integrator",
+        "active": true,
+        "date_updated": 1774307185,
+        "date_posted": 1774307185,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Engineer-Electronics-2-3---Ground-System-Architect-Integrator_R10226811",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
