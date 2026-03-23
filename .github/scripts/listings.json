@@ -266925,5 +266925,23 @@
         "date_posted": 1774260764,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1774261404,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://acclaimtechnicalservices.applytojob.com/apply/wSEBbEB4WT/AIML-DevOps-Engineer-20260064",
+        "company_name": "Acclaim Technical Services",
+        "title": "AI/ML DevOps Engineer",
+        "locations": [
+            "Chantilly, VA"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "ae213b97-8fcd-46d9-a137-c35e8018c493",
+        "date_posted": 1774261404,
+        "company_url": "",
+        "is_visible": true
     }
 ]
