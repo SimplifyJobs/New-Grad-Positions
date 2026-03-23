@@ -266850,5 +266850,26 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "LSEG",
+        "id": "da782d85-4fc8-4a12-bb32-b4ce9b1f8eaa",
+        "title": "Engineering Graduate Programme",
+        "active": true,
+        "date_updated": 1774258747,
+        "date_posted": 1774258747,
+        "url": "https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/New-York-City-United-States/Engineering-Graduate-Programme--New-York-Office-_R0111560",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/LSEG",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
