@@ -266907,5 +266907,23 @@
         "date_posted": 1774260606,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1774260764,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://cibc.wd3.myworkdayjobs.com/search/job/Chicago-IL/Software-Engineer--Apprentice_2605991",
+        "company_name": "CIBC",
+        "title": "Software Engineer, Apprentice",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "cd110600-5863-4921-836c-acc2cd94c3f6",
+        "date_posted": 1774260764,
+        "company_url": "",
+        "is_visible": true
     }
 ]
