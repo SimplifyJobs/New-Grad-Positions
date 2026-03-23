@@ -267035,5 +267035,186 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Wood Mackenzie",
+        "id": "888cb698-0ce3-4d83-8159-b1c4a9b927b1",
+        "title": "Data Analyst - Oil and Gas",
+        "active": true,
+        "date_updated": 1774274696,
+        "date_posted": 1774274696,
+        "url": "https://woodmac.wd3.myworkdayjobs.com/woodmaccareers/job/Mexico-City-MX/Data-Analyst---Oil-and-Gas_JR2637",
+        "locations": [
+            "Calgary, AB, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Wood-Mackenzie",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Westinghouse Electric Company",
+        "id": "ce2000ae-fffb-4166-b535-d4467f6a3caa",
+        "title": "1&C Software Engineer 1",
+        "active": true,
+        "date_updated": 1774274762,
+        "date_posted": 1774274762,
+        "url": "https://careers.westinghousenuclear.com/job/Warrendale-I&C-Software-Engineer-1-OR/1375639500/?ats=successfactors",
+        "locations": [
+            "Cranberry Twp, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Westinghouse-Electric-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "13db05c1-151f-4138-a4db-38585fcf423f",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1774275280,
+        "date_posted": 1774275280,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054704",
+        "locations": [
+            "Leeds, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Varian",
+        "id": "872ef665-34e8-4294-9f67-aad9120fd712",
+        "title": "Medical Imaging Field Engineer",
+        "active": true,
+        "date_updated": 1774276746,
+        "date_posted": 1774276746,
+        "url": "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/CYA-GR/Medical-Imaging-Field-Engineer---Denver--CO_R-27225-1",
+        "locations": [
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/670da3c5-bce0-4621-b519-da7ce7d528e6",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Leidos",
+        "id": "1ce855a9-3cca-4301-8c03-5c85200429ef",
+        "title": "Junior Software Engineer",
+        "active": true,
+        "date_updated": 1774277045,
+        "date_posted": 1774277045,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Newport-News-VA/Junior-Software-Engineer_R-00178995",
+        "locations": [
+            "Orlando, FL",
+            "Lexington, MA",
+            "Morgantown, WV",
+            "Omaha, NE",
+            "Charlottesville, VA",
+            "Newport News, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Henry Schein",
+        "id": "b69141cd-f220-4925-a27c-f1a31f8468ee",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1774276424,
+        "date_posted": 1774276424,
+        "url": "https://henryschein.wd1.myworkdayjobs.com/External_Careers/job/Iowa-United-States---Remote/Software-Engineer-II_R132081",
+        "locations": [
+            "Ames, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/Henry-Schein",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "SpecterOps",
+        "id": "8549ce2c-6cfd-42ae-b753-67c629e7d138",
+        "title": "Associate Product Manager - BloodHound Enterprise",
+        "active": true,
+        "date_updated": 1774276224,
+        "date_posted": 1774276224,
+        "url": "https://job-boards.greenhouse.io/specterops/jobs/8468953002",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/SpecterOps",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Elsevier",
+        "id": "7dc79cb7-5143-4333-89ba-f866ac724544",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1774275784,
+        "date_posted": 1774275784,
+        "url": "https://relx.wd3.myworkdayjobs.com/ElsevierJobs/job/Philadelphia-PA/Software-Engineer-I_R110970",
+        "locations": [
+            "Philadelphia, PA",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Elsevier",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Ensign-Bickford Aerospace & Defense Company",
+        "id": "52a8aef6-27c3-42ae-91db-64ac88874f03",
+        "title": "Development Technician",
+        "active": true,
+        "date_updated": 1774276119,
+        "date_posted": 1774276119,
+        "url": "https://ebi.wd5.myworkdayjobs.com/ebadcareers/job/Simsbury-CT/Development-Technician_REQ107097",
+        "locations": [
+            "Simsbury, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/Ensign-Bickford-Aerospace-Defense-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
     }
 ]
