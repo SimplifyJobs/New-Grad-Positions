@@ -266979,5 +266979,23 @@
         "date_posted": 1774263622,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1774263669,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://careers-peraton.icims.com/jobs/164728/junior%c2%a0software-developer/job",
+        "company_name": "Peraton",
+        "title": "Junior Software Developer",
+        "locations": [
+            "Atlantic City, NJ"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "43332497-7de4-4be0-8079-055b5e36cf79",
+        "date_posted": 1774263669,
+        "company_url": "",
+        "is_visible": true
     }
 ]
