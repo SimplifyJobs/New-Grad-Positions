@@ -266979,5 +266979,61 @@
         "date_posted": 1774263622,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Westinghouse Electric Company",
+        "id": "c2bd9083-a616-4f70-85f2-d33856b9b75b",
+        "title": "Instrumentation & Control Engineer 1",
+        "active": true,
+        "date_updated": 1774275588,
+        "date_posted": 1774275588,
+        "url": "https://careers.westinghousenuclear.com/job/New-Stanton-I&C-Engineer-I-PA-15672/1375657000/?ats=successfactors",
+        "locations": [
+            "New Stanton, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Westinghouse-Electric-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "9a946cca-b61b-417a-b5c1-853452aee28f",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1774275473,
+        "date_posted": 1774275473,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054686",
+        "locations": [
+            "Girvan, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "34cb758c-9455-4223-a50f-5533a42938f8",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1774275711,
+        "date_posted": 1774275711,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054658",
+        "locations": [
+            "Derby, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
