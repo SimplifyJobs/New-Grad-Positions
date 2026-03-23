@@ -266961,5 +266961,23 @@
         "date_posted": 1774263580,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1774263622,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://job-boards.greenhouse.io/genevatrading/jobs/5085231007",
+        "company_name": "Geneva Trading",
+        "title": "Junior Software Engineer",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "8c0be7dd-c4ae-4fd4-89fe-775e3e1c919a",
+        "date_posted": 1774263622,
+        "company_url": "",
+        "is_visible": true
     }
 ]
