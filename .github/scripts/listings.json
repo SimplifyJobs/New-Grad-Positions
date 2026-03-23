@@ -267257,5 +267257,183 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "b1cd3f6e-e0d3-4b1c-b238-25074185e0a6",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1774304137,
+        "date_posted": 1774304137,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054775",
+        "locations": [
+            "United Kingdom"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Blackberry",
+        "id": "acd4d34c-720e-4a1a-a965-04d20991f941",
+        "title": "Application Engineer",
+        "active": true,
+        "date_updated": 1774304299,
+        "date_posted": 1774304299,
+        "url": "https://bb.wd3.myworkdayjobs.com/blackberry/job/Ottawa-Ontario/Application-Engineer_20260117-1",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/BlackBerry",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Major League Baseball",
+        "id": "22bb74ae-64d0-410c-8d0e-4df91cb06741",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1774304349,
+        "date_posted": 1774304349,
+        "url": "https://jobs.lever.co/redsox/cc375a81-cb4e-4190-bfa6-6369b75ec3e8/apply",
+        "locations": [
+            "Boston, MA",
+            "Massachusetts",
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/MLB",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "American Express",
+        "id": "e84454b1-2869-4ffa-b1ea-1df455253f45",
+        "title": "Campus - Full Time - Technology Software Engineer",
+        "active": true,
+        "date_updated": 1774304190,
+        "date_posted": 1774304190,
+        "url": "https://aexp.eightfold.ai/careers/job/40809990",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/American-Express",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Internet Brands",
+        "id": "9b516aa5-a5c3-4f06-8509-4492fd4a225e",
+        "title": "Associate AI Research & Operations Analyst",
+        "active": true,
+        "date_updated": 1774304182,
+        "date_posted": 1774304182,
+        "url": "https://jobs.jobvite.com/internetbrands/job/o25Rzfwh?nl=1&nl=1&fr=false",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Internet-Brands",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Texas A&M University System",
+        "id": "05868e2a-1405-4d9a-9270-d8555c7c7343",
+        "title": "Software Applications Developer 1",
+        "active": true,
+        "date_updated": 1774304159,
+        "date_posted": 1774304159,
+        "url": "https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/Stephenville-TX/CAE-Software-Applications-Developer-I_R-091835",
+        "locations": [
+            "Carlton, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Texas-AM-University-System",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "EBSCO",
+        "id": "5487a0f7-47f3-4e15-85a3-76430b82cca0",
+        "title": "Collection Management Specialist",
+        "active": true,
+        "date_updated": 1774303687,
+        "date_posted": 1774303687,
+        "url": "https://careers-ebscoind.icims.com/jobs/1992/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Essex County, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/EBSCO",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Peraton",
+        "id": "2a8cc1a0-2191-41f1-8f9f-878e387f7875",
+        "title": "Junior Software Engineer",
+        "active": true,
+        "date_updated": 1774303635,
+        "date_posted": 1774303635,
+        "url": "https://careers-peraton.icims.com/jobs/164805/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Peraton",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Stulz",
+        "id": "0d37a799-f439-4e3e-b179-c60d008728ab",
+        "title": "Design Drafter",
+        "active": true,
+        "date_updated": 1774303918,
+        "date_posted": 1774303918,
+        "url": "https://careers-us.stulz.com/job/Frederick,-Maryland-Design-Drafter-I-MD-21704/1375691200/?ats=successfactors",
+        "locations": [
+            "Frederick, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Stulz",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
