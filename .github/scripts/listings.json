@@ -79871,42 +79871,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "14c27d60-6511-4a9b-8bff-d86a575ce2bc",
-        "title": "Student Researcher - Multimodal Interaction & World Model - Unified Model",
-        "active": false,
-        "date_updated": 1753497710,
-        "date_posted": 1753497710,
-        "url": "https://jobs.bytedance.com/en/position/7529663530619324679/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "836b094c-8889-4063-8bb3-2c4a5f202ee9",
-        "title": "Student Researcher - Multimodal Interaction & World Model - RL Focused",
-        "active": false,
-        "date_updated": 1753498312,
-        "date_posted": 1753498312,
-        "url": "https://jobs.bytedance.com/en/position/7529661012351420690/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Solidroad",
         "id": "b848b548-1d95-45d1-8259-704dac0c31f8",
@@ -247850,7 +247814,7 @@
         "company_name": "L3Harris Technologies",
         "id": "532443e9-6640-48f2-a907-8d76d99d6c82",
         "title": "Associate \u2013 Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773181162,
         "date_posted": 1773181162,
         "url": "https://jobs.l3harris.com/job/Herndon-Assoc,-Software-Engineering-(Herndon,-VA)-VA-20171/1321349400/?ats=successfactors",
