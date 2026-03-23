@@ -266803,5 +266803,52 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Dordt University",
+        "id": "11fe83a7-b87c-49ca-94a3-d179ba81b551",
+        "title": "Associate Application Developer - Strategy and Transformation",
+        "active": true,
+        "date_updated": 1774256585,
+        "date_posted": 1774256585,
+        "url": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=87005",
+        "locations": [
+            "East Lansing, MI",
+            "Baton Rouge, LA",
+            "Buffalo, NY",
+            "Dundee, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Dordt-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Dordt University",
+        "id": "ce8d6ac1-3c56-4bf9-bf89-dcbc5ed3aa96",
+        "title": "Associate Application Developer - Business Applications",
+        "active": true,
+        "date_updated": 1774256580,
+        "date_posted": 1774256580,
+        "url": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=87003",
+        "locations": [
+            "East Lansing, MI",
+            "Baton Rouge, LA",
+            "Buffalo, NY",
+            "Dundee, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Dordt-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
