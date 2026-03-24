@@ -120267,7 +120267,7 @@
         "company_name": "HomeVision",
         "id": "19a6f62b-2298-4a15-81e2-c19701cf6e1d",
         "title": "Application Support Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1763363819,
         "date_posted": 1763363819,
         "url": "https://jobs.ashbyhq.com/homevision/cb8e1f54-b045-4d7f-a851-26f23926fe3c/application",
@@ -140596,7 +140596,7 @@
         "company_name": "Seminole Hard Rock",
         "id": "4088b9d5-71c9-4d8c-9f9f-76080c1caa11",
         "title": "Slot Machine Technician 1",
-        "active": true,
+        "active": false,
         "date_updated": 1767350673,
         "date_posted": 1761872194,
         "url": "https://careers-seminole.icims.com/jobs/40228/job?mobile=true&needsRedirect=false",
@@ -187393,7 +187393,7 @@
         "company_name": "Stryker",
         "id": "30ab6682-d44f-4222-a68a-590ad9dbf142",
         "title": "Data Engineer - Post Market",
-        "active": false,
+        "active": true,
         "date_updated": 1770162568,
         "date_posted": 1770162568,
         "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fremont-California/Data-Engineer---Post-Market_R558424",
@@ -208185,7 +208185,7 @@
         "company_name": "American Express",
         "id": "288ae90d-ec78-40d4-acdb-7aacab761204",
         "title": "Campus \u2013 Full Time - Associate Digital Product Management - 2026','UK','London",
-        "active": true,
+        "active": false,
         "date_updated": 1771341404,
         "date_posted": 1771341404,
         "url": "https://aexp.eightfold.ai/careers/job/39939202",
@@ -233473,7 +233473,7 @@
         "company_name": "GM financial",
         "id": "e45cd3a1-30fa-45b4-8e3b-447aac304418",
         "title": "Software Development Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1772493577,
         "date_posted": 1772493577,
         "url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1848",
@@ -244035,7 +244035,7 @@
         "company_name": "RELX",
         "id": "157f0b1d-8048-4d2f-96ef-d182cf5e93fd",
         "title": "Associate Product Manager Rotational Program",
-        "active": true,
+        "active": false,
         "date_updated": 1772840621,
         "date_posted": 1772840621,
         "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Alpharetta-GA/Associate-Product-Manager-Rotational-Program--Hybrid-_R109914-2",
@@ -246487,7 +246487,7 @@
         "company_name": "RTX",
         "id": "0c59c089-b1d2-46a4-83b2-010f50c745c1",
         "title": "Modeling Simulation & Analysis Engineer 2",
-        "active": true,
+        "active": false,
         "date_updated": 1773101650,
         "date_posted": 1773101650,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-9020--9020-S-Rita-Rd--BLDG-9020/XMLNAME-2026-Modeling-Simulation---Analysis-Engineer-II---Onsite_01828985",
@@ -269187,6 +269187,94 @@
         "degrees": [
             "Bachelor's",
             "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Accenture",
+        "id": "1dc34802-3e5f-4e29-981d-7a29634b4efb",
+        "title": "Data Management Analyst",
+        "active": true,
+        "date_updated": 1774364649,
+        "date_posted": 1774364649,
+        "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Kronberg-Campus-Kronberg-1/Data-Management-Analyst--all-genders-_R00320320",
+        "locations": [
+            "Hamburg, Germany",
+            "Neukirchen-Vluyn, Germany",
+            "Frankfurt, Germany",
+            "Stuttgart, Germany",
+            "Berlin, Germany",
+            "Munich, Germany"
+        ],
+        "company_url": "https://simplify.jobs/c/Accenture-FS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Innovaccer",
+        "id": "a8a73b1a-5bf4-4b7a-887d-7d6acf818297",
+        "title": "Artificial Intelligence Researcher",
+        "active": true,
+        "date_updated": 1772677563,
+        "date_posted": 1772677563,
+        "url": "https://apply.workable.com/innovaccer-analytics/j/B175424D9F/apply",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Innovaccer",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Fortive",
+        "id": "aff32944-fe60-4a6f-987c-262b34263b71",
+        "title": "Field Service Engineer",
+        "active": true,
+        "date_updated": 1774084372,
+        "date_posted": 1771715547,
+        "url": "https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/9021",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Fortive",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "OptionMetrics",
+        "id": "29a77f6d-5822-4790-bc6f-efdc2e2c6f94",
+        "title": "Data Quality Analyst",
+        "active": true,
+        "date_updated": 1773825710,
+        "date_posted": 1769123766,
+        "url": "https://jobs.lever.co/optionmetrics/ffeb74a2-127b-49c0-8472-aa12b0e9b056/apply",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/OptionMetrics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
