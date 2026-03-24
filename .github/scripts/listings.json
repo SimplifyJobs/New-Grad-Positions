@@ -80578,7 +80578,7 @@
         "company_name": "Orion Systems Integrators",
         "id": "0efb155f-530e-4153-8753-eadcf36510b7",
         "title": "Software Developer - Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1762916298,
         "date_posted": 1761897820,
         "url": "https://www.orioninc.com/careers/job/?gh_jid=4266820006",
@@ -151755,7 +151755,7 @@
         "company_name": "OpusClip",
         "id": "4e0b7c5f-1f3c-4569-bd29-1f41f0b3f519",
         "title": "Software Engineer - AI Video Agent",
-        "active": true,
+        "active": false,
         "date_updated": 1768116363,
         "date_posted": 1768116363,
         "url": "https://jobs.ashbyhq.com/opusclip/26fbe2c6-4c5d-4cd1-aad8-3e5c031783ef/application",
@@ -204358,7 +204358,7 @@
         "company_name": "JP Morgan Chase",
         "id": "c6181c61-2be3-4137-af18-5d794c799854",
         "title": "Country Risk Data Owner - Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1770995611,
         "date_posted": 1770995611,
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210694631",
@@ -253047,7 +253047,7 @@
         "company_name": "Cummins",
         "id": "f0845b32-fa26-4944-9ee2-dba50406ab37",
         "title": "Product Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773354092,
         "date_posted": 1773354092,
         "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2426392",
@@ -269102,6 +269102,91 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Sierra Nevada Corporation",
+        "id": "293197cf-7929-4cdb-ba8c-39b81b6d4a3e",
+        "title": "Engineering Technician 1",
+        "active": true,
+        "date_updated": 1774362758,
+        "date_posted": 1774362758,
+        "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Hagerstown-MD/Engineering-Technician-I_R0029584",
+        "locations": [
+            "Hagerstown, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Sierra-Nevada-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ABB",
+        "id": "110c7016-1aba-4d14-9703-da38d63336ed",
+        "title": "Data Analyst Internal Audit",
+        "active": true,
+        "date_updated": 1774362793,
+        "date_posted": 1774362793,
+        "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/Sesto-San-Giovanni-Milano-Italy/Data-Analyst-Internal-Audit_JR00028628-1",
+        "locations": [
+            "Milton Keynes, UK",
+            "Paris, France",
+            "Madrid, Spain",
+            "Milan, Metropolitan City of Milan, Italy"
+        ],
+        "company_url": "https://simplify.jobs/c/ABB",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "University of Rochester",
+        "id": "0d55e77b-50cf-4253-beb8-c9b69e5148a3",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1774362826,
+        "date_posted": 1774362826,
+        "url": "https://rochester.wd5.myworkdayjobs.com/UR_Staff/job/Laboratory-for-Laser-Energetics/Software-Engineer-I_R269734",
+        "locations": [
+            "Rochester, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Rochester",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Intertek",
+        "id": "4d93909f-0086-40e5-90f5-72d71d3e8b25",
+        "title": "Technician 1 - Building and Construction",
+        "active": true,
+        "date_updated": 1774169757,
+        "date_posted": 1773267425,
+        "url": "https://hcog.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/14121",
+        "locations": [
+            "York, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Intertek",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
         ]
     }
 ]
