@@ -176061,7 +176061,7 @@
         "company_name": "Beta Technologies",
         "id": "b553c303-8d7a-4352-95ca-afcbc7f12173",
         "title": "Manufacturing Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1769592301,
         "date_posted": 1763508804,
         "url": "https://jobs.lever.co/beta/edf6dff6-a658-4183-88b7-2c7e1ac38f1f/apply",
@@ -201329,7 +201329,7 @@
         "company_name": "URBN",
         "id": "5b050305-4a41-485b-b281-c14f3d7c5405",
         "title": "FP Movement Product Development Coordinator",
-        "active": true,
+        "active": false,
         "date_updated": 1770862097,
         "date_posted": 1770862097,
         "url": "https://homeoffice-na-urbn.icims.com/jobs/24548/job?mobile=true&needsRedirect=false",
@@ -223202,7 +223202,7 @@
         "company_name": "Iridium Communications",
         "id": "ffae14b3-5c45-45e4-ba82-e790ebb32250",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1771974367,
         "date_posted": 1771974367,
         "url": "https://careers-iridium.icims.com/jobs/4823/job?mobile=true&needsRedirect=false",
@@ -242818,7 +242818,7 @@
         "company_name": "Cisco",
         "id": "fe426872-e448-43b4-8224-e8f7a6f697e7",
         "title": "Product Management Engineer 2",
-        "active": true,
+        "active": false,
         "date_updated": 1772792840,
         "date_posted": 1772792840,
         "url": "https://careers.cisco.com/global/en/job/2007764",
@@ -254289,7 +254289,7 @@
         "company_name": "Northside Hospital",
         "id": "0b786ab6-5649-42f6-8d50-15c740e2b59a",
         "title": "Business Data Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1773410716,
         "date_posted": 1773410716,
         "url": "https://careers-northside.icims.com/jobs/106614/job?mobile=true&needsRedirect=false",
@@ -268704,5 +268704,59 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Accenture",
+        "id": "488addfd-c72d-48fc-a39a-cad0714d32ff",
+        "title": "MS Project Data Analyst",
+        "active": true,
+        "date_updated": 1774342793,
+        "date_posted": 1774342793,
+        "url": "https://boards.greenhouse.io/accenturefederalservices/jobs/4666085006",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Accenture-FS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Lindy",
+        "id": "a278668b-f235-49a5-91fc-ca5c540e8e3c",
+        "title": "Full Stack Software Engineer \u2013 Early Career",
+        "active": true,
+        "date_updated": 1773822396,
+        "date_posted": 1770966504,
+        "url": "https://jobs.ashbyhq.com/lindy/a5100dbe-d851-4544-bb4c-0428d77940eb/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Lindy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Etched",
+        "id": "5b384dac-cefd-4fba-b9a2-9a9bdcb9d414",
+        "title": "Systems Engineer - Finance & Operations",
+        "active": true,
+        "date_updated": 1773908272,
+        "date_posted": 1769152102,
+        "url": "https://jobs.ashbyhq.com/Etched/dab59531-2769-400d-94ec-d47ef928970f/application",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Etched",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
