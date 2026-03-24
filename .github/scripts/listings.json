@@ -102193,7 +102193,7 @@
         "company_name": "Reevo",
         "id": "306d6a4d-b01e-46dc-a4f1-97283795d6eb",
         "title": "Builder \u2013 New Grad - AI Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1764210450,
         "date_posted": 1764210450,
         "url": "https://jobs.ashbyhq.com/reevo/2a1f4f7f-86d3-41f4-bda1-3867ff82eb0d/application",
@@ -199061,7 +199061,7 @@
         "company_name": "Roblox",
         "id": "492e0d18-0b7a-4eeb-94b6-cad80a7df3d3",
         "title": "Data Scientist - Foundation AI",
-        "active": true,
+        "active": false,
         "date_updated": 1770766789,
         "date_posted": 1770766788,
         "url": "https://careers.roblox.com/jobs/7577436?gh_jid=7577436",
@@ -222239,7 +222239,7 @@
         "company_name": "Honeywell",
         "id": "4fa8a264-61f3-4954-aa67-0bf14c5a4cca",
         "title": "Semiconductor Technician Level 1",
-        "active": true,
+        "active": false,
         "date_updated": 1771928801,
         "date_posted": 1771629169,
         "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/139453",
@@ -243953,7 +243953,7 @@
         "company_name": "LexisNexis Risk Solutions",
         "id": "994aad73-4b4e-48b8-a23f-0732dc11a4b1",
         "title": "Associate Product Manager Rotational Program",
-        "active": true,
+        "active": false,
         "date_updated": 1772840746,
         "date_posted": 1772840746,
         "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA/Associate-Product-Manager-Rotational-Program--Hybrid-_R109914-1",
@@ -254879,7 +254879,7 @@
         "company_name": "Cummins",
         "id": "9f4fc338-fa4f-42e3-a16b-513b47786959",
         "title": "Electronic Systems Product Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773440208,
         "date_posted": 1773440208,
         "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2418220",
@@ -267164,7 +267164,7 @@
         "company_name": "SpecterOps",
         "id": "8549ce2c-6cfd-42ae-b753-67c629e7d138",
         "title": "Associate Product Manager - BloodHound Enterprise",
-        "active": true,
+        "active": false,
         "date_updated": 1774276224,
         "date_posted": 1774276224,
         "url": "https://job-boards.greenhouse.io/specterops/jobs/8468953002",
@@ -268930,6 +268930,176 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "cfbe1dea-403c-4149-90d8-06bd6c408518",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1774361802,
+        "date_posted": 1774361802,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054511",
+        "locations": [
+            "Camberley, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "c6213ab4-fe7a-41c1-b884-5d8beae9130f",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1774361762,
+        "date_posted": 1774361762,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054894",
+        "locations": [
+            "Wellington, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Virtu Financial",
+        "id": "5ee1aa64-799d-4f16-8aef-44c051856ca4",
+        "title": "ETF Pricing Analyst",
+        "active": true,
+        "date_updated": 1774362019,
+        "date_posted": 1774362019,
+        "url": "https://job-boards.greenhouse.io/virtu/jobs/8453259002",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Virtu-Financial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "368e6f79-573a-4617-9138-610d1c0ef491",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1774361763,
+        "date_posted": 1774361763,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054906",
+        "locations": [
+            "Liverpool, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "c746a5e7-c60f-4d32-a2a7-5e31ff1c2a4b",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1774361757,
+        "date_posted": 1774361757,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054892",
+        "locations": [
+            "United Kingdom"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "769c945e-7f03-42dd-90ff-f95fac556eef",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1774361476,
+        "date_posted": 1774361476,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054897",
+        "locations": [
+            "United Kingdom"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "4d1cce2d-8f0b-4465-a0ad-56dae254328f",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1774361481,
+        "date_posted": 1774361481,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054914",
+        "locations": [
+            "Camberley, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Genomics England",
+        "id": "0521bef1-8eba-472a-8136-53ac2e53e9ae",
+        "title": "Data Architect",
+        "active": true,
+        "date_updated": 1774361592,
+        "date_posted": 1774361592,
+        "url": "https://jobs.smartrecruiters.com/GenomicsEngland/744000116372429",
+        "locations": [
+            "London, UK",
+            "Leeds, UK",
+            "Cambridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Genomics-England",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Verition Fund Management",
+        "id": "e34466ce-83ed-4ef6-98f0-0f780e72c11b",
+        "title": "Junior Quant Analyst",
+        "active": true,
+        "date_updated": 1773826380,
+        "date_posted": 1772061875,
+        "url": "https://www.verition.com/open-positions?gh_jid=5056289007",
+        "locations": [
+            "Westport, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/VeritionFund",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
             "Master's",
             "PhD"
         ]
