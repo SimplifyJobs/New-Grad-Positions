@@ -34984,7 +34984,7 @@
         "company_name": "The Boeing Company",
         "id": "840f362d-e7a1-4739-9961-fc1eeddaf55b",
         "title": "ASIC/FPGA Verification Engineer Lead - Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1762918696,
         "date_posted": 1762818571,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/ASIC-FPGA-Verification-Engineer----Associate--Experienced--or-Lead----SoCal_JR2025480380-1",
@@ -268489,5 +268489,43 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Unilever",
+        "id": "5bfb2341-d09b-4834-9787-9915ace5b848",
+        "title": "CD Excellence Data Engineering Associate",
+        "active": true,
+        "date_updated": 1774318909,
+        "date_posted": 1774318909,
+        "url": "https://unilever.wd3.myworkdayjobs.com/Unilever_Experienced_Professionals/job/Remote---USA/CD-Excellence-Data-Engineering-Associate_R-1178161-1",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Unilever",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "The Boeing Company",
+        "id": "2806f8bf-a4cf-46aa-888b-3dc1ca433f1c",
+        "title": "Intelligence Systems Electrical Hardware Design Engineer \u2013 Associate or Mid-Level",
+        "active": true,
+        "date_updated": 1774317877,
+        "date_posted": 1774317877,
+        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Huntington-Beach-CA/Intelligence-Systems-Electrical-Hardware-Design-Engineer--Associate-or-Mid-Level-_JR2026502198-1",
+        "locations": [
+            "Huntington Beach, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
