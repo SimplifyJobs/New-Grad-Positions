@@ -93301,7 +93301,7 @@
         "company_name": "Equifax",
         "id": "5ea33220-2502-4539-b1ae-4d414a85f830",
         "title": "Benefits Solutions Product Manager",
-        "active": true,
+        "active": false,
         "date_updated": 1763670064,
         "date_posted": 1763670064,
         "url": "https://equifax.wd5.myworkdayjobs.com/external/job/USA---Colorado---Denver---17th-Street/Benefits-Solutions-Product-Manager_J00172232",
@@ -212990,7 +212990,7 @@
         "company_name": "NVIDIA",
         "id": "c1a5203d-78f0-412d-9ae6-4c21f149b5a8",
         "title": "CPU Verification Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1771543469,
         "date_posted": 1771543469,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/CPU-Verification-Engineer---New-College-Grad-2026_JR2013504",
@@ -220859,7 +220859,7 @@
         "company_name": "Northrop Grumman",
         "id": "4782615a-9789-4eb2-a7ba-3a954a5f815e",
         "title": "Engineering Technician 1",
-        "active": true,
+        "active": false,
         "date_updated": 1771901285,
         "date_posted": 1771901285,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Georgia-Warner-Robins/SCA-Engineering-Technician-1_R10223099",
@@ -244498,7 +244498,7 @@
         "company_name": "Applied Materials",
         "id": "56974fa2-3b47-4f26-817c-f54222582f14",
         "title": "Associate Product Manager New College Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1772841690,
         "date_posted": 1772841690,
         "url": "https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Associate-Product-Manager--New-College-Grad--Bachelors---Austin--TX-_R2614157",
@@ -269154,7 +269154,7 @@
         "company_name": "University of Rochester",
         "id": "0d55e77b-50cf-4253-beb8-c9b69e5148a3",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1774362826,
         "date_posted": 1774362826,
         "url": "https://rochester.wd5.myworkdayjobs.com/UR_Staff/job/Laboratory-for-Laser-Energetics/Software-Engineer-I_R269734",
@@ -269355,5 +269355,25 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "WWE",
+        "id": "2858d082-7885-4a4b-840c-582c96eee952",
+        "title": "Data Governance Analyst",
+        "active": true,
+        "date_updated": 1773739687,
+        "date_posted": 1771889756,
+        "url": "https://wwecorp.wd5.myworkdayjobs.com/wwecorp/job/Stamford-CT--WWE-Headquarters/Data-Governance-Analyst_R0007326-1",
+        "locations": [
+            "Stamford, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/WWE",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
