@@ -230835,7 +230835,7 @@
         "company_name": "Gulfstream",
         "id": "1ada42df-efc6-4e8c-856e-1849c89ba6ad",
         "title": "Business Intelligence Analyst 1",
-        "active": false,
+        "active": true,
         "date_updated": 1772233792,
         "date_posted": 1772233792,
         "url": "https://careers.gulfstream.com/job/Savannah-Business-Intelligence-Analyst-I-GA-31401/1368889100/?ats=successfactors",
@@ -268607,6 +268607,98 @@
             "Ottawa, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/General-Dynamics-UK",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Matic",
+        "id": "e74e3fc9-35d6-462a-9f2c-ad5c20129ded",
+        "title": "Hardware Technician",
+        "active": true,
+        "date_updated": 1774342019,
+        "date_posted": 1774342019,
+        "url": "https://jobs.ashbyhq.com/MaticRobots/7cc3217c-b770-4fa9-888f-dd748cfe4863/application",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/MaticRobots",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Welocalize",
+        "id": "b710be92-0699-4bd7-b53f-380d397fe35b",
+        "title": "Cantonese Speakers for Studio Recording Project",
+        "active": true,
+        "date_updated": 1774342182,
+        "date_posted": 1774342182,
+        "url": "https://jobs.lever.co/welocalize/81e63043-efb5-4804-b72d-333bb6ecb37a/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Welocalize",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "d2465979-2b63-4772-aef3-ba330298c6e9",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1774341923,
+        "date_posted": 1774341923,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054829",
+        "locations": [
+            "Bicester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "American Express",
+        "id": "2a6363f5-06b9-4bc6-982a-112777fbf861",
+        "title": "Associate \u2013 Digital Product Management",
+        "active": true,
+        "date_updated": 1774341858,
+        "date_posted": 1774341858,
+        "url": "https://aexp.eightfold.ai/careers/job/40898259",
+        "locations": [
+            "Plantation, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/American-Express",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Thorlabs",
+        "id": "6069a212-73ec-4c7a-8589-c7b5e6ad3f68",
+        "title": "Assembly Technician",
+        "active": true,
+        "date_updated": 1774341610,
+        "date_posted": 1774341610,
+        "url": "https://apply.workable.com/thorlabs/j/92439EC063/apply",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Thorlabs",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
