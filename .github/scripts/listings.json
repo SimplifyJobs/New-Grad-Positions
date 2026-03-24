@@ -131887,7 +131887,7 @@
         "company_name": "Jabil",
         "id": "b578804f-3e69-4436-9572-a5cc65683f22",
         "title": "Diagnostic Technician 1",
-        "active": false,
+        "active": true,
         "date_updated": 1766534190,
         "date_posted": 1766534190,
         "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Florence-KY/Diagnostic-Technician-I_J2435007",
@@ -142549,7 +142549,7 @@
         "company_name": "RTX",
         "id": "4836ddbf-d856-48ac-803a-01bb0274690a",
         "title": "Full-time Software Engineer - Software Engineer II",
-        "active": false,
+        "active": true,
         "date_updated": 1767629836,
         "date_posted": 1767629836,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA801-Marlborough-MA-1001-Boston-Post-Road-Building-2-Marlborough-MA-01752-USA/XMLNAME-2026-Fulltime---Raytheon-Software-Engineer-II----On-site-_01797124",
@@ -212353,7 +212353,7 @@
         "company_name": "RTX",
         "id": "5d2b8c04-74eb-4c9c-845d-81f14ac7d574",
         "title": "2026 Full-time - Software Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1771486032,
         "date_posted": 1771486032,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/XMLNAME-2026-Full-time---Software-Engineer-I---Onsite--MA-_01824796",
@@ -220489,7 +220489,7 @@
         "company_name": "Fidelity Investments",
         "id": "8e622a74-da9a-41eb-b0bf-94acf2f632aa",
         "title": "Production Support Engineer - Java and Datadog",
-        "active": false,
+        "active": true,
         "date_updated": 1771891209,
         "date_posted": 1771891209,
         "url": "https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Westlake-TX/Production-Support-Engineer--Java-and-Datadog-_2124408",
@@ -239833,7 +239833,7 @@
         "company_name": "Nordstrom",
         "id": "f03748c0-4d84-4cab-89d4-53993080b5ee",
         "title": "Engineer 1 - Misc Team",
-        "active": true,
+        "active": false,
         "date_updated": 1772679104,
         "date_posted": 1772679104,
         "url": "https://nordstrom.wd501.myworkdayjobs.com/nordstrom_careers/job/Seattle-WA/Engineer-1---MISC-Team--Hybrid---Seattle--WA-_R-804547",
@@ -258534,7 +258534,7 @@
         "company_name": "2K",
         "id": "a11414f5-8c3d-4f73-b194-874b3c54ba62",
         "title": "Associate Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1773699072,
         "date_posted": 1773699072,
         "url": "https://job-boards.greenhouse.io/2k/jobs/7659495003",
@@ -260051,7 +260051,7 @@
         "company_name": "RTX",
         "id": "1a343bfc-6ccf-446b-9d43-9d1cc831de52",
         "title": "Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1773787551,
         "date_posted": 1773787551,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineer-I--Onsite-_01829721",
@@ -270381,6 +270381,359 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Argonne National Laboratory",
+        "id": "89bd07d2-8c74-4502-bdf3-17a69330bc23",
+        "title": "Predoctoral Appointee",
+        "active": true,
+        "date_updated": 1774394430,
+        "date_posted": 1774394430,
+        "url": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Predoctoral-Appointee---Enabling-HDF5-to-support-data-compression-on-GPU_422388",
+        "locations": [
+            "Woodridge, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Argonne-National-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amentum",
+        "id": "198fefbf-d79d-4064-aed9-8b96ff4deccc",
+        "title": "Entry Level Software Engineer/Software Tester",
+        "active": true,
+        "date_updated": 1774394459,
+        "date_posted": 1774394459,
+        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer-Software-Tester_R0157214",
+        "locations": [
+            "Fredericksburg, VA",
+            "Dahlgren, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amentum",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Caterpillar Inc.",
+        "id": "f0a9acd7-9469-4a62-b4ab-5d14ac45cfd3",
+        "title": "Embedded Software Engineer",
+        "active": true,
+        "date_updated": 1774394216,
+        "date_posted": 1774394216,
+        "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/Embedded-Software-Engineer_R0000358499",
+        "locations": [
+            "Peoria, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Caterpillar-Inc",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "NVIDIA",
+        "id": "9a6a1ffd-6d72-4eeb-8369-6d2b5e9a3162",
+        "title": "ASIC Design Efficiency Engineer",
+        "active": true,
+        "date_updated": 1774394202,
+        "date_posted": 1774394202,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Design-Efficiency-Engineer_JR1998928",
+        "locations": [
+            "Austin, TX",
+            "Canada",
+            "Santa Clara, CA",
+            "Durham, NC",
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Texas A&M University System",
+        "id": "0e206a04-6446-4af4-8eec-b8a06746f95c",
+        "title": "Assistant Lecturer of Computer Information Systems - Data Analytics",
+        "active": true,
+        "date_updated": 1774394001,
+        "date_posted": 1774394001,
+        "url": "https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/Killeen-TX/Assistant-Lecturer-of-Computer-Information-Systems---Data-Analytics-_R-091942",
+        "locations": [
+            "Killeen, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Texas-AM-University-System",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Helen of Troy",
+        "id": "035435ab-a3a5-406a-a3c0-4587c8b90ab8",
+        "title": "Operations Associate Product Engineer",
+        "active": true,
+        "date_updated": 1774394128,
+        "date_posted": 1774394128,
+        "url": "https://helenoftroy.wd503.myworkdayjobs.com/Main_HoT/job/USA---New-York-New-York/Operations-Associate-Product-Engineer_R0005795",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Helen-Of-Troy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Hewlett Packard Enterprise",
+        "id": "c0eb1f5f-29a4-4beb-a4d0-3e143ae871e2",
+        "title": "Product Management Graduate - Master's/MBA",
+        "active": true,
+        "date_updated": 1774393754,
+        "date_posted": 1774393754,
+        "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Spring-Texas-United-States-of-America/Product-Management-Graduate_1192966",
+        "locations": [
+            "Eau Claire, WI",
+            "Andover, MA",
+            "Bloomington, MN",
+            "San Jose, CA",
+            "Spring, TX",
+            "Durham, NC",
+            "Roseville, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Ameresco",
+        "id": "74b802db-3f58-4f73-9021-687576d44d49",
+        "title": "Systems Development Analyst",
+        "active": true,
+        "date_updated": 1774393766,
+        "date_posted": 1774393766,
+        "url": "https://ameresco.wd5.myworkdayjobs.com/en-US/Ameresco/job/United-Kingdom---West-Yorkshire---Leeds/Systems-Development-Analyst_R3685",
+        "locations": [
+            "Leeds, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/89688bf2-cf8f-4629-99bc-ac10ed0ac2e2",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "f3e19265-8935-4c42-9b3f-fea7c3f8decd",
+        "title": "Effector Power Motor Controls Engineer 1",
+        "active": true,
+        "date_updated": 1774393231,
+        "date_posted": 1774393231,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/XMLNAME-2026-Fulltime-Raytheon-Effector-Power-Motor-Controls-Engineer-I_01823861",
+        "locations": [
+            "Tucson, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "b5021ad7-0fc7-425b-956d-01febee4087d",
+        "title": "Product Development Engineer 1",
+        "active": true,
+        "date_updated": 1774393218,
+        "date_posted": 1774393218,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-M10--3360-E-Hemisphere-Loop--BLDG-M10/XMLNAME-2026-Fulltime-Raytheon-Product-Development-Engineer-I----Onsite_01830640",
+        "locations": [
+            "Tucson, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "968c966b-cf66-4849-891d-20e969868020",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1774393228,
+        "date_posted": 1774393228,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Software-Engineer-I--Onsite-_01830002",
+        "locations": [
+            "McKinney, TX",
+            "Fort Wayne, IN",
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "8ffc45ff-9c31-49ad-b88a-3f10193be075",
+        "title": "Fulltime Systems Engineer 1 - Modeling and Simulation Developer",
+        "active": true,
+        "date_updated": 1774393253,
+        "date_posted": 1774393253,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/XMLNAME-2026-Fulltime-Systems-Engineer-I--Modeling-and-Simulation-Developer---Onsite_01832515",
+        "locations": [
+            "McKinney, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Wells Fargo",
+        "id": "7a6d3fc5-6bbe-4bf7-878c-97b3e0c60b94",
+        "title": "Engineering Associate - IAM Application Engineering",
+        "active": true,
+        "date_updated": 1774393105,
+        "date_posted": 1774393105,
+        "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/IRVING-TX/Engineering-Associate---IAM-Application-Engineering_R-531729",
+        "locations": [
+            "Irving, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Wells-Fargo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "758dda5c-d146-482e-a180-4ff744eae663",
+        "title": "Full-time",
+        "active": true,
+        "date_updated": 1774393232,
+        "date_posted": 1774393232,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/XMLNAME-2026-Full-time---Software-Engineer-II---Onsite--MA-_01832479",
+        "locations": [
+            "Marlborough, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "57258cd1-fa8f-45fb-9302-aa02b0dc5374",
+        "title": "Software Engineer 1 - Space and Radio Frequency Sensors",
+        "active": true,
+        "date_updated": 1774393226,
+        "date_posted": 1774393226,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/XMLNAME-2026-Full-time---Software-Engineer-I---Space-and-RF-Sensors----Onsite--IN-_01832548",
+        "locations": [
+            "Fort Wayne, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "108143ef-7734-41aa-b0a2-da98227c67bf",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1774393216,
+        "date_posted": 1774393216,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Beavercreek/Software-Engineer--AHT-_R10227138",
+        "locations": [
+            "Beavercreek, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Manulife Financial",
+        "id": "d5d979bc-0770-4653-84c1-7ebac5788133",
+        "title": "Associate Data Scientist",
+        "active": true,
+        "date_updated": 1774393005,
+        "date_posted": 1774393005,
+        "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Boston-Massachusetts/Associate-Data-Scientist_JR26031316-1",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Manulife-Financial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
         ]
     }
 ]
