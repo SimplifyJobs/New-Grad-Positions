@@ -268095,7 +268095,7 @@
         "company_name": "Pine Rest",
         "id": "6c783eb5-ac6a-4794-95df-4b6fccc273e7",
         "title": "Bachelor Level Clinical Coordinator",
-        "active": true,
+        "active": false,
         "date_updated": 1774306087,
         "date_posted": 1774306087,
         "url": "https://pinerest.wd5.myworkdayjobs.com/en-US/PineRest/job/Grand-Rapids-MI/Bachelor-Level-Clinical-Coordinator--PHP-Adult--BM-_JR104523",
@@ -268561,6 +268561,27 @@
         "date_updated": 1774319409,
         "date_posted": 1774319409,
         "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Westlake-Village-CA/Firmware-Engineer_2601000-1",
+        "locations": [
+            "Santa Clara, CA",
+            "Westlake Village, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Marvell",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Marvell",
+        "id": "86572f6d-7cc1-425d-a248-95218f9edf61",
+        "title": "Firmware Engineer",
+        "active": true,
+        "date_updated": 1774319257,
+        "date_posted": 1774319257,
+        "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Westlake-Village-CA/Firmware-Engineer_2601000",
         "locations": [
             "Santa Clara, CA",
             "Westlake Village, CA"
