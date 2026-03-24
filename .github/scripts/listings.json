@@ -205722,7 +205722,7 @@
         "company_name": "Microchip Technology",
         "id": "66536de5-fb87-40f2-8e47-b5fccd671025",
         "title": "Engineer 1 - Validation - Characterization",
-        "active": false,
+        "active": true,
         "date_updated": 1771024833,
         "date_posted": 1771024833,
         "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/CA---San-Jose---3850-N-First-St/Engineer-I---Validation--Characterization-_R1776-25",
@@ -206282,7 +206282,7 @@
         "company_name": "Northrop Grumman",
         "id": "3ab8432a-8cc9-436c-902d-510fc36806b5",
         "title": "SCA Engineering Technician 1",
-        "active": false,
+        "active": true,
         "date_updated": 1771199398,
         "date_posted": 1771199398,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Georgia-Warner-Robins/SCA-Engineering-Technician-1_R10222651",
@@ -240770,7 +240770,7 @@
         "company_name": "Sainsbury's",
         "id": "5c0f27cb-60c1-4f36-8877-af63562809d6",
         "title": "Trading Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1772708168,
         "date_posted": 1772708168,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051819",
@@ -267850,6 +267850,321 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "9eb67870-9a47-424c-a837-4bfb721b85c7",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1774304128,
+        "date_posted": 1774304128,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054814",
+        "locations": [
+            "Canterbury, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Red Bull Advanced Technologies",
+        "id": "4813158d-5529-4a52-99d7-6da25db64b5e",
+        "title": "Electronics Test and Inspection Technician",
+        "active": true,
+        "date_updated": 1774305237,
+        "date_posted": 1774305237,
+        "url": "https://redbulltechnology.wd3.myworkdayjobs.com/RB_Racing/job/Milton-Keynes/Electronics-Test---Inspection-Technician_R0006053",
+        "locations": [
+            "Milton Keynes, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Red-Bull-Advanced-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Zebra Technologies",
+        "id": "113e832f-9b52-4067-9b79-0310bf843642",
+        "title": "Product Manager - I - Engineering",
+        "active": true,
+        "date_updated": 1774303958,
+        "date_posted": 1774303958,
+        "url": "https://zebra.eightfold.ai/careers/job/343637483563",
+        "locations": [
+            "Vernon Hills, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Zebra-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "f6302228-96c2-4315-ae04-8831288290bd",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1774304149,
+        "date_posted": 1774304149,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054768",
+        "locations": [
+            "Stratford-upon-Avon, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "8VC",
+        "id": "9054a6f0-0e32-4e4b-8b11-73b93a77a38f",
+        "title": "Software Engineer \u2013 New Grad - Multiple Opportunites",
+        "active": true,
+        "date_updated": 1774304810,
+        "date_posted": 1774304810,
+        "url": "https://jobs.ashbyhq.com/8vc/2cb34a72-9ced-4457-8ad2-bd77d2819545/application",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/8VC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "b9a7993e-806c-4a69-a5b0-2cdbbbfe270b",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1774304530,
+        "date_posted": 1774304530,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054722",
+        "locations": [
+            "Oxford, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "JP Morgan Chase",
+        "id": "b5a3748e-54a2-4e11-a306-b16cb81844c0",
+        "title": "Quant Analytics Associate",
+        "active": true,
+        "date_updated": 1774304666,
+        "date_posted": 1774304666,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210727192",
+        "locations": [
+            "Columbus, OH",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "WSP",
+        "id": "a294c9ce-513a-4a86-bfaf-2bdf46a0f330",
+        "title": "Junior Environmental Professional Contaminated Sites",
+        "active": true,
+        "date_updated": 1774304210,
+        "date_posted": 1774304210,
+        "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/83311",
+        "locations": [
+            "Winnipeg, MB, Canada",
+            "Saskatoon, SK, Canada",
+            "Calgary, AB, Canada",
+            "Edmonton, AB, Canada",
+            "London, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/WSP",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Westinghouse Electric Company",
+        "id": "8a9bb085-0589-4478-8ab5-051b3d3bbc0b",
+        "title": "Engineer 1",
+        "active": true,
+        "date_updated": 1774303565,
+        "date_posted": 1774303565,
+        "url": "https://careers.westinghousenuclear.com/job/Warrendale-Engineer-I-OR/1375783300/?ats=successfactors",
+        "locations": [
+            "Cranberry Twp, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Westinghouse-Electric-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Torc Robotics",
+        "id": "ba02cfe5-f387-44da-98d4-2ee3062bbde6",
+        "title": "Software Engineer - Release Pipelines",
+        "active": true,
+        "date_updated": 1774304691,
+        "date_posted": 1774304691,
+        "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8457417002",
+        "locations": [
+            "Ann Arbor, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Torc-Robotics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Microchip Technology",
+        "id": "8d19586e-d843-492b-8970-77052c9d15aa",
+        "title": "Engineer 1 - Hardware - Electrical",
+        "active": true,
+        "date_updated": 1774306521,
+        "date_posted": 1774306521,
+        "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/MA---Beverly-Tozer/Engineer-I---Hardware--Electrical-_R1193-26",
+        "locations": [
+            "Peabody, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Microchip-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "6c040420-d336-438d-8782-c023435baf4d",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1774304133,
+        "date_posted": 1774304133,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054774",
+        "locations": [
+            "Aldershot, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Pine Rest",
+        "id": "6c783eb5-ac6a-4794-95df-4b6fccc273e7",
+        "title": "Bachelor Level Clinical Coordinator",
+        "active": true,
+        "date_updated": 1774306087,
+        "date_posted": 1774306087,
+        "url": "https://pinerest.wd5.myworkdayjobs.com/en-US/PineRest/job/Grand-Rapids-MI/Bachelor-Level-Clinical-Coordinator--PHP-Adult--BM-_JR104523",
+        "locations": [
+            "Grand Rapids, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Pine-Rest",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "6518895e-a57d-4a5a-9119-905b52755aa9",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1774304135,
+        "date_posted": 1774304135,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054795",
+        "locations": [
+            "Portsmouth, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jerry",
+        "id": "10c19c13-ed12-47a5-b5a1-c637619173fd",
+        "title": "Software Engineer - Entry",
+        "active": true,
+        "date_updated": 1774304993,
+        "date_posted": 1774304993,
+        "url": "https://jobs.ashbyhq.com/jerry.ai/d16429b7-c445-4c11-8628-b6f37c151bcc/application",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Twitch",
+        "id": "61602b45-3baa-4ceb-82fb-c551ab7333bc",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1774305028,
+        "date_posted": 1774305028,
+        "url": "https://job-boards.greenhouse.io/twitch/jobs/8470752002",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Twitch",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
