@@ -268267,7 +268267,7 @@
         "company_name": "Sainsbury's",
         "id": "5d070aaf-53f9-44d2-9a2f-3fdf84b607aa",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1774304133,
         "date_posted": 1774304133,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054776",
@@ -268371,6 +268371,119 @@
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054438",
         "locations": [
             "Workington, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "fde9cebf-9a6e-44d8-a60e-751c2ad75965",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1774315620,
+        "date_posted": 1774315620,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054827",
+        "locations": [
+            "Crawley, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "95cbc307-2e4b-4a7c-aac5-9ebe462c2d81",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1774315627,
+        "date_posted": 1774315627,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054826",
+        "locations": [
+            "Crawley, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Varda Space",
+        "id": "5eb608c8-9d70-443a-afa4-1d9f1c707413",
+        "title": "Thermal Hardware Engineer - Passive & Active Control Systems",
+        "active": true,
+        "date_updated": 1774316511,
+        "date_posted": 1774316511,
+        "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7676393003",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Varda-Space",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Google",
+        "id": "4881d8bc-fb89-4121-bf03-16c5713b617f",
+        "title": "Product Manager 1 - Youtube Ads - GenAI Creatives",
+        "active": true,
+        "date_updated": 1774315467,
+        "date_posted": 1774315467,
+        "url": "https://www.google.com/about/careers/applications/jobs/results/104663663926747846",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Google",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Collectors",
+        "id": "d4fbecd4-6b7c-4516-be1c-5d0fbbb865b6",
+        "title": "Trading Card Specialist",
+        "active": true,
+        "date_updated": 1774316121,
+        "date_posted": 1774316121,
+        "url": "https://collectorsuniverse.wd1.myworkdayjobs.com/collectors/job/Plano-TX/Trading-Card-Specialist_JR104497",
+        "locations": [
+            "Plano, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Collectors",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "1df84de5-28ce-47c6-81cb-b868d86d3220",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1774315974,
+        "date_posted": 1774315974,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054823",
+        "locations": [
+            "Cardiff, UK"
         ],
         "company_url": "https://simplify.jobs/c/Sainsburys",
         "is_visible": true,
