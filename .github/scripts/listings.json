@@ -111701,7 +111701,7 @@
         "company_name": "Parsons",
         "id": "65d967d1-ab59-4e12-982b-37aa4754ebdf",
         "title": "Analytics/Dashboarding Analyst - Ada",
-        "active": true,
+        "active": false,
         "date_updated": 1764918978,
         "date_posted": 1764918978,
         "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---VA-Mclean/Analytics-Dashboarding-Analyst--ADA-_R175222-1",
@@ -232277,7 +232277,7 @@
         "company_name": "Uhaul",
         "id": "88a101b2-0eb4-487a-8e31-2429566bdbbf",
         "title": "Hitch Installer",
-        "active": true,
+        "active": false,
         "date_updated": 1772321133,
         "date_posted": 1772321133,
         "url": "https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/Myrtle-Beach-South-Carolina/Hitch-Installer_R238910",
@@ -235521,7 +235521,7 @@
         "company_name": "Hawk-Eye Innovations",
         "id": "99be8a5e-87d6-4e45-bf4a-67001a352bfb",
         "title": "Sports Technology Hardware Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1772551151,
         "date_posted": 1772551151,
         "url": "https://jobs.ashbyhq.com/hawkeyeinnovations/36fb995c-5849-4753-96c9-048065b714dd/application",
@@ -237911,7 +237911,7 @@
         "company_name": "Appen",
         "id": "253059ce-a0e2-47a2-990b-12ee752ed450",
         "title": "Annotator",
-        "active": true,
+        "active": false,
         "date_updated": 1772625658,
         "date_posted": 1772625658,
         "url": "https://jobs.lever.co/appen-2/1f8d6868-2f02-4f25-b8f0-464e7fccb036/apply",
@@ -244015,7 +244015,7 @@
         "company_name": "Amentum",
         "id": "27a9dddd-754e-4763-bdc5-4ffb1acc2f11",
         "title": "C/C++ Junior Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1772840590,
         "date_posted": 1772840590,
         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/C-or-C---Junior-Developer_R0155908",
@@ -268911,6 +268911,27 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Lawrence Berkeley National Laboratory",
+        "id": "323f4d84-f56d-4670-8b45-8b930e87c49f",
+        "title": "Computational Research Scientist",
+        "active": true,
+        "date_updated": 1773997989,
+        "date_posted": 1772504269,
+        "url": "https://lbl.taleo.net/careersection/5/jobdetail.ftl?job=106084",
+        "locations": [
+            "Berkeley, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Lawrence-Berkeley-National-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
         ]
     }
 ]
