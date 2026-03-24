@@ -5,9 +5,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/New-Grad-Positions/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
 ---
-### Browse 421 New Grad Roles by Category
+### Browse 420 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (288)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (287)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (6)
 
@@ -525,13 +525,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Junior Full Stack Software Developer</td>
 <td>Washington, DC</td>
 <td><div align="center"><a href="https://careers-peraton.icims.com/jobs/164379/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/a2949e68-d9af-4855-8728-dc0f6054a416?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>11d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Okta?utm_source=GHList&utm_medium=company">Okta</a></strong></td>
-<td>Software Engineer 1 - New Grad</td>
-<td>SF</td>
-<td><div align="center"><a href="https://www.okta.com/company/careers/opportunity/7611023?gh_jid=7611023&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/42d84668-4130-4c47-bc61-5043bdc034f2?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
 <td>11d</td>
 </tr>
 <tr>
@@ -2100,7 +2093,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (1157)</summary>
+<summary>🗃️ Inactive roles (1158)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -2189,6 +2182,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Patuxent River, MD</td>
 <td>🔒</td>
 <td>8d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Okta?utm_source=GHList&utm_medium=company">Okta</a></strong></td>
+<td>Software Engineer 1 - New Grad</td>
+<td>SF</td>
+<td>🔒</td>
+<td>11d</td>
 </tr>
 <tr>
 <td><strong>H&R Block</strong></td>
@@ -15208,7 +15208,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Systems Security Engineer 1 - Systems Security Engineering</td>
 <td>Tewksbury, MA</td>
 <td>🔒</td>
-<td>5mo</td>
+<td>6mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/AIG?utm_source=GHList&utm_medium=company">AIG</a></strong></td>
