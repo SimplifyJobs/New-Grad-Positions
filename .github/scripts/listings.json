@@ -193082,7 +193082,7 @@
         "company_name": "DoseSpot",
         "id": "6ea5ff17-a817-4492-b5d4-defb705704e6",
         "title": "Product Analyst 2",
-        "active": true,
+        "active": false,
         "date_updated": 1770371943,
         "date_posted": 1770084758,
         "url": "https://jobs.ashbyhq.com/dosespot/2b869657-335f-4dcf-a09e-06e54a2285ce/application",
@@ -218024,7 +218024,7 @@
         "company_name": "Sainsbury's",
         "id": "b1bb7ad6-94da-4c90-b082-013e371369b8",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1771715383,
         "date_posted": 1771715383,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050538",
@@ -229186,7 +229186,7 @@
         "company_name": "Athena Health",
         "id": "ad2beae1-acd9-4a9e-83fc-dd459c425079",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1772159461,
         "date_posted": 1772159461,
         "url": "https://athenahealth.wd1.myworkdayjobs.com/en-US/External/job/Boston-MA/Associate-Software-Engineer--Platform---COCore_R14456",
@@ -231368,7 +231368,7 @@
         "company_name": "Moog ",
         "id": "d2a9ceff-f53c-4fc5-a28d-c2e15efc9c1d",
         "title": "Associate Product Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1772234919,
         "date_posted": 1772234919,
         "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Associate-Product-Engineer_R-26-16438",
@@ -247924,7 +247924,7 @@
         "company_name": "PennState University",
         "id": "4409b41f-3a9a-45b1-ac5c-cb4a34d80f46",
         "title": "Engineering Technologist",
-        "active": true,
+        "active": false,
         "date_updated": 1773180224,
         "date_posted": 1773180224,
         "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Engineering-Technologist_REQ_0000076082-2",
@@ -261887,7 +261887,7 @@
         "company_name": "Microchip Technology",
         "id": "57a687af-ff85-4ed3-b374-765277b55847",
         "title": "Engineer 1 - Software Development",
-        "active": true,
+        "active": false,
         "date_updated": 1773909444,
         "date_posted": 1773876727,
         "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/MA---Beverly-Tozer/Engineer-I-Software-Development_R953-26",
@@ -271677,6 +271677,124 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Truist Bank",
+        "id": "7c0a95cd-bfe8-415e-920d-89dfef223748",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1774450620,
+        "date_posted": 1774450620,
+        "url": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Richmond-VA/Software-Engineer-I_R0112713",
+        "locations": [
+            "Raleigh, NC",
+            "Goldsboro, NC",
+            "Richmond, VA",
+            "Charlotte, NC",
+            "Greensboro, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Truist-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Manulife Financial",
+        "id": "85ddb335-4515-4887-9db2-1cc9c38b3a2a",
+        "title": "Graduate Recruitment Opportunities - Data Analyst",
+        "active": true,
+        "date_updated": 1774449956,
+        "date_posted": 1774449956,
+        "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Toronto-Ontario/Graduate-Recruitment-Opportunities--GRO-----Data-Analyst_JR25081566",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Manulife-Financial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "cfebcf2d-108b-4e05-bb1e-17d25fada939",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1774449076,
+        "date_posted": 1774449076,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055044",
+        "locations": [
+            "Basingstoke, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "0bfedd50-eb83-4e83-89e2-4dc0db5af1e1",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1774449091,
+        "date_posted": 1774449091,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055049",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "7f00391c-527c-4d6a-8407-178326b0c4cd",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1774448940,
+        "date_posted": 1774448940,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054013",
+        "locations": [
+            "Basingstoke, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Inmar Intelligence",
+        "id": "278fbdc5-43d2-4d2f-bcca-bdd5baf7f08c",
+        "title": "Specialist - Promotions Data Management",
+        "active": true,
+        "date_updated": 1774448846,
+        "date_posted": 1774448846,
+        "url": "https://inmar.wd1.myworkdayjobs.com/inmarcareers/job/Local-Office-Saint-John-NB/Specialist--Promotions-Data-Management_JY2627205",
+        "locations": [
+            "Saint John, NB, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Inmar-Intelligence",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
