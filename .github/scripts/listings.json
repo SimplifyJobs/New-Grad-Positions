@@ -240752,7 +240752,7 @@
         "company_name": "Sainsbury's",
         "id": "5c0f27cb-60c1-4f36-8877-af63562809d6",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1772708168,
         "date_posted": 1772708168,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051819",
@@ -267465,7 +267465,7 @@
         "company_name": "Sainsbury's",
         "id": "f30b5443-f677-4e3e-90ba-6ac01f37c42f",
         "title": "Nightshift Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1774304528,
         "date_posted": 1774304528,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054778",
@@ -267522,7 +267522,7 @@
         "company_name": "Sainsbury's",
         "id": "c7cb2211-290e-42ff-bf7b-b5efb6782d41",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1774304135,
         "date_posted": 1774304135,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054788",
@@ -267587,7 +267587,7 @@
         "company_name": "RTX",
         "id": "fce174fb-699d-44f2-8bcc-b271734302b2",
         "title": "Flight Management Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1774305149,
         "date_posted": 1774305149,
         "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/Flight-Management-Software-Engineer-I--Onsite-_01792047-2",
@@ -271506,5 +271506,25 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "PPG Industries",
+        "id": "0054b252-49f9-46d3-8064-1d73bc306ff6",
+        "title": "Database Engineer",
+        "active": true,
+        "date_updated": 1774434369,
+        "date_posted": 1774434369,
+        "url": "https://ppg.wd5.myworkdayjobs.com/PPG_CAREERS/job/MYS---Shah-Alam-Office/Database-Engineer_JR261987-1",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/PPG-Industries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
