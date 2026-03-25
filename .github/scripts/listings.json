@@ -271914,5 +271914,30 @@
         "degrees": [
             "Master's"
         ]
+    },
+    {
+        "date_updated": 1774467598,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.ashbyhq.com/nascent/8454aeb0-fc8d-4fb0-9143-ea0d0a192efb",
+        "company_name": "Nascent",
+        "title": "Agentic Ops Intern",
+        "locations": [
+            "Toronto, ON, CAN",
+            "Austin, TX",
+            "Chicago, IL",
+            "Miami, FL",
+            "New York, NY",
+            "San Francisco, CA",
+            "Vancouver, BC, CAN",
+            "Victoria, BC, CAN"
+        ],
+        "category": "Software Engineering",
+        "source": "kira-park",
+        "id": "df484943-2be8-4359-a3a8-e17cccd3fe16",
+        "date_posted": 1774467598,
+        "company_url": "",
+        "is_visible": true
     }
 ]
