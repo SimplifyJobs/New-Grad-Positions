@@ -79744,7 +79744,7 @@
         "company_name": "Berkshire Hathaway Energy",
         "id": "a8226777-0a54-40c9-afd6-0178a68426ed",
         "title": "Technician - Mapping I",
-        "active": true,
+        "active": false,
         "date_updated": 1756202792,
         "date_posted": 1753889886,
         "url": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10002986",
@@ -191050,7 +191050,7 @@
         "company_name": "FourKites",
         "id": "4613e7f0-39e1-406a-9fc7-312851df0139",
         "title": "Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1770289197,
         "date_posted": 1770289197,
         "url": "https://job-boards.greenhouse.io/fourkites/jobs/7543873",
@@ -259488,7 +259488,7 @@
         "company_name": "Texas A&M University System",
         "id": "ee8231d2-7670-442e-8602-eea646ec9fbf",
         "title": "Postdoctoral Research Associate - Postdoctoral Research Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1773729173,
         "date_posted": 1773729173,
         "url": "https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/College-Station-TX/Postdoctoral-Research-Associate_R-089574-1",
@@ -264160,7 +264160,7 @@
         "company_name": "CACI",
         "id": "2ef1bee3-467f-4d41-93ab-135878413164",
         "title": "Engineering Development Support",
-        "active": true,
+        "active": false,
         "date_updated": 1773961199,
         "date_posted": 1773961199,
         "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-MD-Aberdeen-Proving-Ground/Engineering-Development-Support_323549",
@@ -265662,7 +265662,7 @@
         "company_name": "Mercor",
         "id": "868ff371-6e1a-40b7-8d51-0d6e25af09c7",
         "title": "Product Marketing Manager",
-        "active": true,
+        "active": false,
         "date_updated": 1774045560,
         "date_posted": 1774045560,
         "url": "https://jobs.ashbyhq.com/mercor/5fc578f1-36d2-4a81-9f23-f97ba4a860a6/application",
@@ -268173,7 +268173,7 @@
         "company_name": "Nucor",
         "id": "051af717-a9f1-4e74-9cc1-015f7b64d961",
         "title": "Systems Engineer 2",
-        "active": true,
+        "active": false,
         "date_updated": 1774315533,
         "date_posted": 1774315533,
         "url": "https://jobs.nucor.com/job/San-Bernardino-Systems-Engineer-II-CA-92408/1375979700/?ats=successfactors",
@@ -268785,7 +268785,7 @@
         "company_name": "Northrop Grumman",
         "id": "d84a48c4-d282-49ba-8fe4-114aa65b32da",
         "title": "Inspector \u2013 Level 2 or 3",
-        "active": true,
+        "active": false,
         "date_updated": 1774347372,
         "date_posted": 1774347372,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Minnesota-Plymouth/Inspector--Level-2-or-3-_R10225937-1",
@@ -271385,6 +271385,104 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/BMO",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Uncountable",
+        "id": "2be85ed6-1f10-412c-b779-90d1f55bbd99",
+        "title": "Product Manager \u2013 New Grad",
+        "active": true,
+        "date_updated": 1774430144,
+        "date_posted": 1774430144,
+        "url": "https://jobs.ashbyhq.com/uncountable/1f8425be-cd39-4397-a9c1-6511ecfc39fc/application",
+        "locations": [
+            "SF",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Uncountable",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Insitro",
+        "id": "baa0fed1-65c0-4289-9a52-b9b37a1d6a89",
+        "title": "Senior Machine Learning Scientist - Oligonucleotides",
+        "active": true,
+        "date_updated": 1774429883,
+        "date_posted": 1774429883,
+        "url": "https://jobs.ashbyhq.com/insitro/1abf3c50-9587-4cab-857b-b2f18de01617/application",
+        "locations": [
+            "San Bruno, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Insitro",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Uncountable",
+        "id": "4c7af976-72a8-4a39-a281-f5661002ac5a",
+        "title": "Scientific Data Engineer",
+        "active": true,
+        "date_updated": 1774429873,
+        "date_posted": 1774429873,
+        "url": "https://jobs.ashbyhq.com/uncountable/48cbdfbc-c377-49bd-b39b-4c2d77357135/application",
+        "locations": [
+            "SF",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Uncountable",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "abcec084-a86f-472c-9f79-5ceb80369826",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1774429475,
+        "date_posted": 1774429475,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055001",
+        "locations": [
+            "Reading, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Thermo Fisher Scientific",
+        "id": "6b4caae9-e3ca-4d5c-acf5-ef1199e76e9d",
+        "title": "Field Service Representative 2",
+        "active": true,
+        "date_updated": 1774430801,
+        "date_posted": 1771892197,
+        "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Toronto-Canada/Field-Service-Representative-II_R-01343156-1",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Thermo-Fisher-Scientific",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
