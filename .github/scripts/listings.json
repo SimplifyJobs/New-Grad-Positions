@@ -228007,7 +228007,7 @@
         "company_name": "Wood Mackenzie",
         "id": "e9a3e02b-8677-4eb8-95a4-c994427d1682",
         "title": "Research Associate - Metereology",
-        "active": true,
+        "active": false,
         "date_updated": 1772147144,
         "date_posted": 1772147144,
         "url": "https://woodmac.wd3.myworkdayjobs.com/woodmaccareers/job/Edinburgh-GB/Research-Associate---Metereology_JR2672",
@@ -256089,7 +256089,7 @@
         "company_name": "Northrop Grumman",
         "id": "98812211-b162-41da-a0a2-8a8335143772",
         "title": "Associate Electromechanical Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773491836,
         "date_posted": 1773491836,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-West-Virginia-Rocket-Center/Associate-Engineer-Electromechanical_R10224205",
@@ -271547,6 +271547,48 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Lowe's ",
+        "id": "d8c8d8e4-981d-40cf-846f-d4f4948eaaad",
+        "title": "Associate Merchant - Omni - Millwork",
+        "active": true,
+        "date_updated": 1774092355,
+        "date_posted": 1774092355,
+        "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Mooresville-NC-SSC-1999/Associate-Merchant_JR-02413972",
+        "locations": [
+            "Huntersville, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Lowes",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Thales",
+        "id": "f56e0913-e68e-4e3a-9633-4063a7980b06",
+        "title": "Embedded Software Research Engineer",
+        "active": true,
+        "date_updated": 1774143705,
+        "date_posted": 1774143705,
+        "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Reading/Junior-Embedded-Software-Research-Engineer_R0301491-2",
+        "locations": [
+            "Reading, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Thales",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
             "PhD"
         ]
     }
