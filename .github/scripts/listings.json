@@ -186025,7 +186025,7 @@
         "company_name": "Hewlett Packard Enterprise",
         "id": "d5ee50f5-f532-455b-9fcd-3545f7aade56",
         "title": "Data Science Graduate",
-        "active": true,
+        "active": false,
         "date_updated": 1770104255,
         "date_posted": 1770104255,
         "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Spring-Texas-United-States-of-America/Data-Science-Graduate_1192963",
@@ -236530,7 +236530,7 @@
         "company_name": "Johnson Controls",
         "id": "1b33febd-85fd-47da-ba91-997f460787c6",
         "title": "Product Engineer - Air Handling Units",
-        "active": true,
+        "active": false,
         "date_updated": 1772583684,
         "date_posted": 1772583684,
         "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/York-Pennsylvania-United-States-of-America/Product-Engineer---Air-Handling-Units--hybrid-_WD30262804-1",
@@ -246457,7 +246457,7 @@
         "company_name": "NVIDIA",
         "id": "021c5d05-f7eb-4106-a0a6-ca387e9e97e2",
         "title": "Deep Learning Architect \u2013 New College Grad - LLM Inference",
-        "active": true,
+        "active": false,
         "date_updated": 1773101640,
         "date_posted": 1773101640,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Architect--LLM-Inference---New-College-Grad-2026_JR2014368",
@@ -253268,7 +253268,7 @@
         "company_name": "TD Bank",
         "id": "4e8e3a51-02fc-4f29-9e92-17e7f1ed5d70",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1773357298,
         "date_posted": 1773357298,
         "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-I_R_1478337",
@@ -271893,6 +271893,26 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Dentsu",
+        "id": "a88473dc-9017-4df1-b2bf-20d19f89c1d7",
+        "title": "Technical Director - Analytics Implementation",
+        "active": true,
+        "date_updated": 1774089025,
+        "date_posted": 1774089025,
+        "url": "https://dentsuaegis.wd3.myworkdayjobs.com/DAN_GLOBAL/job/Columbia/Technical-Director---Analytics-Implementation_R1094151",
+        "locations": [
+            "Columbia, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Dentsu",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
         ]
     }
 ]
