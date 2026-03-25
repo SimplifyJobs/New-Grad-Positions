@@ -143541,7 +143541,7 @@
         "company_name": "WPP Media",
         "id": "bfdae42f-e3b0-48a3-9d25-57ff8f61bb7a",
         "title": "Data Management and Reporting Executive \u2013 Entry Level",
-        "active": true,
+        "active": false,
         "date_updated": 1767654990,
         "date_posted": 1767654990,
         "url": "https://job-boards.greenhouse.io/wppmedia/jobs/4910255008",
@@ -179798,7 +179798,7 @@
         "company_name": "Fiserv",
         "id": "1e2a6b70-dfc9-437c-b929-1a82189931e0",
         "title": "Product Management Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1769729925,
         "date_posted": 1769729925,
         "url": "https://fiserv.wd5.myworkdayjobs.com/ext/job/Hagerstown-Maryland/Product-Management-Analyst-_R-10380252",
@@ -192547,7 +192547,7 @@
         "company_name": "Toast",
         "id": "f118940e-6dae-4964-988b-6aee78723955",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1770333928,
         "date_posted": 1770333928,
         "url": "https://boards.greenhouse.io/embed/job_app?token=7494173",
@@ -198696,7 +198696,7 @@
         "company_name": "Rocket Lab USA",
         "id": "c947e679-1b9d-4192-87f4-79aaf9e7aa5b",
         "title": "Software Engineer 1/2 - Digital Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1770939891,
         "date_posted": 1770767156,
         "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7626656003",
@@ -207678,7 +207678,7 @@
         "company_name": "Rocket Lab USA",
         "id": "14c9ba5d-845a-49d1-b11d-1ad46bb1e442",
         "title": "Senior Firmware Engineer 2",
-        "active": true,
+        "active": false,
         "date_updated": 1771285403,
         "date_posted": 1767080883,
         "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7557402003",
@@ -211099,7 +211099,7 @@
         "company_name": "LinkedIn",
         "id": "0e88b580-f740-4840-8b9f-2d38b77b393e",
         "title": "Software Engineer - Frontend - Dpx",
-        "active": true,
+        "active": false,
         "date_updated": 1771456092,
         "date_posted": 1771456092,
         "url": "https://jobs.smartrecruiters.com/LinkedIn3/744000110039446",
@@ -211832,7 +211832,7 @@
         "company_name": "Breeze.cash",
         "id": "42d33008-d4bc-43e3-b2ca-ecd8899ebf0d",
         "title": "Software Engineer - Recent Grad - AI Native",
-        "active": true,
+        "active": false,
         "date_updated": 1771457494,
         "date_posted": 1770794935,
         "url": "https://job-boards.greenhouse.io/breezecash/jobs/5116784008",
@@ -232782,7 +232782,7 @@
         "company_name": "Woongjin",
         "id": "b66650d1-1c43-46e7-834b-634cce4bbe47",
         "title": "Java Developer - Bilingual - English/Korean",
-        "active": true,
+        "active": false,
         "date_updated": 1772435149,
         "date_posted": 1772435149,
         "url": "https://jobs.smartrecruiters.com/WJCompany/744000111731720",
@@ -244637,7 +244637,7 @@
         "company_name": "Woongjin",
         "id": "12f9b72f-acc7-412d-8bb2-5a2e9d1a972e",
         "title": "Java Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1772849082,
         "date_posted": 1772849082,
         "url": "https://jobs.smartrecruiters.com/WJCompany/744000113287272",
@@ -255612,7 +255612,7 @@
         "company_name": "Astranis",
         "id": "aa2872a5-8607-46a5-9083-e756e8fdc249",
         "title": "Flight Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773451782,
         "date_posted": 1773451782,
         "url": "https://job-boards.greenhouse.io/astranis/jobs/4015622006",
@@ -257438,7 +257438,7 @@
         "company_name": "Sainsbury's",
         "id": "14f8a5f7-9b71-419e-8913-2f663f3e7f34",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1773613372,
         "date_posted": 1773613372,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053096",
@@ -270837,5 +270837,97 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Twitch",
+        "id": "bed6f7ea-e6e8-4d84-b025-7ee242811892",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1774401489,
+        "date_posted": 1774401489,
+        "url": "https://job-boards.greenhouse.io/twitch/jobs/8472708002",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Twitch",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "963196d0-1d1c-4fe4-924a-1b21afd245f4",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1774401429,
+        "date_posted": 1774401429,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054991",
+        "locations": [
+            "Dorchester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "7c7aa94e-1e21-4d61-bf1b-25d3c0b37289",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1774401349,
+        "date_posted": 1774401349,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054992",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "a8284ef6-d96e-4eed-92c7-231feb343cc5",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1774401066,
+        "date_posted": 1774401066,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054994",
+        "locations": [
+            "Basingstoke, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Flip",
+        "id": "84616a04-7cdd-4592-8659-8e463a7da640",
+        "title": "Product Insights Analyst",
+        "active": true,
+        "date_updated": 1773785742,
+        "date_posted": 1768435089,
+        "url": "https://job-boards.greenhouse.io/flip/jobs/5070395008",
+        "locations": [
+            "Santa Monica, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Flip-CX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
