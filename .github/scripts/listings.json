@@ -39624,7 +39624,7 @@
         "company_name": "OmniOn Power",
         "id": "0bc2d558-48f6-4f85-b1e3-a79c2ca348eb",
         "title": "Electronic Design Mechanical Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1762384964,
         "date_posted": 1762384964,
         "url": "https://job-boards.greenhouse.io/omnionpower/jobs/4968101007",
@@ -55880,7 +55880,7 @@
         "company_name": "SpaceX",
         "id": "d418f00e-6bbf-43f8-bf26-4ee1f234e3e6",
         "title": "Application Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1760682608,
         "date_posted": 1760682608,
         "url": "https://boards.greenhouse.io/spacex/jobs/8211826002",
@@ -66814,7 +66814,7 @@
         "company_name": "Point72",
         "id": "b8c5e8a2-c811-4671-a23a-33a8901d9f67",
         "title": "Cubist Quant Academy - Researchers",
-        "active": true,
+        "active": false,
         "date_updated": 1762905008,
         "date_posted": 1757116201,
         "url": "https://boards.greenhouse.io/point72/jobs/7045943002",
@@ -77010,7 +77010,7 @@
         "company_name": "Jump Trading",
         "id": "75fe6f18-b400-4571-bee1-0e19c34acf54",
         "title": "Campus ML Research Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1761261045,
         "date_posted": 1754605562,
         "url": "https://boards.greenhouse.io/embed/job_app?token=7141643",
@@ -113401,7 +113401,7 @@
         "company_name": "SpaceX",
         "id": "fd638e66-0ec2-46d9-8099-b38fe0b63c78",
         "title": "Software Engineer - C++ - Starlink",
-        "active": true,
+        "active": false,
         "date_updated": 1764983986,
         "date_posted": 1764983986,
         "url": "https://boards.greenhouse.io/spacex/jobs/8324395002",
@@ -118059,7 +118059,7 @@
         "company_name": "SpaceX",
         "id": "1e25cb07-378a-4b10-83a9-5df03df09866",
         "title": "Software Engineer - Simulations - Application Software",
-        "active": false,
+        "active": true,
         "date_updated": 1765408969,
         "date_posted": 1765408969,
         "url": "https://boards.greenhouse.io/spacex/jobs/8330100002",
@@ -147616,7 +147616,7 @@
         "company_name": "ICON",
         "id": "74c09251-79b0-443a-98f6-8849f28c9d5d",
         "title": "Temporary Field Engineering Technician 1",
-        "active": true,
+        "active": false,
         "date_updated": 1767828398,
         "date_posted": 1767828398,
         "url": "https://www.iconbuild.com/careers/5751673004?gh_jid=5751673004&gh_jid=5751673004",
@@ -150824,7 +150824,7 @@
         "company_name": "SpaceX",
         "id": "46b06c74-5bc4-42ef-9f4a-808b598704be",
         "title": "Software Engineer - Direct To Cell",
-        "active": true,
+        "active": false,
         "date_updated": 1767979314,
         "date_posted": 1767979314,
         "url": "https://boards.greenhouse.io/spacex/jobs/8364374002",
@@ -155993,7 +155993,7 @@
         "company_name": "SpaceX",
         "id": "58e0d3b9-666d-44e1-8e51-7e5376d743bd",
         "title": "Software Engineer - Beam Planning - Starlink",
-        "active": true,
+        "active": false,
         "date_updated": 1768357994,
         "date_posted": 1768357994,
         "url": "https://boards.greenhouse.io/spacex/jobs/8373117002",
@@ -159913,7 +159913,7 @@
         "company_name": "Verkada",
         "id": "aacc6361-2ee9-4d43-9f42-e18f331cf88b",
         "title": "Security Software Engineer \u2013 University Graduate 2026",
-        "active": true,
+        "active": false,
         "date_updated": 1768530633,
         "date_posted": 1768530633,
         "url": "https://job-boards.greenhouse.io/verkada/jobs/5026072007",
@@ -166113,7 +166113,7 @@
         "company_name": "Archer",
         "id": "937e9bbe-d62e-4cea-a841-6b26204ca1e6",
         "title": "Electric Engine Software Engineer - Sj2026At",
-        "active": true,
+        "active": false,
         "date_updated": 1769028814,
         "date_posted": 1769028814,
         "url": "https://job-boards.greenhouse.io/archer56/jobs/7598593003",
@@ -192507,7 +192507,7 @@
         "company_name": "Flexport",
         "id": "574b60bd-1627-4de3-9f49-9e0cf2b0beee",
         "title": "Software Engineer 1 - Generalist",
-        "active": true,
+        "active": false,
         "date_updated": 1770334459,
         "date_posted": 1770334459,
         "url": "https://boards.greenhouse.io/flexport/jobs/7580661",
@@ -217383,7 +217383,7 @@
         "company_name": "Garner Health",
         "id": "568509a0-0fc6-4e50-9057-a9d3e351fb9b",
         "title": "Data Operations Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1771630826,
         "date_posted": 1771630826,
         "url": "https://job-boards.greenhouse.io/garnerhealth/jobs/5807286004",
@@ -228462,7 +228462,7 @@
         "company_name": "Celonis",
         "id": "5ca974a6-2cc0-49cd-bb12-af0cf9eb4cfe",
         "title": "Associate Value Engineer - AI-Driven Data Science & Analytics",
-        "active": true,
+        "active": false,
         "date_updated": 1772149168,
         "date_posted": 1772149168,
         "url": "https://job-boards.greenhouse.io/celonis/jobs/7627624003?gh_jid=7627624003",
@@ -257348,7 +257348,7 @@
         "company_name": "Sainsbury's",
         "id": "4151e27a-3ece-4b1e-88da-21db5848d36a",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1773555075,
         "date_posted": 1773555075,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053528",
@@ -270716,6 +270716,126 @@
         "degrees": [
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SpaceX",
+        "id": "cebfd81e-c968-4386-ad63-a2b232bae8fa",
+        "title": "Application Software Engineer",
+        "active": true,
+        "date_updated": 1773969075,
+        "date_posted": 1770171781,
+        "url": "https://boards.greenhouse.io/spacex/jobs/8402778002",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/SpaceX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "SpaceX",
+        "id": "87b0ac25-2d15-4b21-b577-fa3977bc8d8d",
+        "title": "EEE Components Engineer",
+        "active": true,
+        "date_updated": 1774044558,
+        "date_posted": 1770161097,
+        "url": "https://boards.greenhouse.io/spacex/jobs/8398696002",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/SpaceX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "SpaceX",
+        "id": "324cbb09-bcfb-476c-8a70-cc1db8b67b10",
+        "title": "Software Engineer - Power Systems Controls - Starlink",
+        "active": true,
+        "date_updated": 1774056502,
+        "date_posted": 1769728472,
+        "url": "https://boards.greenhouse.io/spacex/jobs/8395307002",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/SpaceX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "SpaceX",
+        "id": "a64d97be-bbf3-4111-a2f4-250061da599b",
+        "title": "Software Engineer - Network Performance",
+        "active": true,
+        "date_updated": 1773958380,
+        "date_posted": 1769481391,
+        "url": "https://boards.greenhouse.io/spacex/jobs/8391111002",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/SpaceX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "SpaceX",
+        "id": "38964605-b6fe-4cdf-b4e6-9228cbe6b05f",
+        "title": "Data Engineer",
+        "active": true,
+        "date_updated": 1773901105,
+        "date_posted": 1769481352,
+        "url": "https://boards.greenhouse.io/spacex/jobs/8391768002",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/SpaceX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SpaceX",
+        "id": "e7fd1c70-d896-4445-911b-b11335c64b79",
+        "title": "Software Engineer - Hardware Test & Automation",
+        "active": true,
+        "date_updated": 1774044613,
+        "date_posted": 1764719916,
+        "url": "https://boards.greenhouse.io/spacex/jobs/8316301002",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/SpaceX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
