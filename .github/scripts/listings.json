@@ -1,58 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Twitch",
-        "id": "04aa6721-47f4-4bf9-aca9-4ad464ca844a",
-        "title": "Software Development Engineer I - Frontend & Mobile",
-        "active": false,
-        "date_updated": 1755270292,
-        "date_posted": 1753744354,
-        "url": "https://job-boards.greenhouse.io/twitch/jobs/8093301002",
-        "locations": [
-            "San Francisco, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Twitch",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Jerry",
-        "id": "bc6193ad-e142-4cc1-a047-fe6c9a467962",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1753745290,
-        "date_posted": 1753745290,
-        "url": "https://jobs.ashbyhq.com/Jerry/441a20b6-31e5-4887-8bfd-cc16a1e5bcae/application",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Jerry",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Jerry",
-        "id": "c3ba297a-637d-41bf-b9a3-860740ec02ce",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1753745288,
-        "date_posted": 1753745288,
-        "url": "https://jobs.ashbyhq.com/Jerry/0589ade1-1749-4fe3-8e40-cea85ed7cb6b/application",
-        "locations": [
-            "Toronto, ON, Canada",
-            "Greater Toronto Area, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Jerry",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "EvenUp",
         "id": "881b6c4e-d51a-4d8a-9874-f9a3ddd93d54",
@@ -168915,7 +168863,7 @@
         "company_name": "Jabil",
         "id": "20791082-86cc-4f5a-a767-c7f972a26c12",
         "title": "Diagnostic Technician 1",
-        "active": true,
+        "active": false,
         "date_updated": 1769124784,
         "date_posted": 1769124784,
         "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Florence-KY/Diagnostic-Technician-I---402_J2437518",
@@ -179707,7 +179655,7 @@
         "company_name": "Fiserv",
         "id": "1e2a6b70-dfc9-437c-b929-1a82189931e0",
         "title": "Product Management Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1769729925,
         "date_posted": 1769729925,
         "url": "https://fiserv.wd5.myworkdayjobs.com/ext/job/Hagerstown-Maryland/Product-Management-Analyst-_R-10380252",
@@ -187284,7 +187232,7 @@
         "company_name": "Stryker",
         "id": "30ab6682-d44f-4222-a68a-590ad9dbf142",
         "title": "Data Engineer - Post Market",
-        "active": false,
+        "active": true,
         "date_updated": 1770162568,
         "date_posted": 1770162568,
         "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fremont-California/Data-Engineer---Post-Market_R558424",
@@ -254980,7 +254928,7 @@
         "company_name": "United Therapeutics Corporation",
         "id": "cb497f42-c742-4155-a4bf-1cb9a7873c0e",
         "title": "Senior Product Manager \u2013 HCP Marketing Lead",
-        "active": true,
+        "active": false,
         "date_updated": 1773441252,
         "date_posted": 1773441252,
         "url": "https://vhr-unither.wd5.myworkdayjobs.com/External/job/RTP-NC/Senior-Product-Manager--HCP-Marketing-Lead-_R04788",
@@ -255059,7 +255007,7 @@
         "company_name": "Bumble",
         "id": "cbe9762a-d446-41e2-98ab-858e986417d6",
         "title": "Graduate Associate Product Manager - Associate Product Manager",
-        "active": true,
+        "active": false,
         "date_updated": 1773441097,
         "date_posted": 1773441097,
         "url": "https://jobs.lever.co/bumbleinc/275aefd0-a8a0-46c3-94c4-37f1b73bc57f/apply",
@@ -256016,7 +255964,7 @@
         "company_name": "Northrop Grumman",
         "id": "98812211-b162-41da-a0a2-8a8335143772",
         "title": "Associate Electromechanical Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773491836,
         "date_posted": 1773491836,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-West-Virginia-Rocket-Center/Associate-Engineer-Electromechanical_R10224205",
@@ -265383,7 +265331,7 @@
         "company_name": "Sainsbury's",
         "id": "bf492596-92cf-41bd-8c71-bbbedaaed798",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1774045708,
         "date_posted": 1774045708,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054390",
@@ -266339,7 +266287,7 @@
         "company_name": "Intel",
         "id": "36298ed2-5265-4467-a022-aec7cf070201",
         "title": "DFT Design Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1774133087,
         "date_posted": 1774133087,
         "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Virtual-US/DFT-Design-Engineer_JR0281874",
@@ -272146,7 +272094,7 @@
         "company_name": "Sainsbury's",
         "id": "a02e78e0-baf8-4190-97ea-3118ce59990e",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1774476810,
         "date_posted": 1774476810,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055063",
@@ -272964,6 +272912,184 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Johnson Controls",
+        "id": "68a33852-7c05-47e6-b453-999abd47dfb2",
+        "title": "Application Engineer",
+        "active": true,
+        "date_updated": 1774480780,
+        "date_posted": 1774480780,
+        "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/York-Pennsylvania-United-States-of-America/Application-Engineer--hybrid-_WD30264470",
+        "locations": [
+            "York, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Johnson-Controls",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "8c9b269f-5ef7-4c43-9f3b-e5eeb5154d9b",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1774361476,
+        "date_posted": 1774361476,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053486",
+        "locations": [
+            "Wellington, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "830f0adc-f2f2-49c0-b6e4-c4349b2d25d7",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1773526371,
+        "date_posted": 1773526371,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053506",
+        "locations": [
+            "Croydon, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Wells Fargo",
+        "id": "4c633153-7e2a-4dd3-9e4d-5328c7cdbdea",
+        "title": "Engineering Associate - .NET",
+        "active": true,
+        "date_updated": 1774480253,
+        "date_posted": 1774480253,
+        "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/SAN-LEANDRO-CA/Engineering-Associate---NET_R-532542-1",
+        "locations": [
+            "San Leandro, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Wells-Fargo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "eb3d8c95-4866-4830-9b09-eb2ca8fb3045",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1774477182,
+        "date_posted": 1774477182,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053774",
+        "locations": [
+            "Trowbridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Intel",
+        "id": "fb2c9a6b-f168-4b98-9d52-baa82284b5e3",
+        "title": "DARC Reporting and Data Analyst",
+        "active": true,
+        "date_updated": 1774479825,
+        "date_posted": 1774479825,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/DARC-Reporting-and-Data-Analyst_JR0282368-1",
+        "locations": [
+            "Hillsboro, OR",
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CIBC",
+        "id": "3b8273cd-0754-4864-867e-2807616ad83e",
+        "title": "Associate Technology Graduate Rotational Program",
+        "active": true,
+        "date_updated": 1774479777,
+        "date_posted": 1774479777,
+        "url": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Associate--Technology-Graduate-Rotational-Program--TGRP-_2607311",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/CIBC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Ultra",
+        "id": "d4f9f515-cb97-4843-9159-32b4a30ae6b7",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1774479661,
+        "date_posted": 1774479661,
+        "url": "https://ultra.wd3.myworkdayjobs.com/ultra-careers/job/Tampa-FL-United-States/Software-Engineer-1_REQ-11707-1",
+        "locations": [
+            "Tampa, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Ultra",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CIBC",
+        "id": "61b588f4-1dba-4ebd-84bc-cb376313f2af",
+        "title": "Associate Technology Graduate Rotational Program",
+        "active": true,
+        "date_updated": 1774479564,
+        "date_posted": 1774479564,
+        "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Associate--Technology-Graduate-Rotational-Program--TGRP-_2607311-2",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/CIBC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
