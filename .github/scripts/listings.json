@@ -180945,7 +180945,7 @@
         "company_name": "GCI",
         "id": "0c4bf1b1-7e25-4dd7-8287-d275dae25cac",
         "title": "Network Maint. & Const. Tech 1",
-        "active": true,
+        "active": false,
         "date_updated": 1769767736,
         "date_posted": 1759914257,
         "url": "https://edqv.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/21003052",
@@ -208453,7 +208453,7 @@
         "company_name": "Trustpilot",
         "id": "1d90b701-1ce4-469b-b038-ee1be430f0f1",
         "title": "Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1771342899,
         "date_posted": 1771342899,
         "url": "https://business.trustpilot.com/jobs/7353456?gh_jid=7353456",
@@ -271549,6 +271549,128 @@
             "Reading, UK"
         ],
         "company_url": "https://simplify.jobs/c/Thales",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Freedom Technology Solutions Group",
+        "id": "de2dabaf-389f-4f67-bf9d-1414cfa393fe",
+        "title": "Junior Software Engineer",
+        "active": true,
+        "date_updated": 1774448390,
+        "date_posted": 1774448390,
+        "url": "https://job-boards.greenhouse.io/freedomconsulting/jobs/5089261007",
+        "locations": [
+            "St. Louis, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Freedom-Technology-Solutions-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "26ec9305-8a72-456a-9174-e4e0fddeaec0",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1774448570,
+        "date_posted": 1774448570,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055053",
+        "locations": [
+            "United Kingdom"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Geosyntec Consultants",
+        "id": "55a32e9d-f96a-45cb-a313-472d7408452f",
+        "title": "Early-Career GIS Analyst",
+        "active": true,
+        "date_updated": 1774447786,
+        "date_posted": 1774447786,
+        "url": "https://careers-geosyntec.icims.com/jobs/4341/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Boston, MA",
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Geosyntec-Consultants",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Geosyntec Consultants",
+        "id": "3ecefcbe-42fb-4924-93d8-022163cfe7b9",
+        "title": "Entry-Level Environmental Cartography Professional",
+        "active": true,
+        "date_updated": 1774447793,
+        "date_posted": 1774447793,
+        "url": "https://careers-geosyntec.icims.com/jobs/4343/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Titusville, FL",
+            "Melbourne, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Geosyntec-Consultants",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Home Solutions",
+        "id": "3459c4b6-cd07-4f82-b954-02a9397a95ae",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1774447921,
+        "date_posted": 1774447921,
+        "url": "https://job-boards.greenhouse.io/homesolutions/jobs/4626730005",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Home-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Geosyntec Consultants",
+        "id": "1cf6df7a-4682-498b-80aa-98229b680302",
+        "title": "Early-Career Geographic Information Systems Analyst",
+        "active": true,
+        "date_updated": 1774447777,
+        "date_posted": 1774447777,
+        "url": "https://careers-geosyntec.icims.com/jobs/4342/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Charlottesville, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Geosyntec-Consultants",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
