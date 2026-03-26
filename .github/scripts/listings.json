@@ -205881,7 +205881,7 @@
         "company_name": "Sainsbury's",
         "id": "b7a6fdd1-f93d-4bb3-9e30-0e15d0cde5b1",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1771196908,
         "date_posted": 1771196908,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400049570",
@@ -209624,7 +209624,7 @@
         "company_name": "Goldman Sachs",
         "id": "7b5f71f4-fea4-4689-b8e6-cbf14826ca1f",
         "title": "Software Engineer - Multiple Teams",
-        "active": true,
+        "active": false,
         "date_updated": 1771407017,
         "date_posted": 1767655461,
         "url": "https://higher.gs.com/roles/158741",
@@ -263645,7 +263645,7 @@
         "company_name": "Goldman Sachs",
         "id": "1d6180c2-0385-41d2-b8de-a4a65dfdcb1d",
         "title": "Data Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1773959675,
         "date_posted": 1773959675,
         "url": "https://higher.gs.com/roles/165547",
@@ -272194,7 +272194,7 @@
         "company_name": "Sainsbury's",
         "id": "937a4dc9-f2e1-48e1-84db-e6196c7821aa",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1774476807,
         "date_posted": 1774476807,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052401",
@@ -273613,5 +273613,25 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Stifel",
+        "id": "f933cfa7-78db-4a9e-a75d-738cc5b06e99",
+        "title": "Cash Product Banking Services Specialist",
+        "active": true,
+        "date_updated": 1774512604,
+        "date_posted": 1757646010,
+        "url": "https://careers-stifel.icims.com/jobs/8650/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "St. Louis, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Stifel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
