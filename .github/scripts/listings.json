@@ -232136,7 +232136,7 @@
         "company_name": "Sainsbury's",
         "id": "eb8ba213-d3bf-4dcb-81d6-a63450c64379",
         "title": "Trading Assistant - Shift",
-        "active": false,
+        "active": true,
         "date_updated": 1772320206,
         "date_posted": 1772320206,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051484",
@@ -250074,7 +250074,7 @@
         "company_name": "Regal Rexnord",
         "id": "4e830b2d-50f1-45d0-b67f-ecb1ee7699cc",
         "title": "Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773268454,
         "date_posted": 1773268454,
         "url": "https://regalrexnord.wd1.myworkdayjobs.com/careers/job/United-States/Application-Engineer_R26_00893",
@@ -250094,7 +250094,7 @@
         "company_name": "Amentum",
         "id": "635a28ee-a239-4b9f-8200-e32eface0d61",
         "title": "C++ Junior Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1773268780,
         "date_posted": 1773268780,
         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/C---Junior-Software-Developer_R0156280",
@@ -250114,7 +250114,7 @@
         "company_name": "AgWest Farm Credit",
         "id": "9706bb40-205e-4bb7-beda-52b8bbee30f5",
         "title": "Data Operations Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1773268326,
         "date_posted": 1773268326,
         "url": "https://job-boards.greenhouse.io/agwestfarmcredit/jobs/4178332009",
@@ -250900,7 +250900,7 @@
         "company_name": "Fiserv",
         "id": "758af815-d60e-46c3-9ce6-780bda77660a",
         "title": "Technology Analyst - Analyst Program I",
-        "active": true,
+        "active": false,
         "date_updated": 1773268943,
         "date_posted": 1773268943,
         "url": "https://fiserv.wd5.myworkdayjobs.com/ext/job/Sunnyvale-California/Technology---Analyst-Program-I_R-10381783",
@@ -255429,7 +255429,7 @@
         "company_name": "Varian",
         "id": "b737ca01-e7bc-45b5-940c-17323baf6335",
         "title": "Field Service Engineer - Proton Therapy",
-        "active": true,
+        "active": false,
         "date_updated": 1773483495,
         "date_posted": 1773483495,
         "url": "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/ATL-G/Field-Service-Engineer--Proton-Therapy----Atlanta--GA_R-27202-1",
@@ -256973,7 +256973,7 @@
         "company_name": "Micron Technology",
         "id": "1b084ee5-3448-42f1-819d-c4fc903c9b23",
         "title": "Graduate Design Architect - Design Architect - HBM",
-        "active": true,
+        "active": false,
         "date_updated": 1773492992,
         "date_posted": 1773492992,
         "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/New-College-Grad---Design-Architect--HBM_JR93489",
@@ -265611,7 +265611,7 @@
         "company_name": "Sainsbury's",
         "id": "35f39955-9d4c-4ca0-a027-6401d2ee3b6b",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1774044944,
         "date_posted": 1774044944,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054395",
@@ -273170,6 +273170,62 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "b3eee282-d04c-4b17-aba8-78b51ce7f517",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1774487738,
+        "date_posted": 1774487738,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055108",
+        "locations": [
+            "United Kingdom"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "af090965-08de-49a0-b427-8032a6a5d646",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1774487846,
+        "date_posted": 1774487846,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055105",
+        "locations": [
+            "Gloucester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Welocalize",
+        "id": "7f01cd88-1ca9-4440-8d4f-cc6e0a8e8897",
+        "title": "Generative AI Data Analyst",
+        "active": true,
+        "date_updated": 1774487491,
+        "date_posted": 1774487491,
+        "url": "https://jobs.lever.co/welocalize/5f0e65d9-dde1-4bb9-a2d1-cbf3ef4ae4ab/apply",
+        "locations": [
+            "California"
+        ],
+        "company_url": "https://simplify.jobs/c/Welocalize",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
