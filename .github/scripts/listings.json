@@ -274069,5 +274069,25 @@
         "degrees": [
             "Certificate"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Bank of America",
+        "id": "27cab98e-30cf-460f-8523-e89f0004f2d9",
+        "title": "Trading Assistant Commodities",
+        "active": true,
+        "date_updated": 1774538055,
+        "date_posted": 1774538055,
+        "url": "https://ghr.wd1.myworkdayjobs.com/lateral-emea/job/London/Trading-Assistant-Commodities_26011521-2",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Bank-Of-America",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
