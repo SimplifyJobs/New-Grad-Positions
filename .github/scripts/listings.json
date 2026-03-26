@@ -115105,9 +115105,9 @@
         "is_visible": false
     },
     {
-        "date_updated": 1765289113,
+        "date_updated": 1774531713,
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Master's"
         ],
@@ -251481,9 +251481,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1773325109,
+        "date_updated": 1774531713,
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://careers-lmi.icims.com/jobs/13752/junior-data-scientist/job",
         "company_name": "LMI",
@@ -257652,9 +257652,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1773653165,
+        "date_updated": 1774531713,
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://leidos.wd5.myworkdayjobs.com/en-US/external/job/Newport-News-VA/Junior-Software-Engineer_R-00178244",
         "company_name": "Leidos",
@@ -262585,9 +262585,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1773910108,
+        "date_updated": 1774531713,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/careers_gm/job/Austin-Texas-United-States-of-America/Simulation-Software-Engineer---Early-Career_JR-202605912",
         "company_name": "General Motors",
@@ -266656,9 +266656,9 @@
         ]
     },
     {
-        "date_updated": 1774260465,
+        "date_updated": 1774531713,
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://boeing.wd1.myworkdayjobs.com/external_careers/job/USA---Tukwila-WA/Entry-Level-Software-Test---Verification-Engineer_JR2026500201-1",
         "company_name": "Boeing",
