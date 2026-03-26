@@ -61350,7 +61350,7 @@
         "company_name": "Prairie View A&M University",
         "id": "ace14ae9-e562-4ce6-95df-9e78ab0140c2",
         "title": "Postdoctoral Researcher",
-        "active": false,
+        "active": true,
         "date_updated": 1759198451,
         "date_posted": 1759198451,
         "url": "https://tamus.wd1.myworkdayjobs.com/pvamu_external/job/Prairie-View-TX/Postdoctoral-Researcher--CREDIT-_R-079402",
@@ -124453,7 +124453,7 @@
         "company_name": "Boson Ai",
         "id": "5115068c-d29f-4776-b0ca-6300683b5af8",
         "title": "Data Annotation - QC and Crawling - Thai",
-        "active": true,
+        "active": false,
         "date_updated": 1765926904,
         "date_posted": 1765926904,
         "url": "https://jobs.lever.co/bosonai/fab6b3b2-f6d2-4c06-a0ae-2d747a16cf02/apply",
@@ -155929,7 +155929,7 @@
         "company_name": "Rivian",
         "id": "a8a38036-9d8b-4ef0-918a-ee2fb14ed529",
         "title": "Software Engineer - Engineering Productivity - Infotainment Platform",
-        "active": true,
+        "active": false,
         "date_updated": 1768382229,
         "date_posted": 1764779232,
         "url": "https://careers.rivian.com/jobs/27934?lang=en-us&icims=1",
@@ -167788,7 +167788,7 @@
         "company_name": "Prairie View A&M University",
         "id": "e5d196b5-c0c7-4639-9262-f97267a472f0",
         "title": "Postdoctoral Researcher - Pier",
-        "active": false,
+        "active": true,
         "date_updated": 1769123503,
         "date_posted": 1769123503,
         "url": "https://tamus.wd1.myworkdayjobs.com/pvamu_external/job/Prairie-View-TX/Postdoctoral-Researcher--PIER---Pioneering-Advanced-Materials-for-Renewable-Energy---2_R-089861-2",
@@ -211863,7 +211863,7 @@
         "company_name": "Clearer.io",
         "id": "c3855fad-4a08-4830-934a-13bcb746bf82",
         "title": "Associate Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1771485101,
         "date_posted": 1771485101,
         "url": "https://jobs.lever.co/Clearer/530ccee8-a05b-4511-9b0f-4296a8a489ef/apply",
@@ -225211,7 +225211,7 @@
         "company_name": "Akima",
         "id": "570386af-320c-4a36-976b-1cd0ab63cc23",
         "title": "Web Application Developer 2",
-        "active": true,
+        "active": false,
         "date_updated": 1772061255,
         "date_posted": 1772061255,
         "url": "https://careers.akima.com/jobs/21639?lang=en-us&icims=1",
@@ -226013,7 +226013,7 @@
         "company_name": "IDEXX",
         "id": "df3ed117-991b-4a65-8003-2c38d125785c",
         "title": "Data Conversions Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1772063479,
         "date_posted": 1772063479,
         "url": "https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Virtual-United-States/Data-Conversions-Technician_J-051787-1",
@@ -255690,7 +255690,7 @@
         "company_name": "Northrop Grumman",
         "id": "92d95180-a4f5-464e-8162-ec422fb12b12",
         "title": "Engineer / Principal Engineer Systems Modeling Simulation",
-        "active": true,
+        "active": false,
         "date_updated": 1773491769,
         "date_posted": 1773491769,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Engineer---Principal-Engineer-Systems-Modeling-Simulation_R10219422",
@@ -259204,7 +259204,7 @@
         "company_name": "Texas A&M University - College Station",
         "id": "38334fff-26a2-4a56-8ab2-7e2e7a4f7322",
         "title": "Postdoctoral Research Associate - Postdoctoral Research Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1773728923,
         "date_posted": 1773728923,
         "url": "https://tamus.wd1.myworkdayjobs.com/TAMU_External/job/College-Station-TX/Postdoctoral-Research-Associate_R-089574-2",
@@ -259892,7 +259892,7 @@
         "company_name": "Loyola Marymount University",
         "id": "508babe7-78bc-4190-a870-2dc2886220d2",
         "title": "Instructor of Mathematics - Statistics and Data Science",
-        "active": false,
+        "active": true,
         "date_updated": 1773786951,
         "date_posted": 1773786951,
         "url": "https://lmu.wd1.myworkdayjobs.com/careers/job/Westchester-Campus/Instructor-of-Mathematics--Statistics-and-Data-Science_R14010",
@@ -264015,7 +264015,7 @@
         "company_name": "Amazon",
         "id": "4feeff32-d18d-464e-b56f-539484e9c533",
         "title": "Data Engineer 1 - IT Pnd Data and Analytics",
-        "active": true,
+        "active": false,
         "date_updated": 1773969641,
         "date_posted": 1773969641,
         "url": "https://amazon.jobs/en/jobs/10371877/data-engineer-i-it-pnd-data-and-analytics",
@@ -269511,7 +269511,7 @@
         "company_name": "J.Crew",
         "id": "7fa3f7e6-d8f7-4615-82ee-4409e87311df",
         "title": "Assistant Merchant",
-        "active": false,
+        "active": true,
         "date_updated": 1774390363,
         "date_posted": 1774390363,
         "url": "https://jcrew.wd1.myworkdayjobs.com/FriendsFamilyCareers/job/New-York-NY-USA-Headquarters/Assistant-Merchant---JCrew-Women-s_123107",
@@ -273290,6 +273290,104 @@
         "degrees": [
             "Bachelor's",
             "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "John Deere",
+        "id": "6b1de7dd-a0be-4bf2-8cee-7f7a58788046",
+        "title": "Data & Analytics Development Program 2 - Data Analytics",
+        "active": true,
+        "date_updated": 1774505850,
+        "date_posted": 1774505850,
+        "url": "https://johndeere.eightfold.ai/careers/job/137478485888",
+        "locations": [
+            "Grimes, IA",
+            "Davenport, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/John-Deere",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CGS Federal (Contact Government Services)",
+        "id": "22d2ca38-32fd-4f0c-9358-01e40037ac66",
+        "title": "ServiceNow Architect - Sna - Junior",
+        "active": true,
+        "date_updated": 1774505937,
+        "date_posted": 1774505937,
+        "url": "https://jobs.lever.co/cgsfederal/af321f10-50ca-48d6-b807-51428a5aee7a/apply",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/CGS-Federal",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "f555c800-ea95-4954-b42a-10bbce693b97",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1774505211,
+        "date_posted": 1774505211,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055113",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "b23e526d-5a98-4935-a185-67a0a4742218",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1774505247,
+        "date_posted": 1774505247,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055112",
+        "locations": [
+            "Thirsk, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Akamai Technologies",
+        "id": "3fb0dee8-2275-4691-9672-8e5da715afde",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1774505193,
+        "date_posted": 1774505193,
+        "url": "https://fa-extu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2703",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Akamai",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
