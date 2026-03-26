@@ -255800,7 +255800,7 @@
         "company_name": "Argonne National Laboratory",
         "id": "a64f5810-74a1-4b63-859d-0c26dfd668a1",
         "title": "Postdoctoral Research Scholar - General Particle Theory",
-        "active": false,
+        "active": true,
         "date_updated": 1773486619,
         "date_posted": 1773486619,
         "url": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Research-Scholar---General-Particle-Theory_421553",
@@ -269281,7 +269281,7 @@
         "company_name": "Jonas Software",
         "id": "3d380e06-cc4e-4d1e-a70a-3be2f26c5b4f",
         "title": "Junior AI Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1774390972,
         "date_posted": 1774390972,
         "url": "https://talentmanagementsolution.wd3.myworkdayjobs.com/JonasSoftwareCanada/job/Remote---Canada/Junior-AI-Software-Engineer_R50805-1",
@@ -273789,5 +273789,23 @@
             "Associate's",
             "Bootcamp"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Stoke Space",
+        "id": "3cdbb17b-5782-4201-a641-f2ebc86241e5",
+        "title": "Assembly Technician - Nondestructive Testing",
+        "active": true,
+        "date_updated": 1774517521,
+        "date_posted": 1769037317,
+        "url": "https://stokespace.com/careers/current-openings?gh_jid=5777757004",
+        "locations": [
+            "Kent, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Stoke-Space",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
