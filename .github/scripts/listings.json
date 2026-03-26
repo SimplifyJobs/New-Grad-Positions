@@ -245479,7 +245479,7 @@
         "company_name": "Teledyne",
         "id": "11c1ba76-b894-4f4d-afeb-f5cc68a7f58b",
         "title": "Solder Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1773095796,
         "date_posted": 1773095796,
         "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Daytona-Beach-FL-TDY/Solder-Technician_REQ33503-2",
@@ -249495,7 +249495,7 @@
         "company_name": "Amentum",
         "id": "8298fa01-a146-467b-aab9-b8f6171e2123",
         "title": "Junior Software Engineer for Naval Research Technology",
-        "active": true,
+        "active": false,
         "date_updated": 1773182259,
         "date_posted": 1773182259,
         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Fredericksburg/Junior-Software-Engineer-for-Naval-Research-Technology_R0156107",
@@ -252606,7 +252606,7 @@
         "company_name": "SMX",
         "id": "743fb9bf-8d3f-4311-9704-b90c68466fa6",
         "title": "Engineering Technician 1",
-        "active": true,
+        "active": false,
         "date_updated": 1773353788,
         "date_posted": 1773353788,
         "url": "https://www.smxtech.com/careers/?gh_jid=7662704003",
@@ -253502,7 +253502,7 @@
         "company_name": "Amazon",
         "id": "f9d9b4d6-0a79-435b-9c82-65027dc745d0",
         "title": "Software Development Engineer - IAM Control Plane Team",
-        "active": true,
+        "active": false,
         "date_updated": 1773382231,
         "date_posted": 1773382231,
         "url": "https://amazon.jobs/en/jobs/3202559/software-development-engineer-iam-control-plane-team",
@@ -253520,7 +253520,7 @@
         "company_name": "Southwest Airlines",
         "id": "21d2525d-2871-4a2d-ad5c-c4250a3a12ab",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773382083,
         "date_posted": 1773382083,
         "url": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Associate-Software-Engineer---Warrior-Hire_R-2026-66100",
@@ -254258,7 +254258,7 @@
         "company_name": "Fidelity Investments",
         "id": "a4bf1e6f-2d1f-418a-8a40-d53c8e8ee75d",
         "title": "Analyst - Fraud Detection and Analytics",
-        "active": true,
+        "active": false,
         "date_updated": 1773413417,
         "date_posted": 1773413417,
         "url": "https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Merrimack-NH/Analyst--Fraud-Detection-and-Analytics_2124696",
@@ -254398,7 +254398,7 @@
         "company_name": "Flutter",
         "id": "4db9fa1d-00ab-40ad-b573-d969f810c557",
         "title": "Associate Trading Operations Executive",
-        "active": true,
+        "active": false,
         "date_updated": 1773414607,
         "date_posted": 1773414607,
         "url": "https://flutterbe.wd3.myworkdayjobs.com/FlutterUKI_External/job/Dublin-Ireland/Associate-Trading-Operations-Exec_JR136786",
@@ -268184,7 +268184,7 @@
         "company_name": "Sainsbury's",
         "id": "fde9cebf-9a6e-44d8-a60e-751c2ad75965",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1774315620,
         "date_posted": 1774315620,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054827",
@@ -273229,6 +273229,46 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "331f7ea9-bff4-4c54-8f60-96a236aba021",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1773537206,
+        "date_posted": 1773537206,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053519",
+        "locations": [
+            "Cardiff, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Applied Materials",
+        "id": "0d407e80-c6cf-4d12-8db4-701340f9f7b0",
+        "title": "EHS/Product Safety Engineer",
+        "active": true,
+        "date_updated": 1774047801,
+        "date_posted": 1774047801,
+        "url": "https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/EHS-Product-Safety-Engineer---New-College-Grad--Bachelors---Multiple-Locations-_R2517821",
+        "locations": [
+            "Austin, TX",
+            "Santa Clara, CA",
+            "Essex County, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Materials",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
