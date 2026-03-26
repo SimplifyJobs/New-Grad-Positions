@@ -46219,7 +46219,7 @@
         "company_name": "Zeiss",
         "id": "2db01e83-6746-4557-bf12-b8dc226c6ead",
         "title": "Field Support Engineer 2",
-        "active": true,
+        "active": false,
         "date_updated": 1762910772,
         "date_posted": 1761902893,
         "url": "https://zeissgroup.wd3.myworkdayjobs.com/External/job/Remote---USA-MN/Field-Support-Engineer-II_JR_1044472",
@@ -144819,7 +144819,7 @@
         "company_name": "Graphcore",
         "id": "e5e156e6-813f-4ef7-a4ee-d6d5a7029f34",
         "title": "Graduate Silicon Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1767715746,
         "date_posted": 1767715746,
         "url": "https://job-boards.greenhouse.io/graphcore/jobs/8360495002",
@@ -145343,7 +145343,7 @@
         "company_name": "Graphcore",
         "id": "2b482c61-059b-4d91-b72e-b538eef56c4b",
         "title": "Graduate Silicon Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1767740789,
         "date_posted": 1767740789,
         "url": "https://job-boards.greenhouse.io/graphcore/jobs/8360506002",
@@ -190790,7 +190790,7 @@
         "company_name": "JP Morgan Chase",
         "id": "74e4dcea-4343-4489-aabe-0319fa8b26b5",
         "title": "Risk Management - Data Scientist Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1770287343,
         "date_posted": 1770287343,
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210706552",
@@ -214106,7 +214106,7 @@
         "company_name": "Stryker",
         "id": "f3e8742b-d07b-4c4c-a8d0-97b232ff91f1",
         "title": "Portfolio Associate - Upper Extremities",
-        "active": true,
+        "active": false,
         "date_updated": 1771555044,
         "date_posted": 1771555044,
         "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Columbia-City-Indiana/Portfolio-Associate--Upper-Extremities_R559746",
@@ -240296,7 +240296,7 @@
         "company_name": "RTX",
         "id": "b524de61-9d76-47f2-860e-deafce23e1d1",
         "title": "Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1772697471,
         "date_posted": 1772697471,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/XMLNAME-2026-Full-time---Software-Engineer-1---Onsite--IN-_01827401",
@@ -243126,7 +243126,7 @@
         "company_name": "Vertiv",
         "id": "f097b512-a613-46dc-9f38-04357bc064ea",
         "title": "Equipment Installer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1772839233,
         "date_posted": 1772839233,
         "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20268197",
@@ -272978,7 +272978,7 @@
         "company_name": "CIBC",
         "id": "3b8273cd-0754-4864-867e-2807616ad83e",
         "title": "Associate Technology Graduate Rotational Program",
-        "active": true,
+        "active": false,
         "date_updated": 1774479777,
         "date_posted": 1774479777,
         "url": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Associate--Technology-Graduate-Rotational-Program--TGRP-_2607311",
@@ -273017,7 +273017,7 @@
         "company_name": "CIBC",
         "id": "61b588f4-1dba-4ebd-84bc-cb376313f2af",
         "title": "Associate Technology Graduate Rotational Program",
-        "active": true,
+        "active": false,
         "date_updated": 1774479564,
         "date_posted": 1774479564,
         "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Associate--Technology-Graduate-Rotational-Program--TGRP-_2607311-2",
@@ -274009,5 +274009,65 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Adelphi Real World",
+        "id": "95b7e244-eb3c-4e91-add9-7c8e2fd4ad1e",
+        "title": "Programmer",
+        "active": true,
+        "date_updated": 1774535715,
+        "date_posted": 1774535715,
+        "url": "https://job-boards.greenhouse.io/adelphirealworld/jobs/5165398008",
+        "locations": [
+            "Buxton, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Adelphi-Real-World",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Omnicom Health",
+        "id": "e8167110-b3d8-492f-b3c1-9bda852eef82",
+        "title": "Programmer",
+        "active": true,
+        "date_updated": 1774535657,
+        "date_posted": 1774535657,
+        "url": "https://job-boards.greenhouse.io/omnicomhealth/jobs/5147698008",
+        "locations": [
+            "Buxton, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Omnicom-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale de Surveillance (SGS)",
+        "id": "31d49d98-e99a-4286-8b86-6032b229d25a",
+        "title": "Clinical Data Analyst 1",
+        "active": true,
+        "date_updated": 1774535184,
+        "date_posted": 1774535184,
+        "url": "https://jobs.smartrecruiters.com/SGS/744000116960913",
+        "locations": [
+            "Richardson, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/SGS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Certificate"
+        ]
     }
 ]
