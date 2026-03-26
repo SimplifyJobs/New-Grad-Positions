@@ -272997,12 +272997,12 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
+        "category": "Software Engineering",
         "company_name": "Ultra",
         "id": "d4f9f515-cb97-4843-9159-32b4a30ae6b7",
         "title": "Software Engineer 1",
         "active": true,
-        "date_updated": 1774479661,
+        "date_updated": 1774531439,
         "date_posted": 1774479661,
         "url": "https://ultra.wd3.myworkdayjobs.com/ultra-careers/job/Tampa-FL-United-States/Software-Engineer-1_REQ-11707-1",
         "locations": [
@@ -273010,10 +273010,8 @@
         ],
         "company_url": "https://simplify.jobs/c/Ultra",
         "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
+        "sponsorship": "U.S. Citizenship is Required",
+        "degrees": []
     },
     {
         "source": "Simplify",
