@@ -101,9 +101,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>0d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Ultra-Intelligence-And-Communications?utm_source=GHList&utm_medium=company">Ultra Intelligence and Communications</a></strong></td>
+<td><strong><a href="https://simplify.jobs/c/Ultra-Intelligence-And-Communications?utm_source=GHList&utm_medium=company">Ultra Intelligence & Communications Mission Solutions</a></strong></td>
 <td>Software Engineer 1 🇺🇸</td>
-<td>Tampa, FL</td>
+<td>locations Tampa, FL, United States</td>
 <td><div align="center"><a href="https://ultra.wd3.myworkdayjobs.com/uiccareers/job/Tampa-FL-United-States/Software-Engineer-1_REQ-11707?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/ca8c93ce-8294-428d-8464-2b7fa0492cfb?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
 <td>0d</td>
 </tr>
@@ -8750,7 +8750,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>6mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Visa?utm_source=GHList&utm_medium=company">🔥 Visa</a></strong></td>
 <td>Software Engineer – New College Grad</td>
 <td>Bellevue, WA</td>
 <td>🔒</td>
