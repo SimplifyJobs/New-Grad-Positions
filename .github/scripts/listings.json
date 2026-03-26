@@ -35437,7 +35437,7 @@
         "company_name": "JP Morgan Chase",
         "id": "e84fb9c2-001a-4f38-9432-4789df8163a5",
         "title": "Algorithmic Execution Automated Trading Strategist - Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1762908729,
         "date_posted": 1762627032,
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210684444",
@@ -185834,7 +185834,7 @@
         "company_name": "Amazon",
         "id": "9393a3b0-c8a2-4b4f-bbcd-daa057bb7cc9",
         "title": "Engineering Operations Technician - DCC Communities",
-        "active": true,
+        "active": false,
         "date_updated": 1770102411,
         "date_posted": 1770102411,
         "url": "https://amazon.jobs/en/jobs/3150756/engineering-operations-technician-dcc-communities",
@@ -197594,7 +197594,7 @@
         "company_name": "WSP",
         "id": "809ec791-238b-40f4-96dd-95a4240b136e",
         "title": "Assistant GIS Consultant",
-        "active": true,
+        "active": false,
         "date_updated": 1770736625,
         "date_posted": 1770736625,
         "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/80364",
@@ -201130,7 +201130,7 @@
         "company_name": "Gensler",
         "id": "63766d22-3391-4d5b-b830-c9784dc3bd2a",
         "title": "Visualization Specialist - Junior",
-        "active": true,
+        "active": false,
         "date_updated": 1770863697,
         "date_posted": 1770863697,
         "url": "https://gensler.wd1.myworkdayjobs.com/genslercareers/job/Washington-DC-US/Visualization-Specialist---Junior_R-17007",
@@ -222061,7 +222061,7 @@
         "company_name": "Benchling",
         "id": "13ca75f9-0d76-4939-882e-23456998a4c0",
         "title": "Software Engineer - Full Stack - Admin & Identity Platform",
-        "active": true,
+        "active": false,
         "date_updated": 1771930247,
         "date_posted": 1771380824,
         "url": "https://jobs.ashbyhq.com/benchling/982241d9-e79f-4d68-9b3d-ac4bd5940456/application",
@@ -228022,7 +228022,7 @@
         "company_name": "Fresenius Medical Care",
         "id": "0d008d34-4174-4545-bc98-d12d667d2c99",
         "title": "Dialysis Equipment Technician 1",
-        "active": true,
+        "active": false,
         "date_updated": 1772149648,
         "date_posted": 1772149648,
         "url": "https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Lihue-HI-USA/Dialysis-Equipment-Technician-1_R0242669",
@@ -244716,7 +244716,7 @@
         "company_name": "Four Seasons",
         "id": "3eb39f22-2bfe-4fa1-9717-84b0191a37e3",
         "title": "Analyst \u2013 Data Assets",
-        "active": true,
+        "active": false,
         "date_updated": 1773091925,
         "date_posted": 1773091925,
         "url": "https://fourseasons.wd3.myworkdayjobs.com/search/job/Four-Seasons-Corporate-Office-Toronto/Analyst--Data-Assets_REQ10374076",
@@ -250882,7 +250882,7 @@
         "company_name": "Draper",
         "id": "09fa2e51-18e3-497d-96b0-8e534fcee1da",
         "title": "Embedded Flight Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773268934,
         "date_posted": 1773268934,
         "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Software-Flight-Engr-S-W-MTS2_JR001642",
@@ -264166,7 +264166,7 @@
         "company_name": "Applied Materials",
         "id": "851cdd9b-a53b-4460-be59-1a6c25c13548",
         "title": "Software Engineer 2",
-        "active": true,
+        "active": false,
         "date_updated": 1773971331,
         "date_posted": 1773971331,
         "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Software-Engineer-II_R2615499",
@@ -265555,7 +265555,7 @@
         "company_name": "Sainsbury's",
         "id": "35f39955-9d4c-4ca0-a027-6401d2ee3b6b",
         "title": "Trading Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1774044944,
         "date_posted": 1774044944,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054395",
@@ -268420,7 +268420,7 @@
         "company_name": "Welocalize",
         "id": "b710be92-0699-4bd7-b53f-380d397fe35b",
         "title": "Cantonese Speakers for Studio Recording Project",
-        "active": true,
+        "active": false,
         "date_updated": 1774342182,
         "date_posted": 1774342182,
         "url": "https://jobs.lever.co/welocalize/81e63043-efb5-4804-b72d-333bb6ecb37a/apply",
@@ -269319,7 +269319,7 @@
         "company_name": "LabCorp",
         "id": "971f36f5-b689-408d-9cb0-ed55cfaafb00",
         "title": "Flow Cytometry Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1774390669,
         "date_posted": 1774390669,
         "url": "https://labcorp.wd1.myworkdayjobs.com/external/job/Brentwood-TN/Flow-Cytometry-Data-Analyst_2610089",
@@ -273653,6 +273653,141 @@
         "degrees": [
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "b3207fe4-2174-4bb3-9237-0b2210c5f9fb",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1774515978,
+        "date_posted": 1774515978,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055106",
+        "locations": [
+            "Leeds, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "9b9b4546-07fb-4b6f-9600-e85f56563671",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1774515900,
+        "date_posted": 1774515900,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055087",
+        "locations": [
+            "United Kingdom"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "5d977906-dbb8-430c-93bd-5bd132c49632",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1774515904,
+        "date_posted": 1774515904,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055121",
+        "locations": [
+            "Bury Saint Edmunds, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "4aecb92d-d495-4f49-83ed-52965177d9d8",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1774515920,
+        "date_posted": 1774515920,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054920",
+        "locations": [
+            "Newbury, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "34959a52-d426-40c1-a759-3c17de5f06e7",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1774515951,
+        "date_posted": 1774515951,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055089",
+        "locations": [
+            "United Kingdom"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Flextronics International",
+        "id": "2aed7f1f-d571-44fa-85b8-a51a144ee9bf",
+        "title": "Engineering Technician",
+        "active": true,
+        "date_updated": 1774515868,
+        "date_posted": 1772148446,
+        "url": "https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-TX-Austin/Engineering-Technician-2_WD214128",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Flextronics-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Wpromote",
+        "id": "56406c8f-15fb-4db3-996d-ff2409ddfda2",
+        "title": "Junior Data Scientist",
+        "active": true,
+        "date_updated": 1774515571,
+        "date_posted": 1771024780,
+        "url": "https://jobs.lever.co/wpromote/658c714b-2020-4982-868a-1dcb67a0b96d/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Wpromote",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "PhD",
+            "Associate's",
+            "Bootcamp"
         ]
     }
 ]
