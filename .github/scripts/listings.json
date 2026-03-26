@@ -1,22 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "RTX",
-        "id": "9b134eb7-0d7f-47a0-aa1d-78a7bb99af55",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1753830545,
-        "date_posted": 1753830545,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HTX38-1717-E-Cityline-Drive-1717-E-Cityline-Drive-Building-C17-Richardson-TX-75082-USA/Software-Engineer-I--Onsite-_01782360",
-        "locations": [
-            "Richardson, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
         "date_updated": 1761841546,
         "url": "https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/XMLNAME-2026-Technology-Development-Program---Software-Engineering_R72033",
         "company_name": "M&T Bank",
@@ -274811,5 +274794,27 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Gen",
+        "id": "3ca17126-42df-483c-bea0-b707a957a024",
+        "title": "Machine Learning Data Scientist",
+        "active": true,
+        "date_updated": 1774565777,
+        "date_posted": 1774565777,
+        "url": "https://gen.wd1.myworkdayjobs.com/careers/job/USA---California-Mountain-View/Machine-Learning-Data-Scientist_55150",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Gen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
     }
 ]
