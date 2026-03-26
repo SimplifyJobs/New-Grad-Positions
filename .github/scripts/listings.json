@@ -79619,24 +79619,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Sinclair",
-        "id": "bbfe0d1f-bffc-4cdb-b715-0e7674eacfd6",
-        "title": "Broadcast IT Engineer",
-        "active": false,
-        "date_updated": 1753827645,
-        "date_posted": 1753827645,
-        "url": "https://edyy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/15052",
-        "locations": [
-            "Des Moines, IA"
-        ],
-        "company_url": "https://simplify.jobs/c/Sinclair",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Radical AI",
         "id": "4f7f1fed-1fc3-40fc-9076-9f62145a6dfc",
         "title": "Software Engineer - Agents",
@@ -148896,7 +148878,7 @@
         "company_name": "Vectra",
         "id": "2650784e-4146-48a0-8d08-dc37bed5d2cb",
         "title": "Software Engineer \u2013 New College Graduate",
-        "active": false,
+        "active": true,
         "date_updated": 1767914795,
         "date_posted": 1767914795,
         "url": "https://www.vectra.ai/about/jobs?gh_jid=6142112",
@@ -197674,7 +197656,7 @@
         "company_name": "iCapital Network",
         "id": "6ffe00f9-72f8-46da-a7ab-02705435b403",
         "title": "Data Solutions - Integrations - Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1770738167,
         "date_posted": 1770738167,
         "url": "https://job-boards.greenhouse.io/icapitalnetwork/jobs/8405580002",
@@ -219498,7 +219480,7 @@
         "company_name": "Advanced Energy",
         "id": "471d3f08-9ee1-4b25-be0b-492cd000b735",
         "title": "Electronics Service Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1771888321,
         "date_posted": 1771888321,
         "url": "https://jobs.advanced-energy.com/job/Fort-Collins-Electronics-Service-Technician-CO-80525/1367164400/?ats=successfactors",
@@ -249572,7 +249554,7 @@
         "company_name": "Meta",
         "id": "cbd5d21b-c0c5-4069-b4b4-d5edf2d712e4",
         "title": "Research Scientist - Sensors and Systems Research",
-        "active": true,
+        "active": false,
         "date_updated": 1773267340,
         "date_posted": 1773267340,
         "url": "https://www.metacareers.com/jobs/1439206290998609",
@@ -263297,7 +263279,7 @@
         "company_name": "Sainsbury's",
         "id": "b4d3ad25-7b7b-4e81-8933-28e161d15639",
         "title": "Trading Assistant - Shift",
-        "active": false,
+        "active": true,
         "date_updated": 1773958552,
         "date_posted": 1773958552,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054266",
@@ -263471,7 +263453,7 @@
         "company_name": "Sainsbury's",
         "id": "29bd9259-9eb7-4baf-b4ac-1bfd3163f0eb",
         "title": "Trading Assistant - Shift",
-        "active": false,
+        "active": true,
         "date_updated": 1773959267,
         "date_posted": 1773959267,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054264",
@@ -264267,7 +264249,7 @@
         "company_name": "Sainsbury's",
         "id": "ec47dfa7-1e0d-406d-b570-f460c1a06d2f",
         "title": "Trading Assistant - Shift",
-        "active": false,
+        "active": true,
         "date_updated": 1773958560,
         "date_posted": 1773958560,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054263",
@@ -264860,7 +264842,7 @@
         "company_name": "Sainsbury's",
         "id": "adc1c6df-3368-4670-a6fc-11a3d65cc127",
         "title": "Trading Assistant - Shift",
-        "active": false,
+        "active": true,
         "date_updated": 1774044947,
         "date_posted": 1774044947,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054431",
@@ -265483,7 +265465,7 @@
         "company_name": "Sainsbury's",
         "id": "74c6dd75-5f26-46a5-9441-4bda856ef11d",
         "title": "Trading Assistant - Shift",
-        "active": false,
+        "active": true,
         "date_updated": 1774044946,
         "date_posted": 1774044946,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054269",
@@ -272981,7 +272963,7 @@
         "company_name": "Ultra",
         "id": "d4f9f515-cb97-4843-9159-32b4a30ae6b7",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1774531439,
         "date_posted": 1774479661,
         "url": "https://ultra.wd3.myworkdayjobs.com/ultra-careers/job/Tampa-FL-United-States/Software-Engineer-1_REQ-11707-1",
@@ -274071,5 +274053,436 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "General Dynamics UK",
+        "id": "2b9d485a-b648-4c5a-b636-dae08803d280",
+        "title": "Junior Systems Integration New Grad - Verification - Validation Engineering Analyst",
+        "active": true,
+        "date_updated": 1774563783,
+        "date_posted": 1774563783,
+        "url": "https://jobs.smartrecruiters.com/GDMSI/744000117058597",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-UK",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Regeneron Pharmaceuticals",
+        "id": "0b50c622-9afa-4d2e-8645-75793574e6fa",
+        "title": "Data Analyst - Analytical and Biological Mass Spectrometry",
+        "active": true,
+        "date_updated": 1774563981,
+        "date_posted": 1774563981,
+        "url": "https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/TARRYTOWN/Data-Analyst---Analytical-and-Biological-Mass-Spectrometry_R46227",
+        "locations": [
+            "Tarrytown, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Regeneron-Pharmaceuticals",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "University Health Network",
+        "id": "e946b1bf-f685-4855-8328-360c3345a225",
+        "title": "Assistant \u2013 Web & Intranet",
+        "active": true,
+        "date_updated": 1774563765,
+        "date_posted": 1774563765,
+        "url": "https://jobs.smartrecruiters.com/UniversityHealthNetwork/744000117052793",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Health-Network",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Plusgrade",
+        "id": "6d8ddfc2-2918-46ed-941a-229a5968d643",
+        "title": "Product Analyst - AI & Pricing",
+        "active": true,
+        "date_updated": 1774563570,
+        "date_posted": 1774563570,
+        "url": "https://jobs.lever.co/plusgrade/4d8e806a-f950-46c4-bcb3-6ad42f1358cf/apply",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Plusgrade",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Vertiv",
+        "id": "14aae389-cdcb-471f-af9f-ff42130036d6",
+        "title": "Customer Engineer 1",
+        "active": true,
+        "date_updated": 1774563638,
+        "date_posted": 1774563638,
+        "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20265197",
+        "locations": [
+            "Bentonville, AR"
+        ],
+        "company_url": "https://simplify.jobs/c/Vertiv",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Greenlight",
+        "id": "022446fb-8bc1-4fbf-b0a6-49a38095524e",
+        "title": "Associate Data Analyst",
+        "active": true,
+        "date_updated": 1774563594,
+        "date_posted": 1774563594,
+        "url": "https://jobs.lever.co/greenlight/beded9c4-6acf-4fcc-8aa9-8870555d2bfb/apply",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Greenlight",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "e0636571-4ab3-452e-841f-a8f46e1932db",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1774563514,
+        "date_posted": 1774563514,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055208",
+        "locations": [
+            "Workington, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Molina Healthcare",
+        "id": "dd5b0818-7f27-4fa0-a7d2-7863e997c13b",
+        "title": "Associate Analyst - Clinical Informatics",
+        "active": true,
+        "date_updated": 1774563522,
+        "date_posted": 1774563522,
+        "url": "https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2036573",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Molina-Healthcare",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "bd14c362-9c9b-4b12-9222-eec82a09ddd8",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1774563512,
+        "date_posted": 1774563512,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055194",
+        "locations": [
+            "Lakenheath, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Ellipsis Labs",
+        "id": "9383654e-9231-4cd4-8264-8af3837f9686",
+        "title": "Software Engineer \u2013 New Grads - Multiple Teams",
+        "active": true,
+        "date_updated": 1774563526,
+        "date_posted": 1774563526,
+        "url": "https://jobs.ashbyhq.com/ellipsislabs/256c2ec2-01c8-4ff6-9ad0-b926fe40472d/application",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Ellipsis-Labs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "789cb4c6-6ba6-487a-b97f-d7713c3f00ed",
+        "title": "Trading Assistant - Local",
+        "active": true,
+        "date_updated": 1774563522,
+        "date_posted": 1774563522,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055173",
+        "locations": [
+            "Dorchester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "67dcbf15-efca-4166-887c-997c1d113221",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1774563516,
+        "date_posted": 1774563516,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055003",
+        "locations": [
+            "Swindon, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "d433f590-e891-446a-86da-41c3628cb2c8",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1774563132,
+        "date_posted": 1774563132,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054997",
+        "locations": [
+            "Brandon, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "a39a6c9c-1f0b-455b-929a-b3a34be6d4e3",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1774563125,
+        "date_posted": 1774563125,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055216",
+        "locations": [
+            "Whiteley, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "9eca41bb-4a51-48ce-87e8-a96cc674ad32",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1774563139,
+        "date_posted": 1774563139,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055212",
+        "locations": [
+            "Workington, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "General Dynamics UK",
+        "id": "75d864f3-a424-4d03-b042-d6e6fb5b9267",
+        "title": "Junior Software Engineering Developer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1774563216,
+        "date_posted": 1774563216,
+        "url": "https://jobs.smartrecruiters.com/GDMSI/744000116967189",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-UK",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "67432723-20e3-4ffa-a076-1992430baee4",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1774563136,
+        "date_posted": 1774563136,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054748",
+        "locations": [
+            "Swindon, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "13f6bda5-e23c-42dd-bb5f-9a08fc80c2e7",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1774563149,
+        "date_posted": 1774563149,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054995",
+        "locations": [
+            "Northwich, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "1359fb4e-ca9c-46ea-b0cd-71ee7bf278d1",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1774563157,
+        "date_posted": 1774563157,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054565",
+        "locations": [
+            "Swindon, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Vanasse Hangen Brustlin (VHB)",
+        "id": "e08579e2-58c6-4546-aa3d-fb443ab96f6f",
+        "title": "Entry Level Data Analyst",
+        "active": true,
+        "date_updated": 1774562861,
+        "date_posted": 1774562861,
+        "url": "https://careers-vhb.icims.com/jobs/5952/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Vanasse-Hangen-Brustlin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "GuideWell Mutual",
+        "id": "33cdfd00-942f-4696-8adc-4ecb3be5e623",
+        "title": "Associate Software Developer",
+        "active": true,
+        "date_updated": 1774562823,
+        "date_posted": 1774562823,
+        "url": "http://fa-etum-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41383",
+        "locations": [
+            "Irving, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/GuideWell-Mutual",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Scopely",
+        "id": "d4ea27cb-c1ed-4816-ade1-bd88c2f0d633",
+        "title": "Engineer",
+        "active": true,
+        "date_updated": 1774563332,
+        "date_posted": 1773267726,
+        "url": "https://job-boards.greenhouse.io/scopely/jobs/5147829008",
+        "locations": [
+            "Remote in USA",
+            "Culver City, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Scopely",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Scopely",
+        "id": "88936867-3384-428a-9af6-766e36c79daf",
+        "title": "Engineer",
+        "active": true,
+        "date_updated": 1774563332,
+        "date_posted": 1773267725,
+        "url": "https://job-boards.greenhouse.io/scopely/jobs/5147831008",
+        "locations": [
+            "Culver City, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Scopely",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
