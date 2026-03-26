@@ -52015,7 +52015,7 @@
         "company_name": "Welocalize",
         "id": "e90ee66f-5e1b-4f15-a7c8-7ffc8536bf9d",
         "title": "Scout Search Quality Rater - English - United States",
-        "active": true,
+        "active": false,
         "date_updated": 1761544134,
         "date_posted": 1761544134,
         "url": "https://jobs.lever.co/welocalize/90c51db9-ff3f-43c7-8ead-d607582b230f/apply",
@@ -53780,7 +53780,7 @@
         "company_name": "Wyetech",
         "id": "7e21a66e-4d5b-4bf3-837b-8c1477e2c4ff",
         "title": "Database Engineer 0",
-        "active": true,
+        "active": false,
         "date_updated": 1761434595,
         "date_posted": 1761434595,
         "url": "https://jobs.lever.co/wyetechllc/686d2ecb-f9df-4775-b26f-253c889b1452/apply",
@@ -218865,7 +218865,7 @@
         "company_name": "Keysight Technologies",
         "id": "feccf71d-3854-43d2-b943-e99be4400e6a",
         "title": "Trainee Repair Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1771859054,
         "date_posted": 1771859054,
         "url": "https://jobs.keysight.com/jobs/51111?lang=en-us&icims=1",
@@ -235925,7 +235925,7 @@
         "company_name": "Huntington Ingalls Industries",
         "id": "30987b18-2380-40f5-869a-6162000543cc",
         "title": "Engineer Metrology 1",
-        "active": true,
+        "active": false,
         "date_updated": 1772579442,
         "date_posted": 1772579442,
         "url": "https://careers.huntingtoningalls.com/job/Goose-Creek-ENGINEER-METROLOGY-1-Sout/1369713300/?ats=successfactors",
@@ -273632,6 +273632,27 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Goldman Sachs",
+        "id": "d7f5b669-789e-404c-913a-5b85173c5017",
+        "title": "Quantitative Developer - Global Banking & Markets - Systematic Market Making",
+        "active": true,
+        "date_updated": 1774514543,
+        "date_posted": 1768259467,
+        "url": "https://higher.gs.com/roles/157699",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Goldman-Sachs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
         ]
     }
 ]
