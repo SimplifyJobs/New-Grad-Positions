@@ -188359,7 +188359,7 @@
         "company_name": "Fortive",
         "id": "8d0d352c-f1c2-4f2c-a857-628a59bd3537",
         "title": "Electronics Calibration and Repair Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1770218120,
         "date_posted": 1770218120,
         "url": "https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8861",
@@ -244576,7 +244576,7 @@
         "company_name": "Sainsbury's",
         "id": "6be0cbab-0819-4d12-9317-d153d1de3524",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1773093246,
         "date_posted": 1773093246,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052618",
@@ -245079,7 +245079,7 @@
         "company_name": "State Street",
         "id": "e71637f3-93d6-4e0a-9743-73e6cf063739",
         "title": "Software Engineer 1 - Full Stack",
-        "active": false,
+        "active": true,
         "date_updated": 1773096658,
         "date_posted": 1773096658,
         "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/SW-Engineer-I---Full-Stack--Officer_R-785495",
@@ -246847,7 +246847,7 @@
         "company_name": "The Boeing Company",
         "id": "64340b25-ad02-4e42-a0f9-e312f350e20e",
         "title": "Business Intelligence Analyst - BI Analysis",
-        "active": true,
+        "active": false,
         "date_updated": 1773123922,
         "date_posted": 1772755895,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Business-Intelligence-Analyst--BI-Analysis-_JR2026496271-1",
@@ -273149,5 +273149,27 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Johnson & Johnson",
+        "id": "69d83425-5a3d-4212-ab58-70c7fcdf371e",
+        "title": "Postdoctoral Scientist Data Science AI/ML & DH",
+        "active": true,
+        "date_updated": 1774479459,
+        "date_posted": 1774479459,
+        "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Beerse-Antwerp-Belgium/Postdoctoral-Scientist-Data-Science-AI-ML---DH_R-060722-1",
+        "locations": [
+            "Cambridge, MA",
+            "New Hope, PA",
+            "Ambler, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Johnson-Johnson",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
     }
 ]
