@@ -1,22 +1,5 @@
 [
     {
-        "date_updated": 1757384848,
-        "url": "https://jobs.ashbyhq.com/unify/762e3fd4-7813-4da8-bb02-cc6050e3626a",
-        "company_name": "Unify",
-        "title": "Software Engineer",
-        "locations": [
-            "San Francisco, CA"
-        ],
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "source": "AlmondCroffle",
-        "id": "94d94881-a076-4e38-8623-b0c0be8dea9f",
-        "date_posted": 1753829826,
-        "company_url": "",
-        "is_visible": false,
-        "degrees": []
-    },
-    {
         "source": "Simplify",
         "category": "Software",
         "company_name": "RTX",
@@ -147542,7 +147525,7 @@
         "company_name": "Techtronic Industries",
         "id": "f05d4be0-9303-45ef-b005-dbf9c56228cf",
         "title": "Concept Design Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1767828793,
         "date_posted": 1767828793,
         "url": "https://tti.wd1.myworkdayjobs.com/tti_pe/job/Anderson-SC/Concept-Design-Engineer_R70080",
@@ -172997,7 +172980,7 @@
         "company_name": "Jabil",
         "id": "d5400c04-7047-4bc0-8817-4453d0a300f6",
         "title": "Diagnostic Technician 1",
-        "active": true,
+        "active": false,
         "date_updated": 1769470612,
         "date_posted": 1769470612,
         "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Florence-KY/Diagnostic-Technician-I---404_J2437773",
@@ -187140,7 +187123,7 @@
         "company_name": "Stryker",
         "id": "30ab6682-d44f-4222-a68a-590ad9dbf142",
         "title": "Data Engineer - Post Market",
-        "active": true,
+        "active": false,
         "date_updated": 1770162568,
         "date_posted": 1770162568,
         "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fremont-California/Data-Engineer---Post-Market_R558424",
@@ -194101,7 +194084,7 @@
         "company_name": "Jabil",
         "id": "7e455587-c6d1-4d5d-a309-901dda5e1251",
         "title": "Diagnostic Technician 1",
-        "active": true,
+        "active": false,
         "date_updated": 1770421698,
         "date_posted": 1770421698,
         "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Florence-KY/Diagnostic-Technician-I_J2438973",
@@ -194501,7 +194484,7 @@
         "company_name": "Thermo Fisher Scientific",
         "id": "7bb5990b-1bb8-46c8-87d9-3369d5f79641",
         "title": "Product Management Specialist 3",
-        "active": true,
+        "active": false,
         "date_updated": 1770420858,
         "date_posted": 1770420858,
         "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Waltham-Massachusetts-USA/Product-Management-Specialist-III_R-01340911",
@@ -224814,7 +224797,7 @@
         "company_name": "CACI",
         "id": "8dc88895-f90a-4246-8aea-8129de0acbfd",
         "title": "Engineering Technician 1",
-        "active": true,
+        "active": false,
         "date_updated": 1772035391,
         "date_posted": 1772035391,
         "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-MD-St-Inigoes/Engineering-Technician-I_322160",
@@ -227258,7 +227241,7 @@
         "company_name": "The Home Depot",
         "id": "1431b554-2ee2-4f2e-980b-60cf32ba3a7f",
         "title": "Data Analyst - Solutions Strategy - Analytics",
-        "active": true,
+        "active": false,
         "date_updated": 1772120149,
         "date_posted": 1772120149,
         "url": "https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Data-Analyst---Solutions-Strategy--Analytics_Req169178-1",
@@ -262220,7 +262203,7 @@
         "company_name": "Jabil",
         "id": "14edfd62-adc9-4093-bdcf-d43c8bd93553",
         "title": "Diagnostic Technician 1",
-        "active": true,
+        "active": false,
         "date_updated": 1773875434,
         "date_posted": 1773875434,
         "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Florence-KY/Diagnostic-Technician-I---401_J2441748",
@@ -265612,7 +265595,7 @@
         "company_name": "The Boeing Company",
         "id": "025b02c5-cfde-4516-a970-db1a620407a2",
         "title": "Simulation Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1774057286,
         "date_posted": 1774057286,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/United-States---Remote/Simulation-Software-Engineer--Associate-or-Experienced---Virtual-_JR2026502082-1",
@@ -274481,6 +274464,350 @@
             "Culver City, CA"
         ],
         "company_url": "https://simplify.jobs/c/Scopely",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Amentum",
+        "id": "b3ceda81-1ff6-456f-8343-cd93bff5e4ac",
+        "title": "Business System Analyst 1",
+        "active": true,
+        "date_updated": 1774565702,
+        "date_posted": 1774565702,
+        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-PA-Pittsburgh/Business-System-Analyst-1_R0157521-1",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amentum",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Boeing Company",
+        "id": "f52abf55-f5b4-4d9f-840c-a9cea30fc983",
+        "title": "Product Data Management Engineering Specialist",
+        "active": true,
+        "date_updated": 1774565464,
+        "date_posted": 1774565464,
+        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Oklahoma-City-OK/Product-Data-Management-Engineering-Specialist--Associate-or-Experienced-_JR2026502929-1",
+        "locations": [
+            "Oklahoma City, OK"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Sun Life",
+        "id": "a918b190-4ddb-4653-b9bb-fc038f1696d2",
+        "title": "Data Scientist",
+        "active": true,
+        "date_updated": 1774565522,
+        "date_posted": 1774565522,
+        "url": "https://sunlife.wd3.myworkdayjobs.com/en-US/Experienced-Jobs/job/Montreal-Quebec/Data-Scientist_JR00118793",
+        "locations": [
+            "Montreal, QC, Canada",
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Sun-Life",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Corewell Health",
+        "id": "bb9a3183-23a7-409a-a8a3-413569897754",
+        "title": "Oncology Data Analyst",
+        "active": true,
+        "date_updated": 1774565389,
+        "date_posted": 1774565389,
+        "url": "https://spectrumhealth.wd5.myworkdayjobs.com/CorewellHealthCareers/job/Royal-Oak-MI/Oncology-Data-Analyst_R196736",
+        "locations": [
+            "Ferndale, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Corewell-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's",
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Gentex Corporation",
+        "id": "a3d95f3e-69fa-4e8a-ba43-0bdf6a5b9115",
+        "title": "Embedded Software Engineer 1",
+        "active": true,
+        "date_updated": 1774565325,
+        "date_posted": 1774565325,
+        "url": "https://gentex.wd5.myworkdayjobs.com/Gentex/job/Zeeland-MI/Embedded-Software-Engineer-I_REQ025573",
+        "locations": [
+            "Holland, MI",
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Gentex-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Northeastern",
+        "id": "90eeb048-9c41-4ea5-9d0e-1cd5c7c7020e",
+        "title": "Data Scientist",
+        "active": true,
+        "date_updated": 1774565207,
+        "date_posted": 1774565207,
+        "url": "https://northeastern.wd1.myworkdayjobs.com/careers/job/Portland-ME/Data-Scientist_R139163",
+        "locations": [
+            "Portland, ME"
+        ],
+        "company_url": "https://simplify.jobs/c/Northeastern",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Taxwell",
+        "id": "e398c507-5ece-428c-a565-b2f56eced504",
+        "title": "Tax Programmer 1",
+        "active": true,
+        "date_updated": 1774564869,
+        "date_posted": 1774564869,
+        "url": "https://taxwell.wd1.myworkdayjobs.com/taxwellcareers/job/Remote---Iowa/Tax-Programmer-I_R0003770-1",
+        "locations": [
+            "Iowa"
+        ],
+        "company_url": "https://simplify.jobs/c/Taxwell",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Morgan Stanley",
+        "id": "a752f86a-a7ce-44f0-b6a2-bc807bea3b72",
+        "title": "Quantitative Analyst",
+        "active": true,
+        "date_updated": 1774564968,
+        "date_posted": 1774564968,
+        "url": "https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Quantitative-Analyst_PT-JR032939",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Morgan-Stanley",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Kraft Heinz",
+        "id": "8845b8df-0f16-4265-b1fa-80a76b43d63f",
+        "title": "Associate Scientist - R&D - Packaging Development",
+        "active": true,
+        "date_updated": 1774564917,
+        "date_posted": 1774564917,
+        "url": "https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Warrendale-PA/Associate-Scientist--R-D---Packaging-Development_R-101381",
+        "locations": [
+            "Cranberry Twp, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Kraft-Heinz",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Intel",
+        "id": "6dfb9fb2-afec-4b24-ab0b-3e938664edd7",
+        "title": "Software Application Development Engineer",
+        "active": true,
+        "date_updated": 1774564856,
+        "date_posted": 1774564856,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Software-Application-Development-Engineer_JR0282273",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Mark43",
+        "id": "ce9eeaf3-1631-4e66-a4d1-3452f0844f41",
+        "title": "Associate Data Scientist",
+        "active": true,
+        "date_updated": 1774564528,
+        "date_posted": 1774564528,
+        "url": "https://mark43.com/list-job/7760111?gh_jid=7760111",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Mark43",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Element Fleet Management",
+        "id": "6a8325fb-fe2d-4675-b1b0-cdc5492fea6f",
+        "title": "Applied AI Specialist - AI Solutions",
+        "active": true,
+        "date_updated": 1774564670,
+        "date_posted": 1774564670,
+        "url": "https://elementfleet.wd3.myworkdayjobs.com/External_Career_Site/job/Toronto/Applied-AI-Specialist---AI-Solutions_R105618",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Element-Fleet-Management",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Trade Desk",
+        "id": "ff1d9588-c14a-4471-8aaf-d2273950f22c",
+        "title": "Platform Support Coordinator",
+        "active": true,
+        "date_updated": 1774564490,
+        "date_posted": 1774564490,
+        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5091213007",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/281371f9-4ed3-4440-876f-4bbeaa0d50e0",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "STR",
+        "id": "edb60b08-13c9-49aa-8fc2-64aeee6deb41",
+        "title": "Associate Software Engineer - Emulation Tooling and Modeling",
+        "active": true,
+        "date_updated": 1774564336,
+        "date_posted": 1774564336,
+        "url": "https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4665373006",
+        "locations": [
+            "Burlington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/STR",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Esri",
+        "id": "774b61af-f961-4cc8-b91e-2251508fad36",
+        "title": "Software Engineer 1 - Data Engineering",
+        "active": true,
+        "date_updated": 1774564495,
+        "date_posted": 1774564495,
+        "url": "https://www.esri.com/careers/5085786007?gh_jid=5085786007",
+        "locations": [
+            "West Redlands, Redlands, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Esri",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Teledyne",
+        "id": "0a69c2d5-3a06-4fd3-962b-3948acc192fd",
+        "title": "Data Scientist - Power BI",
+        "active": true,
+        "date_updated": 1774564485,
+        "date_posted": 1774564485,
+        "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/Data-Scientist--Power-BI_REQ33921",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/199b3c43-379a-408c-a6a8-980e79183038",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Thermo Fisher Scientific",
+        "id": "ed112910-def7-4666-b6b5-feac4294cb54",
+        "title": "Field Service Engineer - Xps",
+        "active": true,
+        "date_updated": 1774564948,
+        "date_posted": 1773962061,
+        "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Schwerte-Germany/Engineer-I--Field-Service_R-01344330",
+        "locations": [
+            "Wenden, Germany",
+            "M\u00fcnster, Germany",
+            "Neukirchen-Vluyn, Germany"
+        ],
+        "company_url": "https://simplify.jobs/c/Thermo-Fisher-Scientific",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
