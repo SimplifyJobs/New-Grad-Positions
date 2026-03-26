@@ -88884,7 +88884,7 @@
         "company_name": "Argonne National Laboratory",
         "id": "7f0c4be0-83f9-4f87-91aa-b98238ca5a7c",
         "title": "Postdoctoral Appointee - Cosmological Physics & Advanced Computing - CPAC",
-        "active": false,
+        "active": true,
         "date_updated": 1763512722,
         "date_posted": 1763512722,
         "url": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---Cosmological-Physics---Advanced-Computing--CPAC-_421370",
@@ -240296,7 +240296,7 @@
         "company_name": "RTX",
         "id": "b524de61-9d76-47f2-860e-deafce23e1d1",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1772697471,
         "date_posted": 1772697471,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/XMLNAME-2026-Full-time---Software-Engineer-1---Onsite--IN-_01827401",
@@ -263029,7 +263029,7 @@
         "company_name": "DXC Technology",
         "id": "eeab7cda-fcf4-4eda-9a83-3d06e4c35e52",
         "title": "Data Engineer - Snowflake",
-        "active": true,
+        "active": false,
         "date_updated": 1773933130,
         "date_posted": 1773933130,
         "url": "https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/GBR---NBL---NEWCASTLE/Data-Engineer--Snowflake-_51576095",
@@ -273807,5 +273807,43 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Walmart",
+        "id": "09f5a8bb-8ba3-421e-b908-c40335880d43",
+        "title": "Senior Software Engineer",
+        "active": true,
+        "date_updated": 1774521987,
+        "date_posted": 1774521987,
+        "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Sunnyvale-CA/Senior-Software-Engineer_R-2451411-1",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Walmart",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "ffaf10a2-1e0e-4f8b-92f9-6fe0cf3b8c4d",
+        "title": "Associate Software Developer - Aht",
+        "active": true,
+        "date_updated": 1774521687,
+        "date_posted": 1774090347,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Nebraska-Bellevue/Associate-Software-Developer--AHT-_R10226770",
+        "locations": [
+            "Offutt AFB, NE"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
