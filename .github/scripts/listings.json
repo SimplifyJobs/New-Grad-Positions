@@ -265275,7 +265275,7 @@
         "company_name": "Sainsbury's",
         "id": "bf492596-92cf-41bd-8c71-bbbedaaed798",
         "title": "Trading Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1774045708,
         "date_posted": 1774045708,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054390",
@@ -268723,7 +268723,7 @@
         "company_name": "Sainsbury's",
         "id": "cfbe1dea-403c-4149-90d8-06bd6c408518",
         "title": "Trading Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1774361802,
         "date_posted": 1774361802,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054511",
@@ -268831,7 +268831,7 @@
         "company_name": "Sainsbury's",
         "id": "4d1cce2d-8f0b-4465-a0ad-56dae254328f",
         "title": "Trading Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1774361481,
         "date_posted": 1774361481,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054914",
@@ -272194,7 +272194,7 @@
         "company_name": "Sainsbury's",
         "id": "937a4dc9-f2e1-48e1-84db-e6196c7821aa",
         "title": "Trading Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1774476807,
         "date_posted": 1774476807,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052401",
@@ -273841,5 +273841,173 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Huntington Ingalls Industries",
+        "id": "8ab3a618-d166-4ac3-be7a-2c36bf2d952d",
+        "title": "Engineer Test Operations 1",
+        "active": true,
+        "date_updated": 1774535036,
+        "date_posted": 1774535036,
+        "url": "https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-TEST-OPERATIONS-1-Virg/1376921100/?ats=successfactors",
+        "locations": [
+            "Newport News, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Huntington-Ingalls-Industries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Google",
+        "id": "830ca860-2e17-4177-8ee0-87e64c546f25",
+        "title": "Product Manager 1 - Translate and Transcribe - XR Apps",
+        "active": true,
+        "date_updated": 1774534923,
+        "date_posted": 1774534923,
+        "url": "https://www.google.com/about/careers/applications/jobs/results/94231076695614150",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Google",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "bf1c0bc3-f80a-4812-b79f-c2a24e45d284",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1774534724,
+        "date_posted": 1774534724,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055171",
+        "locations": [
+            "Northern Ireland, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "897fe414-e72c-49ef-a8ff-f89ac1221d00",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1774534736,
+        "date_posted": 1774534736,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055152",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Heraeus Group",
+        "id": "2846fbca-e8c6-4724-a99d-5b57bc48e7c2",
+        "title": "Electronics Technician - Troubleshoot and Repair",
+        "active": true,
+        "date_updated": 1774534754,
+        "date_posted": 1774534754,
+        "url": "https://mycareer.heraeus.com/job/Hartland-Wisconsin-Electronics-Technician-(Troubleshoot-and-Repair)-WI-53029/1378041533/?ats=successfactors",
+        "locations": [
+            "Oconomowoc, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Heraeus-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Vertiv",
+        "id": "26d252c8-a59d-4099-ac07-d686029d3566",
+        "title": "Calibration Technician",
+        "active": true,
+        "date_updated": 1774534797,
+        "date_posted": 1774534797,
+        "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20269344",
+        "locations": [
+            "Elyria, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Vertiv",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "edd51676-da2e-4481-84e1-5d3be2e54965",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1774534389,
+        "date_posted": 1774534389,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055169",
+        "locations": [
+            "Portsmouth, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "d69a1ca7-2315-456f-8586-825da5fb24a4",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1774534422,
+        "date_posted": 1774534422,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054739",
+        "locations": [
+            "Nuneaton, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "624d4edf-ab23-451c-96cd-698719bf530d",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1774534387,
+        "date_posted": 1774534387,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055168",
+        "locations": [
+            "Portsmouth, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
