@@ -1,22 +1,5 @@
 [
     {
-        "date_updated": 1761841546,
-        "url": "https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/XMLNAME-2026-Technology-Development-Program---Software-Engineering_R72033",
-        "company_name": "M&T Bank",
-        "title": "Technology Development Program - Software Engineering",
-        "locations": [
-            "Buffalo, NY"
-        ],
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": false,
-        "source": "AlmondCroffle",
-        "id": "f31bd653-cebf-409f-99e7-bdbb99e9fd0b",
-        "date_posted": 1753886045,
-        "company_url": "",
-        "is_visible": true,
-        "degrees": []
-    },
-    {
         "date_updated": 1763623536,
         "url": "https://jobs.lever.co/spotify/21c24edb-f625-4895-ad23-5a6320d54813",
         "company_name": "Spotify",
@@ -275640,6 +275623,26 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Sysmex",
+        "id": "82152bb1-abd5-48b9-b073-bad23cdaa4c9",
+        "title": "Technician",
+        "active": true,
+        "date_updated": 1774620219,
+        "date_posted": 1774620219,
+        "url": "https://careers-sysmex.icims.com/jobs/4626/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Sysmex",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
         ]
     }
 ]
