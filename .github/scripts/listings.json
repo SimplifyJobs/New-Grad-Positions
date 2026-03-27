@@ -1,75 +1,5 @@
 [
     {
-        "date_updated": 1756731148,
-        "url": "https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Seattle-WA/Software-Development-Engineer-I---Early-Career-2025-University-Grad_R50741",
-        "company_name": "Blue Origin",
-        "title": "Software Development Engineer I",
-        "locations": [
-            "Seattle, WA",
-            "Van Horn, TX",
-            "Huntsville, AL",
-            "Denver, CO",
-            "Space Coast, FL",
-            "Los Angeles, CA"
-        ],
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": false,
-        "source": "AlmondCroffle",
-        "id": "351eb7e6-4f6e-4a73-8d05-d8e223bd7452",
-        "date_posted": 1753902077,
-        "company_url": "",
-        "is_visible": false,
-        "degrees": []
-    },
-    {
-        "date_updated": 1753970048,
-        "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Woodland-Hills/Associate----Software-Engineer_R10201149-1",
-        "company_name": "Northrop Grumman",
-        "title": "Associate Software Engineer",
-        "locations": [
-            "Woodland Hills, CA"
-        ],
-        "sponsorship": "Other",
-        "active": false,
-        "source": "AlmondCroffle",
-        "id": "d1e43d3a-7644-4e37-8262-5a7101b66b2c",
-        "date_posted": 1753902176,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1754416575,
-        "url": "https://jobs.ashbyhq.com/fable/c4c61b04-6215-447f-b6ac-16af7efc87b6",
-        "company_name": "Fable Security",
-        "title": "Software Engineer",
-        "locations": [
-            "San Francisco, CA"
-        ],
-        "sponsorship": "Other",
-        "active": false,
-        "source": "AlmondCroffle",
-        "id": "b246e19f-64e7-4a53-8e30-d4b4990e8968",
-        "date_posted": 1753902372,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1754416691,
-        "url": "https://careers-daifuku-america.icims.com/jobs/20436/ilus-software-engineer-i/job",
-        "company_name": "Daifuku",
-        "title": "Software Engineer I",
-        "locations": [
-            "Clearwater, FL"
-        ],
-        "sponsorship": "Other",
-        "active": false,
-        "source": "AlmondCroffle",
-        "id": "42c719ca-74de-4d52-90db-eef55d267193",
-        "date_posted": 1753902654,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
         "source": "Simplify",
         "category": "Software",
         "company_name": "Esri",
@@ -61840,7 +61770,7 @@
         "company_name": "Q2",
         "id": "b8d38f0b-fec5-4db0-bd30-36ce2368262b",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1761876358,
         "date_posted": 1761876358,
         "url": "https://q2ebanking.wd5.myworkdayjobs.com/en-US/Q2/job/Austin-TX/Software-Engineer_REQ-11665",
@@ -153565,7 +153495,7 @@
         "company_name": "Morgan Lewis",
         "id": "f6ab4082-98c9-4507-872e-b06118fb9179",
         "title": "Digital Product Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1768270949,
         "date_posted": 1768270949,
         "url": "https://morganlewis.wd5.myworkdayjobs.com/morganlewis/job/Seattle-Washington/Digital-Product-Analyst_R3834",
