@@ -143181,7 +143181,7 @@
         "company_name": "WPP Media",
         "id": "bfdae42f-e3b0-48a3-9d25-57ff8f61bb7a",
         "title": "Data Management and Reporting Executive \u2013 Entry Level",
-        "active": false,
+        "active": true,
         "date_updated": 1767654990,
         "date_posted": 1767654990,
         "url": "https://job-boards.greenhouse.io/wppmedia/jobs/4910255008",
@@ -275848,5 +275848,25 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Dominion Energy",
+        "id": "a9f6517c-114e-4575-8417-fa1be7b540cc",
+        "title": "Electric Distribution Planning Modeling Engineer",
+        "active": true,
+        "date_updated": 1774620577,
+        "date_posted": 1774620577,
+        "url": "https://careers.dominionenergy.com/job/RICHMOND-Electric-Distribution-Planning-Modeling-Engineer-VA-23219/1377336800/?ats=successfactors",
+        "locations": [
+            "Richmond, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Dominion-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
