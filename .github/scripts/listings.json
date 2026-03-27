@@ -250354,7 +250354,7 @@
         "company_name": "CIBC",
         "id": "6630d06e-beed-48e2-a3e0-373faeb4d118",
         "title": "Application Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1773182658,
         "date_posted": 1773182658,
         "url": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Application-Developer_2605414-1",
@@ -275237,5 +275237,63 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Diamondback Energy",
+        "id": "64919cfc-a018-4033-9854-9a1cfc9b9b93",
+        "title": "Data Integration Analyst",
+        "active": true,
+        "date_updated": 1774573955,
+        "date_posted": 1774573955,
+        "url": "https://diamondbackenergy.wd12.myworkdayjobs.com/DBE/job/Oklahoma-City-OK/Data-Integration-Analyst_R100601-1",
+        "locations": [
+            "Oklahoma City, OK"
+        ],
+        "company_url": "https://simplify.jobs/c/Diamondback-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "The Boeing Company",
+        "id": "ddcebab4-33c4-414c-be91-91da8f63e074",
+        "title": "Embedded Software Engineer-Product Developer \u2013 Experienced or Senior - Associate",
+        "active": true,
+        "date_updated": 1774574691,
+        "date_posted": 1774574691,
+        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/United-States---Remote/Embedded-Software-Engineer-Product-Developer--Associate--Experienced-or-Senior--Virtual_JR2026490951-1",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "0410cd16-fd9c-4bc8-b4ef-355d5389226c",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1774573686,
+        "date_posted": 1774573686,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055221",
+        "locations": [
+            "Christchurch, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
