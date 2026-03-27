@@ -72909,7 +72909,7 @@
         "company_name": "Hyve Solutions",
         "id": "259c2db6-b875-4acd-a4ed-6e7d91c84706",
         "title": "Thermal Engineering Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1755148937,
         "date_posted": 1755148937,
         "url": "https://synnex.wd5.myworkdayjobs.com/hyvecareers/job/Fremont-CA/Thermal-Engineering-Technician_R24594",
@@ -79494,24 +79494,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "526b0c3a-77ce-4e42-b55c-0e032ee0e477",
-        "title": "Student Researcher - Seed LLM Post Training - Reward Modeling",
-        "active": false,
-        "date_updated": 1753889156,
-        "date_posted": 1753889156,
-        "url": "https://jobs.bytedance.com/en/position/7532650246078892306/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Berkshire Hathaway Energy",
         "id": "a8226777-0a54-40c9-afd6-0178a68426ed",
         "title": "Technician - Mapping I",
@@ -79526,44 +79508,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "46b5234d-2637-497f-9c61-f375faf32e41",
-        "title": "Student Researcher - Seed LLM Post Training - RNA Design & Scientific Reasoning",
-        "active": false,
-        "date_updated": 1753889163,
-        "date_posted": 1753889163,
-        "url": "https://jobs.bytedance.com/en/position/7532648828235909383/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "9d377784-8ac4-48d0-9e39-db00dec7d15a",
-        "title": "Student Researcher - LLM Post Training - Agent & Reinforcement Learning",
-        "active": false,
-        "date_updated": 1753889159,
-        "date_posted": 1753889159,
-        "url": "https://jobs.bytedance.com/en/position/7532653875506989320/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
     },
     {
         "source": "Simplify",
@@ -193639,7 +193583,7 @@
         "company_name": "Procter & Gamble (P&G)",
         "id": "610f98f3-60de-4179-b5cf-0812633acfb4",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1770391789,
         "date_posted": 1770391789,
         "url": "https://pg.wd5.myworkdayjobs.com/1000/job/BROOKLANDS-GO/Software-Engineer_R000145016",
@@ -254232,7 +254176,7 @@
         "company_name": "University of Rochester",
         "id": "f6148df0-ed10-46d9-acab-e270399e4e65",
         "title": "Data Scientist 1",
-        "active": false,
+        "active": true,
         "date_updated": 1773414608,
         "date_posted": 1773414608,
         "url": "https://rochester.wd5.myworkdayjobs.com/UR_Staff/job/Strong-Memorial-Hospital/Data-Scientist-I_R256225",
@@ -256371,7 +256315,7 @@
         "company_name": "Hyve Solutions",
         "id": "a5e53a3d-8104-4e3f-b158-5a63134dcae0",
         "title": "Quality Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1773484377,
         "date_posted": 1773484377,
         "url": "https://synnex.wd5.myworkdayjobs.com/hyvecareers/job/Olive-Branch-MS/Quality-Technician_R42790",
@@ -259416,7 +259360,7 @@
         "company_name": "Sainsbury's",
         "id": "9a76f81a-9042-4f44-8b77-f9f7a6418dc2",
         "title": "Trading Assistant - Shift",
-        "active": false,
+        "active": true,
         "date_updated": 1773756721,
         "date_posted": 1773756721,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053789",
@@ -266470,7 +266414,7 @@
         "company_name": "Sainsbury's",
         "id": "acd447ac-a946-428a-ae1c-e667516afa71",
         "title": "Trading Assistant - Shift",
-        "active": false,
+        "active": true,
         "date_updated": 1774246535,
         "date_posted": 1774246535,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054631",
@@ -267179,7 +267123,7 @@
         "company_name": "Sainsbury's",
         "id": "f30b5443-f677-4e3e-90ba-6ac01f37c42f",
         "title": "Nightshift Trading Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1774304528,
         "date_posted": 1774304528,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054778",
@@ -273929,7 +273873,7 @@
         "company_name": "Adelphi Real World",
         "id": "95b7e244-eb3c-4e91-add9-7c8e2fd4ad1e",
         "title": "Programmer",
-        "active": true,
+        "active": false,
         "date_updated": 1774535715,
         "date_posted": 1774535715,
         "url": "https://job-boards.greenhouse.io/adelphirealworld/jobs/5165398008",
@@ -275644,5 +275588,150 @@
         "degrees": [
             "Associate's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "132e4f6e-cec0-474a-88b0-022f1ca5fe67",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1774620458,
+        "date_posted": 1774620458,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055264",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "e85051ea-f542-4062-9b10-3dbe4565b5b3",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1774620462,
+        "date_posted": 1774620462,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055267",
+        "locations": [
+            "United Kingdom"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "2a8b5628-d3fa-4e68-afae-3627bcfc0c52",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1774620461,
+        "date_posted": 1774620461,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055255",
+        "locations": [
+            "Exeter, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "169b6492-7802-4e1d-b9b2-66f852ccc781",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1774620462,
+        "date_posted": 1774620462,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055277",
+        "locations": [
+            "Leeds, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "DP World",
+        "id": "d08c6fa9-1fa1-411f-9a78-8ea3ec2d7ea7",
+        "title": "HR Data Analyst",
+        "active": true,
+        "date_updated": 1774620445,
+        "date_posted": 1774620445,
+        "url": "https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/24118",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/DP-World",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Athena Health",
+        "id": "94443221-680c-496a-ab87-3e5f6f61d5cc",
+        "title": "Product Analytics",
+        "active": true,
+        "date_updated": 1774620464,
+        "date_posted": 1774620464,
+        "url": "https://athenahealth.wd1.myworkdayjobs.com/en-US/External/job/Belfast-ME/Product-Analytics--Associate_R14690-1",
+        "locations": [
+            "Boston, MA",
+            "Bangor, ME"
+        ],
+        "company_url": "https://simplify.jobs/c/e955406a-7989-4ed8-aff1-01032b96e141",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Anglian Water",
+        "id": "29feaa51-6217-4e23-921d-2108156efd7f",
+        "title": "Asset Health Technician",
+        "active": true,
+        "date_updated": 1774620244,
+        "date_posted": 1774620244,
+        "url": "https://awg.wd3.myworkdayjobs.com/broadbean_external/job/Enterprise-House/Asset-Health-Technician_R36549",
+        "locations": [
+            "East Midlands, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Anglian-Water",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Anglian Water",
+        "id": "9d58cf8d-a9a6-463f-b74d-97db58b7ddad",
+        "title": "Asset Health Technician",
+        "active": true,
+        "date_updated": 1774620240,
+        "date_posted": 1774620240,
+        "url": "https://awg.wd3.myworkdayjobs.com/en-US/AW/job/Enterprise-House/Asset-Health-Technician_R36549-1",
+        "locations": [
+            "East Midlands, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Anglian-Water",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
