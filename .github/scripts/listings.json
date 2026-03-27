@@ -7763,7 +7763,7 @@
         "company_name": "Motorola",
         "id": "e0ff9c5a-7674-4cb1-97f3-f803968a130e",
         "title": "Junior Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1756747299,
         "date_posted": 1756747299,
         "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Uxbridge-UK-ZUK131/Junior-Software-Engineer_R57369",
@@ -37918,7 +37918,7 @@
         "company_name": "Adobe",
         "id": "bd18507d-6522-487e-ab1c-37ae82793a0f",
         "title": "University Graduate - Applied Science",
-        "active": false,
+        "active": true,
         "date_updated": 1762923171,
         "date_posted": 1762473156,
         "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Seattle/XMLNAME-2026-University-Graduate---Applied-Science_R160136",
@@ -79487,24 +79487,6 @@
             "West Athens, CA"
         ],
         "company_url": "https://simplify.jobs/c/SpaceX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Berkshire Hathaway Energy",
-        "id": "a8226777-0a54-40c9-afd6-0178a68426ed",
-        "title": "Technician - Mapping I",
-        "active": false,
-        "date_updated": 1756202792,
-        "date_posted": 1753889886,
-        "url": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10002986",
-        "locations": [
-            "Reno, NV"
-        ],
-        "company_url": "https://simplify.jobs/c/Berkshire-Hathaway-Energy",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -275730,6 +275712,139 @@
             "East Midlands, UK"
         ],
         "company_url": "https://simplify.jobs/c/Anglian-Water",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Kitware",
+        "id": "94ba7763-9880-4945-95b0-821a78534555",
+        "title": "OSTP Software Developer",
+        "active": true,
+        "date_updated": 1774620508,
+        "date_posted": 1774620508,
+        "url": "https://jobs.lever.co/kitware/0dade915-7f07-437e-8ddf-c346f70acd1d/apply",
+        "locations": [
+            "Clifton Park, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Kitware",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "The Boeing Company",
+        "id": "88b04924-7257-4687-9681-0e85678ad4f4",
+        "title": "Hardware Subsystems Engineer",
+        "active": true,
+        "date_updated": 1774620528,
+        "date_posted": 1774620528,
+        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Hardware-Subsystems-Engineer----Associate-or-Experienced-_JR2026502955-1",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Ensora Health",
+        "id": "0fa2bbfd-1c83-4d3d-9979-323d0ff38646",
+        "title": "Associate Software Engineer - .NET",
+        "active": true,
+        "date_updated": 1774626085,
+        "date_posted": 1774620504,
+        "url": "https://therapybrands.wd1.myworkdayjobs.com/EnsoraHealth/job/Remote---Texas/Associate-Software-Engineer---Net_R470",
+        "locations": [
+            "Texas"
+        ],
+        "company_url": "https://simplify.jobs/c/Ensora-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "5a82ca2e-a17a-403d-adbe-81b3ed365757",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1774620461,
+        "date_posted": 1774620461,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055257",
+        "locations": [
+            "Tunbridge Wells, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "5099665f-dfb8-4fe6-945c-6b36711d3087",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1774620469,
+        "date_posted": 1774620469,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055242",
+        "locations": [
+            "Leeds, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "23e12c99-ea9d-476f-995a-121799ac3bcf",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1774620460,
+        "date_posted": 1774620460,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055243",
+        "locations": [
+            "Leeds, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "1cf5228e-13fc-4f3d-91d4-61d9bcdb4883",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1774620462,
+        "date_posted": 1774620462,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055272",
+        "locations": [
+            "United Kingdom"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
