@@ -63605,7 +63605,7 @@
         "company_name": "Plexus",
         "id": "5c41de10-48b4-457b-bfc8-3f03ecebc6ae",
         "title": "Test Support Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1761993531,
         "date_posted": 1761993531,
         "url": "https://plexus.wd5.myworkdayjobs.com/en-US/Plexus_Careers/job/Neenah-WI/Test-Support-Technician_R034348",
@@ -268671,7 +268671,7 @@
         "company_name": "Sainsbury's",
         "id": "c6213ab4-fe7a-41c1-b884-5d8beae9130f",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1774361762,
         "date_posted": 1774361762,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054894",
@@ -268725,7 +268725,7 @@
         "company_name": "Sainsbury's",
         "id": "c746a5e7-c60f-4d32-a2a7-5e31ff1c2a4b",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1774361757,
         "date_posted": 1774361757,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054892",
@@ -274914,6 +274914,24 @@
             "Florence, KY"
         ],
         "company_url": "https://simplify.jobs/c/Jabil",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Crowdstrike",
+        "id": "6f80ce1a-9e1e-4c38-9070-759d590add0e",
+        "title": "Engineer 1 - Front End - Data Visualization",
+        "active": true,
+        "date_updated": 1774573524,
+        "date_posted": 1774571629,
+        "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/Canada---Toronto/Engineer-II---Front-End--Remote--CAN-_R26171",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Crowdstrike",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
