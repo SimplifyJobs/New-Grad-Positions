@@ -106015,7 +106015,7 @@
         "company_name": "Geico",
         "id": "f5d0feea-69a5-499d-b44a-372653fb7bfd",
         "title": "RAD Business Systems Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1764613361,
         "date_posted": 1764613361,
         "url": "https://geico.wd1.myworkdayjobs.com/en-US/External/job/Chevy-Chase-MD/RAD-Business-Systems-Analyst_R0059698",
@@ -186680,7 +186680,7 @@
         "company_name": "Analog Devices",
         "id": "087d2bbd-b706-4c0d-87ed-78282010016f",
         "title": "Associate Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1770160614,
         "date_posted": 1770160614,
         "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/United-Kingdom-Edinburgh-SC-Freer/Associate-Engineer--Software-Tools_R257168",
@@ -211542,7 +211542,7 @@
         "company_name": "ONYX Insight",
         "id": "8bf0de3c-c025-4cb2-b4c4-216e39591328",
         "title": "Graduate Engineer - Hardware & Sensors",
-        "active": true,
+        "active": false,
         "date_updated": 1771341809,
         "date_posted": 1771341809,
         "url": "https://onyx-insight.breezy.hr/p/0247343faf6401/apply",
@@ -270163,7 +270163,7 @@
         "company_name": "NVIDIA",
         "id": "9a6a1ffd-6d72-4eeb-8369-6d2b5e9a3162",
         "title": "ASIC Design Efficiency Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1774394202,
         "date_posted": 1774394202,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Design-Efficiency-Engineer_JR1998928",
@@ -273818,7 +273818,7 @@
         "company_name": "Sainsbury's",
         "id": "bf1c0bc3-f80a-4812-b79f-c2a24e45d284",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1774534724,
         "date_posted": 1774534724,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055171",
@@ -275398,5 +275398,43 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Particle Measuring Systems",
+        "id": "e74737b4-5ac1-4906-83b4-611af17ecbe0",
+        "title": "Service Technician 1",
+        "active": true,
+        "date_updated": 1774617814,
+        "date_posted": 1774591742,
+        "url": "https://spectris.wd3.myworkdayjobs.com/PMS_Careers/job/Niwot-CO/Service-Technician-I_17688",
+        "locations": [
+            "Longmont, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Particle-Measuring-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "b24c693e-6945-45f7-8918-0b59e8a3bf60",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1774591636,
+        "date_posted": 1774591636,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055099",
+        "locations": [
+            "Croydon, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
