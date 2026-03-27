@@ -186205,7 +186205,7 @@
         "company_name": "American Express",
         "id": "e110b79e-006d-439b-b05a-fc6a780df138",
         "title": "Software Engineer 1 - Enterprise Architecture",
-        "active": true,
+        "active": false,
         "date_updated": 1770131800,
         "date_posted": 1770131800,
         "url": "https://aexp.eightfold.ai/careers/job/39560752",
@@ -272325,7 +272325,7 @@
         "company_name": "RTX",
         "id": "33624e3e-a2bd-4b36-b969-54577f366df0",
         "title": "Raytheon Full Time - Systems Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1774479269,
         "date_posted": 1774479269,
         "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/XMLNAME-2026-Raytheon-Full-Time---Systems-Engineer-I---Tewksbury-Andover--MA--Onsite-_01832215",
@@ -275295,5 +275295,27 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "True Anomaly",
+        "id": "012f8912-e1b8-4cbc-bc55-3467b6abe6d0",
+        "title": "Flight Software Engineer 1",
+        "active": true,
+        "date_updated": 1774584987,
+        "date_posted": 1774573928,
+        "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5090441007",
+        "locations": [
+            "Long Beach, CA",
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/TrueAnomaly",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
