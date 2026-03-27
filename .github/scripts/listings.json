@@ -275176,5 +275176,66 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "La-Z-Boy",
+        "id": "79a7c274-4eac-4b37-817c-9cbb551c60b1",
+        "title": "Upholstery Designer 2",
+        "active": true,
+        "date_updated": 1774583714,
+        "date_posted": 1774573530,
+        "url": "https://lazboy.wd1.myworkdayjobs.com/lzbcareers/job/Dayton-TN/Upholstery-Designer-II_JR132188",
+        "locations": [
+            "Athens, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/La-Z-Boy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "SanMar",
+        "id": "a30cd359-5ba4-4854-99aa-67b62a5d5636",
+        "title": "Associate Business Systems Analyst",
+        "active": true,
+        "date_updated": 1774573446,
+        "date_posted": 1774573446,
+        "url": "https://boards.greenhouse.io/sanmar/jobs/5091361007",
+        "locations": [
+            "King County, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/SanMar",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Manulife Financial",
+        "id": "fe9a6726-1e04-47a9-8561-1734dd66e55f",
+        "title": "Market Data Analyst",
+        "active": true,
+        "date_updated": 1774573468,
+        "date_posted": 1774573468,
+        "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Toronto-Ontario/Market-Data-Analyst_JR26030549-2",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Manulife-Financial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
