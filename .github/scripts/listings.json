@@ -275358,5 +275358,45 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Life Fitness",
+        "id": "79a4df81-c89c-4b7f-8604-2e6ce985da17",
+        "title": "Embedded Software Engineer 1",
+        "active": true,
+        "date_updated": 1774587050,
+        "date_posted": 1774574837,
+        "url": "https://lifefitness.wd1.myworkdayjobs.com/searchLFN/job/Schaumburg-IL-60173/Embedded-Software-Engineer-I_JR-024894",
+        "locations": [
+            "Hoffman Estates, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Life-Fitness",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Varian",
+        "id": "51a386f8-00a0-4d48-98ae-039422601eeb",
+        "title": "Field Service Representative HW",
+        "active": true,
+        "date_updated": 1774587071,
+        "date_posted": 1774574834,
+        "url": "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/ATL-NP/Field-Service-Rep-HW---Metro-Atlanta-Area_R-26624-1",
+        "locations": [
+            "Georgia"
+        ],
+        "company_url": "https://simplify.jobs/c/670da3c5-bce0-4621-b519-da7ce7d528e6",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
