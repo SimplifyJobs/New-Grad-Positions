@@ -2,23 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Daifuku",
-        "id": "ac5ffdcf-21fe-4972-9d28-94e4e0872172",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1754416784,
-        "date_posted": 1753916149,
-        "url": "https://careers-daifuku-america.icims.com/jobs/20436/job",
-        "locations": [
-            "Clearwater, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Daifuku",
-        "is_visible": false,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Chewy",
         "id": "68821ceb-0090-4a87-8061-42789cb56646",
         "title": "Software Engineer I",
@@ -4875,26 +4858,6 @@
         "degrees": [
             "Master's",
             "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "SHEIN",
-        "id": "6d5d0a3a-f920-4c8f-9689-91cf1e30500c",
-        "title": "Big Data Engineer I",
-        "active": false,
-        "date_updated": 1753915290,
-        "date_posted": 1753915290,
-        "url": "https://job-boards.greenhouse.io/shein/jobs/4825893008",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/SHEIN",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
         ]
     },
     {
@@ -79320,24 +79283,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "SpaceX",
-        "id": "58e2a4b6-4cfb-4aee-b446-fc9f7b507c0e",
-        "title": "Full Stack Software Engineer - Starlink",
-        "active": false,
-        "date_updated": 1753915230,
-        "date_posted": 1753915230,
-        "url": "https://boards.greenhouse.io/spacex/jobs/8098597002",
-        "locations": [
-            "West Athens, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/SpaceX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Radical AI",
         "id": "4f7f1fed-1fc3-40fc-9076-9f62145a6dfc",
         "title": "Software Engineer - Agents",
@@ -133775,7 +133720,7 @@
         "company_name": "Pattern Data",
         "id": "8173c0a2-41b6-4618-aabf-5e2f8900deee",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1767056971,
         "date_posted": 1767056971,
         "url": "https://job-boards.greenhouse.io/patterndata/jobs/5012589007",
@@ -214626,7 +214571,7 @@
         "company_name": "NVIDIA",
         "id": "49c78cff-7e69-4412-b2da-9b33a4a8b6de",
         "title": "Formal Verification Engineer \u2013 New College Grad 2026",
-        "active": true,
+        "active": false,
         "date_updated": 1771543464,
         "date_posted": 1771543464,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Formal-Verification-Engineer---New-College-Grad-2026_JR2013674",
@@ -240082,7 +240027,7 @@
         "company_name": "Oracle",
         "id": "1c361012-d46f-458a-9f0b-b5e98b37278f",
         "title": "Software Developer 2",
-        "active": true,
+        "active": false,
         "date_updated": 1772703841,
         "date_posted": 1772665994,
         "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/329456",
@@ -262538,7 +262483,7 @@
         "company_name": "Halliburton",
         "id": "db2c66c2-397b-4bbc-8772-a77110c556d3",
         "title": "Technical Professional Data Science - Associate-Technical Professional",
-        "active": true,
+        "active": false,
         "date_updated": 1773929884,
         "date_posted": 1773929884,
         "url": "https://jobs.halliburton.com/job/Houston-Technical-Professional-Data-Science-(Associate-Technical-Professional)-TX-77032/1374843700/?ats=successfactors",
@@ -274332,7 +274277,7 @@
         "company_name": "Taxwell",
         "id": "e398c507-5ece-428c-a565-b2f56eced504",
         "title": "Tax Programmer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1774564869,
         "date_posted": 1774564869,
         "url": "https://taxwell.wd1.myworkdayjobs.com/taxwellcareers/job/Remote---Iowa/Tax-Programmer-I_R0003770-1",
