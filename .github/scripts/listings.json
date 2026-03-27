@@ -106015,7 +106015,7 @@
         "company_name": "Geico",
         "id": "f5d0feea-69a5-499d-b44a-372653fb7bfd",
         "title": "RAD Business Systems Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1764613361,
         "date_posted": 1764613361,
         "url": "https://geico.wd1.myworkdayjobs.com/en-US/External/job/Chevy-Chase-MD/RAD-Business-Systems-Analyst_R0059698",
@@ -261632,7 +261632,7 @@
         "company_name": "The North Face",
         "id": "833c7313-deb6-4827-8425-003039e43e20",
         "title": "Associate Designer - Lifestyle Everyday + Youth",
-        "active": true,
+        "active": false,
         "date_updated": 1773873629,
         "date_posted": 1773873629,
         "url": "https://vfc.wd5.myworkdayjobs.com/northface_careers/job/USCA--USA--Colorado--Denver-HQ---VFC/Associate-Designer--Lifestyle-Everyday---Youth_R-20260123-0027",
@@ -267607,7 +267607,7 @@
         "company_name": "Zebra Technologies",
         "id": "113e832f-9b52-4067-9b79-0310bf843642",
         "title": "Product Manager - I - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1774303958,
         "date_posted": 1774303958,
         "url": "https://zebra.eightfold.ai/careers/job/343637483563",
@@ -270163,7 +270163,7 @@
         "company_name": "NVIDIA",
         "id": "9a6a1ffd-6d72-4eeb-8369-6d2b5e9a3162",
         "title": "ASIC Design Efficiency Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1774394202,
         "date_posted": 1774394202,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Design-Efficiency-Engineer_JR1998928",
@@ -273322,7 +273322,7 @@
         "company_name": "FOX",
         "id": "7d545c0e-cee5-46e3-b3a6-5018cc6246b5",
         "title": "Product Manager - FOX Forward Deployed",
-        "active": true,
+        "active": false,
         "date_updated": 1774508063,
         "date_posted": 1774508063,
         "url": "https://fox.wd1.myworkdayjobs.com/Domestic/job/Los-Angeles-California-USA/Product-Manager--FOX-Forward-Deployed_R50031861",
@@ -275311,6 +275311,47 @@
             "Denver, CO"
         ],
         "company_url": "https://simplify.jobs/c/TrueAnomaly",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "b25fa423-15c3-4e8f-aa1d-499ceb463b10",
+        "title": "Fulltime Digital Design Engineer 1",
+        "active": true,
+        "date_updated": 1774586844,
+        "date_posted": 1774574588,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/XMLNAME-2026--Fulltime--Digital-Design-Engineer-I---Onsite-_01812416",
+        "locations": [
+            "Tucson, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Walmart",
+        "id": "500a32cf-a47b-4078-a4e8-ccb810d73c1d",
+        "title": "Senior Data Scientist",
+        "active": true,
+        "date_updated": 1774575213,
+        "date_posted": 1774575213,
+        "url": "https://walmart.wd5.myworkdayjobs.com/Non-WorkdayInternal/job/Sunnyvale-CA/Senior-Data-Scientist_R-2451223",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Walmart",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
