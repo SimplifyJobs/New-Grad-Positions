@@ -129438,7 +129438,7 @@
         "company_name": "Zep",
         "id": "cf599441-44b1-47e2-8f11-f6d6ad0771d1",
         "title": "Associate Product Manager - Consumer Packaged Goods",
-        "active": true,
+        "active": false,
         "date_updated": 1766232344,
         "date_posted": 1765496160,
         "url": "https://zepinc.wd503.myworkdayjobs.com/zepinccareers/job/Atlanta-HQ--Galleria-Regular/Associate-Product-Manager_J108907",
@@ -213487,7 +213487,7 @@
         "company_name": "Stryker",
         "id": "b4471bf9-11c3-40d3-a630-546ac6c13580",
         "title": "Associate Installation Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1771544741,
         "date_posted": 1771544741,
         "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Minnesota-Minneapolis-Virtual-Address/Associate-Installation-Technician---Minneapolis--MN_R560474",
@@ -261218,7 +261218,7 @@
         "company_name": "CesiumAstro",
         "id": "5aa8fe85-a76d-4cbf-90d9-f50aef033d88",
         "title": "Software Engineer 2",
-        "active": true,
+        "active": false,
         "date_updated": 1773871934,
         "date_posted": 1773871934,
         "url": "https://jobs.lever.co/CesiumAstro/ebd5004f-aaa5-4e9c-b5db-d17a406eb182/apply",
@@ -263171,7 +263171,7 @@
         "company_name": "Gulfstream",
         "id": "534d2a5d-3de1-4ae4-b527-5a066dafff5d",
         "title": "Quality Assurance System Specialist 1 - Data Management",
-        "active": true,
+        "active": false,
         "date_updated": 1773958885,
         "date_posted": 1773958885,
         "url": "https://careers.gulfstream.com/job/Savannah-Quality-Assurance-System-Specialist-I-Data-Management-GA-31401/1375028700/?ats=successfactors",
@@ -270015,7 +270015,7 @@
         "company_name": "McDonald's",
         "id": "83589d8e-b81b-4f47-acf3-448b0b805c8d",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1774390861,
         "date_posted": 1774390861,
         "url": "https://jobs.mcdonalds.com/job/Chicago-Software-Engineer-I-IL-60607/1376362600/?ats=successfactors",
@@ -273322,7 +273322,7 @@
         "company_name": "FOX",
         "id": "7d545c0e-cee5-46e3-b3a6-5018cc6246b5",
         "title": "Product Manager - FOX Forward Deployed",
-        "active": false,
+        "active": true,
         "date_updated": 1774508063,
         "date_posted": 1774508063,
         "url": "https://fox.wd1.myworkdayjobs.com/Domestic/job/Los-Angeles-California-USA/Product-Manager--FOX-Forward-Deployed_R50031861",
@@ -274400,7 +274400,7 @@
         "company_name": "GuideWell Mutual",
         "id": "33cdfd00-942f-4696-8adc-4ecb3be5e623",
         "title": "Associate Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1774562823,
         "date_posted": 1774562823,
         "url": "http://fa-etum-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41383",
@@ -275436,5 +275436,210 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "9cc6ef2b-afb7-4d30-9e9f-4202aa1e7828",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1774602297,
+        "date_posted": 1774602297,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055228",
+        "locations": [
+            "Stoke-on-Trent, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Walmart",
+        "id": "6472efaf-f621-4e0d-a06b-7cda61c1132f",
+        "title": "Senior Software Engineer",
+        "active": true,
+        "date_updated": 1774602700,
+        "date_posted": 1774602700,
+        "url": "https://walmart.wd5.myworkdayjobs.com/Non-WorkdayInternal/job/Sunnyvale-CA/Senior-Software-Engineer_R-2451283",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Walmart",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "be21fa03-78e0-4b70-8bec-8428539a1fc1",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1774602294,
+        "date_posted": 1774602294,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055226",
+        "locations": [
+            "Cardiff, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "4512542b-5d77-402f-9ec0-e0f90721ab3b",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1774602295,
+        "date_posted": 1774602295,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055234",
+        "locations": [
+            "Essex, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "2301a3a9-1923-43a7-b68a-a4731326ac93",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1774602294,
+        "date_posted": 1774602294,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055229",
+        "locations": [
+            "Hereford, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "1030ec14-82a7-4231-919f-265af4785d0c",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1774602294,
+        "date_posted": 1774602294,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055231",
+        "locations": [
+            "Glasgow, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "0acd2cdb-0579-40f5-a9c6-f854871c7257",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1774602297,
+        "date_posted": 1774602297,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055233",
+        "locations": [
+            "Glasgow, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Hong Kong Exchanges",
+        "id": "9c180688-15f3-4d2d-909f-7112b91f35ed",
+        "title": "Trading Operations Analyst",
+        "active": true,
+        "date_updated": 1774602123,
+        "date_posted": 1774602123,
+        "url": "https://hkex.wd3.myworkdayjobs.com/HKEXCareerPage/job/UK-London/Trading-Operations-Analyst_R003750",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/HKEX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Peloton",
+        "id": "32f4fd2d-2b9b-4acc-b50d-ab4c506fc0b4",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1774618077,
+        "date_posted": 1774592147,
+        "url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=7733271",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Peloton",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Windfall",
+        "id": "d0a4c7e2-43b2-41b9-8da4-da0a2912cfda",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1772530746,
+        "date_posted": 1767136073,
+        "url": "https://jobs.lever.co/windfalldata/1aeb7cb5-c978-416e-a119-1243d055e3fd/apply",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Windfall-Data",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "ByteDance",
+        "id": "f121cdaf-1082-4aa8-af8c-0e27a5d067bf",
+        "title": "XR Camera and Machine Vision Engineer Graduate",
+        "active": true,
+        "date_updated": 1755647952,
+        "date_posted": 1755647952,
+        "url": "https://jobs.bytedance.com/en/position/7537439865178523911/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
     }
 ]
