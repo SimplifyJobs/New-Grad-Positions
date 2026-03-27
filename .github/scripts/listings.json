@@ -59945,7 +59945,7 @@
         "company_name": "Brookhaven Lab",
         "id": "5a2914f7-8ff3-4baa-823b-7b31e2b1ef47",
         "title": "Postdoc \u2013 Machine Learning",
-        "active": true,
+        "active": false,
         "date_updated": 1762935670,
         "date_posted": 1759469307,
         "url": "https://bnl.wd1.myworkdayjobs.com/externa/job/Upton-NY/PostDoc---Machine-Learning_JR102052",
@@ -90089,7 +90089,7 @@
         "company_name": "Cisco",
         "id": "26a9b835-5ce3-4639-9c03-48ada3108211",
         "title": "Software Engineer Security & Automation 1",
-        "active": true,
+        "active": false,
         "date_updated": 1763607651,
         "date_posted": 1763607651,
         "url": "https://careers.cisco.com/global/en/job/2000123",
@@ -90380,7 +90380,7 @@
         "company_name": "Cisco",
         "id": "c19579ac-cc84-4455-96e5-f56733ea0be3",
         "title": "Software Engineer Backend/Platform Systems 1",
-        "active": true,
+        "active": false,
         "date_updated": 1763664376,
         "date_posted": 1763664376,
         "url": "https://careers.cisco.com/global/en/job/2000046",
@@ -265201,7 +265201,7 @@
         "company_name": "Sainsbury's",
         "id": "74c6dd75-5f26-46a5-9441-4bda856ef11d",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1774044946,
         "date_posted": 1774044946,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054269",
@@ -266966,7 +266966,7 @@
         "company_name": "Sainsbury's",
         "id": "f30b5443-f677-4e3e-90ba-6ac01f37c42f",
         "title": "Nightshift Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1774304528,
         "date_posted": 1774304528,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054778",
@@ -267061,7 +267061,7 @@
         "company_name": "Jerry",
         "id": "8d28fcbc-eacf-43fc-91b7-39f2fc7eed09",
         "title": "Associate Applied Data Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1774304276,
         "date_posted": 1774304276,
         "url": "https://jobs.ashbyhq.com/jerry.ai/c7eff7e7-ac05-4846-8e96-f13c1640e91e/application",
@@ -267126,7 +267126,7 @@
         "company_name": "Jerry",
         "id": "a6c79f81-a9b6-4303-9eb0-fe737f5f6dbf",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1774304930,
         "date_posted": 1774304930,
         "url": "https://jobs.ashbyhq.com/jerry.ai/8b0110cd-1a47-4198-9d82-8413dc92f985/application",
@@ -275054,7 +275054,7 @@
         "company_name": "Sainsbury's",
         "id": "0410cd16-fd9c-4bc8-b4ef-355d5389226c",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1774573686,
         "date_posted": 1774573686,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055221",
@@ -275306,7 +275306,7 @@
         "company_name": "Sainsbury's",
         "id": "1030ec14-82a7-4231-919f-265af4785d0c",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1774602294,
         "date_posted": 1774602294,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055231",
@@ -275360,7 +275360,7 @@
         "company_name": "Peloton",
         "id": "32f4fd2d-2b9b-4acc-b50d-ab4c506fc0b4",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1774618077,
         "date_posted": 1774592147,
         "url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=7733271",
@@ -275728,6 +275728,48 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Truist Bank",
+        "id": "653202b4-2858-4bd4-944e-943e389b4735",
+        "title": "Data Scientist 1 - Fraud",
+        "active": true,
+        "date_updated": 1774647842,
+        "date_posted": 1774571626,
+        "url": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Atlanta-GA/Data-Scientist-I-Fraud_R0112838-1",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Truist-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northrop Grumman",
+        "id": "355d724c-511e-487e-90fb-94b26a6e459e",
+        "title": "Systems Engineer",
+        "active": true,
+        "date_updated": 1774647803,
+        "date_posted": 1774570782,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/Systems-Engineer-Level-2-3_R10226840",
+        "locations": [
+            "Chandler, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
