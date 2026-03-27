@@ -245036,7 +245036,7 @@
         "company_name": "John Deere",
         "id": "e17c4add-e2a4-4054-bdad-51f6c3a2f585",
         "title": "IT Development Program - Software Engineering - Technology",
-        "active": true,
+        "active": false,
         "date_updated": 1773096305,
         "date_posted": 1773096305,
         "url": "https://johndeere.eightfold.ai/careers/job/137469637297",
@@ -274252,7 +274252,7 @@
         "company_name": "Sainsbury's",
         "id": "d433f590-e891-446a-86da-41c3628cb2c8",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1774563132,
         "date_posted": 1774563132,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054997",
@@ -275098,6 +275098,83 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Jabil",
+        "id": "499c7b30-eeec-4636-95c6-5f823c40d240",
+        "title": "Diagnostic Technician 1",
+        "active": true,
+        "date_updated": 1774571020,
+        "date_posted": 1774571020,
+        "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Florence-KY/Diagnostic-Technician-1_J2443292",
+        "locations": [
+            "Florence, KY"
+        ],
+        "company_url": "https://simplify.jobs/c/Jabil",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northrop Grumman",
+        "id": "d8c7e405-6532-47f8-aa18-0f77b60b7be3",
+        "title": "Electronic Technician",
+        "active": true,
+        "date_updated": 1774570743,
+        "date_posted": 1774570743,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/Electronic-Technician---Military-Veterans-Encouraged-to-Apply_R10225670",
+        "locations": [
+            "Baltimore, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Wells Fargo",
+        "id": "62702c19-6e5c-4e87-9b3d-7ae51ddfe056",
+        "title": "Engineering Associate - Java & API Development",
+        "active": true,
+        "date_updated": 1774570956,
+        "date_posted": 1774570956,
+        "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CONCORD-CA/Engineering-Associate---Java---API-Development_R-532546",
+        "locations": [
+            "Concord, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Wells-Fargo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Leonardo",
+        "id": "e5144836-3103-4089-b731-93c03667e2f5",
+        "title": "Graduate Test Systems Engineer",
+        "active": true,
+        "date_updated": 1774571633,
+        "date_posted": 1774571633,
+        "url": "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Newcastle/Graduate-Test-Systems-Engineer_R0028038",
+        "locations": [
+            "Newcastle upon Tyne, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Leonardo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
