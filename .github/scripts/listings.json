@@ -185262,7 +185262,7 @@
         "company_name": "College Board",
         "id": "c8b687ae-870f-46d4-9bae-d9384da2fce7",
         "title": "Software Engineer 1 - New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1770075570,
         "date_posted": 1770075570,
         "url": "https://collegeboard.wd1.myworkdayjobs.com/en-US/Careers/job/Remote---USA/Software-Engineer-1--New-Grad-_REQ002405-2",
@@ -266451,7 +266451,7 @@
         "company_name": "Sainsbury's",
         "id": "cae1f1d8-b1bb-444d-8453-18f61cf3d40d",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1774228424,
         "date_posted": 1774228424,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054628",
@@ -270631,7 +270631,7 @@
         "company_name": "Sainsbury's",
         "id": "a8284ef6-d96e-4eed-92c7-231feb343cc5",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1774401066,
         "date_posted": 1774401066,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054994",
@@ -272812,7 +272812,7 @@
         "company_name": "Sainsbury's",
         "id": "8c9b269f-5ef7-4c43-9f3b-e5eeb5154d9b",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1774361476,
         "date_posted": 1774361476,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053486",
@@ -274950,6 +274950,150 @@
             "Boulder, CO"
         ],
         "company_url": "https://simplify.jobs/c/Microchip-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northrop Grumman",
+        "id": "a176e960-5f9b-4cb1-ac8d-5cb87581514a",
+        "title": "Hardware Engineer - Level 1 or 2",
+        "active": true,
+        "date_updated": 1774570744,
+        "date_posted": 1774570744,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Hardware-Engineer---Level-1-or-2_R10227492",
+        "locations": [
+            "Aurora, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Micron Technology",
+        "id": "eb914efb-9d4b-4125-82ac-0178b19e25ea",
+        "title": "New College Grad - HBM Product Manager",
+        "active": true,
+        "date_updated": 1774570972,
+        "date_posted": 1774570972,
+        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/XMLNAME--New-College-Grad--HBM-Product-Manager_JR94868",
+        "locations": [
+            "San Jose, CA",
+            "Boise, ID"
+        ],
+        "company_url": "https://simplify.jobs/c/Micron-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Jabil",
+        "id": "5932a9d8-2cc9-413b-881e-01406c3ba806",
+        "title": "Diagnostic Technician 1",
+        "active": true,
+        "date_updated": 1774571021,
+        "date_posted": 1774571021,
+        "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Florence-KY/Diagnostic-Technician-1_J2443298-1",
+        "locations": [
+            "Florence, KY"
+        ],
+        "company_url": "https://simplify.jobs/c/Jabil",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Argonne National Laboratory",
+        "id": "8f4ca09b-7536-412f-8025-f8e71ed0c2e9",
+        "title": "Assistant Computational Scientist: AI for Spectroscopy and Elemental Imaging",
+        "active": true,
+        "date_updated": 1774571627,
+        "date_posted": 1774571627,
+        "url": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Assistant-Computational-Scientist--AI-for-Spectroscopy-and-Elemental-Imaging_422392",
+        "locations": [
+            "Woodridge, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Argonne-National-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "KBR",
+        "id": "a82f29be-8c71-471f-a3ee-3f63440c3e0f",
+        "title": "Systems Engineer",
+        "active": true,
+        "date_updated": 1774571636,
+        "date_posted": 1774571636,
+        "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Kihei-Hawaii/Systems-Engineer_R2121020",
+        "locations": [
+            "Maui, Hawaii"
+        ],
+        "company_url": "https://simplify.jobs/c/KBR",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Applied Materials",
+        "id": "398d473f-c0d6-4a3b-b159-b94203925ede",
+        "title": "Data Analyst \u2013 New College Grad/ Early Career",
+        "active": true,
+        "date_updated": 1774571050,
+        "date_posted": 1774571050,
+        "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Data-Analyst--New-College-Grad--Early-Career-_R2616165",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Materials",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Marathon Petroleum",
+        "id": "59deffc2-3fc9-4193-9c2a-8b7d79b3c129",
+        "title": "Fundamental Trading Analyst - NGLs and Specialty Products",
+        "active": true,
+        "date_updated": 1774571388,
+        "date_posted": 1774571388,
+        "url": "https://mpc.wd1.myworkdayjobs.com/en-US/MPCCareers/job/Houston-Texas/Fundamental-Trading-Analyst--NGLs-and-Specialty-Products-_00021190",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Marathon-Petroleum",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
