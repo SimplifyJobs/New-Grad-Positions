@@ -261491,7 +261491,7 @@
         "company_name": "VF",
         "id": "a46a8db8-439c-4ad5-a3de-fb4d05e9efaf",
         "title": "Associate Designer - Lifestyle Everyday + Youth",
-        "active": true,
+        "active": false,
         "date_updated": 1773872885,
         "date_posted": 1773872885,
         "url": "https://vfc.wd5.myworkdayjobs.com/vfc_careers/job/USCA--USA--Colorado--Denver-HQ---VFC/Associate-Designer--Lifestyle-Everyday---Youth_R-20260123-0027-1",
@@ -263909,7 +263909,7 @@
         "company_name": "Sainsbury's",
         "id": "224060d1-afbb-453b-a16a-60e457cb6509",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1773969459,
         "date_posted": 1773969459,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054283",
@@ -263965,7 +263965,7 @@
         "company_name": "Sainsbury's",
         "id": "d9585c96-cd73-484c-9045-9e4c123f23e6",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1773969272,
         "date_posted": 1773969272,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054284",
@@ -272007,7 +272007,7 @@
         "company_name": "Sainsbury's",
         "id": "66b5e11d-5479-45a3-a624-8258036ed3cd",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1774476809,
         "date_posted": 1774476809,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055094",
@@ -274816,5 +274816,106 @@
             "Master's",
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CACI",
+        "id": "e0dc60ad-c7c0-45a1-89bc-46f35973ccab",
+        "title": "IT Data Specialist \u2013 Entry Level",
+        "active": true,
+        "date_updated": 1774570814,
+        "date_posted": 1774570814,
+        "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-DC-Washington/IT-Data-Specialist---Entry-Level_323813",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Blue Origin",
+        "id": "37bd0880-b286-4335-99d4-f681fbb17333",
+        "title": "Packaging Engineer 1",
+        "active": true,
+        "date_updated": 1774572969,
+        "date_posted": 1774570896,
+        "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Huntsville-AL/Packaging-Engineer-I_R60953",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Blue-Origin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Greenheck Group",
+        "id": "40808aa5-b198-4549-b483-4c5b0f4a40f9",
+        "title": "Application Developer 1",
+        "active": true,
+        "date_updated": 1774572719,
+        "date_posted": 1774571307,
+        "url": "https://greenheckgroup.wd5.myworkdayjobs.com/external/job/Remote---Wisconsin/Application-Developer-I_JR103307",
+        "locations": [
+            "Minnesota",
+            "Wisconsin"
+        ],
+        "company_url": "https://simplify.jobs/c/Greenheck-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Stryker",
+        "id": "3ad4d069-13db-4f06-af27-4cc1027d4e3e",
+        "title": "Associate Installation Technician",
+        "active": true,
+        "date_updated": 1774571034,
+        "date_posted": 1774571034,
+        "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Columbus-Ohio/Associate-Installation-Technician---Ohio_R562156",
+        "locations": [
+            "Cleveland, OH",
+            "Columbus, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Stryker",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Jabil",
+        "id": "de10eb2c-349d-4155-a630-c0e4bdeb2f9c",
+        "title": "NPI Technician",
+        "active": true,
+        "date_updated": 1774571021,
+        "date_posted": 1774571021,
+        "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Florence-KY/NPI-Technician_J2443504-1",
+        "locations": [
+            "Florence, KY"
+        ],
+        "company_url": "https://simplify.jobs/c/Jabil",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
