@@ -266223,7 +266223,7 @@
         "company_name": "Sainsbury's",
         "id": "9a946cca-b61b-417a-b5c1-853452aee28f",
         "title": "Trading Assistant - Shift",
-        "active": false,
+        "active": true,
         "date_updated": 1774275473,
         "date_posted": 1774275473,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054686",
@@ -275568,7 +275568,7 @@
         "company_name": "Sainsbury's",
         "id": "ec6874c2-9845-4ee4-9c7d-bf49805db890",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1774649224,
         "date_posted": 1774649224,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055341",
@@ -276075,6 +276075,151 @@
             "Bristol, UK"
         ],
         "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Centene",
+        "id": "9d7be4b4-d4bd-4382-9110-7e9270280ddb",
+        "title": "IT Data Analyst 2",
+        "active": true,
+        "date_updated": 1774732802,
+        "date_posted": 1774648995,
+        "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/IT-Data-Analyst-II_1635005",
+        "locations": [
+            "Pennsylvania",
+            "Texas",
+            "Kentucky",
+            "North Carolina",
+            "Missouri",
+            "Michigan"
+        ],
+        "company_url": "https://simplify.jobs/c/Centene",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "SharkNinja",
+        "id": "d6b913a6-f67a-4833-adfc-047f5f643589",
+        "title": "Associate Product Developer",
+        "active": true,
+        "date_updated": 1774649306,
+        "date_posted": 1774649306,
+        "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4667126006",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/SharkNinja",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Capital One",
+        "id": "4b64b344-5f06-405a-9b9c-f73d01b9659c",
+        "title": "Associate \u2013 New Grad Card Expansion",
+        "active": true,
+        "date_updated": 1774649041,
+        "date_posted": 1774649041,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R238762",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Capital-One",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "True Anomaly",
+        "id": "915034b3-03ad-47dc-981c-25532141221f",
+        "title": "Software Engineer 1 - Full Stack",
+        "active": true,
+        "date_updated": 1774732343,
+        "date_posted": 1774649741,
+        "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5092069007",
+        "locations": [
+            "Long Beach, CA",
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/TrueAnomaly",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Captivation",
+        "id": "6075a082-09f0-4f9a-873a-0acdfd266985",
+        "title": "Software Engineer 0 - Java/Mapreduce/AI/ML/Kubernetes",
+        "active": true,
+        "date_updated": 1774650013,
+        "date_posted": 1774650013,
+        "url": "https://job-boards.greenhouse.io/captivation/jobs/5168325008",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Captivation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Mercury Insurance",
+        "id": "0ece4bf0-caa8-4452-b5e3-54d67a797fc6",
+        "title": "Software Engineering Graduate Development Program",
+        "active": true,
+        "date_updated": 1774731996,
+        "date_posted": 1774660028,
+        "url": "https://careers-mercuryinsurance.icims.com/jobs/5984/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Mercury-Insurance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Redwood Materials",
+        "id": "468150cb-140a-48f5-828a-e98a815a8056",
+        "title": "Senior Software Engineer - Energy Storage",
+        "active": true,
+        "date_updated": 1774315261,
+        "date_posted": 1773181477,
+        "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/5823270004",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Redwood-Materials",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
