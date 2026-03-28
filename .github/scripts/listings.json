@@ -172050,7 +172050,7 @@
         "company_name": "Sainsbury's",
         "id": "d5e53a9d-fedb-4a3f-829d-931fc78c6525",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1769469097,
         "date_posted": 1769469097,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047180",
@@ -276040,5 +276040,43 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Micron Technology",
+        "id": "fbff2d74-dc29-4748-ab3b-372ff1f3ebbf",
+        "title": "GEL Engineering Technician",
+        "active": true,
+        "date_updated": 1774660287,
+        "date_posted": 1774660287,
+        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/GEL-Engineering-Technician_JR96396",
+        "locations": [
+            "Boise, ID"
+        ],
+        "company_url": "https://simplify.jobs/c/Micron-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "931a6213-95f8-4f07-860b-1e130ddb0a1f",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1774706842,
+        "date_posted": 1774706842,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055378",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
