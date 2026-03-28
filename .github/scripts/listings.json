@@ -1,24 +1,5 @@
 [
     {
-        "date_updated": 1754338132,
-        "url": "https://eversource.wd1.myworkdayjobs.com/en-US/ExternalSite/job/Westwood-MA/IT-Associate-Software-Engineer--Hybrid-_R-028085",
-        "company_name": "Eversource Energy",
-        "title": "IT Associate Software Engineer (Hybrid)",
-        "locations": [
-            "Westwood, MA",
-            "Manchester, NH",
-            "Berlin, CT",
-            "Windsor, CT"
-        ],
-        "sponsorship": "Other",
-        "active": false,
-        "source": "polinavishnev",
-        "id": "d8a37546-8bde-4054-b447-9568f56ffdcd",
-        "date_posted": 1753986441,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
         "source": "Simplify",
         "category": "Software",
         "company_name": "Motorola",
@@ -275934,6 +275915,66 @@
             "Dallas, TX"
         ],
         "company_url": "https://simplify.jobs/c/Equinix",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Wells Fargo",
+        "id": "b4cdcac4-0da9-4d1f-adeb-6309f9914acc",
+        "title": "Engineering Associate - Java API & Microservices Development",
+        "active": true,
+        "date_updated": 1774649406,
+        "date_posted": 1774649406,
+        "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/Engineering-Associate---Java-API---Microservices-Development_R-533184",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Wells-Fargo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Attentive",
+        "id": "d3b579dd-c02a-4f18-8b61-d745cac58e73",
+        "title": "Software Engineer 1 - AI Product",
+        "active": true,
+        "date_updated": 1774721040,
+        "date_posted": 1774650114,
+        "url": "https://job-boards.greenhouse.io/attentive/jobs/4195625009",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Attentive",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Pattern Data",
+        "id": "fc07cf13-b666-439f-83e7-a5861fa41002",
+        "title": "Software Engineer - Entry",
+        "active": true,
+        "date_updated": 1774649685,
+        "date_posted": 1774649685,
+        "url": "https://job-boards.greenhouse.io/patterndata/jobs/5092337007",
+        "locations": [
+            "Richmond, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pattern-Data",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
