@@ -276000,5 +276000,45 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Brevium",
+        "id": "851236ba-292d-4edb-82aa-01636db2f9d6",
+        "title": "Database Engineer",
+        "active": true,
+        "date_updated": 1774649805,
+        "date_posted": 1774649805,
+        "url": "https://job-boards.greenhouse.io/brevium/jobs/4566150006",
+        "locations": [
+            "American Fork, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Brevium",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "GlobalFoundries",
+        "id": "c6805667-f7a7-4da9-b10c-bc3a3281ac5c",
+        "title": "Global Tapeout and Mask Operations New College Graduate - Biz App and Data Engineer",
+        "active": true,
+        "date_updated": 1774728699,
+        "date_posted": 1774649057,
+        "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Global-Tapeout-and-Mask-Operations--Biz-App-and-Data-Engineer--2026-New-College-Graduate-_JR-2502471-1",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/GlobalFoundries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
