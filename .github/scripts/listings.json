@@ -275901,5 +275901,43 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "2020 Companies",
+        "id": "b6139e01-04e3-4bd2-b9ee-77aee85ae4cd",
+        "title": "Android Sales Expert",
+        "active": true,
+        "date_updated": 1774649376,
+        "date_posted": 1774649376,
+        "url": "https://2020companies.wd1.myworkdayjobs.com/external_careers/job/SeaTac-WA/Android-Sales-Expert_REQ_101081",
+        "locations": [
+            "Tukwila, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/2020-Companies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Equinix",
+        "id": "516a4b4b-a6e1-4fa9-99e5-0bc988c412b9",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1774649373,
+        "date_posted": 1774649373,
+        "url": "https://equinix.wd1.myworkdayjobs.com/External/job/Dallas-Infomart-Office-DAI/Associate-Software-Engineer_JR-159598",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Equinix",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
