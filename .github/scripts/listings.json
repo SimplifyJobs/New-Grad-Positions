@@ -252993,7 +252993,7 @@
         "company_name": "Samsung",
         "id": "072d4506-5871-490d-998e-e73997ace558",
         "title": "Engineer 1 - Multiple Openings",
-        "active": true,
+        "active": false,
         "date_updated": 1773382243,
         "date_posted": 1773382243,
         "url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/12100-Samsung-Blvd-Austin-TX-USA/Engineer-I--Multiple-Openings-_R114847-1",
@@ -275691,5 +275691,25 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Aramsco",
+        "id": "4fc94c72-ee28-420e-a0fd-ead78c033716",
+        "title": "Product Maintenance Specialist",
+        "active": true,
+        "date_updated": 1774696037,
+        "date_posted": 1774693299,
+        "url": "https://aramsco.wd1.myworkdayjobs.com/aramscocareers/job/Decatur-IL/USAC--Product-Maintenance-Specialist_JR101581",
+        "locations": [
+            "Decatur, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Aramsco",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
