@@ -264502,7 +264502,7 @@
         "company_name": "Utah State University",
         "id": "a9cc3418-ecdd-4f81-90cb-cd3b4a1c6305",
         "title": "Part-Time Programmer/Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1774044227,
         "date_posted": 1774044227,
         "url": "https://careers-usu.icims.com/jobs/10065/job?mobile=true&needsRedirect=false",
@@ -275655,5 +275655,23 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Ercot",
+        "id": "de63668d-f07b-49f9-989d-5213eaf32db6",
+        "title": "Software Development Engineer in Test - Software Development Engineer in Test",
+        "active": true,
+        "date_updated": 1774649257,
+        "date_posted": 1774649257,
+        "url": "https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Taylor-TX/Software-Development-Engineer-in-Test--SDET-_R2231-1",
+        "locations": [
+            "Pflugerville, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Ercot",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
