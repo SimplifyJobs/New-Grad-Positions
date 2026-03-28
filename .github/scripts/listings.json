@@ -275962,5 +275962,23 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "1-800 Contacts",
+        "id": "4b06f705-77f5-4894-bfe7-627602d2b060",
+        "title": "Frontend Web Developer",
+        "active": true,
+        "date_updated": 1774650183,
+        "date_posted": 1774650183,
+        "url": "https://job-boards.greenhouse.io/1800contacts/jobs/7750826",
+        "locations": [
+            "Draper, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/1800-Contacts",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
