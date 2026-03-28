@@ -79107,42 +79107,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "d06c4b1a-d837-4488-8f49-4b31c23f52c1",
-        "title": "Student Researcher - Multiple Teams",
-        "active": false,
-        "date_updated": 1753929907,
-        "date_posted": 1753929907,
-        "url": "https://jobs.bytedance.com/en/position/7533020375207479570/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "7585aef2-eec8-4fe1-9ec2-271782dbbadc",
-        "title": "Student Researcher - Seed LLM Horizon - Memory",
-        "active": false,
-        "date_updated": 1753929907,
-        "date_posted": 1753929907,
-        "url": "https://jobs.bytedance.com/en/position/7533025573287954695/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Surefire Cyber",
         "id": "19dbf198-5725-453b-97ec-db9bd1ca7cdf",
@@ -128012,7 +127976,7 @@
         "company_name": "Mark43",
         "id": "58959f63-0639-4070-b960-e2dc375f96a7",
         "title": "Software Engineer - Integrations",
-        "active": true,
+        "active": false,
         "date_updated": 1766163121,
         "date_posted": 1766163121,
         "url": "https://mark43.com/list-job/7289097?gh_jid=7289097",
