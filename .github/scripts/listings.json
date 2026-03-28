@@ -275789,5 +275789,81 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "d4e0ba0c-b058-4f5d-991a-33ec090bd8c0",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1774706842,
+        "date_posted": 1774706842,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055381",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SentiLink",
+        "id": "6049d064-bbe7-4b2e-93cc-765d8c1396e9",
+        "title": "Software Engineer - Full Stack/Backend",
+        "active": true,
+        "date_updated": 1774708630,
+        "date_posted": 1774649299,
+        "url": "https://jobs.ashbyhq.com/sentilink/d3f05b2d-f5b2-479f-8d65-d28c53ef824e/application",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/SentiLink",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Wells Fargo",
+        "id": "10eef5b8-513a-4db8-a525-1e28e9c697e1",
+        "title": "Engineering Associate - Java Application Development",
+        "active": true,
+        "date_updated": 1774649406,
+        "date_posted": 1774649406,
+        "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/Engineering-Associate---Java-Application-Development_R-533218",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Wells-Fargo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Plug Power",
+        "id": "0ad83886-8189-4b2c-b6e8-79d8e8a553f5",
+        "title": "Engineer 1",
+        "active": true,
+        "date_updated": 1774708255,
+        "date_posted": 1774649252,
+        "url": "https://plugpower.wd5.myworkdayjobs.com/Plug_Power_Inc/job/Albany-NY/Engineer-I--Fuel-Cell-System-Test---Validation_R6885",
+        "locations": [
+            "Albany, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Plug-Power",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
