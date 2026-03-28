@@ -251886,7 +251886,7 @@
         "company_name": "QVC Group",
         "id": "76b8059b-da0b-4498-8cf9-ff552690e079",
         "title": "Assistant Merchant",
-        "active": false,
+        "active": true,
         "date_updated": 1773353993,
         "date_posted": 1773353993,
         "url": "https://qvc.wd5.myworkdayjobs.com/QRG/job/USA-OH-West-Chester/Assistant-Merchant_R81641",
@@ -275865,5 +275865,41 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "f64ccfc3-866f-4859-8164-3ae9844b199e",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1774706842,
+        "date_posted": 1774706842,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055379",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "f201d4eb-6e5f-4a17-a79b-d8a4cbdc666f",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1774706842,
+        "date_posted": 1774706842,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055395",
+        "locations": [
+            "Brandon, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
