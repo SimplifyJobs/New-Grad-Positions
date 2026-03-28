@@ -184609,7 +184609,7 @@
         "company_name": "RTX",
         "id": "79d14d1c-7f5c-45c8-88ad-2eb2adc098a4",
         "title": "2026 \u2013 Fulltime Systems Engineer 2",
-        "active": false,
+        "active": true,
         "date_updated": 1770075981,
         "date_posted": 1770075981,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA1--1001-Boston-Post-Rd--BLDG-1/XMLNAME-2026--Fulltime-Systems-Engineer-II--Onsite_01820972",
@@ -276223,5 +276223,65 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GE Healthcare",
+        "id": "9f19a190-1de6-44ee-9578-8986cb3a4272",
+        "title": "Field Service Engineer 1",
+        "active": true,
+        "date_updated": 1774734132,
+        "date_posted": 1774693232,
+        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-I---Milwaukee--WI_R4031301-1",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Healthcare",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "StubHub",
+        "id": "c0a55afc-bd94-42f0-ad0a-891cca049bdb",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1774733460,
+        "date_posted": 1774660645,
+        "url": "https://job-boards.eu.greenhouse.io/stubhubinc/jobs/4825412101",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/StubHub",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Twilio",
+        "id": "1a3785cc-2b8d-42b6-a369-deda02a5e5a9",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1774649823,
+        "date_posted": 1774649823,
+        "url": "https://job-boards.greenhouse.io/twilio/jobs/7681338",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Twilio",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
