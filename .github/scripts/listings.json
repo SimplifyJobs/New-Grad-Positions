@@ -109,30 +109,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "IMEG",
-        "id": "c2d7fcdd-c8fe-4c43-9dc1-de65608846a9",
-        "title": "Full Stack Software Engineer 1",
-        "active": false,
-        "date_updated": 1754002555,
-        "date_posted": 1754002555,
-        "url": "https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Las-Vegas-NV/Full-Stack-Software-Engineer-1--Remote-_R-14878",
-        "locations": [
-            "Las Vegas, NV",
-            "Naperville, IL",
-            "Indianapolis, IN",
-            "Houston, TX",
-            "LA",
-            "Pasadena, CA",
-            "Phoenix, AZ",
-            "Davenport, IA"
-        ],
-        "company_url": "https://simplify.jobs/c/IMEG",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Palantir",
         "id": "fd97ae60-01a8-4cee-a8c2-95b9ecdd70cf",
         "title": "Software Engineer \u2013 New Grad - Infrastructure",
@@ -298,23 +274,6 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/Palantir",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Global Payments",
-        "id": "ad85e523-b5ae-49c4-82cc-2e0893694bef",
-        "title": "Mainframe Software Engineer I or Above",
-        "active": false,
-        "date_updated": 1754002259,
-        "date_posted": 1754002259,
-        "url": "https://tsys.wd1.myworkdayjobs.com/TSYS/job/Columbus-Georgia-USA/Mainframe-Software-Engineer-I-or-Above_R0064692",
-        "locations": [
-            "Columbus, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Global-Payments",
         "is_visible": true,
         "sponsorship": "Other"
     },
