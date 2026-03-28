@@ -275711,5 +275711,25 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Adelphi Real World",
+        "id": "7990a28f-8726-40c8-b671-f17b83701f64",
+        "title": "Programmer",
+        "active": true,
+        "date_updated": 1774649931,
+        "date_posted": 1774649931,
+        "url": "https://job-boards.greenhouse.io/adelphirealworld/jobs/5168155008",
+        "locations": [
+            "Buxton, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Adelphi-Real-World",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
