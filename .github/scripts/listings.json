@@ -198295,7 +198295,7 @@
         "company_name": "Loft",
         "id": "548d9940-eaf9-43e1-a9d0-9d1022106446",
         "title": "Assistant Merchandiser",
-        "active": false,
+        "active": true,
         "date_updated": 1770766607,
         "date_posted": 1770766607,
         "url": "https://knitwellgroup.wd1.myworkdayjobs.com/US_Corporate_Jobs/job/Times-Square-Tower-ANN-New-York-NY-10036/Assistant-Merchant_R-2021978",
@@ -214414,7 +214414,7 @@
         "company_name": "NVIDIA",
         "id": "49c78cff-7e69-4412-b2da-9b33a4a8b6de",
         "title": "Formal Verification Engineer \u2013 New College Grad 2026",
-        "active": false,
+        "active": true,
         "date_updated": 1771543464,
         "date_posted": 1771543464,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Formal-Verification-Engineer---New-College-Grad-2026_JR2013674",
@@ -275751,5 +275751,43 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Micron Technology",
+        "id": "c81deea4-4aa7-402d-b424-aa8b807b2ab0",
+        "title": "Product Development Engineer",
+        "active": true,
+        "date_updated": 1774649405,
+        "date_posted": 1774649405,
+        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Product-Development-Engineer_JR96371-2",
+        "locations": [
+            "Boise, ID"
+        ],
+        "company_url": "https://simplify.jobs/c/Micron-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "2020 Companies",
+        "id": "e19c6d84-9fc8-4c1f-bcac-f4f755e46228",
+        "title": "Android Sales Expert",
+        "active": true,
+        "date_updated": 1774649376,
+        "date_posted": 1774649376,
+        "url": "https://2020companies.wd1.myworkdayjobs.com/external_careers/job/Columbus-OH/Android-Sales-Expert_REQ_101085-1",
+        "locations": [
+            "Columbus, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/2020-Companies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
