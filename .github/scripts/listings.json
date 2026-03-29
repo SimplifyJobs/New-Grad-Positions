@@ -249517,7 +249517,7 @@
         "company_name": "GlobalFoundries",
         "id": "4c0f2e34-6034-4426-acb9-a30b87c8d6de",
         "title": "Silicon Photonics Module Packaging Integration Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773267904,
         "date_posted": 1773267904,
         "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/Silicon-Photonics-Module-Packaging-Integration-Engineer--2026-New-College-Graduate-_JR-2502070",
@@ -274511,7 +274511,7 @@
         "company_name": "Applied Materials",
         "id": "398d473f-c0d6-4a3b-b159-b94203925ede",
         "title": "Data Analyst \u2013 New College Grad/ Early Career",
-        "active": false,
+        "active": true,
         "date_updated": 1774571050,
         "date_posted": 1774571050,
         "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Data-Analyst--New-College-Grad--Early-Career-_R2616165",
@@ -276219,6 +276219,66 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Twilio",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "95f19fc5-294c-48e1-81af-febcb2e83df1",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1774735651,
+        "date_posted": 1774735651,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055426",
+        "locations": [
+            "Hook, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "b4eaf5e0-1391-4a32-8ef5-79df21372b4e",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1774735650,
+        "date_posted": 1774735650,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055429",
+        "locations": [
+            "United Kingdom"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "KLA",
+        "id": "e29161a2-e9c2-43c1-9bd1-9190e26d9ea0",
+        "title": "Product Install Engineer - Extensive Travel Required",
+        "active": true,
+        "date_updated": 1774691235,
+        "date_posted": 1774691235,
+        "url": "https://kla.wd1.myworkdayjobs.com/Search/job/USA-AZ-Chandler-KLA/Product-Install-Engineer---Extensive-90----Travel-Required_2634998",
+        "locations": [
+            "Milpitas, CA",
+            "Phoenix, AZ",
+            "Chandler, AZ",
+            "Richardson, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/KLA",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
