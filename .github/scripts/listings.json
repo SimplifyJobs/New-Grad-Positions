@@ -78342,24 +78342,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Goldman Sachs",
-        "id": "cc282bf8-6c95-4048-a141-7122834d1c01",
-        "title": "2026 \u2013 Americas - Salt Lake City - Engineering New Analyst",
-        "active": false,
-        "date_updated": 1761847690,
-        "date_posted": 1754072364,
-        "url": "https://higher.gs.com/roles/150842?type=students",
-        "locations": [
-            "Salt Lake City, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/Goldman-Sachs",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "University of Maryland - College Park",
         "id": "67fec74f-0d94-461b-9093-68193c0e9285",
@@ -274966,7 +274948,7 @@
         "company_name": "Sainsbury's",
         "id": "ec6874c2-9845-4ee4-9c7d-bf49805db890",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1774649224,
         "date_posted": 1774649224,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055341",
