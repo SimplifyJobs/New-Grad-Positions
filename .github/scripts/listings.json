@@ -2,96 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "The Travelers Companies",
-        "id": "6b39d90a-9827-4ab8-ae94-bdae0ff6bb19",
-        "title": "Software Engineer I - Guidewire",
-        "active": false,
-        "date_updated": 1754031938,
-        "date_posted": 1754031938,
-        "url": "https://travelers.wd5.myworkdayjobs.com/External/job/GA---Atlanta/Software-Engineer-I--Guidewire-_R-42652",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Travelers",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "The Travelers Companies",
-        "id": "6d548cc3-924a-4e77-a230-7be15f3166f7",
-        "title": "Software Engineer I - .Net / MERN / AWS",
-        "active": false,
-        "date_updated": 1754031932,
-        "date_posted": 1754031932,
-        "url": "https://travelers.wd5.myworkdayjobs.com/External/job/MN---St-Paul/Software-Engineer-I--Net---MERN---AWS-_R-43980",
-        "locations": [
-            "Sparks, MD",
-            "Hartford, CT",
-            "St Paul, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Travelers",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "The Travelers Companies",
-        "id": "7fea6865-d7a3-40be-bc65-7c35d9e97f6e",
-        "title": "Software Engineer I - Aws - React - GenAI",
-        "active": false,
-        "date_updated": 1754031936,
-        "date_posted": 1754031936,
-        "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Software-Engineer-I--AWS--React--GenAI-_R-44034",
-        "locations": [
-            "Hartford, CT",
-            "St Paul, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Travelers",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "The Travelers Companies",
-        "id": "4d1aca64-b187-4f97-adcc-5824d3b20dcb",
-        "title": "Software Engineer I - Java - Aws - Jsf",
-        "active": false,
-        "date_updated": 1761841665,
-        "date_posted": 1754031804,
-        "url": "https://travelers.wd5.myworkdayjobs.com/External/job/MN---St-Paul/Software-Engineer-I--Java--AWS--JSF-_R-45189",
-        "locations": [
-            "St Paul, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Travelers",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "The Travelers Companies",
-        "id": "604f95b5-9b0a-4c6e-b75c-21d98b95d516",
-        "title": "Software Engineer I - Artificial Intelligence in Underwriting",
-        "active": false,
-        "date_updated": 1754031836,
-        "date_posted": 1754031836,
-        "url": "https://travelers.wd5.myworkdayjobs.com/External/job/MN---St-Paul/Software-Engineer-I---Artificial-Intelligence-in-Underwriting_R-45455",
-        "locations": [
-            "Hartford, CT",
-            "St Paul, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Travelers",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Palantir",
         "id": "fd97ae60-01a8-4cee-a8c2-95b9ecdd70cf",
         "title": "Software Engineer \u2013 New Grad - Infrastructure",
@@ -78944,32 +78854,6 @@
             "State College, PA"
         ],
         "company_url": "https://simplify.jobs/c/Penn-State",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "JP Morgan Chase",
-        "id": "9fd30c72-1506-4590-9031-b3110ddb1314",
-        "title": "Software Engineer",
-        "active": false,
-        "date_updated": 1762925497,
-        "date_posted": 1754032818,
-        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/job/210649912",
-        "locations": [
-            "Palo Alto, CA",
-            "Houston, TX",
-            "Austin, TX",
-            "Tampa, FL",
-            "Plano, TX",
-            "Chicago, IL",
-            "Columbus, OH",
-            "NYC",
-            "Wilmington, DE"
-        ],
-        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -200311,7 +200195,7 @@
         "company_name": "Applied Materials",
         "id": "96c24300-0c19-4356-b32c-0c48ad8a1c3f",
         "title": "Computational Physicist AI/ML - Fluid/Thermal Modeling",
-        "active": true,
+        "active": false,
         "date_updated": 1770854540,
         "date_posted": 1770854540,
         "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Computational-Physicist---Fluid-Thermal-Modeling--AI-ML-New-College-Grad---Doctorate-Degree--Santa-Clara--CA-_R2612850",
@@ -276594,5 +276478,23 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "f4a056c1-c7dd-488b-a3da-ac7238f7fdf5",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1774746461,
+        "date_posted": 1774746461,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055456",
+        "locations": [
+            "Exeter, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
