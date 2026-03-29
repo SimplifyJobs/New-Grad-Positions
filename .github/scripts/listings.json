@@ -78361,44 +78361,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "NetraDyne",
-        "id": "c7f3ea2c-49bd-469b-9197-0793fee9c037",
-        "title": "Senior AI Research Engineer",
-        "active": false,
-        "date_updated": 1754070863,
-        "date_posted": 1754070863,
-        "url": "https://www.netradyne.com/company/careers?gh_jid=4520201005",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/NetraDyne",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "University of Miami",
-        "id": "7f574b25-9303-4131-a329-cf8b670c73d0",
-        "title": "Postdoctoral Associate",
-        "active": false,
-        "date_updated": 1762918467,
-        "date_posted": 1754069907,
-        "url": "https://umiami.wd1.myworkdayjobs.com/UMCareerStaff/job/Coral-Gables-FL/Post-Doctoral-Associate_R100087652",
-        "locations": [
-            "Coral Gables, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/University-Of-Miami",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "University of Maryland - College Park",
         "id": "67fec74f-0d94-461b-9093-68193c0e9285",
         "title": "Postdoctoral Associate",
@@ -186046,7 +186008,7 @@
         "company_name": "Stryker",
         "id": "30ab6682-d44f-4222-a68a-590ad9dbf142",
         "title": "Data Engineer - Post Market",
-        "active": false,
+        "active": true,
         "date_updated": 1770162568,
         "date_posted": 1770162568,
         "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fremont-California/Data-Engineer---Post-Market_R558424",
@@ -276183,5 +276145,23 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Grid",
+        "id": "4f700a91-cd4b-4413-82f7-cbca934c1707",
+        "title": "Product Manager",
+        "active": true,
+        "date_updated": 1774649201,
+        "date_posted": 1774649201,
+        "url": "https://jobs.lever.co/Grid/0059fb33-9429-4edc-8b70-61a7bfb773ef/apply",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Grid",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
