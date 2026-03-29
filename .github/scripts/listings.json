@@ -266165,7 +266165,7 @@
         "company_name": "Sainsbury's",
         "id": "9a946cca-b61b-417a-b5c1-853452aee28f",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1774275473,
         "date_posted": 1774275473,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054686",
@@ -269102,7 +269102,7 @@
         "company_name": "MillerKnoll",
         "id": "ad4bae74-9ed2-4d05-be7f-fe891477382b",
         "title": "Lifestyles Product Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1774392776,
         "date_posted": 1774392776,
         "url": "https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll/job/MI---Holland/Senior-Engineer_JR108037-1",
@@ -276511,6 +276511,85 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "aa91105e-5781-4f02-a2bd-38447dc1702c",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1774735649,
+        "date_posted": 1774735649,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055449",
+        "locations": [
+            "Chesterfield, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Corebridge Financial",
+        "id": "2adacecf-3277-4c0c-9acf-5ec46f6809fd",
+        "title": "ERM Business Data Analyst",
+        "active": true,
+        "date_updated": 1774735790,
+        "date_posted": 1774735790,
+        "url": "https://corebridgefinancial.wd1.myworkdayjobs.com/CorebridgeFinancial/job/TX-Houston/ERM-Business-Data-Analyst_JR2600318",
+        "locations": [
+            "Houston, TX",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Corebridge-Financial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "b25a5472-562d-45bb-a8b2-702b8b6a238f",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1774735649,
+        "date_posted": 1774735649,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055435",
+        "locations": [
+            "Bury Saint Edmunds, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Torc Robotics",
+        "id": "8579ed59-aa06-4f4b-986c-008731f00b98",
+        "title": "Software Engineer - I - Metrics for Release Platform",
+        "active": true,
+        "date_updated": 1774649722,
+        "date_posted": 1774649722,
+        "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8464617002",
+        "locations": [
+            "Remote in USA",
+            "Ann Arbor, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Torc-Robotics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
