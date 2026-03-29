@@ -78033,60 +78033,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "edX",
-        "id": "d712041e-7ad3-4753-bd08-94f19e3014a1",
-        "title": "Multiple Roles - Cyber Security Student Support",
-        "active": false,
-        "date_updated": 1761518545,
-        "date_posted": 1754088567,
-        "url": "https://job-boards.greenhouse.io/bootcampinstructionalengagement/jobs/5751270002",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/EdX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "edX",
-        "id": "23f82e54-18f9-4e39-b8e0-179a1bb6a2d5",
-        "title": "Product Management - Product Management Student Support",
-        "active": false,
-        "date_updated": 1762905774,
-        "date_posted": 1754088567,
-        "url": "https://job-boards.greenhouse.io/bootcampinstructionalengagement/jobs/5751318002",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/EdX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "edX",
-        "id": "89a9cc54-0766-4960-9b8b-57d9b006a604",
-        "title": "Multiple Roles - Web Development Student Support",
-        "active": true,
-        "date_updated": 1762817504,
-        "date_posted": 1754088564,
-        "url": "https://job-boards.greenhouse.io/bootcampinstructionalengagement/jobs/5751369002",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/EdX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "PennState University",
         "id": "68188134-cafa-4b8d-aa5c-4edf4278eb7c",
         "title": "IT Applications Specialist",
@@ -206973,7 +206919,7 @@
         "company_name": "Fidelity National Information Services",
         "id": "72e06b78-4076-4450-a7e2-8595b758e7d5",
         "title": "Product Manager",
-        "active": true,
+        "active": false,
         "date_updated": 1771342673,
         "date_posted": 1771342673,
         "url": "https://fis.wd5.myworkdayjobs.com/searchjobs/job/GBR-LNDN-25-Walbrook-FL56/Product-Manager---Commercial_JR0304593-1",
@@ -263841,7 +263787,7 @@
         "company_name": "Latitude AI",
         "id": "a56758ed-a68a-4dda-bf75-d133e93e895a",
         "title": "GIS Production Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1774045268,
         "date_posted": 1774045268,
         "url": "https://job-boards.greenhouse.io/latitude/jobs/7739363",
