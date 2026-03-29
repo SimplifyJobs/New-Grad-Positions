@@ -23882,24 +23882,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Datalab USA",
-        "id": "0b46c5ae-11ad-489e-944e-2d4dc26cb682",
-        "title": "Production Programmer \u2013 Entry Level SQL Developer",
-        "active": true,
-        "date_updated": 1754510242,
-        "date_posted": 1754066598,
-        "url": "https://jobs.lever.co/datalabusa/19b74a87-0d5f-4ca1-a218-5dae6004d0ee/apply",
-        "locations": [
-            "Germantown, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/Datalab-USA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "General Dynamics Mission Systems",
         "id": "7daef556-470c-45ce-bd10-00a2a1563067",
@@ -263664,7 +263646,7 @@
         "company_name": "University of Wisconsin-Madison",
         "id": "5fcb80ac-f68e-4c80-9424-b371e81f6af7",
         "title": "Assistant Professor of Music Technology and Artificial Intelligence - Rise-AI",
-        "active": false,
+        "active": true,
         "date_updated": 1774015768,
         "date_posted": 1774015768,
         "url": "https://wisconsin.wd1.myworkdayjobs.com/UW_Madison/job/Madison-WI/Assistant-Professor-of-Music-Technology-and-Artificial-Intelligence_JR10004513",
