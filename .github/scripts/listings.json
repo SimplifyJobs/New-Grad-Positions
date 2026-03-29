@@ -48106,7 +48106,7 @@
         "company_name": "Globus Medical",
         "id": "3ce5edd4-614e-43f5-902a-4dca9d73e4b3",
         "title": "Product Manager",
-        "active": true,
+        "active": false,
         "date_updated": 1761876228,
         "date_posted": 1761876228,
         "url": "https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Audubon-PA/Product-Manager_JR104165",
@@ -77990,24 +77990,6 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/Wintermute",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "mthree",
-        "id": "b472f687-ffe6-4a91-9d75-64b2ed163748",
-        "title": "Product Owner",
-        "active": true,
-        "date_updated": 1754348023,
-        "date_posted": 1754089299,
-        "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4589432006",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Mthree",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -214875,7 +214857,7 @@
         "company_name": "Latitude AI",
         "id": "a17e8fc3-8bf3-446d-9ac8-7012a5ec8a53",
         "title": "Bench Technician Associate - Greenville - SC",
-        "active": true,
+        "active": false,
         "date_updated": 1771601925,
         "date_posted": 1771601925,
         "url": "https://job-boards.greenhouse.io/latitude/jobs/7629654",
