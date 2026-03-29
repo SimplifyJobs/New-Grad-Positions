@@ -10493,26 +10493,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Ramp",
-        "id": "b5969a01-2e3a-4b19-86db-c82bbe7973c6",
-        "title": "University Grad - Software Engineer - Frontend",
-        "active": false,
-        "date_updated": 1757597488,
-        "date_posted": 1754087225,
-        "url": "https://jobs.ashbyhq.com/ramp/a1229aec-1105-4c47-8533-b912e732ed89/application",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Ramp",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Adobe",
         "id": "65bdd31a-88b7-4679-886a-64deb5f113dc",
@@ -20329,46 +20309,6 @@
         "date_posted": 1761236989,
         "company_url": "",
         "is_visible": true
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "DV Trading",
-        "id": "32314f06-2c67-40a5-abe3-6665e42b67cd",
-        "title": "2026 Graduate Software Developer - DV Commodities",
-        "active": false,
-        "date_updated": 1761249396,
-        "date_posted": 1754086272,
-        "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4592931005",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/DV-Trading",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "DV Trading",
-        "id": "ebce2464-8a88-4bfb-ace3-36495434337a",
-        "title": "2026 Graduate Software Developer - DV Commodities",
-        "active": false,
-        "date_updated": 1761249392,
-        "date_posted": 1754086269,
-        "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4589615005",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/DV-Trading",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
@@ -78140,60 +78080,6 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/EdX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Jane Street",
-        "id": "9634b5fa-b788-415d-84b5-76e80c4810c4",
-        "title": "Sales and Trading",
-        "active": false,
-        "date_updated": 1761264021,
-        "date_posted": 1754087299,
-        "url": "https://job-boards.greenhouse.io/janestreet/jobs/7844500002",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Jane-Street",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Jane Street",
-        "id": "416ff952-5880-4c3f-ae72-00ebda5cbc8b",
-        "title": "Software Engineer",
-        "active": false,
-        "date_updated": 1761264033,
-        "date_posted": 1754087305,
-        "url": "https://job-boards.greenhouse.io/janestreet/jobs/8040547002",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Jane-Street",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Fortinet",
-        "id": "9227e157-44fb-4c0b-85b1-d3998cbf26cb",
-        "title": "New Grad Jobs 2025",
-        "active": false,
-        "date_updated": 1754086890,
-        "date_posted": 1754086890,
-        "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/New_Grad_2019-Ottawa",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Fortinet",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
