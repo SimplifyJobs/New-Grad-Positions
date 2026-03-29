@@ -268756,7 +268756,7 @@
         "company_name": "Sainsbury's",
         "id": "ef93b6ba-d44e-433f-9c25-de75df5996c7",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1774390372,
         "date_posted": 1774390372,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054946",
@@ -276429,6 +276429,45 @@
         "locations": [
             "Edinburgh, UK",
             "Midlothian, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "ASM International",
+        "id": "bf310b19-eaff-4b3a-94df-ef7962e4f5df",
+        "title": "Engineer \u2013 Field Service",
+        "active": true,
+        "date_updated": 1774748518,
+        "date_posted": 1774660140,
+        "url": "https://www.asm.com/open-vacancies/?gh_jid=4501039101",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/ASM-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "b9b5e6a5-004a-45e9-90c9-910749452b8f",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1774735650,
+        "date_posted": 1774735650,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055416",
+        "locations": [
+            "Ashford District, UK"
         ],
         "company_url": "https://simplify.jobs/c/Sainsburys",
         "is_visible": true,
