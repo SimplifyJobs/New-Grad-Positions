@@ -1,39 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Sentry",
-        "id": "8052f0a5-610c-4ede-9479-d5c72fd10773",
-        "title": "Software Engineer \u2013 New Grad",
-        "active": false,
-        "date_updated": 1754274376,
-        "date_posted": 1754075670,
-        "url": "https://jobs.ashbyhq.com/sentry/143811c1-ec03-458b-9edf-32f002c818f0/application",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Sentry",
-        "is_visible": true,
-        "sponsorship": "Does Not Offer Sponsorship"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Sentry",
-        "id": "a721ada6-fcb0-4048-b53c-5ef7d4052d55",
-        "title": "Software Engineer \u2013 New Grad",
-        "active": false,
-        "date_updated": 1755270405,
-        "date_posted": 1754075667,
-        "url": "https://jobs.ashbyhq.com/sentry/96c8a4cc-23b9-4f3e-b360-38c1cc248491/application",
-        "locations": [
-            "San Francisco, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Sentry",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
         "date_updated": 1755285251,
         "url": "https://lifeattiktok.com/search/7531158600791705874?spread=5MWH5CQ",
         "company_name": "TikTok",
@@ -273867,7 +273833,7 @@
         "company_name": "Micron Technology",
         "id": "eb914efb-9d4b-4125-82ac-0178b19e25ea",
         "title": "New College Grad - HBM Product Manager",
-        "active": false,
+        "active": true,
         "date_updated": 1774570972,
         "date_posted": 1774570972,
         "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/XMLNAME--New-College-Grad--HBM-Product-Manager_JR94868",
