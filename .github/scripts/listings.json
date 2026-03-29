@@ -2,23 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Quantinuum",
-        "id": "6adb6a85-61dd-4b56-bd51-24db9fc84062",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1754190235,
-        "date_posted": 1754065188,
-        "url": "https://jobs.eu.lever.co/quantinuum/b9f4b023-e796-413e-9af5-cfaf1604b570/apply",
-        "locations": [
-            "Broomfield, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Quantinuum",
-        "is_visible": true,
-        "sponsorship": "U.S. Citizenship is Required"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Terex",
         "id": "5c51f5ae-cc65-4ef8-b061-5d8d83699764",
         "title": "Software Engineer I - 3rd Eye",
@@ -78535,42 +78518,6 @@
             "Woodridge, IL"
         ],
         "company_url": "https://simplify.jobs/c/Argonne-National-Laboratory",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "University of Southern California",
-        "id": "4ab5afc6-b71e-49e9-951d-1918516153a9",
-        "title": "Postdoctoral Scholar Research Associate",
-        "active": false,
-        "date_updated": 1754064978,
-        "date_posted": 1754064978,
-        "url": "https://usc.wd5.myworkdayjobs.com/ExternalUSCCareers/job/Los-Angeles-CA---Health-Sciences-Campus/Postdoctoral-Scholar-Research-Associate_REQ20098741",
-        "locations": [
-            "LA"
-        ],
-        "company_url": "https://simplify.jobs/c/University-Of-Southern-California",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "University of Southern California",
-        "id": "9af75743-2cd1-42b4-93e3-ccff68405dfc",
-        "title": "Postdoctoral Scholar - Research Associate",
-        "active": false,
-        "date_updated": 1754064901,
-        "date_posted": 1754064901,
-        "url": "https://usc.wd5.myworkdayjobs.com/ExternalUSCCareers/job/Los-Angeles-CA---University-Park-Campus/Postdoctoral-Scholar---Research-Associate_REQ20161632",
-        "locations": [
-            "LA"
-        ],
-        "company_url": "https://simplify.jobs/c/University-Of-Southern-California",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -276269,6 +276216,26 @@
         "degrees": [
             "PhD",
             "MD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "442cb2d0-e247-4a9a-9be9-af9751998714",
+        "title": "Fulltime-Systems Engineer 1",
+        "active": true,
+        "date_updated": 1774800884,
+        "date_posted": 1774649170,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-MARLBOROUGH-MA1--1001-Boston-Post-Rd--BLDG-1/XMLNAME-2026-Fulltime-Systems-Engineer-I-Onsite_01820969-1",
+        "locations": [
+            "Marlborough, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
