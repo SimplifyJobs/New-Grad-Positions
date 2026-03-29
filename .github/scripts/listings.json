@@ -2,23 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Palantir",
-        "id": "fd97ae60-01a8-4cee-a8c2-95b9ecdd70cf",
-        "title": "Software Engineer \u2013 New Grad - Infrastructure",
-        "active": true,
-        "date_updated": 1754055703,
-        "date_posted": 1754055703,
-        "url": "https://jobs.lever.co/palantir/9265acce-12cd-4179-8c50-55d15963532b/apply",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Palantir",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Quantinuum",
         "id": "6adb6a85-61dd-4b56-bd51-24db9fc84062",
         "title": "Software Engineer I",
@@ -82,91 +65,6 @@
             "San Francisco, CA"
         ],
         "company_url": "https://simplify.jobs/c/Sentry",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Esri",
-        "id": "ffe18d04-0fee-4c22-92c7-ee69659dc2e0",
-        "title": "Software Development Engineer I",
-        "active": false,
-        "date_updated": 1754189775,
-        "date_posted": 1754055562,
-        "url": "https://www.esri.com/careers/4810345007?gh_jid=4810345007",
-        "locations": [
-            "St. Louis, MO"
-        ],
-        "company_url": "https://simplify.jobs/c/Esri",
-        "is_visible": true,
-        "sponsorship": "U.S. Citizenship is Required"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Palantir",
-        "id": "4cbc04d5-d651-438a-81ec-b82f768a6602",
-        "title": "Software Engineer \u2013 New Grad",
-        "active": true,
-        "date_updated": 1754055697,
-        "date_posted": 1754055697,
-        "url": "https://jobs.lever.co/palantir/d372c805-d0cd-4a10-9522-fbecc78d6f3e/apply",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Palantir",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Esri",
-        "id": "09e4f8a6-10a8-498d-aed3-95b61b9e7fbc",
-        "title": "Software Development Engineer I",
-        "active": false,
-        "date_updated": 1754189750,
-        "date_posted": 1754055565,
-        "url": "https://www.esri.com/careers/4810344007?gh_jid=4810344007",
-        "locations": [
-            "St. Louis, MO"
-        ],
-        "company_url": "https://simplify.jobs/c/Esri",
-        "is_visible": true,
-        "sponsorship": "U.S. Citizenship is Required"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "PJM",
-        "id": "3d340e56-0a69-43ff-9367-8bdd7ddf6b05",
-        "title": "Data Engineer I",
-        "active": false,
-        "date_updated": 1754055576,
-        "date_posted": 1754055576,
-        "url": "https://pjm.wd5.myworkdayjobs.com/pjmcareers/job/Audubon-PA/Data-Engineer-I--II-_REQ-2025-4047-1",
-        "locations": [
-            "King of Prussia, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/PJM",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Palantir",
-        "id": "8b9cd2a3-53ab-41cd-bbd0-c5bdb6e56732",
-        "title": "Software Engineer \u2013 New Grad - Production Infrastructure",
-        "active": true,
-        "date_updated": 1754055704,
-        "date_posted": 1754055704,
-        "url": "https://jobs.lever.co/palantir/3f4dd595-2f57-4b5f-a50a-8d3084641ef8/apply",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Palantir",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -23164,24 +23062,6 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Hudson-River-Trading",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Palantir",
-        "id": "7b0e9437-e5f3-4413-98c1-7ea5c125a2af",
-        "title": "Forward Deployed Software Engineer \u2013 New Grad - UK Government",
-        "active": true,
-        "date_updated": 1761863056,
-        "date_posted": 1754055689,
-        "url": "https://jobs.lever.co/palantir/b4aa51a2-bc43-4d67-bf55-12db7feefb3a/apply",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Palantir",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -78551,24 +78431,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "PennState University",
-        "id": "2e17e435-e594-47c6-89d4-9fd698967ff5",
-        "title": "Part time Smeal - Computer Science",
-        "active": false,
-        "date_updated": 1762990018,
-        "date_posted": 1754056011,
-        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-time---Smeal--Marketing-Dept---Research-Assistant---Computer-Science_REQ_0000065852-1",
-        "locations": [
-            "State College, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Penn-State",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Goldman Sachs",
         "id": "bc43991f-4c29-44ec-af50-7ae5af9ba063",
@@ -78795,43 +78657,6 @@
         "date_updated": 1755956449,
         "date_posted": 1755956449,
         "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-Assistants_REQ_0000063953-1",
-        "locations": [
-            "State College, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Penn-State",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Jump Trading",
-        "id": "9bd0f937-080e-400f-aa57-4a3dcc7ff847",
-        "title": "Campus Quantitative Researcher - Full-Time",
-        "active": false,
-        "date_updated": 1754056327,
-        "date_posted": 1754056327,
-        "url": "https://boards.greenhouse.io/embed/job_app?token=6904522",
-        "locations": [
-            "London, UK",
-            "Paris, France"
-        ],
-        "company_url": "https://simplify.jobs/c/Jump-Trading",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "PennState University",
-        "id": "eac8db70-c9b5-4336-aacd-473e34b2745d",
-        "title": "Research Assistant in FAIR Lab - Prof. Hadi Hosseini",
-        "active": false,
-        "date_updated": 1763119261,
-        "date_posted": 1754056127,
-        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-Assistant-in-FAIR-Lab--Prof-Hadi-Hosseini-_REQ_0000059527-2",
         "locations": [
             "State College, PA"
         ],
