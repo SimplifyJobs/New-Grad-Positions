@@ -78288,24 +78288,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "PMG",
-        "id": "8fe37b27-5135-448a-8cad-0288b3498f3b",
-        "title": "Graduate Leadership Program - AI & Software Engineering",
-        "active": true,
-        "date_updated": 1754058477,
-        "date_posted": 1754058477,
-        "url": "https://job-boards.greenhouse.io/pmg/jobs/8033520002",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/PMG",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "PennState University",
         "id": "68188134-cafa-4b8d-aa5c-4edf4278eb7c",
         "title": "IT Applications Specialist",
@@ -78335,24 +78317,6 @@
             "State College, PA"
         ],
         "company_url": "https://simplify.jobs/c/Penn-State",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "PMG",
-        "id": "29e475b1-be98-4267-9d5f-d70bd24eff57",
-        "title": "Graduate Leadership Program - Data Analytics",
-        "active": false,
-        "date_updated": 1754058471,
-        "date_posted": 1754058471,
-        "url": "https://job-boards.greenhouse.io/pmg/jobs/8033513002",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/PMG",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -78407,24 +78371,6 @@
             "State College, PA"
         ],
         "company_url": "https://simplify.jobs/c/Penn-State",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Verifone",
-        "id": "f542fca3-9300-464e-a641-e02b189fc349",
-        "title": "Technical Support Representative",
-        "active": false,
-        "date_updated": 1754057511,
-        "date_posted": 1754057511,
-        "url": "https://ats.comparably.com/api/v2/verifone/post/6590796003?gh_jid=6590796003",
-        "locations": [
-            "Ashford District, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Verifone",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
