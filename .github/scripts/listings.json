@@ -2,24 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Terex",
-        "id": "5c51f5ae-cc65-4ef8-b061-5d8d83699764",
-        "title": "Software Engineer I - 3rd Eye",
-        "active": false,
-        "date_updated": 1754068499,
-        "date_posted": 1754068499,
-        "url": "https://terex.wd1.myworkdayjobs.com/terexcareers/job/USA-TX-Austin/Software-Engineer-I--3rd-Eye_REQ-9369",
-        "locations": [
-            "Austin, TX",
-            "Chattanooga, TN"
-        ],
-        "company_url": "https://simplify.jobs/c/Terex",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Sentry",
         "id": "8052f0a5-610c-4ede-9479-d5c72fd10773",
         "title": "Software Engineer \u2013 New Grad",
@@ -78446,24 +78428,6 @@
             "Hyattsville, MD"
         ],
         "company_url": "https://simplify.jobs/c/University-Of-Maryland-College-Park",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Schweitzer Engineering Laboratories",
-        "id": "36bf56bc-91ab-43fb-b4c7-9b7121c5f350",
-        "title": "Embedded Firmware Engineer - Embedded Systems",
-        "active": false,
-        "date_updated": 1762446141,
-        "date_posted": 1754068187,
-        "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Embedded-Firmware-Engineer_2024-15456",
-        "locations": [
-            "Moscow, ID"
-        ],
-        "company_url": "https://simplify.jobs/c/SEL",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -275231,7 +275195,7 @@
         "company_name": "Sainsbury's",
         "id": "d4e0ba0c-b058-4f5d-991a-33ec090bd8c0",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1774706842,
         "date_posted": 1774706842,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055381",
