@@ -78290,24 +78290,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Goldman Sachs",
-        "id": "bc43991f-4c29-44ec-af50-7ae5af9ba063",
-        "title": "New Analyst - Engineering",
-        "active": false,
-        "date_updated": 1762909276,
-        "date_posted": 1754076873,
-        "url": "https://higher.gs.com/roles/150865?type=students",
-        "locations": [
-            "Birmingham, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Goldman-Sachs",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "University of Maryland - College Park",
         "id": "67fec74f-0d94-461b-9093-68193c0e9285",
@@ -245935,7 +245917,7 @@
         "company_name": "Sainsbury's",
         "id": "d8cb8eb0-d22a-4175-874e-513a1c6c50ca",
         "title": "Trading Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1773151825,
         "date_posted": 1773151825,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052642",
@@ -262833,7 +262815,7 @@
         "company_name": "Sainsbury's",
         "id": "607283bb-8609-49b1-b80a-a9b514dde9dc",
         "title": "Trading Assistant - Shift",
-        "active": false,
+        "active": true,
         "date_updated": 1773969282,
         "date_posted": 1773969282,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053615",
