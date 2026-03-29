@@ -78976,42 +78976,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Da Vinci",
-        "id": "96187f79-39c8-4510-8fb5-0c4835cab238",
-        "title": "Graduate Quant",
-        "active": false,
-        "date_updated": 1763114402,
-        "date_posted": 1754031421,
-        "url": "https://job-boards.eu.greenhouse.io/davinciderivatives/jobs/4241558101",
-        "locations": [
-            "Miami, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Da-Vinci",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Da Vinci",
-        "id": "1a1ea196-40dc-4c27-b754-23f28270e836",
-        "title": "Graduate C++ Software Engineer",
-        "active": false,
-        "date_updated": 1754031403,
-        "date_posted": 1754031403,
-        "url": "https://job-boards.eu.greenhouse.io/davinciderivatives/jobs/4245633101",
-        "locations": [
-            "Miami, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Da-Vinci",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Surefire Cyber",
         "id": "19dbf198-5725-453b-97ec-db9bd1ca7cdf",
@@ -269784,7 +269748,7 @@
         "company_name": "RTX",
         "id": "8ffc45ff-9c31-49ad-b88a-3f10193be075",
         "title": "Fulltime Systems Engineer 1 - Modeling and Simulation Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1774393253,
         "date_posted": 1774393253,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/XMLNAME-2026-Fulltime-Systems-Engineer-I--Modeling-and-Simulation-Developer---Onsite_01832515",
