@@ -252004,7 +252004,7 @@
         "company_name": "T-Mobile",
         "id": "792ce2f5-355a-40ca-9c7b-391b993eca0b",
         "title": "Software Engineer - Fullstack",
-        "active": false,
+        "active": true,
         "date_updated": 1773354754,
         "date_posted": 1773354754,
         "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Philadelphia-Pennsylvania/Software-Engineer--Fullstack_REQ348013-1",
@@ -265915,7 +265915,7 @@
         "company_name": "Sainsbury's",
         "id": "57134b4f-9873-4e3a-9ce5-36b44d1e4b8e",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1774228429,
         "date_posted": 1774228429,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054627",
@@ -276285,5 +276285,154 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Legend Biotech",
+        "id": "33c8eb66-1d02-420e-bd7c-9a37f941c88e",
+        "title": "Associate AI/ML Engineer",
+        "active": true,
+        "date_updated": 1774747428,
+        "date_posted": 1774650030,
+        "url": "https://job-boards.greenhouse.io/legendcareers/jobs/4678481005",
+        "locations": [
+            "Somerset County, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Legend-Biotech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "StubHub",
+        "id": "ab7f6567-e7a7-4d94-ac46-6fde441699e3",
+        "title": "Software Engineer 1 - New Grad",
+        "active": true,
+        "date_updated": 1774746965,
+        "date_posted": 1774660643,
+        "url": "https://job-boards.eu.greenhouse.io/stubhubinc/jobs/4825411101",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/StubHub",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Western Digital",
+        "id": "73252d47-cf23-400a-811d-a6277d35a113",
+        "title": "Electronics Design Engineer",
+        "active": true,
+        "date_updated": 1774746669,
+        "date_posted": 1774691913,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000117397027",
+        "locations": [
+            "Rochester, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Digital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "a833a305-541e-4356-8d2d-5f10684d30f4",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1774735650,
+        "date_posted": 1774735650,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055410",
+        "locations": [
+            "United Kingdom"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "8c8e2378-4506-4422-b80b-4684a4a65d4c",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1774735651,
+        "date_posted": 1774735651,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055418",
+        "locations": [
+            "Ashford District, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "53235a1c-4d99-4294-aee2-0ff5a491b964",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1774735649,
+        "date_posted": 1774735649,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054971",
+        "locations": [
+            "Stockbridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "47555e71-4ca4-4819-bd67-8d8876f900dc",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1774735650,
+        "date_posted": 1774735650,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055346",
+        "locations": [
+            "Manchester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "4077c351-0081-4632-98a8-37e5aae13e55",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1774735650,
+        "date_posted": 1774735650,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055440",
+        "locations": [
+            "Edinburgh, UK",
+            "Midlothian, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
