@@ -95939,7 +95939,7 @@
         "company_name": "Amentum",
         "id": "2ec98c73-9ec9-4d2d-8dc6-67309ced6e65",
         "title": "Entry Level Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1763970954,
         "date_posted": 1763773319,
         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Fredericksburg/Entry-Level-Software-Engineer-1_R0149307",
@@ -276027,7 +276027,7 @@
         "company_name": "Centene",
         "id": "9d7be4b4-d4bd-4382-9110-7e9270280ddb",
         "title": "IT Data Analyst 2",
-        "active": true,
+        "active": false,
         "date_updated": 1774732802,
         "date_posted": 1774648995,
         "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/IT-Data-Analyst-II_1635005",
@@ -276591,5 +276591,23 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "9e392ead-ec5d-416e-add5-868387658efe",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1774735650,
+        "date_posted": 1774735650,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055401",
+        "locations": [
+            "United Kingdom"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
