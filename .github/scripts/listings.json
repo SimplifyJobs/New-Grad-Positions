@@ -100321,7 +100321,7 @@
         "company_name": "University of Texas - Austin",
         "id": "13b7c776-b6dc-4c75-98d1-5e69dc3770bf",
         "title": "Postdoctoral Fellow - Transmission Electron Microscopy",
-        "active": false,
+        "active": true,
         "date_updated": 1764208295,
         "date_posted": 1764208295,
         "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Postdoctoral-Fellow---Transmission-Electron-Microscopy--Texas-Materials-Institute--Cockrell-School-of-Engineering_R_00043435",
@@ -209122,7 +209122,7 @@
         "company_name": "Creation Technologies",
         "id": "d63eedf5-8718-4b0b-80b2-b59131b25b5b",
         "title": "Product Data Management - Pdm - Specialist 1",
-        "active": false,
+        "active": true,
         "date_updated": 1771456897,
         "date_posted": 1771456897,
         "url": "https://creationtech.wd1.myworkdayjobs.com/Creation/job/Newark-NY-USA/Product-Data-Management--PDM--Specialist-1_JR6200",
@@ -276145,5 +276145,85 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Micron Technology",
+        "id": "e5d5daf6-bb3f-4534-aaef-7b1a18c5f7d6",
+        "title": "New College Grad - Semiconductor Verification Design Engineer - DRAM Products Group",
+        "active": true,
+        "date_updated": 1774693983,
+        "date_posted": 1774693983,
+        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Semiconductor-Verification-Design-Engineer--DRAM-Products-Group_JR89932-1",
+        "locations": [
+            "Boise, ID"
+        ],
+        "company_url": "https://simplify.jobs/c/Micron-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Western Digital",
+        "id": "8da97b87-8bcc-4856-8ba6-31aaa05aa1fd",
+        "title": "Media Tribology Design Engineer",
+        "active": true,
+        "date_updated": 1774810051,
+        "date_posted": 1774810051,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000117395868",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Digital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Google",
+        "id": "5f51d8c0-103f-4915-ba6d-fcfa5a4fc099",
+        "title": "Product Manager 1 - Youtube Discovery",
+        "active": true,
+        "date_updated": 1774809966,
+        "date_posted": 1774649248,
+        "url": "https://www.google.com/about/careers/applications/jobs/results/136226081504928454",
+        "locations": [
+            "San Bruno, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Google",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Susquehanna International Group (SIG)",
+        "id": "fdc3cd2a-7252-4a0a-9875-230e758dcf8e",
+        "title": "Software Developer",
+        "active": true,
+        "date_updated": 1774563083,
+        "date_posted": 1774563083,
+        "url": "https://careers-sig.icims.com/jobs/10687/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Ardmore, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Susquehanna",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
