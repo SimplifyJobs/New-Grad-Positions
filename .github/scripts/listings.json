@@ -259176,7 +259176,7 @@
         "company_name": "Sainsbury's",
         "id": "30ffbf96-b196-48bd-8dca-0d665044694f",
         "title": "Trading Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1773843495,
         "date_posted": 1773843495,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053952",
@@ -265025,7 +265025,7 @@
         "company_name": "Sainsbury's",
         "id": "effdab1e-b9fa-4cfc-8031-e0395d4fd64e",
         "title": "Trading Assistant - Shift",
-        "active": false,
+        "active": true,
         "date_updated": 1774228720,
         "date_posted": 1774228720,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054124",
@@ -274484,7 +274484,7 @@
         "company_name": "Sainsbury's",
         "id": "5099665f-dfb8-4fe6-945c-6b36711d3087",
         "title": "Trading Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1774620469,
         "date_posted": 1774620469,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055242",
@@ -274502,7 +274502,7 @@
         "company_name": "Sainsbury's",
         "id": "23e12c99-ea9d-476f-995a-121799ac3bcf",
         "title": "Trading Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1774620460,
         "date_posted": 1774620460,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055243",
@@ -277033,6 +277033,26 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Universal-Music-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Booz Allen",
+        "id": "4d360504-167e-473c-a651-b02217d50d8d",
+        "title": "Full Stack Developer",
+        "active": true,
+        "date_updated": 1771689839,
+        "date_posted": 1771689839,
+        "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Full-Stack-Developer_R0232574",
+        "locations": [
+            "McLean, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Booz-Allen",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
