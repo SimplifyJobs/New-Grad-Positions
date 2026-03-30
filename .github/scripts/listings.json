@@ -228419,7 +228419,7 @@
         "company_name": "USM Business Systems",
         "id": "202cd0ed-732e-427c-b193-8ebca0bfa6a1",
         "title": "Pega LSA Certified Resources",
-        "active": false,
+        "active": true,
         "date_updated": 1772205285,
         "date_posted": 1772205285,
         "url": "https://jobs.smartrecruiters.com/USM2/107007927",
@@ -261971,7 +261971,7 @@
         "company_name": "Moog ",
         "id": "167dc303-a1d2-4069-8a78-ccfe30fa6bad",
         "title": "Electronic Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1773958250,
         "date_posted": 1773958250,
         "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Blacksburg-VA/Electronic-Technician_R-26-16787",
@@ -276878,6 +276878,69 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GE Aerospace",
+        "id": "670550fc-9d27-4cfa-a143-df25ba650dff",
+        "title": "Edison Engineering Development Program - Systems - Computer Engineering/Science",
+        "active": true,
+        "date_updated": 1774850893,
+        "date_posted": 1774850893,
+        "url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Grand-Rapids/Edison-Engineering-Development-Program--EEDP--Systems---Computer-Engineering-Science---US---2027-Start_R5031091-1",
+        "locations": [
+            "Dayton, OH",
+            "Grand Rapids, MI",
+            "Clearwater, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Aerospace",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "3e1aabb3-f5a5-4445-87e1-974d15bee848",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1774850832,
+        "date_posted": 1774850832,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055544",
+        "locations": [
+            "Northamptonshire, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GE Aerospace",
+        "id": "3b47c328-0176-431a-949d-2f90f9911595",
+        "title": "Edison Engineering Development Program - Engines - Computer Engineering/Science",
+        "active": true,
+        "date_updated": 1774850893,
+        "date_posted": 1774850893,
+        "url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Edison-Engineering-Development-Program--EEDP--Engines---Computer-Engineering-Science---US---2026-Start_R5031077-1",
+        "locations": [
+            "Sharonville, OH",
+            "Saugus, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Aerospace",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
