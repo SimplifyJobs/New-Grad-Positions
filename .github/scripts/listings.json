@@ -185698,7 +185698,7 @@
         "company_name": "Stryker",
         "id": "30ab6682-d44f-4222-a68a-590ad9dbf142",
         "title": "Data Engineer - Post Market",
-        "active": true,
+        "active": false,
         "date_updated": 1770162568,
         "date_posted": 1770162568,
         "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fremont-California/Data-Engineer---Post-Market_R558424",
@@ -216570,7 +216570,7 @@
         "company_name": "Western Digital",
         "id": "d67111a5-b512-4a35-8faf-14a21a90e86d",
         "title": "Early Career Talent - Software Development Engineer - Firmware",
-        "active": false,
+        "active": true,
         "date_updated": 1771744161,
         "date_posted": 1771744161,
         "url": "https://jobs.smartrecruiters.com/WesternDigital/744000110544034",
@@ -259579,7 +259579,7 @@
         "company_name": "JP Morgan Chase",
         "id": "e779e33e-72b9-4f4f-92b1-1c85c363be83",
         "title": "Trading Services Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1773872387,
         "date_posted": 1773872387,
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210725466",
@@ -268269,7 +268269,7 @@
         "company_name": "Amentum",
         "id": "c316ec8a-c6a2-4804-853d-0d00a43255fe",
         "title": "Junior Hardware Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1774392487,
         "date_posted": 1774392487,
         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-CA-Vandenberg-AFB/Hardware-Analyst-Junior_R0157217",
@@ -269008,7 +269008,7 @@
         "company_name": "Northrop Grumman",
         "id": "108143ef-7734-41aa-b0a2-da98227c67bf",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1774393216,
         "date_posted": 1774393216,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Beavercreek/Software-Engineer--AHT-_R10227138",
@@ -273253,7 +273253,7 @@
         "company_name": "Mark43",
         "id": "ce9eeaf3-1631-4e66-a4d1-3452f0844f41",
         "title": "Associate Data Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1774564528,
         "date_posted": 1774564528,
         "url": "https://mark43.com/list-job/7760111?gh_jid=7760111",
@@ -273916,7 +273916,7 @@
         "company_name": "RTX",
         "id": "b25fa423-15c3-4e8f-aa1d-499ceb463b10",
         "title": "Fulltime Digital Design Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1774586844,
         "date_posted": 1774574588,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/XMLNAME-2026--Fulltime--Digital-Design-Engineer-I---Onsite-_01812416",
@@ -274692,7 +274692,7 @@
         "company_name": "Western Digital",
         "id": "18556f8b-9906-4f4f-8e01-a0f2ba5c7a9a",
         "title": "Software Development Engineer - Firmware",
-        "active": true,
+        "active": false,
         "date_updated": 1774649008,
         "date_posted": 1774649008,
         "url": "https://jobs.smartrecruiters.com/WesternDigital/744000117396755",
@@ -277135,5 +277135,210 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "74e98156-ffe4-41db-860a-6e632ad60338",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1774880461,
+        "date_posted": 1774879753,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055586",
+        "locations": [
+            "Portsmouth, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "6ed54efc-43f0-4a85-96ad-902dcd385c26",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1774880461,
+        "date_posted": 1774879753,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055564",
+        "locations": [
+            "Norwich, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Moog ",
+        "id": "a241a19e-564c-4a37-8705-4d1073b4cab5",
+        "title": "Associate Product Engineer",
+        "active": true,
+        "date_updated": 1774880461,
+        "date_posted": 1774879704,
+        "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Torrance-CA/Associate-Product-Engineer_R-26-16945",
+        "locations": [
+            "Carson, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Moog",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "9e2fad93-7e29-446c-a727-8f2e755cb189",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1774880461,
+        "date_posted": 1774879752,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055582",
+        "locations": [
+            "Warrington, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "476940a4-33d4-4130-aa20-4857a6e9aa38",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1774880461,
+        "date_posted": 1774879753,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055559",
+        "locations": [
+            "Birmingham, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Hitachi",
+        "id": "a82b059f-25f7-42ee-953c-e62333242765",
+        "title": "Software Analyst - Tools and Simulators",
+        "active": true,
+        "date_updated": 1774880461,
+        "date_posted": 1774879485,
+        "url": "https://gtsgbu.wd3.myworkdayjobs.com/Careers/job/Toronto/Software-Analyst---Tools-and-Simulators_R1012216-1",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Hitachi",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "44c3afcb-96b0-4166-840c-db94d56e9a90",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1774880461,
+        "date_posted": 1774879754,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055560",
+        "locations": [
+            "Birmingham, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "1ae458eb-8f03-4328-b144-a3e574594beb",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1774880461,
+        "date_posted": 1774879753,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055587",
+        "locations": [
+            "Portsmouth, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Intel",
+        "id": "faa89cde-7be3-4878-a129-cfb337867b99",
+        "title": "SOC Design Verification Engineer",
+        "active": true,
+        "date_updated": 1774880878,
+        "date_posted": 1774879658,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Virtual-US/SOC-Design-Verification-Engineer_JR0280834",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Unison Infrastructure",
+        "id": "91ef92eb-1006-4e44-876c-19cd894c07d1",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1774880773,
+        "date_posted": 1774879619,
+        "url": "https://jobs.lever.co/unisoninfra/5a2afab0-427a-44a2-bf12-4da8282465fa/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Unison-Infrastructure",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "80000bae-eb5d-4695-b886-f34cf99f6bc7",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1774880461,
+        "date_posted": 1774879752,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054020",
+        "locations": [
+            "Portadown, Craigavon, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
