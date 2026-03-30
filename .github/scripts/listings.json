@@ -276980,5 +276980,23 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "date_updated": 1774862402,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22482",
+        "company_name": "Fortinet",
+        "title": "Associate Software Engineer (AI Agent Developer)",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "Devonav",
+        "id": "1b2f0c70-b45d-421c-ac5e-a9eff5d0fd72",
+        "date_posted": 1774862402,
+        "company_url": "",
+        "is_visible": true
     }
 ]
