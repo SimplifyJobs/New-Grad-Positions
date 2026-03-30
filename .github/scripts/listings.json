@@ -276998,5 +276998,23 @@
         "date_posted": 1774862402,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1774862590,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://www.turningpoint-healthcare.com/careers?gnk=job&gni=8a7885a89d02e553019d1c5d04ba00a1&gns=LinkedIn%2BLimited",
+        "company_name": "TurningPoint Healthcare Solutions",
+        "title": "AI Prompt Designer I",
+        "locations": [
+            "Lake Mary, FL"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "Devonav",
+        "id": "c981fb14-28e9-40df-be47-c84d940ba4bf",
+        "date_posted": 1774862590,
+        "company_url": "",
+        "is_visible": true
     }
 ]
