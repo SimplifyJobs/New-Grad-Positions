@@ -277058,5 +277058,23 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "date_updated": 1774874563,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://staff-emory.icims.com/jobs/162101/ai-scientist-engineer-i--school-of-medicine%2c-bmi-admin/job",
+        "company_name": "Emory University",
+        "title": "AI Scientist/Engineer I",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "d54f3b19-de30-4e0a-a075-7f545910573e",
+        "date_posted": 1774874563,
+        "company_url": "",
+        "is_visible": true
     }
 ]
