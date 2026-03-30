@@ -216570,7 +216570,7 @@
         "company_name": "Western Digital",
         "id": "d67111a5-b512-4a35-8faf-14a21a90e86d",
         "title": "Early Career Talent - Software Development Engineer - Firmware",
-        "active": true,
+        "active": false,
         "date_updated": 1771744161,
         "date_posted": 1771744161,
         "url": "https://jobs.smartrecruiters.com/WesternDigital/744000110544034",
@@ -257316,7 +257316,7 @@
         "company_name": "Cambridge Associates",
         "id": "37cb0e68-984d-408d-ad44-bc43682335c3",
         "title": "Investment Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1773703180,
         "date_posted": 1773703180,
         "url": "https://cambridgeassociates.wd5.myworkdayjobs.com/Cambridge_Associates/job/London/Investment-Analyst--Sustainable---Impact-Investing_JR0000177",
@@ -265025,7 +265025,7 @@
         "company_name": "Sainsbury's",
         "id": "effdab1e-b9fa-4cfc-8031-e0395d4fd64e",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1774228720,
         "date_posted": 1774228720,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054124",
@@ -269277,7 +269277,7 @@
         "company_name": "Northrop Grumman",
         "id": "8fe0b23c-3194-4d7e-8372-219b099e4244",
         "title": "Engineering Technician - Level 2 or Level 3",
-        "active": true,
+        "active": false,
         "date_updated": 1774403973,
         "date_posted": 1774403973,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Kennedy-Space-Center/Engineering-Technician---Level-2-or-Level-3_R10227070",
@@ -272484,7 +272484,7 @@
         "company_name": "Sainsbury's",
         "id": "edd51676-da2e-4481-84e1-5d3be2e54965",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1774534389,
         "date_posted": 1774534389,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055169",
@@ -272954,7 +272954,7 @@
         "company_name": "Sainsbury's",
         "id": "1359fb4e-ca9c-46ea-b0cd-71ee7bf278d1",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1774563157,
         "date_posted": 1774563157,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054565",
@@ -274692,7 +274692,7 @@
         "company_name": "Western Digital",
         "id": "18556f8b-9906-4f4f-8e01-a0f2ba5c7a9a",
         "title": "Software Development Engineer - Firmware",
-        "active": false,
+        "active": true,
         "date_updated": 1774649008,
         "date_posted": 1774649008,
         "url": "https://jobs.smartrecruiters.com/WesternDigital/744000117396755",
@@ -275880,7 +275880,7 @@
         "company_name": "Western Digital",
         "id": "8da97b87-8bcc-4856-8ba6-31aaa05aa1fd",
         "title": "Media Tribology Design Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1774810051,
         "date_posted": 1774810051,
         "url": "https://jobs.smartrecruiters.com/WesternDigital/744000117395868",
@@ -277096,6 +277096,44 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "3eaea7c2-1f49-45e8-a2be-dcd4655120e6",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1774880461,
+        "date_posted": 1774879754,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055605",
+        "locations": [
+            "Brighton, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Ivanti",
+        "id": "45f365a8-aa45-4a7f-b3d3-36c847d42727",
+        "title": "Entry Level Data Analyst",
+        "active": true,
+        "date_updated": 1774879381,
+        "date_posted": 1774879363,
+        "url": "https://job-boards.greenhouse.io/a3c41b8b71eff8c4/jobs/7681918003",
+        "locations": [
+            "South Jordan, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Ivanti",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
