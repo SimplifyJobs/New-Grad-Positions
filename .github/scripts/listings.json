@@ -277076,5 +277076,26 @@
         "date_posted": 1774874563,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "6e09fdff-50d8-4403-aa94-9f3a48ec272a",
+        "title": "Research Scientist Graduate - AI-Native Database Systems - PhD",
+        "active": true,
+        "date_updated": 1762922851,
+        "date_posted": 1761912910,
+        "url": "https://jobs.bytedance.com/en/position/7520736818360436999/detail",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
