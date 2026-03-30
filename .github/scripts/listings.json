@@ -37442,7 +37442,7 @@
         "company_name": "Bridgewater Associates",
         "id": "1e0891ed-c472-419d-86a9-380dd2159ae3",
         "title": "Trading Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1762470472,
         "date_posted": 1762470472,
         "url": "https://job-boards.greenhouse.io/bwaltpostings/jobs/8096635002",
@@ -238626,7 +238626,7 @@
         "company_name": "IDEXX",
         "id": "f6bd529c-7b90-41cd-9373-dd7c662bd89a",
         "title": "Data Onboarding Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1772680108,
         "date_posted": 1772680108,
         "url": "https://idexx.wd1.myworkdayjobs.com/IDEXX/job/London-United-Kingdom/Data-Onboarding-Tech_J-051257",
@@ -267782,7 +267782,7 @@
         "company_name": "Brigham Young University",
         "id": "e9c9ebbb-f8ef-48a8-865e-091d455fbeba",
         "title": "Research Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1774391042,
         "date_posted": 1774391042,
         "url": "https://byu.wd1.myworkdayjobs.com/byu-careers/job/Provo-UT/Research-Assistant--TEMPORARY---part-time-175-hrs-wk-_JR-8648",
@@ -275987,5 +275987,23 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "b020dc8b-9746-463b-9561-723d8f9d1b35",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1774822095,
+        "date_posted": 1774822095,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055541",
+        "locations": [
+            "Crawley, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
