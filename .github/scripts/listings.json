@@ -67472,7 +67472,7 @@
         "company_name": "Analog Devices",
         "id": "bef31a80-be96-48ac-b451-42b07389b2c0",
         "title": "Product Applications Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1761933253,
         "date_posted": 1756280147,
         "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Product-Application-Engineering_R255206-1",
@@ -77871,66 +77871,12 @@
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "ByteDance",
-        "id": "8545b873-d0a2-4b0d-b3b9-fa67811c8f0d",
-        "title": "Student Researcher - Seed LLM Horizon - Async Agent & Proactive Agent",
-        "active": false,
-        "date_updated": 1754104492,
-        "date_posted": 1754104492,
-        "url": "https://jobs.bytedance.com/en/position/7533024844121180434/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "584b2240-edff-4ba8-b1ec-df72cf9635cd",
-        "title": "Student Researcher - Seed LLM - Code Generation",
-        "active": false,
-        "date_updated": 1754104489,
-        "date_posted": 1754104489,
-        "url": "https://jobs.bytedance.com/en/position/7533023925020035336/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
         "id": "1c0ef532-045d-408b-8050-2c81bcbdec3f",
         "title": "Student Researcher - Seed Vision - World Models for Video Generation",
         "active": false,
         "date_updated": 1761908174,
         "date_posted": 1761908174,
         "url": "https://jobs.bytedance.com/en/position/7533025787470874888/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "14f19965-aa67-424b-92a5-f048cefb3a34",
-        "title": "Student Researcher - Seed Vision - Long-Range Video Generation",
-        "active": false,
-        "date_updated": 1754104497,
-        "date_posted": 1754104497,
-        "url": "https://jobs.bytedance.com/en/position/7533027329703282951/detail",
         "locations": [
             "San Jose, CA"
         ],
@@ -257941,7 +257887,7 @@
         "company_name": "Texas A&M University System",
         "id": "0281a477-dfbc-4274-890e-55545d0b6813",
         "title": "Postdoctoral Researcher - Multiple Teams",
-        "active": false,
+        "active": true,
         "date_updated": 1773729130,
         "date_posted": 1773729130,
         "url": "https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/Prairie-View-TX/Postdoctoral-Researcher--PIER---Trustworthy-Artificial-Intelligence--2_R-089885",
@@ -276000,6 +275946,64 @@
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055541",
         "locations": [
             "Crawley, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "SpaceX",
+        "id": "595bfb80-2607-4516-a405-091558ac6697",
+        "title": "Environmental and Materials Compliance Engineer",
+        "active": true,
+        "date_updated": 1774841068,
+        "date_posted": 1774822228,
+        "url": "https://boards.greenhouse.io/spacex/jobs/8484560002",
+        "locations": [
+            "Bastrop, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/SpaceX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Rice University",
+        "id": "55510c87-2d05-49ff-b6b1-5d4b553b0a27",
+        "title": "Postdoctoral Associate - Bioengineering",
+        "active": true,
+        "date_updated": 1774841258,
+        "date_posted": 1774659777,
+        "url": "https://emdz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/5690",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Rice-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "55838092-bb6b-40d9-b169-41ad8e44e207",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1774822095,
+        "date_posted": 1774822095,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055368",
+        "locations": [
+            "Livingston, UK"
         ],
         "company_url": "https://simplify.jobs/c/Sainsburys",
         "is_visible": true,
