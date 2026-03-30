@@ -99120,7 +99120,7 @@
         "company_name": "BlackRock",
         "id": "4cc64155-89e1-4bb0-81d8-f160a23bb633",
         "title": "Associate \u2013 Index Fixed Income Algo Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1764153426,
         "date_posted": 1764153426,
         "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/San-Francisco-CA/Associate--Index-Fixed-Income-Algo-Engineer_R258025-1",
@@ -136015,7 +136015,7 @@
         "company_name": "AT&T",
         "id": "d280566c-d2e8-4e3c-9ccf-8896d56326d9",
         "title": "Engineering Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1766075485,
         "date_posted": 1766075485,
         "url": "https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Columbia-Maryland/Engineering-Technician--Government-_R-93954-1",
@@ -277016,5 +277016,27 @@
         "date_posted": 1774862590,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Universal Music Group",
+        "id": "7c645b11-38e6-4fbd-b5ac-e03146eade38",
+        "title": "Analyst \u2013 Insights & Strategy",
+        "active": true,
+        "date_updated": 1774865701,
+        "date_posted": 1774093133,
+        "url": "https://umusic.wd5.myworkdayjobs.com/en-US/UMGUS/job/Santa-Monica-California/Analyst--Insights---Strategy_UMG-25066",
+        "locations": [
+            "Santa Monica, CA",
+            "Philadelphia, PA",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Universal-Music-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
