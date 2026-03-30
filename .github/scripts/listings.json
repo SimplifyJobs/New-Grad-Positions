@@ -55219,7 +55219,7 @@
         "company_name": "Morgan Stanley",
         "id": "f79fc65f-4fe6-4602-8788-9e7b61ace523",
         "title": "Associate Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1760599622,
         "date_posted": 1760599622,
         "url": "https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Associate-Software-Engineer_PT-JR021580",
@@ -140752,7 +140752,7 @@
         "company_name": "Ciena",
         "id": "072a2f74-68bb-4ef5-ba88-52d5d3e12bc1",
         "title": "Optical Networks Product Verification Engineer \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1767596743,
         "date_posted": 1767596743,
         "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Optical-Networks-Product-Verification-Engineer---New-Grad_R029225",
@@ -164456,7 +164456,7 @@
         "company_name": "Morningstar",
         "id": "6badbd76-501a-490e-b8ef-5ff62f790a39",
         "title": "Quantitative Analyst - New Product Development",
-        "active": false,
+        "active": true,
         "date_updated": 1769030550,
         "date_posted": 1769030550,
         "url": "https://morningstar.wd5.myworkdayjobs.com/Americas/job/London/Quantitative-Analyst--New-Product-Development_REQ-054738-1",
@@ -228419,7 +228419,7 @@
         "company_name": "USM Business Systems",
         "id": "202cd0ed-732e-427c-b193-8ebca0bfa6a1",
         "title": "Pega LSA Certified Resources",
-        "active": true,
+        "active": false,
         "date_updated": 1772205285,
         "date_posted": 1772205285,
         "url": "https://jobs.smartrecruiters.com/USM2/107007927",
@@ -232989,7 +232989,7 @@
         "company_name": "Micron Technology",
         "id": "65798e0f-3405-4ac4-9d6d-eb762d9a6915",
         "title": "New College Grad - Product Development Failure Analysis Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1772496337,
         "date_posted": 1772496337,
         "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Product-Development-Failure-Analysis-Engineer_JR92550",
@@ -242702,7 +242702,7 @@
         "company_name": "Amentum",
         "id": "3a72bba2-57f6-45d5-8cc3-e521a326c6a2",
         "title": "Java or C++ Database Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1772842539,
         "date_posted": 1772842539,
         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Java-or-C---Database-Developer_R0155920",
@@ -257256,7 +257256,7 @@
         "company_name": "Micron Technology",
         "id": "969b614f-867f-44e7-88d3-7cc217554987",
         "title": "DRAM Product Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773702288,
         "date_posted": 1773702288,
         "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/DRAM-Product-Engineer_JR94357",
@@ -261971,7 +261971,7 @@
         "company_name": "Moog ",
         "id": "167dc303-a1d2-4069-8a78-ccfe30fa6bad",
         "title": "Electronic Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1773958250,
         "date_posted": 1773958250,
         "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Blacksburg-VA/Electronic-Technician_R-26-16787",
@@ -265669,7 +265669,7 @@
         "company_name": "Texas A&M University System",
         "id": "05868e2a-1405-4d9a-9270-d8555c7c7343",
         "title": "Software Applications Developer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1774304159,
         "date_posted": 1774304159,
         "url": "https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/Stephenville-TX/CAE-Software-Applications-Developer-I_R-091835",
@@ -266061,7 +266061,7 @@
         "company_name": "Micron Technology",
         "id": "8df2d245-477e-4269-b40d-573251fc0cde",
         "title": "New College Grad - Software Development Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1774307342,
         "date_posted": 1774307342,
         "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Software-Development-Engineer_JR95528",
@@ -269637,7 +269637,7 @@
         "company_name": "Northrop Grumman",
         "id": "02d09ab3-f9ac-4273-9a3c-084eb748d273",
         "title": "Software Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1774427595,
         "date_posted": 1774307148,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Nebraska-Bellevue/Software-Developer--AHT-_R10226987",
@@ -276016,7 +276016,7 @@
         "company_name": "Sainsbury's",
         "id": "fd7fd3d7-8eae-4197-b5c2-1c0702bfd6fc",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1774832906,
         "date_posted": 1774832906,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055543",
@@ -276720,6 +276720,164 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pennsylvania State University",
+        "id": "3d07b9b0-3bff-441e-93e7-287fc7f034ad",
+        "title": "Postdoctoral Researcher - Exoplanet Observations",
+        "active": true,
+        "date_updated": 1774693820,
+        "date_posted": 1774693820,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Researcher---Exoplanet-Observations_REQ_0000070892",
+        "locations": [
+            "State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "JP Morgan Chase",
+        "id": "3b9eae4b-b3bf-439c-b05d-70c6ce13081a",
+        "title": "Product Associate",
+        "active": true,
+        "date_updated": 1774842782,
+        "date_posted": 1774649213,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210729136",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Marsh & McLennan",
+        "id": "2156c2fa-b344-4ebb-9af7-db23e5fd3d1e",
+        "title": "Full-Stack Engineer - Forward Deployed",
+        "active": true,
+        "date_updated": 1774842490,
+        "date_posted": 1774688977,
+        "url": "https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/London---Tower-Place-East/Full-Stack-Engineer--Forward-Deployed----Digital-Client-Experience----Marsh_R_343885-1",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Marsh-McLennan",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Ciena",
+        "id": "cc2f2bd2-7e19-4323-beec-6820260a4c6e",
+        "title": "New Grad Research Scientist Engineer",
+        "active": true,
+        "date_updated": 1774842254,
+        "date_posted": 1774693731,
+        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/New-Grad--Research-Scientist-Engineer_R030469",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Ciena",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Mercury Insurance",
+        "id": "7afaf469-7787-4bcd-8483-ad0fafad358b",
+        "title": "Mercury Ignite AI and Automation Graduate Development Program - Data",
+        "active": true,
+        "date_updated": 1774842943,
+        "date_posted": 1774660023,
+        "url": "https://careers-mercuryinsurance.icims.com/jobs/5986/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Mercury-Insurance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Abbott",
+        "id": "4e2b7ee3-d4b4-416a-b313-1bc3b3573201",
+        "title": "Test Development Engineer",
+        "active": true,
+        "date_updated": 1774693814,
+        "date_posted": 1774693814,
+        "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Sylmar/Test-Development-Engineer_31145955-1",
+        "locations": [
+            "Pacoima, LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Abbott",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "University of Texas at Austin",
+        "id": "41d690ba-a328-481e-87a4-a010f56e469d",
+        "title": "Postdoctoral Fellow",
+        "active": true,
+        "date_updated": 1774842442,
+        "date_posted": 1774689321,
+        "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Postdoctoral-Fellow_R_00009657",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Texas-Austin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Daikin Applied",
+        "id": "801992fe-ac31-4e16-9e50-88bfd694bc33",
+        "title": "Product Engineer",
+        "active": true,
+        "date_updated": 1774649252,
+        "date_posted": 1774649252,
+        "url": "https://daikinapplied.wd1.myworkdayjobs.com/Daikin-Careers/job/Staunton-VA-24402/Product-Engineer_R000396-2",
+        "locations": [
+            "Verona, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Daikin-Applied",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
