@@ -13384,7 +13384,7 @@
         "company_name": "Nextdoor",
         "id": "e03e0a85-11c0-4948-b546-b88e158be2b5",
         "title": "Machine Learning Engineer \u2013 New Grad 2026 - Machine Learning - Nextdoor",
-        "active": false,
+        "active": true,
         "date_updated": 1761836232,
         "date_posted": 1758598153,
         "url": "https://about.nextdoor.com/careers-list/?gh_jid=7264954",
@@ -121157,7 +121157,7 @@
         "company_name": "Ciena",
         "id": "6433928c-553c-4393-9b86-db1b03e1afbe",
         "title": "Wavelogic Firmware Developer \u2013 New Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1765839901,
         "date_posted": 1765839901,
         "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/Wavelogic-Firmware-Developer---New-Grad_R029612",
@@ -193102,7 +193102,7 @@
         "company_name": "Snap",
         "id": "ec986f16-6360-42fc-a3b8-2b31ac65ad50",
         "title": "Embedded Software Engineer - Level 3",
-        "active": false,
+        "active": true,
         "date_updated": 1770420462,
         "date_posted": 1770420462,
         "url": "https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/San-Diego-California/Embedded-Software-Engineer--Level-3_R0044487-1",
@@ -197221,7 +197221,7 @@
         "company_name": "Rogers Behavioral Health",
         "id": "30043d75-d70a-4808-a69c-7c71162b791b",
         "title": "Therapist - PHP/Iop",
-        "active": false,
+        "active": true,
         "date_updated": 1770766948,
         "date_posted": 1770766948,
         "url": "https://rogersbh.wd1.myworkdayjobs.com/rbhcareer/job/Lincoln-Center-Clinic-West-Allis-WI/Therapist---PHP-IOP_R6263",
@@ -231581,7 +231581,7 @@
         "company_name": "Fospha",
         "id": "5e123e1c-484d-4cf0-baa9-20781de7f452",
         "title": "GTM Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1772465799,
         "date_posted": 1769441937,
         "url": "https://job-boards.greenhouse.io/fosphamarketing/jobs/7556215",
@@ -252322,7 +252322,7 @@
         "company_name": "Pima County",
         "id": "a254df12-4f97-40fb-8f6e-97d88e1f1a4e",
         "title": "Data Analyst 1 - Justice Services",
-        "active": false,
+        "active": true,
         "date_updated": 1773385457,
         "date_posted": 1773385457,
         "url": "https://pimacounty.wd5.myworkdayjobs.com/pimacareers/job/Tucson-AZ/Data-Analyst-I---Justice-Services_JR103037",
@@ -256879,7 +256879,7 @@
         "company_name": "University of Texas - Austin",
         "id": "9fd96417-072c-4594-a05c-987479f1de10",
         "title": "Postdoctoral Fellow",
-        "active": false,
+        "active": true,
         "date_updated": 1773698555,
         "date_posted": 1773698555,
         "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Postdoctoral-Fellow_R_00044875",
@@ -257771,7 +257771,7 @@
         "company_name": "Texas A&M University System",
         "id": "ce824613-3baa-41e2-a520-21be64235707",
         "title": "Postdoctoral Researcher",
-        "active": false,
+        "active": true,
         "date_updated": 1773729199,
         "date_posted": 1773729199,
         "url": "https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/Prairie-View-TX/Postdoctoral-Researcher--CREDIT-_R-079402-2",
@@ -258356,7 +258356,7 @@
         "company_name": "RTX",
         "id": "1a343bfc-6ccf-446b-9d43-9d1cc831de52",
         "title": "Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1773787551,
         "date_posted": 1773787551,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineer-I--Onsite-_01829721",
@@ -262537,7 +262537,7 @@
         "company_name": "Airtable",
         "id": "e0cae6a8-af21-444e-8817-34ed9c997b0c",
         "title": "AI Analytics Engineer - Marketing Analytics",
-        "active": true,
+        "active": false,
         "date_updated": 1773969327,
         "date_posted": 1773969327,
         "url": "https://job-boards.greenhouse.io/airtable/jobs/8434307002",
@@ -268392,7 +268392,7 @@
         "company_name": "Qualifacts",
         "id": "e09cca38-900b-450a-abac-86fd3fd6fc83",
         "title": "Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1774391791,
         "date_posted": 1774391791,
         "url": "https://qualifacts.wd5.myworkdayjobs.com/Qualifacts_External_Careers/job/Toronto/Software-Engineer-I_R-102380",
@@ -268908,7 +268908,7 @@
         "company_name": "RTX",
         "id": "968c966b-cf66-4849-891d-20e969868020",
         "title": "Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1774393228,
         "date_posted": 1774393228,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Software-Engineer-I--Onsite-_01830002",
@@ -276009,5 +276009,207 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "fd7fd3d7-8eae-4197-b5c2-1c0702bfd6fc",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1774832906,
+        "date_posted": 1774832906,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055543",
+        "locations": [
+            "Leicester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "da6533e1-6645-4661-9f2e-ea6f70281500",
+        "title": "Systems Engineer 1",
+        "active": true,
+        "date_updated": 1774842137,
+        "date_posted": 1774693510,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/XMLNAME-2026-Systems-Engineer-I---Onsite---El-Segundo--CA_01828981",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Amentum",
+        "id": "7220a39d-8748-47cb-9c17-aadfdf525485",
+        "title": "Instrumentation Operator Repairer - Communications - Data",
+        "active": true,
+        "date_updated": 1774693829,
+        "date_posted": 1774693829,
+        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-FL-Canaveral/Instrumentation-Operator-Repairer---Communications--Data-_R0152707",
+        "locations": [
+            "Cape Canaveral, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Amentum",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Western Digital",
+        "id": "d7b13cff-dee8-46e9-9bcf-cf2d81b6f2d2",
+        "title": "Drive Integration Engineer",
+        "active": true,
+        "date_updated": 1774649008,
+        "date_posted": 1774649008,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000117397147",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Digital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Comcast",
+        "id": "0dcd99ba-f41a-4543-bec3-df071557f3f2",
+        "title": "Support Engineer",
+        "active": true,
+        "date_updated": 1774649286,
+        "date_posted": 1774649286,
+        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/NY---New-York-1407-Broadway-Floor-12/Support-Engineer---FreeWheel----11-7pm-EST-_R431086",
+        "locations": [
+            "Reston, VA",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Comcast",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Abbott",
+        "id": "c8f18450-08af-4675-8588-867fdc58840a",
+        "title": "Test Development Engineer",
+        "active": true,
+        "date_updated": 1774660169,
+        "date_posted": 1774660169,
+        "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---California---Sylmar/Test-Development-Engineer_31145955",
+        "locations": [
+            "Pacoima, LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Abbott",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Latitude AI",
+        "id": "bc2e2d15-1bb1-4c44-8df2-d0e618e8106d",
+        "title": "GIS Production Analyst",
+        "active": true,
+        "date_updated": 1774822780,
+        "date_posted": 1774822780,
+        "url": "https://job-boards.greenhouse.io/latitude/jobs/7764865",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/LatitudeAI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Micron Technology",
+        "id": "565de239-dee1-4b01-882b-6f8c46e11afb",
+        "title": "Senior Software Development Engineer",
+        "active": true,
+        "date_updated": 1774520854,
+        "date_posted": 1774480415,
+        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Engineer--IT-MFG---TPG_JR95009",
+        "locations": [
+            "Boise, ID"
+        ],
+        "company_url": "https://simplify.jobs/c/Micron-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "TikTok",
+        "id": "db493703-64fb-4667-b168-8669d472e24e",
+        "title": "Brand Ads Product Manager - Creative and Brand Innovation",
+        "active": true,
+        "date_updated": 1774841158,
+        "date_posted": 1772435739,
+        "url": "https://lifeattiktok.com/search/7538943251353553160",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Silna Health",
+        "id": "bb6a6cbd-7b72-4c2b-8b3a-734cd83e9c78",
+        "title": "AI Deployment Analyst",
+        "active": true,
+        "date_updated": 1770074412,
+        "date_posted": 1770074412,
+        "url": "https://jobs.ashbyhq.com/silnahealth.com/58ebdea4-25e6-443c-ab26-dff2e21ba9f0/application",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Silna-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
