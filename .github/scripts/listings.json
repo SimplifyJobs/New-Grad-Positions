@@ -276960,5 +276960,25 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Booz Allen",
+        "id": "f8fbb94a-11c8-4808-ab10-498295d9e157",
+        "title": "Data Scientist",
+        "active": true,
+        "date_updated": 1773269866,
+        "date_posted": 1773269866,
+        "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Monterey-CA/Data-Scientist_R0235523",
+        "locations": [
+            "Monterey, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Booz-Allen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
