@@ -278174,5 +278174,23 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "date_updated": 1774934795,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://job-boards.greenhouse.io/scoutai/jobs/4643333008",
+        "company_name": "Scout AI",
+        "title": "Junior Firmware Engineer",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "723295b5-251b-44de-8933-5939d249aae2",
+        "date_posted": 1774934795,
+        "company_url": "",
+        "is_visible": true
     }
 ]
