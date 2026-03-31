@@ -9317,7 +9317,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>7mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Oracle?utm_source=GHList&utm_medium=company">🔥 Oracle</a></strong></td>
+<td>↳</td>
 <td>Undergrad Software Engineer - Oracle Cloud Infrastructure (OCI) 🛂</td>
 <td>Nashville, TN</td>
 <td>🔒</td>
@@ -15558,7 +15558,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Information Security Engineer I</td>
 <td>Remote in USA</td>
 <td>🔒</td>
-<td>6mo</td>
+<td>7mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Viavi-Solutions?utm_source=GHList&utm_medium=company">Viavi Solutions</a></strong></td>
