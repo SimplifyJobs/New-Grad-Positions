@@ -36125,7 +36125,7 @@
         "company_name": "Robert Bosch Venture Capital",
         "id": "690caaed-b4ea-4781-8be9-4791871640d5",
         "title": "Graduate Placement - Product Engineering - Months 2025 Placement",
-        "active": true,
+        "active": false,
         "date_updated": 1762536322,
         "date_posted": 1762536322,
         "url": "https://jobs.smartrecruiters.com/BoschGroup/744000089046325",
@@ -74267,7 +74267,7 @@
         "company_name": "AG Technologies",
         "id": "a4e9a3d5-458c-47fa-9423-f9cb7313b8c5",
         "title": "Salesforce OBIEE ETL Training and Placement",
-        "active": true,
+        "active": false,
         "date_updated": 1762910536,
         "date_posted": 1754995250,
         "url": "https://jobs.smartrecruiters.com/AGTechnologies1/104232823",
@@ -212700,7 +212700,7 @@
         "company_name": "Collabera",
         "id": "d4ad8cbd-fb31-4247-8378-42a86fb9622b",
         "title": "Front-end Software Designer",
-        "active": true,
+        "active": false,
         "date_updated": 1771571956,
         "date_posted": 1771571956,
         "url": "https://jobs.smartrecruiters.com/Collabera2/91727276",
@@ -212850,7 +212850,7 @@
         "company_name": "Collabera",
         "id": "27509ea7-2e69-4ba3-a39c-9a2c60b239cf",
         "title": "Software Developer - Java",
-        "active": true,
+        "active": false,
         "date_updated": 1771571982,
         "date_posted": 1771571982,
         "url": "https://jobs.smartrecruiters.com/Collabera2/89098842",
@@ -278723,5 +278723,66 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Career Guidant",
+        "id": "d2f2d820-b9ed-43d7-81be-81b881a00689",
+        "title": "Kofax Developer",
+        "active": true,
+        "date_updated": 1774949401,
+        "date_posted": 1771571512,
+        "url": "https://jobs.smartrecruiters.com/CareerGuidant/108467613",
+        "locations": [
+            "Minneapolis, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Career-Guidant",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "BCforward",
+        "id": "1fcdfa06-edd1-4eac-80b6-66d6edfed3f1",
+        "title": "Designer/Drafter",
+        "active": true,
+        "date_updated": 1774951276,
+        "date_posted": 1771484668,
+        "url": "https://jobs.smartrecruiters.com/BCforward3/99893919",
+        "locations": [
+            "Roanoke, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/BCforward",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AG Technologies",
+        "id": "a7f9b279-19f7-4863-9a88-ee25ccf54846",
+        "title": "Sharepoint Openings",
+        "active": true,
+        "date_updated": 1774953001,
+        "date_posted": 1755045768,
+        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/95502452",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/AG-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
