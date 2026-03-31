@@ -234124,7 +234124,7 @@
         "company_name": "BlackRock",
         "id": "929c4bca-4aec-4160-98ae-d31bafdaeb4d",
         "title": "Product Manager ETF - Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1772552213,
         "date_posted": 1772552213,
         "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/London-Greater-London/Product-Manager-ETF--Associate_R261173",
@@ -235686,7 +235686,7 @@
         "company_name": "The University of Edinburgh",
         "id": "5c1d498b-a55f-4aa4-adf4-638f6c7a6157",
         "title": "Postdoctoral Research Associate - Geological CO2 Storage",
-        "active": true,
+        "active": false,
         "date_updated": 1772617134,
         "date_posted": 1772493527,
         "url": "https://elxw.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/13863",
@@ -260498,7 +260498,7 @@
         "company_name": "Johnson Controls",
         "id": "f88340ea-b30d-4da0-a530-8209167bff94",
         "title": "Electrical Designer",
-        "active": true,
+        "active": false,
         "date_updated": 1773875210,
         "date_posted": 1773875210,
         "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/New-Freedom-Pennsylvania-United-States-of-America/Electrical-Designer_WD30263444",
@@ -271857,7 +271857,7 @@
         "company_name": "Sainsbury's",
         "id": "b23e526d-5a98-4935-a185-67a0a4742218",
         "title": "Trading Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1774505247,
         "date_posted": 1774505247,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055112",
@@ -273108,7 +273108,7 @@
         "company_name": "Corewell Health",
         "id": "bb9a3183-23a7-409a-a8a3-413569897754",
         "title": "Oncology Data Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1774565389,
         "date_posted": 1774565389,
         "url": "https://spectrumhealth.wd5.myworkdayjobs.com/CorewellHealthCareers/job/Royal-Oak-MI/Oncology-Data-Analyst_R196736",
@@ -278134,6 +278134,88 @@
         "degrees": [
             "Bachelor's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "NVIDIA",
+        "id": "cdac9585-1420-4450-ba80-1bdf21973134",
+        "title": "AI Chip Design Engineer \u2013 New College Grad",
+        "active": true,
+        "date_updated": 1774919900,
+        "date_posted": 1774919168,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Chip-Design-Engineer---New-College-Grad-2026_JR2015481",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Lawrence Berkeley National Laboratory",
+        "id": "abc7d36a-19fc-41eb-9db3-1898aeb501ed",
+        "title": "Postdoctoral Scholar",
+        "active": true,
+        "date_updated": 1774919521,
+        "date_posted": 1774919336,
+        "url": "https://lbl.taleo.net/careersection/5/jobdetail.ftl?job=106272",
+        "locations": [
+            "Berkeley, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Lawrence-Berkeley-National-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "714f26ab-28dd-4f39-8b84-f3869099f68f",
+        "title": "Vision Language Models/Vision Language Models Research Scientist Graduate - Trust and Safety - PhD",
+        "active": true,
+        "date_updated": 1774919992,
+        "date_posted": 1774919590,
+        "url": "https://lifeattiktok.com/search/7594895259798325557",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Western Digital",
+        "id": "47f61955-2e98-438a-a30f-f7a35eec1e9f",
+        "title": "Software Development Engineer - Firmware",
+        "active": true,
+        "date_updated": 1774919521,
+        "date_posted": 1774919053,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000117756527",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Digital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
