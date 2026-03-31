@@ -121333,7 +121333,7 @@
         "company_name": "Essen Health Care",
         "id": "6d38c3bb-9449-4944-8e2a-ed7589173758",
         "title": "Healthcare Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1765841381,
         "date_posted": 1761873621,
         "url": "https://careers-essenmed.icims.com/jobs/2039/job?mobile=true&needsRedirect=false",
@@ -210339,7 +210339,7 @@
         "company_name": "Ask IT Consulting",
         "id": "5e788858-b3db-4305-88ee-d91e583a9d7a",
         "title": "Software Design Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1771485153,
         "date_posted": 1771485153,
         "url": "https://jobs.smartrecruiters.com/AskITConsulting/103476528",
@@ -212868,7 +212868,7 @@
         "company_name": "Comtech",
         "id": "c75be3ad-129e-4754-a1cd-4d7b467e9940",
         "title": "O&M Application Middleware Administrator",
-        "active": true,
+        "active": false,
         "date_updated": 1771571720,
         "date_posted": 1771571720,
         "url": "https://jobs.smartrecruiters.com/ComtechLLC2/104094947",
@@ -217045,7 +217045,7 @@
         "company_name": "Enviri",
         "id": "278554f9-f89b-45bf-8154-6a9c3aded850",
         "title": "Database Administrator - S&C - Maternity Cover",
-        "active": true,
+        "active": false,
         "date_updated": 1771830197,
         "date_posted": 1771830197,
         "url": "https://jobs.smartrecruiters.com/EnviriCorporation/744000109512820",
@@ -223019,7 +223019,7 @@
         "company_name": "Eurofins",
         "id": "0ba3a5bf-1d6a-44d9-ba8e-0c7242be56c9",
         "title": "Electrical Factory Inspector - Remote/Travel",
-        "active": true,
+        "active": false,
         "date_updated": 1771974710,
         "date_posted": 1771974710,
         "url": "https://jobs.smartrecruiters.com/Eurofins/744000111115139",
@@ -230888,7 +230888,7 @@
         "company_name": "vTech Solution",
         "id": "cbeb7ddb-e921-4ff3-8cff-b87082835025",
         "title": "PeopleSoft HCM Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1772417419,
         "date_posted": 1772417419,
         "url": "https://jobs.smartrecruiters.com/VTechSolution1/743999652171337",
@@ -234232,7 +234232,7 @@
         "company_name": "Qualitest",
         "id": "c6e69357-8396-4f38-b67e-0a25c1b6b6b7",
         "title": "Technical Data Collection Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1772580083,
         "date_posted": 1772580083,
         "url": "https://careers.qualitestgroup.com/job/Santa-Clara-Technical-Data-Collection-Associate-CA-95054/53395444/?ats=successfactors",
@@ -279620,6 +279620,269 @@
         "degrees": [
             "Associate's",
             "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "USM Business Systems",
+        "id": "e3113b3d-cffc-4c01-b668-b23654392f50",
+        "title": "Drupal Developer - Need GC and USC",
+        "active": true,
+        "date_updated": 1774981261,
+        "date_posted": 1772205314,
+        "url": "https://jobs.smartrecruiters.com/USM2/101353046",
+        "locations": [
+            "Westminster, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/USM-Business-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "System Canada Technologies",
+        "id": "d53eee07-0e15-482c-8a9b-e7be5a9deb57",
+        "title": "iOS Mobile Developer",
+        "active": true,
+        "date_updated": 1774983253,
+        "date_posted": 1772175980,
+        "url": "https://jobs.smartrecruiters.com/systemCanadaTechnologies/1388781",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/System-Canada-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jobsbridge",
+        "id": "b50f3b09-ff7a-47d1-9a5e-b267a3ad2a8d",
+        "title": "Software Development Engineer",
+        "active": true,
+        "date_updated": 1774962361,
+        "date_posted": 1771917622,
+        "url": "https://jobs.smartrecruiters.com/Jobsbridge1/88585547",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Jobsbridge",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "KRG Technologies",
+        "id": "2957da71-4d22-4539-8149-5546d9882f1a",
+        "title": "Lab Technician",
+        "active": true,
+        "date_updated": 1774962361,
+        "date_posted": 1771917378,
+        "url": "https://jobs.smartrecruiters.com/KrgTechnologyInc/743999657712130",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/KRG-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Collabera",
+        "id": "c89604ee-3e0a-46d5-98ac-d7c3163da525",
+        "title": "Validation and Verification Engineer",
+        "active": true,
+        "date_updated": 1774962181,
+        "date_posted": 1771571962,
+        "url": "https://jobs.smartrecruiters.com/Collabera2/91794700",
+        "locations": [
+            "Madison, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Collabera",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Collabera",
+        "id": "64807aab-b8a3-4f39-8498-aa73bf38f77e",
+        "title": "Entry Level Engineer",
+        "active": true,
+        "date_updated": 1774962181,
+        "date_posted": 1771572010,
+        "url": "https://jobs.smartrecruiters.com/Collabera2/82343701",
+        "locations": [
+            "Princeton, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Collabera",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Career Guidant",
+        "id": "10f9d77f-0a09-4ca9-94f4-9ab43f6a14f6",
+        "title": "Python Developer",
+        "active": true,
+        "date_updated": 1774960561,
+        "date_posted": 1771571507,
+        "url": "https://jobs.smartrecruiters.com/CareerGuidant/114453803",
+        "locations": [
+            "Princeton, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Career-Guidant",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Atria Group",
+        "id": "7a5fac0f-e672-40c7-943a-87bbd1449a89",
+        "title": "Java Developer - Multiple Teams",
+        "active": true,
+        "date_updated": 1774960561,
+        "date_posted": 1771485193,
+        "url": "https://jobs.smartrecruiters.com/AtriaGroupLLC/84244233",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Atria-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Atria Group",
+        "id": "ae8f2d15-f85c-46a9-aa5c-b8e411e7d840",
+        "title": "Unix Developer",
+        "active": true,
+        "date_updated": 1774960561,
+        "date_posted": 1771485170,
+        "url": "https://jobs.smartrecruiters.com/AtriaGroupLLC/84920753",
+        "locations": [
+            "St. Louis, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Atria-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Ask IT Consulting",
+        "id": "a8ad3e04-98f4-41c1-949d-f0ff017efa48",
+        "title": "GIS Technician",
+        "active": true,
+        "date_updated": 1774949401,
+        "date_posted": 1771485054,
+        "url": "https://jobs.smartrecruiters.com/AskITConsulting/743999655190825",
+        "locations": [
+            "Richmond, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Ask-IT-Consulting",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Atria Group",
+        "id": "64d81724-5464-40f1-84c5-fedb6db9dad1",
+        "title": "Infosphere Developer with Informatica",
+        "active": true,
+        "date_updated": 1774959121,
+        "date_posted": 1771485134,
+        "url": "https://jobs.smartrecruiters.com/AtriaGroupLLC/87606007",
+        "locations": [
+            "Hartford, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/Atria-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Absolute Facility Solutions",
+        "id": "ee3acc1d-ec01-40a7-b496-7855fc2ae28d",
+        "title": "Application Engineer",
+        "active": true,
+        "date_updated": 1774959121,
+        "date_posted": 1771426981,
+        "url": "https://jobs.smartrecruiters.com/AbsoluteFacilitySolutionsLLC/744000093987850",
+        "locations": [
+            "Lakeway, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Absolute-Facility-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AG Technologies",
+        "id": "c48e1a3d-09d5-476f-ba10-06b77a8802ce",
+        "title": "Java Developer",
+        "active": true,
+        "date_updated": 1774953001,
+        "date_posted": 1755194714,
+        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/113046600",
+        "locations": [
+            "Bay Shore, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/AG-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AG Technologies",
+        "id": "0e199a5d-3608-47d3-a12c-d37d2fc83bba",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1774953761,
+        "date_posted": 1755058741,
+        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/108479454",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/AG-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
         ]
     }
 ]
