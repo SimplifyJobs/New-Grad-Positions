@@ -71160,7 +71160,7 @@
         "company_name": "Prosidian Consulting",
         "id": "1d89ddd4-e67a-4ea8-bea4-aff029652d63",
         "title": "Geospatial Web App Developer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1762908899,
         "date_posted": 1755291959,
         "url": "https://jobs.smartrecruiters.com/prosidianconsulting/743999979193873",
@@ -135366,7 +135366,7 @@
         "company_name": "360 IT Professionals",
         "id": "ad12d5c7-519c-4c63-b379-9937ab14e8b8",
         "title": "Salesforce BA",
-        "active": true,
+        "active": false,
         "date_updated": 1761825261,
         "date_posted": 1755292679,
         "url": "https://jobs.smartrecruiters.com/360ITProfessionals1/743999659854838",
@@ -249847,7 +249847,7 @@
         "company_name": "Amazon",
         "id": "43dbbab0-c717-4ffe-8833-d487dbf6d52a",
         "title": "Software Development Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1773306391,
         "date_posted": 1773306391,
         "url": "https://amazon.jobs/en/jobs/3195341/software-development-engineer-i",
@@ -252818,7 +252818,7 @@
         "company_name": "GE Vernova",
         "id": "786f747f-2513-41c8-a221-a75c3c287b87",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773414418,
         "date_posted": 1773414418,
         "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Rugby/Software-Engineer_R5035007",
@@ -277078,7 +277078,7 @@
         "company_name": "Sainsbury's",
         "id": "74e98156-ffe4-41db-860a-6e632ad60338",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1774880461,
         "date_posted": 1774879753,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055586",
@@ -278532,5 +278532,26 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jobsbridge",
+        "id": "757ce436-c079-46f1-abe2-6fc73ff48bab",
+        "title": "Java Engineer",
+        "active": true,
+        "date_updated": 1774947601,
+        "date_posted": 1771917498,
+        "url": "https://jobs.smartrecruiters.com/Jobsbridge1/94275302",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Jobsbridge",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
