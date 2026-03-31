@@ -266452,7 +266452,7 @@
         "company_name": "Micron Technology",
         "id": "a98b821b-1716-49da-ab97-71af1604cca2",
         "title": "New College Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1774307341,
         "date_posted": 1774307341,
         "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---SIG-Building/Embedded-Software-Engineer_JR95855",
@@ -266642,7 +266642,7 @@
         "company_name": "Sainsbury's",
         "id": "95cbc307-2e4b-4a7c-aac5-9ebe462c2d81",
         "title": "Trading Assistant - Shift",
-        "active": false,
+        "active": true,
         "date_updated": 1774315627,
         "date_posted": 1774315627,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054826",
@@ -268691,7 +268691,7 @@
         "company_name": "NVIDIA",
         "id": "9a6a1ffd-6d72-4eeb-8369-6d2b5e9a3162",
         "title": "ASIC Design Efficiency Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1774394202,
         "date_posted": 1774394202,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Design-Efficiency-Engineer_JR1998928",
@@ -271793,7 +271793,7 @@
         "company_name": "Sainsbury's",
         "id": "b23e526d-5a98-4935-a185-67a0a4742218",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1774505247,
         "date_posted": 1774505247,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055112",
@@ -273593,7 +273593,7 @@
         "company_name": "Applied Materials",
         "id": "398d473f-c0d6-4a3b-b159-b94203925ede",
         "title": "Data Analyst \u2013 New College Grad/ Early Career",
-        "active": true,
+        "active": false,
         "date_updated": 1774571050,
         "date_posted": 1774571050,
         "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Data-Analyst--New-College-Grad--Early-Career-_R2616165",
@@ -278033,7 +278033,7 @@
         "company_name": "Sainsbury's",
         "id": "cf3fd712-f834-4d36-bec0-e162dbf51dcd",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1774910701,
         "date_posted": 1774908501,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055678",
@@ -280381,6 +280381,85 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Thermo Fisher Scientific",
+        "id": "ba2211a6-3041-48aa-9111-edebe44105f2",
+        "title": "Field Service Engineer 1 - Asset Management",
+        "active": true,
+        "date_updated": 1774999551,
+        "date_posted": 1774479122,
+        "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/West-Greenwich-Rhode-Island-USA/Field-Service-Engineer-I--Asset-Management-_R-01345001",
+        "locations": [
+            "Rhode Island"
+        ],
+        "company_url": "https://simplify.jobs/c/Thermo-Fisher-Scientific",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Myriad Genetics",
+        "id": "ff15c2bc-1077-41af-8f3d-82ca650e91e2",
+        "title": "Clinical Data Analyst",
+        "active": true,
+        "date_updated": 1774985941,
+        "date_posted": 1774390935,
+        "url": "https://ekgn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/5920",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Myriad-Genetics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Jobs for Humanity",
+        "id": "edd83739-5e69-487e-9312-b2a62a82b91e",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1774985941,
+        "date_posted": 1774304778,
+        "url": "https://jobs.smartrecruiters.com/JobsForHumanity/744000116216738",
+        "locations": [
+            "Manchester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Jobs-For-Humanity",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Lawrence Livermore National Laboratory (LLNL)",
+        "id": "2d79bc73-d115-4852-8db7-1ff1f64b155a",
+        "title": "Machine Learning - Postdoctoral Researcher",
+        "active": true,
+        "date_updated": 1774985941,
+        "date_posted": 1774083837,
+        "url": "https://jobs.smartrecruiters.com/LLNL/3743990012255026",
+        "locations": [
+            "Livermore, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/LLNL",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
         ]
     }
 ]
