@@ -278315,5 +278315,24 @@
         "date_posted": 1774935353,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1774935460,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://careers-lmi.icims.com/jobs/13822/junior-data-scientist---clearance-required/job",
+        "company_name": "LMI",
+        "title": "Junior Data Scientist",
+        "locations": [
+            "El Segundo, CA",
+            "Colorado Springs, CO"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "a5b59195-77c7-4f90-bc82-1d859971b803",
+        "date_posted": 1774935460,
+        "company_url": "",
+        "is_visible": true
     }
 ]
