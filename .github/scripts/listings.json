@@ -191436,7 +191436,7 @@
         "company_name": "Philips",
         "id": "0c9e8f51-8623-4c21-9c85-122bdff54c95",
         "title": "Full Time Field Engineer Program - Field Service Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1770378722,
         "date_posted": 1769644957,
         "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cincinnati-Ohio-United-States/Full-Time---Field-Engineer-Program--Field-Service-Engineer---Cincinnati--OH---July-2026_573773",
@@ -221773,7 +221773,7 @@
         "company_name": "RTX",
         "id": "d4cadf02-5814-42fd-aabb-25a68166bc92",
         "title": "2026 Full-time - Software Engineer I - Onsite- AZ",
-        "active": true,
+        "active": false,
         "date_updated": 1771976129,
         "date_posted": 1771976129,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/XMLNAME-2026-Full-time---Software-Engineer-I---Onsite--AZ-_01826335",
@@ -256895,7 +256895,7 @@
         "company_name": "Ercot",
         "id": "a1ee4d57-9eb7-4bd7-ad72-0f6dc040cc2f",
         "title": "Data Operations Analyst Senior",
-        "active": true,
+        "active": false,
         "date_updated": 1773701514,
         "date_posted": 1773701514,
         "url": "https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Taylor-TX/Data-Operations-Analyst-Sr_R2155",
@@ -264961,7 +264961,7 @@
         "company_name": "Sainsbury's",
         "id": "effdab1e-b9fa-4cfc-8031-e0395d4fd64e",
         "title": "Trading Assistant - Shift",
-        "active": false,
+        "active": true,
         "date_updated": 1774228720,
         "date_posted": 1774228720,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054124",
@@ -268844,7 +268844,7 @@
         "company_name": "RTX",
         "id": "968c966b-cf66-4849-891d-20e969868020",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1774393228,
         "date_posted": 1774393228,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Software-Engineer-I--Onsite-_01830002",
@@ -278371,6 +278371,128 @@
             "Manchester, UK"
         ],
         "company_url": "https://simplify.jobs/c/AJ-Bell",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "American University",
+        "id": "ba4dd248-615f-4baa-ad0a-b3cf77d7c77a",
+        "title": "Research Assistant",
+        "active": true,
+        "date_updated": 1774939991,
+        "date_posted": 1774937141,
+        "url": "https://american.wd1.myworkdayjobs.com/au/job/Main-Campus-Washington-DC/Part-Time-Research-Assistant_R4074",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/American-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Leidos",
+        "id": "5b095740-9bc3-4d65-a179-3023a52944d0",
+        "title": "Mid-level Software Engineer - Transportation/Computer Vision",
+        "active": true,
+        "date_updated": 1774939121,
+        "date_posted": 1774937366,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/McLean-VA/mid-level-Software-Engineer--Transportation-Computer-Vision-_R-00177044-1",
+        "locations": [
+            "McLean, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Allied Solutions",
+        "id": "4e1c7bc6-4806-4bfb-b0dd-4b29ecbff5cb",
+        "title": "Data Integration Analyst 1",
+        "active": true,
+        "date_updated": 1774939987,
+        "date_posted": 1774937368,
+        "url": "https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/Carmel-IN/Data-Integration-Analyst-I_R-010658",
+        "locations": [
+            "Carmel, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Allied-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "White Cap Supply Holdings",
+        "id": "d7015769-eeda-432e-824a-e332e3be00ae",
+        "title": "Application Engineer",
+        "active": true,
+        "date_updated": 1774939861,
+        "date_posted": 1774937360,
+        "url": "https://whitecap.wd1.myworkdayjobs.com/careers/job/Orlando_32822/Application-Engineer_WCJR-031500-1",
+        "locations": [
+            "Orlando, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/White-Cap-Supply-Holdings",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "56df5dae-74b6-4852-b88d-69c3ffa65135",
+        "title": "Software Engineer / Principal Software Engineer",
+        "active": true,
+        "date_updated": 1774940110,
+        "date_posted": 1774937356,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Corinne/Software-Engineer--Principal-Software-Engineer_R10227765",
+        "locations": [
+            "Box Elder County, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SourceDirect Talent",
+        "id": "08c705ca-04ce-417a-8f8b-9a0998c91224",
+        "title": "Senior Full Stack Software Engineer",
+        "active": true,
+        "date_updated": 1774938241,
+        "date_posted": 1772157822,
+        "url": "https://jobs.smartrecruiters.com/SourceDirectTalent/743999890004030",
+        "locations": [
+            "Long Beach, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/SourceDirect-Talent",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
