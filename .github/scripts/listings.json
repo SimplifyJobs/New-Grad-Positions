@@ -213238,7 +213238,7 @@
         "company_name": "Western Digital",
         "id": "9cf6a484-f66b-4638-92a8-c159994f9932",
         "title": "Early Career Talent - Electronics Design Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1771571256,
         "date_posted": 1771571256,
         "url": "https://jobs.smartrecruiters.com/WesternDigital/744000110304414",
@@ -218971,7 +218971,7 @@
         "company_name": "Idealforce",
         "id": "57f9008b-2fc9-49b9-ad13-315d341918c6",
         "title": "Microsoft Access Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1771899160,
         "date_posted": 1771899160,
         "url": "https://jobs.smartrecruiters.com/IDEALFORCELLC/75420374",
@@ -220098,7 +220098,7 @@
         "company_name": "Jobsbridge",
         "id": "b5893c80-32eb-4b0d-a954-eb89a754046f",
         "title": "Junior Java Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1771917643,
         "date_posted": 1771917643,
         "url": "https://jobs.smartrecruiters.com/Jobsbridge1/87384744",
@@ -252798,7 +252798,7 @@
         "company_name": "GE Vernova",
         "id": "8b226ba0-cc69-41a2-aa95-38d782bf4441",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773414428,
         "date_posted": 1773414428,
         "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Rugby/Software-Engineer_R5035016-1",
@@ -279135,5 +279135,105 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Integrated Resources",
+        "id": "a8d05e18-f7fd-4930-9cae-3350e97c2031",
+        "title": "Application Technician",
+        "active": true,
+        "date_updated": 1774962361,
+        "date_posted": 1771917805,
+        "url": "https://jobs.smartrecruiters.com/IntegratedResourcesINC/743999659745413",
+        "locations": [
+            "Elmira, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Integrated-Resources",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Jobs for Humanity",
+        "id": "44bf4a83-cbce-4e89-8303-ebac6d29e983",
+        "title": "AI Content Expert - Artificial General Intelligence",
+        "active": true,
+        "date_updated": 1774962361,
+        "date_posted": 1771917817,
+        "url": "https://jobs.smartrecruiters.com/JobsForHumanity/744000084559925",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Jobs-For-Humanity",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Integrated Resources",
+        "id": "2fc41224-c80d-482f-8683-dceef7b89b48",
+        "title": "Healthcare Analyst",
+        "active": true,
+        "date_updated": 1774962361,
+        "date_posted": 1771917818,
+        "url": "https://jobs.smartrecruiters.com/IntegratedResourcesINC/743999659048066",
+        "locations": [
+            "Birmingham, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Integrated-Resources",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Global Channel Management",
+        "id": "d2921f23-5304-401c-9a61-3f50038cc19e",
+        "title": "Marketing Analyst",
+        "active": true,
+        "date_updated": 1774962361,
+        "date_posted": 1771860164,
+        "url": "https://jobs.smartrecruiters.com/GlobalChannelManagementInc/108947150",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Global-Channel-Management",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "MBA"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Beta Soft Systems",
+        "id": "e18e2316-abd1-4e09-b344-0954d086b293",
+        "title": "Urgent Opening Hiring Entry Level - Multiple Teams",
+        "active": true,
+        "date_updated": 1774960005,
+        "date_posted": 1771484842,
+        "url": "https://jobs.smartrecruiters.com/BetaSoftSystems3/112324552",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Beta-Soft-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
