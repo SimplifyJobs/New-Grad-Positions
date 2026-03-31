@@ -1,53 +1,5 @@
 [
     {
-        "date_updated": 1754190061,
-        "url": "https://lifeattiktok.com/search/7532349111480273159?spread=5MWH5CQ",
-        "company_name": "TikTok",
-        "title": "New Grad 2026: Machine Learning/Research Engineer (Ads Core Global)",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "source": "polinavishnev",
-        "id": "5283fee7-7b86-4cbd-87bc-269618862471",
-        "date_posted": 1754190061,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1754190110,
-        "url": "https://lifeattiktok.com/search/7531158608336242962",
-        "company_name": "TikTok",
-        "title": "New Grad 2026: Machine Learning Engineer (Commerce Ads)",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "source": "Simplify",
-        "id": "99d17b29-1712-4894-b014-8f6179ea9068",
-        "date_posted": 1754190110,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1754190176,
-        "url": "https://lifeattiktok.com/search/7532436539684702471",
-        "company_name": "TikTok",
-        "title": "New Grad 2026: Software Engineer/Mobile Engineer Graduate (Monetization Technology - Ads Core Demonstration)",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "source": "Simplify",
-        "id": "ba57158c-bab5-41fb-9251-5ee05a915d7c",
-        "date_posted": 1754190176,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "source": "Simplify",
         "category": "Software",
         "company_name": "Jerry",
@@ -44161,7 +44113,7 @@
         "company_name": "TikTok",
         "id": "86c8d945-f6ff-4187-a1b9-990c7f206605",
         "title": "Frontend Software Engineer Graduate - Ads Interface and Platform",
-        "active": true,
+        "active": false,
         "date_updated": 1761910959,
         "date_posted": 1761910959,
         "url": "https://lifeattiktok.com/search/7532747012510386440",
