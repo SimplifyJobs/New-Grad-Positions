@@ -208322,7 +208322,7 @@
         "company_name": "JP Morgan Chase",
         "id": "e94d72ce-f87f-4dc8-bc60-f454dd9d26e8",
         "title": "Applied AI ML Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1771427737,
         "date_posted": 1771427737,
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210713238",
@@ -210190,7 +210190,7 @@
         "company_name": "Atria Group",
         "id": "8c724b23-b84c-4c2a-899a-7d67be816fb9",
         "title": "SharePoint Administrator/Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1771485226,
         "date_posted": 1771485226,
         "url": "https://jobs.smartrecruiters.com/AtriaGroupLLC/83605355",
@@ -278586,6 +278586,120 @@
             "San Jose, CA"
         ],
         "company_url": "https://simplify.jobs/c/360-IT-Professionals",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "USM Business Systems",
+        "id": "530a8435-9ad4-4ba8-8b05-2cbc6e7532a9",
+        "title": "Helpdesk Analyst",
+        "active": true,
+        "date_updated": 1774947601,
+        "date_posted": 1772205259,
+        "url": "https://jobs.smartrecruiters.com/USM2/114091526",
+        "locations": [
+            "Baltimore, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/USM-Business-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Randstad",
+        "id": "2f3d16f0-e45d-494d-ba62-8a00817efe6d",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1774947601,
+        "date_posted": 1772090201,
+        "url": "https://jobs.smartrecruiters.com/Randstad4/743999658413488",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Randstad",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Sonsoft",
+        "id": "c0a32068-3f45-418c-ab67-d1a8de1f2a39",
+        "title": "MEAN Stack Lead Developer",
+        "active": true,
+        "date_updated": 1774947601,
+        "date_posted": 1772090891,
+        "url": "https://jobs.smartrecruiters.com/SonsoftInc/743999653216505",
+        "locations": [
+            "Union City, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Sonsoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Collabera",
+        "id": "a6dfebca-bb41-4377-a2c7-8828e2adc674",
+        "title": "Software Developer",
+        "active": true,
+        "date_updated": 1774949401,
+        "date_posted": 1771571952,
+        "url": "https://jobs.smartrecruiters.com/Collabera2/91954554",
+        "locations": [
+            "Calgary, AB, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Collabera",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Artech Information System",
+        "id": "daabdaa7-4503-4644-a91f-e1097beafd08",
+        "title": "Visual Analytics Associate/Data Analytics",
+        "active": true,
+        "date_updated": 1774953198,
+        "date_posted": 1755208652,
+        "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/743999653695615",
+        "locations": [
+            "Escondido, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Artech-Information-System",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Artech Information System",
+        "id": "a792a516-e26c-41c2-a14d-9e46d6c6472d",
+        "title": "Dataiku DSS Practitioner",
+        "active": true,
+        "date_updated": 1774949401,
+        "date_posted": 1755046304,
+        "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/743999659427222",
+        "locations": [
+            "Bedminster, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Artech-Information-System",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
