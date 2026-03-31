@@ -278210,5 +278210,23 @@
         "date_posted": 1774934915,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1774935112,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://careers-gdms.icims.com/jobs/71647/junior-full-stack-engineer-%28java-react%29/job",
+        "company_name": "General Dynamics Mission Systems",
+        "title": "Junior Full Stack Engineer (Java/React)",
+        "locations": [
+            "Dedham, MA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "c3a3c254-2d83-4f25-8ee6-609bfa5a7c34",
+        "date_posted": 1774935112,
+        "company_url": "",
+        "is_visible": true
     }
 ]
