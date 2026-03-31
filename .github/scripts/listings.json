@@ -278804,5 +278804,26 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Eurofins",
+        "id": "47752918-d8c9-476d-8ca5-45608096e7c1",
+        "title": "EMC/Wireless Engineer",
+        "active": true,
+        "date_updated": 1774959121,
+        "date_posted": 1770333024,
+        "url": "https://jobs.smartrecruiters.com/Eurofins/744000107596835",
+        "locations": [
+            "Boxborough, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Eurofins",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's",
+            "Certificate"
+        ]
     }
 ]
