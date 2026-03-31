@@ -45884,7 +45884,7 @@
         "company_name": "ByteDance",
         "id": "a132169a-52f8-43db-bffe-40ac9987f48c",
         "title": "Machine Learning Engineer Graduate - E-Commerce Risk Control - BS/MS",
-        "active": true,
+        "active": false,
         "date_updated": 1761902069,
         "date_posted": 1761902069,
         "url": "https://jobs.bytedance.com/en/position/7538932206750042375/detail",
@@ -71104,7 +71104,7 @@
         "company_name": "Prosidian Consulting",
         "id": "486c4ecf-d562-49cf-9735-5e7e9b93d1e1",
         "title": "Analyst 2 - Technical Analysis",
-        "active": true,
+        "active": false,
         "date_updated": 1762909799,
         "date_posted": 1755294652,
         "url": "https://jobs.smartrecruiters.com/prosidianconsulting/743999787592371",
@@ -74341,7 +74341,7 @@
         "company_name": "AG Technologies",
         "id": "403e8bed-9790-4580-b371-c45428991615",
         "title": "Hiring Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1761835914,
         "date_posted": 1754995174,
         "url": "https://jobs.smartrecruiters.com/AGTechnologies1/743999658570182",
@@ -74359,7 +74359,7 @@
         "company_name": "Prosidian Consulting",
         "id": "71cf4be6-3a6e-4091-a8ba-fbf8ab118a9f",
         "title": "GIS Specialist - Technician - Levels 1 and 2",
-        "active": false,
+        "active": true,
         "date_updated": 1754991748,
         "date_posted": 1754991748,
         "url": "https://jobs.smartrecruiters.com/prosidianconsulting/743999987474433",
@@ -219986,7 +219986,7 @@
         "company_name": "Jobsbridge",
         "id": "a2ab2a2f-65f8-4ab1-9361-f09f6adb8e41",
         "title": "Mobile Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1771917534,
         "date_posted": 1771917534,
         "url": "https://jobs.smartrecruiters.com/Jobsbridge1/93130280",
@@ -220228,7 +220228,7 @@
         "company_name": "Integrated Resources",
         "id": "485a6fb3-c3f9-4d57-b1df-90972fe970b9",
         "title": "Web Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1771917992,
         "date_posted": 1771917992,
         "url": "https://jobs.smartrecruiters.com/IntegratedResourcesINC/82335132",
@@ -222535,7 +222535,7 @@
         "company_name": "Procom",
         "id": "6a86c8ef-b247-4caa-a118-e8e999aa2961",
         "title": "Web Application Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1772003779,
         "date_posted": 1772003779,
         "url": "https://jobs.smartrecruiters.com/ProcomConsultantsGroup/88303706",
@@ -224880,7 +224880,7 @@
         "company_name": "Softpath System",
         "id": "6a5f9159-a26c-4e28-b048-7689b1b75794",
         "title": "Internet / Web Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1772091137,
         "date_posted": 1772091137,
         "url": "https://jobs.smartrecruiters.com/SoftpathSystemLLC/101875033",
@@ -228355,7 +228355,7 @@
         "company_name": "USM Business Systems",
         "id": "202cd0ed-732e-427c-b193-8ebca0bfa6a1",
         "title": "Pega LSA Certified Resources",
-        "active": true,
+        "active": false,
         "date_updated": 1772205285,
         "date_posted": 1772205285,
         "url": "https://jobs.smartrecruiters.com/USM2/107007927",
@@ -229076,7 +229076,7 @@
         "company_name": "Gulfstream",
         "id": "1ada42df-efc6-4e8c-856e-1849c89ba6ad",
         "title": "Business Intelligence Analyst 1",
-        "active": true,
+        "active": false,
         "date_updated": 1772233792,
         "date_posted": 1772233792,
         "url": "https://careers.gulfstream.com/job/Savannah-Business-Intelligence-Analyst-I-GA-31401/1368889100/?ats=successfactors",
@@ -238290,7 +238290,7 @@
         "company_name": "Roljobs Technology Services",
         "id": "e34aefe1-0ff4-4fc1-8484-42b238cbdbea",
         "title": "Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1772677221,
         "date_posted": 1772677221,
         "url": "https://jobs.smartrecruiters.com/RA2/82680756",
@@ -251820,7 +251820,7 @@
         "company_name": "Western Digital",
         "id": "18c1c491-a1ba-478c-8aa9-95ac4d98370e",
         "title": "Early College Talent - Failure Analysis Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773364547,
         "date_posted": 1773364547,
         "url": "https://jobs.smartrecruiters.com/WesternDigital/744000114478120",
@@ -258786,7 +258786,7 @@
         "company_name": "Western Digital",
         "id": "a56ebbf4-20e7-4aac-858f-0b5a587d29ff",
         "title": "Early Careers Talent - Failure Analysis Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773795973,
         "date_posted": 1773795973,
         "url": "https://jobs.smartrecruiters.com/WesternDigital/744000115303377",
@@ -280221,6 +280221,166 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Riverside Research",
+        "id": "c0ad010c-80d6-460c-ba14-a05593d9bae2",
+        "title": "Radio Frequency Engineer",
+        "active": true,
+        "date_updated": 1774992721,
+        "date_posted": 1773670113,
+        "url": "https://careers-riversideresearch.icims.com/jobs/4137/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Urbana, IL",
+            "Dayton, OH",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Riverside-Research",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Radius Limited",
+        "id": "ef9a8f7e-03c8-48d2-ac0f-62bb18be153f",
+        "title": "Installation Support Administrator",
+        "active": true,
+        "date_updated": 1774981621,
+        "date_posted": 1773440308,
+        "url": "https://jobs.smartrecruiters.com/RadiusLimited/744000114696409",
+        "locations": [
+            "Northwich, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Radius-Limited",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Markon",
+        "id": "26de152b-422d-4059-a8fa-40a416004bea",
+        "title": "Software Engineer 2",
+        "active": true,
+        "date_updated": 1774992685,
+        "date_posted": 1773267127,
+        "url": "https://careers-markon.icims.com/jobs/8206/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Odenton, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Markon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Visa",
+        "id": "2d5833d5-8685-46e5-af14-8872e1933def",
+        "title": "Senior SW Engineer",
+        "active": true,
+        "date_updated": 1774992470,
+        "date_posted": 1773180945,
+        "url": "https://jobs.smartrecruiters.com/Visa/744000113762566",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Adobe",
+        "id": "f2a59cd3-fbf5-48ff-be4b-c41d4181142c",
+        "title": "Software Development Engineer",
+        "active": true,
+        "date_updated": 1774981621,
+        "date_posted": 1773097817,
+        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/Software-Development-Engineer_R166371",
+        "locations": [
+            "Lehi, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Adobe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Lawrence Livermore National Laboratory (LLNL)",
+        "id": "50e290f2-5263-4bb2-8da2-6e1cac64ce95",
+        "title": "Deep Learning for Earth System Modeling Evaluation - Postdoctoral Researcher",
+        "active": true,
+        "date_updated": 1774981621,
+        "date_posted": 1773091936,
+        "url": "https://jobs.smartrecruiters.com/LLNL/3743990012040448",
+        "locations": [
+            "Livermore, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/LLNL",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "USM Business Systems",
+        "id": "34d51f0c-8df3-4782-82a5-3a19a709eb6d",
+        "title": "Qlikview Developer - Need GC and USC",
+        "active": true,
+        "date_updated": 1774981261,
+        "date_posted": 1772205307,
+        "url": "https://jobs.smartrecruiters.com/USM2/101237816",
+        "locations": [
+            "Dublin, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/USM-Business-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Direct Staffing",
+        "id": "bca244fa-4344-4670-8425-006e5abffddf",
+        "title": "Android Developer",
+        "active": true,
+        "date_updated": 1774962361,
+        "date_posted": 1771830928,
+        "url": "https://jobs.smartrecruiters.com/dstaff/83237720",
+        "locations": [
+            "Culver City, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Direct-Staffing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
