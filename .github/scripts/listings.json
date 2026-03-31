@@ -72679,7 +72679,7 @@
         "company_name": "Prosidian Consulting",
         "id": "045e0545-9791-468b-a3f0-2822c23b5eea",
         "title": "GIS Analyst - Environmental Consulting and Management Services",
-        "active": true,
+        "active": false,
         "date_updated": 1755059165,
         "date_posted": 1755059165,
         "url": "https://jobs.smartrecruiters.com/prosidianconsulting/744000028638835",
@@ -216931,7 +216931,7 @@
         "company_name": "Direct Staffing",
         "id": "b53c7441-a208-4541-9572-c297b0915e60",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1771830897,
         "date_posted": 1771830897,
         "url": "https://jobs.smartrecruiters.com/dstaff/86871360",
@@ -219280,7 +219280,7 @@
         "company_name": "Integrated Resources",
         "id": "ab9f0d40-2e48-4df9-a1f0-741e2a841f7e",
         "title": "WPF Designer",
-        "active": true,
+        "active": false,
         "date_updated": 1771917972,
         "date_posted": 1771917972,
         "url": "https://jobs.smartrecruiters.com/IntegratedResourcesINC/85307059",
@@ -220266,7 +220266,7 @@
         "company_name": "Integrated Resources",
         "id": "d5653575-51c4-4f6f-8b33-4d530cb4e6d1",
         "title": "SAS Programmer/Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1771917987,
         "date_posted": 1771917987,
         "url": "https://jobs.smartrecruiters.com/IntegratedResourcesINC/83876082",
@@ -222592,7 +222592,7 @@
         "company_name": "Procom",
         "id": "9475c065-11b7-45df-b175-90b3cfa261d9",
         "title": "Web Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1772003731,
         "date_posted": 1772003731,
         "url": "https://jobs.smartrecruiters.com/ProcomServices/87108262",
@@ -224726,7 +224726,7 @@
         "company_name": "SA Technologies",
         "id": "6341d6f3-8dbf-41c3-8130-750c1c4f2d5b",
         "title": "Data Analyst 1 - Only W2 Consultant",
-        "active": true,
+        "active": false,
         "date_updated": 1772090327,
         "date_posted": 1772090327,
         "url": "https://jobs.smartrecruiters.com/SATechnologiesInc4/88604164",
@@ -227965,7 +227965,7 @@
         "company_name": "USM Business Systems",
         "id": "dff325ce-bfd4-4be3-bb50-a74b645c3d69",
         "title": "WebSphere Middleware Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1772205302,
         "date_posted": 1772205302,
         "url": "https://jobs.smartrecruiters.com/USM2/101594291",
@@ -228003,7 +228003,7 @@
         "company_name": "USM Business Systems",
         "id": "c6e7c1f7-a4be-4337-bf16-f3f34a99bfa5",
         "title": "ETL Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1772205418,
         "date_posted": 1772205418,
         "url": "https://jobs.smartrecruiters.com/USM2/89909857",
@@ -228279,7 +228279,7 @@
         "company_name": "USM Business Systems",
         "id": "50e5c6dc-5ce5-4166-930c-11c1521ba0cc",
         "title": "Portal Configuration Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1772205405,
         "date_posted": 1772205405,
         "url": "https://jobs.smartrecruiters.com/USM2/92603712",
@@ -228319,7 +228319,7 @@
         "company_name": "USM Business Systems",
         "id": "2a7f3795-730c-41fc-aaad-39eb47ee477b",
         "title": "Core Java Developer - Need GC and USC",
-        "active": true,
+        "active": false,
         "date_updated": 1772205372,
         "date_posted": 1772205372,
         "url": "https://jobs.smartrecruiters.com/USM2/96167321",
@@ -228391,7 +228391,7 @@
         "company_name": "US IT Solutions",
         "id": "dcaf425f-e326-4b37-8d8c-6b3e08d570ad",
         "title": "Technical Assistant with Adobe Acrobat Pro - Filemaker Pro - Access,Sharepoint",
-        "active": true,
+        "active": false,
         "date_updated": 1772205176,
         "date_posted": 1772205176,
         "url": "https://jobs.smartrecruiters.com/USITSolutionsInc/116208461",
@@ -230253,7 +230253,7 @@
         "company_name": "JP Morgan Chase",
         "id": "2d6b9d59-5087-4fce-97dc-18f71f25f4a8",
         "title": "Applied AIML Data Scientist - Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1772274654,
         "date_posted": 1772061548,
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210717169",
@@ -279430,5 +279430,196 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "USM Business Systems",
+        "id": "ae4eb0ad-04fa-4110-9a03-1c19d3c490bc",
+        "title": "Java Developer - Need Locals - Need GC and USC",
+        "active": true,
+        "date_updated": 1774981261,
+        "date_posted": 1772205348,
+        "url": "https://jobs.smartrecruiters.com/USM2/98254951",
+        "locations": [
+            "Bloomington, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/USM-Business-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "USM Business Systems",
+        "id": "a90aa536-65f3-4efd-bb0e-06916ddc5c58",
+        "title": "Senior Design Engineer",
+        "active": true,
+        "date_updated": 1774986778,
+        "date_posted": 1772205415,
+        "url": "https://jobs.smartrecruiters.com/USM2/90141364",
+        "locations": [
+            "Rochester, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/USM-Business-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "USM Business Systems",
+        "id": "9e891fa0-b4c0-4dfb-8688-b47b07a23497",
+        "title": "Facets .Net Developer - Need GC and USC",
+        "active": true,
+        "date_updated": 1774981261,
+        "date_posted": 1772205354,
+        "url": "https://jobs.smartrecruiters.com/USM2/98093022",
+        "locations": [
+            "California City, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/USM-Business-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "USM Business Systems",
+        "id": "89442d0e-48eb-456c-ac06-cf9ce81cacae",
+        "title": "Help Desk Analyst Tier 1",
+        "active": true,
+        "date_updated": 1774981261,
+        "date_posted": 1772205319,
+        "url": "https://jobs.smartrecruiters.com/USM2/100551811",
+        "locations": [
+            "Baltimore, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/USM-Business-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Integrated Resources",
+        "id": "1a50d788-ae63-499b-9a2e-fe4f1818b46a",
+        "title": "Data Entry Associate/Data Analyst",
+        "active": true,
+        "date_updated": 1774974706,
+        "date_posted": 1771918015,
+        "url": "https://jobs.smartrecruiters.com/IntegratedResourcesINC/81508656",
+        "locations": [
+            "Exton, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Integrated-Resources",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Integrated Resources",
+        "id": "8f6daf3e-72ea-4fb1-b689-73b181395e31",
+        "title": "Lab Assistant 2",
+        "active": true,
+        "date_updated": 1774972296,
+        "date_posted": 1771917879,
+        "url": "https://jobs.smartrecruiters.com/IntegratedResourcesINC/110257796",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Integrated-Resources",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jobsbridge",
+        "id": "686068fb-127f-4ce0-8a6b-af9300270166",
+        "title": "Mobile Developer",
+        "active": true,
+        "date_updated": 1774962361,
+        "date_posted": 1771917622,
+        "url": "https://jobs.smartrecruiters.com/Jobsbridge1/88618362",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Jobsbridge",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Arka Infotech",
+        "id": "1050fbd0-f778-45ce-9d69-342e4f6cd60d",
+        "title": "Cloud Development Engineer",
+        "active": true,
+        "date_updated": 1774960020,
+        "date_posted": 1771484876,
+        "url": "https://jobs.smartrecruiters.com/ArkaInfotechInc/89864812",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Arka-Infotech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Boom Supersonic",
+        "id": "8a6a8f0f-3858-439a-8ca5-3cc37ccd8351",
+        "title": "Embedded Software Engineer",
+        "active": true,
+        "date_updated": 1774955327,
+        "date_posted": 1765383487,
+        "url": "https://ats.rippling.com/boom-supersonic/jobs/9a05cb9a-ff1c-4d34-916e-bdf752658276",
+        "locations": [
+            "Centennial, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Boom-Supersonic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Eurofins",
+        "id": "d20e13b8-49e5-4c5a-8ace-89ada8072b4e",
+        "title": "EMC/Wireless Engineer",
+        "active": true,
+        "date_updated": 1774953001,
+        "date_posted": 1762904550,
+        "url": "https://jobs.smartrecruiters.com/Eurofins/744000093021552",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Eurofins",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's",
+            "Certificate"
+        ]
     }
 ]
