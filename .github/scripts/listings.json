@@ -173817,7 +173817,7 @@
         "company_name": "Warner Bros.",
         "id": "3e6aec9c-af09-4d86-8a26-d0874fed1e72",
         "title": "Software Developer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1769567017,
         "date_posted": 1769567017,
         "url": "https://warnerbros.wd5.myworkdayjobs.com/global/job/Kanata-307-Legget-Dr/Software-Developer-I_R000100408",
@@ -279387,6 +279387,26 @@
             "Westchester County, NY"
         ],
         "company_url": "https://simplify.jobs/c/Saxon-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Sonsoft",
+        "id": "8fc02c15-dba2-46e1-b020-fc0badf93c0c",
+        "title": "Perl Developer - Java - Sybase DB",
+        "active": true,
+        "date_updated": 1774981261,
+        "date_posted": 1772091095,
+        "url": "https://jobs.smartrecruiters.com/SonsoftInc/96175145",
+        "locations": [
+            "Stamford, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/Sonsoft",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
