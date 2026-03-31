@@ -210419,7 +210419,7 @@
         "company_name": "Arka Infotech",
         "id": "8882eb24-cbbb-4369-992b-684cb6b5fb12",
         "title": "SQL Server Architect",
-        "active": true,
+        "active": false,
         "date_updated": 1771484837,
         "date_posted": 1771484837,
         "url": "https://jobs.smartrecruiters.com/ArkaInfotechInc/85225089",
@@ -214364,7 +214364,7 @@
         "company_name": "Deegit",
         "id": "765518c3-a136-4032-984a-474947d1091f",
         "title": "Agile PLM",
-        "active": true,
+        "active": false,
         "date_updated": 1771600247,
         "date_posted": 1771600247,
         "url": "https://jobs.smartrecruiters.com/DeegitInc3/91059340",
@@ -223967,7 +223967,7 @@
         "company_name": "Qualcomm",
         "id": "6d62f5fd-a7cc-43f3-a281-00b86b2b9fab",
         "title": "Product Software Engineer - Software Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1772061744,
         "date_posted": 1772061744,
         "url": "https://qualcomm.eightfold.ai/careers/job/446717069311",
@@ -227614,7 +227614,7 @@
         "company_name": "Testing Xperts",
         "id": "7dc394d2-f995-43f7-8f5b-b7ff42eca585",
         "title": "Datastage Administration",
-        "active": true,
+        "active": false,
         "date_updated": 1772176160,
         "date_posted": 1772176160,
         "url": "https://jobs.smartrecruiters.com/TestingXperts/743999657154606",
@@ -278493,6 +278493,42 @@
             "Long Beach, CA"
         ],
         "company_url": "https://simplify.jobs/c/SourceDirect-Talent",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Sonsoft",
+        "id": "25ef13b9-71eb-44b9-aa00-bcbab1002542",
+        "title": "AWS Cloud/Azure - ReactJS",
+        "active": true,
+        "date_updated": 1774945981,
+        "date_posted": 1772090959,
+        "url": "https://jobs.smartrecruiters.com/SonsoftInc/108597158",
+        "locations": [
+            "Columbus, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Sonsoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Atria Group",
+        "id": "24c6a8ee-dffa-4ef6-b866-bbdf5be3cd1f",
+        "title": "Drupal Developer",
+        "active": true,
+        "date_updated": 1774946341,
+        "date_posted": 1771485174,
+        "url": "https://jobs.smartrecruiters.com/AtriaGroupLLC/84938942",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Atria-Group",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
