@@ -47594,7 +47594,7 @@
         "company_name": "JP Morgan Chase",
         "id": "cb4311b8-3ecd-4d2a-b112-19700fbfbc4a",
         "title": "Commercial & Investment Bank - Automated Trading Strategies AI\\ML Researcher - Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1761878283,
         "date_posted": 1761878283,
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210676682",
@@ -48617,7 +48617,7 @@
         "company_name": "American University",
         "id": "f17dac7a-b558-49f1-be6c-2aafd1251eb8",
         "title": "Computer Science Postdoctoral Fellow",
-        "active": true,
+        "active": false,
         "date_updated": 1755300908,
         "date_posted": 1755300908,
         "url": "https://american.wd1.myworkdayjobs.com/au/job/East-Campus-Washington-DC/Computer-Science-Postdoctoral-Fellow_R1839",
@@ -70575,7 +70575,7 @@
         "company_name": "Prosidian Consulting",
         "id": "98702dbb-47b7-4761-9c4e-0eafdbc8780e",
         "title": "Geospatial Analyst 2",
-        "active": true,
+        "active": false,
         "date_updated": 1762907164,
         "date_posted": 1755291997,
         "url": "https://jobs.smartrecruiters.com/prosidianconsulting/743999979190284",
@@ -74121,7 +74121,7 @@
         "company_name": "Prosidian Consulting",
         "id": "156f18c9-3a0d-4e0b-b5a3-3b879cc05271",
         "title": "PPM Data Scientist/Statistician 1",
-        "active": true,
+        "active": false,
         "date_updated": 1761938119,
         "date_posted": 1755007124,
         "url": "https://jobs.smartrecruiters.com/prosidianconsulting/743999691968534",
@@ -243349,7 +243349,7 @@
         "company_name": "Boyd Gaming",
         "id": "236fb97a-090f-4f2e-ba50-d1c76592f65a",
         "title": "Slot Technician 1",
-        "active": true,
+        "active": false,
         "date_updated": 1773093769,
         "date_posted": 1773093769,
         "url": "https://jobs.smartrecruiters.com/BoydGaming/3743990012030036",
@@ -278783,6 +278783,26 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "360 IT Professionals",
+        "id": "aca0ec69-cbe0-45aa-a3ae-a48c44558d9d",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1774956961,
+        "date_posted": 1755059568,
+        "url": "https://jobs.smartrecruiters.com/360ITProfessionals1/743999658971678",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/360-IT-Professionals",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
