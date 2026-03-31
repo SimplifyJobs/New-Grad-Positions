@@ -222939,7 +222939,7 @@
         "company_name": "Integrated Resources",
         "id": "d5f02edc-8773-4cb3-a440-ec9049645baf",
         "title": "Fiber optic Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1771917905,
         "date_posted": 1771917905,
         "url": "https://jobs.smartrecruiters.com/IntegratedResourcesINC/101792473",
@@ -279232,6 +279232,65 @@
             "Fremont, CA"
         ],
         "company_url": "https://simplify.jobs/c/Beta-Soft-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Integrated Resources",
+        "id": "e48de656-c605-4748-ac2e-eaa48873b0aa",
+        "title": "Lab Technician",
+        "active": true,
+        "date_updated": 1774973113,
+        "date_posted": 1771917923,
+        "url": "https://jobs.smartrecruiters.com/IntegratedResourcesINC/94801112",
+        "locations": [
+            "North Haven, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/Integrated-Resources",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Integrated Resources",
+        "id": "8610b082-0dee-4fb2-9264-5d5adf2e3bda",
+        "title": "Software Research Engineer",
+        "active": true,
+        "date_updated": 1774962361,
+        "date_posted": 1771917892,
+        "url": "https://jobs.smartrecruiters.com/IntegratedResourcesINC/104111499",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Integrated-Resources",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Integrated Resources",
+        "id": "094b63fd-a855-4dd9-b36d-489c7a86d490",
+        "title": "Data Integration Developer",
+        "active": true,
+        "date_updated": 1774972621,
+        "date_posted": 1771917983,
+        "url": "https://jobs.smartrecruiters.com/IntegratedResourcesINC/84273134",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Integrated-Resources",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
