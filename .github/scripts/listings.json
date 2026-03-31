@@ -278210,5 +278210,23 @@
         "date_posted": 1774934915,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1774935025,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://job-boards.greenhouse.io/freedomconsulting/jobs/5087955007",
+        "company_name": "Freedom Technology Solutions Group",
+        "title": "Junior Cloud Engineer",
+        "locations": [
+            "St. Louis, MO"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "41945431-d71a-46c2-a04e-1e2b286d7e06",
+        "date_posted": 1774935025,
+        "company_url": "",
+        "is_visible": true
     }
 ]
