@@ -207998,7 +207998,7 @@
         "company_name": "4DS Corp",
         "id": "18106f4a-ff11-4a3e-b09d-a635c6ba50c3",
         "title": "Product Research and Development Analyst - Mandarin",
-        "active": true,
+        "active": false,
         "date_updated": 1771398486,
         "date_posted": 1771398486,
         "url": "https://jobs.smartrecruiters.com/4DSCorp/743999869192441",
@@ -231189,7 +231189,7 @@
         "company_name": "AECOM",
         "id": "83b23b25-d169-455c-b4bb-d82672d8712f",
         "title": "Hydrogeology/ Groundwater Specialist Graduate - Environment - Birmingham",
-        "active": true,
+        "active": false,
         "date_updated": 1772447438,
         "date_posted": 1772447438,
         "url": "https://jobs.smartrecruiters.com/AECOM2/744000112122232",
@@ -249052,7 +249052,7 @@
         "company_name": "Abercrombie and Fitch Co.",
         "id": "7f507217-e075-4660-8927-bee4c472572b",
         "title": "Fit Consultant - Adult Brand size set",
-        "active": true,
+        "active": false,
         "date_updated": 1773192054,
         "date_posted": 1773192054,
         "url": "https://jobs.smartrecruiters.com/AbercrombieAndFitchCo/744000089537216",
@@ -259861,7 +259861,7 @@
         "company_name": "Arthur Grand Technologies",
         "id": "c5e96a2e-51ca-43d8-aa10-231b3cdc5e3f",
         "title": "ERP Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773871479,
         "date_posted": 1773871479,
         "url": "https://jobs.smartrecruiters.com/ArthurGrandTechnologiesInc/744000115491098",
@@ -278334,5 +278334,45 @@
         "date_posted": 1774935460,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "KLA",
+        "id": "afafa7a0-c4bf-40b5-b192-c227fdd96f7f",
+        "title": "Product Development Application Engineer",
+        "active": true,
+        "date_updated": 1774939861,
+        "date_posted": 1774937184,
+        "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Product-Development-Application-Engineer_2635170-1",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/KLA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AJ Bell",
+        "id": "767e8051-4f81-4377-a705-4f685ddcae07",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1774939141,
+        "date_posted": 1773536824,
+        "url": "https://jobs.smartrecruiters.com/AJBell1/744000113776247",
+        "locations": [
+            "Manchester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/AJ-Bell",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
