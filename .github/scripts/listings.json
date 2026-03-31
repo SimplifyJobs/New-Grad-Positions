@@ -4185,7 +4185,7 @@
         "company_name": "AG Technologies",
         "id": "938e80f0-9d6e-4399-8180-d4b7b233e44d",
         "title": "Hiring Entry Level Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1754988034,
         "date_posted": 1754988034,
         "url": "https://jobs.smartrecruiters.com/AGTechnologies1/743999652483007",
@@ -74341,7 +74341,7 @@
         "company_name": "AG Technologies",
         "id": "403e8bed-9790-4580-b371-c45428991615",
         "title": "Hiring Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1761835914,
         "date_posted": 1754995174,
         "url": "https://jobs.smartrecruiters.com/AGTechnologies1/743999658570182",
@@ -74509,7 +74509,7 @@
         "company_name": "AG Technologies",
         "id": "082e48cd-d716-48a3-9680-8a4a7fa39d35",
         "title": "Devops/ Java/OBIEE/Salesforce training and placement",
-        "active": false,
+        "active": true,
         "date_updated": 1761824659,
         "date_posted": 1754983810,
         "url": "https://jobs.smartrecruiters.com/AGTechnologies1/104662317",
@@ -212720,7 +212720,7 @@
         "company_name": "Collabera",
         "id": "b66cb5f7-4ce4-4163-8040-6fd06eb0ee09",
         "title": "Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1771571989,
         "date_posted": 1771571989,
         "url": "https://jobs.smartrecruiters.com/Collabera2/88464493",
@@ -252394,7 +252394,7 @@
         "company_name": "Trading212",
         "id": "2fcb4d3e-597c-4d80-8343-9b9ec840ec02",
         "title": "Graduate Trading Operations Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1773392849,
         "date_posted": 1773392849,
         "url": "https://jobs.ashbyhq.com/trading212/3869cbd3-5700-4a3f-b32c-ac386518ee9a/application",
@@ -272534,7 +272534,7 @@
         "company_name": "Bank of America",
         "id": "27cab98e-30cf-460f-8523-e89f0004f2d9",
         "title": "Trading Assistant Commodities",
-        "active": true,
+        "active": false,
         "date_updated": 1774538055,
         "date_posted": 1774538055,
         "url": "https://ghr.wd1.myworkdayjobs.com/lateral-emea/job/London/Trading-Assistant-Commodities_26011521-2",
@@ -277247,7 +277247,7 @@
         "company_name": "Unison Infrastructure",
         "id": "91ef92eb-1006-4e44-876c-19cd894c07d1",
         "title": "Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1774880773,
         "date_posted": 1774879619,
         "url": "https://jobs.lever.co/unisoninfra/5a2afab0-427a-44a2-bf12-4da8282465fa/apply",
@@ -278824,6 +278824,89 @@
         "degrees": [
             "Associate's",
             "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "JP Morgan Chase",
+        "id": "ac91871a-25a0-4db7-8e1c-3c1ef91f3ae2",
+        "title": "Automation Testing Java Developer",
+        "active": true,
+        "date_updated": 1774954621,
+        "date_posted": 1767741540,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210698366",
+        "locations": [
+            "NYC",
+            "Wilmington, DE"
+        ],
+        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "DTCC",
+        "id": "d6027c6f-d990-44c4-8bac-8a0ae621d2cc",
+        "title": "Technology Analyst",
+        "active": true,
+        "date_updated": 1774953001,
+        "date_posted": 1756333993,
+        "url": "https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/211406",
+        "locations": [
+            "Tampa, FL",
+            "Dallas, TX",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/DTCC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AG Technologies",
+        "id": "cb2dcb0c-341a-4050-85ce-b6e4f51b1c13",
+        "title": "Java Android Informatica Full Stack Developer",
+        "active": true,
+        "date_updated": 1774953859,
+        "date_posted": 1755195294,
+        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/98941869",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/AG-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AG Technologies",
+        "id": "fb1a0403-fde5-499b-90cc-a9a9cc24d762",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1774958569,
+        "date_posted": 1754987489,
+        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/743999656593811",
+        "locations": [
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/AG-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
         ]
     }
 ]
