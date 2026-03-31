@@ -278269,5 +278269,28 @@
         "date_posted": 1774935243,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1774935302,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://leidos.wd5.myworkdayjobs.com/en-US/external/job/Newport-News-VA/Junior-Software-Engineer_R-00179197",
+        "company_name": "Leidos",
+        "title": "Junior Software Engineer",
+        "locations": [
+            "Newport News, VA",
+            "Omaha, NE",
+            "Orlando, FL",
+            "Charlottesville, VA",
+            "Lexington, MA",
+            "Morgantown, WV"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "a46d9b98-c4a4-4501-8926-8ab235994621",
+        "date_posted": 1774935302,
+        "company_url": "",
+        "is_visible": true
     }
 ]
