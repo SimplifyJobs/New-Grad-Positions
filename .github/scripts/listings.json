@@ -220345,7 +220345,7 @@
         "company_name": "Lawrence Livermore National Laboratory (LLNL)",
         "id": "4d453fb0-a1f8-43da-9810-884ad0f54eb3",
         "title": "Applied Statistics Postdoctoral Researcher",
-        "active": true,
+        "active": false,
         "date_updated": 1771918137,
         "date_posted": 1771918137,
         "url": "https://jobs.smartrecruiters.com/LLNL/3743990010389316",
@@ -279294,5 +279294,25 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Lawrence Livermore National Laboratory (LLNL)",
+        "id": "5a03e922-9be2-4e12-9821-b01d8c92b5e6",
+        "title": "Uncertainty Quantification for Surrogate Models Postdoctoral Researcher",
+        "active": true,
+        "date_updated": 1774972621,
+        "date_posted": 1774256481,
+        "url": "https://jobs.smartrecruiters.com/LLNL/3743990012255036",
+        "locations": [
+            "Livermore, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/LLNL",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
     }
 ]
