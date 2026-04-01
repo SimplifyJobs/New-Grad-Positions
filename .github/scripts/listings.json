@@ -200564,7 +200564,7 @@
         "company_name": "Brown Brothers Harriman",
         "id": "edb4781c-da69-410a-96c5-925966d46ae0",
         "title": "Systems Programmer Analyst - .Net",
-        "active": false,
+        "active": true,
         "date_updated": 1770909597,
         "date_posted": 1770909597,
         "url": "https://bbh.wd5.myworkdayjobs.com/en-US/BBH/job/Boston/Junior-Java-Developer_68763",
@@ -207021,7 +207021,7 @@
         "company_name": "WTW",
         "id": "95954148-1486-4d9e-9844-10904709e43d",
         "title": "Marine Data Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1771370199,
         "date_posted": 1771370199,
         "url": "https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202601029",
@@ -236644,7 +236644,7 @@
         "company_name": "Western Digital",
         "id": "930e3758-0f53-4851-a57b-903e947b08ea",
         "title": "Early Career Talent - Read/Write Channel Firmware Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1772666262,
         "date_posted": 1772666262,
         "url": "https://jobs.smartrecruiters.com/WesternDigital/744000112741248",
@@ -269410,7 +269410,7 @@
         "company_name": "University of Arkansas",
         "id": "ad639ce0-562f-40b2-8d29-ea4c866cea6e",
         "title": "Cosmos Graduate Research Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1773813920,
         "date_posted": 1773813920,
         "url": "https://uasys.wd5.myworkdayjobs.com/uasys/job/Little-Rock/COSMOS---Graduate-Research-Assistant--Researcher-_R0053889-2",
@@ -277628,7 +277628,7 @@
         "company_name": "Walmart",
         "id": "f56e5ae3-5824-4054-ba69-032536adf460",
         "title": "Software Engineer 3",
-        "active": true,
+        "active": false,
         "date_updated": 1774911749,
         "date_posted": 1774908654,
         "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-J-STREET-OFFICE-SPACE-AR-BENTONVILLE-Home-Office/Software-Engineer-III_R-2435719-1",
@@ -278402,7 +278402,7 @@
         "company_name": "Leidos",
         "id": "5b095740-9bc3-4d65-a179-3023a52944d0",
         "title": "Mid-level Software Engineer - Transportation/Computer Vision",
-        "active": true,
+        "active": false,
         "date_updated": 1774939121,
         "date_posted": 1774937366,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/McLean-VA/mid-level-Software-Engineer--Transportation-Computer-Vision-_R-00177044-1",
@@ -281629,7 +281629,7 @@
         "company_name": "Walmart",
         "id": "4d95cef4-f549-4318-9f4a-34ff5acb7b50",
         "title": "Software Engineer 3",
-        "active": true,
+        "active": false,
         "date_updated": 1775006206,
         "date_posted": 1775005792,
         "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-BELLEVUE-WALMART-GLOBAL-TECH-WA-BELLEVUE-Home-Office/Software-Engineer-III_R-2451454",
@@ -282351,7 +282351,7 @@
         "company_name": "Leidos",
         "id": "abc7a339-8eda-488e-9df5-1170083d5c9d",
         "title": "Junior Radio Frequency - Radio Frequency",
-        "active": true,
+        "active": false,
         "date_updated": 1775005437,
         "date_posted": 1774995049,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Gunpowder-MD/Jr-Radio-Frequency--RF--Engineer_R-00179651",
@@ -282975,6 +282975,89 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Uline",
+        "id": "3d68a30a-72e2-4ba4-a0c2-7a8131abf8e8",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1775035621,
+        "date_posted": 1775035094,
+        "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Data-Analyst_R262681-1",
+        "locations": [
+            "Waukegan, IL",
+            "Milwaukee, WI",
+            "Pleasant Prairie, WI",
+            "Morton Grove, IL",
+            "Kenosha, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Uline",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Nuro",
+        "id": "38ccf520-12c9-4ab8-8add-1532097ac148",
+        "title": "Associate Fleet Technician",
+        "active": true,
+        "date_updated": 1775038321,
+        "date_posted": 1773912231,
+        "url": "https://nuro.ai/careersitem?gh_jid=7442056",
+        "locations": [
+            "San Bruno, CA",
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Nuro",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "State Street",
+        "id": "e849e22c-89d3-435c-a881-fb4742eb897b",
+        "title": "Product Support",
+        "active": true,
+        "date_updated": 1775037618,
+        "date_posted": 1771697176,
+        "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Application--Infastructure-and-Service-Management_R-780784-1",
+        "locations": [
+            "Burlington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/State-Street",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Fortinet",
+        "id": "e78c4335-933f-4f16-93a1-18e9dc5fb4c1",
+        "title": "Applied AI Engineer \u2013 PhD New Graduate - AI Agent",
+        "active": true,
+        "date_updated": 1775037618,
+        "date_posted": 1770851900,
+        "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22124",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Fortinet",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
         ]
     }
 ]
