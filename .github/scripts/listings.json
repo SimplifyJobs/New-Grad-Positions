@@ -275816,7 +275816,7 @@
         "company_name": "Western Digital",
         "id": "2305b147-6ef5-4a4d-beaf-61a57b3a4400",
         "title": "Media Tribology Design Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1774810051,
         "date_posted": 1774810051,
         "url": "https://jobs.smartrecruiters.com/WesternDigital/744000117395868",
@@ -279589,7 +279589,7 @@
         "company_name": "Boom Supersonic",
         "id": "8a6a8f0f-3858-439a-8ca5-3cc37ccd8351",
         "title": "Embedded Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1774955327,
         "date_posted": 1765383487,
         "url": "https://ats.rippling.com/boom-supersonic/jobs/9a05cb9a-ff1c-4d34-916e-bdf752658276",
@@ -281074,7 +281074,7 @@
         "company_name": "Western Digital",
         "id": "7631a9e6-fcbe-4463-933c-89a9b4ec6c85",
         "title": "Read/Write Channel Firmware Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1775004242,
         "date_posted": 1774994658,
         "url": "https://jobs.smartrecruiters.com/WesternDigital/744000117962717",
@@ -281965,7 +281965,7 @@
         "company_name": "Medtronic",
         "id": "b708bfd2-6d46-470d-bcc8-aadb21bc4629",
         "title": "Product Engineer 2 - Wound Management",
-        "active": true,
+        "active": false,
         "date_updated": 1775005246,
         "date_posted": 1774994972,
         "url": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/North-Haven-Connecticut-United-States-of-America/Product-Engineer-II--Wound-Management-_R62526",
@@ -282897,5 +282897,84 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Northeastern University",
+        "id": "928da4e1-e6b1-46f4-8582-2a99f0a6de26",
+        "title": "Postdoctoral Research Fellow",
+        "active": true,
+        "date_updated": 1775039081,
+        "date_posted": 1774691013,
+        "url": "https://northeastern.wd1.myworkdayjobs.com/careers/job/Portland-ME/Postdoctoral-Research-Fellow_R121824",
+        "locations": [
+            "Portland, ME"
+        ],
+        "company_url": "https://simplify.jobs/c/Northeastern-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GE Healthcare",
+        "id": "4d9d30f9-e9d9-46f7-9561-f39c4505a561",
+        "title": "Field Service Engineer 1 Nuclear/CT/PETCT",
+        "active": true,
+        "date_updated": 1775038705,
+        "date_posted": 1774571625,
+        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1-Nuclear-CT-PETCT---Salt-Lake-City--UT_R4038549-1",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Healthcare",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Quest Global",
+        "id": "875a6c36-5b86-4537-83d0-74d0d730116a",
+        "title": "Data Analyst - 8 Months",
+        "active": true,
+        "date_updated": 1775038683,
+        "date_posted": 1774045613,
+        "url": "https://careers.quest-global.com/global/en/job/P-116948",
+        "locations": [
+            "Vandalia, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Quest-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Fortinet",
+        "id": "2cffa18e-22e5-404c-959e-db78d84ecbda",
+        "title": "Applied AI Engineer - AI Agent",
+        "active": true,
+        "date_updated": 1775038587,
+        "date_posted": 1770851386,
+        "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22125",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Fortinet",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
