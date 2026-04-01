@@ -30731,7 +30731,7 @@
         "company_name": "AVEVA",
         "id": "18d1159a-0fc5-4395-a800-8360f12d024d",
         "title": "Cloud Developer Graduate",
-        "active": false,
+        "active": true,
         "date_updated": 1762992434,
         "date_posted": 1762992434,
         "url": "https://aveva.wd3.myworkdayjobs.com/en-US/AVEVA_careers/job/Cambridge-United-Kingdom/Cloud-Developer-Graduate_R011704",
@@ -216152,7 +216152,7 @@
         "company_name": "Comcast",
         "id": "a37a4d19-15ce-488c-ab81-b718ae9ced8c",
         "title": "Telemetry Application Developer - Golang/Python",
-        "active": false,
+        "active": true,
         "date_updated": 1771692880,
         "date_posted": 1771692880,
         "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Cloud-Telemetry-Development-Engineer_R429398",
@@ -236536,7 +236536,7 @@
         "company_name": "Western Digital",
         "id": "930e3758-0f53-4851-a57b-903e947b08ea",
         "title": "Early Career Talent - Read/Write Channel Firmware Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1772666262,
         "date_posted": 1772666262,
         "url": "https://jobs.smartrecruiters.com/WesternDigital/744000112741248",
@@ -258184,7 +258184,7 @@
         "company_name": "RTX",
         "id": "1a343bfc-6ccf-446b-9d43-9d1cc831de52",
         "title": "Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1773787551,
         "date_posted": 1773787551,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineer-I--Onsite-_01829721",
@@ -258678,7 +258678,7 @@
         "company_name": "Western Digital",
         "id": "a56ebbf4-20e7-4aac-858f-0b5a587d29ff",
         "title": "Early Careers Talent - Failure Analysis Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773795973,
         "date_posted": 1773795973,
         "url": "https://jobs.smartrecruiters.com/WesternDigital/744000115303377",
@@ -265949,7 +265949,7 @@
         "company_name": "Mastercard",
         "id": "0ca2ab86-eecb-4aef-99a3-14eed0f6cf55",
         "title": "Senior Specialist - Product Management",
-        "active": false,
+        "active": true,
         "date_updated": 1774307340,
         "date_posted": 1774307340,
         "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/London-England-Angel-Lane/Senior-Specialist--Product-Management_R-272492-1",
@@ -268020,7 +268020,7 @@
         "company_name": "Wells Fargo",
         "id": "4dfa9266-51bc-4b0e-8a8a-e20f35ef69de",
         "title": "Engineering Associate - AI Application Development",
-        "active": true,
+        "active": false,
         "date_updated": 1774393077,
         "date_posted": 1774393077,
         "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/COLUMBUS-OH/Engineering-Associate---AI-Application-Development_R-532308",
@@ -272061,7 +272061,7 @@
         "company_name": "Sainsbury's",
         "id": "4aecb92d-d495-4f49-83ed-52965177d9d8",
         "title": "Trading Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1774515920,
         "date_posted": 1774515920,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054920",
@@ -272746,7 +272746,7 @@
         "company_name": "Sainsbury's",
         "id": "67432723-20e3-4ffa-a076-1992430baee4",
         "title": "Trading Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1774563136,
         "date_posted": 1774563136,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054748",
@@ -280966,7 +280966,7 @@
         "company_name": "Western Digital",
         "id": "7631a9e6-fcbe-4463-933c-89a9b4ec6c85",
         "title": "Read/Write Channel Firmware Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1775004242,
         "date_posted": 1774994658,
         "url": "https://jobs.smartrecruiters.com/WesternDigital/744000117962717",
@@ -281102,7 +281102,7 @@
         "company_name": "Cox",
         "id": "3a100059-3cec-44a8-bcd8-87d9259eff4f",
         "title": "Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1775004644,
         "date_posted": 1774994833,
         "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Long-Island-NY/Software-Engineer-I_R202675126",
@@ -282950,6 +282950,351 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Royal Bank of Canada",
+        "id": "a9c884d1-cb70-46ec-b3fd-693b2d6470dc",
+        "title": "Artificial Intelligence Analyst",
+        "active": true,
+        "date_updated": 1775055421,
+        "date_posted": 1775052602,
+        "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/London-United-Kingdom-of-Great-Britain-and-Northern-Ireland/Artificial-Intelligence-Analyst_R-0000166059",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "fcd0d4ae-c410-4351-ada2-5a178eb859aa",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1775053801,
+        "date_posted": 1775052575,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055840",
+        "locations": [
+            "Manchester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "81e9773b-9f73-4c8e-a0c6-ebfde26dce97",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1775053801,
+        "date_posted": 1775052575,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055902",
+        "locations": [
+            "Derby, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Intertek",
+        "id": "418c0763-f266-4f4f-8bc6-a9e83e3ea9bf",
+        "title": "Entry Level Technician 1 - Safety",
+        "active": true,
+        "date_updated": 1775054311,
+        "date_posted": 1775052418,
+        "url": "https://hcog.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/14395",
+        "locations": [
+            "Lake Forest, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Intertek",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "3ae3424d-94d2-4689-8242-0695178a1242",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1775053801,
+        "date_posted": 1775052575,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055897",
+        "locations": [
+            "Nottingham, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "f2adbdf3-3d4f-437e-b9d0-8131f0758400",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1775053801,
+        "date_posted": 1775052578,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055899",
+        "locations": [
+            "Nottingham, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Bloomberg Industry Group",
+        "id": "ebd5453a-4926-473c-b101-23caa3be1f5f",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1775053801,
+        "date_posted": 1775052378,
+        "url": "https://bloomberg.wd1.myworkdayjobs.com/Bloombergindustrygroup_External_Career_Site/job/Arlington---1801-S-Bell-INDG/Data-Analyst--Associate_141282",
+        "locations": [
+            "Arlington, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Bloomberg-Industry-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "e6b72734-a14d-4b2d-93ff-4b89cd20d56e",
+        "title": "Nightshift Trading Assistant",
+        "active": true,
+        "date_updated": 1775053801,
+        "date_posted": 1775052582,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055846",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "cdb644d6-e22c-4f4a-b4a1-31348f41898a",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1775053801,
+        "date_posted": 1775052574,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054591",
+        "locations": [
+            "Leeds, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Auto-Owners Insurance",
+        "id": "b669d5ba-980c-4663-9e9e-4da8f7ad49a0",
+        "title": "Business Intelligence Developer",
+        "active": true,
+        "date_updated": 1775053801,
+        "date_posted": 1775052504,
+        "url": "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Business-Intelligence-Developer_R_13282",
+        "locations": [
+            "East Lansing, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Auto-Owners-Insurance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Trane Technologies",
+        "id": "6888be41-d61d-4cd3-8b99-d0f8c0154fd3",
+        "title": "Application Engineer",
+        "active": true,
+        "date_updated": 1775054695,
+        "date_posted": 1775052602,
+        "url": "https://careers.tranetechnologies.com/global/en/job/92601494",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Trane-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "4dd20248-4d7e-4626-b398-6b410bc7399d",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1775053801,
+        "date_posted": 1775052576,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055901",
+        "locations": [
+            "Durham, UK",
+            "Thirsk, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Sierra Nevada Corporation",
+        "id": "f4d8566e-9126-4bfc-94a8-6a886f764622",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1775054311,
+        "date_posted": 1775052427,
+        "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Plano-TX/Software-Engineer-I_R0029552",
+        "locations": [
+            "Plano, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Sierra-Nevada-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Auto-Owners Insurance",
+        "id": "deed3d2c-5e00-4086-8079-1bdc6247151e",
+        "title": "Business Intelligence Engineer",
+        "active": true,
+        "date_updated": 1775053801,
+        "date_posted": 1775052504,
+        "url": "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Business-Intelligence-Engineer_R_13283",
+        "locations": [
+            "East Lansing, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Auto-Owners-Insurance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "University of Maryland - College Park",
+        "id": "ce067c4d-2270-4262-a74e-56d1fad9ec4d",
+        "title": "Web Graduate Assistant",
+        "active": true,
+        "date_updated": 1775054252,
+        "date_posted": 1775052312,
+        "url": "https://umd.wd1.myworkdayjobs.com/UMCP/job/University-of-Maryland-College-Park/Web-Graduate-Assistant_JR103816-1",
+        "locations": [
+            "Hyattsville, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Maryland-College-Park",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Jabil",
+        "id": "69c982fb-aa68-4f88-b14f-defbc7ec6cbe",
+        "title": "Diagnostic Technician 1",
+        "active": true,
+        "date_updated": 1775054314,
+        "date_posted": 1775052510,
+        "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Florence-KY/Diagnostic-Technician-I_J2445087",
+        "locations": [
+            "Florence, KY"
+        ],
+        "company_url": "https://simplify.jobs/c/Jabil",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Unison Infrastructure",
+        "id": "374f8d68-640e-4781-93e5-2bbe51da46e9",
+        "title": "Data Analyst \u2013 Entry-Level / Early Career",
+        "active": true,
+        "date_updated": 1775054359,
+        "date_posted": 1775052404,
+        "url": "https://jobs.lever.co/unisoninfra/0f361a1e-a36b-406e-a268-a5d2a55d4248/apply",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Unison-Infrastructure",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Littelfuse",
+        "id": "cce46432-9f2f-454d-bda4-714c0882d60e",
+        "title": "RISE Rotational Engineer",
+        "active": true,
+        "date_updated": 1775053801,
+        "date_posted": 1775052391,
+        "url": "https://littelfuse.wd1.myworkdayjobs.com/Littelfuse-Careers/job/Dole/RISE-Rotational-Engineer_JR-111029-2",
+        "locations": [
+            "Gastonia, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Littelfuse",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
