@@ -71690,7 +71690,7 @@
         "company_name": "AG Technologies",
         "id": "efa00ce6-88f6-498e-bd45-d23e949cefdb",
         "title": "Java/WAS Training",
-        "active": false,
+        "active": true,
         "date_updated": 1762907371,
         "date_posted": 1755195155,
         "url": "https://jobs.smartrecruiters.com/AGTechnologies1/102091028",
@@ -74452,7 +74452,7 @@
         "company_name": "AG Technologies",
         "id": "b18b3506-e44a-480b-9aeb-b7a747708038",
         "title": "Java Training and Placement",
-        "active": false,
+        "active": true,
         "date_updated": 1762910378,
         "date_posted": 1754987321,
         "url": "https://jobs.smartrecruiters.com/AGTechnologies1/102308948",
@@ -210513,7 +210513,7 @@
         "company_name": "Beta Soft Systems",
         "id": "325b5cec-2d43-402d-9e7e-c4772a5e57cc",
         "title": "Quality Assurance Engineer - Quality Assurance - Software",
-        "active": true,
+        "active": false,
         "date_updated": 1771484831,
         "date_posted": 1771484831,
         "url": "https://jobs.smartrecruiters.com/BetaSoftSystems3/85575889",
@@ -242297,7 +242297,7 @@
         "company_name": "Amentum",
         "id": "0a92592d-f133-48d8-91d9-96139a727b23",
         "title": "C or C++ Junior Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1772840587,
         "date_posted": 1772840587,
         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/C-or-C---Junior-Developer_R0155911",
@@ -260073,7 +260073,7 @@
         "company_name": "NVIDIA",
         "id": "bec791e2-3e1b-4f31-aff3-0f2ab0eafebf",
         "title": "Field Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773872551,
         "date_posted": 1773872551,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-NC-Durham/Field-Application-Engineer---New-College-Graduate-2026_JR2014639",
@@ -273511,7 +273511,7 @@
         "company_name": "Micron Technology",
         "id": "eb914efb-9d4b-4125-82ac-0178b19e25ea",
         "title": "New College Grad - HBM Product Manager",
-        "active": true,
+        "active": false,
         "date_updated": 1774570972,
         "date_posted": 1774570972,
         "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/XMLNAME--New-College-Grad--HBM-Product-Manager_JR94868",
@@ -275914,7 +275914,7 @@
         "company_name": "Rice University",
         "id": "55510c87-2d05-49ff-b6b1-5d4b553b0a27",
         "title": "Postdoctoral Associate - Bioengineering",
-        "active": true,
+        "active": false,
         "date_updated": 1774841258,
         "date_posted": 1774659777,
         "url": "https://emdz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/5690",
@@ -280460,6 +280460,185 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Hewlett Packard (HP)",
+        "id": "3d1b7afa-b8e2-480d-8ea3-dd025fd955be",
+        "title": "Graduate Software Developer - C#",
+        "active": true,
+        "date_updated": 1774987381,
+        "date_posted": 1774947936,
+        "url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Cambridge-Cambridgeshire-United-Kingdom/Graduate-Software-Developer--C----2-year-Placement_3156191",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Liberty Mutual",
+        "id": "f6e118e6-1ef7-4ce7-881c-9e70e6666094",
+        "title": "Analyst - Data Science - Earnix Design",
+        "active": true,
+        "date_updated": 1775000341,
+        "date_posted": 1774573603,
+        "url": "https://careers-libertymutual.icims.com/jobs/74991/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Boston, MA",
+            "Seattle, WA",
+            "Plano, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Liberty-Mutual",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Mattel",
+        "id": "51651f7f-ecc9-4a4e-a049-94b1403024e3",
+        "title": "Model Shop Technician",
+        "active": true,
+        "date_updated": 1774987381,
+        "date_posted": 1774919042,
+        "url": "https://jobs.smartrecruiters.com/MattelInc/744000117760418",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Mattel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Texas Water Development Board",
+        "id": "2529dd17-15b2-410c-a06e-da1e2e7b0191",
+        "title": "TWDB Flood Mapping Specialist - Geographic Information Specialist I-II",
+        "active": true,
+        "date_updated": 1775000901,
+        "date_posted": 1774908358,
+        "url": "https://jobs.smartrecruiters.com/TexasWaterDevelopmentBoardTWDB/744000117724277",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Texas-Water-Development-Board",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Emory University",
+        "id": "eada7e63-8874-4f3f-a6c0-fe40f00fc8c5",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1774986841,
+        "date_posted": 1774879486,
+        "url": "https://staff-emory.icims.com/jobs/163615/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Emory-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Lawrence Livermore National Laboratory (LLNL)",
+        "id": "4042a11a-8433-4d3c-b163-eb95de05c795",
+        "title": "Operations Research Postdoctoral Researcher",
+        "active": true,
+        "date_updated": 1774986841,
+        "date_posted": 1774649130,
+        "url": "https://jobs.smartrecruiters.com/LLNL/3743990012380987",
+        "locations": [
+            "Livermore, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/LLNL",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Atria Group",
+        "id": "af6db19c-35b0-4bb8-aa1a-8078ce865d94",
+        "title": ".NET Developer",
+        "active": true,
+        "date_updated": 1775001390,
+        "date_posted": 1771485262,
+        "url": "https://jobs.smartrecruiters.com/AtriaGroupLLC/83569006",
+        "locations": [
+            "Novato, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Atria-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AG Technologies",
+        "id": "ee5363a2-3a6a-41df-886d-12a68779124d",
+        "title": "Immediate IT Openings",
+        "active": true,
+        "date_updated": 1774981081,
+        "date_posted": 1754995226,
+        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/104965544",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/AG-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AG Technologies",
+        "id": "3a5d936a-12ed-4194-960e-750f9c6ba742",
+        "title": "Java Developer",
+        "active": true,
+        "date_updated": 1774981081,
+        "date_posted": 1754987781,
+        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/113484685",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/AG-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
         ]
     }
 ]
