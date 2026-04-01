@@ -35597,7 +35597,7 @@
         "company_name": "Northrop Grumman",
         "id": "1607b945-2f8c-4166-a504-85afde1205d6",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1762538545,
         "date_posted": 1762538545,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-McClellan/Engineer-Principal-Engineer-Software_R10211264",
@@ -107817,7 +107817,7 @@
         "company_name": "Auto-Owners Insurance",
         "id": "f5dfe658-eae8-4382-968f-8b9afa61c9f5",
         "title": "Business Intelligence Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1764781789,
         "date_posted": 1764781789,
         "url": "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Business-Intelligence-Developer_R_12154",
@@ -267416,7 +267416,7 @@
         "company_name": "Fanatics",
         "id": "ebf764a0-c52b-4a77-98c3-63ad8d43f0c6",
         "title": "Product Administrator",
-        "active": true,
+        "active": false,
         "date_updated": 1773094261,
         "date_posted": 1773094261,
         "url": "https://fa-exki-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27071",
@@ -283296,5 +283296,23 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Hospital for Special Surgery (HSS)",
+        "id": "c537016f-1822-40e9-b238-3ff2b269fd14",
+        "title": "Education Outcomes and Data Analytics Assistant",
+        "active": true,
+        "date_updated": 1775055421,
+        "date_posted": 1775052312,
+        "url": "https://hss.wd1.myworkdayjobs.com/HSS_Careers/job/New-York-NY/Education-Outcomes-and-Data-Analytics-Assistant_JR2026-104724",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/HSS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
