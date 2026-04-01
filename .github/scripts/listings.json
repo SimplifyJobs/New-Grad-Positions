@@ -77553,60 +77553,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Jane Street",
-        "id": "b856cf36-efee-437a-a497-a6f0157aca16",
-        "title": "IT Operations Engineer",
-        "active": false,
-        "date_updated": 1755058600,
-        "date_posted": 1754346500,
-        "url": "https://job-boards.greenhouse.io/janestreet/jobs/8065684002",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Jane-Street",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Jane Street",
-        "id": "ae516aff-ad1c-4b35-889d-0e06e7a75d1f",
-        "title": "Cybersecurity Analyst",
-        "active": false,
-        "date_updated": 1754346484,
-        "date_posted": 1754346484,
-        "url": "https://job-boards.greenhouse.io/janestreet/jobs/8072596002",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Jane-Street",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Jane Street",
-        "id": "1b0227ca-92b8-4cf5-b742-9834bda85cc3",
-        "title": "Linux Engineer",
-        "active": false,
-        "date_updated": 1754346504,
-        "date_posted": 1754346504,
-        "url": "https://job-boards.greenhouse.io/janestreet/jobs/8062886002",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Jane-Street",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "ByteDance",
         "id": "1c0ef532-045d-408b-8050-2c81bcbdec3f",
@@ -251702,7 +251648,7 @@
         "company_name": "University of Texas - Austin",
         "id": "8dc4d9c8-10d0-4e3a-b029-e9811246f6b6",
         "title": "Bioengineering Analyst 1",
-        "active": true,
+        "active": false,
         "date_updated": 1773381768,
         "date_posted": 1773381768,
         "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/AUSTIN-TX/Bioengineering-Analyst_R_00044288",
@@ -266059,7 +266005,7 @@
         "company_name": "Westinghouse Electric Company",
         "id": "8a9bb085-0589-4478-8ab5-051b3d3bbc0b",
         "title": "Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1774303565,
         "date_posted": 1774303565,
         "url": "https://careers.westinghousenuclear.com/job/Warrendale-Engineer-I-OR/1375783300/?ats=successfactors",
@@ -269713,7 +269659,7 @@
         "company_name": "Geosyntec Consultants",
         "id": "55a32e9d-f96a-45cb-a313-472d7408452f",
         "title": "Early-Career GIS Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1774447786,
         "date_posted": 1774447786,
         "url": "https://careers-geosyntec.icims.com/jobs/4341/job?mobile=true&needsRedirect=false",
