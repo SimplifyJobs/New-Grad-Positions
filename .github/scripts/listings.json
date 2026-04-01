@@ -3,23 +3,6 @@
         "source": "Simplify",
         "category": "Software",
         "company_name": "Jerry",
-        "id": "7d188c3f-6bb0-4d90-9d09-ff110ac0c85a",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1754326306,
-        "date_posted": 1754326306,
-        "url": "https://jobs.ashbyhq.com/Jerry/ea6198c6-18ff-4d6b-93b7-29daa4e3957f/application",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Jerry",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Jerry",
         "id": "ac728ba9-6063-445f-9722-8eda369b2d95",
         "title": "Software Engineer I",
         "active": false,
@@ -77653,44 +77636,6 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/Jane-Street",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Global Lending Services",
-        "id": "e6336635-c322-463b-8115-f3293acf76c6",
-        "title": "Software Developer",
-        "active": false,
-        "date_updated": 1754325713,
-        "date_posted": 1754325713,
-        "url": "https://jobs.lever.co/glsllc/05982a30-f540-4ceb-af07-b8647d794da3/apply",
-        "locations": [
-            "Greenville, SC"
-        ],
-        "company_url": "https://simplify.jobs/c/Global-Lending-Services",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Global Lending Services",
-        "id": "85c55181-f254-4030-8d1a-1e1a5684123e",
-        "title": "Business Systems Analyst - Application Development",
-        "active": true,
-        "date_updated": 1754325695,
-        "date_posted": 1754325695,
-        "url": "https://jobs.lever.co/glsllc/a6e0e275-c1c9-46b2-9af8-5a46aa9d8649/apply",
-        "locations": [
-            "Greenville, SC"
-        ],
-        "company_url": "https://simplify.jobs/c/Global-Lending-Services",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
