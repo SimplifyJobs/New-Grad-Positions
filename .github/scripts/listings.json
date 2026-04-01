@@ -43098,7 +43098,7 @@
         "company_name": "TikTok",
         "id": "0fb303dc-84aa-40cc-8e77-f66f910edbf9",
         "title": "Machine Learning Engineer Graduate - Global E-commerce Recommendation/Search",
-        "active": false,
+        "active": true,
         "date_updated": 1761914756,
         "date_posted": 1761914756,
         "url": "https://lifeattiktok.com/search/7550798923146250504",
@@ -77081,7 +77081,7 @@
         "company_name": "TikTok",
         "id": "7a8c16e6-b29e-441d-9635-d193fe1c96fa",
         "title": "Software Engineer Graduate - 2026 Start",
-        "active": false,
+        "active": true,
         "date_updated": 1761902303,
         "date_posted": 1761902303,
         "url": "https://lifeattiktok.com/search/7531175534148045063",
@@ -93359,7 +93359,7 @@
         "company_name": "RELX",
         "id": "ce94fe45-8bec-41b9-90a2-247ec7ffbca9",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1763767058,
         "date_posted": 1763767058,
         "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Alpharetta-GA/Software-Engineer-I_R104483-1",
@@ -160818,7 +160818,7 @@
         "company_name": "KCI Technologies",
         "id": "66c18f2d-0c1e-490f-8762-cae2550db7cc",
         "title": "GIS Technician 1 - Energy",
-        "active": false,
+        "active": true,
         "date_updated": 1768836203,
         "date_posted": 1761878967,
         "url": "https://careers-kci.icims.com/jobs/7367/job?mobile=true&needsRedirect=false",
@@ -221521,7 +221521,7 @@
         "company_name": "RTX",
         "id": "d4cadf02-5814-42fd-aabb-25a68166bc92",
         "title": "2026 Full-time - Software Engineer I - Onsite- AZ",
-        "active": false,
+        "active": true,
         "date_updated": 1771976129,
         "date_posted": 1771976129,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/XMLNAME-2026-Full-time---Software-Engineer-I---Onsite--AZ-_01826335",
@@ -226163,7 +226163,7 @@
         "company_name": "Capital One",
         "id": "8604d8aa-cc00-481b-9215-515df15cae18",
         "title": "Associate \u2013 New Grad Card Expansion - Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1772149671,
         "date_posted": 1772149671,
         "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R236833",
@@ -242168,7 +242168,7 @@
         "company_name": "RWS",
         "id": "41697854-de86-4017-9115-00e1e03a6ca4",
         "title": "AI Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1772840174,
         "date_posted": 1772840174,
         "url": "https://jobs.lever.co/rws/f524dbeb-e8e8-4c42-a0c2-d10dfd83932a/apply",
@@ -257808,7 +257808,7 @@
         "company_name": "Vanguard",
         "id": "bd6a1b08-9ffe-44ff-acdb-819753bf1bd8",
         "title": "Application Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773758124,
         "date_posted": 1773758124,
         "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/contractors_restricted/job/Manchester-United-Kingdom/Application-Engineer---I_174863",
@@ -263298,7 +263298,7 @@
         "company_name": "Worldpay",
         "id": "02550120-f814-4920-9adf-ae6bbaae11cf",
         "title": "Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1774047406,
         "date_posted": 1774047406,
         "url": "https://worldpay.wd5.myworkdayjobs.com/Worldpay_External_Careers_Site/job/CINCINNATI-OHIO/Software-Engineer-I_JR0608959",
@@ -269140,7 +269140,7 @@
         "company_name": "StackAdapt",
         "id": "47ad1903-384c-4f1a-9399-80727dd49e34",
         "title": "Product Marketing Specialist - Programmatic Channels",
-        "active": true,
+        "active": false,
         "date_updated": 1774304996,
         "date_posted": 1772582039,
         "url": "https://job-boards.greenhouse.io/stackadapt/jobs/4156820009",
@@ -272875,7 +272875,7 @@
         "company_name": "Morgan Stanley",
         "id": "a752f86a-a7ce-44f0-b6a2-bc807bea3b72",
         "title": "Quantitative Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1774564968,
         "date_posted": 1774564968,
         "url": "https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Quantitative-Analyst_PT-JR032939",
@@ -282473,7 +282473,7 @@
         "company_name": "TD Bank",
         "id": "ec9f893b-5a9e-41e6-a17a-103b67088557",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1775025181,
         "date_posted": 1775023585,
         "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mississauga-Ontario/Associate-Software-Engineer_R_1480677",
@@ -283170,5 +283170,85 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "e04bd81f-316f-4fc9-9823-c7ded6cc8587",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1775083861,
+        "date_posted": 1775081322,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055838",
+        "locations": [
+            "Leeds, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Huntington Ingalls Industries",
+        "id": "d2c655fc-e425-4488-ab0d-b868db139668",
+        "title": "Engineer Test Operations 1",
+        "active": true,
+        "date_updated": 1775082781,
+        "date_posted": 1775081265,
+        "url": "https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-TEST-OPERATIONS-1-Virg/1365411800/?ats=successfactors",
+        "locations": [
+            "Newport News, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Huntington-Ingalls-Industries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "759bafd3-bdf7-4c43-ac55-adad6fea805c",
+        "title": "Software Engineer - Global CRM Platform",
+        "active": true,
+        "date_updated": 1775082781,
+        "date_posted": 1775081598,
+        "url": "https://lifeattiktok.com/search/7281061641377106234",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GE Healthcare",
+        "id": "428c12ec-f239-496d-adf0-3b6edbfe11ef",
+        "title": "Field Service Engineer 1",
+        "active": true,
+        "date_updated": 1775083816,
+        "date_posted": 1773873776,
+        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-I_R4038106",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Healthcare",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
     }
 ]
