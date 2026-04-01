@@ -221402,7 +221402,7 @@
         "company_name": "Cirrus Logic",
         "id": "ecf95502-69a2-4794-8e31-ac3ffc9a0b8f",
         "title": "Entry Level Digital Design Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1771974578,
         "date_posted": 1771974578,
         "url": "https://jobs.eu.lever.co/cirrus/61ae5eb1-94c8-4aba-9f2a-7968facbf18e/apply",
@@ -258786,7 +258786,7 @@
         "company_name": "Western Digital",
         "id": "a56ebbf4-20e7-4aac-858f-0b5a587d29ff",
         "title": "Early Careers Talent - Failure Analysis Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773795973,
         "date_posted": 1773795973,
         "url": "https://jobs.smartrecruiters.com/WesternDigital/744000115303377",
@@ -270476,7 +270476,7 @@
         "company_name": "Welocalize",
         "id": "c0c01ca2-9596-4a20-9669-cfab118fc030",
         "title": "Generative AI Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1774476458,
         "date_posted": 1774476458,
         "url": "https://jobs.lever.co/welocalize/00460b83-6e7e-4ab1-b0b6-74ef88446049/apply",
@@ -271612,7 +271612,7 @@
         "company_name": "Welocalize",
         "id": "7f01cd88-1ca9-4440-8d4f-cc6e0a8e8897",
         "title": "Generative AI Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1774487491,
         "date_posted": 1774487491,
         "url": "https://jobs.lever.co/welocalize/5f0e65d9-dde1-4bb9-a2d1-cbf3ef4ae4ab/apply",
@@ -276959,7 +276959,7 @@
         "company_name": "Universal Music Group",
         "id": "7c645b11-38e6-4fbd-b5ac-e03146eade38",
         "title": "Analyst \u2013 Insights & Strategy",
-        "active": true,
+        "active": false,
         "date_updated": 1774865701,
         "date_posted": 1774093133,
         "url": "https://umusic.wd5.myworkdayjobs.com/en-US/UMGUS/job/Santa-Monica-California/Analyst--Insights---Strategy_UMG-25066",
@@ -281330,7 +281330,7 @@
         "company_name": "Western Digital",
         "id": "c3e530a6-82f8-4c6a-a2d3-31c01c6bd3b2",
         "title": "Electronics Design Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1775001602,
         "date_posted": 1774994642,
         "url": "https://jobs.smartrecruiters.com/WesternDigital/744000117943417",
@@ -282066,7 +282066,7 @@
         "company_name": "Sonalysts",
         "id": "41830e7b-5533-420e-8eb2-1ed49ae08321",
         "title": "Training Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1775004178,
         "date_posted": 1774994592,
         "url": "https://careers-sonalysts.icims.com/jobs/2387/job?mobile=true&needsRedirect=false",
@@ -282842,5 +282842,60 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Walt Disney Company",
+        "id": "730d06c8-ddd1-4c42-94b6-0f87a6423991",
+        "title": "Technical Assistant",
+        "active": true,
+        "date_updated": 1775035621,
+        "date_posted": 1775035180,
+        "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/London-United-Kingdom/Technical-Assistant---ILM-London_10147405",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Disney",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "223865a7-17f7-46c1-a794-d5551ee04c53",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1775035621,
+        "date_posted": 1775034320,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050870",
+        "locations": [
+            "Durham, UK",
+            "Thirsk, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "GovSignals",
+        "id": "37c46199-78e6-4b60-9679-3a53fdb4cf5a",
+        "title": "Product Engineer",
+        "active": true,
+        "date_updated": 1775035621,
+        "date_posted": 1770793814,
+        "url": "https://jobs.ashbyhq.com/GovSignals/935e94f7-1e15-4b90-8005-1522fc9baadc/application",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/GovSignals",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
