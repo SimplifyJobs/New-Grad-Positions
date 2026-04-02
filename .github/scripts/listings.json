@@ -274762,7 +274762,7 @@
         "company_name": "Sainsbury's",
         "id": "b9b5e6a5-004a-45e9-90c9-910749452b8f",
         "title": "Trading Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1774735650,
         "date_posted": 1774735650,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055416",
@@ -284112,6 +284112,29 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Ares Management",
+        "id": "f0b4e5a7-8bc9-4298-ad8b-e69981b0f317",
+        "title": "Vice President - Salesforce Developer",
+        "active": true,
+        "date_updated": 1775126521,
+        "date_posted": 1774994870,
+        "url": "https://aresmgmt.wd1.myworkdayjobs.com/en-US/External/job/New-York-NY/Vice-President--Salesforce-Developer_R7645",
+        "locations": [
+            "NYC",
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/ea25dd6c-f530-49ce-b6aa-60a42ba77d95",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     }
 ]
