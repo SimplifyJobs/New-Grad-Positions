@@ -2,40 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "RTX",
-        "id": "fb96780d-b990-4c79-9972-b2c78120da32",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1754432472,
-        "date_posted": 1754432472,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA311-Woburn-MA-225-Presidential-225-Presidential-Way-Goddard-Building-27-Woburn-MA-01801-USA/XMLNAME-2025-Fulltime--Raytheon-Software-Engineer-I--Onsite-_01784333",
-        "locations": [
-            "Burlington, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Bree",
-        "id": "9e901729-f24c-4d15-bb93-13dc12fd9a74",
-        "title": "Software Engineer \u2013 New Graduate",
-        "active": false,
-        "date_updated": 1754432242,
-        "date_posted": 1754432242,
-        "url": "http://jobs.ashbyhq.com/bree/a337beb6-37a1-45f8-b650-602937a9adab/application",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Bree",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Broadcom Limited",
         "id": "078470df-4ce4-4ea5-942f-cff77cdefc9e",
         "title": "Entry level Mainframe Software Development Engineer",
@@ -76966,24 +76932,6 @@
         "degrees": [
             "PhD"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "IQVIA",
-        "id": "1c073940-5184-435a-ae2d-2a8e95431164",
-        "title": "Field Service Engineer \u2013 Entry Level",
-        "active": false,
-        "date_updated": 1760176843,
-        "date_posted": 1754432234,
-        "url": "https://iqvia.wd1.myworkdayjobs.com/en-US/IQVIA/job/Buffalo-NY/Field-Service-Engineer_R1498303",
-        "locations": [
-            "Buffalo, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/IQVIA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
