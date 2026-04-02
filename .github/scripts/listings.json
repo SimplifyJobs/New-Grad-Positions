@@ -1,47 +1,5 @@
 [
     {
-        "date_updated": 1755651954,
-        "url": "https://www.nuro.ai/careersitem?gh_jid=6932596",
-        "company_name": "Nuro",
-        "title": "Software Engineer, Autonomy",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "source": "Simplify",
-        "id": "160daab9-0602-49e5-a7a5-c69a5ba5b88f",
-        "date_posted": 1754358986,
-        "company_url": "",
-        "is_visible": false,
-        "degrees": []
-    },
-    {
-        "date_updated": 1764595634,
-        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210649912",
-        "company_name": "JPMorganChase",
-        "title": "Software Engineer",
-        "locations": [
-            "Austin, TX",
-            "Chicago, IL",
-            "Columbus, OH",
-            "Houston, TX",
-            "Jersey City, NJ",
-            "New York, NY",
-            "Palo Alto, CA",
-            "Plano, TX",
-            "Tampa, FL",
-            "Wilmington, DE"
-        ],
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": false,
-        "source": "AlmondCroffle",
-        "id": "b1693eec-c5f3-4da3-9190-0354c4579293",
-        "date_posted": 1754359170,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "date_updated": 1762779296,
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210649942",
         "company_name": "JPMorganChase",
@@ -76755,7 +76713,7 @@
         "company_name": "TikTok",
         "id": "f22da764-7308-4324-b842-8abee0e14c08",
         "title": "General Hire \u2013 Machine Learning Engineer Graduate - 2026 Start\",\"BS/MS",
-        "active": false,
+        "active": true,
         "date_updated": 1761846228,
         "date_posted": 1754554679,
         "url": "https://lifeattiktok.com/search/7533384972704778514",
@@ -245634,7 +245592,7 @@
         "company_name": "Blue Cross Blue Shield of Arizona",
         "id": "1cdb8775-64c0-4839-b4de-2c3f10081eca",
         "title": "Programmer",
-        "active": true,
+        "active": false,
         "date_updated": 1773181579,
         "date_posted": 1773181579,
         "url": "https://bcbsaz.wd1.myworkdayjobs.com/en-US/bcbsazcareers/job/AZ-Blue-Phoenix-AZ-85021/Programmer---Hybrid_R5907-1",
@@ -255070,7 +255028,7 @@
         "company_name": "Sainsbury's",
         "id": "ee3f0199-d366-450b-8c8e-32b4219d63f2",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1773482121,
         "date_posted": 1773482121,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053424",
@@ -283142,7 +283100,7 @@
         "company_name": "Sainsbury's",
         "id": "e04bd81f-316f-4fc9-9823-c7ded6cc8587",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1775083861,
         "date_posted": 1775081322,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055838",
@@ -283420,7 +283378,7 @@
         "company_name": "Sainsbury's",
         "id": "5602a2e7-ef7f-4c2a-b90d-49ac8ac9372e",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1775084941,
         "date_posted": 1775081322,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055521",
@@ -283624,7 +283582,7 @@
         "company_name": "Sainsbury's",
         "id": "2ee17173-8ba3-4208-933c-a3d61f1d92c8",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1775084941,
         "date_posted": 1775081322,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055458",
@@ -283680,7 +283638,7 @@
         "company_name": "Sainsbury's",
         "id": "77c71a33-9557-4858-a17c-4f94e4cad6f8",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1775084041,
         "date_posted": 1775081322,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055520",
@@ -284190,5 +284148,23 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Fanatics",
+        "id": "f6a20744-f898-4cf5-b892-3203065381b4",
+        "title": "Software Engineer 2",
+        "active": true,
+        "date_updated": 1775093041,
+        "date_posted": 1775092063,
+        "url": "https://fa-exki-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27391",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Fanatics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
