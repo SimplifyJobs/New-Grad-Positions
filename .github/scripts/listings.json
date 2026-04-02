@@ -45416,7 +45416,7 @@
         "company_name": "TikTok",
         "id": "c89f30a9-50c6-4081-bb5f-dc41eda3330b",
         "title": "Software Engineer Graduate - Global CRM - 2026 Start','BS/MS",
-        "active": false,
+        "active": true,
         "date_updated": 1761902291,
         "date_posted": 1761902291,
         "url": "https://lifeattiktok.com/search/7532009495959521554",
@@ -252069,7 +252069,7 @@
         "company_name": "ByteDance",
         "id": "e920c61c-4e36-466e-91fb-f7e56b5192c2",
         "title": "Graduate Research Scientist",
-        "active": false,
+        "active": true,
         "date_updated": 1773392941,
         "date_posted": 1773392941,
         "url": "https://jobs.bytedance.com/en/position/7397590567570426162/detail",
@@ -266432,7 +266432,7 @@
         "company_name": "Sainsbury's",
         "id": "1df84de5-28ce-47c6-81cb-b868d86d3220",
         "title": "Trading Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1774315974,
         "date_posted": 1774315974,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054823",
@@ -272567,7 +272567,7 @@
         "company_name": "Sainsbury's",
         "id": "67432723-20e3-4ffa-a076-1992430baee4",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1774563136,
         "date_posted": 1774563136,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054748",
@@ -280808,7 +280808,7 @@
         "company_name": "Grid",
         "id": "5b484d13-d087-440d-a727-b679547d7240",
         "title": "Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1775004814,
         "date_posted": 1774994888,
         "url": "https://jobs.lever.co/Grid/1c257468-1b91-46d5-afa4-d23f8c16999d/apply",
@@ -282925,7 +282925,7 @@
         "company_name": "Sainsbury's",
         "id": "cdb644d6-e22c-4f4a-b4a1-31348f41898a",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1775053801,
         "date_posted": 1775052574,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054591",
@@ -283662,7 +283662,7 @@
         "company_name": "Sainsbury's",
         "id": "fd236dee-fe0b-4b6a-a1b8-5822a4856e4e",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1775084041,
         "date_posted": 1775081321,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054589",
@@ -284065,6 +284065,130 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "SpaceX",
+        "id": "073680fb-3eed-416f-ae24-d456e0992130",
+        "title": "Hardware Engineer - Gateways & Customer Hardware",
+        "active": true,
+        "date_updated": 1775092501,
+        "date_posted": 1775092349,
+        "url": "https://boards.greenhouse.io/spacex/jobs/8490691002",
+        "locations": [
+            "Bastrop, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/SpaceX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Applied Materials",
+        "id": "037ce5e6-e640-4d6b-b25b-2412f061dbe4",
+        "title": "IT System Solutions Management",
+        "active": true,
+        "date_updated": 1775092880,
+        "date_posted": 1775092255,
+        "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/New-College-Grad-IT-System-Solutions-Management--Bachelors--Santa-Clara--CA-_R2616322",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Materials",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "KLA",
+        "id": "6eeda7bd-ae78-4fab-8447-11633eb23031",
+        "title": "Product Installation Engineer",
+        "active": true,
+        "date_updated": 1775092321,
+        "date_posted": 1775092032,
+        "url": "https://kla.wd1.myworkdayjobs.com/Search/job/USA-AZ-Phoenix-KLA/Product-Installation-Engineer--Rapid_2529792",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/KLA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Allina Health",
+        "id": "6c64babe-2c24-423a-8fc8-551bf6d55f22",
+        "title": "Business Intelligence Analyst Associate",
+        "active": true,
+        "date_updated": 1775092561,
+        "date_posted": 1775091995,
+        "url": "https://allina.wd5.myworkdayjobs.com/external/job/Allina-Commons/Business-Intelligence-Analyst-Associate_R-0070208",
+        "locations": [
+            "Minneapolis, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Allina-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Oshkosh",
+        "id": "4983516e-cb70-4891-9238-b0dccc00cd67",
+        "title": "Engineer - Autonomy",
+        "active": true,
+        "date_updated": 1775092705,
+        "date_posted": 1775092239,
+        "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/Engineer---Autonomy_R40893-1",
+        "locations": [
+            "Oshkosh, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Oshkosh",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Galileo Financial Technologies",
+        "id": "1c5a7723-3fb3-4289-b85f-df65144867c2",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1775092321,
+        "date_posted": 1770333748,
+        "url": "https://job-boards.greenhouse.io/galileofinancialtechnologies/jobs/7620926003",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Galileo-Financial-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
