@@ -207863,7 +207863,7 @@
         "company_name": "ING",
         "id": "2b69ad54-7aaf-4beb-a154-559e6b6bc1ef",
         "title": "Fixed Income Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1771429791,
         "date_posted": 1771429791,
         "url": "https://ing.wd3.myworkdayjobs.com/icsgblcor/job/London/Fixed-Income-Data-Analyst_REQ-10109274-1",
@@ -280756,7 +280756,7 @@
         "company_name": "Northrop Grumman",
         "id": "cbbb9e2a-56e3-4fa6-9333-8ae1f1092417",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1775005366,
         "date_posted": 1774995009,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Nebraska-Bellevue/XMLNAME-2026-Associate-Software-Engineer---Bellevue--NE-_R10227907",
@@ -283824,6 +283824,48 @@
         "degrees": [
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Perplexity AI",
+        "id": "0d448d6a-92f4-4eed-bb7d-d10a315544a0",
+        "title": "Member of Technical Staff - AI Policy and Strategic Initiatives",
+        "active": true,
+        "date_updated": 1775111285,
+        "date_posted": 1775110180,
+        "url": "https://jobs.ashbyhq.com/Perplexity/0359ebb4-7cbd-4641-a6d1-1127823e2fd5/application",
+        "locations": [
+            "Washington, DC",
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/PerplexityAI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Agoda",
+        "id": "b9c4a46f-2b41-4f0f-a9fa-7ba2e07f2f51",
+        "title": "Supply Analytics Senior Analyst",
+        "active": true,
+        "date_updated": 1775111401,
+        "date_posted": 1773988105,
+        "url": "https://job-boards.greenhouse.io/agoda/jobs/7698911",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Agoda",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "Master's"
         ]
     }
 ]
