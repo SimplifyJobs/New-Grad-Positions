@@ -1,22 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Zoro",
-        "id": "e825cd57-2482-4e89-b28a-901424d7269b",
-        "title": "Software Engineer I - Release Platform",
-        "active": false,
-        "date_updated": 1754351086,
-        "date_posted": 1754351086,
-        "url": "https://zoro.com/careers/jobs?gh_jid=4589860006",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Zoro",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
         "date_updated": 1755651954,
         "url": "https://www.nuro.ai/careersitem?gh_jid=6932596",
         "company_name": "Nuro",
@@ -77529,24 +77512,6 @@
             "Austin, TX"
         ],
         "company_url": "https://simplify.jobs/c/University-Of-Texas-Austin",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "IDT Corporation",
-        "id": "e1521702-940b-4462-89f2-d18fa8d496f5",
-        "title": "NRS POS Repair Assistant",
-        "active": false,
-        "date_updated": 1754351533,
-        "date_posted": 1754351533,
-        "url": "https://jobs.lever.co/idt/3a22abab-553c-4cca-80d1-a6e34f51cf78/apply",
-        "locations": [
-            "Newark, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/IDT-Corporation",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -184382,7 +184347,7 @@
         "company_name": "The Methodist Hospitals",
         "id": "e351befa-1368-4266-b91f-6b3347969e90",
         "title": "Op-Time Application Analyst IT",
-        "active": true,
+        "active": false,
         "date_updated": 1770112897,
         "date_posted": 1769469110,
         "url": "https://careers-methodisthospitals.icims.com/jobs/13149/job?mobile=true&needsRedirect=false",
@@ -225654,7 +225619,7 @@
         "company_name": "onXmaps",
         "id": "5308b42c-cc2e-4dca-bbf6-9cff62b3b2ac",
         "title": "Data Engineer 2",
-        "active": true,
+        "active": false,
         "date_updated": 1772147952,
         "date_posted": 1772147952,
         "url": "https://job-boards.greenhouse.io/onxmaps/jobs/4655665006",
@@ -272937,7 +272902,7 @@
         "company_name": "Mark43",
         "id": "ce9eeaf3-1631-4e66-a4d1-3452f0844f41",
         "title": "Associate Data Scientist",
-        "active": false,
+        "active": true,
         "date_updated": 1774564528,
         "date_posted": 1774564528,
         "url": "https://mark43.com/list-job/7760111?gh_jid=7760111",
@@ -283886,5 +283851,220 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "LexisNexis Legal & Professional",
+        "id": "fb50c289-b77d-4de1-89fa-82341316f4c4",
+        "title": "Associate Product Manager - Data & Insights",
+        "active": true,
+        "date_updated": 1775086194,
+        "date_posted": 1775081205,
+        "url": "https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Home-based-Ohio/Associate-Product-Manager--Data---Insights-_R111371",
+        "locations": [
+            "Pennsylvania",
+            "California",
+            "Texas",
+            "Jackson Township, NJ",
+            "Florida",
+            "Georgia",
+            "NYC",
+            "North Carolina",
+            "Ohio"
+        ],
+        "company_url": "https://simplify.jobs/c/LexisNexis-Legal-And-Professional",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Aquatic Capital Management",
+        "id": "d54312d4-b724-4f31-8edc-89a45c0f4ef5",
+        "title": "Software Engineer \u2013 Early Career",
+        "active": true,
+        "date_updated": 1775085661,
+        "date_posted": 1775081547,
+        "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489226002",
+        "locations": [
+            "Chicago, IL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Aquatic-Capital-Management",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Aviatrix",
+        "id": "871f558a-20d7-454c-a54e-b4bfe41b7094",
+        "title": "Mts Sdet \u2013 Test Infrastructure",
+        "active": true,
+        "date_updated": 1775085661,
+        "date_posted": 1775081874,
+        "url": "https://aviatrix.com/careers/?gh_jid=4679403005",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Aviatrix",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Danaher Corporation",
+        "id": "1285bc32-8b23-4cd5-a772-985ccf090480",
+        "title": "Field Service Engineer 1",
+        "active": true,
+        "date_updated": 1775086235,
+        "date_posted": 1775081220,
+        "url": "https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/Houston-Texas-United-States/Field-Service-Engineer-I---Houston--TX_R1307697",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Danaher-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "f7033a24-729d-47c0-86ae-710ccdab3c9c",
+        "title": "Systems Engineer 1",
+        "active": true,
+        "date_updated": 1775086145,
+        "date_posted": 1775081362,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/XMLNAME-2026-Systems-Engineer-I---Onsite_01834706",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cincinnati Children\u2019s Hospital and Medical Center",
+        "id": "f3dacc8e-0f84-4b4f-ad43-808aaa53919c",
+        "title": "Social Worker PHP",
+        "active": true,
+        "date_updated": 1775086186,
+        "date_posted": 1775081450,
+        "url": "https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Green-Township/Social-Worker-for-Green-Township-PHP_JR219286",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Cincinnati-Childrens-Hospital-And-Medical-Center",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "cd2bc327-ac6a-4bf1-ab01-0ec81e9dac4c",
+        "title": "Systems Engineer 1",
+        "active": true,
+        "date_updated": 1775086150,
+        "date_posted": 1775081358,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-848--1151-E-Hermans-Rd--BLDG-848/XMLNAME-2026-Systems-Engineer-I---Onsite_01831793",
+        "locations": [
+            "Tucson, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Aquatic Capital Management",
+        "id": "9903235a-060d-4f68-baa9-ff6917bd33ca",
+        "title": "Quantitative Researcher",
+        "active": true,
+        "date_updated": 1775086117,
+        "date_posted": 1775081547,
+        "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489150002",
+        "locations": [
+            "Chicago, IL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Aquatic-Capital-Management",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Blue Yonder",
+        "id": "90507aa4-c9ca-461b-8ba1-a4126712a8a7",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1775086177,
+        "date_posted": 1775081248,
+        "url": "https://jda.wd5.myworkdayjobs.com/en-US/JDA_Careers/job/Dallas/Software-Engineer-I_254756-1",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Blue-Yonder",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Broadridge",
+        "id": "8e18ee26-2f38-4b24-b09c-047f939b9f73",
+        "title": "Product Owner - Multiple Teams",
+        "active": true,
+        "date_updated": 1775085661,
+        "date_posted": 1775081446,
+        "url": "https://broadridge.wd5.myworkdayjobs.com/careers/job/Pittsburgh-PA/Product-Owner--Hybrid---Pittsburgh--PA--Newark--NJ-or-NYC-_JR1081473",
+        "locations": [
+            "Newark, NJ",
+            "Pittsburgh, PA",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Broadridge",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
