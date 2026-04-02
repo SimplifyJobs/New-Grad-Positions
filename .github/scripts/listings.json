@@ -275406,7 +275406,7 @@
         "company_name": "Wells Fargo",
         "id": "55909c76-31f6-4d2a-83bf-eb63ca081c56",
         "title": "Engineering Associate - Java & UI Technologies",
-        "active": true,
+        "active": false,
         "date_updated": 1774649406,
         "date_posted": 1774649406,
         "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/WEST-DES-MOINES-IA/Engineering-Associate---Java---UI-Technologies_R-533235-1",
@@ -283767,6 +283767,63 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "8949efe0-4165-4d55-a77a-78a36b3bf30a",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1775110861,
+        "date_posted": 1775110071,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055946",
+        "locations": [
+            "Midlothian, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "68399e57-9de5-47ce-a6a5-c37e31cd17ea",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1775110861,
+        "date_posted": 1775110067,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055943",
+        "locations": [
+            "Midlothian, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Applied Materials",
+        "id": "39e490e9-04e2-48ce-aed2-5de34b4cae97",
+        "title": "Modeling Engineer - Plasma Etch - Machine Learning",
+        "active": true,
+        "date_updated": 1775110861,
+        "date_posted": 1775110153,
+        "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Modeling-Engineer---Plasma-Etch--Machine-Learning_R2615879",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Materials",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
         ]
     }
 ]
