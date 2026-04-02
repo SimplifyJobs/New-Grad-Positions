@@ -1,22 +1,5 @@
 [
     {
-        "date_updated": 1759961567,
-        "url": "https://simisinc.applytojob.com/apply/ViiE78Quow/Junior-Software-Developer-Modeling-Simulation",
-        "company_name": "SimIS",
-        "title": "Junior Software Developer - Modeling & Simulation",
-        "locations": [
-            "Suffolk, VA"
-        ],
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
-        "source": "AlmondCroffle",
-        "id": "7a116e37-5c53-4f22-a4d3-0d53c3fae434",
-        "date_posted": 1754377574,
-        "company_url": "",
-        "is_visible": false,
-        "degrees": []
-    },
-    {
         "source": "Simplify",
         "category": "Software",
         "company_name": "BRM",
@@ -221025,7 +221008,7 @@
         "company_name": "RTX",
         "id": "d4cadf02-5814-42fd-aabb-25a68166bc92",
         "title": "2026 Full-time - Software Engineer I - Onsite- AZ",
-        "active": true,
+        "active": false,
         "date_updated": 1771976129,
         "date_posted": 1771976129,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/XMLNAME-2026-Full-time---Software-Engineer-I---Onsite--AZ-_01826335",
@@ -263358,7 +263341,7 @@
         "company_name": "The Boeing Company",
         "id": "025b02c5-cfde-4516-a970-db1a620407a2",
         "title": "Simulation Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1774057286,
         "date_posted": 1774057286,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/United-States---Remote/Simulation-Software-Engineer--Associate-or-Experienced---Virtual-_JR2026502082-1",
