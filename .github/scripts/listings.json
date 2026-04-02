@@ -1,48 +1,5 @@
 [
     {
-        "date_updated": 1762779296,
-        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210649942",
-        "company_name": "JPMorganChase",
-        "title": "Software Engineer",
-        "locations": [
-            "Wilmington, DE",
-            "Austin, TX",
-            "Chicago, IL",
-            "Columbus, OH",
-            "Houston, TX",
-            "Jersey City, NJ",
-            "New York, NY",
-            "Palo Alto, CA",
-            "Plano, TX",
-            "Tampa, FL"
-        ],
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": false,
-        "source": "AlmondCroffle",
-        "id": "013a4e35-eeac-4d37-af0f-a84ae3187306",
-        "date_posted": 1754359368,
-        "company_url": "",
-        "is_visible": true,
-        "degrees": []
-    },
-    {
-        "date_updated": 1757032325,
-        "url": "https://www.metrostar.com/job-post/?gh_jid=6667276003",
-        "company_name": "MetroStar",
-        "title": "Associate Software Developer",
-        "locations": [
-            "Reston, VA"
-        ],
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "source": "AlmondCroffle",
-        "id": "d7250641-4c60-49ed-bb02-adda65f7c477",
-        "date_posted": 1754359833,
-        "company_url": "",
-        "is_visible": false,
-        "degrees": []
-    },
-    {
         "date_updated": 1754662623,
         "url": "https://careers.servicenow.com/jobs/744000073378905/associate-systems-engineer/?trid=2d92f286-613b-4daf-9dfa-6340ffbecf73",
         "company_name": "ServiceNow",
@@ -207469,7 +207426,7 @@
         "company_name": "Pure Storage",
         "id": "dc97139d-fa2b-4aa2-8621-a1924dcbdb75",
         "title": "Graduate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1771380909,
         "date_posted": 1771380909,
         "url": "https://boards.greenhouse.io/purestorage/jobs/7258968",
@@ -278012,7 +277969,7 @@
         "company_name": "KLA",
         "id": "afafa7a0-c4bf-40b5-b192-c227fdd96f7f",
         "title": "Product Development Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1774939861,
         "date_posted": 1774937184,
         "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Product-Development-Application-Engineer_2635170-1",
