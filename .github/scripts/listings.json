@@ -122944,7 +122944,7 @@
         "company_name": "Mintlify",
         "id": "52bf00f3-b325-414e-b820-7e50eb8c5314",
         "title": "Support Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1765964682,
         "date_posted": 1758158624,
         "url": "https://jobs.ashbyhq.com/Mintlify/4b5b6945-1a80-49fe-8bcb-64b3075e7b5f/application",
@@ -217667,7 +217667,7 @@
         "company_name": "IMC Trading",
         "id": "893a3210-4b88-47a9-a409-f2b225c1c34f",
         "title": "Graduate Floor Trader",
-        "active": false,
+        "active": true,
         "date_updated": 1771889647,
         "date_posted": 1771889647,
         "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4786701101",
@@ -257196,7 +257196,7 @@
         "company_name": "Sainsbury's",
         "id": "9a76f81a-9042-4f44-8b77-f9f7a6418dc2",
         "title": "Trading Assistant - Shift",
-        "active": false,
+        "active": true,
         "date_updated": 1773756721,
         "date_posted": 1773756721,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053789",
@@ -272905,7 +272905,7 @@
         "company_name": "Wells Fargo",
         "id": "62702c19-6e5c-4e87-9b3d-7ae51ddfe056",
         "title": "Engineering Associate - Java & API Development",
-        "active": true,
+        "active": false,
         "date_updated": 1774570956,
         "date_posted": 1774570956,
         "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CONCORD-CA/Engineering-Associate---Java---API-Development_R-532546",
@@ -283815,7 +283815,7 @@
         "company_name": "Perplexity AI",
         "id": "0d448d6a-92f4-4eed-bb7d-d10a315544a0",
         "title": "Member of Technical Staff - AI Policy and Strategic Initiatives",
-        "active": true,
+        "active": false,
         "date_updated": 1775111285,
         "date_posted": 1775110180,
         "url": "https://jobs.ashbyhq.com/Perplexity/0359ebb4-7cbd-4641-a6d1-1127823e2fd5/application",
@@ -283834,7 +283834,7 @@
         "company_name": "Agoda",
         "id": "b9c4a46f-2b41-4f0f-a9fa-7ba2e07f2f51",
         "title": "Supply Analytics Senior Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1775111401,
         "date_posted": 1773988105,
         "url": "https://job-boards.greenhouse.io/agoda/jobs/7698911",
@@ -283932,6 +283932,139 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Uline",
+        "id": "d2442b70-ee06-4abe-90e4-9b14a0f6d84d",
+        "title": "Associate Ecommerce Data Analyst",
+        "active": true,
+        "date_updated": 1775121481,
+        "date_posted": 1775120729,
+        "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Associate-eCommerce-Data-Analyst_R262768-1",
+        "locations": [
+            "Waukegan, IL",
+            "Milwaukee, WI",
+            "Pleasant Prairie, WI",
+            "Morton Grove, IL",
+            "Kenosha, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Uline",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pennsylvania State University",
+        "id": "7e8cbfda-6847-4e3d-bec6-5ba081d8981b",
+        "title": "Postdoctoral Researchers - Time Domain and Multi-Messenger Astrophysics",
+        "active": true,
+        "date_updated": 1775122561,
+        "date_posted": 1773876735,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Researcher---High-Energy-Transient-Astronomy_REQ_0000068039-1",
+        "locations": [
+            "State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Berkshire Hathaway Energy",
+        "id": "a94fc300-8fc2-4984-9a37-b49c6a6daa9c",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1775122561,
+        "date_posted": 1773353643,
+        "url": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10004529",
+        "locations": [
+            "Des Moines, IA",
+            "Richmond, VA",
+            "Reno, NV",
+            "Sioux City, IA",
+            "Davenport, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/Berkshire-Hathaway-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "BlackRock",
+        "id": "6b491171-002d-4ec5-8edf-5ef70774f045",
+        "title": "Security Modeling C++ Developer - Associate",
+        "active": true,
+        "date_updated": 1775122809,
+        "date_posted": 1772754347,
+        "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/New-York-NY/Security-Modeling---Associate_R260758",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/BlackRock",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "OpusClip",
+        "id": "a35028c5-d648-4a10-8182-45ba4da456ba",
+        "title": "Full Stack Engineer",
+        "active": true,
+        "date_updated": 1775122561,
+        "date_posted": 1772176760,
+        "url": "https://jobs.ashbyhq.com/opusclip/b4fe8c5d-ef27-4e56-b5bb-b8df3b47301f/application",
+        "locations": [
+            "Burnaby, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/OpusClip",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Snowflake",
+        "id": "f8615d0e-3a5e-4977-9a23-93e2cb975513",
+        "title": "Software Engineer - Frontend",
+        "active": true,
+        "date_updated": 1775121481,
+        "date_posted": 1771974911,
+        "url": "https://jobs.ashbyhq.com/snowflake/950abc30-8bfb-4f15-9bb9-62713c93aa5f/application",
+        "locations": [
+            "Menlo Park, CA",
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Snowflake",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     }
 ]
