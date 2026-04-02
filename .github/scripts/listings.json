@@ -2,23 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "BRM",
-        "id": "59f2623e-1e7c-4a2c-b675-38ba8bdba66f",
-        "title": "Entry Level Software Engineer",
-        "active": true,
-        "date_updated": 1754964235,
-        "date_posted": 1754389831,
-        "url": "https://jobs.ashbyhq.com/brm.ai/05cad7f7-2194-480d-8e70-7338cfd2a189/application",
-        "locations": [
-            "San Francisco, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/BRM",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "RTX",
         "id": "fb96780d-b990-4c79-9972-b2c78120da32",
         "title": "Software Engineer I",
@@ -167248,7 +167231,7 @@
         "company_name": "Fermilab",
         "id": "0b0ef6aa-d49f-460b-bd2a-28202078096d",
         "title": "Electrical Assembly Technician 1",
-        "active": false,
+        "active": true,
         "date_updated": 1769182069,
         "date_posted": 1769182069,
         "url": "https://fermilab.wd5.myworkdayjobs.com/FermilabCareers/job/Batavia/Electrical-Assembly-Technician-I_R_009174",
@@ -185246,7 +185229,7 @@
         "company_name": "Allegro MicroSystems",
         "id": "82ab6811-9790-41a0-8c56-eafca824a2f9",
         "title": "Engineering Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1770161353,
         "date_posted": 1770161353,
         "url": "https://allegromicro.wd5.myworkdayjobs.com/allegrocareers/job/Manchester-NH/Engineering-Technician_R6174",
@@ -253166,7 +253149,7 @@
         "company_name": "Abbott",
         "id": "8a61f544-0560-4f6c-9973-3dd2a0672023",
         "title": "Field Service Engineer 2",
-        "active": true,
+        "active": false,
         "date_updated": 1773451640,
         "date_posted": 1773451640,
         "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---Minnesota---Minnetonka/Field-Service-Engineer-II--Minneapolis_31144396",
@@ -253264,7 +253247,7 @@
         "company_name": "Abbott",
         "id": "ac2d947e-eba6-4039-8fa8-7fafea14593b",
         "title": "Field Service Engineer 2",
-        "active": true,
+        "active": false,
         "date_updated": 1773453365,
         "date_posted": 1773453365,
         "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Minnesota---Minnetonka/Field-Service-Engineer-II--Minneapolis_31144396-1",
@@ -270611,7 +270594,7 @@
         "company_name": "Wells Fargo",
         "id": "4c633153-7e2a-4dd3-9e4d-5328c7cdbdea",
         "title": "Engineering Associate - .NET",
-        "active": true,
+        "active": false,
         "date_updated": 1774480253,
         "date_posted": 1774480253,
         "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/SAN-LEANDRO-CA/Engineering-Associate---NET_R-532542-1",
@@ -273521,7 +273504,7 @@
         "company_name": "Athena Health",
         "id": "94443221-680c-496a-ab87-3e5f6f61d5cc",
         "title": "Product Analytics",
-        "active": true,
+        "active": false,
         "date_updated": 1774620464,
         "date_posted": 1774620464,
         "url": "https://athenahealth.wd1.myworkdayjobs.com/en-US/External/job/Belfast-ME/Product-Analytics--Associate_R14690-1",
@@ -275609,7 +275592,7 @@
         "company_name": "Wells Fargo",
         "id": "523e2453-7640-4777-b087-4a06aad5624a",
         "title": "Engineering Associate - Java Backend Services",
-        "active": true,
+        "active": false,
         "date_updated": 1774832913,
         "date_posted": 1774832913,
         "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/SAN-LEANDRO-CA/Engineering-Associate---Java-Backend-Services_R-533150",
@@ -277250,7 +277233,7 @@
         "company_name": "Deutsche Bank",
         "id": "186defe9-adaf-4354-993d-4de4cef4d28a",
         "title": "Software Development Engineer in Test",
-        "active": true,
+        "active": false,
         "date_updated": 1774910701,
         "date_posted": 1774908643,
         "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Cary-3000-CentreGreen-Way/Software-Development-Engineer-in-Test----Associate_R0427802-1",
@@ -280388,7 +280371,7 @@
         "company_name": "American Express",
         "id": "b8be3403-0be6-43a8-bb52-f3a7ffc469e8",
         "title": "Associate Digital Product Manager",
-        "active": true,
+        "active": false,
         "date_updated": 1775004688,
         "date_posted": 1774994913,
         "url": "https://aexp.eightfold.ai/careers/job/41105343",
@@ -280803,7 +280786,7 @@
         "company_name": "Waymo",
         "id": "a107a7fc-54a6-4a45-967f-56b92dbfd58e",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1775004841,
         "date_posted": 1774995900,
         "url": "https://careers.withwaymo.com/jobs?gh_jid=7769024",
@@ -284065,6 +284048,70 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Invisible Technologies AI",
+        "id": "8f663b1f-0eef-4f71-b20e-f43f224a63a6",
+        "title": "AI Generalist",
+        "active": true,
+        "date_updated": 1775123821,
+        "date_posted": 1774574384,
+        "url": "https://job-boards.eu.greenhouse.io/agency/jobs/4819324101",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Invisible-TechnologiesAI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Salesforce",
+        "id": "7793e239-8036-4fba-b819-5e32d75572b0",
+        "title": "Product Manager \u2013 Early Career",
+        "active": true,
+        "date_updated": 1775123893,
+        "date_posted": 1774994641,
+        "url": "https://salesforce.wd12.myworkdayjobs.com/Futureforce_NewGradRoles/job/California---San-Francisco/Product-Manager_JR333478",
+        "locations": [
+            "Seattle, WA",
+            "SF",
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Salesforce",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Salesforce",
+        "id": "72eb5bff-9ddc-4ee4-a388-ca9fdca013fd",
+        "title": "Product Manager \u2013 Early Career",
+        "active": true,
+        "date_updated": 1775123896,
+        "date_posted": 1774994689,
+        "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Product-Manager_JR333478-1",
+        "locations": [
+            "Seattle, WA",
+            "SF",
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Salesforce",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
