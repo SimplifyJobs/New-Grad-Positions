@@ -77039,24 +77039,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "ByteDance",
-        "id": "9d6e875f-4f5f-42ad-ba37-3f4fbea231c0",
-        "title": "Software Engineer Graduate - Data Security-US",
-        "active": false,
-        "date_updated": 1754366161,
-        "date_posted": 1754366161,
-        "url": "https://jobs.bytedance.com/en/position/7531118752369740039/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "University of Texas - Austin",
         "id": "320f6629-0332-4c87-b32e-55c3905238fb",
@@ -283765,5 +283747,26 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "41573b4d-b3a2-4d26-be9b-fd1c19ab47f9",
+        "title": "Graduate CV/NLP/Multimodal LLM Research Scientist",
+        "active": true,
+        "date_updated": 1775001311,
+        "date_posted": 1754560403,
+        "url": "https://lifeattiktok.com/search/7530771170938865928",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
