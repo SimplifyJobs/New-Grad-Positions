@@ -128339,7 +128339,7 @@
         "company_name": "KBR",
         "id": "9f54691d-ad41-4185-b3a8-dc9b3b8863d0",
         "title": "Software Engineer - Full Stack Entry - Mid",
-        "active": true,
+        "active": false,
         "date_updated": 1766451475,
         "date_posted": 1766451475,
         "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Sioux-Falls-South-Dakota/Software-Engineer---Full-Stack-Entry---Mid_R2116871",
@@ -242720,7 +242720,7 @@
         "company_name": "Amentum",
         "id": "dc1bacc8-1dec-49b2-8bdc-6dea1df25e08",
         "title": "Physical Analysis Lab Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1773096925,
         "date_posted": 1773096925,
         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-IN-Crane/Physical-Analysis-Lab-Technician_R0155637",
@@ -284136,5 +284136,177 @@
             "Master's",
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "VELCO",
+        "id": "9e38a26e-d134-40a8-b532-4b4ed6354205",
+        "title": "OT Data Engineer",
+        "active": true,
+        "date_updated": 1775140381,
+        "date_posted": 1775139030,
+        "url": "https://velco.wd12.myworkdayjobs.com/VELCO/job/Rutland-VT/OT-Data-Engineer_JR26-42-1",
+        "locations": [
+            "Putnam, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/VELCO",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "cfeec6c2-1dbf-481b-98b2-af5683d79f9e",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1775140381,
+        "date_posted": 1775138868,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056003",
+        "locations": [
+            "Cornwall, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Egis Group",
+        "id": "5314d3f2-7317-484b-bfd1-ebdd180b667a",
+        "title": "Graduate Data Analyst",
+        "active": true,
+        "date_updated": 1775140381,
+        "date_posted": 1775138629,
+        "url": "https://jobs.smartrecruiters.com/EgisGroup/744000118413558",
+        "locations": [
+            "Watford, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Egis-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Bernhard",
+        "id": "1bb21e35-11cd-470e-a4d0-9f0a749bc00c",
+        "title": "Energy Analyst 1",
+        "active": true,
+        "date_updated": 1775140762,
+        "date_posted": 1775138727,
+        "url": "https://careers-enfra.icims.com/jobs/9651/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Little Rock, AR"
+        ],
+        "company_url": "https://simplify.jobs/c/Bernhard",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "c9059eef-e008-4f63-9c6f-44a1826c70ec",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1775140381,
+        "date_posted": 1775138866,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055984",
+        "locations": [
+            "Bangor, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "c76b7892-133b-4e6c-9062-a6635deea804",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1775140381,
+        "date_posted": 1775138867,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056002",
+        "locations": [
+            "Cornwall, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "be117c0d-605f-4386-8ef9-55ab169691d2",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1775140381,
+        "date_posted": 1775138867,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056004",
+        "locations": [
+            "Cornwall, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Intel",
+        "id": "2e2e284e-a016-4be4-9dd1-40ea71fd871f",
+        "title": "Post-silicon Validation and Debug Engineer",
+        "active": true,
+        "date_updated": 1775140816,
+        "date_posted": 1775138926,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Post-silicon-Validation-and-Debug-Engineer_JR0282307",
+        "locations": [
+            "Hillsboro, OR",
+            "Folsom, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Fragomen",
+        "id": "d9727f36-a84c-4a6a-894e-05d742abb214",
+        "title": "Support Engineer",
+        "active": true,
+        "date_updated": 1775140381,
+        "date_posted": 1775138758,
+        "url": "https://fragomen.wd1.myworkdayjobs.com/FragomenCareers/job/GB-London-Offsite/Support-Engineer_REQ-025148",
+        "locations": [
+            "London, UK",
+            "Sheffield, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Fragomen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
