@@ -74964,7 +74964,7 @@
         "company_name": "TikTok",
         "id": "e40f133a-71ab-472d-8ef3-4d156379450f",
         "title": "Research Scientist Graduate-CV/NLP/Multimodal LLM - Trust and Safety - 2026 Start",
-        "active": false,
+        "active": true,
         "date_updated": 1761860128,
         "date_posted": 1754621663,
         "url": "https://lifeattiktok.com/search/7517105710544161032",
@@ -75018,7 +75018,7 @@
         "company_name": "TikTok",
         "id": "f624cacf-5cd8-42ea-bc15-38f980bc6e29",
         "title": "Research Scientist Graduate-CV/NLP/Multimodal LLM - Trust and Safety - 2026 Start - PhD",
-        "active": false,
+        "active": true,
         "date_updated": 1761836622,
         "date_posted": 1754621516,
         "url": "https://lifeattiktok.com/search/7517106896071903496",
@@ -233447,7 +233447,7 @@
         "company_name": "Qualitest",
         "id": "d419c79a-c232-4fdd-af26-51cb1284c9e8",
         "title": "Data Collection Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1772580090,
         "date_posted": 1772580090,
         "url": "https://careers.qualitestgroup.com/job/Santa-Clara-Data-Collection-Associate-CA-95054/53395844/?ats=successfactors",
@@ -258214,7 +258214,7 @@
         "company_name": "The Boeing Company",
         "id": "000327a2-72d9-4a03-ba91-5c44583d0f05",
         "title": "Simulation Integration Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773817518,
         "date_posted": 1773817518,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Long-Beach-CA/Simulation-Integration-Engineer--Entry-Level-or-Associate-_JR2026498867-1",
@@ -268748,7 +268748,7 @@
         "company_name": "Aviatrix",
         "id": "16b9d99d-7fad-4d01-bc06-193d20cd87f4",
         "title": "Mts \u2013 Software Development",
-        "active": true,
+        "active": false,
         "date_updated": 1774426577,
         "date_posted": 1772062680,
         "url": "https://aviatrix.com/careers/?gh_jid=4665878005",
@@ -274685,7 +274685,7 @@
         "company_name": "Sainsbury's",
         "id": "8c8e2378-4506-4422-b80b-4684a4a65d4c",
         "title": "Trading Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1774735651,
         "date_posted": 1774735651,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055418",
@@ -282988,7 +282988,7 @@
         "company_name": "Sainsbury's",
         "id": "c142c8e3-8dec-4667-9e87-770890699c8d",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1775084941,
         "date_posted": 1775081322,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055936",
@@ -283848,6 +283848,89 @@
             "Bachelor's",
             "Master's",
             "MBA",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Legal & General",
+        "id": "2cd4ebd8-d255-4ca4-ad6e-150ec4fe6788",
+        "title": "Graduate Software Engineer - Java",
+        "active": true,
+        "date_updated": 1775121804,
+        "date_posted": 1775120460,
+        "url": "https://jobs.smartrecruiters.com/LegalAndGeneral/744000118352517",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Legal-And-General",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GE Healthcare",
+        "id": "7dd821db-bbd1-4e35-8fa2-d75c89d87bc6",
+        "title": "Field Engineer",
+        "active": true,
+        "date_updated": 1775120130,
+        "date_posted": 1775110012,
+        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer---Surgery-Imaging--New-Mexico-_R4037493-1",
+        "locations": [
+            "New Mexico"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Healthcare",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Applied Materials",
+        "id": "6a2fb86d-9d24-4b38-b241-767e030c3a5e",
+        "title": "Modeling Engineer Plasma Process and Machine Learning",
+        "active": true,
+        "date_updated": 1775120200,
+        "date_posted": 1774694006,
+        "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Modeling-Engineer--Plasma-Process-and-Machine-Learning_R2615878",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Materials",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Esri",
+        "id": "f778c393-8973-4c52-be53-1f4ea07ce774",
+        "title": "Software Development Engineer 1",
+        "active": true,
+        "date_updated": 1775120355,
+        "date_posted": 1769125280,
+        "url": "https://www.esri.com/careers/5027588007?gh_jid=5027588007",
+        "locations": [
+            "St. Louis, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Esri",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
             "Master's"
         ]
     }
