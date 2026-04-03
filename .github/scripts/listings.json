@@ -133845,7 +133845,7 @@
         "company_name": "Stanley Black & Decker",
         "id": "040fa9f6-5e38-4f0e-aadd-f18d1849e60d",
         "title": "Service Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1766112995,
         "date_posted": 1766112995,
         "url": "https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Ontario-CA-United-States/Service-Technician_REQ-1000044669",
@@ -237547,7 +237547,7 @@
         "company_name": "Stryker",
         "id": "99ffeecb-8a1d-418c-98b1-14ae87e80bac",
         "title": "Associate Installation Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1772680387,
         "date_posted": 1772680387,
         "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Des-Moines-Iowa/Associate-Installation-Technician---Des-Moines--IA---Omaha--NE_R559950",
@@ -242846,7 +242846,7 @@
         "company_name": "Stryker",
         "id": "167c2a43-9fad-431e-a6e0-ff93b093131a",
         "title": "Associate Installation Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1773096013,
         "date_posted": 1773096013,
         "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Chicago-Illinois/Associate-Installation-Technician---Chicago_R561766",
@@ -268832,7 +268832,7 @@
         "company_name": "PPG Industries",
         "id": "0054b252-49f9-46d3-8064-1d73bc306ff6",
         "title": "Database Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1774434369,
         "date_posted": 1774434369,
         "url": "https://ppg.wd5.myworkdayjobs.com/PPG_CAREERS/job/MYS---Shah-Alam-Office/Database-Engineer_JR261987-1",
@@ -272473,7 +272473,7 @@
         "company_name": "Stryker",
         "id": "3ad4d069-13db-4f06-af27-4cc1027d4e3e",
         "title": "Associate Installation Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1774571034,
         "date_posted": 1774571034,
         "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Columbus-Ohio/Associate-Installation-Technician---Ohio_R562156",
@@ -274797,7 +274797,7 @@
         "company_name": "University of Miami",
         "id": "c8cd8072-0ef0-478f-8be1-d40a623b2bc1",
         "title": "Postdoctoral Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1774770433,
         "date_posted": 1774649117,
         "url": "https://umiami.wd1.myworkdayjobs.com/UMCareerStaff/job/Coral-Gables-FL/Post-Doctoral-Associate_R100095717",
@@ -276174,7 +276174,7 @@
         "company_name": "Moog ",
         "id": "a241a19e-564c-4a37-8705-4d1073b4cab5",
         "title": "Associate Product Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1774880461,
         "date_posted": 1774879704,
         "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Torrance-CA/Associate-Product-Engineer_R-26-16945",
@@ -285480,5 +285480,44 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Airbus",
+        "id": "8facb407-1248-4a81-a6f9-f557932ebddd",
+        "title": "Operations Performance Analyst - Analyste Performance Op\u00e9rations - All Gender",
+        "active": true,
+        "date_updated": 1775209207,
+        "date_posted": 1775207192,
+        "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Montreal-Area/VIE-2026---CANADA---Analyste-Performance-Oprations--All-Gender-_JR10403918",
+        "locations": [
+            "Laval, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Airbus",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Stryker",
+        "id": "e2f7235b-7610-405a-86f9-b77cba2b2c2d",
+        "title": "Associate Installation Technician",
+        "active": true,
+        "date_updated": 1775208601,
+        "date_posted": 1772667992,
+        "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Tampa-Florida/Associate-Installation-Technician---Tampa--FL_R561340",
+        "locations": [
+            "Orlando, FL",
+            "Tampa, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Stryker",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
