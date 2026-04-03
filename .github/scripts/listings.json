@@ -274131,7 +274131,7 @@
         "company_name": "Micron Technology",
         "id": "fbff2d74-dc29-4748-ab3b-372ff1f3ebbf",
         "title": "GEL Engineering Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1774660287,
         "date_posted": 1774660287,
         "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/GEL-Engineering-Technician_JR96396",
@@ -283544,7 +283544,7 @@
         "company_name": "Fanatics",
         "id": "f6a20744-f898-4cf5-b892-3203065381b4",
         "title": "Software Engineer 2",
-        "active": false,
+        "active": true,
         "date_updated": 1775093041,
         "date_posted": 1775092063,
         "url": "https://fa-exki-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27391",
@@ -285299,6 +285299,166 @@
             "Mountain View, CA"
         ],
         "company_url": "https://simplify.jobs/c/MatX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Worldpay",
+        "id": "58f98a29-b80b-4804-979f-c627e3b40c58",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1775197441,
+        "date_posted": 1775196576,
+        "url": "https://worldpay.wd5.myworkdayjobs.com/Worldpay_External_Careers_Site/job/CINCINNATI-OHIO/Data-Analyst_JR0609559",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Worldpay",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "KLA",
+        "id": "e25f6dec-98bb-4611-b469-fe415d089405",
+        "title": "Product Engineer",
+        "active": true,
+        "date_updated": 1775197441,
+        "date_posted": 1775196385,
+        "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Product-Engineer_2635404",
+        "locations": [
+            "Ann Arbor, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/KLA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Medtronic",
+        "id": "bd4c895c-d945-4517-bb3b-0d114f1b9de8",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1775197893,
+        "date_posted": 1775196522,
+        "url": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Lafayette-Colorado-United-States-of-America/Software-Engineer-I---Lafayette_R62770",
+        "locations": [
+            "Lafayette, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Medtronic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "931758b3-e188-47b5-aa40-39537fa3bb1d",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1775197769,
+        "date_posted": 1775196523,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/ILUKEE/XMLNAME-2026-Associate-Software-Engineer_R10228071",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Abbott",
+        "id": "92f13043-fe84-447d-b8c1-e24dbf2e3a49",
+        "title": "Engineer 1 - Research and Development",
+        "active": true,
+        "date_updated": 1775197804,
+        "date_posted": 1775196501,
+        "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---Minnesota---Plymouth/Engineer-I--Research-and-Development_31146297",
+        "locations": [
+            "Wayzata, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Abbott",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Nordstrom",
+        "id": "8c47bcd9-0077-4cf0-a6c9-1471502efb9c",
+        "title": "Delivery Platform Software Engineer 1 - Developer Tools Team",
+        "active": true,
+        "date_updated": 1775197441,
+        "date_posted": 1775196485,
+        "url": "https://nordstrom.wd501.myworkdayjobs.com/nordstrom_careers/job/Seattle-WA/Delivery-Platform-Software-Engineer-1---Developer-Tools-Team--Hybrid---Seattle--WA-_R-824993",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Nordstrom",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "56e9f1b3-9b01-4a5d-9bde-b2491c0409d6",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1775197441,
+        "date_posted": 1775196447,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056060",
+        "locations": [
+            "Belfast, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Hewlett Packard Enterprise",
+        "id": "1a251cc2-da99-4911-a3e8-6350de7feaf5",
+        "title": "Engineering Technician 2",
+        "active": true,
+        "date_updated": 1775197441,
+        "date_posted": 1775196600,
+        "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Sunnyvale-California-United-States-of-America/Engineering-Technician-2_1203691",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
