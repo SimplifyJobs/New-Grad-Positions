@@ -1,23 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "The Boeing Company",
-        "id": "d52df6c0-4d3c-42d3-8437-e5f8609667b5",
-        "title": "Software Engineer \u2013 Entry Level or Associate",
-        "active": false,
-        "date_updated": 1755700516,
-        "date_posted": 1754453558,
-        "url": "https://boeing.wd1.myworkdayjobs.com/external_careers/job/USA---Kirtland-AFB-NM/Software-Engineer--Entry-Level-or-Associate-_JR2025466020-1",
-        "locations": [
-            "Albuquerque, NM"
-        ],
-        "company_url": "https://simplify.jobs/c/Boeing",
-        "is_visible": false,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
         "date_updated": 1762412567,
         "url": "https://careers-i3-corps.icims.com/jobs/4833/entry-level-full-stack-software-engineer/job",
         "company_name": "i3",
@@ -250220,7 +250202,7 @@
         "company_name": "BlackRock",
         "id": "5f2e6fa4-3324-4791-817c-81de812da31e",
         "title": "Associate Global Marketing & Digital Wealth COO Team - Measurement & Analytics",
-        "active": true,
+        "active": false,
         "date_updated": 1773354897,
         "date_posted": 1773354897,
         "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/New-York-NY/Associate--Global-Marketing---Digital-Wealth-COO-Team--Measurement---Analytics_R258112",
