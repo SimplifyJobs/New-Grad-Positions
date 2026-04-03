@@ -242184,7 +242184,7 @@
         "company_name": "ByteDance",
         "id": "9ce90e03-8ea6-48e7-8d5d-82a2de684e34",
         "title": "Graduate Research Engineer - Seed Infra",
-        "active": false,
+        "active": true,
         "date_updated": 1773092290,
         "date_posted": 1773092290,
         "url": "https://jobs.bytedance.com/en/position/7610599648994265397/detail",
@@ -242204,7 +242204,7 @@
         "company_name": "ByteDance",
         "id": "84ce65c5-ee9c-4539-92d2-5d28da82832e",
         "title": "Graduate Research Engineer - Agent Evaluation & Training Infrastructure - Seed Infra",
-        "active": false,
+        "active": true,
         "date_updated": 1773092280,
         "date_posted": 1773092280,
         "url": "https://jobs.bytedance.com/en/position/7610602401397639477/detail",
@@ -282821,7 +282821,7 @@
         "company_name": "Sainsbury's",
         "id": "5602a2e7-ef7f-4c2a-b90d-49ac8ac9372e",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1775084941,
         "date_posted": 1775081322,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055521",
@@ -285198,5 +285198,163 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northrop Grumman",
+        "id": "cf0bad64-3aca-4df3-992f-cdd9ed545793",
+        "title": "Electrical Engineer",
+        "active": true,
+        "date_updated": 1775179668,
+        "date_posted": 1775178544,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/Engineer-Electrical-Principal-Engineer-Electrical--Level-2-3-_R10228124",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "b407c183-908a-4728-bb68-f088c2505b1b",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1775179261,
+        "date_posted": 1775178452,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056057",
+        "locations": [
+            "Beaconsfield, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "FlexAI",
+        "id": "af8ee11b-8ecb-4e0d-a573-663d2b202291",
+        "title": "Software Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1775179747,
+        "date_posted": 1775178556,
+        "url": "https://ats.rippling.com/flexai/jobs/93ada67c-8527-427c-b2f6-4a5557b00674",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/FlexAI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Boeing Company",
+        "id": "8b6f2279-6adb-43c3-a952-1965b829117d",
+        "title": "Engineering Data Scientist - Entry-Level or Associate",
+        "active": true,
+        "date_updated": 1775179261,
+        "date_posted": 1775178577,
+        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seal-Beach-CA/Engineering-Data-Scientist--Entry-Level-or-Associate-_JR2026502776-1",
+        "locations": [
+            "Seal Beach, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "865510b3-df77-4ccc-8ea9-017920172f32",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1775179261,
+        "date_posted": 1775178452,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056056",
+        "locations": [
+            "Beaconsfield, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northrop Grumman",
+        "id": "33effa0e-3944-4003-ae00-4c14daa388de",
+        "title": "Associate Electrical Engineer",
+        "active": true,
+        "date_updated": 1775179981,
+        "date_posted": 1775178543,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/Associate-Engineer-Electrical_R10228098",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "JP Morgan Chase",
+        "id": "2b5f44bd-5554-44d7-a41f-5ce53e1c7f48",
+        "title": "Trading Support Analyst",
+        "active": true,
+        "date_updated": 1775179261,
+        "date_posted": 1775178516,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210730123",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "MatX",
+        "id": "8417fc11-4785-44a8-951c-4d60f7b4a96c",
+        "title": "Bluespec Design Engineer",
+        "active": true,
+        "date_updated": 1775179441,
+        "date_posted": 1775082190,
+        "url": "https://job-boards.greenhouse.io/matx/jobs/5173649008",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/MatX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
