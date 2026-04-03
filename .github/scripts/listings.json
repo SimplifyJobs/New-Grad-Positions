@@ -76807,24 +76807,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "a1a30dee-6250-44f1-b64a-eeb2521b66e0",
-        "title": "AI Vision Research Engineer-Graduate-Pico 2026 Start - Phd",
-        "active": true,
-        "date_updated": 1761847448,
-        "date_posted": 1754458392,
-        "url": "https://jobs.bytedance.com/en/position/7534943709490989319/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Qualcomm",
         "id": "acf957e2-2c86-4d2a-aa7f-70355baafefb",
@@ -150318,7 +150300,7 @@
         "company_name": "Fiserv",
         "id": "89035086-af33-4ee8-ac31-d13569c96626",
         "title": "Technology Analyst Program",
-        "active": true,
+        "active": false,
         "date_updated": 1768259683,
         "date_posted": 1768259683,
         "url": "https://fiserv.wd5.myworkdayjobs.com/ext/job/Omaha-Nebraska/Technology-Analyst-Program--Omaha--NE-_R-10385188",
