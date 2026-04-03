@@ -162985,7 +162985,7 @@
         "company_name": "Esri",
         "id": "94d9ff37-db04-4487-ae7f-9800593f29e8",
         "title": "Security Product Engineer 1 - ArcGIS Enterprise",
-        "active": true,
+        "active": false,
         "date_updated": 1769029781,
         "date_posted": 1769029781,
         "url": "https://www.esri.com/careers/5012689007?gh_jid=5012689007",
@@ -216459,7 +216459,7 @@
         "company_name": "Northeastern University",
         "id": "320868d6-74ae-45c2-9144-2735d67d06e5",
         "title": "Research Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1771861207,
         "date_posted": 1771861207,
         "url": "https://northeastern.wd1.myworkdayjobs.com/careers/job/Boston-MA-Main-Campus/Research-Engineer_R138783",
@@ -247287,7 +247287,7 @@
         "company_name": "Distyl AI",
         "id": "7040ffc8-8e65-4127-b64f-e01ab2cedebe",
         "title": "Frontend Product Engineer - AI Applications",
-        "active": false,
+        "active": true,
         "date_updated": 1773267197,
         "date_posted": 1773267197,
         "url": "https://jobs.ashbyhq.com/distyl/147bb404-915d-44ec-b268-be02701872bc/application",
@@ -285519,5 +285519,79 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "76102abb-8ceb-4df1-a792-644bf60995c7",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1775208601,
+        "date_posted": 1775207074,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056062",
+        "locations": [
+            "Edinburgh, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Welocalize",
+        "id": "e2aa4bf0-bced-4c0c-b5c5-e40e88a3f1ac",
+        "title": "Maps Personalization Relevance Rater",
+        "active": true,
+        "date_updated": 1775210041,
+        "date_posted": 1773092082,
+        "url": "https://jobs.lever.co/welocalize/0157c8d2-ccef-4760-89c2-cd874506955f/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Welocalize",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Fermilab",
+        "id": "e8bc0e94-3597-43d2-8207-14f8804cefc8",
+        "title": "Engineering Physicist 1",
+        "active": true,
+        "date_updated": 1775210041,
+        "date_posted": 1772668023,
+        "url": "https://fermilab.wd5.myworkdayjobs.com/FermilabCareers/job/Batavia/Engineering-Physicist-1_R_009284",
+        "locations": [
+            "Batavia, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Fermilab",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Rolls-Royce",
+        "id": "7e699949-a9ea-413c-b912-31dcebc25627",
+        "title": "NDT Inspector Class C",
+        "active": true,
+        "date_updated": 1775210254,
+        "date_posted": 1771691013,
+        "url": "https://rollsroyce.wd3.myworkdayjobs.com/professional/job/Montreal/Inspecteur-ND-classe-C---NDT-Inspector-C_JR6146605",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Rolls-Royce",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
