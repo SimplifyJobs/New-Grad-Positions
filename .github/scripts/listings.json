@@ -212046,7 +212046,7 @@
         "company_name": "Boyd Gaming",
         "id": "e5c58951-c23f-4073-a316-c8e1a3ccc335",
         "title": "Slot Technician 1",
-        "active": true,
+        "active": false,
         "date_updated": 1771571524,
         "date_posted": 1771571524,
         "url": "https://jobs.smartrecruiters.com/BoydGaming/3743990011686712",
@@ -253727,7 +253727,7 @@
         "company_name": "TelevisaUnivision",
         "id": "b98de3fd-b04c-457f-a8bd-f58e83561d64",
         "title": "Digital Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1773486588,
         "date_posted": 1773486588,
         "url": "https://univision.wd1.myworkdayjobs.com/en-US/External/job/New-York-NY/Digital-Analyst_R019734",
@@ -273480,7 +273480,7 @@
         "company_name": "Sainsbury's",
         "id": "5099665f-dfb8-4fe6-945c-6b36711d3087",
         "title": "Trading Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1774620469,
         "date_posted": 1774620469,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055242",
@@ -274510,7 +274510,7 @@
         "company_name": "Sainsbury's",
         "id": "8c8e2378-4506-4422-b80b-4684a4a65d4c",
         "title": "Trading Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1774735651,
         "date_posted": 1774735651,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055418",
@@ -274604,7 +274604,7 @@
         "company_name": "Sainsbury's",
         "id": "b9b5e6a5-004a-45e9-90c9-910749452b8f",
         "title": "Trading Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1774735650,
         "date_posted": 1774735650,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055416",
@@ -284340,7 +284340,7 @@
         "company_name": "Sainsbury's",
         "id": "217312f4-472c-4887-9f43-7c8e66339f9b",
         "title": "Trading Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1775169541,
         "date_posted": 1775167681,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055994",
@@ -285660,5 +285660,251 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "7054422e-8617-4b58-9405-a5d78631c156",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1775226421,
+        "date_posted": 1775225275,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055490",
+        "locations": [
+            "Ipswich, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northrop Grumman",
+        "id": "e1b31e37-1d53-4caa-836d-e9d48819e378",
+        "title": "Associate Embedded Software Engineer",
+        "active": true,
+        "date_updated": 1775227122,
+        "date_posted": 1775225352,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Magna/Associate-Engineer-Embedded-Software_R10227992",
+        "locations": [
+            "West Valley City, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "JP Morgan Chase",
+        "id": "d2f9dbe7-74a6-4840-80c6-766c11d15e94",
+        "title": "Equity Index Exotics - Trading Services - Associate",
+        "active": true,
+        "date_updated": 1775226421,
+        "date_posted": 1775225458,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210731979",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "926b9299-9382-4554-9fad-88c8a7e1ae4d",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1775226421,
+        "date_posted": 1775225275,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056081",
+        "locations": [
+            "Liverpool, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "7b668a94-0727-420b-9592-16ef54a767c1",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1775226421,
+        "date_posted": 1775225276,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056074",
+        "locations": [
+            "Banbury, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "776d4093-7f23-4d3e-b979-e3b2adf33fe5",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1775226421,
+        "date_posted": 1775225275,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056079",
+        "locations": [
+            "Liverpool, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "5bc9922b-4e6f-4e4a-8f9e-11fdb556d68c",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1775227141,
+        "date_posted": 1775225286,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056085",
+        "locations": [
+            "Liverpool, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Google",
+        "id": "e81d5638-6baf-459d-b51c-0cfec3151a99",
+        "title": "Product Manager 1 - Youtube Growth Platform",
+        "active": true,
+        "date_updated": 1775226909,
+        "date_posted": 1775225353,
+        "url": "https://www.google.com/about/careers/applications/jobs/results/130730846943355590",
+        "locations": [
+            "San Bruno, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Google",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Atos",
+        "id": "86a3dbd1-2847-4a14-8d48-af6e48facf09",
+        "title": "Graduate Data & AI Resource",
+        "active": true,
+        "date_updated": 1775226748,
+        "date_posted": 1775225214,
+        "url": "https://jobs.atos.net/job/London-Graduate-D&AI-Resource/1380728433/?ats=successfactors",
+        "locations": [
+            "Birmingham, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Atos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "American Express",
+        "id": "7335108a-6049-4b52-a7f8-c127ced26c5f",
+        "title": "Associate-Digital Product Management",
+        "active": true,
+        "date_updated": 1775226421,
+        "date_posted": 1775225399,
+        "url": "https://aexp.eightfold.ai/careers/job/41139501",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/American-Express",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Procter & Gamble (P&G)",
+        "id": "cc602ee6-c43e-422f-a53e-248084e5d9a6",
+        "title": "Data Asset Manager",
+        "active": true,
+        "date_updated": 1775226421,
+        "date_posted": 1775225417,
+        "url": "https://pg.wd5.myworkdayjobs.com/1000/job/GREENSBORO-SWING-ROAD-PLANT/Data-Asset-Manager---Band-1_R000135434-1",
+        "locations": [
+            "Greensboro, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Procter-Gamble-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "c55897b9-fca3-4b38-83b1-2c04d980d5ec",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1775226421,
+        "date_posted": 1775225276,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056084",
+        "locations": [
+            "Liverpool, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "b949ba96-9729-4d72-96b0-b2cb62029d8e",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1775226421,
+        "date_posted": 1775225276,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056087",
+        "locations": [
+            "Brighton, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
