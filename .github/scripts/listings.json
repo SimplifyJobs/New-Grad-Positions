@@ -75225,7 +75225,7 @@
         "company_name": "TikTok",
         "id": "34b1d462-b361-4b09-8f3d-7a9f943946be",
         "title": "Engineer Graduate - Machine Learning Engineer Graduate-Data-Search-Tiktok - 2026 Start alternating BS/MS",
-        "active": false,
+        "active": true,
         "date_updated": 1762912569,
         "date_posted": 1754621367,
         "url": "https://lifeattiktok.com/search/7533371534829095175",
@@ -142956,7 +142956,7 @@
         "company_name": "SpruceID",
         "id": "f45fbd3e-3c61-4885-9044-dd8df8b114f9",
         "title": "Full-Stack Software Engineer \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1767741379,
         "date_posted": 1767741379,
         "url": "https://jobs.lever.co/sprucesystems/c683a712-7a5a-4bed-b580-f899998f044a/apply",
@@ -238215,7 +238215,7 @@
         "company_name": "The University of Edinburgh",
         "id": "13fa321b-5186-4bf6-ac9c-fd96afa2414e",
         "title": "Postdoctoral Research Associate - Geological Hydrogen Storage",
-        "active": true,
+        "active": false,
         "date_updated": 1772707853,
         "date_posted": 1772707853,
         "url": "https://elxw.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/13864",
@@ -266932,7 +266932,7 @@
         "company_name": "Lawrence Livermore National Laboratory (LLNL)",
         "id": "7a3ece20-5006-4657-be95-41c4d535fa46",
         "title": "Academic Graduate Appointee",
-        "active": true,
+        "active": false,
         "date_updated": 1774390509,
         "date_posted": 1774390509,
         "url": "https://jobs.smartrecruiters.com/LLNL/3743990012289589",
@@ -271930,7 +271930,7 @@
         "company_name": "Sainsbury's",
         "id": "9eca41bb-4a51-48ce-87e8-a96cc674ad32",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1774563139,
         "date_posted": 1774563139,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055212",
@@ -282288,7 +282288,7 @@
         "company_name": "Bloomberg Industry Group",
         "id": "ebd5453a-4926-473c-b101-23caa3be1f5f",
         "title": "Data Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1775053801,
         "date_posted": 1775052378,
         "url": "https://bloomberg.wd1.myworkdayjobs.com/Bloombergindustrygroup_External_Career_Site/job/Arlington---1801-S-Bell-INDG/Data-Analyst--Associate_141282",
@@ -285176,6 +285176,27 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "47e94254-11f0-428c-b689-a6eded91ac39",
+        "title": "Software Engineer - Software Integration & Test",
+        "active": true,
+        "date_updated": 1775179512,
+        "date_posted": 1775178543,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Engineer-Software---Software-Integration---Test--San-Diego-CA-_R10222110",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
