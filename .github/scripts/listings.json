@@ -233982,7 +233982,7 @@
         "company_name": "General Motors",
         "id": "0a4def13-9b3a-4f3a-b3c9-5a90b20c870b",
         "title": "Software Engineer AV HIL Platform and Services \u2013 University Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1772583464,
         "date_posted": 1772583464,
         "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/Software-Engineer-AV-HIL-Platform-and-Services--University-Grad-_JR-202604577",
@@ -265858,7 +265858,7 @@
         "company_name": "Marvell",
         "id": "ab9a3a31-c7cb-4dd5-9d3d-357f211a1037",
         "title": "Firmware Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1774319409,
         "date_posted": 1774319409,
         "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Westlake-Village-CA/Firmware-Engineer_2601000-1",
@@ -275633,7 +275633,7 @@
         "company_name": "Amgen",
         "id": "cee9f2d0-ba92-4c60-a972-455be9372f3c",
         "title": "Senior Manager \u2013 Technical Product Owner Regulatory AI",
-        "active": true,
+        "active": false,
         "date_updated": 1774842199,
         "date_posted": 1774688896,
         "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/US---California---Thousand-Oaks/Sr-Mgr---Technical-Product-Owner-Regulatory-AI_R-238777",
@@ -285459,6 +285459,24 @@
             "Sunnyvale, CA"
         ],
         "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Fermilab",
+        "id": "75eee674-8819-4d06-8b16-6a28391362b8",
+        "title": "Technician 1",
+        "active": true,
+        "date_updated": 1775206192,
+        "date_posted": 1773097119,
+        "url": "https://fermilab.wd5.myworkdayjobs.com/FermilabCareers/job/Batavia/Technician-I_R_009373",
+        "locations": [
+            "Batavia, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Fermilab",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
