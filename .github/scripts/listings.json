@@ -76825,24 +76825,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "3e9f3931-e1ff-463a-9425-8093358f7aa0",
-        "title": "Student Researcher - Seed - Infra",
-        "active": false,
-        "date_updated": 1754456652,
-        "date_posted": 1754456652,
-        "url": "https://jobs.bytedance.com/en/position/7530340275005278482/detail",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Qualcomm",
         "id": "acf957e2-2c86-4d2a-aa7f-70355baafefb",
@@ -281366,7 +281348,7 @@
         "company_name": "RTX",
         "id": "0fac6ed1-0fa8-47c1-b331-941a4536fa7b",
         "title": "Full-time - Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1775004838,
         "date_posted": 1774994926,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/XMLNAME-2026-Full-time---Software-Engineer-I---Onsite--MA-_01832811",
