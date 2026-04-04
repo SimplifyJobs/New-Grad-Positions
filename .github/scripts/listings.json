@@ -1,23 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Trexquant",
-        "id": "0c176474-32a7-45e5-84eb-b8e956800bf8",
-        "title": "Quantitative Researcher \u2013 Early Career",
-        "active": true,
-        "date_updated": 1754661846,
-        "date_posted": 1754604410,
-        "url": "https://apply.workable.com/trexquant/j/A634E0E3F4/apply",
-        "locations": [
-            "Stamford, CT"
-        ],
-        "company_url": "https://simplify.jobs/c/Trexquant",
-        "is_visible": false,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Blue Origin",
         "id": "f37865a3-2377-4049-a582-75c3fc52d4b2",
@@ -75178,64 +75161,6 @@
             "San Diego, CA"
         ],
         "company_url": "https://simplify.jobs/c/NXP-Semiconductors",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Jump Trading",
-        "id": "a2556868-e19f-450c-bdf9-bf65757ebe13",
-        "title": "Campus ML Research Engineer - Full-Time",
-        "active": true,
-        "date_updated": 1762906676,
-        "date_posted": 1754605565,
-        "url": "https://boards.greenhouse.io/embed/job_app?token=7141620",
-        "locations": [
-            "Chicago, IL",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Jump-Trading",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Jump Trading",
-        "id": "75fe6f18-b400-4571-bee1-0e19c34acf54",
-        "title": "Campus ML Research Engineer",
-        "active": false,
-        "date_updated": 1761261045,
-        "date_posted": 1754605562,
-        "url": "https://boards.greenhouse.io/embed/job_app?token=7141643",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Jump-Trading",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Jump Trading",
-        "id": "4e190024-2cee-4076-b5d5-229452fbbc4c",
-        "title": "Campus AI Researcher",
-        "active": false,
-        "date_updated": 1754605569,
-        "date_posted": 1754605569,
-        "url": "https://boards.greenhouse.io/embed/job_app?token=7141658",
-        "locations": [
-            "Chicago, IL",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Jump-Trading",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -249564,7 +249489,7 @@
         "company_name": "Adobe",
         "id": "fddcab17-1476-4ab7-9b29-71e8a89c74d1",
         "title": "Software Development Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773365526,
         "date_posted": 1773365526,
         "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Software-Development-Engineer_R165849-1",
