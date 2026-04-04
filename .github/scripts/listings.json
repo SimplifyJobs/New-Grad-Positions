@@ -1,37 +1,5 @@
 [
     {
-        "date_updated": 1754541480,
-        "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/4816999008",
-        "company_name": "Five Rings",
-        "title": "Software Developer",
-        "locations": [
-            "New York, NY"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "source": "Simplify",
-        "id": "bdfd9c1c-2e99-4254-ad9f-60f37155ef74",
-        "date_posted": 1754541480,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1754661563,
-        "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Tampa-Florida-United-States/Functions---Quantitative-Risk-Management--Full-Time-Analyst--Tampa---USA--2026_25893646",
-        "company_name": "Citi",
-        "title": "Functions - Quantitative Risk Management, Full Time Analyst",
-        "locations": [
-            "Tampa, FL"
-        ],
-        "sponsorship": "Other",
-        "active": false,
-        "source": "AlmondCroffle",
-        "id": "f68afc31-c80c-4182-8152-99d8a2efe6c3",
-        "date_posted": 1754542792,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
         "date_updated": 1754661674,
         "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Getzville-New-York-United-States/Functions---Quantitative-Risk-Management--Full-Time-Analyst--Buffalo---USA--2026_25893592",
         "company_name": "Citi",
@@ -76730,24 +76698,6 @@
             "Seattle, WA"
         ],
         "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "University of Texas - Austin",
-        "id": "171c690b-9929-4ef0-8c2d-9ccb8bff82c7",
-        "title": "Postdoctoral Fellow in Water Systems - Ml",
-        "active": true,
-        "date_updated": 1754541871,
-        "date_posted": 1754541871,
-        "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/PICKLE-RESEARCH-CAMPUS/Postdoctoral-Fellow-in-Water-Systems--ml-_R_00041178-1",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/University-Of-Texas-Austin",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -169774,7 +169724,7 @@
         "company_name": "Huntington Ingalls Industries",
         "id": "a29bd239-3e15-41ad-af6c-632d7b06355a",
         "title": "Engineer Electromechanical 1",
-        "active": true,
+        "active": false,
         "date_updated": 1769469666,
         "date_posted": 1769469666,
         "url": "https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-ELECTROMECHANICAL-1-Virg/1359423600/?ats=successfactors",
@@ -169875,7 +169825,7 @@
         "company_name": "Huntington Ingalls Industries",
         "id": "20362733-df6f-410a-83e5-5b1320a9a338",
         "title": "Engineer Model-Based 1",
-        "active": true,
+        "active": false,
         "date_updated": 1769469628,
         "date_posted": 1769469628,
         "url": "https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-MODEL-BASED-1-Virg/1359422800/?ats=successfactors",
@@ -172278,7 +172228,7 @@
         "company_name": "Huntington Ingalls Industries",
         "id": "e582c2c3-1156-4ae1-bf59-daa9e0e1a5bb",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1769580166,
         "date_posted": 1769555178,
         "url": "https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-SOFTWARE-1-Virg/1359734000/?ats=successfactors",
