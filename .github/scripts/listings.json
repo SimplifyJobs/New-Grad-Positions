@@ -33199,7 +33199,7 @@
         "company_name": "The Boeing Company",
         "id": "840f362d-e7a1-4739-9961-fc1eeddaf55b",
         "title": "ASIC/FPGA Verification Engineer Lead - Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1762918696,
         "date_posted": 1762818571,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/ASIC-FPGA-Verification-Engineer----Associate--Experienced--or-Lead----SoCal_JR2025480380-1",
@@ -82657,7 +82657,7 @@
         "company_name": "The Wharton School",
         "id": "cd97b351-6ee4-4972-95e1-abeaf8b2228f",
         "title": "Pre-Doctoral Research Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1763420837,
         "date_posted": 1763420837,
         "url": "https://wd1.myworkdaysite.com/recruiting/upenn/Wharton/job/SD---Wharton-Accounting-Dept/Pre-Doctoral-Research-Specialist_JR00114176",
@@ -122437,7 +122437,7 @@
         "company_name": "Oshkosh",
         "id": "869fd6b8-b9d9-4838-960d-11e5ed74cc18",
         "title": "NASCAR Cup Track Support Engineer \u2013 Entry Level",
-        "active": false,
+        "active": true,
         "date_updated": 1766015524,
         "date_posted": 1766015524,
         "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Huntersville-North-Carolina-United-States/NASCAR-Cup-Track-Support-Engineer---Entry-Level_R43333",
@@ -194328,7 +194328,7 @@
         "company_name": "Rogers Behavioral Health",
         "id": "1f206c0f-c5a8-47fa-9498-6e3a957ce6b2",
         "title": "Therapist - PHP/Iop",
-        "active": false,
+        "active": true,
         "date_updated": 1770737821,
         "date_posted": 1770737821,
         "url": "https://rogersbh.wd1.myworkdayjobs.com/rbhcareer/job/Brown-Deer-Area/Therapist---PHP-IOP_R6259-1",
@@ -240417,7 +240417,7 @@
         "company_name": "ZOLL Medical Corporation",
         "id": "7d0703f3-3aba-4114-a21a-34f134e8e7cb",
         "title": "Rescue Ready Service Agent - Part-time / Per Diem",
-        "active": true,
+        "active": false,
         "date_updated": 1772840349,
         "date_posted": 1772840349,
         "url": "https://zoll.wd5.myworkdayjobs.com/en-US/ZOLLMedicalCorp/job/Evansville-IN/Rescue-Ready-Service-Agent--Part-time---Per-Diem-_R18472",
@@ -268290,7 +268290,7 @@
         "company_name": "University of Southern California",
         "id": "e8e1fb00-7d70-428f-9dae-2d1a2a966f4f",
         "title": "Postdoctoral Research Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1774084675,
         "date_posted": 1774084675,
         "url": "https://usc.wd5.myworkdayjobs.com/ExternalUSCCareers/job/Los-Angeles-CA---University-Park-Campus/PostDoctoral-research-Associate_REQ20160796",
@@ -268890,7 +268890,7 @@
         "company_name": "Varian",
         "id": "eb406e38-2123-4e08-b48f-68438023b84b",
         "title": "Field Service Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1774479174,
         "date_posted": 1774479174,
         "url": "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/FLL-M/Field-Service-Engineer--Proton-Therapy----Miami--FL_R-27437-1",
@@ -287090,5 +287090,149 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "88fd1908-4676-49aa-8a1e-36a143d48702",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1775312461,
+        "date_posted": 1775311636,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055684",
+        "locations": [
+            "Oxford, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GE Healthcare",
+        "id": "03304c9f-e174-499c-9c08-e45635792502",
+        "title": "Field Service Engineer 1",
+        "active": true,
+        "date_updated": 1775298579,
+        "date_posted": 1775295143,
+        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1_R4038689-1",
+        "locations": [
+            "Memphis, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Healthcare",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Johnson Controls",
+        "id": "28795922-760d-4edc-9e5e-d7908a921479",
+        "title": "Equipment Systems Application Engineer",
+        "active": true,
+        "date_updated": 1775303717,
+        "date_posted": 1775297859,
+        "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/San-Antonio-Texas-United-States-of-America/Equipment-Systems-Application-Engineer--hybrid-_WD30265395",
+        "locations": [
+            "San Antonio, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Johnson-Controls",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Daikin Applied",
+        "id": "aa6e3cd6-6a4f-4b6c-948b-29c1f8091829",
+        "title": "Controls Engineer",
+        "active": true,
+        "date_updated": 1775302921,
+        "date_posted": 1775300312,
+        "url": "https://daikinapplied.wd1.myworkdayjobs.com/Daikin-Careers/job/Staunton-VA-24402/Controls-Engineer_R001833-1",
+        "locations": [
+            "Verona, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Daikin-Applied",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Chicago",
+        "id": "90110353-4521-469d-bb52-46bbd73e5595",
+        "title": "Research Analyst",
+        "active": true,
+        "date_updated": 1775295721,
+        "date_posted": 1775294610,
+        "url": "https://uchicago.wd5.myworkdayjobs.com/External/job/Hyde-Park-Campus/Research-Analyst_JR32735",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Chicago",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Genentech",
+        "id": "d6ec77f2-0eb2-476e-9324-ac286732a6fd",
+        "title": "Machine Learning Engineer - Foundation Models",
+        "active": true,
+        "date_updated": 1775294821,
+        "date_posted": 1775293953,
+        "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/New-York-City/Machine-Learning-Engineer--Foundation-Models--Prescient---AI-for-Drug-Discovery-_202509-122066",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Genentech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Tokyo Electron",
+        "id": "de5a23b4-cb1b-4bc4-9ec0-bcde470f7265",
+        "title": "Scanning Electron Microscope Technician - Contract Position",
+        "active": true,
+        "date_updated": 1775295762,
+        "date_posted": 1775294551,
+        "url": "https://tel.wd3.myworkdayjobs.com/tel-careers/job/Albany/SEM-Microscopy-Technician-Contract-Position_R25-01149",
+        "locations": [
+            "Albany, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Tokyo-Electron",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
