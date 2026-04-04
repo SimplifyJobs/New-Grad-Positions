@@ -52990,7 +52990,7 @@
         "company_name": "CACI",
         "id": "78f19a26-effa-4b9a-91b6-69cd1b5fd7b2",
         "title": "Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1761992337,
         "date_posted": 1761992337,
         "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-IL-Lisle/Software-Engineer_318790",
@@ -75278,24 +75278,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "TikTok",
-        "id": "b2629e1c-d270-4a12-bd41-6768a4b5cd89",
-        "title": "Software Engineer Graduate PGC - 2026 Start - BS/MS",
-        "active": false,
-        "date_updated": 1754587643,
-        "date_posted": 1754587643,
-        "url": "https://lifeattiktok.com/search/7532631803707263240",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "TikTok",
         "id": "daa45ac3-fd65-4661-ba84-e07f18db9fd0",
@@ -75432,24 +75414,6 @@
         "url": "https://lifeattiktok.com/search/7535599554659010834",
         "locations": [
             "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "TikTok",
-        "id": "08586c8b-8896-41a6-b9ba-cc551535ca49",
-        "title": "Software Engineer Graduate - E-commerce Recommendation Infrastructure - 2025 Start",
-        "active": false,
-        "date_updated": 1763123626,
-        "date_posted": 1754587127,
-        "url": "https://lifeattiktok.com/search/7403244054156593459",
-        "locations": [
-            "Seattle, WA"
         ],
         "company_url": "https://simplify.jobs/c/TikTok",
         "is_visible": true,
@@ -136535,7 +136499,7 @@
         "company_name": "Analog Devices",
         "id": "44bc3cf0-7c1a-4540-ba43-a47f57cabbeb",
         "title": "Electronics Lab Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1763889400,
         "date_posted": 1763889400,
         "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/United-Kingdom-Edinburgh-SC-Freer/Electronic-Labs-Technician_R257163",
@@ -164471,7 +164435,7 @@
         "company_name": "Jabil",
         "id": "05129ce5-9ef5-4b72-b79d-d88195784bea",
         "title": "Diagnostic Technician 1",
-        "active": false,
+        "active": true,
         "date_updated": 1769124780,
         "date_posted": 1769124780,
         "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Florence-KY/Diagnostic-Technician-I---402_J2437575",
@@ -174128,7 +174092,7 @@
         "company_name": "Philips",
         "id": "6e5f1b0e-b674-42e2-8b8e-ffcf329b6ebc",
         "title": "Full Time - Field Engineer Program - Field Service Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1769644949,
         "date_posted": 1769644949,
         "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Louisville-Kentucky-United-States/Full-Time---Field-Engineer-Program--Field-Service-Engineer---Louisville--KY---July-2026_573794",
@@ -183642,7 +183606,7 @@
         "company_name": "Stryker",
         "id": "30ab6682-d44f-4222-a68a-590ad9dbf142",
         "title": "Data Engineer - Post Market",
-        "active": false,
+        "active": true,
         "date_updated": 1770162568,
         "date_posted": 1770162568,
         "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fremont-California/Data-Engineer---Post-Market_R558424",
@@ -262697,7 +262661,7 @@
         "company_name": "Intel",
         "id": "36298ed2-5265-4467-a022-aec7cf070201",
         "title": "DFT Design Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1774133087,
         "date_posted": 1774133087,
         "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Virtual-US/DFT-Design-Engineer_JR0281874",
@@ -265747,7 +265711,7 @@
         "company_name": "Jonas Software",
         "id": "3d380e06-cc4e-4d1e-a70a-3be2f26c5b4f",
         "title": "Junior AI Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1774390972,
         "date_posted": 1774390972,
         "url": "https://talentmanagementsolution.wd3.myworkdayjobs.com/JonasSoftwareCanada/job/Remote---Canada/Junior-AI-Software-Engineer_R50805-1",
@@ -266172,7 +266136,7 @@
         "company_name": "Chaucer Group",
         "id": "c4c6e39f-1b23-4067-83f6-6bcfd084b512",
         "title": "Data Analyst - Pricing",
-        "active": false,
+        "active": true,
         "date_updated": 1774392825,
         "date_posted": 1774392825,
         "url": "https://chaucergroup.wd3.myworkdayjobs.com/chaucer_group_careers/job/London/Data-Analyst--Pricing-_JR101292",
@@ -266792,7 +266756,7 @@
         "company_name": "Ameresco",
         "id": "74b802db-3f58-4f73-9021-687576d44d49",
         "title": "Systems Development Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1774393766,
         "date_posted": 1774393766,
         "url": "https://ameresco.wd5.myworkdayjobs.com/en-US/Ameresco/job/United-Kingdom---West-Yorkshire---Leeds/Systems-Development-Analyst_R3685",
@@ -271660,7 +271624,7 @@
         "company_name": "Northrop Grumman",
         "id": "d8c7e405-6532-47f8-aa18-0f77b60b7be3",
         "title": "Electronic Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1774570743,
         "date_posted": 1774570743,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/Electronic-Technician---Military-Veterans-Encouraged-to-Apply_R10225670",
@@ -272369,7 +272333,7 @@
         "company_name": "The Boeing Company",
         "id": "88b04924-7257-4687-9681-0e85678ad4f4",
         "title": "Hardware Subsystems Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1774620528,
         "date_posted": 1774620528,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Hardware-Subsystems-Engineer----Associate-or-Experienced-_JR2026502955-1",
@@ -272753,7 +272717,7 @@
         "company_name": "Micron Technology",
         "id": "c81deea4-4aa7-402d-b424-aa8b807b2ab0",
         "title": "Product Development Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1774649405,
         "date_posted": 1774649405,
         "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Product-Development-Engineer_JR96371-2",
@@ -272847,7 +272811,7 @@
         "company_name": "Plug Power",
         "id": "0ad83886-8189-4b2c-b6e8-79d8e8a553f5",
         "title": "Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1774708255,
         "date_posted": 1774649252,
         "url": "https://plugpower.wd5.myworkdayjobs.com/Plug_Power_Inc/job/Albany-NY/Engineer-I--Fuel-Cell-System-Test---Validation_R6885",
@@ -284298,7 +284262,7 @@
         "company_name": "Abbott",
         "id": "92f13043-fe84-447d-b8c1-e24dbf2e3a49",
         "title": "Engineer 1 - Research and Development",
-        "active": false,
+        "active": true,
         "date_updated": 1775197804,
         "date_posted": 1775196501,
         "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---Minnesota---Plymouth/Engineer-I--Research-and-Development_31146297",
@@ -284876,7 +284840,7 @@
         "company_name": "Lilly USA",
         "id": "32a2b3a4-5f89-4063-8420-6bcdac3a0f73",
         "title": "Data Scientist",
-        "active": false,
+        "active": true,
         "date_updated": 1775255041,
         "date_posted": 1775254035,
         "url": "https://lilly.wd5.myworkdayjobs.com/en-US/LLY/job/US-Indianapolis-IN/Data-Scientist_R-102438",
@@ -285549,7 +285513,7 @@
         "company_name": "The Boeing Company",
         "id": "e8a2e12b-0479-4124-a712-eec19f159f47",
         "title": "Spacecraft Software Engineer Associate Mid-Level",
-        "active": false,
+        "active": true,
         "date_updated": 1775257780,
         "date_posted": 1775254169,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Spacecraft-Software-Engineer--Associate-or-Mid-Level---Millennium-Space-Systems_JR2026504289-1",
@@ -285612,7 +285576,7 @@
         "company_name": "Jabil",
         "id": "bd09ba22-7ec3-48f1-bc09-4308af058ba8",
         "title": "NPI Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1775257381,
         "date_posted": 1775254202,
         "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Florence-KY/NPI-Technician_J2445272-1",
@@ -285630,7 +285594,7 @@
         "company_name": "NVIDIA",
         "id": "a8ff3976-75ef-4c6e-acde-b4aec7f1fd7e",
         "title": "Deep Learning Software Engineer \u2013 New College Grad - TensorRT Performance",
-        "active": false,
+        "active": true,
         "date_updated": 1775257798,
         "date_posted": 1775254170,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Software-Engineer--TensorRT-Performance---New-College-Grad-2026_JR2015071",
@@ -285673,7 +285637,7 @@
         "company_name": "CACI",
         "id": "405c7aae-55c3-463a-b86c-364e858731a5",
         "title": "Wireless Protocols Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1775257381,
         "date_posted": 1775254166,
         "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-NJ-Florham-Park/Wireless-Protocols-Software-Engineer_324402",
@@ -285698,7 +285662,7 @@
         "company_name": "CACI",
         "id": "3470cbf3-39b3-42b9-a8a1-1ea5e9c48095",
         "title": "Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1775257381,
         "date_posted": 1775254165,
         "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-MI-Ypsilanti/Software-Engineer_324327",
@@ -287504,6 +287468,148 @@
         "degrees": [
             "Bachelor's",
             "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Athena Health",
+        "id": "23f58832-59d2-4ac7-8235-1eaf906eb181",
+        "title": "AI Security Automation Engineer",
+        "active": true,
+        "date_updated": 1775302921,
+        "date_posted": 1775300463,
+        "url": "https://athenahealth.wd1.myworkdayjobs.com/en-US/External/job/Remote---MA/AI-Security-Automation-Engineer_R14486",
+        "locations": [
+            "Massachusetts"
+        ],
+        "company_url": "https://simplify.jobs/c/e955406a-7989-4ed8-aff1-01032b96e141",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Enbridge",
+        "id": "32677a39-f1eb-4718-9e7e-f44a0cb1d8fb",
+        "title": "Engineer in Training 1",
+        "active": true,
+        "date_updated": 1775303669,
+        "date_posted": 1775299574,
+        "url": "https://enbridge.wd3.myworkdayjobs.com/enbridge_careers/job/North-York-ON-CAN/Engineer-in-Training-I_70734-1",
+        "locations": [
+            "North York, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Enbridge",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Intel",
+        "id": "2da18d89-6f69-495a-8c20-1e04f9c8493f",
+        "title": "Junior CPU Design Verification Engineer",
+        "active": true,
+        "date_updated": 1775302471,
+        "date_posted": 1775298122,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Texas-Austin/Junior-CPU-Design-Verification-Engineer_JR0282204",
+        "locations": [
+            "Austin, TX",
+            "Hillsboro, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Zurn Elkay Water Solutions",
+        "id": "f72ec598-6026-461b-abcb-0b6c45b2bcaf",
+        "title": "Product Specialist 2",
+        "active": true,
+        "date_updated": 1775302399,
+        "date_posted": 1775297656,
+        "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Downers-Grove-IL/Specialist-II--Product_REQ-019536-1",
+        "locations": [
+            "Downers Grove, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Zurn-Elkay-Water-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "6b62d65b-f5d4-4a04-990c-bf1f6db41467",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1775303461,
+        "date_posted": 1775298328,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/Software-Engineer---Level---2-or-3_R10227859",
+        "locations": [
+            "Colorado Springs, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Applied Materials",
+        "id": "ea8a3e2f-ee56-4534-9227-c86fdd328f5d",
+        "title": "Global Product Support Engineer",
+        "active": true,
+        "date_updated": 1775301481,
+        "date_posted": 1775299441,
+        "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Global-Product-Support-Engineer--Early-in-Career-_R2615694",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Materials",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northrop Grumman",
+        "id": "29c08cc2-35f8-4311-b833-96223a17fa42",
+        "title": "Mechanical Engineer / Principal Mechanical Engineer - Level",
+        "active": true,
+        "date_updated": 1775303539,
+        "date_posted": 1775300483,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Gilbert/Engineer-Mechanical-Principal-Engineer-Mechanical--Level-2-3-_R10227027",
+        "locations": [
+            "Gilbert, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
             "PhD"
         ]
     }
