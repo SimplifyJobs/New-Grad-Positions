@@ -145389,7 +145389,7 @@
         "company_name": "Motorola",
         "id": "14966d9b-3cee-4dff-a28c-61248b1a2555",
         "title": "IOS developer",
-        "active": false,
+        "active": true,
         "date_updated": 1767899408,
         "date_posted": 1767899408,
         "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/London-UK/iOS-developer_R60900",
@@ -193533,7 +193533,7 @@
         "company_name": "CACI",
         "id": "990f0bd3-9df6-4802-b08a-2bf208d8a34f",
         "title": "Electro Optical Technician 1",
-        "active": false,
+        "active": true,
         "date_updated": 1770679556,
         "date_posted": 1770679556,
         "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-MT-Belgrade/Electro-Optical-Technician-1_321834",
@@ -227320,7 +227320,7 @@
         "company_name": "LexisNexis Risk Solutions",
         "id": "359ff90c-ecc2-40e1-b4a8-046dd694daf9",
         "title": "Data Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1772236343,
         "date_posted": 1772236343,
         "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/UK---London-Bishopsgate/Data-Analyst_R109428",
@@ -227430,7 +227430,7 @@
         "company_name": "Amentum",
         "id": "4b830373-a5a7-4d7b-a90d-8ee073dae27d",
         "title": "Configuration and Data Management Specialist",
-        "active": false,
+        "active": true,
         "date_updated": 1772235916,
         "date_posted": 1772235916,
         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-TX-Houston/Configuration-and-Data-Management-Specialist_R0153108-1",
@@ -236505,7 +236505,7 @@
         "company_name": "Globus Medical",
         "id": "ace4b2e4-8a18-41e7-927a-342e24488383",
         "title": "Associate Product Manager",
-        "active": false,
+        "active": true,
         "date_updated": 1772680631,
         "date_posted": 1772680631,
         "url": "https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Audubon-PA/Associate-Product-Manager_JR105828",
@@ -236525,7 +236525,7 @@
         "company_name": "Globus Medical",
         "id": "5f97452d-0967-4e5f-8591-3a06f82194b5",
         "title": "Associate Product Manager",
-        "active": false,
+        "active": true,
         "date_updated": 1772680637,
         "date_posted": 1772680637,
         "url": "https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Audubon-PA/Associate-Product-Manager_JR105687",
@@ -242764,7 +242764,7 @@
         "company_name": "Leonardo",
         "id": "9d213f02-a387-4abc-8d0f-1197b6a5471b",
         "title": "Graduate Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773098709,
         "date_posted": 1773098709,
         "url": "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Luton---Cap-Green-300/Graduate-Software-Engineer_R0021337-1",
@@ -251891,7 +251891,7 @@
         "company_name": "nVent",
         "id": "a71590f2-2c07-4e4c-aefe-dd5da0b5ee4a",
         "title": "Associate R&D Lab Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1773443645,
         "date_posted": 1773443645,
         "url": "https://nvent.wd5.myworkdayjobs.com/en-US/nVent/job/Anoka-MN-US/Associate-R-D-Lab-Technician_R20953",
@@ -271788,7 +271788,7 @@
         "company_name": "Leonardo",
         "id": "e5144836-3103-4089-b731-93c03667e2f5",
         "title": "Graduate Test Systems Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1774571633,
         "date_posted": 1774571633,
         "url": "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Newcastle/Graduate-Test-Systems-Engineer_R0028038",
@@ -280083,7 +280083,7 @@
         "company_name": "Micron Technology",
         "id": "46352150-1146-448c-a424-e72443626811",
         "title": "Product Development Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1775004841,
         "date_posted": 1774995090,
         "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Product-Development-Engineer_JR96818",
@@ -280185,7 +280185,7 @@
         "company_name": "Micron Technology",
         "id": "ceeffc80-3190-4538-b7e8-e58617d6dcd9",
         "title": "Design Validation Product Engineer - DEG Technology",
-        "active": false,
+        "active": true,
         "date_updated": 1775004841,
         "date_posted": 1774995091,
         "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Design-Validation-Product-Engineer--DEG-Technology_JR96079",
@@ -286396,6 +286396,109 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "77f35aee-bc8a-49f4-8bd3-d943985dbd39",
+        "title": "Algorithms Software Engineer - Level 2 or 3",
+        "active": true,
+        "date_updated": 1775298961,
+        "date_posted": 1775298863,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/Algorithms-Software-Engineer---Level-2-3_R10204136",
+        "locations": [
+            "Boulder, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "The Boeing Company",
+        "id": "691ff95e-e170-4abc-aa1e-ac70b53f11f2",
+        "title": "Associate Design and Analysis Engineer - Electronic Systems Design & Analysis",
+        "active": true,
+        "date_updated": 1775303461,
+        "date_posted": 1775297938,
+        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Associate-Design-and-Analysis-Engineer--Electronic-Sys-Design---Analy-_JR2025489431-1",
+        "locations": [
+            "Hazelwood, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Jonas Software",
+        "id": "2bf837f4-2dee-4219-8ab6-1913926fddaf",
+        "title": "BI Reporting Developer Analyst",
+        "active": true,
+        "date_updated": 1775300302,
+        "date_posted": 1775297661,
+        "url": "https://talentmanagementsolution.wd3.myworkdayjobs.com/JonasSoftwareCanada/job/Canada---Markham---Ontario/BI-Reporting-Developer-Analyst_R49412-2",
+        "locations": [
+            "Markham, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Jonas-Software",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "NVIDIA",
+        "id": "20dab505-3170-4e74-a572-2a5a0d7e7396",
+        "title": "ASIC RTL Integration and Netlisting Engineer",
+        "active": true,
+        "date_updated": 1775300686,
+        "date_posted": 1775299142,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-RTL-Integration-and-Netlisting-Engineer---New-College-Grad-2026_JR2013172",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "1e66afd9-fb94-4b66-bf15-c452189be3a9",
+        "title": "Linux Systems Administrator",
+        "active": true,
+        "date_updated": 1775299501,
+        "date_posted": 1775299410,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/Linux-Systems-Administrator_R10224413",
+        "locations": [
+            "Halethorpe, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "Associate's"
         ]
     }
 ]
