@@ -1,22 +1,5 @@
 [
     {
-        "date_updated": 1762412567,
-        "url": "https://careers-i3-corps.icims.com/jobs/4833/entry-level-full-stack-software-engineer/job",
-        "company_name": "i3",
-        "title": "Full-Stack Software Engineer",
-        "locations": [
-            "Hunstville, AL"
-        ],
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": false,
-        "source": "AlmondCroffle",
-        "id": "10757e82-0f1f-47cc-9dba-a04229089139",
-        "date_posted": 1754528498,
-        "company_url": "",
-        "is_visible": true,
-        "degrees": []
-    },
-    {
         "date_updated": 1755041580,
         "url": "https://app.ripplematch.com/v2/public/job/340fb9c1",
         "company_name": "Reddit",
@@ -271732,7 +271715,7 @@
         "company_name": "Sainsbury's",
         "id": "e0636571-4ab3-452e-841f-a8f46e1932db",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1774563514,
         "date_posted": 1774563514,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055208",
