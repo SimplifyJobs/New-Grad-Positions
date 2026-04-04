@@ -51229,7 +51229,7 @@
         "company_name": "Argonne National Laboratory",
         "id": "4d974bd5-8f72-4917-872b-cf22dd304ff3",
         "title": "Postdoctoral Appointee: Physics-Informed AI for Microelectronics Materials",
-        "active": false,
+        "active": true,
         "date_updated": 1761992294,
         "date_posted": 1761992294,
         "url": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee--Physics-Informed-AI-for-Microelectronics-Materials_421205",
@@ -75520,42 +75520,6 @@
         "date_updated": 1761869296,
         "date_posted": 1761869296,
         "url": "https://lifeattiktok.com/search/7530759729113680135",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "TikTok",
-        "id": "7744d69b-ee11-4cf0-bf1e-3e73d90f2885",
-        "title": "General Hire \u2013 Machine Learning Scientist Graduate - Tiktok Recommendation - 2025 Start (PhD)",
-        "active": false,
-        "date_updated": 1761865142,
-        "date_posted": 1754581400,
-        "url": "https://lifeattiktok.com/search/7380142787033221414",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "TikTok",
-        "id": "c7fad27c-fbee-4f1c-b321-445a62292f67",
-        "title": "Machine Learning Engineer Graduate - Conversational AI - TikTok E-Commerce",
-        "active": false,
-        "date_updated": 1754581405,
-        "date_posted": 1754581405,
-        "url": "https://lifeattiktok.com/search/7396253269317765402",
         "locations": [
             "Seattle, WA"
         ],
@@ -233483,7 +233447,7 @@
         "company_name": "LPL Financial Holdings",
         "id": "14baa6e2-9ee9-4612-b385-8bad55d04c67",
         "title": "New Grad - Technology - Software Development",
-        "active": false,
+        "active": true,
         "date_updated": 1772591816,
         "date_posted": 1772591816,
         "url": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/San-Diego-CA/New-Grad-2026---Technology--Software-Development_R-046207",
@@ -240154,7 +240118,7 @@
         "company_name": "Mass General Brigham",
         "id": "4ba769e3-7e0c-409d-a0f7-329a59acb615",
         "title": "Applications Analyst 1",
-        "active": false,
+        "active": true,
         "date_updated": 1772841390,
         "date_posted": 1772841390,
         "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Somerville-MA/Applications-Analyst-I_RQ4054458",
@@ -253553,7 +253517,7 @@
         "company_name": "CACI",
         "id": "be3e6141-9350-4a38-8c87-feb2d54f949d",
         "title": "UAS Red Team Pilot",
-        "active": false,
+        "active": true,
         "date_updated": 1773492974,
         "date_posted": 1773492974,
         "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-MD-Aberdeen-Proving-Ground/UAS-Red-Team-Pilot_323202",
@@ -262324,7 +262288,7 @@
         "company_name": "Leonardo",
         "id": "8b9df8ae-7e2b-44ef-b2c8-f9ee6373a4d1",
         "title": "Graduate Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1774048416,
         "date_posted": 1774048416,
         "url": "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Southampton/Graduate-Software-Engineer_R0022545-1",
@@ -268233,7 +268197,7 @@
         "company_name": "GE Healthcare",
         "id": "31d9ad06-8a2d-4a0e-9431-529da6203548",
         "title": "Field Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1774089409,
         "date_posted": 1774089409,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/FE-1-Bloomington--Illinois_R4037216-1",
@@ -282440,7 +282404,7 @@
         "company_name": "Applied Materials",
         "id": "037ce5e6-e640-4d6b-b25b-2412f061dbe4",
         "title": "IT System Solutions Management",
-        "active": false,
+        "active": true,
         "date_updated": 1775092880,
         "date_posted": 1775092255,
         "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/New-College-Grad-IT-System-Solutions-Management--Bachelors--Santa-Clara--CA-_R2616322",
@@ -284348,7 +284312,7 @@
         "company_name": "Northrop Grumman",
         "id": "931758b3-e188-47b5-aa40-39537fa3bb1d",
         "title": "Associate Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1775197769,
         "date_posted": 1775196523,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/ILUKEE/XMLNAME-2026-Associate-Software-Engineer_R10228071",
@@ -287294,6 +287258,129 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Pennsylvania State University",
+        "id": "511d6f5f-2c89-4282-b5ab-da8d188ff120",
+        "title": "Engineering Designer",
+        "active": true,
+        "date_updated": 1775303196,
+        "date_posted": 1775300138,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Engineering-Designer_REQ_0000076206-2",
+        "locations": [
+            "State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northrop Grumman",
+        "id": "e1f92ba6-b4ea-4da3-87bd-61b787e2cfad",
+        "title": "Associate Electronics Engineer",
+        "active": true,
+        "date_updated": 1775304014,
+        "date_posted": 1775298519,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Magna/Associate-Engineer-Electronics_R10228039",
+        "locations": [
+            "West Valley City, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Flex",
+        "id": "3a9cf0ab-9d9f-422e-b750-bb199f4c768e",
+        "title": "Engineering Technician 2",
+        "active": true,
+        "date_updated": 1775302367,
+        "date_posted": 1775294695,
+        "url": "https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-TX-Austin/Engineering-Technician-2_WD218042",
+        "locations": [
+            "Pflugerville, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Flex",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Flex",
+        "id": "1bc1a360-c735-4fa0-9d9f-e58f5b5b914f",
+        "title": "Engineering Technician 2",
+        "active": true,
+        "date_updated": 1775302373,
+        "date_posted": 1775294696,
+        "url": "https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-TX-Austin/Engineering-Technician-2_WD218044",
+        "locations": [
+            "Pflugerville, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Flex",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Invesco",
+        "id": "595173f5-58be-4c54-ad97-2a1fe1c505fd",
+        "title": "Associate Quantitative Analyst - Fixed Income",
+        "active": true,
+        "date_updated": 1775297862,
+        "date_posted": 1775294856,
+        "url": "https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Downers-Grove-Illinois/Associate-Quantitative-Analyst--Fixed-Income_R-13429",
+        "locations": [
+            "Downers Grove, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Invesco",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Indian River State College",
+        "id": "0ecafa9e-9ad4-4674-bd62-cc26143b1416",
+        "title": "Artificial Intelligence - AI",
+        "active": true,
+        "date_updated": 1775295678,
+        "date_posted": 1775294165,
+        "url": "https://irsc.wd5.myworkdayjobs.com/external/job/Port-St-Lucie-FL/Artificial-Intelligence--AI--Facilitator_R5018",
+        "locations": [
+            "Port St. Lucie, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Indian-River-State-College",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
             "PhD"
         ]
     }
