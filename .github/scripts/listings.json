@@ -1,53 +1,5 @@
 [
     {
-        "date_updated": 1754661674,
-        "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Getzville-New-York-United-States/Functions---Quantitative-Risk-Management--Full-Time-Analyst--Buffalo---USA--2026_25893592",
-        "company_name": "Citi",
-        "title": "Functions - Quantitative Risk Management, Full Time Analyst",
-        "locations": [
-            "Getzville, NY"
-        ],
-        "sponsorship": "Other",
-        "active": false,
-        "source": "AlmondCroffle",
-        "id": "9befb1bc-7880-493a-a3da-02e9a834bf84",
-        "date_posted": 1754542900,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1754542970,
-        "url": "https://apply.workable.com/trexquant/j/A634E0E3F4/",
-        "company_name": "Trexquant",
-        "title": "Quantitative Researcher",
-        "locations": [
-            "Stamford, CT"
-        ],
-        "sponsorship": "Other",
-        "active": true,
-        "source": "AlmondCroffle",
-        "id": "a15d5309-6cc9-4b9f-972d-a0ec2c3d4188",
-        "date_posted": 1754542970,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1755165964,
-        "url": "https://utaustin.wd1.myworkdayjobs.com/en-US/UTstaff/job/AUSTIN-TX/Data-Analyst--College-of-Pharmacy--PhARM-and-TXCORE_R_00041200",
-        "company_name": "The University of Texas at Austin",
-        "title": "Data Analyst, College of Pharmacy, PhARM and TXCORE",
-        "locations": [
-            "Austin, TX"
-        ],
-        "sponsorship": "Other",
-        "active": true,
-        "source": "AlmondCroffle",
-        "id": "fe81670b-36fc-4ad0-bf87-9b67f0b44b06",
-        "date_posted": 1754543197,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
         "source": "Simplify",
         "category": "Software",
         "company_name": "The Travelers Companies",
@@ -275797,7 +275749,7 @@
         "company_name": "GE Aerospace",
         "id": "670550fc-9d27-4cfa-a143-df25ba650dff",
         "title": "Edison Engineering Development Program - Systems - Computer Engineering/Science",
-        "active": true,
+        "active": false,
         "date_updated": 1774850893,
         "date_posted": 1774850893,
         "url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Grand-Rapids/Edison-Engineering-Development-Program--EEDP--Systems---Computer-Engineering-Science---US---2027-Start_R5031091-1",
@@ -275838,7 +275790,7 @@
         "company_name": "GE Aerospace",
         "id": "3b47c328-0176-431a-949d-2f90f9911595",
         "title": "Edison Engineering Development Program - Engines - Computer Engineering/Science",
-        "active": true,
+        "active": false,
         "date_updated": 1774850893,
         "date_posted": 1774850893,
         "url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Edison-Engineering-Development-Program--EEDP--Engines---Computer-Engineering-Science---US---2026-Start_R5031077-1",
@@ -276545,7 +276497,7 @@
         "company_name": "Cox",
         "id": "35c0c3e0-58f6-4d30-bdc3-4d9d6fb5b070",
         "title": "Business Intelligence Analyst 1",
-        "active": true,
+        "active": false,
         "date_updated": 1774910041,
         "date_posted": 1774908439,
         "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Business-Intelligence-Analyst-I_R202674157",
@@ -286960,6 +286912,24 @@
             "Aberdeen, UK"
         ],
         "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Texas at Austin",
+        "id": "171c690b-9929-4ef0-8c2d-9ccb8bff82c7",
+        "title": "Postdoctoral Fellow in Water Systems - Ml",
+        "active": true,
+        "date_updated": 1771686678,
+        "date_posted": 1771686678,
+        "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/PICKLE-RESEARCH-CAMPUS/Postdoctoral-Fellow-in-Water-Systems--ml-_R_00041178-1",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Texas-Austin",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
