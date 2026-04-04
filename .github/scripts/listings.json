@@ -116552,7 +116552,7 @@
         "company_name": "RELX",
         "id": "a48eea25-3bca-4a31-a06b-1a43b545cdae",
         "title": "Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1765523669,
         "date_posted": 1765523669,
         "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/PHL-RE-Shared-Services-Manila/Data-Analyst_R105711",
@@ -198604,7 +198604,7 @@
         "company_name": "Cubic",
         "id": "746e307f-9044-482f-8294-bf9d1e41e388",
         "title": "Field Service Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1770910431,
         "date_posted": 1770910431,
         "url": "https://cubic.wd1.myworkdayjobs.com/cubic_global_careers/job/Kingswinford/Field-Service-Technican_REQ_47269",
@@ -233646,7 +233646,7 @@
         "company_name": "MBDA",
         "id": "64ec9bf8-342d-4642-a4d7-af0d5d796f32",
         "title": "Mechanical Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1772609608,
         "date_posted": 1772609608,
         "url": "https://mbda.wd3.myworkdayjobs.com/MBDA-UK/job/Stevenage/Mechanical-Technician_R31540-1",
@@ -236606,7 +236606,7 @@
         "company_name": "BorgWarner",
         "id": "6ab1c532-f967-4db1-806d-6c9b8af277bf",
         "title": "Engineering Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1772679568,
         "date_posted": 1772679568,
         "url": "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Wilsonville---Oregon---USA/Engineering-Technician_R2026-0581",
@@ -252149,7 +252149,7 @@
         "company_name": "BlackRock",
         "id": "085433c4-c864-4166-9b62-c8b9d2cf546a",
         "title": "Quantitative Technology & Implementation",
-        "active": true,
+        "active": false,
         "date_updated": 1773484942,
         "date_posted": 1773484942,
         "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/New-York-NY/Quantitative-Technology---Implementation--Associate_R261522",
@@ -252706,7 +252706,7 @@
         "company_name": "University of Chicago",
         "id": "72786552-220d-4b78-aed7-0ac6384f19d4",
         "title": "Data Management Coordinator",
-        "active": true,
+        "active": false,
         "date_updated": 1773483365,
         "date_posted": 1773483365,
         "url": "https://uchicago.wd5.myworkdayjobs.com/External/job/Hyde-Park-Campus/Data-Management-Coordinator_JR32682",
@@ -268310,7 +268310,7 @@
         "company_name": "Dentsu",
         "id": "a88473dc-9017-4df1-b2bf-20d19f89c1d7",
         "title": "Technical Director - Analytics Implementation",
-        "active": true,
+        "active": false,
         "date_updated": 1774089025,
         "date_posted": 1774089025,
         "url": "https://dentsuaegis.wd3.myworkdayjobs.com/DAN_GLOBAL/job/Columbia/Technical-Director---Analytics-Implementation_R1094151",
@@ -270010,7 +270010,7 @@
         "company_name": "Northrop Grumman",
         "id": "df6ecf03-50bf-4a5e-982e-937c787bb296",
         "title": "Software Engineer - Emulator",
-        "active": true,
+        "active": false,
         "date_updated": 1774508952,
         "date_posted": 1774508952,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Engineer-Software---Emulator--Melbourne-Florida-_R10223780",
@@ -287233,6 +287233,68 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Elekta",
+        "id": "a61d1008-152e-4915-aec5-bc00790e4bc8",
+        "title": "Associate Field Service Engineer",
+        "active": true,
+        "date_updated": 1775298421,
+        "date_posted": 1775297959,
+        "url": "https://elekta.wd3.myworkdayjobs.com/Elekta_Careers/job/Louisiana--Home-Based/Associate-Field-Service-Engineer---Baton-Rouge--LA_R2024-0706",
+        "locations": [
+            "Shreveport, LA",
+            "Baton Rouge, LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Elekta",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Applied Materials",
+        "id": "696aabab-5295-482b-b0bd-c1a23eb23597",
+        "title": "Graduate IT Systems Analyst",
+        "active": true,
+        "date_updated": 1775303698,
+        "date_posted": 1775299129,
+        "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/New-College-Grad-IT-Systems-Analyst--Bachelors---Multiple-Locations-_R2616320",
+        "locations": [
+            "Austin, TX",
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Materials",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Medical University of South Carolina",
+        "id": "4217d3a9-6456-42d4-8a51-958b48d7e3f2",
+        "title": "Univ Post-Doctoral Candidate - Biomedical Informatics Center/Public Health Sciences",
+        "active": true,
+        "date_updated": 1775297115,
+        "date_posted": 1775294398,
+        "url": "https://musc.wd1.myworkdayjobs.com/en-US/MUSC/job/Charleston/UNIV---Post-Doctoral-Candidate---Department-of-BMIC-PHS_R-0000056646",
+        "locations": [
+            "Charleston, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/Medical-University-Of-South-Carolina",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
         ]
     }
 ]
