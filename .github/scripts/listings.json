@@ -285334,7 +285334,7 @@
         "company_name": "Leidos",
         "id": "cebcf839-fa11-4531-9dfa-552df2bae3a8",
         "title": "Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1775257781,
         "date_posted": 1775254232,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Software-Developer_R-00179976",
@@ -287430,6 +287430,158 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "d5a15c4f-9afb-4f2d-8ae8-cdf09ba8eb35",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1775341441,
+        "date_posted": 1775340424,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056231",
+        "locations": [
+            "Leicester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "6cf9514d-80bc-4871-8faa-19c9fe3c20b9",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1775341441,
+        "date_posted": 1775340423,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056229",
+        "locations": [
+            "Croydon, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "General Dynamics Mission Systems",
+        "id": "e946ab1e-24de-42e1-a623-5a9b45a97d4a",
+        "title": "Software Engineer \u2013 Entry Level",
+        "active": true,
+        "date_updated": 1775341441,
+        "date_posted": 1775340429,
+        "url": "https://careers-gdms.icims.com/jobs/71846/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Las Vegas, NV"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "e0150f47-e5ca-4be9-9f63-00754c9234ee",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1775341441,
+        "date_posted": 1775340423,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056230",
+        "locations": [
+            "Edinburgh, UK",
+            "Midlothian, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "da5945c2-f760-443d-a23f-b3f838feaaff",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1775341441,
+        "date_posted": 1775340428,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056225",
+        "locations": [
+            "Cardiff, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "2f28a851-a74a-4523-bb96-7622fade0430",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1775341441,
+        "date_posted": 1775340423,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056210",
+        "locations": [
+            "Wellington, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "2a88e862-f42d-4061-bc1e-05e9a3d82597",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1775341441,
+        "date_posted": 1775340424,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056228",
+        "locations": [
+            "Croydon, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Trexquant",
+        "id": "0c176474-32a7-45e5-84eb-b8e956800bf8",
+        "title": "Quantitative Researcher \u2013 Early Career - USA",
+        "active": true,
+        "date_updated": 1769074193,
+        "date_posted": 1761868558,
+        "url": "https://apply.workable.com/trexquant/j/A634E0E3F4/apply",
+        "locations": [
+            "Stamford, CT",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Trexquant",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     }
 ]
