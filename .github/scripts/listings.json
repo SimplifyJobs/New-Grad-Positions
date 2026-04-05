@@ -22797,26 +22797,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Boston Scientific",
-        "id": "5488a260-8a0c-47e9-921d-5bdb5549d63a",
-        "title": "Software Design Assurance Engineer 1 - Engineering - Design Assurance",
-        "active": true,
-        "date_updated": 1758379328,
-        "date_posted": 1754617643,
-        "url": "https://bostonscientific.eightfold.ai/careers/job/563602803067367",
-        "locations": [
-            "Maple Grove, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Boston-Scientific",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "General Dynamics Mission Systems",
         "id": "7daef556-470c-45ce-bd10-00a2a1563067",
         "title": "Software Engineer 1",
@@ -74975,42 +74955,6 @@
             "San Jose, CA"
         ],
         "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Hudson River Trading",
-        "id": "f6f16e98-ce9a-4715-8534-cbfe162195b3",
-        "title": "Algorithm Developer - Quant Researcher",
-        "active": false,
-        "date_updated": 1762939177,
-        "date_posted": 1754618273,
-        "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7051048",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Hudson-River-Trading",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Hudson River Trading",
-        "id": "90b22b32-6d16-4d8f-b7d2-8fcde2cd791d",
-        "title": "Algorithm Developer - Quant Researcher - 2026 Phds",
-        "active": true,
-        "date_updated": 1760269981,
-        "date_posted": 1754618275,
-        "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7133986",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Hudson-River-Trading",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
