@@ -286263,5 +286263,25 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AlphaSights",
+        "id": "0485f920-641d-4c62-b891-89f06d38f531",
+        "title": "Graduate Software Engineer",
+        "active": true,
+        "date_updated": 1773642029,
+        "date_posted": 1773642029,
+        "url": "https://www.alphasights.com/careers/open-roles?gh_jid=6450783",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/AlphaSights",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
