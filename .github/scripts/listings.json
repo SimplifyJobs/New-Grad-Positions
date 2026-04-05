@@ -1,22 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Boston Scientific",
-        "id": "848f9975-f362-46d1-bdf9-04b8b79018b5",
-        "title": "Software Engineer I - Engineering - Development",
-        "active": false,
-        "date_updated": 1755270992,
-        "date_posted": 1754630569,
-        "url": "https://bostonscientific.eightfold.ai/careers/job/563602803067424",
-        "locations": [
-            "Roseville, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Boston-Scientific",
-        "is_visible": false,
-        "sponsorship": "Other"
-    },
-    {
         "date_updated": 1754753470,
         "url": "https://amgen.wd1.myworkdayjobs.com/en-US/Careers/job/US---California---Thousand-Oaks/Junior-Software-Engineer_R-222252",
         "company_name": "Amgen",
@@ -74006,78 +73989,6 @@
             "San Jose, CA"
         ],
         "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "cd27e608-02d4-4356-9a8a-9193fc5dd0ec",
-        "title": "Graduate Researcher - Applied Machine Learning - Enterprise",
-        "active": false,
-        "date_updated": 1762929491,
-        "date_posted": 1754630348,
-        "url": "https://jobs.bytedance.com/en/position/7535236062285891847/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "ByteDance",
-        "id": "ceb20680-4b17-432a-95fa-c339ae157d6d",
-        "title": "Software Engineer Graduate - Applied Machine Learning",
-        "active": false,
-        "date_updated": 1763124119,
-        "date_posted": 1754630339,
-        "url": "https://jobs.bytedance.com/en/position/7535240425562818824/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "ByteDance",
-        "id": "64e1d892-f89c-4723-aa14-4995a3a8d01d",
-        "title": "Software Engineer Graduate - Applied Machine Learning - Inference",
-        "active": false,
-        "date_updated": 1754630336,
-        "date_posted": 1754630336,
-        "url": "https://jobs.bytedance.com/en/position/7535239293659941138/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "ByteDance",
-        "id": "3dbcd5f2-0a03-413f-bf4b-b4302ba00cf4",
-        "title": "Software Engineer Graduate - Applied Machine Learning - Orchestration",
-        "active": false,
-        "date_updated": 1754630346,
-        "date_posted": 1754630346,
-        "url": "https://jobs.bytedance.com/en/position/7535234137167612167/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
