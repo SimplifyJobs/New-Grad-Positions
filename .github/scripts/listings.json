@@ -1,23 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Leidos",
-        "id": "15a3cb70-7e7e-4266-836d-d22d886b2d8c",
-        "title": "Software Developer \u2013 Entry level",
-        "active": false,
-        "date_updated": 1754619648,
-        "date_posted": 1754619648,
-        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Sill-OK/Software-Developer---Entry-level_R-00164213",
-        "locations": [
-            "Lawton, OK"
-        ],
-        "company_url": "https://simplify.jobs/c/Leidos",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Boston Scientific",
         "id": "848f9975-f362-46d1-bdf9-04b8b79018b5",
