@@ -73976,24 +73976,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Hearst",
-        "id": "7454f9b7-df17-44aa-ab1e-89419acefc2e",
-        "title": "Master Control Operator",
-        "active": false,
-        "date_updated": 1762935842,
-        "date_posted": 1754624942,
-        "url": "https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2024852",
-        "locations": [
-            "Manchester, NH"
-        ],
-        "company_url": "https://simplify.jobs/c/Hearst",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "TikTok",
         "id": "f0abfcde-db64-48a8-accb-5cefba7745f3",
