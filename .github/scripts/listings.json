@@ -1,23 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Boston Scientific",
-        "id": "31258921-79ec-4c6b-a2d1-bd40aa5a0ff2",
-        "title": "Software Engineer I - Engineering - Development",
-        "active": false,
-        "date_updated": 1755082091,
-        "date_posted": 1754616167,
-        "url": "https://bostonscientific.eightfold.ai/careers/job/563602803047194",
-        "locations": [
-            "Roseville, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Boston-Scientific",
-        "is_visible": false,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Leidos",
         "id": "15a3cb70-7e7e-4266-836d-d22d886b2d8c",
@@ -249392,7 +249375,7 @@
         "company_name": "Adobe",
         "id": "fddcab17-1476-4ab7-9b29-71e8a89c74d1",
         "title": "Software Development Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773365526,
         "date_posted": 1773365526,
         "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Software-Development-Engineer_R165849-1",
@@ -285237,7 +285220,7 @@
         "company_name": "Leidos",
         "id": "cebcf839-fa11-4531-9dfa-552df2bae3a8",
         "title": "Software Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1775257781,
         "date_posted": 1775254232,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Software-Developer_R-00179976",
@@ -287485,6 +287468,26 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Applied Materials",
+        "id": "e8d4a37e-6dac-4b25-8b6b-3f517a6a2cd3",
+        "title": "Global Product Support",
+        "active": true,
+        "date_updated": 1775351881,
+        "date_posted": 1775351381,
+        "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Global-Product-Support--early-in-Career-_R2616746-1",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Materials",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
