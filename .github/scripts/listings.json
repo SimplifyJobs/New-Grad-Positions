@@ -1,64 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Blue Origin",
-        "id": "f37865a3-2377-4049-a582-75c3fc52d4b2",
-        "title": "Intern Conversion: \u2013 Early Career - Avionics Software Engineer I",
-        "active": false,
-        "date_updated": 1754610266,
-        "date_posted": 1754610266,
-        "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Seattle-WA/Intern-Conversion---Early-Career--Avionics-Software-Engineer-I_R54003",
-        "locations": [
-            "Seattle, WA",
-            "Washington, DC",
-            "LA",
-            "Cape Canaveral, FL",
-            "Phoenix, AZ",
-            "Denver, CO",
-            "Huntsville, AL",
-            "Van Horn, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Blue-Origin",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "FourKites",
-        "id": "9283f61a-70cb-475a-94e8-1e2d58f3e387",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1754610831,
-        "date_posted": 1754610831,
-        "url": "https://job-boards.greenhouse.io/fourkites/jobs/6939520",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/FourKites",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "i3",
-        "id": "a0400f57-73c1-4920-8d81-a0743ce3c7cd",
-        "title": "Entry Level Full-Stack Software Engineer",
-        "active": false,
-        "date_updated": 1754610792,
-        "date_posted": 1754610792,
-        "url": "https://careers-i3-corps.icims.com/jobs/4833/job",
-        "locations": [
-            "Huntsville, AL"
-        ],
-        "company_url": "https://simplify.jobs/c/I3",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Boston Scientific",
         "id": "31258921-79ec-4c6b-a2d1-bd40aa5a0ff2",
@@ -75104,27 +75046,6 @@
             "Centreville, VA"
         ],
         "company_url": "https://simplify.jobs/c/Parsons",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Capital One",
-        "id": "19d1ce76-bad7-4a66-b5f5-344639534818",
-        "title": "Senior Associate Product Manager - Enterprise Payments",
-        "active": false,
-        "date_updated": 1754610647,
-        "date_posted": 1754610647,
-        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Associate-Product-Manager--Enterprise-Payments_R222767-1",
-        "locations": [
-            "McLean, VA",
-            "Richmond, VA",
-            "NYC",
-            "Wilmington, DE"
-        ],
-        "company_url": "https://simplify.jobs/c/Capital-One",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -262091,7 +262012,7 @@
         "company_name": "Sainsbury's",
         "id": "64b96703-f3a8-499e-a93b-f83381275bec",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1774084050,
         "date_posted": 1774084050,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054449",
