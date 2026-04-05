@@ -151922,24 +151922,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "Cellular Sales",
-        "id": "d109d664-0104-4aa3-a2cf-d9bdf8cd9bb3",
-        "title": "Verizon Sales Consultant",
-        "active": false,
-        "date_updated": 1768357563,
-        "date_posted": 1754612923,
-        "url": "https://careers-cellularsales.icims.com/jobs/19692/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Cleveland, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Cellular-Sales",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "SpaceX",
         "id": "58e0d3b9-666d-44e1-8e51-7e5376d743bd",
@@ -255752,7 +255734,7 @@
         "company_name": "Vanguard",
         "id": "bd6a1b08-9ffe-44ff-acdb-819753bf1bd8",
         "title": "Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773758124,
         "date_posted": 1773758124,
         "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/contractors_restricted/job/Manchester-United-Kingdom/Application-Engineer---I_174863",
