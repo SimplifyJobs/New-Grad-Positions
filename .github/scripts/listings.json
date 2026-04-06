@@ -1,75 +1,5 @@
 [
     {
-        "date_updated": 1756413224,
-        "url": "https://careers-peraton.icims.com/jobs/158789/software-engineering%2c-associate/job",
-        "company_name": "Peraton",
-        "title": "Software Engineering, Associate",
-        "locations": [
-            "Herndon, VA"
-        ],
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
-        "source": "AlmondCroffle",
-        "id": "ff31da1e-4ae5-46da-8714-dd3695505784",
-        "date_posted": 1754748271,
-        "company_url": "",
-        "is_visible": false,
-        "degrees": []
-    },
-    {
-        "date_updated": 1755081429,
-        "url": "https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---New-York---Malta/Digital-Manufacturing-Data-Science-Analyst--2025-New-College-Graduate-_JR-2502012",
-        "company_name": "GlobalFoundries",
-        "title": "Digital Manufacturing Data Science Analyst",
-        "locations": [
-            "Malta, NY"
-        ],
-        "sponsorship": "Other",
-        "active": false,
-        "source": "AlmondCroffle",
-        "id": "2ad991f6-5161-43b8-af8f-3be0ac68b1a8",
-        "date_posted": 1754748405,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1755645192,
-        "url": "https://job-boards.greenhouse.io/celonis/jobs/6616403003",
-        "company_name": "Celonis",
-        "title": "Associate Value Engineer (AI-Driven Data Science & Analytics) - Orbit Program",
-        "locations": [
-            "New York, NY"
-        ],
-        "sponsorship": "Other",
-        "active": true,
-        "source": "AlmondCroffle",
-        "id": "ff7b6269-b3e1-4e8c-bcb1-6d796c23b551",
-        "date_posted": 1754748517,
-        "company_url": "",
-        "is_visible": false,
-        "category": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "date_updated": 1755872440,
-        "url": "https://usventure.wd1.myworkdayjobs.com/en-US/usvexternal/job/WI---Green-Bay/Data-Analyst-I--Breakthrough-_R3745",
-        "company_name": "U.S. Venture",
-        "title": "Data Analyst I (Breakthrough)",
-        "locations": [
-            "Green Bay, WI"
-        ],
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "source": "AlmondCroffle",
-        "id": "bb95c23d-065b-4ae3-ab08-1db8a7deba5a",
-        "date_posted": 1754748680,
-        "company_url": "",
-        "is_visible": false,
-        "degrees": []
-    },
-    {
         "date_updated": 1763561375,
         "url": "https://jobs.lever.co/lumafield/0bdaed8e-3234-4073-afa6-410d1362fe25",
         "company_name": "Lumafield",
@@ -282240,7 +282170,7 @@
         "company_name": "JP Morgan Chase",
         "id": "2b5f44bd-5554-44d7-a41f-5ce53e1c7f48",
         "title": "Trading Support Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1775179261,
         "date_posted": 1775178516,
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210730123",
@@ -285813,7 +285743,7 @@
         "company_name": "Sainsbury's",
         "id": "da5945c2-f760-443d-a23f-b3f838feaaff",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1775341441,
         "date_posted": 1775340428,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056225",
