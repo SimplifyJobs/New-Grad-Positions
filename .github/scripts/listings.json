@@ -2,41 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Databricks",
-        "id": "992ceb83-2b59-4901-b82d-8ca2b8edc498",
-        "title": "Software Engineer \u2013 New Grad - Distributed Data Systems - 2025 Start",
-        "active": false,
-        "date_updated": 1754705238,
-        "date_posted": 1754705238,
-        "url": "https://boards.greenhouse.io/embed/job_app?token=6865704002",
-        "locations": [
-            "Bellevue, WA",
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Databricks",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Databricks",
-        "id": "6229e804-43a5-47a4-882c-c7bf3dc4968f",
-        "title": "Software Engineer \u2013 New Grad - 2026 Start",
-        "active": false,
-        "date_updated": 1754705218,
-        "date_posted": 1754705218,
-        "url": "https://boards.greenhouse.io/embed/job_app?token=6865698002",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Databricks",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Jerry",
         "id": "771d2792-5d1c-41f4-aa36-d5fc6bd60af3",
         "title": "Software Engineer I",
@@ -10892,27 +10857,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Databricks",
-        "id": "ea29c605-ae90-4d90-9e3f-3790c81943c8",
-        "title": "Data Scientist \u2013 New Grad - 2026 Start",
-        "active": false,
-        "date_updated": 1758306471,
-        "date_posted": 1754705021,
-        "url": "https://boards.greenhouse.io/embed/job_app?token=6866554002",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Databricks",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
         ]
     },
     {
@@ -73567,24 +73511,6 @@
             "Las Cruces, NM"
         ],
         "company_url": "https://simplify.jobs/c/Scientific-Games",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Argonne National Laboratory",
-        "id": "e0099cb3-65a4-43e5-862d-7fa777f7e96d",
-        "title": "Postdoctoral Researcher - Advanced Scanning/Transmission Electron Microscopy - S/Tem",
-        "active": false,
-        "date_updated": 1754705453,
-        "date_posted": 1754705453,
-        "url": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Researcher---Advanced-Scanning-Transmission-Electron-Microscopy--S-TEM--Development_420917",
-        "locations": [
-            "Woodridge, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Argonne-National-Laboratory",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
