@@ -28064,7 +28064,7 @@
         "company_name": "iTradeNetwork",
         "id": "45602803-b30d-484c-9b3c-e5c0ab85ddbf",
         "title": "AI/ML Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1762997470,
         "date_posted": 1762997470,
         "url": "https://www.itradenetwork.com/jobs/4892164008?gh_jid=4892164008",
@@ -268134,7 +268134,7 @@
         "company_name": "Sainsbury's",
         "id": "9b9b4546-07fb-4b6f-9600-e85f56563671",
         "title": "Trading Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1774515900,
         "date_posted": 1774515900,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055087",
@@ -269552,7 +269552,7 @@
         "company_name": "Argonne National Laboratory",
         "id": "8f4ca09b-7536-412f-8025-f8e71ed0c2e9",
         "title": "Assistant Computational Scientist: AI for Spectroscopy and Elemental Imaging",
-        "active": true,
+        "active": false,
         "date_updated": 1774571627,
         "date_posted": 1774571627,
         "url": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Assistant-Computational-Scientist--AI-for-Spectroscopy-and-Elemental-Imaging_422392",
@@ -280236,7 +280236,7 @@
         "company_name": "Cincinnati Children\u2019s Hospital and Medical Center",
         "id": "f3dacc8e-0f84-4b4f-ad43-808aaa53919c",
         "title": "Social Worker PHP",
-        "active": false,
+        "active": true,
         "date_updated": 1775086186,
         "date_posted": 1775081450,
         "url": "https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Green-Township/Social-Worker-for-Green-Township-PHP_JR219286",
@@ -281543,7 +281543,7 @@
         "company_name": "JP Morgan Chase",
         "id": "bc96807f-c48b-4c4f-9d43-b9e7de9bc97b",
         "title": "Trading Services Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1775169541,
         "date_posted": 1775167724,
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210729483",
@@ -286134,6 +286134,325 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "4a32a61a-a044-4951-a2de-2f89fc440c6c",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1775485441,
+        "date_posted": 1775484463,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056290",
+        "locations": [
+            "Leeds, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "fe931891-fc8d-488d-8b1b-d89b2d83d9f6",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1775485441,
+        "date_posted": 1775484453,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056277",
+        "locations": [
+            "Dartford District, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "NRG Energy",
+        "id": "f5e8a02d-5299-495c-b90a-36aa5482ef1e",
+        "title": "Graduate Rotational Analyst - Business Sales and Power Trading",
+        "active": true,
+        "date_updated": 1775485441,
+        "date_posted": 1775484471,
+        "url": "https://careers.nrgenergy.com/nrg/job/Houston-Graduate-Rotational-Analyst-Business-Sales-and-Power-Trading-TX-77010/1379656800/?ats=successfactors",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/NRG-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "UT Southwestern Medical Center",
+        "id": "ad3dc613-30ab-487d-9e28-1d771f14e62e",
+        "title": "Data Scientist 1 - School Public Health",
+        "active": true,
+        "date_updated": 1775485876,
+        "date_posted": 1775484606,
+        "url": "https://utsw.taleo.net/careersection/2/jobdetail.ftl?job=935979",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/UT-Southwestern-Medical-Center",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "abc6198f-cd0b-4487-8544-b9d3d9cae5f4",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1775485441,
+        "date_posted": 1775484453,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056315",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "94eaed29-2b9d-43ae-beff-b11d53e29fb7",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1775485441,
+        "date_posted": 1775484453,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056314",
+        "locations": [
+            "Manchester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "8cada4eb-aa75-46ca-9569-27eeaef71879",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1775485441,
+        "date_posted": 1775484455,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056292",
+        "locations": [
+            "Leeds, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "72100abf-cf3e-4227-9bb7-92e6e55d23c9",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1775485441,
+        "date_posted": 1775484454,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056303",
+        "locations": [
+            "United Kingdom"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Pennsylvania State University",
+        "id": "5355a9a6-812f-4219-8124-c7cdf97e6907",
+        "title": "Full Stack Software Developer",
+        "active": true,
+        "date_updated": 1775485916,
+        "date_posted": 1775484546,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Full-Stack-Software-Developer_REQ_0000076455-2",
+        "locations": [
+            "State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "1229199d-2e69-4a38-9f8a-893fa8804aad",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1775485441,
+        "date_posted": 1775484452,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056295",
+        "locations": [
+            "Leeds, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Viridien",
+        "id": "78f1914c-bbbb-430e-b2b3-5607e1d9a024",
+        "title": "Seismic Imaging Analyst",
+        "active": true,
+        "date_updated": 1775485441,
+        "date_posted": 1775484551,
+        "url": "https://cgg.wd103.myworkdayjobs.com/viridiencareers/job/Houston-United-States-of-America/Seismic-Imaging-Analyst_JR101220-2",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Viridien",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "17bb2efd-98de-4f85-b705-66bedbf7605f",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1775485441,
+        "date_posted": 1775484453,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056317",
+        "locations": [
+            "United Kingdom"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Raymond James Financial",
+        "id": "c358f3f1-1ca6-4b3d-a4dc-51f29ef50d9d",
+        "title": "Senior Operations Support Associate - Mutual Fund Trading Dept",
+        "active": true,
+        "date_updated": 1775485830,
+        "date_posted": 1775484443,
+        "url": "https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Southfield-Michigan---United-States/Sr-Operations-Support-Associate--Mutual-Fund-Trading-Dept_R-0010437",
+        "locations": [
+            "Southfield, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Raymond-James-Financial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "909fe32f-0346-4716-881f-2c755b3a2204",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1775485441,
+        "date_posted": 1775484454,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056306",
+        "locations": [
+            "Dartford District, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "8fc493ac-0d45-474b-94cf-a96af5ff874d",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1775485441,
+        "date_posted": 1775484453,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056297",
+        "locations": [
+            "United Kingdom"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Mirage",
+        "id": "7d404833-230f-4eab-b649-0378393e02e3",
+        "title": "Software Engineer \u2013 Early Career",
+        "active": true,
+        "date_updated": 1775485441,
+        "date_posted": 1775484610,
+        "url": "https://jobs.ashbyhq.com/mirage/ff388d40-ab91-4383-977b-4caa18e85160/application",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Mirage",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "42b861bd-eba9-4597-9f96-45ddcaf3f0ee",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1775485441,
+        "date_posted": 1775484453,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056272",
+        "locations": [
+            "Dartford District, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
