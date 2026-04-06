@@ -206440,7 +206440,7 @@
         "company_name": "Clearer.io",
         "id": "c3855fad-4a08-4830-934a-13bcb746bf82",
         "title": "Associate Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1771485101,
         "date_posted": 1771485101,
         "url": "https://jobs.lever.co/Clearer/530ccee8-a05b-4511-9b0f-4296a8a489ef/apply",
@@ -286044,6 +286044,46 @@
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056257",
         "locations": [
             "Exeter, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Abbott",
+        "id": "bf2954ae-9537-4ee8-9894-97d9f1e3a399",
+        "title": "System Engineer 1",
+        "active": true,
+        "date_updated": 1775457008,
+        "date_posted": 1775455691,
+        "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---California---Pleasanton/System-Engineer-I_31146545",
+        "locations": [
+            "Pleasanton, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Abbott",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "45ff5ec4-6f07-4ac9-b79b-b61864eabd6d",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1775456641,
+        "date_posted": 1775455632,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056258",
+        "locations": [
+            "Ashford District, UK"
         ],
         "company_url": "https://simplify.jobs/c/Sainsburys",
         "is_visible": true,
