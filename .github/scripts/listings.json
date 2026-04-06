@@ -286214,5 +286214,64 @@
             "Bachelor's",
             "Associate's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Uber",
+        "id": "750526d3-f783-4c66-8d9b-aa4e6d10e4de",
+        "title": "Graduate Software Engineer 1 - Mobile - iOS",
+        "active": true,
+        "date_updated": 1775471429,
+        "date_posted": 1775466409,
+        "url": "https://university-uber.icims.com/jobs/158011/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Uber",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amentum",
+        "id": "599f97cc-04c3-4877-aada-a1a6bbfdf8a6",
+        "title": "Systems Engineering Simulator - Integrated Studies Team Member - Software Developer",
+        "active": true,
+        "date_updated": 1775470501,
+        "date_posted": 1775466446,
+        "url": "https://jacobs.taleo.net/careersection/ex3/jobdetail.ftl?job=ADV000CLW",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Amentum",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Amazon",
+        "id": "88845f33-458d-453b-8be2-07d74ab1ec8a",
+        "title": "AI Data Associate - Portuguese - Artificial General Intelligence",
+        "active": true,
+        "date_updated": 1775472121,
+        "date_posted": 1775466189,
+        "url": "https://amazon.jobs/en/jobs/10378500/ai-data-associate-portuguese-artificial-general-intelligence",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
