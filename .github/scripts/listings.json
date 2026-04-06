@@ -73051,28 +73051,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Polaris",
-        "id": "f9d625f5-5511-4a8d-9605-d99e77cea9da",
-        "title": "Electrical Software Controls Engineering Development Program",
-        "active": false,
-        "date_updated": 1762921408,
-        "date_posted": 1754775824,
-        "url": "https://polaris.wd5.myworkdayjobs.com/PolarisJobs/job/Wyoming-MN-USA/Electrical-Software-Controls-Engineering-Development-Program_R27063",
-        "locations": [
-            "Wayzata, MN",
-            "Roseau, MN",
-            "Novi, MI",
-            "Marine on St Croix, MN",
-            "San Angelo, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Polaris",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "CACI",
         "id": "599e1c10-4202-41e6-97d1-d3623ca5f2bb",
@@ -158875,7 +158853,7 @@
         "company_name": "Autodesk",
         "id": "94cbdefa-1bb1-4995-8d42-0aeb67b0a2d7",
         "title": "Software Developer - Civil 3D",
-        "active": true,
+        "active": false,
         "date_updated": 1769029918,
         "date_posted": 1769029918,
         "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Software-Developer--Civil-3D_26WD94756-1",
@@ -170441,7 +170419,7 @@
         "company_name": "ASM International",
         "id": "6df034db-7649-4539-a800-73900c9f9554",
         "title": "Engineer 1 - Field Software",
-        "active": true,
+        "active": false,
         "date_updated": 1769596783,
         "date_posted": 1761918770,
         "url": "https://www.asm.com/open-vacancies/?gh_jid=4699210101",
@@ -194188,7 +194166,7 @@
         "company_name": "Caesars Entertainment",
         "id": "ec4f307d-e699-40f3-962c-d162b6bca4e3",
         "title": "Slot Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1770823039,
         "date_posted": 1770823039,
         "url": "https://edmn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/79699",
@@ -235968,7 +235946,7 @@
         "company_name": "Intel",
         "id": "898f439c-5f50-4d7e-8797-3d4c3d1469e6",
         "title": "APTD: SWA Integration On Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1772753997,
         "date_posted": 1772753997,
         "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/APTD--SWA-Integration-On-Shift--IOS--TD-Engineer---Shift-6_JR0281425",
@@ -237182,7 +237160,7 @@
         "company_name": "Caesars Entertainment",
         "id": "8c5872ab-b4eb-4785-8582-b8133306f486",
         "title": "Slot Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1772810494,
         "date_posted": 1772810494,
         "url": "https://edmn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/80678",
@@ -237435,7 +237413,7 @@
         "company_name": "EquipmentShare",
         "id": "b467c889-5811-46de-b8da-6ec827790f38",
         "title": "Telematics Installer",
-        "active": true,
+        "active": false,
         "date_updated": 1772839553,
         "date_posted": 1772839553,
         "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=7687720",
@@ -253060,7 +253038,7 @@
         "company_name": "Microsoft",
         "id": "ea0336b0-9983-4495-9c05-1f525d87a81c",
         "title": "Software Engineer 1 - Officepy",
-        "active": true,
+        "active": false,
         "date_updated": 1773710221,
         "date_posted": 1773710221,
         "url": "https://apply.careers.microsoft.com/careers/job/1970393556847482",
@@ -265600,7 +265578,7 @@
         "company_name": "Bank of Montreal",
         "id": "d3a7d5de-4a6f-4a66-8cb2-4763589a9dba",
         "title": "Sales Coordinator-Sales Coordinator-Global Markets Trading Floor",
-        "active": true,
+        "active": false,
         "date_updated": 1774428805,
         "date_posted": 1773958870,
         "url": "https://bmo.wd3.myworkdayjobs.com/External/job/New-York-NY-USA/Sales-Coordinator--Sales-Coordinator--Global-Markets-Trading-Floor_R260002719",
@@ -286459,6 +286437,29 @@
         "degrees": [
             "Bachelor's",
             "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Arkansas",
+        "id": "b3525827-636c-48ed-8016-d33e1d0518b7",
+        "title": "Research Associate",
+        "active": true,
+        "date_updated": 1775472419,
+        "date_posted": 1775294171,
+        "url": "https://uasys.wd5.myworkdayjobs.com/uasys/job/UAPBAQFISHAquaculture-Fisheries-Research-Station-and-Fish-Ponds/Research-Associate_R0079749",
+        "locations": [
+            "Jacksonville, AR",
+            "Greenville, MS",
+            "Pine Bluff, AR"
+        ],
+        "company_url": "https://simplify.jobs/c/1d49378c-2501-4900-8d62-ab3ca8ddadb0",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
