@@ -286089,5 +286089,25 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Candescent",
+        "id": "afb3caa4-2889-4c7d-8ca8-6154d1c62c68",
+        "title": "Enterprise Systems Consultant - Salesforce",
+        "active": true,
+        "date_updated": 1775465821,
+        "date_posted": 1775282787,
+        "url": "https://candescent.wd501.myworkdayjobs.com/Hiring/job/US---Georgia---Atlanta-Office/Enterprise-Systems-Consultant---Salesforce_R0001397",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Candescent",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
