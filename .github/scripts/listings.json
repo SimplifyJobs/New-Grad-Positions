@@ -1,71 +1,5 @@
 [
     {
-        "date_updated": 1763561375,
-        "url": "https://www.tesla.com/careers/search/job/247659",
-        "company_name": "Tesla",
-        "title": "Machine Learning Engineer, Model Optimization & Deployment, Optimus",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "source": "AlmondCroffle",
-        "id": "f10df930-2707-43a7-8c03-f5fe269294f5",
-        "date_posted": 1754747431,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1755223398,
-        "url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Chicago-IL-USA/Software-Engineer--New-or-Recent-Graduate-_R250019232",
-        "company_name": "BMO",
-        "title": "Software Engineer",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "sponsorship": "Other",
-        "active": true,
-        "source": "AlmondCroffle",
-        "id": "ad525d17-d6ca-4379-b4b2-b8382f101832",
-        "date_posted": 1754747598,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1755270877,
-        "url": "https://directv.wd1.myworkdayjobs.com/en-US/careers/job/El-Segundo-CA/IT-Software-Engineer-1_R250209",
-        "company_name": "DIRECTV",
-        "title": "IT Software Engineer 1",
-        "locations": [
-            "El Segundo, CA",
-            "Remote in USA"
-        ],
-        "sponsorship": "Other",
-        "active": false,
-        "source": "AlmondCroffle",
-        "id": "6995c809-24ab-4413-98db-2a6e1c27e11d",
-        "date_posted": 1754747781,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1756201378,
-        "url": "https://moog.wd5.myworkdayjobs.com/en-US/moog_external_career_site/job/Torrance-CA/Eng--Assc_R-25-13250",
-        "company_name": "Moog",
-        "title": "Associate Software Engineer",
-        "locations": [
-            "Torrance, CA"
-        ],
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
-        "source": "AlmondCroffle",
-        "id": "c6b8a184-a9cc-4100-9774-4ef13b0c7570",
-        "date_posted": 1754747940,
-        "company_url": "",
-        "is_visible": false,
-        "degrees": []
-    },
-    {
         "date_updated": 1756413224,
         "url": "https://careers-peraton.icims.com/jobs/158789/software-engineering%2c-associate/job",
         "company_name": "Peraton",
@@ -92210,7 +92144,7 @@
         "company_name": "Viridien",
         "id": "ea30bf77-1030-4770-992a-b3687c59a3d2",
         "title": "Seismic Imaging Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1763910016,
         "date_posted": 1763910016,
         "url": "https://cgg.wd103.myworkdayjobs.com/viridiencareers/job/Houston-United-States-of-America/Seismic-Imaging-Analyst_JR101070-2",
@@ -259261,7 +259195,7 @@
         "company_name": "William & Mary",
         "id": "623698ea-3710-4d32-a204-482bee0e6eed",
         "title": "Library Web Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1774002483,
         "date_posted": 1774002483,
         "url": "https://williammary.wd12.myworkdayjobs.com/WM/job/Posting-Location---William--Mary/Library-Web-Developer_JR101209",
@@ -271973,7 +271907,7 @@
         "company_name": "Google",
         "id": "5f51d8c0-103f-4915-ba6d-fcfa5a4fc099",
         "title": "Product Manager 1 - Youtube Discovery",
-        "active": true,
+        "active": false,
         "date_updated": 1774809966,
         "date_posted": 1774649248,
         "url": "https://www.google.com/about/careers/applications/jobs/results/136226081504928454",
@@ -285784,7 +285718,7 @@
         "company_name": "RTX",
         "id": "fb33e1c4-75f2-4866-87a3-9c22a8143ea0",
         "title": "Electrical Engineer - Fcs - Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1775302781,
         "date_posted": 1775299743,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Electrical--FCS--Engineer-1--Onsite-_01830316",
