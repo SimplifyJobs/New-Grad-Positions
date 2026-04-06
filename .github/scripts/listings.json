@@ -252077,7 +252077,7 @@
         "company_name": "IBM",
         "id": "90df0a1a-4d7d-412c-bc2d-fc2a229d51ec",
         "title": "Associate Application Developer - Hybrid Cloud and Data",
-        "active": true,
+        "active": false,
         "date_updated": 1773641846,
         "date_posted": 1773641846,
         "url": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=87004",
@@ -286130,6 +286130,89 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Uber",
+        "id": "8893a6c1-4994-455f-b5af-d3d07d9b4f3c",
+        "title": "Graduate Software Engineer 1",
+        "active": true,
+        "date_updated": 1775471354,
+        "date_posted": 1775466404,
+        "url": "https://university-uber.icims.com/jobs/158009/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Uber",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Invisible Technologies AI",
+        "id": "e7e01b06-d38f-4456-9d3d-5d178800dd9c",
+        "title": "English Language Specialist - Language Specialist - Freelance AI Trainer Project",
+        "active": true,
+        "date_updated": 1775471328,
+        "date_posted": 1775466734,
+        "url": "https://job-boards.eu.greenhouse.io/agency/jobs/4832490101",
+        "locations": [
+            "Remote in UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Invisible-TechnologiesAI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Uber",
+        "id": "8c31e59b-3bb4-458e-af42-2509d858ffd0",
+        "title": "Graduate Software Engineer 1",
+        "active": true,
+        "date_updated": 1775471331,
+        "date_posted": 1775466404,
+        "url": "https://university-uber.icims.com/jobs/158014/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Uber",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Amazon",
+        "id": "60fe0cd6-ae9a-46b5-9648-4bc577753ed3",
+        "title": "AI Data Associate - Artificial General Intelligence",
+        "active": true,
+        "date_updated": 1775470501,
+        "date_posted": 1775466187,
+        "url": "https://amazon.jobs/en/jobs/3190137/ai-data-associate-french-artificial-general-intelligence",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
         ]
     }
 ]
