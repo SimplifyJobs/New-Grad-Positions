@@ -2,41 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Jerry",
-        "id": "771d2792-5d1c-41f4-aa36-d5fc6bd60af3",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1754711609,
-        "date_posted": 1754711609,
-        "url": "https://jobs.ashbyhq.com/Jerry/4dcfcfa6-7d55-40a9-9b9d-d7195ae88fd3/application",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Jerry",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Jerry",
-        "id": "bf169a76-72de-42e1-ae62-e464af8b92ea",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1754711084,
-        "date_posted": 1754711084,
-        "url": "https://jobs.ashbyhq.com/Jerry/19d84e98-6a93-4e5b-937d-170f6f36ea46/application",
-        "locations": [
-            "Toronto, ON, Canada",
-            "Greater Toronto Area, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Jerry",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "SS&C",
         "id": "ea4d0d87-ebb6-40a8-a09e-ae57b991c344",
         "title": "Junior AI-Assisted Software Engineer",
@@ -48,23 +13,6 @@
             "South Orange, NJ"
         ],
         "company_url": "https://simplify.jobs/c/SSC",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Global Relay",
-        "id": "96d32e79-92f2-46af-9675-a4acc65d81a2",
-        "title": "Junior Software Developer Engineer in Test - C#",
-        "active": false,
-        "date_updated": 1754712043,
-        "date_posted": 1754712043,
-        "url": "https://www.globalrelay.com/careers/jobs?gh_jid=5616305004",
-        "locations": [
-            "Vancouver, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Global-Relay",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -46718,7 +46666,7 @@
         "company_name": "GE Healthcare",
         "id": "d6e2d6e8-79b4-478b-b453-9c5ef63ce432",
         "title": "MR Calibration Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1761940627,
         "date_posted": 1761875528,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/MR-Calibration-Engineer-I---Washington-DC-Area_R4030730-1",
