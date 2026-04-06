@@ -2,23 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Esri",
-        "id": "9a6f812d-609f-427f-b3b9-df17c9810f03",
-        "title": "Software Developer Engineer I",
-        "active": false,
-        "date_updated": 1754702367,
-        "date_posted": 1754702367,
-        "url": "https://www.esri.com/careers/4818461007?gh_jid=4818461007",
-        "locations": [
-            "West Redlands, Redlands, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Esri",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Databricks",
         "id": "992ceb83-2b59-4901-b82d-8ca2b8edc498",
         "title": "Software Engineer \u2013 New Grad - Distributed Data Systems - 2025 Start",
@@ -260480,7 +260463,7 @@
         "company_name": "Sainsbury's",
         "id": "2aee3072-9d60-46b2-8e0a-9e82147d8286",
         "title": "Trading Assistant - Shift",
-        "active": false,
+        "active": true,
         "date_updated": 1774055728,
         "date_posted": 1774055728,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054436",
@@ -274101,7 +274084,7 @@
         "company_name": "University of Southern California",
         "id": "802f4dc8-0f38-46c6-9b26-48f9f1cd444a",
         "title": "Web Developer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1774908371,
         "date_posted": 1774908089,
         "url": "https://usc.wd5.myworkdayjobs.com/ExternalUSCCareers/job/Los-Angeles-CA---University-Park-Campus/Web-Developer-I_REQ20173440",
@@ -280219,7 +280202,7 @@
         "company_name": "TIAA",
         "id": "84ced990-e812-4d3c-a05c-73f4a8313bb2",
         "title": "Seismic Marketing Manager",
-        "active": false,
+        "active": true,
         "date_updated": 1775084041,
         "date_posted": 1775081262,
         "url": "https://tiaa.wd1.myworkdayjobs.com/Search/job/Virtual-NY-USA/Seismic-Marketing-Manager_R260300601-1",
@@ -286304,5 +286287,23 @@
             "Bachelor's",
             "Associate's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "03c461fb-f41e-434f-8de5-c33f0865f65f",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1775438461,
+        "date_posted": 1775437657,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056257",
+        "locations": [
+            "Exeter, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
