@@ -251972,7 +251972,7 @@
         "company_name": "IBM",
         "id": "a7462ae1-e7bc-4fbc-8989-08806cf9d9ea",
         "title": "Associate AI & Analytics - Data Scientist-Finance Transformation",
-        "active": true,
+        "active": false,
         "date_updated": 1773642129,
         "date_posted": 1773642129,
         "url": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=97086",
@@ -259073,7 +259073,7 @@
         "company_name": "Dordt University",
         "id": "b1f65bbb-d590-45d3-bfd1-07d56a21e5e2",
         "title": "Associate Data Engineer \u2013 Entry Level",
-        "active": true,
+        "active": false,
         "date_updated": 1773986640,
         "date_posted": 1773986640,
         "url": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=87015",
@@ -261188,7 +261188,7 @@
         "company_name": "Dordt University",
         "id": "11fe83a7-b87c-49ca-94a3-d179ba81b551",
         "title": "Associate Application Developer - Strategy and Transformation",
-        "active": true,
+        "active": false,
         "date_updated": 1774256585,
         "date_posted": 1774256585,
         "url": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=87005",
@@ -261212,7 +261212,7 @@
         "company_name": "Dordt University",
         "id": "ce8d6ac1-3c56-4bf9-bf89-dcbc5ed3aa96",
         "title": "Associate Application Developer - Business Applications",
-        "active": true,
+        "active": false,
         "date_updated": 1774256580,
         "date_posted": 1774256580,
         "url": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=87003",
@@ -275415,9 +275415,9 @@
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Lawrence Livermore National Laboratory (LLNL)",
-        "id": "5a03e922-9be2-4e12-9821-b01d8c92b5e6",
+        "id": "35bdadb3-6dd8-4e23-b36d-a34aa8762510",
         "title": "Uncertainty Quantification for Surrogate Models Postdoctoral Researcher",
-        "active": false,
+        "active": true,
         "date_updated": 1774972621,
         "date_posted": 1774256481,
         "url": "https://jobs.smartrecruiters.com/LLNL/3743990012255036",
@@ -276683,9 +276683,9 @@
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Lawrence Livermore National Laboratory (LLNL)",
-        "id": "4042a11a-8433-4d3c-b163-eb95de05c795",
+        "id": "bca74012-9462-4061-95f7-b27d58666e24",
         "title": "Operations Research Postdoctoral Researcher",
-        "active": false,
+        "active": true,
         "date_updated": 1774986841,
         "date_posted": 1774649130,
         "url": "https://jobs.smartrecruiters.com/LLNL/3743990012380987",
@@ -286108,6 +286108,28 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Uber",
+        "id": "679879b8-462e-4810-b391-25b5e93ef7e7",
+        "title": "Graduate Software Engineer 1 - Mobile - Android",
+        "active": true,
+        "date_updated": 1775471324,
+        "date_posted": 1775466406,
+        "url": "https://university-uber.icims.com/jobs/158037/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Seattle, WA",
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Uber",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
