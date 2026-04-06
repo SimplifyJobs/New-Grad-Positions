@@ -45117,7 +45117,7 @@
         "company_name": "Peraton",
         "id": "3410425b-a322-47d8-976c-a593bbd126d7",
         "title": "University Entry-level STEM Pipeline",
-        "active": true,
+        "active": false,
         "date_updated": 1762924765,
         "date_posted": 1761898241,
         "url": "https://careers-peraton.icims.com/jobs/158531/job?mobile=true&needsRedirect=false",
@@ -246740,7 +246740,7 @@
         "company_name": "Leidos",
         "id": "288f643c-e97c-42c4-9beb-36296c5ef32a",
         "title": "Entry Level Graphics Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1773354295,
         "date_posted": 1773354295,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Entry-Level-Graphics-Software-Developer_R-00178050",
@@ -277489,7 +277489,7 @@
         "company_name": "TD Bank",
         "id": "c544b7a8-49f7-4021-a72c-6942ca18de03",
         "title": "Business Insights Analyst 1",
-        "active": true,
+        "active": false,
         "date_updated": 1775004772,
         "date_posted": 1774994874,
         "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Charlotte-North-Carolina/Business-Insights-Analyst-I--US-_R_1478697",
@@ -286439,5 +286439,26 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GE Healthcare",
+        "id": "afa59863-bc71-45c6-9234-1179162718d5",
+        "title": "MR Calibration Engineer",
+        "active": true,
+        "date_updated": 1775470789,
+        "date_posted": 1775295204,
+        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/MR-Calibration-Engineer_R4037522-1",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Healthcare",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
     }
 ]
