@@ -266563,7 +266563,7 @@
         "company_name": "GE Healthcare",
         "id": "31d9ad06-8a2d-4a0e-9431-529da6203548",
         "title": "Field Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1774089409,
         "date_posted": 1774089409,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/FE-1-Bloomington--Illinois_R4037216-1",
@@ -280909,7 +280909,7 @@
         "company_name": "Sainsbury's",
         "id": "68399e57-9de5-47ce-a6a5-c37e31cd17ea",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1775110861,
         "date_posted": 1775110067,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055943",
@@ -286282,6 +286282,27 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GE Healthcare",
+        "id": "935522eb-70a8-4d7f-abbe-01fa130ab79b",
+        "title": "Field Service Engineer 1",
+        "active": true,
+        "date_updated": 1775383265,
+        "date_posted": 1775295195,
+        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1-HC_R4036677-1",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Healthcare",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
         ]
     }
 ]
