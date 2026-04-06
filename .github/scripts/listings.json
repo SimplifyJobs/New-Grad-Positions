@@ -73591,42 +73591,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Verkada",
-        "id": "8bcabe02-31f4-4f4b-b2ee-ee012aebb30b",
-        "title": "Technical Support Engineer University Graduate",
-        "active": false,
-        "date_updated": 1762833467,
-        "date_posted": 1754704314,
-        "url": "https://job-boards.greenhouse.io/verkada/jobs/4715534007",
-        "locations": [
-            "San Mateo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Verkada",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "NOV",
-        "id": "0141c0a7-1f09-4b30-956b-1d9545ee5c98",
-        "title": "Service Technician",
-        "active": false,
-        "date_updated": 1754704025,
-        "date_posted": 1754704025,
-        "url": "https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/29993",
-        "locations": [
-            "Corpus Christi, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/NOV",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "AlphaSights",
         "id": "37672e0a-90ad-489a-ae64-f3f7400a3f5a",
