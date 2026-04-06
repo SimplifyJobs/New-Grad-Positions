@@ -1,22 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "SS&C",
-        "id": "ea4d0d87-ebb6-40a8-a09e-ae57b991c344",
-        "title": "Junior AI-Assisted Software Engineer",
-        "active": false,
-        "date_updated": 1754712418,
-        "date_posted": 1754712418,
-        "url": "https://wd1.myworkdaysite.com/recruiting/ssctech/SSCTechnologies/job/Union-NJ/Junior-AI-Assisted-Software-Engineer_R36039",
-        "locations": [
-            "South Orange, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/SSC",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
         "date_updated": 1763561375,
         "url": "https://www.tesla.com/careers/search/job/247659",
         "company_name": "Tesla",
@@ -75810,25 +75793,6 @@
             "Culver City, CA"
         ],
         "company_url": "https://simplify.jobs/c/Fashion-Nova",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Resmed",
-        "id": "068fc099-6329-4791-9943-5185c0ae6b84",
-        "title": "Specialist - Technical Product Management",
-        "active": false,
-        "date_updated": 1754712394,
-        "date_posted": 1754712394,
-        "url": "https://resmed.wd3.myworkdayjobs.com/en-US/ResMed_External_Careers/job/Peachtree-Corners-GA-United-States/Specialist-Technical-Product-Management-GPM-_JR_042721",
-        "locations": [
-            "Norcross, GA",
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Resmed",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
