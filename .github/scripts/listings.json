@@ -73226,24 +73226,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "TikTok",
-        "id": "840cc9e6-32f2-499c-aaeb-0c2333e7a3b8",
-        "title": "Data Science Graduate - BRIC Risk Measurement - 2026 Start",
-        "active": false,
-        "date_updated": 1754714042,
-        "date_posted": 1754714042,
-        "url": "https://lifeattiktok.com/search/7533770966762064136",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "CACI",
         "id": "599e1c10-4202-41e6-97d1-d3623ca5f2bb",
@@ -234037,7 +234019,7 @@
         "company_name": "Huntington Ingalls Industries",
         "id": "cc3e14b4-edeb-4b61-a1da-a36e1ef1f9ce",
         "title": "Systems Engineer / Software Designer 2 - Reactor Plant Planning Yard Engineering - Software Development Team",
-        "active": true,
+        "active": false,
         "date_updated": 1772676665,
         "date_posted": 1772676665,
         "url": "https://careers.huntingtoningalls.com/job/Newport-News-SYSTEMS-ENGINEER-SOFTWARE-DESIGNER-2-Virg/1355905300/?ats=successfactors",
@@ -269178,7 +269160,7 @@
         "company_name": "Sun Life",
         "id": "a918b190-4ddb-4653-b9bb-fc038f1696d2",
         "title": "Data Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1774565522,
         "date_posted": 1774565522,
         "url": "https://sunlife.wd3.myworkdayjobs.com/en-US/Experienced-Jobs/job/Montreal-Quebec/Data-Scientist_JR00118793",
