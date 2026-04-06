@@ -1,22 +1,5 @@
 [
     {
-        "date_updated": 1763561375,
-        "url": "https://jobs.lever.co/lumafield/0bdaed8e-3234-4073-afa6-410d1362fe25",
-        "company_name": "Lumafield",
-        "title": "Embedded Systems Engineer",
-        "locations": [
-            "Boston, MA",
-            "Everett, MA"
-        ],
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": false,
-        "source": "AlmondCroffle",
-        "id": "2494635c-0be1-4065-b0d6-fd28c52d0841",
-        "date_posted": 1754755775,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "source": "Simplify",
         "category": "Software",
         "company_name": "DIRECTV",
@@ -255903,7 +255886,7 @@
         "company_name": "RELX",
         "id": "e92ad2e8-5523-4425-8044-4d91daee5506",
         "title": "Tech Accelerate Graduate Program - Software Engineer June",
-        "active": true,
+        "active": false,
         "date_updated": 1773873624,
         "date_posted": 1773873624,
         "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program---Software-Engineer-June_R100293-1",
@@ -282869,7 +282852,7 @@
         "company_name": "Lilly USA",
         "id": "32a2b3a4-5f89-4063-8420-6bcdac3a0f73",
         "title": "Data Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1775255041,
         "date_posted": 1775254035,
         "url": "https://lilly.wd5.myworkdayjobs.com/en-US/LLY/job/US-Indianapolis-IN/Data-Scientist_R-102438",
