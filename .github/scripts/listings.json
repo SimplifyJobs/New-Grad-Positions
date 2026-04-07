@@ -281487,7 +281487,7 @@
         "company_name": "JP Morgan Chase",
         "id": "bc96807f-c48b-4c4f-9d43-b9e7de9bc97b",
         "title": "Trading Services Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1775169541,
         "date_posted": 1775167724,
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210729483",
@@ -283084,7 +283084,7 @@
         "company_name": "Braun Intertec ",
         "id": "942487a6-f802-48f4-8400-e9f026de4343",
         "title": "GIS Specialist 1",
-        "active": true,
+        "active": false,
         "date_updated": 1775255983,
         "date_posted": 1775253939,
         "url": "https://braunintertec.wd5.myworkdayjobs.com/brauninterteccareers/job/Bloomington-MN/GIS-Specialist-I_R4656",
@@ -287952,6 +287952,167 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Visa",
+        "id": "6c4ef832-ab05-420c-a6fb-b271823a44e7",
+        "title": "Software Engineer - New College Grad",
+        "active": true,
+        "date_updated": 1775574685,
+        "date_posted": 1775570737,
+        "url": "https://jobs.smartrecruiters.com/Visa/744000119101867",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Visa",
+        "id": "d9f9cb25-01a4-41d0-af19-137612965b73",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1775574588,
+        "date_posted": 1775570738,
+        "url": "https://jobs.smartrecruiters.com/Visa/744000119101188",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "d2c9a936-5d32-40f4-9b76-bd7bf77016e2",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1775573461,
+        "date_posted": 1775570876,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056413",
+        "locations": [
+            "Aldershot, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "J.S. Held",
+        "id": "69b2eb95-3cc9-4c04-9ce0-4c13d101aead",
+        "title": "Data Analyst - Industrial Hygiene",
+        "active": true,
+        "date_updated": 1775573461,
+        "date_posted": 1775570623,
+        "url": "https://jobs.smartrecruiters.com/JSHeldLLC/744000119076339",
+        "locations": [
+            "New Orleans, LA"
+        ],
+        "company_url": "https://simplify.jobs/c/JS-Held",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "LetsGetChecked",
+        "id": "44f63b87-48fd-489b-9f6e-71d611ee69a1",
+        "title": "Graduate Software Engineer",
+        "active": true,
+        "date_updated": 1775573461,
+        "date_posted": 1775571459,
+        "url": "https://job-boards.eu.greenhouse.io/letsgetchecked/jobs/4833407101",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/LetsGetChecked",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Visa",
+        "id": "3cdc4ab1-2a87-4ab5-8c61-06c6eaa2ca88",
+        "title": "Software Engineer \u2013 New College Grad",
+        "active": true,
+        "date_updated": 1775573461,
+        "date_posted": 1775570738,
+        "url": "https://jobs.smartrecruiters.com/Visa/744000119101657",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Silna Health",
+        "id": "1b6dcae2-2611-45d4-b4be-6d026558d149",
+        "title": "AI Deployment Analyst",
+        "active": true,
+        "date_updated": 1775573461,
+        "date_posted": 1775570994,
+        "url": "https://jobs.ashbyhq.com/silnahealth.com/4fb17cf8-8c9a-46b0-8576-fffa8accf64b/application",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Silna-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Fidelity National Information Services",
+        "id": "cb733bfa-1a63-4bb1-85a5-11743761bd76",
+        "title": "Mainframe Software Engineer 1",
+        "active": true,
+        "date_updated": 1775573924,
+        "date_posted": 1775570991,
+        "url": "https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-GA-CMH-ONE-RIVERFRONT/Mainframe-Software-Engineer-I_JR0306075",
+        "locations": [
+            "Columbus, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Fidelity-National-Information-Services",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
