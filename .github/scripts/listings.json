@@ -256698,7 +256698,7 @@
         "company_name": "Marigold",
         "id": "9c2c07d8-2e79-4922-afca-b88661604d37",
         "title": "Associate Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773872302,
         "date_posted": 1773872302,
         "url": "https://campaignmonitor.wd5.myworkdayjobs.com/marigold/job/Remote-United-States/Associate-Software-Engineer_R2412",
@@ -261628,7 +261628,7 @@
         "company_name": "Duke Energy",
         "id": "775849f3-52b5-4fe3-bc39-e0a6c4cc20b1",
         "title": "Geographic Information System Technologist 1",
-        "active": true,
+        "active": false,
         "date_updated": 1774306510,
         "date_posted": 1774306510,
         "url": "https://dukeenergy.wd1.myworkdayjobs.com/search/job/Charlotte-NC/Natural-Gas-GIS-Technologist-I_R38969",
@@ -287452,6 +287452,26 @@
             "Mesa, AZ"
         ],
         "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Thermo Fisher Scientific",
+        "id": "5afcf310-2522-4f24-8012-34f2d17df50d",
+        "title": "Data Scientist 1",
+        "active": true,
+        "date_updated": 1775543030,
+        "date_posted": 1775542025,
+        "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Morrisville-North-Carolina-USA/Data-Scientist-I_R-01345491",
+        "locations": [
+            "Morrisville, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Thermo-Fisher-Scientific",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
