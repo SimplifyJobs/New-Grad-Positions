@@ -285668,7 +285668,7 @@
         "company_name": "Sainsbury's",
         "id": "e0150f47-e5ca-4be9-9f63-00754c9234ee",
         "title": "Trading Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1775341441,
         "date_posted": 1775340423,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056230",
@@ -287352,6 +287352,110 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Peraton",
+        "id": "b6119cda-d85a-4f85-870b-ec7ef33d6781",
+        "title": "Junior Cyber Software Engineer - UI Alerting",
+        "active": true,
+        "date_updated": 1775524861,
+        "date_posted": 1775524035,
+        "url": "https://careers-peraton.icims.com/jobs/165429/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Peraton",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Hyve Solutions",
+        "id": "f50e909a-fcdb-4c3e-9cd3-6571604e4b12",
+        "title": "Business Intelligence Data Analyst",
+        "active": true,
+        "date_updated": 1775524861,
+        "date_posted": 1775524056,
+        "url": "https://synnex.wd5.myworkdayjobs.com/hyvecareers/job/Fremont-CA/Business-Intelligence-Data-Analyst_R49569",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/100a87e3-2540-44fd-9de7-caea9e8b2cfa",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Intuit",
+        "id": "aa4c9a9d-eedd-4dcc-acf6-13f4493ad0fb",
+        "title": "Payments Customer Supportability Professional 1",
+        "active": true,
+        "date_updated": 1775525193,
+        "date_posted": 1775524192,
+        "url": "https://jobs.intuit.com/job/tucson/payments-customer-supportability-professional-1/27595/93662567936",
+        "locations": [
+            "Plano, TX",
+            "Reno, NV",
+            "Atlanta, GA",
+            "Tucson, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Intuit",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Uber",
+        "id": "79ab4e05-b07b-43d8-916b-3114535499de",
+        "title": "Application Developer - Oracle EPM",
+        "active": true,
+        "date_updated": 1775524861,
+        "date_posted": 1775524135,
+        "url": "https://www.uber.com/global/en/careers/list/157822/",
+        "locations": [
+            "SF",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Uber",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "MBA"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "The Boeing Company",
+        "id": "39360e7e-8b64-488c-9e9f-7af27f339ade",
+        "title": "Comms & Sensor Systems Engineer/Scientist",
+        "active": true,
+        "date_updated": 1775524861,
+        "date_posted": 1775524139,
+        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Mesa-AZ/Comms---Sensor-Systems-Engineer-Scientist_JR2026504495",
+        "locations": [
+            "Mesa, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
