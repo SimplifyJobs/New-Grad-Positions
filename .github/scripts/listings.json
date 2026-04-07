@@ -165235,7 +165235,7 @@
         "company_name": "Loop",
         "id": "aff0bb8a-52b1-43c4-9cc3-d415c0439d24",
         "title": "2026 New Grad - Software Engineer - Full-Stack",
-        "active": false,
+        "active": true,
         "date_updated": 1769221627,
         "date_posted": 1769221627,
         "url": "https://job-boards.greenhouse.io/loop/jobs/5780582004",
@@ -286088,7 +286088,7 @@
         "company_name": "Sainsbury's",
         "id": "4a32a61a-a044-4951-a2de-2f89fc440c6c",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1775485441,
         "date_posted": 1775484463,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056290",
@@ -287331,6 +287331,27 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northrop Grumman",
+        "id": "7d083479-72a7-40b2-a55a-1c995fe39243",
+        "title": "Software Engineer - Embedded and Real Time",
+        "active": true,
+        "date_updated": 1775525186,
+        "date_posted": 1775524126,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Engineer-Software---Embedded-and-Real-Time--Melbourne-Florida-_R10228670",
+        "locations": [
+            "Melbourne, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
