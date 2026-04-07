@@ -185395,7 +185395,7 @@
         "company_name": "Stanley Black & Decker",
         "id": "2794d444-a451-471d-92d4-4e9ec3c41ad4",
         "title": "Associate Product Manager - Craftsman",
-        "active": true,
+        "active": false,
         "date_updated": 1770305131,
         "date_posted": 1770305131,
         "url": "https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Associate-Product-Manager--CRAFTSMAN-_REQ-1000045166",
@@ -286816,7 +286816,7 @@
         "company_name": "Primetals Technologies",
         "id": "5f9a2296-9f45-476b-b950-005e1734951f",
         "title": "Operations Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1775516162,
         "date_posted": 1775513275,
         "url": "https://mhicareers.com/job/Orlando-Operations-Specialist,-Monitoring-Center-FL-32809/1381033733/?ats=successfactors",
@@ -287600,5 +287600,77 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "971f7dc7-033f-423c-bb56-260378670612",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1775555821,
+        "date_posted": 1775552690,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056357",
+        "locations": [
+            "Oxford, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "7c8cc608-637e-4a03-bf5a-826bbc6a17c4",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1775555821,
+        "date_posted": 1775552691,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056358",
+        "locations": [
+            "Oxford, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "JP Morgan Chase",
+        "id": "51c17f2e-c111-4655-a8ce-8739142d53a7",
+        "title": "Data Management Associate - Markets Chief Data Office",
+        "active": true,
+        "date_updated": 1775555821,
+        "date_posted": 1775552807,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210729896",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "44259f3e-4c25-498a-b65f-e1de11faabcd",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1775555821,
+        "date_posted": 1775552691,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056359",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
