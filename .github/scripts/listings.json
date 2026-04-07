@@ -262491,7 +262491,7 @@
         "company_name": "Sainsbury's",
         "id": "04f97926-de8b-4aab-9e51-667581763180",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1774304135,
         "date_posted": 1774304135,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054773",
@@ -273678,7 +273678,7 @@
         "company_name": "CareBridge",
         "id": "5e01bc49-a1d4-4e94-9b06-1861aaf41688",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1774910408,
         "date_posted": 1774908232,
         "url": "https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/TN-NASHVILLE-926-MAIN-ST/Software-Engineer-I_JR187360",
@@ -284437,7 +284437,7 @@
         "company_name": "Northrop Grumman",
         "id": "494b25b0-08fd-4327-895c-92a03be4f674",
         "title": "Engineer / Principal Engineer - Material Process",
-        "active": true,
+        "active": false,
         "date_updated": 1775299321,
         "date_posted": 1775297725,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/Engineer---Principal-Engineer---Material-Process_R10225045",
@@ -287472,6 +287472,47 @@
             "Morrisville, NC"
         ],
         "company_url": "https://simplify.jobs/c/Thermo-Fisher-Scientific",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "e8f91066-3bf9-41a5-916b-855cfcdf7d89",
+        "title": "Cyberspace Research Developer",
+        "active": true,
+        "date_updated": 1775542681,
+        "date_posted": 1775542065,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MD-COLUMBIA-720--9861-Broken-Land-Pkwy--BBN-COLUMBIA-Ste-400/Cyberspace-Research-Developer--Onsite-_01835934",
+        "locations": [
+            "Cambridge, MA",
+            "Columbia, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Huntington Ingalls Industries",
+        "id": "84b6198f-720f-4bfc-a607-0ee4761a5b44",
+        "title": "Software Developer 1",
+        "active": true,
+        "date_updated": 1775542681,
+        "date_posted": 1775542026,
+        "url": "https://careers.huntingtoningalls.com/job/Newport-News-SOFTWARE-DEVELOPER-1-Virg/1379799800/?ats=successfactors",
+        "locations": [
+            "Newport News, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Huntington-Ingalls-Industries",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
