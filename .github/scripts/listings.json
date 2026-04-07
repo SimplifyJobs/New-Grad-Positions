@@ -239408,7 +239408,7 @@
         "company_name": "Crowdstrike",
         "id": "4144d115-2df3-4a2d-826d-a730e1e814fb",
         "title": "AI Fraud and Risk Automation Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1773097044,
         "date_posted": 1773097044,
         "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/AI-Fraud-and-Risk-Automation-Analyst--Remote-_R27628",
@@ -286351,7 +286351,7 @@
         "company_name": "Sainsbury's",
         "id": "8fc493ac-0d45-474b-94cf-a96af5ff874d",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1775485441,
         "date_posted": 1775484453,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056297",
@@ -287517,6 +287517,45 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "73060319-ef4d-48d6-b5ef-fe3b6366d4d6",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1775555821,
+        "date_posted": 1775552691,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056367",
+        "locations": [
+            "Edinburgh, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Shield AI",
+        "id": "994496ce-b5a7-4e69-a9eb-b70c6f001308",
+        "title": "Senior Engineer - Autonomy - Tactical Behaviors",
+        "active": true,
+        "date_updated": 1775555821,
+        "date_posted": 1755295103,
+        "url": "https://jobs.lever.co/shieldai/1af75b70-43ff-457b-858b-2935e7c8983a/apply",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Shield-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
