@@ -141937,7 +141937,7 @@
         "company_name": "Appian",
         "id": "3608ddea-bb31-4be6-a415-d862b86c4116",
         "title": "Associate Technical Consultant",
-        "active": true,
+        "active": false,
         "date_updated": 1767828918,
         "date_posted": 1756513151,
         "url": "https://job-boards.greenhouse.io/appian/jobs/7201580",
@@ -232253,7 +232253,7 @@
         "company_name": "JP Morgan Chase",
         "id": "04bdf742-dfba-47b7-bb8d-407b7c1fc262",
         "title": "Trading Services Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1772637162,
         "date_posted": 1772637162,
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210719429",
@@ -250352,7 +250352,7 @@
         "company_name": "iHeartMedia",
         "id": "007ce2a7-b34d-410a-8fef-2a755f359832",
         "title": "Board Operator - Board Operator",
-        "active": true,
+        "active": false,
         "date_updated": 1773489129,
         "date_posted": 1773489129,
         "url": "https://iheartmedia.wd5.myworkdayjobs.com/External_iHM/job/Dayton-OH-31-S-Main-St-Suite-208-45402/Part-Time-Board-Operator_Req37885-4",
@@ -264729,7 +264729,7 @@
         "company_name": "Ameresco",
         "id": "74b802db-3f58-4f73-9021-687576d44d49",
         "title": "Systems Development Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1774393766,
         "date_posted": 1774393766,
         "url": "https://ameresco.wd5.myworkdayjobs.com/en-US/Ameresco/job/United-Kingdom---West-Yorkshire---Leeds/Systems-Development-Analyst_R3685",
@@ -281913,7 +281913,7 @@
         "company_name": "NVIDIA",
         "id": "db015839-19c9-4660-aef8-4435c50ba8a5",
         "title": "Software Engineer \u2013 New College Graduate - AI Inference Systems",
-        "active": true,
+        "active": false,
         "date_updated": 1775171089,
         "date_posted": 1775167958,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--AI-Inference-Systems---New-College-Graduate-2026_JR2015076",
@@ -288492,5 +288492,406 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Torc Robotics",
+        "id": "b83fcff9-df29-4439-aca5-949ce5666083",
+        "title": "Software Engineer 1 - Device Drivers",
+        "active": true,
+        "date_updated": 1775604472,
+        "date_posted": 1775600175,
+        "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8492431002",
+        "locations": [
+            "Ann Arbor, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Torc-Robotics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CIBC",
+        "id": "be021040-fe81-4a50-bc67-39bcb1d2d0b6",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1775603898,
+        "date_posted": 1775599880,
+        "url": "https://cibc.wd3.myworkdayjobs.com/search/job/Chicago-IL/Software-Engineer-I_2608048",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/CIBC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Bass Pro Shops",
+        "id": "548e329d-74cf-4039-8b7e-39eb3c8c60c1",
+        "title": "Assistant Merchant - Home & Gifts",
+        "active": true,
+        "date_updated": 1775603890,
+        "date_posted": 1775599866,
+        "url": "https://basspro.wd1.myworkdayjobs.com/careers/job/Springfield-MO-Bass-Pro-Shops-Base-Camp/Assistant-Merchant-Home---Gifts_R252347",
+        "locations": [
+            "Springfield, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Bass-Pro-Shops",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Leidos",
+        "id": "33e2aee6-7efd-4cb2-b1e7-a4774a8c6563",
+        "title": "Facility Support Engineer",
+        "active": true,
+        "date_updated": 1775603910,
+        "date_posted": 1775599876,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Houston-TX/Facility-Support-Engineer_R-00180156",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "c2e317e4-70f8-4bd0-98ec-bc7e4ad83dc1",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1775601181,
+        "date_posted": 1775599653,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056480",
+        "locations": [
+            "Manchester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "JM Family",
+        "id": "1e409de9-7474-4cac-8c0c-c4ba770775a1",
+        "title": "Visualization and Reporting Analyst",
+        "active": true,
+        "date_updated": 1775601181,
+        "date_posted": 1775599595,
+        "url": "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Visualization-and-Reporting-Analyst_JR104709",
+        "locations": [
+            "Deerfield Beach, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/JM-Family-Enterprises",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Boeing Company",
+        "id": "d3a645d8-b7c1-4b56-a35d-26889a113516",
+        "title": "Data Management Specialist",
+        "active": true,
+        "date_updated": 1775602621,
+        "date_posted": 1775599835,
+        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/GBR---Brize-Norton-UK/Data-Management-Specialist--US-Citizen-required-_JR2026504665-2",
+        "locations": [
+            "Brize Norton, Carterton, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Trane Technologies",
+        "id": "c7e015ea-4870-425b-b3f0-f783609990c7",
+        "title": "Designer 2",
+        "active": true,
+        "date_updated": 1775603008,
+        "date_posted": 1775599791,
+        "url": "https://careers.tranetechnologies.com/global/en/job/JR-259",
+        "locations": [
+            "Clarksville, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/Trane-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "a2fdaded-9c8f-4489-b516-5d11dedf74b0",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1775601181,
+        "date_posted": 1775599653,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056468",
+        "locations": [
+            "Glasgow, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Speechmatics",
+        "id": "3b40046d-a077-41b3-a665-23d474155787",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1775601002,
+        "date_posted": 1775599540,
+        "url": "https://job-boards.eu.greenhouse.io/speechmatics/jobs/4834542101",
+        "locations": [
+            "London, UK",
+            "Cambridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Speechmatics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Flextronics International",
+        "id": "22871f50-f6d1-4ae2-b803-b74640527fcb",
+        "title": "Debug Technician-8",
+        "active": true,
+        "date_updated": 1775602052,
+        "date_posted": 1775599563,
+        "url": "https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-TN-Memphis/Debug-Technician-8_WD218670",
+        "locations": [
+            "Memphis, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/Flextronics-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Applied Materials",
+        "id": "e8065a44-e3d9-42f4-acc0-a90d101d2e0c",
+        "title": "Engineering Technician Assembly Test",
+        "active": true,
+        "date_updated": 1775603268,
+        "date_posted": 1775599831,
+        "url": "https://amat.wd1.myworkdayjobs.com/External/job/KalispellMT/Engineering-Technician-1-II-Assembly-Test_R2615775-1",
+        "locations": [
+            "Kalispell, MT"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Materials",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "d3eec5cc-ae75-4f9f-a9fe-6fa211556b6f",
+        "title": "FPGA Design Engineer 1",
+        "active": true,
+        "date_updated": 1775603069,
+        "date_posted": 1775599752,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/FPGA-Design-Engineer-I_01836214",
+        "locations": [
+            "Tucson, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "JP Morgan Chase",
+        "id": "f01a9269-0eb1-4bf8-ae6b-05e1fec1b6ae",
+        "title": "Equities \u2013 Flow Index Trading",
+        "active": true,
+        "date_updated": 1775602621,
+        "date_posted": 1775599777,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210733436",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "WEC Energy Group",
+        "id": "ed7f11b8-1c7c-4971-9b9e-afc64d2284a1",
+        "title": "Gas System Associate Analyst",
+        "active": true,
+        "date_updated": 1775602621,
+        "date_posted": 1775599745,
+        "url": "https://careers.wecenergygroup.com/Wisconsin_Public_Service/job/Green-Bay-Gas-System-Associate-Analyst-WI-54307-9001/1380058900/?ats=successfactors",
+        "locations": [
+            "Green Bay, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/WEC-Energy-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Flextronics International",
+        "id": "ece11eec-a7aa-4909-967a-65b94e703e8e",
+        "title": "Repair Technician 1 - 1",
+        "active": true,
+        "date_updated": 1775602082,
+        "date_posted": 1775599563,
+        "url": "https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-TN-Memphis/Repair-Technicain-1_WD218667",
+        "locations": [
+            "Memphis, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/Flextronics-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "4fe1b577-a317-4457-838d-e64e232e4ea9",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1775602894,
+        "date_posted": 1775599752,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-GOLETA-H01--6380-Hollister-Ave--BLDG-H01/XMLNAME-2026--Raytheon-Full-Time--Software-Engineer-I---Onsite-_01835240",
+        "locations": [
+            "Goleta, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "49284c45-7d08-485c-b25d-78ca709579a0",
+        "title": "Raytheon FPGA Engineer 1",
+        "active": true,
+        "date_updated": 1775602979,
+        "date_posted": 1775599752,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Full-Time-Raytheon-2026---Multi-Product-Power---Digital-FPGA-Engineer-I_01835676",
+        "locations": [
+            "McKinney, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Speechmatics",
+        "id": "646912df-7f9d-4637-889d-6eaa414eb0ae",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1775601002,
+        "date_posted": 1775599539,
+        "url": "https://job-boards.eu.greenhouse.io/speechmatics/jobs/4834548101",
+        "locations": [
+            "London, UK",
+            "Cambridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Speechmatics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "dv01",
+        "id": "1ed72fc9-e037-4cf7-be06-2b3427dff859",
+        "title": "Data Analytics Engineer 1",
+        "active": true,
+        "date_updated": 1775602597,
+        "date_posted": 1775599699,
+        "url": "https://job-boards.greenhouse.io/dv01/jobs/8497282002",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Dv01",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Brown Brothers Harriman",
+        "id": "ce04b09e-a810-495d-bdd0-30c51e0245d4",
+        "title": "Sales & Trading FX Rotational Program",
+        "active": true,
+        "date_updated": 1775601181,
+        "date_posted": 1775599585,
+        "url": "https://bbh.wd5.myworkdayjobs.com/en-US/BBH/job/New-York/Sales---Trading-FX-Rotational-Program_70059",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/8daaaedd-ec77-45a3-ab9c-dc153ae865ed",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
