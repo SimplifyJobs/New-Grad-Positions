@@ -132368,7 +132368,7 @@
         "company_name": "Corning",
         "id": "35e47a88-ffb9-4320-8b26-b37a6cabd1e4",
         "title": "Equipment Technician Trainee",
-        "active": true,
+        "active": false,
         "date_updated": 1766161277,
         "date_posted": 1766161277,
         "url": "https://corningjobs.corning.com/job/Phoenix-Equipment-Technician-Trainee-AZ-85353/1351126900/?ats=successfactors",
@@ -210068,7 +210068,7 @@
         "company_name": "Blink",
         "id": "61063b4d-2112-43d3-8971-a59d08b367e5",
         "title": "Graduate Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1771600638,
         "date_posted": 1771600638,
         "url": "https://apply.workable.com/joinblink/j/7DA2C85A24/apply",
@@ -287551,6 +287551,49 @@
             "Washington, DC"
         ],
         "company_url": "https://simplify.jobs/c/Shield-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Handshake",
+        "id": "594e3770-fcd1-4bc5-ac62-ed97804b6051",
+        "title": "Machine Learning Engineer 1",
+        "active": true,
+        "date_updated": 1775555061,
+        "date_posted": 1775484598,
+        "url": "https://jobs.ashbyhq.com/handshake/dd1fd4fc-6f6d-4a3d-8c54-dd91ed48dd70/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Handshake",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Intertek",
+        "id": "56bacc67-1bc6-4e45-a5f7-3e4a6bee1d56",
+        "title": "Project Engineer - Safety",
+        "active": true,
+        "date_updated": 1775555821,
+        "date_posted": 1773796181,
+        "url": "https://hcog.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/14279",
+        "locations": [
+            "Lexington, KY"
+        ],
+        "company_url": "https://simplify.jobs/c/Intertek",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
