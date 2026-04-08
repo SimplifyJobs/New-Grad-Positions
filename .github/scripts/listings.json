@@ -19648,7 +19648,7 @@
         "company_name": "Palantir",
         "id": "d82267f3-cfff-4cd5-84be-fdf718c3f3d1",
         "title": "Forward Deployed Software Engineer \u2013 New Grad - Commercial",
-        "active": true,
+        "active": false,
         "date_updated": 1761951701,
         "date_posted": 1761951701,
         "url": "https://jobs.lever.co/palantir/2aa14e4f-d406-486e-9aa8-6ff3358d70a0/apply",
@@ -277748,7 +277748,7 @@
         "company_name": "Electronic Arts",
         "id": "2de93124-54ad-4095-bc6c-4803187a1e47",
         "title": "Assistant Live Producer EA SPORTS UFC",
-        "active": true,
+        "active": false,
         "date_updated": 1775005921,
         "date_posted": 1775005757,
         "url": "https://jobs.ea.com/en_US/careers/JobDetail/Assistant-Live-Producer-EA-SPORTS-UFC/213564",
@@ -279296,7 +279296,7 @@
         "company_name": "Unison Infrastructure",
         "id": "374f8d68-640e-4781-93e5-2bbe51da46e9",
         "title": "Data Analyst \u2013 Entry-Level / Early Career",
-        "active": true,
+        "active": false,
         "date_updated": 1775054359,
         "date_posted": 1775052404,
         "url": "https://jobs.lever.co/unisoninfra/0f361a1e-a36b-406e-a268-a5d2a55d4248/apply",
@@ -289589,6 +289589,24 @@
             "Remote in UK"
         ],
         "company_url": "https://simplify.jobs/c/Welocalize",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "31f2ea96-08bf-4092-ac4b-e84f50970fda",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1775640241,
+        "date_posted": 1775639164,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056498",
+        "locations": [
+            "Glasgow, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
