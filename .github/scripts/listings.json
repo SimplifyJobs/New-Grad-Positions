@@ -192418,7 +192418,7 @@
         "company_name": "Veolia",
         "id": "a4068832-ff98-462f-aa1f-802d2271160a",
         "title": "Renewable Energy Software Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1770765354,
         "date_posted": 1770765354,
         "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000108590720",
@@ -236775,7 +236775,7 @@
         "company_name": "Theodo",
         "id": "6125e236-e946-4c45-b55e-264a5e5bb993",
         "title": "Full Stack Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1772781961,
         "date_posted": 1772781961,
         "url": "https://jobs.lever.co/theodo/1592b48f-9207-46f2-908e-d835cc6121ad/apply",
@@ -279695,7 +279695,7 @@
         "company_name": "Ciena",
         "id": "be35a8e8-0046-42a6-a612-b34eab9848e1",
         "title": "Hardware Power Engineer \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1775084941,
         "date_posted": 1775081314,
         "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Hardware-Power-Engineer---New-Grad_R030580",
@@ -286548,7 +286548,7 @@
         "company_name": "GE Healthcare",
         "id": "889a1f64-cd87-4fde-a58b-1e5116204b8a",
         "title": "Electronics Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1775515929,
         "date_posted": 1775513234,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Salt-Lake-City/Electronics-Technician-M-F-6-AM--230-PM-MST-_R4038850-1",
@@ -287792,7 +287792,7 @@
         "company_name": "Sainsbury's",
         "id": "77050d57-de47-47b4-9bfe-0d822ee5a185",
         "title": "Trading Assistant - Shift",
-        "active": false,
+        "active": true,
         "date_updated": 1775572201,
         "date_posted": 1775570876,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056400",
@@ -288558,7 +288558,7 @@
         "company_name": "Leidos",
         "id": "33e2aee6-7efd-4cb2-b1e7-a4774a8c6563",
         "title": "Facility Support Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1775603910,
         "date_posted": 1775599876,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Houston-TX/Facility-Support-Engineer_R-00180156",
@@ -288654,7 +288654,7 @@
         "company_name": "Sainsbury's",
         "id": "a2fdaded-9c8f-4489-b516-5d11dedf74b0",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1775601181,
         "date_posted": 1775599653,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056468",
@@ -289474,6 +289474,104 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Proofpoint",
+        "id": "d84555f2-4cfe-4a2b-954a-616f5409a34b",
+        "title": "Product Support Engineer",
+        "active": true,
+        "date_updated": 1775640241,
+        "date_posted": 1775639208,
+        "url": "https://proofpoint.wd5.myworkdayjobs.com/proofpointcareers/job/Belfast-Northern-Ireland/Product-Support-Engineer--1-10pm-_R14026",
+        "locations": [
+            "Belfast, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Proofpoint",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "a383c193-13e6-49df-8cd9-7f55d468717c",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1775640241,
+        "date_posted": 1775639156,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056495",
+        "locations": [
+            "Sheffield, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "NVIDIA",
+        "id": "413d117f-632b-4098-b066-0b8de0e920ad",
+        "title": "ASIC Design Engineer \u2013 New College Grad",
+        "active": true,
+        "date_updated": 1775640570,
+        "date_posted": 1775639253,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Design-Engineer---New-College-Grad-2026_JR2016023",
+        "locations": [
+            "Canada",
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Leonardo",
+        "id": "380138cf-0530-454c-a92f-c3404b7bc626",
+        "title": "Analytics Engineer",
+        "active": true,
+        "date_updated": 1775640241,
+        "date_posted": 1775639117,
+        "url": "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---London---Whitehall/Analytics-Engineer_R0028015",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Leonardo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The University of Edinburgh",
+        "id": "8b2929dc-adf7-47b9-aede-5d2d87089190",
+        "title": "Postdoctoral Research Associate in Solar Radiation Management",
+        "active": true,
+        "date_updated": 1775640241,
+        "date_posted": 1775639201,
+        "url": "https://elxw.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/14012",
+        "locations": [
+            "Edinburgh, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/The-University-Of-Edinburgh",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
         ]
     }
 ]
