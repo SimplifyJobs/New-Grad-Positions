@@ -278828,7 +278828,7 @@
         "company_name": "Northeastern University",
         "id": "928da4e1-e6b1-46f4-8582-2a99f0a6de26",
         "title": "Postdoctoral Research Fellow",
-        "active": false,
+        "active": true,
         "date_updated": 1775039081,
         "date_posted": 1774691013,
         "url": "https://northeastern.wd1.myworkdayjobs.com/careers/job/Portland-ME/Postdoctoral-Research-Fellow_R121824",
@@ -279371,7 +279371,7 @@
         "company_name": "Huntington Ingalls Industries",
         "id": "d2c655fc-e425-4488-ab0d-b868db139668",
         "title": "Engineer Test Operations 1",
-        "active": true,
+        "active": false,
         "date_updated": 1775082781,
         "date_posted": 1775081265,
         "url": "https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-TEST-OPERATIONS-1-Virg/1365411800/?ats=successfactors",
@@ -282528,7 +282528,7 @@
         "company_name": "Northrop Grumman",
         "id": "e1b31e37-1d53-4caa-836d-e9d48819e378",
         "title": "Associate Embedded Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1775227122,
         "date_posted": 1775225352,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Magna/Associate-Engineer-Embedded-Software_R10227992",
@@ -289414,5 +289414,66 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Hitachi Energy",
+        "id": "bb6073fe-f5e9-43f1-b8c2-277d806df3a4",
+        "title": "FIB Engineer 1-4",
+        "active": true,
+        "date_updated": 1775629564,
+        "date_posted": 1775628472,
+        "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/HTA-NCP-Hillsboro-OR/FIB-Engineer-I-IV_R0113583-1",
+        "locations": [
+            "Hillsboro, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/83d28c1e-7f20-4aac-afd9-6bc8a468d7eb",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "8504f060-41c8-4446-8045-00c37e039e6d",
+        "title": "Research Scientist Graduate - Security Flow",
+        "active": true,
+        "date_updated": 1775629261,
+        "date_posted": 1775628548,
+        "url": "https://jobs.bytedance.com/en/position/7582010220022106421/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "5986737c-f318-4800-b58a-daff8046edf2",
+        "title": "Machine Learning Scientist Graduate - Global E-commerce Content Recommendation",
+        "active": true,
+        "date_updated": 1775629261,
+        "date_posted": 1775628699,
+        "url": "https://lifeattiktok.com/search/7553175919393802503",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
