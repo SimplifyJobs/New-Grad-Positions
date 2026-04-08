@@ -251222,7 +251222,7 @@
         "company_name": "JP Morgan Chase",
         "id": "4384ebfa-0360-4e3b-9d7b-d7c21f6154c1",
         "title": "Quantitative Trading and Research - Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1773477556,
         "date_posted": 1761527921,
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210679040",
@@ -260634,7 +260634,7 @@
         "company_name": "Intel",
         "id": "36298ed2-5265-4467-a022-aec7cf070201",
         "title": "DFT Design Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1774133087,
         "date_posted": 1774133087,
         "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Virtual-US/DFT-Design-Engineer_JR0281874",
@@ -287213,7 +287213,7 @@
         "company_name": "Sainsbury's",
         "id": "17bc5e5d-6000-4521-84ce-98ad31f51ac8",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1775515501,
         "date_posted": 1775513221,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056325",
@@ -287661,7 +287661,7 @@
         "company_name": "Sainsbury's",
         "id": "44259f3e-4c25-498a-b65f-e1de11faabcd",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1775555821,
         "date_posted": 1775552691,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056359",
@@ -288672,7 +288672,7 @@
         "company_name": "Speechmatics",
         "id": "3b40046d-a077-41b3-a665-23d474155787",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1775601002,
         "date_posted": 1775599540,
         "url": "https://job-boards.eu.greenhouse.io/speechmatics/jobs/4834542101",
@@ -289573,5 +289573,24 @@
         "degrees": [
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Welocalize",
+        "id": "ffbbf8e5-7486-4c5f-a961-cc9320e764cf",
+        "title": "Urdu Culture and Language Expert",
+        "active": true,
+        "date_updated": 1775644741,
+        "date_posted": 1774361141,
+        "url": "https://jobs.lever.co/welocalize/a4579bca-b2ce-4a7a-80b3-015cff5f0381/apply",
+        "locations": [
+            "Remote in India",
+            "Remote in UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Welocalize",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
