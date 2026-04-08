@@ -93415,7 +93415,7 @@
         "company_name": "TikTok",
         "id": "1ada89a0-c765-47f9-8ed0-e353250a765d",
         "title": "Software Engineer Graduate - Capital Platform - 2026 Start','BS/MS",
-        "active": false,
+        "active": true,
         "date_updated": 1764079056,
         "date_posted": 1761907980,
         "url": "https://lifeattiktok.com/search/7532009150009755911",
@@ -264729,7 +264729,7 @@
         "company_name": "Ameresco",
         "id": "74b802db-3f58-4f73-9021-687576d44d49",
         "title": "Systems Development Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1774393766,
         "date_posted": 1774393766,
         "url": "https://ameresco.wd5.myworkdayjobs.com/en-US/Ameresco/job/United-Kingdom---West-Yorkshire---Leeds/Systems-Development-Analyst_R3685",
@@ -279677,7 +279677,7 @@
         "company_name": "Sainsbury's",
         "id": "c142c8e3-8dec-4667-9e87-770890699c8d",
         "title": "Trading Assistant - Shift",
-        "active": false,
+        "active": true,
         "date_updated": 1775084941,
         "date_posted": 1775081322,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055936",
@@ -281935,7 +281935,7 @@
         "company_name": "Sainsbury's",
         "id": "d760491b-73ec-4917-a4eb-0ee2b7071840",
         "title": "Trading Assistant - Shift",
-        "active": false,
+        "active": true,
         "date_updated": 1775170621,
         "date_posted": 1775167681,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056046",
@@ -289081,7 +289081,7 @@
         "company_name": "Groupon",
         "id": "0b9de39a-091d-4fdc-81b7-27fcbdaf61d7",
         "title": "AI Sales Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1775604601,
         "date_posted": 1775600628,
         "url": "https://job-boards.eu.greenhouse.io/groupon/jobs/4833659101",
@@ -289215,5 +289215,144 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cisco",
+        "id": "fbf5a24d-a457-49f8-8d8e-4c06fbd47dd1",
+        "title": "Software Engineer Front-End 2",
+        "active": true,
+        "date_updated": 1775612215,
+        "date_posted": 1775610602,
+        "url": "https://careers.cisco.com/global/en/job/2010725",
+        "locations": [
+            "Research Triangle, Durham, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Cisco",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cisco",
+        "id": "af0aadbd-4b9a-4760-bd39-ee2a6cca61d9",
+        "title": "Software Engineer Front-End 1",
+        "active": true,
+        "date_updated": 1775612236,
+        "date_posted": 1775610602,
+        "url": "https://careers.cisco.com/global/en/job/2010724",
+        "locations": [
+            "Research Triangle, Durham, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Cisco",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Waystar",
+        "id": "8ab72203-d72f-4c39-a18e-5275ce06b64a",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1775612521,
+        "date_posted": 1775610440,
+        "url": "https://waystar.wd1.myworkdayjobs.com/Waystar/job/Atlanta-GA/Software-Engineer-I_R3123",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Waystar",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "37296114-80b5-493a-bff9-2f9a9b78c1e5",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1775611801,
+        "date_posted": 1775610443,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056484",
+        "locations": [
+            "Crawley, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Centric Brands",
+        "id": "141ad5cf-2956-4064-bd71-77455bb59802",
+        "title": "Product Development Assistant",
+        "active": true,
+        "date_updated": 1775611801,
+        "date_posted": 1775610554,
+        "url": "https://careers-centricbrands.icims.com/jobs/22973/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Centric-Brands",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "First American",
+        "id": "0403de42-2e0a-41b3-bc13-7c756ff470a1",
+        "title": "GIS - Geo Spatial Analyst",
+        "active": true,
+        "date_updated": 1775612061,
+        "date_posted": 1775610384,
+        "url": "https://firstam.wd1.myworkdayjobs.com/firstamericancareers/job/USA-Oregon-Salem/Remote-GIS---Geo-Spatial-Analyst_R055778",
+        "locations": [
+            "Salem, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/First-American",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "012b840a-18f9-4f72-b917-291ff7ba2bb9",
+        "title": "Fulltime-Optical Engineer 1",
+        "active": true,
+        "date_updated": 1775612069,
+        "date_posted": 1775610521,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/XMLNAME-2026-Fulltime--Optical-Engineer-I---Onsite-_01836195",
+        "locations": [
+            "Tucson, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
