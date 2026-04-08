@@ -189099,7 +189099,7 @@
         "company_name": "Appian",
         "id": "0106474c-fd19-47ca-ac64-0c7dddc93f30",
         "title": "Product Manager",
-        "active": true,
+        "active": false,
         "date_updated": 1770420465,
         "date_posted": 1770420465,
         "url": "https://job-boards.greenhouse.io/appian/jobs/7579088",
@@ -201862,7 +201862,7 @@
         "company_name": "Barry-Wehmiller",
         "id": "e73a2981-99fb-4f57-bac7-7a8593980d50",
         "title": "Data Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1771284586,
         "date_posted": 1771284586,
         "url": "https://barrywehmiller.wd1.myworkdayjobs.com/BWCareers/job/St-Louis-MO/Data-Engineer_R020827-1",
@@ -205522,7 +205522,7 @@
         "company_name": "Milwaukee Tool",
         "id": "373639a2-2508-4a99-a843-38736fb8f36d",
         "title": "Engineering Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1771458608,
         "date_posted": 1771458608,
         "url": "https://tti.wd1.myworkdayjobs.com/en-US/Milwaukee/job/Menomonee-Falls-WI/Engineering-Technician_R71075",
@@ -264312,7 +264312,7 @@
         "company_name": "Teledyne",
         "id": "099c7989-dfd5-4bbb-ad29-0acad8452e8b",
         "title": "Junior Modeling and Simulation Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1774391601,
         "date_posted": 1774391601,
         "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/Jr-Modeling-and-Simulation-Developer_REQ33954",
@@ -289580,7 +289580,7 @@
         "company_name": "Welocalize",
         "id": "ffbbf8e5-7486-4c5f-a961-cc9320e764cf",
         "title": "Urdu Culture and Language Expert",
-        "active": true,
+        "active": false,
         "date_updated": 1775644741,
         "date_posted": 1774361141,
         "url": "https://jobs.lever.co/welocalize/a4579bca-b2ce-4a7a-80b3-015cff5f0381/apply",
@@ -290041,5 +290041,44 @@
         "degrees": [
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Manulife Financial",
+        "id": "ea201ae9-5674-4b80-a5d9-0d0bffa82ec5",
+        "title": "Associate Applied AI Engineer - GenAI Systems",
+        "active": true,
+        "date_updated": 1775658961,
+        "date_posted": 1775657401,
+        "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Associate-Applied-AI-Engineer---GenAI-Systems_JR26031513-1",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Manulife-Financial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "b5d5e977-aed6-4017-961f-55d9a23a9cb3",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1775658961,
+        "date_posted": 1775657248,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056517",
+        "locations": [
+            "Newcastle upon Tyne, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
