@@ -11292,7 +11292,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Early Career - Gen AI - Data Engineering Analyst</td>
 <td>Atlanta, GA</td>
 <td>🔒</td>
-<td>24d</td>
+<td>25d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Northside-Hospital?utm_source=GHList&utm_medium=company">Northside Hospital</a></strong></td>
