@@ -11196,7 +11196,7 @@
         "company_name": "WhatNot",
         "id": "38cca989-4499-494a-9df9-4b012d5d184a",
         "title": "Software Engineer \u2013 2026 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1758377502,
         "date_posted": 1757023972,
         "url": "https://jobs.ashbyhq.com/whatnot/bc8f8c7f-2c4c-4f43-a238-953568c101b8/application",
@@ -245695,7 +245695,7 @@
         "company_name": "Nordson",
         "id": "af16138c-623f-406c-a33d-0ea9e9d4ffd0",
         "title": "Product Line Manager 1",
-        "active": true,
+        "active": false,
         "date_updated": 1773297903,
         "date_posted": 1773297903,
         "url": "https://nordsonhcm.wd501.myworkdayjobs.com/nordsoncareers/job/USA---Colorado---Loveland/Product-Line-Manager-I_REQ48525",
@@ -253359,7 +253359,7 @@
         "company_name": "RTX",
         "id": "65935bad-8182-4b85-915e-56e9567f34d8",
         "title": "Systems Engineer 1 - Systems Engineer I - Electro-Optical",
-        "active": false,
+        "active": true,
         "date_updated": 1773711278,
         "date_posted": 1773711278,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/XMLNAME-2026-Raytheon-Full-Time---Systems-Engineer-I---Electro-Optical---McKinney--TX--Onsite-_01830535",
@@ -288890,6 +288890,328 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/8daaaedd-ec77-45a3-ab9c-dc153ae865ed",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Charles Schwab",
+        "id": "511c93eb-21bf-4f1b-a6b5-9fd1de6a74fe",
+        "title": "Associate - Software Development & Engineering",
+        "active": true,
+        "date_updated": 1775605153,
+        "date_posted": 1775599648,
+        "url": "https://career-schwab.icims.com/jobs/118961/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Charles-Schwab",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Waters Corporation",
+        "id": "494801a9-0ab6-4285-ba92-09e7ee84f84b",
+        "title": "Manufacturing Technician",
+        "active": true,
+        "date_updated": 1775604601,
+        "date_posted": 1775599676,
+        "url": "https://uscareers-waters.icims.com/jobs/25712/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "New Castle, DE"
+        ],
+        "company_url": "https://simplify.jobs/c/Waters-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CIBC",
+        "id": "1dd0706f-8e99-4fe2-86d4-6afc7c9ea54e",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1775605277,
+        "date_posted": 1775599883,
+        "url": "https://cibc.wd3.myworkdayjobs.com/search/job/Chicago-IL/Software-Engineer-I_2608041",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/CIBC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Goldman Sachs",
+        "id": "fc398cd8-d5b4-4794-92dc-a69fba7cd96a",
+        "title": "AMD Public-Associate-Software Engineering",
+        "active": true,
+        "date_updated": 1775605249,
+        "date_posted": 1775599804,
+        "url": "https://higher.gs.com/roles/165919",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Goldman-Sachs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Madewell",
+        "id": "d36557df-ada0-43ad-bdf8-133ece448c81",
+        "title": "Assistant Pattern Maker - Denim Bottoms",
+        "active": true,
+        "date_updated": 1775604601,
+        "date_posted": 1775599598,
+        "url": "https://jcrew.wd1.myworkdayjobs.com/madewellcareers/job/New-York-NY-USA-Headquarters/Assistant-Pattern-Maker---Denim-Bottoms_123905",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Madewell",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Capital One",
+        "id": "c189f4e1-4b4e-4dd2-bd37-c57ff6bb9939",
+        "title": "Applied Researcher 1 - AI Foundations - LLM Core and Agentic AI",
+        "active": true,
+        "date_updated": 1775605160,
+        "date_posted": 1775599533,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Applied-Researcher-I--AI-Foundations--LLM-Core-and-Agentic-AI-_R240034-1",
+        "locations": [
+            "Cambridge, MA",
+            "SF",
+            "San Jose, CA",
+            "McLean, VA",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Capital-One",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Huntington Bancshares",
+        "id": "83210e44-5c5c-4f7f-9404-79fbb2b805a4",
+        "title": "Programmer/Analyst 2",
+        "active": true,
+        "date_updated": 1775604601,
+        "date_posted": 1775599564,
+        "url": "https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Programmer-Analyst-2_R0071108",
+        "locations": [
+            "Columbus, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Huntington-Bancshares",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "2100b846-f970-42bb-83ad-70cdb1243a60",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1775604601,
+        "date_posted": 1775599656,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056481",
+        "locations": [
+            "Essex, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "150ff42a-c207-4e5b-9913-d9d1f9ab2f38",
+        "title": "FPGA Engineer 2",
+        "active": true,
+        "date_updated": 1775605243,
+        "date_posted": 1775599752,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Full-Time-Raytheon-2026---Multi-Product-Power---Digital-FPGA-Engineer-II---Onsite_01835673",
+        "locations": [
+            "McKinney, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Groupon",
+        "id": "0b9de39a-091d-4fdc-81b7-27fcbdaf61d7",
+        "title": "AI Sales Associate",
+        "active": true,
+        "date_updated": 1775604601,
+        "date_posted": 1775600628,
+        "url": "https://job-boards.eu.greenhouse.io/groupon/jobs/4833659101",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Groupon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SoFi",
+        "id": "fe7c34e7-8ee7-4b7d-ad7b-5dca48b3740e",
+        "title": "Senior Software Engineer",
+        "active": true,
+        "date_updated": 1775604601,
+        "date_posted": 1775600603,
+        "url": "https://sofi.com/careers/job/7692751003?gh_jid=7692751003",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/SoFi",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SoFi",
+        "id": "cb556c68-ae90-489d-9876-6c3f1d39d3c2",
+        "title": "Senior Software Engineer",
+        "active": true,
+        "date_updated": 1775604601,
+        "date_posted": 1775600603,
+        "url": "https://sofi.com/careers/job/7692735003?gh_jid=7692735003",
+        "locations": [
+            "Seattle, WA",
+            "Washington"
+        ],
+        "company_url": "https://simplify.jobs/c/SoFi",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SoFi",
+        "id": "6707708a-2215-418a-8491-f3cd4d0c8b69",
+        "title": "Senior Software Engineer",
+        "active": true,
+        "date_updated": 1775604601,
+        "date_posted": 1775600603,
+        "url": "https://sofi.com/careers/job/7692743003?gh_jid=7692743003",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/SoFi",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "LG Electronics",
+        "id": "d191e460-06f5-4dc4-8547-56b47a5400ea",
+        "title": "R&D Engineer Associate",
+        "active": true,
+        "date_updated": 1775603881,
+        "date_posted": 1775600464,
+        "url": "https://job-boards.greenhouse.io/lgelectronics/jobs/5178005008",
+        "locations": [
+            "Clarksville, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/LG-Electronics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Alarm.com",
+        "id": "5b413977-f9a0-409c-bf97-908987ec7d94",
+        "title": "Software Engineer - Localization",
+        "active": true,
+        "date_updated": 1775603881,
+        "date_posted": 1775600061,
+        "url": "https://job-boards.greenhouse.io/alarmcom/jobs/8459004002",
+        "locations": [
+            "Vienna, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Alarm",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Axon",
+        "id": "15019db0-bd99-4871-89c5-0c4e322637b5",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1775604594,
+        "date_posted": 1775600445,
+        "url": "https://job-boards.greenhouse.io/axon/jobs/7576969003",
+        "locations": [
+            "Boston, MA",
+            "Seattle, WA",
+            "Scottsdale, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Axon",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
