@@ -139144,7 +139144,7 @@
         "company_name": "Conde Nast",
         "id": "30cebeaa-c510-4393-bfa5-fef5c15eb29e",
         "title": "Consumer Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1767709178,
         "date_posted": 1766516345,
         "url": "https://condenast.wd5.myworkdayjobs.com/en-US/CondeCareers/job/The-Adelphi-London-GB/Commerce-Analyst_R-20711",
@@ -221833,7 +221833,7 @@
         "company_name": "Deutsche Bank",
         "id": "61839fbd-d48b-4798-8171-da3ae76a39cf",
         "title": "Java Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1772147916,
         "date_posted": 1772147916,
         "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Cary-3000-CentreGreen-Way/Java-Engineer---Associate_R0418350-3",
@@ -253445,7 +253445,7 @@
         "company_name": "Moog ",
         "id": "2733ff3e-ab32-404d-b849-512647297d35",
         "title": "Associate Product Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773698988,
         "date_posted": 1773698988,
         "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Associate-Product-Engineer_R-26-16680",
@@ -269031,7 +269031,7 @@
         "company_name": "Northeastern",
         "id": "90eeb048-9c41-4ea5-9d0e-1cd5c7c7020e",
         "title": "Data Scientist",
-        "active": false,
+        "active": true,
         "date_updated": 1774565207,
         "date_posted": 1774565207,
         "url": "https://northeastern.wd1.myworkdayjobs.com/careers/job/Portland-ME/Data-Scientist_R139163",
@@ -283213,7 +283213,7 @@
         "company_name": "Ernst & Young",
         "id": "0b42306d-5fae-4ce8-aab2-4e18f55f738f",
         "title": "Studio+ Digital Product Management and Strategy Senior",
-        "active": false,
+        "active": true,
         "date_updated": 1775255041,
         "date_posted": 1775254372,
         "url": "https://careers.ey.com/ey/job/New-York-Studio%2B-Digital-Product-Management-and-Strategy-Senior-NY-10001-8604/1286433201/",
@@ -285569,7 +285569,7 @@
         "company_name": "Northrop Grumman",
         "id": "29c08cc2-35f8-4311-b833-96223a17fa42",
         "title": "Mechanical Engineer / Principal Mechanical Engineer - Level",
-        "active": true,
+        "active": false,
         "date_updated": 1775303539,
         "date_posted": 1775300483,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Gilbert/Engineer-Mechanical-Principal-Engineer-Mechanical--Level-2-3-_R10227027",
@@ -290080,5 +290080,203 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Riverside Research",
+        "id": "c3676364-b783-464a-b6f1-481cd3384d46",
+        "title": "Padawan Systems Security Researcher",
+        "active": true,
+        "date_updated": 1775688849,
+        "date_posted": 1775686048,
+        "url": "https://careers-riversideresearch.icims.com/jobs/4185/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Lexington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Riverside-Research",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Cummins",
+        "id": "46c06b7f-eebe-40b7-b27b-8c620fb833c0",
+        "title": "Electronic Systems Product Engineer - Eaton Cummins JV",
+        "active": true,
+        "date_updated": 1775688670,
+        "date_posted": 1775685915,
+        "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2427901",
+        "locations": [
+            "Kalamazoo, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Cummins",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "32876b39-42e3-42f8-afa5-89ee681fbc18",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1775688849,
+        "date_posted": 1775686070,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056554",
+        "locations": [
+            "Letchworth Garden City, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Everest",
+        "id": "32004ea0-2a8f-497c-bcb4-b21f1e7adc9d",
+        "title": "P&C Actuarial Data Analyst",
+        "active": true,
+        "date_updated": 1775688670,
+        "date_posted": 1775685912,
+        "url": "https://everestre.wd5.myworkdayjobs.com/careers/job/Toronto---Insurance-Canada/P-C-Actuarial-Data-Analyst_R7137",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Everest",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Bloomberg Industry Group",
+        "id": "10e038a2-735a-47f2-a0d6-6b7d9cbfa138",
+        "title": "Data Analyst - Associate",
+        "active": true,
+        "date_updated": 1775688849,
+        "date_posted": 1775686029,
+        "url": "https://bloomberg.wd1.myworkdayjobs.com/Bloombergindustrygroup_External_Career_Site/job/Arlington---1801-S-Bell-INDG/Data-Analyst--Associate_141195",
+        "locations": [
+            "Arlington, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Bloomberg-Industry-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "McGill University",
+        "id": "edf32802-495b-4375-9407-353c1468cfd4",
+        "title": "Research Assistant",
+        "active": true,
+        "date_updated": 1775688670,
+        "date_posted": 1775685865,
+        "url": "https://mcgill.wd3.myworkdayjobs.com/McGill_Careers/job/Sherbrooke-680/Research-Assistant_JR0000074883",
+        "locations": [
+            "Sherbrooke, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/McGill-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "McGill University",
+        "id": "19135d5f-6685-4ac6-840c-3a1c3eb51120",
+        "title": "Research Assistant 1",
+        "active": true,
+        "date_updated": 1775687950,
+        "date_posted": 1775685865,
+        "url": "https://mcgill.wd3.myworkdayjobs.com/McGill_Careers/job/Burnside-Hall/Research-Assistant-1_JR0000074914",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/McGill-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "The Boeing Company",
+        "id": "05e22296-2215-47ac-a68e-f1d7bde6a55d",
+        "title": "MP&P Engineer - Electrical PM&P",
+        "active": true,
+        "date_updated": 1775687950,
+        "date_posted": 1775686240,
+        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/MP-P-Engineer--Electrical-PM-P-_JR2026493154-1",
+        "locations": [
+            "Hazelwood, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "The Boeing Company",
+        "id": "b06b049d-75c2-4a0e-85d0-d89de1dfa2f5",
+        "title": "Missions Systems Software Engineer \u2013 Senior - Multiple Teams",
+        "active": true,
+        "date_updated": 1775687950,
+        "date_posted": 1775686242,
+        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Missions-Systems-Software-Engineer---Embedded--Associate--Experienced--Senior-_JR2026494876-2",
+        "locations": [
+            "Hazelwood, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "KLA",
+        "id": "6c68a786-8069-4365-99c1-a57c528d3849",
+        "title": "Senior Systems Design Engineer - Optical Imaging Systems",
+        "active": true,
+        "date_updated": 1775688512,
+        "date_posted": 1775542104,
+        "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Research-Scientist---Optical-Imaging-Systems_2635271",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/KLA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
     }
 ]
