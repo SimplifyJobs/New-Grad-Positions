@@ -2782,44 +2782,6 @@
         ]
     },
     {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "AG Technologies",
-        "id": "01864a29-f685-449a-8b9a-abcaf7bc9c15",
-        "title": "Hiring Entry Level Software Engineer",
-        "active": true,
-        "date_updated": 1754972040,
-        "date_posted": 1754972040,
-        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/108734797",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/AG-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "AG Technologies",
-        "id": "7193bf93-cde3-42f5-b817-c679f55b1076",
-        "title": "Hiring Entry Level Software Engineer",
-        "active": true,
-        "date_updated": 1756120595,
-        "date_posted": 1754971909,
-        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/743999655720227",
-        "locations": [
-            "New York, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/AG-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
         "date_updated": 1755716125,
         "sponsorship": "Other",
         "active": true,
@@ -72974,42 +72936,6 @@
             "Laredo, TX"
         ],
         "company_url": "https://simplify.jobs/c/Texas-AM-International-University",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "360 IT Professionals",
-        "id": "642f7d5d-180a-4724-b853-6d360abbdf2d",
-        "title": "IT Network Engineer",
-        "active": false,
-        "date_updated": 1761940670,
-        "date_posted": 1754972413,
-        "url": "https://jobs.smartrecruiters.com/360ITProfessionals1/743999658256261",
-        "locations": [
-            "Overland Park, KS"
-        ],
-        "company_url": "https://simplify.jobs/c/360-IT-Professionals",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Artech Information System",
-        "id": "d51c032d-517b-46b6-adc5-8552eafe78a8",
-        "title": "Desktop Support",
-        "active": false,
-        "date_updated": 1762906523,
-        "date_posted": 1754971892,
-        "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/743999655444945",
-        "locations": [
-            "St. Louis, MO"
-        ],
-        "company_url": "https://simplify.jobs/c/Artech-Information-System",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -160980,7 +160906,7 @@
         "company_name": "Beta Technologies",
         "id": "a5eb861f-593b-427b-a3b2-95b82451ee53",
         "title": "Embedded Software Engineer - Ground Support Equipment",
-        "active": true,
+        "active": false,
         "date_updated": 1768956109,
         "date_posted": 1768956109,
         "url": "https://jobs.lever.co/beta/cf358a35-99d8-4dbe-a0a4-9684fdedd5a2/apply",
@@ -253359,7 +253285,7 @@
         "company_name": "RTX",
         "id": "65935bad-8182-4b85-915e-56e9567f34d8",
         "title": "Systems Engineer 1 - Systems Engineer I - Electro-Optical",
-        "active": true,
+        "active": false,
         "date_updated": 1773711278,
         "date_posted": 1773711278,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/XMLNAME-2026-Raytheon-Full-Time---Systems-Engineer-I---Electro-Optical---McKinney--TX--Onsite-_01830535",
@@ -267980,7 +267906,7 @@
         "company_name": "The Boeing Company",
         "id": "9bb0f352-a5f8-4d33-90de-5a7811efdf29",
         "title": "Wire Design and Install Engineer - Electrical/Electronic Installation Design",
-        "active": true,
+        "active": false,
         "date_updated": 1774507890,
         "date_posted": 1774507890,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Ridley-Park-PA/Wire-Design---Install-Engineer--Electrical-Electronic-Installation-Design-_JR2026492086-1",
@@ -280051,7 +279977,7 @@
         "company_name": "The Bergaila Companies",
         "id": "09a39ce1-904e-4c63-bc98-93ae9b1601d9",
         "title": "SAP Master Data Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1775083861,
         "date_posted": 1775081149,
         "url": "https://careers-bergaila.icims.com/jobs/12827/job?mobile=true&needsRedirect=false",
