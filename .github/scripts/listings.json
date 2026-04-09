@@ -72774,63 +72774,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "AG Technologies",
-        "id": "b18b3506-e44a-480b-9aeb-b7a747708038",
-        "title": "Java Training and Placement",
-        "active": true,
-        "date_updated": 1762910378,
-        "date_posted": 1754987321,
-        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/102308948",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/AG-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "AG Technologies",
-        "id": "72f07201-45ea-4185-a053-da8110d93e86",
-        "title": "OBIEE/ ETL/ Java job opportunity for OPT/CPT",
-        "active": false,
-        "date_updated": 1761831526,
-        "date_posted": 1754987310,
-        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/104090307",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/AG-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "AG Technologies",
-        "id": "5ccb32ea-d6bb-4de2-b2d8-7b086895db07",
-        "title": "Hiring OPT/GC",
-        "active": false,
-        "date_updated": 1758375752,
-        "date_posted": 1754987354,
-        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/94667904",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/AG-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Texas A&M International University",
         "id": "ac40bd53-efdc-494b-8a02-10c8be8ff19e",
@@ -231362,7 +231305,7 @@
         "company_name": "Intermountain Healthcare",
         "id": "8e8dabd7-335b-40dc-9398-2265ff5e7683",
         "title": "Data Architect Senior - Clinical",
-        "active": true,
+        "active": false,
         "date_updated": 1772609553,
         "date_posted": 1772609553,
         "url": "https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Lake-Park-Building/Data-Architect-Senior---Clinical_R164238-1",
