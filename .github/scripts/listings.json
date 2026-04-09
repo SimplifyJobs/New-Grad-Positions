@@ -2667,102 +2667,6 @@
         "degrees": []
     },
     {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "AG Technologies",
-        "id": "938e80f0-9d6e-4399-8180-d4b7b233e44d",
-        "title": "Hiring Entry Level Software Engineer",
-        "active": true,
-        "date_updated": 1754988034,
-        "date_posted": 1754988034,
-        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/743999652483007",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/AG-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "AG Technologies",
-        "id": "9d71b56b-2f64-4602-857d-71b5474251d3",
-        "title": "Hiring Entry Level Software Engineer",
-        "active": true,
-        "date_updated": 1754987786,
-        "date_posted": 1754987786,
-        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/743999651146019",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/AG-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "AG Technologies",
-        "id": "6417dd50-8d0b-4c21-bd91-73d7d5ec2d1c",
-        "title": "Hiring Entry Level Software Engineer",
-        "active": true,
-        "date_updated": 1756120574,
-        "date_posted": 1754987679,
-        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/116232946",
-        "locations": [
-            "San Francisco, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/AG-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "AG Technologies",
-        "id": "315c30ed-2818-4ab5-a99f-5d3bfd0db58c",
-        "title": "Hiring Entry Level Software Engineer",
-        "active": true,
-        "date_updated": 1756120553,
-        "date_posted": 1754987740,
-        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/743999659380716",
-        "locations": [
-            "San Francisco, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/AG-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "AG Technologies",
-        "id": "a4c52158-8915-444a-be9e-241b6711f875",
-        "title": "Hiring Entry Level Software Engineer",
-        "active": true,
-        "date_updated": 1754987440,
-        "date_posted": 1754987440,
-        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/743999659489800",
-        "locations": [
-            "Flower Mound, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/AG-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
         "date_updated": 1755716125,
         "sponsorship": "Other",
         "active": true,
@@ -72699,81 +72603,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "360 IT Professionals",
-        "id": "80e7e6f0-b080-4961-9f18-3092d9e65266",
-        "title": "Help Desk Technician with Identity Management",
-        "active": false,
-        "date_updated": 1762907900,
-        "date_posted": 1754988179,
-        "url": "https://jobs.smartrecruiters.com/360ITProfessionals1/743999657757275",
-        "locations": [
-            "Denver, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/360-IT-Professionals",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "360 IT Professionals",
-        "id": "d84530a5-832a-4222-8b99-2c62b7e496be",
-        "title": "Identity and Access Management Analyst - Iam",
-        "active": false,
-        "date_updated": 1762909334,
-        "date_posted": 1754988082,
-        "url": "https://jobs.smartrecruiters.com/360ITProfessionals1/743999659810609",
-        "locations": [
-            "Denver, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/360-IT-Professionals",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "AG Technologies",
-        "id": "7c80b8cc-d043-49a5-9f06-8786d8868d66",
-        "title": "Training & Placement on Informatica/ Microstrategy",
-        "active": false,
-        "date_updated": 1761832464,
-        "date_posted": 1754987846,
-        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/92300060",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/AG-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "AG Technologies",
-        "id": "a0ba6855-091a-41e3-854f-a40280d5dee7",
-        "title": "ETL Informatica/OBIEE",
-        "active": false,
-        "date_updated": 1762909907,
-        "date_posted": 1754987712,
-        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/104213106",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/AG-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Texas A&M International University",
         "id": "ac40bd53-efdc-494b-8a02-10c8be8ff19e",
@@ -84802,7 +84631,7 @@
         "company_name": "Draper",
         "id": "e50d1450-8a91-4a28-ac8c-47efd6bd4176",
         "title": "ASIC/FPGA Hardware Engineer for Cryptographic Systems",
-        "active": false,
+        "active": true,
         "date_updated": 1763660542,
         "date_posted": 1761874249,
         "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Senior-ASIC-FPGA-Hardware-Engineer-for-Cryptographic-Systems_JR001787",
@@ -104090,7 +103919,7 @@
         "company_name": "Draper",
         "id": "5f892575-4f59-41c6-8cc2-03f23770f58a",
         "title": "Microsystems Integration Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1764804721,
         "date_posted": 1764804721,
         "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Microsystems-Integration-Engineer_JR000898-1",
@@ -247979,7 +247808,7 @@
         "company_name": "Pima County",
         "id": "a254df12-4f97-40fb-8f6e-97d88e1f1a4e",
         "title": "Data Analyst 1 - Justice Services",
-        "active": true,
+        "active": false,
         "date_updated": 1773385457,
         "date_posted": 1773385457,
         "url": "https://pimacounty.wd5.myworkdayjobs.com/pimacareers/job/Tucson-AZ/Data-Analyst-I---Justice-Services_JR103037",
@@ -274591,26 +274420,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "AG Technologies",
-        "id": "fb1a0403-fde5-499b-90cc-a9a9cc24d762",
-        "title": "Software Engineer",
-        "active": true,
-        "date_updated": 1774958569,
-        "date_posted": 1754987489,
-        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/743999656593811",
-        "locations": [
-            "Denver, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/AG-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "JP Morgan Chase",
         "id": "841f3a2e-94ce-47b8-855b-d708b71ff87e",
@@ -276313,26 +276122,6 @@
         "url": "https://jobs.smartrecruiters.com/AGTechnologies1/104965544",
         "locations": [
             "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/AG-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "AG Technologies",
-        "id": "3a5d936a-12ed-4194-960e-750f9c6ba742",
-        "title": "Java Developer",
-        "active": true,
-        "date_updated": 1774981081,
-        "date_posted": 1754987781,
-        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/113484685",
-        "locations": [
-            "NYC"
         ],
         "company_url": "https://simplify.jobs/c/AG-Technologies",
         "is_visible": true,
@@ -290993,6 +290782,26 @@
         "degrees": [
             "Associate's",
             "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "FlexGen",
+        "id": "a6c340fe-19a1-4d55-a7ee-1ba9444c7afe",
+        "title": "Integration Engineer",
+        "active": true,
+        "date_updated": 1775723314,
+        "date_posted": 1775167772,
+        "url": "https://ats.rippling.com/external-job-board/jobs/9c254570-11f0-478c-a6cd-63b1337910d6",
+        "locations": [
+            "Durham, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/FlexGen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
