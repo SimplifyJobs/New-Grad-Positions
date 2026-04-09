@@ -19385,7 +19385,7 @@
         "company_name": "Kroll",
         "id": "7dc3f875-f527-4062-99ce-2ad24c5c92b2",
         "title": "Data Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1761822845,
         "date_posted": 1761822845,
         "url": "https://hcxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/21012997",
@@ -71869,42 +71869,6 @@
         "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/105315835",
         "locations": [
             "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Artech-Information-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Artech Information System",
-        "id": "ed62ca76-3d55-4974-8896-e82046c8764f",
-        "title": "Desktop support",
-        "active": false,
-        "date_updated": 1761833038,
-        "date_posted": 1755012568,
-        "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/108998708",
-        "locations": [
-            "Buffalo, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Artech-Information-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Artech Information System",
-        "id": "f788cdbe-bdef-4362-a40c-c8dc5661c2dd",
-        "title": "Desktop support",
-        "active": false,
-        "date_updated": 1762911599,
-        "date_posted": 1755012423,
-        "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/109860234",
-        "locations": [
-            "Pasadena, CA"
         ],
         "company_url": "https://simplify.jobs/c/Artech-Information-System",
         "is_visible": true,
@@ -233539,7 +233503,7 @@
         "company_name": "Hormel Foods",
         "id": "d638208f-0760-4e9a-92b6-5e231d4a866f",
         "title": "Associate Applications Development Analyst - Wms",
-        "active": true,
+        "active": false,
         "date_updated": 1772694432,
         "date_posted": 1772694432,
         "url": "https://ekkh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/33187",
@@ -290526,5 +290490,23 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Morgan Stanley",
+        "id": "42468909-f6d7-4142-91b1-bfc9278fb1aa",
+        "title": "Data Management",
+        "active": true,
+        "date_updated": 1775746636,
+        "date_posted": 1775743878,
+        "url": "https://ms.wd5.myworkdayjobs.com/External/job/Glasgow-United-Kingdom/Data-Management_PT-JR033474",
+        "locations": [
+            "Glasgow, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Morgan-Stanley",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
