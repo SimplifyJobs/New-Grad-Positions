@@ -1,70 +1,5 @@
 [
     {
-        "date_updated": 1755045285,
-        "url": "https://university-uber.icims.com/jobs/147250/job",
-        "company_name": "Uber",
-        "title": "Graduate 2025 Software Engineer I, US",
-        "locations": [
-            "San Francisco, CA"
-        ],
-        "sponsorship": "Other",
-        "active": true,
-        "source": "polinavishnev",
-        "id": "7147fcb0-68ba-4a67-949f-44ce269b1ac4",
-        "date_posted": 1755035602,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1761560956,
-        "url": "https://job-boards.greenhouse.io/appliedintuition/jobs/4592027005",
-        "company_name": "Applied Intuition",
-        "title": "Embedded Software Engineer - New Grad",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "source": "polinavishnev",
-        "id": "3827b11f-faee-43e0-b92d-1fd2d3a75784",
-        "date_posted": 1755035689,
-        "company_url": "",
-        "is_visible": true,
-        "degrees": []
-    },
-    {
-        "date_updated": 1755035710,
-        "url": "https://job-boards.greenhouse.io/appliedintuition/jobs/4489211005",
-        "company_name": "Applied Intuition",
-        "title": "Research Scientist - New Grad",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "source": "polinavishnev",
-        "id": "6a32d638-3914-427f-affa-a38322e94088",
-        "date_posted": 1755035710,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1755035727,
-        "url": "https://job-boards.greenhouse.io/appliedintuition/jobs/4592025005",
-        "company_name": "Applied Intuition",
-        "title": "Software Engineer - New Grad",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "source": "polinavishnev",
-        "id": "e40e216e-8125-49f7-9366-c7bb719bb4a1",
-        "date_posted": 1755035727,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "source": "Simplify",
         "category": "Software",
         "company_name": "Uber",
@@ -71143,42 +71078,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Artech Information System",
-        "id": "a400409b-8798-4b37-a7eb-f2874a96b171",
-        "title": "Deskside Support Desktop Technician",
-        "active": false,
-        "date_updated": 1762908912,
-        "date_posted": 1755035991,
-        "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/99580200",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Artech-Information-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Warner Bros.",
-        "id": "6e70a672-b54f-4b5b-abc6-cd6cdff595da",
-        "title": "Associate BIT Field Engineer",
-        "active": false,
-        "date_updated": 1762925177,
-        "date_posted": 1755035221,
-        "url": "https://warnerbros.wd5.myworkdayjobs.com/global/job/CA-Burbank-Bldg-750-Second-Century-Tower-2/Associate-BIT-Field-Engineer_R000096863",
-        "locations": [
-            "Burbank, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Warner-Bros",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Northrop Grumman",
         "id": "ecb3b9b0-689a-49d9-a5c5-247b0e38ed18",
         "title": "Computer System Administrator",
@@ -78722,24 +78621,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Field AI",
-        "id": "1a5043e6-7db1-437b-b960-1636287c7070",
-        "title": "Robotics Hardware Engineer - Mechanical Systems",
-        "active": false,
-        "date_updated": 1763372402,
-        "date_posted": 1755034989,
-        "url": "https://jobs.lever.co/field-ai/c6d6d504-d01a-4ba5-9b33-f3e857f630d4/apply",
-        "locations": [
-            "Irvine, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Field-AI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -209751,7 +209632,7 @@
         "company_name": "Veterans United",
         "id": "203b8ba4-82b0-419c-8920-d44c1f291554",
         "title": "Associate Software Engineer - Remote/Hybrid",
-        "active": true,
+        "active": false,
         "date_updated": 1771631269,
         "date_posted": 1771631269,
         "url": "https://veteransunited.wd1.myworkdayjobs.com/VUHL/job/Remote-MO/Associate-Software-Engineer--Remote-Hybrid-_R5732",
@@ -227400,7 +227281,7 @@
         "company_name": "DMC Engineering",
         "id": "fb40c356-f572-4f7d-800d-dfebf7a8cc7a",
         "title": "Entry Level Embedded Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1772503354,
         "date_posted": 1772503354,
         "url": "https://www.dmcinfo.com/careers/open-positions?gh_jid=5136284008",
@@ -263577,7 +263458,7 @@
         "company_name": "Gartner",
         "id": "b7d0b0eb-f2ba-411b-abcd-3db5654b9050",
         "title": "Associate Digital Product Manager",
-        "active": true,
+        "active": false,
         "date_updated": 1774419354,
         "date_posted": 1774419354,
         "url": "https://gartner.wd5.myworkdayjobs.com/EXT/job/Fort-Myers-FL/Associate-Digital-Product-Manager_106994",
@@ -279203,7 +279084,7 @@
         "company_name": "QuidelOrtho",
         "id": "7ab31b5d-ca3c-42f2-b167-8cfe1b98ade7",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1775169541,
         "date_posted": 1775167875,
         "url": "https://orthoclinical.wd1.myworkdayjobs.com/Search/job/US---NY---Rochester/Software-Engineer_R0016379",
@@ -287440,7 +287321,7 @@
         "company_name": "Waystar",
         "id": "8ab72203-d72f-4c39-a18e-5275ce06b64a",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1775612521,
         "date_posted": 1775610440,
         "url": "https://waystar.wd1.myworkdayjobs.com/Waystar/job/Atlanta-GA/Software-Engineer-I_R3123",
