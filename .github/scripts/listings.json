@@ -286790,12 +286790,12 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
+        "category": "Software Engineering",
         "company_name": "Visa",
         "id": "6c4ef832-ab05-420c-a6fb-b271823a44e7",
         "title": "Software Engineer - New College Grad",
         "active": true,
-        "date_updated": 1775574685,
+        "date_updated": 1775747574,
         "date_posted": 1775570737,
         "url": "https://jobs.smartrecruiters.com/Visa/744000119101867",
         "locations": [
@@ -286803,11 +286803,8 @@
         ],
         "company_url": "https://simplify.jobs/c/Visa",
         "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
+        "sponsorship": "Does Not Offer Sponsorship",
+        "degrees": []
     },
     {
         "source": "Simplify",
