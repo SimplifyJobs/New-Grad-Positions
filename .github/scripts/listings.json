@@ -27756,7 +27756,7 @@
         "company_name": "DaVita",
         "id": "31d215b3-a96a-4a4c-81c9-52032bc6c5f8",
         "title": "Associate Product Manager",
-        "active": false,
+        "active": true,
         "date_updated": 1762997887,
         "date_posted": 1762997887,
         "url": "https://davita.wd1.myworkdayjobs.com/DKC_External/job/05555---Casa-del-Mundo-Office-Denver-HQ/Associate-Product-Manager_R0432323",
@@ -72331,172 +72331,6 @@
             "East Lansing, MI"
         ],
         "company_url": "https://simplify.jobs/c/360-IT-Professionals",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "360 IT Professionals",
-        "id": "af95ed64-fa18-470f-a774-72e6ad26b2cc",
-        "title": "TSM Consultant",
-        "active": false,
-        "date_updated": 1762911804,
-        "date_posted": 1754996367,
-        "url": "https://jobs.smartrecruiters.com/360ITProfessionals1/743999657100498",
-        "locations": [
-            "Columbus, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/360-IT-Professionals",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "360 IT Professionals",
-        "id": "dfc8fd4a-8ffc-4ee8-a527-a116ddeec701",
-        "title": "Systems Engineer Active Directory+DNS+Exchange server",
-        "active": false,
-        "date_updated": 1762908234,
-        "date_posted": 1754996205,
-        "url": "https://jobs.smartrecruiters.com/360ITProfessionals1/743999658484486",
-        "locations": [
-            "Uniondale, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/360-IT-Professionals",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "AG Technologies",
-        "id": "46056ee4-33eb-4bd5-94b0-9c211ad9c9fa",
-        "title": "Java Training and Placement",
-        "active": false,
-        "date_updated": 1762907797,
-        "date_posted": 1754995360,
-        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/103866458",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/AG-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "AG Technologies",
-        "id": "2ec574d1-1742-4606-ac6f-a8c8cea4a7d5",
-        "title": "Hiring Recent graduated students for full time jobs",
-        "active": true,
-        "date_updated": 1761938849,
-        "date_posted": 1754995374,
-        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/106636129",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/AG-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "AG Technologies",
-        "id": "a4e9a3d5-458c-47fa-9423-f9cb7313b8c5",
-        "title": "Salesforce OBIEE ETL Training and Placement",
-        "active": false,
-        "date_updated": 1762910536,
-        "date_posted": 1754995250,
-        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/104232823",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/AG-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "AG Technologies",
-        "id": "7eb12e17-a02c-4034-9e66-f5f09bd96b60",
-        "title": "Devops/Java/Weblogic training and placement",
-        "active": false,
-        "date_updated": 1761834429,
-        "date_posted": 1754995252,
-        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/103546037",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/AG-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "AG Technologies",
-        "id": "1011d053-c9f8-4129-a340-462eef2242fa",
-        "title": "OBIEE/Salesforce/Networking training and placement",
-        "active": false,
-        "date_updated": 1761829719,
-        "date_posted": 1754995282,
-        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/105683018",
-        "locations": [
-            "Chesterfield, MO"
-        ],
-        "company_url": "https://simplify.jobs/c/AG-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "AG Technologies",
-        "id": "7c21c471-f3ad-4265-a007-8a9363b7e4ab",
-        "title": "OBIEE/Salesforce/Networking training and placement",
-        "active": false,
-        "date_updated": 1761829567,
-        "date_posted": 1754995199,
-        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/112846510",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/AG-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "AG Technologies",
-        "id": "403e8bed-9790-4580-b371-c45428991615",
-        "title": "Hiring Software Engineer",
-        "active": false,
-        "date_updated": 1761835914,
-        "date_posted": 1754995174,
-        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/743999658570182",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/AG-Technologies",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -276012,26 +275846,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "AG Technologies",
-        "id": "ee5363a2-3a6a-41df-886d-12a68779124d",
-        "title": "Immediate IT Openings",
-        "active": true,
-        "date_updated": 1774981081,
-        "date_posted": 1754995226,
-        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/104965544",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/AG-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Cintas",
         "id": "1920c33f-707a-490b-967e-33d6f9dca58e",
@@ -284047,7 +283861,7 @@
         "company_name": "Microchip Technology",
         "id": "5d079718-3490-46a1-b454-655028933380",
         "title": "Engineer 2 - Architecture",
-        "active": false,
+        "active": true,
         "date_updated": 1775297768,
         "date_posted": 1775295625,
         "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/CA---San-Jose---3850-N-First-St/Engineer-II---Architecture_R1200-26",
@@ -284935,7 +284749,7 @@
         "company_name": "Enbridge",
         "id": "32677a39-f1eb-4718-9e7e-f44a0cb1d8fb",
         "title": "Engineer in Training 1",
-        "active": false,
+        "active": true,
         "date_updated": 1775303669,
         "date_posted": 1775299574,
         "url": "https://enbridge.wd3.myworkdayjobs.com/enbridge_careers/job/North-York-ON-CAN/Engineer-in-Training-I_70734-1",
@@ -290739,6 +290553,42 @@
             "SF"
         ],
         "company_url": "https://simplify.jobs/c/Crusoe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "ac4fcabd-1425-4ccf-a254-aeb025b53a19",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1775728989,
+        "date_posted": 1775725802,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056585",
+        "locations": [
+            "Croydon, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TD Bank",
+        "id": "e776f154-c3dd-439a-ab39-6220077fde44",
+        "title": "Data Scientist 1",
+        "active": true,
+        "date_updated": 1775729293,
+        "date_posted": 1775599785,
+        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Data-Scientist-I_R_1478882",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/TD-Bank",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
