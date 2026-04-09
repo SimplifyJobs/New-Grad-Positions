@@ -1,53 +1,5 @@
 [
     {
-        "date_updated": 1763456612,
-        "url": "https://job-boards.greenhouse.io/andurilindustries/jobs/4802146007?gh_jid=4802146007&gh_src=",
-        "company_name": "Anduril Industries",
-        "title": "Early Career Software Engineer",
-        "locations": [
-            "Costa Mesa, CA"
-        ],
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": false,
-        "source": "Elisha-Edme",
-        "id": "e6fe73f7-dde0-4fb0-bfaa-04894ee449f2",
-        "date_posted": 1754990483,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1754990716,
-        "url": "https://job-boards.greenhouse.io/andurilindustries/jobs/4164476007?gh_jid=4164476007&gh_src=",
-        "company_name": "Anduril Industries",
-        "title": "Air Dominance & Strike - Flight Software Engineer, Embedded C/C++",
-        "locations": [
-            "Costa Mesa, CA"
-        ],
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "source": "AlmondCroffle",
-        "id": "a9a21ff0-2246-44b3-8633-cb218964f107",
-        "date_posted": 1754990716,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1754990871,
-        "url": "https://job-boards.greenhouse.io/andurilindustries/jobs/4776690007?gh_jid=4776690007&gh_src=",
-        "company_name": "Anduril Industries",
-        "title": "Software Engineer, Connected Warfare",
-        "locations": [
-            "Costa Mesa, CA"
-        ],
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
-        "source": "AlmondCroffle",
-        "id": "5832ef95-34cc-4b52-9a23-d2b9507b739d",
-        "date_posted": 1754990871,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "date_updated": 1755872498,
         "url": "https://cvshealth.wd1.myworkdayjobs.com/en-US/cvs_health_careers/job/TX---Work-from-home/Associate-Cloud-Architect_R0619090",
         "company_name": "CVS Health",
@@ -5376,7 +5328,7 @@
         "company_name": "Motorola",
         "id": "e0ff9c5a-7674-4cb1-97f3-f803968a130e",
         "title": "Junior Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1756747299,
         "date_posted": 1756747299,
         "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Uxbridge-UK-ZUK131/Junior-Software-Engineer_R57369",
@@ -203226,7 +203178,7 @@
         "company_name": "GE Healthcare",
         "id": "e0c439a3-337d-458d-92a4-a825ff4292be",
         "title": "Field Service Engineer Central FL",
-        "active": false,
+        "active": true,
         "date_updated": 1771370749,
         "date_posted": 1771370749,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-Central-FL_R4036192-1",
