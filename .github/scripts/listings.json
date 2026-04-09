@@ -71913,132 +71913,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Kanshe Infotech",
-        "id": "cf03b5bd-cfda-45db-8d32-eb27fcb5b540",
-        "title": "Cyber Security Training",
-        "active": false,
-        "date_updated": 1755010382,
-        "date_posted": 1755010382,
-        "url": "https://jobs.smartrecruiters.com/KansheInfotech/744000072092920",
-        "locations": [
-            "Omaha, NE"
-        ],
-        "company_url": "https://simplify.jobs/c/Kanshe-Infotech",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Artech Information System",
-        "id": "e98942f9-0021-4be4-aa18-dafebb66688d",
-        "title": "Desktop Support",
-        "active": false,
-        "date_updated": 1762906214,
-        "date_posted": 1755009935,
-        "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/743999653434429",
-        "locations": [
-            "Southfield, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/Artech-Information-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Artech Information System",
-        "id": "c94060de-a032-4e27-9043-f63319bad273",
-        "title": "Desktop Support",
-        "active": false,
-        "date_updated": 1762911041,
-        "date_posted": 1755009883,
-        "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/743999652665102",
-        "locations": [
-            "San Ramon, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Artech-Information-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Artech Information System",
-        "id": "3b628e68-e231-4869-b3b1-7633b3c03004",
-        "title": "Desktop Support",
-        "active": false,
-        "date_updated": 1755009941,
-        "date_posted": 1755009941,
-        "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/743999652701442",
-        "locations": [
-            "White Plains, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Artech-Information-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Artech Information System",
-        "id": "6688b7b6-73db-4965-a0e5-3288a0fe0a61",
-        "title": "Desktop Support",
-        "active": false,
-        "date_updated": 1755009670,
-        "date_posted": 1755009670,
-        "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/743999655443524",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Artech-Information-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Artech Information System",
-        "id": "4917cba9-d641-4b54-93da-40a7ef708d7d",
-        "title": "Chemical Process Technician",
-        "active": false,
-        "date_updated": 1755009531,
-        "date_posted": 1755009531,
-        "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/743999655509542",
-        "locations": [
-            "St. Louis, MO"
-        ],
-        "company_url": "https://simplify.jobs/c/Artech-Information-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Artech Information System",
-        "id": "5c232182-1f12-47a7-a92a-3e49ff49b8ad",
-        "title": "Deskside Support",
-        "active": false,
-        "date_updated": 1761802575,
-        "date_posted": 1755009312,
-        "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/743999655932031",
-        "locations": [
-            "Lubbock, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Artech-Information-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Texas A&M International University",
         "id": "ac40bd53-efdc-494b-8a02-10c8be8ff19e",
@@ -123823,7 +123697,7 @@
         "company_name": "Georgetown University",
         "id": "402498d6-4762-4407-981e-5b4b651ba523",
         "title": "AV Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1766444542,
         "date_posted": 1766444542,
         "url": "https://georgetown.wd1.myworkdayjobs.com/Georgetown_Admin_Careers/job/Law-Center/AV-Engineer-I_JR24489",
@@ -178209,7 +178083,7 @@
         "company_name": "Goldman Sachs",
         "id": "9e4a3e51-72ac-450b-99c2-556308af8924",
         "title": "Asset & Wealth Management - AI Integration - Analyst - New York",
-        "active": false,
+        "active": true,
         "date_updated": 1770073935,
         "date_posted": 1770073935,
         "url": "https://higher.gs.com/roles/159359",
@@ -201733,7 +201607,7 @@
         "company_name": "Trustpilot",
         "id": "999e7d26-f317-4433-ad79-ad1f7a076b30",
         "title": "Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1771342898,
         "date_posted": 1771342898,
         "url": "https://business.trustpilot.com/jobs/7621938?gh_jid=7621938",
@@ -201751,7 +201625,7 @@
         "company_name": "Trustpilot",
         "id": "1d90b701-1ce4-469b-b038-ee1be430f0f1",
         "title": "Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1771342899,
         "date_posted": 1771342899,
         "url": "https://business.trustpilot.com/jobs/7353456?gh_jid=7353456",
@@ -244209,7 +244083,7 @@
         "company_name": "Austal USA",
         "id": "24994b0d-1f1e-4548-82fb-fd22dc831249",
         "title": "Test & Activation Specialist 1",
-        "active": true,
+        "active": false,
         "date_updated": 1773267781,
         "date_posted": 1773267781,
         "url": "https://austalusa.wd1.myworkdayjobs.com/austal/job/Mobile-AL/Test---Activation-Specialist-I_R0010989-1",
@@ -251241,7 +251115,7 @@
         "company_name": "OakNorth Bank",
         "id": "fe6e2c41-ac87-41e1-8110-6ee911d8d882",
         "title": "Junior Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773670645,
         "date_posted": 1773670645,
         "url": "https://jobs.lever.co/oaknorth.ai/28daf547-064c-4f8f-a69b-17b6a2aab2f5/apply",
@@ -260470,7 +260344,7 @@
         "company_name": "Intel",
         "id": "618c3741-068e-4e8b-9e03-f0e8e4ce48f5",
         "title": "SoC Logic Design Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1774277851,
         "date_posted": 1774277851,
         "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Virtual-US/SOC-Logic-Design-Engineer_JR0281880",
@@ -262167,7 +262041,7 @@
         "company_name": "Sainsbury's",
         "id": "cfbe1dea-403c-4149-90d8-06bd6c408518",
         "title": "Trading Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1774361802,
         "date_posted": 1774361802,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054511",
@@ -266699,7 +266573,7 @@
         "company_name": "GE Healthcare",
         "id": "c90e16db-b6dc-4daf-8ba7-256167d9b78a",
         "title": "Field Service Engineer 1 - X-ray",
-        "active": true,
+        "active": false,
         "date_updated": 1773738484,
         "date_posted": 1773181330,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1---Baltimore--MD_R4037524",
@@ -267840,7 +267714,7 @@
         "company_name": "Sainsbury's",
         "id": "67432723-20e3-4ffa-a076-1992430baee4",
         "title": "Trading Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1774563136,
         "date_posted": 1774563136,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054748",
@@ -270530,7 +270404,7 @@
         "company_name": "Sainsbury's",
         "id": "b9b5e6a5-004a-45e9-90c9-910749452b8f",
         "title": "Trading Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1774735650,
         "date_posted": 1774735650,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055416",
@@ -286695,7 +286569,7 @@
         "company_name": "Sainsbury's",
         "id": "c83a5865-2380-447e-84b9-f89f148af720",
         "title": "Trading Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1775572201,
         "date_posted": 1775570874,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053991",
@@ -290276,5 +290150,384 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "City of Austin",
+        "id": "f9ca433c-dc93-467b-a6b0-429d53b1ec4f",
+        "title": "Electric Power Grid - Geospatial Information System - Electric Power Grid",
+        "active": true,
+        "date_updated": 1775745970,
+        "date_posted": 1775743759,
+        "url": "https://austintexas.wd5.myworkdayjobs.com/COA_Careers/job/System-Control-Center-SCC/Electric-Power-Grid--EPG--Geospatial-Information-System--GIS--Analyst-I_JR103382-1",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/City-Of-Austin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Shield AI",
+        "id": "75cab248-40b1-4991-a3d4-87b57284f70b",
+        "title": "EWIS Harness Design - Engineer I",
+        "active": true,
+        "date_updated": 1775745376,
+        "date_posted": 1775743818,
+        "url": "https://jobs.lever.co/shieldai/dc29adac-fe50-41c1-a466-71b7700626ba/apply",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Shield-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "6baa5fbe-dec4-40ab-98aa-93514f306a24",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1775745376,
+        "date_posted": 1775743730,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056641",
+        "locations": [
+            "Edinburgh, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Sierra Nevada Corporation",
+        "id": "ee3bbcd8-4b66-438d-a324-74af61daa6da",
+        "title": "Engineering Technician 1",
+        "active": true,
+        "date_updated": 1775745870,
+        "date_posted": 1775743678,
+        "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Sparks-NV/Engineering-Technician-I_R0029709",
+        "locations": [
+            "Sparks, NV"
+        ],
+        "company_url": "https://simplify.jobs/c/Sierra-Nevada-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "edd000fa-edc1-4643-8050-e720a2d26e9b",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1775745376,
+        "date_posted": 1775743735,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056523",
+        "locations": [
+            "Crawley, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "960d021d-a411-4a2b-9bc5-d83b972e9535",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1775745376,
+        "date_posted": 1775743735,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056659",
+        "locations": [
+            "Cardiff, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "833816b4-bdd5-4dd8-bf06-49e5893a8a4b",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1775745376,
+        "date_posted": 1775743728,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056601",
+        "locations": [
+            "Durham, UK",
+            "Thirsk, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Viridien",
+        "id": "7835b7c0-0e00-472e-92ca-7423f0b3cb04",
+        "title": "Spectral Geologist",
+        "active": true,
+        "date_updated": 1775745376,
+        "date_posted": 1775743743,
+        "url": "https://cgg.wd103.myworkdayjobs.com/viridiencareers/job/Crawley-United-Kingdom/Spectral-Geologist_JR101241-1",
+        "locations": [
+            "Crawley, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Viridien",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "779c72ac-4825-46db-810e-dfc22245d96a",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1775745376,
+        "date_posted": 1775743728,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055585",
+        "locations": [
+            "Cardiff, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "39b9daf5-0810-464b-9ff1-6a751a5ca7c0",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1775745376,
+        "date_posted": 1775743729,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056658",
+        "locations": [
+            "Cardiff, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Cambridge Associates",
+        "id": "1962c174-9afc-44af-b9d3-2d06f0461c31",
+        "title": "Investment Analyst Program",
+        "active": true,
+        "date_updated": 1775745376,
+        "date_posted": 1775743349,
+        "url": "https://cambridgeassociates.wd5.myworkdayjobs.com/Cambridge_Associates/job/Boston/Investment-Analyst-Program---Boston-Location--July-Class_JR0000210-1",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cambridge-Associates",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Spotify",
+        "id": "06b9c283-94fa-4aa2-a9a9-08f387e8e5ea",
+        "title": "Product Manager 1",
+        "active": true,
+        "date_updated": 1775745977,
+        "date_posted": 1775743708,
+        "url": "https://jobs.lever.co/spotify/a4a933ce-ab44-4a13-b8ca-8575c97ea40a/apply",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Spotify",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Atos",
+        "id": "9ed9d3b1-7552-4d9a-86cd-750b63bd424e",
+        "title": "Full Stack Engineer",
+        "active": true,
+        "date_updated": 1775745376,
+        "date_posted": 1775743547,
+        "url": "https://jobs.atos.net/job/London-FULL-STACK-ENGINEER/1382144833/?ats=successfactors",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Atos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bootcamp"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TIAA",
+        "id": "9a235f85-4027-4536-b29d-7de351612412",
+        "title": "Technology Rotational Analyst",
+        "active": true,
+        "date_updated": 1775745830,
+        "date_posted": 1775743684,
+        "url": "https://tiaa.wd1.myworkdayjobs.com/Search/job/London-GBR/Nuveen-Technology-Rotational-Analyst---Based-in-London_R260300702",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/TIAA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "8f26fff6-8758-4937-b4a6-c0947b8004e4",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1775745376,
+        "date_posted": 1775743729,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056639",
+        "locations": [
+            "Edinburgh, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "4dff86b1-6608-4554-add9-5d1f693ae85e",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1775745376,
+        "date_posted": 1775743728,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055634",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "1d14b99f-7c25-4777-84c4-fcf42b7f278b",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1775745376,
+        "date_posted": 1775743729,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056643",
+        "locations": [
+            "United Kingdom"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Cambridge Associates",
+        "id": "1ff9da44-9613-405a-b841-8c50e0faad4b",
+        "title": "Investment Analyst Program",
+        "active": true,
+        "date_updated": 1775745376,
+        "date_posted": 1775743343,
+        "url": "https://cambridgeassociates.wd5.myworkdayjobs.com/Handshake/job/Boston/Investment-Analyst-Program---Boston-Location--July-Class_JR0000210",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cambridge-Associates",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Intermountain Healthcare",
+        "id": "6db01b03-04b0-4546-b7b9-6c1b30d6c608",
+        "title": "Finance Data Analyst",
+        "active": true,
+        "date_updated": 1775745615,
+        "date_posted": 1775743808,
+        "url": "https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Key-Bank-Tower/Finance-Data-Analyst-Staff_R153223",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Intermountain-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "ENSCO",
+        "id": "7d965aa7-c745-4456-9752-69c7c2a34d10",
+        "title": "Field Service Engineer",
+        "active": true,
+        "date_updated": 1775745376,
+        "date_posted": 1768866462,
+        "url": "https://job-boards.greenhouse.io/ensco/jobs/5070874008",
+        "locations": [
+            "Chambersburg, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/ENSCO",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
