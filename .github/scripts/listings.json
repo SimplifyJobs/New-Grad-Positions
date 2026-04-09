@@ -35432,7 +35432,7 @@
         "company_name": "Horizon media",
         "id": "8026253a-0550-4702-afd3-1299673abc23",
         "title": "Analyst Advanced Analytics",
-        "active": false,
+        "active": true,
         "date_updated": 1762929740,
         "date_posted": 1762473294,
         "url": "https://horizonmedia.wd1.myworkdayjobs.com/en-US/CareerOpportunities/job/New-York-New-York/Analyst--Advanced-Analytics_R0016043",
@@ -124599,7 +124599,7 @@
         "company_name": "Viridien",
         "id": "b9618c4f-5db6-4ca6-9c55-d7d5f5875951",
         "title": "Seismic Imaging Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1766431897,
         "date_posted": 1766431897,
         "url": "https://cgg.wd103.myworkdayjobs.com/viridiencareers/job/Calgary-Canada/Seismic-Imaging-Analyst_JR101104-2",
@@ -159942,7 +159942,7 @@
         "company_name": "Beta Technologies",
         "id": "06c68c61-14cc-470b-a263-2bf1854e33f3",
         "title": "Motors Engineering Technician - Motors Research and Development",
-        "active": true,
+        "active": false,
         "date_updated": 1769028273,
         "date_posted": 1769028273,
         "url": "https://jobs.lever.co/beta/fd9b1a2a-b0bf-4d87-b7ff-0e7f065a0482/apply",
@@ -288538,7 +288538,7 @@
         "company_name": "Trane Technologies",
         "id": "c7e015ea-4870-425b-b3f0-f783609990c7",
         "title": "Designer 2",
-        "active": false,
+        "active": true,
         "date_updated": 1775603008,
         "date_posted": 1775599791,
         "url": "https://careers.tranetechnologies.com/global/en/job/JR-259",
@@ -291027,6 +291027,103 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "City of Oklahoma City",
+        "id": "85f0f4ab-23a0-4a48-b194-ff302d56fe4e",
+        "title": "Systems Analyst 1",
+        "active": true,
+        "date_updated": 1775716770,
+        "date_posted": 1775714798,
+        "url": "https://fa-etyr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/3713",
+        "locations": [
+            "Oklahoma City, OK"
+        ],
+        "company_url": "https://simplify.jobs/c/City-Of-Oklahoma-City",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Circle",
+        "id": "31cceb17-5b07-44bc-855b-15dd3e489577",
+        "title": "Forward Deployed Engineer",
+        "active": true,
+        "date_updated": 1775716393,
+        "date_posted": 1775714868,
+        "url": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Forward-Deployed-Engineer_JR100940",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Circle",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Vermeer",
+        "id": "0be61fcb-a33d-4688-b480-0d0720b87f8c",
+        "title": "Engineer 1 - Research and Development",
+        "active": true,
+        "date_updated": 1775716850,
+        "date_posted": 1775714667,
+        "url": "https://vermeer.wd5.myworkdayjobs.com/externalcareersite/job/Ames-Iowa-USA/Engineer-I---Research-and-Development_REQ-21147-1",
+        "locations": [
+            "Ames, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/Vermeer",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "f7c6a053-3631-49b4-8896-bd0251d129cc",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1775716393,
+        "date_posted": 1775714799,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056582",
+        "locations": [
+            "Dorchester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Momentus Space",
+        "id": "2124b982-896f-40e1-9615-9fa583612302",
+        "title": "Electrical Technician",
+        "active": true,
+        "date_updated": 1775716772,
+        "date_posted": 1775714857,
+        "url": "https://job-boards.greenhouse.io/momentus/jobs/5877266004",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Momentus",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's",
+            "Certificate"
         ]
     }
 ]
