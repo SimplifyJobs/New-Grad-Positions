@@ -47003,24 +47003,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Artech Information System",
-        "id": "c63c28ce-bc82-4edf-a562-341994c24722",
-        "title": "Deskside Support Representative",
-        "active": false,
-        "date_updated": 1762906601,
-        "date_posted": 1755013785,
-        "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/104778355",
-        "locations": [
-            "Alpharetta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Artech-Information-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Cresta",
         "id": "04c01830-5699-406f-80fb-928762e20887",
@@ -71741,134 +71723,6 @@
         "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/99670934",
         "locations": [
             "Detroit, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/Artech-Information-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Artech Information System",
-        "id": "a9efb386-0dc5-4424-b20c-95013b8b418b",
-        "title": "Deskside Support",
-        "active": false,
-        "date_updated": 1761802005,
-        "date_posted": 1755014383,
-        "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/101588839",
-        "locations": [
-            "Eagan, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Artech-Information-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Artech Information System",
-        "id": "72ae3984-7aa6-4e13-9da7-e8e8d67c81c0",
-        "title": "Deskside Support Representative",
-        "active": false,
-        "date_updated": 1761938589,
-        "date_posted": 1755014319,
-        "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/102769767",
-        "locations": [
-            "Pasadena, CA",
-            "El Segundo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Artech-Information-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Artech Information System",
-        "id": "78a0f072-122c-4656-bd02-ae609d50589c",
-        "title": ".Net Developer",
-        "active": true,
-        "date_updated": 1761939863,
-        "date_posted": 1755014241,
-        "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/102972473",
-        "locations": [
-            "Philadelphia, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Artech-Information-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Artech Information System",
-        "id": "68baefc8-14b8-4271-98b5-8e677aead17c",
-        "title": "Deskside Support",
-        "active": false,
-        "date_updated": 1761802335,
-        "date_posted": 1755014280,
-        "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/102769567",
-        "locations": [
-            "Alpharetta, GA",
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Artech-Information-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Artech Information System",
-        "id": "8284681a-f10d-48e4-99f2-fdb59b11e13a",
-        "title": "Data Center Specialist",
-        "active": false,
-        "date_updated": 1755014010,
-        "date_posted": 1755014010,
-        "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/103956298",
-        "locations": [
-            "Halethorpe, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/Artech-Information-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Artech Information System",
-        "id": "eb912213-b5d0-49fb-9d7b-673da7c9dfa3",
-        "title": "Deskside Support",
-        "active": false,
-        "date_updated": 1762912065,
-        "date_posted": 1755013631,
-        "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/105345770",
-        "locations": [
-            "Bothell, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Artech-Information-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Artech Information System",
-        "id": "48194453-8849-4f57-a8f5-38fb5873807e",
-        "title": "Deskside Support",
-        "active": false,
-        "date_updated": 1762907054,
-        "date_posted": 1755013533,
-        "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/105315835",
-        "locations": [
-            "Atlanta, GA"
         ],
         "company_url": "https://simplify.jobs/c/Artech-Information-System",
         "is_visible": true,
@@ -236738,7 +236592,7 @@
         "company_name": "Honeywell",
         "id": "60c70500-9370-4714-823c-b86dd25f18d0",
         "title": "Hardware Engineer 1 - Avionics/Radar",
-        "active": true,
+        "active": false,
         "date_updated": 1772838599,
         "date_posted": 1772838599,
         "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/141359",
@@ -288448,7 +288302,7 @@
         "company_name": "Cleveland Clinic",
         "id": "9743eaec-944c-495b-ae36-629a762b9836",
         "title": "Software Developer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1775659438,
         "date_posted": 1775657249,
         "url": "https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Software-Developer-I---DDI-Research---Innovations_334580",
