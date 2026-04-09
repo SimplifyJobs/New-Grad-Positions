@@ -1,107 +1,5 @@
 [
     {
-        "date_updated": 1763710136,
-        "url": "https://www.databricks.com/company/careers/university-recruiting/data-scientist---new-grad-2026-start-6866554002?gh_jid=6866554002",
-        "company_name": "Databricks",
-        "title": "Data Scientist",
-        "locations": [
-            "Mountain View, CA",
-            "San Francisco, CA"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "source": "AlmondCroffle",
-        "id": "2a99602b-1ec5-4b99-9050-41fc36613ffb",
-        "date_posted": 1755007633,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1755223448,
-        "url": "https://barclays.wd3.myworkdayjobs.com/en-US/external_career_site_barclays/job/745-7th-Avenue-New-York/Quantitative-Analytics-Associate-Graduate-Program-2026-New-York_JR-0000060403",
-        "company_name": "Barclays",
-        "title": "Quantitative Analytics Associate Graduate Program",
-        "locations": [
-            "Manhattan, NY"
-        ],
-        "sponsorship": "Other",
-        "active": true,
-        "source": "AlmondCroffle",
-        "id": "b669da89-d679-4fa2-a593-4eca3f5ac63e",
-        "date_posted": 1755007781,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1756303781,
-        "url": "https://homedepot.wd5.myworkdayjobs.com/en-US/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Associate-Data-Scientist---MET_Req153698-1",
-        "company_name": "The Home Depot",
-        "title": "Associate Data Scientist - MET",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "source": "AlmondCroffle",
-        "id": "c43d97a6-1158-467e-b694-79c6de8b35f1",
-        "date_posted": 1755008007,
-        "company_url": "",
-        "is_visible": false,
-        "degrees": []
-    },
-    {
-        "date_updated": 1755417977,
-        "url": "https://apply.workable.com/scitec/j/45B1B9BA15/",
-        "company_name": "SciTec",
-        "title": "Associate / Staff Mission Data Analyst",
-        "locations": [
-            "Boulder, CO"
-        ],
-        "sponsorship": "Other",
-        "active": true,
-        "source": "AlmondCroffle",
-        "id": "1541d447-9fbe-4d31-97e2-1cd93adb98d4",
-        "date_posted": 1755008070,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Prosidian Consulting",
-        "id": "847cf082-1f75-43bb-9b76-0943ab77d698",
-        "title": "ITSM IT Security Engineer I",
-        "active": false,
-        "date_updated": 1755714200,
-        "date_posted": 1755007381,
-        "url": "https://jobs.smartrecruiters.com/prosidianconsulting/743999691677974",
-        "locations": [
-            "Washington, DC"
-        ],
-        "company_url": "https://simplify.jobs/c/ProSidian-Consulting",
-        "is_visible": true,
-        "sponsorship": "U.S. Citizenship is Required",
-        "degrees": []
-    },
-    {
-        "date_updated": 1756861605,
-        "url": "https://amainc.wd12.myworkdayjobs.com/en-US/ama_careers/job/Hampton-VA/AI-ML-Research-Associate_R-100359",
-        "company_name": "Analytical Mechanics Associates",
-        "title": "AI/ML Research Associate",
-        "locations": [
-            "Hampton, VA",
-            "Remote"
-        ],
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
-        "source": "AlmondCroffle",
-        "id": "7062f9fd-9d7c-44a4-bdef-bd2966e22a61",
-        "date_posted": 1755008257,
-        "company_url": "",
-        "is_visible": false,
-        "degrees": []
-    },
-    {
         "source": "Simplify",
         "category": "Software",
         "company_name": "Salesforce",
@@ -2531,26 +2429,6 @@
         "degrees": [
             "Master's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Databricks",
-        "id": "ca23bb6b-38c7-49e5-8890-cce71a429db4",
-        "title": "Associate Product Manager \u2013 New Grad - 2026 Start",
-        "active": false,
-        "date_updated": 1756120740,
-        "date_posted": 1755008671,
-        "url": "https://boards.greenhouse.io/embed/job_app?token=7586263002",
-        "locations": [
-            "San Francisco, CA",
-            "Bellevue, WA",
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Databricks",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "date_updated": 1755716125,
@@ -72153,78 +72031,6 @@
         "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/743999655932031",
         "locations": [
             "Lubbock, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Artech-Information-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Artech Information System",
-        "id": "89e01d40-3a6c-4e34-8809-be281d739faa",
-        "title": "Desktop Support",
-        "active": false,
-        "date_updated": 1755008992,
-        "date_posted": 1755008992,
-        "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/743999656873050",
-        "locations": [
-            "San Mateo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Artech-Information-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Artech Information System",
-        "id": "63cfaebc-8e29-4fa1-9c26-fbb1531196d8",
-        "title": "DESKTOP Support Representative",
-        "active": false,
-        "date_updated": 1762906851,
-        "date_posted": 1755008949,
-        "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/743999658292922",
-        "locations": [
-            "Minneapolis, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Artech-Information-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Artech Information System",
-        "id": "83cf6ba8-4c4d-4a90-8c55-381ad2a1b7bb",
-        "title": "Desktop Support",
-        "active": false,
-        "date_updated": 1762911453,
-        "date_posted": 1755008624,
-        "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/743999658877550",
-        "locations": [
-            "Charlotte, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Artech-Information-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Artech Information System",
-        "id": "81b07c0a-ddc8-4c21-a3e2-5a39cf566286",
-        "title": "Desktop support",
-        "active": false,
-        "date_updated": 1762906383,
-        "date_posted": 1755008460,
-        "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/743999659284229",
-        "locations": [
-            "Kalamazoo, MI"
         ],
         "company_url": "https://simplify.jobs/c/Artech-Information-System",
         "is_visible": true,
@@ -209960,7 +209766,7 @@
         "company_name": "Amentum",
         "id": "0908e4cd-581f-4494-be40-bff2564e1429",
         "title": "Electrical Test Engineering Lab Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1771601737,
         "date_posted": 1771601737,
         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-IN-Crane/Electrical-Test-Engineering-Lab-Technician_R0154435",
@@ -267942,7 +267748,7 @@
         "company_name": "Sainsbury's",
         "id": "67dcbf15-efca-4166-887c-997c1d113221",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1774563516,
         "date_posted": 1774563516,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055003",
@@ -281705,7 +281511,7 @@
         "company_name": "JP Morgan Chase",
         "id": "d2f9dbe7-74a6-4840-80c6-766c11d15e94",
         "title": "Equity Index Exotics - Trading Services - Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1775226421,
         "date_posted": 1775225458,
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210731979",
@@ -286761,7 +286567,7 @@
         "company_name": "Sainsbury's",
         "id": "971f7dc7-033f-423c-bb56-260378670612",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1775555821,
         "date_posted": 1775552690,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056357",
@@ -288753,7 +288559,7 @@
         "company_name": "Sainsbury's",
         "id": "31f2ea96-08bf-4092-ac4b-e84f50970fda",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1775640241,
         "date_posted": 1775639164,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056498",
@@ -288866,7 +288672,7 @@
         "company_name": "Sainsbury's",
         "id": "89471a4e-f26b-491c-a777-f228a2539a20",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1775659681,
         "date_posted": 1775657249,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056534",
