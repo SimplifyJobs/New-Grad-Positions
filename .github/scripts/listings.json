@@ -71532,42 +71532,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Artech Information System",
-        "id": "9cf0ea6b-b526-4798-a18d-ad90610b4edb",
-        "title": "Deskside Support Representative",
-        "active": false,
-        "date_updated": 1762908587,
-        "date_posted": 1755028789,
-        "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/101588911",
-        "locations": [
-            "Quincy, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Artech-Information-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "US Tech Solutions",
-        "id": "ce5e84d5-f07d-4a1f-afc4-55564501d397",
-        "title": "Software Engineer",
-        "active": true,
-        "date_updated": 1755027490,
-        "date_posted": 1755027490,
-        "url": "https://jobs.smartrecruiters.com/USTechSolutions2/88304281",
-        "locations": [
-            "Tarentum, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/US-Tech-Solutions",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Texas A&M International University",
         "id": "ac40bd53-efdc-494b-8a02-10c8be8ff19e",
@@ -238414,7 +238378,7 @@
         "company_name": "FISPAN",
         "id": "779ad37e-a8dc-4fae-8427-f2e32174dc82",
         "title": "Data Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773095637,
         "date_posted": 1773095637,
         "url": "https://fispan.bamboohr.com/careers/439/",
