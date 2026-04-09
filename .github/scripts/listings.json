@@ -1,39 +1,5 @@
 [
     {
-        "date_updated": 1755872498,
-        "url": "https://cvshealth.wd1.myworkdayjobs.com/en-US/cvs_health_careers/job/TX---Work-from-home/Associate-Cloud-Architect_R0619090",
-        "company_name": "CVS Health",
-        "title": "Associate Cloud Architect",
-        "locations": [
-            "Remote, TX"
-        ],
-        "sponsorship": "Other",
-        "active": true,
-        "source": "AlmondCroffle",
-        "id": "9f79d21a-4429-44cd-a2fc-d4b4721f0e65",
-        "date_posted": 1754991209,
-        "company_url": "",
-        "is_visible": false,
-        "degrees": []
-    },
-    {
-        "date_updated": 1761555444,
-        "url": "https://remodelhealth.com/resources/job/?gh_jid=4880033008",
-        "company_name": "Remodel Health",
-        "title": "Junior Software Engineer",
-        "locations": [
-            "Indianapolis, IN"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "source": "AlmondCroffle",
-        "id": "39827fea-c12e-438f-a718-8b6d2c41df51",
-        "date_posted": 1754991338,
-        "company_url": "",
-        "is_visible": true,
-        "degrees": []
-    },
-    {
         "date_updated": 1755223347,
         "url": "https://ssctech.wd1.myworkdayjobs.com/en-US/ssctechnologies/job/Union-NJ/Junior-AI-Assisted-Software-Engineer_R36039",
         "company_name": "SS&C",
@@ -72531,24 +72497,6 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/AG-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Prosidian Consulting",
-        "id": "71cf4be6-3a6e-4091-a8ba-fbf8ab118a9f",
-        "title": "GIS Specialist - Technician - Levels 1 and 2",
-        "active": true,
-        "date_updated": 1754991748,
-        "date_posted": 1754991748,
-        "url": "https://jobs.smartrecruiters.com/prosidianconsulting/743999987474433",
-        "locations": [
-            "Washington, DC"
-        ],
-        "company_url": "https://simplify.jobs/c/ProSidian-Consulting",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -171963,7 +171911,7 @@
         "company_name": "WTW",
         "id": "d96bc170-c24c-46b8-b84e-bb94f9f3b9cc",
         "title": "Early Careers: Investment Analyst - Multiple Locations - 2026",
-        "active": true,
+        "active": false,
         "date_updated": 1761869647,
         "date_posted": 1761869647,
         "url": "https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/jobs/job/202506183",
