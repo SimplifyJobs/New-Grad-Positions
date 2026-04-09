@@ -273837,24 +273837,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "360 IT Professionals",
-        "id": "7449686a-f04b-4a12-8e35-0478b4c2f862",
-        "title": "Java Backend Developer - Linux environment",
-        "active": true,
-        "date_updated": 1774949907,
-        "date_posted": 1754997822,
-        "url": "https://jobs.smartrecruiters.com/360ITProfessionals1/114682520",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/360-IT-Professionals",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "USM Business Systems",
         "id": "530a8435-9ad4-4ba8-8b05-2cbc6e7532a9",
@@ -282074,7 +282056,7 @@
         "company_name": "Sainsbury's",
         "id": "aa6730c8-0731-4bba-9de6-8b74c61409f6",
         "title": "Trading Assistant - Shift",
-        "active": false,
+        "active": true,
         "date_updated": 1775255041,
         "date_posted": 1775254033,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054446",
