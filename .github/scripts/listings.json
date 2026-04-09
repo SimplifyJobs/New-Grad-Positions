@@ -10375,24 +10375,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Applied Intuition",
-        "id": "e7ccdcef-3b63-4e49-8d4b-9a8ccbbaee67",
-        "title": "Embedded Software Engineer \u2013 New Grad",
-        "active": false,
-        "date_updated": 1761831150,
-        "date_posted": 1755029047,
-        "url": "https://boards.greenhouse.io/appliedintuition/jobs/4592027005",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Applied-Intuition",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Verkada",
         "id": "5ebdc12b-1fa5-4a99-aa76-6e5db5368ff8",
@@ -71472,60 +71454,6 @@
             "LA"
         ],
         "company_url": "https://simplify.jobs/c/Viridien",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "US Tech Solutions",
-        "id": "463439ef-22a8-4e92-9fb9-e2b8362e7e24",
-        "title": "Helpdesk Support",
-        "active": false,
-        "date_updated": 1755030173,
-        "date_posted": 1755030173,
-        "url": "https://jobs.smartrecruiters.com/USTechSolutions2/101773710",
-        "locations": [
-            "Columbus, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/US-Tech-Solutions",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Kanshe Infotech",
-        "id": "282bfc90-cc00-417a-b8ba-93ce5629f51b",
-        "title": "Generative AI Training",
-        "active": false,
-        "date_updated": 1755029062,
-        "date_posted": 1755029062,
-        "url": "https://jobs.smartrecruiters.com/KansheInfotech/744000072092977",
-        "locations": [
-            "Raleigh, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Kanshe-Infotech",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "ByteDance",
-        "id": "a4db1cdd-98a3-4e59-b6c0-9baff85f5a46",
-        "title": "Software Engineer Graduate - Developer Infra - BS/MS",
-        "active": false,
-        "date_updated": 1755029009,
-        "date_posted": 1755029009,
-        "url": "https://jobs.bytedance.com/en/position/7536272435440716040/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
