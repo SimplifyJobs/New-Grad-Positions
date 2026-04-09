@@ -1,22 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Uber",
-        "id": "e31c7e60-47e7-40ec-86e9-f01ebc4caefb",
-        "title": "Graduate 2025 Software Engineer I",
-        "active": false,
-        "date_updated": 1755192208,
-        "date_posted": 1755036609,
-        "url": "https://www.uber.com/global/en/careers/list/147250/",
-        "locations": [
-            "San Francisco"
-        ],
-        "company_url": "https://simplify.jobs/c/Uber",
-        "is_visible": false,
-        "sponsorship": "Other"
-    },
-    {
         "date_updated": 1755589689,
         "url": "https://jobs.careers.microsoft.com/global/en/job/1858310/Software-Engineer",
         "company_name": "Microsoft",
@@ -71060,24 +71043,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Artech Information System",
-        "id": "05cc2bc8-bb4a-4be7-af41-9bf8711a56b7",
-        "title": "Desktop Support",
-        "active": false,
-        "date_updated": 1762906075,
-        "date_posted": 1755036872,
-        "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/116158084",
-        "locations": [
-            "Beaumont, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Artech-Information-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Northrop Grumman",
         "id": "ecb3b9b0-689a-49d9-a5c5-247b0e38ed18",
         "title": "Computer System Administrator",
@@ -82371,7 +82336,7 @@
         "company_name": "Apple",
         "id": "56cc76b7-a1a1-436f-9153-79169cd4c63f",
         "title": "Integration Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1763513841,
         "date_posted": 1763513841,
         "url": "https://jobs.apple.com/en-us/details/200629915",
@@ -117832,7 +117797,7 @@
         "company_name": "Mintlify",
         "id": "52bf00f3-b325-414e-b820-7e50eb8c5314",
         "title": "Support Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1765964682,
         "date_posted": 1758158624,
         "url": "https://jobs.ashbyhq.com/Mintlify/4b5b6945-1a80-49fe-8bcb-64b3075e7b5f/application",
@@ -263879,7 +263844,7 @@
         "company_name": "Gartner",
         "id": "fe73fdc7-21d1-45d5-b1f4-e7d30dbe1161",
         "title": "Digital Product Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1774085873,
         "date_posted": 1774085873,
         "url": "https://gartner.wd5.myworkdayjobs.com/EXT/job/Irving-TX/Digital-Product-Analyst_106004",
