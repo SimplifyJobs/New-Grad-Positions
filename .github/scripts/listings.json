@@ -1,37 +1,5 @@
 [
     {
-        "date_updated": 1755223347,
-        "url": "https://ssctech.wd1.myworkdayjobs.com/en-US/ssctechnologies/job/Union-NJ/Junior-AI-Assisted-Software-Engineer_R36039",
-        "company_name": "SS&C",
-        "title": "Junior AI-Assisted Software Engineer",
-        "locations": [
-            "Union, NJ"
-        ],
-        "sponsorship": "Other",
-        "active": true,
-        "source": "AlmondCroffle",
-        "id": "0a1235f1-ce89-40a8-a94d-f053e58c9904",
-        "date_posted": 1755006927,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1755418026,
-        "url": "https://cat.wd5.myworkdayjobs.com/en-US/solarturbines/job/San-Diego-California/Entry-Level-Controls---Software-Test-Engineer_R0000318546",
-        "company_name": "Solar Turbines",
-        "title": "Entry Level Controls & Software Test Engineer",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "sponsorship": "Other",
-        "active": true,
-        "source": "AlmondCroffle",
-        "id": "9c770eb9-1372-4a9c-acbd-8585aa18053a",
-        "date_posted": 1755007024,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
         "date_updated": 1763710136,
         "url": "https://www.databricks.com/company/careers/university-recruiting/data-scientist---new-grad-2026-start-6866554002?gh_jid=6866554002",
         "company_name": "Databricks",
@@ -72259,24 +72227,6 @@
             "Kalamazoo, MI"
         ],
         "company_url": "https://simplify.jobs/c/Artech-Information-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Prosidian Consulting",
-        "id": "156f18c9-3a0d-4e0b-b5a3-3b879cc05271",
-        "title": "PPM Data Scientist/Statistician 1",
-        "active": false,
-        "date_updated": 1761938119,
-        "date_posted": 1755007124,
-        "url": "https://jobs.smartrecruiters.com/prosidianconsulting/743999691968534",
-        "locations": [
-            "Boulder, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/ProSidian-Consulting",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -245697,7 +245647,7 @@
         "company_name": "Honeywell",
         "id": "0929ee2f-143b-4876-aa05-7641066b184c",
         "title": "Finance Data Analyst 1",
-        "active": true,
+        "active": false,
         "date_updated": 1773353594,
         "date_posted": 1773353594,
         "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/143127",
@@ -253831,7 +253781,7 @@
         "company_name": "KBR",
         "id": "ef86991f-7913-4101-ab25-59c75e0f9bf7",
         "title": "Power Apps Developer \u2013 Entry Level",
-        "active": true,
+        "active": false,
         "date_updated": 1773788525,
         "date_posted": 1773788525,
         "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Leatherhead-Surrey-United-Kingdom/Power-Apps-Developer---Entry-Level_R2120553-2",
@@ -286729,7 +286679,7 @@
         "company_name": "Sainsbury's",
         "id": "73060319-ef4d-48d6-b5ef-fe3b6366d4d6",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1775555821,
         "date_posted": 1775552691,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056367",
@@ -289086,7 +289036,7 @@
         "company_name": "Peraton",
         "id": "156073b5-694e-4c7d-b540-7c2da95aa154",
         "title": "GIS Applications Programmer",
-        "active": true,
+        "active": false,
         "date_updated": 1775659487,
         "date_posted": 1775657180,
         "url": "https://careers-peraton.icims.com/jobs/165517/job?mobile=true&needsRedirect=false",
@@ -289333,7 +289283,7 @@
         "company_name": "Sainsbury's",
         "id": "32876b39-42e3-42f8-afa5-89ee681fbc18",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1775688849,
         "date_posted": 1775686070,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056554",
@@ -290491,7 +290441,7 @@
         "company_name": "Sainsbury's",
         "id": "ac4fcabd-1425-4ccf-a254-aeb025b53a19",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1775728989,
         "date_posted": 1775725802,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056585",
