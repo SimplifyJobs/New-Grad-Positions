@@ -266775,7 +266775,7 @@
         "company_name": "Varian",
         "id": "928db489-f3fc-4310-95d0-24f58d1d07b8",
         "title": "Software Engineer - DevOps/.NET/Azure",
-        "active": false,
+        "active": true,
         "date_updated": 1774479163,
         "date_posted": 1774479163,
         "url": "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/HES/DevOps-Engineer_R-26937-1",
@@ -269656,7 +269656,7 @@
         "company_name": "La-Z-Boy",
         "id": "79a7c274-4eac-4b37-817c-9cbb551c60b1",
         "title": "Upholstery Designer 2",
-        "active": false,
+        "active": true,
         "date_updated": 1774583714,
         "date_posted": 1774573530,
         "url": "https://lazboy.wd1.myworkdayjobs.com/lzbcareers/job/Dayton-TN/Upholstery-Designer-II_JR132188",
@@ -281700,7 +281700,7 @@
         "company_name": "SciTec",
         "id": "7a1e04ba-bbb4-4d41-9285-fe3d938163e1",
         "title": "Associate Mission Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1775169541,
         "date_posted": 1775167775,
         "url": "https://apply.workable.com/scitec/j/66E4D7E6C6/apply",
@@ -287090,7 +287090,7 @@
         "company_name": "Shyft Solutions",
         "id": "770d4ef2-5cae-4731-a171-9bb3e76f22bc",
         "title": "Full-Stack Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1775516828,
         "date_posted": 1775513513,
         "url": "https://job-boards.greenhouse.io/shyftsolutionsllc/jobs/5843189004",
@@ -290957,6 +290957,86 @@
             "Lincoln, NE"
         ],
         "company_url": "https://simplify.jobs/c/State-Of-Nebraska",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Daimler Truck",
+        "id": "9098568e-059e-414e-b1f4-6ad56f5bbfd7",
+        "title": "Vehicle & Systems Integration Engineer 1",
+        "active": true,
+        "date_updated": 1775689619,
+        "date_posted": 1775686143,
+        "url": "https://dtna.wd5.myworkdayjobs.com/dtna_affiliate/job/Portland-OR-US/Vehicle---Systems-Integration-Engineer-I_DT-17492-1",
+        "locations": [
+            "Portland, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Daimler-Truck",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Northrop Grumman",
+        "id": "87a10b4b-fa78-451c-95fc-93cddec8c1ee",
+        "title": "Configuration Data Management Controller",
+        "active": true,
+        "date_updated": 1775689572,
+        "date_posted": 1775686195,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/Configuration-Data-Management-Controller---Level-2-3_R10228162",
+        "locations": [
+            "Chandler, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Affirm",
+        "id": "8c35559c-325f-4e42-9e4f-f351e361e93c",
+        "title": "Software Engineer 1 - Backend",
+        "active": true,
+        "date_updated": 1775688868,
+        "date_posted": 1775686043,
+        "url": "https://job-boards.greenhouse.io/affirm/jobs/7673126003",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Affirm",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Bellwether",
+        "id": "5d4243df-bc79-4e3e-8922-e872ccb79bd6",
+        "title": "Systems Analyst - Debt",
+        "active": true,
+        "date_updated": 1775689572,
+        "date_posted": 1775686141,
+        "url": "https://jobs.lever.co/bellwetheram-2/8156b96c-3a31-47c2-9bb5-de57c0e11e12/apply",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Bellwether",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
