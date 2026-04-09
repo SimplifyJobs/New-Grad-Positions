@@ -72831,80 +72831,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "AG Technologies",
-        "id": "082e48cd-d716-48a3-9680-8a4a7fa39d35",
-        "title": "Devops/ Java/OBIEE/Salesforce training and placement",
-        "active": true,
-        "date_updated": 1761824659,
-        "date_posted": 1754983810,
-        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/104662317",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/AG-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Artech Information System",
-        "id": "12e8ea06-559f-4b5e-9e90-6178e5e41afb",
-        "title": "Deskside Support",
-        "active": false,
-        "date_updated": 1762906203,
-        "date_posted": 1754983630,
-        "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/106175255",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Artech-Information-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Artech Information System",
-        "id": "1d6041b5-1263-4908-9c29-5713c0745d21",
-        "title": "Deskside Support",
-        "active": false,
-        "date_updated": 1761802365,
-        "date_posted": 1754982850,
-        "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/743999653896769",
-        "locations": [
-            "Bedminster, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/Artech-Information-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "AG Technologies",
-        "id": "0338faf9-a513-4bdd-9a48-933f2ed6c3af",
-        "title": "Software Engineer Position",
-        "active": false,
-        "date_updated": 1761836321,
-        "date_posted": 1754982223,
-        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/103631768",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/AG-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Texas A&M International University",
         "id": "ac40bd53-efdc-494b-8a02-10c8be8ff19e",
@@ -285315,7 +285241,7 @@
         "company_name": "The Boeing Company",
         "id": "b381b9ff-2013-49e6-891c-c85f6a6139ad",
         "title": "Associate Test & Evaluation Lab Tech - Metrology & Calibration",
-        "active": true,
+        "active": false,
         "date_updated": 1775303821,
         "date_posted": 1775298174,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Salt-Lake-City-UT/Associate-Test---Evaluation-Lab-Tech--Metrology---Calibration-_JR2026502141-1",
