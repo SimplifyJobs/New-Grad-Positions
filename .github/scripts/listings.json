@@ -2,26 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Salesforce",
-        "id": "00402230-0088-405d-aa27-d1360064a72c",
-        "title": "Software Engineering AMTS \u2013 New Grad",
-        "active": false,
-        "date_updated": 1755030902,
-        "date_posted": 1755030902,
-        "url": "https://salesforce.wd12.myworkdayjobs.com/en-us/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS--New-Grad-_JR307625-1",
-        "locations": [
-            "Palo Alto, CA",
-            "Seattle, WA",
-            "SF",
-            "Bellevue, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Salesforce",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Anduril Industries",
         "id": "41ff9380-1d22-490e-a190-d2eb855c621f",
         "title": "Early Career Software Engineer",
@@ -2402,26 +2382,6 @@
         "url": "https://jobs.smartrecruiters.com/AGTechnologies1/112610151",
         "locations": [
             "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/AG-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "AG Technologies",
-        "id": "4cd6bf41-3d9b-4c7f-acd7-860beed0ea55",
-        "title": "Hiring Entry Level Software Engineer",
-        "active": true,
-        "date_updated": 1755030919,
-        "date_posted": 1755030919,
-        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/743999655794970",
-        "locations": [
-            "San Jose, CA"
         ],
         "company_url": "https://simplify.jobs/c/AG-Technologies",
         "is_visible": true,
@@ -71380,80 +71340,6 @@
             "Mississauga, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/CDW-Corporation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "CDW Corporation",
-        "id": "d3371ce4-1d8b-43d0-8e3b-dd0dd5517c8b",
-        "title": "Field Services Engineer",
-        "active": false,
-        "date_updated": 1755032273,
-        "date_posted": 1755032273,
-        "url": "https://cdw.wd5.myworkdayjobs.com/careers/job/Peterborough---GBR/Field-Services-Engineer_R25_00001662",
-        "locations": [
-            "Peterborough, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/CDW-Corporation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Draper",
-        "id": "ccc92f22-5f36-4563-b737-02bb87904373",
-        "title": "Cyber Tool and Capability Developer",
-        "active": false,
-        "date_updated": 1755031873,
-        "date_posted": 1755031873,
-        "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Cyber-Tool-and-Capability-Developer_JR001261",
-        "locations": [
-            "Cambridge, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Draper",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Viridien",
-        "id": "1f1090aa-777c-4761-97c2-80ba0604f3b9",
-        "title": "Seismic Imaging Analyst - Subsurface Imaging",
-        "active": false,
-        "date_updated": 1755031347,
-        "date_posted": 1755031347,
-        "url": "https://cgg.wd103.myworkdayjobs.com/viridiencareers/job/Calgary-Canada/Graduate-Seismic-Analyst_JR100664",
-        "locations": [
-            "Calgary, AB, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Viridien",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Viridien",
-        "id": "f59b20d0-5189-4ce4-8c14-afe0e0c61d26",
-        "title": "Instrumentation and Monitoring Technician",
-        "active": false,
-        "date_updated": 1762929717,
-        "date_posted": 1755031312,
-        "url": "https://cgg.wd103.myworkdayjobs.com/viridiencareers/job/Los-Angeles-United-States-of-America/Instrumentation-and-Monitoring-Technician_JR100895-1",
-        "locations": [
-            "LA"
-        ],
-        "company_url": "https://simplify.jobs/c/Viridien",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
