@@ -45209,7 +45209,7 @@
         "company_name": "Businessolver",
         "id": "8fa8be23-85e7-490c-8b24-b93996f59b9a",
         "title": "Integrations Analyst 1/2",
-        "active": true,
+        "active": false,
         "date_updated": 1762910337,
         "date_posted": 1761896904,
         "url": "https://www.businessolver.com/careers/openings/?gh_jid=6346161",
@@ -247129,7 +247129,7 @@
         "company_name": "Lincoln Financial",
         "id": "970bb27c-c8d0-4f83-a692-cc2b7b5ea11e",
         "title": "Associate \u2013 Application Development ETP",
-        "active": true,
+        "active": false,
         "date_updated": 1773363993,
         "date_posted": 1773363993,
         "url": "https://jobs.lincolnfinancial.com/job/Radnor-Associate,-Application-Development-ETP-PA/1372816000/?ats=successfactors",
@@ -286863,7 +286863,7 @@
         "company_name": "Intuit",
         "id": "aa4c9a9d-eedd-4dcc-acf6-13f4493ad0fb",
         "title": "Payments Customer Supportability Professional 1",
-        "active": true,
+        "active": false,
         "date_updated": 1775525193,
         "date_posted": 1775524192,
         "url": "https://jobs.intuit.com/job/tucson/payments-customer-supportability-professional-1/27595/93662567936",
@@ -288249,7 +288249,7 @@
         "company_name": "Flextronics International",
         "id": "ece11eec-a7aa-4909-967a-65b94e703e8e",
         "title": "Repair Technician 1 - 1",
-        "active": true,
+        "active": false,
         "date_updated": 1775602082,
         "date_posted": 1775599563,
         "url": "https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-TN-Memphis/Repair-Technicain-1_WD218667",
@@ -289845,7 +289845,7 @@
         "company_name": "Arizona State University",
         "id": "cb9d705a-03f9-4a73-87fe-bc1c120595a7",
         "title": "Investment Operations and Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1775690592,
         "date_posted": 1775685859,
         "url": "https://asuep.wd5.myworkdayjobs.com/ASUEP/job/Scottsdale-AZ/Investment-Analyst_R1340",
@@ -290703,5 +290703,44 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GE Healthcare",
+        "id": "bcf47f6e-7b7e-4f04-a1ad-bc9432cb1bc9",
+        "title": "Field Service Engineer 1",
+        "active": true,
+        "date_updated": 1775729467,
+        "date_posted": 1775696855,
+        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-I---CT--MR_R4038740-1",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Healthcare",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Crusoe",
+        "id": "5b855ce3-073b-483b-b073-3ea130392628",
+        "title": "Associate Systems Software Engineer",
+        "active": true,
+        "date_updated": 1775727551,
+        "date_posted": 1762300207,
+        "url": "https://jobs.ashbyhq.com/Crusoe/39e3cfc5-c0fd-44ad-b5de-ffde8080c099/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Crusoe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
