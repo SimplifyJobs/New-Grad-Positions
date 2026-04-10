@@ -193084,7 +193084,7 @@
         "company_name": "Amazon",
         "id": "40376ce7-1646-4417-9ec8-5b9aa3777f5d",
         "title": "AI Data Associate - French - Artificial General Intelligence",
-        "active": true,
+        "active": false,
         "date_updated": 1770892093,
         "date_posted": 1764778449,
         "url": "https://amazon.jobs/en/jobs/3136504/ai-data-associate-french-artificial-general-intelligence",
@@ -240364,7 +240364,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "eddd9f96-e3d7-4f6a-9587-01f1c1add192",
         "title": "Compensation Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1773220407,
         "date_posted": 1772234020,
         "url": "https://careers-sig.icims.com/jobs/10589/job?mobile=true&needsRedirect=false",
@@ -275655,7 +275655,7 @@
         "company_name": "GovSignals",
         "id": "37c46199-78e6-4b60-9679-3a53fdb4cf5a",
         "title": "Product Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1775035621,
         "date_posted": 1770793814,
         "url": "https://jobs.ashbyhq.com/GovSignals/935e94f7-1e15-4b90-8005-1522fc9baadc/application",
@@ -288067,7 +288067,7 @@
         "company_name": "FlexGen",
         "id": "a6c340fe-19a1-4d55-a7ee-1ba9444c7afe",
         "title": "Integration Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1775723314,
         "date_posted": 1775167772,
         "url": "https://ats.rippling.com/external-job-board/jobs/9c254570-11f0-478c-a6cd-63b1337910d6",
@@ -289948,9 +289948,9 @@
         "source": "Simplify",
         "category": "Product",
         "company_name": "Mattel",
-        "id": "7ef9aa06-16ee-4765-a876-437e7b9bc2b0",
+        "id": "279b1d99-fb33-4227-8404-f54ee93faaf7",
         "title": "Associate Packaging Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1775785501,
         "date_posted": 1775783153,
         "url": "https://jobs.smartrecruiters.com/MattelInc/744000119712147",
@@ -290119,6 +290119,66 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "General Dynamics UK",
+        "id": "b37868be-64a9-494d-ab2b-bd0ec39f94ae",
+        "title": "Intermediate Systems Engineer - Applications Team",
+        "active": true,
+        "date_updated": 1775814133,
+        "date_posted": 1775811672,
+        "url": "https://jobs.smartrecruiters.com/GDMSI/744000112944285",
+        "locations": [
+            "Calgary, AB, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-UK",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Leidos",
+        "id": "4ad6d22d-e984-428e-a858-402cdfc48d80",
+        "title": "Junior Software Developer",
+        "active": true,
+        "date_updated": 1775816648,
+        "date_posted": 1775299643,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Baltimore-MD/Junior-Software-Developer_R-00179998",
+        "locations": [
+            "Woodlawn, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Amentum",
+        "id": "d2ac9137-c643-4f6c-81ed-992642034cc0",
+        "title": "Fastener Technician",
+        "active": true,
+        "date_updated": 1775814133,
+        "date_posted": 1771697017,
+        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-MI-Detroit/Fastener-Technician_R0153432",
+        "locations": [
+            "Livonia, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Amentum",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
         ]
     }
 ]
