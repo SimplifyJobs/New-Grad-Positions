@@ -46865,24 +46865,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Artech Information System",
-        "id": "80216567-4add-4ec4-992e-e5676addfb29",
-        "title": "Deskside Support - Deskside Support",
-        "active": false,
-        "date_updated": 1761802611,
-        "date_posted": 1755041928,
-        "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/104778485",
-        "locations": [
-            "Portland, ME"
-        ],
-        "company_url": "https://simplify.jobs/c/Artech-Information-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "360 IT Professionals",
         "id": "964d776a-decc-4e10-8533-bda5cd20df1f",
         "title": "Network Admin - A+ - Security+ certified",
@@ -70657,24 +70639,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "360 IT Professionals",
-        "id": "199b7980-1b02-43d5-a6fa-8f7d5e60669b",
-        "title": "Technical Support - Audio/Video",
-        "active": false,
-        "date_updated": 1755041885,
-        "date_posted": 1755041885,
-        "url": "https://jobs.smartrecruiters.com/360ITProfessionals1/105316886",
-        "locations": [
-            "Cadillac, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/360-IT-Professionals",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "360 IT Professionals",
         "id": "63270ce0-c521-406c-9218-4f234a165169",
@@ -70940,24 +70904,6 @@
         "url": "https://jobs.smartrecruiters.com/AGTechnologies1/101942086",
         "locations": [
             "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/AG-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "AG Technologies",
-        "id": "21bb76de-f51b-48bd-ab45-dbe9ba607cbd",
-        "title": "Training and Placement on Java/J2EE/Hadoop",
-        "active": false,
-        "date_updated": 1762909289,
-        "date_posted": 1755042551,
-        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/85457676",
-        "locations": [
-            "Dallas, TX"
         ],
         "company_url": "https://simplify.jobs/c/AG-Technologies",
         "is_visible": true,
@@ -270696,7 +270642,7 @@
         "company_name": "Ciena",
         "id": "cc2f2bd2-7e19-4323-beec-6820260a4c6e",
         "title": "New Grad Research Scientist Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1774842254,
         "date_posted": 1774693731,
         "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/New-Grad--Research-Scientist-Engineer_R030469",
@@ -283799,7 +283745,7 @@
         "company_name": "Sainsbury's",
         "id": "03c461fb-f41e-434f-8de5-c33f0865f65f",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1775438461,
         "date_posted": 1775437657,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056257",
