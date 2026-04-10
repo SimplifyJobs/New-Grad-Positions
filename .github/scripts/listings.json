@@ -69960,42 +69960,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Artech Information System",
-        "id": "14f4e016-4a2f-4402-891e-e993d9bc7723",
-        "title": "Desktop Support Representative",
-        "active": false,
-        "date_updated": 1762906477,
-        "date_posted": 1755072574,
-        "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/107937874",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Artech-Information-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Artech Information System",
-        "id": "ff0d32c6-a403-4f14-942d-d353cb893ce8",
-        "title": "Desk-side Support Representative",
-        "active": false,
-        "date_updated": 1755072118,
-        "date_posted": 1755072118,
-        "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/99600143",
-        "locations": [
-            "Kirkland, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Artech-Information-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Carnegie Mellon University",
         "id": "44d2b842-63f6-416c-94ef-4fc128ed9b94",
@@ -277102,7 +277066,7 @@
         "company_name": "RTX",
         "id": "cd2bc327-ac6a-4bf1-ab01-0ec81e9dac4c",
         "title": "Systems Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1775086150,
         "date_posted": 1775081358,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-848--1151-E-Hermans-Rd--BLDG-848/XMLNAME-2026-Systems-Engineer-I---Onsite_01831793",
@@ -286237,7 +286201,7 @@
         "company_name": "RTX",
         "id": "012b840a-18f9-4f72-b917-291ff7ba2bb9",
         "title": "Fulltime-Optical Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1775612069,
         "date_posted": 1775610521,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/XMLNAME-2026-Fulltime--Optical-Engineer-I---Onsite-_01836195",
