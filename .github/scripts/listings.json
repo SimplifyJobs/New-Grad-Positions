@@ -211873,7 +211873,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "994c7dea-1b93-4530-9438-b0ec84225bcb",
         "title": "Manager \u2013 Analytics Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1771893137,
         "date_posted": 1771893137,
         "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Manager---Analytics-Engineer_R-0000160543-1",
@@ -255163,7 +255163,7 @@
         "company_name": "University of Arkansas",
         "id": "7827d202-eb46-4b93-8cd8-45611c91468b",
         "title": "Graduate Assistant - Data Science",
-        "active": true,
+        "active": false,
         "date_updated": 1773959293,
         "date_posted": 1773959293,
         "url": "https://uasys.wd5.myworkdayjobs.com/UAF_External_Career_Site/job/Fayetteville/Graduate-Assistant---Data-Science-9-MONTH_R0082554-1",
@@ -255803,7 +255803,7 @@
         "company_name": "University of Arkansas",
         "id": "9b48bb08-b4b3-4d4d-8fe7-f45594b0dd49",
         "title": "Graduate Assistant - Data Science",
-        "active": true,
+        "active": false,
         "date_updated": 1773961919,
         "date_posted": 1773961919,
         "url": "https://uasys.wd5.myworkdayjobs.com/uasys/job/Fayetteville/Graduate-Assistant---Data-Science-9-MONTH_R0082554-2",
@@ -286136,7 +286136,7 @@
         "company_name": "Cisco",
         "id": "fbf5a24d-a457-49f8-8d8e-4c06fbd47dd1",
         "title": "Software Engineer Front-End 2",
-        "active": true,
+        "active": false,
         "date_updated": 1775612215,
         "date_posted": 1775610602,
         "url": "https://careers.cisco.com/global/en/job/2010725",
@@ -290095,6 +290095,45 @@
             "Brighton, UK"
         ],
         "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "25ac2b37-a149-4b03-b823-b3655e741ece",
+        "title": "Raytheon Full Time",
+        "active": true,
+        "date_updated": 1775802886,
+        "date_posted": 1775801197,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/XMLNAME-2026-Raytheon-Full-Time---Software-Effectors-Engineer-I---Tucson--AZ--Onsite-_01835713-1",
+        "locations": [
+            "Tucson, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Uplifter",
+        "id": "6b56e690-dbcc-487f-8e75-d04ccec4fb1f",
+        "title": "Product Specialist",
+        "active": true,
+        "date_updated": 1775803035,
+        "date_posted": 1775802223,
+        "url": "https://job-boards.greenhouse.io/uplifter/jobs/4215254009",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Mississauga, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Uplifter",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
