@@ -1,70 +1,5 @@
 [
     {
-        "date_updated": 1755155700,
-        "url": "https://careers-gannettfleming.icims.com/jobs/12404/entry-level-software-developer/job",
-        "company_name": "Gannett Fleming",
-        "title": "Entry Level Software Developer",
-        "locations": [
-            "San Diego, CA",
-            "Chicago, IL"
-        ],
-        "sponsorship": "Other",
-        "active": true,
-        "source": "AlmondCroffle",
-        "id": "f8afaa29-d90b-499f-bcd6-bdb1709071e9",
-        "date_posted": 1755052838,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1755284191,
-        "url": "https://job-boards.greenhouse.io/appliedintuition/jobs/4592027005?gh_jid=4592027005",
-        "company_name": "Applied Intuition",
-        "title": "Embedded Software Engineer",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "sponsorship": "Other",
-        "active": true,
-        "source": "AlmondCroffle",
-        "id": "30855501-03e4-44ce-98c1-cc68924ce170",
-        "date_posted": 1755052904,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1755283714,
-        "url": "https://job-boards.greenhouse.io/appliedintuition/jobs/4489211005?gh_jid=4489211005",
-        "company_name": "Applied Intuition",
-        "title": "Research Scientist",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "sponsorship": "Other",
-        "active": true,
-        "source": "AlmondCroffle",
-        "id": "37534fef-92db-4930-aa0c-6c9a5cbd86ba",
-        "date_posted": 1755052966,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1755283729,
-        "url": "https://job-boards.greenhouse.io/appliedintuition/jobs/4592025005?gh_jid=4592025005",
-        "company_name": "Applied Intuition",
-        "title": "Software Engineer",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "sponsorship": "Other",
-        "active": true,
-        "source": "AlmondCroffle",
-        "id": "0c3584aa-5224-43ae-960d-faa5dd6e5ae2",
-        "date_posted": 1755053017,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "source": "Simplify",
         "category": "Software",
         "company_name": "Boston Scientific",
@@ -70419,43 +70354,6 @@
             "Denver, CO"
         ],
         "company_url": "https://simplify.jobs/c/360-IT-Professionals",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Artech Information System",
-        "id": "fce75bf0-e544-4f2d-901f-175059e07172",
-        "title": "Deskside Support",
-        "active": false,
-        "date_updated": 1761802044,
-        "date_posted": 1755053889,
-        "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/102769617",
-        "locations": [
-            "Alpharetta, GA",
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Artech-Information-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Artech Information System",
-        "id": "6dea6006-1f11-4801-891d-520662e3f96a",
-        "title": "Deskside support",
-        "active": false,
-        "date_updated": 1761801183,
-        "date_posted": 1755053748,
-        "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/112492058",
-        "locations": [
-            "Charlotte, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Artech-Information-System",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -286302,7 +286200,7 @@
         "company_name": "Charles Schwab",
         "id": "511c93eb-21bf-4f1b-a6b5-9fd1de6a74fe",
         "title": "Associate - Software Development & Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1775605153,
         "date_posted": 1775599648,
         "url": "https://career-schwab.icims.com/jobs/118961/job?mobile=true&needsRedirect=false",
