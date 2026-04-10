@@ -70069,24 +70069,6 @@
         "source": "Simplify",
         "category": "Software",
         "company_name": "Artech Information System",
-        "id": "a2712825-962a-44c5-aa98-cb60c2aad3b1",
-        "title": "Deskside Support",
-        "active": false,
-        "date_updated": 1761801989,
-        "date_posted": 1755059267,
-        "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/104778382",
-        "locations": [
-            "Pasadena, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Artech-Information-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Artech Information System",
         "id": "458f3ca0-ed67-45c1-aac0-89b4c40c1f78",
         "title": "Desktop Technician",
         "active": false,
@@ -70280,42 +70262,6 @@
         "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/743999658293052",
         "locations": [
             "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Artech-Information-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Prosidian Consulting",
-        "id": "045e0545-9791-468b-a3f0-2822c23b5eea",
-        "title": "GIS Analyst - Environmental Consulting and Management Services",
-        "active": false,
-        "date_updated": 1755059165,
-        "date_posted": 1755059165,
-        "url": "https://jobs.smartrecruiters.com/prosidianconsulting/744000028638835",
-        "locations": [
-            "Tallahassee, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/ProSidian-Consulting",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Artech Information System",
-        "id": "0893304d-61f7-48b1-87a6-3a75db7ca309",
-        "title": "IT Support",
-        "active": false,
-        "date_updated": 1755058623,
-        "date_posted": 1755058623,
-        "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/98900920",
-        "locations": [
-            "Philadelphia, PA"
         ],
         "company_url": "https://simplify.jobs/c/Artech-Information-System",
         "is_visible": true,
@@ -81400,7 +81346,7 @@
         "company_name": "Apple",
         "id": "25a85892-5b38-4bdf-af39-3e37ebbfa917",
         "title": "Design Verification Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1763514529,
         "date_posted": 1763514529,
         "url": "https://jobs.apple.com/en-us/details/200619242",
@@ -273121,26 +273067,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "AG Technologies",
-        "id": "0e199a5d-3608-47d3-a12c-d37d2fc83bba",
-        "title": "Software Engineer",
-        "active": true,
-        "date_updated": 1774953761,
-        "date_posted": 1755058741,
-        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/108479454",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/AG-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "ASOS plc",
         "id": "fb08a0bc-478e-410e-90d7-6b5c28afaf33",
@@ -280256,7 +280182,7 @@
         "company_name": "RTX",
         "id": "4fc9c031-6827-4d36-aabd-84f48d482be7",
         "title": "Raytheon Full Time - Software Effectors Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1775256122,
         "date_posted": 1775254060,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/XMLNAME-2026-Raytheon-Full-Time---Software-Effectors-Engineer-I---Tucson--AZ--Onsite-_01835713",
@@ -282740,7 +282666,7 @@
         "company_name": "Enbridge",
         "id": "32677a39-f1eb-4718-9e7e-f44a0cb1d8fb",
         "title": "Engineer in Training 1",
-        "active": true,
+        "active": false,
         "date_updated": 1775303669,
         "date_posted": 1775299574,
         "url": "https://enbridge.wd3.myworkdayjobs.com/enbridge_careers/job/North-York-ON-CAN/Engineer-in-Training-I_70734-1",
@@ -289285,7 +289211,7 @@
         "company_name": "Vanguard",
         "id": "dce0c374-1ab3-4f72-b4b5-a95c098791d5",
         "title": "Application Engineer - I - PI Tech",
-        "active": true,
+        "active": false,
         "date_updated": 1775774169,
         "date_posted": 1775772467,
         "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/contractors_restricted/job/Malvern-PA/Application-Engineer---I---PI-Tech_171220",
