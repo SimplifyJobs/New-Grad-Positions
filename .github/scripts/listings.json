@@ -2069,24 +2069,6 @@
         ]
     },
     {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "AG Technologies",
-        "id": "b436d340-b5eb-4419-a709-6af74ee13256",
-        "title": "Hiring Entry Level Software Engineer",
-        "active": true,
-        "date_updated": 1756202139,
-        "date_posted": 1755063903,
-        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/743999655719751",
-        "locations": [
-            "San Francisco, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/AG-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
         "date_updated": 1755716125,
         "sponsorship": "Other",
         "active": true,
@@ -70044,96 +70026,6 @@
             "Pittsburgh, PA"
         ],
         "company_url": "https://simplify.jobs/c/Carnegie-Mellon-University",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Artech Information System",
-        "id": "458f3ca0-ed67-45c1-aac0-89b4c40c1f78",
-        "title": "Desktop Technician",
-        "active": false,
-        "date_updated": 1755063280,
-        "date_posted": 1755063280,
-        "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/99604327",
-        "locations": [
-            "Phoenix, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Artech-Information-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "US Tech Solutions",
-        "id": "307117ed-d295-4342-8f4e-95f53ab79c2a",
-        "title": "IT Help Desk Support",
-        "active": false,
-        "date_updated": 1755064209,
-        "date_posted": 1755064209,
-        "url": "https://jobs.smartrecruiters.com/USTechSolutions2/107756651",
-        "locations": [
-            "Woodland, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/US-Tech-Solutions",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Avance Consulting",
-        "id": "28a5c53d-72a2-4086-9f70-36517c40365a",
-        "title": "Technology Analyst - Cocoa",
-        "active": false,
-        "date_updated": 1755064163,
-        "date_posted": 1755064163,
-        "url": "https://jobs.smartrecruiters.com/AvanceConsultingServices2/84052389",
-        "locations": [
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Avance-Consulting",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "360 IT Professionals",
-        "id": "8fabfa5f-2c9b-4111-8ce4-67fdd3a331fe",
-        "title": "Desktop Support Technician",
-        "active": false,
-        "date_updated": 1762909974,
-        "date_posted": 1755063576,
-        "url": "https://jobs.smartrecruiters.com/360ITProfessionals1/116276913",
-        "locations": [
-            "Raleigh, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/360-IT-Professionals",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Artech Information System",
-        "id": "5d57262c-3b1e-43f5-b89a-e9342256d318",
-        "title": "Deskside Support Representative Distributed Client Services",
-        "active": false,
-        "date_updated": 1762906845,
-        "date_posted": 1755063246,
-        "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/101588736",
-        "locations": [
-            "Phoenix, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Artech-Information-System",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -279802,7 +279694,7 @@
         "company_name": "AbbVie",
         "id": "e6ba5661-d7ee-4e05-a180-f3ac7c72a838",
         "title": "Associate Scientist 2 - Data Engineering - Biotherapeutics and Genetic Medicine",
-        "active": true,
+        "active": false,
         "date_updated": 1775255584,
         "date_posted": 1775253847,
         "url": "https://jobs.smartrecruiters.com/AbbVie/3743990012451380",
