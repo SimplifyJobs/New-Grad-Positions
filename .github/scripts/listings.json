@@ -70549,24 +70549,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "360 IT Professionals",
-        "id": "63270ce0-c521-406c-9218-4f234a165169",
-        "title": "SQL data analyst",
-        "active": true,
-        "date_updated": 1761831551,
-        "date_posted": 1755050209,
-        "url": "https://jobs.smartrecruiters.com/360ITProfessionals1/94518372",
-        "locations": [
-            "Charlotte, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/360-IT-Professionals",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Carnegie Mellon University",
         "id": "2e5bd688-5460-4a7a-9612-ce2a34423c75",
@@ -209537,7 +209519,7 @@
         "company_name": "NVIDIA",
         "id": "55dd328c-ae78-4740-870d-9f942c28651f",
         "title": "AI Developer Technology Engineer - Financial Sector",
-        "active": false,
+        "active": true,
         "date_updated": 1771640593,
         "date_posted": 1771640593,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Developer-Technology-Engineer--Financial-Sector---New-College-Grad-2026_JR2013803",
@@ -228517,7 +228499,7 @@
         "company_name": "General Motors",
         "id": "0a4def13-9b3a-4f3a-b3c9-5a90b20c870b",
         "title": "Software Engineer AV HIL Platform and Services \u2013 University Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1772583464,
         "date_posted": 1772583464,
         "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/Software-Engineer-AV-HIL-Platform-and-Services--University-Grad-_JR-202604577",
@@ -251847,7 +251829,7 @@
         "company_name": "University of Pennsylvania",
         "id": "a8ef631d-84ea-4472-8111-133d1ccfd984",
         "title": "Research Specialist",
-        "active": false,
+        "active": true,
         "date_updated": 1773785001,
         "date_posted": 1773785001,
         "url": "https://upenn.wd1.myworkdayjobs.com/careers-at-penn/job/McNeil-Building/Research-Specialist--The-Center-for-Social-Norms-and-Behavioral-Dynamics_JR00117192",
@@ -260601,7 +260583,7 @@
         "company_name": "TKO Group Holdings, Inc",
         "id": "7cd18f2b-c90c-43d1-b3ba-7dcf3f42e2f0",
         "title": "Data Governance Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1773736309,
         "date_posted": 1772695034,
         "url": "https://wwecorp.wd5.myworkdayjobs.com/tko/job/Stamford-CT--WWE-Headquarters/Data-Governance-Analyst_R0007326",
@@ -277162,7 +277144,7 @@
         "company_name": "RELX",
         "id": "29682ec8-d0e7-4dd5-8c45-281a52fd8883",
         "title": "Associate Product Manager - Data & Insights",
-        "active": false,
+        "active": true,
         "date_updated": 1775084316,
         "date_posted": 1775081195,
         "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Home-based-Ohio/Associate-Product-Manager--Data---Insights-_R111371-1",
@@ -277582,7 +277564,7 @@
         "company_name": "LexisNexis Legal & Professional",
         "id": "fb50c289-b77d-4de1-89fa-82341316f4c4",
         "title": "Associate Product Manager - Data & Insights",
-        "active": false,
+        "active": true,
         "date_updated": 1775086194,
         "date_posted": 1775081205,
         "url": "https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Home-based-Ohio/Associate-Product-Manager--Data---Insights-_R111371",
@@ -288578,7 +288560,7 @@
         "company_name": "Eurofins",
         "id": "5b4e21d5-c4c6-4015-bf44-4a85c4144eac",
         "title": "Application Engineer - Semiconductor Devices Testing",
-        "active": true,
+        "active": false,
         "date_updated": 1775697670,
         "date_posted": 1775696660,
         "url": "https://jobs.smartrecruiters.com/Eurofins/744000119479208",
@@ -290425,5 +290407,271 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "KLA",
+        "id": "a107f00e-5d3d-47dc-9008-d64ff6a5124a",
+        "title": "Product Development Engineer - Multiple Teams",
+        "active": true,
+        "date_updated": 1775785156,
+        "date_posted": 1775783153,
+        "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Product-Development-Engineer--Optical-Metrology-Inspection-_2635499-2",
+        "locations": [
+            "Ann Arbor, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/KLA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "6ca7d99f-49fb-4d33-a6f3-62dd4e925958",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1775785156,
+        "date_posted": 1775783181,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056234",
+        "locations": [
+            "Brighton, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "KLA",
+        "id": "5089bdf6-fc72-4b07-b225-80e31bd7b1f6",
+        "title": "Product Development Engineer - Multiple Teams",
+        "active": true,
+        "date_updated": 1775785156,
+        "date_posted": 1775783120,
+        "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Ann-Arbor-MI/Product-Development-Engineer--Optical-Metrology-Inspection-_2635499",
+        "locations": [
+            "Ann Arbor, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/KLA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Viridien",
+        "id": "f2caf2c1-c5c4-4da8-9f99-97df65bc4cc1",
+        "title": "Seismic Imaging Analyst",
+        "active": true,
+        "date_updated": 1775785156,
+        "date_posted": 1775783281,
+        "url": "https://cgg.wd103.myworkdayjobs.com/viridiencareers/job/Calgary-Canada/Seismic-Imaging-Analyst_JR101234-1",
+        "locations": [
+            "Calgary, AB, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Viridien",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northrop Grumman",
+        "id": "7bc68aae-00e4-476d-9492-046e909db0e6",
+        "title": "Engineering Technician 2 / Engineering Technician 3",
+        "active": true,
+        "date_updated": 1775785545,
+        "date_posted": 1775783271,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-El-Segundo/Engineering-Technician-2---Engineering-Tech-3_R10228777",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Microchip Technology",
+        "id": "71c693fd-5b27-4f1b-9330-90505c5c0f5c",
+        "title": "Engineer 1 - Applications",
+        "active": true,
+        "date_updated": 1775785499,
+        "date_posted": 1775783226,
+        "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/AZ---Chandler/Engineer-I--Applications_R559-26",
+        "locations": [
+            "San Jose, CA",
+            "Chandler, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Microchip-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "KLA",
+        "id": "4e890b99-71e4-4204-ba54-0dfb6efff6b2",
+        "title": "Product Development Engineer - Multiple Teams",
+        "active": true,
+        "date_updated": 1775785156,
+        "date_posted": 1775783121,
+        "url": "https://kla.wd1.myworkdayjobs.com/AnnArbor/job/Ann-Arbor-MI/Product-Development-Engineer--Optical-Metrology-Inspection-_2635499-1",
+        "locations": [
+            "Ann Arbor, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/KLA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TalentWerx",
+        "id": "225a8847-050f-437a-ba17-8f3954fb2af4",
+        "title": "Linux Systems Engineer 1",
+        "active": true,
+        "date_updated": 1775785434,
+        "date_posted": 1775782926,
+        "url": "https://jobs.lever.co/talentwerx.io/43caca17-bf16-4f18-a0b1-9fba80fc7b11/apply",
+        "locations": [
+            "Hampton, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/TalentWerx",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Anthropic",
+        "id": "cbd849a6-3f10-4184-9849-bdd8e45f6bc6",
+        "title": "Anthropic Fellows Program - Reinforcement Learning",
+        "active": true,
+        "date_updated": 1775785156,
+        "date_posted": 1775783144,
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5183052008",
+        "locations": [
+            "London, UK",
+            "SF",
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Anthropic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Mattel",
+        "id": "7ef9aa06-16ee-4765-a876-437e7b9bc2b0",
+        "title": "Associate Packaging Engineer",
+        "active": true,
+        "date_updated": 1775785501,
+        "date_posted": 1775783153,
+        "url": "https://jobs.smartrecruiters.com/MattelInc/744000119712147",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Mattel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "6ea1561a-016c-4371-8c16-cc0f4102415d",
+        "title": "Software Engineer - Recommendation Infrastructure",
+        "active": true,
+        "date_updated": 1775785156,
+        "date_posted": 1775783523,
+        "url": "https://lifeattiktok.com/search/7624619442463050037",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Viridien",
+        "id": "409bd15f-251b-4e61-bbe9-4d988fdd9a20",
+        "title": "Seismic Imaging Analyst",
+        "active": true,
+        "date_updated": 1775785156,
+        "date_posted": 1775783272,
+        "url": "https://cgg.wd103.myworkdayjobs.com/viridiencareers/job/Houston-United-States-of-America/Seismic-Imaging-Analyst_JR101239-2",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Viridien",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "8f29d30f-21d7-4148-8e02-19dbff45ac95",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1775785156,
+        "date_posted": 1775783181,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056235",
+        "locations": [
+            "Brighton, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
