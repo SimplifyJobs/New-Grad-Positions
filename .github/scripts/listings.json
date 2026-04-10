@@ -269163,7 +269163,7 @@
         "company_name": "The Boeing Company",
         "id": "1c00d5ff-cd27-48f5-ae7d-585ecfb5863e",
         "title": "Design and Analysis Engineer - Electronic Systems Design & Analy",
-        "active": true,
+        "active": false,
         "date_updated": 1774649317,
         "date_posted": 1774649317,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Long-Beach-CA/Design-and-Analysis-Engineer--Electronic-Sys-Design---Analy-_JR2026502918-1",
@@ -285473,7 +285473,7 @@
         "company_name": "Trane Technologies",
         "id": "c7e015ea-4870-425b-b3f0-f783609990c7",
         "title": "Designer 2",
-        "active": true,
+        "active": false,
         "date_updated": 1775603008,
         "date_posted": 1775599791,
         "url": "https://careers.tranetechnologies.com/global/en/job/JR-259",
@@ -290180,5 +290180,59 @@
         "degrees": [
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "7212c56f-9106-46b6-b1f0-499a65f72fdf",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1775814311,
+        "date_posted": 1775811894,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056727",
+        "locations": [
+            "Guildford, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "40096f7d-a02f-4e19-beef-47a7aed6efa2",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1775814311,
+        "date_posted": 1775811895,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056725",
+        "locations": [
+            "York, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "b68f44fd-c334-4480-9683-b78a9380296f",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1775814311,
+        "date_posted": 1775811895,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056724",
+        "locations": [
+            "York, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
