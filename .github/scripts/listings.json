@@ -2,23 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Boston Scientific",
-        "id": "50db7037-287c-460f-a7d6-ce1abcb89b9c",
-        "title": "Software Engineer I - Engineering - Development",
-        "active": false,
-        "date_updated": 1755270603,
-        "date_posted": 1755062669,
-        "url": "https://bostonscientific.eightfold.ai/careers/job/563602803102071",
-        "locations": [
-            "Roseville, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Boston-Scientific",
-        "is_visible": false,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Apex Fintech Solutions",
         "id": "9d74aeea-fa25-46c6-af6f-3d20a6065b64",
         "title": "Software Engineer I - Aldp",
@@ -70158,101 +70141,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "360 IT Professionals",
-        "id": "1b8f4167-e4fd-42fa-bfce-d15af549ac2b",
-        "title": "Inperson Interview for Help Desk Support in Columbus Ohio",
-        "active": false,
-        "date_updated": 1762907574,
-        "date_posted": 1755062627,
-        "url": "https://jobs.smartrecruiters.com/360ITProfessionals1/115528124",
-        "locations": [
-            "Columbus, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/360-IT-Professionals",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Viridien",
-        "id": "9edd4e0f-a9d9-4be0-bda0-5170774dcac6",
-        "title": "Seismic Imaging Analyst - Subsurface Imaging team - Research and Software Development teams",
-        "active": false,
-        "date_updated": 1755062486,
-        "date_posted": 1755062486,
-        "url": "https://cgg.wd103.myworkdayjobs.com/viridiencareers/job/Houston-United-States-of-America/Seismic-Imaging-Analyst_JR100663",
-        "locations": [
-            "Houston, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Viridien",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "AG Technologies",
-        "id": "e245a1e2-65c7-49f3-843e-f3d361ff8bd4",
-        "title": "Java Informatica MicroStrategy Training",
-        "active": true,
-        "date_updated": 1762909340,
-        "date_posted": 1755062419,
-        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/95501978",
-        "locations": [
-            "Chesterfield, MO"
-        ],
-        "company_url": "https://simplify.jobs/c/AG-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "AG Technologies",
-        "id": "b1f346c8-dec2-4d79-a9a7-47bbd3bb02f1",
-        "title": "System Administrator/ Java Training and Placement",
-        "active": false,
-        "date_updated": 1762910609,
-        "date_posted": 1755062407,
-        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/102120503",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/AG-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "AG Technologies",
-        "id": "f4e48d96-7488-40c3-9854-9f56d12b5d4d",
-        "title": "Devops/Java/Weblogic training and placement",
-        "active": false,
-        "date_updated": 1761834593,
-        "date_posted": 1755062388,
-        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/112610441",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/AG-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Carnegie Mellon University",
         "id": "2e5bd688-5460-4a7a-9612-ce2a34423c75",
         "title": "Research Assistant - College of Engineering - Department of Chemical Engineering",
@@ -128670,24 +128558,6 @@
         "url": "https://jobs.smartrecruiters.com/360ITProfessionals1/743999659854838",
         "locations": [
             "Charlotte, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/360-IT-Professionals",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "360 IT Professionals",
-        "id": "87a5253c-2be1-41ed-bd53-8e86b363015c",
-        "title": "SAP ERP Analyst",
-        "active": false,
-        "date_updated": 1755062456,
-        "date_posted": 1755062456,
-        "url": "https://jobs.smartrecruiters.com/360ITProfessionals1/743999658533708",
-        "locations": [
-            "Holland, MI"
         ],
         "company_url": "https://simplify.jobs/c/360-IT-Professionals",
         "is_visible": true,
@@ -284078,7 +283948,7 @@
         "company_name": "RTX",
         "id": "cdeee33a-95b8-4657-8800-2e296ae8a8e3",
         "title": "Software Engineer 1 - EOIR Advanced Products and Solutions",
-        "active": true,
+        "active": false,
         "date_updated": 1775517138,
         "date_posted": 1775513288,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/Software-Engineer-I---EOIR-Advanced-Products-and-Solutions_01835754",
@@ -289028,7 +288898,7 @@
         "company_name": "Sainsbury's",
         "id": "edbe5a7c-fdbc-4377-90df-4e5b71e98309",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1775775071,
         "date_posted": 1775772431,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056699",
@@ -289092,7 +288962,7 @@
         "company_name": "Ameren",
         "id": "c506876d-013c-49aa-818c-b3fb648dce0a",
         "title": "Senior Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1775774797,
         "date_posted": 1775772299,
         "url": "https://ameren.wd1.myworkdayjobs.com/External/job/Decatur-IL/Data-Analyst--Associate--Data-Analyst--Senior-_033139",
