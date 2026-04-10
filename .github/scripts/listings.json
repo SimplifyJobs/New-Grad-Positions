@@ -70478,24 +70478,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "PurpleBox",
-        "id": "7b57b01d-568d-42cc-bb23-ccdfaf518ffe",
-        "title": "Cybersecurity Analyst",
-        "active": false,
-        "date_updated": 1755047432,
-        "date_posted": 1755047432,
-        "url": "https://jobs.smartrecruiters.com/PurpleBoxInc/743999936212683",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/PurpleBox",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Artech Information System",
         "id": "6dea6006-1f11-4801-891d-520662e3f96a",
         "title": "Deskside support",
@@ -70505,24 +70487,6 @@
         "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/112492058",
         "locations": [
             "Charlotte, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Artech-Information-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Artech Information System",
-        "id": "a1744b6b-48df-4902-98f9-c3602822c27e",
-        "title": "Desktop support",
-        "active": false,
-        "date_updated": 1761833840,
-        "date_posted": 1755047877,
-        "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/743999652127661",
-        "locations": [
-            "Columbus, OH"
         ],
         "company_url": "https://simplify.jobs/c/Artech-Information-System",
         "is_visible": true,
@@ -70543,24 +70507,6 @@
             "Columbus, OH"
         ],
         "company_url": "https://simplify.jobs/c/US-Tech-Solutions",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Artech Information System",
-        "id": "3d445109-bbaf-48ed-807f-bdb0377e2bda",
-        "title": "Desktop Support Technician",
-        "active": false,
-        "date_updated": 1762912373,
-        "date_posted": 1755048091,
-        "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/743999653113903",
-        "locations": [
-            "Langley, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Artech-Information-System",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -70615,24 +70561,6 @@
             "Charlotte, NC"
         ],
         "company_url": "https://simplify.jobs/c/360-IT-Professionals",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Squarepoint Capital",
-        "id": "4d9bb743-9903-464c-8a98-004fd8de825f",
-        "title": "Information Security Analyst",
-        "active": false,
-        "date_updated": 1759560720,
-        "date_posted": 1755048523,
-        "url": "https://boards.greenhouse.io/embed/job_app?token=6699656",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Squarepoint-Capital",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -81625,7 +81553,7 @@
         "company_name": "Apple",
         "id": "6b893e2b-6a22-4749-8b3b-fe2402cbce97",
         "title": "Design Verification Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1763514478,
         "date_posted": 1763514478,
         "url": "https://jobs.apple.com/en-us/details/200619218",
@@ -147656,7 +147584,7 @@
         "company_name": "AspenTech",
         "id": "82bc0fd8-08bd-430d-affb-19f144246194",
         "title": "Associate Software Developer - Cloud",
-        "active": true,
+        "active": false,
         "date_updated": 1768346595,
         "date_posted": 1768346595,
         "url": "https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Montreal-Mansfield/Associate-Software-Developer-Cloud-_R8433",
@@ -182438,7 +182366,7 @@
         "company_name": "Zip",
         "id": "d9afd19e-fc7d-4360-8228-887866b2e5e2",
         "title": "Software Engineer New Grad - 2026 Start",
-        "active": true,
+        "active": false,
         "date_updated": 1770257626,
         "date_posted": 1770257626,
         "url": "https://jobs.ashbyhq.com/zip/b261b0d9-bebd-4da1-a3b9-7a674f0616ac/application",
@@ -237942,7 +237870,7 @@
         "company_name": "MatX",
         "id": "e9b29e7b-8dc5-4d35-bc74-9fd19c31e0f2",
         "title": "AI Tooling Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773097654,
         "date_posted": 1773097654,
         "url": "https://job-boards.greenhouse.io/matx/jobs/5146786008",
@@ -285317,7 +285245,7 @@
         "company_name": "Sainsbury's",
         "id": "c83a5865-2380-447e-84b9-f89f148af720",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1775572201,
         "date_posted": 1775570874,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053991",
@@ -289014,7 +288942,7 @@
         "company_name": "Sainsbury's",
         "id": "833816b4-bdd5-4dd8-bf06-49e5893a8a4b",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1775745376,
         "date_posted": 1775743728,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056601",
