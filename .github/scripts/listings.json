@@ -69924,24 +69924,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Jane Street",
-        "id": "0a323419-633e-4abe-8535-8e1960e224a1",
-        "title": "IT Operations Engineer",
-        "active": false,
-        "date_updated": 1755100610,
-        "date_posted": 1755100610,
-        "url": "https://job-boards.greenhouse.io/janestreet/jobs/8069337002",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Jane-Street",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Ensign-Bickford Aerospace & Defense Company",
         "id": "9db0679d-435a-4ad2-8bfd-4873e174d8ca",
@@ -288939,7 +288921,7 @@
         "company_name": "KION Group",
         "id": "67d366ec-6f03-46b9-a493-3b63f8ae02ad",
         "title": "Java Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1775775568,
         "date_posted": 1775772557,
         "url": "https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Wauwatosa-WI-United-States/Java-Software-Engineer---Associate_JR-0087237-1",
