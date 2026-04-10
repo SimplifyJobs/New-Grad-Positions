@@ -1,21 +1,5 @@
 [
     {
-        "date_updated": 1755589689,
-        "url": "https://jobs.careers.microsoft.com/global/en/job/1858310/Software-Engineer",
-        "company_name": "Microsoft",
-        "title": "Software Engineer",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "sponsorship": "Other",
-        "active": false,
-        "source": "Elisha-Edme",
-        "id": "f81de977-11f6-4e8f-8c28-558e716f56c7",
-        "date_posted": 1755045229,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
         "date_updated": 1755270742,
         "url": "https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Long-Beach-CA/Software-and-Electrical-Systems-Simulation-Integration-Engineer--Entry-Level-or-Associate-_JR2025463055-2",
         "company_name": "Boeing",
@@ -2216,26 +2200,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "AG Technologies",
-        "id": "034a9d93-f51a-4886-b0fe-c2f771263fa5",
-        "title": "Entry Level Software Engineer",
-        "active": true,
-        "date_updated": 1755045533,
-        "date_posted": 1755045533,
-        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/100730616",
-        "locations": [
-            "Chesterfield, MO"
-        ],
-        "company_url": "https://simplify.jobs/c/AG-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
     },
     {
         "date_updated": 1755716125,
@@ -70676,78 +70640,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "AG Technologies",
-        "id": "2e631056-2c57-410d-89a4-e77343534d49",
-        "title": "Training and Placement on Java Informatica Microstrategy Tableau",
-        "active": false,
-        "date_updated": 1762908035,
-        "date_posted": 1755045963,
-        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/92131955",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/AG-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "US Tech Solutions",
-        "id": "411b8daa-4123-479c-a5cf-1071b13c3ad1",
-        "title": "MDM Data Analyst 1",
-        "active": true,
-        "date_updated": 1762906612,
-        "date_posted": 1755045845,
-        "url": "https://jobs.smartrecruiters.com/USTechSolutions2/103472117",
-        "locations": [
-            "Lexington, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/US-Tech-Solutions",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Artech Information System",
-        "id": "55d36534-d47f-46bd-8ecb-d12542fe6b41",
-        "title": "Deskside Support",
-        "active": false,
-        "date_updated": 1762906663,
-        "date_posted": 1755045530,
-        "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/104111551",
-        "locations": [
-            "Centennial, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Artech-Information-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Artech Information System",
-        "id": "3cfd7cb5-d691-4f06-b05f-7e0bc92b7cf5",
-        "title": "Desktop Support Representative",
-        "active": false,
-        "date_updated": 1762912854,
-        "date_posted": 1755045555,
-        "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/112420353",
-        "locations": [
-            "Washington, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Artech-Information-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Carnegie Mellon University",
         "id": "2e5bd688-5460-4a7a-9612-ce2a34423c75",
         "title": "Research Assistant - College of Engineering - Department of Chemical Engineering",
@@ -80667,7 +80559,7 @@
         "company_name": "Apple",
         "id": "3652f4da-c0cd-474f-be8a-83f27443f5a8",
         "title": "Design Verification Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1763513793,
         "date_posted": 1763513793,
         "url": "https://jobs.apple.com/en-us/details/200630984",
@@ -253830,7 +253722,7 @@
         "company_name": "MatX",
         "id": "f248e071-5ac5-4d03-bb14-ddb23cd10275",
         "title": "Developer Augmentation Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773872882,
         "date_posted": 1773872882,
         "url": "https://job-boards.greenhouse.io/matx/jobs/5157866008",
@@ -260915,7 +260807,7 @@
         "company_name": "Caesars Entertainment",
         "id": "4f6ace75-6db8-4ea3-8725-15f8ed0fb592",
         "title": "Graduate Sports Trader",
-        "active": true,
+        "active": false,
         "date_updated": 1773910382,
         "date_posted": 1770333162,
         "url": "https://edmn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/79521",
@@ -272424,24 +272316,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Artech Information System",
-        "id": "a792a516-e26c-41c2-a14d-9e46d6c6472d",
-        "title": "Dataiku DSS Practitioner",
-        "active": true,
-        "date_updated": 1774949401,
-        "date_posted": 1755046304,
-        "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/743999659427222",
-        "locations": [
-            "Bedminster, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/Artech-Information-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "BCforward",
         "id": "46a77194-f12c-4547-8132-1cdef59fbcb7",
@@ -272498,27 +272372,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "AG Technologies",
-        "id": "a7f9b279-19f7-4863-9a88-ee25ccf54846",
-        "title": "Sharepoint Openings",
-        "active": true,
-        "date_updated": 1774953001,
-        "date_posted": 1755045768,
-        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/95502452",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/AG-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
         ]
     },
     {
@@ -276351,26 +276204,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "AG Technologies",
-        "id": "bfff7f77-096b-4e12-a3ee-af793edf629b",
-        "title": "Java Developer",
-        "active": true,
-        "date_updated": 1774981081,
-        "date_posted": 1755045240,
-        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/87228753",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/AG-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
             "Master's"
         ]
     },
@@ -290020,7 +289853,7 @@
         "company_name": "Perry Ellis International",
         "id": "54bca8a6-41b3-462e-804a-baaaa1ba521c",
         "title": "Assistant Designer",
-        "active": true,
+        "active": false,
         "date_updated": 1775775071,
         "date_posted": 1775772600,
         "url": "https://job-boards.greenhouse.io/perryellisinternational/jobs/4671283006",
