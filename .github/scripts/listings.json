@@ -80838,7 +80838,7 @@
         "company_name": "Apple",
         "id": "bb9e2d7a-12d3-4912-97e2-6b6745a826ea",
         "title": "SoC DFT Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1763514385,
         "date_posted": 1763514385,
         "url": "https://jobs.apple.com/en-us/details/200623294",
@@ -128507,24 +128507,6 @@
             "Missouri"
         ],
         "company_url": "https://simplify.jobs/c/b41d30d5-14c9-4328-9741-f8a45e378976",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Otto Aviation",
-        "id": "21389894-5727-453b-8d6e-16641806982a",
-        "title": "Associate Engineer - Systems Test",
-        "active": false,
-        "date_updated": 1761505003,
-        "date_posted": 1755105251,
-        "url": "https://job-boards.greenhouse.io/ottoaviation/jobs/4882828008",
-        "locations": [
-            "Fort Worth, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Otto-Aviation",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
