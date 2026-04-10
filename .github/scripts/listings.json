@@ -266977,7 +266977,7 @@
         "company_name": "Walmart",
         "id": "6472efaf-f621-4e0d-a06b-7cda61c1132f",
         "title": "Senior Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1774602700,
         "date_posted": 1774602700,
         "url": "https://walmart.wd5.myworkdayjobs.com/Non-WorkdayInternal/job/Sunnyvale-CA/Senior-Software-Engineer_R-2451283",
@@ -272169,7 +272169,7 @@
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Lawrence Livermore National Laboratory (LLNL)",
-        "id": "35bdadb3-6dd8-4e23-b36d-a34aa8762510",
+        "id": "5a03e922-9be2-4e12-9821-b01d8c92b5e6",
         "title": "Uncertainty Quantification for Surrogate Models Postdoctoral Researcher",
         "active": true,
         "date_updated": 1774972621,
@@ -290080,6 +290080,24 @@
             "Mississauga, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Uplifter",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Handshake",
+        "id": "0289ef60-2c2a-45e1-bd19-e4c4398e8c28",
+        "title": "Hardware Engineer - AI Trainer",
+        "active": true,
+        "date_updated": 1775810889,
+        "date_posted": 1773095977,
+        "url": "https://jobs.ashbyhq.com/handshake/a2005298-96da-46f6-8809-231008720bd9/application",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Handshake",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
