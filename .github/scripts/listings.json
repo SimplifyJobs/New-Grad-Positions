@@ -1,38 +1,5 @@
 [
     {
-        "date_updated": 1755270742,
-        "url": "https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Long-Beach-CA/Software-and-Electrical-Systems-Simulation-Integration-Engineer--Entry-Level-or-Associate-_JR2025463055-2",
-        "company_name": "Boeing",
-        "title": "Software and Electrical Systems Simulation Integration Engineer",
-        "locations": [
-            "Miami, FL",
-            "New York, NY"
-        ],
-        "sponsorship": "Other",
-        "active": false,
-        "source": "AlmondCroffle",
-        "id": "9f9d4908-0ce6-435e-8455-57401d9d963c",
-        "date_posted": 1755051837,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1755270682,
-        "url": "https://boeing.wd1.myworkdayjobs.com/en-US/external_subsidiary/job/USA---Long-Beach-CA/Software-and-Electrical-Systems-Simulation-Integration-Engineer--Entry-Level-or-Associate-_JR2025463055-1",
-        "company_name": "Boeing",
-        "title": "Software and Electrical Systems Simulation Integration Engineer",
-        "locations": [
-            "Long Beach, CA"
-        ],
-        "sponsorship": "Other",
-        "active": false,
-        "source": "AlmondCroffle",
-        "id": "985c4208-ceeb-4718-a570-fecef1c7f303",
-        "date_posted": 1755052023,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
         "date_updated": 1755155700,
         "url": "https://careers-gannettfleming.icims.com/jobs/12404/entry-level-software-developer/job",
         "company_name": "Gannett Fleming",
@@ -70487,60 +70454,6 @@
         "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/112492058",
         "locations": [
             "Charlotte, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Artech-Information-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "US Tech Solutions",
-        "id": "1914332b-c694-4769-aeba-92a9ab9f2742",
-        "title": "Helpdesk Support",
-        "active": false,
-        "date_updated": 1755051745,
-        "date_posted": 1755051745,
-        "url": "https://jobs.smartrecruiters.com/USTechSolutions2/101773561",
-        "locations": [
-            "Columbus, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/US-Tech-Solutions",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Artech Information System",
-        "id": "deb7406b-f608-497f-960e-f11ce62e52ea",
-        "title": "Deskside Support",
-        "active": false,
-        "date_updated": 1761802057,
-        "date_posted": 1755050976,
-        "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/103555112",
-        "locations": [
-            "Birmingham, AL"
-        ],
-        "company_url": "https://simplify.jobs/c/Artech-Information-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Artech Information System",
-        "id": "112d2846-f332-4fe9-b1bb-6bdd4b9819a9",
-        "title": "Deskside Support",
-        "active": false,
-        "date_updated": 1762912496,
-        "date_posted": 1755050906,
-        "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/106276215",
-        "locations": [
-            "Oxford, OH"
         ],
         "company_url": "https://simplify.jobs/c/Artech-Information-System",
         "is_visible": true,
@@ -257478,7 +257391,7 @@
         "company_name": "Robert Half",
         "id": "b1ba6db6-3e6c-4a3b-9eea-cdf1247a02c6",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1774047145,
         "date_posted": 1774047145,
         "url": "https://roberthalf.wd1.myworkdayjobs.com/roberthalfcareers/job/SAN-RAMON/Software-Engineer-I_JR-259875",
@@ -288678,7 +288591,7 @@
         "company_name": "Sainsbury's",
         "id": "f7c6a053-3631-49b4-8896-bd0251d129cc",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1775716393,
         "date_posted": 1775714799,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056582",
