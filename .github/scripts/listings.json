@@ -290234,5 +290234,79 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Caterpillar Inc.",
+        "id": "193ed030-b390-4b6f-9723-38179349083c",
+        "title": "Product Quality Technician",
+        "active": true,
+        "date_updated": 1775814983,
+        "date_posted": 1775812379,
+        "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Stockton-United-Kingdom/Quality-Technician_R0000360572",
+        "locations": [
+            "Durham, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Caterpillar-Inc",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "85feaae4-4f84-4228-b026-4a9f95cefc8c",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1775814311,
+        "date_posted": 1775811894,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056723",
+        "locations": [
+            "York, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Rolls-Royce",
+        "id": "8f9040cb-fec2-4a8f-959d-b3c21d67f480",
+        "title": "Radiographer",
+        "active": true,
+        "date_updated": 1775816338,
+        "date_posted": 1775743535,
+        "url": "https://rollsroyce.wd3.myworkdayjobs.com/professional/job/Bristol/Radiographer_JR6146514-2",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Rolls-Royce",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Western & Southern Financial Group",
+        "id": "db00d147-b02a-46c0-8262-d784880e7d64",
+        "title": "Software Developer 1",
+        "active": true,
+        "date_updated": 1775811544,
+        "date_posted": 1773439515,
+        "url": "https://careers-westernsouthern.icims.com/jobs/24782/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Southern-Financial-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
