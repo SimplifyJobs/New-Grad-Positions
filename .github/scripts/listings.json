@@ -275469,27 +275469,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "AG Technologies",
-        "id": "d22f034e-8d15-472d-8b50-1cd3fdf80818",
-        "title": "Java Developer",
-        "active": true,
-        "date_updated": 1774981081,
-        "date_posted": 1755078421,
-        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/92104925",
-        "locations": [
-            "Chesterfield, MO"
-        ],
-        "company_url": "https://simplify.jobs/c/AG-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Northrop Grumman",
         "id": "ffd71353-f2bb-429f-9cad-7e1df6da4197",
@@ -289971,7 +289950,7 @@
         "company_name": "Mattel",
         "id": "7ef9aa06-16ee-4765-a876-437e7b9bc2b0",
         "title": "Associate Packaging Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1775785501,
         "date_posted": 1775783153,
         "url": "https://jobs.smartrecruiters.com/MattelInc/744000119712147",
@@ -290101,5 +290080,25 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Amentum",
+        "id": "a501f5de-b3ef-422a-a5c2-95bb932c0b73",
+        "title": "Instrumentation Operator Repairer - Communications - Data",
+        "active": true,
+        "date_updated": 1775814133,
+        "date_posted": 1775813898,
+        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-FL-Canaveral/Instrumentation-Operator-Repairer---Communications--Data-_R0152710",
+        "locations": [
+            "Cape Canaveral, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Amentum",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
     }
 ]
