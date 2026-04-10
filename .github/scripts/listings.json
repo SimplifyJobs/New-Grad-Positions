@@ -70253,24 +70253,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Artech Information System",
-        "id": "ceb3e9c2-12c0-4f9a-96ae-afa9c7f1ff86",
-        "title": "Desktop Support Representative",
-        "active": false,
-        "date_updated": 1761940866,
-        "date_posted": 1755059595,
-        "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/743999658293052",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Artech-Information-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Carnegie Mellon University",
         "id": "2e5bd688-5460-4a7a-9612-ce2a34423c75",
         "title": "Research Assistant - College of Engineering - Department of Chemical Engineering",
@@ -272003,26 +271985,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "360 IT Professionals",
-        "id": "aca0ec69-cbe0-45aa-a3ae-a48c44558d9d",
-        "title": "Data Analyst",
-        "active": true,
-        "date_updated": 1774956961,
-        "date_posted": 1755059568,
-        "url": "https://jobs.smartrecruiters.com/360ITProfessionals1/743999658971678",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/360-IT-Professionals",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
