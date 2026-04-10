@@ -70658,24 +70658,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "US Tech Solutions",
-        "id": "f7953df6-4433-41b6-9364-285d5275d819",
-        "title": "Data Security analyst",
-        "active": false,
-        "date_updated": 1761832499,
-        "date_posted": 1755044188,
-        "url": "https://jobs.smartrecruiters.com/USTechSolutions2/100745719",
-        "locations": [
-            "Columbus, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/US-Tech-Solutions",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Squarepoint Capital",
         "id": "4d9bb743-9903-464c-8a98-004fd8de825f",
         "title": "Information Security Analyst",
@@ -70766,42 +70748,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Artech Information System",
-        "id": "2ccef231-f512-4339-85cd-88469cf09c19",
-        "title": "Desktop Support Representative",
-        "active": false,
-        "date_updated": 1761940903,
-        "date_posted": 1755044899,
-        "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/743999658552969",
-        "locations": [
-            "Eagan, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Artech-Information-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Prosidian Consulting",
-        "id": "55bdeb86-c6e5-4741-84e8-f6e15416475e",
-        "title": "ITSM Network Engineer 1",
-        "active": false,
-        "date_updated": 1761938912,
-        "date_posted": 1755044735,
-        "url": "https://jobs.smartrecruiters.com/prosidianconsulting/743999691680285",
-        "locations": [
-            "Washington, DC"
-        ],
-        "company_url": "https://simplify.jobs/c/ProSidian-Consulting",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Carnegie Mellon University",
         "id": "2e5bd688-5460-4a7a-9612-ce2a34423c75",
         "title": "Research Assistant - College of Engineering - Department of Chemical Engineering",
@@ -70813,99 +70759,6 @@
             "Pittsburgh, PA"
         ],
         "company_url": "https://simplify.jobs/c/Carnegie-Mellon-University",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Artech Information System",
-        "id": "af852485-2a02-4448-8d97-ca655a5de2a9",
-        "title": "Helpdesk Representative",
-        "active": false,
-        "date_updated": 1755043976,
-        "date_posted": 1755043976,
-        "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/743999653897247",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Artech-Information-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Avance Consulting",
-        "id": "162e7f81-cbcb-4460-b657-c824d2e71076",
-        "title": "Test Analyst - Java - Selenium",
-        "active": true,
-        "date_updated": 1755043841,
-        "date_posted": 1755043841,
-        "url": "https://jobs.smartrecruiters.com/AvanceConsultingServices2/743999658806198",
-        "locations": [
-            "King County, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Avance-Consulting",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "AG Technologies",
-        "id": "ea8682a7-fbed-4900-9fc5-1f8421061093",
-        "title": "Entry Level Informatica Developer",
-        "active": true,
-        "date_updated": 1762907111,
-        "date_posted": 1755043743,
-        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/88420885",
-        "locations": [
-            "Galveston, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/AG-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Artech Information System",
-        "id": "6e944bca-1434-440f-b27c-ce9eab783e9b",
-        "title": "Deskside Support",
-        "active": false,
-        "date_updated": 1762906673,
-        "date_posted": 1755043737,
-        "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/104074851",
-        "locations": [
-            "Centennial, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Artech-Information-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "AG Technologies",
-        "id": "3d20416b-6400-4d75-a2ac-00e06fab2eda",
-        "title": "Training and Placement for OPT on Java Full Stack/ Web Logic and Sales Force",
-        "active": true,
-        "date_updated": 1761838013,
-        "date_posted": 1755043709,
-        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/101942086",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/AG-Technologies",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -202815,7 +202668,7 @@
         "company_name": "Sierra",
         "id": "1c9b76df-6ee3-44ef-9feb-585cfa64aa45",
         "title": "Product Manager",
-        "active": true,
+        "active": false,
         "date_updated": 1771456796,
         "date_posted": 1771456796,
         "url": "https://jobs.ashbyhq.com/Sierra/1e937276-4002-4a1f-9c7d-5b5b5289b83e/application",
@@ -267495,7 +267348,7 @@
         "company_name": "KBR",
         "id": "a82f29be-8c71-471f-a3ee-3f63440c3e0f",
         "title": "Systems Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1774571636,
         "date_posted": 1774571636,
         "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Kihei-Hawaii/Systems-Engineer_R2121020",
