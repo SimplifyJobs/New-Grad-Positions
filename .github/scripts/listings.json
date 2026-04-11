@@ -1,23 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "BlueCross BlueShield of Tennessee",
-        "id": "833d9a34-ab07-4ae2-83cc-7a6c49a138f6",
-        "title": "Associate Software Engineer I",
-        "active": false,
-        "date_updated": 1755205120,
-        "date_posted": 1755205120,
-        "url": "https://bcbst.wd1.myworkdayjobs.com/external/job/USA-TN-Chattanooga-Remote/Associate-Software-Engineer-I_R-46776",
-        "locations": [
-            "Chattanooga, TN"
-        ],
-        "company_url": "https://simplify.jobs/c/BlueCross-Blueshield-Of-Tennessee",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "The Boeing Company",
         "id": "14de31b0-7cfe-4974-b496-09085c6b6b80",
@@ -147229,26 +147212,6 @@
             "SF"
         ],
         "company_url": "https://simplify.jobs/c/Uber",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Arc Institute",
-        "id": "b058797c-22c2-4592-904a-83271b42c612",
-        "title": "Machine Learning Research Scientist - Hsu & Konermann Labs",
-        "active": false,
-        "date_updated": 1768444920,
-        "date_posted": 1755203718,
-        "url": "https://job-boards.greenhouse.io/arcinstitute/jobs/5618816004",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Arc-Institute",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
