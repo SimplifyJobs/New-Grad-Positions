@@ -270185,7 +270185,7 @@
         "company_name": "Montrose Environmental Group",
         "id": "78e038af-d446-4729-9eb4-85f93edfbdd8",
         "title": "Entry-Level Data Management Professional - Environmental Chemistry",
-        "active": true,
+        "active": false,
         "date_updated": 1774693696,
         "date_posted": 1774693696,
         "url": "https://montrose.wd1.myworkdayjobs.com/meg/job/USA-PA-Valley-Forge/Entry-Level-Data-Management-Professional--Environmental-Chemistry-_R8079",
@@ -277881,7 +277881,7 @@
         "company_name": "Dell Technologies",
         "id": "54fec9c6-95a6-46c7-a02f-ff929524d6a8",
         "title": "Systems Development Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1775168821,
         "date_posted": 1775167495,
         "url": "https://dell.wd1.myworkdayjobs.com/External/job/Round-Rock-Texas-United-States/Systems-Development-Engineer-1_R289739-1",
@@ -288872,7 +288872,7 @@
         "company_name": "Sainsbury's",
         "id": "fe98e112-696a-4689-b5ef-fbbddf2d7247",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1775774352,
         "date_posted": 1775772432,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056678",
@@ -290265,7 +290265,7 @@
         "company_name": "Sainsbury's",
         "id": "ddc03310-1898-4cf5-b948-deb1288c15b2",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1775831409,
         "date_posted": 1775830109,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056698",
@@ -291451,7 +291451,7 @@
         "company_name": "Sainsbury's",
         "id": "9477c55f-17c4-4f70-8395-2fec78e454f4",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1775860395,
         "date_posted": 1775858845,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056811",
@@ -291734,6 +291734,26 @@
             "St Paul, MN"
         ],
         "company_url": "https://simplify.jobs/c/Abbott",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Roku",
+        "id": "2e37de9b-4e29-459a-9a5a-590bb8950c08",
+        "title": "Associate Product Manager",
+        "active": true,
+        "date_updated": 1775870653,
+        "date_posted": 1775870149,
+        "url": "https://www.weareroku.com/jobs/7809093?gh_jid=7809093",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Roku",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
