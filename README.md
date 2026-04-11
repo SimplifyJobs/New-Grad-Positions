@@ -5,17 +5,17 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/New-Grad-Positions/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
 ---
-### Browse 316 New Grad Roles by Category
+### Browse 320 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (222)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (223)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (6)
 
-🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (38)
+🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (39)
 
-📈 **[Quantitative Finance](#-quantitative-finance-new-grad-roles)** (3)
+📈 **[Quantitative Finance](#-quantitative-finance-new-grad-roles)** (4)
 
-🔧 **[Hardware Engineering](#-hardware-engineering-new-grad-roles)** (47)
+🔧 **[Hardware Engineering](#-hardware-engineering-new-grad-roles)** (48)
 
 💼 **[Other](#-other-new-grad-roles)** (0)
 
@@ -468,6 +468,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><strong><a href="https://simplify.jobs/c/Amentum?utm_source=GHList&utm_medium=company">Amentum</a></strong></td>
 <td>Entry Level Software Engineer/Software Tester</td>
 <td>Fredericksburg, VA</br>Dahlgren, VA</td>
+<td><div align="center"><a href="https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer-Software-Tester_R0157214?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/198fefbf-d79d-4064-aed9-8b96ff4deccc?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
+<td>17d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Entry Level Software Engineer/Software Tester</td>
+<td>Fredericksburg, VA</br>Dahlgren, VA</td>
 <td><div align="center"><a href="https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer-Software-Tester_R0157213?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/0a2ffbd1-f05a-4c5d-a0e8-1ceda340bd7d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
 <td>17d</td>
 </tr>
@@ -518,14 +525,14 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Junior Software Engineer</td>
 <td>Chicago, IL</td>
 <td><a href="https://job-boards.greenhouse.io/genevatrading/jobs/5085231007?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td>18d</td>
+<td>19d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Smx?utm_source=GHList&utm_medium=company">SMX</a></strong></td>
 <td>Junior Software Engineer 🇺🇸</td>
 <td>Chantilly, VA</td>
 <td><a href="https://www.smxtech.com/jobs/smxtech/junior-software-engineer-ts-sci-ci-poly-5157-chantilly-va/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td>18d</td>
+<td>19d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Worldpay?utm_source=GHList&utm_medium=company">Worldpay</a></strong></td>
@@ -1638,7 +1645,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (1246)</summary>
+<summary>🗃️ Inactive roles (1243)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -1712,7 +1719,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Junior Software Developer</td>
 <td>Woodlawn, MD</td>
 <td>🔒</td>
-<td>6d</td>
+<td>7d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Axon?utm_source=GHList&utm_medium=company">Axon</a></strong></td>
@@ -1928,13 +1935,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><strong><a href="https://simplify.jobs/c/Twitch?utm_source=GHList&utm_medium=company">Twitch</a></strong></td>
 <td>Software Engineer 1</td>
 <td>SF</td>
-<td>🔒</td>
-<td>17d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Amentum?utm_source=GHList&utm_medium=company">Amentum</a></strong></td>
-<td>Entry Level Software Engineer/Software Tester</td>
-<td>Fredericksburg, VA</br>Dahlgren, VA</td>
 <td>🔒</td>
 <td>17d</td>
 </tr>
@@ -10359,20 +10359,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>🔒</td>
 <td>7mo</td>
 </tr>
-<tr>
-<td><strong>🔥 Meta</strong></td>
-<td>Software Engineer (University Grad) 🛂</td>
-<td><details><summary><strong>9 locations</strong></summary>Sunnyvale, CA</br>Bellevue, WA</br>Menlo Park, CA</br>Seattle, WA</br>Burlingame, CA</br>Washington, DC</br>Boston, MA</br>New York, NY</br>San Francisco, CA</details></td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Suno?utm_source=GHList&utm_medium=company">Suno</a></strong></td>
-<td>Software Engineer 🛂</td>
-<td>Boston, MA</br>New York, NY</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
 </tbody>
 </table>
 
@@ -10829,6 +10815,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>7d</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/Finning?utm_source=GHList&utm_medium=company">Finning</a></strong></td>
+<td>AI & Analytics Engineer 1</td>
+<td>Calgary, AB, Canada</br>Edmonton, AB, Canada</td>
+<td><div align="center"><a href="https://finning.wd3.myworkdayjobs.com/External/job/Calgary-AB-CA/AI---Analytics-Engineer-I_R-2026-1255?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/09f1c5ca-8536-482d-97ec-e58f1e5a69ac?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
+<td>10d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Travelers?utm_source=GHList&utm_medium=company">Travelers</a></strong></td>
 <td>Data Engineer 1 - Multiple Teams</td>
 <td>Atlanta, GA</td>
@@ -11057,7 +11050,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (289)</summary>
+<summary>🗃️ Inactive roles (288)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -11104,13 +11097,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Bristol, UK</td>
 <td>🔒</td>
 <td>9d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Finning?utm_source=GHList&utm_medium=company">Finning</a></strong></td>
-<td>AI & Analytics Engineer 1</td>
-<td>Calgary, AB, Canada</br>Edmonton, AB, Canada</td>
-<td>🔒</td>
-<td>10d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Boeing?utm_source=GHList&utm_medium=company">The Boeing Company</a></strong></td>
@@ -13117,6 +13103,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 </thead>
 <tbody>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/Revantage-Corporate-Services?utm_source=GHList&utm_medium=company">Revantage Corporate Services</a></strong></td>
+<td>Analyst – Junior Quantitative Developer 🎓</td>
+<td>United States</td>
+<td><div align="center"><a href="https://revantage.wd1.myworkdayjobs.com/Revantage/job/Remote---USA/Analyst--Junior-Quantitative-Developer_JR102973?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/270b01f8-4cc0-4fac-96b9-c74351ed1a47?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
+<td>28d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/VeritionFund?utm_source=GHList&utm_medium=company">Verition Fund Management</a></strong></td>
 <td>Junior Quant Analyst</td>
 <td>Westport, CT</td>
@@ -13142,7 +13135,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (21)</summary>
+<summary>🗃️ Inactive roles (20)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -13155,13 +13148,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 </tr>
 </thead>
 <tbody>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Revantage-Corporate-Services?utm_source=GHList&utm_medium=company">Revantage Corporate Services</a></strong></td>
-<td>Analyst – Junior Quantitative Developer 🎓</td>
-<td>United States</td>
-<td>🔒</td>
-<td>28d</td>
-</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Susquehanna?utm_source=GHList&utm_medium=company">Susquehanna International Group (SIG)</a></strong></td>
 <td>Quantitative Financial Risk Analyst – New Grad</td>
@@ -13431,11 +13417,18 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>7d</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company">🔥 NVIDIA</a></strong></td>
+<td>AI Chip Design Engineer – New College Grad</td>
+<td>Santa Clara, CA</td>
+<td><div align="center"><a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Chip-Design-Engineer---New-College-Grad-2026_JR2015481?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/cdac9585-1420-4450-ba80-1bdf21973134?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
+<td>11d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Micron-Technology?utm_source=GHList&utm_medium=company">Micron Technology</a></strong></td>
 <td>New College Grad - Semiconductor Verification Design Engineer - DRAM Products Group</td>
 <td>Boise, ID</td>
 <td><div align="center"><a href="https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Semiconductor-Verification-Design-Engineer--DRAM-Products-Group_JR89932-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/e5d5daf6-bb3f-4534-aaef-7b1a18c5f7d6?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>13d</td>
+<td>14d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/TrueAnomaly?utm_source=GHList&utm_medium=company">True Anomaly</a></strong></td>
@@ -13659,7 +13652,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (280)</summary>
+<summary>🗃️ Inactive roles (279)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -13724,13 +13717,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <tr>
 <td><strong><a href="https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company">🔥 NVIDIA</a></strong></td>
 <td>AI Chip Design Engineer – New College Grad 🎓</td>
-<td>Santa Clara, CA</td>
-<td>🔒</td>
-<td>11d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>AI Chip Design Engineer – New College Grad</td>
 <td>Santa Clara, CA</td>
 <td>🔒</td>
 <td>11d</td>
