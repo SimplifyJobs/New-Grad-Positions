@@ -1,23 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Apex Fintech Solutions",
-        "id": "9d74aeea-fa25-46c6-af6f-3d20a6065b64",
-        "title": "Software Engineer I - Aldp",
-        "active": false,
-        "date_updated": 1755147515,
-        "date_posted": 1755147515,
-        "url": "https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions/job/Austin-TX/Software-Engineer-I--ALDP-_JR103414-1",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/ed242389-4231-41e2-bc85-a1f97fd15e44",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Becton, Dickinson and Company",
         "id": "78c2a49e-da4c-4434-974e-85eb8b9c2bdd",
@@ -288698,7 +288681,7 @@
         "company_name": "Vanguard",
         "id": "dce0c374-1ab3-4f72-b4b5-a95c098791d5",
         "title": "Application Engineer - I - PI Tech",
-        "active": true,
+        "active": false,
         "date_updated": 1775774169,
         "date_posted": 1775772467,
         "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/contractors_restricted/job/Malvern-PA/Application-Engineer---I---PI-Tech_171220",
