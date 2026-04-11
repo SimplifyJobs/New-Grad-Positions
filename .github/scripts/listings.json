@@ -68345,25 +68345,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "RF-SMART",
-        "id": "ae620330-7096-4744-ac83-a0a15656c922",
-        "title": "Python Developer 1",
-        "active": false,
-        "date_updated": 1762817144,
-        "date_posted": 1755206727,
-        "url": "https://job-boards.greenhouse.io/rfsmart/jobs/4880498008",
-        "locations": [
-            "Highlands Ranch, CO",
-            "Jacksonville, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/f006a158-9398-482e-9a19-a635e79862ae",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Welocalize",
         "id": "b841f0e1-cb16-4f57-b5a2-1ce146393d2e",
@@ -290739,7 +290720,7 @@
         "company_name": "Sainsbury's",
         "id": "46aa45b5-4701-4ccb-8ba1-e6df6c3758b6",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1775917988,
         "date_posted": 1775916421,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056379",
