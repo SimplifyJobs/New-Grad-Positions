@@ -134000,7 +134000,7 @@
         "company_name": "Macy's",
         "id": "d35628d3-dd59-4c72-b1f0-62d78b4f739d",
         "title": "Assistant \u2013 Product Manager",
-        "active": true,
+        "active": false,
         "date_updated": 1767630360,
         "date_posted": 1767630360,
         "url": "https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/83705",
@@ -234656,7 +234656,7 @@
         "company_name": "Amazon",
         "id": "657e319c-564d-4d57-a9c3-967b9e43119f",
         "title": "Infrastructure Delivery Install Technician - Infrastructure Delivery",
-        "active": true,
+        "active": false,
         "date_updated": 1772838935,
         "date_posted": 1772838935,
         "url": "https://amazon.jobs/en/jobs/3197279/infrastructure-delivery-install-technician-infrastructure-delivery",
@@ -259468,7 +259468,7 @@
         "company_name": "Sainsbury's",
         "id": "09da79d6-614b-4baa-988e-bb7f0226c336",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1774304127,
         "date_posted": 1774304127,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054438",
@@ -264416,7 +264416,7 @@
         "company_name": "Johnson & Johnson",
         "id": "69d83425-5a3d-4212-ab58-70c7fcdf371e",
         "title": "Postdoctoral Scientist Data Science AI/ML & DH",
-        "active": true,
+        "active": false,
         "date_updated": 1774479459,
         "date_posted": 1774479459,
         "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Beerse-Antwerp-Belgium/Postdoctoral-Scientist-Data-Science-AI-ML---DH_R-060722-1",
@@ -283733,7 +283733,7 @@
         "company_name": "Sainsbury's",
         "id": "5898d9c3-4ff1-459e-817a-2d696bf03f83",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1775516941,
         "date_posted": 1775513218,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056347",
@@ -286484,7 +286484,7 @@
         "company_name": "CrowdGen by Appen",
         "id": "16b88906-5568-4700-b29f-cff4bf33efe4",
         "title": "Conversational Speech AI Evaluator",
-        "active": true,
+        "active": false,
         "date_updated": 1775659538,
         "date_posted": 1775657230,
         "url": "https://jobs.lever.co/appen/656a732e-4d97-40e0-ac7b-36ade47ca6c8/apply",
@@ -286520,7 +286520,7 @@
         "company_name": "Sainsbury's",
         "id": "8ffae0c1-d72c-4e5e-a8dd-31f0e3a8c5e5",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1775658961,
         "date_posted": 1775657248,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056545",
@@ -287902,7 +287902,7 @@
         "company_name": "Sainsbury's",
         "id": "f7c6a053-3631-49b4-8896-bd0251d129cc",
         "title": "Trading Assistant - Shift",
-        "active": false,
+        "active": true,
         "date_updated": 1775716393,
         "date_posted": 1775714799,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056582",
@@ -291759,5 +291759,160 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Roku",
+        "id": "a90f628d-787f-4e89-a2f2-11bab0c94bfa",
+        "title": "Associate Product Manager",
+        "active": true,
+        "date_updated": 1775870653,
+        "date_posted": 1775870146,
+        "url": "https://www.weareroku.com/jobs/7809163?gh_jid=7809163",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Roku",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Roku",
+        "id": "96f504aa-3026-493c-987e-96c4e0d2bfc1",
+        "title": "Associate Product Manager",
+        "active": true,
+        "date_updated": 1775870653,
+        "date_posted": 1775870147,
+        "url": "https://www.weareroku.com/jobs/7809165?gh_jid=7809165",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Roku",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "93684f03-ee07-49bd-9151-36eb345a11de",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1775870653,
+        "date_posted": 1775869645,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056838",
+        "locations": [
+            "Dorchester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Roku",
+        "id": "6b1ba2fe-049b-4f78-904a-a0bf439e2bac",
+        "title": "Associate Product Manager",
+        "active": true,
+        "date_updated": 1775870653,
+        "date_posted": 1775870146,
+        "url": "https://www.weareroku.com/jobs/7809169?gh_jid=7809169",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Roku",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "EvenUp",
+        "id": "37510038-1f6f-4be0-bfe7-50811c1ee137",
+        "title": "Software Engineer \u2013 New Grad - Cases Product",
+        "active": true,
+        "date_updated": 1775870975,
+        "date_posted": 1775869761,
+        "url": "https://jobs.ashbyhq.com/evenup/41488eae-50a9-4ad3-b6e0-2fd28efb238e/application",
+        "locations": [
+            "Toronto, ON, Canada",
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/a3893f84-8200-4d5f-aad7-2ff0d6d670dc",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Roku",
+        "id": "013b1a42-a451-4d78-a3d9-9deedf20eb63",
+        "title": "Associate Product Manager",
+        "active": true,
+        "date_updated": 1775870653,
+        "date_posted": 1775870148,
+        "url": "https://www.weareroku.com/jobs/7809151?gh_jid=7809151",
+        "locations": [
+            "Santa Monica, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Roku",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "bbc379c0-51e1-4215-ac1f-d18e1fc7c9f8",
+        "title": "Graduate Machine Learning Engineer - Data Search TikTok",
+        "active": true,
+        "date_updated": 1775870768,
+        "date_posted": 1775869916,
+        "url": "https://lifeattiktok.com/search/7515277586445322503",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "a610e524-8bfd-4953-9115-58a0253da346",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1775870653,
+        "date_posted": 1775869645,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056835",
+        "locations": [
+            "Newcastle upon Tyne, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
