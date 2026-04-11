@@ -69780,24 +69780,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "US Tech Solutions",
-        "id": "7870fb85-a7d1-419b-ba95-51000881eef9",
-        "title": "Applications System Analyst",
-        "active": false,
-        "date_updated": 1755140716,
-        "date_posted": 1755140716,
-        "url": "https://jobs.smartrecruiters.com/USTechSolutions2/107273359",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/US-Tech-Solutions",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "PennState University",
         "id": "dea957d1-eea8-40c9-8016-6a5501367761",
@@ -86228,24 +86210,6 @@
             "Gatineau, QC, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Fujitsu",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Entrust",
-        "id": "cd2202f3-9862-4f3f-9845-d2dfe5754e8e",
-        "title": "Applied Scientist 1 - Computer Vision",
-        "active": false,
-        "date_updated": 1763735700,
-        "date_posted": 1755141717,
-        "url": "https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/United-Kingdom---London-Onfido/Senior-Applied-Scientist_R003380",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Entrust",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -284241,7 +284205,7 @@
         "company_name": "Sainsbury's",
         "id": "73060319-ef4d-48d6-b5ef-fe3b6366d4d6",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1775555821,
         "date_posted": 1775552691,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056367",
@@ -291412,7 +291376,7 @@
         "company_name": "Sainsbury's",
         "id": "08cb769a-c41b-4944-b7c7-ff7f34e08066",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1775860395,
         "date_posted": 1775858844,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056794",
