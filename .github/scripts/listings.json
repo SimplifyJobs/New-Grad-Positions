@@ -69672,60 +69672,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Hyve Solutions",
-        "id": "259c2db6-b875-4acd-a4ed-6e7d91c84706",
-        "title": "Thermal Engineering Technician",
-        "active": false,
-        "date_updated": 1755148937,
-        "date_posted": 1755148937,
-        "url": "https://synnex.wd5.myworkdayjobs.com/hyvecareers/job/Fremont-CA/Thermal-Engineering-Technician_R24594",
-        "locations": [
-            "Fremont, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/100a87e3-2540-44fd-9de7-caea9e8b2cfa",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Hyve Solutions",
-        "id": "3320f180-8862-4f0a-98fd-e86117054389",
-        "title": "Process Engineering Technician",
-        "active": false,
-        "date_updated": 1755148901,
-        "date_posted": 1755148901,
-        "url": "https://synnex.wd5.myworkdayjobs.com/hyvecareers/job/Fremont-CA/Process-Engineering-Technician_R32003",
-        "locations": [
-            "Fremont, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/100a87e3-2540-44fd-9de7-caea9e8b2cfa",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Hyve Solutions",
-        "id": "2199bc99-fa5c-471b-a746-2505b3b62413",
-        "title": "Test Operator",
-        "active": false,
-        "date_updated": 1755148798,
-        "date_posted": 1755148798,
-        "url": "https://synnex.wd5.myworkdayjobs.com/hyvecareers/job/Nevada-NV/Test-Operator_R40884-1",
-        "locations": [
-            "Nevada"
-        ],
-        "company_url": "https://simplify.jobs/c/100a87e3-2540-44fd-9de7-caea9e8b2cfa",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "Apex Fintech Solutions",
         "id": "61f248d1-fb21-4da6-ba94-323cd500187e",
@@ -290412,7 +290358,7 @@
         "company_name": "Sainsbury's",
         "id": "9956cc55-997d-49be-9152-c64027dca1f1",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1775831409,
         "date_posted": 1775830110,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056738",
