@@ -68401,24 +68401,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Ultima Genomics",
-        "id": "9d12a281-275d-47e8-bc7f-24faf8ead7ec",
-        "title": "Field Service Engineer I - Development Program",
-        "active": false,
-        "date_updated": 1761527323,
-        "date_posted": 1755200011,
-        "url": "https://job-boards.greenhouse.io/ultimagenomics/jobs/5619330004",
-        "locations": [
-            "Fremont, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/UltimaGenomics",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Welocalize",
         "id": "b841f0e1-cb16-4f57-b5a2-1ce146393d2e",
@@ -159397,27 +159379,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Stantec",
-        "id": "a2a7f5de-ed9c-4ab3-ba46-72744d41c746",
-        "title": "Project Geologist",
-        "active": false,
-        "date_updated": 1756202186,
-        "date_posted": 1755201160,
-        "url": "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1001842",
-        "locations": [
-            "Columbus, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Stantec",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Associate's"
-        ]
     },
     {
         "source": "Simplify",
