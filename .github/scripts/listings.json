@@ -290815,5 +290815,43 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Warner Bros.",
+        "id": "269d6830-ae46-4832-9885-3113813196d0",
+        "title": "NCAA Digital Product Management Post Grad",
+        "active": true,
+        "date_updated": 1775974874,
+        "date_posted": 1775974048,
+        "url": "https://warnerbros.wd5.myworkdayjobs.com/global/job/GA-Atlanta-1050-Techwood-Drive-NW/NCAA-Digital-Post-Grad---Product-Management_R000104539-2",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Warner-Bros",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "General Dynamics Information Technology",
+        "id": "01787816-8966-4027-a6ce-b97e50dfa2b8",
+        "title": "UiPath Robotic Process Automation Developer Associate",
+        "active": true,
+        "date_updated": 1775975218,
+        "date_posted": 1775973903,
+        "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-LA-Bossier-City/UiPath-Robotic-Process-Automation-Developer-Associate_RQ218022",
+        "locations": [
+            "Shreveport, LA"
+        ],
+        "company_url": "https://simplify.jobs/c/GDIT",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
