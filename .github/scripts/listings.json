@@ -2,25 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Boston Scientific",
-        "id": "8d43e1ff-67b2-4301-ab41-0b33be8ae0b3",
-        "title": "Software Engineer I - Engineering - Development",
-        "active": false,
-        "date_updated": 1755700632,
-        "date_posted": 1755286058,
-        "url": "https://bostonscientific.eightfold.ai/careers/job/563602803142943",
-        "locations": [
-            "Houston, TX",
-            "Roseville, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Boston-Scientific",
-        "is_visible": false,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Worldpay",
         "id": "32c43aff-1817-4ef4-b468-87be33744449",
         "title": "Software Engineer I",
@@ -287740,7 +287721,7 @@
         "source": "Simplify",
         "category": "Product",
         "company_name": "Mattel",
-        "id": "279b1d99-fb33-4227-8404-f54ee93faaf7",
+        "id": "7ef9aa06-16ee-4765-a876-437e7b9bc2b0",
         "title": "Associate Packaging Engineer",
         "active": true,
         "date_updated": 1775785501,
