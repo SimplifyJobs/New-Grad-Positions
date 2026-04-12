@@ -2,74 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Choice Hotels",
-        "id": "e9806503-c842-4e8b-a529-6cd6f9b1b1ba",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1755289607,
-        "date_posted": 1755289607,
-        "url": "https://choicehotels.wd5.myworkdayjobs.com/External/job/Scottsdale-AZ---Technology--Digital-Commerce-Center/Software-Engineer-1_R20319",
-        "locations": [
-            "Scottsdale, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Choice-Hotels",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "KBR",
-        "id": "d87a2c02-249c-45e5-b031-0b16bbb4dcd6",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1755289202,
-        "date_posted": 1755289202,
-        "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Colorado-Springs-Colorado/Software-Engineer-I_R2110482",
-        "locations": [
-            "Colorado Springs, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/KBR",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Anduril",
-        "id": "c53ca87c-c841-48ae-890a-270460384105",
-        "title": "Early Career Software Engineer",
-        "active": false,
-        "date_updated": 1755289229,
-        "date_posted": 1755289229,
-        "url": "https://boards.greenhouse.io/andurilindustries/jobs/4824362007",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Anduril",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Anduril",
-        "id": "59da20b4-89d9-4050-8d93-b79c0953d1c7",
-        "title": "Early Career Software Engineer",
-        "active": false,
-        "date_updated": 1755289223,
-        "date_posted": 1755289223,
-        "url": "https://boards.greenhouse.io/andurilindustries/jobs/4802146007",
-        "locations": [
-            "Newport Beach, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Anduril",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Suno",
         "id": "f74fd95d-537a-4714-8fe7-05c9c3d10072",
         "title": "Software Engineer \u2013 Early Career",
@@ -67536,48 +67468,12 @@
         "source": "Simplify",
         "category": "Software",
         "company_name": "ByteDance",
-        "id": "260ff1ad-9be9-47a0-9df8-2de7edf90042",
-        "title": "Software Engineer Graduate - AI Infra Compute - 2026 Start-PhD",
-        "active": false,
-        "date_updated": 1761853430,
-        "date_posted": 1755289250,
-        "url": "https://jobs.bytedance.com/en/position/7533185315805743378/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "ByteDance",
         "id": "19a9886b-dda1-4ec8-a170-680576f023bb",
         "title": "Network Engineer Graduate - Physical Network Infra - 2026 Start",
         "active": false,
         "date_updated": 1761877613,
         "date_posted": 1761877613,
         "url": "https://jobs.bytedance.com/en/position/7538106304578963730/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "ByteDance",
-        "id": "809b76b0-1a36-4f3e-9065-e42adc43714f",
-        "title": "Graduate Software Engineer - Applied Machine Learning - Mldev",
-        "active": false,
-        "date_updated": 1763115222,
-        "date_posted": 1755288909,
-        "url": "https://jobs.bytedance.com/en/position/7535233571066349842/detail",
         "locations": [
             "San Jose, CA"
         ],
