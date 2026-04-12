@@ -2,42 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Suno",
-        "id": "f74fd95d-537a-4714-8fe7-05c9c3d10072",
-        "title": "Software Engineer \u2013 Early Career",
-        "active": false,
-        "date_updated": 1756120450,
-        "date_posted": 1755291852,
-        "url": "https://jobs.ashbyhq.com/suno/991c9785-9bd5-499a-98aa-146e8c947752/application",
-        "locations": [
-            "Boston, MA",
-            "New York, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Suno",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Neo Financial",
-        "id": "c92690cc-8125-41d1-b8c8-b18520bfbb9d",
-        "title": "Junior Software Developer",
-        "active": false,
-        "date_updated": 1755293379,
-        "date_posted": 1755293379,
-        "url": "https://ats.rippling.com/neo-financial/jobs/a2fd15b5-5bee-483e-b28f-66980dad691b",
-        "locations": [
-            "Calgary, AB, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Neo-Financial",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "The Travelers Companies",
         "id": "ccb4493a-9e84-4363-a43d-039392325b74",
         "title": "Software Engineer I - AWS/Node/React/AI",
@@ -257,24 +221,6 @@
         ],
         "company_url": "https://simplify.jobs/c/Esri",
         "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "SoFi",
-        "id": "b9d94e6c-1a9a-4a79-a413-dfefe90329d3",
-        "title": "New Grad \u2013 Fullstack Software Engineer - Home Loans",
-        "active": false,
-        "date_updated": 1755590069,
-        "date_posted": 1755292464,
-        "url": "https://www.sofi.com/careers/sofi-university/6678813003?gh_jid=6678813003",
-        "locations": [
-            "Seattle, WA",
-            "Helena, MT"
-        ],
-        "company_url": "https://simplify.jobs/c/SoFi",
-        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -66686,24 +66632,6 @@
         "source": "Simplify",
         "category": "Software",
         "company_name": "360 IT Professionals",
-        "id": "e15c9d59-092b-49f0-b4f7-09c8693e12c4",
-        "title": "Help Desk Support",
-        "active": false,
-        "date_updated": 1755293358,
-        "date_posted": 1755293358,
-        "url": "https://jobs.smartrecruiters.com/360ITProfessionals1/743999657922709",
-        "locations": [
-            "Salem, OR"
-        ],
-        "company_url": "https://simplify.jobs/c/360-IT-Professionals",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "360 IT Professionals",
         "id": "ca79435c-d012-45aa-95e8-54f0c79c7b57",
         "title": "Help Desk Analyst",
         "active": false,
@@ -66792,24 +66720,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "360 IT Professionals",
-        "id": "8ca2f2b1-4fb3-4549-b217-62fda57136b7",
-        "title": "VTC Technician",
-        "active": false,
-        "date_updated": 1762911619,
-        "date_posted": 1755293128,
-        "url": "https://jobs.smartrecruiters.com/360ITProfessionals1/743999658713623",
-        "locations": [
-            "Richmond, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/360-IT-Professionals",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "University of Chicago",
         "id": "08fe7d9a-85fa-4da1-bd14-002e62250005",
@@ -66822,24 +66732,6 @@
             "Chicago, IL"
         ],
         "company_url": "https://simplify.jobs/c/University-Of-Chicago",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Prosidian Consulting",
-        "id": "98702dbb-47b7-4761-9c4e-0eafdbc8780e",
-        "title": "Geospatial Analyst 2",
-        "active": false,
-        "date_updated": 1762907164,
-        "date_posted": 1755291997,
-        "url": "https://jobs.smartrecruiters.com/prosidianconsulting/743999979190284",
-        "locations": [
-            "Salt Lake City, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/ProSidian-Consulting",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -67392,42 +67284,6 @@
         "degrees": [
             "PhD"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "ByteDance",
-        "id": "2a990ef9-e3ea-4528-a014-01eb03578f74",
-        "title": "Graduate Software Engineer - Edge Platform",
-        "active": false,
-        "date_updated": 1763115183,
-        "date_posted": 1755292877,
-        "url": "https://jobs.bytedance.com/en/position/7538120693880834322/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Prosidian Consulting",
-        "id": "1d89ddd4-e67a-4ea8-bea4-aff029652d63",
-        "title": "Geospatial Web App Developer 1",
-        "active": true,
-        "date_updated": 1762908899,
-        "date_posted": 1755291959,
-        "url": "https://jobs.smartrecruiters.com/prosidianconsulting/743999979193873",
-        "locations": [
-            "Salt Lake City, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/ProSidian-Consulting",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -126076,24 +125932,6 @@
             "Quincy, MA"
         ],
         "company_url": "https://simplify.jobs/c/Trexon",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "360 IT Professionals",
-        "id": "ad12d5c7-519c-4c63-b379-9937ab14e8b8",
-        "title": "Salesforce BA",
-        "active": false,
-        "date_updated": 1761825261,
-        "date_posted": 1755292679,
-        "url": "https://jobs.smartrecruiters.com/360ITProfessionals1/743999659854838",
-        "locations": [
-            "Charlotte, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/360-IT-Professionals",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -290305,7 +290143,7 @@
         "company_name": "Sainsbury's",
         "id": "fcadd292-1b3f-4fc7-9227-6b030880bc1a",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1776003856,
         "date_posted": 1776002826,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056951",
@@ -290323,7 +290161,7 @@
         "company_name": "Sainsbury's",
         "id": "f7519d2b-cdf3-4529-be21-5e3f975b8d0f",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1776003856,
         "date_posted": 1776002826,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056960",
