@@ -2,40 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Worldpay",
-        "id": "32c43aff-1817-4ef4-b468-87be33744449",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1755589902,
-        "date_posted": 1755287341,
-        "url": "https://worldpay.wd5.myworkdayjobs.com/Worldpay_External_Careers_Site/job/US-OH-CIN-8500/Software-Engineer-I_JR0606637",
-        "locations": [
-            "Cincinnati, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Worldpay",
-        "is_visible": false,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "KBR",
-        "id": "e55579d8-c433-445a-9e2d-64ce06c317ff",
-        "title": "Software Developer \u2013 Entry Level",
-        "active": false,
-        "date_updated": 1755287039,
-        "date_posted": 1755287039,
-        "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Kihei-Hawaii/Software-Developer--Entry-Level-_R2110680",
-        "locations": [
-            "Maui, Hawaii"
-        ],
-        "company_url": "https://simplify.jobs/c/KBR",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Choice Hotels",
         "id": "e9806503-c842-4e8b-a529-6cd6f9b1b1ba",
         "title": "Software Engineer 1",
@@ -134,33 +100,6 @@
             "St. Louis, MO"
         ],
         "company_url": "https://simplify.jobs/c/Esri",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "TekSynap",
-        "id": "c61a15f4-90de-477b-a363-5d6613484e97",
-        "title": "Junior Software Developer",
-        "active": false,
-        "date_updated": 1755286292,
-        "date_posted": 1755286292,
-        "url": "https://careers-teksynap.icims.com/jobs/8306/job",
-        "locations": [
-            "Kansas",
-            "Delaware",
-            "Iowa",
-            "Florida",
-            "Waterbury, CT",
-            "Georgia",
-            "Arizona",
-            "Virginia",
-            "Arkansas",
-            "United States",
-            "Idaho"
-        ],
-        "company_url": "https://simplify.jobs/c/TekSynap",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -370,43 +309,6 @@
         "company_url": "https://simplify.jobs/c/ProSidian-Consulting",
         "is_visible": true,
         "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Citadel",
-        "id": "703ca800-7739-4af0-ac22-fe5aa240bd03",
-        "title": "Software Engineer \u2013 University Graduate",
-        "active": false,
-        "date_updated": 1761842448,
-        "date_posted": 1755287791,
-        "url": "https://www.citadel.com/careers/details/software-engineer-university-graduate-europe/",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Citadel",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "ZOLL Medical Corporation",
-        "id": "3b2fc4f8-6b55-4895-9585-c325ced78ac1",
-        "title": "Software Engineer I - Embedded Devices",
-        "active": false,
-        "date_updated": 1755700391,
-        "date_posted": 1755287553,
-        "url": "https://zoll.wd5.myworkdayjobs.com/en-US/ZOLLMedicalCorp/job/Chelmsford-MA/Software-Engineer-I---Embedded-Devices_R16418",
-        "locations": [
-            "Lowell, MA",
-            "Parsippany-Troy Hills, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/Zoll",
-        "is_visible": false,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
