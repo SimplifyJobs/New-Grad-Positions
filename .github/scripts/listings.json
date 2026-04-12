@@ -8502,27 +8502,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Other",
-        "company_name": "Chime",
-        "id": "efb0e92a-a27a-4577-8f76-44763ea6c1e4",
-        "title": "Product Security Engineer \u2013 New Grad",
-        "active": false,
-        "date_updated": 1758317481,
-        "date_posted": 1755300570,
-        "url": "https://boards.greenhouse.io/chime/jobs/8101747002",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Chime",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Verkada",
         "id": "5ebdc12b-1fa5-4a99-aa76-6e5db5368ff8",
@@ -15238,7 +15217,7 @@
         "company_name": "Intuit",
         "id": "55a00559-28b9-41bc-b6dc-cda5714e2846",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1760765120,
         "date_posted": 1760765120,
         "url": "https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/87369448720",
@@ -66507,60 +66486,6 @@
             "San Jose, CA"
         ],
         "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Prosidian Consulting",
-        "id": "114ac20d-f0e1-4681-8e88-6bced0bc1165",
-        "title": "ITSM Database Administrator 1",
-        "active": false,
-        "date_updated": 1762909730,
-        "date_posted": 1755299084,
-        "url": "https://jobs.smartrecruiters.com/prosidianconsulting/743999691670361",
-        "locations": [
-            "Washington, DC"
-        ],
-        "company_url": "https://simplify.jobs/c/ProSidian-Consulting",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "360 IT Professionals",
-        "id": "9c03c1e7-58c8-4b45-87a9-1aca08b9be93",
-        "title": "Entry Level Business/Data Analyst",
-        "active": true,
-        "date_updated": 1755299259,
-        "date_posted": 1755299259,
-        "url": "https://jobs.smartrecruiters.com/360ITProfessionals1/83931014",
-        "locations": [
-            "Fremont, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/360-IT-Professionals",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Prosidian Consulting",
-        "id": "f777aa29-d417-4132-86f3-97023441e748",
-        "title": "ITSM IT Analyst 1",
-        "active": false,
-        "date_updated": 1761940619,
-        "date_posted": 1755299002,
-        "url": "https://jobs.smartrecruiters.com/prosidianconsulting/743999691675814",
-        "locations": [
-            "Washington, DC"
-        ],
-        "company_url": "https://simplify.jobs/c/ProSidian-Consulting",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -289491,7 +289416,7 @@
         "company_name": "Sainsbury's",
         "id": "1e1be3ba-50ce-4520-8107-ceeb79d788e6",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1776003856,
         "date_posted": 1776002830,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056952",
