@@ -2,42 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "The Travelers Companies",
-        "id": "ccb4493a-9e84-4363-a43d-039392325b74",
-        "title": "Software Engineer I - AWS/Node/React/AI",
-        "active": false,
-        "date_updated": 1755295920,
-        "date_posted": 1755295920,
-        "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Software-Engineer-I--AWS-Node-React-AI-_R-46121",
-        "locations": [
-            "Hartford, CT",
-            "Richardson, TX",
-            "St Paul, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Travelers",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "The Travelers Companies",
-        "id": "171bcf21-e88a-4aa9-9d27-fe40754070c2",
-        "title": "Software Engineer I - AWS/Node/React/AI",
-        "active": false,
-        "date_updated": 1755295921,
-        "date_posted": 1755295921,
-        "url": "https://travelers.wd5.myworkdayjobs.com/External/job/GA---Atlanta/Software-Engineer-I--AWS-Node-React-AI-_R-46114",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Travelers",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Artefact",
         "id": "c6af06d4-a624-41c0-8854-564d8c4dde4f",
         "title": "Junior Software Engineer",
@@ -49,23 +13,6 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/Artefact",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Sev1Tech",
-        "id": "bee175bb-2728-4cbe-a38d-f82fa8ec7633",
-        "title": "Software Developer \u2013 Entry Level",
-        "active": false,
-        "date_updated": 1755297019,
-        "date_posted": 1755297019,
-        "url": "https://careers-sev1tech.icims.com/jobs/9092/job",
-        "locations": [
-            "Lawton, OK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sev1Tech",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -45303,24 +45250,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "360 IT Professionals",
-        "id": "964d776a-decc-4e10-8533-bda5cd20df1f",
-        "title": "Network Admin - A+ - Security+ certified",
-        "active": false,
-        "date_updated": 1761802378,
-        "date_posted": 1755295539,
-        "url": "https://jobs.smartrecruiters.com/360ITProfessionals1/743999650528741",
-        "locations": [
-            "Denver, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/360-IT-Professionals",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "TikTok",
         "id": "775950e7-6a55-4b1e-8404-d552f09b1618",
@@ -66705,24 +66634,6 @@
         "source": "Simplify",
         "category": "Software",
         "company_name": "360 IT Professionals",
-        "id": "f536f46e-bf71-46e2-9239-d6a89325f79e",
-        "title": "Bilingual Help Desk Analyst - Spanish - Locals Preferred",
-        "active": false,
-        "date_updated": 1755296272,
-        "date_posted": 1755296272,
-        "url": "https://jobs.smartrecruiters.com/360ITProfessionals1/114979988",
-        "locations": [
-            "Durham, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/360-IT-Professionals",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "360 IT Professionals",
         "id": "11148903-4292-4f0c-9586-ca24cf7de05c",
         "title": "Helpdesk Support",
         "active": false,
@@ -67029,62 +66940,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "360 IT Professionals",
-        "id": "0f75067f-e7c2-493a-9999-f834954847b6",
-        "title": "Phone Interview for Help Desk Support in Lakewood CO",
-        "active": false,
-        "date_updated": 1761824243,
-        "date_posted": 1755296290,
-        "url": "https://jobs.smartrecruiters.com/360ITProfessionals1/114907010",
-        "locations": [
-            "Lakewood, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/360-IT-Professionals",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "360 IT Professionals",
-        "id": "05b256bb-b643-497c-a141-ef07c3b16707",
-        "title": "Bilingual Help Desk Analyst with Spanish in Durham NC",
-        "active": false,
-        "date_updated": 1761802032,
-        "date_posted": 1755296266,
-        "url": "https://jobs.smartrecruiters.com/360ITProfessionals1/114980789",
-        "locations": [
-            "Durham, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/360-IT-Professionals",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "360 IT Professionals",
-        "id": "5d0ba988-e113-4296-9291-c95a8a79810b",
-        "title": "Network Engineer",
-        "active": false,
-        "date_updated": 1761940416,
-        "date_posted": 1755295549,
-        "url": "https://jobs.smartrecruiters.com/360ITProfessionals1/743999650527261",
-        "locations": [
-            "Denver, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/360-IT-Professionals",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Certificate"
-        ]
     },
     {
         "source": "Simplify",
@@ -289988,5 +289843,84 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "e11763b4-d003-467c-b5da-bef9cfc6edb2",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1776032474,
+        "date_posted": 1776031646,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056986",
+        "locations": [
+            "Manchester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "c772d55f-8c61-4c57-ac30-15c772ed0555",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1776032474,
+        "date_posted": 1776031646,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056969",
+        "locations": [
+            "York, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Cotiviti",
+        "id": "12a3073d-84e3-4183-b08b-112783afb6e2",
+        "title": "Data Analyst 1",
+        "active": true,
+        "date_updated": 1776032830,
+        "date_posted": 1776031743,
+        "url": "https://careers-cotiviti.icims.com/jobs/18853/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cotiviti",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "SS&C",
+        "id": "feaa7ea3-be0a-478a-a3d7-a4d3b79f6f55",
+        "title": "Private Markets Senior Product Associate",
+        "active": true,
+        "date_updated": 1775986190,
+        "date_posted": 1773365367,
+        "url": "https://wd1.myworkdaysite.com/recruiting/ssctech/SSCTechnologies/job/Chicago-IL/Private-Markets---Senior-Product-Associate--Hybrid--US-Only-_R41559",
+        "locations": [
+            "Boston, MA",
+            "South Orange, NJ",
+            "Chicago, IL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/SSC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
