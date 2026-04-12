@@ -284171,7 +284171,7 @@
         "company_name": "Leonardo",
         "id": "380138cf-0530-454c-a92f-c3404b7bc626",
         "title": "Analytics Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1775640241,
         "date_posted": 1775639117,
         "url": "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---London---Whitehall/Analytics-Engineer_R0028015",
@@ -290518,5 +290518,41 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "e7c08e06-5300-43f4-9eda-5ccd0139d5b6",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1775985850,
+        "date_posted": 1775984663,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056934",
+        "locations": [
+            "Edinburgh, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "d8810d79-38b1-459e-91e9-b1ae606dab19",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1775985850,
+        "date_posted": 1775984671,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056932",
+        "locations": [
+            "Edinburgh, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
