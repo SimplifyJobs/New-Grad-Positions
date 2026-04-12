@@ -1,22 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "The Boeing Company",
-        "id": "14de31b0-7cfe-4974-b496-09085c6b6b80",
-        "title": "Entry Level Software Engineer - Developer",
-        "active": false,
-        "date_updated": 1755220981,
-        "date_posted": 1755220981,
-        "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Tinker-AFB-OK/Entry-Level-Software-Engineer---Developer_JR2025462883",
-        "locations": [
-            "Oklahoma City, OK"
-        ],
-        "company_url": "https://simplify.jobs/c/Boeing",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
         "date_updated": 1761831242,
         "url": "https://www.amazon.jobs/en/jobs/3054843/robotics-systems-engineer-amazon-robotics-deployment-engineering",
         "company_name": "Amazon",
@@ -290391,7 +290374,7 @@
         "company_name": "Sainsbury's",
         "id": "a0499443-db3f-4d03-b183-fb2e26c9a0d1",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1775917988,
         "date_posted": 1775916422,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056865",
@@ -290409,7 +290392,7 @@
         "company_name": "Sainsbury's",
         "id": "03040eb1-4ed3-46c9-889f-0c6915a8e512",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1775917988,
         "date_posted": 1775916421,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056870",
@@ -290713,7 +290696,7 @@
         "company_name": "Sainsbury's",
         "id": "6635fd63-6e46-4246-89c3-ca1054540dd0",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1775946253,
         "date_posted": 1775945231,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056918",
@@ -290803,7 +290786,7 @@
         "company_name": "Sainsbury's",
         "id": "878cce86-1805-4d78-9584-c3e591124a97",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1775946253,
         "date_posted": 1775945231,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056901",
