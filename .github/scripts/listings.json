@@ -81418,7 +81418,7 @@
         "company_name": "Cisco",
         "id": "752cc127-39ae-4bed-977a-4fcbab271df8",
         "title": "Software Developer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1763664416,
         "date_posted": 1763664416,
         "url": "https://careers.cisco.com/global/en/job/2001076",
@@ -284506,7 +284506,7 @@
         "company_name": "Leonardo",
         "id": "380138cf-0530-454c-a92f-c3404b7bc626",
         "title": "Analytics Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1775640241,
         "date_posted": 1775639117,
         "url": "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---London---Whitehall/Analytics-Engineer_R0028015",
@@ -290792,6 +290792,24 @@
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056901",
         "locations": [
             "Cambridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "fb8eb01f-7ad4-4126-bab1-e4a751a844f4",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1775974874,
+        "date_posted": 1775974030,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056928",
+        "locations": [
+            "Gloucester, UK"
         ],
         "company_url": "https://simplify.jobs/c/Sainsburys",
         "is_visible": true,
