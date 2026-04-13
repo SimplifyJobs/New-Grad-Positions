@@ -288793,5 +288793,23 @@
         "date_posted": 1776076731,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1776076860,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://hpe.wd5.myworkdayjobs.com/en-US/jobsathpe/job/Sunnyvale-California-United-States-of-America/Cloud-Developer-Graduate_1204085",
+        "company_name": "Hewlett Packard Enterprise",
+        "title": "Cloud Developer Graduate",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "f0346a69-8d8d-43f3-a2c3-d663714396ea",
+        "date_posted": 1776076860,
+        "company_url": "",
+        "is_visible": true
     }
 ]
