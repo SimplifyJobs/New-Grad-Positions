@@ -276970,7 +276970,7 @@
         "company_name": "Bio-Techne",
         "id": "3e108a10-6b40-47ca-bf7c-ed2a4b2d027e",
         "title": "Advanced Scientific Data Management Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1775295721,
         "date_posted": 1775294278,
         "url": "https://biotechne.wd5.myworkdayjobs.com/en-US/Biotechne/job/Denver-CO/Advanced-Scientific-Data-Management-Associate_JR101612",
@@ -278692,7 +278692,7 @@
         "company_name": "GE Healthcare",
         "id": "afa59863-bc71-45c6-9234-1179162718d5",
         "title": "MR Calibration Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1775470789,
         "date_posted": 1775295204,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/MR-Calibration-Engineer_R4037522-1",
@@ -288829,5 +288829,23 @@
         "date_posted": 1776076948,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Intersection",
+        "id": "525a6499-ee18-4d43-9a72-9a4d0edadb77",
+        "title": "Bench Repair Technician Level 1",
+        "active": true,
+        "date_updated": 1776079134,
+        "date_posted": 1775513346,
+        "url": "https://ats.rippling.com/intersection/jobs/470a04be-9bdf-4824-ae56-aae2a2f8e564",
+        "locations": [
+            "Long Island City, Queens, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Intersection",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
