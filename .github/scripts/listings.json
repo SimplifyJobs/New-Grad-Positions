@@ -279978,7 +279978,7 @@
         "company_name": "Proofpoint",
         "id": "9ff4bc49-882e-4358-8dbc-b3fb09035a8e",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1775573594,
         "date_posted": 1775570951,
         "url": "https://proofpoint.wd5.myworkdayjobs.com/proofpointcareers/job/Belfast-Northern-Ireland/Software-Engineer-I_R14005",
@@ -287777,7 +287777,7 @@
         "company_name": "Sainsbury's",
         "id": "03a57ee3-784b-42ec-b8dc-834726a7b4b6",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1775917988,
         "date_posted": 1775916422,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056696",
@@ -288024,7 +288024,7 @@
         "company_name": "Sainsbury's",
         "id": "19987bd4-1881-45ab-81cd-68b436f11278",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1775946253,
         "date_posted": 1775945234,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056915",
@@ -289353,6 +289353,123 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "2c58ccee-295f-4da0-89d6-0340c86c0d8b",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1776090969,
+        "date_posted": 1776089264,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057069",
+        "locations": [
+            "Bury Saint Edmunds, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "MBDA",
+        "id": "c2aac5b0-f923-4eed-b546-1c9c4a9da771",
+        "title": "Algorithm Developer - Weapon Systems",
+        "active": true,
+        "date_updated": 1776091694,
+        "date_posted": 1776089292,
+        "url": "https://mbda.wd3.myworkdayjobs.com/MBDA-UK/job/Bristol/Algorithm-Developer--Weapon-Systems-_R34922-1",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/MBDA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "9945ee69-b3f3-4de3-9a60-bb5584ce9b07",
+        "title": "Radio Frequency Engineering Technician 1",
+        "active": true,
+        "date_updated": 1776091778,
+        "date_posted": 1776089364,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-842--1151-E-Hermans-Rd--BLDG-842/RF-Engineering-Technician-I_01836799",
+        "locations": [
+            "Tucson, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "740b251e-af3e-41e7-978e-f614dde8c5f0",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1776091694,
+        "date_posted": 1776089264,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057058",
+        "locations": [
+            "Newcastle upon Tyne, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "1b85c645-3a0c-442a-8c76-72c8fefe912e",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1776090969,
+        "date_posted": 1776089264,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057051",
+        "locations": [
+            "Derby, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TD Bank",
+        "id": "00c909d8-8250-4e5e-9b0c-276febfe7e26",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1776091781,
+        "date_posted": 1776089396,
+        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-I--Java--JEE--Spring--Spring-Boot-_R_1480966",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/TD-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD",
+            "Certificate"
         ]
     }
 ]
