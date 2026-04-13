@@ -288651,5 +288651,23 @@
         "date_posted": 1776072690,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1776072978,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Junior-Software-Engineer_R0158659",
+        "company_name": "Amentum",
+        "title": "Junior Software Engineer",
+        "locations": [
+            "Dahlgren, VA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "94a18cc9-5c2d-4b4a-b9d9-a807fb73d9cd",
+        "date_posted": 1776072978,
+        "company_url": "",
+        "is_visible": true
     }
 ]
