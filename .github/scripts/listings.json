@@ -288669,5 +288669,23 @@
         "date_posted": 1776072978,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1776073041,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://caci.wd1.myworkdayjobs.com/en-US/external/job/US-MD-Bethesda/Junior-C--Software-Engineer_324627",
+        "company_name": "CACI",
+        "title": "Junior C# Software Engineer",
+        "locations": [
+            "Bethesda, MD"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "4d3b608b-7d50-4226-ab3c-d8e8033c794c",
+        "date_posted": 1776073041,
+        "company_url": "",
+        "is_visible": true
     }
 ]
