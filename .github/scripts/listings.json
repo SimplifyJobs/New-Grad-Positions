@@ -288633,5 +288633,23 @@
         "date_posted": 1776072470,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1776072619,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://kairosinc.applytojob.com/apply/DxkfaSI4f5/Software-Developer-Junior",
+        "company_name": "KAIROS",
+        "title": "Software Developer, Junior",
+        "locations": [
+            "St. Inigoes, MD"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "0cd07f86-6c6e-47ad-8b29-047b6a2c5c27",
+        "date_posted": 1776072619,
+        "company_url": "",
+        "is_visible": true
     }
 ]
