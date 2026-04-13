@@ -288633,5 +288633,23 @@
         "date_posted": 1776072470,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1776072690,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://www.metrostar.com/job-post/?gh_jid=7670518003",
+        "company_name": "MetroStar Systems",
+        "title": "Associate Data Engineer",
+        "locations": [
+            "Remote in US"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "85670303-70f6-4372-9aef-c60deff6c82a",
+        "date_posted": 1776072690,
+        "company_url": "",
+        "is_visible": true
     }
 ]
