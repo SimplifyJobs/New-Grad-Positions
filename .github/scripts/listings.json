@@ -289471,5 +289471,26 @@
             "PhD",
             "Certificate"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Intel",
+        "id": "4e416b1a-8f8a-4710-a6e4-aad6c403a4ef",
+        "title": "Silicon Packaging Design Engineer",
+        "active": true,
+        "date_updated": 1776079125,
+        "date_posted": 1775903486,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Silicon-Packaging-Design-Engineer_JR0282355",
+        "locations": [
+            "Hillsboro, OR",
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
