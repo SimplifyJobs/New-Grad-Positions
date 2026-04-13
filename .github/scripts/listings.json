@@ -272062,7 +272062,7 @@
         "company_name": "Franklin Templeton",
         "id": "7bf31ab8-bc49-419e-a312-2f85fc476b06",
         "title": "Investment Associate - Quantitative Research - FT Investment Solutions",
-        "active": true,
+        "active": false,
         "date_updated": 1775085042,
         "date_posted": 1775081371,
         "url": "https://franklintempleton.wd5.myworkdayjobs.com/invitation-only/job/Boston-Massachusetts-United-States-of-America/Investment-Associate--Quantitative-Research---FT-Investment-Solutions-_862786-2",
@@ -288375,5 +288375,41 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Southwest Airlines",
+        "id": "534ed7fe-6398-41a2-be71-63407c531361",
+        "title": "Associate Technical Data Manager",
+        "active": true,
+        "date_updated": 1776061456,
+        "date_posted": 1776060461,
+        "url": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Associate-Technical-Data-Manager_R-2026-66885",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Southwest-Airlines",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "e77cc972-b2a7-4fb5-9de9-a1181efc08f5",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1776061456,
+        "date_posted": 1776060416,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056984",
+        "locations": [
+            "Oxford, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
