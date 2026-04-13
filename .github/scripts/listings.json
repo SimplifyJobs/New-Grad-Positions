@@ -1,22 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Intuit",
-        "id": "5af2dd1a-d134-4c11-ae93-26803d4c2933",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1755588287,
-        "date_posted": 1755315906,
-        "url": "https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/85076586336",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Intuit",
-        "is_visible": false,
-        "sponsorship": "Other"
-    },
-    {
         "date_updated": 1760394738,
         "url": "https://harriscomputer.wd3.myworkdayjobs.com/en-US/1/job/Virginia-United-States/Junior-Computational-Linguist_R0031051-4",
         "company_name": "Harris",
@@ -65438,96 +65421,6 @@
         "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/104037481",
         "locations": [
             "Decatur, AL"
-        ],
-        "company_url": "https://simplify.jobs/c/Artech-Information-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Artech Information System",
-        "id": "adb73bce-1414-4f50-889d-3aa3320a48b7",
-        "title": "Deskside Support",
-        "active": false,
-        "date_updated": 1762911892,
-        "date_posted": 1755316839,
-        "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/106664042",
-        "locations": [
-            "Mt Laurel Township, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/Artech-Information-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Artech Information System",
-        "id": "ad4324fd-73fb-43ea-8d25-984b3f1dd74a",
-        "title": "POS Analyst",
-        "active": false,
-        "date_updated": 1762908443,
-        "date_posted": 1755316849,
-        "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/99305177",
-        "locations": [
-            "Philadelphia, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Artech-Information-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Artech Information System",
-        "id": "f161859c-5a64-4d2e-baf1-ff4e3cf317b3",
-        "title": "Network Engineer 1",
-        "active": false,
-        "date_updated": 1755316552,
-        "date_posted": 1755316552,
-        "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/743999650885073",
-        "locations": [
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Artech-Information-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Artech Information System",
-        "id": "4fcb6759-dc1f-4228-a8bc-8fe6bb3c8620",
-        "title": "Desktop Support",
-        "active": false,
-        "date_updated": 1762911223,
-        "date_posted": 1755316131,
-        "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/101096539",
-        "locations": [
-            "Dubuque, IA"
-        ],
-        "company_url": "https://simplify.jobs/c/Artech-Information-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Artech Information System",
-        "id": "6138f0e1-da7e-4a3c-b1f6-d832c0c868cc",
-        "title": "Deskside Support",
-        "active": false,
-        "date_updated": 1761802010,
-        "date_posted": 1755315621,
-        "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/108853477",
-        "locations": [
-            "Middlesex, NJ"
         ],
         "company_url": "https://simplify.jobs/c/Artech-Information-System",
         "is_visible": true,
