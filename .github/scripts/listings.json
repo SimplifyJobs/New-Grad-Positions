@@ -277453,7 +277453,7 @@
         "company_name": "Pennsylvania State University",
         "id": "511d6f5f-2c89-4282-b5ab-da8d188ff120",
         "title": "Engineering Designer",
-        "active": true,
+        "active": false,
         "date_updated": 1775303196,
         "date_posted": 1775300138,
         "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Engineering-Designer_REQ_0000076206-2",
@@ -283465,7 +283465,7 @@
         "company_name": "Momentus Space",
         "id": "2124b982-896f-40e1-9615-9fa583612302",
         "title": "Electrical Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1775716772,
         "date_posted": 1775714857,
         "url": "https://job-boards.greenhouse.io/momentus/jobs/5877266004",
@@ -283882,7 +283882,7 @@
         "company_name": "Sainsbury's",
         "id": "1d14b99f-7c25-4777-84c4-fcf42b7f278b",
         "title": "Trading Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1775745376,
         "date_posted": 1775743729,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056643",
@@ -284453,7 +284453,7 @@
         "company_name": "Sainsbury's",
         "id": "ba38190f-a702-4d65-8c47-89d1ed59c074",
         "title": "Trading Assistant - Shift",
-        "active": false,
+        "active": true,
         "date_updated": 1775775071,
         "date_posted": 1775772432,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056713",
@@ -288886,5 +288886,357 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "fd36cad7-e259-4959-a2f5-de6ad2bf1c29",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1776080169,
+        "date_posted": 1776071059,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056995",
+        "locations": [
+            "Leeds, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "fa9df761-0cff-41ea-9af7-7a559e4349e7",
+        "title": "Night Shift Trading Assistant",
+        "active": true,
+        "date_updated": 1776080559,
+        "date_posted": 1776071061,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057014",
+        "locations": [
+            "United Kingdom"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Hyundai Motor Company",
+        "id": "ef8631ab-b59b-4a90-9ce3-c3d823049ddd",
+        "title": "OTA Software Engineer",
+        "active": true,
+        "date_updated": 1776080169,
+        "date_posted": 1776070901,
+        "url": "https://careers-americas.hyundai.com/hatci/job/Superior-Charter-Township-OTA-Software-Engineer-MI-48198/1367623900/?ats=successfactors",
+        "locations": [
+            "Ann Arbor, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/b5474c30-ac69-40c8-8387-51dcf3675b12",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "c008165c-65e0-4bb1-8d05-96273f4e69e1",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1776080169,
+        "date_posted": 1776071059,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056926",
+        "locations": [
+            "Birmingham, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "be6d6ad9-12cc-4277-87e4-7c5222b236ef",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1776080169,
+        "date_posted": 1776071059,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056998",
+        "locations": [
+            "Wellington, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Hyundai Motor Company",
+        "id": "7f6bd1bb-512b-41f4-b125-ef2f45ea9a92",
+        "title": "OTA Software Engineer",
+        "active": true,
+        "date_updated": 1776080169,
+        "date_posted": 1776070900,
+        "url": "https://careers-americas.hyundai.com/hatci/job/Superior-Charter-Township-OTA-Software-Engineer-MI-48198/1367618800/?ats=successfactors",
+        "locations": [
+            "Ann Arbor, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/b5474c30-ac69-40c8-8387-51dcf3675b12",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Hyundai Motor Company",
+        "id": "6a15cae4-1550-4132-b530-779bf97e6ab2",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1776080169,
+        "date_posted": 1776070905,
+        "url": "https://careers-americas.hyundai.com/hatci/job/Irvine-Data-Analyst-(North-American-Quality-Center-NAQC)-CA-92618/1368297900/?ats=successfactors",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/b5474c30-ac69-40c8-8387-51dcf3675b12",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "U.S. Bank",
+        "id": "52a55594-9f51-4bf8-bc25-530bde48f44d",
+        "title": "Entry-Level AI / ML Software Engineer",
+        "active": true,
+        "date_updated": 1776080169,
+        "date_posted": 1776071268,
+        "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Hopkins-MN/Entry-Level-AI---ML-Software-Engineer_2026-0008813-1",
+        "locations": [
+            "Hopkins, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/US-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Hyundai Motor Company",
+        "id": "24a7734e-e6e9-45f4-ac02-8010c4ebc15f",
+        "title": "Total Vehicle Evaluation Engineer 1",
+        "active": true,
+        "date_updated": 1776080759,
+        "date_posted": 1776070906,
+        "url": "https://careers-americas.hyundai.com/hatci/job/Irvine-Total-Vehicle-Evaluation-Engineer-I-CA-92618/1365341000/?ats=successfactors",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/b5474c30-ac69-40c8-8387-51dcf3675b12",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Citi",
+        "id": "2309477f-f9be-44ed-b345-5bc1d55394da",
+        "title": "Technology - Application Development - Full Time Analyst",
+        "active": true,
+        "date_updated": 1776080169,
+        "date_posted": 1776071452,
+        "url": "https://citi.wd5.myworkdayjobs.com/Citi_Early_Careers_Events_Site/job/Belfast--United-Kingdom/Technology---Application-Development--Full-Time-Analyst--Belfast--2026_25920692-1",
+        "locations": [
+            "Belfast, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Citigroup",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "22bdb2f7-6457-48e7-99ec-497ba5cb74b8",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1776080169,
+        "date_posted": 1776071066,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056977",
+        "locations": [
+            "Harrogate, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "13ba8b97-8926-49f6-9154-3f75828df017",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1776080169,
+        "date_posted": 1776071059,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056990",
+        "locations": [
+            "Stoke-on-Trent, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Hyundai Motor Company",
+        "id": "0fd6c3b9-1d71-4994-b610-05c38471a333",
+        "title": "Brake Test and Development Engineer 1",
+        "active": true,
+        "date_updated": 1776080646,
+        "date_posted": 1776070906,
+        "url": "https://careers-americas.hyundai.com/hatci/job/California-City-Brake-Test-&-Development-Engineer-I-CA-93505/1369583600/?ats=successfactors",
+        "locations": [
+            "Palmdale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/b5474c30-ac69-40c8-8387-51dcf3675b12",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GE Healthcare",
+        "id": "b24bebb4-6d3f-48ef-8cf7-8fd966a130f2",
+        "title": "Field Service Engineer 1 - Multiple Teams",
+        "active": true,
+        "date_updated": 1776080587,
+        "date_posted": 1775901475,
+        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Chicago/Field-Service-Engineer-1---Chicago_R4039293-1",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Healthcare",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pfizer",
+        "id": "f68cdf8b-7f87-4fd1-b33b-63ba2281dd84",
+        "title": "Postdoctoral Fellow - AI/ML for Drug Metabolite Identification",
+        "active": true,
+        "date_updated": 1776080522,
+        "date_posted": 1775901903,
+        "url": "https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-States---Connecticut---Groton/Postdoctoral-Fellow---AI-ML-for-Drug-Metabolite-Identification_4954896",
+        "locations": [
+            "Groton, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/Pfizer",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pfizer",
+        "id": "c6fdaed1-71e0-4592-8d06-379861de6722",
+        "title": "Postdoctoral Fellow - AI/ML for Drug Metabolite Identification",
+        "active": true,
+        "date_updated": 1776080556,
+        "date_posted": 1775901811,
+        "url": "https://pfizer.wd1.myworkdayjobs.com/internaljobs/job/United-States---Connecticut---Groton/Postdoctoral-Fellow---AI-ML-for-Drug-Metabolite-Identification_4954896-2",
+        "locations": [
+            "Groton, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/Pfizer",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Bird Construction",
+        "id": "eb924fbd-f05a-47f0-8bd5-d6351f818086",
+        "title": "Radiation Protection Technician",
+        "active": true,
+        "date_updated": 1776078798,
+        "date_posted": 1775900669,
+        "url": "https://bird.wd3.myworkdayjobs.com/BirdConstructionCareers/job/Port-Hope-ON/Radiation-Protection-Technician_JR-8544",
+        "locations": [
+            "Courtice, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Bird-Construction",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Integer Holdings Corporation",
+        "id": "e467c3e6-ee6d-4f51-b472-9d1911a4659a",
+        "title": "Senior R&D Technician",
+        "active": true,
+        "date_updated": 1776078530,
+        "date_posted": 1775297434,
+        "url": "https://integer.wd1.myworkdayjobs.com/External/job/Plymouth-MN/Senior-R-D-Technician_R34461",
+        "locations": [
+            "Wayzata, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Integer-Holdings-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
     }
 ]
