@@ -276086,7 +276086,7 @@
         "id": "9fc63854-be44-4620-875b-82f769c87858",
         "title": "Software Engineer",
         "active": true,
-        "date_updated": 1775267121,
+        "date_updated": 1776076706,
         "date_posted": 1775265592,
         "url": "https://www.ixl.com/company/jobs?gh_jid=8486920002",
         "locations": [
@@ -276094,11 +276094,8 @@
         ],
         "company_url": "https://simplify.jobs/c/IXL-Learning",
         "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
+        "sponsorship": "Offers Sponsorship",
+        "degrees": []
     },
     {
         "source": "Simplify",
