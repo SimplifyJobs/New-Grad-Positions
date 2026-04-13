@@ -288741,5 +288741,23 @@
         "date_posted": 1776073772,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1776074136,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.lever.co/inductiveautomation/9d6b7b24-4329-4e13-a29a-2b847ce2b1f9",
+        "company_name": "Inductive Automation",
+        "title": "Software Quality Assurance Engineer I",
+        "locations": [
+            "Folsom, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "4ed49606-fe5d-465d-9685-ec99eb610937",
+        "date_posted": 1776074136,
+        "company_url": "",
+        "is_visible": true
     }
 ]
