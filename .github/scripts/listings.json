@@ -288811,5 +288811,23 @@
         "date_posted": 1776076860,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1776076948,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://mecca.wd3.myworkdayjobs.com/en-US/careers/job/Richmond/Junior-to-Mid-level-Cloud-Engineer_R014479",
+        "company_name": "MECCA",
+        "title": "Junior Cloud Engineer",
+        "locations": [
+            "Richmond, VA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "00619836-5020-42c7-baa4-da554d447cf7",
+        "date_posted": 1776076948,
+        "company_url": "",
+        "is_visible": true
     }
 ]
