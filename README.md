@@ -80,6 +80,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 </thead>
 <tbody>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/TD-Bank?utm_source=GHList&utm_medium=company">TD Bank</a></strong></td>
+<td>Software Engineer 1</td>
+<td>Toronto, ON, Canada</td>
+<td><div align="center"><a href="https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-I--Java--JEE--Spring--Spring-Boot-_R_1480966?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/00c909d8-8250-4e5e-9b0c-276febfe7e26?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
 <td><strong>MECCA</strong></td>
 <td>Junior Cloud Engineer</td>
 <td>Richmond, VA</td>
@@ -336,13 +343,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Mainframe Software Engineer 1</td>
 <td>Columbus, GA</td>
 <td><div align="center"><a href="https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-GA-CMH-ONE-RIVERFRONT/Mainframe-Software-Engineer-I_JR0306075?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/cb733bfa-1a63-4bb1-85a5-11743761bd76?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>6d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Proofpoint?utm_source=GHList&utm_medium=company">Proofpoint</a></strong></td>
-<td>Software Engineer 1</td>
-<td>Belfast, UK</td>
-<td><div align="center"><a href="https://proofpoint.wd5.myworkdayjobs.com/proofpointcareers/job/Belfast-Northern-Ireland/Software-Engineer-I_R14005?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/9ff4bc49-882e-4358-8dbc-b3fb09035a8e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
 <td>6d</td>
 </tr>
 <tr>
@@ -721,14 +721,14 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Engineer – Entry Level 🇺🇸</td>
 <td>Manassas, VA</td>
 <td><a href="https://careers-gdms.icims.com/jobs/71514/software-engineer-%E2%80%93-entry-level/job?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td>25d</td>
+<td>26d</td>
 </tr>
 <tr>
 <td><strong>Ascensus</strong></td>
 <td>Associate Software Development Engineer (SDET)</td>
 <td><details><summary><strong>6 locations</strong></summary>Newton, MA</br>Dresher, PA</br>Lake Mary, FL</br>Boston, MA</br>Philadelphia, PA</br>Orlando, FL</details></td>
 <td><a href="https://ascensushr.wd1.myworkdayjobs.com/en-US/ascensuscareers/job/Newton-MA/Associate-Software-Development-Engineer--SDET---IT-Software-Engineers_R0020925?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td>25d</td>
+<td>26d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Konrad-Group?utm_source=GHList&utm_medium=company">Konrad Group</a></strong></td>
@@ -1134,7 +1134,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Product Engineer 1</td>
 <td>Houston, TX</td>
 <td><div align="center"><a href="https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/39682?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/e6e83f1e-6b71-420e-9c60-f96aa09727e3?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>1mo</td>
+<td>2mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Crowdstrike?utm_source=GHList&utm_medium=company">🔥 Crowdstrike</a></strong></td>
@@ -1729,7 +1729,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (1205)</summary>
+<summary>🗃️ Inactive roles (1206)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -1779,6 +1779,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Proofpoint?utm_source=GHList&utm_medium=company">Proofpoint</a></strong></td>
+<td>Software Engineer 1</td>
+<td>Belfast, UK</td>
+<td>🔒</td>
+<td>6d</td>
+</tr>
+<tr>
+<td>↳</td>
 <td>Software Engineer 1</td>
 <td>Belfast, UK</td>
 <td>🔒</td>
@@ -3308,7 +3315,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Engineer 1</td>
 <td>Anaheim, CA</td>
 <td>🔒</td>
-<td>1mo</td>
+<td>2mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Toast?utm_source=GHList&utm_medium=company">Toast</a></strong></td>
@@ -6269,7 +6276,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Engineer 1</td>
 <td>Brighton, UK</td>
 <td>🔒</td>
-<td>4mo</td>
+<td>5mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/BlueCross-Blueshield-Of-Tennessee?utm_source=GHList&utm_medium=company">BlueCross BlueShield of Tennessee</a></strong></td>
@@ -14254,7 +14261,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>2mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
+<td>↳</td>
 <td>Software Embedded Engineer 1 - TX</td>
 <td>McKinney, TX</td>
 <td>🔒</td>
