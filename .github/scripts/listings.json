@@ -288451,5 +288451,23 @@
         "date_posted": 1776071252,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1776071352,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://boeing.wd1.myworkdayjobs.com/en-US/external_subsidiary/job/USA---Oklahoma-City-OK/Entry-Level-Simulation-Software-Test-Engineer_JR2026501258",
+        "company_name": "Boeing",
+        "title": "Entry-Level Simulation Software Test Engineer",
+        "locations": [
+            "Oklahoma City, OK"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "6a2c827b-23d9-4925-9979-ba9ae6967f2c",
+        "date_posted": 1776071352,
+        "company_url": "",
+        "is_visible": true
     }
 ]
