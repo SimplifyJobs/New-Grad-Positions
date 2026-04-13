@@ -44661,24 +44661,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "American University",
-        "id": "f17dac7a-b558-49f1-be6c-2aafd1251eb8",
-        "title": "Computer Science Postdoctoral Fellow",
-        "active": true,
-        "date_updated": 1755300908,
-        "date_posted": 1755300908,
-        "url": "https://american.wd1.myworkdayjobs.com/au/job/East-Campus-Washington-DC/Computer-Science-Postdoctoral-Fellow_R1839",
-        "locations": [
-            "Washington, DC"
-        ],
-        "company_url": "https://simplify.jobs/c/American-University",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Enable",
         "id": "08089ebe-5f0a-4ffc-86f0-4b26b3e9cc9b",
         "title": "Associate Machine Learning Engineer",
@@ -65459,24 +65441,6 @@
             "New Orleans, LA"
         ],
         "company_url": "https://simplify.jobs/c/Artech-Information-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Goldman Sachs",
-        "id": "36cdf4e9-4f05-45ac-baef-2f787db03c4d",
-        "title": "2026 \u2013 London - Engineering - New Analyst",
-        "active": false,
-        "date_updated": 1761842418,
-        "date_posted": 1755301096,
-        "url": "https://higher.gs.com/roles/150871?type=students",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Goldman-Sachs",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
