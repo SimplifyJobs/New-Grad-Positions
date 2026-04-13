@@ -201790,7 +201790,7 @@
         "company_name": "Western Digital",
         "id": "9cf6a484-f66b-4638-92a8-c159994f9932",
         "title": "Early Career Talent - Electronics Design Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1771571256,
         "date_posted": 1771571256,
         "url": "https://jobs.smartrecruiters.com/WesternDigital/744000110304414",
@@ -247318,7 +247318,7 @@
         "company_name": "Western Digital",
         "id": "a56ebbf4-20e7-4aac-858f-0b5a587d29ff",
         "title": "Early Careers Talent - Failure Analysis Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773795973,
         "date_posted": 1773795973,
         "url": "https://jobs.smartrecruiters.com/WesternDigital/744000115303377",
@@ -269603,7 +269603,7 @@
         "company_name": "Western Digital",
         "id": "c3e530a6-82f8-4c6a-a2d3-31c01c6bd3b2",
         "title": "Electronics Design Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1775001602,
         "date_posted": 1774994642,
         "url": "https://jobs.smartrecruiters.com/WesternDigital/744000117943417",
@@ -283465,7 +283465,7 @@
         "company_name": "Momentus Space",
         "id": "2124b982-896f-40e1-9615-9fa583612302",
         "title": "Electrical Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1775716772,
         "date_posted": 1775714857,
         "url": "https://job-boards.greenhouse.io/momentus/jobs/5877266004",
@@ -289259,6 +289259,100 @@
         "degrees": [
             "Bachelor's",
             "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "52e4f4fc-d57b-4481-8fcc-e5d2d2ac159f",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1776091694,
+        "date_posted": 1776089269,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057067",
+        "locations": [
+            "Sheffield, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Caterpillar Inc.",
+        "id": "eb67ce93-ce26-4935-b27f-db4b32f49ec5",
+        "title": "Embedded Software Engineer",
+        "active": true,
+        "date_updated": 1776091694,
+        "date_posted": 1776089447,
+        "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/Embedded-Software-Engineer_R0000362696",
+        "locations": [
+            "Peoria, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Caterpillar-Inc",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "57e72797-3d47-4edd-b897-fd68c9c737cd",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1776091694,
+        "date_posted": 1776089263,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057046",
+        "locations": [
+            "Derby, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "265c61f6-80cb-42d8-9a17-b8b4d014ec6d",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1776090969,
+        "date_posted": 1776089263,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057068",
+        "locations": [
+            "Bury Saint Edmunds, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "31eb6244-17eb-4001-baa0-179014ac8dd3",
+        "title": "General Hire \u2013 Machine Learning Scientist Graduate - TikTok Recommendation",
+        "active": true,
+        "date_updated": 1776090969,
+        "date_posted": 1776089609,
+        "url": "https://lifeattiktok.com/search/7516697794956478738",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
         ]
     }
 ]
