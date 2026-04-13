@@ -288759,5 +288759,24 @@
         "date_posted": 1776074136,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1776074378,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://finning.wd3.myworkdayjobs.com/en-US/external/job/Calgary-AB-CA/AI---Analytics-Engineer-I_R-2026-1255",
+        "company_name": "Finning",
+        "title": "AI & Analytics Engineer I",
+        "locations": [
+            "Calgary, AB, CAN",
+            "Edmonton, AB, CAN"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "0732e475-12f5-4db0-93fa-213bdaea368c",
+        "date_posted": 1776074378,
+        "company_url": "",
+        "is_visible": true
     }
 ]
