@@ -288705,5 +288705,23 @@
         "date_posted": 1776073191,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1776073545,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://unum.wd1.myworkdayjobs.com/en-US/external/job/Chattanooga-Tennessee-USA/IT-Associate---Software-Engineer_835051",
+        "company_name": "Unum",
+        "title": "IT Associate - Software Engineer",
+        "locations": [
+            "Chattanooga, TN"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "1c346a84-7f42-4309-b3a0-f10343f2a64b",
+        "date_posted": 1776073545,
+        "company_url": "",
+        "is_visible": true
     }
 ]
