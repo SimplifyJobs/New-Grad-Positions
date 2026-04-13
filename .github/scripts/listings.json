@@ -65306,42 +65306,6 @@
         "source": "Simplify",
         "category": "Software",
         "company_name": "Artech Information System",
-        "id": "ef138477-959c-4bf0-bd98-dc37782cb92a",
-        "title": "Systems Administrator 1",
-        "active": false,
-        "date_updated": 1762906865,
-        "date_posted": 1755304526,
-        "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/92002678",
-        "locations": [
-            "Centennial, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Artech-Information-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Artech Information System",
-        "id": "4957ce43-8b14-48db-bf1f-4dde23b81ed8",
-        "title": "IT Specialist",
-        "active": false,
-        "date_updated": 1755304252,
-        "date_posted": 1755304252,
-        "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/98954807",
-        "locations": [
-            "New Orleans, LA"
-        ],
-        "company_url": "https://simplify.jobs/c/Artech-Information-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Artech Information System",
         "id": "57248cd7-005d-4257-b08f-534ad877e05e",
         "title": "Deskside Support Specialist",
         "active": false,
@@ -66089,42 +66053,6 @@
         "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/101588965",
         "locations": [
             "St. Louis, MO"
-        ],
-        "company_url": "https://simplify.jobs/c/Artech-Information-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Artech Information System",
-        "id": "9fc99f87-4467-4977-9291-eab1432385f9",
-        "title": "Helpdesk Consultant",
-        "active": false,
-        "date_updated": 1755305482,
-        "date_posted": 1755305482,
-        "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/743999651140422",
-        "locations": [
-            "East Lansing, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/Artech-Information-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Artech Information System",
-        "id": "0139d79e-1b74-4943-9e70-a65f1acd8737",
-        "title": "Desktop Support Technician L1",
-        "active": false,
-        "date_updated": 1761837622,
-        "date_posted": 1755305465,
-        "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/87073432",
-        "locations": [
-            "Morrisville, NC"
         ],
         "company_url": "https://simplify.jobs/c/Artech-Information-System",
         "is_visible": true,
@@ -289202,6 +289130,26 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "TikTok",
+        "id": "10de16b2-cf3c-496e-997a-8d3b40e778d7",
+        "title": "Graduate AI Product Manager",
+        "active": true,
+        "date_updated": 1774844986,
+        "date_posted": 1772435739,
+        "url": "https://lifeattiktok.com/search/7537485209698191623",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
