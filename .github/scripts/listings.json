@@ -65306,24 +65306,6 @@
         "source": "Simplify",
         "category": "Software",
         "company_name": "Artech Information System",
-        "id": "57248cd7-005d-4257-b08f-534ad877e05e",
-        "title": "Deskside Support Specialist",
-        "active": false,
-        "date_updated": 1762908848,
-        "date_posted": 1755307643,
-        "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/108377562",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Artech-Information-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Artech Information System",
         "id": "e1f2f422-fe42-4b94-a162-4fa3c4f8ada4",
         "title": "Desktop Support",
         "active": false,
@@ -281214,7 +281196,7 @@
         "company_name": "Sainsbury's",
         "id": "999144ec-7b42-40f1-a828-f958e82de411",
         "title": "Trading Assistant - Shift",
-        "active": false,
+        "active": true,
         "date_updated": 1775601181,
         "date_posted": 1775599652,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056476",
