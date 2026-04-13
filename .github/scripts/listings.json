@@ -65356,42 +65356,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Artech Information System",
-        "id": "2c4bb6b2-a26f-4374-ab94-0ecb8a3d75b6",
-        "title": "Network Technician",
-        "active": false,
-        "date_updated": 1755312382,
-        "date_posted": 1755312382,
-        "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/116299050",
-        "locations": [
-            "Fairfield, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Artech-Information-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Artech Information System",
-        "id": "fe54ae48-4518-4186-a257-a7a5141343e3",
-        "title": "Desktop Support",
-        "active": false,
-        "date_updated": 1762911274,
-        "date_posted": 1755311528,
-        "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/111150280",
-        "locations": [
-            "St. Louis, MO"
-        ],
-        "company_url": "https://simplify.jobs/c/Artech-Information-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Artech Information System",
         "id": "f6c1997a-465a-426e-8e34-0bff8527b912",
@@ -65422,24 +65386,6 @@
             "Dubuque, IA"
         ],
         "company_url": "https://simplify.jobs/c/Artech-Information-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "519b82d4-f23e-4c95-a833-1915577f81c1",
-        "title": "Machine Learning Graduate - Ecommerce Recommendation - BS/MS",
-        "active": true,
-        "date_updated": 1755313103,
-        "date_posted": 1755313103,
-        "url": "https://jobs.bytedance.com/en/position/7536346859938892040/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -65536,24 +65482,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Artech Information System",
-        "id": "57117a7f-deab-4f3c-b77f-062faf695d52",
-        "title": "Desktop Support",
-        "active": false,
-        "date_updated": 1762906897,
-        "date_posted": 1755312684,
-        "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/108910236",
-        "locations": [
-            "Greenwood Village, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Artech-Information-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Artech Information System",
         "id": "f161859c-5a64-4d2e-baf1-ff4e3cf317b3",
@@ -65610,24 +65538,6 @@
         "source": "Simplify",
         "category": "Software",
         "company_name": "Artech Information System",
-        "id": "c141664e-7db0-4d62-bfd0-c29087169584",
-        "title": "IT Operating Systems Analyst - Ztdp",
-        "active": false,
-        "date_updated": 1755312404,
-        "date_posted": 1755312404,
-        "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/99104278",
-        "locations": [
-            "Minneapolis, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Artech-Information-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Artech Information System",
         "id": "dbc45210-a874-4bf7-9702-2c7dd0168168",
         "title": "Deskside Support Representative",
         "active": false,
@@ -65638,42 +65548,6 @@
             "St Charles, MO"
         ],
         "company_url": "https://simplify.jobs/c/Artech-Information-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "ade3958f-f8d5-4dea-9864-3e67252c71c5",
-        "title": "Graduate Machine Learning Engineer - E-Commerce Supply Chain & Logistics",
-        "active": true,
-        "date_updated": 1762936641,
-        "date_posted": 1755313167,
-        "url": "https://jobs.bytedance.com/en/position/7538937140706101522/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "7dc64487-f056-4398-92c1-882600b6b151",
-        "title": "Machine Learning Graduate - E-Commerce Governance - BS/MS",
-        "active": true,
-        "date_updated": 1755313165,
-        "date_posted": 1755313165,
-        "url": "https://jobs.bytedance.com/en/position/7538929248565381383/detail",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -65716,24 +65590,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "cd644164-a751-417b-be9e-6809af0a06b0",
-        "title": "Machine Learning Graduate - Ecommerce Recommendation - 2026 Start",
-        "active": true,
-        "date_updated": 1755313146,
-        "date_posted": 1755313146,
-        "url": "https://jobs.bytedance.com/en/position/7536342411669752071/detail",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Artech Information System",
         "id": "8f708bfd-eae4-4d3c-b967-8771f01f8083",
@@ -65762,24 +65618,6 @@
         "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/103883343",
         "locations": [
             "Centennial, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Artech-Information-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Artech Information System",
-        "id": "6a5b6a27-bb8e-42f8-bc00-f12a5bdc6765",
-        "title": "Deskside Support - Deskside Support",
-        "active": false,
-        "date_updated": 1761802416,
-        "date_posted": 1755312070,
-        "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/101096455",
-        "locations": [
-            "Boise, ID"
         ],
         "company_url": "https://simplify.jobs/c/Artech-Information-System",
         "is_visible": true,
