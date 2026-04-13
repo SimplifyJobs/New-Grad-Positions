@@ -288687,5 +288687,23 @@
         "date_posted": 1776073041,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1776073191,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://cai.wd5.myworkdayjobs.com/en-US/computer_aid/job/FL-CLIENT-STATE/Junior-Data-Engineer_R7496",
+        "company_name": "CAI",
+        "title": "Junior Data Engineer",
+        "locations": [
+            "FL"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "223d8c61-11bd-4c7e-8e62-4a1ac9d9046a",
+        "date_posted": 1776073191,
+        "company_url": "",
+        "is_visible": true
     }
 ]
