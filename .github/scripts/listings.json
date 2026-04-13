@@ -65340,42 +65340,6 @@
         "source": "Simplify",
         "category": "Software",
         "company_name": "Artech Information System",
-        "id": "be7fee04-891b-48fd-9fb0-d0a471a6b283",
-        "title": "Deskside Support Representative",
-        "active": false,
-        "date_updated": 1762908652,
-        "date_posted": 1755309668,
-        "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/103699999",
-        "locations": [
-            "Columbia, MO"
-        ],
-        "company_url": "https://simplify.jobs/c/Artech-Information-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Artech Information System",
-        "id": "b76387cd-0773-4069-a5d2-19cad82ffef3",
-        "title": "Deskside Support",
-        "active": false,
-        "date_updated": 1755311185,
-        "date_posted": 1755311185,
-        "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/104997877",
-        "locations": [
-            "Oakland, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Artech-Information-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Artech Information System",
         "id": "f4f0d251-d66d-45f1-bfb2-93352ae6ddf2",
         "title": "Deskside Support Representative",
         "active": false,
@@ -65816,78 +65780,6 @@
         "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/101096455",
         "locations": [
             "Boise, ID"
-        ],
-        "company_url": "https://simplify.jobs/c/Artech-Information-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Artech Information System",
-        "id": "05b54f44-554b-4436-934c-7bdfe7a86c22",
-        "title": "Data Center Specialist",
-        "active": false,
-        "date_updated": 1755310580,
-        "date_posted": 1755310580,
-        "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/103886739",
-        "locations": [
-            "Halethorpe, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/Artech-Information-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Artech Information System",
-        "id": "c0e6cbad-c80b-44e2-8d93-00ecd7ec6275",
-        "title": "Deskside Support/Desktop Technician",
-        "active": false,
-        "date_updated": 1762912285,
-        "date_posted": 1755310738,
-        "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/99609681",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Artech-Information-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Artech Information System",
-        "id": "d954bad5-64a4-4036-8bf8-80b5b6334532",
-        "title": "Deskside Support Representative",
-        "active": false,
-        "date_updated": 1761940630,
-        "date_posted": 1755310577,
-        "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/104590649",
-        "locations": [
-            "Northbrook, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Artech-Information-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Artech Information System",
-        "id": "4743580c-2a84-4492-af6e-bb01aa31d411",
-        "title": "Desk-side Support",
-        "active": false,
-        "date_updated": 1761802029,
-        "date_posted": 1755309663,
-        "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/104219536",
-        "locations": [
-            "Halethorpe, MD"
         ],
         "company_url": "https://simplify.jobs/c/Artech-Information-System",
         "is_visible": true,
@@ -256039,7 +255931,7 @@
         "company_name": "Sainsbury's",
         "id": "d2465979-2b63-4772-aef3-ba330298c6e9",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1774341923,
         "date_posted": 1774341923,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054829",
@@ -288874,7 +288766,7 @@
         "company_name": "Sainsbury's",
         "id": "e11763b4-d003-467c-b5da-bef9cfc6edb2",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1776032474,
         "date_posted": 1776031646,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056986",
