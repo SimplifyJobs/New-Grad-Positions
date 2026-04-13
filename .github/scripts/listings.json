@@ -288559,5 +288559,25 @@
         "date_posted": 1776071854,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1776072100,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://truist.wd1.myworkdayjobs.com/en-US/careers/job/Charlotte-NC/Associate-Data-Engineer---AML_R0113286",
+        "company_name": "Truist",
+        "title": "Associate Data Engineer - AML",
+        "locations": [
+            "Charlotte, NC",
+            "Wilson, NC",
+            "Atlanta, GA"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "9f49f09d-da03-4695-8916-47e0ad75dadb",
+        "date_posted": 1776072100,
+        "company_url": "",
+        "is_visible": true
     }
 ]
