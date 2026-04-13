@@ -126352,7 +126352,7 @@
         "company_name": "Dave & Busters",
         "id": "8c4a6c3b-fd67-4e4c-8711-9fdb9c037458",
         "title": "Game Support Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1764498735,
         "date_posted": 1764498735,
         "url": "https://daveandbusters.wd1.myworkdayjobs.com/dave_and_busters_careers/job/Columbia-SC/Game-Support-Technician_R-1007912",
@@ -192317,7 +192317,7 @@
         "company_name": "Argo Group",
         "id": "2cc2e4cd-af37-4174-8f2e-afe8293763cb",
         "title": "Product Management Analyst 1",
-        "active": true,
+        "active": false,
         "date_updated": 1771025973,
         "date_posted": 1771025973,
         "url": "https://brookfield.wd5.myworkdayjobs.com/bpandc/job/US-MO---Springfield/Product-Management-Analyst-I_R2048421",
@@ -249086,7 +249086,7 @@
         "company_name": "Toyota Research Institute",
         "id": "2b494321-fbc0-4139-834b-d582eac6bb57",
         "title": "AI Resident - Learning From Videos - Lfv",
-        "active": true,
+        "active": false,
         "date_updated": 1773883254,
         "date_posted": 1773883254,
         "url": "https://jobs.lever.co/tri/07910a65-9ab3-4d48-85a8-44cd187afafd/apply",
@@ -261966,7 +261966,7 @@
         "company_name": "Jabil",
         "id": "de10eb2c-349d-4155-a630-c0e4bdeb2f9c",
         "title": "NPI Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1774571021,
         "date_posted": 1774571021,
         "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Florence-KY/NPI-Technician_J2443504-1",
@@ -287527,7 +287527,7 @@
         "company_name": "Abbott",
         "id": "b94a960c-cd5e-445e-8b57-ecea6b6bcda7",
         "title": "System Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1775904909,
         "date_posted": 1775902993,
         "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Pleasanton/System-Engineer-I_31146545-1",
@@ -289487,6 +289487,46 @@
             "Phoenix, AZ"
         ],
         "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Welocalize",
+        "id": "4a9cf812-f5e2-4ed3-b3b5-1a4577711e0a",
+        "title": "Search Quality Rater",
+        "active": true,
+        "date_updated": 1776117790,
+        "date_posted": 1776117787,
+        "url": "https://welocalize.wd1.myworkdayjobs.com/welocalize/job/Austin-Texas/Search-Quality-Rater_R0007579",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Welocalize",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "University of Pennsylvania",
+        "id": "15d60f45-8dd5-4c81-a76e-5c559e9d93a1",
+        "title": "AI Auditing Engineer",
+        "active": true,
+        "date_updated": 1776117790,
+        "date_posted": 1776117757,
+        "url": "https://upenn.wd1.myworkdayjobs.com/careers-at-penn/job/Amy-Gutmann-Hall/AI-Auditing-Engineer---Penn-Center-for-Media--Technology--and-Democracy---Penn-Engineering_JR00118934",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Pennsylvania",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
