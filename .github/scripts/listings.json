@@ -288227,7 +288227,7 @@
         "company_name": "Sainsbury's",
         "id": "26de23a1-d14d-4bba-b447-9745475b28cc",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1776003856,
         "date_posted": 1776002826,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056957",
@@ -288411,5 +288411,27 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "SS&C",
+        "id": "a3e16e95-773c-4f98-965e-2baae2ee6fc4",
+        "title": "Eclipse Client Success Manager",
+        "active": true,
+        "date_updated": 1775990348,
+        "date_posted": 1775294817,
+        "url": "https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Boston-MA/Eclipse-Client-Success-Manager_R41469",
+        "locations": [
+            "Boston, MA",
+            "Chicago, IL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/SSC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
