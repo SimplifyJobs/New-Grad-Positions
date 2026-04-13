@@ -288615,5 +288615,23 @@
         "date_posted": 1776072412,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1776072470,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://careers-gdms.icims.com/jobs/71873/embedded-software-engineer---junior/job",
+        "company_name": "General Dynamics Mission Systems",
+        "title": "Embedded Software Engineer - Junior",
+        "locations": [
+            "Orlando, FL"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "f33d120b-eb61-410b-b62c-6f5d6431ed54",
+        "date_posted": 1776072470,
+        "company_url": "",
+        "is_visible": true
     }
 ]
