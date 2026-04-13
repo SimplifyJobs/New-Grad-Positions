@@ -288597,5 +288597,23 @@
         "date_posted": 1776072240,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1776072412,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://careers-gdms.icims.com/jobs/71922/junior-embedded-software-engineer-%28cleared%29/job",
+        "company_name": "General Dynamics Mission Systems",
+        "title": "Junior Embedded Software Engineer (cleared)",
+        "locations": [
+            "Dedham, MA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "c44ff84b-0df8-4068-9f10-38575efc223d",
+        "date_posted": 1776072412,
+        "company_url": "",
+        "is_visible": true
     }
 ]
