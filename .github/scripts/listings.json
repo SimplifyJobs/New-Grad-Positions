@@ -288723,5 +288723,23 @@
         "date_posted": 1776073545,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1776073772,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://niagarawater.wd5.myworkdayjobs.com/en-US/niagara/job/Corp-Main---Diamond-Bar-CA/Systems-Development-Engineer-I--Advanced-Robotics---AI-Systems-_R53865",
+        "company_name": "Niagara Bottling",
+        "title": "Systems Development Engineer I (Advanced Robotics & AI Systems)",
+        "locations": [
+            "Diamond Bar, CA"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "af4f24fe-2065-4031-88d5-9e56c7e387ab",
+        "date_posted": 1776073772,
+        "company_url": "",
+        "is_visible": true
     }
 ]
