@@ -288505,5 +288505,23 @@
         "date_posted": 1776071644,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1776071756,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://kbr.wd5.myworkdayjobs.com/en-US/kbr_careers/job/Beavercreek-Ohio/Junior-Communications-Systems-Software-Engineer_R2121814",
+        "company_name": "KBR",
+        "title": "Junior Communications Systems Software Engineer",
+        "locations": [
+            "Beavercreek, OH"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "1130d7d5-191c-4c55-a47a-eb8a44cf5796",
+        "date_posted": 1776071756,
+        "company_url": "",
+        "is_visible": true
     }
 ]
