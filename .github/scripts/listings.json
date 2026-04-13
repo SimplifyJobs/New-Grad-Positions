@@ -288541,5 +288541,23 @@
         "date_posted": 1776071810,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1776071854,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://leidos.wd5.myworkdayjobs.com/en-US/external/job/Columbia-MD/Junior-Software-Engineer_R-00180476",
+        "company_name": "Leidos",
+        "title": "Junior Software Engineer",
+        "locations": [
+            "Columbia, MD"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "9cb8a5fd-6975-4674-857b-4f0669ea0515",
+        "date_posted": 1776071854,
+        "company_url": "",
+        "is_visible": true
     }
 ]

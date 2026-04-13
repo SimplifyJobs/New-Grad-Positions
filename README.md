@@ -5,9 +5,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/New-Grad-Positions/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
 ---
-### Browse 337 New Grad Roles by Category
+### Browse 338 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (225)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (226)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (8)
 
@@ -81,6 +81,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <tbody>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Leidos?utm_source=GHList&utm_medium=company">Leidos</a></strong></td>
+<td>Junior Software Engineer 🇺🇸</td>
+<td>Columbia, MD</td>
+<td><a href="https://leidos.wd5.myworkdayjobs.com/en-US/external/job/Columbia-MD/Junior-Software-Engineer_R-00180476?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>↳</td>
 <td>Junior Software Engineer 🇺🇸</td>
 <td>Columbia, MD</td>
 <td><a href="https://leidos.wd5.myworkdayjobs.com/en-US/external/job/Columbia-MD/Junior-Software-Engineer_R-00180478?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
