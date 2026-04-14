@@ -276558,7 +276558,7 @@
         "company_name": "The Boeing Company",
         "id": "691ff95e-e170-4abc-aa1e-ac70b53f11f2",
         "title": "Associate Design and Analysis Engineer - Electronic Systems Design & Analysis",
-        "active": true,
+        "active": false,
         "date_updated": 1775303461,
         "date_posted": 1775297938,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Associate-Design-and-Analysis-Engineer--Electronic-Sys-Design---Analy-_JR2025489431-1",
@@ -290995,5 +290995,79 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Vanderbilt Health",
+        "id": "b92b5ac0-bddc-4691-9f43-f1526dd72263",
+        "title": "Business Intelligence Analyst",
+        "active": true,
+        "date_updated": 1776148388,
+        "date_posted": 1776146816,
+        "url": "https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Business-Intelligence-Analyst--Remote-_R-57595-1",
+        "locations": [
+            "Nashville, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/Vanderbilt-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "d532d179-4f73-47b2-be96-5dd6dd9ea12b",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1776148388,
+        "date_posted": 1776146831,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057123",
+        "locations": [
+            "Oxford, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Intertek",
+        "id": "8940c8be-aa35-4eaf-a11c-6042062216d6",
+        "title": "Electrical Safety Technician 1 - Entry Level",
+        "active": true,
+        "date_updated": 1776148640,
+        "date_posted": 1776146878,
+        "url": "https://hcog.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/13888",
+        "locations": [
+            "Plano, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Intertek",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "2e697bca-1beb-4623-ba0c-98eabf74428b",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1776148388,
+        "date_posted": 1776146831,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057124",
+        "locations": [
+            "Oxford, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
