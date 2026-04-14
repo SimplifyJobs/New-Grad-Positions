@@ -20125,7 +20125,7 @@
         "company_name": "Viridien",
         "id": "775c36f8-9bf5-425f-828b-2e2aa1ade7df",
         "title": "Machine Learning Engineer/Researcher \u2013 2026 Graduate Programme",
-        "active": true,
+        "active": false,
         "date_updated": 1762471948,
         "date_posted": 1762471948,
         "url": "https://cgg.wd103.myworkdayjobs.com/viridiencareers/job/Crawley-United-Kingdom/Machine-Learning-Engineer-Researcher---2026-Graduate-Programme_JR101055-1",
@@ -159552,7 +159552,7 @@
         "company_name": "Legrand NA",
         "id": "9d23bf24-3d83-4975-9177-7a01e6985d23",
         "title": "Firmware Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1769469123,
         "date_posted": 1769469123,
         "url": "https://jobs-legrand.icims.com/jobs/9742/job?mobile=true&needsRedirect=false",
@@ -211438,7 +211438,7 @@
         "company_name": "Eurofins",
         "id": "2cea44ab-924b-4dc4-8af3-b7a0a73a700c",
         "title": "Electrical Factory Inspector - Remote/Travel",
-        "active": true,
+        "active": false,
         "date_updated": 1771974712,
         "date_posted": 1771974712,
         "url": "https://jobs.smartrecruiters.com/Eurofins/744000111118005",
@@ -213608,7 +213608,7 @@
         "company_name": "Hawk-Eye Innovations",
         "id": "04fd7ec0-7f43-4da3-9cf0-f811006458f9",
         "title": "Sports Systems Operator",
-        "active": true,
+        "active": false,
         "date_updated": 1772100464,
         "date_posted": 1769094618,
         "url": "https://jobs.ashbyhq.com/hawkeyeinnovations/5c83702c-c14f-45f6-acf3-3ac09ccff854/application",
@@ -214053,7 +214053,7 @@
         "company_name": "The Travelers Companies",
         "id": "f5490163-7d94-4ac3-bb9e-e9cff7e85e26",
         "title": "Data Engineer 1 - Databricks - MLOps",
-        "active": true,
+        "active": false,
         "date_updated": 1772118390,
         "date_posted": 1772118390,
         "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Data-Engineer-I--Databricks--MLOps-_R-49321",
@@ -262725,7 +262725,7 @@
         "company_name": "Anglian Water",
         "id": "29feaa51-6217-4e23-921d-2108156efd7f",
         "title": "Asset Health Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1774620244,
         "date_posted": 1774620244,
         "url": "https://awg.wd3.myworkdayjobs.com/broadbean_external/job/Enterprise-House/Asset-Health-Technician_R36549",
@@ -281169,7 +281169,7 @@
         "company_name": "Huntington Bancshares",
         "id": "83210e44-5c5c-4f7f-9404-79fbb2b805a4",
         "title": "Programmer/Analyst 2",
-        "active": true,
+        "active": false,
         "date_updated": 1775604601,
         "date_posted": 1775599564,
         "url": "https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Programmer-Analyst-2_R0071108",
@@ -291215,6 +291215,256 @@
         "sponsorship": "Other",
         "degrees": [
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "e098870b-ecd7-49e0-9434-d054311642fa",
+        "title": "Principal Facilities Engineer",
+        "active": true,
+        "date_updated": 1776178541,
+        "date_posted": 1776175790,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-New-York-Ronkonkoma/Principal-Engineer-Facilities_R10229145",
+        "locations": [
+            "Long Island, New York"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "MARGO",
+        "id": "a82b691a-b575-48c7-a4c7-dd86572c4851",
+        "title": "Rapid Application Developer - Java",
+        "active": true,
+        "date_updated": 1776177913,
+        "date_posted": 1776175537,
+        "url": "https://jobs.lever.co/margo-group/c23cae4d-bf0a-45ea-b1ba-8b201eac213c/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/MARGO",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "FlightHub",
+        "id": "996f6057-d70f-4604-a555-a3a459d07f3d",
+        "title": "AI Coder",
+        "active": true,
+        "date_updated": 1776178954,
+        "date_posted": 1776176609,
+        "url": "https://job-boards.greenhouse.io/flighthub/jobs/7814787",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/FlightHub",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "953702c4-d8f4-40aa-af29-9b19cdeaa02d",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1776177913,
+        "date_posted": 1776175630,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057183",
+        "locations": [
+            "Warrington, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "53d24d77-6b07-4f12-a830-08d47ad7cd0f",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1776180071,
+        "date_posted": 1776175629,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057081",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Halliburton",
+        "id": "18c2b7e2-35ef-4d60-942a-0295f9fc0a3c",
+        "title": "Logging Geologist-SDL - II",
+        "active": true,
+        "date_updated": 1776178317,
+        "date_posted": 1776175586,
+        "url": "https://jobs.halliburton.com/job/Aberdeen-Aberdeen-Logging-Geologist-SDL,-II-ABE-AB21-0GN/1372134400/?ats=successfactors",
+        "locations": [
+            "Aberdeen, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Halliburton",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Macy's",
+        "id": "18b377ba-49cc-4120-8765-dd4be1b2d6cf",
+        "title": "Sitewide Associate",
+        "active": true,
+        "date_updated": 1776177913,
+        "date_posted": 1776175507,
+        "url": "https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/86862",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Macys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "BRG",
+        "id": "70be1f38-497e-4e1d-895c-91cad4ab3ab0",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1776177913,
+        "date_posted": 1776175773,
+        "url": "https://thinkbrg.wd5.myworkdayjobs.com/en-US/BRG_External_Career_Site/job/Remote---USA/Data-Analyst_JR100772",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/BRG",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "General Dynamics",
+        "id": "b8409824-9ac7-447c-823e-769ce2a752d7",
+        "title": "Ballistics Technician 1",
+        "active": true,
+        "date_updated": 1776178464,
+        "date_posted": 1776175697,
+        "url": "https://careers-gd-ots.icims.com/jobs/35851/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Tallahassee, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Marsh & McLennan",
+        "id": "60d1ffde-9b2a-4b48-b950-4eca722c6e52",
+        "title": "Graduate Investment Analyst - Delegated Investments Client Team",
+        "active": true,
+        "date_updated": 1776178425,
+        "date_posted": 1776175424,
+        "url": "https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Dublin---Charlotte/Graduate-Investment-Analyst---Delegated-Investments-Client-Team_R_345697",
+        "locations": [
+            "Charlotte, NC",
+            "Dublin, Ireland"
+        ],
+        "company_url": "https://simplify.jobs/c/Marsh-McLennan",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Keysight Technologies",
+        "id": "4ffb1fdc-4142-40ab-9e54-ca6ebc86cfbf",
+        "title": "Service Tech Coordinator",
+        "active": true,
+        "date_updated": 1776177913,
+        "date_posted": 1776175551,
+        "url": "https://jobs.keysight.com/jobs/52388?lang=en-us&icims=1",
+        "locations": [
+            "Carroll, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/Keysight-Technologies-Inc",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "2f52566c-52cd-4451-9d3b-c9788f273608",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1776177913,
+        "date_posted": 1776175631,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057189",
+        "locations": [
+            "Brighton, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Ford Motor Company",
+        "id": "127ee0eb-8c11-4870-978e-e5c2c49857c9",
+        "title": "Body Controls",
+        "active": true,
+        "date_updated": 1776177913,
+        "date_posted": 1776175638,
+        "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/61552",
+        "locations": [
+            "Dearborn, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Ford-Motor-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
