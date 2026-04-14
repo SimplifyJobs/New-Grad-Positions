@@ -12031,7 +12031,7 @@
         "company_name": "General Motors",
         "id": "3a9d6aed-4916-4777-8c70-8f712f3a1dbb",
         "title": "Software Developer \u2013 Early Career",
-        "active": true,
+        "active": false,
         "date_updated": 1759523613,
         "date_posted": 1759523613,
         "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Markham-Ontario-Canada/Software-Developer---Early-Career_JR-202518826",
@@ -187520,7 +187520,7 @@
         "company_name": "Crowdstrike",
         "id": "7f7955fb-1a6a-4c1e-97e8-1051124a0fd7",
         "title": "Front End Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1770853403,
         "date_posted": 1770853403,
         "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Austin-TX/Front-End-Engineer-I--Hybrid-_R26953",
@@ -252664,7 +252664,7 @@
         "company_name": "Leonardo",
         "id": "8b9df8ae-7e2b-44ef-b2c8-f9ee6373a4d1",
         "title": "Graduate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1774048416,
         "date_posted": 1774048416,
         "url": "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Southampton/Graduate-Software-Engineer_R0022545-1",
@@ -271004,7 +271004,7 @@
         "company_name": "Northeastern University",
         "id": "928da4e1-e6b1-46f4-8582-2a99f0a6de26",
         "title": "Postdoctoral Research Fellow",
-        "active": true,
+        "active": false,
         "date_updated": 1775039081,
         "date_posted": 1774691013,
         "url": "https://northeastern.wd1.myworkdayjobs.com/careers/job/Portland-ME/Postdoctoral-Research-Fellow_R121824",
@@ -282549,7 +282549,7 @@
         "company_name": "Morgan Stanley",
         "id": "c4f6a70d-3b2d-48c5-b814-3e345fcc9a8b",
         "title": "AI/ML Model Development Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1775689572,
         "date_posted": 1775686318,
         "url": "https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/AI-ML-Model-Development-Analyst---Open-_PT-JR034170",
@@ -291194,6 +291194,26 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Western Digital",
+        "id": "3fd6b6de-4790-4661-91f1-6c0425f1a0c9",
+        "title": "HDD Applications Engineer",
+        "active": true,
+        "date_updated": 1776177913,
+        "date_posted": 1776175415,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000118958777",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Digital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
             "Master's"
         ]
     }
