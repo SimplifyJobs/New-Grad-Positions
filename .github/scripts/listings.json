@@ -290975,5 +290975,45 @@
         "date_posted": 1776158287,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Varian",
+        "id": "e79eb342-408f-410b-9044-b4f38f0fa32e",
+        "title": "Service Engineer",
+        "active": true,
+        "date_updated": 1776159397,
+        "date_posted": 1775901787,
+        "url": "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/CEY-BO/Service-Engineer---Hardware-Velindre-NHS-Trust_R-22320-1",
+        "locations": [
+            "Cardiff, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/670da3c5-bce0-4621-b519-da7ce7d528e6",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "General Dynamics Mission Systems",
+        "id": "de7c3cf1-1448-4280-8ebd-5f3a36d02895",
+        "title": "Junior Software Engineer",
+        "active": true,
+        "date_updated": 1776159194,
+        "date_posted": 1772147334,
+        "url": "https://careers-gdms.icims.com/jobs/71172/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Dedham, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
