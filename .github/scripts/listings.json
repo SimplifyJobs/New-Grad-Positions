@@ -136968,7 +136968,7 @@
         "company_name": "Pylon",
         "id": "02010b6a-61a9-4ea2-b051-b6096d4116bb",
         "title": "Newgrad Generalist Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1767924828,
         "date_posted": 1767924828,
         "url": "https://jobs.ashbyhq.com/pylon/b32c8de1-a8bf-4435-99d4-8d42e12a7e0a/application",
@@ -272062,7 +272062,7 @@
         "company_name": "Franklin Templeton",
         "id": "7bf31ab8-bc49-419e-a312-2f85fc476b06",
         "title": "Investment Associate - Quantitative Research - FT Investment Solutions",
-        "active": false,
+        "active": true,
         "date_updated": 1775085042,
         "date_posted": 1775081371,
         "url": "https://franklintempleton.wd5.myworkdayjobs.com/invitation-only/job/Boston-Massachusetts-United-States-of-America/Investment-Associate--Quantitative-Research---FT-Investment-Solutions-_862786-2",
@@ -290895,5 +290895,105 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "95410e70-09a8-4bd0-b3e7-ccd8eaf94094",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1776129854,
+        "date_posted": 1776128826,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057117",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SpaceX",
+        "id": "1754d523-64ad-4dea-b74a-f246efa815db",
+        "title": "Full Stack Software Engineer",
+        "active": true,
+        "date_updated": 1776129854,
+        "date_posted": 1776129506,
+        "url": "https://boards.greenhouse.io/spacex/jobs/8501225002",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/SpaceX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Amazon",
+        "id": "0d043ceb-6733-44dc-9975-6f9643d3c27a",
+        "title": "Data Scientist 1 - Customer Delivery Excellence Science",
+        "active": true,
+        "date_updated": 1776130168,
+        "date_posted": 1776128918,
+        "url": "https://amazon.jobs/en/jobs/10390607/data-scientist-i-customer-delivery-excellence-science",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "fa49e4f0-a921-4e27-8a8b-c2e98bd4dde0",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1776129854,
+        "date_posted": 1776128820,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057118",
+        "locations": [
+            "Cardiff, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Hershey",
+        "id": "bb0153d7-3a3c-4637-9e85-55a39b16d5c7",
+        "title": "Data Engineer",
+        "active": true,
+        "date_updated": 1776129854,
+        "date_posted": 1776128890,
+        "url": "https://careers.thehersheycompany.com/job/Dallas-Data-Engineer-TX-75201/1360718100/?ats=successfactors",
+        "locations": [
+            "Hershey, PA",
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Hershey",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
