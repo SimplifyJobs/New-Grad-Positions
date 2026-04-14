@@ -16510,7 +16510,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "2c40466c-9807-4564-b790-fc5981e2c872",
         "title": "Junior Software Engineer - ",
-        "active": false,
+        "active": true,
         "date_updated": 1761505342,
         "date_posted": 1761505342,
         "url": "https://careers-gdms.icims.com/jobs/68513/job?mobile=true&needsRedirect=false",
@@ -196116,7 +196116,7 @@
         "company_name": "GE Healthcare",
         "id": "e0c439a3-337d-458d-92a4-a825ff4292be",
         "title": "Field Service Engineer Central FL",
-        "active": false,
+        "active": true,
         "date_updated": 1771370749,
         "date_posted": 1771370749,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-Central-FL_R4036192-1",
@@ -212893,7 +212893,7 @@
         "company_name": "IDEXX",
         "id": "df3ed117-991b-4a65-8003-2c38d125785c",
         "title": "Data Conversions Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1772063479,
         "date_posted": 1772063479,
         "url": "https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Virtual-United-States/Data-Conversions-Technician_J-051787-1",
@@ -235396,7 +235396,7 @@
         "company_name": "Redwood Credit Union",
         "id": "1b0fb6cf-5fa0-411f-b245-1fe0c1bd6959",
         "title": "Automation Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1773191379,
         "date_posted": 1773191379,
         "url": "https://jobs.lever.co/redwoodcu/bbc25562-46bb-409f-9a75-5c2d6ee28522/apply",
@@ -291014,6 +291014,67 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "General Dynamics Mission Systems",
+        "id": "3bb1dfa6-67ce-43e8-ac2c-9a2f6db90492",
+        "title": "Engineering Leadership Program Engineer - Computer Science/Software",
+        "active": true,
+        "date_updated": 1776159194,
+        "date_posted": 1774304208,
+        "url": "https://careers-gdms.icims.com/jobs/71601/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Orlando, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RevenueCat",
+        "id": "158a3ce4-5e85-4259-93be-875f310be28b",
+        "title": "Developer Support Engineer",
+        "active": true,
+        "date_updated": 1776159698,
+        "date_posted": 1773900586,
+        "url": "https://jobs.ashbyhq.com/revenuecat/b81fe0a9-a48f-417c-badb-c916844bf2f6/application",
+        "locations": [
+            "Remote in USA",
+            "La Ronge, SK, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/RevenueCat",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northrop Grumman",
+        "id": "c65d444c-ba74-4d44-bb44-285e864becef",
+        "title": "Electrical Engineer - Subsystems",
+        "active": true,
+        "date_updated": 1776159510,
+        "date_posted": 1773297773,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/Engineer-Electrical---Subsystems_R10225727",
+        "locations": [
+            "Palmdale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
