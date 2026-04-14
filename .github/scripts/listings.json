@@ -275837,7 +275837,7 @@
         "company_name": "Jabil",
         "id": "bd09ba22-7ec3-48f1-bc09-4308af058ba8",
         "title": "NPI Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1775257381,
         "date_posted": 1775254202,
         "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Florence-KY/NPI-Technician_J2445272-1",
@@ -290627,5 +290627,273 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "2K",
+        "id": "fe048d86-3ab8-4584-8938-927e27094fc0",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1776120135,
+        "date_posted": 1776118683,
+        "url": "https://job-boards.greenhouse.io/2k/jobs/7678028003",
+        "locations": [
+            "Burnaby, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/2k",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "CAE",
+        "id": "fc77b953-0889-48bf-ba77-6380fed6339c",
+        "title": "Rotation Engineer",
+        "active": true,
+        "date_updated": 1776120499,
+        "date_posted": 1776117953,
+        "url": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Rotation-Engineer_121383-1",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/CAE",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "VaynerMedia",
+        "id": "ca3058a5-e8ca-4a01-aedb-d2f0649605ab",
+        "title": "Senior Associate - Analytics",
+        "active": true,
+        "date_updated": 1776122291,
+        "date_posted": 1776118626,
+        "url": "https://vaynermedia.com/careers?gh_jid=7812468",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/VaynerMedia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Riot Platforms",
+        "id": "61d2448f-760c-433b-abce-fad4d4447cdc",
+        "title": "ASIC Technician",
+        "active": true,
+        "date_updated": 1776121254,
+        "date_posted": 1776118159,
+        "url": "https://ats.rippling.com/riot-platforms-careers/jobs/8e4477c9-f592-4499-be38-4031cb375479",
+        "locations": [
+            "Paducah, KY"
+        ],
+        "company_url": "https://simplify.jobs/c/Riot-Platforms",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Motorola",
+        "id": "0bbd175d-9d88-4bc9-bf65-43da3f452358",
+        "title": "Web Interface Software Engineer",
+        "active": true,
+        "date_updated": 1776120499,
+        "date_posted": 1776118280,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Los-Angeles-CA/Web-Interface-Software-Engineer_R63741",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Verition Fund Management",
+        "id": "f39f9dd5-54dd-4bb0-9dbe-7be9f2d325ba",
+        "title": "Trading Assistant - Credit",
+        "active": true,
+        "date_updated": 1776120499,
+        "date_posted": 1776118120,
+        "url": "https://www.verition.com/open-positions?gh_jid=5106055007",
+        "locations": [
+            "Westport, CT",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/VeritionFund",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Intel",
+        "id": "d5442d6f-d665-4fae-888e-7f3cb5bc1b74",
+        "title": "Linux Kernel Engineer",
+        "active": true,
+        "date_updated": 1776121699,
+        "date_posted": 1776118184,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Folsom/Linux-Kernel-Engineer_JR0282647",
+        "locations": [
+            "Folsom, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Ascensus",
+        "id": "c66fca3e-27e8-42e5-a6c7-38a60f39230b",
+        "title": "Associate Software Engineer - Software Development",
+        "active": true,
+        "date_updated": 1776120310,
+        "date_posted": 1776117949,
+        "url": "https://ascensushr.wd1.myworkdayjobs.com/ascensuscareers/job/Dresher-PA/Associate-Software-Engineer_R0021231",
+        "locations": [
+            "Horsham, PA",
+            "Lake Mary, FL",
+            "Newton, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Ascensus",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Seagate Technology ",
+        "id": "9f273ac2-2090-4221-9d62-ead6140cfa4c",
+        "title": "Firmware Engineer 1",
+        "active": true,
+        "date_updated": 1776120480,
+        "date_posted": 1776117997,
+        "url": "https://seagatecareers.com/job/Longmont-Firmware-Engineer-I-CO-80501/1350991300/?ats=successfactors",
+        "locations": [
+            "Longmont, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Seagate-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Accenture",
+        "id": "84c0fe57-f91c-4fab-b550-14ac217c6429",
+        "title": "Forward Deployed Engineer - Multiple Teams",
+        "active": true,
+        "date_updated": 1776120135,
+        "date_posted": 1776118322,
+        "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Atlanta-75-Fifth-Corp/Graduate-Forward-Deployed-Engineer--FDE--Analyst---NAELFY26_R00324948",
+        "locations": [
+            "Houston, TX",
+            "Nashville, TN",
+            "SF",
+            "Austin, TX",
+            "Tampa, FL",
+            "Arlington, TX",
+            "Chicago, IL",
+            "Columbus, OH",
+            "NYC",
+            "Atlanta, GA",
+            "St. Petersburg, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Accenture-FS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "575b24dd-7cbc-4eb8-a642-6028a486a1e7",
+        "title": "Missile Defense Sensors Software Engineer 1",
+        "active": true,
+        "date_updated": 1776122192,
+        "date_posted": 1776118125,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/XMLNAME-2026-Raytheon-Full-Time-Missile-Defense-Sensors-Software-Engineer-I--Onsite-_01837131",
+        "locations": [
+            "Burlington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "HavocAI",
+        "id": "3ccbda4f-995f-4196-a0cc-d0271f0d83b1",
+        "title": "Support Software Engineer - Robotic Systems",
+        "active": true,
+        "date_updated": 1776120499,
+        "date_posted": 1776118161,
+        "url": "https://jobs.ashbyhq.com/havocai/076ba872-a388-433d-a2f4-4a82ab96ad71/application",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Havoc-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "MassMutual Ascend",
+        "id": "1bdb5190-cf52-48fe-b705-8dd9743b97ec",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1776120499,
+        "date_posted": 1776118242,
+        "url": "https://massmutual.wd1.myworkdayjobs.com/MMAscendCareers/job/Cincinnati-OH/Associate-Software-Engineer_R20602",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/MassMutual-Ascend",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
