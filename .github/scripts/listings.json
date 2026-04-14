@@ -189669,7 +189669,7 @@
         "company_name": "Ferrovial",
         "id": "a3d8c8bd-4a68-482c-945c-a45bae51e90a",
         "title": "Traffic and Revenue Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1770940304,
         "date_posted": 1770940304,
         "url": "https://ferrovial.wd3.myworkdayjobs.com/ferrovial_career_site/job/Dallas/Traffic---Revenue-Engineer_JR16147",
@@ -258573,7 +258573,7 @@
         "company_name": "GE Healthcare",
         "id": "31d9ad06-8a2d-4a0e-9431-529da6203548",
         "title": "Field Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1774089409,
         "date_posted": 1774089409,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/FE-1-Bloomington--Illinois_R4037216-1",
@@ -265222,7 +265222,7 @@
         "company_name": "Daikin Applied",
         "id": "801992fe-ac31-4e16-9e50-88bfd694bc33",
         "title": "Product Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1774649252,
         "date_posted": 1774649252,
         "url": "https://daikinapplied.wd1.myworkdayjobs.com/Daikin-Careers/job/Staunton-VA-24402/Product-Engineer_R000396-2",
@@ -268300,7 +268300,7 @@
         "company_name": "2020 Companies",
         "id": "5b762817-3f35-4219-8f33-c11d7464a86f",
         "title": "Android Sales Expert",
-        "active": true,
+        "active": false,
         "date_updated": 1774981621,
         "date_posted": 1772839207,
         "url": "https://2020companies.wd1.myworkdayjobs.com/external_careers/job/Spring-TX/Android-Sales-Expert_REQ_100031",
@@ -277076,7 +277076,7 @@
         "company_name": "GE Healthcare",
         "id": "37af37dd-c844-4cad-aa52-3c95edc25c59",
         "title": "Field Service Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1775298166,
         "date_posted": 1775295241,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1---Long-Island--NY_R4031346",
@@ -277194,7 +277194,7 @@
         "company_name": "Daikin Applied",
         "id": "aa6e3cd6-6a4f-4b6c-948b-29c1f8091829",
         "title": "Controls Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1775302921,
         "date_posted": 1775300312,
         "url": "https://daikinapplied.wd1.myworkdayjobs.com/Daikin-Careers/job/Staunton-VA-24402/Controls-Engineer_R001833-1",
@@ -284566,7 +284566,7 @@
         "company_name": "Northrop Grumman",
         "id": "8a3d39b6-9898-4072-9d38-0a504d2a1338",
         "title": "Engineer Test/Principal Engineer Test",
-        "active": true,
+        "active": false,
         "date_updated": 1775775071,
         "date_posted": 1775772598,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Azusa/Engineer-Test-Principal-Engineer-Test--Level-2-3-_R10229055",
@@ -285584,7 +285584,7 @@
         "company_name": "Rolls-Royce",
         "id": "8f9040cb-fec2-4a8f-959d-b3c21d67f480",
         "title": "Radiographer",
-        "active": true,
+        "active": false,
         "date_updated": 1775816338,
         "date_posted": 1775743535,
         "url": "https://rollsroyce.wd3.myworkdayjobs.com/professional/job/Bristol/Radiographer_JR6146514-2",
@@ -291152,6 +291152,28 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Edgestream",
+        "id": "8d0a5dfb-f535-41f1-a065-9752e2bff41a",
+        "title": "Quantitative Software Engineer",
+        "active": true,
+        "date_updated": 1776161170,
+        "date_posted": 1761874355,
+        "url": "https://www.edgestreamlp.com/career?gh_jid=4163341003",
+        "locations": [
+            "Princeton, NJ",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Edgestream",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
