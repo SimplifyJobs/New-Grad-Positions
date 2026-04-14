@@ -84884,7 +84884,7 @@
         "company_name": "NOV",
         "id": "2bb1f46c-e798-44e4-9916-3ee1dbeca8cb",
         "title": "Sustaining Product Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1764031656,
         "date_posted": 1764031656,
         "url": "https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/38504",
@@ -97371,7 +97371,7 @@
         "company_name": "pony.ai",
         "id": "b8b36f02-80d0-42d0-85c2-b1172504f9c5",
         "title": "Software Engineer - Perception Infrastructure",
-        "active": true,
+        "active": false,
         "date_updated": 1764814446,
         "date_posted": 1764814446,
         "url": "https://apply.workable.com/pony-dot-ai/j/A776E97605/apply",
@@ -151412,7 +151412,7 @@
         "company_name": "TelevisaUnivision",
         "id": "dcb8ca1f-4554-491b-b6b3-32310ec6e80c",
         "title": "Digital Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1769030320,
         "date_posted": 1769030320,
         "url": "https://univision.wd1.myworkdayjobs.com/en-US/External/job/New-York-NY/Digital-Analyst_R019733",
@@ -192142,7 +192142,7 @@
         "company_name": "ibotta",
         "id": "aa4cdd51-6f32-4980-99dc-b954617f27fc",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1771026094,
         "date_posted": 1771026094,
         "url": "https://ibotta.wd1.myworkdayjobs.com/en-US/Ibotta/job/Denver-CO/Associate-Software-Engineer_R-102337",
@@ -249970,7 +249970,7 @@
         "company_name": "Neuberger Berman",
         "id": "4562a258-c537-47a1-8575-8bf5ae9ccd77",
         "title": "Applied AI Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773931493,
         "date_posted": 1773931493,
         "url": "https://nb.wd1.myworkdayjobs.com/en-US/NBCareers/job/New-York-NY/Applied-AI-Engineer_R0011946",
@@ -257913,7 +257913,7 @@
         "company_name": "Philips",
         "id": "87eeda1a-48c8-4d13-96ec-035dde606e8c",
         "title": "Full Time \u2013 Field Engineer Program - Field Service Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1774090452,
         "date_posted": 1774090452,
         "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Toronto/Full-Time---Field-Engineer-Program--Field-Service-Engineer--Toronto--ON---July-2026_578437",
@@ -271274,7 +271274,7 @@
         "company_name": "Bloomberg Industry Group",
         "id": "ebd5453a-4926-473c-b101-23caa3be1f5f",
         "title": "Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1775053801,
         "date_posted": 1775052378,
         "url": "https://bloomberg.wd1.myworkdayjobs.com/Bloombergindustrygroup_External_Career_Site/job/Arlington---1801-S-Bell-INDG/Data-Analyst--Associate_141282",
@@ -288916,7 +288916,7 @@
         "company_name": "U.S. Bank",
         "id": "52a55594-9f51-4bf8-bc25-530bde48f44d",
         "title": "Entry-Level AI / ML Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1776080169,
         "date_posted": 1776071268,
         "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Hopkins-MN/Entry-Level-AI---ML-Software-Engineer_2026-0008813-1",
@@ -291465,6 +291465,106 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "510860cf-42c9-4c94-8288-4490ab08606a",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1776206713,
+        "date_posted": 1776204427,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057204",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GE Vernova",
+        "id": "084b554d-aa2c-4f2f-913c-8d27799c796d",
+        "title": "Testing Technician",
+        "active": true,
+        "date_updated": 1776206713,
+        "date_posted": 1776204427,
+        "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Charleroi-USA/Testing-Technician---HRLY_R5035717",
+        "locations": [
+            "McKeesport, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Vernova",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Centific",
+        "id": "eb63c75c-0066-4249-8eea-d097915e1569",
+        "title": "Data Evaluator-3",
+        "active": true,
+        "date_updated": 1776206531,
+        "date_posted": 1776204172,
+        "url": "https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Redmond-Washington/Data-Evaluator-3_JR107038",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Centific",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Texas A&M University System",
+        "id": "4105145a-b636-417a-9695-395426e1baee",
+        "title": "Research Engineer 1",
+        "active": true,
+        "date_updated": 1776207180,
+        "date_posted": 1776204311,
+        "url": "https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/College-Station-TX/Research-Engineer-I_R-092362",
+        "locations": [
+            "College Station, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Texas-AM-University-System",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Leidos",
+        "id": "2645e9a1-bb8e-43fd-ad49-42dea90d8744",
+        "title": "Junior Software Developer",
+        "active": true,
+        "date_updated": 1776206875,
+        "date_posted": 1776204640,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Manassas-VA/Jr-Software-Developer_R-00176918",
+        "locations": [
+            "Manassas, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     }
 ]
