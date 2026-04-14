@@ -273626,7 +273626,7 @@
         "company_name": "Johnson Controls",
         "id": "1de12a27-3e28-4ca4-84dc-2e18ee15b93b",
         "title": "Electronics Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1775169185,
         "date_posted": 1775167857,
         "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Westford-Massachusetts-United-States-of-America/Electronics-Technician--onsite-_WD30263577",
@@ -291128,6 +291128,26 @@
             "Atlanta, GA"
         ],
         "company_url": "https://simplify.jobs/c/Parsons",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Bowhead",
+        "id": "3c0cdadf-b1aa-47f0-9555-750e8deb7498",
+        "title": "Data Analyst/Data Engineer 1",
+        "active": true,
+        "date_updated": 1776162336,
+        "date_posted": 1775858585,
+        "url": "https://bowheadcareers-uicalaska.icims.com/jobs/25010/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Prince George's County, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Bowhead",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
