@@ -290957,5 +290957,23 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "date_updated": 1776158287,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://careers-gdms.icims.com/jobs/71965/junior-rust-embedded-software-engineer-%28cleared%29/job",
+        "company_name": "General Dynamics Mission Systems",
+        "title": "Junior RUST Embedded Software Engineer (cleared)",
+        "locations": [
+            "Dedham, MA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "a52b4099-20f1-41db-9dbd-1fe719629c8d",
+        "date_posted": 1776158287,
+        "company_url": "",
+        "is_visible": true
     }
 ]
