@@ -283257,7 +283257,7 @@
         "company_name": "RTX",
         "id": "1c805bec-f75c-4223-a130-0a8976de8121",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1775698114,
         "date_posted": 1775696912,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-M10--3360-E-Hemisphere-Loop--BLDG-M10/XMLNAME-2026-Software-Engineer-I---Onsite_01833632",
@@ -291169,6 +291169,27 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Edgestream",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Rockwell Automation",
+        "id": "16adba7b-c5fe-4737-bb4a-628a86ba3e19",
+        "title": "Firmware Engineer",
+        "active": true,
+        "date_updated": 1776161889,
+        "date_posted": 1775901836,
+        "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mequon-Wisconsin-United-States/Firmware-Engineer_R26-720",
+        "locations": [
+            "Mequon, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Rockwell-Automation",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
