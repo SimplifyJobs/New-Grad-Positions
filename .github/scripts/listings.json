@@ -136417,7 +136417,7 @@
         "company_name": "Rolls-Royce",
         "id": "9c1af1cf-5442-4e42-9fa8-678b254dc38e",
         "title": "Electronics Technician - Metrology / Electronics technician - Metrology",
-        "active": true,
+        "active": false,
         "date_updated": 1767915839,
         "date_posted": 1767915839,
         "url": "https://rollsroyce.wd3.myworkdayjobs.com/professional/job/Lachine/Technicien-en-lectronique---Mtrologie---Electronics-technician---Metrology_JR6148542",
@@ -264834,7 +264834,7 @@
         "company_name": "GE Healthcare",
         "id": "7bae5a33-94e7-4ec2-b2c7-7aa45bfd02d6",
         "title": "Field Service Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1774693218,
         "date_posted": 1774693218,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1--Rockford--IL-_R4035771-2",
@@ -276734,7 +276734,7 @@
         "company_name": "GE Healthcare",
         "id": "630b30e3-52a6-484f-8be3-f5fb7a80f33b",
         "title": "Field Service Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1775296362,
         "date_posted": 1775295222,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1_R4035192-2",
@@ -278580,7 +278580,7 @@
         "company_name": "GE Healthcare",
         "id": "afa59863-bc71-45c6-9234-1179162718d5",
         "title": "MR Calibration Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1775470789,
         "date_posted": 1775295204,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/MR-Calibration-Engineer_R4037522-1",
@@ -291075,6 +291075,63 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "e31ec248-f0b2-4254-9a42-418a614ad15f",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1776162069,
+        "date_posted": 1776157450,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057088",
+        "locations": [
+            "Withernsea, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "810be529-d966-4d79-9059-433a82698651",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1776162069,
+        "date_posted": 1776157450,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057093",
+        "locations": [
+            "Withernsea, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Parsons",
+        "id": "07092134-b8e1-4e50-b6d9-feb62a757412",
+        "title": "Junior Full Stack Developer",
+        "active": true,
+        "date_updated": 1776162069,
+        "date_posted": 1775901382,
+        "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---IL-Schaumburg/Junior-Full-Stack-Developer_R179262-2",
+        "locations": [
+            "Hoffman Estates, IL",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Parsons",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
