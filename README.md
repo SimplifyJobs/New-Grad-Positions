@@ -5,9 +5,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/New-Grad-Positions/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
 ---
-### Browse 348 New Grad Roles by Category
+### Browse 349 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (234)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (235)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (8)
 
@@ -175,6 +175,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Missile Defense Sensors Software Engineer 1</td>
 <td>Burlington, MA</td>
 <td><div align="center"><a href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/XMLNAME-2026-Raytheon-Full-Time-Missile-Defense-Sensors-Software-Engineer-I--Onsite-_01837131?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/575b24dd-7cbc-4eb8-a642-6028a486a1e7?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
+<td>1d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Sierra-Nevada-Corporation?utm_source=GHList&utm_medium=company">Sierra Nevada Corporation</a></strong></td>
+<td>Software Engineer 1</td>
+<td>Plano, TX</td>
+<td><div align="center"><a href="https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Plano-TX/Software-Engineer-I_R0029684?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/5b019464-8dd0-4fa5-8935-b5175b96a582?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
 <td>1d</td>
 </tr>
 <tr>
@@ -1722,7 +1729,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (1227)</summary>
+<summary>🗃️ Inactive roles (1226)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -1746,13 +1753,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><strong><a href="https://simplify.jobs/c/Intuit?utm_source=GHList&utm_medium=company">Intuit</a></strong></td>
 <td>Software Engineer 1</td>
 <td>San Diego, CA</td>
-<td>🔒</td>
-<td>1d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Sierra-Nevada-Corporation?utm_source=GHList&utm_medium=company">Sierra Nevada Corporation</a></strong></td>
-<td>Software Engineer 1</td>
-<td>Plano, TX</td>
 <td>🔒</td>
 <td>1d</td>
 </tr>
@@ -2125,7 +2125,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Engineer 1</td>
 <td><details><summary><strong>5 locations</strong></summary>Raleigh, NC</br>Goldsboro, NC</br>Richmond, VA</br>Charlotte, NC</br>Greensboro, NC</details></td>
 <td>🔒</td>
-<td>20d</td>
+<td>21d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Twitch?utm_source=GHList&utm_medium=company">Twitch</a></strong></td>
@@ -2153,7 +2153,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Engineer 1</td>
 <td>Rochester, NY</td>
 <td>🔒</td>
-<td>21d</td>
+<td>22d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/8VC?utm_source=GHList&utm_medium=company">8VC</a></strong></td>
@@ -2167,14 +2167,14 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Junior Software Engineer</td>
 <td><details><summary><strong>6 locations</strong></summary>Orlando, FL</br>Lexington, MA</br>Morgantown, WV</br>Omaha, NE</br>Charlottesville, VA</br>Newport News, VA</details></td>
 <td>🔒</td>
-<td>22d</td>
+<td>23d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Henry-Schein?utm_source=GHList&utm_medium=company">Henry Schein</a></strong></td>
 <td>Software Engineer 1</td>
 <td>Ames, IA</td>
 <td>🔒</td>
-<td>22d</td>
+<td>23d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Elsevier?utm_source=GHList&utm_medium=company">Elsevier</a></strong></td>
@@ -2293,7 +2293,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Engineer 1</td>
 <td>San Jose, CA</td>
 <td>🔒</td>
-<td>27d</td>
+<td>28d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Leidos?utm_source=GHList&utm_medium=company">Leidos</a></strong></td>
@@ -5163,7 +5163,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>DGX Cloud Performance Engineer 🎓</td>
 <td><details><summary><strong>4 locations</strong></summary>Santa Clara, CA</br>Remote in TX</br>Remote in WA</br>Remote in CA</details></td>
 <td>🔒</td>
-<td>3mo</td>
+<td>4mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Intuit?utm_source=GHList&utm_medium=company">Intuit</a></strong></td>
@@ -11222,7 +11222,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Junior ESI Analyst</td>
 <td>Washington, DC</td>
 <td>🔒</td>
-<td>27d</td>
+<td>28d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Allegion?utm_source=GHList&utm_medium=company">Allegion</a></strong></td>
@@ -13852,7 +13852,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Engineer 1 - C - C++</td>
 <td>Cambridge, MA</td>
 <td>🔒</td>
-<td>27d</td>
+<td>28d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
