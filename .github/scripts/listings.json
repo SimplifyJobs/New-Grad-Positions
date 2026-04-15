@@ -172410,7 +172410,7 @@
         "company_name": "EOS IT Solutions",
         "id": "25c579ac-8f2c-4d8c-bbe6-ad334fb1b441",
         "title": "Data Center Repair Technician - Tier 1",
-        "active": false,
+        "active": true,
         "date_updated": 1770074923,
         "date_posted": 1770074923,
         "url": "https://eosits.com/company/careers/?gh_jid=8371364002",
@@ -187028,7 +187028,7 @@
         "company_name": "L3Harris Technologies",
         "id": "d69336fe-346b-44dd-aa56-eba43e01625d",
         "title": "Assembly B",
-        "active": true,
+        "active": false,
         "date_updated": 1770851657,
         "date_posted": 1770851657,
         "url": "https://jobs.l3harris.com/job/Cincinnati-Assembly-B-OH-45245/1364064000/?ats=successfactors",
@@ -218370,7 +218370,7 @@
         "company_name": "Moog ",
         "id": "185e755c-6864-4437-bf3f-4e33498a56dc",
         "title": "Associate Systems Packaging Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1772234936,
         "date_posted": 1772234936,
         "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Associate-Systems-Packaging-Engineer_R-26-16276",
@@ -258354,7 +258354,7 @@
         "company_name": "Geosyntec Consultants",
         "id": "3ecefcbe-42fb-4924-93d8-022163cfe7b9",
         "title": "Entry-Level Environmental Cartography Professional",
-        "active": true,
+        "active": false,
         "date_updated": 1774447793,
         "date_posted": 1774447793,
         "url": "https://careers-geosyntec.icims.com/jobs/4343/job?mobile=true&needsRedirect=false",
@@ -292113,6 +292113,281 @@
             "Boston, MA"
         ],
         "company_url": "https://simplify.jobs/c/Whoop",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Warner Bros.",
+        "id": "b2cd3bc5-42fd-414e-aac8-30ba473ec650",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1776207441,
+        "date_posted": 1776204502,
+        "url": "https://warnerbros.wd5.myworkdayjobs.com/global/job/GA-Atlanta-1050-Techwood-Drive-NW/Software-Engineer-I_R000103732",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Warner-Bros",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Olsson",
+        "id": "d0650ee7-35cb-4290-a61f-bfe5367ef0e8",
+        "title": "Assistant Fire Protection Engineer",
+        "active": true,
+        "date_updated": 1776208149,
+        "date_posted": 1776204566,
+        "url": "https://job-boards.greenhouse.io/olsson/jobs/5188164008",
+        "locations": [
+            "Dallas, TX",
+            "Kansas City, MO",
+            "Omaha, NE",
+            "Fort Worth, TX",
+            "Tulsa, OK"
+        ],
+        "company_url": "https://simplify.jobs/c/Olsson",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Fidelity Investments",
+        "id": "514ef960-57fb-4083-829c-61ce4b3b1768",
+        "title": "Full Stack Software Engineer - Multiple Teams",
+        "active": true,
+        "date_updated": 1776207435,
+        "date_posted": 1776204491,
+        "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/Salt-Lake-City-UT/Full-Stack-Software-Engineer--Typescript--Angular--Nodejs--REST-API-_2125855-1",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Fidelity-Investments",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Salt Lake County",
+        "id": "fce10a3f-43ad-4a1e-b4a2-3f3dfa40bf86",
+        "title": "Software Engineer 1 - Data and BI",
+        "active": true,
+        "date_updated": 1776207450,
+        "date_posted": 1776204458,
+        "url": "https://careers-slco.icims.com/jobs/40651/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Salt-Lake-County",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Manulife Financial",
+        "id": "a1fe1261-dcdf-4c7a-8832-44ec0f173d04",
+        "title": "Associate Data Analyst",
+        "active": true,
+        "date_updated": 1776208149,
+        "date_posted": 1776204590,
+        "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Associate-Data-Analyst_JR26031910-1",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Manulife-Financial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "884b740c-0aaf-42eb-842c-5129f7bb21e7",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1776206713,
+        "date_posted": 1776204427,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057212",
+        "locations": [
+            "Camberley, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Warner Bros.",
+        "id": "7f29ce49-7ff0-4c8d-9a1b-34590bf002ef",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1776207461,
+        "date_posted": 1776204509,
+        "url": "https://warnerbros.wd5.myworkdayjobs.com/global/job/GA-Atlanta-1050-Techwood-Drive-NW/Software-Engineer-I_R000103734",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Warner-Bros",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Snowflake",
+        "id": "52ddb392-b312-45d0-8a38-fd4027e96f49",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1776208149,
+        "date_posted": 1776204572,
+        "url": "https://jobs.ashbyhq.com/snowflake/bed7fa9d-f8a4-4c7f-ad1a-59883a43b6fe/application",
+        "locations": [
+            "Menlo Park, CA",
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Snowflake",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Intuit",
+        "id": "ba60b99f-c5db-42a3-af30-0fb701f3c30b",
+        "title": "Software Developer 1",
+        "active": true,
+        "date_updated": 1776209307,
+        "date_posted": 1776204565,
+        "url": "https://jobs.intuit.com/job/toronto/software-developer-1-center-of-money/27595/93951873376",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Intuit",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "GAP",
+        "id": "b9d6b230-eb7f-4cea-bd74-8411223a8fe3",
+        "title": "Product Manager 1",
+        "active": true,
+        "date_updated": 1776209266,
+        "date_posted": 1776204504,
+        "url": "https://gapinc.wd1.myworkdayjobs.com/GAPINC/job/SF---2-Folsom/Product-Manager-I---Order-Experience---Back-of-House_R207996",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/GAP",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Medtronic",
+        "id": "8c8d3bf2-c479-44f8-834a-48d7fc472ab8",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1776209325,
+        "date_posted": 1776204683,
+        "url": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Lafayette-Colorado-United-States-of-America/Software-Engineer-I_R63854",
+        "locations": [
+            "Lafayette, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Medtronic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Leidos",
+        "id": "2effb543-0fba-435b-9dc6-d06a4a478216",
+        "title": "Radar Modeling Engineer",
+        "active": true,
+        "date_updated": 1776209248,
+        "date_posted": 1776204641,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Radar-Modeling-Engineer_R-00174508-1",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Skyscanner",
+        "id": "066d17b7-a9b9-4f72-9150-da7921d006a9",
+        "title": "Software Engineer 1 - Distributed Systems",
+        "active": true,
+        "date_updated": 1776209269,
+        "date_posted": 1776204922,
+        "url": "http://www.skyscanner.net/jobs/job/7814987?gh_jid=7814987",
+        "locations": [
+            "Edinburgh, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Skyscanner",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "M3",
+        "id": "1b6da2ce-f055-4fc5-b663-5a5d0d0201b2",
+        "title": "Configuration Specialist 1",
+        "active": true,
+        "date_updated": 1776207009,
+        "date_posted": 1775686246,
+        "url": "https://job-boards.greenhouse.io/m3/jobs/7685505003",
+        "locations": [
+            "Gwinnett County, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/a3d8266e-64c3-406d-866e-b2c06dd91bb5",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
