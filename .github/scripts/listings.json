@@ -131758,7 +131758,7 @@
         "company_name": "Graphcore",
         "id": "e5e156e6-813f-4ef7-a4ee-d6d5a7029f34",
         "title": "Graduate Silicon Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1767715746,
         "date_posted": 1767715746,
         "url": "https://job-boards.greenhouse.io/graphcore/jobs/8360495002",
@@ -225647,7 +225647,7 @@
         "company_name": "Daikin Applied",
         "id": "d3f9c030-8feb-4813-bdb3-d97225cbc962",
         "title": "Calibration Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1772666644,
         "date_posted": 1772666644,
         "url": "https://daikinapplied.wd1.myworkdayjobs.com/Daikin-Careers/job/Plymouth-MN-55441/Calibration-Technician_R001613",
@@ -291205,7 +291205,7 @@
         "company_name": "Northrop Grumman",
         "id": "e098870b-ecd7-49e0-9434-d054311642fa",
         "title": "Principal Facilities Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1776178541,
         "date_posted": 1776175790,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-New-York-Ronkonkoma/Principal-Engineer-Facilities_R10229145",
@@ -291575,7 +291575,7 @@
         "company_name": "Busey Bank",
         "id": "e4907b31-7e28-4a68-be5b-65cc1c81eef0",
         "title": "Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1776208870,
         "date_posted": 1776204621,
         "url": "https://busey.wd503.myworkdayjobs.com/busey/job/TomahawkCorporate-Headquarters/Data-Analyst_JR102185",
@@ -292983,5 +292983,86 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "FourKites",
+        "id": "3d0e5007-19d1-4b14-8a44-198d431457e1",
+        "title": "Forward Deployed Engineer",
+        "active": true,
+        "date_updated": 1776265893,
+        "date_posted": 1776262354,
+        "url": "https://job-boards.greenhouse.io/fourkites/jobs/7672017",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/FourKites",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Interact Software",
+        "id": "fcbd6c7a-4ad6-4e1a-9930-e08187a3434f",
+        "title": "Graduate Software Engineer",
+        "active": true,
+        "date_updated": 1776265211,
+        "date_posted": 1776262210,
+        "url": "https://interactsoftware.pinpointhq.com/en/postings/4695740f-20ab-4ee4-a942-1d8c8728186f?ats=pinpointhq",
+        "locations": [
+            "Manchester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Interact-Software",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Google",
+        "id": "f3d22201-437b-4212-af70-c18c6fb5505b",
+        "title": "Product Manager 1 - Youtube Music Ecosystem Quality",
+        "active": true,
+        "date_updated": 1776265315,
+        "date_posted": 1776262198,
+        "url": "https://www.google.com/about/careers/applications/jobs/results/89577275619451590",
+        "locations": [
+            "NYC",
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Google",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Euronext",
+        "id": "b4744fc0-9008-475d-9561-ae4431e37c6d",
+        "title": "Junior Quant Analyst - Multiple Teams",
+        "active": true,
+        "date_updated": 1776263773,
+        "date_posted": 1776262000,
+        "url": "https://hrhub.wd3.myworkdayjobs.com/Euronext_Career_Page/job/New-York/Junior-Quant-Analyst--VIE-_R25577",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Euronext",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
