@@ -63064,7 +63064,7 @@
         "company_name": "Analog Devices",
         "id": "9ca04179-8963-4ad2-90c3-64f1a843ed0d",
         "title": "Design Verification Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1756280321,
         "date_posted": 1756280321,
         "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Design-Verification-Engineer_R255047",
@@ -229790,7 +229790,7 @@
         "company_name": "Excellus BCBS",
         "id": "b83b83cc-c13d-4c1c-a766-338bea37bbd9",
         "title": "Software Engineer 2",
-        "active": true,
+        "active": false,
         "date_updated": 1772811323,
         "date_posted": 1772811323,
         "url": "https://lthc.wd1.myworkdayjobs.com/en-US/ExcellusBCBSCareers/job/Rochester/Software-Engineer-II-III-IV_JR102945-2",
@@ -242006,7 +242006,7 @@
         "company_name": "Paradigm",
         "id": "bcdb79a6-5513-43d9-93f9-c099aedc2a55",
         "title": "Trading Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1773440848,
         "date_posted": 1773440848,
         "url": "https://jobs.ashbyhq.com/paradigm/3c065f40-74f5-49ac-ad44-951c060d6eb5/application",
@@ -286943,7 +286943,7 @@
         "company_name": "GlobalFoundries",
         "id": "2d05aebb-4711-4dfc-ba7e-121c6f0a9a8a",
         "title": "SoC Design Verification Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1775860873,
         "date_posted": 1775858688,
         "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/Richardson/SoC-Design-Verification-Engineer--2026-New-College-Graduate-_JR-2601515",
@@ -289409,7 +289409,7 @@
         "company_name": "Sierra Nevada Corporation",
         "id": "5b019464-8dd0-4fa5-8935-b5175b96a582",
         "title": "Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1776121000,
         "date_posted": 1776118061,
         "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Plano-TX/Software-Engineer-I_R0029684",
@@ -290138,7 +290138,7 @@
         "company_name": "Ciena",
         "id": "b39d3770-0701-4bac-a1af-ec2b5bae754d",
         "title": "Graduate Digital Verification Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1776121775,
         "date_posted": 1776118174,
         "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Digital-Verification-Engineer---New-Grad_R030677",
@@ -292708,7 +292708,7 @@
         "company_name": "Butternut Box",
         "id": "d32b862f-d064-4224-b991-fab7dcbd9dac",
         "title": "Sustainability Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1776245621,
         "date_posted": 1776244674,
         "url": "https://job-boards.greenhouse.io/butternutbox/jobs/8486428002",
@@ -292779,5 +292779,209 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "59287b56-1d6c-453a-8218-4b162d47cc49",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1776263773,
+        "date_posted": 1776262040,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057311",
+        "locations": [
+            "Bicester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "25f30f3e-26ed-49f4-a68b-d8c0d3fbe10b",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1776263773,
+        "date_posted": 1776262041,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057308",
+        "locations": [
+            "Easton, Norwich, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "0ad12903-8165-4404-8c31-60d4d889cd94",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1776263773,
+        "date_posted": 1776262041,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057269",
+        "locations": [
+            "Swindon, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "033a8173-07b2-41cb-bdb6-1fe7a0b12849",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1776263773,
+        "date_posted": 1776262041,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057231",
+        "locations": [
+            "Brighton, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The University of Edinburgh",
+        "id": "de8dab22-72db-4260-9568-9b1c21767679",
+        "title": "Postdoctoral Research Associate",
+        "active": true,
+        "date_updated": 1776264382,
+        "date_posted": 1776262083,
+        "url": "https://elxw.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/13948",
+        "locations": [
+            "Edinburgh, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/The-University-Of-Edinburgh",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Crane Co.",
+        "id": "d8ce83af-130c-49c9-8b18-1c5de0982991",
+        "title": "Application Engineer - Pressure Sewer",
+        "active": true,
+        "date_updated": 1776263773,
+        "date_posted": 1776262116,
+        "url": "https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Piqua-Ohio/Application-Engineer---Pressure-Sewer_JR101480",
+        "locations": [
+            "Vandalia, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Crane-Co",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "c037f19c-5ac0-4869-91e0-b53f54298a92",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1776263773,
+        "date_posted": 1776262041,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057302",
+        "locations": [
+            "Weybridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "First Quantum Minerals",
+        "id": "50b11362-ad33-45c0-b09a-aed1e6387708",
+        "title": "Trading Operations Administrator",
+        "active": true,
+        "date_updated": 1776263773,
+        "date_posted": 1776261943,
+        "url": "https://firstquantum.wd3.myworkdayjobs.com/First_Quantum_Careers/job/Toronto/Trading-Operations-Administrator_JR17261",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/First-Quantum-Minerals",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Zurich Insurance",
+        "id": "e7f5e160-a9e0-4f9d-9ef4-cf165f9de41e",
+        "title": "Property and Casualty Trading Underwriter",
+        "active": true,
+        "date_updated": 1776263773,
+        "date_posted": 1776262070,
+        "url": "https://www.careers.zurich.com/job/Croydon-Property-and-Casualty-Trading-Underwriter-New-Business-Focus-GB-L/1356498857/?ats=successfactors",
+        "locations": [
+            "Whiteley, UK",
+            "Croydon, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Zurich-Insurance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "e39055d0-7f0c-4a3d-819a-30b2fd16134a",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1776263773,
+        "date_posted": 1776262044,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057275",
+        "locations": [
+            "United Kingdom"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "27cbd1ac-48aa-49fe-bdf4-d0bd10c2bd6c",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1776263773,
+        "date_posted": 1776262040,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057280",
+        "locations": [
+            "Newcastle upon Tyne, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
