@@ -240930,7 +240930,7 @@
         "company_name": "Arconic",
         "id": "60741ec9-3628-411c-bc0d-e6a174a2987c",
         "title": "IT Manufacturing Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1773411096,
         "date_posted": 1773411096,
         "url": "https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/113400",
@@ -255218,7 +255218,7 @@
         "company_name": "Marvell",
         "id": "ab9a3a31-c7cb-4dd5-9d3d-357f211a1037",
         "title": "Firmware Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1774319409,
         "date_posted": 1774319409,
         "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Westlake-Village-CA/Firmware-Engineer_2601000-1",
@@ -264296,7 +264296,7 @@
         "company_name": "Sainsbury's",
         "id": "b020dc8b-9746-463b-9561-723d8f9d1b35",
         "title": "Trading Assistant - Shift",
-        "active": false,
+        "active": true,
         "date_updated": 1774822095,
         "date_posted": 1774822095,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055541",
@@ -274310,7 +274310,7 @@
         "company_name": "MatX",
         "id": "8417fc11-4785-44a8-951c-4d60f7b4a96c",
         "title": "Bluespec Design Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1775179441,
         "date_posted": 1775082190,
         "url": "https://job-boards.greenhouse.io/matx/jobs/5173649008",
@@ -275684,7 +275684,7 @@
         "company_name": "Leidos",
         "id": "cebcf839-fa11-4531-9dfa-552df2bae3a8",
         "title": "Software Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1775257781,
         "date_posted": 1775254232,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Software-Developer_R-00179976",
@@ -279187,7 +279187,7 @@
         "company_name": "Sainsbury's",
         "id": "5898d9c3-4ff1-459e-817a-2d696bf03f83",
         "title": "Trading Assistant - Shift",
-        "active": false,
+        "active": true,
         "date_updated": 1775516941,
         "date_posted": 1775513218,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056347",
@@ -280323,7 +280323,7 @@
         "company_name": "Sainsbury's",
         "id": "999144ec-7b42-40f1-a828-f958e82de411",
         "title": "Trading Assistant - Shift",
-        "active": false,
+        "active": true,
         "date_updated": 1775601181,
         "date_posted": 1775599652,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056476",
@@ -281409,7 +281409,7 @@
         "company_name": "Waystar",
         "id": "8ab72203-d72f-4c39-a18e-5275ce06b64a",
         "title": "Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1775612521,
         "date_posted": 1775610440,
         "url": "https://waystar.wd1.myworkdayjobs.com/Waystar/job/Atlanta-GA/Software-Engineer-I_R3123",
@@ -284269,7 +284269,7 @@
         "company_name": "Sainsbury's",
         "id": "28ead3e2-bfe0-4450-8334-2ee734b8e213",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1775775071,
         "date_posted": 1775772433,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056712",
@@ -292392,6 +292392,102 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "4f86685c-0c7a-4784-96d3-123eb592d823",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1776216795,
+        "date_posted": 1776215203,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053418",
+        "locations": [
+            "Weybridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "23a21cff-49c0-4099-8b96-f1af2f2100e3",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1776216795,
+        "date_posted": 1776215204,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057116",
+        "locations": [
+            "Manchester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "f6f93c70-242c-4186-a7d2-07dd6a45694b",
+        "title": "Machine Learning Engineer Graduate",
+        "active": true,
+        "date_updated": 1776216795,
+        "date_posted": 1776215468,
+        "url": "https://lifeattiktok.com/search/7534641634584185095",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "AvicenaTech",
+        "id": "608d3448-c9be-4dc7-9182-f64e1163df2c",
+        "title": "Entry Level Software Engineer",
+        "active": true,
+        "date_updated": 1776217324,
+        "date_posted": 1776215341,
+        "url": "https://ats.rippling.com/general/jobs/0e1746e5-cfb8-4020-9aef-b978f8b61957",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/AvicenaTech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "d125b509-7258-4a04-9220-92198ed2d7e5",
+        "title": "Machine Learning Engineer Graduate - Multiple Teams",
+        "active": true,
+        "date_updated": 1776216795,
+        "date_posted": 1776215464,
+        "url": "https://lifeattiktok.com/search/7534641209890588946",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
