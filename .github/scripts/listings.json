@@ -280323,7 +280323,7 @@
         "company_name": "Sainsbury's",
         "id": "999144ec-7b42-40f1-a828-f958e82de411",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1775601181,
         "date_posted": 1775599652,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056476",
@@ -292772,6 +292772,26 @@
             "Fort Mill, SC"
         ],
         "company_url": "https://simplify.jobs/c/LPL-Financial-Holdings",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Falconwood",
+        "id": "32d7c3c7-17cb-48ec-ab98-3a85f40385a6",
+        "title": "M365 Platform Developer",
+        "active": true,
+        "date_updated": 1776242172,
+        "date_posted": 1774908190,
+        "url": "https://careers-falconwood.icims.com/jobs/1700/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Suffolk, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Falconwood",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
