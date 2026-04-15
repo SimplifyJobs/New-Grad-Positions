@@ -284870,7 +284870,7 @@
         "company_name": "NextEra Energy",
         "id": "86f2b214-ca03-4538-be78-4f52056b8194",
         "title": "Applied Scientist 1",
-        "active": false,
+        "active": true,
         "date_updated": 1775775566,
         "date_posted": 1775772547,
         "url": "https://jobs.nexteraenergy.com/job/St_-Paul-Applied-Scientist-I-MN-55107/1381060800/?ats=successfactors",
@@ -286961,7 +286961,7 @@
         "company_name": "GlobalFoundries",
         "id": "2d05aebb-4711-4dfc-ba7e-121c6f0a9a8a",
         "title": "SoC Design Verification Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1775860873,
         "date_posted": 1775858688,
         "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/Richardson/SoC-Design-Verification-Engineer--2026-New-College-Graduate-_JR-2601515",
@@ -292683,5 +292683,23 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "3e8889ef-17bf-4e0e-b3c2-9f016cdbeea0",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1776245051,
+        "date_posted": 1776243857,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057259",
+        "locations": [
+            "Edinburgh, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
