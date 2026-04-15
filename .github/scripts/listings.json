@@ -243813,7 +243813,7 @@
         "company_name": "Stanley Black & Decker",
         "id": "e6db1a56-27b0-4734-ae86-d204b7d67ff7",
         "title": "Engineering Technician - Engines",
-        "active": true,
+        "active": false,
         "date_updated": 1773483309,
         "date_posted": 1773483309,
         "url": "https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Valley-City-OH-United-States/Engineering-Technician--Engines_REQ-1000046253",
@@ -270888,7 +270888,7 @@
         "company_name": "Brookhaven Lab",
         "id": "2cfba348-3a8a-44c3-804e-b7ade19789b2",
         "title": "Post Doctoral Research Associate - Nuclear Data",
-        "active": true,
+        "active": false,
         "date_updated": 1775025581,
         "date_posted": 1775023638,
         "url": "https://bnl.wd1.myworkdayjobs.com/externa/job/Upton-NY/Post-Doctoral-Reasearch-Associate--Nuclear-Data_JR102298",
@@ -292624,6 +292624,26 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Bird Construction",
+        "id": "8c48c632-ed07-4a64-845c-d545ba53ea81",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1776242712,
+        "date_posted": 1771694983,
+        "url": "https://bird.wd3.myworkdayjobs.com/BirdConstructionCareers/job/Calgary-AB/Data-Analyst_JR-8311",
+        "locations": [
+            "Calgary, AB, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Bird-Construction",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
