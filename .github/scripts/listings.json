@@ -229270,7 +229270,7 @@
         "company_name": "TikTok",
         "id": "289119e0-e5e7-4a88-936e-b7e7663589a3",
         "title": "Associate Product Manager - TikTok Safety Product",
-        "active": true,
+        "active": false,
         "date_updated": 1772781674,
         "date_posted": 1772781674,
         "url": "https://lifeattiktok.com/search/7613569281146947893",
@@ -253703,7 +253703,7 @@
         "company_name": "Wood Mackenzie",
         "id": "888cb698-0ce3-4d83-8159-b1c4a9b927b1",
         "title": "Data Analyst - Oil and Gas",
-        "active": false,
+        "active": true,
         "date_updated": 1774274696,
         "date_posted": 1774274696,
         "url": "https://woodmac.wd3.myworkdayjobs.com/woodmaccareers/job/Mexico-City-MX/Data-Analyst---Oil-and-Gas_JR2637",
@@ -276716,7 +276716,7 @@
         "company_name": "Rolls-Royce",
         "id": "ff5bc6cd-716a-4f3b-82ec-c89677e1bc9b",
         "title": "Proof Inspector",
-        "active": false,
+        "active": true,
         "date_updated": 1775298065,
         "date_posted": 1775294400,
         "url": "https://rollsroyce.wd3.myworkdayjobs.com/professional/job/Derby---Wilmore-Road-PCF-UK-DJC-20/Proof-Inspector_JR6151959-1",
@@ -292701,5 +292701,81 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Hawk-Eye Innovations",
+        "id": "a19b24da-0d4c-49a5-aa65-047adbe39853",
+        "title": "Hawk-Eye Systems Technician",
+        "active": true,
+        "date_updated": 1776245051,
+        "date_posted": 1776244059,
+        "url": "https://jobs.ashbyhq.com/hawkeyeinnovations/fac25f27-4555-4003-beeb-e61283bed399/application",
+        "locations": [
+            "Green Bay, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Hawk-Eye-Innovations",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Butternut Box",
+        "id": "d32b862f-d064-4224-b991-fab7dcbd9dac",
+        "title": "Sustainability Data Analyst",
+        "active": true,
+        "date_updated": 1776245621,
+        "date_posted": 1776244674,
+        "url": "https://job-boards.greenhouse.io/butternutbox/jobs/8486428002",
+        "locations": [
+            "Newcastle upon Tyne, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Butternut-Box",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GE Vernova",
+        "id": "0265a55b-a837-4742-8310-c5fca675bd2a",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1776245051,
+        "date_posted": 1776244747,
+        "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Rugby/Software-Engineer_R5035038-3",
+        "locations": [
+            "Rugby, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Vernova",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "LPL Financial Holdings",
+        "id": "6eea2a63-b8fe-40cf-8ee6-ff3a11d1309a",
+        "title": "Consultant - Digital Marketing Data Analyst",
+        "active": true,
+        "date_updated": 1776245051,
+        "date_posted": 1775858888,
+        "url": "https://lplfinancial.wd1.myworkdayjobs.com/External/job/Fort-MillCharlotte/Consultant--Digital-Marketing-Data-Analyst_R-049652",
+        "locations": [
+            "Fort Mill, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/LPL-Financial-Holdings",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
