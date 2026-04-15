@@ -251379,7 +251379,7 @@
         "company_name": "Brown University",
         "id": "486bf5b5-dedd-4bf9-ac37-b0f3b63f9f3a",
         "title": "Research Data Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1773986503,
         "date_posted": 1773986503,
         "url": "https://brown.wd5.myworkdayjobs.com/staff-careers-brown/job/Coro-Center-West/Research-Data-Analyst_REQ207235",
@@ -265323,7 +265323,7 @@
         "company_name": "Booz Allen",
         "id": "f8fbb94a-11c8-4808-ab10-498295d9e157",
         "title": "Data Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1773269866,
         "date_posted": 1773269866,
         "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Monterey-CA/Data-Scientist_R0235523",
@@ -287763,7 +287763,7 @@
         "company_name": "Morningstar",
         "id": "5bceb202-8949-4a17-83b3-be8d35cbe5b6",
         "title": "Associate Product Manager - Climate & Nature Solutions",
-        "active": true,
+        "active": false,
         "date_updated": 1775906472,
         "date_posted": 1775905495,
         "url": "https://morningstar.wd5.myworkdayjobs.com/Americas/job/London/Associate-Product-Manager--Climate---Nature-Solutions_REQ-056124",
@@ -291396,7 +291396,7 @@
         "company_name": "Marsh & McLennan",
         "id": "60d1ffde-9b2a-4b48-b950-4eca722c6e52",
         "title": "Graduate Investment Analyst - Delegated Investments Client Team",
-        "active": true,
+        "active": false,
         "date_updated": 1776178425,
         "date_posted": 1776175424,
         "url": "https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Dublin---Charlotte/Graduate-Investment-Analyst---Delegated-Investments-Client-Team_R_345697",
@@ -292640,6 +292640,44 @@
             "Calgary, AB, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Bird-Construction",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "6de239a3-a2bd-4b74-be79-aad87f8fd004",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1776245051,
+        "date_posted": 1776243856,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057260",
+        "locations": [
+            "Durham, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Cerity Partners",
+        "id": "636ccc47-f922-4bb8-b72e-52a35cdc75f6",
+        "title": "Trading Associate",
+        "active": true,
+        "date_updated": 1776245051,
+        "date_posted": 1776244782,
+        "url": "https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Louisville-KY/Trading-Associate_R633",
+        "locations": [
+            "Louisville, KY"
+        ],
+        "company_url": "https://simplify.jobs/c/Cerity-Partners",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
