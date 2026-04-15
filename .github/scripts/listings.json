@@ -250502,7 +250502,7 @@
         "company_name": "Micron Technology",
         "id": "61dc64b6-149b-4c69-8efe-6e7e4cb5637c",
         "title": "New College Grad - Design Engineer - AI",
-        "active": false,
+        "active": true,
         "date_updated": 1773961566,
         "date_posted": 1773961566,
         "url": "https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/New-College-Grad---Design-Engineer--AI_JR95333",
@@ -251379,7 +251379,7 @@
         "company_name": "Brown University",
         "id": "486bf5b5-dedd-4bf9-ac37-b0f3b63f9f3a",
         "title": "Research Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1773986503,
         "date_posted": 1773986503,
         "url": "https://brown.wd5.myworkdayjobs.com/staff-careers-brown/job/Coro-Center-West/Research-Data-Analyst_REQ207235",
@@ -278317,7 +278317,7 @@
         "company_name": "UT Southwestern Medical Center",
         "id": "ad3dc613-30ab-487d-9e28-1d771f14e62e",
         "title": "Data Scientist 1 - School Public Health",
-        "active": true,
+        "active": false,
         "date_updated": 1775485876,
         "date_posted": 1775484606,
         "url": "https://utsw.taleo.net/careersection/2/jobdetail.ftl?job=935979",
@@ -282371,7 +282371,7 @@
         "company_name": "The Boeing Company",
         "id": "05e22296-2215-47ac-a68e-f1d7bde6a55d",
         "title": "MP&P Engineer - Electrical PM&P",
-        "active": true,
+        "active": false,
         "date_updated": 1775687950,
         "date_posted": 1775686240,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/MP-P-Engineer--Electrical-PM-P-_JR2026493154-1",
@@ -288267,7 +288267,7 @@
         "company_name": "Southwest Airlines",
         "id": "534ed7fe-6398-41a2-be71-63407c531361",
         "title": "Associate Technical Data Manager",
-        "active": true,
+        "active": false,
         "date_updated": 1776061456,
         "date_posted": 1776060461,
         "url": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Associate-Technical-Data-Manager_R-2026-66885",
@@ -292483,6 +292483,142 @@
             "San Jose, CA"
         ],
         "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Marvell",
+        "id": "94b7b55f-edd1-4611-a96d-e2e602c33ad5",
+        "title": "Application Engineer \u2013 Early Career",
+        "active": true,
+        "date_updated": 1776234619,
+        "date_posted": 1776233245,
+        "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Application-Engineer---Early-Career_2503703",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Marvell",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Allstate Insurance Company",
+        "id": "8f8cdb6b-41b7-40bb-8ac6-2c302fa343d6",
+        "title": "Entry Level - Full Stack Software Engineer - LLM application Development",
+        "active": true,
+        "date_updated": 1776235107,
+        "date_posted": 1776233200,
+        "url": "https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/US---Remote/XMLNAME--Entry-level--Full-Stack-Software-Engineer--LLM-application-Development-_R28486-1",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Allstate-Insurance-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "537914b3-1792-43d6-963d-032c3d3703c4",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1776234619,
+        "date_posted": 1776233204,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057247",
+        "locations": [
+            "Letchworth Garden City, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "512026f3-95cd-4fc7-9704-2d525c0fcacd",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1776234619,
+        "date_posted": 1776233204,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057250",
+        "locations": [
+            "Letchworth Garden City, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Walmart",
+        "id": "e8ef8b5f-bbf5-4825-acc8-c8d44b56f95e",
+        "title": "Senior Data Scientist",
+        "active": true,
+        "date_updated": 1776235148,
+        "date_posted": 1776233315,
+        "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-VIZIO-SERVICES-SEATTLE-WA-Seattle-Home-Office/Senior--Data-Scientist_R-2466357",
+        "locations": [
+            "Seattle, WA",
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Walmart",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "2eea2bdb-87b6-41a2-88cc-ebb307361e54",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1776234619,
+        "date_posted": 1776233204,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056834",
+        "locations": [
+            "Bracknell, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Hewlett Packard Enterprise",
+        "id": "13ac2df9-04be-49ad-8a93-0ce1f3429274",
+        "title": "Systems/Software Engineer 1",
+        "active": true,
+        "date_updated": 1776235170,
+        "date_posted": 1776233282,
+        "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Sunnyvale-California-United-States-of-America/Systems-Software-Engineer-I_1204732",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
