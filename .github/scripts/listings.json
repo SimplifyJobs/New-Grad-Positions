@@ -1,25 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Notion",
-        "id": "75fb48a4-fff4-42d7-a3fd-fb29d7e57b96",
-        "title": "Software Engineer \u2013 Early Career - Infrastructure",
-        "active": false,
-        "date_updated": 1756120352,
-        "date_posted": 1755548838,
-        "url": "https://jobs.ashbyhq.com/notion/add58865-8b9f-4cf7-9720-2908ba5f4d80/application",
-        "locations": [
-            "San Francisco, CA",
-            "New York, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Notion",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Chord Energy",
         "id": "141524f2-adf7-4b47-afb9-4115336e9871",
