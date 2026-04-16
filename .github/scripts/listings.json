@@ -1,23 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "The Travelers Companies",
-        "id": "f0c28371-b210-4c4e-bbc2-48c6aa38ea82",
-        "title": "Software Engineer I - Enterprise AI for Operations - Aws - Python",
-        "active": false,
-        "date_updated": 1755570176,
-        "date_posted": 1755570176,
-        "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Software-Engineer-I---Enterprise-AI-for-Operations--AWS--Python-_R-45303-1",
-        "locations": [
-            "Hartford, CT",
-            "St Paul, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Travelers",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
         "date_updated": 1755593486,
         "url": "https://job-boards.greenhouse.io/canonical/jobs/3257589",
         "company_name": "Canonical",
@@ -94192,28 +94174,6 @@
             "Sunnyvale, CA"
         ],
         "company_url": "https://simplify.jobs/c/CoStar",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Digital Realty",
-        "id": "c867beef-d7fb-4818-bf68-5cf068fb3bea",
-        "title": "Engineer \u2013 Network Observability Platform and Automation",
-        "active": false,
-        "date_updated": 1764672726,
-        "date_posted": 1755568984,
-        "url": "https://hdep.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/6177",
-        "locations": [
-            "Boston, MA",
-            "Austin, TX",
-            "Dallas, TX",
-            "Chicago, IL",
-            "Ashburn, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Digital-Realty",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
