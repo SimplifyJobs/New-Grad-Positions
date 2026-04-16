@@ -294724,5 +294724,23 @@
         "date_posted": 1776340276,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1776340698,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://apply.workable.com/optisigns-inc/j/EB560EFFD4/",
+        "company_name": "OptiSigns",
+        "title": "Software Engineer (Entry Level)",
+        "locations": [
+            "Houston, TX"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "df84a2f9-5ad4-4c19-9208-6f41c09e3663",
+        "date_posted": 1776340698,
+        "company_url": "",
+        "is_visible": true
     }
 ]
