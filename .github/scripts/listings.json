@@ -201472,7 +201472,7 @@
         "company_name": "GlobalFoundries",
         "id": "08e95179-4f48-4db4-84bd-c1510f1905af",
         "title": "AI Enablement Strategist \u2013 New College Graduate",
-        "active": false,
+        "active": true,
         "date_updated": 1771588742,
         "date_posted": 1769867704,
         "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/Austin/AI-Enablement-Strategist_JR-2600122",
@@ -280444,7 +280444,7 @@
         "company_name": "Brown Brothers Harriman",
         "id": "ce04b09e-a810-495d-bdd0-30c51e0245d4",
         "title": "Sales & Trading FX Rotational Program",
-        "active": false,
+        "active": true,
         "date_updated": 1775601181,
         "date_posted": 1775599585,
         "url": "https://bbh.wd5.myworkdayjobs.com/en-US/BBH/job/New-York/Sales---Trading-FX-Rotational-Program_70059",
@@ -290517,7 +290517,7 @@
         "company_name": "Sainsbury's",
         "id": "810be529-d966-4d79-9059-433a82698651",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1776162069,
         "date_posted": 1776157450,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057093",
@@ -292220,7 +292220,7 @@
         "company_name": "Sainsbury's",
         "id": "59287b56-1d6c-453a-8218-4b162d47cc49",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1776263773,
         "date_posted": 1776262040,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057311",
@@ -294951,5 +294951,207 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Nucor",
+        "id": "c0a475ee-0277-41bd-a7ba-58b8ae900cec",
+        "title": "Tensile Lab Technician",
+        "active": true,
+        "date_updated": 1776377161,
+        "date_posted": 1776377125,
+        "url": "https://jobs.nucor.com/job/Darlington-Tensile-Lab-Technician-SC-29540/1382953900/?ats=successfactors",
+        "locations": [
+            "Florence, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/Nucor",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "KLA",
+        "id": "3a01d30e-de21-484c-ba2c-62ca9637d881",
+        "title": "Applications Development Engineer",
+        "active": true,
+        "date_updated": 1776377161,
+        "date_posted": 1776377105,
+        "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Austin-TX/Applications-Development-Engineer_2635568",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/KLA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "fe68c7f2-7599-4316-ae42-ebb3a9be4239",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1776377980,
+        "date_posted": 1776377253,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-FULLERTON-675--1801-Hughes-Dr--BLDG-675/XMLNAME-2026-Raytheon-Full-Time-Software-Engineer-I---RDPL---Onsite--CA-_01838610",
+        "locations": [
+            "Anaheim, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Pico",
+        "id": "8e215d5f-37c4-4b3b-af31-484e13277e08",
+        "title": "Product Engineer",
+        "active": true,
+        "date_updated": 1776378061,
+        "date_posted": 1776377269,
+        "url": "https://job-boards.greenhouse.io/picoquantitativetrading/jobs/4673900006",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Pico",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "CACI",
+        "id": "729776f8-7c0e-4809-958d-ff282b45fd85",
+        "title": "Electro Optical Technician 1",
+        "active": true,
+        "date_updated": 1776378061,
+        "date_posted": 1776377312,
+        "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-MT-Belgrade/Electro-Optical-Technician-1_324991",
+        "locations": [
+            "Bozeman, MT"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Warner Bros.",
+        "id": "f3a27a5b-5549-4d90-93fc-7dc8f2238a76",
+        "title": "Software Developer 1",
+        "active": true,
+        "date_updated": 1776378052,
+        "date_posted": 1776377272,
+        "url": "https://warnerbros.wd5.myworkdayjobs.com/global/job/Kanata-307-Legget-Dr/Software-Developer-I_R000103944",
+        "locations": [
+            "Kanata, Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Warner-Bros",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "25b24a91-d536-4684-86b6-892456b930ff",
+        "title": "Software Engineer 1 - Training System Software",
+        "active": true,
+        "date_updated": 1776377991,
+        "date_posted": 1776377253,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineer-I---Training-System-Software--Onsite-_01838582",
+        "locations": [
+            "Dulles, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "PNC Financial Services",
+        "id": "1a641035-0b0e-4a11-a5ea-e3cedf9d52b0",
+        "title": "Bus Systems Analyst",
+        "active": true,
+        "date_updated": 1776378013,
+        "date_posted": 1776377293,
+        "url": "https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Bus-Systems-Analyst_R217993-1",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/PNC-Financial-Services",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "GlobalFoundries",
+        "id": "63f1bc7c-5f89-4b81-9acf-4494b2056143",
+        "title": "AI Enablement Strategist \u2013 New College Graduate",
+        "active": true,
+        "date_updated": 1776377161,
+        "date_posted": 1776117938,
+        "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/AI-Enablement-Strategist--New-College-Graduate-_JR-2600367",
+        "locations": [
+            "Austin, TX",
+            "Bengaluru, Karnataka, India"
+        ],
+        "company_url": "https://simplify.jobs/c/GlobalFoundries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "GlobalFoundries",
+        "id": "0c6db0ac-70f3-4442-b79f-ef3cc1fec6dc",
+        "title": "AI Enablement Strategist",
+        "active": true,
+        "date_updated": 1776377377,
+        "date_posted": 1776117940,
+        "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/AI-Enablement-Strategist_JR-2600008",
+        "locations": [
+            "Austin, TX",
+            "Bengaluru, Karnataka, India"
+        ],
+        "company_url": "https://simplify.jobs/c/GlobalFoundries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
     }
 ]
