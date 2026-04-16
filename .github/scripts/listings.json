@@ -267111,7 +267111,7 @@
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Lawrence Livermore National Laboratory (LLNL)",
-        "id": "5a03e922-9be2-4e12-9821-b01d8c92b5e6",
+        "id": "35bdadb3-6dd8-4e23-b36d-a34aa8762510",
         "title": "Uncertainty Quantification for Surrogate Models Postdoctoral Researcher",
         "active": true,
         "date_updated": 1774972621,
@@ -276668,7 +276668,7 @@
         "company_name": "Texas A&M University - College Station",
         "id": "acee71dc-3b25-4735-8336-d59cc82606d0",
         "title": "Postdoctoral Research Associate - Shireman Lab",
-        "active": true,
+        "active": false,
         "date_updated": 1775297661,
         "date_posted": 1775294097,
         "url": "https://tamus.wd1.myworkdayjobs.com/TAMU_External/job/Bryan-TX/Postdoctoral-Research-Associate---Shireman-Lab_R-090478-1",
@@ -290774,7 +290774,7 @@
         "company_name": "Western Digital",
         "id": "3fd6b6de-4790-4661-91f1-6c0425f1a0c9",
         "title": "HDD Applications Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1776177913,
         "date_posted": 1776175415,
         "url": "https://jobs.smartrecruiters.com/WesternDigital/744000118958777",
@@ -292984,7 +292984,7 @@
         "company_name": "Meijer",
         "id": "85583f01-35fb-462a-a63d-ed825c4fddc9",
         "title": "Analyst 1 - Pricing Data",
-        "active": true,
+        "active": false,
         "date_updated": 1776294692,
         "date_posted": 1776290894,
         "url": "https://meijer.wd5.myworkdayjobs.com/en-US/Meijer/job/Grand-Rapids-MI/Analyst--Pricing-Data-I_R000660406",
@@ -294724,5 +294724,124 @@
         "date_posted": 1776340698,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GE Vernova",
+        "id": "efc67bab-6d64-45bd-9ae6-2d60db627413",
+        "title": "CMM Programmer",
+        "active": true,
+        "date_updated": 1776348541,
+        "date_posted": 1776348405,
+        "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Greenville/CMM-Programmer_R5037982-2",
+        "locations": [
+            "Greenville, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Vernova",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Duke Energy",
+        "id": "5395d024-23b4-4877-8de2-21d64433b863",
+        "title": "Associate IT Software Engineer",
+        "active": true,
+        "date_updated": 1776349117,
+        "date_posted": 1776348595,
+        "url": "https://dukeenergy.wd1.myworkdayjobs.com/search/job/Charlotte-NC/Associate-IT-Software-Engineer_R39256",
+        "locations": [
+            "Raleigh, NC",
+            "Charlotte, NC",
+            "St. Petersburg, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Duke-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CIBC",
+        "id": "151437b5-555d-4808-8f88-42d14d2dd63f",
+        "title": "Regulatory Reporting and Data Management Assistant - Finance",
+        "active": true,
+        "date_updated": 1776349398,
+        "date_posted": 1776348608,
+        "url": "https://cibc.wd3.myworkdayjobs.com/search/job/London-GBR/Regulatory-Reporting-and-Data-Management-Assistant--Finance_2608497",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/CIBC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Jones Lang LaSalle (JLL)",
+        "id": "284dc806-84cd-4373-9a08-6258ece28b51",
+        "title": "Data Coordinator",
+        "active": true,
+        "date_updated": 1776348361,
+        "date_posted": 1776348290,
+        "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/London-GBR/Data-Coordinator_REQ484124",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Jones-Lang-LaSalle",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "f7d5b156-4cb5-4fdc-be9e-f212ef468948",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1776348541,
+        "date_posted": 1776348427,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057423",
+        "locations": [
+            "Manchester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Illumina",
+        "id": "77be5914-87b0-4f12-a256-1f3cb47aedbf",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1776348601,
+        "date_posted": 1776348304,
+        "url": "https://illumina.wd1.myworkdayjobs.com/illumina-careers/job/England---Cambridge/Software-Engineer-1_42598-JOB-1",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Illumina",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
