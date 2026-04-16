@@ -1,102 +1,5 @@
 [
     {
-        "date_updated": 1755615074,
-        "url": "https://joinbytedance.com/search/7535903852755814674",
-        "company_name": "ByteDance",
-        "title": "Site Reliability Engineer Graduate (Data Infrastructure)",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "source": "AlmondCroffle",
-        "id": "b9542ef2-fc42-4b23-bada-26ef13996680",
-        "date_posted": 1755615074,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1755615135,
-        "url": "https://joinbytedance.com/search/7538120693880834322",
-        "company_name": "ByteDance",
-        "title": "Software Engineer Graduate (Edge Platform)",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "source": "AlmondCroffle",
-        "id": "a8be4912-f9d1-4720-b580-067cb39dd751",
-        "date_posted": 1755615135,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1755615165,
-        "url": "https://joinbytedance.com/search/7538433821165259015",
-        "company_name": "ByteDance",
-        "title": "Cloud Network Engineer Graduate(Physical Network Infra)",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "source": "AlmondCroffle",
-        "id": "d5268909-0683-45c1-846f-75693dab80f5",
-        "date_posted": 1755615165,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1755615194,
-        "url": "https://joinbytedance.com/search/7538106304578963730",
-        "company_name": "ByteDance",
-        "title": "Network Engineer Graduate (Physical Network Infra)",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "source": "AlmondCroffle",
-        "id": "1ced7c54-67ff-4ee3-a8be-6ef2e619bec2",
-        "date_posted": 1755615194,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1762272678,
-        "url": "https://joinbytedance.com/search/7538109046751463688",
-        "company_name": "ByteDance",
-        "title": "Network Engineer Graduate (Physical Network Infra)",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "source": "AlmondCroffle",
-        "id": "6a78cd19-8c35-45f3-bf12-1ece75258473",
-        "date_posted": 1755615218,
-        "company_url": "",
-        "is_visible": true,
-        "degrees": []
-    },
-    {
-        "date_updated": 1755615250,
-        "url": "https://joinbytedance.com/search/7538114876280817927",
-        "company_name": "ByteDance",
-        "title": "Cloud Network Engineer Graduate(Physical Network Infra)",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "source": "AlmondCroffle",
-        "id": "34f8b2b0-5d90-4fa3-92e0-30f9bcc2186c",
-        "date_posted": 1755615250,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "date_updated": 1755716125,
         "sponsorship": "Other",
         "active": true,
@@ -188575,7 +188478,7 @@
         "company_name": "Brown Brothers Harriman",
         "id": "edb4781c-da69-410a-96c5-925966d46ae0",
         "title": "Systems Programmer Analyst - .Net",
-        "active": true,
+        "active": false,
         "date_updated": 1770909597,
         "date_posted": 1770909597,
         "url": "https://bbh.wd5.myworkdayjobs.com/en-US/BBH/job/Boston/Junior-Java-Developer_68763",
@@ -209474,7 +209377,7 @@
         "company_name": "Denso",
         "id": "d6f8a8ce-50d3-4dfc-9a6e-5e9f6cf102b0",
         "title": "Product Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1771974401,
         "date_posted": 1771974401,
         "url": "https://hcwt.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/23311",
@@ -264385,7 +264288,7 @@
         "company_name": "Western Digital",
         "id": "264c2baf-a594-49a9-aace-e9a2b52b10fe",
         "title": "HDD Applications Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1774694300,
         "date_posted": 1774694300,
         "url": "https://jobs.smartrecruiters.com/WesternDigital/744000117397567",
@@ -290461,7 +290364,7 @@
         "company_name": "Vanderbilt Health",
         "id": "b92b5ac0-bddc-4691-9f43-f1526dd72263",
         "title": "Business Intelligence Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1776148388,
         "date_posted": 1776146816,
         "url": "https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Business-Intelligence-Analyst--Remote-_R-57595-1",
@@ -291396,7 +291299,7 @@
         "company_name": "Capco",
         "id": "d55772b6-066a-4fab-a00e-f61b3573d598",
         "title": "Junior AI Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1776206713,
         "date_posted": 1776204532,
         "url": "https://job-boards.greenhouse.io/capco/jobs/7815304",
@@ -294861,5 +294764,250 @@
         "date_posted": 1776350076,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Draper",
+        "id": "bb311c30-3145-4791-9769-fb1c423aaf10",
+        "title": "Early Career Engineer",
+        "active": true,
+        "date_updated": 1776348361,
+        "date_posted": 1776348289,
+        "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Early-Career-Engineer--Draper-Capstone-Cohort--2025-2026-_JR002440-1",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Draper",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Danaher Corporation",
+        "id": "b143a000-ce28-46f5-bcbc-673fc7167046",
+        "title": "Technician Production Operations",
+        "active": true,
+        "date_updated": 1776348854,
+        "date_posted": 1776348408,
+        "url": "https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Chaska-Minnesota-United-States/T1---Technician-Production-Operations_R1308507",
+        "locations": [
+            "Chaska, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Danaher-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Hyster-Yale Materials Handling",
+        "id": "68a66352-b879-475d-824b-d9a5745d6877",
+        "title": "Application Engineer 1",
+        "active": true,
+        "date_updated": 1776348894,
+        "date_posted": 1776348500,
+        "url": "https://hysteryale.wd1.myworkdayjobs.com/hyster-yalecareers/job/HY-EMEA-UK-Irvine/Application-Engineer-I_R7945",
+        "locations": [
+            "Portadown, Craigavon, UK",
+            "Girvan, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Hyster-Yale-Materials-Handling",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "OVO Energy",
+        "id": "e2a63676-98a2-40be-b52a-0d05286244d3",
+        "title": "Optimisation and Balancing Trader",
+        "active": true,
+        "date_updated": 1776350161,
+        "date_posted": 1776349369,
+        "url": "https://careers.ovo.com/?gh_jid=7820528",
+        "locations": [
+            "London, UK",
+            "Bristol, UK",
+            "Glasgow, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/OVO-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GE Vernova",
+        "id": "6b2dee53-6879-43e9-824c-38fabc99aa49",
+        "title": "CMM Programmer",
+        "active": true,
+        "date_updated": 1776348541,
+        "date_posted": 1776348432,
+        "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Greenville/CMM-Programmer_R5037982-1",
+        "locations": [
+            "Greenville, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Vernova",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Suvoda",
+        "id": "126df80c-4f28-41a0-86c7-14ff51140d88",
+        "title": "Data Engineer",
+        "active": true,
+        "date_updated": 1776349442,
+        "date_posted": 1776349438,
+        "url": "https://www.suvoda.com/careers/job-openings?gh_jid=8459501002",
+        "locations": [
+            "Conshohocken, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Suvoda",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Morgan Stanley",
+        "id": "0622539f-4418-4ae2-9751-29c0206254a4",
+        "title": "Associate \u2013 Institutional Securities Tech",
+        "active": true,
+        "date_updated": 1776349442,
+        "date_posted": 1776348629,
+        "url": "https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Associate--Institutional-Securities-Tech_JR032097",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Morgan-Stanley",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Mondelez International",
+        "id": "97feca14-459a-43c9-9eed-1f0cf74a60bf",
+        "title": "Developer \u2013 Product Development",
+        "active": true,
+        "date_updated": 1776349442,
+        "date_posted": 1776348622,
+        "url": "https://wd3.myworkdaysite.com/recruiting/mdlz/External/job/Birmingham-United-Kingdom/Developer--Product-Development_R-164421-1",
+        "locations": [
+            "Birmingham, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Mondelez-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "The Boeing Company",
+        "id": "86a126e7-d91d-4410-92f1-26d65b7f3d1b",
+        "title": "Audio Visual Programmer \u2013 Mid-Level or Senior",
+        "active": true,
+        "date_updated": 1776348721,
+        "date_posted": 1776348609,
+        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Herndon-VA/Audio-Visual-Programmer--Associate--Mid-Level-or-Senior-_JR2026499471-1",
+        "locations": [
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TD Bank",
+        "id": "4e7f6933-9583-4623-bdbf-3880892255ab",
+        "title": "Data Engineer 1 - ETL Developer",
+        "active": true,
+        "date_updated": 1776348952,
+        "date_posted": 1776348531,
+        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Data-Engineer-I--ETL-Developer-_R_1483084",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/TD-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Celonis",
+        "id": "6ae206bf-3bfc-49c1-a369-87749068f437",
+        "title": "Associate Value Engineer - AI-Driven Data Science & Analytics - Orbit Program",
+        "active": true,
+        "date_updated": 1776349981,
+        "date_posted": 1772149168,
+        "url": "https://job-boards.greenhouse.io/celonis/jobs/7627647003?gh_jid=7627647003",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Celonis",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Electronic Arts",
+        "id": "3db201c8-cfe8-4208-a4ed-acb42654baa0",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1776348791,
+        "date_posted": 1758698060,
+        "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-I/210658",
+        "locations": [
+            "Trafford, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Electronic-Arts",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
