@@ -64586,24 +64586,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Quantinuum",
-        "id": "c7d09805-b8e6-4f79-8f81-30022892eba9",
-        "title": "Backend Software Engineer",
-        "active": false,
-        "date_updated": 1755694571,
-        "date_posted": 1755610268,
-        "url": "https://jobs.eu.lever.co/quantinuum/0535d099-4f84-4ef3-a3fa-a182dde4362a/apply",
-        "locations": [
-            "Cambridge, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Quantinuum",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "ByteDance",
         "id": "afb422e6-c340-47e0-a3e2-961c02836bac",
         "title": "Software Engineer Graduate - AI Platform - 2026 Start",
@@ -156042,7 +156024,7 @@
         "company_name": "Fermilab",
         "id": "0b0ef6aa-d49f-460b-bd2a-28202078096d",
         "title": "Electrical Assembly Technician 1",
-        "active": true,
+        "active": false,
         "date_updated": 1769182069,
         "date_posted": 1769182069,
         "url": "https://fermilab.wd5.myworkdayjobs.com/FermilabCareers/job/Batavia/Electrical-Assembly-Technician-I_R_009174",
