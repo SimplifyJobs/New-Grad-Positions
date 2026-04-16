@@ -274596,7 +274596,7 @@
         "company_name": "Atos",
         "id": "86a3dbd1-2847-4a14-8d48-af6e48facf09",
         "title": "Graduate Data & AI Resource",
-        "active": true,
+        "active": false,
         "date_updated": 1775226748,
         "date_posted": 1775225214,
         "url": "https://jobs.atos.net/job/London-Graduate-D&AI-Resource/1380728433/?ats=successfactors",
@@ -283038,7 +283038,7 @@
         "company_name": "City of Oklahoma City",
         "id": "85f0f4ab-23a0-4a48-b194-ff302d56fe4e",
         "title": "Systems Analyst 1",
-        "active": true,
+        "active": false,
         "date_updated": 1775716770,
         "date_posted": 1775714798,
         "url": "https://fa-etyr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/3713",
@@ -294363,5 +294363,61 @@
             "MBA",
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northrop Grumman",
+        "id": "fea8f619-d60b-42c4-8de4-f9235ef5daf4",
+        "title": "Associate Systems Engineer / Systems Engineer",
+        "active": true,
+        "date_updated": 1776323459,
+        "date_posted": 1776323080,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Edwards-AFB/XMLNAME-2026-Associate-Systems-Engineer---Systems-Engineer_R10229750-1",
+        "locations": [
+            "Edwards AFB, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "cb56d34a-1293-43a4-8162-748d06b7f4ac",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1776323161,
+        "date_posted": 1776323050,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057375",
+        "locations": [
+            "Guildford, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "2521a44b-470d-431d-8829-b752c9e713e3",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1776323161,
+        "date_posted": 1776323050,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057374",
+        "locations": [
+            "Belfast, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
