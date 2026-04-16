@@ -294629,5 +294629,23 @@
         "date_posted": 1776339383,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1776339462,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://genalyte.applytojob.com/apply/ms4az9EW8x/Software-Engineer-I",
+        "company_name": "Genalyte",
+        "title": "Software Engineer I",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "b7cf513c-38dd-4d98-8ee6-4c32dec19a0c",
+        "date_posted": 1776339462,
+        "company_url": "",
+        "is_visible": true
     }
 ]
