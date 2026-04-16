@@ -1,43 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Chord Energy",
-        "id": "141524f2-adf7-4b47-afb9-4115336e9871",
-        "title": "Junior Data Engineer Azure",
-        "active": false,
-        "date_updated": 1755566527,
-        "date_posted": 1755566527,
-        "url": "https://chordenergy.wd1.myworkdayjobs.com/external/job/Houston-TX---Corporate/Junior-Data-Engineer-Azure_R0002251-1",
-        "locations": [
-            "Houston, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/6318f491-c84d-4570-aca1-0d51c5e85b84",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Pinterest",
-        "id": "d7feac2c-dad6-41c7-96f9-25652bbadef6",
-        "title": "Machine Learning Engineer I - Monetization Engineering",
-        "active": false,
-        "date_updated": 1756120836,
-        "date_posted": 1755566145,
-        "url": "https://www.pinterestcareers.com/job-form?gh_jid=7172308",
-        "locations": [
-            "Palo Alto, CA",
-            "Seattle, WA",
-            "San Francisco, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Pinterest",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "The Travelers Companies",
         "id": "f0c28371-b210-4c4e-bbc2-48c6aa38ea82",
@@ -40674,7 +40637,7 @@
         "company_name": "TikTok",
         "id": "1e397c92-8682-482b-bcf4-ae906960e06c",
         "title": "Machine Learning Engineer - CV/NLP/Multimodal LLM - Tiktok Trust and Safety",
-        "active": false,
+        "active": true,
         "date_updated": 1761907298,
         "date_posted": 1761907298,
         "url": "https://lifeattiktok.com/search/7517108164819454216",
@@ -65228,24 +65191,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Tencent",
-        "id": "c078569e-e6d3-4c94-af57-471f75b447b3",
-        "title": "Senior \u2013 Graduate - Data Scientist - Adtech",
-        "active": false,
-        "date_updated": 1761269160,
-        "date_posted": 1755565256,
-        "url": "https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/UK-London/XMLNAME--Senior--Researcher--2026-Graduate_R105910-2",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Tencent",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -279182,7 +279127,7 @@
         "company_name": "Schweitzer Engineering Laboratories",
         "id": "e1b6fc77-67ed-4e7a-bc7c-7a42c083c168",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1775516581,
         "date_posted": 1775513409,
         "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Associate-Software-Engineer_2026-20434",
@@ -283191,7 +283136,7 @@
         "company_name": "Sainsbury's",
         "id": "f7c6a053-3631-49b4-8896-bd0251d129cc",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1775716393,
         "date_posted": 1775714799,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056582",
@@ -292828,7 +292773,7 @@
         "company_name": "Sainsbury's",
         "id": "e39055d0-7f0c-4a3d-819a-30b2fd16134a",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1776263773,
         "date_posted": 1776262044,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057275",
@@ -294171,5 +294116,142 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Amazon",
+        "id": "e7b55ad1-9925-43ef-b78d-11bfc5e876a2",
+        "title": "Data Collection Specialist - V-Care",
+        "active": true,
+        "date_updated": 1776302289,
+        "date_posted": 1776301776,
+        "url": "https://amazon.jobs/en/jobs/3194783/data-collection-specialist-v-care",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Trane Technologies",
+        "id": "e6649d63-6c2f-469d-8907-8196e26ce52d",
+        "title": "Technical Product Support",
+        "active": true,
+        "date_updated": 1776302577,
+        "date_posted": 1776301784,
+        "url": "https://careers.tranetechnologies.com/global/en/job/JR-716",
+        "locations": [
+            "Clarksville, TN",
+            "Panama City, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Trane-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Skydio",
+        "id": "e38883d3-d50a-4f83-8541-001594ce1992",
+        "title": "Hardware Technician",
+        "active": true,
+        "date_updated": 1776302289,
+        "date_posted": 1776301794,
+        "url": "https://jobs.ashbyhq.com/skydio/6d5e666b-a0b7-45d4-a4de-45aef141ce10/application",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Skydio",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Amazon",
+        "id": "1234ccaa-bbf7-44f1-a82e-3ced2a1f126f",
+        "title": "Data Collection Specialist - V-Care",
+        "active": true,
+        "date_updated": 1776302289,
+        "date_posted": 1776301776,
+        "url": "https://amazon.jobs/en/jobs/3194786/data-collection-specialist-v-care",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Amazon",
+        "id": "db51e492-64bf-43de-9396-44884c9ebbb8",
+        "title": "Data Collection Specialist",
+        "active": true,
+        "date_updated": 1776302289,
+        "date_posted": 1776301776,
+        "url": "https://amazon.jobs/en/jobs/3194789/data-collection-specialist-v-care",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Athena Health",
+        "id": "b40c9de5-5352-4d32-ae1d-fdfec48599f1",
+        "title": "Associate Software Engineer - Billing Workflow",
+        "active": true,
+        "date_updated": 1776302289,
+        "date_posted": 1776301631,
+        "url": "https://athenahealth.wd1.myworkdayjobs.com/en-US/External/job/Boston-MA/Associate-Software-Engineer--Billing-Workflow_R14810",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/e955406a-7989-4ed8-aff1-01032b96e141",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "3a73f3f3-69c7-4e2d-989b-e949dda51467",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1776302289,
+        "date_posted": 1776301657,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057371",
+        "locations": [
+            "Bromley, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
