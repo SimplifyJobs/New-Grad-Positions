@@ -294495,5 +294495,85 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "7d2bf093-f3e7-4fb6-abf6-a1197ae4319e",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1776330361,
+        "date_posted": 1776330265,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057351",
+        "locations": [
+            "Bolton, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "NVIDIA",
+        "id": "7a4f5642-d83f-4473-84aa-d4b7c872a71b",
+        "title": "Software Engineer - Machine Learning Inference",
+        "active": true,
+        "date_updated": 1776331315,
+        "date_posted": 1776331134,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Machine-Learning-Inference---New-College-Grad-2026_JR2016276-1",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "57b91a75-9c67-4065-9aa6-f64086488ad3",
+        "title": "Nightshift Trading Assistant",
+        "active": true,
+        "date_updated": 1776330361,
+        "date_posted": 1776330265,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057386",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cisco",
+        "id": "d13824fa-a600-41bb-bfde-87089cad7974",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1776334583,
+        "date_posted": 1772724286,
+        "url": "https://careers.cisco.com/global/en/job/2006629",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Cisco",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
     }
 ]
