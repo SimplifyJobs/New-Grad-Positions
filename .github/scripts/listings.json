@@ -294647,5 +294647,23 @@
         "date_posted": 1776339462,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1776339542,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://icf.wd5.myworkdayjobs.com/en-US/icfexternal_career_site/job/Reston-VA/Associate-Software-Engineer_R2601302",
+        "company_name": "ICF",
+        "title": "Associate Software Engineer",
+        "locations": [
+            "Reston, VA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "1acd2612-333f-4d32-b147-f7ca78fccd64",
+        "date_posted": 1776339542,
+        "company_url": "",
+        "is_visible": true
     }
 ]
