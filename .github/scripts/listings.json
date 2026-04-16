@@ -1,119 +1,5 @@
 [
     {
-        "date_updated": 1755593486,
-        "url": "https://job-boards.greenhouse.io/canonical/jobs/3257589",
-        "company_name": "Canonical",
-        "title": "Software Engineer - Python - Cloud",
-        "locations": [
-            "Remote in USA"
-        ],
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "source": "Simplify",
-        "id": "ff09bedd-9b71-44fb-816d-cb2f72dd9231",
-        "date_posted": 1755593486,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1759961920,
-        "url": "https://job-boards.greenhouse.io/chime/jobs/8101747002",
-        "company_name": "Chime",
-        "title": "Product Security Engineer",
-        "locations": [
-            "San Francisco, CA"
-        ],
-        "sponsorship": "Other",
-        "active": true,
-        "source": "AlmondCroffle",
-        "id": "b41e1299-755f-4e9a-ac9a-d9ecb25062e9",
-        "date_posted": 1755593570,
-        "company_url": "",
-        "is_visible": false,
-        "degrees": []
-    },
-    {
-        "date_updated": 1765565011,
-        "url": "https://jobs.lever.co/robinpowered/5b7a72e0-480a-49b6-a4cf-78ee0c6b6ce9",
-        "company_name": "Robin",
-        "title": "Associate Software Engineer (AI-Native)",
-        "locations": [
-            "Boston, MA"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "source": "AlmondCroffle",
-        "id": "05d7c269-1794-4741-afe7-308697c6b9a6",
-        "date_posted": 1755593647,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1755593769,
-        "url": "https://lifeattiktok.com/search/7538325343598741767",
-        "company_name": "TikTok",
-        "title": "Software Engineer Graduate (Foundation Platform)",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "source": "Simplify",
-        "id": "eec20051-b325-4abe-a186-9989611a9210",
-        "date_posted": 1755593769,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1755593822,
-        "url": "https://lifeattiktok.com/search/7538318336657606930",
-        "company_name": "TikTok",
-        "title": "Software Engineer Graduate (Media Platform)",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "source": "AlmondCroffle",
-        "id": "511cf071-cdd0-438f-9424-d8e339e6a3f2",
-        "date_posted": 1755593822,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1755593896,
-        "url": "https://lifeattiktok.com/search/7538213896365689096",
-        "company_name": "TikTok",
-        "title": "Software Engineer Graduate (Commerce Ads)",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "source": "Simplify",
-        "id": "58c912a1-c975-4c36-b43d-bdc42fba1cf3",
-        "date_posted": 1755593896,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1762272491,
-        "url": "https://ats.rippling.com/en-CA/edgehog-trading/jobs/a39cf004-d79c-4588-9a5f-6bdce04a85ee",
-        "company_name": "Edgehog Trading",
-        "title": "C++ Software Developer \u2013 Trading Strategy Execution",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "source": "AlmondCroffle",
-        "id": "27f9ff28-fd14-4e61-8106-0c7e12d19e25",
-        "date_posted": 1755593968,
-        "company_url": "",
-        "is_visible": true,
-        "degrees": []
-    },
-    {
         "date_updated": 1759329391,
         "url": "https://www.housecallpro.com/careers/open-positions/?gh_jid=5620132004",
         "company_name": "Housecall Pro",
@@ -248776,7 +248662,7 @@
         "company_name": "CIBC",
         "id": "101b2d45-7f99-4ddd-8fc6-5cb6e3165094",
         "title": "Client Investment Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1773874531,
         "date_posted": 1773874531,
         "url": "https://cibc.wd3.myworkdayjobs.com/search/job/Houston-TX/Client-Investment-Analyst_2606631",
@@ -271988,7 +271874,7 @@
         "company_name": "The Bergaila Companies",
         "id": "09a39ce1-904e-4c63-bc98-93ae9b1601d9",
         "title": "SAP Master Data Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1775083861,
         "date_posted": 1775081149,
         "url": "https://careers-bergaila.icims.com/jobs/12827/job?mobile=true&needsRedirect=false",
@@ -292507,7 +292393,7 @@
         "company_name": "GE Vernova",
         "id": "0265a55b-a837-4742-8310-c5fca675bd2a",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1776245051,
         "date_posted": 1776244747,
         "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Rugby/Software-Engineer_R5035038-3",
