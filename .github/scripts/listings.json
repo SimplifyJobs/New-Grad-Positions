@@ -294611,5 +294611,23 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "date_updated": 1776339383,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.baesystems.com/global/en/job/BAE1US123650BREXTERNAL/Engineer-I-Ground-Software",
+        "company_name": "BAE Systems",
+        "title": "Engineer I \u2013 Ground Software",
+        "locations": [
+            "Fairborn, OH"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "51cebb10-cfb4-4c14-ad71-c8294c1fc143",
+        "date_posted": 1776339383,
+        "company_url": "",
+        "is_visible": true
     }
 ]
