@@ -294843,5 +294843,23 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "date_updated": 1776350076,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://dish.jibeapply.com/jobs/98189",
+        "company_name": "EchoStar",
+        "title": "Data Scientist I",
+        "locations": [
+            "Englewood, CO"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "5f1a8d7f-7af5-477e-a2a1-33ededb2a10f",
+        "date_posted": 1776350076,
+        "company_url": "",
+        "is_visible": true
     }
 ]
