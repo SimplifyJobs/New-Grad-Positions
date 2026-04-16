@@ -121433,7 +121433,7 @@
         "company_name": "SpaceX",
         "id": "0e8985fb-c588-4891-a34c-10476927d9be",
         "title": "Application Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1767137892,
         "date_posted": 1764208723,
         "url": "https://boards.greenhouse.io/spacex/jobs/8310481002",
@@ -279127,7 +279127,7 @@
         "company_name": "Schweitzer Engineering Laboratories",
         "id": "e1b6fc77-67ed-4e7a-bc7c-7a42c083c168",
         "title": "Associate Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1775516581,
         "date_posted": 1775513409,
         "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Associate-Software-Engineer_2026-20434",
@@ -292491,7 +292491,7 @@
         "company_name": "Sainsbury's",
         "id": "3e8889ef-17bf-4e0e-b3c2-9f016cdbeea0",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1776245051,
         "date_posted": 1776243857,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057259",
@@ -294023,7 +294023,7 @@
         "company_name": "Solenis",
         "id": "3a114895-be2f-451d-9452-9d88d3b4b41b",
         "title": "Supply Chain Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1776293832,
         "date_posted": 1776290739,
         "url": "https://solenis.wd1.myworkdayjobs.com/en-US/Solenis/job/United-States-of-America-Remote/Supply-Chain-Data-Analyst_R0028998-1",
@@ -294253,5 +294253,155 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pfizer",
+        "id": "48275318-0e3a-4afe-bd57-d70759021315",
+        "title": "Postdoctoral Fellow: Generative AI for Protein Engineering",
+        "active": true,
+        "date_updated": 1776302664,
+        "date_posted": 1776301766,
+        "url": "https://pfizer.wd1.myworkdayjobs.com/internaljobs/job/United-States---Connecticut---Groton/Postdoctoral-Fellow--Generative-AI-for-Protein-Engineering_4955264-2",
+        "locations": [
+            "Groton, CT",
+            "Berlin, Germany"
+        ],
+        "company_url": "https://simplify.jobs/c/Pfizer",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "NVIDIA",
+        "id": "d0e06f19-99c0-4b3a-b8eb-f4b89a83b0a8",
+        "title": "ASIC Verification Engineer \u2013 New College Grad",
+        "active": true,
+        "date_updated": 1776302616,
+        "date_posted": 1776301730,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-NC-Durham/ASIC-Verification-Engineer---New-College-Grad-2026_JR2016248",
+        "locations": [
+            "Madison, AL",
+            "Durham, NC",
+            "Hillsboro, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Paramount Global",
+        "id": "afb430bb-b1eb-43b4-be7b-b17a7ce0db46",
+        "title": "Analyst - Product Management",
+        "active": true,
+        "date_updated": 1776302557,
+        "date_posted": 1776301660,
+        "url": "https://careers.paramount.com/job/New-York-Analyst,-Product-Management-NY-10036/1380333200/?ats=successfactors",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Paramount-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pfizer",
+        "id": "a7488e94-6aa7-4510-a7b6-8e1e5c6d5ca2",
+        "title": "Postdoctoral Fellow: Generative AI for Protein Engineering",
+        "active": true,
+        "date_updated": 1776302662,
+        "date_posted": 1776301782,
+        "url": "https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-States---Connecticut---Groton/Postdoctoral-Fellow--Generative-AI-for-Protein-Engineering_4955264",
+        "locations": [
+            "Groton, CT",
+            "Berlin, Germany"
+        ],
+        "company_url": "https://simplify.jobs/c/Pfizer",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GE Healthcare",
+        "id": "9df5e2b3-ff4d-403c-aadd-0e2e177b2139",
+        "title": "MR Field Engineer 1",
+        "active": true,
+        "date_updated": 1776302844,
+        "date_posted": 1776301614,
+        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/MR---Field-Engineer-1_R4039398-1",
+        "locations": [
+            "Florida",
+            "West Palm Beach, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Healthcare",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Businessolver",
+        "id": "1838822a-5aac-40cd-8107-73e1cf040cc4",
+        "title": "Product Manager",
+        "active": true,
+        "date_updated": 1776302649,
+        "date_posted": 1776302551,
+        "url": "https://www.businessolver.com/careers/openings/?gh_jid=7812289",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Businessolver",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "ef45c2bb-b429-4621-a49e-6d2ab5d3abac",
+        "title": "Machine Learning Engineer - E-commerce Feed Recommendation",
+        "active": true,
+        "date_updated": 1776302289,
+        "date_posted": 1776301943,
+        "url": "https://lifeattiktok.com/search/7236829563632257337",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "PhD"
+        ]
     }
 ]
