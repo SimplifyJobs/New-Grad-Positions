@@ -57,26 +57,6 @@
         "is_visible": true
     },
     {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Palantir",
-        "id": "f6850684-a28a-4529-9beb-dae520fc4db7",
-        "title": "Software Engineer \u2013 New Grad - Infrastructure",
-        "active": true,
-        "date_updated": 1755620301,
-        "date_posted": 1755620301,
-        "url": "https://jobs.lever.co/palantir/7d75bed5-45d8-4876-840a-2d92ea79c98d/apply",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Palantir",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "date_updated": 1758068561,
         "sponsorship": "Offers Sponsorship",
         "active": true,
@@ -111,26 +91,6 @@
         "date_posted": 1755679462,
         "company_url": "",
         "is_visible": true
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Palantir",
-        "id": "2da60465-c35e-418c-ba70-4bdf052f70b7",
-        "title": "Software Engineer \u2013 New Grad - Production Infrastructure",
-        "active": false,
-        "date_updated": 1755620298,
-        "date_posted": 1755620298,
-        "url": "https://jobs.lever.co/palantir/15844944-fb69-4b57-9531-e988650b20c6/apply",
-        "locations": [
-            "Washington, DC"
-        ],
-        "company_url": "https://simplify.jobs/c/Palantir",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "date_updated": 1755699598,
