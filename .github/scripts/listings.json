@@ -1,63 +1,5 @@
 [
     {
-        "date_updated": 1759329391,
-        "url": "https://www.housecallpro.com/careers/open-positions/?gh_jid=5620132004",
-        "company_name": "Housecall Pro",
-        "title": "Graduate AI Solutions Specialist",
-        "locations": [
-            "Denver, CO"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "source": "AlmondCroffle",
-        "id": "045c2077-c022-468c-a58d-57473b79b1e6",
-        "date_posted": 1755594048,
-        "company_url": "",
-        "is_visible": true,
-        "category": "Data Science, AI & Machine Learning",
-        "degrees": []
-    },
-    {
-        "date_updated": 1755651928,
-        "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer---Recent-Graduate_R0129930",
-        "company_name": "PayPal",
-        "title": "Software Engineer",
-        "locations": [
-            "San Jose, CA",
-            "Chicago, IL",
-            "Scottsdale, AZ",
-            "Omaha, NE",
-            "Austin, TX"
-        ],
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": false,
-        "source": "AlmondCroffle",
-        "id": "27a376c0-de58-4b7a-b153-919bc7bf5e96",
-        "date_posted": 1755594164,
-        "company_url": "",
-        "is_visible": false,
-        "degrees": []
-    },
-    {
-        "date_updated": 1755645644,
-        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Schaumburg-IL/Entry-Level-Software-Engineer_R56026",
-        "company_name": "Motorola Solutions",
-        "title": "Software Engineer",
-        "locations": [
-            "Schaumburg, IL",
-            "Chicago, IL"
-        ],
-        "sponsorship": "Other",
-        "active": false,
-        "source": "AlmondCroffle",
-        "id": "bd8ad9d6-a0f4-4e02-82e2-77698da41b4b",
-        "date_posted": 1755594236,
-        "company_url": "",
-        "is_visible": true,
-        "category": "Other",
-        "degrees": []
-    },
-    {
         "date_updated": 1755615074,
         "url": "https://joinbytedance.com/search/7535903852755814674",
         "company_name": "ByteDance",
@@ -293512,7 +293454,7 @@
         "company_name": "New Lantern",
         "id": "36c6049a-d5b2-4e24-9714-5db445af995f",
         "title": "New Grad Olympics Intern - Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1776295718,
         "date_posted": 1776291021,
         "url": "https://jobs.ashbyhq.com/newlantern/cb64f26f-93ec-4fcd-a9be-5ba75687f987/application",
@@ -294461,5 +294403,25 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Canonical",
+        "id": "ff09bedd-9b71-44fb-816d-cb2f72dd9231",
+        "title": "Software Engineer \u2013 Graduate Level - Python - Cloud",
+        "active": true,
+        "date_updated": 1773901438,
+        "date_posted": 1773901438,
+        "url": "https://job-boards.greenhouse.io/canonical/jobs/3257589",
+        "locations": [
+            "La Ronge, SK, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Canonical",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
