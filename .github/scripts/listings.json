@@ -294683,5 +294683,23 @@
         "date_posted": 1776339861,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1776339923,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.ashbyhq.com/liquid/7b47044b-4b81-44b4-8986-ea5eaaa85c27",
+        "company_name": "Liquid",
+        "title": "Member of Technical Staff",
+        "locations": [
+            "New York, NY"
+        ],
+        "category": "Software Engineering",
+        "source": "jason-liquidmax",
+        "id": "536242db-62cc-4f97-b8e4-d38cd8088500",
+        "date_posted": 1776339923,
+        "company_url": "",
+        "is_visible": true
     }
 ]
