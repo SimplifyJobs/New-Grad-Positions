@@ -294701,5 +294701,28 @@
         "date_posted": 1776339923,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1776340276,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [
+            "Master's"
+        ],
+        "url": "https://jobs.baesystems.com/global/en/job/BAE1US123709BREXTERNAL/2026-Entry-Level-Software-Engineer",
+        "company_name": "BAE Systems",
+        "title": "2026 Entry Level Software Engineer",
+        "locations": [
+            "Hudson, NH",
+            "Nashua, NH",
+            "Merrimack, NH",
+            "Manchester, NH"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "88db7a82-2594-4dec-ba76-b426bc4d8761",
+        "date_posted": 1776340276,
+        "company_url": "",
+        "is_visible": true
     }
 ]
