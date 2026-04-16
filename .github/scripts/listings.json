@@ -258296,7 +258296,7 @@
         "company_name": "GE Vernova",
         "id": "ab35e488-89b3-4837-b046-16edca29ff2c",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1774452095,
         "date_posted": 1774452095,
         "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Rugby/Software-Engineer_R5035038-1",
@@ -265829,7 +265829,7 @@
         "company_name": "Truist Bank",
         "id": "d6b70b84-e657-4d84-90f8-a9d115d23714",
         "title": "Software Engineer 1 - SAP",
-        "active": true,
+        "active": false,
         "date_updated": 1774911710,
         "date_posted": 1774908581,
         "url": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Greensboro-NC/Software-Engineer-I--SAP_R0112898",
@@ -294414,6 +294414,162 @@
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057374",
         "locations": [
             "Belfast, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "ef6abb5e-45ce-4b80-b4db-2849eb0fbb05",
+        "title": "Research Scientist - Technologies of Data Management - LLM and AI Agents",
+        "active": true,
+        "date_updated": 1776324782,
+        "date_posted": 1776323173,
+        "url": "https://jobs.bytedance.com/en/position/7629123702995290421/detail",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Deloitte",
+        "id": "e3702ca0-45d0-45c8-a6bd-4518bb84768e",
+        "title": "Software Engineering Analyst",
+        "active": true,
+        "date_updated": 1776325443,
+        "date_posted": 1776323168,
+        "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Deloitte-Software-Engineering-Analyst/307208",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Deloitte",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Peak Energy",
+        "id": "9989296c-ea5a-42e1-8193-5bdc72c5395e",
+        "title": "Technical Product Manager",
+        "active": true,
+        "date_updated": 1776324782,
+        "date_posted": 1776323249,
+        "url": "https://www.peakenergy.com/careers/jobs?job_id=5109801007&gh_jid=5109801007",
+        "locations": [
+            "Burlingame, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Peak-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "7e9dd6e0-1c6e-4eba-9ca0-bd6f7e550194",
+        "title": "Research Scientist - Technologies of Data Management - LLM and AI Agents",
+        "active": true,
+        "date_updated": 1776324782,
+        "date_posted": 1776323173,
+        "url": "https://jobs.bytedance.com/en/position/7629124511380654341/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "22b973b8-0ce2-4916-b454-35d5e02a38da",
+        "title": "Applied Scientist - Multiple Teams",
+        "active": true,
+        "date_updated": 1776325321,
+        "date_posted": 1776325173,
+        "url": "https://lifeattiktok.com/search/7629188203299735813",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "17c55633-7262-4c24-99b6-90524a31f66c",
+        "title": "Graduate Research Scientist - Multiple Teams",
+        "active": true,
+        "date_updated": 1776325487,
+        "date_posted": 1776323174,
+        "url": "https://jobs.bytedance.com/en/position/7629136672475040053/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "d5730234-520c-47e0-af2e-389f5f675a12",
+        "title": "Graduate Research Scientist - Multimedia Standards - Global Tech Research Program",
+        "active": true,
+        "date_updated": 1776325276,
+        "date_posted": 1776323179,
+        "url": "https://jobs.bytedance.com/en/position/7629137778379557173/detail",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "250ffe04-8e59-4046-890a-c5ba7fa58155",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1776325141,
+        "date_posted": 1776323049,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057251",
+        "locations": [
+            "Northwich, UK"
         ],
         "company_url": "https://simplify.jobs/c/Sainsburys",
         "is_visible": true,
