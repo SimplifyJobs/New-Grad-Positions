@@ -253292,7 +253292,7 @@
         "company_name": "Wood Mackenzie",
         "id": "888cb698-0ce3-4d83-8159-b1c4a9b927b1",
         "title": "Data Analyst - Oil and Gas",
-        "active": true,
+        "active": false,
         "date_updated": 1774274696,
         "date_posted": 1774274696,
         "url": "https://woodmac.wd3.myworkdayjobs.com/woodmaccareers/job/Mexico-City-MX/Data-Analyst---Oil-and-Gas_JR2637",
@@ -284497,7 +284497,7 @@
         "company_name": "RTX",
         "id": "69e1d024-5f96-44bb-8baf-3968aa9f8e13",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1775775596,
         "date_posted": 1775772572,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/XMLNAME-2026-Raytheon-Full-Time-Formal-Qualification-Testing--Software-Engineer-I---Onsite-_01837021",
@@ -292297,7 +292297,7 @@
         "company_name": "Hawk-Eye Innovations",
         "id": "a19b24da-0d4c-49a5-aa65-047adbe39853",
         "title": "Hawk-Eye Systems Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1776245051,
         "date_posted": 1776244059,
         "url": "https://jobs.ashbyhq.com/hawkeyeinnovations/fac25f27-4555-4003-beeb-e61283bed399/application",
@@ -294423,5 +294423,59 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "5843c9fd-7590-467c-8beb-de472ce8f8bc",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1776330361,
+        "date_posted": 1776330265,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057387",
+        "locations": [
+            "Brighton, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "43b5db4d-d0f3-4a54-9ee9-d68205504a04",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1776330361,
+        "date_posted": 1776330264,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057388",
+        "locations": [
+            "Bolton, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "14507ffc-885f-43c5-a43c-64ffb6321be9",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1776330361,
+        "date_posted": 1776330264,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057373",
+        "locations": [
+            "Belfast, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
