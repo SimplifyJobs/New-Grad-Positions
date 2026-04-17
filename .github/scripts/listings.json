@@ -43004,7 +43004,7 @@
         "company_name": "Zopa",
         "id": "1ebb6f2b-a0e8-4ede-9a59-473a1b4c35e8",
         "title": "Associate Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1762251926,
         "date_posted": 1761877217,
         "url": "https://jobs.lever.co/zopa/5a18a7f6-c926-4f7b-a9ce-cc7d6a8dc61b/apply",
@@ -210408,7 +210408,7 @@
         "company_name": "Eurofins",
         "id": "2cea44ab-924b-4dc4-8af3-b7a0a73a700c",
         "title": "Electrical Factory Inspector - Remote/Travel",
-        "active": false,
+        "active": true,
         "date_updated": 1771974712,
         "date_posted": 1771974712,
         "url": "https://jobs.smartrecruiters.com/Eurofins/744000111118005",
@@ -219006,7 +219006,7 @@
         "company_name": "Ultra Intelligence and Communications",
         "id": "948970a0-2f3c-4c22-bf3f-b3dd22e0370e",
         "title": "Graduate Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1772493672,
         "date_posted": 1772493672,
         "url": "https://ultra.wd3.myworkdayjobs.com/uiccareers/job/Foundation-Park-Maidenhead-UK/Graduate-Software-Engineer_REQ-11210-1",
@@ -265730,7 +265730,7 @@
         "company_name": "American University",
         "id": "ba4dd248-615f-4baa-ad0a-b3cf77d7c77a",
         "title": "Research Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1774939991,
         "date_posted": 1774937141,
         "url": "https://american.wd1.myworkdayjobs.com/au/job/Main-Campus-Washington-DC/Part-Time-Research-Assistant_R4074",
@@ -296062,6 +296062,132 @@
             "Atlanta, GA"
         ],
         "company_url": "https://simplify.jobs/c/Crunchtime",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "1313ac06-fef6-4d0b-8f42-5895f266f6ae",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1776434941,
+        "date_posted": 1776434812,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057575",
+        "locations": [
+            "Manchester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "99577153-36f1-427f-92c3-0ed87cc67b0a",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1776434941,
+        "date_posted": 1776434811,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057555",
+        "locations": [
+            "Watford, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "3a860088-60de-4f2b-a640-6dfe2d941e32",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1776434941,
+        "date_posted": 1776434810,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056976",
+        "locations": [
+            "Liverpool, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "288060a1-e128-4390-aa6d-1971263a7703",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1776434941,
+        "date_posted": 1776434808,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057079",
+        "locations": [
+            "Southampton, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "ee72dc79-5eea-40e4-9b35-ad57b3e638d5",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1776434941,
+        "date_posted": 1776434809,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057516",
+        "locations": [
+            "Blackpool, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "64c5089d-4a67-4ca7-b34b-8f1e530aec36",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1776434941,
+        "date_posted": 1776434810,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057547",
+        "locations": [
+            "Durham, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "163b7ab7-1ccb-4e67-a201-8afacf61365b",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1776434941,
+        "date_posted": 1776434808,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057120",
+        "locations": [
+            "Stockbridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
