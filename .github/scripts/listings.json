@@ -1,26 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Applied Intuition",
-        "id": "92337de8-0b22-4877-aba2-7825ff5e7917",
-        "title": "Research Engineer \u2013 New Grad",
-        "active": false,
-        "date_updated": 1755654113,
-        "date_posted": 1755654113,
-        "url": "https://boards.greenhouse.io/appliedintuition/jobs/4489207005",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Applied-Intuition",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
         "date_updated": 1755678204,
         "sponsorship": "Offers Sponsorship",
         "active": true,
@@ -276771,7 +276750,7 @@
         "company_name": "Sainsbury's",
         "id": "f8b3c19d-d558-41ab-a298-1a7a1b1e0dcc",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1775312461,
         "date_posted": 1775311638,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056192",
