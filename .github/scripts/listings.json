@@ -1,23 +1,5 @@
 [
     {
-        "date_updated": 1755716125,
-        "sponsorship": "Other",
-        "active": true,
-        "degrees": [],
-        "url": "https://jobs.lever.co/palantir/7d75bed5-45d8-4876-840a-2d92ea79c98d/apply?lever-source=LinkedIn",
-        "company_name": "Palantir",
-        "title": "Software Engineer, New Grad - Infrastructure",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "category": "Software Engineering",
-        "source": "unvibingcode",
-        "id": "21b4895b-7a0f-43ac-87a8-c7e691ff3bf1",
-        "date_posted": 1755651877,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Applied Intuition",
@@ -283869,7 +283851,7 @@
         "company_name": "Northrop Grumman",
         "id": "8a3d39b6-9898-4072-9d38-0a504d2a1338",
         "title": "Engineer Test/Principal Engineer Test",
-        "active": false,
+        "active": true,
         "date_updated": 1775775071,
         "date_posted": 1775772598,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Azusa/Engineer-Test-Principal-Engineer-Test--Level-2-3-_R10229055",
@@ -295821,6 +295803,121 @@
             "Atlanta, GA"
         ],
         "company_url": "https://simplify.jobs/c/Fidelity-National-Information-Services",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "SpaceX",
+        "id": "e0dbffad-9eb6-4957-a0fb-09690f15285d",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1776388681,
+        "date_posted": 1776388665,
+        "url": "https://boards.greenhouse.io/spacex/jobs/8385191002",
+        "locations": [
+            "West Athens, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/SpaceX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Uhaul",
+        "id": "1b162205-fb7d-42a1-8332-12c81076b9ee",
+        "title": "Senior Software Developer",
+        "active": true,
+        "date_updated": 1776388321,
+        "date_posted": 1776388289,
+        "url": "https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/Phoenix-Arizona/Senior-Software-Developer_R239934",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Uhaul",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cisive",
+        "id": "bd6c1d8d-06f6-44e2-a2a5-6feff8bd6f80",
+        "title": "Software Developer",
+        "active": true,
+        "date_updated": 1776388141,
+        "date_posted": 1776388022,
+        "url": "https://cisive.wd108.myworkdayjobs.com/Cisive/job/Remote---Maryland/Software-Developer_JR100172",
+        "locations": [
+            "New Mexico",
+            "Independence, KS",
+            "Washington",
+            "Cunningham, KS",
+            "Kansas",
+            "Pennsylvania",
+            "Oconomowoc, WI",
+            "California",
+            "Wyoming",
+            "Texas",
+            "Jackson Township, NJ",
+            "Joplin, MO",
+            "Florida",
+            "Waterbury, CT",
+            "Nevada",
+            "Wichita, KS",
+            "South Carolina",
+            "South Dakota",
+            "Edmond, OK",
+            "Concord, NH",
+            "Tennessee",
+            "Vinita, OK",
+            "Minnesota",
+            "Nebraska",
+            "Rhode Island",
+            "Kentucky",
+            "West Virginia",
+            "Fort Gibson, OK",
+            "NYC",
+            "Wisconsin",
+            "North Carolina",
+            "Missouri",
+            "Illinois",
+            "Alabama",
+            "United States",
+            "McKenzie, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/Cisive",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "GCI",
+        "id": "6282e10d-3fbf-40be-9ef4-bc37debeb67b",
+        "title": "Product Manager 1 - Future Opening",
+        "active": true,
+        "date_updated": 1776388177,
+        "date_posted": 1776387945,
+        "url": "https://edqv.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/21003471",
+        "locations": [
+            "Anchorage, AK"
+        ],
+        "company_url": "https://simplify.jobs/c/GCI",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
