@@ -202843,7 +202843,7 @@
         "company_name": "Pearson",
         "id": "f2d6cc59-2740-40c9-91de-333ccfdd692f",
         "title": "Product Manager - Specialist",
-        "active": false,
+        "active": true,
         "date_updated": 1771629203,
         "date_posted": 1771629203,
         "url": "https://hccz.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/22698",
@@ -210408,7 +210408,7 @@
         "company_name": "Eurofins",
         "id": "2cea44ab-924b-4dc4-8af3-b7a0a73a700c",
         "title": "Electrical Factory Inspector - Remote/Travel",
-        "active": true,
+        "active": false,
         "date_updated": 1771974712,
         "date_posted": 1771974712,
         "url": "https://jobs.smartrecruiters.com/Eurofins/744000111118005",
@@ -220258,7 +220258,7 @@
         "company_name": "Ultra",
         "id": "e7ffd398-c466-445b-9d76-f65abc3a18aa",
         "title": "Graduate Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1772496550,
         "date_posted": 1772496550,
         "url": "https://ultra.wd3.myworkdayjobs.com/ultra-careers/job/Foundation-Park-Maidenhead-UK/Graduate-Software-Engineer_REQ-11210-2",
@@ -255013,7 +255013,7 @@
         "company_name": "Softheon",
         "id": "f91e50dc-b9ca-4493-84b8-e48c1a67fd07",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1774390872,
         "date_posted": 1774390872,
         "url": "https://apply.workable.com/softheon/j/639B32643E/apply",
@@ -290033,7 +290033,7 @@
         "company_name": "Sainsbury's",
         "id": "e31ec248-f0b2-4254-9a42-418a614ad15f",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1776162069,
         "date_posted": 1776157450,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057088",
@@ -290937,7 +290937,7 @@
         "company_name": "Fiserv",
         "id": "fa7b668d-26ac-4389-919b-9b236f1eebc2",
         "title": "Corporate Analyst Program - Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1776206713,
         "date_posted": 1776204457,
         "url": "https://fiserv.wd5.myworkdayjobs.com/ext/job/Hagerstown-Maryland/Corporate-Analyst-Program--Data-Analyst_R-10381823",
@@ -296188,6 +296188,164 @@
             "Stockbridge, UK"
         ],
         "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Vizient ",
+        "id": "7dad5411-1890-4431-a159-39f98a58b66d",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1776434941,
+        "date_posted": 1776434892,
+        "url": "https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/Associate-Software-Engineer_33257R",
+        "locations": [
+            "Irving, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/85ed65fb-d411-473a-a950-b4d5c8ad7bdf",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "BlueCross BlueShield of South Carolina",
+        "id": "771a7006-84b0-48d2-ae17-4e0f9c721e4f",
+        "title": "Statistical Programming Analyst 1",
+        "active": true,
+        "date_updated": 1776435214,
+        "date_posted": 1776434725,
+        "url": "https://ourhrconnect.wd501.myworkdayjobs.com/SCBlues/job/Columbia-South-Carolina/Statistical-Programming-Analyst-I_R1050173",
+        "locations": [
+            "Columbia, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/BlueCross-BlueShield-Of-South-Carolina",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "1a75cf69-40b0-46b9-8984-77f62f6ecb8f",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1776434941,
+        "date_posted": 1776434816,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057542",
+        "locations": [
+            "Sheffield, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "5a59dd43-6d2a-47ae-acba-ceae22f90b0e",
+        "title": "Software Engineer / Principal Software Engineer - Java",
+        "active": true,
+        "date_updated": 1776435662,
+        "date_posted": 1776434871,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Software-Engineer---Principal-Software-Engineer---Java_R10229694",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "0ca88cba-2559-4154-bb26-d20bc94cd727",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1776434941,
+        "date_posted": 1776434814,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057554",
+        "locations": [
+            "Durham, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Invisible Technologies AI",
+        "id": "f41313d7-16e4-41e5-8b36-b0df0ef188c9",
+        "title": "English - Language Specialist - Freelance AI Trainer Project",
+        "active": true,
+        "date_updated": 1776435973,
+        "date_posted": 1776435097,
+        "url": "https://job-boards.eu.greenhouse.io/agency/jobs/4844613101",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Invisible-TechnologiesAI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Torc Robotics",
+        "id": "8c9584ec-6c38-4f16-8bdb-4e21d543620c",
+        "title": "ML Engineer - Acceleration Team",
+        "active": true,
+        "date_updated": 1776435841,
+        "date_posted": 1776435721,
+        "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8492425002",
+        "locations": [
+            "Ann Arbor, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Torc-Robotics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Invisible Technologies AI",
+        "id": "1ee8adea-d706-4a0b-b8e9-394f69c6d469",
+        "title": "French Language Specialist - Language Specialist - Freelance AI Trainer Project",
+        "active": true,
+        "date_updated": 1776436025,
+        "date_posted": 1776435097,
+        "url": "https://job-boards.eu.greenhouse.io/agency/jobs/4844644101",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Invisible-TechnologiesAI",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
