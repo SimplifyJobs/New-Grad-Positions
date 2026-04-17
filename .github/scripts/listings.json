@@ -1,62 +1,5 @@
 [
     {
-        "date_updated": 1755715550,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
-        "degrees": [],
-        "url": "https://jobs.lever.co/nominal/cc79d7f9-93b9-4410-8435-d92d2f427215",
-        "company_name": "Nominal",
-        "title": "Software Engineer",
-        "locations": [
-            "New York, NY",
-            "Los Angeles, CA",
-            "Austin, TX"
-        ],
-        "category": "Software Engineering",
-        "source": "varun-nominal",
-        "id": "1a9de330-304d-45c9-b32c-dc227a9f493a",
-        "date_posted": 1755715550,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1756731591,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [],
-        "url": "https://www.metacareers.com/jobs/812938290909042/",
-        "company_name": "Meta",
-        "title": "Software Engineer, Language - Wearables",
-        "locations": [
-            "Menlo Park, CA",
-            "New York, NY"
-        ],
-        "category": "Software Engineering",
-        "source": "unvibingcode",
-        "id": "eed6971f-9231-4362-8879-2d953878f409",
-        "date_posted": 1755715697,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1756120142,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": false,
-        "degrees": [],
-        "url": "https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-I-Full-Time-United-States/1447850",
-        "company_name": "Cisco",
-        "title": "Software Engineer I",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "category": "Software Engineering",
-        "source": "Simplify",
-        "id": "a733c840-9192-460f-84ae-5a3fa7b2d3b3",
-        "date_posted": 1755715864,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
         "source": "Simplify",
         "category": "Software",
         "company_name": "Hewlett Packard Enterprise",
@@ -202786,7 +202729,7 @@
         "company_name": "Pearson",
         "id": "f2d6cc59-2740-40c9-91de-333ccfdd692f",
         "title": "Product Manager - Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1771629203,
         "date_posted": 1771629203,
         "url": "https://hccz.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/22698",
@@ -239051,7 +238994,7 @@
         "company_name": "Adobe",
         "id": "fddcab17-1476-4ab7-9b29-71e8a89c74d1",
         "title": "Software Development Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773365526,
         "date_posted": 1773365526,
         "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Software-Development-Engineer_R165849-1",
@@ -278870,7 +278813,7 @@
         "company_name": "Sainsbury's",
         "id": "de0aaa2e-e950-4b18-8313-7247dc0ddbfa",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1775572201,
         "date_posted": 1775570875,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056403",
