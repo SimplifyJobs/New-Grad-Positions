@@ -1,23 +1,5 @@
 [
     {
-        "date_updated": 1755678204,
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "degrees": [],
-        "url": "https://joinbytedance.com/search/7265752342699837757",
-        "company_name": "ByteDance",
-        "title": "Software Engineer in ML Systems Graduate",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "5126455e-2afb-4721-93a6-5a581944cad8",
-        "date_posted": 1755678204,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "date_updated": 1758068561,
         "sponsorship": "Offers Sponsorship",
         "active": true,
@@ -293935,7 +293917,7 @@
         "company_name": "TikTok",
         "id": "22b973b8-0ce2-4916-b454-35d5e02a38da",
         "title": "Applied Scientist - Multiple Teams",
-        "active": true,
+        "active": false,
         "date_updated": 1776325321,
         "date_posted": 1776325173,
         "url": "https://lifeattiktok.com/search/7629188203299735813",
@@ -293995,7 +293977,7 @@
         "company_name": "Sainsbury's",
         "id": "250ffe04-8e59-4046-890a-c5ba7fa58155",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1776325141,
         "date_posted": 1776323049,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057251",
