@@ -148406,7 +148406,7 @@
         "company_name": "KLA Corporation",
         "id": "12a0b7db-3e97-492e-9360-bc8438c4e8d5",
         "title": "Software Engineer - C++ - Object-Oriented Design/Object-Oriented Programming",
-        "active": true,
+        "active": false,
         "date_updated": 1768737165,
         "date_posted": 1768737165,
         "url": "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Software-Engineer--C----OOD-OOP--Linux-_2633855",
@@ -245998,7 +245998,7 @@
         "company_name": "Ingram Micro",
         "id": "18c9acd3-73c8-4f76-ae36-1b284eaea9ad",
         "title": "Platform Expert",
-        "active": true,
+        "active": false,
         "date_updated": 1773789706,
         "date_posted": 1773789706,
         "url": "https://ingrammicro.wd5.myworkdayjobs.com/IngramMicro/job/Williamsville-NY-United-States-of-America/Platform-Expert--Capabilities_R-114060",
@@ -272402,7 +272402,7 @@
         "company_name": "UAP",
         "id": "2268f6c3-8d2a-4461-9c4e-258128c1987c",
         "title": "Product Management Administration Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1775168821,
         "date_posted": 1775167426,
         "url": "https://jobs.smartrecruiters.com/UAPInc/744000118480692",
@@ -281769,7 +281769,7 @@
         "company_name": "Daimler Truck",
         "id": "10875c5e-156b-474e-a72d-3cde06d72833",
         "title": "Software Engineer - Artificial Intelligence I",
-        "active": true,
+        "active": false,
         "date_updated": 1775688849,
         "date_posted": 1775686143,
         "url": "https://dtna.wd5.myworkdayjobs.com/dtna_affiliate/job/Portland-OR-US/Software-Engineer---Artificial-Intelligence-I_DT-17487-1",
@@ -288498,7 +288498,7 @@
         "company_name": "UAP",
         "id": "4d5755fa-dbe2-4765-978c-d705a0326b5c",
         "title": "Product Management Administration Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1776120310,
         "date_posted": 1776117853,
         "url": "https://jobs.smartrecruiters.com/UAPInc/744000120483551",
@@ -289997,7 +289997,7 @@
         "company_name": "Rockwell Automation",
         "id": "16adba7b-c5fe-4737-bb4a-628a86ba3e19",
         "title": "Firmware Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1776161889,
         "date_posted": 1775901836,
         "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mequon-Wisconsin-United-States/Firmware-Engineer_R26-720",
@@ -296214,5 +296214,26 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Genmo",
+        "id": "2785d820-e76e-4f39-a52a-94f4a7932f95",
+        "title": "Research Engineer",
+        "active": true,
+        "date_updated": 1769247024,
+        "date_posted": 1761897038,
+        "url": "https://jobs.ashbyhq.com/genmo/9b5477f4-97af-4aaa-b855-910c982ce191/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Genmo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
