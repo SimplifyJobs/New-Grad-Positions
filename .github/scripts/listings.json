@@ -212522,7 +212522,7 @@
         "company_name": "TikTok",
         "id": "a25655df-6e19-4c64-8b24-e85f531e94db",
         "title": "Machine Learning Scientist Graduate - Global E-commerce Content Recommendation - 2026 Start",
-        "active": false,
+        "active": true,
         "date_updated": 1772100354,
         "date_posted": 1758688398,
         "url": "https://lifeattiktok.com/search/7553175919394638087",
@@ -220756,7 +220756,7 @@
         "company_name": "Leonardo",
         "id": "ea78d9e1-e6d3-4855-9c0f-b95d31096708",
         "title": "Graduate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1772522929,
         "date_posted": 1772522929,
         "url": "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Edinburgh/Graduate-Software-Engineer_R0022160-1",
@@ -257561,7 +257561,7 @@
         "company_name": "GE Healthcare",
         "id": "31d9ad06-8a2d-4a0e-9431-529da6203548",
         "title": "Field Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1774089409,
         "date_posted": 1774089409,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/FE-1-Bloomington--Illinois_R4037216-1",
@@ -289226,7 +289226,7 @@
         "company_name": "Oklahoma State Government",
         "id": "4ff09cbe-44f9-4068-b874-29b92ee28ebb",
         "title": "Geospatial Information Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1776120499,
         "date_posted": 1776118265,
         "url": "https://okgov.wd1.myworkdayjobs.com/okgovjobs/job/Oklahoma-County/Geospatial-Information-Specialist_JR58621-1",
@@ -293731,7 +293731,7 @@
         "company_name": "ByteDance",
         "id": "17c55633-7262-4c24-99b6-90524a31f66c",
         "title": "Graduate Research Scientist - Multiple Teams",
-        "active": true,
+        "active": false,
         "date_updated": 1776325487,
         "date_posted": 1776323174,
         "url": "https://jobs.bytedance.com/en/position/7629136672475040053/detail",
@@ -295930,6 +295930,64 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Corning",
+        "id": "75ad7dc4-7ca3-40ec-91b2-5673499c430c",
+        "title": "PLM Systems Analyst",
+        "active": true,
+        "date_updated": 1776416221,
+        "date_posted": 1771888736,
+        "url": "https://corningjobs.corning.com/job/Charlotte-PLM-Systems-Analyst-NC-28216/1367002800/?ats=successfactors",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Corning",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "2bb3a5fd-17fb-4fba-87fc-665dc53d1c4a",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1776416761,
+        "date_posted": 1776416664,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057496",
+        "locations": [
+            "Ashford District, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Elanco",
+        "id": "aee4bfd5-a584-484b-9da5-83c31b725215",
+        "title": "IT Analyst - Associate Product Manager - Supply Optimization",
+        "active": true,
+        "date_updated": 1776417843,
+        "date_posted": 1776417561,
+        "url": "https://elanco.wd5.myworkdayjobs.com/en-US/External_Career/job/UK---Speke/Analyst-IT--Assoc-Product-Manager--Supply-Optimization_R0025520",
+        "locations": [
+            "Liverpool, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Elanco",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
