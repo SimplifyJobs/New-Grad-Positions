@@ -2,27 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Hewlett Packard Enterprise",
-        "id": "94a234e9-ad5c-4931-a158-3ba864a6c141",
-        "title": "Systems/Software Engineer I",
-        "active": false,
-        "date_updated": 1755728442,
-        "date_posted": 1755728442,
-        "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Ft-Collins-Colorado-United-States-of-America/Systems-Software-Engineer-I_1192923-1",
-        "locations": [
-            "Fort Collins, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Nominal",
         "id": "ab01cb12-3c73-4251-98e8-07fd49659315",
         "title": "Software Engineer \u2013 New Grad",
@@ -76584,7 +76563,7 @@
         "company_name": "Cisco",
         "id": "c19579ac-cc84-4455-96e5-f56733ea0be3",
         "title": "Software Engineer Backend/Platform Systems 1",
-        "active": false,
+        "active": true,
         "date_updated": 1763664376,
         "date_posted": 1763664376,
         "url": "https://careers.cisco.com/global/en/job/2000046",
@@ -202156,7 +202135,7 @@
         "company_name": "Intertek",
         "id": "359f2377-045e-4728-929b-a8aa606fd717",
         "title": "Engineer Hazardous Locations - Hazloc - Plano TX",
-        "active": false,
+        "active": true,
         "date_updated": 1771629470,
         "date_posted": 1771629470,
         "url": "https://hcog.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/14075",
@@ -281950,7 +281929,7 @@
         "company_name": "Northrop Grumman",
         "id": "87a10b4b-fa78-451c-95fc-93cddec8c1ee",
         "title": "Configuration Data Management Controller",
-        "active": false,
+        "active": true,
         "date_updated": 1775689572,
         "date_posted": 1775686195,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/Configuration-Data-Management-Controller---Level-2-3_R10228162",
@@ -287671,7 +287650,7 @@
         "company_name": "Sainsbury's",
         "id": "be6d6ad9-12cc-4277-87e4-7c5222b236ef",
         "title": "Trading Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1776080169,
         "date_posted": 1776071059,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056998",
@@ -293117,7 +293096,7 @@
         "company_name": "ibotta",
         "id": "4b3cefc5-0d30-4b6e-82a2-f665abd77231",
         "title": "Associate Analytics Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1776294739,
         "date_posted": 1776290951,
         "url": "https://ibotta.wd1.myworkdayjobs.com/en-US/Ibotta/job/Hybrid---Denver/Associate-Analytics-Engineer_R-102445",
@@ -296235,5 +296214,197 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Ares Management",
+        "id": "3a698c39-1239-49e2-a89e-cf80ffe02162",
+        "title": "Vice President - Client Platforms Web Developer",
+        "active": true,
+        "date_updated": 1776464574,
+        "date_posted": 1776463828,
+        "url": "https://aresmgmt.wd1.myworkdayjobs.com/en-US/External/job/London-UK/Vice-President--Client-Platforms-Web-Developer_R7792-1",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/ea25dd6c-f530-49ce-b6aa-60a42ba77d95",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Scientific Research Corporation",
+        "id": "f92f3169-f7ee-4fe8-9ca9-379fd6d43e16",
+        "title": "Software Developer 1",
+        "active": true,
+        "date_updated": 1776464573,
+        "date_posted": 1776463745,
+        "url": "https://careers-scires.icims.com/jobs/11132/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "North Charleston, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/Scientific-Research-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "LabCorp",
+        "id": "8a2647ab-a5b0-4e67-ba38-b6736b236eef",
+        "title": "Enterprise Data Architect-Level 1",
+        "active": true,
+        "date_updated": 1776463921,
+        "date_posted": 1776463858,
+        "url": "https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Enterprise-Data-Architect-Level-1_2527549",
+        "locations": [
+            "Durham, NC",
+            "Burlington, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/LabCorp",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "MiQ",
+        "id": "701faa56-b583-43e6-9281-a573eb06d3eb",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1776463921,
+        "date_posted": 1776463785,
+        "url": "https://miqdigital.wd3.myworkdayjobs.com/MiQ_Careers/job/Washington-DC/Trading-Assistant--Political--Contract_JR100259",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/MiQ",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "LabCorp",
+        "id": "51f8c3bc-d83e-47b9-8521-1f8b55bcff36",
+        "title": "BI Project Analyst/Developer",
+        "active": true,
+        "date_updated": 1776463921,
+        "date_posted": 1776463858,
+        "url": "https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/BI-Project-Analyst-Developer_264140",
+        "locations": [
+            "Durham, NC",
+            "Burlington, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/LabCorp",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Whoop",
+        "id": "ac48ac2c-8429-4e2c-aaae-cf7f0821af2f",
+        "title": "iOS Engineer",
+        "active": true,
+        "date_updated": 1776464324,
+        "date_posted": 1776463719,
+        "url": "https://jobs.lever.co/whoop/3b167cf6-a220-4c03-8a4e-0977fa732afc/apply",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Whoop",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "7a750880-6313-4ca4-9dd0-2ad3188be73b",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1776463741,
+        "date_posted": 1776463633,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057598",
+        "locations": [
+            "United Kingdom"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Vertiv",
+        "id": "04132369-4a28-441f-a064-927129bc50dd",
+        "title": "AI Engineer",
+        "active": true,
+        "date_updated": 1776463741,
+        "date_posted": 1776463693,
+        "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20270835",
+        "locations": [
+            "New Albany, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Vertiv",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Atos",
+        "id": "ce4709ac-3c7c-4600-9374-5433e3a2b30c",
+        "title": "Full Stack Engineer 1",
+        "active": true,
+        "date_updated": 1776463561,
+        "date_posted": 1776463543,
+        "url": "https://jobs.atos.net/job/Remote-Home-Full-Stack-Engineer-1/1385135833/?ats=successfactors",
+        "locations": [
+            "Remote in UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Atos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Carnegie Mellon University",
+        "id": "b264b3d4-1e49-4b33-a9b7-daf698a38be6",
+        "title": "Research Assistant - Electrical and Computer Engineering",
+        "active": true,
+        "date_updated": 1776463561,
+        "date_posted": 1776463482,
+        "url": "https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Research-Assistant---College-of-Engineering---Electrical-and-Computer-Engineering_2024383-1",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Carnegie-Mellon-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
