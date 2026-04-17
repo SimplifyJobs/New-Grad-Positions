@@ -245231,7 +245231,7 @@
         "company_name": "The University of Edinburgh",
         "id": "1acfa2d8-77af-4dd7-bee1-c564a9d6c5b0",
         "title": "Research Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1773756733,
         "date_posted": 1773756733,
         "url": "https://elxw.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/13930",
@@ -248150,7 +248150,7 @@
         "company_name": "The Boeing Company",
         "id": "ef027074-8f4c-4d32-a976-4ec43c0d7a26",
         "title": "Entry-Level Missions Systems Software Engineers - Embedded",
-        "active": false,
+        "active": true,
         "date_updated": 1773902227,
         "date_posted": 1773902227,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Entry-Level-Missions-Systems-Software-Engineers---Embedded_JR2026501664-1",
@@ -263731,7 +263731,7 @@
         "company_name": "Blue Origin",
         "id": "14217d4a-6772-41d3-90e5-661561fb2c56",
         "title": "Recovery Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1774842762,
         "date_posted": 1774693941,
         "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Space-Coast-FL/Offshore-Recovery-Technician_R60395",
@@ -284906,7 +284906,7 @@
         "company_name": "City of Baltimore",
         "id": "ec96d372-e494-4631-ad43-57548e90227d",
         "title": "HMIS Data Analyst - Multiple Teams",
-        "active": true,
+        "active": false,
         "date_updated": 1775861108,
         "date_posted": 1775858838,
         "url": "https://baltimorecity.wd1.myworkdayjobs.com/External/job/7-E-Redwood-St/HMIS-Data-Analyst--Operations-Assistant-I--NCS----Mayor-s-Office-of-Homeless-Services_R0017079",
@@ -287692,7 +287692,7 @@
         "company_name": "U.S. Bank",
         "id": "52a55594-9f51-4bf8-bc25-530bde48f44d",
         "title": "Entry-Level AI / ML Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1776080169,
         "date_posted": 1776071268,
         "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Hopkins-MN/Entry-Level-AI---ML-Software-Engineer_2026-0008813-1",
@@ -290056,7 +290056,7 @@
         "company_name": "Sainsbury's",
         "id": "953702c4-d8f4-40aa-af29-9b19cdeaa02d",
         "title": "Trading Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1776177913,
         "date_posted": 1776175630,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057183",
@@ -290499,7 +290499,7 @@
         "company_name": "Procter & Gamble (P&G)",
         "id": "bbc78059-8dc1-4d5d-8869-19254850f52c",
         "title": "Digital Innovation Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1776208149,
         "date_posted": 1776204582,
         "url": "https://pg.wd5.myworkdayjobs.com/1000/job/IVORYDALE-INNOVATION-CENTER/Digital-Innovation-Engineer_R000149431",
@@ -290661,7 +290661,7 @@
         "company_name": "Arconic",
         "id": "90cbc000-49e2-4aaf-a54a-6a71ff7968c3",
         "title": "Data Scientist - Revenue Management",
-        "active": true,
+        "active": false,
         "date_updated": 1776206713,
         "date_posted": 1776204432,
         "url": "https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/113749",
@@ -295520,7 +295520,7 @@
         "company_name": "Centene",
         "id": "942c2e5f-98c2-4818-a2a3-44d04e6f3dff",
         "title": "Business Solutions Developer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1776406218,
         "date_posted": 1776405883,
         "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-OK/Business-Solutions-Developer-I_1635645",
@@ -295804,7 +295804,7 @@
         "company_name": "Sainsbury's",
         "id": "d64e4f6e-f14b-41cc-9d20-bd23ac09d349",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1776416761,
         "date_posted": 1776416664,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057498",
@@ -295916,7 +295916,7 @@
         "company_name": "Sainsbury's",
         "id": "99577153-36f1-427f-92c3-0ed87cc67b0a",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1776434941,
         "date_posted": 1776434811,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057555",
@@ -296064,7 +296064,7 @@
         "company_name": "Sainsbury's",
         "id": "1a75cf69-40b0-46b9-8984-77f62f6ecb8f",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1776434941,
         "date_posted": 1776434816,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057542",
@@ -297062,5 +297062,132 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Accenture",
+        "id": "f13ff7ed-6bd3-4d14-be9b-dfbf1ca7a3ff",
+        "title": "Entry Level Technology Development Program - Claude/Anthropic Tech Arch Analyst",
+        "active": true,
+        "date_updated": 1776464101,
+        "date_posted": 1776463948,
+        "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/IL---Chicago/Entry-Level-Technology-Development-Program---Claude-Anthropic-Tech-Arch-Analyst---NAELFY26_R00326038",
+        "locations": [
+            "Boston, MA",
+            "Seattle, WA",
+            "Houston, TX",
+            "SF",
+            "LA",
+            "Arlington, TX",
+            "Philadelphia, PA",
+            "Chicago, IL",
+            "Charlotte, NC",
+            "NYC",
+            "Irving, TX",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Accenture-FS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "c1a318d1-6e3b-45d4-8292-00be9bc04866",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1776463741,
+        "date_posted": 1776463632,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057597",
+        "locations": [
+            "Newcastle upon Tyne, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Ohio State University",
+        "id": "b6248465-4bf8-446d-b687-c6e3a840b4a1",
+        "title": "Associate Applications Developer",
+        "active": true,
+        "date_updated": 1776463561,
+        "date_posted": 1776463490,
+        "url": "https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Columbus-Campus/Associate-Applications-Developer_R149274-1",
+        "locations": [
+            "Columbus, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Ohio-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "7e89c4dd-2ccc-4660-ba2f-d6c6fcfb96dc",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1776463741,
+        "date_posted": 1776463634,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057596",
+        "locations": [
+            "United Kingdom"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Markforged",
+        "id": "488aedd0-ba35-4474-acb0-903fae11d14b",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1776464763,
+        "date_posted": 1770910798,
+        "url": "https://job-boards.greenhouse.io/markforged/jobs/5802712004",
+        "locations": [
+            "Waltham, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Markforged",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Varda Space",
+        "id": "2029dab2-f71a-4687-9fea-eb969195638c",
+        "title": "Mechanisms Engineer - Payloads",
+        "active": true,
+        "date_updated": 1776463921,
+        "date_posted": 1766187281,
+        "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7569145003",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Varda-Space",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
