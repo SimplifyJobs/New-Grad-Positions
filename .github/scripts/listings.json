@@ -146351,7 +146351,7 @@
         "company_name": "Trustpilot",
         "id": "a00bc98a-5c73-422e-85b3-26adb49bf73a",
         "title": "Fraud Detection Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1768557038,
         "date_posted": 1766161259,
         "url": "https://business.trustpilot.com/jobs/7458108?gh_jid=7458108",
@@ -250446,7 +250446,7 @@
         "company_name": "Dordt University",
         "id": "6c9f0b71-8f14-41f3-adf4-d112c47ed8ed",
         "title": "Associate Data Engineer - Data Services",
-        "active": true,
+        "active": false,
         "date_updated": 1773997400,
         "date_posted": 1773997400,
         "url": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=87247",
@@ -267268,7 +267268,7 @@
         "company_name": "2020 Companies",
         "id": "5b762817-3f35-4219-8f33-c11d7464a86f",
         "title": "Android Sales Expert",
-        "active": false,
+        "active": true,
         "date_updated": 1774981621,
         "date_posted": 1772839207,
         "url": "https://2020companies.wd1.myworkdayjobs.com/external_careers/job/Spring-TX/Android-Sales-Expert_REQ_100031",
@@ -283838,7 +283838,7 @@
         "company_name": "NextEra Energy",
         "id": "86f2b214-ca03-4538-be78-4f52056b8194",
         "title": "Applied Scientist 1",
-        "active": true,
+        "active": false,
         "date_updated": 1775775566,
         "date_posted": 1775772547,
         "url": "https://jobs.nexteraenergy.com/job/St_-Paul-Applied-Scientist-I-MN-55107/1381060800/?ats=successfactors",
@@ -287944,7 +287944,7 @@
         "company_name": "Sainsbury's",
         "id": "22bdb2f7-6457-48e7-99ec-497ba5cb74b8",
         "title": "Trading Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1776080169,
         "date_posted": 1776071066,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056977",
@@ -295989,5 +295989,59 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "d64e4f6e-f14b-41cc-9d20-bd23ac09d349",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1776416761,
+        "date_posted": 1776416664,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057498",
+        "locations": [
+            "Ashford District, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "03380b23-d45f-4335-bfbb-e4c049d9443c",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1776416761,
+        "date_posted": 1776416664,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057122",
+        "locations": [
+            "Stockbridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "4f19874d-92ed-45de-911c-aefbe0230af8",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1776416761,
+        "date_posted": 1776416663,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057503",
+        "locations": [
+            "Trowbridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
