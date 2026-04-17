@@ -59,45 +59,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Peraton",
-        "id": "6dbc0e6d-49c8-40fd-a45d-f89656de5adf",
-        "title": "Junior Software Engineer",
-        "active": false,
-        "date_updated": 1755704896,
-        "date_posted": 1755704896,
-        "url": "https://careers-peraton.icims.com/jobs/159132/job",
-        "locations": [
-            "King George County, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Peraton",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Adobe",
-        "id": "843e7e1f-edb9-4bdb-92a1-a9c83114942d",
-        "title": "2026 University Graduate - Product Manager",
-        "active": false,
-        "date_updated": 1755794271,
-        "date_posted": 1755705643,
-        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Product-Manager_R158631",
-        "locations": [
-            "San Jose, CA",
-            "Lehi, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/Adobe",
-        "is_visible": false,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Hewlett Packard Enterprise",
         "id": "94a234e9-ad5c-4931-a158-3ba864a6c141",
         "title": "Systems/Software Engineer I",
