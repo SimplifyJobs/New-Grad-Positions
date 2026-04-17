@@ -1,23 +1,5 @@
 [
     {
-        "date_updated": 1764154693,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": false,
-        "degrees": [],
-        "url": "https://careers.oracle.com/en/sites/jobsearch/job/305127",
-        "company_name": "Oracle",
-        "title": "Undergrad Cloud Engineer - Full-time Intern Conversion",
-        "locations": [
-            "Redwood City, CA"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "c9208f8f-dc58-4fe4-9de6-094f902912c3",
-        "date_posted": 1755695312,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "date_updated": 1755715550,
         "sponsorship": "U.S. Citizenship is Required",
         "active": true,
@@ -271076,7 +271058,7 @@
         "company_name": "Google",
         "id": "0fca62cb-528f-466a-8c92-4a004244628b",
         "title": "Product Manager 1",
-        "active": true,
+        "active": false,
         "date_updated": 1775084668,
         "date_posted": 1775081259,
         "url": "https://www.google.com/about/careers/applications/jobs/results/142029093422932678",
