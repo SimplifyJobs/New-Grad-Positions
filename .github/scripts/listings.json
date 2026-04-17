@@ -64190,24 +64190,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Stoneridge",
-        "id": "231b472a-448a-451a-b03f-05b84f678460",
-        "title": "Engineering Technician",
-        "active": false,
-        "date_updated": 1755670789,
-        "date_posted": 1755670789,
-        "url": "https://stoneridge.wd5.myworkdayjobs.com/careers/job/Lexington-Ohio/Engineering-Technician_JR101762-1",
-        "locations": [
-            "Ontario, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/e52e17c7-c352-40d3-85c1-94d7be1df9e7",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Goldman Sachs",
         "id": "cc1a8fff-672b-4781-87ce-87d5f8b28a96",
@@ -106527,7 +106509,7 @@
         "company_name": "Sensor Tower",
         "id": "fd3931c0-1f08-43cb-9e75-39aca12e587c",
         "title": "Product Analyst - Digital Advertising",
-        "active": true,
+        "active": false,
         "date_updated": 1765556774,
         "date_posted": 1765556774,
         "url": "https://jobs.lever.co/sensortower/60624cbe-4c13-4133-bf14-5e6624ed54b9/apply",
@@ -218576,7 +218558,7 @@
         "company_name": "Sainsbury's",
         "id": "6824d73f-f1ab-4578-abf2-a5a07f9aa09d",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1772417405,
         "date_posted": 1772417405,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051407",
@@ -291532,7 +291514,7 @@
         "company_name": "Medtronic",
         "id": "8c8d3bf2-c479-44f8-834a-48d7fc472ab8",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1776209325,
         "date_posted": 1776204683,
         "url": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Lafayette-Colorado-United-States-of-America/Software-Engineer-I_R63854",
@@ -295847,6 +295829,248 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "d7f1b24a-b651-4239-81a5-05805190a745",
+        "title": "Research Scientist - Multiple Teams",
+        "active": true,
+        "date_updated": 1776406321,
+        "date_posted": 1776406269,
+        "url": "https://lifeattiktok.com/search/7629243930022267189",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "1f0fc6ac-8134-4e5a-b46a-22d37fc9c2c7",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1776406141,
+        "date_posted": 1776406005,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057490",
+        "locations": [
+            "Northwich, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Walmart",
+        "id": "e028b212-8e1e-43bf-be96-209e821586d5",
+        "title": "Senior Software Engineer",
+        "active": true,
+        "date_updated": 1776406398,
+        "date_posted": 1776406170,
+        "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/Senior--Software-Engineer_R-2470306-1",
+        "locations": [
+            "Bentonville, AR"
+        ],
+        "company_url": "https://simplify.jobs/c/Walmart",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "cd59c8ab-bb78-4dc8-bd88-7203bb950533",
+        "title": "Research Scientist - LLM Applications on Search/Ads/Recommendation",
+        "active": true,
+        "date_updated": 1776406321,
+        "date_posted": 1776406269,
+        "url": "https://lifeattiktok.com/search/7629235064786127109",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "ac4a0664-7251-4c89-828b-5bf31a2ce87d",
+        "title": "Research Scientist - E-commerce Recommendation - LLM Applications",
+        "active": true,
+        "date_updated": 1776406321,
+        "date_posted": 1776406270,
+        "url": "https://lifeattiktok.com/search/7629184028664563973",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Centene",
+        "id": "942c2e5f-98c2-4818-a2a3-44d04e6f3dff",
+        "title": "Business Solutions Developer 1",
+        "active": true,
+        "date_updated": 1776406218,
+        "date_posted": 1776405883,
+        "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-OK/Business-Solutions-Developer-I_1635645",
+        "locations": [
+            "New Mexico",
+            "Kansas",
+            "Pennsylvania",
+            "Iowa",
+            "Texas",
+            "Florida",
+            "South Carolina",
+            "Georgia",
+            "Tennessee",
+            "Minnesota",
+            "Utah",
+            "Kentucky",
+            "Wisconsin",
+            "North Carolina",
+            "Oklahoma",
+            "Missouri",
+            "Ohio",
+            "Michigan",
+            "Illinois",
+            "Idaho"
+        ],
+        "company_url": "https://simplify.jobs/c/Centene",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Walmart",
+        "id": "2feafcbe-123f-413d-a226-883c086771df",
+        "title": "Principal Data Analyst",
+        "active": true,
+        "date_updated": 1776406321,
+        "date_posted": 1776406152,
+        "url": "https://walmart.wd5.myworkdayjobs.com/Non-WorkdayInternal/job/Bentonville-AR/Principal-Data-Analyst_R-2470531",
+        "locations": [
+            "Bentonville, AR"
+        ],
+        "company_url": "https://simplify.jobs/c/Walmart",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Newmont",
+        "id": "2294f906-0323-4950-b94b-424f1fb739d9",
+        "title": "Analyst \u2013 Data Engineering",
+        "active": true,
+        "date_updated": 1776406681,
+        "date_posted": 1776406153,
+        "url": "https://jobs.newmont.com/us/en/job/41695",
+        "locations": [
+            "Belmont, Australia",
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/90e0373e-e60e-4722-bb8f-06f1471a1c38",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "2f5e3043-4e80-4c4f-88db-94701307ff67",
+        "title": "Research Scientist - Generative AI - Tiktok Search",
+        "active": true,
+        "date_updated": 1776406321,
+        "date_posted": 1776406270,
+        "url": "https://lifeattiktok.com/search/7628321017978767621",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Walmart",
+        "id": "14c4fb8b-32c7-4a4a-b270-56e5f1e9ecbe",
+        "title": "Senior Software Engineer",
+        "active": true,
+        "date_updated": 1776406321,
+        "date_posted": 1776406172,
+        "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/Senior-Software-Engineer_R-2470266",
+        "locations": [
+            "Bentonville, AR"
+        ],
+        "company_url": "https://simplify.jobs/c/Walmart",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Walmart",
+        "id": "00c56ac0-8938-4546-9cac-601a2c84985f",
+        "title": "Senior Software Engineer",
+        "active": true,
+        "date_updated": 1776406321,
+        "date_posted": 1776406171,
+        "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/Senior-Software-Engineer_R-2470278-1",
+        "locations": [
+            "Bentonville, AR"
+        ],
+        "company_url": "https://simplify.jobs/c/Walmart",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
