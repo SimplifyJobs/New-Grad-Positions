@@ -215629,7 +215629,7 @@
         "company_name": "Vertiv",
         "id": "7862141d-b252-4a68-8c8c-1ccdac37388f",
         "title": "Customer Engineer 1 - Chicago IL",
-        "active": true,
+        "active": false,
         "date_updated": 1772205249,
         "date_posted": 1772205249,
         "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20267741",
@@ -260040,7 +260040,7 @@
         "company_name": "Vertiv",
         "id": "14aae389-cdcb-471f-af9f-ff42130036d6",
         "title": "Customer Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1774563638,
         "date_posted": 1774563638,
         "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20265197",
@@ -278945,7 +278945,7 @@
         "company_name": "Sainsbury's",
         "id": "de0aaa2e-e950-4b18-8313-7247dc0ddbfa",
         "title": "Trading Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1775572201,
         "date_posted": 1775570875,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056403",
@@ -288613,7 +288613,7 @@
         "company_name": "CDW Corporation",
         "id": "6b113274-3cb5-45ac-98f6-a0c60391cf05",
         "title": "Software Engineer 1 - Backend",
-        "active": false,
+        "active": true,
         "date_updated": 1776120444,
         "date_posted": 1776117988,
         "url": "https://cdw.wd5.myworkdayjobs.com/careers/job/Virtual---Illinois/Software-Engineer-I---Backend_R26_00001466",
@@ -289758,7 +289758,7 @@
         "company_name": "Sainsbury's",
         "id": "95410e70-09a8-4bd0-b3e7-ccd8eaf94094",
         "title": "Trading Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1776129854,
         "date_posted": 1776128826,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057117",
@@ -292833,7 +292833,7 @@
         "company_name": "New Lantern",
         "id": "36c6049a-d5b2-4e24-9714-5db445af995f",
         "title": "New Grad Olympics Intern - Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1776295718,
         "date_posted": 1776291021,
         "url": "https://jobs.ashbyhq.com/newlantern/cb64f26f-93ec-4fcd-a9be-5ba75687f987/application",
@@ -295847,6 +295847,89 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "e2319c7a-2908-4bc0-802c-ff5542f47517",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1776416761,
+        "date_posted": 1776416664,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057121",
+        "locations": [
+            "Stockbridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Gallatin AI",
+        "id": "aeeff16f-0619-4a40-97b6-99f107b9b111",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1776417909,
+        "date_posted": 1768000982,
+        "url": "https://jobs.ashbyhq.com/gallatin/51dd95e6-4a96-4bb7-8e1a-76861f505d2c/application",
+        "locations": [
+            "Palo Alto, CA",
+            "Washington, DC",
+            "SF",
+            "Austin, TX",
+            "NYC",
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Gallatin-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Citadel Securities",
+        "id": "ae5bd7a0-0600-42d1-b21c-5a645b496968",
+        "title": "Quantitative Researcher PhD Graduate - US",
+        "active": true,
+        "date_updated": 1764276643,
+        "date_posted": 1761871122,
+        "url": "https://www.citadelsecurities.com/careers/details/quantitative-researcher-phd-graduate-us/",
+        "locations": [
+            "Miami, FL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Citadel-Securities",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Citadel Securities",
+        "id": "f23fe117-836c-45d4-bd59-0ea9d9ddf7f7",
+        "title": "Machine Learning Researcher \u2013 PhD Graduate - US",
+        "active": true,
+        "date_updated": 1764160431,
+        "date_posted": 1761871130,
+        "url": "https://www.citadelsecurities.com/careers/details/machine-learning-researcher-phd-graduate-us/",
+        "locations": [
+            "Miami, FL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Citadel-Securities",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
         ]
     }
 ]
