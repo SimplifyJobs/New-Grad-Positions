@@ -280185,7 +280185,7 @@
         "company_name": "Sainsbury's",
         "id": "37296114-80b5-493a-bff9-2f9a9b78c1e5",
         "title": "Trading Assistant - Shift",
-        "active": false,
+        "active": true,
         "date_updated": 1775611801,
         "date_posted": 1775610443,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056484",
@@ -286092,7 +286092,7 @@
         "company_name": "Sainsbury's",
         "id": "a610e524-8bfd-4953-9115-58a0253da346",
         "title": "Trading Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1775870653,
         "date_posted": 1775869645,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056835",
@@ -296084,7 +296084,7 @@
         "company_name": "Sainsbury's",
         "id": "0ca88cba-2559-4154-bb26-d20bc94cd727",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1776434941,
         "date_posted": 1776434814,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057554",
@@ -297168,6 +297168,201 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "3910597e-435c-481b-ba10-d9042ecc58fe",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1776474541,
+        "date_posted": 1776474400,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057631",
+        "locations": [
+            "Belfast, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "1912d123-ab9a-451f-9997-410c751f2280",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1776474541,
+        "date_posted": 1776474400,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057633",
+        "locations": [
+            "Belfast, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "010eba40-b652-4b59-864b-0d6abedfc708",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1776475081,
+        "date_posted": 1776474400,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057630",
+        "locations": [
+            "Belfast, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Analog Devices",
+        "id": "80a587c7-b9a1-4d39-bc04-9863f1c9c7d2",
+        "title": "Product Marketing Manager - Automotive Power Products",
+        "active": true,
+        "date_updated": 1776474541,
+        "date_posted": 1776474496,
+        "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-AZ-Chandler-East-Elliot/Product-Marketing-Manager--PMM----Automotive-Power-Products_R262034",
+        "locations": [
+            "Boston, MA",
+            "Phoenix, AZ",
+            "Chandler, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Analog-Devices",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "2e7a07bd-6e45-424a-a8ed-7744ef9e652c",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1776474541,
+        "date_posted": 1776474401,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057640",
+        "locations": [
+            "Brighton, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "2253af35-bff1-4e48-8e7b-da386d8f5f71",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1776474541,
+        "date_posted": 1776474402,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057632",
+        "locations": [
+            "Belfast, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Vertiv",
+        "id": "6bedfbc8-6cc3-47cc-befb-81501fa51e55",
+        "title": "Associate Product Engineer - Energy Storage",
+        "active": true,
+        "date_updated": 1776474541,
+        "date_posted": 1776474452,
+        "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20269133",
+        "locations": [
+            "Ohio"
+        ],
+        "company_url": "https://simplify.jobs/c/Vertiv",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Intel",
+        "id": "6a9037a8-cfc4-43f5-841f-202346e3bfb4",
+        "title": "Image Processing Engineer - C++/Linux",
+        "active": true,
+        "date_updated": 1776474773,
+        "date_posted": 1776474487,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Santa-Clara/Image-Processing-Engineer--C---Linux-_JR0282835",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "J.Crew",
+        "id": "415946a5-70d1-43cd-94e8-c163f48d2ce0",
+        "title": "Assistant Designer - Structured Woven",
+        "active": true,
+        "date_updated": 1776474541,
+        "date_posted": 1776474392,
+        "url": "https://jcrew.wd1.myworkdayjobs.com/jcrewcareers/job/New-York-NY-USA-Headquarters/Assistant-Designer---Structured-Woven_124375",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/JCrew",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Aramark",
+        "id": "1ce918d2-6991-45fb-8f10-f5f57eb05332",
+        "title": "Platform Innovation Engineer",
+        "active": true,
+        "date_updated": 1776474361,
+        "date_posted": 1776474337,
+        "url": "https://aramarkcareers.com/UnitedStates/job/Rockville-Platform-Innovation-Engineer-MD-20850/1383567400/?ats=successfactors",
+        "locations": [
+            "North Bethesda, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Aramark",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
