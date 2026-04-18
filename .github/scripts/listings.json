@@ -63353,28 +63353,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Albertsons",
-        "id": "5006eda0-ddcf-4c6a-8cf3-91189568b903",
-        "title": "IT Repair Technician \u2013 Entry Level",
-        "active": false,
-        "date_updated": 1761523256,
-        "date_posted": 1755814870,
-        "url": "https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/627942",
-        "locations": [
-            "Mesa, AZ",
-            "Tempe, AZ",
-            "Scottsdale, AZ",
-            "Phoenix, AZ",
-            "Chandler, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Albertsons",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "L3Harris Technologies",
         "id": "0b86950a-4d28-4361-bc83-e5b12a0f62c8",
         "title": "Senior Associate - Application Development - Greenville TX",
@@ -104820,7 +104798,7 @@
         "company_name": "Curtiss-Wright Corporation",
         "id": "ce85a75f-e278-478c-9081-80676142628e",
         "title": "Electronic Engineering Technologist - Onsite Position",
-        "active": false,
+        "active": true,
         "date_updated": 1765498414,
         "date_posted": 1765498414,
         "url": "https://curtisswright.wd1.myworkdayjobs.com/cw_external_career_site/job/Canada-Ottawa/Electronic-Engineering-Technologist---Onsite-Position_JR10454",
@@ -171121,7 +171099,7 @@
         "company_name": "Blue Origin",
         "id": "364a0235-1556-4845-b1de-bb3b0965798a",
         "title": "Autonomous Vehicle AI Engineer 2 Computer Vision and Path Planning",
-        "active": false,
+        "active": true,
         "date_updated": 1770086332,
         "date_posted": 1770086332,
         "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Autonomous-Vehicle-AI-Engineer-II-Computer-Vision-and-Path-Planning_R58724-1",
@@ -178153,7 +178131,7 @@
         "company_name": "Micron Technology",
         "id": "34c845ce-ac74-4a28-8afb-4f0bfe3294f1",
         "title": "Equip Maint Technician - Probe - Manassas VA",
-        "active": false,
+        "active": true,
         "date_updated": 1770363424,
         "date_posted": 1770363424,
         "url": "https://micron.wd1.myworkdayjobs.com/External/job/Manassas-VA----Fab-6/Equip-Maint-Technician--Probe---Manassas-VA-_JR89647",
@@ -231538,7 +231516,7 @@
         "company_name": "Leonardo",
         "id": "9d213f02-a387-4abc-8d0f-1197b6a5471b",
         "title": "Graduate Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773098709,
         "date_posted": 1773098709,
         "url": "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Luton---Cap-Green-300/Graduate-Software-Engineer_R0021337-1",
@@ -249516,7 +249494,7 @@
         "company_name": "Motorola",
         "id": "e5123464-94b2-4c9d-82ca-242d4a2f8c45",
         "title": "Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773970781,
         "date_posted": 1773970781,
         "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Software-Engineer_R63225",
@@ -264930,7 +264908,7 @@
         "company_name": "NVIDIA",
         "id": "cdac9585-1420-4450-ba80-1bdf21973134",
         "title": "AI Chip Design Engineer \u2013 New College Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1774919900,
         "date_posted": 1774919168,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Chip-Design-Engineer---New-College-Grad-2026_JR2015481",
@@ -269886,7 +269864,7 @@
         "company_name": "Jabil",
         "id": "69c982fb-aa68-4f88-b14f-defbc7ec6cbe",
         "title": "Diagnostic Technician 1",
-        "active": false,
+        "active": true,
         "date_updated": 1775054314,
         "date_posted": 1775052510,
         "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Florence-KY/Diagnostic-Technician-I_J2445087",
@@ -277095,7 +277073,7 @@
         "company_name": "Robert Half",
         "id": "22c73d7b-43d7-45a2-b537-5beb5f314625",
         "title": "Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1775516184,
         "date_posted": 1775513333,
         "url": "https://roberthalf.wd1.myworkdayjobs.com/roberthalfcareers/job/SAN-RAMON/Software-Engineer-I_JR-259943",
@@ -278391,7 +278369,7 @@
         "company_name": "Sainsbury's",
         "id": "df099224-40f0-4cb6-9b8a-a2b68ce5a6d0",
         "title": "Trading Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1775572201,
         "date_posted": 1775570877,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056392",
@@ -281103,7 +281081,7 @@
         "company_name": "Micron Technology",
         "id": "cdc7d5a2-8d8c-4132-8bab-13ae2abc07fe",
         "title": "New College Grad - Design and Verification Engineer - Pathfinding",
-        "active": false,
+        "active": true,
         "date_updated": 1775689572,
         "date_posted": 1775686233,
         "url": "https://micron.wd1.myworkdayjobs.com/External/job/Folsom-CA/New-College-Grad---Design-and-Verification-Engineer--Pathfinding_JR96895",
@@ -281901,7 +281879,7 @@
         "company_name": "City of Austin",
         "id": "f9ca433c-dc93-467b-a6b0-429d53b1ec4f",
         "title": "Electric Power Grid - Geospatial Information System - Electric Power Grid",
-        "active": false,
+        "active": true,
         "date_updated": 1775745970,
         "date_posted": 1775743759,
         "url": "https://austintexas.wd5.myworkdayjobs.com/COA_Careers/job/System-Control-Center-SCC/Electric-Power-Grid--EPG--Geospatial-Information-System--GIS--Analyst-I_JR103382-1",
@@ -283846,7 +283824,7 @@
         "company_name": "Red Bull Advanced Technologies",
         "id": "5829fc3b-9967-4196-b587-672384d0e35f",
         "title": "Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1775814311,
         "date_posted": 1775812386,
         "url": "https://redbulltechnology.wd3.myworkdayjobs.com/RB_Racing/job/Milton-Keynes/Software-Engineer_R0007410",
@@ -285072,7 +285050,7 @@
         "company_name": "NVIDIA",
         "id": "5578f27b-5b7f-4d4e-892f-d9a2667a2aa6",
         "title": "Research Scientist \u2013 PhD New College Grad - Generative AI for Physical AI",
-        "active": false,
+        "active": true,
         "date_updated": 1775861283,
         "date_posted": 1775858944,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Generative-AI-for-Physical-AI---PhD-New-College-Grad-2026_JR2016032",
@@ -285869,7 +285847,7 @@
         "company_name": "RTX",
         "id": "174e4303-85ae-4d6d-9d6e-42cf5b9922eb",
         "title": "Cyberspace Research Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1775903769,
         "date_posted": 1775903462,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MD-COLUMBIA-720--9861-Broken-Land-Pkwy--BBN-COLUMBIA-Ste-400/Cyberspace-Research-Developer--Onsite-_01835932",
@@ -292032,7 +292010,7 @@
         "company_name": "Northrop Grumman",
         "id": "eaf0b2d8-5417-4f09-a05c-498446659384",
         "title": "Software Engineer / Principal Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1776294041,
         "date_posted": 1776290901,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Oklahoma-Oklahoma-City/Software-Engineer---Principal-Software-Engineer_R10229285",
@@ -292200,7 +292178,7 @@
         "company_name": "Trend Micro",
         "id": "3a03824d-8ebc-44b6-b813-e2e73ec7a444",
         "title": "Applied AI Junior Web Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1776294041,
         "date_posted": 1776290897,
         "url": "https://trendmicro.wd3.myworkdayjobs.com/External/job/Ottawa/Applied-AI-Junior-Web-Developer---Ottawa--ON_R0009513",
@@ -298226,6 +298204,232 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/JCrew",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "e4540e87-b8b8-4ce9-a1d3-57d4c30a9d85",
+        "title": "Field Service Engineer",
+        "active": true,
+        "date_updated": 1776528722,
+        "date_posted": 1776526344,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/Harlow-Essex/Field-Service-Engineer_01807492",
+        "locations": [
+            "Harlow, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "NVIDIA",
+        "id": "d46c66be-947f-480c-9755-e5f35c3340ac",
+        "title": "Research Scientist \u2013 New College Grad - AI Accelerator Design and VLSI",
+        "active": true,
+        "date_updated": 1776529685,
+        "date_posted": 1776526490,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--AI-Accelerator-SW-HW-Co-Design---New-College-Grad-2026_JR2011644",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "ffc9939b-076d-4556-899e-ce386050c236",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1776550141,
+        "date_posted": 1776550010,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057715",
+        "locations": [
+            "Trowbridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "e7a95087-80b7-4cd2-aae3-8afb144f03d0",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1776550141,
+        "date_posted": 1776550011,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057725",
+        "locations": [
+            "Stoke-on-Trent, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Applied Materials",
+        "id": "de3a416d-1a18-498b-ba01-ae938d4182c6",
+        "title": "Data Analyst NCG/Early Career",
+        "active": true,
+        "date_updated": 1776550141,
+        "date_posted": 1776550034,
+        "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Data-Analyst-NCG-Early-Career_R2618071",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Materials",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "c3c822b1-d63e-4a29-ac8d-97073ead63e6",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1776550141,
+        "date_posted": 1776550011,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057588",
+        "locations": [
+            "Stoke-on-Trent, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "b6a362af-02e4-488c-89b5-ab05bfbaa938",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1776550141,
+        "date_posted": 1776550009,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057587",
+        "locations": [
+            "Brandon, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "9f13a19a-16a3-4eda-bb2b-e692d3deedb3",
+        "title": "Software Integrator Engineer Level 2 or 3",
+        "active": true,
+        "date_updated": 1776550141,
+        "date_posted": 1776550026,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Software-Integrator-Engineer-Level-2-or-3_R10222510",
+        "locations": [
+            "Aurora, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "90e8a4b5-bd8e-45e1-b245-fca99050a47a",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1776550141,
+        "date_posted": 1776550009,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057701",
+        "locations": [
+            "Aldershot, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "4a7718eb-333b-4d6f-8914-821fe3596f10",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1776550141,
+        "date_posted": 1776550010,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057702",
+        "locations": [
+            "Aldershot, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "3eb61339-6ea7-4b55-bc27-8965741314f3",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1776550141,
+        "date_posted": 1776550016,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057719",
+        "locations": [
+            "Sheffield, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "b2f97101-0809-4835-bdd7-d62829cf944d",
+        "title": "Software Engineer 1 - Space and RF Sensors",
+        "active": true,
+        "date_updated": 1776529489,
+        "date_posted": 1776524717,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/XMLNAME-2026-Full-time---Software-Engineer-I---Space-and-RF-Sensors----Onsite_01838274",
+        "locations": [
+            "Fort Wayne, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
