@@ -1,26 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Worldpay",
-        "id": "d3b79bce-647d-420c-be72-6825ccd65256",
-        "title": "Data Engineer I",
-        "active": false,
-        "date_updated": 1755741811,
-        "date_posted": 1755741811,
-        "url": "https://worldpay.wd5.myworkdayjobs.com/Worldpay_External_Careers_Site/job/US-OH-CIN-8500/Data-Engineer-I_JR0607009-1",
-        "locations": [
-            "Cincinnati, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Worldpay",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "IXL Learning",
         "id": "ea4aba99-157b-4794-9bcb-01d93b153fc0",
@@ -63670,26 +63650,6 @@
             "Tucson, AZ"
         ],
         "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Stantec",
-        "id": "3e987533-56fe-4888-9c52-b9d23dd4c220",
-        "title": "Hydrogeologist",
-        "active": false,
-        "date_updated": 1756211501,
-        "date_posted": 1755742723,
-        "url": "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1001997",
-        "locations": [
-            "Salt Lake City, UT",
-            "Denver, CO",
-            "Chandler, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Stantec",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
