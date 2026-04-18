@@ -1,25 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Electric Boat",
-        "id": "36deec29-ea02-40cd-8e84-bb1c17b42299",
-        "title": "Entry Level Embedded Software Engineer-Ship Control",
-        "active": false,
-        "date_updated": 1755751912,
-        "date_posted": 1755751912,
-        "url": "https://careers-gdeb.icims.com/jobs/15852/job",
-        "locations": [
-            "Groton, CT"
-        ],
-        "company_url": "https://simplify.jobs/c/Electric-Boat",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "date_updated": 1758326264,
         "sponsorship": "Offers Sponsorship",
         "active": true,
@@ -270488,7 +270468,7 @@
         "company_name": "Mackenzie Investments",
         "id": "bd17af0e-9b28-46b5-8664-4c9c6af0a6e7",
         "title": "Investment Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1775084041,
         "date_posted": 1775081327,
         "url": "https://careersen-mackenzieinvestments.icims.com/jobs/5854/job?mobile=true&needsRedirect=false",
@@ -296317,7 +296297,7 @@
         "company_name": "Sun Life",
         "id": "bf68c141-d1b8-44ca-904d-e8241d284b69",
         "title": "Developer \u2013 Finance Automation",
-        "active": true,
+        "active": false,
         "date_updated": 1776463921,
         "date_posted": 1776463828,
         "url": "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-Ontario/Developer--Finance-Automation_JR00122569",
