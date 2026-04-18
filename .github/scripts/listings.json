@@ -14217,26 +14217,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Applied Intuition",
-        "id": "21c755f3-ad58-4327-88dd-277b0116890f",
-        "title": "Software Engineer \u2013 New Grad",
-        "active": false,
-        "date_updated": 1760437844,
-        "date_posted": 1755740540,
-        "url": "https://boards.greenhouse.io/appliedintuition/jobs/4600029005",
-        "locations": [
-            "Washington, DC"
-        ],
-        "company_url": "https://simplify.jobs/c/Applied-Intuition",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Centene",
         "id": "c2981a89-e31a-4a64-9ffb-529384a1de21",
@@ -17804,24 +17784,6 @@
             "Dahlgren, VA"
         ],
         "company_url": "https://simplify.jobs/c/Amentum",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Applied Intuition",
-        "id": "b0a8d195-ca8f-4e4b-8540-1213a131fb06",
-        "title": "Software Engineer \u2013 New Grad",
-        "active": false,
-        "date_updated": 1761486827,
-        "date_posted": 1755740553,
-        "url": "https://boards.greenhouse.io/appliedintuition/jobs/4600028005",
-        "locations": [
-            "Ann Arbor, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/Applied-Intuition",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -162112,7 +162074,7 @@
         "company_name": "Microchip Technology",
         "id": "eeccc732-4403-4fa2-a11a-eac4778b282b",
         "title": "Engineer 1 - Software - FPGA Timing and Power",
-        "active": false,
+        "active": true,
         "date_updated": 1769642413,
         "date_posted": 1769642413,
         "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/CA---San-Jose---3850-N-First-St/Engineer-I---Software--FPGA-Timing-and-Power-_R1912-25",
@@ -249556,7 +249518,7 @@
         "company_name": "Mondelez International",
         "id": "59fe8eb2-8abc-4f34-86c4-d836ada0f8d2",
         "title": "Analyst IC",
-        "active": true,
+        "active": false,
         "date_updated": 1773961257,
         "date_posted": 1773961257,
         "url": "https://wd3.myworkdaysite.com/recruiting/mdlz/External/job/Uxbridge-United-Kingdom/Analyst-IC--Immediate-Consumption-_R-160814",
@@ -285064,7 +285026,7 @@
         "company_name": "Sainsbury's",
         "id": "75593443-3392-4422-9f59-ea945c623f59",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1775860395,
         "date_posted": 1775858842,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056831",
@@ -297363,6 +297325,28 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "T-Mobile",
+        "id": "6bc80244-9636-4993-af7f-59b1d2514281",
+        "title": "Associate Engineer - Telecom Billing",
+        "active": true,
+        "date_updated": 1776474541,
+        "date_posted": 1776474370,
+        "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Associate-Engineer---Telecom-Billing_REQ352476-1",
+        "locations": [
+            "Frisco, TX",
+            "Atlanta, GA",
+            "Overland Park, KS"
+        ],
+        "company_url": "https://simplify.jobs/c/T-Mobile",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
