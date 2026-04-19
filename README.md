@@ -11138,7 +11138,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>AI Scientist/Engineer I</td>
 <td>Atlanta, GA</td>
 <td>🔒</td>
-<td>19d</td>
+<td>20d</td>
 </tr>
 <tr>
 <td><strong>TurningPoint Healthcare Solutions</strong></td>
