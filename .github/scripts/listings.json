@@ -298652,5 +298652,132 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "fa1599cc-d133-48a4-b7e6-220764336f26",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1776607741,
+        "date_posted": 1776607592,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057198",
+        "locations": [
+            "Slough, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "b7a87d0b-8ed4-42fb-b0f4-fc5cb2ce54eb",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1776607741,
+        "date_posted": 1776607594,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057746",
+        "locations": [
+            "Warrington, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "ae4ea2a1-fad4-4e94-8546-8821c64956f1",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1776607741,
+        "date_posted": 1776607594,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057761",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "a5fd4a0c-45a2-4c42-8f44-aab51b94b2f4",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1776607741,
+        "date_posted": 1776607594,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057759",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "35f22058-c7b4-4a6c-8dce-a753f720431f",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1776607741,
+        "date_posted": 1776607594,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057763",
+        "locations": [
+            "Feltham, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "24a9efeb-eb38-4e15-9c22-9d5df84782f8",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1776607741,
+        "date_posted": 1776607592,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057760",
+        "locations": [
+            "Durham, UK",
+            "Thirsk, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "179760ab-331a-4b2c-a7ae-9c8ed0c912ed",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1776607741,
+        "date_posted": 1776607593,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057714",
+        "locations": [
+            "Midlothian, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
