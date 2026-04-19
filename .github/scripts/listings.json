@@ -62766,24 +62766,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "ByteDance",
-        "id": "91781434-b2d9-4de6-8f4b-170cdb599048",
-        "title": "ASIC Design Engineer Graduate - Video Silicon IP - 2026 Start",
-        "active": false,
-        "date_updated": 1758283120,
-        "date_posted": 1755870027,
-        "url": "https://jobs.bytedance.com/en/position/7538953975011035400/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "ByteDance",
         "id": "8a453a74-87fa-406c-9b45-110dde3a3929",
@@ -298649,5 +298631,26 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "3ed0bbcf-fb42-4476-bcbf-b4cd7a1dd7c6",
+        "title": "Optical Designer",
+        "active": true,
+        "date_updated": 1776587957,
+        "date_posted": 1776523557,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-ON-MIDLAND-450--450-Leitz-Rd--450-BLDG/Optical-Designer_01800862",
+        "locations": [
+            "Barrie, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
