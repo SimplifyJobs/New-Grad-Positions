@@ -52649,7 +52649,7 @@
         "company_name": "Worcester Polytechnic Institute",
         "id": "6b329ca6-a382-4b89-9fa5-a1e9c4ef4f44",
         "title": "Assistant Professor",
-        "active": true,
+        "active": false,
         "date_updated": 1761861315,
         "date_posted": 1759903771,
         "url": "https://wpi.wd5.myworkdayjobs.com/WPI_External_Career_Site/job/Worcester/Assistant-Professor_R0003284",
@@ -63083,24 +63083,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "a301ddf2-bda5-4f6e-a99b-88d4254313ef",
-        "title": "Student Researcher - Seed Vision - AI Platform",
-        "active": false,
-        "date_updated": 1755826320,
-        "date_posted": 1755826320,
-        "url": "https://jobs.bytedance.com/en/position/7541091941166532872/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "L3Harris Technologies",
         "id": "0b86950a-4d28-4361-bc83-e5b12a0f62c8",
@@ -64745,7 +64727,7 @@
         "company_name": "PennState University",
         "id": "68188134-cafa-4b8d-aa5c-4edf4278eb7c",
         "title": "IT Applications Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1761992267,
         "date_posted": 1761992267,
         "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/IT-Applications-Specialist---Part-Time_REQ_0000067530-1",
@@ -145187,7 +145169,7 @@
         "company_name": "Prairie View A&M University",
         "id": "d29005b6-65e3-47f2-bd75-d58f553d0f44",
         "title": "Postdoctoral Researcher - Pier - Trustworthy Artificial Intelligence",
-        "active": false,
+        "active": true,
         "date_updated": 1768561392,
         "date_posted": 1766444636,
         "url": "https://tamus.wd1.myworkdayjobs.com/pvamu_external/job/Prairie-View-TX/Postdoctoral-Researcher--PIER---Trustworthy-Artificial-Intelligence--1_R-089887-1",
@@ -209641,7 +209623,7 @@
         "company_name": "Warner Music",
         "id": "94f1b678-3c92-4407-8f6a-5da6f9442e43",
         "title": "Growth Automation Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1772016243,
         "date_posted": 1771691333,
         "url": "https://wmg.wd1.myworkdayjobs.com/WMGUS/job/USA---Miami---555-Washington-Avenue/Analyst--Growth-Automation_R-026878",
@@ -237528,7 +237510,7 @@
         "company_name": "NVIDIA",
         "id": "1177df0d-3ca9-4827-8a32-cef484213ca3",
         "title": "ASIC Methodology Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773354014,
         "date_posted": 1773354014,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Toronto/ASIC-Methodology-Engineer---New-College-Grad-2026_JR2014274",
@@ -262551,7 +262533,7 @@
         "company_name": "Amentum",
         "id": "7220a39d-8748-47cb-9c17-aadfdf525485",
         "title": "Instrumentation Operator Repairer - Communications - Data",
-        "active": true,
+        "active": false,
         "date_updated": 1774693829,
         "date_posted": 1774693829,
         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-FL-Canaveral/Instrumentation-Operator-Repairer---Communications--Data-_R0152707",
@@ -264455,7 +264437,7 @@
         "company_name": "Worldpay",
         "id": "b0cfd516-e742-48ea-84f5-7e1daf4c4134",
         "title": "Product Analyst 1",
-        "active": false,
+        "active": true,
         "date_updated": 1774911737,
         "date_posted": 1774908605,
         "url": "https://worldpay.wd5.myworkdayjobs.com/Worldpay_External_Careers_Site/job/MANCHESTER--UNITED-KINGDOM/Product-Analyst-I_JR0609158",
@@ -287528,7 +287510,7 @@
         "company_name": "Welocalize",
         "id": "4a9cf812-f5e2-4ed3-b3b5-1a4577711e0a",
         "title": "Search Quality Rater",
-        "active": false,
+        "active": true,
         "date_updated": 1776117790,
         "date_posted": 1776117787,
         "url": "https://welocalize.wd1.myworkdayjobs.com/welocalize/job/Austin-Texas/Search-Quality-Rater_R0007579",
@@ -295979,7 +295961,7 @@
         "company_name": "Sainsbury's",
         "id": "f28861d3-f3fe-4b65-9fec-9b7fdc5abf5b",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1776463741,
         "date_posted": 1776463634,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057626",
@@ -296205,7 +296187,7 @@
         "company_name": "Sainsbury's",
         "id": "7243fca3-fde3-4e5d-9772-ae518d0713fc",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1776463741,
         "date_posted": 1776463633,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057625",
@@ -298590,6 +298572,44 @@
         "degrees": [
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "2aa0219d-b1bd-45df-92ce-069504d77703",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1776503161,
+        "date_posted": 1776502998,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057651",
+        "locations": [
+            "Orton Southgate, Peterborough, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Varian",
+        "id": "90ebf3e3-334f-44d2-b1a4-a4d43723a826",
+        "title": "Field Service Engineer - Proton Therapy",
+        "active": true,
+        "date_updated": 1776505861,
+        "date_posted": 1776505724,
+        "url": "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/BWI-S/Field-Service-Engineer---Baltimore--MD_R-26574-1",
+        "locations": [
+            "Baltimore, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/670da3c5-bce0-4621-b519-da7ce7d528e6",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
         ]
     }
 ]
