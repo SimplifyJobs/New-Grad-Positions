@@ -62912,26 +62912,6 @@
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "ByteDance",
-        "id": "0686730f-5d35-438b-9745-60e0e744adff",
-        "title": "Student Researcher",
-        "active": false,
-        "date_updated": 1755865076,
-        "date_posted": 1755865076,
-        "url": "https://jobs.bytedance.com/en/position/7538943251756910856/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
         "id": "c444b3af-3783-47df-b6b4-e351f399fddb",
         "title": "Student Researcher - Seed - Model Evaluation",
         "active": false,
