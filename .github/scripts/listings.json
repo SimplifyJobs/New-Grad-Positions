@@ -2,46 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "KBR",
-        "id": "c32e5723-85c6-46f4-910a-6da9dab0d35c",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1755823676,
-        "date_posted": 1755823676,
-        "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Colorado-Springs-Colorado/Software-Engineer-I_R2111112",
-        "locations": [
-            "Colorado Springs, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/KBR",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Cellular Sales",
-        "id": "92e74f26-5002-4900-bc4c-1b8275e33447",
-        "title": "Junior Data Engineer",
-        "active": false,
-        "date_updated": 1755823620,
-        "date_posted": 1755823620,
-        "url": "https://careers-cellularsales.icims.com/jobs/19001/job",
-        "locations": [
-            "Knoxville, TN"
-        ],
-        "company_url": "https://simplify.jobs/c/Cellular-Sales",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "A Thinking Ape",
         "id": "9b182656-b3aa-4fab-bee5-d7c03a3b473b",
         "title": "Junior Software Development Engineer - Client",
@@ -7515,27 +7475,6 @@
             "San Mateo, CA"
         ],
         "company_url": "https://simplify.jobs/c/Roblox",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "American Express",
-        "id": "3dcd2e88-e3d8-4347-90c3-366c28c12e37",
-        "title": "Software Engineer 1 - International Card Services - Int Card & Risk Services Tech",
-        "active": false,
-        "date_updated": 1758375670,
-        "date_posted": 1755823820,
-        "url": "https://aexp.eightfold.ai/careers/job/30763120",
-        "locations": [
-            "Plantation, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/American-Express",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -43360,24 +43299,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Fujitsu",
-        "id": "85d4825a-0111-4913-b196-17239cdfaea9",
-        "title": "Service Desk Agent - AF",
-        "active": false,
-        "date_updated": 1755824163,
-        "date_posted": 1755824163,
-        "url": "https://edzt.fa.em4.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/jobs/job/25613",
-        "locations": [
-            "Montreal, QC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Fujitsu",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Analog Devices",
         "id": "4c5bd58f-0a04-4b20-9aae-e91c71d844fb",
@@ -62590,7 +62511,7 @@
         "company_name": "PennState University",
         "id": "6b06f96d-3a46-49a9-8ff3-408a41c4ee01",
         "title": "Postdoctoral Scholar - Department of Physics - Wissel Research Group",
-        "active": true,
+        "active": false,
         "date_updated": 1755955943,
         "date_posted": 1755955943,
         "url": "https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Scholar---Department-of-Physics---Wissel-Research-Group_REQ_0000045022-1",
@@ -63194,24 +63115,6 @@
             "San Jose, CA"
         ],
         "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "TikTok",
-        "id": "01888d24-fe8b-4dcb-8a82-06d6b70ff58b",
-        "title": "Product Manager Graduate - Tiktok-Product-Social and Creation - BS/MS",
-        "active": false,
-        "date_updated": 1762909691,
-        "date_posted": 1755823472,
-        "url": "https://lifeattiktok.com/search/7532812450681489682",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -64952,7 +64855,7 @@
         "company_name": "University of Maryland - College Park",
         "id": "67fec74f-0d94-461b-9093-68193c0e9285",
         "title": "Postdoctoral Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1762926032,
         "date_posted": 1761992284,
         "url": "https://umd.wd1.myworkdayjobs.com/UMCP/job/University-of-Maryland-College-Park/Post-Doctoral-associate_JR100715",
@@ -128595,7 +128498,7 @@
         "company_name": "Welocalize",
         "id": "46cc3138-70d9-488c-8ab2-9bcba1df2a4e",
         "title": "Search Quality Rater",
-        "active": false,
+        "active": true,
         "date_updated": 1767656573,
         "date_posted": 1767656573,
         "url": "https://welocalize.wd1.myworkdayjobs.com/welocalize/job/Austin-Texas/Search-Quality-Rater_R0007321",
@@ -170194,7 +170097,7 @@
         "company_name": "University of Texas - Austin",
         "id": "768e51fc-6823-417a-8b68-19e8c5526625",
         "title": "Software Design Engineering Scientist Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1770073359,
         "date_posted": 1770073359,
         "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/PICKLE-RESEARCH-CAMPUS/Software-Design-Engineering-Scientist-Associate_R_00044244",
@@ -195883,7 +195786,7 @@
         "company_name": "Embry-Riddle Aeronautical University",
         "id": "8d556080-cd8e-45c3-a96c-2772eb1ca97b",
         "title": "Research Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1771456153,
         "date_posted": 1771456153,
         "url": "https://embryriddle.wd1.myworkdayjobs.com/External/job/Prescott-AZ/Part-Time-Temporary-Research-Technician--Prescott-Campus_R310987",
@@ -218195,7 +218098,7 @@
         "company_name": "Welocalize",
         "id": "e37ebdc6-e45d-42e4-b043-9d48c137e1f5",
         "title": "Search Quality Rater",
-        "active": false,
+        "active": true,
         "date_updated": 1772464999,
         "date_posted": 1772464999,
         "url": "https://welocalize.wd1.myworkdayjobs.com/welocalize/job/Austin-Texas/Search-Quality-Rater_R0007450",
@@ -221875,7 +221778,7 @@
         "company_name": "Louisiana State University (LSU)",
         "id": "df42d26f-bf0d-44c6-a7c6-6415270f04e9",
         "title": "Transient \u2013 Research",
-        "active": false,
+        "active": true,
         "date_updated": 1772590396,
         "date_posted": 1772590396,
         "url": "https://lsu.wd1.myworkdayjobs.com/lsuwaiver/job/0344-SL-Lockett-Hall/Transient---Research_R00113496",
@@ -231505,7 +231408,7 @@
         "company_name": "Jabil",
         "id": "6dd511f2-5115-4af5-8638-41b14c7d1ed6",
         "title": "Conversions Tester 1 - Shift - Sun-Tues/Wednesday",
-        "active": true,
+        "active": false,
         "date_updated": 1773101259,
         "date_posted": 1773101259,
         "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Florence-KY/CVG300-Conversions-Tester-I---401-Shift--Sun--Tues-Wednesday-_J2414082",
@@ -246559,7 +246462,7 @@
         "company_name": "Arthur Grand Technologies",
         "id": "c5e96a2e-51ca-43d8-aa10-231b3cdc5e3f",
         "title": "ERP Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773871479,
         "date_posted": 1773871479,
         "url": "https://jobs.smartrecruiters.com/ArthurGrandTechnologiesInc/744000115491098",
@@ -272877,7 +272780,7 @@
         "company_name": "Electronic Arts",
         "id": "963ead96-965b-472f-99ac-ac92824249ab",
         "title": "Narrative Designer Star Wars Jedi",
-        "active": true,
+        "active": false,
         "date_updated": 1775210041,
         "date_posted": 1770937968,
         "url": "https://jobs.ea.com/en_US/careers/JobDetail/Narrative-Designer-Star-Wars-Jedi/212505",
@@ -294445,7 +294348,7 @@
         "company_name": "Adobe",
         "id": "78e88829-ae61-48b0-9e8f-89f4bbad7380",
         "title": "Software Development Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1776378557,
         "date_posted": 1776377429,
         "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Software-Development-Engineer_R167723",
@@ -295938,7 +295841,7 @@
         "company_name": "Arthur Grand Technologies",
         "id": "f75f0ef0-4976-4878-ac6d-176ddeea0c1c",
         "title": "Syteline ERP Support",
-        "active": true,
+        "active": false,
         "date_updated": 1776463381,
         "date_posted": 1776463360,
         "url": "https://jobs.smartrecruiters.com/ArthurGrandTechnologiesInc/744000121473057",
@@ -298519,5 +298422,101 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Astreya",
+        "id": "590a8de1-e58b-491e-a539-4fda141bd411",
+        "title": "Inventory Technician 1",
+        "active": true,
+        "date_updated": 1776531192,
+        "date_posted": 1776527540,
+        "url": "https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/San-Francisco-CA/Inventory-Technician-I_R0015060",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Astreya",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "University of Texas at Austin",
+        "id": "8fbf6f2f-05d4-496f-8a7c-1ec41ba64c9d",
+        "title": "Control Room Technician Assistant",
+        "active": true,
+        "date_updated": 1776505861,
+        "date_posted": 1776505700,
+        "url": "https://utaustin.wd1.myworkdayjobs.com/utstudent/job/UT-MAIN-CAMPUS/Control-Room-Technician-Assistant_R_00044002",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Texas-Austin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Wharton School",
+        "id": "8abc2a31-15c2-4609-8c19-29e9300bdb74",
+        "title": "Pre-Doctoral Research Specialist",
+        "active": true,
+        "date_updated": 1776505681,
+        "date_posted": 1776505532,
+        "url": "https://wd1.myworkdaysite.com/recruiting/upenn/Wharton/job/SD---Wharton-Finance/Pre-Doctoral-Research-Specialist_JR00114183",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Wharton-School",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GE Aerospace",
+        "id": "7389b0e4-2f52-4316-b303-dc377b3ffe9b",
+        "title": "Repair Technician",
+        "active": true,
+        "date_updated": 1776522961,
+        "date_posted": 1776522841,
+        "url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Cheltenham/Repair-Technician_R5019978",
+        "locations": [
+            "Gloucester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Aerospace",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Electronic Arts",
+        "id": "840697b9-53ed-4222-80db-3c78eb4e0db4",
+        "title": "Producer 1 EA SPORTS UFC",
+        "active": true,
+        "date_updated": 1776503786,
+        "date_posted": 1766187129,
+        "url": "https://jobs.ea.com/en_US/careers/JobDetail/Producer-I-EA-SPORTS-UFC/212178",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Electronic-Arts",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
