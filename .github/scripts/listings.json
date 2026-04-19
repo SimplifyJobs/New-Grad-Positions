@@ -2,26 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Toyota Connected",
-        "id": "a9ccc1fd-d50f-40c1-964c-2f11a4961bda",
-        "title": "Machine Learning Engineer \u2013 Entry Level",
-        "active": false,
-        "date_updated": 1755903055,
-        "date_posted": 1755903055,
-        "url": "https://boards.greenhouse.io/embed/job_app?token=8133318002",
-        "locations": [
-            "Plano, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Toyota-Connected",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Adobe",
         "id": "91d06938-3be8-427a-bb3b-7586cc4d0dcf",
         "title": "2026 University Graduate - Machine Learning Engineer",
@@ -298603,7 +298583,7 @@
         "company_name": "Sainsbury's",
         "id": "fa1599cc-d133-48a4-b7e6-220764336f26",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1776607741,
         "date_posted": 1776607592,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057198",
