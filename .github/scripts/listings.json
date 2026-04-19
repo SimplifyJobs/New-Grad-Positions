@@ -48314,7 +48314,7 @@
         "company_name": "IBC Bank",
         "id": "a9cee509-15da-45db-b2f5-3cd79fd29f3d",
         "title": "Quantitative Analyst 1",
-        "active": false,
+        "active": true,
         "date_updated": 1763123283,
         "date_posted": 1761992932,
         "url": "https://ibc.wd5.myworkdayjobs.com/ibc_careers/job/San-Antonio-TX/Quantitative-Analyst-I_R12707",
@@ -62380,7 +62380,7 @@
         "company_name": "Onto Innovation",
         "id": "932cb426-78da-42bc-9645-dd1be47033b5",
         "title": "Sales Data Analyst 1",
-        "active": false,
+        "active": true,
         "date_updated": 1755960015,
         "date_posted": 1755960015,
         "url": "https://onto.wd1.myworkdayjobs.com/onto_careers/job/Milpitas-CA/Sales-Data-Analyst-1_R-4671",
@@ -62764,7 +62764,7 @@
         "company_name": "University of Miami",
         "id": "cc8793ca-371b-4373-be08-d327828879d4",
         "title": "Postdoctoral Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1762923967,
         "date_posted": 1755960805,
         "url": "https://umiami.wd1.myworkdayjobs.com/UMCareerStaff/job/Coral-Gables-FL/Post-Doctoral-Associate_R100089997",
@@ -137638,7 +137638,7 @@
         "company_name": "O'Reilly Auto Parts",
         "id": "829bbb1a-bb6d-4f45-bc31-d6c0c90b731e",
         "title": "Electronic Catalog Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1768236108,
         "date_posted": 1768236108,
         "url": "https://oreillyauto.wd1.myworkdayjobs.com/oreilly/job/Regional-Office-PHX/Electronic-Catalog-Technician-1_R158616",
@@ -155852,7 +155852,7 @@
         "company_name": "NVIDIA",
         "id": "2d060e56-9518-472a-976c-e24cad95bba6",
         "title": "AI ML Engineer - RTL Power Optimization",
-        "active": false,
+        "active": true,
         "date_updated": 1769222153,
         "date_posted": 1769222153,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-ML-Engineer--RTL-Power-Optimization---New-College-Grad-2026_JR2011172",
@@ -190348,7 +190348,7 @@
         "company_name": "Argo Group",
         "id": "2cc2e4cd-af37-4174-8f2e-afe8293763cb",
         "title": "Product Management Analyst 1",
-        "active": false,
+        "active": true,
         "date_updated": 1771025973,
         "date_posted": 1771025973,
         "url": "https://brookfield.wd5.myworkdayjobs.com/bpandc/job/US-MO---Springfield/Product-Management-Analyst-I_R2048421",
@@ -240908,7 +240908,7 @@
         "company_name": "Cadence Design Systems",
         "id": "848d8c63-8d7e-4df0-b116-c6d859202dbc",
         "title": "Scientific Software Developer 2 - Modeler",
-        "active": false,
+        "active": true,
         "date_updated": 1773490285,
         "date_posted": 1773490285,
         "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SANTA-FE-01/Scientific-Software-Developer-II---Modeler_R53423-2",
@@ -250341,7 +250341,7 @@
         "company_name": "Louisiana State University (LSU)",
         "id": "270779e8-3962-49c9-b984-bfc3c2095215",
         "title": "Customer Service Analyst - Data Analyst 1",
-        "active": false,
+        "active": true,
         "date_updated": 1774045793,
         "date_posted": 1774045793,
         "url": "https://lsu.wd1.myworkdayjobs.com/LSU/job/0355-William-P-Johnston-Hall---Office/Customer-Service-Analyst--Data-Analyst-1-_R00114025",
@@ -281097,7 +281097,7 @@
         "company_name": "Printpack",
         "id": "8e35cc96-81fa-443c-99d0-3dc5e4277322",
         "title": "Product Development Engineer 1/2",
-        "active": true,
+        "active": false,
         "date_updated": 1775688200,
         "date_posted": 1775686048,
         "url": "https://printpack.wd1.myworkdayjobs.com/printpackcareers/job/Atlanta-GA/Product-Development-Engineer-I-II_REQ2025-9048",
@@ -288525,7 +288525,7 @@
         "company_name": "PA Consulting",
         "id": "7ef4df2e-927d-40b4-a2b0-8b71a72090f5",
         "title": "Software Engineer - C++/Rust",
-        "active": true,
+        "active": false,
         "date_updated": 1776120310,
         "date_posted": 1776117898,
         "url": "https://jobs.smartrecruiters.com/PAConsulting/744000120532547",
@@ -291477,7 +291477,7 @@
         "company_name": "CACI",
         "id": "960bff7e-ca82-4660-a876-aa17b6e81f86",
         "title": "UAS Red Team Pilot",
-        "active": false,
+        "active": true,
         "date_updated": 1776294739,
         "date_posted": 1776290924,
         "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-MD-Aberdeen-Proving-Ground/UAS-Red-Team-Pilot_324934",
@@ -296760,7 +296760,7 @@
         "company_name": "Trane Technologies",
         "id": "c9772e6e-07cf-42b0-8392-c8259e81b8f7",
         "title": "Application Engineer 2",
-        "active": true,
+        "active": false,
         "date_updated": 1776493081,
         "date_posted": 1776492466,
         "url": "https://careers.tranetechnologies.com/global/en/job/92600391",
@@ -298650,6 +298650,67 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Xylem",
+        "id": "ffd9690f-8849-415b-9261-0a3c48ef6f99",
+        "title": "RMA Technician",
+        "active": true,
+        "date_updated": 1776522241,
+        "date_posted": 1776522167,
+        "url": "https://xylem.wd5.myworkdayjobs.com/en-US/xylem-careers/job/Morrisville-North-Carolina-Office/RMA-Technician_R45816",
+        "locations": [
+            "Morrisville, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Xylem",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northrop Grumman",
+        "id": "818e63ab-4b1a-4ba4-974a-4d8dad067a80",
+        "title": "Drafter Level 2 or 3",
+        "active": true,
+        "date_updated": 1776505305,
+        "date_posted": 1776505107,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Englewood/Drafter--Level-2-OR-3-_R10228662",
+        "locations": [
+            "Cherry Hills Village, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "5eceded4-8aab-4bca-a037-2d39fc8715d6",
+        "title": "Fulltime Systems Engineer 2",
+        "active": true,
+        "date_updated": 1776525790,
+        "date_posted": 1776523820,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/XMLNAME-2026--Fulltime-Systems-Engineer-II--Onsite_01821697",
+        "locations": [
+            "Burlington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
         ]
     }
 ]
