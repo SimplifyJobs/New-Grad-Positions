@@ -1,23 +1,5 @@
 [
     {
-        "date_updated": 1755890178,
-        "sponsorship": "Other",
-        "active": true,
-        "degrees": [],
-        "url": "https://nodalexchange.pinpointhq.com/postings/7dfa5f35-8585-4681-bad7-5f26b87bdc47",
-        "company_name": "Nodal",
-        "title": "Software Engineer",
-        "locations": [
-            "Tysons Corner, VA"
-        ],
-        "category": "Software Engineering",
-        "source": "unvibingcode",
-        "id": "7ff83263-7d64-47e0-8724-0c0e039c3419",
-        "date_posted": 1755890178,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Toyota Connected",
@@ -90208,26 +90190,6 @@
             "Dallas, TX"
         ],
         "company_url": "https://simplify.jobs/c/Veryable",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "West Virginia University",
-        "id": "200fbf15-4c8b-4d7e-b556-6d614363faa5",
-        "title": "Lecturer",
-        "active": false,
-        "date_updated": 1762919220,
-        "date_posted": 1755890098,
-        "url": "https://wvu.taleo.net/careersection/faculty/jobdetail.ftl?job=25826",
-        "locations": [
-            "Morgantown, WV",
-            "Berkeley Springs, WV",
-            "Beckley, WV"
-        ],
-        "company_url": "https://simplify.jobs/c/West-Virginia-University",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
