@@ -1,24 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Together AI",
-        "id": "12ad8a7e-d4bc-4d4a-ac2f-f53b894f7027",
-        "title": "Software Engineer \u2013 New Grad",
-        "active": false,
-        "date_updated": 1761843075,
-        "date_posted": 1755845772,
-        "url": "https://job-boards.greenhouse.io/togetherai/jobs/4835292007",
-        "locations": [
-            "San Francisco, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Together-AI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Hewlett Packard Enterprise",
         "id": "d8749eca-e9d4-4014-87e5-253cf8d840b1",
@@ -63059,24 +63041,6 @@
             "San Jose, CA"
         ],
         "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Fujitsu",
-        "id": "cd270c69-c444-4f0f-9811-208de0a5b8bc",
-        "title": "Command Center Agent - JM-US",
-        "active": false,
-        "date_updated": 1755844753,
-        "date_posted": 1755844753,
-        "url": "https://edzt.fa.em4.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/jobs/job/26460",
-        "locations": [
-            "Richardson, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Fujitsu",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
