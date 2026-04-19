@@ -2,26 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "A Thinking Ape",
-        "id": "9b182656-b3aa-4fab-bee5-d7c03a3b473b",
-        "title": "Junior Software Development Engineer - Client",
-        "active": false,
-        "date_updated": 1755825605,
-        "date_posted": 1755825605,
-        "url": "https://job-boards.greenhouse.io/athinkingape/jobs/7183646",
-        "locations": [
-            "Vancouver, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/A-Thinking-Ape",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Together AI",
         "id": "12ad8a7e-d4bc-4d4a-ac2f-f53b894f7027",
         "title": "Software Engineer \u2013 New Grad",
@@ -50853,7 +50833,7 @@
         "company_name": "Electronic Arts",
         "id": "dc6bddff-a77f-4efd-ad1f-75717089bcd8",
         "title": "Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1758989835,
         "date_posted": 1758818483,
         "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer/211161",
@@ -159238,7 +159218,7 @@
         "company_name": "Brenntag",
         "id": "cf01020f-45a4-4a45-863c-391b594ed254",
         "title": "Master Data Analyst - Mths FTC",
-        "active": false,
+        "active": true,
         "date_updated": 1769527879,
         "date_posted": 1769527879,
         "url": "https://brenntag.wd3.myworkdayjobs.com/brenntag_jobs/job/LeedsUnited-Kingdom/Master-Data-Analyst---18-mths-FTC_JR107647",
@@ -239378,7 +239358,7 @@
         "company_name": "University of Rochester",
         "id": "f6148df0-ed10-46d9-acab-e270399e4e65",
         "title": "Data Scientist 1",
-        "active": false,
+        "active": true,
         "date_updated": 1773414608,
         "date_posted": 1773414608,
         "url": "https://rochester.wd5.myworkdayjobs.com/UR_Staff/job/Strong-Memorial-Hospital/Data-Scientist-I_R256225",
@@ -258451,7 +258431,7 @@
         "company_name": "FOX",
         "id": "7d545c0e-cee5-46e3-b3a6-5018cc6246b5",
         "title": "Product Manager - FOX Forward Deployed",
-        "active": false,
+        "active": true,
         "date_updated": 1774508063,
         "date_posted": 1774508063,
         "url": "https://fox.wd1.myworkdayjobs.com/Domestic/job/Los-Angeles-California-USA/Product-Manager--FOX-Forward-Deployed_R50031861",
@@ -269690,7 +269670,7 @@
         "company_name": "Sainsbury's",
         "id": "e04bd81f-316f-4fc9-9823-c7ded6cc8587",
         "title": "Trading Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1775083861,
         "date_posted": 1775081322,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055838",
@@ -279368,7 +279348,7 @@
         "company_name": "RTX",
         "id": "150ff42a-c207-4e5b-9913-d9d1f9ab2f38",
         "title": "FPGA Engineer 2",
-        "active": false,
+        "active": true,
         "date_updated": 1775605243,
         "date_posted": 1775599752,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Full-Time-Raytheon-2026---Multi-Product-Power---Digital-FPGA-Engineer-II---Onsite_01835673",
@@ -281496,7 +281476,7 @@
         "company_name": "Sainsbury's",
         "id": "f7c6a053-3631-49b4-8896-bd0251d129cc",
         "title": "Trading Assistant - Shift",
-        "active": false,
+        "active": true,
         "date_updated": 1775716393,
         "date_posted": 1775714799,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056582",
@@ -298518,5 +298498,98 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "6ad13c4d-8adc-40ee-b7b1-bc9fd0dcb665",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1776560941,
+        "date_posted": 1776560810,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057728",
+        "locations": [
+            "Aldershot, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "e9d49f69-2119-44c4-bd35-ac2db18db24f",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1776560941,
+        "date_posted": 1776560809,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057642",
+        "locations": [
+            "Brent Cross, London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "52eff6d8-c7d2-4a0c-918e-fbc9143d592e",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1776560941,
+        "date_posted": 1776560809,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057730",
+        "locations": [
+            "Aldershot, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "43613fc3-8d6c-47f8-8993-bf1ab5b9a784",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1776560941,
+        "date_posted": 1776560809,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057731",
+        "locations": [
+            "Aldershot, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "KLA",
+        "id": "894d82d9-bf75-44b7-b0a7-34562519e069",
+        "title": "Senior Systems Design Engineer",
+        "active": true,
+        "date_updated": 1776505638,
+        "date_posted": 1776505471,
+        "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Systems-Design-Engineer_2532647",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/KLA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
     }
 ]
