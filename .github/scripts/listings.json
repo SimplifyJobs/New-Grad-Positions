@@ -170330,7 +170330,7 @@
         "company_name": "SpaceX",
         "id": "11300faa-161b-483b-9520-12054a5957e6",
         "title": "Full Stack Software Engineer - Top Secret Clearance",
-        "active": false,
+        "active": true,
         "date_updated": 1770103404,
         "date_posted": 1770103404,
         "url": "https://boards.greenhouse.io/spacex/jobs/8397609002",
@@ -245921,7 +245921,7 @@
         "company_name": "Arthur Grand Technologies",
         "id": "c5e96a2e-51ca-43d8-aa10-231b3cdc5e3f",
         "title": "ERP Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773871479,
         "date_posted": 1773871479,
         "url": "https://jobs.smartrecruiters.com/ArthurGrandTechnologiesInc/744000115491098",
@@ -290290,7 +290290,7 @@
         "company_name": "Cerity Partners",
         "id": "636ccc47-f922-4bb8-b72e-52a35cdc75f6",
         "title": "Trading Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1776245051,
         "date_posted": 1776244782,
         "url": "https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Louisville-KY/Trading-Associate_R633",
@@ -295300,7 +295300,7 @@
         "company_name": "Arthur Grand Technologies",
         "id": "f75f0ef0-4976-4878-ac6d-176ddeea0c1c",
         "title": "Syteline ERP Support",
-        "active": false,
+        "active": true,
         "date_updated": 1776463381,
         "date_posted": 1776463360,
         "url": "https://jobs.smartrecruiters.com/ArthurGrandTechnologiesInc/744000121473057",
@@ -298455,7 +298455,7 @@
         "company_name": "Sainsbury's",
         "id": "ae4ea2a1-fad4-4e94-8546-8821c64956f1",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1776607741,
         "date_posted": 1776607594,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057761",
@@ -298705,5 +298705,65 @@
         "date_posted": 1776666108,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Visa",
+        "id": "fd0a91ad-d738-4017-8dfb-6709b43759f2",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1776665162,
+        "date_posted": 1776665044,
+        "url": "https://jobs.smartrecruiters.com/Visa/744000121657362",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Hewlett Packard Enterprise",
+        "id": "1ebee2fb-eb8a-47ae-9436-b4655564fab6",
+        "title": "R&D Product Engineering Support-Agile Analysis",
+        "active": true,
+        "date_updated": 1776665341,
+        "date_posted": 1776665274,
+        "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Chippewa-Falls-Wisconsin-United-States-of-America/R-D-Product-Engineering-Support-Agile-Analysis_1205262",
+        "locations": [
+            "Eau Claire, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "SpaceX",
+        "id": "859fa85e-ab8c-4ddd-812a-eea28fbe4fbc",
+        "title": "Security Software Engineer",
+        "active": true,
+        "date_updated": 1776665701,
+        "date_posted": 1765927490,
+        "url": "https://boards.greenhouse.io/spacex/jobs/8306251002",
+        "locations": [
+            "West Athens, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/SpaceX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
