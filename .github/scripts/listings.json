@@ -62474,24 +62474,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "KLA Corporation",
-        "id": "0ca546b7-567a-482f-9b73-6790d2d0573d",
-        "title": "Etch Technical Engineer",
-        "active": false,
-        "date_updated": 1757093050,
-        "date_posted": 1755952531,
-        "url": "https://kla.wd1.myworkdayjobs.com/search/job/Newport-United-Kingdom/Etch-Technical-Engineer_2530052",
-        "locations": [
-            "Cardiff, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/KLA-Corporation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "ByteDance",
         "id": "97b3870b-63df-47e9-a967-0c0921c0f9e9",
@@ -64179,25 +64161,6 @@
             "San Jose, CA"
         ],
         "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Northeastern",
-        "id": "82692f04-5e4a-4e6d-a1a6-2864ef02524d",
-        "title": "Postdoctoral Research Fellow",
-        "active": false,
-        "date_updated": 1755953181,
-        "date_posted": 1755953181,
-        "url": "https://northeastern.wd1.myworkdayjobs.com/careers/job/Boston-MA-Main-Campus/Postdoctoral-Research-Fellow_R115210-1",
-        "locations": [
-            "Boston, MA",
-            "Portland, ME"
-        ],
-        "company_url": "https://simplify.jobs/c/Northeastern",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -254368,7 +254331,7 @@
         "company_name": "Ciena",
         "id": "45d3bffd-67a8-4bdb-9235-4ad6a64b123f",
         "title": "Optical Support Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1774391913,
         "date_posted": 1774391913,
         "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Belfast/Optical-Support-Engineer_R030433",
@@ -288471,7 +288434,7 @@
         "company_name": "Sainsbury's",
         "id": "fa49e4f0-a921-4e27-8a8b-c2e98bd4dde0",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1776129854,
         "date_posted": 1776128820,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057118",
