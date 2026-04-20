@@ -53495,24 +53495,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "CACI",
-        "id": "432d8908-50e5-49de-a4da-363a2dee6a32",
-        "title": "Systems Administrator",
-        "active": false,
-        "date_updated": 1755957751,
-        "date_posted": 1755957751,
-        "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-VA-Norfolk/Systems-Administrator_304942-1",
-        "locations": [
-            "Norfolk, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/CACI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "PennState University",
         "id": "3ffa8d8f-e7fd-4fba-8caf-47d89b67f735",
@@ -62705,25 +62687,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Marsh",
-        "id": "59bcfe97-7c34-4f59-86db-d39bf1ff2924",
-        "title": "Technical Analyst - College Rotation Generalist",
-        "active": false,
-        "date_updated": 1762907301,
-        "date_posted": 1755957921,
-        "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/Atlanta---Hartsfield/CAVOK---Technical-Analyst---College-Rotation-Generalist---Atlanta-or-Westlake_R_127392-1",
-        "locations": [
-            "Westlake, TX",
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/55341c12-8fd6-4cce-8472-d15c4a3ab583",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Jabil",
         "id": "6833d219-e63b-4eb2-bc21-427b676e3bc7",
@@ -62920,27 +62883,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Welocalize",
-        "id": "b841f0e1-cb16-4f57-b5a2-1ce146393d2e",
-        "title": "Data Analysis Specialist",
-        "active": false,
-        "date_updated": 1755957953,
-        "date_posted": 1755957953,
-        "url": "https://welocalize.wd1.myworkdayjobs.com/welocalize/job/California-Bay-Area/Data-Analysis-Specialist_R0006347",
-        "locations": [
-            "California",
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Welocalize",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
@@ -113148,7 +113090,7 @@
         "company_name": "Motorola",
         "id": "87b61cc8-e9fa-42c1-ae6c-d5e8a9ae851f",
         "title": "Embedded Software Engineer - Web Interface Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1766174609,
         "date_posted": 1766174609,
         "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Los-Angeles-CA/Embedded-Software-Engineer--Web-Interface-Developer-_R60565",
@@ -281170,7 +281112,7 @@
         "company_name": "ENSCO",
         "id": "7d965aa7-c745-4456-9752-69c7c2a34d10",
         "title": "Field Service Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1775745376,
         "date_posted": 1768866462,
         "url": "https://job-boards.greenhouse.io/ensco/jobs/5070874008",
@@ -293184,7 +293126,7 @@
         "company_name": "GlobalFoundries",
         "id": "aac7df5e-c04a-4ad5-894c-bae09e257448",
         "title": "AI Enablement Strategist \u2013 New College Graduate",
-        "active": false,
+        "active": true,
         "date_updated": 1776377161,
         "date_posted": 1776377081,
         "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/AI-Enablement-Strategist--New-College-Graduate-_JR-2600364",
@@ -298547,6 +298489,287 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "6c84f93d-49fd-4b31-9af9-a80a710508b5",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1776694141,
+        "date_posted": 1776693999,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057838",
+        "locations": [
+            "Trowbridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "67a1ee46-7483-4b36-92a3-1527eff285af",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1776694141,
+        "date_posted": 1776693997,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057853",
+        "locations": [
+            "Sheffield, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Voya Financial",
+        "id": "07ccc8b2-dd0d-4021-8bbc-2a847802d4a5",
+        "title": "Associate Software Developer",
+        "active": true,
+        "date_updated": 1776694322,
+        "date_posted": 1776694160,
+        "url": "https://godirect.wd5.myworkdayjobs.com/voya_jobs/job/Hartford-CT/Associate-Software-Developer_JR0032548",
+        "locations": [
+            "Hartford, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/VoyaFinancial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Bank of America",
+        "id": "96ef3152-43ce-4cb3-b7a9-c4e722a63067",
+        "title": "Treasury Product Associate - Payments",
+        "active": true,
+        "date_updated": 1776694322,
+        "date_posted": 1776694232,
+        "url": "https://ghr.wd1.myworkdayjobs.com/us-emplsv/job/New-York/Treasury-Product-Associate---Payments_26014089-1",
+        "locations": [
+            "Charlotte, NC",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Bank-Of-America",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Albany Medical College",
+        "id": "5ec1ed7a-7408-4531-b6e0-0d2cec5ddeb0",
+        "title": "Business Systems Programmer/Analyst 1",
+        "active": true,
+        "date_updated": 1776694801,
+        "date_posted": 1776694217,
+        "url": "https://albanymed.wd5.myworkdayjobs.com/albany_med/job/628-Madison-Avenue-Albany-NY-12208/Int-Bus-Sys-Pro-Alst-I_69606",
+        "locations": [
+            "Albany, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Albany-Medical-College",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "JP Morgan Chase",
+        "id": "0ac266eb-5e2b-4207-afed-bffe81fd1d2b",
+        "title": "Data Visualization Associate",
+        "active": true,
+        "date_updated": 1776694141,
+        "date_posted": 1776694106,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210706210",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Cambridge Associates",
+        "id": "e20b9497-68b1-41af-8fa5-8a3625517a98",
+        "title": "Investment Analyst - Credit",
+        "active": true,
+        "date_updated": 1776693781,
+        "date_posted": 1776693734,
+        "url": "https://cambridgeassociates.wd5.myworkdayjobs.com/Cambridge_Associates/job/London/Investment-Analyst--Credit_JR0000218",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Cambridge-Associates",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "dbea9dcb-cc4d-4934-a7fb-47211b6b6c70",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1776694141,
+        "date_posted": 1776694001,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057856",
+        "locations": [
+            "Derby, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "ef00aa9d-368e-4cf5-87c8-d09102ae200c",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1776694141,
+        "date_posted": 1776693998,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057517",
+        "locations": [
+            "Portsmouth, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "b5da7716-1e34-4c6c-875c-1a3e6a7eeb03",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1776694141,
+        "date_posted": 1776693997,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057852",
+        "locations": [
+            "Derby, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "68278b6c-eb67-4670-b160-fa33335d2b08",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1776694141,
+        "date_posted": 1776693999,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057849",
+        "locations": [
+            "Derby, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "2db5eb7f-6178-4e72-819e-e6196b9b0ea3",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1776694141,
+        "date_posted": 1776693998,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057830",
+        "locations": [
+            "Trowbridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Maritz",
+        "id": "275b3b16-588d-4f67-83b7-a4b34faa492f",
+        "title": "Associate Full Stack Developer",
+        "active": true,
+        "date_updated": 1776693961,
+        "date_posted": 1776693899,
+        "url": "https://maritz.wd1.myworkdayjobs.com/Maritz/job/Frederick-MD/Associate-Full-Stack-Developer_R15187",
+        "locations": [
+            "Frederick, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Maritz",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "dcb48ed4-10cf-47e6-a367-cb5fad87af67",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1776694141,
+        "date_posted": 1776693994,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055457",
+        "locations": [
+            "Derby, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pennsylvania State University",
+        "id": "f10bd329-3c4c-4803-835f-40c7c033d067",
+        "title": "Postdoctoral Scholar - Postdoctoral Scholar - LIGO",
+        "active": true,
+        "date_updated": 1776524272,
+        "date_posted": 1776522826,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Department-of-Physics---Postdoctoral-Scholar---LIGO_REQ_0000062439-1",
+        "locations": [
+            "State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
         ]
     }
 ]
