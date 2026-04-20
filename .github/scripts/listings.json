@@ -292680,9 +292680,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1776339542,
+        "date_updated": 1776663853,
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://icf.wd5.myworkdayjobs.com/en-US/icfexternal_career_site/job/Reston-VA/Associate-Software-Engineer_R2601302",
         "company_name": "ICF",
@@ -292734,9 +292734,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1776340276,
+        "date_updated": 1776663853,
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "degrees": [
             "Master's"
         ],
@@ -292757,9 +292757,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1776340698,
+        "date_updated": 1776663853,
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://apply.workable.com/optisigns-inc/j/EB560EFFD4/",
         "company_name": "OptiSigns",
@@ -292894,9 +292894,9 @@
         ]
     },
     {
-        "date_updated": 1776350076,
+        "date_updated": 1776663853,
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://dish.jibeapply.com/jobs/98189",
         "company_name": "EchoStar",
