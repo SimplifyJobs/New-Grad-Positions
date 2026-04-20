@@ -298688,5 +298688,62 @@
         "degrees": [
             "MD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Bloom Energy",
+        "id": "e34fafbb-fa32-4812-ac04-6c887a2b50d1",
+        "title": "FIT Technician",
+        "active": true,
+        "date_updated": 1776723301,
+        "date_posted": 1776723293,
+        "url": "https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/Newark-Delaware/FIT-Technician_JR-22275",
+        "locations": [
+            "Newark, DE"
+        ],
+        "company_url": "https://simplify.jobs/c/Bloom-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "a6712aa7-c564-46d6-a151-96449260f09e",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1776723481,
+        "date_posted": 1776723319,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057899",
+        "locations": [
+            "Oxford, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Salesforce",
+        "id": "e66cb0f5-9784-48be-a74e-e49906545df2",
+        "title": "Product Manager - Specialist - AI Voice & Contact Center",
+        "active": true,
+        "date_updated": 1776723518,
+        "date_posted": 1776723250,
+        "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Indiana---Indianapolis/Product-Manager--Specialist---AI-Voice---Contact-Center_JR337244",
+        "locations": [
+            "Seattle, WA",
+            "Indianapolis, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Salesforce",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
