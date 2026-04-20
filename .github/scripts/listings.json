@@ -298077,7 +298077,7 @@
         "company_name": "Sainsbury's",
         "id": "2aa0219d-b1bd-45df-92ce-069504d77703",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1776503161,
         "date_posted": 1776502998,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057651",
@@ -298647,5 +298647,27 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Cisco",
+        "id": "6b1c62fa-8361-4ac7-9660-9d5f2e5aeb8e",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1776588919,
+        "date_posted": 1776157613,
+        "url": "https://careers.cisco.com/global/en/job/2011789",
+        "locations": [
+            "Research Triangle, Durham, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Cisco",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
     }
 ]
