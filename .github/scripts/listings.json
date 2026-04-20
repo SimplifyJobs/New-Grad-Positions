@@ -61994,63 +61994,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "The Swift Group",
-        "id": "925c5da5-2468-4004-858d-7c798096ce73",
-        "title": "Data Scientist",
-        "active": false,
-        "date_updated": 1761527582,
-        "date_posted": 1755965774,
-        "url": "https://job-boards.greenhouse.io/theswiftgroup/jobs/4113058008",
-        "locations": [
-            "Augusta, GA",
-            "Annapolis Junction, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/The-Swift-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "The Swift Group",
-        "id": "3607ad7e-9761-42a7-9492-ee4f1789a8a1",
-        "title": "Software Engineer",
-        "active": false,
-        "date_updated": 1755965836,
-        "date_posted": 1755965836,
-        "url": "https://job-boards.greenhouse.io/theswiftgroup/jobs/4818894008",
-        "locations": [
-            "Hanover, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/The-Swift-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "The Swift Group",
-        "id": "0ca3552c-aa8f-49e9-a3c2-fa486ad1427d",
-        "title": "Principal Engineer",
-        "active": false,
-        "date_updated": 1755965820,
-        "date_posted": 1755965820,
-        "url": "https://job-boards.greenhouse.io/theswiftgroup/jobs/4799789008",
-        "locations": [
-            "Laurel, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/The-Swift-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Amentum",
         "id": "7d334928-64c3-4f9e-9435-82480c2661d0",
@@ -280079,7 +280022,7 @@
         "company_name": "Cleveland Clinic",
         "id": "7c6066b6-6741-45cf-9cdc-5d036a3bdb02",
         "title": "Research Computing Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1775688849,
         "date_posted": 1775686081,
         "url": "https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Research-Computing-Analyst_336259",
@@ -297410,7 +297353,7 @@
         "company_name": "Sainsbury's",
         "id": "6ad13c4d-8adc-40ee-b7b1-bc9fd0dcb665",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1776560941,
         "date_posted": 1776560810,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057728",
@@ -297428,7 +297371,7 @@
         "company_name": "Sainsbury's",
         "id": "e9d49f69-2119-44c4-bd35-ac2db18db24f",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1776560941,
         "date_posted": 1776560809,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057642",
@@ -297446,7 +297389,7 @@
         "company_name": "Sainsbury's",
         "id": "52eff6d8-c7d2-4a0c-918e-fbc9143d592e",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1776560941,
         "date_posted": 1776560809,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057730",
@@ -297464,7 +297407,7 @@
         "company_name": "Sainsbury's",
         "id": "43613fc3-8d6c-47f8-8993-bf1ab5b9a784",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1776560941,
         "date_posted": 1776560809,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057731",
