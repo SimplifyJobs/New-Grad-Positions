@@ -62038,24 +62038,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Waystar",
-        "id": "0900d148-ad8c-46c4-8d63-20c15a6ab6f7",
-        "title": "Application Engineer",
-        "active": false,
-        "date_updated": 1757168812,
-        "date_posted": 1755955860,
-        "url": "https://waystar.wd1.myworkdayjobs.com/Waystar/job/Atlanta-GA/Application-Engineer_R2700",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Waystar",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Montrose Environmental Group",
         "id": "7b6b5308-a577-4109-b276-5c3c2a2054ab",
@@ -298491,7 +298473,7 @@
         "company_name": "Sainsbury's",
         "id": "179760ab-331a-4b2c-a7ae-9c8ed0c912ed",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1776607741,
         "date_posted": 1776607593,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057714",
