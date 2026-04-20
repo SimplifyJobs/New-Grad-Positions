@@ -1,43 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Adobe",
-        "id": "91d06938-3be8-427a-bb3b-7586cc4d0dcf",
-        "title": "2026 University Graduate - Machine Learning Engineer",
-        "active": false,
-        "date_updated": 1756120767,
-        "date_posted": 1755906812,
-        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Machine-Learning-Engineer_R158632",
-        "locations": [
-            "San Francisco, CA",
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Adobe",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Harvey",
-        "id": "ce0000af-49cf-4e07-ba5d-fcde698721b7",
-        "title": "Software Engineer \u2013 New Grad",
-        "active": false,
-        "date_updated": 1761843461,
-        "date_posted": 1755906591,
-        "url": "https://jobs.ashbyhq.com/harvey/fe8e594b-f2e1-453b-8a0d-e0b0bfdf745b/application",
-        "locations": [
-            "San Francisco, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Harvey",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Ciena",
         "id": "9140651d-f2e6-400d-ba0a-70c7f7c71031",
@@ -62617,24 +62580,6 @@
             "San Jose, CA"
         ],
         "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "InfStones",
-        "id": "ccbf62c1-15bd-432a-b7aa-64a12dee5c51",
-        "title": "Application Engineer",
-        "active": false,
-        "date_updated": 1755906056,
-        "date_posted": 1755906056,
-        "url": "https://jobs.lever.co/infstones/95904c76-451d-44e9-917c-f74c82f41bdf/apply",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/InfStones",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -218475,7 +218420,7 @@
         "company_name": "BlackRock",
         "id": "6351ded1-378a-4a57-af64-a7a02aa2d651",
         "title": "Associate Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1772495556,
         "date_posted": 1772495556,
         "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/LO9-London---Drapers-Gardens/Associate--Application-Engineer_R260695",
