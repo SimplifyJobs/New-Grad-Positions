@@ -5819,26 +5819,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "Applied Materials",
-        "id": "83d8867d-65d8-4150-b9a7-deea6fc24578",
-        "title": "Associate Product Manager New College Grad - Bachelors",
-        "active": false,
-        "date_updated": 1758030167,
-        "date_posted": 1755963370,
-        "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Associate-Product-Manager--Austin--TX---NCG-_R2516315",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Applied-Materials",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Peraton",
         "id": "d671317d-80c6-4f29-a236-fc748c813fa5",
@@ -277632,7 +277612,7 @@
         "company_name": "Goldman Sachs",
         "id": "05dacdeb-375b-46e4-bd1b-fdbe4c87d6cd",
         "title": "Asset and Wealth Management - Software Engineer - Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1775601469,
         "date_posted": 1775599812,
         "url": "https://higher.gs.com/roles/166075",
