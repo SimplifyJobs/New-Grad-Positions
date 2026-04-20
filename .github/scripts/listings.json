@@ -146243,7 +146243,7 @@
         "company_name": "ERM",
         "id": "6777a914-13ed-4456-a936-38cbde5c9495",
         "title": "GIS Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1768616734,
         "date_posted": 1768616734,
         "url": "https://erm.wd3.myworkdayjobs.com/ERM_Careers/job/Walnut-Creek-California/GIS-Technician_R00028912-1",
@@ -290310,7 +290310,7 @@
         "company_name": "Sainsbury's",
         "id": "3e8889ef-17bf-4e0e-b3c2-9f016cdbeea0",
         "title": "Trading Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1776245051,
         "date_posted": 1776243857,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057259",
@@ -298765,5 +298765,46 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "77aa9848-628c-4453-9ecf-56ca0d0b14f4",
+        "title": "Backend Software Engineer",
+        "active": true,
+        "date_updated": 1776676501,
+        "date_posted": 1776676328,
+        "url": "https://lifeattiktok.com/search/7629632305942432053",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "b1d06522-7152-44d4-9f44-6f1334ef7fec",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1776675961,
+        "date_posted": 1776675925,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057799",
+        "locations": [
+            "United Kingdom"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
