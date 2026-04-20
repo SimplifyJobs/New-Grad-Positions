@@ -1575,7 +1575,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (1237)</summary>
+<summary>🗃️ Inactive roles (1236)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -9065,7 +9065,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>7mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Tencent?utm_source=GHList&utm_medium=company">Tencent</a></strong></td>
+<td><strong>Tencent</strong></td>
 <td>Cloud PaaS Associate Site Reliability Engineer</td>
 <td>Palo Alto, CA</td>
 <td>🔒</td>
@@ -10237,13 +10237,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><strong>YouVersion</strong></td>
 <td>Associate Software Engineer</td>
 <td>Edmond, OK</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Tencent?utm_source=GHList&utm_medium=company">Tencent</a></strong></td>
-<td>Security Software Engineer I</td>
-<td>Palo Alto, CA</td>
 <td>🔒</td>
 <td>7mo</td>
 </tr>
@@ -12380,7 +12373,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>6mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Tencent?utm_source=GHList&utm_medium=company">Tencent</a></strong></td>
+<td><strong>Tencent</strong></td>
 <td>Junior AI Software Engineer 🎓</td>
 <td>Palo Alto, CA</td>
 <td>🔒</td>
