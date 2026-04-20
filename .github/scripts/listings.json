@@ -62072,24 +62072,6 @@
     {
         "source": "Simplify",
         "category": "Hardware",
-        "company_name": "IQVIA",
-        "id": "c00da16c-8d8e-4129-92e9-f42120743375",
-        "title": "Field Service Engineer \u2013 Entry Level",
-        "active": false,
-        "date_updated": 1760175828,
-        "date_posted": 1755962596,
-        "url": "https://iqvia.wd1.myworkdayjobs.com/en-US/IQVIA/job/Albany-NY/Field-Service-Engineer_R1498302-1",
-        "locations": [
-            "Albany, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/IQVIA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
         "company_name": "Amentum",
         "id": "7d334928-64c3-4f9e-9435-82480c2661d0",
         "title": "Electronic Component Test Lab Technician",
@@ -62108,60 +62090,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "The University of Kansas Hospital",
-        "id": "bef443f8-0784-4cb2-921c-1e34e968bc0e",
-        "title": "Applications Analyst 1 - HITS Cadence Support",
-        "active": false,
-        "date_updated": 1762923334,
-        "date_posted": 1755962372,
-        "url": "https://kansashealthsystem.wd1.myworkdayjobs.com/careers/job/Shawnee-Mission-KS/Applications-Analyst-I--HITS-Cadence-Support-_R-42933",
-        "locations": [
-            "Leawood, KS"
-        ],
-        "company_url": "https://simplify.jobs/c/The-University-Of-Kansas-Hospital",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Dave & Busters",
-        "id": "8532078b-85d6-4edf-b664-74fc1844090c",
-        "title": "Support Technician",
-        "active": false,
-        "date_updated": 1755962066,
-        "date_posted": 1755962066,
-        "url": "https://daveandbusters.wd1.myworkdayjobs.com/dave_and_busters_careers/job/Addison-IL/Support-Technician_R-1005379",
-        "locations": [
-            "Elmhurst, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Dave-And-Busters",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Dave & Busters",
-        "id": "4bb2c679-ef52-42f7-9fc0-993f8637d1b2",
-        "title": "Support Technician",
-        "active": false,
-        "date_updated": 1755961608,
-        "date_posted": 1755961608,
-        "url": "https://daveandbusters.wd1.myworkdayjobs.com/dave_and_busters_careers/job/McDonough-GA/Support-Technician_R-1006511",
-        "locations": [
-            "McDonough, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Dave-And-Busters",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Northrop Grumman",
         "id": "1585e0b1-ed84-4ad4-be6f-cda2586d07e0",
         "title": "Computer System Administrators - Baltimore",
@@ -62173,24 +62101,6 @@
             "Halethorpe, MD"
         ],
         "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Dave & Busters",
-        "id": "e7a81bd1-4882-4203-872a-e47dab8f5f8d",
-        "title": "Games Support Technician",
-        "active": false,
-        "date_updated": 1755961532,
-        "date_posted": 1755961532,
-        "url": "https://daveandbusters.wd1.myworkdayjobs.com/dave_and_busters_careers/job/Oklahoma-City-OK/Games-Support-Technician_R-1007915",
-        "locations": [
-            "Oklahoma City, OK"
-        ],
-        "company_url": "https://simplify.jobs/c/Dave-And-Busters",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -259624,7 +259534,7 @@
         "company_name": "Sainsbury's",
         "id": "4512542b-5d77-402f-9ec0-e0f90721ab3b",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1774602295,
         "date_posted": 1774602295,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055234",
@@ -290128,7 +290038,7 @@
         "company_name": "Sainsbury's",
         "id": "e39055d0-7f0c-4a3d-819a-30b2fd16134a",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1776263773,
         "date_posted": 1776262044,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057275",
@@ -297000,7 +296910,7 @@
         "company_name": "Sainsbury's",
         "id": "ffc9939b-076d-4556-899e-ce386050c236",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1776550141,
         "date_posted": 1776550010,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057715",
@@ -297057,7 +296967,7 @@
         "company_name": "Sainsbury's",
         "id": "c3c822b1-d63e-4a29-ac8d-97073ead63e6",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1776550141,
         "date_posted": 1776550011,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057588",
@@ -297075,7 +296985,7 @@
         "company_name": "Sainsbury's",
         "id": "b6a362af-02e4-488c-89b5-ab05bfbaa938",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1776550141,
         "date_posted": 1776550009,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057587",
@@ -297132,7 +297042,7 @@
         "company_name": "Sainsbury's",
         "id": "4a7718eb-333b-4d6f-8914-821fe3596f10",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1776550141,
         "date_posted": 1776550010,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057702",
@@ -298815,5 +298725,45 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Onto Innovation",
+        "id": "932cb426-78da-42bc-9645-dd1be47033b5",
+        "title": "Sales Data Analyst 1",
+        "active": true,
+        "date_updated": 1776505861,
+        "date_posted": 1776505806,
+        "url": "https://onto.wd1.myworkdayjobs.com/onto_careers/job/Milpitas-CA/Sales-Data-Analyst-1_R-4671",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Onto-Innovation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Miami",
+        "id": "cc8793ca-371b-4373-be08-d327828879d4",
+        "title": "Post Doctoral Associate",
+        "active": true,
+        "date_updated": 1776522241,
+        "date_posted": 1776522226,
+        "url": "https://umiami.wd1.myworkdayjobs.com/UMCareerStaff/job/Coral-Gables-FL/Post-Doctoral-Associate_R100089997",
+        "locations": [
+            "Coral Gables, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Miami",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "MD"
+        ]
     }
 ]
