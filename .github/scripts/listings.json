@@ -298687,5 +298687,23 @@
         "date_posted": 1776665945,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1776666108,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://job-boards.greenhouse.io/transmarketgroup/jobs/5111912007?gh_jid=5111912007",
+        "company_name": "TransMarket Group",
+        "title": "Junior Software Engineer",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "05be55c6-2c63-435c-8a78-0845e89d8a99",
+        "date_posted": 1776666108,
+        "company_url": "",
+        "is_visible": true
     }
 ]
