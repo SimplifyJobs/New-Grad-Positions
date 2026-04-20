@@ -1,26 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Ciena",
-        "id": "9140651d-f2e6-400d-ba0a-70c7f7c71031",
-        "title": "Optical Network Embedded Software Engineer \u2013 New Grad",
-        "active": false,
-        "date_updated": 1755908269,
-        "date_posted": 1755908269,
-        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Optical-Network-Embedded-Software-Engineer---New-Grad_R028715",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Ciena",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "SMX",
         "id": "6b23b60f-9363-461b-bbe4-6b34cb94b487",
@@ -258130,7 +258110,7 @@
         "company_name": "Smithfield Foods",
         "id": "3fa708f8-0bc9-414b-ac30-5e78572c2c1a",
         "title": "Associate R&D Technologist",
-        "active": false,
+        "active": true,
         "date_updated": 1774508140,
         "date_posted": 1774508140,
         "url": "https://smithfieldfoods.wd1.myworkdayjobs.com/Careers/job/Smithfield-VA/Associate-R-D-Technologist_R-2026-3114",
