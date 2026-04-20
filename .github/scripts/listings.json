@@ -292229,7 +292229,7 @@
         "company_name": "Northrop Grumman",
         "id": "fea8f619-d60b-42c4-8de4-f9235ef5daf4",
         "title": "Associate Systems Engineer / Systems Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1776323459,
         "date_posted": 1776323080,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Edwards-AFB/XMLNAME-2026-Associate-Systems-Engineer---Systems-Engineer_R10229750-1",
@@ -298806,5 +298806,25 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "7b909c9e-883c-46f0-8f77-76797ee3fe84",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1776676839,
+        "date_posted": 1776676664,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/XMLNAME-2026--Raytheon-Full-Time--Software-Engineer-I---Onsite-_01839123",
+        "locations": [
+            "Marlborough, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
