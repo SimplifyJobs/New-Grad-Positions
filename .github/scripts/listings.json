@@ -1,41 +1,5 @@
 [
     {
-        "date_updated": 1762271954,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [],
-        "url": "https://jobs.ashbyhq.com/zip/5f28357a-c95d-485a-84f9-feff64ce9fb3",
-        "company_name": "Zip",
-        "title": "Software Engineer",
-        "locations": [
-            "San Francisco, CA"
-        ],
-        "category": "Software Engineering",
-        "source": "unvibingcode",
-        "id": "573f981f-3318-4edf-9a8b-b5398fce3299",
-        "date_posted": 1755912096,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1760944337,
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "degrees": [],
-        "url": "https://jobs.apple.com/en-us/details/200615794-3956/accessibility-engineer-is-t-early-career",
-        "company_name": "Apple",
-        "title": "Accessibility Engineer, IS&T",
-        "locations": [
-            "Sunnyvale, CA"
-        ],
-        "category": "Software Engineering",
-        "source": "unvibingcode",
-        "id": "43c0929e-32b2-4d37-ad4e-8c0c6fec385b",
-        "date_posted": 1755912117,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "date_updated": 1756303771,
         "sponsorship": "Offers Sponsorship",
         "active": true,
@@ -298660,6 +298624,24 @@
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057784",
         "locations": [
             "York, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "2e1813ef-de1e-4a3d-9e7d-de6eb518f730",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1776647341,
+        "date_posted": 1776647216,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057789",
+        "locations": [
+            "Chesterfield, UK"
         ],
         "company_url": "https://simplify.jobs/c/Sainsburys",
         "is_visible": true,
