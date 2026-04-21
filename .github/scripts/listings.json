@@ -266596,7 +266596,7 @@
         "company_name": "Osaic",
         "id": "73742094-6ace-4fdb-b8a6-c19ed5e941df",
         "title": "Finance Business Intelligence Analyst 1",
-        "active": true,
+        "active": false,
         "date_updated": 1775004165,
         "date_posted": 1774994666,
         "url": "https://advisorgroup.wd1.myworkdayjobs.com/advisor_career_site/job/Scottsdale-AZ/Finance-Business-Intelligence-Analyst-I_R0004832",
@@ -270594,7 +270594,7 @@
         "company_name": "Microchip Technology",
         "id": "2153f272-5645-48b6-9a76-8034b34d9414",
         "title": "Engineer 1 - Analog IC - Product",
-        "active": false,
+        "active": true,
         "date_updated": 1775169142,
         "date_posted": 1775167742,
         "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/PA---Reading/Engineer-I-Product--Analog-IC-_R2448-25",
@@ -297987,7 +297987,7 @@
         "company_name": "Sainsbury's",
         "id": "9a88e7fe-4ba8-4efb-9f31-1aca06c51a30",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1776636541,
         "date_posted": 1776636389,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057784",
@@ -299966,5 +299966,44 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "f0d42242-bf6d-46d7-9fad-bfbc22365390",
+        "title": "Software Developer Engineer 1",
+        "active": true,
+        "date_updated": 1776734000,
+        "date_posted": 1776733757,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/XMLNAME-2026-Software-Developer-Engineer-I---Onsite_01839113",
+        "locations": [
+            "Tucson, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "AcuityMD",
+        "id": "965243dc-f0f0-4c79-9b26-39cab8571d71",
+        "title": "Data Program Associate",
+        "active": true,
+        "date_updated": 1776734159,
+        "date_posted": 1774477964,
+        "url": "https://job-boards.greenhouse.io/acuitymd/jobs/5819631004",
+        "locations": [
+            "Boston, MA",
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/AcuityMD",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
