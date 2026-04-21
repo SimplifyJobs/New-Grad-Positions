@@ -133504,7 +133504,7 @@
         "company_name": "The Boeing Company",
         "id": "2cdb25dd-7fc7-48c6-8f99-3ee8c0e74b5b",
         "title": "Atmospheric Scientist \u2013 Associate or Mid-Level",
-        "active": false,
+        "active": true,
         "date_updated": 1767916038,
         "date_posted": 1767916038,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Kirtland-AFB-NM/Atmospheric-Scientist--Associate-or-Mid-Level-_JR2026490878-1",
@@ -176730,7 +176730,7 @@
         "company_name": "Motorola",
         "id": "0aeed641-fd7a-4ba0-b7f0-86ad92c75cd3",
         "title": "Software Engineer 1 - Quality Assurance",
-        "active": true,
+        "active": false,
         "date_updated": 1770939625,
         "date_posted": 1770362899,
         "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Los-Angeles-CA/Software-Engineer-I---SQA_R61857",
@@ -293053,7 +293053,7 @@
         "company_name": "GrowthLoop",
         "id": "233b7246-dd1d-4bbe-8eeb-5deca6897ecf",
         "title": "Data Services Engineer - Strategic Projects",
-        "active": false,
+        "active": true,
         "date_updated": 1776378486,
         "date_posted": 1776377368,
         "url": "https://job-boards.greenhouse.io/growthloop/jobs/4684819005",
@@ -299225,7 +299225,7 @@
         "company_name": "Sainsbury's",
         "id": "23f353a9-7967-40ef-8f6b-7650b94bb1c4",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1776723481,
         "date_posted": 1776723303,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057916",
@@ -299847,6 +299847,124 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "1c783c06-4f54-4f7a-8027-57d7f4b7313e",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1776733561,
+        "date_posted": 1776733561,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057929",
+        "locations": [
+            "Letchworth Garden City, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cadence Design Systems",
+        "id": "bcd44aa0-9e5c-40f8-b0fc-78b0908707dd",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1776733992,
+        "date_posted": 1776733605,
+        "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Engineer-II_R50810-1",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Boeing Company",
+        "id": "749bba3d-f0f4-42b7-a97e-5db148093c70",
+        "title": "Java Software Engineer \u2013 Experienced or Senior - Associate - Bixby",
+        "active": true,
+        "date_updated": 1776733741,
+        "date_posted": 1776733727,
+        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seal-Beach-CA/Java-Software-Engineer--Associate--Experienced-or-Senior----Bixby_JR2026502912-1",
+        "locations": [
+            "Seal Beach, CA",
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Elevations Credit Union",
+        "id": "3a9f201f-4fd8-4cc0-bd1e-96d788c833da",
+        "title": "Associate Application Developer",
+        "active": true,
+        "date_updated": 1776734641,
+        "date_posted": 1776734225,
+        "url": "https://job-boards.greenhouse.io/elevationscreditunion/jobs/4687032005",
+        "locations": [
+            "Broomfield, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Elevations-Credit-Union",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Leidos",
+        "id": "2f3dad84-faec-4e00-bbee-282cfd2af350",
+        "title": "Electronics Technologist",
+        "active": true,
+        "date_updated": 1776733931,
+        "date_posted": 1776733737,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Lynnwood-WA/Electronics-Technologist_R-00181325",
+        "locations": [
+            "Lynnwood, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Southern California",
+        "id": "75c7638f-cf0d-41e0-940c-dc62a4a29426",
+        "title": "Database Analyst 1",
+        "active": true,
+        "date_updated": 1776733553,
+        "date_posted": 1776733285,
+        "url": "https://usc.wd5.myworkdayjobs.com/ExternalUSCCareers/job/Los-Angeles-CA---Health-Sciences-Campus/Database-Analyst-I_REQ20174331",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Southern-California",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
