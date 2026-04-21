@@ -254606,7 +254606,7 @@
         "company_name": "Flip",
         "id": "84616a04-7cdd-4592-8659-8e463a7da640",
         "title": "Product Insights Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1773785742,
         "date_posted": 1768435089,
         "url": "https://job-boards.greenhouse.io/flip/jobs/5070395008",
@@ -256843,7 +256843,7 @@
         "company_name": "Intel",
         "id": "fb2c9a6b-f168-4b98-9d52-baa82284b5e3",
         "title": "DARC Reporting and Data Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1774479825,
         "date_posted": 1774479825,
         "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/DARC-Reporting-and-Data-Analyst_JR0282368-1",
@@ -266676,7 +266676,7 @@
         "company_name": "TD Bank",
         "id": "c544b7a8-49f7-4021-a72c-6942ca18de03",
         "title": "Business Insights Analyst 1",
-        "active": false,
+        "active": true,
         "date_updated": 1775004772,
         "date_posted": 1774994874,
         "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Charlotte-North-Carolina/Business-Insights-Analyst-I--US-_R_1478697",
@@ -275232,7 +275232,7 @@
         "company_name": "Amazon",
         "id": "88845f33-458d-453b-8be2-07d74ab1ec8a",
         "title": "AI Data Associate - Portuguese - Artificial General Intelligence",
-        "active": true,
+        "active": false,
         "date_updated": 1775472121,
         "date_posted": 1775466189,
         "url": "https://amazon.jobs/en/jobs/10378500/ai-data-associate-portuguese-artificial-general-intelligence",
@@ -277555,7 +277555,7 @@
         "company_name": "Goldman Sachs",
         "id": "05dacdeb-375b-46e4-bd1b-fdbe4c87d6cd",
         "title": "Asset and Wealth Management - Software Engineer - Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1775601469,
         "date_posted": 1775599812,
         "url": "https://higher.gs.com/roles/166075",
@@ -285770,7 +285770,7 @@
         "company_name": "Sainsbury's",
         "id": "fd36cad7-e259-4959-a2f5-de6ad2bf1c29",
         "title": "Trading Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1776080169,
         "date_posted": 1776071059,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056995",
@@ -299169,7 +299169,7 @@
         "company_name": "Sainsbury's",
         "id": "839a31bd-70fe-495b-9354-eb6c7e7510ca",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1776723481,
         "date_posted": 1776723314,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057926",
@@ -300684,6 +300684,86 @@
             "El Segundo, CA"
         ],
         "company_url": "https://simplify.jobs/c/Booz-Allen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pfizer",
+        "id": "f062f839-26ca-48ee-91cf-491116f4749e",
+        "title": "Postdoctoral Fellow Generative AI for Antibody Drug Conjugate Discovery",
+        "active": true,
+        "date_updated": 1776781171,
+        "date_posted": 1776780750,
+        "url": "https://pfizer.wd1.myworkdayjobs.com/internaljobs/job/United-States---Washington--Bothell/Postdoctoral-Fellow-Generative-AI-for-Antibody-Drug-Conjugate-Discovery_4955427",
+        "locations": [
+            "Bothell, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pfizer",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jane Street",
+        "id": "d45ab101-255d-4a8e-b0ad-917ad0a1cc88",
+        "title": "Linux Engineer",
+        "active": true,
+        "date_updated": 1776780901,
+        "date_posted": 1776780831,
+        "url": "https://job-boards.greenhouse.io/janestreet/jobs/8061059002",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Jane-Street",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pfizer",
+        "id": "5aec1207-ae58-48b6-b2ac-b048c066c5a4",
+        "title": "Postdoctoral Fellow Generative AI for Antibody Drug Conjugate Discovery",
+        "active": true,
+        "date_updated": 1776781170,
+        "date_posted": 1776780742,
+        "url": "https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-States---Washington--Bothell/Postdoctoral-Fellow-Generative-AI-for-Antibody-Drug-Conjugate-Discovery_4955427-1",
+        "locations": [
+            "Bothell, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pfizer",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Cummins",
+        "id": "e4e55ff9-a0af-41dd-ba03-9f877e02cb04",
+        "title": "Product Engineering Specialist",
+        "active": true,
+        "date_updated": 1776780361,
+        "date_posted": 1776780262,
+        "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2425317",
+        "locations": [
+            "Daventry, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Cummins",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
