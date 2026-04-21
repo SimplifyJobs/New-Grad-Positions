@@ -234463,7 +234463,7 @@
         "company_name": "Nordstrom",
         "id": "d0033861-f008-4e42-a6fc-d7b9cf81c3c6",
         "title": "Data Scientist - Digital Data Science",
-        "active": true,
+        "active": false,
         "date_updated": 1773192254,
         "date_posted": 1773192254,
         "url": "https://nordstrom.wd501.myworkdayjobs.com/nordstrom_careers/job/Seattle-WA/Data-Scientist---Digital-Data-Science---Hybrid---Seattle--WA_R-821223",
@@ -300552,6 +300552,138 @@
             "St. Louis, MO"
         ],
         "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "The Boeing Company",
+        "id": "ed4ead02-55c9-440c-b352-63878d3e3631",
+        "title": "Audio Visual Programmer \u2013 Mid-Level or Senior",
+        "active": true,
+        "date_updated": 1776763261,
+        "date_posted": 1776763177,
+        "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Herndon-VA/Audio-Visual-Programmer--Associate--Mid-Level-or-Senior-_JR2026499471",
+        "locations": [
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "The Boeing Company",
+        "id": "7b288589-1f72-443e-bab9-c740b406bfa9",
+        "title": "Wire Installation Engineer",
+        "active": true,
+        "date_updated": 1776763261,
+        "date_posted": 1776763238,
+        "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Tukwila-WA/Wire-Installation-Engineer_JR2026500059",
+        "locations": [
+            "Tukwila, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Boeing Company",
+        "id": "0093d5e6-28fb-45a1-9312-5a92ae3b737a",
+        "title": "Full-Stack Software Engineer",
+        "active": true,
+        "date_updated": 1776763261,
+        "date_posted": 1776763207,
+        "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Chantilly-VA/Full-Stack-Software-Engineer--Associate-Experienced-_JR2026502050",
+        "locations": [
+            "Aurora, CO",
+            "Mesa, AZ",
+            "Chantilly, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Boeing Company",
+        "id": "b8d1fa15-13ac-40b6-83b6-5d9352c5b9f3",
+        "title": "Atmospheric Scientist \u2013 Associate or Mid-Level",
+        "active": true,
+        "date_updated": 1776763261,
+        "date_posted": 1776763124,
+        "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Kirtland-AFB-NM/Atmospheric-Scientist--Associate-or-Mid-Level-_JR2026490878",
+        "locations": [
+            "Albuquerque, NM"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Catapult",
+        "id": "09ecbd59-57e6-43c3-87e9-2c2d92f3bcb5",
+        "title": "Graduate Software Engineer",
+        "active": true,
+        "date_updated": 1776763793,
+        "date_posted": 1776763477,
+        "url": "https://job-boards.greenhouse.io/catapultsports/jobs/7821130",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/4f931141-5573-4422-b005-60fe4fff1293",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Booz Allen",
+        "id": "c960558c-e068-4284-85c9-8370c8e52745",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1776767401,
+        "date_posted": 1776522971,
+        "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Software-Engineer_R0237837",
+        "locations": [
+            "Annapolis Junction, MD",
+            "Colorado Springs, CO",
+            "Lexington, MA",
+            "Chantilly, VA",
+            "McLean, VA",
+            "Rome, NY",
+            "Beavercreek, OH",
+            "Huntsville, AL",
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Booz-Allen",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
