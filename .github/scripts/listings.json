@@ -142853,7 +142853,7 @@
         "company_name": "Aristocrat Leisure",
         "id": "7b918efe-26d6-4c78-9bc9-44a76750d2e4",
         "title": "Data Analyst - Finance",
-        "active": false,
+        "active": true,
         "date_updated": 1768520365,
         "date_posted": 1768520365,
         "url": "https://aristocrat.wd3.myworkdayjobs.com/aristocratexternalcareerssite/job/London-United-Kingdom/Data-Analyst---Finance_R0020491",
@@ -300331,6 +300331,128 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "The Boeing Company",
+        "id": "c806709b-2da0-4f47-905d-f2a017c35384",
+        "title": "Spacecraft Software Engineer",
+        "active": true,
+        "date_updated": 1776763371,
+        "date_posted": 1776763260,
+        "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---El-Segundo-CA/Spacecraft-Software-Engineer--Associate-or-Mid-Level---Millennium-Space-Systems_JR2026504289",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Boeing Company",
+        "id": "a00485f1-a861-4775-8240-82863db1d1d1",
+        "title": "Data Management Specialist",
+        "active": true,
+        "date_updated": 1776763261,
+        "date_posted": 1776763258,
+        "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/GBR---Brize-Norton-UK/Data-Management-Specialist--US-Citizen-required-_JR2026504665-1",
+        "locations": [
+            "Brize Norton, Carterton, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "The Boeing Company",
+        "id": "65b3f57a-acd4-4c2a-b15f-4e58dc9de499",
+        "title": "Missions Systems Software Engineer \u2013 Senior - Embedded",
+        "active": true,
+        "date_updated": 1776763261,
+        "date_posted": 1776763143,
+        "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Berkeley-MO/Missions-Systems-Software-Engineer---Embedded--Associate--Experienced--Senior-_JR2026494876-1",
+        "locations": [
+            "Hazelwood, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Boeing Company",
+        "id": "25d24986-a062-4be7-a726-1146dfd5f0b0",
+        "title": "Entry Level Product Data Management Specialist",
+        "active": true,
+        "date_updated": 1776763314,
+        "date_posted": 1776763187,
+        "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Mesa-AZ/Entry---Level-Product-Data-Management-Specialist_JR2026500606",
+        "locations": [
+            "Mesa, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "The Boeing Company",
+        "id": "925f47ff-1a05-4243-9ed7-5b097aaf6fdc",
+        "title": "Associate Software Engineer-Vehicle Management Systems",
+        "active": true,
+        "date_updated": 1776763261,
+        "date_posted": 1776763142,
+        "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Seal-Beach-CA/Associate-Software-Engineer-Vehicle-Management-Systems_JR2026498339",
+        "locations": [
+            "Seal Beach, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Montenson",
+        "id": "7e7d760d-e072-41bd-93dd-cd7313cb6e6e",
+        "title": "Engineer 2 - Data Center Application Engineer - Electrical",
+        "active": true,
+        "date_updated": 1776763116,
+        "date_posted": 1773709720,
+        "url": "https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/21584",
+        "locations": [
+            "Fargo, ND",
+            "San Antonio, TX",
+            "Minneapolis, MN",
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Montenson",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
