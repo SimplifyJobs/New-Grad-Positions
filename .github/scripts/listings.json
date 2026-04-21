@@ -147218,7 +147218,7 @@
         "company_name": "Invisible Technologies AI",
         "id": "b84e0329-1f91-422f-ae8f-44df7db7fd47",
         "title": "AI Generalist - Entry-Level - Freelance AI Trainer Project",
-        "active": true,
+        "active": false,
         "date_updated": 1768876017,
         "date_posted": 1768876017,
         "url": "https://job-boards.eu.greenhouse.io/agency/jobs/4754242101",
@@ -298389,7 +298389,7 @@
         "company_name": "Sainsbury's",
         "id": "68278b6c-eb67-4670-b160-fa33335d2b08",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1776694141,
         "date_posted": 1776693999,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057849",
@@ -300164,6 +300164,173 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "ae604612-3b5a-41b1-89d2-88598a0e958f",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1776762361,
+        "date_posted": 1776762290,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057950",
+        "locations": [
+            "Hereford, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "8fce50ec-f6d3-41de-91fc-92485c9a907f",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1776762361,
+        "date_posted": 1776762290,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057956",
+        "locations": [
+            "Stratford-upon-Avon, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "82a5d858-db89-4609-8c1f-9b13ec7b901e",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1776762361,
+        "date_posted": 1776762290,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057939",
+        "locations": [
+            "Warwick, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "a78fcbd2-96eb-4f62-b72f-fd0e8da136b4",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1776762361,
+        "date_posted": 1776762289,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057937",
+        "locations": [
+            "Glasgow, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "67d5ee10-baf1-4e27-b9fa-2e0575756efe",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1776762361,
+        "date_posted": 1776762289,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057931",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "4aca925c-e686-43e0-a5ab-fd371a5077cb",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1776762361,
+        "date_posted": 1776762292,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057958",
+        "locations": [
+            "Oxford, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "6f299513-b2d2-4574-bb59-52e1df59e5e8",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1776762361,
+        "date_posted": 1776762302,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057947",
+        "locations": [
+            "Hereford, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Ohio State University",
+        "id": "4efdb981-d3bd-4261-904f-6f3e74971195",
+        "title": "Post Doctoral Scholar - AI in Arts and Humanities - Department of Linguistics",
+        "active": true,
+        "date_updated": 1776762001,
+        "date_posted": 1776521223,
+        "url": "https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Columbus-Campus/Post-Doctoral-Scholar---AI-in-Arts-and-Humanities---Department-of-Linguistics_R148277-1",
+        "locations": [
+            "Columbus, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Ohio-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Micron Technology",
+        "id": "a11c272a-80b3-4cfa-a850-2d2afe0cfc16",
+        "title": "New College Graduate - Design Engineer",
+        "active": true,
+        "date_updated": 1776765285,
+        "date_posted": 1776523821,
+        "url": "https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Senior-Design-Engineer_JR92316",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Micron-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
