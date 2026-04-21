@@ -43828,7 +43828,7 @@
         "company_name": "Invisible Technologies",
         "id": "cf18fd63-0f07-49f6-8d31-8e9463ea0585",
         "title": "Japanese Speaker - AI Trainer",
-        "active": true,
+        "active": false,
         "date_updated": 1761894421,
         "date_posted": 1761723684,
         "url": "https://job-boards.eu.greenhouse.io/agency/jobs/4650952101",
@@ -79557,7 +79557,7 @@
         "company_name": "Stevens Capital Management",
         "id": "d323263b-f106-4f5c-900f-42a3c7a73a15",
         "title": "Quantitative Research Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1763767819,
         "date_posted": 1763767819,
         "url": "https://job-boards.greenhouse.io/ftandinternships/jobs/1304469",
@@ -214173,7 +214173,7 @@
         "company_name": "Jefferies",
         "id": "e4f9f6c0-ab64-45cb-acf4-9076c4899fe9",
         "title": "Software Developer - Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1772234125,
         "date_posted": 1772234125,
         "url": "https://hdid.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3852",
@@ -271590,7 +271590,7 @@
         "company_name": "Rolls-Royce",
         "id": "7e699949-a9ea-413c-b912-31dcebc25627",
         "title": "NDT Inspector Class C",
-        "active": true,
+        "active": false,
         "date_updated": 1775210254,
         "date_posted": 1771691013,
         "url": "https://rollsroyce.wd3.myworkdayjobs.com/professional/job/Montreal/Inspecteur-ND-classe-C---NDT-Inspector-C_JR6146605",
@@ -300516,6 +300516,46 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Boeing Company",
+        "id": "3b12bea1-df70-4adc-9971-e5eca8fbe56e",
+        "title": "Software Engineer-Secure Networks & Protocols",
+        "active": true,
+        "date_updated": 1776763261,
+        "date_posted": 1776763117,
+        "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Oklahoma-City-OK/Software-Engineer-Secure-Networks---Protocols--Associate-or-Experienced-_JR2026492009",
+        "locations": [
+            "Oklahoma City, OK"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "The Boeing Company",
+        "id": "06b2c448-1ac3-464e-8364-1dea3121ab06",
+        "title": "Nondestructive Test - NDT - UT & RT",
+        "active": true,
+        "date_updated": 1776763261,
+        "date_posted": 1776763256,
+        "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Berkeley-MO/Nondestructive-Test--NDT--Technician---UT---RT_JR2026504841",
+        "locations": [
+            "St. Louis, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
