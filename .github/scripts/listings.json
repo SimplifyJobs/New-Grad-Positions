@@ -145356,7 +145356,7 @@
         "company_name": "Invisible Technologies AI",
         "id": "ff37886d-5c12-4d69-a63e-4ab3d5539bd2",
         "title": "Entry-Level AI Generalist",
-        "active": false,
+        "active": true,
         "date_updated": 1768606152,
         "date_posted": 1768606152,
         "url": "https://job-boards.eu.greenhouse.io/agency/jobs/4758627101",
@@ -223916,7 +223916,7 @@
         "company_name": "Stryker",
         "id": "99ffeecb-8a1d-418c-98b1-14ae87e80bac",
         "title": "Associate Installation Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1772680387,
         "date_posted": 1772680387,
         "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Des-Moines-Iowa/Associate-Installation-Technician---Des-Moines--IA---Omaha--NE_R559950",
@@ -283139,7 +283139,7 @@
         "company_name": "Daimler Truck",
         "id": "e421fdda-8c4a-4f5e-820c-3e613cc0b91f",
         "title": "PVE Systems Integration Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1775861148,
         "date_posted": 1775858876,
         "url": "https://dtna.wd5.myworkdayjobs.com/dtna_affiliate/job/Portland-OR-US/PVE-Systems-Integration-Engineer-I_DT-17523-1",
@@ -295205,7 +295205,7 @@
         "company_name": "Sainsbury's",
         "id": "215a819e-1693-4ccb-83a7-5b8e659c16a1",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1776463741,
         "date_posted": 1776463631,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057586",
@@ -298619,7 +298619,7 @@
         "company_name": "Sainsbury's",
         "id": "348a03f6-2b12-4f7a-b8df-f734c3299a0c",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1776694141,
         "date_posted": 1776693999,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057851",
@@ -299207,7 +299207,7 @@
         "company_name": "Sainsbury's",
         "id": "298debbb-d3d8-4046-8d0d-bb1b6ba3325e",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1776723481,
         "date_posted": 1776723305,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057927",
@@ -300453,6 +300453,48 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Boeing Company",
+        "id": "89d50488-a591-4cbd-bd60-c37dad8708e1",
+        "title": "Java Software Engineer \u2013 Experienced or Senior - Associate - Bixby",
+        "active": true,
+        "date_updated": 1776763261,
+        "date_posted": 1776763112,
+        "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Seal-Beach-CA/Java-Software-Engineer--Associate--Experienced-or-Senior----Bixby_JR2026502912",
+        "locations": [
+            "Seal Beach, CA",
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Applied Materials",
+        "id": "f41272f9-0120-450f-abf0-a8d6cbd6d49d",
+        "title": "AI Algorithm Developer",
+        "active": true,
+        "date_updated": 1776768714,
+        "date_posted": 1776523223,
+        "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/AI-Algorithm-Developer_R2519827",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Materials",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
         ]
     }
 ]
