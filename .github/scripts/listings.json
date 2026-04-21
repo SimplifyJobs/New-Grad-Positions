@@ -219699,7 +219699,7 @@
         "company_name": "L3Harris Technologies",
         "id": "c77ff1b6-a8d5-47fa-8a34-94df407c38e0",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1772579742,
         "date_posted": 1772579742,
         "url": "https://jobs.l3harris.com/job/Anaheim-Associate,-Software-Engineer-CA-92805/1369797800/?ats=successfactors",
@@ -300495,6 +300495,27 @@
         "degrees": [
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "The Boeing Company",
+        "id": "898c549a-4c5e-4585-ba34-22f3aed8f855",
+        "title": "MP&P Engineer - Nondestructive Evaluation",
+        "active": true,
+        "date_updated": 1776763261,
+        "date_posted": 1776763188,
+        "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Mesa-AZ/MP-P-Engineer---NDE_JR2026497106",
+        "locations": [
+            "Mesa, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
