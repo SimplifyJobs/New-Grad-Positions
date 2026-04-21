@@ -25403,7 +25403,7 @@
         "company_name": "NVIDIA",
         "id": "cae9d19e-c04b-4cbc-be15-3f714451302d",
         "title": "CPU Design Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1762922435,
         "date_posted": 1762922435,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-OR-Hillsboro/CPU-Design-Engineer---New-College-Grad-2026_JR2007624",
@@ -227262,7 +227262,7 @@
         "company_name": "Twitch",
         "id": "47334172-2ae8-4a00-930d-d1da21e6a05a",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1772838834,
         "date_posted": 1772838834,
         "url": "https://job-boards.greenhouse.io/twitch/jobs/8447271002",
@@ -270594,7 +270594,7 @@
         "company_name": "Microchip Technology",
         "id": "2153f272-5645-48b6-9a76-8034b34d9414",
         "title": "Engineer 1 - Analog IC - Product",
-        "active": true,
+        "active": false,
         "date_updated": 1775169142,
         "date_posted": 1775167742,
         "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/PA---Reading/Engineer-I-Product--Analog-IC-_R2448-25",
@@ -299803,6 +299803,50 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Adobe",
+        "id": "f2fb106b-a72f-4666-8071-12a862f7527e",
+        "title": "University Graduate - Software Development Engineer",
+        "active": true,
+        "date_updated": 1776724942,
+        "date_posted": 1776723560,
+        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Software-Development-Engineer_R161172",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Adobe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CapTech Consulting",
+        "id": "e6c77b81-273e-4698-b298-1764b22fc7e8",
+        "title": "Software Engineering Associate Consultant",
+        "active": true,
+        "date_updated": 1776723301,
+        "date_posted": 1776723263,
+        "url": "https://jobs.smartrecruiters.com/CapTechConsulting/744000121831792",
+        "locations": [
+            "Richmond, VA",
+            "Charlotte, NC",
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/CapTech-Consulting",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
