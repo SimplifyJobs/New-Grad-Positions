@@ -39900,7 +39900,7 @@
         "company_name": "ByteDance",
         "id": "d2bee24c-fe5c-403b-9483-ec8f0548321b",
         "title": "Graduate Research Scientist - Multiple Teams",
-        "active": false,
+        "active": true,
         "date_updated": 1762920003,
         "date_posted": 1761902066,
         "url": "https://jobs.bytedance.com/en/position/7540109673547581703/detail",
@@ -255603,7 +255603,7 @@
         "company_name": "Xylem",
         "id": "41e2182c-6b75-42b4-a2c7-18ba63fd09e4",
         "title": "Engineer Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1773826722,
         "date_posted": 1772753616,
         "url": "https://xylem.wd5.myworkdayjobs.com/en-US/xylem-careers/job/Plymouth-Minnesota-Office/Engineer-Technician_R45770",
@@ -261803,7 +261803,7 @@
         "company_name": "Western Digital",
         "id": "264c2baf-a594-49a9-aace-e9a2b52b10fe",
         "title": "HDD Applications Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1774694300,
         "date_posted": 1774694300,
         "url": "https://jobs.smartrecruiters.com/WesternDigital/744000117397567",
@@ -280476,7 +280476,7 @@
         "company_name": "Shield AI",
         "id": "75cab248-40b1-4991-a3d4-87b57284f70b",
         "title": "EWIS Harness Design - Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1775745376,
         "date_posted": 1775743818,
         "url": "https://jobs.lever.co/shieldai/dc29adac-fe50-41c1-a466-71b7700626ba/apply",
@@ -288190,9 +288190,9 @@
         "source": "Simplify",
         "category": "Hardware",
         "company_name": "Western Digital",
-        "id": "3fd6b6de-4790-4661-91f1-6c0425f1a0c9",
+        "id": "c48bb690-9a46-4685-bc73-058fda913236",
         "title": "HDD Applications Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1776177913,
         "date_posted": 1776175415,
         "url": "https://jobs.smartrecruiters.com/WesternDigital/744000118958777",
@@ -300081,6 +300081,89 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Shield AI",
+        "id": "994496ce-b5a7-4e69-a9eb-b70c6f001308",
+        "title": "Senior Engineer - Autonomy - Tactical Behaviors",
+        "active": true,
+        "date_updated": 1776762541,
+        "date_posted": 1776762509,
+        "url": "https://jobs.lever.co/shieldai/1af75b70-43ff-457b-858b-2935e7c8983a/apply",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Shield-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Stryker",
+        "id": "58e40468-4128-4e05-992c-e239854aa0c2",
+        "title": "Associate Field Service Representative",
+        "active": true,
+        "date_updated": 1776762423,
+        "date_posted": 1776523176,
+        "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Vancouver-Canada/Associate-Field-Service-Representative--Vancouver_R562929",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Stryker",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "L3Harris Technologies",
+        "id": "da9ebba4-018d-46ea-9750-8427ff5812c4",
+        "title": "Associate \u2013 Software Engineer",
+        "active": true,
+        "date_updated": 1776762541,
+        "date_posted": 1775686195,
+        "url": "https://jobs.l3harris.com/job/Melbourne-Associate,-Software-Engineer-FL-32919/1374791300/?ats=successfactors",
+        "locations": [
+            "Melbourne, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Google",
+        "id": "74c382f0-abb0-4921-93d7-6f84913fd7ea",
+        "title": "Software Engineer 3 - Full Stack - Platforms and Devices",
+        "active": true,
+        "date_updated": 1776762775,
+        "date_posted": 1773871819,
+        "url": "https://www.google.com/about/careers/applications/jobs/results/132035196835766982",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Google",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     }
 ]
