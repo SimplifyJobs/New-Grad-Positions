@@ -61272,7 +61272,7 @@
         "company_name": "Analog Devices",
         "id": "9ca04179-8963-4ad2-90c3-64f1a843ed0d",
         "title": "Design Verification Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1756280321,
         "date_posted": 1756280321,
         "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Design-Verification-Engineer_R255047",
@@ -220162,7 +220162,7 @@
         "company_name": "JP Morgan Chase",
         "id": "8cac5932-e6a7-4349-9666-de79cb7ade50",
         "title": "Data Management Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1772580698,
         "date_posted": 1772580698,
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210719386",
@@ -237491,7 +237491,7 @@
         "company_name": "SentiLink",
         "id": "5486f8fc-e958-437b-934e-ad3295e9a178",
         "title": "Data Scientist \u2013 New Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1773382532,
         "date_posted": 1773382532,
         "url": "https://jobs.ashbyhq.com/sentilink/3cb2885e-7a58-4a14-94d5-b7b851053408/application",
@@ -245466,7 +245466,7 @@
         "company_name": "Formlabs",
         "id": "976b3eea-5efd-4881-9c0c-e0a3878127ef",
         "title": "3D Print Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1773873100,
         "date_posted": 1773873100,
         "url": "https://careers.formlabs.com/job/7733540/apply/?gh_jid=7733540",
@@ -245905,7 +245905,7 @@
         "company_name": "Formlabs",
         "id": "8d7b8e38-67a4-418a-bda8-10e57e461111",
         "title": "3D Print Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1773872393,
         "date_posted": 1773872393,
         "url": "https://careers.formlabs.com/job/7733491/apply/?gh_jid=7733491",
@@ -279204,7 +279204,7 @@
         "company_name": "Sainsbury's",
         "id": "b5d5e977-aed6-4017-961f-55d9a23a9cb3",
         "title": "Trading Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1775658961,
         "date_posted": 1775657248,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056517",
@@ -282941,7 +282941,7 @@
         "company_name": "Mondelez International",
         "id": "91245703-f6f2-4b38-bca8-9712c1cec4a5",
         "title": "Packaging Engineer 2 - Research and Development",
-        "active": true,
+        "active": false,
         "date_updated": 1775861639,
         "date_posted": 1775858859,
         "url": "https://wd3.myworkdaysite.com/recruiting/mdlz/External/job/Business-Unit-Head-Office---East-Hanover-USA/Packaging-Engineer-II---R-D_R-164552-1",
@@ -296947,7 +296947,7 @@
         "company_name": "Sainsbury's",
         "id": "90e8a4b5-bd8e-45e1-b245-fca99050a47a",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1776550141,
         "date_posted": 1776550009,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057701",
@@ -300208,7 +300208,7 @@
         "company_name": "Sainsbury's",
         "id": "82a5d858-db89-4609-8c1f-9b13ec7b901e",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1776762361,
         "date_posted": 1776762290,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057939",
@@ -300769,5 +300769,195 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "af0242ed-2168-4157-a67e-ee4dd7ce162c",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1776780541,
+        "date_posted": 1776780395,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400058023",
+        "locations": [
+            "Reading, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "JP Morgan Chase",
+        "id": "98a2f8f9-4540-4b97-98d4-019ccfd9ca5c",
+        "title": "Quant Model Risk Analyst/Associate - Equities",
+        "active": true,
+        "date_updated": 1776780541,
+        "date_posted": 1776780529,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210736677",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "75f8125c-7682-4eeb-a7fa-d09e9779cebf",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1776780541,
+        "date_posted": 1776780392,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057236",
+        "locations": [
+            "Ipswich, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "6ed93e91-b56e-4200-be6b-60d2ac79b388",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1776780541,
+        "date_posted": 1776780402,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400058031",
+        "locations": [
+            "Brighton, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "f3e4e2d2-083c-4994-926d-74bd0218c034",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1776780541,
+        "date_posted": 1776780393,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400058003",
+        "locations": [
+            "Kelso, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Robert Bosch Venture Capital",
+        "id": "75997427-8e44-42cc-9eb4-0da8a52c495c",
+        "title": "Product Management Specialist - Diablo Tools",
+        "active": true,
+        "date_updated": 1776780541,
+        "date_posted": 1776780413,
+        "url": "https://jobs.smartrecruiters.com/BoschGroup/744000122026477",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Bosch",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "L3Harris Technologies",
+        "id": "5f74e686-6810-4482-8f85-18b30012e11c",
+        "title": "Associate \u2013 Application Development",
+        "active": true,
+        "date_updated": 1776780721,
+        "date_posted": 1776780695,
+        "url": "https://jobs.l3harris.com/job/Greenville-Associate,-Application-Development-TX-75402/1384093800/?ats=successfactors",
+        "locations": [
+            "Greenville, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Fiserv",
+        "id": "c336bd56-5739-4ee2-a5b4-98e083bfb665",
+        "title": "Technical Business Analysis RPA Analyst Program 1",
+        "active": true,
+        "date_updated": 1776780902,
+        "date_posted": 1776780380,
+        "url": "https://fiserv.wd5.myworkdayjobs.com/ext/job/Coral-Springs-Florida/Technical-Business-Analysis-RPA-Analyst-Program-I_R-10381715",
+        "locations": [
+            "Coral Springs, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Fiserv",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "L3Harris Technologies",
+        "id": "33139a18-6ca9-490e-8cd8-b2c7c269afe4",
+        "title": "Associate \u2013 Application Development",
+        "active": true,
+        "date_updated": 1776780721,
+        "date_posted": 1776780694,
+        "url": "https://jobs.l3harris.com/job/Greenville-Associate,-Application-Development-TX-75402/1384102900/?ats=successfactors",
+        "locations": [
+            "Greenville, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Jabil",
+        "id": "5a027a74-c291-4806-937c-26e1b72784a1",
+        "title": "Diagnostic Technician 1",
+        "active": true,
+        "date_updated": 1776781217,
+        "date_posted": 1776780771,
+        "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Florence-KY/Diagnostic-Technician-I---401_J2447204",
+        "locations": [
+            "Florence, KY"
+        ],
+        "company_url": "https://simplify.jobs/c/Jabil",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
