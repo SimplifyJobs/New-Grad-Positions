@@ -266596,7 +266596,7 @@
         "company_name": "Osaic",
         "id": "73742094-6ace-4fdb-b8a6-c19ed5e941df",
         "title": "Finance Business Intelligence Analyst 1",
-        "active": false,
+        "active": true,
         "date_updated": 1775004165,
         "date_posted": 1774994666,
         "url": "https://advisorgroup.wd1.myworkdayjobs.com/advisor_career_site/job/Scottsdale-AZ/Finance-Business-Intelligence-Analyst-I_R0004832",
@@ -273078,7 +273078,7 @@
         "company_name": "Uber",
         "id": "2bdbeb10-61a2-4a61-ace1-2826c35b1deb",
         "title": "Graduate Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1775284169,
         "date_posted": 1775282808,
         "url": "https://www.uber.com/global/en/careers/list/158014/",
@@ -273099,7 +273099,7 @@
         "company_name": "Uber",
         "id": "8a232b83-5ddd-4876-81a0-72ebbe85473d",
         "title": "Graduate Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1775284561,
         "date_posted": 1775282808,
         "url": "https://www.uber.com/global/en/careers/list/158009/",
@@ -273123,7 +273123,7 @@
         "company_name": "Uber",
         "id": "99719cf7-1026-4771-b52b-e69f114fc2fd",
         "title": "Graduate Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1775284297,
         "date_posted": 1775282808,
         "url": "https://www.uber.com/global/en/careers/list/158011/",
@@ -299423,7 +299423,7 @@
         "company_name": "RTX",
         "id": "dbae3d40-a4fe-4453-acad-e537ba18ab41",
         "title": "Software Engineer 2",
-        "active": true,
+        "active": false,
         "date_updated": 1776724625,
         "date_posted": 1776723505,
         "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-106--400-Collins-Rd-NE--BLDG-106/Software-Engineer-II--Onsite-_01830547-1",
@@ -300005,5 +300005,82 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "ff8d933a-be8e-47cc-b180-53869a031d61",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1776751561,
+        "date_posted": 1776751552,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057933",
+        "locations": [
+            "Exeter, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Comcast",
+        "id": "c90bcf6d-ee84-4a35-a902-6d364f26978c",
+        "title": "Support Engineer",
+        "active": true,
+        "date_updated": 1776751741,
+        "date_posted": 1776751635,
+        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/NY---New-York-1407-Broadway-Floor-12/Support-Engineer---FreeWheel_R435446",
+        "locations": [
+            "Reston, VA",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Comcast",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "c1652b8d-2561-4dac-9497-cc94990868e6",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1776751741,
+        "date_posted": 1776751564,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057932",
+        "locations": [
+            "Gloucester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "9a531d9a-ec5c-48d0-8017-13d33985791c",
+        "title": "Radio Frequency Engineering Technician 1",
+        "active": true,
+        "date_updated": 1776751957,
+        "date_posted": 1776751704,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-842--1151-E-Hermans-Rd--BLDG-842/RF-Engineering-Technician-I_01836635",
+        "locations": [
+            "Tucson, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
