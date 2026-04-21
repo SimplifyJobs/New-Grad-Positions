@@ -222575,7 +222575,7 @@
         "company_name": "RTX",
         "id": "e92f7754-cc5e-47ef-bb0c-08cc5ee1bdb4",
         "title": "Software Engineer 2",
-        "active": false,
+        "active": true,
         "date_updated": 1772667178,
         "date_posted": 1772667178,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineer-II--Onsite-_01824725-1",
@@ -277614,7 +277614,7 @@
         "company_name": "GM financial",
         "id": "295552cf-62f8-43b8-93f0-3ceed854d125",
         "title": "Software Development Engineer 1 - React",
-        "active": false,
+        "active": true,
         "date_updated": 1775601354,
         "date_posted": 1775599648,
         "url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1901",
@@ -281819,7 +281819,7 @@
         "company_name": "Cotiviti",
         "id": "e94b5f4c-9717-4690-a086-f37e560bab9d",
         "title": "Associate Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1775775071,
         "date_posted": 1775772535,
         "url": "https://careers-cotiviti.icims.com/jobs/18785/job?mobile=true&needsRedirect=false",
@@ -285845,7 +285845,7 @@
         "company_name": "Sainsbury's",
         "id": "be6d6ad9-12cc-4277-87e4-7c5222b236ef",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1776080169,
         "date_posted": 1776071059,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056998",
@@ -294940,7 +294940,7 @@
         "company_name": "Charles Schwab",
         "id": "b58b611c-3a1d-40ae-889f-1e2adb279ee6",
         "title": "Associate Database Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1776464511,
         "date_posted": 1776463762,
         "url": "https://career-schwab.icims.com/jobs/121213/job?mobile=true&needsRedirect=false",
@@ -296851,7 +296851,7 @@
         "company_name": "Sainsbury's",
         "id": "e7a95087-80b7-4cd2-aae3-8afb144f03d0",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1776550141,
         "date_posted": 1776550011,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057725",
@@ -297915,7 +297915,7 @@
         "company_name": "Sainsbury's",
         "id": "b53035ef-4803-44b5-aba9-2bdee56e6ec8",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1776589561,
         "date_posted": 1776589429,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057736",
@@ -300959,5 +300959,304 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Danaher Corporation",
+        "id": "f4f1b4ba-000b-4a98-90ac-865cda3498f5",
+        "title": "Field Service Engineer",
+        "active": true,
+        "date_updated": 1776810061,
+        "date_posted": 1776809172,
+        "url": "https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/Philadelphia-Pennsylvania-United-States/Field-Service-Engineer---Philadelphia--PA--Surrounding-Areas-NJ-NY-PA-_R1309019",
+        "locations": [
+            "King of Prussia, PA",
+            "Philadelphia, PA",
+            "Allentown, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Danaher-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Qualified Health",
+        "id": "e4f15b16-bc54-4aca-8e75-4878da6e9bb9",
+        "title": "AI Associate - Internal Products",
+        "active": true,
+        "date_updated": 1776810061,
+        "date_posted": 1776809273,
+        "url": "https://job-boards.greenhouse.io/qualifiedhealth/jobs/5195714008",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Qualified-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "GTS",
+        "id": "de02a923-5ad5-47ba-a720-e0f744d9993a",
+        "title": "Risk Desk Associate - FX Market Making Team",
+        "active": true,
+        "date_updated": 1776810061,
+        "date_posted": 1776809274,
+        "url": "https://careers-gtsx.icims.com/jobs/1593/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/GTS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Hartford ",
+        "id": "cbaeefa8-3042-472f-a399-876c55db4f5b",
+        "title": "Associate Bus Data Analysis",
+        "active": true,
+        "date_updated": 1776810061,
+        "date_posted": 1776809198,
+        "url": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Associate-Bus-Data-Analysis_R2624560-1",
+        "locations": [
+            "Hartford, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/Hartford-Financial-Services",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "GTS",
+        "id": "610cdc9b-0cd3-49f3-b8c3-60fd4905d8db",
+        "title": "Risk Desk Associate - FX Market Making Team",
+        "active": true,
+        "date_updated": 1776810367,
+        "date_posted": 1776809274,
+        "url": "https://careers-gtsx.icims.com/jobs/1594/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/GTS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University System of New Hampshire",
+        "id": "cacb10ac-01e2-41d4-a0ff-230c23c674ea",
+        "title": "Research Assistant",
+        "active": true,
+        "date_updated": 1776809161,
+        "date_posted": 1776809066,
+        "url": "https://usnh.wd5.myworkdayjobs.com/Careers/job/University-of-New-Hampshire--Main-Campus/Research-Assistant_JR7534",
+        "locations": [
+            "Dover, NH"
+        ],
+        "company_url": "https://simplify.jobs/c/University-System-Of-New-Hampshire",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "0f8859d0-cd96-4b02-9ee0-b7e2b5cb6c54",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1776809161,
+        "date_posted": 1776809145,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400058094",
+        "locations": [
+            "Edinburgh, UK",
+            "Midlothian, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Raymond James Financial",
+        "id": "cb8bdd4f-04c3-4620-a9b7-263cef55c7ed",
+        "title": "Structured Investments Trading and Operations Analyst",
+        "active": true,
+        "date_updated": 1776809572,
+        "date_posted": 1776809137,
+        "url": "https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Saint-Petersburg-Florida---United-States/Structured-Investments-Trading---Operations-Analyst_R-0010711-1",
+        "locations": [
+            "St. Petersburg, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Raymond-James-Financial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Bank of Montreal",
+        "id": "e90a8965-94bb-4ee9-9f81-2b500c201159",
+        "title": "Credit Risk Data Analyst",
+        "active": true,
+        "date_updated": 1776809508,
+        "date_posted": 1776809086,
+        "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Credit-Risk-Data-Analyst---6-Month-Contract---New-or-Recent-Graduate-Opportunity_R260009235",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/BMO",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "8f8067cb-fa37-4adc-9878-ae7c72959169",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1776809161,
+        "date_posted": 1776809144,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400058082",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "82053e64-5db5-48a6-ac59-ddf78efac592",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1776809161,
+        "date_posted": 1776809144,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400058096",
+        "locations": [
+            "Withernsea, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Flextronics International",
+        "id": "5c4eeb42-1fe9-4955-8f7f-43755068accf",
+        "title": "Engineering Technician",
+        "active": true,
+        "date_updated": 1776809408,
+        "date_posted": 1776809111,
+        "url": "https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-TX-Austin/Engineering-Technician_WD218821",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Flextronics-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Peraton",
+        "id": "1a8d82fd-32d1-44e3-9b46-f1938c2189c8",
+        "title": "AI/ML Research Scientist",
+        "active": true,
+        "date_updated": 1776809161,
+        "date_posted": 1776809122,
+        "url": "https://careers-peraton.icims.com/jobs/166039/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Peraton",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Bank of Montreal",
+        "id": "0de1780e-72b1-4632-ad7d-c210ca66929e",
+        "title": "Credit Risk Data Analyst",
+        "active": true,
+        "date_updated": 1776809300,
+        "date_posted": 1776809029,
+        "url": "https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Credit-Risk-Data-Analyst---6-Month-Contract---New-or-Recent-Graduate-Opportunity_R260009235-1",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/BMO",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Dominion Energy",
+        "id": "0c058b20-b985-44a4-b3ce-b58b1028ceb3",
+        "title": "Business Technology Analyst",
+        "active": true,
+        "date_updated": 1776809161,
+        "date_posted": 1776809146,
+        "url": "https://careers.dominionenergy.com/job/RICHMOND-Business-Technology-Analyst-(I-III)-Richmond,-VA-VA-23219/1384240700/?ats=successfactors",
+        "locations": [
+            "Richmond, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Dominion-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
