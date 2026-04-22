@@ -6012,26 +6012,6 @@
         "is_visible": false
     },
     {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "GM financial",
-        "id": "7aced101-ae2c-4a84-bc43-e6596dde3bda",
-        "title": "Software Development Engineer I",
-        "active": false,
-        "date_updated": 1758117402,
-        "date_posted": 1756160310,
-        "url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/557",
-        "locations": [
-            "Arlington, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/GM-Financial",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "date_updated": 1762271799,
         "sponsorship": "Offers Sponsorship",
         "active": false,
@@ -6928,26 +6908,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "GM financial",
-        "id": "150396ee-b19c-450a-9b36-76e035cc0762",
-        "title": "Software Development Engineer 1 - GenAI",
-        "active": false,
-        "date_updated": 1758372101,
-        "date_posted": 1756160312,
-        "url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/759",
-        "locations": [
-            "Irving, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/GM-Financial",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
@@ -180738,7 +180698,7 @@
         "company_name": "KLA Corporation",
         "id": "a05c2ca2-9851-4f2a-9cf6-1b4b4dba45fe",
         "title": "Optical Metrology Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1770679507,
         "date_posted": 1765623756,
         "url": "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Manufacturing-Design-Engineer---Optics-Metrology_2531534",
@@ -202759,7 +202719,7 @@
         "company_name": "BlackRock",
         "id": "a85fe9f4-8464-4676-b652-c3e73615a4ec",
         "title": "Product Manager - Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1771862161,
         "date_posted": 1771862161,
         "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/London-Greater-London/Product-Manager--Associate-_R260931",
@@ -210534,7 +210494,7 @@
         "company_name": "M&T Bank",
         "id": "acc6adbb-8dac-4410-8ea4-61c13f1af6fe",
         "title": "Management Development Program - Business Banking - Product Management-Buffalo','NY",
-        "active": true,
+        "active": false,
         "date_updated": 1772119567,
         "date_posted": 1772119567,
         "url": "https://mtb.wd5.myworkdayjobs.com/Campus/job/Buffalo-NY/XMLNAME-2026-Management-Development-Program---Business-Banking--Product-Management--Buffalo--NY_R79326",
@@ -255017,7 +254977,7 @@
         "company_name": "Gartner",
         "id": "fe73fdc7-21d1-45d5-b1f4-e7d30dbe1161",
         "title": "Digital Product Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1774085873,
         "date_posted": 1774085873,
         "url": "https://gartner.wd5.myworkdayjobs.com/EXT/job/Irving-TX/Digital-Product-Analyst_106004",
@@ -301724,7 +301684,7 @@
         "company_name": "Esri",
         "id": "d17bf9a7-bb19-4613-b3a3-f7492609cdbc",
         "title": "Backend Engineer 1 - Data Pipelines",
-        "active": true,
+        "active": false,
         "date_updated": 1776820745,
         "date_posted": 1776820524,
         "url": "https://www.esri.com/careers/5070036007?gh_jid=5070036007",
@@ -302196,6 +302156,65 @@
             "Ames, IA"
         ],
         "company_url": "https://simplify.jobs/c/Iowa-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "JP Morgan Chase",
+        "id": "021d998b-4810-4dfb-b7a8-9ddcef06fbe1",
+        "title": "Control Manager - Markets Data Analytics",
+        "active": true,
+        "date_updated": 1776896117,
+        "date_posted": 1776895645,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210739077",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Goodwin",
+        "id": "b740b2dd-f707-47be-b5bb-585d0f02a4d5",
+        "title": "Associate AI Developer",
+        "active": true,
+        "date_updated": 1776895921,
+        "date_posted": 1776895537,
+        "url": "https://goodwinprocter.wd5.myworkdayjobs.com/en-US/External_Careers/job/San-Francisco/Associate-AI-Developer_R04198",
+        "locations": [
+            "SF",
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/8272f690-5cc8-48d6-8599-361c7a7026b0",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Louisiana State University (LSU)",
+        "id": "76ce786c-ada1-49be-98f9-91bc3db3251f",
+        "title": "WAE Analyst 1 - Data Processing",
+        "active": true,
+        "date_updated": 1776896439,
+        "date_posted": 1776895390,
+        "url": "https://lsu.wd1.myworkdayjobs.com/lsuwaiver/job/3151-Energy-Coast-and-Environment-Building/WAE---Analyst-1---Data-Processing_R00114451",
+        "locations": [
+            "Baton Rouge, LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Louisiana-State-University",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
