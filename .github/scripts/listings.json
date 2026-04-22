@@ -47825,7 +47825,7 @@
         "company_name": "University of Maryland - College Park",
         "id": "aca2cbca-71c0-435f-83b5-d07623be4c1a",
         "title": "ARLIS Artificial Intelligence Research Professional",
-        "active": true,
+        "active": false,
         "date_updated": 1760833192,
         "date_posted": 1760833192,
         "url": "https://umd.wd1.myworkdayjobs.com/UMCP/job/University-of-Maryland-College-Park/ARLIS-Artificial-Intelligence-Research-Professional_JR101775",
@@ -186904,7 +186904,7 @@
         "company_name": "mthree",
         "id": "65d1fcad-faa0-460b-84d6-bc84cff9511d",
         "title": "Junior Software Developer - London - Bournemouth",
-        "active": true,
+        "active": false,
         "date_updated": 1770939512,
         "date_posted": 1770939512,
         "url": "https://mthree.com/careers/job/?gh_jid=4654059006",
@@ -226300,7 +226300,7 @@
         "company_name": "Moog ",
         "id": "9b729f9b-fc1c-4ad8-89f7-fb53d2eab51f",
         "title": "Associate Development Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1772790409,
         "date_posted": 1772494382,
         "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Associate-Development-Engineer_R-26-16395-1",
@@ -302144,6 +302144,46 @@
             "Davenport, IA"
         ],
         "company_url": "https://simplify.jobs/c/Berkshire-Hathaway-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Osmo",
+        "id": "ee92740f-893e-4133-9e34-30e68947b5ba",
+        "title": "Senior Software Engineer",
+        "active": true,
+        "date_updated": 1776851887,
+        "date_posted": 1776723687,
+        "url": "https://jobs.ashbyhq.com/osmo/1e28ca2a-fb4b-4324-a08b-d5499c5cdf95/application",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Osmo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cadence Design Systems",
+        "id": "8830ec1a-2eba-4554-892e-b63e37c7da62",
+        "title": "C++ Software Engineer",
+        "active": true,
+        "date_updated": 1776849661,
+        "date_posted": 1776505436,
+        "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Engineer_R53008-1",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
