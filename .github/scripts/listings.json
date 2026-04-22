@@ -256983,7 +256983,7 @@
         "company_name": "Johnson & Johnson",
         "id": "69d83425-5a3d-4212-ab58-70c7fcdf371e",
         "title": "Postdoctoral Scientist Data Science AI/ML & DH",
-        "active": false,
+        "active": true,
         "date_updated": 1774479459,
         "date_posted": 1774479459,
         "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Beerse-Antwerp-Belgium/Postdoctoral-Scientist-Data-Science-AI-ML---DH_R-060722-1",
@@ -277614,7 +277614,7 @@
         "company_name": "GM financial",
         "id": "295552cf-62f8-43b8-93f0-3ceed854d125",
         "title": "Software Development Engineer 1 - React",
-        "active": true,
+        "active": false,
         "date_updated": 1775601354,
         "date_posted": 1775599648,
         "url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1901",
@@ -301896,6 +301896,146 @@
             "Harlow, UK"
         ],
         "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Latitude AI",
+        "id": "a486a144-028c-4fe3-aef1-270f86d67cca",
+        "title": "GIS Production Analyst - Contractor",
+        "active": true,
+        "date_updated": 1776820861,
+        "date_posted": 1776820843,
+        "url": "https://job-boards.greenhouse.io/latitude/jobs/7839701",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/LatitudeAI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Esri",
+        "id": "d17bf9a7-bb19-4613-b3a3-f7492609cdbc",
+        "title": "Backend Engineer 1 - Data Pipelines",
+        "active": true,
+        "date_updated": 1776820745,
+        "date_posted": 1776820524,
+        "url": "https://www.esri.com/careers/5070036007?gh_jid=5070036007",
+        "locations": [
+            "West Redlands, Redlands, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Esri",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Johnson & Johnson",
+        "id": "28729fe5-5a9a-4375-bf42-228fe34e4f0e",
+        "title": "Postdoctoral Scientist Data Science AI/ML & DH",
+        "active": true,
+        "date_updated": 1776820141,
+        "date_posted": 1776820106,
+        "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Neuss-North-Rhine-Westphalia-Germany/Postdoctoral-Scientist-Data-Science-AI-ML---DH_R-071295-1",
+        "locations": [
+            "Cambridge, MA",
+            "New Hope, PA",
+            "Ambler, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Johnson-Johnson",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "General Dynamics UK",
+        "id": "0cb87be4-1d0e-4286-8ec5-05a3363b04c4",
+        "title": "Electronics Technologist",
+        "active": true,
+        "date_updated": 1776820141,
+        "date_posted": 1776819977,
+        "url": "https://jobs.smartrecruiters.com/GDMSI/744000122136405",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-UK",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "University of Southern California",
+        "id": "01765e96-3dd7-43fa-a156-c7b5c4a227c6",
+        "title": "Digital Fabrication Technician",
+        "active": true,
+        "date_updated": 1776819781,
+        "date_posted": 1776819683,
+        "url": "https://usc.wd5.myworkdayjobs.com/ExternalUSCCareers/job/Los-Angeles-CA---University-Park-Campus/Digital-Fabrication-Technician_REQ20174326",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Southern-California",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CACI",
+        "id": "16a142ae-9a5d-4259-a91b-ae46a304b222",
+        "title": "IT Data Specialist \u2013 Entry Level",
+        "active": true,
+        "date_updated": 1776820141,
+        "date_posted": 1776820054,
+        "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-DC-Washington/IT-Data-Specialist---Entry-Level_325192",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "JND",
+        "id": "4d21aedd-bf74-4ff6-9f99-b554b35a08ce",
+        "title": "Data Analyst 1 - Logistics Risk Analyst",
+        "active": true,
+        "date_updated": 1776821041,
+        "date_posted": 1775092093,
+        "url": "https://jnd-inc.breezy.hr/p/1759aba05044/apply",
+        "locations": [
+            "Orange, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/JND",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
