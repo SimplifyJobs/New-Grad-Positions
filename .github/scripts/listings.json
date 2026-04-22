@@ -279651,7 +279651,7 @@
         "company_name": "Nordstrom",
         "id": "6a967213-7701-45d0-a560-2eaa2bcc3e70",
         "title": "Associate Designer - Women's Apparel - Nordstrom Label",
-        "active": true,
+        "active": false,
         "date_updated": 1775690022,
         "date_posted": 1775686230,
         "url": "https://nordstrom.wd501.myworkdayjobs.com/nordstrom_careers/job/Seattle-WA/Assoc-Designer--Women-s-Apparel--Nordstrom-Label_R-827450",
@@ -286561,7 +286561,7 @@
         "company_name": "CDW Corporation",
         "id": "6b113274-3cb5-45ac-98f6-a0c60391cf05",
         "title": "Software Engineer 1 - Backend",
-        "active": true,
+        "active": false,
         "date_updated": 1776120444,
         "date_posted": 1776117988,
         "url": "https://cdw.wd5.myworkdayjobs.com/careers/job/Virtual---Illinois/Software-Engineer-I---Backend_R26_00001466",
@@ -297068,7 +297068,7 @@
         "company_name": "Johnson & Johnson",
         "id": "a993c9fa-c935-4d16-91df-f7c2fe6410c7",
         "title": "Research and Development Leadership Development Program - Rdldp - 2026 Full-Time PhD",
-        "active": true,
+        "active": false,
         "date_updated": 1776523142,
         "date_posted": 1776523042,
         "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Santa-Clara-California-United-States-of-America/Research-and-Development-Leadership-Development-Program--RDLDP---2026-Full-Time-PhD_R-051292",
@@ -302046,5 +302046,43 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Vishay Intertechnology",
+        "id": "6b2ace10-68a9-45ae-a2f7-1df4d9eb1094",
+        "title": "Associate Engineer",
+        "active": true,
+        "date_updated": 1776848581,
+        "date_posted": 1776522017,
+        "url": "https://vishay.wd3.myworkdayjobs.com/VishayCareers/job/Marshall-MN/Associate-Engineer_JR-14225",
+        "locations": [
+            "Marshall, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Vishay-Intertechnology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Ekho",
+        "id": "87a1e957-52f8-454d-a246-892773aa65ff",
+        "title": "Forward Deployed Engineer",
+        "active": true,
+        "date_updated": 1776849121,
+        "date_posted": 1773440814,
+        "url": "https://jobs.ashbyhq.com/Ekho/c328cbe8-6d54-4e55-858b-5f2f2845ee1e/application",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Ekho",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
