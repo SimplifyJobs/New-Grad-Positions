@@ -266747,7 +266747,7 @@
         "company_name": "TikTok",
         "id": "fece5fd6-9c42-4deb-bdfa-b8b637288448",
         "title": "Product Manager Graduate - TikTok Product Product Infrastructure",
-        "active": true,
+        "active": false,
         "date_updated": 1775006101,
         "date_posted": 1775006017,
         "url": "https://lifeattiktok.com/search/7533248755841485063",
@@ -283298,7 +283298,7 @@
         "company_name": "NewDay",
         "id": "e24f777c-3b1d-40ef-b265-20c6834dbf6e",
         "title": "Full Stack Developer - PHP & React",
-        "active": true,
+        "active": false,
         "date_updated": 1775860212,
         "date_posted": 1775858672,
         "url": "https://newday.wd3.myworkdayjobs.com/NewDay/job/Bournemouth/Junior-Developer---PHP---REACT-_JR0548",
@@ -302120,6 +302120,30 @@
             "Gilbert, AZ"
         ],
         "company_url": "https://simplify.jobs/c/BTI-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Berkshire Hathaway Energy",
+        "id": "f0865c39-c2d0-4de6-9758-7218853be989",
+        "title": "Software Engineer 1 Intern",
+        "active": true,
+        "date_updated": 1776851906,
+        "date_posted": 1775052369,
+        "url": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10004645",
+        "locations": [
+            "Des Moines, IA",
+            "Richmond, VA",
+            "Reno, NV",
+            "Sioux City, IA",
+            "Davenport, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/Berkshire-Hathaway-Energy",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
