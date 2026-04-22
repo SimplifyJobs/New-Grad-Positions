@@ -1,60 +1,5 @@
 [
     {
-        "date_updated": 1756303771,
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "degrees": [],
-        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-System-Engineer---New-College-Grad-2025_JR2001318",
-        "company_name": "NVIDIA",
-        "title": "AI System Engineer",
-        "locations": [
-            "Santa Clara, CA",
-            "Redmond, WA"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "AlmondCroffle",
-        "id": "414c6571-d06d-44e7-948c-4c5de3852a0d",
-        "date_posted": 1756110970,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1756942893,
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "degrees": [],
-        "url": "https://job-boards.greenhouse.io/lucidsoftware/jobs/5628852004",
-        "company_name": "Lucid Software",
-        "title": "Junior Frontend Engineer, airfocus",
-        "locations": [
-            "Hamburg, DE"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "1c05e666-373c-4781-beed-494338a2489e",
-        "date_posted": 1756111175,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1764679827,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [],
-        "url": "https://jobs.lever.co/life/99fdfce1-f0d6-48f8-8ad8-b22b4d6561bf",
-        "company_name": "YouVersion",
-        "title": "Associate Software Engineer",
-        "locations": [
-            "Edmond, OK"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "4d488c7c-f9ed-4332-9ead-14752708070d",
-        "date_posted": 1756111332,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "source": "Simplify",
         "category": "Software",
         "company_name": "RTX",
@@ -211697,7 +211642,7 @@
         "company_name": "Connection",
         "id": "0eca49b9-0851-4500-ad80-94a7d07e4e0b",
         "title": "Product Data Editor - Product Data",
-        "active": true,
+        "active": false,
         "date_updated": 1772147202,
         "date_posted": 1772147202,
         "url": "https://careers-connection.icims.com/jobs/10118/job?mobile=true&needsRedirect=false",
@@ -300850,7 +300795,7 @@
         "company_name": "Robert Bosch Venture Capital",
         "id": "75997427-8e44-42cc-9eb4-0da8a52c495c",
         "title": "Product Management Specialist - Diablo Tools",
-        "active": true,
+        "active": false,
         "date_updated": 1776780541,
         "date_posted": 1776780413,
         "url": "https://jobs.smartrecruiters.com/BoschGroup/744000122026477",
@@ -302080,6 +302025,26 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cadence Design Systems",
+        "id": "5557ca5c-dd8c-4a30-b165-0900c9504d64",
+        "title": "C++ Software Engineer",
+        "active": true,
+        "date_updated": 1776847861,
+        "date_posted": 1776521641,
+        "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Software-Engineer_R53008",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
