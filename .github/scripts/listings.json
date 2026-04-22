@@ -61686,26 +61686,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Subaru",
-        "id": "ab1a861a-582f-4679-9bd9-7897526f3471",
-        "title": "Software Engineer",
-        "active": false,
-        "date_updated": 1756131554,
-        "date_posted": 1756131554,
-        "url": "https://hcal.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2016",
-        "locations": [
-            "Van Buren Charter Township, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/Subaru",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Zip",
         "id": "af48c984-7c8e-49fb-9b63-40f5caf65648",
         "title": "Software Engineer - Identity",
@@ -163216,7 +163196,7 @@
         "company_name": "Wells Fargo",
         "id": "2828a338-7d68-4008-8984-a482bb96eff6",
         "title": "Engineering Associate - Middleware Operations",
-        "active": false,
+        "active": true,
         "date_updated": 1769730921,
         "date_posted": 1769730921,
         "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/MINNEAPOLIS-MN/Engineering-Associate---Middleware-Operations_R-518252",
@@ -278067,7 +278047,7 @@
         "company_name": "Huntington Bancshares",
         "id": "83210e44-5c5c-4f7f-9404-79fbb2b805a4",
         "title": "Programmer/Analyst 2",
-        "active": false,
+        "active": true,
         "date_updated": 1775604601,
         "date_posted": 1775599564,
         "url": "https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Programmer-Analyst-2_R0071108",
@@ -287788,7 +287768,7 @@
         "company_name": "Vanderbilt Health",
         "id": "b92b5ac0-bddc-4691-9f43-f1526dd72263",
         "title": "Business Intelligence Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1776148388,
         "date_posted": 1776146816,
         "url": "https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Business-Intelligence-Analyst--Remote-_R-57595-1",
@@ -299399,7 +299379,7 @@
         "company_name": "Corewell Health",
         "id": "850f6faf-133e-4e2f-aecf-5b11fe131f99",
         "title": "Analyst \u2013 Application Development Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1776725281,
         "date_posted": 1776723734,
         "url": "https://spectrumhealth.wd5.myworkdayjobs.com/CorewellHealthCareers/job/Fort-Wayne-IN/A039_R211611",
@@ -302166,6 +302146,68 @@
             "San Jose, CA"
         ],
         "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Intel",
+        "id": "f620bfdc-56c0-4a22-a3bb-b3640b5b1fd8",
+        "title": "Atom CPU Architecture Engineer",
+        "active": true,
+        "date_updated": 1776867110,
+        "date_posted": 1776866790,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Texas-Austin/Atom-CPU-Architecture-Engineer_JR0282747",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Boeing Company",
+        "id": "884a26c6-6036-4d65-8dc8-dd004fcf14f5",
+        "title": "Software Engineer \u2013 Experienced or Senior - DevSecOps",
+        "active": true,
+        "date_updated": 1776866941,
+        "date_posted": 1776866816,
+        "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Seattle-WA/Software-Engineer---DevSecOps--Associate--Experienced-or-Senior-_JR2026506945-2",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ING",
+        "id": "e81c9ad3-9d72-4619-ab89-ea509846cd76",
+        "title": "Graduate - Technology",
+        "active": true,
+        "date_updated": 1776867059,
+        "date_posted": 1776866902,
+        "url": "https://ing.wd3.myworkdayjobs.com/icsgblcor/job/London/ING-Graduate---Technology_REQ-10108003-1",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/ING",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
