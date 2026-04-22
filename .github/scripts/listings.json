@@ -236962,7 +236962,7 @@
         "company_name": "Genuine Parts Company",
         "id": "c649691d-feec-49b4-ac5d-10a40947c3a4",
         "title": "PIM Data Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1773357152,
         "date_posted": 1773357152,
         "url": "https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/PIM-Data-Analyst_R26_0000004892",
@@ -302060,6 +302060,26 @@
         "sponsorship": "Other",
         "degrees": [
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Texas at Austin",
+        "id": "8ef14bc1-dc0d-4382-a505-75a002f977ba",
+        "title": "Seismology Postdoctoral Fellow",
+        "active": true,
+        "date_updated": 1776505861,
+        "date_posted": 1776505687,
+        "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/PICKLE-RESEARCH-CAMPUS/Seismology-Postdoctoral-Fellow_R_00028107",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Texas-Austin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
         ]
     }
 ]
