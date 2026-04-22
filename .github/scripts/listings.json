@@ -33917,7 +33917,7 @@
         "company_name": "Emerson Electric",
         "id": "6e201acf-18aa-4c04-98ff-d9db8b96a018",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1762274090,
         "date_posted": 1762274090,
         "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25027917",
@@ -271844,7 +271844,7 @@
         "company_name": "American Express",
         "id": "7335108a-6049-4b52-a7f8-c127ced26c5f",
         "title": "Associate-Digital Product Management",
-        "active": true,
+        "active": false,
         "date_updated": 1775226421,
         "date_posted": 1775225399,
         "url": "https://aexp.eightfold.ai/careers/job/41139501",
@@ -290689,7 +290689,7 @@
         "company_name": "HNTB",
         "id": "835784ff-4fd5-40bd-a6ac-1276371a5a7a",
         "title": "Software Engineer 1 - Power Apps Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1776295497,
         "date_posted": 1776290968,
         "url": "https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Chicago-IL/Software-Engineer-I---Power-Apps-Developer_R-29868-1",
@@ -293277,7 +293277,7 @@
         "company_name": "Latitude AI",
         "id": "0584e6a7-d516-4ea0-a3eb-1e2b20afd7d8",
         "title": "GIS Production Analyst - Contractor",
-        "active": true,
+        "active": false,
         "date_updated": 1776378961,
         "date_posted": 1776378140,
         "url": "https://job-boards.greenhouse.io/latitude/jobs/7821710",
@@ -302040,6 +302040,44 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "qode.world",
+        "id": "e484294a-39a5-4521-8626-1eb4d9a8614e",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1776820280,
+        "date_posted": 1776820122,
+        "url": "https://apply.workable.com/qodeworld/j/E6E64CE2FC/apply",
+        "locations": [
+            "Livingston, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Qode-World",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "qode.world",
+        "id": "b1298b09-5441-4fc3-b603-cd80d0a889d1",
+        "title": "Associate Data Scientist",
+        "active": true,
+        "date_updated": 1776820141,
+        "date_posted": 1776820122,
+        "url": "https://apply.workable.com/qodeworld/j/F0125B8AA5/apply",
+        "locations": [
+            "Livingston, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Qode-World",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
         ]
     }
 ]
