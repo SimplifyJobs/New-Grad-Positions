@@ -61814,24 +61814,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "University of Texas - Austin",
-        "id": "8ef14bc1-dc0d-4382-a505-75a002f977ba",
-        "title": "Seismology Postdoctoral Fellow",
-        "active": true,
-        "date_updated": 1756102012,
-        "date_posted": 1756102012,
-        "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/PICKLE-RESEARCH-CAMPUS/Seismology-Postdoctoral-Fellow_R_00028107",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/University-Of-Texas-Austin",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "NCR Voyix",
         "id": "987bcf77-27ad-4307-9da0-2b309e715957",
@@ -271513,7 +271495,7 @@
         "company_name": "Stryker",
         "id": "e2f7235b-7610-405a-86f9-b77cba2b2c2d",
         "title": "Associate Installation Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1775208601,
         "date_posted": 1772667992,
         "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Tampa-Florida/Associate-Installation-Technician---Tampa--FL_R561340",
@@ -277902,7 +277884,7 @@
         "company_name": "WEC Energy Group",
         "id": "ed7f11b8-1c7c-4971-9b9e-afc64d2284a1",
         "title": "Gas System Associate Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1775602621,
         "date_posted": 1775599745,
         "url": "https://careers.wecenergygroup.com/Wisconsin_Public_Service/job/Green-Bay-Gas-System-Associate-Analyst-WI-54307-9001/1380058900/?ats=successfactors",
