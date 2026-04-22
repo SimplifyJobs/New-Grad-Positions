@@ -266565,7 +266565,7 @@
         "company_name": "TD Bank",
         "id": "c544b7a8-49f7-4021-a72c-6942ca18de03",
         "title": "Business Insights Analyst 1",
-        "active": true,
+        "active": false,
         "date_updated": 1775004772,
         "date_posted": 1774994874,
         "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Charlotte-North-Carolina/Business-Insights-Analyst-I--US-_R_1478697",
@@ -271713,7 +271713,7 @@
         "company_name": "Atos",
         "id": "86a3dbd1-2847-4a14-8d48-af6e48facf09",
         "title": "Graduate Data & AI Resource",
-        "active": false,
+        "active": true,
         "date_updated": 1775226748,
         "date_posted": 1775225214,
         "url": "https://jobs.atos.net/job/London-Graduate-D&AI-Resource/1380728433/?ats=successfactors",
@@ -290291,7 +290291,7 @@
         "company_name": "Meijer",
         "id": "85583f01-35fb-462a-a63d-ed825c4fddc9",
         "title": "Analyst 1 - Pricing Data",
-        "active": true,
+        "active": false,
         "date_updated": 1776294692,
         "date_posted": 1776290894,
         "url": "https://meijer.wd5.myworkdayjobs.com/en-US/Meijer/job/Grand-Rapids-MI/Analyst--Pricing-Data-I_R000660406",
@@ -295851,7 +295851,7 @@
         "company_name": "Argonne National Laboratory",
         "id": "c7cd6677-53a2-4f79-9a97-66ae02bcc06f",
         "title": "Postdoctoral Appointee",
-        "active": true,
+        "active": false,
         "date_updated": 1776523321,
         "date_posted": 1776523275,
         "url": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---Artificial-Intelligence-Applied-to-Battery-Diagnosis-and-Prognosis_421300",
@@ -302208,6 +302208,87 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/ING",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Leidos",
+        "id": "b2af94e3-0505-4f3a-932e-a3a67f89f858",
+        "title": "Junior Software Engineer",
+        "active": true,
+        "date_updated": 1776867332,
+        "date_posted": 1776867117,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Gaithersburg-MD/Jr-Software-Engineer_R-00181428",
+        "locations": [
+            "Gaithersburg, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Microsoft",
+        "id": "e460e7b9-d48a-46b1-9136-994b4676adee",
+        "title": "Software Engineer Foundry Agent",
+        "active": true,
+        "date_updated": 1776867219,
+        "date_posted": 1776866810,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556858394",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Microsoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Groupon",
+        "id": "977e9e4c-669d-4c80-a8c9-433e0d4fd933",
+        "title": "AI-Powered Growth Intelligence Associate",
+        "active": true,
+        "date_updated": 1776867301,
+        "date_posted": 1776867172,
+        "url": "https://job-boards.eu.greenhouse.io/groupon/jobs/4847419101",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Groupon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Iowa State University",
+        "id": "3d613e98-d9c3-423f-bf07-f884c2c3bd95",
+        "title": "Software Developer 1",
+        "active": true,
+        "date_updated": 1776867019,
+        "date_posted": 1776866617,
+        "url": "https://isu.wd1.myworkdayjobs.com/IowaStateJobs/job/Ames-IA/Software-Developer-I_R18979",
+        "locations": [
+            "Ames, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/Iowa-State-University",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
