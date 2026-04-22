@@ -268062,7 +268062,7 @@
         "company_name": "Fortinet",
         "id": "e78c4335-933f-4f16-93a1-18e9dc5fb4c1",
         "title": "Applied AI Engineer \u2013 PhD New Graduate - AI Agent",
-        "active": true,
+        "active": false,
         "date_updated": 1775037618,
         "date_posted": 1770851900,
         "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22124",
@@ -286462,7 +286462,7 @@
         "company_name": "CDW Corporation",
         "id": "98967d05-776c-4468-85a2-a80f4b07d8e5",
         "title": "Software Engineer 1 - Frontend",
-        "active": true,
+        "active": false,
         "date_updated": 1776120579,
         "date_posted": 1776117988,
         "url": "https://cdw.wd5.myworkdayjobs.com/careers/job/Virtual---Illinois/Software-Engineer-I---Frontend_R26_00001465",
@@ -292458,7 +292458,7 @@
         "company_name": "Nucor",
         "id": "c0a475ee-0277-41bd-a7ba-58b8ae900cec",
         "title": "Tensile Lab Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1776377161,
         "date_posted": 1776377125,
         "url": "https://jobs.nucor.com/job/Darlington-Tensile-Lab-Technician-SC-29540/1382953900/?ats=successfactors",
@@ -302084,5 +302084,46 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Smith+Nephew",
+        "id": "b9a0a2bb-b8cf-4eb9-9d24-b2824c6e1a1d",
+        "title": "Associate Product Manager - Platform AI",
+        "active": true,
+        "date_updated": 1776851101,
+        "date_posted": 1776521684,
+        "url": "https://smithnephew.wd5.myworkdayjobs.com/External/job/Pittsburgh-PA/Senior-Marketing-Manager--Global-Platform-Robotics--Pittsburgh--PA-_R86564",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Smith-Nephew",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "MBA"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "BTI Solutions",
+        "id": "bf6c5564-ad15-41e7-ab90-9a7e4921b260",
+        "title": "Korean Bilingual AMR Engineer TL",
+        "active": true,
+        "date_updated": 1776851339,
+        "date_posted": 1775081386,
+        "url": "https://btisolutions.wd12.myworkdayjobs.com/External/job/Queen-Creek-AZ/Korean-Bilingual-Mechanical-Engineer----TL----Queen-Creek----AZ_JR101583-1",
+        "locations": [
+            "Gilbert, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/BTI-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
