@@ -1,24 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Zip",
-        "id": "dfa5649f-b93b-4899-9937-bcb6eb20f1b9",
-        "title": "Software Engineer \u2013 New Grad - 2026 Start",
-        "active": false,
-        "date_updated": 1756202208,
-        "date_posted": 1756141964,
-        "url": "https://jobs.ashbyhq.com/zip/5f28357a-c95d-485a-84f9-feff64ce9fb3/application",
-        "locations": [
-            "San Francisco, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Zip",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "TD Bank",
         "id": "9115f734-88d4-44df-9b89-12ea688c74b6",
@@ -247188,7 +247170,7 @@
         "company_name": "Papa John's",
         "id": "12a3ceb5-4dc4-49e9-8bd9-05c0fd928f33",
         "title": "Associate Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773960816,
         "date_posted": 1773960816,
         "url": "https://papajohns.wd1.myworkdayjobs.com/papajohnscareers/job/HQ_Louisville/Associate-Engineer_R26_0000001618",
@@ -257913,7 +257895,7 @@
         "company_name": "Greenlight",
         "id": "022446fb-8bc1-4fbf-b0a6-49a38095524e",
         "title": "Associate Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1774563594,
         "date_posted": 1774563594,
         "url": "https://jobs.lever.co/greenlight/beded9c4-6acf-4fcc-8aa9-8870555d2bfb/apply",
@@ -301840,7 +301822,7 @@
         "company_name": "CACI",
         "id": "16a142ae-9a5d-4259-a91b-ae46a304b222",
         "title": "IT Data Specialist \u2013 Entry Level",
-        "active": true,
+        "active": false,
         "date_updated": 1776820141,
         "date_posted": 1776820054,
         "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-DC-Washington/IT-Data-Specialist---Entry-Level_325192",
