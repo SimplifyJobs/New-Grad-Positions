@@ -39270,7 +39270,7 @@
         "company_name": "TikTok",
         "id": "d7a737ee-392f-4ed2-97f3-7b7b61ebefd5",
         "title": "Graduate Software Engineer - Experimentation and Evaluation",
-        "active": false,
+        "active": true,
         "date_updated": 1762929043,
         "date_posted": 1761902290,
         "url": "https://lifeattiktok.com/search/7533278507406182674",
@@ -291297,7 +291297,7 @@
         "company_name": "Deloitte",
         "id": "e3702ca0-45d0-45c8-a6bd-4518bb84768e",
         "title": "Software Engineering Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1776325443,
         "date_posted": 1776323168,
         "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Deloitte-Software-Engineering-Analyst/307208",
@@ -296822,7 +296822,7 @@
         "company_name": "Solera Holdings",
         "id": "c9c78489-108b-4228-85c9-4c23c641e566",
         "title": "Service Delivery Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1776528722,
         "date_posted": 1776527005,
         "url": "https://solera.wd5.myworkdayjobs.com/global_career_site/job/Virtual-UK/Service-Delivery-Engineer_JR-018926",
@@ -301613,7 +301613,7 @@
         "company_name": "University of Southern California",
         "id": "01765e96-3dd7-43fa-a156-c7b5c4a227c6",
         "title": "Digital Fabrication Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1776819781,
         "date_posted": 1776819683,
         "url": "https://usc.wd5.myworkdayjobs.com/ExternalUSCCareers/job/Los-Angeles-CA---University-Park-Campus/Digital-Fabrication-Technician_REQ20174326",
@@ -303289,6 +303289,69 @@
         "sponsorship": "Other",
         "degrees": [
             "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "NVIDIA",
+        "id": "64a9be13-3b80-49e7-a4a3-298116b4159a",
+        "title": "GPU Power Architect",
+        "active": true,
+        "date_updated": 1776906845,
+        "date_posted": 1776906431,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/GPU-Power-Architect---New-College-Grad-2026_JR2016783",
+        "locations": [
+            "Austin, TX",
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "NVIDIA",
+        "id": "b89fccd8-bdc8-4e23-a680-64500e33868f",
+        "title": "Deep Learning Architect \u2013 New College Grad - LLM Inference",
+        "active": true,
+        "date_updated": 1776906733,
+        "date_posted": 1776906431,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Architect--LLM-Inference---New-College-Grad-2026_JR2016950",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "4afc3be5-953e-490b-a4ed-bd7687bf84fa",
+        "title": "Raytheon Full Time Conversion Intern - Software Engineer I",
+        "active": true,
+        "date_updated": 1776906763,
+        "date_posted": 1776906415,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CO-AURORA-S77--16470-E-Hughes-Dr--BLDG-S77/XMLNAME-2026-Raytheon-Full-Time-Conversion---Software-Engineer-I---Aurora--CO--Onsite-_01839787",
+        "locations": [
+            "Aurora, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
