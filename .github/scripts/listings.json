@@ -29847,7 +29847,7 @@
         "company_name": "Hudson River Trading",
         "id": "abe441e7-1235-4e24-bd86-7bf7472d2ea4",
         "title": "Hardware Design Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1762909950,
         "date_posted": 1762537755,
         "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7141895",
@@ -175074,7 +175074,7 @@
         "company_name": "Daktronics",
         "id": "92ba7c39-20cd-47f8-898a-6f49e46e6406",
         "title": "Game Day Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1770332679,
         "date_posted": 1770332679,
         "url": "https://careers-daktronics.icims.com/jobs/7200/job?mobile=true&needsRedirect=false",
@@ -183757,7 +183757,7 @@
         "company_name": "Genentech",
         "id": "f2e42b05-e4fb-470d-8603-248ae56f24a2",
         "title": "Senior ML Scientist - Scientific Reasoning Models - AI for Drug Discovery",
-        "active": false,
+        "active": true,
         "date_updated": 1770851815,
         "date_posted": 1770851815,
         "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/New-York-City/Senior---Principal-Machine-Learning-Scientist--Scientific-Reasoning-Models_202602-103618",
@@ -197994,7 +197994,7 @@
         "company_name": "Western Digital",
         "id": "9cf6a484-f66b-4638-92a8-c159994f9932",
         "title": "Early Career Talent - Electronics Design Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1771571256,
         "date_posted": 1771571256,
         "url": "https://jobs.smartrecruiters.com/WesternDigital/744000110304414",
@@ -207754,7 +207754,7 @@
         "company_name": "Eurofins",
         "id": "2cea44ab-924b-4dc4-8af3-b7a0a73a700c",
         "title": "Electrical Factory Inspector - Remote/Travel",
-        "active": true,
+        "active": false,
         "date_updated": 1771974712,
         "date_posted": 1771974712,
         "url": "https://jobs.smartrecruiters.com/Eurofins/744000111118005",
@@ -265787,7 +265787,7 @@
         "company_name": "Western Digital",
         "id": "c3e530a6-82f8-4c6a-a2d3-31c01c6bd3b2",
         "title": "Electronics Design Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1775001602,
         "date_posted": 1774994642,
         "url": "https://jobs.smartrecruiters.com/WesternDigital/744000117943417",
@@ -286059,7 +286059,7 @@
         "company_name": "Intuit",
         "id": "1d8f5d26-3697-4454-a205-893d2555111a",
         "title": "AI Scientist 2",
-        "active": false,
+        "active": true,
         "date_updated": 1776119754,
         "date_posted": 1776118196,
         "url": "https://jobs.intuit.com/job/atlanta/ai-scientist-2/27595/87369441664",
@@ -303238,5 +303238,104 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Electronic Arts",
+        "id": "399524ef-9e24-4ebd-ae91-4af397d55fc1",
+        "title": "Reverse Engineer Anti-Cheat",
+        "active": true,
+        "date_updated": 1776953920,
+        "date_posted": 1776953271,
+        "url": "https://jobs.ea.com/en_US/careers/JobDetail/Reverse-Engineer-Anti-Cheat/213132",
+        "locations": [
+            "Guildford, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Electronic-Arts",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Nordstrom",
+        "id": "68f613e8-9bcf-40fa-b59b-52c2a15af755",
+        "title": "Engineer 1 - Misc Team",
+        "active": true,
+        "date_updated": 1776953521,
+        "date_posted": 1776953342,
+        "url": "https://nordstrom.wd501.myworkdayjobs.com/nordstrom_careers/job/Seattle-WA/Engineer-1---MISC-Team--Hybrid---Seattle--WA-_R-822693",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Nordstrom",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "PGIM",
+        "id": "f1d42b6e-fb07-42d6-abcc-b76b0445ce01",
+        "title": "Investment Analyst",
+        "active": true,
+        "date_updated": 1776953928,
+        "date_posted": 1776953297,
+        "url": "https://pru.wd5.myworkdayjobs.com/pgim_careers/job/London-United-Kingdom/PGIM-Credit---Investment-Analyst_R-124240",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/PGIM",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Little Caesars Enterprises",
+        "id": "6b5e04ab-2563-4bef-a6f8-5250fccf9859",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1776953341,
+        "date_posted": 1776953189,
+        "url": "https://ilitch.wd5.myworkdayjobs.com/lc/job/Detroit-MI/Data-Analyst---Finance_R8719",
+        "locations": [
+            "Detroit, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Little-Caesars",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "BlackRock",
+        "id": "0dccebc3-2c5a-4e29-bd15-68b66e7295d0",
+        "title": "AI Product Manager - Associate - Aladdin AI",
+        "active": true,
+        "date_updated": 1776953889,
+        "date_posted": 1776953198,
+        "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/New-York-NY/AI-Product-Manager--Associate---Aladdin-AI_R263783",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/BlackRock",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
