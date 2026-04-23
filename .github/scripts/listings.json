@@ -303334,5 +303334,24 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "date_updated": 1776937023,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.ashbyhq.com/gumloop/a1a881a6-3743-4f03-ab55-3a46297a764b",
+        "company_name": "Gumloop",
+        "title": "Software Engineer",
+        "locations": [
+            "San Francisco, CA",
+            "Vancouver, BC, CAN"
+        ],
+        "category": "Software Engineering",
+        "source": "ZaidlKhan",
+        "id": "81dfff5d-f5ab-4d60-af92-8e0df63d8df3",
+        "date_posted": 1776937023,
+        "company_url": "",
+        "is_visible": true
     }
 ]
