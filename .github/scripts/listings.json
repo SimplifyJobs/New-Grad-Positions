@@ -2,35 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Google",
-        "id": "bfb08a93-2f42-4862-9976-1e856142142e",
-        "title": "Software Engineer \u2013 Early Career - PhD - AI/Machine Learning",
-        "active": false,
-        "date_updated": 1756217343,
-        "date_posted": 1756217343,
-        "url": "https://www.google.com/about/careers/applications/jobs/results/122258040807137990",
-        "locations": [
-            "Madison, WI",
-            "Seattle, WA",
-            "Raleigh, NC",
-            "San Bruno, CA",
-            "Durham, NC",
-            "Kirkland, WA",
-            "NYC",
-            "Sunnyvale, CA",
-            "Mountain View, CA",
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Google",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Auto Club Enterprises",
         "id": "f72fa606-2f32-48c0-8bf0-e811de019826",
         "title": "Entry Level Data Scientist",
@@ -187748,7 +187719,7 @@
         "company_name": "Latitude AI",
         "id": "55f2f604-8d91-47e4-8f99-02c927efbb3f",
         "title": "Hardware Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1770997302,
         "date_posted": 1770997302,
         "url": "https://job-boards.greenhouse.io/latitude/jobs/7611153",
@@ -198023,7 +197994,7 @@
         "company_name": "Western Digital",
         "id": "9cf6a484-f66b-4638-92a8-c159994f9932",
         "title": "Early Career Talent - Electronics Design Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1771571256,
         "date_posted": 1771571256,
         "url": "https://jobs.smartrecruiters.com/WesternDigital/744000110304414",
@@ -207783,7 +207754,7 @@
         "company_name": "Eurofins",
         "id": "2cea44ab-924b-4dc4-8af3-b7a0a73a700c",
         "title": "Electrical Factory Inspector - Remote/Travel",
-        "active": false,
+        "active": true,
         "date_updated": 1771974712,
         "date_posted": 1771974712,
         "url": "https://jobs.smartrecruiters.com/Eurofins/744000111118005",
@@ -244626,7 +244597,7 @@
         "company_name": "Arthur Grand Technologies",
         "id": "c5e96a2e-51ca-43d8-aa10-231b3cdc5e3f",
         "title": "ERP Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773871479,
         "date_posted": 1773871479,
         "url": "https://jobs.smartrecruiters.com/ArthurGrandTechnologiesInc/744000115491098",
@@ -265816,7 +265787,7 @@
         "company_name": "Western Digital",
         "id": "c3e530a6-82f8-4c6a-a2d3-31c01c6bd3b2",
         "title": "Electronics Design Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1775001602,
         "date_posted": 1774994642,
         "url": "https://jobs.smartrecruiters.com/WesternDigital/744000117943417",
@@ -266349,7 +266320,7 @@
         "company_name": "Clearwater Analytics",
         "id": "53cbcbb4-ec4c-4331-9dc9-a34cb8f1b92e",
         "title": "Financial Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1775005741,
         "date_posted": 1774994955,
         "url": "https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Office---Edinburgh/Financial-Data-Analyst_R11715",
@@ -279925,7 +279896,7 @@
         "company_name": "Viridien",
         "id": "7835b7c0-0e00-472e-92ca-7423f0b3cb04",
         "title": "Spectral Geologist",
-        "active": true,
+        "active": false,
         "date_updated": 1775745376,
         "date_posted": 1775743743,
         "url": "https://cgg.wd103.myworkdayjobs.com/viridiencareers/job/Crawley-United-Kingdom/Spectral-Geologist_JR101241-1",
@@ -294005,7 +293976,7 @@
         "company_name": "Arthur Grand Technologies",
         "id": "f75f0ef0-4976-4878-ac6d-176ddeea0c1c",
         "title": "Syteline ERP Support",
-        "active": true,
+        "active": false,
         "date_updated": 1776463381,
         "date_posted": 1776463360,
         "url": "https://jobs.smartrecruiters.com/ArthurGrandTechnologiesInc/744000121473057",
@@ -303201,6 +303172,67 @@
             "Kenosha, WI"
         ],
         "company_url": "https://simplify.jobs/c/Uline",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "STR",
+        "id": "c3b4fe80-6415-4687-9bde-c72f31712dca",
+        "title": "Associate Researcher",
+        "active": true,
+        "date_updated": 1776954241,
+        "date_posted": 1776954067,
+        "url": "https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4674339006",
+        "locations": [
+            "Burlington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/STR",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Cummins",
+        "id": "7b384245-614f-4eb9-8f22-7fd3b4340e9b",
+        "title": "Product Functional Test Technology Engineer",
+        "active": true,
+        "date_updated": 1776953161,
+        "date_posted": 1776953026,
+        "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2425374",
+        "locations": [
+            "Cardiff, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Cummins",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's",
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Prudential Financial",
+        "id": "3cb5b2ff-fc02-4ec5-8fb4-bfda30eda813",
+        "title": "Investment Analyst",
+        "active": true,
+        "date_updated": 1776953976,
+        "date_posted": 1776953243,
+        "url": "https://pru.wd5.myworkdayjobs.com/Careers/job/London-United-Kingdom/PGIM-Credit---Investment-Analyst_R-124240-1",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Prudential-Financial",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
