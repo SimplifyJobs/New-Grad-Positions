@@ -1,50 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Adobe",
-        "id": "774345f9-14bd-4a7b-8b70-617dd2f96ec7",
-        "title": "2026 University Graduate - Machine Learning Engineer",
-        "active": false,
-        "date_updated": 1756175120,
-        "date_posted": 1756175120,
-        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Machine-Learning-Engineer_R158682",
-        "locations": [
-            "Seattle, WA",
-            "SF",
-            "Austin, TX",
-            "San Jose, CA",
-            "NYC",
-            "Lehi, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/Adobe",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Harvey",
-        "id": "3906bc49-1cb1-49de-873e-82ab4784de64",
-        "title": "Software Engineer \u2013 New Grad",
-        "active": false,
-        "date_updated": 1761844665,
-        "date_posted": 1756174818,
-        "url": "https://jobs.ashbyhq.com/harvey/163860df-ae88-437d-81da-305efa554dff/application",
-        "locations": [
-            "San Francisco, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Harvey",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Boston Scientific",
         "id": "c56b7a83-c21a-400b-9522-d7e0d32c1778",
