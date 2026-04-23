@@ -171695,7 +171695,7 @@
         "company_name": "RTX",
         "id": "d876a576-5b5f-4892-938f-bd12bfe506b4",
         "title": "Graduate Data Scientist",
-        "active": false,
+        "active": true,
         "date_updated": 1770212463,
         "date_posted": 1770212463,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/GB-BIR-BIRMINGHAM-001--1-Marston-Green--GOODRICH-CONTROL-SYS/Graduate-Data-Scientist_01821738-1",
@@ -252034,7 +252034,7 @@
         "company_name": "Citizens Financial Group",
         "id": "7bfcee51-e2c8-4be6-a1f0-ae64292e0993",
         "title": "Product Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1773824379,
         "date_posted": 1773180353,
         "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/45221",
@@ -293419,7 +293419,7 @@
         "company_name": "Gallatin AI",
         "id": "aeeff16f-0619-4a40-97b6-99f107b9b111",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1776417909,
         "date_posted": 1768000982,
         "url": "https://jobs.ashbyhq.com/gallatin/51dd95e6-4a96-4bb7-8e1a-76861f505d2c/application",
@@ -303353,5 +303353,23 @@
         "date_posted": 1776937023,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Thoughtworks",
+        "id": "e5dd0f1c-86c3-4447-b9d0-779fe877df19",
+        "title": "Associate Graduate Developer",
+        "active": true,
+        "date_updated": 1776936040,
+        "date_posted": 1776935840,
+        "url": "https://www.thoughtworks.com/careers/jobs/7783764?gh_jid=7783764",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Thoughtworks",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
