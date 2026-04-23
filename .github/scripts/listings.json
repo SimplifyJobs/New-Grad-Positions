@@ -186518,7 +186518,7 @@
         "company_name": "RTX",
         "id": "86661fd0-df6b-44d8-8758-3430d350d298",
         "title": "Software Engineer 1 - Rdpl",
-        "active": false,
+        "active": true,
         "date_updated": 1770939520,
         "date_posted": 1770939520,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-FULLERTON-675--1801-Hughes-Dr--BLDG-675/Software-Engineer-I---RDPL--Onsite_01823174",
@@ -236831,7 +236831,7 @@
         "company_name": "Deloitte",
         "id": "db1399e9-c656-4a1c-8046-29a0af37cfca",
         "title": "Associate GenAI Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773364669,
         "date_posted": 1773364669,
         "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Associate-GenAI-Engineer/326869",
@@ -303169,6 +303169,126 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Amazon",
+        "id": "88cb217a-70b1-45ee-b96f-e2b905a2d895",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1776906541,
+        "date_posted": 1776906424,
+        "url": "https://amazon.jobs/en/jobs/10400227/data-analyst-rcx",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SingleStore",
+        "id": "7c09032f-fc68-48fd-85c1-d27a16f5b1f9",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1776907441,
+        "date_posted": 1776907277,
+        "url": "https://job-boards.greenhouse.io/singlestore/jobs/7118095",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/SingleStore",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Loblaw Companies",
+        "id": "51e3c205-d03c-40a9-8a1c-bc5fff59efa9",
+        "title": "Analyst \u2013 Strategy and Analytics",
+        "active": true,
+        "date_updated": 1776906541,
+        "date_posted": 1776906493,
+        "url": "https://myview.wd3.myworkdayjobs.com/paradox_careers/job/1-Presidents-Choice-Circle-Brampton-ON/Analyst---Strategy-and-Analytics_R2000658246",
+        "locations": [
+            "Brampton, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Loblaw-Companies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "dbc1b4ce-18c5-46c3-a223-dde10ddb51f0",
+        "title": "Research Scientist Graduate - Compute Platform - Database Acceleration",
+        "active": true,
+        "date_updated": 1776906721,
+        "date_posted": 1776906613,
+        "url": "https://lifeattiktok.com/search/7631070662808160565",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "7f7df86f-b755-44f7-b66d-492960736e29",
+        "title": "Research Scientist - Multimodal Generative AI - Intelligent Creation",
+        "active": true,
+        "date_updated": 1776906721,
+        "date_posted": 1776906607,
+        "url": "https://lifeattiktok.com/search/7631001669631789365",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Southcoast Health",
+        "id": "9d469305-944a-41b5-a217-c8aa37fb4aca",
+        "title": "Associate Clinical Analyst Coordinator-EPIC",
+        "active": true,
+        "date_updated": 1776906730,
+        "date_posted": 1776906527,
+        "url": "https://careers-southcoast.icims.com/jobs/48349/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Dartmouth, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Southcoast-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
         ]
     }
 ]
