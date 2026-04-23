@@ -1,194 +1,5 @@
 [
     {
-        "date_updated": 1762271905,
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "degrees": [],
-        "url": "https://jobs.ashbyhq.com/Citizen%20Health/ea388b8a-16cb-4b1b-b64f-479f0dc69764",
-        "company_name": "Citizen Health",
-        "title": "Early Career Software Engineer",
-        "locations": [
-            "San Francisco, CA",
-            "San Mateo, CA",
-            "Remote"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "cac7d4ea-65a4-4499-a21f-1b4576a68e5a",
-        "date_posted": 1756202713,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1756303451,
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "degrees": [],
-        "url": "https://careers.publicisgroupe.com/jobs/119914",
-        "company_name": "Epsilon",
-        "title": "Associate, Software Engineer",
-        "locations": [
-            "Irving, TX"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "1f96e57a-dff2-49fa-b626-718c937fe144",
-        "date_posted": 1756202798,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1756202896,
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "degrees": [],
-        "url": "https://job-boards.greenhouse.io/togetherai/jobs/4835315007",
-        "company_name": "Together AI",
-        "title": "Machine Learning / Research Engineer",
-        "locations": [
-            "San Francisco, CA"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "Simplify",
-        "id": "ff900674-c804-4d6e-91ef-589c59747622",
-        "date_posted": 1756202896,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1761557511,
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "degrees": [],
-        "url": "https://jobs.lever.co/perrknight/b47e39ce-e26f-48aa-b53a-f93c87544101",
-        "company_name": "Perr & Knight",
-        "title": "Associate AI Developer",
-        "locations": [
-            "Charlotte, NC",
-            "Boca Raton, FL",
-            "Santa Monica, CA",
-            "Newark, NJ"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "AlmondCroffle",
-        "id": "cb6b8e2d-38b3-42b7-bc2c-0ca44650f7c8",
-        "date_posted": 1756203415,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1756861809,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "degrees": [],
-        "url": "https://job-boards.greenhouse.io/celonis/jobs/6690522003",
-        "company_name": "Celonis",
-        "title": "Associate Value Engineer (AI for Supply Chain)",
-        "locations": [
-            "New York, NY"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "AlmondCroffle",
-        "id": "7c30bd9c-3f47-41c1-966c-8080f9538215",
-        "date_posted": 1756203509,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1756861622,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "degrees": [],
-        "url": "https://job-boards.greenhouse.io/celonis/jobs/6691703003",
-        "company_name": "Celonis",
-        "title": "Associate Value Engineer (Management Consulting for AI Implementation)",
-        "locations": [
-            "New York, NY"
-        ],
-        "category": "Other",
-        "source": "AlmondCroffle",
-        "id": "be6b7f52-e0de-4f3b-a55f-fb12c1634640",
-        "date_posted": 1756203595,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1756861589,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "degrees": [],
-        "url": "https://job-boards.greenhouse.io/celonis/jobs/6691702003",
-        "company_name": "Celonis",
-        "title": "Associate Value Engineer (Industrial Engineering & AI Applications)",
-        "locations": [
-            "New York, NY"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "AlmondCroffle",
-        "id": "ec5f452f-cba6-4d1b-8b45-3da8cfbc6a1d",
-        "date_posted": 1756203670,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1764595634,
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "degrees": [],
-        "url": "https://careers-sig.icims.com/jobs/9716/software-developer---sprc---new-grad/job",
-        "company_name": "Susquehanna",
-        "title": "Software Developer",
-        "locations": [
-            "Lower Merion Township, PA"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "e306a460-ee33-4e53-b936-2d65fc66d581",
-        "date_posted": 1756203764,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1756235161,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": false,
-        "degrees": [],
-        "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer---Recent-Graduate_R0129978",
-        "company_name": "PayPal",
-        "title": "Software Engineer - Recent Graduate",
-        "locations": [
-            "San Jose, CA",
-            "Chicago, IL",
-            "Scottsdale, AZ",
-            "Omaha, NE",
-            "Austin, TX"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "e667fc6c-75f2-4913-8088-4d57ffe3215a",
-        "date_posted": 1756203887,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1761563619,
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "degrees": [],
-        "url": "https://jobs.ashbyhq.com/empirical-security/16bd6ff1-2bd2-4f43-9108-b1ef22ad40e3",
-        "company_name": "Empirical Security",
-        "title": "Junior Software Engineer",
-        "locations": [
-            "Remote in USA"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "8eb6a0f3-409e-429c-8174-c87800de82dc",
-        "date_posted": 1756204024,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Google",
@@ -229962,7 +229773,7 @@
         "company_name": "Google",
         "id": "802aa2a1-083c-46cc-85f5-db110d162df5",
         "title": "ASIC RTL Design and Automation Engineer \u2013 University Graduate",
-        "active": true,
+        "active": false,
         "date_updated": 1773107392,
         "date_posted": 1770045175,
         "url": "https://www.google.com/about/careers/applications/jobs/results/103596918067602118",
@@ -284050,7 +283861,7 @@
         "company_name": "Doss",
         "id": "99fc33c7-9c05-4699-923a-3bb45cf75ad0",
         "title": "Frontend Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1775901875,
         "date_posted": 1761910066,
         "url": "https://jobs.ashbyhq.com/doss/be9a271a-75d0-4ab5-9fdb-0f64c641c692/application",
@@ -291773,7 +291584,7 @@
         "company_name": "Illumina",
         "id": "77be5914-87b0-4f12-a256-1f3cb47aedbf",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1776348601,
         "date_posted": 1776348304,
         "url": "https://illumina.wd1.myworkdayjobs.com/illumina-careers/job/England---Cambridge/Software-Engineer-1_42598-JOB-1",
@@ -292943,7 +292754,7 @@
         "company_name": "The Boeing Company",
         "id": "aaead123-98d6-4665-8bef-303dd08ceffb",
         "title": "Entry Level Product Data Management Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1776378523,
         "date_posted": 1776377428,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Mesa-AZ/Entry---Level-Product-Data-Management-Specialist_JR2026500606-1",
@@ -293616,7 +293427,7 @@
         "company_name": "Crunchtime",
         "id": "c6e4c67a-9a28-49a7-9e43-77b302160c45",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1776418587,
         "date_posted": 1766014475,
         "url": "https://www.crunchtime.com/open-positions?gh_jid=5740008004",
@@ -303371,5 +303182,29 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Uline",
+        "id": "f2386c38-d074-4e16-99bc-739d68e52f2b",
+        "title": "Product Management Analyst",
+        "active": true,
+        "date_updated": 1776935701,
+        "date_posted": 1776935661,
+        "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Product-Management-Analyst_R263363-1",
+        "locations": [
+            "Waukegan, IL",
+            "Milwaukee, WI",
+            "Pleasant Prairie, WI",
+            "Morton Grove, IL",
+            "Kenosha, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Uline",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
