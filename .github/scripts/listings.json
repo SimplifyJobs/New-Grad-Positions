@@ -1,47 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Auto Club Enterprises",
-        "id": "f72fa606-2f32-48c0-8bf0-e811de019826",
-        "title": "Entry Level Data Scientist",
-        "active": false,
-        "date_updated": 1756246846,
-        "date_posted": 1756246846,
-        "url": "https://ace.wd5.myworkdayjobs.com/careers/job/Costa-Mesa-CA/Entry-Level-Data-Scientist_JR202531480-1",
-        "locations": [
-            "Newport Beach, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Auto-Club-Enterprises",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "GM financial",
-        "id": "00d4f23c-6703-49a3-b6c4-920c4dc7c87b",
-        "title": "Software Development Engineer I",
-        "active": false,
-        "date_updated": 1756246682,
-        "date_posted": 1756246682,
-        "url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/837",
-        "locations": [
-            "Arlington, TX",
-            "Irving, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/GM-Financial",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Citizen Health",
         "id": "a67db6e1-d9e5-4321-9f69-25f20b05d6d9",
@@ -61006,26 +60965,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "University of Texas - Austin",
-        "id": "e7b8ba38-13c5-4926-9962-f314ca280f9d",
-        "title": "Postdoctoral Scholar - Petroleum and Geosystems Engineering - Cockrell School of Engineering",
-        "active": true,
-        "date_updated": 1756246076,
-        "date_posted": 1756246076,
-        "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Postdoctoral-Scholar--Department-of-Petroleum-and-Geosystems-Engineering--Cockrell-School-of-Engineering_R_00018034",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/University-Of-Texas-Austin",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
     },
     {
         "source": "Simplify",
@@ -235780,7 +235719,7 @@
         "company_name": "The Aerospace Corporation",
         "id": "23ddcee7-96a1-4658-a718-a00b3d8ec77c",
         "title": "Data Scientist",
-        "active": false,
+        "active": true,
         "date_updated": 1773356140,
         "date_posted": 1773356140,
         "url": "https://aero.wd5.myworkdayjobs.com/external/job/Chantilly-VA/XMLNAME-2026-Data-Scientist_R014777",
@@ -244577,7 +244516,7 @@
         "company_name": "Arthur Grand Technologies",
         "id": "c5e96a2e-51ca-43d8-aa10-231b3cdc5e3f",
         "title": "ERP Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773871479,
         "date_posted": 1773871479,
         "url": "https://jobs.smartrecruiters.com/ArthurGrandTechnologiesInc/744000115491098",
@@ -293956,7 +293895,7 @@
         "company_name": "Arthur Grand Technologies",
         "id": "f75f0ef0-4976-4878-ac6d-176ddeea0c1c",
         "title": "Syteline ERP Support",
-        "active": false,
+        "active": true,
         "date_updated": 1776463381,
         "date_posted": 1776463360,
         "url": "https://jobs.smartrecruiters.com/ArthurGrandTechnologiesInc/744000121473057",
@@ -303317,5 +303256,299 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "b868f976-4129-4141-8c19-80526b9715be",
+        "title": "Software Engineer 1 - Software Engineer I - Military Avionics Flight Management Systems",
+        "active": true,
+        "date_updated": 1776982836,
+        "date_posted": 1776982094,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/New-Grad-2026-Full-Time---Software-Engineer---Military-Avionics-FMS_01840038",
+        "locations": [
+            "Cedar Rapids, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Handshake",
+        "id": "93267533-5a7f-40b8-bf6b-0482f74c0314",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1776982856,
+        "date_posted": 1776982108,
+        "url": "https://jobs.ashbyhq.com/handshake/2cfafa1a-d47d-4bc2-9c41-4c50bcba0245/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Handshake",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "PNC Financial Services",
+        "id": "1f4f222b-bac6-4cfa-89a9-0381aca365e6",
+        "title": "Software Engineer Associate",
+        "active": true,
+        "date_updated": 1776982781,
+        "date_posted": 1776982022,
+        "url": "https://pnc.wd5.myworkdayjobs.com/External/job/AZ---Phoenix-85016/Software-Engineer-Associate_R219642",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/PNC-Financial-Services",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Mitel Networks",
+        "id": "0d943994-0851-4aed-90eb-7148abed3199",
+        "title": "Associate Software Developer",
+        "active": true,
+        "date_updated": 1776982141,
+        "date_posted": 1776982028,
+        "url": "https://mitel.wd3.myworkdayjobs.com/mitelcareers/job/Ottawa/Associate-Software-Developer_R012832-1",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Mitel-Networks",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "c332181d-cffd-4930-b470-cae79f930926",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1776982861,
+        "date_posted": 1776982100,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Beavercreek/Software-Engineer--AHT-_R10230687",
+        "locations": [
+            "Beavercreek, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Integra LifeSciences",
+        "id": "36b3ad21-3aab-4ec2-8c87-13e64d1db9d5",
+        "title": "Associate Analytics Analyst",
+        "active": true,
+        "date_updated": 1776981961,
+        "date_posted": 1776981947,
+        "url": "https://integralife.wd1.myworkdayjobs.com/careers/job/US-NJ-Princeton-100-Headquarters/Associate-Analytics-Analyst_JR-5934",
+        "locations": [
+            "Princeton, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Integra-LifeSciences",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Embry-Riddle Aeronautical University",
+        "id": "2eccd9c9-571e-48ce-827f-b6c965471a93",
+        "title": "Tenure Track Faculty Position with a Focus on Big Data Analytics and Aviation Safety",
+        "active": true,
+        "date_updated": 1776982740,
+        "date_posted": 1776982018,
+        "url": "https://embryriddle.wd1.myworkdayjobs.com/External/job/Daytona-Beach-FL/Tenure-Track-Faculty-Position-with-a-focus-on-Big-Data-Analytics-and-Aviation-Safety-in-the-School-of-Graduate-Studies--Daytona-Beach-Campus_R311216",
+        "locations": [
+            "Daytona Beach, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Embry-Riddle-Aeronautical-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Huntington Ingalls Industries",
+        "id": "0b10b994-c87f-42c0-a42b-3907a7ef7b93",
+        "title": "Engineer Test Operations 1",
+        "active": true,
+        "date_updated": 1776982861,
+        "date_posted": 1776982088,
+        "url": "https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-TEST-OPERATIONS-1-Virg/1385061600/?ats=successfactors",
+        "locations": [
+            "Newport News, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Huntington-Ingalls-Industries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Applied Materials",
+        "id": "03f0eae0-fdf9-4284-9852-d543c3ca5ffb",
+        "title": "Physicist/Scientist 3",
+        "active": true,
+        "date_updated": 1776982763,
+        "date_posted": 1776982040,
+        "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Physicist-Scientist-III----Early-in-Career-_R2618328",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Materials",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Western Alliance",
+        "id": "03af6c9c-ab1a-41c3-89ae-22e8e362d5b9",
+        "title": "Software Engineer \u2013 IT Early Career Development Program",
+        "active": true,
+        "date_updated": 1776981961,
+        "date_posted": 1776981928,
+        "url": "https://wd5.myworkdaysite.com/recruiting/westernalliancebank/WAB/job/Phoenix-AZ/Software-Engineer---IT-Early-Career-Development-Program_R12821",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Alliance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Intuitive Research and Technology Corporation",
+        "id": "007173f9-0934-4410-bf72-5e897a3641fc",
+        "title": "Entry Level Model Based Systems Engineer/Analyst",
+        "active": true,
+        "date_updated": 1776981961,
+        "date_posted": 1776981840,
+        "url": "https://intuitive.wd1.myworkdayjobs.com/irtc_careers/job/Huntsville-AL/Entry-Level-Model-Based-Systems-Engineer-Analyst_2526-262",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Intuitive-Research-And-Technology-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Western Alliance",
+        "id": "fa77b747-9872-4255-87b8-d2ced540a568",
+        "title": "Software Engineer \u2013 IT Early Career Development Program",
+        "active": true,
+        "date_updated": 1776981961,
+        "date_posted": 1776981928,
+        "url": "https://wd5.myworkdaysite.com/recruiting/westernalliancebank/WAB/job/Phoenix-AZ/Software-Engineer---IT-Early-Career-Development-Program_R12822",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Alliance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "NRG Energy",
+        "id": "39db1651-673d-42a2-b18f-1fca5879bcee",
+        "title": "Graduate Rotational Analyst Intern - Power Trading to Origination",
+        "active": true,
+        "date_updated": 1776982230,
+        "date_posted": 1776981911,
+        "url": "https://careers.nrgenergy.com/nrg/job/Houston-Graduate-Rotational-Analyst,-Power-Trading-to-Origination-TX-77010/1385120400/?ats=successfactors",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/NRG-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Western Alliance",
+        "id": "241a5a63-5330-4f73-81cb-fe760f9f2150",
+        "title": "Software Engineer \u2013 IT Early Career Development Program",
+        "active": true,
+        "date_updated": 1776981961,
+        "date_posted": 1776981928,
+        "url": "https://wd5.myworkdaysite.com/recruiting/westernalliancebank/WAB/job/Phoenix-AZ/Software-Engineer---IT-Early-Career-Development-Program_R12820",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Alliance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Draper",
+        "id": "143fa3ca-56c0-431e-9744-29cca2b1cfcf",
+        "title": "Hardware MEMS Engineer",
+        "active": true,
+        "date_updated": 1776982233,
+        "date_posted": 1776981807,
+        "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/St-Petersburg-FL/Hardware-MEMS-Engr-MTS1_JR002400",
+        "locations": [
+            "St. Petersburg, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Draper",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
