@@ -301533,7 +301533,7 @@
         "company_name": "University of Southern California",
         "id": "01765e96-3dd7-43fa-a156-c7b5c4a227c6",
         "title": "Digital Fabrication Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1776819781,
         "date_posted": 1776819683,
         "url": "https://usc.wd5.myworkdayjobs.com/ExternalUSCCareers/job/Los-Angeles-CA---University-Park-Campus/Digital-Fabrication-Technician_REQ20174326",
@@ -303293,6 +303293,26 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Autodesk",
+        "id": "ee4ed734-45fa-4bfb-9ba8-b831758c0bfe",
+        "title": "Machine Learning Engineer",
+        "active": true,
+        "date_updated": 1776924541,
+        "date_posted": 1776924446,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/San-Francisco-CA-USA/Machine-Learning-Engineer_26WD97077-1",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Autodesk",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
