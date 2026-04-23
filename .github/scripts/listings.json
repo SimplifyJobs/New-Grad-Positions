@@ -164,26 +164,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Cox",
-        "id": "489d499d-b69d-43b3-91d0-d3337a013ded",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1756221388,
-        "date_posted": 1756221388,
-        "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I_R202566097",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Cox",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Other",
         "company_name": "The Travelers Companies",
         "id": "d8c7a695-5d37-4612-bc66-61dd2aa56964",
@@ -251437,7 +251417,7 @@
         "company_name": "Collectors",
         "id": "d4fbecd4-6b7c-4516-be1c-5d0fbbb865b6",
         "title": "Trading Card Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1774316121,
         "date_posted": 1774316121,
         "url": "https://collectorsuniverse.wd1.myworkdayjobs.com/collectors/job/Plano-TX/Trading-Card-Specialist_JR104497",
@@ -253241,7 +253221,7 @@
         "company_name": "RAB Lighting",
         "id": "aa7adf18-02b5-4dd0-b165-1ad37a36f874",
         "title": "Firmware Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1774390797,
         "date_posted": 1774390797,
         "url": "https://job-boards.greenhouse.io/rab/jobs/7743321",
@@ -257062,7 +257042,7 @@
         "company_name": "Google",
         "id": "830ca860-2e17-4177-8ee0-87e64c546f25",
         "title": "Product Manager 1 - Translate and Transcribe - XR Apps",
-        "active": true,
+        "active": false,
         "date_updated": 1774534923,
         "date_posted": 1774534923,
         "url": "https://www.google.com/about/careers/applications/jobs/results/94231076695614150",
