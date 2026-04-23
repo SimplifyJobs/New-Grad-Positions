@@ -1,98 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Chewy",
-        "id": "7c0de917-3e5e-49ce-b48b-911296d0454d",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1756166225,
-        "date_posted": 1756166225,
-        "url": "https://boards.greenhouse.io/embed/job_app?token=7178408",
-        "locations": [
-            "Boston, MA",
-            "Bellevue, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Chewy",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Adobe",
-        "id": "b43f82cb-e084-472f-826c-e6575d95cf26",
-        "title": "2026 University Graduate - Software Engineer",
-        "active": false,
-        "date_updated": 1756166052,
-        "date_posted": 1756166052,
-        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/New-York/XMLNAME-2026-University-Graduate---Software-Engineer_R158871",
-        "locations": [
-            "San Jose, CA",
-            "NYC",
-            "Lehi, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/Adobe",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Adobe",
-        "id": "9da4a022-d2b2-47ad-b5af-71d5305b6356",
-        "title": "2026 University Graduate - Software Engineer",
-        "active": false,
-        "date_updated": 1756165639,
-        "date_posted": 1756165639,
-        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Software-Engineer_R158684",
-        "locations": [
-            "Seattle, WA",
-            "SF",
-            "Austin, TX",
-            "San Jose, CA",
-            "Waltham, MA",
-            "NYC",
-            "Lehi, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/Adobe",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Adobe",
-        "id": "62995f3c-ea5e-4415-92f5-455a31273213",
-        "title": "2026 University Graduate - Machine Learning Engineer",
-        "active": false,
-        "date_updated": 1756165636,
-        "date_posted": 1756165636,
-        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Seattle/XMLNAME-2026-University-Graduate---Machine-Learning-Engineer_R157576",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Adobe",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Adobe",
         "id": "774345f9-14bd-4a7b-8b70-617dd2f96ec7",
@@ -6805,27 +6713,6 @@
             "SF"
         ],
         "company_url": "https://simplify.jobs/c/Decagon",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Abridge",
-        "id": "900d3fae-428b-45b6-847a-878c333f3f4e",
-        "title": "Full Stack Engineer - New Grad - Product Engineering - Typescript - React - Next.js",
-        "active": false,
-        "date_updated": 1758361853,
-        "date_posted": 1756165745,
-        "url": "https://jobs.ashbyhq.com/abridge/55958eb5-109f-4e88-9793-ed2327fc753a/application",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Abridge",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -160726,7 +160613,7 @@
         "company_name": "RTX",
         "id": "94c3ce59-545e-4a75-907b-c692544aa933",
         "title": "Software Engineering 1",
-        "active": false,
+        "active": true,
         "date_updated": 1769644472,
         "date_posted": 1769644472,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA3--1001-Boston-Post-Rd--BLDG-3/Software-Engineering-I--Onsite-_01820057",
@@ -251282,7 +251169,7 @@
         "company_name": "Red Bull Advanced Technologies",
         "id": "4813158d-5529-4a52-99d7-6da25db64b5e",
         "title": "Electronics Test and Inspection Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1774305237,
         "date_posted": 1774305237,
         "url": "https://redbulltechnology.wd3.myworkdayjobs.com/RB_Racing/job/Milton-Keynes/Electronics-Test---Inspection-Technician_R0006053",
@@ -265474,7 +265361,7 @@
         "company_name": "Emory University",
         "id": "eada7e63-8874-4f3f-a6c0-fe40f00fc8c5",
         "title": "Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1774986841,
         "date_posted": 1774879486,
         "url": "https://staff-emory.icims.com/jobs/163615/job?mobile=true&needsRedirect=false",
@@ -290059,7 +289946,7 @@
         "company_name": "Visa",
         "id": "aefddd04-9952-474c-9ad9-c19cab87af4d",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1776293832,
         "date_posted": 1776290699,
         "url": "https://jobs.smartrecruiters.com/Visa/744000120987161",
@@ -292789,7 +292676,7 @@
         "company_name": "GrowthLoop",
         "id": "233b7246-dd1d-4bbe-8eeb-5deca6897ecf",
         "title": "Data Services Engineer - Strategic Projects",
-        "active": true,
+        "active": false,
         "date_updated": 1776378486,
         "date_posted": 1776377368,
         "url": "https://job-boards.greenhouse.io/growthloop/jobs/4684819005",
@@ -296348,7 +296235,7 @@
         "company_name": "Amentum",
         "id": "be6b00f7-9be5-4629-91be-74bf98558aff",
         "title": "Electronic Technician - IOR - Radar",
-        "active": true,
+        "active": false,
         "date_updated": 1776525481,
         "date_posted": 1776525380,
         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-FL-Canaveral/Electronic-Technician--IOR----Radar_R0152733-1",
@@ -303177,6 +303064,107 @@
             "El Segundo, CA"
         ],
         "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Legal & General",
+        "id": "7cefc06a-7df0-430d-8001-3e3d47873799",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1776895921,
+        "date_posted": 1776895427,
+        "url": "https://jobs.smartrecruiters.com/LegalAndGeneral/744000122285292",
+        "locations": [
+            "Cardiff, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Legal-And-General",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Clearwater Analytics",
+        "id": "724f3ec1-34bd-43c5-82d1-965075472a2b",
+        "title": "Associate Software Development Engineer",
+        "active": true,
+        "date_updated": 1776896117,
+        "date_posted": 1776895596,
+        "url": "https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Office---Boise/Associate-Software-Development-Engineer_R11750",
+        "locations": [
+            "Boise, ID"
+        ],
+        "company_url": "https://simplify.jobs/c/Clearwater-Analytics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Boar\u2019s Head Brand",
+        "id": "83afcdf6-86e7-4fc2-8502-2395a2a0e62d",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1776896919,
+        "date_posted": 1776895766,
+        "url": "https://boarshead.wd1.myworkdayjobs.com/en-US/BHC/job/Sarasota-FL/Software-Engineer-I--Onsite_34126-1",
+        "locations": [
+            "Sarasota, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Boars-Head-Brand",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "ABB",
+        "id": "2b881d70-0752-4108-b038-1f6e98c00e97",
+        "title": "R&D Testing and Lab Specialist",
+        "active": true,
+        "date_updated": 1776897248,
+        "date_posted": 1776895791,
+        "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Mebane/R-D-Testing---Lab-Specialist_JR00031405",
+        "locations": [
+            "Mebane, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/ABB",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Westinghouse Electric Company",
+        "id": "a05708a7-803e-4c4b-8b2c-eecdf0169f0a",
+        "title": "Safety Software 1&C Engineer 1",
+        "active": true,
+        "date_updated": 1776896897,
+        "date_posted": 1776895752,
+        "url": "https://careers.westinghousenuclear.com/job/Warrendale-Safety-Software-I&C-Engineer-I-OR/1384583800/?ats=successfactors",
+        "locations": [
+            "Cranberry Twp, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Westinghouse-Electric-Company",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
