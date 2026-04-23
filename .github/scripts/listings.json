@@ -1,23 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Boston Scientific",
-        "id": "c56b7a83-c21a-400b-9522-d7e0d32c1778",
-        "title": "Software Engineer I - Engineering - Development",
-        "active": false,
-        "date_updated": 1756731699,
-        "date_posted": 1756191234,
-        "url": "https://bostonscientific.eightfold.ai/careers/job/563602803706893",
-        "locations": [
-            "Roseville, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Boston-Scientific",
-        "is_visible": false,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
         "date_updated": 1762271905,
         "sponsorship": "Offers Sponsorship",
         "active": false,
@@ -217768,7 +217750,7 @@
         "company_name": "Analytical Mechanics Associates",
         "id": "9ca425e1-468a-483d-8029-5b54d0cb2b57",
         "title": "AIML Research Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1772496634,
         "date_posted": 1772496634,
         "url": "https://amainc.wd12.myworkdayjobs.com/ama_careers/job/Hampton-VA/AIML-Research-Associate_R-100498",
@@ -291849,7 +291831,7 @@
         "company_name": "Danaher Corporation",
         "id": "b143a000-ce28-46f5-bcbc-673fc7167046",
         "title": "Technician Production Operations",
-        "active": true,
+        "active": false,
         "date_updated": 1776348854,
         "date_posted": 1776348408,
         "url": "https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Chaska-Minnesota-United-States/T1---Technician-Production-Operations_R1308507",
