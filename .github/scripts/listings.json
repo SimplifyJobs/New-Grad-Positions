@@ -123303,7 +123303,7 @@
         "company_name": "JP Morgan Chase",
         "id": "0a071ec6-82c1-4403-aa61-00e9403a2b5e",
         "title": "Discretionary and Advisory Product Development - Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1767351683,
         "date_posted": 1767351683,
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210696342",
@@ -211594,7 +211594,7 @@
         "company_name": "QBE Insurance",
         "id": "0d0f1d08-8e99-446e-a0a2-5c3530d26938",
         "title": "E-Trade Trading Underwriter - Property",
-        "active": true,
+        "active": false,
         "date_updated": 1772149602,
         "date_posted": 1772149602,
         "url": "https://qbe.wd3.myworkdayjobs.com/qbe-careers/job/Stafford-United-Kingdom/E-Trade-Trading-Underwriter---Property_351385",
@@ -273590,7 +273590,7 @@
         "company_name": "GE Healthcare",
         "id": "37af37dd-c844-4cad-aa52-3c95edc25c59",
         "title": "Field Service Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1775298166,
         "date_posted": 1775295241,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1---Long-Island--NY_R4031346",
@@ -286277,7 +286277,7 @@
         "company_name": "Intuit",
         "id": "1d8f5d26-3697-4454-a205-893d2555111a",
         "title": "AI Scientist 2",
-        "active": true,
+        "active": false,
         "date_updated": 1776119754,
         "date_posted": 1776118196,
         "url": "https://jobs.intuit.com/job/atlanta/ai-scientist-2/27595/87369441664",
@@ -297950,7 +297950,7 @@
         "company_name": "Maritz",
         "id": "275b3b16-588d-4f67-83b7-a4b34faa492f",
         "title": "Associate Full Stack Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1776693961,
         "date_posted": 1776693899,
         "url": "https://maritz.wd1.myworkdayjobs.com/Maritz/job/Frederick-MD/Associate-Full-Stack-Developer_R15187",
@@ -303314,5 +303314,25 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Resolve",
+        "id": "317a6b60-e9e0-4b17-b328-c66b7f78f409",
+        "title": "Research Engineer",
+        "active": true,
+        "date_updated": 1776933002,
+        "date_posted": 1761875984,
+        "url": "https://jobs.ashbyhq.com/Resolve%20AI/588a0c76-41df-436a-9b70-23d8728a77ee/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/a8f4cca9-6b54-4f3a-9dc0-0f0a194c4dba",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
