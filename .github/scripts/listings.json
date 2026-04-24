@@ -79688,7 +79688,7 @@
         "company_name": "Heron Power",
         "id": "cad2f1cb-bef8-45a0-acbe-7a9c714ef9c4",
         "title": "Power Electronics PCBA Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1763881176,
         "date_posted": 1763669627,
         "url": "http://jobs.ashbyhq.com/heron-power/9f03d489-7fb1-48f8-9f41-70a9e64aed62/application",
@@ -276629,7 +276629,7 @@
         "company_name": "Leidos",
         "id": "33e2aee6-7efd-4cb2-b1e7-a4774a8c6563",
         "title": "Facility Support Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1775603910,
         "date_posted": 1775599876,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Houston-TX/Facility-Support-Engineer_R-00180156",
@@ -304161,6 +304161,165 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Anduril",
+        "id": "e4979f9b-5fe5-4d6d-becc-580d197badef",
+        "title": "Electro-Mechanical Technician - Ew",
+        "active": true,
+        "date_updated": 1776992941,
+        "date_posted": 1776992894,
+        "url": "https://boards.greenhouse.io/andurilindustries/jobs/5115409007",
+        "locations": [
+            "Newport Beach, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Anduril",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Emerson Electric",
+        "id": "b89d91a6-1823-4169-b916-658df70f6686",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1776992941,
+        "date_posted": 1776992764,
+        "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26004760",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Emerson-Electric",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Leidos",
+        "id": "858b2934-fcd3-4120-8985-8a3b5df3a13d",
+        "title": "Airborne Software Engineer",
+        "active": true,
+        "date_updated": 1776993267,
+        "date_posted": 1776993013,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/8314-Huntsville-AL-Home-Office/Airborne-Software-Engineer_R-00181616",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "f3916852-1757-4e3f-98ee-3c671cecfa94",
+        "title": "Machine Learning Engineer - Local Services Search",
+        "active": true,
+        "date_updated": 1776993121,
+        "date_posted": 1776993042,
+        "url": "https://lifeattiktok.com/search/7534641468595489032",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Wonderschool",
+        "id": "e5fee829-850f-4ae1-9f1f-eda2ab36fdbe",
+        "title": "Early Career Software Engineer - Applied AI",
+        "active": true,
+        "date_updated": 1776993121,
+        "date_posted": 1776993120,
+        "url": "https://job-boards.greenhouse.io/wonderschool/jobs/6359139003",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Wonderschool",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "AT&T",
+        "id": "66f5c919-4f16-4374-a401-b9a26aacb171",
+        "title": "Systems Integration Engineer",
+        "active": true,
+        "date_updated": 1776992941,
+        "date_posted": 1776992892,
+        "url": "https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Reston-Virginia/Systems-Integration-Engineer--Government-_R-107706",
+        "locations": [
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/ATT",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Moog ",
+        "id": "0bcb1488-2e16-402e-92fd-8fe3f7383fd4",
+        "title": "Associate Project Engineer",
+        "active": true,
+        "date_updated": 1776992941,
+        "date_posted": 1776992845,
+        "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Santa-Barbara-CA/Associate-Project-Engineer_R-26-17405",
+        "locations": [
+            "Santa Barbara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Moog",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CommerceIQ",
+        "id": "fd750cbe-6aa2-4924-94e3-783b9f3e6786",
+        "title": "Software Development Engineer",
+        "active": true,
+        "date_updated": 1776992761,
+        "date_posted": 1776377176,
+        "url": "https://job-boards.greenhouse.io/commerceiq/jobs/7681684003",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/ccd659bd-afde-4183-82c1-ec67db14a116",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
