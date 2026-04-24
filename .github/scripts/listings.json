@@ -209284,7 +209284,7 @@
         "company_name": "Smiths Detection Group",
         "id": "cd8afe96-69db-4e04-983b-f32197b6d2e9",
         "title": "Embedded Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1772090592,
         "date_posted": 1772090592,
         "url": "https://jobs.smartrecruiters.com/SmithsGroup2/744000103765506",
@@ -242645,7 +242645,7 @@
         "company_name": "NextEra Energy",
         "id": "c4a6b378-a558-483a-b124-b5a291a9671f",
         "title": "Associate Data Scientist",
-        "active": false,
+        "active": true,
         "date_updated": 1773786393,
         "date_posted": 1773786393,
         "url": "https://jobs.nexteraenergy.com/job/Miami-Associate-Data-Scientist-FL-33134/1374218100/?ats=successfactors",
@@ -304348,5 +304348,32 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Bank of America",
+        "id": "c2c4772a-0a92-4ed1-a066-c979a1eae1ef",
+        "title": "Customer Segment Consultant 1",
+        "active": true,
+        "date_updated": 1777024151,
+        "date_posted": 1776523611,
+        "url": "https://ghr.wd1.myworkdayjobs.com/us-emplsv/job/Pennington/Customer-Segment-Consultant-I_26010046",
+        "locations": [
+            "Boston, MA",
+            "Plano, TX",
+            "Charlotte, NC",
+            "Palatine, IL",
+            "Jacksonville, FL",
+            "Chandler, AZ",
+            "Central Falls, RI",
+            "Lawrence Township, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Bank-Of-America",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
