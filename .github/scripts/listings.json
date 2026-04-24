@@ -60133,42 +60133,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "ASM Global",
-        "id": "d7c3d378-4f6d-47a2-a94c-474f55e15775",
-        "title": "Venue Technology Assistant - Sofi Stadium",
-        "active": false,
-        "date_updated": 1756336939,
-        "date_posted": 1756336939,
-        "url": "https://asmglobal.wd1.myworkdayjobs.com/careers/job/Los-Angeles-Hospitality/Venue-Technology-Assistant_R100116134",
-        "locations": [
-            "LA"
-        ],
-        "company_url": "https://simplify.jobs/c/ASM-Global",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Point72",
-        "id": "01e96f8b-3039-4c34-807c-eb95ca76fd52",
-        "title": "2026 Cubist Quant Academy - Developers",
-        "active": false,
-        "date_updated": 1761254504,
-        "date_posted": 1756336465,
-        "url": "https://boards.greenhouse.io/point72/jobs/7598678002",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Point72",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "The Voleon Group",
         "id": "8227eb84-81d9-4f47-8d99-d87c51bfd6b6",
         "title": "Software Engineer - University Hire 2026",
@@ -64232,7 +64196,7 @@
         "company_name": "ALTEN Technology",
         "id": "f6f665ec-37eb-4922-9180-758bb53c6bbc",
         "title": "Data Collection Operator 1",
-        "active": true,
+        "active": false,
         "date_updated": 1763163597,
         "date_posted": 1763163597,
         "url": "https://job-boards.greenhouse.io/altentechnologyusa/jobs/4981897007",
@@ -226591,7 +226555,7 @@
         "company_name": "Autodesk",
         "id": "2e1b2d3c-f78d-4923-b631-9fc4cee7f574",
         "title": "Applied AI Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1772839614,
         "date_posted": 1772839614,
         "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Applied-AI-Analyst_25WD91166-3",
@@ -235750,7 +235714,7 @@
         "company_name": "TransUnion",
         "id": "f5aedcf5-ba18-4e08-bf0d-5e2c7fcc4232",
         "title": "Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1773365264,
         "date_posted": 1773365264,
         "url": "https://transunion.wd5.myworkdayjobs.com/en-US/TransUnion/job/Boca-Raton-Florida/Developer_19037951",
@@ -241511,7 +241475,7 @@
         "company_name": "Moog ",
         "id": "2733ff3e-ab32-404d-b849-512647297d35",
         "title": "Associate Product Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773698988,
         "date_posted": 1773698988,
         "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Associate-Product-Engineer_R-26-16680",
@@ -266061,7 +266025,7 @@
         "company_name": "Leidos",
         "id": "abc7a339-8eda-488e-9df5-1170083d5c9d",
         "title": "Junior Radio Frequency - Radio Frequency",
-        "active": false,
+        "active": true,
         "date_updated": 1775005437,
         "date_posted": 1774995049,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Gunpowder-MD/Jr-Radio-Frequency--RF--Engineer_R-00179651",
@@ -281097,7 +281061,7 @@
         "company_name": "Caterpillar Inc.",
         "id": "193ed030-b390-4b6f-9723-38179349083c",
         "title": "Product Quality Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1775814983,
         "date_posted": 1775812379,
         "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Stockton-United-Kingdom/Quality-Technician_R0000360572",
@@ -286865,7 +286829,7 @@
         "company_name": "Halliburton",
         "id": "18c2b7e2-35ef-4d60-942a-0295f9fc0a3c",
         "title": "Logging Geologist-SDL - II",
-        "active": true,
+        "active": false,
         "date_updated": 1776178317,
         "date_posted": 1776175586,
         "url": "https://jobs.halliburton.com/job/Aberdeen-Aberdeen-Logging-Geologist-SDL,-II-ABE-AB21-0GN/1372134400/?ats=successfactors",
@@ -304972,6 +304936,276 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Loop",
+        "id": "e2e4c546-b4ed-4635-a571-273ecde451ac",
+        "title": "New Grad",
+        "active": true,
+        "date_updated": 1777068924,
+        "date_posted": 1777068422,
+        "url": "https://job-boards.greenhouse.io/loop/jobs/5981828004",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Loop",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Sun Life",
+        "id": "d14cc6e3-5749-48bc-bc93-30fe4a607c30",
+        "title": "Software Engineer - Salesforce Fusion",
+        "active": true,
+        "date_updated": 1777069441,
+        "date_posted": 1777068555,
+        "url": "https://sunlife.wd3.myworkdayjobs.com/en-US/Experienced-Jobs/job/Waterloo-Ontario/Software-Engineer--Salesforce-Fusion-_JR00123016",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Kitchener, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Sun-Life",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "CACI",
+        "id": "793090f3-86ee-448e-b72c-472cdf644bb3",
+        "title": "Electro Optical Technician",
+        "active": true,
+        "date_updated": 1777068541,
+        "date_posted": 1777068436,
+        "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-MT-Belgrade/Electro-Optical-Technician_325338-1",
+        "locations": [
+            "Bozeman, MT"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "JBS Foods",
+        "id": "745ec0df-5243-49e8-ac0a-d210240a843e",
+        "title": "Pilgrim's Data Analyst",
+        "active": true,
+        "date_updated": 1777068541,
+        "date_posted": 1777068510,
+        "url": "https://jobs.jobvite.com/jbs/job/ohs2zfw4?nl=1&nl=1&fr=false",
+        "locations": [
+            "Winona, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/JBS-Foods",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Microsoft",
+        "id": "448d9487-de47-4ecc-a491-f79c1cef1879",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1777068738,
+        "date_posted": 1777068408,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556620143",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Microsoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Guidehouse",
+        "id": "3fba976b-1337-4e3e-8e60-c8d98ff5f6f2",
+        "title": "Data Management/Governance Specialist",
+        "active": true,
+        "date_updated": 1777068734,
+        "date_posted": 1777068612,
+        "url": "https://guidehouse.wd1.myworkdayjobs.com/external/job/US---TX-San-Antonio/Data-Management-Governance-Specialist_35322",
+        "locations": [
+            "San Antonio, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Guidehouse",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Equifax",
+        "id": "27f33ebe-d45c-4d8b-b225-a2b9b3ebc038",
+        "title": "Product Owner",
+        "active": true,
+        "date_updated": 1777068541,
+        "date_posted": 1777068444,
+        "url": "https://equifax.wd5.myworkdayjobs.com/external/job/USA---Atlanta---One-Atlantic-Center/Product-Owner_J00176714",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Equifax",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "NVIDIA",
+        "id": "234bc8ff-21fc-4236-9880-38732507d070",
+        "title": "Low Power ASIC Engineer \u2013 New College Grad",
+        "active": true,
+        "date_updated": 1777069114,
+        "date_posted": 1777068472,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Low-Power-ASIC-Engineer---New-College-Grad-2026_JR2017001",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "WVUMedicine",
+        "id": "01832f0e-f2a8-4742-b589-fe2be0b2c634",
+        "title": "Associate Machine Learning Engineer",
+        "active": true,
+        "date_updated": 1777068541,
+        "date_posted": 1777068379,
+        "url": "https://wvumedicine.wd1.myworkdayjobs.com/WVUH/job/Information-Technology-Center/Associate-Machine-Learning-Engineer_JR26-33587",
+        "locations": [
+            "Morgantown, WV"
+        ],
+        "company_url": "https://simplify.jobs/c/WVUMedicine",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Loop",
+        "id": "9958d602-1c38-4084-a575-1404f99b6d04",
+        "title": "New Grad - Full-Stack",
+        "active": true,
+        "date_updated": 1777068971,
+        "date_posted": 1777068421,
+        "url": "https://job-boards.greenhouse.io/loop/jobs/5981831004",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Loop",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "GM financial",
+        "id": "7cf2e214-310a-4c37-93af-62e4ae7d0004",
+        "title": "Software Development Engineer 1",
+        "active": true,
+        "date_updated": 1777068918,
+        "date_posted": 1777068404,
+        "url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2078",
+        "locations": [
+            "Arlington, TX",
+            "Irving, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/GM-Financial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Arkansas",
+        "id": "61bac18f-f78b-4ccf-9f3e-525007d23958",
+        "title": "HCM & Finance Reporting & Automation Assistant",
+        "active": true,
+        "date_updated": 1777068309,
+        "date_posted": 1777068122,
+        "url": "https://uasys.wd5.myworkdayjobs.com/UAF_External_Career_Site/job/Fayetteville/HCM---Finance-Reporting---Automation-Assistant_R0084827-1",
+        "locations": [
+            "Fayetteville, AR"
+        ],
+        "company_url": "https://simplify.jobs/c/1d49378c-2501-4900-8d62-ab3ca8ddadb0",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Amentum",
+        "id": "268d86ce-2c85-4367-be0d-ade61073f4c9",
+        "title": "Entry Level Optical Engineer",
+        "active": true,
+        "date_updated": 1777068541,
+        "date_posted": 1777068447,
+        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-IN-Odon/Entry-Level-Optical-Engineer_R0160011",
+        "locations": [
+            "Bedford, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Amentum",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
