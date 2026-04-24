@@ -1,98 +1,5 @@
 [
     {
-        "date_updated": 1756730767,
-        "sponsorship": "Other",
-        "active": true,
-        "degrees": [],
-        "url": "https://job-boards.greenhouse.io/allencontrolsystems/jobs/4685229008",
-        "company_name": "Allen Control Systems",
-        "title": "Computer Vision & Machine Learning, Junior",
-        "locations": [
-            "Austin, TX"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "AlmondCroffle",
-        "id": "23144399-8ed7-416d-be8b-00a825a7b492",
-        "date_posted": 1756303925,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1759961401,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "degrees": [],
-        "url": "https://fmr.wd1.myworkdayjobs.com/en-US/fidelitycareers/job/Westlake-TX/XMLNAME-2026-Undergraduate---LEAP--Software-Engineer_2116586-1",
-        "company_name": "Fidelity",
-        "title": "Software Engineer",
-        "locations": [
-            "Westlake, TX",
-            "Merrimack, NH"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "e0d7e0bd-4b19-425f-973c-e1b9c5c25e3c",
-        "date_posted": 1756304006,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1756731713,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [],
-        "url": "https://jobs.ashbyhq.com/jerry.ai/3bb80177-b737-419c-8133-dd5f60a8a270",
-        "company_name": "Jerry",
-        "title": "Software Engineer I",
-        "locations": [
-            "San Francisco, CA",
-            "Palo Alto, CA"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "072216f4-a069-4ed2-a11f-cfbb558eca08",
-        "date_posted": 1756304091,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1763710136,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [],
-        "url": "https://jobs.ashbyhq.com/Cape/bd280ded-4298-47de-a186-1aebd1bd94b8",
-        "company_name": "Cape",
-        "title": "Software Engineer",
-        "locations": [
-            "New York, NY",
-            "Washington, DC"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "c2099f9e-2ac8-4654-9075-6daf9ed6fdb1",
-        "date_posted": 1756304248,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1765289586,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [],
-        "url": "https://jobs.ashbyhq.com/abridge/55958eb5-109f-4e88-9793-ed2327fc753a",
-        "company_name": "Abridge",
-        "title": "Full Stack Engineering",
-        "locations": [
-            "San Francisco, CA"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "7c0c1cf0-b771-40f5-81fc-ceff706e651f",
-        "date_posted": 1756304265,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "date_updated": 1756731768,
         "sponsorship": "Offers Sponsorship",
         "active": true,
@@ -60235,25 +60142,6 @@
             "United States"
         ],
         "company_url": "https://simplify.jobs/c/Nitra",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Cloudflare",
-        "id": "21466ee9-9922-4dfe-83b4-edbe2688271c",
-        "title": "System Engineer - Docs Platform",
-        "active": false,
-        "date_updated": 1757008133,
-        "date_posted": 1756304190,
-        "url": "https://boards.greenhouse.io/cloudflare/jobs/7189387",
-        "locations": [
-            "Austin, TX",
-            "Bengaluru, Karnataka, India"
-        ],
-        "company_url": "https://simplify.jobs/c/Cloudflare",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -281223,7 +281111,7 @@
         "source": "Simplify",
         "category": "Hardware",
         "company_name": "General Dynamics UK",
-        "id": "b37868be-64a9-494d-ab2b-bd0ec39f94ae",
+        "id": "065c3327-c2a5-45a2-a491-9aaaf0af1379",
         "title": "Intermediate Systems Engineer - Applications Team",
         "active": true,
         "date_updated": 1775814133,
@@ -304394,6 +304282,88 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Analog Devices",
+        "id": "9ababd6f-46cf-434c-899e-528035093d73",
+        "title": "Associate Product Development Engineer",
+        "active": true,
+        "date_updated": 1777040222,
+        "date_posted": 1777039668,
+        "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Associate-Product-Development-Engineering_R256047",
+        "locations": [
+            "Burlington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Analog-Devices",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Wells Fargo",
+        "id": "0d8a9b1a-68d2-44d6-9e7b-06ecb88aca7b",
+        "title": "Securities Algorithmic Trading Associate",
+        "active": true,
+        "date_updated": 1777039741,
+        "date_posted": 1777039592,
+        "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CITY-OF-LONDON/Securities-Algorithmic-Trading-Associate_R-540211",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Wells-Fargo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Memorial Healthcare System",
+        "id": "391d0b21-c936-47cd-8aa4-c7d250e47ad6",
+        "title": "Software Developer - Python",
+        "active": true,
+        "date_updated": 1777039561,
+        "date_posted": 1777039540,
+        "url": "https://memorialhealthcare.wd1.myworkdayjobs.com/mhs_careers/job/Digital-Innovation-Office/Software-Developer---Python---FT---Days---DIO_JR-20054-1",
+        "locations": [
+            "Miramar, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Memorial-Healthcare-System",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Trade Desk",
+        "id": "7fc918cd-7986-4611-999f-370d2c78ba65",
+        "title": "Applied Scientist 2",
+        "active": true,
+        "date_updated": 1777039732,
+        "date_posted": 1775657197,
+        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5102136007",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/281371f9-4ed3-4440-876f-4bbeaa0d50e0",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     }
 ]
