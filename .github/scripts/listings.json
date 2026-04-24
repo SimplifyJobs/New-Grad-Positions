@@ -1,46 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Other",
-        "company_name": "The Travelers Companies",
-        "id": "d8c7a695-5d37-4612-bc66-61dd2aa56964",
-        "title": "Cybersecurity Engineer I",
-        "active": false,
-        "date_updated": 1756253445,
-        "date_posted": 1756253445,
-        "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Cybersecurity-Engineer-I_R-46472",
-        "locations": [
-            "Hartford, CT",
-            "St Paul, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Travelers",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Certificate"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Other",
-        "company_name": "Sierra Nevada Coporation",
-        "id": "5a66fea0-ed21-475d-9798-602e067f18eb",
-        "title": "Systems Security Engineer I",
-        "active": false,
-        "date_updated": 1761830248,
-        "date_posted": 1756254133,
-        "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Systems-Security-Engineer-I_R0028118",
-        "locations": [
-            "Lone Tree, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Sierra-Nevada-Coporation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Valon",
         "id": "b1c0c1f9-c373-466d-9230-5e7361962acc",
@@ -42007,24 +41967,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Zuma",
-        "id": "14a27e30-e828-4e70-8b54-9c0c41bc6d2e",
-        "title": "Support Engineer",
-        "active": true,
-        "date_updated": 1756254567,
-        "date_posted": 1756254567,
-        "url": "https://jobs.lever.co/getzuma/aeba8354-1a4c-4ebf-88c5-025de0c4cd4e/apply",
-        "locations": [
-            "California"
-        ],
-        "company_url": "https://simplify.jobs/c/Zuma",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Woodward Governor",
         "id": "8e55ca72-082f-40b2-83d8-f09ee605bccc",
@@ -60730,24 +60672,6 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/TransPerfect",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Analog Devices",
-        "id": "8abc553a-2f9e-4c88-aa48-5c64c987cf9c",
-        "title": "Electronic Design Automation Research and Development Engineer with Emphasis on Simulation - Modeling - Software Development",
-        "active": false,
-        "date_updated": 1761938313,
-        "date_posted": 1756254281,
-        "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/EDA-R-D-Engineer-with-Emphasis-on-Simulation--Modeling--and-Software-Development_R254720",
-        "locations": [
-            "Burlington, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Analog-Devices",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -281451,7 +281375,7 @@
         "company_name": "Red Bull Advanced Technologies",
         "id": "5829fc3b-9967-4196-b587-672384d0e35f",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1775814311,
         "date_posted": 1775812386,
         "url": "https://redbulltechnology.wd3.myworkdayjobs.com/RB_Racing/job/Milton-Keynes/Software-Engineer_R0007410",
