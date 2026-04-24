@@ -60642,42 +60642,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "American Express",
-        "id": "cb1f38d5-a9f6-4929-866e-c0ea1c8a3942",
-        "title": "Associate - Digital Product Management - Marketing Enablement and Transformation - Multiple Teams",
-        "active": true,
-        "date_updated": 1758379080,
-        "date_posted": 1756255863,
-        "url": "https://aexp.eightfold.ai/careers/job/30827630",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/American-Express",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "TransPerfect",
-        "id": "c70f68be-c32c-46e4-9f4c-f42efa1a2106",
-        "title": "Data Accuracy Specialist",
-        "active": false,
-        "date_updated": 1756254939,
-        "date_posted": 1756254939,
-        "url": "https://transperfect.wd5.myworkdayjobs.com/transperfect/job/UK-London/Data-Accuracy-Specialist_R2024-239620",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/TransPerfect",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "INTEGRIS Health",
         "id": "102f2e23-0fe2-47e9-b257-2b1e08674798",
@@ -274142,7 +274106,7 @@
         "company_name": "Amazon",
         "id": "60fe0cd6-ae9a-46b5-9648-4bc577753ed3",
         "title": "AI Data Associate - Artificial General Intelligence",
-        "active": true,
+        "active": false,
         "date_updated": 1775470501,
         "date_posted": 1775466187,
         "url": "https://amazon.jobs/en/jobs/3190137/ai-data-associate-french-artificial-general-intelligence",
@@ -303303,7 +303267,7 @@
         "company_name": "Freddie Mac",
         "id": "a8b0bbd9-44c1-4f9f-8f8b-db526e539a87",
         "title": "Software Engineering Professional",
-        "active": true,
+        "active": false,
         "date_updated": 1776982141,
         "date_posted": 1776982136,
         "url": "https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Software-Engineering-Professional_JR16942",
