@@ -60186,24 +60186,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "University of Texas - Austin",
-        "id": "526e61a0-9dc3-483b-bed0-c73c2ab90591",
-        "title": "Postdoctoral Fellow",
-        "active": true,
-        "date_updated": 1756332460,
-        "date_posted": 1756332460,
-        "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/AUSTIN-TX/Postdoctoral-Fellow_R_00029121",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/University-Of-Texas-Austin",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Analog Devices",
         "id": "94018a48-779f-45be-ac27-ffd5068f3a37",
@@ -133191,7 +133173,7 @@
         "company_name": "SpaceX",
         "id": "46b06c74-5bc4-42ef-9f4a-808b598704be",
         "title": "Software Engineer - Direct To Cell",
-        "active": false,
+        "active": true,
         "date_updated": 1767979314,
         "date_posted": 1767979314,
         "url": "https://boards.greenhouse.io/spacex/jobs/8364374002",
@@ -238741,7 +238723,7 @@
         "company_name": "Allison Transmission",
         "id": "ce7a6dff-58d5-4e3c-b3da-52a865318a2f",
         "title": "Embedded Controls Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773485358,
         "date_posted": 1773485358,
         "url": "https://allisontransmission.wd1.myworkdayjobs.com/ATI-External/job/Indianapolis-IN/Engineer--Embedded-Controls-Software_R006904-1",
@@ -244463,7 +244445,7 @@
         "company_name": "Johnson Controls",
         "id": "f88340ea-b30d-4da0-a530-8209167bff94",
         "title": "Electrical Designer",
-        "active": false,
+        "active": true,
         "date_updated": 1773875210,
         "date_posted": 1773875210,
         "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/New-Freedom-Pennsylvania-United-States-of-America/Electrical-Designer_WD30263444",
@@ -257540,7 +257522,7 @@
         "company_name": "Micron Technology",
         "id": "eb914efb-9d4b-4125-82ac-0178b19e25ea",
         "title": "New College Grad - HBM Product Manager",
-        "active": false,
+        "active": true,
         "date_updated": 1774570972,
         "date_posted": 1774570972,
         "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/XMLNAME--New-College-Grad--HBM-Product-Manager_JR94868",
@@ -282647,7 +282629,7 @@
         "company_name": "IMC Trading",
         "id": "8549035c-dbc3-4cb3-8f78-b5067bac3004",
         "title": "Data Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1775860395,
         "date_posted": 1775858826,
         "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4832698101",
@@ -291052,7 +291034,7 @@
         "company_name": "The Boeing Company",
         "id": "86a126e7-d91d-4410-92f1-26d65b7f3d1b",
         "title": "Audio Visual Programmer \u2013 Mid-Level or Senior",
-        "active": false,
+        "active": true,
         "date_updated": 1776348721,
         "date_posted": 1776348609,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Herndon-VA/Audio-Visual-Programmer--Associate--Mid-Level-or-Senior-_JR2026499471-1",
@@ -304294,6 +304276,162 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northwood Space",
+        "id": "6805a542-b373-4362-a01b-1340de5ba6db",
+        "title": "Software Engineer \u2013 New grad / early career",
+        "active": true,
+        "date_updated": 1777068541,
+        "date_posted": 1777068521,
+        "url": "https://jobs.ashbyhq.com/NorthwoodSpace/b960b661-e1cc-40d0-bde3-290cd1b58ede/application",
+        "locations": [
+            "Carson, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Northwood-Space",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Fortinet",
+        "id": "3778fb79-01fd-4fc9-8384-fb17e002db94",
+        "title": "New Grads",
+        "active": true,
+        "date_updated": 1777069000,
+        "date_posted": 1777068376,
+        "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/NewGrads2019",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Fortinet",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Bank of America",
+        "id": "a8d21c3a-3b22-47d1-94d4-f524e47bd4ad",
+        "title": "Data Scientist 1",
+        "active": true,
+        "date_updated": 1777069444,
+        "date_posted": 1777068653,
+        "url": "https://ghr.wd1.myworkdayjobs.com/us-emplsv/job/Charlotte/Data-Scientist-I_26014856-1",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Bank-Of-America",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Microchip Technology",
+        "id": "95a54c3f-bb32-4f27-b2a2-7752359cd805",
+        "title": "Engineer 1 - Product Marketing - Technical",
+        "active": true,
+        "date_updated": 1777069039,
+        "date_posted": 1777068398,
+        "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/PA---Mount-Holly-Springs/Engineer-I-Product-Marketing--Technical-_R1785-26",
+        "locations": [
+            "Carlisle, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Microchip-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Guidehouse",
+        "id": "7247015c-4deb-448a-98b5-6c37a24d8b35",
+        "title": "Data Scientist - AI/ML Focus",
+        "active": true,
+        "date_updated": 1777068734,
+        "date_posted": 1777068611,
+        "url": "https://guidehouse.wd1.myworkdayjobs.com/external/job/US---TX-San-Antonio/Data-Scientist--AI-ML-Focus-_35324-1",
+        "locations": [
+            "San Antonio, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Guidehouse",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Westinghouse Electric Company",
+        "id": "cb2b6fc9-48fb-44b8-8bbd-d9a5129ae39c",
+        "title": "Engineer 1",
+        "active": true,
+        "date_updated": 1777069015,
+        "date_posted": 1777068424,
+        "url": "https://careers.westinghousenuclear.com/job/Warrendale-Engineer-I-OR/1385502300/?ats=successfactors",
+        "locations": [
+            "Cranberry Twp, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Westinghouse-Electric-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Amazon",
+        "id": "cac49ec8-ab82-4ee4-9642-ecac5c57d408",
+        "title": "Data Center Technician",
+        "active": true,
+        "date_updated": 1777068541,
+        "date_posted": 1777068421,
+        "url": "https://amazon.jobs/en/jobs/10403234/data-center-technician",
+        "locations": [
+            "Lubbock, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Ohio State University",
+        "id": "6dfd62b2-524e-48d5-b9a6-d849bb30508d",
+        "title": "Assistant Professor in Artificial Intelligence in Geosciences - School of Earth Sciences",
+        "active": true,
+        "date_updated": 1777068361,
+        "date_posted": 1777068258,
+        "url": "https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Columbus-Campus/Assistant-Professor-in-Artificial-Intelligence-in-Geosciences---School-of-Earth-Sciences_R149809-1",
+        "locations": [
+            "Columbus, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Ohio-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
         ]
     }
 ]
