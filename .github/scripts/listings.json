@@ -1,23 +1,5 @@
 [
     {
-        "date_updated": 1756731768,
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "degrees": [],
-        "url": "https://www.commure.com/careers-detail?ashby_jid=00dbfa4a-986c-4c98-a966-47874d1ff0f8",
-        "company_name": "Commure",
-        "title": "Software Engineer (Summer 2026 New Grad)",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "category": "Software Engineering",
-        "source": "kchurro",
-        "id": "5e1806a5-85f7-4b5e-afdc-07f96205a142",
-        "date_posted": 1756319204,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
         "date_updated": 1760049672,
         "sponsorship": "Offers Sponsorship",
         "active": true,
@@ -230585,7 +230567,7 @@
         "company_name": "Bass Pro Shops",
         "id": "5bb83aeb-0a4f-4386-9d66-17e7f1468d4d",
         "title": "Footwear Product Development Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1773181813,
         "date_posted": 1773181813,
         "url": "https://basspro.wd1.myworkdayjobs.com/careers/job/Springfield-MO-Bass-Pro-Shops-Base-Camp/Footwear-Product-Development-Specialist_R250090",
@@ -276091,7 +276073,7 @@
         "company_name": "IMA Financial Group",
         "id": "7214a2e6-0efa-4506-af88-ab470c6fdce5",
         "title": "Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1775601002,
         "date_posted": 1775599393,
         "url": "https://imacorp.com/careers/openings/5100650007?gh_jid=5100650007",
