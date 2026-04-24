@@ -1,23 +1,5 @@
 [
     {
-        "date_updated": 1760049672,
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "degrees": [],
-        "url": "https://www.commure.com/careers-detail?ashby_jid=0f13b112-8d8c-4fb1-ae3d-449cc36cd89e",
-        "company_name": "Commure",
-        "title": "Software Engineer, Ambient AI (Summer 2026 New Grad)",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "category": "Software Engineering",
-        "source": "kchurro",
-        "id": "09bcbc97-f4d9-4465-932e-e8f50ef7e336",
-        "date_posted": 1756320123,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
         "source": "Simplify",
         "category": "Software",
         "company_name": "USAA",
@@ -257112,7 +257094,7 @@
         "company_name": "Gentex Corporation",
         "id": "a3d95f3e-69fa-4e8a-ba43-0bdf6a5b9115",
         "title": "Embedded Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1774565325,
         "date_posted": 1774565325,
         "url": "https://gentex.wd5.myworkdayjobs.com/Gentex/job/Zeeland-MI/Embedded-Software-Engineer-I_REQ025573",
@@ -266119,7 +266101,7 @@
         "company_name": "Leidos",
         "id": "abc7a339-8eda-488e-9df5-1170083d5c9d",
         "title": "Junior Radio Frequency - Radio Frequency",
-        "active": true,
+        "active": false,
         "date_updated": 1775005437,
         "date_posted": 1774995049,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Gunpowder-MD/Jr-Radio-Frequency--RF--Engineer_R-00179651",
