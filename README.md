@@ -609,7 +609,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Agentic Ops Intern 🛂</td>
 <td><details><summary><strong>8 locations</strong></summary>Toronto, ON, CAN</br>Austin, TX</br>Chicago, IL</br>Miami, FL</br>New York, NY</br>San Francisco, CA</br>Vancouver, BC, CAN</br>Victoria, BC, CAN</details></td>
 <td><a href="https://jobs.ashbyhq.com/nascent/8454aeb0-fc8d-4fb0-9143-ea0d0a192efb?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td>29d</td>
+<td>1mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Freedom-Technology-Solutions-Group?utm_source=GHList&utm_medium=company">Freedom Technology Solutions Group</a></strong></td>
@@ -8964,7 +8964,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Junior Developer Consultant - Geospatial Software Development</td>
 <td>Remote in USA</td>
 <td>🔒</td>
-<td>6mo</td>
+<td>7mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Parafin?utm_source=GHList&utm_medium=company">Parafin</a></strong></td>
@@ -12356,7 +12356,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Data Engineer I</td>
 <td>Toronto, ON, Canada</td>
 <td>🔒</td>
-<td>5mo</td>
+<td>6mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Smx?utm_source=GHList&utm_medium=company">SMX</a></strong></td>
@@ -13160,7 +13160,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Quant Research Engineer – New Grad</td>
 <td><details><summary><strong>4 locations</strong></summary>SF</br>LA</br>NYC</br>Remote in Canada</details></td>
 <td>🔒</td>
-<td>6mo</td>
+<td>7mo</td>
 </tr>
 <tr>
 <td><strong>Capstone</strong></td>
