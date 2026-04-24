@@ -300948,7 +300948,7 @@
         "company_name": "Ekho",
         "id": "87a1e957-52f8-454d-a246-892773aa65ff",
         "title": "Forward Deployed Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1776849121,
         "date_posted": 1773440814,
         "url": "https://jobs.ashbyhq.com/Ekho/c328cbe8-6d54-4e55-858b-5f2f2845ee1e/application",
@@ -301878,7 +301878,7 @@
         "company_name": "NextEra Energy",
         "id": "a8938289-06fd-4226-a55b-f3b553335f3a",
         "title": "Forecasting & Optimization Associate Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1776896117,
         "date_posted": 1776895700,
         "url": "https://jobs.nexteraenergy.com/job/Juno-Beach-Forecasting-&-Optimization-Associate-Analyst-FL-33408/1384640500/?ats=successfactors",
@@ -304330,5 +304330,23 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Susquehanna International Group (SIG)",
+        "id": "f6330022-551c-4e0a-a098-747bdf19dd1a",
+        "title": "Fixed Income Trading Analyst - Early Careers",
+        "active": true,
+        "date_updated": 1777021561,
+        "date_posted": 1777021387,
+        "url": "https://careers-sig.icims.com/jobs/10827/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Susquehanna",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
