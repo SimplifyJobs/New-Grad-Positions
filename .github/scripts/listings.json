@@ -1,24 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Valon",
-        "id": "b1c0c1f9-c373-466d-9230-5e7361962acc",
-        "title": "Software Engineer \u2013 New Grad",
-        "active": false,
-        "date_updated": 1761844947,
-        "date_posted": 1756259302,
-        "url": "https://job-boards.greenhouse.io/valon/jobs/4409152006",
-        "locations": [
-            "SF",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Valon",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
         "date_updated": 1756730767,
         "sponsorship": "Other",
         "active": true,
@@ -221511,7 +221492,7 @@
         "company_name": "RTX",
         "id": "e92f7754-cc5e-47ef-bb0c-08cc5ee1bdb4",
         "title": "Software Engineer 2",
-        "active": false,
+        "active": true,
         "date_updated": 1772667178,
         "date_posted": 1772667178,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineer-II--Onsite-_01824725-1",
@@ -304316,6 +304297,47 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/ccd659bd-afde-4183-82c1-ec67db14a116",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Hewlett Packard Enterprise",
+        "id": "7509052f-8758-4df7-9d85-1372fb4d3084",
+        "title": "HPC Technical Consultant",
+        "active": true,
+        "date_updated": 1776993213,
+        "date_posted": 1776992862,
+        "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/All-Tennessee-United-States-of-America/HPC-Technical-Consultant-On-site--ORNL--Oakridge--TN_1205641-3",
+        "locations": [
+            "Oak Ridge, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "The Walt Disney Company",
+        "id": "1beac4d8-5251-47bd-8ef6-de348a31f826",
+        "title": "Product Owner Intern",
+        "active": true,
+        "date_updated": 1776993273,
+        "date_posted": 1776992825,
+        "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Burbank-CA-USA/Product-Owner_10147528",
+        "locations": [
+            "Burbank, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Disney",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
