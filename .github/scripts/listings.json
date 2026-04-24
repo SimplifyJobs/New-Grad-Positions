@@ -251029,7 +251029,7 @@
         "company_name": "Marvell",
         "id": "ab9a3a31-c7cb-4dd5-9d3d-357f211a1037",
         "title": "Firmware Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1774319409,
         "date_posted": 1774319409,
         "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Westlake-Village-CA/Firmware-Engineer_2601000-1",
@@ -279639,7 +279639,7 @@
         "company_name": "Morgan Stanley",
         "id": "42468909-f6d7-4142-91b1-bfc9278fb1aa",
         "title": "Data Management",
-        "active": true,
+        "active": false,
         "date_updated": 1775746636,
         "date_posted": 1775743878,
         "url": "https://ms.wd5.myworkdayjobs.com/External/job/Glasgow-United-Kingdom/Data-Management_PT-JR033474",
@@ -304370,6 +304370,26 @@
             "Lawrence Township, NJ"
         ],
         "company_url": "https://simplify.jobs/c/Bank-Of-America",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Moog ",
+        "id": "9ac313d5-9282-4818-b4b8-b7e24416f6d9",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1777022821,
+        "date_posted": 1776981978,
+        "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Santa-Barbara-CA/Embedded-Software-Engineer_R-26-17229",
+        "locations": [
+            "Santa Barbara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Moog",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
