@@ -60588,42 +60588,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "ByteDance",
-        "id": "80c3e150-40a3-435a-9f0e-f8dd1f4c050e",
-        "title": "Software Engineer Graduate - AI Applications",
-        "active": false,
-        "date_updated": 1759003257,
-        "date_posted": 1756263615,
-        "url": "https://jobs.bytedance.com/en/position/7540808448918079752/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Brooks Automation",
-        "id": "7805efb1-ddc1-4deb-a3ae-d5b50ed9dc11",
-        "title": "Systems Engineer - Atmospheric Systems",
-        "active": false,
-        "date_updated": 1757149634,
-        "date_posted": 1756262898,
-        "url": "https://brooksauto.wd1.myworkdayjobs.com/en-US/Brooks_External_Site/job/US---Fremont-CA/Systems-Engineer---Atmospheric-Systems_R4910",
-        "locations": [
-            "Fremont, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/190ae898-a199-4c93-b2ce-50b07b110a17",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "INTEGRIS Health",
         "id": "102f2e23-0fe2-47e9-b257-2b1e08674798",
         "title": "Applications Analyst - Kronos/UKG",
