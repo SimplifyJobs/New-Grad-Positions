@@ -57,24 +57,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software Engineering",
-        "company_name": "Samsara",
-        "id": "73b7d550-bdcb-4c17-ba8f-6ef455b882bb",
-        "title": "New Grad \u2013 Software Engineering",
-        "active": false,
-        "date_updated": 1756413542,
-        "date_posted": 1756315303,
-        "url": "https://www.samsara.com/company/careers/roles/7172579?gh_jid=7172579",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Samsara",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Hewlett Packard Enterprise",
         "id": "be034e03-9992-454f-95f0-a2e5f03f0880",
@@ -60252,24 +60234,6 @@
             "Austin, TX"
         ],
         "company_url": "https://simplify.jobs/c/University-Of-Texas-Austin",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Abbott",
-        "id": "fafad095-5265-407b-92e5-b187f8915e8c",
-        "title": "Associate OT Engineer - Tipp City - OH",
-        "active": false,
-        "date_updated": 1756314517,
-        "date_posted": 1756314517,
-        "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---Ohio---Tipp-City/Associate-OT-Engineer---Tipp-City--OH_31127392",
-        "locations": [
-            "Vandalia, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Abbott",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -187946,7 +187910,7 @@
         "company_name": "Garner Health",
         "id": "08d113b3-10a7-419f-b7db-467289947c89",
         "title": "Integrations Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1771025542,
         "date_posted": 1771025542,
         "url": "https://job-boards.greenhouse.io/garnerhealth/jobs/5803902004",
@@ -253893,7 +253857,7 @@
         "company_name": "Gartner",
         "id": "fe73fdc7-21d1-45d5-b1f4-e7d30dbe1161",
         "title": "Digital Product Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1774085873,
         "date_posted": 1774085873,
         "url": "https://gartner.wd5.myworkdayjobs.com/EXT/job/Irving-TX/Digital-Product-Analyst_106004",
@@ -302001,7 +301965,7 @@
         "company_name": "Slack",
         "id": "04ad3c98-2165-46cb-a9b0-dc7b611175b2",
         "title": "Software Engineer - Machine Learning",
-        "active": true,
+        "active": false,
         "date_updated": 1776896327,
         "date_posted": 1776895603,
         "url": "https://salesforce.wd12.myworkdayjobs.com/Slack/job/California---San-Francisco/Software-Engineer--Machine-Learning--Senior--SWE-II---SWE-I-_JR328085",
@@ -302886,7 +302850,7 @@
         "company_name": "Western Alliance",
         "id": "03af6c9c-ab1a-41c3-89ae-22e8e362d5b9",
         "title": "Software Engineer \u2013 IT Early Career Development Program",
-        "active": true,
+        "active": false,
         "date_updated": 1776981961,
         "date_posted": 1776981928,
         "url": "https://wd5.myworkdaysite.com/recruiting/westernalliancebank/WAB/job/Phoenix-AZ/Software-Engineer---IT-Early-Career-Development-Program_R12821",
