@@ -283327,7 +283327,7 @@
         "company_name": "Doss",
         "id": "99fc33c7-9c05-4699-923a-3bb45cf75ad0",
         "title": "Frontend Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1775901875,
         "date_posted": 1761910066,
         "url": "https://jobs.ashbyhq.com/doss/be9a271a-75d0-4ab5-9fdb-0f64c641c692/application",
@@ -299305,7 +299305,7 @@
         "company_name": "The Boeing Company",
         "id": "898c549a-4c5e-4585-ba34-22f3aed8f855",
         "title": "MP&P Engineer - Nondestructive Evaluation",
-        "active": true,
+        "active": false,
         "date_updated": 1776763261,
         "date_posted": 1776763188,
         "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Mesa-AZ/MP-P-Engineer---NDE_JR2026497106",
@@ -304283,6 +304283,48 @@
             "Little Rock, AR"
         ],
         "company_url": "https://simplify.jobs/c/CAE",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northumbria University",
+        "id": "bdc0a0d6-e899-4815-963c-144ad2bfb399",
+        "title": "KTP Associate: Software and Analytics Specialist",
+        "active": true,
+        "date_updated": 1777021450,
+        "date_posted": 1777021254,
+        "url": "https://fa-etnb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/4035",
+        "locations": [
+            "Newcastle upon Tyne, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Northumbria-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "InterSystems",
+        "id": "820ea812-4848-4700-8f98-8d9e4e44063e",
+        "title": "Software Development Support Engineer",
+        "active": true,
+        "date_updated": 1777021381,
+        "date_posted": 1771457050,
+        "url": "https://www.intersystems.com/careers/careers-search/?gh_jid=7593621003",
+        "locations": [
+            "Slough, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/InterSystems",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
