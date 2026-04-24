@@ -70485,7 +70485,7 @@
         "company_name": "Ocean Optics",
         "id": "60de757d-4f28-4386-a3dc-abb5c9f52fe9",
         "title": "Electronics Field Service Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1763507984,
         "date_posted": 1763507984,
         "url": "https://halma.wd3.myworkdayjobs.com/halma/job/Abingdon/Electronics-Field-Service-Engineer---Based-Swindon---M4---M5-Corridor_JR25_001160",
@@ -219761,7 +219761,7 @@
         "company_name": "Faculty AI",
         "id": "838a1e37-fa96-44e0-afde-173b13e2eea2",
         "title": "Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1772616587,
         "date_posted": 1770995724,
         "url": "https://jobs.ashbyhq.com/faculty/fdad876e-1eed-43ff-b054-e835e1e4b08e/application",
@@ -253490,7 +253490,7 @@
         "company_name": "Gartner",
         "id": "b7d0b0eb-f2ba-411b-abcd-3db5654b9050",
         "title": "Associate Digital Product Manager",
-        "active": true,
+        "active": false,
         "date_updated": 1774419354,
         "date_posted": 1774419354,
         "url": "https://gartner.wd5.myworkdayjobs.com/EXT/job/Fort-Myers-FL/Associate-Digital-Product-Manager_106994",
@@ -255401,7 +255401,7 @@
         "company_name": "ENOVIS",
         "id": "7196948f-193d-4744-b4ee-4d93a7c91f11",
         "title": "Product Engineering Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1774477515,
         "date_posted": 1774477515,
         "url": "https://enovis.wd5.myworkdayjobs.com/en-US/enovis/job/USA-Texas-Austin/Product-Engineering-Technician_R0032458-1",
@@ -264447,7 +264447,7 @@
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Lawrence Livermore National Laboratory (LLNL)",
-        "id": "bca74012-9462-4061-95f7-b27d58666e24",
+        "id": "4042a11a-8433-4d3c-b163-eb95de05c795",
         "title": "Operations Research Postdoctoral Researcher",
         "active": true,
         "date_updated": 1774986841,
@@ -284574,7 +284574,7 @@
         "company_name": "Hyundai Motor Company",
         "id": "6a15cae4-1550-4132-b530-779bf97e6ab2",
         "title": "Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1776080169,
         "date_posted": 1776070905,
         "url": "https://careers-americas.hyundai.com/hatci/job/Irvine-Data-Analyst-(North-American-Quality-Center-NAQC)-CA-92618/1368297900/?ats=successfactors",
@@ -304364,6 +304364,26 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Smiths Detection Group",
+        "id": "9ab020b5-ef53-48fe-830f-ec5132abf92b",
+        "title": "Embedded Software Engineer",
+        "active": true,
+        "date_updated": 1777039561,
+        "date_posted": 1777039401,
+        "url": "https://jobs.smartrecruiters.com/SmithsGroup2/744000122636835",
+        "locations": [
+            "Watford, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Smiths-Detection-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
