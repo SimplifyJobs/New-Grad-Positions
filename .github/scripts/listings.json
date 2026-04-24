@@ -217561,7 +217561,7 @@
         "company_name": "Leonardo",
         "id": "539c2770-8fb3-464f-a252-72c6d3854239",
         "title": "Graduate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1772522943,
         "date_posted": 1772522943,
         "url": "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Edinburgh/Graduate-Software-Engineer_R0021724-1",
@@ -304223,6 +304223,46 @@
             "Burbank, CA"
         ],
         "company_url": "https://simplify.jobs/c/Disney",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CAE",
+        "id": "42d78996-ab41-41e0-b84e-1bfd5d14d5f0",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1777020121,
+        "date_posted": 1776521628,
+        "url": "https://cae.wd3.myworkdayjobs.com/career/job/Little-Rock/Software-Engineer_119497",
+        "locations": [
+            "Little Rock, AR"
+        ],
+        "company_url": "https://simplify.jobs/c/CAE",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TekSynap",
+        "id": "595ce8a0-ac56-46fb-84bf-8e1f3700101d",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1777020172,
+        "date_posted": 1776377257,
+        "url": "https://careers-teksynap.icims.com/jobs/9159/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/TekSynap",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
