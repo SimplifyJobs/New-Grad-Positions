@@ -1,26 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "North Atlantic Industries",
-        "id": "b83652a5-bc8f-42a1-8a07-4baf9aa9c553",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1756419936,
-        "date_posted": 1756419936,
-        "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3535138",
-        "locations": [
-            "Long Island, New York"
-        ],
-        "company_url": "https://simplify.jobs/c/North-Atlantic-Industries",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Iridium Communications",
         "id": "cff3ea70-b48c-45c5-bca9-b3fb564130eb",
@@ -59661,26 +59641,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Berkshire Hathaway Energy",
-        "id": "696e899e-4d7a-48f9-a218-fa10b85e5938",
-        "title": "Business Systems Analyst 1/2/3 - Multiple Teams",
-        "active": false,
-        "date_updated": 1761932025,
-        "date_posted": 1756419232,
-        "url": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10003429",
-        "locations": [
-            "Glen Allen, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Berkshire-Hathaway-Energy",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
