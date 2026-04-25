@@ -1,26 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Iridium Communications",
-        "id": "cff3ea70-b48c-45c5-bca9-b3fb564130eb",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1756422564,
-        "date_posted": 1756422564,
-        "url": "https://careers-iridium.icims.com/jobs/4644/job",
-        "locations": [
-            "Chandler, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Iridium-Communications",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "WSP",
         "id": "99e1a3d1-7f44-4c23-a37f-5ea507bb6bf3",
@@ -59620,24 +59600,6 @@
             "Ferndale, MI"
         ],
         "company_url": "https://simplify.jobs/c/Alfa-Financial-Software",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "KLA Corporation",
-        "id": "52eae0fe-1f6f-4bf9-8c64-12c3d91ce678",
-        "title": "Applications Development Engineer - Bbp",
-        "active": false,
-        "date_updated": 1761941829,
-        "date_posted": 1756422724,
-        "url": "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Applications-Development-Engineer---BBP_2531350",
-        "locations": [
-            "Milpitas, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/KLA-Corporation",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
