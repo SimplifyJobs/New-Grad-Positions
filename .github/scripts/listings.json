@@ -41248,7 +41248,7 @@
         "company_name": "The Voleon Group",
         "id": "9eaa7869-668d-4464-b9ae-cef8205d813c",
         "title": "Associate Member of Trading Staff",
-        "active": true,
+        "active": false,
         "date_updated": 1761875358,
         "date_posted": 1761875358,
         "url": "https://jobs.lever.co/voleon/ce0bda1f-3d5a-44ac-8ab3-8578d49d344c/apply",
@@ -305147,6 +305147,26 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "GE Vernova",
+        "id": "8a2927e6-6b7c-46c6-a427-bd5d77545f2c",
+        "title": "GE Vernova Advanced Research Edison Rotational Program",
+        "active": true,
+        "date_updated": 1776523750,
+        "date_posted": 1776522436,
+        "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Niskayuna/GE-Vernova-Advanced-Research-2026-Edison-Rotational-Program_R5015939-1",
+        "locations": [
+            "Schenectady, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Vernova",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
             "Master's"
         ]
     }
