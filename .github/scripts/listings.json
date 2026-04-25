@@ -1,26 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "USAA",
-        "id": "b79c746f-439f-4b10-b5e0-68073bbfae22",
-        "title": "Software Engineer Entry Level",
-        "active": false,
-        "date_updated": 1756337857,
-        "date_posted": 1756337857,
-        "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/Plano-Legacy/Software-Engineer-Entry-Level_R0111721",
-        "locations": [
-            "Plano, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/664e9aa2-3c0e-4e96-9048-739e08b37a63",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Hewlett Packard Enterprise",
         "id": "be034e03-9992-454f-95f0-a2e5f03f0880",
@@ -6149,24 +6129,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Commure",
-        "id": "1c49e461-9658-4a0a-ae74-588933252625",
-        "title": "Software Engineer \u2013 Summer 2026 New Grad - Ambient AI",
-        "active": false,
-        "date_updated": 1761925225,
-        "date_posted": 1756339280,
-        "url": "https://jobs.ashbyhq.com/Commure-Athelas/0f13b112-8d8c-4fb1-ae3d-449cc36cd89e/application",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Commure",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -51371,7 +51333,7 @@
         "company_name": "Viridien",
         "id": "32630a1c-ac89-42c9-8670-0fc8eb773446",
         "title": "Researcher",
-        "active": true,
+        "active": false,
         "date_updated": 1759828750,
         "date_posted": 1759828750,
         "url": "https://cgg.wd103.myworkdayjobs.com/viridiencareers/job/Crawley-United-Kingdom/Researcher_JR100977",
@@ -242307,7 +242269,7 @@
         "company_name": "Loyola Marymount University",
         "id": "508babe7-78bc-4190-a870-2dc2886220d2",
         "title": "Instructor of Mathematics - Statistics and Data Science",
-        "active": true,
+        "active": false,
         "date_updated": 1773786951,
         "date_posted": 1773786951,
         "url": "https://lmu.wd1.myworkdayjobs.com/careers/job/Westchester-Campus/Instructor-of-Mathematics--Statistics-and-Data-Science_R14010",
@@ -297903,7 +297865,7 @@
         "company_name": "Charles Schwab",
         "id": "4c40fb77-0a8f-4ec9-995f-5b0678bd1c54",
         "title": "Trading Operations Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1776724381,
         "date_posted": 1776723537,
         "url": "https://career-schwab.icims.com/jobs/121245/job?mobile=true&needsRedirect=false",
