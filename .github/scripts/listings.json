@@ -51333,7 +51333,7 @@
         "company_name": "Viridien",
         "id": "32630a1c-ac89-42c9-8670-0fc8eb773446",
         "title": "Researcher",
-        "active": false,
+        "active": true,
         "date_updated": 1759828750,
         "date_posted": 1759828750,
         "url": "https://cgg.wd103.myworkdayjobs.com/viridiencareers/job/Crawley-United-Kingdom/Researcher_JR100977",
@@ -235656,7 +235656,7 @@
         "company_name": "TransUnion",
         "id": "f5aedcf5-ba18-4e08-bf0d-5e2c7fcc4232",
         "title": "Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1773365264,
         "date_posted": 1773365264,
         "url": "https://transunion.wd5.myworkdayjobs.com/en-US/TransUnion/job/Boca-Raton-Florida/Developer_19037951",
@@ -273552,7 +273552,7 @@
         "company_name": "Uber",
         "id": "679879b8-462e-4810-b391-25b5e93ef7e7",
         "title": "Graduate Software Engineer 1 - Mobile - Android",
-        "active": false,
+        "active": true,
         "date_updated": 1775471324,
         "date_posted": 1775466406,
         "url": "https://university-uber.icims.com/jobs/158037/job?mobile=true&needsRedirect=false",
@@ -273657,7 +273657,7 @@
         "company_name": "Uber",
         "id": "750526d3-f783-4c66-8d9b-aa4e6d10e4de",
         "title": "Graduate Software Engineer 1 - Mobile - iOS",
-        "active": false,
+        "active": true,
         "date_updated": 1775471429,
         "date_posted": 1775466409,
         "url": "https://university-uber.icims.com/jobs/158011/job?mobile=true&needsRedirect=false",
@@ -305168,6 +305168,67 @@
         "sponsorship": "Other",
         "degrees": [
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "xAI",
+        "id": "c4af72be-3beb-4321-af28-1206dea74e31",
+        "title": "Data Engineer",
+        "active": true,
+        "date_updated": 1777079161,
+        "date_posted": 1777079121,
+        "url": "https://job-boards.greenhouse.io/xai/jobs/5120884007",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/XAI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "NVIDIA",
+        "id": "32c2a62f-2039-4562-a9ec-eed34df2238f",
+        "title": "Software Engineer - AI Networking",
+        "active": true,
+        "date_updated": 1777079535,
+        "date_posted": 1777079226,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--AI-Networking--New-College-Grad-2026_JR2017100",
+        "locations": [
+            "Seattle, WA",
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Turo",
+        "id": "300ed511-d9bc-49b8-a6be-9c8006189469",
+        "title": "Product Data Analyst",
+        "active": true,
+        "date_updated": 1777079429,
+        "date_posted": 1777079240,
+        "url": "https://turo.wd12.myworkdayjobs.com/Turo_careers/job/San-Francisco/Product-Data-Analyst_R-102416",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Turo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
