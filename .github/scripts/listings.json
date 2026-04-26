@@ -2,27 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Chewy",
-        "id": "8bc213e8-2641-4559-8500-b5b181768159",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1756451687,
-        "date_posted": 1756451687,
-        "url": "https://boards.greenhouse.io/embed/job_app?token=6987316",
-        "locations": [
-            "Boston, MA",
-            "Plantation, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Chewy",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Cox",
         "id": "c57a389d-852e-48f0-9233-6d85f2fefa9c",
         "title": "Software Engineer I",
