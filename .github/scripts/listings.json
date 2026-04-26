@@ -1,59 +1,5 @@
 [
     {
-        "date_updated": 1756942904,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
-        "degrees": [],
-        "url": "https://careers-gdms.icims.com/jobs/67867/entry-level-software-engineer/job",
-        "company_name": "General Dynamics",
-        "title": "Entry Level Software Engineer",
-        "locations": [
-            "Pittsburgh, PA"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "1bf1d395-4785-40b2-ac4b-7db495eb5ec9",
-        "date_posted": 1756492378,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1756661235,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [],
-        "url": "https://jobs.ashbyhq.com/commure-athelas/00dbfa4a-986c-4c98-a966-47874d1ff0f8",
-        "company_name": "Commure",
-        "title": "Software Engineer",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "824dbdb9-1606-406b-b6a9-16042480b55e",
-        "date_posted": 1756492466,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1756731860,
-        "sponsorship": "Other",
-        "active": true,
-        "degrees": [],
-        "url": "https://cvshealth.wd1.myworkdayjobs.com/en-US/cvs_health_careers/job/CT---Hartford/Associate-Software-Development-Engineer_R0699201-1",
-        "company_name": "CVS Health",
-        "title": "Associate Software Development Engineer",
-        "locations": [
-            "Hartford, CT"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "910b3775-8202-485c-b174-64affd1fbaed",
-        "date_posted": 1756492792,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
         "date_updated": 1756499638,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
