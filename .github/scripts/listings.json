@@ -1,23 +1,5 @@
 [
     {
-        "date_updated": 1757317380,
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "degrees": [],
-        "url": "https://munichre-jobs.com/en/MunichRe/job/130423-data-scientist-na-integrated-analytics-2026-new-grad-toronto",
-        "company_name": "Munich RE",
-        "title": "Data Scientist, NA Integrated Analytics",
-        "locations": [
-            "Toronto, ON, Can"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "GaryZhous",
-        "id": "f74a72c4-7120-4f49-9fc5-be50d5fa6c82",
-        "date_posted": 1756476999,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
         "date_updated": 1756485726,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
