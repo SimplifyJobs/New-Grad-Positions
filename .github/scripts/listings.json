@@ -1,26 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "WSP",
-        "id": "99e1a3d1-7f44-4c23-a37f-5ea507bb6bf3",
-        "title": "Early Career Data Scientist",
-        "active": false,
-        "date_updated": 1756423875,
-        "date_posted": 1756423875,
-        "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/jobs/job/72552",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/WSP",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Chewy",
         "id": "8bc213e8-2641-4559-8500-b5b181768159",
@@ -59582,24 +59562,6 @@
             "Aurora, CO"
         ],
         "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Alfa Financial Software ",
-        "id": "7cf7f5fe-bd62-47b5-8e09-dd1286ecf9c5",
-        "title": "Implementation Analyst",
-        "active": false,
-        "date_updated": 1763116739,
-        "date_posted": 1756424169,
-        "url": "https://alfa.wd3.myworkdayjobs.com/alfa/job/US-MI-Royal-Oak/Implementation-Analyst---Grad-Program-2026_R170",
-        "locations": [
-            "Ferndale, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/Alfa-Financial-Software",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
