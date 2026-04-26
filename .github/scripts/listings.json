@@ -1,26 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Capital One",
-        "id": "0b92737d-70a3-4db5-b31c-4cb752879f91",
-        "title": "Associate \u2013 New Grad - Software Engineer",
-        "active": false,
-        "date_updated": 1756505796,
-        "date_posted": 1756505796,
-        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad_R223330",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Capital-One",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Other",
         "company_name": "Viavi Solutions",
         "id": "413f9259-1976-4806-b0d6-77770586e422",
@@ -59306,25 +59286,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Barr",
-        "id": "514737ed-d896-46ce-a102-cad582df7504",
-        "title": "Environmental Technician/Engineer \u2013 Entry Level - Air Quality Focus",
-        "active": false,
-        "date_updated": 1756505934,
-        "date_posted": 1756505934,
-        "url": "https://barr.wd1.myworkdayjobs.com/barrcareers/job/Edina-MN/Environmental-Technician-Engineer---Entry-Level---Air-Quality-Focus--Hybrid-_R-101828",
-        "locations": [
-            "Hopkins, MN",
-            "Gilbert, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Barr",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Northrop Grumman",
         "id": "23f6f584-e54e-4d6b-bee8-3b1086388110",
@@ -63091,24 +63052,6 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/ICEMarkets",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Fashion Nova",
-        "id": "d11ea750-a619-47d9-b28a-0f3de20a74c2",
-        "title": "Product Development & Production Coordinator - Lingerie & Swim",
-        "active": false,
-        "date_updated": 1761514241,
-        "date_posted": 1756506651,
-        "url": "https://job-boards.greenhouse.io/fashionnova/jobs/7210945",
-        "locations": [
-            "Culver City, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Fashion-Nova",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
