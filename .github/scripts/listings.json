@@ -1,44 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Cox",
-        "id": "c57a389d-852e-48f0-9233-6d85f2fefa9c",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1756453258,
-        "date_posted": 1756453258,
-        "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Long-Island-NY/Software-Engineer-I_R202566222",
-        "locations": [
-            "Long Island, New York"
-        ],
-        "company_url": "https://simplify.jobs/c/Cox",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "EvenUp",
-        "id": "87cea11e-3fc8-4ec4-878f-2ff415f60149",
-        "title": "Early Career Machine Learning Engineer",
-        "active": false,
-        "date_updated": 1761835253,
-        "date_posted": 1756453223,
-        "url": "https://jobs.ashbyhq.com/evenup/58e747cc-0572-4316-83c0-f112ee52e3b5/application",
-        "locations": [
-            "Toronto, ON, Canada",
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/a3893f84-8200-4d5f-aad7-2ff0d6d670dc",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
         "date_updated": 1757317380,
         "sponsorship": "Offers Sponsorship",
         "active": false,
