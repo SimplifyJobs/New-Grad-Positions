@@ -304780,5 +304780,91 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Sherwin-Williams",
+        "id": "d0a1c5a4-c1d9-4d9f-b6ba-050dfd677301",
+        "title": "Leadership Development Program R&D",
+        "active": true,
+        "date_updated": 1777327912,
+        "date_posted": 1777327560,
+        "url": "https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2610297",
+        "locations": [
+            "Garland, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Sherwin-Williams",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Bank of Montreal",
+        "id": "ca4dd8f2-d00e-424b-bd90-059ab441d097",
+        "title": "Robot Process Automation Developer",
+        "active": true,
+        "date_updated": 1777327782,
+        "date_posted": 1777327527,
+        "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Chicago-IL-USA/Robot--Process-Automation-Developer--New-or-Recent-Graduate-_R260011314",
+        "locations": [
+            "Naperville, IL",
+            "Chicago, IL",
+            "Irving, TX",
+            "Cedar Rapids, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/BMO",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Conversica",
+        "id": "ead90eae-97d3-4166-a168-764406dbcf41",
+        "title": "Software Engineer - AI Platform",
+        "active": true,
+        "date_updated": 1777327561,
+        "date_posted": 1777327533,
+        "url": "https://jobs.lever.co/conversica/765d2754-a07a-4a83-8a9d-fc25b80d73c3/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Conversica",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Bank of Montreal",
+        "id": "dce58ffb-cfcb-4247-b5b1-1f800e509b1f",
+        "title": "Robot Process Automation Developer",
+        "active": true,
+        "date_updated": 1777327738,
+        "date_posted": 1777327471,
+        "url": "https://bmo.wd3.myworkdayjobs.com/Campus/job/Chicago-IL-USA/Robot--Process-Automation-Developer--New-or-Recent-Graduate-_R260011314-1",
+        "locations": [
+            "Naperville, IL",
+            "Chicago, IL",
+            "Irving, TX",
+            "Cedar Rapids, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/BMO",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
