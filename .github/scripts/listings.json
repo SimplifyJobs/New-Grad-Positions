@@ -59115,24 +59115,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Super Micro Computer",
-        "id": "e9938626-1867-4e44-a522-f39c86c9f806",
-        "title": "BIOS Engineer",
-        "active": false,
-        "date_updated": 1756534825,
-        "date_posted": 1756534825,
-        "url": "https://jobs.supermicro.com/job/San-Jose-BIOS-Engineer-Cali/1321723400/?ats=successfactors",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Super-Micro-Computer",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "TikTok",
         "id": "ecca3720-1638-4af3-8e14-0066cf1aeb89",
@@ -304400,6 +304382,107 @@
         "degrees": [
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "KLA Corporation",
+        "id": "762d4d8e-9069-433c-8141-069ac4e97de1",
+        "title": "Product Development Engineer",
+        "active": true,
+        "date_updated": 1777270285,
+        "date_posted": 1777270081,
+        "url": "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Product-development-engineer_2636373",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/KLA-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Uber",
+        "id": "d62d3de7-401c-47a8-bbe7-6f823a9466d9",
+        "title": "Software Engineer 2",
+        "active": true,
+        "date_updated": 1777269357,
+        "date_posted": 1777266573,
+        "url": "https://www.uber.com/global/en/careers/list/158888/",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Uber",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "General Dynamics Information Technology",
+        "id": "23bf381e-4c11-4dee-8207-b78c0b8d6085",
+        "title": "Data Engineer-Junior",
+        "active": true,
+        "date_updated": 1777270141,
+        "date_posted": 1777270132,
+        "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-HI-Camp-Smith/Data-Engineer-Junior_RQ218784-1",
+        "locations": [
+            "Honolulu, HI"
+        ],
+        "company_url": "https://simplify.jobs/c/GDIT",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Latitude AI",
+        "id": "866ad457-8c6f-4882-b796-e00e6cdcc1fc",
+        "title": "GIS Production Analyst - Contractor",
+        "active": true,
+        "date_updated": 1777269961,
+        "date_posted": 1777269945,
+        "url": "https://job-boards.greenhouse.io/latitude/jobs/7854215",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/LatitudeAI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Sanofi",
+        "id": "770de51b-ffb8-422f-b6c4-80065f0605ec",
+        "title": "MSAT Data Engineer Trainee",
+        "active": true,
+        "date_updated": 1777269561,
+        "date_posted": 1777269248,
+        "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/City-of-Singapore/Sanofi-Manufacturing-Innovators-Program-MSAT-Data-Engineer-Trainee_R2855158",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Sanofi",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
