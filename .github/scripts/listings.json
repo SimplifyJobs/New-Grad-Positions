@@ -25,7 +25,7 @@
         "company_name": "Motorola",
         "id": "e0ff9c5a-7674-4cb1-97f3-f803968a130e",
         "title": "Junior Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1756747299,
         "date_posted": 1756747299,
         "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Uxbridge-UK-ZUK131/Junior-Software-Engineer_R57369",
@@ -19266,7 +19266,7 @@
         "company_name": "Maven Securities",
         "id": "7da22634-57f3-4202-ac36-4fa6e474de38",
         "title": "Graduate Developer Programme",
-        "active": true,
+        "active": false,
         "date_updated": 1763088067,
         "date_posted": 1763088067,
         "url": "https://job-boards.greenhouse.io/emergingtalent/jobs/7204281",
@@ -223229,7 +223229,7 @@
         "company_name": "Merrick Bank",
         "id": "5d05b7d0-895c-4826-a1dd-822e036c5943",
         "title": "NET Developer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1772753770,
         "date_posted": 1772753770,
         "url": "https://cardworks.wd12.myworkdayjobs.com/Merrick_Bank_External/job/South-Jordan/Developer-I_JR100880-2",
@@ -292595,7 +292595,7 @@
         "company_name": "UAP",
         "id": "f72b8660-793f-4637-80d0-534acae86889",
         "title": "Product Management Administration Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1776463561,
         "date_posted": 1776463389,
         "url": "https://jobs.smartrecruiters.com/UAPInc/744000121485562",
@@ -297288,7 +297288,7 @@
         "company_name": "URBN",
         "id": "7afda22f-8c78-4c33-a84a-c5afcbfc1e24",
         "title": "Assistant Color Designer",
-        "active": true,
+        "active": false,
         "date_updated": 1776724827,
         "date_posted": 1776723499,
         "url": "https://homeoffice-na-urbn.icims.com/jobs/26166/job?mobile=true&needsRedirect=false",
@@ -304537,6 +304537,142 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Equinix",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Mirage",
+        "id": "af5452e3-4340-4d84-894b-cd012345a560",
+        "title": "Software Engineer \u2013 Early Career",
+        "active": true,
+        "date_updated": 1777298941,
+        "date_posted": 1777298909,
+        "url": "https://jobs.ashbyhq.com/mirage/cbf278fd-84ec-48d9-8052-b76abb035ac7/application",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Mirage",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cisco",
+        "id": "094b7d42-a00f-4c92-9d91-1fbd9b3e0e18",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1777299408,
+        "date_posted": 1777298907,
+        "url": "https://careers.cisco.com/global/en/job/2013361",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cisco",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Carnegie Mellon University",
+        "id": "c3e72271-d3a0-4a3f-b9fa-d3f88514e741",
+        "title": "Research Associate 1 - Research Associate I",
+        "active": true,
+        "date_updated": 1777299452,
+        "date_posted": 1777298884,
+        "url": "https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/ROB---TRAVERS---Research-Associate-I_2024458",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Carnegie-Mellon-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "JP Morgan Chase",
+        "id": "8b9eb41a-09e3-4008-8715-6ab05997ecfd",
+        "title": "Trading Services Associate",
+        "active": true,
+        "date_updated": 1777298941,
+        "date_posted": 1777298906,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210726518",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "JP Morgan Chase",
+        "id": "4c9bab09-16cf-4d9a-a679-a8263a8d1b74",
+        "title": "Client Data Analyst",
+        "active": true,
+        "date_updated": 1777299121,
+        "date_posted": 1777298977,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210740918",
+        "locations": [
+            "Edinburgh, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Gulfstream",
+        "id": "3d046953-29f4-46a3-b4e8-7901e9f07ec0",
+        "title": "Reporting Developer 1 - Power BI Developer",
+        "active": true,
+        "date_updated": 1777299155,
+        "date_posted": 1777298691,
+        "url": "https://careers.gulfstream.com/job/Savannah-Reporting-Developer-I-Power-BI-Developer-GA-31401/1385672000/?ats=successfactors",
+        "locations": [
+            "Savannah, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Gulfstream",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Chicago",
+        "id": "95e5afae-4715-4385-8de7-da407d9dd3fa",
+        "title": "Data Analyst 1",
+        "active": true,
+        "date_updated": 1777298761,
+        "date_posted": 1777298674,
+        "url": "https://uchicago.wd5.myworkdayjobs.com/External/job/950-East-61st-Street/Data-Analyst-1_JR33437-1",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Chicago",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
