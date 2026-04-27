@@ -277323,7 +277323,7 @@
         "company_name": "Mirage",
         "id": "f76e2d9c-00ef-4ba9-9374-f4d4e6e91d03",
         "title": "Software Engineer \u2013 Early Career",
-        "active": true,
+        "active": false,
         "date_updated": 1775689572,
         "date_posted": 1775686230,
         "url": "https://jobs.ashbyhq.com/mirage/1c4a937b-894e-402a-b2fd-93435b86657f/application",
@@ -278632,7 +278632,7 @@
         "company_name": "General Dynamics Information Technology",
         "id": "11fc4625-b478-401d-bb55-2c850b6b69b2",
         "title": "Capabilities Development Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1775774891,
         "date_posted": 1775772374,
         "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Hanover/Capabilities-Development-Engineer_RQ218156",
@@ -304699,6 +304699,27 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Greenheck Group",
+        "id": "0a372337-6906-483a-b03b-02fa09adadfd",
+        "title": "Application Engineer 1/2 Senior",
+        "active": true,
+        "date_updated": 1777278519,
+        "date_posted": 1776521212,
+        "url": "https://greenheckgroup.wd5.myworkdayjobs.com/external/job/Tulsa-OK/Application-Engineer_JR103400-1",
+        "locations": [
+            "Tulsa, OK"
+        ],
+        "company_url": "https://simplify.jobs/c/Greenheck-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
         ]
     }
 ]
