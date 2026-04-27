@@ -151100,7 +151100,7 @@
         "company_name": "Tradeweb",
         "id": "f62ba167-5ead-4289-8ff0-59be26b58c8c",
         "title": "Credit Technical Product Owner",
-        "active": false,
+        "active": true,
         "date_updated": 1769210071,
         "date_posted": 1769210071,
         "url": "https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301600",
@@ -275613,7 +275613,7 @@
         "company_name": "Charles Schwab",
         "id": "511c93eb-21bf-4f1b-a6b5-9fd1de6a74fe",
         "title": "Associate - Software Development & Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1775605153,
         "date_posted": 1775599648,
         "url": "https://career-schwab.icims.com/jobs/118961/job?mobile=true&needsRedirect=false",
@@ -288988,7 +288988,7 @@
         "company_name": "Athena Health",
         "id": "b40c9de5-5352-4d32-ae1d-fdfec48599f1",
         "title": "Associate Software Engineer - Billing Workflow",
-        "active": false,
+        "active": true,
         "date_updated": 1776302289,
         "date_posted": 1776301631,
         "url": "https://athenahealth.wd1.myworkdayjobs.com/en-US/External/job/Boston-MA/Associate-Software-Engineer--Billing-Workflow_R14810",
@@ -294313,7 +294313,7 @@
         "company_name": "RTX",
         "id": "d7184834-121e-4490-a990-70d4409975fe",
         "title": "Fulltime - Systems Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1776529457,
         "date_posted": 1776526338,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA1--1001-Boston-Post-Rd--BLDG-1/XMLNAME-2026-Fulltime---Systems-Engineer-I---Onsite_01836465",
@@ -304861,6 +304861,327 @@
             "Cedar Rapids, IA"
         ],
         "company_url": "https://simplify.jobs/c/BMO",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Applied Fluid Power",
+        "id": "fd496a92-01ed-42b7-b3f1-7867a87b794c",
+        "title": "Data Analyst 1",
+        "active": true,
+        "date_updated": 1777331409,
+        "date_posted": 1777327605,
+        "url": "https://applied.wd501.myworkdayjobs.com/applied/job/9360---PCI-Raleigh-NC/Data-Analyst-I_JR104071",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Fluid-Power",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Royal Bank of Canada",
+        "id": "c6ee779e-1dd7-4f7c-9a87-8c33447ba18a",
+        "title": "Analyst & Resource Planning \u2013 New Grad",
+        "active": true,
+        "date_updated": 1777330801,
+        "date_posted": 1777327640,
+        "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/Analyst---Resource-Planning---New-Grad_R-0000169675",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "CACI",
+        "id": "3849a59f-ec56-402d-96a6-13811cced3f5",
+        "title": "Engineering Technician",
+        "active": true,
+        "date_updated": 1777330801,
+        "date_posted": 1777327659,
+        "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-FL-Melbourne/Engineering-Technician_325394-1",
+        "locations": [
+            "Melbourne, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Ferrovial",
+        "id": "2dbfae20-7f16-48c6-9458-c59e6bc9a70a",
+        "title": "Digital Product Builder - AI Native",
+        "active": true,
+        "date_updated": 1777330983,
+        "date_posted": 1777327823,
+        "url": "https://ferrovial.wd3.myworkdayjobs.com/ferrovial_career_site/job/Austin-TX/Digital-Product-Builder--AI-Native-_JR17031",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Ferrovial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "14c157d0-8980-43ec-a332-8987d569bb67",
+        "title": "Manufacturing Technician A",
+        "active": true,
+        "date_updated": 1777331375,
+        "date_posted": 1777327615,
+        "url": "https://jobs.l3harris.com/job/Rochester-Manufacturing-Technician-A-NY-14623/1385775900/?ats=successfactors",
+        "locations": [
+            "Rochester, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Leidos",
+        "id": "cf6a95a5-407f-4d7a-8cab-0511178874ef",
+        "title": "Project Engineer - Electrical Focus",
+        "active": true,
+        "date_updated": 1777331824,
+        "date_posted": 1777330958,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Long-Beach-MS/Project-Engineer--Electrical-Focus-_R-00181799",
+        "locations": [
+            "Long Beach, MS"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "PNC Financial Services",
+        "id": "9f876427-bc13-4093-8c90-9a70c0b30da1",
+        "title": "Software Engineer Associate - ATM Hardware & Software Tester",
+        "active": true,
+        "date_updated": 1777331056,
+        "date_posted": 1777327723,
+        "url": "https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15219/Software-Engineer-Associate--ATM-Hardware---Software-Tester-_R219703-1",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/PNC-Financial-Services",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "dc08054f-fb6f-4e13-bcc3-e6374695d52f",
+        "title": "Systems Engineer 1 - Secure Systems",
+        "active": true,
+        "date_updated": 1777331062,
+        "date_posted": 1777327780,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Systems-Engineer-I---Secure-Systems---Onsite-_01840522",
+        "locations": [
+            "Cedar Rapids, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Xcel Energy",
+        "id": "c603ccf5-35a5-41c7-80a6-3d97f5995bf4",
+        "title": "Associate Data Scientist - Load Forecasting",
+        "active": true,
+        "date_updated": 1777330983,
+        "date_posted": 1777327762,
+        "url": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/Associate-Data-Scientist---Load-Forecasting_JR113724-1",
+        "locations": [
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Xcel-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Capital One",
+        "id": "84c9109e-bc02-445f-a2d5-9bcfccc6dd0d",
+        "title": "Senior Associate - Product Management-CAPS",
+        "active": true,
+        "date_updated": 1777330801,
+        "date_posted": 1777327668,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Senior-Associate--Product-Management--CAPS_R241422-1",
+        "locations": [
+            "McLean, VA",
+            "Richmond, VA",
+            "Chicago, IL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Capital-One",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "PricewaterhouseCoopers (PwC)",
+        "id": "7cd77ec8-5d24-40e8-9b60-e84071d3657b",
+        "title": "Tax Innovation - Product Management",
+        "active": true,
+        "date_updated": 1777330261,
+        "date_posted": 1777327788,
+        "url": "https://pwc.wd3.myworkdayjobs.com/en-US/US_Experienced_Careers/job/TX-Dallas/Tax-Innovation---Product-Management---Experienced-Associate_724571WD",
+        "locations": [
+            "Washington, DC",
+            "Dallas, TX",
+            "Chicago, IL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/PwC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "General Dynamics Mission Systems",
+        "id": "cd9f767e-f57a-4014-8c68-09384a126f9e",
+        "title": "Engineering Tech",
+        "active": true,
+        "date_updated": 1777330801,
+        "date_posted": 1777327693,
+        "url": "https://careers-gdms.icims.com/jobs/72212/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Bloomington, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Honeywell",
+        "id": "06b817ad-e271-4e38-9cee-9febe618665a",
+        "title": "Embedded Engineer 1",
+        "active": true,
+        "date_updated": 1777330884,
+        "date_posted": 1777327639,
+        "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/145265",
+        "locations": [
+            "North Haven, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/Honeywell",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Notion",
+        "id": "fe9e4f7b-bfee-47ca-93f1-4f31a2a74fc2",
+        "title": "Software Engineer \u2013 New Grad - AI",
+        "active": true,
+        "date_updated": 1777330261,
+        "date_posted": 1777327776,
+        "url": "https://jobs.ashbyhq.com/notion/7e6dc7fe-7ddd-42c1-8928-13f7bddb9ec9/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Notion",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TD Bank",
+        "id": "d0da1ac7-4100-4050-845b-ca78ca3e077d",
+        "title": "Data Designer 1",
+        "active": true,
+        "date_updated": 1777330919,
+        "date_posted": 1777327783,
+        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Data-Designer-I_R_1466967",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/TD-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GE Aerospace",
+        "id": "cf03cf9f-908e-4b7f-8995-90403d7cccf1",
+        "title": "PTO Defense & Systems Console Technician",
+        "active": true,
+        "date_updated": 1777330801,
+        "date_posted": 1777327604,
+        "url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Peebles/PTO-Defense---Systems-Console-Technician_R5031038-2",
+        "locations": [
+            "Piketon, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Aerospace",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
