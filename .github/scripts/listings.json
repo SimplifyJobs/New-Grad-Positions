@@ -1,44 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "TD Bank",
-        "id": "4b2b81c8-a1ed-4052-aae0-2f7ee004699c",
-        "title": "Machine Learning Engineer I",
-        "active": false,
-        "date_updated": 1756512846,
-        "date_posted": 1756512846,
-        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Machine-Learning-Engineer-I_R_1441970",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/TD-Bank",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "TD Bank",
-        "id": "8da2822c-c728-4f81-ab3d-76079d41f02d",
-        "title": "Machine Learning Engineer I",
-        "active": false,
-        "date_updated": 1759329426,
-        "date_posted": 1756512642,
-        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Machine-Learning-Engineer-I_R_1442223",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/TD-Bank",
-        "is_visible": false,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Nutanix",
         "id": "9d624829-b749-4a08-98ec-ca5dab38321a",
@@ -129151,27 +129113,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Appian",
-        "id": "3608ddea-bb31-4be6-a415-d862b86c4116",
-        "title": "Associate Technical Consultant",
-        "active": false,
-        "date_updated": 1767828918,
-        "date_posted": 1756513151,
-        "url": "https://job-boards.greenhouse.io/appian/jobs/7201580",
-        "locations": [
-            "McLean, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Appian",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
         ]
     },
     {
