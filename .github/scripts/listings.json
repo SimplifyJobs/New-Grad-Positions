@@ -72324,7 +72324,7 @@
         "company_name": "Draper",
         "id": "e50d1450-8a91-4a28-ac8c-47efd6bd4176",
         "title": "ASIC/FPGA Hardware Engineer for Cryptographic Systems",
-        "active": true,
+        "active": false,
         "date_updated": 1763660542,
         "date_posted": 1761874249,
         "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Senior-ASIC-FPGA-Hardware-Engineer-for-Cryptographic-Systems_JR001787",
@@ -239945,7 +239945,7 @@
         "company_name": "Netsmart",
         "id": "847287d6-dcac-42a2-ade1-9eb146670908",
         "title": "Software Engineer-Programming Knowledge",
-        "active": true,
+        "active": false,
         "date_updated": 1773701222,
         "date_posted": 1773701222,
         "url": "https://ntst.wd1.myworkdayjobs.com/careers/job/Great-River-NY/Software-Engineer--Programming-Knowledge-Onsite-Great-River--NY_R015271",
@@ -304673,6 +304673,28 @@
             "Chicago, IL"
         ],
         "company_url": "https://simplify.jobs/c/University-Of-Chicago",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cox",
+        "id": "67435917-80f4-437a-ae3c-58fe514d4c74",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1777299487,
+        "date_posted": 1777298874,
+        "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I_R202676259",
+        "locations": [
+            "Austin, TX",
+            "Burlington, VT",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cox",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
