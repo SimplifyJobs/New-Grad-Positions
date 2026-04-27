@@ -189396,7 +189396,7 @@
         "company_name": "Profound",
         "id": "6c49e467-9cc1-46c2-abb8-fa7e3ff3203b",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1771341640,
         "date_posted": 1771341640,
         "url": "https://jobs.ashbyhq.com/Profound/1d4a905b-7b91-4763-88dd-7abc7562fbcd/application",
@@ -271301,7 +271301,7 @@
         "company_name": "GE Healthcare",
         "id": "630b30e3-52a6-484f-8be3-f5fb7a80f33b",
         "title": "Field Service Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1775296362,
         "date_posted": 1775295222,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1_R4035192-2",
@@ -304483,6 +304483,44 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Entrust",
+        "id": "6aa6f3b7-7266-4868-9ce6-06a515fdf757",
+        "title": "Product Manager",
+        "active": true,
+        "date_updated": 1777281301,
+        "date_posted": 1777281300,
+        "url": "https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/United-Kingdom---London-Onfido/Product-Manager_R004113",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Entrust",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "56c56225-9bfe-4b36-952b-d2b4a874a11e",
+        "title": "Software Development Engineer - Multiple Teams",
+        "active": true,
+        "date_updated": 1777280942,
+        "date_posted": 1777280818,
+        "url": "https://jobs.bytedance.com/en/position/7631372899367340293/detail",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
         ]
     }
 ]
