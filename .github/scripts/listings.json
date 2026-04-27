@@ -1167,27 +1167,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "The Travelers Companies",
-        "id": "12b4518e-ad12-41d5-af9e-6b93e9efd9a8",
-        "title": "Software Engineer I - Legal & Compliance",
-        "active": false,
-        "date_updated": 1756992949,
-        "date_posted": 1756511024,
-        "url": "https://travelers.wd5.myworkdayjobs.com/External/job/MN---St-Paul/Software-Engineer-I---Legal---Compliance_R-45918",
-        "locations": [
-            "Hartford, CT",
-            "St Paul, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Travelers",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Canonical",
         "id": "c3980a57-97b4-4c1e-8169-e8ac3200ff46",
@@ -59204,24 +59183,6 @@
             "San Jose, CA"
         ],
         "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Appian",
-        "id": "3932ae17-41dd-43d1-acac-66914fc049f4",
-        "title": "Information Security Engineer",
-        "active": false,
-        "date_updated": 1757449773,
-        "date_posted": 1756511221,
-        "url": "https://job-boards.greenhouse.io/appian/jobs/7201603",
-        "locations": [
-            "McLean, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Appian",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
