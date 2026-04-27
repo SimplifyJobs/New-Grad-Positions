@@ -304360,5 +304360,46 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "778db0b1-5a54-43fe-9d59-fb02905f19ab",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1777269249,
+        "date_posted": 1777266706,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MD-FULTON-8170--8170-Maple-Lawn-Blvd--MAPLE-LAWN-Ste-190-200--300/Software-Engineer-I--Onsite-_01840846",
+        "locations": [
+            "Fulton, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "KLA",
+        "id": "35c18a82-b472-47bb-85a9-013652def5d6",
+        "title": "Senior AI Engineer",
+        "active": true,
+        "date_updated": 1777268881,
+        "date_posted": 1777266660,
+        "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Senior-AI-Engineer_2636323",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/KLA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
     }
 ]
