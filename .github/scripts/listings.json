@@ -255064,7 +255064,7 @@
         "company_name": "The Boeing Company",
         "id": "9bb0f352-a5f8-4d33-90de-5a7811efdf29",
         "title": "Wire Design and Install Engineer - Electrical/Electronic Installation Design",
-        "active": false,
+        "active": true,
         "date_updated": 1774507890,
         "date_posted": 1774507890,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Ridley-Park-PA/Wire-Design---Install-Engineer--Electrical-Electronic-Installation-Design-_JR2026492086-1",
@@ -301051,7 +301051,7 @@
         "company_name": "Clearwater Analytics",
         "id": "724f3ec1-34bd-43c5-82d1-965075472a2b",
         "title": "Associate Software Development Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1776896117,
         "date_posted": 1776895596,
         "url": "https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Office---Boise/Associate-Software-Development-Engineer_R11750",
@@ -302950,7 +302950,7 @@
         "company_name": "CommerceIQ",
         "id": "fd750cbe-6aa2-4924-94e3-783b9f3e6786",
         "title": "Software Development Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1776992761,
         "date_posted": 1776377176,
         "url": "https://job-boards.greenhouse.io/commerceiq/jobs/7681684003",
@@ -304720,6 +304720,65 @@
         "degrees": [
             "Bachelor's",
             "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "NewYork-Presbyterian",
+        "id": "1f46bf0c-38c6-441f-893d-48c0026ac852",
+        "title": "Data Scientist",
+        "active": true,
+        "date_updated": 1777327795,
+        "date_posted": 1777327477,
+        "url": "https://nyp.wd1.myworkdayjobs.com/nypcareers/job/NYPWeill-Cornell-Medical-Center/Data-Scientist_00880623-1",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/NewYork-Presbyterian",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "SDSU Research Foundation",
+        "id": "ea9659be-3078-405e-9a0a-a8c3496fd489",
+        "title": "Research Assistant 1",
+        "active": true,
+        "date_updated": 1777327576,
+        "date_posted": 1777327374,
+        "url": "https://careers-sdsurf.icims.com/jobs/20248/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/SDSU-Research-Foundation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Old National Bank",
+        "id": "147ce9d3-7517-4472-9199-02e91104673b",
+        "title": "Data Engineer",
+        "active": true,
+        "date_updated": 1777327381,
+        "date_posted": 1777327356,
+        "url": "https://careers-oldnational.icims.com/jobs/19512/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Hudson, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Old-National-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
