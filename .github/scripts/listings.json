@@ -119206,7 +119206,7 @@
         "company_name": "KBR",
         "id": "c4a20ee7-7152-4d61-8856-51f18d4aef28",
         "title": "Operations Research Analyst-Foundational",
-        "active": true,
+        "active": false,
         "date_updated": 1763916593,
         "date_posted": 1763916593,
         "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Arlington-Virginia/Operations-Research-Analyst--Foundational_R2114720",
@@ -237374,7 +237374,7 @@
         "company_name": "Cadence Design Systems",
         "id": "848d8c63-8d7e-4df0-b116-c6d859202dbc",
         "title": "Scientific Software Developer 2 - Modeler",
-        "active": true,
+        "active": false,
         "date_updated": 1773490285,
         "date_posted": 1773490285,
         "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SANTA-FE-01/Scientific-Software-Developer-II---Modeler_R53423-2",
@@ -237456,7 +237456,7 @@
         "company_name": "Cadence Design Systems",
         "id": "dc75d2c8-494c-4f61-924e-854d0dd502b6",
         "title": "Scientific Software Developer 2 - Modeler",
-        "active": true,
+        "active": false,
         "date_updated": 1773491492,
         "date_posted": 1773491492,
         "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SANTA-FE-01/Scientific-Software-Developer-II---Modeler_R53423-1",
@@ -275736,7 +275736,7 @@
         "company_name": "Huntington Bancshares",
         "id": "83210e44-5c5c-4f7f-9404-79fbb2b805a4",
         "title": "Programmer/Analyst 2",
-        "active": true,
+        "active": false,
         "date_updated": 1775604601,
         "date_posted": 1775599564,
         "url": "https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Programmer-Analyst-2_R0071108",
@@ -288988,7 +288988,7 @@
         "company_name": "Athena Health",
         "id": "b40c9de5-5352-4d32-ae1d-fdfec48599f1",
         "title": "Associate Software Engineer - Billing Workflow",
-        "active": true,
+        "active": false,
         "date_updated": 1776302289,
         "date_posted": 1776301631,
         "url": "https://athenahealth.wd1.myworkdayjobs.com/en-US/External/job/Boston-MA/Associate-Software-Engineer--Billing-Workflow_R14810",
@@ -290814,7 +290814,7 @@
         "company_name": "Lexington Medical",
         "id": "a97fc3d1-d3c4-4f4b-a98e-85f9eb4fbe95",
         "title": "Business Systems & Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1776378601,
         "date_posted": 1776377730,
         "url": "https://job-boards.greenhouse.io/lexingtonmedical/jobs/5191296008",
@@ -302829,7 +302829,7 @@
         "company_name": "Emerson Electric",
         "id": "b89d91a6-1823-4169-b916-658df70f6686",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1776992941,
         "date_posted": 1776992764,
         "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26004760",
@@ -305702,7 +305702,7 @@
         "company_name": "Draper",
         "id": "bc660269-7b79-40d5-b601-0a406a9f463c",
         "title": "Embedded Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1777330983,
         "date_posted": 1777327481,
         "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Embedded-Software-Engineer_JR002477",
@@ -306096,6 +306096,169 @@
             "Chicago, IL"
         ],
         "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "CommScope",
+        "id": "8ee4e3c7-9271-4031-957d-2ee59e7d845c",
+        "title": "Designer 1",
+        "active": true,
+        "date_updated": 1777385566,
+        "date_posted": 1777385130,
+        "url": "https://jobs.commscope.com/job/Shakopee-Designer-I-Minn/1386093700/?ats=successfactors",
+        "locations": [
+            "Shakopee, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/CommScope",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "JP Morgan Chase",
+        "id": "1d18220e-b639-415b-9884-0c5703104b0d",
+        "title": "Applied AIML Associate - Python & Data Science Engineering",
+        "active": true,
+        "date_updated": 1777385521,
+        "date_posted": 1777385344,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210739376",
+        "locations": [
+            "Glasgow, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Micron Technology",
+        "id": "baef4152-0235-471c-b209-719c5e5ccacc",
+        "title": "DRAM Product Engineer",
+        "active": true,
+        "date_updated": 1777385521,
+        "date_posted": 1777385365,
+        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Manassas-VA----Fab-6/DRAM-Product-Engineer_JR99675",
+        "locations": [
+            "Manassas, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Micron-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Leidos",
+        "id": "df9d89ed-b3f3-4f97-82e8-292886f41fad",
+        "title": "Full Stack Developer",
+        "active": true,
+        "date_updated": 1777385759,
+        "date_posted": 1777385366,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Ashburn-VA/Full-Sack-Developer_R-00181908-1",
+        "locations": [
+            "Ashburn, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Ryder System",
+        "id": "02d7ce88-c58d-40a6-8ffd-4ca3fca6a4be",
+        "title": "Business System Specialist",
+        "active": true,
+        "date_updated": 1777385161,
+        "date_posted": 1777385094,
+        "url": "https://ryder.wd5.myworkdayjobs.com/RyderCareers/job/CAN---Vaughan-ON-L4H-3N5/Business-System-Specialist_R169917",
+        "locations": [
+            "Vaughan, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Ryder-System",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Autodesk",
+        "id": "fb66e03c-1b0b-470a-a521-ee379af5a328",
+        "title": "Mobile Software Developer",
+        "active": true,
+        "date_updated": 1777385341,
+        "date_posted": 1777385190,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/AMER---Canada---British-Columbia---Vancouver---Bentall-Centre/Mobile-Software-Developer_26WD97481",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Autodesk",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Bootcamp"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "PNC Financial Services",
+        "id": "cb0bd6cc-de0f-48be-a2de-b00a96693074",
+        "title": "Data Analytics Development Program Analyst/Associate",
+        "active": true,
+        "date_updated": 1777385739,
+        "date_posted": 1777385261,
+        "url": "https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Data-Analytics-Development-Program-Analyst-Associate_R221059-1",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/PNC-Financial-Services",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Baxter International",
+        "id": "26ef7d13-1f79-4f35-ab45-adb06c2543da",
+        "title": "Senior Analyst - Analytics & Insights",
+        "active": true,
+        "date_updated": 1777385341,
+        "date_posted": 1777385193,
+        "url": "https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Deerfield-Illinois/Senior-Analyst---Analytics---Insights_JR-200666-1",
+        "locations": [
+            "Highland Park, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Baxter-International",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
