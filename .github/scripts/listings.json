@@ -277521,7 +277521,7 @@
         "company_name": "Daimler Truck",
         "id": "10875c5e-156b-474e-a72d-3cde06d72833",
         "title": "Software Engineer - Artificial Intelligence I",
-        "active": true,
+        "active": false,
         "date_updated": 1775688849,
         "date_posted": 1775686143,
         "url": "https://dtna.wd5.myworkdayjobs.com/dtna_affiliate/job/Portland-OR-US/Software-Engineer---Artificial-Intelligence-I_DT-17487-1",
@@ -305918,5 +305918,23 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "JP Morgan Chase",
+        "id": "09f957f1-8d6d-450b-b53c-887541b11687",
+        "title": "Trading Services Analyst",
+        "active": true,
+        "date_updated": 1777363741,
+        "date_posted": 1776723523,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210738379",
+        "locations": [
+            "Christchurch, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
