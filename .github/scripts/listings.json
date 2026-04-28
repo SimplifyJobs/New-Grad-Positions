@@ -171266,7 +171266,7 @@
         "company_name": "Awetomaton",
         "id": "7f687d90-3232-4643-aeab-01c159a471fd",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1770248230,
         "date_posted": 1770248230,
         "url": "https://job-boards.greenhouse.io/awetomaton/jobs/4976363008",
@@ -180331,7 +180331,7 @@
         "company_name": "Roblox",
         "id": "492e0d18-0b7a-4eeb-94b6-cad80a7df3d3",
         "title": "Data Scientist - Foundation AI",
-        "active": false,
+        "active": true,
         "date_updated": 1770766789,
         "date_posted": 1770766788,
         "url": "https://careers.roblox.com/jobs/7577436?gh_jid=7577436",
@@ -193643,7 +193643,7 @@
         "company_name": "Amentum",
         "id": "d55d6241-35aa-4a28-982a-ac3a6e48fa27",
         "title": "Electro/Mech Technician 1",
-        "active": true,
+        "active": false,
         "date_updated": 1771497674,
         "date_posted": 1771497674,
         "url": "https://jacobs.taleo.net/careersection/ex3/jobdetail.ftl?job=ADV000CKH",
@@ -209444,7 +209444,7 @@
         "company_name": "Capital One",
         "id": "8604d8aa-cc00-481b-9215-515df15cae18",
         "title": "Associate \u2013 New Grad Card Expansion - Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1772149671,
         "date_posted": 1772149671,
         "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R236833",
@@ -209977,7 +209977,7 @@
         "company_name": "Morningstar",
         "id": "83990d3b-55ea-4932-9faa-a0eac9fe47b1",
         "title": "Associate Software Engineer - Credit Tech",
-        "active": true,
+        "active": false,
         "date_updated": 1772148522,
         "date_posted": 1772148522,
         "url": "https://morningstar.wd5.myworkdayjobs.com/Americas/job/Chicago/Associate-Software-Engineer--Credit-Tech_AP-23077420-1",
@@ -215805,7 +215805,7 @@
         "company_name": "Analytical Mechanics Associates",
         "id": "9ca425e1-468a-483d-8029-5b54d0cb2b57",
         "title": "AIML Research Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1772496634,
         "date_posted": 1772496634,
         "url": "https://amainc.wd12.myworkdayjobs.com/ama_careers/job/Hampton-VA/AIML-Research-Associate_R-100498",
@@ -268326,7 +268326,7 @@
         "company_name": "Antares Capital",
         "id": "e9c3a01d-b3f7-41b0-b31a-5ab22ec0113a",
         "title": "Analyst \u2013 AI Automation",
-        "active": false,
+        "active": true,
         "date_updated": 1775170621,
         "date_posted": 1775167891,
         "url": "https://antares.wd5.myworkdayjobs.com/antares/job/New-York/Analyst--AI-Automation_R612",
@@ -270023,7 +270023,7 @@
         "company_name": "Brain Corp",
         "id": "98c14232-f495-4d28-8040-49476276e185",
         "title": "Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1775258057,
         "date_posted": 1775254687,
         "url": "https://braincorp.com/open-positions?gh_jid=8490301002",
@@ -277196,7 +277196,7 @@
         "company_name": "Anduril",
         "id": "ee7541cd-8918-45d9-9551-e9f11290f62c",
         "title": "LRU Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1775689572,
         "date_posted": 1775686296,
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/5092651007",
@@ -286690,7 +286690,7 @@
         "company_name": "Olsson",
         "id": "d0650ee7-35cb-4290-a61f-bfe5367ef0e8",
         "title": "Assistant Fire Protection Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1776208149,
         "date_posted": 1776204566,
         "url": "https://job-boards.greenhouse.io/olsson/jobs/5188164008",
@@ -292130,7 +292130,7 @@
         "company_name": "Atos",
         "id": "ce4709ac-3c7c-4600-9374-5433e3a2b30c",
         "title": "Full Stack Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1776463561,
         "date_posted": 1776463543,
         "url": "https://jobs.atos.net/job/Remote-Home-Full-Stack-Engineer-1/1385135833/?ats=successfactors",
@@ -300529,7 +300529,7 @@
         "company_name": "The Hartford ",
         "id": "aaf76a57-0d07-40d0-a8f6-3031a0770570",
         "title": "Associate Data and AI Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1776896117,
         "date_posted": 1776895601,
         "url": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Associate-Data-and-AI-Engineer_R2625084",
@@ -302490,7 +302490,7 @@
         "company_name": "Accenture",
         "id": "e17f7276-fc61-4fa2-9fe9-4b5f60356bd7",
         "title": "SAP Order to Cash Senior Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1776983041,
         "date_posted": 1776982203,
         "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Houston-1301-Fannin-Corp/SAP-Order-to-Cash-Senior-Analyst_R00327260-1",
@@ -303073,7 +303073,7 @@
         "company_name": "InterSystems",
         "id": "820ea812-4848-4700-8f98-8d9e4e44063e",
         "title": "Software Development Support Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1777021381,
         "date_posted": 1771457050,
         "url": "https://www.intersystems.com/careers/careers-search/?gh_jid=7593621003",
@@ -306456,6 +306456,310 @@
             "SF"
         ],
         "company_url": "https://simplify.jobs/c/Mixpanel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "The Boeing Company",
+        "id": "f00b81d0-bdc4-4406-9843-d4da442ca2bb",
+        "title": "Entry Level Embedded Software Engineer",
+        "active": true,
+        "date_updated": 1777414141,
+        "date_posted": 1777414063,
+        "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Fort-Walton-Beach-FL/Entry-Level-Embedded-Software-Engineer_JR2026502637",
+        "locations": [
+            "Fort Walton Beach, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SciTec",
+        "id": "b38cc126-88d4-4da7-ba9b-9fd0d262dfa0",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1777415041,
+        "date_posted": 1777414147,
+        "url": "https://apply.workable.com/scitec/j/D05B63F088/apply",
+        "locations": [
+            "Boulder, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/SciTec",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Intel",
+        "id": "030afe65-42a7-435a-8685-91399a2dd90b",
+        "title": "Frame Automation Software Engineer",
+        "active": true,
+        "date_updated": 1777414591,
+        "date_posted": 1777414056,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Frame-Automation-Software-Engineer_JR0283454",
+        "locations": [
+            "Hillsboro, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Noda",
+        "id": "2a412b23-1ffb-4102-83d3-f6b7fafb37c3",
+        "title": "Assistant Product Manager",
+        "active": true,
+        "date_updated": 1777415073,
+        "date_posted": 1777414163,
+        "url": "https://noda-1720000970.teamtailor.com/jobs/7652424-assistant-product-manager?ats=teamtailor",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Noda",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Radiance Technologies",
+        "id": "d70412b2-5e54-41bb-a087-72f0969127c2",
+        "title": "Entry Level Microelectronics R&D Engineer",
+        "active": true,
+        "date_updated": 1777414586,
+        "date_posted": 1777413964,
+        "url": "https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Ruston-LA/Entry-level-Microelectronics-R-D-Engineer_HR102147-1",
+        "locations": [
+            "Monroe, LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Radiance-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "NXP Semiconductors",
+        "id": "f2cf3cb1-fb92-4a09-9f10-3864ae386ea6",
+        "title": "Automotive Product Engineer",
+        "active": true,
+        "date_updated": 1777415172,
+        "date_posted": 1777414264,
+        "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Automotive-Product-Engineer---Entry-Level_R-10062929",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/NXP-Semiconductors",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "McGill University",
+        "id": "2579fec4-ed09-4d06-aeec-e48d19fc3da9",
+        "title": "Research Assistant 1",
+        "active": true,
+        "date_updated": 1777413961,
+        "date_posted": 1777413862,
+        "url": "https://mcgill.wd3.myworkdayjobs.com/McGill_Careers/job/Burnside-Hall/Research-Assistant-1_JR0000075445",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/McGill-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "GM financial",
+        "id": "0c8873c3-94e9-43ef-9b48-43805bff5c67",
+        "title": "Software Development Engineer 1",
+        "active": true,
+        "date_updated": 1777414675,
+        "date_posted": 1777414064,
+        "url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2254",
+        "locations": [
+            "Arlington, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/GM-Financial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Manulife Financial",
+        "id": "07804782-be24-4ede-9026-819cc4ed64bc",
+        "title": "Full-Stack Software Engineer Intern",
+        "active": true,
+        "date_updated": 1777415197,
+        "date_posted": 1777414207,
+        "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/USA-Massachusetts-Boston-200-Berkeley-Street/Full-Stack-Software-Engineer_JR26040202-2",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Manulife-Financial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Airbnb",
+        "id": "b9b819e6-441f-4b6b-ac77-2e5fd9851f8b",
+        "title": "iOS Software Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1777414550,
+        "date_posted": 1777413974,
+        "url": "https://careers.airbnb.com/positions/7859317?gh_jid=7859317",
+        "locations": [
+            "Seattle, WA",
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Airbnb",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "The Boeing Company",
+        "id": "a59de19e-95b0-4294-ac03-4b7edcd9d03f",
+        "title": "Entry Level Embedded Software Engineer",
+        "active": true,
+        "date_updated": 1777414141,
+        "date_posted": 1777414088,
+        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Fort-Walton-Beach-FL/Entry-Level-Embedded-Software-Engineer_JR2026502637-1",
+        "locations": [
+            "Fort Walton Beach, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Freudenberg Group",
+        "id": "65ff0a9d-e43b-481c-be48-cb67968bc703",
+        "title": "Catalog Data Specialist",
+        "active": true,
+        "date_updated": 1777414141,
+        "date_posted": 1777414023,
+        "url": "https://freudenberg.wd3.myworkdayjobs.com/freudenberg-group/job/Milan-OH/Catalog-Data-Specialist_R_00100386",
+        "locations": [
+            "Elyria, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Freudenberg-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Flextronics International",
+        "id": "1ca2f2c4-5076-4ba6-a4a2-14bf49e5b153",
+        "title": "Engineering Technician",
+        "active": true,
+        "date_updated": 1777414633,
+        "date_posted": 1777413978,
+        "url": "https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-TX-Austin/Engineering-Technician_WD220057",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Flextronics-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Twitch",
+        "id": "14e4ce1e-6104-436d-9a61-0bc79150f2bb",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1777415498,
+        "date_posted": 1777414702,
+        "url": "https://job-boards.greenhouse.io/twitch/jobs/8367602002",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Twitch",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "The Boeing Company",
+        "id": "b2b20084-9cac-474f-8a3d-03386ea8084d",
+        "title": "Test & Evaluation Engineer",
+        "active": true,
+        "date_updated": 1777414141,
+        "date_posted": 1777414087,
+        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Oklahoma-City-OK/Test---Evaluation-Engineer--Associate-or-Experienced-_JR2026500217",
+        "locations": [
+            "Oklahoma City, OK"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
