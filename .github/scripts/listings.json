@@ -270677,7 +270677,7 @@
         "company_name": "Uber",
         "id": "8a232b83-5ddd-4876-81a0-72ebbe85473d",
         "title": "Graduate Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1775284561,
         "date_posted": 1775282808,
         "url": "https://www.uber.com/global/en/careers/list/158009/",
@@ -298526,7 +298526,7 @@
         "company_name": "Jabil",
         "id": "5a027a74-c291-4806-937c-26e1b72784a1",
         "title": "Diagnostic Technician 1",
-        "active": true,
+        "active": false,
         "date_updated": 1776781217,
         "date_posted": 1776780771,
         "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Florence-KY/Diagnostic-Technician-I---401_J2447204",
@@ -305858,5 +305858,44 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Applied Materials",
+        "id": "ed300ea4-02ed-4c67-bf93-bbe7c322bcb2",
+        "title": "Hardware - Hw - Qualification and Development Support Team",
+        "active": true,
+        "date_updated": 1777338786,
+        "date_posted": 1777338542,
+        "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Hardware--HW--Qualification-and-Development-Support-Team--DST--Engineer-I_R2616611-1",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Materials",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "60decibelsinc",
+        "id": "562f520b-505f-44ef-945f-b1754e4794ed",
+        "title": "Product Associate",
+        "active": true,
+        "date_updated": 1777338721,
+        "date_posted": 1777338568,
+        "url": "https://job-boards.greenhouse.io/60decibelsinc/jobs/4674526006",
+        "locations": [
+            "Africa",
+            "Remote in UK",
+            "Bengaluru, Karnataka, India",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/60decibels",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
