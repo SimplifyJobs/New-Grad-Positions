@@ -304893,7 +304893,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "c6ee779e-1dd7-4f7c-9a87-8c33447ba18a",
         "title": "Analyst & Resource Planning \u2013 New Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1777330801,
         "date_posted": 1777327640,
         "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/Analyst---Resource-Planning---New-Grad_R-0000169675",
@@ -306007,5 +306007,99 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Andrew Morgan",
+        "id": "9848f0dc-e23b-461b-b8c7-e80f7ff1f624",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1777385341,
+        "date_posted": 1777385229,
+        "url": "https://andrew-morgan.com/current-openings/?gh_jid=5203016008",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Andrew-Morgan",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "DaVita",
+        "id": "5b7dbc6b-58f4-4b14-8301-49fe93e5a470",
+        "title": "Data Analyst - Clinical Analytics and Reporting",
+        "active": true,
+        "date_updated": 1777385341,
+        "date_posted": 1777385272,
+        "url": "https://davita.wd1.myworkdayjobs.com/DKC_External/job/09567---Denver-HQ-Non-CA-or-CO-Remote/Data-Analyst--Clinical-Analytics-and-Reporting_R0455734",
+        "locations": [
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/DaVita",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Zego",
+        "id": "dfa13b11-87e1-44f0-893d-cd83bd3243ff",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1777385341,
+        "date_posted": 1777385324,
+        "url": "https://apply.workable.com/zego/j/2346977068/apply",
+        "locations": [
+            "United Kingdom"
+        ],
+        "company_url": "https://simplify.jobs/c/Zego",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Zego",
+        "id": "df354b52-875f-4be1-bbaf-d4bcbf9ed433",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1777385341,
+        "date_posted": 1777385324,
+        "url": "https://apply.workable.com/zego/j/637F3B9521/apply",
+        "locations": [
+            "United Kingdom"
+        ],
+        "company_url": "https://simplify.jobs/c/Zego",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Motorola",
+        "id": "77419f40-f433-477d-a449-69c866ce8363",
+        "title": "Android Applications Developer",
+        "active": true,
+        "date_updated": 1777385341,
+        "date_posted": 1777385218,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Android-Applications-Developer_R62576",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
