@@ -5488,26 +5488,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Netic",
-        "id": "f6288fa7-371b-43c4-95a9-b5bf2f92193b",
-        "title": "Machine Learning Engineer \u2013 New Grad",
-        "active": false,
-        "date_updated": 1758384471,
-        "date_posted": 1756678071,
-        "url": "https://jobs.ashbyhq.com/netic/f645d611-ae5f-40cc-bfa8-613286060a76/application",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Netic",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "PathAI",
         "id": "c02dfa55-86e8-4965-9800-7ea301501001",
         "title": "Machine Learning Engineer 1/2/3",
@@ -277640,7 +277620,7 @@
         "company_name": "Deluxe",
         "id": "49105cce-b020-4594-a4d1-ab0441eea186",
         "title": "Data Scientist 1",
-        "active": false,
+        "active": true,
         "date_updated": 1775687950,
         "date_posted": 1775685876,
         "url": "https://deluxe.wd5.myworkdayjobs.com/en-US/USA_CAN/job/New-York-NY-USA/Data-Scientist-1_260475WD-1",
@@ -297308,7 +297288,7 @@
         "company_name": "Trimble",
         "id": "6f755245-4491-43b4-89b7-3e75d424d63d",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1776725101,
         "date_posted": 1776723499,
         "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---Remote-MN/Software-Engineer_R55753-1",
@@ -306259,6 +306239,223 @@
             "Highland Park, IL"
         ],
         "company_url": "https://simplify.jobs/c/Baxter-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "The Boeing Company",
+        "id": "75d900a3-9094-405d-8583-e193696ee756",
+        "title": "Test & Evaluation Engineer",
+        "active": true,
+        "date_updated": 1777414141,
+        "date_posted": 1777414062,
+        "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Oklahoma-City-OK/Test---Evaluation-Engineer--Associate-or-Experienced-_JR2026500217-2",
+        "locations": [
+            "Oklahoma City, OK"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Brandeis University",
+        "id": "74d48d20-b95b-4599-81b1-4300a1182465",
+        "title": "Research Technician",
+        "active": true,
+        "date_updated": 1777414256,
+        "date_posted": 1777413927,
+        "url": "https://brandeis.wd5.myworkdayjobs.com/en-US/Jobs/job/Brandeis---Waltham-Campus/Temp-Research-Technician_R0013104-1",
+        "locations": [
+            "Waltham, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Brandeis-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Netsmart",
+        "id": "71c12326-cbc3-4d02-abf4-132e194cd137",
+        "title": "Software Engineer Object Oriented Programming",
+        "active": true,
+        "date_updated": 1777414524,
+        "date_posted": 1777413971,
+        "url": "https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Software-Engineer-Object-Oriented-Programming---Onsite--Overland-Park--KS_R015359",
+        "locations": [
+            "Overland Park, KS"
+        ],
+        "company_url": "https://simplify.jobs/c/Netsmart",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Dover",
+        "id": "579ff3e9-3d73-4736-9544-e1ea4dc475a8",
+        "title": "Engineering Technician",
+        "active": true,
+        "date_updated": 1777413961,
+        "date_posted": 1777413888,
+        "url": "https://careers.dovercorporation.com/job/West-Chester-Engineering-Technician-OH-45069/1388545833/?ats=successfactors",
+        "locations": [
+            "Sharonville, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/511130a6-b974-4ccb-a78b-14049de141bb",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Iowa State University",
+        "id": "cf49acfe-eadb-4aeb-b088-0ed217e27573",
+        "title": "Software Developer 1",
+        "active": true,
+        "date_updated": 1777414317,
+        "date_posted": 1777413876,
+        "url": "https://isu.wd1.myworkdayjobs.com/IowaStateJobs/job/Ames-IA/Software-Developer-I_R19087",
+        "locations": [
+            "Ames, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/Iowa-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Hyster-Yale Materials Handling",
+        "id": "78971e69-9638-40d6-9793-1257cd5709f3",
+        "title": "Controls Engineer",
+        "active": true,
+        "date_updated": 1777414141,
+        "date_posted": 1777414056,
+        "url": "https://hysteryale.wd1.myworkdayjobs.com/hyster-yalecareers/job/HY-US-Greenville-NC-WPDC/Controls-Engineer_R7962",
+        "locations": [
+            "Greenville, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Hyster-Yale-Materials-Handling",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CACI",
+        "id": "1f204e9d-c49e-4764-8410-7d531f97c5b3",
+        "title": "Data Analyst - Systems Analysis - Electrical Engineer/Scientist Support",
+        "active": true,
+        "date_updated": 1777414141,
+        "date_posted": 1777414052,
+        "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-CA-Norco/Data-Analyst--Systems-Analysis--Electrical-Engineer-Scientist-Support-_325448-1",
+        "locations": [
+            "Norco, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Marvell",
+        "id": "f2c6987c-0e1a-482e-8453-79a0bfa75c5d",
+        "title": "Application Engineer \u2013 Early Career",
+        "active": true,
+        "date_updated": 1777414141,
+        "date_posted": 1777414019,
+        "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Application-Engineer---Early-Career_2601344",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Marvell",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Marvell",
+        "id": "c17951e7-c405-494d-ac01-d93e59f0cf3a",
+        "title": "Application Engineer \u2013 Early Career",
+        "active": true,
+        "date_updated": 1777414141,
+        "date_posted": 1777414047,
+        "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Application-Engineer---Early-Career_2601344-1",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Marvell",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "First Eagle Investments",
+        "id": "557868b3-333e-4c2c-88d8-6f5fcc54579b",
+        "title": "Data Science Analyst",
+        "active": true,
+        "date_updated": 1777414141,
+        "date_posted": 1777414007,
+        "url": "https://fei.wd5.myworkdayjobs.com/External/job/New-York/Data-Science-Analyst_JR100956",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/First-Eagle-Investments",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Mixpanel",
+        "id": "b420b1e0-7e29-4de5-adaf-9ea7109749c9",
+        "title": "Software Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1777414141,
+        "date_posted": 1776291098,
+        "url": "https://job-boards.greenhouse.io/mixpanel/jobs/7773373",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Mixpanel",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
