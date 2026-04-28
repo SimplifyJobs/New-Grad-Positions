@@ -40325,7 +40325,7 @@
         "company_name": "Zopa",
         "id": "1ebb6f2b-a0e8-4ede-9a59-473a1b4c35e8",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1762251926,
         "date_posted": 1761877217,
         "url": "https://jobs.lever.co/zopa/5a18a7f6-c926-4f7b-a9ce-cc7d6a8dc61b/apply",
@@ -279437,7 +279437,7 @@
         "company_name": "NextEra Energy",
         "id": "86f2b214-ca03-4538-be78-4f52056b8194",
         "title": "Applied Scientist 1",
-        "active": false,
+        "active": true,
         "date_updated": 1775775566,
         "date_posted": 1775772547,
         "url": "https://jobs.nexteraenergy.com/job/St_-Paul-Applied-Scientist-I-MN-55107/1381060800/?ats=successfactors",
@@ -279822,7 +279822,7 @@
         "source": "Simplify",
         "category": "Product",
         "company_name": "Mattel",
-        "id": "279b1d99-fb33-4227-8404-f54ee93faaf7",
+        "id": "7ef9aa06-16ee-4765-a876-437e7b9bc2b0",
         "title": "Associate Packaging Engineer",
         "active": true,
         "date_updated": 1775785501,
@@ -298142,7 +298142,7 @@
         "company_name": "The Boeing Company",
         "id": "ed4ead02-55c9-440c-b352-63878d3e3631",
         "title": "Audio Visual Programmer \u2013 Mid-Level or Senior",
-        "active": true,
+        "active": false,
         "date_updated": 1776763261,
         "date_posted": 1776763177,
         "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Herndon-VA/Audio-Visual-Programmer--Associate--Mid-Level-or-Senior-_JR2026499471",
@@ -305883,7 +305883,7 @@
         "company_name": "60decibelsinc",
         "id": "562f520b-505f-44ef-945f-b1754e4794ed",
         "title": "Product Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1777338721,
         "date_posted": 1777338568,
         "url": "https://job-boards.greenhouse.io/60decibelsinc/jobs/4674526006",
@@ -305974,5 +305974,23 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Giga AI",
+        "id": "68441536-c76d-4c50-86ba-263ef9b9d00e",
+        "title": "Forward Deployed Engineer",
+        "active": true,
+        "date_updated": 1777366441,
+        "date_posted": 1770793809,
+        "url": "https://jobs.ashbyhq.com/gigaml/cbe0ddad-a47c-420b-bf77-73721959d4fa/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Giga-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
