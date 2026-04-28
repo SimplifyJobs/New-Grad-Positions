@@ -243290,7 +243290,7 @@
         "company_name": "Q2",
         "id": "b8601e0c-9295-499f-b3c9-6c1358f5e269",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773873343,
         "date_posted": 1773873343,
         "url": "https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-TX/Software-Engineer_REQ-12326",
@@ -248674,7 +248674,7 @@
         "company_name": "Peraton",
         "id": "2a8cc1a0-2191-41f1-8f9f-878e387f7875",
         "title": "Junior Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1774303635,
         "date_posted": 1774303635,
         "url": "https://careers-peraton.icims.com/jobs/164805/job?mobile=true&needsRedirect=false",
@@ -263335,7 +263335,7 @@
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Lawrence Livermore National Laboratory (LLNL)",
-        "id": "4042a11a-8433-4d3c-b163-eb95de05c795",
+        "id": "bca74012-9462-4061-95f7-b27d58666e24",
         "title": "Operations Research Postdoctoral Researcher",
         "active": true,
         "date_updated": 1774986841,
@@ -294373,7 +294373,7 @@
         "company_name": "RTX",
         "id": "e4540e87-b8b8-4ce9-a1d3-57d4c30a9d85",
         "title": "Field Service Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1776528722,
         "date_posted": 1776526344,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/Harlow-Essex/Field-Service-Engineer_01807492",
@@ -305936,5 +305936,43 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Robert Bosch Venture Capital",
+        "id": "d17783fb-2544-49fb-abf7-1a6a27b2d4d6",
+        "title": "Data Solutions / Business Improvements Analyst \u2013 Graduate",
+        "active": true,
+        "date_updated": 1777367161,
+        "date_posted": 1777366992,
+        "url": "https://jobs.smartrecruiters.com/BoschGroup/744000123365870",
+        "locations": [
+            "Stratford-upon-Avon, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Bosch",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Peraton",
+        "id": "3e18b0f3-e8d6-4b60-b92d-963abebca45b",
+        "title": "Software Engineer - Associate",
+        "active": true,
+        "date_updated": 1777365181,
+        "date_posted": 1761898525,
+        "url": "https://careers-peraton.icims.com/jobs/147065/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Peraton",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
