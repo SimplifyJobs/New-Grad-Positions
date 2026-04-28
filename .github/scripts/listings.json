@@ -300226,7 +300226,7 @@
         "company_name": "Morgan Stanley",
         "id": "a362c47f-388a-45f9-aa88-c9fa6034e285",
         "title": "Analyst \u2013 Data Governance & Quality",
-        "active": true,
+        "active": false,
         "date_updated": 1776896319,
         "date_posted": 1776895780,
         "url": "https://ms.wd5.myworkdayjobs.com/External/job/Dallas-Texas-United-States-of-America/Analyst--Data-Governance---Quality_JR029603",
@@ -305989,6 +305989,24 @@
             "SF"
         ],
         "company_url": "https://simplify.jobs/c/Giga-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Vertiv",
+        "id": "3dbda926-b53b-4b5e-8a8b-c761918d7bba",
+        "title": "Test Team Operative/Technician",
+        "active": true,
+        "date_updated": 1777367161,
+        "date_posted": 1777367033,
+        "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20271143",
+        "locations": [
+            "Londonderry, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Vertiv",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
