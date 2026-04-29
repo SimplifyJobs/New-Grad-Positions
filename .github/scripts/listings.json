@@ -1,26 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Motorola",
-        "id": "e0ff9c5a-7674-4cb1-97f3-f803968a130e",
-        "title": "Junior Software Engineer",
-        "active": true,
-        "date_updated": 1756747299,
-        "date_posted": 1756747299,
-        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Uxbridge-UK-ZUK131/Junior-Software-Engineer_R57369",
-        "locations": [
-            "Uxbridge, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "RTX",
         "id": "4425a2a5-881f-4567-b730-3abfc1cccaae",
@@ -136456,7 +136436,7 @@
         "company_name": "Snyk",
         "id": "12bb5870-e3ea-4a7a-964a-7dcfbe9c6424",
         "title": "Associate Product Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1768347498,
         "date_posted": 1768347498,
         "url": "https://snyk.wd103.myworkdayjobs.com/External/job/United-States---Boston-Office/Associate-Product-Engineer_JR100284",
@@ -232469,7 +232449,7 @@
         "company_name": "Northrop Grumman",
         "id": "2a66c426-bfb9-4fe3-891d-1ad7f16deadb",
         "title": "Associate Software Engineer/Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773297252,
         "date_posted": 1773297252,
         "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_restricted_site/job/United-States-Oklahoma-Oklahoma-City/XMLNAME-2026-Associate-Software-Engineer-Software-Engineer_R10217878-2",
@@ -245503,7 +245483,7 @@
         "company_name": "Intuit",
         "id": "107c92f2-c610-4cca-89de-5b51b50041b9",
         "title": "Full Stack Software Developer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1773968971,
         "date_posted": 1773968971,
         "url": "https://jobs.intuit.com/job/toronto/full-stack-software-developer-i/27595/92964236816",
@@ -304013,7 +303993,7 @@
         "company_name": "Equifax",
         "id": "27f33ebe-d45c-4d8b-b225-a2b9b3ebc038",
         "title": "Product Owner",
-        "active": true,
+        "active": false,
         "date_updated": 1777068541,
         "date_posted": 1777068444,
         "url": "https://equifax.wd5.myworkdayjobs.com/external/job/USA---Atlanta---One-Atlantic-Center/Product-Owner_J00176714",
