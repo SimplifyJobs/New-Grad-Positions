@@ -299849,7 +299849,7 @@
         "company_name": "The Boeing Company",
         "id": "884a26c6-6036-4d65-8dc8-dd004fcf14f5",
         "title": "Software Engineer \u2013 Experienced or Senior - DevSecOps",
-        "active": true,
+        "active": false,
         "date_updated": 1776866941,
         "date_posted": 1776866816,
         "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Seattle-WA/Software-Engineer---DevSecOps--Associate--Experienced-or-Senior-_JR2026506945-2",
@@ -307275,5 +307275,26 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "ISS | Institutional Shareholder Services",
+        "id": "152f7f23-f5e7-45bc-918e-311b34da1559",
+        "title": "Index Research & Development Analyst - Thematics",
+        "active": true,
+        "date_updated": 1777451041,
+        "date_posted": 1777414083,
+        "url": "https://issgovernance.wd1.myworkdayjobs.com/isscareers/job/London-UK/Index-Research---Development-Analyst--Thematics-_JR_9767",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/ISS-STOXX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
     }
 ]
