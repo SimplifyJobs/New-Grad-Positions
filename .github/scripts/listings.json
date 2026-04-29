@@ -292519,7 +292519,7 @@
         "company_name": "Fifth Third Bank",
         "id": "a53d9228-b7e2-45d9-9930-ec4465fb1175",
         "title": "Fixed Income Analyst: Asset Back Securitization Trading Team",
-        "active": true,
+        "active": false,
         "date_updated": 1776463561,
         "date_posted": 1776463529,
         "url": "https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/New-York-NY/Fixed-Income-Analyst--Asset-Back-Securitization-Trading-Team---NYC_R67433",
@@ -298352,7 +298352,7 @@
         "company_name": "JP Morgan Chase",
         "id": "98a2f8f9-4540-4b97-98d4-019ccfd9ca5c",
         "title": "Quant Model Risk Analyst/Associate - Equities",
-        "active": true,
+        "active": false,
         "date_updated": 1776780541,
         "date_posted": 1776780529,
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210736677",
@@ -302008,7 +302008,7 @@
         "company_name": "CACI",
         "id": "69baba5f-9930-4fd8-a10e-262821ff37e6",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1776983527,
         "date_posted": 1776981965,
         "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-MD-Fort-Meade/Software-Engineer-I_325298-1",
@@ -307295,6 +307295,26 @@
         "degrees": [
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "General Dynamics Mission Systems",
+        "id": "956a21e3-ed97-42d7-b0b7-dd4ccdc4acb9",
+        "title": "Junior Software Engineer",
+        "active": true,
+        "date_updated": 1777454101,
+        "date_posted": 1777327694,
+        "url": "https://careers-gdms.icims.com/jobs/72233/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Dedham, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
