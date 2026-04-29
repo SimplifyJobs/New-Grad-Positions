@@ -293814,7 +293814,7 @@
         "company_name": "Mondelez International",
         "id": "fc9011f1-b783-4b6e-8d1e-67e603f58f57",
         "title": "Chocolate Product Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1776531242,
         "date_posted": 1776528315,
         "url": "https://wd3.myworkdaysite.com/recruiting/mdlz/External/job/Wroclaw-Poland/Chocolate-Product-Developer_R-158585-2",
@@ -307311,6 +307311,48 @@
             "Dedham, MA"
         ],
         "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Welocalize",
+        "id": "0f13303e-f2f1-4e7f-b71c-15603aa14803",
+        "title": "Data Labeling Associate",
+        "active": true,
+        "date_updated": 1777453921,
+        "date_posted": 1777453889,
+        "url": "https://welocalize.wd1.myworkdayjobs.com/welocalize/job/CA-Client-Field-Office-San-Fran-Bay-Area/Data-Labeling-Associate_R0007638",
+        "locations": [
+            "SF",
+            "Remote in USA",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Welocalize",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "MBDA",
+        "id": "7e87997e-37e9-4dd0-a92d-8538385b6870",
+        "title": "Electronics Technician - Calibration & Maintenance",
+        "active": true,
+        "date_updated": 1777454101,
+        "date_posted": 1777454051,
+        "url": "https://mbda.wd3.myworkdayjobs.com/MBDA-UK/job/Stevenage/Electronics-Technician---Calibration---Maintenance_R35819",
+        "locations": [
+            "Letchworth Garden City, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/MBDA",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
