@@ -190865,7 +190865,7 @@
         "company_name": "Benchling",
         "id": "a780c82f-c69f-40f2-a0bc-8bbd280d5c7e",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1771380823,
         "date_posted": 1771380823,
         "url": "https://jobs.ashbyhq.com/benchling/b3c9b312-6e2b-4dbc-9b15-0b0310d75a7f/application",
@@ -302227,7 +302227,7 @@
         "company_name": "Northrop Grumman",
         "id": "eec96d34-d4a6-4af6-9f82-2effad6f2f33",
         "title": "Associate Cable Engineer Technical Services",
-        "active": false,
+        "active": true,
         "date_updated": 1776982905,
         "date_posted": 1776982098,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-McClellan/XMLNAME-2026-Associate-Cable-Engineer-Technical-Services---McClellan-CA_R10230735",
@@ -307357,6 +307357,88 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "BlueCross BlueShield of South Carolina",
+        "id": "0ffd31fb-7064-498f-a880-95c4cb17d90b",
+        "title": "Business Systems Analyst 1",
+        "active": true,
+        "date_updated": 1777471888,
+        "date_posted": 1777471476,
+        "url": "https://ourhrconnect.wd501.myworkdayjobs.com/SCBlues/job/Columbia-South-Carolina/Business-Systems-Analyst-I_R1050486",
+        "locations": [
+            "Columbia, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/BlueCross-BlueShield-Of-South-Carolina",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Semtech",
+        "id": "7b6c0417-a7c9-4f6f-b819-56e9b9454b5f",
+        "title": "Staff Characterisation Engineer",
+        "active": true,
+        "date_updated": 1777471728,
+        "date_posted": 1777471521,
+        "url": "https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/GBR---Bristol/Staff-Characterisation-Engineer_REQ3285",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Semtech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Fiserv",
+        "id": "68d23b23-88b9-4f95-b74f-55d901f043d9",
+        "title": "Technology Analyst Program - Data Engineer",
+        "active": true,
+        "date_updated": 1777471561,
+        "date_posted": 1777471527,
+        "url": "https://fiserv.wd5.myworkdayjobs.com/ext/job/Alpharetta-Georgia/Technology-Analyst-Program---Data-Engineer_R-10385823",
+        "locations": [
+            "Alpharetta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Fiserv",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Howmet Aerospace",
+        "id": "0cebe4a3-37ab-49e8-9150-99b7e345f137",
+        "title": "Machine Learning Engineer",
+        "active": true,
+        "date_updated": 1777471741,
+        "date_posted": 1777471568,
+        "url": "https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/116265",
+        "locations": [
+            "Muskegon, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Howmet-Aerospace",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     }
 ]
