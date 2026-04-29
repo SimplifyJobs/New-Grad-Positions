@@ -301868,7 +301868,7 @@
         "company_name": "Draper",
         "id": "143fa3ca-56c0-431e-9744-29cca2b1cfcf",
         "title": "Hardware MEMS Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1776982233,
         "date_posted": 1776981807,
         "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/St-Petersburg-FL/Hardware-MEMS-Engr-MTS1_JR002400",
@@ -307127,6 +307127,69 @@
             "Melbourne, FL"
         ],
         "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ICF International",
+        "id": "7f60e73c-5f31-4924-bd49-5be38f1c9bf9",
+        "title": "Associate Salesforce Help Desk Analyst",
+        "active": true,
+        "date_updated": 1777424761,
+        "date_posted": 1777424705,
+        "url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/Associate-Salesforce-Help-Desk-Analyst--Remote--TT_R2601492",
+        "locations": [
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/ICF-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Akuna Capital University",
+        "id": "fabc45c2-5cc5-4891-bb61-145cdd6b0c7e",
+        "title": "Junior Quantitative Researcher - Prediction Markets",
+        "active": true,
+        "date_updated": 1777424761,
+        "date_posted": 1777424759,
+        "url": "https://www.akunacapital.com/careers/job/7863348/?gh_jid=7863348",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Akuna-Capital-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Intertek",
+        "id": "829121e5-c71f-4554-b55b-d96ddf392c78",
+        "title": "Engineer - Electrical Safety",
+        "active": true,
+        "date_updated": 1777425086,
+        "date_posted": 1777424755,
+        "url": "https://hcog.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/14627",
+        "locations": [
+            "Plano, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Intertek",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
