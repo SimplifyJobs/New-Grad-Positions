@@ -307215,5 +307215,65 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Fireworks AI",
+        "id": "6460dfb3-ab86-4757-b345-032cebc6e1a8",
+        "title": "Associate Product Manager",
+        "active": true,
+        "date_updated": 1777443302,
+        "date_posted": 1777443286,
+        "url": "https://job-boards.greenhouse.io/fireworksai/jobs/4235059009",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Fireworks-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Anduril",
+        "id": "59da20b4-89d9-4050-8d93-b79c0953d1c7",
+        "title": "Early Career Software Engineer",
+        "active": true,
+        "date_updated": 1777442941,
+        "date_posted": 1776895692,
+        "url": "https://boards.greenhouse.io/andurilindustries/jobs/4802146007",
+        "locations": [
+            "Newport Beach, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Anduril",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Anduril",
+        "id": "801ca1b0-5e61-4bb9-9e6d-b95bac5a1e56",
+        "title": "Engineering Technician - Cleanroom",
+        "active": true,
+        "date_updated": 1777442941,
+        "date_posted": 1774736688,
+        "url": "https://boards.greenhouse.io/andurilindustries/jobs/5092603007",
+        "locations": [
+            "Lexington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Anduril",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
