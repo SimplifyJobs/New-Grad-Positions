@@ -231124,7 +231124,7 @@
         "company_name": "Distyl AI",
         "id": "7040ffc8-8e65-4127-b64f-e01ab2cedebe",
         "title": "Frontend Product Engineer - AI Applications",
-        "active": false,
+        "active": true,
         "date_updated": 1773267197,
         "date_posted": 1773267197,
         "url": "https://jobs.ashbyhq.com/distyl/147bb404-915d-44ec-b268-be02701872bc/application",
@@ -275559,7 +275559,7 @@
         "company_name": "Madewell",
         "id": "d36557df-ada0-43ad-bdf8-133ece448c81",
         "title": "Assistant Pattern Maker - Denim Bottoms",
-        "active": false,
+        "active": true,
         "date_updated": 1775604601,
         "date_posted": 1775599598,
         "url": "https://jcrew.wd1.myworkdayjobs.com/madewellcareers/job/New-York-NY-USA-Headquarters/Assistant-Pattern-Maker---Denim-Bottoms_123905",
@@ -291179,7 +291179,7 @@
         "company_name": "Centene",
         "id": "942c2e5f-98c2-4818-a2a3-44d04e6f3dff",
         "title": "Business Solutions Developer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1776406218,
         "date_posted": 1776405883,
         "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-OK/Business-Solutions-Developer-I_1635645",
@@ -297596,7 +297596,7 @@
         "company_name": "Google",
         "id": "74c382f0-abb0-4921-93d7-6f84913fd7ea",
         "title": "Software Engineer 3 - Full Stack - Platforms and Devices",
-        "active": true,
+        "active": false,
         "date_updated": 1776762775,
         "date_posted": 1773871819,
         "url": "https://www.google.com/about/careers/applications/jobs/results/132035196835766982",
@@ -304156,7 +304156,7 @@
         "company_name": "xAI",
         "id": "c4af72be-3beb-4321-af28-1206dea74e31",
         "title": "Data Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1777079161,
         "date_posted": 1777079121,
         "url": "https://job-boards.greenhouse.io/xai/jobs/5120884007",
@@ -307406,5 +307406,124 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Verisk",
+        "id": "1e186e9f-f8a4-41e1-b3e2-49d4d293fd9f",
+        "title": "Data Scientist 1",
+        "active": true,
+        "date_updated": 1777501212,
+        "date_posted": 1777500430,
+        "url": "https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3746",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Verisk",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "NVIDIA",
+        "id": "1de13b97-34aa-4238-8e96-9b36b4e9d623",
+        "title": "Compiler Engineer \u2013 Backend-New College Grad",
+        "active": true,
+        "date_updated": 1777501326,
+        "date_posted": 1777500504,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Compiler-Engineer--Backend--New-College-Grad-2026_JR2017290",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ServiceNow",
+        "id": "ebda1cc1-7eda-446d-9c79-91bae02fa310",
+        "title": "Associate Software Engineer - Core Infrastructure",
+        "active": true,
+        "date_updated": 1777500361,
+        "date_posted": 1777500252,
+        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000123803504",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ServiceNow",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ServiceNow",
+        "id": "b8c28687-adb0-4451-b464-c8c2d2619ed5",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1777500361,
+        "date_posted": 1777500251,
+        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000123749209",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ServiceNow",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ServiceNow",
+        "id": "7a41f6a2-6f07-418e-93ac-c2e129d39307",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1777500361,
+        "date_posted": 1777500252,
+        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000123785239",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ServiceNow",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Wellmark",
+        "id": "6b9b43b1-883b-4602-9e88-b3ac1cf2b2b1",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1777500361,
+        "date_posted": 1777500240,
+        "url": "https://jobs.smartrecruiters.com/WellmarkInc/744000123707284",
+        "locations": [
+            "Des Moines, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/Wellmark",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
