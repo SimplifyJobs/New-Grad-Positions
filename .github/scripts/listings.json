@@ -250490,7 +250490,7 @@
         "company_name": "Fortive",
         "id": "aff32944-fe60-4a6f-987c-262b34263b71",
         "title": "Field Service Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1774084372,
         "date_posted": 1771715547,
         "url": "https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/9021",
