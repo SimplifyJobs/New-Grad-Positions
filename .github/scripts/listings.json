@@ -1,45 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "RTX",
-        "id": "4425a2a5-881f-4567-b730-3abfc1cccaae",
-        "title": "2026 Fulltime - Raytheon Missile Defense Sensors Software Engineer I",
-        "active": false,
-        "date_updated": 1756768715,
-        "date_posted": 1756768715,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA311-Woburn-MA-225-Presidential-225-Presidential-Way-Goddard-Building-27-Woburn-MA-01801-USA/XMLNAME-2026-Fulltime---Raytheon-Missile-Defense-Sensors-Software-Engineer-I--On-site-_01789916",
-        "locations": [
-            "Burlington, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "RTX",
-        "id": "cc08919c-d003-4a69-87fc-d16094133db0",
-        "title": "2026 Fulltime - Raytheon Missile Defense Sensors Software Engineer I",
-        "active": false,
-        "date_updated": 1756768721,
-        "date_posted": 1756768721,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA133-Tewksbury-Ma-Bldg-3-Concord-50-Apple-Hill-Drive-Concord---Building-3-Tewksbury-MA-01876-USA/XMLNAME-2026-Fulltime---Raytheon-Missile-Defense-Sensors-Software-Engineer-I--On-site-_01789917",
-        "locations": [
-            "Tewksbury, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "date_updated": 1756902955,
         "sponsorship": "Offers Sponsorship",
         "active": true,
@@ -36102,7 +36062,7 @@
         "company_name": "ByteDance",
         "id": "0b81edbb-4d51-4511-9151-3e9386c8cebe",
         "title": "Machine Learning Engineer Graduate - Multiple Teams",
-        "active": true,
+        "active": false,
         "date_updated": 1761912886,
         "date_posted": 1761912886,
         "url": "https://jobs.bytedance.com/en/position/7538934102230878471/detail",
@@ -36846,7 +36806,7 @@
         "company_name": "ByteDance",
         "id": "1c8bf762-194e-4771-99e4-1f0b1306a26b",
         "title": "Machine Learning Engineer Graduate - E-Commerce Knowledge Graph - CV/Multimodal/NLP",
-        "active": true,
+        "active": false,
         "date_updated": 1761909235,
         "date_posted": 1761909235,
         "url": "https://jobs.bytedance.com/en/position/7515571517339453714/detail",
@@ -128585,7 +128545,7 @@
         "company_name": "JP Morgan Chase",
         "id": "3cad6a57-e14d-46e2-8c53-25d1fab7367f",
         "title": "Mydata Reporting Analytics Solutions - Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1767827969,
         "date_posted": 1767827969,
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210695999",
@@ -190149,7 +190109,7 @@
         "company_name": "Enbridge",
         "id": "a35f54af-882d-4dcd-9d32-b3059d017787",
         "title": "Junior Java Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1771369571,
         "date_posted": 1771369571,
         "url": "https://enbridge.wd3.myworkdayjobs.com/enbridge_careers/job/Houston-TX-USA/Junior-Java-Developer_70221-1",
@@ -249979,7 +249939,7 @@
         "company_name": "First National Bank",
         "id": "a9714733-b777-4395-97cd-932b77923c87",
         "title": "Business Analytics Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1774083067,
         "date_posted": 1771672024,
         "url": "https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Pittsburgh-PA/Business-Analytics-Analyst_2025-02550",
@@ -307787,5 +307747,361 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northrop Grumman",
+        "id": "d9368b85-8130-440d-a260-1b1c9652c7b6",
+        "title": "Electromechanical Engineer - Level 1 OR 2",
+        "active": true,
+        "date_updated": 1777501441,
+        "date_posted": 1777500621,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Electromechanical-Engineer--Level-1-OR-2-_R10230923",
+        "locations": [
+            "Aurora, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Google",
+        "id": "9db46f9c-149c-47a5-8c89-db7fda35808d",
+        "title": "Product Manager 1 - Payments Platform Enterprise Credit",
+        "active": true,
+        "date_updated": 1777501406,
+        "date_posted": 1777500513,
+        "url": "https://www.google.com/about/careers/applications/jobs/results/140659158843040454",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Google",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Micron Technology",
+        "id": "917d14cd-4df8-4b23-ae9e-1b63b8c40ca4",
+        "title": "Computer Engineer",
+        "active": true,
+        "date_updated": 1777501441,
+        "date_posted": 1777500688,
+        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Computer-Engineer--CE_JR99501",
+        "locations": [
+            "Boise, ID"
+        ],
+        "company_url": "https://simplify.jobs/c/Micron-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Allstate Insurance Company",
+        "id": "432e2452-4c82-4bef-b321-829e516f2dab",
+        "title": "Product Management Insurance Consultant",
+        "active": true,
+        "date_updated": 1777500541,
+        "date_posted": 1777500425,
+        "url": "https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/CAN---ON-GTA-Remote/Product-Management-Insurance-Consultant_R29628-1",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Allstate-Insurance-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Loblaw Companies",
+        "id": "f1166430-b92d-4670-b7bb-757e4f00e57a",
+        "title": "Associate Product Manager",
+        "active": true,
+        "date_updated": 1777501441,
+        "date_posted": 1777500598,
+        "url": "https://myview.wd3.myworkdayjobs.com/paradox_careers/job/1-Presidents-Choice-Circle-Brampton-ON/Associate-Product-Manager_R2000660666-1",
+        "locations": [
+            "Brampton, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Loblaw-Companies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Micron Technology",
+        "id": "690630fb-8cf8-4bd4-9c93-fa0a51844a34",
+        "title": "HBM PYE Product Development Failure Analysis Engineer",
+        "active": true,
+        "date_updated": 1777501441,
+        "date_posted": 1777500688,
+        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/HBM-PYE-Product-Development-Failure-Analysis-Engineer_JR95845",
+        "locations": [
+            "Boise, ID"
+        ],
+        "company_url": "https://simplify.jobs/c/Micron-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ServiceNow",
+        "id": "bc8e3d53-cb25-4dd8-8c3a-ad296306ecd8",
+        "title": "Associate Software Engineer - Search Infrastructure",
+        "active": true,
+        "date_updated": 1777500361,
+        "date_posted": 1777500252,
+        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000123802354",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ServiceNow",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Carnegie Mellon University",
+        "id": "6b8d571f-e306-4d64-890e-c928d8337dbd",
+        "title": "Research Associate - College of Engineering - Electrical and Computer Engineering",
+        "active": true,
+        "date_updated": 1777501441,
+        "date_posted": 1777500609,
+        "url": "https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Research-Associate---College-of-Engineering---Electrical-and-Computer-Engineering_2024479",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Carnegie-Mellon-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Warner Bros.",
+        "id": "5d6f7bb3-b27b-4b76-9b28-70e275b92f80",
+        "title": "Growth and Innovation Specialist - Sports",
+        "active": true,
+        "date_updated": 1777501441,
+        "date_posted": 1777500584,
+        "url": "https://warnerbros.wd5.myworkdayjobs.com/global/job/GA-Atlanta-1050-Techwood-Drive-NW/Growth-and-Innovation-Specialist--Sports--Temporary-_R000104997-1",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Warner-Bros",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "550c0f8a-8e58-4586-9968-9340d5265955",
+        "title": "Software Engineer 1 - Test Solutions",
+        "active": true,
+        "date_updated": 1777501226,
+        "date_posted": 1777500478,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Software-Engineer-I----Test-Solutions---Onsite_01836492-1",
+        "locations": [
+            "Tucson, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "PG&E",
+        "id": "066f6838-38bd-47c8-b703-7a354e40e564",
+        "title": "Data Science/Engineer - Associate",
+        "active": true,
+        "date_updated": 1777500361,
+        "date_posted": 1777500204,
+        "url": "https://careers.pge.com/job/Oakland-Data-ScienceEngineer,-Associate-CA-94612/1386702900/?ats=successfactors",
+        "locations": [
+            "Oakland, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/PGE",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Greenwood Village South",
+        "id": "e6a9f36e-952d-4179-9caf-91d3c799482e",
+        "title": "Data Engineering Associate",
+        "active": true,
+        "date_updated": 1777500541,
+        "date_posted": 1777500384,
+        "url": "https://eexs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/GreenwoodVillageSouth/job/35655",
+        "locations": [
+            "Des Moines, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/Greenwood-Village-South",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Citi",
+        "id": "7cebf51c-6015-4c05-9925-fb624833aa9e",
+        "title": "Applications Development Programmer Analyst",
+        "active": true,
+        "date_updated": 1777501641,
+        "date_posted": 1777500651,
+        "url": "https://citi.wd5.myworkdayjobs.com/2/job/Mississauga-Ontario-Canada/Apps-Dev-Programmer-Analyst---Officer_26951546",
+        "locations": [
+            "Mississauga, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Citigroup",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Radiance Technologies",
+        "id": "4810d9d3-9ef0-4c05-b81b-8765bce41f9a",
+        "title": "Entry Level Microelectronics R&D Engineer",
+        "active": true,
+        "date_updated": 1777501062,
+        "date_posted": 1777500383,
+        "url": "https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Ruston-LA/Entry-level-Microelectronics-R-D-Engineer_HR102151",
+        "locations": [
+            "Monroe, LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Radiance-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northrop Grumman",
+        "id": "1cfc6b63-2193-43ee-ab5f-8607bca81111",
+        "title": "Quality Control Technician - Level 1 or Level 2",
+        "active": true,
+        "date_updated": 1777501441,
+        "date_posted": 1777500620,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Corinne/Quality-Control-Technician----Level-1-or-Level-2_R10231354",
+        "locations": [
+            "Box Elder County, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Carnegie Mellon University",
+        "id": "c8344cf3-1eee-49c7-9012-1c6956148a77",
+        "title": "Research Associate - Data Science and AI Focus",
+        "active": true,
+        "date_updated": 1777501441,
+        "date_posted": 1777500609,
+        "url": "https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Research-Associate--Data-Science-and-AI-Focus---School-of-Computer-Science---HCII_2024449",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Carnegie-Mellon-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Micron Technology",
+        "id": "2e8597b9-3b8a-4fcb-8540-6132ca4ee069",
+        "title": "Computer Engineer",
+        "active": true,
+        "date_updated": 1777501441,
+        "date_posted": 1777500688,
+        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Computer-Engineer--CE_JR99504",
+        "locations": [
+            "Richardson, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Micron-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Abbott",
+        "id": "2da1c060-a368-4578-a154-a4381102aaed",
+        "title": "Clinical Product Engineer 1",
+        "active": true,
+        "date_updated": 1777501584,
+        "date_posted": 1777500599,
+        "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Sylmar/Clinical-Product-Engineer-I_31148142-1",
+        "locations": [
+            "Pacoima, LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Abbott",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
