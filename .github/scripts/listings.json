@@ -59005,60 +59005,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Tower Research Capital",
-        "id": "8622147c-c9ab-4896-99c5-ab4f58b3b771",
-        "title": "Quantitative Trader/Researcher Graduate Programme",
-        "active": false,
-        "date_updated": 1762912825,
-        "date_posted": 1756739028,
-        "url": "https://www.tower-research.com/open-positions/?gh_jid=7210128",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Tower-Research-Capital",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Tower Research Capital",
-        "id": "129b867a-5baf-475e-b391-44c7bf1394fd",
-        "title": "Quantitative Developer Graduate",
-        "active": false,
-        "date_updated": 1762918879,
-        "date_posted": 1756739020,
-        "url": "https://www.tower-research.com/open-positions/?gh_jid=7210136",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Tower-Research-Capital",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Solar Turbines",
-        "id": "1100a76e-44b0-47ac-bc13-3dbf17a6525d",
-        "title": "Solutions.Platforms.Engineered \u2013 Entry Level Rotation Program - Spe",
-        "active": false,
-        "date_updated": 1762909588,
-        "date_posted": 1756737245,
-        "url": "https://cat.wd5.myworkdayjobs.com/en-US/solarturbines/job/San-Diego-California/XMLNAME-2026-SolutionsPlatformsEngineered--SPE--Entry-Level-Rotation-Program_R0000316308",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Solar-Turbines",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Newmark Group",
         "id": "5253007d-4ecc-4c34-8694-3e96cafbfbb2",
@@ -170052,7 +169998,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "74869185-a910-4f59-be5d-bbf3389e9810",
         "title": "Quantitative Data Developer - PhD: 2026",
-        "active": true,
+        "active": false,
         "date_updated": 1770217799,
         "date_posted": 1770217799,
         "url": "https://careers-sig.icims.com/jobs/10565/job?mobile=true&needsRedirect=false",
@@ -178747,7 +178693,7 @@
         "company_name": "Deutsche Bank",
         "id": "ed2b1a96-cf2e-4cbb-847f-31c3943c6ec2",
         "title": "Product Management Specialist - Client Solutions Latam",
-        "active": false,
+        "active": true,
         "date_updated": 1770689596,
         "date_posted": 1770689596,
         "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/New-York-1-Columbus-Circle/Product-Management-Specialist---Client-Solutions-LatAM_R0422458",
@@ -269382,7 +269328,7 @@
         "company_name": "Atos",
         "id": "86a3dbd1-2847-4a14-8d48-af6e48facf09",
         "title": "Graduate Data & AI Resource",
-        "active": true,
+        "active": false,
         "date_updated": 1775226748,
         "date_posted": 1775225214,
         "url": "https://jobs.atos.net/job/London-Graduate-D&AI-Resource/1380728433/?ats=successfactors",
@@ -269916,7 +269862,7 @@
         "company_name": "eBay",
         "id": "8758964a-1ad6-4919-8470-4454fa7614e3",
         "title": "Applied Researcher 1",
-        "active": true,
+        "active": false,
         "date_updated": 1775255628,
         "date_posted": 1775253873,
         "url": "https://ebay.wd5.myworkdayjobs.com/apply/job/Austin/Applied-Researcher-I_R0073209",
@@ -292519,7 +292465,7 @@
         "company_name": "Fifth Third Bank",
         "id": "a53d9228-b7e2-45d9-9930-ec4465fb1175",
         "title": "Fixed Income Analyst: Asset Back Securitization Trading Team",
-        "active": false,
+        "active": true,
         "date_updated": 1776463561,
         "date_posted": 1776463529,
         "url": "https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/New-York-NY/Fixed-Income-Analyst--Asset-Back-Securitization-Trading-Team---NYC_R67433",
@@ -300529,7 +300475,7 @@
         "company_name": "The Hartford ",
         "id": "aaf76a57-0d07-40d0-a8f6-3031a0770570",
         "title": "Associate Data and AI Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1776896117,
         "date_posted": 1776895601,
         "url": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Associate-Data-and-AI-Engineer_R2625084",
@@ -303111,7 +303057,7 @@
         "company_name": "Bank of America",
         "id": "c2c4772a-0a92-4ed1-a066-c979a1eae1ef",
         "title": "Customer Segment Consultant 1",
-        "active": true,
+        "active": false,
         "date_updated": 1777024151,
         "date_posted": 1776523611,
         "url": "https://ghr.wd1.myworkdayjobs.com/us-emplsv/job/Pennington/Customer-Segment-Consultant-I_26010046",
@@ -306488,7 +306434,7 @@
         "company_name": "SciTec",
         "id": "b38cc126-88d4-4da7-ba9b-9fd0d262dfa0",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1777415041,
         "date_posted": 1777414147,
         "url": "https://apply.workable.com/scitec/j/D05B63F088/apply",
@@ -307439,6 +307385,66 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cox",
+        "id": "4db65d2a-2365-4241-9741-99b84131ee67",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1777472316,
+        "date_posted": 1777471621,
+        "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Irvine-CA/Software-Engineer-I_R202676423",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cox",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Ameresco",
+        "id": "b5ef5c41-d707-4713-91cb-69a7fe548968",
+        "title": "Data Analyst Admin",
+        "active": true,
+        "date_updated": 1777471741,
+        "date_posted": 1777471660,
+        "url": "https://ameresco.wd5.myworkdayjobs.com/en-US/Ameresco/job/United-States---Massachusetts---Westborough/Data-Analyst-Admin_R3763",
+        "locations": [
+            "Westborough, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/89688bf2-cf8f-4629-99bc-ac10ed0ac2e2",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Blue Cross and Blue Shield of Louisiana ",
+        "id": "5dd82d0e-d39f-459a-8021-0ccbf18370e9",
+        "title": "Associate Compensation & People Analytics Analyst",
+        "active": true,
+        "date_updated": 1777472217,
+        "date_posted": 1777471659,
+        "url": "https://bcbsla.wd1.myworkdayjobs.com/external/job/Corporate---Baton-Rouge-LA/Associate-Compensation---People-Analytics-Analyst_R11585",
+        "locations": [
+            "Baton Rouge, LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Blue-Cross-And-Blue-Shield-Of-Louisiana",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
