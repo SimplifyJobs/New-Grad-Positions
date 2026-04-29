@@ -279538,7 +279538,7 @@
         "company_name": "L3Harris Technologies",
         "id": "33db7781-a80f-4ec9-adab-3856c8a1914f",
         "title": "Associate \u2013 Business Intel Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1775775071,
         "date_posted": 1775772531,
         "url": "https://jobs.l3harris.com/job/Camden-Associate,-Business-Intel-Analyst-AR-71701/1381039900/?ats=successfactors",
@@ -286352,7 +286352,7 @@
         "company_name": "Intuit",
         "id": "0db0f60e-59d4-449d-aa00-f7ddce307ca4",
         "title": "Full Stack Software Developer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1776208452,
         "date_posted": 1776204567,
         "url": "https://jobs.intuit.com/job/toronto/full-stack-software-developer-i/27595/93951873440",
@@ -307190,6 +307190,26 @@
             "Plano, TX"
         ],
         "company_url": "https://simplify.jobs/c/Intertek",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Mixpanel",
+        "id": "48ff5f79-c75d-4ba5-8486-934d9e21b582",
+        "title": "Software Engineer - AI Product Insights",
+        "active": true,
+        "date_updated": 1777424941,
+        "date_posted": 1777079346,
+        "url": "https://job-boards.greenhouse.io/mixpanel/jobs/7850958",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Mixpanel",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
