@@ -7,7 +7,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 ---
 ### Browse 313 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (196)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (195)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (9)
 
@@ -15,7 +15,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 📈 **[Quantitative Finance](#-quantitative-finance-new-grad-roles)** (5)
 
-🔧 **[Hardware Engineering](#-hardware-engineering-new-grad-roles)** (57)
+🔧 **[Hardware Engineering](#-hardware-engineering-new-grad-roles)** (58)
 
 💼 **[Other](#-other-new-grad-roles)** (0)
 
@@ -217,13 +217,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Engineer 1</td>
 <td>SF</td>
 <td><div align="center"><a href="https://jobs.ashbyhq.com/handshake/2cfafa1a-d47d-4bc2-9c41-4c50bcba0245/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/93267533-5a7f-40b8-bf6b-0482f74c0314?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>5d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/CACI?utm_source=GHList&utm_medium=company">CACI</a></strong></td>
-<td>Software Engineer 1</td>
-<td>Annapolis Junction, MD</br>Odenton, MD</td>
-<td><div align="center"><a href="https://caci.wd1.myworkdayjobs.com/external/job/US-MD-Fort-Meade/Software-Engineer-I_325298-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/69baba5f-9930-4fd8-a10e-262821ff37e6?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
 <td>5d</td>
 </tr>
 <tr>
@@ -1274,7 +1267,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Engineer – New grad</td>
 <td>SF</td>
 <td><div align="center"><a href="https://jobs.ashbyhq.com/continue/219fce3e-7af9-4b00-8fa7-87bf53db72f7/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/ea62eccc-f658-4ada-bbba-55a21bdbf3f1?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>5mo</td>
+<td>6mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/N1?utm_source=GHList&utm_medium=company">N1</a></strong></td>
@@ -1456,7 +1449,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (1267)</summary>
+<summary>🗃️ Inactive roles (1268)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -1494,6 +1487,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><strong><a href="https://simplify.jobs/c/Axon?utm_source=GHList&utm_medium=company">Axon</a></strong></td>
 <td>Software Engineer 1 Intern</td>
 <td>Seattle, WA</td>
+<td>🔒</td>
+<td>5d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/CACI?utm_source=GHList&utm_medium=company">CACI</a></strong></td>
+<td>Software Engineer 1</td>
+<td>Annapolis Junction, MD</br>Odenton, MD</td>
 <td>🔒</td>
 <td>5d</td>
 </tr>
@@ -7683,7 +7683,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>IOS Engineer – Early Career - Generative AI Experiences Software</td>
 <td>Cupertino, CA</td>
 <td>🔒</td>
-<td>5mo</td>
+<td>6mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Microsoft?utm_source=GHList&utm_medium=company">🔥 Microsoft</a></strong></td>
@@ -13309,6 +13309,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Engineer 1 - Manufacturing</td>
 <td>San Diego, CA</td>
 <td><div align="center"><a href="https://braincorp.com/open-positions?gh_jid=8525580002&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/0048597d-b88e-49a3-9335-a951045650d5?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
+<td>1d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/General-Dynamics-Mission-Systems?utm_source=GHList&utm_medium=company">General Dynamics Mission Systems</a></strong></td>
+<td>Junior Software Engineer</td>
+<td>Dedham, MA</td>
+<td><div align="center"><a href="https://careers-gdms.icims.com/jobs/72233/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/956a21e3-ed97-42d7-b0b7-dd4ccdc4acb9?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
 <td>1d</td>
 </tr>
 <tr>
