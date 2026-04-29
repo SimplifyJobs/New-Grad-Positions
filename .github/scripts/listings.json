@@ -154681,7 +154681,7 @@
         "company_name": "Apex Fintech Solutions",
         "id": "5a86b090-ac5d-4d51-87be-aa632f40e18c",
         "title": "Software Engineer 1 - Java",
-        "active": true,
+        "active": false,
         "date_updated": 1769809702,
         "date_posted": 1769472652,
         "url": "https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions/job/Austin-TX/Software-Engineer-I--Java-_JR104035-1",
@@ -211326,7 +211326,7 @@
         "company_name": "L3Harris Technologies",
         "id": "3be9db47-fb9f-4359-b5d7-444ec35ae1f5",
         "title": "Engineering Technician B",
-        "active": true,
+        "active": false,
         "date_updated": 1772205184,
         "date_posted": 1772205184,
         "url": "https://jobs.l3harris.com/job/Salt-Lake-City-Engineering-Technician-B-UT-84116/1368645000/?ats=successfactors",
@@ -242663,7 +242663,7 @@
         "company_name": "Tyson Foods",
         "id": "35f52be5-203a-44f0-9714-84e6c992275b",
         "title": "Programmer/Analyst Applications",
-        "active": true,
+        "active": false,
         "date_updated": 1773872026,
         "date_posted": 1773872026,
         "url": "https://tysonfoods.wd5.myworkdayjobs.com/TSN/job/Cobb-Vantress-Corporate---Siloam-Springs-Arkansas/Programmer-Analyst-Applications---Cobb-Vantress-Corporate--Siloam-Springs--AR-_R0450735-3",
@@ -303426,7 +303426,7 @@
         "company_name": "Generac",
         "id": "46e3e72c-89a6-4e19-b209-9365856c9e07",
         "title": "Associate Product Manager",
-        "active": true,
+        "active": false,
         "date_updated": 1777069410,
         "date_posted": 1777068544,
         "url": "https://generac.wd5.myworkdayjobs.com/en-US/external/job/Waukesha-WI---USA/Associate-Product-manager_JR13689",
@@ -307388,5 +307388,23 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Motorola",
+        "id": "e0ff9c5a-7674-4cb1-97f3-f803968a130e",
+        "title": "Junior Software Engineer",
+        "active": true,
+        "date_updated": 1777298941,
+        "date_posted": 1777298825,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Uxbridge-UK-ZUK131/Junior-Software-Engineer_R57369",
+        "locations": [
+            "Uxbridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
