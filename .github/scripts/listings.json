@@ -207350,7 +207350,7 @@
         "company_name": "DAT Freight & Analytics",
         "id": "aec3af92-d016-4183-bd0e-eb58484ab9bb",
         "title": "Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1772063107,
         "date_posted": 1772063107,
         "url": "https://careers.dat.com/jobs/5721169004?gh_jid=5721169004",
@@ -217031,7 +217031,7 @@
         "company_name": "Schweitzer Engineering Laboratories",
         "id": "ef094eaa-271d-45f8-a99e-0dfd7646e850",
         "title": "Associate Hardware Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1772580167,
         "date_posted": 1772580167,
         "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Associate-Hardware-Engineer_2025-18351",
@@ -272865,7 +272865,7 @@
         "company_name": "Raymond James Financial",
         "id": "c358f3f1-1ca6-4b3d-a4dc-51f29ef50d9d",
         "title": "Senior Operations Support Associate - Mutual Fund Trading Dept",
-        "active": true,
+        "active": false,
         "date_updated": 1775485830,
         "date_posted": 1775484443,
         "url": "https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Southfield-Michigan---United-States/Sr-Operations-Support-Associate--Mutual-Fund-Trading-Dept_R-0010437",
@@ -278736,7 +278736,7 @@
         "company_name": "RTX",
         "id": "ad31aa73-1fb8-4e0e-9f84-dcd9ddf9097d",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1775775617,
         "date_posted": 1775772582,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/XMLNAME-2026-Raytheon-Full-Time--Software-Engineer-I---Onsite-_01833936",
@@ -308098,6 +308098,126 @@
             "Pacoima, LA"
         ],
         "company_url": "https://simplify.jobs/c/Abbott",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Torc Robotics",
+        "id": "d0a815dd-6910-4710-9ce6-ea61f50c038b",
+        "title": "ML Engineer - App Engine",
+        "active": true,
+        "date_updated": 1777501621,
+        "date_posted": 1777500829,
+        "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8525554002",
+        "locations": [
+            "Ann Arbor, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Torc-Robotics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Cisco",
+        "id": "966d65a3-6a5a-4edb-a736-8fca60075519",
+        "title": "Software Engineer Embedded/Network Systems 3",
+        "active": true,
+        "date_updated": 1777501549,
+        "date_posted": 1777500546,
+        "url": "https://careers.cisco.com/global/en/job/2013783",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cisco",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "HCSC",
+        "id": "7e65915f-e56b-4e24-8bd7-1e5ad5d7c13b",
+        "title": "Associate Automation Programmer",
+        "active": true,
+        "date_updated": 1777501597,
+        "date_posted": 1777500334,
+        "url": "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/TX---Richardson/Associate-Automation-Programmer_R0050834",
+        "locations": [
+            "Richardson, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/de9db5fc-93ac-4e2a-873c-61d8a830873c",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "13ed0912-9f6e-49e2-95b9-c811ac31c2ff",
+        "title": "Radio Frequency Test Software Engineer",
+        "active": true,
+        "date_updated": 1777501636,
+        "date_posted": 1777500578,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WZS--2501-W-University-Dr--WZS-BLDG/XMLNAME-2026-Fulltime----Raytheon-RF-Test-Software-Engineer---Onsite_01841906",
+        "locations": [
+            "McKinney, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Parsons",
+        "id": "76116ffa-f2f8-4c23-b225-3e756929ef85",
+        "title": "C-UAS Test Analyst",
+        "active": true,
+        "date_updated": 1777500541,
+        "date_posted": 1777500398,
+        "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US-WV---Summit-Point/C-UAS-Test-Analyst_R180327-2",
+        "locations": [
+            "Bluemont, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Parsons",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "VF",
+        "id": "3e46e678-09eb-4da7-b8cc-fb67ba8a1692",
+        "title": "Product Test Analyst",
+        "active": true,
+        "date_updated": 1777501627,
+        "date_posted": 1777500621,
+        "url": "https://vfc.wd5.myworkdayjobs.com/vfc_careers/job/USCA--USA--Colorado--Denver-HQ---VFC/Altra-Product-Test-Analyst_R-20260421-0043-2",
+        "locations": [
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/VF",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
