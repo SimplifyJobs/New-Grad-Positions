@@ -209218,7 +209218,7 @@
         "company_name": "Capital One",
         "id": "8604d8aa-cc00-481b-9215-515df15cae18",
         "title": "Associate \u2013 New Grad Card Expansion - Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1772149671,
         "date_posted": 1772149671,
         "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R236833",
@@ -266192,7 +266192,7 @@
         "company_name": "Ciena",
         "id": "be35a8e8-0046-42a6-a612-b34eab9848e1",
         "title": "Hardware Power Engineer \u2013 New Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1775084941,
         "date_posted": 1775081314,
         "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Hardware-Power-Engineer---New-Grad_R030580",
@@ -279753,7 +279753,7 @@
         "source": "Simplify",
         "category": "Hardware",
         "company_name": "General Dynamics UK",
-        "id": "065c3327-c2a5-45a2-a491-9aaaf0af1379",
+        "id": "b37868be-64a9-494d-ab2b-bd0ec39f94ae",
         "title": "Intermediate Systems Engineer - Applications Team",
         "active": true,
         "date_updated": 1775814133,
@@ -299398,7 +299398,7 @@
         "company_name": "qode.world",
         "id": "b1298b09-5441-4fc3-b603-cd80d0a889d1",
         "title": "Associate Data Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1776820141,
         "date_posted": 1776820122,
         "url": "https://apply.workable.com/qodeworld/j/F0125B8AA5/apply",
@@ -302447,7 +302447,7 @@
         "company_name": "DPR Family of Companies",
         "id": "d2f906ec-ad0b-410c-bb84-e092a0d2af22",
         "title": "Associate Business System Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1776982141,
         "date_posted": 1776982037,
         "url": "https://mydpr.wd5.myworkdayjobs.com/11212017/job/Raleigh-Durham-NC/Associate-Business-System-Analyst_JR-14858",
@@ -305985,7 +305985,7 @@
         "company_name": "PNC Financial Services",
         "id": "cb0bd6cc-de0f-48be-a2de-b00a96693074",
         "title": "Data Analytics Development Program Analyst/Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1777385739,
         "date_posted": 1777385261,
         "url": "https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Data-Analytics-Development-Program-Analyst-Associate_R221059-1",
@@ -307179,7 +307179,7 @@
         "company_name": "Fiserv",
         "id": "68d23b23-88b9-4f95-b74f-55d901f043d9",
         "title": "Technology Analyst Program - Data Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1777471561,
         "date_posted": 1777471527,
         "url": "https://fiserv.wd5.myworkdayjobs.com/ext/job/Alpharetta-Georgia/Technology-Analyst-Program---Data-Engineer_R-10385823",
@@ -307241,7 +307241,7 @@
         "company_name": "Ameresco",
         "id": "b5ef5c41-d707-4713-91cb-69a7fe548968",
         "title": "Data Analyst Admin",
-        "active": true,
+        "active": false,
         "date_updated": 1777471741,
         "date_posted": 1777471660,
         "url": "https://ameresco.wd5.myworkdayjobs.com/en-US/Ameresco/job/United-States---Massachusetts---Westborough/Data-Analyst-Admin_R3763",
@@ -308406,5 +308406,123 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pennsylvania State University",
+        "id": "cf28fd1d-34f6-42a3-a44e-124df8d34a5f",
+        "title": "Part-Time Graduate Research Assistant - Astronomy Department",
+        "active": true,
+        "date_updated": 1777559167,
+        "date_posted": 1777557987,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Grad-Research-Assistant---Astronomy-Department_REQ_0000077981-1",
+        "locations": [
+            "State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Morgan Stanley",
+        "id": "688f0668-7d4c-4fb3-987b-c6959ce27a12",
+        "title": "Investment Analyst - Parametric",
+        "active": true,
+        "date_updated": 1777558861,
+        "date_posted": 1777558140,
+        "url": "https://ms.wd5.myworkdayjobs.com/private/job/Minneapolis-Minnesota-United-States-of-America/Investment-Analyst---Parametric_PT-JR036172",
+        "locations": [
+            "Minneapolis, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Morgan-Stanley",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "United Parcel Service (UPS)",
+        "id": "bfa7508e-407a-4fad-8e2e-37907f954aaf",
+        "title": "Applications Developer",
+        "active": true,
+        "date_updated": 1777559041,
+        "date_posted": 1777558155,
+        "url": "https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/IN---TDC-1-IN110/Applications-Developer_R26009764",
+        "locations": [
+            "Indiana"
+        ],
+        "company_url": "https://simplify.jobs/c/United-Parcel-Service",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "SRI International",
+        "id": "64f084ea-7367-476e-8592-26b98d7917cc",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1777558141,
+        "date_posted": 1777558081,
+        "url": "https://careers-sri.icims.com/jobs/6391/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Princeton, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/SRI-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "WPP Media",
+        "id": "1dd1def7-d379-410b-965d-7168d1294a29",
+        "title": "Investment Analyst",
+        "active": true,
+        "date_updated": 1777558681,
+        "date_posted": 1777558670,
+        "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5202941008",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/WPP-Media",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Trane Technologies",
+        "id": "82d3d0cc-caac-4b82-b450-2cf903e1f3e7",
+        "title": "Application Engineer 1",
+        "active": true,
+        "date_updated": 1777559176,
+        "date_posted": 1777558145,
+        "url": "https://careers.tranetechnologies.com/global/en/job/JR-2989",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Trane-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
     }
 ]
