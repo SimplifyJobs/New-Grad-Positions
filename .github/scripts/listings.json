@@ -17657,24 +17657,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "SpaceX",
-        "id": "82ca0567-325c-44c3-85ff-ac5d2c47b09c",
-        "title": "New Graduate Engineer - Software",
-        "active": false,
-        "date_updated": 1763001350,
-        "date_posted": 1756850601,
-        "url": "https://boards.greenhouse.io/spacex/jobs/8145483002",
-        "locations": [
-            "West Athens, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/SpaceX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Databricks",
         "id": "0c371caf-e8f4-4052-bb57-cf6f1dc9555f",
@@ -58519,24 +58501,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Argonne National Laboratory",
-        "id": "2464d788-58b4-4a8a-a657-621c33eceb99",
-        "title": "Assistant Computational Scientist - DUNE Software & Data Systems",
-        "active": false,
-        "date_updated": 1756852195,
-        "date_posted": 1756852195,
-        "url": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Assistant-Computational-Scientist---DUNE-Software---Data-Systems_421040",
-        "locations": [
-            "Woodridge, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Argonne-National-Laboratory",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "Geico",
         "id": "58b66ac9-2e5c-47de-8dcc-d0a030bf5406",
@@ -90295,7 +90259,7 @@
         "company_name": "Empire State Realty Trust",
         "id": "996ffad8-eb6b-4694-8f76-56858f4ca050",
         "title": "Investment Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1764745747,
         "date_posted": 1764745747,
         "url": "https://jobs.lever.co/esrtreit/ac3dc3e6-c4a2-49e6-a20c-e0a39ad89149/apply",
@@ -98935,7 +98899,7 @@
         "company_name": "ShipBob",
         "id": "579fd96a-2def-4909-8c81-e0dd82699d2e",
         "title": "Forward Deployed Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1765410196,
         "date_posted": 1765410196,
         "url": "https://job-boards.greenhouse.io/shipbobinc/jobs/4638574005",
@@ -280884,7 +280848,7 @@
         "company_name": "Humana",
         "id": "0df5cfef-18ee-4ed5-914c-0d9f20c35682",
         "title": "Informaticist",
-        "active": false,
+        "active": true,
         "date_updated": 1775860212,
         "date_posted": 1775858675,
         "url": "https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Remote-Nationwide/Informaticist_R-412671",
@@ -281220,7 +281184,7 @@
         "company_name": "Abbott",
         "id": "7bd28812-16b6-40f3-ba6c-1a7aaabf91d8",
         "title": "Junior Data Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1775861108,
         "date_posted": 1775859076,
         "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Minnesota---St-Paul/Junior-Data-Engineer_31144379-1",
@@ -296098,7 +296062,7 @@
         "company_name": "Microchip Technology",
         "id": "3ef80712-662c-439f-ac99-8bd718b7960d",
         "title": "Engineer 1 - Parametric - Test and Device",
-        "active": false,
+        "active": true,
         "date_updated": 1776723732,
         "date_posted": 1776723432,
         "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/AZ---Chandler/Engineer-I--Parametric--Test-and-Device-_R1661-26",
@@ -307039,7 +307003,7 @@
         "company_name": "Verisk",
         "id": "1e186e9f-f8a4-41e1-b3e2-49d4d293fd9f",
         "title": "Data Scientist 1",
-        "active": false,
+        "active": true,
         "date_updated": 1777501212,
         "date_posted": 1777500430,
         "url": "https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3746",
@@ -308282,6 +308246,149 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/N1",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Boeing Company",
+        "id": "ccfdf12f-b7a2-49c7-a873-070e101d9f76",
+        "title": "Data Analytics Quality Engineer",
+        "active": true,
+        "date_updated": 1777587841,
+        "date_posted": 1777586961,
+        "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Berkeley-MO/Quality-Engineer--Associate-or-Mid-Level-_JR2025475714",
+        "locations": [
+            "Hazelwood, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "KEEN Footwear",
+        "id": "5a236772-4d96-4bb4-8c08-932d4a567c12",
+        "title": "EDI Analyst",
+        "active": true,
+        "date_updated": 1777587841,
+        "date_posted": 1777587005,
+        "url": "https://www.keenfootwear.com/careers-list.html?4690673005&gh_jid=4690673005",
+        "locations": [
+            "Portland, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/KEEN-Footwear",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "BlueCross BlueShield of South Carolina",
+        "id": "373baa5a-e909-491c-8a8a-8d3019739b66",
+        "title": "Statistical Programming 1 Analyst",
+        "active": true,
+        "date_updated": 1777587485,
+        "date_posted": 1777586784,
+        "url": "https://ourhrconnect.wd501.myworkdayjobs.com/SCBlues/job/Columbia-South-Carolina/Statistical-Programming-I-Analyst_R1050442",
+        "locations": [
+            "Columbia, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/BlueCross-BlueShield-Of-South-Carolina",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "UT Southwestern Medical Center",
+        "id": "ed0aca80-c2a6-4919-bd9e-cbfde8fa65fb",
+        "title": "Data Scientist 3 - Surgery",
+        "active": true,
+        "date_updated": 1777587459,
+        "date_posted": 1777586872,
+        "url": "https://utsw.taleo.net/careersection/2/jobdetail.ftl?job=933722",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/UT-Southwestern-Medical-Center",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Blue Yonder",
+        "id": "da4400cd-bb9f-41cd-9a7a-57e4893a040a",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1777587495,
+        "date_posted": 1777586823,
+        "url": "https://jda.wd5.myworkdayjobs.com/en-US/JDA_Careers/job/BYDS-Dallas/Software-Engineer-I--US-Citizenship-Required-_261334-1",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Blue-Yonder",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Western Digital",
+        "id": "678b8d7f-ebd1-46c2-810e-369033816a7e",
+        "title": "Software Engineer - Apps",
+        "active": true,
+        "date_updated": 1777586761,
+        "date_posted": 1777586631,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000124012539",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Digital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Exponent",
+        "id": "00dee73a-d20e-4d8d-9f5f-0d21ec452174",
+        "title": "Engineering Technician",
+        "active": true,
+        "date_updated": 1777586761,
+        "date_posted": 1777586657,
+        "url": "https://careers-exponent.icims.com/jobs/2408/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Exponent",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
