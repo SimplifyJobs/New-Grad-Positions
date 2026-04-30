@@ -1,25 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Blue Origin",
-        "id": "8c125a08-f60a-4953-95e3-1a9411da20a7",
-        "title": "Software Development Engineer I \u2013 Early Career & New Graduate Rotation",
-        "active": false,
-        "date_updated": 1756903070,
-        "date_posted": 1756826732,
-        "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Seattle-WA/Software-Development-Engineer-I---Early-Career---New-Graduate-Rotation--2025-2026-Starts-_R54894",
-        "locations": [
-            "Seattle, WA",
-            "Kent, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Blue-Origin",
-        "is_visible": true,
-        "sponsorship": "U.S. Citizenship is Required",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Other",
         "company_name": "CenturyLink",
         "id": "ce77bc77-35cc-4a79-bd6a-6e30a1998f1b",
@@ -13872,25 +13853,6 @@
             "Reston, VA"
         ],
         "company_url": "https://simplify.jobs/c/Microsoft",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Blue Origin",
-        "id": "d1d1e391-9d33-44b5-9d8e-cbd18fbcd551",
-        "title": "Avionics Software Engineer I \u2013 Early Career & New Graduate Rotation - 2025 - 2026 Starts",
-        "active": false,
-        "date_updated": 1756826731,
-        "date_posted": 1756826731,
-        "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Seattle-WA/Avionics-Software-Engineer-I---Early-Career---New-Graduate-Rotation--2025-2026-Starts-_R54893",
-        "locations": [
-            "Seattle, WA",
-            "LA"
-        ],
-        "company_url": "https://simplify.jobs/c/Blue-Origin",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -43683,7 +43645,7 @@
         "company_name": "Vertiv",
         "id": "f637f130-3f99-4d60-84c9-9f56e60746e3",
         "title": "ERS NETA Testing Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1761514798,
         "date_posted": 1761514798,
         "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20259422",
@@ -245427,7 +245389,7 @@
         "company_name": "Motorola",
         "id": "e5123464-94b2-4c9d-82ca-242d4a2f8c45",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773970781,
         "date_posted": 1773970781,
         "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Software-Engineer_R63225",
@@ -299380,7 +299342,7 @@
         "company_name": "qode.world",
         "id": "e484294a-39a5-4521-8626-1eb4d9a8614e",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1776820280,
         "date_posted": 1776820122,
         "url": "https://apply.workable.com/qodeworld/j/E6E64CE2FC/apply",
