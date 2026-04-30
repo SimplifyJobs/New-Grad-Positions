@@ -216383,7 +216383,7 @@
         "company_name": "JP Morgan Chase",
         "id": "245c3b69-5aec-4d0c-99e0-b9acd7ecc4d7",
         "title": "Digital Markets - Digital Product Manager Efxo - Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1772534817,
         "date_posted": 1772534817,
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210719285",
@@ -308400,5 +308400,29 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Uline",
+        "id": "635e3ff0-5511-4cd7-9c99-2e32c6631ed1",
+        "title": "Associate Business Systems Analyst",
+        "active": true,
+        "date_updated": 1777540501,
+        "date_posted": 1777540357,
+        "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Associate-Business-Systems-Analyst_R263591-2",
+        "locations": [
+            "Waukegan, IL",
+            "Milwaukee, WI",
+            "Pleasant Prairie, WI",
+            "Morton Grove, IL",
+            "Kenosha, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Uline",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
