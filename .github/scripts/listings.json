@@ -188938,7 +188938,7 @@
         "company_name": "UiPath",
         "id": "d016cbd9-af08-4e79-9213-31fe97c8abf8",
         "title": "Data Scientist 1",
-        "active": true,
+        "active": false,
         "date_updated": 1771312251,
         "date_posted": 1771312251,
         "url": "https://jobs.ashbyhq.com/uipath/10473afc-6e1e-4aa3-a9e5-a434a952fcc4/application",
@@ -304820,7 +304820,7 @@
         "company_name": "RTX",
         "id": "dc08054f-fb6f-4e13-bcc3-e6374695d52f",
         "title": "Systems Engineer 1 - Secure Systems",
-        "active": true,
+        "active": false,
         "date_updated": 1777331062,
         "date_posted": 1777327780,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Systems-Engineer-I---Secure-Systems---Onsite-_01840522",
@@ -308263,6 +308263,106 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Latitude AI",
+        "id": "787e7343-1107-449a-b4ac-3b85663bb796",
+        "title": "GIS Production Analyst - Contractor",
+        "active": true,
+        "date_updated": 1777530781,
+        "date_posted": 1777530022,
+        "url": "https://job-boards.greenhouse.io/latitude/jobs/7868899",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/LatitudeAI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "U.S. Venture",
+        "id": "ced461d1-9920-43ed-86f9-2de41a61bc10",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1777530944,
+        "date_posted": 1777529175,
+        "url": "https://usventure.wd1.myworkdayjobs.com/usvexternal/job/WI---Appleton/Software-Engineer-I---IGEN_R7051",
+        "locations": [
+            "Appleton, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/US-Venture",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Stoneridge",
+        "id": "6cd824fe-e398-46fd-801b-a67463a71b35",
+        "title": "Engineering Technician",
+        "active": true,
+        "date_updated": 1777530781,
+        "date_posted": 1777529217,
+        "url": "https://stoneridge.wd5.myworkdayjobs.com/careers/job/Lexington-Ohio/Engineering-Technician_JR102309",
+        "locations": [
+            "Ontario, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/e52e17c7-c352-40d3-85c1-94d7be1df9e7",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "The Boeing Company",
+        "id": "09e2fd0a-ff13-4050-afb3-17062e2ff68f",
+        "title": "Nondestructive Test - NDT Technician - Ultrasonic and Radiographic",
+        "active": true,
+        "date_updated": 1777530781,
+        "date_posted": 1777529206,
+        "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Mesa-AZ/Nondestructive-Test--NDT--Technician---UT---RT_JR2026508324",
+        "locations": [
+            "Mesa, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Gallup",
+        "id": "e1e85f16-3dca-4667-aa3e-ae15ad4f0d6c",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1777530961,
+        "date_posted": 1776896406,
+        "url": "https://job-boards.greenhouse.io/gallup/jobs/4217886009",
+        "locations": [
+            "Omaha, NE"
+        ],
+        "company_url": "https://simplify.jobs/c/Gallup",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
