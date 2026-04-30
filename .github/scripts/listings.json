@@ -1,61 +1,5 @@
 [
     {
-        "date_updated": 1756902955,
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "degrees": [],
-        "url": "https://www.databricks.com/company/careers/university-recruiting/software-engineer---new-grad-2026-start-6865698002",
-        "company_name": "Databricks",
-        "title": "Software Engineer",
-        "locations": [
-            "Bellevue, Washington",
-            "Mountain View, California",
-            "San Francisco, California"
-        ],
-        "category": "Software Engineering",
-        "source": "rohan-jagtap04",
-        "id": "2a4933f0-d5a6-4b8c-ac33-d2221814b2ef",
-        "date_posted": 1756810197,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1756942858,
-        "sponsorship": "Other",
-        "active": true,
-        "degrees": [],
-        "url": "https://duboischemicals.wd1.myworkdayjobs.com/en-US/external/job/Sharonville-OH---HQ/Research-Scientist-I_R102506",
-        "company_name": "DuBois",
-        "title": "Research Scientist I",
-        "locations": [
-            "Sharonville, OH"
-        ],
-        "category": "Other",
-        "source": "AlmondCroffle",
-        "id": "27dd1211-8577-4247-9301-e47b3f32aef3",
-        "date_posted": 1756810329,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1756942918,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
-        "degrees": [],
-        "url": "https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Berkeley-MO/F-22-Pilot-Training-Entry-Level-Software-Engineer---Simulation_JR2025457113-1",
-        "company_name": "Boeing",
-        "title": "F-22 Pilot Training Entry-Level Software Engineer \u2013 Simulation",
-        "locations": [
-            "Berkeley, MO"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "21b12d9c-2aa1-4ac8-9368-fd79df6bf457",
-        "date_posted": 1756810420,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
         "source": "Simplify",
         "category": "Software",
         "company_name": "Blue Origin",
@@ -259877,7 +259821,7 @@
         "company_name": "Ivanti",
         "id": "45f365a8-aa45-4a7f-b3d3-36c847d42727",
         "title": "Entry Level Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1774879381,
         "date_posted": 1774879363,
         "url": "https://job-boards.greenhouse.io/a3c41b8b71eff8c4/jobs/7681918003",
@@ -281037,7 +280981,7 @@
         "company_name": "JP Morgan Chase",
         "id": "43ee6e33-805e-47c5-a871-436384618df1",
         "title": "Securities Services - AI/ML Product Manager - Analyst or Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1775861108,
         "date_posted": 1775858963,
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210735163",
@@ -306969,7 +306913,7 @@
         "company_name": "ICF International",
         "id": "7f60e73c-5f31-4924-bd49-5be38f1c9bf9",
         "title": "Associate Salesforce Help Desk Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1777424761,
         "date_posted": 1777424705,
         "url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/Associate-Salesforce-Help-Desk-Analyst--Remote--TT_R2601492",
