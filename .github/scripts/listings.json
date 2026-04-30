@@ -58537,24 +58537,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "ZRG",
-        "id": "84ec993b-4ff8-4335-a370-2b0a113d77aa",
-        "title": "IT Support Specialist",
-        "active": false,
-        "date_updated": 1761830436,
-        "date_posted": 1756849478,
-        "url": "https://ats.rippling.com/zrg-partners-careers/jobs/2c634b86-07cf-440d-be89-b1ba5f56cd9d",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/ZRG",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "Geico",
         "id": "58b66ac9-2e5c-47de-8dcc-d0a030bf5406",
@@ -129115,7 +129097,7 @@
         "company_name": "Applied Materials",
         "id": "557a8a2a-2148-4734-81ad-b5720674e1ef",
         "title": "2026 NCG-Technical Product Marketing Manager - Doctorate - Santa Clara, CA",
-        "active": true,
+        "active": false,
         "date_updated": 1767840507,
         "date_posted": 1767840507,
         "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2026-NCG--Technical-Product-Marketing-Manager---Doctorate--Santa-Clara--CA-_R2520002",
@@ -172477,7 +172459,7 @@
         "company_name": "NVIDIA",
         "id": "5ae265bc-0a46-4ba1-8a04-b138bd21b1b7",
         "title": "Research Scientist - Electronic Design Automation",
-        "active": true,
+        "active": false,
         "date_updated": 1770333975,
         "date_posted": 1770333975,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Electronic-Design-Automation---New-College-Grad-2026_JR2012979",
@@ -231203,7 +231185,7 @@
         "company_name": "GM financial",
         "id": "47cb53c9-51af-4f76-846e-93f33d4df2c9",
         "title": "Product Manager 1",
-        "active": true,
+        "active": false,
         "date_updated": 1773267337,
         "date_posted": 1773267337,
         "url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1943",
@@ -268072,7 +268054,7 @@
         "company_name": "IXL Learning",
         "id": "6a71bf81-8a74-4a72-b381-677bb2d23648",
         "title": "Associate Product Manager \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1775170621,
         "date_posted": 1775168479,
         "url": "https://www.ixl.com/company/jobs?gh_jid=8486924002",
@@ -287513,7 +287495,7 @@
         "company_name": "Esri",
         "id": "661dbb57-2d74-4150-a3b4-54f01c85a290",
         "title": "Software Development Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1776294041,
         "date_posted": 1776290893,
         "url": "https://www.esri.com/careers/5108014007?gh_jid=5108014007",
@@ -288098,7 +288080,7 @@
         "company_name": "Esri",
         "id": "40dce759-4b9a-47f4-8950-29d69e2b736e",
         "title": "Product Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1776294041,
         "date_posted": 1776290892,
         "url": "https://www.esri.com/careers/5108085007?gh_jid=5108085007",
@@ -288280,7 +288262,7 @@
         "company_name": "Carnegie Mellon University",
         "id": "41d8cc79-fbd0-4085-8b38-8c425f420128",
         "title": "Research Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1776293832,
         "date_posted": 1776290685,
         "url": "https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Research-Associate---School-of-Computer-Science---MLD_2024381",
@@ -302563,7 +302545,7 @@
         "company_name": "CAE",
         "id": "5fc55292-6cc9-490d-990b-d68c0f25fde0",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1777020841,
         "date_posted": 1776521628,
         "url": "https://cae.wd3.myworkdayjobs.com/career/job/Little-Rock/Software-Engineer_119459",
@@ -308281,6 +308263,29 @@
         "degrees": [
             "Bachelor's",
             "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "N1",
+        "id": "566e37cf-7620-4e64-90ea-d25a99bb5f19",
+        "title": "New Grad Software Engineer - Backend Rust",
+        "active": true,
+        "date_updated": 1773900706,
+        "date_posted": 1773900706,
+        "url": "https://jobs.ashbyhq.com/n1/a3e25c84-0846-454a-b2fc-a356c2a713bd/application",
+        "locations": [
+            "SF",
+            "Remote in USA",
+            "Europe",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/N1",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
