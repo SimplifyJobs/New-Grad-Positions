@@ -1,47 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Other",
-        "company_name": "Lumen Technologies",
-        "id": "858230a7-8a49-4496-addb-d53e74684ef6",
-        "title": "Information Security Engineer I",
-        "active": false,
-        "date_updated": 1756840742,
-        "date_posted": 1756840742,
-        "url": "https://jobs.lumen.com/global/en/job/339747",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Lumen-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Gridmatic",
-        "id": "635f6e5d-7846-4181-a0a8-d5970a4c06ae",
-        "title": "Software Engineer \u2013 New Grad",
-        "active": false,
-        "date_updated": 1756840490,
-        "date_posted": 1756840490,
-        "url": "https://jobs.lever.co/gridmatic/df5d7a74-34fd-4675-b5fd-928ad0de2b89/apply",
-        "locations": [
-            "Cupertino, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Gridmatic",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "TD Securities",
         "id": "984f3b2b-7a73-4d47-bb64-cd1e078cc5cc",
@@ -58696,42 +58655,6 @@
             "Bethesda, MD"
         ],
         "company_url": "https://simplify.jobs/c/Geico",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "AQR Capital Management",
-        "id": "ddd3deb3-8776-43ed-a9c9-7ae694fa2af4",
-        "title": "Research Analyst",
-        "active": false,
-        "date_updated": 1762928350,
-        "date_posted": 1756841009,
-        "url": "https://careers.aqr.com/jobs?gh_jid=7216090&gh_jid=7216090",
-        "locations": [
-            "Greenwich, CT"
-        ],
-        "company_url": "https://simplify.jobs/c/AQR-Capital-Management",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Per Scholas",
-        "id": "2cf0676e-342f-4fb3-a5a9-899b6e632311",
-        "title": "IT Support Satellite Teaching Fellow",
-        "active": false,
-        "date_updated": 1756840627,
-        "date_posted": 1756840627,
-        "url": "https://job-boards.greenhouse.io/perscholashires/jobs/4596062006",
-        "locations": [
-            "South Plainfield, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/Per-Scholas",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -128821,7 +128744,7 @@
         "company_name": "Techtronic Industries",
         "id": "f05d4be0-9303-45ef-b005-dbf9c56228cf",
         "title": "Concept Design Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1767828793,
         "date_posted": 1767828793,
         "url": "https://tti.wd1.myworkdayjobs.com/tti_pe/job/Anderson-SC/Concept-Design-Engineer_R70080",
@@ -263520,7 +263443,7 @@
         "company_name": "L3Harris Technologies",
         "id": "ecd201e9-c419-4be8-82ae-47160180ca3d",
         "title": "Associate Systems Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1775004407,
         "date_posted": 1774994793,
         "url": "https://jobs.l3harris.com/job/Forest-Associate,-Systems-Engineer-(Forest,-VA)-VA-24551/1312496100/?ats=successfactors",
