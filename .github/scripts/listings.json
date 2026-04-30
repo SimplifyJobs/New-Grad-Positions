@@ -1,46 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "TD Securities",
-        "id": "984f3b2b-7a73-4d47-bb64-cd1e078cc5cc",
-        "title": "Machine Learning Engineer I",
-        "active": false,
-        "date_updated": 1756847386,
-        "date_posted": 1756847386,
-        "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Machine-Learning-Engineer-I_R_1442146",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/TD-Securities",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "N1",
-        "id": "566e37cf-7620-4e64-90ea-d25a99bb5f19",
-        "title": "New Grad Software Engineer - Backend Rust",
-        "active": true,
-        "date_updated": 1756847561,
-        "date_posted": 1756847561,
-        "url": "https://jobs.ashbyhq.com/n1/a3e25c84-0846-454a-b2fc-a356c2a713bd/application",
-        "locations": [
-            "Oakland, CA",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/N1",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "date_updated": 1756902937,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
@@ -15892,24 +15851,6 @@
             "Ottumwa, IA"
         ],
         "company_url": "https://simplify.jobs/c/511130a6-b974-4ccb-a78b-14049de141bb",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "SpaceX",
-        "id": "21551ff3-c6e8-47b7-a06c-518211ce3efa",
-        "title": "New Graduate Engineer - Software - Starlink",
-        "active": false,
-        "date_updated": 1756847676,
-        "date_posted": 1756847676,
-        "url": "https://boards.greenhouse.io/spacex/jobs/8121675002",
-        "locations": [
-            "Redmond, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/SpaceX",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -58611,35 +58552,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Alignerr",
-        "id": "ecd97080-17f1-4e36-8c85-6c9248d5033d",
-        "title": "AI Trainer for Thermodynamics - Freelance - Remote",
-        "active": true,
-        "date_updated": 1756847833,
-        "date_posted": 1756847833,
-        "url": "https://job-boards.greenhouse.io/alignerr/jobs/4603841007",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Alignerr",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "MBA",
-            "PharmD",
-            "PhD",
-            "JD",
-            "MD",
-            "Bootcamp",
-            "Certificate",
-            "Incomplete"
-        ]
     },
     {
         "source": "Simplify",
@@ -288227,7 +288139,7 @@
         "company_name": "Esri",
         "id": "1d26b5e2-2510-43fe-ac2d-52cf2c302162",
         "title": "Product Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1776294041,
         "date_posted": 1776290892,
         "url": "https://www.esri.com/careers/5107974007?gh_jid=5107974007",
