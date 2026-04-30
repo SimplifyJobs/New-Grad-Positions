@@ -260303,7 +260303,7 @@
         "company_name": "Salesforce",
         "id": "5ffb792a-06f6-4670-b8ba-24c5402f1824",
         "title": "Software Engineering AMTS College Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1774910429,
         "date_posted": 1774908272,
         "url": "https://salesforce.wd12.myworkdayjobs.com/Futureforce_NewGradRoles/job/California---San-Francisco/Software-Engineering-AMTS-MTS--College-Grad-_JR330400",
@@ -303388,7 +303388,7 @@
         "company_name": "Arkansas Blue Cross",
         "id": "2988bbc7-aca4-4ed1-86ab-c2b08d1fc454",
         "title": "Business Systems Analyst Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1777069383,
         "date_posted": 1777068286,
         "url": "https://arkbluecross.wd1.myworkdayjobs.com/abcbs_external_careers/job/Little-Rock-AR/Business-Systems-Analyst-Associate_R0013461",
@@ -307871,7 +307871,7 @@
         "company_name": "ServiceNow",
         "id": "bc8e3d53-cb25-4dd8-8c3a-ad296306ecd8",
         "title": "Associate Software Engineer - Search Infrastructure",
-        "active": true,
+        "active": false,
         "date_updated": 1777500361,
         "date_posted": 1777500252,
         "url": "https://jobs.smartrecruiters.com/ServiceNow/744000123802354",
@@ -308379,6 +308379,24 @@
             "Edinburgh, UK"
         ],
         "company_url": "https://simplify.jobs/c/The-University-Of-Edinburgh",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Red Hat",
+        "id": "4f8eafbb-a571-4b95-b298-e7646cc7e0fc",
+        "title": "Associate Software Engineer - Content Service",
+        "active": true,
+        "date_updated": 1777538922,
+        "date_posted": 1777298916,
+        "url": "https://redhat.wd5.myworkdayjobs.com/jobs/job/Raleigh/Associate-Software-Engineer---Content-Service_R-055870",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Red-Hat",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
