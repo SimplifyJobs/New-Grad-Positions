@@ -308364,5 +308364,23 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The University of Edinburgh",
+        "id": "22343ab8-db41-4bb9-854f-9427afd7e80f",
+        "title": "Research Associate",
+        "active": true,
+        "date_updated": 1777537261,
+        "date_posted": 1777385257,
+        "url": "https://elxw.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/14163",
+        "locations": [
+            "Edinburgh, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/The-University-Of-Edinburgh",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
