@@ -299180,7 +299180,7 @@
         "company_name": "qode.world",
         "id": "67c0c609-2b9c-4715-a3a6-23b78cba251e",
         "title": "Associate Data Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1776811681,
         "date_posted": 1776809373,
         "url": "https://apply.workable.com/qodeworld/j/72A5C034D4/apply",
@@ -300303,7 +300303,7 @@
         "company_name": "The Hartford ",
         "id": "aaf76a57-0d07-40d0-a8f6-3031a0770570",
         "title": "Associate Data and AI Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1776896117,
         "date_posted": 1776895601,
         "url": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Associate-Data-and-AI-Engineer_R2625084",
@@ -303591,7 +303591,7 @@
         "company_name": "Fastly",
         "id": "cda5318e-6d24-4342-8cc8-e4916d343c2f",
         "title": "Associate Business Data Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1777068901,
         "date_posted": 1777068900,
         "url": "https://www.fastly.com/about/jobs/apply?gh_jid=7851750",
@@ -308366,5 +308366,45 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "General Dynamics",
+        "id": "c39b4286-d0fb-470b-ae4f-c07fe8b80e01",
+        "title": "Embedded Software Engineer",
+        "active": true,
+        "date_updated": 1777558378,
+        "date_posted": 1777558005,
+        "url": "https://careers-gdeb.icims.com/jobs/14993/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Groton, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Depop",
+        "id": "304772b5-fd20-4392-beb0-df2ba3de1934",
+        "title": "Associate Engineer",
+        "active": true,
+        "date_updated": 1777558141,
+        "date_posted": 1777558094,
+        "url": "https://etsy.wd5.myworkdayjobs.com/Depop_Careers/job/London-UK/Associate-Engineer_JR5567",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Depop",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
