@@ -134070,7 +134070,7 @@
         "company_name": "Adobe",
         "id": "29291084-8b1c-4279-8206-6f2ee93a905a",
         "title": "Software Development Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1768128149,
         "date_posted": 1768128149,
         "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Software-Development-Engineer_R161061",
@@ -268847,7 +268847,7 @@
         "company_name": "Hewlett Packard Enterprise",
         "id": "1a251cc2-da99-4911-a3e8-6350de7feaf5",
         "title": "Engineering Technician 2",
-        "active": true,
+        "active": false,
         "date_updated": 1775197441,
         "date_posted": 1775196600,
         "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Sunnyvale-California-United-States-of-America/Engineering-Technician-2_1203691",
@@ -308242,6 +308242,27 @@
         "sponsorship": "Other",
         "degrees": [
             "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Parspec",
+        "id": "a6cf4866-2dd7-41f0-a4c7-cf1d16b60f62",
+        "title": "Machine Learning Engineer - 1",
+        "active": true,
+        "date_updated": 1777511521,
+        "date_posted": 1777511355,
+        "url": "https://jobs.ashbyhq.com/parspec/526bdff4-893e-4d57-a139-95072ba51f90/application",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Parspec",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
