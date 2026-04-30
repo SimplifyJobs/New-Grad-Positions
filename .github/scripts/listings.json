@@ -295411,7 +295411,7 @@
         "company_name": "Cisco",
         "id": "6b1c62fa-8361-4ac7-9660-9d5f2e5aeb8e",
         "title": "Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1776588919,
         "date_posted": 1776157613,
         "url": "https://careers.cisco.com/global/en/job/2011789",
@@ -305612,7 +305612,7 @@
         "company_name": "Amentum",
         "id": "d5d13d37-bdf3-4439-a4fd-7c688e49e307",
         "title": "Entry Level Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1777338542,
         "date_posted": 1777338400,
         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0160036",
@@ -308222,6 +308222,26 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "The Boeing Company",
+        "id": "33731c9a-e5b5-4c55-95d4-4ad19df00d9f",
+        "title": "Nondestructive Test - NDT Technician - Ultrasonic and Radiographic",
+        "active": true,
+        "date_updated": 1777511341,
+        "date_posted": 1777511232,
+        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Mesa-AZ/Nondestructive-Test--NDT--Technician---UT---RT_JR2026508324-1",
+        "locations": [
+            "Mesa, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Certificate"
         ]
     }
 ]
