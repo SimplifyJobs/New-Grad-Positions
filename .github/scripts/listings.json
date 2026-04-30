@@ -2,27 +2,6 @@
     {
         "source": "Simplify",
         "category": "Other",
-        "company_name": "CenturyLink",
-        "id": "ce77bc77-35cc-4a79-bd6a-6e30a1998f1b",
-        "title": "Information Security Engineer I",
-        "active": false,
-        "date_updated": 1756838053,
-        "date_posted": 1756838053,
-        "url": "https://internaljobs.centurylink.com/job/Remote-INFORMATION-SECURITY-ENGINEER-I/1322139300/?ats=successfactors",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/CenturyLink",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Other",
         "company_name": "Lumen Technologies",
         "id": "858230a7-8a49-4496-addb-d53e74684ef6",
         "title": "Information Security Engineer I",
@@ -58753,24 +58732,6 @@
             "South Plainfield, NJ"
         ],
         "company_url": "https://simplify.jobs/c/Per-Scholas",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Arch",
-        "id": "301aaf7b-da32-4c32-8577-f7bb67f42925",
-        "title": "Data Operations Associate",
-        "active": false,
-        "date_updated": 1761865910,
-        "date_posted": 1756838976,
-        "url": "https://jobs.ashbyhq.com/arch.co/cb6fe21b-eaba-4cb2-9a91-a856e6ada942/application",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/3383e654-343c-4d68-a50d-6044450262fb",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -232454,7 +232415,7 @@
         "company_name": "Hewlett Packard Enterprise",
         "id": "af5146d7-85f9-4523-8533-0e6a9acf487f",
         "title": "SW Engineering - Systems - Software Engineer I-Embedded System",
-        "active": true,
+        "active": false,
         "date_updated": 1773298069,
         "date_posted": 1773298069,
         "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Sunnyvale-California-United-States-of-America/SW-Engineering--Systems----Software-Engineer-I--Embedded-System_1200169",
