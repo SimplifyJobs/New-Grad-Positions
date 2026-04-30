@@ -223001,7 +223001,7 @@
         "company_name": "The Boeing Company",
         "id": "2c2f0c87-ec6d-4b36-9126-185a4b56b7ca",
         "title": "Data Analytics Quality Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1772755918,
         "date_posted": 1772755918,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Quality-Engineer--Associate-or-Mid-Level-_JR2025475714-1",
@@ -242369,7 +242369,7 @@
         "company_name": "University of Miami",
         "id": "fae8dfdf-181a-4df5-b61c-f4217064a57f",
         "title": "Data Analyst 1",
-        "active": true,
+        "active": false,
         "date_updated": 1773874228,
         "date_posted": 1773874228,
         "url": "https://umiami.wd1.myworkdayjobs.com/UMCareerStaff/job/Miami-FL/Data-Analyst-1_R100095111",
@@ -264090,7 +264090,7 @@
         "company_name": "IXL Learning",
         "id": "d91d9f0c-b31b-4b2e-9a0a-8a70cf4d6b7e",
         "title": "Software Engineer \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1775004841,
         "date_posted": 1774995741,
         "url": "https://www.ixl.com/company/jobs?gh_jid=8486912002",
@@ -279362,7 +279362,7 @@
         "company_name": "RTX",
         "id": "25ac2b37-a149-4b03-b823-b3655e741ece",
         "title": "Raytheon Full Time",
-        "active": false,
+        "active": true,
         "date_updated": 1775802886,
         "date_posted": 1775801197,
         "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/XMLNAME-2026-Raytheon-Full-Time---Software-Effectors-Engineer-I---Tucson--AZ--Onsite-_01835713-1",
@@ -293689,7 +293689,7 @@
         "company_name": "The Aerospace Corporation",
         "id": "04270cfc-2349-48f6-b163-7cc6005f41f1",
         "title": "Transmission Electron Microscopy Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1776522533,
         "date_posted": 1776521620,
         "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2026-Transmission-Electron-Microscopy-Scientist_R014885",
@@ -295157,7 +295157,7 @@
         "company_name": "SpaceX",
         "id": "859fa85e-ab8c-4ddd-812a-eea28fbe4fbc",
         "title": "Security Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1776665701,
         "date_posted": 1765927490,
         "url": "https://boards.greenhouse.io/spacex/jobs/8306251002",
@@ -298281,7 +298281,7 @@
         "company_name": "Dominion Energy",
         "id": "0c058b20-b985-44a4-b3ce-b58b1028ceb3",
         "title": "Business Technology Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1776809161,
         "date_posted": 1776809146,
         "url": "https://careers.dominionenergy.com/job/RICHMOND-Business-Technology-Analyst-(I-III)-Richmond,-VA-VA-23219/1384240700/?ats=successfactors",
@@ -299907,7 +299907,7 @@
         "company_name": "ADT",
         "id": "3d0b5c71-06b9-41fd-bab2-81aecf2693d7",
         "title": "Digital Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1776896117,
         "date_posted": 1776895686,
         "url": "https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3020030",
@@ -299986,7 +299986,7 @@
         "company_name": "Walmart",
         "id": "08f85482-f6b2-433a-82d9-1718b299c37e",
         "title": "Data Engineer 3",
-        "active": true,
+        "active": false,
         "date_updated": 1776896301,
         "date_posted": 1776895770,
         "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/XMLNAME--USA--Data-Engineer-III_R-2411406",
@@ -304468,7 +304468,7 @@
         "company_name": "RTX",
         "id": "dc08054f-fb6f-4e13-bcc3-e6374695d52f",
         "title": "Systems Engineer 1 - Secure Systems",
-        "active": false,
+        "active": true,
         "date_updated": 1777331062,
         "date_posted": 1777327780,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Systems-Engineer-I---Secure-Systems---Onsite-_01840522",
@@ -308827,6 +308827,249 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Esri",
+        "id": "3e841933-1b46-4abd-bf03-fc96054e2d81",
+        "title": "Software Engineer 1 - AI Assistant Framework - Arcgis Enterprise",
+        "active": true,
+        "date_updated": 1777588386,
+        "date_posted": 1777587751,
+        "url": "https://www.esri.com/careers/5111215007?gh_jid=5111215007",
+        "locations": [
+            "West Redlands, Redlands, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Esri",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "GreenLite",
+        "id": "76ca2338-69d5-4865-9821-8f6441c99948",
+        "title": "AI Enablement Engineer - Contract to Hire",
+        "active": true,
+        "date_updated": 1777587661,
+        "date_posted": 1777586904,
+        "url": "https://jobs.ashbyhq.com/greenlitecareers/cf15489f-5905-46d1-8ad5-459168d065b9/application",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/GreenLite",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "DAT Freight & Analytics",
+        "id": "8470dc23-76ec-4de3-9881-e1f7162bee0c",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1777587481,
+        "date_posted": 1777587326,
+        "url": "https://careers.dat.com/jobs/5741667004?gh_jid=5741667004",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/DATFreight",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "653a1d0e-b434-431a-8f3d-c0e4c41cbfb5",
+        "title": "Software Engineer 1 - Space and Radio Frequency Sensors",
+        "active": true,
+        "date_updated": 1777587972,
+        "date_posted": 1777587046,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/XMLNAME-2026-Raytheon-Full-Time--Software-Engineer-I---Space-and-RF-Sensors--Onsite-_01842399",
+        "locations": [
+            "Fort Wayne, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "3M",
+        "id": "701c32ef-1054-4d55-903d-62ef022fbe61",
+        "title": "Corporate Performance Management System Administrator",
+        "active": true,
+        "date_updated": 1777586941,
+        "date_posted": 1777586831,
+        "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Minnesota-Maplewood/Corporate-Performance-Management-System-Administrator-_R01164057",
+        "locations": [
+            "Woodbury, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/3M",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "PharmD",
+            "PhD",
+            "Associate's",
+            "JD",
+            "MD",
+            "Bachelor's",
+            "Bachelor's",
+            "Bachelor's",
+            "Bachelor's",
+            "Master's",
+            "Master's",
+            "Master's",
+            "Master's",
+            "Associate's",
+            "Associate's",
+            "DO",
+            "DDS",
+            "DVM"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Analog Devices",
+        "id": "bc7dd045-264b-4533-978e-7820ca02dff9",
+        "title": "Failure Analysis Technician 2",
+        "active": true,
+        "date_updated": 1777586761,
+        "date_posted": 1777586644,
+        "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Failure-Analysis-Technician-2_R261717",
+        "locations": [
+            "Burlington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Analog-Devices",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "6d3cef03-11d3-4384-8b66-fa99457535a3",
+        "title": "Associate Electrical Designer",
+        "active": true,
+        "date_updated": 1777587168,
+        "date_posted": 1777586836,
+        "url": "https://jobs.l3harris.com/job/Waterdown-Associate,-Electrical-Designer-ON-L9H-0C5/1369933600/?ats=successfactors",
+        "locations": [
+            "Hamilton, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Daikin Applied",
+        "id": "1ddcef5c-ea8f-43bc-beea-9a86fa971bb0",
+        "title": "Application Engineer 1",
+        "active": true,
+        "date_updated": 1777587030,
+        "date_posted": 1777586743,
+        "url": "https://daikinapplied.wd1.myworkdayjobs.com/Daikin-Careers/job/Phoenix-AZ-85009/Application-Engineer-I_R001700",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Daikin-Applied",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "DaVita",
+        "id": "b00bdd60-3ec1-49ec-ae92-c2c5fbf70f45",
+        "title": "Compensation and Analytics Analyst",
+        "active": true,
+        "date_updated": 1777587841,
+        "date_posted": 1777587048,
+        "url": "https://davita.wd1.myworkdayjobs.com/DKC_External/job/05555---Casa-del-Mundo-Office-Denver-HQ/Compensation-and-Analytics-Analyst_R0456698",
+        "locations": [
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/DaVita",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Airbnb",
+        "id": "795685dd-1306-4b4b-94cb-b3c15022ba1c",
+        "title": "Software Engineer New Grad",
+        "active": true,
+        "date_updated": 1777587953,
+        "date_posted": 1777586964,
+        "url": "https://careers.airbnb.com/positions/7773838?gh_jid=7773838",
+        "locations": [
+            "Seattle, WA",
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Airbnb",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Omada Health",
+        "id": "ea85b754-f3da-484e-ba3f-af39e092b2aa",
+        "title": "Associate Product Manager - Data Governance",
+        "active": true,
+        "date_updated": 1777587661,
+        "date_posted": 1776129182,
+        "url": "https://job-boards.greenhouse.io/omadahealth/jobs/7788457",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Omada-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     }
 ]
