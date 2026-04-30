@@ -308231,12 +308231,12 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
+        "category": "Software Engineering",
         "company_name": "U.S. Venture",
         "id": "ced461d1-9920-43ed-86f9-2de41a61bc10",
-        "title": "Software Engineer 1",
+        "title": "Software Engineer I - IGEN",
         "active": true,
-        "date_updated": 1777530944,
+        "date_updated": 1777555884,
         "date_posted": 1777529175,
         "url": "https://usventure.wd1.myworkdayjobs.com/usvexternal/job/WI---Appleton/Software-Engineer-I---IGEN_R7051",
         "locations": [
@@ -308244,10 +308244,8 @@
         ],
         "company_url": "https://simplify.jobs/c/US-Venture",
         "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
+        "sponsorship": "U.S. Citizenship is Required",
+        "degrees": []
     },
     {
         "source": "Simplify",
