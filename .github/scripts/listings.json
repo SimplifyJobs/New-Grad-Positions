@@ -2,46 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Roblox",
-        "id": "b3c3e871-13cb-4544-9170-9f76e534ec8b",
-        "title": "Software Engineer \u2013 Early Career",
-        "active": false,
-        "date_updated": 1756865175,
-        "date_posted": 1756865175,
-        "url": "https://careers.roblox.com/jobs/7206214?gh_jid=7206214",
-        "locations": [
-            "Vancouver, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Roblox",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Gecko Robotics",
-        "id": "d782e6b5-6978-407c-affa-b4c257577a5a",
-        "title": "Software Engineer \u2013 New Graduate Rotational Development Program",
-        "active": false,
-        "date_updated": 1761845139,
-        "date_posted": 1756866418,
-        "url": "https://jobs.ashbyhq.com/gecko-robotics/7d9ce912-14c3-405b-9f8a-7f261fe8230d/application",
-        "locations": [
-            "Boston, MA",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Gecko-Robotics",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Stripe",
         "id": "65140a4f-996b-40f3-98da-63270ba6a609",
         "title": "Software Engineer \u2013 New Grad",
