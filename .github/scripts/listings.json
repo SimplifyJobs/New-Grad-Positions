@@ -58070,24 +58070,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "University of Virginia",
-        "id": "d276dc61-6ce2-4372-bc62-f9b8387f79c9",
-        "title": "Chem \u2013 Undergraduate Student Worker - Student Wage",
-        "active": false,
-        "date_updated": 1761834944,
-        "date_posted": 1756879745,
-        "url": "https://uva.wd1.myworkdayjobs.com/uvastudentjobs/job/Charlottesville-VA/CHEM---Undergraduate-Student-Worker--Student-Wage-_R0075469",
-        "locations": [
-            "Charlottesville, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/University-Of-Virginia",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Hewlett Packard Enterprise",
         "id": "a69a23cd-442c-4a6c-8fb5-574c6d2acfb4",
         "title": "Software Engineering Graduate",
@@ -210063,7 +210045,7 @@
         "company_name": "First Quality",
         "id": "557b50e5-afb4-4f01-8e62-0731609c5f3f",
         "title": "Associate Product Development Scientist - Fqrs",
-        "active": false,
+        "active": true,
         "date_updated": 1772205628,
         "date_posted": 1772205628,
         "url": "https://firstquality.wd5.myworkdayjobs.com/firstquality/job/US-PA-Lewistown/Associate-Product-Development-Scientist---FQRS_R10580",
@@ -259643,7 +259625,7 @@
         "company_name": "Walmart",
         "id": "20137627-c16b-4e82-b0ab-eb3539c56e5e",
         "title": "Software Engineer 3",
-        "active": false,
+        "active": true,
         "date_updated": 1774910094,
         "date_posted": 1774908653,
         "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/Software-Engineer-III_R-2413529",
@@ -284273,7 +284255,7 @@
         "company_name": "Motorola",
         "id": "0bbd175d-9d88-4bc9-bf65-43da3f452358",
         "title": "Web Interface Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1776120499,
         "date_posted": 1776118280,
         "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Los-Angeles-CA/Web-Interface-Software-Engineer_R63741",
@@ -284564,7 +284546,7 @@
         "company_name": "Vanderbilt Health",
         "id": "b92b5ac0-bddc-4691-9f43-f1526dd72263",
         "title": "Business Intelligence Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1776148388,
         "date_posted": 1776146816,
         "url": "https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Business-Intelligence-Analyst--Remote-_R-57595-1",
@@ -297064,7 +297046,7 @@
         "company_name": "The Boeing Company",
         "id": "65b3f57a-acd4-4c2a-b15f-4e58dc9de499",
         "title": "Missions Systems Software Engineer \u2013 Senior - Embedded",
-        "active": true,
+        "active": false,
         "date_updated": 1776763261,
         "date_posted": 1776763143,
         "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Berkeley-MO/Missions-Systems-Software-Engineer---Embedded--Associate--Experienced--Senior-_JR2026494876-1",
@@ -301177,7 +301159,7 @@
         "company_name": "Nationwide",
         "id": "7563c543-6818-4088-8030-fbae2b8a71ec",
         "title": "Investment Analyst - Credit Research",
-        "active": true,
+        "active": false,
         "date_updated": 1776981961,
         "date_posted": 1776981848,
         "url": "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-One-Nationwide-Plaza/Investment-Analyst--Credit-Research_097911",
@@ -304624,7 +304606,7 @@
         "company_name": "RTX",
         "id": "7375d608-c2bc-4bcc-94f4-f747f76e29e6",
         "title": "Data Visualization Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1777330983,
         "date_posted": 1777327782,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Data-Visualization-Developer--Remote-_01840502",
@@ -308888,7 +308870,7 @@
         "company_name": "True Anomaly",
         "id": "874fdeaf-174b-4907-83b1-0557ad08155a",
         "title": "Engineer 2 - Or III Egse",
-        "active": true,
+        "active": false,
         "date_updated": 1777597874,
         "date_posted": 1769049048,
         "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5026924007",
@@ -308901,5 +308883,63 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "The Boeing Company",
+        "id": "de59bb61-5c92-4d57-ab6e-70681f137572",
+        "title": "Test & Evaluation Engineer",
+        "active": true,
+        "date_updated": 1777615763,
+        "date_posted": 1777615644,
+        "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Seattle-WA/Test---Evaluation-Engineer--Associate-or-Experienced-_JR2026505691",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "The Boeing Company",
+        "id": "1c569cbf-e9bf-4514-aa8b-d32fcfd3b4aa",
+        "title": "Test & Evaluation Engineer",
+        "active": true,
+        "date_updated": 1777615763,
+        "date_posted": 1777615648,
+        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seattle-WA/Test---Evaluation-Engineer--Associate-or-Experienced-_JR2026505691-1",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Microchip Technology",
+        "id": "2bed3329-194e-42eb-a12b-f21de9248198",
+        "title": "Engineer 1-Packaging",
+        "active": true,
+        "date_updated": 1777616015,
+        "date_posted": 1777615584,
+        "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/AZ---Chandler/Engineer-I--Packaging_R1879-26",
+        "locations": [
+            "Chandler, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Microchip-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
