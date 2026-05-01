@@ -2,27 +2,6 @@
     {
         "source": "Simplify",
         "category": "Other",
-        "company_name": "CenturyLink",
-        "id": "95f54956-e2af-4542-b8fb-7a29b6302279",
-        "title": "Information Security Engineer I",
-        "active": false,
-        "date_updated": 1756858294,
-        "date_posted": 1756858294,
-        "url": "https://internaljobs.centurylink.com/job/Remote-INFORMATION-SECURITY-ENGINEER-I/1322179700/?ats=successfactors",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/CenturyLink",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Other",
         "company_name": "Lumen Technologies",
         "id": "a1d30eed-a7e9-41bd-a40e-24b7b40caa45",
         "title": "Information Security Engineer I",
@@ -58349,24 +58328,6 @@
             "Boise, ID"
         ],
         "company_url": "https://simplify.jobs/c/Micron-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Great American Insurance Company",
-        "id": "d8ce19d8-652f-4294-a386-82b12134aa84",
-        "title": "Associate Product Manager - AI & Predictive Analytics",
-        "active": false,
-        "date_updated": 1756858517,
-        "date_posted": 1756858517,
-        "url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Associate-Product-Manager---AI---Predictive-Analytics_R7913",
-        "locations": [
-            "Cincinnati, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Great-American-Insurance-Company",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -269912,7 +269873,7 @@
         "company_name": "IXL Learning",
         "id": "9fc63854-be44-4620-875b-82f769c87858",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1776076706,
         "date_posted": 1775265592,
         "url": "https://www.ixl.com/company/jobs?gh_jid=8486920002",
@@ -305195,7 +305156,7 @@
         "company_name": "Amentum",
         "id": "94ba517c-471e-4089-95cd-031d8ad425aa",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1777338542,
         "date_posted": 1777338399,
         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Fredericksburg/Software-Engineer_R0160034-1",
@@ -306204,7 +306165,7 @@
         "company_name": "RTX",
         "id": "a99e5e47-2a19-4102-8547-43c37772a16b",
         "title": "Electrical CAD Engineer - ECAD",
-        "active": true,
+        "active": false,
         "date_updated": 1777414992,
         "date_posted": 1777414187,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-M10--3360-E-Hemisphere-Loop--BLDG-M10/Electrical-Computer-Aided-Designer-Engineer--ECAD--1_01840974-1",
