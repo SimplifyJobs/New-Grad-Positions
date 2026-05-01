@@ -271858,7 +271858,7 @@
         "company_name": "Uber",
         "id": "750526d3-f783-4c66-8d9b-aa4e6d10e4de",
         "title": "Graduate Software Engineer 1 - Mobile - iOS",
-        "active": true,
+        "active": false,
         "date_updated": 1775471429,
         "date_posted": 1775466409,
         "url": "https://university-uber.icims.com/jobs/158011/job?mobile=true&needsRedirect=false",
@@ -272607,7 +272607,7 @@
         "company_name": "Daktronics",
         "id": "731cc027-c1b4-4076-9210-d2855eba77a2",
         "title": "Hardware Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1775516761,
         "date_posted": 1775513314,
         "url": "https://careers-daktronics.icims.com/jobs/7306/job?mobile=true&needsRedirect=false",
@@ -301336,7 +301336,7 @@
         "company_name": "Northrop Grumman",
         "id": "eec96d34-d4a6-4af6-9f82-2effad6f2f33",
         "title": "Associate Cable Engineer Technical Services",
-        "active": true,
+        "active": false,
         "date_updated": 1776982905,
         "date_posted": 1776982098,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-McClellan/XMLNAME-2026-Associate-Cable-Engineer-Technical-Services---McClellan-CA_R10230735",
@@ -309657,5 +309657,25 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Varian",
+        "id": "4a4c5ee1-2efb-4ae7-83ea-288132043bfb",
+        "title": "Field Service Engineer",
+        "active": true,
+        "date_updated": 1777624021,
+        "date_posted": 1777586854,
+        "url": "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/MKE-W/Field-Service-Engineer---HW---Waukesha--WI_R-27052",
+        "locations": [
+            "Waukesha, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/670da3c5-bce0-4621-b519-da7ce7d528e6",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
     }
 ]
