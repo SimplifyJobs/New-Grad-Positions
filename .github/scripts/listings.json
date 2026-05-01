@@ -13915,7 +13915,7 @@
         "company_name": "Amentum",
         "id": "037965da-859d-4532-a3b3-45dc8fd6220f",
         "title": "Entry Level Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1761501704,
         "date_posted": 1761501704,
         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0148259",
@@ -175522,7 +175522,7 @@
         "company_name": "PDS Health",
         "id": "a6ea7648-126b-45e7-a4fa-3443c2ce044d",
         "title": "Full Stack AI Engineer 1 - Innovation",
-        "active": true,
+        "active": false,
         "date_updated": 1770457767,
         "date_posted": 1769555394,
         "url": "https://pdshcareers-pdshealth.icims.com/jobs/102669/job?mobile=true&needsRedirect=false",
@@ -279031,7 +279031,7 @@
         "source": "Simplify",
         "category": "Hardware",
         "company_name": "General Dynamics UK",
-        "id": "b37868be-64a9-494d-ab2b-bd0ec39f94ae",
+        "id": "065c3327-c2a5-45a2-a491-9aaaf0af1379",
         "title": "Intermediate Systems Engineer - Applications Team",
         "active": true,
         "date_updated": 1775814133,
@@ -309619,6 +309619,133 @@
         "sponsorship": "Other",
         "degrees": [
             "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Vinik Sports Group",
+        "id": "83d6e787-f115-4dba-b150-f54d9111ab2f",
+        "title": "Data Scientist Assistant",
+        "active": true,
+        "date_updated": 1777644424,
+        "date_posted": 1777644132,
+        "url": "https://vsg.wd1.myworkdayjobs.com/vsg/job/Tampa-Bay-Lightning/Data-Scientist-Assistant_R1079",
+        "locations": [
+            "Florida"
+        ],
+        "company_url": "https://simplify.jobs/c/Vinik-Sports-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Pennsylvania State University",
+        "id": "bdfc2731-c7e1-4aa9-ae30-a4a5bd8ad715",
+        "title": "Applications Developer",
+        "active": true,
+        "date_updated": 1777644711,
+        "date_posted": 1777644469,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Applications-Developer_REQ_0000077655-2",
+        "locations": [
+            "State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "BNY",
+        "id": "de60a7c3-39b6-4b4e-b1b3-2f34a285c74e",
+        "title": "Fixed Income Product Specialist",
+        "active": true,
+        "date_updated": 1777644541,
+        "date_posted": 1777644408,
+        "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/77508",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/BNY",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amazon",
+        "id": "9fc959fb-5511-4d94-a76d-f7175d92c3fc",
+        "title": "Software Development Engineer",
+        "active": true,
+        "date_updated": 1777644361,
+        "date_posted": 1777644239,
+        "url": "https://amazon.jobs/en/jobs/10408763/software-development-engineer-2026",
+        "locations": [
+            "London, UK",
+            "Edinburgh, UK",
+            "Cambridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Manulife Financial",
+        "id": "5c217a23-76b1-4a7b-bf31-3b189dea216f",
+        "title": "Associate Full-Stack Software Engineer",
+        "active": true,
+        "date_updated": 1777644541,
+        "date_posted": 1777644519,
+        "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Waterloo-Ontario/Associate-Full-Stack-Software-Engineer_JR25121019-2",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Kitchener, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Manulife-Financial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Brock University",
+        "id": "0bd41fd2-2f2c-4b93-81be-fbc40a8e4293",
+        "title": "Electronics Instrument Technologist",
+        "active": true,
+        "date_updated": 1777644181,
+        "date_posted": 1777644041,
+        "url": "https://brocku.wd3.myworkdayjobs.com/brocku_careers/job/St-Catharines-Main-Campus/Electronics-Instrument-Technologist_JR-1023360",
+        "locations": [
+            "Niagara Falls, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Brock-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
