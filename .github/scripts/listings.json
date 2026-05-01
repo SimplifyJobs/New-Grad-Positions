@@ -303876,7 +303876,7 @@
         "company_name": "Sherwin-Williams",
         "id": "d0a1c5a4-c1d9-4d9f-b6ba-050dfd677301",
         "title": "Leadership Development Program R&D",
-        "active": true,
+        "active": false,
         "date_updated": 1777327912,
         "date_posted": 1777327560,
         "url": "https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2610297",
@@ -308999,5 +308999,131 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Merck",
+        "id": "0aef48ef-7b40-43d9-8e95-96097924061a",
+        "title": "Data Science Specialist - Digital Operations and Innovation",
+        "active": true,
+        "date_updated": 1777621172,
+        "date_posted": 1777327530,
+        "url": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---West-Point/Specialist--Data-Science--Digital-Operations-and-Innovation_R394000-1",
+        "locations": [
+            "Boston, MA",
+            "North Wales, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Merck",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Hologic",
+        "id": "fc61042f-d813-4ec9-a8a3-5c04f5e7edc0",
+        "title": "Field Service Engineer",
+        "active": true,
+        "date_updated": 1777620961,
+        "date_posted": 1777327443,
+        "url": "https://ebwb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/11524",
+        "locations": [
+            "Gulfport, MS",
+            "Hattiesburg, MS",
+            "Biloxi, MS"
+        ],
+        "company_url": "https://simplify.jobs/c/Hologic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Abnormal Security",
+        "id": "4dc85fe6-a85e-4116-850e-878a22e8eafd",
+        "title": "Software Engineer 1 - Dev Accelerator",
+        "active": true,
+        "date_updated": 1777620961,
+        "date_posted": 1777299274,
+        "url": "https://abnormal.ai/careers/jobs/7697216003?gh_jid=7697216003",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Abnormal-Security",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Athena Health",
+        "id": "3311b668-9122-4fc9-9f14-6e3dfca3b83e",
+        "title": "Enrollment Configuration Associate",
+        "active": true,
+        "date_updated": 1777620961,
+        "date_posted": 1777298812,
+        "url": "https://athenahealth.wd1.myworkdayjobs.com/en-US/External/job/Belfast-ME/Enrollment-Configuration-Associate_R14933-1",
+        "locations": [
+            "Boston, MA",
+            "Bangor, ME"
+        ],
+        "company_url": "https://simplify.jobs/c/e955406a-7989-4ed8-aff1-01032b96e141",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Twitch",
+        "id": "84537aaf-2816-4b2c-9c5e-d04454e92f47",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1777619701,
+        "date_posted": 1777080097,
+        "url": "https://job-boards.greenhouse.io/twitch/jobs/8519628002",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Twitch",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Walmart",
+        "id": "fa7f7383-4e2e-4f23-b0cb-3f3d596388ce",
+        "title": "Software Engineer 3 - Fullstack",
+        "active": true,
+        "date_updated": 1777619579,
+        "date_posted": 1777039667,
+        "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/Software-Engineer-III---Fullstack_R-2435586",
+        "locations": [
+            "Bentonville, AR"
+        ],
+        "company_url": "https://simplify.jobs/c/Walmart",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
