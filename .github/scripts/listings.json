@@ -309499,5 +309499,23 @@
         "date_posted": 1777635608,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1777636152,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://job-boards.greenhouse.io/speechify/jobs/5981223004",
+        "company_name": "Speechify",
+        "title": "Software Engineer, iOS Core Product",
+        "locations": [
+            "College Park, MD"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "99193ca8-e088-4764-8b1b-c519dfecaa18",
+        "date_posted": 1777636152,
+        "company_url": "",
+        "is_visible": true
     }
 ]
