@@ -1,72 +1,5 @@
 [
     {
-        "date_updated": 1756902937,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "degrees": [],
-        "url": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=56285",
-        "company_name": "IBM",
-        "title": "Software Developer",
-        "locations": [
-            "Sandy Springs, GA",
-            "Poughkeepsie, NY",
-            "Lowell, MA",
-            "Rochester, MN",
-            "Tucson, AZ",
-            "Research Triangle Park, NC",
-            "Durham, NC",
-            "Hopewell Junction, NY",
-            "San Jose, CA",
-            "Dallas, TX",
-            "Houston, TX",
-            "Austin, TX",
-            "Herndon, VA",
-            "New York, NY"
-        ],
-        "category": "Software Engineering",
-        "source": "unvibingcode",
-        "id": "d4ea417d-2e42-4174-80ac-0382439102b0",
-        "date_posted": 1756855912,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1760394479,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
-        "degrees": [],
-        "url": "https://job-boards.greenhouse.io/spacex/jobs/8145483002?gh_jid=8145483002",
-        "company_name": "SpaceX",
-        "title": "Software Engineer",
-        "locations": [
-            "Hawthorne, CA"
-        ],
-        "category": "Software Engineering",
-        "source": "unvibingcode",
-        "id": "a59027fc-5575-4f3c-801f-567ef43ac640",
-        "date_posted": 1756855936,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1759378236,
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "degrees": [],
-        "url": "https://jobs.careers.microsoft.com/us/en/job/1869391",
-        "company_name": "Microsoft",
-        "title": "Software Engineer - Fullstack",
-        "locations": [
-            "United States"
-        ],
-        "category": "Software Engineering",
-        "source": "unvibingcode",
-        "id": "87af25f0-4deb-4ca2-96fc-621b6f787a1c",
-        "date_posted": 1756857301,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "source": "Simplify",
         "category": "Other",
         "company_name": "CenturyLink",
@@ -58434,25 +58367,6 @@
             "Cincinnati, OH"
         ],
         "company_url": "https://simplify.jobs/c/Great-American-Insurance-Company",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Vanguard",
-        "id": "bbd3f663-73d2-400e-bca1-16ec0c739a60",
-        "title": "Data and Analytics Advanced Development Program",
-        "active": false,
-        "date_updated": 1756856699,
-        "date_posted": 1756856699,
-        "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Charlotte-NC/Data-and-Analytics-Advanced-Development-Program_168634",
-        "locations": [
-            "Malvern, PA",
-            "Charlotte, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Vanguard",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -280135,7 +280049,7 @@
         "company_name": "Abbott",
         "id": "3ee01444-eec4-45d5-be74-7bce31f8f16a",
         "title": "Junior Data Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1775861108,
         "date_posted": 1775859020,
         "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---Minnesota---St-Paul/Junior-Data-Engineer_31144379",
@@ -309070,6 +308984,26 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "SpaceX",
+        "id": "d2fd9e3c-7942-4ed2-b913-80d110b35397",
+        "title": "Software Engineer - High Performance Computing - Starlink",
+        "active": true,
+        "date_updated": 1777587841,
+        "date_posted": 1777587818,
+        "url": "https://boards.greenhouse.io/spacex/jobs/8530338002",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/SpaceX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
