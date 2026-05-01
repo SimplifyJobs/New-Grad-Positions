@@ -2,27 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "The Travelers Companies",
-        "id": "f692cc56-d79e-4b40-8851-130e0670610c",
-        "title": "Software Engineer I - Salesforce",
-        "active": false,
-        "date_updated": 1756903143,
-        "date_posted": 1756863999,
-        "url": "https://travelers.wd5.myworkdayjobs.com/External/job/GA---Atlanta/Software-Engineer-I--Salesforce-_R-46480",
-        "locations": [
-            "Sparks, MD",
-            "Hartford, CT",
-            "Atlanta, GA",
-            "St Paul, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Travelers",
-        "is_visible": true,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Roblox",
         "id": "b3c3e871-13cb-4544-9170-9f76e534ec8b",
         "title": "Software Engineer \u2013 Early Career",
@@ -276506,7 +276485,7 @@
         "company_name": "Anduril",
         "id": "ee7541cd-8918-45d9-9551-e9f11290f62c",
         "title": "LRU Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1775689572,
         "date_posted": 1775686296,
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/5092651007",
@@ -292257,7 +292236,7 @@
         "company_name": "Varda Space",
         "id": "2029dab2-f71a-4687-9fea-eb969195638c",
         "title": "Mechanisms Engineer - Payloads",
-        "active": true,
+        "active": false,
         "date_updated": 1776463921,
         "date_posted": 1766187281,
         "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7569145003",
@@ -306574,7 +306553,7 @@
         "company_name": "Anduril",
         "id": "801ca1b0-5e61-4bb9-9e6d-b95bac5a1e56",
         "title": "Engineering Technician - Cleanroom",
-        "active": true,
+        "active": false,
         "date_updated": 1777442941,
         "date_posted": 1774736688,
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/5092603007",
@@ -308982,6 +308961,107 @@
         "sponsorship": "Other",
         "degrees": [
             "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "IXL Learning",
+        "id": "9754aa29-a86b-42ee-912b-e70711d5baeb",
+        "title": "Software Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1777598101,
+        "date_posted": 1777598090,
+        "url": "https://www.ixl.com/company/jobs?gh_jid=8530389002",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/IXL-Learning",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "IXL Learning",
+        "id": "26ce0bf7-c175-40e7-bcf9-1a6687b47be8",
+        "title": "Software Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1777598101,
+        "date_posted": 1777598090,
+        "url": "https://www.ixl.com/company/jobs?gh_jid=8530542002",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/IXL-Learning",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Intuit",
+        "id": "e072da77-d297-47c5-97d7-7953cd9282ed",
+        "title": "Software Developer 1",
+        "active": true,
+        "date_updated": 1777597972,
+        "date_posted": 1777597654,
+        "url": "https://jobs.intuit.com/job/toronto/software-developer-1/27595/94575574432",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Intuit",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Anduril",
+        "id": "bc0afe9e-41a1-411b-bab5-7b70463a5630",
+        "title": "Software Engineer - Mission Autonomy",
+        "active": true,
+        "date_updated": 1777598101,
+        "date_posted": 1771285125,
+        "url": "https://boards.greenhouse.io/andurilindustries/jobs/5050735007",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Anduril",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "True Anomaly",
+        "id": "874fdeaf-174b-4907-83b1-0557ad08155a",
+        "title": "Engineer 2 - Or III Egse",
+        "active": true,
+        "date_updated": 1777597874,
+        "date_posted": 1769049048,
+        "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5026924007",
+        "locations": [
+            "Long Beach, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TrueAnomaly",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
