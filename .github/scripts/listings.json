@@ -307909,7 +307909,7 @@
         "company_name": "KEEN Footwear",
         "id": "5a236772-4d96-4bb4-8c08-932d4a567c12",
         "title": "EDI Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1777587841,
         "date_posted": 1777587005,
         "url": "https://www.keenfootwear.com/careers-list.html?4690673005&gh_jid=4690673005",
@@ -308194,7 +308194,7 @@
         "company_name": "Capital One",
         "id": "b3f2bb1c-ca3e-4d65-a798-42315a14b574",
         "title": "Senior Associate \u2013 Athena Data Model Lead",
-        "active": true,
+        "active": false,
         "date_updated": 1777587841,
         "date_posted": 1777586960,
         "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Associate--Product-Management---Athena-Data-Model-Lead_R241706-1",
@@ -308506,7 +308506,7 @@
         "company_name": "DAT Freight & Analytics",
         "id": "8470dc23-76ec-4de3-9881-e1f7162bee0c",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1777587481,
         "date_posted": 1777587326,
         "url": "https://careers.dat.com/jobs/5741667004?gh_jid=5741667004",
@@ -308709,7 +308709,7 @@
         "company_name": "SpaceX",
         "id": "d2fd9e3c-7942-4ed2-b913-80d110b35397",
         "title": "Software Engineer - High Performance Computing - Starlink",
-        "active": true,
+        "active": false,
         "date_updated": 1777587841,
         "date_posted": 1777587818,
         "url": "https://boards.greenhouse.io/spacex/jobs/8530338002",
@@ -309576,5 +309576,86 @@
         "date_posted": 1777636661,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Varda Space",
+        "id": "4344044d-fc5f-4cb2-a65c-d2b70b8c3bfb",
+        "title": "Mechanisms Engineer - Payloads",
+        "active": true,
+        "date_updated": 1777624202,
+        "date_posted": 1777597854,
+        "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7721557003",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Varda-Space",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Brookhaven Lab",
+        "id": "adc346e6-17dc-4896-8536-78e1a4e50837",
+        "title": "Post Doctorate Research Associate",
+        "active": true,
+        "date_updated": 1777624202,
+        "date_posted": 1777587005,
+        "url": "https://bnl.wd1.myworkdayjobs.com/externa/job/Upton-NY/Post-Doctorate-Research-Associate_JR102404",
+        "locations": [
+            "Shirley, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Brookhaven-Lab",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "c18c0a03-44cf-43fc-9427-36f16e368e6a",
+        "title": "Sentinel Software Engineer - Sentinel Program - UI/UX Development",
+        "active": true,
+        "date_updated": 1777624202,
+        "date_posted": 1777587054,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/Sentinel-Software-Engineer---18684_R10231425",
+        "locations": [
+            "Hill AFB, UT",
+            "Colorado Springs, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Squint",
+        "id": "23eb16bc-3985-4484-9829-5217ebfc6ffb",
+        "title": "Product Manager",
+        "active": true,
+        "date_updated": 1777625101,
+        "date_posted": 1769815087,
+        "url": "https://jobs.ashbyhq.com/squint.ai/e45a43b3-4ab6-45ed-8065-371fb3ca277d/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Squint",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
