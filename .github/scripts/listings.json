@@ -2,28 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Glean",
-        "id": "67b134e0-653d-4b37-bc63-6df9e5585e40",
-        "title": "Software Engineer \u2013 University Grad",
-        "active": false,
-        "date_updated": 1756942211,
-        "date_posted": 1756942211,
-        "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4592324005",
-        "locations": [
-            "Palo Alto, CA",
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Glean",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "RTX",
         "id": "d22bfd21-36a7-4c9b-b6b7-bb42786f2303",
         "title": "Software Engineer I",
@@ -15357,25 +15335,6 @@
             "West Redlands, Redlands, CA"
         ],
         "company_url": "https://simplify.jobs/c/Esri",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Dover",
-        "id": "ff072abe-5d3f-43be-9240-551170752c3f",
-        "title": "Product Engineer - Entry Level",
-        "active": false,
-        "date_updated": 1761936910,
-        "date_posted": 1756940514,
-        "url": "https://careers.dovercorporation.com/job/Keosauqua-Product-Engineer-IA-52565/1243842701/?ats=successfactors",
-        "locations": [
-            "Allerton, IA",
-            "Ottumwa, IA"
-        ],
-        "company_url": "https://simplify.jobs/c/511130a6-b974-4ccb-a78b-14049de141bb",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -310013,5 +309972,285 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Blue Origin",
+        "id": "b62663a2-92ba-4a4c-9fa9-7fc0dc59f676",
+        "title": "Nondestructive Testing Technician - Shearography",
+        "active": true,
+        "date_updated": 1777673458,
+        "date_posted": 1777673092,
+        "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Space-Coast-FL/NDT-Technician---Shearography--ST----Level-II---A-Shift_R63914",
+        "locations": [
+            "Florida"
+        ],
+        "company_url": "https://simplify.jobs/c/Blue-Origin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Ekimetrics",
+        "id": "9d0068a2-fbc6-4fa9-8ef5-5a8a4d00a8da",
+        "title": "Junior Data Scientist & Marketing Effectiveness",
+        "active": true,
+        "date_updated": 1777673161,
+        "date_posted": 1777673147,
+        "url": "https://jobs.lever.co/ekimetrics/d9569ab0-8e3a-4a1d-b342-250a91e90348/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Ekimetrics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Columbia Sportswear Company",
+        "id": "5ed26c6a-e67b-4b6f-9094-c9458fb82407",
+        "title": "Product Line Management Specialist 1 - Outerwear",
+        "active": true,
+        "date_updated": 1777673414,
+        "date_posted": 1777673041,
+        "url": "https://columbiasportswearcompany.wd5.myworkdayjobs.com/Columbia_Career_Site/job/Portland-Oregon-United-States-of-America/Product-Line-Management-Specialist-I---Outerwear_R-019249-2",
+        "locations": [
+            "Portland, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Columbia-Sportswear-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Nasdaq",
+        "id": "42631e88-9914-4d06-91b7-dfa79bde0793",
+        "title": "Software Developer Specialist - API Operations",
+        "active": true,
+        "date_updated": 1777673680,
+        "date_posted": 1777673064,
+        "url": "https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/Canada---St-Johns---Newfoundland--Labrador/Verafin---Software-Developer-Specialist--API-Operations-_R0026000",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Nasdaq",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Torch Technologies",
+        "id": "834f0652-02c2-49ae-a910-ec7dc9e61976",
+        "title": "Modeling & Simulation Artificial Intelligence (AI)/ Machine Learning Engineer",
+        "active": true,
+        "date_updated": 1777674122,
+        "date_posted": 1777673293,
+        "url": "https://starfish.wd501.myworkdayjobs.com/Careers/job/Redstone-Arsenal-AL/Modeling---Simulation-AI-ML-Engineer_R949",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Torch-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pennsylvania State University",
+        "id": "4437081b-9ded-4fba-a927-65de8eaa5dd2",
+        "title": "Research Assistant",
+        "active": true,
+        "date_updated": 1777674123,
+        "date_posted": 1777673278,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Research-Assistant_REQ_0000078046-1",
+        "locations": [
+            "State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Texas at Austin",
+        "id": "d2a02b7c-3bed-4acf-83aa-d95a4f5f310c",
+        "title": "Graduate Research Assistant - LLM Interaction and Statistical Analysis",
+        "active": true,
+        "date_updated": 1777673161,
+        "date_posted": 1777673154,
+        "url": "https://utaustin.wd1.myworkdayjobs.com/utstudent/job/UT-MAIN-CAMPUS/Graduate-Research-Assistant--LLM-Interaction-and-Statistical-Analysis-_R_00045923",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Texas-Austin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "The Boeing Company",
+        "id": "29dd952b-8cd8-466a-9131-7e933b3b3d7e",
+        "title": "Metrology and Calibration Specialist - Associate - Mid-Level",
+        "active": true,
+        "date_updated": 1777674141,
+        "date_posted": 1777673340,
+        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seattle-WA/Metrology-and-Calibration-Specialist--Associate---Mid-Level-_JR2026507346-2",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "White Cap Supply Holdings",
+        "id": "bca9dd67-f008-465a-9690-d8159349bd2e",
+        "title": "Application Engineer",
+        "active": true,
+        "date_updated": 1777673161,
+        "date_posted": 1777673130,
+        "url": "https://whitecap.wd1.myworkdayjobs.com/careers/job/UT302---American-Fork-UT/Application-Engineer_WCJR-031533",
+        "locations": [
+            "American Fork, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/White-Cap-Supply-Holdings",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "BNY",
+        "id": "94714193-6436-4a4a-966c-ed4cf626d1d2",
+        "title": "Associate 1",
+        "active": true,
+        "date_updated": 1777674113,
+        "date_posted": 1777673210,
+        "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/72160",
+        "locations": [
+            "Lake Mary, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/BNY",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Home Depot",
+        "id": "95acbd99-bd9b-4061-b0d3-7fa766a22e24",
+        "title": "Data Scientist Associate",
+        "active": true,
+        "date_updated": 1777674518,
+        "date_posted": 1777673404,
+        "url": "https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Associate-Data-Scientist_Req178458",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Home-Depot",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Applied Materials",
+        "id": "00367de3-b6c4-4a06-ae1f-bae8ed1f6355",
+        "title": "Data Scientist New Grad",
+        "active": true,
+        "date_updated": 1777674051,
+        "date_posted": 1777673212,
+        "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2026-NCG---Data-Scientist--Masters-_R2618394",
+        "locations": [
+            "Austin, TX",
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Materials",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Applied Materials",
+        "id": "881feac5-dd42-4fbf-99a0-42f37931bc06",
+        "title": "New College Grad IT Solutions Manager",
+        "active": true,
+        "date_updated": 1777673968,
+        "date_posted": 1777673214,
+        "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2026-NCG---IT-Solutions-Management--Bachelor-s-_R2619066",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Materials",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "RBI",
+        "id": "7f79b415-6f1a-4afc-b4ca-ba1a4ed572fe",
+        "title": "Analyst \u2013 Data Engineer - Burger King",
+        "active": true,
+        "date_updated": 1777672981,
+        "date_posted": 1777672928,
+        "url": "https://rbi.wd3.myworkdayjobs.com/RBI_External_Career_Site/job/Corp---Miami-Corporate-Office/Analyst--Data-Engineer--Burger-King_R3161",
+        "locations": [
+            "Miami, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/RBI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
