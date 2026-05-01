@@ -308423,7 +308423,7 @@
         "company_name": "Molina Healthcare",
         "id": "164021fb-10f3-4771-b955-36753b5cff78",
         "title": "Risk and Quality Reporting Analyst - Multiple Teams",
-        "active": true,
+        "active": false,
         "date_updated": 1777587095,
         "date_posted": 1777586628,
         "url": "https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2037114",
@@ -308544,7 +308544,7 @@
         "company_name": "3M",
         "id": "701c32ef-1054-4d55-903d-62ef022fbe61",
         "title": "Corporate Performance Management System Administrator",
-        "active": true,
+        "active": false,
         "date_updated": 1777586941,
         "date_posted": 1777586831,
         "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Minnesota-Maplewood/Corporate-Performance-Management-System-Administrator-_R01164057",
@@ -309574,24 +309574,6 @@
         "source": "AlmondCroffle",
         "id": "7f5f8bbd-6624-45f7-96a3-391a373138c8",
         "date_posted": 1777636661,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1777636809,
-        "sponsorship": "Other",
-        "active": true,
-        "degrees": [],
-        "url": "https://jobs.ashbyhq.com/preference%20model/44642065-e592-44ba-810d-a019703463b6",
-        "company_name": "Preference Model",
-        "title": "Machine Learning Engineer, RL Environments",
-        "locations": [
-            "San Francisco, CA"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "AlmondCroffle",
-        "id": "0f0cb917-259e-49d8-adb0-1a4d884dfd28",
-        "date_posted": 1777636809,
         "company_url": "",
         "is_visible": true
     }
