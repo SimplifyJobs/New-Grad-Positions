@@ -302823,7 +302823,7 @@
         "company_name": "L3Harris Technologies",
         "id": "471f19c0-8d65-4f8e-8031-a2d247ade75c",
         "title": "Senior Associate - Configuration Management",
-        "active": true,
+        "active": false,
         "date_updated": 1777069053,
         "date_posted": 1777068407,
         "url": "https://jobs.l3harris.com/job/Greenville-Sr_-Associate,-Configuration-Management-TX-75402/1385454500/?ats=successfactors",
@@ -308938,6 +308938,64 @@
             "Chandler, AZ"
         ],
         "company_url": "https://simplify.jobs/c/Microchip-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Denver Health",
+        "id": "1fd2b475-880e-4b6a-aa8c-88fad7fc5272",
+        "title": "Senior Business Intelligence Analyst",
+        "active": true,
+        "date_updated": 1777621422,
+        "date_posted": 1777529218,
+        "url": "https://denverhealth.wd1.myworkdayjobs.com/DHHA-Main/job/Denver-Health-Medical-Plan---601-Broadway-Denver-CO-80203/Sr-Business-Intelligence-Specialty-Analyst---Denver-Health-Medical-Plan----Weekly-Hybrid-Schedule-Requirement---_R16310-1",
+        "locations": [
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Denver-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "EquipmentShare",
+        "id": "0a2d5397-1d3c-4ecc-bd3f-5eb48d8632c7",
+        "title": "Telematics Installer",
+        "active": true,
+        "date_updated": 1777619579,
+        "date_posted": 1777068378,
+        "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=7847104",
+        "locations": [
+            "Jackson, MS"
+        ],
+        "company_url": "https://simplify.jobs/c/Equipment-Share",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Sensata",
+        "id": "04556497-48e9-49dd-b07f-b3da2335d88b",
+        "title": "Engineering Technician",
+        "active": true,
+        "date_updated": 1777619579,
+        "date_posted": 1777068315,
+        "url": "https://sensata.wd1.myworkdayjobs.com/en-US/Sensata-Careers/job/Attleboro-Massachusetts/Engineering-Technician_IRC97345",
+        "locations": [
+            "Attleboro, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/sensata-tech",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
