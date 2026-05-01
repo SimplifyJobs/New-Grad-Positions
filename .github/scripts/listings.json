@@ -1,50 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Stripe",
-        "id": "65140a4f-996b-40f3-98da-63270ba6a609",
-        "title": "Software Engineer \u2013 New Grad",
-        "active": false,
-        "date_updated": 1756871708,
-        "date_posted": 1756871708,
-        "url": "https://stripe.com/jobs/search?gh_jid=7210112",
-        "locations": [
-            "Seattle, WA",
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Stripe",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Stripe",
-        "id": "8510087c-34fe-43c9-b6e9-7f5a00f1d270",
-        "title": "Software Engineer \u2013 New Grad",
-        "active": false,
-        "date_updated": 1756871707,
-        "date_posted": 1756871707,
-        "url": "https://stripe.com/jobs/search?gh_jid=7206505",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Stripe",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
         "date_updated": 1756904460,
         "sponsorship": "Offers Sponsorship",
         "active": true,
@@ -14750,26 +14705,6 @@
             "Westminster, CO"
         ],
         "company_url": "https://simplify.jobs/c/Trimble",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Stripe",
-        "id": "36a725f9-d72b-497a-b16b-f14a7211f6bf",
-        "title": "PhD Machine Learning Engineer \u2013 New Grad",
-        "active": false,
-        "date_updated": 1761861306,
-        "date_posted": 1756871705,
-        "url": "https://stripe.com/jobs/search?gh_jid=7216668",
-        "locations": [
-            "Seattle, WA",
-            "SF",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Stripe",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -58188,24 +58123,6 @@
             "Bachelor's",
             "Master's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Micron Technology",
-        "id": "feedcd0b-6c3b-4a56-8b44-fbcafa62fb2e",
-        "title": "Product Development Engineer",
-        "active": false,
-        "date_updated": 1756870369,
-        "date_posted": 1756870369,
-        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Product-Development-Engineer_JR82130",
-        "locations": [
-            "Boise, ID"
-        ],
-        "company_url": "https://simplify.jobs/c/Micron-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -271420,7 +271337,7 @@
         "company_name": "Intel",
         "id": "2da18d89-6f69-495a-8c20-1e04f9c8493f",
         "title": "Junior CPU Design Verification Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1775302471,
         "date_posted": 1775298122,
         "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Texas-Austin/Junior-CPU-Design-Verification-Engineer_JR0282204",
