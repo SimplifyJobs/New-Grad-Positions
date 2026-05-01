@@ -1,28 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Adobe",
-        "id": "6215e47a-c0d1-4efb-a067-3fb6b0172084",
-        "title": "2026 University Graduate - Finance Data Scientist",
-        "active": false,
-        "date_updated": 1756862678,
-        "date_posted": 1756862678,
-        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Finance-Data-Scientist_R158870",
-        "locations": [
-            "SF",
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Adobe",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "The Travelers Companies",
         "id": "f692cc56-d79e-4b40-8851-130e0670610c",
@@ -72642,7 +72620,7 @@
         "company_name": "Cisco",
         "id": "d429909a-8374-4fde-afa9-c1fb684e2b9d",
         "title": "Software Engineer 2 - Full Stack and Application Development",
-        "active": false,
+        "active": true,
         "date_updated": 1763664387,
         "date_posted": 1763664387,
         "url": "https://careers.cisco.com/global/en/job/2000127",
@@ -302123,7 +302101,7 @@
         "company_name": "Anduril",
         "id": "e4979f9b-5fe5-4d6d-becc-580d197badef",
         "title": "Electro-Mechanical Technician - Ew",
-        "active": true,
+        "active": false,
         "date_updated": 1776992941,
         "date_posted": 1776992894,
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/5115409007",
@@ -308944,6 +308922,66 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Toyota",
+        "id": "2b1da2b7-0072-4663-8a55-3cac24d45b59",
+        "title": "Engineer - Quality Data Analyst",
+        "active": true,
+        "date_updated": 1777597767,
+        "date_posted": 1777597428,
+        "url": "https://toyota.wd503.myworkdayjobs.com/tmna/job/San-Antonio-Texas/Engineer---Quality-Data-Analyst_10326261-1",
+        "locations": [
+            "San Antonio, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Toyota",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Paramount Global",
+        "id": "35633281-14b8-4fd4-b3a0-3eaef550b95a",
+        "title": "Associate Product Manager",
+        "active": true,
+        "date_updated": 1777597561,
+        "date_posted": 1777597559,
+        "url": "https://careers.paramount.com/job/Burbank-Associate-Product-Manager-CA-91505/1387218700/?ats=successfactors",
+        "locations": [
+            "Burbank, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Paramount-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Anduril",
+        "id": "3eb98f7c-cca0-4efa-bc09-04cc9d7c8310",
+        "title": "Quality Inspector",
+        "active": true,
+        "date_updated": 1777597921,
+        "date_posted": 1776291030,
+        "url": "https://boards.greenhouse.io/andurilindustries/jobs/5101393007",
+        "locations": [
+            "Rhode Island"
+        ],
+        "company_url": "https://simplify.jobs/c/Anduril",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
         ]
     }
 ]
