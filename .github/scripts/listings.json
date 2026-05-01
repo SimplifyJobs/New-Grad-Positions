@@ -306975,7 +306975,7 @@
         "company_name": "SpaceX",
         "id": "6815eee6-8cde-498a-87e2-5e09a73ac52e",
         "title": "Application Software Engineer - Data",
-        "active": true,
+        "active": false,
         "date_updated": 1777501441,
         "date_posted": 1777501263,
         "url": "https://boards.greenhouse.io/spacex/jobs/8530277002",
@@ -306995,7 +306995,7 @@
         "company_name": "Twitch",
         "id": "150760be-94ba-4811-8967-65c696778efc",
         "title": "Software Development Engineer - Discovery",
-        "active": true,
+        "active": false,
         "date_updated": 1777501262,
         "date_posted": 1777501083,
         "url": "https://job-boards.greenhouse.io/twitch/jobs/8527544002",
@@ -307033,7 +307033,7 @@
         "company_name": "Northrop Grumman",
         "id": "d9368b85-8130-440d-a260-1b1c9652c7b6",
         "title": "Electromechanical Engineer - Level 1 OR 2",
-        "active": true,
+        "active": false,
         "date_updated": 1777501441,
         "date_posted": 1777500621,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Electromechanical-Engineer--Level-1-OR-2-_R10230923",
@@ -307208,7 +307208,7 @@
         "company_name": "RTX",
         "id": "550c0f8a-8e58-4586-9968-9340d5265955",
         "title": "Software Engineer 1 - Test Solutions",
-        "active": true,
+        "active": false,
         "date_updated": 1777501226,
         "date_posted": 1777500478,
         "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Software-Engineer-I----Test-Solutions---Onsite_01836492-1",
@@ -307269,7 +307269,7 @@
         "company_name": "Citi",
         "id": "7cebf51c-6015-4c05-9925-fb624833aa9e",
         "title": "Applications Development Programmer Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1777501641,
         "date_posted": 1777500651,
         "url": "https://citi.wd5.myworkdayjobs.com/2/job/Mississauga-Ontario-Canada/Apps-Dev-Programmer-Analyst---Officer_26951546",
@@ -307311,7 +307311,7 @@
         "company_name": "Northrop Grumman",
         "id": "1cfc6b63-2193-43ee-ab5f-8607bca81111",
         "title": "Quality Control Technician - Level 1 or Level 2",
-        "active": true,
+        "active": false,
         "date_updated": 1777501441,
         "date_posted": 1777500620,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Corinne/Quality-Control-Technician----Level-1-or-Level-2_R10231354",
@@ -309423,6 +309423,45 @@
         "degrees": [
             "Bachelor's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AT&T",
+        "id": "bdc6a08e-3f51-45ae-b164-6db276ce02d0",
+        "title": "Linux Administrator - Junior - Sa0','Government",
+        "active": true,
+        "date_updated": 1777623122,
+        "date_posted": 1777500648,
+        "url": "https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Columbia-Maryland/Linux-Administrator--Junior--SA0---Government-_R-108626",
+        "locations": [
+            "Columbia, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/ATT",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Capital One",
+        "id": "22e3ef6b-81ac-4a49-9844-69b255af740e",
+        "title": "Product Management Senior Associate - Anti-Money Laundering",
+        "active": true,
+        "date_updated": 1777620387,
+        "date_posted": 1777068453,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Richmond-VA/Senior-Associate--Product-Management--Anti-Money-Laundering-_R241287-2",
+        "locations": [
+            "McLean, VA",
+            "Richmond, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Capital-One",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
