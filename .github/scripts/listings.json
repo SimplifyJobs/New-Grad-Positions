@@ -1,27 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Other",
-        "company_name": "Lumen Technologies",
-        "id": "a1d30eed-a7e9-41bd-a40e-24b7b40caa45",
-        "title": "Information Security Engineer I",
-        "active": false,
-        "date_updated": 1756861077,
-        "date_posted": 1756861077,
-        "url": "https://jobs.lumen.com/global/en/job/339750",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Lumen-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Adobe",
         "id": "6215e47a-c0d1-4efb-a067-3fb6b0172084",
@@ -296194,7 +296173,7 @@
         "company_name": "RTX",
         "id": "e24cfb68-8677-4180-8773-d08ed29d3ec1",
         "title": "Systems Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1776724959,
         "date_posted": 1776723579,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-848--1151-E-Hermans-Rd--BLDG-848/XMLNAME-2026-Systems-Engineer-I---Onsite_01833756",
