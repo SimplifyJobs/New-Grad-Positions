@@ -309556,5 +309556,25 @@
         "date_posted": 1777636575,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1777636661,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Master's"
+        ],
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Deep-Learning-Architect--LLM-Inference---New-College-Grad-2026_JR2016950",
+        "company_name": "NVIDIA",
+        "title": "Deep Learning Architect, LLM Inference",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "7f5f8bbd-6624-45f7-96a3-391a373138c8",
+        "date_posted": 1777636661,
+        "company_url": "",
+        "is_visible": true
     }
 ]
