@@ -304137,7 +304137,7 @@
         "company_name": "Capital One",
         "id": "84c9109e-bc02-445f-a2d5-9bcfccc6dd0d",
         "title": "Senior Associate - Product Management-CAPS",
-        "active": true,
+        "active": false,
         "date_updated": 1777330801,
         "date_posted": 1777327668,
         "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Senior-Associate--Product-Management--CAPS_R241422-1",
@@ -304283,7 +304283,7 @@
         "company_name": "Onto Innovation",
         "id": "bd908b62-7eb0-4c9f-acc2-1620bcf675ca",
         "title": "Software Engineer 3",
-        "active": true,
+        "active": false,
         "date_updated": 1777330801,
         "date_posted": 1777327685,
         "url": "https://onto.wd1.myworkdayjobs.com/onto_careers/job/Wilmington-MA-Upton/Software-Engineer-3_R-5725",
@@ -304563,7 +304563,7 @@
         "company_name": "Applied Systems, Inc.",
         "id": "d499cf94-ecc6-4275-85e0-eb001645235d",
         "title": "Associate AI Engineer / AI Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1777330801,
         "date_posted": 1777327617,
         "url": "https://careers-appliedsystems.icims.com/jobs/7390/job?mobile=true&needsRedirect=false",
@@ -305861,7 +305861,7 @@
         "company_name": "The Boeing Company",
         "id": "b2b20084-9cac-474f-8a3d-03386ea8084d",
         "title": "Test & Evaluation Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1777414141,
         "date_posted": 1777414087,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Oklahoma-City-OK/Test---Evaluation-Engineer--Associate-or-Experienced-_JR2026500217",
@@ -309305,5 +309305,65 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "The Boeing Company",
+        "id": "31ac1bea-e976-40b4-83d2-322d74703e39",
+        "title": "ASIC/FPGA Verification Engineer Lead - Associate",
+        "active": true,
+        "date_updated": 1777621301,
+        "date_posted": 1777327680,
+        "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---El-Segundo-CA/ASIC-FPGA-Verification-Engineer----Associate--Experienced--or-Lead----SoCal_JR2025480380",
+        "locations": [
+            "Huntington Beach, CA",
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Handshake",
+        "id": "df48eea3-5a2b-4b7f-b554-5255c3f0c3c8",
+        "title": "Software Engineer 1 - Coding Pod",
+        "active": true,
+        "date_updated": 1777624381,
+        "date_posted": 1777327754,
+        "url": "https://jobs.ashbyhq.com/handshake/c8550c33-fd2c-4ba6-aa5a-d1e2574b0b06/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Handshake",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CACI",
+        "id": "333c88df-fbd0-4b76-9c74-9ae25ce079c8",
+        "title": "Technical Process Analyst",
+        "active": true,
+        "date_updated": 1777620961,
+        "date_posted": 1777327660,
+        "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-OH-Dayton/Technical-Process-Analyst_325356",
+        "locations": [
+            "Dayton, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
