@@ -309576,5 +309576,23 @@
         "date_posted": 1777636661,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1777636809,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.ashbyhq.com/preference%20model/44642065-e592-44ba-810d-a019703463b6",
+        "company_name": "Preference Model",
+        "title": "Machine Learning Engineer, RL Environments",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "0f0cb917-259e-49d8-adb0-1a4d884dfd28",
+        "date_posted": 1777636809,
+        "company_url": "",
+        "is_visible": true
     }
 ]
