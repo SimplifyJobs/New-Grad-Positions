@@ -303377,7 +303377,7 @@
         "company_name": "xAI",
         "id": "c4af72be-3beb-4321-af28-1206dea74e31",
         "title": "Data Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1777079161,
         "date_posted": 1777079121,
         "url": "https://job-boards.greenhouse.io/xai/jobs/5120884007",
@@ -303458,7 +303458,7 @@
         "company_name": "KLA",
         "id": "35c18a82-b472-47bb-85a9-013652def5d6",
         "title": "Senior AI Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1777268881,
         "date_posted": 1777266660,
         "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Senior-AI-Engineer_2636323",
@@ -303501,7 +303501,7 @@
         "company_name": "Uber",
         "id": "d62d3de7-401c-47a8-bbe7-6f823a9466d9",
         "title": "Software Engineer 2",
-        "active": true,
+        "active": false,
         "date_updated": 1777269357,
         "date_posted": 1777266573,
         "url": "https://www.uber.com/global/en/careers/list/158888/",
@@ -306311,7 +306311,7 @@
         "company_name": "Mixpanel",
         "id": "48ff5f79-c75d-4ba5-8486-934d9e21b582",
         "title": "Software Engineer - AI Product Insights",
-        "active": true,
+        "active": false,
         "date_updated": 1777424941,
         "date_posted": 1777079346,
         "url": "https://job-boards.greenhouse.io/mixpanel/jobs/7850958",
@@ -309124,6 +309124,67 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "KLA",
+        "id": "f1423916-5779-4671-b492-b9d1730988c0",
+        "title": "Algorithm Engineer - Deep Learning",
+        "active": true,
+        "date_updated": 1777621141,
+        "date_posted": 1777338408,
+        "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Algorithm-Engineer---Deep-Learning_2636294",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/KLA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "StubHub",
+        "id": "0bdd66d4-eea0-44c1-89f3-b4339d5a0e44",
+        "title": "Product Manager - International Fulfillment",
+        "active": true,
+        "date_updated": 1777621141,
+        "date_posted": 1777331515,
+        "url": "https://job-boards.eu.greenhouse.io/stubhubinc/jobs/4852092101",
+        "locations": [
+            "Culver City, CA",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/StubHub",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Teledyne",
+        "id": "a27b810d-be84-46d3-b2bb-d1b1a89cce7f",
+        "title": "Engineering Technician",
+        "active": true,
+        "date_updated": 1777621141,
+        "date_posted": 1777330854,
+        "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Hawthorne-CA-TDY/Engineering-Technician_REQ34019",
+        "locations": [
+            "West Athens, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/199b3c43-379a-408c-a6a8-980e79183038",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
         ]
     }
 ]
