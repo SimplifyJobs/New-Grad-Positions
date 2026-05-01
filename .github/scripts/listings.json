@@ -198050,7 +198050,7 @@
         "company_name": "Salesforce",
         "id": "9c9d72e2-4773-4a77-b5c5-5776ba645c14",
         "title": "Software Engineering AMTS/MTS \u2013 College Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1771640186,
         "date_posted": 1771640186,
         "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS-MTS--College-Grad-_JR330400-1",
@@ -234343,7 +234343,7 @@
         "company_name": "Plexus",
         "id": "b28ab799-b6e2-4b9b-b161-f8f9095da54f",
         "title": "Product Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773391904,
         "date_posted": 1771687155,
         "url": "https://plexus.wd5.myworkdayjobs.com/en-US/Plexus_Careers/job/Nampa-ID/Product-Engineer-II_R034605-2",
@@ -236370,7 +236370,7 @@
         "company_name": "Cadence Design Systems",
         "id": "848d8c63-8d7e-4df0-b116-c6d859202dbc",
         "title": "Scientific Software Developer 2 - Modeler",
-        "active": true,
+        "active": false,
         "date_updated": 1773490285,
         "date_posted": 1773490285,
         "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SANTA-FE-01/Scientific-Software-Developer-II---Modeler_R53423-2",
@@ -243990,7 +243990,7 @@
         "company_name": "SS&C",
         "id": "53f8bdca-c771-4216-aa5e-b677249f2951",
         "title": "Software and Data Engineer - Financial Technology - Launch Program",
-        "active": false,
+        "active": true,
         "date_updated": 1773960142,
         "date_posted": 1773960142,
         "url": "https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Union-NJ/Software---Data-Engineer---Financial-Technology---Launch-Program_R42203",
@@ -290307,7 +290307,7 @@
         "company_name": "Centene",
         "id": "942c2e5f-98c2-4818-a2a3-44d04e6f3dff",
         "title": "Business Solutions Developer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1776406218,
         "date_posted": 1776405883,
         "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-OK/Business-Solutions-Developer-I_1635645",
@@ -309750,6 +309750,86 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GE Aerospace",
+        "id": "9df6038d-c901-459f-8ebf-f7c5ff74f9cb",
+        "title": "Instrumentation & Testing Technician",
+        "active": true,
+        "date_updated": 1777674044,
+        "date_posted": 1777673246,
+        "url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Bromont/Technicienne-Instrumentation---Essais_R5033363-1",
+        "locations": [
+            "Sherbrooke, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Aerospace",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Vishay Intertechnology",
+        "id": "7c4ed2a3-4c70-4fa6-88b4-5da04188cea4",
+        "title": "Prototype Operator 1",
+        "active": true,
+        "date_updated": 1777674061,
+        "date_posted": 1777673218,
+        "url": "https://vishay.wd3.myworkdayjobs.com/VishayCareers/job/Duluth-MN/Prototype-Operator-1_JR-16314",
+        "locations": [
+            "Duluth, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Vishay-Intertechnology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Columbia Sportswear Company",
+        "id": "f831eb93-36f9-4c8a-a28e-008ef94b52a6",
+        "title": "Product Line Management Specialist 1 - Outerwear",
+        "active": true,
+        "date_updated": 1777673479,
+        "date_posted": 1777673044,
+        "url": "https://columbiasportswearcompany.wd5.myworkdayjobs.com/en-US/CSC_Careers/job/Portland-Oregon-United-States-of-America/Product-Line-Management-Specialist-I---Outerwear_R-019249-3",
+        "locations": [
+            "Portland, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Columbia-Sportswear-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Analog Devices",
+        "id": "7081e16b-f15b-4e38-a15b-78487aafe67a",
+        "title": "Product Applications Engineer",
+        "active": true,
+        "date_updated": 1777673394,
+        "date_posted": 1777672992,
+        "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-CA-San-Jose-Rio-Robles/Engineer--Product-Applications_R262273",
+        "locations": [
+            "Colorado Springs, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Analog-Devices",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
