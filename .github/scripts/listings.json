@@ -1,62 +1,5 @@
 [
     {
-        "date_updated": 1756904460,
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "degrees": [],
-        "url": "https://jobs.lever.co/ivo/1629cbb2-c07c-4214-a1e2-b4e96c9cc66c",
-        "company_name": "Ivo",
-        "title": "Software Engineer",
-        "locations": [
-            "San Francisco, CA"
-        ],
-        "category": "Software Engineering",
-        "source": "GovindKurapati",
-        "id": "5a988adb-dc36-4b80-98e3-95ce67531a2d",
-        "date_posted": 1756904460,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1756905852,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": false,
-        "degrees": [
-            "Master's"
-        ],
-        "url": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/6852163003",
-        "company_name": "Freeform",
-        "title": "Software Engineer",
-        "locations": [
-            "Los Angeles, CA"
-        ],
-        "category": "Software Engineering",
-        "source": "Simplify",
-        "id": "31774807-59f7-426e-b32a-a86fcc025827",
-        "date_posted": 1756905852,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1757118163,
-        "sponsorship": "Other",
-        "active": true,
-        "degrees": [],
-        "url": "https://jobs.ashbyhq.com/jerry.ai/88345c93-ae5e-416b-af29-69d8ea6fde78",
-        "company_name": "Jerry",
-        "title": "Software Engineer I",
-        "locations": [
-            "San Francisco, CA",
-            "Palo Alto, CA"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "685076cd-8147-403f-90a1-b01171ef0304",
-        "date_posted": 1756906002,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
         "date_updated": 1761563773,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": false,
@@ -230861,7 +230804,7 @@
         "company_name": "Roku",
         "id": "5de5f9a5-8bea-40c2-8121-4ed65352ed36",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773267361,
         "date_posted": 1773267361,
         "url": "https://www.weareroku.com/jobs/7680250?gh_jid=7680250",
@@ -291890,7 +291833,7 @@
         "company_name": "The Boeing Company",
         "id": "fc62bd14-6784-4daa-b8b8-a7fd8ffe2fc9",
         "title": "Associate Software Engineer-Vehicle Management Systems",
-        "active": true,
+        "active": false,
         "date_updated": 1776463921,
         "date_posted": 1776463865,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seal-Beach-CA/Associate-Software-Engineer-Vehicle-Management-Systems_JR2026498339-1",
