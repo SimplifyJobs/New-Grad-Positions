@@ -304020,7 +304020,7 @@
         "company_name": "Ferrovial",
         "id": "2dbfae20-7f16-48c6-9458-c59e6bc9a70a",
         "title": "Digital Product Builder - AI Native",
-        "active": true,
+        "active": false,
         "date_updated": 1777330983,
         "date_posted": 1777327823,
         "url": "https://ferrovial.wd3.myworkdayjobs.com/ferrovial_career_site/job/Austin-TX/Digital-Product-Builder--AI-Native-_JR17031",
@@ -304160,7 +304160,7 @@
         "company_name": "PricewaterhouseCoopers (PwC)",
         "id": "7cd77ec8-5d24-40e8-9b60-e84071d3657b",
         "title": "Tax Innovation - Product Management",
-        "active": true,
+        "active": false,
         "date_updated": 1777330261,
         "date_posted": 1777327788,
         "url": "https://pwc.wd3.myworkdayjobs.com/en-US/US_Experienced_Careers/job/TX-Dallas/Tax-Innovation---Product-Management---Experienced-Associate_724571WD",
@@ -304626,7 +304626,7 @@
         "company_name": "Bluestaq",
         "id": "73624c9f-6f6d-468a-8b0d-4b59c8ed5fc0",
         "title": "Senior Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1777330983,
         "date_posted": 1777327823,
         "url": "https://job-boards.greenhouse.io/bluestaq/jobs/4226413009",
@@ -309186,5 +309186,124 @@
             "Bachelor's",
             "Associate's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Expedia Group",
+        "id": "36203047-d486-4a93-98b0-89068df2d3e2",
+        "title": "Data Scientist 1 - Analytics",
+        "active": true,
+        "date_updated": 1777626788,
+        "date_posted": 1777626650,
+        "url": "https://expedia.wd108.myworkdayjobs.com/private/job/UK---London/Data-Scientist-I--Analytics_R-105457",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Expedia-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "d18df712-a105-4c52-9b16-98131eb8e706",
+        "title": "Full Stack Web Developer - Aht",
+        "active": true,
+        "date_updated": 1777621141,
+        "date_posted": 1777330959,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Beavercreek/Full-Stack-Web-Developer--AHT-_R10231048",
+        "locations": [
+            "Beavercreek, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "StubHub",
+        "id": "8cbc90d5-72b9-40b1-9062-9186bd4dfb16",
+        "title": "Senior Product Manager - International Fulfillment",
+        "active": true,
+        "date_updated": 1777621141,
+        "date_posted": 1777331518,
+        "url": "https://job-boards.eu.greenhouse.io/stubhubinc/jobs/4852100101",
+        "locations": [
+            "Culver City, CA",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/StubHub",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "StubHub",
+        "id": "ac239c23-e4b8-4e58-8b69-b5a6f41592c2",
+        "title": "Senior Product Manager - International Fulfillment",
+        "active": true,
+        "date_updated": 1777621141,
+        "date_posted": 1777331517,
+        "url": "https://job-boards.eu.greenhouse.io/stubhubinc/jobs/4852099101",
+        "locations": [
+            "Culver City, CA",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/StubHub",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Dairyland Power Cooperative",
+        "id": "39ca7707-c444-432c-b2aa-9f6d2957fe52",
+        "title": "GIS Specialist 1",
+        "active": true,
+        "date_updated": 1777621141,
+        "date_posted": 1777331003,
+        "url": "https://dairynet.wd1.myworkdayjobs.com/DPCcareers/job/La-Crosse-Wisconsin/GIS-Specialist-I_JR100947",
+        "locations": [
+            "Winona, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Dairyland-Power-Cooperative",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "M&G",
+        "id": "6d35e7f1-d238-4a42-bcbc-af9626b7a1fb",
+        "title": "Data Engineer Associate",
+        "active": true,
+        "date_updated": 1777626001,
+        "date_posted": 1777039447,
+        "url": "https://mgpru.wd3.myworkdayjobs.com/mandgprudential/job/London/Data-Engineer_R19149",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/M-And-G",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
