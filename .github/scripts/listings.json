@@ -302287,7 +302287,7 @@
         "company_name": "Wells Fargo",
         "id": "0d8a9b1a-68d2-44d6-9e7b-06ecb88aca7b",
         "title": "Securities Algorithmic Trading Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1777039741,
         "date_posted": 1777039592,
         "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CITY-OF-LONDON/Securities-Algorithmic-Trading-Associate_R-540211",
@@ -305197,7 +305197,7 @@
         "company_name": "CommScope",
         "id": "8ee4e3c7-9271-4031-957d-2ee59e7d845c",
         "title": "Designer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1777385566,
         "date_posted": 1777385130,
         "url": "https://jobs.commscope.com/job/Shakopee-Designer-I-Minn/1386093700/?ats=successfactors",
@@ -305360,7 +305360,7 @@
         "company_name": "The Boeing Company",
         "id": "75d900a3-9094-405d-8583-e193696ee756",
         "title": "Test & Evaluation Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1777414141,
         "date_posted": 1777414062,
         "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Oklahoma-City-OK/Test---Evaluation-Engineer--Associate-or-Experienced-_JR2026500217-2",
@@ -306110,7 +306110,7 @@
         "company_name": "KLA",
         "id": "01378cfe-ec89-4391-a220-513fca679f77",
         "title": "System Engineer - Optical Imaging System",
-        "active": true,
+        "active": false,
         "date_updated": 1777414141,
         "date_posted": 1777414096,
         "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/System-Engineer---Optical-Imaging-System_2636452",
@@ -309111,7 +309111,7 @@
         "company_name": "Walmart",
         "id": "fa7f7383-4e2e-4f23-b0cb-3f3d596388ce",
         "title": "Software Engineer 3 - Fullstack",
-        "active": true,
+        "active": false,
         "date_updated": 1777619579,
         "date_posted": 1777039667,
         "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/Software-Engineer-III---Fullstack_R-2435586",
@@ -309360,6 +309360,44 @@
             "Dayton, OH"
         ],
         "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Fractional AI",
+        "id": "d0d8b925-c9ea-4502-8d29-860e9162c0ec",
+        "title": "Forward Deployed Product Manager Associate",
+        "active": true,
+        "date_updated": 1777628434,
+        "date_posted": 1777414112,
+        "url": "https://jobs.ashbyhq.com/fractional-ai/ccd11e11-7167-4e58-833b-1a7c64652c47/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Fractional-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ibotta",
+        "id": "59ff6265-2893-4625-b1e2-1046c77d0b72",
+        "title": "Associate Machine Learning Engineer",
+        "active": true,
+        "date_updated": 1777622041,
+        "date_posted": 1777414124,
+        "url": "https://ibotta.wd1.myworkdayjobs.com/en-US/Ibotta/job/Denver-CO/Associate-Machine-Learning-Engineer_R-102468",
+        "locations": [
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/ibotta",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
