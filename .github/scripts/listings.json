@@ -305961,7 +305961,7 @@
         "company_name": "Target",
         "id": "783be461-b0ac-4f7f-b55b-fe476714e7e3",
         "title": "Associate Buyer - Newborn Sportswear",
-        "active": true,
+        "active": false,
         "date_updated": 1777414501,
         "date_posted": 1777414333,
         "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Associate-Buyer--Newborn-Sportswear_R0000436995",
@@ -309402,6 +309402,27 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "ce48ddb5-e8b7-4b5f-a82f-62cc7945f2b7",
+        "title": "Research Scientist - Tiktok Recommendation - Nextgen LLM",
+        "active": true,
+        "date_updated": 1777622221,
+        "date_posted": 1777425028,
+        "url": "https://lifeattiktok.com/search/7633605978976520453",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "PhD"
         ]
     }
 ]
