@@ -309517,5 +309517,23 @@
         "date_posted": 1777636152,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1777636540,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://alliedsolutions.wd501.myworkdayjobs.com/en-US/allied_external/job/Carmel-IN/Junior-Software-Engineer--On-Site--IN-_R-010763",
+        "company_name": "Allied Solutions",
+        "title": "Junior Software Engineer",
+        "locations": [
+            "Carmel, IN"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "afc19666-f28b-42b2-b162-4bf5830cf1bc",
+        "date_posted": 1777636540,
+        "company_url": "",
+        "is_visible": true
     }
 ]
