@@ -309465,7 +309465,7 @@
         ]
     },
     {
-        "date_updated": 1777635482,
+        "date_updated": 1777635520,
         "sponsorship": "Other",
         "active": true,
         "degrees": [],
@@ -309473,7 +309473,7 @@
         "company_name": "Speechify",
         "title": "Software Engineer, iOS Core Product",
         "locations": [
-            "College Park"
+            "College Park, MD"
         ],
         "category": "Software Engineering",
         "source": "AlmondCroffle",
