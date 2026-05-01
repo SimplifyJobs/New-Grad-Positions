@@ -309535,5 +309535,26 @@
         "date_posted": 1777636540,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1777636575,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Master's"
+        ],
+        "url": "https://job-boards.greenhouse.io/figma/jobs/5976930004?gh_jid=5976930004",
+        "company_name": "Figma",
+        "title": "Data Scientist, Core Data",
+        "locations": [
+            "New York, NY",
+            "San Francisco, CA"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "c924c806-5fa8-4f1d-9765-da6d89a05dc7",
+        "date_posted": 1777636575,
+        "company_url": "",
+        "is_visible": true
     }
 ]
