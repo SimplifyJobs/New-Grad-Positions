@@ -4994,27 +4994,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "Roblox",
-        "id": "cb516fb8-a980-4251-9c89-91f871f258b4",
-        "title": "Associate Product Manager - Early Career",
-        "active": false,
-        "date_updated": 1757969510,
-        "date_posted": 1756867324,
-        "url": "https://careers.roblox.com/jobs/7167343?gh_jid=7167343",
-        "locations": [
-            "San Mateo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Roblox",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "WhatNot",
         "id": "38cca989-4499-494a-9df9-4b012d5d184a",
@@ -116715,24 +116694,6 @@
             "Seattle, WA"
         ],
         "company_url": "https://simplify.jobs/c/Vertiv",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Riot Platforms",
-        "id": "02e5e20e-9eda-4ba0-a382-35ea2a103787",
-        "title": "Electrical Technician",
-        "active": false,
-        "date_updated": 1764582297,
-        "date_posted": 1756867419,
-        "url": "https://ats.rippling.com/riot-platforms-careers/jobs/8c630f22-84dc-4216-aba1-c4cf876c8eb2",
-        "locations": [
-            "Palmer, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Riot-Platforms",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
