@@ -286636,7 +286636,7 @@
         "company_name": "SpaceX",
         "id": "c1692f3c-b3b4-4868-9f98-80a05b54fb92",
         "title": "Software Engineer - Starlink",
-        "active": true,
+        "active": false,
         "date_updated": 1776293832,
         "date_posted": 1776291448,
         "url": "https://boards.greenhouse.io/spacex/jobs/8479562002",
