@@ -4654,27 +4654,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Decagon",
-        "id": "76bd6015-beee-4e02-bb81-8d04bfc62f4e",
-        "title": "Agent Software Engineer \u2013 New Grad - 2026 Start",
-        "active": false,
-        "date_updated": 1758362035,
-        "date_posted": 1756943431,
-        "url": "https://jobs.ashbyhq.com/decagon/2a435dd5-1212-42bb-ae5a-d7432902acd2/application",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Decagon",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Ciena",
         "id": "de2c5aa8-afd1-4d9f-9968-0e3901597227",
         "title": "PON Software Engineer \u2013 New Grad",
@@ -224619,7 +224598,7 @@
         "company_name": "Applied Materials",
         "id": "56974fa2-3b47-4f26-817c-f54222582f14",
         "title": "Associate Product Manager New College Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1772841690,
         "date_posted": 1772841690,
         "url": "https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Associate-Product-Manager--New-College-Grad--Bachelors---Austin--TX-_R2614157",
@@ -300760,7 +300739,7 @@
         "company_name": "Freddie Mac",
         "id": "a8b0bbd9-44c1-4f9f-8f8b-db526e539a87",
         "title": "Software Engineering Professional",
-        "active": false,
+        "active": true,
         "date_updated": 1776982141,
         "date_posted": 1776982136,
         "url": "https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Software-Engineering-Professional_JR16942",
@@ -310252,5 +310231,45 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Cummins",
+        "id": "c4104d08-4ae9-432f-ae1f-adcec9e6eab4",
+        "title": "Product Functional Test Engineer",
+        "active": true,
+        "date_updated": 1777674465,
+        "date_posted": 1777673095,
+        "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2428654",
+        "locations": [
+            "Fitchburg, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Cummins",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's",
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "The Boeing Company",
+        "id": "c4c045a8-a538-4166-a769-2fe2efb978db",
+        "title": "Metrology and Calibration Specialist - Associate - Mid-Level",
+        "active": true,
+        "date_updated": 1777674197,
+        "date_posted": 1777673302,
+        "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Seattle-WA/Metrology-and-Calibration-Specialist--Associate---Mid-Level-_JR2026507346-1",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
