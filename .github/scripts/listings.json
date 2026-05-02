@@ -1,46 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "RTX",
-        "id": "f17fa82b-c567-40fa-832e-1afe7d5bcce8",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1756953611,
-        "date_posted": 1756953611,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HIA32-Cedar-Rapids-IA-400-Collins-Rd-NE---Cedar-Rapids-IA-52498-0505-USA/Software-Engineer-I--Onsite-_01784317-1",
-        "locations": [
-            "Cedar Rapids, IA"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "RTX",
-        "id": "db912136-78e3-4b91-a39a-27c5c8121d74",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1756953612,
-        "date_posted": 1756953612,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HIA32-Cedar-Rapids-IA-400-Collins-Rd-NE---Cedar-Rapids-IA-52498-0505-USA/Software-Engineer-I--Onsite-_01787856-1",
-        "locations": [
-            "Cedar Rapids, IA"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Torc Robotics",
         "id": "ef1b6510-b1fa-4caf-bfbf-52e30e4d8823",
@@ -244625,7 +244585,7 @@
         "company_name": "Viavi Solutions",
         "id": "a40196b7-ef85-466b-9bd6-88c51ff5b496",
         "title": "Calibration Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1773958971,
         "date_posted": 1773958971,
         "url": "https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Paeonian-Springs-VA-USA/Calibration-Technician_260004447-2",
