@@ -241,26 +241,6 @@
         ]
     },
     {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "The Boeing Company",
-        "id": "4098078f-4134-4979-b41f-7dabd027c11e",
-        "title": "Entry Level Software Engineer-Test & Verification",
-        "active": false,
-        "date_updated": 1757021587,
-        "date_posted": 1757021587,
-        "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Kent-WA/Entry-Level-Software-Engineer-Test---Verification_JR2025468499-2",
-        "locations": [
-            "Kent, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Boeing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "date_updated": 1759378176,
         "sponsorship": "Offers Sponsorship",
         "active": false,
@@ -1390,26 +1370,6 @@
         "is_visible": true,
         "sponsorship": "Does Not Offer Sponsorship",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "OffDeal",
-        "id": "ec2ac102-621a-441e-a40d-c2e78d929bcc",
-        "title": "Founding Full Stack Engineer",
-        "active": false,
-        "date_updated": 1757493150,
-        "date_posted": 1757022331,
-        "url": "https://jobs.ashbyhq.com/offdeal/92b99c6b-e4e1-4e18-8a21-01b341cd1a1a/application",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/OffDeal",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "date_updated": 1757507941,
