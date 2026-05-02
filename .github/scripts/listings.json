@@ -4194,28 +4194,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "WhatNot",
-        "id": "38cca989-4499-494a-9df9-4b012d5d184a",
-        "title": "Software Engineer \u2013 2026 New Grad",
-        "active": false,
-        "date_updated": 1758377502,
-        "date_posted": 1757023972,
-        "url": "https://jobs.ashbyhq.com/whatnot/bc8f8c7f-2c4c-4f43-a238-953568c101b8/application",
-        "locations": [
-            "SF",
-            "LA",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/WhatNot",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "PathAI",
         "id": "c02dfa55-86e8-4965-9800-7ea301501001",
@@ -156131,7 +156109,7 @@
         "company_name": "Microchip Technology",
         "id": "eeccc732-4403-4fa2-a11a-eac4778b282b",
         "title": "Engineer 1 - Software - FPGA Timing and Power",
-        "active": false,
+        "active": true,
         "date_updated": 1769642413,
         "date_posted": 1769642413,
         "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/CA---San-Jose---3850-N-First-St/Engineer-I---Software--FPGA-Timing-and-Power-_R1912-25",
