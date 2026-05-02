@@ -1,24 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "RELX",
-        "id": "819cf53e-93a1-4d6f-a7b7-496a8a3fee30",
-        "title": "Aspire Tech Graduate Software Engineer I",
-        "active": false,
-        "date_updated": 1761845191,
-        "date_posted": 1756949852,
-        "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Raleigh-NC/Aspire-Tech-Graduate-Software-Engineer-I_R100927-1",
-        "locations": [
-            "Raleigh, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/RELX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "RTX",
         "id": "f17fa82b-c567-40fa-832e-1afe7d5bcce8",
@@ -5312,26 +5294,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "American Express",
-        "id": "24ba20e7-0e3a-4da8-b708-a448823b1663",
-        "title": "Software Engineer 1 - Servicing Engineering",
-        "active": false,
-        "date_updated": 1758623413,
-        "date_posted": 1756950503,
-        "url": "https://aexp.eightfold.ai/careers/job/30954270",
-        "locations": [
-            "Plantation, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/American-Express",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
