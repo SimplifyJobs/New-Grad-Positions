@@ -1,27 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Jerry",
-        "id": "6e14a783-e5c6-43f4-97d0-83e2db840795",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1757015797,
-        "date_posted": 1757015797,
-        "url": "https://jobs.ashbyhq.com/jerry.ai/095ecb99-75f7-4f82-bac7-45fa2db917c6/application",
-        "locations": [
-            "Toronto, ON, Canada",
-            "Greater Toronto Area, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Jerry",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "ICF",
         "id": "d000a238-f90b-4c63-bfb9-69725e027ef3",
