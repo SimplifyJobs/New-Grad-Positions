@@ -193405,7 +193405,7 @@
         "company_name": "Stryker",
         "id": "b4471bf9-11c3-40d3-a630-546ac6c13580",
         "title": "Associate Installation Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1771544741,
         "date_posted": 1771544741,
         "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Minnesota-Minneapolis-Virtual-Address/Associate-Installation-Technician---Minneapolis--MN_R560474",
@@ -292694,7 +292694,7 @@
         "company_name": "J.Crew",
         "id": "6db20bd4-70e7-45e9-b8b9-c5e510bee9d6",
         "title": "Assistant Women's Denim Designer",
-        "active": true,
+        "active": false,
         "date_updated": 1776525479,
         "date_posted": 1776523490,
         "url": "https://jcrew.wd1.myworkdayjobs.com/MadewellCareers/job/New-York-NY-USA-Headquarters/Assistant-Womens-Denim-Designer_121754",
@@ -296988,7 +296988,7 @@
         "company_name": "University System of New Hampshire",
         "id": "cacb10ac-01e2-41d4-a0ff-230c23c674ea",
         "title": "Research Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1776809161,
         "date_posted": 1776809066,
         "url": "https://usnh.wd5.myworkdayjobs.com/Careers/job/University-of-New-Hampshire--Main-Campus/Research-Assistant_JR7534",
@@ -298005,7 +298005,7 @@
         "company_name": "University of Texas at Austin",
         "id": "8ef14bc1-dc0d-4382-a505-75a002f977ba",
         "title": "Seismology Postdoctoral Fellow",
-        "active": true,
+        "active": false,
         "date_updated": 1776505861,
         "date_posted": 1776505687,
         "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/PICKLE-RESEARCH-CAMPUS/Seismology-Postdoctoral-Fellow_R_00028107",
@@ -309914,6 +309914,46 @@
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-848--1151-E-Hermans-Rd--BLDG-848/XMLNAME-2026-Systems-Engineer-II---Onsite_01833770",
         "locations": [
             "Tucson, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CoStar Group",
+        "id": "d36f8484-ae42-463f-be8c-029a9dbeeeeb",
+        "title": "Software Engineer 1 - C#/.NET/Database",
+        "active": true,
+        "date_updated": 1777713742,
+        "date_posted": 1777713202,
+        "url": "https://costar.wd1.myworkdayjobs.com/en-US/CoStarCareers/job/Orange-County---CA/Apartmentscom---Software-Engineer-I--C--NET-Database-_R38698",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/CoStar",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "9e27b5db-ca18-4294-8002-2ac68e208ba9",
+        "title": "Systems Engineer 2",
+        "active": true,
+        "date_updated": 1777715965,
+        "date_posted": 1777714884,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-ANDOVER-AN1--350-Lowell-St--AN1-ESSEX-BLDG/XMLNAME-2026--Fulltime--Systems-Engineer-II-Onsite_01821694",
+        "locations": [
+            "Andover, MA"
         ],
         "company_url": "https://simplify.jobs/c/RTX",
         "is_visible": true,
