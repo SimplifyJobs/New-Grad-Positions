@@ -262515,7 +262515,7 @@
         "company_name": "Osaic",
         "id": "73742094-6ace-4fdb-b8a6-c19ed5e941df",
         "title": "Finance Business Intelligence Analyst 1",
-        "active": true,
+        "active": false,
         "date_updated": 1775004165,
         "date_posted": 1774994666,
         "url": "https://advisorgroup.wd1.myworkdayjobs.com/advisor_career_site/job/Scottsdale-AZ/Finance-Business-Intelligence-Analyst-I_R0004832",
@@ -300491,7 +300491,7 @@
         "company_name": "Daimler Truck",
         "id": "d3e4240a-cec7-45f5-ada9-b9781c28da73",
         "title": "Product Engineer 1 - Hoods & Fenders",
-        "active": true,
+        "active": false,
         "date_updated": 1776982364,
         "date_posted": 1776981931,
         "url": "https://dtna.wd5.myworkdayjobs.com/dtna_affiliate/job/Portland-OR-US/Product-Engineer-I---Hoods---Fenders_DT-17642-1",
@@ -308466,7 +308466,7 @@
         "company_name": "Northrop Grumman",
         "id": "d18df712-a105-4c52-9b16-98131eb8e706",
         "title": "Full Stack Web Developer - Aht",
-        "active": true,
+        "active": false,
         "date_updated": 1777621141,
         "date_posted": 1777330959,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Beavercreek/Full-Stack-Web-Developer--AHT-_R10231048",
@@ -309900,6 +309900,26 @@
         "degrees": [
             "Bachelor's",
             "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "6faf144d-6d33-484b-85e8-6820b53627b9",
+        "title": "Systems Engineer 2",
+        "active": true,
+        "date_updated": 1777717620,
+        "date_posted": 1777716618,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-848--1151-E-Hermans-Rd--BLDG-848/XMLNAME-2026-Systems-Engineer-II---Onsite_01833770",
+        "locations": [
+            "Tucson, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
         ]
     }
 ]
