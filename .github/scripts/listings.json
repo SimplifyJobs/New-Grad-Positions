@@ -1,171 +1,5 @@
 [
     {
-        "date_updated": 1762901585,
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "degrees": [],
-        "url": "https://job-boards.greenhouse.io/2k/jobs/6688546003",
-        "company_name": "2K",
-        "title": "US Engineering Graduate Program",
-        "locations": [
-            "Novato, CA"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "21cee484-13c4-4247-a902-433f798e3356",
-        "date_posted": 1756974823,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1759329517,
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "degrees": [],
-        "url": "https://jobs.smartrecruiters.com/LinkedIn3/a3b09881-7c3e-444c-9e65-ac0e2c6a8970",
-        "company_name": "LinkedIn",
-        "title": "Associate Product Builder (APB) - Rotational Program",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "category": "Hardware Engineering",
-        "source": "AlmondCroffle",
-        "id": "3e6d5800-52c8-44e0-be8e-5f84a254e43a",
-        "date_posted": 1756975007,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1762272655,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": false,
-        "degrees": [],
-        "url": "https://careers.roblox.com/jobs/7167345",
-        "company_name": "Roblox",
-        "title": "Associate Product Designer, Early Career",
-        "locations": [
-            "San Mateo, CA"
-        ],
-        "category": "Other",
-        "source": "AlmondCroffle",
-        "id": "e1ef069c-abb6-492b-b919-ad27e9d8b2a0",
-        "date_posted": 1756975094,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1762956465,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": false,
-        "degrees": [],
-        "url": "https://careers.roblox.com/jobs/7167343",
-        "company_name": "Roblox",
-        "title": "Associate Product Manager, Early Career",
-        "locations": [
-            "San Mateo, CA"
-        ],
-        "category": "Product Management",
-        "source": "AlmondCroffle",
-        "id": "1999e97d-22a7-45fa-a212-7880e1abc0d7",
-        "date_posted": 1756975135,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1756975226,
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "degrees": [],
-        "url": "https://stripe.com/jobs/listing/software-engineer-new-grad/7210112",
-        "company_name": "Stripe",
-        "title": "Software Engineer",
-        "locations": [
-            "San Francisco, CA",
-            "Seattle, WA"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "91eec74c-6598-4669-a40f-38c2dc8adbce",
-        "date_posted": 1756975226,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1762413832,
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "degrees": [],
-        "url": "https://viavisolutions.wd1.myworkdayjobs.com/en-US/careers/job/Minnetonka-MN-USA/Early-Careers-Rotational-Program---R-D-Engineer--AI-_250003743-1",
-        "company_name": "VIAVI",
-        "title": "Early Careers Rotational Program - R&D Engineer (AI)",
-        "locations": [
-            "Minnetonka, MN"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "AlmondCroffle",
-        "id": "029395e6-da90-46b8-8027-b4a3169ff396",
-        "date_posted": 1756975605,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1760394701,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
-        "degrees": [],
-        "url": "https://cigna.wd5.myworkdayjobs.com/en-US/cignacareers/job/St-Louis-MO/Technology-Development-Program--TECDP-----Artificial-Intelligence-Track---Start-Date--July-13--2026_25011433",
-        "company_name": "The Cigna Group",
-        "title": "Technology Development Program (TECDP) - Artificial Intelligence",
-        "locations": [
-            "St. Louis, MO",
-            "Morris Plains, NJ",
-            "Bloomfield, CT",
-            "Austin, TX"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "AlmondCroffle",
-        "id": "52d706e2-5eb3-4f0c-b19b-c8c6506f6863",
-        "date_posted": 1756975770,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1757983453,
-        "sponsorship": "Other",
-        "active": true,
-        "degrees": [],
-        "url": "https://td.wd3.myworkdayjobs.com/en-US/td_bank_careers/job/New-York-New-York/XMLNAME-2026-Summer-Associate---Quantitative-Rotational-Program_R_1441549",
-        "company_name": "TD",
-        "title": "Quantitative Rotational Program",
-        "locations": [
-            "New York, NY"
-        ],
-        "category": "Quantitative Finance",
-        "source": "AlmondCroffle",
-        "id": "2c672e97-b9d8-4746-b76f-bf758f8ad8ab",
-        "date_posted": 1756975875,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1757032337,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "degrees": [],
-        "url": "https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Bellevue-Washington/Associate-AI-Engineer_REQ329843-1",
-        "company_name": "T-Mobile",
-        "title": "Associate AI Engineer",
-        "locations": [
-            "Bellevue, WA"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "AlmondCroffle",
-        "id": "0e7c6e6e-9a7e-48c4-b9a6-e78be48d2066",
-        "date_posted": 1756975959,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
         "date_updated": 1760394430,
         "sponsorship": "U.S. Citizenship is Required",
         "active": true,
@@ -175105,7 +174939,7 @@
         "company_name": "Roblox",
         "id": "583cb07a-8a7a-4df7-a6b7-fcf73518c51e",
         "title": "2026] Software Engineer \u2013 Early Career - Creator",
-        "active": true,
+        "active": false,
         "date_updated": 1770455420,
         "date_posted": 1769567552,
         "url": "https://careers.roblox.com/jobs/7557909?gh_jid=7557909",
@@ -301666,7 +301500,7 @@
         "company_name": "TekSynap",
         "id": "595ce8a0-ac56-46fb-84bf-8e1f3700101d",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1777020172,
         "date_posted": 1776377257,
         "url": "https://careers-teksynap.icims.com/jobs/9159/job?mobile=true&needsRedirect=false",
