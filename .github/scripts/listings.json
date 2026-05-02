@@ -2,26 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Eluvio",
-        "id": "2289d45d-63ec-47ab-90e2-b746dea4846a",
-        "title": "Software Engineer New Grad - Msc/Bsc: AI - Core - Apps",
-        "active": false,
-        "date_updated": 1756964826,
-        "date_posted": 1756964826,
-        "url": "https://apply.workable.com/eluvio/j/A349A0D2AF/apply",
-        "locations": [
-            "Berkeley, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Eluvio",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Mastercard",
         "id": "c46f1d49-efdf-41f5-b656-c45b25e49e9e",
         "title": "Software Engineer I",
@@ -281244,7 +281224,7 @@
         "company_name": "Warner Bros.",
         "id": "269d6830-ae46-4832-9885-3113813196d0",
         "title": "NCAA Digital Product Management Post Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1775974874,
         "date_posted": 1775974048,
         "url": "https://warnerbros.wd5.myworkdayjobs.com/global/job/GA-Atlanta-1050-Techwood-Drive-NW/NCAA-Digital-Post-Grad---Product-Management_R000104539-2",
@@ -307515,7 +307495,7 @@
         "company_name": "BlueCross BlueShield of South Carolina",
         "id": "373baa5a-e909-491c-8a8a-8d3019739b66",
         "title": "Statistical Programming 1 Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1777587485,
         "date_posted": 1777586784,
         "url": "https://ourhrconnect.wd501.myworkdayjobs.com/SCBlues/job/Columbia-South-Carolina/Statistical-Programming-I-Analyst_R1050442",
