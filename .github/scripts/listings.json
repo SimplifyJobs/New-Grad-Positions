@@ -57584,24 +57584,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "67caa4bb-cdd2-4f62-a0c2-556820fed452",
-        "title": "Student Researcher - Multimedia Streaming - 2026 Start','PhD",
-        "active": false,
-        "date_updated": 1762936926,
-        "date_posted": 1756958612,
-        "url": "https://jobs.bytedance.com/en/position/7538291329349699848/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "University of Chicago",
         "id": "4523bd9b-d7ed-4544-a231-7fab903aabd9",
         "title": "Research Professional",
@@ -257400,7 +257382,7 @@
         "company_name": "Bristol Myers Squibb",
         "id": "73d732e9-daa8-4b4a-b17d-e46edfbb0e87",
         "title": "Associate Director - 340B Technical & Methodology Analytics",
-        "active": true,
+        "active": false,
         "date_updated": 1774735745,
         "date_posted": 1774735745,
         "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Princeton---NJ---US/Associate-Director--340B-Technical---Methodology-Analytics_R1599843",
@@ -302109,7 +302091,7 @@
         "company_name": "Ohio State University",
         "id": "6dfd62b2-524e-48d5-b9a6-d849bb30508d",
         "title": "Assistant Professor in Artificial Intelligence in Geosciences - School of Earth Sciences",
-        "active": true,
+        "active": false,
         "date_updated": 1777068361,
         "date_posted": 1777068258,
         "url": "https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Columbus-Campus/Assistant-Professor-in-Artificial-Intelligence-in-Geosciences---School-of-Earth-Sciences_R149809-1",
