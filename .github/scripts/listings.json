@@ -2,24 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "RTX",
-        "id": "d22bfd21-36a7-4c9b-b6b7-bb42786f2303",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1756974704,
-        "date_posted": 1756948309,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MD440-8170-Maple-Lawn-Blvd-Fulton-MD-8170-Maple-Lawn-Boulevard---Fulton-MD-20759-USA/Software-Engineer-I--Onsite-_01789869",
-        "locations": [
-            "Fulton, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "U.S. Citizenship is Required",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "RELX",
         "id": "819cf53e-93a1-4d6f-a7b7-496a8a3fee30",
         "title": "Aspire Tech Graduate Software Engineer I",
@@ -197706,7 +197688,7 @@
         "company_name": "O'Reilly Auto Parts",
         "id": "c4e7c571-c61d-4a8a-a6ab-6415de632355",
         "title": "Electronic Catalog Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1771632705,
         "date_posted": 1771632705,
         "url": "https://oreillyauto.wd1.myworkdayjobs.com/oreilly/job/Store-03149-Phoenix-AZ/Electronic-Catalog-Technician-1_R165324",
@@ -310252,5 +310234,67 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "NVIDIA",
+        "id": "ae5192ab-5b33-474f-b52a-660a64e80529",
+        "title": "GPU Power Architect New Grad",
+        "active": true,
+        "date_updated": 1777684501,
+        "date_posted": 1777684077,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/GPU-Power-Architect---New-College-Grad-2026_JR2017169",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Applied Materials",
+        "id": "94f15a5c-8a74-4e99-b345-21e27c56015e",
+        "title": "Field Service Engineer",
+        "active": true,
+        "date_updated": 1777684141,
+        "date_posted": 1777683984,
+        "url": "https://amat.wd1.myworkdayjobs.com/External/job/ManassasVA/Field-Service-Engineer_R2616781",
+        "locations": [
+            "Manassas, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Materials",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Trimble",
+        "id": "5f444d76-30b9-4f3c-b59d-02b87278a169",
+        "title": "Embedded Software Engineer",
+        "active": true,
+        "date_updated": 1777684141,
+        "date_posted": 1777684062,
+        "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Embedded-Software-Engineer_R55888",
+        "locations": [
+            "Westminster, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Trimble",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
