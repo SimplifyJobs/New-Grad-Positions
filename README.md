@@ -10080,7 +10080,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>7mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Visa?utm_source=GHList&utm_medium=company">🔥 Visa</a></strong></td>
 <td>Software Engineer – New College Grad</td>
 <td>San Mateo, CA</td>
 <td>🔒</td>
@@ -10917,7 +10917,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (276)</summary>
+<summary>🗃️ Inactive roles (274)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -12845,20 +12845,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><strong>PDI Technologies</strong></td>
 <td>Junior Machine Learning Engineer 🛂</td>
 <td><details><summary><strong>4 locations</strong></summary>Alpharetta, GA</br>Temple, TX</br>Dallas, TX</br>Houston, TX</details></td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td><strong>Tria Federal</strong></td>
-<td>Data Analyst (BI/Reporting) Level I</td>
-<td>Falls Church, VA</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Data Analyst (Developer) Level I</td>
-<td>Falls Church, VA</td>
 <td>🔒</td>
 <td>7mo</td>
 </tr>
