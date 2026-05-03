@@ -2,44 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Aflac",
-        "id": "6e331d09-8412-461c-9326-14091f9ae7de",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1757077337,
-        "date_posted": 1757036054,
-        "url": "https://careers.aflac.com/job/Software-Engineer-I-GA-31999/1323022100/?ats=successfactors",
-        "locations": [
-            "Columbus, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Aflac",
-        "is_visible": false,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Ellipsis Labs",
-        "id": "04f4153d-3ef4-4c63-95fc-17771cca2eec",
-        "title": "Software Engineer \u2013 Intern & New Grad",
-        "active": false,
-        "date_updated": 1757036984,
-        "date_posted": 1757036984,
-        "url": "https://jobs.ashbyhq.com/ellipsislabs/caa49297-d5a3-4d03-b8c9-bdc7b77fb0bb/application",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Ellipsis-Labs",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Cox",
         "id": "38a259d5-f441-49c5-b9dd-4dc53890afba",
         "title": "Software Engineer I",
