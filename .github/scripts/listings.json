@@ -1,27 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Verisk",
-        "id": "61c189a1-2969-4b12-96d6-bfc94f7a1fd9",
-        "title": "Junior Data Scientist",
-        "active": false,
-        "date_updated": 1757111018,
-        "date_posted": 1757111018,
-        "url": "https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/1920",
-        "locations": [
-            "London, UK",
-            "Norwich, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Verisk",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Other",
         "company_name": "LexisNexis Risk Solutions",
         "id": "c93300ae-86b9-4433-993a-03a0e316ed71",
@@ -56279,42 +56258,6 @@
             "Crawley, UK"
         ],
         "company_url": "https://simplify.jobs/c/Viridien",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Varda Space",
-        "id": "cefaa0a9-dbe6-4fa6-899e-6ad4ab301ef1",
-        "title": "Vehicle Integration & Test",
-        "active": false,
-        "date_updated": 1761503462,
-        "date_posted": 1757110325,
-        "url": "https://job-boards.greenhouse.io/vardaspace/jobs/6972976003",
-        "locations": [
-            "El Segundo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Varda-Space",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "University of Texas - Austin",
-        "id": "65563218-7573-4d44-97ad-be967e30013e",
-        "title": "R&D Machine Learning Engineer - Engineering Scientist Associate",
-        "active": false,
-        "date_updated": 1757110045,
-        "date_posted": 1757110045,
-        "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/PICKLE-RESEARCH-CAMPUS/R-D-Machine-Learning-Engineer--Engineering-Scientist-Associate-_R_00041479",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/University-Of-Texas-Austin",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -117230,24 +117173,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Endurance Lift Solutions",
-        "id": "156fbb22-101d-4be2-a006-1672eed62175",
-        "title": "ESP Shop Technician",
-        "active": false,
-        "date_updated": 1757110084,
-        "date_posted": 1757110084,
-        "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/2449757",
-        "locations": [
-            "Oklahoma City, OK"
-        ],
-        "company_url": "https://simplify.jobs/c/277ab406-217f-45ac-b285-f48603ac23d5",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -309320,5 +309245,45 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Testlio",
+        "id": "cd218df1-f792-49c8-a221-64af3ff15f82",
+        "title": "Freelancer Software Tester - Android TV",
+        "active": true,
+        "date_updated": 1777846861,
+        "date_posted": 1777846711,
+        "url": "https://job-boards.greenhouse.io/testlio/jobs/7868772",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Testlio",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Enbridge",
+        "id": "a16b92cc-70eb-4894-b73a-79073b23ed57",
+        "title": "Engineer in Training 1 - Data Intelligence & Decision Support",
+        "active": true,
+        "date_updated": 1777846138,
+        "date_posted": 1777845890,
+        "url": "https://enbridge.wd3.myworkdayjobs.com/enbridge_careers/job/Houston-TX-USA/Engineer-in-Training-I_71266-1",
+        "locations": [
+            "Houston, TX",
+            "Calgary, AB, Canada",
+            "Edmonton, AB, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Enbridge",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
