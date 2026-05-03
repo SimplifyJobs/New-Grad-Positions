@@ -1,44 +1,5 @@
 [
     {
-        "date_updated": 1762413450,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": false,
-        "degrees": [],
-        "url": "https://jobs.lever.co/pditechnologies/dabd35a1-a15f-4702-8beb-f4c5d6a3d837",
-        "company_name": "PDI Technologies",
-        "title": "Junior Machine Learning Engineer",
-        "locations": [
-            "Alpharetta, GA",
-            "Temple, TX",
-            "Dallas, TX",
-            "Houston, TX"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "AlmondCroffle",
-        "id": "1c4a0a4c-0df8-4028-a421-574c74a14f93",
-        "date_posted": 1757080975,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1757384911,
-        "sponsorship": "Other",
-        "active": true,
-        "degrees": [],
-        "url": "https://hczw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/12967",
-        "company_name": "CSC",
-        "title": "Junior Data Analyst",
-        "locations": [
-            "Wilmington, DE"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "AlmondCroffle",
-        "id": "f1309916-9513-4209-a282-9bd27dcf2245",
-        "date_posted": 1757081227,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
         "date_updated": 1757101807,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
