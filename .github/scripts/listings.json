@@ -2,67 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Cox",
-        "id": "38a259d5-f441-49c5-b9dd-4dc53890afba",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1757038355,
-        "date_posted": 1757038355,
-        "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I_R202566492",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Cox",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Chewy",
-        "id": "077c0a28-ea27-4f9b-a4ae-426c784bce0a",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1757037954,
-        "date_posted": 1757037954,
-        "url": "https://boards.greenhouse.io/embed/job_app?token=7195601",
-        "locations": [
-            "Bellevue, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Chewy",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Valkyrie Trading",
-        "id": "67a851ea-8525-4f41-aaf5-9512b3d00fd1",
-        "title": "Junior Quantitative Researcher",
-        "active": false,
-        "date_updated": 1757039060,
-        "date_posted": 1757039060,
-        "url": "https://jobs.lever.co/valkyrietrading/6ba65cc5-53ec-4c92-ac98-dbc3326c75ab/apply",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Valkyrie-Trading",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Valkyrie Trading",
         "id": "70e4d8e9-e161-4ec1-b005-7d639916db29",
         "title": "Junior Software Engineer",
@@ -3682,26 +3621,6 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/SoFi",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Freeform",
-        "id": "75b132b1-c89c-4076-b38e-c454e0eaf28a",
-        "title": "Software Engineer \u2013 New Grad January 2026",
-        "active": false,
-        "date_updated": 1758307649,
-        "date_posted": 1757037746,
-        "url": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7004129003",
-        "locations": [
-            "LA"
-        ],
-        "company_url": "https://simplify.jobs/c/FreeformFuture",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -56666,42 +56585,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Wellington Management",
-        "id": "20b4da37-00a0-47df-94da-0183dd7cc7b4",
-        "title": "Technology Associate \u2013 Graduate",
-        "active": true,
-        "date_updated": 1763131793,
-        "date_posted": 1757038985,
-        "url": "https://wellington.wd5.myworkdayjobs.com/external/job/Technology-Associate-Programme--Graduate---2025_R92580-2",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Wellington",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "JP Morgan Chase",
-        "id": "b2ceda87-b93c-49a3-b4f1-995482450acd",
-        "title": "Quantitative Research",
-        "active": false,
-        "date_updated": 1761510897,
-        "date_posted": 1757038682,
-        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210663778",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "CACI",
         "id": "aeaf7c68-3d57-43d6-8565-5e94bd7d4b16",
@@ -56714,24 +56597,6 @@
             "Colorado Springs, CO"
         ],
         "company_url": "https://simplify.jobs/c/CACI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Lightspeed Systems",
-        "id": "9abeb25a-ca0f-4b08-a326-a6c7375369ab",
-        "title": "Customer Technical Support Specialist",
-        "active": false,
-        "date_updated": 1758225312,
-        "date_posted": 1757037736,
-        "url": "https://job-boards.greenhouse.io/lightspeedsystems/jobs/6967806003",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Lightspeed-Systems",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
