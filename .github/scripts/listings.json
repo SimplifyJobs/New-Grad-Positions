@@ -309530,5 +309530,23 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Wellington Management",
+        "id": "20b4da37-00a0-47df-94da-0183dd7cc7b4",
+        "title": "Technology Associate \u2013 Graduate",
+        "active": true,
+        "date_updated": 1777710484,
+        "date_posted": 1776523592,
+        "url": "https://wellington.wd5.myworkdayjobs.com/external/job/Technology-Associate-Programme--Graduate---2025_R92580-2",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Wellington-Management",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
