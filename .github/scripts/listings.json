@@ -1,24 +1,5 @@
 [
     {
-        "date_updated": 1757101807,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "degrees": [],
-        "url": "https://jobs.ashbyhq.com/decagon/2a435dd5-1212-42bb-ae5a-d7432902acd2",
-        "company_name": "Decagon",
-        "title": "Software Engineer - New Grad",
-        "locations": [
-            "San Francisco",
-            "New York"
-        ],
-        "category": "Software Engineering",
-        "source": "monicapearce",
-        "id": "fe817911-2a56-4f82-8cd1-c4d560ebac8f",
-        "date_posted": 1757101807,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Verisk",
