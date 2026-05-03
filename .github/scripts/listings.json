@@ -1,44 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Other",
-        "company_name": "LexisNexis Risk Solutions",
-        "id": "c93300ae-86b9-4433-993a-03a0e316ed71",
-        "title": "Aspire Tech Graduate Security Engineer I",
-        "active": false,
-        "date_updated": 1761830280,
-        "date_posted": 1757113543,
-        "url": "https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/Raleigh-NC/Aspire-Tech-Graduate-Security-Engineer-I_R101084",
-        "locations": [
-            "Raleigh, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/LexisNexis-Risk-Solutions",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Bumble",
-        "id": "7c4ad6e4-ec7b-4352-b201-7a1dda598aa1",
-        "title": "New Grad - Jr. Software Engineer",
-        "active": false,
-        "date_updated": 1757114201,
-        "date_posted": 1757114201,
-        "url": "https://jobs.lever.co/bumbleinc/6cc32636-4671-4838-a6b7-2dd16b97c110/apply",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Bumble",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Jerry",
         "id": "f92a2963-37d7-49a6-9354-0b4fb0ddc238",
@@ -14283,24 +14245,6 @@
             "Suffolk, VA"
         ],
         "company_url": "https://simplify.jobs/c/BryceTech",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Esri",
-        "id": "1265b420-ce89-46db-9fb1-c97bcbddbc1a",
-        "title": "Product Engineer 1 - User Assistance - Workflow Manager",
-        "active": false,
-        "date_updated": 1761937106,
-        "date_posted": 1757114330,
-        "url": "https://www.esri.com/careers/4847546007?gh_jid=4847546007",
-        "locations": [
-            "West Redlands, Redlands, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Esri",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
