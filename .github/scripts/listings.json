@@ -56433,24 +56433,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Cantina",
-        "id": "41ca7843-2bb1-48f4-833d-572d9524fd03",
-        "title": "Machine Learning Engineer",
-        "active": false,
-        "date_updated": 1757049634,
-        "date_posted": 1757049634,
-        "url": "https://jobs.ashbyhq.com/spearbit/c2664170-9214-41ab-95cb-a38047b2afa8/application",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Cantina-Spearbit",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Magnite",
         "id": "d1eaf661-ad19-40e8-b7c9-35822574a422",
@@ -95672,7 +95654,7 @@
         "company_name": "Manulife Financial",
         "id": "11ae67cb-402c-4741-b4b5-e27aa1330bb9",
         "title": "Associate Data Scientist - GenAI",
-        "active": true,
+        "active": false,
         "date_updated": 1765377770,
         "date_posted": 1765377770,
         "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Associate-Data-Scientist---GenAI_JR25120038-1",
@@ -302646,7 +302628,7 @@
         "company_name": "L3Harris Technologies",
         "id": "14c157d0-8980-43ec-a332-8987d569bb67",
         "title": "Manufacturing Technician A",
-        "active": true,
+        "active": false,
         "date_updated": 1777331375,
         "date_posted": 1777327615,
         "url": "https://jobs.l3harris.com/job/Rochester-Manufacturing-Technician-A-NY-14623/1385775900/?ats=successfactors",
