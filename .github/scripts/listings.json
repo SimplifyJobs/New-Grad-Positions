@@ -1,26 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Choice Hotels",
-        "id": "ba31781a-7e59-4cf5-a9ac-df7cb28ae143",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1757033029,
-        "date_posted": 1757033029,
-        "url": "https://choicehotels.wd5.myworkdayjobs.com/External/job/Scottsdale-AZ---Technology--Digital-Commerce-Center/Software-Engineer-1_R20274",
-        "locations": [
-            "Scottsdale, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Choice-Hotels",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "qode.world",
         "id": "64ec080a-e86a-454e-8ec9-8879164fae86",
