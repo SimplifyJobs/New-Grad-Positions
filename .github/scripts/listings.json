@@ -56487,42 +56487,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Kitware",
-        "id": "3658169c-0286-405b-8321-58e62ee583da",
-        "title": "OSTP Software Developer",
-        "active": false,
-        "date_updated": 1760087209,
-        "date_posted": 1757044973,
-        "url": "https://jobs.lever.co/kitware/18fda1ff-79bc-4da5-a075-79284592d6dc/apply",
-        "locations": [
-            "Clifton Park, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Kitware",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Valkyrie Trading",
-        "id": "08a83afa-37d2-4ab4-a5b4-e11f37866014",
-        "title": "Junior Derivatives Trader",
-        "active": false,
-        "date_updated": 1762923024,
-        "date_posted": 1757044957,
-        "url": "https://jobs.lever.co/valkyrietrading/1a6e6202-5fdd-4051-9a23-c6518cf4fdad/apply",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Valkyrie-Trading",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "CACI",
         "id": "aeaf7c68-3d57-43d6-8565-5e94bd7d4b16",
