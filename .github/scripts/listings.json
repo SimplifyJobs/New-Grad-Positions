@@ -1,28 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "qode.world",
-        "id": "64ec080a-e86a-454e-8ec9-8879164fae86",
-        "title": "Junior Data Scientist",
-        "active": false,
-        "date_updated": 1757035197,
-        "date_posted": 1757035197,
-        "url": "https://apply.workable.com/qodeworld/j/5E96914ADB/apply",
-        "locations": [
-            "Tampa, FL",
-            "Jackson Township, NJ",
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Qode-World",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Aflac",
         "id": "6e331d09-8412-461c-9326-14091f9ae7de",
@@ -56648,24 +56626,6 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Cantina-Spearbit",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "American Bureau of Shipping",
-        "id": "9e918d3c-98d6-4dc7-8a7b-b4144fd1bf12",
-        "title": "Digital Engineering Rotational Aspire",
-        "active": true,
-        "date_updated": 1758373948,
-        "date_posted": 1757035227,
-        "url": "https://hbbq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3499",
-        "locations": [
-            "Houston, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/American-Bureau-Of-Shipping",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
