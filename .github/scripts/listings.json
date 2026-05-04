@@ -309047,5 +309047,23 @@
         "date_posted": 1777889480,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1777889506,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.smartrecruiters.com/ServiceNow/99c06c61-284f-4c2b-bd4d-1a7b53bf3fa4",
+        "company_name": "ServiceNow",
+        "title": "Associate Software Engineer, Search Infrastructure - Moveworks",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "137780b9-5af2-4acd-9b29-8323d8456aab",
+        "date_posted": 1777889506,
+        "company_url": "",
+        "is_visible": true
     }
 ]
