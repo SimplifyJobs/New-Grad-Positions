@@ -308922,5 +308922,40 @@
         "degrees": [
             "Master's"
         ]
+    },
+    {
+        "date_updated": 1777888539,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://www.google.com/about/careers/applications/jobs/results/139736153191260870",
+        "company_name": "Google",
+        "title": "Forward Deployed Engineer I, GenAI, Google Cloud",
+        "locations": [
+            "San Francisco, CA",
+            "Atlanta, GA",
+            "Austin, TX",
+            "Boulder, CO",
+            "Cambridge, MA",
+            "Chicago, IL",
+            "Addison, TX",
+            "Detroit, MI",
+            "Irvine, CA",
+            "Kirkland, WA",
+            "Miami, FL",
+            "New York, NY",
+            "Portland, OR",
+            "Los Angeles, CA",
+            "Reston, VA",
+            "Seattle, WA",
+            "Sunnyvale, CA",
+            "Washington D.C., DC"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "a158377a-89ea-49a3-aca0-2e8cae828326",
+        "date_posted": 1777888539,
+        "company_url": "",
+        "is_visible": true
     }
 ]
