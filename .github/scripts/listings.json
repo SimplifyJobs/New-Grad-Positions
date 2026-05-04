@@ -2,24 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "CACI",
-        "id": "7534ac59-3411-4797-88e4-23ee489ce62f",
-        "title": "Entry Level Java and Python Software Engineer",
-        "active": false,
-        "date_updated": 1757310408,
-        "date_posted": 1757118218,
-        "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-NY-Rome/Entry-Level-Java-and-Python-Software-Engineer_316729",
-        "locations": [
-            "Rome, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/CACI",
-        "is_visible": true,
-        "sponsorship": "U.S. Citizenship is Required",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Cox",
         "id": "d0811db1-ec47-4cb1-8b04-bd837aa97c50",
         "title": "Software Engineer I",
@@ -3614,27 +3596,6 @@
             "Kennesaw, GA"
         ],
         "company_url": "https://simplify.jobs/c/Copeland",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Decagon",
-        "id": "3028cdea-b3ff-4483-b94a-856891810dcf",
-        "title": "Agent Software Engineer \u2013 New Grad - 2026 Start",
-        "active": false,
-        "date_updated": 1758361453,
-        "date_posted": 1757117107,
-        "url": "https://jobs.ashbyhq.com/decagon/95a4707d-1def-481a-bb78-38a4b22b6891/application",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Decagon",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -55976,24 +55937,6 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/Wintermute",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Grayce",
-        "id": "bcfe163b-98e9-467b-823e-12b718a5f712",
-        "title": "Graduate Digital Analyst",
-        "active": false,
-        "date_updated": 1757118528,
-        "date_posted": 1757118528,
-        "url": "https://apply.workable.com/grayce/j/68B5EB27DB/apply",
-        "locations": [
-            "Manchester, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/ece08408-be43-4331-9af6-746c6e9977ec",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -220577,7 +220520,7 @@
         "company_name": "Allstate Insurance Company",
         "id": "c493c31e-172c-4f7b-865a-0bc3b9de0fbc",
         "title": "Applied Machine Learning Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1772753293,
         "date_posted": 1772753293,
         "url": "https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/USA---IL-Remote/Applied-Machine-Learning-Engineer--All-Levels-_R27180-1",
