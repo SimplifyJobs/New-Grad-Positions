@@ -308993,5 +308993,23 @@
         "date_posted": 1777888926,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1777889335,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-AZ-TUCSON-848--1151-E-Hermans-Rd--BLDG-848/Software-Security-Engineer-I_01842181",
+        "company_name": "RTX",
+        "title": "Software Security Engineer I",
+        "locations": [
+            "Tucson, AZ"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "c245550c-b4ae-4e7b-bb7b-934d15f47856",
+        "date_posted": 1777889335,
+        "company_url": "",
+        "is_visible": true
     }
 ]
