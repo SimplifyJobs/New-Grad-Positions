@@ -133818,7 +133818,7 @@
         "company_name": "Yahoo",
         "id": "d563bada-34eb-4abe-ac70-7186e9a6ad26",
         "title": "Software Developer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1768347482,
         "date_posted": 1768347482,
         "url": "https://ouryahoo.wd5.myworkdayjobs.com/en-US/careers/job/United-States-of-America/Software-Dev-Engineer-I_JR0026741",
@@ -154221,8 +154221,8 @@
             "Calgary, AB"
         ],
         "category": "Software Engineering",
-        "source": "yves-a",
-        "id": "9f0a9259-b787-4a20-8aab-a92067d1259b",
+        "source": "Simplify",
+        "id": "12b63c6b-1151-4084-a798-a22c27fd6f2c",
         "date_posted": 1769579993,
         "company_url": "",
         "is_visible": true
@@ -184121,7 +184121,7 @@
         "company_name": "Microchip Technology",
         "id": "66536de5-fb87-40f2-8e47-b5fccd671025",
         "title": "Engineer 1 - Validation - Characterization",
-        "active": false,
+        "active": true,
         "date_updated": 1771024833,
         "date_posted": 1771024833,
         "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/CA---San-Jose---3850-N-First-St/Engineer-I---Validation--Characterization-_R1776-25",
@@ -213572,7 +213572,7 @@
         "company_name": "Leonardo",
         "id": "2825f193-e554-4754-9627-60117addc3c2",
         "title": "Graduate Hardware Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1772522941,
         "date_posted": 1772522941,
         "url": "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Luton---Cap-Green-300/Graduate-Hardware-Engineer_R0021503-1",
@@ -235129,7 +235129,7 @@
         "company_name": "GlobalFoundries",
         "id": "84e8f26c-0097-42f4-a80a-6e100be423d5",
         "title": "Silicon Photonics Module Packaging Integration Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773478144,
         "date_posted": 1771690069,
         "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Sr-Photonics-Product-Packaging-Engineer_JR-2502067",
@@ -254071,7 +254071,7 @@
         "company_name": "Particle Measuring Systems",
         "id": "e74737b4-5ac1-4906-83b4-611af17ecbe0",
         "title": "Service Technician 1",
-        "active": false,
+        "active": true,
         "date_updated": 1774617814,
         "date_posted": 1774591742,
         "url": "https://spectris.wd3.myworkdayjobs.com/PMS_Careers/job/Niwot-CO/Service-Technician-I_17688",
@@ -288982,7 +288982,7 @@
         "company_name": "Northrop Grumman",
         "id": "5a59dd43-6d2a-47ae-acba-ceae22f90b0e",
         "title": "Software Engineer / Principal Software Engineer - Java",
-        "active": false,
+        "active": true,
         "date_updated": 1776435662,
         "date_posted": 1776434871,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Software-Engineer---Principal-Software-Engineer---Java_R10229694",
@@ -290828,7 +290828,7 @@
         "company_name": "The Boeing Company",
         "id": "dc6c89e6-9e43-433f-a036-0d10d32ee7da",
         "title": "MP&P Engineer - Nondestructive Evaluation",
-        "active": false,
+        "active": true,
         "date_updated": 1776529082,
         "date_posted": 1776527033,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Mesa-AZ/MP-P-Engineer---NDE_JR2026497106-1",
@@ -292151,7 +292151,7 @@
         "company_name": "Varian",
         "id": "90ebf3e3-334f-44d2-b1a4-a4d43723a826",
         "title": "Field Service Engineer - Proton Therapy",
-        "active": true,
+        "active": false,
         "date_updated": 1776505861,
         "date_posted": 1776505724,
         "url": "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/BWI-S/Field-Service-Engineer---Baltimore--MD_R-26574-1",
@@ -297254,7 +297254,7 @@
         "company_name": "Bisnow",
         "id": "5db38185-3eb3-4fc2-ac7b-591ee46424f8",
         "title": "AI Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1776896837,
         "date_posted": 1776895657,
         "url": "https://jobs.lever.co/bisnow/ccc92ef9-225a-475a-968e-77898b9a465a/apply",
@@ -303577,7 +303577,7 @@
         "company_name": "Mixpanel",
         "id": "b420b1e0-7e29-4de5-adaf-9ea7109749c9",
         "title": "Software Engineer \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1777414141,
         "date_posted": 1776291098,
         "url": "https://job-boards.greenhouse.io/mixpanel/jobs/7773373",
@@ -305228,7 +305228,7 @@
         "company_name": "RTX",
         "id": "550c0f8a-8e58-4586-9968-9340d5265955",
         "title": "Software Engineer 1 - Test Solutions",
-        "active": false,
+        "active": true,
         "date_updated": 1777501226,
         "date_posted": 1777500478,
         "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Software-Engineer-I----Test-Solutions---Onsite_01836492-1",
@@ -305449,7 +305449,7 @@
         "company_name": "HCSC",
         "id": "7e65915f-e56b-4e24-8bd7-1e5ad5d7c13b",
         "title": "Associate Automation Programmer",
-        "active": true,
+        "active": false,
         "date_updated": 1777501597,
         "date_posted": 1777500334,
         "url": "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/TX---Richardson/Associate-Automation-Programmer_R0050834",
@@ -305991,7 +305991,7 @@
         "company_name": "Blue Yonder",
         "id": "da4400cd-bb9f-41cd-9a7a-57e4893a040a",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1777587495,
         "date_posted": 1777586823,
         "url": "https://jda.wd5.myworkdayjobs.com/en-US/JDA_Careers/job/BYDS-Dallas/Software-Engineer-I--US-Citizenship-Required-_261334-1",
@@ -309202,5 +309202,127 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amazon",
+        "id": "bfa6d860-85c2-4118-8d8c-e224b9e52584",
+        "title": "Software Development Engineer",
+        "active": true,
+        "date_updated": 1777933081,
+        "date_posted": 1777932230,
+        "url": "https://amazon.jobs/en/jobs/3177934/software-development-engineer-2026-us",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Argonne National Laboratory",
+        "id": "6043df58-dea7-4eaa-9788-1d59d5b37e74",
+        "title": "Postbaccalaureate Appointee - Magnetohydrodynamics",
+        "active": true,
+        "date_updated": 1777932541,
+        "date_posted": 1777932388,
+        "url": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postbaccalaureate-Appointee---Magnetohydrodynamics_422697",
+        "locations": [
+            "Woodridge, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Argonne-National-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Association of American Medical Colleges",
+        "id": "578ae3f6-37b0-46d7-9583-460dab53f828",
+        "title": "Product Specialist - MCAT & Preview Test Preparation",
+        "active": true,
+        "date_updated": 1777933197,
+        "date_posted": 1777932452,
+        "url": "https://aamc.wd5.myworkdayjobs.com/aamc/job/Washington-DC/Product-Specialist--Test-Preparation-Products_10009301",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Association-Of-American-Medical-Colleges",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Slate Auto",
+        "id": "2cd4cf86-b4d8-4725-8d17-905b798b765e",
+        "title": "Software/Data Rotational Program",
+        "active": true,
+        "date_updated": 1777933261,
+        "date_posted": 1777932486,
+        "url": "https://recar.wd108.myworkdayjobs.com/SLATEcareers/job/The-Center/Software-Data-Rotational-Program_JR100527",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Slate-Auto",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Amazon",
+        "id": "4240a104-c95e-4f4d-b961-1f4be3e55314",
+        "title": "Data Engineer 1 - AWS WW Field Enablement - Analytics and Product Operations",
+        "active": true,
+        "date_updated": 1777932577,
+        "date_posted": 1777932231,
+        "url": "https://amazon.jobs/en/jobs/10410579/data-engineer-i-aws-ww-field-enablement-analytics-and-product-operations",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Cambridge Associates",
+        "id": "e4b666fb-6797-4124-be72-ed132b6e5b3c",
+        "title": "Investment Analyst Program",
+        "active": true,
+        "date_updated": 1777932181,
+        "date_posted": 1777932171,
+        "url": "https://cambridgeassociates.wd5.myworkdayjobs.com/Cambridge_Associates/job/Arlington/Investment-Analyst-Program---Arlington--VA-Location--July-Class_JR0000233-1",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cambridge-Associates",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
