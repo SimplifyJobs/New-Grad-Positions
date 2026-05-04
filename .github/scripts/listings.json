@@ -212397,7 +212397,7 @@
         "company_name": "Guidehouse",
         "id": "7c836777-7bd3-4e0b-84a2-b2c28d6a33b7",
         "title": "Data Analyst/FM Product Consultant",
-        "active": false,
+        "active": true,
         "date_updated": 1772495434,
         "date_posted": 1772495434,
         "url": "https://guidehouse.wd1.myworkdayjobs.com/external/job/US---VA-McLean/Data-Analyst-FM-Product-Consultant_34667",
@@ -220713,7 +220713,7 @@
         "company_name": "TRIMEDX",
         "id": "af5c419c-a1c1-4850-930b-ad1a0544733f",
         "title": "Sterilization Technician 1",
-        "active": true,
+        "active": false,
         "date_updated": 1772755728,
         "date_posted": 1772755728,
         "url": "https://trimedx.wd1.myworkdayjobs.com/TMX/job/Indianapolis-IN/Sterilization-Tech-I_R13595",
@@ -233969,7 +233969,7 @@
         "company_name": "Varian",
         "id": "b737ca01-e7bc-45b5-940c-17323baf6335",
         "title": "Field Service Engineer - Proton Therapy",
-        "active": true,
+        "active": false,
         "date_updated": 1773483495,
         "date_posted": 1773483495,
         "url": "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/ATL-G/Field-Service-Engineer--Proton-Therapy----Atlanta--GA_R-27202-1",
@@ -271188,7 +271188,7 @@
         "company_name": "Northrop Grumman",
         "id": "7d083479-72a7-40b2-a55a-1c995fe39243",
         "title": "Software Engineer - Embedded and Real Time",
-        "active": false,
+        "active": true,
         "date_updated": 1775525186,
         "date_posted": 1775524126,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Engineer-Software---Embedded-and-Real-Time--Melbourne-Florida-_R10228670",
@@ -298686,7 +298686,7 @@
         "company_name": "Little Caesars Enterprises",
         "id": "6b5e04ab-2563-4bef-a6f8-5250fccf9859",
         "title": "Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1776953341,
         "date_posted": 1776953189,
         "url": "https://ilitch.wd5.myworkdayjobs.com/lc/job/Detroit-MI/Data-Analyst---Finance_R8719",
@@ -302690,7 +302690,7 @@
         "company_name": "Lifepoint Health",
         "id": "e362ba88-ae33-4fcb-9d36-da40a4dc833b",
         "title": "Partial Hospitalization Program Therapist",
-        "active": true,
+        "active": false,
         "date_updated": 1777330801,
         "date_posted": 1777327713,
         "url": "https://ibnjjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/340415",
@@ -309166,5 +309166,41 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "SOCOTEC Global",
+        "id": "c4ef73cb-4c47-4f54-a1e8-12a0e7aa3b9f",
+        "title": "Applied AI Engineer",
+        "active": true,
+        "date_updated": 1777903921,
+        "date_posted": 1777903553,
+        "url": "https://jobs.smartrecruiters.com/Socotec/744000124433581",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/SOCOTEC-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northrop Grumman",
+        "id": "0cb3f1b1-b819-443b-8a24-fc025156a283",
+        "title": "Electronic Technician",
+        "active": true,
+        "date_updated": 1777903741,
+        "date_posted": 1777903600,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/Electronic-Technician-2-3--14088-_R10231497",
+        "locations": [
+            "Hill AFB, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
