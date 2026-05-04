@@ -1,26 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Cox",
-        "id": "d0811db1-ec47-4cb1-8b04-bd837aa97c50",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1757119025,
-        "date_posted": 1757119025,
-        "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Draper-UT/Software-Engineer-I_R202566673",
-        "locations": [
-            "Draper, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/Cox",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Boom Supersonic",
         "id": "f321e2b2-f378-4a33-91f6-00583f014a13",
@@ -55901,42 +55881,6 @@
             "New Orleans, LA"
         ],
         "company_url": "https://simplify.jobs/c/ASM-Global",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Badger Meter",
-        "id": "5b4cb914-a9f8-4275-bb9f-ee04ec090480",
-        "title": "Systems Engineer",
-        "active": false,
-        "date_updated": 1762915043,
-        "date_posted": 1757119180,
-        "url": "https://badgermeter.wd5.myworkdayjobs.com/US_CareerSite/job/Milwaukee-WI/Systems-Engineer_4003",
-        "locations": [
-            "Milwaukee, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/Badger-Meter",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Wintermute",
-        "id": "d21a3c57-f745-430d-9748-5e56972a09cd",
-        "title": "Graduate Algorithmic Trader",
-        "active": false,
-        "date_updated": 1762928936,
-        "date_posted": 1757118775,
-        "url": "https://jobs.lever.co/wintermute-trading/06eb85da-c5b3-4e49-a906-8ac0f3452517/apply",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Wintermute",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
