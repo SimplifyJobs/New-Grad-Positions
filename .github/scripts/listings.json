@@ -248284,7 +248284,7 @@
         "company_name": "BlackRock",
         "id": "468f8ce7-8037-43e9-bc53-d357948d58ae",
         "title": "Data Operations - Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1774393014,
         "date_posted": 1774393014,
         "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/Edinburgh-Scotland/Data-Operations--Associate_R261650",
@@ -309065,5 +309065,106 @@
         "date_posted": 1777889506,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Exponent",
+        "id": "6ebaa8e4-54ca-4e56-97f7-d3ea93a35f0f",
+        "title": "Engineering Technician - Electronics and Instrumentation",
+        "active": true,
+        "date_updated": 1777903561,
+        "date_posted": 1777903497,
+        "url": "https://careers-exponent.icims.com/jobs/2417/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Exponent",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Bellese",
+        "id": "3efbdba5-d183-4279-8fba-d927c06b95e4",
+        "title": "Product Manager 1",
+        "active": true,
+        "date_updated": 1777904002,
+        "date_posted": 1777903670,
+        "url": "https://jobs.lever.co/bellese/b2a74141-b7dd-4fc3-ab98-21221bce86d8/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Bellese",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AmTrust Financial",
+        "id": "a3f0ee08-2cda-45cb-a373-37cd43be10b9",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1777903867,
+        "date_posted": 1777903613,
+        "url": "https://careers-amtrustgroup.icims.com/jobs/20226/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Cleveland, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/AmTrust-Financial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "0ee6d971-d0f9-4889-9d51-d9c4a739b792",
+        "title": "Engineering Aide",
+        "active": true,
+        "date_updated": 1777903741,
+        "date_posted": 1777903676,
+        "url": "https://jobs.l3harris.com/job/Orlando-Engineering-Aide-FL-32819/1387644300/?ats=successfactors",
+        "locations": [
+            "Orlando, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Lennox International",
+        "id": "57db8f3e-9257-4095-887c-85d9d5d5f21d",
+        "title": "Ratings Engineer",
+        "active": true,
+        "date_updated": 1777903561,
+        "date_posted": 1777903521,
+        "url": "https://uscareers-lennox.icims.com/jobs/52415/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Greenwood, MS",
+            "Richardson, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Lennox-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
