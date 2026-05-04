@@ -309011,5 +309011,23 @@
         "date_posted": 1777889335,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1777889364,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WZS--2501-W-University-Dr--WZS-BLDG/XMLNAME-2026-Fulltime----Raytheon-RF-Test-Software-Engineer---Onsite_01841906",
+        "company_name": "RTX",
+        "title": "Raytheon RF Test Software Engineer",
+        "locations": [
+            "McKinney, TX"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "eb2e27e7-c483-438d-9279-67602fdeb28a",
+        "date_posted": 1777889364,
+        "company_url": "",
+        "is_visible": true
     }
 ]
