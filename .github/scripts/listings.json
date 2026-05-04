@@ -308957,5 +308957,23 @@
         "date_posted": 1777888539,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1777888738,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://ryder.wd5.myworkdayjobs.com/en-US/rydercareers/job/USA---Remote-FL/Backend-Developer-I_R170526",
+        "company_name": "Ryder",
+        "title": "Backend Developer I",
+        "locations": [
+            "Remote in USA (FL)"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "a9ee7812-7107-4bf6-af03-b90990161240",
+        "date_posted": 1777888738,
+        "company_url": "",
+        "is_visible": true
     }
 ]
