@@ -308902,5 +308902,25 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Amgen",
+        "id": "dc8c54fe-dddb-4a44-8859-3f98f0dfa076",
+        "title": "Data Scientist",
+        "active": true,
+        "date_updated": 1777874985,
+        "date_posted": 1777874707,
+        "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/US---IL---Deerfield/Data-Scientist_R-239041",
+        "locations": [
+            "Highland Park, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Amgen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
     }
 ]
