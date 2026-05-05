@@ -251674,7 +251674,7 @@
         "company_name": "Goldman Sachs",
         "id": "9adc31ea-6284-4d9d-888e-dfb972c8b798",
         "title": "Asset and Wealth Management - Product Management - Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1773824453,
         "date_posted": 1773238679,
         "url": "https://higher.gs.com/roles/165069",
@@ -282017,7 +282017,7 @@
         "company_name": "ReliaQuest",
         "id": "58e21683-9b4c-4bda-9bba-b8a3f07a0562",
         "title": "Associate Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1776120499,
         "date_posted": 1776118244,
         "url": "https://reliaquest.wd5.myworkdayjobs.com/en-US/ReliaQuest_Careers/job/Tampa-FL/Associate-Software-Engineer_R15047",
@@ -310351,6 +310351,66 @@
             "Atlanta, GA"
         ],
         "company_url": "https://simplify.jobs/c/Amcor",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "7b5dd98f-ae04-40d8-b19c-30d78c63ba95",
+        "title": "FPGA Engineer 1",
+        "active": true,
+        "date_updated": 1777990453,
+        "date_posted": 1777990184,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Raytheon-Full-Time-2026---Multi-Product-Power---Digital-FPGA-Engineer-I_01842702",
+        "locations": [
+            "McKinney, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CACI",
+        "id": "e245a66a-83a2-42ec-89c0-01fbc9327255",
+        "title": "AI Prompt Engineer",
+        "active": true,
+        "date_updated": 1777989961,
+        "date_posted": 1777989926,
+        "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-VA-Ashburn/AI-Prompt-Engineer_325674",
+        "locations": [
+            "Ashburn, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Marvell",
+        "id": "02a385f4-2793-489d-aa7d-e99ac6a73a51",
+        "title": "Design Verification Engineer",
+        "active": true,
+        "date_updated": 1777990535,
+        "date_posted": 1777990119,
+        "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Design-Verification-Engineer---Early-Career_2601228-1",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Marvell",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
