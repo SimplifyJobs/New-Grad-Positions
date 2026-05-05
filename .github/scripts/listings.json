@@ -212422,7 +212422,7 @@
         "company_name": "BlackRock",
         "id": "6351ded1-378a-4a57-af64-a7a02aa2d651",
         "title": "Associate Application Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1772495556,
         "date_posted": 1772495556,
         "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/LO9-London---Drapers-Gardens/Associate--Application-Engineer_R260695",
@@ -310312,6 +310312,27 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "NVIDIA",
+        "id": "80d74961-722d-4792-ab7a-4f178e4e0e58",
+        "title": "Power Methodology and Modeling Engineer New Grad",
+        "active": true,
+        "date_updated": 1777972756,
+        "date_posted": 1777972676,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/Power-Methodology-and-Modeling-Engineer---New-College-Grad-2026_JR2017486-1",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
         ]
     }
 ]
