@@ -140263,7 +140263,7 @@
         "company_name": "Robinhood",
         "id": "390664ef-dce6-4b0a-b659-7c3110952111",
         "title": "Software Engineer - Backend",
-        "active": true,
+        "active": false,
         "date_updated": 1768606105,
         "date_posted": 1768548555,
         "url": "https://boards.greenhouse.io/robinhood/jobs/7263578",
@@ -309996,6 +309996,27 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "NVIDIA",
+        "id": "e55e6b16-14da-4a9c-a2e9-d71bd39346e1",
+        "title": "Machine Learning Applications and Compiler Engineer",
+        "active": true,
+        "date_updated": 1777933857,
+        "date_posted": 1777932628,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Toronto/Machine-Learning-Applications-and-Compiler-Engineer--LPX---New-College-Grad-2026_JR2017194",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
         ]
     }
 ]
