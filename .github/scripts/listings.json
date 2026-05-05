@@ -303105,7 +303105,7 @@
         "company_name": "Vertiv",
         "id": "3dbda926-b53b-4b5e-8a8b-c761918d7bba",
         "title": "Test Team Operative/Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1777367161,
         "date_posted": 1777367033,
         "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20271143",
