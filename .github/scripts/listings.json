@@ -263626,7 +263626,7 @@
         "company_name": "Franklin Templeton",
         "id": "7bf31ab8-bc49-419e-a312-2f85fc476b06",
         "title": "Investment Associate - Quantitative Research - FT Investment Solutions",
-        "active": false,
+        "active": true,
         "date_updated": 1775085042,
         "date_posted": 1775081371,
         "url": "https://franklintempleton.wd5.myworkdayjobs.com/invitation-only/job/Boston-Massachusetts-United-States-of-America/Investment-Associate--Quantitative-Research---FT-Investment-Solutions-_862786-2",
@@ -286220,7 +286220,7 @@
         "company_name": "GE Healthcare",
         "id": "9df5e2b3-ff4d-403c-aadd-0e2e177b2139",
         "title": "MR Field Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1776302844,
         "date_posted": 1776301614,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/MR---Field-Engineer-1_R4039398-1",
@@ -310112,6 +310112,85 @@
         "degrees": [
             "Bachelor's",
             "MBA"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cogent Security",
+        "id": "d84c25e4-c5e3-470f-ad8d-f37b18a2020a",
+        "title": "AI Fellow - Member of Technical Staff",
+        "active": true,
+        "date_updated": 1777943668,
+        "date_posted": 1777943265,
+        "url": "https://jobs.ashbyhq.com/cogent-security/96b36c74-096a-4ec6-a71e-84a43385cc4f/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Cogent-Security",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "General Motors",
+        "id": "1867969a-db0e-4b61-bcfe-810cf5e1f73c",
+        "title": "Machine Learning Engineer - AI Inference Solutions",
+        "active": true,
+        "date_updated": 1777944061,
+        "date_posted": 1777943397,
+        "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/Machine-Learning-Engineer--AI-Inference-Solutions--University-Grad-_JR-202610103",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Motors",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Generac",
+        "id": "b159c95d-0bdf-4048-806f-66b66077f887",
+        "title": "Engineering Technician 1",
+        "active": true,
+        "date_updated": 1777943612,
+        "date_posted": 1777943384,
+        "url": "https://generac.wd5.myworkdayjobs.com/en-US/external/job/Waukesha-WI---USA/Engineering-Technician-I_JR14012",
+        "locations": [
+            "Waukesha, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Generac",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Freeform",
+        "id": "0999b412-5456-4f0d-ad17-61e8e0a48dcb",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1777944421,
+        "date_posted": 1775524601,
+        "url": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7691540003",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/FreeformFuture",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
