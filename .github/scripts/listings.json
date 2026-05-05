@@ -295313,7 +295313,7 @@
         "company_name": "The Boeing Company",
         "id": "b8d1fa15-13ac-40b6-83b6-5d9352c5b9f3",
         "title": "Atmospheric Scientist \u2013 Associate or Mid-Level",
-        "active": true,
+        "active": false,
         "date_updated": 1776763261,
         "date_posted": 1776763124,
         "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Kirtland-AFB-NM/Atmospheric-Scientist--Associate-or-Mid-Level-_JR2026490878",
@@ -306363,7 +306363,7 @@
         "company_name": "RTX",
         "id": "e909e009-4fde-4a73-8f2d-7c5aa6e1bc6d",
         "title": "Software Data Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1777588280,
         "date_posted": 1777587054,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/XMLNAME-2026-Raytheon-Full-Time--Software-Data-Engineer-I--Onsite-_01842194",
@@ -310333,6 +310333,28 @@
         "degrees": [
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amcor",
+        "id": "a761860c-4e8b-4fc7-888b-6397cb6c694d",
+        "title": "AI Full Stack Engineer",
+        "active": true,
+        "date_updated": 1777972592,
+        "date_posted": 1777972408,
+        "url": "https://amcor.wd5.myworkdayjobs.com/amcor_external_career_site/job/AF-Deerfield-IL-Corporate/AI-Full-Stack-Engineer_REQ_89843",
+        "locations": [
+            "Highland Park, IL",
+            "Evansville, IN",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amcor",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
