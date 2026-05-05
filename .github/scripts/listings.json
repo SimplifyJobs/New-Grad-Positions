@@ -240514,7 +240514,7 @@
         "company_name": "Deutsche Bank",
         "id": "eb0285de-f766-4e79-8dfd-12cf9d420754",
         "title": "Java Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773875801,
         "date_posted": 1773875801,
         "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Cary-3000-CentreGreen-Way/Java-Engineer---Associate_R0427077",
@@ -271209,7 +271209,7 @@
         "company_name": "Peraton",
         "id": "b6119cda-d85a-4f85-870b-ec7ef33d6781",
         "title": "Junior Cyber Software Engineer - UI Alerting",
-        "active": true,
+        "active": false,
         "date_updated": 1775716984,
         "date_posted": 1775524035,
         "url": "https://careers-peraton.icims.com/jobs/165429/job?mobile=true&needsRedirect=false",
@@ -273439,7 +273439,7 @@
         "company_name": "Morgan Stanley",
         "id": "b1c91d6b-c124-4dbf-8d2e-22fad51d150f",
         "title": "Full Stack Engineer - Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1775658961,
         "date_posted": 1775657436,
         "url": "https://ms.wd5.myworkdayjobs.com/private/job/New-York-New-York-United-States-of-America/Full-Stack-Engineer---Associate_PT-JR033501-2",
@@ -275882,7 +275882,7 @@
         "company_name": "Leidos",
         "id": "a3f4d468-0bb5-4653-8978-0ec67bb42dea",
         "title": "Embedded Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1775776038,
         "date_posted": 1775772690,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Leominster-UK/Embedded-Software-Developer_R-00179537",
@@ -305570,7 +305570,7 @@
         "company_name": "Latitude AI",
         "id": "787e7343-1107-449a-b4ac-3b85663bb796",
         "title": "GIS Production Analyst - Contractor",
-        "active": true,
+        "active": false,
         "date_updated": 1777530781,
         "date_posted": 1777530022,
         "url": "https://job-boards.greenhouse.io/latitude/jobs/7868899",
@@ -310416,5 +310416,162 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Latitude AI",
+        "id": "3706f95b-384b-4b2f-8a06-2ef7f0375f2b",
+        "title": "GIS Production Analyst",
+        "active": true,
+        "date_updated": 1777989781,
+        "date_posted": 1777989716,
+        "url": "https://job-boards.greenhouse.io/latitude/jobs/7893857",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/LatitudeAI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Goldman Sachs",
+        "id": "baacd394-e7e6-4722-b8de-dc92fc44ddb4",
+        "title": "Compliance - Data Engineering - Software Engineering",
+        "active": true,
+        "date_updated": 1777990141,
+        "date_posted": 1777990102,
+        "url": "https://higher.gs.com/roles/171671",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Goldman-Sachs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "DAT Freight & Analytics",
+        "id": "80e82555-dfc1-423e-a834-e8f75063f914",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1777990681,
+        "date_posted": 1777990652,
+        "url": "https://careers.dat.com/jobs/5764870004?gh_jid=5764870004",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/DATFreight",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "RTX",
+        "id": "3ec717fb-b569-4591-a30c-0f70fbef3dfd",
+        "title": "Software Data Engineer 2",
+        "active": true,
+        "date_updated": 1777990400,
+        "date_posted": 1777990184,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-REMOTE/XMLNAME-2026-Raytheon-Full-Time--Software-Data-Engineer-II--Remote-_01842575",
+        "locations": [
+            "Indiana"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "RTX",
+        "id": "4130f209-6d36-45a3-9941-7171f491b058",
+        "title": "Software Data Engineer 1",
+        "active": true,
+        "date_updated": 1777990576,
+        "date_posted": 1777990184,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-REMOTE/XMLNAME-2026-Raytheon-Full-Time--Software-Data-Engineer-I--Remote-_01842571",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Beth Israel Lahey Health",
+        "id": "cddb8f10-591f-40d9-834f-bbef03df324f",
+        "title": "AI Data Scientist",
+        "active": true,
+        "date_updated": 1777990141,
+        "date_posted": 1777990135,
+        "url": "https://bilh.wd1.myworkdayjobs.com/External/job/Beth-Israel-Lahey-Health/AI-Data-Scientist_JR95692",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Beth-Israel-Lahey-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CAE",
+        "id": "651d9369-79c2-4574-a1a5-feda1d7dd1c2",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1777990322,
+        "date_posted": 1777990153,
+        "url": "https://cae.wd3.myworkdayjobs.com/career/job/Binghamton-NY/Associate-Software-Engineer_121804",
+        "locations": [
+            "Binghamton, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/CAE",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The New York Times",
+        "id": "8a8c05d5-dfa5-477c-9dda-85ead19ecc86",
+        "title": "Scoop Core Software Engineer Associate",
+        "active": true,
+        "date_updated": 1777990631,
+        "date_posted": 1777990335,
+        "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4692121005",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/The-New-York-Times",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
