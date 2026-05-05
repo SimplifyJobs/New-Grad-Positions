@@ -302203,7 +302203,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "cd9f767e-f57a-4014-8c68-09384a126f9e",
         "title": "Engineering Tech",
-        "active": true,
+        "active": false,
         "date_updated": 1777330801,
         "date_posted": 1777327693,
         "url": "https://careers-gdms.icims.com/jobs/72212/job?mobile=true&needsRedirect=false",
@@ -303459,7 +303459,7 @@
         "company_name": "Iowa State University",
         "id": "cf49acfe-eadb-4aeb-b088-0ed217e27573",
         "title": "Software Developer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1777414317,
         "date_posted": 1777413876,
         "url": "https://isu.wd1.myworkdayjobs.com/IowaStateJobs/job/Ames-IA/Software-Developer-I_R19087",
@@ -309517,7 +309517,7 @@
         "company_name": "RTX",
         "id": "d9c2b0a6-9645-47a7-bfec-1b75a4910a42",
         "title": "Software Engineer 1 - Military Avionics Flight Management Systems",
-        "active": true,
+        "active": false,
         "date_updated": 1777933657,
         "date_posted": 1777932596,
         "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/XMLNAME-2026-Collins-Full-Time---Software-Engineer-I---Military-Avionics-Flight-Management-Systems---Cedar-Rapids--IA--Onsite-_01840038",
@@ -310211,5 +310211,25 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "IBC Bank",
+        "id": "3dd4d9cb-af7d-42b4-9a5d-c4835d1e0ced",
+        "title": "Developer 1",
+        "active": true,
+        "date_updated": 1777961379,
+        "date_posted": 1777961083,
+        "url": "https://ibc.wd5.myworkdayjobs.com/ibc_careers/job/San-Antonio-TX/Developer-I_R15432",
+        "locations": [
+            "San Antonio, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/IBC-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
