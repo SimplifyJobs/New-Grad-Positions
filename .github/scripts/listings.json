@@ -265825,7 +265825,7 @@
         "company_name": "Northrop Grumman",
         "id": "47e94254-11f0-428c-b689-a6eded91ac39",
         "title": "Software Engineer - Software Integration & Test",
-        "active": false,
+        "active": true,
         "date_updated": 1775179512,
         "date_posted": 1775178543,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Engineer-Software---Software-Integration---Test--San-Diego-CA-_R10222110",
@@ -310017,6 +310017,101 @@
         "degrees": [
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Plaid",
+        "id": "07ba56c7-a7c3-4b22-a28e-f451a51de693",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1777943341,
+        "date_posted": 1777943267,
+        "url": "https://jobs.ashbyhq.com/plaid/a62002c2-8f7b-43ea-b08d-b18986eae4e2/application",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Plaid",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TD Bank",
+        "id": "6651c421-002f-486e-9b77-fe5355a8754c",
+        "title": "Data Engineer Associate",
+        "active": true,
+        "date_updated": 1777943571,
+        "date_posted": 1777943424,
+        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Associate-Data-Engineer_R_1486096",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/TD-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Austal USA",
+        "id": "ba5c8d2b-8f1b-4f39-80d8-d0ed13d26175",
+        "title": "Test & Activation Specialist 1",
+        "active": true,
+        "date_updated": 1777943522,
+        "date_posted": 1777943207,
+        "url": "https://austalusa.wd1.myworkdayjobs.com/austal/job/Mobile-AL/Test---Activation-Specialist-I_R0011588",
+        "locations": [
+            "Mobile, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Austal-USA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Compa",
+        "id": "a3e66fc2-f094-4891-98f9-735caeb1b1cf",
+        "title": "Software Engineer New Grad",
+        "active": true,
+        "date_updated": 1777943558,
+        "date_posted": 1777943287,
+        "url": "https://jobs.ashbyhq.com/compa/ce7b36cc-3517-46c0-98fe-99924ab400da/application",
+        "locations": [
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Compa",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Franklin Electric",
+        "id": "0d638ae9-0d20-4d99-8188-21e6946615d5",
+        "title": "Global Associate Product Manager - Dispensing Systems - Energy Systems",
+        "active": true,
+        "date_updated": 1777943341,
+        "date_posted": 1777943270,
+        "url": "https://franklin-electric.pinpointhq.com/en/postings/f8d6b3e3-45a5-478f-ab6e-87ce4d643cdc?ats=pinpointhq",
+        "locations": [
+            "Madison, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Franklin-Electric",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "MBA"
         ]
     }
 ]
