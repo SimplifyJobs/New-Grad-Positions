@@ -288420,7 +288420,7 @@
         "company_name": "Centene",
         "id": "942c2e5f-98c2-4818-a2a3-44d04e6f3dff",
         "title": "Business Solutions Developer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1776406218,
         "date_posted": 1776405883,
         "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-OK/Business-Solutions-Developer-I_1635645",
@@ -310192,5 +310192,24 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "PNC Financial Services",
+        "id": "679727bc-927a-4a1c-b3da-0aaa13cbb3b7",
+        "title": "Software Engineer Associate",
+        "active": true,
+        "date_updated": 1777962061,
+        "date_posted": 1777961306,
+        "url": "https://pnc.wd5.myworkdayjobs.com/External/job/AL---Birmingham-35233/Software-Engineer-Associate_R219979",
+        "locations": [
+            "Birmingham, AL",
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/PNC-Financial-Services",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
