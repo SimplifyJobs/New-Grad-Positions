@@ -310573,5 +310573,128 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "The Boeing Company",
+        "id": "8aa2bb01-7d1b-4e68-9bca-2f9baa91049e",
+        "title": "Associate and Experienced Software Engineers - Secure Network & Protocols",
+        "active": true,
+        "date_updated": 1778019842,
+        "date_posted": 1778019009,
+        "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Oklahoma-City-OK/Associate-and-Experienced-Software-Engineers---Secure-Network---Protocols_JR2026509074",
+        "locations": [
+            "Oklahoma City, OK"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "The Boeing Company",
+        "id": "0a15e6f8-6c92-4cf6-b441-10e1f3b31094",
+        "title": "Entry Level Software Developer",
+        "active": true,
+        "date_updated": 1778019960,
+        "date_posted": 1778019009,
+        "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Huntsville-AL/Entry-Level-Software-Developer_JR2026503863",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Rogers Behavioral Health",
+        "id": "866dfdeb-427f-40f5-9c92-cabe2dd6c658",
+        "title": "Therapist \u2013 Child & Adolescent",
+        "active": true,
+        "date_updated": 1778019153,
+        "date_posted": 1778018743,
+        "url": "https://rogersbh.wd1.myworkdayjobs.com/rbhcareer/job/St-Paul-Clinic-Woodbury-MN/Therapist---Child---Adolescent---PHP-IOP_R7031",
+        "locations": [
+            "St Paul, MN",
+            "Woodbury, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/b92a810e-00da-4d83-9a36-b7d609699d59",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "LexisNexis Legal & Professional",
+        "id": "fb5a816a-482b-4787-98ec-a43ee070c7c5",
+        "title": "Product Manager 1",
+        "active": true,
+        "date_updated": 1778019015,
+        "date_posted": 1778018598,
+        "url": "https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Horsham-PA/Product-Manager-I---Hybrid-in-Horsham--PA_R112840-1",
+        "locations": [
+            "Horsham, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/LexisNexis-Legal-And-Professional",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Blue Sky Innovators",
+        "id": "5b6cfd98-f91e-4052-a508-d60c97d76317",
+        "title": "Anti-Tamper Entry-Level Engineer - Support",
+        "active": true,
+        "date_updated": 1778019052,
+        "date_posted": 1778018659,
+        "url": "https://job-boards.greenhouse.io/blueskyinnovators/jobs/5210882008",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Blue-Sky-Innovators",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Eversource Energy",
+        "id": "ee574ff4-1d26-4c6c-adba-4abdd636c94c",
+        "title": "Associate Analyst - AMI Exception Management",
+        "active": true,
+        "date_updated": 1778018581,
+        "date_posted": 1778018458,
+        "url": "https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Westwood-MA/Associate-Analyst--AMI-Exception-Management_R-030549",
+        "locations": [
+            "Manchester, NH",
+            "Agawam, MA",
+            "New Britain, CT",
+            "Hartford, CT",
+            "Norwood, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Eversource-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
