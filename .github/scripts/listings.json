@@ -286039,7 +286039,7 @@
         "company_name": "Skydio",
         "id": "e38883d3-d50a-4f83-8541-001594ce1992",
         "title": "Hardware Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1776302289,
         "date_posted": 1776301794,
         "url": "https://jobs.ashbyhq.com/skydio/6d5e666b-a0b7-45d4-a4de-45aef141ce10/application",
@@ -305847,7 +305847,7 @@
         "company_name": "WPP Media",
         "id": "1dd1def7-d379-410b-965d-7168d1294a29",
         "title": "Investment Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1777558681,
         "date_posted": 1777558670,
         "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5202941008",
@@ -310287,6 +310287,27 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Squarepoint-Capital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "AeroVironment",
+        "id": "ca201bf7-84fa-4e4b-9fd4-030f87a6b3a1",
+        "title": "Machine Learning Engineer 2",
+        "active": true,
+        "date_updated": 1777974878,
+        "date_posted": 1777712667,
+        "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Centreville-VA/Machine-Learning-Engineer_7437",
+        "locations": [
+            "Centreville, VA",
+            "Minneapolis, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/AeroVironment",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
