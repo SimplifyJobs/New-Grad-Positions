@@ -166919,7 +166919,7 @@
         "company_name": "Fortive",
         "id": "8d0d352c-f1c2-4f2c-a857-628a59bd3537",
         "title": "Electronics Calibration and Repair Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1770218120,
         "date_posted": 1770218120,
         "url": "https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8861",
@@ -276546,7 +276546,7 @@
         "company_name": "NextEra Energy",
         "id": "86f2b214-ca03-4538-be78-4f52056b8194",
         "title": "Applied Scientist 1",
-        "active": true,
+        "active": false,
         "date_updated": 1775775566,
         "date_posted": 1775772547,
         "url": "https://jobs.nexteraenergy.com/job/St_-Paul-Applied-Scientist-I-MN-55107/1381060800/?ats=successfactors",
@@ -294581,7 +294581,7 @@
         "company_name": "The Boeing Company",
         "id": "749bba3d-f0f4-42b7-a97e-5db148093c70",
         "title": "Java Software Engineer \u2013 Experienced or Senior - Associate - Bixby",
-        "active": true,
+        "active": false,
         "date_updated": 1776733741,
         "date_posted": 1776733727,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seal-Beach-CA/Java-Software-Engineer--Associate--Experienced-or-Senior----Bixby_JR2026502912-1",
@@ -295148,7 +295148,7 @@
         "company_name": "The Boeing Company",
         "id": "89d50488-a591-4cbd-bd60-c37dad8708e1",
         "title": "Java Software Engineer \u2013 Experienced or Senior - Associate - Bixby",
-        "active": true,
+        "active": false,
         "date_updated": 1776763261,
         "date_posted": 1776763112,
         "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Seal-Beach-CA/Java-Software-Engineer--Associate--Experienced-or-Senior----Bixby_JR2026502912",
@@ -310230,6 +310230,45 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Teledyne",
+        "id": "093e9001-7172-43c2-bdc5-c19c25dd202b",
+        "title": "Principal Electrical Hardware Engineer",
+        "active": true,
+        "date_updated": 1777972488,
+        "date_posted": 1777972214,
+        "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/UK---Chelmsford-TDY/Graduate-Senior-Principal-Electrical-Hardware-Engineer_REQ34549",
+        "locations": [
+            "Essex, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/199b3c43-379a-408c-a6a8-980e79183038",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "CACI",
+        "id": "72707ef5-a7ae-4137-8e41-f180e58ac4b3",
+        "title": "UAS Red Team Pilot",
+        "active": true,
+        "date_updated": 1777971962,
+        "date_posted": 1777714025,
+        "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-MD-Aberdeen-Proving-Ground/UAS-Red-Team-Pilot--PTOC-_325399",
+        "locations": [
+            "Aberdeen, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
         ]
     }
 ]
