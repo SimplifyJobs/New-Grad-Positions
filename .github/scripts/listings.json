@@ -238,25 +238,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Figma",
-        "id": "3bea35c7-6895-4566-a81a-32705074a380",
-        "title": "Early Career - Data Scientist",
-        "active": false,
-        "date_updated": 1762506254,
-        "date_posted": 1757356297,
-        "url": "https://boards.greenhouse.io/figma/jobs/5615025004",
-        "locations": [
-            "SF",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Figma",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "TD Securities",
         "id": "fe55aa52-32ab-4e10-a95a-0c2e4389fa20",
         "title": "Machine Learning Engineer I",
@@ -55569,24 +55550,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "L3Harris Technologies",
-        "id": "6ed51101-a2af-4b33-a2af-1400ecd70bc9",
-        "title": "Associate Data Architect - Herndon - VA",
-        "active": false,
-        "date_updated": 1762940014,
-        "date_posted": 1757357167,
-        "url": "https://jobs.l3harris.com/job/Herndon-Associate,-Data-Architect-(Herndon,-VA)-VA-20171/1311924000/?ats=successfactors",
-        "locations": [
-            "Reston, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Viavi Solutions",
         "id": "b9fb4fdd-ce8d-4692-bf84-7de3a2eea2bd",
@@ -72984,24 +72947,6 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Early-Warning",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Slice (slicelife.com)",
-        "id": "a6a3e049-7705-4778-b661-940154f9d584",
-        "title": "Software Developer",
-        "active": true,
-        "date_updated": 1763716845,
-        "date_posted": 1757356848,
-        "url": "https://slice.careers/careers-listing?gh_jid=7228672",
-        "locations": [
-            "Remote in Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Slicelife",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
