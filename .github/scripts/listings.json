@@ -276978,7 +276978,7 @@
         "source": "Simplify",
         "category": "Hardware",
         "company_name": "General Dynamics UK",
-        "id": "065c3327-c2a5-45a2-a491-9aaaf0af1379",
+        "id": "b37868be-64a9-494d-ab2b-bd0ec39f94ae",
         "title": "Intermediate Systems Engineer - Applications Team",
         "active": true,
         "date_updated": 1775814133,
@@ -311783,6 +311783,45 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Vertiv",
+        "id": "7f31309d-ae96-4145-926a-c3d8e788e90c",
+        "title": "Customer Engineer 1",
+        "active": true,
+        "date_updated": 1778058462,
+        "date_posted": 1774573796,
+        "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20265198",
+        "locations": [
+            "Kansas City, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Vertiv",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Columbia Sportswear Company",
+        "id": "7cae1f9f-9366-41d1-9b13-08f11ba842bc",
+        "title": "Product Line Management Specialist 1",
+        "active": true,
+        "date_updated": 1778058898,
+        "date_posted": 1777712509,
+        "url": "https://columbiasportswearcompany.wd5.myworkdayjobs.com/Columbia_Career_Site/job/Portland-Oregon-United-States-of-America/Product-Merchandising-Coordinator_R-020435-1",
+        "locations": [
+            "Portland, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Columbia-Sportswear-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Certificate"
         ]
     }
 ]
