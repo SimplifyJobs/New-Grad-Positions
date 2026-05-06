@@ -2,24 +2,6 @@
     {
         "source": "Simplify",
         "category": "Hardware",
-        "company_name": "RTX",
-        "id": "fe3b559c-6d17-46af-9a0e-d7c236c83404",
-        "title": "Software Engineer I - Raytheon",
-        "active": false,
-        "date_updated": 1761831318,
-        "date_posted": 1757366999,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/IN206-3939PriorityWay-3939-Priority-Way-Building-6-Indianapolis-IN-46240-USA/XMLNAME-2026-Fulltime---Raytheon-Software-Engineer-I--On-site-_01791951",
-        "locations": [
-            "Indianapolis, IN"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
         "company_name": "Symbotic",
         "id": "7de63c56-a8bc-4966-92db-17ffa0a4b2a6",
         "title": "New Grad-Hardware Engineer",
@@ -263024,7 +263006,7 @@
         "company_name": "CACI",
         "id": "1bebb2c6-a8b5-4a23-814d-c41340c67de7",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1775085661,
         "date_posted": 1775081474,
         "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-NJ-Florham-Park/Software-Engineer_324126",
