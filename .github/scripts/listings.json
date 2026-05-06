@@ -1,95 +1,5 @@
 [
     {
-        "date_updated": 1763990186,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [],
-        "url": "https://hpe.wd5.myworkdayjobs.com/en-US/acjobsite/job/Ft-Collins-Colorado-United-States-of-America/Data-Science-Graduate--Colorado-_1193617",
-        "company_name": "Hewlett Packard Enterprise",
-        "title": "Data Science Graduate",
-        "locations": [
-            "Fort Collins, CO"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "AlmondCroffle",
-        "id": "bfe85994-7d27-4578-b191-e27f6a8a0e0d",
-        "date_posted": 1757313716,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1762473645,
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "degrees": [],
-        "url": "https://jobs.lever.co/Aprio/e52783da-4116-4f88-9bfb-0cc6ce4a6993/",
-        "company_name": "Aprio",
-        "title": "Assurance Associate - Blockchain, Digital Assets, Specialty Lending and AI",
-        "locations": [
-            "San Francisco, CA"
-        ],
-        "category": "Other",
-        "source": "AlmondCroffle",
-        "id": "8935c4c6-0eff-4be7-bf3c-7f36b500cb4f",
-        "date_posted": 1757314093,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1757542323,
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "degrees": [],
-        "url": "https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Durham-NC/Associate-Software-Engineer_2526628",
-        "company_name": "Labcorp",
-        "title": "Associate Software Engineer",
-        "locations": [
-            "Durham, NC"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "0088cc85-7e7c-4563-be41-79a76ddd441a",
-        "date_posted": 1757314225,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1757384342,
-        "sponsorship": "Other",
-        "active": true,
-        "degrees": [],
-        "url": "https://extraspace.wd5.myworkdayjobs.com/en-US/ESS_External/job/Salt-Lake-City-UT-United-States/Associate-Software-Engineer_R-72920",
-        "company_name": "Extra Space Storage",
-        "title": "Associate Software Engineer",
-        "locations": [
-            "Salt Lake City, UT"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "1edbb68c-cff8-4b93-ba93-9e72cca3a9a8",
-        "date_posted": 1757314521,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1758325952,
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "degrees": [],
-        "url": "https://divergehealth.org/jobs/?gh_jid=4840575007",
-        "company_name": "Diverge Health",
-        "title": "Associate Software Developer",
-        "locations": [
-            "Remote in USA"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "57007c96-cbf2-4562-aa20-c94c9d123d00",
-        "date_posted": 1757314647,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
         "source": "Simplify",
         "category": "Hardware",
         "company_name": "Ciena",
@@ -187388,7 +187298,7 @@
         "company_name": "Enbridge",
         "id": "a35f54af-882d-4dcd-9d32-b3059d017787",
         "title": "Junior Java Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1771369571,
         "date_posted": 1771369571,
         "url": "https://enbridge.wd3.myworkdayjobs.com/enbridge_careers/job/Houston-TX-USA/Junior-Java-Developer_70221-1",
