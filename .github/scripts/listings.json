@@ -236,26 +236,6 @@
         "is_visible": true
     },
     {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "TD Securities",
-        "id": "fe55aa52-32ab-4e10-a95a-0c2e4389fa20",
-        "title": "Machine Learning Engineer I",
-        "active": false,
-        "date_updated": 1757358863,
-        "date_posted": 1757358863,
-        "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Machine-Learning-Engineer-I_R_1443721",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/TD-Securities",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "date_updated": 1758672100,
         "sponsorship": "Offers Sponsorship",
         "active": true,
@@ -160628,7 +160608,7 @@
         "company_name": "NVIDIA",
         "id": "a60cd3b5-3242-40c3-9d6a-b40533ef2ef7",
         "title": "ASIC Clocks Design Engineer \u2013 New College Grad 2026",
-        "active": true,
+        "active": false,
         "date_updated": 1769816115,
         "date_posted": 1769816115,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Clocks-Design-Engineer---New-College-Grad-2026_JR2012417",
@@ -286448,7 +286428,7 @@
         "company_name": "BNY",
         "id": "cf7f1e7a-aa08-4643-b22f-8b0f3c6e6557",
         "title": "Loans Administrator and Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1776330541,
         "date_posted": 1776330399,
         "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/71082",
