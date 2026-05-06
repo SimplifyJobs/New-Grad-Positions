@@ -188038,7 +188038,7 @@
         "company_name": "Qualified Health",
         "id": "82cbb85d-1a7b-4ab2-aead-3977c9303f63",
         "title": "Product Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1771381654,
         "date_posted": 1771381654,
         "url": "https://job-boards.greenhouse.io/qualifiedhealth/jobs/5123725008",
@@ -233721,7 +233721,7 @@
         "company_name": "NRG Energy",
         "id": "641718b2-f604-4e11-a393-85a7f3fedbc1",
         "title": "Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1773440516,
         "date_posted": 1773440516,
         "url": "https://careers.nrgenergy.com/nrg/job/Houston-Software-Developer-Hybrid-TX-77010/1365861200/?ats=successfactors",
@@ -264219,7 +264219,7 @@
         "company_name": "Oshkosh",
         "id": "4983516e-cb70-4891-9238-b0dccc00cd67",
         "title": "Engineer - Autonomy",
-        "active": true,
+        "active": false,
         "date_updated": 1775092705,
         "date_posted": 1775092239,
         "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/Engineer---Autonomy_R40893-1",
@@ -294010,7 +294010,7 @@
         "company_name": "Wolverine World Wide",
         "id": "1a4ed750-f5a7-4230-a18f-8665c8b69c71",
         "title": "Ecommerce Trading Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1776724951,
         "date_posted": 1776723610,
         "url": "https://wwwinc.wd1.myworkdayjobs.com/WWW/job/London/eComm-Trading-Assistant---Saucony_2026-10401",
@@ -311757,6 +311757,66 @@
             "West Athens, CA"
         ],
         "company_url": "https://simplify.jobs/c/SpaceX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ISYS Technologies",
+        "id": "30f53880-73b4-4e1c-9b60-4ec99f07caa6",
+        "title": "Software Engineer Associate",
+        "active": true,
+        "date_updated": 1778029561,
+        "date_posted": 1778029560,
+        "url": "https://careers-i2xisys.icims.com/jobs/14954/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Omaha, NE"
+        ],
+        "company_url": "https://simplify.jobs/c/ISYS-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "The Boeing Company",
+        "id": "15373121-dd33-48dd-b5d2-2a961a33e211",
+        "title": "Integration System Engineer",
+        "active": true,
+        "date_updated": 1778029741,
+        "date_posted": 1778029715,
+        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Integration-System-Engineer--Associate-or-Experienced-Level-_JR2026498853-1",
+        "locations": [
+            "Everett, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Airbnb",
+        "id": "af04a379-c566-492a-a293-b0e1c8d272d0",
+        "title": "Software Engineer - Infrastructure",
+        "active": true,
+        "date_updated": 1778029921,
+        "date_posted": 1778029915,
+        "url": "https://careers.airbnb.com/positions/7822704?gh_jid=7822704",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Airbnb",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
