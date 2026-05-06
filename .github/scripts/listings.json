@@ -1,25 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Boom Supersonic",
-        "id": "f321e2b2-f378-4a33-91f6-00583f014a13",
-        "title": "Software Engineer \u2013 New Grad",
-        "active": false,
-        "date_updated": 1757301300,
-        "date_posted": 1757301300,
-        "url": "https://job-boards.greenhouse.io/boomsupersonic/jobs/5643302004",
-        "locations": [
-            "Denver, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Boom-Supersonic",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "date_updated": 1763990186,
         "sponsorship": "Other",
         "active": false,
