@@ -290829,7 +290829,7 @@
         "company_name": "CSA Group",
         "id": "9b80205c-07eb-4eb6-b84e-211ffedaf2d5",
         "title": "Product Safety Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1776528902,
         "date_posted": 1776526288,
         "url": "https://csagroup.wd3.myworkdayjobs.com/csagroup/job/Cleveland-OH/Product-Safety-Engineer_R004581",
@@ -299475,7 +299475,7 @@
         "company_name": "Anthropic",
         "id": "cae148c6-4ac9-4ecd-b929-2dea3f0fe173",
         "title": "Anthropic Fellows Program",
-        "active": true,
+        "active": false,
         "date_updated": 1776981961,
         "date_posted": 1765497408,
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5023394008",
@@ -311802,5 +311802,53 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Salesforce",
+        "id": "f72e4f9c-46ba-4a77-aa67-a10faac92de9",
+        "title": "AI Builder - Emerging Talent",
+        "active": true,
+        "date_updated": 1778047795,
+        "date_posted": 1778047509,
+        "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/AI-Builder--Emerging-Talent_JR341276-1",
+        "locations": [
+            "Seattle, WA",
+            "SF",
+            "Chicago, IL",
+            "NYC",
+            "Bellevue, WA",
+            "Atlanta, GA",
+            "Burlington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Salesforce",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Salesforce",
+        "id": "1a2e58cc-f4e5-478e-a272-afd67fbeedd1",
+        "title": "AI Builder - Emerging Talent",
+        "active": true,
+        "date_updated": 1778047794,
+        "date_posted": 1778047484,
+        "url": "https://salesforce.wd12.myworkdayjobs.com/Futureforce_NewGradRoles/job/California---San-Francisco/AI-Builder--Emerging-Talent_JR341276",
+        "locations": [
+            "Seattle, WA",
+            "SF",
+            "Chicago, IL",
+            "NYC",
+            "Bellevue, WA",
+            "Atlanta, GA",
+            "Burlington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Salesforce",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
