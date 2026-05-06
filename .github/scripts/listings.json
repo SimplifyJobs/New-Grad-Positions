@@ -261295,7 +261295,7 @@
         "company_name": "BlackRock",
         "id": "7e5d832a-861a-4e32-9a26-8e5850ba5ea6",
         "title": "Associate LDI Technology",
-        "active": false,
+        "active": true,
         "date_updated": 1775005284,
         "date_posted": 1774995057,
         "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/London-Greater-London/Associate--LDI-Technology--Algo-Engineer----Fixed-Income-Solutions_R262255",
@@ -311883,5 +311883,67 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "SpaceX",
+        "id": "92a664e3-9513-4946-a33b-3d7b2403dfe6",
+        "title": "Supplier Development Engineer - Reliability - Starlink",
+        "active": true,
+        "date_updated": 1778076541,
+        "date_posted": 1778076368,
+        "url": "https://boards.greenhouse.io/spacex/jobs/8533955002",
+        "locations": [
+            "Bastrop, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/SpaceX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Motorola",
+        "id": "730477dc-023e-4e21-aa1a-3fa0813bafb5",
+        "title": "Graduate Software Engineer",
+        "active": true,
+        "date_updated": 1778076541,
+        "date_posted": 1778076367,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Glasgow-UK-ZUK118/Graduate-Software-Engineer_R62290",
+        "locations": [
+            "Glasgow, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Expedia Group",
+        "id": "ef5c0e01-5160-4a10-8260-f4e6ddc1dd25",
+        "title": "Data Scientist 1 - Analytics",
+        "active": true,
+        "date_updated": 1778076565,
+        "date_posted": 1778076315,
+        "url": "https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Data-Scientist-I--Analytics_R-105457-2",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Expedia-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
