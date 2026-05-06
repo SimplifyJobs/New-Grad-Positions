@@ -311823,5 +311823,26 @@
             "Bachelor's",
             "Certificate"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Columbia Sportswear Company",
+        "id": "97c985e7-9a2d-4bfd-84c2-51d8d60e56dc",
+        "title": "Product Line Management Specialist 1",
+        "active": true,
+        "date_updated": 1778059687,
+        "date_posted": 1777712551,
+        "url": "https://columbiasportswearcompany.wd5.myworkdayjobs.com/en-US/CSC_Careers/job/Portland-Oregon-United-States-of-America/Product-Merchandising-Coordinator_R-020435-2",
+        "locations": [
+            "Portland, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Columbia-Sportswear-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Certificate"
+        ]
     }
 ]
