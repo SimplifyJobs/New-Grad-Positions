@@ -271290,7 +271290,7 @@
         "company_name": "The Boeing Company",
         "id": "39360e7e-8b64-488c-9e9f-7af27f339ade",
         "title": "Comms & Sensor Systems Engineer/Scientist",
-        "active": false,
+        "active": true,
         "date_updated": 1775524861,
         "date_posted": 1775524139,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Mesa-AZ/Comms---Sensor-Systems-Engineer-Scientist_JR2026504495",
@@ -308696,7 +308696,7 @@
         "company_name": "CoStar Group",
         "id": "d36f8484-ae42-463f-be8c-029a9dbeeeeb",
         "title": "Software Engineer 1 - C#/.NET/Database",
-        "active": false,
+        "active": true,
         "date_updated": 1777713742,
         "date_posted": 1777713202,
         "url": "https://costar.wd1.myworkdayjobs.com/en-US/CoStarCareers/job/Orange-County---CA/Apartmentscom---Software-Engineer-I--C--NET-Database-_R38698",
@@ -311596,6 +311596,167 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Take-Two",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Ropes & Gray",
+        "id": "764b3684-4152-4460-a93b-5438b8e83d75",
+        "title": "Conflicts Systems and Data Analyst",
+        "active": true,
+        "date_updated": 1778029561,
+        "date_posted": 1778029455,
+        "url": "https://careers-ropesgray.icims.com/jobs/9132/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Ropes-And-Gray",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Tubi",
+        "id": "d77d8919-5d13-4d52-b1ad-7fce0a2535dc",
+        "title": "AI Solutions Campaign Coordinator",
+        "active": true,
+        "date_updated": 1778029921,
+        "date_posted": 1778029813,
+        "url": "https://job-boards.greenhouse.io/tubitv/jobs/7875704",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tubi",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "KLA Corporation",
+        "id": "ce79eb54-791e-420f-ae5c-f5a5c6243d0d",
+        "title": "System Design Engineer",
+        "active": true,
+        "date_updated": 1778029561,
+        "date_posted": 1778029555,
+        "url": "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/System-Design-Engineer--E-_2636602-1",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/KLA-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Micron Technology",
+        "id": "cac834af-10dd-4206-ad1c-d46be647b983",
+        "title": "Design Validation Product Engineer - DEG Technology",
+        "active": true,
+        "date_updated": 1778029561,
+        "date_posted": 1778029519,
+        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Design-Validation-Product-Engineer--DEG-Technology_JR100261",
+        "locations": [
+            "Boise, ID"
+        ],
+        "company_url": "https://simplify.jobs/c/Micron-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Microsoft",
+        "id": "66a3db04-2eb0-432b-bd6c-63a90f97c37e",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1778030110,
+        "date_posted": 1778029655,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556862452",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Microsoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Tubi",
+        "id": "62f943ff-d0da-4e7d-988b-5cda972538cd",
+        "title": "Creative AI Coordinator",
+        "active": true,
+        "date_updated": 1778029921,
+        "date_posted": 1778029813,
+        "url": "https://job-boards.greenhouse.io/tubitv/jobs/7875690",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tubi",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "The Boeing Company",
+        "id": "36b5e8d3-874f-4963-925c-d218fb31fbb8",
+        "title": "Integration System Engineer",
+        "active": true,
+        "date_updated": 1778029741,
+        "date_posted": 1778029706,
+        "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Everett-WA/Integration-System-Engineer--Associate-or-Experienced-Level-_JR2026498853",
+        "locations": [
+            "Everett, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "SpaceX",
+        "id": "d3a2d6b4-b92c-41cd-8608-e1d2d5e108ff",
+        "title": "Embedded Software Engineer - OS/Platform - Starshield",
+        "active": true,
+        "date_updated": 1778029741,
+        "date_posted": 1778029571,
+        "url": "https://boards.greenhouse.io/spacex/jobs/8530798002",
+        "locations": [
+            "West Athens, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/SpaceX",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
