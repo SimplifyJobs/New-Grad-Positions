@@ -262629,7 +262629,7 @@
         "company_name": "Uline",
         "id": "3d68a30a-72e2-4ba4-a0c2-7a8131abf8e8",
         "title": "Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1775035621,
         "date_posted": 1775035094,
         "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Data-Analyst_R262681-1",
@@ -274783,7 +274783,7 @@
         "company_name": "Google",
         "id": "2a29fd32-df63-4e6d-bd2c-03f8d0a8e8bd",
         "title": "Product Manager 1 - XR Apps",
-        "active": true,
+        "active": false,
         "date_updated": 1775698155,
         "date_posted": 1775696968,
         "url": "https://www.google.com/about/careers/applications/jobs/results/138689101367780038",
@@ -309489,7 +309489,7 @@
         "company_name": "EliseAI",
         "id": "89574762-f733-4d05-8893-ce3c0f49b3b9",
         "title": "Product Operations Analyst - Healthcare",
-        "active": true,
+        "active": false,
         "date_updated": 1777933441,
         "date_posted": 1777932556,
         "url": "https://jobs.ashbyhq.com/EliseAI/de036859-bf94-461a-bada-8c95d582ef0c/application",
@@ -311844,5 +311844,44 @@
             "Bachelor's",
             "Certificate"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Amazon",
+        "id": "984e6460-82ce-4615-9ded-bfefb4dd9057",
+        "title": "AI Data Associate - Artificial General Intelligence Data Services",
+        "active": true,
+        "date_updated": 1778058493,
+        "date_posted": 1778058082,
+        "url": "https://amazon.jobs/en/jobs/10406474/ai-data-associate-with-dutch-artificial-general-intelligence-data-services",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Quest Global",
+        "id": "b92ca74a-3834-417d-b6fc-70832593695f",
+        "title": "Test Witness Technician",
+        "active": true,
+        "date_updated": 1778060062,
+        "date_posted": 1777385351,
+        "url": "https://careers.quest-global.com/global/en/job/P-118137",
+        "locations": [
+            "East Windsor, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/Quest-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
