@@ -43209,7 +43209,7 @@
         "company_name": "JP Morgan Chase",
         "id": "c2aed4f1-df7b-4af4-b34e-4b3bc59c2339",
         "title": "Quant Model Risk Analyst/Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1762436878,
         "date_posted": 1761165029,
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210679051",
@@ -69432,7 +69432,7 @@
         "company_name": "Cisco",
         "id": "c19579ac-cc84-4455-96e5-f56733ea0be3",
         "title": "Software Engineer Backend/Platform Systems 1",
-        "active": true,
+        "active": false,
         "date_updated": 1763664376,
         "date_posted": 1763664376,
         "url": "https://careers.cisco.com/global/en/job/2000046",
@@ -124477,7 +124477,7 @@
         "company_name": "Northrop Grumman",
         "id": "b1e998d0-8aa2-4ecb-9efe-7a369780d460",
         "title": "Space Payload 1&T \u2013 Engineer/Principal Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1767744669,
         "date_posted": 1767744669,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/Space-Payload-I-T---Engineer-Principal-Engineer_R10218297",
@@ -292698,7 +292698,7 @@
         "company_name": "TikTok",
         "id": "77aa9848-628c-4453-9ecf-56ca0d0b14f4",
         "title": "Backend Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1776676501,
         "date_posted": 1776676328,
         "url": "https://lifeattiktok.com/search/7629632305942432053",
@@ -311740,5 +311740,49 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Uline",
+        "id": "96ab7b4f-0521-42f4-9131-1f640c06d82a",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1778058901,
+        "date_posted": 1778058896,
+        "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Data-Analyst_R263733-1",
+        "locations": [
+            "Waukegan, IL",
+            "Milwaukee, WI",
+            "Pleasant Prairie, WI",
+            "Morton Grove, IL",
+            "Kenosha, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Uline",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Radiance Technologies",
+        "id": "a7cba364-c7a7-489b-8cfd-b95168bb9ddd",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1778060161,
+        "date_posted": 1776895564,
+        "url": "https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Stennis-Space-Center-MS/Software-Engineer_HR102134-1",
+        "locations": [
+            "John C. Stennis Space Center, MS"
+        ],
+        "company_url": "https://simplify.jobs/c/Radiance-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
