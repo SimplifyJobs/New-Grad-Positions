@@ -144991,7 +144991,7 @@
         "company_name": "Caesars Entertainment",
         "id": "6f3a0dcb-3645-4857-8cfb-eb8763060d85",
         "title": "Salesforce Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1768955956,
         "date_posted": 1768955956,
         "url": "https://edmn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/78686",
@@ -167334,7 +167334,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "638158a7-a85d-4f35-8803-8a45bac43027",
         "title": "Software Engineer \u2013 Entry Level",
-        "active": true,
+        "active": false,
         "date_updated": 1770939556,
         "date_posted": 1770246758,
         "url": "https://careers-gdms.icims.com/jobs/70392/job?mobile=true&needsRedirect=false",
@@ -298044,7 +298044,7 @@
         "company_name": "NVIDIA",
         "id": "64a9be13-3b80-49e7-a4a3-298116b4159a",
         "title": "GPU Power Architect",
-        "active": true,
+        "active": false,
         "date_updated": 1776906845,
         "date_posted": 1776906431,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/GPU-Power-Architect---New-College-Grad-2026_JR2016783",
@@ -312805,6 +312805,150 @@
         "sponsorship": "Other",
         "degrees": [
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CACI",
+        "id": "d830c768-77c1-45f7-ba6c-2854e2142772",
+        "title": "AI Prompt Engineer",
+        "active": true,
+        "date_updated": 1778105161,
+        "date_posted": 1778105126,
+        "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-VA-Ashburn/AI-Prompt-Engineer_325685",
+        "locations": [
+            "Ashburn, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Lineage Logistics",
+        "id": "c3ce026e-ec44-4c1f-b01d-d8b55eac7fe3",
+        "title": "Technical Analyst - Product Management - Data Solutions",
+        "active": true,
+        "date_updated": 1778106061,
+        "date_posted": 1778105193,
+        "url": "https://onelineage.wd1.myworkdayjobs.com/external/job/Novi-MI-Humboldt-Drive/Technical-Analyst--Product-Management---Data-Solutions-_R0104551",
+        "locations": [
+            "Novi, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Lineage-Logistics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Tradeweb",
+        "id": "b9121e6a-a07d-4149-bffe-7d52d940e7e9",
+        "title": "C++ Developer",
+        "active": true,
+        "date_updated": 1778105161,
+        "date_posted": 1778104997,
+        "url": "https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301754",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Tradeweb",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Tradeweb",
+        "id": "c7f30d3e-e512-4f7a-b55a-1def70a5df88",
+        "title": "Application Support Engineer - Information Management",
+        "active": true,
+        "date_updated": 1778105161,
+        "date_posted": 1778104997,
+        "url": "https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301752",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Tradeweb",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Berkshire Hathaway Energy",
+        "id": "ecd70844-80e6-4fd4-a223-efe07b261bc7",
+        "title": "Software Engineer 1 - GIS Applications",
+        "active": true,
+        "date_updated": 1778105356,
+        "date_posted": 1778105167,
+        "url": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10004955",
+        "locations": [
+            "Richmond, VA",
+            "Davenport, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/Berkshire-Hathaway-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "GM financial",
+        "id": "5676646f-1667-41ff-ac13-722c5d240f8d",
+        "title": "Data Analyst 1 - Model Management",
+        "active": true,
+        "date_updated": 1778105468,
+        "date_posted": 1778104985,
+        "url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2194",
+        "locations": [
+            "Detroit, MI",
+            "Fort Worth, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/GM-Financial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "City of Philadelphia",
+        "id": "eb0bee04-982f-474c-b241-2fd8d8450c18",
+        "title": "Software Engineer Associate - Applications & Automation",
+        "active": true,
+        "date_updated": 1778105496,
+        "date_posted": 1778105119,
+        "url": "https://jobs.smartrecruiters.com/CityofPhiladelphia/744000124986404",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/City-Of-Philadelphia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Certificate"
         ]
     }
 ]
