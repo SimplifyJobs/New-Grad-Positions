@@ -105533,7 +105533,7 @@
         "company_name": "Ochsner Health System",
         "id": "97d30112-5459-4697-98c9-e3028c8812a1",
         "title": "Planning Data Analyst - Strategic Planning",
-        "active": true,
+        "active": false,
         "date_updated": 1766104627,
         "date_posted": 1766104627,
         "url": "https://ochsner.wd1.myworkdayjobs.com/ochsner/job/New-Orleans---New-Orleans-Region---Louisiana/Planning-Data-Analyst---Strategic-Planning_REQ_00239147",
@@ -273626,7 +273626,7 @@
         "company_name": "KBR",
         "id": "b7273d86-9817-40c1-9aa5-ebbf64dd9543",
         "title": "Junior Reverse Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1775689572,
         "date_posted": 1775686150,
         "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Township-Ohio/Junior-Reverse-Engineer_R2121536",
@@ -309578,7 +309578,7 @@
         "company_name": "Beth Israel Lahey Health",
         "id": "cddb8f10-591f-40d9-834f-bbef03df324f",
         "title": "AI Data Scientist",
-        "active": false,
+        "active": true,
         "date_updated": 1777990141,
         "date_posted": 1777990135,
         "url": "https://bilh.wd1.myworkdayjobs.com/External/job/Beth-Israel-Lahey-Health/AI-Data-Scientist_JR95692",
@@ -313282,7 +313282,7 @@
         "company_name": "Old Republic Title",
         "id": "bbb70707-277d-4e6b-8515-319df08b12b6",
         "title": "Business Intelligence Data Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1778106102,
         "date_posted": 1778105223,
         "url": "https://oldrepublic.wd1.myworkdayjobs.com/oldrepublictitle/job/TX-Plano-4965-Preston-Park-Blvd-Ste-20E/Business-Intelligence-Data-Analyst_R-4001",
@@ -314079,5 +314079,188 @@
             "Bachelor's",
             "Associate's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Emerson Electric",
+        "id": "13ce94db-ba46-4d35-983f-f7bf513c5052",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1778192461,
+        "date_posted": 1778191605,
+        "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26005264",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Emerson-Electric",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Blue Origin",
+        "id": "d6a80d8b-58b6-464e-b152-de1adc2cea82",
+        "title": "Avionics Hardware Engineer 2",
+        "active": true,
+        "date_updated": 1778192407,
+        "date_posted": 1778191584,
+        "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Avionics-Hardware-Engineer-II_R64383-1",
+        "locations": [
+            "Washington",
+            "LA",
+            "Phoenix, AZ",
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Blue-Origin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Federal Reserve System",
+        "id": "d156d721-a042-48fe-9807-31e82eaebe66",
+        "title": "Federal Reserve Financial Services Software Engineer 1",
+        "active": true,
+        "date_updated": 1778191679,
+        "date_posted": 1778191327,
+        "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/Federal-Reserve-Financial-Services-Software-Engineer-I_R-0000032219-1",
+        "locations": [
+            "NYC",
+            "Minneapolis, MN",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/6a7a42d3-327f-4b48-a7a7-c68f405e3396",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Icon",
+        "id": "c4aec780-61d3-46a3-a8db-211c9eced1f4",
+        "title": "Founding Engineer",
+        "active": true,
+        "date_updated": 1778191741,
+        "date_posted": 1778191721,
+        "url": "https://jobs.ashbyhq.com/icon/8de569c7-814f-4ffe-9c21-a92d7b806be2/application",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Icon-Me",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "KLA Corporation",
+        "id": "9488c77d-6d74-48b5-aeef-c268e094f2ac",
+        "title": "Product Installation Engineer",
+        "active": true,
+        "date_updated": 1778191858,
+        "date_posted": 1778191517,
+        "url": "https://kla.wd1.myworkdayjobs.com/search/job/USA-OR-Hillsboro-Beaverton-KLA/Product-Installation-Engineer-BBP---Extensive-90----Travel-Required_2636109",
+        "locations": [
+            "Hillsboro, OR",
+            "Chandler, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/KLA-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Fortinet",
+        "id": "80f41d5f-523e-4875-8eec-cfe9e50a0d18",
+        "title": "Software Developer New Grad",
+        "active": true,
+        "date_updated": 1778192508,
+        "date_posted": 1778191636,
+        "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22817",
+        "locations": [
+            "Burnaby, BC, Canada",
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Fortinet",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "PTC",
+        "id": "bc73e138-3099-4018-8af3-33f851c19b72",
+        "title": "Junior Software Engineer",
+        "active": true,
+        "date_updated": 1778192282,
+        "date_posted": 1778191483,
+        "url": "https://ptc.wd1.myworkdayjobs.com/ptc/job/Foster-City-CA-USA/Junior-Software-Engineer_JR112167",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/PTC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Woodward Governor",
+        "id": "f29b0854-9fc8-4fd0-b2e5-62d7ef7f2e12",
+        "title": "Analytics and Master Data Management - Master Data Management - Analyst I",
+        "active": true,
+        "date_updated": 1778191561,
+        "date_posted": 1778191516,
+        "url": "https://woodward.wd5.myworkdayjobs.com/woodward/job/Fort-Collins---Lincoln-Campus-HQ/Analytics-and-Master-Data-Management--MDM--Analyst-I_JR111078",
+        "locations": [
+            "Lincoln, NE",
+            "Fort Collins, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Woodward-Governor",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Grafana Labs",
+        "id": "fec613b4-97d6-4616-bea4-8025f0e24109",
+        "title": "Staff Backend Engineer - Application Core Services - Stacks",
+        "active": true,
+        "date_updated": 1778191741,
+        "date_posted": 1777586747,
+        "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/5968728004",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Grafana-Labs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
