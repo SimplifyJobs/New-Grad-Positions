@@ -293684,7 +293684,7 @@
         "company_name": "Q2",
         "id": "0415d6b1-e379-4e3f-b251-1167c86829b6",
         "title": "Intermediate Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1776725101,
         "date_posted": 1776723642,
         "url": "https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-TX/Intermediate-Software-Engineer_REQ-12361-1",
@@ -313409,7 +313409,7 @@
         "company_name": "Q2",
         "id": "753733bb-3038-4669-8c97-e0a8f4671463",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1778105356,
         "date_posted": 1778105172,
         "url": "https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-TX/Software-Engineer_REQ-12499",
@@ -313889,6 +313889,42 @@
             "Brampton, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Loblaw-Companies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "The Boeing Company",
+        "id": "f062cd77-bfb9-43cc-947d-1518a860c9db",
+        "title": "Metrology & Calibration Technicians \u2013 Associate or Mid-Level",
+        "active": true,
+        "date_updated": 1778134141,
+        "date_posted": 1778134077,
+        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seattle-WA/Metrology---Calibration-Technicians--Associate-or-Mid-Level-_JR2026507092-1",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "The Boeing Company",
+        "id": "7e70be5d-fdbc-40a6-ad5c-8ff7c7776eb5",
+        "title": "Metrology & Calibration Technicians \u2013 Associate or Mid-Level",
+        "active": true,
+        "date_updated": 1778134141,
+        "date_posted": 1778134067,
+        "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Seattle-WA/Metrology---Calibration-Technicians--Associate-or-Mid-Level-_JR2026507092",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
