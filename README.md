@@ -5,9 +5,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/New-Grad-Positions/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
 ---
-### Browse 302 New Grad Roles by Category
+### Browse 303 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (195)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (196)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (5)
 
@@ -79,6 +79,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 </tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Marsh</strong></td>
+<td>Associate Cloud Automation & FinOps Engineer</td>
+<td>Louisville, KY</td>
+<td><a href="https://mmc.wd1.myworkdayjobs.com/en-US/mmc/job/Louisville---West-Market/Associate-Cloud-Automation---FinOps-Engineer_R_346480?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
+<td>0d</td>
+</tr>
 <tr>
 <td><strong>Sigma Defense</strong></td>
 <td>Software Engineer I 🇺🇸</td>

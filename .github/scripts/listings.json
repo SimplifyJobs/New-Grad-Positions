@@ -313995,5 +313995,23 @@
         "date_posted": 1778158327,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1778158682,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://mmc.wd1.myworkdayjobs.com/en-US/mmc/job/Louisville---West-Market/Associate-Cloud-Automation---FinOps-Engineer_R_346480",
+        "company_name": "Marsh",
+        "title": "Associate Cloud Automation & FinOps Engineer",
+        "locations": [
+            "Louisville, KY"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "92cbc2bb-37b7-4a01-82aa-0bd95c7ca278",
+        "date_posted": 1778158682,
+        "company_url": "",
+        "is_visible": true
     }
 ]
