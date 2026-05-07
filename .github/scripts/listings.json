@@ -313887,5 +313887,23 @@
         "date_posted": 1778157142,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1778157260,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-401--401-Jan-Davis-Dr-NW--JAN-DAVIS-401/XMLNAME-2026--Raytheon-Full-Time--Software-Engineer-I---Onsite-_01842968",
+        "company_name": "RTX",
+        "title": "Software Engineer I -(Onsite)",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "a091b6ab-7020-4e69-909b-e285af6ef061",
+        "date_posted": 1778157260,
+        "company_url": "",
+        "is_visible": true
     }
 ]
