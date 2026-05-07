@@ -313977,5 +313977,23 @@
         "date_posted": 1778157739,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1778158327,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://apply.workable.com/sigmadefense/j/2F863B2054/",
+        "company_name": "Sigma Defense",
+        "title": "Software Engineer I",
+        "locations": [
+            "Fairmont, WV"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "a2826988-e5ab-4cd3-9f7c-223bd17588ee",
+        "date_posted": 1778158327,
+        "company_url": "",
+        "is_visible": true
     }
 ]
