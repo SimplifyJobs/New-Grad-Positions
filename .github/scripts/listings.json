@@ -2,26 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Scale AI",
-        "id": "ba5a73f8-843e-45cd-a294-03a095ff6701",
-        "title": "Software Engineer \u2013 New Grad",
-        "active": true,
-        "date_updated": 1757382023,
-        "date_posted": 1757382023,
-        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4605996005",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Scale-AI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Jerry",
         "id": "7f518353-ff97-40d7-abab-3000f533d8b6",
         "title": "Software Engineer I",
@@ -205611,7 +205591,7 @@
         "company_name": "Palantir",
         "id": "1448f4ee-fa48-4c3e-807a-2faf4016ae0f",
         "title": "Software Engineer \u2013 New Grad - Production Infrastructure",
-        "active": true,
+        "active": false,
         "date_updated": 1767695539,
         "date_posted": 1762540600,
         "url": "https://jobs.lever.co/palantir/4d5a144e-87ea-45e2-a68c-3fad590629af/apply",
@@ -299140,7 +299120,7 @@
         "company_name": "Anthropic",
         "id": "cae148c6-4ac9-4ecd-b929-2dea3f0fe173",
         "title": "Anthropic Fellows Program",
-        "active": false,
+        "active": true,
         "date_updated": 1776981961,
         "date_posted": 1765497408,
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5023394008",
@@ -299583,7 +299563,7 @@
         "company_name": "Emerson Electric",
         "id": "b89d91a6-1823-4169-b916-658df70f6686",
         "title": "Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1776992941,
         "date_posted": 1776992764,
         "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26004760",
@@ -312531,7 +312511,7 @@
         "company_name": "Guidehouse",
         "id": "4a1e8da7-cdd6-441c-b44f-3303f155d225",
         "title": "Junior AI/ML Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1778078161,
         "date_posted": 1778076578,
         "url": "https://guidehouse.wd1.myworkdayjobs.com/external/job/US---Remote-Any-location/Junior-AI-ML-Software-Engineer_39068-1",
@@ -314033,5 +314013,43 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Axos Bank",
+        "id": "7ad57d86-abb4-4762-9382-03927d804d8b",
+        "title": "Product Engineer 1",
+        "active": true,
+        "date_updated": 1778116290,
+        "date_posted": 1778116049,
+        "url": "https://axos.wd5.myworkdayjobs.com/Axos/job/Remote-USA/Product-Engineer-I_JR4632",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Axos-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Loblaw Companies",
+        "id": "6e4e6d50-c90e-4ba6-b576-89091b136e51",
+        "title": "Associate Product Manager",
+        "active": true,
+        "date_updated": 1778116321,
+        "date_posted": 1778116271,
+        "url": "https://myview.wd3.myworkdayjobs.com/paradox_careers/job/1-Presidents-Choice-Circle-Brampton-ON/Associate-Product-Manager_R2000661848-1",
+        "locations": [
+            "Brampton, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Loblaw-Companies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
