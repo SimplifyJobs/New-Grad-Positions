@@ -281965,7 +281965,7 @@
         "company_name": "Northrop Grumman",
         "id": "c65d444c-ba74-4d44-bb44-285e864becef",
         "title": "Electrical Engineer - Subsystems",
-        "active": true,
+        "active": false,
         "date_updated": 1776159510,
         "date_posted": 1773297773,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/Engineer-Electrical---Subsystems_R10225727",
@@ -306581,7 +306581,7 @@
         "company_name": "Handshake",
         "id": "df48eea3-5a2b-4b7f-b554-5255c3f0c3c8",
         "title": "Software Engineer 1 - Coding Pod",
-        "active": true,
+        "active": false,
         "date_updated": 1777624381,
         "date_posted": 1777327754,
         "url": "https://jobs.ashbyhq.com/handshake/c8550c33-fd2c-4ba6-aa5a-d1e2574b0b06/application",
@@ -313804,6 +313804,44 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/Apron",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Corpay",
+        "id": "2d4ee2df-d5b7-4ac1-b34c-98371cff1fe3",
+        "title": "Graduate Software Engineer",
+        "active": true,
+        "date_updated": 1778145639,
+        "date_posted": 1778145364,
+        "url": "https://corpay.wd103.myworkdayjobs.com/en-US/ext_001/job/London-The-Point---Cross-Border/Graduate-Software-Engineer_R08243",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Corpay",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "ALSO",
+        "id": "f1b6d19e-a261-4ec6-a1f3-85fc7c152178",
+        "title": "Dyno Technician",
+        "active": true,
+        "date_updated": 1778147461,
+        "date_posted": 1765581520,
+        "url": "https://jobs.ashbyhq.com/Ridealso/8e9d8dca-faae-4c1e-9f5a-8214898aeb45/application",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ALSO",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
