@@ -313789,5 +313789,23 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Apron",
+        "id": "5b8e29b5-89fc-4ad7-82e7-e527da2b37a6",
+        "title": "Product Manager - Bill Pay",
+        "active": true,
+        "date_updated": 1778143564,
+        "date_posted": 1778076497,
+        "url": "https://jobs.ashbyhq.com/apron/bb50986f-894b-4dfb-b0ae-fadba14359d7/application",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Apron",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
