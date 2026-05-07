@@ -1,24 +1,5 @@
 [
     {
-        "date_updated": 1762411909,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": false,
-        "degrees": [],
-        "url": "https://careers-peraton.icims.com/jobs/158538/software-engineering-%28ignite-innovator-pgm%29%2c-associate--herndon-or-blacksburg%2c-va/job",
-        "company_name": "Peraton",
-        "title": "Software Engineering (Ignite Innovator Pgm)",
-        "locations": [
-            "Herndon, VA",
-            "Blacksburg, VA"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "a1a71fa0-4d3a-49d0-8c39-742ca3d20ae8",
-        "date_posted": 1757404344,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "source": "Simplify",
         "category": "Software",
         "company_name": "Visa",
@@ -55030,25 +55011,6 @@
             "Annapolis Junction, MD"
         ],
         "company_url": "https://simplify.jobs/c/GDIT",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "NXP Semiconductors",
-        "id": "12a2a915-3217-4a04-8989-1d89bd94f205",
-        "title": "Entry Level Design \u2013 December 2025 and May 2026 Grads - Verification - And Validation Engineers",
-        "active": false,
-        "date_updated": 1761845457,
-        "date_posted": 1757404802,
-        "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Entry-Level-Design--Verification--and-Validation-Engineers---December-2025-and-May-2026-Grads_R-10060019",
-        "locations": [
-            "Austin, TX",
-            "Chandler, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/NXP-Semiconductors",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
