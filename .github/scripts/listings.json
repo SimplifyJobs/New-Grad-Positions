@@ -292453,7 +292453,7 @@
         "company_name": "Northrop Grumman",
         "id": "66f52552-de78-4788-8f30-9f90291ee71b",
         "title": "Associate Engineer Systems/Engineer Systems",
-        "active": true,
+        "active": false,
         "date_updated": 1776694681,
         "date_posted": 1776694319,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Associate-Engineer-Systems-Engineer-Systems_R10225451-1",
@@ -313767,6 +313767,27 @@
             "Master's",
             "MBA",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Astronomer",
+        "id": "a13a335f-6165-48db-9b40-c085ca476722",
+        "title": "Software Engineer - Data Plane Management",
+        "active": true,
+        "date_updated": 1778144941,
+        "date_posted": 1778144836,
+        "url": "https://jobs.ashbyhq.com/astronomer/282736cd-6967-469b-b13d-63b54424ed1c/application",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Astronomer",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
