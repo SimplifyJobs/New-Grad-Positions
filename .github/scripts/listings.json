@@ -314013,5 +314013,25 @@
         "date_posted": 1778158682,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1778158876,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://hp.wd5.myworkdayjobs.com/en-US/exteu-ac-careersite/job/Spring-Texas-United-States-of-America/Software-Development-Graduate-Roles_3163097",
+        "company_name": "Hewlett Packard (HP)",
+        "title": "Software Development Graduate Roles",
+        "locations": [
+            "Spring, TX",
+            "Corvallis, OR",
+            "Vancouver, WA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "c2cde87a-b950-47b5-9117-9acd7d454c62",
+        "date_posted": 1778158876,
+        "company_url": "",
+        "is_visible": true
     }
 ]
