@@ -1,24 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Symbotic",
-        "id": "93aeba4d-f9cc-4ab2-bdf9-18797a9a15d0",
-        "title": "New Grad-Hardware Engineer",
-        "active": true,
-        "date_updated": 1772431282,
-        "date_posted": 1757377925,
-        "url": "https://symbotic.wd1.myworkdayjobs.com/en-US/Symbotic/job/USA-Wilmington--MA---HQ/New-Grad--Hardware-Engineer_R5411",
-        "locations": [
-            "Burlington, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/symbotic",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Scale AI",
         "id": "ba5a73f8-843e-45cd-a294-03a095ff6701",
@@ -289954,7 +289936,7 @@
         "company_name": "T-Mobile",
         "id": "6bc80244-9636-4993-af7f-59b1d2514281",
         "title": "Associate Engineer - Telecom Billing",
-        "active": true,
+        "active": false,
         "date_updated": 1776474541,
         "date_posted": 1776474370,
         "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Associate-Engineer---Telecom-Billing_REQ352476-1",
