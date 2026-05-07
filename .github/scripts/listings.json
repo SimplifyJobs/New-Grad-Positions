@@ -210729,7 +210729,7 @@
         "company_name": "Bank of Montreal",
         "id": "f87afa85-2004-41a4-b51e-1eefe2c6a6d3",
         "title": "Analyst \u2013 Software Engineer - C#",
-        "active": false,
+        "active": true,
         "date_updated": 1772466845,
         "date_posted": 1772466845,
         "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Analyst--Software-Engineer--C--_R260006682",
@@ -252684,7 +252684,7 @@
         "company_name": "Northrop Grumman",
         "id": "a176e960-5f9b-4cb1-ac8d-5cb87581514a",
         "title": "Hardware Engineer - Level 1 or 2",
-        "active": true,
+        "active": false,
         "date_updated": 1774570744,
         "date_posted": 1774570744,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Hardware-Engineer---Level-1-or-2_R10227492",
@@ -282283,7 +282283,7 @@
         "company_name": "Leidos",
         "id": "2645e9a1-bb8e-43fd-ad49-42dea90d8744",
         "title": "Junior Software Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1776206875,
         "date_posted": 1776204640,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Manassas-VA/Jr-Software-Developer_R-00176918",
@@ -295089,7 +295089,7 @@
         "company_name": "Expedia Group",
         "id": "fb3657d2-cc2f-4ef4-81b7-e1e58d6eb542",
         "title": "Graduate Product Manager",
-        "active": false,
+        "active": true,
         "date_updated": 1776811689,
         "date_posted": 1776809398,
         "url": "https://expedia.wd108.myworkdayjobs.com/private/job/Washington---Seattle-Campus/Product-Management-Graduate---2026---Seattle_R-98583",
@@ -304325,7 +304325,7 @@
         "company_name": "Greenwood Village South",
         "id": "e6a9f36e-952d-4179-9caf-91d3c799482e",
         "title": "Data Engineering Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1777500541,
         "date_posted": 1777500384,
         "url": "https://eexs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/GreenwoodVillageSouth/job/35655",
@@ -314262,5 +314262,282 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "onsemi",
+        "id": "a22c82da-af9a-42b3-aab1-1148f6149e59",
+        "title": "Mask Data Prep Engineer",
+        "active": true,
+        "date_updated": 1778192461,
+        "date_posted": 1778191612,
+        "url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2505404",
+        "locations": [
+            "Allen, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Onsemi",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Medavie",
+        "id": "8524276b-8fb8-4816-ae38-9e5bd17f7298",
+        "title": "Snowflake Developer",
+        "active": true,
+        "date_updated": 1778193361,
+        "date_posted": 1778191576,
+        "url": "https://medaviehs.wd10.myworkdayjobs.com/Medavie_External/job/Nova-Scotia/Snowflake-Developer_R-267771",
+        "locations": [
+            "Ontario, Canada",
+            "NB, Canada",
+            "Nova Scotia, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Medavie",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Fullbay",
+        "id": "7a1725c1-a327-4cf8-b691-f71717664821",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1778193898,
+        "date_posted": 1778191683,
+        "url": "https://fullbay.bamboohr.com/careers/235/",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Fullbay",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "AAA Club Alliance",
+        "id": "dba58b53-e861-403f-ab80-e2aa75cc4186",
+        "title": "Data Engineer Associate",
+        "active": true,
+        "date_updated": 1778192524,
+        "date_posted": 1778191585,
+        "url": "https://ace.wd5.myworkdayjobs.com/careers/job/Costa-Mesa-CA--Remote/D-A-Associate-Data-Engineer_JR202636349",
+        "locations": [
+            "Newport Beach, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/AAA-Club-Alliance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "TRIMEDX",
+        "id": "682f0112-8e9e-4a20-9c4b-dc4f851243af",
+        "title": "Sterilization Technician 1",
+        "active": true,
+        "date_updated": 1778193109,
+        "date_posted": 1778191733,
+        "url": "https://trimedx.wd1.myworkdayjobs.com/TMX/job/Pittsburgh-PA/Sterilization-Tech-I_R13977",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/TRIMEDX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Westinghouse Electric Company",
+        "id": "03a06e26-7aaf-48fb-864e-6abcd5c506d7",
+        "title": "Data Scientist New Grad",
+        "active": true,
+        "date_updated": 1778192126,
+        "date_posted": 1778191543,
+        "url": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Data-Scientist-New-Grad-Leadership-Program-NC/1389167200/?ats=successfactors",
+        "locations": [
+            "Cranberry Twp, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Westinghouse-Electric-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "SharkNinja",
+        "id": "6c9c384c-03ab-4777-a6d7-834e07c0cc2a",
+        "title": "Global Consumer Insights Analyst",
+        "active": true,
+        "date_updated": 1778193901,
+        "date_posted": 1778192356,
+        "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4679449006",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/SharkNinja",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "22a31677-9c7b-42be-bc29-0e6e8077e8e7",
+        "title": "Systems Engineer 1",
+        "active": true,
+        "date_updated": 1778193943,
+        "date_posted": 1778191810,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-401--401-Jan-Davis-Dr-NW--JAN-DAVIS-401/XMLNAME-2026-Fulltime--Systems-Engineer-I---Onsite_01843551",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Fortinet",
+        "id": "0f8b69bb-cbbb-4949-b2a7-23aa41726134",
+        "title": "Software Developer New Grad",
+        "active": true,
+        "date_updated": 1778192655,
+        "date_posted": 1778191637,
+        "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22818",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Fortinet",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Royal Bank of Canada",
+        "id": "d92250ac-7ddf-47e5-bef1-66a9d43b32b2",
+        "title": "Agentic AI Engineer - AI Model Methodology",
+        "active": true,
+        "date_updated": 1778193361,
+        "date_posted": 1778191926,
+        "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Agentic-AI-Engineer--AI-Model-Methodology_R-0000170881-1",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Synergy ECP",
+        "id": "3b0e24f6-2154-493b-9917-855a53ab3daf",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1778193001,
+        "date_posted": 1778191422,
+        "url": "https://jobs.lever.co/synergyecp/9937b3dd-fa2f-40ae-995b-3a896a0e3bd9/apply",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Synergy-ECP",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Icon",
+        "id": "5733231a-1b18-400e-bcb8-12726e7daeeb",
+        "title": "Founding Research Engineer",
+        "active": true,
+        "date_updated": 1778193361,
+        "date_posted": 1778191720,
+        "url": "https://jobs.ashbyhq.com/icon/8b5647c5-cd74-49d0-9198-731704d96e3f/application",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Icon-Me",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "KLA Corporation",
+        "id": "8848ba06-7d7d-4385-a601-c1e649d40919",
+        "title": "Product Installation Engineer BBP",
+        "active": true,
+        "date_updated": 1778191561,
+        "date_posted": 1778191514,
+        "url": "https://kla.wd1.myworkdayjobs.com/search/job/Chandler-AZ/Product-Installation-Engineer-BBP---Extensive-90----Travel-Required_2636108-1",
+        "locations": [
+            "Hillsboro, OR",
+            "Chandler, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/KLA-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Capital Health",
+        "id": "0b53a47f-2cd3-4fc7-8711-05184f73b96d",
+        "title": "IT Associate - Data Engineering",
+        "active": true,
+        "date_updated": 1778192461,
+        "date_posted": 1778191718,
+        "url": "https://capitalhealth.wd1.myworkdayjobs.com/CapitalHealthCareers/job/Pennington-NJ/IT-Associate---Data-Engineering_JR109436",
+        "locations": [
+            "Lawrence Township, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Capital-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
