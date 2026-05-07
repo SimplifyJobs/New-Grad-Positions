@@ -1,24 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "SMX",
-        "id": "460df1fc-80a8-4761-8693-657bc844c1d8",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1761845217,
-        "date_posted": 1757444743,
-        "url": "https://www.smxtech.com/careers/?gh_jid=7141321003",
-        "locations": [
-            "Huntsville, AL"
-        ],
-        "company_url": "https://simplify.jobs/c/Smx",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Tax Relief Advocates",
         "id": "1ae4d477-2ac5-41f7-848a-cf5ccb939aa2",
@@ -232007,7 +231989,7 @@
         "company_name": "University of Rochester",
         "id": "f6148df0-ed10-46d9-acab-e270399e4e65",
         "title": "Data Scientist 1",
-        "active": true,
+        "active": false,
         "date_updated": 1773414608,
         "date_posted": 1773414608,
         "url": "https://rochester.wd5.myworkdayjobs.com/UR_Staff/job/Strong-Memorial-Hospital/Data-Scientist-I_R256225",
@@ -278551,7 +278533,7 @@
         "company_name": "AeroVironment",
         "id": "a7339fe0-9084-42da-b2e4-677a510b1a28",
         "title": "Machine Learning Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1775906291,
         "date_posted": 1775905290,
         "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/5870-Trinity-Parkway-Centreville-VA/Machine-Learning-Engineer-II_6701",
@@ -281658,7 +281640,7 @@
         "company_name": "Vanderbilt Health",
         "id": "b92b5ac0-bddc-4691-9f43-f1526dd72263",
         "title": "Business Intelligence Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1776148388,
         "date_posted": 1776146816,
         "url": "https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Business-Intelligence-Analyst--Remote-_R-57595-1",
