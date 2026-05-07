@@ -313845,5 +313845,23 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "date_updated": 1778157039,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Junior-Software-Development-Engineer_R168092",
+        "company_name": "Adobe",
+        "title": "Junior Software Development Engineer",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "c82f02a7-fd64-4f2a-aa7f-dba069d73058",
+        "date_posted": 1778157039,
+        "company_url": "",
+        "is_visible": true
     }
 ]
