@@ -313959,5 +313959,23 @@
         "date_posted": 1778157577,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1778157739,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://kbr.wd5.myworkdayjobs.com/en-US/kbr_careers/job/El-Segundo-California/Junior-Gen-AI-Developer_R2123034",
+        "company_name": "KBR",
+        "title": "Junior Gen AI Developer",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "ded6428b-8424-43f4-bce0-8b87290a8fcb",
+        "date_posted": 1778157739,
+        "company_url": "",
+        "is_visible": true
     }
 ]
