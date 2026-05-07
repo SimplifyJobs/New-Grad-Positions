@@ -1,41 +1,5 @@
 [
     {
-        "date_updated": 1759953554,
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "degrees": [],
-        "url": "http://amazon.jobs/en/jobs/3071644/security-engineer-aws-global-services-security",
-        "company_name": "Amazon",
-        "title": "Security Engineer",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "7008175b-a348-4881-b7e5-84de3e4da747",
-        "date_posted": 1757401128,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1758672100,
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "degrees": [],
-        "url": "https://careers.arm.com/job/austin/graduate-software-applications-engineer/33099/85831486416",
-        "company_name": "Arm Limited",
-        "title": "Graduate Software Applications Engineer",
-        "locations": [
-            "Austin, TX"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "926863f0-8c2d-4e12-af66-fb8bd5e29053",
-        "date_posted": 1757401240,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
         "date_updated": 1759961324,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
@@ -313928,5 +313892,25 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Nissan Global",
+        "id": "24ce730c-0a41-4a33-b597-9c79c886dc75",
+        "title": "Associate Analyst",
+        "active": true,
+        "date_updated": 1778133961,
+        "date_posted": 1778133890,
+        "url": "https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Associate-Analyst_R00202703-2",
+        "locations": [
+            "Franklin, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/Nissan-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
