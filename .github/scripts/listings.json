@@ -313905,5 +313905,23 @@
         "date_posted": 1778157260,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1778157356,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://job-boards.greenhouse.io/generalmatter/jobs/5157066008",
+        "company_name": "General Matter",
+        "title": "Software Engineer (New Grad)",
+        "locations": [
+            "Los Angeles, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "a473cbbb-a709-41fc-82c2-254b5306ce3c",
+        "date_posted": 1778157356,
+        "company_url": "",
+        "is_visible": true
     }
 ]
