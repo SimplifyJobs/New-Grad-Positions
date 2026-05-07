@@ -5,9 +5,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/New-Grad-Positions/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
 ---
-### Browse 296 New Grad Roles by Category
+### Browse 295 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (190)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (189)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (5)
 
@@ -325,13 +325,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>9d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Handshake?utm_source=GHList&utm_medium=company">Handshake</a></strong></td>
-<td>Software Engineer 1 - Coding Pod</td>
-<td>SF</td>
-<td><div align="center"><a href="https://jobs.ashbyhq.com/handshake/c8550c33-fd2c-4ba6-aa5a-d1e2574b0b06/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/df48eea3-5a2b-4b7f-b554-5255c3f0c3c8?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>9d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/SeatGeek?utm_source=GHList&utm_medium=company">SeatGeek</a></strong></td>
 <td>Software Engineer – New Grad</td>
 <td>NYC</td>
@@ -560,7 +553,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Engineer - New Grad 🇺🇸</td>
 <td>Remote in US</td>
 <td><a href="https://jobs.ashbyhq.com/realmalliance/56d8b433-31ad-43a2-997e-b8538f5f2c9f?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td>23d</td>
+<td>24d</td>
 </tr>
 <tr>
 <td><strong>CAI</strong></td>
@@ -1414,7 +1407,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (1258)</summary>
+<summary>🗃️ Inactive roles (1259)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -1543,6 +1536,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><strong><a href="https://simplify.jobs/c/Amentum?utm_source=GHList&utm_medium=company">Amentum</a></strong></td>
 <td>Entry Level Software Engineer</td>
 <td>Fredericksburg, VA</br>Dahlgren, VA</td>
+<td>🔒</td>
+<td>9d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Handshake?utm_source=GHList&utm_medium=company">Handshake</a></strong></td>
+<td>Software Engineer 1 - Coding Pod</td>
+<td>SF</td>
 <td>🔒</td>
 <td>9d</td>
 </tr>
@@ -1908,14 +1908,14 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Junior Cloud Engineer</td>
 <td>Richmond, VA</td>
 <td>🔒</td>
-<td>23d</td>
+<td>24d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Hewlett-Packard-Enterprise?utm_source=GHList&utm_medium=company">Hewlett Packard Enterprise</a></strong></td>
 <td>Cloud Developer Graduate</td>
 <td>Sunnyvale, CA</td>
 <td>🔒</td>
-<td>23d</td>
+<td>24d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/InductiveAutomation?utm_source=GHList&utm_medium=company">Inductive Automation</a></strong></td>
