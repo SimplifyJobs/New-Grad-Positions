@@ -313869,5 +313869,23 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "date_updated": 1778157142,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/Software-Tools-Engineer-I---Onsite-_01834400",
+        "company_name": "RTX",
+        "title": "Software Tools Engineer I (Onsite)",
+        "locations": [
+            "Cedar Rapids, IA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "2063bad4-0ae5-4f8e-86f5-d9b9a775b175",
+        "date_posted": 1778157142,
+        "company_url": "",
+        "is_visible": true
     }
 ]
