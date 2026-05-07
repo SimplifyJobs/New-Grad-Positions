@@ -292940,7 +292940,7 @@
         "company_name": "Microchip Technology",
         "id": "3ef80712-662c-439f-ac99-8bd718b7960d",
         "title": "Engineer 1 - Parametric - Test and Device",
-        "active": true,
+        "active": false,
         "date_updated": 1776723732,
         "date_posted": 1776723432,
         "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/AZ---Chandler/Engineer-I--Parametric--Test-and-Device-_R1661-26",
@@ -306177,7 +306177,7 @@
         "company_name": "Microchip Technology",
         "id": "2bed3329-194e-42eb-a12b-f21de9248198",
         "title": "Engineer 1-Packaging",
-        "active": true,
+        "active": false,
         "date_updated": 1777616015,
         "date_posted": 1777615584,
         "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/AZ---Chandler/Engineer-I--Packaging_R1879-26",
@@ -313727,5 +313727,46 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Rocket Companies",
+        "id": "47ee4ad3-4425-4731-a3f7-d4a577aa4089",
+        "title": "Software Developer 1 - Right",
+        "active": true,
+        "date_updated": 1778143375,
+        "date_posted": 1777673079,
+        "url": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Seattle-WA/Software-Developer-I---RIGHT_R-082539",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Rocket-Companies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "AXQ Capital",
+        "id": "3e27f6f2-4ccd-49ee-aba7-8e836a225375",
+        "title": "Quantitative Developer",
+        "active": true,
+        "date_updated": 1778142781,
+        "date_posted": 1772435652,
+        "url": "https://job-boards.greenhouse.io/axq/jobs/5575451004",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/AXQ-Capital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "PhD"
+        ]
     }
 ]
