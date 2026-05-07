@@ -22381,7 +22381,7 @@
         "company_name": "Axiom Space",
         "id": "d09e6a67-1220-4a81-aca5-9c33d05ac005",
         "title": "Lunar Terrain Vehicle - Multiple Teams",
-        "active": false,
+        "active": true,
         "date_updated": 1762906454,
         "date_posted": 1762906454,
         "url": "https://axiomspace.wd5.myworkdayjobs.com/External_Career_Site/job/Houston/Lunar-Terrain-Vehicle--LTV--Software-Engineer--NASA-LTVS-Award-Contingent-_JR100297",
@@ -117362,7 +117362,7 @@
         "company_name": "Accenture",
         "id": "8b4d0a2c-e5b4-4518-83e0-07d2ad8cdf78",
         "title": "Technology Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1766447313,
         "date_posted": 1766447313,
         "url": "https://boards.greenhouse.io/accenturefederalservices/jobs/4599649006",
@@ -173078,7 +173078,7 @@
         "company_name": "General Dynamics Information Technology",
         "id": "901f951f-7dc0-4383-a0c8-22481843805e",
         "title": "Software Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1770536638,
         "date_posted": 1770536638,
         "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Herndon/Software-Developer_RQ214333",
@@ -186897,7 +186897,7 @@
         "company_name": "SixGen",
         "id": "054eb30c-5a43-48bf-839d-231fcc49852f",
         "title": "Software Engineer Level 0 - TS/SCI w/ Poly",
-        "active": true,
+        "active": false,
         "date_updated": 1771371485,
         "date_posted": 1771371485,
         "url": "https://job-boards.greenhouse.io/sixgeninc/jobs/5123488008",
@@ -280204,7 +280204,7 @@
         "company_name": "TD Bank",
         "id": "00c909d8-8250-4e5e-9b0c-276febfe7e26",
         "title": "Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1776091781,
         "date_posted": 1776089396,
         "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-I--Java--JEE--Spring--Spring-Boot-_R_1480966",
@@ -281304,7 +281304,7 @@
         "company_name": "RS&H",
         "id": "c6078505-3625-4799-ac81-0bc9302cabbe",
         "title": "Geospatial Associate 1",
-        "active": true,
+        "active": false,
         "date_updated": 1776121223,
         "date_posted": 1776118085,
         "url": "https://careers-rsandh.icims.com/jobs/7913/job?mobile=true&needsRedirect=false",
@@ -304160,7 +304160,7 @@
         "company_name": "Abbott",
         "id": "6e34c1f4-925f-43b5-a601-3440a8edfb82",
         "title": "Clinical Product Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1777501290,
         "date_posted": 1777500498,
         "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---California---Sylmar/Clinical-Product-Engineer-I_31148142",
@@ -314012,6 +314012,201 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Opto Investments",
+        "id": "cffdce30-292f-44ad-96b0-5b71ee237bc5",
+        "title": "Product Manager",
+        "active": true,
+        "date_updated": 1778163933,
+        "date_posted": 1778163743,
+        "url": "https://job-boards.greenhouse.io/optoinvest/jobs/7723545003",
+        "locations": [
+            "SF",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/OptoInvest",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Barry-Wehmiller",
+        "id": "40f2a2ed-d941-446e-ab1e-0d71d805f542",
+        "title": "Application Engineer",
+        "active": true,
+        "date_updated": 1778163842,
+        "date_posted": 1778162926,
+        "url": "https://barrywehmiller.wd1.myworkdayjobs.com/BWCareers/job/Mediapolis-IA/Application-Engineer_R021581",
+        "locations": [
+            "New Boston, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Barry-Wehmiller",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Oscar Health",
+        "id": "24f7a852-c520-4e80-ac50-0942ada112c0",
+        "title": "Analytics Engineer 1",
+        "active": true,
+        "date_updated": 1778162990,
+        "date_posted": 1778162631,
+        "url": "http://www.hioscar.com/careers/7872595?gh_jid=7872595",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Oscar-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "JP Morgan Chase",
+        "id": "ef0ea6b9-1400-447e-8937-f085133bc273",
+        "title": "Reporting and Governance Associate - Artificial Intelligence Program Management",
+        "active": true,
+        "date_updated": 1778162761,
+        "date_posted": 1778162735,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210739028",
+        "locations": [
+            "Christchurch, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Silna Health",
+        "id": "772a2d21-c205-40ad-9ef1-3d7df917020f",
+        "title": "AI Deployment Analyst",
+        "active": true,
+        "date_updated": 1778162941,
+        "date_posted": 1778162891,
+        "url": "https://jobs.ashbyhq.com/silnahealth.com/18dd6319-4df0-4535-b974-882f61f26101/application",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Silna-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Royal Bank of Canada",
+        "id": "75dbb1e5-0396-447a-bbe2-156a251e181e",
+        "title": "Associate \u2013 Data Analytics",
+        "active": true,
+        "date_updated": 1778163301,
+        "date_posted": 1778163148,
+        "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/Saint-Helier-Jersey/Associate--Data-Analytics_R-0000170529-2",
+        "locations": [
+            "Newcastle upon Tyne, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Leidos",
+        "id": "205d7786-f928-411d-be51-f4576a5bf1f5",
+        "title": "Cartographic Analyst Junior",
+        "active": true,
+        "date_updated": 1778163576,
+        "date_posted": 1778162865,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/2034-Springfield-VA/Cartographic-Analyst-Junior_R-00182739-1",
+        "locations": [
+            "Springfield, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Ring Power",
+        "id": "ddbe827a-f0da-4b07-b5ab-212063146054",
+        "title": "Business Intelligence Developer 1",
+        "active": true,
+        "date_updated": 1778163045,
+        "date_posted": 1778162592,
+        "url": "https://careers-ringpower.icims.com/jobs/14669/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Palm Coast, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Ring-Power",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's",
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "General Dynamics Information Technology",
+        "id": "ca67e38a-db72-4b7a-8984-8dca2c60cf77",
+        "title": "Software & Development Clearance Sponsorship Opportunity",
+        "active": true,
+        "date_updated": 1778163881,
+        "date_posted": 1778162763,
+        "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-McLean/Software---Development-Clearance-Sponsorship-Opportunity_RQ219408-1",
+        "locations": [
+            "Chantilly, VA",
+            "McLean, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/GDIT",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Barry-Wehmiller",
+        "id": "c5708808-9825-49c4-a7d3-66d2faaa4d93",
+        "title": "Application Engineer",
+        "active": true,
+        "date_updated": 1778163842,
+        "date_posted": 1778162935,
+        "url": "https://barrywehmiller.wd1.myworkdayjobs.com/BWCareers/job/Mediapolis-IA/Application-Engineer_R021582-1",
+        "locations": [
+            "New Boston, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Barry-Wehmiller",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
         ]
     }
 ]
