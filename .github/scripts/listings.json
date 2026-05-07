@@ -313941,5 +313941,23 @@
         "date_posted": 1778157510,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1778157577,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/McLean-VA/University--Full-Stack-Developer_R0237571",
+        "company_name": "Booz Allen",
+        "title": "Full Stack Developer, Junior",
+        "locations": [
+            "McLean, VA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "ef516ec6-4dd7-49bb-9ac3-3ebd0ae25eb4",
+        "date_posted": 1778157577,
+        "company_url": "",
+        "is_visible": true
     }
 ]
