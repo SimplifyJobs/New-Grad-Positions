@@ -304475,7 +304475,7 @@
         "company_name": "PG&E",
         "id": "066f6838-38bd-47c8-b703-7a354e40e564",
         "title": "Data Science/Engineer - Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1777500361,
         "date_posted": 1777500204,
         "url": "https://careers.pge.com/job/Oakland-Data-ScienceEngineer,-Associate-CA-94612/1386702900/?ats=successfactors",
@@ -313709,5 +313709,23 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Helsing",
+        "id": "0721e26e-4b8a-49f9-9cdd-4ccfe8d68fa9",
+        "title": "Production Technician",
+        "active": true,
+        "date_updated": 1778141521,
+        "date_posted": 1776175845,
+        "url": "https://helsing.ai/jobs/4839991101?gh_jid=4839991101",
+        "locations": [
+            "Exeter, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Helsing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
