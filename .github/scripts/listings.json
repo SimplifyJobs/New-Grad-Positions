@@ -307682,7 +307682,7 @@
         "company_name": "RBI",
         "id": "7f79b415-6f1a-4afc-b4ca-ba1a4ed572fe",
         "title": "Analyst \u2013 Data Engineer - Burger King",
-        "active": false,
+        "active": true,
         "date_updated": 1777672981,
         "date_posted": 1777672928,
         "url": "https://rbi.wd3.myworkdayjobs.com/RBI_External_Career_Site/job/Corp---Miami-Corporate-Office/Analyst--Data-Engineer--Burger-King_R3161",
@@ -313971,5 +313971,47 @@
         "date_posted": 1778158682,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Rocket Software",
+        "id": "8ef9ec94-2cd9-44c1-a0c8-c9d81c946638",
+        "title": "Software Engineer - Nextgen",
+        "active": true,
+        "date_updated": 1778163842,
+        "date_posted": 1778162957,
+        "url": "https://rocket.wd5.myworkdayjobs.com/en-US/rocket_careers/job/Newbury-United-Kingdom/Software-Engineer---NextGen_R2026-6463",
+        "locations": [
+            "Newbury, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/ff0e403d-7fb1-43cf-81ba-a2f00c99612b",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Schreder",
+        "id": "09372e99-9ecb-4124-bf92-993e0b4c6644",
+        "title": "Graduate Lighting Project Designer",
+        "active": true,
+        "date_updated": 1778162761,
+        "date_posted": 1778162729,
+        "url": "https://jobs.smartrecruiters.com/Schrder/744000125120679",
+        "locations": [
+            "Basingstoke, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Schreder",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
