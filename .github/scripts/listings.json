@@ -259356,7 +259356,7 @@
         "company_name": "Radius Limited",
         "id": "ef9a8f7e-03c8-48d2-ac0f-62bb18be153f",
         "title": "Installation Support Administrator",
-        "active": true,
+        "active": false,
         "date_updated": 1774981621,
         "date_posted": 1773440308,
         "url": "https://jobs.smartrecruiters.com/RadiusLimited/744000114696409",
@@ -313847,21 +313847,27 @@
         "degrees": []
     },
     {
-        "date_updated": 1778157039,
-        "sponsorship": "Other",
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Uline",
+        "id": "82d3c709-66e7-4842-8efe-538eb41174f6",
+        "title": "Associate Ecommerce Data Analyst",
         "active": true,
-        "degrees": [],
-        "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Junior-Software-Development-Engineer_R168092",
-        "company_name": "Adobe",
-        "title": "Junior Software Development Engineer",
+        "date_updated": 1778145481,
+        "date_posted": 1778145343,
+        "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Associate-eCommerce-Data-Analyst_R263823-1",
         "locations": [
-            "San Jose, CA"
+            "Waukegan, IL",
+            "Milwaukee, WI",
+            "Pleasant Prairie, WI",
+            "Morton Grove, IL",
+            "Kenosha, WI"
         ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "c82f02a7-fd64-4f2a-aa7f-dba069d73058",
-        "date_posted": 1778157039,
-        "company_url": "",
-        "is_visible": true
+        "company_url": "https://simplify.jobs/c/Uline",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
