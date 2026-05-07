@@ -3,46 +3,6 @@
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Adobe",
-        "id": "cf31e3a7-ad75-4417-ba00-3fcbc98b644f",
-        "title": "2026 University Graduate - Machine Learning Engineer",
-        "active": false,
-        "date_updated": 1761557399,
-        "date_posted": 1757385678,
-        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Machine-Learning-Engineer_R157573",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Adobe",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Other",
-        "company_name": "Adobe",
-        "id": "b3ef6e74-a8c5-4541-af5e-dc69ff1d6a1a",
-        "title": "2026 University Graduate - Application Security Engineer",
-        "active": false,
-        "date_updated": 1757385677,
-        "date_posted": 1757385677,
-        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Application-Security-Engineer_R159164",
-        "locations": [
-            "SF",
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Adobe",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Adobe",
         "id": "244f393c-0175-416b-9508-c052f8313587",
         "title": "2026 University Graduate - Machine Learning Engineer",
         "active": false,
@@ -2986,26 +2946,6 @@
             "North Charleston, SC"
         ],
         "company_url": "https://simplify.jobs/c/Sev1Tech",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Radiant",
-        "id": "1b97d314-67da-40b1-9e94-2cac9a751f6a",
-        "title": "Software Engineer \u2013 2026 New Graduate",
-        "active": false,
-        "date_updated": 1758315594,
-        "date_posted": 1757386034,
-        "url": "https://job-boards.greenhouse.io/radiant/jobs/4606578005",
-        "locations": [
-            "El Segundo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Radiant",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -55386,25 +55326,6 @@
             "Waterloo, IA"
         ],
         "company_url": "https://simplify.jobs/c/TruStage",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Viavi Solutions",
-        "id": "f45194e5-2a9b-4bd9-bdb4-e442a791b93d",
-        "title": "Early Careers Rotational Program - Development Engineer - FPGA Track",
-        "active": false,
-        "date_updated": 1757386672,
-        "date_posted": 1757386672,
-        "url": "https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Germantown-MD-USA/Rotational-Program---Development-Engineer--FPGA-Track-_250003821-1",
-        "locations": [
-            "Germantown, MD",
-            "Ashburn, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Viavi-Solutions",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
