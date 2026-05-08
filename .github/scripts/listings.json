@@ -1,44 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Tax Relief Advocates",
-        "id": "1ae4d477-2ac5-41f7-848a-cf5ccb939aa2",
-        "title": "Junior Machine Learning Engineer",
-        "active": false,
-        "date_updated": 1757466330,
-        "date_posted": 1757466330,
-        "url": "https://job-boards.greenhouse.io/taxreliefadvocates/jobs/4759563008",
-        "locations": [
-            "Irvine, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Tax-Relief-Advocates",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "RTX",
-        "id": "e9d56d2d-2eae-4b40-94e9-04b1b6f991a2",
-        "title": "Embedded Software Engineer I",
-        "active": false,
-        "date_updated": 1761831351,
-        "date_posted": 1757467264,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HTX36-Richardson-TX-3200-E-Renner-Rd---Richardson-TX-75082-2402-USA/Embedded-Software-Engineer-I--Onsite-_01788530-1",
-        "locations": [
-            "Richardson, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "RTX",
         "id": "6500c071-c098-4c15-97e1-95edf268be0b",
@@ -47,26 +9,6 @@
         "date_updated": 1757468396,
         "date_posted": 1757468396,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HIA32-Cedar-Rapids-IA-400-Collins-Rd-NE---Cedar-Rapids-IA-52498-0505-USA/Software-Engineer-I--Onsite-_01792476",
-        "locations": [
-            "Cedar Rapids, IA"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Other",
-        "company_name": "RTX",
-        "id": "89141f56-0558-428b-970f-de05949c8f2d",
-        "title": "Cybersecurity Engineer I",
-        "active": false,
-        "date_updated": 1757467779,
-        "date_posted": 1757467779,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HIA32-Cedar-Rapids-IA-400-Collins-Rd-NE---Cedar-Rapids-IA-52498-0505-USA/Cybersecurity-Engineer-I--Onsite-_01791225",
         "locations": [
             "Cedar Rapids, IA"
         ],
@@ -54730,24 +54672,6 @@
             "Hanover, MD"
         ],
         "company_url": "https://simplify.jobs/c/GDIT",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Northrop Grumman",
-        "id": "d215f36a-d13b-4846-8f28-c9f5c7884491",
-        "title": "Software Engineer / Principal Software Engineer - Dee",
-        "active": false,
-        "date_updated": 1757467636,
-        "date_posted": 1757467636,
-        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Software-Engineer---Principal-Software-Engineer--DEE-_R10207096",
-        "locations": [
-            "Melbourne, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -272358,7 +272282,7 @@
         "company_name": "NVIDIA",
         "id": "413d117f-632b-4098-b066-0b8de0e920ad",
         "title": "ASIC Design Engineer \u2013 New College Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1775640570,
         "date_posted": 1775639253,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Design-Engineer---New-College-Grad-2026_JR2016023",
@@ -314716,7 +314640,7 @@
         "company_name": "Intuit",
         "id": "f076e1b8-2f1a-41a7-b2a9-af9ffbc9d827",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1778192689,
         "date_posted": 1778191694,
         "url": "https://jobs.intuit.com/job/san-diego/software-engineer-1/27595/94824269264",
@@ -315175,6 +315099,109 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Shield AI",
+        "id": "70831ce7-6242-42d8-8e77-85275f72a7a5",
+        "title": "Engineer 1 - Electromechanical",
+        "active": true,
+        "date_updated": 1778202732,
+        "date_posted": 1778202358,
+        "url": "https://jobs.lever.co/shieldai/37f1de6d-d17b-437b-af16-d8ce8d7d0782/apply",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Shield-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "NVIDIA",
+        "id": "554a1d55-b2ed-4ef9-af44-40bf835c74dd",
+        "title": "GPU Verification Engineer New Grad",
+        "active": true,
+        "date_updated": 1778202849,
+        "date_posted": 1778202592,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-MA-Westford/GPU-Verification-Engineer---New-College-Grad-2026_JR2017593",
+        "locations": [
+            "Westford, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "NVIDIA",
+        "id": "bfcd7fcc-bedf-4dac-8ae3-4fdfaf21ffa2",
+        "title": "ASIC Floorplan Design Engineer New Grad",
+        "active": true,
+        "date_updated": 1778202764,
+        "date_posted": 1778202592,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Floorplan-Design-Engineer---New-College-Grad-2026_JR2012971",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amazon",
+        "id": "017d6fec-ba3d-4ce1-bd85-23ba298b5fce",
+        "title": "Software Engineer 1 - Commerce Engineering",
+        "active": true,
+        "date_updated": 1778202316,
+        "date_posted": 1778202185,
+        "url": "https://amazon.jobs/en/jobs/3202388/software-engineer-i-commerce-engineering",
+        "locations": [
+            "Seattle, WA",
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "University of Southern California",
+        "id": "a9aed34d-8d22-4be7-a05a-6c0dc91be542",
+        "title": "Research Programmer 1",
+        "active": true,
+        "date_updated": 1778202257,
+        "date_posted": 1778202075,
+        "url": "https://usc.wd5.myworkdayjobs.com/ExternalUSCCareers/job/Los-Angeles-CA---University-Park-Campus/Research-Programmer-I_REQ20174030",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Southern-California",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
             "Master's"
         ]
     }
