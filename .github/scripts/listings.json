@@ -1,26 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Medpace, Inc.",
-        "id": "4696b689-e123-4907-bfa7-a6870a2641f8",
-        "title": "Junior Data Engineer",
-        "active": false,
-        "date_updated": 1757538785,
-        "date_posted": 1757538785,
-        "url": "https://careers.medpace.com/jobs/11361?lang=en-us&icims=1",
-        "locations": [
-            "Cincinnati, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Medpace-Inc",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "General Dynamics Mission Systems",
         "id": "ff834142-dd05-4ada-b858-b18e0bc0de19",
@@ -12956,24 +12936,6 @@
             "SF"
         ],
         "company_url": "https://simplify.jobs/c/TRM-Labs",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Medpace, Inc.",
-        "id": "5b45f1a4-ce82-412c-adfb-6e28abe7f9b5",
-        "title": "Entry Level - Clinical Database Programmer",
-        "active": false,
-        "date_updated": 1761862200,
-        "date_posted": 1757538793,
-        "url": "https://careers.medpace.com/jobs/10870?lang=en-us&icims=1",
-        "locations": [
-            "Cincinnati, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Medpace-Inc",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -54094,42 +54056,6 @@
             "Fayetteville, NC"
         ],
         "company_url": "https://simplify.jobs/c/Akima",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Medpace, Inc.",
-        "id": "65ae6d99-86ae-412b-99cf-9071d83c85c0",
-        "title": "Information Security Analyst",
-        "active": false,
-        "date_updated": 1757538836,
-        "date_posted": 1757538836,
-        "url": "https://careers.medpace.com/jobs/11526?lang=en-us&icims=1",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Medpace-Inc",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Empower AI",
-        "id": "c1a15da8-ca35-46ce-8eb2-42c15b25339b",
-        "title": "IT Systems Quality Control Inspector",
-        "active": false,
-        "date_updated": 1763130306,
-        "date_posted": 1757538627,
-        "url": "https://careers-empowerai.icims.com/jobs/8416/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Leesville, LA"
-        ],
-        "company_url": "https://simplify.jobs/c/Empower-AI",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -294272,7 +294198,7 @@
         "company_name": "Bank of Montreal",
         "id": "e90a8965-94bb-4ee9-9f81-2b500c201159",
         "title": "Credit Risk Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1776809508,
         "date_posted": 1776809086,
         "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Credit-Risk-Data-Analyst---6-Month-Contract---New-or-Recent-Graduate-Opportunity_R260009235",
@@ -300858,7 +300784,7 @@
         "company_name": "Amentum",
         "id": "e7ea5167-214c-4040-8718-1dee8da3b3af",
         "title": "LOX Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1777330801,
         "date_posted": 1777327679,
         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-FL-Kennedy-Space-Center/LOX-Engineer_R0160129",
@@ -308417,7 +308343,7 @@
         "company_name": "TD Bank",
         "id": "eac49634-b07b-432a-82d6-f229be105ce6",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1777933763,
         "date_posted": 1777932671,
         "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-I_R_1487454",
