@@ -306608,7 +306608,7 @@
         "company_name": "Vishay Intertechnology",
         "id": "7c4ed2a3-4c70-4fa6-88b4-5da04188cea4",
         "title": "Prototype Operator 1",
-        "active": true,
+        "active": false,
         "date_updated": 1777674061,
         "date_posted": 1777673218,
         "url": "https://vishay.wd3.myworkdayjobs.com/VishayCareers/job/Duluth-MN/Prototype-Operator-1_JR-16314",
@@ -315174,5 +315174,44 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Pinterest",
+        "id": "df19a1dd-1f91-4ec7-837e-547399356f9d",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1778250684,
+        "date_posted": 1778249813,
+        "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7872497",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Pinterest",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "UAP",
+        "id": "e882d993-344c-4358-922b-e596747878b1",
+        "title": "Product Management Administration Technician",
+        "active": true,
+        "date_updated": 1778249882,
+        "date_posted": 1778249100,
+        "url": "https://jobs.smartrecruiters.com/UAPInc/744000125343087",
+        "locations": [
+            "Longueuil, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/UAP",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
