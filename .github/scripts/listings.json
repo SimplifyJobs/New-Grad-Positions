@@ -54214,24 +54214,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Huntsman",
-        "id": "3b4fe0ef-9c0c-4322-b5c1-11a510585186",
-        "title": "IT - Data & Analytics",
-        "active": false,
-        "date_updated": 1762922092,
-        "date_posted": 1757531320,
-        "url": "https://huntsman.wd1.myworkdayjobs.com/Huntsman/job/USA---Texas---Houston---The-Woodlands---Corporate-Office/IT---Data---Analytics_J-018964-1",
-        "locations": [
-            "The Woodlands, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Huntsman",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Citizens Financial Group",
         "id": "f1af1b61-ff8f-49ea-89b0-f329d096f78a",
         "title": "Data Engineer",
@@ -264122,7 +264104,7 @@
         "company_name": "Lawrence Berkeley National Laboratory",
         "id": "f959d8a4-f191-42dc-952b-16549de56eea",
         "title": "Data Systems Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1775170621,
         "date_posted": 1775167748,
         "url": "https://lbl.taleo.net/careersection/5/jobdetail.ftl?job=106337",
@@ -308876,7 +308858,7 @@
         "company_name": "RTX",
         "id": "7b5dd98f-ae04-40d8-b19c-30d78c63ba95",
         "title": "FPGA Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1777990453,
         "date_posted": 1777990184,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Raytheon-Full-Time-2026---Multi-Product-Power---Digital-FPGA-Engineer-I_01842702",
