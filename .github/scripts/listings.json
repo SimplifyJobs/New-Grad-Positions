@@ -13042,24 +13042,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "BryceTech",
-        "id": "b58d022a-bedb-4d2c-b0eb-432d8e208942",
-        "title": "Junior Exercise Software IT Specialist",
-        "active": false,
-        "date_updated": 1757521532,
-        "date_posted": 1757521532,
-        "url": "https://jobs.smartrecruiters.com/BryceTech/744000080865323",
-        "locations": [
-            "Suffolk, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/BryceTech",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Esri",
         "id": "af006b99-f0cd-40b6-aa02-cf5333840403",
         "title": "Publishing Product Engineer I - Arcgis Enterprise",
@@ -305323,7 +305305,7 @@
         "company_name": "L3Harris Technologies",
         "id": "6d3cef03-11d3-4384-8b66-fa99457535a3",
         "title": "Associate Electrical Designer",
-        "active": true,
+        "active": false,
         "date_updated": 1777587168,
         "date_posted": 1777586836,
         "url": "https://jobs.l3harris.com/job/Waterdown-Associate,-Electrical-Designer-ON-L9H-0C5/1369933600/?ats=successfactors",
