@@ -1,26 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "General Dynamics Mission Systems",
-        "id": "441205ce-38a4-40c1-ac16-8feaeea2875c",
-        "title": "Software Engineer Entry Level - Java / C++",
-        "active": false,
-        "date_updated": 1757536566,
-        "date_posted": 1757536566,
-        "url": "https://careers-gdms.icims.com/jobs/67488/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Manassas, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Medpace, Inc.",
         "id": "4696b689-e123-4907-bfa7-a6870a2641f8",
@@ -54150,24 +54130,6 @@
             "Leesville, LA"
         ],
         "company_url": "https://simplify.jobs/c/Empower-AI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Cook Group",
-        "id": "50c09ca4-36b0-428e-81cd-fdc2d0a1b157",
-        "title": "Service Technician",
-        "active": false,
-        "date_updated": 1763130877,
-        "date_posted": 1757536555,
-        "url": "https://americas-cookmedical.icims.com/jobs/17170/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Philadelphia, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Cook-Group",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
