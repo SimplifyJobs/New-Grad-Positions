@@ -1,26 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Other",
-        "company_name": "Cable One",
-        "id": "fd690af3-6f2c-4d4e-9bf7-72aa86204d61",
-        "title": "Cyber Security Engineer I",
-        "active": false,
-        "date_updated": 1757471425,
-        "date_posted": 1757471425,
-        "url": "https://cableone.wd1.myworkdayjobs.com/Cable_One_External_Careers/job/Phoenix-AZ/Cyber-Security-Engineer-I_R-105943-1",
-        "locations": [
-            "Phoenix, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Cable-One",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Visa",
         "id": "a7d3a768-07d8-4a3f-86ee-8961a812b194",
@@ -308682,7 +308662,7 @@
         "company_name": "ASML",
         "id": "bd21378d-42f2-4b78-abd8-3d8be7248dad",
         "title": "LabVIEW Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1777933162,
         "date_posted": 1777932419,
         "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/National-Instruments-LabVIEW-Developer_J-00338572-1",
