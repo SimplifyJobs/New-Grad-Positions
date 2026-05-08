@@ -1,23 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Visa",
-        "id": "a7d3a768-07d8-4a3f-86ee-8961a812b194",
-        "title": "Software Engineer \u2013 New College Grad",
-        "active": false,
-        "date_updated": 1757527861,
-        "date_posted": 1757493166,
-        "url": "https://jobs.smartrecruiters.com/Visa/744000080904205",
-        "locations": [
-            "Bellevue, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Visa",
-        "is_visible": true,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "degrees": []
-    },
-    {
         "date_updated": 1757507941,
         "sponsorship": "Offers Sponsorship",
         "active": false,
