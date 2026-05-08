@@ -2,67 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Visa",
-        "id": "bd3e5c92-982c-40f7-8a22-24f26fcd1034",
-        "title": "Software Engineer \u2013 New College Grad",
-        "active": false,
-        "date_updated": 1757541848,
-        "date_posted": 1757541848,
-        "url": "https://jobs.smartrecruiters.com/Visa/744000080905065",
-        "locations": [
-            "San Mateo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Visa",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Cellular Sales",
-        "id": "c7c1c6c0-062c-431e-b8f1-9d7b798ac33c",
-        "title": "Junior Data Engineer",
-        "active": false,
-        "date_updated": 1757542524,
-        "date_posted": 1757542524,
-        "url": "https://careers-cellularsales.icims.com/jobs/19001/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Knoxville, TN"
-        ],
-        "company_url": "https://simplify.jobs/c/Cellular-Sales",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Iridium Communications",
-        "id": "9f81e03e-67c6-4385-903a-18c1bcfaf9ea",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1757545863,
-        "date_posted": 1757542246,
-        "url": "https://careers-iridium.icims.com/jobs/4644/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Chandler, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Iridium-Communications",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Susquehanna International Group (SIG)",
         "id": "5759211d-5a88-4eb2-be9b-fd2d0bd803aa",
         "title": "Software Developer \u2013 New Grad - Market Data - Libraries & Tools",
@@ -117,26 +56,6 @@
             "Dahlgren, VA"
         ],
         "company_url": "https://simplify.jobs/c/Amentum",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Integration Innovation (i3)",
-        "id": "da2084e4-faca-4fb8-90c3-82fdeba3c6b1",
-        "title": "Entry Level Full-Stack Software Engineer",
-        "active": false,
-        "date_updated": 1757551572,
-        "date_posted": 1757542243,
-        "url": "https://careers-i3-corps.icims.com/jobs/4833/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Huntsville, AL"
-        ],
-        "company_url": "https://simplify.jobs/c/I3",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -4509,26 +4428,6 @@
             "Ottawa, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Ciena",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "QinetiQ",
-        "id": "35613efd-81db-49ef-b91c-05b18a9fade3",
-        "title": "Junior Data Scientist - Data Analysis - Machine Learning",
-        "active": false,
-        "date_updated": 1759199126,
-        "date_posted": 1757542266,
-        "url": "https://careers-qinetiqus.icims.com/jobs/11796/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Washington, DC"
-        ],
-        "company_url": "https://simplify.jobs/c/QinetiQ",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -53964,60 +53863,6 @@
             "Lubbock, TX"
         ],
         "company_url": "https://simplify.jobs/c/Parkhill",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "GSA Capital",
-        "id": "447ee0ea-c917-4823-a94d-158484dfb9a0",
-        "title": "Infrastructure Assistant",
-        "active": false,
-        "date_updated": 1757542717,
-        "date_posted": 1757542717,
-        "url": "https://www.gsacapital.com/careers/gh/?gh_jid=4625058002",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/GSA-Capital",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Lewis Brisbois",
-        "id": "fa82af33-8c0b-4a23-b9bc-cfa99b42d3e4",
-        "title": "Financial Systems Analyst 1",
-        "active": false,
-        "date_updated": 1763123136,
-        "date_posted": 1757542258,
-        "url": "https://careers-lewisbrisbois.icims.com/jobs/12143/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Fort Lauderdale, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Lewis-Brisbois",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Lewis Brisbois",
-        "id": "e85e101e-9c84-4129-bcb0-cc9acb76a0b5",
-        "title": "Financial Systems Analyst 1",
-        "active": false,
-        "date_updated": 1762908807,
-        "date_posted": 1757542259,
-        "url": "https://careers-lewisbrisbois.icims.com/jobs/12139/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Lewis-Brisbois",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -169608,7 +169453,7 @@
         "company_name": "RTX",
         "id": "6d717f77-0df8-4239-b5c3-3407363916a4",
         "title": "Systems Engineer 2",
-        "active": true,
+        "active": false,
         "date_updated": 1770345427,
         "date_posted": 1770345427,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB2--50-Apple-Hill-Dr--SUDBURY-BLDG-Tewksbury-Tb2-200-Sudbury/XMLNAME-2026---Fulltime-Systems-Engineer-II---Onsite_01821700",
@@ -259628,7 +259473,7 @@
         "company_name": "L3Harris Technologies",
         "id": "6d770b68-03df-4da6-ac08-4a11e5c27d16",
         "title": "Manufacturing Technician B",
-        "active": true,
+        "active": false,
         "date_updated": 1775002681,
         "date_posted": 1774994794,
         "url": "https://jobs.l3harris.com/job/Rochester-Manufacturing-Technician-B-NY-14610-1839/1378477800/?ats=successfactors",
@@ -306234,7 +306079,7 @@
         "company_name": "Columbia Sportswear Company",
         "id": "f831eb93-36f9-4c8a-a28e-008ef94b52a6",
         "title": "Product Line Management Specialist 1 - Outerwear",
-        "active": true,
+        "active": false,
         "date_updated": 1777673479,
         "date_posted": 1777673044,
         "url": "https://columbiasportswearcompany.wd5.myworkdayjobs.com/en-US/CSC_Careers/job/Portland-Oregon-United-States-of-America/Product-Line-Management-Specialist-I---Outerwear_R-019249-3",
@@ -314836,6 +314681,284 @@
             "Washington, DC"
         ],
         "company_url": "https://simplify.jobs/c/TekSynap",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "SHI International ",
+        "id": "4b5796c6-8cc3-464d-8fe4-7a4bfeaee0d2",
+        "title": "International IDCS Build Technician",
+        "active": true,
+        "date_updated": 1778277961,
+        "date_posted": 1778277898,
+        "url": "https://shi.wd12.myworkdayjobs.com/shicareers/job/Dodworth-United-Kingdom/International-IDCS-Build-Technician_JR3051",
+        "locations": [
+            "Sheffield, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/SHI-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pennsylvania State University",
+        "id": "2996a6ee-f2d3-435c-ac5f-483d0768559e",
+        "title": "Postdoctoral Scholar - Gong Lab",
+        "active": true,
+        "date_updated": 1778278141,
+        "date_posted": 1778278066,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Scholar--Environmental-Health-Science-and-Geospatial-Science--Gong-Lab_REQ_0000078246-1",
+        "locations": [
+            "State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "WGU",
+        "id": "c2e3fdeb-c04c-45fe-8bae-5548e7897145",
+        "title": "Senior Psychometrician",
+        "active": true,
+        "date_updated": 1778278141,
+        "date_posted": 1778277985,
+        "url": "https://wgu.wd5.myworkdayjobs.com/en-US/External/job/Salt-Lake-City-UT/Senior-Psychometrician_JR-024647-1",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/e05ef31f-f120-4063-adad-2b2fdde995cb",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "NucleusTeq",
+        "id": "5e6aa3fc-45fa-4932-829b-6fdc3d5a0564",
+        "title": "Graduate Trainee",
+        "active": true,
+        "date_updated": 1778278861,
+        "date_posted": 1778278103,
+        "url": "https://nucleusteq.breezy.hr/p/695264e84c5c/apply",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/NucleusTeq",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "3PillarGlobal",
+        "id": "e16d8622-ab7e-4ca6-9a62-a004db53675d",
+        "title": "Mobile Engineer - React Native - Swift",
+        "active": true,
+        "date_updated": 1778277961,
+        "date_posted": 1778277856,
+        "url": "https://jobs.lever.co/3pillarglobal/0e279ae3-bf1e-4825-85c9-07f6178000e6/apply",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/3PillarGlobal",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "S&T Bank",
+        "id": "88bb4e9e-75e4-43f9-940e-ee0a2d1314cd",
+        "title": "Data & Analytics Senior Analyst",
+        "active": true,
+        "date_updated": 1778278141,
+        "date_posted": 1778277992,
+        "url": "https://stbancorp.wd5.myworkdayjobs.com/ST_Bank_Careers/job/Main-Office/Data---Analytics-Senior-Analyst_R-1181",
+        "locations": [
+            "Greensburg, PA",
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/ST-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Unity",
+        "id": "7b73b851-387c-4570-9383-e19114557731",
+        "title": "Machine Learning Engineer New Grad - Offline Infrastructure",
+        "active": true,
+        "date_updated": 1778278307,
+        "date_posted": 1778277927,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=7902260",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Unity",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Dyna Robotics",
+        "id": "701ada33-13fc-4c61-96d2-f3f71fa5f7a9",
+        "title": "Data Collection Operator",
+        "active": true,
+        "date_updated": 1778278141,
+        "date_posted": 1778278108,
+        "url": "https://jobs.ashbyhq.com/dyna-robotics/3dc6a8a5-98fe-4e33-8a61-08ccff952985/application",
+        "locations": [
+            "San Carlos, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Dyna-Robotics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "T.D. Williamson",
+        "id": "f09ea3a3-8d84-418d-988c-d077881bf7b6",
+        "title": "In-Line Inspection Data Analyst",
+        "active": true,
+        "date_updated": 1778278305,
+        "date_posted": 1778277940,
+        "url": "https://tdwilliamson.wd1.myworkdayjobs.com/en-US/TDWCareers/job/Salt-Lake-City-UT/ILI-Signal-Data-Analyst_REQ-03449",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/TD-Williamson",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Ernst & Young",
+        "id": "9a15de10-77b4-4bb2-ae42-ed469259f5e8",
+        "title": "Americas Tax Technology Group Tax - Engineering",
+        "active": true,
+        "date_updated": 1778278381,
+        "date_posted": 1778277942,
+        "url": "https://eyglobal.yello.co/jobs/0m3IMV1LeGFu8D0t3z_1zQ?job_board_id=c1riT--B2O-KySgYWsZO1Q",
+        "locations": [
+            "Nashville, TN",
+            "Austin, TX",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Ernst-And-Young",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Maryland - College Park",
+        "id": "a3de7dd7-1dca-4566-b189-b76577cc41f3",
+        "title": "Machine Learning Application Engineer",
+        "active": true,
+        "date_updated": 1778278304,
+        "date_posted": 1778277921,
+        "url": "https://umd.wd1.myworkdayjobs.com/UMCP/job/University-of-Maryland-College-Park/Machine-Learning-Application-Engineer_JR104089",
+        "locations": [
+            "Hyattsville, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Maryland-College-Park",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Unity",
+        "id": "2b7c178a-58c0-4d7e-8b89-18a1da8f1c87",
+        "title": "Machine Learning Engineer New Grad - Offline Infrastructure",
+        "active": true,
+        "date_updated": 1778278243,
+        "date_posted": 1778277927,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=7906593",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Unity",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "iPipeline",
+        "id": "8a6f04ee-406d-41ef-842b-d3715681597f",
+        "title": "Associate Software Development Engineer",
+        "active": true,
+        "date_updated": 1778277961,
+        "date_posted": 1778277938,
+        "url": "https://careers-ipipeline.icims.com/jobs/1657/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Villanova, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/IPipeline",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "University of Central Florida",
+        "id": "3399d455-50e2-412e-a668-269827458dc4",
+        "title": "AI Automation Designer 1",
+        "active": true,
+        "date_updated": 1778278239,
+        "date_posted": 1778277919,
+        "url": "https://ucf.wd1.myworkdayjobs.com/careers/job/Orlando-FL-Main-Campus/AI-Automation-Designer-I_R113267",
+        "locations": [
+            "Orlando, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/UCF",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
