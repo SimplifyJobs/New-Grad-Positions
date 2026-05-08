@@ -1,26 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "RTX",
-        "id": "6500c071-c098-4c15-97e1-95edf268be0b",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1757468396,
-        "date_posted": 1757468396,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HIA32-Cedar-Rapids-IA-400-Collins-Rd-NE---Cedar-Rapids-IA-52498-0505-USA/Software-Engineer-I--Onsite-_01792476",
-        "locations": [
-            "Cedar Rapids, IA"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Other",
         "company_name": "Cable One",
         "id": "fd690af3-6f2c-4d4e-9bf7-72aa86204d61",
@@ -54678,24 +54658,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Argonne National Laboratory",
-        "id": "c6837f2c-0b77-4dc4-bc5d-f02fccb4b3bc",
-        "title": "Assistant Scientist - Cnm",
-        "active": false,
-        "date_updated": 1757468159,
-        "date_posted": 1757468159,
-        "url": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/XMLNAME---Assistant-Scientist---Data-Driven-and-Autonomous-Materials-Discovery--CNM-_421023",
-        "locations": [
-            "Woodridge, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Argonne-National-Laboratory",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "7-Eleven",
         "id": "a1f524f0-61b6-45d3-a10f-c7275329381c",
@@ -105491,7 +105453,7 @@
         "company_name": "Figure",
         "id": "f7ab3aa0-2842-452a-bf8f-84aa2ba7aeda",
         "title": "Helix Data Creator",
-        "active": true,
+        "active": false,
         "date_updated": 1766103825,
         "date_posted": 1766103825,
         "url": "https://job-boards.greenhouse.io/figureai/jobs/4627110006",
@@ -148390,7 +148352,7 @@
         "company_name": "Loop",
         "id": "aff0bb8a-52b1-43c4-9cc3-d415c0439d24",
         "title": "2026 New Grad - Software Engineer - Full-Stack",
-        "active": false,
+        "active": true,
         "date_updated": 1769221627,
         "date_posted": 1769221627,
         "url": "https://job-boards.greenhouse.io/loop/jobs/5780582004",
@@ -256813,7 +256775,7 @@
         "company_name": "Meridian Link",
         "id": "079eb5e3-2758-4902-861e-7440b96643fc",
         "title": "Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1774911606,
         "date_posted": 1774908530,
         "url": "https://jobs.ashbyhq.com/meridianlink/f1c03b5e-dcbb-41b7-81be-f63042f4d940/application",
@@ -315202,6 +315164,107 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northrop Grumman",
+        "id": "3228d14c-a877-49df-b248-40aef414d2e6",
+        "title": "Test Conductor / Principal Test Conductor",
+        "active": true,
+        "date_updated": 1778202867,
+        "date_posted": 1778202470,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/Test-Conductor--Principal-Test-Conductor_R10231087",
+        "locations": [
+            "Palmdale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "GE Healthcare",
+        "id": "483be30c-52bc-439c-a640-8fa8fddc0452",
+        "title": "Data Analyst & GenAI Specialist - Enterprise AI",
+        "active": true,
+        "date_updated": 1778202703,
+        "date_posted": 1778202399,
+        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/IL03-01-Chicago-500-W-Monroe-St/Data-Analyst---GenAI-Specialist--Enterprise-AI_R4040317-2",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Healthcare",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northrop Grumman",
+        "id": "57188420-86bc-4aa9-97c2-9a1eea64ec7d",
+        "title": "Electromechanical Engineer",
+        "active": true,
+        "date_updated": 1778202549,
+        "date_posted": 1778202479,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Electromechanical-Engineer--Level-1-OR-2-_R10232218",
+        "locations": [
+            "Aurora, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "OpenSesame",
+        "id": "56bbd8f4-9d47-44b8-b8a9-4f13bb3c91b3",
+        "title": "Software Engineer Associate",
+        "active": true,
+        "date_updated": 1778203572,
+        "date_posted": 1778203345,
+        "url": "https://boards.greenhouse.io/opensesame/jobs/7906033",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/963a56fa-e9b4-40b5-a889-cbab72a215a2",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Microchip Technology",
+        "id": "4c100868-e669-4dce-ac3d-8e5537b9f54f",
+        "title": "Engineer 1 - IT Systems",
+        "active": true,
+        "date_updated": 1778202889,
+        "date_posted": 1778202480,
+        "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/AZ---Chandler/Engineer-I--IT-Systems_R1207-26",
+        "locations": [
+            "Chandler, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Microchip-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
             "Master's"
         ]
     }
