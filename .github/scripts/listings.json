@@ -293259,7 +293259,7 @@
         "company_name": "Cadence Design Systems",
         "id": "bcd44aa0-9e5c-40f8-b0fc-78b0908707dd",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1776733992,
         "date_posted": 1776733605,
         "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Engineer-II_R50810-1",
@@ -315195,5 +315195,25 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TekSynap",
+        "id": "e1db8742-8a47-4a70-b402-b9509ed7b794",
+        "title": "Senior Data Engineer",
+        "active": true,
+        "date_updated": 1778233501,
+        "date_posted": 1776866741,
+        "url": "https://careers-teksynap.icims.com/jobs/9179/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/TekSynap",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
