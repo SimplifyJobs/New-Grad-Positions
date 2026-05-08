@@ -54176,24 +54176,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Emerson Electric",
-        "id": "88a51da3-900e-4dcc-aba8-4a033a6c2c78",
-        "title": "Manufacturing Software Engineer",
-        "active": false,
-        "date_updated": 1757527798,
-        "date_posted": 1757527798,
-        "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/25025075",
-        "locations": [
-            "Eden Prairie, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Emerson-Electric",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Cook Group",
         "id": "50c09ca4-36b0-428e-81cd-fdc2d0a1b157",
@@ -54354,42 +54336,6 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Coinbase",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Emerson Electric",
-        "id": "9e721049-7236-434c-a4e2-99b784ef8c7b",
-        "title": "Product Management Engineer",
-        "active": false,
-        "date_updated": 1757527791,
-        "date_posted": 1757527791,
-        "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/25025083",
-        "locations": [
-            "Eden Prairie, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Emerson-Electric",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Emerson Electric",
-        "id": "97a92905-4362-4fe4-aaf4-bf4c62f6e06c",
-        "title": "Software Engineer - IT",
-        "active": false,
-        "date_updated": 1757527795,
-        "date_posted": 1757527795,
-        "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/25025155",
-        "locations": [
-            "Eden Prairie, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Emerson-Electric",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -268559,7 +268505,7 @@
         "company_name": "Amentum",
         "id": "599f97cc-04c3-4877-aada-a1a6bbfdf8a6",
         "title": "Systems Engineering Simulator - Integrated Studies Team Member - Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1775470501,
         "date_posted": 1775466446,
         "url": "https://jacobs.taleo.net/careersection/ex3/jobdetail.ftl?job=ADV000CLW",
@@ -285674,7 +285620,7 @@
         "company_name": "Hyster-Yale Materials Handling",
         "id": "68a66352-b879-475d-824b-d9a5745d6877",
         "title": "Application Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1776348894,
         "date_posted": 1776348500,
         "url": "https://hysteryale.wd1.myworkdayjobs.com/hyster-yalecareers/job/HY-EMEA-UK-Irvine/Application-Engineer-I_R7945",
@@ -298882,7 +298828,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "f6330022-551c-4e0a-a098-747bdf19dd1a",
         "title": "Fixed Income Trading Analyst - Early Careers",
-        "active": true,
+        "active": false,
         "date_updated": 1777021561,
         "date_posted": 1777021387,
         "url": "https://careers-sig.icims.com/jobs/10827/job?mobile=true&needsRedirect=false",
@@ -303576,7 +303522,7 @@
         "company_name": "Nasdaq",
         "id": "cb5171c5-ba75-4ba7-aa70-f4b45d2c55f0",
         "title": "Senior Software Developer - Lakehouse Data Integration",
-        "active": true,
+        "active": false,
         "date_updated": 1777501629,
         "date_posted": 1777500652,
         "url": "https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/Canada---St-Johns---Newfoundland--Labrador/Verafin---Senior-Software-Developer--Lakehouse-Data-Integration-_R0025985",
@@ -306935,7 +306881,7 @@
         "company_name": "Columbia Sportswear Company",
         "id": "5ed26c6a-e67b-4b6f-9094-c9458fb82407",
         "title": "Product Line Management Specialist 1 - Outerwear",
-        "active": true,
+        "active": false,
         "date_updated": 1777673414,
         "date_posted": 1777673041,
         "url": "https://columbiasportswearcompany.wd5.myworkdayjobs.com/Columbia_Career_Site/job/Portland-Oregon-United-States-of-America/Product-Line-Management-Specialist-I---Outerwear_R-019249-2",
