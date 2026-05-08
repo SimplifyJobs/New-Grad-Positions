@@ -315211,5 +315211,23 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Spotify",
+        "id": "7b05b710-349e-403e-b719-5b89d6330f42",
+        "title": "Associate Analytics Engineer",
+        "active": true,
+        "date_updated": 1778230981,
+        "date_posted": 1778230964,
+        "url": "https://jobs.lever.co/spotify/d95e1989-9a1a-4853-95b1-ecdebf5f81ff/apply",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Spotify",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
