@@ -187827,7 +187827,7 @@
         "company_name": "JP Morgan Chase",
         "id": "a4aad8c4-9986-41fb-a34f-cc96716c834f",
         "title": "Martech Product Manager",
-        "active": false,
+        "active": true,
         "date_updated": 1771456662,
         "date_posted": 1771456662,
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210713064",
@@ -299424,7 +299424,7 @@
         "company_name": "University of Arkansas",
         "id": "a907bc15-6287-4ece-80f3-989d2d656ec3",
         "title": "HCM & Finance Reporting & Automation Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1777068676,
         "date_posted": 1777068246,
         "url": "https://uasys.wd5.myworkdayjobs.com/uasys/job/Fayetteville/HCM---Finance-Reporting---Automation-Assistant_R0084827-2",
@@ -312237,7 +312237,7 @@
         "company_name": "Walmart",
         "id": "63c99946-ce91-4381-82ad-a8fa8702946d",
         "title": "Senior Data Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1778106377,
         "date_posted": 1778105463,
         "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/Senior--Data-Scientist_R-2492706",
@@ -315098,5 +315098,81 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pennsylvania State University",
+        "id": "5e2ad792-0b10-46c8-b8c8-0a2bd8386f8d",
+        "title": "Senior Grad Researcher for Mars Atmosphere",
+        "active": true,
+        "date_updated": 1778250441,
+        "date_posted": 1778249312,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-time-Senior-Grad-Researcher-for-Mars-Atmosphere_REQ_0000078311-1",
+        "locations": [
+            "State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "9e46ab04-745e-49fb-b971-94dd6fabe77a",
+        "title": "Environmental Lab Engineer - Engineering Technician B 1",
+        "active": true,
+        "date_updated": 1778250067,
+        "date_posted": 1778249263,
+        "url": "https://jobs.l3harris.com/job/Londonderry-Environmental-Lab,-Engineering-Technician-B-1-NH-03053/1389350000/?ats=successfactors",
+        "locations": [
+            "Merrimack, NH"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Graphcore",
+        "id": "f3bf9a9f-934e-4822-ab11-a2619bdeb436",
+        "title": "Lab Support Engineer - Linux & Windows",
+        "active": true,
+        "date_updated": 1778249341,
+        "date_posted": 1778249205,
+        "url": "https://job-boards.greenhouse.io/graphcore/jobs/8540581002",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Graphcore",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "NEC Software Solutions",
+        "id": "3651c2cf-2f2d-47a3-b137-1fb3e9a5a56a",
+        "title": "Data and Analytics Developer",
+        "active": true,
+        "date_updated": 1778249161,
+        "date_posted": 1778249120,
+        "url": "https://jobs.smartrecruiters.com/NECSWS/744000125330884",
+        "locations": [
+            "Remote in UK"
+        ],
+        "company_url": "https://simplify.jobs/c/NEC-Software-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
