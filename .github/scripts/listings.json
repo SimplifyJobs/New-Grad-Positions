@@ -1,26 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "LSEG",
-        "id": "93c66ea2-9e08-4953-bcd0-25dde3130368",
-        "title": "Junior Analyst-Data Scientist",
-        "active": false,
-        "date_updated": 1757530416,
-        "date_posted": 1757530416,
-        "url": "https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/GBR-Nottingham-1-Chapel-Qtr/Junior-Analyst--Data-Scientist_R0111079-1",
-        "locations": [
-            "Nottingham, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/LSEG",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "General Dynamics Mission Systems",
         "id": "441205ce-38a4-40c1-ac16-8feaeea2875c",
@@ -54269,79 +54249,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Emerson Electric",
-        "id": "bc6931cf-b256-418f-9b24-2bf641234a03",
-        "title": "Cybersecurity Engineer",
-        "active": false,
-        "date_updated": 1757529935,
-        "date_posted": 1757529935,
-        "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/25025751",
-        "locations": [
-            "Shakopee, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Emerson-Electric",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Citizens Financial Group",
-        "id": "c74a9862-01d4-4af9-a9a8-28dda634acf7",
-        "title": "Technology Risk Analyst",
-        "active": false,
-        "date_updated": 1757583634,
-        "date_posted": 1757529586,
-        "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/41926",
-        "locations": [
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/Citizens-Financial-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Emerson Electric",
-        "id": "bbbd33cf-62c3-467c-a6d6-2f6c575f16e3",
-        "title": "Software Engineer",
-        "active": false,
-        "date_updated": 1757529673,
-        "date_posted": 1757529673,
-        "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/25025153",
-        "locations": [
-            "Shakopee, MN",
-            "Eden Prairie, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Emerson-Electric",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Coinbase",
-        "id": "909c064b-5e77-46a2-ac28-e5e4ee52214d",
-        "title": "Product Manager 1 - Martech & SEO - Consumer Growth",
-        "active": false,
-        "date_updated": 1762971819,
-        "date_posted": 1757529296,
-        "url": "https://boards.greenhouse.io/embed/job_app?token=7121821",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Coinbase",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "General Dynamics Information Technology",
         "id": "d54689b7-964b-4bd0-9bfb-b3db384cc58e",
@@ -77778,7 +77685,7 @@
         "company_name": "Morgan Stanley",
         "id": "98a01e7f-8267-4ec4-a065-e72cee3cf741",
         "title": "IED Quantitative Trading Assistant - Analyst/Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1764123842,
         "date_posted": 1764123842,
         "url": "https://ms.wd5.myworkdayjobs.com/External/job/Salt-Lake-City-Utah-United-States-of-America/IED---Quantitative-Trading-Assistant---Analyst-Associate_JR025328-1",
@@ -144655,7 +144562,7 @@
         "company_name": "Morgan Stanley",
         "id": "95cbe458-a7fd-408b-8b27-d51548b5b1ed",
         "title": "Ied \u2013 Quantitative Trading Assistant - Analyst/Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1766100182,
         "date_posted": 1764123842,
         "url": "https://ms.wd5.myworkdayjobs.com/private/job/Salt-Lake-City-Utah-United-States-of-America/IED---Quantitative-Trading-Assistant---Analyst-Associate_JR025328",
@@ -290777,7 +290684,7 @@
         "company_name": "Equifax",
         "id": "7565c613-f435-462b-b2eb-c77c4235bec9",
         "title": "Rotational Technology Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1776529262,
         "date_posted": 1776526994,
         "url": "https://equifax.wd5.myworkdayjobs.com/UR_External/job/USA---Georgia---Alpharetta---30005/Rotational-Technology-Associate_J00170959",
