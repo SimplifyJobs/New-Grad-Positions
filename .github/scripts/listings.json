@@ -1,27 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Visa",
-        "id": "2d3a9ad7-4d3e-4984-b030-688e147dee14",
-        "title": "Software Engineer \u2013 New College Grad",
-        "active": false,
-        "date_updated": 1757527251,
-        "date_posted": 1757527251,
-        "url": "https://jobs.smartrecruiters.com/Visa/744000080906828",
-        "locations": [
-            "Highlands Ranch, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Visa",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "LSEG",
         "id": "93c66ea2-9e08-4953-bcd0-25dde3130368",
@@ -293498,7 +293477,7 @@
         "company_name": "L3Harris Technologies",
         "id": "da9ebba4-018d-46ea-9750-8427ff5812c4",
         "title": "Associate \u2013 Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1776762541,
         "date_posted": 1775686195,
         "url": "https://jobs.l3harris.com/job/Melbourne-Associate,-Software-Engineer-FL-32919/1374791300/?ats=successfactors",
@@ -303555,7 +303534,7 @@
         "company_name": "Morgan Stanley",
         "id": "6fa43c19-da22-4ab4-b519-febf7e976e5d",
         "title": "xVA Trading - Fixed Income Division",
-        "active": true,
+        "active": false,
         "date_updated": 1777501624,
         "date_posted": 1777500696,
         "url": "https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/xVA-Trading---Fixed-Income-Division---Analyst-Associate_JR036102",
@@ -303990,7 +303969,7 @@
         "company_name": "Radiance Technologies",
         "id": "4810d9d3-9ef0-4c05-b81b-8765bce41f9a",
         "title": "Entry Level Microelectronics R&D Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1777501062,
         "date_posted": 1777500383,
         "url": "https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Ruston-LA/Entry-level-Microelectronics-R-D-Engineer_HR102151",
@@ -305450,7 +305429,7 @@
         "company_name": "Paramount Global",
         "id": "35633281-14b8-4fd4-b3a0-3eaef550b95a",
         "title": "Associate Product Manager",
-        "active": true,
+        "active": false,
         "date_updated": 1777597561,
         "date_posted": 1777597559,
         "url": "https://careers.paramount.com/job/Burbank-Associate-Product-Manager-CA-91505/1387218700/?ats=successfactors",
