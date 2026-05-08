@@ -2,26 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "General Dynamics Mission Systems",
-        "id": "ff834142-dd05-4ada-b858-b18e0bc0de19",
-        "title": "Software Engineer \u2013 Entry Level",
-        "active": false,
-        "date_updated": 1757540304,
-        "date_posted": 1757540304,
-        "url": "https://careers-gdms.icims.com/jobs/67905/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Manassas, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Visa",
         "id": "bd3e5c92-982c-40f7-8a22-24f26fcd1034",
         "title": "Software Engineer \u2013 New College Grad",
@@ -63434,24 +63414,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "SDSU Research Foundation",
-        "id": "aa3663c0-e0d6-43a7-a761-4dbbd5f6bdc4",
-        "title": "Niwc Senior - Multiple Teams",
-        "active": false,
-        "date_updated": 1763421131,
-        "date_posted": 1757541157,
-        "url": "https://careers-sdsurf.icims.com/jobs/19750/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/SDSU-Research-Foundation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Citizen Health",
         "id": "f491dca7-aa4c-4045-b7e9-f78424d7f65b",
@@ -120574,26 +120536,6 @@
             "Bachelor's",
             "Master's",
             "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Cotiviti",
-        "id": "2b8cab20-a64e-46a1-a17b-4f8b8935a643",
-        "title": "Associate Software Engineer",
-        "active": false,
-        "date_updated": 1767655800,
-        "date_posted": 1757540750,
-        "url": "https://careers-cotiviti.icims.com/jobs/17318/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Cotiviti",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -260409,7 +260351,7 @@
         "company_name": "Quantcast",
         "id": "58059b3c-d9d0-44f9-ad1f-731aa2825c03",
         "title": "Software Engineer - Audience Platform",
-        "active": true,
+        "active": false,
         "date_updated": 1775002681,
         "date_posted": 1774994770,
         "url": "https://jobs.lever.co/quantcast/27543ebd-9a5e-4192-b738-bf475d597551/apply",
