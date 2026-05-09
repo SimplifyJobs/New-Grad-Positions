@@ -53236,26 +53236,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Exponent",
-        "id": "33a0b8f1-23f2-4d15-8947-b762a2339805",
-        "title": "Engineering Technician - Electronics and Instrumentation",
-        "active": true,
-        "date_updated": 1763121924,
-        "date_posted": 1757582131,
-        "url": "https://careers-exponent.icims.com/jobs/2162/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Phoenix, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Exponent",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Susquehanna International Group (SIG)",
         "id": "7f75d862-d02b-4dab-ad06-38dfb99b779d",
@@ -53412,24 +53392,6 @@
             "Charlotte, NC"
         ],
         "company_url": "https://simplify.jobs/c/Sharp-Electronics",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "The J. Paul Getty Trust",
-        "id": "4d391786-d4e1-4807-aebf-0e816b9eb06a",
-        "title": "GCI Postdoctoral Fellow in Conservation Science",
-        "active": false,
-        "date_updated": 1762926806,
-        "date_posted": 1757582156,
-        "url": "https://jobs-getty.icims.com/jobs/4672/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "LA"
-        ],
-        "company_url": "https://simplify.jobs/c/The-J-Paul-Getty-Trust",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
