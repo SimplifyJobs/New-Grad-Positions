@@ -1,52 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "LPL Financial Holdings",
-        "id": "23c87d4e-610a-4a43-ba32-3f2381c3abfd",
-        "title": "New Grad 2026 - Technology - Software Development",
-        "active": false,
-        "date_updated": 1757615552,
-        "date_posted": 1757615552,
-        "url": "https://lplfinancial.wd1.myworkdayjobs.com/en-US/External/job/San-Diego-CA/New-Grad-2026---Technology--Software-Development_R-046207-1",
-        "locations": [
-            "Austin, TX",
-            "Fort Mill, SC",
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/LPL-Financial-Holdings",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Twilio",
-        "id": "55400a2a-e6c6-4182-bb85-ec37b3ac133c",
-        "title": "Software Engineer \u2013 Early Career - Messaging API",
-        "active": false,
-        "date_updated": 1757617247,
-        "date_posted": 1757617247,
-        "url": "https://job-boards.greenhouse.io/twilio/jobs/7245466",
-        "locations": [
-            "Alberta, Canada",
-            "British Columbia, Canada",
-            "Ontario, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Twilio",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Booz Allen",
         "id": "e800e187-4db2-4abe-b579-6499bfe2df89",
@@ -52959,43 +52913,6 @@
         "source": "Simplify",
         "category": "Software",
         "company_name": "Peraton",
-        "id": "e5c55af5-5892-4681-b4f0-c6be240c93b4",
-        "title": "Senior Infrastructure and Systems Administrator",
-        "active": false,
-        "date_updated": 1757747767,
-        "date_posted": 1757615597,
-        "url": "https://careers-peraton.icims.com/jobs/154831/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Laurel, MD",
-            "Hyattsville, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/Peraton",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Peraton",
-        "id": "6404ef37-95ff-4e46-a027-cc990d1c83ec",
-        "title": "Electronic Technician 1",
-        "active": false,
-        "date_updated": 1763121852,
-        "date_posted": 1757615617,
-        "url": "https://careers-peraton.icims.com/jobs/151732/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Topeka, KS"
-        ],
-        "company_url": "https://simplify.jobs/c/Peraton",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Peraton",
         "id": "3acdd145-f7d9-476f-855f-a173eaabc916",
         "title": "Cyber Software Engineering - Associate",
         "active": false,
@@ -53024,42 +52941,6 @@
             "Winston-Salem, NC"
         ],
         "company_url": "https://simplify.jobs/c/Rivian",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Peraton",
-        "id": "81c2a693-d538-43c4-a333-bc16ca2f78c2",
-        "title": "Applications Analyst",
-        "active": false,
-        "date_updated": 1757759217,
-        "date_posted": 1757615606,
-        "url": "https://careers-peraton.icims.com/jobs/153430/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Fort Huachuca, Sierra Vista, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Peraton",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Peraton",
-        "id": "b90c77df-a31e-4ccf-9e66-223608a6983c",
-        "title": "Associate Systems Engineer",
-        "active": false,
-        "date_updated": 1757760654,
-        "date_posted": 1757615552,
-        "url": "https://careers-peraton.icims.com/jobs/158613/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Layton, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/Peraton",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -247370,7 +247251,7 @@
         "company_name": "SpaceX",
         "id": "7450f9f2-6a40-4e5e-8416-d5374c1ff99b",
         "title": "New Graduate Engineer - Electrical - Starlink",
-        "active": true,
+        "active": false,
         "date_updated": 1774390480,
         "date_posted": 1770419666,
         "url": "https://boards.greenhouse.io/spacex/jobs/8407346002",
@@ -297328,7 +297209,7 @@
         "company_name": "Fortinet",
         "id": "3778fb79-01fd-4fc9-8384-fb17e002db94",
         "title": "New Grads",
-        "active": true,
+        "active": false,
         "date_updated": 1777069000,
         "date_posted": 1777068376,
         "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/NewGrads2019",
