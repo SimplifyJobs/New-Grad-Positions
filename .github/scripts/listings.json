@@ -1,26 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Booz Allen",
-        "id": "e800e187-4db2-4abe-b579-6499bfe2df89",
-        "title": "Data Engineer - Junior",
-        "active": false,
-        "date_updated": 1757629347,
-        "date_posted": 1757629347,
-        "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Arlington-VA/Data-Engineer--Junior_R0226048",
-        "locations": [
-            "Arlington, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Booz-Allen",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "Adobe",
         "id": "77bf2b07-1a7a-40d8-b077-2346471ab0be",
@@ -108544,24 +108524,6 @@
             "Hereford, UK"
         ],
         "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "EyeSouth Partners",
-        "id": "5c5a4c02-10fe-452f-b4d0-365c3a975487",
-        "title": "Ophthalmic Technician 1",
-        "active": false,
-        "date_updated": 1766830765,
-        "date_posted": 1757628380,
-        "url": "https://careers-eyesouthpartners.icims.com/jobs/8450/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Wright-Patterson AFB, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/EyeSouth-Partners",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -303565,7 +303527,7 @@
         "company_name": "The Boeing Company",
         "id": "1c569cbf-e9bf-4514-aa8b-d32fcfd3b4aa",
         "title": "Test & Evaluation Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1777615763,
         "date_posted": 1777615648,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seattle-WA/Test---Evaluation-Engineer--Associate-or-Experienced-_JR2026505691-1",
@@ -314233,5 +314195,27 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northrop Grumman",
+        "id": "43c1f44a-92f5-4b3b-929f-7fa5bc36171a",
+        "title": "Embedded Software Engineer - Level 2 or 3",
+        "active": true,
+        "date_updated": 1778364361,
+        "date_posted": 1778364332,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/Embedded-Software-Engineer---Level-2-or-3_R10232441",
+        "locations": [
+            "Boulder, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
     }
 ]
