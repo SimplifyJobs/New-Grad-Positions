@@ -10910,7 +10910,7 @@
         "company_name": "Amentum",
         "id": "037965da-859d-4532-a3b3-45dc8fd6220f",
         "title": "Entry Level Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1761501704,
         "date_posted": 1761501704,
         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0148259",
@@ -53782,24 +53782,6 @@
             "Oklahoma City, OK"
         ],
         "company_url": "https://simplify.jobs/c/INTEGRIS-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Susquehanna International Group (SIG)",
-        "id": "42f27fb0-baca-4b45-91dc-60dd9dd9c5e6",
-        "title": "Quantitative Sports Researcher \u2013 Graduate Hire",
-        "active": false,
-        "date_updated": 1763124615,
-        "date_posted": 1757626809,
-        "url": "https://careers-sig.icims.com/jobs/4454/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Ardmore, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Susquehanna",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -156671,7 +156653,7 @@
         "company_name": "Microchip Technology",
         "id": "1ad98bc2-57b1-44c6-b9ce-89a02a675474",
         "title": "Engineer 2-Product Marketing - Product Management",
-        "active": true,
+        "active": false,
         "date_updated": 1769815368,
         "date_posted": 1769815368,
         "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/CO---Boulder/Engineer-II--Product-Marketing--Product-Management-_R2226-25-1",
