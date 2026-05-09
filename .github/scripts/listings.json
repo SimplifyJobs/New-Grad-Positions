@@ -2,48 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Susquehanna International Group (SIG)",
-        "id": "5759211d-5a88-4eb2-be9b-fd2d0bd803aa",
-        "title": "Software Developer \u2013 New Grad - Market Data - Libraries & Tools",
-        "active": false,
-        "date_updated": 1757549798,
-        "date_posted": 1757549798,
-        "url": "https://careers-sig.icims.com/jobs/9261/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Susquehanna",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Susquehanna International Group (SIG)",
-        "id": "0f6d0bb1-d082-4bf0-99df-257b2f6072e1",
-        "title": "Software Developer \u2013 New Grad - Sprc",
-        "active": false,
-        "date_updated": 1757549793,
-        "date_posted": 1757549793,
-        "url": "https://careers-sig.icims.com/jobs/9716/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Ardmore, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Susquehanna",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Amentum",
         "id": "d926f42e-6ace-475c-87f2-027dd64296c4",
         "title": "Entry Level Software Engineer",
@@ -6551,28 +6509,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Atlassian",
-        "id": "b1bed8f9-1368-416c-a51e-d13b593751ae",
-        "title": "Software Engineer 2026 Graduate - Multiple Teams",
-        "active": false,
-        "date_updated": 1758583656,
-        "date_posted": 1757549144,
-        "url": "https://campus-globalcareers-atlassian.icims.com/jobs/20908/software-engineer%2c-2026-graduate-canada/job",
-        "locations": [
-            "Burnaby, BC, Canada",
-            "Vancouver, BC, Canada",
-            "Richmond, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Atlassian",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -309451,7 +309387,7 @@
         "company_name": "L3Harris Technologies",
         "id": "68176720-7261-49d3-ad4b-acb19c94dc46",
         "title": "Associate \u2013 Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1778019661,
         "date_posted": 1778018841,
         "url": "https://jobs.l3harris.com/job/Melbourne-Associate,-Software-Engineer-FL-32919/1388173900/?ats=successfactors",
