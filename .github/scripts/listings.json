@@ -52875,24 +52875,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Peraton",
-        "id": "7b978cda-f04f-4e58-8d4f-502febbbbf1e",
-        "title": "Systems Administrator - Associate",
-        "active": false,
-        "date_updated": 1762929099,
-        "date_posted": 1757617579,
-        "url": "https://careers-peraton.icims.com/jobs/153400/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Fort Huachuca, Sierra Vista, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Peraton",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Regal Rexnord",
         "id": "c1e04fce-1fd3-4b17-99e0-17771ced9d2b",
         "title": "Information Technology & Digital Early Career Rotational Program - Ecrp",
@@ -304132,7 +304114,7 @@
         "company_name": "The Boeing Company",
         "id": "31ac1bea-e976-40b4-83d2-322d74703e39",
         "title": "ASIC/FPGA Verification Engineer Lead - Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1777621301,
         "date_posted": 1777327680,
         "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---El-Segundo-CA/ASIC-FPGA-Verification-Engineer----Associate--Experienced--or-Lead----SoCal_JR2025480380",
@@ -314362,5 +314344,41 @@
         "degrees": [
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Together AI",
+        "id": "5da20293-2c74-42a8-8b06-4bfd19c76280",
+        "title": "Backend Software Engineer",
+        "active": true,
+        "date_updated": 1778288941,
+        "date_posted": 1773267824,
+        "url": "https://job-boards.greenhouse.io/togetherai/jobs/5064263007",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Together-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "DriveWealth",
+        "id": "196f8f00-4f90-4a43-9382-ca71f9e1a79b",
+        "title": "Software Engineer 2 - Post Trade",
+        "active": true,
+        "date_updated": 1778278505,
+        "date_posted": 1772677707,
+        "url": "https://boards.greenhouse.io/drivewealth/jobs/6283125003",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/DriveWealth",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
