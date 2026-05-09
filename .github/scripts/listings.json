@@ -98436,24 +98436,6 @@
         "degrees": []
     },
     {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Electronic Therapy",
-        "id": "c8bcb32c-6b4c-4089-a41e-66225db9e494",
-        "title": "Speech Language Pathologist Clinical Fellow",
-        "active": false,
-        "date_updated": 1765765652,
-        "date_posted": 1757564729,
-        "url": "https://careers-electronic-therapy.icims.com/jobs/2721/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Annapolis Junction, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/Electronic-Therapy",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
         "date_updated": 1773155039,
         "sponsorship": "U.S. Citizenship is Required",
         "active": false,
@@ -196755,7 +196737,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "994c7dea-1b93-4530-9438-b0ec84225bcb",
         "title": "Manager \u2013 Analytics Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1771893137,
         "date_posted": 1771893137,
         "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Manager---Analytics-Engineer_R-0000160543-1",
@@ -311365,7 +311347,7 @@
         "company_name": "RTX",
         "id": "34ae4fcf-0378-4a0a-92ea-eeeaed565f22",
         "title": "Embedded Cybersecurity Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1778105521,
         "date_posted": 1778105371,
         "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/Embedded-Cybersecurity-Software-Engineer--Onsite-_01806439-1",
