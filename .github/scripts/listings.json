@@ -2,27 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Amentum",
-        "id": "5d784d85-0c4c-465d-bc90-b69c2af6f4d3",
-        "title": "Entry Level Software Engineer",
-        "active": false,
-        "date_updated": 1757556229,
-        "date_posted": 1757556229,
-        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer-for-Naval-Research-Technology_R0145740",
-        "locations": [
-            "Fredericksburg, VA",
-            "Dahlgren, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Amentum",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "General Dynamics Mission Systems",
         "id": "0b9c09e9-ba2b-4d9c-b917-95ee6f7189ec",
         "title": "Software Engineer \u2013 Entry Level",
@@ -53430,24 +53409,6 @@
             "Richardson, TX"
         ],
         "company_url": "https://simplify.jobs/c/Applied-Materials",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Advocate Health Care",
-        "id": "aa319758-9ece-4f25-8c90-76e085bf7b08",
-        "title": "IT Data Solutions Developer Associate",
-        "active": false,
-        "date_updated": 1763119625,
-        "date_posted": 1757557098,
-        "url": "https://aah.wd5.myworkdayjobs.com/External/job/Atrium-Health-Wake-Forest-Baptist---Medical-Center-Blvd-Winston-Salem-NC/IT-Data-Solutions-Develop-Associate_R178892",
-        "locations": [
-            "Winston-Salem, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Advocate-Health-Care",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -171738,7 +171699,7 @@
         "company_name": "General Dynamics Information Technology",
         "id": "901f951f-7dc0-4383-a0c8-22481843805e",
         "title": "Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1770536638,
         "date_posted": 1770536638,
         "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Herndon/Software-Developer_RQ214333",
@@ -279243,7 +279204,7 @@
         "company_name": "Legal & General",
         "id": "19b9b8c3-3861-4fef-b8a6-715235df7152",
         "title": "Investment Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1776120310,
         "date_posted": 1776117861,
         "url": "https://jobs.smartrecruiters.com/LegalAndGeneral/744000120506527",
@@ -304082,7 +304043,7 @@
         "company_name": "TD Bank",
         "id": "5f37d2cf-0117-41b3-9770-b7cce1b7372d",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1777587841,
         "date_posted": 1777587050,
         "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Associate-Software-Engineer_R_1483232-1",
@@ -306443,7 +306404,7 @@
         "company_name": "Trimble",
         "id": "5f444d76-30b9-4f3c-b59d-02b87278a169",
         "title": "Embedded Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1777684141,
         "date_posted": 1777684062,
         "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Embedded-Software-Engineer_R55888",
