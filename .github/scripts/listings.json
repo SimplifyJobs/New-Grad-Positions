@@ -52820,24 +52820,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "GTS",
-        "id": "d3321e79-138d-441d-9de7-b2feb5f604a5",
-        "title": "Quantitative Trader - Domestic and International Equity ETFs",
-        "active": false,
-        "date_updated": 1763121952,
-        "date_posted": 1757619109,
-        "url": "https://careers-gtsx.icims.com/jobs/1566/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/GTS",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Peraton",
         "id": "ead53126-c56a-4597-b7dd-55bf28c20b68",
@@ -307423,7 +307405,7 @@
         "company_name": "LexisNexis Legal & Professional",
         "id": "fb5a816a-482b-4787-98ec-a43ee070c7c5",
         "title": "Product Manager 1",
-        "active": true,
+        "active": false,
         "date_updated": 1778019015,
         "date_posted": 1778018598,
         "url": "https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Horsham-PA/Product-Manager-I---Hybrid-in-Horsham--PA_R112840-1",
