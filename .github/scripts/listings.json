@@ -31936,7 +31936,7 @@
         "company_name": "Morgan Stanley",
         "id": "a277a2d4-aa9f-42ea-b32a-110147bee096",
         "title": "Fund Services Portfolio Analytics - Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1761914372,
         "date_posted": 1761914372,
         "url": "https://ms.wd5.myworkdayjobs.com/External/job/Glasgow-United-Kingdom/Fund-Services-Portfolio-Analytics---Analyst_JR020109",
@@ -36684,7 +36684,7 @@
         "company_name": "Argonne National Laboratory",
         "id": "91a3baaa-f0a0-4165-b2ba-688ae7b71df7",
         "title": "Postdoctoral Appointee",
-        "active": false,
+        "active": true,
         "date_updated": 1761992303,
         "date_posted": 1761992303,
         "url": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---Scientific-Machine-Learning-for-Surrogate-Modeling-and-Power-Grid-Dynamics_421104",
@@ -47585,24 +47585,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Pentair",
-        "id": "58cc042f-045e-4678-b8d6-1c26bead87c7",
-        "title": "2026 Information Technology & Cybersecurity",
-        "active": false,
-        "date_updated": 1761847990,
-        "date_posted": 1757612231,
-        "url": "https://pentair.wd5.myworkdayjobs.com/pentair_careers/job/Golden-Valley-MN/XMLNAME-2026-Information-Technology---Cybersecurity---AI---Machine-Learning-Specialization-Leadership-Development-Program_R21984",
-        "locations": [
-            "Golden Valley, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Pentair",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Northrop Grumman",
         "id": "74a6caf3-e70e-4f94-9368-950d3f2a9da4",
@@ -53049,24 +53031,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Networking For Future (NFF)",
-        "id": "b029b9e4-d6fb-45e4-b1d9-f68e19563bc2",
-        "title": "Associate NOC Engineer",
-        "active": false,
-        "date_updated": 1763130856,
-        "date_posted": 1757612745,
-        "url": "https://jobs-nffinc.icims.com/jobs/3346/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/Networking-For-Future",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Sentinel Technologies",
         "id": "80370f11-db0f-4f12-b368-fd4b1cf2897f",
         "title": "Security Onboarding Engineer",
@@ -53078,78 +53042,6 @@
             "Downers Grove, IL"
         ],
         "company_url": "https://simplify.jobs/c/Sentinel-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Susquehanna International Group (SIG)",
-        "id": "f8d605ce-7772-4884-a1e4-d5470e4a6629",
-        "title": "Associate Linux/Windows Engineer - Platform Services",
-        "active": false,
-        "date_updated": 1762742122,
-        "date_posted": 1757612961,
-        "url": "https://careers-sig.icims.com/jobs/9090/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Ardmore, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Susquehanna",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Susquehanna International Group (SIG)",
-        "id": "f63ea7fd-f883-4b9c-8f05-1a34385c0eea",
-        "title": "Discovery Program Technology",
-        "active": false,
-        "date_updated": 1763131265,
-        "date_posted": 1757612973,
-        "url": "https://careers-sig.icims.com/jobs/9757/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Ardmore, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Susquehanna",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Susquehanna International Group (SIG)",
-        "id": "a77bcbc9-4860-495d-a02f-9f0959bdad6d",
-        "title": "Quantitative Researcher - PhD: 2026",
-        "active": true,
-        "date_updated": 1762620421,
-        "date_posted": 1757612996,
-        "url": "https://careers-sig.icims.com/jobs/9435/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Ardmore, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Susquehanna",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Susquehanna International Group (SIG)",
-        "id": "42ac1a25-76d0-4a93-95a2-6670bd3f3937",
-        "title": "Discovery Program: Quantitative Trading",
-        "active": false,
-        "date_updated": 1763131265,
-        "date_posted": 1757612973,
-        "url": "https://careers-sig.icims.com/jobs/9572/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Ardmore, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Susquehanna",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -53282,24 +53174,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Parkhill",
-        "id": "20c16b4a-cbaf-4965-b9cf-085e960b1695",
-        "title": "Senior LiDAR Specialist",
-        "active": false,
-        "date_updated": 1763130904,
-        "date_posted": 1757612308,
-        "url": "https://careers-parkhill.icims.com/jobs/1338/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Lubbock, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Parkhill",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Akima",
         "id": "3095d06d-b531-4d50-978d-2bbe02e61112",
@@ -53333,27 +53207,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Susquehanna International Group (SIG)",
-        "id": "f2898c2c-41ff-43f1-97b5-d9c81014b2c3",
-        "title": "Discovery Program: PhD and Postdoc",
-        "active": false,
-        "date_updated": 1763131269,
-        "date_posted": 1757612972,
-        "url": "https://careers-sig.icims.com/jobs/9498/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Ardmore, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Susquehanna",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "PhD"
-        ]
     },
     {
         "source": "Simplify",
@@ -58381,24 +58234,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Susquehanna International Group (SIG)",
-        "id": "79702bf6-af31-445f-97a0-9127d09059a3",
-        "title": "Faculty Fellow",
-        "active": false,
-        "date_updated": 1763163767,
-        "date_posted": 1757612977,
-        "url": "https://careers-sig.icims.com/jobs/9584/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Ardmore, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Susquehanna",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Susquehanna International Group (SIG)",
         "id": "6adb7270-df23-45cc-bb13-68784e42c0d5",
@@ -58411,24 +58246,6 @@
             "Ardmore, PA"
         ],
         "company_url": "https://simplify.jobs/c/Susquehanna",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Parkhill",
-        "id": "05e2768b-65e9-4366-8587-b5d2f086ee03",
-        "title": "Senior Lidar Specialist",
-        "active": false,
-        "date_updated": 1763163403,
-        "date_posted": 1757612897,
-        "url": "https://careers-parkhill.icims.com/jobs/1351/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Oklahoma City, OK"
-        ],
-        "company_url": "https://simplify.jobs/c/Parkhill",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -59122,24 +58939,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Waters Corporation",
-        "id": "d7ed5872-e4df-403f-9749-cf908e873331",
-        "title": "Instrument Technician",
-        "active": false,
-        "date_updated": 1763162513,
-        "date_posted": 1757612897,
-        "url": "https://uscareers-waters.icims.com/jobs/23762/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Franklin, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Waters-Corporation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "Kensington",
         "id": "2c5a23c0-e10d-456d-9493-0c4d0a35b1f2",
@@ -59480,26 +59279,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Sysmex",
-        "id": "bd24eda5-ecb6-497b-9a0f-e45bf2378726",
-        "title": "Technician - Field Service - Regional Wausau WI",
-        "active": false,
-        "date_updated": 1763191293,
-        "date_posted": 1757611970,
-        "url": "https://careers-sysmex.icims.com/jobs/4456/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Abbotsford, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/Sysmex",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Associate's"
-        ]
     },
     {
         "source": "Simplify",
@@ -68062,7 +67841,7 @@
         "company_name": "Cisco",
         "id": "752cc127-39ae-4bed-977a-4fcbab271df8",
         "title": "Software Developer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1763664416,
         "date_posted": 1763664416,
         "url": "https://careers.cisco.com/global/en/job/2001076",
@@ -86264,7 +86043,7 @@
         "company_name": "Transamerica",
         "id": "ebdc10cd-da59-480e-bd8e-cd4acca80290",
         "title": "Appian Application Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1764804818,
         "date_posted": 1764804818,
         "url": "https://transamerica.wd5.myworkdayjobs.com/US/job/Philadelphia-Pennsylvania/Appian-Application-Developer_R20060158",
@@ -97239,24 +97018,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "KCI Technologies",
-        "id": "405d419e-8b48-4279-aa80-e2644acce512",
-        "title": "Engineer-in-Training",
-        "active": false,
-        "date_updated": 1765581786,
-        "date_posted": 1757612646,
-        "url": "https://careers-kci.icims.com/jobs/6938/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "McLean, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/KCI-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Northrop Grumman",
         "id": "bb2f51e5-271b-4fad-81a0-a72c567b293e",
@@ -97905,24 +97666,6 @@
             "St. Louis, MO"
         ],
         "company_url": "https://simplify.jobs/c/Idemia",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "NV5 Global",
-        "id": "319fd885-e095-4470-a4b4-1d2ae4a6a624",
-        "title": "Electrical Engineer 1",
-        "active": false,
-        "date_updated": 1765696687,
-        "date_posted": 1757612918,
-        "url": "https://careers-nv5.icims.com/jobs/10285/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/NV5-Global",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -101648,24 +101391,6 @@
             "Plano, TX"
         ],
         "company_url": "https://simplify.jobs/c/FutureCare",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Foley & Lardner LLP",
-        "id": "7c94aca3-ea9a-4a4b-a18d-59e4a8cff7f6",
-        "title": "Tax & Trust Administration Paralegal",
-        "active": false,
-        "date_updated": 1765967730,
-        "date_posted": 1757612005,
-        "url": "https://careers-foley.icims.com/jobs/3397/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Annapolis Junction, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/Foley",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -116906,26 +116631,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Utah State University",
-        "id": "31061437-adab-482a-9fdd-0bae6c4dacdc",
-        "title": "Postdoctoral Fellow 1",
-        "active": false,
-        "date_updated": 1767370447,
-        "date_posted": 1757612972,
-        "url": "https://careers-usu.icims.com/jobs/9610/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Logan, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/Utah-State-University",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "971b8c54-cdf3-41c7-a130-2df6139527f0",
@@ -118023,27 +117728,6 @@
             "Chicago, IL"
         ],
         "company_url": "https://simplify.jobs/c/Belden",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "WiSC Enterprises, LLC",
-        "id": "b60d2ce0-5db0-4d33-ada5-2fc8d75e4201",
-        "title": "Technical Advisor",
-        "active": false,
-        "date_updated": 1767511277,
-        "date_posted": 1757612036,
-        "url": "https://careers-wiscenterprises.icims.com/jobs/1607/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Dayton, OH",
-            "Chantilly, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/WiSC-Enterprises",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -133355,26 +133039,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "PLS Logistics Services",
-        "id": "46ecb070-2b35-44c2-81ea-eaa759981cb4",
-        "title": "Logistics Coordinator",
-        "active": false,
-        "date_updated": 1768461836,
-        "date_posted": 1757612044,
-        "url": "https://careers-plslogistics.icims.com/jobs/1255/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "East Lansing, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/PLS-Logistics-Services",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Intel",
         "id": "86f1d468-4432-4375-b54a-e499ce8bdc67",
         "title": "Platform Enabling Software Engineer",
@@ -134909,7 +134573,7 @@
         "company_name": "Aristocrat Leisure",
         "id": "7b918efe-26d6-4c78-9bc9-44a76750d2e4",
         "title": "Data Analyst - Finance",
-        "active": false,
+        "active": true,
         "date_updated": 1768520365,
         "date_posted": 1768520365,
         "url": "https://aristocrat.wd3.myworkdayjobs.com/aristocratexternalcareerssite/job/London-United-Kingdom/Data-Analyst---Finance_R0020491",
@@ -167319,7 +166983,7 @@
         "company_name": "LexisNexis Risk Solutions",
         "id": "62e74c25-d817-41d4-ae11-dedb2f355b8d",
         "title": "Senior Associate Product Manager",
-        "active": false,
+        "active": true,
         "date_updated": 1770310865,
         "date_posted": 1770310865,
         "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA/Senior-Associate-Product-Mgr--Hybrid-Alpharetta-_R105211",
@@ -209931,7 +209595,7 @@
         "company_name": "University of Chicago",
         "id": "9d91d8c8-1704-430a-85a8-50d631d5887c",
         "title": "Data Science Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1772494566,
         "date_posted": 1772494566,
         "url": "https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Data-Science-Analyst--TCOM_JR32831",
@@ -232197,7 +231861,7 @@
         "company_name": "Allison Transmission",
         "id": "ce7a6dff-58d5-4e3c-b3da-52a865318a2f",
         "title": "Embedded Controls Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773485358,
         "date_posted": 1773485358,
         "url": "https://allisontransmission.wd1.myworkdayjobs.com/ATI-External/job/Indianapolis-IN/Engineer--Embedded-Controls-Software_R006904-1",
@@ -249436,7 +249100,7 @@
         "company_name": "Northrop Grumman",
         "id": "9861d04f-e296-4c22-be94-f7e9a742b622",
         "title": "DMSMS Component Engineer 2/3",
-        "active": false,
+        "active": true,
         "date_updated": 1774508939,
         "date_posted": 1774508939,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Northridge/DMSMS-Component-Engineer-2-or-3_R10208528",
@@ -270530,7 +270194,7 @@
         "company_name": "Micron Technology",
         "id": "ddf0ceda-355c-4758-b8d3-bbaaa289a641",
         "title": "College Graduate - Semiconductor Product Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1775629520,
         "date_posted": 1775628484,
         "url": "https://micron.wd1.myworkdayjobs.com/External/job/Manassas-VA----Fab-6/New-College-Grad---Semiconductor-Product-Engineer_JR94516",
@@ -286105,7 +285769,7 @@
         "company_name": "GE Healthcare",
         "id": "d28b20da-afe2-4e20-803b-1caf268ca930",
         "title": "Field Service Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1776420083,
         "date_posted": 1776290827,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1_R4039151-1",
@@ -289723,7 +289387,7 @@
         "company_name": "KLA",
         "id": "7679adc8-8aab-403b-942d-cf8dbbf9547f",
         "title": "Algorithm Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1776504601,
         "date_posted": 1776504585,
         "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Algorithm-Engineer_2635247",
@@ -299121,7 +298785,7 @@
         "company_name": "University of Chicago",
         "id": "95e5afae-4715-4385-8de7-da407d9dd3fa",
         "title": "Data Analyst 1",
-        "active": false,
+        "active": true,
         "date_updated": 1777298761,
         "date_posted": 1777298674,
         "url": "https://uchicago.wd5.myworkdayjobs.com/External/job/950-East-61st-Street/Data-Analyst-1_JR33437-1",
@@ -299263,7 +298927,7 @@
         "company_name": "Bank of Montreal",
         "id": "ca4dd8f2-d00e-424b-bd90-059ab441d097",
         "title": "Robot Process Automation Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1777327782,
         "date_posted": 1777327527,
         "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Chicago-IL-USA/Robot--Process-Automation-Developer--New-or-Recent-Graduate-_R260011314",
@@ -299910,7 +299574,7 @@
         "company_name": "Priceline",
         "id": "a2c49b6b-8470-421d-9534-d51cb85c1549",
         "title": "Associate Data Developer - Fintech",
-        "active": false,
+        "active": true,
         "date_updated": 1777331590,
         "date_posted": 1777327653,
         "url": "https://priceline.wd1.myworkdayjobs.com/Priceline/job/Toronto/Associate-Data-Developer--FinTech_R5619",
@@ -300605,7 +300269,7 @@
         "company_name": "Micron Technology",
         "id": "baef4152-0235-471c-b209-719c5e5ccacc",
         "title": "DRAM Product Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1777385521,
         "date_posted": 1777385365,
         "url": "https://micron.wd1.myworkdayjobs.com/External/job/Manassas-VA----Fab-6/DRAM-Product-Engineer_JR99675",
@@ -301537,7 +301201,7 @@
         "company_name": "Rogers Behavioral Health",
         "id": "b8d000fb-8a26-4764-8be5-3453cbb776ad",
         "title": "Therapist-IOP/PHP",
-        "active": false,
+        "active": true,
         "date_updated": 1777415073,
         "date_posted": 1777414208,
         "url": "https://rogersbh.wd1.myworkdayjobs.com/rbhcareer/job/Nashville-Clinic-Nashville-TN/Therapist--IOP-PHP_R6935",
@@ -301983,7 +301647,7 @@
         "company_name": "Motorola",
         "id": "e0ff9c5a-7674-4cb1-97f3-f803968a130e",
         "title": "Junior Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1777298941,
         "date_posted": 1777298825,
         "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Uxbridge-UK-ZUK131/Junior-Software-Engineer_R57369",
@@ -302537,7 +302201,7 @@
         "company_name": "Carnegie Mellon University",
         "id": "6b8d571f-e306-4d64-890e-c928d8337dbd",
         "title": "Research Associate - College of Engineering - Electrical and Computer Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1777501441,
         "date_posted": 1777500609,
         "url": "https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Research-Associate---College-of-Engineering---Electrical-and-Computer-Engineering_2024479",
@@ -303153,7 +302817,7 @@
         "company_name": "United Parcel Service (UPS)",
         "id": "bfa7508e-407a-4fad-8e2e-37907f954aaf",
         "title": "Applications Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1777559041,
         "date_posted": 1777558155,
         "url": "https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/IN---TDC-1-IN110/Applications-Developer_R26009764",
@@ -306043,7 +305707,7 @@
         "company_name": "CoStar Group",
         "id": "d36f8484-ae42-463f-be8c-029a9dbeeeeb",
         "title": "Software Engineer 1 - C#/.NET/Database",
-        "active": false,
+        "active": true,
         "date_updated": 1777713742,
         "date_posted": 1777713202,
         "url": "https://costar.wd1.myworkdayjobs.com/en-US/CoStarCareers/job/Orange-County---CA/Apartmentscom---Software-Engineer-I--C--NET-Database-_R38698",
@@ -306121,7 +305785,7 @@
         "company_name": "Jabil",
         "id": "e0ea5424-f766-495a-88dd-ff8bf54cd72c",
         "title": "Electronic Technician 1",
-        "active": false,
+        "active": true,
         "date_updated": 1777717164,
         "date_posted": 1777715861,
         "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Memphis-TN/Electronic-Technician-I_J2447849",
@@ -306160,7 +305824,7 @@
         "company_name": "Jabil",
         "id": "b5eab775-b4fa-467d-8db1-dc8064221095",
         "title": "Electronic Technician 1",
-        "active": false,
+        "active": true,
         "date_updated": 1777715936,
         "date_posted": 1777714681,
         "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Memphis-TN/Electronic-Technician-I_J2447846-1",
@@ -307330,7 +306994,7 @@
         "company_name": "Carnegie Mellon University",
         "id": "b8dd4e99-c26b-464b-a01b-15f94aefe1c7",
         "title": "Research Associate - School of Computer Science - MLD",
-        "active": false,
+        "active": true,
         "date_updated": 1777932361,
         "date_posted": 1777932309,
         "url": "https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Research-Associate---School-of-Computer-Science---MLD_2024472",
@@ -310477,7 +310141,7 @@
         "company_name": "CACI",
         "id": "d830c768-77c1-45f7-ba6c-2854e2142772",
         "title": "AI Prompt Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1778105161,
         "date_posted": 1778105126,
         "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-VA-Ashburn/AI-Prompt-Engineer_325685",
@@ -310497,7 +310161,7 @@
         "company_name": "Lineage Logistics",
         "id": "c3ce026e-ec44-4c1f-b01d-d8b55eac7fe3",
         "title": "Technical Analyst - Product Management - Data Solutions",
-        "active": false,
+        "active": true,
         "date_updated": 1778106061,
         "date_posted": 1778105193,
         "url": "https://onelineage.wd1.myworkdayjobs.com/external/job/Novi-MI-Humboldt-Drive/Technical-Analyst--Product-Management---Data-Solutions-_R0104551",
@@ -311006,7 +310670,7 @@
         "company_name": "GlobalFoundries",
         "id": "c9af3fb0-105a-47aa-8886-c53f1b083ca8",
         "title": "Test & Characterization Engineer New Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1778105901,
         "date_posted": 1778105218,
         "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Test---Characterization-Engineer--2026-New-College-Graduate-_JR-2601970",
@@ -311658,7 +311322,7 @@
         "company_name": "KLA Corporation",
         "id": "ccefcf15-17e8-4fc5-baa6-43785e009c4f",
         "title": "Forward Deployed Engineer - Integration",
-        "active": false,
+        "active": true,
         "date_updated": 1778116141,
         "date_posted": 1778115977,
         "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Ann-Arbor-MI/Forward-Deployed-Engineer---Integration_2636219",
@@ -313286,7 +312950,7 @@
         "company_name": "Zurn Elkay Water Solutions",
         "id": "b4cd2491-2c5f-4f02-a62b-dd4b778f9fc5",
         "title": "Application Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1778193523,
         "date_posted": 1778191481,
         "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Paso-Robles-CA/Application-Engineer_REQ-019650",
