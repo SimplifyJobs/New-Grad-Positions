@@ -2670,24 +2670,6 @@
         ]
     },
     {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Panasonic Holdings",
-        "id": "e57239b4-e628-4e6c-a96c-ed20adfbeb9a",
-        "title": "Software Engineer 1 - Microservices",
-        "active": false,
-        "date_updated": 1761845236,
-        "date_posted": 1757547893,
-        "url": "https://careers.na.panasonic.com/jobs/44350?lang=en-us&icims=1",
-        "locations": [
-            "Beaverton, OR"
-        ],
-        "company_url": "https://simplify.jobs/c/Panasonic",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
         "date_updated": 1758585351,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
@@ -53761,42 +53743,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "SHEIN",
-        "id": "f14c04e8-794f-4403-badd-dd2e6936e16e",
-        "title": "Associate Database Engineer - Hbase",
-        "active": false,
-        "date_updated": 1762817314,
-        "date_posted": 1757548575,
-        "url": "https://job-boards.greenhouse.io/shein/jobs/4916625008",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/SHEIN",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Intercontinental Exchange",
-        "id": "97fc9acb-2817-4b2f-b8e7-5b2774acaa63",
-        "title": "Analyst \u2013 End User Computing",
-        "active": false,
-        "date_updated": 1763131355,
-        "date_posted": 1757548401,
-        "url": "https://careers-ice.icims.com/jobs/11424/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Provo, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/ICEMarkets",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Sharp Electronics",
         "id": "2569dc1f-dbca-47e3-a83d-f21cfe6b273d",
@@ -53809,24 +53755,6 @@
             "Charlotte, NC"
         ],
         "company_url": "https://simplify.jobs/c/Sharp-Electronics",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Faith Technologies",
-        "id": "af6996c0-5b79-4a43-8815-9ad5fc546a98",
-        "title": "Computer Aided Design / Product Lifecycle Management Administrator",
-        "active": false,
-        "date_updated": 1762909682,
-        "date_posted": 1757547621,
-        "url": "https://faithtechnologies.wd1.myworkdayjobs.com/fti/job/WI---Menasha/CAD-PLM-Administrator_R7490-2",
-        "locations": [
-            "Neenah, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/Faith-Technologies",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -58270,24 +58198,6 @@
             "Logan, UT"
         ],
         "company_url": "https://simplify.jobs/c/Utah-State-University",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Intercontinental Exchange",
-        "id": "c59cabfe-a801-47c5-975f-4f415a0394de",
-        "title": "Analyst \u2013 Index Product Development",
-        "active": false,
-        "date_updated": 1763122653,
-        "date_posted": 1757548422,
-        "url": "https://careers-ice.icims.com/jobs/10938/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/ICEMarkets",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
