@@ -2,46 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "General Dynamics Mission Systems",
-        "id": "0b9c09e9-ba2b-4d9c-b917-95ee6f7189ec",
-        "title": "Software Engineer \u2013 Entry Level",
-        "active": false,
-        "date_updated": 1757558310,
-        "date_posted": 1757558310,
-        "url": "https://careers-gdms.icims.com/jobs/67972/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Pittsfield, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Motive",
-        "id": "d293d84b-b5d5-4187-8d88-4dd5c4a27dd1",
-        "title": "Backend Engineer \u2013 Entry Level",
-        "active": false,
-        "date_updated": 1757558070,
-        "date_posted": 1757558070,
-        "url": "https://job-boards.greenhouse.io/gomotive/jobs/8134258002",
-        "locations": [
-            "Remote in Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Motive",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Amentum",
         "id": "81812d77-1856-4a81-aedb-e98ee2007f27",
         "title": "Entry Level Software Engineer",
@@ -311971,7 +311931,7 @@
         "company_name": "Cotiviti",
         "id": "77b6d1fb-21a1-42af-abc3-12fd51cda533",
         "title": "Data Scientist 1 - AI/ML",
-        "active": true,
+        "active": false,
         "date_updated": 1778105893,
         "date_posted": 1778105126,
         "url": "https://careers-cotiviti.icims.com/jobs/19081/job?mobile=true&needsRedirect=false",
@@ -315209,5 +315169,25 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "SharkNinja",
+        "id": "01c68def-ba41-45e5-a749-caacfd326583",
+        "title": "Product Developer Associate",
+        "active": true,
+        "date_updated": 1778250541,
+        "date_posted": 1778163574,
+        "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4679056006",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/SharkNinja",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
