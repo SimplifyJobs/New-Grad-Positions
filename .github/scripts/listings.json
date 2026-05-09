@@ -44,26 +44,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "RTX",
-        "id": "8d176532-5dae-4784-8732-ebd40b79cd56",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1757632708,
-        "date_posted": 1757632708,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/UT207-1127-West-2320-South---West-Valley-City-UT-84119-USA/Software-Engineer-I--Onsite-_01792630",
-        "locations": [
-            "West Valley City, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Adobe",
         "id": "7f173f22-a3e4-4f68-8261-66e127ed0707",
@@ -303453,7 +303433,7 @@
         "company_name": "The Boeing Company",
         "id": "de59bb61-5c92-4d57-ab6e-70681f137572",
         "title": "Test & Evaluation Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1777615763,
         "date_posted": 1777615644,
         "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Seattle-WA/Test---Evaluation-Engineer--Associate-or-Experienced-_JR2026505691",
