@@ -2,46 +2,6 @@
     {
         "source": "Simplify",
         "category": "Hardware",
-        "company_name": "RTX",
-        "id": "eac1e4ed-b205-4a48-9313-cf212ad80292",
-        "title": "Software Engineer I - C/C++ Linux",
-        "active": false,
-        "date_updated": 1757553049,
-        "date_posted": 1757553049,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/RI201-127-John-Clarke-Road-Middletwn-127-John-Clarke-Road-Suite-3-Middletown-RI-02842-USA/Software-Engineer-I---C-C---Linux--Onsite-_01791668",
-        "locations": [
-            "Newport, RI"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Thorlabs",
-        "id": "8213bbaa-0280-40e2-ae4a-df244590403f",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1757553050,
-        "date_posted": 1757553050,
-        "url": "https://apply.workable.com/thorlabs/j/E79FA34ED4/apply",
-        "locations": [
-            "Annapolis Junction, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/Thorlabs",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
         "company_name": "Sev1Tech",
         "id": "2b4cf532-79fe-4bbb-9791-86672e13481c",
         "title": "Software Developer \u2013 Entry Level",
@@ -113759,24 +113719,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Quanta Services",
-        "id": "5ff43534-ed69-4d43-87f1-949713a50f03",
-        "title": "Low Voltage Technician--Savannah - Georgia",
-        "active": false,
-        "date_updated": 1767285089,
-        "date_posted": 1757553579,
-        "url": "https://careers-quanta.icims.com/jobs/12763/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Buford, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Quanta-Services",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "ERM",
         "id": "e72753a1-a211-4f5e-a4f9-45d2cc82cf31",
@@ -125950,24 +125892,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Kettering Health",
-        "id": "5a03fda2-3e4b-402c-915e-8b73d981c568",
-        "title": "Advanced Practice Provider - Aprn or PA - Medical Informatics",
-        "active": false,
-        "date_updated": 1767914318,
-        "date_posted": 1757553233,
-        "url": "https://careers-ketteringhealth.icims.com/jobs/57432/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Miamisburg, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Kettering-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -219393,7 +219317,7 @@
         "company_name": "MANN+HUMMEL",
         "id": "63686713-cf17-459a-a1f3-fa3e1105117b",
         "title": "R&D Lab Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1772810133,
         "date_posted": 1772810133,
         "url": "https://mann-hummel-careers.com/job/Washington-R&D-Lab-Technician-27889/1371050433/?ats=successfactors",
@@ -224018,7 +223942,7 @@
         "company_name": "Blue Cross Blue Shield of Arizona",
         "id": "1cdb8775-64c0-4839-b4de-2c3f10081eca",
         "title": "Programmer",
-        "active": false,
+        "active": true,
         "date_updated": 1773181579,
         "date_posted": 1773181579,
         "url": "https://bcbsaz.wd1.myworkdayjobs.com/en-US/bcbsazcareers/job/AZ-Blue-Phoenix-AZ-85021/Programmer---Hybrid_R5907-1",
@@ -310020,7 +309944,7 @@
         "company_name": "Expedia Group",
         "id": "ef5c0e01-5160-4a10-8260-f4e6ddc1dd25",
         "title": "Data Scientist 1 - Analytics",
-        "active": true,
+        "active": false,
         "date_updated": 1778076565,
         "date_posted": 1778076315,
         "url": "https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Data-Scientist-I--Analytics_R-105457-2",
@@ -315261,6 +315185,88 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "edd63df9-38fb-493a-a506-beec143a36ae",
+        "title": "iOS Software Engineer - Tiktok Account - Multiple Positions",
+        "active": true,
+        "date_updated": 1778289875,
+        "date_posted": 1778289684,
+        "url": "https://lifeattiktok.com/search/7636949611945560325",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Lawrence Berkeley National Laboratory",
+        "id": "9f48cf3b-02b6-4273-add7-e4b623f6ddd2",
+        "title": "AI-Readiness Data Automation Postdoctoral Scholar",
+        "active": true,
+        "date_updated": 1778289204,
+        "date_posted": 1778288920,
+        "url": "https://lbl.taleo.net/careersection/5/jobdetail.ftl?job=106583",
+        "locations": [
+            "Berkeley, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Lawrence-Berkeley-National-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "ASSA ABLOY",
+        "id": "31cebc75-fcdf-478d-bd66-f70926e30c84",
+        "title": "Associate Product Manager",
+        "active": true,
+        "date_updated": 1778288941,
+        "date_posted": 1778288808,
+        "url": "https://assaabloy.jobs2web.com/job/Phoenix-Associate-Product-Manager-AZ-85044/1392040233/?ats=successfactors",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/ASSA-ABLOY",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "The Boeing Company",
+        "id": "5002920a-234a-43d8-8ccd-78a64512a052",
+        "title": "Certification System Product Owner Mid-Level",
+        "active": true,
+        "date_updated": 1778289106,
+        "date_posted": 1778288935,
+        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Certification-System-Product-Owner--Associate--Mid-Level--or-Senior-_JR2026508945-1",
+        "locations": [
+            "Everett, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
         ]
     }
 ]
