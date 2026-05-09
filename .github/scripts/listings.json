@@ -1,26 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Sev1Tech",
-        "id": "2b4cf532-79fe-4bbb-9791-86672e13481c",
-        "title": "Software Developer \u2013 Entry Level",
-        "active": false,
-        "date_updated": 1757554446,
-        "date_posted": 1757554446,
-        "url": "https://careers-sev1tech.icims.com/jobs/9092/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Lawton, OK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sev1Tech",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Amentum",
         "id": "5d784d85-0c4c-465d-bc90-b69c2af6f4d3",
@@ -53474,24 +53454,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "General Dynamics Mission Systems",
-        "id": "6191c664-fe18-41f9-bae3-c7f480ea3412",
-        "title": "Entry Level Systems Design Engineer - Nuclear Weapons Security",
-        "active": false,
-        "date_updated": 1763120328,
-        "date_posted": 1757554435,
-        "url": "https://careers-gdms.icims.com/jobs/67781/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Pittsfield, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Rivian",
         "id": "4b0ef327-2287-494b-a921-fdd783fb9689",
@@ -58793,7 +58755,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "6adb7270-df23-45cc-bb13-68784e42c0d5",
         "title": "Quantitative Researcher - Master's: 2026",
-        "active": true,
+        "active": false,
         "date_updated": 1763163779,
         "date_posted": 1759769813,
         "url": "https://careers-sig.icims.com/jobs/9437/job?mobile=true&needsRedirect=false",
@@ -229760,7 +229722,7 @@
         "company_name": "TransUnion",
         "id": "f5aedcf5-ba18-4e08-bf0d-5e2c7fcc4232",
         "title": "Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1773365264,
         "date_posted": 1773365264,
         "url": "https://transunion.wd5.myworkdayjobs.com/en-US/TransUnion/job/Boca-Raton-Florida/Developer_19037951",
@@ -315268,5 +315230,23 @@
             "Bachelor's",
             "Associate's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Kodiak Robotics",
+        "id": "1e869362-8833-4d87-9c86-bc7cc1d07083",
+        "title": "Fleet Technician",
+        "active": true,
+        "date_updated": 1778279401,
+        "date_posted": 1776809652,
+        "url": "https://job-boards.greenhouse.io/kodiak/jobs/4227586009",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Kodiak-Robotics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
