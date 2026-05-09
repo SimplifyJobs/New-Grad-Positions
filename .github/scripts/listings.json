@@ -1,27 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Amentum",
-        "id": "d926f42e-6ace-475c-87f2-027dd64296c4",
-        "title": "Entry Level Software Engineer",
-        "active": false,
-        "date_updated": 1757551938,
-        "date_posted": 1757551938,
-        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0145732-1",
-        "locations": [
-            "Fredericksburg, VA",
-            "Dahlgren, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Amentum",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "RTX",
         "id": "eac1e4ed-b205-4a48-9313-cf212ad80292",
@@ -53619,24 +53598,6 @@
             "Normal, IL"
         ],
         "company_url": "https://simplify.jobs/c/Rivian",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "EaglePicher Technologies",
-        "id": "dc6bced4-d6e0-4b97-b972-0c0766f66baa",
-        "title": "IT Support Analyst",
-        "active": false,
-        "date_updated": 1761762629,
-        "date_posted": 1757551698,
-        "url": "https://careers-eaglepicher.icims.com/jobs/2952/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Joplin, MO"
-        ],
-        "company_url": "https://simplify.jobs/c/EaglePicher-Technologies",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -114413,24 +114374,6 @@
             "Needham, MA"
         ],
         "company_url": "https://simplify.jobs/c/SharkNinja",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Hermeus",
-        "id": "886b0f8c-3cfc-432f-a44a-99cb6b217844",
-        "title": "Build Engineer - Structures",
-        "active": false,
-        "date_updated": 1759969365,
-        "date_posted": 1757550821,
-        "url": "https://jobs.lever.co/hermeus/2930579e-6cc2-4c96-bb9c-c3009bf22d07/apply",
-        "locations": [
-            "LA"
-        ],
-        "company_url": "https://simplify.jobs/c/Hermeus",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -251624,7 +251567,7 @@
         "company_name": "Microchip Technology",
         "id": "d1fd13c3-a5bc-466e-8b27-9ee7fc370515",
         "title": "Engineer 1 - Systems",
-        "active": true,
+        "active": false,
         "date_updated": 1774573473,
         "date_posted": 1774571637,
         "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/CO---Boulder/Engineer-I---Systems_R1102-26",
@@ -256233,7 +256176,7 @@
         "company_name": "Lawrence Berkeley National Laboratory",
         "id": "abc7d36a-19fc-41eb-9db3-1898aeb501ed",
         "title": "Postdoctoral Scholar",
-        "active": true,
+        "active": false,
         "date_updated": 1774919521,
         "date_posted": 1774919336,
         "url": "https://lbl.taleo.net/careersection/5/jobdetail.ftl?job=106272",
@@ -275722,7 +275665,7 @@
         "company_name": "Intel",
         "id": "ee7e0981-ccc6-4146-b334-d41a190ca598",
         "title": "Product Packaging Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1775861495,
         "date_posted": 1775858934,
         "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Product-Packaging-Engineer_JR0282767",
@@ -314617,7 +314560,7 @@
         "company_name": "3PillarGlobal",
         "id": "e16d8622-ab7e-4ca6-9a62-a004db53675d",
         "title": "Mobile Engineer - React Native - Swift",
-        "active": true,
+        "active": false,
         "date_updated": 1778277961,
         "date_posted": 1778277856,
         "url": "https://jobs.lever.co/3pillarglobal/0e279ae3-bf1e-4825-85c9-07f6178000e6/apply",
@@ -315298,6 +315241,26 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "State Affairs",
+        "id": "ba60d0de-6e3b-4ddb-b206-39232daac78c",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1778278141,
+        "date_posted": 1772235444,
+        "url": "https://job-boards.greenhouse.io/stateaffairs/jobs/4009196009",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/State-Affairs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
