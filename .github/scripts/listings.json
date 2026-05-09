@@ -11557,24 +11557,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Falconwood",
-        "id": "9d0d22a0-23b9-4e83-811e-24ce734f2894",
-        "title": "Data Engineer I",
-        "active": false,
-        "date_updated": 1762186584,
-        "date_posted": 1757631601,
-        "url": "https://careers-falconwood.icims.com/jobs/1672/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Suffolk, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Falconwood",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Trimble",
         "id": "ce9e5f9c-8d08-42f2-96e4-045204f2aae1",
@@ -52719,24 +52701,6 @@
             "Columbus, OH"
         ],
         "company_url": "https://simplify.jobs/c/Peraton",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "mthree",
-        "id": "c114e95b-9aa6-4a01-9b7a-d87c1455b23e",
-        "title": "Mthree \u2013 Graduate Cyber Incident Manager - Glasgow",
-        "active": false,
-        "date_updated": 1762905329,
-        "date_posted": 1757630094,
-        "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4600466006",
-        "locations": [
-            "United Kingdom"
-        ],
-        "company_url": "https://simplify.jobs/c/Mthree",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -123635,24 +123599,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Stony Brook Medicine University Physicians",
-        "id": "f0d5af3f-ab4d-4767-9b11-843f39e6945f",
-        "title": "Medical Assistant",
-        "active": false,
-        "date_updated": 1767869805,
-        "date_posted": 1757631471,
-        "url": "https://careers-stonybrookmedicinecpmp.icims.com/jobs/4463/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Morton Grove, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Stony-Brook-Medicine-University-Physicians",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Brookhaven Lab",
         "id": "eb9cbf14-5636-4659-9233-694d46d84c01",
         "title": "Postdoctoral Research Associate - Computational Imaging and Data Science",
@@ -154060,7 +154006,7 @@
         "company_name": "JP Morgan Chase",
         "id": "12494fd5-2be1-4d6f-a757-727e5512be1d",
         "title": "Data Management Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1769728699,
         "date_posted": 1769728699,
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210706739",
@@ -282839,7 +282785,7 @@
         "company_name": "Businessolver",
         "id": "1838822a-5aac-40cd-8107-73e1cf040cc4",
         "title": "Product Manager",
-        "active": true,
+        "active": false,
         "date_updated": 1776302649,
         "date_posted": 1776302551,
         "url": "https://www.businessolver.com/careers/openings/?gh_jid=7812289",
@@ -292509,7 +292455,7 @@
         "company_name": "Bank of Montreal",
         "id": "0de1780e-72b1-4632-ad7d-c210ca66929e",
         "title": "Credit Risk Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1776809300,
         "date_posted": 1776809029,
         "url": "https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Credit-Risk-Data-Analyst---6-Month-Contract---New-or-Recent-Graduate-Opportunity_R260009235-1",
@@ -299367,7 +299313,7 @@
         "company_name": "Brain Corp",
         "id": "0048597d-b88e-49a3-9335-a951045650d5",
         "title": "Software Engineer 1 - Manufacturing",
-        "active": true,
+        "active": false,
         "date_updated": 1777331969,
         "date_posted": 1777331492,
         "url": "https://braincorp.com/open-positions?gh_jid=8525580002",
@@ -307197,7 +307143,7 @@
         "company_name": "The Boeing Company",
         "id": "0a15e6f8-6c92-4cf6-b441-10e1f3b31094",
         "title": "Entry Level Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1778019960,
         "date_posted": 1778019009,
         "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Huntsville-AL/Entry-Level-Software-Developer_JR2026503863",
