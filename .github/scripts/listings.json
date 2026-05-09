@@ -98220,24 +98220,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Liberty Mutual",
-        "id": "c94e40b2-b209-467d-a96a-6223a7672b3e",
-        "title": "Insurance Agent",
-        "active": false,
-        "date_updated": 1765678913,
-        "date_posted": 1757565192,
-        "url": "https://careers-libertymutual.icims.com/jobs/71564/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Liberty-Mutual",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "NV5 Global",
         "id": "319fd885-e095-4470-a4b4-1d2ae4a6a624",
@@ -265908,7 +265890,7 @@
         "company_name": "NVIDIA",
         "id": "20dab505-3170-4e74-a572-2a5a0d7e7396",
         "title": "ASIC RTL Integration and Netlisting Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1775300686,
         "date_posted": 1775299142,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-RTL-Integration-and-Netlisting-Engineer---New-College-Grad-2026_JR2013172",
