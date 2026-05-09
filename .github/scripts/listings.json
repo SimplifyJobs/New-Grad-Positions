@@ -5409,7 +5409,7 @@
         "company_name": "Klaviyo",
         "id": "dbe9ac4a-7404-4101-83ec-c73df2a11f1c",
         "title": "Machine Learning Engineer 1 - Machine Learning - Full-stack Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1759651078,
         "date_posted": 1759651078,
         "url": "https://job-boards.greenhouse.io/klaviyocampus/jobs/7484845003",
@@ -52795,25 +52795,6 @@
             "Chicago, IL"
         ],
         "company_url": "https://simplify.jobs/c/ICEMarkets",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Peraton",
-        "id": "395ee348-6225-4010-b69a-458d1802ce40",
-        "title": "Systems Administrator - Associate",
-        "active": false,
-        "date_updated": 1757732608,
-        "date_posted": 1757620977,
-        "url": "https://careers-peraton.icims.com/jobs/158239/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Maryland",
-            "Odenton, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/Peraton",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -104074,24 +104055,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "BlueSprig",
-        "id": "1b479942-c7df-47c6-983e-13771a06d72e",
-        "title": "Behavior Technician - Behavior Technician - Registered Behavior Technician",
-        "active": false,
-        "date_updated": 1766129033,
-        "date_posted": 1757621114,
-        "url": "https://careers-bluesprigpediatrics.icims.com/jobs/18888/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Morristown, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/BlueSprig",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "L3Harris Technologies",
         "id": "25260598-0034-4439-bf76-19d0773a8ce6",
@@ -108781,24 +108744,6 @@
             "Bath, UK"
         ],
         "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "KPH Healthcare Services",
-        "id": "6e8faf9d-16b7-4838-984e-c49b564085cd",
-        "title": "Pharmacy Clerk",
-        "active": false,
-        "date_updated": 1766888517,
-        "date_posted": 1757622409,
-        "url": "https://kphcareers-kphhealthcareservices.icims.com/jobs/13461/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/KPH-Healthcare-Services",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -113816,24 +113761,6 @@
             "Salt Lake City, UT"
         ],
         "company_url": "https://simplify.jobs/c/Agiliti",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Peraton",
-        "id": "b602ba2c-548d-4e96-8874-b9feee7d87bc",
-        "title": "Electronic Technician 1",
-        "active": false,
-        "date_updated": 1757717245,
-        "date_posted": 1757621128,
-        "url": "https://careers-peraton.icims.com/jobs/152530/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Topeka, KS"
-        ],
-        "company_url": "https://simplify.jobs/c/Peraton",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -146212,7 +146139,7 @@
         "company_name": "Loop",
         "id": "aff0bb8a-52b1-43c4-9cc3-d415c0439d24",
         "title": "2026 New Grad - Software Engineer - Full-Stack",
-        "active": true,
+        "active": false,
         "date_updated": 1769221627,
         "date_posted": 1769221627,
         "url": "https://job-boards.greenhouse.io/loop/jobs/5780582004",
@@ -254635,7 +254562,7 @@
         "company_name": "Meridian Link",
         "id": "079eb5e3-2758-4902-861e-7440b96643fc",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1774911606,
         "date_posted": 1774908530,
         "url": "https://jobs.ashbyhq.com/meridianlink/f1c03b5e-dcbb-41b7-81be-f63042f4d940/application",
