@@ -2,45 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Amentum",
-        "id": "81812d77-1856-4a81-aedb-e98ee2007f27",
-        "title": "Entry Level Software Engineer",
-        "active": false,
-        "date_updated": 1757566924,
-        "date_posted": 1757566924,
-        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0145734",
-        "locations": [
-            "Fredericksburg, VA",
-            "Dahlgren, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Amentum",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Starpath Robotics",
-        "id": "2f29e648-16e9-4a69-81b2-6ad5b25c4000",
-        "title": "Software Engineer \u2013 Early Career",
-        "active": false,
-        "date_updated": 1757627394,
-        "date_posted": 1757568610,
-        "url": "https://jobs.ashbyhq.com/starpath.space/e27021db-0427-4d4a-a2a1-5f8f349ad4d8/application",
-        "locations": [
-            "West Athens, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Starpath-Robotics",
-        "is_visible": false,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Adobe",
         "id": "29a35bfe-e4e3-4e8b-99cf-38bfbe95a5e1",
         "title": "2026 University Graduate - Software Engineer",
@@ -53347,28 +53308,6 @@
             "Columbus, OH"
         ],
         "company_url": "https://simplify.jobs/c/TekSynap",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Applied Materials",
-        "id": "e9fe2220-4ff2-4df6-814c-86e15343c095",
-        "title": "Field Service Engineer - Bachelor's Degree",
-        "active": false,
-        "date_updated": 1762910533,
-        "date_posted": 1757568528,
-        "url": "https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/XMLNAME-2026-Field-Service-Engineer---New-College-Graduate-Rotational-Program--College-Grad---Bachelor-s-Degree--US-Based-_R2516565",
-        "locations": [
-            "Austin, TX",
-            "Boise, ID",
-            "Phoenix, AZ",
-            "Chandler, AZ",
-            "Richardson, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Applied-Materials",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -285956,7 +285895,7 @@
         "company_name": "Uhaul",
         "id": "1b162205-fb7d-42a1-8332-12c81076b9ee",
         "title": "Senior Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1776388321,
         "date_posted": 1776388289,
         "url": "https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/Phoenix-Arizona/Senior-Software-Developer_R239934",
@@ -307182,7 +307121,7 @@
         "company_name": "Bristol Myers Squibb",
         "id": "f693da0a-b0d5-4a3e-a9dc-689f97968c76",
         "title": "Data Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1777933763,
         "date_posted": 1777932558,
         "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Devens---MA---US/Data-Scientist--MS-T-Systems-and-Engineering_R1601974",
@@ -313588,7 +313527,7 @@
         "company_name": "Texas Capital Bank",
         "id": "6c30d517-7b45-439c-b07f-777ea317d6bd",
         "title": "Sales & Trading Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1778193541,
         "date_posted": 1778191541,
         "url": "https://texascapitalbank.wd12.myworkdayjobs.com/Careers/job/Dallas-TX/Sales---Trading-Analyst_JR105372",
