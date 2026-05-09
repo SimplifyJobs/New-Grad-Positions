@@ -2019,26 +2019,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Ciena",
-        "id": "de2c5aa8-afd1-4d9f-9968-0e3901597227",
-        "title": "PON Software Engineer \u2013 New Grad",
-        "active": false,
-        "date_updated": 1758362371,
-        "date_posted": 1757622733,
-        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/US--MA--Mansfield--200-Chauncy-St/PON-Software-Engineer---New-Grad_R028765",
-        "locations": [
-            "Mansfield, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Ciena",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Boston Scientific",
         "id": "a1544892-4b8f-476c-9e5a-8cc674c24bc3",
         "title": "Software Development Engineer 1 - Engineering - Development",
@@ -52777,24 +52757,6 @@
             "United Kingdom"
         ],
         "company_url": "https://simplify.jobs/c/Mthree",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Intercontinental Exchange",
-        "id": "c060c5a9-1bc7-4038-8270-86fcf7db0c47",
-        "title": "Junior Technician - Data Center Operations",
-        "active": false,
-        "date_updated": 1761768476,
-        "date_posted": 1757622947,
-        "url": "https://careers-ice.icims.com/jobs/11025/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/ICEMarkets",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
