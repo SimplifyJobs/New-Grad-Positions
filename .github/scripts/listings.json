@@ -52525,26 +52525,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "LPL Financial Holdings",
-        "id": "5b4d6612-1325-4784-bdb9-a84382b774ee",
-        "title": "New Grad - Technology - Data & Analytics",
-        "active": false,
-        "date_updated": 1763115019,
-        "date_posted": 1757640828,
-        "url": "https://lplfinancial.wd1.myworkdayjobs.com/External/job/Fort-MillCharlotte/New-Grad-2026---Technology--Data---Analytics_R-046208-1",
-        "locations": [
-            "Austin, TX",
-            "Fort Mill, SC",
-            "Charlotte, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/LPL-Financial-Holdings",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Peraton",
         "id": "9b4ca252-bd3a-4726-9a23-b3aad5698787",
@@ -288269,7 +288249,7 @@
         "company_name": "The Wharton School",
         "id": "8abc2a31-15c2-4609-8c19-29e9300bdb74",
         "title": "Pre-Doctoral Research Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1776505681,
         "date_posted": 1776505532,
         "url": "https://wd1.myworkdaysite.com/recruiting/upenn/Wharton/job/SD---Wharton-Finance/Pre-Doctoral-Research-Specialist_JR00114183",
