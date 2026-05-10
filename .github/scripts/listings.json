@@ -1,59 +1,5 @@
 [
     {
-        "date_updated": 1757667963,
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "degrees": [],
-        "url": "https://www.janestreet.com/join-jane-street/position/8053215002/",
-        "company_name": "Jane Street",
-        "title": "Cybersecurity Analyst",
-        "locations": [
-            "New York, NY"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "538b9ba7-eafb-4e4c-9d6b-fdfab046b379",
-        "date_posted": 1757667963,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1758126557,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "degrees": [],
-        "url": "https://careers.nordstrom.com/engineer-1-full-stack-store-pos-team-hybrid-seattle-wa/job/4D8A4B0EBC4BABF554018E5C28260729",
-        "company_name": "Nordstrom",
-        "title": "Engineer 1 - Full Stack, Store POS+",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "a48c0369-b4c6-428f-8b24-11678660c772",
-        "date_posted": 1757668082,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1758584670,
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "degrees": [],
-        "url": "https://jobs.ashbyhq.com/eliseai/1ffbd278-a5fe-443c-984f-521d61a97353",
-        "company_name": "EliseAI",
-        "title": "Software Engineer",
-        "locations": [
-            "New York, NY"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "e9aa375c-d8f2-4256-afc1-a49556ef4fe9",
-        "date_posted": 1757668156,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
         "source": "Simplify",
         "category": "Software",
         "company_name": "Sun Life",
