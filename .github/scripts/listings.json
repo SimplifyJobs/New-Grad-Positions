@@ -52169,24 +52169,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Black Box",
-        "id": "4c796074-7ca5-4baf-8337-97c4b7709e73",
-        "title": "Fiber Optic Technician",
-        "active": false,
-        "date_updated": 1758131563,
-        "date_posted": 1757704370,
-        "url": "https://eoje.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/5515",
-        "locations": [
-            "Plano, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Black-Box",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Rockwell Automation",
         "id": "f7576122-4bf4-4353-a50b-ef3448852bc1",
         "title": "Technical Support Engineer",
