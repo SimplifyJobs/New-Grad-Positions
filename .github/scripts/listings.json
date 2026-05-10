@@ -52652,24 +52652,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "DataDirect Networks (DDN)",
-        "id": "e95d80d7-2b59-4bd2-9b96-947eb90be3e4",
-        "title": "Associate Software Engineer",
-        "active": false,
-        "date_updated": 1763130695,
-        "date_posted": 1757646615,
-        "url": "https://careers-ddn.icims.com/jobs/5271/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Columbia, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/DataDirect-Networks",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Akima",
         "id": "3095d06d-b531-4d50-978d-2bbe02e61112",
@@ -82618,7 +82600,7 @@
         "company_name": "Adobe",
         "id": "5e6f3e61-40fe-4700-8251-5e1ada720bd8",
         "title": "Software Development Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1764642513,
         "date_posted": 1764642513,
         "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Software-Development-Engineer_R159512",
