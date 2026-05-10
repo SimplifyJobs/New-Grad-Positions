@@ -1,49 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "Adobe",
-        "id": "77bf2b07-1a7a-40d8-b077-2346471ab0be",
-        "title": "University Graduate - Junior Product Manager",
-        "active": false,
-        "date_updated": 1757633670,
-        "date_posted": 1757633670,
-        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Junior-Product-Manager_R159932",
-        "locations": [
-            "SF",
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Adobe",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Adobe",
-        "id": "90b25733-b550-4ed8-bcbb-6a3719e1c56a",
-        "title": "2026 University Graduate - Software Engineer",
-        "active": false,
-        "date_updated": 1757633642,
-        "date_posted": 1757633642,
-        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/XMLNAME-2026-University-Graduate---Software-Engineer_R159933",
-        "locations": [
-            "San Jose, CA",
-            "Lehi, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/Adobe",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Adobe",
         "id": "7f173f22-a3e4-4f68-8261-66e127ed0707",
@@ -6091,69 +6048,6 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Point72",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Atlassian",
-        "id": "f4a93562-4c61-40f2-844c-b8d48c348d24",
-        "title": "Machine Learning Engineer 2026 Graduate - Machine Learning",
-        "active": false,
-        "date_updated": 1758623173,
-        "date_posted": 1757634527,
-        "url": "https://campus-americas.icims.com/jobs/20906/machine-learning-engineer%2c-2026-graduate-u.s./job",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Atlassian",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Atlassian",
-        "id": "585ba481-c951-4d63-a4ca-f93f72aff364",
-        "title": "Machine Learning Engineer 2026 Graduate - Machine Learning",
-        "active": false,
-        "date_updated": 1758620572,
-        "date_posted": 1757634550,
-        "url": "https://campus-globalcareers-atlassian.icims.com/jobs/20909/machine-learning-engineer%2c-2026-graduate-canada/job",
-        "locations": [
-            "Burnaby, BC, Canada",
-            "Vancouver, BC, Canada",
-            "Richmond, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Atlassian",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Atlassian",
-        "id": "99c2a4c0-5241-4fc1-ab6f-a02e20e84c60",
-        "title": "Software Engineer 2026 Graduate",
-        "active": false,
-        "date_updated": 1758575681,
-        "date_posted": 1757634530,
-        "url": "https://campus-americas.icims.com/jobs/20901/software-engineer%2c-2026-graduate-u.s./job",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Atlassian",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -23547,7 +23441,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "74ba1fe3-ca71-4260-b251-29fa1d840279",
         "title": "Quantitative Systematic Trader - Master's: 2026",
-        "active": true,
+        "active": false,
         "date_updated": 1762620432,
         "date_posted": 1762620432,
         "url": "https://careers-sig.icims.com/jobs/9442/job?mobile=true&needsRedirect=false",
@@ -100983,24 +100877,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Park Dental",
-        "id": "5b792763-312e-445e-9659-38bdc12d5196",
-        "title": "Licensed Dental Hygienist - Brookpark",
-        "active": false,
-        "date_updated": 1765966347,
-        "date_posted": 1757633704,
-        "url": "https://parkdentalcareers-parkdental.icims.com/jobs/5608/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "McLean, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Park-Dental",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Covenant Health",
         "id": "169ab55f-64d0-453a-a3b9-5b5f2055c540",
@@ -135342,26 +135218,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "WiSC Enterprises, LLC",
-        "id": "04ca82b7-1560-4006-b0ab-a020a4745932",
-        "title": "Geoint Analyst \u2013 Entry Level",
-        "active": true,
-        "date_updated": 1768559085,
-        "date_posted": 1757634652,
-        "url": "https://careers-wiscenterprises.icims.com/jobs/1637/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Springfield, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/WiSC-Enterprises",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Alcon",
         "id": "fd16f2a1-9103-47b8-a5f2-ed5f7287ce2f",
@@ -140347,7 +140203,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "8365da01-4e3d-40f3-a6f0-e19b1c214273",
         "title": "Quantitative Systematic Trader - Master's: 2026",
-        "active": true,
+        "active": false,
         "date_updated": 1769036790,
         "date_posted": 1769036790,
         "url": "https://careers-sig.icims.com/jobs/9441/job?mobile=true&needsRedirect=false",
@@ -149552,7 +149408,7 @@
         "company_name": "NVIDIA",
         "id": "cb5c29ed-d3aa-44c6-b0fc-430c82877b0e",
         "title": "Research Scientist - AI for Graphics and Gaming",
-        "active": true,
+        "active": false,
         "date_updated": 1769556040,
         "date_posted": 1769556040,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--AI-for-Graphics-and-Gaming---New-College-Grad-2026_JR2011267",
