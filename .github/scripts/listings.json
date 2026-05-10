@@ -1971,29 +1971,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "PathAI",
-        "id": "c02dfa55-86e8-4965-9800-7ea301501001",
-        "title": "Machine Learning Engineer 1/2/3",
-        "active": true,
-        "date_updated": 1758388097,
-        "date_posted": 1757648115,
-        "url": "https://www.pathai.com/careers/8062963002?gh_jid=8062963002",
-        "locations": [
-            "Boston, MA",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/PathAI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "EverCommerce",
         "id": "a75ec43d-b108-4783-98ad-6bdc20a33da3",
