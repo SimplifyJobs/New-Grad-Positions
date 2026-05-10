@@ -2321,24 +2321,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Bombora",
-        "id": "a9b5eb62-ac85-4d24-98da-e3279e2d9474",
-        "title": "Data Engineer 1",
-        "active": false,
-        "date_updated": 1761556325,
-        "date_posted": 1757715792,
-        "url": "https://bombora.com/about/bombora-careers?gh_jid=8167665002",
-        "locations": [
-            "Reno, NV"
-        ],
-        "company_url": "https://simplify.jobs/c/Bombora",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "D2L",
         "id": "380f5198-4daf-4c7d-9349-31d7bd8b54ca",
