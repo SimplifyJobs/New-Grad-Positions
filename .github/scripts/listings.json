@@ -52340,24 +52340,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "EXL",
-        "id": "e88bbbdc-fd59-4e93-97cc-e530f2e9e7ba",
-        "title": "Service Desk Analyst",
-        "active": false,
-        "date_updated": 1761507863,
-        "date_posted": 1757677398,
-        "url": "https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/4526",
-        "locations": [
-            "Manchester, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/EXL",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "L3Harris Technologies",
         "id": "61784648-dbde-46c2-a8e1-3a2309c1db58",
