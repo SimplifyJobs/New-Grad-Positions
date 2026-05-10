@@ -2,69 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Sun Life",
-        "id": "2033c21e-54e5-415d-a102-70d1e64a23b8",
-        "title": "Student \u2013 Junior Software Engineer",
-        "active": false,
-        "date_updated": 1757695085,
-        "date_posted": 1757695085,
-        "url": "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-Ontario/Student--Junior-Software-Engineer--Winter-2026-_JR00114373",
-        "locations": [
-            "Toronto, ON, Canada",
-            "Kitchener, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Sun-Life",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Expedia Group",
-        "id": "b4b13a9d-d220-4bc3-9994-434aa0a31122",
-        "title": "Software Development Engineer I",
-        "active": false,
-        "date_updated": 1757695544,
-        "date_posted": 1757695544,
-        "url": "https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Software-Development-Engineer-I_R-97727",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Expedia-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Expedia Group",
-        "id": "0414920e-9a7a-46e6-967c-320c1b558953",
-        "title": "Software Development Engineer I",
-        "active": false,
-        "date_updated": 1757695543,
-        "date_posted": 1757695543,
-        "url": "https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Software-Development-Engineer-I_R-97728-1",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Expedia-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Alphataraxia",
         "id": "ca019c65-43a2-44cb-9cfa-5d0348684d94",
         "title": "Software Engineer \u2013 New Grad",
@@ -52297,24 +52234,6 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Cresta",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Susquehanna International Group (SIG)",
-        "id": "12260c33-1851-4e59-8af1-e395ca5e83cf",
-        "title": "Software Developer Graduate",
-        "active": false,
-        "date_updated": 1763131290,
-        "date_posted": 1757695151,
-        "url": "https://careers-sig.icims.com/jobs/9823/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Susquehanna",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
