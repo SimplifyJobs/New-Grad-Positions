@@ -52690,24 +52690,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Susquehanna International Group (SIG)",
-        "id": "4d2380fd-b396-4e3e-a2e1-4637670b6f11",
-        "title": "Linux/Windows Engineer",
-        "active": false,
-        "date_updated": 1762254376,
-        "date_posted": 1757636266,
-        "url": "https://careers-sig.icims.com/jobs/9089/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Ardmore, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Susquehanna",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "DataDirect Networks (DDN)",
         "id": "e95d80d7-2b59-4bd2-9b96-947eb90be3e4",
@@ -52720,24 +52702,6 @@
             "Columbia, MD"
         ],
         "company_url": "https://simplify.jobs/c/DataDirect-Networks",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Sharp Electronics",
-        "id": "2569dc1f-dbca-47e3-a83d-f21cfe6b273d",
-        "title": "Shop Technician",
-        "active": false,
-        "date_updated": 1763130659,
-        "date_posted": 1757635379,
-        "url": "https://careers-sharpusa.icims.com/jobs/8625/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Charlotte, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Sharp-Electronics",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -107648,24 +107612,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Amazing Lash Studios",
-        "id": "af77ee0d-8141-4d59-95cd-d628c00b3165",
-        "title": "Sales Associate / Customer Service",
-        "active": false,
-        "date_updated": 1766571952,
-        "date_posted": 1757636261,
-        "url": "https://amazinglashstudio-wellbizbrands.icims.com/jobs/9595/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Amazing-Lash-Studios",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Lennar Corporation",
         "id": "e902b464-c6c5-42dc-99a1-75ff916e5671",
         "title": "Systems Analyst 1",
@@ -131177,26 +131123,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Cellular Sales",
-        "id": "d6bf2496-c2fc-4073-9858-360d43fa78bb",
-        "title": "Verizon Sales Consultant",
-        "active": false,
-        "date_updated": 1768387243,
-        "date_posted": 1757636137,
-        "url": "https://careers-cellularsales.icims.com/jobs/20678/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "White Plains, NY",
-            "Cincinnati, OH",
-            "Muskegon, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/Cellular-Sales",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -313998,6 +313924,26 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "WiSC Enterprises, LLC",
+        "id": "04ca82b7-1560-4006-b0ab-a020a4745932",
+        "title": "Geoint Analyst \u2013 Entry Level",
+        "active": true,
+        "date_updated": 1768956687,
+        "date_posted": 1768956687,
+        "url": "https://careers-wiscenterprises.icims.com/jobs/1637/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/WiSC-Enterprises",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
