@@ -65820,7 +65820,7 @@
         "company_name": "Cisco",
         "id": "c19579ac-cc84-4455-96e5-f56733ea0be3",
         "title": "Software Engineer Backend/Platform Systems 1",
-        "active": false,
+        "active": true,
         "date_updated": 1763664376,
         "date_posted": 1763664376,
         "url": "https://careers.cisco.com/global/en/job/2000046",
@@ -161944,7 +161944,7 @@
         "company_name": "Cadence Design Systems",
         "id": "7fc25a2f-3933-4a77-aa4a-79e8169532c4",
         "title": "Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1770164051,
         "date_posted": 1770164051,
         "url": "https://cadence.wd1.myworkdayjobs.com/University_CST/job/SAN-JOSE/Application-Engineer_R53122",
@@ -199854,7 +199854,7 @@
         "company_name": "Nationwide Children's Hospital",
         "id": "b3c5fc84-0209-44d7-af5a-92bca0f9a4e3",
         "title": "IS Business Intelligence Analyst 1",
-        "active": false,
+        "active": true,
         "date_updated": 1772062149,
         "date_posted": 1772062149,
         "url": "https://nationwidechildrens.wd5.myworkdayjobs.com/en-US/NCHCareers/job/431-S-18th-St-Columbus-OH/IS-Business-Intelligence-Analyst-I_R-23316-1",
@@ -237871,7 +237871,7 @@
         "company_name": "Cisco",
         "id": "a36cbd7f-5da5-4313-8f57-e11698c480c6",
         "title": "Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1773959637,
         "date_posted": 1773959637,
         "url": "https://careers.cisco.com/global/en/job/2011256",
@@ -279113,7 +279113,7 @@
         "company_name": "Arconic",
         "id": "90cbc000-49e2-4aaf-a54a-6a71ff7968c3",
         "title": "Data Scientist - Revenue Management",
-        "active": false,
+        "active": true,
         "date_updated": 1776206713,
         "date_posted": 1776204432,
         "url": "https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/113749",
@@ -313584,5 +313584,325 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Autodesk",
+        "id": "8f58081b-1f79-41bb-b1fa-c506d50daa80",
+        "title": "Associate Researcher - Design and Manufacturing",
+        "active": true,
+        "date_updated": 1778538781,
+        "date_posted": 1778537324,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/uni/job/Toronto-ON-CAN/Associate-Researcher--Design-and-Manufacturing_26WD98040",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Autodesk",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "DraftKings",
+        "id": "f44e478c-79f9-454b-b671-c6a4f35087c1",
+        "title": "Data Science Engineer",
+        "active": true,
+        "date_updated": 1778538914,
+        "date_posted": 1778537344,
+        "url": "https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/Boston-MA/Campus-2026--Data-Science-Engineer_JR14260-1",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/DraftKings",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Daimler Truck",
+        "id": "ede6cfca-35ad-453f-bfde-a1c5fdb5487f",
+        "title": "Embedded Engineer 1",
+        "active": true,
+        "date_updated": 1778538403,
+        "date_posted": 1778537275,
+        "url": "https://dtna.wd5.myworkdayjobs.com/dtna_affiliate/job/Portland-OR-US/Embedded-Engineer-I_DT-17891-1",
+        "locations": [
+            "Portland, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Daimler-Truck",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "DraftKings",
+        "id": "3a4726a5-252c-4ccc-ab06-60f6a8b722a3",
+        "title": "Data Science Engineer",
+        "active": true,
+        "date_updated": 1778538789,
+        "date_posted": 1778537347,
+        "url": "https://draftkings.wd1.myworkdayjobs.com/Employee_Referral_Portal/job/Boston-MA/Campus-2026--Data-Science-Engineer_JR14260",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/DraftKings",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The University of Kansas Hospital",
+        "id": "15380c94-a97e-4400-889a-e966c52aae54",
+        "title": "Perioperative & Procedural Business Informatics Analyst 1",
+        "active": true,
+        "date_updated": 1778538608,
+        "date_posted": 1778537271,
+        "url": "https://kansashealthsystem.wd1.myworkdayjobs.com/careers/job/Lenexa-KS/Periop---Procedural-Business-Informatics-Analyst-I_R-53655-1",
+        "locations": [
+            "Lenexa, KS"
+        ],
+        "company_url": "https://simplify.jobs/c/The-University-Of-Kansas-Hospital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Nidec",
+        "id": "bec82998-633d-4eea-8fcc-5d2323f0f7b2",
+        "title": "Continuous Improvement Analyst",
+        "active": true,
+        "date_updated": 1778538977,
+        "date_posted": 1778537282,
+        "url": "https://nidec.wd1.myworkdayjobs.com/nidec/job/North-AmericaUSATennesseeLexington-TN/Continuous-Improvement-Analyst_R0015549-1",
+        "locations": [
+            "Jackson, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/Nidec",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Daimler Truck",
+        "id": "4797c54c-2b2f-4cf7-9ead-baf41ae21c88",
+        "title": "Implementation and Coordination Engineer 1",
+        "active": true,
+        "date_updated": 1778538429,
+        "date_posted": 1778537275,
+        "url": "https://dtna.wd5.myworkdayjobs.com/dtna_affiliate/job/Portland-OR-US/Implementation-and-Coordination-Engineer-I_DT-17911-1",
+        "locations": [
+            "Portland, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Daimler-Truck",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Travelers",
+        "id": "daaff4fc-3b64-49b6-addb-79653dc87519",
+        "title": "Software Engineer 1 - Investments Technology",
+        "active": true,
+        "date_updated": 1778538307,
+        "date_posted": 1778537205,
+        "url": "https://travelers.wd5.myworkdayjobs.com/External/job/MN---St-Paul/Software-Engineer-I---Investments-Technology_R-50406",
+        "locations": [
+            "Hartford, CT",
+            "St Paul, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Travelers",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "L.L.Bean",
+        "id": "56926009-bbb7-4085-a5fa-6d0f5b9e179b",
+        "title": "Retail Assistant Merchant",
+        "active": true,
+        "date_updated": 1778538061,
+        "date_posted": 1778537179,
+        "url": "https://llbean.wd1.myworkdayjobs.com/llbean_careers/job/Freeport-ME/Retail-Assistant-Merchant_JR10669",
+        "locations": [
+            "Brunswick, ME"
+        ],
+        "company_url": "https://simplify.jobs/c/LL-Bean",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Leidos",
+        "id": "90e25b91-b560-4b57-9dfe-6fc1c79bbaf2",
+        "title": "Entry-Level Software Engineer",
+        "active": true,
+        "date_updated": 1778538382,
+        "date_posted": 1778537213,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Entry-Level-Software-Engineer_R-00182934",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northrop Grumman",
+        "id": "5d532966-123f-44d1-949c-f3b1e6310ee0",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1778538061,
+        "date_posted": 1778537175,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/Software-Engineer-1-2_R10232029",
+        "locations": [
+            "Boulder, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Micron Technology",
+        "id": "cafa2635-a287-47f6-82ce-913df02876d6",
+        "title": "Product Development Engineer 1",
+        "active": true,
+        "date_updated": 1778537161,
+        "date_posted": 1778537091,
+        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Product-Development-Engineer-1_JR101302",
+        "locations": [
+            "Boise, ID"
+        ],
+        "company_url": "https://simplify.jobs/c/Micron-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "MSIG USA ",
+        "id": "8b716976-627c-4a5e-9dca-1fcefe278c2c",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1778538629,
+        "date_posted": 1778537055,
+        "url": "https://msigna.wd5.myworkdayjobs.com/gbl/job/NJ-Warren/Data-Analyst_JR-000855",
+        "locations": [
+            "Middlesex, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/MSIG-USA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Wyetech",
+        "id": "aeaec5a1-81bc-41e5-8d0d-90850e172f05",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1778537881,
+        "date_posted": 1778536995,
+        "url": "https://jobs.lever.co/wyetechllc/0829b20b-e835-4188-8147-4c233a7911c9/apply",
+        "locations": [
+            "Odenton, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Wyetech-LLC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "FORTNA",
+        "id": "8dc9ce6b-6275-4799-81e4-eaa7e706a8fb",
+        "title": "Product Engineer - Factory Support",
+        "active": true,
+        "date_updated": 1778538061,
+        "date_posted": 1778537179,
+        "url": "https://mhs.wd1.myworkdayjobs.com/careers/job/Mount-Washington-Kentucky-USA/Product-Engineer---Factory-Support_R9226",
+        "locations": [
+            "Shepherdsville, KY"
+        ],
+        "company_url": "https://simplify.jobs/c/FORTNA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "JP Morgan Chase",
+        "id": "5d1e1809-59b5-407b-8515-b679c2373655",
+        "title": "AI Controls & Product Management Associate",
+        "active": true,
+        "date_updated": 1778537881,
+        "date_posted": 1778537132,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210742941",
+        "locations": [
+            "Edinburgh, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
