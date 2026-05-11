@@ -2,46 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "AllTrails",
-        "id": "b3c80fe1-d839-482f-aa36-e8840e4b63e8",
-        "title": "Software Engineer I - Fullstack - Trail Data",
-        "active": false,
-        "date_updated": 1757729051,
-        "date_posted": 1757729051,
-        "url": "https://jobs.lever.co/alltrails/eedd7a84-9fa6-4653-9ea6-1475ed813568/apply",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/AllTrails",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Peraton",
-        "id": "7aaed7bd-cc81-4a44-a1f0-5f65ede1de5e",
-        "title": "Junior Software Engineer",
-        "active": false,
-        "date_updated": 1757728949,
-        "date_posted": 1757728949,
-        "url": "https://careers-peraton.icims.com/jobs/159132/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "King George County, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Peraton",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Jerry",
         "id": "d39c7c03-0622-4ee2-8652-8efd67fe77c2",
         "title": "Software Engineer I",
@@ -52031,24 +51991,6 @@
             "Dayton, OH"
         ],
         "company_url": "https://simplify.jobs/c/Premier-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Peraton",
-        "id": "f1f74c42-0f34-43c3-9d8e-c82d83acd14d",
-        "title": "Systems Administrator - Associate",
-        "active": false,
-        "date_updated": 1757729157,
-        "date_posted": 1757729157,
-        "url": "https://careers-peraton.icims.com/jobs/153402/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Fort Huachuca, Sierra Vista, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Peraton",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -305843,7 +305785,7 @@
         "company_name": "General Motors",
         "id": "1867969a-db0e-4b61-bcfe-810cf5e1f73c",
         "title": "Machine Learning Engineer - AI Inference Solutions",
-        "active": true,
+        "active": false,
         "date_updated": 1777944061,
         "date_posted": 1777943397,
         "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/Machine-Learning-Engineer--AI-Inference-Solutions--University-Grad-_JR-202610103",
