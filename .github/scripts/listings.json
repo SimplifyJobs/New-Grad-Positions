@@ -51924,24 +51924,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Blackhawk Network Holdings",
-        "id": "260c08d4-9eab-4cd7-bbfc-696e8b5ebcd5",
-        "title": "Software Engineer - Multiple Teams",
-        "active": false,
-        "date_updated": 1757746563,
-        "date_posted": 1757746563,
-        "url": "https://careers-blackhawknetwork.icims.com/jobs/24806/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Pleasanton, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Blackhawk-Network-Holdings",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "American Express",
         "id": "12fd6548-a259-4799-8ff7-a33c0a6bacaa",
         "title": "Software Engineer - Java - Enterprise Architecture",
@@ -305387,7 +305369,7 @@
         "company_name": "RTX",
         "id": "9947b1d0-46d1-4aee-bdf3-f9122df0503b",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1777933929,
         "date_posted": 1777932676,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-401--401-Jan-Davis-Dr-NW--JAN-DAVIS-401/XMLNAME-2026--Raytheon-Full-Time--Software-Engineer-I---Onsite-_01842968",
@@ -305528,7 +305510,7 @@
         "company_name": "RTX",
         "id": "f1e94307-e3b5-4a4e-b7c4-d5a2347366ef",
         "title": "Software Tools Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1777933890,
         "date_posted": 1777932674,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/Software-Tools-Engineer-I---Onsite-_01834400",
