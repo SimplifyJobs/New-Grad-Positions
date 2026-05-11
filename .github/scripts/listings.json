@@ -288572,7 +288572,7 @@
         "company_name": "Cambridge Associates",
         "id": "e20b9497-68b1-41af-8fa5-8a3625517a98",
         "title": "Investment Analyst - Credit",
-        "active": true,
+        "active": false,
         "date_updated": 1776693781,
         "date_posted": 1776693734,
         "url": "https://cambridgeassociates.wd5.myworkdayjobs.com/Cambridge_Associates/job/London/Investment-Analyst--Credit_JR0000218",
@@ -302884,7 +302884,7 @@
         "company_name": "M&G",
         "id": "6d35e7f1-d238-4a42-bcbc-af9626b7a1fb",
         "title": "Data Engineer Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1777626001,
         "date_posted": 1777039447,
         "url": "https://mgpru.wd3.myworkdayjobs.com/mandgprudential/job/London/Data-Engineer_R19149",
@@ -303825,7 +303825,7 @@
         "company_name": "Ekimetrics",
         "id": "9d0068a2-fbc6-4fa9-8ef5-5a8a4d00a8da",
         "title": "Junior Data Scientist & Marketing Effectiveness",
-        "active": true,
+        "active": false,
         "date_updated": 1777673161,
         "date_posted": 1777673147,
         "url": "https://jobs.lever.co/ekimetrics/d9569ab0-8e3a-4a1d-b342-250a91e90348/apply",
@@ -311940,7 +311940,7 @@
         "company_name": "Spotify",
         "id": "7b05b710-349e-403e-b719-5b89d6330f42",
         "title": "Associate Analytics Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1778230981,
         "date_posted": 1778230964,
         "url": "https://jobs.lever.co/spotify/d95e1989-9a1a-4853-95b1-ecdebf5f81ff/apply",
@@ -313325,5 +313325,23 @@
         "degrees": [
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Charlotte Tilbury",
+        "id": "9be39fea-7d3e-46ca-8cf8-6ab6014265bf",
+        "title": "Global Product Marketing Executive",
+        "active": true,
+        "date_updated": 1778497021,
+        "date_posted": 1778490421,
+        "url": "https://apply.workable.com/charlotte-tilbury/j/9F55D8C67C/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/55ec6556-d45b-4a5c-bd22-73f1aff9aae5",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
