@@ -154762,7 +154762,7 @@
         "company_name": "Revefi",
         "id": "a47f3349-a43d-42e4-8ec0-5b96d3b6cc42",
         "title": "Software Engineer \u2013 New Graduate - Seattle",
-        "active": true,
+        "active": false,
         "date_updated": 1769757343,
         "date_posted": 1769757343,
         "url": "https://jobs.lever.co/revefi/de6bd0b5-2308-435f-bb94-b418c57e7048/apply",
@@ -263488,7 +263488,7 @@
         "company_name": "University of Chicago",
         "id": "294980b2-d9dd-43cd-a8b8-023cbd30e16e",
         "title": "Research Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1775294821,
         "date_posted": 1775294621,
         "url": "https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Research-Analyst_JR32400",
@@ -297725,7 +297725,7 @@
         "company_name": "Xcel Energy",
         "id": "c603ccf5-35a5-41c7-80a6-3d97f5995bf4",
         "title": "Associate Data Scientist - Load Forecasting",
-        "active": true,
+        "active": false,
         "date_updated": 1777330983,
         "date_posted": 1777327762,
         "url": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/Associate-Data-Scientist---Load-Forecasting_JR113724-1",
@@ -301497,7 +301497,7 @@
         "company_name": "The Boeing Company",
         "id": "ccfdf12f-b7a2-49c7-a873-070e101d9f76",
         "title": "Data Analytics Quality Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1777587841,
         "date_posted": 1777586961,
         "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Berkeley-MO/Quality-Engineer--Associate-or-Mid-Level-_JR2025475714",
@@ -313283,5 +313283,65 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "NVIDIA",
+        "id": "30c3335f-cd91-4d95-a18e-b910683cd5d3",
+        "title": "GPU System and Scheduling Architect New Grad",
+        "active": true,
+        "date_updated": 1778479886,
+        "date_posted": 1778479738,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/GPU-System-and-Scheduling-Architect---New-College-Grad-2026_JR2016691-1",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Spotify",
+        "id": "3e73dec1-88b2-4a53-be1a-a3dc74f82056",
+        "title": "Machine Learning Engineer 1 - Personalization - Minesweeper",
+        "active": true,
+        "date_updated": 1778479902,
+        "date_posted": 1778479497,
+        "url": "https://jobs.lever.co/spotify/fd79c3f5-1b2c-47c0-a3c6-4972b559e1c1/apply",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Spotify",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "American University",
+        "id": "3dd62cce-9871-4482-97f8-598e91edb803",
+        "title": "Research Assistant Data Scientist and Engineer",
+        "active": true,
+        "date_updated": 1778479807,
+        "date_posted": 1778479531,
+        "url": "https://american.wd1.myworkdayjobs.com/au/job/Main-Campus-Washington-DC/Part-Time-Research-Assistant-Data-Scientist-and-Engineer_R4229",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/American-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
     }
 ]
