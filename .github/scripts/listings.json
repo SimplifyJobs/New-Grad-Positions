@@ -2,45 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Jerry",
-        "id": "ed276201-e267-4d79-b7d9-93e599b2a9db",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1757727238,
-        "date_posted": 1757727238,
-        "url": "https://jobs.ashbyhq.com/jerry.ai/d54013d8-4a78-4d9d-bd03-c49ca28b31c5/application",
-        "locations": [
-            "Toronto, ON, Canada",
-            "Greater Toronto Area, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Jerry",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "RTX",
-        "id": "fc663241-b323-42be-8eb7-61d5630089e1",
-        "title": "Embedded Linux Software Engineer I",
-        "active": false,
-        "date_updated": 1762779380,
-        "date_posted": 1757728253,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HIA32-Cedar-Rapids-IA-400-Collins-Rd-NE---Cedar-Rapids-IA-52498-0505-USA/Embedded-Linux-Software-Engineer-I--Onsite-_01793223",
-        "locations": [
-            "Cedar Rapids, IA"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "AllTrails",
         "id": "b3c80fe1-d839-482f-aa36-e8840e4b63e8",
         "title": "Software Engineer I - Fullstack - Trail Data",
@@ -111879,24 +111840,6 @@
             "Palmer, TX"
         ],
         "company_url": "https://simplify.jobs/c/Riot-Platforms",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Emerson Electric",
-        "id": "2a70c5fc-1e65-4a36-be54-b5f965a2a2e8",
-        "title": "Hardware Analog Engineer",
-        "active": false,
-        "date_updated": 1757727233,
-        "date_posted": 1757727233,
-        "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/25024108",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Emerson-Electric",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
