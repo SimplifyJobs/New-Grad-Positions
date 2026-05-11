@@ -162046,7 +162046,7 @@
         "company_name": "Cadence Design Systems",
         "id": "83359773-2582-43b6-86d8-4e7f3a4d5e70",
         "title": "Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1770163075,
         "date_posted": 1770163075,
         "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Application-Engineer_R53122-1",
@@ -304439,7 +304439,7 @@
         "company_name": "Enbridge",
         "id": "a16b92cc-70eb-4894-b73a-79073b23ed57",
         "title": "Engineer in Training 1 - Data Intelligence & Decision Support",
-        "active": true,
+        "active": false,
         "date_updated": 1777846138,
         "date_posted": 1777845890,
         "url": "https://enbridge.wd3.myworkdayjobs.com/enbridge_careers/job/Houston-TX-USA/Engineer-in-Training-I_71266-1",
@@ -313521,6 +313521,64 @@
             "Burbank, CA"
         ],
         "company_url": "https://simplify.jobs/c/Disney",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Teledyne",
+        "id": "40ffa63a-9ec3-4832-867f-0f7a77b07fad",
+        "title": "Engineering Technician 1",
+        "active": true,
+        "date_updated": 1778536981,
+        "date_posted": 1778536933,
+        "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/Engineering-Technician-1_REQ34745",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/199b3c43-379a-408c-a6a8-980e79183038",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "JP Morgan Chase",
+        "id": "5a43bef6-a170-4df6-9a0f-d2e992c5d706",
+        "title": "Securities Services Associate - Product Development - Complex Assets",
+        "active": true,
+        "date_updated": 1778537706,
+        "date_posted": 1778537134,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210745451",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Montrose Environmental Group",
+        "id": "0cea9c6a-a29a-49fc-a69f-03ed13c6d96a",
+        "title": "Entry Level Data Management Professional",
+        "active": true,
+        "date_updated": 1778537468,
+        "date_posted": 1778537022,
+        "url": "https://montrose.wd1.myworkdayjobs.com/meg/job/USA-PA-Remote/Entry-Level-Data-Management-Professional_R8272",
+        "locations": [
+            "Pennsylvania"
+        ],
+        "company_url": "https://simplify.jobs/c/Montrose-Environmental-Group",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
