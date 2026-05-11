@@ -2,26 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Jerry",
-        "id": "d39c7c03-0622-4ee2-8652-8efd67fe77c2",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1757741129,
-        "date_posted": 1757741129,
-        "url": "https://jobs.ashbyhq.com/jerry.ai/7ff90ae2-69a9-49ca-82c9-be9a4005c4de/application",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Jerry",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "RTX",
         "id": "16f0ad67-8a00-460b-886e-d1fea299b724",
         "title": "Software Engineer I",
@@ -51980,24 +51960,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Premier Health",
-        "id": "b36ded55-8e55-4855-8080-74859e375576",
-        "title": "ERP Programmer/Analyst - Information Technology",
-        "active": false,
-        "date_updated": 1761941554,
-        "date_posted": 1757740024,
-        "url": "https://premierhealth.eightfold.ai/careers/job/790311934140",
-        "locations": [
-            "Dayton, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Premier-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Rockwell Automation",
         "id": "f7576122-4bf4-4353-a50b-ef3448852bc1",
         "title": "Technical Support Engineer",
@@ -95013,25 +94975,6 @@
             "Santa Clara, CA"
         ],
         "company_url": "https://simplify.jobs/c/NVIDIA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "xAI",
-        "id": "ed7eb73d-a797-437b-8640-ba6c9f727f5e",
-        "title": "X Memes and Headline Commentary Tutor",
-        "active": false,
-        "date_updated": 1765506513,
-        "date_posted": 1757740412,
-        "url": "https://job-boards.greenhouse.io/xai/jobs/4876463007",
-        "locations": [
-            "Palo Alto, CA",
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/XAI",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -311274,7 +311217,7 @@
         "company_name": "Highmark Health",
         "id": "07a75816-463e-4966-843e-e58dbb80d5b6",
         "title": "Data Solutions Analyst Associate - Medicaid Clinical Reporting",
-        "active": true,
+        "active": false,
         "date_updated": 1778193884,
         "date_posted": 1778191589,
         "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Associate-Data-Solutions-Analyst---Medicaid-Clinical-Reporting_J280721",
