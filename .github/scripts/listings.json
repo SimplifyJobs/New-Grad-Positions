@@ -4457,7 +4457,7 @@
         "company_name": "Replit",
         "id": "94f6899d-56b9-46ea-a8fc-077dcadbc526",
         "title": "Software Engineer \u2013 New Grad - Summer 2026",
-        "active": true,
+        "active": false,
         "date_updated": 1759464573,
         "date_posted": 1759464573,
         "url": "https://jobs.ashbyhq.com/replit/b5e81eae-06f9-4798-8988-2d06ca936dbc/application",
@@ -285200,7 +285200,7 @@
         "company_name": "Fifth Third Bank",
         "id": "a53d9228-b7e2-45d9-9930-ec4465fb1175",
         "title": "Fixed Income Analyst: Asset Back Securitization Trading Team",
-        "active": true,
+        "active": false,
         "date_updated": 1776463561,
         "date_posted": 1776463529,
         "url": "https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/New-York-NY/Fixed-Income-Analyst--Asset-Back-Securitization-Trading-Team---NYC_R67433",
@@ -293498,7 +293498,7 @@
         "company_name": "The Boeing Company",
         "id": "5c0d8701-6c35-468e-8a92-60d5ecefa71c",
         "title": "Nondestructive Test",
-        "active": true,
+        "active": false,
         "date_updated": 1776896117,
         "date_posted": 1776895683,
         "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Berkeley-MO/Nondestructive-Test--NDT--Technician---UT---RT_JR2026507061-3",
@@ -293611,7 +293611,7 @@
         "company_name": "The Boeing Company",
         "id": "4d2cf913-91ea-4bad-8984-4fef6f106673",
         "title": "Nondestructive Test",
-        "active": true,
+        "active": false,
         "date_updated": 1776896117,
         "date_posted": 1776895695,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Nondestructive-Test--NDT--Technician---UT---RT_JR2026507061",
@@ -300269,7 +300269,7 @@
         "company_name": "ServiceNow",
         "id": "b8c28687-adb0-4451-b464-c8c2d2619ed5",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1777500361,
         "date_posted": 1777500251,
         "url": "https://jobs.smartrecruiters.com/ServiceNow/744000123749209",
@@ -314295,6 +314295,47 @@
             "Cedar Rapids, IA"
         ],
         "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "SpaceX",
+        "id": "338290b2-169c-4c00-b650-320c3455c38e",
+        "title": "Mechanical Engineer New Grad - Starlink",
+        "active": true,
+        "date_updated": 1778538990,
+        "date_posted": 1778537492,
+        "url": "https://boards.greenhouse.io/spacex/jobs/8542046002",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/SpaceX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Silvus Technologies",
+        "id": "8207ed7d-8124-44af-b8db-8e872f9ef27e",
+        "title": "Web Interface Software Engineer",
+        "active": true,
+        "date_updated": 1778538781,
+        "date_posted": 1772236067,
+        "url": "https://job-boards.greenhouse.io/silvus/jobs/5136468008",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Silvus-Tech",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
