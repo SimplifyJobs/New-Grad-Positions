@@ -11677,7 +11677,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>AI Lab Junior Machine Learning Engineer</td>
 <td>Sant Cugat del Vallès, Barcelona, Spain</br>Palo Alto, CA</td>
 <td>🔒</td>
-<td>3mo</td>
+<td>4mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Adobe?utm_source=GHList&utm_medium=company">🔥 Adobe</a></strong></td>
