@@ -111922,7 +111922,7 @@
         "company_name": "Four Seasons",
         "id": "0e3049e8-deea-4462-9eb5-6b9e9abfd22e",
         "title": "Trading Company - Barista - Seasonal",
-        "active": false,
+        "active": true,
         "date_updated": 1767253586,
         "date_posted": 1767253586,
         "url": "https://fourseasons.wd3.myworkdayjobs.com/search/job/Hualalai/Trading-Company---Barista---Seasonal_REQ10363527",
@@ -230647,7 +230647,7 @@
         "company_name": "Amentum",
         "id": "7adfc83a-dcb5-4ae7-a9a4-eea1060cf856",
         "title": "Electronic Technician - Maintenance I",
-        "active": false,
+        "active": true,
         "date_updated": 1773492335,
         "date_posted": 1773492335,
         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-AK-Fairbanks/Electronic-Technician--Maintenance-I_R0151750-1",
@@ -309657,7 +309657,7 @@
         "company_name": "Nutanix",
         "id": "88f447d6-2ade-4d89-86e7-6a6cda73533d",
         "title": "Member of Technical Staff 1 - Flow",
-        "active": true,
+        "active": false,
         "date_updated": 1778106061,
         "date_posted": 1778105272,
         "url": "https://jobs.jobvite.com/nutanix/job/ofs3zfw3?nl=1&nl=1&fr=false",
@@ -314310,7 +314310,7 @@
         "company_name": "Silvus Technologies",
         "id": "8207ed7d-8124-44af-b8db-8e872f9ef27e",
         "title": "Web Interface Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1778538781,
         "date_posted": 1772236067,
         "url": "https://job-boards.greenhouse.io/silvus/jobs/5136468008",
@@ -314460,5 +314460,25 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "2K",
+        "id": "c51f7835-af57-4346-b91e-c161d5233ec1",
+        "title": "Associate Gameplay Engineer",
+        "active": true,
+        "date_updated": 1778566681,
+        "date_posted": 1778566678,
+        "url": "https://job-boards.greenhouse.io/2k/jobs/7724801003",
+        "locations": [
+            "Kirkland, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/2k",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
