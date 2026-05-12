@@ -231929,7 +231929,7 @@
         "company_name": "OakNorth Bank",
         "id": "fe6e2c41-ac87-41e1-8110-6ee911d8d882",
         "title": "Junior Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773670645,
         "date_posted": 1773670645,
         "url": "https://jobs.lever.co/oaknorth.ai/28daf547-064c-4f8f-a69b-17b6a2aab2f5/apply",
@@ -314477,6 +314477,26 @@
             "Cupertino, CA"
         ],
         "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Teledyne",
+        "id": "81499cb7-f95b-4200-9728-2312e384b364",
+        "title": "Electronic Engineer",
+        "active": true,
+        "date_updated": 1778577121,
+        "date_posted": 1778576948,
+        "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/UK---Lincoln/Electronic-Engineer_REQ33975",
+        "locations": [
+            "East Midlands, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/199b3c43-379a-408c-a6a8-980e79183038",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
