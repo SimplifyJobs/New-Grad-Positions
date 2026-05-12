@@ -280355,7 +280355,7 @@
         "company_name": "Applied Materials",
         "id": "91c6469e-874d-43c0-8e4b-3d048400dac0",
         "title": "TPS Engineer - Early In Career",
-        "active": false,
+        "active": true,
         "date_updated": 1776294739,
         "date_posted": 1776290958,
         "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/TPS-Engineer--Early-In-Career-_R2615689",
@@ -305251,7 +305251,7 @@
         "company_name": "Uber",
         "id": "52b4a5cd-723b-4c98-988e-1502023df40a",
         "title": "Graduate PhD Software Engineer 2 - AV Labs",
-        "active": false,
+        "active": true,
         "date_updated": 1777933289,
         "date_posted": 1777932427,
         "url": "https://university-uber.icims.com/jobs/159120/job?mobile=true&needsRedirect=false",
@@ -314336,6 +314336,44 @@
             "LA"
         ],
         "company_url": "https://simplify.jobs/c/Silvus-Tech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "The Boeing Company",
+        "id": "9d8712ed-0084-45d7-817f-0cbe2ea3d979",
+        "title": "Nondestructive Test Technician - Nondestructive Testing - Ultrasonic Testing & Radiographic Testing",
+        "active": true,
+        "date_updated": 1778548300,
+        "date_posted": 1778548103,
+        "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Berkeley-MO/Nondestructive-Test--NDT--Technician---UT---RT_JR2026508418-2",
+        "locations": [
+            "Hazelwood, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "University of Southern California",
+        "id": "e0e18b5a-8310-42ca-b48b-71045d24f8ea",
+        "title": "Investment Analyst",
+        "active": true,
+        "date_updated": 1778547781,
+        "date_posted": 1778547686,
+        "url": "https://usc.wd5.myworkdayjobs.com/ExternalUSCCareers/job/FXP-Fox-Plaza/Investment-Analyst_REQ20174944",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Southern-California",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
