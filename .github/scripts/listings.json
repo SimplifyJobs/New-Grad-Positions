@@ -83375,24 +83375,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "xAI",
-        "id": "b5e21310-b7f6-4c5c-b3a9-765143788139",
-        "title": "Multilingual Tutor",
-        "active": false,
-        "date_updated": 1764722349,
-        "date_posted": 1757813658,
-        "url": "https://job-boards.greenhouse.io/xai/jobs/4879853007",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/XAI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Chewy",
         "id": "ad803e25-9423-4f7f-9bdb-76fd76d16bc1",
@@ -255939,7 +255921,7 @@
         "company_name": "Mattel",
         "id": "51651f7f-ecc9-4a4e-a049-94b1403024e3",
         "title": "Model Shop Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1774987381,
         "date_posted": 1774919042,
         "url": "https://jobs.smartrecruiters.com/MattelInc/744000117760418",
@@ -302578,7 +302560,7 @@
         "company_name": "Merck",
         "id": "0aef48ef-7b40-43d9-8e95-96097924061a",
         "title": "Data Science Specialist - Digital Operations and Innovation",
-        "active": true,
+        "active": false,
         "date_updated": 1777621172,
         "date_posted": 1777327530,
         "url": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---West-Point/Specialist--Data-Science--Digital-Operations-and-Innovation_R394000-1",
@@ -314379,5 +314361,104 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Axon",
+        "id": "39730f47-92a5-411a-be70-03ec146c8e43",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1778548928,
+        "date_posted": 1778548712,
+        "url": "https://job-boards.greenhouse.io/axon/jobs/7624168003",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Axon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Scopely",
+        "id": "f1f1ea39-1908-4a61-9c37-318750756337",
+        "title": "Full Stack Engineer",
+        "active": true,
+        "date_updated": 1778550121,
+        "date_posted": 1778548906,
+        "url": "https://job-boards.greenhouse.io/scopely/jobs/5105580008",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Scopely",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Motorola",
+        "id": "8ba6bc9b-2c53-416d-85f6-024aef3ddf0d",
+        "title": "Embedded Software Engineer - Digital Signal Processing",
+        "active": true,
+        "date_updated": 1778547961,
+        "date_posted": 1778547915,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Embedded-Software-Engineer--DSP-_R62559",
+        "locations": [
+            "Hoffman Estates, IL",
+            "Plantation, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "NVIDIA",
+        "id": "76d1071c-8da4-43c1-8ea3-64c0ce8311fd",
+        "title": "Systems Software Engineer New Grad",
+        "active": true,
+        "date_updated": 1778548460,
+        "date_posted": 1778548125,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-OR-Hillsboro/Systems-Software-Engineer---New-College-Grad-2026_JR2017083",
+        "locations": [
+            "Hillsboro, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "The Boeing Company",
+        "id": "35debc46-1934-45a6-8287-db47b4e803ca",
+        "title": "Nondestructive Test Technician - Nondestructive Testing - Ultrasonic Testing & Radiographic Testing",
+        "active": true,
+        "date_updated": 1778548308,
+        "date_posted": 1778548108,
+        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Nondestructive-Test--NDT--Technician---UT---RT_JR2026508418",
+        "locations": [
+            "Hazelwood, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
