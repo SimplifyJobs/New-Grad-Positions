@@ -5,9 +5,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/New-Grad-Positions/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
 ---
-### Browse 310 New Grad Roles by Category
+### Browse 309 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (194)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (193)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (5)
 
@@ -612,13 +612,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>27d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/TD-Bank?utm_source=GHList&utm_medium=company">TD Bank</a></strong></td>
-<td>Software Engineer 1</td>
-<td>Toronto, ON, Canada</td>
-<td><div align="center"><a href="https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-I--Java--JEE--Spring--Spring-Boot-_R_1480966?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/00c909d8-8250-4e5e-9b0c-276febfe7e26?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>28d</td>
-</tr>
-<tr>
 <td><strong>Realm</strong></td>
 <td>Software Engineer - New Grad 🇺🇸</td>
 <td>Remote in US</td>
@@ -745,7 +738,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>1mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/General-Dynamics-Mission-Systems?utm_source=GHList&utm_medium=company">General Dynamics Mission Systems</a></strong></td>
 <td>Software Engineer – Entry Level 🇺🇸</td>
 <td>Scottsdale, AZ</td>
 <td><a href="https://careers-gdms.icims.com/jobs/71627/software-engineer-%E2%80%93-entry-level/job?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
@@ -1442,7 +1435,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (1238)</summary>
+<summary>🗃️ Inactive roles (1239)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -1677,7 +1670,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Engineer 1</td>
 <td>Fulton, MD</td>
 <td>🔒</td>
-<td>14d</td>
+<td>15d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Picogrid?utm_source=GHList&utm_medium=company">Picogrid</a></strong></td>
@@ -2033,6 +2026,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>↳</td>
 <td>Software Engineer 1 - Backend</td>
 <td>Illinois</td>
+<td>🔒</td>
+<td>28d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/TD-Bank?utm_source=GHList&utm_medium=company">TD Bank</a></strong></td>
+<td>Software Engineer 1</td>
+<td>Toronto, ON, Canada</td>
 <td>🔒</td>
 <td>28d</td>
 </tr>
@@ -15297,7 +15297,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>7mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
 <td>Software Engineer 1 - Radar Product Line Team</td>
 <td>Marlborough, MA</td>
 <td>🔒</td>
