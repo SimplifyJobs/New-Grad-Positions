@@ -285746,7 +285746,7 @@
         "company_name": "Intel",
         "id": "6a9037a8-cfc4-43f5-841f-202346e3bfb4",
         "title": "Image Processing Engineer - C++/Linux",
-        "active": true,
+        "active": false,
         "date_updated": 1776474773,
         "date_posted": 1776474487,
         "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Santa-Clara/Image-Processing-Engineer--C---Linux-_JR0282835",
@@ -287828,7 +287828,7 @@
         "company_name": "Raymond James Financial",
         "id": "cceea126-25da-4c54-8ecd-b14f8748eef1",
         "title": "Technical Business Systems Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1776522241,
         "date_posted": 1776522124,
         "url": "https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Pittsburgh-Pennsylvania---United-States/Technical-Business-Systems-Analyst_R-0008329",
@@ -311256,7 +311256,7 @@
         "company_name": "EDFT",
         "id": "650e0135-bc0b-4175-8651-fd6bcc27bee5",
         "title": "Graduate Quantitative Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1778193361,
         "date_posted": 1778191750,
         "url": "https://edftrading.wd1.myworkdayjobs.com/en-US/EDFTrading/job/London/Graduate-Quantitative-Analyst_JR1001390-1",
@@ -314502,5 +314502,32 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "WSP",
+        "id": "ad2f6601-e00d-4396-86e1-3fdd382a04e5",
+        "title": "Transport Modeller / Assistant Transport Modeller",
+        "active": true,
+        "date_updated": 1778576762,
+        "date_posted": 1778576737,
+        "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/86789",
+        "locations": [
+            "London, UK",
+            "Basingstoke, UK",
+            "Guildford, UK",
+            "Cardiff, UK",
+            "Leeds, UK",
+            "Cambridge, UK",
+            "Birmingham, UK",
+            "Exeter, UK",
+            "Bath, UK",
+            "Manchester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/WSP",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
