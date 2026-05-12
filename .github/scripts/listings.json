@@ -307206,7 +307206,7 @@
         "company_name": "Microsoft",
         "id": "66a3db04-2eb0-432b-bd6c-63a90f97c37e",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1778030110,
         "date_posted": 1778029655,
         "url": "https://apply.careers.microsoft.com/careers/job/1970393556862452",
@@ -314457,6 +314457,26 @@
             "Kirkland, WA"
         ],
         "company_url": "https://simplify.jobs/c/2k",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "24b89bfa-33da-45cb-ac7e-8a68fe85d2bc",
+        "title": "ASIC Design Engineer - Pixel Ip DMA",
+        "active": true,
+        "date_updated": 1778576762,
+        "date_posted": 1778576744,
+        "url": "https://jobs.apple.com/en-us/details/200660772",
+        "locations": [
+            "Cupertino, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
