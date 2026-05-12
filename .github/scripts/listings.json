@@ -282489,7 +282489,7 @@
         "company_name": "Draper",
         "id": "bb311c30-3145-4791-9769-fb1c423aaf10",
         "title": "Early Career Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1776348361,
         "date_posted": 1776348289,
         "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Early-Career-Engineer--Draper-Capstone-Cohort--2025-2026-_JR002440-1",
@@ -302060,7 +302060,7 @@
         "company_name": "RTX",
         "id": "653a1d0e-b434-431a-8f3d-c0e4c41cbfb5",
         "title": "Software Engineer 1 - Space and Radio Frequency Sensors",
-        "active": false,
+        "active": true,
         "date_updated": 1777587972,
         "date_posted": 1777587046,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/XMLNAME-2026-Raytheon-Full-Time--Software-Engineer-I---Space-and-RF-Sensors--Onsite-_01842399",
@@ -306018,7 +306018,7 @@
         "company_name": "RTX",
         "id": "4130f209-6d36-45a3-9941-7171f491b058",
         "title": "Software Data Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1777990576,
         "date_posted": 1777990184,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-REMOTE/XMLNAME-2026-Raytheon-Full-Time--Software-Data-Engineer-I--Remote-_01842571",
@@ -312483,7 +312483,7 @@
         "company_name": "Capco",
         "id": "c4231164-782c-455b-ab1e-d9adeceeb902",
         "title": "Junior AI Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1778279041,
         "date_posted": 1778278283,
         "url": "https://job-boards.greenhouse.io/capco/jobs/7908493",
@@ -314544,6 +314544,92 @@
             "California"
         ],
         "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "361e7871-844b-47ca-aca3-4a6f0bde8dec",
+        "title": "Digital Hardware Engineer 1",
+        "active": true,
+        "date_updated": 1778595621,
+        "date_posted": 1778594963,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-315--315-Bob-Heath-Dr--BOB-HEATH/Digital-Hardware-Engineer-I_01841999-1",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "NiSource",
+        "id": "0a13e314-5d09-4444-8b64-1a63a6df234a",
+        "title": "GIS Technician 1",
+        "active": true,
+        "date_updated": 1778594941,
+        "date_posted": 1778594917,
+        "url": "https://nisource.wd1.myworkdayjobs.com/NiSource/job/Chester-VA-Op-Ctr/GIS-Technician-1_R00942388-1",
+        "locations": [
+            "Lexington, KY",
+            "Monaca, PA",
+            "Petersburg, VA",
+            "Columbus, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/NiSource",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Ohio State University",
+        "id": "0108f4eb-98f0-43dc-a867-ca221acdd6c5",
+        "title": "Research Technician",
+        "active": true,
+        "date_updated": 1778594761,
+        "date_posted": 1778594674,
+        "url": "https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Columbus-Campus/Research-Technician_R150916-1",
+        "locations": [
+            "Columbus, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Ohio-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Argo Group",
+        "id": "4a5f2c9c-9296-413c-9fa3-6de984785fd6",
+        "title": "Product Management Analyst",
+        "active": true,
+        "date_updated": 1778594941,
+        "date_posted": 1776522667,
+        "url": "https://brookfield.wd5.myworkdayjobs.com/bpandc/job/US-NE---Omaha/Senior-Product-Management-Analyst_R2047338",
+        "locations": [
+            "Chicago, IL",
+            "Albany, NY",
+            "Omaha, NE"
+        ],
+        "company_url": "https://simplify.jobs/c/Argo-Group",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
