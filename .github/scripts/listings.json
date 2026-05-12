@@ -167937,7 +167937,7 @@
         "company_name": "Oracle",
         "id": "c727ca0c-ef41-45f2-ac09-f9515644e1fb",
         "title": "Software Developer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1770419286,
         "date_posted": 1770419286,
         "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/325788",
@@ -171412,7 +171412,7 @@
         "company_name": "Deutsche Bank",
         "id": "ed2b1a96-cf2e-4cbb-847f-31c3943c6ec2",
         "title": "Product Management Specialist - Client Solutions Latam",
-        "active": true,
+        "active": false,
         "date_updated": 1770689596,
         "date_posted": 1770689596,
         "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/New-York-1-Columbus-Circle/Product-Management-Specialist---Client-Solutions-LatAM_R0422458",
@@ -189310,7 +189310,7 @@
         "company_name": "GlobalFoundries",
         "id": "08e95179-4f48-4db4-84bd-c1510f1905af",
         "title": "AI Enablement Strategist \u2013 New College Graduate",
-        "active": true,
+        "active": false,
         "date_updated": 1771588742,
         "date_posted": 1769867704,
         "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/Austin/AI-Enablement-Strategist_JR-2600122",
@@ -217848,7 +217848,7 @@
         "company_name": "Amentum",
         "id": "a337f558-2610-40d1-81a0-6477117c3c49",
         "title": "Computer Scientist/Mathematician",
-        "active": true,
+        "active": false,
         "date_updated": 1772840600,
         "date_posted": 1772840600,
         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Computer-Scientist-Mathematician_R0155913-1",
@@ -304347,7 +304347,7 @@
         "company_name": "CAE",
         "id": "6eedcd07-1c13-465b-9d99-70142db251ed",
         "title": "Field Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1777714562,
         "date_posted": 1777714506,
         "url": "https://cae.wd3.myworkdayjobs.com/career/job/Arlington-TX/Field-Engineer_120885-1",
@@ -309497,7 +309497,7 @@
         "company_name": "Booz Allen",
         "id": "e4f02e52-8106-4c3a-8129-7a98cda4c05d",
         "title": "Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1778105521,
         "date_posted": 1778105452,
         "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Beavercreek-OH/Data-Analyst_R0237162",
@@ -310506,7 +310506,7 @@
         "company_name": "General Dynamics Information Technology",
         "id": "ca67e38a-db72-4b7a-8984-8dca2c60cf77",
         "title": "Software & Development Clearance Sponsorship Opportunity",
-        "active": true,
+        "active": false,
         "date_updated": 1778163881,
         "date_posted": 1778162763,
         "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-McLean/Software---Development-Clearance-Sponsorship-Opportunity_RQ219408-1",
@@ -313799,7 +313799,7 @@
         "company_name": "MSIG USA ",
         "id": "8b716976-627c-4a5e-9dca-1fcefe278c2c",
         "title": "Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1778538629,
         "date_posted": 1778537055,
         "url": "https://msigna.wd5.myworkdayjobs.com/gbl/job/NJ-Warren/Data-Analyst_JR-000855",
@@ -314630,6 +314630,147 @@
             "Omaha, NE"
         ],
         "company_url": "https://simplify.jobs/c/Argo-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "CoStar Group",
+        "id": "d4f6f6bc-3852-4c6c-9944-6136eaffc260",
+        "title": "Product Manager - Content Platforms",
+        "active": true,
+        "date_updated": 1778595055,
+        "date_posted": 1778594751,
+        "url": "https://costar.wd1.myworkdayjobs.com/en-US/CoStarCareers/job/US-VA-Richmond/Product-Manager--Content-Platforms_R38907",
+        "locations": [
+            "Richmond, VA",
+            "Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/CoStar",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Olo",
+        "id": "30ac880d-abfd-448f-ab44-d40bb7bd1aec",
+        "title": "Associate Software Engineer - Engage",
+        "active": true,
+        "date_updated": 1778594941,
+        "date_posted": 1778594865,
+        "url": "https://jobs.lever.co/olo/cf24b481-6c24-40f7-9737-224d5d2ba0ca/apply",
+        "locations": [
+            "Belfast, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Olo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "9b26843b-c5c6-4ba8-b24d-0ca43fd2de5f",
+        "title": "Associate Software Engineer / Software Engineer",
+        "active": true,
+        "date_updated": 1778595317,
+        "date_posted": 1778594861,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2026-Associate-Software-Engineer---2026-Software-Engineer---Roy-UT_R10232594",
+        "locations": [
+            "Hill AFB, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Treeswift",
+        "id": "ff014d52-d567-48b2-be17-eb0cbb773d87",
+        "title": "Hardware Technician",
+        "active": true,
+        "date_updated": 1778594941,
+        "date_posted": 1778594889,
+        "url": "https://jobs.ashbyhq.com/treeswift/caf13558-a4f8-48cf-8823-94965fcc5e01/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Treeswift",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Ohio State University",
+        "id": "f13e5dad-dffc-459a-b9e7-4b56576235d4",
+        "title": "Research Technician",
+        "active": true,
+        "date_updated": 1778594761,
+        "date_posted": 1778594674,
+        "url": "https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Columbus-Campus/Research-Technician_R150918-1",
+        "locations": [
+            "Columbus, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Ohio-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Leidos",
+        "id": "cf0ad3ea-ccd1-485b-8155-ec66a6e4a8a4",
+        "title": "Electronics Technician 1",
+        "active": true,
+        "date_updated": 1778595470,
+        "date_posted": 1778594798,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Chesapeake-VA/Electronics-Technician-1_R-00183035",
+        "locations": [
+            "Chesapeake, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "RTX",
+        "id": "13ddc3eb-eb9b-410f-ab7f-9a8744ad8eca",
+        "title": "Software Data Engineer 1",
+        "active": true,
+        "date_updated": 1778595652,
+        "date_posted": 1778594965,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/XMLNAME-2026-Raytheon-Full-Time--Software-Data-Engineer-I--Onsite-_01844461",
+        "locations": [
+            "Indianapolis, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
