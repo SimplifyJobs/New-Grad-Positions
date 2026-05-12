@@ -234088,7 +234088,7 @@
         "company_name": "NextEra Energy",
         "id": "c4a6b378-a558-483a-b124-b5a291a9671f",
         "title": "Associate Data Scientist",
-        "active": false,
+        "active": true,
         "date_updated": 1773786393,
         "date_posted": 1773786393,
         "url": "https://jobs.nexteraenergy.com/job/Miami-Associate-Data-Scientist-FL-33134/1374218100/?ats=successfactors",
@@ -304689,7 +304689,7 @@
         "company_name": "SOCOTEC Global",
         "id": "23f03407-c56c-4d56-a091-ac0717e7ec6b",
         "title": "Applied AI Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1777903921,
         "date_posted": 1777903553,
         "url": "https://jobs.smartrecruiters.com/Socotec/744000124433581",
@@ -314529,5 +314529,25 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "3a24d292-8b32-45b5-9a05-a82e2336cdda",
+        "title": "Analog Mixed Signal IP Post Silicon Validation",
+        "active": true,
+        "date_updated": 1778576941,
+        "date_posted": 1778576762,
+        "url": "https://jobs.apple.com/en-us/details/200662038",
+        "locations": [
+            "California"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
