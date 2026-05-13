@@ -2,26 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Altice USA",
-        "id": "db772bb7-f8f1-4514-8bc8-ad2dcabaf6ac",
-        "title": "Software Dev Engineer I",
-        "active": false,
-        "date_updated": 1757977985,
-        "date_posted": 1757977985,
-        "url": "https://www.alticeusacareers.com/job/Bethpage-Software-Dev-Engineer-I-NY-11714/1326245900/?ats=successfactors",
-        "locations": [
-            "Plainview, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Altice-USA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Jerry",
         "id": "c42d7027-6ae4-4081-9548-2761ee619688",
         "title": "Software Engineer I",
@@ -1494,24 +1474,6 @@
             "Bachelor's",
             "Master's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Altice USA",
-        "id": "f73dc6c7-6409-43a0-8989-af2d1393111e",
-        "title": "Software Developer Engineer 1 - Front-End UI Development",
-        "active": false,
-        "date_updated": 1761845368,
-        "date_posted": 1757977983,
-        "url": "https://www.alticeusacareers.com/job/Bethpage-Software-Dev-Engineer-I-NY-11714/1326213300/?ats=successfactors",
-        "locations": [
-            "Plainview, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Altice-USA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -51626,42 +51588,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "American Axle & Manufacturing",
-        "id": "ce9ef9dd-b7ab-4e86-8163-2425936eda7a",
-        "title": "Quality Tech",
-        "active": false,
-        "date_updated": 1761862488,
-        "date_posted": 1757978519,
-        "url": "https://aampower.wd1.myworkdayjobs.com/aam-career-site/job/Warren-MI/Quality-Tech_JREQ-218353",
-        "locations": [
-            "Warren, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/American-Axle-And-Manufacturing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Intercontinental Exchange",
-        "id": "e616b2a5-262a-4699-8911-7a97eb8e19de",
-        "title": "Cross Asset Market Data Analyst",
-        "active": false,
-        "date_updated": 1763123132,
-        "date_posted": 1757978051,
-        "url": "https://careers-ice.icims.com/jobs/11312/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Bedford, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/ICEMarkets",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Netsmart",
         "id": "3d6e20fe-78dd-4c6f-9dae-eae23ee08ce1",
@@ -66490,7 +66416,7 @@
         "company_name": "Cisco",
         "id": "d429909a-8374-4fde-afa9-c1fb684e2b9d",
         "title": "Software Engineer 2 - Full Stack and Application Development",
-        "active": false,
+        "active": true,
         "date_updated": 1763664387,
         "date_posted": 1763664387,
         "url": "https://careers.cisco.com/global/en/job/2000127",
@@ -147400,7 +147326,7 @@
         "company_name": "Caterpillar Inc.",
         "id": "4a24eb66-a01d-46ba-b042-a5a59ced6b74",
         "title": "Data Scientist / Technical Analyst - Data Scientist/Technical Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1769470767,
         "date_posted": 1769470767,
         "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chicago-Illinois/Cat-Digital-Cat-Technology---Data-Scientist-Technical-Analyst_R0000346431",
@@ -248863,7 +248789,7 @@
         "company_name": "Crowdstrike",
         "id": "6f80ce1a-9e1e-4c38-9070-759d590add0e",
         "title": "Engineer 1 - Front End - Data Visualization",
-        "active": false,
+        "active": true,
         "date_updated": 1774573524,
         "date_posted": 1774571629,
         "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/Canada---Toronto/Engineer-II---Front-End--Remote--CAN-_R26171",
@@ -267290,7 +267216,7 @@
         "company_name": "NV5 Global",
         "id": "96134772-a30d-43ec-812c-5fb6d01b6fe7",
         "title": "GIS Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1775601181,
         "date_posted": 1775599608,
         "url": "https://careers-nv5.icims.com/jobs/12001/job?mobile=true&needsRedirect=false",
@@ -280891,7 +280817,7 @@
         "company_name": "iSpot.tv",
         "id": "b49aa1f9-a956-43fa-b765-7ba0c39f6210",
         "title": "Software Development Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1776295449,
         "date_posted": 1776291762,
         "url": "https://job-boards.greenhouse.io/ispottv/jobs/4684929005",
@@ -284629,7 +284555,7 @@
         "company_name": "Arthur Grand Technologies",
         "id": "f75f0ef0-4976-4878-ac6d-176ddeea0c1c",
         "title": "Syteline ERP Support",
-        "active": true,
+        "active": false,
         "date_updated": 1776463381,
         "date_posted": 1776463360,
         "url": "https://jobs.smartrecruiters.com/ArthurGrandTechnologiesInc/744000121473057",
@@ -296814,7 +296740,7 @@
         "company_name": "General Dynamics Information Technology",
         "id": "23bf381e-4c11-4dee-8207-b78c0b8d6085",
         "title": "Data Engineer-Junior",
-        "active": true,
+        "active": false,
         "date_updated": 1777270141,
         "date_posted": 1777270132,
         "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-HI-Camp-Smith/Data-Engineer-Junior_RQ218784-1",
@@ -314810,6 +314736,26 @@
             "Waltham, MA"
         ],
         "company_url": "https://simplify.jobs/c/Boston-Scientific",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "General Dynamics Information Technology",
+        "id": "d6e9f6c2-10cf-4956-b31a-691751389066",
+        "title": "Modeling & Simulation Specialist Associate",
+        "active": true,
+        "date_updated": 1778707801,
+        "date_posted": 1778320373,
+        "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-IN-Crane/Modeling---Simulation-Specialist-Associate_RQ219118-1",
+        "locations": [
+            "Bedford, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/GDIT",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
