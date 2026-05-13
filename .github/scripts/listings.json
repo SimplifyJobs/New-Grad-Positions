@@ -314607,5 +314607,24 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "date_updated": 1778678561,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://ralliant.eightfold.ai/careers/job/1133912499916?domain=ralliant.com",
+        "company_name": "Tektronix",
+        "title": "Software Security Engineer (Entry-Level)",
+        "locations": [
+            "Beaverton, OR",
+            "Solon, OH"
+        ],
+        "category": "Software Engineering",
+        "source": "audreyau",
+        "id": "b7079a2f-5411-472b-8da1-29fbd3cab385",
+        "date_posted": 1778678561,
+        "company_url": "",
+        "is_visible": true
     }
 ]
