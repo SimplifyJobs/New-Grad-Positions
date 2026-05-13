@@ -51700,24 +51700,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "Mohawk",
-        "id": "42edfae0-b798-4213-9e3b-f697888f0b0a",
-        "title": "Product Management Associate - Aspire Ldp",
-        "active": false,
-        "date_updated": 1757975024,
-        "date_posted": 1757975024,
-        "url": "https://careers.mohawkind.com/job/Product-Management-Associate-ASPIRE-LDP-Geor/1326218500/?ats=successfactors",
-        "locations": [
-            "Georgia"
-        ],
-        "company_url": "https://simplify.jobs/c/Mohawk",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Netsmart",
         "id": "3d6e20fe-78dd-4c6f-9dae-eae23ee08ce1",
@@ -233901,7 +233883,7 @@
         "company_name": "NextEra Energy",
         "id": "c4a6b378-a558-483a-b124-b5a291a9671f",
         "title": "Associate Data Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1773786393,
         "date_posted": 1773786393,
         "url": "https://jobs.nexteraenergy.com/job/Miami-Associate-Data-Scientist-FL-33134/1374218100/?ats=successfactors",
@@ -264061,7 +264043,7 @@
         "company_name": "Schweitzer Engineering Laboratories",
         "id": "379da727-9a92-482a-bd2a-639f066f8cc5",
         "title": "Embedded Systems Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1775297521,
         "date_posted": 1775297512,
         "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/FPGA-Design-Engineer_2025-18317",
@@ -281146,7 +281128,7 @@
         "company_name": "Metropolitan Transportation Authority",
         "id": "7b6614e9-0ec7-41c0-9dc0-9f92ff932678",
         "title": "Computer Associate - Software - Levels 1",
-        "active": false,
+        "active": true,
         "date_updated": 1776295449,
         "date_posted": 1776291022,
         "url": "https://jobs.jobvite.com/metropolitantransportationauthority/job/oxQTzfwz?nl=1&nl=1&fr=false",
@@ -283147,7 +283129,7 @@
         "company_name": "NinjaOne",
         "id": "588fc76b-7c66-4f29-9a3f-7e727d9b1566",
         "title": "Marketing Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1776378241,
         "date_posted": 1776377474,
         "url": "https://jobs.jobvite.com/ninjaone/job/oTzMzfwx?nl=1&nl=1&fr=false",
@@ -303200,7 +303182,7 @@
         "company_name": "GE Aerospace",
         "id": "9df6038d-c901-459f-8ebf-f7c5ff74f9cb",
         "title": "Instrumentation & Testing Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1777674044,
         "date_posted": 1777673246,
         "url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Bromont/Technicienne-Instrumentation---Essais_R5033363-1",
@@ -314708,6 +314690,168 @@
         "degrees": [
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Omni Design Technologies",
+        "id": "54c15acd-a4f6-421e-834e-6e950ea65035",
+        "title": "Lab Technician",
+        "active": true,
+        "date_updated": 1778709962,
+        "date_posted": 1778709952,
+        "url": "https://jobs.lever.co/omnidesigntech/b6914c2b-2e94-49a6-a82d-928354e95c52/apply",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Omni-Design-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Ameren",
+        "id": "525ef07a-7783-4422-9c52-ec97e51183af",
+        "title": "Engineering Representative",
+        "active": true,
+        "date_updated": 1778710353,
+        "date_posted": 1778709951,
+        "url": "https://ameren.wd1.myworkdayjobs.com/External/job/Collinsville-IL/Engineering-Rep-Step-1_033264",
+        "locations": [
+            "Collinsville, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Ameren",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Cadence Design Systems",
+        "id": "7f47bdc8-4042-4433-aa6b-32df8f808503",
+        "title": "Design Engineer 1",
+        "active": true,
+        "date_updated": 1778709908,
+        "date_posted": 1778681162,
+        "url": "https://cadence.wd1.myworkdayjobs.com/University_CST/job/SAN-JOSE/Design-Engineer-I_R54745",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northrop Grumman",
+        "id": "5508b897-c343-4dae-bff2-d14c4f29610a",
+        "title": "Principal Manufacturing Engineer",
+        "active": true,
+        "date_updated": 1778710218,
+        "date_posted": 1778681194,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Clearfield/Engineer-Principal-Engineer-Manufacturing-Level-2-3_R10232130",
+        "locations": [
+            "Hill AFB, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Hello Fresh",
+        "id": "07cd1bff-8de8-4ecb-9d0c-4759f4a9010f",
+        "title": "Recipe Developer",
+        "active": true,
+        "date_updated": 1778709781,
+        "date_posted": 1778681332,
+        "url": "https://careers.hellofresh.com/global/en/job/7870714?gh_jid=7870714",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Hello-Fresh",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "The Toro Company",
+        "id": "6fd37a04-1498-4e4a-9f1d-802d839c3a11",
+        "title": "Product Associate/Product Manager 1 - Golf and Grounds Equipment - The Toro Company",
+        "active": true,
+        "date_updated": 1778709535,
+        "date_posted": 1778634333,
+        "url": "https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/Product-Associate-Product-Manager-I---Golf-and-Grounds-Equipment---The-Toro-Company_JR16116",
+        "locations": [
+            "Bloomington, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Toro-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "MBA"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Lithia Motors",
+        "id": "c0d3ce32-153d-481e-8ae0-0f66b8bff243",
+        "title": "IT Business Systems Analyst",
+        "active": true,
+        "date_updated": 1778706901,
+        "date_posted": 1778319762,
+        "url": "https://lithia.wd5.myworkdayjobs.com/LithiaCareers/job/Driveway-Finance-Corporation-Tigard-OR-97223/DFC-IT-Business-Systems-Analyst_R104248",
+        "locations": [
+            "Medford, OR",
+            "Tualatin, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Lithia-Motors",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Boston Scientific",
+        "id": "a1544892-4b8f-476c-9e5a-8cc674c24bc3",
+        "title": "Software Development - 1 - Engineering",
+        "active": true,
+        "date_updated": 1761833023,
+        "date_posted": 1761833023,
+        "url": "https://bostonscientific.eightfold.ai/careers/job/563602808591541",
+        "locations": [
+            "Waltham, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Boston-Scientific",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
