@@ -1,24 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Sigma Computing",
-        "id": "3bdc08a6-567f-4f30-97f0-01943c42a7e9",
-        "title": "Software Engineer \u2013 New Grad Program",
-        "active": false,
-        "date_updated": 1760818378,
-        "date_posted": 1757919076,
-        "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7313083003",
-        "locations": [
-            "SF",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Sigma-Computing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
         "date_updated": 1762779347,
         "sponsorship": "Offers Sponsorship",
         "active": false,
@@ -56391,24 +56372,6 @@
             "Trowbridge, UK"
         ],
         "company_url": "https://simplify.jobs/c/Wiltshire-Farm-Foods",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Lynker",
-        "id": "c861e26b-61c1-4664-8a6e-06b18f42ed35",
-        "title": "Drafter 1",
-        "active": false,
-        "date_updated": 1763161715,
-        "date_posted": 1757918147,
-        "url": "https://careers-lynker.icims.com/jobs/1466/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "John C. Stennis Space Center, MS"
-        ],
-        "company_url": "https://simplify.jobs/c/Lynker",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
