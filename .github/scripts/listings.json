@@ -1,42 +1,5 @@
 [
     {
-        "date_updated": 1762779347,
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "degrees": [],
-        "url": "https://boards.greenhouse.io/embed/job_app?for=blackedgecapital&token=4600444005",
-        "company_name": "BlackEdge Capital",
-        "title": "Quantitative Researcher",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "category": "Quantitative Finance",
-        "source": "AlmondCroffle",
-        "id": "fbeff231-a402-4d57-b41f-7f3c44a909de",
-        "date_posted": 1757927576,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1761554457,
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "degrees": [],
-        "url": "https://careers.garmin.com/jobs/16774",
-        "company_name": "Garmin",
-        "title": "Software Engineer 1 - Aviation Web Development",
-        "locations": [
-            "Chandler, AZ",
-            "Olathe, KS"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "87ec1c38-6307-41df-980e-5fdd9209acf6",
-        "date_posted": 1757928459,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "date_updated": 1758836149,
         "sponsorship": "Offers Sponsorship",
         "active": true,
@@ -235459,7 +235422,7 @@
         "company_name": "Arthur Grand Technologies",
         "id": "c5e96a2e-51ca-43d8-aa10-231b3cdc5e3f",
         "title": "ERP Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773871479,
         "date_posted": 1773871479,
         "url": "https://jobs.smartrecruiters.com/ArthurGrandTechnologiesInc/744000115491098",
@@ -284796,7 +284759,7 @@
         "company_name": "Arthur Grand Technologies",
         "id": "f75f0ef0-4976-4878-ac6d-176ddeea0c1c",
         "title": "Syteline ERP Support",
-        "active": true,
+        "active": false,
         "date_updated": 1776463381,
         "date_posted": 1776463360,
         "url": "https://jobs.smartrecruiters.com/ArthurGrandTechnologiesInc/744000121473057",
