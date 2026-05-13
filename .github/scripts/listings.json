@@ -18628,7 +18628,7 @@
         "company_name": "AVEVA",
         "id": "a9a1fad6-89a7-4e1a-8a70-8a407375f852",
         "title": "Artificial Intelligence and Machine Learning Graduate",
-        "active": false,
+        "active": true,
         "date_updated": 1762992436,
         "date_posted": 1762992436,
         "url": "https://aveva.wd3.myworkdayjobs.com/en-US/AVEVA_careers/job/Cambridge-United-Kingdom/Artificial-Intelligence-and-Machine-Learning-Graduate_R011706",
@@ -22579,7 +22579,7 @@
         "company_name": "JP Morgan Chase",
         "id": "e84fb9c2-001a-4f38-9432-4789df8163a5",
         "title": "Algorithmic Execution Automated Trading Strategist - Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1762908729,
         "date_posted": 1762627032,
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210684444",
@@ -51659,44 +51659,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Hearst",
-        "id": "c6ebfa59-def3-4239-9e67-79df3b7a13f6",
-        "title": "Part-Time Operations Technician",
-        "active": false,
-        "date_updated": 1757976295,
-        "date_posted": 1757976295,
-        "url": "https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2025060",
-        "locations": [
-            "Cincinnati, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Hearst",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Centene",
-        "id": "05fed481-f299-4817-ba5b-cc2989cefca0",
-        "title": "Application Development Engineer I",
-        "active": true,
-        "date_updated": 1757975671,
-        "date_posted": 1757975671,
-        "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Application-Development-Engineer-I_1592119-1",
-        "locations": [
-            "Missouri"
-        ],
-        "company_url": "https://simplify.jobs/c/Centene",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
@@ -280967,7 +280929,7 @@
         "company_name": "iSpot.tv",
         "id": "720787d5-8769-47c3-baf2-f101d9bbdec9",
         "title": "Software Development Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1776295449,
         "date_posted": 1776291762,
         "url": "https://job-boards.greenhouse.io/ispottv/jobs/4685254005",
