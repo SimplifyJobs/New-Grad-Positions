@@ -1498,24 +1498,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Boston Scientific",
-        "id": "a1544892-4b8f-476c-9e5a-8cc674c24bc3",
-        "title": "Software Development Engineer 1 - Engineering - Development",
-        "active": true,
-        "date_updated": 1772431282,
-        "date_posted": 1757972597,
-        "url": "https://bostonscientific.eightfold.ai/careers/job/563602808591541",
-        "locations": [
-            "Cambridge, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Boston-Scientific",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Altice USA",
         "id": "f73dc6c7-6409-43a0-8989-af2d1393111e",
         "title": "Software Developer Engineer 1 - Front-End UI Development",
@@ -252827,7 +252809,7 @@
         "company_name": "General Dynamics Information Technology",
         "id": "3a08f716-7f74-40a5-b443-8361e44ee8e0",
         "title": "Capabilities Development Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1774909621,
         "date_posted": 1774908335,
         "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Hanover/Capabilities-Development-Engineer_RQ217525",
@@ -289565,7 +289547,7 @@
         "company_name": "Q2",
         "id": "0415d6b1-e379-4e3f-b251-1167c86829b6",
         "title": "Intermediate Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1776725101,
         "date_posted": 1776723642,
         "url": "https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-TX/Intermediate-Software-Engineer_REQ-12361-1",
@@ -290373,7 +290355,7 @@
         "company_name": "The Boeing Company",
         "id": "c806709b-2da0-4f47-905d-f2a017c35384",
         "title": "Spacecraft Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1776763371,
         "date_posted": 1776763260,
         "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---El-Segundo-CA/Spacecraft-Software-Engineer--Associate-or-Mid-Level---Millennium-Space-Systems_JR2026504289",
@@ -314626,5 +314608,106 @@
         "date_posted": 1778678561,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northrop Grumman",
+        "id": "fccb0266-d1bb-45fa-af7a-9e4566ecf2cc",
+        "title": "Electronics Engineer",
+        "active": true,
+        "date_updated": 1778709146,
+        "date_posted": 1778623762,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Sykesville/Engineer-Electronics_R10232605",
+        "locations": [
+            "Reisterstown, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "58bd8acd-032d-474d-885b-bb9515f84f5b",
+        "title": "Radiographic Inspector Level 2",
+        "active": true,
+        "date_updated": 1778709050,
+        "date_posted": 1778623709,
+        "url": "https://jobs.l3harris.com/job/Canoga-Park-Inspector-Level-2-Radiographic-NDT-NDE-CA-91311/1390277300/?ats=successfactors",
+        "locations": [
+            "Canoga Park, LA"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "University Corporation for Atmospheric Research",
+        "id": "0780ca89-2761-471f-8a82-c6902af58eed",
+        "title": "COMET Engineer 1",
+        "active": true,
+        "date_updated": 1778708358,
+        "date_posted": 1778623498,
+        "url": "https://ucar.wd5.myworkdayjobs.com/UCAR_Careers/job/Boulder-CO/COMET-Engineer-I_REQ-2026-64-1",
+        "locations": [
+            "Boulder, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/National-Center-For-Atmospheric-Research",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Next Insurance",
+        "id": "eb008eb1-7766-4479-b4ce-8bf3a80f45a1",
+        "title": "AI Engineer",
+        "active": true,
+        "date_updated": 1778705803,
+        "date_posted": 1765581536,
+        "url": "https://job-boards.greenhouse.io/nextinsurance66/jobs/7550955003",
+        "locations": [
+            "Waltham, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/NextInsurance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Trunk Tools",
+        "id": "7b7bd125-2d57-423c-9302-f38056c6e7f3",
+        "title": "Senior NLP Engineer",
+        "active": true,
+        "date_updated": 1778706071,
+        "date_posted": 1761872897,
+        "url": "https://jobs.ashbyhq.com/trunk%20tools/126e3070-2ade-4fdb-897d-55f0fd7a0785/application",
+        "locations": [
+            "SF",
+            "Austin, TX",
+            "Remote in USA",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Trunk-Tools",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
     }
 ]
