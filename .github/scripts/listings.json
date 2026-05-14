@@ -50999,78 +50999,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "AVEVA",
-        "id": "1b489b27-2d5a-4c95-a2ba-a0fa04d9b730",
-        "title": "Artificial Intelligence Graduate",
-        "active": false,
-        "date_updated": 1762931258,
-        "date_posted": 1757996725,
-        "url": "https://aveva.wd3.myworkdayjobs.com/en-US/AVEVA_careers/job/Lake-Forest-California-United-States-of-America/Artificial-Intelligence-Graduate--US_R011630",
-        "locations": [
-            "Lake Forest, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/AVEVA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "c00ec55d-5f57-480a-b1ff-dad5ae7a2433",
-        "title": "Student Researcher - Seed Multimodality & World Model - RL + Streaming Video Understanding",
-        "active": false,
-        "date_updated": 1757996512,
-        "date_posted": 1757996512,
-        "url": "https://jobs.bytedance.com/en/position/7549329038884768007/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "2fb7e4e6-ed8d-4af7-a6d6-d335b0639fc1",
-        "title": "Student Researcher - Seed Vision - Multimodal Video Generation",
-        "active": false,
-        "date_updated": 1757996510,
-        "date_posted": 1757996510,
-        "url": "https://jobs.bytedance.com/en/position/7549290849889995016/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "06bf351e-d9fd-4300-8a92-d6f8ef8be04b",
-        "title": "Student Researcher - Seed Vision - Multimodal Video Generation",
-        "active": false,
-        "date_updated": 1762939929,
-        "date_posted": 1757996509,
-        "url": "https://jobs.bytedance.com/en/position/7549296431607302418/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "ASM Global",
         "id": "acfb24c6-f8da-4cd2-b55c-c5511c069089",
@@ -279750,7 +279678,7 @@
         "company_name": "Pfizer",
         "id": "31cb65fd-2d32-469c-b78b-14bf83e89289",
         "title": "Associate Data Systems Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1776295543,
         "date_posted": 1776291011,
         "url": "https://pfizer.wd1.myworkdayjobs.com/internaljobs/job/United-States---Massachusetts---Andover/Associate-Data-Systems-Engineer_4955130",
@@ -312528,7 +312456,7 @@
         "company_name": "Nationwide",
         "id": "187d0d13-56e1-4739-83c6-fb544c8db785",
         "title": "Entry Level Software Engineer - Software Engineer - Java",
-        "active": true,
+        "active": false,
         "date_updated": 1778220749,
         "date_posted": 1778220315,
         "url": "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Engineer--Software-Engineer---Entry-Level---Java--Angular--or-Python_098039",
