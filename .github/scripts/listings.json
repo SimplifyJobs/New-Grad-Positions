@@ -10514,7 +10514,7 @@
         "company_name": "Sierra",
         "id": "6b15ca10-3cd5-4765-9e64-4234045a3ebd",
         "title": "Software Engineer \u2013 New Grad - Agent",
-        "active": true,
+        "active": false,
         "date_updated": 1758883246,
         "date_posted": 1758883246,
         "url": "https://jobs.ashbyhq.com/Sierra/0ff928f7-cca0-4d2b-ae64-c07277ff5252/application",
@@ -170054,7 +170054,7 @@
         "company_name": "Klaviyo",
         "id": "6b194153-6522-4ccd-a854-cc714a1e7d0e",
         "title": "AI Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1770679339,
         "date_posted": 1770679339,
         "url": "https://job-boards.greenhouse.io/klaviyocampus/jobs/7621072003",
@@ -271207,7 +271207,7 @@
         "company_name": "iCapital Network",
         "id": "aaf3e72c-92ac-4bea-9385-e2c6761cb272",
         "title": "Alternative Data Management - Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1775775791,
         "date_posted": 1775772803,
         "url": "https://job-boards.greenhouse.io/icapitalnetwork/jobs/8500913002",
@@ -271772,7 +271772,7 @@
         "company_name": "TalentWerx",
         "id": "225a8847-050f-437a-ba17-8f3954fb2af4",
         "title": "Linux Systems Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1775785434,
         "date_posted": 1775782926,
         "url": "https://jobs.lever.co/talentwerx.io/43caca17-bf16-4f18-a0b1-9fba80fc7b11/apply",
@@ -295309,7 +295309,7 @@
         "company_name": "Bank of America",
         "id": "a8d21c3a-3b22-47d1-94d4-f524e47bd4ad",
         "title": "Data Scientist 1",
-        "active": false,
+        "active": true,
         "date_updated": 1777069444,
         "date_posted": 1777068653,
         "url": "https://ghr.wd1.myworkdayjobs.com/us-emplsv/job/Charlotte/Data-Scientist-I_26014856-1",
@@ -303558,7 +303558,7 @@
         "company_name": "RTX",
         "id": "6faf144d-6d33-484b-85e8-6820b53627b9",
         "title": "Systems Engineer 2",
-        "active": true,
+        "active": false,
         "date_updated": 1777717620,
         "date_posted": 1777716618,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-848--1151-E-Hermans-Rd--BLDG-848/XMLNAME-2026-Systems-Engineer-II---Onsite_01833770",
@@ -309997,7 +309997,7 @@
         "company_name": "KLA Corporation",
         "id": "9488c77d-6d74-48b5-aeef-c268e094f2ac",
         "title": "Product Installation Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1778191858,
         "date_posted": 1778191517,
         "url": "https://kla.wd1.myworkdayjobs.com/search/job/USA-OR-Hillsboro-Beaverton-KLA/Product-Installation-Engineer-BBP---Extensive-90----Travel-Required_2636109",
@@ -311027,7 +311027,7 @@
         "company_name": "Apptronik",
         "id": "69ffdbf8-219f-4973-8b50-0c2b2ef1cd6f",
         "title": "Simulation Engineer - Design and Behavior - Dexterity",
-        "active": true,
+        "active": false,
         "date_updated": 1778193721,
         "date_posted": 1771370615,
         "url": "https://boards.greenhouse.io/apptronik/jobs/5806487004",
@@ -312547,7 +312547,7 @@
         "company_name": "Nationwide",
         "id": "187d0d13-56e1-4739-83c6-fb544c8db785",
         "title": "Entry Level Software Engineer - Software Engineer - Java",
-        "active": false,
+        "active": true,
         "date_updated": 1778220749,
         "date_posted": 1778220315,
         "url": "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Engineer--Software-Engineer---Entry-Level---Java--Angular--or-Python_098039",
@@ -316362,5 +316362,434 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Wolters Kluwer",
+        "id": "ec17f40c-b8ce-4fc7-8d0c-85fc6426bae7",
+        "title": "Associate Product Software Engineer - Systems Engineer in Test",
+        "active": true,
+        "date_updated": 1778707982,
+        "date_posted": 1778623463,
+        "url": "https://wk.wd3.myworkdayjobs.com/en-US/External/job/USA---Kennesaw-GA/Associate-Product-Software-Engineer---Systems-Engineer-in-Test_R0057034",
+        "locations": [
+            "Kennesaw, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Wolters-Kluwer",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Ercot",
+        "id": "165ce6ce-562f-4e6e-8f46-8a49ef64bd80",
+        "title": "Market Operations Engineer/Analyst",
+        "active": true,
+        "date_updated": 1778710157,
+        "date_posted": 1778710022,
+        "url": "https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Austin-TX/Market-Operations-Engineer-Analyst_R2269",
+        "locations": [
+            "Pflugerville, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Ercot",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Morgan Stanley",
+        "id": "fe0cb82b-8b96-4f2f-91f9-a4ab59a3d1eb",
+        "title": "MSIM-Sustainable Investing-Quant Anlayst",
+        "active": true,
+        "date_updated": 1778708161,
+        "date_posted": 1778623621,
+        "url": "https://ms.wd5.myworkdayjobs.com/private/job/New-York-New-York-United-States-of-America/MSIM--Sustainable-Investing--Quant-Anlayst_JR036714",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Morgan-Stanley",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "MUFG",
+        "id": "e6f05edc-a479-47ae-a5aa-295f9d9c68a5",
+        "title": "ML Engineer - AVP",
+        "active": true,
+        "date_updated": 1778710157,
+        "date_posted": 1778709980,
+        "url": "https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/Jersey-City-NJ/ML-Engineer_10076539-WD",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/MUFG",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Texas at Austin",
+        "id": "ca78630f-2644-41de-bd59-cb53998d6c7d",
+        "title": "Graduate Research Assistant",
+        "active": true,
+        "date_updated": 1778707982,
+        "date_posted": 1778623517,
+        "url": "https://utaustin.wd1.myworkdayjobs.com/utstudent/job/UT-MAIN-CAMPUS/Graduate-Research-Assistant_R_00046050",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Texas-Austin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Invisible Technologies",
+        "id": "a8b5504a-512d-4d60-8f56-678649f3b549",
+        "title": "AI Training Generalist - AI Trainer",
+        "active": true,
+        "date_updated": 1778708881,
+        "date_posted": 1778624069,
+        "url": "https://job-boards.eu.greenhouse.io/agency/jobs/4864010101",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Invisible-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "AECOM",
+        "id": "8c5ff104-0c64-4e63-9b29-e08c100d13cf",
+        "title": "Digital Data Analyst",
+        "active": true,
+        "date_updated": 1778710157,
+        "date_posted": 1778710008,
+        "url": "https://jobs.smartrecruiters.com/AECOM2/744000126333401",
+        "locations": [
+            "Manchester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/AECOM",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "AECOM",
+        "id": "36c7d08b-0dc9-4341-9a5b-2e8907945977",
+        "title": "Digital Data Analyst",
+        "active": true,
+        "date_updated": 1778710157,
+        "date_posted": 1778710011,
+        "url": "https://jobs.smartrecruiters.com/AECOM2/744000126336703",
+        "locations": [
+            "Birmingham, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/AECOM",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TD Bank",
+        "id": "b1be63a7-16e8-4911-8a3e-d39338388826",
+        "title": "Data Associate",
+        "active": true,
+        "date_updated": 1778711041,
+        "date_posted": 1778710265,
+        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Data-Associate_R_1488525",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/TD-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Texas A&M University System",
+        "id": "a0c83da5-34e8-428c-925a-c14028f27dcd",
+        "title": "Research Assistant - Oceanography",
+        "active": true,
+        "date_updated": 1778707982,
+        "date_posted": 1778623497,
+        "url": "https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/College-Station-TX/Research-Assistant_R-093188-2",
+        "locations": [
+            "College Station, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Texas-AM-University-System",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Squarepoint Capital",
+        "id": "910e7e49-a071-4879-8cad-e0639702b45f",
+        "title": "Graduate Quant Developer",
+        "active": true,
+        "date_updated": 1778721187,
+        "date_posted": 1778623730,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=7918610",
+        "locations": [
+            "Montreal, QC, Canada",
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Squarepoint-Capital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "General Dynamics Information Technology",
+        "id": "90db6267-c20e-4ba2-9f81-f6a8f77ff3ac",
+        "title": "Simulator Technician 1",
+        "active": true,
+        "date_updated": 1778708073,
+        "date_posted": 1778623545,
+        "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-FL-Milton/Simulator-Technician-I_RQ219459-1",
+        "locations": [
+            "FL"
+        ],
+        "company_url": "https://simplify.jobs/c/GDIT",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "The Boeing Company",
+        "id": "26f80e72-bc1b-435c-9bf4-e9e2af035863",
+        "title": "Spacecraft Software Engineer - Millennium Space Systems",
+        "active": true,
+        "date_updated": 1778709247,
+        "date_posted": 1778623791,
+        "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---El-Segundo-CA/Spacecraft-Software-Engineer--Associate-or-Mid-Level---Millennium-Space-Systems_JR2026498434",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Bank of America",
+        "id": "f7018c6c-93fa-46ad-9f11-cdf881e73628",
+        "title": "Treasury Product Manager 1",
+        "active": true,
+        "date_updated": 1778708497,
+        "date_posted": 1778623561,
+        "url": "https://ghr.wd1.myworkdayjobs.com/us-emplsv/job/New-York/Treasury-Product-Manager-I_26016621",
+        "locations": [
+            "Chicago, IL",
+            "Charlotte, NC",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Bank-Of-America",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "General Dynamics Mission Systems",
+        "id": "94864550-b0e6-450c-8d40-ffb7bd29fb33",
+        "title": "Entry Level Software Engineer",
+        "active": true,
+        "date_updated": 1778710701,
+        "date_posted": 1778710071,
+        "url": "https://careers-gdms.icims.com/jobs/72599/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Bremerton, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Texas A&M University - College Station",
+        "id": "7f8e03dc-ed3b-4f75-bc32-8502dde4004b",
+        "title": "Research Assistant - Oceanography",
+        "active": true,
+        "date_updated": 1778707982,
+        "date_posted": 1778623484,
+        "url": "https://tamus.wd1.myworkdayjobs.com/TAMU_External/job/College-Station-TX/Research-Assistant_R-093188",
+        "locations": [
+            "College Station, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Texas-AM-University-College-Station",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Applied Materials",
+        "id": "179d5518-f863-47a7-a59e-16209c5f6e1c",
+        "title": "Data Engineer New Grad",
+        "active": true,
+        "date_updated": 1778721096,
+        "date_posted": 1778720854,
+        "url": "https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/XMLNAME-2026-Data-Engineer-New-College-Grad--Bachelor-s-Master-s--Austin--TX-_R2619452-1",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Materials",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "d4911842-aa80-4b43-b753-bcfb94a4ddb2",
+        "title": "Principal System Test Engineer",
+        "active": true,
+        "date_updated": 1778709912,
+        "date_posted": 1778681193,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Principal-Engineer-Systems-Test-Active-Secret-Clearance-Required_R10231161",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Wachter",
+        "id": "7515cf62-665b-4afc-aacd-e4db11575f32",
+        "title": "AV Staging &amp; Configuration Technician - AV hardware - Rack fabrication",
+        "active": true,
+        "date_updated": 1778710347,
+        "date_posted": 1778709832,
+        "url": "https://jobs.lever.co/wachter/1a34e247-8c78-48a6-9354-9e8af1a5f6aa/apply",
+        "locations": [
+            "Rogers, AR"
+        ],
+        "company_url": "https://simplify.jobs/c/Wachter",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Lincoln Financial",
+        "id": "29a8c8fd-58b9-4cfd-b523-ad2520ad736b",
+        "title": "Associate Application Development",
+        "active": true,
+        "date_updated": 1778709151,
+        "date_posted": 1778623679,
+        "url": "https://jobs.lincolnfinancial.com/job/Omaha-Associate,-Application-Development-NE-68046/1387501400/?ats=successfactors",
+        "locations": [
+            "Villanova, PA",
+            "Charlotte, NC",
+            "Omaha, NE",
+            "Greensboro, NC",
+            "Fort Wayne, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Lincoln-Financial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Together AI",
+        "id": "68c4a133-4f58-4f48-ae12-e6ca360776dd",
+        "title": "Analytics Engineer - Data Warehouse",
+        "active": true,
+        "date_updated": 1778710157,
+        "date_posted": 1775600244,
+        "url": "https://job-boards.greenhouse.io/togetherai/jobs/5101651007",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Together-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
