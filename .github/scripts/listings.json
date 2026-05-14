@@ -1,133 +1,5 @@
 [
     {
-        "date_updated": 1758672456,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "degrees": [],
-        "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano,-TX/Technology-Development-Program-Associate---August-2026_R218706-1",
-        "company_name": "Capital One",
-        "title": "Technology Development Program Associate",
-        "locations": [
-            "Plano, TX",
-            "Richmond, VA"
-        ],
-        "category": "Other",
-        "source": "AlmondCroffle",
-        "id": "91765333-8853-4ae2-9225-d1c5133eef54",
-        "date_posted": 1758011649,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1758247317,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "degrees": [],
-        "url": "https://capitalone.wd12.myworkdayjobs.com/capital_one/job/Plano-TX/Product-Development-Program-Associate---2026_R219614-1",
-        "company_name": "Capital One",
-        "title": "Product Development Program Associate",
-        "locations": [
-            "Plano, TX"
-        ],
-        "category": "Other",
-        "source": "AlmondCroffle",
-        "id": "67ed0c5c-4787-4036-a65c-d152925af773",
-        "date_posted": 1758011746,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1758325870,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "degrees": [],
-        "url": "https://costar.wd1.myworkdayjobs.com/costar_campus/job/US-CA-San-Diego/Associate-Software-Engineer---San-Diego--CA_R37014",
-        "company_name": "CoStar",
-        "title": "Associate Software Engineer",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "13894633-35bc-4459-b30e-5c46d5665237",
-        "date_posted": 1758011842,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1758043554,
-        "sponsorship": "Other",
-        "active": true,
-        "degrees": [],
-        "url": "https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Reno-NV/Associate-Software-Engineer_R320511",
-        "company_name": "Light & Wonder",
-        "title": "Associate Software Engineer",
-        "locations": [
-            "Reno, NV",
-            "Las Vegas, NV"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "a038e9b8-981b-4cd4-aedc-455697888475",
-        "date_posted": 1758011928,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1758043505,
-        "sponsorship": "Other",
-        "active": true,
-        "degrees": [],
-        "url": "https://navexglobal.wd5.myworkdayjobs.com/navex/job/Hybrid-Lake-Oswego-OR/Associate-Software-Engineer_R6157",
-        "company_name": "NAVEX",
-        "title": "Associate Software Engineer",
-        "locations": [
-            "Hybrid Lake Oswego, OR"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "4fd5ead5-877f-4ae2-9fa2-b300148b7f0a",
-        "date_posted": 1758012042,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1758068360,
-        "sponsorship": "Other",
-        "active": true,
-        "degrees": [],
-        "url": "https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Quantitative-Analyst-I_R61935",
-        "company_name": "Fifth Third",
-        "title": "Quantitative Analyst I",
-        "locations": [
-            "Cincinnati, OH"
-        ],
-        "category": "Quantitative Finance",
-        "source": "AlmondCroffle",
-        "id": "88a836b0-963f-482f-b02b-79ee4829fa69",
-        "date_posted": 1758012133,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1763027857,
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "degrees": [],
-        "url": "https://jobs.ashbyhq.com/Anima/a6b86f92-0679-423b-b575-a23f8677dfd1",
-        "company_name": "Anima",
-        "title": "Software Engineer",
-        "locations": [
-            "Remote in USA"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "c9a7aeec-6a07-45e1-b4aa-3469b8e7e725",
-        "date_posted": 1758012249,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "date_updated": 1758131507,
         "sponsorship": "U.S. Citizenship is Required",
         "active": true,
@@ -315282,7 +315154,7 @@
         "company_name": "Man Group",
         "id": "664b0527-fb10-486e-98a7-f8a1f68ec16f",
         "title": "Junior Quant Analyst - Central Trading",
-        "active": true,
+        "active": false,
         "date_updated": 1778709385,
         "date_posted": 1778623829,
         "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4863810101",
@@ -316720,6 +316592,46 @@
             "San Diego, CA"
         ],
         "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Veeva Systems",
+        "id": "59882688-f37f-4664-bba8-fd1c9b781086",
+        "title": "Associate Product Manager - Vault CRM Suite",
+        "active": true,
+        "date_updated": 1778748301,
+        "date_posted": 1777338339,
+        "url": "https://jobs.lever.co/veeva/6bcc8228-5b43-43e5-b96b-d62679b8c64a/apply",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Veeva-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Greystar Worldwide",
+        "id": "31dfa37b-8904-4206-a0fa-d1b41c412b6a",
+        "title": "Investment Analyst",
+        "active": true,
+        "date_updated": 1778747581,
+        "date_posted": 1776521658,
+        "url": "https://greystar.wd1.myworkdayjobs.com/International_Career_Site/job/London-Corporate-Office-London-UK/Investment-Analyst--Nordics-_R0180694",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Greystar",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
