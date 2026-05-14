@@ -127321,7 +127321,7 @@
         "company_name": "Arrowstreet Capital",
         "id": "82b6cdeb-abba-4247-b82e-753eb5697555",
         "title": "Technology Rotational Development Program",
-        "active": true,
+        "active": false,
         "date_updated": 1768235340,
         "date_posted": 1768235340,
         "url": "https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Technology-Rotational-Development-Program_R1400",
@@ -201590,7 +201590,7 @@
         "company_name": "Morningstar",
         "id": "83990d3b-55ea-4932-9faa-a0eac9fe47b1",
         "title": "Associate Software Engineer - Credit Tech",
-        "active": false,
+        "active": true,
         "date_updated": 1772148522,
         "date_posted": 1772148522,
         "url": "https://morningstar.wd5.myworkdayjobs.com/Americas/job/Chicago/Associate-Software-Engineer--Credit-Tech_AP-23077420-1",
@@ -273122,7 +273122,7 @@
         "company_name": "BTI Solutions",
         "id": "e490d19f-8a51-44ba-b84f-f8b1a6ea985f",
         "title": "Development Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1775861159,
         "date_posted": 1775858872,
         "url": "https://btisolutions.wd12.myworkdayjobs.com/External/job/Troy-MI/Development-Engineer-I--TL--Troy--MI_JR101732-1",
@@ -280281,7 +280281,7 @@
         "company_name": "Metropolitan Transportation Authority",
         "id": "7b6614e9-0ec7-41c0-9dc0-9f92ff932678",
         "title": "Computer Associate - Software - Levels 1",
-        "active": true,
+        "active": false,
         "date_updated": 1776295449,
         "date_posted": 1776291022,
         "url": "https://jobs.jobvite.com/metropolitantransportationauthority/job/oxQTzfwz?nl=1&nl=1&fr=false",
@@ -291420,7 +291420,7 @@
         "company_name": "Intel",
         "id": "f620bfdc-56c0-4a22-a3bb-b3640b5b1fd8",
         "title": "Atom CPU Architecture Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1776867110,
         "date_posted": 1776866790,
         "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Texas-Austin/Atom-CPU-Architecture-Engineer_JR0282747",
@@ -294891,7 +294891,7 @@
         "company_name": "Bank of America",
         "id": "a8d21c3a-3b22-47d1-94d4-f524e47bd4ad",
         "title": "Data Scientist 1",
-        "active": true,
+        "active": false,
         "date_updated": 1777069444,
         "date_posted": 1777068653,
         "url": "https://ghr.wd1.myworkdayjobs.com/us-emplsv/job/Charlotte/Data-Scientist-I_26014856-1",
@@ -300311,7 +300311,7 @@
         "company_name": "WPP Media",
         "id": "1dd1def7-d379-410b-965d-7168d1294a29",
         "title": "Investment Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1777558681,
         "date_posted": 1777558670,
         "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5202941008",
@@ -304946,7 +304946,7 @@
         "company_name": "RTX",
         "id": "3ec717fb-b569-4591-a30c-0f70fbef3dfd",
         "title": "Software Data Engineer 2",
-        "active": false,
+        "active": true,
         "date_updated": 1777990400,
         "date_posted": 1777990184,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-REMOTE/XMLNAME-2026-Raytheon-Full-Time--Software-Data-Engineer-II--Remote-_01842575",
@@ -311431,7 +311431,7 @@
         "company_name": "Capco",
         "id": "c4231164-782c-455b-ab1e-d9adeceeb902",
         "title": "Junior AI Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1778279041,
         "date_posted": 1778278283,
         "url": "https://job-boards.greenhouse.io/capco/jobs/7908493",
@@ -316685,6 +316685,123 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Smiths Detection Group",
+        "id": "a918c8b2-cc0d-4e5c-bd32-d04ac3c55b82",
+        "title": "Field Service Engineer 3",
+        "active": true,
+        "date_updated": 1778768708,
+        "date_posted": 1778767510,
+        "url": "https://jobs.smartrecruiters.com/SmithsGroup2/744000126508219",
+        "locations": [
+            "Crawley, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Smiths-Detection-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Slice (slicelife.com)",
+        "id": "a6a3e049-7705-4778-b661-940154f9d584",
+        "title": "Software Developer - Services",
+        "active": true,
+        "date_updated": 1778768461,
+        "date_posted": 1778768368,
+        "url": "https://slice.careers/careers-listing?gh_jid=7228672",
+        "locations": [
+            "Ontario, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Slicelife",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Jabil",
+        "id": "ab54ba72-c03a-4c9d-9947-41a1bc4712b2",
+        "title": "Diagnostic Technician 1",
+        "active": true,
+        "date_updated": 1778767921,
+        "date_posted": 1778767781,
+        "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Florence-KY/Diagnostic-Technician-1_J2449579",
+        "locations": [
+            "Florence, KY"
+        ],
+        "company_url": "https://simplify.jobs/c/Jabil",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "WPP Media",
+        "id": "be999b11-dabd-4aa0-8605-978e5f90e6a4",
+        "title": "Product Manager",
+        "active": true,
+        "date_updated": 1778768641,
+        "date_posted": 1778768587,
+        "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5215904008",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/WPP-Media",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pennsylvania State University",
+        "id": "578c1b35-6198-4005-a239-7fb6e7876140",
+        "title": "Postdoctoral Scholar in Geophysics",
+        "active": true,
+        "date_updated": 1778768464,
+        "date_posted": 1778767689,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoc-Scholar-in-Geophysics-focused-on-Rock-Rheology-and-Machine-Learning_REQ_0000078024-1",
+        "locations": [
+            "State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Blue Cross and Blue Shield of Rhode Island",
+        "id": "7ee70759-662e-40bb-b44f-cc22b740dac1",
+        "title": "Associate Health Data Analyst - Business Intelligence",
+        "active": true,
+        "date_updated": 1778768641,
+        "date_posted": 1778767761,
+        "url": "https://bcbsri.wd1.myworkdayjobs.com/BCBSRICareers/job/Providence-RI/Associate-Health-Data-Analyst---Business-Intelligence_JR100278",
+        "locations": [
+            "Providence, RI"
+        ],
+        "company_url": "https://simplify.jobs/c/Blue-Cross-And-Blue-Shield-Of-Rhode-Island",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
         ]
     }
 ]
