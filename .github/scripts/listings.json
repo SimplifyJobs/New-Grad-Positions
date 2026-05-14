@@ -74660,7 +74660,7 @@
         "company_name": "SpaceX",
         "id": "a9bfbd41-7b6a-4619-8e35-dda3336c3d0d",
         "title": "Production Technician - Gateways - Starlink",
-        "active": true,
+        "active": false,
         "date_updated": 1764152006,
         "date_posted": 1764152006,
         "url": "https://boards.greenhouse.io/spacex/jobs/8301696002",
@@ -310304,7 +310304,7 @@
         "company_name": "KLA Corporation",
         "id": "5dd4de2e-857a-4312-aebf-87610ec8662d",
         "title": "Product Install Engineer - Chemical Analysis",
-        "active": true,
+        "active": false,
         "date_updated": 1778193721,
         "date_posted": 1778191536,
         "url": "https://kla.wd1.myworkdayjobs.com/search/job/VirtualRemote-USA/Product-Install-Engineer---Chemical-Analysis_2635667",
@@ -316559,6 +316559,185 @@
         "degrees": [
             "Bachelor's",
             "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Geisinger",
+        "id": "bbbbaebc-c1ae-4b38-89dc-dfe16d2c7ef7",
+        "title": "Business Intelligence Developer Associate",
+        "active": true,
+        "date_updated": 1778796557,
+        "date_posted": 1778796442,
+        "url": "https://geisinger.wd5.myworkdayjobs.com/geisingerexternal/job/Work-from-Home/Business-Intelligence-Developer-Associate_R-95883",
+        "locations": [
+            "Pennsylvania"
+        ],
+        "company_url": "https://simplify.jobs/c/Geisinger",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Corning",
+        "id": "68118cbb-4151-4b21-8930-bc154ad77008",
+        "title": "Technician - Mechanical",
+        "active": true,
+        "date_updated": 1778796557,
+        "date_posted": 1778796446,
+        "url": "https://corningjobs.corning.com/job/Corning-Technician,-Mechanical-NY-14831/1391176500/?ats=successfactors",
+        "locations": [
+            "Elmira, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Corning",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Wolters Kluwer",
+        "id": "fd73b804-01f4-4f48-97d6-68655908beba",
+        "title": "Efile Operations Analyst - E-File Operations",
+        "active": true,
+        "date_updated": 1778796601,
+        "date_posted": 1778796238,
+        "url": "https://wk.wd3.myworkdayjobs.com/en-US/External/job/USA---Kennesaw-GA/Associate-Business-Systems-Analyst---E-File-Operations_R0057085",
+        "locations": [
+            "Kennesaw, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Wolters-Kluwer",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Milwaukee Tool",
+        "id": "46ff7854-512d-4254-85a3-26a6541d9731",
+        "title": "Engineering Technician",
+        "active": true,
+        "date_updated": 1778796361,
+        "date_posted": 1778796329,
+        "url": "https://tti.wd1.myworkdayjobs.com/en-US/Milwaukee/job/Menomonee-Falls-WI/Engineering-Technician_R73897",
+        "locations": [
+            "Menomonee Falls, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Milwaukee-Tool",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Manulife Financial",
+        "id": "fd2652f1-32ea-4597-9f9d-cb735e2abe5a",
+        "title": "Associate Applied AI Engineer - GenAI Systems",
+        "active": true,
+        "date_updated": 1778796361,
+        "date_posted": 1778796275,
+        "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Toronto-Ontario/Associate-Applied-AI-Engineer---GenAI-Systems_JR26031551",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Manulife-Financial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Teranet",
+        "id": "3dfbfafd-5bfd-4770-b409-d21a66d6b0eb",
+        "title": "Java/Angular Developer",
+        "active": true,
+        "date_updated": 1778796670,
+        "date_posted": 1778796274,
+        "url": "https://tera.wd3.myworkdayjobs.com/TERANET/job/Toronto/Java-Angular-Developer_R004735",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Teranet",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Allegiant Air",
+        "id": "b51ab955-bbc7-42ba-b811-37cbe09cb5ac",
+        "title": "Product Manager 1",
+        "active": true,
+        "date_updated": 1778796635,
+        "date_posted": 1778796300,
+        "url": "https://jobs.lever.co/allegiantair/5a0ab3ce-5549-4780-ad97-1dcbeb36d375/apply",
+        "locations": [
+            "Las Vegas, NV"
+        ],
+        "company_url": "https://simplify.jobs/c/Allegiant-Air",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Northeastern University",
+        "id": "7783b9d8-0cc6-4e49-8610-fbcfe95f3b49",
+        "title": "Natural Language Processing Fellow",
+        "active": true,
+        "date_updated": 1778796746,
+        "date_posted": 1778796317,
+        "url": "https://northeastern.wd1.myworkdayjobs.com/careers/job/Charlotte-NC/Postdoctoral-Research-Fellow_R140000",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Northeastern-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "NextEra Energy",
+        "id": "73b99ecc-4cfb-43cf-9e62-b1501e1ba866",
+        "title": "Product Manager 1",
+        "active": true,
+        "date_updated": 1778796562,
+        "date_posted": 1778796196,
+        "url": "https://jobs.nexteraenergy.com/job/Juno-Beach-Product-Manager-I-NEA-FL-33408/1391191100/?ats=successfactors",
+        "locations": [
+            "Palm Beach Gardens, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/NextEra-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
