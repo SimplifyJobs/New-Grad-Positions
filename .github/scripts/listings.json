@@ -77332,24 +77332,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "KCI Technologies",
-        "id": "09b1175f-1fa8-4598-8077-efb8f7abc506",
-        "title": "CE Data Coordinator",
-        "active": false,
-        "date_updated": 1764286682,
-        "date_posted": 1758004029,
-        "url": "https://careers-kci.icims.com/jobs/7220/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/KCI-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "William Blair",
         "id": "0e820fc5-e397-4823-ab37-30fa89b0c301",
@@ -316700,5 +316682,46 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "OpenEye",
+        "id": "a472ac52-6384-4a55-892f-5569bc9136c1",
+        "title": "Software Engineer 2",
+        "active": true,
+        "date_updated": 1778739442,
+        "date_posted": 1778738901,
+        "url": "https://job-boards.greenhouse.io/openeye/jobs/8549022002",
+        "locations": [
+            "Liberty Lake, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/OpenEye",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "SHI International ",
+        "id": "2947db38-fb43-414f-b7c9-47c822d0cf92",
+        "title": "Associate Analytics Engineer - Data & Visualization",
+        "active": true,
+        "date_updated": 1778739121,
+        "date_posted": 1778738776,
+        "url": "https://shi.wd12.myworkdayjobs.com/shicareers/job/Austin-TX-USA/Associate-Analytics-Engineer---Data---Visualization_JR3060",
+        "locations": [
+            "Austin, TX",
+            "Somerset County, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/SHI-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
