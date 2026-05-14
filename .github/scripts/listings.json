@@ -1,25 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Other",
-        "company_name": "RTX",
-        "id": "3aaa901f-cc85-478b-bee3-ab611df26494",
-        "title": "2025 Raytheon Systems Security Engineer I",
-        "active": false,
-        "date_updated": 1757985442,
-        "date_posted": 1757985442,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/AZ201-RMS-AP-Bldg-801-1151-East-Hermans-Road-Building-801-Tucson-AZ-85756-USA/XMLNAME-2025-Raytheon-Systems-Security-Engineer-I---Onsite---Tucson--AZ_01792265",
-        "locations": [
-            "Tucson, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "date_updated": 1758672456,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
@@ -57826,24 +57806,6 @@
             "Franklin, MA"
         ],
         "company_url": "https://simplify.jobs/c/Waters-Corporation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "NV5 Global",
-        "id": "6de90bea-576b-4481-9e19-e47fc06cb76c",
-        "title": "Lidar \u2013 Quicklook Data Verification Technician",
-        "active": false,
-        "date_updated": 1763191636,
-        "date_posted": 1757984647,
-        "url": "https://careers-nv5.icims.com/jobs/11395/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Portland, OR"
-        ],
-        "company_url": "https://simplify.jobs/c/NV5-Global",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -150012,7 +149974,7 @@
         "company_name": "Microchip Technology",
         "id": "eeccc732-4403-4fa2-a11a-eac4778b282b",
         "title": "Engineer 1 - Software - FPGA Timing and Power",
-        "active": true,
+        "active": false,
         "date_updated": 1769642413,
         "date_posted": 1769642413,
         "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/CA---San-Jose---3850-N-First-St/Engineer-I---Software--FPGA-Timing-and-Power-_R1912-25",
@@ -273115,7 +273077,7 @@
         "company_name": "OpenEye",
         "id": "05c15b6b-d17a-42a6-a251-d3eb1d69b15e",
         "title": "Software Engineer 2",
-        "active": true,
+        "active": false,
         "date_updated": 1775861676,
         "date_posted": 1775859615,
         "url": "https://job-boards.greenhouse.io/openeye/jobs/8497521002",
@@ -292537,7 +292499,7 @@
         "company_name": "RTX",
         "id": "63587e08-0139-41a7-a4fa-2f54b74a015b",
         "title": "Raytheon Full Time - Systems Engineer I - Electronic Warfare",
-        "active": false,
+        "active": true,
         "date_updated": 1776896958,
         "date_posted": 1776895739,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/XMLNAME-2026-Raytheon-Full-Time---Systems-Engineer-I---Electronic-Warfare---Fort-Wayne--IN--Onsite-_01840051",
@@ -294237,7 +294199,7 @@
         "company_name": "Daimler Truck",
         "id": "2130788c-1f31-446d-a635-c57bb258295a",
         "title": "Product Engineer 1 - Brake and Pneumatics Systems - Vehicle Dynamics",
-        "active": false,
+        "active": true,
         "date_updated": 1776982397,
         "date_posted": 1776981933,
         "url": "https://dtna.wd5.myworkdayjobs.com/dtna_affiliate/job/Portland-OR-US/Product-Engineer-1---Brake-and-Pneumatics-Systems--Vehicle-Dynamics-_DT-17640",
@@ -301013,7 +300975,7 @@
         "company_name": "Vertiv",
         "id": "77e409ea-bc38-484d-ab05-0b0f92f92dd3",
         "title": "Associate Firmware Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1777586941,
         "date_posted": 1777586805,
         "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20271798",
@@ -302811,7 +302773,7 @@
         "company_name": "Vishay Intertechnology",
         "id": "7c4ed2a3-4c70-4fa6-88b4-5da04188cea4",
         "title": "Prototype Operator 1",
-        "active": false,
+        "active": true,
         "date_updated": 1777674061,
         "date_posted": 1777673218,
         "url": "https://vishay.wd3.myworkdayjobs.com/VishayCareers/job/Duluth-MN/Prototype-Operator-1_JR-16314",
@@ -313774,7 +313736,7 @@
         "company_name": "Scopely",
         "id": "f1f1ea39-1908-4a61-9c37-318750756337",
         "title": "Full Stack Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1778550121,
         "date_posted": 1778548906,
         "url": "https://job-boards.greenhouse.io/scopely/jobs/5105580008",
@@ -315050,5 +315012,248 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "LexisNexis Risk Solutions",
+        "id": "a4c5ddfc-a6c4-43f6-b91b-60feba0c95e4",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1778710908,
+        "date_posted": 1778710142,
+        "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Boca-Raton-FL/Software-Engineer-I_R113139-1",
+        "locations": [
+            "Boca Raton, FL",
+            "Alpharetta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/LexisNexis-Risk-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Fidelity Investments",
+        "id": "0dbacb12-284c-42d8-861c-a66dd5210013",
+        "title": "Associate Full Stack Engineer",
+        "active": true,
+        "date_updated": 1778710794,
+        "date_posted": 1778710145,
+        "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/Westlake-TX/Associate-Full-Stack-Engineer_2128066-2",
+        "locations": [
+            "Westlake, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Fidelity-Investments",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ClimateAI",
+        "id": "e8d94c7a-6e6a-4529-af17-c9e9d4d36345",
+        "title": "Data Engineer 1",
+        "active": true,
+        "date_updated": 1778721798,
+        "date_posted": 1778721493,
+        "url": "https://job-boards.greenhouse.io/climateai/jobs/5137357007",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Climate-Ai",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "RELX",
+        "id": "07ccd75c-6a11-4f9f-a0bc-ada3581f59ef",
+        "title": "Data Engineer 1",
+        "active": true,
+        "date_updated": 1778711069,
+        "date_posted": 1778710243,
+        "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Alpharetta-GA/Data-Engineer-I_R113132-1",
+        "locations": [
+            "Alpharetta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/RELX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Smithfield Foods",
+        "id": "d6d50717-972f-4ea9-b3e3-b9edfc06dddb",
+        "title": "AI Enablement Analyst",
+        "active": true,
+        "date_updated": 1778721088,
+        "date_posted": 1778720817,
+        "url": "https://smithfieldfoods.wd1.myworkdayjobs.com/Careers/job/Smithfield-VA/AI-Enablement-Analyst_R-2026-6355",
+        "locations": [
+            "Suffolk, VA",
+            "Newport News, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Smithfield-Foods",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Instabase",
+        "id": "901d21dd-bd41-481d-ab2e-33c5a1ea0b3e",
+        "title": "Full-stack Software Engineer New Grad",
+        "active": true,
+        "date_updated": 1778721244,
+        "date_posted": 1778721097,
+        "url": "https://job-boards.greenhouse.io/instabase/jobs/8548929002",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Instabase",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CACI",
+        "id": "874ee244-d643-4d02-9e60-c62e44942351",
+        "title": "Entry Level Computer Engineer",
+        "active": true,
+        "date_updated": 1778709781,
+        "date_posted": 1778681157,
+        "url": "https://caci.wd1.myworkdayjobs.com/external/job/Crane-IN-US/Entry-Level-Computer-Engineer_326050",
+        "locations": [
+            "Bedford, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "PHINIA",
+        "id": "caf4986c-1a4c-4718-9295-bd1ec02e972c",
+        "title": "Alternator Electronics Product Engineer",
+        "active": true,
+        "date_updated": 1778710157,
+        "date_posted": 1778710031,
+        "url": "https://phinia.wd5.myworkdayjobs.com/PHINIA_Careers/job/Anderson---Indiana---USA/Alternator-Electronics-Product-Engineer_R2026-0336",
+        "locations": [
+            "Auburn Hills, MI",
+            "Anderson, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/PHINIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "GE Vernova",
+        "id": "74a77f64-dbd2-4d18-beb0-ff2b948a1ef4",
+        "title": "AI Engineer",
+        "active": true,
+        "date_updated": 1778709061,
+        "date_posted": 1778634490,
+        "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Bellevue-WA-US/AI-Engineer_R5041190",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Vernova",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Blue Cross Blue Shield of Michigan",
+        "id": "70e25686-dbc1-46e8-8f99-53fc8fe83faa",
+        "title": "Data Analyst 1 - Data Solution and Design",
+        "active": true,
+        "date_updated": 1778708992,
+        "date_posted": 1778623653,
+        "url": "https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14109",
+        "locations": [
+            "Detroit, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Blue-Cross-Blue-Shield-Of-Michigan",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Hello Fresh",
+        "id": "26f6c8d9-a735-4b8b-bdfa-0e72a812bfe1",
+        "title": "Recipe Developer",
+        "active": true,
+        "date_updated": 1778709903,
+        "date_posted": 1778681293,
+        "url": "https://careers.hellofresh.com/global/en/job/7870714",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Hello-Fresh",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Voyager Technologies",
+        "id": "de74f6c5-bad1-4dab-8c03-cfb04b3b4793",
+        "title": "Machine Learning Engineer",
+        "active": true,
+        "date_updated": 1778721121,
+        "date_posted": 1774449113,
+        "url": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4173800009",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Voyager-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
