@@ -260741,7 +260741,7 @@
         "company_name": "Rolls-Royce",
         "id": "7e699949-a9ea-413c-b912-31dcebc25627",
         "title": "NDT Inspector Class C",
-        "active": true,
+        "active": false,
         "date_updated": 1775210254,
         "date_posted": 1771691013,
         "url": "https://rollsroyce.wd3.myworkdayjobs.com/professional/job/Montreal/Inspecteur-ND-classe-C---NDT-Inspector-C_JR6146605",
@@ -271010,7 +271010,7 @@
         "company_name": "NextEra Energy",
         "id": "86f2b214-ca03-4538-be78-4f52056b8194",
         "title": "Applied Scientist 1",
-        "active": false,
+        "active": true,
         "date_updated": 1775775566,
         "date_posted": 1775772547,
         "url": "https://jobs.nexteraenergy.com/job/St_-Paul-Applied-Scientist-I-MN-55107/1381060800/?ats=successfactors",
@@ -300970,7 +300970,7 @@
         "company_name": "GreenLite",
         "id": "76ca2338-69d5-4865-9821-8f6441c99948",
         "title": "AI Enablement Engineer - Contract to Hire",
-        "active": true,
+        "active": false,
         "date_updated": 1777587661,
         "date_posted": 1777586904,
         "url": "https://jobs.ashbyhq.com/greenlitecareers/cf15489f-5905-46d1-8ad5-459168d065b9/application",
@@ -316087,7 +316087,7 @@
         "company_name": "AECOM",
         "id": "36c7d08b-0dc9-4341-9a5b-2e8907945977",
         "title": "Digital Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1778710157,
         "date_posted": 1778710011,
         "url": "https://jobs.smartrecruiters.com/AECOM2/744000126336703",
@@ -316532,5 +316532,23 @@
         "degrees": [
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Dust",
+        "id": "2a0aa6f5-9b75-48e1-a811-a18f8de42de4",
+        "title": "AI Support Engineer",
+        "active": true,
+        "date_updated": 1778746861,
+        "date_posted": 1772417514,
+        "url": "https://jobs.ashbyhq.com/dust/24b8c0ad-9cc5-4c64-8b78-caa57ca4b08e/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Dust",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
