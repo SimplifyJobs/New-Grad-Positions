@@ -50981,24 +50981,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "Carter's",
-        "id": "e664db1c-f8a5-48a7-908f-d809fe9d00d1",
-        "title": "Product Development and Commercialization Coordinator - Executive Development Program",
-        "active": false,
-        "date_updated": 1758011239,
-        "date_posted": 1758011239,
-        "url": "https://carters.wd1.myworkdayjobs.com/en-US/CartersCareers/job/Atlanta-GA/PDC-Coordinator--June-2026-EDP_JR47764",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Carters",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "ASM Global",
         "id": "acfb24c6-f8da-4cd2-b55c-c5511c069089",
@@ -309929,7 +309911,7 @@
         "company_name": "Woodward Governor",
         "id": "f29b0854-9fc8-4fd0-b2e5-62d7ef7f2e12",
         "title": "Analytics and Master Data Management - Master Data Management - Analyst I",
-        "active": true,
+        "active": false,
         "date_updated": 1778191561,
         "date_posted": 1778191516,
         "url": "https://woodward.wd5.myworkdayjobs.com/woodward/job/Fort-Collins---Lincoln-Campus-HQ/Analytics-and-Master-Data-Management--MDM--Analyst-I_JR111078",
