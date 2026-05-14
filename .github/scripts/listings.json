@@ -50559,46 +50559,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "BNY",
-        "id": "7a702c66-a13d-47c0-a684-505536d72411",
-        "title": "BNY Analyst Program-Engineering - Data Science",
-        "active": true,
-        "date_updated": 1761934231,
-        "date_posted": 1758050391,
-        "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs/job/70345",
-        "locations": [
-            "Pittsburgh, PA",
-            "Lake Mary, FL",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/BNY",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "BNY",
-        "id": "307243ab-1117-4930-8d32-bef23cb3ae61",
-        "title": "BNY Analyst Program-Engineering - Developer",
-        "active": true,
-        "date_updated": 1762922447,
-        "date_posted": 1758050394,
-        "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs/job/70342",
-        "locations": [
-            "Pittsburgh, PA",
-            "Lake Mary, FL",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/BNY",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "General Dynamics Information Technology",
         "id": "a8310416-f49f-453b-98ea-266bb88d01b4",
@@ -50612,24 +50572,6 @@
             "Reston, VA"
         ],
         "company_url": "https://simplify.jobs/c/GDIT",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Louisiana State University (LSU)",
-        "id": "9b85e226-ea7b-460f-ad23-01e725f7de86",
-        "title": "Moodle Developer",
-        "active": false,
-        "date_updated": 1758049471,
-        "date_posted": 1758049471,
-        "url": "https://lsu.wd1.myworkdayjobs.com/LSU/job/8585-Archives-Blvd-Suite-201/Moodle-Developer_R00109175",
-        "locations": [
-            "Baton Rouge, LA"
-        ],
-        "company_url": "https://simplify.jobs/c/Louisiana-State-University",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -220389,7 +220331,7 @@
         "company_name": "Techtronic Industries",
         "id": "f83c3eab-50aa-4f08-a5d7-2fd1dfe55b8d",
         "title": "Compliance Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1773154814,
         "date_posted": 1773154814,
         "url": "https://tti.wd1.myworkdayjobs.com/tti_pe/job/Anderson-SC/Compliance-Specialist_R71594",
@@ -238122,7 +238064,7 @@
         "company_name": "Microchip Technology",
         "id": "a18dc3f2-82fe-4ec8-8a76-a7773eb225e4",
         "title": "Engineer 1 - Product - Test",
-        "active": true,
+        "active": false,
         "date_updated": 1774047185,
         "date_posted": 1774047185,
         "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/MA---Beverly-Brimbal/Engineer-I---Product--Test-_R1173-26",
@@ -243055,7 +242997,7 @@
         "company_name": "RAB Lighting",
         "id": "aa7adf18-02b5-4dd0-b165-1ad37a36f874",
         "title": "Firmware Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1774390797,
         "date_posted": 1774390797,
         "url": "https://job-boards.greenhouse.io/rab/jobs/7743321",
@@ -316099,7 +316041,7 @@
         "company_name": "General Dynamics Information Technology",
         "id": "90db6267-c20e-4ba2-9f81-f6a8f77ff3ac",
         "title": "Simulator Technician 1",
-        "active": true,
+        "active": false,
         "date_updated": 1778708073,
         "date_posted": 1778623545,
         "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-FL-Milton/Simulator-Technician-I_RQ219459-1",
