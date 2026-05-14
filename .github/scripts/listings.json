@@ -223464,7 +223464,7 @@
         "company_name": "Analytic Partners",
         "id": "b6b25f32-522f-486c-9a6c-59a7ceb84adc",
         "title": "Marketing Science Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1773267340,
         "date_posted": 1773267340,
         "url": "https://jobs.lever.co/analyticpartners/5accbca7-e5f5-46ac-9a52-173c64c2fdca/apply",
@@ -282690,7 +282690,7 @@
         "company_name": "Uhaul",
         "id": "1b162205-fb7d-42a1-8332-12c81076b9ee",
         "title": "Senior Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1776388321,
         "date_posted": 1776388289,
         "url": "https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/Phoenix-Arizona/Senior-Software-Developer_R239934",
@@ -316503,6 +316503,26 @@
         "date_updated": 1778750281,
         "date_posted": 1778750145,
         "url": "https://citjpl.wd5.myworkdayjobs.com/Jobs/job/JPL-Campus/Postdoc--Radar-Remote-Sensing-of-Landslides-and-Vertical-Land-Motion--OPERA-Project--1_R5487",
+        "locations": [
+            "Pasadena, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NASA-JPL",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "NASA Jet Propulsion Laboratory (JPL)",
+        "id": "c0e991b5-e893-4d18-9da4-16bf06164a5d",
+        "title": "Postdoctoral Geodynamic Modeling and GNSS-Based Crustal Deformation",
+        "active": true,
+        "date_updated": 1778750641,
+        "date_posted": 1778750144,
+        "url": "https://citjpl.wd5.myworkdayjobs.com/Jobs/job/JPL-Campus/Postdoc--Geodynamic-Modeling-and-GNSS-Based-Crustal-Deformation_R5503",
         "locations": [
             "Pasadena, CA"
         ],
