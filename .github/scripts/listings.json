@@ -2,45 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Peraton",
-        "id": "d671317d-80c6-4f29-a236-fc748c813fa5",
-        "title": "Junior Level Software Engineering - Associate",
-        "active": false,
-        "date_updated": 1760033603,
-        "date_posted": 1758054101,
-        "url": "https://careers-peraton.icims.com/jobs/159860/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "King George County, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Peraton",
-        "is_visible": false,
-        "sponsorship": "U.S. Citizenship is Required",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Chewy",
-        "id": "a1c7ebb8-f55a-4d0c-8293-ed794342d136",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1758053613,
-        "date_posted": 1758053613,
-        "url": "https://boards.greenhouse.io/embed/job_app?token=7253456",
-        "locations": [
-            "Boston, MA",
-            "Plantation, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Chewy",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Motorola",
         "id": "736a8ece-1503-44e7-adc1-9f84cbe6a904",
         "title": "Entry Level Software Engineer",
@@ -92452,26 +92413,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Geosyntec Consultants",
-        "id": "cf1ceccb-d82d-48af-867f-81ba0ad67a3d",
-        "title": "Early-Career Subsurface Modeler",
-        "active": false,
-        "date_updated": 1765469868,
-        "date_posted": 1758053076,
-        "url": "https://careers-geosyntec.icims.com/jobs/4105/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Newport Beach, CA",
-            "Ventura, CA",
-            "Santa Barbara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Geosyntec-Consultants",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "The Boeing Company",
         "id": "f64d8289-ecab-40ed-a5ad-49eb6e1c6677",
@@ -93647,24 +93588,6 @@
             "Mountain View, CA"
         ],
         "company_url": "https://simplify.jobs/c/MaticRobots",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Steampunk",
-        "id": "1c6d8e07-04c0-4f23-8204-0be3836156c3",
-        "title": "Data Engineer",
-        "active": false,
-        "date_updated": 1765506326,
-        "date_posted": 1758054605,
-        "url": "https://careers-steampunk.icims.com/jobs/6514/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "McLean, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Steampunk",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
