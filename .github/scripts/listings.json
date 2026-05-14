@@ -306813,7 +306813,7 @@
         "company_name": "Motorola",
         "id": "730477dc-023e-4e21-aa1a-3fa0813bafb5",
         "title": "Graduate Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1778076541,
         "date_posted": 1778076367,
         "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Glasgow-UK-ZUK118/Graduate-Software-Engineer_R62290",
@@ -312573,7 +312573,7 @@
         "company_name": "The Boeing Company",
         "id": "ad32f749-fdd4-4de6-a8c0-79a5548d6bcb",
         "title": "Entry Level Software Engineer-Simulation - Simulation",
-        "active": true,
+        "active": false,
         "date_updated": 1778508541,
         "date_posted": 1778508538,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Entry-Level-Software-Engineer-Simulation--Simulation-_JR2026508468-1",
@@ -314478,7 +314478,7 @@
         "company_name": "Remitly",
         "id": "a66c363c-44c8-4e39-8ddf-7d9738c872fb",
         "title": "Software Development Engineer 1 - Trust Orchestration Platform",
-        "active": false,
+        "active": true,
         "date_updated": 1778708369,
         "date_posted": 1778623510,
         "url": "https://remitly.wd5.myworkdayjobs.com/en-US/Remitly_Careers/job/Seattle-Washington-United-States/Software-Development-Engineer-I--Trust-Orchestration-Platform_R_106144",
@@ -316718,6 +316718,44 @@
             "Somerset County, NJ"
         ],
         "company_url": "https://simplify.jobs/c/SHI-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Sompo International Holdings",
+        "id": "d5abc3f7-4d23-4a19-923b-9743ddc3b28d",
+        "title": "Machine Learning Engineer 1",
+        "active": true,
+        "date_updated": 1778739598,
+        "date_posted": 1778738718,
+        "url": "https://endurance.wd103.myworkdayjobs.com/SompoInternational/job/Conshohocken-Pennsylvania/Machine-Learning-Engineer-I_R4012",
+        "locations": [
+            "Conshohocken, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Sompo-International-Holdings",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "6145bb59-e401-4dc3-9fe3-21e332862edf",
+        "title": "Systems Software Engineer",
+        "active": true,
+        "date_updated": 1778739481,
+        "date_posted": 1778739399,
+        "url": "https://jobs.apple.com/en-us/details/200663092",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
