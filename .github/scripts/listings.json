@@ -50504,24 +50504,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Community Health Systems",
-        "id": "0c1804f8-439e-480b-9118-e34628a78934",
-        "title": "Laboratory Information System Coordinator",
-        "active": false,
-        "date_updated": 1758051620,
-        "date_posted": 1758051620,
-        "url": "https://fa-evxo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/128409",
-        "locations": [
-            "Wasilla, AK"
-        ],
-        "company_url": "https://simplify.jobs/c/Community-Health-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "BNY",
         "id": "beb85000-e9bb-4d9f-8ff1-5ed1fd4953c7",
         "title": "BNY Analyst Program",
