@@ -99922,24 +99922,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "AmTrust Financial",
-        "id": "ce547041-ca8f-4f1c-9d79-b7217550ad93",
-        "title": "Technology Operations Specialist 1",
-        "active": false,
-        "date_updated": 1766013163,
-        "date_posted": 1758007090,
-        "url": "https://careers-amtrustgroup.icims.com/jobs/19657/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/AmTrust-Financial",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Jabil",
         "id": "b1a40253-dbf9-4da4-b220-1e9830dd05e0",
@@ -311122,7 +311104,7 @@
         "company_name": "Microchip Technology",
         "id": "4c100868-e669-4dce-ac3d-8e5537b9f54f",
         "title": "Engineer 1 - IT Systems",
-        "active": true,
+        "active": false,
         "date_updated": 1778202889,
         "date_posted": 1778202480,
         "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/AZ---Chandler/Engineer-I--IT-Systems_R1207-26",
