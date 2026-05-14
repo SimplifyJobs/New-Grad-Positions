@@ -310445,7 +310445,7 @@
         "company_name": "TRIMEDX",
         "id": "c4e4c9d8-9384-4a47-b7d4-c6859b87695e",
         "title": "Sterilization Technician 1",
-        "active": false,
+        "active": true,
         "date_updated": 1778193908,
         "date_posted": 1778191733,
         "url": "https://trimedx.wd1.myworkdayjobs.com/TMX/job/Springfield-MA/Sterilizer-Tech-I_R13964",
@@ -314308,7 +314308,7 @@
         "company_name": "AECOM",
         "id": "d46e5109-c4f9-445a-a615-6d9489be0bec",
         "title": "Digital Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1778710157,
         "date_posted": 1778710007,
         "url": "https://jobs.smartrecruiters.com/AECOM2/744000126337549",
@@ -315105,7 +315105,7 @@
         "source": "Simplify",
         "category": "Software",
         "company_name": "ServiceNow",
-        "id": "ce260f13-eca8-4ce4-b243-d56296546ce9",
+        "id": "b3ed9e95-62a3-4499-b1b0-38840f1f4711",
         "title": "Software Engineer - Agentic AI Systems - Moveworks",
         "active": true,
         "date_updated": 1778720941,
@@ -316586,5 +316586,25 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Veeva Systems",
+        "id": "c96fb54a-ddd5-4c45-82e2-cbf6bb2427e7",
+        "title": "Associate Product Manager - Vault CRM Suite",
+        "active": true,
+        "date_updated": 1778751361,
+        "date_posted": 1777338340,
+        "url": "https://jobs.lever.co/veeva/9a6eaa9b-0d86-4fd7-a687-17e70add8961/apply",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Veeva-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
