@@ -2,128 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Eventual",
-        "id": "c67c9cf7-d1ad-4821-8d52-84f64e1c1fb1",
-        "title": "Software Engineer \u2013 New Grad",
-        "active": true,
-        "date_updated": 1757981027,
-        "date_posted": 1757981027,
-        "url": "https://jobs.ashbyhq.com/eventualcomputing/becb5675-3480-4d2b-b126-2acad40fd088/application",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Eventual",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Duolingo",
-        "id": "5f3e1af0-e2a8-4a32-8fb3-10f6be2202ee",
-        "title": "Software Engineer \u2013 New Graduate",
-        "active": false,
-        "date_updated": 1757980951,
-        "date_posted": 1757980951,
-        "url": "https://careers.duolingo.com/jobs/8155283002?gh_jid=8155283002",
-        "locations": [
-            "Pittsburgh, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Duolingo",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Duolingo",
-        "id": "2e4edbe7-7a0b-4a89-98db-ff9a7fb2f31e",
-        "title": "Data Scientist \u2013 New Graduate",
-        "active": false,
-        "date_updated": 1757980930,
-        "date_posted": 1757980930,
-        "url": "https://careers.duolingo.com/jobs/8162849002?gh_jid=8162849002",
-        "locations": [
-            "Pittsburgh, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Duolingo",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Adobe",
-        "id": "01af92ec-a0ce-4dc0-85f1-7d23b922c704",
-        "title": "2026 University Graduate - Machine Learning Engineer",
-        "active": false,
-        "date_updated": 1757982543,
-        "date_posted": 1757982543,
-        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Machine-Learning-Engineer_R160137",
-        "locations": [
-            "SF",
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Adobe",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "RTX",
-        "id": "4f1bc12d-5eb6-44bd-88cb-172df1486e5e",
-        "title": "Raytheon Software Engineer I - Test Equipment",
-        "active": false,
-        "date_updated": 1761845388,
-        "date_posted": 1757982271,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/AZ201-RMS-AP-Bldg-801-1151-East-Hermans-Road-Building-801-Tucson-AZ-85756-USA/XMLNAME-2026-Fulltime-Raytheon-Software-Engineer-I---Test-Equipment---Onsite_01790414",
-        "locations": [
-            "Tucson, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Cisco",
-        "id": "804505e8-45ae-47fb-be62-547f0af246bf",
-        "title": "Ensoft \u2013 Early in Career /Graduate Software Engineering",
-        "active": false,
-        "date_updated": 1757981802,
-        "date_posted": 1757981802,
-        "url": "https://jobs.cisco.com/jobs/ProjectDetail/Ensoft-Early-in-Career-Graduate-Software-Engineering-UK/1450555",
-        "locations": [
-            "Welwyn Garden City, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Cisco",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Konrad Group",
         "id": "d55d7650-9731-450b-9ef2-e80cec498193",
         "title": "Software Developer Entry Level",
@@ -31967,7 +31845,7 @@
         "company_name": "Sierra",
         "id": "118cca3a-9763-4851-9187-de42ca3d0021",
         "title": "Apx \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1763123894,
         "date_posted": 1761911178,
         "url": "https://jobs.ashbyhq.com/Sierra/9738d0f0-13be-4e89-9fba-505e7cac288f/application",
@@ -51291,25 +51169,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "JP Morgan Chase",
-        "id": "5aa47902-af6c-4d3a-bcca-155598d84820",
-        "title": "Quant Operations Analyst",
-        "active": false,
-        "date_updated": 1757982627,
-        "date_posted": 1757982627,
-        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210661403",
-        "locations": [
-            "Boston, MA",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "ASM Global",
         "id": "acfb24c6-f8da-4cd2-b55c-c5511c069089",
@@ -51340,44 +51199,6 @@
             "Wheatland, CA"
         ],
         "company_url": "https://simplify.jobs/c/ASM-Global",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Duolingo",
-        "id": "6641b093-f815-41db-a5a3-f8aa98681c40",
-        "title": "AI Research Engineer \u2013 New PhD Graduate",
-        "active": false,
-        "date_updated": 1761861307,
-        "date_posted": 1757980926,
-        "url": "https://careers.duolingo.com/jobs/8169815002?gh_jid=8169815002",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Duolingo",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Duolingo",
-        "id": "4e4ec82d-222e-4a48-a188-97750953b062",
-        "title": "AI Research Engineer \u2013 New PhD Graduate",
-        "active": false,
-        "date_updated": 1761862957,
-        "date_posted": 1757980926,
-        "url": "https://careers.duolingo.com/jobs/8151163002?gh_jid=8151163002",
-        "locations": [
-            "Pittsburgh, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Duolingo",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -215582,7 +215403,7 @@
         "company_name": "Allstate Insurance Company",
         "id": "c493c31e-172c-4f7b-865a-0bc3b9de0fbc",
         "title": "Applied Machine Learning Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1772753293,
         "date_posted": 1772753293,
         "url": "https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/USA---IL-Remote/Applied-Machine-Learning-Engineer--All-Levels-_R27180-1",
@@ -227574,7 +227395,7 @@
         "company_name": "Pima County",
         "id": "a254df12-4f97-40fb-8f6e-97d88e1f1a4e",
         "title": "Data Analyst 1 - Justice Services",
-        "active": false,
+        "active": true,
         "date_updated": 1773385457,
         "date_posted": 1773385457,
         "url": "https://pimacounty.wd5.myworkdayjobs.com/pimacareers/job/Tucson-AZ/Data-Analyst-I---Justice-Services_JR103037",
@@ -258764,7 +258585,7 @@
         "company_name": "TIAA",
         "id": "84ced990-e812-4d3c-a05c-73f4a8313bb2",
         "title": "Seismic Marketing Manager",
-        "active": false,
+        "active": true,
         "date_updated": 1775084041,
         "date_posted": 1775081262,
         "url": "https://tiaa.wd1.myworkdayjobs.com/Search/job/Virtual-NY-USA/Seismic-Marketing-Manager_R260300601-1",
@@ -262496,7 +262317,7 @@
         "company_name": "The Boeing Company",
         "id": "e8a2e12b-0479-4124-a712-eec19f159f47",
         "title": "Spacecraft Software Engineer Associate Mid-Level",
-        "active": false,
+        "active": true,
         "date_updated": 1775257780,
         "date_posted": 1775254169,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Spacecraft-Software-Engineer--Associate-or-Mid-Level---Millennium-Space-Systems_JR2026504289-1",
@@ -266160,7 +265981,7 @@
         "company_name": "Schweitzer Engineering Laboratories",
         "id": "e1b6fc77-67ed-4e7a-bc7c-7a42c083c168",
         "title": "Associate Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1775516581,
         "date_posted": 1775513409,
         "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Associate-Software-Engineer_2026-20434",
@@ -283384,7 +283205,7 @@
         "company_name": "Uhaul",
         "id": "1b162205-fb7d-42a1-8332-12c81076b9ee",
         "title": "Senior Software Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1776388321,
         "date_posted": 1776388289,
         "url": "https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/Phoenix-Arizona/Senior-Software-Developer_R239934",
@@ -288597,7 +288418,7 @@
         "company_name": "ISN Software",
         "id": "f1a2a39b-349d-4de8-8f47-4b56136c5b3c",
         "title": "Associate Software Developer - Developer Support",
-        "active": false,
+        "active": true,
         "date_updated": 1776724921,
         "date_posted": 1776724092,
         "url": "https://isnetworld.com/en/about/careers/jobs?gh_jid=5977058004",
@@ -304817,7 +304638,7 @@
         "company_name": "KBR",
         "id": "16f9b1e8-e1f3-4621-93d7-73a6ebc8ca73",
         "title": "Associate Engineering Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1777933441,
         "date_posted": 1777932593,
         "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Lexington-Park-Maryland/Associate-Engineering-Technician_R2122916",
@@ -308002,7 +307823,7 @@
         "company_name": "Apple",
         "id": "9d37fe24-2fb9-4173-bb44-a136a6b79970",
         "title": "Wi-Fi Software Engineer - Wireless Technologies & Ecosystems",
-        "active": true,
+        "active": false,
         "date_updated": 1778078701,
         "date_posted": 1778076518,
         "url": "https://jobs.apple.com/en-us/details/200646833",
@@ -311139,7 +310960,7 @@
         "company_name": "TRIMEDX",
         "id": "c4e4c9d8-9384-4a47-b7d4-c6859b87695e",
         "title": "Sterilization Technician 1",
-        "active": true,
+        "active": false,
         "date_updated": 1778193908,
         "date_posted": 1778191733,
         "url": "https://trimedx.wd1.myworkdayjobs.com/TMX/job/Springfield-MA/Sterilizer-Tech-I_R13964",
@@ -311282,7 +311103,7 @@
         "company_name": "Iridium Communications",
         "id": "35bca7ac-3cb2-4d03-b63a-c26d0c0225eb",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1778191936,
         "date_posted": 1778191398,
         "url": "https://careers-iridium.icims.com/jobs/4940/job?mobile=true&needsRedirect=false",
@@ -314720,5 +314541,41 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Hawk-Eye Innovations",
+        "id": "cd631056-9eb9-4ce3-8b73-810681358883",
+        "title": "College Sports Systems Technician 2",
+        "active": true,
+        "date_updated": 1778706361,
+        "date_posted": 1778623754,
+        "url": "https://jobs.ashbyhq.com/hawkeyeinnovations/a178df2d-1b92-4a4b-ba62-50b721416628/application",
+        "locations": [
+            "Coralville, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/Hawk-Eye-Innovations",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Harness",
+        "id": "6c1a9bd4-0fb8-42c1-8edc-5c9e66de4264",
+        "title": "Full-Stack Software Engineer",
+        "active": true,
+        "date_updated": 1778710185,
+        "date_posted": 1778278094,
+        "url": "https://ats.rippling.com/harness-careers/jobs/05ce7384-3292-4851-8e41-b1c4bd14887d",
+        "locations": [
+            "Tampa, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Harness",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
