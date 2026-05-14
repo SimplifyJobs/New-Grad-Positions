@@ -1,150 +1,5 @@
 [
     {
-        "date_updated": 1758131507,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
-        "degrees": [],
-        "url": "https://ovative.wd12.myworkdayjobs.com/en-US/ovative/job/Minneapolis/Analyst--Data---Software-Engineering---October-2025-Start-Date_JR100105",
-        "company_name": "Ovative Group",
-        "title": "Analyst, Data & Software Engineering",
-        "locations": [
-            "Minneapolis, MN",
-            "Chicago, IL"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "1ea8396e-6674-42b5-9ac9-6d517d41e0e3",
-        "date_posted": 1758013545,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1762271843,
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "degrees": [],
-        "url": "https://job-boards.greenhouse.io/lucidsoftware/jobs/5585768004",
-        "company_name": "Lucid Software",
-        "title": "Software Engineer",
-        "locations": [
-            "Raleigh, NC"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "41a2bdf6-05a9-401d-abcf-5be538efabd1",
-        "date_posted": 1758014085,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1761554665,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": false,
-        "degrees": [],
-        "url": "https://careers.hireology.com/hireology2/2521103/description",
-        "company_name": "Hireology",
-        "title": "Associate Software Engineer",
-        "locations": [
-            "Remote in USA"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "868e299f-3e0c-4c9f-9c91-210959c9d657",
-        "date_posted": 1758014192,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1758325824,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "degrees": [],
-        "url": "https://costar.wd1.myworkdayjobs.com/en-US/Costar_Campus/job/US-CA-San-Diego/Associate-Software-Engineer---San-Diego--CA_R37014",
-        "company_name": "CoStar",
-        "title": "Associate Software Engineer",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "16e3b871-430c-4a27-bc7c-c1974f00f9ba",
-        "date_posted": 1758014260,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1758217981,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
-        "degrees": [],
-        "url": "https://jobs.baesystems.com/global/en/job/BAE1US115922BREXTERNAL/Engineering-Assistant-I-Software-Part-Time",
-        "company_name": "BAE Systems",
-        "title": "Engineering Assistant I \u2013 Software",
-        "locations": [
-            "Dayton, OH"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "7f6b6ee6-587a-4153-bc42-bf690973be38",
-        "date_posted": 1758014397,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1761845481,
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "degrees": [],
-        "url": "https://abglobal.wd1.myworkdayjobs.com/en-US/abcampuscareers/job/Nashville-Tennessee/Software-Development-Associate_R0016789-1",
-        "company_name": "AllianceBernstein",
-        "title": "Software Development Associate",
-        "locations": [
-            "Nashville, TN"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "cd1c1c00-ea77-4d5b-9c5b-43860adecad1",
-        "date_posted": 1758014494,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1758246608,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
-        "degrees": [],
-        "url": "https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Melbourne-FL/Software-Engineer--Apps--I_5898",
-        "company_name": "AV",
-        "title": "Software Engineer (Apps) I",
-        "locations": [
-            "Melbourne, FL"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "53d695c1-168b-48c8-bbce-913151121523",
-        "date_posted": 1758014556,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1761845462,
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "degrees": [],
-        "url": "https://job-boards.greenhouse.io/lucidsoftware/jobs/5585759004",
-        "company_name": "Lucid Software",
-        "title": "Software Engineer",
-        "locations": [
-            "Salt Lake City, UT"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "557c44de-08df-4bd6-ae98-0c427addb77b",
-        "date_posted": 1758014662,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "source": "Simplify",
         "category": "Software",
         "company_name": "Peraton",
@@ -312333,7 +312188,7 @@
         "company_name": "Spotify",
         "id": "3e73dec1-88b2-4a53-be1a-a3dc74f82056",
         "title": "Machine Learning Engineer 1 - Personalization - Minesweeper",
-        "active": true,
+        "active": false,
         "date_updated": 1778479902,
         "date_posted": 1778479497,
         "url": "https://jobs.lever.co/spotify/fd79c3f5-1b2c-47c0-a3c6-4972b559e1c1/apply",
@@ -316636,6 +316491,26 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "NASA Jet Propulsion Laboratory (JPL)",
+        "id": "b176a732-21f7-4ba4-87eb-a989e9b4b782",
+        "title": "Postdoc: Radar Remote Sensing of Landslides and Vertical Land Motion - OPERA Project",
+        "active": true,
+        "date_updated": 1778750281,
+        "date_posted": 1778750145,
+        "url": "https://citjpl.wd5.myworkdayjobs.com/Jobs/job/JPL-Campus/Postdoc--Radar-Remote-Sensing-of-Landslides-and-Vertical-Land-Motion--OPERA-Project--1_R5487",
+        "locations": [
+            "Pasadena, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NASA-JPL",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
         ]
     }
 ]
