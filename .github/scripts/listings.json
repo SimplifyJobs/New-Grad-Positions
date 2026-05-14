@@ -257594,7 +257594,7 @@
         "company_name": "Jabil",
         "id": "69c982fb-aa68-4f88-b14f-defbc7ec6cbe",
         "title": "Diagnostic Technician 1",
-        "active": true,
+        "active": false,
         "date_updated": 1775054314,
         "date_posted": 1775052510,
         "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Florence-KY/Diagnostic-Technician-I_J2445087",
@@ -283800,7 +283800,7 @@
         "company_name": "Nidec",
         "id": "8176eea8-0f0a-4a5b-8ab5-8a8a9e1c9671",
         "title": "Testing Technician 1",
-        "active": false,
+        "active": true,
         "date_updated": 1776464216,
         "date_posted": 1776463691,
         "url": "https://nidec.wd1.myworkdayjobs.com/nidec/job/North-AmericaUSACaliforniaRancho-Cordova-CA/Testing-Technician-I_R0015332",
@@ -314601,7 +314601,7 @@
         "company_name": "LexisNexis Risk Solutions",
         "id": "a4c5ddfc-a6c4-43f6-b91b-60feba0c95e4",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1778710908,
         "date_posted": 1778710142,
         "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Boca-Raton-FL/Software-Engineer-I_R113139-1",
@@ -316601,6 +316601,86 @@
             "Boston, MA"
         ],
         "company_url": "https://simplify.jobs/c/Veeva-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Prudential Financial",
+        "id": "0cf20c09-6b96-455a-950c-558cfcbdee44",
+        "title": "Data Analyst - Process Management",
+        "active": true,
+        "date_updated": 1778768641,
+        "date_posted": 1778767748,
+        "url": "https://pru.wd5.myworkdayjobs.com/Careers/job/Letterkenny-Ireland/Data-Analyst---Process-Management--12-Month-FTC----PGIM-Ireland_R-124338-1",
+        "locations": [
+            "Londonderry, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Prudential-Financial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Cambridge Associates",
+        "id": "85fe873c-9e9f-4b06-8511-3ad90af4d79f",
+        "title": "Investment Analyst - Secondaries",
+        "active": true,
+        "date_updated": 1778767741,
+        "date_posted": 1778767591,
+        "url": "https://cambridgeassociates.wd5.myworkdayjobs.com/Handshake/job/Boston/Investment-Analyst--Secondaries_JR0000242-1",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cambridge-Associates",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Cambridge Associates",
+        "id": "edad2ffb-ea0b-40cd-ac68-8ce7ff0b57fe",
+        "title": "Investment Analyst - Secondaries",
+        "active": true,
+        "date_updated": 1778767741,
+        "date_posted": 1778767589,
+        "url": "https://cambridgeassociates.wd5.myworkdayjobs.com/Cambridge_Associates/job/Boston/Investment-Analyst--Secondaries_JR0000242-2",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cambridge-Associates",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "PGIM",
+        "id": "86f04dd0-d6f4-4e46-92c8-e3bb361f7ee6",
+        "title": "Data Analyst - Process Management",
+        "active": true,
+        "date_updated": 1778767741,
+        "date_posted": 1778767566,
+        "url": "https://pru.wd5.myworkdayjobs.com/pgim_careers/job/Letterkenny-Ireland/Data-Analyst---Process-Management--12-Month-FTC----PGIM-Ireland_R-124338",
+        "locations": [
+            "Londonderry, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/PGIM",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
