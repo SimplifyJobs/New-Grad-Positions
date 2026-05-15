@@ -49791,24 +49791,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Ohio State University",
-        "id": "6e79c969-76da-455d-b936-31b5c3e17ff6",
-        "title": "Assistant Professor of Syntax and Artificial Intelligence",
-        "active": false,
-        "date_updated": 1758381763,
-        "date_posted": 1758147770,
-        "url": "https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Columbus-Campus/Assistant-Professor-of-Syntax-and-Artificial-Intelligence_R137543-1",
-        "locations": [
-            "Columbus, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Ohio-State-University",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Halifax Health",
         "id": "fd4a461b-9a6a-4595-9ab8-4916380d33fe",
@@ -76038,7 +76020,7 @@
         "company_name": "Astemo",
         "id": "3fced05e-6364-4fa1-9cc4-0c35bba540e4",
         "title": "Analysis Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1764285084,
         "date_posted": 1764285084,
         "url": "https://astemo.wd102.myworkdayjobs.com/Global_Career_Site/job/Greenfield-Indiana-United-States-of-America/Analysis-Engineer-I_J0048944",
@@ -275215,7 +275197,7 @@
         "company_name": "TSC",
         "id": "7baa44cd-7544-48ac-851a-ac7a599c18cd",
         "title": "Electrical/Computer Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1776120419,
         "date_posted": 1776117872,
         "url": "https://tsc.wd12.myworkdayjobs.com/en-US/TSC-Careers/job/Huntsville-AL/Electrical-Computer-Software-Engineer-I_JR2508",
@@ -307414,7 +307396,7 @@
         "company_name": "Astemo",
         "id": "9f10ab60-b811-4e40-a3f3-bf4e48431753",
         "title": "Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1778105356,
         "date_posted": 1778105193,
         "url": "https://astemo.wd102.myworkdayjobs.com/Global_Career_Site/job/Harrodsburg-Kentucky-United-States/Engineer-1_J0050352",
@@ -317837,6 +317819,106 @@
             "Baltimore, MD"
         ],
         "company_url": "https://simplify.jobs/c/KCI-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University System of New Hampshire",
+        "id": "4416afb5-03fb-43d6-b199-123ff2589ecd",
+        "title": "Snowpack Data Analyst",
+        "active": true,
+        "date_updated": 1778883481,
+        "date_posted": 1778882722,
+        "url": "https://usnh.wd5.myworkdayjobs.com/Careers/job/Plymouth-State-University/Snowpack-Data-Analyst_JR7834-1",
+        "locations": [
+            "Hanover, NH"
+        ],
+        "company_url": "https://simplify.jobs/c/University-System-Of-New-Hampshire",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Callaway Golf",
+        "id": "4f8a466f-b5a5-4b69-8beb-ed7348031cfa",
+        "title": "Associate Prototype Technician",
+        "active": true,
+        "date_updated": 1778882941,
+        "date_posted": 1778882938,
+        "url": "https://tcbrands.wd1.myworkdayjobs.com/callaway-careers/job/CGC---HQ---Carlsbad/Associate-Prototype-Technician_JR2023-15898",
+        "locations": [
+            "Carlsbad, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Callaway-Golf",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Orion",
+        "id": "8ccf0d48-597c-4aed-9823-cce966179087",
+        "title": "Qualified Plan Trading Specialist",
+        "active": true,
+        "date_updated": 1778882941,
+        "date_posted": 1778882778,
+        "url": "https://orionadvisor.wd1.myworkdayjobs.com/Orion_Careers/job/Greater-Omaha-Area/Qualified-Plan-Trading-Specialist_R2717",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Orion",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Morgan Lewis",
+        "id": "4ecb698e-e9f5-4175-bec8-7df41fe69925",
+        "title": "Payroll Data Analytics Specialist",
+        "active": true,
+        "date_updated": 1778883371,
+        "date_posted": 1778882852,
+        "url": "https://morganlewis.wd5.myworkdayjobs.com/morganlewis/job/Philadelphia-Pennsylvania/Specialist--Payroll-Data-Analytics_R4027",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Morgan-Lewis",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CACI",
+        "id": "c4099b86-3960-4c32-9fd1-f2df68537b4d",
+        "title": "Junior C# Software Engineer",
+        "active": true,
+        "date_updated": 1778882941,
+        "date_posted": 1778320940,
+        "url": "https://caci.wd1.myworkdayjobs.com/external/job/Bethesda-MD-US/Junior-C--Software-Engineer_324627",
+        "locations": [
+            "Bethesda, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
