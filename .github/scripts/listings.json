@@ -79090,7 +79090,7 @@
         "company_name": "NVIDIA",
         "id": "30612f5b-226b-4ab8-9610-ae2ae82ca2a0",
         "title": "Developer Technology Engineer \u2013 New College Grad - Public Sector",
-        "active": true,
+        "active": false,
         "date_updated": 1764565831,
         "date_posted": 1764565831,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Engineer--Public-Sector---New-College-Grad-2026_JR2008990",
@@ -277708,7 +277708,7 @@
         "company_name": "Trend Micro",
         "id": "fa9968d7-39d1-4709-8f6c-d322caaa3bde",
         "title": "Applied AI Backend Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1776206713,
         "date_posted": 1776204511,
         "url": "https://trendmicro.wd3.myworkdayjobs.com/External/job/Ottawa/Applied-AI-Backend-Software-Developer_R0009496",
@@ -312046,7 +312046,7 @@
         "company_name": "Teledyne",
         "id": "40ffa63a-9ec3-4832-867f-0f7a77b07fad",
         "title": "Engineering Technician 1",
-        "active": false,
+        "active": true,
         "date_updated": 1778536981,
         "date_posted": 1778536933,
         "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/Engineering-Technician-1_REQ34745",
@@ -317648,6 +317648,109 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Field AI",
+        "id": "fd2b7ca0-58e9-4f80-8d96-b384d401bf1e",
+        "title": "Field Data Analyst",
+        "active": true,
+        "date_updated": 1778807341,
+        "date_posted": 1778807237,
+        "url": "https://jobs.lever.co/field-ai/acfba278-5f04-4639-ae26-c85e607eebce/apply",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Field-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Salesforce",
+        "id": "952c0c24-ff43-4e41-9d6c-5a9d110d6d72",
+        "title": "Associate Product Manager",
+        "active": true,
+        "date_updated": 1778807695,
+        "date_posted": 1778807202,
+        "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Associate-Product-Manager_JR342739-1",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Salesforce",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "4d13318b-fed9-4599-9669-87364b53b1f0",
+        "title": "Graduate Machine Learning Engineer - Local Services Search",
+        "active": true,
+        "date_updated": 1778807726,
+        "date_posted": 1778807496,
+        "url": "https://lifeattiktok.com/search/7639861897214773509",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Western Digital",
+        "id": "b278496b-e98d-485e-b9f2-d14b9bc4ffef",
+        "title": "Software Engineer - Apps",
+        "active": true,
+        "date_updated": 1778807168,
+        "date_posted": 1778807101,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000126594220",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Digital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "NVIDIA",
+        "id": "32659ea8-8393-4c4f-a36d-1a066a56d685",
+        "title": "Software R&D Engineer New Grad - VLSI Physical Design",
+        "active": true,
+        "date_updated": 1778807672,
+        "date_posted": 1778807371,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/Software-R-D-Engineer--VLSI-Physical-Design---New-College-Grad-2026_JR2018183",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
         ]
     }
 ]
