@@ -65171,7 +65171,7 @@
         "company_name": "Cisco",
         "id": "d429909a-8374-4fde-afa9-c1fb684e2b9d",
         "title": "Software Engineer 2 - Full Stack and Application Development",
-        "active": true,
+        "active": false,
         "date_updated": 1763664387,
         "date_posted": 1763664387,
         "url": "https://careers.cisco.com/global/en/job/2000127",
@@ -255029,7 +255029,7 @@
         "company_name": "Western Digital",
         "id": "c3e530a6-82f8-4c6a-a2d3-31c01c6bd3b2",
         "title": "Electronics Design Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1775001602,
         "date_posted": 1774994642,
         "url": "https://jobs.smartrecruiters.com/WesternDigital/744000117943417",
@@ -294084,7 +294084,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "f6330022-551c-4e0a-a098-747bdf19dd1a",
         "title": "Fixed Income Trading Analyst - Early Careers",
-        "active": false,
+        "active": true,
         "date_updated": 1777021561,
         "date_posted": 1777021387,
         "url": "https://careers-sig.icims.com/jobs/10827/job?mobile=true&needsRedirect=false",
@@ -315210,7 +315210,7 @@
         "company_name": "Trackforce",
         "id": "978cd988-6eea-4e6e-a720-a747bdc46bc8",
         "title": "Product Manager - Workforce Management",
-        "active": true,
+        "active": false,
         "date_updated": 1778709061,
         "date_posted": 1778681030,
         "url": "https://jobs.lever.co/tracktik/b7756fb2-0ef7-4437-b1fc-46e0f5faba39/apply",
@@ -315634,7 +315634,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "94864550-b0e6-450c-8d40-ffb7bd29fb33",
         "title": "Entry Level Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1778710701,
         "date_posted": 1778710071,
         "url": "https://careers-gdms.icims.com/jobs/72599/job?mobile=true&needsRedirect=false",
@@ -317791,6 +317791,26 @@
             "PhD",
             "JD",
             "MD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Corpay",
+        "id": "f033c9ba-e4b8-4c07-9612-dd3c45e01125",
+        "title": "Graduate Software Engineer",
+        "active": true,
+        "date_updated": 1778836813,
+        "date_posted": 1778836676,
+        "url": "https://corpay.wd103.myworkdayjobs.com/en-US/ext_001/job/London-The-Point---Cross-Border/Graduate-Software-Engineer_R08249",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Corpay",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
