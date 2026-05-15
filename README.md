@@ -1344,7 +1344,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (1249)</summary>
+<summary>🗃️ Inactive roles (1248)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -8852,42 +8852,42 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Engineer I - Software (FPGA Place and Route)</td>
 <td>San Jose, CA</td>
 <td>🔒</td>
-<td>6mo</td>
+<td>7mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/CACI?utm_source=GHList&utm_medium=company">CACI</a></strong></td>
 <td>Junior Software Developer 🇺🇸</td>
 <td>Remote</br>Washington, DC</td>
 <td>🔒</td>
-<td>6mo</td>
+<td>7mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Centene?utm_source=GHList&utm_medium=company">Centene</a></strong></td>
 <td>Cloud Platform Engineer I</td>
 <td><details><summary><strong>5 locations</strong></summary>Remote in MO</br>Remote in GA</br>Remote in TN</br>Remote in FL</br>Remote in SC</details></td>
 <td>🔒</td>
-<td>6mo</td>
+<td>7mo</td>
 </tr>
 <tr>
 <td><strong>Delta Solutions & Strategies</strong></td>
 <td>Junior Software Engineer</td>
 <td>Colorado Springs, CO</td>
 <td>🔒</td>
-<td>6mo</td>
+<td>7mo</td>
 </tr>
 <tr>
 <td><strong>Jabil</strong></td>
 <td>Associate Cloud Engineer</td>
 <td>St. Petersburg, FL</br>Tampa, FL</td>
 <td>🔒</td>
-<td>6mo</td>
+<td>7mo</td>
 </tr>
 <tr>
 <td><strong>Groundswell</strong></td>
 <td>Technical Consultant</td>
 <td>McLean, VA</td>
 <td>🔒</td>
-<td>6mo</td>
+<td>7mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/EVgo?utm_source=GHList&utm_medium=company">EVgo</a></strong></td>
@@ -10090,13 +10090,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>↳</td>
 <td>Entry Level - C Software Developer</td>
 <td>Tampa, FL</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
-<td>Software Engineer I</td>
-<td>San Jose, CA</td>
 <td>🔒</td>
 <td>7mo</td>
 </tr>
@@ -12433,35 +12426,35 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Data Analyst I - GIS</td>
 <td>Madison, WI</td>
 <td>🔒</td>
-<td>6mo</td>
+<td>7mo</td>
 </tr>
 <tr>
 <td><strong>Tencent</strong></td>
 <td>Junior AI Software Engineer 🎓</td>
 <td>Palo Alto, CA</td>
 <td>🔒</td>
-<td>6mo</td>
+<td>7mo</td>
 </tr>
 <tr>
 <td><strong>Capco</strong></td>
 <td>Junior AI Engineer</td>
 <td>Orlando, FL</br>Hybrid</td>
 <td>🔒</td>
-<td>6mo</td>
+<td>7mo</td>
 </tr>
 <tr>
 <td><strong>Corebridge Financial</strong></td>
 <td>Entry Level – Data Scientist</td>
 <td>Houston, TX</br>Woodland Hills, CA</br>Jersey City, NJ</td>
 <td>🔒</td>
-<td>6mo</td>
+<td>7mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Google?utm_source=GHList&utm_medium=company">🔥 Google</a></strong></td>
 <td>Software Engineer II, Early Career - Google Cloud AI Catalyst Program</td>
 <td>Sunnyvale, CA</br>Kirkland, WA</br>Seattle, WA</td>
 <td>🔒</td>
-<td>6mo</td>
+<td>7mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/TD-Bank?utm_source=GHList&utm_medium=company">TD Bank</a></strong></td>
@@ -15178,7 +15171,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>7mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Ciena?utm_source=GHList&utm_medium=company">Ciena</a></strong></td>
 <td>Software Engineer Packet Platform – New Grad</td>
 <td>Ottawa, ON, Canada</td>
 <td>🔒</td>
