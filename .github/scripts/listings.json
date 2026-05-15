@@ -309491,7 +309491,7 @@
         "company_name": "Highmark Health",
         "id": "07a75816-463e-4966-843e-e58dbb80d5b6",
         "title": "Data Solutions Analyst Associate - Medicaid Clinical Reporting",
-        "active": false,
+        "active": true,
         "date_updated": 1778193884,
         "date_posted": 1778191589,
         "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Associate-Data-Solutions-Analyst---Medicaid-Clinical-Reporting_J280721",
@@ -314503,7 +314503,7 @@
         "source": "Simplify",
         "category": "Software",
         "company_name": "ServiceNow",
-        "id": "b3ed9e95-62a3-4499-b1b0-38840f1f4711",
+        "id": "ce260f13-eca8-4ce4-b243-d56296546ce9",
         "title": "Software Engineer - Agentic AI Systems - Moveworks",
         "active": true,
         "date_updated": 1778720941,
@@ -317832,6 +317832,104 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Snap Finance",
+        "id": "ef6899e4-9bed-4082-b6f3-dddb70c0b809",
+        "title": "Full-Stack Developer 1",
+        "active": true,
+        "date_updated": 1778854290,
+        "date_posted": 1778853901,
+        "url": "https://snapfinance.wd1.myworkdayjobs.com/snap_external_careers/job/Arizona/Full---Stack-Developer-I_R-2775-1",
+        "locations": [
+            "Arizona"
+        ],
+        "company_url": "https://simplify.jobs/c/3be8000e-c16e-4e18-a0d2-8af3b53e6f02",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "JP Morgan Chase",
+        "id": "3263925e-08ea-4a44-af44-6f352ca3e56e",
+        "title": "MBS TBA Trading Analyst - MBS Trading",
+        "active": true,
+        "date_updated": 1778854244,
+        "date_posted": 1778853909,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210748820",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "WSP",
+        "id": "c6d72504-c45d-4e3a-9d24-7420bb8aecf8",
+        "title": "Assistant Data Analyst",
+        "active": true,
+        "date_updated": 1778854501,
+        "date_posted": 1778854334,
+        "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/87106",
+        "locations": [
+            "Birmingham, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/WSP",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Carrier Global",
+        "id": "c65f6fe1-cb3b-47d4-9969-4de3d2a696b1",
+        "title": "Mobile Application Developer - Smart Home",
+        "active": true,
+        "date_updated": 1778854321,
+        "date_posted": 1778854236,
+        "url": "https://carrier.wd5.myworkdayjobs.com/jobs/job/CAGAO-Carrier-Home-Georgia-Remote-Location-Remote-City-GA-30303-USA/Mobile-Application-Developer---Smart-Home_30205643",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Carrier-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "DMI",
+        "id": "72e322a8-7bb6-4226-b521-9f7b0d21430e",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1778853961,
+        "date_posted": 1778853872,
+        "url": "https://careers-dminc.icims.com/jobs/28734/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/DMI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
