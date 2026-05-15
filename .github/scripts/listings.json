@@ -317841,5 +317841,26 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "KCI Technologies",
+        "id": "2ede5b0f-c1be-4395-b84a-7cefcd671fff",
+        "title": "Software Engineer Associate",
+        "active": true,
+        "date_updated": 1778228690,
+        "date_posted": 1772579380,
+        "url": "https://careers-kci.icims.com/jobs/7401/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Sparks, MD",
+            "Baltimore, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/KCI-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
