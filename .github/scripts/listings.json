@@ -125231,7 +125231,7 @@
         "company_name": "O'Reilly Auto Parts",
         "id": "829bbb1a-bb6d-4f45-bc31-d6c0c90b731e",
         "title": "Electronic Catalog Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1768236108,
         "date_posted": 1768236108,
         "url": "https://oreillyauto.wd1.myworkdayjobs.com/oreilly/job/Regional-Office-PHX/Electronic-Catalog-Technician-1_R158616",
@@ -212507,7 +212507,7 @@
         "company_name": "Stryker",
         "id": "99ffeecb-8a1d-418c-98b1-14ae87e80bac",
         "title": "Associate Installation Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1772680387,
         "date_posted": 1772680387,
         "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Des-Moines-Iowa/Associate-Installation-Technician---Des-Moines--IA---Omaha--NE_R559950",
@@ -261242,7 +261242,7 @@
         "company_name": "JP Morgan Chase",
         "id": "bfb3a855-b976-43d7-a625-816da53c81e1",
         "title": "Data Scientist Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1775257381,
         "date_posted": 1775254207,
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210728426",
@@ -262437,7 +262437,7 @@
         "company_name": "Intertek",
         "id": "df0c893c-4a1f-416d-b0c5-510dd23e9410",
         "title": "Technician 1 - Thermal Testing - We will Train",
-        "active": true,
+        "active": false,
         "date_updated": 1775296802,
         "date_posted": 1772676508,
         "url": "https://hcog.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/13186",
@@ -307481,7 +307481,7 @@
         "company_name": "PNC Financial Services",
         "id": "186e7735-f0b5-469a-bf3d-7c06b315a2c6",
         "title": "Software Engineer Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1778106357,
         "date_posted": 1778105412,
         "url": "https://pnc.wd5.myworkdayjobs.com/External/job/OH---Strongsville/Software-Engineer-Associate_R219834-1",
@@ -312042,7 +312042,7 @@
         "company_name": "Travelers",
         "id": "daaff4fc-3b64-49b6-addb-79653dc87519",
         "title": "Software Engineer 1 - Investments Technology",
-        "active": true,
+        "active": false,
         "date_updated": 1778538307,
         "date_posted": 1778537205,
         "url": "https://travelers.wd5.myworkdayjobs.com/External/job/MN---St-Paul/Software-Engineer-I---Investments-Technology_R-50406",
@@ -317926,6 +317926,66 @@
             "Cincinnati, OH"
         ],
         "company_url": "https://simplify.jobs/c/DMI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Trinity Park Talent",
+        "id": "0220e84d-6751-4e67-a58f-af647d6a262c",
+        "title": "Saturn Five Investment Analyst",
+        "active": true,
+        "date_updated": 1778854300,
+        "date_posted": 1778853952,
+        "url": "https://job-boards.greenhouse.io/trinityparktalent/jobs/8551396002",
+        "locations": [
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Trinity-Park-Talent",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Vizient ",
+        "id": "6eaf5826-ab81-46e0-9b9f-79aa58417280",
+        "title": "Associate AI/ML Engineer",
+        "active": true,
+        "date_updated": 1778854141,
+        "date_posted": 1778854125,
+        "url": "https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Edina-MN-55435/Associate-AI-ML-Engineer_33536R",
+        "locations": [
+            "Hopkins, MN",
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/85ed65fb-d411-473a-a950-b4d5c8ad7bdf",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Peraton",
+        "id": "c34621df-0e12-4993-9438-abd85dc5721a",
+        "title": "Business AI & Automation Analyst",
+        "active": true,
+        "date_updated": 1778853961,
+        "date_posted": 1778853911,
+        "url": "https://careers-peraton.icims.com/jobs/166007/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Blacksburg, VA",
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Peraton",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
