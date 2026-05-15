@@ -55717,7 +55717,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "4b1bda7c-4e81-4252-b017-347c603d1df4",
         "title": "Quantitative Systematic Trader",
-        "active": false,
+        "active": true,
         "date_updated": 1763163780,
         "date_posted": 1763051782,
         "url": "https://careers-sig.icims.com/jobs/9439/job?mobile=true&needsRedirect=false",
@@ -55755,7 +55755,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "6adb7270-df23-45cc-bb13-68784e42c0d5",
         "title": "Quantitative Researcher - Master's: 2026",
-        "active": false,
+        "active": true,
         "date_updated": 1763163779,
         "date_posted": 1759769813,
         "url": "https://careers-sig.icims.com/jobs/9437/job?mobile=true&needsRedirect=false",
@@ -225951,7 +225951,7 @@
         "company_name": "Secureframe",
         "id": "3f94d282-4523-424c-8450-0e34874128ab",
         "title": "Graduate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773364658,
         "date_posted": 1773364658,
         "url": "https://jobs.lever.co/secureframe/29ff0477-faeb-44d6-abb3-8e894fc92a22/apply",
@@ -241716,7 +241716,7 @@
         "company_name": "Alertus Technologies",
         "id": "43ae95ec-4bbc-4eb5-9e77-2d6b981e639b",
         "title": "Product Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1774344086,
         "date_posted": 1764641760,
         "url": "https://jobs.lever.co/alertus/50c05baf-4591-40eb-9fc1-d4b7abf6c3c0/apply",
@@ -244839,7 +244839,7 @@
         "company_name": "Keysight Technologies",
         "id": "512194ad-90fd-44b2-9f2f-12e9f1699cd4",
         "title": "R&D Engineer - Signal Processing & Measurement Software",
-        "active": false,
+        "active": true,
         "date_updated": 1774476428,
         "date_posted": 1774476428,
         "url": "https://jobs.keysight.com/jobs/52097?lang=en-us&icims=1",
@@ -317897,6 +317897,31 @@
             "Bachelor's",
             "Master's",
             "MBA"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Hearst",
+        "id": "4c018bad-99fd-4379-b66c-d1e3285be982",
+        "title": "Data Insights Specialist",
+        "active": true,
+        "date_updated": 1778834341,
+        "date_posted": 1767223173,
+        "url": "https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2025716",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Hearst",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "PhD",
+            "JD",
+            "MD"
         ]
     }
 ]
