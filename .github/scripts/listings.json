@@ -159017,7 +159017,7 @@
         "company_name": "Medpace, Inc.",
         "id": "23c3f668-098e-4f24-a412-52544831bb78",
         "title": "Business Intelligence Analyst - Data Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1770131359,
         "date_posted": 1770131359,
         "url": "https://careers.medpace.com/jobs/12564?lang=en-us&icims=1",
@@ -303164,7 +303164,7 @@
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "SOCOTEC Global",
-        "id": "23f03407-c56c-4d56-a091-ac0717e7ec6b",
+        "id": "c4ef73cb-4c47-4f54-a1e8-12a0e7aa3b9f",
         "title": "Applied AI Engineer",
         "active": true,
         "date_updated": 1777903921,
@@ -317855,6 +317855,48 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Susquehanna International Group (SIG)",
+        "id": "3c23026b-e562-42db-8a51-e443977cf853",
+        "title": "Associate Linux/Windows Engineer New Grad",
+        "active": true,
+        "date_updated": 1778834069,
+        "date_posted": 1778709943,
+        "url": "https://careers-sig.icims.com/jobs/9408/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Ardmore, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Susquehanna",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Crane Co.",
+        "id": "7329d8e9-b828-458f-a85d-0a03844c0bd6",
+        "title": "Senior Product Manager",
+        "active": true,
+        "date_updated": 1778836002,
+        "date_posted": 1777714001,
+        "url": "https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Piqua-Ohio/Product-Sales-Manager_JR100393",
+        "locations": [
+            "Vandalia, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Crane-Co",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA"
         ]
     }
 ]
