@@ -5,9 +5,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/New-Grad-Positions/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
 ---
-### Browse 301 New Grad Roles by Category
+### Browse 300 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (182)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (181)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (5)
 
@@ -210,13 +210,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Engineer 1</td>
 <td>Concord, MA</br>Tewksbury, MA</td>
 <td><div align="center"><a href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/XMLNAME-2026--Raytheon-Full-Time--Software-Engineer-I---Onsite-_01844143?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/f225c8db-ef83-4177-8103-82527f9ab6ab?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>3d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Travelers?utm_source=GHList&utm_medium=company">Travelers</a></strong></td>
-<td>Software Engineer 1 - Investments Technology</td>
-<td>Hartford, CT</br>St Paul, MN</td>
-<td><div align="center"><a href="https://travelers.wd5.myworkdayjobs.com/External/job/MN---St-Paul/Software-Engineer-I---Investments-Technology_R-50406?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/daaff4fc-3b64-49b6-addb-79653dc87519?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
 <td>3d</td>
 </tr>
 <tr>
@@ -1358,7 +1351,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (1248)</summary>
+<summary>🗃️ Inactive roles (1249)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -1403,6 +1396,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><strong><a href="https://simplify.jobs/c/d12e128c-67fc-4f21-b1de-d239e884bafa?utm_source=GHList&utm_medium=company">Mintel</a></strong></td>
 <td>Software Engineer 1</td>
 <td>Chicago, IL</td>
+<td>🔒</td>
+<td>3d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Travelers?utm_source=GHList&utm_medium=company">Travelers</a></strong></td>
+<td>Software Engineer 1 - Investments Technology</td>
+<td>Hartford, CT</br>St Paul, MN</td>
 <td>🔒</td>
 <td>3d</td>
 </tr>
@@ -6094,7 +6094,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>DGX Cloud Performance Engineer 🎓</td>
 <td><details><summary><strong>4 locations</strong></summary>Santa Clara, CA</br>Remote in TX</br>Remote in WA</br>Remote in CA</details></td>
 <td>🔒</td>
-<td>4mo</td>
+<td>5mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Intuit?utm_source=GHList&utm_medium=company">Intuit</a></strong></td>
@@ -11019,7 +11019,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Data Scientist I 🛂</td>
 <td>Englewood, CO</td>
 <td>🔒</td>
-<td>28d</td>
+<td>29d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/TD-Bank?utm_source=GHList&utm_medium=company">TD Bank</a></strong></td>
