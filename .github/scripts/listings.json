@@ -49829,24 +49829,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Peraton",
-        "id": "ec7fe2e9-c4d2-4e39-9305-0fd8b0989857",
-        "title": "Postal Central Repair Facility Pipeline Openings",
-        "active": false,
-        "date_updated": 1758139499,
-        "date_posted": 1758139499,
-        "url": "https://careers-peraton.icims.com/jobs/159828/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Topeka, KS"
-        ],
-        "company_url": "https://simplify.jobs/c/Peraton",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Halifax Health",
         "id": "fd4a461b-9a6a-4595-9ab8-4916380d33fe",
@@ -136253,26 +136235,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "KCI Technologies",
-        "id": "2ede5b0f-c1be-4395-b84a-7cefcd671fff",
-        "title": "Associate Software Engineer",
-        "active": true,
-        "date_updated": 1768922439,
-        "date_posted": 1758139376,
-        "url": "https://careers-kci.icims.com/jobs/7401/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/KCI-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
