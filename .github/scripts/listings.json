@@ -300004,7 +300004,7 @@
         "company_name": "Western Digital",
         "id": "678b8d7f-ebd1-46c2-810e-369033816a7e",
         "title": "Software Engineer - Apps",
-        "active": true,
+        "active": false,
         "date_updated": 1777586761,
         "date_posted": 1777586631,
         "url": "https://jobs.smartrecruiters.com/WesternDigital/744000124012539",
@@ -314516,7 +314516,7 @@
         "company_name": "StubHub",
         "id": "692b632d-a360-446c-94cb-6f21e5874369",
         "title": "Data Scientist 2",
-        "active": true,
+        "active": false,
         "date_updated": 1778710339,
         "date_posted": 1778709858,
         "url": "https://job-boards.eu.greenhouse.io/stubhubinc/jobs/4866265101",
@@ -317423,7 +317423,7 @@
         "company_name": "Western Digital",
         "id": "d3dfea1b-c649-4bb7-a956-377922e3f9be",
         "title": "Software Engineer - Apps & Firmware",
-        "active": true,
+        "active": false,
         "date_updated": 1778807168,
         "date_posted": 1778807100,
         "url": "https://jobs.smartrecruiters.com/WesternDigital/744000126593979",
@@ -317543,7 +317543,7 @@
         "company_name": "Western Digital",
         "id": "a2003641-d13a-4cc7-8890-26597ba1e1dd",
         "title": "Ph.D. Interface Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1778807168,
         "date_posted": 1778807100,
         "url": "https://jobs.smartrecruiters.com/WesternDigital/744000126593460",
@@ -317836,5 +317836,25 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Susquehanna International Group (SIG)",
+        "id": "09fc2ac8-35df-4d72-8980-c6859f856d67",
+        "title": "Quantitative Strategy Developer New Grad",
+        "active": true,
+        "date_updated": 1778832568,
+        "date_posted": 1768956292,
+        "url": "https://careers-sig.icims.com/jobs/9531/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Ardmore, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Susquehanna",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
