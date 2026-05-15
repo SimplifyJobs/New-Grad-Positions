@@ -33630,7 +33630,7 @@
         "company_name": "Jabil",
         "id": "71de840d-8d8a-41e1-9ec5-6ea7dc50cbc7",
         "title": "Diagnostic Technician 1",
-        "active": false,
+        "active": true,
         "date_updated": 1762912249,
         "date_posted": 1761993772,
         "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Florence-KY/Diagnostic-Technician-I_J2413704",
@@ -242138,7 +242138,7 @@
         "company_name": "ASM International",
         "id": "20ab4e16-195e-4f9b-b9a8-a6651d21e85e",
         "title": "Engineer - Field Service- Early Career",
-        "active": false,
+        "active": true,
         "date_updated": 1774390169,
         "date_posted": 1774390169,
         "url": "https://www.asm.com/open-vacancies/?gh_jid=4806787101",
@@ -317715,6 +317715,104 @@
             "Seattle, WA"
         ],
         "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "OpenSesame",
+        "id": "e05e26b2-ac39-4339-9b0d-e18eac82c29a",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1778826315,
+        "date_posted": 1778826111,
+        "url": "https://boards.greenhouse.io/opensesame/jobs/7927745",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/963a56fa-e9b4-40b5-a889-cbab72a215a2",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Huntington Ingalls Industries",
+        "id": "8da68b51-ca86-4f6b-997d-f7574e6dabca",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1778825493,
+        "date_posted": 1778825277,
+        "url": "https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-SOFTWARE-1-Virg/1390981800/?ats=successfactors",
+        "locations": [
+            "Newport News, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Huntington-Ingalls-Industries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "e3e3af88-f30c-4a8a-b140-1c5606a2c986",
+        "title": "ASIC Design Engineer",
+        "active": true,
+        "date_updated": 1778825341,
+        "date_posted": 1778825294,
+        "url": "https://jobs.apple.com/en-us/details/200662702",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Booz Allen",
+        "id": "4daf1f5f-f561-4eca-91f6-d30b076f793b",
+        "title": "Data Scientist",
+        "active": true,
+        "date_updated": 1778825341,
+        "date_posted": 1778825217,
+        "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Honolulu-HI/Data-Scientist_R0240066",
+        "locations": [
+            "Honolulu, HI"
+        ],
+        "company_url": "https://simplify.jobs/c/Booz-Allen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Little Caesars Enterprises",
+        "id": "36012d35-72db-4c54-93e6-185820bcb9be",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1778825341,
+        "date_posted": 1778825283,
+        "url": "https://ilitch.wd5.myworkdayjobs.com/lc/job/Detroit-MI/Data-Analyst_R8869",
+        "locations": [
+            "Detroit, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Little-Caesars",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
