@@ -1,26 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "Aristocrat Leisure",
-        "id": "ed83edd9-2b43-4432-8d8b-337325577626",
-        "title": "Junior Product Manager",
-        "active": false,
-        "date_updated": 1758135009,
-        "date_posted": 1758135009,
-        "url": "https://aristocrat.wd3.myworkdayjobs.com/aristocratexternalcareerssite/job/Las-Vegas-NV-US/Junior-Product-Manager_R0019672-1",
-        "locations": [
-            "Las Vegas, NV"
-        ],
-        "company_url": "https://simplify.jobs/c/Aristocrat-Leisure",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "RTX",
         "id": "ced87084-4bc5-42fe-a43a-f59321283341",
@@ -49864,62 +49844,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "SpaceX",
-        "id": "c2d98762-a444-4796-b245-211b0c5031b8",
-        "title": "Software Engineer - Direct To Cell",
-        "active": false,
-        "date_updated": 1758134966,
-        "date_posted": 1758134966,
-        "url": "https://boards.greenhouse.io/spacex/jobs/8170023002",
-        "locations": [
-            "Redmond, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/SpaceX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "SpaceX",
-        "id": "988d10b9-ce8e-40f4-aa15-01425d3f8bf4",
-        "title": "Software Engineer - Direct To Cell",
-        "active": false,
-        "date_updated": 1758134965,
-        "date_posted": 1758134965,
-        "url": "https://boards.greenhouse.io/spacex/jobs/8170041002",
-        "locations": [
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/SpaceX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Macy's",
-        "id": "cab37303-7a31-4e75-ae9f-4ca1e02af34c",
-        "title": "Executive Development Program - Product Development",
-        "active": true,
-        "date_updated": 1763124585,
-        "date_posted": 1758134301,
-        "url": "https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs/job/80522",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Macys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
@@ -158229,7 +158153,7 @@
         "company_name": "Colorado School of Mines",
         "id": "619f470f-66e4-4396-8ab2-d7cba57a44d2",
         "title": "Assistant Professor or Professor of Practice - AI/Machine Learning",
-        "active": true,
+        "active": false,
         "date_updated": 1770084801,
         "date_posted": 1770084801,
         "url": "https://mines.wd1.myworkdayjobs.com/mines_careers/job/Colorado/Assistant-Professor-or-Professor-of-Practice--AI-Machine-Learning_JR108102",
@@ -277998,7 +277922,7 @@
         "company_name": "Marvell",
         "id": "94b7b55f-edd1-4611-a96d-e2e602c33ad5",
         "title": "Application Engineer \u2013 Early Career",
-        "active": true,
+        "active": false,
         "date_updated": 1776234619,
         "date_posted": 1776233245,
         "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Application-Engineer---Early-Career_2503703",
@@ -290639,7 +290563,7 @@
         "company_name": "Vishay Intertechnology",
         "id": "6b2ace10-68a9-45ae-a2f7-1df4d9eb1094",
         "title": "Associate Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1776848581,
         "date_posted": 1776522017,
         "url": "https://vishay.wd3.myworkdayjobs.com/VishayCareers/job/Marshall-MN/Associate-Engineer_JR-14225",
@@ -300430,7 +300354,7 @@
         "company_name": "Analog Devices",
         "id": "bc7dd045-264b-4533-978e-7820ca02dff9",
         "title": "Failure Analysis Technician 2",
-        "active": true,
+        "active": false,
         "date_updated": 1777586761,
         "date_posted": 1777586644,
         "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Failure-Analysis-Technician-2_R261717",
@@ -307548,7 +307472,7 @@
         "company_name": "Astemo",
         "id": "9f10ab60-b811-4e40-a3f3-bf4e48431753",
         "title": "Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1778105356,
         "date_posted": 1778105193,
         "url": "https://astemo.wd102.myworkdayjobs.com/Global_Career_Site/job/Harrodsburg-Kentucky-United-States/Engineer-1_J0050352",
@@ -315783,7 +315707,7 @@
         "company_name": "Sompo International Holdings",
         "id": "d5abc3f7-4d23-4a19-923b-9743ddc3b28d",
         "title": "Machine Learning Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1778739598,
         "date_posted": 1778738718,
         "url": "https://endurance.wd103.myworkdayjobs.com/SompoInternational/job/Conshohocken-Pennsylvania/Machine-Learning-Engineer-I_R4012",
