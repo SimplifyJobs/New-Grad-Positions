@@ -49184,7 +49184,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "2c8a8540-5e12-4c83-8a05-c9ef56450081",
         "title": "Quantitative Researcher - Master's: 2026",
-        "active": false,
+        "active": true,
         "date_updated": 1763116487,
         "date_posted": 1758534310,
         "url": "https://careers-sig.icims.com/jobs/9438/job?mobile=true&needsRedirect=false",
@@ -313459,7 +313459,7 @@
         "company_name": "Hello Fresh",
         "id": "07cd1bff-8de8-4ecb-9d0c-4759f4a9010f",
         "title": "Recipe Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1778709781,
         "date_posted": 1778681332,
         "url": "https://careers.hellofresh.com/global/en/job/7870714?gh_jid=7870714",
@@ -314332,7 +314332,7 @@
         "company_name": "Hello Fresh",
         "id": "26f6c8d9-a735-4b8b-bdfa-0e72a812bfe1",
         "title": "Recipe Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1778709903,
         "date_posted": 1778681293,
         "url": "https://careers.hellofresh.com/global/en/job/7870714",
@@ -314577,7 +314577,7 @@
         "company_name": "NV5 Global",
         "id": "006eb43a-9d2a-4f73-a4e9-9e5ab78c9b9b",
         "title": "GIS Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1778710157,
         "date_posted": 1778709994,
         "url": "https://careers-nv5.icims.com/jobs/12138/job?mobile=true&needsRedirect=false",
@@ -317818,5 +317818,23 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Plaid",
+        "id": "26165d4b-d34c-4fed-9e8b-ac9fa05e2dad",
+        "title": "Product Manager",
+        "active": true,
+        "date_updated": 1778833261,
+        "date_posted": 1777943266,
+        "url": "https://jobs.ashbyhq.com/plaid/64642463-8ee8-4453-b166-449711f61cd0/application",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Plaid",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
