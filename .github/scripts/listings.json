@@ -89576,7 +89576,7 @@
         "company_name": "Manulife Financial",
         "id": "11ae67cb-402c-4741-b4b5-e27aa1330bb9",
         "title": "Associate Data Scientist - GenAI",
-        "active": false,
+        "active": true,
         "date_updated": 1765377770,
         "date_posted": 1765377770,
         "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Associate-Data-Scientist---GenAI_JR25120038-1",
@@ -127489,7 +127489,7 @@
         "company_name": "Snyk",
         "id": "12bb5870-e3ea-4a7a-964a-7dcfbe9c6424",
         "title": "Associate Product Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1768347498,
         "date_posted": 1768347498,
         "url": "https://snyk.wd103.myworkdayjobs.com/External/job/United-States---Boston-Office/Associate-Product-Engineer_JR100284",
@@ -154259,7 +154259,7 @@
         "company_name": "Snyk",
         "id": "b732e9c0-8b7c-431b-98f4-a3846cb06993",
         "title": "Associate Product Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1769817418,
         "date_posted": 1769817418,
         "url": "https://snyk.wd103.myworkdayjobs.com/External/job/United-Kingdom---London-Office/Associate-Product-Engineer_JR100268",
@@ -155933,7 +155933,7 @@
         "company_name": "G-Research",
         "id": "b17fdd08-3496-4475-9ba3-8dba031a464e",
         "title": "Quantitative Researcher",
-        "active": true,
+        "active": false,
         "date_updated": 1770017114,
         "date_posted": 1770017114,
         "url": "https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Quantitative-Researcher--Data-Science-Machine-Learning-Mathematical-Modelling-_R2269",
@@ -235641,7 +235641,7 @@
         "company_name": "Voltus",
         "id": "8d941556-2a3d-45bf-a1a1-92318fc4f7d2",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773958746,
         "date_posted": 1773958746,
         "url": "https://jobs.lever.co/voltus/c8e44a4d-f53f-495d-835e-749f1d55d109/apply",
@@ -260739,7 +260739,7 @@
         "company_name": "Ernst & Young",
         "id": "0b42306d-5fae-4ce8-aab2-4e18f55f738f",
         "title": "Studio+ Digital Product Management and Strategy Senior",
-        "active": true,
+        "active": false,
         "date_updated": 1775255041,
         "date_posted": 1775254372,
         "url": "https://careers.ey.com/ey/job/New-York-Studio%2B-Digital-Product-Management-and-Strategy-Senior-NY-10001-8604/1286433201/",
@@ -269274,7 +269274,7 @@
         "company_name": "Veterans United",
         "id": "d2a263ad-d4f2-4c11-a174-56d2bc3f6dc6",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1775775071,
         "date_posted": 1775772415,
         "url": "https://veteransunited.wd1.myworkdayjobs.com/VUHL/job/Remote-MO/Associate-Software-Engineer--Remote-Hybrid-_R5873",
@@ -270481,7 +270481,7 @@
         "company_name": "Viridien",
         "id": "f2caf2c1-c5c4-4da8-9f99-97df65bc4cc1",
         "title": "Seismic Imaging Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1775785156,
         "date_posted": 1775783281,
         "url": "https://cgg.wd103.myworkdayjobs.com/viridiencareers/job/Calgary-Canada/Seismic-Imaging-Analyst_JR101234-1",
@@ -294260,7 +294260,7 @@
         "company_name": "NVIDIA",
         "id": "37e4e32b-5a9b-47f8-8b14-4d35b8ed94d7",
         "title": "Solutions Architect - Data Processing",
-        "active": false,
+        "active": true,
         "date_updated": 1777069108,
         "date_posted": 1777068475,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Solutions-Architect--Data-Processing---New-College-Grad-2026_JR2017017",
@@ -314414,7 +314414,7 @@
         "company_name": "Sonepar",
         "id": "94197a0d-dc80-4617-af1c-325aea08f93c",
         "title": "Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1778707982,
         "date_posted": 1778623463,
         "url": "https://career.sonepar.com/job/Apex-Application-Engineer-NC-27523/1393071133/?ats=successfactors",
@@ -318288,5 +318288,147 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Bass Pro Shops",
+        "id": "f2bccd10-d730-4669-9e4d-7231c68279e0",
+        "title": "Associate Technical Designer",
+        "active": true,
+        "date_updated": 1778883121,
+        "date_posted": 1778883003,
+        "url": "https://basspro.wd1.myworkdayjobs.com/careers/job/Springfield-MO-Bass-Pro-Shops-Base-Camp/Associate-Technical-Designer_R255443",
+        "locations": [
+            "Springfield, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Bass-Pro-Shops",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Home Depot",
+        "id": "b1d8e40c-7780-4869-a75a-3bcce0fa482d",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1778882941,
+        "date_posted": 1778882916,
+        "url": "https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/GEORGIA---VIRTUAL---GA01/Software-Engineer--Remote-_Req180516",
+        "locations": [
+            "Georgia"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Home-Depot",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "The Boeing Company",
+        "id": "6d1da862-9e42-499d-864f-03e9f73e22df",
+        "title": "Associate Design and Analysis Engineer - Electronic System Design & Analysis",
+        "active": true,
+        "date_updated": 1778883121,
+        "date_posted": 1778883098,
+        "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Berkeley-MO/Associate-Design-and-Analysis-Engineer--Electronic-Sys-Design---Analy-_JR2025489431",
+        "locations": [
+            "Hazelwood, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "9th Way Insignia",
+        "id": "a580c765-0d88-452f-a87b-63a71376e722",
+        "title": "ETL Developer",
+        "active": true,
+        "date_updated": 1778883841,
+        "date_posted": 1778883750,
+        "url": "https://job-boards.greenhouse.io/9thwayinsignia/jobs/5222560008",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/9th-Way-Insignia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Highbeam",
+        "id": "957bb7da-d627-4606-944e-d5143851feff",
+        "title": "AI Implementation Associate",
+        "active": true,
+        "date_updated": 1778883121,
+        "date_posted": 1778882944,
+        "url": "https://jobs.ashbyhq.com/highbeam/60b69921-b805-4a8d-a6ef-bba2a3aba05d/application",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Highbeam",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "American Electric Power",
+        "id": "85b5fc02-c676-45be-b630-8499a3982030",
+        "title": "GIS Technician Associate",
+        "active": true,
+        "date_updated": 1778883823,
+        "date_posted": 1778882979,
+        "url": "https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Shreveport-LA/GIS-Technician-Assc_R15746-1",
+        "locations": [
+            "Shreveport, LA"
+        ],
+        "company_url": "https://simplify.jobs/c/American-Electric-Power",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Ascensus",
+        "id": "7481b6e9-8bb5-4030-9e88-eaa8ae4dccb2",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1778883481,
+        "date_posted": 1777586782,
+        "url": "https://ascensushr.wd1.myworkdayjobs.com/ascensuscareers/job/Remote-Nationwide/AI-Software-Engineer_R0021417",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Ascensus",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
