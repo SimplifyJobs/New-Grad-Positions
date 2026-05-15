@@ -1,25 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "North Atlantic Industries",
-        "id": "62c8d027-1bfb-4673-be23-d11d806a0ec6",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1758072616,
-        "date_posted": 1758072616,
-        "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3580950",
-        "locations": [
-            "Long Island, New York"
-        ],
-        "company_url": "https://simplify.jobs/c/North-Atlantic-Industries",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "date_updated": 1758103402,
         "sponsorship": "Other",
         "active": true,
@@ -12497,7 +12477,7 @@
         "company_name": "Netic",
         "id": "eb1c0de1-18f6-48c3-bae2-5924866754d9",
         "title": "Software Engineer \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1762937071,
         "date_posted": 1761879049,
         "url": "https://jobs.ashbyhq.com/netic/63c216dc-a082-43df-928c-d71b3ed4f887/application",
@@ -209671,7 +209651,7 @@
         "company_name": "RTX",
         "id": "63703d4d-13ff-4bec-a203-233fd1628666",
         "title": "2026 Fulltime - Electronics Design Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1772591548,
         "date_posted": 1772591548,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-GOLETA-B01--6825-Cortona-Dr--BLDG-B01/XMLNAME-2026-Fulltime---Electronics-Design-Engineer-I---Onsite_01826209",
@@ -232884,7 +232864,7 @@
         "company_name": "University System of New Hampshire",
         "id": "345420e4-2381-481f-aca5-052fb38b61d3",
         "title": "Research Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1773788367,
         "date_posted": 1773788367,
         "url": "https://usnh.wd5.myworkdayjobs.com/Careers/job/University-of-New-Hampshire--Main-Campus/Research-Assistant_JR5245",
@@ -317507,6 +317487,167 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Western Digital",
+        "id": "d3dfea1b-c649-4bb7-a956-377922e3f9be",
+        "title": "Software Engineer - Apps & Firmware",
+        "active": true,
+        "date_updated": 1778807168,
+        "date_posted": 1778807100,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000126593979",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Digital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "03d9c472-a362-47d2-9bb1-1653a78a43b3",
+        "title": "Machine Learning Engineer Graduate - Tiktok-Data-Search-Local Service",
+        "active": true,
+        "date_updated": 1778807521,
+        "date_posted": 1778807491,
+        "url": "https://lifeattiktok.com/search/7457274634057615624",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Jabil",
+        "id": "632a2206-edcf-40b6-81b4-9853052b150f",
+        "title": "Conversions Diagnostic Technician 1 - Server Side",
+        "active": true,
+        "date_updated": 1778807662,
+        "date_posted": 1778807392,
+        "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Florence-KY/CVG300-Conversions-Diagnostic-Technician-I---402-Server-Side_J2449238",
+        "locations": [
+            "Florence, KY"
+        ],
+        "company_url": "https://simplify.jobs/c/Jabil",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Salesforce",
+        "id": "13b8d130-28e5-4799-a4f1-f6f326d09cd8",
+        "title": "Associate Product Manager",
+        "active": true,
+        "date_updated": 1778807653,
+        "date_posted": 1778807142,
+        "url": "https://salesforce.wd12.myworkdayjobs.com/Futureforce_NewGradRoles/job/California---San-Francisco/Associate-Product-Manager_JR342739",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Salesforce",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "IEM",
+        "id": "10b2af44-f78b-4d33-8da5-7b0b42cecd19",
+        "title": "Data Analyst - Switchgear",
+        "active": true,
+        "date_updated": 1778808061,
+        "date_posted": 1778807971,
+        "url": "https://job-boards.greenhouse.io/industrialelectricmanufacturing/jobs/4249312009",
+        "locations": [
+            "Surrey, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/IEM",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "f83c59a8-334a-4f50-b577-a6ec4b0f73ba",
+        "title": "Machine Learning Engineer Graduate - Local Services Search",
+        "active": true,
+        "date_updated": 1778807521,
+        "date_posted": 1778807496,
+        "url": "https://lifeattiktok.com/search/7639825798757222661",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Western Digital",
+        "id": "a2003641-d13a-4cc7-8890-26597ba1e1dd",
+        "title": "Ph.D. Interface Scientist",
+        "active": true,
+        "date_updated": 1778807168,
+        "date_posted": 1778807100,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000126593460",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Digital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Microchip Technology",
+        "id": "1c21732e-5a31-4cb8-aa17-62b83a588997",
+        "title": "Engineer 1 - IT Systems",
+        "active": true,
+        "date_updated": 1778807644,
+        "date_posted": 1778807303,
+        "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/AZ---Chandler/Engineer-I--IT-Systems_R2049-26",
+        "locations": [
+            "Chandler, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Microchip-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
