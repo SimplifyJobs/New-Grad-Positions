@@ -258865,7 +258865,7 @@
         "company_name": "QuidelOrtho",
         "id": "7ab31b5d-ca3c-42f2-b167-8cfe1b98ade7",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1775169541,
         "date_posted": 1775167875,
         "url": "https://orthoclinical.wd1.myworkdayjobs.com/Search/job/US---NY---Rochester/Software-Engineer_R0016379",
@@ -301783,7 +301783,7 @@
         "company_name": "Manulife Financial",
         "id": "5c217a23-76b1-4a7b-bf31-3b189dea216f",
         "title": "Associate Full-Stack Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1777644541,
         "date_posted": 1777644519,
         "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Waterloo-Ontario/Associate-Full-Stack-Software-Engineer_JR25121019-2",
@@ -317679,6 +317679,46 @@
         "degrees": [
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "b474b399-bc4e-4fed-a690-7c62e696ab51",
+        "title": "Machine Learning Engineer Graduate - Global E-commerce Recommendation/Search",
+        "active": true,
+        "date_updated": 1775025181,
+        "date_posted": 1775024592,
+        "url": "https://lifeattiktok.com/search/7550790814831511815",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "4b887fe0-6185-4f7c-b9a8-be7db867b577",
+        "title": "Machine Learning Engineer Graduate - Global E-commerce Recommendation/Search",
+        "active": true,
+        "date_updated": 1775025181,
+        "date_posted": 1775024595,
+        "url": "https://lifeattiktok.com/search/7550436166929025298",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
