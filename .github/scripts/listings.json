@@ -2,26 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "RTX",
-        "id": "ced87084-4bc5-42fe-a43a-f59321283341",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1758144036,
-        "date_posted": 1758144036,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA826-200-Holger-WaySan-Jose-200-Holger-Way---San-Jose-CA-95134-USA/Software-Engineer-I--Onsite-_01791041",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "mthree",
         "id": "b9838953-7da7-4c81-9087-732f492e4215",
         "title": "Entry Level - C Software Developer",
@@ -155731,7 +155711,7 @@
         "company_name": "Emerson Electric",
         "id": "171192b8-94f0-4348-b386-42d897d772f7",
         "title": "Manufacturing Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1769998379,
         "date_posted": 1769998379,
         "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26000800",
@@ -314172,7 +314152,7 @@
         "company_name": "IQVIA",
         "id": "014e3510-b96a-44b9-b346-cb2070129e89",
         "title": "Business Systems Analyst 1",
-        "active": true,
+        "active": false,
         "date_updated": 1778710326,
         "date_posted": 1778710244,
         "url": "https://iqvia.wd1.myworkdayjobs.com/en-US/IQVIA/job/Orchard-Park-New-York-United-States-of-America/Business-Systems-Analyst-1_R1519496",
