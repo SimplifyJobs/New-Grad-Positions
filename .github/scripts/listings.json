@@ -2,64 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "mthree",
-        "id": "b9838953-7da7-4c81-9087-732f492e4215",
-        "title": "Entry Level - C Software Developer",
-        "active": false,
-        "date_updated": 1761845565,
-        "date_posted": 1758155936,
-        "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4602555006",
-        "locations": [
-            "Tampa, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Mthree",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "mthree",
-        "id": "5264e299-8159-4685-bfe3-842530de17bd",
-        "title": "Entry Level - C Software Developer",
-        "active": false,
-        "date_updated": 1758155938,
-        "date_posted": 1758155938,
-        "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4602566006",
-        "locations": [
-            "Tampa, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Mthree",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "The Boeing Company",
-        "id": "05074df3-2751-400b-a241-21a028a42af5",
-        "title": "Entry Level Software Engineer-Developer",
-        "active": false,
-        "date_updated": 1758156971,
-        "date_posted": 1758156971,
-        "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Oklahoma-City-OK/Entry-Level-Software-Engineer-Developer_JR2025470637-1",
-        "locations": [
-            "Oklahoma City, OK"
-        ],
-        "company_url": "https://simplify.jobs/c/Boeing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Nike",
         "id": "f482a959-12d8-423c-a3f9-413a0e13c503",
         "title": "Software Engineer I - Innovation",
@@ -78413,24 +78355,6 @@
             "Atlanta, GA"
         ],
         "company_url": "https://simplify.jobs/c/86636c38-0e05-4ec1-b699-ea03e743f151",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Savannah River National Laboratory",
-        "id": "9c103625-b40b-43d0-b531-21cf09ea3b87",
-        "title": "Graduate Research Associate - Post Bachelors",
-        "active": false,
-        "date_updated": 1758156011,
-        "date_posted": 1758156011,
-        "url": "https://ewvl.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/1819",
-        "locations": [
-            "North Augusta, SC"
-        ],
-        "company_url": "https://simplify.jobs/c/Savannah-River-National-Laboratory",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -279011,7 +278935,7 @@
         "company_name": "ASSA ABLOY",
         "id": "951d522c-6729-44b6-8dff-28bb2816e68c",
         "title": "PIM System Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1776293832,
         "date_posted": 1776290710,
         "url": "https://assaabloy.jobs2web.com/job/Berlin-PIM-System-Analyst-CT-06037/1384262933/?ats=successfactors",
@@ -292752,7 +292676,7 @@
         "company_name": "Axos Bank",
         "id": "5c02a8ec-0cd0-4f7f-8ace-2a4085b834ae",
         "title": "Product Rotational Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1776981961,
         "date_posted": 1776981863,
         "url": "https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/Product-Rotational-Analyst_JR4509",
@@ -305302,7 +305226,7 @@
         "company_name": "Tubi",
         "id": "d77d8919-5d13-4d52-b1ad-7fce0a2535dc",
         "title": "AI Solutions Campaign Coordinator",
-        "active": true,
+        "active": false,
         "date_updated": 1778029921,
         "date_posted": 1778029813,
         "url": "https://job-boards.greenhouse.io/tubitv/jobs/7875704",
