@@ -3,24 +3,6 @@
         "source": "Simplify",
         "category": "Hardware",
         "company_name": "RTX",
-        "id": "fbbd7a18-8a0a-42d8-a1ea-b89a7a31eebd",
-        "title": "Embedded Cybersecurity Software Engineer I",
-        "active": false,
-        "date_updated": 1762779365,
-        "date_posted": 1758162132,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HIA32-Cedar-Rapids-IA-400-Collins-Rd-NE---Cedar-Rapids-IA-52498-0505-USA/Embedded-Cybersecurity-Software-Engineer-I--Onsite-_01792039",
-        "locations": [
-            "Cedar Rapids, IA"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "RTX",
         "id": "1436a632-a63d-4df4-9f23-3621b221f468",
         "title": "Software Engineer I",
         "active": false,
@@ -49593,42 +49575,6 @@
             "Markham, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Jonas-Software",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "LightEdge Solutions",
-        "id": "88de20f3-8938-48c5-b718-52f0e1e61838",
-        "title": "Triage Technician - IBM Operations",
-        "active": false,
-        "date_updated": 1758162595,
-        "date_posted": 1758162595,
-        "url": "https://jobs.lever.co/lightedge/84e8c646-63bb-4fe3-8cb6-fb8fa0768179/apply",
-        "locations": [
-            "Des Moines, IA"
-        ],
-        "company_url": "https://simplify.jobs/c/LightEdge-Solutions",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "LightEdge Solutions",
-        "id": "ce1b9a50-78b2-48a5-9ab6-0f0973cf0c8c",
-        "title": "Triage Technician - IBM Operations",
-        "active": false,
-        "date_updated": 1758161700,
-        "date_posted": 1758161700,
-        "url": "https://jobs.lever.co/lightedge/3c0562c5-dfd7-42c5-99bc-e3e9d241d59e/apply",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/LightEdge-Solutions",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -315848,7 +315794,7 @@
         "company_name": "Geisinger",
         "id": "bbbbaebc-c1ae-4b38-89dc-dfe16d2c7ef7",
         "title": "Business Intelligence Developer Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1778796557,
         "date_posted": 1778796442,
         "url": "https://geisinger.wd5.myworkdayjobs.com/geisingerexternal/job/Work-from-Home/Business-Intelligence-Developer-Associate_R-95883",
