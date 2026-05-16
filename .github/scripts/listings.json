@@ -2,26 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Toyota Connected",
-        "id": "ad826aa9-729b-43bb-a565-2b7ffd21855b",
-        "title": "Machine Learning Engineer \u2013 Entry Level",
-        "active": false,
-        "date_updated": 1758221382,
-        "date_posted": 1758221382,
-        "url": "https://boards.greenhouse.io/embed/job_app?token=8174950002",
-        "locations": [
-            "Plano, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Toyota-Connected",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Booz Allen",
         "id": "e96ae6fe-390c-4d89-ba77-c17e532f3f9a",
         "title": "Data Engineer - Junior",
@@ -120831,7 +120811,7 @@
         "company_name": "Chegg",
         "id": "d4912685-aab5-49f5-abbb-b78d238eebe3",
         "title": "Data Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1767899890,
         "date_posted": 1767899890,
         "url": "https://osv-chegg.wd5.myworkdayjobs.com/Chegg/job/London---Busuu/Data-Engineer_R5099-1",
@@ -300267,7 +300247,7 @@
         "company_name": "Denver Health",
         "id": "1fd2b475-880e-4b6a-aa8c-88fad7fc5272",
         "title": "Senior Business Intelligence Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1777621422,
         "date_posted": 1777529218,
         "url": "https://denverhealth.wd1.myworkdayjobs.com/DHHA-Main/job/Denver-Health-Medical-Plan---601-Broadway-Denver-CO-80203/Sr-Business-Intelligence-Specialty-Analyst---Denver-Health-Medical-Plan----Weekly-Hybrid-Schedule-Requirement---_R16310-1",
@@ -317051,7 +317031,7 @@
         "company_name": "Huntington Ingalls Industries",
         "id": "8da68b51-ca86-4f6b-997d-f7574e6dabca",
         "title": "Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1778825493,
         "date_posted": 1778825277,
         "url": "https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-SOFTWARE-1-Virg/1390981800/?ats=successfactors",
@@ -318549,6 +318529,26 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "BTI Solutions",
+        "id": "1875f13e-f207-4df0-b3f7-4926e9cefb3c",
+        "title": "Development Engineer 1",
+        "active": true,
+        "date_updated": 1778940971,
+        "date_posted": 1778940694,
+        "url": "https://btisolutions.wd12.myworkdayjobs.com/External/job/Troy-MI/Development-Engineer-l_JR101434-1",
+        "locations": [
+            "Troy, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/BTI-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
