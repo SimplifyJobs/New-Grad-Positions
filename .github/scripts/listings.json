@@ -1,45 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "RTX",
-        "id": "1436a632-a63d-4df4-9f23-3621b221f468",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1758163006,
-        "date_posted": 1758163006,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HIA32-Cedar-Rapids-IA-400-Collins-Rd-NE---Cedar-Rapids-IA-52498-0505-USA/Software-Engineer-I--Onsite-_01792373",
-        "locations": [
-            "Cedar Rapids, IA"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Alumni Ventures",
-        "id": "df644de1-2aab-4e44-ae7f-71847c2cdde4",
-        "title": "Software Engineer \u2013 Early Career",
-        "active": false,
-        "date_updated": 1758162751,
-        "date_posted": 1758162751,
-        "url": "https://job-boards.greenhouse.io/alumniventures/jobs/4027838009",
-        "locations": [
-            "Andover, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Alumni-Ventures",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "date_updated": 1758672340,
         "sponsorship": "U.S. Citizenship is Required",
         "active": true,
@@ -49526,24 +49486,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "LightEdge Solutions",
-        "id": "68d39320-1b1a-4527-b620-fd2a86d35bd5",
-        "title": "Triage Technician - IBM Operations",
-        "active": false,
-        "date_updated": 1758164319,
-        "date_posted": 1758164319,
-        "url": "https://jobs.lever.co/lightedge/1f7e8d26-1d34-489b-a2cf-ae1dcf1755ed/apply",
-        "locations": [
-            "Kansas City, MO"
-        ],
-        "company_url": "https://simplify.jobs/c/LightEdge-Solutions",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "Medline",
         "id": "77eb3733-649c-4deb-83f5-8212322eb9e6",
@@ -49557,24 +49499,6 @@
             "Chicago, IL"
         ],
         "company_url": "https://simplify.jobs/c/f22ab711-4900-472d-be8a-7263e99e49fa",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Jonas Software",
-        "id": "b1e3d51c-3b5a-4908-99c5-06c8979fa8a4",
-        "title": "Technical Support Analyst-Club - Club",
-        "active": false,
-        "date_updated": 1761854838,
-        "date_posted": 1758163486,
-        "url": "https://talentmanagementsolution.wd3.myworkdayjobs.com/JonasSoftwareCanada/job/Canada---Markham---Ontario/Technical-Support-Analyst--Club_R39199",
-        "locations": [
-            "Markham, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Jonas-Software",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
