@@ -2,46 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Nike",
-        "id": "f482a959-12d8-423c-a3f9-413a0e13c503",
-        "title": "Software Engineer I - Innovation",
-        "active": false,
-        "date_updated": 1758158728,
-        "date_posted": 1758158728,
-        "url": "https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/Software-Engineer-I---Innovation_R-69655",
-        "locations": [
-            "Beaverton, OR"
-        ],
-        "company_url": "https://simplify.jobs/c/Nike",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Macy's",
-        "id": "0b2ca3ab-fc25-4984-87f7-33597fbc68b6",
-        "title": "Macy's Tech Early Careers - Software Engineer",
-        "active": true,
-        "date_updated": 1758158106,
-        "date_posted": 1758158106,
-        "url": "https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs/job/80534",
-        "locations": [
-            "Johns Creek, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Macys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Watershed",
         "id": "a3f9d5e3-404d-4f55-8cb0-002c4308a3a0",
         "title": "Software engineer \u2013 New grad",
@@ -49695,24 +49655,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Asurion",
-        "id": "ad30a6d5-7d17-4532-9e6e-b7bc03d77212",
-        "title": "Cell Phone Engineering Technician",
-        "active": false,
-        "date_updated": 1759224695,
-        "date_posted": 1758157555,
-        "url": "https://asurion.wd5.myworkdayjobs.com/asurioncareers_us/job/US-Nashville/Product-Engineering-Technician-II_ASU0016231",
-        "locations": [
-            "Nashville, TN"
-        ],
-        "company_url": "https://simplify.jobs/c/Asurion",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Louisiana State University (LSU)",
         "id": "9c759ae3-1188-48eb-82c1-e6d1f2672e6e",
@@ -98242,24 +98184,6 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Microsoft",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Mintlify",
-        "id": "52bf00f3-b325-414e-b820-7e50eb8c5314",
-        "title": "Support Engineer",
-        "active": false,
-        "date_updated": 1765964682,
-        "date_posted": 1758158624,
-        "url": "https://jobs.ashbyhq.com/Mintlify/4b5b6945-1a80-49fe-8bcb-64b3075e7b5f/application",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Mintlify",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -318456,5 +318380,121 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Intel",
+        "id": "822298bb-c2c6-468e-ae31-f384b1938922",
+        "title": "Data Engineer",
+        "active": true,
+        "date_updated": 1778894044,
+        "date_posted": 1778893763,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Texas-Austin/DTCO-Data-Engineer_JR0284161-1",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Roblox",
+        "id": "bd5c8241-3cc5-4c3e-a27d-e4a170cf908d",
+        "title": "Software Engineer - Game Developer",
+        "active": true,
+        "date_updated": 1778894048,
+        "date_posted": 1778893748,
+        "url": "https://careers.roblox.com/jobs/7557910?gh_jid=7557910",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Roblox",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Citi",
+        "id": "3b443b12-218a-4193-8c2c-2506a2d57464",
+        "title": "AI Design Engineer - AVP",
+        "active": true,
+        "date_updated": 1778893921,
+        "date_posted": 1778893802,
+        "url": "https://citi.wd5.myworkdayjobs.com/2/job/Mississauga-Ontario-Canada/AI-Design-Engineer---AVP_26956807",
+        "locations": [
+            "Mississauga, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Citigroup",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Carrier Global",
+        "id": "2d3097e6-ff7f-44d6-8ce1-ef6cec8ec7e5",
+        "title": "Web Application Full Stack Developer",
+        "active": true,
+        "date_updated": 1778893921,
+        "date_posted": 1778893783,
+        "url": "https://carrier.wd5.myworkdayjobs.com/jobs/job/CAGAO-Carrier-Home-Georgia-Remote-Location-Remote-City-GA-30303-USA/Web-Application-Full-Stack-Developer_30205640",
+        "locations": [
+            "Georgia"
+        ],
+        "company_url": "https://simplify.jobs/c/Carrier-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Boeing Company",
+        "id": "469d3f62-81c1-43c6-8352-4187ddcb58d2",
+        "title": "Quality Systems Specialist - Data Analysis/Visualization & Application",
+        "active": true,
+        "date_updated": 1778893921,
+        "date_posted": 1778893768,
+        "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Everett-WA/Quality-Systems-Specialist--Data-Analysis-Visualization---Application---Associate-and-Experienced-_JR2026508892-1",
+        "locations": [
+            "Everett, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Solace Health",
+        "id": "01803d7d-9afd-4b37-bed7-baf760c063fa",
+        "title": "Associate Researcher - Impact Analytics",
+        "active": true,
+        "date_updated": 1778893741,
+        "date_posted": 1778893698,
+        "url": "https://jobs.ashbyhq.com/solace/51a448f3-6abc-49ac-81eb-128bea38fd8b/application",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Solace-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
     }
 ]
