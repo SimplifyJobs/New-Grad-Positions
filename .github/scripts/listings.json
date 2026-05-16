@@ -32862,24 +32862,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Northeastern",
-        "id": "3f3751fd-e6ea-4409-8cb6-fb0ad3dcc409",
-        "title": "Research Assistant",
-        "active": true,
-        "date_updated": 1758227283,
-        "date_posted": 1758227283,
-        "url": "https://northeastern.wd1.myworkdayjobs.com/careers/job/Boston-MA-Main-Campus/Research-Assistant_R136132-1",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Northeastern",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Oracle",
         "id": "5956df06-042b-430f-9e24-4860102d32a5",
@@ -165898,7 +165880,7 @@
         "company_name": "Advanced Energy",
         "id": "7df62b63-01d4-4de7-834b-2eac01d20607",
         "title": "Electronics Service Technician 1",
-        "active": false,
+        "active": true,
         "date_updated": 1770419397,
         "date_posted": 1770419397,
         "url": "https://jobs.advanced-energy.com/job/Fort-Collins-Electronics-Service-Technician-I-CO-80525/1349766000/?ats=successfactors",
@@ -236617,7 +236599,7 @@
         "company_name": "University of Wisconsin-Madison",
         "id": "5fcb80ac-f68e-4c80-9424-b371e81f6af7",
         "title": "Assistant Professor of Music Technology and Artificial Intelligence - Rise-AI",
-        "active": false,
+        "active": true,
         "date_updated": 1774015768,
         "date_posted": 1774015768,
         "url": "https://wisconsin.wd1.myworkdayjobs.com/UW_Madison/job/Madison-WI/Assistant-Professor-of-Music-Technology-and-Artificial-Intelligence_JR10004513",
@@ -242829,7 +242811,7 @@
         "company_name": "University of Arkansas",
         "id": "ad639ce0-562f-40b2-8d29-ea4c866cea6e",
         "title": "Cosmos Graduate Research Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1773813920,
         "date_posted": 1773813920,
         "url": "https://uasys.wd5.myworkdayjobs.com/uasys/job/Little-Rock/COSMOS---Graduate-Research-Assistant--Researcher-_R0053889-2",
@@ -270797,7 +270779,7 @@
         "company_name": "L3Harris Technologies",
         "id": "cbe08726-3625-4ff3-a4d4-c240fcaedeaa",
         "title": "Engineering Technician A",
-        "active": false,
+        "active": true,
         "date_updated": 1775831925,
         "date_posted": 1775830254,
         "url": "https://jobs.l3harris.com/job/Salt-Lake-City-Engineering-Technician-A-UT-84116/1381287400/?ats=successfactors",
@@ -275479,7 +275461,7 @@
         "company_name": "CAE",
         "id": "fc77b953-0889-48bf-ba77-6380fed6339c",
         "title": "Rotation Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1776120499,
         "date_posted": 1776117953,
         "url": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Rotation-Engineer_121383-1",
@@ -281405,7 +281387,7 @@
         "company_name": "Savannah River National Laboratory",
         "id": "821ab0fa-cd2d-4d3f-afef-196db98c23ce",
         "title": "Postdoc Research Associate - Atmospheric Technologies",
-        "active": true,
+        "active": false,
         "date_updated": 1776377470,
         "date_posted": 1776377069,
         "url": "https://ewvl.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2031",
@@ -308474,7 +308456,7 @@
         "company_name": "onsemi",
         "id": "a22c82da-af9a-42b3-aab1-1148f6149e59",
         "title": "Mask Data Prep Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1778192461,
         "date_posted": 1778191612,
         "url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2505404",
@@ -309510,7 +309492,7 @@
         "company_name": "University of Southern California",
         "id": "a9aed34d-8d22-4be7-a05a-6c0dc91be542",
         "title": "Research Programmer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1778202257,
         "date_posted": 1778202075,
         "url": "https://usc.wd5.myworkdayjobs.com/ExternalUSCCareers/job/Los-Angeles-CA---University-Park-Campus/Research-Programmer-I_REQ20174030",
@@ -316034,7 +316016,7 @@
         "company_name": "Legrand",
         "id": "2df094b0-080f-4cc3-afdb-ddeb4e1763c7",
         "title": "Associate Product Manager - Lighting Controls",
-        "active": true,
+        "active": false,
         "date_updated": 1778797081,
         "date_posted": 1778796356,
         "url": "https://jobs-legrand.icims.com/jobs/10084/job?mobile=true&needsRedirect=false",
@@ -318531,6 +318513,88 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Halliburton",
+        "id": "e0172a2d-7569-4c8a-b87c-84f79e8f7602",
+        "title": "Machine Learning Geoscientist - Jr",
+        "active": true,
+        "date_updated": 1778922373,
+        "date_posted": 1778922345,
+        "url": "https://jobs.halliburton.com/job/Abingdon-Machine-Learning-Geoscientist-Jr-OXF-OX14-4RW/1346931800/?ats=successfactors",
+        "locations": [
+            "Oxford, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Halliburton",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GE Healthcare",
+        "id": "253f1fe6-976c-42d7-abbc-001cbe2eb9f4",
+        "title": "Field Service Engineer 1",
+        "active": true,
+        "date_updated": 1778947875,
+        "date_posted": 1778941881,
+        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-I---Kansas_R4041188-1",
+        "locations": [
+            "Wichita, KS",
+            "Tulsa, OK"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Healthcare",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "EOS IT Solutions",
+        "id": "9b61af22-070b-42a8-b355-2ecc3a8d83d8",
+        "title": "Data Center Repair Technician",
+        "active": true,
+        "date_updated": 1778922001,
+        "date_posted": 1778191797,
+        "url": "https://eosits.com/company/careers/?gh_jid=8539581002",
+        "locations": [
+            "New Albany, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/EOS-IT-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "EOS IT Solutions",
+        "id": "2fc92f90-9072-4d65-92fe-6fdb60448368",
+        "title": "Data Center Repair Technician",
+        "active": true,
+        "date_updated": 1778919841,
+        "date_posted": 1777673274,
+        "url": "https://eosits.com/company/careers/?gh_jid=8527286002",
+        "locations": [
+            "New Albany, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/EOS-IT-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Certificate"
         ]
     }
 ]
