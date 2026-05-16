@@ -297112,7 +297112,7 @@
         "company_name": "Dover",
         "id": "579ff3e9-3d73-4736-9544-e1ea4dc475a8",
         "title": "Engineering Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1777413961,
         "date_posted": 1777413888,
         "url": "https://careers.dovercorporation.com/job/West-Chester-Engineering-Technician-OH-45069/1388545833/?ats=successfactors",
@@ -305385,7 +305385,7 @@
         "company_name": "Tubi",
         "id": "62f943ff-d0da-4e7d-988b-5cda972538cd",
         "title": "Creative AI Coordinator",
-        "active": true,
+        "active": false,
         "date_updated": 1778029921,
         "date_posted": 1778029813,
         "url": "https://job-boards.greenhouse.io/tubitv/jobs/7875690",
@@ -314879,7 +314879,7 @@
         "company_name": "KLA Corporation",
         "id": "915cbea9-59d8-40fe-83bb-9cb3d26e3588",
         "title": "Customer Support Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1778710785,
         "date_posted": 1778710031,
         "url": "https://kla.wd1.myworkdayjobs.com/search/job/Edina-MN/Customer-SupportEngineer--Edina--MN-_2636680",
@@ -318492,5 +318492,45 @@
             "Master's",
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "0692d532-864f-4426-b404-78aade4947a7",
+        "title": "Quality Technician",
+        "active": true,
+        "date_updated": 1778884056,
+        "date_posted": 1778883151,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-CHULA-VISTA-B107--850-Lagoon-Dr--BLDG-107-Mail-Zone-1-C/Quality-Technican--Onsite-_01845163",
+        "locations": [
+            "Chula Vista, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Makai Labs",
+        "id": "adbf020e-77f5-43e9-a6f8-dca0b583c219",
+        "title": "AI Engineer",
+        "active": true,
+        "date_updated": 1778883121,
+        "date_posted": 1778882944,
+        "url": "https://jobs.ashbyhq.com/makai-labs/a350e730-8d80-4528-9d41-497acbd01223/application",
+        "locations": [
+            "California",
+            "Texas",
+            "Jackson Township, NJ",
+            "NYC",
+            "Massachusetts"
+        ],
+        "company_url": "https://simplify.jobs/c/Makai-Labs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
