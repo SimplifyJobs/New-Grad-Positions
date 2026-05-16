@@ -1,26 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Watershed",
-        "id": "a3f9d5e3-404d-4f55-8cb0-002c4308a3a0",
-        "title": "Software engineer \u2013 New grad",
-        "active": false,
-        "date_updated": 1758160388,
-        "date_posted": 1758160388,
-        "url": "https://jobs.ashbyhq.com/Watershed/d83c7850-2211-4cbd-a527-09e25f5d94a8/application",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Watershed",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "RTX",
         "id": "fbbd7a18-8a0a-42d8-a1ea-b89a7a31eebd",
@@ -292600,7 +292580,7 @@
         "company_name": "Axos Bank",
         "id": "5c02a8ec-0cd0-4f7f-8ace-2a4085b834ae",
         "title": "Product Rotational Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1776981961,
         "date_posted": 1776981863,
         "url": "https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/Product-Rotational-Analyst_JR4509",
@@ -318495,6 +318475,47 @@
         "sponsorship": "Other",
         "degrees": [
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Boeing Company",
+        "id": "dc7ec6be-f3db-412d-a3ca-479092e0d24c",
+        "title": "Quality Systems Specialist - Data Analysis/Visualization & Application",
+        "active": true,
+        "date_updated": 1778893921,
+        "date_posted": 1778893793,
+        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Quality-Systems-Specialist--Data-Analysis-Visualization---Application---Associate-and-Experienced-_JR2026508892-2",
+        "locations": [
+            "Everett, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Proofpoint",
+        "id": "8b499c85-8eb4-4ff3-b799-613a6813c4d2",
+        "title": "People Data Analyst",
+        "active": true,
+        "date_updated": 1778893741,
+        "date_posted": 1778893727,
+        "url": "https://proofpoint.wd5.myworkdayjobs.com/proofpointcareers/job/Sunnyvale-CA/People-Data-Analyst_R14204",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Pittsburgh, PA",
+            "Draper, UT",
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Proofpoint",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
