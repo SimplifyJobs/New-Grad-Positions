@@ -23,26 +23,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Other",
-        "company_name": "Sev1Tech",
-        "id": "934d1e0c-f228-47ab-8b00-95646a0bf185",
-        "title": "Cybersecurity Engineer 1",
-        "active": false,
-        "date_updated": 1758315728,
-        "date_posted": 1758307494,
-        "url": "https://careers-sev1tech.icims.com/jobs/9201/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "North Charleston, SC"
-        ],
-        "company_url": "https://simplify.jobs/c/Sev1Tech",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Sev1Tech",
         "id": "68efc7ef-3cf2-4f53-921a-79d5887bee54",
