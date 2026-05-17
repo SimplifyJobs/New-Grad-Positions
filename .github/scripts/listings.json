@@ -318461,5 +318461,25 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Edison International",
+        "id": "230bb87a-a64d-49da-a7d8-0bc3ae85ef9d",
+        "title": "App Software & AI Engineer - Associate Specialist",
+        "active": true,
+        "date_updated": 1779055741,
+        "date_posted": 1779055628,
+        "url": "https://apply.edisoncareers.com/job/Rosemead-App-Software-&-AI-Engineer,-Associate-Specialist-CA-91770-3714/1391656000/?ats=successfactors",
+        "locations": [
+            "Alhambra, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Edison-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
