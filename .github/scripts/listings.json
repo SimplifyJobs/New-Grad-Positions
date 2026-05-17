@@ -42954,7 +42954,7 @@
         "company_name": "Wellington Management",
         "id": "09ef607f-0684-46ec-b8cd-15f653854974",
         "title": "Investment Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1760153596,
         "date_posted": 1760153596,
         "url": "https://wellington.wd5.myworkdayjobs.com/external/job/Boston-MA-United-States/Investment-Analyst_R92755-2",
@@ -318550,6 +318550,26 @@
             "Columbus, OH"
         ],
         "company_url": "https://simplify.jobs/c/Huntington-Bancshares",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Latitude AI",
+        "id": "3bbe2af6-887c-4489-a3de-e915addbc9d4",
+        "title": "GIS Production Analyst",
+        "active": true,
+        "date_updated": 1779027301,
+        "date_posted": 1779027191,
+        "url": "https://job-boards.greenhouse.io/latitude/jobs/7936103",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/LatitudeAI",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
