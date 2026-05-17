@@ -1,26 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "SoFi",
-        "id": "b46de4a6-7e93-4ea6-8ff0-e4db9c9ab528",
-        "title": "New Grad \u2013 Software Engineer - Backend Developer - Sofi Money",
-        "active": false,
-        "date_updated": 1758244077,
-        "date_posted": 1758244077,
-        "url": "https://www.sofi.com/careers/sofi-university/7174926003?gh_jid=7174926003",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/SoFi",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Kodiak Robotics",
         "id": "b3d163ed-b500-4876-97f8-02cdebbde835",
@@ -190588,7 +190568,7 @@
         "company_name": "Amentum",
         "id": "61897b58-573c-49ad-a044-fcd6c9abde98",
         "title": "Electronic Technician - Ior - Optics (Sfrc)",
-        "active": false,
+        "active": true,
         "date_updated": 1771861901,
         "date_posted": 1771861901,
         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-FL-Canaveral/Electronic-Technician--IOR----Optics_R0152734-1",
@@ -284819,7 +284799,7 @@
         "company_name": "University System of New Hampshire",
         "id": "a88d898e-76c4-44cf-b8f9-4ffb670cc6ae",
         "title": "Adjunct Research Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1776521521,
         "date_posted": 1776521348,
         "url": "https://usnh.wd5.myworkdayjobs.com/Careers/job/University-of-New-Hampshire--Main-Campus/Adjunct-Research-Assistant_JR7390",
@@ -292567,7 +292547,7 @@
         "company_name": "Moog ",
         "id": "e8a153ba-3e67-42be-b459-8dc1a1158a86",
         "title": "Associate Systems Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1776982861,
         "date_posted": 1776981979,
         "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Santa-Barbara-CA/Associate-Systems-Engineer_R-26-17231",
@@ -310523,7 +310503,7 @@
         "company_name": "Jabil",
         "id": "eb5a3cd7-f4cb-44cb-9434-4ec124ec06f3",
         "title": "Electronic Technician 1",
-        "active": false,
+        "active": true,
         "date_updated": 1778327167,
         "date_posted": 1778322754,
         "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Memphis-TN/Electronic-Technician-I_J2447879",
