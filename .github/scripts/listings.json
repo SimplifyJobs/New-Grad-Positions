@@ -298152,7 +298152,7 @@
         "company_name": "Citi",
         "id": "7cebf51c-6015-4c05-9925-fb624833aa9e",
         "title": "Applications Development Programmer Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1777501641,
         "date_posted": 1777500651,
         "url": "https://citi.wd5.myworkdayjobs.com/2/job/Mississauga-Ontario-Canada/Apps-Dev-Programmer-Analyst---Officer_26951546",
@@ -318476,6 +318476,29 @@
             "Alhambra, CA"
         ],
         "company_url": "https://simplify.jobs/c/Edison-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Capital One",
+        "id": "c23ab9c7-c961-41c7-86e4-36f0e71aa730",
+        "title": "Senior Associate Product Manager",
+        "active": true,
+        "date_updated": 1779055921,
+        "date_posted": 1779055753,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Associate-Product-Manager---US-Card-Core-Platforms---Servicing_R242781",
+        "locations": [
+            "McLean, VA",
+            "Richmond, VA",
+            "Chicago, IL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Capital-One",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
