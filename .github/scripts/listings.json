@@ -1,28 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Kodiak Robotics",
-        "id": "b3d163ed-b500-4876-97f8-02cdebbde835",
-        "title": "Autonomy/AI Software Engineer-Early Career",
-        "active": false,
-        "date_updated": 1758308874,
-        "date_posted": 1758308874,
-        "url": "https://job-boards.greenhouse.io/kodiak/jobs/4028715009",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Kodiak-Robotics",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Sev1Tech",
         "id": "68efc7ef-3cf2-4f53-921a-79d5887bee54",
