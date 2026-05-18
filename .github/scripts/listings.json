@@ -318221,5 +318221,23 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Applied Materials",
+        "id": "9cafad48-b6a9-4421-a9fc-e18cc9bf6b5f",
+        "title": "Global Product Support Engineer New Grad",
+        "active": true,
+        "date_updated": 1779095810,
+        "date_posted": 1779095533,
+        "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Global-Product-Support--GPS--Engineer-New-College-Grad---Masters-Degree--Santa-Clara--CA-_R2619290",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Materials",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
