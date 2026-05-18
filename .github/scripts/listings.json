@@ -250643,7 +250643,7 @@
         "company_name": "NVIDIA",
         "id": "cdac9585-1420-4450-ba80-1bdf21973134",
         "title": "AI Chip Design Engineer \u2013 New College Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1774919900,
         "date_posted": 1774919168,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Chip-Design-Engineer---New-College-Grad-2026_JR2015481",
@@ -274113,7 +274113,7 @@
         "company_name": "Intel",
         "id": "82745ec2-2161-4e5a-9850-03f1cf05eda3",
         "title": "Development Tools Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1776121721,
         "date_posted": 1776118183,
         "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Folsom/Development-Tools-Software-Engineer_JR0282770",
@@ -297637,7 +297637,7 @@
         "company_name": "Carnegie Mellon University",
         "id": "6b8d571f-e306-4d64-890e-c928d8337dbd",
         "title": "Research Associate - College of Engineering - Electrical and Computer Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1777501441,
         "date_posted": 1777500609,
         "url": "https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Research-Associate---College-of-Engineering---Electrical-and-Computer-Engineering_2024479",
@@ -301758,7 +301758,7 @@
         "company_name": "Cambridge Associates",
         "id": "e4b666fb-6797-4124-be72-ed132b6e5b3c",
         "title": "Investment Analyst Program",
-        "active": true,
+        "active": false,
         "date_updated": 1777932181,
         "date_posted": 1777932171,
         "url": "https://cambridgeassociates.wd5.myworkdayjobs.com/Cambridge_Associates/job/Arlington/Investment-Analyst-Program---Arlington--VA-Location--July-Class_JR0000233-1",
@@ -313228,7 +313228,7 @@
         "company_name": "Dexcom",
         "id": "eb076123-4a22-4682-8707-deac99638ac3",
         "title": "Behavioral Data Scientist",
-        "active": false,
+        "active": true,
         "date_updated": 1778710204,
         "date_posted": 1778623832,
         "url": "https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/San-Diego-California/Behavior---Translational-Data-Scientist_JR118612",
@@ -318577,5 +318577,267 @@
         "degrees": [
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Wells Fargo",
+        "id": "a8162c9c-3599-472d-90f8-4616bd947b26",
+        "title": "Engineering Associate - Application Development - Digital Platforms",
+        "active": true,
+        "date_updated": 1779143581,
+        "date_posted": 1779142247,
+        "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/COLUMBUS-OH/Engineering-Associate---Application-Development--Digital-Platforms-_R-546648",
+        "locations": [
+            "Columbus, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Wells-Fargo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Wells Fargo",
+        "id": "e87448e6-9121-43c4-b57f-50457fe05863",
+        "title": "Engineering Associate - Application Performance & Analysis",
+        "active": true,
+        "date_updated": 1779143041,
+        "date_posted": 1779142247,
+        "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/ISELIN-NJ/Engineering-Associate---Application-Performance---Analysis_R-546618",
+        "locations": [
+            "Iselin, Woodbridge Township, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Wells-Fargo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cox",
+        "id": "3ff023df-4d78-4fa6-ab05-0e01bea0fcd4",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1779143515,
+        "date_posted": 1779142240,
+        "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Draper-UT/Software-Engineer-I---20148_R202677135",
+        "locations": [
+            "Draper, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Cox",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "CACI",
+        "id": "391257f3-9537-4358-a166-cdc4ae640e1e",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1779142861,
+        "date_posted": 1779142114,
+        "url": "https://caci.wd1.myworkdayjobs.com/external/job/Fort-Belvoir-VA-US/Software-Engineer_326604",
+        "locations": [
+            "Fort Belvoir, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "TD Synnex",
+        "id": "014f2cf9-30b3-42a7-b7b8-ec751e8bbb01",
+        "title": "Electronic Technician",
+        "active": true,
+        "date_updated": 1779143583,
+        "date_posted": 1779142199,
+        "url": "https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Groveport-Ohio-United-States/Electronic-Technician-1CONV_R51314",
+        "locations": [
+            "Groveport, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/TD-Synnex",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Western Alliance",
+        "id": "b744e359-dd16-413a-be9c-7cc13c79d4e3",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1779142169,
+        "date_posted": 1779141867,
+        "url": "https://wd5.myworkdaysite.com/recruiting/westernalliancebank/WAB/job/Phoenix-AZ/Software-Engineer---IT-Early-Career-Development-Program_R12823",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Alliance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Wells Fargo",
+        "id": "9bdd0e66-c76a-4ea3-baaf-6d672964829b",
+        "title": "Engineering Associate - Generative AI Solutions",
+        "active": true,
+        "date_updated": 1779143041,
+        "date_posted": 1779142256,
+        "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/Engineering-Associate---Generative-AI-Solutions_R-546180",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Wells-Fargo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "KBR",
+        "id": "dae4e514-fa5f-407c-be57-28605f5a78ab",
+        "title": "Associate Drafting Technician",
+        "active": true,
+        "date_updated": 1779143761,
+        "date_posted": 1779142145,
+        "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Las-Cruces-New-Mexico/Associate-Drafting-Technician_R2123907",
+        "locations": [
+            "Las Cruces, NM",
+            "Colorado Springs, CO",
+            "Remote in USA",
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/KBR",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Motorola",
+        "id": "a391b6b3-3181-45fa-93fe-4e7721d4874a",
+        "title": "Front-End Web & CMS Specialist",
+        "active": true,
+        "date_updated": 1779141961,
+        "date_posted": 1779141885,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Illinois-Remote-Work/Front-End-Web---CMS-Specialist_R64229",
+        "locations": [
+            "Kansas",
+            "Pennsylvania",
+            "Delaware",
+            "Washington, DC",
+            "Texas",
+            "Jackson Township, NJ",
+            "Florida",
+            "Waterbury, CT",
+            "South Carolina",
+            "Georgia",
+            "Concord, NH",
+            "Mississippi",
+            "Tennessee",
+            "Arkansas",
+            "Minnesota",
+            "Rhode Island",
+            "Kentucky",
+            "West Virginia",
+            "NYC",
+            "Maryland",
+            "Wisconsin",
+            "Maine",
+            "Massachusetts",
+            "North Carolina",
+            "Remote in Canada",
+            "Missouri",
+            "Ohio",
+            "Indiana",
+            "Louisiana",
+            "Michigan",
+            "Illinois",
+            "Alabama"
+        ],
+        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "455beb72-5e4f-46e3-aeac-f1904978e98e",
+        "title": "Systems Engineer 1",
+        "active": true,
+        "date_updated": 1779143560,
+        "date_posted": 1779142227,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-NM-WHITE-SANDS-LC38--Bldg-23626-LC-38-Nike-Ave--BLDG-LC38-External-Site/XMLNAME-2026-Systems-Engineer-I---Onsite_01845682",
+        "locations": [
+            "Las Cruces, NM"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Princeton University",
+        "id": "b6c1836e-1b0b-4827-9fac-f3a6f01ed8ff",
+        "title": "Research Assistant",
+        "active": true,
+        "date_updated": 1779141990,
+        "date_posted": 1779141779,
+        "url": "https://main-princeton.icims.com/jobs/21811/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Princeton, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Princeton-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "JP Morgan Chase",
+        "id": "59e6bef4-6097-4dbf-b952-08d50505e4ca",
+        "title": "Product Associate - Omnichannel and Biometrics",
+        "active": true,
+        "date_updated": 1779141961,
+        "date_posted": 1779141899,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210747708",
+        "locations": [
+            "Tampa, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
