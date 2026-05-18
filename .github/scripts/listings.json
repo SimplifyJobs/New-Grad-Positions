@@ -171459,7 +171459,7 @@
         "company_name": "Yahoo",
         "id": "0282e387-4893-4bea-9f84-f506681546c9",
         "title": "Data Engineer - AI Semantic Analytics",
-        "active": false,
+        "active": true,
         "date_updated": 1770854196,
         "date_posted": 1770854196,
         "url": "https://ouryahoo.wd5.myworkdayjobs.com/en-US/careers/job/United-States-of-America/Data-Engineer---Consumer-Data-AI---ML_JR0026544",
@@ -225115,7 +225115,7 @@
         "company_name": "Arconic",
         "id": "60741ec9-3628-411c-bc0d-e6a174a2987c",
         "title": "IT Manufacturing Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1773411096,
         "date_posted": 1773411096,
         "url": "https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/113400",
@@ -279867,7 +279867,7 @@
         "company_name": "JP Morgan Chase",
         "id": "22180855-93a7-4067-86fa-b82fd2cf27c6",
         "title": "Agility Senior Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1776378241,
         "date_posted": 1776377354,
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210719683",
@@ -313013,7 +313013,7 @@
         "company_name": "Iridium Communications",
         "id": "465278dd-8153-4a94-8011-cbeab8a51011",
         "title": "Software Engineer 1 - Test Automation Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1778708411,
         "date_posted": 1778623434,
         "url": "https://careers-iridium.icims.com/jobs/4964/job?mobile=true&needsRedirect=false",
@@ -314952,7 +314952,7 @@
         "company_name": "NextEra Energy",
         "id": "73b99ecc-4cfb-43cf-9e62-b1501e1ba866",
         "title": "Product Manager 1",
-        "active": true,
+        "active": false,
         "date_updated": 1778796562,
         "date_posted": 1778796196,
         "url": "https://jobs.nexteraenergy.com/job/Juno-Beach-Product-Manager-I-NEA-FL-33408/1391191100/?ats=successfactors",
@@ -318437,6 +318437,145 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Telligen",
+        "id": "db30caee-7fef-4771-9ff6-3c53d756a019",
+        "title": "Population Health Data Quality Analyst",
+        "active": true,
+        "date_updated": 1779142141,
+        "date_posted": 1779141977,
+        "url": "https://jobs.lever.co/telligen/0e1fbca9-83f2-4cef-9f7e-bcbc4eeae23d/apply",
+        "locations": [
+            "Massachusetts"
+        ],
+        "company_url": "https://simplify.jobs/c/Telligen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Telligen",
+        "id": "5c02e777-5610-47d6-8b55-e1fde8511d2b",
+        "title": "Population Health Data Quality Analyst",
+        "active": true,
+        "date_updated": 1779142141,
+        "date_posted": 1779141977,
+        "url": "https://jobs.lever.co/telligen/c3c9b172-6896-4428-9db8-4ab3bba7097a/apply",
+        "locations": [
+            "Maryland"
+        ],
+        "company_url": "https://simplify.jobs/c/Telligen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "General Dynamics Information Technology",
+        "id": "29667c14-c59b-4ea9-94be-dbe5e9dc25c1",
+        "title": "Data Engineer-Junior",
+        "active": true,
+        "date_updated": 1779142861,
+        "date_posted": 1779142076,
+        "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-HI-Camp-Smith/Data-Engineer-Junior_RQ220315-1",
+        "locations": [
+            "Honolulu, HI"
+        ],
+        "company_url": "https://simplify.jobs/c/GDIT",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Blackhawk Network Holdings",
+        "id": "f99ef275-1a4f-448a-ac01-0921c8ee9b57",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1779142681,
+        "date_posted": 1779141834,
+        "url": "https://careers-blackhawknetwork.icims.com/jobs/26582/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Pleasanton, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Blackhawk-Network-Holdings",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "BCBST",
+        "id": "b20efee7-cfe9-4661-ac0b-3797d8a9f9fe",
+        "title": "Associate Data Engineer 1",
+        "active": true,
+        "date_updated": 1779141961,
+        "date_posted": 1779141899,
+        "url": "https://bcbst.wd1.myworkdayjobs.com/en-US/External/job/USA-TN-Chattanooga-Remote/Associate-Data-Engineer-1_R-49500",
+        "locations": [
+            "Remote in USA",
+            "Chattanooga, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/6624eec0-5300-4435-a8f4-e88cda773305",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Amazon",
+        "id": "306901c1-2f7a-4420-90d0-5878ae0c3c14",
+        "title": "Business Intelligence Engineer 1 - Scot-Aim",
+        "active": true,
+        "date_updated": 1779142407,
+        "date_posted": 1779141937,
+        "url": "https://amazon.jobs/en/jobs/10410231/business-intelligence-engineer-i-scot-aim",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "The Aerospace Corporation",
+        "id": "188d4b8c-80d5-4188-90fa-a876b4eb722c",
+        "title": "Enterprise Systems Engineer",
+        "active": true,
+        "date_updated": 1779142918,
+        "date_posted": 1779142025,
+        "url": "https://aero.wd5.myworkdayjobs.com/external/job/Goddard-SFC-MD/XMLNAME-2026-Enterprise-Systems-Engineer_R015414",
+        "locations": [
+            "Maryland"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Aerospace-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
         ]
     }
 ]
