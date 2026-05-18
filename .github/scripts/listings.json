@@ -48629,78 +48629,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Intercontinental Exchange",
-        "id": "a4ffb649-a69d-4b9d-b5c0-8ed723863e56",
-        "title": "Analyst \u2013 Euc",
-        "active": false,
-        "date_updated": 1763131355,
-        "date_posted": 1758327704,
-        "url": "https://careers-ice.icims.com/jobs/11390/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/ICEMarkets",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "SingleStore",
-        "id": "b6ee703c-cc87-4de9-898b-913ba3c73777",
-        "title": "Software Engineer",
-        "active": false,
-        "date_updated": 1758667912,
-        "date_posted": 1758327304,
-        "url": "https://job-boards.greenhouse.io/singlestore/jobs/7262849",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/SingleStore",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Keysight Technologies",
-        "id": "4231c6a9-0b25-44f8-a2de-f35102a2be1f",
-        "title": "R&D Software/Firmware Engineering",
-        "active": false,
-        "date_updated": 1761842983,
-        "date_posted": 1758327339,
-        "url": "https://jobs.keysight.com/jobs/49618?lang=en-us&icims=1",
-        "locations": [
-            "Santa Rosa, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Keysight-Technologies-Inc",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Q2",
-        "id": "bfc243cf-8061-4fbb-8cee-0348905af2da",
-        "title": "Software Engineer",
-        "active": false,
-        "date_updated": 1758326983,
-        "date_posted": 1758326983,
-        "url": "https://q2ebanking.wd5.myworkdayjobs.com/en-US/Q2/job/Cary-North-Carolina/Software-Engineer_REQ-11664",
-        "locations": [
-            "Morrisville, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Q2Software",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "CoreWeave",
         "id": "d2ea6722-bdd5-4dce-a94c-6c15d046aefe",
@@ -95867,24 +95795,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Master Halco",
-        "id": "23f6e5e9-358d-4c30-9c21-5f5b8856288a",
-        "title": "Inside Sales Associate - Des Moines",
-        "active": false,
-        "date_updated": 1765880501,
-        "date_posted": 1758327898,
-        "url": "https://careers-masterhalco.icims.com/jobs/8230/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Radford, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Master-Halco",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Quantcast",
         "id": "62bdff90-1a5c-45f6-baa6-7614f62cc52b",
         "title": "Software Engineer",
@@ -104587,24 +104497,6 @@
             "McLean, VA"
         ],
         "company_url": "https://simplify.jobs/c/Daktronics",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "SeniorLIFE",
-        "id": "8c44363e-6e2e-424c-ae3b-30212747153c",
-        "title": "Driver \u2013 Washington",
-        "active": false,
-        "date_updated": 1766744164,
-        "date_posted": 1758327728,
-        "url": "https://careers-seniorlifepa.icims.com/jobs/11348/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/SeniorLIFE",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -310182,7 +310074,7 @@
         "company_name": "Roche",
         "id": "81c84e7d-e1cf-4f38-8640-aa583a5ca748",
         "title": "Real World Data Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1778321164,
         "date_posted": 1778320584,
         "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Welwyn/Data-Scientist_202604-110731-1",
@@ -318367,6 +318259,65 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Capital-One",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "WeRide",
+        "id": "c60fbddb-59b7-4fe9-96e9-5051db26fc59",
+        "title": "New Grads - General Software Engineer",
+        "active": true,
+        "date_updated": 1769028036,
+        "date_posted": 1769028036,
+        "url": "https://jobs.lever.co/weride/94562b95-f574-4a60-bfbf-0cafb5c8ea3d/apply",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/WeRide",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "WeRide",
+        "id": "59f8db17-8c82-4741-a2d5-802f1b969d2c",
+        "title": "New Grads 2026 - Software Engineer - Algorithm",
+        "active": true,
+        "date_updated": 1769028041,
+        "date_posted": 1769028041,
+        "url": "https://jobs.lever.co/weride/1dc0209a-f90b-4f1c-a614-75f5b7883e6d/apply",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/WeRide",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "WeRide",
+        "id": "2258ed49-6db7-4693-8fff-d59b54388302",
+        "title": "New Grads - Software Engineer - Computer Vision",
+        "active": true,
+        "date_updated": 1769028031,
+        "date_posted": 1769028031,
+        "url": "https://jobs.lever.co/weride/d87ddf51-0def-436f-a178-135481b88f96/apply",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/WeRide",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
