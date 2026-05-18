@@ -2,27 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Jerry",
-        "id": "ab8f47e0-d4cb-4316-89da-a7386c3b8deb",
-        "title": "Software Engineer 1 - Engineering - Core App - Retention - Automation - React - NodeJS - TypeScript - AWS - Python - Docker - CI/CD - Redis - Postgres - DynamoDB - Clickhouse - AI/ML",
-        "active": false,
-        "date_updated": 1758343111,
-        "date_posted": 1758343111,
-        "url": "https://jobs.ashbyhq.com/jerry.ai/42f3759f-eaa8-4b31-93ba-f6d206d0df3f/application",
-        "locations": [
-            "Toronto, ON, Canada",
-            "Greater Toronto Area, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Jerry",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "EverCommerce",
         "id": "a75ec43d-b108-4783-98ad-6bdc20a33da3",
         "title": "Junior Software Engineer",
@@ -314892,7 +314871,7 @@
         "company_name": "Manulife Financial",
         "id": "fd2652f1-32ea-4597-9f9d-cb735e2abe5a",
         "title": "Associate Applied AI Engineer - GenAI Systems",
-        "active": true,
+        "active": false,
         "date_updated": 1778796361,
         "date_posted": 1778796275,
         "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Toronto-Ontario/Associate-Applied-AI-Engineer---GenAI-Systems_JR26031551",
