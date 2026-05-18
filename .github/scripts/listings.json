@@ -315636,7 +315636,7 @@
         "company_name": "Harris Computer",
         "id": "e23d6ad4-2b48-4045-8f83-dda377d7df2c",
         "title": "Junior AI Specialist - Multiple Teams",
-        "active": true,
+        "active": false,
         "date_updated": 1778797441,
         "date_posted": 1778796564,
         "url": "https://harriscomputer.wd3.myworkdayjobs.com/1/job/Remote---UK/Junior-AI-Specialist_R0043886",
@@ -318196,6 +318196,24 @@
         "date_updated": 1779093181,
         "date_posted": 1774574444,
         "url": "https://job-boards.eu.greenhouse.io/agency/jobs/4651788101",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Invisible-TechnologiesAI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Invisible Technologies AI",
+        "id": "da453920-8fb6-4684-a7c5-4d6a106f6244",
+        "title": "German Speaker - AI Trainer Project",
+        "active": true,
+        "date_updated": 1779097321,
+        "date_posted": 1774574443,
+        "url": "https://job-boards.eu.greenhouse.io/agency/jobs/4650955101",
         "locations": [
             "Remote in USA"
         ],
