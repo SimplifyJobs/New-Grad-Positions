@@ -1,26 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Jerry",
-        "id": "1ccc323b-5d54-4ffc-9303-dedeeb045f4c",
-        "title": "Software Engineer 1 - Engineering",
-        "active": false,
-        "date_updated": 1758340628,
-        "date_posted": 1758340628,
-        "url": "https://jobs.ashbyhq.com/jerry.ai/1ff2f3c2-fbf0-4b33-a5d0-f9cde79bae52/application",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Jerry",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Adobe",
         "id": "67fa64e7-3c68-4c8c-b75d-63378d42a6d4",
