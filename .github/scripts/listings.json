@@ -318185,5 +318185,23 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Invisible Technologies AI",
+        "id": "3e28ce6e-1005-4cd7-b423-8f680a64fe66",
+        "title": "German Translator - AI Trainer",
+        "active": true,
+        "date_updated": 1779093181,
+        "date_posted": 1774574444,
+        "url": "https://job-boards.eu.greenhouse.io/agency/jobs/4651788101",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Invisible-TechnologiesAI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
