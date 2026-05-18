@@ -1,46 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Pinterest",
-        "id": "7d4bbb99-10c6-4779-8c77-b7f3e0d6d520",
-        "title": "Machine Learning Engineer 1",
-        "active": false,
-        "date_updated": 1758331404,
-        "date_posted": 1758331404,
-        "url": "https://job-boards.greenhouse.io/pinterestjobadvertisements/jobs/7264418",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Pinterest",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Motorola",
-        "id": "4db29e91-1c1d-4211-a891-40e1bbab5387",
-        "title": "Entry Level Software Engineer - Kotlin - Java",
-        "active": false,
-        "date_updated": 1758330983,
-        "date_posted": 1758330983,
-        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Somerville-MA/Software-Engineer---Kotlin---Java_R55107",
-        "locations": [
-            "Cambridge, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Jerry",
         "id": "1ccc323b-5d54-4ffc-9303-dedeeb045f4c",
@@ -48564,42 +48524,6 @@
         "date_updated": 1758332922,
         "date_posted": 1758332922,
         "url": "https://jobs.bytedance.com/en/position/7538549089337968914/detail",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "bcb15a3a-ec90-444e-9ccc-01dba9efed88",
-        "title": "Graduate Research Engineer",
-        "active": false,
-        "date_updated": 1762913492,
-        "date_posted": 1758331672,
-        "url": "https://jobs.bytedance.com/en/position/7248031289315248421/detail",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "0aa9c7f2-b8f6-4e81-84c2-719cebe046de",
-        "title": "Research Engineer Graduate - Seed-Infra-Inference-US - PhD",
-        "active": false,
-        "date_updated": 1758331313,
-        "date_posted": 1758331313,
-        "url": "https://jobs.bytedance.com/en/position/7538545250118977799/detail",
         "locations": [
             "Seattle, WA"
         ],
@@ -318323,5 +318247,23 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Four Seasons",
+        "id": "1b8f3f63-f318-4915-bb84-1be7bbf5de62",
+        "title": "Barista - Trading Company Barista",
+        "active": true,
+        "date_updated": 1779066849,
+        "date_posted": 1779066380,
+        "url": "https://fourseasons.wd3.myworkdayjobs.com/search/job/Hualalai/Trading-Company---Trading-Company-Barista---Full-Time_REQ10379450",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Four-Seasons",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
