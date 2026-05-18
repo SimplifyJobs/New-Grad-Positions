@@ -1,48 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "WeRide",
-        "id": "c60fbddb-59b7-4fe9-96e9-5051db26fc59",
-        "title": "New Grads 2026 - General Software Engineer",
-        "active": true,
-        "date_updated": 1758326110,
-        "date_posted": 1758326110,
-        "url": "https://jobs.lever.co/weride/94562b95-f574-4a60-bfbf-0cafb5c8ea3d/apply",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/WeRide",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "WeRide",
-        "id": "59f8db17-8c82-4741-a2d5-802f1b969d2c",
-        "title": "New Grads 2026 - Software Engineer - Algorithm",
-        "active": true,
-        "date_updated": 1758326112,
-        "date_posted": 1758326112,
-        "url": "https://jobs.lever.co/weride/1dc0209a-f90b-4f1c-a614-75f5b7883e6d/apply",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/WeRide",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Pinterest",
         "id": "7d4bbb99-10c6-4779-8c77-b7f3e0d6d520",
@@ -9506,24 +9464,6 @@
             "Sunnyvale, CA"
         ],
         "company_url": "https://simplify.jobs/c/Applied-Intuition",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "WeRide",
-        "id": "2258ed49-6db7-4693-8fff-d59b54388302",
-        "title": "New Grads 2026 - Software Engineer - Computer Vision",
-        "active": true,
-        "date_updated": 1761845925,
-        "date_posted": 1758326112,
-        "url": "https://jobs.lever.co/weride/d87ddf51-0def-436f-a178-135481b88f96/apply",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/WeRide",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -48779,24 +48719,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Base Power",
-        "id": "730851ef-5c3b-435f-b375-af26e87bed6e",
-        "title": "Engineering Technician",
-        "active": false,
-        "date_updated": 1758325271,
-        "date_posted": 1758325271,
-        "url": "https://jobs.ashbyhq.com/base-power/6ad5f63a-0808-4970-aac5-d6faa7562ccb/application",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Base-Power",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "University of Chicago",
         "id": "b32b1451-ca58-4708-8dc5-41036437115b",
@@ -85962,7 +85884,7 @@
         "company_name": "Invisible Technologies",
         "id": "0916478b-142e-4a25-861e-fec8f49eb69e",
         "title": "Japanese Translator - Freelance AI Trainer Project",
-        "active": true,
+        "active": false,
         "date_updated": 1761758141,
         "date_posted": 1761758141,
         "url": "https://job-boards.eu.greenhouse.io/agency/jobs/4701712101",
