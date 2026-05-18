@@ -272607,9 +272607,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1776072412,
+        "date_updated": 1779101419,
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://careers-gdms.icims.com/jobs/71922/junior-embedded-software-engineer-%28cleared%29/job",
         "company_name": "General Dynamics Mission Systems",
@@ -299932,9 +299932,9 @@
         ]
     },
     {
-        "date_updated": 1777635520,
+        "date_updated": 1779101419,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://job-boards.greenhouse.io/speechify/jobs/5981069004",
         "company_name": "Speechify",
@@ -307163,9 +307163,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1778157577,
+        "date_updated": 1779101419,
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/McLean-VA/University--Full-Stack-Developer_R0237571",
         "company_name": "Booz Allen",
