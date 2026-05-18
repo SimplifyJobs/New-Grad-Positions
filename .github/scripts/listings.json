@@ -120994,7 +120994,7 @@
         "company_name": "Trepp",
         "id": "8727eaac-79c3-4675-817b-18dff2d79733",
         "title": "Client Success Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1767920657,
         "date_posted": 1767920657,
         "url": "https://www.trepp.com/joining-trepp?gh_jid=7524006",
@@ -211092,7 +211092,7 @@
         "company_name": "Stryker",
         "id": "99ffeecb-8a1d-418c-98b1-14ae87e80bac",
         "title": "Associate Installation Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1772680387,
         "date_posted": 1772680387,
         "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Des-Moines-Iowa/Associate-Installation-Technician---Des-Moines--IA---Omaha--NE_R559950",
@@ -224526,7 +224526,7 @@
         "company_name": "Thermo Fisher Scientific",
         "id": "867f40e8-601c-4694-8986-c3ce494837e4",
         "title": "Supply Chain Master Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1773390138,
         "date_posted": 1773269713,
         "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Covingham-Swindon-United-Kingdom/SAP-Manufacturing-Master-Data-Analyst---Planning---Execution_R-01344792-1",
@@ -299319,7 +299319,7 @@
         "company_name": "Anduril",
         "id": "bc0afe9e-41a1-411b-bab5-7b70463a5630",
         "title": "Software Engineer - Mission Autonomy",
-        "active": true,
+        "active": false,
         "date_updated": 1777598101,
         "date_posted": 1771285125,
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/5050735007",
@@ -318293,5 +318293,150 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Amentum",
+        "id": "705dea55-88f1-40a0-812c-657c4ad80ff9",
+        "title": "Radio Frequency Engineer",
+        "active": true,
+        "date_updated": 1779114114,
+        "date_posted": 1779113429,
+        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Norfolk/RF-Engineer_R0158365",
+        "locations": [
+            "Norfolk, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amentum",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "JP Morgan Chase",
+        "id": "fb3eaa17-6ceb-4198-8542-301544503fb1",
+        "title": "Software Engineer - Multiple Positions Available",
+        "active": true,
+        "date_updated": 1779114421,
+        "date_posted": 1779113098,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210745917",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amentum",
+        "id": "6f259ceb-7fa5-4335-acb6-9c569b25a13d",
+        "title": "Junior Software Engineer for Naval Research Technology",
+        "active": true,
+        "date_updated": 1779114242,
+        "date_posted": 1779113429,
+        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Fredericksburg/Junior-Software-Engineer-for-Naval-Research-Technology_R0161491-1",
+        "locations": [
+            "Fredericksburg, VA",
+            "Dahlgren, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amentum",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amentum",
+        "id": "d29dfc6f-0843-457f-833e-51401c4ef53c",
+        "title": "Entry Level Software Engineer",
+        "active": true,
+        "date_updated": 1779113521,
+        "date_posted": 1779113429,
+        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Fredericksburg/Entry-Level-Software-Engineer_R0161488",
+        "locations": [
+            "Fredericksburg, VA",
+            "Dahlgren, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amentum",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Memorial Sloan Kettering Cancer Center",
+        "id": "d1e02ec5-08ec-4409-b8fc-19917068a9c4",
+        "title": "Advanced Dermatological Imaging and Data Analytics Fellow",
+        "active": true,
+        "date_updated": 1779113376,
+        "date_posted": 1779113137,
+        "url": "https://msk.wd108.myworkdayjobs.com/MSKCC_Careers_Primary/job/New-York-NY/Postdoctoral-Fellow-Position-in-Advanced-Dermatological-Imaging-and-Data-Analytics_97005",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Memorial-Sloan-Kettering-Cancer-Center",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Kimley-Horn",
+        "id": "74ba12de-f5e8-4cd2-b1f1-a5caa8bf3b19",
+        "title": "Software Analyst - Smart City Software - Traffic Systems",
+        "active": true,
+        "date_updated": 1779113161,
+        "date_posted": 1779113024,
+        "url": "https://careers-kimley-horn.icims.com/jobs/23941/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Kimley-Horn",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Franklin Templeton",
+        "id": "2685d633-11b4-4a94-b44f-659a364200b5",
+        "title": "Quantitative Research Associate",
+        "active": true,
+        "date_updated": 1779114242,
+        "date_posted": 1779113423,
+        "url": "https://franklintempleton.wd5.myworkdayjobs.com/Primary-External-1/job/London-United-Kingdom/Quantitative-Research-Associate_867805",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Franklin-Templeton",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
