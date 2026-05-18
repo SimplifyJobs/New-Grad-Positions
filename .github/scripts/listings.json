@@ -318165,5 +318165,25 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Altice USA",
+        "id": "207d3092-7bc7-454d-b32e-aaea097143cf",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1779084541,
+        "date_posted": 1779084434,
+        "url": "https://www.optimumcareers.com/job/Long-Island-City-Data-Analyst-(70002877)-NY-11101/1391154800/?ats=successfactors",
+        "locations": [
+            "Long Island City, Queens, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Altice-USA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
