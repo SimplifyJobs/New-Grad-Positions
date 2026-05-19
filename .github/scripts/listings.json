@@ -28738,7 +28738,7 @@
         "company_name": "Squarepoint Capital",
         "id": "294ac442-d653-4c51-a831-a62d3bcfb676",
         "title": "Software Developer - Front-end",
-        "active": true,
+        "active": false,
         "date_updated": 1761485603,
         "date_posted": 1761485603,
         "url": "https://boards.greenhouse.io/embed/job_app?token=6034447",
@@ -67390,7 +67390,7 @@
         "company_name": "RWS",
         "id": "aa42f4fa-9a75-46d4-b15c-9edf6678d943",
         "title": "AI Data Specialist - Texas - US",
-        "active": false,
+        "active": true,
         "date_updated": 1763766945,
         "date_posted": 1763766945,
         "url": "https://jobs.lever.co/rws/edfded6a-6a93-49cd-9b50-d0f74c3a41ac/apply",
@@ -70473,7 +70473,7 @@
         "company_name": "RWS",
         "id": "1aeb479a-17be-49b1-abbd-3dfe70143edd",
         "title": "AI Data Specialist",
-        "active": false,
+        "active": true,
         "date_updated": 1764039045,
         "date_posted": 1764039045,
         "url": "https://jobs.lever.co/rws/ea392478-af4d-497b-942f-5bdc14e24c96/apply",
@@ -247840,7 +247840,7 @@
         "company_name": "StubHub",
         "id": "c0a55afc-bd94-42f0-ad0a-891cca049bdb",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1774733460,
         "date_posted": 1774660645,
         "url": "https://job-boards.eu.greenhouse.io/stubhubinc/jobs/4825412101",
@@ -301143,7 +301143,7 @@
         "company_name": "CoStar Group",
         "id": "d36f8484-ae42-463f-be8c-029a9dbeeeeb",
         "title": "Software Engineer 1 - C#/.NET/Database",
-        "active": false,
+        "active": true,
         "date_updated": 1777713742,
         "date_posted": 1777713202,
         "url": "https://costar.wd1.myworkdayjobs.com/en-US/CoStarCareers/job/Orange-County---CA/Apartmentscom---Software-Engineer-I--C--NET-Database-_R38698",
@@ -309248,7 +309248,7 @@
         "company_name": "Accenture",
         "id": "e961c677-7d4e-4131-8f01-296f7045b7aa",
         "title": "Data and AI Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1778278861,
         "date_posted": 1778278689,
         "url": "https://boards.greenhouse.io/accenturefederalservices/jobs/4599650006",
@@ -317905,7 +317905,7 @@
         "company_name": "Capital One",
         "id": "79f128cb-7e11-4960-b10b-760a9a49b307",
         "title": "Product Manager Senior Associate - Business Cards & Payments",
-        "active": true,
+        "active": false,
         "date_updated": 1778945638,
         "date_posted": 1778943997,
         "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Associate--Product-Manager---Business-Cards---Payments_R235599-1",
@@ -319572,7 +319572,7 @@
         "company_name": "Stripe",
         "id": "debe5321-a9b2-49fe-b49f-8195ced28b11",
         "title": "Technical Solutions Specialist - Stripe Products - API Integrations",
-        "active": true,
+        "active": false,
         "date_updated": 1779183901,
         "date_posted": 1778826060,
         "url": "https://stripe.com/jobs/search?gh_jid=7919030",
@@ -319907,6 +319907,443 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Kohls",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Sporting Kansas City",
+        "id": "e07ff7fc-f365-42a5-898d-43c651e89163",
+        "title": "AV Coordinator",
+        "active": true,
+        "date_updated": 1779229106,
+        "date_posted": 1779228433,
+        "url": "https://osv-tifec.wd5.myworkdayjobs.com/SportingKC/job/Sporting-Park-Kansas-City-KS-66111/AV-Coordinator--Part-Time_REQ-5198",
+        "locations": [
+            "Kansas City, KS"
+        ],
+        "company_url": "https://simplify.jobs/c/Sporting-Kansas-City",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Radiance Technologies",
+        "id": "bc19555b-db39-4d08-b7b6-37f2b0eae30f",
+        "title": "Entry Level Microelectronics Research and Development Engineer",
+        "active": true,
+        "date_updated": 1779229235,
+        "date_posted": 1779228501,
+        "url": "https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Ruston-LA/Entry-level-Microelectronics-R-D-Engineer_HR102209",
+        "locations": [
+            "Monroe, LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Radiance-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Comcast",
+        "id": "b90a2c90-32e3-4e4f-8e25-232fd65e4aff",
+        "title": "Engineer 1 - Software Development & Engineering",
+        "active": true,
+        "date_updated": 1779229441,
+        "date_posted": 1779228607,
+        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Engineer-1--Software-Development---Engineering_R437659",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Comcast",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "General Motors",
+        "id": "9e601a6d-97a9-40d6-9090-b6bcb202f861",
+        "title": "Software Developer - Virtualization and Software-in-the-Loop Integration",
+        "active": true,
+        "date_updated": 1779229246,
+        "date_posted": 1779228451,
+        "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Milford-Michigan-United-States-of-America/Software-Developer---Virtualization-and-SIL-Integration_JR-202610787-1",
+        "locations": [
+            "Milford Charter Twp, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Motors",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Vertiv",
+        "id": "e5e23d68-f701-4d24-9372-0bf58a82ba57",
+        "title": "Application Engineer - Field Sales",
+        "active": true,
+        "date_updated": 1779229261,
+        "date_posted": 1779228457,
+        "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20272451",
+        "locations": [
+            "New Albany, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Vertiv",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Wells Fargo",
+        "id": "92687862-0857-4a36-99f6-7abde7484e6b",
+        "title": "Engineering Associate - Data Engineering & Analytics",
+        "active": true,
+        "date_updated": 1779229441,
+        "date_posted": 1779228673,
+        "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/ISELIN-NJ/Engineering-Associate---Data-Engineering---Analytics_R-547035",
+        "locations": [
+            "Iselin, Woodbridge Township, NJ",
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Wells-Fargo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "5cf15281-fec7-4bc8-83b4-3db03d031421",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1779229441,
+        "date_posted": 1779228560,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Software-Engineer-1--ONSITE-_01846079",
+        "locations": [
+            "Cedar Rapids, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Centific",
+        "id": "ca93362f-f11c-4d3b-a867-f3c1417de4e6",
+        "title": "Software Development Engineer 2",
+        "active": true,
+        "date_updated": 1779228704,
+        "date_posted": 1779228325,
+        "url": "https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/SDE2-2_JR107318-1",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Centific",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Federato",
+        "id": "7e7eb859-b678-471e-9562-0d272ee62add",
+        "title": "Data Annotation Specialist",
+        "active": true,
+        "date_updated": 1779229801,
+        "date_posted": 1779229026,
+        "url": "https://job-boards.greenhouse.io/federato/jobs/5225518008",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Federato",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Symbotic",
+        "id": "7b26d568-7721-45b7-ad28-66f8775408d4",
+        "title": "Software Engineer New Grad",
+        "active": true,
+        "date_updated": 1779229232,
+        "date_posted": 1779228410,
+        "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/New-Grad--Software-Engineer_R6770",
+        "locations": [
+            "Burlington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/symbotic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Coherent ",
+        "id": "08afeb60-94f3-4622-b87c-4145ac0075c0",
+        "title": "Systems Software Engineer - Test & Automation Infrastructure",
+        "active": true,
+        "date_updated": 1779228361,
+        "date_posted": 1779228356,
+        "url": "https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2012520",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Coherent",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Deutsche Bank",
+        "id": "870da19d-0c87-4726-b9f4-d929bda68c75",
+        "title": "Java Engineer Associate",
+        "active": true,
+        "date_updated": 1779228541,
+        "date_posted": 1779228375,
+        "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Cary-3000-CentreGreen-Way/DevOps-Engineer-Associate_R0423033-1",
+        "locations": [
+            "Morrisville, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Deutsche-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Applied Materials",
+        "id": "80d74e4e-61ec-4127-a1a0-bdcd1ae07b84",
+        "title": "Computational Materials Scientist - Computational Chemist / Materials Scientist - Machine Learning",
+        "active": true,
+        "date_updated": 1779229102,
+        "date_posted": 1779228428,
+        "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Computational-Physicist---Fluid-Thermal-Modeling--AI-ML-New-College-Grad---Doctorate-Degree--Santa-Clara--Ca-_R2612849",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Materials",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Curtiss-Wright Corporation",
+        "id": "7b23887c-fb88-4670-8362-c67d449a6798",
+        "title": "Software Development Engineer Associate",
+        "active": true,
+        "date_updated": 1779229089,
+        "date_posted": 1779228397,
+        "url": "https://curtisswright.wd1.myworkdayjobs.com/cw_external_career_site/job/US-MA-Tewksbury-TCG/Software-Development-Engineer--Associate_JR12206-1",
+        "locations": [
+            "Tewksbury, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Curtiss-Wright",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Centific",
+        "id": "5f7754d4-d725-4f48-a141-091a06e4e9db",
+        "title": "Software Development Engineer 2 - 1",
+        "active": true,
+        "date_updated": 1779228794,
+        "date_posted": 1779228325,
+        "url": "https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/SDE2-1_JR107317-1",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Centific",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Veterans United",
+        "id": "ed5a28d1-3d82-4c33-9d0d-3d16e1f4b380",
+        "title": "Web Developer",
+        "active": true,
+        "date_updated": 1779228361,
+        "date_posted": 1779228358,
+        "url": "https://veteransunited.wd1.myworkdayjobs.com/VUHL/job/Columbia-MO/Web-Developer_R6011",
+        "locations": [
+            "Columbia, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Veterans-United",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Trumid",
+        "id": "cbfc5878-bec9-4a8a-b794-546c3dd5cc1e",
+        "title": "Client & Trading Success Analyst",
+        "active": true,
+        "date_updated": 1779229441,
+        "date_posted": 1779228658,
+        "url": "https://job-boards.greenhouse.io/trumid/jobs/7740508003",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Trumid",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "NVIDIA",
+        "id": "d1de72ea-5e1a-40b0-9ff9-860de409bfb8",
+        "title": "Software Engineer New Grad",
+        "active": true,
+        "date_updated": 1779229234,
+        "date_posted": 1779228506,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--AI-and-DL-Kernel-Libraries---New-College-Grad-2026_JR2018473",
+        "locations": [
+            "Remote in USA",
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Applied Materials",
+        "id": "11c7234c-fd7c-41bc-bace-924e7fbd2df0",
+        "title": "Quality & Reliability Systems Engineer",
+        "active": true,
+        "date_updated": 1779229261,
+        "date_posted": 1779228429,
+        "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Quality---Reliability-Systems-Engineer----E3-_R2620088",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Materials",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Michelin",
+        "id": "c8c6c55e-2b16-4e83-a485-152bbdb6209a",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1779228541,
+        "date_posted": 1779228429,
+        "url": "https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/MQC---MONTREAL-OFFICE/Data-Analyst_R-2026020833-1",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Michelin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RADAR",
+        "id": "bec28b48-5646-40c6-90c2-baebddc538f7",
+        "title": "Associate \u2013 Field Deployment Operations",
+        "active": true,
+        "date_updated": 1779229801,
+        "date_posted": 1778883373,
+        "url": "https://job-boards.greenhouse.io/radar/jobs/7852303",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/RADAR",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Unity",
+        "id": "1813c591-998c-4f0b-a4f7-b67f762dc14b",
+        "title": "Machine Learning Engineer New Grad - Vector Core Modeling",
+        "active": true,
+        "date_updated": 1779229552,
+        "date_posted": 1778709925,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=7905751",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Unity",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
