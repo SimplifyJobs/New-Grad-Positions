@@ -319388,5 +319388,43 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Micron Technology",
+        "id": "1252d201-7cab-46e9-9272-2c747c96cadc",
+        "title": "Product Development Engineer",
+        "active": true,
+        "date_updated": 1779178861,
+        "date_posted": 1778943963,
+        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Product-Development-Engineer_JR89719",
+        "locations": [
+            "Boise, ID"
+        ],
+        "company_url": "https://simplify.jobs/c/Micron-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Olo",
+        "id": "10268985-71e8-4d0d-ba50-a391a28a13d2",
+        "title": "Associate Software Engineer - Pay Web",
+        "active": true,
+        "date_updated": 1779178501,
+        "date_posted": 1770332656,
+        "url": "https://jobs.lever.co/olo/5eadcb61-420c-4da3-902b-184a4a46247a/apply",
+        "locations": [
+            "Belfast, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Olo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
