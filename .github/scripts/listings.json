@@ -263737,7 +263737,7 @@
         "company_name": "The Boeing Company",
         "id": "39360e7e-8b64-488c-9e9f-7af27f339ade",
         "title": "Comms & Sensor Systems Engineer/Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1775524861,
         "date_posted": 1775524139,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Mesa-AZ/Comms---Sensor-Systems-Engineer-Scientist_JR2026504495",
@@ -287028,7 +287028,7 @@
         "company_name": "The Boeing Company",
         "id": "749bba3d-f0f4-42b7-a97e-5db148093c70",
         "title": "Java Software Engineer \u2013 Experienced or Senior - Associate - Bixby",
-        "active": true,
+        "active": false,
         "date_updated": 1776733741,
         "date_posted": 1776733727,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seal-Beach-CA/Java-Software-Engineer--Associate--Experienced-or-Senior----Bixby_JR2026502912-1",
@@ -303469,7 +303469,7 @@
         "company_name": "GHD",
         "id": "8af0a3b5-44ae-4e93-8304-d75d94d9ba00",
         "title": "Graduate Data Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1778019738,
         "date_posted": 1778018839,
         "url": "https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26234",
@@ -319500,6 +319500,46 @@
             "Pittsfield, MA"
         ],
         "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cadence Design Systems",
+        "id": "6f302656-9c49-4d1e-9ea8-caff18508090",
+        "title": "Software Engineer New Grad - Numerical Analysis - C++",
+        "active": true,
+        "date_updated": 1779181584,
+        "date_posted": 1778942308,
+        "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/BOSTON-02/Software-Engineer_R52506-1",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Schroders",
+        "id": "7d2b2955-bf63-4e96-9ff8-1c92c493013e",
+        "title": "Investment Analyst",
+        "active": true,
+        "date_updated": 1779181381,
+        "date_posted": 1772147778,
+        "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1144",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Schroders",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
