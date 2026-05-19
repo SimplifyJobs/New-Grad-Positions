@@ -17096,7 +17096,7 @@
         "company_name": "AVEVA",
         "id": "a9a1fad6-89a7-4e1a-8a70-8a407375f852",
         "title": "Artificial Intelligence and Machine Learning Graduate",
-        "active": true,
+        "active": false,
         "date_updated": 1762992436,
         "date_posted": 1762992436,
         "url": "https://aveva.wd3.myworkdayjobs.com/en-US/AVEVA_careers/job/Cambridge-United-Kingdom/Artificial-Intelligence-and-Machine-Learning-Graduate_R011706",
@@ -44802,7 +44802,7 @@
         "company_name": "InterSystems",
         "id": "cc0f9dbd-b570-4ab8-a1f0-15c93be2f473",
         "title": "Technical Graduate",
-        "active": true,
+        "active": false,
         "date_updated": 1759345338,
         "date_posted": 1759345338,
         "url": "https://www.intersystems.com/careers/careers-search/?gh_jid=7479122003",
@@ -311573,7 +311573,7 @@
         "company_name": "CoStar Group",
         "id": "d4f6f6bc-3852-4c6c-9944-6136eaffc260",
         "title": "Product Manager - Content Platforms",
-        "active": true,
+        "active": false,
         "date_updated": 1778595055,
         "date_posted": 1778594751,
         "url": "https://costar.wd1.myworkdayjobs.com/en-US/CoStarCareers/job/US-VA-Richmond/Product-Manager--Content-Platforms_R38907",
@@ -319540,6 +319540,46 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/Schroders",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Western & Southern Financial Group",
+        "id": "cdb2079a-b4f7-4451-825b-5ec7d6583b02",
+        "title": "Product Owner 1 - Insurance Operations",
+        "active": true,
+        "date_updated": 1779183608,
+        "date_posted": 1778853968,
+        "url": "https://careers-westernsouthern.icims.com/jobs/24930/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Southern-Financial-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Stripe",
+        "id": "debe5321-a9b2-49fe-b49f-8195ced28b11",
+        "title": "Technical Solutions Specialist - Stripe Products - API Integrations",
+        "active": true,
+        "date_updated": 1779183901,
+        "date_posted": 1778826060,
+        "url": "https://stripe.com/jobs/search?gh_jid=7919030",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Stripe",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
