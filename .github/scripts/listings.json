@@ -291942,7 +291942,7 @@
         "company_name": "Anthropic",
         "id": "cae148c6-4ac9-4ecd-b929-2dea3f0fe173",
         "title": "Anthropic Fellows Program",
-        "active": true,
+        "active": false,
         "date_updated": 1776981961,
         "date_posted": 1765497408,
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5023394008",
@@ -313551,7 +313551,7 @@
         "company_name": "Affirm",
         "id": "c954b64e-bc63-4eec-b891-bede5de48831",
         "title": "Analyst 1 - Full Stack",
-        "active": true,
+        "active": false,
         "date_updated": 1778721944,
         "date_posted": 1778721696,
         "url": "https://job-boards.greenhouse.io/affirm/jobs/7726627003",
@@ -319129,5 +319129,143 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Cisco",
+        "id": "cfe777d3-31a8-4a86-937e-e9a4366da3fb",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1779152941,
+        "date_posted": 1779152891,
+        "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/Software-Engineer_2011789-1",
+        "locations": [
+            "Research Triangle, Durham, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Cisco",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Symbotic",
+        "id": "7b728d82-4363-4654-b38a-640d01135c35",
+        "title": "3D Graphics Software Engineer New Grad",
+        "active": true,
+        "date_updated": 1779153198,
+        "date_posted": 1779152870,
+        "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Milpitas-CA/New-Grad--3D-Graphics-Software-Engineer_R6845",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/symbotic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Guidewire",
+        "id": "988675a2-1934-4661-952d-ccdb2c340a0a",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1779153150,
+        "date_posted": 1779152890,
+        "url": "https://guidewire.wd5.myworkdayjobs.com/external/job/United-States---Exton-PA/Senior-Software-Engineer_JR_14101",
+        "locations": [
+            "Exton, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Guidewire",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Jabil",
+        "id": "ad86b4e5-d260-49d4-b0ec-41429f09d2f3",
+        "title": "Diagnostic Technician",
+        "active": true,
+        "date_updated": 1779153121,
+        "date_posted": 1779152953,
+        "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Florence-KY/Diagnostic-Technician_J2440714-1",
+        "locations": [
+            "Florence, KY"
+        ],
+        "company_url": "https://simplify.jobs/c/Jabil",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Lila Sciences",
+        "id": "7d0e569e-2131-4b13-bcc4-2f9f519e79ed",
+        "title": "Software Engineer 1 - Instrument Software",
+        "active": true,
+        "date_updated": 1779153752,
+        "date_posted": 1779153321,
+        "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4186444009",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Lila-Sciences",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Symbotic",
+        "id": "5c4a7def-1af2-41c3-94ca-2c887fe55ef7",
+        "title": "Software Engineer New Grad - Machine Learning Operations",
+        "active": true,
+        "date_updated": 1779153131,
+        "date_posted": 1779152866,
+        "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Software-Engineer---ML-Ops_R6028",
+        "locations": [
+            "Burlington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/symbotic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Poshmark",
+        "id": "3124a062-2380-4b0b-9bba-1e01b2b12476",
+        "title": "Software Engineer - Site Reliability Engineering",
+        "active": true,
+        "date_updated": 1779153121,
+        "date_posted": 1779152953,
+        "url": "https://jobs.ashbyhq.com/poshmark/366705e3-a0d9-4cd5-b5c2-4f657344455b/application",
+        "locations": [
+            "San Carlos, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Poshmark",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
