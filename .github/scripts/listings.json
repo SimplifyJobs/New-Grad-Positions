@@ -319045,5 +319045,89 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TRM Labs",
+        "id": "f5849d4c-d690-4d3a-95c8-768b874ff26e",
+        "title": "Product Engineer",
+        "active": true,
+        "date_updated": 1779153218,
+        "date_posted": 1779152917,
+        "url": "https://jobs.ashbyhq.com/trm-labs/0b8546c0-39ba-44db-aba5-3425bcb2e68d/application",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/TRM-Labs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Lila Sciences",
+        "id": "dcce3d04-41ab-4d64-b3d7-00f2e7d1d666",
+        "title": "Machine Learning Scientist 1/2 - Scientific Reasoning",
+        "active": true,
+        "date_updated": 1779153573,
+        "date_posted": 1779153312,
+        "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4031437009",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Lila-Sciences",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Cortland",
+        "id": "db07f487-15be-49b6-a91a-f56c9d27a0b5",
+        "title": "Investment Analyst",
+        "active": true,
+        "date_updated": 1779152761,
+        "date_posted": 1779152739,
+        "url": "https://job-boards.greenhouse.io/cortland/jobs/4215693009",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/d4492fc5-db95-4fdf-826c-5b9d88acc1a1",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Anthropic",
+        "id": "e017280c-734c-4023-945e-28d06b72676c",
+        "title": "Anthropic Fellows Program - Institute Fellows - Economics & Policy",
+        "active": true,
+        "date_updated": 1779153121,
+        "date_posted": 1777010708,
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5183053008",
+        "locations": [
+            "London, UK",
+            "SF",
+            "Ontario, Canada",
+            "Berkeley, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Anthropic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
