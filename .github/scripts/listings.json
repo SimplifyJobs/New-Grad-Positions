@@ -263798,7 +263798,7 @@
         "company_name": "Huntington Ingalls Industries",
         "id": "84b6198f-720f-4bfc-a607-0ee4761a5b44",
         "title": "Software Developer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1775542681,
         "date_posted": 1775542026,
         "url": "https://careers.huntingtoningalls.com/job/Newport-News-SOFTWARE-DEVELOPER-1-Virg/1379799800/?ats=successfactors",
@@ -319267,5 +319267,106 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cadence Design Systems",
+        "id": "07a7fc86-80de-471b-a14a-d6d27aa26c7b",
+        "title": "Software Engineer \u2013 New College Grad - Numerical Analysis - C++",
+        "active": true,
+        "date_updated": 1779170941,
+        "date_posted": 1779170844,
+        "url": "https://cadence.wd1.myworkdayjobs.com/University_Talent/job/BOSTON-02/Software-Engineer--Numerical-Analysis--C----Optimization--Mathematics----New-College-Grad_R52506-1",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cadence Design Systems",
+        "id": "acfe41f7-8550-4491-a9b8-4f673663fcce",
+        "title": "Software Engineer New Grad - Numerical Analysis - C++",
+        "active": true,
+        "date_updated": 1779171088,
+        "date_posted": 1779170847,
+        "url": "https://cadence.wd1.myworkdayjobs.com/University_Talent_NCG/job/BOSTON-02/Software-Engineer--Numerical-Analysis--C----Optimization--Mathematics----New-College-Grad_R52506",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Daimler Truck",
+        "id": "cdba8f5d-6c91-45e1-b2a3-c27688f44c04",
+        "title": "Technical Project Leader 1",
+        "active": true,
+        "date_updated": 1779171243,
+        "date_posted": 1779170870,
+        "url": "https://dtna.wd5.myworkdayjobs.com/dtna_affiliate/job/Portland-OR-US/Technical-Project-Leader-I_DT-17998",
+        "locations": [
+            "Portland, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Daimler-Truck",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northrop Grumman",
+        "id": "52a27f93-5a64-4a9f-8a1b-faa28ccc2704",
+        "title": "Associate Engineer Microelectronic Semiconductors",
+        "active": true,
+        "date_updated": 1779170941,
+        "date_posted": 1779170854,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/Associate-Engineer-Microelectronic-Semiconductors_R10233379-1",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Duke Energy",
+        "id": "6cf5e656-aea5-49b7-8fb3-8bb340d46021",
+        "title": "Natural Gas GIS Technologist 1",
+        "active": true,
+        "date_updated": 1779170976,
+        "date_posted": 1779170718,
+        "url": "https://dukeenergy.wd1.myworkdayjobs.com/search/job/Cincinnati-OH/Natural-Gas-GIS-Technologist-I_R39769",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Duke-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
     }
 ]
