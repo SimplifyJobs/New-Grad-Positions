@@ -214418,7 +214418,7 @@
         "company_name": "EOS IT Solutions",
         "id": "60bf8c1e-8aa3-4985-a440-ee966a7473ff",
         "title": "Data Center Repair Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1772838838,
         "date_posted": 1772838838,
         "url": "https://eosits.com/company/careers/?gh_jid=8453575002",
@@ -255476,7 +255476,7 @@
         "company_name": "Trane Technologies",
         "id": "6888be41-d61d-4cd3-8b99-d0f8c0154fd3",
         "title": "Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1775054695,
         "date_posted": 1775052602,
         "url": "https://careers.tranetechnologies.com/global/en/job/92601494",
@@ -319461,6 +319461,45 @@
             "Lehi, UT"
         ],
         "company_url": "https://simplify.jobs/c/EOS-IT-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Salesforce",
+        "id": "3fc8acfe-9511-4618-8089-8f94d686a3b0",
+        "title": "Product Manager Associate - Mulesoft",
+        "active": true,
+        "date_updated": 1779180246,
+        "date_posted": 1779142091,
+        "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Associate-Product-Manager_JR342622",
+        "locations": [
+            "SF",
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Salesforce",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "General Dynamics Mission Systems",
+        "id": "7191698a-0d44-4bc1-bc03-7808cef883e9",
+        "title": "Entry Level Systems Engineer",
+        "active": true,
+        "date_updated": 1779181090,
+        "date_posted": 1777943211,
+        "url": "https://careers-gdms.icims.com/jobs/72420/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Pittsfield, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
