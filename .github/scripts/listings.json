@@ -67498,7 +67498,7 @@
         "company_name": "RWS",
         "id": "1c4d8d25-46e8-4ab2-9cf7-6dc05d6ec04a",
         "title": "AI Data Specialist - Georgia - US",
-        "active": false,
+        "active": true,
         "date_updated": 1763766945,
         "date_posted": 1763766945,
         "url": "https://jobs.lever.co/rws/d5edfc8c-508f-496b-964e-66077dfcb995/apply",
@@ -130936,7 +130936,7 @@
         "company_name": "mthree",
         "id": "6f23fa62-e0aa-4f90-a971-1a9590ccfce8",
         "title": "Entry Level Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1768530608,
         "date_posted": 1768530608,
         "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4645471006",
@@ -209599,7 +209599,7 @@
         "company_name": "StubHub",
         "id": "6daa637b-d0ee-48a8-8faa-691c6730d9f9",
         "title": "Software Engineer 1 - New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1772668022,
         "date_posted": 1772668022,
         "url": "https://job-boards.eu.greenhouse.io/stubhubinc/jobs/4796066101",
@@ -268993,7 +268993,7 @@
         "company_name": "NextEra Energy",
         "id": "86f2b214-ca03-4538-be78-4f52056b8194",
         "title": "Applied Scientist 1",
-        "active": false,
+        "active": true,
         "date_updated": 1775775566,
         "date_posted": 1775772547,
         "url": "https://jobs.nexteraenergy.com/job/St_-Paul-Applied-Scientist-I-MN-55107/1381060800/?ats=successfactors",
@@ -271581,7 +271581,7 @@
         "company_name": "RTX",
         "id": "9a9c1ada-2ccb-4067-8da6-024ae713745a",
         "title": "Power & Analog Design Engineer 2",
-        "active": true,
+        "active": false,
         "date_updated": 1775905226,
         "date_posted": 1775902921,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Raytheon-Full-Time-2026---Power---Analog-Design-Engineer-II_01836163",
@@ -316970,7 +316970,7 @@
         "company_name": "PatientPoint",
         "id": "5e8c8a5a-8a17-488a-935d-9489a58c8d4a",
         "title": "Product Manager - Ad Tech",
-        "active": true,
+        "active": false,
         "date_updated": 1778883121,
         "date_posted": 1778882965,
         "url": "https://job-boards.greenhouse.io/patientpoint/jobs/4695334005",
@@ -318264,7 +318264,7 @@
         "company_name": "Pine Rest",
         "id": "996f1161-ee9d-4ce0-adcb-5648aae51613",
         "title": "Partial Hospitalization Program Unit Coordinator - Child & Adolescent",
-        "active": true,
+        "active": false,
         "date_updated": 1779114143,
         "date_posted": 1779113196,
         "url": "https://pinerest.wd5.myworkdayjobs.com/en-US/PineRest/job/Grand-Rapids-MI/Unit-Coordinator--PHP-Child---Adolescent--Full-Time_JR104819",
@@ -319748,6 +319748,169 @@
             "Master's",
             "MBA",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northrop Grumman",
+        "id": "a9b775df-5621-4fd0-8f92-88e7195729a0",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1779229204,
+        "date_posted": 1779228486,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2026-Associate-Software-Engineer---Software-Engineer_R10204594-1",
+        "locations": [
+            "Melbourne, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Legrand",
+        "id": "7b3ba5dc-e16f-44bc-aafb-14c4cec7c77c",
+        "title": "Product Manager Associate",
+        "active": true,
+        "date_updated": 1779228692,
+        "date_posted": 1779228331,
+        "url": "https://jobs-legrand.icims.com/jobs/10103/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Syracuse, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Legrand",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "BCBST",
+        "id": "a4905fec-8213-4c53-ada9-7ff5ad3d5b76",
+        "title": "Associate Software Engineer 1",
+        "active": true,
+        "date_updated": 1779228695,
+        "date_posted": 1779228323,
+        "url": "https://bcbst.wd1.myworkdayjobs.com/en-US/External/job/USA-TN-Chattanooga-Remote/Associate-Software-Engineer-I_R-49305",
+        "locations": [
+            "Remote in USA",
+            "Chattanooga, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/6624eec0-5300-4435-a8f4-e88cda773305",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cotiviti",
+        "id": "ff1626d4-c45e-4565-8067-1fac2c490b22",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1779228361,
+        "date_posted": 1779228328,
+        "url": "https://careers-cotiviti.icims.com/jobs/19263/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cotiviti",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "BlackRock",
+        "id": "77c06b82-cd39-4a5f-9f95-cea903cdaff9",
+        "title": "Algo Engineer - Index Equity Technology",
+        "active": true,
+        "date_updated": 1779228541,
+        "date_posted": 1779228400,
+        "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/London-Greater-London/Algo-Engineer--Associate---Index-Equity-Technology_R264082",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/BlackRock",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CareBridge",
+        "id": "9f526f88-4912-4f45-b4e9-8250e9163dd8",
+        "title": "Data Operations and Reporting Analyst - Business Information Analyst I",
+        "active": true,
+        "date_updated": 1779228361,
+        "date_posted": 1779228278,
+        "url": "https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/FL-LAKE-MARY-3200-LAKE-EMMA-RD-STE-1000/Data-Operations-and-Reporting-Analyst--Business-Information-Analyst-I-_JR193569",
+        "locations": [
+            "Lake Mary, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/CareBridge",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Centific",
+        "id": "9ba29fe7-9d90-4fbd-b38b-9e4d1e887041",
+        "title": "Software Engineer 2 - 4",
+        "active": true,
+        "date_updated": 1779228619,
+        "date_posted": 1779228325,
+        "url": "https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/SDE2-4_JR107320-1",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Centific",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Kohl's",
+        "id": "76a32549-656d-40bd-b71e-59b29f6eacfe",
+        "title": "Assistant Designer - Lauren Conrad",
+        "active": true,
+        "date_updated": 1779228361,
+        "date_posted": 1779228306,
+        "url": "https://kohls.wd1.myworkdayjobs.com/kohlscareers/job/New-York-Design-Office-0908/Assistant-Designer---LC_R471706",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Kohls",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
