@@ -295984,7 +295984,7 @@
         "company_name": "Marvell",
         "id": "c17951e7-c405-494d-ac01-d93e59f0cf3a",
         "title": "Application Engineer \u2013 Early Career",
-        "active": true,
+        "active": false,
         "date_updated": 1777414141,
         "date_posted": 1777414047,
         "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Application-Engineer---Early-Career_2601344-1",
@@ -304428,7 +304428,7 @@
         "company_name": "Amazon",
         "id": "984e6460-82ce-4615-9ded-bfefb4dd9057",
         "title": "AI Data Associate - Artificial General Intelligence Data Services",
-        "active": true,
+        "active": false,
         "date_updated": 1778058493,
         "date_posted": 1778058082,
         "url": "https://amazon.jobs/en/jobs/10406474/ai-data-associate-with-dutch-artificial-general-intelligence-data-services",
@@ -307778,7 +307778,7 @@
         "company_name": "SharkNinja",
         "id": "6c9c384c-03ab-4777-a6d7-834e07c0cc2a",
         "title": "Global Consumer Insights Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1778193901,
         "date_posted": 1778192356,
         "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4679449006",
@@ -314656,7 +314656,7 @@
         "company_name": "PGIM",
         "id": "86f04dd0-d6f4-4e46-92c8-e3bb361f7ee6",
         "title": "Data Analyst - Process Management",
-        "active": true,
+        "active": false,
         "date_updated": 1778767741,
         "date_posted": 1778767566,
         "url": "https://pru.wd5.myworkdayjobs.com/pgim_careers/job/Letterkenny-Ireland/Data-Analyst---Process-Management--12-Month-FTC----PGIM-Ireland_R-124338",
@@ -317725,7 +317725,7 @@
         "company_name": "Halliburton",
         "id": "e0172a2d-7569-4c8a-b87c-84f79e8f7602",
         "title": "Machine Learning Geoscientist - Jr",
-        "active": true,
+        "active": false,
         "date_updated": 1778922373,
         "date_posted": 1778922345,
         "url": "https://jobs.halliburton.com/job/Abingdon-Machine-Learning-Geoscientist-Jr-OXF-OX14-4RW/1346931800/?ats=successfactors",
@@ -319580,6 +319580,26 @@
             "Chicago, IL"
         ],
         "company_url": "https://simplify.jobs/c/Stripe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GE Healthcare",
+        "id": "bed67ab5-2e1a-43e0-8dcf-f6cf112bd57a",
+        "title": "Graduate Services Trainee",
+        "active": true,
+        "date_updated": 1779184081,
+        "date_posted": 1778941926,
+        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Graduate-Services-Trainee_R4041158-1",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Healthcare",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
