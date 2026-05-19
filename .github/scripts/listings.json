@@ -215443,7 +215443,7 @@
         "company_name": "EOS IT Solutions",
         "id": "2452a9b1-23dd-46e5-aab8-3bdda63623e0",
         "title": "Data Center Repair Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1772849651,
         "date_posted": 1772849651,
         "url": "https://eosits.com/company/careers/?gh_jid=8453113002",
@@ -276907,7 +276907,7 @@
         "company_name": "Falconwood",
         "id": "32d7c3c7-17cb-48ec-ab98-3a85f40385a6",
         "title": "M365 Platform Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1776242172,
         "date_posted": 1774908190,
         "url": "https://careers-falconwood.icims.com/jobs/1700/job?mobile=true&needsRedirect=false",
@@ -306410,7 +306410,7 @@
         "company_name": "Aircall",
         "id": "43b8e171-c858-4a96-aa53-d558b1b4bbdd",
         "title": "Full Stack Software Engineer - GTM AI Automation",
-        "active": true,
+        "active": false,
         "date_updated": 1778105356,
         "date_posted": 1778105214,
         "url": "https://jobs.lever.co/aircall/f823d560-84f0-4f59-9f4e-0c51c03972b1/apply",
@@ -319421,6 +319421,46 @@
             "Belfast, UK"
         ],
         "company_url": "https://simplify.jobs/c/Olo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cadence Design Systems",
+        "id": "0e04f7a9-e2b4-4c1c-b8e4-2f0a3feb8537",
+        "title": "Software Engineer New Grad - Numerical Analysis - C++",
+        "active": true,
+        "date_updated": 1779178749,
+        "date_posted": 1778942168,
+        "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/BOSTON-02/Software-Engineer_R52506",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "EOS IT Solutions",
+        "id": "45a17811-98a5-4edc-b2f0-4da07f504cb2",
+        "title": "Data Center Repair Technician",
+        "active": true,
+        "date_updated": 1779179761,
+        "date_posted": 1778710078,
+        "url": "https://eosits.com/company/careers/?gh_jid=8548252002",
+        "locations": [
+            "Lehi, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/EOS-IT-Solutions",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
