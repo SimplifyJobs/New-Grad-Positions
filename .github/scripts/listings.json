@@ -220871,7 +220871,7 @@
         "company_name": "Intertek",
         "id": "dab4035f-ed74-4b8e-8c5c-e9143e53bd7a",
         "title": "Electrical Safety Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773266904,
         "date_posted": 1773266904,
         "url": "https://hcog.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/14215",
@@ -252872,7 +252872,7 @@
         "company_name": "Emory University",
         "id": "eada7e63-8874-4f3f-a6c0-fe40f00fc8c5",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1774986841,
         "date_posted": 1774879486,
         "url": "https://staff-emory.icims.com/jobs/163615/job?mobile=true&needsRedirect=false",
@@ -275479,7 +275479,7 @@
         "company_name": "BRG",
         "id": "70be1f38-497e-4e1d-895c-91cad4ab3ab0",
         "title": "Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1776177913,
         "date_posted": 1776175773,
         "url": "https://thinkbrg.wd5.myworkdayjobs.com/en-US/BRG_External_Career_Site/job/Remote---USA/Data-Analyst_JR100772",
@@ -279461,7 +279461,7 @@
         "company_name": "Hyster-Yale Materials Handling",
         "id": "68a66352-b879-475d-824b-d9a5745d6877",
         "title": "Application Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1776348894,
         "date_posted": 1776348500,
         "url": "https://hysteryale.wd1.myworkdayjobs.com/hyster-yalecareers/job/HY-EMEA-UK-Irvine/Application-Engineer-I_R7945",
@@ -285617,7 +285617,7 @@
         "company_name": "MarketAxess",
         "id": "e4b7be2d-b636-4f8e-b2d3-c3347cc46b9b",
         "title": "Product Associate - Data & Analytics",
-        "active": true,
+        "active": false,
         "date_updated": 1776694861,
         "date_posted": 1776694856,
         "url": "https://www.marketaxess.com/careers/current-openings/detail/jobs/4674188006?gh_jid=4674188006",
@@ -305436,7 +305436,7 @@
         "company_name": "Apple",
         "id": "cc07e63b-ac37-458d-83b1-c40ed9af146f",
         "title": "ASIC Design and Integration Engineer \u2013 Silicon Security",
-        "active": true,
+        "active": false,
         "date_updated": 1778078632,
         "date_posted": 1778076753,
         "url": "https://jobs.apple.com/en-us/details/200652710",
@@ -307416,7 +307416,7 @@
         "company_name": "Ring Power",
         "id": "ddbe827a-f0da-4b07-b5ab-212063146054",
         "title": "Business Intelligence Developer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1778163045,
         "date_posted": 1778162592,
         "url": "https://careers-ringpower.icims.com/jobs/14669/job?mobile=true&needsRedirect=false",
@@ -312929,7 +312929,7 @@
         "company_name": "Ciena",
         "id": "da84358f-a28a-44a8-a020-4f2133238ad7",
         "title": "Software Engineer New Grad - Security",
-        "active": true,
+        "active": false,
         "date_updated": 1778709171,
         "date_posted": 1778623770,
         "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/Software-Engineer--Security----New-Grad_R030880",
@@ -318445,7 +318445,7 @@
         "company_name": "Telligen",
         "id": "db30caee-7fef-4771-9ff6-3c53d756a019",
         "title": "Population Health Data Quality Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1779142141,
         "date_posted": 1779141977,
         "url": "https://jobs.lever.co/telligen/0e1fbca9-83f2-4cef-9f7e-bcbc4eeae23d/apply",
@@ -319604,6 +319604,150 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Halliburton",
+        "id": "f1e5e8b4-e1b1-4c33-9df4-f6e5cfdbb83d",
+        "title": "Software Engineer Early Career",
+        "active": true,
+        "date_updated": 1779200505,
+        "date_posted": 1779199568,
+        "url": "https://jobs.halliburton.com/job/Houston-a_-Software-Engineer-Early-Career-Landmark-TX-77032/1392092600/?ats=successfactors",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Halliburton",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "3984fe8b-420a-469e-8387-c3e3dc32334c",
+        "title": "Electronics Technician",
+        "active": true,
+        "date_updated": 1779200101,
+        "date_posted": 1779199706,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/GB-BIR-BIRMINGHAM-001--1-Marston-Green--GOODRICH-CONTROL-SYS/Electronics-Technician_01829789",
+        "locations": [
+            "Birmingham, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Amazon",
+        "id": "0f1f7bcb-9816-4123-bc90-31934a5fe59b",
+        "title": "AI Data Associate - French - Artificial General Intelligence",
+        "active": true,
+        "date_updated": 1779199741,
+        "date_posted": 1779199576,
+        "url": "https://amazon.jobs/en/jobs/10422810/ai-data-associate-french-artificial-general-intelligence",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "34d47909-bd89-473e-b483-df96c8ab0871",
+        "title": "Software Engineer - Core OS Telemetry - Coreos",
+        "active": true,
+        "date_updated": 1779199741,
+        "date_posted": 1779199619,
+        "url": "https://jobs.apple.com/en-us/details/200664148",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "AtkinsR\u00e9alis",
+        "id": "bfe5053e-2537-4cca-9fd4-8ee5fc856919",
+        "title": "Assistant Data Analyst",
+        "active": true,
+        "date_updated": 1779200461,
+        "date_posted": 1779199661,
+        "url": "https://slihrms.wd3.myworkdayjobs.com/careers/job/GBWhitehavenRutherford-House/Assistant-Data-Analyst_R-155828",
+        "locations": [
+            "Workington, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/AtkinsRealis",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Halliburton",
+        "id": "3d99af9d-83d1-4c89-bb7b-98590e3a16fa",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1779200036,
+        "date_posted": 1779199567,
+        "url": "https://jobs.halliburton.com/job/Calgary-Software-Engineer-Early-Career-Landmark-AB-T2P-3V4/1392093600/?ats=successfactors",
+        "locations": [
+            "Calgary, AB, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Halliburton",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Addepar",
+        "id": "a98ef4ad-c549-440e-9054-087a9929433a",
+        "title": "Associate Software Engineer - Data Intelligence - Adx",
+        "active": true,
+        "date_updated": 1779199741,
+        "date_posted": 1778144608,
+        "url": "https://job-boards.greenhouse.io/addepar1/jobs/8535085002",
+        "locations": [
+            "Edinburgh, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Addepar",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "PhD"
         ]
     }
 ]
