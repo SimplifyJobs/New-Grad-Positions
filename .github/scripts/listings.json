@@ -48380,24 +48380,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "TikTok",
-        "id": "968861aa-54de-4054-96cb-76bb71579629",
-        "title": "Machine Learning Engineer Graduate - Brand Ads",
-        "active": false,
-        "date_updated": 1758506204,
-        "date_posted": 1758506204,
-        "url": "https://lifeattiktok.com/search/7535396503751772423",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Five9",
         "id": "baf95d35-ee95-465b-b81b-f59fe6e89a8d",
         "title": "Associate Data Scientist/AI Trainer",
@@ -188058,7 +188040,7 @@
         "company_name": "Jabil",
         "id": "c0db0532-8967-4fd9-9064-ab9f9c6e5626",
         "title": "Diagnostic Technician 1",
-        "active": false,
+        "active": true,
         "date_updated": 1771631392,
         "date_posted": 1771631392,
         "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Florence-KY/Diagnostic-Technician-1_J2440710",
@@ -309901,7 +309883,7 @@
         "company_name": "Jabil",
         "id": "eb5a3cd7-f4cb-44cb-9434-4ec124ec06f3",
         "title": "Electronic Technician 1",
-        "active": false,
+        "active": true,
         "date_updated": 1778327167,
         "date_posted": 1778322754,
         "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Memphis-TN/Electronic-Technician-I_J2447879",
@@ -310113,7 +310095,7 @@
         "company_name": "Klue",
         "id": "3fcf4a1e-5100-486e-bcf3-a0263e577fd4",
         "title": "Software Engineer 1 - Artificial Intelligence",
-        "active": true,
+        "active": false,
         "date_updated": 1778315988,
         "date_posted": 1777932561,
         "url": "https://jobs.ashbyhq.com/klue/ed50e681-1363-4141-ae60-bca17eba5f04/application",
@@ -320647,5 +320629,25 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Centific",
+        "id": "ea2a33ce-7b4b-4668-aef4-040db65c4418",
+        "title": "Software Development Engineer 2",
+        "active": true,
+        "date_updated": 1779239384,
+        "date_posted": 1779239134,
+        "url": "https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/SDE2-3_JR107319-1",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Centific",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
