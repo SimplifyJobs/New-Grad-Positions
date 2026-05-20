@@ -1372,7 +1372,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (1250)</summary>
+<summary>🗃️ Inactive roles (1248)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -2667,7 +2667,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>1mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/General-Dynamics-Mission-Systems?utm_source=GHList&utm_medium=company">General Dynamics Mission Systems</a></strong></td>
+<td>↳</td>
 <td>Software Engineer – Entry Level 🇺🇸</td>
 <td>Scottsdale, AZ</td>
 <td>🔒</td>
@@ -10121,20 +10121,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>🔒</td>
 <td>7mo</td>
 </tr>
-<tr>
-<td><strong>Tencent</strong></td>
-<td>Cloud PaaS Associate Site Reliability Engineer</td>
-<td>Palo Alto, CA</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/a1a5e91c-79e8-44ef-a474-3b5b939c9c5c?utm_source=GHList&utm_medium=company">EverCommerce</a></strong></td>
-<td>Junior Software Engineer</td>
-<td>Ontario, Canada</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
 </tbody>
 </table>
 
@@ -12785,7 +12771,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (20)</summary>
+<summary>🗃️ Inactive roles (19)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -12928,13 +12914,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><strong><a href="https://simplify.jobs/c/Gauntlet-Networks?utm_source=GHList&utm_medium=company">Gauntlet Networks</a></strong></td>
 <td>Quant Research Engineer – New Grad</td>
 <td><details><summary><strong>4 locations</strong></summary>SF</br>LA</br>NYC</br>Remote in Canada</details></td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td><strong>Capstone</strong></td>
-<td>Associate, Quantitative Developer 🎓</td>
-<td>New York, NY</td>
 <td>🔒</td>
 <td>7mo</td>
 </tr>
