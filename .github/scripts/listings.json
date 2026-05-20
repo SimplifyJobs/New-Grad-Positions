@@ -273671,7 +273671,7 @@
         "company_name": "Fiserv",
         "id": "7d95fb50-9917-4e04-8588-c2db3fd32be9",
         "title": "Android Systems Engineer - Core Payments",
-        "active": false,
+        "active": true,
         "date_updated": 1776119591,
         "date_posted": 1776118069,
         "url": "https://fiserv.wd5.myworkdayjobs.com/ext/job/Sunnyvale-California/Android-Systems-Engineer---Core-Payments_R-10370875-1",
@@ -315182,7 +315182,7 @@
         "company_name": "Baker Hughes",
         "id": "f67e934b-3ab9-4bdd-b1f1-072270463fc3",
         "title": "Manufacturing Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1778797261,
         "date_posted": 1778796553,
         "url": "https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/US-NV-MINDEN-1631-BENTLY-PARKWAY-SOUTH/Manufacturing-Software-Engineer_R163821",
@@ -320591,5 +320591,61 @@
         "degrees": [
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Toast",
+        "id": "4ceafaa7-34d8-4fab-ab3f-04dde972d36b",
+        "title": "Software Engineer 1 - Fullstack - Employee Development",
+        "active": true,
+        "date_updated": 1779240111,
+        "date_posted": 1779239889,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=7895601",
+        "locations": [
+            "Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Toast",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Bellese",
+        "id": "97307f7b-1111-4c7f-bb01-22872f2cde6e",
+        "title": "Technology Associate \u2013 Entry Level",
+        "active": true,
+        "date_updated": 1779239341,
+        "date_posted": 1779239299,
+        "url": "https://jobs.lever.co/bellese/b9c490bd-0de2-4ec5-9359-a08a4b7dfa4e/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Bellese",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "SharkNinja",
+        "id": "79addb0b-583c-4539-83dd-a8f38df8a6e6",
+        "title": "Associate Product Developer - Floorcare",
+        "active": true,
+        "date_updated": 1779240061,
+        "date_posted": 1778710791,
+        "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4680264006",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/SharkNinja",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
