@@ -54056,7 +54056,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "6adb7270-df23-45cc-bb13-68784e42c0d5",
         "title": "Quantitative Researcher - Master's: 2026",
-        "active": true,
+        "active": false,
         "date_updated": 1763163779,
         "date_posted": 1759769813,
         "url": "https://careers-sig.icims.com/jobs/9437/job?mobile=true&needsRedirect=false",
@@ -196474,7 +196474,7 @@
         "company_name": "ABB",
         "id": "12896e7e-08bc-4f0e-9e22-c825ef8c7a07",
         "title": "R&D Testing & Lab Specialist",
-        "active": false,
+        "active": true,
         "date_updated": 1772061658,
         "date_posted": 1772061658,
         "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Mebane/R-D-Testing---Lab-Specialist_JR00022333",
@@ -232131,7 +232131,7 @@
         "company_name": "Arthur Grand Technologies",
         "id": "c5e96a2e-51ca-43d8-aa10-231b3cdc5e3f",
         "title": "ERP Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773871479,
         "date_posted": 1773871479,
         "url": "https://jobs.smartrecruiters.com/ArthurGrandTechnologiesInc/744000115491098",
@@ -267955,7 +267955,7 @@
         "company_name": "Vanguard",
         "id": "dce0c374-1ab3-4f72-b4b5-a95c098791d5",
         "title": "Application Engineer - I - PI Tech",
-        "active": false,
+        "active": true,
         "date_updated": 1775774169,
         "date_posted": 1775772467,
         "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/contractors_restricted/job/Malvern-PA/Application-Engineer---I---PI-Tech_171220",
@@ -281468,7 +281468,7 @@
         "company_name": "Arthur Grand Technologies",
         "id": "f75f0ef0-4976-4878-ac6d-176ddeea0c1c",
         "title": "Syteline ERP Support",
-        "active": false,
+        "active": true,
         "date_updated": 1776463381,
         "date_posted": 1776463360,
         "url": "https://jobs.smartrecruiters.com/ArthurGrandTechnologiesInc/744000121473057",
@@ -285825,7 +285825,7 @@
         "company_name": "Microchip Technology",
         "id": "3ef80712-662c-439f-ac99-8bd718b7960d",
         "title": "Engineer 1 - Parametric - Test and Device",
-        "active": false,
+        "active": true,
         "date_updated": 1776723732,
         "date_posted": 1776723432,
         "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/AZ---Chandler/Engineer-I--Parametric--Test-and-Device-_R1661-26",
@@ -295023,7 +295023,7 @@
         "company_name": "Amentum",
         "id": "d5d13d37-bdf3-4439-a4fd-7c688e49e307",
         "title": "Entry Level Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1777338542,
         "date_posted": 1777338400,
         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0160036",
@@ -301484,7 +301484,7 @@
         "company_name": "Vermeer",
         "id": "b6bc7cd6-3ff6-4af1-a706-3472fab665f7",
         "title": "Data Analyst 1 - Lifecycle",
-        "active": false,
+        "active": true,
         "date_updated": 1777933091,
         "date_posted": 1777932449,
         "url": "https://vermeer.wd5.myworkdayjobs.com/externalcareersite/job/Pella-Iowa-USA---Global-Parts-Distribution-Center-Front-Office/Data-Analyst-I---Lifecycle_REQ-21221-2",
@@ -309280,7 +309280,7 @@
         "company_name": "Otis Worldwide",
         "id": "66a48545-4651-4a8c-abb4-fb5509081601",
         "title": "Entry Level Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1778278141,
         "date_posted": 1778277983,
         "url": "https://otis.wd5.myworkdayjobs.com/rec_ext_gateway/job/OT999-1CP---Farmington-CT-One-Carrier-Place-Farmington-CT-06032-USA/Entry-Level-Software-Engineer_20156951",
@@ -315207,7 +315207,7 @@
         "company_name": "Genuine Parts Company",
         "id": "f4a25334-e1f0-48a5-a968-46aa52d4e253",
         "title": "Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1778796769,
         "date_posted": 1778796327,
         "url": "https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Software-Engineer-I_R26_0000010997",
@@ -320809,5 +320809,69 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Lasko Products",
+        "id": "1903e1d8-f50b-439b-97c0-a6b7d842dc2c",
+        "title": "Associate Product Marketing Manager",
+        "active": true,
+        "date_updated": 1779314955,
+        "date_posted": 1779314809,
+        "url": "https://job-boards.greenhouse.io/laskoproducts/jobs/5142878007",
+        "locations": [
+            "West Chester, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Lasko-Products",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "MBA"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "S&C Electric Company",
+        "id": "13f18d09-7a95-487d-aa7f-64cb9aead914",
+        "title": "Software Engineer 1 - Early Talent Program",
+        "active": true,
+        "date_updated": 1779315717,
+        "date_posted": 1779314852,
+        "url": "https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/106671",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/S-And-C-Electric-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "General Dynamics",
+        "id": "6380fc8a-a34b-4097-9105-0a51a4320e5b",
+        "title": "Main Propulsion Control System - Multiple Teams",
+        "active": true,
+        "date_updated": 1779315535,
+        "date_posted": 1779314839,
+        "url": "https://careers-gdeb.icims.com/jobs/17601/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Groton, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
