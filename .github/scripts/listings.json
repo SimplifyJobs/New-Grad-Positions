@@ -243824,7 +243824,7 @@
         "company_name": "Johnson & Johnson",
         "id": "69d83425-5a3d-4212-ab58-70c7fcdf371e",
         "title": "Postdoctoral Scientist Data Science AI/ML & DH",
-        "active": true,
+        "active": false,
         "date_updated": 1774479459,
         "date_posted": 1774479459,
         "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Beerse-Antwerp-Belgium/Postdoctoral-Scientist-Data-Science-AI-ML---DH_R-060722-1",
@@ -260605,7 +260605,7 @@
         "company_name": "Arrow Electronics",
         "id": "b2f7f2fe-d15b-4950-8e33-5c6a234457b9",
         "title": "SQM Financial Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1775296981,
         "date_posted": 1775295391,
         "url": "https://arrow.wd1.myworkdayjobs.com/ac/job/Purchase-New-York/SQM-Financial-Data-Analyst_R242574",
@@ -263321,7 +263321,7 @@
         "company_name": "Peraton",
         "id": "b6119cda-d85a-4f85-870b-ec7ef33d6781",
         "title": "Junior Cyber Software Engineer - UI Alerting",
-        "active": false,
+        "active": true,
         "date_updated": 1775716984,
         "date_posted": 1775524035,
         "url": "https://careers-peraton.icims.com/jobs/165429/job?mobile=true&needsRedirect=false",
@@ -289171,7 +289171,7 @@
         "company_name": "Groupon",
         "id": "977e9e4c-669d-4c80-a8c9-433e0d4fd933",
         "title": "AI-Powered Growth Intelligence Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1776867301,
         "date_posted": 1776867172,
         "url": "https://job-boards.eu.greenhouse.io/groupon/jobs/4847419101",
@@ -296342,7 +296342,7 @@
         "company_name": "Cresta",
         "id": "eb65f2c4-551e-4527-bf48-ec5b95f51053",
         "title": "AI Value Partner - Customer Analytics",
-        "active": true,
+        "active": false,
         "date_updated": 1777414761,
         "date_posted": 1777414142,
         "url": "https://job-boards.greenhouse.io/cresta/jobs/5074999008",
@@ -318551,7 +318551,7 @@
         "company_name": "SharkNinja",
         "id": "a036dc54-e6f1-4012-8e68-53f0c2cd677b",
         "title": "Analyst \u2013 Retail Excellence",
-        "active": true,
+        "active": false,
         "date_updated": 1779143581,
         "date_posted": 1779142822,
         "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4681139006",
@@ -320873,5 +320873,268 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SpaceX",
+        "id": "c8ebd7cf-ad8f-40af-b281-b1f22b13842f",
+        "title": "Software Engineer - Platform Team",
+        "active": true,
+        "date_updated": 1779315841,
+        "date_posted": 1779315080,
+        "url": "https://boards.greenhouse.io/spacex/jobs/8558859002",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/SpaceX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SpaceX",
+        "id": "c0f76f50-d613-4ac6-bef7-afc93de6cc8c",
+        "title": "Flight Software Engineer - Starlink Mobile",
+        "active": true,
+        "date_updated": 1779315841,
+        "date_posted": 1779315040,
+        "url": "https://boards.greenhouse.io/spacex/jobs/8556909002",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/SpaceX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Accenture",
+        "id": "912af474-6cfe-4c09-8286-f4993ec78d85",
+        "title": "Product Operations Batch Monitoring & Data Analyst",
+        "active": true,
+        "date_updated": 1779315661,
+        "date_posted": 1779315583,
+        "url": "https://boards.greenhouse.io/accenturefederalservices/jobs/4682843006",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Accenture-FS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SpaceX",
+        "id": "84714d32-005b-48ea-8f5c-b4cf769c7deb",
+        "title": "Software Engineer - Platform Team",
+        "active": true,
+        "date_updated": 1779315841,
+        "date_posted": 1779315080,
+        "url": "https://boards.greenhouse.io/spacex/jobs/8558858002",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/SpaceX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CNA Insurance",
+        "id": "25111dc8-fb67-42c0-8276-18eab2726b11",
+        "title": "Data Analytics Analyst - Portfolio Management",
+        "active": true,
+        "date_updated": 1779314761,
+        "date_posted": 1779314679,
+        "url": "https://cna.wd1.myworkdayjobs.com/CNA_Careers/job/Chicago-IL-USA/Data-Analytics-Analyst---Portfolio-Management_R-7491",
+        "locations": [
+            "Villanova, PA",
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/CNA-Insurance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Nasdaq",
+        "id": "590c12be-eb04-4dbc-a3bd-24f0cad31bb8",
+        "title": "Product Marketing Senior Analyst",
+        "active": true,
+        "date_updated": 1779315548,
+        "date_posted": 1779314752,
+        "url": "https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/USA---New-York-City---New-York/Sr-Analyst--Product-Marketing_R0026021-1",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Nasdaq",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Charles Schwab",
+        "id": "69e5fae9-5a6f-418e-8d4f-411b609432e3",
+        "title": "Digital Product Management Associate",
+        "active": true,
+        "date_updated": 1779315700,
+        "date_posted": 1779314846,
+        "url": "https://career-schwab.icims.com/jobs/121402/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Charles-Schwab",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "MBA"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Intertek",
+        "id": "d191f59d-060b-42da-b3c6-ba368ef00a0a",
+        "title": "Entry Level Reality Capture Data Processing Technician",
+        "active": true,
+        "date_updated": 1779315602,
+        "date_posted": 1779314811,
+        "url": "https://hcog.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/14866",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Intertek",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Gulfstream",
+        "id": "b901de91-c4ed-4f56-864b-b7f3073f83c7",
+        "title": "Entry-Level ERP Application Developer",
+        "active": true,
+        "date_updated": 1779315661,
+        "date_posted": 1779314797,
+        "url": "https://careers.gulfstream.com/job/Savannah-Entry-Level-ERP-Application-Developer-GA-31401/1392553700/?ats=successfactors",
+        "locations": [
+            "Savannah, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Gulfstream",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Quadric",
+        "id": "b6597368-7e03-414a-afc4-e66587a86cdd",
+        "title": "Data Scientist New Grad - Model Optimization",
+        "active": true,
+        "date_updated": 1779315777,
+        "date_posted": 1779314906,
+        "url": "https://apply.workable.com/quadric-dot-i-o-inc/j/5A15DE8CCE/apply",
+        "locations": [
+            "Burlingame, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Quadric",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Ambarella",
+        "id": "98c4251c-a769-477b-94bb-ea38554111b2",
+        "title": "ASIC Design Engineer",
+        "active": true,
+        "date_updated": 1779315661,
+        "date_posted": 1779314845,
+        "url": "https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/ASIC-Design-Engineer_JR100053-1",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Ambarella",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Stanley Black & Decker",
+        "id": "35cd2a23-38d0-4455-841e-0462694e68f1",
+        "title": "Product Data Analyst",
+        "active": true,
+        "date_updated": 1779316054,
+        "date_posted": 1779315041,
+        "url": "https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Decorah-IA-United-States/Product-Data-Analyst_REQ-1000048779-1",
+        "locations": [
+            "Decorah, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/Stanley-Black-Decker",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "iCapital Network",
+        "id": "00439705-6526-4fb2-a518-d8d34f1efce1",
+        "title": "Associate Full Stack Engineer",
+        "active": true,
+        "date_updated": 1779316106,
+        "date_posted": 1779315400,
+        "url": "https://job-boards.greenhouse.io/icapitalnetwork/jobs/8549590002",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/ICapital-Network",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
