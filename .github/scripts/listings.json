@@ -287443,7 +287443,7 @@
         "company_name": "The Boeing Company",
         "id": "b8d1fa15-13ac-40b6-83b6-5d9352c5b9f3",
         "title": "Atmospheric Scientist \u2013 Associate or Mid-Level",
-        "active": true,
+        "active": false,
         "date_updated": 1776763261,
         "date_posted": 1776763124,
         "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Kirtland-AFB-NM/Atmospheric-Scientist--Associate-or-Mid-Level-_JR2026490878",
@@ -305543,7 +305543,7 @@
         "company_name": "The Boeing Company",
         "id": "ec6478c6-ada6-4c7d-ba44-7e12a3e20c5d",
         "title": "Metrology Test & Evaluation Engineer Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1778106389,
         "date_posted": 1778105393,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seattle-WA/Metrology-Test---Evaluation-Engineer--Associate-or-Mid-Level-_JR2026508077-2",
@@ -320545,6 +320545,45 @@
             "Atlanta, GA"
         ],
         "company_url": "https://simplify.jobs/c/OneDigital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Susquehanna International Group (SIG)",
+        "id": "2c8a8540-5e12-4c83-8a05-c9ef56450081",
+        "title": "Quantitative Researcher",
+        "active": true,
+        "date_updated": 1778833441,
+        "date_posted": 1768956292,
+        "url": "https://careers-sig.icims.com/jobs/9438/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Philadelphia, PA",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Susquehanna",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CookUnity",
+        "id": "bc739f4b-e49f-4492-b450-bff41af3a110",
+        "title": "AI Native Engineer - Growth Marketing",
+        "active": true,
+        "date_updated": 1779269582,
+        "date_posted": 1777414842,
+        "url": "https://careers.cookunity.com/open-roles?gh_jid=7718655003",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/CookUnity",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
