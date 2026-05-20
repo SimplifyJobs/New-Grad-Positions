@@ -282979,7 +282979,7 @@
         "company_name": "CSA Group",
         "id": "9b80205c-07eb-4eb6-b84e-211ffedaf2d5",
         "title": "Product Safety Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1776528902,
         "date_posted": 1776526288,
         "url": "https://csagroup.wd3.myworkdayjobs.com/csagroup/job/Cleveland-OH/Product-Safety-Engineer_R004581",
@@ -302933,7 +302933,7 @@
         "company_name": "Cencora",
         "id": "e7003a71-bbeb-4d4d-96bb-ac1dfeabbeee",
         "title": "Data Visualization Specialist 1",
-        "active": true,
+        "active": false,
         "date_updated": 1778020001,
         "date_posted": 1778019000,
         "url": "https://myhrabc.wd5.myworkdayjobs.com/Global/job/Remote-Idaho/Spec---Data-Visualization-Specialist-I_R267391",
@@ -305320,7 +305320,7 @@
         "company_name": "Tradeweb",
         "id": "c7f30d3e-e512-4f7a-b55a-1def70a5df88",
         "title": "Application Support Engineer - Information Management",
-        "active": true,
+        "active": false,
         "date_updated": 1778105161,
         "date_posted": 1778104997,
         "url": "https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301752",
@@ -305340,7 +305340,7 @@
         "company_name": "Berkshire Hathaway Energy",
         "id": "ecd70844-80e6-4fd4-a223-efe07b261bc7",
         "title": "Software Engineer 1 - GIS Applications",
-        "active": true,
+        "active": false,
         "date_updated": 1778105356,
         "date_posted": 1778105167,
         "url": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10004955",
@@ -308731,7 +308731,7 @@
         "company_name": "3PillarGlobal",
         "id": "e16d8622-ab7e-4ca6-9a62-a004db53675d",
         "title": "Mobile Engineer - React Native - Swift",
-        "active": false,
+        "active": true,
         "date_updated": 1778277961,
         "date_posted": 1778277856,
         "url": "https://jobs.lever.co/3pillarglobal/0e279ae3-bf1e-4825-85c9-07f6178000e6/apply",
@@ -318819,7 +318819,7 @@
         "company_name": "Cisco",
         "id": "cfe777d3-31a8-4a86-937e-e9a4366da3fb",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1779152941,
         "date_posted": 1779152891,
         "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/Software-Engineer_2011789-1",
@@ -320587,5 +320587,45 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Handshake",
+        "id": "a976536f-f271-4e55-82c8-13fb2929ea35",
+        "title": "Software Engineer - Agentic Infrastructure",
+        "active": true,
+        "date_updated": 1779269041,
+        "date_posted": 1778393282,
+        "url": "https://jobs.ashbyhq.com/handshake/750185eb-d575-430a-93ad-51b7e83a5581/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Handshake",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Uber",
+        "id": "fe4fe997-8c78-4f75-ab2a-12a87066a43d",
+        "title": "Graduate PhD Scientist 2",
+        "active": true,
+        "date_updated": 1779271446,
+        "date_posted": 1777885543,
+        "url": "https://www.uber.com/global/en/careers/list/158984/",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Uber",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
     }
 ]
