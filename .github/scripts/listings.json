@@ -159972,7 +159972,7 @@
         "company_name": "ServiceNow",
         "id": "8d79ff45-51ed-42e1-b0b3-d64480b0290a",
         "title": "Associate Software Engineer - Core Infrastructure - Moveworks",
-        "active": false,
+        "active": true,
         "date_updated": 1770246694,
         "date_posted": 1770246694,
         "url": "https://jobs.smartrecruiters.com/ServiceNow/744000107370955",
@@ -166295,7 +166295,7 @@
         "company_name": "Huntington Ingalls Industries",
         "id": "4ea8fcdf-dd84-4d24-8098-caa377d16368",
         "title": "Software Development Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1770602992,
         "date_posted": 1770602992,
         "url": "https://careers.huntingtoningalls.com/job/Newport-News-SOFTWARE-DEVELOPMENT-ENGINEER-Virg/1362993700/?ats=successfactors",
@@ -296809,7 +296809,7 @@
         "company_name": "ServiceNow",
         "id": "ebda1cc1-7eda-446d-9c79-91bae02fa310",
         "title": "Associate Software Engineer - Core Infrastructure",
-        "active": true,
+        "active": false,
         "date_updated": 1777500361,
         "date_posted": 1777500252,
         "url": "https://jobs.smartrecruiters.com/ServiceNow/744000123803504",
@@ -297702,7 +297702,7 @@
         "company_name": "U.S. Venture",
         "id": "ced461d1-9920-43ed-86f9-2de41a61bc10",
         "title": "Software Engineer I - IGEN",
-        "active": true,
+        "active": false,
         "date_updated": 1777555884,
         "date_posted": 1777529175,
         "url": "https://usventure.wd1.myworkdayjobs.com/usvexternal/job/WI---Appleton/Software-Engineer-I---IGEN_R7051",
@@ -318190,7 +318190,7 @@
         "company_name": "BCBST",
         "id": "b20efee7-cfe9-4661-ac0b-3797d8a9f9fe",
         "title": "Associate Data Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1779141961,
         "date_posted": 1779141899,
         "url": "https://bcbst.wd1.myworkdayjobs.com/en-US/External/job/USA-TN-Chattanooga-Remote/Associate-Data-Engineer-1_R-49500",
@@ -320223,7 +320223,7 @@
         "company_name": "Micron Technology",
         "id": "ca3a180b-25cd-4800-9b15-11ab401cfc23",
         "title": "New College Grad - Software Engineer - Full Stack",
-        "active": true,
+        "active": false,
         "date_updated": 1779229441,
         "date_posted": 1779228582,
         "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Software-Engineer---Full-Stack_JR102227",
@@ -320609,5 +320609,205 @@
             "Master's",
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Dow Jones",
+        "id": "0df8a57d-7582-4400-8873-8d6ce76250d1",
+        "title": "Software Engineer 1 - AI & ML Foundation Technology",
+        "active": true,
+        "date_updated": 1779286727,
+        "date_posted": 1779285938,
+        "url": "https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/NYC---1211-Ave-of-the-Americas/Software-Engineer-I---AI---ML-Foundation-Technology_Job_Req_53097",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Dow-Jones",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Scott Logic",
+        "id": "ac4ab0a6-bcfd-4612-a65f-2283e03034b0",
+        "title": "Graduate Software Developer",
+        "active": true,
+        "date_updated": 1779285961,
+        "date_posted": 1779285935,
+        "url": "https://jobs.lever.co/scottlogic/6df674ff-1e32-45ce-b8c2-9c0f5aa8f38d/apply",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Scott-Logic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Capital One",
+        "id": "833a4ca8-be25-48fe-933c-2f87ec1e28f8",
+        "title": "Knowledge Data and Systems Specialist",
+        "active": true,
+        "date_updated": 1779286142,
+        "date_posted": 1779286126,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Nottingham--Eng/Knowledge-Data-and-Systems-Specialist_R242217-1",
+        "locations": [
+            "Nottingham, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Capital-One",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Worcester Polytechnic Institute",
+        "id": "cf2f73c8-000f-4f57-adb4-12dcb6efb9a8",
+        "title": "Research Associate",
+        "active": true,
+        "date_updated": 1779286037,
+        "date_posted": 1779285645,
+        "url": "https://wpi.wd5.myworkdayjobs.com/WPI_External_Career_Site/job/Worcester/Temporary-Research-Associate_R0003450",
+        "locations": [
+            "Worcester, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Worcester-Polytechnic-Institute",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "054137e6-c84c-4744-86fe-13b854aa4966",
+        "title": "Software Engineer 1 - Space and RF Sensors",
+        "active": true,
+        "date_updated": 1779286742,
+        "date_posted": 1779286019,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/XMLNAME-2026-Full-time---Software-Engineer-I--Space-and-RF-Sensors----Onsite_01846945",
+        "locations": [
+            "Fort Wayne, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Scott Logic",
+        "id": "0223a20a-4b07-4ffd-8e05-1d27c1ea47c9",
+        "title": "Graduate Software Developer",
+        "active": true,
+        "date_updated": 1779285961,
+        "date_posted": 1779285935,
+        "url": "https://jobs.lever.co/scottlogic/9184c6d5-3adc-4043-a1d4-44da49f14e60/apply",
+        "locations": [
+            "Newcastle upon Tyne, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Scott-Logic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TD Bank",
+        "id": "647e3499-c43e-49b0-a0a3-ad7620317671",
+        "title": "Software Engineer 1 - Java/Golang",
+        "active": true,
+        "date_updated": 1779286800,
+        "date_posted": 1779286173,
+        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-I--Java-Golang-_R_1489393",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/TD-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD",
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Altamira Technologies",
+        "id": "080160a8-b30c-4227-beb6-68ce1a671aad",
+        "title": "Junior Software Engineer",
+        "active": true,
+        "date_updated": 1779286142,
+        "date_posted": 1779286068,
+        "url": "https://jobs.jobvite.com/altamiracorps/job/oaYaAfwC?nl=1&nl=1&fr=false",
+        "locations": [
+            "Wright-Patterson AFB, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Altamira-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Barr",
+        "id": "428ca061-c47e-4468-8588-3ca979f3a687",
+        "title": "GIS Specialist Entry Level",
+        "active": true,
+        "date_updated": 1779286593,
+        "date_posted": 1779285993,
+        "url": "https://barr.wd1.myworkdayjobs.com/barrcareers/job/Minneapolis-MN/GIS-Specialist---Entry-Level--Hyrbid-_R-102124",
+        "locations": [
+            "Minneapolis, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Barr",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "General Dynamics",
+        "id": "33daad42-9e88-4348-a80f-63346468ea5a",
+        "title": "Configuration and Logistics Data Analyst 1 - Engineering",
+        "active": true,
+        "date_updated": 1779286616,
+        "date_posted": 1779286025,
+        "url": "https://careers-gdbiw.icims.com/jobs/5165/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Brunswick, ME"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
