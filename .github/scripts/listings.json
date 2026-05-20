@@ -80076,24 +80076,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "W.R. Berkley",
-        "id": "107cdaef-f699-4e2f-ac2a-825da5c9b64a",
-        "title": "Data Science Engineer",
-        "active": false,
-        "date_updated": 1764721376,
-        "date_posted": 1758543939,
-        "url": "https://careers-berkley.icims.com/jobs/13282/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Chesterfield, MO"
-        ],
-        "company_url": "https://simplify.jobs/c/WR-Berkley",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Signifyd",
         "id": "923b42e0-af19-4f0e-be15-b9161e6770ee",
         "title": "Data Scientist 1",
@@ -243238,7 +243220,7 @@
         "company_name": "Amazon",
         "id": "be432565-3695-4e54-ad99-977e09098828",
         "title": "Software Developer Engineer 2",
-        "active": true,
+        "active": false,
         "date_updated": 1774477073,
         "date_posted": 1774477073,
         "url": "https://amazon.jobs/en/jobs/3199532/software-dev-engineer-ii-amz9673866",
