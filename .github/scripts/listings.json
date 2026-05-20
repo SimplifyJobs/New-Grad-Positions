@@ -1,133 +1,5 @@
 [
     {
-        "date_updated": 1759961235,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "degrees": [],
-        "url": "https://td.wd3.myworkdayjobs.com/en-US/td_bank_careers/job/New-York-New-York/XMLNAME-2026-Full-Time-Analyst-Rotational-Program---Software-Engineering_R_1446300",
-        "company_name": "TD",
-        "title": "Analyst Rotational Program \u2013 Software Engineering",
-        "locations": [
-            "New York, NY"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "90091db6-7c6b-4447-ad4a-aaacd0b94f6b",
-        "date_posted": 1758520879,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1760049592,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "degrees": [],
-        "url": "https://ovative.wd12.myworkdayjobs.com/en-US/ovative/job/Minneapolis/Analyst--Data---Software-Engineering---January-2026-Start-Date_JR100120",
-        "company_name": "Ovative Group",
-        "title": "Analyst, Data & Software Engineering",
-        "locations": [
-            "Minneapolis, MN",
-            "Chicago, IL"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "df511fe2-266d-45db-ae0c-7a8aa81d1ae5",
-        "date_posted": 1758520959,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1758521109,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": false,
-        "degrees": [],
-        "url": "https://job-boards.greenhouse.io/muonspace/jobs/4911755007",
-        "company_name": "Muon",
-        "title": "Software Engineer",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "category": "Software Engineering",
-        "source": "Simplify",
-        "id": "23ce7da7-6d58-4b26-b60d-46b512fff49e",
-        "date_posted": 1758521109,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1758671997,
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "degrees": [],
-        "url": "https://jobs.ashbyhq.com/lambda/1147c640-8d1b-4e92-8d39-63982f3f88d7",
-        "company_name": "Lambda",
-        "title": "Cloud Support Engineer I (Support Response)",
-        "locations": [
-            "Remote in USA"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "d11d4c32-f80b-48f5-af2b-4bde147b19ab",
-        "date_posted": 1758521252,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1758521306,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
-        "degrees": [],
-        "url": "https://jobs.ashbyhq.com/siftstack/da9e9490-4156-4390-b9ed-54e215c894b6",
-        "company_name": "Sift",
-        "title": "Software Engineer",
-        "locations": [
-            "El Segundo, CA"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "bd8d311b-b9da-426e-a442-d47ea733ccca",
-        "date_posted": 1758521306,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1758521442,
-        "sponsorship": "Other",
-        "active": true,
-        "degrees": [],
-        "url": "https://jadeglobal.wd5.myworkdayjobs.com/en-US/jade_careers/job/Ogden-UT/Data-Ai-Engineer-Intern_R-103685",
-        "company_name": "Jade Global",
-        "title": "Data/Ai Engineer Intern",
-        "locations": [
-            "Ogden, UT"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "AlmondCroffle",
-        "id": "1385d241-f2ef-45d8-aec4-777c79fdcbb3",
-        "date_posted": 1758521442,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1761560682,
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "degrees": [],
-        "url": "https://aig.wd1.myworkdayjobs.com/early_careers/job/NC-Charlotte/XMLNAME-2026---Early-Career---Technology---Analyst---United-States--Jersey-City--NJ--or-Charlotte--NC-_JR2504979",
-        "company_name": "AIG",
-        "title": "Technology \u2013 Analyst",
-        "locations": [
-            "Charlotte, NC",
-            "Jersey City, NJ"
-        ],
-        "category": "Other",
-        "source": "AlmondCroffle",
-        "id": "be42a889-64f3-4933-92ae-f8b96064a126",
-        "date_posted": 1758522491,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "date_updated": 1762473348,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
@@ -48282,24 +48154,6 @@
             "Bachelor's",
             "Master's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Blackhawk Network Holdings",
-        "id": "feade417-cbfb-420b-9579-535c6189c89f",
-        "title": "Software Engineer",
-        "active": false,
-        "date_updated": 1762741599,
-        "date_posted": 1758521560,
-        "url": "https://careers-blackhawknetwork.icims.com/jobs/24807/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Coppell, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Blackhawk-Network-Holdings",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -198615,7 +198469,7 @@
         "company_name": "Huntington Ingalls Industries",
         "id": "f1be74bf-e2fc-41d9-a8c1-10fe3a42d88f",
         "title": "Engineer Test Operations 1",
-        "active": false,
+        "active": true,
         "date_updated": 1772147459,
         "date_posted": 1772147459,
         "url": "https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-TEST-OPERATIONS-1-Virg/1368364900/?ats=successfactors",
@@ -302915,7 +302769,7 @@
         "company_name": "The Boeing Company",
         "id": "8aa2bb01-7d1b-4e68-9bca-2f9baa91049e",
         "title": "Associate and Experienced Software Engineers - Secure Network & Protocols",
-        "active": true,
+        "active": false,
         "date_updated": 1778019842,
         "date_posted": 1778019009,
         "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Oklahoma-City-OK/Associate-and-Experienced-Software-Engineers---Secure-Network---Protocols_JR2026509074",
@@ -320572,6 +320426,108 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Manulife Financial",
+        "id": "be215c19-96ea-4dc1-ba55-5ff0c97fdf68",
+        "title": "Associate AI Engineer",
+        "active": true,
+        "date_updated": 1779257161,
+        "date_posted": 1779257110,
+        "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Boston-Massachusetts/Associate-AI-Engineer_JR26050435-1",
+        "locations": [
+            "Boston, MA",
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Manulife-Financial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Edwards Lifesciences",
+        "id": "bd2912bb-72a8-4163-9316-e1fcdd8e156e",
+        "title": "Technical Product Manager Associate",
+        "active": true,
+        "date_updated": 1779257534,
+        "date_posted": 1779257150,
+        "url": "https://edwards.wd5.myworkdayjobs.com/edwardscareers/job/USA---California--Irvine/Associate-Technical-Product-Manager_Req-48100",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Edwards-Lifesciences",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Nationwide",
+        "id": "29d2f1cc-5034-456b-8156-f161c5bed4a2",
+        "title": "Senior Investment Analyst - Private Placements",
+        "active": true,
+        "date_updated": 1779257161,
+        "date_posted": 1779257133,
+        "url": "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-One-Nationwide-Plaza/Senior-Investment-Analyst--Private-Placements_098224",
+        "locations": [
+            "Columbus, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Nationwide",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Nationwide",
+        "id": "8f29c864-bfbe-413d-878f-5d3e580cee77",
+        "title": "Investment Analyst Mezz/Equity Asset Management",
+        "active": true,
+        "date_updated": 1779257526,
+        "date_posted": 1779257132,
+        "url": "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-One-Nationwide-Plaza/Investment-Analyst---Mezz-Equity-Asset-Management-2_098269",
+        "locations": [
+            "Columbus, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Nationwide",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Duke Energy",
+        "id": "c97f6b90-f006-4119-bfab-a04eb9b92560",
+        "title": "Natural Gas GIS Technologist 1",
+        "active": true,
+        "date_updated": 1779257384,
+        "date_posted": 1779257128,
+        "url": "https://dukeenergy.wd1.myworkdayjobs.com/search/job/Charlotte-NC/Natural-Gas-GIS-Technologist-I_R39790",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Duke-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
         ]
     }
 ]
