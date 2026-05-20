@@ -236752,7 +236752,7 @@
         "company_name": "Cadence Design Systems",
         "id": "3d4e3db3-0bd0-4a67-8ddc-0cfea7aa195d",
         "title": "AI / Agentic AI / GenAI New College Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1774056829,
         "date_posted": 1774056829,
         "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/AI---Agentic-AI---GenAI-Temp-Assignment-for-New-College-Grad---IT_R53714-1",
@@ -320589,5 +320589,25 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "a8a6d6cf-eca6-463c-aa6a-c75476440d15",
+        "title": "FPGA Engineer 2",
+        "active": true,
+        "date_updated": 1779229882,
+        "date_posted": 1779228559,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Full-Time-Raytheon-2026---Multi-Product-Power---Digital-FPGA-Engineer-II_01845082",
+        "locations": [
+            "McKinney, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
     }
 ]
