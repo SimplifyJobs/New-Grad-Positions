@@ -48098,27 +48098,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Susquehanna International Group (SIG)",
-        "id": "2c8a8540-5e12-4c83-8a05-c9ef56450081",
-        "title": "Quantitative Researcher - Master's: 2026",
-        "active": true,
-        "date_updated": 1763116487,
-        "date_posted": 1758534310,
-        "url": "https://careers-sig.icims.com/jobs/9438/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Susquehanna",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Five9",
         "id": "baf95d35-ee95-465b-b81b-f59fe6e89a8d",
@@ -320511,5 +320490,63 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "JP Morgan Chase",
+        "id": "6e3d75c7-d076-4e63-a6ec-aaa6ce21c6d1",
+        "title": "Asset Management - Multiple Teams",
+        "active": true,
+        "date_updated": 1779267781,
+        "date_posted": 1779267766,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210750310",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Nokia",
+        "id": "44c3b375-90e4-4b04-88b6-851997c4a3d2",
+        "title": "Firmware Engineer",
+        "active": true,
+        "date_updated": 1779267781,
+        "date_posted": 1779267691,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36431",
+        "locations": [
+            "Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Nokia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "OneDigital",
+        "id": "6adc58a5-74cd-42ff-bdd9-526ac41f7250",
+        "title": "Data Engineer",
+        "active": true,
+        "date_updated": 1779267601,
+        "date_posted": 1778941391,
+        "url": "https://onedigital.wd5.myworkdayjobs.com/onedigital/job/Atlanta-GA/ETL-Developer---Hybrid--Atlanta--GA-_R8330",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/OneDigital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
