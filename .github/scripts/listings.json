@@ -1,23 +1,5 @@
 [
     {
-        "date_updated": 1762473348,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "degrees": [],
-        "url": "https://costar.wd1.myworkdayjobs.com/confidential/job/US-CA-San-Diego/Associate-Software-Engineer---San-Diego--CA_R37014-1",
-        "company_name": "CoStar Group",
-        "title": "Associate Software Engineer",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "3399e593-3844-4433-b1a0-9e0b1c421661",
-        "date_posted": 1758522723,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
         "source": "Simplify",
         "category": "Software",
         "company_name": "RTX",
@@ -291430,7 +291412,7 @@
         "company_name": "Julius AI",
         "id": "0be43d4b-d1c9-409d-b930-fe414e14441e",
         "title": "Software Engineer \u2013 New Grad - Product",
-        "active": false,
+        "active": true,
         "date_updated": 1776982861,
         "date_posted": 1776982123,
         "url": "https://jobs.ashbyhq.com/julius/83d88b90-1b7f-476c-a0e8-10b1cb71639e/application",
@@ -303400,7 +303382,7 @@
         "company_name": "The Boeing Company",
         "id": "e4abcfdd-a3ad-497d-9158-322929a985ae",
         "title": "Associate and Experienced Software Engineers - Secure Network & Protocols",
-        "active": true,
+        "active": false,
         "date_updated": 1778019842,
         "date_posted": 1778019031,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Oklahoma-City-OK/Associate-and-Experienced-Software-Engineers---Secure-Network---Protocols_JR2026509074-1",
@@ -313252,7 +313234,7 @@
         "company_name": "Medtronic",
         "id": "f6624a4c-4cf4-48df-a904-c137f7072bb4",
         "title": "Software Engineer 1 - Cardiac Rhythm Management",
-        "active": true,
+        "active": false,
         "date_updated": 1778710321,
         "date_posted": 1778709860,
         "url": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Minneapolis-Minnesota-United-States-of-America/Software-Engineer-I---CRM_R63656",
