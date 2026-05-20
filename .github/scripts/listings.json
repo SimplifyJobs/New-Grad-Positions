@@ -224109,7 +224109,7 @@
         "company_name": "Secureframe",
         "id": "3f94d282-4523-424c-8450-0e34874128ab",
         "title": "Graduate Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773364658,
         "date_posted": 1773364658,
         "url": "https://jobs.lever.co/secureframe/29ff0477-faeb-44d6-abb3-8e894fc92a22/apply",
@@ -320490,6 +320490,26 @@
         "degrees": [
             "Bachelor's",
             "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "General Dynamics Mission Systems",
+        "id": "684c01a1-1150-43b2-81a8-aaf6e5bd06db",
+        "title": "Entry Level Software Engineer",
+        "active": true,
+        "date_updated": 1779267241,
+        "date_posted": 1779142027,
+        "url": "https://careers-gdms.icims.com/jobs/72592/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Brooklyn, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
