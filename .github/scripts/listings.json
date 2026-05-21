@@ -190211,7 +190211,7 @@
         "company_name": "Wipfli",
         "id": "a6ebf80e-6898-40ab-acfb-e2f317304ac6",
         "title": "Sales Intelligence Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1771888353,
         "date_posted": 1771888353,
         "url": "https://careers-wipfli.icims.com/jobs/7798/job?mobile=true&needsRedirect=false",
@@ -317021,7 +317021,7 @@
         "company_name": "GE Healthcare",
         "id": "253f1fe6-976c-42d7-abbc-001cbe2eb9f4",
         "title": "Field Service Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1778947875,
         "date_posted": 1778941881,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-I---Kansas_R4041188-1",
@@ -320960,7 +320960,7 @@
         "company_name": "PNC Financial Services",
         "id": "fee1cc3b-9fee-4d99-b5ba-a57fc191db1b",
         "title": "Project Manager 1 - Data Management",
-        "active": true,
+        "active": false,
         "date_updated": 1779316037,
         "date_posted": 1779315026,
         "url": "https://pnc.wd5.myworkdayjobs.com/External/job/OH---Strongsville/Project-Mgr-I---Data-Management_R221379-2",
@@ -321572,6 +321572,45 @@
             "Georgia"
         ],
         "company_url": "https://simplify.jobs/c/The-Home-Depot",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "DTCC",
+        "id": "bca29c68-935d-48b4-9868-d08d80ca1490",
+        "title": "IT Risk & Security Analyst",
+        "active": true,
+        "date_updated": 1779356161,
+        "date_posted": 1775772365,
+        "url": "https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/212491",
+        "locations": [
+            "Dallas, TX",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/DTCC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Rogo",
+        "id": "18e45b1f-ec9d-4b39-b46f-20fe586900e8",
+        "title": "Product Manager - Enterprise",
+        "active": true,
+        "date_updated": 1779351661,
+        "date_posted": 1762535151,
+        "url": "https://jobs.ashbyhq.com/rogo/ccecba20-cd08-4ab6-82bf-1c7df8b2719e/application",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Rogo",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
