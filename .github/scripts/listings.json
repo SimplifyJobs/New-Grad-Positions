@@ -321559,5 +321559,23 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Filevine",
+        "id": "4455f6f0-0f7c-4599-b43b-e73141fa4ead",
+        "title": "Software Architect 1",
+        "active": true,
+        "date_updated": 1779352798,
+        "date_posted": 1778882854,
+        "url": "https://jobs.lever.co/filevine/ad00d465-cc30-42eb-a14a-1204c0814475/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Filevine",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
