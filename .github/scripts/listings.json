@@ -2,29 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "D2L",
-        "id": "380f5198-4daf-4c7d-9349-31d7bd8b54ca",
-        "title": "Software Developer \u2013 Spring 2026 New Graduate",
-        "active": false,
-        "date_updated": 1758655705,
-        "date_posted": 1758655705,
-        "url": "https://www.d2l.com/careers/jobs/?job_id=7260896&gh_jid=7260896",
-        "locations": [
-            "Winnipeg, MB, Canada",
-            "Toronto, ON, Canada",
-            "Kitchener, ON, Canada",
-            "Vancouver, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/D2L",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "The Boeing Company",
         "id": "3d53433a-408a-4c5d-bddb-aae123505562",
         "title": "Entry Level Software Engineer - Systems Test & Verification - Test & Verification",
@@ -47611,26 +47588,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Q2",
-        "id": "222d8c0b-bd71-4ed9-a29b-cfd5a68fbcaf",
-        "title": "Associate Security Engineer",
-        "active": false,
-        "date_updated": 1758654268,
-        "date_posted": 1758654268,
-        "url": "https://q2ebanking.wd5.myworkdayjobs.com/en-US/Q2/job/Austin-TX/Associate-Security-Engineer_REQ-11676",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Q2Software",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
@@ -302267,7 +302224,7 @@
         "company_name": "The New York Times",
         "id": "8a8c05d5-dfa5-477c-9dda-85ead19ecc86",
         "title": "Scoop Core Software Engineer Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1777990631,
         "date_posted": 1777990335,
         "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4692121005",
@@ -316704,7 +316661,7 @@
         "company_name": "Proofpoint",
         "id": "8b499c85-8eb4-4ff3-b799-613a6813c4d2",
         "title": "People Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1778893741,
         "date_posted": 1778893727,
         "url": "https://proofpoint.wd5.myworkdayjobs.com/proofpointcareers/job/Sunnyvale-CA/People-Data-Analyst_R14204",
@@ -319076,7 +319033,7 @@
         "company_name": "Cotiviti",
         "id": "ff1626d4-c45e-4565-8067-1fac2c490b22",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1779228361,
         "date_posted": 1779228328,
         "url": "https://careers-cotiviti.icims.com/jobs/19263/job?mobile=true&needsRedirect=false",
@@ -320736,7 +320693,7 @@
         "company_name": "MemryX",
         "id": "eecf6c86-b6d4-4b94-a25b-81228d391a59",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1779315860,
         "date_posted": 1779314888,
         "url": "https://ats.rippling.com/memryx/jobs/320aa422-c097-4d1a-9cce-cf43a945be0f",
