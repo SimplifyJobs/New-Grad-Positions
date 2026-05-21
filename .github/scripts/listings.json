@@ -1,23 +1,5 @@
 [
     {
-        "date_updated": 1758585351,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "degrees": [],
-        "url": "https://northmark.wd108.myworkdayjobs.com/en-US/NMS/job/Graduate-Program_R12714",
-        "company_name": "NorthMark Strategies",
-        "title": "Graduate Engineering Program",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "category": "Software Engineering",
-        "source": "TimothyNaumov",
-        "id": "ea175e22-2ea9-4d2d-ae8e-fbc57fb7ab91",
-        "date_posted": 1758585351,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "source": "Simplify",
         "category": "Software",
         "company_name": "The Boeing Company",
@@ -281548,7 +281530,7 @@
         "company_name": "AAA Club Alliance",
         "id": "5ef3936a-0d6a-40d0-bac8-ad6088bf0316",
         "title": "Contact Center Product Owner Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1776463561,
         "date_posted": 1776463535,
         "url": "https://ace.wd5.myworkdayjobs.com/careers/job/Costa-Mesa-CA/Contact-Center-Product-Owner-Assistant---Claims_JR202636011",
@@ -302674,7 +302656,7 @@
         "company_name": "The New York Times",
         "id": "8a8c05d5-dfa5-477c-9dda-85ead19ecc86",
         "title": "Scoop Core Software Engineer Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1777990631,
         "date_posted": 1777990335,
         "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4692121005",
@@ -321543,6 +321525,168 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Leidos",
+        "id": "f7f49ba3-af18-455b-b8e4-5cb474cf5cee",
+        "title": "Research Data Analyst",
+        "active": true,
+        "date_updated": 1779315708,
+        "date_posted": 1779314785,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/San-Diego-CA/Research-Data-Analyst_R-00183405",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Maybell Quantum Industries",
+        "id": "d30c2f85-6831-4a54-9119-234d92cf62af",
+        "title": "Validation Technician",
+        "active": true,
+        "date_updated": 1779315481,
+        "date_posted": 1779315449,
+        "url": "https://job-boards.greenhouse.io/maybellquantum/jobs/5227291008",
+        "locations": [
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Maybell-Quantum-Industries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "af8f0f0d-0022-49ef-be96-34f019baa6b0",
+        "title": "Space Flight Operations \u2013 Engineer/Principal Engineer Systems",
+        "active": true,
+        "date_updated": 1779315661,
+        "date_posted": 1779314912,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/Space-Flight-Operations---Engineer-Principal-Engineer-Systems_R10233658",
+        "locations": [
+            "Halethorpe, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Silicon Laboratories",
+        "id": "4e78de21-240b-4764-bf1f-aca1f0658b35",
+        "title": "Digital Verification Engineer 1",
+        "active": true,
+        "date_updated": 1779315791,
+        "date_posted": 1779314929,
+        "url": "https://silabs.wd1.myworkdayjobs.com/SiliconlabsCareers/job/Austin/Digital-Verification-Engineer-I_20801-1",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Silicon-Laboratories",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "UAP",
+        "id": "2a19b320-e292-4d8b-ac1f-0c773f698652",
+        "title": "Product Management Administration Technician",
+        "active": true,
+        "date_updated": 1779314761,
+        "date_posted": 1779314634,
+        "url": "https://jobs.smartrecruiters.com/UAPInc/744000127451694",
+        "locations": [
+            "Longueuil, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/UAP",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Schweitzer Engineering Laboratories",
+        "id": "8a5bbc44-3588-4db0-8d95-55632bd849d6",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1779315841,
+        "date_posted": 1779315000,
+        "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Associate-Software-Engineer_2026-21012-1",
+        "locations": [
+            "Moscow, ID"
+        ],
+        "company_url": "https://simplify.jobs/c/SEL",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RELX",
+        "id": "7fdb4d9c-2a4a-46d8-8738-c80e82e59c37",
+        "title": "Internal GenAI Engineer",
+        "active": true,
+        "date_updated": 1779315978,
+        "date_posted": 1779315044,
+        "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Raleigh-NC/Internal-GenAI-Engineer_R113655-1",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/RELX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "486ee363-cbed-4d49-ad9f-3f7cb589a143",
+        "title": "Associate Software Engineer / Software Engineer",
+        "active": true,
+        "date_updated": 1779315770,
+        "date_posted": 1779314911,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2026-Associate-Software-Engineer---Software-Engineer_R10233692",
+        "locations": [
+            "Melbourne, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
