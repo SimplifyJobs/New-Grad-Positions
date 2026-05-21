@@ -2,44 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Nextdoor",
-        "id": "2ee93cba-db12-4999-b7b8-bde62d8e9293",
-        "title": "Software Engineer \u2013 New Grad 2026",
-        "active": false,
-        "date_updated": 1761869385,
-        "date_posted": 1758605825,
-        "url": "https://about.nextdoor.com/careers-list/?gh_jid=6978039",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Nextdoor",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Jerry",
-        "id": "f90db536-b338-40b3-90b7-0ed617a3988c",
-        "title": "Software Engineer 1 - Multiple Teams",
-        "active": false,
-        "date_updated": 1758605543,
-        "date_posted": 1758605543,
-        "url": "https://jobs.ashbyhq.com/jerry.ai/a25ea926-a8ed-416c-b426-4bfd73de3e38/application",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Jerry",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Intact",
         "id": "556de495-069d-423c-b5fd-a6e1fd9a8996",
         "title": "New Grad Tech Development Program - Software Development - Cloud",
@@ -317300,7 +317262,7 @@
         "company_name": "AT&T",
         "id": "2c845032-0893-4d35-bdd9-3b7e039a201d",
         "title": "Senior Data/AI Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1778945221,
         "date_posted": 1778945214,
         "url": "https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Plano-Texas/Senior-Data-AI-Engineering_R-96644",
@@ -318163,7 +318125,7 @@
         "company_name": "RTX",
         "id": "455beb72-5e4f-46e3-aeac-f1904978e98e",
         "title": "Systems Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1779143560,
         "date_posted": 1779142227,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-NM-WHITE-SANDS-LC38--Bldg-23626-LC-38-Nike-Ave--BLDG-LC38-External-Site/XMLNAME-2026-Systems-Engineer-I---Onsite_01845682",
