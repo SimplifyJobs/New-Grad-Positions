@@ -47772,25 +47772,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "LPL Financial Holdings",
-        "id": "52eeb4f5-59d0-4660-9d2e-7cacde0dafc6",
-        "title": "Graduate - Technology - Product",
-        "active": false,
-        "date_updated": 1762935200,
-        "date_posted": 1758602009,
-        "url": "https://lplfinancial.wd1.myworkdayjobs.com/External/job/San-Diego-CA/New-Grad-2026---Technology--Product_R-046437-1",
-        "locations": [
-            "Fort Mill, SC",
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/LPL-Financial-Holdings",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "McGill University",
         "id": "b9a80443-2b6a-4f70-bdb7-e999bf84ec0b",
@@ -267702,7 +267683,7 @@
         "company_name": "Vanguard",
         "id": "dce0c374-1ab3-4f72-b4b5-a95c098791d5",
         "title": "Application Engineer - I - PI Tech",
-        "active": true,
+        "active": false,
         "date_updated": 1775774169,
         "date_posted": 1775772467,
         "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/contractors_restricted/job/Malvern-PA/Application-Engineer---I---PI-Tech_171220",
@@ -311428,7 +311409,7 @@
         "company_name": "Hawk-Eye Innovations",
         "id": "cd631056-9eb9-4ce3-8b73-810681358883",
         "title": "College Sports Systems Technician 2",
-        "active": true,
+        "active": false,
         "date_updated": 1778706361,
         "date_posted": 1778623754,
         "url": "https://jobs.ashbyhq.com/hawkeyeinnovations/a178df2d-1b92-4a4b-ba62-50b721416628/application",
