@@ -2,26 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "SIFT",
-        "id": "33764b21-27c6-4c41-8e4b-7d8283de6aed",
-        "title": "Software Engineer \u2013 New College Graduate",
-        "active": false,
-        "date_updated": 1758618395,
-        "date_posted": 1758618395,
-        "url": "https://jobs.ashbyhq.com/siftstack/da9e9490-4156-4390-b9ed-54e215c894b6/application",
-        "locations": [
-            "El Segundo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/SIFT-Stack",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "D2L",
         "id": "380f5198-4daf-4c7d-9349-31d7bd8b54ca",
         "title": "Software Developer \u2013 Spring 2026 New Graduate",
@@ -284453,7 +284433,7 @@
         "company_name": "Cisco",
         "id": "6b1c62fa-8361-4ac7-9660-9d5f2e5aeb8e",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1776588919,
         "date_posted": 1776157613,
         "url": "https://careers.cisco.com/global/en/job/2011789",
@@ -296893,7 +296873,7 @@
         "company_name": "Micron Technology",
         "id": "690630fb-8cf8-4bd4-9c93-fa0a51844a34",
         "title": "HBM PYE Product Development Failure Analysis Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1777501441,
         "date_posted": 1777500688,
         "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/HBM-PYE-Product-Development-Failure-Analysis-Engineer_JR95845",
@@ -317288,7 +317268,7 @@
         "company_name": "Thermo Fisher Scientific",
         "id": "6fd5db0c-ac6f-4e10-ba00-f57a842f3bb3",
         "title": "Field Service Engineer BEA - Bulk Elemental Analysis",
-        "active": true,
+        "active": false,
         "date_updated": 1778950442,
         "date_posted": 1778946442,
         "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Saudi-Arabia/Field-Service-Engineer--BEA---Bulk-Elemental-Analysis-_R-01346160-1",
@@ -321002,7 +320982,7 @@
         "company_name": "Centific",
         "id": "693f7fc4-6d18-498c-a212-46e793e3cb1b",
         "title": "Software Development Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1779315397,
         "date_posted": 1779314732,
         "url": "https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/Software-Development-Engineer-1_JR107298-1",
@@ -321574,6 +321554,24 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Filevine",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "The Home Depot",
+        "id": "59034a5e-bebf-40b4-8099-2124cb5eff11",
+        "title": "Product Manager",
+        "active": true,
+        "date_updated": 1779353821,
+        "date_posted": 1778947224,
+        "url": "https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/GEORGIA---VIRTUAL---GA01/PRODUCT-MANAGER_Req179936",
+        "locations": [
+            "Georgia"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Home-Depot",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
