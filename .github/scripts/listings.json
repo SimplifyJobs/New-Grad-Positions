@@ -47696,24 +47696,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "RA Capital Management",
-        "id": "6faff3d6-cd85-40e8-b0ee-47e36bf75180",
-        "title": "Research Assistant - Research Operations - AI Tools",
-        "active": false,
-        "date_updated": 1762187860,
-        "date_posted": 1758607918,
-        "url": "https://job-boards.greenhouse.io/racapitalmanagementllc/jobs/4596395008",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/RA-Capital-Management",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "McGill University",
         "id": "b9a80443-2b6a-4f70-bdb7-e999bf84ec0b",
@@ -153178,7 +153160,7 @@
         "company_name": "Expedia Group",
         "id": "1e346158-e534-4785-9ce2-adb2fc1908ed",
         "title": "Developer - euse",
-        "active": false,
+        "active": true,
         "date_updated": 1769826816,
         "date_posted": 1769826816,
         "url": "https://expedia.wd108.myworkdayjobs.com/private/job/Canada---Quebec---Montreal/Dveloppeur--euse--de-logiciels-I-2026--Montral_R-98560",
@@ -223491,7 +223473,7 @@
         "company_name": "Genuine Parts Company",
         "id": "c649691d-feec-49b4-ac5d-10a40947c3a4",
         "title": "PIM Data Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1773357152,
         "date_posted": 1773357152,
         "url": "https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/PIM-Data-Analyst_R26_0000004892",
@@ -285810,7 +285792,7 @@
         "company_name": "State of Montana",
         "id": "bdcf940d-5922-40bb-81d9-d4c7e22a8fc7",
         "title": "Research Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1776725101,
         "date_posted": 1776723647,
         "url": "https://mtstatejobs.taleo.net/careersection/200/jobdetail.ftl?job=26141097",
@@ -293281,7 +293263,7 @@
         "company_name": "KLA Corporation",
         "id": "762d4d8e-9069-433c-8141-069ac4e97de1",
         "title": "Product Development Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1777270285,
         "date_posted": 1777270081,
         "url": "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Product-development-engineer_2636373",
@@ -309369,7 +309351,7 @@
         "company_name": "DriveWealth",
         "id": "196f8f00-4f90-4a43-9382-ca71f9e1a79b",
         "title": "Software Engineer 2 - Post Trade",
-        "active": true,
+        "active": false,
         "date_updated": 1778278505,
         "date_posted": 1772677707,
         "url": "https://boards.greenhouse.io/drivewealth/jobs/6283125003",
@@ -311290,7 +311272,7 @@
         "company_name": "Lithia Motors",
         "id": "c0d3ce32-153d-481e-8ae0-0f66b8bff243",
         "title": "IT Business Systems Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1778706901,
         "date_posted": 1778319762,
         "url": "https://lithia.wd5.myworkdayjobs.com/LithiaCareers/job/Driveway-Finance-Corporation-Tigard-OR-97223/DFC-IT-Business-Systems-Analyst_R104248",
@@ -321559,5 +321541,23 @@
             "Master's",
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "GAP",
+        "id": "1b401387-41c5-4764-82d3-cf72e6208229",
+        "title": "Assistant Merchandiser",
+        "active": true,
+        "date_updated": 1779343921,
+        "date_posted": 1779343758,
+        "url": "https://gapinc.wd1.myworkdayjobs.com/GAPINC/job/SF---2-Folsom/Assistant-Merchandiser_R212375",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/GAP",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
