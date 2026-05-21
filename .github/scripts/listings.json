@@ -8142,7 +8142,7 @@
         "company_name": "Amentum",
         "id": "037965da-859d-4532-a3b3-45dc8fd6220f",
         "title": "Entry Level Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1761501704,
         "date_posted": 1761501704,
         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0148259",
@@ -212039,7 +212039,7 @@
         "company_name": "Q2",
         "id": "92afbee3-716c-4beb-8ce1-cf26f6fef6ed",
         "title": "Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1772753461,
         "date_posted": 1772753461,
         "url": "https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Cary-North-Carolina/Software-Engineer_REQ-12127",
@@ -253679,7 +253679,7 @@
         "company_name": "NVIDIA",
         "id": "226a11db-1533-489d-a886-03366dd403b0",
         "title": "GPU Architecture Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1775006124,
         "date_posted": 1775005559,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/GPU-Architecture-Engineer---New-College-Grad-2026_JR2014794-1",
@@ -258890,7 +258890,7 @@
         "company_name": "Aperia Technologies",
         "id": "92e730cc-8b35-4dc1-b645-7e4bb03dff00",
         "title": "Sales Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1775257381,
         "date_posted": 1775253970,
         "url": "https://job-boards.greenhouse.io/aperiatechnologies/jobs/5848421004",
@@ -286176,7 +286176,7 @@
         "company_name": "The Boeing Company",
         "id": "749bba3d-f0f4-42b7-a97e-5db148093c70",
         "title": "Java Software Engineer \u2013 Experienced or Senior - Associate - Bixby",
-        "active": false,
+        "active": true,
         "date_updated": 1776733741,
         "date_posted": 1776733727,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seal-Beach-CA/Java-Software-Engineer--Associate--Experienced-or-Senior----Bixby_JR2026502912-1",
@@ -295906,7 +295906,7 @@
         "company_name": "Intertek",
         "id": "829121e5-c71f-4554-b55b-d96ddf392c78",
         "title": "Engineer - Electrical Safety",
-        "active": true,
+        "active": false,
         "date_updated": 1777425086,
         "date_posted": 1777424755,
         "url": "https://hcog.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/14627",
@@ -295967,7 +295967,7 @@
         "company_name": "Anduril",
         "id": "59da20b4-89d9-4050-8d93-b79c0953d1c7",
         "title": "Early Career Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1777442941,
         "date_posted": 1776895692,
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/4802146007",
@@ -311144,7 +311144,7 @@
         "company_name": "General Dynamics Information Technology",
         "id": "d6e9f6c2-10cf-4956-b31a-691751389066",
         "title": "Modeling & Simulation Specialist Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1778707801,
         "date_posted": 1778320373,
         "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-IN-Crane/Modeling---Simulation-Specialist-Associate_RQ219118-1",
@@ -313238,7 +313238,7 @@
         "company_name": "TD Bank",
         "id": "b1be63a7-16e8-4911-8a3e-d39338388826",
         "title": "Data Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1778711041,
         "date_posted": 1778710265,
         "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Data-Associate_R_1488525",
@@ -317510,7 +317510,7 @@
         "company_name": "Amentum",
         "id": "d29dfc6f-0843-457f-833e-51401c4ef53c",
         "title": "Entry Level Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1779113521,
         "date_posted": 1779113429,
         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Fredericksburg/Entry-Level-Software-Engineer_R0161488",
@@ -322182,6 +322182,327 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Acuity",
+        "id": "e2e8521f-b047-4968-b7a2-3c7b191d1d3e",
+        "title": "Illumination Engineer Lead",
+        "active": true,
+        "date_updated": 1779402781,
+        "date_posted": 1779401270,
+        "url": "https://careers.acuityinc.com/job/Wheat-Ridge-Illumination-Engineer-Lead-CO-80033/1393175100/?ats=successfactors",
+        "locations": [
+            "Wheat Ridge, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Acuity",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "5026d80a-9f39-4c65-8d5c-229ca1a38e0b",
+        "title": "Embedded Software Engineer 1",
+        "active": true,
+        "date_updated": 1779402859,
+        "date_posted": 1779401309,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/XMLNAME-2026-Raytheon-Full-Time-Embedded-Software-Engineer-I_01847120",
+        "locations": [
+            "Indianapolis, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Viridien",
+        "id": "27d62306-3b52-4374-a800-705bb429b036",
+        "title": "Graphical Software Developer",
+        "active": true,
+        "date_updated": 1779403861,
+        "date_posted": 1779401384,
+        "url": "https://cgg.wd103.myworkdayjobs.com/viridiencareers/job/Houston-United-States-of-America/Graphical-Software-Developer_JR101297-1",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Viridien",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Chicago Trading Company",
+        "id": "0489a50d-5cd6-4f17-8222-4ac7f89961cf",
+        "title": "Associate Engineer - Quantitative Research - Trading Technology",
+        "active": true,
+        "date_updated": 1779402670,
+        "date_posted": 1779401247,
+        "url": "https://job-boards.greenhouse.io/chicagotrading/jobs/4698402005",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/ChicagoTradingCo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Appian",
+        "id": "d19704d8-7b6b-440d-a51f-42454b440db4",
+        "title": "Associate Application Engineer",
+        "active": true,
+        "date_updated": 1779403141,
+        "date_posted": 1779401608,
+        "url": "https://job-boards.greenhouse.io/appian/jobs/7951022",
+        "locations": [
+            "McLean, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Appian",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "KeyBank",
+        "id": "dfa9e382-4f4f-47fa-bfde-f5ddd445ad6d",
+        "title": "Analyst Trader - FX Trading",
+        "active": true,
+        "date_updated": 1779402469,
+        "date_posted": 1779401148,
+        "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Cleveland-OH/Analyst-Trader--FX-Trading_R-39790",
+        "locations": [
+            "Cleveland, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/KeyBank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GlobalFoundries",
+        "id": "5fd94dc4-8db3-4ac3-9b52-8ca9be78c02c",
+        "title": "Senior Technician - Device Modeling & Characterization",
+        "active": true,
+        "date_updated": 1779402365,
+        "date_posted": 1779401142,
+        "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Sr-Technician---Device-Modeling---Characterization_JR-2602216",
+        "locations": [
+            "Malta, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/GlobalFoundries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Boeing Company",
+        "id": "53c61d1a-c39f-4f8e-af61-70d070b70771",
+        "title": "Associate Programmer Analyst",
+        "active": true,
+        "date_updated": 1779402961,
+        "date_posted": 1779401459,
+        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Warner-Robins-GA/Associate-Programmer-Analyst_JR2026508524",
+        "locations": [
+            "Warner Robins, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "The Boeing Company",
+        "id": "93c8e53b-81b5-42af-85a1-83d3ebd563a6",
+        "title": "Entry Level Lab Technician",
+        "active": true,
+        "date_updated": 1779402961,
+        "date_posted": 1779401459,
+        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Kirtland-AFB-NM/Entry-Level-Lab-Technician_JR2026510744-1",
+        "locations": [
+            "Albuquerque, NM"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SpaceX",
+        "id": "4eb66fa6-dd81-415a-9719-a5c8c1e7e12b",
+        "title": "Software Engineer - Platform Team",
+        "active": true,
+        "date_updated": 1779402961,
+        "date_posted": 1779401495,
+        "url": "https://boards.greenhouse.io/spacex/jobs/8560546002",
+        "locations": [
+            "Bastrop, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/SpaceX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "iPipeline",
+        "id": "7688293f-f06b-4e90-825d-6cfe3a089ff2",
+        "title": "Software Development Engineer",
+        "active": true,
+        "date_updated": 1779401882,
+        "date_posted": 1779401138,
+        "url": "https://careers-ipipeline.icims.com/jobs/1663/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Berwyn, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/IPipeline",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "LexisNexis Legal & Professional",
+        "id": "33ff65fe-7dfc-4b78-94f2-5160bccd9138",
+        "title": "Data Discovery and Enrichment Expert 1",
+        "active": true,
+        "date_updated": 1779403140,
+        "date_posted": 1779401021,
+        "url": "https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Quebec/Data-Discovery-and-Enrichment-Expert-I--Canada-Bilingual-Hybrid-or-Remote-_R113429",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/LexisNexis-Legal-And-Professional",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "JD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Micron Technology",
+        "id": "1813386c-0220-4b44-9b99-d42f25ce3498",
+        "title": "System on Chip Formal Verification Engineer - Hbm",
+        "active": true,
+        "date_updated": 1779403267,
+        "date_posted": 1779401433,
+        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/SOC-Formal-Verification-Engineer--HBM_JR102414",
+        "locations": [
+            "Richardson, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Micron-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Stryker",
+        "id": "12b7d60a-76f5-44fe-bf0d-d8561ffd83a4",
+        "title": "Portfolio Associate",
+        "active": true,
+        "date_updated": 1779402961,
+        "date_posted": 1779401454,
+        "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Bloomington-Minnesota/Portfolio-Associate_R565967",
+        "locations": [
+            "Bloomington, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Stryker",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CaptiveAire Systems",
+        "id": "02f2f9ff-2cdb-403f-9f24-ed627fcf0a95",
+        "title": "Application Engineer",
+        "active": true,
+        "date_updated": 1779402781,
+        "date_posted": 1779401231,
+        "url": "https://www.captiveaire.com/Careers/Opening.asp?id=8560951002&gh_jid=8560951002",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/CaptiveAire-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "University of Pennsylvania",
+        "id": "19b8ace2-5cba-47cd-8333-bdddc9773c6d",
+        "title": "Web Developer - Penn Arts & Sciences",
+        "active": true,
+        "date_updated": 1779400981,
+        "date_posted": 1779400917,
+        "url": "https://upenn.wd1.myworkdayjobs.com/careers-at-penn/job/3600-Market-Street/Web-Developer--Penn-Arts---Sciences_JR00119947",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Pennsylvania",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
