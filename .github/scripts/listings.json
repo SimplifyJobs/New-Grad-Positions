@@ -127659,7 +127659,7 @@
         "company_name": "Lawrence Berkeley National Laboratory",
         "id": "0331dfa6-11f5-4925-ad06-c0fee918133e",
         "title": "Duramat Postdoctoral Scholar",
-        "active": true,
+        "active": false,
         "date_updated": 1768433989,
         "date_posted": 1768433989,
         "url": "https://lbl.taleo.net/careersection/5/jobdetail.ftl?job=105826",
@@ -291335,7 +291335,7 @@
         "company_name": "Julius AI",
         "id": "0be43d4b-d1c9-409d-b930-fe414e14441e",
         "title": "Software Engineer \u2013 New Grad - Product",
-        "active": true,
+        "active": false,
         "date_updated": 1776982861,
         "date_posted": 1776982123,
         "url": "https://jobs.ashbyhq.com/julius/83d88b90-1b7f-476c-a0e8-10b1cb71639e/application",
@@ -296324,7 +296324,7 @@
         "company_name": "Cresta",
         "id": "eb65f2c4-551e-4527-bf48-ec5b95f51053",
         "title": "AI Value Partner - Customer Analytics",
-        "active": false,
+        "active": true,
         "date_updated": 1777414761,
         "date_posted": 1777414142,
         "url": "https://job-boards.greenhouse.io/cresta/jobs/5074999008",
@@ -310153,7 +310153,7 @@
         "company_name": "DraftKings",
         "id": "f44e478c-79f9-454b-b671-c6a4f35087c1",
         "title": "Data Science Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1778538914,
         "date_posted": 1778537344,
         "url": "https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/Boston-MA/Campus-2026--Data-Science-Engineer_JR14260-1",
@@ -317093,7 +317093,7 @@
         "company_name": "Proofpoint",
         "id": "8b499c85-8eb4-4ff3-b799-613a6813c4d2",
         "title": "People Data Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1778893741,
         "date_posted": 1778893727,
         "url": "https://proofpoint.wd5.myworkdayjobs.com/proofpointcareers/job/Sunnyvale-CA/People-Data-Analyst_R14204",
@@ -318760,7 +318760,7 @@
         "company_name": "Anthropic",
         "id": "e017280c-734c-4023-945e-28d06b72676c",
         "title": "Anthropic Fellows Program - Institute Fellows - Economics & Policy",
-        "active": true,
+        "active": false,
         "date_updated": 1779153121,
         "date_posted": 1777010708,
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5183053008",
@@ -321687,6 +321687,69 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Waymo",
+        "id": "2c987de8-3013-47b1-bfdf-43b4d508c40f",
+        "title": "Applied Research Scientist New Grad - Multi-Modal Perception",
+        "active": true,
+        "date_updated": 1779326764,
+        "date_posted": 1779326530,
+        "url": "https://careers.withwaymo.com/jobs?gh_jid=7948348",
+        "locations": [
+            "SF",
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Waymo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "9fbe7f6c-d802-414e-afbc-cc339c917e47",
+        "title": "Systems Engineer 1",
+        "active": true,
+        "date_updated": 1779326029,
+        "date_posted": 1779325715,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-SAN-DIEGO-SD1--8650-Balboa-Ave--SAN-ANTONIO-BLDG/XMLNAME-2026-Systems-Engineer-I---Onsite---San-Diego--CA_01846024",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Rochester Regional Health",
+        "id": "cb627eaf-4def-4520-a0a0-9a921af4634a",
+        "title": "Sys Analyst/Programmer",
+        "active": true,
+        "date_updated": 1779325741,
+        "date_posted": 1779325647,
+        "url": "https://rrhs.wd5.myworkdayjobs.com/RRH/job/College-of-Health-Careers/Sys-Analyst-Programmer_REQ_236497",
+        "locations": [
+            "Rochester, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Rochester-Regional-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
