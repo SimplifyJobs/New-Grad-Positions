@@ -273430,7 +273430,7 @@
         "company_name": "Intel",
         "id": "82745ec2-2161-4e5a-9850-03f1cf05eda3",
         "title": "Development Tools Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1776121721,
         "date_posted": 1776118183,
         "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Folsom/Development-Tools-Software-Engineer_JR0282770",
@@ -321559,5 +321559,26 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Goldman Sachs",
+        "id": "ad57e8fa-d0bd-4c63-9809-6141b7dda000",
+        "title": "Asset & Wealth Management Associate",
+        "active": true,
+        "date_updated": 1779343943,
+        "date_posted": 1779343723,
+        "url": "https://higher.gs.com/roles/168978",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Goldman-Sachs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
