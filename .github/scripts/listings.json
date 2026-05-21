@@ -2,27 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Jerry",
-        "id": "3238816d-0dc3-48d5-8beb-e1003676ca4d",
-        "title": "Software Engineer 1 - Multiple Teams",
-        "active": false,
-        "date_updated": 1758601184,
-        "date_posted": 1758601184,
-        "url": "https://jobs.ashbyhq.com/jerry.ai/74b74cba-011f-43b9-b432-385df555bc10/application",
-        "locations": [
-            "Toronto, ON, Canada",
-            "Greater Toronto Area, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Jerry",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "OKX ",
         "id": "e4b25ebe-59fa-4c3f-bd03-bf20ec4581f8",
         "title": "Software Engineer \u2013 New Grad - Backend",
@@ -47806,24 +47785,6 @@
             "San Diego, CA"
         ],
         "company_url": "https://simplify.jobs/c/LPL-Financial-Holdings",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Leidos",
-        "id": "89f08d0c-687e-4e23-a3fc-b13ba6451a85",
-        "title": "Aviation Software Engineer",
-        "active": false,
-        "date_updated": 1758601540,
-        "date_posted": 1758601540,
-        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Aviation-Software-Engineer_R-00167018-1",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Leidos",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -321317,7 +321278,7 @@
         "company_name": "Lennar Corporation",
         "id": "9337c08b-83a8-4f58-8158-f595238c3979",
         "title": "Recent College Grad Program - Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1779315629,
         "date_posted": 1779314805,
         "url": "https://lennar.wd1.myworkdayjobs.com/Lennar_Jobs/job/Miami-FL-Waterford/Future-Builders-RCG-Program---Software-Engineer_R26_0000002067",
