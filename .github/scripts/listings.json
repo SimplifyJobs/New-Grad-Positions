@@ -314798,7 +314798,7 @@
         "company_name": "Raymond James Financial",
         "id": "fddb5f10-b80f-4715-a6d3-748a4052e14a",
         "title": "Structured Investments Trading & Operations Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1778797441,
         "date_posted": 1778796572,
         "url": "https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Saint-Petersburg-Florida---United-States/Structured-Investments-Trading---Operations-Analyst_R-0011183",
@@ -319690,7 +319690,7 @@
         "company_name": "Proofpoint",
         "id": "5acb27df-8e45-43bd-a8d6-41396015acee",
         "title": "Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1779229441,
         "date_posted": 1779228595,
         "url": "https://proofpoint.wd5.myworkdayjobs.com/proofpointcareers/job/Sunnyvale-CA/Software-Engineer-I_R14146-1",
@@ -321614,5 +321614,26 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "GXO Logistics",
+        "id": "f510efbb-8fb9-4337-a7d8-30675c7d7230",
+        "title": "Business Intelligence Engineer",
+        "active": true,
+        "date_updated": 1779372541,
+        "date_posted": 1779372467,
+        "url": "https://jobs.gxo.com/job/Union-City-Business-Intelligence-Engineer-1st-Shift-GA-30291-5200/1392928900/?ats=successfactors",
+        "locations": [
+            "Union City, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/GXO-Logistics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
