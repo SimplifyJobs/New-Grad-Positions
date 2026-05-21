@@ -48043,25 +48043,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Jump Trading",
-        "id": "30b4f74a-568c-4c42-a739-976de7d39301",
-        "title": "Campus Quantitative Researcher - Full-Time",
-        "active": false,
-        "date_updated": 1758592373,
-        "date_posted": 1758592373,
-        "url": "https://boards.greenhouse.io/embed/job_app?token=7125354",
-        "locations": [
-            "Chicago, IL",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Jump-Trading",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Astreya",
         "id": "8962c2c6-9aa2-4373-bb7a-c20f744c8c1d",
@@ -312660,7 +312641,7 @@
         "company_name": "Iridium Communications",
         "id": "465278dd-8153-4a94-8011-cbeab8a51011",
         "title": "Software Engineer 1 - Test Automation Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1778708411,
         "date_posted": 1778623434,
         "url": "https://careers-iridium.icims.com/jobs/4964/job?mobile=true&needsRedirect=false",
@@ -321751,5 +321732,83 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Williams-Sonoma",
+        "id": "a112e3a8-8d87-4f7b-9a76-11bdf6c491a8",
+        "title": "Design Coordinator - Pottery Barn",
+        "active": true,
+        "date_updated": 1779325741,
+        "date_posted": 1779325627,
+        "url": "https://ehac.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/18741",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Williams-Sonoma",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "UTHealth Houston",
+        "id": "92f51bb6-ce6a-4bb2-9a70-c8583e637306",
+        "title": "Data Analyst Associate",
+        "active": true,
+        "date_updated": 1779325804,
+        "date_posted": 1779325430,
+        "url": "https://fa-eomf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/6983",
+        "locations": [
+            "San Antonio, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/UTHealth-Houston",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Chicago",
+        "id": "afc773c2-4016-430a-bd70-e00b074d5099",
+        "title": "Research Professional",
+        "active": true,
+        "date_updated": 1779325561,
+        "date_posted": 1779325510,
+        "url": "https://uchicago.wd5.myworkdayjobs.com/External/job/Charles-M-Harper-Center/Research-Professional_JR33684",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Chicago",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Julius AI",
+        "id": "3029721d-d2a5-4aba-9f0b-3fca2d03b9f5",
+        "title": "Refresh Software Engineer New Grad - Product",
+        "active": true,
+        "date_updated": 1779326096,
+        "date_posted": 1779325753,
+        "url": "https://jobs.ashbyhq.com/julius/5e0b677a-f677-44de-93c6-f7848ab5a8e6/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Julius-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
