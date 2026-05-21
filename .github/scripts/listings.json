@@ -1,52 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Providence",
-        "id": "61a85912-13ac-40a0-a327-1ec86c8fb013",
-        "title": "Data Software Engineer 1 - Enterprise Information Services",
-        "active": false,
-        "date_updated": 1758666311,
-        "date_posted": 1758666311,
-        "url": "https://evac.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/jobs/job/388647",
-        "locations": [
-            "Washington",
-            "Oregon",
-            "Lubbock, TX",
-            "California",
-            "Montana",
-            "Silverton, TX",
-            "Morton, TX",
-            "Alaska"
-        ],
-        "company_url": "https://simplify.jobs/c/Providence",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Adobe",
-        "id": "2a4144eb-d683-41ab-aa6b-4054edea48eb",
-        "title": "University Graduate - Data Scientist",
-        "active": false,
-        "date_updated": 1761836320,
-        "date_posted": 1758666320,
-        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Data-Scientist_R160661",
-        "locations": [
-            "SF",
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Adobe",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Fifth Third Bank",
         "id": "7c064910-805a-4037-876c-13452565138c",
@@ -321725,5 +321679,65 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Eastern Research Group",
+        "id": "4cd9fd02-6c9e-49a6-b696-6caba39e23da",
+        "title": "Occupational Safety and Health Data Analyst",
+        "active": true,
+        "date_updated": 1779401882,
+        "date_posted": 1779401133,
+        "url": "https://jobs.lever.co/erg/55e6dfc9-fe22-4dec-80ae-8d4ec6e46b39/apply",
+        "locations": [
+            "Fairfax, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Eastern-Research-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Eurofins",
+        "id": "f56d54f1-b29f-4e46-b699-d1d19df6827d",
+        "title": "EMC Technician",
+        "active": true,
+        "date_updated": 1779401161,
+        "date_posted": 1779401072,
+        "url": "https://jobs.smartrecruiters.com/Eurofins/744000127725209",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Eurofins",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Texas A&M University System",
+        "id": "8d2b8838-f622-4aba-a18a-0ffac4b29e11",
+        "title": "Postdoctoral Research Associate",
+        "active": true,
+        "date_updated": 1779401161,
+        "date_posted": 1779401091,
+        "url": "https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/Corpus-Christi-TX/Postdoctoral-Research-Associate_R-093478-2",
+        "locations": [
+            "Corpus Christi, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Texas-AM-University-System",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
     }
 ]
