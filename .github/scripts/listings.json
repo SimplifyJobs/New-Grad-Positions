@@ -76800,7 +76800,7 @@
         "company_name": "Intel",
         "id": "9a9ae9b6-d15e-46e0-8eef-a6fca332b718",
         "title": "CPU Verification Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1764560696,
         "date_posted": 1764560696,
         "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Texas-Austin/CPU-Verification-Engineer_JR0278559",
@@ -196025,7 +196025,7 @@
         "company_name": "Nationwide Children's Hospital",
         "id": "b3c5fc84-0209-44d7-af5a-92bca0f9a4e3",
         "title": "IS Business Intelligence Analyst 1",
-        "active": true,
+        "active": false,
         "date_updated": 1772062149,
         "date_posted": 1772062149,
         "url": "https://nationwidechildrens.wd5.myworkdayjobs.com/en-US/NCHCareers/job/431-S-18th-St-Columbus-OH/IS-Business-Intelligence-Analyst-I_R-23316-1",
@@ -259083,7 +259083,7 @@
         "company_name": "Leidos",
         "id": "cebcf839-fa11-4531-9dfa-552df2bae3a8",
         "title": "Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1775257781,
         "date_posted": 1775254232,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Software-Developer_R-00179976",
@@ -310375,7 +310375,7 @@
         "company_name": "Intel",
         "id": "6e8c11b2-b77c-4286-b649-c05d47b2ee69",
         "title": "Power and Performance Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1778538799,
         "date_posted": 1778537352,
         "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Santa-Clara/Power-and-Performance-Engineer_JR0283718-1",
@@ -315701,7 +315701,7 @@
         "company_name": "Snap Finance",
         "id": "ef6899e4-9bed-4082-b6f3-dddb70c0b809",
         "title": "Full-Stack Developer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1778854290,
         "date_posted": 1778853901,
         "url": "https://snapfinance.wd1.myworkdayjobs.com/snap_external_careers/job/Arizona/Full---Stack-Developer-I_R-2775-1",
@@ -321367,7 +321367,7 @@
         "company_name": "Rochester Regional Health",
         "id": "cb627eaf-4def-4520-a0a0-9a921af4634a",
         "title": "Sys Analyst/Programmer",
-        "active": true,
+        "active": false,
         "date_updated": 1779325741,
         "date_posted": 1779325647,
         "url": "https://rrhs.wd5.myworkdayjobs.com/RRH/job/College-of-Health-Careers/Sys-Analyst-Programmer_REQ_236497",
@@ -321635,5 +321635,177 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "JP Morgan Chase",
+        "id": "8ce5ea62-5be9-4bed-ad2a-e24c70ad063c",
+        "title": "Asset & Wealth Management - Digital Product Manager - Associate",
+        "active": true,
+        "date_updated": 1779372361,
+        "date_posted": 1779372281,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210739667",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Sandisk",
+        "id": "15dc6c13-5e49-4937-8c1e-4fb7477817d2",
+        "title": "Software Engineer - Hardware Simulation & Engineering Infrastructure",
+        "active": true,
+        "date_updated": 1779372361,
+        "date_posted": 1779372278,
+        "url": "https://jobs.smartrecruiters.com/Sandisk/744000127665769",
+        "locations": [
+            "Edinburgh, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sandisk",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Altamira Technologies",
+        "id": "1402c2af-c28d-4623-814c-109cd33f2fb9",
+        "title": "Software Engineer - Multiple Levels",
+        "active": true,
+        "date_updated": 1779372541,
+        "date_posted": 1779372502,
+        "url": "https://jobs.jobvite.com/altamiracorps/job/oHqaAfwB?nl=1&nl=1&fr=false",
+        "locations": [
+            "Dayton, OH",
+            "Washington, DC",
+            "Colorado Springs, CO",
+            "Wright-Patterson AFB, OH",
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Altamira-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Chicago Trading Company",
+        "id": "dc45b05b-6ff6-413c-aadc-3baee16d05de",
+        "title": "Associate C++ Engineer",
+        "active": true,
+        "date_updated": 1779372541,
+        "date_posted": 1779372423,
+        "url": "https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4687435005",
+        "locations": [
+            "Chicago, IL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/ChicagoTradingCo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Google",
+        "id": "a8ad6a63-d3a7-49e0-a75c-f5a6ad091c66",
+        "title": "Product Manager 1 - Storage Capacity and Business Optimization",
+        "active": true,
+        "date_updated": 1779373007,
+        "date_posted": 1779372409,
+        "url": "https://www.google.com/about/careers/applications/jobs/results/112743265135928006",
+        "locations": [
+            "Kirkland, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Google",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "9ea89ed3-f580-4b6c-91a2-9ed17008df2e",
+        "title": "Component Engineer",
+        "active": true,
+        "date_updated": 1779372541,
+        "date_posted": 1779372454,
+        "url": "https://jobs.apple.com/en-us/details/200600679",
+        "locations": [
+            "Cupertino, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "JP Morgan Chase",
+        "id": "f0f15760-e658-4f7e-9e6c-9e55ca9b1ef6",
+        "title": "Product Associate",
+        "active": true,
+        "date_updated": 1779372361,
+        "date_posted": 1779372300,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210751278",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Hawk-Eye Innovations",
+        "id": "e94074a2-007f-48c7-879d-15d3d41a6d91",
+        "title": "Football Tracking Technician",
+        "active": true,
+        "date_updated": 1779372541,
+        "date_posted": 1779372475,
+        "url": "https://jobs.ashbyhq.com/hawkeyeinnovations/e787ccf7-8dba-4529-be15-0cf4e2f13a1e/application",
+        "locations": [
+            "Withernsea, UK",
+            "Leeds, UK",
+            "Northwich, UK",
+            "Newcastle upon Tyne, UK",
+            "Durham, UK",
+            "Sheffield, UK",
+            "Manchester, UK",
+            "Bolton, UK",
+            "Liverpool, UK",
+            "Blackpool, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Hawk-Eye-Innovations",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
