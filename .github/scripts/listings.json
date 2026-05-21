@@ -307428,7 +307428,7 @@
         "company_name": "RTX",
         "id": "55e80e04-c2f7-4735-a0ee-d707f7e3a5d9",
         "title": "Software Engineer 1 - Embedded Communications",
-        "active": true,
+        "active": false,
         "date_updated": 1778193738,
         "date_posted": 1778191809,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineer-I---Embedded-Communications_01843677",
@@ -321633,5 +321633,47 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Nextdoor",
+        "id": "e03e0a85-11c0-4948-b546-b88e158be2b5",
+        "title": "Machine Learning Engineer New Grad",
+        "active": true,
+        "date_updated": 1778579507,
+        "date_posted": 1776896028,
+        "url": "https://about.nextdoor.com/careers-list/?gh_jid=7264954",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Nextdoor",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Adobe",
+        "id": "5de30536-7ed9-4121-977c-734010710c22",
+        "title": "Machine Learning Engineer",
+        "active": true,
+        "date_updated": 1779267277,
+        "date_posted": 1778941623,
+        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Seattle/XMLNAME-2026-University-Graduate---Machine-Learning-Engineer_R160133",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Adobe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
     }
 ]
