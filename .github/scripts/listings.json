@@ -2,26 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "NextEra Energy",
-        "id": "ff1f5f3e-5e7a-4dfe-a1fb-9d658755635b",
-        "title": "Software Development Engineer 1 - New Product Engineering",
-        "active": false,
-        "date_updated": 1758594889,
-        "date_posted": 1758594889,
-        "url": "https://jobs.nexteraenergy.com/job/St_-Paul-Software-Development-Eng-I-MN-55107/1312731700/?ats=successfactors",
-        "locations": [
-            "St Paul, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/NextEra-Energy",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Chewy",
         "id": "6a49bd3b-c1ce-4223-82d4-c340a6bf1a21",
         "title": "Software Engineer I - Discovery Recommendations",
@@ -223745,7 +223725,7 @@
         "company_name": "Genuine Parts Company",
         "id": "c649691d-feec-49b4-ac5d-10a40947c3a4",
         "title": "PIM Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1773357152,
         "date_posted": 1773357152,
         "url": "https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/PIM-Data-Analyst_R26_0000004892",
@@ -310969,7 +310949,7 @@
         "company_name": "2K",
         "id": "c51f7835-af57-4346-b91e-c161d5233ec1",
         "title": "Associate Gameplay Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1778566681,
         "date_posted": 1778566678,
         "url": "https://job-boards.greenhouse.io/2k/jobs/7724801003",
@@ -311544,7 +311524,7 @@
         "company_name": "Lithia Motors",
         "id": "c0d3ce32-153d-481e-8ae0-0f66b8bff243",
         "title": "IT Business Systems Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1778706901,
         "date_posted": 1778319762,
         "url": "https://lithia.wd5.myworkdayjobs.com/LithiaCareers/job/Driveway-Finance-Corporation-Tigard-OR-97223/DFC-IT-Business-Systems-Analyst_R104248",
