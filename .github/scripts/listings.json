@@ -259748,7 +259748,7 @@
         "company_name": "Travelers",
         "id": "a3c738b0-8e2b-4cff-a844-79d726db0c4e",
         "title": "Data Engineer 1 - Snowflake",
-        "active": true,
+        "active": false,
         "date_updated": 1775297950,
         "date_posted": 1775294442,
         "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Data-Engineer-I--Snowflake-_R-49667",
@@ -278489,24 +278489,6 @@
             "Bachelor's",
             "Master's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Electronic Arts",
-        "id": "3db201c8-cfe8-4208-a4ed-acb42654baa0",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1776348791,
-        "date_posted": 1758698060,
-        "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-I/210658",
-        "locations": [
-            "Trafford, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Electronic-Arts",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -312584,7 +312566,7 @@
         "company_name": "Cencora",
         "id": "dcbeb1d6-2bca-4251-af9e-4bcd4074fc46",
         "title": "Automation Developer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1778709149,
         "date_posted": 1778623786,
         "url": "https://myhrabc.wd5.myworkdayjobs.com/Global/job/Carrollton-TX/Automation-Developer-I_R2521185",
