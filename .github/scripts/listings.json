@@ -47432,24 +47432,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Generac",
-        "id": "e81ac7d2-0e46-4487-b7b7-278a00ab67af",
-        "title": "Technical Service Representative - Electromechanical",
-        "active": false,
-        "date_updated": 1761839591,
-        "date_posted": 1758676570,
-        "url": "https://generac.wd5.myworkdayjobs.com/en-US/external/job/Waukesha-WI---USA/Technical-Service-Representative-I_JR10168",
-        "locations": [
-            "Waukesha, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/Generac",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Cox",
         "id": "0a3476e9-8242-45b8-b9a6-cfa485d2077e",
@@ -290892,7 +290874,7 @@
         "company_name": "Daimler Truck",
         "id": "2130788c-1f31-446d-a635-c57bb258295a",
         "title": "Product Engineer 1 - Brake and Pneumatics Systems - Vehicle Dynamics",
-        "active": false,
+        "active": true,
         "date_updated": 1776982397,
         "date_posted": 1776981933,
         "url": "https://dtna.wd5.myworkdayjobs.com/dtna_affiliate/job/Portland-OR-US/Product-Engineer-1---Brake-and-Pneumatics-Systems--Vehicle-Dynamics-_DT-17640",
@@ -295398,7 +295380,7 @@
         "company_name": "Freudenberg Group",
         "id": "65ff0a9d-e43b-481c-be48-cb67968bc703",
         "title": "Catalog Data Specialist",
-        "active": false,
+        "active": true,
         "date_updated": 1777414141,
         "date_posted": 1777414023,
         "url": "https://freudenberg.wd3.myworkdayjobs.com/freudenberg-group/job/Milan-OH/Catalog-Data-Specialist_R_00100386",
@@ -301150,7 +301132,7 @@
         "company_name": "PNC Financial Services",
         "id": "8c778653-d9cc-4d35-b54e-8d9dd45de381",
         "title": "Software Engineer Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1777933749,
         "date_posted": 1777932616,
         "url": "https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Software-Engineer-Associate_R221596",
@@ -322578,6 +322560,49 @@
             "Fort Huachuca, Sierra Vista, AZ"
         ],
         "company_url": "https://simplify.jobs/c/Agile-Defense",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Lumotive",
+        "id": "593cdf6b-06d9-4ca9-b9d9-af5ded32300d",
+        "title": "Firmware Engineer",
+        "active": true,
+        "date_updated": 1779412415,
+        "date_posted": 1779412024,
+        "url": "https://jobs.lever.co/lumotive/869becb2-aeb0-47fd-8fcf-576003d9a012/apply",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Lumotive",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Trane Technologies",
+        "id": "522cfed9-2d80-426b-8188-5c1507fd82c1",
+        "title": "Custom Application Engineer",
+        "active": true,
+        "date_updated": 1779412412,
+        "date_posted": 1779412087,
+        "url": "https://careers.tranetechnologies.com/global/en/job/JR-5107",
+        "locations": [
+            "Lexington, KY",
+            "Fort Smith, AR"
+        ],
+        "company_url": "https://simplify.jobs/c/Trane-Technologies",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
