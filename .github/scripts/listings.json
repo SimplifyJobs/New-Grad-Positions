@@ -2,24 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Citigroup",
-        "id": "2dd479a3-c56a-41c4-be00-e2cc0c4bab4f",
-        "title": "Entry Level Java Developer/Software Engineer and Technology Business Analysts - Technology Business Analysis - Applications Development",
-        "active": false,
-        "date_updated": 1759948446,
-        "date_posted": 1758681047,
-        "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Tampa-Florida-United-States/Entry-Level-Java-Developer-Software-Engineer-and-Technology-Business-Analysts_25908328",
-        "locations": [
-            "Tampa, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Citigroup",
-        "is_visible": false,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Warner Bros.",
         "id": "9473651a-1bbf-47c0-8007-15c3b4b0d008",
         "title": "Junior Software Engineer",
@@ -47270,60 +47252,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Appian",
-        "id": "7412a075-4f92-40c8-b45f-79598d9ae0cb",
-        "title": "Internal Technical Consultant",
-        "active": false,
-        "date_updated": 1758681017,
-        "date_posted": 1758681017,
-        "url": "https://job-boards.greenhouse.io/appian/jobs/7254384",
-        "locations": [
-            "McLean, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Appian",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Appian",
-        "id": "3549c248-80b5-44f9-8cda-d8d0e4cda08a",
-        "title": "Associate Application Engineer \u2013 Dec 2025 Grads",
-        "active": false,
-        "date_updated": 1762905774,
-        "date_posted": 1758680765,
-        "url": "https://job-boards.greenhouse.io/appian/jobs/7272543",
-        "locations": [
-            "McLean, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Appian",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Appian",
-        "id": "e1b7438a-9f19-4de4-9c65-d8e98cbcd620",
-        "title": "Associate Application Developer - Appian Platform",
-        "active": false,
-        "date_updated": 1758679896,
-        "date_posted": 1758679896,
-        "url": "https://job-boards.greenhouse.io/appian/jobs/7272542",
-        "locations": [
-            "McLean, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Appian",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Vulcan Materials",
         "id": "ca96dafe-7bc7-4b26-9c15-866335e3f024",
@@ -47336,24 +47264,6 @@
             "Birmingham, AL"
         ],
         "company_url": "https://simplify.jobs/c/Vulcan-Materials",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Assent",
-        "id": "2eba493c-2a15-4f7f-aebe-304d7045ebc2",
-        "title": "Product Data Specialist - Student term",
-        "active": false,
-        "date_updated": 1758679309,
-        "date_posted": 1758679309,
-        "url": "https://jobs.smartrecruiters.com/Assent/744000083681050",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Assent",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -280297,7 +280207,7 @@
         "company_name": "GE Healthcare",
         "id": "d28b20da-afe2-4e20-803b-1caf268ca930",
         "title": "Field Service Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1776420083,
         "date_posted": 1776290827,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1_R4039151-1",
