@@ -1,47 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "IXL Learning",
-        "id": "aad18883-77ff-4b1e-9af2-1688cd8d74ec",
-        "title": "Software Engineer \u2013 New Grad - Multiple Teams",
-        "active": false,
-        "date_updated": 1758701832,
-        "date_posted": 1758701832,
-        "url": "https://www.ixl.com/company/jobs?gh_jid=8182862002",
-        "locations": [
-            "Raleigh, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/IXL-Learning",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "IXL Learning",
-        "id": "018cb132-f0f1-48f6-b5fe-1bc111d1ec6d",
-        "title": "Software Engineer \u2013 New Grad - Multiple Teams",
-        "active": false,
-        "date_updated": 1758701815,
-        "date_posted": 1758701815,
-        "url": "https://www.ixl.com/company/jobs?gh_jid=8182830002",
-        "locations": [
-            "San Mateo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/IXL-Learning",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
         "date_updated": 1760944113,
         "sponsorship": "Other",
         "active": false,
@@ -177467,7 +177425,7 @@
         "company_name": "Plante Moran",
         "id": "11ed2a63-666d-48da-95d3-41ec07bc4489",
         "title": "Investment Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1771286235,
         "date_posted": 1771286235,
         "url": "https://plantemoran.wd1.myworkdayjobs.com/pmexternalcareers/job/Southfield/Investment-Analyst_JR-02201",
@@ -261943,7 +261901,7 @@
         "company_name": "Applied Materials",
         "id": "1026be71-0427-4d9c-b8bf-f84d4e4e9656",
         "title": "Product Support Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1775516221,
         "date_posted": 1775513349,
         "url": "https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/Product-Support-Technician_R2615385",
@@ -295689,7 +295647,7 @@
         "company_name": "ISS | Institutional Shareholder Services",
         "id": "152f7f23-f5e7-45bc-918e-311b34da1559",
         "title": "Index Research & Development Analyst - Thematics",
-        "active": true,
+        "active": false,
         "date_updated": 1777451041,
         "date_posted": 1777414083,
         "url": "https://issgovernance.wd1.myworkdayjobs.com/isscareers/job/London-UK/Index-Research---Development-Analyst--Thematics-_JR_9767",
@@ -304816,7 +304774,7 @@
         "company_name": "NVIDIA",
         "id": "4ca513a9-c75f-4b24-b016-16df26b72782",
         "title": "ASIC Design Engineer New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1778106272,
         "date_posted": 1778105400,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Design-Engineer---New-College-Grad-2026_JR2017581",
@@ -309438,7 +309396,7 @@
         "company_name": "Daimler Truck",
         "id": "4797c54c-2b2f-4cf7-9ead-baf41ae21c88",
         "title": "Implementation and Coordination Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1778538429,
         "date_posted": 1778537275,
         "url": "https://dtna.wd5.myworkdayjobs.com/dtna_affiliate/job/Portland-OR-US/Implementation-and-Coordination-Engineer-I_DT-17911-1",
@@ -322441,6 +322399,26 @@
             "Hartford, CT"
         ],
         "company_url": "https://simplify.jobs/c/Cigna-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CACI",
+        "id": "010a6db7-faaa-473a-ab4d-bb7717357f4e",
+        "title": "Full Stack Software Engineer",
+        "active": true,
+        "date_updated": 1779437341,
+        "date_posted": 1779314842,
+        "url": "https://caci.wd1.myworkdayjobs.com/external/job/Santa-Maria-CA-US/Full-Stack-Software-Engineer_326752",
+        "locations": [
+            "Santa Maria, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
