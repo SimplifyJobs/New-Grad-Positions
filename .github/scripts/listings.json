@@ -2,47 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "mthree",
-        "id": "de2aa833-1aeb-4eec-b942-b25dd9ec163a",
-        "title": "Junior Software Developer - Go Lang",
-        "active": true,
-        "date_updated": 1758755035,
-        "date_posted": 1758755035,
-        "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4604065006",
-        "locations": [
-            "United Kingdom"
-        ],
-        "company_url": "https://simplify.jobs/c/Mthree",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "mthree",
-        "id": "c69eca4d-3efe-46db-a9c2-5a84040d6c8b",
-        "title": "Junior Software Developer - Java/Scala",
-        "active": false,
-        "date_updated": 1758755027,
-        "date_posted": 1758755027,
-        "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4600596006",
-        "locations": [
-            "Ireland",
-            "United Kingdom"
-        ],
-        "company_url": "https://simplify.jobs/c/Mthree",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Comcast",
         "id": "891744d8-4b45-494b-bdad-be4ba6bfc4c5",
         "title": "Software Engineer 1 - Multiple Teams",
@@ -5291,27 +5250,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "TeleTracking",
-        "id": "f94e068e-9825-4b56-9865-e975c0762020",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1758755383,
-        "date_posted": 1758755383,
-        "url": "https://job-boards.greenhouse.io/teletrackingtechnologiesinc/jobs/4921543008",
-        "locations": [
-            "Pittsburgh, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/TeleTracking",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
     },
     {
         "date_updated": 1762411356,
@@ -46828,24 +46766,6 @@
             "Ohio"
         ],
         "company_url": "https://simplify.jobs/c/Care-Source",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Sharp Electronics",
-        "id": "b0c8a978-896b-44b6-aa13-3a6f71057914",
-        "title": "Master Data Analyst",
-        "active": false,
-        "date_updated": 1763130660,
-        "date_posted": 1758755373,
-        "url": "https://careers-sharpusa.icims.com/jobs/8550/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Mahwah, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/Sharp-Electronics",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -233486,7 +233406,7 @@
         "company_name": "Astronomer",
         "id": "da35e250-cc83-40c3-8030-56a35545fe85",
         "title": "Software Engineer - Platform",
-        "active": false,
+        "active": true,
         "date_updated": 1773959546,
         "date_posted": 1773959546,
         "url": "https://jobs.ashbyhq.com/astronomer/de75aa5e-82f9-4348-9122-4cc83138a569/application",
@@ -244916,7 +244836,7 @@
         "company_name": "La-Z-Boy",
         "id": "79a7c274-4eac-4b37-817c-9cbb551c60b1",
         "title": "Upholstery Designer 2",
-        "active": true,
+        "active": false,
         "date_updated": 1774583714,
         "date_posted": 1774573530,
         "url": "https://lazboy.wd1.myworkdayjobs.com/lzbcareers/job/Dayton-TN/Upholstery-Designer-II_JR132188",
@@ -320386,7 +320306,7 @@
         "company_name": "JP Morgan Chase",
         "id": "a3ce789a-1156-4ebb-b4b2-5bdc7e47c7be",
         "title": "Risk Management - Strategic Risk Analytics Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1779314761,
         "date_posted": 1779314725,
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210748934",
@@ -323129,6 +323049,87 @@
             "Master's",
             "MBA",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Leidos",
+        "id": "6656313e-bd47-4417-b87a-ce43ceff0aab",
+        "title": "Electronics Technician",
+        "active": true,
+        "date_updated": 1779488183,
+        "date_posted": 1779487591,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Long-Beach-MS/Electronics-Technician_R-00183879",
+        "locations": [
+            "Long Beach, MS"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Sanofi",
+        "id": "43599b93-3328-4553-9d05-2768931a4a9b",
+        "title": "External Manufacturing & Supply Business Data Analyst - VIE Contract",
+        "active": true,
+        "date_updated": 1779487741,
+        "date_posted": 1779487582,
+        "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Framingham-MA/External-Manufacturing---Supply-Business-Data-Analyst---VIE-Contract_R2856066",
+        "locations": [
+            "Cambridge, MA",
+            "Framingham, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Sanofi",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Aevex Aerospace",
+        "id": "b3dcdcc7-eb5a-4c19-91a8-c9545777dad7",
+        "title": "Software Engineering Technician",
+        "active": true,
+        "date_updated": 1779488641,
+        "date_posted": 1779488536,
+        "url": "https://job-boards.greenhouse.io/aevexaerospace/jobs/5224824008",
+        "locations": [
+            "Tampa, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Aevex-Aerospace",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "LG Electronics",
+        "id": "a71e6229-fe69-44ed-a750-a7017b417842",
+        "title": "R&D Lab Engineer - Appliance Testing Lab",
+        "active": true,
+        "date_updated": 1779487741,
+        "date_posted": 1779487625,
+        "url": "https://job-boards.greenhouse.io/lgelectronics/jobs/5229028008",
+        "locations": [
+            "Wheeling, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/LG-Electronics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
