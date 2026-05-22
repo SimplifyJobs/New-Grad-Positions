@@ -83355,24 +83355,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Electronic Arts",
-        "id": "e8c1ca35-16fa-4cc6-a091-01e6ca098e49",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1764976825,
-        "date_posted": 1758724210,
-        "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-I/210201",
-        "locations": [
-            "Vancouver, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Electronic-Arts",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Intel",
         "id": "91dabd9c-d12b-4af8-b041-9f654de48391",
@@ -322444,5 +322426,62 @@
         "degrees": [
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Medtronic",
+        "id": "86ce6ba5-554d-4465-803e-b84edba2935d",
+        "title": "Associate Product Specialist - Cranial & Spinal Technologies",
+        "active": true,
+        "date_updated": 1779459363,
+        "date_posted": 1779458851,
+        "url": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Memphis-Tennessee-United-States-of-America/Associate-Product-Specialist---CST_R65229-2",
+        "locations": [
+            "Memphis, TN",
+            "Lafayette, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Medtronic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "loveholidays",
+        "id": "5ba17bee-67e4-4139-bafe-023213e703b3",
+        "title": "Conversational AI Engineer",
+        "active": true,
+        "date_updated": 1779458941,
+        "date_posted": 1779458886,
+        "url": "https://jobs.ashbyhq.com/loveholidays/80aef5f9-efe1-459f-aea6-2d86f5280bea/application",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Loveholidays",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Egis Group",
+        "id": "f8a46b4e-7c6d-4626-8a8a-5b680d71b9d0",
+        "title": "BIM Developer",
+        "active": true,
+        "date_updated": 1779458761,
+        "date_posted": 1779458748,
+        "url": "https://jobs.smartrecruiters.com/EgisGroup/744000127876298",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Egis-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
