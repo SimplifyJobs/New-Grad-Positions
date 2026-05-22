@@ -46965,24 +46965,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Marsh",
-        "id": "b31097c4-87bd-4a07-a47f-cc185dce9ec6",
-        "title": "Oliver Wyman-Vector-Data Analyst",
-        "active": false,
-        "date_updated": 1762907133,
-        "date_posted": 1758751815,
-        "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/Atlanta---Hartsfield/Oliver-Wyman--Vector--Data-Analyst_R_325198",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/55341c12-8fd6-4cce-8472-d15c4a3ab583",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Unisys",
         "id": "fa6753ed-4af5-4a37-99c1-0f3e8faef65a",
@@ -188753,7 +188735,7 @@
         "company_name": "Amentum",
         "id": "61897b58-573c-49ad-a044-fcd6c9abde98",
         "title": "Electronic Technician - Ior - Optics (Sfrc)",
-        "active": true,
+        "active": false,
         "date_updated": 1771861901,
         "date_posted": 1771861901,
         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-FL-Canaveral/Electronic-Technician--IOR----Optics_R0152734-1",
@@ -273195,7 +273177,7 @@
         "company_name": "Texas Instruments",
         "id": "5e7290f6-deb8-43f7-a1c8-71d1e21a8fed",
         "title": "Product Information Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1776120553,
         "date_posted": 1776118010,
         "url": "https://ebgj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/250764",
@@ -322518,6 +322500,190 @@
             "Redmond, WA"
         ],
         "company_url": "https://simplify.jobs/c/Centific",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "HF Sinclair",
+        "id": "a1feaa37-fac2-47e3-b64e-01ca770da095",
+        "title": "Data Analyst - Procurement",
+        "active": true,
+        "date_updated": 1779487381,
+        "date_posted": 1779487374,
+        "url": "https://careers.hfsinclair.com/job/Dallas-Data-Analyst-Procurement-TX-75219/1393548600/?ats=successfactors",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/HF-Sinclair",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "The Boeing Company",
+        "id": "31d71f2a-9a18-4322-9731-399a235bc668",
+        "title": "Hardware Subsystems Engineer",
+        "active": true,
+        "date_updated": 1779487934,
+        "date_posted": 1779487866,
+        "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---El-Segundo-CA/Hardware-Subsystems-Engineer----Associate-or-Experienced-_JR2026510994",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Leidos",
+        "id": "0562dd34-c1bb-4954-8d1f-a789019683ee",
+        "title": "Electronics Technician",
+        "active": true,
+        "date_updated": 1779488303,
+        "date_posted": 1779487590,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Long-Beach-MS/Electronics-Technician_R-00183866",
+        "locations": [
+            "Long Beach, MS"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Cadence Design Systems",
+        "id": "803fb947-a722-4db2-bb3b-24fd63eb7ed6",
+        "title": "Product Engineer New Grad",
+        "active": true,
+        "date_updated": 1779488277,
+        "date_posted": 1779487588,
+        "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Product-Engineer--New-College-Grad-2026-_R54784",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "William & Mary",
+        "id": "7d81c3d4-12f2-4f3e-a238-2d0f7fddad43",
+        "title": "Postdoctoral Fellow of Physics - Nuclear & Hadronic Theory",
+        "active": true,
+        "date_updated": 1779487934,
+        "date_posted": 1779487535,
+        "url": "https://williammary.wd12.myworkdayjobs.com/WM/job/Posting-Location---William--Mary/Postdoctoral-Fellow-of-Physics--Nuclear---Hadronic-Theory-_JR101750",
+        "locations": [
+            "Williamsburg, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/William-And-Mary",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Peraton",
+        "id": "6a78961d-e3fe-4ffa-ae05-d5c9f0019884",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1779487741,
+        "date_posted": 1779487617,
+        "url": "https://careers-peraton.icims.com/jobs/167078/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Colorado Springs, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Peraton",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Blackhawk Network Holdings",
+        "id": "e036db29-3a3b-4749-8969-b686f8826486",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1779487561,
+        "date_posted": 1779487451,
+        "url": "https://careers-blackhawknetwork.icims.com/jobs/26610/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Coppell, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Blackhawk-Network-Holdings",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Chicago",
+        "id": "351fa757-3911-481c-9262-ca8b9519261a",
+        "title": "Research Data Scientist",
+        "active": true,
+        "date_updated": 1779487561,
+        "date_posted": 1779487513,
+        "url": "https://uchicago.wd5.myworkdayjobs.com/External/job/Charles-M-Harper-Center/Research-Data-Scientist_JR33692-1",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Chicago",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ACI Worldwide ",
+        "id": "0e7b0cbe-f1c8-4417-90d3-a7312e082684",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1779487619,
+        "date_posted": 1779487516,
+        "url": "https://ebwg.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/18576",
+        "locations": [
+            "Omaha, NE",
+            "Norcross, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/ACI-Worldwide",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
