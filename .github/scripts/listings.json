@@ -47175,24 +47175,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Appian",
-        "id": "db48c521-051c-4c3b-9542-5047ef627487",
-        "title": "Associate Business Applications Engineer",
-        "active": false,
-        "date_updated": 1758689201,
-        "date_posted": 1758689201,
-        "url": "https://job-boards.greenhouse.io/appian/jobs/7272540",
-        "locations": [
-            "McLean, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Appian",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Vulcan Materials",
         "id": "ca96dafe-7bc7-4b26-9c15-866335e3f024",
         "title": "2026 New Graduate Information Technology Development Program",
@@ -196657,24 +196639,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "TikTok",
-        "id": "a25655df-6e19-4c64-8b24-e85f531e94db",
-        "title": "Machine Learning Scientist Graduate - Global E-commerce Content Recommendation - 2026 Start",
-        "active": true,
-        "date_updated": 1772100354,
-        "date_posted": 1758688398,
-        "url": "https://lifeattiktok.com/search/7553175919394638087",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Sonsoft",
         "id": "ca719402-7dc8-40c1-bbe1-3e69ffd37a08",
@@ -267935,7 +267899,7 @@
         "company_name": "NextEra Energy",
         "id": "86f2b214-ca03-4538-be78-4f52056b8194",
         "title": "Applied Scientist 1",
-        "active": true,
+        "active": false,
         "date_updated": 1775775566,
         "date_posted": 1775772547,
         "url": "https://jobs.nexteraenergy.com/job/St_-Paul-Applied-Scientist-I-MN-55107/1381060800/?ats=successfactors",
@@ -306622,7 +306586,7 @@
         "company_name": "Medavie",
         "id": "8524276b-8fb8-4816-ae38-9e5bd17f7298",
         "title": "Snowflake Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1778193361,
         "date_posted": 1778191576,
         "url": "https://medaviehs.wd10.myworkdayjobs.com/Medavie_External/job/Nova-Scotia/Snowflake-Developer_R-267771",
@@ -318901,7 +318865,7 @@
         "company_name": "Comcast",
         "id": "b90a2c90-32e3-4e4f-8e25-232fd65e4aff",
         "title": "Engineer 1 - Software Development & Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1779229441,
         "date_posted": 1779228607,
         "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Engineer-1--Software-Development---Engineering_R437659",
