@@ -295418,7 +295418,7 @@
         "company_name": "Freudenberg Group",
         "id": "65ff0a9d-e43b-481c-be48-cb67968bc703",
         "title": "Catalog Data Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1777414141,
         "date_posted": 1777414023,
         "url": "https://freudenberg.wd3.myworkdayjobs.com/freudenberg-group/job/Milan-OH/Catalog-Data-Specialist_R_00100386",
@@ -322499,6 +322499,105 @@
             "Philadelphia, PA"
         ],
         "company_url": "https://simplify.jobs/c/University-Of-Pennsylvania",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Salvo Health",
+        "id": "e9358a97-f8ce-46dd-aff0-ad02907f6d31",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1779402781,
+        "date_posted": 1779401268,
+        "url": "https://jobs.lever.co/salvohealth/285d6b09-7961-490b-8927-3b24698affe9/apply",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Salvo-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "LG Electronics",
+        "id": "2058173d-357a-46d1-9391-17daed1c076d",
+        "title": "Cryptography Research Scientist",
+        "active": true,
+        "date_updated": 1779402061,
+        "date_posted": 1779401243,
+        "url": "https://job-boards.greenhouse.io/lgelectronics/jobs/5226811008",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/LG-Electronics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "StoneX Group",
+        "id": "018fb86c-436c-4306-85e1-90d03e836d84",
+        "title": "Junior Data Analyst",
+        "active": true,
+        "date_updated": 1779402061,
+        "date_posted": 1779401246,
+        "url": "https://careers-stonex.icims.com/jobs/15180/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Birmingham, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/StoneX-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "d0688f04-fc2a-4352-8fc4-11a83ee95549",
+        "title": "Algorithms Software Engineer",
+        "active": true,
+        "date_updated": 1779402781,
+        "date_posted": 1779401264,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/Algorithms-Software-Engineer_R10233831",
+        "locations": [
+            "Boulder, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Agile Defense",
+        "id": "c732d93e-874c-4c6e-b9ec-3846dea4359a",
+        "title": "Data Scientist",
+        "active": true,
+        "date_updated": 1779402781,
+        "date_posted": 1779401263,
+        "url": "https://jobs.lever.co/agile-defense/97f0677a-00ea-412e-a08d-8fe7cf5770c2/apply",
+        "locations": [
+            "Fort Huachuca, Sierra Vista, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Agile-Defense",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
