@@ -47378,24 +47378,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "CesiumAstro",
-        "id": "3d5ce2e5-5472-4971-b288-aaf2be15b1fd",
-        "title": "FPGA Engineer 1",
-        "active": false,
-        "date_updated": 1762922976,
-        "date_posted": 1758678117,
-        "url": "https://jobs.lever.co/CesiumAstro/25289cb4-4200-42ad-ab2b-7515132f945e/apply",
-        "locations": [
-            "Milton Keynes, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/CesiumAstro",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "NatWest Group",
         "id": "1ffc83e4-c35d-47fd-9c78-78d219b87a5a",
@@ -270731,7 +270713,7 @@
         "company_name": "CAE",
         "id": "b3302ee4-ed5d-4bb3-b09b-6a7e70607a9a",
         "title": "Flight Simulator Technician / Electronics Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1775902129,
         "date_posted": 1775900895,
         "url": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Flight-Simulator-Technician-II-Electronics-Technician_115800",
@@ -319089,7 +319071,7 @@
         "company_name": "General Motors",
         "id": "9e601a6d-97a9-40d6-9090-b6bcb202f861",
         "title": "Software Developer - Virtualization and Software-in-the-Loop Integration",
-        "active": true,
+        "active": false,
         "date_updated": 1779229246,
         "date_posted": 1779228451,
         "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Milford-Michigan-United-States-of-America/Software-Developer---Virtualization-and-SIL-Integration_JR-202610787-1",
@@ -322603,6 +322585,64 @@
             "Fort Smith, AR"
         ],
         "company_url": "https://simplify.jobs/c/Trane-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Ochsner Health",
+        "id": "8661cfba-ada6-4b97-b2c5-86004531cae4",
+        "title": "Monitor Tech Lead - Olgmc",
+        "active": true,
+        "date_updated": 1779412501,
+        "date_posted": 1779412207,
+        "url": "https://ochsner.wd1.myworkdayjobs.com/ochsner/job/Lafayette---Acadiana-Region---Louisiana/Monitor-Tech-Lead---OLGMC---full-time_REQ_00263793",
+        "locations": [
+            "Lafayette, LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Ochsner-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Axon",
+        "id": "4225efca-e688-4d91-a985-5714ee8bd2ec",
+        "title": "Artificial Intelligence Scientist 1",
+        "active": true,
+        "date_updated": 1779413689,
+        "date_posted": 1779412737,
+        "url": "https://job-boards.greenhouse.io/axon/jobs/7746492003",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Axon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ALTEN Technology",
+        "id": "f21ca72c-5c78-4a31-9cf0-c241c030506c",
+        "title": "Software Engineer - Logistics Systems",
+        "active": true,
+        "date_updated": 1779414009,
+        "date_posted": 1777933399,
+        "url": "https://job-boards.greenhouse.io/altentechnologyusa/jobs/5047443007",
+        "locations": [
+            "Mobile, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/ALTEN-Technology",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
