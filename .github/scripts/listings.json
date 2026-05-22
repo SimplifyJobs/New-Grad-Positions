@@ -1,46 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Warner Bros.",
-        "id": "9473651a-1bbf-47c0-8007-15c3b4b0d008",
-        "title": "Junior Software Engineer",
-        "active": false,
-        "date_updated": 1758683467,
-        "date_posted": 1758683467,
-        "url": "https://warnerbros.wd5.myworkdayjobs.com/global/job/UT-Salt-Lake-City-175-East-400-South/Junior-Software-Engineer_R000098752-1",
-        "locations": [
-            "Salt Lake City, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/Warner-Bros",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Cox",
-        "id": "82a2775d-0300-415a-b3b3-b7115901f814",
-        "title": "Software Engineer 1 - Engineering / Product Development",
-        "active": false,
-        "date_updated": 1758683914,
-        "date_posted": 1758683914,
-        "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Carmel-IN/Software-Engineer-I_R202564459",
-        "locations": [
-            "Carmel, IN"
-        ],
-        "company_url": "https://simplify.jobs/c/Cox",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "IXL Learning",
         "id": "7e59f39b-87af-49fa-9170-40895f2548a1",
