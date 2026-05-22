@@ -1,25 +1,5 @@
 [
     {
-        "date_updated": 1760944113,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [],
-        "url": "https://www.pinterestcareers.com/jobs/7211012/software-engineer-university-grad/?gh_jid=7211012",
-        "company_name": "Pinterest",
-        "title": "Software Engineer University Grad",
-        "locations": [
-            "San Francisco",
-            "Palo Alto",
-            "Seattle"
-        ],
-        "category": "Software Engineering",
-        "source": "GAchuzia",
-        "id": "950c76d4-44a9-4b51-bcc5-61c8cc18f172",
-        "date_posted": 1758738003,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "source": "Simplify",
         "category": "Hardware",
         "company_name": "Ciena",
@@ -47015,24 +46995,6 @@
             "Milton Keynes, UK"
         ],
         "company_url": "https://simplify.jobs/c/Unisys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "28d69913-3945-49e5-9f15-0f8836def01c",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1758737825,
-        "date_posted": 1758737825,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/jobs/job/400021834",
-        "locations": [
-            "Maidenhead, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -223652,7 +223614,7 @@
         "company_name": "Pima County",
         "id": "a254df12-4f97-40fb-8f6e-97d88e1f1a4e",
         "title": "Data Analyst 1 - Justice Services",
-        "active": true,
+        "active": false,
         "date_updated": 1773385457,
         "date_posted": 1773385457,
         "url": "https://pimacounty.wd5.myworkdayjobs.com/pimacareers/job/Tucson-AZ/Data-Analyst-I---Justice-Services_JR103037",
@@ -283066,7 +283028,7 @@
         "company_name": "University of Rochester",
         "id": "9ab6ed5f-ed9e-47b2-996f-30794a33906c",
         "title": "Research Data Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1776523953,
         "date_posted": 1776522451,
         "url": "https://rochester.wd5.myworkdayjobs.com/UR_Staff/job/School-of-Medicine-and-Dentistry/Research-Data-Engineer-I_R266252",
@@ -300793,7 +300755,7 @@
         "company_name": "PNC Financial Services",
         "id": "8c778653-d9cc-4d35-b54e-8d9dd45de381",
         "title": "Software Engineer Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1777933749,
         "date_posted": 1777932616,
         "url": "https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Software-Engineer-Associate_R221596",
