@@ -1,23 +1,5 @@
 [
     {
-        "date_updated": 1758836302,
-        "sponsorship": "Other",
-        "active": true,
-        "degrees": [],
-        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210666344",
-        "company_name": "JPMorganChase",
-        "title": "Quantitative Research - Data Analytics - Associate",
-        "locations": [
-            "New York, NY"
-        ],
-        "category": "Quantitative Finance",
-        "source": "AlmondCroffle",
-        "id": "bf81a833-6a92-44bf-af80-3ed9de1e3521",
-        "date_posted": 1758691834,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
         "date_updated": 1758691926,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
@@ -311314,7 +311296,7 @@
         "company_name": "Sun Life",
         "id": "f58dcb13-a6f2-4858-8830-48ad678c1e3a",
         "title": "Associate Software Engineer - Mainframe",
-        "active": true,
+        "active": false,
         "date_updated": 1778709962,
         "date_posted": 1778709948,
         "url": "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Waterloo-Ontario/Associate-Software-Engineer---Mainframe_JR00123927",
@@ -315798,7 +315780,7 @@
         "company_name": "Daimler Truck",
         "id": "f6707cc5-0ae8-4c31-b960-ff43a9de98a8",
         "title": "Applied AI Engineer - Manufacturing Systems",
-        "active": true,
+        "active": false,
         "date_updated": 1778883121,
         "date_posted": 1778883038,
         "url": "https://dtna.wd5.myworkdayjobs.com/dtna_affiliate/job/Cleveland-NC-US/Software-Engineer---AI---Industrial-Applications_DT-17749-1",
@@ -322461,6 +322443,27 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "a25655df-6e19-4c64-8b24-e85f531e94db",
+        "title": "Graduate Machine Learning Scientist - Global E-commerce Content Recommendation",
+        "active": true,
+        "date_updated": 1776417190,
+        "date_posted": 1776416990,
+        "url": "https://lifeattiktok.com/search/7553175919394638087",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
