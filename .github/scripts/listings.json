@@ -1,26 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "CACI",
-        "id": "4b9c702f-06fa-4fa4-97a0-4aab1951ffbc",
-        "title": "Entry Level Digital Signal Processing Software Engineer - Mastodon Design Team",
-        "active": false,
-        "date_updated": 1758697147,
-        "date_posted": 1758697147,
-        "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-NY-Rochester/Entry-Level-DSP-Software-Engineer_317777",
-        "locations": [
-            "Rochester, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/CACI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "IXL Learning",
         "id": "aad18883-77ff-4b1e-9af2-1688cd8d74ec",
@@ -259519,7 +259499,7 @@
         "company_name": "Crane Co.",
         "id": "b84bbe27-565f-4f92-a573-504f8b23cc07",
         "title": "Component Engineer 1-3",
-        "active": true,
+        "active": false,
         "date_updated": 1775295759,
         "date_posted": 1775294488,
         "url": "https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Lynnwood-Washington/Component-Engineer-III_JR100555",
@@ -317115,7 +317095,7 @@
         "company_name": "Texas A&M University - College Station",
         "id": "cdf8178e-b459-481f-ba44-abc42b8a0894",
         "title": "Research Program Aide",
-        "active": true,
+        "active": false,
         "date_updated": 1779113161,
         "date_posted": 1779113061,
         "url": "https://tamus.wd1.myworkdayjobs.com/TAMU_External/job/College-Station-TX/Research-Program-Aide_R-093298-1",
