@@ -1,26 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Fifth Third Bank",
-        "id": "7c064910-805a-4037-876c-13452565138c",
-        "title": "Data Engineer 1",
-        "active": false,
-        "date_updated": 1758674824,
-        "date_posted": 1758674824,
-        "url": "https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Data-Engineer-1_R62252",
-        "locations": [
-            "Cincinnati, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Fifth-Third-Bank",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Citigroup",
         "id": "2dd479a3-c56a-41c4-be00-e2cc0c4bab4f",
@@ -159855,7 +159835,7 @@
         "company_name": "Xaira Therapeutics",
         "id": "e87192aa-2604-4e3c-986f-6612866cc13d",
         "title": "AI Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1770248374,
         "date_posted": 1770248374,
         "url": "https://job-boards.greenhouse.io/xairatherapeutics/jobs/5043264007",
