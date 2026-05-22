@@ -280074,7 +280074,7 @@
         "company_name": "GE Healthcare",
         "id": "d28b20da-afe2-4e20-803b-1caf268ca930",
         "title": "Field Service Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1776420083,
         "date_posted": 1776290827,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1_R4039151-1",
@@ -322445,6 +322445,44 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Skild AI",
+        "id": "202a8139-7039-4922-95f6-5f6bc8a1b560",
+        "title": "Manufacturing Software Engineer - Manufacturing Test Systems",
+        "active": true,
+        "date_updated": 1779430828,
+        "date_posted": 1779430560,
+        "url": "https://job-boards.greenhouse.io/skildai-careers/jobs/5228757008",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Skild-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Cigna Group",
+        "id": "701996b6-4cb3-4e19-a315-82ab100a66a9",
+        "title": "Fixed Income Trading Assistant",
+        "active": true,
+        "date_updated": 1779430321,
+        "date_posted": 1779430164,
+        "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bloomfield-CT/Fixed-Income-Trading-Assistant---Cigna-Investment-Management---Hybrid_26006416",
+        "locations": [
+            "Hartford, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/Cigna-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
