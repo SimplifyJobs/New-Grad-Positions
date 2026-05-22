@@ -1,25 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "IXL Learning",
-        "id": "7e59f39b-87af-49fa-9170-40895f2548a1",
-        "title": "Associate Product Manager \u2013 New Grad - Product Management",
-        "active": false,
-        "date_updated": 1758685716,
-        "date_posted": 1758685716,
-        "url": "https://www.ixl.com/company/jobs?gh_jid=8182864002",
-        "locations": [
-            "San Mateo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/IXL-Learning",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "date_updated": 1758836302,
         "sponsorship": "Other",
         "active": true,
