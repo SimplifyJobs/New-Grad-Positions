@@ -216723,7 +216723,7 @@
         "company_name": "Interstates",
         "id": "80f2c21c-3fee-4af0-945f-9afdcdc272ae",
         "title": "Manufacturing Production Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1773124233,
         "date_posted": 1773124233,
         "url": "https://www.interstates.com/careers/jobs?gh_jid=4178960009&gh_jid=4178960009",
@@ -298628,7 +298628,7 @@
         "company_name": "Fractional AI",
         "id": "d0d8b925-c9ea-4502-8d29-860e9162c0ec",
         "title": "Forward Deployed Product Manager Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1777628434,
         "date_posted": 1777414112,
         "url": "https://jobs.ashbyhq.com/fractional-ai/ccd11e11-7167-4e58-833b-1a7c64652c47/application",
@@ -301535,7 +301535,7 @@
         "company_name": "AeroVironment",
         "id": "ca201bf7-84fa-4e4b-9fd4-030f87a6b3a1",
         "title": "Machine Learning Engineer 2",
-        "active": true,
+        "active": false,
         "date_updated": 1777974878,
         "date_posted": 1777712667,
         "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Centreville-VA/Machine-Learning-Engineer_7437",
@@ -314189,7 +314189,7 @@
         "company_name": "Lawrence Livermore National Laboratory (LLNL)",
         "id": "816bde98-cf98-4af6-bc08-f0266ea6f403",
         "title": "Atmospheric Science - Postdoctoral Researcher",
-        "active": true,
+        "active": false,
         "date_updated": 1778796704,
         "date_posted": 1778796320,
         "url": "https://jobs.smartrecruiters.com/LLNL/3743990013141896",
@@ -317599,7 +317599,7 @@
         "company_name": "Princeton University",
         "id": "b6c1836e-1b0b-4827-9fac-f3a6f01ed8ff",
         "title": "Research Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1779141990,
         "date_posted": 1779141779,
         "url": "https://main-princeton.icims.com/jobs/21811/job?mobile=true&needsRedirect=false",
@@ -317695,7 +317695,7 @@
         "company_name": "Newmont",
         "id": "b9f5069f-ea36-49b8-86bf-041388f7cf32",
         "title": "Project Geologist",
-        "active": true,
+        "active": false,
         "date_updated": 1779143778,
         "date_posted": 1779142061,
         "url": "https://jobs.newmont.com/us/en/job/42785",
@@ -322423,6 +322423,26 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pennsylvania State University",
+        "id": "320f72e6-8a9a-4738-95c6-ef64f3b1e8d3",
+        "title": "Postdoctoral Scholar Sengupta Group",
+        "active": true,
+        "date_updated": 1779438904,
+        "date_posted": 1778947282,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Scholar-Sengupta-Group_REQ_0000062624-1",
+        "locations": [
+            "State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
         ]
     }
 ]
