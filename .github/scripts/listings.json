@@ -276305,7 +276305,7 @@
         "company_name": "Fidelity Investments",
         "id": "b196049e-e3e1-4323-8e89-c04c64c561fd",
         "title": "Undergraduate",
-        "active": true,
+        "active": false,
         "date_updated": 1776294652,
         "date_posted": 1776290897,
         "url": "https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/One-Destiny-Way-Westlake-TX/XMLNAME-2026-Undergraduate---LEAP--Software-Engineer--Westlake-TX_2127797-1",
@@ -281745,7 +281745,7 @@
         "company_name": "Medtronic",
         "id": "808b5c05-4145-4fbc-a1a4-317a05f174e3",
         "title": "Software Engineer 2",
-        "active": true,
+        "active": false,
         "date_updated": 1776505276,
         "date_posted": 1776505135,
         "url": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Jacksonville-Florida-United-States-of-America/Software-Engineer-II_R62263-2",
@@ -294129,7 +294129,7 @@
         "company_name": "Amentum",
         "id": "d5d13d37-bdf3-4439-a4fd-7c688e49e307",
         "title": "Entry Level Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1777338542,
         "date_posted": 1777338400,
         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0160036",
@@ -304799,7 +304799,7 @@
         "company_name": "Robinhood",
         "id": "40dbaece-74e6-4442-b9b1-318fa726fe72",
         "title": "Salesforce Applications Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1778105521,
         "date_posted": 1778105442,
         "url": "https://boards.greenhouse.io/robinhood/jobs/7896256",
@@ -310767,7 +310767,7 @@
         "company_name": "General Dynamics Information Technology",
         "id": "d6e9f6c2-10cf-4956-b31a-691751389066",
         "title": "Modeling & Simulation Specialist Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1778707801,
         "date_posted": 1778320373,
         "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-IN-Crane/Modeling---Simulation-Specialist-Associate_RQ219118-1",
@@ -322483,5 +322483,83 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "G-Research",
+        "id": "ec6ecdb8-38f8-4e69-82e7-30a106a2c858",
+        "title": "Quantitative Analyst",
+        "active": true,
+        "date_updated": 1779458941,
+        "date_posted": 1779458799,
+        "url": "https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Quantitative-Analyst_R3605",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/G-Research",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Genworth Financial",
+        "id": "ba0be469-bec0-418d-a90d-30aca0169d59",
+        "title": "AI Engineer",
+        "active": true,
+        "date_updated": 1779459121,
+        "date_posted": 1779458950,
+        "url": "https://gnw.wd1.myworkdayjobs.com/GNW/job/Lynchburg-Virginia/AI-Engineer_REQ-260203",
+        "locations": [
+            "Lynchburg, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Genworth-Financial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Royal Bank of Canada",
+        "id": "f2bdab63-7eac-4c83-bd8d-65b98c7c03b9",
+        "title": "Data Analyst - Pricing and Reference Data - Bluebay Asset Management",
+        "active": true,
+        "date_updated": 1779459302,
+        "date_posted": 1779459211,
+        "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/London-United-Kingdom-of-Great-Britain-and-Northern-Ireland/Data-Analyst---Pricing-and-Reference-Data--BlueBay-Asset-Management---London-_R-0000170679-1",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Centific",
+        "id": "0dc5b211-07d1-4ec8-b634-a119b4bf5081",
+        "title": "Software Debugging",
+        "active": true,
+        "date_updated": 1779458943,
+        "date_posted": 1779458680,
+        "url": "https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Redmond-Washington/Software--Debugging--Engineer_JR107346",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Centific",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
