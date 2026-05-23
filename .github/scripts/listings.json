@@ -1,23 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Other",
-        "company_name": "RTX",
-        "id": "2568e71a-ea47-49df-897a-83e4e99d16f4",
-        "title": "Systems Security Engineer 1 - Systems Security Engineering",
-        "active": false,
-        "date_updated": 1761830470,
-        "date_posted": 1758804935,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA131-Tewksbury-MA-Bldg--1-Assabet-50-Apple-Hill-Drive-Assabet---Building-1-Tewksbury-MA-01876-USA/XMLNAME-2026-Raytheon-Systems-Security-Engineer-I---Onsite---Massachusetts_01790370",
-        "locations": [
-            "Tewksbury, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
         "date_updated": 1760049852,
         "sponsorship": "Other",
         "active": true,
@@ -321161,7 +321143,7 @@
         "company_name": "DXC Technology",
         "id": "c3d9ae7e-4c7a-4a04-915a-2e597eed9b77",
         "title": "Analyst 1 Software Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1779403170,
         "date_posted": 1779401351,
         "url": "https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/USA---TX---FORT-WORTH/Analyst-I-Software-Engineering---CC_51580424",
