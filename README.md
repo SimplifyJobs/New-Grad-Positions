@@ -1295,7 +1295,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (1240)</summary>
+<summary>🗃️ Inactive roles (1239)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -9980,13 +9980,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Chicago, IL</td>
 <td>🔒</td>
 <td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Notion?utm_source=GHList&utm_medium=company">🔥 Notion</a></strong></td>
-<td>Software Engineer, Fullstack</td>
-<td>San Francisco, CA</br>New York, NY</td>
-<td>🔒</td>
-<td>8mo</td>
 </tr>
 </tbody>
 </table>
