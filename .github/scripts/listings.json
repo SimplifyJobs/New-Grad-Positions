@@ -46699,26 +46699,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "OpenAI",
-        "id": "ccf9caba-b203-422a-b700-8d3d9f15d48d",
-        "title": "Software Engineer - Android",
-        "active": false,
-        "date_updated": 1762436838,
-        "date_posted": 1758758267,
-        "url": "https://jobs.ashbyhq.com/openai/b83a4808-66ef-4014-b4eb-a7833c39f4c6/application",
-        "locations": [
-            "Seattle, WA",
-            "SF",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/OpenAI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "L3Harris Technologies",
         "id": "2b31ae82-5738-47dd-8cb8-bd915bb10bed",
         "title": "Associate \u2013 Tech Support Engineering",
@@ -46730,24 +46710,6 @@
             "Nashville, TN"
         ],
         "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Per Scholas",
-        "id": "12880841-8b34-49c8-a28f-3f5fc432e4c3",
-        "title": "IT Support Instructional Assistant",
-        "active": false,
-        "date_updated": 1759342595,
-        "date_posted": 1758757188,
-        "url": "https://job-boards.greenhouse.io/perscholashires/jobs/4603250006",
-        "locations": [
-            "Orlando, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Per-Scholas",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -267636,7 +267598,7 @@
         "company_name": "Trimble",
         "id": "37964cf6-c5ef-4f70-bd77-a46c32237637",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1775775071,
         "date_posted": 1775772601,
         "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Software-Engineer_R53964",
@@ -323126,6 +323088,26 @@
             "Wheeling, IL"
         ],
         "company_url": "https://simplify.jobs/c/LG-Electronics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "mthree",
+        "id": "de2aa833-1aeb-4eec-b942-b25dd9ec163a",
+        "title": "Junior Software Developer - Go Lang",
+        "active": true,
+        "date_updated": 1762816874,
+        "date_posted": 1762533054,
+        "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4604065006",
+        "locations": [
+            "United Kingdom"
+        ],
+        "company_url": "https://simplify.jobs/c/Mthree",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
