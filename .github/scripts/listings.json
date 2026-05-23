@@ -1,24 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "RTX",
-        "id": "62507386-0c71-4d73-93df-88bea3307b27",
-        "title": "Software Engineer 1 - Air & Missile Defense Software Department",
-        "active": false,
-        "date_updated": 1761831944,
-        "date_posted": 1758763930,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA133-Tewksbury-Ma-Bldg-3-Concord-50-Apple-Hill-Drive-Concord---Building-3-Tewksbury-MA-01876-USA/XMLNAME-2026-Fulltime---Raytheon-Software-Engineer-I--On-site-_01796017",
-        "locations": [
-            "Tewksbury, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Meshy",
         "id": "ca943fdd-edd4-4fe7-8ae1-33ed7976a2c3",
@@ -246207,7 +246189,7 @@
         "company_name": "Mercury Insurance",
         "id": "0ece4bf0-caa8-4452-b5e3-54d67a797fc6",
         "title": "Software Engineering Graduate Development Program",
-        "active": true,
+        "active": false,
         "date_updated": 1774731996,
         "date_posted": 1774660028,
         "url": "https://careers-mercuryinsurance.icims.com/jobs/5984/job?mobile=true&needsRedirect=false",
@@ -323105,6 +323087,27 @@
             "Associate's",
             "Bootcamp",
             "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "509f18a0-f3db-4632-8167-ec761b4e8e0e",
+        "title": "Systems Engineer 1 - Multiple Teams",
+        "active": true,
+        "date_updated": 1779498606,
+        "date_posted": 1779498472,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-PLANO-465--465-Independence-Pkwy--INDEPENDENCE/XMLNAME-2026-Fulltime--Systems-Engineer-I---Onsite-McKinney--Texas_01822465",
+        "locations": [
+            "McKinney, TX",
+            "Plano, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
