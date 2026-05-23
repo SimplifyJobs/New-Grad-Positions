@@ -2,48 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Adobe",
-        "id": "d1517900-3538-42df-a98c-a73fbc21f4d9",
-        "title": "University Graduate Software Engineer - Software Engineering",
-        "active": false,
-        "date_updated": 1758831790,
-        "date_posted": 1758831790,
-        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Software-Engineer_R158638",
-        "locations": [
-            "SF",
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Adobe",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Sierra Nevada Coporation",
-        "id": "0a75db21-80f7-4a24-9ae0-0b85ce2dcc1f",
-        "title": "Software Engineer 1 - Agile Software Development - Mission Solutions and Technologies",
-        "active": false,
-        "date_updated": 1758831367,
-        "date_posted": 1758831367,
-        "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Southern-Pines-NC/Software-Engineer-I_R0028548",
-        "locations": [
-            "Southern Pines, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Sierra-Nevada-Coporation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Visa",
         "id": "e274ce25-eeee-40fb-8cb8-8365a8f21afa",
         "title": "Junior Software Engineer - Java Engineering",
@@ -46168,24 +46126,6 @@
             "Nottingham, UK"
         ],
         "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "SpaceX",
-        "id": "43dc6903-f0c9-4192-a4dd-06a7a01de1d9",
-        "title": "Software Engineer - Starshield",
-        "active": false,
-        "date_updated": 1761874006,
-        "date_posted": 1758832006,
-        "url": "https://boards.greenhouse.io/spacex/jobs/8184586002",
-        "locations": [
-            "West Athens, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/SpaceX",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
