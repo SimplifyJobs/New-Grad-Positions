@@ -321183,7 +321183,7 @@
         "company_name": "Pennsylvania State University",
         "id": "a9eea116-2b10-4760-bcf2-2eeabb51550d",
         "title": "Postdoctoral Scholar",
-        "active": true,
+        "active": false,
         "date_updated": 1779402961,
         "date_posted": 1779401373,
         "url": "https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Scholar_REQ_0000078153-1",
@@ -323033,6 +323033,26 @@
             "New Orleans, LA"
         ],
         "company_url": "https://simplify.jobs/c/Entergy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "AeroVironment",
+        "id": "bea449ab-0801-45b4-bc1b-298f2b83e82b",
+        "title": "Product Engineer - Ngcm",
+        "active": true,
+        "date_updated": 1779529321,
+        "date_posted": 1779528288,
+        "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/410-Jan-Davis-Drive-NorthWest-Huntsville-AL/Product-Engineer---NGCM_7761",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/AeroVironment",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
