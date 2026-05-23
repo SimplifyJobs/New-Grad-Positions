@@ -1,24 +1,5 @@
 [
     {
-        "date_updated": 1758798064,
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "degrees": [],
-        "url": "https://jobs.ashbyhq.com/notion/f7399542-9122-481a-bf64-43bf8093748b",
-        "company_name": "Notion",
-        "title": "Software Engineer, Fullstack",
-        "locations": [
-            "San Francisco, CA",
-            "New York, NY"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "19ed9c9b-c543-46f0-a647-6c4abff59d05",
-        "date_posted": 1758798064,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "source": "Simplify",
         "category": "Other",
         "company_name": "RTX",
@@ -259614,7 +259595,7 @@
         "company_name": "University of Chicago",
         "id": "90110353-4521-469d-bb52-46bbd73e5595",
         "title": "Research Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1775295721,
         "date_posted": 1775294610,
         "url": "https://uchicago.wd5.myworkdayjobs.com/External/job/Hyde-Park-Campus/Research-Analyst_JR32735",
@@ -282978,7 +282959,7 @@
         "company_name": "BlueScope",
         "id": "a5f67b89-39f4-44cd-835a-c44bdd136626",
         "title": "Operational Technology Analyst 2",
-        "active": false,
+        "active": true,
         "date_updated": 1776524926,
         "date_posted": 1776523149,
         "url": "https://bluescopenac.wd5.myworkdayjobs.com/en-US/BNACareers/job/MO-Kansas-City/Operational-Technology-Analyst-II_REQ-2153",
@@ -308077,7 +308058,7 @@
         "company_name": "The Boeing Company",
         "id": "5002920a-234a-43d8-8ccd-78a64512a052",
         "title": "Certification System Product Owner Mid-Level",
-        "active": true,
+        "active": false,
         "date_updated": 1778289106,
         "date_posted": 1778288935,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Certification-System-Product-Owner--Associate--Mid-Level--or-Senior-_JR2026508945-1",
@@ -313699,7 +313680,7 @@
         "company_name": "The Composites Solution Partner (CSP)",
         "id": "dcb33eea-82f7-4734-8416-7e0950b68281",
         "title": "Business Intelligence Data Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1778796413,
         "date_posted": 1778796106,
         "url": "https://thecsp.wd5.myworkdayjobs.com/CSP/job/Auburn-Hills/BI-Data-Engineer_JR101200-1",
@@ -319983,7 +319964,7 @@
         "company_name": "Nasdaq",
         "id": "538b0d2c-fe88-472e-a87f-a155771e3ad3",
         "title": "Graduate Data Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1779315516,
         "date_posted": 1779314751,
         "url": "https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/USA---Boston---Massachusetts/Data-Scientist---Graduate_R0026144",
@@ -323036,6 +323017,26 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Entergy",
+        "id": "1f4a504e-6ef5-48a8-a95e-6d9ab6c66d3b",
+        "title": "Utility Engineer",
+        "active": true,
+        "date_updated": 1779524461,
+        "date_posted": 1779458832,
+        "url": "https://jobs.entergy.com/job/New-Orleans-Utility-Engineer-Loui/1339028300/?ats=successfactors",
+        "locations": [
+            "New Orleans, LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Entergy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
