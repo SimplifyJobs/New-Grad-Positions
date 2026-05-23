@@ -1,27 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Comcast",
-        "id": "891744d8-4b45-494b-bdad-be4ba6bfc4c5",
-        "title": "Software Engineer 1 - Multiple Teams",
-        "active": false,
-        "date_updated": 1758758478,
-        "date_posted": 1758758478,
-        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/IL---Chicago-33-W-Monroe-St-Suite-1900/Software-Engineer-1---Chicago--IL-OR-Reston--VA_R420695",
-        "locations": [
-            "Chicago, IL",
-            "Reston, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Comcast",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "RTX",
         "id": "62507386-0c71-4d73-93df-88bea3307b27",
@@ -247808,7 +247787,7 @@
         "company_name": "Mercury Insurance",
         "id": "7afaf469-7787-4bcd-8483-ad0fafad358b",
         "title": "Mercury Ignite AI and Automation Graduate Development Program - Data",
-        "active": true,
+        "active": false,
         "date_updated": 1774842943,
         "date_posted": 1774660023,
         "url": "https://careers-mercuryinsurance.icims.com/jobs/5986/job?mobile=true&needsRedirect=false",
