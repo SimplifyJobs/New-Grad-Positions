@@ -1,26 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Meshy",
-        "id": "ca943fdd-edd4-4fe7-8ae1-33ed7976a2c3",
-        "title": "Software Engineer \u2013 New Grad",
-        "active": false,
-        "date_updated": 1758778957,
-        "date_posted": 1758778957,
-        "url": "https://job-boards.greenhouse.io/meshy/jobs/4932258008",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Meshy",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Trend Health Partners",
         "id": "01a759d0-0c25-4488-8649-c6b19c7ad741",
@@ -46563,24 +46543,6 @@
             "Austin, TX"
         ],
         "company_url": "https://simplify.jobs/c/Miro",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Keysight Technologies",
-        "id": "8282983b-dca4-4a6c-a8f7-d1acb8e4bc5d",
-        "title": "Manufacturing Technician Coordinator",
-        "active": false,
-        "date_updated": 1762938798,
-        "date_posted": 1758779124,
-        "url": "https://jobs.keysight.com/jobs/49326?lang=en-us&icims=1",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Keysight-Technologies-Inc",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -298015,7 +297977,7 @@
         "company_name": "Expedia Group",
         "id": "36203047-d486-4a93-98b0-89068df2d3e2",
         "title": "Data Scientist 1 - Analytics",
-        "active": true,
+        "active": false,
         "date_updated": 1777626788,
         "date_posted": 1777626650,
         "url": "https://expedia.wd108.myworkdayjobs.com/private/job/UK---London/Data-Scientist-I--Analytics_R-105457",
@@ -300071,7 +300033,7 @@
         "company_name": "Slate Auto",
         "id": "2cd4cf86-b4d8-4725-8d17-905b798b765e",
         "title": "Software/Data Rotational Program",
-        "active": true,
+        "active": false,
         "date_updated": 1777933261,
         "date_posted": 1777932486,
         "url": "https://recar.wd108.myworkdayjobs.com/SLATEcareers/job/The-Center/Software-Data-Rotational-Program_JR100527",
@@ -315898,7 +315860,7 @@
         "company_name": "Expedia Group",
         "id": "41fd45ef-3a95-4f27-aaca-c58bbb12f457",
         "title": "Graduate Machine Learning Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1778922588,
         "date_posted": 1778922193,
         "url": "https://expedia.wd108.myworkdayjobs.com/private/job/Washington---Seattle-Campus/Machine-Learning-Science-Graduate---Masters---2026---San-Jose--Seattle_R-98586",
