@@ -46192,32 +46192,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Berkshire Hathaway Energy",
-        "id": "53e969c0-785a-4b1d-91dc-11f8856a4261",
-        "title": "Sys & Development Analyst 1/2/3/Sr",
-        "active": false,
-        "date_updated": 1761475402,
-        "date_posted": 1758830174,
-        "url": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10003650",
-        "locations": [
-            "Salt Lake City, UT",
-            "Las Vegas, NV",
-            "Des Moines, IA",
-            "Richmond, VA",
-            "Reno, NV",
-            "Omaha, NE",
-            "Sioux City, IA",
-            "Portland, OR",
-            "Davenport, IA"
-        ],
-        "company_url": "https://simplify.jobs/c/Berkshire-Hathaway-Energy",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Mohawk",
         "id": "27951589-9d4c-41f0-9bf0-414901cb9f4f",
@@ -46254,24 +46228,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Denso",
-        "id": "f3eb19c9-2f51-4db0-a69e-7bd03396abc1",
-        "title": "Data Scientist 1",
-        "active": false,
-        "date_updated": 1758830125,
-        "date_posted": 1758830125,
-        "url": "https://hcwt.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/22360",
-        "locations": [
-            "Southfield, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/Denso",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "University of Virginia",
         "id": "da630270-4a75-44b2-bfe2-84428884f7df",
@@ -46284,24 +46240,6 @@
             "Charlottesville, VA"
         ],
         "company_url": "https://simplify.jobs/c/University-Of-Virginia",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Texas A&M International University",
-        "id": "5853769c-b215-46e5-a3b2-d12e4db53463",
-        "title": "Graduate Research Assistant - Engineering NSF CAP",
-        "active": false,
-        "date_updated": 1758830013,
-        "date_posted": 1758830013,
-        "url": "https://tamus.wd1.myworkdayjobs.com/TAMIU_Student_Employment/job/Laredo-TX/Graduate-Research-Assistant--Engineering--NSF-CAP-_R-087560-1",
-        "locations": [
-            "Laredo, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Texas-AM-International-University",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
