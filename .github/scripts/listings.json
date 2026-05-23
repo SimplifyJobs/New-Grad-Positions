@@ -46642,42 +46642,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Daktronics",
-        "id": "a8ca5546-b54e-40a1-a258-467b557b3710",
-        "title": "Software Design Student",
-        "active": false,
-        "date_updated": 1763130266,
-        "date_posted": 1758762968,
-        "url": "https://careers-daktronics.icims.com/jobs/6930/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Brookings, SD"
-        ],
-        "company_url": "https://simplify.jobs/c/Daktronics",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "GCI",
-        "id": "84849867-018a-4b01-80d1-119d8d2b7986",
-        "title": "Desktop Technician 1",
-        "active": false,
-        "date_updated": 1762929536,
-        "date_posted": 1758762815,
-        "url": "https://edqv.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/21002687",
-        "locations": [
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/GCI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "L3Harris Technologies",
         "id": "2b31ae82-5738-47dd-8cb8-bd915bb10bed",
         "title": "Associate \u2013 Tech Support Engineering",
@@ -108170,24 +108134,6 @@
             "Cherryvale, KS"
         ],
         "company_url": "https://simplify.jobs/c/Cable-One",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "GCI",
-        "id": "41e02fcf-47ce-4f69-abdb-16914ddd9964",
-        "title": "Estimating & Planning Engineer 1 - Future Opening",
-        "active": false,
-        "date_updated": 1763121348,
-        "date_posted": 1758762820,
-        "url": "https://edqv.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/21002688",
-        "locations": [
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/GCI",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -261246,7 +261192,7 @@
         "company_name": "Applied Materials",
         "id": "3de7b979-f390-4a47-b7b4-ffeb3c3e6c97",
         "title": "Data Scientist - Agentic AI / ML",
-        "active": false,
+        "active": true,
         "date_updated": 1775516221,
         "date_posted": 1775513346,
         "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Data-Scientist---Agentic-AI---ML_R2616812",
@@ -292684,7 +292630,7 @@
         "company_name": "University of Chicago",
         "id": "95e5afae-4715-4385-8de7-da407d9dd3fa",
         "title": "Data Analyst 1",
-        "active": true,
+        "active": false,
         "date_updated": 1777298761,
         "date_posted": 1777298674,
         "url": "https://uchicago.wd5.myworkdayjobs.com/External/job/950-East-61st-Street/Data-Analyst-1_JR33437-1",
@@ -323091,6 +323037,74 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cisco",
+        "id": "ee2e3b13-7a61-4d16-9baf-ffad6bf6b7ad",
+        "title": "Software Engineer Backend/Platform 2",
+        "active": true,
+        "date_updated": 1779498808,
+        "date_posted": 1779498550,
+        "url": "https://careers.cisco.com/global/en/job/2011251",
+        "locations": [
+            "Research Triangle, Durham, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Cisco",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "Associate's",
+            "Bootcamp",
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Medtronic",
+        "id": "0c69b7be-72dd-4413-b442-975884d92dff",
+        "title": "Product Engineer 1 - AiBLE CST",
+        "active": true,
+        "date_updated": 1779498926,
+        "date_posted": 1779498505,
+        "url": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Lafayette-Colorado-United-States-of-America/Product-Engineer-I---AiBLE-CST---Remote-within-CO_R64518",
+        "locations": [
+            "Lafayette, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Medtronic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cisco",
+        "id": "349500bf-cf4c-4b00-8006-ee78b5b0ddbb",
+        "title": "Software Engineer Backend/Platform 2",
+        "active": true,
+        "date_updated": 1779498712,
+        "date_posted": 1779498389,
+        "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/Software-Engineer-Backend-Platform-II--Full-Time---United-States-ENG-CPO-WTG-ETR_2011251",
+        "locations": [
+            "Research Triangle, Durham, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Cisco",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "Associate's",
+            "Bootcamp",
+            "Certificate"
         ]
     }
 ]
