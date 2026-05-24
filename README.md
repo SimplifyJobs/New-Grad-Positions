@@ -9990,7 +9990,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (38)</summary>
+<summary>🗃️ Inactive roles (37)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -10259,13 +10259,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><strong><a href="https://simplify.jobs/c/VoyaFinancial?utm_source=GHList&utm_medium=company">Voya Financial</a></strong></td>
 <td>IM Entry Level Analyst Program: Distribution Enablement</td>
 <td>NYC</br>Atlanta, GA</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td><strong>Genies</strong></td>
-<td>Product Operations Associate – AI Avatars 🛂</td>
-<td>Los Angeles, CA</td>
 <td>🔒</td>
 <td>7mo</td>
 </tr>
