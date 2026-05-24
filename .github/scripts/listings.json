@@ -7606,24 +7606,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Sierra",
-        "id": "c2ffb3b2-22e0-41d7-8934-d7c650198ad4",
-        "title": "Software Engineer \u2013 New Grad - Agent",
-        "active": false,
-        "date_updated": 1758922368,
-        "date_posted": 1758922368,
-        "url": "https://jobs.ashbyhq.com/Sierra/ce2ae656-714c-4a6c-a020-fe418f868075/application",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Sierra",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Tempus",
         "id": "17309104-3873-41ef-9449-293407f9f6c1",
@@ -298917,7 +298899,7 @@
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "SOCOTEC Global",
-        "id": "c4ef73cb-4c47-4f54-a1e8-12a0e7aa3b9f",
+        "id": "23f03407-c56c-4d56-a091-ac0717e7ec6b",
         "title": "Applied AI Engineer",
         "active": true,
         "date_updated": 1777903921,
