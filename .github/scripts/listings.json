@@ -1,83 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Other",
-        "company_name": "Honeywell",
-        "id": "dc74fdfc-2bcb-4674-b746-cf16c638657e",
-        "title": "Cyber Security Engineer 1 - Multiple Teams",
-        "active": false,
-        "date_updated": 1758917815,
-        "date_posted": 1758917815,
-        "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs/job/116423",
-        "locations": [
-            "Phoenix, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Honeywell",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software Engineering",
-        "company_name": "Honeywell",
-        "id": "ceed0c46-ccd3-428d-9010-bd6e9fa2e40a",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1759115072,
-        "date_posted": 1758917853,
-        "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs/job/116510",
-        "locations": [
-            "Fort Mill, SC"
-        ],
-        "company_url": "https://simplify.jobs/c/Honeywell",
-        "is_visible": true,
-        "sponsorship": "U.S. Citizenship is Required",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Honeywell",
-        "id": "99165227-b6cf-49f7-a17c-dee1b2d38f26",
-        "title": "Flight Controls Hardware Engineer 1 - Flight Control Systems",
-        "active": false,
-        "date_updated": 1758917756,
-        "date_posted": 1758917756,
-        "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs/job/119199",
-        "locations": [
-            "Phoenix, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Honeywell",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software Engineering",
-        "company_name": "HoneyWell",
-        "id": "5148b5c6-7613-4b2f-ba5a-fc4be1aaa8ae",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1759115037,
-        "date_posted": 1758917678,
-        "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs/job/119931",
-        "locations": [
-            "Clearwater, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Honeywell",
-        "is_visible": true,
-        "sponsorship": "U.S. Citizenship is Required",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Esri",
         "id": "b0b7796d-2614-4865-9124-29f6822e6e1d",
@@ -45389,42 +45312,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Honeywell",
-        "id": "a23fdf0e-c567-4630-b3f5-a462d704b84b",
-        "title": "Information Systems \u2013 Recent Grad/Full Time - IT - Cyber Engineer & Data Science",
-        "active": true,
-        "date_updated": 1762919780,
-        "date_posted": 1758917886,
-        "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/113580",
-        "locations": [
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/Honeywell",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Honeywell",
-        "id": "9e7cd9bf-5d5d-4d6f-8ef8-5e8d1288dc77",
-        "title": "Systems Engineering",
-        "active": true,
-        "date_updated": 1762916452,
-        "date_posted": 1758917889,
-        "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/113416",
-        "locations": [
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/Honeywell",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Honeywell",
         "id": "79848b28-4d6f-4d6d-9366-a7808ce4707b",
@@ -45442,46 +45329,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Honeywell",
-        "id": "53f96be7-6abf-408f-8ded-cd0e89672e9f",
-        "title": "Embedded Engineer",
-        "active": true,
-        "date_updated": 1762918101,
-        "date_posted": 1758917883,
-        "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/113458",
-        "locations": [
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/Honeywell",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Rambus",
-        "id": "f5734e77-c330-4ef1-8c85-75ed43627876",
-        "title": "Verification Engineer - New College Grad",
-        "active": false,
-        "date_updated": 1763050302,
-        "date_posted": 1758917435,
-        "url": "https://careers-rambus.icims.com/jobs/22368/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Carrboro, NC",
-            "San Jose, CA",
-            "Westlake Village, CA",
-            "Hillsboro, OR",
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Rambus",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -51247,24 +51094,6 @@
             "Westlake Village, CA",
             "Hillsboro, OR",
             "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Rambus",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Rambus",
-        "id": "0cfe7c26-d415-4540-bf34-ef209a6d8bd9",
-        "title": "AMTS Verification Engineering",
-        "active": false,
-        "date_updated": 1763161803,
-        "date_posted": 1758917445,
-        "url": "https://careers-rambus.icims.com/jobs/22322/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Montreal, QC, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Rambus",
         "is_visible": true,
