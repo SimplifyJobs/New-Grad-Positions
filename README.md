@@ -336,7 +336,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Security Engineer (Entry-Level) 🇺🇸</td>
 <td>Beaverton, OR</br>Solon, OH</td>
 <td><a href="https://ralliant.eightfold.ai/careers/job/1133912499916?domain=ralliant.com&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td>10d</td>
+<td>11d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Cerebras-Systems?utm_source=GHList&utm_medium=company">Cerebras</a></strong></td>
@@ -8754,7 +8754,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Entry Level C# Software Engineer</td>
 <td>Chicago, IL</td>
 <td>🔒</td>
-<td>6mo</td>
+<td>7mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Promise?utm_source=GHList&utm_medium=company">Promise</a></strong></td>
@@ -10616,7 +10616,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (266)</summary>
+<summary>🗃️ Inactive roles (265)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -12481,13 +12481,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><strong><a href="https://simplify.jobs/c/RELX?utm_source=GHList&utm_medium=company">RELX</a></strong></td>
 <td>Data Engineer 1 - Insurance Industry</td>
 <td>Alpharetta, GA</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Applied-Materials?utm_source=GHList&utm_medium=company">Applied Materials</a></strong></td>
-<td>Data Scientist New College Grad - Multiple Teams</td>
-<td>Santa Clara, CA</td>
 <td>🔒</td>
 <td>7mo</td>
 </tr>
