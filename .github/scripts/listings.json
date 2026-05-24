@@ -8075,24 +8075,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Electronic Arts",
-        "id": "1211d1bc-be36-4737-aaea-5c2ee25fb78a",
-        "title": "Software Engineer 1 Gameplay Services",
-        "active": false,
-        "date_updated": 1761935534,
-        "date_posted": 1758856519,
-        "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-I-Gameplay-Services/210946",
-        "locations": [
-            "Vancouver, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Electronic-Arts",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Tempus",
         "id": "17309104-3873-41ef-9449-293407f9f6c1",
@@ -270930,7 +270912,7 @@
         "company_name": "Hyundai Motor Company",
         "id": "ef8631ab-b59b-4a90-9ce3-c3d823049ddd",
         "title": "OTA Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1776080169,
         "date_posted": 1776070901,
         "url": "https://careers-americas.hyundai.com/hatci/job/Superior-Charter-Township-OTA-Software-Engineer-MI-48198/1367623900/?ats=successfactors",
