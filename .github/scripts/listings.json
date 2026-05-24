@@ -45878,24 +45878,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "ce51faac-fb30-4edf-bc48-f259e7722688",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1758882197,
-        "date_posted": 1758882197,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/jobs/job/400022693",
-        "locations": [
-            "Nottingham, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Mohawk",
         "id": "27951589-9d4c-41f0-9bf0-414901cb9f4f",
