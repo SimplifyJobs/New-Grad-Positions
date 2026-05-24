@@ -1,25 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Visa",
-        "id": "e274ce25-eeee-40fb-8cb8-8365a8f21afa",
-        "title": "Junior Software Engineer - Java Engineering",
-        "active": false,
-        "date_updated": 1758864132,
-        "date_posted": 1758864132,
-        "url": "https://jobs.smartrecruiters.com/Visa/744000083897595",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Visa",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "date_updated": 1760049835,
         "sponsorship": "U.S. Citizenship is Required",
         "active": true,
@@ -322283,7 +322263,7 @@
         "company_name": "Manulife Financial",
         "id": "06f24a9a-89fc-4a4f-b02d-a27c17a4850e",
         "title": "Investment Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1779487561,
         "date_posted": 1779487509,
         "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Toronto-Ontario/Investment-Analyst_JR25101412",
