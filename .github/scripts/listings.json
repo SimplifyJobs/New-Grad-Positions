@@ -1,44 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "RTX",
-        "id": "30e1689b-a597-4661-a040-f1c4dcd2780e",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1761832099,
-        "date_posted": 1758887825,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HIA32-Cedar-Rapids-IA-400-Collins-Rd-NE---Cedar-Rapids-IA-52498-0505-USA/Software-Engineer-I--Onsite-_01796448",
-        "locations": [
-            "Cedar Rapids, IA"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Pinterest",
-        "id": "ce347210-20fa-4d89-8d05-49da3d06ab0c",
-        "title": "Software Engineer University Grad",
-        "active": false,
-        "date_updated": 1759329675,
-        "date_posted": 1758887132,
-        "url": "https://www.pinterestcareers.com/job-form?gh_jid=7211012",
-        "locations": [
-            "Palo Alto, CA",
-            "Seattle, WA",
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Pinterest",
-        "is_visible": true,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Applied Materials",
         "id": "d592e898-680a-4be8-99f5-718021b9ebe4",
