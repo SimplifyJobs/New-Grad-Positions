@@ -1,24 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Parafin",
-        "id": "252c9ea7-ac6c-4a87-923b-861477e510c1",
-        "title": "Software Engineer \u2013 New Grad",
-        "active": false,
-        "date_updated": 1761845546,
-        "date_posted": 1758910882,
-        "url": "https://jobs.ashbyhq.com/parafin/ced48a0b-f5ed-491a-ae38-2301fb881bd9/application",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Parafin",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "RELX",
         "id": "2a719855-a2c9-4ae1-b551-fafd01505cd6",
@@ -45579,24 +45561,6 @@
             "Palm Bay, FL"
         ],
         "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Electronic Arts",
-        "id": "c8564698-7223-4471-bb35-24e6047a4826",
-        "title": "Prototype Team Engineer 6 Month Term",
-        "active": false,
-        "date_updated": 1761853760,
-        "date_posted": 1758911175,
-        "url": "https://jobs.ea.com/en_US/careers/JobDetail/Prototype-Team-Engineer-6-Month-Term/211154",
-        "locations": [
-            "Minnesota"
-        ],
-        "company_url": "https://simplify.jobs/c/Electronic-Arts",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
