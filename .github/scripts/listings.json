@@ -45240,24 +45240,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Milwaukee Tool",
-        "id": "6e5bfe40-71a4-4c53-89fc-ea0baabe5689",
-        "title": "Repair Tech 2",
-        "active": false,
-        "date_updated": 1761864779,
-        "date_posted": 1758925467,
-        "url": "https://tti.wd1.myworkdayjobs.com/en-US/Milwaukee/job/Greenwood-IN/Repair-Tech-2_R66704",
-        "locations": [
-            "Greenwood, IN"
-        ],
-        "company_url": "https://simplify.jobs/c/Milwaukee-Tool",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Red Ventures",
         "id": "616767b4-62ce-4140-93d3-d09b3837a73e",
