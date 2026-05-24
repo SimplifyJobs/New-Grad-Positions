@@ -45640,44 +45640,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Honeywell",
-        "id": "b8831359-0b2d-4563-9132-33be3adcf067",
-        "title": "Information Systems - IT - Cyber Engineer & Data Science",
-        "active": true,
-        "date_updated": 1762908972,
-        "date_posted": 1758905353,
-        "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/113582",
-        "locations": [
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/Honeywell",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Analog Devices",
-        "id": "9e2e84e4-e8ea-4482-afd1-c71e3c6f4e2b",
-        "title": "Test Development Engineer",
-        "active": false,
-        "date_updated": 1758904277,
-        "date_posted": 1758904277,
-        "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-NC-Durham/Test-Development-Engineer_R256376",
-        "locations": [
-            "Durham, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Analog-Devices",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Albers Aerospace",
         "id": "6660b1f2-83c1-4348-8abd-d566557dfa27",
         "title": "Assistant Data Engineer Technician",
