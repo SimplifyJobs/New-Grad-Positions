@@ -7839,24 +7839,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Sierra",
-        "id": "6b15ca10-3cd5-4765-9e64-4234045a3ebd",
-        "title": "Software Engineer \u2013 New Grad - Agent",
-        "active": false,
-        "date_updated": 1758883246,
-        "date_posted": 1758883246,
-        "url": "https://jobs.ashbyhq.com/Sierra/0ff928f7-cca0-4d2b-ae64-c07277ff5252/application",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sierra",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Tempus",
         "id": "17309104-3873-41ef-9449-293407f9f6c1",
