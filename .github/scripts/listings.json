@@ -213071,7 +213071,7 @@
         "company_name": "Q2",
         "id": "117cb134-3872-4839-a355-693418ab555c",
         "title": "Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1772839739,
         "date_posted": 1772839739,
         "url": "https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-TX/Software-Engineer_REQ-12237",
@@ -322875,6 +322875,27 @@
             "United States"
         ],
         "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Captivation",
+        "id": "5ae34582-a936-4638-a6b7-1452ac6dea22",
+        "title": "Software Engineer 1 - Linux/HPC/Bash/Python/Docker/Gitlab/CI/CD",
+        "active": true,
+        "date_updated": 1779584941,
+        "date_posted": 1779584886,
+        "url": "https://job-boards.greenhouse.io/captivation/jobs/5230024008",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Captivation",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
