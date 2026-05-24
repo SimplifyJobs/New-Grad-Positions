@@ -1,23 +1,5 @@
 [
     {
-        "date_updated": 1760049835,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
-        "degrees": [],
-        "url": "https://swa.wd1.myworkdayjobs.com/en-US/external/job/TX-Dallas/Associate-Data-Scientist---Direct-College-Hire_R-2025-59817",
-        "company_name": "Southwest Airlines",
-        "title": "Associate Data Scientist",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "AlmondCroffle",
-        "id": "f4793d06-e985-4d12-9368-ef4e5b86c6d5",
-        "date_posted": 1758868246,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
         "date_updated": 1764679827,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": false,
@@ -312826,7 +312808,7 @@
         "company_name": "Teranet",
         "id": "3dfbfafd-5bfd-4770-b409-d21a66d6b0eb",
         "title": "Java/Angular Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1778796670,
         "date_posted": 1778796274,
         "url": "https://tera.wd3.myworkdayjobs.com/TERANET/job/Toronto/Java-Angular-Developer_R004735",
