@@ -1,50 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Ardent",
-        "id": "0792f38f-5a91-4853-8e4b-717325737b5d",
-        "title": "Junior Developer Consultant - Geospatial Software Development",
-        "active": false,
-        "date_updated": 1758916693,
-        "date_posted": 1758916693,
-        "url": "https://boards.greenhouse.io/ardentmc/jobs/7278159",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Ardent",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Gauntlet Networks",
-        "id": "623f45db-6ae9-4795-981f-a40286a0be77",
-        "title": "Quant Research Engineer \u2013 New Grad",
-        "active": false,
-        "date_updated": 1758915902,
-        "date_posted": 1758915902,
-        "url": "https://jobs.lever.co/gauntlet/05622c55-52bf-47a9-8d88-e83d70fc5bad/apply",
-        "locations": [
-            "SF",
-            "LA",
-            "NYC",
-            "Remote in Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Gauntlet-Networks",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Other",
         "company_name": "Honeywell",
         "id": "dc74fdfc-2bcb-4674-b746-cf16c638657e",
