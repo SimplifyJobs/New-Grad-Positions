@@ -1,24 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "expedia group",
-        "id": "8263f802-80bc-43ec-8c4a-f041b5293a00",
-        "title": "Machine Learning Engineer I",
-        "active": false,
-        "date_updated": 1759840938,
-        "date_posted": 1758976509,
-        "url": "https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Machine-Learning-Engineer-I_R-98322",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Expedia-Group",
-        "is_visible": false,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Siemens",
         "id": "e0cfae5c-6c3c-4038-adb1-ff14d595851f",
