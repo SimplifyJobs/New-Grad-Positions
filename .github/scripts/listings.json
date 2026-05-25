@@ -126115,24 +126115,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Blue Ridge Health",
-        "id": "584d4887-b6a8-4539-ab35-795f98770ab8",
-        "title": "Dental Assistant",
-        "active": false,
-        "date_updated": 1768472088,
-        "date_posted": 1758983163,
-        "url": "https://careers-blueridgehealth.icims.com/jobs/1884/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Twinsburg, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Blue-Ridge-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Barnes & Noble Education",
         "id": "8cf41005-272e-4b63-ba95-347cd08f43a7",
@@ -320729,7 +320711,7 @@
         "company_name": "Genworth Financial",
         "id": "ba0be469-bec0-418d-a90d-30aca0169d59",
         "title": "AI Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1779459121,
         "date_posted": 1779458950,
         "url": "https://gnw.wd1.myworkdayjobs.com/GNW/job/Lynchburg-Virginia/AI-Engineer_REQ-260203",
