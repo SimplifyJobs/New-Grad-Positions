@@ -321789,5 +321789,23 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Capco",
+        "id": "de2b07d1-c59d-4fb4-a947-7f09e20942a5",
+        "title": "Full Stack Developer - SQL Power Apps Developer",
+        "active": true,
+        "date_updated": 1779747399,
+        "date_posted": 1779747273,
+        "url": "https://job-boards.greenhouse.io/capco/jobs/7769320",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Capco",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
