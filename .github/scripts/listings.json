@@ -44934,24 +44934,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Chatham Financial",
-        "id": "dd50fe9d-6fd1-4610-8452-988e2f77dfa0",
-        "title": "Full Stack Engineer",
-        "active": false,
-        "date_updated": 1758986803,
-        "date_posted": 1758986803,
-        "url": "https://job-boards.greenhouse.io/chathamfinancial/jobs/7271894",
-        "locations": [
-            "West Chester, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Chatham-Financial",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Brink",
         "id": "5394fdff-c3fb-4dac-9d30-d467d0dc8c28",
@@ -312174,7 +312156,7 @@
         "company_name": "Baker Hughes",
         "id": "f67e934b-3ab9-4bdd-b1f1-072270463fc3",
         "title": "Manufacturing Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1778797261,
         "date_posted": 1778796553,
         "url": "https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/US-NV-MINDEN-1631-BENTLY-PARKWAY-SOUTH/Manufacturing-Software-Engineer_R163821",
