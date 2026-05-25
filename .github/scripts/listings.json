@@ -84793,24 +84793,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Lucid Motors",
-        "id": "3a2d537a-294f-4bf6-948f-c85366952994",
-        "title": "Manufacturing Technician",
-        "active": false,
-        "date_updated": 1765322328,
-        "date_posted": 1758971664,
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/4869582007",
-        "locations": [
-            "Casa Grande, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Lucid-Motors",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "ServiceNow",
         "id": "843e165a-f7bf-4702-9673-58a73d16094a",
