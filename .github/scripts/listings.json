@@ -45218,29 +45218,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "JP Morgan Chase",
-        "id": "eb73775c-7e2a-4b64-be95-1f5557870cef",
-        "title": "2026 Data Science Analyst Program - Full-Time Analyst",
-        "active": false,
-        "date_updated": 1761270960,
-        "date_posted": 1758961513,
-        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210646415",
-        "locations": [
-            "Plano, TX",
-            "Chicago, IL",
-            "Columbus, OH",
-            "NYC",
-            "Wilmington, DE",
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Red Ventures",
         "id": "616767b4-62ce-4140-93d3-d09b3837a73e",
         "title": "Associate Data Science Product Manager",
