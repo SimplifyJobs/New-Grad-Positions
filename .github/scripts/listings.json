@@ -45063,24 +45063,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "TikTok",
-        "id": "e156b4bc-b2e0-4676-8194-fc954d36019c",
-        "title": "Machine Learning Engineer Graduate - CV/NLP/Multimodal LLM - Tiktok Trust and Safety",
-        "active": false,
-        "date_updated": 1758969553,
-        "date_posted": 1758969553,
-        "url": "https://lifeattiktok.com/search/7395700606508140810",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "University of Wyoming",
         "id": "e2b01d13-dde7-4456-b8e7-053d76f35a73",
         "title": "Post Doctoral Research Associate - Atmospheric Science",
@@ -292402,7 +292384,7 @@
         "company_name": "JP Morgan Chase",
         "id": "71d17709-e2b4-4541-b445-c1b73448e1f5",
         "title": "Loan Trading Services Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1777330801,
         "date_posted": 1777327746,
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210740420",
