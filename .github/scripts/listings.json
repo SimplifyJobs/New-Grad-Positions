@@ -44880,60 +44880,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Lewis Brisbois",
-        "id": "cf471875-55fa-4973-bf5e-f69d5d5c0e0d",
-        "title": "Financial Systems Analyst 1",
-        "active": false,
-        "date_updated": 1763131316,
-        "date_posted": 1758987947,
-        "url": "https://careers-lewisbrisbois.icims.com/jobs/12138/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Kansas City, MO"
-        ],
-        "company_url": "https://simplify.jobs/c/Lewis-Brisbois",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Global Lending Services",
-        "id": "9406cd5e-aa25-4e7f-bdc1-e05916cb94f1",
-        "title": "Data Developer",
-        "active": false,
-        "date_updated": 1758987456,
-        "date_posted": 1758987456,
-        "url": "https://jobs.lever.co/glsllc/b452c19a-d83d-4343-b1d2-8a249d9381c9/apply",
-        "locations": [
-            "Greenville, SC"
-        ],
-        "company_url": "https://simplify.jobs/c/Global-Lending-Services",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Kimley-Horn",
-        "id": "7752464a-240e-469c-aa9d-e1fdc906ac75",
-        "title": "GIS Analyst",
-        "active": false,
-        "date_updated": 1763131374,
-        "date_posted": 1758987104,
-        "url": "https://careers-kimley-horn.icims.com/jobs/19950/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Virginia Beach, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Kimley-Horn",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Brink",
         "id": "5394fdff-c3fb-4dac-9d30-d467d0dc8c28",
