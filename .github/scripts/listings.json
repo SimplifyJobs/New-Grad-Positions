@@ -2,26 +2,6 @@
     {
         "source": "Simplify",
         "category": "Hardware",
-        "company_name": "Siemens",
-        "id": "e0cfae5c-6c3c-4038-adb1-ff14d595851f",
-        "title": "Firmware Engineer 1 - Research & Development",
-        "active": false,
-        "date_updated": 1758981493,
-        "date_posted": 1758981493,
-        "url": "https://siemens.eightfold.ai/careers/job/563156132151514",
-        "locations": [
-            "Johnson City, TN"
-        ],
-        "company_url": "https://simplify.jobs/c/Siemens",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
         "company_name": "General Motors",
         "id": "520a10d0-a5ec-46d6-acfe-66d0ec30804c",
         "title": "Software Engineer \u2013 Early Career",
@@ -45008,24 +44988,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Intercontinental Exchange",
-        "id": "95e0ab62-9462-451e-a778-5c15b1455ee4",
-        "title": "Analyst EUC",
-        "active": false,
-        "date_updated": 1763131353,
-        "date_posted": 1758981153,
-        "url": "https://careers-ice.icims.com/jobs/11458/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/ICEMarkets",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "University of Wyoming",
         "id": "e2b01d13-dde7-4456-b8e7-053d76f35a73",
@@ -50866,28 +50828,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Rambus",
-        "id": "24a86fdf-1325-41d6-a494-5733fa3feec4",
-        "title": "Digital Design Engineer \u2013 New College Grad",
-        "active": false,
-        "date_updated": 1763161809,
-        "date_posted": 1758980844,
-        "url": "https://careers-rambus.icims.com/jobs/22366/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Carrboro, NC",
-            "San Jose, CA",
-            "Westlake Village, CA",
-            "Hillsboro, OR",
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Rambus",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -318121,7 +318061,7 @@
         "company_name": "TD Bank",
         "id": "647e3499-c43e-49b0-a0a3-ad7620317671",
         "title": "Software Engineer 1 - Java/Golang",
-        "active": true,
+        "active": false,
         "date_updated": 1779286800,
         "date_posted": 1779286173,
         "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-I--Java-Golang-_R_1489393",
