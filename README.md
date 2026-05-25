@@ -5,9 +5,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/New-Grad-Positions/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
 ---
-### Browse 287 New Grad Roles by Category
+### Browse 284 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (177)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (174)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (4)
 
@@ -374,13 +374,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>17d</td>
 </tr>
 <tr>
-<td><strong>General Matter</strong></td>
-<td>Software Engineer (New Grad) 🇺🇸</td>
-<td>Los Angeles, CA</td>
-<td><a href="https://job-boards.greenhouse.io/generalmatter/jobs/5157066008?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td>17d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Genuine-Parts-Company?utm_source=GHList&utm_medium=company">Genuine Parts Company</a></strong></td>
 <td>Software Engineer 1</td>
 <td>Birmingham, AL</td>
@@ -556,13 +549,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>1mo</td>
 </tr>
 <tr>
-<td><strong>Gumloop</strong></td>
-<td>Software Engineer</td>
-<td>San Francisco, CA</br>Vancouver, BC, CAN</td>
-<td><a href="https://jobs.ashbyhq.com/gumloop/a1a881a6-3743-4f03-ab55-3a46297a764b?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td>1mo</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Alarm?utm_source=GHList&utm_medium=company">Alarm.com</a></strong></td>
 <td>Software Engineer 1</td>
 <td>Lawrence, KS</td>
@@ -644,13 +630,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Engineer - New Grad 🇺🇸</td>
 <td>Remote in US</td>
 <td><a href="https://jobs.ashbyhq.com/realmalliance/56d8b433-31ad-43a2-997e-b8538f5f2c9f?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>CAI</strong></td>
-<td>Junior Data Engineer 🛂</td>
-<td>FL</td>
-<td><a href="https://cai.wd5.myworkdayjobs.com/en-US/computer_aid/job/FL-CLIENT-STATE/Junior-Data-Engineer_R7496?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
 <td>1mo</td>
 </tr>
 <tr>
@@ -1323,7 +1302,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (1221)</summary>
+<summary>🗃️ Inactive roles (1224)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -1543,6 +1522,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><strong><a href="https://simplify.jobs/c/Daimler-Truck?utm_source=GHList&utm_medium=company">Daimler Truck</a></strong></td>
 <td>Software Release & Test Management Engineer I 🛂</td>
 <td>Portland, OR</td>
+<td>🔒</td>
+<td>17d</td>
+</tr>
+<tr>
+<td><strong>General Matter</strong></td>
+<td>Software Engineer (New Grad) 🇺🇸</td>
+<td>Los Angeles, CA</td>
 <td>🔒</td>
 <td>17d</td>
 </tr>
@@ -1939,6 +1925,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>1mo</td>
 </tr>
 <tr>
+<td><strong>Gumloop</strong></td>
+<td>Software Engineer</td>
+<td>San Francisco, CA</br>Vancouver, BC, CAN</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
 <td>Raytheon Full Time Conversion Intern - Software Engineer I</td>
 <td>Aurora, CO</td>
@@ -2285,6 +2278,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><strong>Unum</strong></td>
 <td>IT Associate - Software Engineer</td>
 <td>Chattanooga, TN</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>CAI</strong></td>
+<td>Junior Data Engineer 🛂</td>
+<td>FL</td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>
