@@ -1,52 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "General Motors",
-        "id": "520a10d0-a5ec-46d6-acfe-66d0ec30804c",
-        "title": "Software Engineer \u2013 Early Career",
-        "active": false,
-        "date_updated": 1758995548,
-        "date_posted": 1758995548,
-        "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/Software-Engineer---Early-Career_JR-202518329",
-        "locations": [
-            "Milford Charter Twp, MI",
-            "Austin, TX",
-            "Mountain View, CA",
-            "Warren, MI",
-            "Pontiac, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/General-Motors",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Stackline",
-        "id": "1ccd03c8-1ca5-44a0-a6f1-567c9e7fbe50",
-        "title": "Software Development Engineer I",
-        "active": false,
-        "date_updated": 1758995033,
-        "date_posted": 1758995033,
-        "url": "https://job-boards.greenhouse.io/stackline/jobs/4613319005",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Stackline",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Sonepar",
         "id": "d1936b00-4b8f-4cae-8b42-e5661e87bb7a",
@@ -44862,24 +44816,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Aviatrix",
-        "id": "f3804074-8d3a-4c53-ba31-637da577e03a",
-        "title": "MTS \u2013 Software Development",
-        "active": false,
-        "date_updated": 1762929487,
-        "date_posted": 1758994991,
-        "url": "https://aviatrix.com/careers/?gh_jid=4611861005",
-        "locations": [
-            "Urbana, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Aviatrix",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Brink",
         "id": "5394fdff-c3fb-4dac-9d30-d467d0dc8c28",
@@ -64742,7 +64678,7 @@
         "company_name": "Perle",
         "id": "2a393876-fd7d-4027-8c6a-d56bf5975edf",
         "title": "English Language Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1763768988,
         "date_posted": 1763768988,
         "url": "https://ats.rippling.com/perle/jobs/e0e43ac5-e697-4c63-bf8e-f5aa0d5acd94",
@@ -236551,7 +236487,7 @@
         "company_name": "Goldman Sachs",
         "id": "4b4f9231-8913-4465-b065-41b60187db41",
         "title": "Asset & Wealth Management-Generative AI Software Engineer-Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1773822612,
         "date_posted": 1770995712,
         "url": "https://higher.gs.com/roles/162184",
