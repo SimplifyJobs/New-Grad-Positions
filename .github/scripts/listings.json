@@ -289672,7 +289672,7 @@
         "company_name": "Amazon",
         "id": "cac49ec8-ab82-4ee4-9642-ecac5c57d408",
         "title": "Data Center Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1777068541,
         "date_posted": 1777068421,
         "url": "https://amazon.jobs/en/jobs/10403234/data-center-technician",
@@ -290643,7 +290643,7 @@
         "company_name": "KLA",
         "id": "35c18a82-b472-47bb-85a9-013652def5d6",
         "title": "Senior AI Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1777268881,
         "date_posted": 1777266660,
         "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Senior-AI-Engineer_2636323",
@@ -290765,7 +290765,7 @@
         "company_name": "Entrust",
         "id": "6aa6f3b7-7266-4868-9ce6-06a515fdf757",
         "title": "Product Manager",
-        "active": true,
+        "active": false,
         "date_updated": 1777281301,
         "date_posted": 1777281300,
         "url": "https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/United-Kingdom---London-Onfido/Product-Manager_R004113",
@@ -291468,7 +291468,7 @@
         "company_name": "Onto Innovation",
         "id": "bd908b62-7eb0-4c9f-acc2-1620bcf675ca",
         "title": "Software Engineer 3",
-        "active": true,
+        "active": false,
         "date_updated": 1777330801,
         "date_posted": 1777327685,
         "url": "https://onto.wd1.myworkdayjobs.com/onto_careers/job/Wilmington-MA-Upton/Software-Engineer-3_R-5725",
@@ -292642,7 +292642,7 @@
         "company_name": "Hyster-Yale Materials Handling",
         "id": "78971e69-9638-40d6-9793-1257cd5709f3",
         "title": "Controls Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1777414141,
         "date_posted": 1777414056,
         "url": "https://hysteryale.wd1.myworkdayjobs.com/hyster-yalecareers/job/HY-US-Greenville-NC-WPDC/Controls-Engineer_R7962",
@@ -296317,7 +296317,7 @@
         "company_name": "KLA",
         "id": "f1423916-5779-4671-b492-b9d1730988c0",
         "title": "Algorithm Engineer - Deep Learning",
-        "active": false,
+        "active": true,
         "date_updated": 1777621141,
         "date_posted": 1777338408,
         "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Algorithm-Engineer---Deep-Learning_2636294",
@@ -296420,7 +296420,7 @@
         "company_name": "StubHub",
         "id": "8cbc90d5-72b9-40b1-9062-9186bd4dfb16",
         "title": "Senior Product Manager - International Fulfillment",
-        "active": true,
+        "active": false,
         "date_updated": 1777621141,
         "date_posted": 1777331518,
         "url": "https://job-boards.eu.greenhouse.io/stubhubinc/jobs/4852100101",
@@ -296439,7 +296439,7 @@
         "company_name": "StubHub",
         "id": "ac239c23-e4b8-4e58-8b69-b5a6f41592c2",
         "title": "Senior Product Manager - International Fulfillment",
-        "active": true,
+        "active": false,
         "date_updated": 1777621141,
         "date_posted": 1777331517,
         "url": "https://job-boards.eu.greenhouse.io/stubhubinc/jobs/4852099101",
@@ -296458,7 +296458,7 @@
         "company_name": "Dairyland Power Cooperative",
         "id": "39ca7707-c444-432c-b2aa-9f6d2957fe52",
         "title": "GIS Specialist 1",
-        "active": false,
+        "active": true,
         "date_updated": 1777621141,
         "date_posted": 1777331003,
         "url": "https://dairynet.wd1.myworkdayjobs.com/DPCcareers/job/La-Crosse-Wisconsin/GIS-Specialist-I_JR100947",
@@ -296519,7 +296519,7 @@
         "company_name": "Handshake",
         "id": "df48eea3-5a2b-4b7f-b554-5255c3f0c3c8",
         "title": "Software Engineer 1 - Coding Pod",
-        "active": false,
+        "active": true,
         "date_updated": 1777624381,
         "date_posted": 1777327754,
         "url": "https://jobs.ashbyhq.com/handshake/c8550c33-fd2c-4ba6-aa5a-d1e2574b0b06/application",
@@ -311160,7 +311160,7 @@
         "company_name": "Veeva Systems",
         "id": "59882688-f37f-4664-bba8-fd1c9b781086",
         "title": "Associate Product Manager - Vault CRM Suite",
-        "active": true,
+        "active": false,
         "date_updated": 1778748301,
         "date_posted": 1777338339,
         "url": "https://jobs.lever.co/veeva/6bcc8228-5b43-43e5-b96b-d62679b8c64a/apply",
@@ -313442,7 +313442,7 @@
         "company_name": "Fidelity National Information Services",
         "id": "ccb885f3-4232-457f-bbda-d0770da4765f",
         "title": "Strategy & Planning Analyst 1 - FIS University Program",
-        "active": true,
+        "active": false,
         "date_updated": 1778883620,
         "date_posted": 1778883078,
         "url": "https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-WI-MKE-4900/Business-Process-Analyst-E--FIS-University-Program_JR0302537",
@@ -322576,6 +322576,120 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/ChicagoTradingCo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Federal Reserve System",
+        "id": "e491e331-9f07-40c3-9189-9f3ed1d074ad",
+        "title": "Research Assistant",
+        "active": true,
+        "date_updated": 1779820021,
+        "date_posted": 1779528349,
+        "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Chicago-IL/Research-Assistant_R-0000032112-1",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/6a7a42d3-327f-4b48-a7a7-c68f405e3396",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Northeastern University",
+        "id": "b3684c0e-bad7-461d-b1c1-ade6f903dde2",
+        "title": "Data Analyst - Crookes Lab - Public Health and Health Sciences",
+        "active": true,
+        "date_updated": 1779820021,
+        "date_posted": 1779527655,
+        "url": "https://northeastern.wd1.myworkdayjobs.com/careers/job/Boston-MA-Main-Campus/Temporary-Analyst_R139617",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Northeastern-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "LCBC Church",
+        "id": "3bec3dfc-4a4a-40f2-a425-86d049883991",
+        "title": "Help Desk Specialist",
+        "active": true,
+        "date_updated": 1779829562,
+        "date_posted": 1777414008,
+        "url": "https://jobs.lever.co/lcbcchurch/6be9285d-1c2b-48a4-84e9-4422be639c48/apply",
+        "locations": [
+            "Lancaster, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/LCBC-Church",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TSMG",
+        "id": "64037afd-254d-46c7-9a52-93b03939c7ce",
+        "title": "AI/ML Data Contributor - Data Labeling - Content Evaluation",
+        "active": true,
+        "date_updated": 1779820021,
+        "date_posted": 1777385131,
+        "url": "https://jobs.lever.co/tsmg/01de5fe4-2e79-47ee-9230-55fe4631f52d/apply",
+        "locations": [
+            "Fargo, ND"
+        ],
+        "company_url": "https://simplify.jobs/c/TSMG",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "General Dynamics UK",
+        "id": "a7c67a3e-3bad-4dae-b885-0d9e1f0ede88",
+        "title": "Junior Firmware Engineer",
+        "active": true,
+        "date_updated": 1779820021,
+        "date_posted": 1777385142,
+        "url": "https://jobs.smartrecruiters.com/GDMSI/744000123456285",
+        "locations": [
+            "Ashford District, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-UK",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Caesars Entertainment",
+        "id": "f98a3f52-349c-46cc-90ba-781e6d63c43a",
+        "title": "Trader",
+        "active": true,
+        "date_updated": 1779820021,
+        "date_posted": 1777327704,
+        "url": "https://edmn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/83458",
+        "locations": [
+            "Las Vegas, NV"
+        ],
+        "company_url": "https://simplify.jobs/c/Caesars-Entertainment",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
