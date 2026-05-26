@@ -81472,29 +81472,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Geosyntec Consultants",
-        "id": "bb9dfba3-bd85-45cc-9c21-9be7da4faa56",
-        "title": "Early-Career Water Resources / Modeling Professional",
-        "active": false,
-        "date_updated": 1764980483,
-        "date_posted": 1759093148,
-        "url": "https://careers-geosyntec.icims.com/jobs/3946/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Orlando, FL",
-            "Tampa, FL",
-            "Tallahassee, FL",
-            "Gainesville, FL",
-            "Jacksonville, FL",
-            "Clearwater, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Geosyntec-Consultants",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "RadiantSecurity",
         "id": "1599c1f1-93b3-413d-8788-3570fce7c363",
         "title": "AI Security Context Engineer",
@@ -289057,7 +289034,7 @@
         "company_name": "LG Electronics",
         "id": "473d03cf-ac2d-4b7e-9a5f-2ff95fed82c1",
         "title": "R&D Engineer Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1776983511,
         "date_posted": 1776982565,
         "url": "https://job-boards.greenhouse.io/lgelectronics/jobs/5198723008",
@@ -322245,6 +322222,26 @@
         "degrees": [
             "Bachelor's",
             "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "WVUMedicine",
+        "id": "a526ae18-c3ef-4eff-b2e4-d7d9bd9f43e5",
+        "title": "Associate System Analyst",
+        "active": true,
+        "date_updated": 1779819667,
+        "date_posted": 1779528039,
+        "url": "https://wvumedicine.wd1.myworkdayjobs.com/WVUH/job/Information-Technology-Center/Associate-System-Analyst_JR26-33526",
+        "locations": [
+            "Morgantown, WV"
+        ],
+        "company_url": "https://simplify.jobs/c/WVUMedicine",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
