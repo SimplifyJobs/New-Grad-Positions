@@ -64329,7 +64329,7 @@
         "company_name": "RWS",
         "id": "98552b81-a14c-47cc-8832-28fb466dc1b7",
         "title": "AI Data Specialist",
-        "active": false,
+        "active": true,
         "date_updated": 1763766946,
         "date_posted": 1763766946,
         "url": "https://jobs.lever.co/rws/dd563b7b-74d5-4124-bb0b-89a8d44348ae/apply",
@@ -169941,7 +169941,7 @@
         "company_name": "RTX",
         "id": "5f49884a-b451-4297-9d6e-55d11e5d7164",
         "title": "Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1770910275,
         "date_posted": 1770910275,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-FULLERTON-675--1801-Hughes-Dr--BLDG-675/Software-Engineer-I--Onsite_01823376",
@@ -294297,7 +294297,7 @@
         "company_name": "Loblaw Companies",
         "id": "f1166430-b92d-4670-b7bb-757e4f00e57a",
         "title": "Associate Product Manager",
-        "active": true,
+        "active": false,
         "date_updated": 1777501441,
         "date_posted": 1777500598,
         "url": "https://myview.wd3.myworkdayjobs.com/paradox_careers/job/1-Presidents-Choice-Circle-Brampton-ON/Associate-Product-Manager_R2000660666-1",
@@ -295470,7 +295470,7 @@
         "company_name": "IXL Learning",
         "id": "e6c90814-e1cc-46f0-92bb-23a0ec0fd011",
         "title": "Associate Product Manager \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1777588021,
         "date_posted": 1777587281,
         "url": "https://www.ixl.com/company/jobs?gh_jid=8530549002",
@@ -295568,7 +295568,7 @@
         "company_name": "Tradeweb",
         "id": "c2418cfd-a00b-41fe-8f10-3343a3933d91",
         "title": "European Product Implementation",
-        "active": true,
+        "active": false,
         "date_updated": 1777586941,
         "date_posted": 1777586881,
         "url": "https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301750",
@@ -296788,7 +296788,7 @@
         "company_name": "Brookhaven Lab",
         "id": "adc346e6-17dc-4896-8536-78e1a4e50837",
         "title": "Post Doctorate Research Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1777624202,
         "date_posted": 1777587005,
         "url": "https://bnl.wd1.myworkdayjobs.com/externa/job/Upton-NY/Post-Doctorate-Research-Associate_JR102404",
@@ -296849,7 +296849,7 @@
         "company_name": "Varian",
         "id": "4a4c5ee1-2efb-4ae7-83ea-288132043bfb",
         "title": "Field Service Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1777624021,
         "date_posted": 1777586854,
         "url": "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/MKE-W/Field-Service-Engineer---HW---Waukesha--WI_R-27052",
@@ -307961,7 +307961,7 @@
         "company_name": "The Boeing Company",
         "id": "9d8712ed-0084-45d7-817f-0cbe2ea3d979",
         "title": "Nondestructive Test Technician - Nondestructive Testing - Ultrasonic Testing & Radiographic Testing",
-        "active": true,
+        "active": false,
         "date_updated": 1778548300,
         "date_posted": 1778548103,
         "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Berkeley-MO/Nondestructive-Test--NDT--Technician---UT---RT_JR2026508418-2",
@@ -308080,7 +308080,7 @@
         "company_name": "The Boeing Company",
         "id": "35debc46-1934-45a6-8287-db47b4e803ca",
         "title": "Nondestructive Test Technician - Nondestructive Testing - Ultrasonic Testing & Radiographic Testing",
-        "active": true,
+        "active": false,
         "date_updated": 1778548308,
         "date_posted": 1778548108,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Nondestructive-Test--NDT--Technician---UT---RT_JR2026508418",
@@ -308714,7 +308714,7 @@
         "company_name": "General Dynamics Information Technology",
         "id": "d6e9f6c2-10cf-4956-b31a-691751389066",
         "title": "Modeling & Simulation Specialist Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1778707801,
         "date_posted": 1778320373,
         "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-IN-Crane/Modeling---Simulation-Specialist-Associate_RQ219118-1",
@@ -314505,7 +314505,7 @@
         "company_name": "EOS IT Solutions",
         "id": "2fc92f90-9072-4d65-92fe-6fdb60448368",
         "title": "Data Center Repair Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1778919841,
         "date_posted": 1777673274,
         "url": "https://eosits.com/company/careers/?gh_jid=8527286002",
@@ -317611,7 +317611,7 @@
         "company_name": "CookUnity",
         "id": "bc739f4b-e49f-4492-b450-bff41af3a110",
         "title": "AI Native Engineer - Growth Marketing",
-        "active": true,
+        "active": false,
         "date_updated": 1779269582,
         "date_posted": 1777414842,
         "url": "https://careers.cookunity.com/open-roles?gh_jid=7718655003",
@@ -322972,5 +322972,263 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Micron Technology",
+        "id": "e4ea94ed-a991-4cf8-b715-cf5785404776",
+        "title": "Layout/Mask Designer",
+        "active": true,
+        "date_updated": 1779820201,
+        "date_posted": 1779529198,
+        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Layout-Mask-Designer_JR99887",
+        "locations": [
+            "Boise, ID"
+        ],
+        "company_url": "https://simplify.jobs/c/Micron-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Hamilton Lane",
+        "id": "d16b5661-6202-47dc-91a5-c25dfca62a6a",
+        "title": "Investor Relations Analyst - Product",
+        "active": true,
+        "date_updated": 1779829562,
+        "date_posted": 1779516446,
+        "url": "https://hamiltonlane.wd108.myworkdayjobs.com/Search/job/Conshohocken-PA-USA/Product-Analyst_R002950",
+        "locations": [
+            "Conshohocken, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Hamilton-Lane",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "NVIDIA",
+        "id": "2c0a2aa1-1a0d-47f7-a7ba-47ef3770b732",
+        "title": "Hardware Applications Engineer New Grad",
+        "active": true,
+        "date_updated": 1779820201,
+        "date_posted": 1778946412,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Hardware-Applications-Engineer---New-College-Grad-2026_JR2016940",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "GAP",
+        "id": "b1a062be-1a29-4676-896c-8525cc73897b",
+        "title": "Retail Sales Associate",
+        "active": true,
+        "date_updated": 1779820201,
+        "date_posted": 1778942245,
+        "url": "https://gapinc.wd1.myworkdayjobs.com/GAPINC/job/04505-ON-Trader-Joes-Plaza/Retail-Sales-Associate---Trader-Joe-s-Plaza_R211289",
+        "locations": [
+            "Portland, ME"
+        ],
+        "company_url": "https://simplify.jobs/c/GAP",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "5c3d6acf-dcfc-4e72-95d6-1cb2b21e6801",
+        "title": "Service Desk Engineer",
+        "active": true,
+        "date_updated": 1779820382,
+        "date_posted": 1778942000,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-Kingdom-Cheltenham/Service-Desk-Engineer_R10230297-1",
+        "locations": [
+            "Gloucester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Armstrong World Industries",
+        "id": "ed19f872-2df2-4edd-bc93-b25c9b47b76c",
+        "title": "Manufacturing Solutions Specialist",
+        "active": true,
+        "date_updated": 1779829562,
+        "date_posted": 1777500502,
+        "url": "https://jobs.armstrong.com/job/Salt-Lake-City-Manufacturing-Solutions-Specialist-Job-Utah/1386739100/?ats=successfactors",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Armstrong-World-Industries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Hive",
+        "id": "d85c0e1f-47bb-4555-bfe1-6b3d9809e7c2",
+        "title": "Data Operations Analyst",
+        "active": true,
+        "date_updated": 1779820382,
+        "date_posted": 1777586711,
+        "url": "https://jobs.lever.co/hive/8a55e4ff-ec69-4691-aa65-fc7cbd7c6ee0/apply",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/HiveAI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AMERICAN SYSTEMS",
+        "id": "7f3a2291-35d8-4803-96a8-a7f43c392bec",
+        "title": "Linux Systems Administrator 1",
+        "active": true,
+        "date_updated": 1779820382,
+        "date_posted": 1777586719,
+        "url": "https://careers-americansystems.icims.com/jobs/4379/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Lakewood, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/AMERICAN-SYSTEMS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "NJM Insurance Group",
+        "id": "1e327e40-946f-4d63-9a8e-b8eba38ae9ff",
+        "title": "Claims Business Insights Analyst Associate",
+        "active": true,
+        "date_updated": 1779820382,
+        "date_posted": 1778941302,
+        "url": "https://njm.wd1.myworkdayjobs.com/njm/job/NJM---Trenton/Claims-Business-Insights-Analyst--Associate---Hybrid_R2007907",
+        "locations": [
+            "Trenton, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/NJM-Insurance-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Veeva Systems",
+        "id": "ed58b703-dbf0-4072-b49b-1c7588dd21ba",
+        "title": "Data Consultant - Opendata",
+        "active": true,
+        "date_updated": 1779820382,
+        "date_posted": 1777586754,
+        "url": "https://jobs.lever.co/veeva/8badc5b7-a7c2-446f-a23c-00d788be2caf/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Veeva-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Rheem",
+        "id": "9636e6c7-c161-475a-a107-6ca83805b3bc",
+        "title": "Model Maker 1",
+        "active": true,
+        "date_updated": 1779820201,
+        "date_posted": 1777500237,
+        "url": "https://hdde.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3858",
+        "locations": [
+            "Fort Smith, AR"
+        ],
+        "company_url": "https://simplify.jobs/c/Rheem",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Quest Global",
+        "id": "9ad95b14-c800-46b1-bb2b-13564a60d514",
+        "title": "Process Engineering Technician",
+        "active": true,
+        "date_updated": 1779829562,
+        "date_posted": 1777453685,
+        "url": "https://careers.quest-global.com/global/en/job/P-118226",
+        "locations": [
+            "Derby, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Quest-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Butternut Box",
+        "id": "3a232e0c-567d-48ff-9df2-266960c4d76b",
+        "title": "Sustainability Specialist",
+        "active": true,
+        "date_updated": 1779836655,
+        "date_posted": 1777415004,
+        "url": "https://job-boards.greenhouse.io/butternutbox/jobs/8527367002",
+        "locations": [
+            "Newcastle upon Tyne, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Butternut-Box",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
