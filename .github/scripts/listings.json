@@ -303639,7 +303639,7 @@
         "company_name": "The Boeing Company",
         "id": "f062cd77-bfb9-43cc-947d-1518a860c9db",
         "title": "Metrology & Calibration Technicians \u2013 Associate or Mid-Level",
-        "active": true,
+        "active": false,
         "date_updated": 1778134141,
         "date_posted": 1778134077,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seattle-WA/Metrology---Calibration-Technicians--Associate-or-Mid-Level-_JR2026507092-1",
@@ -303657,7 +303657,7 @@
         "company_name": "The Boeing Company",
         "id": "7e70be5d-fdbc-40a6-ad5c-8ff7c7776eb5",
         "title": "Metrology & Calibration Technicians \u2013 Associate or Mid-Level",
-        "active": true,
+        "active": false,
         "date_updated": 1778134141,
         "date_posted": 1778134067,
         "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Seattle-WA/Metrology---Calibration-Technicians--Associate-or-Mid-Level-_JR2026507092",
@@ -321829,6 +321829,26 @@
             "PhD",
             "MD",
             "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Metergy Solutions",
+        "id": "ff9a3ed1-6f84-4166-8ea8-760005a2e02b",
+        "title": "Energy Analyst - Engineering",
+        "active": true,
+        "date_updated": 1779789633,
+        "date_posted": 1779717890,
+        "url": "https://jobs.lever.co/metergysolutions/2a9c04d3-a7ef-4d14-a602-39445f3e166d/apply",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Metergy-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
