@@ -287529,7 +287529,7 @@
         "company_name": "Southcoast Health",
         "id": "9d469305-944a-41b5-a217-c8aa37fb4aca",
         "title": "Associate Clinical Analyst Coordinator-EPIC",
-        "active": true,
+        "active": false,
         "date_updated": 1776906730,
         "date_posted": 1776906527,
         "url": "https://careers-southcoast.icims.com/jobs/48349/job?mobile=true&needsRedirect=false",
@@ -288704,7 +288704,7 @@
         "company_name": "Moog ",
         "id": "e8a153ba-3e67-42be-b459-8dc1a1158a86",
         "title": "Associate Systems Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1776982861,
         "date_posted": 1776981979,
         "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Santa-Barbara-CA/Associate-Systems-Engineer_R-26-17231",
@@ -322204,6 +322204,47 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Insulet Corporation",
+        "id": "b833042a-574e-43ae-af93-74aff9d41295",
+        "title": "Sustainability Analyst",
+        "active": true,
+        "date_updated": 1779819667,
+        "date_posted": 1779528738,
+        "url": "https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/US---Massachusetts-Acton---Office/Sustainability-Analyst--Hybrid---Acton--MA-_REQ-2026-16123-1",
+        "locations": [
+            "Acton, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Insulet-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Peraton",
+        "id": "fd4c97eb-7edf-4592-b82a-9960f4e8156d",
+        "title": "Linux System Administrator / Space Programs",
+        "active": true,
+        "date_updated": 1779822434,
+        "date_posted": 1776953121,
+        "url": "https://careers-peraton.icims.com/jobs/166109/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Las Cruces, NM"
+        ],
+        "company_url": "https://simplify.jobs/c/Peraton",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
         ]
     }
 ]
