@@ -287389,7 +287389,7 @@
         "company_name": "ABB",
         "id": "2b881d70-0752-4108-b038-1f6e98c00e97",
         "title": "R&D Testing and Lab Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1776897248,
         "date_posted": 1776895791,
         "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Mebane/R-D-Testing---Lab-Specialist_JR00031405",
@@ -287772,7 +287772,7 @@
         "company_name": "Cummins",
         "id": "7b384245-614f-4eb9-8f22-7fd3b4340e9b",
         "title": "Product Functional Test Technology Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1776953161,
         "date_posted": 1776953026,
         "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2425374",
@@ -289227,7 +289227,7 @@
         "company_name": "Moog ",
         "id": "0bcb1488-2e16-402e-92fd-8fe3f7383fd4",
         "title": "Associate Project Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1776992941,
         "date_posted": 1776992845,
         "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Santa-Barbara-CA/Associate-Project-Engineer_R-26-17405",
@@ -322143,6 +322143,67 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cadence Design Systems",
+        "id": "16b41fc6-be39-43c0-8ec2-a4ae6c218f04",
+        "title": "Scientific Software Developer 2 - Modeler",
+        "active": true,
+        "date_updated": 1779819667,
+        "date_posted": 1778942313,
+        "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SANTA-FE-01/Scientific-Software-Developer-II---Modeler_R54421-1",
+        "locations": [
+            "Santa Fe, NM"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Rice University",
+        "id": "187693e3-6bfa-4f2d-bdc6-a02a23e5ce8e",
+        "title": "Rice360 Global Health Post-Baccalaureate Fellow",
+        "active": true,
+        "date_updated": 1779819667,
+        "date_posted": 1777039318,
+        "url": "https://emdz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/5750",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Rice-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Mohawk",
+        "id": "8e92cf55-3c25-413d-b10e-ac04e651a21e",
+        "title": "Master Data Coordinator",
+        "active": true,
+        "date_updated": 1779819667,
+        "date_posted": 1778922340,
+        "url": "https://careers.mohawkind.com/job/Dalton-Master-Data-Coordinator-Geor-30721/1385035600/?ats=successfactors",
+        "locations": [
+            "Calhoun, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Mohawk",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
