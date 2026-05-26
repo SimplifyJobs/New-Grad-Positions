@@ -237546,7 +237546,7 @@
         "company_name": "Chaucer Group",
         "id": "c4c6e39f-1b23-4067-83f6-6bcfd084b512",
         "title": "Data Analyst - Pricing",
-        "active": true,
+        "active": false,
         "date_updated": 1774392825,
         "date_posted": 1774392825,
         "url": "https://chaucergroup.wd3.myworkdayjobs.com/chaucer_group_careers/job/London/Data-Analyst--Pricing-_JR101292",
@@ -287030,7 +287030,7 @@
         "company_name": "Alarm.com",
         "id": "4140b305-4d1b-4867-9a71-0d97fe8f2402",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1776897524,
         "date_posted": 1776896273,
         "url": "https://job-boards.greenhouse.io/alarmcom/jobs/8490045002",
@@ -308289,7 +308289,7 @@
         "company_name": "Ohio State University",
         "id": "0108f4eb-98f0-43dc-a867-ca221acdd6c5",
         "title": "Research Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1778594761,
         "date_posted": 1778594674,
         "url": "https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Columbus-Campus/Research-Technician_R150916-1",
@@ -309504,7 +309504,7 @@
         "company_name": "GE Vernova",
         "id": "74a77f64-dbd2-4d18-beb0-ff2b948a1ef4",
         "title": "AI Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1778709061,
         "date_posted": 1778634490,
         "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Bellevue-WA-US/AI-Engineer_R5041190",
@@ -310028,7 +310028,7 @@
         "company_name": "GE Vernova",
         "id": "42dfb1d1-d8cf-4f12-81ca-c7f01f3920bd",
         "title": "AI Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1778709061,
         "date_posted": 1778634498,
         "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue-WA-US/AI-Engineer_R5041190-3",
@@ -321849,6 +321849,85 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Schonfeld",
+        "id": "56e6df31-ed8b-4ba3-9fd5-390c55687229",
+        "title": "Software Engineer - Fundamental Equities",
+        "active": true,
+        "date_updated": 1779805678,
+        "date_posted": 1779805319,
+        "url": "https://job-boards.greenhouse.io/schonfeld/jobs/7957507",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Schonfeld",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "WSP",
+        "id": "08ebb5e4-8d1d-4157-af0f-2f9d1c5db37b",
+        "title": "Analyst Consultant - Air Quality",
+        "active": true,
+        "date_updated": 1779804541,
+        "date_posted": 1779804489,
+        "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/87455",
+        "locations": [
+            "United Kingdom"
+        ],
+        "company_url": "https://simplify.jobs/c/WSP",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Woven",
+        "id": "f0167483-73bf-4867-a155-e00aea256b68",
+        "title": "Software Engineer - Calibration",
+        "active": true,
+        "date_updated": 1779804541,
+        "date_posted": 1779804426,
+        "url": "https://jobs.lever.co/woven-by-toyota/43bdae02-424e-48f2-9648-b5aa16abcfc3/apply",
+        "locations": [
+            "Ann Arbor, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Woven-Planet",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Central Florida",
+        "id": "8395d0ba-1317-412e-a86b-432806fb1cbc",
+        "title": "Postdoctoral Scholar",
+        "active": true,
+        "date_updated": 1779804573,
+        "date_posted": 1779804243,
+        "url": "https://ucf.wd1.myworkdayjobs.com/careers/job/Orlando-FL-Main-Campus/Post-Doctoral-Scholar_R113384",
+        "locations": [
+            "Orlando, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/UCF",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
         ]
     }
 ]
