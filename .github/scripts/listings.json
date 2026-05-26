@@ -48885,24 +48885,6 @@
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "TikTok",
-        "id": "aecaab63-3c94-4ada-9860-efdc777ef42f",
-        "title": "General Hire \u2013 Research Scientist Graduate",
-        "active": true,
-        "date_updated": 1761860277,
-        "date_posted": 1759086653,
-        "url": "https://lifeattiktok.com/search/7516697804673190151",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "TikTok",
         "id": "bff29d5a-1c26-400d-9d2a-86e1e7af4ac8",
         "title": "Machine Learning Engineer - Recommendations - Usds",
         "active": false,
@@ -286410,7 +286392,7 @@
         "company_name": "SpaceX",
         "id": "a68b77b8-cd04-4603-ae94-2e233e13518f",
         "title": "Forward Deployed Engineer - Mission Systems",
-        "active": true,
+        "active": false,
         "date_updated": 1776897181,
         "date_posted": 1776896330,
         "url": "https://boards.greenhouse.io/spacex/jobs/8520029002",
@@ -286599,7 +286581,7 @@
         "company_name": "LVT",
         "id": "5d8ceccb-6385-451c-8d96-61c9b4f377aa",
         "title": "Electrical Lab Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1776897006,
         "date_posted": 1776896052,
         "url": "https://job-boards.greenhouse.io/liveviewtechnologiesinc/jobs/5192274008",
@@ -287170,7 +287152,7 @@
         "company_name": "CAE",
         "id": "1319e2f4-51d0-4fb0-99a6-8aa1c615616a",
         "title": "Simulator Technician 1",
-        "active": true,
+        "active": false,
         "date_updated": 1776896919,
         "date_posted": 1776895741,
         "url": "https://cae.wd3.myworkdayjobs.com/career/job/Richmond-BC/Simulator-Technician-I-For-Abbotsford-AND-Richmond-Locations_121280",
@@ -287746,7 +287728,7 @@
         "company_name": "Uline",
         "id": "f2386c38-d074-4e16-99bc-739d68e52f2b",
         "title": "Product Management Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1776935701,
         "date_posted": 1776935661,
         "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Product-Management-Analyst_R263363-1",
@@ -322101,5 +322083,66 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The J. Paul Getty Trust",
+        "id": "64bdd829-a551-459b-8b23-ade1409cd6a5",
+        "title": "Metadata Specialist 1",
+        "active": true,
+        "date_updated": 1779819667,
+        "date_posted": 1776992598,
+        "url": "https://jobs-getty.icims.com/jobs/4780/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/The-J-Paul-Getty-Trust",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "DB E.C.O. North America",
+        "id": "c34fdf78-b48a-4c48-84a7-b2216f037197",
+        "title": "Rail Service and Operations Analyst - Technical Consulting",
+        "active": true,
+        "date_updated": 1779822430,
+        "date_posted": 1776981698,
+        "url": "https://job-boards.greenhouse.io/dbeconorthamerica/jobs/5195931008",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/DB-ECO-North-America",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Cadence Design Systems",
+        "id": "388df269-7feb-4a50-89b7-77f762ce0e42",
+        "title": "Scientific Software Developer 2 - Modeler",
+        "active": true,
+        "date_updated": 1779819667,
+        "date_posted": 1778942095,
+        "url": "https://cadence.wd1.myworkdayjobs.com/OpenEye_Careers/job/SANTA-FE-01/Scientific-Software-Developer-II---Modeler_R54421",
+        "locations": [
+            "Santa Fe, NM"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
     }
 ]
