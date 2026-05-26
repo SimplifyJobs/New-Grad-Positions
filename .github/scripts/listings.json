@@ -284879,7 +284879,7 @@
         "company_name": "Danaher Corporation",
         "id": "f4f1b4ba-000b-4a98-90ac-865cda3498f5",
         "title": "Field Service Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1776810061,
         "date_posted": 1776809172,
         "url": "https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/Philadelphia-Pennsylvania-United-States/Field-Service-Engineer---Philadelphia--PA--Surrounding-Areas-NJ-NY-PA-_R1309019",
@@ -321825,5 +321825,30 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Hinds Community College",
+        "id": "8727fa7f-1386-4d74-b039-81ec6d28b8b5",
+        "title": "Simulation Center Technician",
+        "active": true,
+        "date_updated": 1779775446,
+        "date_posted": 1779775343,
+        "url": "https://hindscc.wd1.myworkdayjobs.com/HCCExternalCareersSite/job/Nursing-and-Allied-Health-Center/Simulation-Center-technician_REQ-4805",
+        "locations": [
+            "Jackson, MS"
+        ],
+        "company_url": "https://simplify.jobs/c/Hinds-Community-College",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "PhD",
+            "MD",
+            "Certificate"
+        ]
     }
 ]
