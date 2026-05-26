@@ -211536,7 +211536,7 @@
         "company_name": "Amentum",
         "id": "a3e6fcac-5d7d-45de-b67d-d466aec11d1f",
         "title": "Java or C++ Database Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1772840590,
         "date_posted": 1772840590,
         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Java-or-C---Database-Developer_R0155916",
@@ -266561,7 +266561,7 @@
         "company_name": "Vulcan Materials",
         "id": "7b7f5795-556b-4762-a79a-9cb29fe897d9",
         "title": "Applied Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1775831409,
         "date_posted": 1775830328,
         "url": "https://vulcanmat.taleo.net/careersection/2/jobdetail.ftl?job=260000XT",
@@ -308413,7 +308413,7 @@
         "company_name": "Ohio State University",
         "id": "f13e5dad-dffc-459a-b9e7-4b56576235d4",
         "title": "Research Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1778594761,
         "date_posted": 1778594674,
         "url": "https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Columbus-Campus/Research-Technician_R150918-1",
@@ -315917,7 +315917,7 @@
         "company_name": "Symbotic",
         "id": "7b728d82-4363-4654-b38a-640d01135c35",
         "title": "3D Graphics Software Engineer New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1779153198,
         "date_posted": 1779152870,
         "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Milpitas-CA/New-Grad--3D-Graphics-Software-Engineer_R6845",
@@ -321928,6 +321928,160 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "24684aab-b9d1-4a94-bf5f-a42a76ff2d93",
+        "title": "Quality Inspector B",
+        "active": true,
+        "date_updated": 1779805136,
+        "date_posted": 1779804470,
+        "url": "https://jobs.l3harris.com/job/Ashburn-Quality-Inspection-B-VA-20147/1393852500/?ats=successfactors",
+        "locations": [
+            "Ashburn, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Starbridge",
+        "id": "f6352dce-6906-4744-b257-d41b062242a4",
+        "title": "Founding Forward Deployed Engineer & Tech Lead",
+        "active": true,
+        "date_updated": 1779804541,
+        "date_posted": 1779804499,
+        "url": "https://jobs.ashbyhq.com/starbridge/7397deb6-a092-4694-aabe-5b84ddbf5659/application",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Starbridge",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Anchorage",
+        "id": "776ee0a4-bc93-4a5c-9210-f54f4674d049",
+        "title": "Member of Product - Client Solutions & Enablement",
+        "active": true,
+        "date_updated": 1779804181,
+        "date_posted": 1779804129,
+        "url": "https://jobs.lever.co/anchorage/8cb6810f-c1dc-4158-a5d7-13f9e6f203d7/apply",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Anchorage",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "CommScope",
+        "id": "5d7175c5-7d3f-4929-81e1-46f987148356",
+        "title": "Junior R&D Engineer",
+        "active": true,
+        "date_updated": 1779804541,
+        "date_posted": 1779804377,
+        "url": "https://jobs.commscope.com/job/Apex-Junior-R&D-Engineer-Nort/1392499000/?ats=successfactors",
+        "locations": [
+            "Apex, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/CommScope",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "T-Rex Solutions",
+        "id": "ee6a1733-6b0e-4365-81f8-4836ca0bd3af",
+        "title": "Software Tools Engineer 1",
+        "active": true,
+        "date_updated": 1779804721,
+        "date_posted": 1779804616,
+        "url": "https://www.trexsolutionsllc.com/current-opportunities-at-trex/?gh_jid=8564421002",
+        "locations": [
+            "Odenton, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/T-Rex-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Ohio State University",
+        "id": "645a8824-f84c-48a9-8086-a81c0da04a3b",
+        "title": "Senior Research Technician - Explainable Perspective Narrative prediction project",
+        "active": true,
+        "date_updated": 1779804682,
+        "date_posted": 1779804248,
+        "url": "https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Columbus-Campus/Research-Senior-Technician_R151814-1",
+        "locations": [
+            "Columbus, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Ohio-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Sopra Steria",
+        "id": "4859d4bc-9719-4213-b69d-fd7668b1344f",
+        "title": "Product Lifecycle Management Engineer",
+        "active": true,
+        "date_updated": 1779804735,
+        "date_posted": 1779804312,
+        "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000128502998",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sopra-Steria",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "IDEXX",
+        "id": "e3072bd5-5e61-4aa3-8751-08c0d8f97071",
+        "title": "Metrology Engineer",
+        "active": true,
+        "date_updated": 1779804541,
+        "date_posted": 1779804492,
+        "url": "https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Westbrook-ME/Metrology-Engineer_J-052166-1",
+        "locations": [
+            "Portland, ME"
+        ],
+        "company_url": "https://simplify.jobs/c/IDEXX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
