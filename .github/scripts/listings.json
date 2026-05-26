@@ -153644,7 +153644,7 @@
         "company_name": "Blue Origin",
         "id": "364a0235-1556-4845-b1de-bb3b0965798a",
         "title": "Autonomous Vehicle AI Engineer 2 Computer Vision and Path Planning",
-        "active": true,
+        "active": false,
         "date_updated": 1770086332,
         "date_posted": 1770086332,
         "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Autonomous-Vehicle-AI-Engineer-II-Computer-Vision-and-Path-Planning_R58724-1",
@@ -290233,7 +290233,7 @@
         "company_name": "Seagate Technology ",
         "id": "84760549-4e32-42fb-ab17-f1f0d4917744",
         "title": "Product Manager \u2013 Early Career - Release Products",
-        "active": true,
+        "active": false,
         "date_updated": 1777068541,
         "date_posted": 1777068430,
         "url": "https://seagatecareers.com/job/Shakopee-Product-Manager-Release-Products-(Early-Career)-MN/1385299100/?ats=successfactors",
@@ -313786,7 +313786,7 @@
         "company_name": "Bass Pro Shops",
         "id": "f2bccd10-d730-4669-9e4d-7231c68279e0",
         "title": "Associate Technical Designer",
-        "active": true,
+        "active": false,
         "date_updated": 1778883121,
         "date_posted": 1778883003,
         "url": "https://basspro.wd1.myworkdayjobs.com/careers/job/Springfield-MO-Bass-Pro-Shops-Base-Camp/Associate-Technical-Designer_R255443",
@@ -313990,7 +313990,7 @@
         "company_name": "RTX",
         "id": "0692d532-864f-4426-b404-78aade4947a7",
         "title": "Quality Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1778884056,
         "date_posted": 1778883151,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-CHULA-VISTA-B107--850-Lagoon-Dr--BLDG-107-Mail-Zone-1-C/Quality-Technican--Onsite-_01845163",
@@ -314070,7 +314070,7 @@
         "company_name": "Citi",
         "id": "3b443b12-218a-4193-8c2c-2506a2d57464",
         "title": "AI Design Engineer - AVP",
-        "active": true,
+        "active": false,
         "date_updated": 1778893921,
         "date_posted": 1778893802,
         "url": "https://citi.wd5.myworkdayjobs.com/2/job/Mississauga-Ontario-Canada/AI-Design-Engineer---AVP_26956807",
@@ -315203,7 +315203,7 @@
         "company_name": "General Dynamics Information Technology",
         "id": "29667c14-c59b-4ea9-94be-dbe5e9dc25c1",
         "title": "Data Engineer-Junior",
-        "active": true,
+        "active": false,
         "date_updated": 1779142861,
         "date_posted": 1779142076,
         "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-HI-Camp-Smith/Data-Engineer-Junior_RQ220315-1",
@@ -315457,7 +315457,7 @@
         "company_name": "Motorola",
         "id": "a391b6b3-3181-45fa-93fe-4e7721d4874a",
         "title": "Front-End Web & CMS Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1779141961,
         "date_posted": 1779141885,
         "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Illinois-Remote-Work/Front-End-Web---CMS-Specialist_R64229",
@@ -315645,7 +315645,7 @@
         "company_name": "Fortive",
         "id": "db079b01-14aa-4970-b210-a16ad0978863",
         "title": "Calibration Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1779143401,
         "date_posted": 1779141927,
         "url": "https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/9713",
@@ -315686,7 +315686,7 @@
         "company_name": "Cummins",
         "id": "a5af9291-5c34-4f5c-b643-288ce19f70b5",
         "title": "Electronic Systems Product Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1779142681,
         "date_posted": 1779141944,
         "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2429494",
@@ -322304,5 +322304,280 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Memorial Sloan Kettering Cancer Center",
+        "id": "a5a7deec-2e09-4d2b-95f4-9c233a18cd54",
+        "title": "Postdoctoral Research Fellow - Cancer Genomics and Data Science - Molecular Diagnostics Service",
+        "active": true,
+        "date_updated": 1779822723,
+        "date_posted": 1779516375,
+        "url": "https://msk.wd108.myworkdayjobs.com/MSKCC_Careers_Primary/job/New-York-NY/Postdoctoral-Research-Fellow--Cancer-Genomics-and-Data-Science--Joint-position-in-GI-Oncology--Medicine--DOM--and-Molecular-Diagnostics-Service--Department-of-Pathology-and-Laboratory-Medicine--DPLM-_99041",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Memorial-Sloan-Kettering-Cancer-Center",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD",
+            "MD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Handshake",
+        "id": "70e27907-823d-4645-b246-d59e32f57b37",
+        "title": "Applied AI Engineer - Handshake AI Enterprise",
+        "active": true,
+        "date_updated": 1779831905,
+        "date_posted": 1779199719,
+        "url": "https://jobs.ashbyhq.com/handshake/b1e63b0f-daa0-48d0-b69d-676576b2c70f/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Handshake",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northrop Grumman",
+        "id": "12cb10ee-717a-4836-b668-4342034c0313",
+        "title": "Hardware Engineer",
+        "active": true,
+        "date_updated": 1779831181,
+        "date_posted": 1779142111,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Hardware-Engineer-Level-2-3_R10233253-1",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "MUFG",
+        "id": "1f1c4934-8a76-4b0c-89f7-03534128cae5",
+        "title": "Data Governance & Controls Analyst",
+        "active": true,
+        "date_updated": 1779831181,
+        "date_posted": 1779141919,
+        "url": "https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/Tempe-AZ/Data-Governance---Controls--Analyst_10076170-WD",
+        "locations": [
+            "Tempe, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/MUFG",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Worldwide TechServices",
+        "id": "4b5b9f27-7271-4836-a21c-71569bf9cd04",
+        "title": "Dynamic Server Support",
+        "active": true,
+        "date_updated": 1779831181,
+        "date_posted": 1779141845,
+        "url": "https://jobs.smartrecruiters.com/WorldwideTechServices/744000127050929",
+        "locations": [
+            "Topeka, KS"
+        ],
+        "company_url": "https://simplify.jobs/c/Worldwide-TechServices",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "KLA",
+        "id": "6df8765c-dd11-465b-8a4c-f92f9b0b7e17",
+        "title": "Product Installation Engineer - Extensive",
+        "active": true,
+        "date_updated": 1779831181,
+        "date_posted": 1779141944,
+        "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Chandler-AZ/Product-Installation-Engineer-RAPID---Extensive-90----Travel-Required_2636508",
+        "locations": [
+            "Chandler, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/KLA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "OMERS",
+        "id": "265b5c20-8f86-4a8f-b7a7-ed040112b8f4",
+        "title": "Analyst \u2013 Overlay Management",
+        "active": true,
+        "date_updated": 1779831181,
+        "date_posted": 1779141735,
+        "url": "https://omers.wd3.myworkdayjobs.com/omers_external/job/Toronto-Ontario/Analyst--Overlay-Management_JR-8071",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/OMERS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Amentum",
+        "id": "0e3fa3ef-e014-440f-87a4-cad6c12144be",
+        "title": "Crime Gun Intelligence Specialist",
+        "active": true,
+        "date_updated": 1779831181,
+        "date_posted": 1779113429,
+        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-MI-Detroit/Crime-Gun-Intelligence-Specialist_R0161551",
+        "locations": [
+            "Detroit, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Amentum",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Amentum",
+        "id": "f3a749af-1441-4a54-a584-7e3f0a7fa0b1",
+        "title": "Crime Gun Intelligence Specialist 1",
+        "active": true,
+        "date_updated": 1779831181,
+        "date_posted": 1779113431,
+        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-OK-Tulsa/Crime-Gun-Intelligence-Specialist_R0161550",
+        "locations": [
+            "Tulsa, OK"
+        ],
+        "company_url": "https://simplify.jobs/c/Amentum",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Amentum",
+        "id": "24d789a7-8225-4610-b78d-429488a0edf7",
+        "title": "Crime Gun Intelligence Specialist",
+        "active": true,
+        "date_updated": 1779831181,
+        "date_posted": 1779113430,
+        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-OK-Oklahoma-City/Crime-Gun-Intelligence-Specialist_R0161545",
+        "locations": [
+            "Oklahoma City, OK"
+        ],
+        "company_url": "https://simplify.jobs/c/Amentum",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "RXO",
+        "id": "1bc2d0e3-e441-4200-933e-8b47e0bac01a",
+        "title": "Associate Analyst - Customer Accounts",
+        "active": true,
+        "date_updated": 1779819842,
+        "date_posted": 1778941770,
+        "url": "https://rxo.wd501.myworkdayjobs.com/rxojobs/job/Marietta-Georgia/Associate-Analyst--Customer-Accounts_JR103204-1",
+        "locations": [
+            "Marietta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/RXO",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Yahoo",
+        "id": "38d0a5be-8db1-48ad-9ad6-b9a284f06246",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1779822541,
+        "date_posted": 1778941975,
+        "url": "https://ouryahoo.wd5.myworkdayjobs.com/en-US/careers/job/United-States-of-America/Software-Engineer---SRE-Tooling---Reliability-Platforms_JR0027149",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Yahoo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "JP Morgan Chase",
+        "id": "9bb2840b-3a70-48de-863c-202ae50b893a",
+        "title": "FX Services Currency Overlay Product Analyst - Currency Overlay Product",
+        "active": true,
+        "date_updated": 1779819842,
+        "date_posted": 1778835777,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210739681",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Chicago Trading Company",
+        "id": "44a0eff4-f6b9-4b18-a04c-b5b34baf0c92",
+        "title": "Floor Trader",
+        "active": true,
+        "date_updated": 1779819842,
+        "date_posted": 1777069272,
+        "url": "https://job-boards.greenhouse.io/chicagotrading/jobs/4688859005",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/ChicagoTradingCo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
