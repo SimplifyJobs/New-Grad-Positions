@@ -287988,7 +287988,7 @@
         "company_name": "Integra LifeSciences",
         "id": "36b3ad21-3aab-4ec2-8c87-13e64d1db9d5",
         "title": "Associate Analytics Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1776981961,
         "date_posted": 1776981947,
         "url": "https://integralife.wd1.myworkdayjobs.com/careers/job/US-NJ-Princeton-100-Headquarters/Associate-Analytics-Analyst_JR-5934",
@@ -288048,7 +288048,7 @@
         "company_name": "Applied Materials",
         "id": "03f0eae0-fdf9-4284-9852-d543c3ca5ffb",
         "title": "Physicist/Scientist 3",
-        "active": true,
+        "active": false,
         "date_updated": 1776982763,
         "date_posted": 1776982040,
         "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Physicist-Scientist-III----Early-in-Career-_R2618328",
@@ -296213,7 +296213,7 @@
         "company_name": "Hologic",
         "id": "fc61042f-d813-4ec9-a8a3-5c04f5e7edc0",
         "title": "Field Service Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1777620961,
         "date_posted": 1777327443,
         "url": "https://ebwb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/11524",
@@ -298338,7 +298338,7 @@
         "company_name": "SOCOTEC Global",
         "id": "23f03407-c56c-4d56-a091-ac0717e7ec6b",
         "title": "Applied AI Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1777903921,
         "date_posted": 1777903553,
         "url": "https://jobs.smartrecruiters.com/Socotec/744000124433581",
@@ -322238,6 +322238,67 @@
             "Morgantown, WV"
         ],
         "company_url": "https://simplify.jobs/c/WVUMedicine",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Wilson Elser",
+        "id": "5f434d07-0b1d-4a05-b639-ad6e47108448",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1779819842,
+        "date_posted": 1777079614,
+        "url": "https://job-boards.greenhouse.io/wilsonelser/jobs/5200828008",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Wilson-Elser",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "AlixPartners",
+        "id": "6d9a2b19-2a73-4226-a1b1-a6cd8022a3f9",
+        "title": "Performance Analyst",
+        "active": true,
+        "date_updated": 1779819842,
+        "date_posted": 1777068633,
+        "url": "https://www.alixpartners.com/careers/7713761003?gh_jid=7713761003",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/AlixPartners",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Simpro",
+        "id": "43745ffa-8536-48ed-876c-7f715c9344e6",
+        "title": "Customer Operations Analyst",
+        "active": true,
+        "date_updated": 1779819842,
+        "date_posted": 1777068489,
+        "url": "https://simpro.wd3.myworkdayjobs.com/simPRO_External_Careers/job/Miami-Office/Customer-Operations-Analyst_JR101927",
+        "locations": [
+            "Miami, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Simpro",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
