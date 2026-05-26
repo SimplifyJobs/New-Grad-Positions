@@ -321807,5 +321807,41 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Barclays",
+        "id": "b1916b15-c580-4255-b9c2-5e141bab10b6",
+        "title": "Data Science Associate - Portfolio Hedging & Optimisation",
+        "active": true,
+        "date_updated": 1779757741,
+        "date_posted": 1779757577,
+        "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Data-Science-Associate---Portfolio-Hedging---Optimisation_JR-0000113213",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Barclays",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Manulife Financial",
+        "id": "2675c6b2-ca31-447a-bf57-24aa17ae5920",
+        "title": "Full-Stack Software Engineer",
+        "active": true,
+        "date_updated": 1779757855,
+        "date_posted": 1779757520,
+        "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/USA-Massachusetts-Boston-200-Berkeley-Street/Full-Stack-Software-Engineer_JR26040202-3",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Manulife-Financial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
