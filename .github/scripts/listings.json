@@ -3,26 +3,6 @@
         "source": "Simplify",
         "category": "Software",
         "company_name": "McDonald's",
-        "id": "15a5ba04-c264-4699-b53d-68fd6a3d1a5e",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1759160589,
-        "date_posted": 1759160589,
-        "url": "https://jobs.mcdonalds.com/job/Chicago-Software-Engineer-I-IL-60607/1329771000/?ats=successfactors",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/McDonald",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "McDonald's",
         "id": "6a3c013b-9b7d-42f4-9de4-e1064c13e339",
         "title": "Software Engineer 1 - iOS - iOS",
         "active": true,
@@ -80546,7 +80526,7 @@
         "company_name": "SpaceX",
         "id": "cb108ddd-d005-4223-94f5-0723e02c1871",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1764919215,
         "date_posted": 1764919215,
         "url": "https://boards.greenhouse.io/spacex/jobs/8324788002",
@@ -266315,7 +266295,7 @@
         "company_name": "Amentum",
         "id": "d2ac9137-c643-4f6c-81ed-992642034cc0",
         "title": "Fastener Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1775814133,
         "date_posted": 1771697017,
         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-MI-Detroit/Fastener-Technician_R0153432",
@@ -294815,7 +294795,7 @@
         "company_name": "The University of Edinburgh",
         "id": "22343ab8-db41-4bb9-854f-9427afd7e80f",
         "title": "Research Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1777537261,
         "date_posted": 1777385257,
         "url": "https://elxw.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/14163",
@@ -318748,7 +318728,7 @@
         "company_name": "Waymo",
         "id": "2c987de8-3013-47b1-bfdf-43b4d508c40f",
         "title": "Applied Research Scientist New Grad - Multi-Modal Perception",
-        "active": true,
+        "active": false,
         "date_updated": 1779326764,
         "date_posted": 1779326530,
         "url": "https://careers.withwaymo.com/jobs?gh_jid=7948348",
@@ -319066,7 +319046,7 @@
         "company_name": "JP Morgan Chase",
         "id": "8ce5ea62-5be9-4bed-ad2a-e24c70ad063c",
         "title": "Asset & Wealth Management - Digital Product Manager - Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1779372361,
         "date_posted": 1779372281,
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210739667",
@@ -320639,7 +320619,7 @@
         "company_name": "University of Chicago",
         "id": "351fa757-3911-481c-9262-ca8b9519261a",
         "title": "Research Data Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1779487561,
         "date_posted": 1779487513,
         "url": "https://uchicago.wd5.myworkdayjobs.com/External/job/Charles-M-Harper-Center/Research-Data-Scientist_JR33692-1",
@@ -321296,7 +321276,7 @@
         "company_name": "LG Electronics",
         "id": "a71e6229-fe69-44ed-a750-a7017b417842",
         "title": "R&D Lab Engineer - Appliance Testing Lab",
-        "active": true,
+        "active": false,
         "date_updated": 1779487741,
         "date_posted": 1779487625,
         "url": "https://job-boards.greenhouse.io/lgelectronics/jobs/5229028008",
@@ -329967,6 +329947,327 @@
             "Boston, MA"
         ],
         "company_url": "https://simplify.jobs/c/QuEra-Computing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "TJX",
+        "id": "0810d3d3-0a09-4266-9d3e-7449fe85f886",
+        "title": "Online Trading Assistant",
+        "active": true,
+        "date_updated": 1779874202,
+        "date_posted": 1779873719,
+        "url": "https://tjx.wd1.myworkdayjobs.com/tjx_external/job/Watford-HER-WD17-1TX/Online-Trading-Assistant--12-Months-FTC-_REQ122726",
+        "locations": [
+            "Watford, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/TJX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Boeing Company",
+        "id": "b12a386d-54d2-4eb8-9dc8-b16fd3ffaa1f",
+        "title": "Product Data Management Specialist",
+        "active": true,
+        "date_updated": 1779836224,
+        "date_posted": 1779833483,
+        "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Huntsville-AL/Product-Data-Management-Specialist_JR2026511425",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TD Bank",
+        "id": "ae448871-7e19-4fbf-842b-2d4bb96bc2ad",
+        "title": "Business Insights Analyst 1",
+        "active": true,
+        "date_updated": 1779837709,
+        "date_posted": 1779833533,
+        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Business-Insights-Analyst-I_R_1489845-1",
+        "locations": [
+            "Montreal, QC, Canada",
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/TD-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "DebtBook",
+        "id": "63c6b0fb-b2f0-4a60-bb61-f0335739c7f0",
+        "title": "Associate Quantitative Strategist",
+        "active": true,
+        "date_updated": 1779837662,
+        "date_posted": 1779834223,
+        "url": "https://job-boards.greenhouse.io/debtbook/jobs/4698960005",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/DebtBook",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Hewlett Packard Enterprise",
+        "id": "233ecaa3-bcba-4216-8eaf-893eb5823aaa",
+        "title": "Electrical Hardware Engineer - HPC/AI Platform Engineering",
+        "active": true,
+        "date_updated": 1779837482,
+        "date_posted": 1779833425,
+        "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Spring-Texas-United-States-of-America/Electrical-Hardware-Engineer---HPC-AI-Platform-Engineering---Early-Career_1206916",
+        "locations": [
+            "Spring, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "TELUS",
+        "id": "4ea5653b-90ef-42f3-b45c-4731183231ed",
+        "title": "Investment Analyst",
+        "active": true,
+        "date_updated": 1779836224,
+        "date_posted": 1779833455,
+        "url": "https://lifeworks.wd3.myworkdayjobs.com/External/job/Toronto-Ontario-Canada/Investment-Analyst_R-21599",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Calgary, AB, Canada",
+            "Vancouver, BC, Canada",
+            "Halifax Regional Municipality, NS, Canada",
+            "Fredericton, NB, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/TELUS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "c317ecae-450e-4ef6-8cc5-468bcebccf4f",
+        "title": "Linux Systems Administrator",
+        "active": true,
+        "date_updated": 1779829562,
+        "date_posted": 1779804533,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Linux-Systems-Administrator-2-3---Secret_R10233799",
+        "locations": [
+            "Melbourne, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "The Walt Disney Company",
+        "id": "986542b0-8186-428e-8329-3832548e811c",
+        "title": "Product & Database Assistant",
+        "active": true,
+        "date_updated": 1779837662,
+        "date_posted": 1779804512,
+        "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/London-United-Kingdom/Product---Database-Assistant_10148362",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Disney",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "MiQ",
+        "id": "7f5128f3-00ff-4fcf-bbbe-796a0cb5090e",
+        "title": "Associate Trader",
+        "active": true,
+        "date_updated": 1779825962,
+        "date_posted": 1779529511,
+        "url": "https://miqdigital.wd3.myworkdayjobs.com/MiQ_Careers/job/Manchester/Associate-Trader_JR100322",
+        "locations": [
+            "Manchester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/MiQ",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Hershey",
+        "id": "de70befc-a12e-4a60-ac41-5e3a3e8a036c",
+        "title": "Category Analyst",
+        "active": true,
+        "date_updated": 1779834686,
+        "date_posted": 1779487695,
+        "url": "https://careers.thehersheycompany.com/job/Minneapolis-Cat-Analyst-Target-MN-55401/1393482000/?ats=successfactors",
+        "locations": [
+            "Minneapolis, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Hershey",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "JP Morgan Chase",
+        "id": "8bdd15db-d8c5-435f-9a52-c71641d9b522",
+        "title": "Quantitative Trading & Research - Algorithmic Execution - Associate",
+        "active": true,
+        "date_updated": 1779827406,
+        "date_posted": 1779487507,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210750034",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Nakupuna Companies",
+        "id": "59950eef-e1c5-43b6-ba1b-eaf3b06bfe23",
+        "title": "Database Sustainment Specialist - Dss",
+        "active": true,
+        "date_updated": 1779827406,
+        "date_posted": 1779487415,
+        "url": "https://careers-nakupuna.icims.com/jobs/6591/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Great Falls, MT"
+        ],
+        "company_url": "https://simplify.jobs/c/Nakupuna-Companies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Fried Frank Business Services",
+        "id": "b4f09e95-4cbf-4313-b7d3-84d5ad788165",
+        "title": "Service Delivery Analyst",
+        "active": true,
+        "date_updated": 1779825962,
+        "date_posted": 1779372445,
+        "url": "https://www.friedfrank.com/careers/businessprofessionaljobopportunities?gh_jid=6001042004",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Fried-Frank-Business-Services",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cubic",
+        "id": "06fbe013-5ddc-4167-ae46-4c235460fc7a",
+        "title": "Service Desk Technician",
+        "active": true,
+        "date_updated": 1779869650,
+        "date_posted": 1779355017,
+        "url": "https://cubic.wd1.myworkdayjobs.com/cubic_global_careers/job/Stockton-On-Tees/Service-Desk-Technician_REQ_48913",
+        "locations": [
+            "Durham, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Cubic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SpaceX",
+        "id": "ed8feb9e-1d5d-49ae-a70f-b4d24228a9d6",
+        "title": "OS/Platform Software Engineer - Starlink",
+        "active": true,
+        "date_updated": 1779825962,
+        "date_posted": 1779343906,
+        "url": "https://boards.greenhouse.io/spacex/jobs/8552882002",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/SpaceX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Johnson & Johnson",
+        "id": "0381d46e-4783-4035-9c66-611d5daf1afb",
+        "title": "Performance Analytics & Reporting",
+        "active": true,
+        "date_updated": 1779825962,
+        "date_posted": 1779343540,
+        "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/New-Brunswick-New-Jersey-United-States-of-America/Performance-Analytics---Reporting_R-074928-1",
+        "locations": [
+            "West Chester, PA",
+            "Edison, NJ",
+            "Bridgewater, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Johnson-Johnson",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
