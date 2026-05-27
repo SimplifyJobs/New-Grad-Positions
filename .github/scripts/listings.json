@@ -316619,7 +316619,7 @@
         "company_name": "Sporting Kansas City",
         "id": "e07ff7fc-f365-42a5-898d-43c651e89163",
         "title": "AV Coordinator",
-        "active": true,
+        "active": false,
         "date_updated": 1779229106,
         "date_posted": 1779228433,
         "url": "https://osv-tifec.wd5.myworkdayjobs.com/SportingKC/job/Sporting-Park-Kansas-City-KS-66111/AV-Coordinator--Part-Time_REQ-5198",
@@ -317433,7 +317433,7 @@
         "company_name": "Nationwide",
         "id": "29d2f1cc-5034-456b-8156-f161c5bed4a2",
         "title": "Senior Investment Analyst - Private Placements",
-        "active": true,
+        "active": false,
         "date_updated": 1779257161,
         "date_posted": 1779257133,
         "url": "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-One-Nationwide-Plaza/Senior-Investment-Analyst--Private-Placements_098224",
@@ -317473,7 +317473,7 @@
         "company_name": "Duke Energy",
         "id": "c97f6b90-f006-4119-bfab-a04eb9b92560",
         "title": "Natural Gas GIS Technologist 1",
-        "active": true,
+        "active": false,
         "date_updated": 1779257384,
         "date_posted": 1779257128,
         "url": "https://dukeenergy.wd1.myworkdayjobs.com/search/job/Charlotte-NC/Natural-Gas-GIS-Technologist-I_R39790",
@@ -317851,7 +317851,7 @@
         "company_name": "Lasko Products",
         "id": "1903e1d8-f50b-439b-97c0-a6b7d842dc2c",
         "title": "Associate Product Marketing Manager",
-        "active": true,
+        "active": false,
         "date_updated": 1779314955,
         "date_posted": 1779314809,
         "url": "https://job-boards.greenhouse.io/laskoproducts/jobs/5142878007",
@@ -318016,7 +318016,7 @@
         "company_name": "Nasdaq",
         "id": "590c12be-eb04-4dbc-a3bd-24f0cad31bb8",
         "title": "Product Marketing Senior Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1779315548,
         "date_posted": 1779314752,
         "url": "https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/USA---New-York-City---New-York/Sr-Analyst--Product-Marketing_R0026021-1",
@@ -318424,7 +318424,7 @@
         "company_name": "Nasdaq",
         "id": "538b0d2c-fe88-472e-a87f-a155771e3ad3",
         "title": "Graduate Data Scientist",
-        "active": false,
+        "active": true,
         "date_updated": 1779315516,
         "date_posted": 1779314751,
         "url": "https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/USA---Boston---Massachusetts/Data-Scientist---Graduate_R0026144",
@@ -318669,7 +318669,7 @@
         "company_name": "UAP",
         "id": "2a19b320-e292-4d8b-ac1f-0c773f698652",
         "title": "Product Management Administration Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1779314761,
         "date_posted": 1779314634,
         "url": "https://jobs.smartrecruiters.com/UAPInc/744000127451694",
@@ -321543,7 +321543,7 @@
         "company_name": "Moog ",
         "id": "9540aa6a-82bd-4793-aa95-eeb0fbc7ae33",
         "title": "Engineering Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1779529502,
         "date_posted": 1779528594,
         "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Mineral-Wells-TX/Engineering-Technician_R-26-17644-1",
@@ -327234,5 +327234,296 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Varian",
+        "id": "8bce021d-4401-4940-a692-26648fa1e5fb",
+        "title": "Field Service Engineer Proton Therapy",
+        "active": true,
+        "date_updated": 1779831905,
+        "date_posted": 1779530841,
+        "url": "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/ATL-NP/Field-Service-Engineer-Proton-Therapy---Atlanta--GA_R-28569-1",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/670da3c5-bce0-4621-b519-da7ce7d528e6",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AeroVironment",
+        "id": "5b6f174d-1f53-4fac-b602-2cd47b2c85ca",
+        "title": "Product Engineer",
+        "active": true,
+        "date_updated": 1779832624,
+        "date_posted": 1779401094,
+        "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/7535-Metropolitan-Drive-San-Diego--CA/Product-Engineer_7771-1",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/AeroVironment",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Calista Brice",
+        "id": "8a2ced93-4d79-4de1-b40e-aa0b4c206189",
+        "title": "Help Desk Representative",
+        "active": true,
+        "date_updated": 1779832624,
+        "date_posted": 1779314685,
+        "url": "https://calistacorp.wd1.myworkdayjobs.com/calistabrice/job/Fairbanks-AK/Help-Desk-Representative_JR109005",
+        "locations": [
+            "Fairbanks, AK"
+        ],
+        "company_url": "https://simplify.jobs/c/Calista-Brice",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Mizuho Securities USA",
+        "id": "59c000df-f9d5-46d2-82bb-a149dc45591c",
+        "title": "Derivatives Risk Solutions Analyst",
+        "active": true,
+        "date_updated": 1779832624,
+        "date_posted": 1779314778,
+        "url": "https://mizuho.wd1.myworkdayjobs.com/mizuhoamericas/job/New-York-NY-1271-AOA6th-Ave/DRS-Analyst_R7049",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Mizuho-Securities-USA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "JP Morgan Chase",
+        "id": "d26619c3-ec7d-4f2f-a891-5488f2bbf389",
+        "title": "Technical Product Associate - Platform",
+        "active": true,
+        "date_updated": 1779832624,
+        "date_posted": 1779285879,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210750452",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GlobalFoundries",
+        "id": "55285d8c-fff4-42cb-bf09-54a0095e07b0",
+        "title": "Advanced Manufacturing Equipment Engineer New Grad - Photolithography Track",
+        "active": true,
+        "date_updated": 1779832624,
+        "date_posted": 1779527765,
+        "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Manufacturing-Engineer--Manufacturing-Operations--2026-New-College-Graduate-_JR-2502962",
+        "locations": [
+            "Malta, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/GlobalFoundries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Amcor",
+        "id": "c1872333-81b1-43de-922c-acede44737ea",
+        "title": "Data Specialist 1",
+        "active": true,
+        "date_updated": 1779832624,
+        "date_posted": 1779528025,
+        "url": "https://amcor.wd5.myworkdayjobs.com/amcor_external_career_site/job/AF-Oshkosh-Division-Head-Office-WI/Data-Specialist-I_REQ_90714",
+        "locations": [
+            "Oshkosh, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Amcor",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "AtkinsR\u00e9alis",
+        "id": "c4b7e300-2d5a-4a15-820a-5297ad62e353",
+        "title": "PMO Data & Reporting Analyst",
+        "active": true,
+        "date_updated": 1779832624,
+        "date_posted": 1779529877,
+        "url": "https://slihrms.wd3.myworkdayjobs.com/careers/job/GBCheltenhamCheltenham-House/PMO-Data---Reporting-Analyst_R-155909-1",
+        "locations": [
+            "Gloucester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/AtkinsRealis",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Wood Mackenzie",
+        "id": "554716b1-9de8-4112-9044-3070f03361a5",
+        "title": "Data Assistant - Power & Renewables",
+        "active": true,
+        "date_updated": 1779825065,
+        "date_posted": 1779267998,
+        "url": "https://woodmac.wd3.myworkdayjobs.com/woodmaccareers/job/Edinburgh-GB/Data-Assistant---Power---Renewables_JR2970",
+        "locations": [
+            "Edinburgh, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Wood-Mackenzie",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Nokia",
+        "id": "07da1af3-2151-411f-a8b5-9b116fca44dd",
+        "title": "Assembly and Test Manufacturing",
+        "active": true,
+        "date_updated": 1779825065,
+        "date_posted": 1779267689,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36538",
+        "locations": [
+            "Allentown, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Nokia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Walt Disney Company",
+        "id": "31600b47-7360-454a-8e97-a92f60288552",
+        "title": "Viewer Insights Analyst",
+        "active": true,
+        "date_updated": 1779825065,
+        "date_posted": 1779239339,
+        "url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Santa-Monica-CA-USA/Viewer-Insights-Analyst_10151429-1",
+        "locations": [
+            "Santa Monica, CA",
+            "San Antonio, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Disney",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Texas A&M University - College Station",
+        "id": "a01a7aec-0da0-4408-8880-b3b41f074b3c",
+        "title": "Research Assistant",
+        "active": true,
+        "date_updated": 1779831905,
+        "date_posted": 1779527443,
+        "url": "https://tamus.wd1.myworkdayjobs.com/TAMU_External/job/College-Station-TX/Research-Assistant_R-093388-1",
+        "locations": [
+            "College Station, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Texas-AM-University-College-Station",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The New York Times",
+        "id": "771f925e-8b10-4aa7-8cc9-8c632e033715",
+        "title": "Data & Insights Analyst - Marketing Analytics",
+        "active": true,
+        "date_updated": 1779824341,
+        "date_posted": 1779228792,
+        "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4696602005",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/The-New-York-Times",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Printpack",
+        "id": "f7f2921d-9dd3-47c9-b434-5da048890c72",
+        "title": "Help Desk Representative",
+        "active": true,
+        "date_updated": 1779831905,
+        "date_posted": 1779228429,
+        "url": "https://printpack.wd1.myworkdayjobs.com/printpackcareers/job/Atlanta-GA/Help-Desk-Representative_REQ2026-9191",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Printpack",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Utah State University",
+        "id": "8359ce47-35b5-4f10-b0d4-5e538dc37c93",
+        "title": "Hive Frame Image Annotator - Precision Apiculture Research",
+        "active": true,
+        "date_updated": 1779831905,
+        "date_posted": 1779228168,
+        "url": "https://careers-usu.icims.com/jobs/10334/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Logan, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Utah-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
