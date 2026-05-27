@@ -160140,7 +160140,7 @@
         "company_name": "Vertiv",
         "id": "75d434cf-3077-426c-bd61-575ff36702ff",
         "title": "Electrical Testing Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1770333075,
         "date_posted": 1770333075,
         "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20266223",
@@ -192108,7 +192108,7 @@
         "company_name": "Proximate Technologies",
         "id": "524e8882-51b0-4631-baf4-fd747567d5c4",
         "title": "Java Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1772003070,
         "date_posted": 1772003070,
         "url": "https://jobs.smartrecruiters.com/ProximateTechnologiesInc1/79795677",
@@ -301348,7 +301348,7 @@
         "company_name": "Apple",
         "id": "29855b2e-45ab-4b63-9d6c-cbf3e2b8a02b",
         "title": "Custom CAD Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1778078565,
         "date_posted": 1778076634,
         "url": "https://jobs.apple.com/en-us/details/200658102",
@@ -301406,7 +301406,7 @@
         "company_name": "Apple",
         "id": "0c3f2c07-b054-47b3-8223-4ce68564ee62",
         "title": "Display Panel Design Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1778078341,
         "date_posted": 1778076770,
         "url": "https://jobs.apple.com/en-us/details/200652286",
@@ -301529,7 +301529,7 @@
         "company_name": "Apple",
         "id": "20d1f5cf-da4b-445f-9c6e-5cd202f68269",
         "title": "GPU Design Verification Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1778078341,
         "date_posted": 1778076831,
         "url": "https://jobs.apple.com/en-us/details/200646522",
@@ -301770,7 +301770,7 @@
         "company_name": "Apple",
         "id": "3d85d453-a4c2-40ea-a88b-0ed6c7e0682c",
         "title": "SoC DFT DV Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1778078161,
         "date_posted": 1778076692,
         "url": "https://jobs.apple.com/en-us/details/200657230",
@@ -302703,7 +302703,7 @@
         "company_name": "NVIDIA",
         "id": "4ca513a9-c75f-4b24-b016-16df26b72782",
         "title": "ASIC Design Engineer New Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1778106272,
         "date_posted": 1778105400,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Design-Engineer---New-College-Grad-2026_JR2017581",
@@ -302724,7 +302724,7 @@
         "company_name": "Google",
         "id": "71ed2509-75cf-4fac-bb6d-732c78dea7a5",
         "title": "Product Manager 1 - Global Partnerships Studio",
-        "active": true,
+        "active": false,
         "date_updated": 1778105396,
         "date_posted": 1778105107,
         "url": "https://www.google.com/about/careers/applications/jobs/results/75024099985760966",
@@ -303026,7 +303026,7 @@
         "company_name": "Cisco",
         "id": "e7ac7f20-6ee5-43b7-858e-59910ef2c2fe",
         "title": "Hardware Power Engineer - Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1778106084,
         "date_posted": 1778105286,
         "url": "https://careers.cisco.com/global/en/job/2012254",
@@ -303048,7 +303048,7 @@
         "company_name": "Thorlabs",
         "id": "d5ba373a-126b-40bd-8e54-a6c45cdfe08d",
         "title": "NPI Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1778106050,
         "date_posted": 1778105309,
         "url": "https://apply.workable.com/thorlabs/j/9E2291B41D/apply",
@@ -303476,7 +303476,7 @@
         "company_name": "KLA Corporation",
         "id": "ccefcf15-17e8-4fc5-baa6-43785e009c4f",
         "title": "Forward Deployed Engineer - Integration",
-        "active": true,
+        "active": false,
         "date_updated": 1778116141,
         "date_posted": 1778115977,
         "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Ann-Arbor-MI/Forward-Deployed-Engineer---Integration_2636219",
@@ -304536,7 +304536,7 @@
         "company_name": "Fortinet",
         "id": "0f8b69bb-cbbb-4949-b2a7-23aa41726134",
         "title": "Software Developer New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1778192655,
         "date_posted": 1778191637,
         "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22818",
@@ -305146,7 +305146,7 @@
         "company_name": "TRIMEDX",
         "id": "c4e4c9d8-9384-4a47-b7d4-c6859b87695e",
         "title": "Sterilization Technician 1",
-        "active": true,
+        "active": false,
         "date_updated": 1778193908,
         "date_posted": 1778191733,
         "url": "https://trimedx.wd1.myworkdayjobs.com/TMX/job/Springfield-MA/Sterilizer-Tech-I_R13964",
@@ -305331,7 +305331,7 @@
         "company_name": "Shield AI",
         "id": "70831ce7-6242-42d8-8e77-85275f72a7a5",
         "title": "Engineer 1 - Electromechanical",
-        "active": true,
+        "active": false,
         "date_updated": 1778202732,
         "date_posted": 1778202358,
         "url": "https://jobs.lever.co/shieldai/37f1de6d-d17b-437b-af16-d8ce8d7d0782/apply",
@@ -305434,7 +305434,7 @@
         "company_name": "Northrop Grumman",
         "id": "3228d14c-a877-49df-b248-40aef414d2e6",
         "title": "Test Conductor / Principal Test Conductor",
-        "active": true,
+        "active": false,
         "date_updated": 1778202867,
         "date_posted": 1778202470,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/Test-Conductor--Principal-Test-Conductor_R10231087",
@@ -305475,7 +305475,7 @@
         "company_name": "Northrop Grumman",
         "id": "57188420-86bc-4aa9-97c2-9a1eea64ec7d",
         "title": "Electromechanical Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1778202549,
         "date_posted": 1778202479,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Electromechanical-Engineer--Level-1-OR-2-_R10232218",
@@ -305908,7 +305908,7 @@
         "company_name": "Unity",
         "id": "2b7c178a-58c0-4d7e-8b89-18a1da8f1c87",
         "title": "Machine Learning Engineer New Grad - Offline Infrastructure",
-        "active": true,
+        "active": false,
         "date_updated": 1778278243,
         "date_posted": 1778277927,
         "url": "https://boards.greenhouse.io/embed/job_app?token=7906593",
@@ -305987,7 +305987,7 @@
         "company_name": "Unity",
         "id": "bf533c99-9410-4e52-87b3-f19d31d7fe03",
         "title": "Machine Learning Engineer \u2013 Entry-Level / New Grad PhD - Offline Infrastructure",
-        "active": true,
+        "active": false,
         "date_updated": 1778279401,
         "date_posted": 1778277926,
         "url": "https://boards.greenhouse.io/embed/job_app?token=7906590",
@@ -317629,7 +317629,7 @@
         "company_name": "Handshake",
         "id": "a976536f-f271-4e55-82c8-13fb2929ea35",
         "title": "Software Engineer - Agentic Infrastructure",
-        "active": true,
+        "active": false,
         "date_updated": 1779269041,
         "date_posted": 1778393282,
         "url": "https://jobs.ashbyhq.com/handshake/750185eb-d575-430a-93ad-51b7e83a5581/application",
@@ -323942,5 +323942,367 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Microchip Technology",
+        "id": "866d3bcc-fc0e-401d-843c-a6989aedced7",
+        "title": "Technician 1 - Probe - Engineering",
+        "active": true,
+        "date_updated": 1779821282,
+        "date_posted": 1779531312,
+        "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/CO---Colorado-Springs---East-Cheyenne-Mountain-Blvd/Technician-I--Engineering--Probe-_R1978-26",
+        "locations": [
+            "Colorado Springs, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Microchip-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Albany Medical College",
+        "id": "991f655c-6a66-4f08-b47a-aec4aff794e9",
+        "title": "Laboratory Information Technologist - Blood Bank",
+        "active": true,
+        "date_updated": 1779821101,
+        "date_posted": 1779527871,
+        "url": "https://albanymed.wd5.myworkdayjobs.com/albany_med/job/43-New-Scotland-Avenue-Albany-NY-12208/Laboratory-Info-Technologist-PD--Blood-Bank---per-diem_69939",
+        "locations": [
+            "Albany, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Albany-Medical-College",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Intel",
+        "id": "878fd401-4120-4bad-a8c5-8926d2332c70",
+        "title": "Package Assembly Low Yield Analysis Engineer",
+        "active": true,
+        "date_updated": 1779821101,
+        "date_posted": 1778947338,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Package-Assembly-Low-Yield-Analysis-Engineer_JR0283677",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "NVIDIA",
+        "id": "a2cc0996-d2ea-4470-98ee-8d8b0904dcc0",
+        "title": "ASIC Physical Design Engineer New Grad - Netlisting",
+        "active": true,
+        "date_updated": 1779821282,
+        "date_posted": 1779528752,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Physical-Design-Engineer--Netlisting---New-College-Grad-2026_JR2017681",
+        "locations": [
+            "Austin, TX",
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "KLA",
+        "id": "74dec006-b760-4214-82fd-ace629f2e659",
+        "title": "Forward Deployed Engineer - Workflow",
+        "active": true,
+        "date_updated": 1779821101,
+        "date_posted": 1778941514,
+        "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Ann-Arbor-MI/Forward-Deployed-Engineer---Workflow_2636220",
+        "locations": [
+            "Ann Arbor, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/KLA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Worldwide TechServices",
+        "id": "c1b001fd-cbe5-4c82-9910-29d18d1e7bae",
+        "title": "Dynamic PC Support",
+        "active": true,
+        "date_updated": 1779821462,
+        "date_posted": 1778277867,
+        "url": "https://jobs.smartrecruiters.com/WorldwideTechServices/744000125392254",
+        "locations": [
+            "Urbana, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Worldwide-TechServices",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "IEQ Capital",
+        "id": "548b127c-7b80-4630-bb42-110af283bf62",
+        "title": "Portfolio Analytics Associate",
+        "active": true,
+        "date_updated": 1779844993,
+        "date_posted": 1778202488,
+        "url": "https://job-boards.greenhouse.io/ieqcapital/jobs/7727967003",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/IEQ-Capital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "KLA",
+        "id": "2d731462-b7ba-42f7-adf5-368bdc319fa7",
+        "title": "Forward Deployed Engineer - Workflow",
+        "active": true,
+        "date_updated": 1779821101,
+        "date_posted": 1778941810,
+        "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Forward-Deployed-Engineer---Workflow_2636220-2",
+        "locations": [
+            "Ann Arbor, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/KLA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Iambic Therapeutics",
+        "id": "44204253-7c75-428c-a016-dd46d0bf229d",
+        "title": "Machine Learning Scientist - Large multimodal models",
+        "active": true,
+        "date_updated": 1779821101,
+        "date_posted": 1778105311,
+        "url": "https://jobs.ashbyhq.com/iambic-therapeutics/bccc58b8-6022-49d4-865b-931176a88b8e/application",
+        "locations": [
+            "Boston, MA",
+            "Bristol, UK",
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Iambic-Therapeutics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "a6a4da9f-ee2a-4d68-a609-c77446f6dfcc",
+        "title": "RTL Design Engineer",
+        "active": true,
+        "date_updated": 1779821101,
+        "date_posted": 1778076691,
+        "url": "https://jobs.apple.com/en-us/details/200657257",
+        "locations": [
+            "Waltham, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "da39916d-9e97-4d53-b2a5-291ffd418b08",
+        "title": "SoC Physical Design Engineer - Place and Route",
+        "active": true,
+        "date_updated": 1779821101,
+        "date_posted": 1778076658,
+        "url": "https://jobs.apple.com/en-us/details/200657743",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "06ebaf7f-56cf-4f55-9df5-2524506322cf",
+        "title": "CAD Engineer - Physical Design Verification",
+        "active": true,
+        "date_updated": 1779821101,
+        "date_posted": 1778076629,
+        "url": "https://jobs.apple.com/en-us/details/200658356",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "de64268e-3791-435f-98f3-208aaba872a8",
+        "title": "CAD Engineer - Physical Design Verification",
+        "active": true,
+        "date_updated": 1779821101,
+        "date_posted": 1778076866,
+        "url": "https://jobs.apple.com/en-us/details/200644245",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Apple",
+        "id": "1efb24ee-c158-425f-9f5c-25ec35a356fb",
+        "title": "Software Engineer iCloud Products Backend",
+        "active": true,
+        "date_updated": 1779835855,
+        "date_posted": 1778076790,
+        "url": "https://jobs.apple.com/en-us/details/200650908",
+        "locations": [
+            "Cupertino, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "b96d72d4-6c7e-4360-95d7-986147ef0fc8",
+        "title": "Mixed-Signal Behavioral Modeling Engineer",
+        "active": true,
+        "date_updated": 1779821101,
+        "date_posted": 1778076603,
+        "url": "https://jobs.apple.com/en-us/details/200658819",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "6f5d0b75-a8d2-4208-9303-57f82b32f894",
+        "title": "RTL Design Engineer",
+        "active": true,
+        "date_updated": 1779821101,
+        "date_posted": 1778076674,
+        "url": "https://jobs.apple.com/en-us/details/200657252",
+        "locations": [
+            "Morrisville, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "409f3b41-73fc-44ac-959e-25cf58f5fc95",
+        "title": "Wireless RTL Design Engineer",
+        "active": true,
+        "date_updated": 1779821101,
+        "date_posted": 1778076624,
+        "url": "https://jobs.apple.com/en-us/details/200658410",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "d86b8636-bf3e-43fe-807a-695ed81fe909",
+        "title": "Tools and Automation Engineer",
+        "active": true,
+        "date_updated": 1779830289,
+        "date_posted": 1778076521,
+        "url": "https://jobs.apple.com/en-us/details/200659710",
+        "locations": [
+            "Cupertino, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
     }
 ]
