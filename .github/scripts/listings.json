@@ -286828,7 +286828,7 @@
         "company_name": "Google",
         "id": "9c05a517-d413-4a91-97c7-77260a6ba5ed",
         "title": "Software Engineer 3 - Infrastructure - Platforms and Devices",
-        "active": true,
+        "active": false,
         "date_updated": 1776896844,
         "date_posted": 1776895687,
         "url": "https://www.google.com/about/careers/applications/jobs/results/103120737727849158",
@@ -306909,7 +306909,7 @@
         "company_name": "Charlotte Tilbury",
         "id": "9be39fea-7d3e-46ca-8cf8-6ab6014265bf",
         "title": "Global Product Marketing Executive",
-        "active": true,
+        "active": false,
         "date_updated": 1778497021,
         "date_posted": 1778490421,
         "url": "https://apply.workable.com/charlotte-tilbury/j/9F55D8C67C/apply",
@@ -306988,7 +306988,7 @@
         "company_name": "Citi",
         "id": "2913c10a-7c33-4794-9b77-aad6394e768e",
         "title": "Pyspark Data Engineer - Officer",
-        "active": true,
+        "active": false,
         "date_updated": 1778508721,
         "date_posted": 1778508628,
         "url": "https://citi.wd5.myworkdayjobs.com/2/job/Mississauga-Ontario-Canada/Pyspark-Data-Engineer---Officer_26953427-1",
@@ -307348,7 +307348,7 @@
         "company_name": "L.L.Bean",
         "id": "56926009-bbb7-4085-a5fa-6d0f5b9e179b",
         "title": "Retail Assistant Merchant",
-        "active": true,
+        "active": false,
         "date_updated": 1778538061,
         "date_posted": 1778537179,
         "url": "https://llbean.wd1.myworkdayjobs.com/llbean_careers/job/Freeport-ME/Retail-Assistant-Merchant_JR10669",
@@ -307488,7 +307488,7 @@
         "company_name": "JP Morgan Chase",
         "id": "5d1e1809-59b5-407b-8515-b679c2373655",
         "title": "AI Controls & Product Management Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1778537881,
         "date_posted": 1778537132,
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210742941",
@@ -307567,7 +307567,7 @@
         "company_name": "Menasha Corporation",
         "id": "94959c54-ddae-4faa-a7a6-f66ec2cbcf50",
         "title": "Product Manager",
-        "active": true,
+        "active": false,
         "date_updated": 1778538061,
         "date_posted": 1778537249,
         "url": "https://menasha.wd12.myworkdayjobs.com/menashacorp/job/Oconomowoc-Wisconsin/Product-Manager_R13875",
@@ -307690,7 +307690,7 @@
         "company_name": "NVIDIA",
         "id": "f0787de2-a45a-4a88-b7b7-e0a12fb5e4a2",
         "title": "Power Architect New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1778538939,
         "date_posted": 1778537410,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Power-Architect---New-College-Grad-2026_JR2017842",
@@ -308354,7 +308354,7 @@
         "company_name": "Ohio State University",
         "id": "f13e5dad-dffc-459a-b9e7-4b56576235d4",
         "title": "Research Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1778594761,
         "date_posted": 1778594674,
         "url": "https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Columbus-Campus/Research-Technician_R150918-1",
@@ -308433,7 +308433,7 @@
         "company_name": "Northrop Grumman",
         "id": "fccb0266-d1bb-45fa-af7a-9e4566ecf2cc",
         "title": "Electronics Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1778709146,
         "date_posted": 1778623762,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Sykesville/Engineer-Electronics_R10232605",
@@ -309087,7 +309087,7 @@
         "company_name": "Geico",
         "id": "4a5b93d5-66ed-4d08-8227-aa1d5ba833d0",
         "title": "Business Systems Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1778709299,
         "date_posted": 1778623818,
         "url": "https://geico.wd1.myworkdayjobs.com/en-US/External/job/Bethesda-MD/RAD-Business-Systems-Analyst_R0063850-1",
@@ -310652,7 +310652,7 @@
         "company_name": "Ercot",
         "id": "165ce6ce-562f-4e6e-8f46-8a49ef64bd80",
         "title": "Market Operations Engineer/Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1778710157,
         "date_posted": 1778710022,
         "url": "https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Austin-TX/Market-Operations-Engineer-Analyst_R2269",
@@ -325329,5 +325329,282 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "e4acec21-33aa-4151-8d0e-50d06ea7b7d0",
+        "title": "CMOS Integrated Circuit CAD Engineer",
+        "active": true,
+        "date_updated": 1779821641,
+        "date_posted": 1779528786,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-GOLETA-B01--6825-Cortona-Dr--BLDG-B01/CMOS-Integrated-Circuit-CAD-Engineer_01844399",
+        "locations": [
+            "Goleta, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Micron Technology",
+        "id": "ee896d3f-bb7e-450d-bace-5e1068c1cfea",
+        "title": "Semiconductor Design Engineer",
+        "active": true,
+        "date_updated": 1779821821,
+        "date_posted": 1779530439,
+        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Semiconductor-Design-Engineer_JR101314",
+        "locations": [
+            "Richardson, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Micron-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Astreya",
+        "id": "df05af06-90a1-482e-8587-562fe399ff9e",
+        "title": "Software Engineer 1 - Junior Cloud AWS Engineer",
+        "active": true,
+        "date_updated": 1779822002,
+        "date_posted": 1779527621,
+        "url": "https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Oakland-CA/Software-Engineer-I--Junior-Cloud-AWS-Engineer-_R0015581",
+        "locations": [
+            "Oakland, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Astreya",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "City of Austin",
+        "id": "a0130ee4-3985-49d6-b441-2a75e994c581",
+        "title": "Graduate Engineer - Infrastructure Management - Austin Water",
+        "active": true,
+        "date_updated": 1779821641,
+        "date_posted": 1779527595,
+        "url": "https://austintexas.wd5.myworkdayjobs.com/COA_Careers/job/Waller-Creek-Center/Graduate-Engineer-A--Infrastructure-Management----Austin-Water_JR103799",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/City-Of-Austin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Wash U",
+        "id": "9e25a8aa-0f5c-4e37-9e6b-b2704ec085f0",
+        "title": "Postdoctoral Research Associate - Physics",
+        "active": true,
+        "date_updated": 1779830289,
+        "date_posted": 1779527682,
+        "url": "https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-Danforth-Campus/Postdoctoral-Research-Associate---Physics_JR94253",
+        "locations": [
+            "St. Louis, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Wash-U",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD",
+            "MD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SS&C",
+        "id": "80de3dfb-8c9d-4dee-b45f-1369785d220b",
+        "title": "CPQ Systems Engineer",
+        "active": true,
+        "date_updated": 1779821641,
+        "date_posted": 1778947012,
+        "url": "https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Jacksonville-FL/CPQ-Systems-Engineer_R43427",
+        "locations": [
+            "Jacksonville, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/SSC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cincinnati Children\u2019s Hospital and Medical Center",
+        "id": "3e34a949-3c9b-440d-9213-d1685661c310",
+        "title": "EMR Analyst 1 - Epic Patient Access",
+        "active": true,
+        "date_updated": 1779821821,
+        "date_posted": 1778945629,
+        "url": "https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Remote/EMR-Analyst-I---Epic-Patient-Access_JR221008-1",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cincinnati-Childrens-Hospital-And-Medical-Center",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Icon",
+        "id": "02331af7-97fc-46da-8335-95eed178f707",
+        "title": "Clinical Data Coordinator 2",
+        "active": true,
+        "date_updated": 1779821641,
+        "date_posted": 1778944180,
+        "url": "https://icon.wd3.myworkdayjobs.com/broadbean_external/job/UK-Livingston/Clinical-Data-Coordinator-II_JR151419",
+        "locations": [
+            "Livingston, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Icon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GlobalFoundries",
+        "id": "280ebc83-36c3-4600-8f49-557a96d05a01",
+        "title": "Senior Silicon Photonics Integration Engineer New Grad",
+        "active": true,
+        "date_updated": 1779821641,
+        "date_posted": 1778941276,
+        "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Sr-Silicon-Photonics-Integration-Engineer--2026-New-College-Graduate-_JR-2601744",
+        "locations": [
+            "Malta, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/GlobalFoundries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northrop Grumman",
+        "id": "741b9e32-11a2-401d-b434-386f06ad7aae",
+        "title": "Dimension Control Technician",
+        "active": true,
+        "date_updated": 1779821821,
+        "date_posted": 1778941782,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Clearfield/Dimension-Control-Technician-1-2--A-shift-_R10232724-1",
+        "locations": [
+            "Hill AFB, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Hologic",
+        "id": "bf4c59c7-655e-4ecf-b795-31bc060316e4",
+        "title": "Field Service Engineer",
+        "active": true,
+        "date_updated": 1779821821,
+        "date_posted": 1778623589,
+        "url": "https://ebwb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/11603",
+        "locations": [
+            "Tacoma, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Hologic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "GM financial",
+        "id": "5aa5f47e-e131-494f-80df-8a7fd663e35d",
+        "title": "Risk Statistician",
+        "active": true,
+        "date_updated": 1779822002,
+        "date_posted": 1778680968,
+        "url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260144",
+        "locations": [
+            "Fort Worth, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/GM-Financial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "JP Morgan Chase",
+        "id": "4fda3d37-6675-49c6-b466-ef3b433b7b64",
+        "title": "Portfolio & Performance Analysis",
+        "active": true,
+        "date_updated": 1779821641,
+        "date_posted": 1778508334,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210741215",
+        "locations": [
+            "Brooklyn, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "OneOncology",
+        "id": "32a9db8a-9224-41a1-843a-8b5ba57aa3f7",
+        "title": "Tech Analyst 1",
+        "active": true,
+        "date_updated": 1779821641,
+        "date_posted": 1778947308,
+        "url": "https://oneoncology.wd1.myworkdayjobs.com/OneOncology/job/Owings-Mills-MD/Tech-Analyst-I_R-0000021700",
+        "locations": [
+            "Owings Mills, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/OneOncology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
