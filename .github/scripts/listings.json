@@ -238856,7 +238856,7 @@
         "company_name": "Robert Bosch Venture Capital",
         "id": "6da32510-fa69-4006-9384-77f9878f49dd",
         "title": "Product Management Specialist - Diablo/Freud Tools",
-        "active": true,
+        "active": false,
         "date_updated": 1773757034,
         "date_posted": 1773757034,
         "url": "https://jobs.smartrecruiters.com/BoschGroup/744000114994315",
@@ -281149,7 +281149,7 @@
         "company_name": "GE Aerospace",
         "id": "7389b0e4-2f52-4316-b303-dc377b3ffe9b",
         "title": "Repair Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1776522961,
         "date_posted": 1776522841,
         "url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Cheltenham/Repair-Technician_R5019978",
@@ -323797,7 +323797,7 @@
         "company_name": "University of Maryland - College Park",
         "id": "7cd8d110-7c75-470e-8d65-dbc17f8a6017",
         "title": "Postdoctoral Associate - AI Security",
-        "active": true,
+        "active": false,
         "date_updated": 1779821462,
         "date_posted": 1778940747,
         "url": "https://umd.wd1.myworkdayjobs.com/UMCP/job/University-of-Maryland-College-Park/Postdoctoral-Associate---AI-Security_JR104051-1",
@@ -325897,7 +325897,7 @@
         "company_name": "Leidos",
         "id": "70b7fd95-246f-48f2-9401-337d4f57a0fe",
         "title": "Chinese Language-Enabled OSINT Collector - Junior",
-        "active": true,
+        "active": false,
         "date_updated": 1779822362,
         "date_posted": 1778941871,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Cape-Canaveral-FL/Chinese-Language-Enabled-OSINT-Collector--Junior-_R-00183337",
@@ -326134,7 +326134,7 @@
         "company_name": "Oregon State Government",
         "id": "86c378b8-e426-4878-9bae-c0666b465d5e",
         "title": "Information Architect",
-        "active": true,
+        "active": false,
         "date_updated": 1779822183,
         "date_posted": 1779529900,
         "url": "https://oregon.wd5.myworkdayjobs.com/sor_external_career_site/job/Salem--DAS--Print-Plant/Information-Architect--Information-Systems-Spec6-_REQ-199857",
@@ -326213,7 +326213,7 @@
         "company_name": "Honeywell",
         "id": "8e115768-416f-4ace-8670-7ddefcc5e987",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1779822541,
         "date_posted": 1778882744,
         "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/148391",
@@ -326390,7 +326390,7 @@
         "company_name": "Flex",
         "id": "6d5513a7-2bae-4bb4-b626-19a785a74edd",
         "title": "Debug Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1779822183,
         "date_posted": 1778943865,
         "url": "https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-UT-Salt-Lake-City/Debug-Technician-D-Shift_WD219906",
@@ -327843,5 +327843,69 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Apple",
+        "id": "707771fb-25df-4144-b1f3-3c16c3211429",
+        "title": "Software Engineer-SoC Level Validation Engineer",
+        "active": true,
+        "date_updated": 1779872941,
+        "date_posted": 1779872735,
+        "url": "https://jobs.apple.com/en-us/details/200665150",
+        "locations": [
+            "Beaverton, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Talan",
+        "id": "9fc6c059-860f-4cdb-a75f-b42441b405b7",
+        "title": "Junior AI & Data Consultant",
+        "active": true,
+        "date_updated": 1779872581,
+        "date_posted": 1779872574,
+        "url": "https://jobs.smartrecruiters.com/Talan/744000128669989",
+        "locations": [
+            "London, UK",
+            "Edinburgh, UK",
+            "Leeds, UK",
+            "Manchester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Talan",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Nexthop.ai",
+        "id": "84a411b9-578f-4361-b5d0-a31d455e5c60",
+        "title": "Packaging Engineer",
+        "active": true,
+        "date_updated": 1779873085,
+        "date_posted": 1775167778,
+        "url": "https://nexthopai.bamboohr.com/careers/84/",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Nexthopai",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
