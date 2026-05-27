@@ -309361,7 +309361,7 @@
         "company_name": "Smithfield Foods",
         "id": "d6d50717-972f-4ea9-b3e3-b9edfc06dddb",
         "title": "AI Enablement Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1778721088,
         "date_posted": 1778720817,
         "url": "https://smithfieldfoods.wd1.myworkdayjobs.com/Careers/job/Smithfield-VA/AI-Enablement-Analyst_R-2026-6355",
@@ -311063,7 +311063,7 @@
         "company_name": "OpenEye",
         "id": "a472ac52-6384-4a55-892f-5569bc9136c1",
         "title": "Software Engineer 2",
-        "active": true,
+        "active": false,
         "date_updated": 1778739442,
         "date_posted": 1778738901,
         "url": "https://job-boards.greenhouse.io/openeye/jobs/8549022002",
@@ -311083,7 +311083,7 @@
         "company_name": "SHI International ",
         "id": "2947db38-fb43-414f-b7c9-47c822d0cf92",
         "title": "Associate Analytics Engineer - Data & Visualization",
-        "active": true,
+        "active": false,
         "date_updated": 1778739121,
         "date_posted": 1778738776,
         "url": "https://shi.wd12.myworkdayjobs.com/shicareers/job/Austin-TX-USA/Associate-Analytics-Engineer---Data---Visualization_JR3060",
@@ -313485,7 +313485,7 @@
         "company_name": "Blue Shield of California",
         "id": "fdce2e24-1ce2-4cdb-b33c-fd0b50293bb5",
         "title": "Product Manager",
-        "active": true,
+        "active": false,
         "date_updated": 1778882761,
         "date_posted": 1778882621,
         "url": "https://ecge.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/20260937",
@@ -313849,7 +313849,7 @@
         "company_name": "Highbeam",
         "id": "957bb7da-d627-4606-944e-d5143851feff",
         "title": "AI Implementation Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1778883121,
         "date_posted": 1778882944,
         "url": "https://jobs.ashbyhq.com/highbeam/60b69921-b805-4a8d-a6ef-bba2a3aba05d/application",
@@ -314928,7 +314928,7 @@
         "company_name": "Applied Materials",
         "id": "9cafad48-b6a9-4421-a9fc-e18cc9bf6b5f",
         "title": "Global Product Support Engineer New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1779095810,
         "date_posted": 1779095533,
         "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Global-Product-Support--GPS--Engineer-New-College-Grad---Masters-Degree--Santa-Clara--CA-_R2619290",
@@ -315773,7 +315773,7 @@
         "company_name": "Lila Sciences",
         "id": "dcce3d04-41ab-4d64-b3d7-00f2e7d1d666",
         "title": "Machine Learning Scientist 1/2 - Scientific Reasoning",
-        "active": true,
+        "active": false,
         "date_updated": 1779153573,
         "date_posted": 1779153312,
         "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4031437009",
@@ -317018,7 +317018,7 @@
         "company_name": "RADAR",
         "id": "bec28b48-5646-40c6-90c2-baebddc538f7",
         "title": "Associate \u2013 Field Deployment Operations",
-        "active": true,
+        "active": false,
         "date_updated": 1779229801,
         "date_posted": 1778883373,
         "url": "https://job-boards.greenhouse.io/radar/jobs/7852303",
@@ -326440,6 +326440,277 @@
         "sponsorship": "Other",
         "degrees": [
             "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Vertiv",
+        "id": "4ec64008-39db-4675-be68-835c698b81d7",
+        "title": "Associate Firmware Engineer",
+        "active": true,
+        "date_updated": 1779862321,
+        "date_posted": 1779862042,
+        "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20272545",
+        "locations": [
+            "St. Louis, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Vertiv",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Methodist Le Bonheur ",
+        "id": "a24d7698-d6d9-4a5e-9668-789ac37820dd",
+        "title": "Program Evaluator 1",
+        "active": true,
+        "date_updated": 1779822541,
+        "date_posted": 1779613779,
+        "url": "https://methodisthealth.wd5.myworkdayjobs.com/en-US/MLH/job/Le-Bonheur---Community-Outreach/Program-Evaluator-I_R-17948",
+        "locations": [
+            "Memphis, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/Methodist-Le-Bonheur",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Apple",
+        "id": "83381644-0598-4581-a190-03dd59217ab6",
+        "title": "Commissions Analyst",
+        "active": true,
+        "date_updated": 1779823443,
+        "date_posted": 1779152872,
+        "url": "https://jobs.apple.com/en-us/details/200663076",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Colibri Group",
+        "id": "ca49d050-f451-4449-9a37-3c27a825d885",
+        "title": "Consumer Insights Analyst",
+        "active": true,
+        "date_updated": 1779831181,
+        "date_posted": 1779141983,
+        "url": "https://jobs.lever.co/colibrigroup/0acf635f-eb60-4d0f-8e38-fde673f4d191/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/ColibriGroup",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Boeing Company",
+        "id": "75f5cfec-2bd6-40e2-8622-a4724c94d1b1",
+        "title": "Flight Simulation Software Engineer Senior",
+        "active": true,
+        "date_updated": 1779822541,
+        "date_posted": 1779529236,
+        "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Daytona-Beach-FL/Flight-Simulation-Software-Engineer--Associate--Experienced--and-Senior-_JR2026510755",
+        "locations": [
+            "Daytona Beach, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Brown University Health",
+        "id": "87f9b61d-3a0a-45d2-834c-4df2eadf8853",
+        "title": "Financial Information Systems Analyst",
+        "active": true,
+        "date_updated": 1779822183,
+        "date_posted": 1778941731,
+        "url": "https://brownhealth.wd12.myworkdayjobs.com/External_Careers/job/Brown-University-Health/Financial-Information-Systems-Analyst_JR-109528",
+        "locations": [
+            "Providence, RI"
+        ],
+        "company_url": "https://simplify.jobs/c/Brown-University-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Aviva Investors",
+        "id": "40d550b2-4e4d-450c-b3ba-9bc3e0d1d16e",
+        "title": "Associate Economist/Strategist (Quantitative)",
+        "active": true,
+        "date_updated": 1779822183,
+        "date_posted": 1778941498,
+        "url": "https://aviva.wd1.myworkdayjobs.com/Aviva_Investors_External/job/London-UK/Economist-Strategist--Quantitative-_R-168637-3",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Aviva-Investors",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "87c80da6-c6fc-4bd0-9eb0-bc6b1155e713",
+        "title": "Software Engineer 2",
+        "active": true,
+        "date_updated": 1779819398,
+        "date_posted": 1779528628,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-North-Carolina-Morrisville/Software-Engineer---Level-2_R10230422",
+        "locations": [
+            "Morrisville, NC",
+            "Fairfax, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Maryland - College Park",
+        "id": "4641645a-64b2-482a-b036-921ffbc4173f",
+        "title": "Faculty Specialist",
+        "active": true,
+        "date_updated": 1779819842,
+        "date_posted": 1778940750,
+        "url": "https://umd.wd1.myworkdayjobs.com/UMCP/job/University-of-Maryland-College-Park/Faculty-Specialist_JR103974",
+        "locations": [
+            "Hyattsville, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Maryland-College-Park",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AMERICAN SYSTEMS",
+        "id": "73107f22-fa6e-4554-9375-2f50de8ae34d",
+        "title": "Service Desk Agent 1",
+        "active": true,
+        "date_updated": 1779822541,
+        "date_posted": 1778882728,
+        "url": "https://careers-americansystems.icims.com/jobs/4433/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Asheville, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/AMERICAN-SYSTEMS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "PhD",
+            "Associate's",
+            "JD",
+            "MD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Worldwide TechServices",
+        "id": "b1c64112-c23a-4e62-a783-274edfdc3506",
+        "title": "Dynamic Server Support",
+        "active": true,
+        "date_updated": 1779822183,
+        "date_posted": 1778796281,
+        "url": "https://jobs.smartrecruiters.com/WorldwideTechServices/744000126569996",
+        "locations": [
+            "East Syracuse, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Worldwide-TechServices",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Aviva",
+        "id": "2ad22ff5-b7a7-4dc9-bcdc-a0b71393a74d",
+        "title": "Associate Economist/Strategist (Quantitative)",
+        "active": true,
+        "date_updated": 1779822183,
+        "date_posted": 1778943048,
+        "url": "https://aviva.wd1.myworkdayjobs.com/External/job/London-UK/Economist-Strategist--Quantitative-_R-168637",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Aviva",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Sigma Computing",
+        "id": "f0c09f25-6461-4b5e-8bce-950aa917c086",
+        "title": "Software Engineer New Grad",
+        "active": true,
+        "date_updated": 1779862975,
+        "date_posted": 1775456189,
+        "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7690411003",
+        "locations": [
+            "SF",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Sigma-Computing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
