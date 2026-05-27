@@ -298597,7 +298597,7 @@
         "company_name": "Zone 5 Technologies",
         "id": "ab473ee5-6fc1-4616-9629-d7f6c4950bbc",
         "title": "Embedded Software Engineer 1/2",
-        "active": true,
+        "active": false,
         "date_updated": 1777934174,
         "date_posted": 1777932958,
         "url": "https://job-boards.greenhouse.io/zone5technologies/jobs/5209498008",
@@ -298802,7 +298802,7 @@
         "company_name": "Alegeus",
         "id": "2ec80d1e-a177-4634-9c80-6055147b175e",
         "title": "Application Support Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1777933714,
         "date_posted": 1777932608,
         "url": "https://alegeus.wd1.myworkdayjobs.com/en-US/Alegeus_External_Careers/job/Maitland/Application-Support-Engineer-I_R-101221",
@@ -298922,7 +298922,7 @@
         "company_name": "Allison Transmission",
         "id": "c92a1268-b562-444f-b040-ab7da66871d9",
         "title": "Test Cell Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1777932541,
         "date_posted": 1777932387,
         "url": "https://allisontransmission.wd1.myworkdayjobs.com/ATI-External/job/Indianapolis-IN/Test-Cell-Technician_R007626-1",
@@ -299485,7 +299485,7 @@
         "company_name": "NVIDIA",
         "id": "80d74961-722d-4792-ab7a-4f178e4e0e58",
         "title": "Power Methodology and Modeling Engineer New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1777972756,
         "date_posted": 1777972676,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/Power-Methodology-and-Modeling-Engineer---New-College-Grad-2026_JR2017486-1",
@@ -299785,7 +299785,7 @@
         "company_name": "Rogers Behavioral Health",
         "id": "866dfdeb-427f-40f5-9c92-cabe2dd6c658",
         "title": "Therapist \u2013 Child & Adolescent",
-        "active": true,
+        "active": false,
         "date_updated": 1778019153,
         "date_posted": 1778018743,
         "url": "https://rogersbh.wd1.myworkdayjobs.com/rbhcareer/job/St-Paul-Clinic-Woodbury-MN/Therapist---Child---Adolescent---PHP-IOP_R7031",
@@ -300067,7 +300067,7 @@
         "company_name": "Wash U",
         "id": "9db674ca-4748-455d-947b-36cda651481d",
         "title": "Portfolio Manager 1",
-        "active": true,
+        "active": false,
         "date_updated": 1778020354,
         "date_posted": 1778018779,
         "url": "https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-Medical-Campus/Portfolio-Manager-I--Hybrid----Office-of-Health-Information-and-Data-Science_JR94054",
@@ -300596,7 +300596,7 @@
         "company_name": "Savannah River National Laboratory",
         "id": "26c7ab03-9323-42e2-aa15-b1e39a9530b1",
         "title": "Dwight D. Eisenhower Postdoctoral Fellow",
-        "active": true,
+        "active": false,
         "date_updated": 1778018954,
         "date_posted": 1778018848,
         "url": "https://ewvl.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2094",
@@ -323508,5 +323508,84 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AT&T",
+        "id": "6a56129a-df25-40f7-bdc0-ca1743360df9",
+        "title": "Web Developer - Junior",
+        "active": true,
+        "date_updated": 1779820742,
+        "date_posted": 1779529683,
+        "url": "https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Columbia-Maryland/Web-Developer--Junior---SWE0---Government-_R-108786",
+        "locations": [
+            "Columbia, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/ATT",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Argonne National Laboratory",
+        "id": "7e3b7b02-c111-4a47-a3e9-0849ef441305",
+        "title": "Postdoctoral Appointee",
+        "active": true,
+        "date_updated": 1779820742,
+        "date_posted": 1779527956,
+        "url": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---Building-Agentic-AI-Platform-for-X-ray-Science_422711-1",
+        "locations": [
+            "Woodridge, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Argonne-National-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GlobalFoundries",
+        "id": "c604515a-5bec-4680-a4e0-dde8ed47cc92",
+        "title": "Photonics Packaging Characterization Engineer",
+        "active": true,
+        "date_updated": 1779820742,
+        "date_posted": 1779527780,
+        "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/Photonics-Packaging-Physical-Inspection-Characterization-Engineer_JR-2502052",
+        "locations": [
+            "Burlington, VT"
+        ],
+        "company_url": "https://simplify.jobs/c/GlobalFoundries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Worldwide TechServices",
+        "id": "f4d13692-27d5-46d3-abb1-e84fe0750e46",
+        "title": "Dynamic PC Support",
+        "active": true,
+        "date_updated": 1779830289,
+        "date_posted": 1778018668,
+        "url": "https://jobs.smartrecruiters.com/WorldwideTechServices/744000124665584",
+        "locations": [
+            "Binghamton, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Worldwide-TechServices",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
