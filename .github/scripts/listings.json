@@ -81303,7 +81303,7 @@
         "company_name": "CAE",
         "id": "43024f80-acac-4a96-bd62-dde45e459bb6",
         "title": "Simulator Technicians 1-4",
-        "active": true,
+        "active": false,
         "date_updated": 1764978246,
         "date_posted": 1764978246,
         "url": "https://cae.wd3.myworkdayjobs.com/career/job/Dallas/Pipelining-Project-Simulator-Technician_109574-1",
@@ -181374,7 +181374,7 @@
         "company_name": "CAE",
         "id": "3ccca4ee-060c-400f-8020-788d2b4b3d32",
         "title": "Simulator Technician 1",
-        "active": true,
+        "active": false,
         "date_updated": 1771544822,
         "date_posted": 1771544822,
         "url": "https://cae.wd3.myworkdayjobs.com/career/job/Orlando/Simulator-Technician-I_119502",
@@ -241192,7 +241192,7 @@
         "company_name": "Hitachi",
         "id": "38a1f1a9-1e97-4284-90ab-abae02639798",
         "title": "Digital R&D Engineer - Monitoring & Communications",
-        "active": false,
+        "active": true,
         "date_updated": 1774506840,
         "date_posted": 1774506840,
         "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Raleigh-North-Carolina-United-States/Digital-R-D-Engineer---Monitoring---Communications_R0120962",
@@ -241317,7 +241317,7 @@
         "company_name": "Smithfield Foods",
         "id": "3fa708f8-0bc9-414b-ac30-5e78572c2c1a",
         "title": "Associate R&D Technologist",
-        "active": true,
+        "active": false,
         "date_updated": 1774508140,
         "date_posted": 1774508140,
         "url": "https://smithfieldfoods.wd1.myworkdayjobs.com/Careers/job/Smithfield-VA/Associate-R-D-Technologist_R-2026-3114",
@@ -246065,7 +246065,7 @@
         "company_name": "University of Texas at Austin",
         "id": "41d690ba-a328-481e-87a4-a010f56e469d",
         "title": "Postdoctoral Fellow",
-        "active": true,
+        "active": false,
         "date_updated": 1774842442,
         "date_posted": 1774689321,
         "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Postdoctoral-Fellow_R_00009657",
@@ -275883,9 +275883,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1779872468,
+        "date_updated": 1776339462,
         "sponsorship": "Other",
-        "active": false,
+        "active": true,
         "degrees": [],
         "url": "https://genalyte.applytojob.com/apply/ms4az9EW8x/Software-Engineer-I",
         "company_name": "Genalyte",
@@ -292988,7 +292988,7 @@
         "company_name": "Flextronics International",
         "id": "1ca2f2c4-5076-4ba6-a4a2-14bf49e5b153",
         "title": "Engineering Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1777414633,
         "date_posted": 1777413978,
         "url": "https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-TX-Austin/Engineering-Technician_WD220057",
@@ -310393,7 +310393,7 @@
         "company_name": "Amentum",
         "id": "20e34829-e30f-421e-948f-82f054751e0b",
         "title": "Hardware Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1778708881,
         "date_posted": 1778623797,
         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Fredericksburg/Hardware-Engineer_R0160979",
@@ -311592,7 +311592,7 @@
         "company_name": "Teranet",
         "id": "3dfbfafd-5bfd-4770-b409-d21a66d6b0eb",
         "title": "Java/Angular Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1778796670,
         "date_posted": 1778796274,
         "url": "https://tera.wd3.myworkdayjobs.com/TERANET/job/Toronto/Java-Angular-Developer_R004735",
@@ -314445,7 +314445,7 @@
         "company_name": "GE Healthcare",
         "id": "253f1fe6-976c-42d7-abbc-001cbe2eb9f4",
         "title": "Field Service Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1778947875,
         "date_posted": 1778941881,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-I---Kansas_R4041188-1",
@@ -320284,7 +320284,7 @@
         "company_name": "Skild AI",
         "id": "202a8139-7039-4922-95f6-5f6bc8a1b560",
         "title": "Manufacturing Software Engineer - Manufacturing Test Systems",
-        "active": true,
+        "active": false,
         "date_updated": 1779430828,
         "date_posted": 1779430560,
         "url": "https://job-boards.greenhouse.io/skildai-careers/jobs/5228757008",
@@ -323837,7 +323837,7 @@
         "company_name": "RELX",
         "id": "04586f23-1136-434c-a144-0cfd0ebac701",
         "title": "Data Processor",
-        "active": true,
+        "active": false,
         "date_updated": 1779821462,
         "date_posted": 1778922914,
         "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/PHL-RE-Shared-Services-Manila/Data-Processor_R113103",
@@ -325474,7 +325474,7 @@
         "company_name": "Icon",
         "id": "02331af7-97fc-46da-8335-95eed178f707",
         "title": "Clinical Data Coordinator 2",
-        "active": true,
+        "active": false,
         "date_updated": 1779821641,
         "date_posted": 1778944180,
         "url": "https://icon.wd3.myworkdayjobs.com/broadbean_external/job/UK-Livingston/Clinical-Data-Coordinator-II_JR151419",
@@ -325714,7 +325714,7 @@
         "company_name": "Becton Dickinson",
         "id": "28a18512-60af-4cc9-ab28-4fd3b1054672",
         "title": "System Support Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1779822541,
         "date_posted": 1778941267,
         "url": "https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-MD---Sparks---39-Loveton-Circle/System-Support-Engineer-1_R-545832-1",
@@ -326612,7 +326612,7 @@
         "company_name": "University of Maryland - College Park",
         "id": "4641645a-64b2-482a-b036-921ffbc4173f",
         "title": "Faculty Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1779819842,
         "date_posted": 1778940750,
         "url": "https://umd.wd1.myworkdayjobs.com/UMCP/job/University-of-Maryland-College-Park/Faculty-Specialist_JR103974",
@@ -327686,6 +327686,160 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Harvey",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Sandstone Care",
+        "id": "30a99685-eb65-4fef-8b45-54647fa1d712",
+        "title": "Information Systems Operations Specialist",
+        "active": true,
+        "date_updated": 1779870498,
+        "date_posted": 1779488410,
+        "url": "https://job-boards.greenhouse.io/sandstonecare/jobs/7837444",
+        "locations": [
+            "Colorado Springs, CO",
+            "Denver, CO",
+            "Broomfield, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Sandstone-Care",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cogent Security",
+        "id": "8d7ac499-bac1-44bf-9d25-8c91248e94f3",
+        "title": "Cogent AI Fellow - Member of Technical Staff",
+        "active": true,
+        "date_updated": 1779826685,
+        "date_posted": 1779412092,
+        "url": "https://jobs.ashbyhq.com/cogent-security/e8314a0f-df06-40b6-9c56-3d97ea53f25a/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Cogent-Security",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Micron Technology",
+        "id": "4a0c6d66-ee8d-4d39-8911-102afd64ec97",
+        "title": "Computer Engineer - Central CAD",
+        "active": true,
+        "date_updated": 1779826685,
+        "date_posted": 1779412176,
+        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Computer-Engineer--Central-CAD_JR101208",
+        "locations": [
+            "Boise, ID"
+        ],
+        "company_url": "https://simplify.jobs/c/Micron-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Leidos",
+        "id": "414d4325-05da-43b8-8071-5cfb6fe89a91",
+        "title": "Enterprise Help Desk - Enterprise Help Desk - Tier 1",
+        "active": true,
+        "date_updated": 1779871209,
+        "date_posted": 1778942170,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Lorton-VA/Enterprise-Help-Desk--EHD--Tier-1_R-00179374",
+        "locations": [
+            "Occoquan Historic District, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Worldpay",
+        "id": "10b01aff-be43-474c-86e7-5fbd45dd8baa",
+        "title": "Business Insights & Intelligence Analyst",
+        "active": true,
+        "date_updated": 1779819398,
+        "date_posted": 1778946704,
+        "url": "https://worldpay.wd5.myworkdayjobs.com/Worldpay_External_Careers_Site/job/LONDON--UNITED-KINGDOM/Business-Insights---Intelligence-Analyst_JR0609447",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Worldpay",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Micron Technology",
+        "id": "30fa7a33-0352-4773-8bf9-dac295b216ab",
+        "title": "Product Yield Enhancement Engineer - Engineer - Pye",
+        "active": true,
+        "date_updated": 1779870827,
+        "date_posted": 1778945615,
+        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---ENGINEER---PYE_JR93485",
+        "locations": [
+            "Boise, ID"
+        ],
+        "company_url": "https://simplify.jobs/c/Micron-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Academy Sports + Outdoors",
+        "id": "2a498218-6391-42a5-af70-07aa98608c52",
+        "title": "Specialist Information Technology Application Support",
+        "active": true,
+        "date_updated": 1779870704,
+        "date_posted": 1778941125,
+        "url": "https://academy.wd1.myworkdayjobs.com/careers/job/Headquarters---Katy-TX/Specialist-IT-Application-Support_R328571",
+        "locations": [
+            "Katy, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Academy-Sports-Plus-Outdoors",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Fidelity Investments",
+        "id": "39298554-9cec-4526-a786-6662256e5191",
+        "title": "Fixed Income Research Associate",
+        "active": true,
+        "date_updated": 1779871058,
+        "date_posted": 1778946133,
+        "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/Merrimack-NH/Fixed-Income-Research-Associate_2126679-2",
+        "locations": [
+            "Merrimack, NH"
+        ],
+        "company_url": "https://simplify.jobs/c/Fidelity-Investments",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
