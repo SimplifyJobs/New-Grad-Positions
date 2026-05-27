@@ -1,23 +1,5 @@
 [
     {
-        "date_updated": 1759167333,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
-        "degrees": [],
-        "url": "https://careers-peraton.icims.com/jobs/160168/software-engineering%2c-associate/job",
-        "company_name": "Peraton",
-        "title": "Software Engineering, Associate",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "be56e076-3f0f-4008-84c3-66566e20b1de",
-        "date_posted": 1759116323,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
         "source": "Simplify",
         "category": "Software",
         "company_name": "McDonald's",
@@ -305805,7 +305787,7 @@
         "company_name": "Unity",
         "id": "7b73b851-387c-4570-9383-e19114557731",
         "title": "Machine Learning Engineer New Grad - Offline Infrastructure",
-        "active": true,
+        "active": false,
         "date_updated": 1778278307,
         "date_posted": 1778277927,
         "url": "https://boards.greenhouse.io/embed/job_app?token=7902260",
@@ -308490,7 +308472,7 @@
         "company_name": "University Corporation for Atmospheric Research",
         "id": "0780ca89-2761-471f-8a82-c6902af58eed",
         "title": "COMET Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1778708358,
         "date_posted": 1778623498,
         "url": "https://ucar.wd5.myworkdayjobs.com/UCAR_Careers/job/Boulder-CO/COMET-Engineer-I_REQ-2026-64-1",
@@ -308652,7 +308634,7 @@
         "company_name": "The Toro Company",
         "id": "6fd37a04-1498-4e4a-9f1d-802d839c3a11",
         "title": "Product Associate/Product Manager 1 - Golf and Grounds Equipment - The Toro Company",
-        "active": true,
+        "active": false,
         "date_updated": 1778709535,
         "date_posted": 1778634333,
         "url": "https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/Product-Associate-Product-Manager-I---Golf-and-Grounds-Equipment---The-Toro-Company_JR16116",
@@ -309069,7 +309051,7 @@
         "company_name": "Invisible Technologies",
         "id": "d499b3a6-33e5-437d-81b6-7865a521fb5c",
         "title": "AI Training Generalist - AI Trainer",
-        "active": true,
+        "active": false,
         "date_updated": 1778708881,
         "date_posted": 1778624069,
         "url": "https://job-boards.eu.greenhouse.io/agency/jobs/4864009101",
@@ -309087,7 +309069,7 @@
         "company_name": "Invisible Technologies",
         "id": "62e6a96c-a6b4-455c-bacc-5b38f3055835",
         "title": "AI Training Generalist - AI Trainer",
-        "active": true,
+        "active": false,
         "date_updated": 1778708881,
         "date_posted": 1778624070,
         "url": "https://job-boards.eu.greenhouse.io/agency/jobs/4864005101",
@@ -309266,7 +309248,7 @@
         "company_name": "Invisible Technologies",
         "id": "09f496fd-4d6c-4303-b7a4-3bfde89cceb5",
         "title": "AI Training Generalist - AI Trainer",
-        "active": true,
+        "active": false,
         "date_updated": 1778708881,
         "date_posted": 1778624069,
         "url": "https://job-boards.eu.greenhouse.io/agency/jobs/4864014101",
@@ -309865,7 +309847,7 @@
         "company_name": "Wells Fargo",
         "id": "754de1f3-7fc7-4b7a-bd26-f87ecbb7fa64",
         "title": "Engineering Associate - Enterprise Integration & Messaging",
-        "active": true,
+        "active": false,
         "date_updated": 1778708881,
         "date_posted": 1778623828,
         "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/MINNEAPOLIS-MN/Engineering-Associate---Enterprise-Integration---Messaging_R-545322",
@@ -310750,7 +310732,7 @@
         "company_name": "Invisible Technologies",
         "id": "a8b5504a-512d-4d60-8f56-678649f3b549",
         "title": "AI Training Generalist - AI Trainer",
-        "active": true,
+        "active": false,
         "date_updated": 1778708881,
         "date_posted": 1778624069,
         "url": "https://job-boards.eu.greenhouse.io/agency/jobs/4864010101",
@@ -310915,7 +310897,7 @@
         "company_name": "Bank of America",
         "id": "f7018c6c-93fa-46ad-9f11-cdf881e73628",
         "title": "Treasury Product Manager 1",
-        "active": true,
+        "active": false,
         "date_updated": 1778708497,
         "date_posted": 1778623561,
         "url": "https://ghr.wd1.myworkdayjobs.com/us-emplsv/job/New-York/Treasury-Product-Manager-I_26016621",
@@ -316310,7 +316292,7 @@
         "company_name": "GE Healthcare",
         "id": "bed67ab5-2e1a-43e0-8dcf-f6cf112bd57a",
         "title": "Graduate Services Trainee",
-        "active": true,
+        "active": false,
         "date_updated": 1779184081,
         "date_posted": 1778941926,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Graduate-Services-Trainee_R4041158-1",
@@ -317410,7 +317392,7 @@
         "company_name": "Manulife Financial",
         "id": "be215c19-96ea-4dc1-ba55-5ff0c97fdf68",
         "title": "Associate AI Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1779257161,
         "date_posted": 1779257110,
         "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Boston-Massachusetts/Associate-AI-Engineer_JR26050435-1",
@@ -322488,7 +322470,7 @@
         "company_name": "Amentum",
         "id": "24d789a7-8225-4610-b78d-429488a0edf7",
         "title": "Crime Gun Intelligence Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1779831181,
         "date_posted": 1779113430,
         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-OK-Oklahoma-City/Crime-Gun-Intelligence-Specialist_R0161545",
@@ -324752,6 +324734,265 @@
             "San Jose, CA"
         ],
         "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Procter & Gamble (P&G)",
+        "id": "eeba175d-3526-4bf8-b6e7-ea05b176a75e",
+        "title": "Technical Sales Analyst",
+        "active": true,
+        "date_updated": 1779821462,
+        "date_posted": 1779529008,
+        "url": "https://pg.wd5.myworkdayjobs.com/1000/job/TORONTO-GO/Technical-Sales-Analyst-Analyste-commercial-technique_R000151154",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Procter-Gamble-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Micron Technology",
+        "id": "bf72f780-65a3-459a-97e3-03458efba93b",
+        "title": "NAND Generators Engineer",
+        "active": true,
+        "date_updated": 1779822002,
+        "date_posted": 1779531526,
+        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Engineer---NAND-Generators_JR101172",
+        "locations": [
+            "Boise, ID"
+        ],
+        "company_url": "https://simplify.jobs/c/Micron-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Bank of America",
+        "id": "ec5b7322-8ff9-45e1-b952-52de7d75fa4b",
+        "title": "Customer Segment Consultant 1",
+        "active": true,
+        "date_updated": 1779821821,
+        "date_posted": 1779527946,
+        "url": "https://ghr.wd1.myworkdayjobs.com/us-emplsv/job/Charlotte/Customer-Segment-Consultant-I_26016639",
+        "locations": [
+            "Charlotte, NC",
+            "Fort Worth, TX",
+            "Atlanta, GA",
+            "Lawrence Township, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Bank-Of-America",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "RTX",
+        "id": "f036e879-3bbc-4d88-9833-494cf9452f96",
+        "title": "Intelligence Analyst",
+        "active": true,
+        "date_updated": 1779821462,
+        "date_posted": 1778945377,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-BUCKLEY-SFB-CUST--18500-E-6th-Ave--BUCKLEY-SFB-External-Site/Intelligence-Analyst_01843787",
+        "locations": [
+            "Westminster, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "William & Mary",
+        "id": "a4f704cd-ee50-4deb-b87b-16b75ded4519",
+        "title": "Data Specialist",
+        "active": true,
+        "date_updated": 1779822002,
+        "date_posted": 1778940958,
+        "url": "https://williammary.wd12.myworkdayjobs.com/WM/job/Posting-Location---William--Mary/Data-Specialist_JR101693",
+        "locations": [
+            "Williamsburg, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/William-And-Mary",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Duke University",
+        "id": "fd03da5a-a70b-427f-a6de-180422cf49a8",
+        "title": "Postdoctoral Associate",
+        "active": true,
+        "date_updated": 1779821821,
+        "date_posted": 1778922188,
+        "url": "https://careers.duke.edu/job/Durham-POSTDOCTORAL-ASSOCIATE-NC-27710/1354674200/?ats=successfactors",
+        "locations": [
+            "Durham, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Duke-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Knowledge Services",
+        "id": "c37b33d3-9fd4-4aa4-99ea-bb9833aab3a9",
+        "title": "Program Support Representative - Customer Service & Data Management",
+        "active": true,
+        "date_updated": 1779821462,
+        "date_posted": 1778709999,
+        "url": "https://careers-knowledgeservices.icims.com/jobs/30617/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Knowledge-Services",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Worldwide TechServices",
+        "id": "0407f758-05a7-42dc-bcb0-57152093c678",
+        "title": "Dynamic Server Support",
+        "active": true,
+        "date_updated": 1779822002,
+        "date_posted": 1778709878,
+        "url": "https://jobs.smartrecruiters.com/WorldwideTechServices/744000126327529",
+        "locations": [
+            "Bristol, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Worldwide-TechServices",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Hologic",
+        "id": "445cf9b2-0d75-423b-8237-3b49b9cac989",
+        "title": "Field Service Engineer",
+        "active": true,
+        "date_updated": 1779822002,
+        "date_posted": 1778681081,
+        "url": "https://ebwb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/11654",
+        "locations": [
+            "St Cloud, MN",
+            "Minneapolis, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Hologic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "General Dynamics",
+        "id": "5fcf0631-072b-4a8c-a512-2a142ea75be9",
+        "title": "NDT Technician 1",
+        "active": true,
+        "date_updated": 1779822002,
+        "date_posted": 1778681244,
+        "url": "https://careers-gd-ots.icims.com/jobs/35618/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "El Dorado, AR"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Jefferies",
+        "id": "71f804f1-c197-423f-a0e1-2af9ad408a51",
+        "title": "Equity Cash Trading Analyst - Sales Trading Desk Support",
+        "active": true,
+        "date_updated": 1779822002,
+        "date_posted": 1778681241,
+        "url": "https://hdid.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4290",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Jefferies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "May Mobility",
+        "id": "ec759cf1-5f3d-43b3-9644-a80046fd7aae",
+        "title": "Site Autonomy Engineer",
+        "active": true,
+        "date_updated": 1779821462,
+        "date_posted": 1778278262,
+        "url": "https://job-boards.greenhouse.io/maymobility/jobs/8539969002",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/May-Mobility",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Rochester",
+        "id": "351c387c-87bc-4cf3-9313-d19af2051307",
+        "title": "Data Analyst 1 - Ambulatory Pharmacy Operations",
+        "active": true,
+        "date_updated": 1779821462,
+        "date_posted": 1778945938,
+        "url": "https://rochester.wd5.myworkdayjobs.com/UR_Staff/job/Strong-Memorial-Hospital/Data-Analyst-I---Ambulatory-Pharmacy-Operations_R271054-1",
+        "locations": [
+            "Rochester, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Rochester",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
