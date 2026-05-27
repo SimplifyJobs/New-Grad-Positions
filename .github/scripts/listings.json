@@ -196291,7 +196291,7 @@
         "company_name": "Morningstar",
         "id": "83990d3b-55ea-4932-9faa-a0eac9fe47b1",
         "title": "Associate Software Engineer - Credit Tech",
-        "active": false,
+        "active": true,
         "date_updated": 1772148522,
         "date_posted": 1772148522,
         "url": "https://morningstar.wd5.myworkdayjobs.com/Americas/job/Chicago/Associate-Software-Engineer--Credit-Tech_AP-23077420-1",
@@ -318219,7 +318219,7 @@
         "company_name": "Wells Fargo",
         "id": "c28a1baa-646f-4da1-8eb8-9f9e1f8fa9e1",
         "title": "Securities Product Management Analyst - Origination & Execution",
-        "active": true,
+        "active": false,
         "date_updated": 1779315841,
         "date_posted": 1779315061,
         "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/NEW-YORK-NY/Securities-Product-Management-Analyst--Origination---Execution_R-545505",
@@ -320223,7 +320223,7 @@
         "company_name": "Axon",
         "id": "4225efca-e688-4d91-a985-5714ee8bd2ec",
         "title": "Artificial Intelligence Scientist 1",
-        "active": true,
+        "active": false,
         "date_updated": 1779413689,
         "date_posted": 1779412737,
         "url": "https://job-boards.greenhouse.io/axon/jobs/7746492003",
@@ -320946,7 +320946,7 @@
         "company_name": "The Boeing Company",
         "id": "89d07d15-34a5-4214-98f7-9962b0168576",
         "title": "Hardware Subsystems Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1779487934,
         "date_posted": 1779487879,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Hardware-Subsystems-Engineer----Associate-or-Experienced-_JR2026510994-1",
@@ -321563,7 +321563,7 @@
         "company_name": "The Boeing Company",
         "id": "820cf6be-085d-44ab-ac30-1dad99b3fc92",
         "title": "Software Developer \u2013 Associate or Mid-Level",
-        "active": true,
+        "active": false,
         "date_updated": 1779531121,
         "date_posted": 1779530249,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seattle-WA/Software-Developer--Associate-or-Mid-Level-_JR2026510316-1",
@@ -323199,7 +323199,7 @@
         "company_name": "Butternut Box",
         "id": "3a232e0c-567d-48ff-9df2-266960c4d76b",
         "title": "Sustainability Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1779836655,
         "date_posted": 1777415004,
         "url": "https://job-boards.greenhouse.io/butternutbox/jobs/8527367002",
@@ -325796,7 +325796,7 @@
         "company_name": "Leidos",
         "id": "9090d49e-e3a4-442c-8ce4-bbff025bdd6b",
         "title": "Spanish Language-Enabled OSINT Collector - Junior",
-        "active": true,
+        "active": false,
         "date_updated": 1779822362,
         "date_posted": 1779528201,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Cape-Canaveral-FL/Spanish-Language-Enabled-OSINT-Collector--Junior-_R-00183347",
@@ -328620,6 +328620,132 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Microchip Technology",
+        "id": "a1d874c5-b901-4265-91ae-4fc20b3c2c6a",
+        "title": "Engineer 1 - Software Edge AI",
+        "active": true,
+        "date_updated": 1779844333,
+        "date_posted": 1779843994,
+        "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/AZ---Chandler/Engineer-I--Software-Edge-AI_R1459-26",
+        "locations": [
+            "Chandler, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Microchip-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SpaceX",
+        "id": "f882cdb9-df98-4ee6-a167-e778ea4c4a50",
+        "title": "Software Engineer - Flight Software - Starship",
+        "active": true,
+        "date_updated": 1779834772,
+        "date_posted": 1779487816,
+        "url": "https://boards.greenhouse.io/spacex/jobs/8562284002",
+        "locations": [
+            "Texas"
+        ],
+        "company_url": "https://simplify.jobs/c/SpaceX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Micron Technology",
+        "id": "365f7829-2933-4885-8f42-4510cd438d00",
+        "title": "Computer Engineer - Central CAD",
+        "active": true,
+        "date_updated": 1779828668,
+        "date_posted": 1779487838,
+        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Computer-Engineer--Central-CAD_JR101205",
+        "locations": [
+            "Boise, ID"
+        ],
+        "company_url": "https://simplify.jobs/c/Micron-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Micron Technology",
+        "id": "58f96318-f987-42ed-941b-6bd0d01646ac",
+        "title": "Computer Engineer - Central CAD",
+        "active": true,
+        "date_updated": 1779837662,
+        "date_posted": 1779487838,
+        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Computer-Engineer--Central-CAD_JR101207",
+        "locations": [
+            "Boise, ID",
+            "Richardson, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Micron-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "FHLBank Chicago",
+        "id": "b4a6d89a-f848-4e2e-bd95-1bffe9897bbb",
+        "title": "Market Risk Analyst",
+        "active": true,
+        "date_updated": 1779825962,
+        "date_posted": 1779529110,
+        "url": "https://fhlbc.wd1.myworkdayjobs.com/search/job/Chicago/Market-Risk-Analyst_R2600236",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/e65bca86-ee8e-4604-8b58-64e20a3b9f39",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Leidos",
+        "id": "4487e744-9fe5-4ec3-8974-45e80eb8313c",
+        "title": "Service Desk Tier 1 Technician",
+        "active": true,
+        "date_updated": 1779871360,
+        "date_posted": 1778943230,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Norfolk-VA/SMIT-Service-Desk-Tier-1-Technican_R-00176498",
+        "locations": [
+            "Norfolk, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "PhD",
+            "Associate's"
         ]
     }
 ]
