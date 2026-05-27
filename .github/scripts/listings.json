@@ -297219,7 +297219,7 @@
         "company_name": "Caterpillar Inc.",
         "id": "85e6f6fe-aeea-48db-9a49-63aa8406a69a",
         "title": "Ecommerce Marketing Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1777674241,
         "date_posted": 1777673350,
         "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chicago-Illinois/eCommerce-Marketing-Analyst_R0000367665",
@@ -297682,7 +297682,7 @@
         "company_name": "Cummins",
         "id": "c4104d08-4ae9-432f-ae1f-adcec9e6eab4",
         "title": "Product Functional Test Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1777674465,
         "date_posted": 1777673095,
         "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2428654",
@@ -297722,7 +297722,7 @@
         "company_name": "NVIDIA",
         "id": "ae5192ab-5b33-474f-b52a-660a64e80529",
         "title": "GPU Power Architect New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1777684501,
         "date_posted": 1777684077,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/GPU-Power-Architect---New-College-Grad-2026_JR2017169",
@@ -298257,7 +298257,7 @@
         "company_name": "Bellese",
         "id": "3efbdba5-d183-4279-8fba-d927c06b95e4",
         "title": "Product Manager 1",
-        "active": true,
+        "active": false,
         "date_updated": 1777904002,
         "date_posted": 1777903670,
         "url": "https://jobs.lever.co/bellese/b2a74141-b7dd-4fc3-ab98-21221bce86d8/apply",
@@ -298557,7 +298557,7 @@
         "company_name": "Texas A&M University - Corpus Christi",
         "id": "9aa5eb77-429d-4929-b379-a719bda20010",
         "title": "Postdoctoral Research Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1777932361,
         "date_posted": 1777932289,
         "url": "https://tamus.wd1.myworkdayjobs.com/TAMUCC_External/job/Corpus-Christi-TX/Postdoctoral-Research-Associate_R-092832-1",
@@ -299024,7 +299024,7 @@
         "company_name": "EOS IT Solutions",
         "id": "9ca29589-530f-452b-9fe7-fb31207843b8",
         "title": "Data Center Repair Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1777933441,
         "date_posted": 1777932678,
         "url": "https://eosits.com/company/careers/?gh_jid=8527251002",
@@ -299045,7 +299045,7 @@
         "company_name": "Texas A&M University System",
         "id": "2120003e-9ed2-4c4f-9c59-b553b7378a23",
         "title": "Postdoctoral Research Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1777932541,
         "date_posted": 1777932445,
         "url": "https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/Corpus-Christi-TX/Postdoctoral-Research-Associate_R-092832",
@@ -299085,7 +299085,7 @@
         "company_name": "AMERICAN SYSTEMS",
         "id": "2d6875ea-83f7-4be7-b4c7-e6677cd3d295",
         "title": "Data Engineer - Junior",
-        "active": true,
+        "active": false,
         "date_updated": 1777932361,
         "date_posted": 1777932326,
         "url": "https://careers-americansystems.icims.com/jobs/4391/job?mobile=true&needsRedirect=false",
@@ -299228,7 +299228,7 @@
         "company_name": "Austal USA",
         "id": "ba5c8d2b-8f1b-4f39-80d8-d0ed13d26175",
         "title": "Test & Activation Specialist 1",
-        "active": true,
+        "active": false,
         "date_updated": 1777943522,
         "date_posted": 1777943207,
         "url": "https://austalusa.wd1.myworkdayjobs.com/austal/job/Mobile-AL/Test---Activation-Specialist-I_R0011588",
@@ -299264,7 +299264,7 @@
         "company_name": "Franklin Electric",
         "id": "0d638ae9-0d20-4d99-8188-21e6946615d5",
         "title": "Global Associate Product Manager - Dispensing Systems - Energy Systems",
-        "active": true,
+        "active": false,
         "date_updated": 1777943341,
         "date_posted": 1777943270,
         "url": "https://franklin-electric.pinpointhq.com/en/postings/f8d6b3e3-45a5-478f-ab6e-87ce4d643cdc?ats=pinpointhq",
@@ -312997,7 +312997,7 @@
         "company_name": "Plaid",
         "id": "26165d4b-d34c-4fed-9e8b-ac9fa05e2dad",
         "title": "Product Manager",
-        "active": true,
+        "active": false,
         "date_updated": 1778833261,
         "date_posted": 1777943266,
         "url": "https://jobs.ashbyhq.com/plaid/64642463-8ee8-4453-b166-449711f61cd0/application",
@@ -323405,6 +323405,104 @@
             "Dallas, TX"
         ],
         "company_url": "https://simplify.jobs/c/UT-Southwestern-Medical-Center",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CoverMyMeds",
+        "id": "a6c2c8d6-f876-4bd0-97f0-01532923edf1",
+        "title": "Software Engineer - JavaScript / Ruby / Elixir",
+        "active": true,
+        "date_updated": 1779820562,
+        "date_posted": 1779530056,
+        "url": "https://mckesson.wd3.myworkdayjobs.com/en-US/CoverMyMeds_External_Careers/job/USA-OH-Columbus/Software-Engineer--JavaScript---Ruby---Elixir-_JR0146101-1",
+        "locations": [
+            "Columbus, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/0f20d154-09f4-4bfa-b243-096a97d94180",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "JP Morgan Chase",
+        "id": "c154ef99-a303-453d-a05f-36eece7cb1ca",
+        "title": "Global Credit Exotics Trading - Credit Exotics Trader - Analyst or Associate",
+        "active": true,
+        "date_updated": 1779820742,
+        "date_posted": 1777989921,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210743938",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Miami",
+        "id": "40941787-3b64-4d01-823b-25e2b6aee563",
+        "title": "Healthcare Risk Management Specialist",
+        "active": true,
+        "date_updated": 1779820742,
+        "date_posted": 1778941578,
+        "url": "https://umiami.wd1.myworkdayjobs.com/UMCareerStaff/job/Miami-FL/Healthcare-Risk-Management-Specialist_R100096906",
+        "locations": [
+            "Miami, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Miami",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AMERICAN SYSTEMS",
+        "id": "36d3eef8-d531-4228-99e0-1f3612bdac59",
+        "title": "Linux Systems Administrator 1",
+        "active": true,
+        "date_updated": 1779830289,
+        "date_posted": 1777673116,
+        "url": "https://careers-americansystems.icims.com/jobs/4382/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/AMERICAN-SYSTEMS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AMERICAN SYSTEMS",
+        "id": "5347f6fc-3947-4965-a851-4634900e00ca",
+        "title": "Linux Systems Administrator 1",
+        "active": true,
+        "date_updated": 1779820562,
+        "date_posted": 1777673116,
+        "url": "https://careers-americansystems.icims.com/jobs/4381/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Billings, MT"
+        ],
+        "company_url": "https://simplify.jobs/c/AMERICAN-SYSTEMS",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
