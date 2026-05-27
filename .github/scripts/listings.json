@@ -58221,7 +58221,7 @@
         "company_name": "Ciena",
         "id": "0e80c2d8-cc0f-46a5-8389-6434de3b8f0d",
         "title": "Photonic Hardware Engineer \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1763512947,
         "date_posted": 1763512947,
         "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Photonic-Hardware-Engineer--NEW-GRAD-_R029485",
@@ -116775,7 +116775,7 @@
         "company_name": "Onto Innovation",
         "id": "19632ce7-f774-4901-9036-22cde8c115e3",
         "title": "Field Service Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1767899957,
         "date_posted": 1767899957,
         "url": "https://onto.wd1.myworkdayjobs.com/onto_careers/job/Milpitas-CA/Field-Service-Engineer-1--Non-Exempt-_R-5173",
@@ -219172,7 +219172,7 @@
         "company_name": "Busuu",
         "id": "0b3c511b-e92c-4133-b579-fdcc5ad9a983",
         "title": "Data Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773307001,
         "date_posted": 1773307001,
         "url": "https://osv-chegg.wd5.myworkdayjobs.com/en-US/Busuu/job/London---Busuu/Data-Engineer_R5099",
@@ -330553,6 +330553,26 @@
             "Savannah, GA"
         ],
         "company_url": "https://simplify.jobs/c/BTI-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "McDonald's",
+        "id": "6a3c013b-9b7d-42f4-9de4-e1064c13e339",
+        "title": "Software Engineer 1 - iOS",
+        "active": true,
+        "date_updated": 1763233120,
+        "date_posted": 1763233120,
+        "url": "https://jobs.mcdonalds.com/job/Chicago-Software-Engineer-I-iOS-IL-60607/1322170500/?ats=successfactors",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/McDonald",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
