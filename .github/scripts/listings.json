@@ -266098,7 +266098,7 @@
         "company_name": "Mattel",
         "id": "7ef9aa06-16ee-4765-a876-437e7b9bc2b0",
         "title": "Associate Packaging Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1775785501,
         "date_posted": 1775783153,
         "url": "https://jobs.smartrecruiters.com/MattelInc/744000119712147",
@@ -268524,7 +268524,7 @@
         "company_name": "KLA",
         "id": "b55c1aa5-0f89-4a8c-8412-6cf0015ee0c0",
         "title": "Staff Optical Engineer - E",
-        "active": false,
+        "active": true,
         "date_updated": 1775918038,
         "date_posted": 1775901059,
         "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Staff-Optical-Engineer_2217727",
@@ -284722,7 +284722,7 @@
         "company_name": "L3Harris Technologies",
         "id": "5f74e686-6810-4482-8f85-18b30012e11c",
         "title": "Associate \u2013 Application Development",
-        "active": true,
+        "active": false,
         "date_updated": 1776780721,
         "date_posted": 1776780695,
         "url": "https://jobs.l3harris.com/job/Greenville-Associate,-Application-Development-TX-75402/1384093800/?ats=successfactors",
@@ -298946,7 +298946,7 @@
         "company_name": "RTX",
         "id": "9947b1d0-46d1-4aee-bdf3-f9122df0503b",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1777933929,
         "date_posted": 1777932676,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-401--401-Jan-Davis-Dr-NW--JAN-DAVIS-401/XMLNAME-2026--Raytheon-Full-Time--Software-Engineer-I---Onsite-_01842968",
@@ -323199,7 +323199,7 @@
         "company_name": "Butternut Box",
         "id": "3a232e0c-567d-48ff-9df2-266960c4d76b",
         "title": "Sustainability Specialist",
-        "active": false,
+        "active": true,
         "date_updated": 1779836655,
         "date_posted": 1777415004,
         "url": "https://job-boards.greenhouse.io/butternutbox/jobs/8527367002",
@@ -324494,7 +324494,7 @@
         "company_name": "Marsh",
         "id": "ef80aaf9-fdce-43f3-89ba-2a1ab3bdd925",
         "title": "Researcher - Antitrust and Competition",
-        "active": true,
+        "active": false,
         "date_updated": 1779844619,
         "date_posted": 1778940337,
         "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/New-York---1166/NERA-Researcher---Antitrust-and-Competition--NYC-or-Washington--DC-_R_350346-1",
@@ -327696,7 +327696,7 @@
         "company_name": "Sandstone Care",
         "id": "30a99685-eb65-4fef-8b45-54647fa1d712",
         "title": "Information Systems Operations Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1779870498,
         "date_posted": 1779488410,
         "url": "https://job-boards.greenhouse.io/sandstonecare/jobs/7837444",
@@ -328921,7 +328921,7 @@
         "company_name": "Graphcore",
         "id": "526f266e-82c2-4c15-8a6c-7a197999e2e4",
         "title": "Electronics Laboratory Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1779873181,
         "date_posted": 1778076424,
         "url": "https://job-boards.greenhouse.io/graphcore/jobs/8537160002",
@@ -328952,5 +328952,147 @@
         "degrees": [
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CLEAResult",
+        "id": "f3ffbfcb-5271-4296-9692-b94ba9568063",
+        "title": "Software Developer",
+        "active": true,
+        "date_updated": 1779891136,
+        "date_posted": 1779890739,
+        "url": "https://clearesult.wd1.myworkdayjobs.com/CLEAResult_External_Careers/job/Remote---Arizona/Software-Developer_R0017488-1",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/CLEAResult",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "JP Morgan Chase",
+        "id": "04eb1ad5-fb34-455a-807a-c03838485579",
+        "title": "Country Risk Analytics Data Scientist Associate",
+        "active": true,
+        "date_updated": 1779891743,
+        "date_posted": 1779890680,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210741279",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "The Aerospace Corporation",
+        "id": "e52a1da9-d3df-4a81-920d-625a21cfa054",
+        "title": "Research Associate - Non-Destructive Evaluation",
+        "active": true,
+        "date_updated": 1779890875,
+        "date_posted": 1779890759,
+        "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2026-Research-Associate---Non-Destructive-Evaluation--NDE-_R014941",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Aerospace-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Apex Fintech Solutions",
+        "id": "bf0d1170-646e-4e37-964b-d71ea83a52ea",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1779890761,
+        "date_posted": 1779890672,
+        "url": "https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions/job/Chicago-IL/Data-Analyst_JR104805",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Apex-Fintech-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Talan",
+        "id": "0f527c8e-2499-49ec-b591-b629ff50a6e5",
+        "title": "Junior AI & Data Consultant",
+        "active": true,
+        "date_updated": 1779890761,
+        "date_posted": 1779890684,
+        "url": "https://jobs.smartrecruiters.com/Talan/744000128710379",
+        "locations": [
+            "London, UK",
+            "Edinburgh, UK",
+            "Leeds, UK",
+            "Manchester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Talan",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Hologic",
+        "id": "de9372dc-6b57-4334-8720-c1e9488a28df",
+        "title": "Field Service Representative",
+        "active": true,
+        "date_updated": 1779837662,
+        "date_posted": 1779833118,
+        "url": "https://ebwb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/11737",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Hologic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Worldwide TechServices",
+        "id": "3527e449-a09c-47ac-850d-b7aa8557d0b4",
+        "title": "Dynamic PC Support",
+        "active": true,
+        "date_updated": 1779835502,
+        "date_posted": 1779833093,
+        "url": "https://jobs.smartrecruiters.com/WorldwideTechServices/744000128518604",
+        "locations": [
+            "Kent, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Worldwide-TechServices",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
