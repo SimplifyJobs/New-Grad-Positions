@@ -7,7 +7,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 ---
 ### Browse 280 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (175)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (176)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (2)
 
@@ -15,7 +15,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 📈 **[Quantitative Finance](#-quantitative-finance-new-grad-roles)** (6)
 
-🔧 **[Hardware Engineering](#-hardware-engineering-new-grad-roles)** (50)
+🔧 **[Hardware Engineering](#-hardware-engineering-new-grad-roles)** (49)
 
 💼 **[Other](#-other-new-grad-roles)** (0)
 
@@ -1197,6 +1197,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>AI Product Engineer – New Grad</td>
 <td>SF</td>
 <td><div align="center"><a href="https://jobs.ashbyhq.com/Lightfield/bb758825-5422-46c4-86c3-0be1cc89148f/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/741d8e02-7115-446e-a53f-21eda887c7e0?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
+<td>6mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/McDonald?utm_source=GHList&utm_medium=company">McDonald's</a></strong></td>
+<td>Software Engineer 1 - iOS</td>
+<td>Chicago, IL</td>
+<td><div align="center"><a href="https://jobs.mcdonalds.com/job/Chicago-Software-Engineer-I-iOS-IL-60607/1322170500/?ats=successfactors&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/6a3c013b-9b7d-42f4-9de4-e1064c13e339?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
 <td>6mo</td>
 </tr>
 <tr>
@@ -6678,14 +6685,14 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>5mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
 <td>2026 Full-time - Software Engineer I</td>
 <td>Fort Wayne, IN</td>
 <td>🔒</td>
 <td>5mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
+<td>↳</td>
 <td>Software Engineer 1</td>
 <td>San Jose, CA</td>
 <td>🔒</td>
@@ -13053,13 +13060,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>5mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Ciena?utm_source=GHList&utm_medium=company">Ciena</a></strong></td>
-<td>Photonic Hardware Engineer – New Grad</td>
-<td>Ottawa, ON, Canada</td>
-<td><div align="center"><a href="https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Photonic-Hardware-Engineer--NEW-GRAD-_R029485?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/0e80c2d8-cc0f-46a5-8389-6434de3b8f0d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>6mo</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Nuro?utm_source=GHList&utm_medium=company">Nuro</a></strong></td>
 <td>Software Engineer – New Grad - AI Platform</td>
 <td>Mountain View, CA</td>
@@ -13085,7 +13085,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (309)</summary>
+<summary>🗃️ Inactive roles (310)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -14831,6 +14831,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><strong><a href="https://simplify.jobs/c/Cisco?utm_source=GHList&utm_medium=company">Cisco</a></strong></td>
 <td>Hardware Engineer 1 - Full time - United States</td>
 <td><details><summary><strong>4 locations</strong></summary>Austin, TX</br>San Jose, CA</br>Carlsbad, CA</br>Acton, MA</details></td>
+<td>🔒</td>
+<td>6mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Ciena?utm_source=GHList&utm_medium=company">Ciena</a></strong></td>
+<td>Photonic Hardware Engineer – New Grad</td>
+<td>Ottawa, ON, Canada</td>
 <td>🔒</td>
 <td>6mo</td>
 </tr>
