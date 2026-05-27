@@ -287091,7 +287091,7 @@
         "company_name": "Texas Instruments",
         "id": "d2e697bb-1ef6-44ce-9022-d9f277143701",
         "title": "Engineering Specialist - Test Lab",
-        "active": true,
+        "active": false,
         "date_updated": 1776895921,
         "date_posted": 1776895538,
         "url": "https://ebgj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/251001",
@@ -304456,7 +304456,7 @@
         "company_name": "TRIMEDX",
         "id": "682f0112-8e9e-4a20-9c4b-dc4f851243af",
         "title": "Sterilization Technician 1",
-        "active": true,
+        "active": false,
         "date_updated": 1778193109,
         "date_posted": 1778191733,
         "url": "https://trimedx.wd1.myworkdayjobs.com/TMX/job/Pittsburgh-PA/Sterilization-Tech-I_R13977",
@@ -305248,7 +305248,7 @@
         "company_name": "KLA Corporation",
         "id": "5dd4de2e-857a-4312-aebf-87610ec8662d",
         "title": "Product Install Engineer - Chemical Analysis",
-        "active": false,
+        "active": true,
         "date_updated": 1778193721,
         "date_posted": 1778191536,
         "url": "https://kla.wd1.myworkdayjobs.com/search/job/VirtualRemote-USA/Product-Install-Engineer---Chemical-Analysis_2635667",
@@ -305688,7 +305688,7 @@
         "company_name": "SHI International ",
         "id": "4b5796c6-8cc3-464d-8fe4-7a4bfeaee0d2",
         "title": "International IDCS Build Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1778277961,
         "date_posted": 1778277898,
         "url": "https://shi.wd12.myworkdayjobs.com/shicareers/job/Dodworth-United-Kingdom/International-IDCS-Build-Technician_JR3051",
@@ -305746,7 +305746,7 @@
         "company_name": "NucleusTeq",
         "id": "5e6aa3fc-45fa-4932-829b-6fdc3d5a0564",
         "title": "Graduate Trainee",
-        "active": true,
+        "active": false,
         "date_updated": 1778278861,
         "date_posted": 1778278103,
         "url": "https://nucleusteq.breezy.hr/p/695264e84c5c/apply",
@@ -305766,7 +305766,7 @@
         "company_name": "3PillarGlobal",
         "id": "e16d8622-ab7e-4ca6-9a62-a004db53675d",
         "title": "Mobile Engineer - React Native - Swift",
-        "active": true,
+        "active": false,
         "date_updated": 1778277961,
         "date_posted": 1778277856,
         "url": "https://jobs.lever.co/3pillarglobal/0e279ae3-bf1e-4825-85c9-07f6178000e6/apply",
@@ -306252,7 +306252,7 @@
         "company_name": "Owens Corning",
         "id": "43b6ef67-0872-49b6-9d08-9c53606d33cd",
         "title": "Testing and Prototyping Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1778278861,
         "date_posted": 1778278066,
         "url": "https://careers.owenscorning.com/job/West-Chicago-Testing-and-Prototyping-Engineer-IL-60185/1389587300/?ats=successfactors",
@@ -306434,7 +306434,7 @@
         "company_name": "SpaceX",
         "id": "ac6ca7bc-6e7c-4a6a-9bc1-fbe496d7f0a6",
         "title": "Electrical Engineer New Grad - Multiple Teams",
-        "active": true,
+        "active": false,
         "date_updated": 1778279380,
         "date_posted": 1778277951,
         "url": "https://boards.greenhouse.io/spacex/jobs/8541336002",
@@ -306475,7 +306475,7 @@
         "company_name": "TikTok",
         "id": "edd63df9-38fb-493a-a506-beec143a36ae",
         "title": "iOS Software Engineer - Tiktok Account - Multiple Positions",
-        "active": true,
+        "active": false,
         "date_updated": 1778289875,
         "date_posted": 1778289684,
         "url": "https://lifeattiktok.com/search/7636949611945560325",
@@ -306496,7 +306496,7 @@
         "company_name": "Lawrence Berkeley National Laboratory",
         "id": "9f48cf3b-02b6-4273-add7-e4b623f6ddd2",
         "title": "AI-Readiness Data Automation Postdoctoral Scholar",
-        "active": true,
+        "active": false,
         "date_updated": 1778289204,
         "date_posted": 1778288920,
         "url": "https://lbl.taleo.net/careersection/5/jobdetail.ftl?job=106583",
@@ -306516,7 +306516,7 @@
         "company_name": "ASSA ABLOY",
         "id": "31cebc75-fcdf-478d-bd66-f70926e30c84",
         "title": "Associate Product Manager",
-        "active": true,
+        "active": false,
         "date_updated": 1778288941,
         "date_posted": 1778288808,
         "url": "https://assaabloy.jobs2web.com/job/Phoenix-Associate-Product-Manager-AZ-85044/1392040233/?ats=successfactors",
@@ -306889,7 +306889,7 @@
         "company_name": "Spotify",
         "id": "3e73dec1-88b2-4a53-be1a-a3dc74f82056",
         "title": "Machine Learning Engineer 1 - Personalization - Minesweeper",
-        "active": false,
+        "active": true,
         "date_updated": 1778479902,
         "date_posted": 1778479497,
         "url": "https://jobs.lever.co/spotify/fd79c3f5-1b2c-47c0-a3c6-4972b559e1c1/apply",
@@ -315750,7 +315750,7 @@
         "company_name": "Anduril",
         "id": "007fcd5d-c0a6-4dd0-a4b9-9802334ef75f",
         "title": "Product Operations Technical Specialist New Grad - Air Defense",
-        "active": true,
+        "active": false,
         "date_updated": 1779143595,
         "date_posted": 1778307211,
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/5133599007",
@@ -321212,7 +321212,7 @@
         "company_name": "Iron Mountain",
         "id": "a87f70e6-78cd-4de4-96f0-7685392ce329",
         "title": "Repair Bench Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1779487741,
         "date_posted": 1779487701,
         "url": "https://ironmountain.wd5.myworkdayjobs.com/iron-mountain-jobs/job/US--AZ--Phoenix--1815-E-Deer-Valley-Rd/Repair-Bench-Technician_J0101891",
@@ -323764,6 +323764,181 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/Wunderman-Thompson",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Florida Gulf Coast University",
+        "id": "e34ea255-b829-4a9f-a992-8e42616bddc0",
+        "title": "Assistant Professor - Software Engineering",
+        "active": true,
+        "date_updated": 1779821282,
+        "date_posted": 1779527359,
+        "url": "https://fgcu.wd5.myworkdayjobs.com/eaglejobs/job/Main-Campus/Assistant-Professor--Software-Engineering_R0007417",
+        "locations": [
+            "Florida"
+        ],
+        "company_url": "https://simplify.jobs/c/Florida-Gulf-Coast-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Warner Bros.",
+        "id": "6252ffe2-2735-40d6-aa7a-cc86569b4389",
+        "title": "Data Engineer 1 - CNN Digital Products and Services",
+        "active": true,
+        "date_updated": 1779821282,
+        "date_posted": 1778945609,
+        "url": "https://warnerbros.wd5.myworkdayjobs.com/global/job/NY-New-York-30-Hudson-Yards/Data-Engineer-I---CNN-Digital-Products-and-Services_R000105204",
+        "locations": [
+            "NYC",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Warner-Bros",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bootcamp"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Maryland - College Park",
+        "id": "7cd8d110-7c75-470e-8d65-dbc17f8a6017",
+        "title": "Postdoctoral Associate - AI Security",
+        "active": true,
+        "date_updated": 1779821462,
+        "date_posted": 1778940747,
+        "url": "https://umd.wd1.myworkdayjobs.com/UMCP/job/University-of-Maryland-College-Park/Postdoctoral-Associate---AI-Security_JR104051-1",
+        "locations": [
+            "Hyattsville, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Maryland-College-Park",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Chicago",
+        "id": "63d0964d-6167-4a3b-9792-27c14ee16a02",
+        "title": "Radical Innovation for Social Change Analyst",
+        "active": true,
+        "date_updated": 1779821462,
+        "date_posted": 1779527550,
+        "url": "https://uchicago.wd5.myworkdayjobs.com/External/job/Hyde-Park-Campus/RISC-Analyst_JR33593",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Chicago",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "RELX",
+        "id": "04586f23-1136-434c-a144-0cfd0ebac701",
+        "title": "Data Processor",
+        "active": true,
+        "date_updated": 1779821462,
+        "date_posted": 1778922914,
+        "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/PHL-RE-Shared-Services-Manila/Data-Processor_R113103",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/RELX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Anaplan",
+        "id": "8a33f86b-5574-4fa7-922c-5502b8c0d21d",
+        "title": "Associate GTM AI Engineer",
+        "active": true,
+        "date_updated": 1779821462,
+        "date_posted": 1778278238,
+        "url": "https://job-boards.greenhouse.io/anaplan/jobs/8538805002",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Anaplan",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Worldwide TechServices",
+        "id": "d023606d-08ad-472b-bab5-ec4dd26e730f",
+        "title": "Dynamic Server Support",
+        "active": true,
+        "date_updated": 1779821462,
+        "date_posted": 1778277868,
+        "url": "https://jobs.smartrecruiters.com/WorldwideTechServices/744000125391770",
+        "locations": [
+            "Burlington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Worldwide-TechServices",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Worldwide TechServices",
+        "id": "2c48a53b-3997-4405-b5b9-663d4381b27e",
+        "title": "Dynamic PC Support",
+        "active": true,
+        "date_updated": 1779830289,
+        "date_posted": 1778277867,
+        "url": "https://jobs.smartrecruiters.com/WorldwideTechServices/744000125391750",
+        "locations": [
+            "Indianapolis, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Worldwide-TechServices",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Worldwide TechServices",
+        "id": "0db9cf04-0f55-4eba-9e3e-6df9cceab936",
+        "title": "Dynamic PC Support",
+        "active": true,
+        "date_updated": 1779821462,
+        "date_posted": 1778277867,
+        "url": "https://jobs.smartrecruiters.com/WorldwideTechServices/744000125392994",
+        "locations": [
+            "Bismarck, ND"
+        ],
+        "company_url": "https://simplify.jobs/c/Worldwide-TechServices",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
