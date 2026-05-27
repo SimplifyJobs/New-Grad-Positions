@@ -311513,7 +311513,7 @@
         "company_name": "Corning",
         "id": "68118cbb-4151-4b21-8930-bc154ad77008",
         "title": "Technician - Mechanical",
-        "active": true,
+        "active": false,
         "date_updated": 1778796557,
         "date_posted": 1778796446,
         "url": "https://corningjobs.corning.com/job/Corning-Technician,-Mechanical-NY-14831/1391176500/?ats=successfactors",
@@ -311694,7 +311694,7 @@
         "company_name": "Rivian",
         "id": "6decdc2a-ff07-482d-a919-e72642872f78",
         "title": "Durability Data Analytics Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1778797261,
         "date_posted": 1778796463,
         "url": "https://careers.rivian.com/jobs/30306?lang=en-us&icims=1",
@@ -312201,7 +312201,7 @@
         "company_name": "KLA",
         "id": "47845071-b45b-4818-bd2f-0bdb0db3c2f6",
         "title": "Product Install Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1778796361,
         "date_posted": 1778796356,
         "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Chandler-AZ/Product-Install-Engineer---SWIFT-90--Travel_2635692-1",
@@ -312298,7 +312298,7 @@
         "company_name": "Metropolitan Transportation Authority",
         "id": "facf719d-40b9-4560-8ffb-431a63b8a922",
         "title": "Computer Associate Software - Software - Power Apps",
-        "active": true,
+        "active": false,
         "date_updated": 1778797435,
         "date_posted": 1778796508,
         "url": "https://jobs.jobvite.com/metropolitantransportationauthority/job/oCm8zfwp?nl=1&nl=1&fr=false",
@@ -312356,7 +312356,7 @@
         "company_name": "Textron",
         "id": "85d407a1-be38-4336-8aa6-d933ad405b77",
         "title": "Non-Destructive Testing Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1778797403,
         "date_posted": 1778796500,
         "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=341917",
@@ -312496,7 +312496,7 @@
         "company_name": "Lightspark",
         "id": "6bf8f335-41d0-4319-be2d-9149c24e4fa0",
         "title": "Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1778797261,
         "date_posted": 1778796499,
         "url": "https://jobs.ashbyhq.com/lightspark/7c6c25a6-9674-4f8f-93c3-479b5926702c/application",
@@ -312537,7 +312537,7 @@
         "company_name": "Cox",
         "id": "40955085-af36-47cc-9be4-e7ee3a1ead92",
         "title": "Entry Level Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1778797441,
         "date_posted": 1778796572,
         "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Draper-UT/Entry-Level-Software-Engineer--Draper--UT-_R202677231",
@@ -313183,7 +313183,7 @@
         "company_name": "Carrier Global",
         "id": "c65f6fe1-cb3b-47d4-9969-4de3d2a696b1",
         "title": "Mobile Application Developer - Smart Home",
-        "active": true,
+        "active": false,
         "date_updated": 1778854321,
         "date_posted": 1778854236,
         "url": "https://carrier.wd5.myworkdayjobs.com/jobs/job/CAGAO-Carrier-Home-Georgia-Remote-Location-Remote-City-GA-30303-USA/Mobile-Application-Developer---Smart-Home_30205643",
@@ -313445,7 +313445,7 @@
         "company_name": "Rocket Mortgage",
         "id": "e0667545-8267-4eb3-bf05-ba098ec5f386",
         "title": "Software Developer 1 - Ace",
-        "active": true,
+        "active": false,
         "date_updated": 1778883362,
         "date_posted": 1778882796,
         "url": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Seattle-WA/Software-Developer-I---ACE_R-083018",
@@ -313634,7 +313634,7 @@
         "company_name": "JP Morgan Chase",
         "id": "bbc42737-f451-42e3-88ab-8d86b3d69524",
         "title": "Discretionary and Advisory Product Development - Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1778882941,
         "date_posted": 1778882777,
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210748752",
@@ -316252,7 +316252,7 @@
         "company_name": "Western & Southern Financial Group",
         "id": "cdb2079a-b4f7-4451-825b-5ec7d6583b02",
         "title": "Product Owner 1 - Insurance Operations",
-        "active": true,
+        "active": false,
         "date_updated": 1779183608,
         "date_posted": 1778853968,
         "url": "https://careers-westernsouthern.icims.com/jobs/24930/job?mobile=true&needsRedirect=false",
@@ -325789,5 +325789,303 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Leidos",
+        "id": "9090d49e-e3a4-442c-8ce4-bbff025bdd6b",
+        "title": "Spanish Language-Enabled OSINT Collector - Junior",
+        "active": true,
+        "date_updated": 1779822362,
+        "date_posted": 1779528201,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Cape-Canaveral-FL/Spanish-Language-Enabled-OSINT-Collector--Junior-_R-00183347",
+        "locations": [
+            "Cape Canaveral, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Carrier Global",
+        "id": "ce2e591f-5fd7-4ee8-b684-1d48bfea12c1",
+        "title": "Mobile Application Developer - Service Technician",
+        "active": true,
+        "date_updated": 1779830289,
+        "date_posted": 1779529203,
+        "url": "https://carrier.wd5.myworkdayjobs.com/jobs/job/CAGAO-Carrier-Home-Georgia-Remote-Location-Remote-City-GA-30303-USA/Mobile-Application-Developer---Service-Technician_30205642",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Carrier-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TD Synnex",
+        "id": "e9b90543-aab3-44ed-98a3-230ee43f3425",
+        "title": "Associate Software Asset Management Analyst",
+        "active": true,
+        "date_updated": 1779822541,
+        "date_posted": 1779531704,
+        "url": "https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Clearwater-Florida-United-States/Associate-Software-Asset-Management-Analyst_R51044",
+        "locations": [
+            "Clearwater, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/TD-Synnex",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Techtronic Industries (TTI)",
+        "id": "f7db112c-32d9-4155-9511-d0e8b97dbbce",
+        "title": "Entry to Mid-Level Design Researcher",
+        "active": true,
+        "date_updated": 1779822362,
+        "date_posted": 1778942882,
+        "url": "https://tti.wd1.myworkdayjobs.com/tti_pe/job/Anderson-SC/Entry-to-Mid-Level-Design-Researcher_R73839",
+        "locations": [
+            "Anderson, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/Techtronic-Industries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Antech Diagnostics",
+        "id": "63c1bf00-f71d-4fe2-9e8a-8f9dab685103",
+        "title": "Instrument Service Technician 1 - Instrument Service",
+        "active": true,
+        "date_updated": 1779830289,
+        "date_posted": 1778945456,
+        "url": "https://vca.wd1.myworkdayjobs.com/antechcareers/job/Loveland-CO/Technician-I---Instrument-Service_R-241637",
+        "locations": [
+            "Loveland, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Antech-Diagnostics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Leidos",
+        "id": "70b7fd95-246f-48f2-9401-337d4f57a0fe",
+        "title": "Chinese Language-Enabled OSINT Collector - Junior",
+        "active": true,
+        "date_updated": 1779822362,
+        "date_posted": 1778941871,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Cape-Canaveral-FL/Chinese-Language-Enabled-OSINT-Collector--Junior-_R-00183337",
+        "locations": [
+            "Cape Canaveral, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CLEAR",
+        "id": "f153f80d-adbd-46dd-a792-4d7f82783425",
+        "title": "Forward Deployed AI Engineer",
+        "active": true,
+        "date_updated": 1779822541,
+        "date_posted": 1778894242,
+        "url": "https://job-boards.greenhouse.io/clear/jobs/7927496",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/CLEAR",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "General Dynamics Information Technology",
+        "id": "3d5a3f52-fbe6-4466-8975-091ee4df48a0",
+        "title": "Full Stack Engineer Junior",
+        "active": true,
+        "date_updated": 1779822541,
+        "date_posted": 1778944490,
+        "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-HI-Camp-Smith/Full-Stack-Engineer-Junior_RQ220280-1",
+        "locations": [
+            "Honolulu, HI"
+        ],
+        "company_url": "https://simplify.jobs/c/GDIT",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Capco",
+        "id": "4915555b-792c-475d-b316-1c25bbe31eaa",
+        "title": "ETRM Business Analyst - Power Trading",
+        "active": true,
+        "date_updated": 1779844957,
+        "date_posted": 1778854076,
+        "url": "https://job-boards.greenhouse.io/capco/jobs/7918890",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Capco",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "JP Morgan Chase",
+        "id": "2f67c3fe-ea03-48ff-bfb2-5149870425ac",
+        "title": "Product Analyst 1",
+        "active": true,
+        "date_updated": 1779830289,
+        "date_posted": 1778807110,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210747364",
+        "locations": [
+            "Wilmington, DE"
+        ],
+        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Trane Technologies",
+        "id": "778a7259-f6f1-4a51-acc6-543bc867d4d0",
+        "title": "Application Engineer",
+        "active": true,
+        "date_updated": 1779822362,
+        "date_posted": 1778796512,
+        "url": "https://careers.tranetechnologies.com/global/en/job/JR-3698",
+        "locations": [
+            "Bedford, NH"
+        ],
+        "company_url": "https://simplify.jobs/c/Trane-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Akima",
+        "id": "d43d1af8-3c41-4609-af65-e023ca41f8a0",
+        "title": "Electronics Technician 1",
+        "active": true,
+        "date_updated": 1779822362,
+        "date_posted": 1778796434,
+        "url": "https://careers.akima.com/jobs/22927?lang=en-us&icims=1",
+        "locations": [
+            "Oklahoma City, OK"
+        ],
+        "company_url": "https://simplify.jobs/c/Akima",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Fanatics",
+        "id": "e2577b63-e11e-466d-a9f8-5ee96f4b7a35",
+        "title": "Digital Asset Operations Associate",
+        "active": true,
+        "date_updated": 1779822362,
+        "date_posted": 1778796396,
+        "url": "https://fa-exki-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27635",
+        "locations": [
+            "Jacksonville, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Fanatics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Starling Bank",
+        "id": "2ac74665-94ce-4aca-be14-bebe70d86a72",
+        "title": "Treasury IRRBB Analyst - Quantitative Analytics",
+        "active": true,
+        "date_updated": 1779822362,
+        "date_posted": 1778796489,
+        "url": "https://apply.workable.com/starling-bank/j/77F198D9DC/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Starling-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Akima",
+        "id": "b8f71750-0cbe-4a63-ac6a-7f0cb4a12782",
+        "title": "Engineering Technician 1",
+        "active": true,
+        "date_updated": 1779822362,
+        "date_posted": 1778796426,
+        "url": "https://careers.akima.com/jobs/23173?lang=en-us&icims=1",
+        "locations": [
+            "Oklahoma City, OK"
+        ],
+        "company_url": "https://simplify.jobs/c/Akima",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
