@@ -32530,7 +32530,7 @@
         "company_name": "GE Healthcare",
         "id": "d6e2d6e8-79b4-478b-b453-9c5ef63ce432",
         "title": "MR Calibration Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1761940627,
         "date_posted": 1761875528,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/MR-Calibration-Engineer-I---Washington-DC-Area_R4030730-1",
@@ -148277,7 +148277,7 @@
         "company_name": "Flextronics International",
         "id": "f5467220-0b68-4eb0-8d70-3fdc6507d26c",
         "title": "Engineering Technician-1",
-        "active": true,
+        "active": false,
         "date_updated": 1769742253,
         "date_posted": 1769742253,
         "url": "https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-TX-Austin/Engineering-Technician-1_WD214126",
@@ -207831,7 +207831,7 @@
         "company_name": "IDEXX",
         "id": "f6bd529c-7b90-41cd-9373-dd7c662bd89a",
         "title": "Data Onboarding Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1772680108,
         "date_posted": 1772680108,
         "url": "https://idexx.wd1.myworkdayjobs.com/IDEXX/job/London-United-Kingdom/Data-Onboarding-Tech_J-051257",
@@ -229757,7 +229757,7 @@
         "company_name": "Johnson Controls",
         "id": "f88340ea-b30d-4da0-a530-8209167bff94",
         "title": "Electrical Designer",
-        "active": true,
+        "active": false,
         "date_updated": 1773875210,
         "date_posted": 1773875210,
         "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/New-Freedom-Pennsylvania-United-States-of-America/Electrical-Designer_WD30263444",
@@ -249431,7 +249431,7 @@
         "company_name": "Thermo Fisher Scientific",
         "id": "ba2211a6-3041-48aa-9111-edebe44105f2",
         "title": "Field Service Engineer 1 - Asset Management",
-        "active": false,
+        "active": true,
         "date_updated": 1774999551,
         "date_posted": 1774479122,
         "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/West-Greenwich-Rhode-Island-USA/Field-Service-Engineer-I--Asset-Management-_R-01345001",
@@ -257124,7 +257124,7 @@
         "company_name": "The Federal Reserve System",
         "id": "bd11fa61-05b2-46c7-a205-c6a358af3d04",
         "title": "Product Owner",
-        "active": true,
+        "active": false,
         "date_updated": 1775296974,
         "date_posted": 1775294587,
         "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Cleveland-OH/Product-Owner_R-0000031608",
@@ -320457,7 +320457,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "f2bdab63-7eac-4c83-bd8d-65b98c7c03b9",
         "title": "Data Analyst - Pricing and Reference Data - Bluebay Asset Management",
-        "active": true,
+        "active": false,
         "date_updated": 1779459302,
         "date_posted": 1779459211,
         "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/London-United-Kingdom-of-Great-Britain-and-Northern-Ireland/Data-Analyst---Pricing-and-Reference-Data--BlueBay-Asset-Management---London-_R-0000170679-1",
@@ -325375,7 +325375,7 @@
         "company_name": "Astreya",
         "id": "df05af06-90a1-482e-8587-562fe399ff9e",
         "title": "Software Engineer 1 - Junior Cloud AWS Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1779822002,
         "date_posted": 1779527621,
         "url": "https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Oakland-CA/Software-Engineer-I--Junior-Cloud-AWS-Engineer-_R0015581",
@@ -327907,5 +327907,146 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Federal Reserve System",
+        "id": "d05c2b68-917e-4f4e-a813-a4ce97be4c5b",
+        "title": "Senior Research Assistant",
+        "active": true,
+        "date_updated": 1779875512,
+        "date_posted": 1779528352,
+        "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Philadelphia-PA/Research-Assistant-Sr-Research-Assistant_R-0000030430",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/6a7a42d3-327f-4b48-a7a7-c68f405e3396",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "FOX",
+        "id": "ddcc708f-f956-4709-a06e-736813496233",
+        "title": "Video Distribution Engineer 1",
+        "active": true,
+        "date_updated": 1779876293,
+        "date_posted": 1779530960,
+        "url": "https://fox.wd1.myworkdayjobs.com/Domestic/job/USA---AZ---Tempe---2010-E-Centennial-Cir/Video-Distribution-Engineer-I_R50032534",
+        "locations": [
+            "Tempe, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/FOX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "KnitWell Group",
+        "id": "e349964c-cf0d-4281-a635-06a6f595b077",
+        "title": "Assistant Product Coordinator",
+        "active": true,
+        "date_updated": 1779876002,
+        "date_posted": 1779429976,
+        "url": "https://knitwellgroup.wd1.myworkdayjobs.com/US_Corporate_Jobs/job/New-York-Office/Assistant-Product-Coordinator_R-2026731",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/KnitWell-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Morgan Stanley",
+        "id": "faf0da4e-b3ca-46ed-bf38-1e0ab436f3bd",
+        "title": "Investment Management - Emerging Markets Research",
+        "active": true,
+        "date_updated": 1779877003,
+        "date_posted": 1778941689,
+        "url": "https://ms.wd5.myworkdayjobs.com/private/job/London-United-Kingdom/Investment-Management---Emerging-Markets-Research-Associate_JR030700",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Morgan-Stanley",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Boys Town",
+        "id": "f3810c24-2e65-4254-ae2c-ccf6c54e8922",
+        "title": "Neuroimaging Engineer",
+        "active": true,
+        "date_updated": 1779876590,
+        "date_posted": 1778944704,
+        "url": "https://boystown.wd1.myworkdayjobs.com/boystowncareers/job/Omaha-NE/Neuroimaging-Engineer_REQ-2025-7253-1",
+        "locations": [
+            "Omaha, NE"
+        ],
+        "company_url": "https://simplify.jobs/c/Boys-Town",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Miami",
+        "id": "d4087c54-b45d-4814-9055-d89c944245e5",
+        "title": "Postdoctoral Associate - Public Health Sciences",
+        "active": true,
+        "date_updated": 1779876052,
+        "date_posted": 1779527981,
+        "url": "https://umiami.wd1.myworkdayjobs.com/UMCareerStaff/job/Miami-FL/Post-Doctoral-Associate_R100092570",
+        "locations": [
+            "Miami, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Miami",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD",
+            "MD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "QBE Insurance",
+        "id": "f85183dd-d240-40a5-911a-6716225ee702",
+        "title": "Product Wordings Specialist",
+        "active": true,
+        "date_updated": 1779876961,
+        "date_posted": 1778922850,
+        "url": "https://qbe.wd3.myworkdayjobs.com/qbe-careers/job/Dusseldorf-Germany/Product-Wordings-Specialist_350391",
+        "locations": [
+            "Hamburg, Germany",
+            "Neukirchen-Vluyn, Germany",
+            "Munich, Germany"
+        ],
+        "company_url": "https://simplify.jobs/c/QBE-Insurance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
