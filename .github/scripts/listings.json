@@ -268339,7 +268339,7 @@
         "company_name": "CAE",
         "id": "b3302ee4-ed5d-4bb3-b09b-6a7e70607a9a",
         "title": "Flight Simulator Technician / Electronics Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1775902129,
         "date_posted": 1775900895,
         "url": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Flight-Simulator-Technician-II-Electronics-Technician_115800",
@@ -319342,7 +319342,7 @@
         "company_name": "Stanley Black & Decker",
         "id": "62300966-2612-45d4-9512-9e259b0f9900",
         "title": "Assistant Product Manager",
-        "active": true,
+        "active": false,
         "date_updated": 1779402961,
         "date_posted": 1779401459,
         "url": "https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Maidenhead-Berkshire-England/Assistant-Product-Manager_REQ-1000047393",
@@ -319460,7 +319460,7 @@
         "company_name": "CAE",
         "id": "cded7f20-b90b-426a-b03d-63e76dee104c",
         "title": "Simulator Technician 1",
-        "active": true,
+        "active": false,
         "date_updated": 1779403473,
         "date_posted": 1779401454,
         "url": "https://cae.wd3.myworkdayjobs.com/career/job/Phoenix/Simulator-Technician-I_122016",
@@ -319501,7 +319501,7 @@
         "company_name": "Expedia Group",
         "id": "b3f883c9-951b-4a9a-9a1a-607568db3875",
         "title": "Partner Solutions Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1779401562,
         "date_posted": 1779401098,
         "url": "https://expedia.wd108.myworkdayjobs.com/search/job/Austin-Domain-11---HomeAway/Hotel-Partner-Solutions-Specialist_R-105524",
@@ -319563,7 +319563,7 @@
         "company_name": "The Boeing Company",
         "id": "5758719e-b7e0-4a58-85c9-9d8f66433dd7",
         "title": "Entry Level Lab Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1779402961,
         "date_posted": 1779401441,
         "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Kirtland-AFB-NM/Entry-Level-Lab-Technician_JR2026510744",
@@ -319601,7 +319601,7 @@
         "company_name": "NextEra Energy",
         "id": "19abc6c7-5268-4cff-a208-558a4432b486",
         "title": "Electronics Technician 3",
-        "active": true,
+        "active": false,
         "date_updated": 1779403412,
         "date_posted": 1779401168,
         "url": "https://jobs.nexteraenergy.com/job/Story-City-GRS-Electronics-Technician-III-IA-50248/1393062100/?ats=successfactors",
@@ -319721,7 +319721,7 @@
         "company_name": "GlobalFoundries",
         "id": "3c05a5e7-3576-44c5-9123-47434f3eee75",
         "title": "Design Engineer Verification New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1779402403,
         "date_posted": 1779401141,
         "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/Richardson/Design-Engineer-Verification--2026-New-College-Graduate-_JR-2601844",
@@ -319885,7 +319885,7 @@
         "company_name": "The Boeing Company",
         "id": "53c61d1a-c39f-4f8e-af61-70d070b70771",
         "title": "Associate Programmer Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1779402961,
         "date_posted": 1779401459,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Warner-Robins-GA/Associate-Programmer-Analyst_JR2026508524",
@@ -319983,7 +319983,7 @@
         "company_name": "Micron Technology",
         "id": "1813386c-0220-4b44-9b99-d42f25ce3498",
         "title": "System on Chip Formal Verification Engineer - Hbm",
-        "active": true,
+        "active": false,
         "date_updated": 1779403267,
         "date_posted": 1779401433,
         "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/SOC-Formal-Verification-Engineer--HBM_JR102414",
@@ -320083,7 +320083,7 @@
         "company_name": "LG Electronics",
         "id": "2058173d-357a-46d1-9391-17daed1c076d",
         "title": "Cryptography Research Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1779402061,
         "date_posted": 1779401243,
         "url": "https://job-boards.greenhouse.io/lgelectronics/jobs/5226811008",
@@ -320121,7 +320121,7 @@
         "company_name": "Northrop Grumman",
         "id": "d0688f04-fc2a-4352-8fc4-11a83ee95549",
         "title": "Algorithms Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1779402781,
         "date_posted": 1779401264,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/Algorithms-Software-Engineer_R10233831",
@@ -324865,7 +324865,7 @@
         "company_name": "Knowledge Services",
         "id": "c37b33d3-9fd4-4aa4-99ea-bb9833aab3a9",
         "title": "Program Support Representative - Customer Service & Data Management",
-        "active": true,
+        "active": false,
         "date_updated": 1779821462,
         "date_posted": 1778709999,
         "url": "https://careers-knowledgeservices.icims.com/jobs/30617/job?mobile=true&needsRedirect=false",
@@ -327870,7 +327870,7 @@
         "company_name": "Talan",
         "id": "9fc6c059-860f-4cdb-a75f-b42441b405b7",
         "title": "Junior AI & Data Consultant",
-        "active": true,
+        "active": false,
         "date_updated": 1779872581,
         "date_posted": 1779872574,
         "url": "https://jobs.smartrecruiters.com/Talan/744000128669989",
@@ -328045,6 +328045,223 @@
             "Munich, Germany"
         ],
         "company_url": "https://simplify.jobs/c/QBE-Insurance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Harvard University",
+        "id": "8ff9f7a3-dcc0-41fc-921c-3637e2f3a14a",
+        "title": "Research Associate - General",
+        "active": true,
+        "date_updated": 1779826685,
+        "date_posted": 1779689072,
+        "url": "https://jobs.smartrecruiters.com/HarvardUniversity/3743990013259557",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/9094158f-c28a-4cb7-9757-204e5a4e8130",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Morningstar",
+        "id": "a3af831b-91fb-415d-96b1-e19619e96e6a",
+        "title": "Canadian Structured Finance Ratings Analyst/Senior Analyst",
+        "active": true,
+        "date_updated": 1779826685,
+        "date_posted": 1779529058,
+        "url": "https://morningstar.wd5.myworkdayjobs.com/Americas/job/Toronto/Canadian-Structured-Finance-Ratings--Analyst-Senior-Analyst---Toronto_REQ-056917-1",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Morningstar",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Motorola",
+        "id": "a54d5ff1-0353-40cc-8fa5-6ac847057831",
+        "title": "Entry Level FPGA Designer",
+        "active": true,
+        "date_updated": 1779826685,
+        "date_posted": 1779527594,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Entry-Level-FPGA-Design-Engineer_R64928",
+        "locations": [
+            "Hoffman Estates, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Apex Fintech Solutions",
+        "id": "2bbd1cef-2113-4e70-b11d-af7ec1d16701",
+        "title": "Software Engineer 1 - Aldp",
+        "active": true,
+        "date_updated": 1779826685,
+        "date_posted": 1779401109,
+        "url": "https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions/job/Austin-TX/Software-Engineer-I--ALDP-_JR103501",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Apex-Fintech-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "PSP Investments",
+        "id": "babb5d6e-9e78-4ffb-a58a-49b07972a6b4",
+        "title": "Risk Analytics Analyst - Risk Analytics",
+        "active": true,
+        "date_updated": 1779826685,
+        "date_posted": 1779528834,
+        "url": "https://investpsp.wd3.myworkdayjobs.com/psp_careers/job/Montreal/Senior-Analyst--Risk-Analytics_R4773",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/PSP-Investments",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Red Hat",
+        "id": "36ff8e0b-f625-4828-b84a-5d968bf1d5e1",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1779826685,
+        "date_posted": 1779401104,
+        "url": "https://redhat.wd5.myworkdayjobs.com/jobs/job/Boston/Software-Engineer_R-057365",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Red-Hat",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "f6960b87-cbe3-46d3-971d-73f73bc4357c",
+        "title": "Algorithms Software Engineer 2",
+        "active": true,
+        "date_updated": 1779833864,
+        "date_posted": 1779401267,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/Algorithms-Software-Engineer---Level-2_R10233830",
+        "locations": [
+            "Boulder, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Schweitzer Engineering Laboratories",
+        "id": "e39a2ac5-380e-4fb4-9ec2-bf0ae35c43a8",
+        "title": "Data Specialist",
+        "active": true,
+        "date_updated": 1779826685,
+        "date_posted": 1779401437,
+        "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Data-Specialist_2026-21242",
+        "locations": [
+            "Moscow, ID"
+        ],
+        "company_url": "https://simplify.jobs/c/SEL",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Crowdstrike",
+        "id": "47fdd6ad-4a2d-45e1-9b23-3f72d93a297d",
+        "title": "System Integration Technician",
+        "active": true,
+        "date_updated": 1779826685,
+        "date_posted": 1779401190,
+        "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Bend-OR/System-Integration-Technician--Bend--OR-_R28764",
+        "locations": [
+            "Bend, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Crowdstrike",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Westinghouse Electric Company",
+        "id": "93f3f00f-40a3-46ca-87b6-668868f3c263",
+        "title": "Early Career-Leadership Simulator Engineer - Rotational Assn",
+        "active": true,
+        "date_updated": 1779826685,
+        "date_posted": 1779401173,
+        "url": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Early-Career-Leadership-Simulator-Engineer-(Rotational-Assn)-NC/1393017200/?ats=successfactors",
+        "locations": [
+            "Grove City, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Westinghouse-Electric-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Ensono",
+        "id": "c5b44e90-8df4-4a06-a096-8a228f58dac0",
+        "title": "IT Desktop Support Technician Associate",
+        "active": true,
+        "date_updated": 1779875891,
+        "date_posted": 1777385930,
+        "url": "https://ensono.com/company/careers/jobs-board/?gh_jid=4689494005",
+        "locations": [
+            "United Kingdom"
+        ],
+        "company_url": "https://simplify.jobs/c/Ensono",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
