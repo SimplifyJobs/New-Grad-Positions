@@ -294869,7 +294869,7 @@
         "company_name": "Uline",
         "id": "635e3ff0-5511-4cd7-9c99-2e32c6631ed1",
         "title": "Associate Business Systems Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1777540501,
         "date_posted": 1777540357,
         "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Associate-Business-Systems-Analyst_R263591-2",
@@ -295278,7 +295278,7 @@
         "company_name": "The Aerospace Corporation",
         "id": "15982926-54d3-4e4f-a1d2-bb7c2f7b5cdc",
         "title": "Enterprise Modeling and Simulation Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1777587929,
         "date_posted": 1777587027,
         "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2026-Enterprise-Modeling-and-Simulation-Engineer_R015273",
@@ -295729,7 +295729,7 @@
         "company_name": "3M",
         "id": "701c32ef-1054-4d55-903d-62ef022fbe61",
         "title": "Corporate Performance Management System Administrator",
-        "active": true,
+        "active": false,
         "date_updated": 1777586941,
         "date_posted": 1777586831,
         "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Minnesota-Maplewood/Corporate-Performance-Management-System-Administrator-_R01164057",
@@ -296768,7 +296768,7 @@
         "company_name": "Varda Space",
         "id": "4344044d-fc5f-4cb2-a65c-d2b70b8c3bfb",
         "title": "Mechanisms Engineer - Payloads",
-        "active": true,
+        "active": false,
         "date_updated": 1777624202,
         "date_posted": 1777597854,
         "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7721557003",
@@ -297278,7 +297278,7 @@
         "company_name": "Eurofins",
         "id": "95ef784e-f37c-4e47-aa13-53f02f4d0644",
         "title": "Electromagnetic Compatibility/Wireless Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1777673416,
         "date_posted": 1777673095,
         "url": "https://jobs.smartrecruiters.com/Eurofins/744000124162679",
@@ -297338,7 +297338,7 @@
         "company_name": "Northrop Grumman",
         "id": "27d46f0f-ff42-4028-970a-2feef813f4b6",
         "title": "Software Engineer / Principal Software Engineer - Simulation",
-        "active": true,
+        "active": false,
         "date_updated": 1777674241,
         "date_posted": 1777673414,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Oklahoma-Oklahoma-City/Software-Engineer---Principal-Software-Engineer---Simulation_R10231372",
@@ -313630,7 +313630,7 @@
         "company_name": "Manulife Financial",
         "id": "ddc4cfe6-a18c-4779-9f8c-b6b5fbf64fce",
         "title": "Associate Data Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1778882941,
         "date_posted": 1778882764,
         "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Boston-Massachusetts/Associate-Data-Scientist_JR26050445-1",
@@ -323225,6 +323225,186 @@
             "Newcastle upon Tyne, UK"
         ],
         "company_url": "https://simplify.jobs/c/Butternut-Box",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "LivaNova",
+        "id": "cdd1e840-ab49-4157-b19b-adbf987d9044",
+        "title": "HR Data Analyst - Talent Analytics",
+        "active": true,
+        "date_updated": 1779819398,
+        "date_posted": 1779527964,
+        "url": "https://livanova.wd5.myworkdayjobs.com/search/job/US_Remote/HR-Data-Analyst--Talent-Analytics_JR-14369",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/LivaNova",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Varian",
+        "id": "8308b4a8-e494-41d5-9648-f11f029f09d2",
+        "title": "Medical Imaging Field Engineer 1 - MR/AX",
+        "active": true,
+        "date_updated": 1779820382,
+        "date_posted": 1778922562,
+        "url": "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/CYA-GR/Customer-Service-Engineer-1---MR-AX---Virginia-Beach--Virginia_R-27320-1",
+        "locations": [
+            "Virginia Beach, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/670da3c5-bce0-4621-b519-da7ce7d528e6",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AMERICAN SYSTEMS",
+        "id": "bc7fc55b-5b7c-4366-87a5-b96726184a32",
+        "title": "Linux Systems Administrator 1",
+        "active": true,
+        "date_updated": 1779820562,
+        "date_posted": 1777673119,
+        "url": "https://careers-americansystems.icims.com/jobs/4383/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Folsom, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/AMERICAN-SYSTEMS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "McKesson",
+        "id": "3fecf616-9ea3-475c-8f4a-8076517bc8b0",
+        "title": "Software Engineer - JavaScript / Ruby / Elixir",
+        "active": true,
+        "date_updated": 1779820562,
+        "date_posted": 1777673261,
+        "url": "https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-OH-Columbus/Software-Engineer--JavaScript---Ruby---Elixir-_JR0146101-2",
+        "locations": [
+            "Columbus, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/McKesson",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Royal Bank of Canada",
+        "id": "392b0b52-6ce4-4af1-b2d7-112566b4b327",
+        "title": "Real Estate Investment Analyst-Community Investments",
+        "active": true,
+        "date_updated": 1779820562,
+        "date_posted": 1777673481,
+        "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/Charlotte-North-Carolina-United-States-of-America/Real-Estate-Investment-Analyst--Community-Investments_R-0000170758",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AMERICAN SYSTEMS",
+        "id": "61d40f0e-7684-41e3-a76f-6d00cacb27e0",
+        "title": "Linux Systems Administrator 1",
+        "active": true,
+        "date_updated": 1779820562,
+        "date_posted": 1777673122,
+        "url": "https://careers-americansystems.icims.com/jobs/4380/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Loveland, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/AMERICAN-SYSTEMS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Mass General Brigham",
+        "id": "3f78698c-70bd-4d7a-be75-aca4c9fad6fc",
+        "title": "Research Assistant 1 - Trauma Imaging - Radiology",
+        "active": true,
+        "date_updated": 1779829562,
+        "date_posted": 1778942808,
+        "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Boston-MA/Research-Assistant-I--Trauma-Imaging--Radiology_RQ4062721",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Mass-General-Brigham",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Metron",
+        "id": "01b1fe38-d404-4392-86f9-606d3d33cb4a",
+        "title": "Signal and Information Processing Research Scientist",
+        "active": true,
+        "date_updated": 1779829562,
+        "date_posted": 1777615676,
+        "url": "https://job-boards.greenhouse.io/metron/jobs/5125956007",
+        "locations": [
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/22c7fd64-5419-4c19-8f0b-c4e2b6620614",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "UT Southwestern Medical Center",
+        "id": "8784c0bb-e6e1-44d6-973d-f1b942605e99",
+        "title": "Application Analyst 1 - HSIR - Epic Resolute Hospital Billing",
+        "active": true,
+        "date_updated": 1779829562,
+        "date_posted": 1777586872,
+        "url": "https://utsw.taleo.net/careersection/2/jobdetail.ftl?job=941721",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/UT-Southwestern-Medical-Center",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
