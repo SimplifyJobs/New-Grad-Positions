@@ -288305,7 +288305,7 @@
         "company_name": "Northrop Grumman",
         "id": "2ea22eda-feb3-4aa9-a283-a312df9a4349",
         "title": "Configuration/Data Management Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1776982861,
         "date_posted": 1776982098,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/Configuration-Data-Management-Analyst_R10230744",
@@ -319278,7 +319278,7 @@
         "company_name": "Texas A&M University System",
         "id": "8d2b8838-f622-4aba-a18a-0ffac4b29e11",
         "title": "Postdoctoral Research Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1779401161,
         "date_posted": 1779401091,
         "url": "https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/Corpus-Christi-TX/Postdoctoral-Research-Associate_R-093478-2",
@@ -319865,7 +319865,7 @@
         "company_name": "GlobalFoundries",
         "id": "5fd94dc4-8db3-4ac3-9b52-8ca9be78c02c",
         "title": "Senior Technician - Device Modeling & Characterization",
-        "active": true,
+        "active": false,
         "date_updated": 1779402365,
         "date_posted": 1779401142,
         "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Sr-Technician---Device-Modeling---Characterization_JR-2602216",
@@ -319905,7 +319905,7 @@
         "company_name": "The Boeing Company",
         "id": "93c8e53b-81b5-42af-85a1-83d3ebd563a6",
         "title": "Entry Level Lab Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1779402961,
         "date_posted": 1779401459,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Kirtland-AFB-NM/Entry-Level-Lab-Technician_JR2026510744-1",
@@ -328265,5 +328265,88 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ICF International",
+        "id": "62f67093-f045-40b5-aafb-6b80515f0b3b",
+        "title": "Environmental Policy Researcher",
+        "active": true,
+        "date_updated": 1779826685,
+        "date_posted": 1779527735,
+        "url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/Environmental-Policy-Researcher--Reston--VA-or-Waltham--MA-_R2601848",
+        "locations": [
+            "Waltham, MA",
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/ICF-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northrop Grumman",
+        "id": "369eb2e7-94b5-4751-b359-0c2a052e6d61",
+        "title": "Hardware Engineer",
+        "active": true,
+        "date_updated": 1779826685,
+        "date_posted": 1779401263,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Engineer-Hardware_R10233694",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Emerson Electric",
+        "id": "87b6fa67-0adf-4a01-b1b9-e6a53f65fb23",
+        "title": "Proposals Data Support Engineer",
+        "active": true,
+        "date_updated": 1779826685,
+        "date_posted": 1779401171,
+        "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26004798",
+        "locations": [
+            "Pittsburgh, PA",
+            "Grove City, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Emerson-Electric",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Nordic",
+        "id": "4eaaa076-2261-4cce-8df5-433ce7e26384",
+        "title": "Managed Services Analyst - EHR Applications - Healthcare IT",
+        "active": true,
+        "date_updated": 1779829562,
+        "date_posted": 1778943426,
+        "url": "https://nordic.wd1.myworkdayjobs.com/en-US/Nordic/job/US---National/Willow-Analyst_R5590",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Nordic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Certificate"
+        ]
     }
 ]
