@@ -97854,7 +97854,7 @@
         "company_name": "Barrios",
         "id": "28838ed2-cf67-4bb5-8e8e-73a4cbe89069",
         "title": "Configuration and Data Management Specialist - Configuration and Data Management Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1766186580,
         "date_posted": 1763623750,
         "url": "https://careers-barrios.icims.com/jobs/2723/job?mobile=true&needsRedirect=false",
@@ -315020,7 +315020,7 @@
         "company_name": "JP Morgan Chase",
         "id": "fb3eaa17-6ceb-4198-8542-301544503fb1",
         "title": "Software Engineer - Multiple Positions Available",
-        "active": true,
+        "active": false,
         "date_updated": 1779114421,
         "date_posted": 1779113098,
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210745917",
@@ -315418,7 +315418,7 @@
         "company_name": "KBR",
         "id": "dae4e514-fa5f-407c-be57-28605f5a78ab",
         "title": "Associate Drafting Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1779143761,
         "date_posted": 1779142145,
         "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Las-Cruces-New-Mexico/Associate-Drafting-Technician_R2123907",
@@ -321425,7 +321425,7 @@
         "company_name": "Mass General Brigham",
         "id": "958e5062-ebda-4a52-98c6-4af479bc39cf",
         "title": "Network Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1779529321,
         "date_posted": 1779529208,
         "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Salem-MA/Network-Technician_RQ4057590",
@@ -321915,7 +321915,7 @@
         "company_name": "Anchorage",
         "id": "776ee0a4-bc93-4a5c-9210-f54f4674d049",
         "title": "Member of Product - Client Solutions & Enablement",
-        "active": true,
+        "active": false,
         "date_updated": 1779804181,
         "date_posted": 1779804129,
         "url": "https://jobs.lever.co/anchorage/8cb6810f-c1dc-4158-a5d7-13f9e6f203d7/apply",
@@ -328348,5 +328348,119 @@
         "degrees": [
             "Certificate"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Argonne National Laboratory",
+        "id": "8e7fbea9-7396-4235-975b-cf72d07c6135",
+        "title": "Postdoctoral Appointee - Artificial Intelligence for Lithium-Sulfur Batteries",
+        "active": true,
+        "date_updated": 1779829562,
+        "date_posted": 1779527957,
+        "url": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---Artificial-Intelligence-for-Lithium-Sulfur-Batteries_422653",
+        "locations": [
+            "Woodridge, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Argonne-National-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Astreya",
+        "id": "e669633b-9fcc-47c4-8a0b-6d73dd321cf1",
+        "title": "Hardware Support Technician 1",
+        "active": true,
+        "date_updated": 1779829562,
+        "date_posted": 1779527625,
+        "url": "https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Mountain-View-CA/Hardware-Support-Technician-I_R0015334",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Astreya",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Halifax Health",
+        "id": "72efdd88-3a84-45b4-94a1-fb5ba447eee5",
+        "title": "Revenue Cycle Analyst 1",
+        "active": true,
+        "date_updated": 1779831181,
+        "date_posted": 1779113320,
+        "url": "https://halifaxhealth.wd12.myworkdayjobs.com/halifaxhealth/job/US-FL-Daytona-Beach/Revenue-Cycle-Analyst-I_JR104720",
+        "locations": [
+            "Daytona Beach, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Halifax-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Federal Reserve System",
+        "id": "aeb5fe0b-d1f9-4fc1-9f2d-1162a41e2b07",
+        "title": "Research Assistant",
+        "active": true,
+        "date_updated": 1779875178,
+        "date_posted": 1779615193,
+        "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Minneapolis-MN/Research-Assistant_R-0000031995-1",
+        "locations": [
+            "Minneapolis, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/6a7a42d3-327f-4b48-a7a7-c68f405e3396",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TSMG",
+        "id": "e03373d5-4e12-4466-bfdd-b4ad5a3b13f5",
+        "title": "AI/ML Data Contributor - Data Labeling - Content Evaluation",
+        "active": true,
+        "date_updated": 1779829562,
+        "date_posted": 1777298688,
+        "url": "https://jobs.lever.co/tsmg/b80e56d1-2580-435a-9d07-d4a0ef1bb36f/apply",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/TSMG",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SMX",
+        "id": "55fd0162-ccbd-452e-b2b6-9aeed1c76c60",
+        "title": "IT Storefront Specialist",
+        "active": true,
+        "date_updated": 1779829562,
+        "date_posted": 1776982827,
+        "url": "https://www.smxtech.com/careers/?gh_jid=7712099003",
+        "locations": [
+            "Patuxent River, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Smx",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
