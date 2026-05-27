@@ -152301,7 +152301,7 @@
         "company_name": "Vertiv",
         "id": "f63d815b-8595-426f-8c1f-6aa2f463abfe",
         "title": "ERS NETA Electrical Testing Technician - Las Vegas",
-        "active": true,
+        "active": false,
         "date_updated": 1770074060,
         "date_posted": 1770074060,
         "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20266129",
@@ -169923,7 +169923,7 @@
         "company_name": "RTX",
         "id": "5f49884a-b451-4297-9d6e-55d11e5d7164",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1770910275,
         "date_posted": 1770910275,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-FULLERTON-675--1801-Hughes-Dr--BLDG-675/Software-Engineer-I--Onsite_01823376",
@@ -286502,7 +286502,7 @@
         "company_name": "N-Power Medicine",
         "id": "88625bbd-7d5b-4136-985d-a47023ce5b35",
         "title": "Clinical Data Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1776896837,
         "date_posted": 1776895711,
         "url": "https://jobs.lever.co/npowermedicine/28e42529-c4e2-4f49-9074-86fac0dceb52/apply",
@@ -308554,7 +308554,7 @@
         "company_name": "Ameren",
         "id": "525ef07a-7783-4422-9c52-ec97e51183af",
         "title": "Engineering Representative",
-        "active": true,
+        "active": false,
         "date_updated": 1778710353,
         "date_posted": 1778709951,
         "url": "https://ameren.wd1.myworkdayjobs.com/External/job/Collinsville-IL/Engineering-Rep-Step-1_033264",
@@ -310251,7 +310251,7 @@
         "company_name": "Affirm",
         "id": "c954b64e-bc63-4eec-b891-bede5de48831",
         "title": "Analyst 1 - Full Stack",
-        "active": false,
+        "active": true,
         "date_updated": 1778721944,
         "date_posted": 1778721696,
         "url": "https://job-boards.greenhouse.io/affirm/jobs/7726627003",
@@ -311202,7 +311202,7 @@
         "company_name": "NASA Jet Propulsion Laboratory (JPL)",
         "id": "c0e991b5-e893-4d18-9da4-16bf06164a5d",
         "title": "Postdoctoral Geodynamic Modeling and GNSS-Based Crustal Deformation",
-        "active": false,
+        "active": true,
         "date_updated": 1778750641,
         "date_posted": 1778750144,
         "url": "https://citjpl.wd5.myworkdayjobs.com/Jobs/job/JPL-Campus/Postdoc--Geodynamic-Modeling-and-GNSS-Based-Crustal-Deformation_R5503",
@@ -311432,7 +311432,7 @@
         "company_name": "WPP Media",
         "id": "be999b11-dabd-4aa0-8605-978e5f90e6a4",
         "title": "Product Manager",
-        "active": true,
+        "active": false,
         "date_updated": 1778768641,
         "date_posted": 1778768587,
         "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5215904008",
@@ -311533,7 +311533,7 @@
         "company_name": "Wolters Kluwer",
         "id": "fd73b804-01f4-4f48-97d6-68655908beba",
         "title": "Efile Operations Analyst - E-File Operations",
-        "active": true,
+        "active": false,
         "date_updated": 1778796601,
         "date_posted": 1778796238,
         "url": "https://wk.wd3.myworkdayjobs.com/en-US/External/job/USA---Kennesaw-GA/Associate-Business-Systems-Analyst---E-File-Operations_R0057085",
@@ -311592,7 +311592,7 @@
         "company_name": "Teranet",
         "id": "3dfbfafd-5bfd-4770-b409-d21a66d6b0eb",
         "title": "Java/Angular Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1778796670,
         "date_posted": 1778796274,
         "url": "https://tera.wd3.myworkdayjobs.com/TERANET/job/Toronto/Java-Angular-Developer_R004735",
@@ -311632,7 +311632,7 @@
         "company_name": "Northeastern University",
         "id": "7783b9d8-0cc6-4e49-8610-fbcfe95f3b49",
         "title": "Natural Language Processing Fellow",
-        "active": true,
+        "active": false,
         "date_updated": 1778796746,
         "date_posted": 1778796317,
         "url": "https://northeastern.wd1.myworkdayjobs.com/careers/job/Charlotte-NC/Postdoctoral-Research-Fellow_R140000",
@@ -313712,7 +313712,7 @@
         "company_name": "Barrios",
         "id": "16d6dc49-4901-4216-8628-8ff58e186a8a",
         "title": "Project Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1778882941,
         "date_posted": 1778882804,
         "url": "https://careers-barrios.icims.com/jobs/2794/job?mobile=true&needsRedirect=false",
@@ -313789,7 +313789,7 @@
         "company_name": "The Home Depot",
         "id": "b1d8e40c-7780-4869-a75a-3bcce0fa482d",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1778882941,
         "date_posted": 1778882916,
         "url": "https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/GEORGIA---VIRTUAL---GA01/Software-Engineer--Remote-_Req180516",
@@ -313809,7 +313809,7 @@
         "company_name": "The Boeing Company",
         "id": "6d1da862-9e42-499d-864f-03e9f73e22df",
         "title": "Associate Design and Analysis Engineer - Electronic System Design & Analysis",
-        "active": true,
+        "active": false,
         "date_updated": 1778883121,
         "date_posted": 1778883098,
         "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Berkeley-MO/Associate-Design-and-Analysis-Engineer--Electronic-Sys-Design---Analy-_JR2025489431",
@@ -313829,7 +313829,7 @@
         "company_name": "9th Way Insignia",
         "id": "a580c765-0d88-452f-a87b-63a71376e722",
         "title": "ETL Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1778883841,
         "date_posted": 1778883750,
         "url": "https://job-boards.greenhouse.io/9thwayinsignia/jobs/5222560008",
@@ -313990,7 +313990,7 @@
         "company_name": "Makai Labs",
         "id": "adbf020e-77f5-43e9-a6f8-dca0b583c219",
         "title": "AI Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1778883121,
         "date_posted": 1778882944,
         "url": "https://jobs.ashbyhq.com/makai-labs/a350e730-8d80-4528-9d41-497acbd01223/application",
@@ -316153,7 +316153,7 @@
         "company_name": "EOS IT Solutions",
         "id": "45a17811-98a5-4edc-b2f0-4da07f504cb2",
         "title": "Data Center Repair Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1779179761,
         "date_posted": 1778710078,
         "url": "https://eosits.com/company/careers/?gh_jid=8548252002",
@@ -326087,5 +326087,359 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Western Digital",
+        "id": "cbc6aac8-b358-411d-941e-1be5063055df",
+        "title": "Wafer Manufacturing Equipment Engineer",
+        "active": true,
+        "date_updated": 1779822183,
+        "date_posted": 1779718197,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000127757317",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Digital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Skechers",
+        "id": "5a2c0efd-e554-473d-9194-aaab256a5dac",
+        "title": "Analyst \u2013 Loyalty & CRM",
+        "active": true,
+        "date_updated": 1779822183,
+        "date_posted": 1779527915,
+        "url": "https://skechers.wd5.myworkdayjobs.com/One-career-site/job/Manhattan-Beach-CA/Analyst--Loyalty---CRM_JR128350",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Skechers",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Oregon State Government",
+        "id": "86c378b8-e426-4878-9bae-c0666b465d5e",
+        "title": "Information Architect",
+        "active": true,
+        "date_updated": 1779822183,
+        "date_posted": 1779529900,
+        "url": "https://oregon.wd5.myworkdayjobs.com/sor_external_career_site/job/Salem--DAS--Print-Plant/Information-Architect--Information-Systems-Spec6-_REQ-199857",
+        "locations": [
+            "Salem, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Oregon-State-Government",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "SitusAMC",
+        "id": "c7f8bde1-bc9f-4563-9053-9dac90b7c204",
+        "title": "Analyst \u2013 Pricing & Analytics",
+        "active": true,
+        "date_updated": 1779822183,
+        "date_posted": 1779527822,
+        "url": "https://situsamc.wd1.myworkdayjobs.com/SitusAMC/job/Denver-CO/Analyst--Pricing---Analytics_JR02760",
+        "locations": [
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/SitusAMC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Flex",
+        "id": "0e7b62e6-7c33-41ec-ae79-96f02f310fe8",
+        "title": "Debug Technician",
+        "active": true,
+        "date_updated": 1779822183,
+        "date_posted": 1778945078,
+        "url": "https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-UT-Salt-Lake-City/Debug-Technician-D-Shift_WD220511",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Flex",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "GXO Logistics",
+        "id": "8c477ae0-2939-475f-97f7-7f3e952c4b21",
+        "title": "Associate Analyst - Operations",
+        "active": true,
+        "date_updated": 1779822183,
+        "date_posted": 1778922365,
+        "url": "https://jobs.gxo.com/job/Union-City-Associate-Analyst,-Operations-Fairburn,-GA-GA-30291-5200/1390859100/?ats=successfactors",
+        "locations": [
+            "Union City, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/GXO-Logistics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Honeywell",
+        "id": "8e115768-416f-4ace-8670-7ddefcc5e987",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1779822541,
+        "date_posted": 1778882744,
+        "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/148391",
+        "locations": [
+            "Hamilton Township, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Honeywell",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Worldwide TechServices",
+        "id": "e6bc00e2-bae0-4d1c-b701-4fc295357e90",
+        "title": "Dynamic PC Support",
+        "active": true,
+        "date_updated": 1779822183,
+        "date_posted": 1778796280,
+        "url": "https://jobs.smartrecruiters.com/WorldwideTechServices/744000126554322",
+        "locations": [
+            "New Castle, DE"
+        ],
+        "company_url": "https://simplify.jobs/c/Worldwide-TechServices",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Hologic",
+        "id": "0c7db345-2e86-486a-9795-d04f4f8ccbb1",
+        "title": "Field Service Engineer",
+        "active": true,
+        "date_updated": 1779822183,
+        "date_posted": 1778796306,
+        "url": "https://ebwb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/11569",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Hologic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Western Digital",
+        "id": "6272a1ac-baaf-4f77-a57b-c186779b0883",
+        "title": "Metrology Equipment Engineer",
+        "active": true,
+        "date_updated": 1779822183,
+        "date_posted": 1778796290,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000126587468",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Digital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Citizens Financial Group",
+        "id": "43470adf-1481-4813-990a-bf07e02c3904",
+        "title": "Private Bank Business Insights Analyst",
+        "active": true,
+        "date_updated": 1779822183,
+        "date_posted": 1778767582,
+        "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/46708",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Citizens-Financial-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "BrightSpring Health Services ",
+        "id": "7fdc67f4-fe34-44d6-8b19-0ba0ac2d94f6",
+        "title": "Data & Reporting Analyst",
+        "active": true,
+        "date_updated": 1779822183,
+        "date_posted": 1778710078,
+        "url": "https://careers-brightspring.icims.com/jobs/189876/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Louisville, KY"
+        ],
+        "company_url": "https://simplify.jobs/c/BrightSpring-Health-Services",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Sysmex",
+        "id": "920b12fb-9351-4615-a3ef-f5550819598a",
+        "title": "Field Service Technician",
+        "active": true,
+        "date_updated": 1779822183,
+        "date_posted": 1778720751,
+        "url": "https://careers-sysmex.icims.com/jobs/4703/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Tulsa, OK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sysmex",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Lawrence Livermore National Laboratory (LLNL)",
+        "id": "5792b5a2-ef1d-434b-b7d6-f3b05887383d",
+        "title": "Design Optimization Engineer - Postdoctoral Researcher",
+        "active": true,
+        "date_updated": 1779822183,
+        "date_posted": 1778720748,
+        "url": "https://jobs.smartrecruiters.com/LLNL/3743990013125026",
+        "locations": [
+            "Livermore, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/LLNL",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "General Dynamics Mission Systems",
+        "id": "78ab6c83-7d91-460e-acf5-e924894eb1cc",
+        "title": "Entry Level Infrastructure Software Engineer",
+        "active": true,
+        "date_updated": 1779822183,
+        "date_posted": 1778710070,
+        "url": "https://careers-gdms.icims.com/jobs/72580/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Pittsfield, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Flex",
+        "id": "6d5513a7-2bae-4bb4-b626-19a785a74edd",
+        "title": "Debug Technician",
+        "active": true,
+        "date_updated": 1779822183,
+        "date_posted": 1778943865,
+        "url": "https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-UT-Salt-Lake-City/Debug-Technician-D-Shift_WD219906",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Flex",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "EPIC Insurance Brokers & Consultants",
+        "id": "086c1a0b-b9d9-4ed5-981b-b527c550f09c",
+        "title": "Product Operations Coordinator",
+        "active": true,
+        "date_updated": 1779822183,
+        "date_posted": 1778710480,
+        "url": "https://job-boards.greenhouse.io/edgewoodpartnersinsurancecenter/jobs/8540370002",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/EPIC-Insurance-Brokers-And-Consultants",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Elekta",
+        "id": "2bef8297-48c9-430d-a0a8-4aa0694f67bf",
+        "title": "Associate Field Service Engineer",
+        "active": true,
+        "date_updated": 1779819398,
+        "date_posted": 1776895743,
+        "url": "https://elekta.wd3.myworkdayjobs.com/Elekta_Careers/job/Louisiana--Home-Based/Associate-Field-Service-Engineer_R2026-0169",
+        "locations": [
+            "Louisiana"
+        ],
+        "company_url": "https://simplify.jobs/c/Elekta",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
     }
 ]
