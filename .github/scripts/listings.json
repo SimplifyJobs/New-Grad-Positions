@@ -300027,7 +300027,7 @@
         "company_name": "GlobalFoundries",
         "id": "779004d3-4a54-43d0-97f0-648728c86761",
         "title": "Talent Accelerator Program New College Graduate",
-        "active": true,
+        "active": false,
         "date_updated": 1778019654,
         "date_posted": 1778018832,
         "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Talent-Accelerator-Program--2026-New-College-Graduate-_JR-2602015",
@@ -300128,7 +300128,7 @@
         "company_name": "StackAV",
         "id": "f65864ae-11c4-4f2b-98f1-4f386015349f",
         "title": "Contract Labeling Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1778019661,
         "date_posted": 1778018898,
         "url": "https://job-boards.greenhouse.io/stackav/jobs/5129576007",
@@ -300396,7 +300396,7 @@
         "company_name": "Appian",
         "id": "cc7a5f88-05f2-4c82-a3cb-8d3f908d4e50",
         "title": "Associate Product Owner",
-        "active": true,
+        "active": false,
         "date_updated": 1778020282,
         "date_posted": 1778019132,
         "url": "https://job-boards.greenhouse.io/appian/jobs/7884204",
@@ -300813,7 +300813,7 @@
         "company_name": "KLA Corporation",
         "id": "ce79eb54-791e-420f-ae5c-f5a5c6243d0d",
         "title": "System Design Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1778029561,
         "date_posted": 1778029555,
         "url": "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/System-Design-Engineer--E-_2636602-1",
@@ -300914,7 +300914,7 @@
         "company_name": "SpaceX",
         "id": "d3a2d6b4-b92c-41cd-8608-e1d2d5e108ff",
         "title": "Embedded Software Engineer - OS/Platform - Starshield",
-        "active": true,
+        "active": false,
         "date_updated": 1778029741,
         "date_posted": 1778029571,
         "url": "https://boards.greenhouse.io/spacex/jobs/8530798002",
@@ -323584,6 +323584,186 @@
             "Binghamton, NY"
         ],
         "company_url": "https://simplify.jobs/c/Worldwide-TechServices",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Guidehouse",
+        "id": "b0d67c11-121a-4433-b54a-724bbff9f229",
+        "title": "Financial Management Transformation Analyst",
+        "active": true,
+        "date_updated": 1779820921,
+        "date_posted": 1779529237,
+        "url": "https://guidehouse.wd1.myworkdayjobs.com/external/job/US---AL-Huntsville/FM-Transformation-Analyst_38886",
+        "locations": [
+            "Remote in USA",
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Guidehouse",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Tempus",
+        "id": "8a875de9-fe1a-43ba-980f-c72f8e0863b3",
+        "title": "Senior Technical Product Manager - Bioinformatics",
+        "active": true,
+        "date_updated": 1779820921,
+        "date_posted": 1779531304,
+        "url": "https://tempus.wd5.myworkdayjobs.com/Tempus_Careers/job/Remote---Illinois/Sr-Technical-Product-Manager----Bioinformatics_JR202600398-1",
+        "locations": [
+            "Illinois"
+        ],
+        "company_url": "https://simplify.jobs/c/Tempus",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Crane Co.",
+        "id": "71d52be7-1c4f-4771-8875-107efb6118f5",
+        "title": "Entry Level Radio Frequency Engineer",
+        "active": true,
+        "date_updated": 1779820921,
+        "date_posted": 1778945637,
+        "url": "https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Chandler-Arizona/Entry-Level-RF-Engineer_JR101561-1",
+        "locations": [
+            "Chandler, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Crane-Co",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Ochsner Health",
+        "id": "8cbacaae-3c32-4c8d-b617-90a2acd9cdf8",
+        "title": "Epic Analyst Associate/Analyst",
+        "active": true,
+        "date_updated": 1779820921,
+        "date_posted": 1778945121,
+        "url": "https://ochsner.wd1.myworkdayjobs.com/ochsner/job/New-Orleans---New-Orleans-Region---Louisiana/IS-Epic-Analyst-Associate-Analyst_REQ_00263485",
+        "locations": [
+            "New Orleans, LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Ochsner-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Syneos Health",
+        "id": "38b3c8d1-0cbf-4090-8df9-f0a46eb5c9fe",
+        "title": "Inventory Support Coordinator",
+        "active": true,
+        "date_updated": 1779820921,
+        "date_posted": 1778941229,
+        "url": "https://syneoshealth.wd12.myworkdayjobs.com/Syneos_Health_External_Site/job/USA-NJ-Bridgewater/Inventory-Support-Technician--Bridgewater--NJ_25107720",
+        "locations": [
+            "Bridgewater Township, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Syneos-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Emerson Electric",
+        "id": "c8c9349c-9e88-40eb-a86c-50215f5c3683",
+        "title": "Parts Pricing Analyst",
+        "active": true,
+        "date_updated": 1779820921,
+        "date_posted": 1778076425,
+        "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26004548",
+        "locations": [
+            "Iowa"
+        ],
+        "company_url": "https://simplify.jobs/c/Emerson-Electric",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GE Healthcare",
+        "id": "53e9ac5d-6646-45e1-9810-fc95c86f4d05",
+        "title": "Field Service Engineer 1",
+        "active": true,
+        "date_updated": 1779820921,
+        "date_posted": 1778941979,
+        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-I---St-Louis--MO_R4040646-1",
+        "locations": [
+            "St. Louis, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Healthcare",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Worldwide TechServices",
+        "id": "d2241fcd-5a6f-40d5-b430-38c6d88e400d",
+        "title": "Dynamic Server Support",
+        "active": true,
+        "date_updated": 1779830289,
+        "date_posted": 1778018669,
+        "url": "https://jobs.smartrecruiters.com/WorldwideTechServices/744000124667579",
+        "locations": [
+            "Indianapolis, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Worldwide-TechServices",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Wunderman Thompson",
+        "id": "cf69c2fc-0dec-4ac2-a00d-3d27e582019d",
+        "title": "Prompt Engineer - AI",
+        "active": true,
+        "date_updated": 1779820921,
+        "date_posted": 1778019120,
+        "url": "https://www.vml.com/careers/job/8536246002?gh_jid=8536246002",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Wunderman-Thompson",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
