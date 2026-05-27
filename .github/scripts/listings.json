@@ -60767,7 +60767,7 @@
         "company_name": "Cisco",
         "id": "752cc127-39ae-4bed-977a-4fcbab271df8",
         "title": "Software Developer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1763664416,
         "date_posted": 1763664416,
         "url": "https://careers.cisco.com/global/en/job/2001076",
@@ -96015,7 +96015,7 @@
         "company_name": "Figure",
         "id": "d5f0fe23-0a37-470b-a1d9-728b293a7e93",
         "title": "Helix Data Creator",
-        "active": true,
+        "active": false,
         "date_updated": 1766099808,
         "date_posted": 1766099808,
         "url": "https://job-boards.greenhouse.io/figureai/jobs/4627111006",
@@ -226866,7 +226866,7 @@
         "company_name": "Aurora Innovation",
         "id": "c9cea194-4359-4677-af86-57f85ced4893",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1773728893,
         "date_posted": 1773728893,
         "url": "https://aurora.tech/jobs/8159549002?gh_jid=8159549002",
@@ -231506,7 +231506,7 @@
         "company_name": "Avnet",
         "id": "de8e563a-38a9-48ca-abdb-d0146a1aed16",
         "title": "Associate Field Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773959515,
         "date_posted": 1773959515,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Irvine-California-United-States-Of-America/Associate-Field-Application-Engineer_JR-022070",
@@ -255073,7 +255073,7 @@
         "company_name": "JP Morgan Chase",
         "id": "2b5f44bd-5554-44d7-a41f-5ce53e1c7f48",
         "title": "Trading Support Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1775179261,
         "date_posted": 1775178516,
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210730123",
@@ -271465,7 +271465,7 @@
         "company_name": "Seagate Technology ",
         "id": "9f273ac2-2090-4221-9d62-ead6140cfa4c",
         "title": "Firmware Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1776120480,
         "date_posted": 1776117997,
         "url": "https://seagatecareers.com/job/Longmont-Firmware-Engineer-I-CO-80501/1350991300/?ats=successfactors",
@@ -280877,7 +280877,7 @@
         "company_name": "Leidos",
         "id": "cb388efe-d374-4911-af46-aad02fa45408",
         "title": "Radio Frequency Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1776529668,
         "date_posted": 1776526488,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/RF-Engineer_R-00176557-1",
@@ -294279,7 +294279,7 @@
         "company_name": "Carnegie Mellon University",
         "id": "6b8d571f-e306-4d64-890e-c928d8337dbd",
         "title": "Research Associate - College of Engineering - Electrical and Computer Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1777501441,
         "date_posted": 1777500609,
         "url": "https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Research-Associate---College-of-Engineering---Electrical-and-Computer-Engineering_2024479",
@@ -310576,7 +310576,7 @@
         "company_name": "Wolters Kluwer",
         "id": "ec17f40c-b8ce-4fc7-8d0c-85fc6426bae7",
         "title": "Associate Product Software Engineer - Systems Engineer in Test",
-        "active": false,
+        "active": true,
         "date_updated": 1778707982,
         "date_posted": 1778623463,
         "url": "https://wk.wd3.myworkdayjobs.com/en-US/External/job/USA---Kennesaw-GA/Associate-Product-Software-Engineer---Systems-Engineer-in-Test_R0057034",
@@ -319903,7 +319903,7 @@
         "company_name": "LexisNexis Legal & Professional",
         "id": "33ff65fe-7dfc-4b78-94f2-5160bccd9138",
         "title": "Data Discovery and Enrichment Expert 1",
-        "active": false,
+        "active": true,
         "date_updated": 1779403140,
         "date_posted": 1779401021,
         "url": "https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Quebec/Data-Discovery-and-Enrichment-Expert-I--Canada-Bilingual-Hybrid-or-Remote-_R113429",
@@ -324436,7 +324436,7 @@
         "company_name": "Marsh",
         "id": "ef80aaf9-fdce-43f3-89ba-2a1ab3bdd925",
         "title": "Researcher - Antitrust and Competition",
-        "active": false,
+        "active": true,
         "date_updated": 1779844619,
         "date_posted": 1778940337,
         "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/New-York---1166/NERA-Researcher---Antitrust-and-Competition--NYC-or-Washington--DC-_R_350346-1",
@@ -327496,7 +327496,7 @@
         "company_name": "The Walt Disney Company",
         "id": "8c64de40-674c-4820-ae34-c4849de7a0a2",
         "title": "Viewer Insights Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1779825065,
         "date_posted": 1779529887,
         "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Santa-Monica-CA-USA/Viewer-Insights-Analyst_10151429",
@@ -330349,7 +330349,7 @@
         "company_name": "Beghou Consulting",
         "id": "d27a0353-7039-4f83-bf1f-a29382988e38",
         "title": "Associate Consultant",
-        "active": true,
+        "active": false,
         "date_updated": 1779827406,
         "date_posted": 1779487675,
         "url": "https://jobs.lever.co/beghouconsulting/a64babf9-fca5-477c-b85d-bd86d53dd09a/apply",
@@ -330966,6 +330966,569 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Savannah River National Laboratory",
+        "id": "ff32533c-c798-42fa-8372-d29bc416428f",
+        "title": "Graduate Fellow - AI & Knowledge Management",
+        "active": true,
+        "date_updated": 1779921721,
+        "date_posted": 1779919649,
+        "url": "https://ewvl.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2122",
+        "locations": [
+            "North Augusta, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/Savannah-River-National-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Carnegie Mellon University",
+        "id": "d04acdbb-08c2-49ab-aefd-396ca452c8a0",
+        "title": "Research Associate - School of Computer Science - Human-Computer Interaction Institute",
+        "active": true,
+        "date_updated": 1779920281,
+        "date_posted": 1779919698,
+        "url": "https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Research-Associate---School-of-Computer-Science---HCII_2024580",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Carnegie-Mellon-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Marvell",
+        "id": "78e544a7-814c-444e-9457-9a6760e5f841",
+        "title": "AI Solutions Analyst",
+        "active": true,
+        "date_updated": 1779920962,
+        "date_posted": 1779919584,
+        "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/AI-Solutions-Analyst---Early-Career_2601236",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Marvell",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SpaceX",
+        "id": "2aec360c-7d97-44c9-90e1-5ad25913c551",
+        "title": "Software Engineer - Hardware Test & Automation - Starlink",
+        "active": true,
+        "date_updated": 1779921017,
+        "date_posted": 1779919835,
+        "url": "https://boards.greenhouse.io/spacex/jobs/8565155002",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/SpaceX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Intel",
+        "id": "1ed80014-105f-4b41-aa5d-30f8a8c219e7",
+        "title": "Packaging Module Development Engineer",
+        "active": true,
+        "date_updated": 1779921525,
+        "date_posted": 1779919845,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Packaging-Module-Development-Engineer_JR0284366",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "OneMain Financial",
+        "id": "d3216cd0-5262-4cfe-b46e-598b2bd5d819",
+        "title": "Data Science Analyst - Consumer Lending",
+        "active": true,
+        "date_updated": 1779919573,
+        "date_posted": 1779919456,
+        "url": "https://myhrhome.wd1.myworkdayjobs.com/en-US/OneMainCareers/job/Wilmington-DE/Data-Science-Analyst_R2605-50999",
+        "locations": [
+            "Charlotte, NC",
+            "Wilmington, DE"
+        ],
+        "company_url": "https://simplify.jobs/c/b4966f20-7ca2-4e09-9e76-ea8708e860ec",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "JP Morgan Chase",
+        "id": "6a563506-9083-4b6d-938d-a7d4fc71c196",
+        "title": "Trading Services Associate",
+        "active": true,
+        "date_updated": 1779919998,
+        "date_posted": 1779919489,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210738478",
+        "locations": [
+            "Newark, DE",
+            "Columbus, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Hewlett Packard (HP)",
+        "id": "50da9d2e-cb89-48ab-a727-9afe95f6829e",
+        "title": "Data Analyst & Business Planner",
+        "active": true,
+        "date_updated": 1779920114,
+        "date_posted": 1779919520,
+        "url": "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Spring-Texas-United-States-of-America/North-America-Pursuit-Data-Analyst---Business-Planner_3162589-1",
+        "locations": [
+            "Spring, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Carnegie Mellon University",
+        "id": "882bc26d-08e0-4b8b-bd43-89acd6f91b67",
+        "title": "Research Assistant - College of Engineering - Chemical Engineering",
+        "active": true,
+        "date_updated": 1779920281,
+        "date_posted": 1779919700,
+        "url": "https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Research-Assistant---College-of-Engineering---Chemical-Engineering_2024566",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Carnegie-Mellon-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Signify",
+        "id": "3988c057-b02a-4883-8bdb-60eed1052ff9",
+        "title": "Reliability Lab Technician - Cooper Lighting Solutions",
+        "active": true,
+        "date_updated": 1779920281,
+        "date_posted": 1779919648,
+        "url": "https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Peachtree-City/Reliability-Lab-Technician--Cooper-Lighting-Solutions_364382",
+        "locations": [
+            "Fayetteville, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Signify",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Crusoe",
+        "id": "8c3c70ad-9813-4f53-8509-62a19d6b17c6",
+        "title": "Strategic Sourcing Data Analyst",
+        "active": true,
+        "date_updated": 1779921017,
+        "date_posted": 1779919664,
+        "url": "https://jobs.ashbyhq.com/Crusoe/0d2f3a05-7f9b-49f7-a34a-e08130812aab/application",
+        "locations": [
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Crusoe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Eversource Energy",
+        "id": "77e33eb3-6924-47db-95fb-ef9cebbe0d67",
+        "title": "Associate Analyst - Electric Field Operations Support",
+        "active": true,
+        "date_updated": 1779921721,
+        "date_posted": 1779919569,
+        "url": "https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Hooksett-NH/Associate-Analyst--Electric-Field-Operations-Support--Hybrid-_R-030771",
+        "locations": [
+            "Manchester, NH"
+        ],
+        "company_url": "https://simplify.jobs/c/Eversource-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Halliburton",
+        "id": "6db2a90f-7753-4e0c-aa18-c31f5d8069e3",
+        "title": "F&A Analytics CoE Analyst",
+        "active": true,
+        "date_updated": 1779920175,
+        "date_posted": 1779919536,
+        "url": "https://jobs.halliburton.com/job/Houston-F&A-Analytics-CoE-Analyst-TX-77032/1394448800/?ats=successfactors",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Halliburton",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Eversource Energy",
+        "id": "577e9c85-f79a-4b74-ad56-a452710c49f6",
+        "title": "Associate Analyst - Electric Field Operations Support",
+        "active": true,
+        "date_updated": 1779919573,
+        "date_posted": 1779919568,
+        "url": "https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Hooksett-NH/Associate-Analyst--Electric-Field-Operations-Support--Hybrid-_R-030766",
+        "locations": [
+            "Manchester, NH"
+        ],
+        "company_url": "https://simplify.jobs/c/Eversource-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "PNC Financial Services",
+        "id": "54e6f31c-295f-4a98-a214-273c71450b56",
+        "title": "Technology Development Program",
+        "active": true,
+        "date_updated": 1779921600,
+        "date_posted": 1779919883,
+        "url": "https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Technology-Development-Program_R224348-1",
+        "locations": [
+            "Cleveland, OH",
+            "Birmingham, AL",
+            "Dallas, TX",
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/PNC-Financial-Services",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Finra",
+        "id": "463fdb1a-9815-4542-b1f4-a40f410af818",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1779921721,
+        "date_posted": 1779919568,
+        "url": "https://finra.wd1.myworkdayjobs.com/FINRA/job/Rockville-MD-Job-Posting/Software-Engineer_R-010011",
+        "locations": [
+            "North Bethesda, MD",
+            "Vienna, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Finra",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Chaucer Group",
+        "id": "61a623d2-561c-47e9-8205-18bcc55ea58f",
+        "title": "Emerging Catastrophe Risk Analyst",
+        "active": true,
+        "date_updated": 1779919573,
+        "date_posted": 1779919550,
+        "url": "https://chaucergroup.wd3.myworkdayjobs.com/chaucer_group_careers/job/London/Emerging-Catastrophe-Risk-Analyst_JR101301",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Chaucer-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Sysmex",
+        "id": "8721f327-cbe0-4300-8393-1f3650bc990c",
+        "title": "Engineer 1 - Service",
+        "active": true,
+        "date_updated": 1779920247,
+        "date_posted": 1779919556,
+        "url": "https://careers-sysmex.icims.com/jobs/4719/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "New Haven, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/Sysmex",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "StoneX Group",
+        "id": "5707b5f0-06ea-4d75-bda0-5949ce63aa44",
+        "title": "Junior Corn Oil Trader",
+        "active": true,
+        "date_updated": 1779921017,
+        "date_posted": 1779919620,
+        "url": "https://careers-stonex.icims.com/jobs/15267/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Columbus, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/StoneX-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Community Health Systems",
+        "id": "4b045685-568c-4ba8-91a2-9e8cfa2738f8",
+        "title": "Service Desk Rep",
+        "active": true,
+        "date_updated": 1779920281,
+        "date_posted": 1779919676,
+        "url": "https://fa-evxo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/153865",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Community-Health-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Aviagen",
+        "id": "2dd8727d-562d-444a-9f7e-95813342fb9f",
+        "title": "Lab Information Management Systems Data Analyst",
+        "active": true,
+        "date_updated": 1779921265,
+        "date_posted": 1779919703,
+        "url": "https://aviagen.wd1.myworkdayjobs.com/aviagen-careers/job/Elkmont-Alabama/Lab-Information-Mgnt-Systems-Data-Analyst_JR102112",
+        "locations": [
+            "Madison, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Aviagen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Attention Arc",
+        "id": "c98094f6-ae04-4ea2-91d9-fefa50a9c1da",
+        "title": "Data Engineer",
+        "active": true,
+        "date_updated": 1779919573,
+        "date_posted": 1779919554,
+        "url": "https://job-boards.greenhouse.io/attentionarc/jobs/7961639",
+        "locations": [
+            "Tarrytown, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Attention-Arc",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Netcompany",
+        "id": "2561d0eb-9341-4bdd-8784-26c66caed47e",
+        "title": "Graduate Data Engineer",
+        "active": true,
+        "date_updated": 1779919573,
+        "date_posted": 1779919390,
+        "url": "https://jobs.smartrecruiters.com/Netcompany1/744000128752871",
+        "locations": [
+            "Leeds, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Netcompany",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Kroll",
+        "id": "22c2cc28-25c5-4e3f-a312-166eb7b7e47b",
+        "title": "Portfolio Valuation Analyst",
+        "active": true,
+        "date_updated": 1779921171,
+        "date_posted": 1779919659,
+        "url": "https://hcxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/21014303",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Kroll",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Precision AQ",
+        "id": "1cc479ab-ef02-4e9e-b4aa-a568ff95a391",
+        "title": "Associate Research Scientist - Real World Evidence",
+        "active": true,
+        "date_updated": 1779921017,
+        "date_posted": 1779919660,
+        "url": "https://job-boards.greenhouse.io/precisionaq/jobs/6003007004",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Precision-AQ",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Arcana",
+        "id": "68ad2469-5eb6-410a-9a5b-a7a584ba8be9",
+        "title": "Portfolio Analytics Specialist",
+        "active": true,
+        "date_updated": 1779920806,
+        "date_posted": 1779055588,
+        "url": "https://job-boards.greenhouse.io/arcanaanalytics/jobs/4250656009",
+        "locations": [
+            "Chicago, IL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Arcana-Analytics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Marsh",
+        "id": "73300b96-072a-43b0-b5e3-5660b6933e3a",
+        "title": "NERA Research Officer/Economic Analyst - Energy and Natural Resources",
+        "active": true,
+        "date_updated": 1779920334,
+        "date_posted": 1778940354,
+        "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/London---St-Botolph/NERA-Research-Officer-Economic-Analyst---Energy-and-Natural-Resources_R_321718-1",
+        "locations": [
+            "London, UK",
+            "Frankfurt, Germany"
+        ],
+        "company_url": "https://simplify.jobs/c/55341c12-8fd6-4cce-8472-d15c4a3ab583",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Interactive Brokers Group",
+        "id": "96f931fa-e1ad-455d-9af7-9b7d764b92df",
+        "title": "Technical Operations Specialist - Technical Operations",
+        "active": true,
+        "date_updated": 1779920488,
+        "date_posted": 1773872296,
+        "url": "https://job-boards.greenhouse.io/ibkr/jobs/8465047002",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Interactive-Brokers-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
