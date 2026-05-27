@@ -177033,7 +177033,7 @@
         "company_name": "Applied Materials",
         "id": "cd9b5a28-16fc-40d4-998e-3c7a25678d37",
         "title": "Computational Physicist \u2013 AI/ML - Plasma Modeling",
-        "active": true,
+        "active": false,
         "date_updated": 1771373189,
         "date_posted": 1771373189,
         "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Computational-Physicist---Plasma-Modeling--AI-ML-New-College-Grad---Doctorate-Degree--Santa-Clara--Ca-_R2612851",
@@ -212786,7 +212786,7 @@
         "company_name": "Crowdstrike",
         "id": "4144d115-2df3-4a2d-826d-a730e1e814fb",
         "title": "AI Fraud and Risk Automation Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1773097044,
         "date_posted": 1773097044,
         "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/AI-Fraud-and-Risk-Automation-Analyst--Remote-_R27628",
@@ -307068,7 +307068,7 @@
         "company_name": "Moog ",
         "id": "ca792906-c8ff-4f97-8dcb-72d1191f7c41",
         "title": "Electronic Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1778508541,
         "date_posted": 1778508517,
         "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Blacksburg-VA/Electronic-Technician_R-26-17629",
@@ -307902,7 +307902,7 @@
         "company_name": "SpaceX",
         "id": "338290b2-169c-4c00-b650-320c3455c38e",
         "title": "Mechanical Engineer New Grad - Starlink",
-        "active": true,
+        "active": false,
         "date_updated": 1778538990,
         "date_posted": 1778537492,
         "url": "https://boards.greenhouse.io/spacex/jobs/8542046002",
@@ -308140,7 +308140,7 @@
         "company_name": "WSP",
         "id": "ad2f6601-e00d-4396-86e1-3fdd382a04e5",
         "title": "Transport Modeller / Assistant Transport Modeller",
-        "active": true,
+        "active": false,
         "date_updated": 1778576762,
         "date_posted": 1778576737,
         "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/86789",
@@ -308230,7 +308230,7 @@
         "company_name": "Ohio State University",
         "id": "0108f4eb-98f0-43dc-a867-ca221acdd6c5",
         "title": "Research Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1778594761,
         "date_posted": 1778594674,
         "url": "https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Columbus-Campus/Research-Technician_R150916-1",
@@ -308454,7 +308454,7 @@
         "company_name": "L3Harris Technologies",
         "id": "58bd8acd-032d-474d-885b-bb9515f84f5b",
         "title": "Radiographic Inspector Level 2",
-        "active": true,
+        "active": false,
         "date_updated": 1778709050,
         "date_posted": 1778623709,
         "url": "https://jobs.l3harris.com/job/Canoga-Park-Inspector-Level-2-Radiographic-NDT-NDE-CA-91311/1390277300/?ats=successfactors",
@@ -309547,7 +309547,7 @@
         "company_name": "Western Digital",
         "id": "5fbc39f6-5d19-4675-95d5-6c6d0f031592",
         "title": "PhD Interface Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1778708378,
         "date_posted": 1778623483,
         "url": "https://jobs.smartrecruiters.com/WesternDigital/744000126152779",
@@ -309867,7 +309867,7 @@
         "company_name": "Dover",
         "id": "d4e0cc19-d456-4f27-bf06-1cdc8e5a4a1d",
         "title": "Junior Lab Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1778708881,
         "date_posted": 1778623660,
         "url": "https://careers.dovercorporation.com/job/South-Chesterfield-Junior-Lab-Engineer-VA-23834/1393062333/?ats=successfactors",
@@ -310314,7 +310314,7 @@
         "company_name": "NJM Insurance Group",
         "id": "627d0820-d7a4-4426-a33c-a1ba6a4a8752",
         "title": "Insurance Product Management Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1778708881,
         "date_posted": 1778623656,
         "url": "https://njm.wd1.myworkdayjobs.com/njm/job/NJM---Trenton/Insurance-Product-Management-Analyst---Hybrid_R2007878",
@@ -310373,7 +310373,7 @@
         "company_name": "Duke University",
         "id": "2e4b27aa-8307-4ead-a401-896686a2683f",
         "title": "Research Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1778708466,
         "date_posted": 1778623622,
         "url": "https://careers.duke.edu/job/Durham-Associate-in-Research-NC-27710/1373072400/?ats=successfactors",
@@ -324993,6 +324993,337 @@
             "Rochester, NY"
         ],
         "company_url": "https://simplify.jobs/c/University-Of-Rochester",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SSM Health",
+        "id": "aa238bc7-a68e-4f95-8d6e-b44800af7780",
+        "title": "Epic Application Analyst Associate - S",
+        "active": true,
+        "date_updated": 1779821821,
+        "date_posted": 1779530612,
+        "url": "https://ssmh.wd5.myworkdayjobs.com/ssmhealth/job/WI-REMOTE/Epic-Application-Analyst-Associate--S-_R193672",
+        "locations": [
+            "Wisconsin"
+        ],
+        "company_url": "https://simplify.jobs/c/SSM-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Micron Technology",
+        "id": "6019d698-80cf-481a-9641-582bd288acbc",
+        "title": "DRAM Design Engineer - Tpg",
+        "active": true,
+        "date_updated": 1779821641,
+        "date_posted": 1779530612,
+        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/DRAM-Design-Engineer---TPG_JR101296",
+        "locations": [
+            "Boise, ID"
+        ],
+        "company_url": "https://simplify.jobs/c/Micron-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Astreya",
+        "id": "9bb24fc6-7b6a-4dc1-a937-1d8e0d0d4c88",
+        "title": "Hardware Support Technician 1",
+        "active": true,
+        "date_updated": 1779821821,
+        "date_posted": 1779527621,
+        "url": "https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Mountain-View-CA/Hardware-Support-Technician-I_R0015496",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Astreya",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Wellington Management",
+        "id": "789cc00a-a3c3-4123-af8c-3a60833e47db",
+        "title": "Performance & Benchmark Analyst",
+        "active": true,
+        "date_updated": 1779821821,
+        "date_posted": 1778941328,
+        "url": "https://wellington.wd5.myworkdayjobs.com/external/job/London-United-Kingdom/Performance---Benchmark-Analyst_R94123-1",
+        "locations": [
+            "Boston, MA",
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Wellington-Management",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Chord Energy",
+        "id": "67754d5b-9fd7-40bf-b7c3-21b5b89a0dcc",
+        "title": "Production Optimization Engineer",
+        "active": true,
+        "date_updated": 1779821641,
+        "date_posted": 1778941411,
+        "url": "https://chordenergy.wd1.myworkdayjobs.com/external/job/Williston-ND---Field-Office/Production-Optimization-Engineer_R0002409-1",
+        "locations": [
+            "Williston, ND"
+        ],
+        "company_url": "https://simplify.jobs/c/6318f491-c84d-4570-aca1-0d51c5e85b84",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Argonne National Laboratory",
+        "id": "fd7f5f45-ae2e-4db2-a551-8abe31673fe9",
+        "title": "Scientific Associate",
+        "active": true,
+        "date_updated": 1779821641,
+        "date_posted": 1778942068,
+        "url": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Scientific-Associate_422763",
+        "locations": [
+            "Woodridge, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Argonne-National-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Capital One",
+        "id": "f9859f5f-6877-4937-9f0f-06f8b55aa0ab",
+        "title": "Applied Researcher 1",
+        "active": true,
+        "date_updated": 1779819398,
+        "date_posted": 1778943832,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Applied-Researcher-I_R241118",
+        "locations": [
+            "Cambridge, MA",
+            "SF",
+            "San Jose, CA",
+            "McLean, VA",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Capital-One",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "First Financial Bank",
+        "id": "18ec07d1-aa1e-4150-ba4c-e2ab99a711e4",
+        "title": "Investment Information Systems Analyst",
+        "active": true,
+        "date_updated": 1779821821,
+        "date_posted": 1778940432,
+        "url": "https://bankatfirst.wd1.myworkdayjobs.com/ffb/job/OH---Cincinnati---5th-St/Investment-Information-Systems-Analyst_R8944",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/First-Financial-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Hologic",
+        "id": "5621c473-e6bf-449c-8264-8afc0d9c5a3e",
+        "title": "Field Service Engineer",
+        "active": true,
+        "date_updated": 1779821821,
+        "date_posted": 1778623589,
+        "url": "https://ebwb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/11537",
+        "locations": [
+            "Winter Haven, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Hologic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Vertiv",
+        "id": "88cf64da-56ca-4c84-9ef5-e4589003341b",
+        "title": "Test Team Operative/Technician",
+        "active": true,
+        "date_updated": 1779821821,
+        "date_posted": 1778576698,
+        "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20271139",
+        "locations": [
+            "Glasgow, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Vertiv",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Field AI",
+        "id": "485c1542-a323-4709-ac14-7c87c55175e9",
+        "title": "Embedded Systems Engineer",
+        "active": true,
+        "date_updated": 1779821821,
+        "date_posted": 1778565997,
+        "url": "https://jobs.lever.co/field-ai/5aa0a3ef-b693-4404-829a-63d8b9dad776/apply",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Field-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Uline",
+        "id": "3be20bcf-e437-4e9e-994b-0cadedf28ba7",
+        "title": "Associate Sales Analyst",
+        "active": true,
+        "date_updated": 1779821641,
+        "date_posted": 1778945616,
+        "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Associate-Sales-Analyst_R257050-1",
+        "locations": [
+            "Waukegan, IL",
+            "Milwaukee, WI",
+            "Pleasant Prairie, WI",
+            "Morton Grove, IL",
+            "Kenosha, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Uline",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Kaseya",
+        "id": "33add527-4216-448d-99e7-bef2c14414af",
+        "title": "IT Helpdesk Engineer",
+        "active": true,
+        "date_updated": 1779821641,
+        "date_posted": 1778537410,
+        "url": "https://www.kaseya.com/careers/jobs/id/5988020004/?gh_jid=5988020004",
+        "locations": [
+            "Miami, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Kaseya",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": " MAG Aerospace",
+        "id": "3eeaaf95-fff0-444f-b8a3-17d66861f1f4",
+        "title": "Radio Frequency Engineer",
+        "active": true,
+        "date_updated": 1779821641,
+        "date_posted": 1778537277,
+        "url": "https://careers-magaero.icims.com/jobs/8204/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Fort Belvoir, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/MAG-Aerospace",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ENFRA",
+        "id": "43103487-b4ed-4e26-91c8-d485af9bc69f",
+        "title": "Energy Analyst 1",
+        "active": true,
+        "date_updated": 1779821641,
+        "date_posted": 1778537108,
+        "url": "https://careers-enfra.icims.com/jobs/10030/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Little Rock, AR"
+        ],
+        "company_url": "https://simplify.jobs/c/ENFRA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Vanderbilt University",
+        "id": "aa43075e-0762-4b2b-801e-5e969ecb2aef",
+        "title": "Technical",
+        "active": true,
+        "date_updated": 1779821641,
+        "date_posted": 1778537052,
+        "url": "https://ecsr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10008276",
+        "locations": [
+            "Nashville, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/Vanderbilt-University",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
