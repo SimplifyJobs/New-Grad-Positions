@@ -197250,7 +197250,7 @@
         "company_name": "First Quality",
         "id": "557b50e5-afb4-4f01-8e62-0731609c5f3f",
         "title": "Associate Product Development Scientist - Fqrs",
-        "active": true,
+        "active": false,
         "date_updated": 1772205628,
         "date_posted": 1772205628,
         "url": "https://firstquality.wd5.myworkdayjobs.com/firstquality/job/US-PA-Lewistown/Associate-Product-Development-Scientist---FQRS_R10580",
@@ -313324,7 +313324,7 @@
         "company_name": "Callaway Golf",
         "id": "4f8a466f-b5a5-4b69-8beb-ed7348031cfa",
         "title": "Associate Prototype Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1778882941,
         "date_posted": 1778882938,
         "url": "https://tcbrands.wd1.myworkdayjobs.com/callaway-careers/job/CGC---HQ---Carlsbad/Associate-Prototype-Technician_JR2023-15898",
@@ -314772,7 +314772,7 @@
         "company_name": "Capital One",
         "id": "c23ab9c7-c961-41c7-86e4-36f0e71aa730",
         "title": "Senior Associate Product Manager",
-        "active": true,
+        "active": false,
         "date_updated": 1779055921,
         "date_posted": 1779055753,
         "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Associate-Product-Manager---US-Card-Core-Platforms---Servicing_R242781",
@@ -321380,7 +321380,7 @@
         "company_name": "Cisco",
         "id": "349500bf-cf4c-4b00-8006-ee78b5b0ddbb",
         "title": "Software Engineer Backend/Platform 2",
-        "active": true,
+        "active": false,
         "date_updated": 1779498712,
         "date_posted": 1779498389,
         "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/Software-Engineer-Backend-Platform-II--Full-Time---United-States-ENG-CPO-WTG-ETR_2011251",
@@ -321505,7 +321505,7 @@
         "company_name": "AeroVironment",
         "id": "bea449ab-0801-45b4-bc1b-298f2b83e82b",
         "title": "Product Engineer - Ngcm",
-        "active": true,
+        "active": false,
         "date_updated": 1779529321,
         "date_posted": 1779528288,
         "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/410-Jan-Davis-Drive-NorthWest-Huntsville-AL/Product-Engineer---NGCM_7761",
@@ -321525,7 +321525,7 @@
         "company_name": "RTX",
         "id": "46c494ec-4ee7-4f9a-b4d3-80d520670399",
         "title": "MRO Quality Technician 1 - Final Inspection",
-        "active": true,
+        "active": false,
         "date_updated": 1779530959,
         "date_posted": 1779528529,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/MRO-Quality-Technician-I--Final-Inspection---Onsite-_01842892",
@@ -321677,7 +321677,7 @@
         "company_name": "GlobalFoundries",
         "id": "457f9565-5a65-4e2d-a839-903e2a05ac6b",
         "title": "Systems Engineer - Networking",
-        "active": true,
+        "active": false,
         "date_updated": 1779689161,
         "date_posted": 1779689131,
         "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/Systems-Engineer---Networking_JR-2601903",
@@ -321753,7 +321753,7 @@
         "company_name": "Hinds Community College",
         "id": "8727fa7f-1386-4d74-b039-81ec6d28b8b5",
         "title": "Simulation Center Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1779775446,
         "date_posted": 1779775343,
         "url": "https://hindscc.wd1.myworkdayjobs.com/HCCExternalCareersSite/job/Nursing-and-Allied-Health-Center/Simulation-Center-technician_REQ-4805",
@@ -328462,5 +328462,164 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Cirrus Logic",
+        "id": "0ac2b277-353d-4c9d-a5d0-d0080ed5b18f",
+        "title": "Graduate Mixed Signal IC Layout Designer",
+        "active": true,
+        "date_updated": 1779828668,
+        "date_posted": 1779718011,
+        "url": "https://jobs.eu.lever.co/cirrus/d6b84759-90ba-4bf4-89e3-b04f9e0640a9/apply",
+        "locations": [
+            "Edinburgh, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Cirrus-Logic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Conde Nast",
+        "id": "0c8294f5-5b3a-4d14-a136-907eddd10320",
+        "title": "Analyst \u2013 People Technology & Data",
+        "active": true,
+        "date_updated": 1779828668,
+        "date_posted": 1779700160,
+        "url": "https://condenast.wd5.myworkdayjobs.com/en-US/CondeCareers/job/The-Adelphi-London-GB/Analyst--People-Technology---Data_R-23929",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Conde-Nast",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "LVT",
+        "id": "d59a4975-75c1-4ca3-931f-b6249bd8b05d",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1779834914,
+        "date_posted": 1779488384,
+        "url": "https://job-boards.greenhouse.io/liveviewtechnologiesinc/jobs/5225887008",
+        "locations": [
+            "American Fork, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/LVT",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "General Motors",
+        "id": "0d70b0a7-43fc-4ff1-86b8-f2a34353a21b",
+        "title": "Motorsports Simulator Operator",
+        "active": true,
+        "date_updated": 1779835502,
+        "date_posted": 1779314947,
+        "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Concord-North-Carolina-United-States-of-America/Motorsports-Simulator-Operator_JR-202609367",
+        "locations": [
+            "Concord, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Motors",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Astreya",
+        "id": "47a2014d-1728-4b56-9874-c6f7218dab6b",
+        "title": "Hardware Support Technician 2 - Inventory and Asset Management - Hardware & Software Reworks",
+        "active": true,
+        "date_updated": 1779831905,
+        "date_posted": 1779199501,
+        "url": "https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Mountain-View-CA/Hardware-Support-Technician-II_R0015622",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Astreya",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Worldwide TechServices",
+        "id": "9e9fe6b5-b637-4d88-b94d-f8712e634a43",
+        "title": "Dynamic PC Support",
+        "active": true,
+        "date_updated": 1779831181,
+        "date_posted": 1779141847,
+        "url": "https://jobs.smartrecruiters.com/WorldwideTechServices/744000127051313",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Worldwide-TechServices",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "H1",
+        "id": "ce699c39-7cd8-4963-8665-b00a7e5c3bda",
+        "title": "Research Analyst",
+        "active": true,
+        "date_updated": 1779822723,
+        "date_posted": 1779113183,
+        "url": "https://jobs.lever.co/h1/a5bd1f99-006c-46a8-8eb3-1cad154b3068/apply",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/H1",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Boeing Company",
+        "id": "968fba0a-94e9-46b9-b3e8-2b92069059af",
+        "title": "Flight Simulation Software Engineer Senior",
+        "active": true,
+        "date_updated": 1779822541,
+        "date_posted": 1779529222,
+        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Daytona-Beach-FL/Flight-Simulation-Software-Engineer--Associate--Experienced--and-Senior-_JR2026510755-1",
+        "locations": [
+            "Daytona Beach, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
