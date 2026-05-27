@@ -238406,7 +238406,7 @@
         "company_name": "SpaceX",
         "id": "e7fd1c70-d896-4445-911b-b11335c64b79",
         "title": "Software Engineer - Hardware Test & Automation",
-        "active": true,
+        "active": false,
         "date_updated": 1774044613,
         "date_posted": 1764719916,
         "url": "https://boards.greenhouse.io/spacex/jobs/8316301002",
@@ -290646,7 +290646,7 @@
         "company_name": "KLA Corporation",
         "id": "762d4d8e-9069-433c-8141-069ac4e97de1",
         "title": "Product Development Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1777270285,
         "date_posted": 1777270081,
         "url": "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Product-development-engineer_2636373",
@@ -316014,7 +316014,7 @@
         "company_name": "Daimler Truck",
         "id": "cdba8f5d-6c91-45e1-b2a3-c27688f44c04",
         "title": "Technical Project Leader 1",
-        "active": true,
+        "active": false,
         "date_updated": 1779171243,
         "date_posted": 1779170870,
         "url": "https://dtna.wd5.myworkdayjobs.com/dtna_affiliate/job/Portland-OR-US/Technical-Project-Leader-I_DT-17998",
@@ -316054,7 +316054,7 @@
         "company_name": "Duke Energy",
         "id": "6cf5e656-aea5-49b7-8fb3-8bb340d46021",
         "title": "Natural Gas GIS Technologist 1",
-        "active": true,
+        "active": false,
         "date_updated": 1779170976,
         "date_posted": 1779170718,
         "url": "https://dukeenergy.wd1.myworkdayjobs.com/search/job/Cincinnati-OH/Natural-Gas-GIS-Technologist-I_R39769",
@@ -320538,7 +320538,7 @@
         "company_name": "Leidos",
         "id": "0562dd34-c1bb-4954-8d1f-a789019683ee",
         "title": "Electronics Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1779488303,
         "date_posted": 1779487590,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Long-Beach-MS/Electronics-Technician_R-00183866",
@@ -321235,7 +321235,7 @@
         "company_name": "Leidos",
         "id": "6656313e-bd47-4417-b87a-ce43ceff0aab",
         "title": "Electronics Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1779488183,
         "date_posted": 1779487591,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Long-Beach-MS/Electronics-Technician_R-00183879",
@@ -326711,6 +326711,204 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Standard Aero",
+        "id": "32b4e6a9-d69b-4786-92f1-a064b225334f",
+        "title": "Pricing Data Analyst",
+        "active": true,
+        "date_updated": 1779827406,
+        "date_posted": 1779487598,
+        "url": "https://cva.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/9483",
+        "locations": [
+            "San Antonio, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Standard-Aero",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "University of Rochester",
+        "id": "31d70fcd-972f-4801-8fa6-6ce29b468814",
+        "title": "Customer Tech Support 1",
+        "active": true,
+        "date_updated": 1779827406,
+        "date_posted": 1779487599,
+        "url": "https://rochester.wd5.myworkdayjobs.com/UR_Staff/job/30-Corporate-Woods/Customer-Tech-Suppt-Tech-I_R271456",
+        "locations": [
+            "Rochester, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Rochester",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Booz Allen",
+        "id": "1b2f5b3b-8ff3-4786-809c-8345c66defd8",
+        "title": "CBRN Analyst",
+        "active": true,
+        "date_updated": 1779827406,
+        "date_posted": 1779487614,
+        "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Arlington-VA/CBRN-Analyst_R0240752",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Booz-Allen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "IBC Bank",
+        "id": "c5932f0b-8b4c-4027-8cf0-cc4b23498ae8",
+        "title": "Service Desk Technician",
+        "active": true,
+        "date_updated": 1779823443,
+        "date_posted": 1779170694,
+        "url": "https://ibc.wd5.myworkdayjobs.com/ibc_careers/job/San-Antonio-TX/Service-Desk-Technician_R15487",
+        "locations": [
+            "San Antonio, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/IBC-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's",
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "JP Morgan Chase",
+        "id": "f8e20e8e-3b2e-483d-b1d5-b1904bf6ea64",
+        "title": "Payments Cross Currency Product Analyst",
+        "active": true,
+        "date_updated": 1779823443,
+        "date_posted": 1779170733,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210749613",
+        "locations": [
+            "Tampa, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "United Talent Agency",
+        "id": "309dc650-d754-444b-8ca8-21d734c7e45d",
+        "title": "Analyst \u2013 UTA Creators",
+        "active": true,
+        "date_updated": 1779823443,
+        "date_posted": 1779152967,
+        "url": "https://jobs.ashbyhq.com/united-talent-agency/7b74232a-7818-422d-90ef-c25823603f52/application",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/United-Talent-Agency",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Stryker",
+        "id": "f47daa15-b9db-4465-807a-f6b2365b2fff",
+        "title": "Associate Installation Technician",
+        "active": true,
+        "date_updated": 1779823443,
+        "date_posted": 1779152958,
+        "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Denver-Colorado/Associate-Installation-Technician---Denver--CO_R565632",
+        "locations": [
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Stryker",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Triumph",
+        "id": "a66ce6b9-2833-497d-b4c0-7a9795934194",
+        "title": "Quant Strategist",
+        "active": true,
+        "date_updated": 1779823443,
+        "date_posted": 1779152941,
+        "url": "https://jobs.ashbyhq.com/triumph-arcade/c35ac12f-5b23-4e88-ae8a-a4633bdb292b/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Triumph",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Apple",
+        "id": "05f5221f-b896-43da-96e6-5eb2ea75288a",
+        "title": "Software Engineer - iCloud Platform",
+        "active": true,
+        "date_updated": 1779823443,
+        "date_posted": 1779152912,
+        "url": "https://jobs.apple.com/en-us/details/200634236",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "RTX",
+        "id": "fa474607-b473-4e19-9ab2-cc2e995af474",
+        "title": "Intelligence Analyst",
+        "active": true,
+        "date_updated": 1779831181,
+        "date_posted": 1779142225,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-BUCKLEY-SFB-CUST--18500-E-6th-Ave--BUCKLEY-SFB-External-Site/Intelligence-Analyst_01846084",
+        "locations": [
+            "Westminster, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
