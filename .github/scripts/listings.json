@@ -295283,7 +295283,7 @@
         "company_name": "Northrop Grumman",
         "id": "0e6a9991-0e6b-4084-beb7-7190f085d65f",
         "title": "Principal Engineer System Safety",
-        "active": false,
+        "active": true,
         "date_updated": 1777587998,
         "date_posted": 1777587054,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Engineer-System-Safety-Principal-Engineer-System-Safety_R10231509",
@@ -300029,7 +300029,7 @@
         "company_name": "Genuine Parts Company",
         "id": "1223a200-f726-4db3-8abf-28d0a2aa14e0",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1778019632,
         "date_posted": 1778018883,
         "url": "https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Software-Engineer-I_R26_0000012107-1",
@@ -308472,7 +308472,7 @@
         "company_name": "University Corporation for Atmospheric Research",
         "id": "0780ca89-2761-471f-8a82-c6902af58eed",
         "title": "COMET Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1778708358,
         "date_posted": 1778623498,
         "url": "https://ucar.wd5.myworkdayjobs.com/UCAR_Careers/job/Boulder-CO/COMET-Engineer-I_REQ-2026-64-1",
@@ -310393,7 +310393,7 @@
         "company_name": "Amentum",
         "id": "20e34829-e30f-421e-948f-82f054751e0b",
         "title": "Hardware Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1778708881,
         "date_posted": 1778623797,
         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Fredericksburg/Hardware-Engineer_R0160979",
@@ -317334,7 +317334,7 @@
         "company_name": "Bellese",
         "id": "97307f7b-1111-4c7f-bb01-22872f2cde6e",
         "title": "Technology Associate \u2013 Entry Level",
-        "active": true,
+        "active": false,
         "date_updated": 1779239341,
         "date_posted": 1779239299,
         "url": "https://jobs.lever.co/bellese/b9c490bd-0de2-4ec5-9359-a08a4b7dfa4e/apply",
@@ -317691,7 +317691,7 @@
         "company_name": "Capital One",
         "id": "833a4ca8-be25-48fe-933c-2f87ec1e28f8",
         "title": "Knowledge Data and Systems Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1779286142,
         "date_posted": 1779286126,
         "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Nottingham--Eng/Knowledge-Data-and-Systems-Specialist_R242217-1",
@@ -317729,7 +317729,7 @@
         "company_name": "RTX",
         "id": "054137e6-c84c-4744-86fe-13b854aa4966",
         "title": "Software Engineer 1 - Space and RF Sensors",
-        "active": true,
+        "active": false,
         "date_updated": 1779286742,
         "date_posted": 1779286019,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/XMLNAME-2026-Full-time---Software-Engineer-I--Space-and-RF-Sensors----Onsite_01846945",
@@ -318343,7 +318343,7 @@
         "company_name": "RTX",
         "id": "7f8cb83c-1b37-4eff-8450-6ec0eca76bb1",
         "title": "Systems Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1779315508,
         "date_posted": 1779314760,
         "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-MARLBOROUGH-MA1--1001-Boston-Post-Rd--BLDG-1/XMLNAME-2026-Fulltime---Systems-Engineer-I---Onsite_01836465-1",
@@ -322760,7 +322760,7 @@
         "company_name": "Intel",
         "id": "04f52c55-fc7a-49ff-9f37-255132909786",
         "title": "Packaging Module Development Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1779820201,
         "date_posted": 1778942653,
         "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Packaging-Module-Development-Engineer_JR0283358",
@@ -325694,7 +325694,7 @@
         "company_name": "Ontario Teachers' Pension Plan",
         "id": "03e7a793-bfec-4728-8f28-790333b47525",
         "title": "Investment Analyst - Real Estate",
-        "active": true,
+        "active": false,
         "date_updated": 1779830289,
         "date_posted": 1778922203,
         "url": "https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Investment-Analyst--Real-Estate_7005-1",
@@ -326175,7 +326175,7 @@
         "company_name": "Flex",
         "id": "0e7b62e6-7c33-41ec-ae79-96f02f310fe8",
         "title": "Debug Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1779822183,
         "date_posted": 1778945078,
         "url": "https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-UT-Salt-Lake-City/Debug-Technician-D-Shift_WD220511",
@@ -327522,6 +327522,170 @@
             "Logan, UT"
         ],
         "company_url": "https://simplify.jobs/c/Utah-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Intel",
+        "id": "bba2adc5-27e4-43bb-8ed7-ca50058f5720",
+        "title": "Business Intelligence Analyst - Client Computing Group",
+        "active": true,
+        "date_updated": 1779825065,
+        "date_posted": 1779531338,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Business-Intelligence-Analyst---Client-Computing-Group_JR0284156-1",
+        "locations": [
+            "Santa Clara, CA",
+            "Hillsboro, OR",
+            "Folsom, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Walt Disney Company",
+        "id": "8c64de40-674c-4820-ae34-c4849de7a0a2",
+        "title": "Viewer Insights Analyst",
+        "active": true,
+        "date_updated": 1779825065,
+        "date_posted": 1779529887,
+        "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Santa-Monica-CA-USA/Viewer-Insights-Analyst_10151429",
+        "locations": [
+            "Santa Monica, CA",
+            "San Antonio, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Disney",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University System of New Hampshire",
+        "id": "41cf2fab-9e19-462e-bb5e-793d06300c47",
+        "title": "Research Assistant",
+        "active": true,
+        "date_updated": 1779832624,
+        "date_posted": 1779314685,
+        "url": "https://usnh.wd5.myworkdayjobs.com/Careers/job/University-of-New-Hampshire--Main-Campus/Research-Assistant_JR8038",
+        "locations": [
+            "Dover, NH"
+        ],
+        "company_url": "https://simplify.jobs/c/University-System-Of-New-Hampshire",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GE Healthcare",
+        "id": "fb9e76fd-af66-46e1-8d83-693e47cdaa6d",
+        "title": "Field Service Engineer - X-Ray Vascular Mammo",
+        "active": true,
+        "date_updated": 1779832624,
+        "date_posted": 1779314856,
+        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer----X-Ray-Vascular-Mammo_R4041071-2",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Healthcare",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Texas A&M University System",
+        "id": "7b85f8b5-bdfe-4ca3-b92e-062c5904fc65",
+        "title": "Visiting Assistant Professor of Computer Engineering",
+        "active": true,
+        "date_updated": 1779832624,
+        "date_posted": 1779314686,
+        "url": "https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/Laredo-TX/Visiting-Assistant-Professor-of-Computer-Engineering_R-093390",
+        "locations": [
+            "Laredo, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Texas-AM-University-System",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Wells Fargo",
+        "id": "01884233-0668-4666-b149-0a2d354d939b",
+        "title": "Engineering Associate - Systems Analysis - Mainframe",
+        "active": true,
+        "date_updated": 1779869341,
+        "date_posted": 1778943860,
+        "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/MINNEAPOLIS-MN/Engineering-Associate---Systems-Analysis--Mainframe-_R-545947-1",
+        "locations": [
+            "Minneapolis, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Wells-Fargo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "RELX",
+        "id": "0a7ac917-236f-4c01-8c5d-45d74731949d",
+        "title": "Solutions Analyst",
+        "active": true,
+        "date_updated": 1779869572,
+        "date_posted": 1778922944,
+        "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/United-Kingdom/Solutions-Analyst_R109322-1",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/RELX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Harvey",
+        "id": "10963fbd-5ea0-4cf8-830c-88ffb1b3b8d3",
+        "title": "Go-To-Market Strategy & Analytics",
+        "active": true,
+        "date_updated": 1779869639,
+        "date_posted": 1778623768,
+        "url": "https://jobs.ashbyhq.com/harvey/5eae0fac-76ad-4058-a6f7-e91e771aa2d0/application",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Harvey",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
