@@ -316477,7 +316477,7 @@
         "company_name": "Legrand",
         "id": "7b3ba5dc-e16f-44bc-aafb-14c4cec7c77c",
         "title": "Product Manager Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1779228692,
         "date_posted": 1779228331,
         "url": "https://jobs-legrand.icims.com/jobs/10103/job?mobile=true&needsRedirect=false",
@@ -316982,7 +316982,7 @@
         "company_name": "Applied Materials",
         "id": "11c7234c-fd7c-41bc-bace-924e7fbd2df0",
         "title": "Quality & Reliability Systems Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1779229261,
         "date_posted": 1779228429,
         "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Quality---Reliability-Systems-Engineer----E3-_R2620088",
@@ -317134,7 +317134,7 @@
         "company_name": "Onto Innovation",
         "id": "376992a3-4cb4-4676-9c93-3d42ab7f2008",
         "title": "Field Service Engineer 2",
-        "active": true,
+        "active": false,
         "date_updated": 1779228541,
         "date_posted": 1779228375,
         "url": "https://onto.wd1.myworkdayjobs.com/onto_careers/job/Remote-VA/Field-Service-Engineer-2_R-5460-1",
@@ -320724,7 +320724,7 @@
         "company_name": "Florida Institute of Technology",
         "id": "c71d84a2-1485-430a-a944-f157e9fb96a2",
         "title": "Research Assistant - 2 - Apss",
-        "active": true,
+        "active": false,
         "date_updated": 1779488205,
         "date_posted": 1779487568,
         "url": "https://floridatech.wd5.myworkdayjobs.com/FloridaTechCareers/job/Florida-Tech-Main-Campus-Melbourne/Temporary-Research-Assistant--2--APSS-_R8502",
@@ -326905,6 +326905,330 @@
             "Westminster, CO"
         ],
         "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Caterpillar Inc.",
+        "id": "d612e13c-6558-4136-889b-a148fce9525f",
+        "title": "Design Engineer",
+        "active": true,
+        "date_updated": 1779827406,
+        "date_posted": 1779528843,
+        "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Lafayette-Indiana/Design-Engineer-A_R0000370971",
+        "locations": [
+            "West Lafayette, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Caterpillar-Inc",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CNA Insurance",
+        "id": "9c1481a7-5a70-4060-9499-0cc2a27e8ed0",
+        "title": "Data Insights Analyst - Claims",
+        "active": true,
+        "date_updated": 1779827406,
+        "date_posted": 1779527459,
+        "url": "https://cna.wd1.myworkdayjobs.com/CNA_Careers/job/Chicago-IL-USA/Data-Insights-Analyst---Claims_R-7523",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/CNA-Insurance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Nakupuna Companies",
+        "id": "13edcc6e-ad03-450c-9636-42e730d387d9",
+        "title": "Database Sustainment Specialist",
+        "active": true,
+        "date_updated": 1779827406,
+        "date_posted": 1779487419,
+        "url": "https://careers-nakupuna.icims.com/jobs/6485/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Nakupuna-Companies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Abbott",
+        "id": "e2d7b0a5-9f46-4397-9fa1-0b15a7db658b",
+        "title": "Field Service Engineer 2",
+        "active": true,
+        "date_updated": 1779824341,
+        "date_posted": 1779531555,
+        "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Florida---Remote/Field-Service-Engineer-II--Tampa-Metro--FL_31150802-2",
+        "locations": [
+            "Tampa, FL",
+            "Florida"
+        ],
+        "company_url": "https://simplify.jobs/c/Abbott",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Brigham Young University",
+        "id": "8b7bcea1-e83b-4661-8cb3-9655c955b7da",
+        "title": "Database Coordinator - Project MEDIA",
+        "active": true,
+        "date_updated": 1779831905,
+        "date_posted": 1779527665,
+        "url": "https://byu.wd1.myworkdayjobs.com/byu-careers/job/Provo-UT/Database-Coordinator--Project-MEDIA--part-time-175-hours-week-_JR-9737-1",
+        "locations": [
+            "Provo, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Brigham-Young-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Four Seasons",
+        "id": "b13afef2-13ed-4b51-965f-c4895e21b4d9",
+        "title": "Data Strategy Analyst",
+        "active": true,
+        "date_updated": 1779827406,
+        "date_posted": 1779528123,
+        "url": "https://fourseasons.wd3.myworkdayjobs.com/search/job/Four-Seasons-Corporate-Office-Toronto/Analyst--Data-Strategy_REQ10374074",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Four-Seasons",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Nasdaq",
+        "id": "59651be6-c9e9-4199-ae27-a4083355b020",
+        "title": "Index Portfolio Management Analyst",
+        "active": true,
+        "date_updated": 1779827406,
+        "date_posted": 1779487541,
+        "url": "https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/USA---Philadelphia---Pennsylvania/Index-Portfolio-Management-Analyst_R0026098",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Nasdaq",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Nakupuna Companies",
+        "id": "454a4fba-92cd-46b0-b7d9-9fa8013ff63e",
+        "title": "Database Sustainment Specialist",
+        "active": true,
+        "date_updated": 1779827406,
+        "date_posted": 1779487416,
+        "url": "https://careers-nakupuna.icims.com/jobs/6592/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Nakupuna-Companies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Nakupuna Companies",
+        "id": "36cc768c-6e42-4cd3-a3a5-5e92a388285e",
+        "title": "Database Sustainment Specialist",
+        "active": true,
+        "date_updated": 1779827406,
+        "date_posted": 1779487401,
+        "url": "https://careers-nakupuna.icims.com/jobs/6584/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "El Paso, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Nakupuna-Companies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amazon",
+        "id": "5353b527-0cda-43e8-a9ef-cdfa8f45bcd8",
+        "title": "Front-End Engineer",
+        "active": true,
+        "date_updated": 1779834527,
+        "date_posted": 1779487538,
+        "url": "https://amazon.jobs/en/jobs/10428762/front-end-engineer-2026-us",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Calista Brice",
+        "id": "033147e4-18a6-4bed-bd14-7fd607a0a348",
+        "title": "Help Desk Representative",
+        "active": true,
+        "date_updated": 1779827406,
+        "date_posted": 1779441089,
+        "url": "https://calistacorp.wd1.myworkdayjobs.com/calistabrice/job/Anchorage-AK/Help-Desk-Representative_JR109027",
+        "locations": [
+            "Anchorage, AK"
+        ],
+        "company_url": "https://simplify.jobs/c/Calista-Brice",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Captivation",
+        "id": "daa95695-0746-41b0-a55b-4983efa14fe6",
+        "title": "Software Engineer 1 - Java/Mapreduce/Cloud/Ghostmachine/QTA",
+        "active": true,
+        "date_updated": 1779831905,
+        "date_posted": 1779228460,
+        "url": "https://job-boards.greenhouse.io/captivation/jobs/5225213008",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Captivation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Appian",
+        "id": "d9185870-8b22-40e2-ac3d-51f4dfe608da",
+        "title": "Technical Consultant - Technical - Public Sector",
+        "active": true,
+        "date_updated": 1779824341,
+        "date_posted": 1779228672,
+        "url": "https://job-boards.greenhouse.io/appian/jobs/7943856",
+        "locations": [
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Appian",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Sysmex",
+        "id": "410a7251-b14e-4259-864a-81b53d75bce5",
+        "title": "Field Service Technician - Field Service",
+        "active": true,
+        "date_updated": 1779831905,
+        "date_posted": 1779228366,
+        "url": "https://careers-sysmex.icims.com/jobs/4708/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Columbia, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/Sysmex",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Appian",
+        "id": "6eeea8fc-9677-4a3b-b0db-3346353c2d19",
+        "title": "Technical Consultant - Technical - Public Sector",
+        "active": true,
+        "date_updated": 1779824341,
+        "date_posted": 1779228672,
+        "url": "https://job-boards.greenhouse.io/appian/jobs/7943862",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Appian",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Captivation",
+        "id": "71b88a56-d53c-465f-8149-8b28bf441aef",
+        "title": "Software Engineer 1 - AWS/Docker/Kubernetes/Java/Javascript/Kibana/Git",
+        "active": true,
+        "date_updated": 1779831905,
+        "date_posted": 1779228461,
+        "url": "https://job-boards.greenhouse.io/captivation/jobs/5225182008",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Captivation",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
