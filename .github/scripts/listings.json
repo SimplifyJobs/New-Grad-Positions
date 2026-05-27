@@ -264136,7 +264136,7 @@
         "company_name": "Momentus Space",
         "id": "2124b982-896f-40e1-9615-9fa583612302",
         "title": "Electrical Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1775716772,
         "date_posted": 1775714857,
         "url": "https://job-boards.greenhouse.io/momentus/jobs/5877266004",
@@ -321695,7 +321695,7 @@
         "company_name": "Hinds Community College",
         "id": "8727fa7f-1386-4d74-b039-81ec6d28b8b5",
         "title": "Simulation Center Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1779775446,
         "date_posted": 1779775343,
         "url": "https://hindscc.wd1.myworkdayjobs.com/HCCExternalCareersSite/job/Nursing-and-Allied-Health-Center/Simulation-Center-technician_REQ-4805",
@@ -326117,7 +326117,7 @@
         "company_name": "Flex",
         "id": "0e7b62e6-7c33-41ec-ae79-96f02f310fe8",
         "title": "Debug Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1779822183,
         "date_posted": 1778945078,
         "url": "https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-UT-Salt-Lake-City/Debug-Technician-D-Shift_WD220511",
@@ -328472,7 +328472,7 @@
         "company_name": "General Motors",
         "id": "0d70b0a7-43fc-4ff1-86b8-f2a34353a21b",
         "title": "Motorsports Simulator Operator",
-        "active": true,
+        "active": false,
         "date_updated": 1779835502,
         "date_posted": 1779314947,
         "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Concord-North-Carolina-United-States-of-America/Motorsports-Simulator-Operator_JR-202609367",
@@ -330558,5 +330558,162 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Sysmex",
+        "id": "71149fe5-961e-4bf1-8571-edd4d46f114a",
+        "title": "Technician - Field Service - Regional",
+        "active": true,
+        "date_updated": 1779914776,
+        "date_posted": 1779487610,
+        "url": "https://careers-sysmex.icims.com/jobs/4707/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Fairfax, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Sysmex",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Sarah Cannon Research Institute (SCRI)",
+        "id": "3a84926e-59ad-4cd3-aa0e-2041f68c46f1",
+        "title": "Data Coordinator",
+        "active": true,
+        "date_updated": 1779914704,
+        "date_posted": 1779487593,
+        "url": "https://mckesson.wd3.myworkdayjobs.com/SCRI_Careers/job/USA-TN-Nashville/Data-Coordinator_JR0147470",
+        "locations": [
+            "Nashville, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/Sarah-Cannon-Research-Institute",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GE Aerospace",
+        "id": "2c6fee35-6244-4c8b-9215-a3bed28e43f5",
+        "title": "Repair Technician - Aftermarket",
+        "active": true,
+        "date_updated": 1779914704,
+        "date_posted": 1779873110,
+        "url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Cheltenham/Repair-Technician---Aftermarket_R5035233-1",
+        "locations": [
+            "Gloucester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Aerospace",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "The Boeing Company",
+        "id": "2bf64ac1-0872-4d88-89cb-1e434b88ac78",
+        "title": "Entry-Level Product Repair/ Modification Technician",
+        "active": true,
+        "date_updated": 1779914704,
+        "date_posted": 1779833484,
+        "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Heath-OH/Entry-Level-Product-Repair--Modification-Technician_JR2026509646",
+        "locations": [
+            "Heath, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Danaher Corporation",
+        "id": "d75122b7-7623-48dd-b615-81ad1fd31c5d",
+        "title": "Field Service Engineer",
+        "active": true,
+        "date_updated": 1779914477,
+        "date_posted": 1778942297,
+        "url": "https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/Tulsa-Oklahoma-United-States/Field-Service-Engineer--Tulsa-or-Oklahoma-City_R1311104",
+        "locations": [
+            "Tulsa, OK",
+            "Oklahoma City, OK"
+        ],
+        "company_url": "https://simplify.jobs/c/Danaher-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GE Healthcare",
+        "id": "2173fad1-edab-4352-b256-2d0cf2788fda",
+        "title": "Field Service Engineer - MR - CT','Pet",
+        "active": true,
+        "date_updated": 1779914466,
+        "date_posted": 1778941911,
+        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer---MR--CT--PET---Raleigh--Durham-NC_R4041172-2",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Healthcare",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "RTX",
+        "id": "0f9db3a7-3945-4a94-98d7-74445d1667b5",
+        "title": "Intelligence Analyst",
+        "active": true,
+        "date_updated": 1779913981,
+        "date_posted": 1778943111,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-BUCKLEY-SFB-CUST--18500-E-6th-Ave--BUCKLEY-SFB-External-Site/Intelligence-Analyst_01845141",
+        "locations": [
+            "Westminster, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Worldwide TechServices",
+        "id": "56be5566-fa8a-46a7-965a-6d6620c9ca6a",
+        "title": "Dynamic PC Support",
+        "active": true,
+        "date_updated": 1779913981,
+        "date_posted": 1777068345,
+        "url": "https://jobs.smartrecruiters.com/WorldwideTechServices/744000122697894",
+        "locations": [
+            "Maui, Hawaii"
+        ],
+        "company_url": "https://simplify.jobs/c/Worldwide-TechServices",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
