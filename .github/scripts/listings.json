@@ -2,26 +2,6 @@
     {
         "source": "Simplify",
         "category": "Hardware",
-        "company_name": "RTX",
-        "id": "821975ed-f886-4a2f-9bfd-1747c1f51d90",
-        "title": "Flight Management Software Engineer 1 - Military Avionics & Helicopters",
-        "active": false,
-        "date_updated": 1759274539,
-        "date_posted": 1759274539,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HIA32-Cedar-Rapids-IA-400-Collins-Rd-NE---Cedar-Rapids-IA-52498-0505-USA/Flight-Management-Software-Engineer-I--Onsite-_01792047",
-        "locations": [
-            "Cedar Rapids, IA"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
         "company_name": "General Dynamics Mission Systems",
         "id": "11474d9e-9206-4c95-8893-fab2c64d651d",
         "title": "Software Engineer - Entry Level - Multiple Teams",
@@ -27049,7 +27029,7 @@
         "company_name": "Honeywell",
         "id": "f7305cdc-e644-463e-882d-2090b396aa76",
         "title": "Software Engineer & Computer Science \u2013 Recent Grad/Full Time",
-        "active": true,
+        "active": false,
         "date_updated": 1762917277,
         "date_posted": 1761915699,
         "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/113397",
@@ -44151,24 +44131,6 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/Dataiku",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Trace3",
-        "id": "78e28d6c-8b6f-455c-b2fc-302a94c1c4e6",
-        "title": "Junior System Administrator - Linux Engineer",
-        "active": false,
-        "date_updated": 1762819973,
-        "date_posted": 1759273473,
-        "url": "https://job-boards.greenhouse.io/trace3/jobs/7283684",
-        "locations": [
-            "Colorado Springs, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Trace3",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -282409,7 +282371,7 @@
         "company_name": "Regal",
         "id": "fdaececd-1540-4dd7-bd8f-a80371e55425",
         "title": "AI Product Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1776723301,
         "date_posted": 1776723277,
         "url": "https://jobs.lever.co/regalvoice/66b2460b-2eb5-4317-b268-78dfca9bb425/apply",
@@ -321187,7 +321149,7 @@
         "company_name": "Florida Institute of Technology",
         "id": "fee94ca5-ffa5-46ca-903d-63ca764ff883",
         "title": "Research Assistant-Data Analysis-Project Data Management-Dashboard Development",
-        "active": true,
+        "active": false,
         "date_updated": 1779689161,
         "date_posted": 1779689139,
         "url": "https://floridatech.wd5.myworkdayjobs.com/FloridaTechCareers/job/Florida-Institute-of-Technology/Research-Assistant-Data-Analysis-Project-Data-Management-Dashboard-Development_R8512",
