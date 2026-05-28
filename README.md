@@ -13127,7 +13127,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (309)</summary>
+<summary>🗃️ Inactive roles (308)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -15293,13 +15293,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><strong><a href="https://simplify.jobs/c/Anduril?utm_source=GHList&utm_medium=company">Anduril</a></strong></td>
 <td>Early Career Firmware Engineer</td>
 <td>Newport Beach, CA</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Ciena?utm_source=GHList&utm_medium=company">Ciena</a></strong></td>
-<td>Modem Hardware Engineer New Graduate - Hardware Design</td>
-<td>Ottawa, ON, Canada</td>
 <td>🔒</td>
 <td>7mo</td>
 </tr>
