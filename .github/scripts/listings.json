@@ -44553,24 +44553,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "RBI",
-        "id": "902bf0e5-5751-4861-abee-c7dbeba87c76",
-        "title": "Product Manager 1 - Data Platforms - Burger King",
-        "active": false,
-        "date_updated": 1763123336,
-        "date_posted": 1759199488,
-        "url": "https://rbi.wd3.myworkdayjobs.com/RBI_External_Career_Site/job/Corp---Miami-Corporate-Office/Product-Manager-I--BK--US-C_R2391",
-        "locations": [
-            "Miami, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/RBI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "TikTok",
         "id": "d7de51a3-1505-427d-80ca-4ea11ce51249",
@@ -332288,5 +332270,25 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Prairie View A&M University",
+        "id": "ace14ae9-e562-4ce6-95df-9e78ab0140c2",
+        "title": "Postdoctoral Researcher - Credit",
+        "active": true,
+        "date_updated": 1778940361,
+        "date_posted": 1778940319,
+        "url": "https://tamus.wd1.myworkdayjobs.com/pvamu_external/job/Prairie-View-TX/Postdoctoral-Researcher--CREDIT-_R-079402",
+        "locations": [
+            "Prairie View, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Prairie-View-AM-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
     }
 ]
