@@ -44571,60 +44571,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "NOV",
-        "id": "addac597-66be-4574-8339-d7dd39a108e2",
-        "title": "Technician Level 2",
-        "active": false,
-        "date_updated": 1762918014,
-        "date_posted": 1759198961,
-        "url": "https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/37517",
-        "locations": [
-            "Shreveport, LA"
-        ],
-        "company_url": "https://simplify.jobs/c/NOV",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Prairie View A&M University",
-        "id": "ace14ae9-e562-4ce6-95df-9e78ab0140c2",
-        "title": "Postdoctoral Researcher",
-        "active": true,
-        "date_updated": 1759198451,
-        "date_posted": 1759198451,
-        "url": "https://tamus.wd1.myworkdayjobs.com/pvamu_external/job/Prairie-View-TX/Postdoctoral-Researcher--CREDIT-_R-079402",
-        "locations": [
-            "Prairie View, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Prairie-View-AM-University",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "TEGNA ",
-        "id": "b34ed33f-89ca-49ef-8fb9-ca8bdf005185",
-        "title": "Broadcast IT Technician",
-        "active": false,
-        "date_updated": 1759198422,
-        "date_posted": 1759198422,
-        "url": "https://boards.greenhouse.io/tegnainc/jobs/4919896007",
-        "locations": [
-            "Greensboro, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/TEGNA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "TikTok",
         "id": "d7de51a3-1505-427d-80ca-4ea11ce51249",
