@@ -44625,24 +44625,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Jane Street",
-        "id": "b193533a-895b-4821-9ec5-e39ead289749",
-        "title": "Software Engineer - Autumn Off Cycle",
-        "active": false,
-        "date_updated": 1761264042,
-        "date_posted": 1759191276,
-        "url": "https://job-boards.greenhouse.io/janestreet/jobs/8189520002",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Jane-Street",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "TikTok",
         "id": "d7de51a3-1505-427d-80ca-4ea11ce51249",
