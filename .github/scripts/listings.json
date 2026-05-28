@@ -185125,7 +185125,7 @@
         "company_name": "Salesforce",
         "id": "9c9d72e2-4773-4a77-b5c5-5776ba645c14",
         "title": "Software Engineering AMTS/MTS \u2013 College Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1771640186,
         "date_posted": 1771640186,
         "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS-MTS--College-Grad-_JR330400-1",
@@ -303956,7 +303956,7 @@
         "company_name": "Blue Origin",
         "id": "d6a80d8b-58b6-464e-b152-de1adc2cea82",
         "title": "Avionics Hardware Engineer 2",
-        "active": true,
+        "active": false,
         "date_updated": 1778192407,
         "date_posted": 1778191584,
         "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Avionics-Hardware-Engineer-II_R64383-1",
@@ -305629,7 +305629,7 @@
         "company_name": "University of Maryland - College Park",
         "id": "a3de7dd7-1dca-4566-b189-b76577cc41f3",
         "title": "Machine Learning Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1778278304,
         "date_posted": 1778277921,
         "url": "https://umd.wd1.myworkdayjobs.com/UMCP/job/University-of-Maryland-College-Park/Machine-Learning-Application-Engineer_JR104089",
@@ -313393,7 +313393,7 @@
         "company_name": "JP Morgan Chase",
         "id": "bbc42737-f451-42e3-88ab-8d86b3d69524",
         "title": "Discretionary and Advisory Product Development - Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1778882941,
         "date_posted": 1778882777,
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210748752",
@@ -333517,6 +333517,89 @@
         "degrees": [
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Howden",
+        "id": "ed0cdea7-60b4-4ecf-84ec-32fc477a3b7e",
+        "title": "Pricing Graduate",
+        "active": true,
+        "date_updated": 1779961225,
+        "date_posted": 1779959682,
+        "url": "https://hyperiongrp.wd3.myworkdayjobs.com/Hyperion_External/job/Pricing-Graduate_R0015065-1",
+        "locations": [
+            "Remote in UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Howden",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Light & Wonder",
+        "id": "945e7966-c41e-424b-a290-704ce71be03c",
+        "title": "Associate Mathematician",
+        "active": true,
+        "date_updated": 1779960517,
+        "date_posted": 1779959541,
+        "url": "https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Las-Vegas-NV/Associate-Mathematician_R322193",
+        "locations": [
+            "Las Vegas, NV"
+        ],
+        "company_url": "https://simplify.jobs/c/Light-And-Wonder",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Light & Wonder",
+        "id": "cf514607-9f5a-46ba-99be-48c79d3fffd9",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1779962115,
+        "date_posted": 1779528348,
+        "url": "https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Reno-NV/Software-Engineer_R321148",
+        "locations": [
+            "Las Vegas, NV",
+            "Reno, NV"
+        ],
+        "company_url": "https://simplify.jobs/c/Light-And-Wonder",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Johnson Controls",
+        "id": "f2d9608f-8b8e-45e1-98d7-b9c1b645a9dc",
+        "title": "Hardware Engineer - Controls",
+        "active": true,
+        "date_updated": 1779963075,
+        "date_posted": 1779228389,
+        "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Milwaukee-Wisconsin-United-States-of-America/NextGen-Hardware-Engineer---Controls_WD30270114",
+        "locations": [
+            "Chicago, IL",
+            "Milwaukee, WI",
+            "Baltimore, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Johnson-Controls",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
