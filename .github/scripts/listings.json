@@ -250027,7 +250027,7 @@
         "company_name": "JP Morgan Chase",
         "id": "282b6334-9a6e-4c79-805d-23dbde3925a0",
         "title": "Quant Analytics Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1775002681,
         "date_posted": 1774994893,
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210728053",
@@ -253277,7 +253277,7 @@
         "company_name": "Perplexity AI",
         "id": "0d448d6a-92f4-4eed-bb7d-d10a315544a0",
         "title": "Member of Technical Staff - AI Policy and Strategic Initiatives",
-        "active": false,
+        "active": true,
         "date_updated": 1775111285,
         "date_posted": 1775110180,
         "url": "https://jobs.ashbyhq.com/Perplexity/0359ebb4-7cbd-4641-a6d1-1127823e2fd5/application",
@@ -279491,7 +279491,7 @@
         "company_name": "University of Texas at Austin",
         "id": "0a2c27c4-783b-47bb-9b5f-ae9f5bf46d0b",
         "title": "Hydrographic Survey Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1776522107,
         "date_posted": 1776521479,
         "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/PICKLE-RESEARCH-CAMPUS/Hydrographic-Survey-Analyst_R_00043224",
@@ -295060,7 +295060,7 @@
         "company_name": "Northrop Grumman",
         "id": "0e6a9991-0e6b-4084-beb7-7190f085d65f",
         "title": "Principal Engineer System Safety",
-        "active": true,
+        "active": false,
         "date_updated": 1777587998,
         "date_posted": 1777587054,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Engineer-System-Safety-Principal-Engineer-System-Safety_R10231509",
@@ -308249,7 +308249,7 @@
         "company_name": "University Corporation for Atmospheric Research",
         "id": "0780ca89-2761-471f-8a82-c6902af58eed",
         "title": "COMET Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1778708358,
         "date_posted": 1778623498,
         "url": "https://ucar.wd5.myworkdayjobs.com/UCAR_Careers/job/Boulder-CO/COMET-Engineer-I_REQ-2026-64-1",
@@ -320826,7 +320826,7 @@
         "company_name": "The Boeing Company",
         "id": "0367d067-4ad6-400c-89b3-30dd66c9bd2e",
         "title": "Entry Level Digital Electronics Circuit & Unit Hardware Design Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1779488500,
         "date_posted": 1779487864,
         "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---El-Segundo-CA/Entry-level-Digital-Electronics-Circuit---Unit-Hardware-Design-Engineer_JR2026511020",
@@ -325952,7 +325952,7 @@
         "company_name": "Flex",
         "id": "0e7b62e6-7c33-41ec-ae79-96f02f310fe8",
         "title": "Debug Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1779822183,
         "date_posted": 1778945078,
         "url": "https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-UT-Salt-Lake-City/Debug-Technician-D-Shift_WD220511",
@@ -327455,7 +327455,7 @@
         "company_name": "Harvey",
         "id": "10963fbd-5ea0-4cf8-830c-88ffb1b3b8d3",
         "title": "Go-To-Market Strategy & Analytics",
-        "active": true,
+        "active": false,
         "date_updated": 1779869639,
         "date_posted": 1778623768,
         "url": "https://jobs.ashbyhq.com/harvey/5eae0fac-76ad-4058-a6f7-e91e771aa2d0/application",
@@ -330498,7 +330498,7 @@
         "company_name": "GE Healthcare",
         "id": "2173fad1-edab-4352-b256-2d0cf2788fda",
         "title": "Field Service Engineer - MR - CT','Pet",
-        "active": true,
+        "active": false,
         "date_updated": 1779914466,
         "date_posted": 1778941911,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer---MR--CT--PET---Raleigh--Durham-NC_R4041172-2",
@@ -330890,7 +330890,7 @@
         "company_name": "Intel",
         "id": "1ed80014-105f-4b41-aa5d-30f8a8c219e7",
         "title": "Packaging Module Development Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1779921525,
         "date_posted": 1779919845,
         "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Packaging-Module-Development-Engineer_JR0284366",
@@ -332447,6 +332447,170 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "GE Healthcare",
+        "id": "076c1df8-889e-4847-a04f-89149ebfc5a1",
+        "title": "Senior AI Engineer - Enterprise AI",
+        "active": true,
+        "date_updated": 1779955859,
+        "date_posted": 1778941989,
+        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Senior-AI-Engineer--Enterprise-AI_R4040316-1",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Healthcare",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Adobe",
+        "id": "05086e88-742a-4c28-b7de-951c54ab9644",
+        "title": "Research Scientist",
+        "active": true,
+        "date_updated": 1779955811,
+        "date_posted": 1778941541,
+        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Research-Scientist_R167353",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Adobe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Maryland - College Park",
+        "id": "03558e79-bf38-45e8-9e03-0352f53566a5",
+        "title": "Assistant Professor",
+        "active": true,
+        "date_updated": 1779955626,
+        "date_posted": 1778940761,
+        "url": "https://umd.wd1.myworkdayjobs.com/UMCP/job/University-of-Maryland-College-Park/Assistant-Professor-1_JR103283",
+        "locations": [
+            "Hyattsville, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Maryland-College-Park",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Adobe",
+        "id": "0e8383ff-1dc6-44df-82fc-c0888df9d72b",
+        "title": "Data Scientist",
+        "active": true,
+        "date_updated": 1779955963,
+        "date_posted": 1778941576,
+        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Data-Scientist_R165959-1",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Adobe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Peraton",
+        "id": "28b042d4-8272-49dd-8431-0742ab04cb2d",
+        "title": "Cloud Software Engineer",
+        "active": true,
+        "date_updated": 1779956461,
+        "date_posted": 1778882738,
+        "url": "https://careers-peraton.icims.com/jobs/166836/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Laurel, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Peraton",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Clipboard Health",
+        "id": "240a825c-9ec7-4279-9962-397b2756b64a",
+        "title": "Software Engineer - Frontend",
+        "active": true,
+        "date_updated": 1779956298,
+        "date_posted": 1774573973,
+        "url": "https://jobs.ashbyhq.com/clipboard/b2e4a20e-4b36-44cb-ad57-604bb3f70fa1/application",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Clipboard-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "13994ae1-e484-4b8d-857a-36fdc5cddde3",
+        "title": "Research Scientist - Global Frontier Tech Recruitment Program",
+        "active": true,
+        "date_updated": 1779955921,
+        "date_posted": 1776733679,
+        "url": "https://jobs.bytedance.com/en/position/7629483617265289525/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "JP Morgan Chase",
+        "id": "2759059f-473f-4f36-addd-b1bcfc68bcbe",
+        "title": "Associate Applied Artificial Intelligence & Machine Learning Scientist - Market Operations",
+        "active": true,
+        "date_updated": 1779956507,
+        "date_posted": 1768435465,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210685435",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     }
 ]
