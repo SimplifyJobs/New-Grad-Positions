@@ -284660,7 +284660,7 @@
         "company_name": "GTS",
         "id": "610cdc9b-0cd3-49f3-b8c3-60fd4905d8db",
         "title": "Risk Desk Associate - FX Market Making Team",
-        "active": true,
+        "active": false,
         "date_updated": 1776810367,
         "date_posted": 1776809274,
         "url": "https://careers-gtsx.icims.com/jobs/1594/job?mobile=true&needsRedirect=false",
@@ -312658,7 +312658,7 @@
         "company_name": "OpenSesame",
         "id": "e05e26b2-ac39-4339-9b0d-e18eac82c29a",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1778826315,
         "date_posted": 1778826111,
         "url": "https://boards.greenhouse.io/opensesame/jobs/7927745",
@@ -325970,7 +325970,7 @@
         "company_name": "GXO Logistics",
         "id": "8c477ae0-2939-475f-97f7-7f3e952c4b21",
         "title": "Associate Analyst - Operations",
-        "active": true,
+        "active": false,
         "date_updated": 1779822183,
         "date_posted": 1778922365,
         "url": "https://jobs.gxo.com/job/Union-City-Associate-Analyst,-Operations-Fairburn,-GA-GA-30291-5200/1390859100/?ats=successfactors",
@@ -326106,7 +326106,7 @@
         "company_name": "Sysmex",
         "id": "920b12fb-9351-4615-a3ef-f5550819598a",
         "title": "Field Service Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1779822183,
         "date_posted": 1778720751,
         "url": "https://careers-sysmex.icims.com/jobs/4703/job?mobile=true&needsRedirect=false",
@@ -327291,7 +327291,7 @@
         "company_name": "Utah State University",
         "id": "8359ce47-35b5-4f10-b0d4-5e538dc37c93",
         "title": "Hive Frame Image Annotator - Precision Apiculture Research",
-        "active": true,
+        "active": false,
         "date_updated": 1779831905,
         "date_posted": 1779228168,
         "url": "https://careers-usu.icims.com/jobs/10334/job?mobile=true&needsRedirect=false",
@@ -330301,7 +330301,7 @@
         "company_name": "Foley & Lardner LLP",
         "id": "715bef78-d11b-44c4-944a-ea257520a9eb",
         "title": "Deskside Technology Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1779872292,
         "date_posted": 1776204426,
         "url": "https://careers-foley.icims.com/jobs/3474/job?mobile=true&needsRedirect=false",
@@ -331151,7 +331151,7 @@
         "company_name": "Sysmex",
         "id": "8721f327-cbe0-4300-8393-1f3650bc990c",
         "title": "Engineer 1 - Service",
-        "active": true,
+        "active": false,
         "date_updated": 1779920247,
         "date_posted": 1779919556,
         "url": "https://careers-sysmex.icims.com/jobs/4719/job?mobile=true&needsRedirect=false",
@@ -332044,7 +332044,7 @@
         "company_name": "Virtu Financial",
         "id": "174ec6ae-1312-4e6d-8c50-ef4ea9fd0ecd",
         "title": "Automation Analyst - Python",
-        "active": true,
+        "active": false,
         "date_updated": 1779930734,
         "date_posted": 1779228393,
         "url": "https://job-boards.greenhouse.io/virtu/jobs/5065990002",
@@ -332214,6 +332214,123 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "e2e1bbd2-9207-4421-a4bc-494a3e4a5900",
+        "title": "Modeling and Simulation Engineer - Level 2 or 3",
+        "active": true,
+        "date_updated": 1779948725,
+        "date_posted": 1779948551,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Modeling-and-Simulation-Engineer----Level-2-or-3_R10234311",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Highlight Technologies",
+        "id": "ecd97117-a46b-4977-b6a7-76a9cb05196c",
+        "title": "Constituent Data Processing Coordinator",
+        "active": true,
+        "date_updated": 1779949259,
+        "date_posted": 1779948479,
+        "url": "https://careers.highlighttech.com/jobs/1269?lang=en-us&icims=1",
+        "locations": [
+            "Madison, WI",
+            "Fenton, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Highlight-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Threatlocker",
+        "id": "2108a8bd-1765-491d-aa1d-4fdc4843b016",
+        "title": "Application Technician",
+        "active": true,
+        "date_updated": 1779949484,
+        "date_posted": 1777414427,
+        "url": "https://job-boards.greenhouse.io/threatlocker/jobs/5472461004",
+        "locations": [
+            "Orlando, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Threatlocker",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Sony Pictures Imageworks",
+        "id": "512f4a93-543c-430e-8bbb-a8a67822856b",
+        "title": "Associate Technical Director - Assistant Technical Director",
+        "active": true,
+        "date_updated": 1779949478,
+        "date_posted": 1779315748,
+        "url": "https://job-boards.greenhouse.io/sonypicturesimageworks/jobs/7120254003",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Sony-Pictures-Imageworks",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Virtu Financial",
+        "id": "f65657ff-9f42-4256-ac69-c3a4b36628ea",
+        "title": "Software Engineer - Desktop Frontend Developer - C#/Winforms",
+        "active": true,
+        "date_updated": 1779948920,
+        "date_posted": 1777932683,
+        "url": "https://job-boards.greenhouse.io/virtu/jobs/8516902002",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Virtu-Financial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Schonfeld",
+        "id": "72d39aa8-4e41-4461-b86b-7aa17e2f4da1",
+        "title": "Market Data Analyst",
+        "active": true,
+        "date_updated": 1779949596,
+        "date_posted": 1777587611,
+        "url": "https://job-boards.greenhouse.io/schonfeld/jobs/7843959",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Schonfeld",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
