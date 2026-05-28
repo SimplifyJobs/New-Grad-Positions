@@ -44211,24 +44211,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Barclays",
-        "id": "62fa8db4-8036-4967-abfe-65f466ce5544",
-        "title": "Quantitative Finance Risk Associate Graduate Programme",
-        "active": false,
-        "date_updated": 1762910203,
-        "date_posted": 1759269975,
-        "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Quantitative-Finance-Risk-Associate-Graduate-Programme-2026-London_JR-0000075751",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Barclays",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Genuine Parts Company",
         "id": "6c4ad610-4a61-484f-a21c-fe6a06c3494f",
@@ -242319,7 +242301,7 @@
         "company_name": "Crowdstrike",
         "id": "6f80ce1a-9e1e-4c38-9070-759d590add0e",
         "title": "Engineer 1 - Front End - Data Visualization",
-        "active": true,
+        "active": false,
         "date_updated": 1774573524,
         "date_posted": 1774571629,
         "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/Canada---Toronto/Engineer-II---Front-End--Remote--CAN-_R26171",
