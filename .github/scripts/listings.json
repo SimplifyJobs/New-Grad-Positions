@@ -1,47 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Anduril",
-        "id": "ad45cd1f-1cfe-428a-bf87-a6cd5614f0d1",
-        "title": "Early Career Firmware Engineer",
-        "active": false,
-        "date_updated": 1759235711,
-        "date_posted": 1759235711,
-        "url": "https://boards.greenhouse.io/andurilindustries/jobs/4871546007",
-        "locations": [
-            "Newport Beach, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Anduril",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "NVIDIA",
-        "id": "45a62128-1164-4fee-90ed-d5338d04e6e6",
-        "title": "Systems Software Engineer \u2013 New College Grad 2026 - AV Platform Scheduling",
-        "active": false,
-        "date_updated": 1759236611,
-        "date_posted": 1759236611,
-        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Systems-Software-Engineer--AV-Platform-Scheduling---New-College-Grad-2026_JR2005098",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/NVIDIA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
         "date_updated": 1759331449,
         "sponsorship": "Other",
         "active": true,
@@ -311135,7 +311093,7 @@
         "company_name": "Smiths Detection Group",
         "id": "a918c8b2-cc0d-4e5c-bd32-d04ac3c55b82",
         "title": "Field Service Engineer 3",
-        "active": true,
+        "active": false,
         "date_updated": 1778768708,
         "date_posted": 1778767510,
         "url": "https://jobs.smartrecruiters.com/SmithsGroup2/744000126508219",
@@ -323730,7 +323688,7 @@
         "company_name": "Intel",
         "id": "878fd401-4120-4bad-a8c5-8926d2332c70",
         "title": "Package Assembly Low Yield Analysis Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1779821101,
         "date_posted": 1778947338,
         "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Package-Assembly-Low-Yield-Analysis-Engineer_JR0283677",
@@ -327291,7 +327249,7 @@
         "company_name": "Intel",
         "id": "bba2adc5-27e4-43bb-8ed7-ca50058f5720",
         "title": "Business Intelligence Analyst - Client Computing Group",
-        "active": true,
+        "active": false,
         "date_updated": 1779825065,
         "date_posted": 1779531338,
         "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Business-Intelligence-Analyst---Client-Computing-Group_JR0284156-1",
@@ -327773,7 +327731,7 @@
         "company_name": "University of Miami",
         "id": "d4087c54-b45d-4814-9055-d89c944245e5",
         "title": "Postdoctoral Associate - Public Health Sciences",
-        "active": true,
+        "active": false,
         "date_updated": 1779876052,
         "date_posted": 1779527981,
         "url": "https://umiami.wd1.myworkdayjobs.com/UMCareerStaff/job/Miami-FL/Post-Doctoral-Associate_R100092570",
@@ -329445,7 +329403,7 @@
         "company_name": "TD Bank",
         "id": "be8368eb-6e74-4a26-b860-5be7b609c7f5",
         "title": "Associate Software Engineer - L3 Support",
-        "active": true,
+        "active": false,
         "date_updated": 1779837662,
         "date_posted": 1779833533,
         "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/London-Ontario/Associate-Software-Engineer---L3-Support_R_1490690",
@@ -333822,6 +333780,108 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Walmart",
+        "id": "c7770eae-2da6-4249-a206-5d30718866fc",
+        "title": "Software Engineer 3",
+        "active": true,
+        "date_updated": 1779962147,
+        "date_posted": 1779919915,
+        "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-Crossman-Service-Building-CA-SUNNYVALE-Home-Office/XMLNAME--USA--Software-Engineer-III_R-2415153",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Walmart",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Micron Technology",
+        "id": "91e88b6e-4599-4579-afc5-ee3cb7fc6c65",
+        "title": "Electrical Engineer New Grad - Design Engineer - Pathfinding Design",
+        "active": true,
+        "date_updated": 1779960026,
+        "date_posted": 1779529133,
+        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Folsom-CA/New-College-Grad---Design-Engineer---Pathfinding-Design_JR92326",
+        "locations": [
+            "Folsom, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Micron-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Arkansas",
+        "id": "b9bcf351-5da5-411a-9194-d85ff25786a8",
+        "title": "Graduate Assistant - Information Science",
+        "active": true,
+        "date_updated": 1779961464,
+        "date_posted": 1779527543,
+        "url": "https://uasys.wd5.myworkdayjobs.com/uasys/job/Little-Rock/Graduate-Assistant---Information-Science_R0062021",
+        "locations": [
+            "Little Rock, AR"
+        ],
+        "company_url": "https://simplify.jobs/c/1d49378c-2501-4900-8d62-ab3ca8ddadb0",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "JP Morgan Chase",
+        "id": "bcc9929f-c3b5-4fe6-a901-b97318a2cb05",
+        "title": "Global Equities Associate - Electronic Trading - Product/Execution Strategist",
+        "active": true,
+        "date_updated": 1779960998,
+        "date_posted": 1778277958,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210746455",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "JP Morgan Chase",
+        "id": "e9913c68-b131-4e9a-b1f1-7db27e5a3893",
+        "title": "XVA Pricing & Capital Solutions Associate",
+        "active": true,
+        "date_updated": 1779962251,
+        "date_posted": 1776204490,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210732955",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     }
 ]
