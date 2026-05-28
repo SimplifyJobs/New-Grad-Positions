@@ -44306,24 +44306,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Autodesk",
-        "id": "a5b62eff-a7f4-433f-a34f-4478142203b4",
-        "title": "Industrial Placement - Software Engineer - JavaScript",
-        "active": false,
-        "date_updated": 1762818952,
-        "date_posted": 1759244381,
-        "url": "https://autodesk.wd1.myworkdayjobs.com/uni/job/Sheffield-GBP/XMLNAME-12-Month-Industrial-Placement--Software-Engineer--Javascript-_25WD91767",
-        "locations": [
-            "Sheffield, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Autodesk",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Bowhead",
         "id": "1ce4b54c-02a7-4fb6-827e-d0fa80867db4",
         "title": "SCA Telecommunications Mechanic 1",
@@ -127625,7 +127607,7 @@
         "company_name": "Draper",
         "id": "bfd7284e-6b11-478d-9541-44bec97c347d",
         "title": "Embedded Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1768563030,
         "date_posted": 1763887682,
         "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Embedded-Software-Engineer_JR001254",
@@ -159203,7 +159185,7 @@
         "company_name": "Peraton",
         "id": "7bf659f5-2abf-49e6-9351-96a989d3a9f9",
         "title": "Technician 1 - Electronic",
-        "active": true,
+        "active": false,
         "date_updated": 1770332986,
         "date_posted": 1770332986,
         "url": "https://careers-peraton.icims.com/jobs/163311/job?mobile=true&needsRedirect=false",
@@ -171618,7 +171600,7 @@
         "company_name": "JP Morgan Chase",
         "id": "c6181c61-2be3-4137-af18-5d794c799854",
         "title": "Country Risk Data Owner - Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1770995611,
         "date_posted": 1770995611,
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210694631",
@@ -219492,7 +219474,7 @@
         "company_name": "Beyond New Horizons",
         "id": "ac55a30e-462a-43b1-8804-27b672702849",
         "title": "Power Platform Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1773353226,
         "date_posted": 1773353226,
         "url": "https://careers-bnh.icims.com/jobs/23481/job?mobile=true&needsRedirect=false",
@@ -262319,7 +262301,7 @@
         "company_name": "CACI",
         "id": "8c7bd7a2-36c5-40ff-a21a-338b2b713a33",
         "title": "Associate Engineer - Software",
-        "active": true,
+        "active": false,
         "date_updated": 1775658961,
         "date_posted": 1775657335,
         "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-CT-Danbury/Associate-Engineer---Software_324513",
@@ -292748,7 +292730,7 @@
         "company_name": "Peraton",
         "id": "a1545608-c54d-445c-b898-16d1f694f154",
         "title": "Cloud Software Engineer - Nifi",
-        "active": true,
+        "active": false,
         "date_updated": 1777414141,
         "date_posted": 1777414043,
         "url": "https://careers-peraton.icims.com/jobs/166255/job?mobile=true&needsRedirect=false",
@@ -327336,7 +327318,7 @@
         "company_name": "Sandstone Care",
         "id": "30a99685-eb65-4fef-8b45-54647fa1d712",
         "title": "Information Systems Operations Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1779870498,
         "date_posted": 1779488410,
         "url": "https://job-boards.greenhouse.io/sandstonecare/jobs/7837444",
@@ -329002,7 +328984,7 @@
         "company_name": "Comcast",
         "id": "8a3d8ad9-31e5-49d0-813c-71d47e139a57",
         "title": "Engineer 1 - Software Development & Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1779891842,
         "date_posted": 1779890964,
         "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Engineer-1--Software-Dev---Engineering_R437523",
@@ -330202,7 +330184,7 @@
         "company_name": "Nakupuna Companies",
         "id": "9f5094eb-99dd-4b33-bb0c-d0b4c2fe4b2d",
         "title": "Database Sustainment Specialist - Dss",
-        "active": true,
+        "active": false,
         "date_updated": 1779827406,
         "date_posted": 1779487396,
         "url": "https://careers-nakupuna.icims.com/jobs/6581/job?mobile=true&needsRedirect=false",
@@ -331192,7 +331174,7 @@
         "company_name": "Marsh",
         "id": "73300b96-072a-43b0-b5e3-5660b6933e3a",
         "title": "NERA Research Officer/Economic Analyst - Energy and Natural Resources",
-        "active": true,
+        "active": false,
         "date_updated": 1779920334,
         "date_posted": 1778940354,
         "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/London---St-Botolph/NERA-Research-Officer-Economic-Analyst---Energy-and-Natural-Resources_R_321718-1",
@@ -333959,6 +333941,310 @@
             "Louisville, KY"
         ],
         "company_url": "https://simplify.jobs/c/Wood-Mackenzie",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Allstate Insurance Company",
+        "id": "72d01bcf-1d1c-4454-97e2-d5db19cce4d1",
+        "title": "Graduate Product Engineers - Registration of Interest",
+        "active": true,
+        "date_updated": 1779977521,
+        "date_posted": 1779977179,
+        "url": "https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/Belfast-10-Mays-Meadow/Graduate-Product-Engineers---Registration-of-Interest_R26289-1",
+        "locations": [
+            "Belfast, UK",
+            "Londonderry, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Allstate-Insurance-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Goldman Sachs",
+        "id": "d4f48c8a-782e-4ef7-ba72-14aa65d22ebc",
+        "title": "Asset & Wealth Management Associate - Quantitative Internal Product Specialists",
+        "active": true,
+        "date_updated": 1779978329,
+        "date_posted": 1779977303,
+        "url": "https://higher.gs.com/roles/175081",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Goldman-Sachs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "NXP Semiconductors",
+        "id": "b853e54a-82f9-45ab-8704-3bd32e1500a2",
+        "title": "Graduate Digital Design Engineer",
+        "active": true,
+        "date_updated": 1779978036,
+        "date_posted": 1779977094,
+        "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Glasgow/Graduate-Digital-Design-Engineer_R-10063378-1",
+        "locations": [
+            "Glasgow, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/NXP-Semiconductors",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Motorola",
+        "id": "afc48c33-7438-4ae9-b278-d1b434d99a9e",
+        "title": "Graduate Software Engineer",
+        "active": true,
+        "date_updated": 1779977161,
+        "date_posted": 1779977055,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Glasgow-UK-ZUK118/Graduate-Software-Engineer_R65351",
+        "locations": [
+            "Glasgow, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Atomic Invest (AtomicVest)",
+        "id": "6a3cd743-b636-4ebf-be46-46e316340b59",
+        "title": "AI & Automation Engineer",
+        "active": true,
+        "date_updated": 1779977521,
+        "date_posted": 1779977303,
+        "url": "https://jobs.ashbyhq.com/atomic-invest/d6941647-471e-4bcf-9fca-d38beb51b6fd/application",
+        "locations": [
+            "SF",
+            "Remote in USA",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/AtomicVest",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Amentum",
+        "id": "225b1e7d-3318-4e45-94b3-846b0e4d6a41",
+        "title": "Data Analytics Specialist",
+        "active": true,
+        "date_updated": 1779977161,
+        "date_posted": 1779977155,
+        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-IN-Crane/Data-Analytics-Specialist_R0162381",
+        "locations": [
+            "Bedford, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Amentum",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TTP",
+        "id": "080918ae-58c8-4944-8786-bd2b57b915f1",
+        "title": "Graduate Consultant - Software Engineering",
+        "active": true,
+        "date_updated": 1779977161,
+        "date_posted": 1779977100,
+        "url": "https://jobs.smartrecruiters.com/TTP1/744000128905808",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/TTP",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "JP Morgan Chase",
+        "id": "4b26a010-d285-4a71-b227-0d67cf420e2d",
+        "title": "Fixed Income Analyst/Associate",
+        "active": true,
+        "date_updated": 1779977426,
+        "date_posted": 1779977071,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210752684",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Ohio State University",
+        "id": "e13cd406-504b-4912-832f-e5352fe0811d",
+        "title": "Postdoctoral Researcher",
+        "active": true,
+        "date_updated": 1779977213,
+        "date_posted": 1779977027,
+        "url": "https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Columbus-Campus/Post-Doctoral-Researcher_R131285-1",
+        "locations": [
+            "Columbus, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Ohio-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Boeing Company",
+        "id": "80ebf36e-b0be-4174-bbfb-12b75d932ac5",
+        "title": "Associate Software Engineer DevSecOps",
+        "active": true,
+        "date_updated": 1779977921,
+        "date_posted": 1779977280,
+        "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Tukwila-WA/Associate-Software-Engineer-DevSecOps_JR2026511961",
+        "locations": [
+            "Tukwila, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Boeing Company",
+        "id": "56f1432a-b72d-48cc-bee7-a7aab2e1cb4d",
+        "title": "Associate Software Engineer DevSecOps",
+        "active": true,
+        "date_updated": 1779977950,
+        "date_posted": 1779977328,
+        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tukwila-WA/Associate-Software-Engineer-DevSecOps_JR2026511961-1",
+        "locations": [
+            "Tukwila, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cubic",
+        "id": "511c94dc-1f07-4bc3-b879-9a3b8d95435a",
+        "title": "Service Desk Technician",
+        "active": true,
+        "date_updated": 1779977956,
+        "date_posted": 1779977309,
+        "url": "https://cubic.wd1.myworkdayjobs.com/cubic_global_careers/job/Stockton-On-Tees/Service-Desk-Technician_REQ_48945",
+        "locations": [
+            "Durham, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Cubic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Intel",
+        "id": "42be2437-27e0-4fcc-b477-fdff20edde6d",
+        "title": "Yield Development Engineer",
+        "active": true,
+        "date_updated": 1779977956,
+        "date_posted": 1779977282,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Yield-Development-Engineer_JR0284288",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Faculty AI",
+        "id": "862eb48a-cef1-4f8c-943b-34178f31b90f",
+        "title": "Business Technology Analyst",
+        "active": true,
+        "date_updated": 1779977651,
+        "date_posted": 1779977258,
+        "url": "https://jobs.ashbyhq.com/faculty/c613b833-4bdd-45ab-9596-e64ef3fd28b9/application",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Faculty-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "FlightHub",
+        "id": "2086ea86-e8b6-4f27-bcf8-c31185686a24",
+        "title": "Associate Technical Product Manager",
+        "active": true,
+        "date_updated": 1779978160,
+        "date_posted": 1775686897,
+        "url": "https://job-boards.greenhouse.io/flighthub/jobs/7792031",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/FlightHub",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
