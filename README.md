@@ -5,9 +5,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/New-Grad-Positions/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
 ---
-### Browse 275 New Grad Roles by Category
+### Browse 274 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (174)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (173)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (2)
 
@@ -273,7 +273,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Full Stack Engineer Junior</td>
 <td>Honolulu, HI</td>
 <td><div align="center"><a href="https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-HI-Camp-Smith/Full-Stack-Engineer-Junior_RQ220280-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/3d5a3f52-fbe6-4466-8975-091ee4df48a0?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>11d</td>
+<td>12d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Cadence-Design-Systems?utm_source=GHList&utm_medium=company">Cadence Design Systems</a></strong></td>
@@ -927,13 +927,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>2mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/HyannisPortResearch?utm_source=GHList&utm_medium=company">HPR (Hyannis Port Research)</a></strong></td>
-<td>Software Engineer 1</td>
-<td>Needham, MA</td>
-<td><div align="center"><a href="https://job-boards.greenhouse.io/hyannisportresearch/jobs/7651606003?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/805f81b4-b6dd-4279-b384-4d0dbfbbb72b?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>2mo</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Titan-AI?utm_source=GHList&utm_medium=company">Titan</a></strong></td>
 <td>New Grad Product Engineer</td>
 <td>SF</td>
@@ -1302,7 +1295,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (1232)</summary>
+<summary>🗃️ Inactive roles (1233)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -3661,6 +3654,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>2mo</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/HyannisPortResearch?utm_source=GHList&utm_medium=company">HPR (Hyannis Port Research)</a></strong></td>
+<td>Software Engineer 1</td>
+<td>Needham, MA</td>
+<td>🔒</td>
+<td>2mo</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/FactSet?utm_source=GHList&utm_medium=company">FactSet</a></strong></td>
 <td>Software Engineer 1</td>
 <td>London, UK</td>
@@ -3980,21 +3980,21 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Junior Software Engineer</td>
 <td>Boca Raton, FL</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Apple?utm_source=GHList&utm_medium=company">🔥 Apple</a></strong></td>
 <td>Software Development Engineer - Applications</td>
 <td>Seattle, WA</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td><strong>F5</strong></td>
 <td>Software Development Engineer I</td>
 <td>Seattle, WA</br>San Jose, CA</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Intuit?utm_source=GHList&utm_medium=company">Intuit</a></strong></td>
@@ -13036,7 +13036,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>FPGA Engineer 1</td>
 <td>Milton Keynes, UK</td>
 <td><div align="center"><a href="https://jobs.lever.co/CesiumAstro/ae5b45f6-e65d-4b7e-bd10-8fda3834de8a/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/ac54b66b-b6e6-470a-870d-b0cec586ecbf?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/General-Dynamics-Mission-Systems?utm_source=GHList&utm_medium=company">General Dynamics Mission Systems</a></strong></td>
@@ -14443,7 +14443,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>4mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
+<td>↳</td>
 <td>Software Embedded Engineer 1 - TX</td>
 <td>McKinney, TX</td>
 <td>🔒</td>
