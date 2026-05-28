@@ -26917,7 +26917,7 @@
         "company_name": "Marsh & McLennan",
         "id": "61c905e5-2281-4abd-afcc-83089ab79869",
         "title": "Oliver Wyman - Data & Analytics Research Fellowship - Newcastle upon Tyne",
-        "active": true,
+        "active": false,
         "date_updated": 1762907694,
         "date_posted": 1761470150,
         "url": "https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Newcastle---Bank/Oliver-Wyman---Data---Analytics-Research-Fellowship---Newcastle-upon-Tyne_R_327852-1",
@@ -231468,7 +231468,7 @@
         "company_name": "Avnet",
         "id": "ff85f12b-375a-4ef2-a74f-4aeb14bf6f48",
         "title": "Associate Field Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773959510,
         "date_posted": 1773959510,
         "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Irvine-California-United-States-Of-America/Associate-Field-Application-Engineer_JR-022070",
@@ -253443,7 +253443,7 @@
         "company_name": "Agoda",
         "id": "b9c4a46f-2b41-4f0f-a9fa-7ba2e07f2f51",
         "title": "Supply Analytics Senior Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1775111401,
         "date_posted": 1773988105,
         "url": "https://job-boards.greenhouse.io/agoda/jobs/7698911",
@@ -258428,7 +258428,7 @@
         "company_name": "Intel",
         "id": "2da18d89-6f69-495a-8c20-1e04f9c8493f",
         "title": "Junior CPU Design Verification Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1775302471,
         "date_posted": 1775298122,
         "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Texas-Austin/Junior-CPU-Design-Verification-Engineer_JR0282204",
@@ -280859,7 +280859,7 @@
         "company_name": "Leidos",
         "id": "cb388efe-d374-4911-af46-aad02fa45408",
         "title": "Radio Frequency Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1776529668,
         "date_posted": 1776526488,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/RF-Engineer_R-00176557-1",
@@ -318470,7 +318470,7 @@
         "company_name": "SpaceX",
         "id": "f7a03065-0e15-4f67-8849-07fe004283f0",
         "title": "Software Engineer - Starshield",
-        "active": true,
+        "active": false,
         "date_updated": 1779315841,
         "date_posted": 1779315081,
         "url": "https://boards.greenhouse.io/spacex/jobs/8558282002",
@@ -324418,7 +324418,7 @@
         "company_name": "Marsh",
         "id": "ef80aaf9-fdce-43f3-89ba-2a1ab3bdd925",
         "title": "Researcher - Antitrust and Competition",
-        "active": true,
+        "active": false,
         "date_updated": 1779844619,
         "date_posted": 1778940337,
         "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/New-York---1166/NERA-Researcher---Antitrust-and-Competition--NYC-or-Washington--DC-_R_350346-1",
@@ -325879,7 +325879,7 @@
         "company_name": "Capco",
         "id": "4915555b-792c-475d-b316-1c25bbe31eaa",
         "title": "ETRM Business Analyst - Power Trading",
-        "active": true,
+        "active": false,
         "date_updated": 1779844957,
         "date_posted": 1778854076,
         "url": "https://job-boards.greenhouse.io/capco/jobs/7918890",
@@ -329506,7 +329506,7 @@
         "company_name": "Charles River Associates (CRA)",
         "id": "cd1696c6-b084-4ef2-8691-672ceb6f7fdc",
         "title": "Labor and Employment Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1779891915,
         "date_posted": 1776780670,
         "url": "https://job-boards.greenhouse.io/charlesriverassociates/jobs/5065324",
@@ -331476,7 +331476,7 @@
         "company_name": "Marsh",
         "id": "73300b96-072a-43b0-b5e3-5660b6933e3a",
         "title": "NERA Research Officer/Economic Analyst - Energy and Natural Resources",
-        "active": true,
+        "active": false,
         "date_updated": 1779920334,
         "date_posted": 1778940354,
         "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/London---St-Botolph/NERA-Research-Officer-Economic-Analyst---Energy-and-Natural-Resources_R_321718-1",
@@ -332019,6 +332019,211 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Medtronic",
+        "id": "e7cfb4a2-301c-473b-901b-8a987534112c",
+        "title": "Cloud Software Engineer 1 - Neuro",
+        "active": true,
+        "date_updated": 1779931025,
+        "date_posted": 1779930477,
+        "url": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Fridley-Minnesota-United-States-of-America/Cloud-Software-Engineer-I---Neuro---Rice-Creek-Fridley--MN_R66348",
+        "locations": [
+            "Brooklyn Park, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Medtronic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amazon",
+        "id": "6d55f27f-9786-4c75-ab7c-c79dd9c729e0",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1779930966,
+        "date_posted": 1779930365,
+        "url": "https://amazon.jobs/en/jobs/3141336/software-engineer-i",
+        "locations": [
+            "Seattle, WA",
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Werfen",
+        "id": "1bf6d1c5-d5a8-40db-8623-b5b804f9c05c",
+        "title": "Systems Engineer",
+        "active": true,
+        "date_updated": 1779930721,
+        "date_posted": 1779930361,
+        "url": "https://careers-werfen.icims.com/jobs/10414/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Norcross, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Werfen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Intel",
+        "id": "0f0efd25-01fa-419b-9d3a-916d06967722",
+        "title": "Frame Automation Software Engineer",
+        "active": true,
+        "date_updated": 1779931057,
+        "date_posted": 1779930577,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/LTD-Frame-Automation-Software-Engineer_JR0284284",
+        "locations": [
+            "Hillsboro, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amazon",
+        "id": "b7593bd1-5ac9-4f38-badb-fdeeadb1b547",
+        "title": "Support Engineer 1",
+        "active": true,
+        "date_updated": 1779930976,
+        "date_posted": 1779930364,
+        "url": "https://amazon.jobs/en/jobs/10432506/its-support-engineer-i",
+        "locations": [
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Oracle",
+        "id": "80e25f50-b950-4414-baad-14fe27344e1b",
+        "title": "Applications Developer 3",
+        "active": true,
+        "date_updated": 1779930721,
+        "date_posted": 1779930443,
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334897",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Oracle",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Insperity",
+        "id": "eb43e589-96b1-42be-a5a5-db720d60cb85",
+        "title": "Agency Temp - Associate Software Implementation Analyst",
+        "active": true,
+        "date_updated": 1779930361,
+        "date_posted": 1779930288,
+        "url": "https://insperity.wd12.myworkdayjobs.com/NSP/job/Kingwood-TX/Associate-Software-Implementation-Analyst_JR102707",
+        "locations": [
+            "Madison, WI",
+            "Kingwood, Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Insperity",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Truveta",
+        "id": "3c8eb845-c4d5-43c4-961f-b8130c3fff8c",
+        "title": "Software Engineer - Backend Services",
+        "active": true,
+        "date_updated": 1779931213,
+        "date_posted": 1779401592,
+        "url": "https://job-boards.greenhouse.io/truveta/jobs/6002807004",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Truveta",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Virtu Financial",
+        "id": "174ec6ae-1312-4e6d-8c50-ef4ea9fd0ecd",
+        "title": "Automation Analyst - Python",
+        "active": true,
+        "date_updated": 1779930734,
+        "date_posted": 1779228393,
+        "url": "https://job-boards.greenhouse.io/virtu/jobs/5065990002",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Virtu-Financial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Truveta",
+        "id": "b91ba74c-d201-4cd8-b896-76ec065d1447",
+        "title": "Software Engineer - Person Matching",
+        "active": true,
+        "date_updated": 1779931156,
+        "date_posted": 1772495904,
+        "url": "https://job-boards.greenhouse.io/truveta/jobs/5817190004",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Truveta",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
