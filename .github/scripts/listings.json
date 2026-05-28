@@ -268448,7 +268448,7 @@
         "company_name": "KLA",
         "id": "b55c1aa5-0f89-4a8c-8412-6cf0015ee0c0",
         "title": "Staff Optical Engineer - E",
-        "active": true,
+        "active": false,
         "date_updated": 1775918038,
         "date_posted": 1775901059,
         "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Staff-Optical-Engineer_2217727",
@@ -269233,7 +269233,7 @@
     {
         "date_updated": 1776439711,
         "sponsorship": "Offers Sponsorship",
-        "active": false,
+        "active": true,
         "degrees": [],
         "url": "https://job-boards.greenhouse.io/axon/jobs/7662648003",
         "company_name": "Axon",
@@ -269242,8 +269242,8 @@
             "Seattle, WA"
         ],
         "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "09739417-2659-4162-b068-d6a8bab0d205",
+        "source": "Simplify",
+        "id": "9266066c-5c36-43ee-a608-e80043c100a1",
         "date_posted": 1776072240,
         "company_url": "",
         "is_visible": true
@@ -314656,7 +314656,7 @@
         "company_name": "Latitude AI",
         "id": "3bbe2af6-887c-4489-a3de-e915addbc9d4",
         "title": "GIS Production Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1779027301,
         "date_posted": 1779027191,
         "url": "https://job-boards.greenhouse.io/latitude/jobs/7936103",
@@ -319885,7 +319885,7 @@
         "company_name": "LexisNexis Legal & Professional",
         "id": "33ff65fe-7dfc-4b78-94f2-5160bccd9138",
         "title": "Data Discovery and Enrichment Expert 1",
-        "active": true,
+        "active": false,
         "date_updated": 1779403140,
         "date_posted": 1779401021,
         "url": "https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Quebec/Data-Discovery-and-Enrichment-Expert-I--Canada-Bilingual-Hybrid-or-Remote-_R113429",
@@ -323123,7 +323123,7 @@
         "company_name": "Butternut Box",
         "id": "3a232e0c-567d-48ff-9df2-266960c4d76b",
         "title": "Sustainability Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1779836655,
         "date_posted": 1777415004,
         "url": "https://job-boards.greenhouse.io/butternutbox/jobs/8527367002",
@@ -331457,7 +331457,7 @@
         "company_name": "Arcana",
         "id": "68ad2469-5eb6-410a-9a5b-a7a584ba8be9",
         "title": "Portfolio Analytics Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1779920806,
         "date_posted": 1779055588,
         "url": "https://job-boards.greenhouse.io/arcanaanalytics/jobs/4250656009",
@@ -331499,7 +331499,7 @@
         "company_name": "Interactive Brokers Group",
         "id": "96f931fa-e1ad-455d-9af7-9b7d764b92df",
         "title": "Technical Operations Specialist - Technical Operations",
-        "active": true,
+        "active": false,
         "date_updated": 1779920488,
         "date_posted": 1773872296,
         "url": "https://job-boards.greenhouse.io/ibkr/jobs/8465047002",
@@ -332225,5 +332225,122 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Carta",
+        "id": "f2819849-9a8d-4bb3-bc7e-2641a128ae25",
+        "title": "Data Operations Analyst",
+        "active": true,
+        "date_updated": 1779931261,
+        "date_posted": 1779931255,
+        "url": "https://job-boards.greenhouse.io/carta/jobs/7750365003",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Carta",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Intel",
+        "id": "90d90e15-7232-4bfb-9bc2-7834bbb993a1",
+        "title": "Packaging Module Development Engineer",
+        "active": true,
+        "date_updated": 1779931061,
+        "date_posted": 1779930577,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Packaging-Module-Development-Engineer_JR0284263",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amazon",
+        "id": "e3155c50-29ce-48b3-a6f0-47903713b81b",
+        "title": "ITS Support Engineer 1",
+        "active": true,
+        "date_updated": 1779931054,
+        "date_posted": 1779930364,
+        "url": "https://amazon.jobs/en/jobs/10432510/its-support-engineer-i",
+        "locations": [
+            "Tempe, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Marsh & McLennan",
+        "id": "2b75b805-1f1c-4167-ba95-493ef3e81786",
+        "title": "AI Analyst - Architecture",
+        "active": true,
+        "date_updated": 1779930529,
+        "date_posted": 1778940306,
+        "url": "https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Dublin---Charlotte/AI-Analyst---Architecture_R_347311",
+        "locations": [
+            "Charlotte, NC",
+            "Dublin, Ireland"
+        ],
+        "company_url": "https://simplify.jobs/c/Marsh-McLennan",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Celigo",
+        "id": "c6077992-59e9-48a6-ac76-397fe4a974c0",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1779931296,
+        "date_posted": 1777068848,
+        "url": "https://job-boards.greenhouse.io/celigo/jobs/7590180",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Celigo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Herald",
+        "id": "43933c9f-ae35-4655-b2a6-54a1e0d6b422",
+        "title": "Frontend Engineer - AI Products",
+        "active": true,
+        "date_updated": 1779931320,
+        "date_posted": 1761167926,
+        "url": "https://job-boards.greenhouse.io/heraldapi/jobs/4962979008",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Herald",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
