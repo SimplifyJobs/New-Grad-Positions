@@ -26897,7 +26897,7 @@
         "company_name": "Marsh & McLennan",
         "id": "61c905e5-2281-4abd-afcc-83089ab79869",
         "title": "Oliver Wyman - Data & Analytics Research Fellowship - Newcastle upon Tyne",
-        "active": false,
+        "active": true,
         "date_updated": 1762907694,
         "date_posted": 1761470150,
         "url": "https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Newcastle---Bank/Oliver-Wyman---Data---Analytics-Research-Fellowship---Newcastle-upon-Tyne_R_327852-1",
@@ -314509,7 +314509,7 @@
         "company_name": "Latitude AI",
         "id": "3bbe2af6-887c-4489-a3de-e915addbc9d4",
         "title": "GIS Production Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1779027301,
         "date_posted": 1779027191,
         "url": "https://job-boards.greenhouse.io/latitude/jobs/7936103",
@@ -320396,7 +320396,7 @@
         "company_name": "Blackhawk Network Holdings",
         "id": "e036db29-3a3b-4749-8969-b686f8826486",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1779487561,
         "date_posted": 1779487451,
         "url": "https://careers-blackhawknetwork.icims.com/jobs/26610/job?mobile=true&needsRedirect=false",
@@ -321826,7 +321826,7 @@
         "company_name": "The J. Paul Getty Trust",
         "id": "64bdd829-a551-459b-8b23-ade1409cd6a5",
         "title": "Metadata Specialist 1",
-        "active": true,
+        "active": false,
         "date_updated": 1779819667,
         "date_posted": 1776992598,
         "url": "https://jobs-getty.icims.com/jobs/4780/job?mobile=true&needsRedirect=false",
@@ -331329,7 +331329,7 @@
         "company_name": "Marsh",
         "id": "73300b96-072a-43b0-b5e3-5660b6933e3a",
         "title": "NERA Research Officer/Economic Analyst - Energy and Natural Resources",
-        "active": false,
+        "active": true,
         "date_updated": 1779920334,
         "date_posted": 1778940354,
         "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/London---St-Botolph/NERA-Research-Officer-Economic-Analyst---Energy-and-Natural-Resources_R_321718-1",
@@ -331372,7 +331372,7 @@
         "company_name": "Engineers Gate",
         "id": "ae126717-2d40-4cb4-93c8-910dd6e2a7a1",
         "title": "Trading Operations Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1779921625,
         "date_posted": 1779919908,
         "url": "https://job-boards.greenhouse.io/engineersgate/jobs/7961364",
@@ -332331,6 +332331,122 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Highlight Technologies",
+        "id": "280dec98-283d-44de-9a4d-495a92e50f71",
+        "title": "Investment Analyst",
+        "active": true,
+        "date_updated": 1779949262,
+        "date_posted": 1779948481,
+        "url": "https://careers.highlighttech.com/jobs/1226?lang=en-us&icims=1",
+        "locations": [
+            "Madison, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Highlight-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Hewlett Packard Enterprise",
+        "id": "1dd2f308-7b12-4546-a8f9-e3f5a7d8f8a9",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1779948725,
+        "date_posted": 1779948535,
+        "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Westford-Massachusetts/Software-Engineer_1207151",
+        "locations": [
+            "Westford, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Connections Health Solutions",
+        "id": "81908380-508f-4d3e-8a0e-633b5f554e4e",
+        "title": "Help Desk Analyst",
+        "active": true,
+        "date_updated": 1779949441,
+        "date_posted": 1779948457,
+        "url": "https://careers-wth.icims.com/jobs/2550/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Fort Lauderdale, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Connections-Health-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Highlight Technologies",
+        "id": "fabbdfe3-edc2-4e46-9126-6ce59a695131",
+        "title": "Desktop Engineer 1",
+        "active": true,
+        "date_updated": 1779949264,
+        "date_posted": 1779948479,
+        "url": "https://careers.highlighttech.com/jobs/1255?lang=en-us&icims=1",
+        "locations": [
+            "Madison, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Highlight-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Truveta",
+        "id": "f55b43ae-479e-40b6-89ae-203f3ae6b5f8",
+        "title": "Machine Learning Postdoctoral Researcher - Healthcare AI Innovation",
+        "active": true,
+        "date_updated": 1779949842,
+        "date_posted": 1776820832,
+        "url": "https://job-boards.greenhouse.io/truveta/jobs/5978375004",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Truveta",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Truveta",
+        "id": "5f6b649f-5e21-43c5-aee4-de21d2192836",
+        "title": "Software Engineer - Data Fulfillment",
+        "active": true,
+        "date_updated": 1779949565,
+        "date_posted": 1776820833,
+        "url": "https://job-boards.greenhouse.io/truveta/jobs/5978337004",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Truveta",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
