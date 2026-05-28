@@ -2,26 +2,6 @@
     {
         "source": "Simplify",
         "category": "Hardware",
-        "company_name": "Ciena",
-        "id": "1d8cfe7f-0191-48b9-a2f2-74e15e514651",
-        "title": "Modem Hardware Engineer New Graduate - Hardware Design",
-        "active": false,
-        "date_updated": 1759201996,
-        "date_posted": 1759201996,
-        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Modem-Hardware---Engineer-New-Grad_R028721",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Ciena",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
         "company_name": "Anduril",
         "id": "ad45cd1f-1cfe-428a-bf87-a6cd5614f0d1",
         "title": "Early Career Firmware Engineer",
@@ -44492,61 +44472,6 @@
             "Salt Lake City, UT"
         ],
         "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Global Atlantic Financial Group",
-        "id": "54d231f0-2c60-4c35-b2f5-1808ec883f4d",
-        "title": "Product Operations Analyst",
-        "active": false,
-        "date_updated": 1759201928,
-        "date_posted": 1759201928,
-        "url": "https://job-boards.greenhouse.io/gafg/jobs/7272102",
-        "locations": [
-            "Des Moines, IA"
-        ],
-        "company_url": "https://simplify.jobs/c/GlobalAtlantic",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Viavi Solutions",
-        "id": "1b90f6b1-7f0e-4efc-bddf-49c808468c5d",
-        "title": "Early Careers Rotational Program - AI Track",
-        "active": false,
-        "date_updated": 1759201963,
-        "date_posted": 1759201963,
-        "url": "https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Ottawa-CAN/Early-Careers-Rotational-Program--AI-Track-_250003817-1",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Viavi-Solutions",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "The Travelers Companies",
-        "id": "10b546ac-8ecb-401e-968f-a3acc72a9b94",
-        "title": "Software Engineer - Guidewire Integration",
-        "active": false,
-        "date_updated": 1761847967,
-        "date_posted": 1759201848,
-        "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Software-Engineer---Guidewire-Integration_R-47036",
-        "locations": [
-            "Hartford, CT",
-            "St Paul, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Travelers",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
