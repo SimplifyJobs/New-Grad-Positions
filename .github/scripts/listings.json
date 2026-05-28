@@ -1,46 +1,5 @@
 [
     {
-        "date_updated": 1759331449,
-        "sponsorship": "Other",
-        "active": true,
-        "degrees": [],
-        "url": "https://jobs.comcast.com/job/-/-/45483/86516813920",
-        "company_name": "Comcast",
-        "title": "Software Engineer 1 with AWS & Python",
-        "locations": [
-            "Chicago, IL",
-            "Englewood, CO"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "df214627-c5cd-4367-b5c4-2687fce1e2a3",
-        "date_posted": 1759238463,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "LPL Financial Holdings",
-        "id": "c02158ba-75c6-4420-ba50-bcf4c7b5f0b9",
-        "title": "Engineer I - Software Development",
-        "active": false,
-        "date_updated": 1759238280,
-        "date_posted": 1759238280,
-        "url": "https://lplfinancial.wd1.myworkdayjobs.com/en-US/External/job/Fort-MillCharlotte/Engineer-I--Software-Development_R-046445",
-        "locations": [
-            "Austin, TX",
-            "Fort Mill, SC",
-            "Charlotte, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/LPL-Financial-Holdings",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "date_updated": 1759858982,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
@@ -44394,24 +44353,6 @@
             "Solano County, CA"
         ],
         "company_url": "https://simplify.jobs/c/Bowhead",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Teledyne",
-        "id": "20573303-a6f4-458c-91e6-1b083ee0763b",
-        "title": "Engineering Technician",
-        "active": false,
-        "date_updated": 1763120475,
-        "date_posted": 1759237562,
-        "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/UK---Alton/Engineering-Techncian_REQ31338",
-        "locations": [
-            "Hook, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/199b3c43-379a-408c-a6a8-980e79183038",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -164473,7 +164414,7 @@
         "company_name": "Peraton",
         "id": "075deebf-1ba2-4fcd-a41a-7b52723edf97",
         "title": "Database Engineer - Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1770679120,
         "date_posted": 1770679120,
         "url": "https://careers-peraton.icims.com/jobs/163496/job?mobile=true&needsRedirect=false",
@@ -218360,7 +218301,7 @@
         "company_name": "Globus Medical",
         "id": "05d493ab-098c-46d8-aa5c-bafc4611c1a8",
         "title": "Associate Product Manager",
-        "active": true,
+        "active": false,
         "date_updated": 1773269329,
         "date_posted": 1773269329,
         "url": "https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Audubon-PA/Associate-Product-Manager_JR105815",
@@ -253619,7 +253560,7 @@
         "company_name": "Bernhard",
         "id": "1bb21e35-11cd-470e-a4d0-9f0a749bc00c",
         "title": "Energy Analyst 1",
-        "active": true,
+        "active": false,
         "date_updated": 1775140762,
         "date_posted": 1775138727,
         "url": "https://careers-enfra.icims.com/jobs/9651/job?mobile=true&needsRedirect=false",
@@ -326596,7 +326537,7 @@
         "company_name": "Apple",
         "id": "05f5221f-b896-43da-96e6-5eb2ea75288a",
         "title": "Software Engineer - iCloud Platform",
-        "active": true,
+        "active": false,
         "date_updated": 1779823443,
         "date_posted": 1779152912,
         "url": "https://jobs.apple.com/en-us/details/200634236",
@@ -326674,7 +326615,7 @@
         "company_name": "Nakupuna Companies",
         "id": "13edcc6e-ad03-450c-9636-42e730d387d9",
         "title": "Database Sustainment Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1779827406,
         "date_posted": 1779487419,
         "url": "https://careers-nakupuna.icims.com/jobs/6485/job?mobile=true&needsRedirect=false",
@@ -331415,7 +331356,7 @@
         "company_name": "Nakupuna Companies",
         "id": "1ba9e8ff-3482-476d-bd58-6f30ef531215",
         "title": "Database Sustainment Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1779919573,
         "date_posted": 1779919385,
         "url": "https://careers-nakupuna.icims.com/jobs/6616/job?mobile=true&needsRedirect=false",
@@ -332479,7 +332420,7 @@
         "company_name": "Peraton",
         "id": "28b042d4-8272-49dd-8431-0742ab04cb2d",
         "title": "Cloud Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1779956461,
         "date_posted": 1778882738,
         "url": "https://careers-peraton.icims.com/jobs/166836/job?mobile=true&needsRedirect=false",
