@@ -126618,7 +126618,7 @@
         "company_name": "Aristocrat Leisure",
         "id": "7b918efe-26d6-4c78-9bc9-44a76750d2e4",
         "title": "Data Analyst - Finance",
-        "active": true,
+        "active": false,
         "date_updated": 1768520365,
         "date_posted": 1768520365,
         "url": "https://aristocrat.wd3.myworkdayjobs.com/aristocratexternalcareerssite/job/London-United-Kingdom/Data-Analyst---Finance_R0020491",
@@ -248448,7 +248448,7 @@
         "company_name": "Boom Supersonic",
         "id": "8a6a8f0f-3858-439a-8ca5-3cc37ccd8351",
         "title": "Embedded Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1774955327,
         "date_posted": 1765383487,
         "url": "https://ats.rippling.com/boom-supersonic/jobs/9a05cb9a-ff1c-4d34-916e-bdf752658276",
@@ -273783,7 +273783,7 @@
         "company_name": "BlackRock",
         "id": "70d46e0b-2cfe-482e-986f-dc83f5a87a90",
         "title": "Analyst \u2013 Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1776294637,
         "date_posted": 1776290886,
         "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/Wilmington-DE/Analyst--Application-Engineer_R262373",
@@ -296628,7 +296628,7 @@
         "company_name": "Vinik Sports Group",
         "id": "83d6e787-f115-4dba-b150-f54d9111ab2f",
         "title": "Data Scientist Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1777644424,
         "date_posted": 1777644132,
         "url": "https://vsg.wd1.myworkdayjobs.com/vsg/job/Tampa-Bay-Lightning/Data-Scientist-Assistant_R1079",
@@ -308287,7 +308287,7 @@
         "company_name": "Trunk Tools",
         "id": "7b7bd125-2d57-423c-9302-f38056c6e7f3",
         "title": "Senior NLP Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1778706071,
         "date_posted": 1761872897,
         "url": "https://jobs.ashbyhq.com/trunk%20tools/126e3070-2ade-4fdb-897d-55f0fd7a0785/application",
@@ -324840,7 +324840,7 @@
         "company_name": "Wellington Management",
         "id": "789cc00a-a3c3-4123-af8c-3a60833e47db",
         "title": "Performance & Benchmark Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1779821821,
         "date_posted": 1778941328,
         "url": "https://wellington.wd5.myworkdayjobs.com/external/job/London-United-Kingdom/Performance---Benchmark-Analyst_R94123-1",
@@ -330261,7 +330261,7 @@
         "company_name": "Duke University",
         "id": "7a916fd0-4b4b-4f11-8c5e-d023c1af8603",
         "title": "Research Technician 1",
-        "active": true,
+        "active": false,
         "date_updated": 1779872510,
         "date_posted": 1778922194,
         "url": "https://careers.duke.edu/job/Durham-RESEARCH-TECHNICIAN-I-NC-27710/1386909000/?ats=successfactors",
@@ -330597,7 +330597,7 @@
         "company_name": "CDW Corporation",
         "id": "615bfa10-e6d1-4b32-bcf3-3a26ddc271f4",
         "title": "Computer Repair Technician / Config Tech",
-        "active": true,
+        "active": false,
         "date_updated": 1779919573,
         "date_posted": 1779919502,
         "url": "https://cdw.wd5.myworkdayjobs.com/careers/job/Conyers-ATL---GA/Computer-Repair-Technician---Config-Tech_R26_00001890",
@@ -332817,6 +332817,206 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "PNC Financial Services",
+        "id": "72a7e180-12d1-4330-8a2b-19c6a54875ee",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1779958940,
+        "date_posted": 1779919882,
+        "url": "https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Software-Engineer_R222671-1",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/PNC-Financial-Services",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "JP Morgan Chase",
+        "id": "89eea7f3-5880-40f8-8adc-920140b46442",
+        "title": "Quant Analytics - Multiple Positions Available",
+        "active": true,
+        "date_updated": 1779959341,
+        "date_posted": 1779804294,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210743458",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Leidos",
+        "id": "84ffabcd-1475-42d2-8046-983744312e5e",
+        "title": "Full Stack Java Software Engineer",
+        "active": true,
+        "date_updated": 1779959401,
+        "date_posted": 1779528284,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Full-Stack-Java-Software-Engineer_R-00172956",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Boys Town",
+        "id": "8370875c-fa61-42ea-86ca-abb97caf9035",
+        "title": "Software Developer",
+        "active": true,
+        "date_updated": 1779959738,
+        "date_posted": 1779527988,
+        "url": "https://boystown.wd1.myworkdayjobs.com/boystowncareers/job/Omaha-NE/Software-Developer--On-Site-_REQ-2026-8587-2",
+        "locations": [
+            "Omaha, NE"
+        ],
+        "company_url": "https://simplify.jobs/c/Boys-Town",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Thermo Fisher Scientific",
+        "id": "752bfe0d-dbe5-4d4d-9c60-2ae61c5453cc",
+        "title": "Field Service Engineer - Em",
+        "active": true,
+        "date_updated": 1779959052,
+        "date_posted": 1778942817,
+        "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Fremont-California-USA/Field-Service-Engineer--EM--Fremont--CA-_R-01346012",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Thermo-Fisher-Scientific",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Rogers Behavioral Health",
+        "id": "6ee7b98c-ff40-48fa-9739-71119f369879",
+        "title": "Therapist \u2013 Partial Hospitalization Program / Intensive Outpatient",
+        "active": true,
+        "date_updated": 1779958824,
+        "date_posted": 1778941395,
+        "url": "https://rogersbh.wd1.myworkdayjobs.com/rbhcareer/job/Brown-Deer-Area/Therapist---PHP-IOP---PRN_R6262",
+        "locations": [
+            "Brown Deer, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/b92a810e-00da-4d83-9a36-b7d609699d59",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Q2",
+        "id": "755648f8-882a-41ae-a7ab-f2586a7a5394",
+        "title": "Senior Software Engineer",
+        "active": true,
+        "date_updated": 1779959071,
+        "date_posted": 1779440704,
+        "url": "https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-TX/Senior-Software-Engineer_REQ-12451",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Q2Software",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Illumio",
+        "id": "8a04a3fa-0b4e-449f-86bb-c31c12b8a7e6",
+        "title": "AI Research and Automation Specialist",
+        "active": true,
+        "date_updated": 1779959530,
+        "date_posted": 1776290995,
+        "url": "https://jobs.ashbyhq.com/illumio/6ea46003-cf09-4e6a-8fe7-c59d24df0618/application",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Illumio",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Rogers Behavioral Health",
+        "id": "67284dc7-b91d-4c8e-a900-c4146a2c65ae",
+        "title": "Therapist \u2013 Partial Hospitalization Program / Intensive Outpatient",
+        "active": true,
+        "date_updated": 1779958647,
+        "date_posted": 1778941394,
+        "url": "https://rogersbh.wd1.myworkdayjobs.com/rbhcareer/job/Lincoln-Center-Clinic-West-Allis-WI/Therapist---PHP-IOP---PRN_R6264",
+        "locations": [
+            "Wauwatosa, WI",
+            "Wisconsin"
+        ],
+        "company_url": "https://simplify.jobs/c/b92a810e-00da-4d83-9a36-b7d609699d59",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "JP Morgan Chase",
+        "id": "7417cb1a-ca8b-4281-b8f6-d657f52757b6",
+        "title": "Quantitative Analytics Associate - Fraud Prevention Optimization Strategy",
+        "active": true,
+        "date_updated": 1779958441,
+        "date_posted": 1775858958,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210733678",
+        "locations": [
+            "Columbus, OH",
+            "Wilmington, DE"
+        ],
+        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
             "Master's"
         ]
     }
