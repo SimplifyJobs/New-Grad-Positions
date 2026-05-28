@@ -210066,7 +210066,7 @@
         "company_name": "JP Morgan Chase",
         "id": "eda6153a-f4c0-4cd7-84ac-50eedad60c6b",
         "title": "Associate Salesforce Product Manager",
-        "active": true,
+        "active": false,
         "date_updated": 1772792540,
         "date_posted": 1772792540,
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210719385",
@@ -276465,7 +276465,7 @@
         "company_name": "GE Healthcare",
         "id": "a9286175-e5ba-4570-8b71-91bb5537a2ad",
         "title": "Field Service Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1776377859,
         "date_posted": 1776377195,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1_R4039152-2",
@@ -284998,7 +284998,7 @@
         "company_name": "Analog Devices",
         "id": "3b468db4-4ce1-4e86-8195-6330bec9d40e",
         "title": "Algorithm Development Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1776811681,
         "date_posted": 1776809386,
         "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Algorithm-Development-Engineer_R255533-1",
@@ -333601,5 +333601,64 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "GHD",
+        "id": "020639aa-a6bc-4817-9e00-d804e0c78d1d",
+        "title": "Graduate Rail Engineer",
+        "active": true,
+        "date_updated": 1779959341,
+        "date_posted": 1779959145,
+        "url": "https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/24495",
+        "locations": [
+            "Leeds, UK",
+            "Liverpool, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/GHD",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "JP Morgan Chase",
+        "id": "9fdf45e8-735b-4ed8-ac43-b497a5b945dd",
+        "title": "CRM Campaign Operations - Associate",
+        "active": true,
+        "date_updated": 1779959881,
+        "date_posted": 1778105150,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210725024",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "JP Morgan Chase",
+        "id": "cd205058-1ea8-40b6-ab52-e88336b9f266",
+        "title": "Credit Trading Associate",
+        "active": true,
+        "date_updated": 1779961431,
+        "date_posted": 1772626192,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210720029",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
