@@ -226084,7 +226084,7 @@
         "company_name": "Howden",
         "id": "511eec43-2523-4338-bee5-647663a0202b",
         "title": "Product Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1773700561,
         "date_posted": 1773700561,
         "url": "https://hyperiongrp.wd3.myworkdayjobs.com/Hyperion_External/job/London/Product-Analyst_R0016639",
@@ -257959,7 +257959,7 @@
         "company_name": "Pennsylvania State University",
         "id": "511d6f5f-2c89-4282-b5ab-da8d188ff120",
         "title": "Engineering Designer",
-        "active": false,
+        "active": true,
         "date_updated": 1775303196,
         "date_posted": 1775300138,
         "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Engineering-Designer_REQ_0000076206-2",
@@ -313307,7 +313307,7 @@
         "company_name": "Princeton University",
         "id": "4cf542ad-fc1f-466f-9b39-26ab0b45d905",
         "title": "Research Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1778882888,
         "date_posted": 1778882639,
         "url": "https://main-princeton.icims.com/jobs/21827/job?mobile=true&needsRedirect=false",
@@ -317291,7 +317291,7 @@
         "company_name": "JP Morgan Chase",
         "id": "6e3d75c7-d076-4e63-a6ec-aaa6ce21c6d1",
         "title": "Asset Management - Multiple Teams",
-        "active": true,
+        "active": false,
         "date_updated": 1779267781,
         "date_posted": 1779267766,
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210750310",
@@ -320764,7 +320764,7 @@
         "company_name": "HCSC",
         "id": "387cb099-e17b-4d71-9f94-296fd610352b",
         "title": "Analytics Consultant - People Analytics",
-        "active": true,
+        "active": false,
         "date_updated": 1779488379,
         "date_posted": 1779487747,
         "url": "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Analytics-Consultant_R0051147",
@@ -320989,7 +320989,7 @@
         "company_name": "The Boeing Company",
         "id": "48e8e335-64dd-49df-b962-f9c8a914901c",
         "title": "Entry Level Digital Electronics Circuit & Unit Hardware Design Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1779488552,
         "date_posted": 1779487878,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Entry-level-Digital-Electronics-Circuit---Unit-Hardware-Design-Engineer_JR2026511020-1",
@@ -325351,7 +325351,7 @@
         "company_name": "JP Morgan Chase",
         "id": "4fda3d37-6675-49c6-b466-ef3b433b7b64",
         "title": "Portfolio & Performance Analysis",
-        "active": true,
+        "active": false,
         "date_updated": 1779821641,
         "date_posted": 1778508334,
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210741215",
@@ -327531,7 +327531,7 @@
         "company_name": "Leidos",
         "id": "414d4325-05da-43b8-8071-5cfb6fe89a91",
         "title": "Enterprise Help Desk - Enterprise Help Desk - Tier 1",
-        "active": true,
+        "active": false,
         "date_updated": 1779871209,
         "date_posted": 1778942170,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Lorton-VA/Enterprise-Help-Desk--EHD--Tier-1_R-00179374",
@@ -331131,7 +331131,7 @@
         "company_name": "Chaucer Group",
         "id": "61a623d2-561c-47e9-8205-18bcc55ea58f",
         "title": "Emerging Catastrophe Risk Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1779919573,
         "date_posted": 1779919550,
         "url": "https://chaucergroup.wd3.myworkdayjobs.com/chaucer_group_careers/job/London/Emerging-Catastrophe-Risk-Analyst_JR101301",
@@ -332611,6 +332611,213 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Federal Reserve System",
+        "id": "51d86047-3833-40ac-a217-4b2018b3a9a5",
+        "title": "Research Associate",
+        "active": true,
+        "date_updated": 1779958057,
+        "date_posted": 1779919608,
+        "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Omaha-NE/Research-Associate_R-0000032383-1",
+        "locations": [
+            "Omaha, NE"
+        ],
+        "company_url": "https://simplify.jobs/c/6a7a42d3-327f-4b48-a7a7-c68f405e3396",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Walmart",
+        "id": "33f4a2b3-1996-4e2e-8524-84ba9504b105",
+        "title": "Software Engineer 3",
+        "active": true,
+        "date_updated": 1779957078,
+        "date_posted": 1779498681,
+        "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Software-Engineer-III_R-2425292",
+        "locations": [
+            "Bentonville, AR"
+        ],
+        "company_url": "https://simplify.jobs/c/Walmart",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Peraton",
+        "id": "425ea253-4425-496f-a4ca-7b47189071f3",
+        "title": "Cloud Software Engineer",
+        "active": true,
+        "date_updated": 1779957181,
+        "date_posted": 1778882737,
+        "url": "https://careers-peraton.icims.com/jobs/166863/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Laurel, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Peraton",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Walmart",
+        "id": "3340497a-3f97-45f3-83e9-c92b5c923135",
+        "title": "Software Engineer 3",
+        "active": true,
+        "date_updated": 1779957120,
+        "date_posted": 1778942911,
+        "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/XMLNAME--USA--Software-Engineer-III_R-2408628",
+        "locations": [
+            "Bentonville, AR"
+        ],
+        "company_url": "https://simplify.jobs/c/Walmart",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "JP Morgan Chase",
+        "id": "4431c986-421e-4bd3-9b63-f6978dcb699f",
+        "title": "Automation & Data Analytics Associate",
+        "active": true,
+        "date_updated": 1779957181,
+        "date_posted": 1777932389,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210712260",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Leidos",
+        "id": "37621d16-2469-4d8e-a782-b886a614d43c",
+        "title": "Data Scientist",
+        "active": true,
+        "date_updated": 1779957258,
+        "date_posted": 1778941821,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Valparaiso-FL/Data-Scientist_R-00181905",
+        "locations": [
+            "Niceville, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Kroll Bond Rating Agency",
+        "id": "12ee00ec-5520-4b40-8c5f-1fdf87d1afec",
+        "title": "CMBS / CRE Research Associate",
+        "active": true,
+        "date_updated": 1779956005,
+        "date_posted": 1776953422,
+        "url": "https://job-boards.greenhouse.io/krollbondratingagency/jobs/8520379002",
+        "locations": [
+            "Horsham, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Kroll-Bond-Rating-Agency",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amgen",
+        "id": "356ade69-a64f-4b70-8544-f38777e83033",
+        "title": "Senior Manufacturing Systems Engineer",
+        "active": true,
+        "date_updated": 1779957221,
+        "date_posted": 1778942401,
+        "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/US---North-Carolina---Holly-Springs/Senior-Manufacturing-Systems-Engineer_R-200765-1",
+        "locations": [
+            "Holly Springs, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Amgen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Leidos",
+        "id": "404c214d-63d0-43d7-bcce-7cd4bff2f692",
+        "title": "Computer Scientist Associate",
+        "active": true,
+        "date_updated": 1779957431,
+        "date_posted": 1778943768,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Honolulu-HI/Computer-Scientist-Associate_R-00180968",
+        "locations": [
+            "Honolulu, HI"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "JP Morgan Chase",
+        "id": "442c6324-ce4c-401e-a711-4bda90465047",
+        "title": "Model Risk Program Analyst/Associate",
+        "active": true,
+        "date_updated": 1779957181,
+        "date_posted": 1776348530,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210736155",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
         ]
     }
 ]
