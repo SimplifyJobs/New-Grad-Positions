@@ -1,28 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Adobe",
-        "id": "da795263-711c-4a8c-8499-aca7d076544d",
-        "title": "2026 University Graduate - Machine Learning Engineer",
-        "active": false,
-        "date_updated": 1759269635,
-        "date_posted": 1759269635,
-        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Seattle/XMLNAME-2026-University-Graduate---Machine-Learning-Engineer_R160135",
-        "locations": [
-            "Seattle, WA",
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Adobe",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "RTX",
         "id": "821975ed-f886-4a2f-9bfd-1747c1f51d90",
@@ -44245,24 +44223,6 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/Barclays",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Fujitsu",
-        "id": "c02839cb-eddb-4ab5-bc9c-1e0b643bfb14",
-        "title": "2nd Line Engineer",
-        "active": false,
-        "date_updated": 1759269222,
-        "date_posted": 1759269222,
-        "url": "https://edzt.fa.em4.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/31630",
-        "locations": [
-            "Whiteley, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Fujitsu",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -153230,7 +153190,7 @@
         "company_name": "Blue Origin",
         "id": "364a0235-1556-4845-b1de-bb3b0965798a",
         "title": "Autonomous Vehicle AI Engineer 2 Computer Vision and Path Planning",
-        "active": true,
+        "active": false,
         "date_updated": 1770086332,
         "date_posted": 1770086332,
         "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Autonomous-Vehicle-AI-Engineer-II-Computer-Vision-and-Path-Planning_R58724-1",
@@ -166285,7 +166245,7 @@
         "company_name": "Roblox",
         "id": "492e0d18-0b7a-4eeb-94b6-cad80a7df3d3",
         "title": "Data Scientist - Foundation AI",
-        "active": true,
+        "active": false,
         "date_updated": 1770766789,
         "date_posted": 1770766788,
         "url": "https://careers.roblox.com/jobs/7577436?gh_jid=7577436",
@@ -271197,7 +271157,7 @@
         "company_name": "HavocAI",
         "id": "3ccbda4f-995f-4196-a0cc-d0271f0d83b1",
         "title": "Support Software Engineer - Robotic Systems",
-        "active": true,
+        "active": false,
         "date_updated": 1776120499,
         "date_posted": 1776118161,
         "url": "https://jobs.ashbyhq.com/havocai/076ba872-a388-433d-a2f4-4a82ab96ad71/application",
@@ -310625,7 +310585,7 @@
         "company_name": "Lincoln Financial",
         "id": "29a8c8fd-58b9-4cfd-b523-ad2520ad736b",
         "title": "Associate Application Development",
-        "active": true,
+        "active": false,
         "date_updated": 1778709151,
         "date_posted": 1778623679,
         "url": "https://jobs.lincolnfinancial.com/job/Omaha-Associate,-Application-Development-NE-68046/1387501400/?ats=successfactors",
@@ -320510,7 +320470,7 @@
         "company_name": "GEHA",
         "id": "52e4cc24-f752-4441-aaf2-d90aafddbfe7",
         "title": "Analytics Engineer Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1779488276,
         "date_posted": 1779487697,
         "url": "https://geha.wd5.myworkdayjobs.com/en-US/GEHACareers/job/Missouri-Remote/Assoc-Analytics-Engineer_R-005269",
@@ -327396,7 +327356,7 @@
         "company_name": "Micron Technology",
         "id": "30fa7a33-0352-4773-8bf9-dac295b216ab",
         "title": "Product Yield Enhancement Engineer - Engineer - Pye",
-        "active": true,
+        "active": false,
         "date_updated": 1779870827,
         "date_posted": 1778945615,
         "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---ENGINEER---PYE_JR93485",
@@ -332915,7 +332875,7 @@
         "company_name": "Leidos",
         "id": "39691e84-1afc-4f21-bcd8-da1fef936030",
         "title": "Video Workflow Automation Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1779957303,
         "date_posted": 1778941843,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Greenbelt-MD/Video-Workflow-Automation-Engineer_R-00183189",
