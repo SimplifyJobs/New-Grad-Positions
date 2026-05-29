@@ -43854,42 +43854,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "DMI",
-        "id": "9c404820-1fa8-4bd7-ab2e-25c0542022a3",
-        "title": "Installation Technician",
-        "active": false,
-        "date_updated": 1762922790,
-        "date_posted": 1759288031,
-        "url": "https://careers-dminc.icims.com/jobs/28259/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Washington, DC"
-        ],
-        "company_url": "https://simplify.jobs/c/DMI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "DMI",
-        "id": "5ea137a5-bee3-4edc-bb26-e54c1c88e40b",
-        "title": "Installation Technician Warehouse",
-        "active": false,
-        "date_updated": 1763116694,
-        "date_posted": 1759288036,
-        "url": "https://careers-dminc.icims.com/jobs/28257/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Washington, DC"
-        ],
-        "company_url": "https://simplify.jobs/c/DMI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "TDS",
         "id": "12a7de0d-73ed-4839-aa19-ecfe412999c8",
         "title": "Broadband Technician 1",
