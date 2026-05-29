@@ -5,9 +5,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/New-Grad-Positions/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
 ---
-### Browse 262 New Grad Roles by Category
+### Browse 260 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (167)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (165)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (1)
 
@@ -353,13 +353,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>15d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Uber?utm_source=GHList&utm_medium=company">🔥 Uber</a></strong></td>
-<td>Software Engineer 1</td>
-<td>Sunnyvale, CA</td>
-<td><div align="center"><a href="https://www.uber.com/global/en/careers/list/158657/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/6685d519-1faf-400c-a3aa-a68be70534b2?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>15d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/3d3125df-3bbc-48fc-993c-8e2d0db65649?utm_source=GHList&utm_medium=company">TSC</a></strong></td>
 <td>Software Engineer 1</td>
 <td>Silver Spring, MD</td>
@@ -644,13 +637,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Junior C# Software Engineer 🇺🇸</td>
 <td>Bethesda, MD</td>
 <td><a href="https://caci.wd1.myworkdayjobs.com/en-US/external/job/US-MD-Bethesda/Junior-C--Software-Engineer_324627?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Axon?utm_source=GHList&utm_medium=company">Axon</a></strong></td>
-<td>Software Engineer I</td>
-<td>Seattle, WA</td>
-<td><div align="center"><a href="https://job-boards.greenhouse.io/axon/jobs/7662648003?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/9266066c-5c36-43ee-a608-e80043c100a1?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
 <td>1mo</td>
 </tr>
 <tr>
@@ -1253,7 +1239,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (1231)</summary>
+<summary>🗃️ Inactive roles (1232)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -1431,6 +1417,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><strong><a href="https://simplify.jobs/c/Berkshire-Hathaway-Energy?utm_source=GHList&utm_medium=company">Berkshire Hathaway Energy</a></strong></td>
 <td>Software Engineer 1</td>
 <td>Salt Lake City, UT</td>
+<td>🔒</td>
+<td>15d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Uber?utm_source=GHList&utm_medium=company">🔥 Uber</a></strong></td>
+<td>Software Engineer 1</td>
+<td>Sunnyvale, CA</td>
 <td>🔒</td>
 <td>15d</td>
 </tr>
@@ -2369,6 +2362,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>↳</td>
 <td>Junior Embedded Software Engineer (cleared) 🇺🇸</td>
 <td>Dedham, MA</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Axon?utm_source=GHList&utm_medium=company">Axon</a></strong></td>
+<td>Software Engineer I</td>
+<td>Seattle, WA</td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>
@@ -6720,7 +6720,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>5mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
+<td>↳</td>
 <td>2026 Full-time - Software Engineer I</td>
 <td>Fort Wayne, IN</td>
 <td>🔒</td>
@@ -9876,13 +9876,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>🔒</td>
 <td>7mo</td>
 </tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Momentum-Engineering?utm_source=GHList&utm_medium=company">Momentum Engineering</a></strong></td>
-<td>Software Engineer 0 🇺🇸</td>
-<td>Annapolis Junction, MD</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
 </tbody>
 </table>
 
@@ -9920,7 +9913,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (40)</summary>
+<summary>🗃️ Inactive roles (39)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -10203,13 +10196,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><strong><a href="https://simplify.jobs/c/Belden?utm_source=GHList&utm_medium=company">Belden</a></strong></td>
 <td>Product Management Track: Launch Early Career Leadership Program</td>
 <td>Carmel, IN</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/VoyaFinancial?utm_source=GHList&utm_medium=company">Voya Financial</a></strong></td>
-<td>IM Entry Level Analyst Program: Distribution Enablement</td>
-<td>NYC</br>Atlanta, GA</td>
 <td>🔒</td>
 <td>7mo</td>
 </tr>
