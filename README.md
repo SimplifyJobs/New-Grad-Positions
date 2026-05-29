@@ -1274,7 +1274,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (1234)</summary>
+<summary>🗃️ Inactive roles (1233)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -9917,13 +9917,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Miami, FL</td>
 <td>🔒</td>
 <td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/NetImpact-Strategies?utm_source=GHList&utm_medium=company">NetImpact Strategies</a></strong></td>
-<td>Junior Full Stack .NET Developer - Multiple Teams</td>
-<td>Austin, TX</br>Reston, VA</td>
-<td>🔒</td>
-<td>8mo</td>
 </tr>
 </tbody>
 </table>
