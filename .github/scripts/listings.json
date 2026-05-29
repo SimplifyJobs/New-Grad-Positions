@@ -30296,7 +30296,7 @@
         "company_name": "Honeywell",
         "id": "4a2a45d0-b589-49db-a7ea-a3da42f45030",
         "title": "Software Engineer & Computer Science \u2013 Recent Grad/Full Time - US Person Required",
-        "active": true,
+        "active": false,
         "date_updated": 1761901547,
         "date_posted": 1761901547,
         "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/113400",
@@ -44113,24 +44113,6 @@
             "Johnson City, TN"
         ],
         "company_url": "https://simplify.jobs/c/Sharp-Electronics",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Dataiku",
-        "id": "d92e8517-47a7-47f0-8785-4fec2a2401cd",
-        "title": "Senior Data Scientist",
-        "active": false,
-        "date_updated": 1759276042,
-        "date_posted": 1759276042,
-        "url": "https://job-boards.greenhouse.io/dataiku/jobs/5660880004",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Dataiku",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -214162,7 +214144,7 @@
         "company_name": "Applied Materials",
         "id": "36296cbc-a10f-474e-a378-13679080f081",
         "title": "New College Grad: Photonics Design Engineer 3",
-        "active": true,
+        "active": false,
         "date_updated": 1773126327,
         "date_posted": 1773126327,
         "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/New-College-Grad--Photonics-Design-Engineer-III---Doctorate--Santa-Clara--CA-_R2614488",
@@ -332944,7 +332926,7 @@
         "company_name": "Abby Care",
         "id": "36fe4c88-34d4-4347-922f-ee4b5801c155",
         "title": "Software Engineer - Full-Stack",
-        "active": true,
+        "active": false,
         "date_updated": 1779956822,
         "date_posted": 1779844132,
         "url": "https://jobs.ashbyhq.com/abby-care/1c9a69f5-32f8-4ed7-bfc3-d0a15394c56d/application",
