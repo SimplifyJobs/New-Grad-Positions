@@ -1,68 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Evotec",
-        "id": "46cb7b13-fd0e-477d-a629-cd916cae2e89",
-        "title": "Software Engineer 1 - Data Operations",
-        "active": false,
-        "date_updated": 1759286741,
-        "date_posted": 1759286741,
-        "url": "https://evotecgroup.wd3.myworkdayjobs.com/Just_Bio_Career_Site/job/Seattle-WA/Software-Engineer-I--DataOps-Manager_JOBID-13157",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Evotec",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Jerry",
-        "id": "d65a392a-6b7f-42da-9397-65c73ece6ebf",
-        "title": "Software Engineer 1 - Multiple Teams",
-        "active": false,
-        "date_updated": 1759287631,
-        "date_posted": 1759287631,
-        "url": "https://jobs.ashbyhq.com/jerry.ai/79c95841-5993-44fc-8b91-0f7948a09510/application",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Jerry",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Jerry",
-        "id": "705f59c1-b8d4-4bdc-a070-635c4bca6b64",
-        "title": "Software Engineer 1 - Multiple Teams",
-        "active": false,
-        "date_updated": 1759287630,
-        "date_posted": 1759287630,
-        "url": "https://jobs.ashbyhq.com/jerry.ai/193ced48-ed93-4234-a155-70969536f584/application",
-        "locations": [
-            "Toronto, ON, Canada",
-            "Greater Toronto Area, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Jerry",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "RTX",
         "id": "4872a2dd-d3d3-4c32-8149-f247f4721d1c",
@@ -30564,7 +30502,7 @@
         "company_name": "Jabil",
         "id": "71de840d-8d8a-41e1-9ec5-6ea7dc50cbc7",
         "title": "Diagnostic Technician 1",
-        "active": true,
+        "active": false,
         "date_updated": 1762912249,
         "date_posted": 1761993772,
         "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Florence-KY/Diagnostic-Technician-I_J2413704",
@@ -43963,24 +43901,6 @@
             "Bend, OR"
         ],
         "company_url": "https://simplify.jobs/c/TDS",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Goldman Sachs",
-        "id": "327b0644-d22d-41b3-9221-f438acfee42f",
-        "title": "Risk \u2013 Analytics & Reporting - Analyst - Birmingham",
-        "active": false,
-        "date_updated": 1762909888,
-        "date_posted": 1759287579,
-        "url": "https://higher.gs.com/roles/153298",
-        "locations": [
-            "Birmingham, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Goldman-Sachs",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
