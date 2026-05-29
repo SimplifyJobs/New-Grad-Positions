@@ -1,26 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "General Dynamics Mission Systems",
-        "id": "11474d9e-9206-4c95-8893-fab2c64d651d",
-        "title": "Software Engineer - Entry Level - Multiple Teams",
-        "active": false,
-        "date_updated": 1759284068,
-        "date_posted": 1759284068,
-        "url": "https://careers-gdms.icims.com/jobs/68386/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Bloomington, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Evotec",
         "id": "46cb7b13-fd0e-477d-a629-cd916cae2e89",
@@ -44095,24 +44075,6 @@
             "Cardiff, UK"
         ],
         "company_url": "https://simplify.jobs/c/KLA-Corporation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Sharp Electronics",
-        "id": "7f059b17-9213-4e67-97f8-f68644a7bcbc",
-        "title": "National Help Desk Technician",
-        "active": false,
-        "date_updated": 1763130661,
-        "date_posted": 1759283855,
-        "url": "https://careers-sharpusa.icims.com/jobs/8575/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Johnson City, TN"
-        ],
-        "company_url": "https://simplify.jobs/c/Sharp-Electronics",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -304377,7 +304339,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "349ec401-2d88-4294-acd8-eb06b5704c17",
         "title": "Software Engineer \u2013 Entry Level",
-        "active": true,
+        "active": false,
         "date_updated": 1778192461,
         "date_posted": 1778191635,
         "url": "https://careers-gdms.icims.com/jobs/72367/job?mobile=true&needsRedirect=false",
@@ -317284,7 +317246,7 @@
         "company_name": "Barr",
         "id": "428ca061-c47e-4468-8588-3ca979f3a687",
         "title": "GIS Specialist Entry Level",
-        "active": true,
+        "active": false,
         "date_updated": 1779286593,
         "date_posted": 1779285993,
         "url": "https://barr.wd1.myworkdayjobs.com/barrcareers/job/Minneapolis-MN/GIS-Specialist---Entry-Level--Hyrbid-_R-102124",
