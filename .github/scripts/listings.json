@@ -1,24 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "RTX",
-        "id": "9ee2e29f-51c9-4fb7-a49f-8563043377f2",
-        "title": "Software Engineer 1 - Multiple Teams",
-        "active": false,
-        "date_updated": 1761832214,
-        "date_posted": 1759340813,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/FL915-St-Petersburg---Bldg-D-7401-22nd-Ave-N-Building-D-St-Petersburg-FL-33710-USA/Software-Engineer-I--Onsite-_01788093",
-        "locations": [
-            "St. Petersburg, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Momentum Engineering",
         "id": "395baf0b-0e8d-4bc2-a40b-94815f327fd5",
@@ -7646,24 +7628,6 @@
             "Cupertino, CA"
         ],
         "company_url": "https://simplify.jobs/c/Amazon",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "TRM Labs",
-        "id": "a0d1ac83-2aaf-4c45-8110-18fe0a801615",
-        "title": "University Grad - Product Engineer - 2026",
-        "active": false,
-        "date_updated": 1761259434,
-        "date_posted": 1759339881,
-        "url": "https://job-boards.greenhouse.io/trmlabs/jobs/5662998004",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/TRM-Labs",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -327309,7 +327273,7 @@
         "company_name": "SMX",
         "id": "55fd0162-ccbd-452e-b2b6-9aeed1c76c60",
         "title": "IT Storefront Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1779829562,
         "date_posted": 1776982827,
         "url": "https://www.smxtech.com/careers/?gh_jid=7712099003",
