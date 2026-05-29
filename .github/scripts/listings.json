@@ -1,48 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "World Kinect",
-        "id": "cc805687-8699-41cc-bc01-274071e245a2",
-        "title": "IT Software Engineer 1 - Multiple Teams",
-        "active": false,
-        "date_updated": 1759308697,
-        "date_posted": 1759308697,
-        "url": "https://wfscorp.wd5.myworkdayjobs.com/wfscareers/job/MIAMI-FL/IT-Software-Engineer-I_R21907",
-        "locations": [
-            "Miami, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/World-Kinect",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "World Kinect",
-        "id": "5339800c-c92f-4acd-a591-d0a1364c0381",
-        "title": "IT Software Engineer 1 - Multiple Teams",
-        "active": false,
-        "date_updated": 1759308700,
-        "date_posted": 1759308700,
-        "url": "https://wfscorp.wd5.myworkdayjobs.com/wfscareers/job/MIAMI-FL/IT-Software-Engineer-I_R21906",
-        "locations": [
-            "Miami, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/World-Kinect",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "AIG",
         "id": "85209eeb-3afb-4ff8-ac06-1876b986f808",
@@ -9000,24 +8958,6 @@
         "date_posted": 1762815508,
         "company_url": "",
         "is_visible": true
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Seismic",
-        "id": "02fb9964-eeee-492a-adcd-5b1717cc727f",
-        "title": "Data Engineer 1",
-        "active": false,
-        "date_updated": 1762816263,
-        "date_posted": 1759308681,
-        "url": "https://ca-careers-seismic.icims.com/jobs/2053/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Seismic",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -55127,24 +55067,6 @@
             "Lehi, UT"
         ],
         "company_url": "https://simplify.jobs/c/Collective-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "AmTrust Financial",
-        "id": "0eba8f3b-12f7-4d6a-88cb-f9de414c352e",
-        "title": "Business Data Analyst 1",
-        "active": false,
-        "date_updated": 1763424669,
-        "date_posted": 1759308080,
-        "url": "https://careers-amtrustgroup.icims.com/jobs/19542/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/AmTrust-Financial",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -313919,7 +313841,7 @@
         "company_name": "Edison International",
         "id": "230bb87a-a64d-49da-a7d8-0bc3ae85ef9d",
         "title": "App Software & AI Engineer - Associate Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1779055741,
         "date_posted": 1779055628,
         "url": "https://apply.edisoncareers.com/job/Rosemead-App-Software-&-AI-Engineer,-Associate-Specialist-CA-91770-3714/1391656000/?ats=successfactors",
