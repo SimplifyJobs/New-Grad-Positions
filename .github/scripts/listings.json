@@ -43280,24 +43280,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "NTT Data",
-        "id": "993dcb62-562d-432d-8d59-a59e4ada4523",
-        "title": "Digital Technology Senior Analyst - Pathways Campus Hires - 1017210011",
-        "active": false,
-        "date_updated": 1759349459,
-        "date_posted": 1759349459,
-        "url": "https://nttdata.eightfold.ai/careers/job/563327925798139",
-        "locations": [
-            "Charlotte, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/NTT-Data",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Procter & Gamble (P&G)",
         "id": "da6b57c9-afc7-49fa-a27f-d24da46dfae5",
@@ -245559,7 +245541,7 @@
         "company_name": "Motorola",
         "id": "8a784e49-97c1-40ec-afe3-d42d13b9371c",
         "title": "Software Engineer - Digital Signal Processing",
-        "active": true,
+        "active": false,
         "date_updated": 1774909621,
         "date_posted": 1774908511,
         "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Software-Engineer---Digital-Signal-Processing_R56029",
@@ -328068,7 +328050,7 @@
         "company_name": "PNC Financial Services",
         "id": "ab837499-ab97-418f-a7c6-eb175455fbf7",
         "title": "Software Engineer Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1779892231,
         "date_posted": 1779890962,
         "url": "https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Software-Engineer-Associate_R224172-1",
