@@ -42160,25 +42160,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "InterSystems",
-        "id": "cc0f9dbd-b570-4ab8-a1f0-15c93be2f473",
-        "title": "Technical Graduate",
-        "active": true,
-        "date_updated": 1759345338,
-        "date_posted": 1759345338,
-        "url": "https://www.intersystems.com/careers/careers-search/?gh_jid=7479122003",
-        "locations": [
-            "Edinburgh, UK",
-            "Slough, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/InterSystems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "58cab209-2fcd-4952-948f-501e901b30bf",
@@ -321196,7 +321177,7 @@
         "company_name": "Amentum",
         "id": "f3a749af-1441-4a54-a584-7e3f0a7fa0b1",
         "title": "Crime Gun Intelligence Specialist 1",
-        "active": true,
+        "active": false,
         "date_updated": 1779831181,
         "date_posted": 1779113431,
         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-OK-Tulsa/Crime-Gun-Intelligence-Specialist_R0161550",
@@ -324359,7 +324340,7 @@
         "company_name": "Morningstar",
         "id": "c2a07b06-e01f-4780-a3c7-c4dd7c09d769",
         "title": "Morningstar Development Program - Rotational Track",
-        "active": true,
+        "active": false,
         "date_updated": 1779822002,
         "date_posted": 1779529072,
         "url": "https://morningstar.wd5.myworkdayjobs.com/Americas/job/Chicago/Morningstar-Development-Program---Rotational-Track_REQ-056838-1",
