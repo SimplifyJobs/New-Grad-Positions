@@ -83492,26 +83492,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Bernhard",
-        "id": "dc449cec-b3c3-4542-80e8-9b8ca16de746",
-        "title": "Utility Analyst 1",
-        "active": false,
-        "date_updated": 1765322306,
-        "date_posted": 1759310753,
-        "url": "https://careers-enfra.icims.com/jobs/8884/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Baton Rouge, LA"
-        ],
-        "company_url": "https://simplify.jobs/c/Bernhard",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "ServiceNow",
         "id": "843e165a-f7bf-4702-9673-58a73d16094a",
@@ -124968,24 +124948,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "DePaul",
-        "id": "ba57dfb2-cd5a-418b-8813-db7a87e3fa57",
-        "title": "Entitlement Specialist",
-        "active": false,
-        "date_updated": 1768472154,
-        "date_posted": 1759310633,
-        "url": "https://careers-depaul.icims.com/jobs/6409/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "McLean, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/DePaul",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Terex",
         "id": "9b006257-acbc-4346-b1bd-325cb5c37308",
@@ -128896,25 +128858,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Utah State University",
-        "id": "ea6d824e-1b3c-47f9-b21e-19a2428191f3",
-        "title": "Aggie Creamery Shift Lead Spring",
-        "active": false,
-        "date_updated": 1768645811,
-        "date_posted": 1759309267,
-        "url": "https://careers-usu.icims.com/jobs/9826/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Lincoln, NE",
-            "Omaha, NE"
-        ],
-        "company_url": "https://simplify.jobs/c/Utah-State-University",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -277572,7 +277515,7 @@
         "company_name": "Nidec",
         "id": "8176eea8-0f0a-4a5b-8ab5-8a8a9e1c9671",
         "title": "Testing Technician 1",
-        "active": true,
+        "active": false,
         "date_updated": 1776464216,
         "date_posted": 1776463691,
         "url": "https://nidec.wd1.myworkdayjobs.com/nidec/job/North-AmericaUSACaliforniaRancho-Cordova-CA/Testing-Technician-I_R0015332",
@@ -332747,7 +332690,7 @@
         "company_name": "Bristol Myers Squibb",
         "id": "97664575-ffa6-4efa-b1c8-baf3e4ff650e",
         "title": "Junior AI Engineer - R&D",
-        "active": true,
+        "active": false,
         "date_updated": 1779961113,
         "date_posted": 1779530056,
         "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/San-Diego---RayzeBio---CA/Junior-AI-Engineer--R-D_R1602337",
