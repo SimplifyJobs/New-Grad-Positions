@@ -2,24 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Momentum Engineering",
-        "id": "395baf0b-0e8d-4bc2-a40b-94815f327fd5",
-        "title": "Software Engineer 0",
-        "active": false,
-        "date_updated": 1759496987,
-        "date_posted": 1759342227,
-        "url": "https://ats.rippling.com/momentumcareers/jobs/8c2a6494-73a1-445c-84aa-4dc824d8895e",
-        "locations": [
-            "Annapolis Junction, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/Momentum-Engineering",
-        "is_visible": true,
-        "sponsorship": "U.S. Citizenship is Required",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "The Travelers Companies",
         "id": "9c7763fe-db8e-45ef-a08e-bd20bde3d11d",
         "title": "Software Engineer 1 - .Net - Node.js",
@@ -43350,43 +43332,6 @@
             "Charlotte, NC"
         ],
         "company_url": "https://simplify.jobs/c/NTT-Data",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Rolls Royce",
-        "id": "65972d7a-be6c-41ad-b473-fe7b57ffa14e",
-        "title": "Parts Operations and Data Analysis - Placement Year",
-        "active": false,
-        "date_updated": 1761838385,
-        "date_posted": 1759342992,
-        "url": "https://jobs.bmwgroup.com/job/Goodwood-Parts-Operations-and-Data-Analysis-Placement-Year/1251890601/?ats=successfactors",
-        "locations": [
-            "United Kingdom"
-        ],
-        "company_url": "https://simplify.jobs/c/Rolls-Royce-Motorcars",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Voya Financial",
-        "id": "61c3dacb-2630-45ab-8b8d-76c262e97387",
-        "title": "IM Entry Level Analyst Program: Distribution Enablement",
-        "active": false,
-        "date_updated": 1761833955,
-        "date_posted": 1759342063,
-        "url": "https://godirect.wd5.myworkdayjobs.com/voya_jobs/job/New-York-NY/IM-Entry-Level-Analyst-Program--Distribution-Enablement_JR0031689",
-        "locations": [
-            "NYC",
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/VoyaFinancial",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -253953,7 +253898,7 @@
         "company_name": "JP Morgan Chase",
         "id": "2b5f44bd-5554-44d7-a41f-5ce53e1c7f48",
         "title": "Trading Support Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1775179261,
         "date_posted": 1775178516,
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210730123",
@@ -268131,7 +268076,7 @@
     {
         "date_updated": 1776439711,
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://job-boards.greenhouse.io/axon/jobs/7662648003",
         "company_name": "Axon",
@@ -287047,7 +286992,7 @@
         "company_name": "Axos Bank",
         "id": "5c02a8ec-0cd0-4f7f-8ace-2a4085b834ae",
         "title": "Product Rotational Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1776981961,
         "date_posted": 1776981863,
         "url": "https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/Product-Rotational-Analyst_JR4509",
@@ -306190,7 +306135,7 @@
         "company_name": "Leidos",
         "id": "90e25b91-b560-4b57-9dfe-6fc1c79bbaf2",
         "title": "Entry-Level Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1778538382,
         "date_posted": 1778537213,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Entry-Level-Software-Engineer_R-00182934",
@@ -308050,7 +307995,7 @@
         "company_name": "Uber",
         "id": "6685d519-1faf-400c-a3aa-a68be70534b2",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1778710611,
         "date_posted": 1778709987,
         "url": "https://www.uber.com/global/en/careers/list/158657/",
@@ -321174,7 +321119,7 @@
         "company_name": "MUFG",
         "id": "1f1c4934-8a76-4b0c-89f7-03534128cae5",
         "title": "Data Governance & Controls Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1779831181,
         "date_posted": 1779141919,
         "url": "https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/Tempe-AZ/Data-Governance---Controls--Analyst_10076170-WD",
