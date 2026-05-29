@@ -1,26 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "RTX",
-        "id": "4872a2dd-d3d3-4c32-8149-f247f4721d1c",
-        "title": "Software Engineer 1 - Radar Product Line Team",
-        "active": false,
-        "date_updated": 1759295272,
-        "date_posted": 1759295272,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA801-Marlborough-MA-1001-Boston-Post-Road-Building-2-Marlborough-MA-01752-USA/XMLNAME-2026-Fulltime---Raytheon-Software-Engineer-I--On-site-_01797122",
-        "locations": [
-            "Marlborough, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "World Kinect",
         "id": "cc805687-8699-41cc-bc01-274071e245a2",
@@ -43753,24 +43733,6 @@
             "St. Petersburg, FL"
         ],
         "company_url": "https://simplify.jobs/c/Research-Innovations",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "NBCUniversal",
-        "id": "ae02b8d3-1e4a-442d-9d16-d2f94a1c1699",
-        "title": "Associate Data Engineer",
-        "active": false,
-        "date_updated": 1759295952,
-        "date_posted": 1759295952,
-        "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000084861859",
-        "locations": [
-            "Hammersmith, London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/NBCUniversal",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -194668,7 +194630,7 @@
         "company_name": "Huntington Ingalls Industries",
         "id": "f1be74bf-e2fc-41d9-a8c1-10fe3a42d88f",
         "title": "Engineer Test Operations 1",
-        "active": true,
+        "active": false,
         "date_updated": 1772147459,
         "date_posted": 1772147459,
         "url": "https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-TEST-OPERATIONS-1-Virg/1368364900/?ats=successfactors",
@@ -320559,7 +320521,7 @@
         "company_name": "Cisco",
         "id": "ee2e3b13-7a61-4d16-9baf-ffad6bf6b7ad",
         "title": "Software Engineer Backend/Platform 2",
-        "active": true,
+        "active": false,
         "date_updated": 1779498808,
         "date_posted": 1779498550,
         "url": "https://careers.cisco.com/global/en/job/2011251",
@@ -329523,7 +329485,7 @@
         "company_name": "McGill University",
         "id": "f29468ee-5b41-470d-bdf4-57cb5eea9000",
         "title": "Research Assistant 2",
-        "active": true,
+        "active": false,
         "date_updated": 1779835502,
         "date_posted": 1779746639,
         "url": "https://mcgill.wd3.myworkdayjobs.com/McGill_Careers/job/McGill-College-2001/Research-Assistant-2_JR0000076757",
