@@ -44007,26 +44007,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Moog ",
-        "id": "1ec5c25c-f327-4202-80d1-b4e03dbc696e",
-        "title": "Electronic Technician",
-        "active": false,
-        "date_updated": 1759285201,
-        "date_posted": 1759285201,
-        "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Blacksburg-VA/Electronic-Technician_R-25-14221",
-        "locations": [
-            "Blacksburg, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Moog",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Fanatics",
         "id": "cead14a3-c130-4cca-bdf3-80df7e3fe29b",
@@ -44039,42 +44019,6 @@
             "Denver, CO"
         ],
         "company_url": "https://simplify.jobs/c/Fanatics",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Pivotal Software",
-        "id": "87b6387f-02a7-4da2-8e81-11cfcc7ee931",
-        "title": "System Integration Prototype Engineer",
-        "active": false,
-        "date_updated": 1759285091,
-        "date_posted": 1759285091,
-        "url": "https://jobs.lever.co/pivotal/5a753d22-0933-4974-a736-62ea10f3b1eb/apply",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Pivotal-Software",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "KLA Corporation",
-        "id": "0be62210-0fe2-4d3d-b8c3-0029dd88f271",
-        "title": "Graduate Product Management Engineer",
-        "active": false,
-        "date_updated": 1762255210,
-        "date_posted": 1759285067,
-        "url": "https://kla.wd1.myworkdayjobs.com/search/job/Newport-United-Kingdom/Graduate-Product-Management-Engineer_2531445",
-        "locations": [
-            "Cardiff, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/KLA-Corporation",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
