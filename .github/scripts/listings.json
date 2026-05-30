@@ -43001,43 +43001,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "NTT Data",
-        "id": "34fa158d-ca95-4bf7-b7e1-ab833debf4c6",
-        "title": "Digital Technology Senior Analyst",
-        "active": false,
-        "date_updated": 1759425361,
-        "date_posted": 1759425361,
-        "url": "https://careers-inc.nttdata.com/job/Charlotte-Digital-Technology-Senior-Analyst-NC-28201/1322219800/?ats=successfactors",
-        "locations": [
-            "Nashville, TN",
-            "Charlotte, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/NTT-Data",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "NTT Data",
-        "id": "16150add-ca99-4a80-852e-0e5f7754f4ea",
-        "title": "Digital Technology Engineer",
-        "active": false,
-        "date_updated": 1759425356,
-        "date_posted": 1759425356,
-        "url": "https://careers-inc.nttdata.com/job/Charlotte-Digital-Technology-Engineer-NC-28201/1322215700/?ats=successfactors",
-        "locations": [
-            "Charlotte, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/NTT-Data",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Adobe",
         "id": "d3b68096-43ee-4401-8f01-bb4434e599ef",
         "title": "University Graduate - Research Scientist/Engineer",
@@ -333053,6 +333016,26 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pennsylvania State University",
+        "id": "f56c3266-c05a-4ffc-b6f8-3f7ac6228863",
+        "title": "Postdoctoral Scholar",
+        "active": true,
+        "date_updated": 1778943422,
+        "date_posted": 1778943257,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Scholar_REQ_0000072094-1",
+        "locations": [
+            "State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
         ]
     }
 ]
