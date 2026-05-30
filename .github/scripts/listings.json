@@ -42981,25 +42981,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Honeywell",
-        "id": "69ead8e8-1225-4ec6-ac86-d2e6307cf0a5",
-        "title": "Field Service Engineer 1",
-        "active": false,
-        "date_updated": 1762925448,
-        "date_posted": 1759435673,
-        "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/120796",
-        "locations": [
-            "Texarkana, TX",
-            "Paris, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Honeywell",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Adobe",
         "id": "d3b68096-43ee-4401-8f01-bb4434e599ef",
