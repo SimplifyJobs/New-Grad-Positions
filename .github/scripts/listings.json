@@ -1,47 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "World Kinect",
-        "id": "80e7b3e0-fdce-497e-8b23-ba94e51691fc",
-        "title": "IT Software Engineer 1 - Multiple Teams",
-        "active": false,
-        "date_updated": 1759372390,
-        "date_posted": 1759372390,
-        "url": "https://wfscorp.wd5.myworkdayjobs.com/wfscareers/job/MIAMI-FL/IT-Software-Engineer-I_R21910",
-        "locations": [
-            "Miami, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/World-Kinect",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "World Kinect",
-        "id": "935c6806-92fc-4eb1-b8c8-eb2a8379a838",
-        "title": "IT Software Engineer 1 - Multiple Teams",
-        "active": false,
-        "date_updated": 1759372386,
-        "date_posted": 1759372386,
-        "url": "https://wfscorp.wd5.myworkdayjobs.com/wfscareers/job/MIAMI-FL/IT-Software-Engineer-I_R21908",
-        "locations": [
-            "Miami, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/World-Kinect",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
         "date_updated": 1759961670,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
@@ -43199,63 +43157,6 @@
             "Seattle, WA"
         ],
         "company_url": "https://simplify.jobs/c/Concentric",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "1278b992-8995-4681-b8e0-e92d9fab7314",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1759373802,
-        "date_posted": 1759373802,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/jobs/job/400024577",
-        "locations": [
-            "Bolton, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Olsson",
-        "id": "69e88206-9476-4e3a-b21e-073617a00bee",
-        "title": "Assistant Commissioning Agent - Data Center",
-        "active": false,
-        "date_updated": 1761823582,
-        "date_posted": 1759373302,
-        "url": "https://job-boards.greenhouse.io/olsson/jobs/4940615008",
-        "locations": [
-            "Kansas City, MO",
-            "Omaha, NE",
-            "Tulsa, OK",
-            "Cedar Rapids, IA"
-        ],
-        "company_url": "https://simplify.jobs/c/Olsson",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "db23ff3c-8c60-45ec-9736-d9d1217026a8",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1759373001,
-        "date_posted": 1759373001,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/jobs/job/400018019",
-        "locations": [
-            "Woking, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -92389,25 +92290,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Scout AI",
-        "id": "1cb14ca2-13b5-4aa1-8c8f-cf9741f24ba6",
-        "title": "Drone Operator",
-        "active": false,
-        "date_updated": 1765928604,
-        "date_posted": 1759372398,
-        "url": "https://job-boards.greenhouse.io/scoutai/jobs/4940440008",
-        "locations": [
-            "Paso Robles, CA",
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Scout-AI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Carnegie Mellon University",
         "id": "83de97a1-2d42-49ee-8c67-b93d764d2b8b",
@@ -116431,24 +116313,6 @@
             "Bachelor's",
             "Master's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "LG Electronics",
-        "id": "338b492c-d6c6-465c-9c66-da908e01ff68",
-        "title": "Bilingual Material Handling Automation Specialist - Korean & English",
-        "active": false,
-        "date_updated": 1767915414,
-        "date_posted": 1759373588,
-        "url": "https://job-boards.greenhouse.io/lgelectronics/jobs/4940087008",
-        "locations": [
-            "Clarksville, TN"
-        ],
-        "company_url": "https://simplify.jobs/c/LG-Electronics",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -329011,7 +328875,7 @@
         "company_name": "PNC Financial Services",
         "id": "e634ed1a-1078-4bfb-85e0-23bd0032ee16",
         "title": "Reporting Analyst Senior",
-        "active": true,
+        "active": false,
         "date_updated": 1779876834,
         "date_posted": 1779833492,
         "url": "https://pnc.wd5.myworkdayjobs.com/External/job/FL---Orlando-32801/Reporting-Analyst-Sr_R223321-2",
