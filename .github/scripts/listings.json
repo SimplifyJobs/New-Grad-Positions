@@ -43038,24 +43038,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "PennState University",
-        "id": "f56c3266-c05a-4ffc-b6f8-3f7ac6228863",
-        "title": "Postdoctoral Scholar",
-        "active": true,
-        "date_updated": 1759423602,
-        "date_posted": 1759423602,
-        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Scholar_REQ_0000072094-1",
-        "locations": [
-            "State College, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Penn-State",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Adobe",
         "id": "d3b68096-43ee-4401-8f01-bb4434e599ef",
         "title": "University Graduate - Research Scientist/Engineer",
@@ -124319,27 +124301,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "CHA Consulting",
-        "id": "edb37d3a-0d7c-4e15-96cb-7d2f1769239a",
-        "title": "Electric Distribution Planner 1",
-        "active": false,
-        "date_updated": 1768472177,
-        "date_posted": 1759423602,
-        "url": "https://jobs-challp.icims.com/jobs/7386/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "St. Louis, MO"
-        ],
-        "company_url": "https://simplify.jobs/c/CHA-Consulting",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Associate's"
-        ]
     },
     {
         "source": "Simplify",
