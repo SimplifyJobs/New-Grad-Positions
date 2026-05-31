@@ -1,27 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "General Motors",
-        "id": "a949f780-0ff6-4438-83e2-a09c88954fec",
-        "title": "Software Developer \u2013 Early Career",
-        "active": true,
-        "date_updated": 1759533878,
-        "date_posted": 1759533878,
-        "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Markham-Ontario-Canada/Software-Developer---Early-Career_JR-202518755",
-        "locations": [
-            "Markham, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/General-Motors",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Jerry",
         "id": "f4802c88-e6cc-4d90-b51b-ace60c6de0fe",
@@ -41826,24 +41805,6 @@
             "San Jose, CA"
         ],
         "company_url": "https://simplify.jobs/c/Snapon",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Seminole Hard Rock",
-        "id": "fa52d4e0-4ce4-4452-88e2-e47a286cfcc3",
-        "title": "IT Service Tech 1",
-        "active": false,
-        "date_updated": 1763118155,
-        "date_posted": 1759533835,
-        "url": "https://careers-seminole.icims.com/jobs/61800/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Tampa, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Seminole-Hard-Rock",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -125212,24 +125173,6 @@
     {
         "source": "Simplify",
         "category": "Hardware",
-        "company_name": "Nova Medical Centers",
-        "id": "92327237-5e04-4431-821d-4ab10edb37ec",
-        "title": "Patient Service Specialist",
-        "active": false,
-        "date_updated": 1768558690,
-        "date_posted": 1759534026,
-        "url": "https://jobs-novamedical.icims.com/jobs/8292/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Phoenix, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Nova-Medical-Centers",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
         "company_name": "Baker Hughes",
         "id": "6a026d64-ecf1-480f-93ca-a5fdc6bb7227",
         "title": "Electrical Technician",
@@ -161741,7 +161684,7 @@
         "company_name": "Microchip Technology",
         "id": "d14321e7-d479-4e54-9c53-f04fdeaff7e8",
         "title": "Engineer 1 - Software",
-        "active": false,
+        "active": true,
         "date_updated": 1770679368,
         "date_posted": 1770679368,
         "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/CO---Boulder/Engineer-I--Software_R518-26",
@@ -170391,7 +170334,7 @@
         "company_name": "Jabil",
         "id": "91c5e90e-af16-4b5a-9277-023bc1d6680f",
         "title": "Repair Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1771026175,
         "date_posted": 1771026175,
         "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Richardson-TX/Repair-Technician_J2439906",
@@ -188630,7 +188573,7 @@
         "company_name": "Xometry",
         "id": "444926ab-3629-476e-a42c-10c64d4481cc",
         "title": "Application Engineer - Injection Molding",
-        "active": true,
+        "active": false,
         "date_updated": 1771975906,
         "date_posted": 1771975906,
         "url": "https://job-boards.greenhouse.io/xometry/jobs/5061781007",
@@ -212454,7 +212397,7 @@
         "company_name": "Northrop Grumman",
         "id": "8a5030aa-c704-40c0-916a-175bf9b067e6",
         "title": "SCA Engineering Technician 1",
-        "active": false,
+        "active": true,
         "date_updated": 1773155535,
         "date_posted": 1773155535,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Georgia-Warner-Robins/SCA-Engineering-Technician-1_R10225392",
@@ -256149,7 +256092,7 @@
         "company_name": "GE Healthcare",
         "id": "935522eb-70a8-4d7f-abbe-01fa130ab79b",
         "title": "Field Service Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1775383265,
         "date_posted": 1775295195,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1-HC_R4036677-1",
@@ -328320,7 +328263,7 @@
         "company_name": "JP Morgan Chase",
         "id": "a0537da5-7a92-4660-ba18-2777bb04ac0b",
         "title": "Firmwide Economic Scenarios Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1779919666,
         "date_posted": 1779919488,
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210707004",
@@ -330458,7 +330401,7 @@
         "company_name": "Rogers Behavioral Health",
         "id": "6ee7b98c-ff40-48fa-9739-71119f369879",
         "title": "Therapist \u2013 Partial Hospitalization Program / Intensive Outpatient",
-        "active": false,
+        "active": true,
         "date_updated": 1779958824,
         "date_posted": 1778941395,
         "url": "https://rogersbh.wd1.myworkdayjobs.com/rbhcareer/job/Brown-Deer-Area/Therapist---PHP-IOP---PRN_R6262",
@@ -331011,7 +330954,7 @@
         "company_name": "Leidos",
         "id": "a7cc0774-97d0-4a06-9229-b827f35ca01c",
         "title": "Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1779960720,
         "date_posted": 1778945223,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/2143-Annapolis-Junction-MD/Software-Engineer-TS-SCI-Poly_R-00176836",
@@ -331359,7 +331302,7 @@
         "company_name": "Moog ",
         "id": "d3cb5d60-1827-4bc1-8d60-30639cb81eb9",
         "title": "Associate Product Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1779962145,
         "date_posted": 1778942397,
         "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Associate-Product-Engineer_R-26-16306",
@@ -331381,7 +331324,7 @@
         "company_name": "Walmart",
         "id": "c7770eae-2da6-4249-a206-5d30718866fc",
         "title": "Software Engineer 3",
-        "active": false,
+        "active": true,
         "date_updated": 1779962147,
         "date_posted": 1779919915,
         "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-Crossman-Service-Building-CA-SUNNYVALE-Home-Office/XMLNAME--USA--Software-Engineer-III_R-2415153",
@@ -331402,7 +331345,7 @@
         "company_name": "Micron Technology",
         "id": "91e88b6e-4599-4579-afc5-ee3cb7fc6c65",
         "title": "Electrical Engineer New Grad - Design Engineer - Pathfinding Design",
-        "active": false,
+        "active": true,
         "date_updated": 1779960026,
         "date_posted": 1779529133,
         "url": "https://micron.wd1.myworkdayjobs.com/External/job/Folsom-CA/New-College-Grad---Design-Engineer---Pathfinding-Design_JR92326",
@@ -331994,5 +331937,25 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Micron Technology",
+        "id": "d5375cbd-4343-4139-85de-7441b5d393e7",
+        "title": "Metrology Applications Engineer New Grad",
+        "active": true,
+        "date_updated": 1780268890,
+        "date_posted": 1780135460,
+        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Manassas-VA----Fab-6/Metrology-Applications-Engineer_JR89915",
+        "locations": [
+            "Manassas, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Micron-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
