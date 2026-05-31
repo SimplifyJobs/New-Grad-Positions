@@ -1,24 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software Engineering",
-        "company_name": "Northrop Grumman",
-        "id": "cba2a58b-4daf-45a9-8e80-1da0b344ba43",
-        "title": "Software Engineer 1 or 2",
-        "active": false,
-        "date_updated": 1759858467,
-        "date_posted": 1759514814,
-        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Software-Engineer-Level-1-or-2_R10209913",
-        "locations": [
-            "Aurora, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-        "is_visible": false,
-        "sponsorship": "U.S. Citizenship is Required",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Medtronic",
         "id": "34a406e4-0580-4911-883a-71d3ae3b5230",
