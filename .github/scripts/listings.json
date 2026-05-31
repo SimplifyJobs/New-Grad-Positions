@@ -2,64 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "American Express",
-        "id": "e4ac42f8-203e-4627-9ceb-e35dc8f6bf9a",
-        "title": "Campus Undergraduate Full-Time - Software Engineer 1 - Technology",
-        "active": false,
-        "date_updated": 1759460028,
-        "date_posted": 1759460028,
-        "url": "https://aexp.eightfold.ai/careers/job/38270714",
-        "locations": [
-            "Phoenix, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/American-Express",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "American Express",
-        "id": "975d55af-3f12-4b33-98af-150ba18e288d",
-        "title": "Software Engineer 1 - Technology",
-        "active": false,
-        "date_updated": 1759736908,
-        "date_posted": 1759460030,
-        "url": "https://aexp.eightfold.ai/careers/job/38270703",
-        "locations": [
-            "Plantation, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/American-Express",
-        "is_visible": true,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Trend Health Partners",
-        "id": "1c120349-66b8-4524-bd0e-9fcb0656a802",
-        "title": "Machine Learning Engineer 1",
-        "active": false,
-        "date_updated": 1759459752,
-        "date_posted": 1759459752,
-        "url": "https://jobs.lever.co/Trend-Health-Partners/ed68f037-97d3-4f32-b24a-fa8a544db7db/apply",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Trend-Health-Partners",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Expedia Group",
         "id": "3137eb87-cae1-45ef-a9ee-469a4322ac84",
         "title": "Software Development Engineer 1 - SEM Engineering",
@@ -42773,70 +42715,6 @@
             "California"
         ],
         "company_url": "https://simplify.jobs/c/Ema",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "American Express",
-        "id": "882c42a5-7f35-4ebb-92e4-da42a6fa1a81",
-        "title": "Campus Graduate - Software Engineer II - Technology",
-        "active": false,
-        "date_updated": 1762925165,
-        "date_posted": 1759460028,
-        "url": "https://aexp.eightfold.ai/careers/job/38270711",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/American-Express",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Wind River",
-        "id": "c38f7512-ba18-4fad-87aa-6d72ef7dd83c",
-        "title": "College Permanent Hire",
-        "active": false,
-        "date_updated": 1761253801,
-        "date_posted": 1759459717,
-        "url": "https://jobs.jobvite.com/windriver/job/o97iyfwQ?nl=1&nl=1&fr=false",
-        "locations": [
-            "Boston, MA",
-            "Troy, MI",
-            "Walnut Creek, CA",
-            "Cupertino, CA",
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Wind-River",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Legrand",
-        "id": "6ad671a9-9a44-43f7-8ce7-8f2e66b288b4",
-        "title": "Engineering Leadership Development Program",
-        "active": false,
-        "date_updated": 1763131429,
-        "date_posted": 1759459092,
-        "url": "https://jobs-legrand.icims.com/jobs/9538/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Canonsburg, PA",
-            "Hopkins, MN",
-            "Carlsbad, CA",
-            "Groton, CT",
-            "Syracuse, NY",
-            "Wayne, NJ",
-            "Farmington, CT"
-        ],
-        "company_url": "https://simplify.jobs/c/Legrand",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
