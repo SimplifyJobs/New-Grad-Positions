@@ -1,23 +1,5 @@
 [
     {
-        "date_updated": 1759501297,
-        "sponsorship": "Other",
-        "active": true,
-        "degrees": [],
-        "url": "https://careers-sig.icims.com/jobs/9531/job",
-        "company_name": "Susquehanna",
-        "title": "Quantitative Strategy Developer - New Grad",
-        "locations": [
-            "Bala Cynwyd, PA"
-        ],
-        "category": "Quantitative Finance",
-        "source": "AlmondCroffle",
-        "id": "867c89c0-fc78-4143-ba4d-b9a82809f97c",
-        "date_posted": 1759501297,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "source": "Simplify",
         "category": "Software Engineering",
         "company_name": "Northrop Grumman",
