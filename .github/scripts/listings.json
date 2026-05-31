@@ -1,26 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "RTX",
-        "id": "7d151dc9-d84b-40aa-9ccb-f5e9acbd5612",
-        "title": "Software Engineer 1 - C/C++ Linux",
-        "active": false,
-        "date_updated": 1759455673,
-        "date_posted": 1759455673,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/RI201-127-John-Clarke-Road-Middletwn-127-John-Clarke-Road-Suite-3-Middletown-RI-02842-USA/Software-Engineer-I---C-C---Linux--Onsite-_01796278",
-        "locations": [
-            "Newport, RI"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Centene",
         "id": "724db6f9-bf05-4239-a33c-1010510c9725",
