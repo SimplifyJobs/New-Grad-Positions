@@ -1155,7 +1155,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (1233)</summary>
+<summary>🗃️ Inactive roles (1232)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -9758,7 +9758,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>7mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Replit?utm_source=GHList&utm_medium=company">Replit</a></strong></td>
+<td><strong>Replit</strong></td>
 <td>Software Engineer - New Grad - Summer 2026</td>
 <td>Foster City, CA</td>
 <td>🔒</td>
@@ -9789,13 +9789,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><strong><a href="https://simplify.jobs/c/Electronic-Arts?utm_source=GHList&utm_medium=company">Electronic Arts</a></strong></td>
 <td>Software Engineer 1 Game Server Hosting</td>
 <td>Kirkland, WA</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Replit?utm_source=GHList&utm_medium=company">Replit</a></strong></td>
-<td>Software Engineer – New Grad - Summer 2026</td>
-<td>San Mateo, CA</td>
 <td>🔒</td>
 <td>7mo</td>
 </tr>
