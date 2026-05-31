@@ -2,67 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Expedia Group",
-        "id": "3137eb87-cae1-45ef-a9ee-469a4322ac84",
-        "title": "Software Development Engineer 1 - SEM Engineering",
-        "active": false,
-        "date_updated": 1759461013,
-        "date_posted": 1759461013,
-        "url": "https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Software-Development-Engineer-I_R-98187-2",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Expedia-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "ZipRecruiter",
-        "id": "4e434cf9-2333-442d-9cd9-5a78192d78ea",
-        "title": "Software Engineer \u2013 New Grad - Multiple Teams",
-        "active": false,
-        "date_updated": 1759461653,
-        "date_posted": 1759461653,
-        "url": "https://job-boards.greenhouse.io/ziprecruiter/jobs/7203130",
-        "locations": [
-            "Santa Monica, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ZipRecruiter",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Magnite",
-        "id": "c2c02a7e-98db-4154-a198-1e15a9eb779f",
-        "title": "Backend Engineer \u2013 Entry Level",
-        "active": false,
-        "date_updated": 1759461148,
-        "date_posted": 1759461148,
-        "url": "https://osv-rubicon.wd5.myworkdayjobs.com/en-US/MagniteCareers/job/United-Kingdom---Belfast/Backend-Engineer--Entry-Level-_R-01124",
-        "locations": [
-            "Belfast, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/ee8236a0-5b6a-4389-a774-e10fe29442a2",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Twitch",
         "id": "bb15804d-e44e-4f20-bb96-a1afd5348e1b",
         "title": "Software Engineer I - Video Platform",
@@ -6415,24 +6354,6 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Fanatics",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "WeRide",
-        "id": "446ebd2f-de45-4f48-b2e7-06ae5d156cdc",
-        "title": "New Grads 2026 - Data Engineer",
-        "active": true,
-        "date_updated": 1761835697,
-        "date_posted": 1759461257,
-        "url": "https://jobs.lever.co/weride/7815ebc0-1668-4aa8-b4ba-919f5c3f9622/apply",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/WeRide",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
