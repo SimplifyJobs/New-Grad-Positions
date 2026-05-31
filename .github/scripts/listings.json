@@ -1,26 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Modernizing Medicine",
-        "id": "909be1e2-f265-48cf-88e1-fe09d5058882",
-        "title": "Data Engineer 1",
-        "active": false,
-        "date_updated": 1759523174,
-        "date_posted": 1759523174,
-        "url": "https://job-boards.greenhouse.io/modernizingmedicineinc/jobs/8194195002",
-        "locations": [
-            "Boca Raton, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/ModMed",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "General Motors",
         "id": "3a9d6aed-4916-4777-8c70-8f712f3a1dbb",
@@ -307159,7 +307139,7 @@
         "company_name": "ServiceNow",
         "id": "b3ed9e95-62a3-4499-b1b0-38840f1f4711",
         "title": "Software Engineer - Agentic AI Systems - Moveworks",
-        "active": true,
+        "active": false,
         "date_updated": 1778720941,
         "date_posted": 1778720777,
         "url": "https://jobs.smartrecruiters.com/ServiceNow/744000126417779",
