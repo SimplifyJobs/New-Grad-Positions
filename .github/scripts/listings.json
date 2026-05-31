@@ -42234,24 +42234,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "AT&T",
-        "id": "de31ce46-f035-4892-933c-401549212358",
-        "title": "Network Engineer I - NE I - Government",
-        "active": false,
-        "date_updated": 1761934269,
-        "date_posted": 1759478842,
-        "url": "https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Columbia-Maryland/Network-Engineer--NE-I---Government-_R-84958",
-        "locations": [
-            "Columbia, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/ATT",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "American Express",
         "id": "5f719acf-f06d-4483-be58-455a62c652fa",
         "title": "Campus Graduate Full-Time - 2026 Software Engineer II - Technology",
@@ -42263,25 +42245,6 @@
             "Plantation, FL"
         ],
         "company_url": "https://simplify.jobs/c/American-Express",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "TDS",
-        "id": "15ee18aa-96c7-453a-b7e5-706bbf975d19",
-        "title": "Broadband Technician 1",
-        "active": false,
-        "date_updated": 1762920010,
-        "date_posted": 1759478575,
-        "url": "https://external-telecom-teldta.icims.com/jobs/28080/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Loveland, CO",
-            "Fort Collins, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/TDS",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -291257,7 +291220,7 @@
         "company_name": "Welocalize",
         "id": "0f13303e-f2f1-4e7f-b71c-15603aa14803",
         "title": "Data Labeling Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1777453921,
         "date_posted": 1777453889,
         "url": "https://welocalize.wd1.myworkdayjobs.com/welocalize/job/CA-Client-Field-Office-San-Fran-Bay-Area/Data-Labeling-Associate_R0007638",
