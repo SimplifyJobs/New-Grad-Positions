@@ -1,41 +1,5 @@
 [
     {
-        "date_updated": 1759501245,
-        "sponsorship": "Other",
-        "active": true,
-        "degrees": [],
-        "url": "https://careers-sig.icims.com/jobs/9531/quantitative-strategy-developer---new-grad/job",
-        "company_name": "Susquehanna",
-        "title": "Quantitative Strategy Developer - New Grad",
-        "locations": [
-            "Bala Cynwyd, PA"
-        ],
-        "category": "Quantitative Finance",
-        "source": "AlmondCroffle",
-        "id": "9570f6ba-6a90-474f-8a40-ccb9d227acde",
-        "date_posted": 1759498570,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1759500970,
-        "sponsorship": "Other",
-        "active": true,
-        "degrees": [],
-        "url": "https://jobs.ashbyhq.com/replit/b5e81eae-06f9-4798-8988-2d06ca936dbc",
-        "company_name": "Replit",
-        "title": "Software Engineer - New Grad - Summer 2026",
-        "locations": [
-            "Foster City, CA"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "d640e3c7-09f1-40a5-9c7c-9ef074285583",
-        "date_posted": 1759498677,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "date_updated": 1759501297,
         "sponsorship": "Other",
         "active": true,
@@ -42119,24 +42083,6 @@
             "Reading, UK"
         ],
         "company_url": "https://simplify.jobs/c/Cohesity",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "CSL",
-        "id": "097d1a16-1253-48ce-bba4-465fa141f296",
-        "title": "Customer Data Analyst",
-        "active": false,
-        "date_updated": 1761843234,
-        "date_posted": 1759498788,
-        "url": "https://csl.wd1.myworkdayjobs.com/CSL_External/job/Seqirus-USA---NJ---Summit/Customer-Data-Analyst_R-262172",
-        "locations": [
-            "Summit, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/CSL",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
