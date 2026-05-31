@@ -1,31 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Centene",
-        "id": "724db6f9-bf05-4239-a33c-1010510c9725",
-        "title": "Data Engineer I",
-        "active": false,
-        "date_updated": 1759739501,
-        "date_posted": 1759458571,
-        "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Data-Engineer-I_1604624",
-        "locations": [
-            "Remote in MO",
-            "Remote in GA",
-            "Remote in TN",
-            "Remote in FL",
-            "Remote in SC",
-            "Remote in TX",
-            "Remote in NC",
-            "Remote in IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Centene",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "American Express",
         "id": "e4ac42f8-203e-4627-9ceb-e35dc8f6bf9a",
@@ -6552,24 +6527,6 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Abnormal-Security",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Ciena",
-        "id": "846367bf-8d36-4fd5-8df2-afac73b59c35",
-        "title": "Software Engineer Packet Platform New Grad - Packet Software - Embedded Linux",
-        "active": false,
-        "date_updated": 1761939821,
-        "date_posted": 1759458438,
-        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Engineer-Packet-Platform---New-Grad_R029135-1",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Ciena",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -90043,24 +90000,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Alliance Laundry Systems",
-        "id": "a05d9458-9e10-44ea-b373-d994ba7f8246",
-        "title": "Electro Mechanical Technician 1",
-        "active": false,
-        "date_updated": 1765841191,
-        "date_posted": 1759458343,
-        "url": "https://uscareeropenings-alliancelaundry.icims.com/jobs/10802/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Wisconsin"
-        ],
-        "company_url": "https://simplify.jobs/c/Alliance-Laundry-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Essen Health Care",
         "id": "6d38c3bb-9449-4944-8e2a-ed7589173758",
@@ -91065,24 +91004,6 @@
             "Aldershot, UK"
         ],
         "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "URBN",
-        "id": "fa3e3506-4e3c-4b03-b53d-f383eeced249",
-        "title": "Styling Assistant - Styling",
-        "active": false,
-        "date_updated": 1765902113,
-        "date_posted": 1759458359,
-        "url": "https://homeoffice-na-urbn.icims.com/jobs/20780/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Detroit, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/URBN",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
