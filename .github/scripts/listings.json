@@ -42036,24 +42036,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Domino Data Lab",
-        "id": "4224f942-ddac-4863-939c-b1c0f7be768c",
-        "title": "Forward Deployed Engineer \u2013 New Grad - 2026",
-        "active": false,
-        "date_updated": 1761861881,
-        "date_posted": 1759512604,
-        "url": "https://app.careerpuck.com/job-board/domino-data-lab/job/7275081?gh_jid=7275081",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Domino-Data-Lab",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Cohesity",
         "id": "3fe3d27b-0233-4091-87c7-1f147c8d77f0",
         "title": "Graduate Technical Support Engineer",
@@ -275962,7 +275944,7 @@
         "company_name": "Arthur Grand Technologies",
         "id": "f75f0ef0-4976-4878-ac6d-176ddeea0c1c",
         "title": "Syteline ERP Support",
-        "active": true,
+        "active": false,
         "date_updated": 1776463381,
         "date_posted": 1776463360,
         "url": "https://jobs.smartrecruiters.com/ArthurGrandTechnologiesInc/744000121473057",
