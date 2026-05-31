@@ -42198,24 +42198,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "InvoiceCloud",
-        "id": "7e926ce4-a972-4488-b8de-c35a4b888387",
-        "title": "Service Desk Analyst 1",
-        "active": false,
-        "date_updated": 1762912216,
-        "date_posted": 1759492087,
-        "url": "http://invoicecloud.net/careers/open-positions?gh_jid=7484343003",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/InvoiceCloud",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "American Express",
         "id": "5f719acf-f06d-4483-be58-455a62c652fa",
         "title": "Campus Graduate Full-Time - 2026 Software Engineer II - Technology",
@@ -60795,24 +60777,6 @@
             "Anchorage, AK"
         ],
         "company_url": "https://simplify.jobs/c/Geosyntec-Consultants",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Yusen Logistics",
-        "id": "87d544ea-2e0b-4424-b70d-d3eba688d8ee",
-        "title": "Business Solutions Data Specialist",
-        "active": false,
-        "date_updated": 1763712730,
-        "date_posted": 1759492043,
-        "url": "https://careers-yusen-logistics.icims.com/jobs/6050/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Long Beach, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Yusen-Logistics",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
