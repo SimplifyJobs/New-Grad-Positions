@@ -42017,24 +42017,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "GHD",
-        "id": "a594a048-2cd4-4441-8845-1122d8f3a2f4",
-        "title": "Graduate Geoscientist",
-        "active": false,
-        "date_updated": 1759514414,
-        "date_posted": 1759514414,
-        "url": "https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/23774",
-        "locations": [
-            "Golden, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/GHD",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Cohesity",
         "id": "3fe3d27b-0233-4091-87c7-1f147c8d77f0",
