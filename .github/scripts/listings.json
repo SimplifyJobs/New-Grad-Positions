@@ -1,47 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Domino Data Lab",
-        "id": "e9fac06c-a8f6-4e81-a5b3-6ee1c5827e79",
-        "title": "Software Engineer \u2013 New Grad - Campus Recruiting 2026",
-        "active": false,
-        "date_updated": 1759478135,
-        "date_posted": 1759478135,
-        "url": "https://app.careerpuck.com/job-board/domino-data-lab/job/7275094?gh_jid=7275094",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Domino-Data-Lab",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Twitch",
-        "id": "dc39f763-3119-4350-9828-43bc93f4a212",
-        "title": "Software Engineer I - Video Platform",
-        "active": false,
-        "date_updated": 1759477730,
-        "date_posted": 1759477730,
-        "url": "https://job-boards.greenhouse.io/twitch/jobs/8180140002",
-        "locations": [
-            "SF",
-            "Irvine, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Twitch",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "date_updated": 1759501245,
         "sponsorship": "Other",
         "active": true,
@@ -42324,42 +42282,6 @@
             "Fort Collins, CO"
         ],
         "company_url": "https://simplify.jobs/c/TDS",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Lynker",
-        "id": "a4855e7d-c777-4a7f-8737-7229164875b9",
-        "title": "Space Observations Scientist and Organizational Liaison",
-        "active": false,
-        "date_updated": 1759477295,
-        "date_posted": 1759477295,
-        "url": "https://careers-lynker.icims.com/jobs/1414/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Boulder, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Lynker",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "ByteDance",
-        "id": "f023b068-443c-4a3f-a999-a2a15a39b368",
-        "title": "Software Engineer Graduate - Inference Infrastructure - 2026 Start','Phd",
-        "active": false,
-        "date_updated": 1759476780,
-        "date_posted": 1759476780,
-        "url": "https://jobs.bytedance.com/en/position/7556439896494754066/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
