@@ -2,42 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Wayfair",
-        "id": "ab528634-1079-45f8-a929-c8f05cedc330",
-        "title": "Software Engineer 1 - Early Careers",
-        "active": false,
-        "date_updated": 1759966926,
-        "date_posted": 1759471832,
-        "url": "https://www.wayfair.com/careers/jobs/8106097002?gh_jid=8106097002",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Wayfair",
-        "is_visible": false,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Abbott",
-        "id": "10c77412-b7dc-4a78-b892-c261b33cb0e9",
-        "title": "Software Engineer 1 - Digital Health Engineering",
-        "active": false,
-        "date_updated": 1761918566,
-        "date_posted": 1759471560,
-        "url": "https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/United-States---California---Sylmar/Software-Engineer-I_31130840-1",
-        "locations": [
-            "Pacoima, LA"
-        ],
-        "company_url": "https://simplify.jobs/c/Abbott",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Domino Data Lab",
         "id": "e9fac06c-a8f6-4e81-a5b3-6ee1c5827e79",
         "title": "Software Engineer \u2013 New Grad - Campus Recruiting 2026",
