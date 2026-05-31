@@ -1,26 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Replit",
-        "id": "94f6899d-56b9-46ea-a8fc-077dcadbc526",
-        "title": "Software Engineer \u2013 New Grad - Summer 2026",
-        "active": false,
-        "date_updated": 1759464573,
-        "date_posted": 1759464573,
-        "url": "https://jobs.ashbyhq.com/replit/b5e81eae-06f9-4798-8988-2d06ca936dbc/application",
-        "locations": [
-            "San Mateo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Replit",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "RTX",
         "id": "e53e695b-c09a-4c3b-a76c-8c9846f1cf27",
@@ -42542,24 +42522,6 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "ByteDance",
-        "id": "8e4681bc-b6c9-4d01-beaa-cc1ded6e2b9c",
-        "title": "Software Engineer Graduate - Inference Infrastructure - 2026 Start','Phd",
-        "active": false,
-        "date_updated": 1759464380,
-        "date_posted": 1759464380,
-        "url": "https://jobs.bytedance.com/en/position/7556509698578663687/detail",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
