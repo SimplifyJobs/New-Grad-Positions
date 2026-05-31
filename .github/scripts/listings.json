@@ -2,24 +2,6 @@
     {
         "source": "Simplify",
         "category": "Hardware",
-        "company_name": "Ciena",
-        "id": "8d72a79c-78b3-4f4e-8a10-36e4bd8b6bd5",
-        "title": "Embedded Software Engineer \u2013 New Grad - Real-Time Systems",
-        "active": false,
-        "date_updated": 1761832576,
-        "date_posted": 1759531466,
-        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer---New-Grad--Real-Time-Systems-_R029145",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Ciena",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
         "company_name": "General Motors",
         "id": "a949f780-0ff6-4438-83e2-a09c88954fec",
         "title": "Software Developer \u2013 Early Career",
@@ -331976,5 +331958,41 @@
         "degrees": [
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Albertsons",
+        "id": "111d706d-9134-4e14-ad50-1cea85c2f0bc",
+        "title": "Entry Level Front End Engineer",
+        "active": true,
+        "date_updated": 1780268265,
+        "date_posted": 1780265327,
+        "url": "https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/717308",
+        "locations": [
+            "Carlsbad, NM"
+        ],
+        "company_url": "https://simplify.jobs/c/Albertsons",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Albertsons",
+        "id": "0e9631a5-205f-4ad4-9d82-4b105f53f807",
+        "title": "Entry Level Front End Engineer",
+        "active": true,
+        "date_updated": 1780268266,
+        "date_posted": 1780265325,
+        "url": "https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/717323",
+        "locations": [
+            "Merrimack, NH"
+        ],
+        "company_url": "https://simplify.jobs/c/Albertsons",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
