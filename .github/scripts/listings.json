@@ -1,24 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "RTX",
-        "id": "e53e695b-c09a-4c3b-a76c-8c9846f1cf27",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1761832378,
-        "date_posted": 1759471005,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HIA32-Cedar-Rapids-IA-400-Collins-Rd-NE---Cedar-Rapids-IA-52498-0505-USA/Software-Engineer-I--Onsite-_01798004",
-        "locations": [
-            "Cedar Rapids, IA"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Wayfair",
         "id": "ab528634-1079-45f8-a929-c8f05cedc330",
@@ -161192,7 +161174,7 @@
         "company_name": "Huntington Ingalls Industries",
         "id": "4ea8fcdf-dd84-4d24-8098-caa377d16368",
         "title": "Software Development Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1770602992,
         "date_posted": 1770602992,
         "url": "https://careers.huntingtoningalls.com/job/Newport-News-SOFTWARE-DEVELOPMENT-ENGINEER-Virg/1362993700/?ats=successfactors",
@@ -173351,24 +173333,6 @@
         "degrees": [
             "Associate's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Electronic Arts",
-        "id": "5d4cd151-8978-450d-b32b-65eb3b6e6dbd",
-        "title": "Software Engineer 1 Game Server Hosting",
-        "active": false,
-        "date_updated": 1771322265,
-        "date_posted": 1759470056,
-        "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-I-Game-Server-Hosting/211063",
-        "locations": [
-            "Kirkland, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Electronic-Arts",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -282039,7 +282003,7 @@
         "company_name": "The Boeing Company",
         "id": "65b3f57a-acd4-4c2a-b15f-4e58dc9de499",
         "title": "Missions Systems Software Engineer \u2013 Senior - Embedded",
-        "active": true,
+        "active": false,
         "date_updated": 1776763261,
         "date_posted": 1776763143,
         "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Berkeley-MO/Missions-Systems-Software-Engineer---Embedded--Associate--Experienced--Senior-_JR2026494876-1",
