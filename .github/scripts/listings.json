@@ -1,24 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Medtronic",
-        "id": "34a406e4-0580-4911-883a-71d3ae3b5230",
-        "title": "Software Engineer 1 - Multiple Teams",
-        "active": false,
-        "date_updated": 1761918786,
-        "date_posted": 1759518151,
-        "url": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Northridge-California-United-States-of-America/Software-Engineer-I--Northridge--CA-_R47859",
-        "locations": [
-            "Northridge, LA"
-        ],
-        "company_url": "https://simplify.jobs/c/Medtronic",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Modernizing Medicine",
         "id": "909be1e2-f265-48cf-88e1-fe09d5058882",
@@ -41975,24 +41957,6 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/CDW-Corporation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "GMO",
-        "id": "1a3233a3-db33-444d-98d2-9480d1e13134",
-        "title": "Quantitative Technology Associate - Class of 2026",
-        "active": false,
-        "date_updated": 1761862762,
-        "date_posted": 1759518154,
-        "url": "https://jobs.lever.co/gmo/855fd57c-3db3-43d1-be0b-9084328b8752/apply",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/GMO",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -329412,7 +329376,7 @@
         "company_name": "Dexcom",
         "id": "432241b1-2440-4478-a6be-01c5960c1137",
         "title": "IOS/Andriod Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1779921017,
         "date_posted": 1779919880,
         "url": "https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/Portland-Oregon/iOS-Andriod-Engineer-1_JR118876",
