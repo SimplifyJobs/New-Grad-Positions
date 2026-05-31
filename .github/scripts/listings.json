@@ -42161,24 +42161,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Waters Corporation",
-        "id": "6cd4658f-3a3e-4197-a188-1e10414f8009",
-        "title": "Performance Maintenance Specialist - Liquid Chromatography",
-        "active": false,
-        "date_updated": 1762471365,
-        "date_posted": 1759494587,
-        "url": "https://uscareers-waters.icims.com/jobs/24323/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Jackson Township, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/Waters-Corporation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "55743b4e-9c8e-4370-bc5a-5add4a910268",
@@ -88361,24 +88343,6 @@
             "Tampa, FL"
         ],
         "company_url": "https://simplify.jobs/c/Seminole-Hard-Rock",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Utah State University",
-        "id": "ebc7feb3-17a0-4f49-9cdd-89d6d8fdf83b",
-        "title": "Junior Aggies Academy Caregiver",
-        "active": false,
-        "date_updated": 1765764924,
-        "date_posted": 1759493017,
-        "url": "https://careers-usu.icims.com/jobs/8878/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Ardmore, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Utah-State-University",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
