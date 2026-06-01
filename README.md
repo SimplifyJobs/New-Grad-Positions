@@ -5,9 +5,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/New-Grad-Positions/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
 ---
-### Browse 230 New Grad Roles by Category
+### Browse 231 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (156)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (157)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (1)
 
@@ -79,6 +79,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 </tr>
 </thead>
 <tbody>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Albertsons?utm_source=GHList&utm_medium=company">Albertsons</a></strong></td>
+<td>Entry Level Front End Engineer</td>
+<td>Springfield, OR</td>
+<td><div align="center"><a href="https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/717416?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/9787634c-cb56-4cb0-af19-98561c52b48a?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
+<td>0d</td>
+</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Travelers?utm_source=GHList&utm_medium=company">Travelers</a></strong></td>
 <td>Software Engineer 1 - Multiple Teams</td>
@@ -266,14 +273,14 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Engineer New Grad - Numerical Analysis - C++ 🎓</td>
 <td>Boston, MA</td>
 <td><div align="center"><a href="https://cadence.wd1.myworkdayjobs.com/External_Careers/job/BOSTON-02/Software-Engineer_R52506-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/6f302656-9c49-4d1e-9ea8-caff18508090?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>15d</td>
+<td>16d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Software Engineer New Grad - Numerical Analysis - C++ 🎓</td>
 <td>Boston, MA</td>
 <td><div align="center"><a href="https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/BOSTON-02/Software-Engineer_R52506?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/0e04f7a9-e2b4-4c1c-b8e4-2f0a3feb8537?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>15d</td>
+<td>16d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/DATFreight?utm_source=GHList&utm_medium=company">DAT Freight & Analytics</a></strong></td>
@@ -10364,7 +10371,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (275)</summary>
+<summary>🗃️ Inactive roles (274)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -12295,13 +12302,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>🔒</td>
 <td>7mo</td>
 </tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Cox?utm_source=GHList&utm_medium=company">Cox</a></strong></td>
-<td>Data Engineer 1</td>
-<td>Atlanta, GA</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
 </tbody>
 </table>
 
@@ -12777,7 +12777,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (313)</summary>
+<summary>🗃️ Inactive roles (312)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -14971,13 +14971,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><strong><a href="https://simplify.jobs/c/Ciena?utm_source=GHList&utm_medium=company">Ciena</a></strong></td>
 <td>RLS Photonics Software Engineer – 2026 New Grads</td>
 <td>Ottawa, ON, Canada</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/General-Motors?utm_source=GHList&utm_medium=company">General Motors</a></strong></td>
-<td>Software Developer – Early Career - Virtualization and SIL Integration</td>
-<td>Markham, ON, Canada</br>Oshawa, ON, Canada</td>
 <td>🔒</td>
 <td>7mo</td>
 </tr>
