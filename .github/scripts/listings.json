@@ -226333,7 +226333,7 @@
         "company_name": "Arthur Grand Technologies",
         "id": "c5e96a2e-51ca-43d8-aa10-231b3cdc5e3f",
         "title": "ERP Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773871479,
         "date_posted": 1773871479,
         "url": "https://jobs.smartrecruiters.com/ArthurGrandTechnologiesInc/744000115491098",
@@ -275652,7 +275652,7 @@
         "company_name": "Arthur Grand Technologies",
         "id": "f75f0ef0-4976-4878-ac6d-176ddeea0c1c",
         "title": "Syteline ERP Support",
-        "active": true,
+        "active": false,
         "date_updated": 1776463381,
         "date_posted": 1776463360,
         "url": "https://jobs.smartrecruiters.com/ArthurGrandTechnologiesInc/744000121473057",
@@ -290217,7 +290217,7 @@
         "company_name": "ServiceNow",
         "id": "4f23c841-6bbf-473a-bd5d-99e73ecda51b",
         "title": "Associate Software Engineer - Search Infrastructure - Moveworks",
-        "active": true,
+        "active": false,
         "date_updated": 1777413961,
         "date_posted": 1777413848,
         "url": "https://jobs.smartrecruiters.com/ServiceNow/744000123528060",
@@ -290810,7 +290810,7 @@
         "company_name": "Semtech",
         "id": "7b6c0417-a7c9-4f6f-b819-56e9b9454b5f",
         "title": "Staff Characterisation Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1777471728,
         "date_posted": 1777471521,
         "url": "https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/GBR---Bristol/Staff-Characterisation-Engineer_REQ3285",
@@ -321120,7 +321120,7 @@
         "company_name": "Intel",
         "id": "878fd401-4120-4bad-a8c5-8926d2332c70",
         "title": "Package Assembly Low Yield Analysis Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1779821101,
         "date_posted": 1778947338,
         "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Package-Assembly-Low-Yield-Analysis-Engineer_JR0283677",
@@ -328868,7 +328868,7 @@
         "company_name": "ServiceNow",
         "id": "caaa1822-baae-433a-bc0a-bf9a8e74d727",
         "title": "Software Engineer Associate - Search Infrastructure - Moveworks",
-        "active": false,
+        "active": true,
         "date_updated": 1779920261,
         "date_posted": 1779919566,
         "url": "https://jobs.smartrecruiters.com/ServiceNow/744000128795277",
@@ -331241,7 +331241,7 @@
         "company_name": "Micron Technology",
         "id": "91e88b6e-4599-4579-afc5-ee3cb7fc6c65",
         "title": "Electrical Engineer New Grad - Design Engineer - Pathfinding Design",
-        "active": true,
+        "active": false,
         "date_updated": 1779960026,
         "date_posted": 1779529133,
         "url": "https://micron.wd1.myworkdayjobs.com/External/job/Folsom-CA/New-College-Grad---Design-Engineer---Pathfinding-Design_JR92326",
@@ -332049,7 +332049,7 @@
         "company_name": "RELX",
         "id": "791387db-60c1-4cb6-9d94-034cd3090e20",
         "title": "Tech Consulting - ERP Apps Specialist I",
-        "active": true,
+        "active": false,
         "date_updated": 1780276627,
         "date_posted": 1780136028,
         "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Remote---USA---Nationwide/Tech-Consulting---ERP-Apps-Specialist-I_R112427-1",
@@ -332718,6 +332718,88 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "General Motors",
+        "id": "96031560-54a5-445c-b11b-101739898997",
+        "title": "Entry Level Developer - Simulation Platform - Galileo",
+        "active": true,
+        "date_updated": 1780305252,
+        "date_posted": 1780305073,
+        "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/Entry-Level-Developer---Simulation-Platform--Galileo-_JR-202611523",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Motors",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Harvard University",
+        "id": "d6b8df2b-2bd2-4c1b-bfdb-4d118140a153",
+        "title": "Research Assistant",
+        "active": true,
+        "date_updated": 1780304581,
+        "date_posted": 1780304527,
+        "url": "https://jobs.smartrecruiters.com/HarvardUniversity/3743990013391596",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/9094158f-c28a-4cb7-9757-204e5a4e8130",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Walmart",
+        "id": "857445d9-0cb0-479b-976d-fb1ed6bed6ee",
+        "title": "Senior Data Analyst - Data Analyst",
+        "active": true,
+        "date_updated": 1780305245,
+        "date_posted": 1780139204,
+        "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/XMLNAME--USA--Senior--Data-Analyst_R-2507704",
+        "locations": [
+            "Bentonville, AR"
+        ],
+        "company_url": "https://simplify.jobs/c/Walmart",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "CAE",
+        "id": "926cda1b-f600-4dd1-9b2f-25ebcef61804",
+        "title": "Simulator Technician 1",
+        "active": true,
+        "date_updated": 1780305702,
+        "date_posted": 1780135415,
+        "url": "https://cae.wd3.myworkdayjobs.com/career/job/Phoenix/Simulator-Technician-I_120681",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/CAE",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
         ]
     }
 ]
