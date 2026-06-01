@@ -1,26 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "Belden",
-        "id": "1cdbed4d-36a1-41bd-8f31-920f34589d2e",
-        "title": "Product Management Track: Launch Early Career Leadership Program",
-        "active": false,
-        "date_updated": 1759612975,
-        "date_posted": 1759612975,
-        "url": "https://careers.belden.com/job/Carmel-Product-Management-Track-Launch-Early-Career-Leadership-Program-IN-46032/1325052600/?ats=successfactors",
-        "locations": [
-            "Carmel, IN"
-        ],
-        "company_url": "https://simplify.jobs/c/Belden",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Klaviyo",
         "id": "dbe9ac4a-7404-4101-83ec-c73df2a11f1c",
@@ -41324,27 +41304,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Bausch Lomb",
-        "id": "adaf0e6c-d7d6-48c2-a67e-bf3980754f46",
-        "title": "Associate Field Services Engineering Technician - NY State Region",
-        "active": true,
-        "date_updated": 1759613013,
-        "date_posted": 1759613013,
-        "url": "https://careers.bauschlomb.com/job/USA-Remote-Associate-Field-Services-Engineering-Technician-NY-State-Region/826872902/?ats=successfactors",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Bausch-Lomb",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Rural King",
         "id": "48816dfd-a924-4aac-8725-76096c2151a4",
@@ -54533,7 +54492,7 @@
         "company_name": "Warner Music",
         "id": "1e0cd02c-a8ef-47cc-ad74-1c813c39d57f",
         "title": "Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1763510875,
         "date_posted": 1763510875,
         "url": "https://jobs.lever.co/wmg/0ddd651b-89b2-4765-8d5b-fde8fb653540/apply",
@@ -119019,27 +118978,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "FutureCare",
-        "id": "ae51ab62-0f80-4c28-83b3-71b000a84c35",
-        "title": "Licensed Social Worker",
-        "active": false,
-        "date_updated": 1768300235,
-        "date_posted": 1759613008,
-        "url": "https://careers-futurecarehealth.icims.com/jobs/24331/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/FutureCare",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
     },
     {
         "source": "Simplify",
@@ -273442,7 +273380,7 @@
         "company_name": "StepStone Group",
         "id": "1fe4cd03-7f53-4a94-b701-fef8655721e4",
         "title": "Analyst \u2013 Power BI Dashboard Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1776378601,
         "date_posted": 1776377879,
         "url": "https://boards.greenhouse.io/embed/job_app?token=7816312",
@@ -280014,7 +279952,7 @@
         "company_name": "Wolverine World Wide",
         "id": "1a4ed750-f5a7-4230-a18f-8665c8b69c71",
         "title": "Ecommerce Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1776724951,
         "date_posted": 1776723610,
         "url": "https://wwwinc.wd1.myworkdayjobs.com/WWW/job/London/eComm-Trading-Assistant---Saucony_2026-10401",
@@ -317865,7 +317803,7 @@
         "company_name": "Micron Technology",
         "id": "19974264-b0fe-46a0-97f4-98d75507714d",
         "title": "DRAM Product Reliability Characterization Engineer - DRAM Product Reliability Characterization Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1779488560,
         "date_posted": 1779487838,
         "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---DRAM-Product-Reliability-Characterization-Engineer_JR100260",
