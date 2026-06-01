@@ -225979,7 +225979,7 @@
         "company_name": "Arthur Grand Technologies",
         "id": "c5e96a2e-51ca-43d8-aa10-231b3cdc5e3f",
         "title": "ERP Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773871479,
         "date_posted": 1773871479,
         "url": "https://jobs.smartrecruiters.com/ArthurGrandTechnologiesInc/744000115491098",
@@ -275298,7 +275298,7 @@
         "company_name": "Arthur Grand Technologies",
         "id": "f75f0ef0-4976-4878-ac6d-176ddeea0c1c",
         "title": "Syteline ERP Support",
-        "active": false,
+        "active": true,
         "date_updated": 1776463381,
         "date_posted": 1776463360,
         "url": "https://jobs.smartrecruiters.com/ArthurGrandTechnologiesInc/744000121473057",
@@ -326054,7 +326054,7 @@
         "company_name": "BCBST",
         "id": "727baf5e-4f25-4c6c-8d29-dba55e28b8db",
         "title": "Associate Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1779838047,
         "date_posted": 1779833130,
         "url": "https://bcbst.wd1.myworkdayjobs.com/en-US/External/job/USA-TN-Chattanooga-Remote/Associate-Software-Engineer-I_R-49311",
@@ -332823,6 +332823,169 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tokyo Electron",
+        "id": "d2a47c53-8898-467f-b6ca-0981d487632c",
+        "title": "Entry-Level Software Engineer - AI Research",
+        "active": true,
+        "date_updated": 1780351381,
+        "date_posted": 1780351366,
+        "url": "https://tel.wd3.myworkdayjobs.com/tel-careers/job/San-Jose/Entry-Level-Software-Engineer---AI-Research_R26-00785",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tokyo-Electron",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "KLA",
+        "id": "b6484b98-dbb7-4174-8cde-96313253e62b",
+        "title": "Firmware Engineer",
+        "active": true,
+        "date_updated": 1780351561,
+        "date_posted": 1780351534,
+        "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Firmware-Engineer_2636939",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/KLA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Prairie View A&M University",
+        "id": "7d6db0bd-a415-4305-8291-fcfa4de1c3c9",
+        "title": "Defensive Analyst - Football",
+        "active": true,
+        "date_updated": 1780351381,
+        "date_posted": 1780351364,
+        "url": "https://tamus.wd1.myworkdayjobs.com/pvamu_external/job/Prairie-View-TX/Defensive-Analyst--Football-_R-093670-1",
+        "locations": [
+            "Prairie View, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Prairie-View-AM-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Freddie Mac",
+        "id": "1c0690db-4a46-4ac1-b24d-e0854a175f96",
+        "title": "Investment & Capital Markets - Operations Analyst - Data Management Team",
+        "active": true,
+        "date_updated": 1780351561,
+        "date_posted": 1780351520,
+        "url": "https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Investment---Capital-Markets---Operations-Analyst--Data-Management-Team-_JR17257",
+        "locations": [
+            "McLean, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Freddie-Mac",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Wyetech",
+        "id": "1edb8a08-d47d-49e1-aec0-0e98e3c17e05",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1780351561,
+        "date_posted": 1780351406,
+        "url": "https://jobs.lever.co/wyetechllc/e9ee766a-35f4-44a0-80b3-122a74ea677d/apply",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Wyetech-LLC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Amazon",
+        "id": "df897a18-db00-4e05-b1b7-c63e70d29e70",
+        "title": "Data Engineer 2",
+        "active": true,
+        "date_updated": 1780351979,
+        "date_posted": 1780351551,
+        "url": "https://amazon.jobs/en/jobs/10436321/data-engineer-ii-amz10519526",
+        "locations": [
+            "Cupertino, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "NV5 Global",
+        "id": "cfa5e162-6f04-492a-b9ce-1a819fbb376b",
+        "title": "Laser Scan Technician",
+        "active": true,
+        "date_updated": 1780351561,
+        "date_posted": 1780351540,
+        "url": "https://careers-nv5.icims.com/jobs/12198/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NV5-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Gynger",
+        "id": "7fe84778-db60-4cf1-a1c1-8dbbc12097d5",
+        "title": "Financial & Credit Analytics Analyst",
+        "active": true,
+        "date_updated": 1780351561,
+        "date_posted": 1780351545,
+        "url": "https://jobs.lever.co/gynger/6355791d-444f-4a38-9363-3252f38ea3bf/apply",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Gynger",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
