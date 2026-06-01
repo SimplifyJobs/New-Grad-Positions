@@ -273032,9 +273032,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1776339462,
+        "date_updated": 1780319465,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://genalyte.applytojob.com/apply/ms4az9EW8x/Software-Engineer-I",
         "company_name": "Genalyte",
@@ -331804,8 +331804,8 @@
         "company_name": "Albertsons",
         "id": "111d706d-9134-4e14-ad50-1cea85c2f0bc",
         "title": "Entry Level Front End Engineer",
-        "active": true,
-        "date_updated": 1780268265,
+        "active": false,
+        "date_updated": 1780319465,
         "date_posted": 1780265327,
         "url": "https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/717308",
         "locations": [
@@ -331822,8 +331822,8 @@
         "company_name": "Albertsons",
         "id": "0e9631a5-205f-4ad4-9d82-4b105f53f807",
         "title": "Entry Level Front End Engineer",
-        "active": true,
-        "date_updated": 1780268266,
+        "active": false,
+        "date_updated": 1780319465,
         "date_posted": 1780265325,
         "url": "https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/717323",
         "locations": [
