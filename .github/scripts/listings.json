@@ -145006,7 +145006,7 @@
         "company_name": "Ultra",
         "id": "e786efe2-266d-4400-8071-933ea24f11b5",
         "title": "Production Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1769733703,
         "date_posted": 1769733703,
         "url": "https://ultra.wd3.myworkdayjobs.com/ultra-careers/job/Dartmouth-NS-Canada/Production-Technician_REQ-11324",
@@ -235882,7 +235882,7 @@
         "company_name": "University of Arkansas",
         "id": "ad639ce0-562f-40b2-8d29-ea4c866cea6e",
         "title": "Cosmos Graduate Research Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1773813920,
         "date_posted": 1773813920,
         "url": "https://uasys.wd5.myworkdayjobs.com/uasys/job/Little-Rock/COSMOS---Graduate-Research-Assistant--Researcher-_R0053889-2",
@@ -246580,7 +246580,7 @@
         "company_name": "Thermo Fisher Scientific",
         "id": "ba2211a6-3041-48aa-9111-edebe44105f2",
         "title": "Field Service Engineer 1 - Asset Management",
-        "active": true,
+        "active": false,
         "date_updated": 1774999551,
         "date_posted": 1774479122,
         "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/West-Greenwich-Rhode-Island-USA/Field-Service-Engineer-I--Asset-Management-_R-01345001",
@@ -332239,7 +332239,7 @@
         "company_name": "Walmart",
         "id": "e93a2825-e0fd-4239-bf20-cc1128d9d967",
         "title": "Business Analysis and Insights Senior Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1780281933,
         "date_posted": 1780189768,
         "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-Always-AR-Bentonville-Home-Office/Senior-Analyst--Business-Analysis-and-Insights_R-2513623-1",
@@ -332900,6 +332900,26 @@
         "degrees": [
             "Bachelor's",
             "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Protolabs",
+        "id": "63e28728-7d26-4235-ac18-ca5b4d8a52d2",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1780304761,
+        "date_posted": 1780304711,
+        "url": "https://jobs.lever.co/protolabs/6483bd96-9e8a-493b-880f-57d4f3501a7d/apply",
+        "locations": [
+            "Wayzata, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Protolabs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
