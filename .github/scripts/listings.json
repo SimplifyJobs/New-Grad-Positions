@@ -323243,7 +323243,7 @@
         "company_name": "Western Digital",
         "id": "cbc6aac8-b358-411d-941e-1be5063055df",
         "title": "Wafer Manufacturing Equipment Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1779822183,
         "date_posted": 1779718197,
         "url": "https://jobs.smartrecruiters.com/WesternDigital/744000127757317",
@@ -324544,7 +324544,7 @@
         "company_name": "Wood Mackenzie",
         "id": "554716b1-9de8-4112-9044-3070f03361a5",
         "title": "Data Assistant - Power & Renewables",
-        "active": true,
+        "active": false,
         "date_updated": 1779825065,
         "date_posted": 1779267998,
         "url": "https://woodmac.wd3.myworkdayjobs.com/woodmaccareers/job/Edinburgh-GB/Data-Assistant---Power---Renewables_JR2970",
@@ -332694,6 +332694,26 @@
             "Panama City, FL"
         ],
         "company_url": "https://simplify.jobs/c/Booz-Allen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Particle Measuring Systems",
+        "id": "3c0422ce-9ea4-4661-abdf-96d0025b5984",
+        "title": "Automation Projects Engineer 1",
+        "active": true,
+        "date_updated": 1780302986,
+        "date_posted": 1780302892,
+        "url": "https://spectris.wd3.myworkdayjobs.com/PMS_Careers/job/USA_Home-Working-NC/Automation-Projects-Engineer-I_17606",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Particle-Measuring-Systems",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
