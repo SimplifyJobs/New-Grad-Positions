@@ -1,47 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Cox",
-        "id": "be6c567d-05ad-465d-b24b-e90f8d68692b",
-        "title": "Data Engineer 1",
-        "active": false,
-        "date_updated": 1761838559,
-        "date_posted": 1759588481,
-        "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Data-Engineer-I_R202567376",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Cox",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "General Motors",
-        "id": "c9f2214a-b99b-4441-ad0e-355cab1c9bc6",
-        "title": "Software Developer \u2013 Early Career - Virtualization and SIL Integration",
-        "active": false,
-        "date_updated": 1759589948,
-        "date_posted": 1759589948,
-        "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Markham-Ontario-Canada/Software-Developer---Virtualization-and-SIL-Integration---Early-Career_JR-202518919",
-        "locations": [
-            "Markham, ON, Canada",
-            "Oshawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/General-Motors",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Salesforce",
         "id": "fcb34217-b3f9-4df3-b09f-5661dc8d3a7e",
@@ -41574,24 +41533,6 @@
             "South Bend, IN"
         ],
         "company_url": "https://simplify.jobs/c/Stryker",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Benchling",
-        "id": "da152579-fd7a-4301-8edc-0181c3d2a1a6",
-        "title": "Software Engineer - Schemas & Object Framework",
-        "active": false,
-        "date_updated": 1759589705,
-        "date_posted": 1759589705,
-        "url": "https://boards.greenhouse.io/benchling/jobs/7289522",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Benchling",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -275338,7 +275279,7 @@
         "company_name": "Torc Robotics",
         "id": "8c9584ec-6c38-4f16-8bdb-4e21d543620c",
         "title": "ML Engineer - Acceleration Team",
-        "active": true,
+        "active": false,
         "date_updated": 1776435841,
         "date_posted": 1776435721,
         "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8492425002",
@@ -332182,7 +332123,7 @@
         "company_name": "Rakuten International",
         "id": "e4397945-728c-4c34-abc0-52deeb50a6e3",
         "title": "Associate AI Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1780281542,
         "date_posted": 1780135433,
         "url": "https://rakuten.wd1.myworkdayjobs.com/en-US/RakutenAmericas/job/Bellevue-Washington/Associate-AI-Engineer_1033843-1",
@@ -332980,5 +332921,181 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pennsylvania State University",
+        "id": "f8b79108-bb32-44ab-a966-0ad3e5d0270f",
+        "title": "Research Assistant - Astronomy Department",
+        "active": true,
+        "date_updated": 1780323574,
+        "date_posted": 1780322821,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Research-Assistant---Astronomy-Department_REQ_0000079078-1",
+        "locations": [
+            "State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Apple",
+        "id": "cf24cc15-9d4e-48cf-903c-2de38e002886",
+        "title": "Software Engineering Systems",
+        "active": true,
+        "date_updated": 1780323856,
+        "date_posted": 1780322857,
+        "url": "https://jobs.apple.com/en-us/details/200664708",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "JP Morgan Chase",
+        "id": "c588fe06-a71b-493c-a44b-989472657e59",
+        "title": "Applied AI ML Associate",
+        "active": true,
+        "date_updated": 1780323301,
+        "date_posted": 1780322884,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210753258",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Albertsons",
+        "id": "9787634c-cb56-4cb0-af19-98561c52b48a",
+        "title": "Entry Level Front End Engineer",
+        "active": true,
+        "date_updated": 1780323717,
+        "date_posted": 1780322940,
+        "url": "https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/717416",
+        "locations": [
+            "Springfield, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Albertsons",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Galaxy",
+        "id": "7d897bc1-5ab6-4e70-9e85-2b711356e8ad",
+        "title": "Trading Operations Analyst",
+        "active": true,
+        "date_updated": 1780323301,
+        "date_posted": 1780006676,
+        "url": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6008319004",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Galaxy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Royal Bank of Canada",
+        "id": "70dbf7d3-43c5-40bf-89c3-e2a69c421a32",
+        "title": "Alternative Investments Product Analyst",
+        "active": true,
+        "date_updated": 1780323843,
+        "date_posted": 1780323211,
+        "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/Minneapolis-Minnesota-United-States-of-America/Alternative-Investment-Product-Analyst_R-0000174876",
+        "locations": [
+            "Minneapolis, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Micron Technology",
+        "id": "246cd778-c7c8-4dd5-88be-30f5e424219b",
+        "title": "DRAM Design Engineer New Grad - DRAM Design Engineer",
+        "active": true,
+        "date_updated": 1780323766,
+        "date_posted": 1780322983,
+        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---DRAM-Design-Engineer_JR103089",
+        "locations": [
+            "Boise, ID"
+        ],
+        "company_url": "https://simplify.jobs/c/Micron-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Huntington Bancshares",
+        "id": "20f0f051-ee63-4678-831c-62bad9603900",
+        "title": "Project Delivery Analyst",
+        "active": true,
+        "date_updated": 1780323301,
+        "date_posted": 1780322839,
+        "url": "https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Project-Delivery-Analyst--Elevate-_R0072630",
+        "locations": [
+            "Columbus, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Huntington-Bancshares",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "1384035e-ee49-4a4d-b11a-da7d8e653b51",
+        "title": "SoC Physical Design Methodology Engineer",
+        "active": true,
+        "date_updated": 1780323301,
+        "date_posted": 1780322859,
+        "url": "https://jobs.apple.com/en-us/details/200665555",
+        "locations": [
+            "Beaverton, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
