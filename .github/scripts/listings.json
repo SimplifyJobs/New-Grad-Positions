@@ -249680,7 +249680,7 @@
         "company_name": "Broadridge",
         "id": "ff558cf0-3c75-4de2-833a-c5c35aea737e",
         "title": "Product Owner",
-        "active": true,
+        "active": false,
         "date_updated": 1775084941,
         "date_posted": 1775081447,
         "url": "https://broadridge.wd5.myworkdayjobs.com/careers/job/Pittsburgh-PA/Product-Owner--Hybrid---Pittsburgh--PA--Newark--NJ-or-NYC-_JR1081474",
@@ -275675,7 +275675,7 @@
         "company_name": "Arthur Grand Technologies",
         "id": "f75f0ef0-4976-4878-ac6d-176ddeea0c1c",
         "title": "Syteline ERP Support",
-        "active": false,
+        "active": true,
         "date_updated": 1776463381,
         "date_posted": 1776463360,
         "url": "https://jobs.smartrecruiters.com/ArthurGrandTechnologiesInc/744000121473057",
@@ -306143,7 +306143,7 @@
         "company_name": "Planet",
         "id": "e2f2fd39-2fe2-4eb6-913d-d29da0fb580e",
         "title": "Visiting Scientist",
-        "active": false,
+        "active": true,
         "date_updated": 1778711041,
         "date_posted": 1778623747,
         "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7912657",
@@ -309971,7 +309971,7 @@
         "company_name": "Western Digital",
         "id": "b278496b-e98d-485e-b9f2-d14b9bc4ffef",
         "title": "Software Engineer - Apps",
-        "active": true,
+        "active": false,
         "date_updated": 1778807168,
         "date_posted": 1778807101,
         "url": "https://jobs.smartrecruiters.com/WesternDigital/744000126594220",
@@ -323266,7 +323266,7 @@
         "company_name": "Western Digital",
         "id": "cbc6aac8-b358-411d-941e-1be5063055df",
         "title": "Wafer Manufacturing Equipment Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1779822183,
         "date_posted": 1779718197,
         "url": "https://jobs.smartrecruiters.com/WesternDigital/744000127757317",
@@ -332677,6 +332677,26 @@
             "Clayton, MO"
         ],
         "company_url": "https://simplify.jobs/c/Enterprise-Bank-And-Trust",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Vanguard",
+        "id": "e918b7fe-43ed-4457-bf1d-39d96fadb64a",
+        "title": "Investment Management Development Program",
+        "active": true,
+        "date_updated": 1780294150,
+        "date_posted": 1780294079,
+        "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/Investment-Management-Development-Program_177739",
+        "locations": [
+            "Malvern, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Vanguard",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
