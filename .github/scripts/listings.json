@@ -41345,60 +41345,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Coherent ",
-        "id": "1c91d719-f0a3-44eb-a737-252e745c3eee",
-        "title": "Staff Embedded Software Engineer",
-        "active": false,
-        "date_updated": 1761519752,
-        "date_posted": 1759609786,
-        "url": "https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2008892",
-        "locations": [
-            "Horsham, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Coherent",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Uhaul",
-        "id": "53c6e897-a1aa-4f2b-850c-e69af788db6a",
-        "title": "Hitch Service Technician",
-        "active": false,
-        "date_updated": 1762909198,
-        "date_posted": 1759608963,
-        "url": "https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/Winnipeg-Manitoba/Hitch-Professional_R230044",
-        "locations": [
-            "Winnipeg, MB, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Uhaul",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Capco",
-        "id": "fda70873-cf62-41b6-8247-f02ed4bc1272",
-        "title": "FAST Configuration Analyst",
-        "active": false,
-        "date_updated": 1759608461,
-        "date_posted": 1759608461,
-        "url": "https://job-boards.greenhouse.io/capco/jobs/7298016",
-        "locations": [
-            "Orlando, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Capco",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Rural King",
         "id": "48816dfd-a924-4aac-8725-76096c2151a4",
@@ -82148,24 +82094,6 @@
         "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/4873959007",
         "locations": [
             "Southfield, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/Lucid-Motors",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Lucid Motors",
-        "id": "0de23d2f-eec2-4d79-b45a-faa5ffa6c130",
-        "title": "Vehicle Development Engineer 1 - Vehicle Test",
-        "active": false,
-        "date_updated": 1765365740,
-        "date_posted": 1759608209,
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/4872264007",
-        "locations": [
-            "Newark, CA"
         ],
         "company_url": "https://simplify.jobs/c/Lucid-Motors",
         "is_visible": true,
