@@ -331039,7 +331039,7 @@
         "company_name": "Light & Wonder",
         "id": "945e7966-c41e-424b-a290-704ce71be03c",
         "title": "Associate Mathematician",
-        "active": false,
+        "active": true,
         "date_updated": 1779960517,
         "date_posted": 1779959541,
         "url": "https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Las-Vegas-NV/Associate-Mathematician_R322193",
@@ -331626,7 +331626,7 @@
         "company_name": "NXP Semiconductors",
         "id": "b853e54a-82f9-45ab-8704-3bd32e1500a2",
         "title": "Graduate Digital Design Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1779978036,
         "date_posted": 1779977094,
         "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Glasgow/Graduate-Digital-Design-Engineer_R-10063378-1",
@@ -332235,6 +332235,529 @@
             "St. Louis, MO"
         ],
         "company_url": "https://simplify.jobs/c/ERM",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "3M",
+        "id": "aabafd08-aa91-4487-a0d5-f079380cf1ed",
+        "title": "Research Engineer",
+        "active": true,
+        "date_updated": 1780280823,
+        "date_posted": 1780135368,
+        "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Minnesota-Maplewood/Research-Engineer_R01165922",
+        "locations": [
+            "Woodbury, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/3M",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Boeing Company",
+        "id": "5e61e979-0fb1-4caa-af35-d7382568726d",
+        "title": "Associate Engineering Technical Specialist",
+        "active": true,
+        "date_updated": 1780280823,
+        "date_posted": 1780135992,
+        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seattle-WA/Associate-Engineering-Technical-Specialist_JR2026512640-1",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Rakuten International",
+        "id": "e4397945-728c-4c34-abc0-52deeb50a6e3",
+        "title": "Associate AI Engineer",
+        "active": true,
+        "date_updated": 1780281542,
+        "date_posted": 1780135433,
+        "url": "https://rakuten.wd1.myworkdayjobs.com/en-US/RakutenAmericas/job/Bellevue-Washington/Associate-AI-Engineer_1033843-1",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Rakuten-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Microchip Technology",
+        "id": "9233830c-e80a-4e6c-b3e6-641332860575",
+        "title": "Technician 2 - Product/Test",
+        "active": true,
+        "date_updated": 1780281708,
+        "date_posted": 1780134952,
+        "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/CO---Colorado-Springs---East-Cheyenne-Mountain-Blvd/Technician-II-Product-Test_R2253-26",
+        "locations": [
+            "Colorado Springs, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Microchip-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Boeing Company",
+        "id": "783c18de-9cc3-48d2-9134-2365778f83cb",
+        "title": "Associate Engineering Technical Specialist",
+        "active": true,
+        "date_updated": 1780280823,
+        "date_posted": 1780135888,
+        "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Seattle-WA/Associate-Engineering-Technical-Specialist_JR2026512640",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Walmart",
+        "id": "e93a2825-e0fd-4239-bf20-cc1128d9d967",
+        "title": "Business Analysis and Insights Senior Analyst",
+        "active": true,
+        "date_updated": 1780281933,
+        "date_posted": 1780189768,
+        "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-Always-AR-Bentonville-Home-Office/Senior-Analyst--Business-Analysis-and-Insights_R-2513623-1",
+        "locations": [
+            "Bentonville, AR"
+        ],
+        "company_url": "https://simplify.jobs/c/Walmart",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Analog Devices",
+        "id": "cf6c1e46-4eab-4cc1-8b7e-a0d63c35fc0d",
+        "title": "Equipment Engineering Technician 1 - Thin Films",
+        "active": true,
+        "date_updated": 1780280823,
+        "date_posted": 1780135493,
+        "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-OR-Beaverton/Equipment-Engineering-Technician-1--Thin-Films_R263017",
+        "locations": [
+            "Beaverton, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Analog-Devices",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Huntington Ingalls Industries",
+        "id": "bc6983f8-6a9c-438e-a579-8b4f2339a712",
+        "title": "Software Development Engineer 2",
+        "active": true,
+        "date_updated": 1780281542,
+        "date_posted": 1780178731,
+        "url": "https://careers.huntingtoningalls.com/job/Newport-News-SOFTWARE-DEVELOPMENT-ENGINEER-2-Virg/1395362700/?ats=successfactors",
+        "locations": [
+            "Newport News, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Huntington-Ingalls-Industries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Iowa State University",
+        "id": "a05271a0-8ea8-441b-8161-116fd5133ce9",
+        "title": "Assistant Professor in Applied Linguistics and Artificial Intelligence - Artificial Intelligence",
+        "active": true,
+        "date_updated": 1780280823,
+        "date_posted": 1780131876,
+        "url": "https://isu.wd1.myworkdayjobs.com/IowaStateJobs/job/Ames-IA/Assistant-Professor-in-Applied-Linguistics-and-Artificial-Intelligence--AI-_R19304-1",
+        "locations": [
+            "Ames, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/Iowa-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "O'Reilly Auto Parts",
+        "id": "63a20165-295a-4be7-96f3-3d7652a32a3b",
+        "title": "Electronic Catalog Technician",
+        "active": true,
+        "date_updated": 1780281542,
+        "date_posted": 1780136522,
+        "url": "https://oreillyauto.wd1.myworkdayjobs.com/oreilly/job/Regional-Office-PHX/Electronic-Catalog-Technician_R183177",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/OReilly-Auto-Parts",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Walmart",
+        "id": "06d34ef0-ada4-4272-bd75-7f2378f14775",
+        "title": "Business Analysis and Insights Senior Analyst",
+        "active": true,
+        "date_updated": 1780281937,
+        "date_posted": 1780189770,
+        "url": "https://walmart.wd5.myworkdayjobs.com/Non-WorkdayInternal/job/USA-Always-AR-Bentonville-Home-Office/Senior-Analyst--Business-Analysis-and-Insights_R-2513623-2",
+        "locations": [
+            "Bentonville, AR"
+        ],
+        "company_url": "https://simplify.jobs/c/Walmart",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "ASML",
+        "id": "9da347bd-b8b9-42fa-9afa-6f82737b3299",
+        "title": "Upgrade Install and Relocation Engineer",
+        "active": true,
+        "date_updated": 1780280823,
+        "date_posted": 1780134656,
+        "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Austin-TX-USA/Upgrade-Install-and-Relocation-Engineer_J-00343279",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/ASML",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Boeing Company",
+        "id": "9cd54f54-d647-4af1-b6a6-9a167211e294",
+        "title": "Associate Software Engineer - Developers",
+        "active": true,
+        "date_updated": 1780280823,
+        "date_posted": 1780136003,
+        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Oklahoma-City-OK/Associate-Software-Engineer---Developers_JR2026512427-1",
+        "locations": [
+            "Oklahoma City, OK"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Citi",
+        "id": "8fcc9b4d-fda4-4e1d-9e69-c537e151c65e",
+        "title": "Python/Pyspark Programmer Analyst - Officer",
+        "active": true,
+        "date_updated": 1780280823,
+        "date_posted": 1780139212,
+        "url": "https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Python-Pyspark-Programmer-Analyst---Officer_26966174",
+        "locations": [
+            "Tampa, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Citigroup",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Lloyds Bank",
+        "id": "dc5b5973-fbb7-4d46-a5f0-a4ddc49be3a0",
+        "title": "Software Engineer 2",
+        "active": true,
+        "date_updated": 1780281183,
+        "date_posted": 1780134909,
+        "url": "https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Manchester/Software-Engineer-II_154389-1",
+        "locations": [
+            "Manchester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Lloyds-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "663ed937-487e-42f2-a4cd-03232e26911f",
+        "title": "Microelectronics Assembly Technician",
+        "active": true,
+        "date_updated": 1780281490,
+        "date_posted": 1780135865,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-ANDOVER-AR1--358-Lowell-St--AR1-DUKES-BLDG/Microelectronics-Assembly-Technician_01848874",
+        "locations": [
+            "Andover, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Ciena",
+        "id": "648ba845-240d-462c-ac86-b504c05d8c98",
+        "title": "Platform Software Developer New Grad",
+        "active": true,
+        "date_updated": 1780281220,
+        "date_posted": 1780135784,
+        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/Platform-Software-Developer---2026-New-Grads_R031084-1",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Ciena",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Foley & Lardner LLP",
+        "id": "e214fc5e-67ed-4913-9889-a90907a27b05",
+        "title": "Data Science Engineer",
+        "active": true,
+        "date_updated": 1780281183,
+        "date_posted": 1780006153,
+        "url": "https://careers-foley.icims.com/jobs/3500/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Foley",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Walt Disney Company",
+        "id": "bd3234a0-a086-40b2-943a-a90190067090",
+        "title": "Digital Research & Analytics Coordinator",
+        "active": true,
+        "date_updated": 1780281363,
+        "date_posted": 1780135854,
+        "url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/New-York-NY-USA/Coordinator--Digital-Research---Analytics_10151337",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Disney",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "The Boeing Company",
+        "id": "bab7743d-05f5-4072-9f9c-e8c884f239e5",
+        "title": "Test & Evaluation Lab Technician",
+        "active": true,
+        "date_updated": 1780280823,
+        "date_posted": 1780136275,
+        "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Smithfield-PA/Test---Evaluation-Lab-Technician--Associate-or-Experienced---Overnight-Shift-_JR2026511757",
+        "locations": [
+            "Smithfield, PA",
+            "Uniontown, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's",
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Wells Fargo",
+        "id": "a60073b3-5fde-4368-90b5-2a2ae9b68dac",
+        "title": "Business Execution Associate - Platform Trading Coaching",
+        "active": true,
+        "date_updated": 1780280823,
+        "date_posted": 1780136046,
+        "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/SAINT-LOUIS-MO/Business-Execution-Associate---Platform-Trading-Coaching_R-548638-1",
+        "locations": [
+            "Charlotte, NC",
+            "St. Louis, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Wells-Fargo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "a55935da-b978-41ed-b92f-6afb1cb03115",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1780281135,
+        "date_posted": 1780135874,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/XMLNAME-2026--Raytheon-Full-Time--Software-Engineer-I---Onsite-_01848697",
+        "locations": [
+            "Concord, MA",
+            "Tewksbury, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GE Appliances",
+        "id": "8b9e85b8-0cd3-4df7-97e9-62edc68a007a",
+        "title": "Edison Engineering Development Program - Edison Engineering Development Program - Software",
+        "active": true,
+        "date_updated": 1780281147,
+        "date_posted": 1780135207,
+        "url": "https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Edison-Engineering-Development-Program--EEDP----Software---July-2027_REQ-25807",
+        "locations": [
+            "Louisville, KY"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Appliances",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Argonne National Laboratory",
+        "id": "87ad8d5f-33d6-45f4-8a97-cd599e0ab714",
+        "title": "Postdoctoral Appointee - AI for Synchrotron Imaging",
+        "active": true,
+        "date_updated": 1780280823,
+        "date_posted": 1780134832,
+        "url": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---AI-for-Synchrotron-Imaging_422767",
+        "locations": [
+            "Woodridge, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Argonne-National-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Q2",
+        "id": "83d30405-bde1-4faf-b656-f7eee716c426",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1780280823,
+        "date_posted": 1780134802,
+        "url": "https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-TX/Software-Engineer_REQ-12023",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Q2Software",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Enterprise Bank & Trust",
+        "id": "c4e7cf22-f470-4847-b19d-513c59663df4",
+        "title": "Portfolio Analyst & Trader",
+        "active": true,
+        "date_updated": 1780280993,
+        "date_posted": 1780131748,
+        "url": "https://osv-enterprise.wd1.myworkdayjobs.com/EnterpriseBankTrust_Jobs/job/Clayton-MO/Portfolio-Analyst---Trader_REQ-5278",
+        "locations": [
+            "Clayton, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Enterprise-Bank-And-Trust",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
