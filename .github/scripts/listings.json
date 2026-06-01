@@ -331840,7 +331840,7 @@
         "company_name": "Micron Technology",
         "id": "d5375cbd-4343-4139-85de-7441b5d393e7",
         "title": "Metrology Applications Engineer New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1780268890,
         "date_posted": 1780135460,
         "url": "https://micron.wd1.myworkdayjobs.com/External/job/Manassas-VA----Fab-6/Metrology-Applications-Engineer_JR89915",
@@ -332123,7 +332123,7 @@
         "company_name": "ERM",
         "id": "d5c57bdf-b9e1-440f-8906-3392996a41e1",
         "title": "Consulting Associate - Site Investigation and Remediation Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1780277736,
         "date_posted": 1780139365,
         "url": "https://erm.wd3.myworkdayjobs.com/ERM_Careers/job/St-Louis-Missouri/Consulting-Associate--Site-Investigation-and-Remediation-Technician_R00030405-1",
@@ -332480,7 +332480,7 @@
         "company_name": "Foley & Lardner LLP",
         "id": "e214fc5e-67ed-4913-9889-a90907a27b05",
         "title": "Data Science Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1780281183,
         "date_posted": 1780006153,
         "url": "https://careers-foley.icims.com/jobs/3500/job?mobile=true&needsRedirect=false",
@@ -332646,7 +332646,7 @@
         "company_name": "Enterprise Bank & Trust",
         "id": "c4e7cf22-f470-4847-b19d-513c59663df4",
         "title": "Portfolio Analyst & Trader",
-        "active": true,
+        "active": false,
         "date_updated": 1780280993,
         "date_posted": 1780131748,
         "url": "https://osv-enterprise.wd1.myworkdayjobs.com/EnterpriseBankTrust_Jobs/job/Clayton-MO/Portfolio-Analyst---Trader_REQ-5278",
@@ -332799,6 +332799,106 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Canonical",
+        "id": "09b3d88e-b87b-4471-ba14-e4d3bbb4fbab",
+        "title": "Graduate Software Engineer - Open Source and Linux - Canonical Ubuntu",
+        "active": true,
+        "date_updated": 1780305136,
+        "date_posted": 1780304990,
+        "url": "https://job-boards.greenhouse.io/canonical/jobs/7957239",
+        "locations": [
+            "Remote in UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Canonical",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Hastings Direct",
+        "id": "386b9623-d15e-4d33-856c-5dca6abf7d9b",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1780305558,
+        "date_posted": 1780305308,
+        "url": "https://hastingsdirect.wd3.myworkdayjobs.com/external_careers/job/Bexhill/Data-Analyst---Junior---Senior-Opportunities-Available_60013465-1",
+        "locations": [
+            "Tunbridge Wells, UK",
+            "Leicester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Hastings-Direct",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GE Healthcare",
+        "id": "96ff7583-5a02-4c03-bc39-907d878c0278",
+        "title": "Field Service Engineer 1",
+        "active": true,
+        "date_updated": 1780305756,
+        "date_posted": 1780134745,
+        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1---Rochester--NY_R4041639-1",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Healthcare",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GE Healthcare",
+        "id": "d0c9719f-a3d9-4720-acc4-f89f17ec0609",
+        "title": "Lead Service Engineer",
+        "active": true,
+        "date_updated": 1780307361,
+        "date_posted": 1780134777,
+        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Lead-Service-Engineer_R4041301-1",
+        "locations": [
+            "Waukesha, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Healthcare",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "ASML",
+        "id": "be8d8d2a-8f30-431f-9d6b-5b5198153ad7",
+        "title": "Optical Fabrication Technician - CNC",
+        "active": true,
+        "date_updated": 1780306989,
+        "date_posted": 1780134707,
+        "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Optical-Fabrication-Technician--CNC--CWW-Back-End-Days_J-00338895-1",
+        "locations": [
+            "Wilton, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/ASML",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
             "Associate's"
         ]
     }
