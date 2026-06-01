@@ -2,48 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Jerry",
-        "id": "f4802c88-e6cc-4d90-b51b-ace60c6de0fe",
-        "title": "Software Engineer 1 - Multiple Teams",
-        "active": false,
-        "date_updated": 1759555131,
-        "date_posted": 1759555131,
-        "url": "https://jobs.ashbyhq.com/jerry.ai/e468884c-8d4d-443a-9110-43be11f3db04/application",
-        "locations": [
-            "Toronto, ON, Canada",
-            "Greater Toronto Area, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Jerry",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Jerry",
-        "id": "529d57c9-5ce6-4d4f-a357-73213169f979",
-        "title": "Software Engineer 1 - Multiple Teams",
-        "active": false,
-        "date_updated": 1759555103,
-        "date_posted": 1759555103,
-        "url": "https://jobs.ashbyhq.com/jerry.ai/678f16c5-9353-40c2-ab2a-8551ffa720eb/application",
-        "locations": [
-            "Palo Alto, CA",
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Jerry",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Jamf",
         "id": "7f025ceb-a858-44da-a732-adf161a3d098",
         "title": "Software Engineer I",
@@ -322929,7 +322887,7 @@
         "company_name": "Ontario Teachers' Pension Plan",
         "id": "03e7a793-bfec-4728-8f28-790333b47525",
         "title": "Investment Analyst - Real Estate",
-        "active": true,
+        "active": false,
         "date_updated": 1779830289,
         "date_posted": 1778922203,
         "url": "https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Investment-Analyst--Real-Estate_7005-1",
@@ -327513,7 +327471,7 @@
         "company_name": "Johnson & Johnson",
         "id": "0381d46e-4783-4035-9c66-611d5daf1afb",
         "title": "Performance Analytics & Reporting",
-        "active": true,
+        "active": false,
         "date_updated": 1779825962,
         "date_posted": 1779343540,
         "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/New-Brunswick-New-Jersey-United-States-of-America/Performance-Analytics---Reporting_R-074928-1",
