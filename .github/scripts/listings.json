@@ -1,51 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Salesforce",
-        "id": "fcb34217-b3f9-4df3-b09f-5661dc8d3a7e",
-        "title": "AI Forward Deployed Engineer \u2013 Early Career - Agentforce - Software Engineering",
-        "active": false,
-        "date_updated": 1761918861,
-        "date_posted": 1759592127,
-        "url": "https://salesforce.wd12.myworkdayjobs.com/en-us/External_Career_Site/job/Washington---Bellevue/AI-Forward-Deployed-Engineer--New-Grad-_JR312405-1",
-        "locations": [
-            "Boston, MA",
-            "Seattle, WA",
-            "Indianapolis, IN",
-            "Washington, DC",
-            "SF",
-            "Dallas, TX",
-            "Chicago, IL",
-            "NYC",
-            "Bellevue, WA",
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Salesforce",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software Engineering",
-        "company_name": "flexport",
-        "id": "eff76a88-c516-4dcd-b472-fe2e2a87d6ad",
-        "title": "Software Engineer 1 - Import Team",
-        "active": false,
-        "date_updated": 1759840918,
-        "date_posted": 1759593612,
-        "url": "https://boards.greenhouse.io/flexport/jobs/7275329",
-        "locations": [
-            "Bellevue, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Flexport",
-        "is_visible": false,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "General Motors",
         "id": "34668e73-8db2-4cf0-ba75-f0af0b7c0d66",
