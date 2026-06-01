@@ -240449,7 +240449,7 @@
         "company_name": "Life Fitness",
         "id": "79a4df81-c89c-4b7f-8604-2e6ce985da17",
         "title": "Embedded Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1774587050,
         "date_posted": 1774574837,
         "url": "https://lifefitness.wd1.myworkdayjobs.com/searchLFN/job/Schaumburg-IL-60173/Embedded-Software-Engineer-I_JR-024894",
@@ -250044,7 +250044,7 @@
         "company_name": "Franklin Templeton",
         "id": "7bf31ab8-bc49-419e-a312-2f85fc476b06",
         "title": "Investment Associate - Quantitative Research - FT Investment Solutions",
-        "active": false,
+        "active": true,
         "date_updated": 1775085042,
         "date_posted": 1775081371,
         "url": "https://franklintempleton.wd5.myworkdayjobs.com/invitation-only/job/Boston-Massachusetts-United-States-of-America/Investment-Associate--Quantitative-Research---FT-Investment-Solutions-_862786-2",
@@ -331978,5 +331978,23 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "NatWest Group",
+        "id": "d9d98718-3266-4066-a180-d6d84556794c",
+        "title": "Tech Insight Experience for Women - Engineering",
+        "active": true,
+        "date_updated": 1780272183,
+        "date_posted": 1780132193,
+        "url": "https://rbs.wd3.myworkdayjobs.com/rbs/job/Edinburgh/Tech-Insight-Experience-for-Women---Engineering_R-00276058",
+        "locations": [
+            "Edinburgh, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/791af8de-7786-4aa2-b51d-9dfed06c6b21",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
