@@ -305627,7 +305627,7 @@
         "company_name": "Leidos",
         "id": "cf0ad3ea-ccd1-485b-8155-ec66a6e4a8a4",
         "title": "Electronics Technician 1",
-        "active": false,
+        "active": true,
         "date_updated": 1778595470,
         "date_posted": 1778594798,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Chesapeake-VA/Electronics-Technician-1_R-00183035",
@@ -306614,7 +306614,7 @@
         "company_name": "Smithfield Foods",
         "id": "d6d50717-972f-4ea9-b3e3-b9edfc06dddb",
         "title": "AI Enablement Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1778721088,
         "date_posted": 1778720817,
         "url": "https://smithfieldfoods.wd1.myworkdayjobs.com/Careers/job/Smithfield-VA/AI-Enablement-Analyst_R-2026-6355",
@@ -307079,7 +307079,7 @@
         "company_name": "Granite Construction",
         "id": "861c4ae2-a3ce-4807-9027-cabfd43edb20",
         "title": "Regional Technology Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1778708881,
         "date_posted": 1778623812,
         "url": "https://granite.wd1.myworkdayjobs.com/careers/job/Watsonville-California/Regional-Technology-Associate_R0000007424-1",
@@ -308609,7 +308609,7 @@
         "company_name": "PGIM",
         "id": "86f04dd0-d6f4-4e46-92c8-e3bb361f7ee6",
         "title": "Data Analyst - Process Management",
-        "active": false,
+        "active": true,
         "date_updated": 1778767741,
         "date_posted": 1778767566,
         "url": "https://pru.wd5.myworkdayjobs.com/pgim_careers/job/Letterkenny-Ireland/Data-Analyst---Process-Management--12-Month-FTC----PGIM-Ireland_R-124338",
@@ -330361,7 +330361,7 @@
         "company_name": "Boys Town",
         "id": "8370875c-fa61-42ea-86ca-abb97caf9035",
         "title": "Software Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1779959738,
         "date_posted": 1779527988,
         "url": "https://boystown.wd1.myworkdayjobs.com/boystowncareers/job/Omaha-NE/Software-Developer--On-Site-_REQ-2026-8587-2",
@@ -330727,7 +330727,7 @@
         "company_name": "Intel",
         "id": "ec68d769-8829-4b6b-be8d-eb379045da63",
         "title": "GPU Software Development Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1779963060,
         "date_posted": 1779529092,
         "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/GPU-Software-Development-Engineer_JR0283800",
@@ -332202,5 +332202,43 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northrop Grumman",
+        "id": "b16a8752-b832-4531-9ea3-8374655b6b23",
+        "title": "SCA Engineering Technician 1",
+        "active": true,
+        "date_updated": 1780277233,
+        "date_posted": 1780135506,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Georgia-Warner-Robins/SCA-Engineering-Technician-1_R10232688",
+        "locations": [
+            "Warner Robins, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ERM",
+        "id": "d5c57bdf-b9e1-440f-8906-3392996a41e1",
+        "title": "Consulting Associate - Site Investigation and Remediation Technician",
+        "active": true,
+        "date_updated": 1780277736,
+        "date_posted": 1780139365,
+        "url": "https://erm.wd3.myworkdayjobs.com/ERM_Careers/job/St-Louis-Missouri/Consulting-Associate--Site-Investigation-and-Remediation-Technician_R00030405-1",
+        "locations": [
+            "St. Louis, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/ERM",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
