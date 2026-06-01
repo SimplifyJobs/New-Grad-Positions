@@ -112780,7 +112780,7 @@
         "company_name": "AIG",
         "id": "15b8faeb-fdc3-4ac9-bc43-a62179655afe",
         "title": "Early Career - Gen AI - Data Science Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1767828080,
         "date_posted": 1767828080,
         "url": "https://aig.wd1.myworkdayjobs.com/aig/job/GA-Atlanta/XMLNAME-2026-Early-Career---Gen-AI---Data-Science-Analyst---United-States--Atlanta--GA--_JR2505608-1",
@@ -275756,7 +275756,7 @@
         "company_name": "Arthur Grand Technologies",
         "id": "f75f0ef0-4976-4878-ac6d-176ddeea0c1c",
         "title": "Syteline ERP Support",
-        "active": true,
+        "active": false,
         "date_updated": 1776463381,
         "date_posted": 1776463360,
         "url": "https://jobs.smartrecruiters.com/ArthurGrandTechnologiesInc/744000121473057",
@@ -297020,7 +297020,7 @@
         "company_name": "Rogers Behavioral Health",
         "id": "866dfdeb-427f-40f5-9c92-cabe2dd6c658",
         "title": "Therapist \u2013 Child & Adolescent",
-        "active": false,
+        "active": true,
         "date_updated": 1778019153,
         "date_posted": 1778018743,
         "url": "https://rogersbh.wd1.myworkdayjobs.com/rbhcareer/job/St-Paul-Clinic-Woodbury-MN/Therapist---Child---Adolescent---PHP-IOP_R7031",
@@ -302339,7 +302339,7 @@
         "company_name": "Zurn Elkay Water Solutions",
         "id": "b4cd2491-2c5f-4f02-a62b-dd4b778f9fc5",
         "title": "Application Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1778193523,
         "date_posted": 1778191481,
         "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Paso-Robles-CA/Application-Engineer_REQ-019650",
@@ -332103,6 +332103,102 @@
             "Minot, ND"
         ],
         "company_url": "https://simplify.jobs/c/Baker-Hughes",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "AIG",
+        "id": "0401a918-a65b-4a99-be11-a76a18dd70c6",
+        "title": "Data Science Analyst - Gen AI - Data Science Analyst",
+        "active": true,
+        "date_updated": 1780276685,
+        "date_posted": 1780276147,
+        "url": "https://aig.wd1.myworkdayjobs.com/en-US/early_careers/job/GA-Atlanta/XMLNAME-2026-Early-Career---Gen-AI---Data-Science-Analyst---United-States--Atlanta--GA--_JR2505608",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/AIG",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Blue Origin",
+        "id": "a4571ee0-ee0e-4d75-be59-e1ebf31245a8",
+        "title": "Assembly & Integration Technician - Assembly & Integration - Engines",
+        "active": true,
+        "date_updated": 1780276574,
+        "date_posted": 1780132131,
+        "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Huntsville-AL/Technician---Assembly---Integration--Engines-_R64419",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Blue-Origin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RELX",
+        "id": "791387db-60c1-4cb6-9d94-034cd3090e20",
+        "title": "Tech Consulting - ERP Apps Specialist I",
+        "active": true,
+        "date_updated": 1780276627,
+        "date_posted": 1780136028,
+        "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Remote---USA---Nationwide/Tech-Consulting---ERP-Apps-Specialist-I_R112427-1",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/RELX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Citi",
+        "id": "d393479c-e4a9-4d16-bd37-a3831cc989f3",
+        "title": "Analytics Analyst",
+        "active": true,
+        "date_updated": 1780275579,
+        "date_posted": 1780137750,
+        "url": "https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/F-S-Analytics---Analyst_26960761",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Citigroup",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Likewize",
+        "id": "b34c4298-8983-428d-8af2-3ee5b1d8598b",
+        "title": "Mobile Repair Technician",
+        "active": true,
+        "date_updated": 1780275063,
+        "date_posted": 1780139184,
+        "url": "https://likewize.wd1.myworkdayjobs.com/en-US/External/job/Device-Protection-Canada---Remote/Mobile-Repair-Technician---Calgary--Alberta_R-1350",
+        "locations": [
+            "Calgary, AB, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/519b47ce-ff84-4832-85b9-25e0fb0988bb",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
