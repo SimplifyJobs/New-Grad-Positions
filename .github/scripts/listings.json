@@ -220369,7 +220369,7 @@
         "company_name": "nVent",
         "id": "a71590f2-2c07-4e4c-aefe-dd5da0b5ee4a",
         "title": "Associate R&D Lab Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1773443645,
         "date_posted": 1773443645,
         "url": "https://nvent.wd5.myworkdayjobs.com/en-US/nVent/job/Anoka-MN-US/Associate-R-D-Lab-Technician_R20953",
@@ -225072,7 +225072,7 @@
         "company_name": "University of Arkansas",
         "id": "d004a30f-6408-4997-bf70-b4e49e9e1520",
         "title": "Cosmos Extra Help Assistant 2",
-        "active": false,
+        "active": true,
         "date_updated": 1773786842,
         "date_posted": 1773786842,
         "url": "https://uasys.wd5.myworkdayjobs.com/uasys/job/Little-Rock/COSMOS---Extra-Help-Assistant-II_R0082222",
@@ -227426,7 +227426,7 @@
         "company_name": "Intel",
         "id": "6256c28e-e7a4-48ec-a176-451983be78a3",
         "title": "GPU Software Development Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773902750,
         "date_posted": 1773902750,
         "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/GPU-Software-Development-Engineer_JR0282186",
@@ -227447,7 +227447,7 @@
         "company_name": "Intel",
         "id": "a8040ee1-f2f3-49f4-aeca-1c51f512414e",
         "title": "GPU Software Development Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773902751,
         "date_posted": 1773902751,
         "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/GPU-Software-Development-Engineer_JR0282189",
@@ -233351,7 +233351,7 @@
         "company_name": "Leidos",
         "id": "8741a52e-0aaf-43bb-949a-85b23902a433",
         "title": "Software Engineer TS/SCI Poly",
-        "active": false,
+        "active": true,
         "date_updated": 1774318559,
         "date_posted": 1774318559,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Software-Engineer-TS-SCI-Poly_R-00179080",
@@ -235986,7 +235986,7 @@
         "company_name": "University of Arkansas",
         "id": "ad639ce0-562f-40b2-8d29-ea4c866cea6e",
         "title": "Cosmos Graduate Research Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1773813920,
         "date_posted": 1773813920,
         "url": "https://uasys.wd5.myworkdayjobs.com/uasys/job/Little-Rock/COSMOS---Graduate-Research-Assistant--Researcher-_R0053889-2",
@@ -246684,7 +246684,7 @@
         "company_name": "Thermo Fisher Scientific",
         "id": "ba2211a6-3041-48aa-9111-edebe44105f2",
         "title": "Field Service Engineer 1 - Asset Management",
-        "active": false,
+        "active": true,
         "date_updated": 1774999551,
         "date_posted": 1774479122,
         "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/West-Greenwich-Rhode-Island-USA/Field-Service-Engineer-I--Asset-Management-_R-01345001",
@@ -330381,7 +330381,7 @@
         "company_name": "Thermo Fisher Scientific",
         "id": "752bfe0d-dbe5-4d4d-9c60-2ae61c5453cc",
         "title": "Field Service Engineer - Em",
-        "active": false,
+        "active": true,
         "date_updated": 1779959052,
         "date_posted": 1778942817,
         "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Fremont-California-USA/Field-Service-Engineer--EM--Fremont--CA-_R-01346012",
@@ -331956,6 +331956,27 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "General Motors",
+        "id": "a949f780-0ff6-4438-83e2-a09c88954fec",
+        "title": "Software Developer \u2013 Early Career",
+        "active": true,
+        "date_updated": 1780035482,
+        "date_posted": 1778945320,
+        "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Markham-Ontario-Canada/Software-Developer---Early-Career_JR-202518755",
+        "locations": [
+            "Markham, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Motors",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
