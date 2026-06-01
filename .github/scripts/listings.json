@@ -1,28 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "General Motors",
-        "id": "34668e73-8db2-4cf0-ba75-f0af0b7c0d66",
-        "title": "Software Developer \u2013 Early Career",
-        "active": true,
-        "date_updated": 1759600127,
-        "date_posted": 1759600127,
-        "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Markham-Ontario-Canada/Software-Developer---Early-Career_JR-202518896",
-        "locations": [
-            "Markham, ON, Canada",
-            "Oshawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/General-Motors",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "Belden",
         "id": "1cdbed4d-36a1-41bd-8f31-920f34589d2e",
@@ -295449,7 +295427,7 @@
         "company_name": "LVT",
         "id": "47d7d8f7-67c9-46ed-b62d-5b210c7f9194",
         "title": "Sensor Integration Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1777933981,
         "date_posted": 1776896054,
         "url": "https://job-boards.greenhouse.io/liveviewtechnologiesinc/jobs/5191131008",
@@ -315415,7 +315393,7 @@
         "company_name": "Sparksoft",
         "id": "3cf302a2-7600-40f1-959b-b7c9e3aa3c33",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1779315661,
         "date_posted": 1779315564,
         "url": "https://job-boards.greenhouse.io/sparksoftcorporation/jobs/5142894007",
@@ -320308,7 +320286,7 @@
         "company_name": "Mass General Brigham",
         "id": "3f78698c-70bd-4d7a-be75-aca4c9fad6fc",
         "title": "Research Assistant 1 - Trauma Imaging - Radiology",
-        "active": true,
+        "active": false,
         "date_updated": 1779829562,
         "date_posted": 1778942808,
         "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Boston-MA/Research-Assistant-I--Trauma-Imaging--Radiology_RQ4062721",
@@ -325701,7 +325679,7 @@
         "company_name": "Leidos",
         "id": "4487e744-9fe5-4ec3-8974-45e80eb8313c",
         "title": "Service Desk Tier 1 Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1779871360,
         "date_posted": 1778943230,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Norfolk-VA/SMIT-Service-Desk-Tier-1-Technican_R-00176498",
