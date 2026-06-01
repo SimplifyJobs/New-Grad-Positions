@@ -1,29 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "StubHub",
-        "id": "40f962b2-346b-422c-a1d0-8bf9e0bf3c4e",
-        "title": "Software Engineer 1 \u2013 New Grad - AI Platform",
-        "active": false,
-        "date_updated": 1759559871,
-        "date_posted": 1759559871,
-        "url": "https://job-boards.eu.greenhouse.io/stubhubinc/jobs/4685640101",
-        "locations": [
-            "Aliso Viejo, CA",
-            "Santa Monica, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/StubHub",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Cox",
         "id": "be6c567d-05ad-465d-b24b-e90f8d68692b",
@@ -292330,7 +292307,7 @@
         "company_name": "Western Digital",
         "id": "678b8d7f-ebd1-46c2-810e-369033816a7e",
         "title": "Software Engineer - Apps",
-        "active": false,
+        "active": true,
         "date_updated": 1777586761,
         "date_posted": 1777586631,
         "url": "https://jobs.smartrecruiters.com/WesternDigital/744000124012539",
@@ -306960,9 +306937,9 @@
         "source": "Simplify",
         "category": "Software",
         "company_name": "ServiceNow",
-        "id": "b3ed9e95-62a3-4499-b1b0-38840f1f4711",
+        "id": "ce260f13-eca8-4ce4-b243-d56296546ce9",
         "title": "Software Engineer - Agentic AI Systems - Moveworks",
-        "active": false,
+        "active": true,
         "date_updated": 1778720941,
         "date_posted": 1778720777,
         "url": "https://jobs.smartrecruiters.com/ServiceNow/744000126417779",
@@ -325227,7 +325204,7 @@
         "company_name": "Harvard University",
         "id": "8ff9f7a3-dcc0-41fc-921c-3637e2f3a14a",
         "title": "Research Associate - General",
-        "active": true,
+        "active": false,
         "date_updated": 1779826685,
         "date_posted": 1779689072,
         "url": "https://jobs.smartrecruiters.com/HarvardUniversity/3743990013259557",
@@ -332697,6 +332674,26 @@
             "Malvern, PA"
         ],
         "company_url": "https://simplify.jobs/c/Vanguard",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Booz Allen",
+        "id": "263902c5-c497-4177-866e-3f4315928a12",
+        "title": "Electronics Technician",
+        "active": true,
+        "date_updated": 1780274343,
+        "date_posted": 1778943966,
+        "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Panama-City-FL/Electronics-Technician_R0238920",
+        "locations": [
+            "Panama City, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Booz-Allen",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
