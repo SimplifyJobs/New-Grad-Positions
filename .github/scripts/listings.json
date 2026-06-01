@@ -272638,7 +272638,7 @@
         "company_name": "GE Healthcare",
         "id": "9df5e2b3-ff4d-403c-aadd-0e2e177b2139",
         "title": "MR Field Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1776302844,
         "date_posted": 1776301614,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/MR---Field-Engineer-1_R4039398-1",
@@ -285776,7 +285776,7 @@
         "company_name": "Intel",
         "id": "85623b9c-9177-437c-bf19-f017a585cad2",
         "title": "Linux Kernel Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1776982690,
         "date_posted": 1776981984,
         "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Folsom/Linux-Kernel-Engineer_JR0282847",
@@ -288963,7 +288963,7 @@
         "company_name": "Priceline",
         "id": "a2c49b6b-8470-421d-9534-d51cb85c1549",
         "title": "Associate Data Developer - Fintech",
-        "active": false,
+        "active": true,
         "date_updated": 1777331590,
         "date_posted": 1777327653,
         "url": "https://priceline.wd1.myworkdayjobs.com/Priceline/job/Toronto/Associate-Data-Developer--FinTech_R5619",
@@ -290914,7 +290914,7 @@
         "company_name": "Semtech",
         "id": "7b6c0417-a7c9-4f6f-b819-56e9b9454b5f",
         "title": "Staff Characterisation Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1777471728,
         "date_posted": 1777471521,
         "url": "https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/GBR---Bristol/Staff-Characterisation-Engineer_REQ3285",
@@ -295096,7 +295096,7 @@
         "company_name": "CoStar Group",
         "id": "d36f8484-ae42-463f-be8c-029a9dbeeeeb",
         "title": "Software Engineer 1 - C#/.NET/Database",
-        "active": false,
+        "active": true,
         "date_updated": 1777713742,
         "date_posted": 1777713202,
         "url": "https://costar.wd1.myworkdayjobs.com/en-US/CoStarCareers/job/Orange-County---CA/Apartmentscom---Software-Engineer-I--C--NET-Database-_R38698",
@@ -319821,7 +319821,7 @@
         "company_name": "The Federal Reserve System",
         "id": "e491e331-9f07-40c3-9189-9f3ed1d074ad",
         "title": "Research Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1779820021,
         "date_posted": 1779528349,
         "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Chicago-IL/Research-Assistant_R-0000032112-1",
@@ -325666,7 +325666,7 @@
         "company_name": "The Federal Reserve System",
         "id": "aeb5fe0b-d1f9-4fc1-9f2d-1162a41e2b07",
         "title": "Research Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1779875178,
         "date_posted": 1779615193,
         "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Minneapolis-MN/Research-Assistant_R-0000031995-1",
@@ -331993,6 +331993,116 @@
             "Edinburgh, UK"
         ],
         "company_url": "https://simplify.jobs/c/791af8de-7786-4aa2-b51d-9dfed06c6b21",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Leidos",
+        "id": "c2ced759-415c-4430-971e-4945e24dcfcc",
+        "title": "Electronics Mechanical Assembly Technician",
+        "active": true,
+        "date_updated": 1780275161,
+        "date_posted": 1780134819,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Electronics-Mechanical-Assembly-Technician_R-00182031",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Deluxe Media",
+        "id": "70029fc4-6d0b-4b77-8799-2586055944cf",
+        "title": "Cinema Projection Systems Engineer",
+        "active": true,
+        "date_updated": 1780275138,
+        "date_posted": 1780131813,
+        "url": "https://bydeluxe.wd5.myworkdayjobs.com/en-US/Deluxe_External/job/US-CA-Burbank/Cinema-Projection-Systems-Engineer_R0016104",
+        "locations": [
+            "Burbank, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Deluxe-Media",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "RTX",
+        "id": "e739e2f1-b776-4dd0-a1e8-e2b24a8ac460",
+        "title": "Configuration Management Specialist",
+        "active": true,
+        "date_updated": 1780274571,
+        "date_posted": 1780139378,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-ON-MIDLAND-450--450-Leitz-Rd--BLDG-450/Configuration-Management-Specialist_01840354",
+        "locations": [
+            "Barrie, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Brink",
+        "id": "a999a49c-402d-44ce-b35b-d60c89144761",
+        "title": "ATM Technician",
+        "active": true,
+        "date_updated": 1780274470,
+        "date_posted": 1780131751,
+        "url": "https://brinks.wd5.myworkdayjobs.com/brinkscareersus/job/Baton-Rouge-LA/ATM-Technician_R72782",
+        "locations": [
+            "Baton Rouge, LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Brink",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Henry Schein",
+        "id": "8736952e-0db4-4cdd-b950-1948b077fd94",
+        "title": "Small Equipment Technician",
+        "active": true,
+        "date_updated": 1780273623,
+        "date_posted": 1780134523,
+        "url": "https://henryschein.wd1.myworkdayjobs.com/External_Careers/job/Lenexa---Kansas/Small-Equipment-Technician_R133255",
+        "locations": [
+            "Lenexa, KS"
+        ],
+        "company_url": "https://simplify.jobs/c/Henry-Schein",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Baker Hughes",
+        "id": "4b19ab4c-e9b0-4e50-88e8-03924840f08d",
+        "title": "Armo Tech \u2013 Electro Mech 1",
+        "active": true,
+        "date_updated": 1780273818,
+        "date_posted": 1780134563,
+        "url": "https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/US-ND-MINOT-4525-8TH-ST-NW/ARMO-Tech---Electro-Mech-I_R163327",
+        "locations": [
+            "Minot, ND"
+        ],
+        "company_url": "https://simplify.jobs/c/Baker-Hughes",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
