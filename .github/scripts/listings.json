@@ -2,27 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Jamf",
-        "id": "7f025ceb-a858-44da-a732-adf161a3d098",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1759556788,
-        "date_posted": 1759556788,
-        "url": "https://www.jamf.com/about/careers/jobs/?gh_jid=5664065004&gh_jid=5664065004",
-        "locations": [
-            "Eau Claire, WI",
-            "Minneapolis, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Jamf",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "StubHub",
         "id": "40f962b2-346b-422c-a1d0-8bf9e0bf3c4e",
         "title": "Software Engineer 1 \u2013 New Grad - AI Platform",
@@ -220329,7 +220308,7 @@
         "company_name": "1X",
         "id": "612596b6-9042-4431-a1c0-35d64314813a",
         "title": "Electrical Harness Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1773451237,
         "date_posted": 1773451237,
         "url": "https://1x.recruitee.com/o/electrical-harness-technician",
@@ -281551,7 +281530,7 @@
         "company_name": "The Boeing Company",
         "id": "3b12bea1-df70-4adc-9971-e5eca8fbe56e",
         "title": "Software Engineer-Secure Networks & Protocols",
-        "active": true,
+        "active": false,
         "date_updated": 1776763261,
         "date_posted": 1776763117,
         "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Oklahoma-City-OK/Software-Engineer-Secure-Networks---Protocols--Associate-or-Experienced-_JR2026492009",
@@ -323721,7 +323700,7 @@
         "company_name": "The Boeing Company",
         "id": "75f5cfec-2bd6-40e2-8622-a4724c94d1b1",
         "title": "Flight Simulation Software Engineer Senior",
-        "active": true,
+        "active": false,
         "date_updated": 1779822541,
         "date_posted": 1779529236,
         "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Daytona-Beach-FL/Flight-Simulation-Software-Engineer--Associate--Experienced--and-Senior-_JR2026510755",
