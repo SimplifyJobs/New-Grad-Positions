@@ -5908,24 +5908,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Fanatics",
-        "id": "b766c7e5-1884-493c-8d76-e2828143aefe",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1759590465,
-        "date_posted": 1759590465,
-        "url": "https://fa-exki-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25033",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Fanatics",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "WeRide",
         "id": "16ee2336-f35a-4235-8a82-561d46b32693",
@@ -41514,25 +41496,6 @@
             "Effingham, IL"
         ],
         "company_url": "https://simplify.jobs/c/Rural-King",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Stryker",
-        "id": "60ac6e95-7e39-4853-991c-373092576e79",
-        "title": "Associate Installation Technician - Indiana",
-        "active": false,
-        "date_updated": 1759590437,
-        "date_posted": 1759590437,
-        "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Indianapolis-Indiana/Associate-Installation-Technician---Indiana_R551526",
-        "locations": [
-            "Indianapolis, IN",
-            "South Bend, IN"
-        ],
-        "company_url": "https://simplify.jobs/c/Stryker",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -107055,25 +107018,6 @@
             "Columbus, OH"
         ],
         "company_url": "https://simplify.jobs/c/RWS",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "FM Global",
-        "id": "e2240a20-567a-451f-8fa3-df028b2c4ca5",
-        "title": "Investment Analyst - Portfolio Construction",
-        "active": false,
-        "date_updated": 1767406481,
-        "date_posted": 1759590240,
-        "url": "https://jobs-fmglobal.icims.com/jobs/16121/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Boston, MA",
-            "Waltham, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/FM-Global",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -326152,7 +326096,7 @@
         "company_name": "Hologic",
         "id": "de9372dc-6b57-4334-8720-c1e9488a28df",
         "title": "Field Service Representative",
-        "active": true,
+        "active": false,
         "date_updated": 1779837662,
         "date_posted": 1779833118,
         "url": "https://ebwb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/11737",
