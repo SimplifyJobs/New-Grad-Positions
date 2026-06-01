@@ -248699,7 +248699,7 @@
         "company_name": "Fortinet",
         "id": "2cffa18e-22e5-404c-959e-db78d84ecbda",
         "title": "Applied AI Engineer - AI Agent",
-        "active": false,
+        "active": true,
         "date_updated": 1775038587,
         "date_posted": 1770851386,
         "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22125",
@@ -268255,7 +268255,7 @@
         "company_name": "Verition Fund Management",
         "id": "f39f9dd5-54dd-4bb0-9dbe-7be9f2d325ba",
         "title": "Trading Assistant - Credit",
-        "active": true,
+        "active": false,
         "date_updated": 1776120499,
         "date_posted": 1776118120,
         "url": "https://www.verition.com/open-positions?gh_jid=5106055007",
@@ -300148,7 +300148,7 @@
         "company_name": "Datalab USA",
         "id": "d9d6e2fd-1b1c-46e2-a2b8-40861c78c75c",
         "title": "Programmer Analyst - Marketing Analytics",
-        "active": true,
+        "active": false,
         "date_updated": 1778105161,
         "date_posted": 1778105149,
         "url": "https://jobs.lever.co/datalabusa/a776f9e3-87de-4332-a5a0-94fcfda3d746/apply",
@@ -304382,7 +304382,7 @@
         "company_name": "Cerebras",
         "id": "7df70f7c-9b0e-471f-b7bc-c63b20ee3f1b",
         "title": "ML Stack Optimization Engineer New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1778538935,
         "date_posted": 1778537445,
         "url": "https://boards.greenhouse.io/embed/job_app?token=7620986003",
@@ -314424,7 +314424,7 @@
         "company_name": "Uber",
         "id": "fe4fe997-8c78-4f75-ab2a-12a87066a43d",
         "title": "Graduate PhD Scientist 2",
-        "active": true,
+        "active": false,
         "date_updated": 1779271446,
         "date_posted": 1777885543,
         "url": "https://www.uber.com/global/en/careers/list/158984/",
@@ -332147,7 +332147,7 @@
         "company_name": "The Walt Disney Company",
         "id": "bd3234a0-a086-40b2-943a-a90190067090",
         "title": "Digital Research & Analytics Coordinator",
-        "active": true,
+        "active": false,
         "date_updated": 1780281363,
         "date_posted": 1780135854,
         "url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/New-York-NY-USA/Coordinator--Digital-Research---Analytics_10151337",
@@ -334003,6 +334003,428 @@
             "Long Beach, CA"
         ],
         "company_url": "https://simplify.jobs/c/Relativity-Space",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "c36abd8b-4428-45a5-8ca0-c1c89e966238",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1780353453,
+        "date_posted": 1780351840,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/XMLNAME-2026-Raytheon-Full-Time--Software-Engineer-I---Onsite-_01849599",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Best Buy",
+        "id": "ae3ea59f-70d7-4de1-8dac-f8e34e9abfa1",
+        "title": "Field Technical Service Representative - Home Technical Services",
+        "active": true,
+        "date_updated": 1780352924,
+        "date_posted": 1780351608,
+        "url": "https://bestbuycanada.wd3.myworkdayjobs.com/BestBuyCA_Career/job/10084-Anjou/Reprsentant-e--des-services-techniques--domicile--Temps-plein----Field-Technical-Service-Representative--Full-Time-_R-50723",
+        "locations": [
+            "Longueuil, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Best-Buy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Rakuten International",
+        "id": "85bb55de-6617-449c-8466-809bcfec537d",
+        "title": "Early Career AI Engineer",
+        "active": true,
+        "date_updated": 1780352281,
+        "date_posted": 1780351655,
+        "url": "https://rakuten.wd1.myworkdayjobs.com/en-US/RakutenAmericas/job/Bellevue-Washington/Intern---Software-Engineering--AI-User-Experience_1031936",
+        "locations": [
+            "San Mateo, CA",
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Rakuten-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cisco",
+        "id": "7ae13296-97a8-49a6-b2e3-2d55c44d4c99",
+        "title": "Software Engineer Data/AI/Intelligent Systems 1",
+        "active": true,
+        "date_updated": 1780353101,
+        "date_posted": 1780351681,
+        "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Data-AI-Intelligent-Systems-I--Full-Time----United-States_2000073",
+        "locations": [
+            "Boston, MA",
+            "Knoxville, TN",
+            "Milpitas, CA",
+            "Austin, TX",
+            "San Jose, CA",
+            "Fulton, MD",
+            "Dallas, TX",
+            "Hillsboro, OR",
+            "Alpharetta, GA",
+            "NYC",
+            "Acton, MA",
+            "Research Triangle, Durham, NC",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cisco",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's",
+            "Bootcamp",
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "NVIDIA",
+        "id": "7301a154-5982-4638-9f1c-c66765ec739b",
+        "title": "Deep Learning Computer Architect New Grad",
+        "active": true,
+        "date_updated": 1780353229,
+        "date_posted": 1780351702,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Computer-Architect---New-College-Grad-2026_JR2019178",
+        "locations": [
+            "Redmond, WA",
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Caterpillar Inc.",
+        "id": "641935e8-74f0-41c7-9288-51a63a3346a8",
+        "title": "Business Intelligence Analyst",
+        "active": true,
+        "date_updated": 1780353001,
+        "date_posted": 1780351834,
+        "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chicago-Illinois/Business-Intelligence-Analyst_R0000372161",
+        "locations": [
+            "Peoria, IL",
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Caterpillar-Inc",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cisco",
+        "id": "05cbc611-560c-4df1-a090-b3026272cc5a",
+        "title": "Software Engineer Full Stack & Application Development 2",
+        "active": true,
+        "date_updated": 1780353107,
+        "date_posted": 1780351681,
+        "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Full-Stack---Application-Development-II--Full-Time----United-States_2000127",
+        "locations": [
+            "Boston, MA",
+            "Knoxville, TN",
+            "Milpitas, CA",
+            "Austin, TX",
+            "San Jose, CA",
+            "Fulton, MD",
+            "Dallas, TX",
+            "Hillsboro, OR",
+            "Alpharetta, GA",
+            "NYC",
+            "Acton, MA",
+            "Research Triangle, Durham, NC",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cisco",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's",
+            "Bootcamp",
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "NBCUniversal",
+        "id": "e7fce32c-1b21-41ab-972d-c708ed0a8251",
+        "title": "Software Engineer - Live and Interactive",
+        "active": true,
+        "date_updated": 1780351561,
+        "date_posted": 1780351499,
+        "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000129584617",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/NBCUniversal",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "U.S. Venture",
+        "id": "76eee698-30a4-411a-bd31-c9813bf1f4a0",
+        "title": "Backend Software Engineer 2",
+        "active": true,
+        "date_updated": 1780353357,
+        "date_posted": 1780351798,
+        "url": "https://usventure.wd1.myworkdayjobs.com/usvexternal/job/WI---Appleton/Backend-Software-Engineer-II_R7463",
+        "locations": [
+            "Appleton, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/US-Venture",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Best Buy",
+        "id": "4b18438a-8486-404c-bf8c-951ed22c7e5d",
+        "title": "Representative - Field Technical Service Representative - Des services techniques \u00e0 domicile",
+        "active": true,
+        "date_updated": 1780352915,
+        "date_posted": 1780351608,
+        "url": "https://bestbuycanada.wd3.myworkdayjobs.com/BestBuyCA_Career/job/11967-LaSalle/Reprsentant-e--des-services-techniques--domicile--Temps-plein----Field-Technical-Service-Representative--Full-Time-_R-50722",
+        "locations": [
+            "Dearborn, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Best-Buy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Texas A&M University System",
+        "id": "25b1f7ab-dbe5-442c-8aa4-93cbecdc0a4c",
+        "title": "Defensive Analyst - Football",
+        "active": true,
+        "date_updated": 1780351561,
+        "date_posted": 1780351510,
+        "url": "https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/Prairie-View-TX/Defensive-Analyst--Football-_R-093670",
+        "locations": [
+            "Prairie View, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Texas-AM-University-System",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Marvell",
+        "id": "251ae0a3-b247-4bba-b985-e7a42dda28cd",
+        "title": "Systems Application Engineer \u2013 Early Career",
+        "active": true,
+        "date_updated": 1780352281,
+        "date_posted": 1780351593,
+        "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Systems-Application-Engineer---Early-Career_2602267",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Marvell",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Ohio State University",
+        "id": "1f98dc19-72b1-4448-a648-260068c21bbb",
+        "title": "Research Technician",
+        "active": true,
+        "date_updated": 1780351561,
+        "date_posted": 1780351486,
+        "url": "https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Columbus-Campus/Research-Technician_R151613-1",
+        "locations": [
+            "Columbus, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Ohio-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "e61bd241-53c2-42ba-bd4f-b70656950db1",
+        "title": "Radio Frequency Engineer 1",
+        "active": true,
+        "date_updated": 1780352972,
+        "date_posted": 1780351638,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MS-FOREST-430--19859-Hwy-80--BLDG-430/RF-Engineer-I--Onsite--TX_01849410",
+        "locations": [
+            "Mississippi"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "LHB",
+        "id": "74b81d2f-c778-4615-9e0a-3a5ea0d9528c",
+        "title": "Climate Solutions Research Assistant",
+        "active": true,
+        "date_updated": 1780353031,
+        "date_posted": 1780351661,
+        "url": "https://careers-lhbcorp.icims.com/jobs/1933/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Duluth, MN",
+            "Minneapolis, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/LHB",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "BlackRock",
+        "id": "b17abdd6-e0ee-4142-89a9-7e399920a09c",
+        "title": "Portfolio Risk Quantitative Modeler - Associate - Aladdin Financial Engineering",
+        "active": true,
+        "date_updated": 1780352993,
+        "date_posted": 1780351646,
+        "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/New-York-NY/Portfolio-Risk-Quantitative-Modeler--Associate---Aladdin-Financial-Engineering_R264623",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/BlackRock",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "General Motors",
+        "id": "95fe52bd-6718-4467-a2b0-76f1071db57d",
+        "title": "Software Developer - Test Framework",
+        "active": true,
+        "date_updated": 1780352904,
+        "date_posted": 1780351604,
+        "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Markham-Ontario-Canada/Early-Career-Software-Developer---Test-Framework_JR-202612062",
+        "locations": [
+            "Markham, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Motors",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Huntington Bancshares",
+        "id": "62a1b217-24b1-4757-a31f-3cd7b704746a",
+        "title": "Technology Delivery Analyst - Elevate",
+        "active": true,
+        "date_updated": 1780353001,
+        "date_posted": 1780351690,
+        "url": "https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Technology-Delivery-Analyst--Elevate-_R0072667",
+        "locations": [
+            "Columbus, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Huntington-Bancshares",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Avnet",
+        "id": "013d5015-8b47-41a8-b665-239f9ca74772",
+        "title": "Software Developer",
+        "active": true,
+        "date_updated": 1780351561,
+        "date_posted": 1780351528,
+        "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Tempe-Arizona-United-States-Of-America/Software-Developer_JR-022614",
+        "locations": [
+            "Tempe, AZ",
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Avnet",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
