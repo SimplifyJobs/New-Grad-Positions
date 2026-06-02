@@ -41268,24 +41268,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "The Salvation Army",
-        "id": "496fe94e-2d83-44f3-b21d-d3d19f4f734b",
-        "title": "Information Technology Member Services Representative",
-        "active": false,
-        "date_updated": 1759638610,
-        "date_posted": 1759638610,
-        "url": "https://careers-usesalvationarmy.icims.com/jobs/13934/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Dayton, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/The-Salvation-Army",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Witness AI",
         "id": "b1f53ded-b389-4686-93a2-6ba092211ca9",
@@ -326295,7 +326277,7 @@
         "company_name": "L3Harris Technologies",
         "id": "6fdec2d0-a983-42b3-ba53-2b68e9d90d20",
         "title": "Associate Software Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1779892200,
         "date_posted": 1779890891,
         "url": "https://jobs.l3harris.com/job/Greenville-Associate,-Software-Engineering-TX-75402/1394240600/?ats=successfactors",
