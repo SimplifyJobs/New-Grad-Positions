@@ -333338,14 +333338,14 @@
         "id": "fadcc429-f3c2-4b38-8d55-fef3e312e5e2",
         "title": "Entry Level Front End Engineer",
         "active": true,
-        "date_updated": 1780353140,
+        "date_updated": 1780383863,
         "date_posted": 1780351753,
         "url": "https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/717493",
         "locations": [
             "Burlington, VT"
         ],
         "company_url": "https://simplify.jobs/c/Albertsons",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": []
     },
