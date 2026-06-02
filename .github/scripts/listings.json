@@ -28735,7 +28735,7 @@
         "company_name": "ByteDance",
         "id": "b159e82d-ecc8-436c-bbc2-4fbd3391aa58",
         "title": "Research Scientist Graduate - Infrastructure System Lab",
-        "active": false,
+        "active": true,
         "date_updated": 1761902058,
         "date_posted": 1761902058,
         "url": "https://jobs.bytedance.com/en/position/7537470720265029906/detail",
@@ -44646,7 +44646,7 @@
         "company_name": "ByteDance",
         "id": "97b3870b-63df-47e9-a967-0c0921c0f9e9",
         "title": "Research Scientist Graduate - Video Quality Analysis&Coding Strategy - 2026 Start",
-        "active": false,
+        "active": true,
         "date_updated": 1761909245,
         "date_posted": 1761909245,
         "url": "https://jobs.bytedance.com/en/position/7538946858355476743/detail",
@@ -161170,7 +161170,7 @@
         "company_name": "Microchip Technology",
         "id": "d14321e7-d479-4e54-9c53-f04fdeaff7e8",
         "title": "Engineer 1 - Software",
-        "active": true,
+        "active": false,
         "date_updated": 1770679368,
         "date_posted": 1770679368,
         "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/CO---Boulder/Engineer-I--Software_R518-26",
@@ -247488,7 +247488,7 @@
         "company_name": "ByteDance",
         "id": "affa385b-6046-497d-90a0-f489e33e318e",
         "title": "Graduate Design Verification Engineer - Video Silicon IP",
-        "active": false,
+        "active": true,
         "date_updated": 1775006104,
         "date_posted": 1775005749,
         "url": "https://jobs.bytedance.com/en/position/7551554573577750802/detail",
@@ -258682,7 +258682,7 @@
         "company_name": "Goldman Sachs",
         "id": "fc398cd8-d5b4-4794-92dc-a69fba7cd96a",
         "title": "AMD Public-Associate-Software Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1775605249,
         "date_posted": 1775599804,
         "url": "https://higher.gs.com/roles/165919",
@@ -276220,7 +276220,7 @@
         "company_name": "ByteDance",
         "id": "bab07581-3070-4b7a-bde7-cd6488937b23",
         "title": "Research Scientist \u2013 Generative AI Graduate - Intelligent Creation",
-        "active": false,
+        "active": true,
         "date_updated": 1776492721,
         "date_posted": 1776492549,
         "url": "https://jobs.bytedance.com/en/position/7629855646167091509/detail",
@@ -294717,7 +294717,7 @@
         "company_name": "CAE",
         "id": "6eedcd07-1c13-465b-9d99-70142db251ed",
         "title": "Field Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1777714562,
         "date_posted": 1777714506,
         "url": "https://cae.wd3.myworkdayjobs.com/career/job/Arlington-TX/Field-Engineer_120885-1",
@@ -336266,6 +336266,308 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Harris Williams",
+        "id": "daf39c42-949b-4b25-9ae1-6e42af571978",
+        "title": "Talent Data Analyst",
+        "active": true,
+        "date_updated": 1780439852,
+        "date_posted": 1780438215,
+        "url": "https://pnc.wd5.myworkdayjobs.com/HarrisWilliams/job/VA---Richmond-23219/Talent-Data-Analyst_R224832",
+        "locations": [
+            "Richmond, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Harris-Williams",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Aviva Investors",
+        "id": "36e31a0a-6674-4376-b6cf-6a1827680dfb",
+        "title": "Associate Quantitative / Systematic Researcher",
+        "active": true,
+        "date_updated": 1780439406,
+        "date_posted": 1780438085,
+        "url": "https://aviva.wd1.myworkdayjobs.com/Aviva_Investors_External/job/London-UK/Quantitative---Systematic-Researcher_R-169341-1",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Aviva-Investors",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "MERGE",
+        "id": "0fe368c3-26c7-46a3-861f-4a2092dcc10b",
+        "title": "Digital Asset Manager - DAM Librarian",
+        "active": true,
+        "date_updated": 1780439406,
+        "date_posted": 1780438365,
+        "url": "https://job-boards.greenhouse.io/mergeworld/jobs/7976192",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/MERGE-World",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "JP Morgan Chase",
+        "id": "12e98bad-499d-444a-af53-e6c4a7627a87",
+        "title": "Pricing Analytics Associate - Quantitative Analytics",
+        "active": true,
+        "date_updated": 1780439376,
+        "date_posted": 1780438033,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210748994",
+        "locations": [
+            "Wilmington, DE"
+        ],
+        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "f5a9931b-496d-472a-b3d6-3701df506088",
+        "title": "Applied Scientist - Global Frontier Tech Recruitment Program",
+        "active": true,
+        "date_updated": 1780438697,
+        "date_posted": 1780438061,
+        "url": "https://jobs.bytedance.com/en/position/7629488401364060469/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Robinhood",
+        "id": "d29d0ba6-f452-4cd2-aba0-0075b6bddd0b",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1780439406,
+        "date_posted": 1780438253,
+        "url": "https://boards.greenhouse.io/robinhood/jobs/7975531",
+        "locations": [
+            "Menlo Park, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Robinhood",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Epic Kids",
+        "id": "ba78528d-fa1f-4c33-92fd-ac6e184830a6",
+        "title": "Junior Software Engineer - Full-Stack",
+        "active": true,
+        "date_updated": 1780438697,
+        "date_posted": 1780006165,
+        "url": "https://job-boards.greenhouse.io/epickids/jobs/7751646003",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Epic-Kids",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Franklin Electric",
+        "id": "ba2731c8-9cb0-46d0-a3b0-5125510e4755",
+        "title": "AI Application Developer",
+        "active": true,
+        "date_updated": 1780439406,
+        "date_posted": 1780438123,
+        "url": "https://franklin-electric.pinpointhq.com/en/postings/495ba8b0-507d-40f7-97dd-5a2cca21870e?ats=pinpointhq",
+        "locations": [
+            "Fort Wayne, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Franklin-Electric",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "IXL Learning",
+        "id": "ff5ca236-813f-4eb6-b6be-b3ba987f26d4",
+        "title": "Software Developer New Grad",
+        "active": true,
+        "date_updated": 1780440021,
+        "date_posted": 1780438723,
+        "url": "https://www.ixl.com/company/jobs?gh_jid=8574199002",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/IXL-Learning",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Albertsons",
+        "id": "a8c6a354-9e0f-4e7b-abcd-f27a1487d548",
+        "title": "Entry Level Front End Engineer",
+        "active": true,
+        "date_updated": 1780439623,
+        "date_posted": 1780438150,
+        "url": "https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/718180",
+        "locations": [
+            "Fort Huachuca, Sierra Vista, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Albertsons",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "NVIDIA",
+        "id": "a5a4f5d2-e953-462d-a6ea-fd5fe770de44",
+        "title": "Low Power ASIC Engineer New Grad",
+        "active": true,
+        "date_updated": 1780439414,
+        "date_posted": 1780438041,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Low-Power-ASIC-Engineer---New-College-Grad-2026_JR2017005",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "William Morris Endeavor Entertainment (WME)",
+        "id": "9899a90f-7cd9-4195-988f-de3026ad34e6",
+        "title": "Analyst",
+        "active": true,
+        "date_updated": 1780439182,
+        "date_posted": 1780437963,
+        "url": "https://wmeimg.wd1.myworkdayjobs.com/WME/job/CA-Beverly-Hills---9601-Wilshire/Analyst--WME-Insights_JR28568-2",
+        "locations": [
+            "Culver City, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/WME",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "True Anomaly",
+        "id": "915c9551-f026-4bb8-bd3c-b58af6e93968",
+        "title": "Software Engineer 1 - QA",
+        "active": true,
+        "date_updated": 1780439288,
+        "date_posted": 1780438003,
+        "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5152215007",
+        "locations": [
+            "Long Beach, CA",
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/TrueAnomaly",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "8e4681bc-b6c9-4d01-beaa-cc1ded6e2b9c",
+        "title": "Software Engineer Graduate - Inference Infrastructure",
+        "active": true,
+        "date_updated": 1780438697,
+        "date_posted": 1780438068,
+        "url": "https://jobs.bytedance.com/en/position/7556509698578663687/detail",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Aviva",
+        "id": "078a9801-ae3f-47e4-877f-472b92d24e47",
+        "title": "Associate Quantitative / Systematic Researcher",
+        "active": true,
+        "date_updated": 1780438697,
+        "date_posted": 1780438040,
+        "url": "https://aviva.wd1.myworkdayjobs.com/External/job/London-UK/Quantitative---Systematic-Researcher_R-169341-2",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Aviva",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
         ]
     }
 ]
