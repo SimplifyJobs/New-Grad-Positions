@@ -333279,14 +333279,14 @@
         "id": "64cd78a9-6e9a-4ab2-8ec9-ce9b8fbefd7d",
         "title": "Entry Level Front End Engineer",
         "active": true,
-        "date_updated": 1780383606,
+        "date_updated": 1780353148,
         "date_posted": 1780351754,
         "url": "https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/717746",
         "locations": [
             "Honolulu, HI"
         ],
         "company_url": "https://simplify.jobs/c/Albertsons",
-        "is_visible": false,
+        "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
     },
@@ -333338,7 +333338,7 @@
         "id": "fadcc429-f3c2-4b38-8d55-fef3e312e5e2",
         "title": "Entry Level Front End Engineer",
         "active": true,
-        "date_updated": 1780383631,
+        "date_updated": 1780353140,
         "date_posted": 1780351753,
         "url": "https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/717493",
         "locations": [
@@ -334294,7 +334294,7 @@
         "company_name": "RTX",
         "id": "e61bd241-53c2-42ba-bd4f-b70656950db1",
         "title": "Radio Frequency Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1780352972,
         "date_posted": 1780351638,
         "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MS-FOREST-430--19859-Hwy-80--BLDG-430/RF-Engineer-I--Onsite--TX_01849410",
