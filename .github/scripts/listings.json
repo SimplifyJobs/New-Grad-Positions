@@ -225961,7 +225961,7 @@
         "company_name": "Arthur Grand Technologies",
         "id": "c5e96a2e-51ca-43d8-aa10-231b3cdc5e3f",
         "title": "ERP Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773871479,
         "date_posted": 1773871479,
         "url": "https://jobs.smartrecruiters.com/ArthurGrandTechnologiesInc/744000115491098",
@@ -275280,7 +275280,7 @@
         "company_name": "Arthur Grand Technologies",
         "id": "f75f0ef0-4976-4878-ac6d-176ddeea0c1c",
         "title": "Syteline ERP Support",
-        "active": false,
+        "active": true,
         "date_updated": 1776463381,
         "date_posted": 1776463360,
         "url": "https://jobs.smartrecruiters.com/ArthurGrandTechnologiesInc/744000121473057",
@@ -329023,7 +329023,7 @@
         "company_name": "Truveta",
         "id": "3c8eb845-c4d5-43c4-961f-b8130c3fff8c",
         "title": "Software Engineer - Backend Services",
-        "active": false,
+        "active": true,
         "date_updated": 1779931213,
         "date_posted": 1779401592,
         "url": "https://job-boards.greenhouse.io/truveta/jobs/6002807004",
@@ -330826,7 +330826,7 @@
         "company_name": "Moog ",
         "id": "d3cb5d60-1827-4bc1-8d60-30639cb81eb9",
         "title": "Associate Product Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1779962145,
         "date_posted": 1778942397,
         "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Associate-Product-Engineer_R-26-16306",
@@ -334598,6 +334598,46 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "EquipmentShare",
+        "id": "d298c67c-4e57-4d7e-a9b2-7b1fe1460f1c",
+        "title": "Telematics Installer",
+        "active": true,
+        "date_updated": 1780381441,
+        "date_posted": 1780381424,
+        "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=7918046",
+        "locations": [
+            "Fort Worth, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Equipment-Share",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "William & Mary",
+        "id": "27354c8c-170b-488f-bbc8-61fbc488b26f",
+        "title": "Physics Fellow - Experimental Particle Physics",
+        "active": true,
+        "date_updated": 1780380540,
+        "date_posted": 1780380262,
+        "url": "https://williammary.wd12.myworkdayjobs.com/WM/job/Posting-Location---William--Mary/Postdoctoral-Fellow-of-Physics--Experimental-Particle-Physics-_JR101780",
+        "locations": [
+            "Williamsburg, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/William-And-Mary",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
         ]
     }
 ]
