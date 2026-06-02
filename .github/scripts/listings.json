@@ -333496,14 +333496,14 @@
         "id": "591ea349-fdc2-45bc-93a7-a2df6034b52e",
         "title": "Entry Level Front End Engineer",
         "active": true,
-        "date_updated": 1780353130,
+        "date_updated": 1780383810,
         "date_posted": 1780351750,
         "url": "https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/717652",
         "locations": [
             "Meridian, ID"
         ],
         "company_url": "https://simplify.jobs/c/Albertsons",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": []
     },
