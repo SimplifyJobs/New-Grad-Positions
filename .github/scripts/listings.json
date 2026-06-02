@@ -295806,7 +295806,7 @@
         "company_name": "AMERICAN SYSTEMS",
         "id": "2d6875ea-83f7-4be7-b4c7-e6677cd3d295",
         "title": "Data Engineer - Junior",
-        "active": false,
+        "active": true,
         "date_updated": 1777932361,
         "date_posted": 1777932326,
         "url": "https://careers-americansystems.icims.com/jobs/4391/job?mobile=true&needsRedirect=false",
@@ -320056,7 +320056,7 @@
         "company_name": "AMERICAN SYSTEMS",
         "id": "61d40f0e-7684-41e3-a76f-6d00cacb27e0",
         "title": "Linux Systems Administrator 1",
-        "active": false,
+        "active": true,
         "date_updated": 1779820562,
         "date_posted": 1777673122,
         "url": "https://careers-americansystems.icims.com/jobs/4380/job?mobile=true&needsRedirect=false",
@@ -320196,7 +320196,7 @@
         "company_name": "AMERICAN SYSTEMS",
         "id": "36d3eef8-d531-4228-99e0-1f3612bdac59",
         "title": "Linux Systems Administrator 1",
-        "active": false,
+        "active": true,
         "date_updated": 1779830289,
         "date_posted": 1777673116,
         "url": "https://careers-americansystems.icims.com/jobs/4382/job?mobile=true&needsRedirect=false",
@@ -320216,7 +320216,7 @@
         "company_name": "AMERICAN SYSTEMS",
         "id": "5347f6fc-3947-4965-a851-4634900e00ca",
         "title": "Linux Systems Administrator 1",
-        "active": false,
+        "active": true,
         "date_updated": 1779820562,
         "date_posted": 1777673116,
         "url": "https://careers-americansystems.icims.com/jobs/4381/job?mobile=true&needsRedirect=false",
@@ -325290,7 +325290,7 @@
         "company_name": "Astreya",
         "id": "47a2014d-1728-4b56-9874-c6f7218dab6b",
         "title": "Hardware Support Technician 2 - Inventory and Asset Management - Hardware & Software Reworks",
-        "active": true,
+        "active": false,
         "date_updated": 1779831905,
         "date_posted": 1779199501,
         "url": "https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Mountain-View-CA/Hardware-Support-Technician-II_R0015622",
@@ -333683,7 +333683,7 @@
         "company_name": "Andrew Morgan",
         "id": "5b8e7891-a9c0-4285-9cbd-1b8659d5b957",
         "title": "Business Data Analyst 1",
-        "active": true,
+        "active": false,
         "date_updated": 1780353304,
         "date_posted": 1780351728,
         "url": "https://andrew-morgan.com/current-openings/?gh_jid=5232507008",
@@ -333919,7 +333919,7 @@
         "company_name": "Trane Technologies",
         "id": "3a9cfa03-6faa-4a01-878f-ba744b4fcec1",
         "title": "Junior AI Controls Integrator",
-        "active": true,
+        "active": false,
         "date_updated": 1780352698,
         "date_posted": 1780351706,
         "url": "https://careers.tranetechnologies.com/global/en/job/JR-5112",
@@ -334659,5 +334659,66 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "RTX",
+        "id": "31b7f70c-a169-487e-a379-b84328b186b8",
+        "title": "Configuration Analyst",
+        "active": true,
+        "date_updated": 1780389425,
+        "date_posted": 1780351840,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WM--2501-W-University-Dr--WING-M-BLDG/Configuration-Analyst_01849460",
+        "locations": [
+            "McKinney, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CoStar Group",
+        "id": "654a8203-8795-40c6-92f5-76afc4273093",
+        "title": "Associate Research Consultant",
+        "active": true,
+        "date_updated": 1780390666,
+        "date_posted": 1780134807,
+        "url": "https://costar.wd1.myworkdayjobs.com/en-US/CoStarCareers/job/US-VA-Richmond/Associate-Research-Consultant_R38934",
+        "locations": [
+            "Richmond, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/CoStar",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Cirrus Logic",
+        "id": "348dc6c6-c4fa-47db-b0f5-cc15b76b2e27",
+        "title": "Entry Level Failure Analysis Engineer",
+        "active": true,
+        "date_updated": 1780388821,
+        "date_posted": 1762213437,
+        "url": "https://jobs.eu.lever.co/cirrus/e03b0b61-bed5-4bb4-9937-a50fdfd1f971/apply",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Cirrus-Logic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
