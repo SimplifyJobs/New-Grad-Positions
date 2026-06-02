@@ -144596,7 +144596,7 @@
         "company_name": "Ultra",
         "id": "e786efe2-266d-4400-8071-933ea24f11b5",
         "title": "Production Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1769733703,
         "date_posted": 1769733703,
         "url": "https://ultra.wd3.myworkdayjobs.com/ultra-careers/job/Dartmouth-NS-Canada/Production-Technician_REQ-11324",
@@ -334297,7 +334297,7 @@
         "company_name": "BlackRock",
         "id": "b17abdd6-e0ee-4142-89a9-7e399920a09c",
         "title": "Portfolio Risk Quantitative Modeler - Associate - Aladdin Financial Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1780352993,
         "date_posted": 1780351646,
         "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/New-York-NY/Portfolio-Risk-Quantitative-Modeler--Associate---Aladdin-Financial-Engineering_R264623",
@@ -334898,6 +334898,49 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Toro Company",
+        "id": "e09a8a7b-96c7-4b97-baa5-753234702118",
+        "title": "Technical Product Support Representative 1",
+        "active": true,
+        "date_updated": 1780394492,
+        "date_posted": 1780133094,
+        "url": "https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/Technical-Product-Support-Representative-I---The-Toro-Company_JR16145",
+        "locations": [
+            "Bloomington, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Toro-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Amgen",
+        "id": "db438c18-61af-4391-b139-a94759237734",
+        "title": "Senior Manufacturing Systems Engineer - Manufacturing Systems and Integrated Technologies",
+        "active": true,
+        "date_updated": 1780394275,
+        "date_posted": 1780135829,
+        "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/US---California---Thousand-Oaks/Senior-Manufacturing-Systems-Engineer---Manufacturing-Systems-and-Integrated-Technologies_R-239125",
+        "locations": [
+            "Thousand Oaks, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amgen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD",
+            "Associate's"
         ]
     }
 ]
