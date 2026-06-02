@@ -333279,14 +333279,14 @@
         "id": "64cd78a9-6e9a-4ab2-8ec9-ce9b8fbefd7d",
         "title": "Entry Level Front End Engineer",
         "active": true,
-        "date_updated": 1780353148,
+        "date_updated": 1780383606,
         "date_posted": 1780351754,
         "url": "https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/717746",
         "locations": [
             "Honolulu, HI"
         ],
         "company_url": "https://simplify.jobs/c/Albertsons",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": []
     },
