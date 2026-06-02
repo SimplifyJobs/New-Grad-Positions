@@ -331451,14 +331451,14 @@
         "id": "0e9631a5-205f-4ad4-9d82-4b105f53f807",
         "title": "Entry Level Front End Engineer",
         "active": true,
-        "date_updated": 1780319465,
+        "date_updated": 1780383841,
         "date_posted": 1780265325,
         "url": "https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/717323",
         "locations": [
             "Merrimack, NH"
         ],
         "company_url": "https://simplify.jobs/c/Albertsons",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": []
     },
