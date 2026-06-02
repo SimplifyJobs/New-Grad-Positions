@@ -290400,7 +290400,7 @@
         "company_name": "Semtech",
         "id": "7b6c0417-a7c9-4f6f-b819-56e9b9454b5f",
         "title": "Staff Characterisation Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1777471728,
         "date_posted": 1777471521,
         "url": "https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/GBR---Bristol/Staff-Characterisation-Engineer_REQ3285",
@@ -319838,7 +319838,7 @@
         "company_name": "AMERICAN SYSTEMS",
         "id": "7f3a2291-35d8-4803-96a8-a7f43c392bec",
         "title": "Linux Systems Administrator 1",
-        "active": false,
+        "active": true,
         "date_updated": 1779820382,
         "date_posted": 1777586719,
         "url": "https://careers-americansystems.icims.com/jobs/4379/job?mobile=true&needsRedirect=false",
@@ -320710,7 +320710,7 @@
         "company_name": "Intel",
         "id": "878fd401-4120-4bad-a8c5-8926d2332c70",
         "title": "Package Assembly Low Yield Analysis Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1779821101,
         "date_posted": 1778947338,
         "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Package-Assembly-Low-Yield-Analysis-Engineer_JR0283677",
@@ -330484,7 +330484,7 @@
         "company_name": "Microsoft",
         "id": "97526311-94fa-4ba7-a9ad-e41b7ccf5910",
         "title": "Senior Data Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1779960035,
         "date_posted": 1778018825,
         "url": "https://apply.careers.microsoft.com/careers/job/1970393556833959",
@@ -332378,7 +332378,7 @@
         "company_name": "CAE",
         "id": "926cda1b-f600-4dd1-9b2f-25ebcef61804",
         "title": "Simulator Technician 1",
-        "active": true,
+        "active": false,
         "date_updated": 1780305702,
         "date_posted": 1780135415,
         "url": "https://cae.wd3.myworkdayjobs.com/career/job/Phoenix/Simulator-Technician-I_120681",
@@ -332437,7 +332437,7 @@
         "company_name": "GE Healthcare",
         "id": "96ff7583-5a02-4c03-bc39-907d878c0278",
         "title": "Field Service Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1780305756,
         "date_posted": 1780134745,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1---Rochester--NY_R4041639-1",
@@ -334156,7 +334156,7 @@
         "company_name": "U.S. Venture",
         "id": "76eee698-30a4-411a-bd31-c9813bf1f4a0",
         "title": "Backend Software Engineer 2",
-        "active": true,
+        "active": false,
         "date_updated": 1780353357,
         "date_posted": 1780351798,
         "url": "https://usventure.wd1.myworkdayjobs.com/usvexternal/job/WI---Appleton/Backend-Software-Engineer-II_R7463",
@@ -334276,7 +334276,7 @@
         "company_name": "LHB",
         "id": "74b81d2f-c778-4615-9e0a-3a5ea0d9528c",
         "title": "Climate Solutions Research Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1780353031,
         "date_posted": 1780351661,
         "url": "https://careers-lhbcorp.icims.com/jobs/1933/job?mobile=true&needsRedirect=false",
@@ -334720,5 +334720,101 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Barclays",
+        "id": "980fa80c-7d93-483d-90b2-e2fb5b450b6c",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1780391701,
+        "date_posted": 1780391574,
+        "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Software-Engineer_JR-0000101251-1",
+        "locations": [
+            "Glasgow, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Barclays",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "CoreWeave",
+        "id": "970bb3e6-ccf5-451b-b3e3-a5c5be78505d",
+        "title": "Data Center Technician",
+        "active": true,
+        "date_updated": 1780392241,
+        "date_posted": 1778883150,
+        "url": "https://coreweave.com/careers/job?4673492006&board=coreweave&gh_jid=4673492006",
+        "locations": [
+            "Mesa, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/CoreWeave",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Apple",
+        "id": "8673e698-fd13-4dcc-aef5-1ccc0e8dff9b",
+        "title": "Software Engineer Silicon Engineering Documentation Tools",
+        "active": true,
+        "date_updated": 1780391226,
+        "date_posted": 1778076509,
+        "url": "https://jobs.apple.com/en-us/details/200661584",
+        "locations": [
+            "Lafayette, KS"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "InterSystems",
+        "id": "8c4cb617-aece-4c16-b7e3-90df8e469072",
+        "title": "Graduate Application Specialist",
+        "active": true,
+        "date_updated": 1780392131,
+        "date_posted": 1774362523,
+        "url": "https://www.intersystems.com/careers/careers-search/?gh_jid=7676948003",
+        "locations": [
+            "Edinburgh, UK",
+            "Slough, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/InterSystems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Nokia",
+        "id": "b307e36b-de36-4832-bafb-30d48dfbb6c4",
+        "title": "Photonic Circuit Test Development Engineer",
+        "active": true,
+        "date_updated": 1780392277,
+        "date_posted": 1766507157,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/29176",
+        "locations": [
+            "California"
+        ],
+        "company_url": "https://simplify.jobs/c/Nokia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
