@@ -332675,14 +332675,14 @@
         "id": "9787634c-cb56-4cb0-af19-98561c52b48a",
         "title": "Entry Level Front End Engineer",
         "active": true,
-        "date_updated": 1780323717,
+        "date_updated": 1780383941,
         "date_posted": 1780322940,
         "url": "https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/717416",
         "locations": [
             "Springfield, OR"
         ],
         "company_url": "https://simplify.jobs/c/Albertsons",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": []
     },
