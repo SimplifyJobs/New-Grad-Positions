@@ -13672,7 +13672,7 @@
         "company_name": "AVEVA",
         "id": "18d1159a-0fc5-4395-a800-8360f12d024d",
         "title": "Cloud Developer Graduate",
-        "active": true,
+        "active": false,
         "date_updated": 1762992434,
         "date_posted": 1762992434,
         "url": "https://aveva.wd3.myworkdayjobs.com/en-US/AVEVA_careers/job/Cambridge-United-Kingdom/Cloud-Developer-Graduate_R011704",
@@ -41224,24 +41224,6 @@
             "Bristol, UK"
         ],
         "company_url": "https://simplify.jobs/c/Rolls-Royce",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "58cab209-2fcd-4952-948f-501e901b30bf",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1759652981,
-        "date_posted": 1759652981,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/jobs/job/400025422",
-        "locations": [
-            "Trowbridge, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -333297,7 +333279,7 @@
         "company_name": "Andrew Morgan",
         "id": "027f917c-5000-4389-bdd4-79e2e30d962e",
         "title": "OneStream Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1780353313,
         "date_posted": 1780351728,
         "url": "https://andrew-morgan.com/current-openings/?gh_jid=5237627008",
@@ -334119,7 +334101,7 @@
         "company_name": "Cisco",
         "id": "05cbc611-560c-4df1-a090-b3026272cc5a",
         "title": "Software Engineer Full Stack & Application Development 2",
-        "active": true,
+        "active": false,
         "date_updated": 1780353107,
         "date_posted": 1780351681,
         "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Full-Stack---Application-Development-II--Full-Time----United-States_2000127",
@@ -334619,5 +334601,63 @@
         "degrees": [
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Peraton",
+        "id": "069e745e-f9ba-4b0e-840f-bea82fd58828",
+        "title": "All-Source Analyst - Junior",
+        "active": true,
+        "date_updated": 1780387561,
+        "date_posted": 1780092496,
+        "url": "https://careers-peraton.icims.com/jobs/166573/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Wheatland, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Peraton",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Snap Finance",
+        "id": "0b829d9b-b80b-4b2c-b80d-f0bfdeb66f7d",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1780388148,
+        "date_posted": 1778941034,
+        "url": "https://snapfinance.wd1.myworkdayjobs.com/snap_external_careers/job/Arizona/Sr-Software-Engineer---Backend_R-2778",
+        "locations": [
+            "Arizona"
+        ],
+        "company_url": "https://simplify.jobs/c/3be8000e-c16e-4e18-a0d2-8af3b53e6f02",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Acuren",
+        "id": "28303e99-9047-460e-96fc-3454339fed7b",
+        "title": "Drone Operator - Pilot",
+        "active": true,
+        "date_updated": 1780388529,
+        "date_posted": 1777903529,
+        "url": "https://uscareers-acuren.icims.com/jobs/18618/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Acuren",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
