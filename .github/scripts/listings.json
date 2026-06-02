@@ -333438,14 +333438,14 @@
         "id": "729d226c-dc00-4f03-beb3-44c49ab682dc",
         "title": "Entry Level Front End Engineer",
         "active": true,
-        "date_updated": 1780353188,
+        "date_updated": 1780383570,
         "date_posted": 1780351764,
         "url": "https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/717733",
         "locations": [
             "Hanover, NH"
         ],
         "company_url": "https://simplify.jobs/c/Albertsons",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": []
     },

@@ -5,9 +5,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/New-Grad-Positions/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
 ---
-### Browse 233 New Grad Roles by Category
+### Browse 232 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (161)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (160)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (1)
 
@@ -95,13 +95,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Albertsons?utm_source=GHList&utm_medium=company">Albertsons</a></strong></td>
-<td>Entry Level Front End Engineer</td>
-<td>Hanover, NH</td>
-<td><div align="center"><a href="https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/717733?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/729d226c-dc00-4f03-beb3-44c49ab682dc?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>0d</td>
-</tr>
-<tr>
-<td>↳</td>
 <td>Entry Level Front End Engineer</td>
 <td>Meridian, ID</td>
 <td><div align="center"><a href="https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/717646?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/3a6ce788-9c5a-4ace-b30c-0a40950c8af9?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
@@ -7032,7 +7025,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Java Software Engineer 1</td>
 <td>West Redlands, Redlands, CA</td>
 <td>🔒</td>
-<td>5mo</td>
+<td>6mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company">🔥 NVIDIA</a></strong></td>
