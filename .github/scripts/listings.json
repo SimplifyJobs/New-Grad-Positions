@@ -57901,7 +57901,7 @@
         "company_name": "Cisco",
         "id": "d429909a-8374-4fde-afa9-c1fb684e2b9d",
         "title": "Software Engineer 2 - Full Stack and Application Development",
-        "active": true,
+        "active": false,
         "date_updated": 1763664387,
         "date_posted": 1763664387,
         "url": "https://careers.cisco.com/global/en/job/2000127",
@@ -235472,7 +235472,7 @@
         "company_name": "University of Arkansas",
         "id": "ad639ce0-562f-40b2-8d29-ea4c866cea6e",
         "title": "Cosmos Graduate Research Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1773813920,
         "date_posted": 1773813920,
         "url": "https://uasys.wd5.myworkdayjobs.com/uasys/job/Little-Rock/COSMOS---Graduate-Research-Assistant--Researcher-_R0053889-2",
@@ -248172,7 +248172,7 @@
         "company_name": "AMERICAN SYSTEMS",
         "id": "b9079948-8cd6-4404-9e02-98927c2e4bb8",
         "title": "Software Developer / DevSecOps Support",
-        "active": false,
+        "active": true,
         "date_updated": 1775004413,
         "date_posted": 1774994749,
         "url": "https://careers-americansystems.icims.com/jobs/4191/job?mobile=true&needsRedirect=false",
@@ -255578,7 +255578,7 @@
         "company_name": "GE Healthcare",
         "id": "935522eb-70a8-4d7f-abbe-01fa130ab79b",
         "title": "Field Service Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1775383265,
         "date_posted": 1775295195,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1-HC_R4036677-1",
@@ -272124,7 +272124,7 @@
         "company_name": "GE Healthcare",
         "id": "9df5e2b3-ff4d-403c-aadd-0e2e177b2139",
         "title": "MR Field Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1776302844,
         "date_posted": 1776301614,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/MR---Field-Engineer-1_R4039398-1",
@@ -280265,7 +280265,7 @@
         "company_name": "Snowflake",
         "id": "e3212d8e-9cd6-44cb-aedd-f72a5e5b5034",
         "title": "Analyst \u2013 Finance Analytics & AI",
-        "active": true,
+        "active": false,
         "date_updated": 1776724561,
         "date_posted": 1776723678,
         "url": "https://jobs.ashbyhq.com/snowflake/b241904d-7d42-41f0-9674-82e53d964846/application",
@@ -326961,7 +326961,7 @@
         "company_name": "Fried Frank Business Services",
         "id": "b4f09e95-4cbf-4313-b7d3-84d5ad788165",
         "title": "Service Delivery Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1779825962,
         "date_posted": 1779372445,
         "url": "https://www.friedfrank.com/careers/businessprofessionaljobopportunities?gh_jid=6001042004",
@@ -328924,7 +328924,7 @@
         "company_name": "Amazon",
         "id": "b7593bd1-5ac9-4f38-badb-fdeeadb1b547",
         "title": "Support Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1779930976,
         "date_posted": 1779930364,
         "url": "https://amazon.jobs/en/jobs/10432506/its-support-engineer-i",
@@ -331489,7 +331489,7 @@
         "company_name": "Leidos",
         "id": "c2ced759-415c-4430-971e-4945e24dcfcc",
         "title": "Electronics Mechanical Assembly Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1780275161,
         "date_posted": 1780134819,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Electronics-Mechanical-Assembly-Technician_R-00182031",
@@ -332236,7 +332236,7 @@
         "company_name": "Enterprise Bank & Trust",
         "id": "c4e7cf22-f470-4847-b19d-513c59663df4",
         "title": "Portfolio Analyst & Trader",
-        "active": false,
+        "active": true,
         "date_updated": 1780280993,
         "date_posted": 1780131748,
         "url": "https://osv-enterprise.wd1.myworkdayjobs.com/EnterpriseBankTrust_Jobs/job/Clayton-MO/Portfolio-Analyst---Trader_REQ-5278",
@@ -332457,7 +332457,7 @@
         "company_name": "GE Healthcare",
         "id": "d0c9719f-a3d9-4720-acc4-f89f17ec0609",
         "title": "Lead Service Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1780307361,
         "date_posted": 1780134777,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Lead-Service-Engineer_R4041301-1",
@@ -332477,7 +332477,7 @@
         "company_name": "ASML",
         "id": "be8d8d2a-8f30-431f-9d6b-5b5198153ad7",
         "title": "Optical Fabrication Technician - CNC",
-        "active": true,
+        "active": false,
         "date_updated": 1780306989,
         "date_posted": 1780134707,
         "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Optical-Fabrication-Technician--CNC--CWW-Back-End-Days_J-00338895-1",
@@ -334816,5 +334816,88 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Flatiron Health",
+        "id": "e2052cb0-de30-4673-ae90-6fb2129078b5",
+        "title": "Data Analyst - Evidence Solutions",
+        "active": true,
+        "date_updated": 1780393568,
+        "date_posted": 1780351913,
+        "url": "https://flatiron.com/careers/open-positions/job?gh_jid=7834645",
+        "locations": [
+            "Durham, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Flatiron-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Intel",
+        "id": "a9a4159d-ed39-4ba2-a937-f9e00a7c9e24",
+        "title": "Metrology Engineer",
+        "active": true,
+        "date_updated": 1780392855,
+        "date_posted": 1780137167,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Metrology-Engineer_JR0283779-1",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "InterSystems",
+        "id": "c5bf9211-6c60-4edb-8401-bda8ea0f5bc7",
+        "title": "Graduate Application Specialist",
+        "active": true,
+        "date_updated": 1780392847,
+        "date_posted": 1774362520,
+        "url": "https://www.intersystems.com/careers/careers-search/?gh_jid=7676945003",
+        "locations": [
+            "Edinburgh, UK",
+            "Slough, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/InterSystems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Goldman Sachs",
+        "id": "d8f3b21b-ca53-4c69-99d4-ca2ffec5ce73",
+        "title": "Global Banking & Markets - Fund Finance Strats - Analyst/Associate",
+        "active": true,
+        "date_updated": 1780393615,
+        "date_posted": 1772234400,
+        "url": "https://higher.gs.com/roles/164535",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Goldman-Sachs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
     }
 ]
