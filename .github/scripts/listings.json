@@ -41064,24 +41064,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Loyola Marymount University",
-        "id": "80357fca-6927-4052-9133-962679e5f055",
-        "title": "Assistant Professor of Mathematics - Statistics and Data Science",
-        "active": false,
-        "date_updated": 1761889331,
-        "date_posted": 1759785364,
-        "url": "https://lmu.wd1.myworkdayjobs.com/careers/job/Westchester-Campus/Assistant-Professor-of-Mathematics--Statistics-and-Data-Science_R11535",
-        "locations": [
-            "LA"
-        ],
-        "company_url": "https://simplify.jobs/c/Loyola-Marymount-University",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Witness AI",
         "id": "b1f53ded-b389-4686-93a2-6ba092211ca9",
         "title": "Machine Learning Engineer",
@@ -112512,7 +112494,7 @@
         "company_name": "Accenture",
         "id": "2631a4fa-e6c4-4f88-be27-d8fb8052dda5",
         "title": "SAP Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1767830075,
         "date_posted": 1767830075,
         "url": "https://boards.greenhouse.io/accenturefederalservices/jobs/4639310006",
@@ -335001,7 +334983,7 @@
         "company_name": "Sia Partners",
         "id": "1849475a-2bc9-4446-827f-3f0208da48f2",
         "title": "Associate Consultant - Generative AI",
-        "active": true,
+        "active": false,
         "date_updated": 1780437961,
         "date_posted": 1780437816,
         "url": "https://jobs.smartrecruiters.com/Sia/744000129798579",
