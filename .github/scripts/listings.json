@@ -235343,7 +235343,7 @@
         "company_name": "University of Arkansas",
         "id": "ad639ce0-562f-40b2-8d29-ea4c866cea6e",
         "title": "Cosmos Graduate Research Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1773813920,
         "date_posted": 1773813920,
         "url": "https://uasys.wd5.myworkdayjobs.com/uasys/job/Little-Rock/COSMOS---Graduate-Research-Assistant--Researcher-_R0053889-2",
@@ -289927,7 +289927,7 @@
         "company_name": "GE Healthcare",
         "id": "a5871307-853e-486a-803c-bb9cb1f6ebd4",
         "title": "Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1777414699,
         "date_posted": 1777414110,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/OH05-01-Beachwood-Science-Park-Drive/Software-Engineer-I_R4040485-2",
@@ -325023,7 +325023,7 @@
         "company_name": "The Federal Reserve System",
         "id": "aeb5fe0b-d1f9-4fc1-9f2d-1162a41e2b07",
         "title": "Research Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1779875178,
         "date_posted": 1779615193,
         "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Minneapolis-MN/Research-Assistant_R-0000031995-1",
@@ -328673,7 +328673,7 @@
         "company_name": "Waymo",
         "id": "8e020edf-d398-49aa-969c-32ed9bb3372b",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1779921721,
         "date_posted": 1779920615,
         "url": "https://careers.withwaymo.com/jobs?gh_jid=7960496",
@@ -334168,7 +334168,7 @@
         "company_name": "BlackRock",
         "id": "b17abdd6-e0ee-4142-89a9-7e399920a09c",
         "title": "Portfolio Risk Quantitative Modeler - Associate - Aladdin Financial Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1780352993,
         "date_posted": 1780351646,
         "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/New-York-NY/Portfolio-Risk-Quantitative-Modeler--Associate---Aladdin-Financial-Engineering_R264623",
@@ -334189,7 +334189,7 @@
         "company_name": "General Motors",
         "id": "95fe52bd-6718-4467-a2b0-76f1071db57d",
         "title": "Software Developer - Test Framework",
-        "active": false,
+        "active": true,
         "date_updated": 1780352904,
         "date_posted": 1780351604,
         "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Markham-Ontario-Canada/Early-Career-Software-Developer---Test-Framework_JR-202612062",
@@ -334714,7 +334714,7 @@
         "company_name": "Intel",
         "id": "a9a4159d-ed39-4ba2-a937-f9e00a7c9e24",
         "title": "Metrology Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1780392855,
         "date_posted": 1780137167,
         "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Metrology-Engineer_JR0283779-1",
@@ -335928,7 +335928,7 @@
         "company_name": "Fidelity Investments",
         "id": "beb516f2-b15f-4cae-a354-34f6946f8c83",
         "title": "Salesforce Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1780439494,
         "date_posted": 1780438068,
         "url": "https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Smithfield-RI/Salesforce-Engineer_2130171",
@@ -337168,6 +337168,103 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Nationwide",
+        "id": "9bd77725-87e0-407d-b6d5-f81a58d66bcf",
+        "title": "Investment Analyst - Front/Middle Office",
+        "active": true,
+        "date_updated": 1780479096,
+        "date_posted": 1780466911,
+        "url": "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-One-Nationwide-Plaza/Investment-Analyst--Front-Middle-Office_098309",
+        "locations": [
+            "Columbus, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Nationwide",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Charles Schwab",
+        "id": "bd381b80-4687-43c3-9fe4-ef2137288973",
+        "title": "Mutual Funds Trading Operations - Specialist",
+        "active": true,
+        "date_updated": 1780479181,
+        "date_posted": 1780438085,
+        "url": "https://career-schwab.icims.com/jobs/122354/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Westlake, TX",
+            "Omaha, NE"
+        ],
+        "company_url": "https://simplify.jobs/c/Charles-Schwab",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Wing Assistant",
+        "id": "9691f9bf-e3f1-45af-9df0-14249c1579c8",
+        "title": "AI Language Trainer",
+        "active": true,
+        "date_updated": 1780478281,
+        "date_posted": 1779930482,
+        "url": "https://jobs.lever.co/getwingapp/efe7ec57-6edc-4648-b65f-7b042d4d3b49/apply",
+        "locations": [
+            "Manchester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Wing-Assistant",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Maryland - College Park",
+        "id": "c357729e-641c-4feb-953b-f8dd1fa9afa8",
+        "title": "Assistant Professor",
+        "active": true,
+        "date_updated": 1780480144,
+        "date_posted": 1780131917,
+        "url": "https://umd.wd1.myworkdayjobs.com/UMCP/job/University-of-Maryland-College-Park/Assistant-Professor_JR103903",
+        "locations": [
+            "Hyattsville, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Maryland-College-Park",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Man Group",
+        "id": "acff606b-e6f8-4ebb-aceb-9716d4335bd2",
+        "title": "Research Analyst",
+        "active": true,
+        "date_updated": 1780478821,
+        "date_posted": 1776474425,
+        "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4844286101",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Man-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
