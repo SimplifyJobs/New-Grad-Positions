@@ -238351,7 +238351,7 @@
         "company_name": "Adelphi Real World",
         "id": "95b7e244-eb3c-4e91-add9-7c8e2fd4ad1e",
         "title": "Programmer",
-        "active": true,
+        "active": false,
         "date_updated": 1774535715,
         "date_posted": 1774535715,
         "url": "https://job-boards.greenhouse.io/adelphirealworld/jobs/5165398008",
@@ -240562,7 +240562,7 @@
         "company_name": "Adelphi Real World",
         "id": "7990a28f-8726-40c8-b671-f17b83701f64",
         "title": "Programmer",
-        "active": true,
+        "active": false,
         "date_updated": 1774649931,
         "date_posted": 1774649931,
         "url": "https://job-boards.greenhouse.io/adelphirealworld/jobs/5168155008",
@@ -331492,7 +331492,7 @@
         "company_name": "Citi",
         "id": "d393479c-e4a9-4d16-bd37-a3831cc989f3",
         "title": "Analytics Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1780275579,
         "date_posted": 1780137750,
         "url": "https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/F-S-Analytics---Analyst_26960761",
@@ -332610,7 +332610,7 @@
         "company_name": "Tokyo Electron",
         "id": "d2a47c53-8898-467f-b6ca-0981d487632c",
         "title": "Entry-Level Software Engineer - AI Research",
-        "active": true,
+        "active": false,
         "date_updated": 1780351381,
         "date_posted": 1780351366,
         "url": "https://tel.wd3.myworkdayjobs.com/tel-careers/job/San-Jose/Entry-Level-Software-Engineer---AI-Research_R26-00785",
@@ -337426,6 +337426,26 @@
             "Canada"
         ],
         "company_url": "https://simplify.jobs/c/Nokia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AmTrust Financial",
+        "id": "466fed05-cd79-4cc1-bd44-6594c4fe7d44",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1780496207,
+        "date_posted": 1780495643,
+        "url": "https://careers-amtrustgroup.icims.com/jobs/20198/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Cleveland, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/AmTrust-Financial",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
