@@ -87149,7 +87149,7 @@
         "company_name": "Shield AI",
         "id": "9f626991-8396-479f-af83-2f161feb45ad",
         "title": "Production Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1761727211,
         "date_posted": 1761727211,
         "url": "https://jobs.lever.co/shieldai/efe94990-c80b-45b6-949b-71dde71235d2/apply",
@@ -225794,7 +225794,7 @@
         "company_name": "Arthur Grand Technologies",
         "id": "c5e96a2e-51ca-43d8-aa10-231b3cdc5e3f",
         "title": "ERP Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773871479,
         "date_posted": 1773871479,
         "url": "https://jobs.smartrecruiters.com/ArthurGrandTechnologiesInc/744000115491098",
@@ -273476,7 +273476,7 @@
         "company_name": "GlobalFoundries",
         "id": "7c7c7353-5820-41bb-a47b-a57e9fd1f739",
         "title": "AI Enablement Strategist",
-        "active": false,
+        "active": true,
         "date_updated": 1776377408,
         "date_posted": 1776377082,
         "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/AI-Enablement-Strategist--New-College-Graduate-_JR-2600365",
@@ -275113,7 +275113,7 @@
         "company_name": "Arthur Grand Technologies",
         "id": "f75f0ef0-4976-4878-ac6d-176ddeea0c1c",
         "title": "Syteline ERP Support",
-        "active": true,
+        "active": false,
         "date_updated": 1776463381,
         "date_posted": 1776463360,
         "url": "https://jobs.smartrecruiters.com/ArthurGrandTechnologiesInc/744000121473057",
@@ -322406,7 +322406,7 @@
         "company_name": "Leidos",
         "id": "9090d49e-e3a4-442c-8ce4-bbff025bdd6b",
         "title": "Spanish Language-Enabled OSINT Collector - Junior",
-        "active": false,
+        "active": true,
         "date_updated": 1779822362,
         "date_posted": 1779528201,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Cape-Canaveral-FL/Spanish-Language-Enabled-OSINT-Collector--Junior-_R-00183347",
@@ -331378,7 +331378,7 @@
         "company_name": "Deluxe Media",
         "id": "70029fc4-6d0b-4b77-8799-2586055944cf",
         "title": "Cinema Projection Systems Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1780275138,
         "date_posted": 1780131813,
         "url": "https://bydeluxe.wd5.myworkdayjobs.com/en-US/Deluxe_External/job/US-CA-Burbank/Cinema-Projection-Systems-Engineer_R0016104",
@@ -333451,7 +333451,7 @@
         "company_name": "T-Mobile",
         "id": "7859277c-5026-4402-8799-a981f74670ce",
         "title": "Associate AI Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1780352281,
         "date_posted": 1780351624,
         "url": "https://tmobile.wd1.myworkdayjobs.com/contractorconversion/job/Bellevue-Washington/Associate-AI-Engineer_REQ354067",
@@ -334027,7 +334027,7 @@
         "company_name": "U.S. Venture",
         "id": "76eee698-30a4-411a-bd31-c9813bf1f4a0",
         "title": "Backend Software Engineer 2",
-        "active": false,
+        "active": true,
         "date_updated": 1780353357,
         "date_posted": 1780351798,
         "url": "https://usventure.wd1.myworkdayjobs.com/usvexternal/job/WI---Appleton/Backend-Software-Engineer-II_R7463",
@@ -334189,7 +334189,7 @@
         "company_name": "General Motors",
         "id": "95fe52bd-6718-4467-a2b0-76f1071db57d",
         "title": "Software Developer - Test Framework",
-        "active": true,
+        "active": false,
         "date_updated": 1780352904,
         "date_posted": 1780351604,
         "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Markham-Ontario-Canada/Early-Career-Software-Developer---Test-Framework_JR-202612062",
@@ -337025,5 +337025,149 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Matillion",
+        "id": "6f064ba4-8cb5-4c86-8237-7530909d2469",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1780477561,
+        "date_posted": 1780477403,
+        "url": "https://jobs.lever.co/matillion/62ae3359-b2ea-43bc-bed7-574e939f66e2/apply",
+        "locations": [
+            "Manchester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Matillion",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Bootcamp"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Ryan Specialty",
+        "id": "68422c98-1bcd-4ed0-9c52-f7876ee121a4",
+        "title": "Loss Protection Engineer",
+        "active": true,
+        "date_updated": 1780477201,
+        "date_posted": 1780132155,
+        "url": "https://ryansg.wd5.myworkdayjobs.com/en-US/Ryan_Specialty_Career_Site/job/Austin---Texas/Loss-Protection-Engineer_JR26-4447-2",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/08d94549-6f90-4b80-b697-5cd7d8f77ec9",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Osaic",
+        "id": "685cbad3-b2a4-4ced-ae63-659667c1c2d4",
+        "title": "Financial Business Intelligence Analyst 1",
+        "active": true,
+        "date_updated": 1780477225,
+        "date_posted": 1780134998,
+        "url": "https://advisorgroup.wd1.myworkdayjobs.com/advisor_career_site/job/Scottsdale-AZ/Financial-Business-Intelligence-Analyst_R0004650",
+        "locations": [
+            "Scottsdale, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Osaic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "7020a117-ae39-43b9-9e86-07cea0069f9a",
+        "title": "Ultrasonic Technician S1",
+        "active": true,
+        "date_updated": 1780477473,
+        "date_posted": 1780438266,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-NY-CLAYVILLE-2395--2395-Main-St--MAIN/Ultrasonic-Technician-S1---5th-Shift--Onsite-_01849512",
+        "locations": [
+            "Utica, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Stevens Institute of Technology",
+        "id": "79e05eca-1049-4e66-b595-48c413a41398",
+        "title": "Postdoctoral Associate-Systems Engineering",
+        "active": true,
+        "date_updated": 1780477806,
+        "date_posted": 1780131853,
+        "url": "https://stevens.wd5.myworkdayjobs.com/External/job/Hoboken-NJ---Main-Campus/Postdoctoral-Associate-Systems-Engineering_RQ29678-1",
+        "locations": [
+            "Union City, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Stevens-Institute-Of-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Northwest Bank",
+        "id": "7ac67054-b937-4614-8ae6-80ffc3c986f4",
+        "title": "Quantitative Analyst 1",
+        "active": true,
+        "date_updated": 1780477809,
+        "date_posted": 1779531707,
+        "url": "https://northwest.wd1.myworkdayjobs.com/Northwest_Careers/job/Bellevue-PA/Quantitative-Analyst-III_R-101778",
+        "locations": [
+            "Columbus, OH",
+            "McKees Rocks, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Northwest-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Snowflake",
+        "id": "79cff93c-d811-4bef-a7ef-af475aef4d67",
+        "title": "Software Engineer - Snowflake Postgres",
+        "active": true,
+        "date_updated": 1780477381,
+        "date_posted": 1778537262,
+        "url": "https://jobs.ashbyhq.com/snowflake/19ff5740-e678-4f43-a6c6-29bab94fbc21/application",
+        "locations": [
+            "Menlo Park, CA",
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Snowflake",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
