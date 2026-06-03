@@ -87833,24 +87833,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "Better Health Group",
-        "id": "017c454f-6d2d-4f7a-a36f-4d94ceafa936",
-        "title": "Medical Assistant",
-        "active": false,
-        "date_updated": 1765793728,
-        "date_posted": 1759759293,
-        "url": "https://careers-betterhealthgroup.icims.com/jobs/2440/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Addison, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Better-Health-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Upbring",
         "id": "9dea62b1-285d-45e0-bd21-edf8db653629",
@@ -141190,7 +141172,7 @@
         "company_name": "Vertiv",
         "id": "9102750c-fb45-44a4-8a95-01f2c40ef034",
         "title": "ERS-NETA Electrical Testing Technician - San Francisco",
-        "active": true,
+        "active": false,
         "date_updated": 1769642073,
         "date_posted": 1769642073,
         "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20265276",
@@ -225776,7 +225758,7 @@
         "company_name": "Arthur Grand Technologies",
         "id": "c5e96a2e-51ca-43d8-aa10-231b3cdc5e3f",
         "title": "ERP Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773871479,
         "date_posted": 1773871479,
         "url": "https://jobs.smartrecruiters.com/ArthurGrandTechnologiesInc/744000115491098",
@@ -275095,7 +275077,7 @@
         "company_name": "Arthur Grand Technologies",
         "id": "f75f0ef0-4976-4878-ac6d-176ddeea0c1c",
         "title": "Syteline ERP Support",
-        "active": false,
+        "active": true,
         "date_updated": 1776463381,
         "date_posted": 1776463360,
         "url": "https://jobs.smartrecruiters.com/ArthurGrandTechnologiesInc/744000121473057",
@@ -336049,7 +336031,7 @@
         "company_name": "Fidelity Investments",
         "id": "94840c52-3e7c-4bee-ab22-08a7896d2f1f",
         "title": "Associate Systems Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1780439385,
         "date_posted": 1780438034,
         "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/Westlake-TX/Associate-Systems-Engineer_2129224",
@@ -337288,6 +337270,166 @@
         "degrees": [
             "Bachelor's",
             "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Abbott",
+        "id": "e4c2fdba-8683-48df-8bec-50721fe45b31",
+        "title": "AI Engineer",
+        "active": true,
+        "date_updated": 1780495924,
+        "date_posted": 1780495763,
+        "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Texas---Plano/AI-Engineer_31152145-1",
+        "locations": [
+            "Plano, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Abbott",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Abbott",
+        "id": "c0c42a0c-1ad1-4b83-b04c-77a9570e3dbb",
+        "title": "AI Engineer",
+        "active": true,
+        "date_updated": 1780495924,
+        "date_posted": 1780495725,
+        "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---Texas---Plano/AI-Engineer_31152145",
+        "locations": [
+            "Plano, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Abbott",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Albertsons",
+        "id": "0720bddd-8433-4879-9add-fee7b954416b",
+        "title": "Entry Level Frontend Engineer",
+        "active": true,
+        "date_updated": 1780496259,
+        "date_posted": 1780495680,
+        "url": "https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/718439",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Albertsons",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "WVUMedicine",
+        "id": "a96c25ab-0b2b-49fd-85ec-54094f074388",
+        "title": "Associate Systems Analyst - Ambulatory Team",
+        "active": true,
+        "date_updated": 1780495561,
+        "date_posted": 1780495476,
+        "url": "https://wvumedicine.wd1.myworkdayjobs.com/WVUH/job/Information-Technology-Center/Associate-Systems-Analyst---Ambulatory-Team_JR26-37235",
+        "locations": [
+            "Morgantown, WV"
+        ],
+        "company_url": "https://simplify.jobs/c/WVUMedicine",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Wellmark",
+        "id": "a15ce0e8-8b4c-4f66-b334-fddec09c78e1",
+        "title": "Data Science Consultant - Pharmacy",
+        "active": true,
+        "date_updated": 1780495561,
+        "date_posted": 1780495471,
+        "url": "https://jobs.smartrecruiters.com/WellmarkInc/744000129990590",
+        "locations": [
+            "Des Moines, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/Wellmark",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Wellmark",
+        "id": "81a162f0-c50f-4320-881a-dc2c5ca10e48",
+        "title": "Data Science Associate",
+        "active": true,
+        "date_updated": 1780495561,
+        "date_posted": 1780495470,
+        "url": "https://jobs.smartrecruiters.com/WellmarkInc/744000129992389",
+        "locations": [
+            "Des Moines, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/Wellmark",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ZOLL Medical Corporation",
+        "id": "353f3195-ac34-42c7-8ae2-2956421933e4",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1780495714,
+        "date_posted": 1780495437,
+        "url": "https://zoll.wd5.myworkdayjobs.com/en-US/ZOLLMedicalCorp/job/US-CO-Broomfield/Software-Engineer-I_R18788",
+        "locations": [
+            "Broomfield, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Zoll",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Nokia",
+        "id": "3daf8975-d7c2-4997-a768-836ce9335cc6",
+        "title": "Firmware Engineer",
+        "active": true,
+        "date_updated": 1780495381,
+        "date_posted": 1780495359,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/30015",
+        "locations": [
+            "Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Nokia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
