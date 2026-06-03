@@ -104453,7 +104453,7 @@
         "company_name": "Accenture",
         "id": "8b4d0a2c-e5b4-4518-83e0-07d2ad8cdf78",
         "title": "Technology Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1766447313,
         "date_posted": 1766447313,
         "url": "https://boards.greenhouse.io/accenturefederalservices/jobs/4599649006",
@@ -225702,7 +225702,7 @@
         "company_name": "Arthur Grand Technologies",
         "id": "c5e96a2e-51ca-43d8-aa10-231b3cdc5e3f",
         "title": "ERP Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773871479,
         "date_posted": 1773871479,
         "url": "https://jobs.smartrecruiters.com/ArthurGrandTechnologiesInc/744000115491098",
@@ -275021,7 +275021,7 @@
         "company_name": "Arthur Grand Technologies",
         "id": "f75f0ef0-4976-4878-ac6d-176ddeea0c1c",
         "title": "Syteline ERP Support",
-        "active": true,
+        "active": false,
         "date_updated": 1776463381,
         "date_posted": 1776463360,
         "url": "https://jobs.smartrecruiters.com/ArthurGrandTechnologiesInc/744000121473057",
@@ -302305,7 +302305,7 @@
         "company_name": "Unity",
         "id": "7b73b851-387c-4570-9383-e19114557731",
         "title": "Machine Learning Engineer New Grad - Offline Infrastructure",
-        "active": false,
+        "active": true,
         "date_updated": 1778278307,
         "date_posted": 1778277927,
         "url": "https://boards.greenhouse.io/embed/job_app?token=7902260",
@@ -333659,7 +333659,7 @@
         "company_name": "Avnet",
         "id": "98570ec2-f696-4929-b59d-0b2f68c8389c",
         "title": "Software Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1780351561,
         "date_posted": 1780351529,
         "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Tempe-Arizona-United-States-Of-America/Software-Developer_JR-022614",
@@ -334097,7 +334097,7 @@
         "company_name": "General Motors",
         "id": "95fe52bd-6718-4467-a2b0-76f1071db57d",
         "title": "Software Developer - Test Framework",
-        "active": true,
+        "active": false,
         "date_updated": 1780352904,
         "date_posted": 1780351604,
         "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Markham-Ontario-Canada/Early-Career-Software-Developer---Test-Framework_JR-202612062",
@@ -334139,7 +334139,7 @@
         "company_name": "Avnet",
         "id": "013d5015-8b47-41a8-b665-239f9ca74772",
         "title": "Software Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1780351561,
         "date_posted": 1780351528,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Tempe-Arizona-United-States-Of-America/Software-Developer_JR-022614",
@@ -337394,6 +337394,111 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Pinterest",
+        "id": "836b6c19-97e2-48ec-b0eb-a351d8e837d6",
+        "title": "Software Engineer 1 - Backend",
+        "active": true,
+        "date_updated": 1780525485,
+        "date_posted": 1780525040,
+        "url": "https://www.pinterestcareers.com/jobs/?gh_jid=6816337",
+        "locations": [
+            "Seattle, WA",
+            "California"
+        ],
+        "company_url": "https://simplify.jobs/c/Pinterest",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Dow Chemical Company",
+        "id": "843d75f3-93c7-45ea-8244-4f67cffcac7a",
+        "title": "Data Engineer",
+        "active": true,
+        "date_updated": 1780524721,
+        "date_posted": 1780524365,
+        "url": "https://dow.wd1.myworkdayjobs.com/ExternalCareers/job/Midland-MI-USA/Data-Engineer_R2066470",
+        "locations": [
+            "Urbana, IL",
+            "Houston, TX",
+            "Remote in USA",
+            "Bay City, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Dow-Chemical-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "UTHealth Houston",
+        "id": "648f6adc-8d31-4c82-b716-379c534a6f7b",
+        "title": "Clinical IS Analyst Associate - Epic",
+        "active": true,
+        "date_updated": 1780524668,
+        "date_posted": 1780524330,
+        "url": "https://fa-eomf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/7053",
+        "locations": [
+            "San Antonio, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/UTHealth-Houston",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Southern California",
+        "id": "a2df6ccd-ab82-40ff-9339-3738fb531133",
+        "title": "Programmer Analyst 1",
+        "active": true,
+        "date_updated": 1780524277,
+        "date_posted": 1780524079,
+        "url": "https://usc.wd5.myworkdayjobs.com/ExternalUSCCareers/job/Los-Angeles-CA---Health-Sciences-Campus/Programmer-Analyst-I_REQ20174715",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Southern-California",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Advanced Technology Services",
+        "id": "24510c03-3b39-4878-a00a-748b18799aea",
+        "title": "Calibration - Metrology Technician l",
+        "active": true,
+        "date_updated": 1780524913,
+        "date_posted": 1777331482,
+        "url": "https://job-boards.greenhouse.io/advancedtechnologyservices/jobs/4675951006",
+        "locations": [
+            "Flanagan, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Advanced-Technology-Services",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
         ]
     }
 ]
