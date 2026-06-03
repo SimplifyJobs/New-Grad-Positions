@@ -26673,7 +26673,7 @@
         "company_name": "ByteDance",
         "id": "cea1563c-802d-45b0-9937-3a8f1a7ec8bb",
         "title": "AI LLM Network Software Development Engineer Graduate - High Speed Network - 2026 Start PhD",
-        "active": false,
+        "active": true,
         "date_updated": 1762910356,
         "date_posted": 1761912369,
         "url": "https://jobs.bytedance.com/en/position/7509248845324273938/detail",
@@ -28663,7 +28663,7 @@
         "company_name": "ByteDance",
         "id": "d2bee24c-fe5c-403b-9483-ec8f0548321b",
         "title": "Graduate Research Scientist - Multiple Teams",
-        "active": false,
+        "active": true,
         "date_updated": 1762920003,
         "date_posted": 1761902066,
         "url": "https://jobs.bytedance.com/en/position/7540109673547581703/detail",
@@ -28681,7 +28681,7 @@
         "company_name": "ByteDance",
         "id": "d0a7e5d4-0029-4c15-aec8-ea347fe6067b",
         "title": "AI LLM Network Software Development Engineer Graduate - High Speed Network - 2026 Start PhD",
-        "active": false,
+        "active": true,
         "date_updated": 1762919946,
         "date_posted": 1761902067,
         "url": "https://jobs.bytedance.com/en/position/7509262740803930376/detail",
@@ -28753,7 +28753,7 @@
         "company_name": "ByteDance",
         "id": "ad0c0ea3-6eff-409b-91d6-adcf6f76c26e",
         "title": "Software Development Engineer Graduate - SDN Traffic Intelligence & Control",
-        "active": false,
+        "active": true,
         "date_updated": 1761902071,
         "date_posted": 1761902071,
         "url": "https://jobs.bytedance.com/en/position/7509262736619571474/detail",
@@ -242278,7 +242278,7 @@
         "company_name": "ByteDance",
         "id": "864af4f6-3292-4ecc-9131-99c07de4bdd5",
         "title": "Software Development Engineer - Network Monitoring & Alerts",
-        "active": false,
+        "active": true,
         "date_updated": 1774660236,
         "date_posted": 1774660236,
         "url": "https://jobs.bytedance.com/en/position/7399926633496365321/detail",
@@ -318710,7 +318710,7 @@
         "company_name": "Ohio State University",
         "id": "645a8824-f84c-48a9-8086-a81c0da04a3b",
         "title": "Senior Research Technician - Explainable Perspective Narrative prediction project",
-        "active": true,
+        "active": false,
         "date_updated": 1779804682,
         "date_posted": 1779804248,
         "url": "https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Columbus-Campus/Research-Senior-Technician_R151814-1",
@@ -334318,7 +334318,7 @@
         "company_name": "General Motors",
         "id": "95fe52bd-6718-4467-a2b0-76f1071db57d",
         "title": "Software Developer - Test Framework",
-        "active": false,
+        "active": true,
         "date_updated": 1780352904,
         "date_posted": 1780351604,
         "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Markham-Ontario-Canada/Early-Career-Software-Developer---Test-Framework_JR-202612062",
@@ -336376,7 +336376,7 @@
         "company_name": "Robinhood",
         "id": "d29d0ba6-f452-4cd2-aba0-0075b6bddd0b",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1780439406,
         "date_posted": 1780438253,
         "url": "https://boards.greenhouse.io/robinhood/jobs/7975531",
@@ -336755,7 +336755,7 @@
         "company_name": "Robinhood",
         "id": "666f4677-79fb-4513-a45d-cb8f29bfc122",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1780449132,
         "date_posted": 1780438253,
         "url": "https://boards.greenhouse.io/robinhood/jobs/7975558",
@@ -336767,6 +336767,274 @@
         "sponsorship": "Other",
         "degrees": [
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Nuro",
+        "id": "27c87258-83f7-4250-aea7-489c57222e3e",
+        "title": "Software Engineer New Grad - Performance",
+        "active": true,
+        "date_updated": 1780467866,
+        "date_posted": 1780467668,
+        "url": "https://nuro.ai/careersitem?gh_jid=7978432",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Nuro",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Trend Micro",
+        "id": "2663d015-a893-4120-af0b-22046dcc1ff6",
+        "title": "Applied AI Backend Software Developer",
+        "active": true,
+        "date_updated": 1780467121,
+        "date_posted": 1780466954,
+        "url": "https://trendmicro.wd3.myworkdayjobs.com/External/job/Ottawa/Applied-AI-Backend-Software-Developer---Ottawa--ON_R0009719",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Trend-Micro",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "fdc3a455-e72d-403a-8bf1-c952e5131c84",
+        "title": "Graduate Machine Learning Engineer",
+        "active": true,
+        "date_updated": 1780466981,
+        "date_posted": 1780466890,
+        "url": "https://jobs.bytedance.com/en/position/7515571512419338514/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Amazon",
+        "id": "efb35e03-45dc-4c5c-863d-e5e3ca58c8f7",
+        "title": "ML Data Associate - AGI-Leapfrog",
+        "active": true,
+        "date_updated": 1780466761,
+        "date_posted": 1780466737,
+        "url": "https://amazon.jobs/en/jobs/10437699/ml-data-associate-agi-leapfrog",
+        "locations": [
+            "India",
+            "Tennessee",
+            "Chennai, Tamil Nadu, India"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "7e4aaa4a-ae09-48e2-814b-00f042663aa4",
+        "title": "Graduate AIOps Engineer - Data Center Networking",
+        "active": true,
+        "date_updated": 1780466995,
+        "date_posted": 1780466896,
+        "url": "https://jobs.bytedance.com/en/position/7538114876280817927/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "7dc64487-f056-4398-92c1-882600b6b151",
+        "title": "Machine Learning Graduate - E-Commerce Governance - BS/MS",
+        "active": true,
+        "date_updated": 1780466950,
+        "date_posted": 1780466889,
+        "url": "https://jobs.bytedance.com/en/position/7538929248565381383/detail",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "70940fcd-5a16-43f2-a8b6-6d04d6592298",
+        "title": "RDMA Network Software Development Engineer Graduate - High Speed Network",
+        "active": true,
+        "date_updated": 1780466950,
+        "date_posted": 1780466900,
+        "url": "https://jobs.bytedance.com/en/position/7509266973013690631/detail",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "660c3a00-d629-407f-a045-aae133cd0c02",
+        "title": "Graduate Machine Learning Engineer - E-Commerce Governance - PhD",
+        "active": true,
+        "date_updated": 1780466989,
+        "date_posted": 1780466891,
+        "url": "https://jobs.bytedance.com/en/position/7527426391449864466/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "GE Aerospace",
+        "id": "64c97be9-c854-4d73-89a5-207aa93f3e37",
+        "title": "Digital Technology Leadership Program - Dtlp",
+        "active": true,
+        "date_updated": 1780466950,
+        "date_posted": 1780466765,
+        "url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Digital-Technology-Leadership-Program--DTLP----2027-Start_R5031062",
+        "locations": [
+            "Sharonville, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Aerospace",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "2e3c62d7-145c-40a1-be15-9566931b9276",
+        "title": "Graduate Machine Learning Engineer - E-Commerce Governance-CV/NLP/Multimodal/LLM",
+        "active": true,
+        "date_updated": 1780466990,
+        "date_posted": 1780466893,
+        "url": "https://jobs.bytedance.com/en/position/7515582521393318151/detail",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "NVIDIA",
+        "id": "28f533ee-77db-4862-babb-7897aa104c42",
+        "title": "Cell Modeling and Verification Engineer New Grad",
+        "active": true,
+        "date_updated": 1780467005,
+        "date_posted": 1780466907,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Cell-Modelling-and-Verification-Engineer---New-College-Grad-2026_JR2011631",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "28364c69-14ae-4cf0-ae5a-eaa37e2e3cab",
+        "title": "Graduate Machine Learning Engineer - E-Commerce Governance - PhD",
+        "active": true,
+        "date_updated": 1780466976,
+        "date_posted": 1780466893,
+        "url": "https://jobs.bytedance.com/en/position/7527430521355143431/detail",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Robinhood",
+        "id": "836979c6-5b5b-4052-b554-a29bef35e938",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1780467121,
+        "date_posted": 1780438253,
+        "url": "https://boards.greenhouse.io/robinhood/jobs/7975516",
+        "locations": [
+            "Menlo Park, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Robinhood",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
