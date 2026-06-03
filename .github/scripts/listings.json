@@ -2,25 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "The Travelers Companies",
-        "id": "c675f440-e0c7-49a3-a8b2-d85461f7cab2",
-        "title": "Software Engineer 1 - Guidewire",
-        "active": false,
-        "date_updated": 1761919034,
-        "date_posted": 1759792691,
-        "url": "https://travelers.wd5.myworkdayjobs.com/External/job/GA---Atlanta/Software-Engineer-I---Guidewire_R-46178",
-        "locations": [
-            "Atlanta, GA",
-            "St Paul, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Travelers",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Uber",
         "id": "a1000d46-677c-4a53-846a-4429ec68e8f4",
         "title": "Software Engineer 1 - iOS",
@@ -251062,7 +251043,7 @@
         "company_name": "Lawrence Livermore National Laboratory (LLNL)",
         "id": "2f401ee7-322a-4ba8-8b3f-845a1bb46211",
         "title": "Computer Vision for High Energy Laser Alignment Systems - Postdoctoral Researcher",
-        "active": true,
+        "active": false,
         "date_updated": 1775168821,
         "date_posted": 1775167527,
         "url": "https://jobs.smartrecruiters.com/LLNL/3743990012440834",
@@ -335513,7 +335494,7 @@
         "company_name": "Cisco",
         "id": "dd41795d-26bf-459d-8d69-e77d6ff3a99c",
         "title": "Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1780439527,
         "date_posted": 1780438079,
         "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/London-United-Kingdom/Data-Analyst_2013255",
@@ -338402,6 +338383,197 @@
             "Boston, MA"
         ],
         "company_url": "https://simplify.jobs/c/MERGE-World",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Interwell Health",
+        "id": "d8f3b40f-7488-4eef-a14f-70ca05c4e50c",
+        "title": "Senior Data Analyst - Data Infrastructure",
+        "active": true,
+        "date_updated": 1780525911,
+        "date_posted": 1780524693,
+        "url": "https://job-boards.greenhouse.io/interwellhealth/jobs/5234251008",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Interwell-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Walmart",
+        "id": "cc9590a4-ad3f-4d46-b571-360a97bd998e",
+        "title": "Staff Data Scientist - Data Scientist",
+        "active": true,
+        "date_updated": 1780526070,
+        "date_posted": 1780524757,
+        "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-Bentonville-Global-Tech-AR-BENTONVILLE-Home-Office/XMLNAME--USA--Staff--Data-Scientist_R-2524034",
+        "locations": [
+            "Bentonville, AR",
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Walmart",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "NVIDIA",
+        "id": "964d2490-a81d-4955-9750-c982340640a3",
+        "title": "AI Inference Performance Engineer New Grad",
+        "active": true,
+        "date_updated": 1780524815,
+        "date_posted": 1780524471,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Inference-Performance-Engineer---New-College-Grad-2026_JR2014441",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Walmart",
+        "id": "4b88aa54-65d2-4404-8c96-2fc4622a4bcf",
+        "title": "Staff Data Scientist",
+        "active": true,
+        "date_updated": 1780526200,
+        "date_posted": 1780524757,
+        "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-Bentonville-Global-Tech-AR-BENTONVILLE-Home-Office/XMLNAME--USA--Staff--Data-Scientist_R-2524001",
+        "locations": [
+            "Bentonville, AR",
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Walmart",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Walmart",
+        "id": "f88f43de-5ac5-4e0c-a9d4-3397e78d3fe8",
+        "title": "Software Engineer 3",
+        "active": true,
+        "date_updated": 1780525553,
+        "date_posted": 1780524758,
+        "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-Sams-Home-Office-AR-Bentonville-Home-Office/XMLNAME--USA--Software-Engineer-III_R-2471899",
+        "locations": [
+            "Bentonville, AR"
+        ],
+        "company_url": "https://simplify.jobs/c/Walmart",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "OCLC",
+        "id": "dfc65abd-fd54-4982-b9dd-81631d0deee4",
+        "title": "Software Engineer Associate",
+        "active": true,
+        "date_updated": 1780525094,
+        "date_posted": 1780524370,
+        "url": "https://oclc.wd1.myworkdayjobs.com/en-US/OCLC_Careers/job/Dublin-OH--Hybrid/Associate-Software-Engineer_R0003850",
+        "locations": [
+            "Dublin, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/350afefb-30b2-4d69-899d-19a3d7dd96f5",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Reach Financial",
+        "id": "39349736-2696-42cf-9e4b-deaf9d2b3246",
+        "title": "Credit Risk Analyst",
+        "active": true,
+        "date_updated": 1780526126,
+        "date_posted": 1780525423,
+        "url": "https://job-boards.greenhouse.io/reach/jobs/8573228002",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Reach-Financial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Mercury Insurance",
+        "id": "15e7eab5-4982-4400-aef6-397d5a5dc3b0",
+        "title": "Product Analyst 1",
+        "active": true,
+        "date_updated": 1780524517,
+        "date_posted": 1780524335,
+        "url": "https://careers-mercuryinsurance.icims.com/jobs/6462/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Mercury-Insurance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Forbes",
+        "id": "ce0416e9-2073-426c-845d-43f0aad3d4e4",
+        "title": "Researcher",
+        "active": true,
+        "date_updated": 1780525544,
+        "date_posted": 1775830944,
+        "url": "https://job-boards.greenhouse.io/forbes/jobs/5841049004",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Forbes",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
