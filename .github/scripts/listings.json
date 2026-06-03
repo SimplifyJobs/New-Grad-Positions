@@ -78592,7 +78592,7 @@
         "company_name": "AlphaSights",
         "id": "0d9fc84a-9181-4023-970f-d4fe85842c01",
         "title": "Associate Product Marketing Manager",
-        "active": true,
+        "active": false,
         "date_updated": 1764985829,
         "date_posted": 1764985829,
         "url": "https://www.alphasights.com/careers/open-roles?gh_jid=7448776",
@@ -144467,7 +144467,7 @@
         "company_name": "Ultra",
         "id": "e786efe2-266d-4400-8071-933ea24f11b5",
         "title": "Production Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1769733703,
         "date_posted": 1769733703,
         "url": "https://ultra.wd3.myworkdayjobs.com/ultra-careers/job/Dartmouth-NS-Canada/Production-Technician_REQ-11324",
@@ -238407,7 +238407,7 @@
         "company_name": "Omnicom Health",
         "id": "e8167110-b3d8-492f-b3c1-9bda852eef82",
         "title": "Programmer",
-        "active": true,
+        "active": false,
         "date_updated": 1774535657,
         "date_posted": 1774535657,
         "url": "https://job-boards.greenhouse.io/omnicomhealth/jobs/5147698008",
@@ -240049,7 +240049,7 @@
         "company_name": "Windfall",
         "id": "d0a4c7e2-43b2-41b9-8da4-da0a2912cfda",
         "title": "Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1772530746,
         "date_posted": 1767136073,
         "url": "https://jobs.lever.co/windfalldata/1aeb7cb5-c978-416e-a119-1243d055e3fd/apply",
@@ -246041,7 +246041,7 @@
         "company_name": "Thermo Fisher Scientific",
         "id": "ba2211a6-3041-48aa-9111-edebe44105f2",
         "title": "Field Service Engineer 1 - Asset Management",
-        "active": false,
+        "active": true,
         "date_updated": 1774999551,
         "date_posted": 1774479122,
         "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/West-Greenwich-Rhode-Island-USA/Field-Service-Engineer-I--Asset-Management-_R-01345001",
@@ -319513,7 +319513,7 @@
         "company_name": "Shure",
         "id": "f8b09051-41da-48cb-a650-f12186438a2a",
         "title": "Marketing Data Specialist 1",
-        "active": true,
+        "active": false,
         "date_updated": 1779820021,
         "date_posted": 1777385060,
         "url": "https://careersus-shure.icims.com/jobs/4720/job?mobile=true&needsRedirect=false",
@@ -332328,7 +332328,7 @@
         "company_name": "GE Healthcare",
         "id": "d0c9719f-a3d9-4720-acc4-f89f17ec0609",
         "title": "Lead Service Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1780307361,
         "date_posted": 1780134777,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Lead-Service-Engineer_R4041301-1",
@@ -334777,7 +334777,7 @@
         "company_name": "The Toro Company",
         "id": "e09a8a7b-96c7-4b97-baa5-753234702118",
         "title": "Technical Product Support Representative 1",
-        "active": true,
+        "active": false,
         "date_updated": 1780394492,
         "date_posted": 1780133094,
         "url": "https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/Technical-Product-Support-Representative-I---The-Toro-Company_JR16145",
@@ -334797,7 +334797,7 @@
         "company_name": "Amgen",
         "id": "db438c18-61af-4391-b139-a94759237734",
         "title": "Senior Manufacturing Systems Engineer - Manufacturing Systems and Integrated Technologies",
-        "active": true,
+        "active": false,
         "date_updated": 1780394275,
         "date_posted": 1780135829,
         "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/US---California---Thousand-Oaks/Senior-Manufacturing-Systems-Engineer---Manufacturing-Systems-and-Integrated-Technologies_R-239125",
@@ -335321,7 +335321,7 @@
         "company_name": "Johnson Controls",
         "id": "cbc6b646-5043-43db-8dbb-2c7c6839a498",
         "title": "AI Project Data Modelling Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1780439826,
         "date_posted": 1780438206,
         "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Milwaukee-Wisconsin-United-States-of-America/AI-Project-Data-Modelling-Analyst_WD30270459",
@@ -335458,7 +335458,7 @@
         "company_name": "Neuberger Berman",
         "id": "f0a11a13-2381-4a71-80f1-7dcacdf1794c",
         "title": "Developer 2 - Full Stack Python Developer - Equities Investment Technology",
-        "active": true,
+        "active": false,
         "date_updated": 1780438778,
         "date_posted": 1780437998,
         "url": "https://nb.wd1.myworkdayjobs.com/en-US/NBCareers/job/New-York-NY/Full-Stack-Python-Developer---Equities-Investments_R0011530",
@@ -337265,6 +337265,47 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Smithfield Foods",
+        "id": "d96b8db7-e66c-41b1-bd4a-c07d44229d27",
+        "title": "Associate Research and Development Technologist",
+        "active": true,
+        "date_updated": 1780480706,
+        "date_posted": 1780134991,
+        "url": "https://smithfieldfoods.wd1.myworkdayjobs.com/Careers/job/Smithfield-VA/Associate-R-D-Technologist_R-2026-5951",
+        "locations": [
+            "Newport News, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Smithfield-Foods",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GE Healthcare",
+        "id": "e5fa4799-a260-407a-b0e3-d49579653596",
+        "title": "Field Service Engineer 1 Surgery",
+        "active": true,
+        "date_updated": 1780481215,
+        "date_posted": 1780134828,
+        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1-Surgery---Jackson--TN_R4039686-1",
+        "locations": [
+            "Jackson, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Healthcare",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
         ]
     }
 ]
