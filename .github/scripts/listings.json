@@ -330318,7 +330318,7 @@
         "company_name": "Intel",
         "id": "fe761bec-738e-4c51-9f7a-1de8a9cb717a",
         "title": "Packaging Module Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1779963703,
         "date_posted": 1779919844,
         "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Packaging-Module-Engineer_JR0284365-1",
@@ -334318,7 +334318,7 @@
         "company_name": "General Motors",
         "id": "95fe52bd-6718-4467-a2b0-76f1071db57d",
         "title": "Software Developer - Test Framework",
-        "active": true,
+        "active": false,
         "date_updated": 1780352904,
         "date_posted": 1780351604,
         "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Markham-Ontario-Canada/Early-Career-Software-Developer---Test-Framework_JR-202612062",
@@ -336568,6 +336568,205 @@
         "degrees": [
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SpaceX",
+        "id": "f651121d-673f-4c6a-9e6f-431307f6601d",
+        "title": "Software Engineer - Components - Starshield",
+        "active": true,
+        "date_updated": 1780449132,
+        "date_posted": 1780449039,
+        "url": "https://boards.greenhouse.io/spacex/jobs/8575987002",
+        "locations": [
+            "West Athens, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/SpaceX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Adobe",
+        "id": "356847c0-315f-4657-b79e-9b4f4a455699",
+        "title": "Machine Learning Engineer",
+        "active": true,
+        "date_updated": 1780449074,
+        "date_posted": 1780448804,
+        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Machine-Learning-Engineer_R169351",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Adobe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Sysmex",
+        "id": "ec47e4f9-5541-4319-bf9c-23e3c26386ae",
+        "title": "Service Center System Specialist 1 - Service Center System",
+        "active": true,
+        "date_updated": 1780449085,
+        "date_posted": 1780448818,
+        "url": "https://careers-sysmex.icims.com/jobs/4720/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Wheeling, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Sysmex",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Silicon Laboratories",
+        "id": "c7142e93-997d-4cb6-a4e3-6cd5fac970ad",
+        "title": "Digital Design Engineer 1",
+        "active": true,
+        "date_updated": 1780449095,
+        "date_posted": 1780448873,
+        "url": "https://silabs.wd1.myworkdayjobs.com/SiliconlabsCareers/job/Austin/Digital-Design-Engineer-I_20658-1",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Silicon-Laboratories",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Albertsons",
+        "id": "b00d86ec-7d19-4014-888c-ba97cde96d09",
+        "title": "Entry Level Front End Engineer",
+        "active": true,
+        "date_updated": 1780449110,
+        "date_posted": 1780448913,
+        "url": "https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/718380",
+        "locations": [
+            "Greenwich, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/Albertsons",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Hippocratic AI",
+        "id": "61e7119e-a5c6-495e-bf90-f748c4c4be36",
+        "title": "Deployment Strategist",
+        "active": true,
+        "date_updated": 1780448941,
+        "date_posted": 1780448910,
+        "url": "https://jobs.ashbyhq.com/Hippocratic%20AI/21894d45-101f-4870-8b70-13fab19936d8/application",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Hippocratic-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "53afcb81-1e2e-483f-a749-45c014336327",
+        "title": "Graduate Software Engineer - Cloud Native Infrastructure",
+        "active": true,
+        "date_updated": 1780449015,
+        "date_posted": 1780448907,
+        "url": "https://jobs.bytedance.com/en/position/7538951609075271943/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Johnson Controls",
+        "id": "32fb094d-20ad-4df2-922e-15740c905231",
+        "title": "Software Engineer - Data Center Engineering",
+        "active": true,
+        "date_updated": 1780449119,
+        "date_posted": 1780448930,
+        "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Glendale-Wisconsin-United-States-of-America/Software-Engineer---Data-Center-Engineering_WD30270943-1",
+        "locations": [
+            "Brown Deer, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Johnson-Controls",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Field AI",
+        "id": "1cd37e4b-90b2-469b-9dc0-679ff02cd63b",
+        "title": "Field Application Engineer",
+        "active": true,
+        "date_updated": 1780448941,
+        "date_posted": 1780448785,
+        "url": "https://jobs.lever.co/field-ai/356e9ed8-9bb5-45d9-acf9-696d3f9b9566/apply",
+        "locations": [
+            "Cardiff, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Field-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Robinhood",
+        "id": "666f4677-79fb-4513-a45d-cb8f29bfc122",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1780449132,
+        "date_posted": 1780438253,
+        "url": "https://boards.greenhouse.io/robinhood/jobs/7975558",
+        "locations": [
+            "Menlo Park, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Robinhood",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
         ]
     }
 ]
