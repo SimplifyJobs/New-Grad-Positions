@@ -1,59 +1,5 @@
 [
     {
-        "date_updated": 1762553366,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": false,
-        "degrees": [],
-        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/C---Junioe-Software-Developer_R0147255",
-        "company_name": "Amentum",
-        "title": "C++ Junior Software Developer",
-        "locations": [
-            "Dahlgren, VA"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "408395b2-65e2-4773-b1ed-bfb2a217c515",
-        "date_posted": 1759739587,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1764857387,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": false,
-        "degrees": [],
-        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/C---Junior-Software-Developer_R0147273",
-        "company_name": "Amentum",
-        "title": "C++ Junior Software Developer",
-        "locations": [
-            "Dahlgren, VA"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "5fc15d6c-3a79-4484-8cd8-a40ca2a77331",
-        "date_posted": 1759739632,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1761560348,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": false,
-        "degrees": [],
-        "url": "https://careers-gdbiw.icims.com/jobs/4839",
-        "company_name": "General Dynamics",
-        "title": "Configuration and Logistics Data Analyst I, II, Engineering",
-        "locations": [
-            "Brunswick, ME"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "AlmondCroffle",
-        "id": "39c8c206-301c-4da1-b9ee-d5261e882300",
-        "date_posted": 1759740969,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "source": "Simplify",
         "category": "Software",
         "company_name": "The Travelers Companies",
@@ -176716,7 +176662,7 @@
         "company_name": "Axon",
         "id": "5e01b73c-fb23-4866-a4da-8999702383fb",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1772431282,
         "date_posted": 1771498962,
         "url": "https://job-boards.greenhouse.io/axon/jobs/7620148003",
@@ -250640,7 +250586,7 @@
         "company_name": "Intel",
         "id": "2e2e284e-a016-4be4-9dd1-40ea71fd871f",
         "title": "Post-silicon Validation and Debug Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1775140816,
         "date_posted": 1775138926,
         "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Post-silicon-Validation-and-Debug-Engineer_JR0282307",
@@ -271686,7 +271632,7 @@
         "company_name": "Starr Insurance",
         "id": "4b3b62ab-8a54-497b-8960-12d37fc7b539",
         "title": "MI and Analytics Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1776294041,
         "date_posted": 1776290891,
         "url": "https://starrcompanies.wd1.myworkdayjobs.com/careers/job/399-Park-Avenue-New-York-NY/MI-and-Analytics-Analyst_JR4133",
@@ -273189,7 +273135,7 @@
         "company_name": "GlobalFoundries",
         "id": "63f1bc7c-5f89-4b81-9acf-4494b2056143",
         "title": "AI Enablement Strategist \u2013 New College Graduate",
-        "active": false,
+        "active": true,
         "date_updated": 1776377161,
         "date_posted": 1776117938,
         "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/AI-Enablement-Strategist--New-College-Graduate-_JR-2600367",
@@ -328079,7 +328025,7 @@
         "company_name": "Community Health Systems",
         "id": "4b045685-568c-4ba8-91a2-9e8cfa2738f8",
         "title": "Service Desk Rep",
-        "active": true,
+        "active": false,
         "date_updated": 1779920281,
         "date_posted": 1779919676,
         "url": "https://fa-evxo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/153865",
@@ -333608,7 +333554,7 @@
         "company_name": "Andrew Morgan",
         "id": "5b8e7891-a9c0-4285-9cbd-1b8659d5b957",
         "title": "Business Data Analyst 1",
-        "active": false,
+        "active": true,
         "date_updated": 1780353304,
         "date_posted": 1780351728,
         "url": "https://andrew-morgan.com/current-openings/?gh_jid=5232507008",
@@ -333844,7 +333790,7 @@
         "company_name": "Trane Technologies",
         "id": "3a9cfa03-6faa-4a01-878f-ba744b4fcec1",
         "title": "Junior AI Controls Integrator",
-        "active": false,
+        "active": true,
         "date_updated": 1780352698,
         "date_posted": 1780351706,
         "url": "https://careers.tranetechnologies.com/global/en/job/JR-5112",
@@ -335552,7 +335498,7 @@
         "company_name": "PJM",
         "id": "54b01c4c-d6dd-4954-ac9f-967ae0e0b6c0",
         "title": "Engineer/Analyst 1 - II",
-        "active": true,
+        "active": false,
         "date_updated": 1780439404,
         "date_posted": 1780438036,
         "url": "https://pjm.wd5.myworkdayjobs.com/pjmcareers/job/Audubon-PA-Hybrid/Engineer-Analyst-I--II-_REQ-2026-4184-1",
@@ -337019,5 +336965,65 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Leidos",
+        "id": "47bb4142-ac9c-4b00-a978-195a851764a2",
+        "title": "Junior Software Engineer",
+        "active": true,
+        "date_updated": 1780476358,
+        "date_posted": 1780437967,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Junior-Software-Engineer_R-00184572",
+        "locations": [
+            "Arlington, VA",
+            "Alexandria, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Financial Conduct Authority",
+        "id": "37ad87a6-7f98-45e7-bb96-0eb0a21266d9",
+        "title": "Insights Design and Development Analyst",
+        "active": true,
+        "date_updated": 1780475809,
+        "date_posted": 1780351582,
+        "url": "https://fca.wd3.myworkdayjobs.com/FCA_Careers/job/London/Insights--Design-and-Development-Analyst_JR0021605",
+        "locations": [
+            "London, UK",
+            "Edinburgh, UK",
+            "Leeds, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Financial-Conduct-Authority",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CoreWeave",
+        "id": "2d94d2c9-38a0-4607-86f9-6d9bad3ee2e0",
+        "title": "GPU Infrastructure Software Engineer",
+        "active": true,
+        "date_updated": 1780475401,
+        "date_posted": 1766103640,
+        "url": "https://coreweave.com/careers/job?4627287006&board=coreweave&gh_jid=4627287006",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/CoreWeave",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
