@@ -1,23 +1,5 @@
 [
     {
-        "date_updated": 1759953510,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
-        "degrees": [],
-        "url": "https://careers-gdms.icims.com/jobs/68413",
-        "company_name": "General Dynamics Mission Systems",
-        "title": "Junior Software Engineer",
-        "locations": [
-            "Dedham, MA"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "af2c11d7-fdfe-4639-a521-1cf700edc2b0",
-        "date_posted": 1759739389,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
         "date_updated": 1762553366,
         "sponsorship": "U.S. Citizenship is Required",
         "active": false,
@@ -307904,7 +307886,7 @@
         "company_name": "Dust",
         "id": "2a0aa6f5-9b75-48e1-a811-a18f8de42de4",
         "title": "AI Support Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1778746861,
         "date_posted": 1772417514,
         "url": "https://jobs.ashbyhq.com/dust/24b8c0ad-9cc5-4c64-8b78-caa57ca4b08e/application",
@@ -329464,7 +329446,7 @@
         "company_name": "Clipboard Health",
         "id": "240a825c-9ec7-4279-9962-397b2756b64a",
         "title": "Software Engineer - Frontend",
-        "active": true,
+        "active": false,
         "date_updated": 1779956298,
         "date_posted": 1774573973,
         "url": "https://jobs.ashbyhq.com/clipboard/b2e4a20e-4b36-44cb-ad57-604bb3f70fa1/application",
@@ -333222,7 +333204,7 @@
         "company_name": "Andrew Morgan",
         "id": "027f917c-5000-4389-bdd4-79e2e30d962e",
         "title": "OneStream Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1780353313,
         "date_posted": 1780351728,
         "url": "https://andrew-morgan.com/current-openings/?gh_jid=5237627008",
@@ -334347,7 +334329,7 @@
         "company_name": "Boston Consulting Group",
         "id": "2215c17f-edb0-4e7d-b8ef-0da16ee01d05",
         "title": "Consultant - Multiple Teams",
-        "active": true,
+        "active": false,
         "date_updated": 1780362973,
         "date_posted": 1780362547,
         "url": "https://careers.bcg.com/global/en/job/58278",
@@ -336974,6 +336956,64 @@
             "Menlo Park, CA"
         ],
         "company_url": "https://simplify.jobs/c/Robinhood",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Wing Assistant",
+        "id": "17db3930-30d2-4f98-8c39-6ec089d01e35",
+        "title": "AI Language Trainer",
+        "active": true,
+        "date_updated": 1780474681,
+        "date_posted": 1779930483,
+        "url": "https://jobs.lever.co/getwingapp/ed5f4d90-33e8-4d99-8625-cda2d55183f7/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Wing-Assistant",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Airbus",
+        "id": "0a0e8fdf-52bb-42fb-a2d3-f3c051049dd7",
+        "title": "Volunteer for International Experience (VIE) - Junior Technology Scouting",
+        "active": true,
+        "date_updated": 1780474581,
+        "date_posted": 1780438148,
+        "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Montreal-Area/VIE-2026---Canada---Junior-Technology-Scouting---H-F_JR10407712",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Airbus",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Micron Technology",
+        "id": "0d7e17ba-1903-46ba-bfa9-bf2aa26a1ba6",
+        "title": "Mixed Signal Design Engineer New Grad",
+        "active": true,
+        "date_updated": 1780474543,
+        "date_posted": 1778945051,
+        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Staff-Mixed-Signal-Design-Engine--HBM_JR93217",
+        "locations": [
+            "Richardson, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Micron-Technology",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
