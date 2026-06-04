@@ -59449,24 +59449,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Geosyntec Consultants",
-        "id": "a61a955c-2b9b-403c-9927-0e4b185d3b97",
-        "title": "Staff or Sr. Staff Environmental Engineer - Geologist - Or Scientist",
-        "active": false,
-        "date_updated": 1763712348,
-        "date_posted": 1759849177,
-        "url": "https://careers-geosyntec.icims.com/jobs/3292/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Anchorage, AK"
-        ],
-        "company_url": "https://simplify.jobs/c/Geosyntec-Consultants",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "General Dynamics",
         "id": "6bc957ff-b7af-4a67-95e7-463ab4f0971d",
@@ -333680,7 +333662,7 @@
         "company_name": "General Motors",
         "id": "95fe52bd-6718-4467-a2b0-76f1071db57d",
         "title": "Software Developer - Test Framework",
-        "active": false,
+        "active": true,
         "date_updated": 1780352904,
         "date_posted": 1780351604,
         "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Markham-Ontario-Canada/Early-Career-Software-Developer---Test-Framework_JR-202612062",
@@ -336523,7 +336505,7 @@
         "company_name": "Matillion",
         "id": "6f064ba4-8cb5-4c86-8237-7530909d2469",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1780477561,
         "date_posted": 1780477403,
         "url": "https://jobs.lever.co/matillion/62ae3359-b2ea-43bc-bed7-574e939f66e2/apply",
@@ -337832,7 +337814,7 @@
         "company_name": "Comcast",
         "id": "cdb46e36-8c58-4f1c-a56e-e59422e42739",
         "title": "Engineer 1 - Software Development & Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1780525451,
         "date_posted": 1780524624,
         "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/XMLNAME--Engineer-1--Software-Development---Engineering_R438244",
@@ -338710,5 +338692,123 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Freudenberg Group",
+        "id": "f62370f8-f141-4ff3-a1cf-6bf3a59ee49e",
+        "title": "Product & Digitalization Engineer",
+        "active": true,
+        "date_updated": 1780583581,
+        "date_posted": 1780582720,
+        "url": "https://freudenberg.wd3.myworkdayjobs.com/freudenberg-group/job/Bristol-NH/Product---Digitalization-Engineer_R_00102677",
+        "locations": [
+            "Concord, NH"
+        ],
+        "company_url": "https://simplify.jobs/c/Freudenberg-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Autodesk",
+        "id": "856132d5-028d-4122-93ac-e201545436c1",
+        "title": "Graduate Software Engineer",
+        "active": true,
+        "date_updated": 1780583941,
+        "date_posted": 1780582874,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/uni/job/Birmingham-GBR/Graduate-Software-Engineer_25WD90555",
+        "locations": [
+            "Birmingham, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Autodesk",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Hanger",
+        "id": "3d8cf8dc-5b98-464e-8135-8ea30a6b70c7",
+        "title": "Service Technician 1",
+        "active": true,
+        "date_updated": 1780584110,
+        "date_posted": 1780582736,
+        "url": "https://careers-hanger.icims.com/jobs/31457/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Hanger",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Autodesk",
+        "id": "05d1a1ad-1d03-4ce8-86af-55dcece17304",
+        "title": "Graduate Software Engineer",
+        "active": true,
+        "date_updated": 1780583941,
+        "date_posted": 1780582912,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Birmingham-GBR/Graduate-Software-Engineer_25WD90555-1",
+        "locations": [
+            "Birmingham, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Autodesk",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "General Dynamics Mission Systems",
+        "id": "25bf1002-16f7-4d53-bcf5-e005d14cffa8",
+        "title": "Entry Level Infrastructure Hardware Systems Engineer",
+        "active": true,
+        "date_updated": 1780583761,
+        "date_posted": 1780583006,
+        "url": "https://careers-gdms.icims.com/jobs/72936/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Pittsfield, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ASDA",
+        "id": "5f358c79-14f2-4c87-94b9-e1793174768b",
+        "title": "Data Analyst - Digital / Ecommerce",
+        "active": true,
+        "date_updated": 1780583401,
+        "date_posted": 1780582609,
+        "url": "https://asda.wd103.myworkdayjobs.com/AsdaJobs/job/Asda-House/Data-Analyst--Digital---eCommerce-_R-096895",
+        "locations": [
+            "Leeds, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/ASDA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
