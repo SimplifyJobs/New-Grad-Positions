@@ -1,25 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Uber",
-        "id": "ca34ac6f-47b2-47ce-9c51-cf79bfcc460f",
-        "title": "Software Engineer 1 - iOS",
-        "active": false,
-        "date_updated": 1760129978,
-        "date_posted": 1759824735,
-        "url": "https://www.uber.com/global/en/careers/list/149558/",
-        "locations": [
-            "SF",
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Uber",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Adobe",
         "id": "0a641504-4c74-476c-93e6-140bc60fc1ef",
@@ -40809,24 +40790,6 @@
             "Crawley, UK"
         ],
         "company_url": "https://simplify.jobs/c/Viridien",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Plume",
-        "id": "9793ef13-b96f-4e58-9af4-4bda50317c83",
-        "title": "NOC Analyst",
-        "active": false,
-        "date_updated": 1759825221,
-        "date_posted": 1759825221,
-        "url": "https://www.plume.com/career-opportunities/?gh_jid=8194487002",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Plume",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -207680,7 +207643,7 @@
         "company_name": "Odyssey Systems",
         "id": "02639487-6d07-4586-a3d3-71e3402381a5",
         "title": "Intermediate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1772838498,
         "date_posted": 1772838498,
         "url": "https://careers-odysseyconsult.icims.com/jobs/7515/job?mobile=true&needsRedirect=false",
@@ -305572,7 +305535,7 @@
         "company_name": "Invisible Technologies",
         "id": "09f496fd-4d6c-4303-b7a4-3bfde89cceb5",
         "title": "AI Training Generalist - AI Trainer",
-        "active": false,
+        "active": true,
         "date_updated": 1778708881,
         "date_posted": 1778624069,
         "url": "https://job-boards.eu.greenhouse.io/agency/jobs/4864014101",
@@ -336646,7 +336609,7 @@
         "company_name": "Airbus",
         "id": "0a0e8fdf-52bb-42fb-a2d3-f3c051049dd7",
         "title": "Volunteer for International Experience (VIE) - Junior Technology Scouting",
-        "active": true,
+        "active": false,
         "date_updated": 1780474581,
         "date_posted": 1780438148,
         "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Montreal-Area/VIE-2026---Canada---Junior-Technology-Scouting---H-F_JR10407712",
@@ -338594,6 +338557,27 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GE Healthcare",
+        "id": "16896f36-2a8d-4b1d-99c1-da18c5e7d68e",
+        "title": "Field Engineer 1",
+        "active": true,
+        "date_updated": 1780561123,
+        "date_posted": 1780437969,
+        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/FE-1-Bloomington--Illinois_R4041927-1",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Healthcare",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
         ]
     }
 ]
