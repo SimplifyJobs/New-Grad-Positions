@@ -19118,7 +19118,7 @@
         "company_name": "Cohere",
         "id": "143e1a80-c0aa-434f-8d41-77ca90a30883",
         "title": "Forward Deployed Engineer - Prompt Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1762532433,
         "date_posted": 1762532433,
         "url": "https://jobs.ashbyhq.com/cohere/6745547c-cc72-466c-867c-a0539b04909b/application",
@@ -91131,24 +91131,6 @@
             "Tacoma, WA"
         ],
         "company_url": "https://simplify.jobs/c/8cbd871d-4e1b-4472-a51d-63dde4a7094d",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Mercury Insurance",
-        "id": "4704348a-c61f-4253-a610-3ed6447e93c8",
-        "title": "Mercury Ignite Data Science Graduate Development Program",
-        "active": false,
-        "date_updated": 1766013685,
-        "date_posted": 1759871674,
-        "url": "https://careers-mercuryinsurance.icims.com/jobs/5990/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "California"
-        ],
-        "company_url": "https://simplify.jobs/c/Mercury-Insurance",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
