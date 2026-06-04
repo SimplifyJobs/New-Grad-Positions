@@ -40894,24 +40894,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Howmet Aerospace",
-        "id": "09d25264-4cd7-4527-a434-faab2ab391d7",
-        "title": "Product Engineer - Plant 5 - Ti-Cast",
-        "active": false,
-        "date_updated": 1759803048,
-        "date_posted": 1759803048,
-        "url": "https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/114644",
-        "locations": [
-            "Muskegon, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/Howmet-Aerospace",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "PTC",
         "id": "aaaa7c80-b44d-4496-a8ac-512b50eb9ddb",
