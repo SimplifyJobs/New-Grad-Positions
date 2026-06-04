@@ -274852,7 +274852,7 @@
         "company_name": "Arthur Grand Technologies",
         "id": "f75f0ef0-4976-4878-ac6d-176ddeea0c1c",
         "title": "Syteline ERP Support",
-        "active": false,
+        "active": true,
         "date_updated": 1776463381,
         "date_posted": 1776463360,
         "url": "https://jobs.smartrecruiters.com/ArthurGrandTechnologiesInc/744000121473057",
@@ -323744,7 +323744,7 @@
         "company_name": "Wood Mackenzie",
         "id": "554716b1-9de8-4112-9044-3070f03361a5",
         "title": "Data Assistant - Power & Renewables",
-        "active": false,
+        "active": true,
         "date_updated": 1779825065,
         "date_posted": 1779267998,
         "url": "https://woodmac.wd3.myworkdayjobs.com/woodmaccareers/job/Edinburgh-GB/Data-Assistant---Power---Renewables_JR2970",
@@ -338553,6 +338553,68 @@
             "Wilmington, DE"
         ],
         "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Cisco",
+        "id": "559f424d-bad3-418e-b46b-f22ac2822a27",
+        "title": "AI Researcher PhD",
+        "active": true,
+        "date_updated": 1780553347,
+        "date_posted": 1780553298,
+        "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Francisco-California-US/AI-Researcher-PhD--Full-Time--United-States_2016539",
+        "locations": [
+            "Milpitas, CA",
+            "SF",
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cisco",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Cisco",
+        "id": "5085a5aa-340a-43eb-923b-287a545244cf",
+        "title": "AI Researcher PhD",
+        "active": true,
+        "date_updated": 1780553569,
+        "date_posted": 1780553359,
+        "url": "https://careers.cisco.com/global/en/job/2016539",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Cisco",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Manulife Financial",
+        "id": "23b8b063-7d9a-4795-8bbf-57485ebeb1f2",
+        "title": "AI Product Analyst - Technology Operations",
+        "active": true,
+        "date_updated": 1780553161,
+        "date_posted": 1780553091,
+        "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/AI-Product-Analyst---Global-Technology-Operations_JR26051521-1",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Manulife-Financial",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
