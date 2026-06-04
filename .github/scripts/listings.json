@@ -40931,24 +40931,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Intercontinental Exchange",
-        "id": "895030de-907c-4292-9059-fb1919775ace",
-        "title": "Junior Technician - Data Center Operations",
-        "active": false,
-        "date_updated": 1761784732,
-        "date_posted": 1759799311,
-        "url": "https://careers-ice.icims.com/jobs/11024/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/ICEMarkets",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "PTC",
         "id": "aaaa7c80-b44d-4496-a8ac-512b50eb9ddb",
         "title": "Technical Support Engineer",
@@ -289958,7 +289940,7 @@
         "company_name": "Anduril",
         "id": "59da20b4-89d9-4050-8d93-b79c0953d1c7",
         "title": "Early Career Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1777442941,
         "date_posted": 1776895692,
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/4802146007",
@@ -334018,7 +334000,7 @@
         "company_name": "General Motors",
         "id": "95fe52bd-6718-4467-a2b0-76f1071db57d",
         "title": "Software Developer - Test Framework",
-        "active": false,
+        "active": true,
         "date_updated": 1780352904,
         "date_posted": 1780351604,
         "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Markham-Ontario-Canada/Early-Career-Software-Developer---Test-Framework_JR-202612062",
@@ -337408,7 +337390,7 @@
         "company_name": "Advanced Technology Services",
         "id": "24510c03-3b39-4878-a00a-748b18799aea",
         "title": "Calibration - Metrology Technician l",
-        "active": true,
+        "active": false,
         "date_updated": 1780524913,
         "date_posted": 1777331482,
         "url": "https://job-boards.greenhouse.io/advancedtechnologyservices/jobs/4675951006",
@@ -338483,7 +338465,7 @@
         "company_name": "Reach Financial",
         "id": "39349736-2696-42cf-9e4b-deaf9d2b3246",
         "title": "Credit Risk Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1780526126,
         "date_posted": 1780525423,
         "url": "https://job-boards.greenhouse.io/reach/jobs/8573228002",
@@ -338532,6 +338514,117 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Forbes",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Asana",
+        "id": "ad125cde-512f-426e-a370-7fb65c3cb8ec",
+        "title": "Software Engineer Early Career - Product",
+        "active": true,
+        "date_updated": 1780536276,
+        "date_posted": 1780536112,
+        "url": "https://www.asana.com/jobs/apply/7979625?gh_jid=7979625",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Asana",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "NVIDIA",
+        "id": "7fe82f64-e462-4332-a05e-b27e01539a59",
+        "title": "ASIC Clocks Design Engineer New College Grad",
+        "active": true,
+        "date_updated": 1780535495,
+        "date_posted": 1780535296,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Clocks-Design-Engineer---New-College-Grad-2026_JR2019229-1",
+        "locations": [
+            "Austin, TX",
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "PharmD",
+            "PhD",
+            "Associate's",
+            "JD",
+            "MD",
+            "Bootcamp",
+            "Certificate",
+            "Incomplete"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Albertsons",
+        "id": "27661236-09ec-450a-b497-537d69be2c72",
+        "title": "Entry Level Front End Engineer",
+        "active": true,
+        "date_updated": 1780535652,
+        "date_posted": 1780535431,
+        "url": "https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/718813",
+        "locations": [
+            "Amarillo, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Albertsons",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cadence Design Systems",
+        "id": "2134d7d7-d2d5-4472-81e0-003f733e8b2d",
+        "title": "Agentic AI Engineer",
+        "active": true,
+        "date_updated": 1780535521,
+        "date_posted": 1780535422,
+        "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/CARY/Agentic-AI-Engineer_R55029",
+        "locations": [
+            "Morrisville, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "JP Morgan Chase",
+        "id": "bf6301d3-a965-4a41-8bf1-b122e83223cc",
+        "title": "Associate \u2013 Product Analyst - Machine Learning & Intelligent Operations",
+        "active": true,
+        "date_updated": 1780535341,
+        "date_posted": 1780535309,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210726631",
+        "locations": [
+            "Plano, TX",
+            "Columbus, OH",
+            "Wilmington, DE"
+        ],
+        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
