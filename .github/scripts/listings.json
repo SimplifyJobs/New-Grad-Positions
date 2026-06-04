@@ -2,27 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Uber",
-        "id": "a1000d46-677c-4a53-846a-4429ec68e8f4",
-        "title": "Software Engineer 1 - iOS",
-        "active": false,
-        "date_updated": 1759794324,
-        "date_posted": 1759794324,
-        "url": "https://university-uber.icims.com/jobs/149558/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "SF",
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Uber",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Jerry",
         "id": "1d0cd1e8-171c-4145-8cfb-1b9d64f75678",
         "title": "Software Engineer 1 - Multiple Teams",
