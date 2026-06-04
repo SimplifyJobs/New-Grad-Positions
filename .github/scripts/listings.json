@@ -337070,7 +337070,7 @@
         "company_name": "Advanced Technology Services",
         "id": "24510c03-3b39-4878-a00a-748b18799aea",
         "title": "Calibration - Metrology Technician l",
-        "active": true,
+        "active": false,
         "date_updated": 1780524913,
         "date_posted": 1777331482,
         "url": "https://job-boards.greenhouse.io/advancedtechnologyservices/jobs/4675951006",
@@ -338633,6 +338633,82 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Electronic Arts",
+        "id": "51cb18f0-807f-4d83-bff8-6f1dd4e821a4",
+        "title": "Associate Producer EA SPORTS FC",
+        "active": true,
+        "date_updated": 1780582681,
+        "date_posted": 1780582622,
+        "url": "https://jobs.ea.com/en_US/careers/JobDetail/Associate-Producer-EA-SPORTS-FC/210861",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Electronic-Arts",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "General Dynamics UK",
+        "id": "34feb9e6-7b73-4519-9bf2-0905cd5c737f",
+        "title": "Junior Software Engineering Developer New Grad",
+        "active": true,
+        "date_updated": 1780582832,
+        "date_posted": 1780581896,
+        "url": "https://jobs.smartrecruiters.com/GDMSI/744000130212536",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-UK",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Neogen",
+        "id": "77d085e1-ba8e-4861-86ba-b5894bf97cb6",
+        "title": "Data Engineer",
+        "active": true,
+        "date_updated": 1780582321,
+        "date_posted": 1780582202,
+        "url": "https://neogen.wd5.myworkdayjobs.com/neogencareers/job/Remote/Data-Engineer_REQ-10346",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Neogen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Ohio State University",
+        "id": "7980c546-e9f6-40ca-b6a8-4df49850dce3",
+        "title": "Technical Coordinator - Women's Volleyball",
+        "active": true,
+        "date_updated": 1780581961,
+        "date_posted": 1780581882,
+        "url": "https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Columbus-Campus/Technical-Coordinator--Women-s-Volleyball_R150222-1",
+        "locations": [
+            "Columbus, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Ohio-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
