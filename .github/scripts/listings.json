@@ -40628,24 +40628,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Walmart",
-        "id": "fceed799-d9ec-4773-9d69-d3c8a4a6b27b",
-        "title": "Software Engineer III - Dataiku Platform",
-        "active": false,
-        "date_updated": 1761837457,
-        "date_posted": 1759836728,
-        "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/Software-Engineer-III---Dataiku-Platform_R-2315724",
-        "locations": [
-            "Bentonville, AR"
-        ],
-        "company_url": "https://simplify.jobs/c/Walmart",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "Cummins",
         "id": "eea21af6-73f0-4555-a96e-fbe86b576811",
@@ -314412,7 +314394,7 @@
         "company_name": "Ascot",
         "id": "edb6f613-2fdc-44cd-b80f-1a0a97ea0099",
         "title": "Associate Actuarial Data Analyst - Reserving",
-        "active": true,
+        "active": false,
         "date_updated": 1779315661,
         "date_posted": 1779314829,
         "url": "https://fa-emkq-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/968",
