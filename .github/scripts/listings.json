@@ -208342,7 +208342,7 @@
         "company_name": "ByteDance",
         "id": "9ce90e03-8ea6-48e7-8d5d-82a2de684e34",
         "title": "Graduate Research Engineer - Seed Infra",
-        "active": false,
+        "active": true,
         "date_updated": 1773092290,
         "date_posted": 1773092290,
         "url": "https://jobs.bytedance.com/en/position/7610599648994265397/detail",
@@ -247638,7 +247638,7 @@
         "company_name": "ByteDance",
         "id": "66729d57-3a29-40b5-8252-a50252c674ee",
         "title": "Research Scientist in Large Language Model - Seed - Large Language Model",
-        "active": false,
+        "active": true,
         "date_updated": 1775025695,
         "date_posted": 1775023744,
         "url": "https://jobs.bytedance.com/en/position/7623525222555961605/detail",
@@ -247698,7 +247698,7 @@
         "company_name": "ByteDance",
         "id": "2376dac8-17ba-4686-b74d-7e91d323e43e",
         "title": "Research Scientist in Speech Foundation Model \u2013 Graduates - Multiple Teams",
-        "active": false,
+        "active": true,
         "date_updated": 1775025181,
         "date_posted": 1775023744,
         "url": "https://jobs.bytedance.com/en/position/7623548379708197125/detail",
@@ -258377,7 +258377,7 @@
         "company_name": "ByteDance",
         "id": "8504f060-41c8-4446-8045-00c37e039e6d",
         "title": "Research Scientist Graduate - Security Flow",
-        "active": false,
+        "active": true,
         "date_updated": 1775629261,
         "date_posted": 1775628548,
         "url": "https://jobs.bytedance.com/en/position/7582010220022106421/detail",
@@ -277386,7 +277386,7 @@
         "company_name": "KLA Corporation",
         "id": "2df5accb-5f45-4f58-beb5-0315b9995f28",
         "title": "Product Development Engineer - Semiconductor/Capital Equipment",
-        "active": true,
+        "active": false,
         "date_updated": 1776523861,
         "date_posted": 1776523778,
         "url": "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Product-Development-Engineer_2531052",
@@ -289017,7 +289017,7 @@
         "company_name": "ServiceNow",
         "id": "4f23c841-6bbf-473a-bd5d-99e73ecda51b",
         "title": "Associate Software Engineer - Search Infrastructure - Moveworks",
-        "active": true,
+        "active": false,
         "date_updated": 1777413961,
         "date_posted": 1777413848,
         "url": "https://jobs.smartrecruiters.com/ServiceNow/744000123528060",
@@ -332851,7 +332851,7 @@
         "company_name": "Synchrony Financial",
         "id": "94e1ecd9-5612-4550-afef-3e975a2bbdb0",
         "title": "Mobile Engineer 1 - Digital Servicing - I",
-        "active": true,
+        "active": false,
         "date_updated": 1780352942,
         "date_posted": 1780351621,
         "url": "https://synchronyfinancial.wd5.myworkdayjobs.com/careers/job/Stamford-Hub/Mobile-Engineer-I---Digital-Servicing_2601598",
@@ -339514,6 +339514,268 @@
             "Gunpowder, MD"
         ],
         "company_url": "https://simplify.jobs/c/Data-Systems-Analysts",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "d580ce07-bba3-4543-a3e1-0346a775c096",
+        "title": "Software Engineer 1 - Core Systems & Libraries",
+        "active": true,
+        "date_updated": 1780612791,
+        "date_posted": 1780611054,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-124--400-Collins-Rd-NE--BLDG-124/Software-Engineer-1---Core-Systems---Libraries--Onsite-_01847677",
+        "locations": [
+            "Cedar Rapids, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Cisco",
+        "id": "b88bbe2e-a86e-430c-828a-1aa79c78fa82",
+        "title": "Design Verification Engineer - Acacia Networks",
+        "active": true,
+        "date_updated": 1780612588,
+        "date_posted": 1780610991,
+        "url": "https://careers.cisco.com/global/en/job/2014236",
+        "locations": [
+            "Holmdel, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Cisco",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "a1a30dee-6250-44f1-b64a-eeb2521b66e0",
+        "title": "AI Vision Research Engineer Graduate - PhD",
+        "active": true,
+        "date_updated": 1780611664,
+        "date_posted": 1780610912,
+        "url": "https://jobs.bytedance.com/en/position/7534943709490989319/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Caesars Entertainment",
+        "id": "7f5bbf4d-2ebf-4b2a-b880-21a32411365a",
+        "title": "Snack Bar Attendant",
+        "active": true,
+        "date_updated": 1780611664,
+        "date_posted": 1780610773,
+        "url": "https://edmn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/84113",
+        "locations": [
+            "Las Vegas, NV"
+        ],
+        "company_url": "https://simplify.jobs/c/Caesars-Entertainment",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Royal Bank of Canada",
+        "id": "65197974-8d30-414e-88fa-9b61ced840d6",
+        "title": "Quantitative Analytics & Monitoring Senior Analyst",
+        "active": true,
+        "date_updated": 1780612917,
+        "date_posted": 1780611250,
+        "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Senior-Analyst--Quantitative-Analytics---Monitoring_R-0000175153-1",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Johnson Controls",
+        "id": "3a0cab4a-9aca-40cf-a1e5-8ce0806c77de",
+        "title": "AI Project Data Modelling Analyst",
+        "active": true,
+        "date_updated": 1780612255,
+        "date_posted": 1780610833,
+        "url": "https://jci.wd5.myworkdayjobs.com/JCI_Confidential/job/Milwaukee-Wisconsin-United-States-of-America/AI-Project-Data-Modelling-Analyst_WD30270459-2",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Johnson-Controls",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Talan",
+        "id": "bfc09a29-ae70-4324-bd3d-b12b118d494f",
+        "title": "Junior AI & Data Consultant",
+        "active": true,
+        "date_updated": 1780610761,
+        "date_posted": 1780610692,
+        "url": "https://jobs.smartrecruiters.com/Talan/744000130236639",
+        "locations": [
+            "London, UK",
+            "Edinburgh, UK",
+            "Leeds, UK",
+            "Manchester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Talan",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Royal Bank of Canada",
+        "id": "bf2108f0-bc45-45d5-933d-51428117b477",
+        "title": "Analyst Data Sourcing",
+        "active": true,
+        "date_updated": 1780612924,
+        "date_posted": 1780611250,
+        "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Analyst--Data-Sourcing_R-0000175137-1",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Halifax Regional Municipality, NS, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Texas A&M University - College Station",
+        "id": "be1a0490-9b53-4e99-a2e8-ad37693e0998",
+        "title": "Program Aide",
+        "active": true,
+        "date_updated": 1780610761,
+        "date_posted": 1780610665,
+        "url": "https://tamus.wd1.myworkdayjobs.com/TAMU_External/job/College-Station-TX/Program-Aide_R-093817",
+        "locations": [
+            "College Station, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Texas-AM-University-College-Station",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Primetals Technologies",
+        "id": "96987133-07a3-4c60-9d64-0b2de61ca4e7",
+        "title": "Data Science Associate - Governance",
+        "active": true,
+        "date_updated": 1780611664,
+        "date_posted": 1780610814,
+        "url": "https://mhicareers.com/job/Lake-Mary-Data-Science-Associate-(Governance)-FL-32746/1401009733/?ats=successfactors",
+        "locations": [
+            "Lake Mary, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Primetals-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Patient First",
+        "id": "5404c4dc-9a0c-4870-bc95-76e358fa056e",
+        "title": "Analyst 1",
+        "active": true,
+        "date_updated": 1780610973,
+        "date_posted": 1780610692,
+        "url": "https://patientfirst.wd5.myworkdayjobs.com/patientfirst/job/Glen-Allen-VA/Analyst-I_R20261771",
+        "locations": [
+            "Glen Allen, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Patient-First",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "The Walt Disney Company",
+        "id": "50ea7249-3391-484e-af33-21116a55a639",
+        "title": "Media Replay Operator 1",
+        "active": true,
+        "date_updated": 1780612687,
+        "date_posted": 1780611007,
+        "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Charlotte-NC-USA/Part-Time-Media-Replay-Operator-I_10151581-1",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Disney",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "AlixPartners",
+        "id": "0d5b50ab-2558-4420-843b-98bbe40e6d25",
+        "title": "Customer Relationship Management Data Specialist",
+        "active": true,
+        "date_updated": 1780612914,
+        "date_posted": 1780611251,
+        "url": "https://www.alixpartners.com/careers/7763550003?gh_jid=7763550003",
+        "locations": [
+            "Southfield, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/AlixPartners",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
