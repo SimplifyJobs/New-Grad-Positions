@@ -2,31 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "DoorDash",
-        "id": "cb54a03c-1819-40d6-85dd-7c94b79b337e",
-        "title": "Software Engineer 1 - Multiple Teams",
-        "active": false,
-        "date_updated": 1759820594,
-        "date_posted": 1759820594,
-        "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7263610",
-        "locations": [
-            "Seattle, WA",
-            "SF",
-            "LA",
-            "NYC",
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/DoorDash",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Uber",
         "id": "ca34ac6f-47b2-47ce-9c51-cf79bfcc460f",
         "title": "Software Engineer 1 - iOS",
@@ -280077,7 +280052,7 @@
         "company_name": "The Boeing Company",
         "id": "749bba3d-f0f4-42b7-a97e-5db148093c70",
         "title": "Java Software Engineer \u2013 Experienced or Senior - Associate - Bixby",
-        "active": true,
+        "active": false,
         "date_updated": 1776733741,
         "date_posted": 1776733727,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seal-Beach-CA/Java-Software-Engineer--Associate--Experienced-or-Senior----Bixby_JR2026502912-1",
@@ -328452,7 +328427,7 @@
         "company_name": "Medtronic",
         "id": "e7cfb4a2-301c-473b-901b-8a987534112c",
         "title": "Cloud Software Engineer 1 - Neuro",
-        "active": true,
+        "active": false,
         "date_updated": 1779931025,
         "date_posted": 1779930477,
         "url": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Fridley-Minnesota-United-States-of-America/Cloud-Software-Engineer-I---Neuro---Rice-Creek-Fridley--MN_R66348",
@@ -336447,7 +336422,7 @@
         "company_name": "Amazon",
         "id": "efb35e03-45dc-4c5c-863d-e5e3ca58c8f7",
         "title": "ML Data Associate - AGI-Leapfrog",
-        "active": true,
+        "active": false,
         "date_updated": 1780466761,
         "date_posted": 1780466737,
         "url": "https://amazon.jobs/en/jobs/10437699/ml-data-associate-agi-leapfrog",
