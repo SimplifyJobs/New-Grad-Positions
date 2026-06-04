@@ -2,27 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Jerry",
-        "id": "1d0cd1e8-171c-4145-8cfb-1b9d64f75678",
-        "title": "Software Engineer 1 - Multiple Teams",
-        "active": false,
-        "date_updated": 1759796640,
-        "date_posted": 1759796640,
-        "url": "https://jobs.ashbyhq.com/jerry.ai/3bcc7471-9625-409b-b8ec-05fe1f28c66f/application",
-        "locations": [
-            "Palo Alto, CA",
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Jerry",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Fullbay",
         "id": "419f72c2-240d-4b3d-a47e-2ce148967ba0",
         "title": "Software Engineer I",
@@ -286904,7 +286883,7 @@
         "company_name": "Loop",
         "id": "9958d602-1c38-4084-a575-1404f99b6d04",
         "title": "New Grad - Full-Stack",
-        "active": true,
+        "active": false,
         "date_updated": 1777068971,
         "date_posted": 1777068421,
         "url": "https://job-boards.greenhouse.io/loop/jobs/5981831004",
@@ -292416,7 +292395,7 @@
         "company_name": "IXL Learning",
         "id": "9754aa29-a86b-42ee-912b-e70711d5baeb",
         "title": "Software Engineer \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1777598101,
         "date_posted": 1777598090,
         "url": "https://www.ixl.com/company/jobs?gh_jid=8530389002",
