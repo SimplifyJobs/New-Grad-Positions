@@ -2,27 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "DoorDash",
-        "id": "eb5c4a0b-d8f5-423d-bcdd-fe8299e01c51",
-        "title": "Software Engineer 1 - Multiple Teams",
-        "active": false,
-        "date_updated": 1759828547,
-        "date_posted": 1759828547,
-        "url": "https://job-boards.greenhouse.io/doordashcanada/jobs/7264351",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/DoorDash",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "RTX",
         "id": "94c8e7c1-8c2e-40e8-b8b6-a0778dfff751",
         "title": "Software Engineer 1 - Air Dominance Modeling and Analysis",
@@ -40733,24 +40712,6 @@
             "San Jose, CA"
         ],
         "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Viridien",
-        "id": "32630a1c-ac89-42c9-8670-0fc8eb773446",
-        "title": "Researcher",
-        "active": true,
-        "date_updated": 1759828750,
-        "date_posted": 1759828750,
-        "url": "https://cgg.wd103.myworkdayjobs.com/viridiencareers/job/Crawley-United-Kingdom/Researcher_JR100977",
-        "locations": [
-            "Crawley, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Viridien",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -329376,7 +329337,7 @@
         "company_name": "Thermo Fisher Scientific",
         "id": "752bfe0d-dbe5-4d4d-9c60-2ae61c5453cc",
         "title": "Field Service Engineer - Em",
-        "active": true,
+        "active": false,
         "date_updated": 1779959052,
         "date_posted": 1778942817,
         "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Fremont-California-USA/Field-Service-Engineer--EM--Fremont--CA-_R-01346012",
@@ -333529,7 +333490,7 @@
         "company_name": "Cisco",
         "id": "7ae13296-97a8-49a6-b2e3-2d55c44d4c99",
         "title": "Software Engineer Data/AI/Intelligent Systems 1",
-        "active": true,
+        "active": false,
         "date_updated": 1780353101,
         "date_posted": 1780351681,
         "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Data-AI-Intelligent-Systems-I--Full-Time----United-States_2000073",
@@ -333827,7 +333788,7 @@
         "company_name": "General Motors",
         "id": "95fe52bd-6718-4467-a2b0-76f1071db57d",
         "title": "Software Developer - Test Framework",
-        "active": true,
+        "active": false,
         "date_updated": 1780352904,
         "date_posted": 1780351604,
         "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Markham-Ontario-Canada/Early-Career-Software-Developer---Test-Framework_JR-202612062",
@@ -336731,7 +336692,7 @@
         "company_name": "RTX",
         "id": "7020a117-ae39-43b9-9e86-07cea0069f9a",
         "title": "Ultrasonic Technician S1",
-        "active": true,
+        "active": false,
         "date_updated": 1780477473,
         "date_posted": 1780438266,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-NY-CLAYVILLE-2395--2395-Main-St--MAIN/Ultrasonic-Technician-S1---5th-Shift--Onsite-_01849512",
@@ -336749,7 +336710,7 @@
         "company_name": "Stevens Institute of Technology",
         "id": "79e05eca-1049-4e66-b595-48c413a41398",
         "title": "Postdoctoral Associate-Systems Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1780477806,
         "date_posted": 1780131853,
         "url": "https://stevens.wd5.myworkdayjobs.com/External/job/Hoboken-NJ---Main-Campus/Postdoctoral-Associate-Systems-Engineering_RQ29678-1",
@@ -337217,7 +337178,7 @@
         "company_name": "Advanced Technology Services",
         "id": "24510c03-3b39-4878-a00a-748b18799aea",
         "title": "Calibration - Metrology Technician l",
-        "active": false,
+        "active": true,
         "date_updated": 1780524913,
         "date_posted": 1777331482,
         "url": "https://job-boards.greenhouse.io/advancedtechnologyservices/jobs/4675951006",
@@ -338635,5 +338596,45 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "EOS IT Solutions",
+        "id": "855cf417-5df9-460c-b32b-283c5e2350b6",
+        "title": "Graduate Data Centre Engineer",
+        "active": true,
+        "date_updated": 1780564254,
+        "date_posted": 1780564005,
+        "url": "https://eosits.com/company/careers/?gh_jid=8578282002",
+        "locations": [
+            "Ohio"
+        ],
+        "company_url": "https://simplify.jobs/c/EOS-IT-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "CAE",
+        "id": "6b141ff1-8be4-4516-8698-fbebff4ddd3a",
+        "title": "Field Engineer/Simulator Technician",
+        "active": true,
+        "date_updated": 1780563601,
+        "date_posted": 1779401454,
+        "url": "https://cae.wd3.myworkdayjobs.com/career/job/USA-CA-Edwards-AFB-305-E-Popson-Ave/Field-Engineer_122092",
+        "locations": [
+            "Edwards AFB, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/CAE",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
