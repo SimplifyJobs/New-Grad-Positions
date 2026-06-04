@@ -40913,24 +40913,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Valero",
-        "id": "d0284b2c-7f7a-4c32-9d6f-81614f835be2",
-        "title": "Technical Support Associate 1",
-        "active": false,
-        "date_updated": 1762931128,
-        "date_posted": 1759800777,
-        "url": "https://valero.taleo.net/careersection/2/jobdetail.ftl?job=25001BX",
-        "locations": [
-            "Amarillo, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Valero",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "PTC",
         "id": "aaaa7c80-b44d-4496-a8ac-512b50eb9ddb",
         "title": "Technical Support Engineer",
