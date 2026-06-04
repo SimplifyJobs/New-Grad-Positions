@@ -1,45 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Adobe",
-        "id": "0a641504-4c74-476c-93e6-140bc60fc1ef",
-        "title": "University Graduate - Data Scientist",
-        "active": false,
-        "date_updated": 1761839210,
-        "date_posted": 1759825890,
-        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Data-Scientist_R161170",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Adobe",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Reach Financial",
-        "id": "587196d6-05fb-4096-a1f6-4b83bbb3931a",
-        "title": "Junior Software Engineer",
-        "active": false,
-        "date_updated": 1759826862,
-        "date_posted": 1759826862,
-        "url": "https://job-boards.greenhouse.io/reach/jobs/8191593002",
-        "locations": [
-            "Remote in USA",
-            "Remote in Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Reach-Financial",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "DoorDash",
         "id": "eb5c4a0b-d8f5-423d-bcdd-fe8299e01c51",
@@ -56602,7 +56563,7 @@
         "company_name": "Cisco",
         "id": "5199b683-6293-4db7-9b3b-04a3a15cb801",
         "title": "Software Engineer Data/AI/Intelligent Systems 1",
-        "active": true,
+        "active": false,
         "date_updated": 1763664375,
         "date_posted": 1763664375,
         "url": "https://careers.cisco.com/global/en/job/2000073",
@@ -114066,7 +114027,7 @@
         "company_name": "The Boeing Company",
         "id": "2cdb25dd-7fc7-48c6-8f99-3ee8c0e74b5b",
         "title": "Atmospheric Scientist \u2013 Associate or Mid-Level",
-        "active": true,
+        "active": false,
         "date_updated": 1767916038,
         "date_posted": 1767916038,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Kirtland-AFB-NM/Atmospheric-Scientist--Associate-or-Mid-Level-_JR2026490878-1",
@@ -250263,7 +250224,7 @@
         "company_name": "Intel",
         "id": "2e2e284e-a016-4be4-9dd1-40ea71fd871f",
         "title": "Post-silicon Validation and Debug Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1775140816,
         "date_posted": 1775138926,
         "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Post-silicon-Validation-and-Debug-Engineer_JR0282307",
@@ -305100,7 +305061,7 @@
         "company_name": "Invisible Technologies",
         "id": "63ca1390-56fc-48af-b9ba-051246da636e",
         "title": "AI Training Generalist - AI Trainer",
-        "active": false,
+        "active": true,
         "date_updated": 1778708881,
         "date_posted": 1778624069,
         "url": "https://job-boards.eu.greenhouse.io/agency/jobs/4864006101",
@@ -305356,7 +305317,7 @@
         "company_name": "Invisible Technologies",
         "id": "62e6a96c-a6b4-455c-bacc-5b38f3055835",
         "title": "AI Training Generalist - AI Trainer",
-        "active": false,
+        "active": true,
         "date_updated": 1778708881,
         "date_posted": 1778624070,
         "url": "https://job-boards.eu.greenhouse.io/agency/jobs/4864005101",
@@ -319130,7 +319091,7 @@
         "company_name": "KAYAK",
         "id": "76d8d083-9203-48ca-9665-b807b533fb29",
         "title": "Analyst \u2013 Commercial Analytics",
-        "active": true,
+        "active": false,
         "date_updated": 1779820201,
         "date_posted": 1777500544,
         "url": "https://jobs.ashbyhq.com/KAYAK/18c43506-645b-4ec1-8027-9f22bf379415/application",
@@ -334234,7 +334195,7 @@
         "company_name": "CoStar Group",
         "id": "654a8203-8795-40c6-92f5-76afc4273093",
         "title": "Associate Research Consultant",
-        "active": true,
+        "active": false,
         "date_updated": 1780390666,
         "date_posted": 1780134807,
         "url": "https://costar.wd1.myworkdayjobs.com/en-US/CoStarCareers/job/US-VA-Richmond/Associate-Research-Consultant_R38934",
@@ -335175,7 +335136,7 @@
         "company_name": "PJM",
         "id": "54b01c4c-d6dd-4954-ac9f-967ae0e0b6c0",
         "title": "Engineer/Analyst 1 - II",
-        "active": false,
+        "active": true,
         "date_updated": 1780439404,
         "date_posted": 1780438036,
         "url": "https://pjm.wd5.myworkdayjobs.com/pjmcareers/job/Audubon-PA-Hybrid/Engineer-Analyst-I--II-_REQ-2026-4184-1",
@@ -338331,7 +338292,7 @@
         "company_name": "Reach Financial",
         "id": "39349736-2696-42cf-9e4b-deaf9d2b3246",
         "title": "Credit Risk Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1780526126,
         "date_posted": 1780525423,
         "url": "https://job-boards.greenhouse.io/reach/jobs/8573228002",
@@ -338579,5 +338540,100 @@
             "Bachelor's",
             "Associate's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "IDEMIA",
+        "id": "68964275-0629-46f5-94da-c67f7d124155",
+        "title": "Electronics Technician 1",
+        "active": true,
+        "date_updated": 1780563121,
+        "date_posted": 1780063483,
+        "url": "https://uscareers-idemia.icims.com/jobs/8489/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Eden Prairie, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Idemia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's",
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Gensyn",
+        "id": "60a58809-88a6-40a5-944b-b6ff6dc0423e",
+        "title": "Technical Product Manager",
+        "active": true,
+        "date_updated": 1780562701,
+        "date_posted": 1774574220,
+        "url": "https://job-boards.eu.greenhouse.io/gensyn/jobs/4660248101",
+        "locations": [
+            "Remote in UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Gensyn",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Nakupuna Companies",
+        "id": "5345c16a-438d-4975-8898-474664467f00",
+        "title": "Management Analyst 1",
+        "active": true,
+        "date_updated": 1780562763,
+        "date_posted": 1780005902,
+        "url": "https://careers-nakupuna.icims.com/jobs/6357/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Nakupuna-Companies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Johnson Controls",
+        "id": "3dc51ca4-e8b7-4e24-805b-37b3bb898605",
+        "title": "Security Commercial Offerings Systems Technician",
+        "active": true,
+        "date_updated": 1780562384,
+        "date_posted": 1778945397,
+        "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/North-Little-Rock-Arkansas-United-States-of-America/Security-Commercial-Offerings-Systems-Technician_WD30264175-1",
+        "locations": [
+            "North Little Rock, AR"
+        ],
+        "company_url": "https://simplify.jobs/c/Johnson-Controls",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Salesforce",
+        "id": "374e081c-ab1e-42a4-958d-bfb3897bede5",
+        "title": "Software Engineer 1 - Service Network - Slack",
+        "active": true,
+        "date_updated": 1780562020,
+        "date_posted": 1780524425,
+        "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Washington---Seattle/Software-Engineer-I--Service-Network---Slack_JR342034-1",
+        "locations": [
+            "Seattle, WA",
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Salesforce",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
