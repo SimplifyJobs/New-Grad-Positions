@@ -1,23 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "RTX",
-        "id": "94c8e7c1-8c2e-40e8-b8b6-a0778dfff751",
-        "title": "Software Engineer 1 - Air Dominance Modeling and Analysis",
-        "active": false,
-        "date_updated": 1761155761,
-        "date_posted": 1759830396,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/AZ805-RMS-AP-Bldg-805-1151-East-Hermans-Road-Building-805-Tucson-AZ-85756-USA/XMLNAME-2025-Full-Time-Raytheon-Software-Engineer-I_01797272",
-        "locations": [
-            "Tucson, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": false,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
         "date_updated": 1759858417,
         "sponsorship": "U.S. Citizenship is Required",
         "active": true,
@@ -40694,24 +40676,6 @@
             "Melbourne, FL"
         ],
         "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "TikTok",
-        "id": "6994a2c4-0a02-4cae-9025-ed015f5940ec",
-        "title": "Machine Learning Engineer Graduate - Risk Data Mining",
-        "active": false,
-        "date_updated": 1762923159,
-        "date_posted": 1759829656,
-        "url": "https://lifeattiktok.com/search/7516006918402951432",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -127413,7 +127377,7 @@
         "company_name": "Invisible Technologies AI",
         "id": "b84e0329-1f91-422f-ae8f-44df7db7fd47",
         "title": "AI Generalist - Entry-Level - Freelance AI Trainer Project",
-        "active": false,
+        "active": true,
         "date_updated": 1768876017,
         "date_posted": 1768876017,
         "url": "https://job-boards.eu.greenhouse.io/agency/jobs/4754242101",
@@ -234942,7 +234906,7 @@
         "company_name": "University of Arkansas",
         "id": "ad639ce0-562f-40b2-8d29-ea4c866cea6e",
         "title": "Cosmos Graduate Research Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1773813920,
         "date_posted": 1773813920,
         "url": "https://uasys.wd5.myworkdayjobs.com/uasys/job/Little-Rock/COSMOS---Graduate-Research-Assistant--Researcher-_R0053889-2",
@@ -284914,7 +284878,7 @@
         "company_name": "Tempus",
         "id": "9a454279-a925-4940-a85c-95a3ddfd50f6",
         "title": "GenAI Product Builder",
-        "active": true,
+        "active": false,
         "date_updated": 1776982141,
         "date_posted": 1776982019,
         "url": "https://tempus.wd5.myworkdayjobs.com/Tempus_Careers/job/Chicago/GenAI-Product-Builder_JR202600350",
@@ -305180,7 +305144,7 @@
         "company_name": "Planet",
         "id": "e2f2fd39-2fe2-4eb6-913d-d29da0fb580e",
         "title": "Visiting Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1778711041,
         "date_posted": 1778623747,
         "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7912657",
@@ -305260,7 +305224,7 @@
         "company_name": "Invisible Technologies",
         "id": "d499b3a6-33e5-437d-81b6-7865a521fb5c",
         "title": "AI Training Generalist - AI Trainer",
-        "active": false,
+        "active": true,
         "date_updated": 1778708881,
         "date_posted": 1778624069,
         "url": "https://job-boards.eu.greenhouse.io/agency/jobs/4864009101",
@@ -306543,7 +306507,7 @@
         "company_name": "Invisible Technologies",
         "id": "e5a914ce-d62e-464f-8de4-96aa5a6101ea",
         "title": "AI Training Generalist - AI Trainer",
-        "active": false,
+        "active": true,
         "date_updated": 1778708881,
         "date_posted": 1778624069,
         "url": "https://job-boards.eu.greenhouse.io/agency/jobs/4864011101",
@@ -306941,7 +306905,7 @@
         "company_name": "Invisible Technologies",
         "id": "a8b5504a-512d-4d60-8f56-678649f3b549",
         "title": "AI Training Generalist - AI Trainer",
-        "active": false,
+        "active": true,
         "date_updated": 1778708881,
         "date_posted": 1778624069,
         "url": "https://job-boards.eu.greenhouse.io/agency/jobs/4864010101",
@@ -329829,7 +329793,7 @@
         "company_name": "Intel",
         "id": "be4b7a21-32c1-4e48-bba1-1ac700e84ee8",
         "title": "Intel Foundry Lithography Module Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1779961830,
         "date_posted": 1779844139,
         "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Intel-Foundry-Lithography-Module-Engineer_JR0284287",
@@ -330301,7 +330265,7 @@
         "company_name": "Micron Technology",
         "id": "91e88b6e-4599-4579-afc5-ee3cb7fc6c65",
         "title": "Electrical Engineer New Grad - Design Engineer - Pathfinding Design",
-        "active": false,
+        "active": true,
         "date_updated": 1779960026,
         "date_posted": 1779529133,
         "url": "https://micron.wd1.myworkdayjobs.com/External/job/Folsom-CA/New-College-Grad---Design-Engineer---Pathfinding-Design_JR92326",
@@ -330959,7 +330923,7 @@
         "company_name": "Leidos",
         "id": "c2ced759-415c-4430-971e-4945e24dcfcc",
         "title": "Electronics Mechanical Assembly Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1780275161,
         "date_posted": 1780134819,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Electronics-Mechanical-Assembly-Technician_R-00182031",
@@ -331015,7 +330979,7 @@
         "company_name": "Brink",
         "id": "a999a49c-402d-44ce-b35b-d60c89144761",
         "title": "ATM Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1780274470,
         "date_posted": 1780131751,
         "url": "https://brinks.wd5.myworkdayjobs.com/brinkscareersus/job/Baton-Rouge-LA/ATM-Technician_R72782",
@@ -331927,7 +331891,7 @@
         "company_name": "GE Healthcare",
         "id": "d0c9719f-a3d9-4720-acc4-f89f17ec0609",
         "title": "Lead Service Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1780307361,
         "date_posted": 1780134777,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Lead-Service-Engineer_R4041301-1",
@@ -335565,7 +335529,7 @@
         "company_name": "GE Healthcare",
         "id": "a25195a8-f1bb-4453-afd1-1d2bf77834a1",
         "title": "Field Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1780439202,
         "date_posted": 1780437969,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer-1_R4041554-1",
@@ -336775,7 +336739,7 @@
         "company_name": "Nationwide",
         "id": "9bd77725-87e0-407d-b6d5-f81a58d66bcf",
         "title": "Investment Analyst - Front/Middle Office",
-        "active": true,
+        "active": false,
         "date_updated": 1780479096,
         "date_posted": 1780466911,
         "url": "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-One-Nationwide-Plaza/Investment-Analyst--Front-Middle-Office_098309",
@@ -338635,6 +338599,68 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Intel",
+        "id": "b47da177-c0b5-4446-b39e-0a31fb4559ae",
+        "title": "Package Assembly Low Yield Analysis Engineer",
+        "active": true,
+        "date_updated": 1780566059,
+        "date_posted": 1780524642,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Package-Assembly-Low-Yield-Analysis-Engineer-on-Shift_JR0284580-1",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "PIMCO",
+        "id": "cde8dbbe-ca8a-4fcd-a891-bf10408ed438",
+        "title": "Quantitative Research Analyst - Client Analytics",
+        "active": true,
+        "date_updated": 1780566841,
+        "date_posted": 1780448704,
+        "url": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/Quantitative-Research-Analyst---Client-Analytics_R106268",
+        "locations": [
+            "Newport Beach, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/PIMCO",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Viridien",
+        "id": "32630a1c-ac89-42c9-8670-0fc8eb773446",
+        "title": "Geophysics Researcher",
+        "active": true,
+        "date_updated": 1778923079,
+        "date_posted": 1778922684,
+        "url": "https://cgg.wd103.myworkdayjobs.com/viridiencareers/job/Crawley-United-Kingdom/Researcher_JR100977",
+        "locations": [
+            "Crawley, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Viridien",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
         ]
     }
 ]
