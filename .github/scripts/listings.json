@@ -255026,7 +255026,7 @@
         "company_name": "Centene",
         "id": "1293d336-09f5-460a-9b86-f3ba141880fd",
         "title": "Data Analyst 1 Healthcare Analytics",
-        "active": false,
+        "active": true,
         "date_updated": 1775515201,
         "date_posted": 1775513035,
         "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MI/Data-Analyst-I-Healthcare-Analytics_1636195",
@@ -263074,7 +263074,7 @@
         "company_name": "Intel",
         "id": "516b5302-4ca0-4cdb-a862-4364e6a4c011",
         "title": "Post-silicon Validation and Debug Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1775861240,
         "date_posted": 1775858943,
         "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Post-silicon-Validation-and-Debug-Engineer_JR0282304",
@@ -302800,7 +302800,7 @@
         "company_name": "RTX",
         "id": "9cf6befe-5806-49aa-aed1-c3765502fb5b",
         "title": "Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1778539071,
         "date_posted": 1778537443,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/XMLNAME-2026-Raytheon-Full-Time--Software-Engineer-I---Onsite-_01844595",
@@ -305830,7 +305830,7 @@
         "company_name": "Securian Financial Group",
         "id": "87325c1c-f948-480a-b5e0-cfb5d8495f57",
         "title": "Engineering Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1778710157,
         "date_posted": 1778710003,
         "url": "https://hq.wd12.myworkdayjobs.com/Securian_External/job/Saint-Paul-MN-Campus/Engineering-Analyst_R-010629",
@@ -312074,7 +312074,7 @@
         "company_name": "Federato",
         "id": "7e7eb859-b678-471e-9562-0d272ee62add",
         "title": "Data Annotation Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1779229801,
         "date_posted": 1779229026,
         "url": "https://job-boards.greenhouse.io/federato/jobs/5225518008",
@@ -326747,7 +326747,7 @@
         "company_name": "Attention Arc",
         "id": "c98094f6-ae04-4ea2-91d9-fefa50a9c1da",
         "title": "Data Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1779919573,
         "date_posted": 1779919554,
         "url": "https://job-boards.greenhouse.io/attentionarc/jobs/7961639",
@@ -330118,7 +330118,7 @@
         "company_name": "Henry Schein",
         "id": "8736952e-0db4-4cdd-b950-1948b077fd94",
         "title": "Small Equipment Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1780273623,
         "date_posted": 1780134523,
         "url": "https://henryschein.wd1.myworkdayjobs.com/External_Careers/job/Lenexa---Kansas/Small-Equipment-Technician_R133255",
@@ -336726,7 +336726,7 @@
         "company_name": "HCSC",
         "id": "6ea9da3b-037b-412c-8dc6-83742ecd72e0",
         "title": "Analytics & Reporting Analyst - Individual and Family Markets",
-        "active": false,
+        "active": true,
         "date_updated": 1780525149,
         "date_posted": 1780524390,
         "url": "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Analytics---Reporting-Analyst---Individual-and-Family-Markets--IFM-_R0051181",
@@ -339353,7 +339353,7 @@
         "company_name": "Anduril",
         "id": "0a20816a-d18d-455c-9e1d-fe6a126bb513",
         "title": "Product Operations Associate - Tier 1",
-        "active": false,
+        "active": true,
         "date_updated": 1780622132,
         "date_posted": 1774574788,
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/5081383007",
@@ -339941,6 +339941,456 @@
             "Master's",
             "MBA",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Thermo Fisher Scientific",
+        "id": "08af35a8-82a1-4f7b-a89c-f42517df1623",
+        "title": "Field Service Engineer 1 - Electron Microscopy",
+        "active": true,
+        "date_updated": 1780698740,
+        "date_posted": 1780697485,
+        "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Idaho-USA/On-Site-Field-Service-Engineer-I---Electron-Microscopy---Boise--Idaho_R-01356043",
+        "locations": [
+            "Boise, ID"
+        ],
+        "company_url": "https://simplify.jobs/c/Thermo-Fisher-Scientific",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "JetBlue",
+        "id": "e335c171-1df9-49d1-a031-31920e37b8d7",
+        "title": "Analyst Fuel Optimization",
+        "active": true,
+        "date_updated": 1780698241,
+        "date_posted": 1780697091,
+        "url": "https://careers.jetblue.com/job/Orlando-Analyst-Fuel-Optimization-FL-32827/1397253100/?ats=successfactors",
+        "locations": [
+            "Long Island City, Queens, NY",
+            "Orlando, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/JetBlue",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Real Chemistry",
+        "id": "b11075fc-a5d3-4264-b7d2-d55c758d6c7b",
+        "title": "Senior Data Analyst",
+        "active": true,
+        "date_updated": 1780698823,
+        "date_posted": 1780697783,
+        "url": "https://job-boards.greenhouse.io/realchemistry/jobs/5222377008",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Real-Chemistry",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "The Walt Disney Company",
+        "id": "688fa933-c999-4846-afd6-fee068802d32",
+        "title": "Camera Operations Coordinator 1",
+        "active": true,
+        "date_updated": 1780698367,
+        "date_posted": 1780697331,
+        "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Bristol-CT-USA/Remote-Camera-Operations-Coordinator-I_10151169-2",
+        "locations": [
+            "Bristol, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/Disney",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Impulse Space",
+        "id": "05fba525-f9df-446a-aa1f-23d102746640",
+        "title": "Embedded Software Engineer - Camera Systems",
+        "active": true,
+        "date_updated": 1780698241,
+        "date_posted": 1780697374,
+        "url": "https://impulsespace.pinpointhq.com/en/postings/53615b51-6458-4464-894d-f48d8b91711b?ats=pinpointhq",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Impulse-Space",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GlobalFoundries",
+        "id": "65b14770-bc9c-43cc-89da-938dd46e8dc5",
+        "title": "Senior Design Engineer Verification New Grad",
+        "active": true,
+        "date_updated": 1780698913,
+        "date_posted": 1780697129,
+        "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/Richardson/Design-Verification--DV--Architecture-Engineer--2026-New-College-Graduate-_JR-2601517",
+        "locations": [
+            "Richardson, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/GlobalFoundries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SSM Health",
+        "id": "330f2b5b-8bb7-4059-a642-d31e22730b58",
+        "title": "Application Analyst Associate",
+        "active": true,
+        "date_updated": 1780698241,
+        "date_posted": 1780697458,
+        "url": "https://ssmh.wd5.myworkdayjobs.com/ssmhealth/job/MO-REMOTE/Application-Analyst-Associate--S-_R188231",
+        "locations": [
+            "Kansas",
+            "Iowa",
+            "Texas",
+            "Florida",
+            "South Carolina",
+            "Georgia",
+            "Tennessee",
+            "Virginia",
+            "Colorado",
+            "Utah",
+            "Kentucky",
+            "West Virginia",
+            "Maryland",
+            "Wisconsin",
+            "Maine",
+            "North Carolina",
+            "Oklahoma",
+            "Missouri",
+            "Indiana",
+            "Louisiana",
+            "Michigan",
+            "Illinois",
+            "Alabama"
+        ],
+        "company_url": "https://simplify.jobs/c/SSM-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ASM Global",
+        "id": "05a4ab91-c323-4010-b3c5-89d7dc0ed3d2",
+        "title": "Business Intelligence Manager",
+        "active": true,
+        "date_updated": 1780698450,
+        "date_posted": 1780697400,
+        "url": "https://asmglobal.wd1.myworkdayjobs.com/careers/job/Remote-USA/Manager--Hospitality-Insights_R100123272-1",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/ASM-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Silicon Laboratories",
+        "id": "f7407ce2-469a-4680-977b-ffffd9cd93a2",
+        "title": "Design Engineer 1 - Modem Design",
+        "active": true,
+        "date_updated": 1780698257,
+        "date_posted": 1780697304,
+        "url": "https://silabs.wd1.myworkdayjobs.com/SiliconlabsCareers/job/Austin/Design-Engineer-I---Modem-Design_20899-2",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Silicon-Laboratories",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "90023565-414f-4613-bacf-b68d9c684ecc",
+        "title": "Design Integrity Checker 1",
+        "active": true,
+        "date_updated": 1780698649,
+        "date_posted": 1780697446,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-ANDOVER-AN0--366-Lowell-St--BLDG-AN0/Design-Integrity-Checker-I_01848004",
+        "locations": [
+            "Andover, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "GXO Logistics",
+        "id": "712fa6f0-d617-4251-a0f6-e89ae2973a2b",
+        "title": "Business Intelligence Engineer",
+        "active": true,
+        "date_updated": 1780697525,
+        "date_posted": 1780697337,
+        "url": "https://jobs.gxo.com/job/Union-City-Business-Intelligence-Engineer-1st-Shift-GA-30291-5200/1384699900/?ats=successfactors",
+        "locations": [
+            "Union City, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/GXO-Logistics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Penn Interactive",
+        "id": "46db5e39-67e9-4f9c-a75b-ea25ec90e476",
+        "title": "Associate Sportsbook Trader",
+        "active": true,
+        "date_updated": 1780697161,
+        "date_posted": 1780697061,
+        "url": "https://job-boards.greenhouse.io/penninteractive/jobs/6015209004",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/PennInteractive",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Guidehouse",
+        "id": "07082034-4af9-4575-b804-0521d32ee4f0",
+        "title": "Data Analytics Consultant",
+        "active": true,
+        "date_updated": 1780697525,
+        "date_posted": 1780697292,
+        "url": "https://guidehouse.wd1.myworkdayjobs.com/external/job/US---MA-Boston/Data-Analytics-Consultant_40134",
+        "locations": [
+            "Boston, MA",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Guidehouse",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "SCAN",
+        "id": "942585b8-e2ff-4ce8-8aa2-b36b654f0861",
+        "title": "Health Care Analyst 1",
+        "active": true,
+        "date_updated": 1780698507,
+        "date_posted": 1780697409,
+        "url": "https://scanhealthplan.wd108.myworkdayjobs.com/scancareers/job/Long-Beach-Office-3800/Health-Care-Analyst-I_JR2856",
+        "locations": [
+            "Long Beach, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/SCAN-Health-Plan",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Leidos",
+        "id": "7dab3933-1bdd-4629-981d-72cbcfa1c3ac",
+        "title": "Entry-Level Software Developer",
+        "active": true,
+        "date_updated": 1780697952,
+        "date_posted": 1780697184,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/St-Louis-MO/Entry-Level-Software-Developer_R-00184931",
+        "locations": [
+            "St. Louis, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Montrose Environmental Group",
+        "id": "718d3058-3887-4fb2-b134-755553e4bcb2",
+        "title": "Entry-Level Environmental Chemist - Data Validation",
+        "active": true,
+        "date_updated": 1780697161,
+        "date_posted": 1780697044,
+        "url": "https://montrose.wd1.myworkdayjobs.com/meg/job/USA-PA-Remote/Entry-Level-Environmental-Chemist---Data-Validation_R8356",
+        "locations": [
+            "Phoenixville, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Montrose-Environmental-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Booz Allen",
+        "id": "5053cdb9-39d0-486b-bb56-d0fed6e8a363",
+        "title": "AFSIM Mission Analyst",
+        "active": true,
+        "date_updated": 1780698241,
+        "date_posted": 1780697334,
+        "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Beavercreek-OH/AFSIM-Mission-Analyst_R0241629",
+        "locations": [
+            "Beavercreek, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Booz-Allen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "S&C Electric Company",
+        "id": "f26b1776-f5fe-489c-95fa-6479999186ed",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1780698287,
+        "date_posted": 1780697321,
+        "url": "https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/106730",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/S-And-C-Electric-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "PG&E",
+        "id": "bd32c73d-9999-4afa-9cae-9f83cbd02437",
+        "title": "Programmer Analyst",
+        "active": true,
+        "date_updated": 1780697161,
+        "date_posted": 1780697057,
+        "url": "https://careers.pge.com/job/Avila-Beach-Programmer-Analyst,-Associate-CA-93424/1397417000/?ats=successfactors",
+        "locations": [
+            "San Luis Obispo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/PGE",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Penn Interactive",
+        "id": "3e429a68-7a9b-42f7-ac03-50649fa4d685",
+        "title": "Associate Sportsbook Trader",
+        "active": true,
+        "date_updated": 1780697161,
+        "date_posted": 1780697062,
+        "url": "https://job-boards.greenhouse.io/penninteractive/jobs/6015232004",
+        "locations": [
+            "Remote in UK"
+        ],
+        "company_url": "https://simplify.jobs/c/PennInteractive",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Manulife Financial",
+        "id": "11259ab5-d555-45cb-bfd5-2a57860ca9cd",
+        "title": "Associate Data Scientist",
+        "active": true,
+        "date_updated": 1780697161,
+        "date_posted": 1780697086,
+        "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Boston-Massachusetts/Associate-Data-Scientist_JR26050445-3",
+        "locations": [
+            "Boston, MA",
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Manulife-Financial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
