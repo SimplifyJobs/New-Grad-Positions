@@ -1,99 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Aurora Innovation",
-        "id": "cbe41088-5041-4ca2-a532-3aab7b8f8188",
-        "title": "Embedded Firmware Engineer I - Security",
-        "active": false,
-        "date_updated": 1761834156,
-        "date_posted": 1759905964,
-        "url": "https://aurora.tech/jobs/8170469002?gh_jid=8170469002",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Aurora-Innovation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Aurora Innovation",
-        "id": "8fb17085-75ea-4b0f-93d6-0660ed6feda5",
-        "title": "Embedded Firmware Engineer I - Security",
-        "active": false,
-        "date_updated": 1761834244,
-        "date_posted": 1759905965,
-        "url": "https://aurora.tech/jobs/8201816002?gh_jid=8201816002",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Aurora-Innovation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Aurora Innovation",
-        "id": "14ce70b4-51d4-409b-b492-dfacbe2721f8",
-        "title": "Embedded Firmware Engineer I - Security",
-        "active": false,
-        "date_updated": 1761833774,
-        "date_posted": 1759905964,
-        "url": "https://aurora.tech/jobs/8201817002?gh_jid=8201817002",
-        "locations": [
-            "Pittsburgh, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Aurora-Innovation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Aurora Innovation",
-        "id": "0d5f925b-a007-48bd-849f-fb3cde3632b6",
-        "title": "Embedded Firmware Engineer I - Security",
-        "active": false,
-        "date_updated": 1761834674,
-        "date_posted": 1759905967,
-        "url": "https://aurora.tech/jobs/8201705002?gh_jid=8201705002",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Aurora-Innovation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Esri",
-        "id": "a6422dfd-8f30-4efe-ba7f-e5333957e5a4",
-        "title": "WebGL Software Engineer 1 - Online Team",
-        "active": false,
-        "date_updated": 1759905807,
-        "date_posted": 1759905807,
-        "url": "https://www.esri.com/careers/4859692007?gh_jid=4859692007",
-        "locations": [
-            "West Redlands, Redlands, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Esri",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Expedia Group",
         "id": "155315d6-90d5-4b02-a09d-5bc24d343603",
@@ -5217,24 +5124,6 @@
             "Boston, MA"
         ],
         "company_url": "https://simplify.jobs/c/Whoop",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Electronic Arts",
-        "id": "2a4b9144-337e-4c4f-9e82-69188948c25a",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1759905084,
-        "date_posted": 1759905084,
-        "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-I/209811",
-        "locations": [
-            "Vancouver, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Electronic-Arts",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -40176,24 +40065,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Lawrence Berkeley National Laboratory",
-        "id": "ed0d8c6c-3347-438b-993c-bc1af8eea209",
-        "title": "Controls Software Engineer",
-        "active": false,
-        "date_updated": 1760094049,
-        "date_posted": 1759906430,
-        "url": "https://lbl.taleo.net/careersection/5/jobdetail.ftl?job=104583",
-        "locations": [
-            "Berkeley, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Lawrence-Berkeley-National-Laboratory",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Lawrence Berkeley National Laboratory",
         "id": "53d0212b-9071-4a6d-96d0-672cbcd0f600",
@@ -40209,43 +40080,6 @@
             "Tucson, AZ"
         ],
         "company_url": "https://simplify.jobs/c/Lawrence-Berkeley-National-Laboratory",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Schweitzer Engineering Laboratories",
-        "id": "64aab6bf-7098-479f-aef0-f80eef2aef75",
-        "title": "Associate Project Engineer - Security",
-        "active": false,
-        "date_updated": 1761840410,
-        "date_posted": 1759905439,
-        "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Associate-Project-Engineer---Security_2025-18133",
-        "locations": [
-            "Moscow, ID"
-        ],
-        "company_url": "https://simplify.jobs/c/SEL",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Schweitzer Engineering Laboratories",
-        "id": "2e22f5d6-41ef-4645-be8c-0897de9ea7b1",
-        "title": "Associate Project Engineer - Security",
-        "active": false,
-        "date_updated": 1761843320,
-        "date_posted": 1759905438,
-        "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/North-Carolina---Charlotte/Associate-Project-Engineer---Security_2025-18134",
-        "locations": [
-            "Charlotte, NC",
-            "Moscow, ID"
-        ],
-        "company_url": "https://simplify.jobs/c/SEL",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -129910,24 +129744,6 @@
             "Glasgow, UK"
         ],
         "company_url": "https://simplify.jobs/c/199b3c43-379a-408c-a6a8-980e79183038",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Lucid Motors",
-        "id": "a10bbaeb-f6b4-4d3f-aa18-e3452fc79ab1",
-        "title": "Hardware Technician - Service Operations Tooling",
-        "active": false,
-        "date_updated": 1768957125,
-        "date_posted": 1759906661,
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/4875434007",
-        "locations": [
-            "Fremont, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Lucid-Motors",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -301811,7 +301627,7 @@
         "company_name": " PrizePicks",
         "id": "9aa68f28-7ed4-4e14-8c2a-1f4758cc7868",
         "title": "Associate Data Scientist - Originations",
-        "active": true,
+        "active": false,
         "date_updated": 1778278681,
         "date_posted": 1778278662,
         "url": "http://prizepicks.com/position?gh_jid=7702028003",
