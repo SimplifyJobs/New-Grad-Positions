@@ -2,26 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "The Boeing Company",
-        "id": "74297a91-6465-4c73-8d4e-e08004fa5b04",
-        "title": "Entry Level Software Engineer-Systems",
-        "active": false,
-        "date_updated": 1759911598,
-        "date_posted": 1759911598,
-        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tinker-AFB-OK/Software-Engineer-Systems--Systems-_JR2025467015-2",
-        "locations": [
-            "Oklahoma City, OK"
-        ],
-        "company_url": "https://simplify.jobs/c/Boeing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "General Dynamics Mission Systems",
         "id": "c7750d10-de6f-4f10-b1a5-edfc2c2341c3",
         "title": "Software Engineer \u2013 Entry Level - Secret Clearance Required",
@@ -332023,7 +332003,7 @@
         "company_name": "Andrew Morgan",
         "id": "027f917c-5000-4389-bdd4-79e2e30d962e",
         "title": "OneStream Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1780353313,
         "date_posted": 1780351728,
         "url": "https://andrew-morgan.com/current-openings/?gh_jid=5237627008",
@@ -335805,7 +335785,7 @@
         "company_name": "Airbus",
         "id": "0a0e8fdf-52bb-42fb-a2d3-f3c051049dd7",
         "title": "Volunteer for International Experience (VIE) - Junior Technology Scouting",
-        "active": false,
+        "active": true,
         "date_updated": 1780474581,
         "date_posted": 1780438148,
         "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Montreal-Area/VIE-2026---Canada---Junior-Technology-Scouting---H-F_JR10407712",
@@ -337761,7 +337741,7 @@
         "company_name": "GE Healthcare",
         "id": "16896f36-2a8d-4b1d-99c1-da18c5e7d68e",
         "title": "Field Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1780561123,
         "date_posted": 1780437969,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/FE-1-Bloomington--Illinois_R4041927-1",
