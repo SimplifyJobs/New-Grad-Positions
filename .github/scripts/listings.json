@@ -2,27 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Expedia Group",
-        "id": "155315d6-90d5-4b02-a09d-5bc24d343603",
-        "title": "Software Engineer I - Developer Enablement Platform",
-        "active": false,
-        "date_updated": 1759909196,
-        "date_posted": 1759909196,
-        "url": "https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Software-Engineer-I---Developer-Enablement-Platform_R-98318-1",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Expedia-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "The Boeing Company",
         "id": "74297a91-6465-4c73-8d4e-e08004fa5b04",
         "title": "Entry Level Software Engineer-Systems",
@@ -39986,42 +39965,6 @@
             "Aurora, CO"
         ],
         "company_url": "https://simplify.jobs/c/Marriott-International",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Rogo",
-        "id": "5dfdcc5e-9699-41b4-8e19-6145667c05f8",
-        "title": "Entry Level Engineer",
-        "active": false,
-        "date_updated": 1763115935,
-        "date_posted": 1759909697,
-        "url": "https://jobs.ashbyhq.com/rogo/ab1afca5-a96f-4ba7-8370-60817d8a38d1/application",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Rogo",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Garner Health",
-        "id": "00f6eb52-fc89-4fe1-af5c-0e4b8d6179b2",
-        "title": "Associate Software Engineer",
-        "active": false,
-        "date_updated": 1761694018,
-        "date_posted": 1759908703,
-        "url": "https://job-boards.greenhouse.io/garnerhealth/jobs/5671433004",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Garner-Health",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
