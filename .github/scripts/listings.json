@@ -79686,25 +79686,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "1X",
-        "id": "9f09f9dc-840e-404e-a376-4155306e95d5",
-        "title": "Data Analyst",
-        "active": false,
-        "date_updated": 1765284784,
-        "date_posted": 1759965820,
-        "url": "https://1x.recruitee.com/o/data-analyst",
-        "locations": [
-            "Palo Alto, CA",
-            "Hayward, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/1x",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Qualcomm",
         "id": "8d4f1bea-93b8-4fa5-8f8f-6877e092b800",
@@ -242370,7 +242351,7 @@
         "company_name": "CVS Health",
         "id": "77125f28-4198-4184-bb3e-d28b2c94f060",
         "title": "Associate Data Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1774911961,
         "date_posted": 1774908806,
         "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Richardson/Associate-Data-Engineer_R0861003",
@@ -339310,7 +339291,7 @@
         "company_name": "UT Southwestern Medical Center",
         "id": "12d0c8f5-567a-4cac-a4eb-2ff03dcc717b",
         "title": "Data Scientist 1 - Internal Medicine",
-        "active": true,
+        "active": false,
         "date_updated": 1780622060,
         "date_posted": 1780621831,
         "url": "https://utsw.taleo.net/careersection/2/jobdetail.ftl?job=948201",
@@ -340391,6 +340372,124 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Micron Technology",
+        "id": "60fcb589-ed8a-43a1-9fee-3c7139e29aa7",
+        "title": "Layout Engineer",
+        "active": true,
+        "date_updated": 1780698241,
+        "date_posted": 1780697325,
+        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Layout-Engineer--DEG_JR103399",
+        "locations": [
+            "Boise, ID"
+        ],
+        "company_url": "https://simplify.jobs/c/Micron-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Virtu Financial",
+        "id": "516cd8de-9e5d-41e9-ba3a-8390dc0a1d84",
+        "title": "Quantitative Strategist",
+        "active": true,
+        "date_updated": 1780697525,
+        "date_posted": 1780697193,
+        "url": "https://job-boards.greenhouse.io/virtu/jobs/4205353002",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Virtu-Financial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Rogers Behavioral Health",
+        "id": "f3188984-0c97-42e1-a01e-53a06d004921",
+        "title": "Therapist IOP/PHP",
+        "active": true,
+        "date_updated": 1780697893,
+        "date_posted": 1780697163,
+        "url": "https://rogersbh.wd1.myworkdayjobs.com/rbhcareer/job/Atlanta-Clinic-Atlanta-GA/Therapist--IOP-PHP_R7398",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/b92a810e-00da-4d83-9a36-b7d609699d59",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Freddie Mac",
+        "id": "ed976575-7ea2-4e7b-9964-688e3aca8e03",
+        "title": "Software Engineer Professional",
+        "active": true,
+        "date_updated": 1780697161,
+        "date_posted": 1780697118,
+        "url": "https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Software-Engineer-Professional_JR17316",
+        "locations": [
+            "McLean, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Freddie-Mac",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Brunswick",
+        "id": "c07c90db-439d-477d-8373-f58c555664e9",
+        "title": "Embedded Software Engineer",
+        "active": true,
+        "date_updated": 1780698661,
+        "date_posted": 1780697384,
+        "url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Oshkosh-WI/Embedded-Software-Engineer_JR-050448",
+        "locations": [
+            "Oshkosh, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Brunswick",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Texas at Austin",
+        "id": "a6483782-7476-4aaf-9aef-edcc8a76b5aa",
+        "title": "Research Engineering/Scientist Associate 1 - Cockrell School of Engineering",
+        "active": true,
+        "date_updated": 1780698899,
+        "date_posted": 1780697088,
+        "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/PICKLE-RESEARCH-CAMPUS/Research-Engineering-Scientist-Associate-I--RESA-I---Center-for-Energy-and-Environmental-Systems-Analysis--Cockrell-School-of-Engineering_R_00046360",
+        "locations": [
+            "Texas"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Texas-Austin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
