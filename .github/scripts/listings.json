@@ -18150,7 +18150,7 @@
         "company_name": "ByteDance",
         "id": "9f197d2d-9e2c-4c85-96a0-2d38644a115e",
         "title": "Graduate Research Scientist - 3D/4D Reconstruction/Generation/Relighting",
-        "active": false,
+        "active": true,
         "date_updated": 1762909553,
         "date_posted": 1762544111,
         "url": "https://jobs.bytedance.com/en/position/7564547210038380853/detail",
@@ -96814,7 +96814,7 @@
         "company_name": "ByteDance",
         "id": "39ebfdd7-702f-4997-a082-6bd4e62e24d2",
         "title": "Research Scientist Graduate - 3D/4D Generation - 2026 Start",
-        "active": false,
+        "active": true,
         "date_updated": 1766542472,
         "date_posted": 1766542472,
         "url": "https://jobs.bytedance.com/en/position/7585034854077778181/detail",
@@ -320001,7 +320001,7 @@
         "company_name": "IEQ Capital",
         "id": "548b127c-7b80-4630-bb42-110af283bf62",
         "title": "Portfolio Analytics Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1779844993,
         "date_posted": 1778202488,
         "url": "https://job-boards.greenhouse.io/ieqcapital/jobs/7727967003",
@@ -336918,7 +336918,7 @@
         "company_name": "Advanced Technology Services",
         "id": "24510c03-3b39-4878-a00a-748b18799aea",
         "title": "Calibration - Metrology Technician l",
-        "active": false,
+        "active": true,
         "date_updated": 1780524913,
         "date_posted": 1777331482,
         "url": "https://job-boards.greenhouse.io/advancedtechnologyservices/jobs/4675951006",
@@ -339779,5 +339779,247 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Albertsons",
+        "id": "c5341816-1e4a-4908-8318-6d688534c962",
+        "title": "Front End Engineer",
+        "active": true,
+        "date_updated": 1780622073,
+        "date_posted": 1780621860,
+        "url": "https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/719205",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Albertsons",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "CoreWeave",
+        "id": "be51f429-c576-4c28-a789-c0a5dc7f1674",
+        "title": "Data Center Technician",
+        "active": true,
+        "date_updated": 1780621921,
+        "date_posted": 1780621863,
+        "url": "https://coreweave.com/careers/job?4686723006&board=coreweave&gh_jid=4686723006",
+        "locations": [
+            "Cambridge, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/CoreWeave",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Axos Bank",
+        "id": "998a54fe-92c3-4ebe-8776-219fd437d1a7",
+        "title": "AI Automation Developer",
+        "active": true,
+        "date_updated": 1780622045,
+        "date_posted": 1780621775,
+        "url": "https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/JBATA---AI-Automation-Developer_JR4837",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Axos-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Boeing Company",
+        "id": "94f1efec-54d0-4e14-82b5-f09fda08fd81",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1780622101,
+        "date_posted": 1780621900,
+        "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Maryland-Heights-MO/Associate-Software-Engineer_JR2026513142",
+        "locations": [
+            "Creve Coeur, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "KLA",
+        "id": "514af4b9-b76d-4545-93f5-1f4d7393c79e",
+        "title": "Algorithm Engineer - Deep Learning",
+        "active": true,
+        "date_updated": 1780621741,
+        "date_posted": 1780621607,
+        "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Algorithm-Engineer---Deep-Learning_2636296",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/KLA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "EOS IT Solutions",
+        "id": "42913780-4065-47f2-8230-39c52c8b0326",
+        "title": "Data Center Repair Technician",
+        "active": true,
+        "date_updated": 1780621921,
+        "date_posted": 1780621752,
+        "url": "https://eosits.com/company/careers/?gh_jid=8564964002",
+        "locations": [
+            "Lehi, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/EOS-IT-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "SpaceX",
+        "id": "3b6da481-6e92-44bb-9299-0a6a266197f5",
+        "title": "Gateway Site Development Engineer - Starlink",
+        "active": true,
+        "date_updated": 1780621921,
+        "date_posted": 1780621785,
+        "url": "https://boards.greenhouse.io/spacex/jobs/8577167002",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/SpaceX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Field AI",
+        "id": "3707d29b-8b77-4d90-b135-d57aab883be8",
+        "title": "Agentic AI/ML Engineer",
+        "active": true,
+        "date_updated": 1780621921,
+        "date_posted": 1780621772,
+        "url": "https://jobs.lever.co/field-ai/c56e6bc4-23d9-4ed1-9349-fee74e35c264/apply",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Field-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "LG Ad Solutions",
+        "id": "2a08e727-7fe9-4b87-8657-8bed78f1d4df",
+        "title": "Entry Level Global Reporting & Analytics Analyst - Digital Campaign Management - Product Strategy and Business Intelligence",
+        "active": true,
+        "date_updated": 1780622064,
+        "date_posted": 1780621852,
+        "url": "https://jobs.ashbyhq.com/lgads/e5e78b30-13dc-4d12-b0ec-eb819de7d53a/application",
+        "locations": [
+            "United Kingdom"
+        ],
+        "company_url": "https://simplify.jobs/c/LG-Ad-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "UT Southwestern Medical Center",
+        "id": "12d0c8f5-567a-4cac-a4eb-2ff03dcc717b",
+        "title": "Data Scientist 1 - Internal Medicine",
+        "active": true,
+        "date_updated": 1780622060,
+        "date_posted": 1780621831,
+        "url": "https://utsw.taleo.net/careersection/2/jobdetail.ftl?job=948201",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/UT-Southwestern-Medical-Center",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Bot Auto",
+        "id": "bd388190-03f5-4a8c-bdfa-6d5eb2535cbf",
+        "title": "Software Engineer - Operation Platforms",
+        "active": true,
+        "date_updated": 1780621741,
+        "date_posted": 1780621638,
+        "url": "https://job-boards.greenhouse.io/botauto/jobs/5248910008",
+        "locations": [
+            "Houston, TX",
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Bot-Auto",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Anduril",
+        "id": "0a20816a-d18d-455c-9e1d-fe6a126bb513",
+        "title": "Product Operations Associate - Tier 1",
+        "active": true,
+        "date_updated": 1780622132,
+        "date_posted": 1774574788,
+        "url": "https://boards.greenhouse.io/andurilindustries/jobs/5081383007",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Anduril",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
