@@ -2,46 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "General Dynamics Mission Systems",
-        "id": "c7750d10-de6f-4f10-b1a5-edfc2c2341c3",
-        "title": "Software Engineer \u2013 Entry Level - Secret Clearance Required",
-        "active": false,
-        "date_updated": 1759913652,
-        "date_posted": 1759913652,
-        "url": "https://careers-gdms.icims.com/jobs/68432/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Dedham, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "General Dynamics Mission Systems",
-        "id": "1443d83a-f98f-4d1d-8538-cbd5d1a194e9",
-        "title": "Entry Level Software Engineer",
-        "active": false,
-        "date_updated": 1759913652,
-        "date_posted": 1759913652,
-        "url": "https://careers-gdms.icims.com/jobs/68501/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Pittsburgh, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Klaviyo",
         "id": "056b01e2-b52b-4c95-80f7-93447fe07353",
         "title": "Software Engineer I",
@@ -39891,60 +39851,6 @@
             "Winter Park, FL"
         ],
         "company_url": "https://simplify.jobs/c/Full-Sail",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Pella Corporation",
-        "id": "f2984fb5-5aae-400a-9c32-51fa7c4e9ad4",
-        "title": "IT Engineering Technician - Medley - FL",
-        "active": false,
-        "date_updated": 1759912923,
-        "date_posted": 1759912923,
-        "url": "https://ebgj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/248793",
-        "locations": [
-            "Doral, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Pella-Corporation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "L3Harris Technologies",
-        "id": "e8dd2f9f-206c-4549-a26b-49c8779726be",
-        "title": "Engineering Technician - Cable",
-        "active": false,
-        "date_updated": 1762437030,
-        "date_posted": 1759912964,
-        "url": "https://jobs.l3harris.com/job/Palm-Bay-Engineering-Technician-Cable-FL-32905/1332034400/?ats=successfactors",
-        "locations": [
-            "Palm Bay, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Marriott International",
-        "id": "bd31aae1-30bc-47ed-88fa-a5f8feacde4f",
-        "title": "Network and Desk Technician",
-        "active": false,
-        "date_updated": 1759912658,
-        "date_posted": 1759912658,
-        "url": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25162527",
-        "locations": [
-            "Aurora, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Marriott-International",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -318071,7 +317977,7 @@
         "company_name": "LCBC Church",
         "id": "3bec3dfc-4a4a-40f2-a425-86d049883991",
         "title": "Help Desk Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1779829562,
         "date_posted": 1777414008,
         "url": "https://jobs.lever.co/lcbcchurch/6be9285d-1c2b-48a4-84e9-4422be639c48/apply",
@@ -333390,7 +333296,7 @@
         "company_name": "RTX",
         "id": "31b7f70c-a169-487e-a379-b84328b186b8",
         "title": "Configuration Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1780389425,
         "date_posted": 1780351840,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WM--2501-W-University-Dr--WING-M-BLDG/Configuration-Analyst_01849460",
@@ -334351,7 +334257,7 @@
         "company_name": "PJM",
         "id": "54b01c4c-d6dd-4954-ac9f-967ae0e0b6c0",
         "title": "Engineer/Analyst 1 - II",
-        "active": true,
+        "active": false,
         "date_updated": 1780439404,
         "date_posted": 1780438036,
         "url": "https://pjm.wd5.myworkdayjobs.com/pjmcareers/job/Audubon-PA-Hybrid/Engineer-Analyst-I--II-_REQ-2026-4184-1",
@@ -335867,7 +335773,7 @@
         "company_name": "CoreWeave",
         "id": "2d94d2c9-38a0-4607-86f9-6d9bad3ee2e0",
         "title": "GPU Infrastructure Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1780475401,
         "date_posted": 1766103640,
         "url": "https://coreweave.com/careers/job?4627287006&board=coreweave&gh_jid=4627287006",
@@ -337820,7 +337726,7 @@
         "company_name": "Johnson Controls",
         "id": "3dc51ca4-e8b7-4e24-805b-37b3bb898605",
         "title": "Security Commercial Offerings Systems Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1780562384,
         "date_posted": 1778945397,
         "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/North-Little-Rock-Arkansas-United-States-of-America/Security-Commercial-Offerings-Systems-Technician_WD30264175-1",
@@ -339597,5 +339503,25 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Paramount Global",
+        "id": "6553d92a-bb9f-42ef-bed7-3d6dd38f4273",
+        "title": "Machine Learning Engineer - Entry",
+        "active": true,
+        "date_updated": 1780649461,
+        "date_posted": 1778922324,
+        "url": "https://careers.paramount.com/job/New-York-Machine-Learning-Engineer,-Entry-NY-10036/1389620800/?ats=successfactors",
+        "locations": [
+            "Burbank, CA",
+            "Hollywood, LA",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Paramount-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
