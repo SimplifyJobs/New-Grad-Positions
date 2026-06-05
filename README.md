@@ -5,13 +5,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/New-Grad-Positions/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
 ---
-### Browse 253 New Grad Roles by Category
+### Browse 250 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (167)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (165)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (3)
 
-🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (40)
+🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (39)
 
 📈 **[Quantitative Finance](#-quantitative-finance-new-grad-roles)** (6)
 
@@ -416,13 +416,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>16d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Toast?utm_source=GHList&utm_medium=company">Toast</a></strong></td>
-<td>Software Engineer 1 - Fullstack - Employee Development</td>
-<td>Canada</td>
-<td><div align="center"><a href="https://boards.greenhouse.io/embed/job_app?token=7895601&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/4ceafaa7-34d8-4fab-ab3f-04dde972d36b?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>16d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Captivation?utm_source=GHList&utm_medium=company">Captivation</a></strong></td>
 <td>Software Engineer 1 - AWS/Docker/Kubernetes/Java/Javascript/Kibana/Git</td>
 <td>Annapolis Junction, MD</td>
@@ -784,13 +777,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Engineer 1 Intern</td>
 <td><details><summary><strong>5 locations</strong></summary>Des Moines, IA</br>Richmond, VA</br>Reno, NV</br>Sioux City, IA</br>Davenport, IA</details></td>
 <td><div align="center"><a href="https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10004645?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/f0865c39-c2d0-4de6-9758-7218853be989?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>2mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Worldpay?utm_source=GHList&utm_medium=company">Worldpay</a></strong></td>
-<td>Software Engineer 1 - Mainframe</td>
-<td>Cincinnati, OH</td>
-<td><div align="center"><a href="https://worldpay.wd5.myworkdayjobs.com/Worldpay_External_Careers_Site/job/CINCINNATI-OHIO/Software-Engineer-I---Mainframe_JR0609191-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/414d0252-005e-479d-8fe9-852b203780cf?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
 <td>2mo</td>
 </tr>
 <tr>
@@ -1253,7 +1239,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (1239)</summary>
+<summary>🗃️ Inactive roles (1241)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -1438,6 +1424,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><strong><a href="https://simplify.jobs/c/Dow-Jones?utm_source=GHList&utm_medium=company">Dow Jones</a></strong></td>
 <td>Software Engineer 1 - AI & ML Foundation Technology</td>
 <td>NYC</td>
+<td>🔒</td>
+<td>16d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Toast?utm_source=GHList&utm_medium=company">Toast</a></strong></td>
+<td>Software Engineer 1 - Fullstack - Employee Development</td>
+<td>Canada</td>
 <td>🔒</td>
 <td>16d</td>
 </tr>
@@ -3076,6 +3069,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><strong><a href="https://simplify.jobs/c/IXL-Learning?utm_source=GHList&utm_medium=company">IXL Learning</a></strong></td>
 <td>Software Engineer – New Grad</td>
 <td>San Mateo, CA</td>
+<td>🔒</td>
+<td>2mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Worldpay?utm_source=GHList&utm_medium=company">Worldpay</a></strong></td>
+<td>Software Engineer 1 - Mainframe</td>
+<td>Cincinnati, OH</td>
 <td>🔒</td>
 <td>2mo</td>
 </tr>
@@ -10346,13 +10346,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>6d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Murj?utm_source=GHList&utm_medium=company">Murj</a></strong></td>
-<td>Data Analyst Entry Level</td>
-<td>Remote in USA</td>
-<td><div align="center"><a href="https://job-boards.greenhouse.io/murj/jobs/5219884008?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/3a9caa77-52c2-476b-ac9d-d712a9acf664?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>9d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Unity?utm_source=GHList&utm_medium=company">Unity</a></strong></td>
 <td>Machine Learning Engineer New Grad - User Understanding</td>
 <td>Mountain View, CA</td>
@@ -10581,7 +10574,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (271)</summary>
+<summary>🗃️ Inactive roles (272)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -10626,6 +10619,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>↳</td>
 <td>Junior AI & Data Consultant</td>
 <td><details><summary><strong>4 locations</strong></summary>London, UK</br>Edinburgh, UK</br>Leeds, UK</br>Manchester, UK</details></td>
+<td>🔒</td>
+<td>9d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Murj?utm_source=GHList&utm_medium=company">Murj</a></strong></td>
+<td>Data Analyst Entry Level</td>
+<td>Remote in USA</td>
 <td>🔒</td>
 <td>9d</td>
 </tr>
