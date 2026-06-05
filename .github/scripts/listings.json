@@ -1,27 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Artefact",
-        "id": "21a9a799-e66b-4fb4-9b59-fb50ee32c85d",
-        "title": "Junior Software Engineer",
-        "active": false,
-        "date_updated": 1759904937,
-        "date_posted": 1759904937,
-        "url": "https://job-boards.greenhouse.io/artefactlinkedin/jobs/8119157002",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Artefact",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Aurora Innovation",
         "id": "cbe41088-5041-4ca2-a532-3aab7b8f8188",
@@ -268,26 +247,6 @@
         "is_visible": false,
         "sponsorship": "U.S. Citizenship is Required",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Point72",
-        "id": "c407d234-2113-432e-89c4-850a17b6c103",
-        "title": "Software Engineer 2026 Graduate",
-        "active": false,
-        "date_updated": 1759904484,
-        "date_posted": 1759904484,
-        "url": "https://boards.greenhouse.io/point72/jobs/8202068002",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Point72",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "date_updated": 1762901585,
@@ -747,27 +706,6 @@
         "degrees": [
             "Bachelor's",
             "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "General Motors",
-        "id": "45a81101-572d-42fc-a570-1fb2c6d9a71c",
-        "title": "Machine Learning Engineer \u2013 Early Career - AI Research",
-        "active": false,
-        "date_updated": 1760112321,
-        "date_posted": 1759904453,
-        "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Mountain-View-California-United-States-of-America/Machine-Learning-Engineer---AI-Research_JR-202519114",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/General-Motors",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
         ]
     },
     {
@@ -40362,132 +40300,6 @@
             "Tampa, FL"
         ],
         "company_url": "https://simplify.jobs/c/Seminole-Hard-Rock",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Optimove",
-        "id": "c85d2032-cd7e-4f32-a982-4ad130ae3b2f",
-        "title": "Customer Data Engineer",
-        "active": false,
-        "date_updated": 1761847762,
-        "date_posted": 1759904776,
-        "url": "https://job-boards.eu.greenhouse.io/optimove/jobs/4683510101",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Optimove",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "AGILE Space Industries",
-        "id": "226ad46b-562a-47cf-a027-642339e5888f",
-        "title": "Test Operations Technician - Electrical",
-        "active": false,
-        "date_updated": 1761686778,
-        "date_posted": 1759904879,
-        "url": "https://job-boards.greenhouse.io/agilespaceindustries/jobs/4610834005",
-        "locations": [
-            "Dolores, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/AGILE-Space-Industries",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Hudson River Trading",
-        "id": "c4430a3c-c2fb-40f5-809f-a6ed0dd93671",
-        "title": "Algorithm Developer - Quant Researcher",
-        "active": false,
-        "date_updated": 1762912839,
-        "date_posted": 1759904600,
-        "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7297910",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Hudson-River-Trading",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Hudson River Trading",
-        "id": "4fdb7a05-0094-45e6-8997-f7dbcda4f991",
-        "title": "Algorithm Developer - Quant Researcher - 2026 Phds",
-        "active": false,
-        "date_updated": 1759904591,
-        "date_posted": 1759904591,
-        "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7298080",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Hudson-River-Trading",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Lennar Corporation",
-        "id": "dc53a34f-e07d-4026-aec3-73188b76414f",
-        "title": "Future Builders Recent College Grad Program - Business Analysis",
-        "active": false,
-        "date_updated": 1762931479,
-        "date_posted": 1759904370,
-        "url": "https://lennar.wd1.myworkdayjobs.com/Lennar_Jobs/job/Miami-FL-Job-Posting-Location/Future-Builders-Recent-College-Grad-Program---Business-Analysis--_R25_0000004200",
-        "locations": [
-            "Miami, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Lennar-Corporation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Paramount Global",
-        "id": "42c193d9-6a7a-49dd-ab0a-7b5807ad818c",
-        "title": "Archives Digitizer",
-        "active": false,
-        "date_updated": 1759904130,
-        "date_posted": 1759904130,
-        "url": "https://careers.paramount.com/job/Iselin-Archives-Digitizer-NJ-8830/1332750200/?ats=successfactors",
-        "locations": [
-            "Iselin, Woodbridge Township, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/Paramount-Global",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Worcester Polytechnic Institute",
-        "id": "6b329ca6-a382-4b89-9fa5-a1e9c4ef4f44",
-        "title": "Assistant Professor",
-        "active": false,
-        "date_updated": 1761861315,
-        "date_posted": 1759903771,
-        "url": "https://wpi.wd5.myworkdayjobs.com/WPI_External_Career_Site/job/Worcester/Assistant-Professor_R0003284",
-        "locations": [
-            "Worcester, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Worcester-Polytechnic-Institute",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -320001,7 +319813,7 @@
         "company_name": "IEQ Capital",
         "id": "548b127c-7b80-4630-bb42-110af283bf62",
         "title": "Portfolio Analytics Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1779844993,
         "date_posted": 1778202488,
         "url": "https://job-boards.greenhouse.io/ieqcapital/jobs/7727967003",
@@ -337993,7 +337805,7 @@
         "company_name": "Reach Financial",
         "id": "39349736-2696-42cf-9e4b-deaf9d2b3246",
         "title": "Credit Risk Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1780526126,
         "date_posted": 1780525423,
         "url": "https://job-boards.greenhouse.io/reach/jobs/8573228002",
@@ -340016,6 +339828,68 @@
             "Irvine, CA"
         ],
         "company_url": "https://simplify.jobs/c/Anduril",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "NVIDIA",
+        "id": "29d56cce-6d8e-4fac-aeb4-7c14135e0b12",
+        "title": "Software R&D Engineer New Grad - VLSI Physical Design",
+        "active": true,
+        "date_updated": 1780639895,
+        "date_posted": 1780639630,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/Software-R-D-Engineer--VLSI-Physical-Design---New-College-Grad-2026_JR2019330",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Manulife Financial",
+        "id": "4bef280c-9b3c-43e0-b365-81a602b776ae",
+        "title": "Associate AI Engineer",
+        "active": true,
+        "date_updated": 1780639561,
+        "date_posted": 1780639464,
+        "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Boston-Massachusetts/Associate-AI-Engineer_JR26050435-3",
+        "locations": [
+            "Boston, MA",
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Manulife-Financial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Louisville",
+        "id": "3462acdf-f6d5-4434-9d81-b62e7834c18e",
+        "title": "Athletics Videographer 1",
+        "active": true,
+        "date_updated": 1780639749,
+        "date_posted": 1780639393,
+        "url": "https://uofl.wd1.myworkdayjobs.com/UofLCareerSite/job/Belknap-Campus/Athletics-Videographer-I_R108724",
+        "locations": [
+            "Louisville, KY"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Louisville",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
