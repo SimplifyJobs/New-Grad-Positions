@@ -295688,7 +295688,7 @@
         "company_name": "The Boeing Company",
         "id": "e4abcfdd-a3ad-497d-9158-322929a985ae",
         "title": "Associate and Experienced Software Engineers - Secure Network & Protocols",
-        "active": false,
+        "active": true,
         "date_updated": 1778019842,
         "date_posted": 1778019031,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Oklahoma-City-OK/Associate-and-Experienced-Software-Engineers---Secure-Network---Protocols_JR2026509074-1",
@@ -302418,7 +302418,7 @@
         "company_name": "Hawk-Eye Innovations",
         "id": "cba9f69d-0416-480e-b5c0-ce84e01f9dec",
         "title": "Computer Vision Engineer - Algorithms",
-        "active": true,
+        "active": false,
         "date_updated": 1778508541,
         "date_posted": 1778508495,
         "url": "https://jobs.ashbyhq.com/hawkeyeinnovations/1d03c3ad-5612-496a-ac3c-0d49a16523bb/application",
@@ -303624,7 +303624,7 @@
         "company_name": "Olo",
         "id": "30ac880d-abfd-448f-ab44-d40bb7bd1aec",
         "title": "Associate Software Engineer - Engage",
-        "active": true,
+        "active": false,
         "date_updated": 1778594941,
         "date_posted": 1778594865,
         "url": "https://jobs.lever.co/olo/cf24b481-6c24-40f7-9737-224d5d2ba0ca/apply",
@@ -319068,7 +319068,7 @@
         "company_name": "Wunderman Thompson",
         "id": "cf69c2fc-0dec-4ac2-a00d-3d27e582019d",
         "title": "Prompt Engineer - AI",
-        "active": true,
+        "active": false,
         "date_updated": 1779820921,
         "date_posted": 1778019120,
         "url": "https://www.vml.com/careers/job/8536246002?gh_jid=8536246002",
@@ -332909,7 +332909,7 @@
         "company_name": "General Motors",
         "id": "95fe52bd-6718-4467-a2b0-76f1071db57d",
         "title": "Software Developer - Test Framework",
-        "active": true,
+        "active": false,
         "date_updated": 1780352904,
         "date_posted": 1780351604,
         "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Markham-Ontario-Canada/Early-Career-Software-Developer---Test-Framework_JR-202612062",
@@ -336961,7 +336961,7 @@
         "company_name": "TravisMathew",
         "id": "a4df329c-1bd3-4c68-980c-50edd3203feb",
         "title": "Associate Product Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1780525451,
         "date_posted": 1780524698,
         "url": "https://tcbrands.wd1.myworkdayjobs.com/TravisMathew-Careers/job/TM---HQ---Huntington-Beach/Associate-Product-Developer_JR2023-16005",
@@ -339548,5 +339548,86 @@
         "degrees": [
             "Associate's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Leonardo",
+        "id": "a4f8108a-b8e0-440e-8e67-3084664f7d44",
+        "title": "Embedded Design Engineer - FPGA Academy",
+        "active": true,
+        "date_updated": 1780652161,
+        "date_posted": 1780652120,
+        "url": "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Newcastle/Embedded-Design-Engineer--FPGA-Academy-_R0029850",
+        "locations": [
+            "Edinburgh, UK",
+            "Newcastle upon Tyne, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Leonardo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Magna",
+        "id": "b36dd93e-55df-46c6-8350-15f7d2381821",
+        "title": "CMM Technician",
+        "active": true,
+        "date_updated": 1780652834,
+        "date_posted": 1780611048,
+        "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Northwood-Ohio-US/CMM-Technician_R00246035",
+        "locations": [
+            "Toledo, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Magna",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Enbridge",
+        "id": "a99b1eba-0b2a-43dc-abb5-9d4f837c8430",
+        "title": "Renewable Energy Performance Engineer in Training 1",
+        "active": true,
+        "date_updated": 1780652439,
+        "date_posted": 1780322737,
+        "url": "https://enbridge.wd3.myworkdayjobs.com/enbridge_careers/job/Calgary-AB-CAN/XMLNAME---Renewable-Energy-Performance-Engineer-in-Training-I_71296-1",
+        "locations": [
+            "Calgary, AB, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Enbridge",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Cubic",
+        "id": "94e301ae-69ea-4c12-a139-32f8e05f9d21",
+        "title": "Field Services Technician 2",
+        "active": true,
+        "date_updated": 1780652126,
+        "date_posted": 1780136891,
+        "url": "https://cubic.wd1.myworkdayjobs.com/cubic_global_careers/job/United-Kingdom---Remote/Field-Services-Technician-2_REQ_47828",
+        "locations": [
+            "United Kingdom"
+        ],
+        "company_url": "https://simplify.jobs/c/Cubic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
