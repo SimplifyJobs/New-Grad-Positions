@@ -257857,7 +257857,7 @@
         "company_name": "Leonardo",
         "id": "380138cf-0530-454c-a92f-c3404b7bc626",
         "title": "Analytics Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1775640241,
         "date_posted": 1775639117,
         "url": "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---London---Whitehall/Analytics-Engineer_R0028015",
@@ -317898,7 +317898,7 @@
         "company_name": "The Federal Reserve System",
         "id": "e491e331-9f07-40c3-9189-9f3ed1d074ad",
         "title": "Research Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1779820021,
         "date_posted": 1779528349,
         "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Chicago-IL/Research-Assistant_R-0000032112-1",
@@ -330136,7 +330136,7 @@
         "company_name": "Brink",
         "id": "a999a49c-402d-44ce-b35b-d60c89144761",
         "title": "ATM Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1780274470,
         "date_posted": 1780131751,
         "url": "https://brinks.wd5.myworkdayjobs.com/brinkscareersus/job/Baton-Rouge-LA/ATM-Technician_R72782",
@@ -333497,7 +333497,7 @@
         "company_name": "The Toro Company",
         "id": "e09a8a7b-96c7-4b97-baa5-753234702118",
         "title": "Technical Product Support Representative 1",
-        "active": false,
+        "active": true,
         "date_updated": 1780394492,
         "date_posted": 1780133094,
         "url": "https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/Technical-Product-Support-Representative-I---The-Toro-Company_JR16145",
@@ -334382,7 +334382,7 @@
         "company_name": "Leidos",
         "id": "99e4e025-a0d3-4f3d-87f1-bd79775e22ec",
         "title": "Electronics Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1780438442,
         "date_posted": 1780437956,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Long-Beach-MS/Electronics-Technician_R-00184650",
@@ -337847,7 +337847,7 @@
         "company_name": "Google",
         "id": "e956f81d-a54f-4d86-b0aa-d5920e2e3c5a",
         "title": "Senior Software Engineer - AI/ML GenAI - Google Workspace",
-        "active": true,
+        "active": false,
         "date_updated": 1780566661,
         "date_posted": 1772579120,
         "url": "https://www.google.com/about/careers/applications/jobs/results/129380148985111238",
@@ -338046,7 +338046,7 @@
         "company_name": "ASDA",
         "id": "5f358c79-14f2-4c87-94b9-e1793174768b",
         "title": "Data Analyst - Digital / Ecommerce",
-        "active": true,
+        "active": false,
         "date_updated": 1780583401,
         "date_posted": 1780582609,
         "url": "https://asda.wd103.myworkdayjobs.com/AsdaJobs/job/Asda-House/Data-Analyst--Digital---eCommerce-_R-096895",
@@ -339629,5 +339629,69 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Booz Allen",
+        "id": "c9e969ad-bbb9-437d-9a3c-c8f62950f286",
+        "title": "System Engineer",
+        "active": true,
+        "date_updated": 1780653314,
+        "date_posted": 1780138976,
+        "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/M-S-System-Engineer_R0239352",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Booz-Allen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GE Healthcare",
+        "id": "adaa07c7-76b0-4929-ac78-4d3a5eac0539",
+        "title": "Field Service Engineer 1",
+        "active": true,
+        "date_updated": 1780652622,
+        "date_posted": 1780524405,
+        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-I_R4041954",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Healthcare",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "9e45b661-91d9-4264-b3bf-6ee2217f9ff8",
+        "title": "Cyber Software Engineer Associate",
+        "active": true,
+        "date_updated": 1780652082,
+        "date_posted": 1780135408,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Annapolis-Junction/Associate-Cyber-Software-Engineer_R10234416",
+        "locations": [
+            "Aurora, CO",
+            "Texas",
+            "Annapolis Junction, MD",
+            "Raleigh, NC",
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
