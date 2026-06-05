@@ -40028,43 +40028,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "69f939c8-ce21-4307-98d6-71fb8e9f16e9",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1759908260,
-        "date_posted": 1759908260,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/jobs/job/400026337",
-        "locations": [
-            "United Kingdom"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Chalk",
-        "id": "4f432fcc-f34f-42de-a797-3ddced80fa66",
-        "title": "Support Engineer",
-        "active": false,
-        "date_updated": 1759908402,
-        "date_posted": 1759908402,
-        "url": "https://job-boards.greenhouse.io/chalkinc/jobs/4566935005",
-        "locations": [
-            "SF",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/56f970a3-7b09-42f3-ab51-7ee6da665325",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Lawrence Berkeley National Laboratory",
         "id": "53d0212b-9071-4a6d-96d0-672cbcd0f600",
