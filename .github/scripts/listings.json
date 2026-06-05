@@ -1,41 +1,5 @@
 [
     {
-        "date_updated": 1761560448,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": false,
-        "degrees": [],
-        "url": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---VA-Springfield/Junior-AI-Specialist_32388",
-        "company_name": "Guidehouse",
-        "title": "Junior AI Specialist",
-        "locations": [
-            "Springfield, VA"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "AlmondCroffle",
-        "id": "52afd7e9-a218-4374-a254-755be45676be",
-        "date_posted": 1759940786,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1764068324,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": false,
-        "degrees": [],
-        "url": "https://jobs.lever.co/sunwatercapital/06f08a38-95a0-4dac-9997-4c46b3ae8fed/",
-        "company_name": "Sunwater Capital",
-        "title": "Junior Software Engineer",
-        "locations": [
-            "North Bethesda, MD"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "117dce95-01b7-4d3f-9d71-2c862395b740",
-        "date_posted": 1759940921,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "source": "Simplify",
         "category": "Software Engineering",
         "company_name": "Leidos",
