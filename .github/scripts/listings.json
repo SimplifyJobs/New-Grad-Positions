@@ -261995,7 +261995,7 @@
         "company_name": "L3Harris Technologies",
         "id": "cbe08726-3625-4ff3-a4d4-c240fcaedeaa",
         "title": "Engineering Technician A",
-        "active": true,
+        "active": false,
         "date_updated": 1775831925,
         "date_posted": 1775830254,
         "url": "https://jobs.l3harris.com/job/Salt-Lake-City-Engineering-Technician-A-UT-84116/1381287400/?ats=successfactors",
@@ -337188,7 +337188,7 @@
         "company_name": "MERGE",
         "id": "98777286-42c6-4453-9897-8f77e3409b31",
         "title": "Digital Asset Manager - Digital Asset Management - Librarian",
-        "active": true,
+        "active": false,
         "date_updated": 1780525451,
         "date_posted": 1780524966,
         "url": "https://job-boards.greenhouse.io/mergeworld/jobs/7977327",
@@ -339759,5 +339759,188 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Amazon",
+        "id": "d41455fd-d52b-4bb1-a1d6-5d36070b45d1",
+        "title": "Install Technician",
+        "active": true,
+        "date_updated": 1780697525,
+        "date_posted": 1780697184,
+        "url": "https://amazon.jobs/en/jobs/10428112/install-technician",
+        "locations": [
+            "Sparks, NV"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Moog ",
+        "id": "9c87cafe-b18e-4539-a354-5338c8895af9",
+        "title": "Associate Product Engineer",
+        "active": true,
+        "date_updated": 1780697525,
+        "date_posted": 1780697186,
+        "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Associate-Product-Engineer_R-26-18122-1",
+        "locations": [
+            "Buffalo, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Moog",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Cambria",
+        "id": "632f88f9-5a99-4ab9-b2cc-8e6a66eeab59",
+        "title": "Salesforce Support Associate",
+        "active": true,
+        "date_updated": 1780697161,
+        "date_posted": 1780697145,
+        "url": "https://cambria.wd1.myworkdayjobs.com/cambria_careers/job/Eden-Prairie-MN/Salesforce-Support-Associate_R-103173",
+        "locations": [
+            "Eden Prairie, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Cambria",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "2020 Companies",
+        "id": "4bb7fa2b-0390-4f28-9a6b-941512aaa4a3",
+        "title": "Android Sales Expert",
+        "active": true,
+        "date_updated": 1780697525,
+        "date_posted": 1780697272,
+        "url": "https://2020companies.wd1.myworkdayjobs.com/external_careers/job/Denton-TX/Android-Sales-Expert_REQ_105834",
+        "locations": [
+            "Denton, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/2020-Companies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Wisconsin-Madison",
+        "id": "3e6284fb-e5c5-4285-9c54-8c3e7f40bb8e",
+        "title": "Data Engineer",
+        "active": true,
+        "date_updated": 1780697161,
+        "date_posted": 1780697053,
+        "url": "https://wisconsin.wd1.myworkdayjobs.com/UW_Madison/job/Madison-WI/Data-Engineer_JR10011888",
+        "locations": [
+            "Madison, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Wisconsin-Madison",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Robert Bosch Venture Capital",
+        "id": "57d5c67b-32fa-43c1-8fad-431a680e807e",
+        "title": "Data Engineer Associate",
+        "active": true,
+        "date_updated": 1780697525,
+        "date_posted": 1780697189,
+        "url": "https://jobs.smartrecruiters.com/BoschGroup/744000130569649",
+        "locations": [
+            "Roseville, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Bosch",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Becton Dickinson",
+        "id": "eae99515-fc08-4134-8a31-ea57f634a25f",
+        "title": "Vendor Management Reporting Analyst",
+        "active": true,
+        "date_updated": 1780697580,
+        "date_posted": 1780697130,
+        "url": "https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-NJ---Franklin-Lakes/Vendor-Management-Reporting-Analyst_R-546543-1",
+        "locations": [
+            "Midland Park, NJ",
+            "Austin, TX",
+            "San Antonio, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Becton-Dickinson",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "University of British Columbia",
+        "id": "121f00cb-d735-434b-835e-e9ec87ab3af5",
+        "title": "Programmer Analyst 1",
+        "active": true,
+        "date_updated": 1780697462,
+        "date_posted": 1780697079,
+        "url": "https://ubc.wd10.myworkdayjobs.com/ubcstaffjobs/job/UBC-Vancouver-Campus---Vancouver-BC-Canada/Programmer-Analyst-I_JR24793",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/0afd0e99-520e-4d18-ba6a-1e60dc183fd4",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "BTI Solutions",
+        "id": "7be6f499-297b-4d45-90f0-abbc457bbce3",
+        "title": "Mobile Device Failure Analysis Engineer",
+        "active": true,
+        "date_updated": 1780697161,
+        "date_posted": 1780697078,
+        "url": "https://btisolutions.wd12.myworkdayjobs.com/External/job/Plano-TX/Mobile-Device-Failure-Analysis-Engineer--Korean-Bilingual--AM7177518_JR101854-1",
+        "locations": [
+            "Plano, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/BTI-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "PhD"
+        ]
     }
 ]
