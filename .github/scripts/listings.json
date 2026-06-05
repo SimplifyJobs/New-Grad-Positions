@@ -108539,7 +108539,7 @@
         "company_name": "Graphcore",
         "id": "e5e156e6-813f-4ef7-a4ee-d6d5a7029f34",
         "title": "Graduate Silicon Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1767715746,
         "date_posted": 1767715746,
         "url": "https://job-boards.greenhouse.io/graphcore/jobs/8360495002",
@@ -109063,7 +109063,7 @@
         "company_name": "Graphcore",
         "id": "2b482c61-059b-4d91-b72e-b538eef56c4b",
         "title": "Graduate Silicon Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1767740789,
         "date_posted": 1767740789,
         "url": "https://job-boards.greenhouse.io/graphcore/jobs/8360506002",
@@ -283340,7 +283340,7 @@
         "company_name": "Huntington Ingalls Industries",
         "id": "0b10b994-c87f-42c0-a42b-3907a7ef7b93",
         "title": "Engineer Test Operations 1",
-        "active": false,
+        "active": true,
         "date_updated": 1776982861,
         "date_posted": 1776982088,
         "url": "https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-TEST-OPERATIONS-1-Virg/1385061600/?ats=successfactors",
@@ -312070,7 +312070,7 @@
         "company_name": "RTX",
         "id": "5cf15281-fec7-4bc8-83b4-3db03d031421",
         "title": "Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1779229441,
         "date_posted": 1779228560,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Software-Engineer-1--ONSITE-_01846079",
@@ -319382,7 +319382,7 @@
         "company_name": "IEQ Capital",
         "id": "548b127c-7b80-4630-bb42-110af283bf62",
         "title": "Portfolio Analytics Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1779844993,
         "date_posted": 1778202488,
         "url": "https://job-boards.greenhouse.io/ieqcapital/jobs/7727967003",
@@ -333475,7 +333475,7 @@
         "company_name": "Goldman Sachs",
         "id": "d8f3b21b-ca53-4c69-99d4-ca2ffec5ce73",
         "title": "Global Banking & Markets - Fund Finance Strats - Analyst/Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1780393615,
         "date_posted": 1772234400,
         "url": "https://higher.gs.com/roles/164535",
@@ -338046,7 +338046,7 @@
         "company_name": "ASDA",
         "id": "5f358c79-14f2-4c87-94b9-e1793174768b",
         "title": "Data Analyst - Digital / Ecommerce",
-        "active": false,
+        "active": true,
         "date_updated": 1780583401,
         "date_posted": 1780582609,
         "url": "https://asda.wd103.myworkdayjobs.com/AsdaJobs/job/Asda-House/Data-Analyst--Digital---eCommerce-_R-096895",
@@ -339389,7 +339389,7 @@
         "company_name": "Anduril",
         "id": "0a20816a-d18d-455c-9e1d-fe6a126bb513",
         "title": "Product Operations Associate - Tier 1",
-        "active": true,
+        "active": false,
         "date_updated": 1780622132,
         "date_posted": 1774574788,
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/5081383007",
@@ -339693,5 +339693,107 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Cummins",
+        "id": "ee57bfc8-7207-4458-8546-f1a3d056de01",
+        "title": "Business Intelligence Analyst",
+        "active": true,
+        "date_updated": 1780668555,
+        "date_posted": 1780668505,
+        "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2430796",
+        "locations": [
+            "Troy, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Cummins",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Northwest Bank",
+        "id": "91538eee-7fd2-4673-bf95-03a626afce79",
+        "title": "Quantitative Analyst",
+        "active": true,
+        "date_updated": 1780669441,
+        "date_posted": 1780668614,
+        "url": "https://northwest.wd1.myworkdayjobs.com/Northwest_Careers/job/Bellevue-PA/Quantitative-Analyst_R-101850",
+        "locations": [
+            "Columbus, OH",
+            "McKees Rocks, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Northwest-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CoStar Group",
+        "id": "51a40a27-b08d-41d2-adaf-d0a5b47c4ca9",
+        "title": "Data Operations Associate - Str",
+        "active": true,
+        "date_updated": 1780669261,
+        "date_posted": 1780668457,
+        "url": "https://costar.wd1.myworkdayjobs.com/en-US/CoStarCareers/job/UK-London/Data-Operations-Associate--STR---London_R39082",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/CoStar",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Hewlett Packard (HP)",
+        "id": "252bc874-50f3-4901-ab4c-353ff47cf32c",
+        "title": "Diagnostics and Applications Software Engineer",
+        "active": true,
+        "date_updated": 1780668901,
+        "date_posted": 1780668357,
+        "url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Bengaluru-Karntaka-India/Diagnostics-and-Applications-Software-Engineer_3164063",
+        "locations": [
+            "Spring, TX",
+            "Bengaluru, Karnataka, India"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Amazon",
+        "id": "162d256f-3803-427f-aca8-3966f9efc073",
+        "title": "Data Collection Associate - V-Care",
+        "active": true,
+        "date_updated": 1780668555,
+        "date_posted": 1780668404,
+        "url": "https://amazon.jobs/en/jobs/10440753/data-collection-associate-v-care",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
