@@ -1,26 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Klaviyo",
-        "id": "056b01e2-b52b-4c95-80f7-93447fe07353",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1759914642,
-        "date_posted": 1759914642,
-        "url": "https://job-boards.greenhouse.io/klaviyocampus/jobs/7489745003",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Klaviyo",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
         "date_updated": 1761560448,
         "sponsorship": "U.S. Citizenship is Required",
         "active": false,
@@ -144034,24 +144013,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "GCI",
-        "id": "0c4bf1b1-7e25-4dd7-8287-d275dae25cac",
-        "title": "Network Maint. & Const. Tech 1",
-        "active": false,
-        "date_updated": 1769767736,
-        "date_posted": 1759914257,
-        "url": "https://edqv.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/21003052",
-        "locations": [
-            "Kotzebue, AK"
-        ],
-        "company_url": "https://simplify.jobs/c/GCI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -295096,7 +295057,7 @@
         "company_name": "The Boeing Company",
         "id": "8aa2bb01-7d1b-4e68-9bca-2f9baa91049e",
         "title": "Associate and Experienced Software Engineers - Secure Network & Protocols",
-        "active": false,
+        "active": true,
         "date_updated": 1778019842,
         "date_posted": 1778019009,
         "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Oklahoma-City-OK/Associate-and-Experienced-Software-Engineers---Secure-Network---Protocols_JR2026509074",
@@ -307946,7 +307907,7 @@
         "company_name": "Western Digital",
         "id": "d3dfea1b-c649-4bb7-a956-377922e3f9be",
         "title": "Software Engineer - Apps & Firmware",
-        "active": false,
+        "active": true,
         "date_updated": 1778807168,
         "date_posted": 1778807100,
         "url": "https://jobs.smartrecruiters.com/WesternDigital/744000126593979",
@@ -308168,7 +308129,7 @@
         "company_name": "Western Digital",
         "id": "b278496b-e98d-485e-b9f2-d14b9bc4ffef",
         "title": "Software Engineer - Apps",
-        "active": false,
+        "active": true,
         "date_updated": 1778807168,
         "date_posted": 1778807101,
         "url": "https://jobs.smartrecruiters.com/WesternDigital/744000126594220",
@@ -332948,7 +332909,7 @@
         "company_name": "General Motors",
         "id": "95fe52bd-6718-4467-a2b0-76f1071db57d",
         "title": "Software Developer - Test Framework",
-        "active": false,
+        "active": true,
         "date_updated": 1780352904,
         "date_posted": 1780351604,
         "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Markham-Ontario-Canada/Early-Career-Software-Developer---Test-Framework_JR-202612062",
@@ -335870,7 +335831,7 @@
         "company_name": "Stevens Institute of Technology",
         "id": "79e05eca-1049-4e66-b595-48c413a41398",
         "title": "Postdoctoral Associate-Systems Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1780477806,
         "date_posted": 1780131853,
         "url": "https://stevens.wd5.myworkdayjobs.com/External/job/Hoboken-NJ---Main-Campus/Postdoctoral-Associate-Systems-Engineering_RQ29678-1",
@@ -337413,7 +337374,7 @@
         "company_name": "Reach Financial",
         "id": "39349736-2696-42cf-9e4b-deaf9d2b3246",
         "title": "Credit Risk Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1780526126,
         "date_posted": 1780525423,
         "url": "https://job-boards.greenhouse.io/reach/jobs/8573228002",
@@ -339523,5 +339484,69 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Greenheck Group",
+        "id": "82c179b5-8eab-4417-abf4-e81dbfe9c09b",
+        "title": "Application Engineer 1/2 Senior",
+        "active": true,
+        "date_updated": 1780651156,
+        "date_posted": 1780131835,
+        "url": "https://greenheckgroup.wd5.myworkdayjobs.com/external/job/Minneapolis-MN/Application-Engineer-II-Sr_JR103698",
+        "locations": [
+            "Minneapolis, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Greenheck-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "VITAS Healthcare",
+        "id": "828ccc35-8623-4370-af61-9309b318fcc3",
+        "title": "Junior Strategy & Innovation Analyst",
+        "active": true,
+        "date_updated": 1780650361,
+        "date_posted": 1780092494,
+        "url": "https://ejrz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_5001/job/44324",
+        "locations": [
+            "Miami, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/VITAS-Healthcare",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "La-Z-Boy",
+        "id": "79bb3c3b-9ed5-437a-8a57-990d5ee0a1b2",
+        "title": "BOM Data Coordinator 2",
+        "active": true,
+        "date_updated": 1780650800,
+        "date_posted": 1780132064,
+        "url": "https://lazboy.wd1.myworkdayjobs.com/lzbcareers/job/Dayton-TN/BOM-Data-Coordinator-II_JR132912-1",
+        "locations": [
+            "Athens, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/La-Z-Boy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
     }
 ]
