@@ -335731,7 +335731,7 @@
         "company_name": "Nationwide",
         "id": "9bd77725-87e0-407d-b6d5-f81a58d66bcf",
         "title": "Investment Analyst - Front/Middle Office",
-        "active": false,
+        "active": true,
         "date_updated": 1780479096,
         "date_posted": 1780466911,
         "url": "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-One-Nationwide-Plaza/Investment-Analyst--Front-Middle-Office_098309",
@@ -340727,6 +340727,26 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Leidos",
+        "id": "a3189576-f66e-4774-83e0-6007daeba5ce",
+        "title": "Chinese Open-Source Intelligence Junior/Entry Level - Open-Source Intelligence Analyst",
+        "active": true,
+        "date_updated": 1780753336,
+        "date_posted": 1780740025,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Remote-US/Chinese-Open-Source-Intelligence--OSINT--Analyst--Junior-Entry-Level-_R-00184621",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
