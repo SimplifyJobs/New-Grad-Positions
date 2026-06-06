@@ -1,26 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Honeywell",
-        "id": "df030a42-2054-4334-ad3c-42c4a7fa43dc",
-        "title": "Software Engineer 1 - Embedded C++ - Avionics Systems",
-        "active": false,
-        "date_updated": 1760050245,
-        "date_posted": 1760050245,
-        "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs/job/122027",
-        "locations": [
-            "Phoenix, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Honeywell",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Centene",
         "id": "0ba7509f-8cc2-424f-bb65-6898fdc2a8ac",
@@ -38719,24 +38699,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "North Atlantic Industries",
-        "id": "c18b87e3-aa7c-4727-9294-3fc261c1043a",
-        "title": "Embedded Software Engineer",
-        "active": false,
-        "date_updated": 1760050832,
-        "date_posted": 1760050832,
-        "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3636815",
-        "locations": [
-            "Long Island, New York"
-        ],
-        "company_url": "https://simplify.jobs/c/North-Atlantic-Industries",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Highmark Health",
         "id": "a674202c-a93d-474e-aa03-7cd639397c1c",
@@ -38767,24 +38729,6 @@
             "Pittsburgh, PA"
         ],
         "company_url": "https://simplify.jobs/c/Highmark-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Protech Automotive Solutions",
-        "id": "06117440-5037-4d8e-b472-b1017695e49b",
-        "title": "Data Research Analyst",
-        "active": false,
-        "date_updated": 1762938375,
-        "date_posted": 1760050649,
-        "url": "https://calibercollision.wd1.myworkdayjobs.com/protech/job/Lewisville-TX/Protech-Data-Research-Analyst_R0207445",
-        "locations": [
-            "Lewisville, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Protech-Automotive-Solutions",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -300599,7 +300543,7 @@
         "company_name": "KLA Corporation",
         "id": "da5f0843-e3a0-43f7-af0c-f32ba1a072ec",
         "title": "Product Engineer - Simulation/High Vacuum",
-        "active": true,
+        "active": false,
         "date_updated": 1778278681,
         "date_posted": 1778277927,
         "url": "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Product-Engineer--Simulation-High-Vacuum_2636498-1",
@@ -328336,7 +328280,7 @@
         "company_name": "Howden",
         "id": "ed0cdea7-60b4-4ecf-84ec-32fc477a3b7e",
         "title": "Pricing Graduate",
-        "active": true,
+        "active": false,
         "date_updated": 1779961225,
         "date_posted": 1779959682,
         "url": "https://hyperiongrp.wd3.myworkdayjobs.com/Hyperion_External/job/Pricing-Graduate_R0015065-1",
@@ -332780,7 +332724,7 @@
         "company_name": "Ohio State University",
         "id": "e8b265ed-e2db-4794-a85f-2bf4ca2e01ee",
         "title": "Reporting and Analytics Analyst 2",
-        "active": true,
+        "active": false,
         "date_updated": 1780409161,
         "date_posted": 1780409030,
         "url": "https://osu.wd1.myworkdayjobs.com/OSUCareers/job/College-of-MedicineOffice-of-Health-Sciences/Reporting-and-Analytics-Analyst-2_R152194-1",
@@ -334466,7 +334410,7 @@
         "company_name": "Silicon Laboratories",
         "id": "c7142e93-997d-4cb6-a4e3-6cd5fac970ad",
         "title": "Digital Design Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1780449095,
         "date_posted": 1780448873,
         "url": "https://silabs.wd1.myworkdayjobs.com/SiliconlabsCareers/job/Austin/Digital-Design-Engineer-I_20658-1",
