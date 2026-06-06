@@ -5,7 +5,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/New-Grad-Positions/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
 ---
-### Browse 245 New Grad Roles by Category
+### Browse 244 New Grad Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (162)
 
@@ -13,7 +13,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (39)
 
-📈 **[Quantitative Finance](#-quantitative-finance-new-grad-roles)** (6)
+📈 **[Quantitative Finance](#-quantitative-finance-new-grad-roles)** (5)
 
 🔧 **[Hardware Engineering](#-hardware-engineering-new-grad-roles)** (36)
 
@@ -7193,7 +7193,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Early Career Software Engineer</td>
 <td>SF</td>
 <td>🔒</td>
-<td>5mo</td>
+<td>6mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Disney?utm_source=GHList&utm_medium=company">The Walt Disney Company</a></strong></td>
@@ -11757,7 +11757,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>5mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Elsevier?utm_source=GHList&utm_medium=company">Elsevier</a></strong></td>
 <td>Data Engineer 1</td>
 <td>London, UK</td>
 <td>🔒</td>
@@ -12494,13 +12494,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>3d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/MiQ?utm_source=GHList&utm_medium=company">MiQ</a></strong></td>
-<td>Junior Product Designer - Unified Trading</td>
-<td>London, UK</td>
-<td><div align="center"><a href="https://miqdigital.wd3.myworkdayjobs.com/MiQ_Careers/job/London/Junior-Product-Designer---Unified-Trading_JR100278-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/c6a39400-1444-4104-b1a4-d4859016782c?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>14d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Akuna-Capital-University?utm_source=GHList&utm_medium=company">Akuna Capital University</a></strong></td>
 <td>Junior Quantitative Researcher - Prediction Markets</td>
 <td>Chicago, IL</td>
@@ -12533,7 +12526,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (18)</summary>
+<summary>🗃️ Inactive roles (19)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -12546,6 +12539,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 </tr>
 </thead>
 <tbody>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/MiQ?utm_source=GHList&utm_medium=company">MiQ</a></strong></td>
+<td>Junior Product Designer - Unified Trading</td>
+<td>London, UK</td>
+<td>🔒</td>
+<td>14d</td>
+</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Citigroup?utm_source=GHList&utm_medium=company">Citi</a></strong></td>
 <td>Junior Natural Gas Option Trader - European Power - Gas and Emissions Trading Desk</td>
