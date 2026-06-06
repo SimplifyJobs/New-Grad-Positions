@@ -39458,132 +39458,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "10a Labs",
-        "id": "a5675717-baed-4913-a30b-9f333e486d15",
-        "title": "Machine Learning Fellowship",
-        "active": false,
-        "date_updated": 1761254598,
-        "date_posted": 1760023817,
-        "url": "https://job-boards.greenhouse.io/10alabs/jobs/4035700009",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/10a-Labs",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "CACI",
-        "id": "17706424-b148-462a-8923-4e77f8b877ed",
-        "title": "UAS - Red Team Pilot",
-        "active": false,
-        "date_updated": 1762918874,
-        "date_posted": 1760023729,
-        "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-MD-Aberdeen-Proving-Ground/UAS---Red-Team-Pilot_318144",
-        "locations": [
-            "Aberdeen, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/CACI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Cobalt Robotics",
-        "id": "b245e521-4bb2-4537-8865-a6469bc33fff",
-        "title": "Reserve Engineer",
-        "active": false,
-        "date_updated": 1760023382,
-        "date_posted": 1760023382,
-        "url": "https://jobs.lever.co/cobaltrobotics/b8cfde2c-7cb2-478e-b67d-cc4a0ac8e534/apply",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/CobaltRobotics",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Cobalt Robotics",
-        "id": "4ccb123e-9b1f-441b-8485-cd62569b118b",
-        "title": "Reserve Engineer",
-        "active": false,
-        "date_updated": 1760023368,
-        "date_posted": 1760023368,
-        "url": "https://jobs.lever.co/cobaltrobotics/fd7f0836-395d-4fa9-a4aa-553a00265980/apply",
-        "locations": [
-            "Arlington, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/CobaltRobotics",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Cobalt Robotics",
-        "id": "29f8861a-9758-48fd-ad02-6f49dbc91a2f",
-        "title": "Reserve Engineer",
-        "active": false,
-        "date_updated": 1760023368,
-        "date_posted": 1760023368,
-        "url": "https://jobs.lever.co/cobaltrobotics/e34fb4dd-5610-471e-886e-bfb97a3c4c07/apply",
-        "locations": [
-            "Edmonton, AB, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/CobaltRobotics",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Cobalt Robotics",
-        "id": "25ab81d9-746a-472a-ad5f-ec61cf6bbd3a",
-        "title": "Reserve Engineer",
-        "active": false,
-        "date_updated": 1760023374,
-        "date_posted": 1760023374,
-        "url": "https://jobs.lever.co/cobaltrobotics/931911f8-55e0-4279-bc7c-72d190154a92/apply",
-        "locations": [
-            "Memphis, TN"
-        ],
-        "company_url": "https://simplify.jobs/c/CobaltRobotics",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "University of Texas - Austin",
-        "id": "9db8f1c3-4053-456d-a998-ba7c264785ba",
-        "title": "Postdoctoral Fellow - Department of Computer Science",
-        "active": false,
-        "date_updated": 1760022460,
-        "date_posted": 1760022460,
-        "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/AUSTIN-TX/Postdoctoral-Fellow--Department-of-Computer-Science_R_00042583",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/University-Of-Texas-Austin",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "First American",
         "id": "8b03dc1a-b7e4-414c-937a-10fd1a7df472",
@@ -233985,7 +233859,7 @@
         "company_name": "Robert Bosch Venture Capital",
         "id": "6da32510-fa69-4006-9384-77f9878f49dd",
         "title": "Product Management Specialist - Diablo/Freud Tools",
-        "active": true,
+        "active": false,
         "date_updated": 1773757034,
         "date_posted": 1773757034,
         "url": "https://jobs.smartrecruiters.com/BoschGroup/744000114994315",
@@ -290287,7 +290161,7 @@
         "company_name": "Western Digital",
         "id": "678b8d7f-ebd1-46c2-810e-369033816a7e",
         "title": "Software Engineer - Apps",
-        "active": true,
+        "active": false,
         "date_updated": 1777586761,
         "date_posted": 1777586631,
         "url": "https://jobs.smartrecruiters.com/WesternDigital/744000124012539",
@@ -304160,7 +304034,7 @@
         "company_name": "Western Digital",
         "id": "5e02390a-cb89-4c3e-bcb5-d9ef5ed73f13",
         "title": "Software Engineer - Apps & Firmware",
-        "active": true,
+        "active": false,
         "date_updated": 1778707982,
         "date_posted": 1778623482,
         "url": "https://jobs.smartrecruiters.com/WesternDigital/744000126151504",
@@ -325495,7 +325369,7 @@
         "company_name": "Wabtec",
         "id": "58d0b6ca-a9a4-477a-a725-e2d3da87d7b8",
         "title": "Product Support Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1779872657,
         "date_posted": 1779872657,
         "url": "https://jobs.smartrecruiters.com/Wabtec/3743990012585977",
