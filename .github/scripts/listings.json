@@ -1,41 +1,5 @@
 [
     {
-        "date_updated": 1762271453,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": false,
-        "degrees": [],
-        "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/Associate-Software-Engineer-Software-Engineer---PGS-Space-Systems-_R10210446",
-        "company_name": "Northrop Grumman",
-        "title": "Associate Software Engineer/Software Engineer (PGS Space Systems)",
-        "locations": [
-            "Redondo Beach, CA"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "5cf43f54-e3eb-4a11-b4e3-c4b9202f7297",
-        "date_posted": 1760018962,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1761562003,
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "degrees": [],
-        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/CAD-Engineer--Physical-Design---New-College-Grad-2026_JR2005254",
-        "company_name": "NVIDIA",
-        "title": "CAD Engineer, Physical Design",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "category": "Hardware Engineering",
-        "source": "AlmondCroffle",
-        "id": "dac44822-c620-45a3-a77a-dab2815a645b",
-        "date_posted": 1760020120,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "source": "Simplify",
         "category": "Software",
         "company_name": "Valon",
@@ -226530,7 +226494,7 @@
         "company_name": "Avnet",
         "id": "0374d942-8b19-45e9-8850-322095453a57",
         "title": "Associate Field Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773959504,
         "date_posted": 1773959504,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -227269,7 +227233,7 @@
         "company_name": "Avnet",
         "id": "49997310-9583-4e8c-981a-385b75e55815",
         "title": "Associate Field Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773959504,
         "date_posted": 1773959504,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Wilmington-Massachusetts-United-States-of-America/Associate-Field-Application-Engineer_JR-022067",
@@ -332786,7 +332750,7 @@
         "company_name": "Avnet",
         "id": "013d5015-8b47-41a8-b665-239f9ca74772",
         "title": "Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1780351561,
         "date_posted": 1780351528,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Tempe-Arizona-United-States-Of-America/Software-Developer_JR-022614",
@@ -340743,6 +340707,26 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Vizient ",
+        "id": "7ee23982-e2a7-4b2a-884f-be6d32f66f39",
+        "title": "Associate Analyst",
+        "active": true,
+        "date_updated": 1780754224,
+        "date_posted": 1780742990,
+        "url": "https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/Associate-Analyst_33752R",
+        "locations": [
+            "Irving, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/85ed65fb-d411-473a-a950-b4d5c8ad7bdf",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
