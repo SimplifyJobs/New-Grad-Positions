@@ -77420,7 +77420,7 @@
         "company_name": "ASM International",
         "id": "08b790c3-b1ed-4ca8-ac18-4e3fe1927f47",
         "title": "Software Engineer \u2013 Early Career - Spring 2026",
-        "active": true,
+        "active": false,
         "date_updated": 1764987195,
         "date_posted": 1764987195,
         "url": "https://www.asm.com/open-vacancies/?gh_jid=4677615101",
@@ -327919,7 +327919,7 @@
         "company_name": "Adobe",
         "id": "05086e88-742a-4c28-b7de-951c54ab9644",
         "title": "Research Scientist",
-        "active": false,
+        "active": true,
         "date_updated": 1779955811,
         "date_posted": 1778941541,
         "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Research-Scientist_R167353",
@@ -330937,7 +330937,7 @@
         "company_name": "GE Healthcare",
         "id": "d0c9719f-a3d9-4720-acc4-f89f17ec0609",
         "title": "Lead Service Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1780307361,
         "date_posted": 1780134777,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Lead-Service-Engineer_R4041301-1",
@@ -340430,6 +340430,115 @@
             "Texas"
         ],
         "company_url": "https://simplify.jobs/c/University-Of-Texas-Austin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Jones Lang LaSalle (JLL)",
+        "id": "2cb6130c-544e-4de8-8b0d-a20072d0e53c",
+        "title": "Sustainability Analyst",
+        "active": true,
+        "date_updated": 1780708141,
+        "date_posted": 1780708081,
+        "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Atlanta-GA/Sustainability-Analyst_REQ513064",
+        "locations": [
+            "Boston, MA",
+            "Houston, TX",
+            "Austin, TX",
+            "Newark, DE",
+            "LA",
+            "Tampa, FL",
+            "Plano, TX",
+            "Chicago, IL",
+            "Columbus, OH",
+            "NYC",
+            "Denver, CO",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Jones-Lang-LaSalle",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Shield AI",
+        "id": "9e16bae3-42bd-4813-b204-92e215b8b529",
+        "title": "Engineer 1 - Electrical Integration & Test",
+        "active": true,
+        "date_updated": 1780708262,
+        "date_posted": 1780707976,
+        "url": "https://jobs.lever.co/shieldai/49d0cfc6-952f-42b6-ad6c-630597a1780a/apply",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Shield-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Morgan Stanley",
+        "id": "7454affb-3e4e-42b0-bb63-7e1f868e117b",
+        "title": "Non-Agency CMBS Trading - Fixed Income Division - Analyst/Associate",
+        "active": true,
+        "date_updated": 1780708141,
+        "date_posted": 1780708043,
+        "url": "https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Non-Agency-CMBS-Trading---Fixed-Income-Division---Analyst-Associate_JR038427",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Morgan-Stanley",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Charles Schwab",
+        "id": "68e98920-32f1-44be-b807-8c6c0cddbbda",
+        "title": "AI Engineer Associate",
+        "active": true,
+        "date_updated": 1780708283,
+        "date_posted": 1780708080,
+        "url": "https://career-schwab.icims.com/jobs/122696/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Charles-Schwab",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "CPI Security",
+        "id": "9e1d0c81-c458-4208-9b1f-428a1f0bb32f",
+        "title": "Commercial Installation Technician",
+        "active": true,
+        "date_updated": 1780708237,
+        "date_posted": 1780697231,
+        "url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4687293006",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/CPI-Security",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
