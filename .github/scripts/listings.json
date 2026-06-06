@@ -1,26 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "NewsBreak",
-        "id": "7a62b689-78a2-41c2-bbd3-a5441f281281",
-        "title": "Machine Learning Engineer - Junior - Recommendation",
-        "active": false,
-        "date_updated": 1760030138,
-        "date_posted": 1760030138,
-        "url": "https://job-boards.greenhouse.io/newsbreak/jobs/4608368006",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/NewsBreak",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Forage",
         "id": "6c955563-9228-4023-a162-92ea9bade829",
@@ -340544,6 +340524,27 @@
             "Irving, TX"
         ],
         "company_url": "https://simplify.jobs/c/85ed65fb-d411-473a-a950-b4d5c8ad7bdf",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Flutter",
+        "id": "a1198b01-bb33-4f9d-a466-703d59e5ee6d",
+        "title": "Graduate Analyst",
+        "active": true,
+        "date_updated": 1780755111,
+        "date_posted": 1780739912,
+        "url": "https://flutterbe.wd3.myworkdayjobs.com/FlutterInt_External/job/Isle-of-Man/Graduate-Analyst_JR139100-1",
+        "locations": [
+            "London, UK",
+            "Leeds, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Flutter",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
