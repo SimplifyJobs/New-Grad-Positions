@@ -1,58 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Centene",
-        "id": "0ba7509f-8cc2-424f-bb65-6898fdc2a8ac",
-        "title": "Data Engineer 1",
-        "active": false,
-        "date_updated": 1761839225,
-        "date_posted": 1760051685,
-        "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Data-Engineer-I_1610112",
-        "locations": [
-            "Washington",
-            "Pennsylvania",
-            "California",
-            "Texas",
-            "Jackson Township, NJ",
-            "Florida",
-            "South Carolina",
-            "Georgia",
-            "Virginia",
-            "NYC",
-            "Maryland",
-            "Massachusetts",
-            "North Carolina",
-            "Missouri",
-            "Illinois"
-        ],
-        "company_url": "https://simplify.jobs/c/Centene",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Altice USA",
-        "id": "ccc0f5b0-eb43-4b51-9ae4-1264c6f8bb89",
-        "title": "Software Developer Engineer 1 - Front-End UI Development",
-        "active": false,
-        "date_updated": 1760052645,
-        "date_posted": 1760052645,
-        "url": "https://www.alticeusacareers.com/job/Bethpage-Software-Dev-Engineer-I-NY-11714/1333380400/?ats=successfactors",
-        "locations": [
-            "Plainview, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Altice-USA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Anyscale",
         "id": "46c32409-c67c-4b82-a4a4-a4e0896d9808",
@@ -38693,42 +38641,6 @@
             "Irving, TX"
         ],
         "company_url": "https://simplify.jobs/c/Vistra",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Highmark Health",
-        "id": "a674202c-a93d-474e-aa03-7cd639397c1c",
-        "title": "IT Systems Analyst Associate",
-        "active": false,
-        "date_updated": 1760050868,
-        "date_posted": 1760050868,
-        "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-PAP-Penn-Avenue-Place/IT-Systems-Analyst-Associate_J270966",
-        "locations": [
-            "Pittsburgh, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Highmark-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Highmark Health",
-        "id": "6d9022ee-5b66-4e7e-ad28-b64435e21528",
-        "title": "IT Systems Analyst Associate",
-        "active": false,
-        "date_updated": 1760050869,
-        "date_posted": 1760050869,
-        "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-PAP-Penn-Avenue-Place/IT-Systems-Analyst-Associate_J270967",
-        "locations": [
-            "Pittsburgh, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Highmark-Health",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
