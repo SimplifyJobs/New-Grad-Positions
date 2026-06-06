@@ -340508,5 +340508,23 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TreviPay",
+        "id": "9d99d1df-62cd-45c4-8b40-01a95ade5ac6",
+        "title": "Data Processing Associate",
+        "active": true,
+        "date_updated": 1780739001,
+        "date_posted": 1779401205,
+        "url": "https://jobs.lever.co/trevipay/31f794d1-b69f-4b2f-bceb-feb25f3c3e01/apply",
+        "locations": [
+            "Overland Park, KS"
+        ],
+        "company_url": "https://simplify.jobs/c/TreviPay",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
