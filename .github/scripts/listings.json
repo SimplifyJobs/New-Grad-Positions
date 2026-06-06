@@ -13337,7 +13337,7 @@
         "company_name": "Leidos",
         "id": "de6e3580-a3fb-4a6a-b4af-bd24bb0e1f6c",
         "title": "PCBA Soldering Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1762915565,
         "date_posted": 1762915565,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/PCBA-Aoldering-Technician_R-00170309",
@@ -40241,7 +40241,7 @@
         "company_name": "Adobe",
         "id": "d3b68096-43ee-4401-8f01-bb4434e599ef",
         "title": "University Graduate - Research Scientist/Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1762918520,
         "date_posted": 1761907928,
         "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Research-Scientist-Engineer_R160690",
@@ -74622,7 +74622,7 @@
         "company_name": "Transamerica",
         "id": "ebdc10cd-da59-480e-bd8e-cd4acca80290",
         "title": "Appian Application Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1764804818,
         "date_posted": 1764804818,
         "url": "https://transamerica.wd5.myworkdayjobs.com/US/job/Philadelphia-Pennsylvania/Appian-Application-Developer_R20060158",
@@ -104088,7 +104088,7 @@
         "company_name": "The Federal Reserve System",
         "id": "9b1001b2-dacd-4394-bbce-cadf13321dd1",
         "title": "Quantitative Fellowship Program - Federal Reserve System",
-        "active": false,
+        "active": true,
         "date_updated": 1767049633,
         "date_posted": 1767049633,
         "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Minneapolis-MN/Quantitative-Fellowship-Program---Federal-Reserve-System_R-0000030982",
@@ -283785,7 +283785,7 @@
         "company_name": "University of Texas at Austin",
         "id": "e7b8ba38-13c5-4926-9962-f314ca280f9d",
         "title": "Postdoctoral Scholar",
-        "active": false,
+        "active": true,
         "date_updated": 1776939144,
         "date_posted": 1776521500,
         "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Postdoctoral-Scholar--Department-of-Petroleum-and-Geosystems-Engineering--Cockrell-School-of-Engineering_R_00018034",
@@ -305475,7 +305475,7 @@
         "company_name": "Chicago Trading Company",
         "id": "a9975ad6-0479-484d-aab7-a4954b90b534",
         "title": "Associate C++ Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1778708881,
         "date_posted": 1778623688,
         "url": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4687435005",
@@ -314313,7 +314313,7 @@
         "company_name": "Chicago Trading Company",
         "id": "dc45b05b-6ff6-413c-aadc-3baee16d05de",
         "title": "Associate C++ Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1779372541,
         "date_posted": 1779372423,
         "url": "https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4687435005",
@@ -323097,7 +323097,7 @@
         "company_name": "The Federal Reserve System",
         "id": "d05c2b68-917e-4f4e-a813-a4ce97be4c5b",
         "title": "Senior Research Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1779875512,
         "date_posted": 1779528352,
         "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Philadelphia-PA/Research-Assistant-Sr-Research-Assistant_R-0000030430",
@@ -328271,7 +328271,7 @@
         "company_name": "Leidos",
         "id": "84ffabcd-1475-42d2-8046-983744312e5e",
         "title": "Full Stack Java Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1779959401,
         "date_posted": 1779528284,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Full-Stack-Java-Software-Engineer_R-00172956",
@@ -329818,7 +329818,7 @@
         "company_name": "Pennsylvania State University",
         "id": "f56c3266-c05a-4ffc-b6f8-3f7ac6228863",
         "title": "Postdoctoral Scholar",
-        "active": true,
+        "active": false,
         "date_updated": 1778943422,
         "date_posted": 1778943257,
         "url": "https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Scholar_REQ_0000072094-1",
@@ -340526,5 +340526,84 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CoStar Group",
+        "id": "e9de2def-6691-4fdf-b560-a4a2a8389478",
+        "title": "Associate Research Consultant",
+        "active": true,
+        "date_updated": 1780740818,
+        "date_posted": 1780740319,
+        "url": "https://costar.wd1.myworkdayjobs.com/en-US/CoStarCareers/job/US-VA-Richmond/Bilingual-Associate-Research-Consultant-French-English_R37800",
+        "locations": [
+            "Richmond, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/CoStar",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CoStar Group",
+        "id": "e23fe090-a0b5-4284-a91d-c9a957c0b9ab",
+        "title": "Associate Tenant Researcher",
+        "active": true,
+        "date_updated": 1780740695,
+        "date_posted": 1780740161,
+        "url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Richmond---Semmes/Associate-Tenant-Researcher---May-2026-Graduates_R37171",
+        "locations": [
+            "Richmond, VA",
+            "Mobile, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/CoStar",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Collectors",
+        "id": "d5ae4e78-53c0-497e-b994-2f9d113ca86e",
+        "title": "Research Specialist",
+        "active": true,
+        "date_updated": 1780740542,
+        "date_posted": 1780740169,
+        "url": "https://collectorsuniverse.wd1.myworkdayjobs.com/collectors/job/Jersey-City-NJ/Researcher--temp-to-hire-_PL318",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Collectors",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Louisiana State University (LSU)",
+        "id": "fda1df8d-4aca-4426-ab25-5125bfd830dc",
+        "title": "Subsurface Mapping Specialist",
+        "active": true,
+        "date_updated": 1780739281,
+        "date_posted": 1780739245,
+        "url": "https://lsu.wd1.myworkdayjobs.com/lsuwaiver/job/W0102-Howe-Russell-Kniffen-West-Geoscience-Complex/Subsurface-Mapping-Specialist_R00115657",
+        "locations": [
+            "Louisiana"
+        ],
+        "company_url": "https://simplify.jobs/c/Louisiana-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
