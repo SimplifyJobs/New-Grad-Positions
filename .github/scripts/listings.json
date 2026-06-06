@@ -39712,24 +39712,6 @@
         "source": "Simplify",
         "category": "Software",
         "company_name": "Mercer University",
-        "id": "97a9b29e-04cc-46ff-8f1b-f869590e7c36",
-        "title": "Groundwater Center",
-        "active": false,
-        "date_updated": 1759967797,
-        "date_posted": 1759967797,
-        "url": "https://merceruniversity.wd1.myworkdayjobs.com/student/job/Macon-Campus/Groundwater-Center_JR103260",
-        "locations": [
-            "Macon, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Mercer-University",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Mercer University",
         "id": "557c4222-3333-4c59-b090-90b7bd873453",
         "title": "IT Field Support Technician",
         "active": false,
@@ -60624,26 +60606,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "General Dynamics",
-        "id": "27a24335-8bd8-40cd-bfc6-cf337d566cde",
-        "title": "IPS CTF Engineer",
-        "active": false,
-        "date_updated": 1763770783,
-        "date_posted": 1759966979,
-        "url": "https://careers-gdeb.icims.com/jobs/16864/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Philadelphia, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/General-Dynamics",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
@@ -335132,7 +335094,7 @@
         "company_name": "Adobe",
         "id": "356847c0-315f-4657-b79e-9b4f4a455699",
         "title": "Machine Learning Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1780449074,
         "date_posted": 1780448804,
         "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Machine-Learning-Engineer_R169351",
