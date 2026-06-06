@@ -2,44 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Forage",
-        "id": "6c955563-9228-4023-a162-92ea9bade829",
-        "title": "Junior Software Engineer",
-        "active": false,
-        "date_updated": 1760031674,
-        "date_posted": 1760031674,
-        "url": "https://job-boards.greenhouse.io/joinforage/jobs/4892105007",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/JoinForage",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "RTX",
-        "id": "5b5bcdcb-ecb8-45e9-b382-27ce689ac746",
-        "title": "Fixed Wing Displays Software Engineer I - Onsite",
-        "active": false,
-        "date_updated": 1761834475,
-        "date_posted": 1760032566,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HIA32-Cedar-Rapids-IA-400-Collins-Rd-NE---Cedar-Rapids-IA-52498-0505-USA/Fixed-Wing-Displays-Software-Engineer-I--Onsite-_01799192",
-        "locations": [
-            "Cedar Rapids, IA"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Abnormal Security",
         "id": "9db75355-f86d-4e5f-9f8e-84fdd0745161",
         "title": "Software Engineer 1 - Identity Security",
@@ -39268,26 +39230,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Garner Health",
-        "id": "0d4e5596-07b9-44aa-a7c6-9e1b5b360cdd",
-        "title": "Associate Data Scientist",
-        "active": false,
-        "date_updated": 1761698499,
-        "date_posted": 1760032494,
-        "url": "https://job-boards.greenhouse.io/garnerhealth/jobs/5674251004",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Garner-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
@@ -279242,7 +279184,7 @@
         "company_name": "Applied Materials",
         "id": "f41272f9-0120-450f-abf0-a8d6cbd6d49d",
         "title": "AI Algorithm Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1776768714,
         "date_posted": 1776523223,
         "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/AI-Algorithm-Developer_R2519827",
@@ -279789,7 +279731,7 @@
         "company_name": "The Hartford ",
         "id": "cbaeefa8-3042-472f-a399-876c55db4f5b",
         "title": "Associate Bus Data Analysis",
-        "active": true,
+        "active": false,
         "date_updated": 1776810061,
         "date_posted": 1776809198,
         "url": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Associate-Bus-Data-Analysis_R2624560-1",
@@ -322840,7 +322782,7 @@
         "company_name": "The Federal Reserve System",
         "id": "d05c2b68-917e-4f4e-a813-a4ce97be4c5b",
         "title": "Senior Research Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1779875512,
         "date_posted": 1779528352,
         "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Philadelphia-PA/Research-Assistant-Sr-Research-Assistant_R-0000030430",
@@ -336906,7 +336848,7 @@
         "company_name": "Walmart",
         "id": "4b88aa54-65d2-4404-8c96-2fc4622a4bcf",
         "title": "Staff Data Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1780526200,
         "date_posted": 1780524757,
         "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-Bentonville-Global-Tech-AR-BENTONVILLE-Home-Office/XMLNAME--USA--Staff--Data-Scientist_R-2524001",
@@ -340550,5 +340492,23 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Life Time",
+        "id": "d71f3840-574f-4479-935a-c820d98d94bc",
+        "title": "Hoops Statistician",
+        "active": true,
+        "date_updated": 1780755286,
+        "date_posted": 1780742258,
+        "url": "https://lifetime.wd1.myworkdayjobs.com/lifetime/job/Commerce-Township/Ultimate-Hoops-Statistician_R-163332",
+        "locations": [
+            "Wixom, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Life-Time",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
