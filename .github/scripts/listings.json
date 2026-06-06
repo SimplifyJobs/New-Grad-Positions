@@ -1,23 +1,5 @@
 [
     {
-        "date_updated": 1762901585,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": false,
-        "degrees": [],
-        "url": "https://job-boards.greenhouse.io/vultr/jobs/4602862006",
-        "company_name": "Vultr",
-        "title": "Junior Frontend Engineer",
-        "locations": [
-            "Remote in USA"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "6536860e-4e4b-48e7-bbe6-2baed14b1377",
-        "date_posted": 1760016662,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "date_updated": 1762271453,
         "sponsorship": "U.S. Citizenship is Required",
         "active": false,
@@ -339451,7 +339433,7 @@
         "company_name": "Enbridge",
         "id": "a99b1eba-0b2a-43dc-abb5-9d4f837c8430",
         "title": "Renewable Energy Performance Engineer in Training 1",
-        "active": true,
+        "active": false,
         "date_updated": 1780652439,
         "date_posted": 1780322737,
         "url": "https://enbridge.wd3.myworkdayjobs.com/enbridge_careers/job/Calgary-AB-CAN/XMLNAME---Renewable-Energy-Performance-Engineer-in-Training-I_71296-1",
@@ -340644,6 +340626,107 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Thermo Fisher Scientific",
+        "id": "ef4ad3d1-747b-4bf4-8629-3d0b6c40fd58",
+        "title": "Field Service Engineer 1 - Lab Equipment",
+        "active": true,
+        "date_updated": 1780752216,
+        "date_posted": 1780741725,
+        "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Saint-Louis-Missouri-USA/Field-Service-Engineer-I--Lab-Equipment--On-Site_R-01353821",
+        "locations": [
+            "Chesterfield, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Thermo-Fisher-Scientific",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Samsung",
+        "id": "ec363fa7-4cef-45f2-a908-901cc9dceeac",
+        "title": "Failure Analysis Engineer",
+        "active": true,
+        "date_updated": 1780752061,
+        "date_posted": 1780742947,
+        "url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/Failure-Analysis-Engineer_R117352",
+        "locations": [
+            "Pflugerville, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Samsung",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CACI",
+        "id": "d11e8fc9-1ec0-4753-90c1-f818c2da83fa",
+        "title": "Modeling & Simulation Engineer Entry Level",
+        "active": true,
+        "date_updated": 1780751342,
+        "date_posted": 1780740004,
+        "url": "https://caci.wd1.myworkdayjobs.com/external/job/Aberdeen-Proving-Ground-MD-US/Modeling---Simulation-Engineer-Entry-Level_327045-1",
+        "locations": [
+            "Aberdeen, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tencent",
+        "id": "bba51481-9a99-44ea-8984-83a7c4a04f2e",
+        "title": "3D Model and Scene Generation Algorithm Researcher",
+        "active": true,
+        "date_updated": 1780752160,
+        "date_posted": 1780740276,
+        "url": "https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/UK-London/XMLNAME-3D-Model-and-Scene-Generation-Algorithm-Researcher--2026-PhD-Graduate_R107513",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Tencent",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GE Appliances",
+        "id": "9c49f57d-6085-4172-b0ed-68b2a3041ef2",
+        "title": "Engineering Development Program - Software",
+        "active": true,
+        "date_updated": 1780752121,
+        "date_posted": 1780740248,
+        "url": "https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Edison-Engineering-Development-Program--EEDP----Software---January-2027_REQ-25806",
+        "locations": [
+            "Louisville, KY"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Appliances",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
