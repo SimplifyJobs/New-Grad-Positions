@@ -299123,7 +299123,7 @@
         "company_name": "Rocket Software",
         "id": "8ef9ec94-2cd9-44c1-a0c8-c9d81c946638",
         "title": "Software Engineer - Nextgen",
-        "active": true,
+        "active": false,
         "date_updated": 1778163842,
         "date_posted": 1778162957,
         "url": "https://rocket.wd5.myworkdayjobs.com/en-US/rocket_careers/job/Newbury-United-Kingdom/Software-Engineer---NextGen_R2026-6463",
@@ -315700,7 +315700,7 @@
         "company_name": "The Boeing Company",
         "id": "31d71f2a-9a18-4322-9731-399a235bc668",
         "title": "Hardware Subsystems Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1779487934,
         "date_posted": 1779487866,
         "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---El-Segundo-CA/Hardware-Subsystems-Engineer----Associate-or-Experienced-_JR2026510994",
@@ -331799,7 +331799,7 @@
         "company_name": "The Boeing Company",
         "id": "ac60b5e8-747b-497a-837c-82f9950d1bfd",
         "title": "Spacecraft Software Engineer - Millennium Space Systems",
-        "active": true,
+        "active": false,
         "date_updated": 1780353505,
         "date_posted": 1780351868,
         "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---El-Segundo-CA/Spacecraft-Software-Engineer--Associate-or-Mid-Level---Millennium-Space-Systems_JR2026512895-2",
@@ -336273,7 +336273,7 @@
         "company_name": "Comscore",
         "id": "97730105-3c2a-4c84-8b6d-6785108b16f3",
         "title": "Associate Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1780524721,
         "date_posted": 1780524406,
         "url": "https://comscore.wd5.myworkdayjobs.com/en-US/External/job/VA---Reston/Associate-Data-Analyst_REQ1629",
@@ -339471,7 +339471,7 @@
         "company_name": "Cubic",
         "id": "94e301ae-69ea-4c12-a139-32f8e05f9d21",
         "title": "Field Services Technician 2",
-        "active": true,
+        "active": false,
         "date_updated": 1780652126,
         "date_posted": 1780136891,
         "url": "https://cubic.wd1.myworkdayjobs.com/cubic_global_careers/job/United-Kingdom---Remote/Field-Services-Technician-2_REQ_47828",
@@ -340620,6 +340620,26 @@
             "Mayfield Heights, OH"
         ],
         "company_url": "https://simplify.jobs/c/Rockwell-Automation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Abbott",
+        "id": "ebcf495e-ffc8-41a2-9ced-68da1c5801e4",
+        "title": "Design to Cost Engineer",
+        "active": true,
+        "date_updated": 1780747642,
+        "date_posted": 1780740902,
+        "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---Illinois---Abbott-Park/Design-to-Cost-Engineer_31149181",
+        "locations": [
+            "Waukegan, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Abbott",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
