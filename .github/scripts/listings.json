@@ -118635,7 +118635,7 @@
         "company_name": "Jabil",
         "id": "e9de983b-ad46-4ca1-a360-c6c57197f6c8",
         "title": "Electrical Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1768346967,
         "date_posted": 1768346967,
         "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Memphis-TN/Electrical-Technician---IRHX_J2436377",
@@ -203014,7 +203014,7 @@
         "company_name": "IDEXX",
         "id": "f6bd529c-7b90-41cd-9373-dd7c662bd89a",
         "title": "Data Onboarding Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1772680108,
         "date_posted": 1772680108,
         "url": "https://idexx.wd1.myworkdayjobs.com/IDEXX/job/London-United-Kingdom/Data-Onboarding-Tech_J-051257",
@@ -329194,7 +329194,7 @@
         "company_name": "Veterans United",
         "id": "898d72aa-e81f-40b5-add1-08f8156619af",
         "title": "Data Coordinator",
-        "active": true,
+        "active": false,
         "date_updated": 1779959881,
         "date_posted": 1778947216,
         "url": "https://veteransunited.wd1.myworkdayjobs.com/VUHL/job/Columbia-MO/Data-Coordinator_R5755",
@@ -340600,6 +340600,26 @@
             "Louisiana"
         ],
         "company_url": "https://simplify.jobs/c/Louisiana-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Rockwell Automation",
+        "id": "cabe3412-f5fc-49e4-b9c9-b100e2fd5e6f",
+        "title": "Associate Engineer - Hardware",
+        "active": true,
+        "date_updated": 1780741981,
+        "date_posted": 1780741472,
+        "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Senior-Hardware-Development-Engineer--Processors_R26-220",
+        "locations": [
+            "Mayfield Heights, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Rockwell-Automation",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
