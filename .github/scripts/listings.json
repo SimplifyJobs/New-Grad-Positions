@@ -340129,5 +340129,43 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "5bf8d0c8-0c92-4a6d-ad96-230620511299",
+        "title": "Assembly/Test 1",
+        "active": true,
+        "date_updated": 1780822487,
+        "date_posted": 1780438267,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-KS-LENEXA-885--15701-W-95Th-St--KIN01-W-95TH-885/Assembly-Test-I_01846876",
+        "locations": [
+            "Lenexa, KS"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Amcor",
+        "id": "5c73ece4-2975-4e05-8762-7b79187888e6",
+        "title": "Production Helper",
+        "active": true,
+        "date_updated": 1780822469,
+        "date_posted": 1780134526,
+        "url": "https://amcor.wd5.myworkdayjobs.com/amcor_external_career_site/job/ACD-Danville-KY/Production-Helper_REQ_87262",
+        "locations": [
+            "Danville, KY"
+        ],
+        "company_url": "https://simplify.jobs/c/Amcor",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
