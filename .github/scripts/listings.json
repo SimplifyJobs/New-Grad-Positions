@@ -38290,24 +38290,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Roche",
-        "id": "11d13f4f-9824-48ad-86a8-cf77dfdcd591",
-        "title": "End User \u2013 Workplace & Site Experience - Industrial Placement",
-        "active": false,
-        "date_updated": 1760111953,
-        "date_posted": 1760111953,
-        "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Welwyn/End-User--Workplace---Site-Experience---Industrial-Placement_202509-125051-1",
-        "locations": [
-            "Welwyn Garden City, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Roche",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Zeiss",
         "id": "6d9fd290-855c-4f8a-8cfd-44cb31858d63",
@@ -84793,24 +84775,6 @@
             "Long Island City, Queens, NY"
         ],
         "company_url": "https://simplify.jobs/c/Brandes-Associates",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Advocates",
-        "id": "7989cf37-f46d-41c3-b368-a72b0a3c2152",
-        "title": "Direct Support Staff - Developmental Services",
-        "active": false,
-        "date_updated": 1765623188,
-        "date_posted": 1760111615,
-        "url": "https://careers-advocatesinc.icims.com/jobs/12459/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Wilmington, DE"
-        ],
-        "company_url": "https://simplify.jobs/c/Advocates",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -328872,7 +328836,7 @@
         "company_name": "RTX",
         "id": "e739e2f1-b776-4dd0-a1e8-e2b24a8ac460",
         "title": "Configuration Management Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1780274571,
         "date_posted": 1780139378,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-ON-MIDLAND-450--450-Leitz-Rd--BLDG-450/Configuration-Management-Specialist_01840354",
@@ -335053,7 +335017,7 @@
         "company_name": "Advanced Technology Services",
         "id": "24510c03-3b39-4878-a00a-748b18799aea",
         "title": "Calibration - Metrology Technician l",
-        "active": true,
+        "active": false,
         "date_updated": 1780524913,
         "date_posted": 1777331482,
         "url": "https://job-boards.greenhouse.io/advancedtechnologyservices/jobs/4675951006",
