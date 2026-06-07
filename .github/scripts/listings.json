@@ -38517,24 +38517,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "American Express",
-        "id": "8bcc3f20-f9a9-4073-961c-bcf236e0c465",
-        "title": "Campus Undergraduate Full-Time Associate - 2026 Cyberops & Assurance",
-        "active": false,
-        "date_updated": 1760056705,
-        "date_posted": 1760056705,
-        "url": "https://aexp.eightfold.ai/careers/job/38458970",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/American-Express",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Zeiss",
         "id": "6d9fd290-855c-4f8a-8cfd-44cb31858d63",
@@ -87230,24 +87212,6 @@
             "Huntsville, AL"
         ],
         "company_url": "https://simplify.jobs/c/Ohio-State-University-Physicians",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "The Salvation Army",
-        "id": "64f6c272-c4af-416c-be64-fd7357383fe4",
-        "title": "Recreation Assistant",
-        "active": false,
-        "date_updated": 1765880694,
-        "date_posted": 1760057643,
-        "url": "https://careers-usesalvationarmy.icims.com/jobs/14729/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Colorado Springs, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/The-Salvation-Army",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
