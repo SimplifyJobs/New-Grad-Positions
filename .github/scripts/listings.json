@@ -2,28 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Anyscale",
-        "id": "46c32409-c67c-4b82-a4a4-a4e0896d9808",
-        "title": "Software Engineer \u2013 New Grad 2026",
-        "active": false,
-        "date_updated": 1760053361,
-        "date_posted": 1760053361,
-        "url": "https://jobs.ashbyhq.com/anyscale/31d09081-f5e7-45e4-b561-1c53d0ca9200/application",
-        "locations": [
-            "Palo Alto, CA",
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Anyscale",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Pioneering Evolution",
         "id": "1b9e2e9a-5f0b-46d0-9c94-b4e66a4177aa",
         "title": "Junior Full-Stack Developer",
@@ -38605,42 +38583,6 @@
             "Sheffield, UK"
         ],
         "company_url": "https://simplify.jobs/c/ece08408-be43-4331-9af6-746c6e9977ec",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Fortra",
-        "id": "29c0ba46-7669-4cf8-9290-961726abd2e1",
-        "title": "Accessibility Web Developer",
-        "active": false,
-        "date_updated": 1760670511,
-        "date_posted": 1760054348,
-        "url": "https://job-boards.greenhouse.io/fortra/jobs/4608700006",
-        "locations": [
-            "Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Fortra",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Vistra",
-        "id": "34c54fc7-2338-4d51-9330-30e6ccdf9fc3",
-        "title": "Automation Analyst",
-        "active": false,
-        "date_updated": 1762931187,
-        "date_posted": 1760052669,
-        "url": "https://vst.wd5.myworkdayjobs.com/en-US/vistra_careers/job/Irving-Texas/Innovative-Automation-Analyst_40014031-2",
-        "locations": [
-            "Irving, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Vistra",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -331843,7 +331785,7 @@
         "company_name": "U.S. Venture",
         "id": "76eee698-30a4-411a-bd31-c9813bf1f4a0",
         "title": "Backend Software Engineer 2",
-        "active": true,
+        "active": false,
         "date_updated": 1780353357,
         "date_posted": 1780351798,
         "url": "https://usventure.wd1.myworkdayjobs.com/usvexternal/job/WI---Appleton/Backend-Software-Engineer-II_R7463",
