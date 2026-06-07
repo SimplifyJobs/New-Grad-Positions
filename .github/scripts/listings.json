@@ -38182,24 +38182,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "JP Morgan Chase",
-        "id": "eb3c4669-34fa-4134-8e95-c8491cba7844",
-        "title": "Quantitative Research - Energy - Analyst",
-        "active": false,
-        "date_updated": 1761504964,
-        "date_posted": 1760121432,
-        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210661016",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Pace Industries",
         "id": "e20453c8-d0e3-44c9-98af-02fcc5a89a1e",
@@ -306811,7 +306793,7 @@
         "company_name": "Western Digital",
         "id": "b278496b-e98d-485e-b9f2-d14b9bc4ffef",
         "title": "Software Engineer - Apps",
-        "active": true,
+        "active": false,
         "date_updated": 1778807168,
         "date_posted": 1778807101,
         "url": "https://jobs.smartrecruiters.com/WesternDigital/744000126594220",
