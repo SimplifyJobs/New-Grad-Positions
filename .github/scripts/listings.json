@@ -66541,27 +66541,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "True Anomaly",
-        "id": "a7a6ee54-b2af-4153-bd7f-6a9746e20c3d",
-        "title": "Elixir Software Engineer",
-        "active": false,
-        "date_updated": 1764238063,
-        "date_posted": 1760054791,
-        "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/4940122007",
-        "locations": [
-            "Long Beach, CA",
-            "Washington, DC",
-            "Colorado Springs, CO",
-            "Denver, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/TrueAnomaly",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Brookhaven Lab",
         "id": "ac07ec52-7579-4145-9912-b1ece7a77e2e",
