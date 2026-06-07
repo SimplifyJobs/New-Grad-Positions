@@ -1,24 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Pioneering Evolution",
-        "id": "1b9e2e9a-5f0b-46d0-9c94-b4e66a4177aa",
-        "title": "Junior Full-Stack Developer",
-        "active": false,
-        "date_updated": 1761920022,
-        "date_posted": 1760066974,
-        "url": "https://job-boards.greenhouse.io/pioneeringevolution/jobs/4740996008",
-        "locations": [
-            "Arlington, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Pioneering-Evolution",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "NVIDIA",
         "id": "7d96c0dc-36d6-4e45-afd4-33c4829bf1a6",
@@ -38475,24 +38457,6 @@
             "Solon, OH"
         ],
         "company_url": "https://simplify.jobs/c/MRI-Software",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "RedHelm",
-        "id": "51cc7150-eef1-4dda-aec9-87406f9d0cc0",
-        "title": "Help Desk Technician",
-        "active": false,
-        "date_updated": 1760066989,
-        "date_posted": 1760066989,
-        "url": "https://job-boards.greenhouse.io/onepath/jobs/4932963007",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/RedHelm",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
