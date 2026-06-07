@@ -2,24 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Amazon",
-        "id": "bb70924a-8fbe-4b64-aa12-ca63069abcb2",
-        "title": "Security Engineer 1 - Corporate Services Security",
-        "active": false,
-        "date_updated": 1761920114,
-        "date_posted": 1760132121,
-        "url": "https://amazon.jobs/en/jobs/3099188/security-engineer-i-corporate-services-security",
-        "locations": [
-            "Arlington, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Amazon",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Humana",
         "id": "03f784d8-eee3-4099-82dd-5fac1ba800a8",
         "title": "Software Engineer 1 - Cybersecurity Identity",
@@ -327996,7 +327978,7 @@
         "company_name": "Micron Technology",
         "id": "91e88b6e-4599-4579-afc5-ee3cb7fc6c65",
         "title": "Electrical Engineer New Grad - Design Engineer - Pathfinding Design",
-        "active": false,
+        "active": true,
         "date_updated": 1779960026,
         "date_posted": 1779529133,
         "url": "https://micron.wd1.myworkdayjobs.com/External/job/Folsom-CA/New-College-Grad---Design-Engineer---Pathfinding-Design_JR92326",
