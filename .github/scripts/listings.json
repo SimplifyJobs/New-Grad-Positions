@@ -340146,5 +340146,59 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Tesla",
+        "id": "a27fc3b9-e237-40db-b0a8-dbd72197c9fa",
+        "title": "Engineering Technician - Cell Qualification - Cell Engineering",
+        "active": true,
+        "date_updated": 1780796014,
+        "date_posted": 1780795838,
+        "url": "https://www.tesla.com/careers/search/job/268802",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tesla",
+        "id": "370706b8-ca68-4bd2-8a81-dc851f0ba733",
+        "title": "Data Collection Operator - Optimus",
+        "active": true,
+        "date_updated": 1780796016,
+        "date_posted": 1780795891,
+        "url": "https://www.tesla.com/careers/search/job/272823",
+        "locations": [
+            "Littleton, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tesla",
+        "id": "04717815-82d1-4302-86fb-a6af53c3ba93",
+        "title": "Data Collection Operator - Optimus",
+        "active": true,
+        "date_updated": 1780796019,
+        "date_posted": 1780795909,
+        "url": "https://www.tesla.com/careers/search/job/272816",
+        "locations": [
+            "Tempe, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
