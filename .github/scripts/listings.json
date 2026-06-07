@@ -338280,7 +338280,7 @@
         "company_name": "Anduril",
         "id": "0a20816a-d18d-455c-9e1d-fe6a126bb513",
         "title": "Product Operations Associate - Tier 1",
-        "active": true,
+        "active": false,
         "date_updated": 1780622132,
         "date_posted": 1774574788,
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/5081383007",
@@ -340063,7 +340063,7 @@
         "company_name": "CPI Security",
         "id": "43395721-7ee3-4dcf-a055-689297c3edbb",
         "title": "Residential Installation Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1780794636,
         "date_posted": 1780697232,
         "url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4687294006",
@@ -340123,6 +340123,62 @@
         "url": "https://www.tesla.com/careers/search/job/272816",
         "locations": [
             "Tempe, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Tesla",
+        "id": "ebaeb46d-19f4-4bf7-8078-8585eda12d07",
+        "title": "Engineering Technician - Passive Safety",
+        "active": true,
+        "date_updated": 1780813081,
+        "date_posted": 1780812908,
+        "url": "https://www.tesla.com/careers/search/job/266230",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tesla",
+        "id": "b09d7306-4475-4ca5-be47-5b9888b848ec",
+        "title": "Data Labeler",
+        "active": true,
+        "date_updated": 1780813230,
+        "date_posted": 1780812847,
+        "url": "https://www.tesla.com/careers/search/job/260509",
+        "locations": [
+            "Draper, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Tesla",
+        "id": "632b0835-7cd5-4cf2-8c63-8fc0a9ecbd61",
+        "title": "Cell Test Engineering Technician",
+        "active": true,
+        "date_updated": 1780813311,
+        "date_posted": 1780813246,
+        "url": "https://www.tesla.com/careers/search/job/268483",
+        "locations": [
+            "San Diego, CA"
         ],
         "company_url": "https://simplify.jobs/c/Tesla",
         "is_visible": true,
