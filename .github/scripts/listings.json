@@ -38074,24 +38074,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Invisible Technologies",
-        "id": "dc1aa085-3844-4aa3-97bc-c0a09e4239e4",
-        "title": "Voice Acting Specialist - English - AI Trainer",
-        "active": false,
-        "date_updated": 1760137572,
-        "date_posted": 1760137572,
-        "url": "https://job-boards.eu.greenhouse.io/agency/jobs/4687327101",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Invisible-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Pace Industries",
         "id": "e20453c8-d0e3-44c9-98af-02fcc5a89a1e",
@@ -243317,7 +243299,7 @@
         "company_name": "Thermo Fisher Scientific",
         "id": "ba2211a6-3041-48aa-9111-edebe44105f2",
         "title": "Field Service Engineer 1 - Asset Management",
-        "active": true,
+        "active": false,
         "date_updated": 1774999551,
         "date_posted": 1774479122,
         "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/West-Greenwich-Rhode-Island-USA/Field-Service-Engineer-I--Asset-Management-_R-01345001",
