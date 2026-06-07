@@ -340184,5 +340184,23 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tesla",
+        "id": "cd77dcd5-5398-4e0e-933c-9a0d9ec1ddc0",
+        "title": "Data Labeler",
+        "active": true,
+        "date_updated": 1780814727,
+        "date_posted": 1780814633,
+        "url": "https://www.tesla.com/careers/search/job/267078",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
