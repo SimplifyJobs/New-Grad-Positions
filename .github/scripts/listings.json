@@ -2,27 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Booz Allen",
-        "id": "3c4db72d-f1d5-46ef-89dc-50130a6777fa",
-        "title": "Full-Stack Developer - Junior",
-        "active": false,
-        "date_updated": 1760107535,
-        "date_posted": 1760107535,
-        "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Huntsville-AL/Software-Developer_R0226649",
-        "locations": [
-            "Huntsville, AL"
-        ],
-        "company_url": "https://simplify.jobs/c/Booz-Allen",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Cox",
         "id": "f9697416-97dc-497c-8c91-2d42df97d6a0",
         "title": "Software Engineer 1 - Salesforce - Backend Services",
@@ -263688,7 +263667,7 @@
         "company_name": "GE Healthcare",
         "id": "f830d1a6-1f54-406a-a400-61ea2ef00bf2",
         "title": "Field Service Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1776080458,
         "date_posted": 1775901481,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1---Roanoke--VA_R4039147-1",
@@ -340167,5 +340146,23 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "CPI Security",
+        "id": "14caba7f-253c-4e45-8d98-a02efa242286",
+        "title": "Residential Installation Technician",
+        "active": true,
+        "date_updated": 1780842094,
+        "date_posted": 1780610924,
+        "url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4686954006",
+        "locations": [
+            "Myrtle Beach, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/CPI-Security",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
