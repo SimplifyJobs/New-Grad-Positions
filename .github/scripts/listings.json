@@ -340202,5 +340202,27 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Tesla",
+        "id": "49002e77-afe3-4b52-9460-21b71d250681",
+        "title": "Electrical Hardware Validation Engineer - Optimus",
+        "active": true,
+        "date_updated": 1780815781,
+        "date_posted": 1780815780,
+        "url": "https://www.tesla.com/careers/search/job/252030",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
     }
 ]
