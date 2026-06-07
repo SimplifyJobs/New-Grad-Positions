@@ -1,23 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "NVIDIA",
-        "id": "7d96c0dc-36d6-4e45-afd4-33c4829bf1a6",
-        "title": "Software Engineer \u2013 New College Grad 2025 - CAD Automation",
-        "active": false,
-        "date_updated": 1761559995,
-        "date_posted": 1760072918,
-        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--CAD-Automation---New-College-Grad-2025_JR2005867",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/NVIDIA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
         "date_updated": 1760085613,
         "sponsorship": "Offers Sponsorship",
         "active": true,
@@ -331694,7 +331676,7 @@
         "company_name": "Texas A&M University System",
         "id": "25b1f7ab-dbe5-442c-8aa4-93cbecdc0a4c",
         "title": "Defensive Analyst - Football",
-        "active": true,
+        "active": false,
         "date_updated": 1780351561,
         "date_posted": 1780351510,
         "url": "https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/Prairie-View-TX/Defensive-Analyst--Football-_R-093670",
@@ -339322,7 +339304,7 @@
         "company_name": "Manulife Financial",
         "id": "11259ab5-d555-45cb-bfd5-2a57860ca9cd",
         "title": "Associate Data Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1780697161,
         "date_posted": 1780697086,
         "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Boston-Massachusetts/Associate-Data-Scientist_JR26050445-3",
