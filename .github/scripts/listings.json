@@ -38499,24 +38499,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Walmart",
-        "id": "3403a430-9efa-47f1-83ad-64f475d6461a",
-        "title": "Systems Operator - Systems Operations",
-        "active": false,
-        "date_updated": 1761941758,
-        "date_posted": 1760058712,
-        "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Groveport-OH/XMLNAME--USA--com-Systems-Operator_R-2321802",
-        "locations": [
-            "Groveport, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Walmart",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Zeiss",
         "id": "6d9fd290-855c-4f8a-8cfd-44cb31858d63",
@@ -331890,7 +331872,7 @@
         "company_name": "General Motors",
         "id": "95fe52bd-6718-4467-a2b0-76f1071db57d",
         "title": "Software Developer - Test Framework",
-        "active": true,
+        "active": false,
         "date_updated": 1780352904,
         "date_posted": 1780351604,
         "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Markham-Ontario-Canada/Early-Career-Software-Developer---Test-Framework_JR-202612062",
@@ -340128,5 +340110,41 @@
             "Master's",
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tesla",
+        "id": "d355bb3b-40e6-4f1d-b010-5f967c4cb256",
+        "title": "AI Safety Operator",
+        "active": true,
+        "date_updated": 1780795305,
+        "date_posted": 1780794548,
+        "url": "https://www.tesla.com/careers/search/job/247013",
+        "locations": [
+            "Doral, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "CPI Security",
+        "id": "43395721-7ee3-4dcf-a055-689297c3edbb",
+        "title": "Residential Installation Technician",
+        "active": true,
+        "date_updated": 1780794636,
+        "date_posted": 1780697232,
+        "url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4687294006",
+        "locations": [
+            "Hickory, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/CPI-Security",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
