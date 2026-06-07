@@ -4442,24 +4442,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Ciena",
-        "id": "7f2a5de0-05c6-48c6-989c-eeebebdb08f8",
-        "title": "Software Engineer Packet Platform \u2013 New Grad",
-        "active": false,
-        "date_updated": 1761846436,
-        "date_posted": 1760130732,
-        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Engineer-Packet-Platform---New-Grad_R029137",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Ciena",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Whoop",
         "id": "e0da206b-f1c0-4af9-9fa2-f7d209331585",
@@ -38118,24 +38100,6 @@
         "date_updated": 1760137572,
         "date_posted": 1760137572,
         "url": "https://job-boards.eu.greenhouse.io/agency/jobs/4687327101",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Invisible-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Invisible Technologies",
-        "id": "ddf34af5-efb9-4b16-bf82-3c17e39576bc",
-        "title": "Homography Specialist - AI Trainer",
-        "active": true,
-        "date_updated": 1760131000,
-        "date_posted": 1760131000,
-        "url": "https://job-boards.eu.greenhouse.io/agency/jobs/4666570101",
         "locations": [
             "Remote in USA"
         ],
@@ -243551,7 +243515,7 @@
         "company_name": "Lawrence Livermore National Laboratory (LLNL)",
         "id": "bca74012-9462-4061-95f7-b27d58666e24",
         "title": "Operations Research Postdoctoral Researcher",
-        "active": true,
+        "active": false,
         "date_updated": 1774986841,
         "date_posted": 1774649130,
         "url": "https://jobs.smartrecruiters.com/LLNL/3743990012380987",
