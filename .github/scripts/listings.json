@@ -1,84 +1,5 @@
 [
     {
-        "date_updated": 1760085613,
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "degrees": [
-            "Master's"
-        ],
-        "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Mountain-View-California-United-States-of-America/Machine-Learning-Engineer---AI-Research_JR-202519114",
-        "company_name": "General Motors",
-        "title": "Machine Learning Engineer - AI Research (PhD)",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "AlmondCroffle",
-        "id": "0ef9f2b0-3c39-41b5-ac1a-6c54973671cf",
-        "date_posted": 1760085613,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1761553870,
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "degrees": [],
-        "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Santa-Monica-CA-USA/Software-Engineer-I_10131168",
-        "company_name": "The Walt Disney Company",
-        "title": "Software Engineer I",
-        "locations": [
-            "Santa Monica, CA",
-            "Seattle, WA",
-            "San Francisco, CA"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "eed0ea40-7864-4623-9669-cf609126117f",
-        "date_posted": 1760086424,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1761333316,
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "degrees": [],
-        "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Global-Software-Support-Engineer-I_R2517230",
-        "company_name": "Applied Materials",
-        "title": "Global Software Support Engineer I",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "391102f6-6238-435a-a98a-2ba875a3526d",
-        "date_posted": 1760086742,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Avery Dennison",
-        "id": "a35e1eab-45e3-4fb7-9d5c-f2514f975340",
-        "title": "Firmware Engineering Early Career Program Associate - Hardware Engineering - RFID and IoT",
-        "active": false,
-        "date_updated": 1760086204,
-        "date_posted": 1760086204,
-        "url": "https://jobs.smartrecruiters.com/AveryDennison/744000086898306",
-        "locations": [
-            "Miamisburg, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Avery-Dennison",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
         "date_updated": 1760086993,
         "sponsorship": "Offers Sponsorship",
         "active": true,
@@ -38420,25 +38341,6 @@
             "Welwyn Garden City, UK"
         ],
         "company_url": "https://simplify.jobs/c/Roche",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "MRI Software",
-        "id": "47805469-61d4-44b4-b931-5b3cda4667e7",
-        "title": "Systems Administrator 1",
-        "active": false,
-        "date_updated": 1761941748,
-        "date_posted": 1760085128,
-        "url": "https://mrisoftware.wd501.myworkdayjobs.com/External_CareerSite/job/Cleveland-Ohio-Office/Systems-Administrator-I_R-106102",
-        "locations": [
-            "Cleveland, OH",
-            "Solon, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/MRI-Software",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
