@@ -1,23 +1,5 @@
 [
     {
-        "date_updated": 1760086993,
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "degrees": [],
-        "url": "https://jobs.lever.co/vailsys/ad5c0c59-c301-4ac5-983b-bbd62b736c94/",
-        "company_name": "Vail Systems",
-        "title": "Software Engineer, Test & Infrastructure I",
-        "locations": [
-            "Greater Chicago Area, IL"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "32cb2e37-5ef8-43d5-8edc-d40de0e9fdf5",
-        "date_posted": 1760086993,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "source": "Simplify",
         "category": "Software",
         "company_name": "Booz Allen",
