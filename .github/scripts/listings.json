@@ -2,67 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Jerry",
-        "id": "f33329f2-26bd-438c-8ae1-d31595d8e468",
-        "title": "Software Engineer 1 - Multiple Teams",
-        "active": false,
-        "date_updated": 1760147470,
-        "date_posted": 1760147470,
-        "url": "https://jobs.ashbyhq.com/jerry.ai/3e08c6f4-dbf4-40d1-972f-e1aa5b21893b/application",
-        "locations": [
-            "Toronto, ON, Canada",
-            "Greater Toronto Area, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Jerry",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Jerry",
-        "id": "451bc58a-ba6c-4172-abba-0a8d6581d92c",
-        "title": "Software Engineer 1 - Multiple Teams",
-        "active": false,
-        "date_updated": 1760147471,
-        "date_posted": 1760147471,
-        "url": "https://jobs.ashbyhq.com/jerry.ai/da56e386-eb61-4cf4-bee8-fad6b1282ab0/application",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Jerry",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Ciena",
-        "id": "220fe9df-0c32-4b8f-8a94-a26ff971e491",
-        "title": "Hardware Engineer \u2013 New Grad",
-        "active": false,
-        "date_updated": 1760147403,
-        "date_posted": 1760147403,
-        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Hardware-Engineer---New-Grad_R028768",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Ciena",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "The Travelers Companies",
         "id": "0c791cc9-5324-4c5f-a91f-cbd691cc5b48",
         "title": "Software Engineer 1 - Python - Web Development",
@@ -4359,24 +4298,6 @@
             "Shakopee, MN"
         ],
         "company_url": "https://simplify.jobs/c/Seagate-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Ciena",
-        "id": "08fc374b-c4fc-4dad-ba54-3352c0510b83",
-        "title": "RLS Photonics Software Engineer \u2013 2026 New Grads",
-        "active": false,
-        "date_updated": 1761831862,
-        "date_posted": 1760147390,
-        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/RLS-Photonics-Software-Engineer---2026-New-Grads_R029181",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Ciena",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -37864,78 +37785,6 @@
             "Canada"
         ],
         "company_url": "https://simplify.jobs/c/ViralNation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "GM financial",
-        "id": "b2efa0f7-4b48-418a-9a92-b02dff457cb4",
-        "title": "Product Owner 1 - Digital Payments",
-        "active": false,
-        "date_updated": 1762931245,
-        "date_posted": 1760147806,
-        "url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1089",
-        "locations": [
-            "Irving, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/GM-Financial",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Artech Information System",
-        "id": "e24fceb6-fe8a-46d0-ab7b-cf325acadfe5",
-        "title": "Desktop Support",
-        "active": false,
-        "date_updated": 1761940982,
-        "date_posted": 1760146474,
-        "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/743999654562478",
-        "locations": [
-            "Tampa, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Artech-Information-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Artech Information System",
-        "id": "d963c62c-a776-4879-a4dc-31fbffe1c25d",
-        "title": "Deskside Support",
-        "active": false,
-        "date_updated": 1761802520,
-        "date_posted": 1760146481,
-        "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/103975600",
-        "locations": [
-            "San Ramon, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Artech-Information-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Artech Information System",
-        "id": "8f40abc1-dc00-4156-9d6c-514d3c4db971",
-        "title": "Deskside Support",
-        "active": false,
-        "date_updated": 1761802681,
-        "date_posted": 1760146480,
-        "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/106276545",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Artech-Information-System",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
