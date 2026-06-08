@@ -37773,24 +37773,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Viral Nation",
-        "id": "39bd7684-a320-49a0-87b6-44370dfb24b6",
-        "title": "Associate Analyst - Business Intelligence",
-        "active": false,
-        "date_updated": 1760149533,
-        "date_posted": 1760149533,
-        "url": "https://job-boards.greenhouse.io/viralnation/jobs/4940071007",
-        "locations": [
-            "Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/ViralNation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Augment",
         "id": "1b6b9cca-9f1e-4049-89cd-2bc1e6965cda",
@@ -321495,7 +321477,7 @@
         "company_name": "The Federal Reserve System",
         "id": "d05c2b68-917e-4f4e-a813-a4ce97be4c5b",
         "title": "Senior Research Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1779875512,
         "date_posted": 1779528352,
         "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Philadelphia-PA/Research-Assistant-Sr-Research-Assistant_R-0000030430",
