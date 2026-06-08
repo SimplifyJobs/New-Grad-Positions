@@ -224738,7 +224738,7 @@
         "company_name": "Avnet",
         "id": "0374d942-8b19-45e9-8850-322095453a57",
         "title": "Associate Field Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773959504,
         "date_posted": 1773959504,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -225477,7 +225477,7 @@
         "company_name": "Avnet",
         "id": "49997310-9583-4e8c-981a-385b75e55815",
         "title": "Associate Field Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773959504,
         "date_posted": 1773959504,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Wilmington-Massachusetts-United-States-of-America/Associate-Field-Application-Engineer_JR-022067",
@@ -308518,7 +308518,7 @@
         "company_name": "Telligen",
         "id": "db30caee-7fef-4771-9ff6-3c53d756a019",
         "title": "Population Health Data Quality Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1779142141,
         "date_posted": 1779141977,
         "url": "https://jobs.lever.co/telligen/0e1fbca9-83f2-4cef-9f7e-bcbc4eeae23d/apply",
@@ -327179,7 +327179,7 @@
         "company_name": "Light & Wonder",
         "id": "cf514607-9f5a-46ba-99be-48c79d3fffd9",
         "title": "Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1779962115,
         "date_posted": 1779528348,
         "url": "https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Reno-NV/Software-Engineer_R321148",
@@ -330994,7 +330994,7 @@
         "company_name": "Avnet",
         "id": "013d5015-8b47-41a8-b665-239f9ca74772",
         "title": "Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1780351561,
         "date_posted": 1780351528,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Tempe-Arizona-United-States-Of-America/Software-Developer_JR-022614",
@@ -338665,7 +338665,7 @@
         "company_name": "Charles Schwab",
         "id": "68e98920-32f1-44be-b807-8c6c0cddbbda",
         "title": "AI Engineer Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1780708283,
         "date_posted": 1780708080,
         "url": "https://career-schwab.icims.com/jobs/122696/job?mobile=true&needsRedirect=false",
@@ -340124,6 +340124,170 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Chickasaw Nation Industries",
+        "id": "65f5666b-6db8-4aee-b3e2-833dfe629790",
+        "title": "Electronics Technician 1",
+        "active": true,
+        "date_updated": 1780956528,
+        "date_posted": 1780956244,
+        "url": "https://cni.wd503.myworkdayjobs.com/CNI/job/Charleston-SC/Electronics-Technician-I_R9053",
+        "locations": [
+            "Charleston, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/Chickasaw-Nation-Industries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Texas Water Development Board",
+        "id": "ef2e3ef1-17b8-4a05-8ee3-f132ec0def2f",
+        "title": "Senior Data Analyst - Data Analyst III",
+        "active": true,
+        "date_updated": 1780956764,
+        "date_posted": 1780956321,
+        "url": "https://jobs.smartrecruiters.com/TexasWaterDevelopmentBoardTWDB/744000130827924",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Texas-Water-Development-Board",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Varian",
+        "id": "d0cec003-02ca-401b-9382-65962bd57979",
+        "title": "Field Service Engineer",
+        "active": true,
+        "date_updated": 1780956361,
+        "date_posted": 1780956332,
+        "url": "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/SEA-FO/Field-Service-Engineer---HW---Seattle--WA_R-28714-1",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/670da3c5-bce0-4621-b519-da7ce7d528e6",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's",
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pigment",
+        "id": "1aa8e9e1-6580-4736-9bb9-a1daa767d91c",
+        "title": "AI Deployment Strategist",
+        "active": true,
+        "date_updated": 1780956734,
+        "date_posted": 1780956312,
+        "url": "https://jobs.lever.co/pigment/15e7b82c-ebf3-477c-96b5-96a3b25e0663/apply",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Pigment",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "QinetiQ",
+        "id": "64ef8ddb-ed81-404b-a0d2-9fc440bf3aa6",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1780956361,
+        "date_posted": 1780956337,
+        "url": "https://careers-qinetiqus.icims.com/jobs/12152/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Franklin, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/QinetiQ",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Moog ",
+        "id": "642b79b2-6bd8-4a4d-a9ee-b7f3be3871c7",
+        "title": "Associate Product Engineer",
+        "active": true,
+        "date_updated": 1780956361,
+        "date_posted": 1780956346,
+        "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Associate-Product-Engineer_R-26-17948",
+        "locations": [
+            "Boston, NY",
+            "Buffalo, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Moog",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Ohio State University",
+        "id": "c5a4c85a-515c-4d6c-8dbc-84308235b89e",
+        "title": "Research Technician 3",
+        "active": true,
+        "date_updated": 1780956361,
+        "date_posted": 1780956251,
+        "url": "https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Columbus-Campus/Research-Technician-3_R152763-1",
+        "locations": [
+            "Columbus, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Ohio-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Greenheck Group",
+        "id": "61ca6a29-7ddd-4552-957f-a131adf1ab5e",
+        "title": "Product Engineer 1/2 Senior",
+        "active": true,
+        "date_updated": 1780956635,
+        "date_posted": 1780956248,
+        "url": "https://greenheckgroup.wd5.myworkdayjobs.com/external/job/Schofield-WI/Product-Engineer-I-II-Sr_JR103825",
+        "locations": [
+            "Plover, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Greenheck-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
         ]
     }
 ]
