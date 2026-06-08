@@ -322322,7 +322322,7 @@
         "company_name": "LexisNexis Risk Solutions",
         "id": "f7292aa6-7328-4d24-92dd-1c877cb86dce",
         "title": "Solutions Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1779876631,
         "date_posted": 1778922100,
         "url": "https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/United-Kingdom/Solutions-Analyst_R109322",
@@ -329888,7 +329888,7 @@
         "company_name": "TD Bank",
         "id": "70dd3f57-bf7c-4f02-99e3-ddc3e38a3132",
         "title": "Software Engineer 1 - Java/Python/Golang",
-        "active": true,
+        "active": false,
         "date_updated": 1780353572,
         "date_posted": 1780351931,
         "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-I--Java-Python-Golang-_R_1485363",
@@ -331757,7 +331757,7 @@
         "company_name": "Textron",
         "id": "e50b8de0-4877-4f5e-a140-833ea27b7e16",
         "title": "Software Engineer 1/2",
-        "active": true,
+        "active": false,
         "date_updated": 1780410163,
         "date_posted": 1780409335,
         "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342414",
@@ -333968,7 +333968,7 @@
         "company_name": "Northwest Bank",
         "id": "7ac67054-b937-4614-8ae6-80ffc3c986f4",
         "title": "Quantitative Analyst 1",
-        "active": true,
+        "active": false,
         "date_updated": 1780477809,
         "date_posted": 1779531707,
         "url": "https://northwest.wd1.myworkdayjobs.com/Northwest_Careers/job/Bellevue-PA/Quantitative-Analyst-III_R-101778",
@@ -334879,7 +334879,7 @@
         "company_name": "HCSC",
         "id": "6ea9da3b-037b-412c-8dc6-83742ecd72e0",
         "title": "Analytics & Reporting Analyst - Individual and Family Markets",
-        "active": true,
+        "active": false,
         "date_updated": 1780525149,
         "date_posted": 1780524390,
         "url": "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Analytics---Reporting-Analyst---Individual-and-Family-Markets--IFM-_R0051181",
@@ -340040,6 +340040,164 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Amentum",
+        "id": "90b3eda5-0876-4e90-a339-12799f108611",
+        "title": "Entry Level RF Engineer",
+        "active": true,
+        "date_updated": 1780927933,
+        "date_posted": 1780927760,
+        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Norfolk/Entry-Level-RF-Engineer_R0163070",
+        "locations": [
+            "Norfolk, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amentum",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "15fe7f3e-4750-450e-8a3d-6ef2b68ceb09",
+        "title": "Software Engineer / Principal Software Engineer - DevOps",
+        "active": true,
+        "date_updated": 1780927933,
+        "date_posted": 1780927690,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Software-Engineer---Principal-Software-Engineer---DevOps_R10235430",
+        "locations": [
+            "Melbourne, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Morgan Stanley",
+        "id": "dc3ecd5f-dbe7-42f0-9c40-3212e1b3f3d5",
+        "title": "Investment Management - Equity Research Associate",
+        "active": true,
+        "date_updated": 1780927933,
+        "date_posted": 1780927685,
+        "url": "https://ms.wd5.myworkdayjobs.com/private/job/London-United-Kingdom/Investment-Management---International-Small---Mid-Cap-Team--Equity-Research-Associate_JR038342",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Morgan-Stanley",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Barclays",
+        "id": "d2cd4027-8a15-40e4-9751-57d4181b2341",
+        "title": "AI Engineer",
+        "active": true,
+        "date_updated": 1780927933,
+        "date_posted": 1780927500,
+        "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/AI-Engineer_JR-0000113699",
+        "locations": [
+            "Glasgow, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Barclays",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Allica Bank",
+        "id": "3d4cc507-0c27-4d5f-89ad-e497a074abbc",
+        "title": "Associate Product Engineer",
+        "active": true,
+        "date_updated": 1780927933,
+        "date_posted": 1780927683,
+        "url": "https://jobs.ashbyhq.com/allica-bank/4282f05b-a9d1-48d9-b8d8-2cac07d9c507/application",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Allica-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Citi",
+        "id": "f521b128-d50c-4be0-82bd-912efd68806b",
+        "title": "Systematic and Credit Portfolio Trading Tool Developer - Assistant Vice President",
+        "active": true,
+        "date_updated": 1780927933,
+        "date_posted": 1780927810,
+        "url": "https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Systematic-and-Credit-Portfolio-Trading-Tool-Developer--Assistant-Vice-President_26968911",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Citigroup",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Truist Bank",
+        "id": "8fb612b8-d00e-4c1a-a287-e9ede5150c49",
+        "title": "Data Scientist 1 - Card Fraud",
+        "active": true,
+        "date_updated": 1780928422,
+        "date_posted": 1780927781,
+        "url": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Atlanta-GA/Data-Scientist-I---Card-Fraud_R0115272",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Truist-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Huntington Bancshares",
+        "id": "2d696ff0-1281-4fff-8e18-5dd919f8b62e",
+        "title": "Technology Delivery Analyst - Elevate",
+        "active": true,
+        "date_updated": 1780927933,
+        "date_posted": 1780927630,
+        "url": "https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Technology-Delivery-Analyst--Elevate-_R0072671",
+        "locations": [
+            "Columbus, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Huntington-Bancshares",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
