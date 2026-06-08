@@ -224812,7 +224812,7 @@
         "company_name": "Avnet",
         "id": "0374d942-8b19-45e9-8850-322095453a57",
         "title": "Associate Field Application Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773959504,
         "date_posted": 1773959504,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -225551,7 +225551,7 @@
         "company_name": "Avnet",
         "id": "49997310-9583-4e8c-981a-385b75e55815",
         "title": "Associate Field Application Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773959504,
         "date_posted": 1773959504,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Wilmington-Massachusetts-United-States-of-America/Associate-Field-Application-Engineer_JR-022067",
@@ -239144,7 +239144,7 @@
         "company_name": "GE Healthcare",
         "id": "7bae5a33-94e7-4ec2-b2c7-7aa45bfd02d6",
         "title": "Field Service Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1774693218,
         "date_posted": 1774693218,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1--Rockford--IL-_R4035771-2",
@@ -319344,7 +319344,7 @@
         "company_name": "Leidos",
         "id": "70b7fd95-246f-48f2-9401-337d4f57a0fe",
         "title": "Chinese Language-Enabled OSINT Collector - Junior",
-        "active": false,
+        "active": true,
         "date_updated": 1779822362,
         "date_posted": 1778941871,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Cape-Canaveral-FL/Chinese-Language-Enabled-OSINT-Collector--Junior-_R-00183337",
@@ -328215,7 +328215,7 @@
         "company_name": "Deluxe Media",
         "id": "70029fc4-6d0b-4b77-8799-2586055944cf",
         "title": "Cinema Projection Systems Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1780275138,
         "date_posted": 1780131813,
         "url": "https://bydeluxe.wd5.myworkdayjobs.com/en-US/Deluxe_External/job/US-CA-Burbank/Cinema-Projection-Systems-Engineer_R0016104",
@@ -328519,7 +328519,7 @@
         "company_name": "The Boeing Company",
         "id": "783c18de-9cc3-48d2-9134-2365778f83cb",
         "title": "Associate Engineering Technical Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1780280823,
         "date_posted": 1780135888,
         "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Seattle-WA/Associate-Engineering-Technical-Specialist_JR2026512640",
@@ -339807,5 +339807,41 @@
             "Bachelor's",
             "Associate's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Smarkets",
+        "id": "e60e210e-ce9c-46b4-9bac-dcedfdfc5c08",
+        "title": "Product Associate",
+        "active": true,
+        "date_updated": 1780909936,
+        "date_posted": 1780909616,
+        "url": "https://jobs.ashbyhq.com/smarkets/b024f66f-939d-427e-b08e-c5ca5b1da334/application",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Smarkets",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "BAE Systems",
+        "id": "5ed438fb-5fdc-49d8-bce0-3159eb5fbd5a",
+        "title": "Asset Gateway Engineer",
+        "active": true,
+        "date_updated": 1780909742,
+        "date_posted": 1780909604,
+        "url": "https://baesystems.taleo.net/careersection/2/jobdetail.ftl?job=00136421",
+        "locations": [
+            "East Midlands, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/BAE-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
