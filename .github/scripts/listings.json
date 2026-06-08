@@ -1,26 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "RTX",
-        "id": "948ad4f6-0908-48f3-9343-cb5404c6d841",
-        "title": "Embedded Cybersecurity Software Engineer 1 - Crypto Team",
-        "active": false,
-        "date_updated": 1760155468,
-        "date_posted": 1760155468,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HIA32-Cedar-Rapids-IA-400-Collins-Rd-NE---Cedar-Rapids-IA-52498-0505-USA/Embedded-Cybersecurity-Software-Engineer-I--Onsite-_01798466",
-        "locations": [
-            "Cedar Rapids, IA"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "AIG",
         "id": "3986500a-06d8-42a8-bd17-5f4c65ae8d77",
@@ -172837,7 +172817,7 @@
         "company_name": "GE Healthcare",
         "id": "c594c856-90d9-4b42-8469-b711ed7a8d14",
         "title": "Field Service Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1771457195,
         "date_posted": 1771457195,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1_R4036552-1",
@@ -224832,7 +224812,7 @@
         "company_name": "Avnet",
         "id": "0374d942-8b19-45e9-8850-322095453a57",
         "title": "Associate Field Application Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773959504,
         "date_posted": 1773959504,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -232200,7 +232180,7 @@
         "company_name": "University of Arkansas",
         "id": "ad639ce0-562f-40b2-8d29-ea4c866cea6e",
         "title": "Cosmos Graduate Research Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1773813920,
         "date_posted": 1773813920,
         "url": "https://uasys.wd5.myworkdayjobs.com/uasys/job/Little-Rock/COSMOS---Graduate-Research-Assistant--Researcher-_R0053889-2",
@@ -306044,7 +306024,7 @@
         "company_name": "Western Digital",
         "id": "d3dfea1b-c649-4bb7-a956-377922e3f9be",
         "title": "Software Engineer - Apps & Firmware",
-        "active": false,
+        "active": true,
         "date_updated": 1778807168,
         "date_posted": 1778807100,
         "url": "https://jobs.smartrecruiters.com/WesternDigital/744000126593979",
@@ -331088,7 +331068,7 @@
         "company_name": "Avnet",
         "id": "013d5015-8b47-41a8-b665-239f9ca74772",
         "title": "Software Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1780351561,
         "date_posted": 1780351528,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Tempe-Arizona-United-States-Of-America/Software-Developer_JR-022614",
@@ -336561,7 +336541,7 @@
         "company_name": "GuidePoint Security",
         "id": "ee0ef4ad-e5f5-40bd-98c2-41590e110095",
         "title": "Associate Applied AI Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1780612561,
         "date_posted": 1780611715,
         "url": "https://boards.greenhouse.io/guidepointsecurity/jobs/6014563004",
@@ -338817,7 +338797,7 @@
         "company_name": "CoStar Group",
         "id": "e9de2def-6691-4fdf-b560-a4a2a8389478",
         "title": "Associate Research Consultant",
-        "active": true,
+        "active": false,
         "date_updated": 1780740818,
         "date_posted": 1780740319,
         "url": "https://costar.wd1.myworkdayjobs.com/en-US/CoStarCareers/job/US-VA-Richmond/Bilingual-Associate-Research-Consultant-French-English_R37800",
@@ -338837,7 +338817,7 @@
         "company_name": "CoStar Group",
         "id": "e23fe090-a0b5-4284-a91d-c9a957c0b9ab",
         "title": "Associate Tenant Researcher",
-        "active": true,
+        "active": false,
         "date_updated": 1780740695,
         "date_posted": 1780740161,
         "url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Richmond---Semmes/Associate-Tenant-Researcher---May-2026-Graduates_R37171",
@@ -339589,5 +339569,115 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Slingshot AI",
+        "id": "fa4ffb68-bf57-4be1-b89d-141b032aa96d",
+        "title": "AI Native Software Engineer",
+        "active": true,
+        "date_updated": 1780841524,
+        "date_posted": 1780841242,
+        "url": "https://jobs.ashbyhq.com/slingshotai/0c62624f-f64d-4a17-9dc3-9abecabed5a3/application",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Slingshot-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Tesla",
+        "id": "e8fd0290-a079-4cc3-a3b6-0514580b3142",
+        "title": "Engineering Technician - Self-Driving",
+        "active": true,
+        "date_updated": 1780842448,
+        "date_posted": 1780841878,
+        "url": "https://www.tesla.com/careers/search/job/270886",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tesla",
+        "id": "a49e7579-210f-49f7-8f18-b3e7c9767e76",
+        "title": "Data Collection Operator - Optimus",
+        "active": true,
+        "date_updated": 1780844447,
+        "date_posted": 1780844312,
+        "url": "https://www.tesla.com/careers/search/job/253975",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tesla",
+        "id": "5b67def9-a0ed-4081-8704-cad041d68197",
+        "title": "AI Safety Operator",
+        "active": true,
+        "date_updated": 1780844470,
+        "date_posted": 1780844293,
+        "url": "https://www.tesla.com/careers/search/job/247016",
+        "locations": [
+            "Orlando, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tesla",
+        "id": "bec609da-553d-44eb-86bf-8d2ed96264de",
+        "title": "Data Collection Operator - Optimus",
+        "active": true,
+        "date_updated": 1780824369,
+        "date_posted": 1780824026,
+        "url": "https://www.tesla.com/careers/search/job/271843",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tesla",
+        "id": "beae5fed-5dcf-4894-bb75-645072927b79",
+        "title": "Data Collection Operator - Optimus",
+        "active": true,
+        "date_updated": 1780824366,
+        "date_posted": 1780824027,
+        "url": "https://www.tesla.com/careers/search/job/271842",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
