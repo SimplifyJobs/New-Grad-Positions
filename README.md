@@ -6129,7 +6129,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Engineer 1/2 - Digital Engineering</td>
 <td>Littleton, CO</td>
 <td>🔒</td>
-<td>4mo</td>
+<td>5mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Travelers?utm_source=GHList&utm_medium=company">The Travelers Companies</a></strong></td>
@@ -10015,7 +10015,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Product Line Manager – New College Grad - MBA - Santa Clara, CA 🎓</td>
 <td>Santa Clara, CA</td>
 <td>🔒</td>
-<td>4mo</td>
+<td>5mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/IXL-Learning?utm_source=GHList&utm_medium=company">IXL Learning</a></strong></td>
@@ -12833,7 +12833,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (304)</summary>
+<summary>🗃️ Inactive roles (302)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -14957,20 +14957,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
 <td>Embedded Cybersecurity Software Engineer 1 - Crypto Team</td>
 <td>Cedar Rapids, IA</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Ciena?utm_source=GHList&utm_medium=company">Ciena</a></strong></td>
-<td>Hardware Engineer – New Grad</td>
-<td>Ottawa, ON, Canada</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>RLS Photonics Software Engineer – 2026 New Grads</td>
-<td>Ottawa, ON, Canada</td>
 <td>🔒</td>
 <td>7mo</td>
 </tr>
