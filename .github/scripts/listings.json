@@ -63,26 +63,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Capital One",
-        "id": "fe31744c-2734-471f-a0fb-8a3a4e8dec14",
-        "title": "Associate - New Grad - Software Engineer",
-        "active": false,
-        "date_updated": 1760146222,
-        "date_posted": 1760146222,
-        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad_R226913",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Capital-One",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "The Travelers Companies",
         "id": "0c791cc9-5324-4c5f-a91f-cbd691cc5b48",
         "title": "Software Engineer 1 - Python - Web Development",
@@ -37974,61 +37954,6 @@
             "SF"
         ],
         "company_url": "https://simplify.jobs/c/Augment",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Booz Allen",
-        "id": "8d6a534e-4541-4e87-87fb-3c9d00bd0857",
-        "title": "University - Software Developer",
-        "active": false,
-        "date_updated": 1761842759,
-        "date_posted": 1760146188,
-        "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University--Software-Developer_R0228026",
-        "locations": [
-            "McLean, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Booz-Allen",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Franklin Templeton",
-        "id": "f501763a-677f-4463-8117-f814cca38941",
-        "title": "Quantitative Research Analyst",
-        "active": false,
-        "date_updated": 1760146014,
-        "date_posted": 1760146014,
-        "url": "https://franklintempleton.wd5.myworkdayjobs.com/Primary-External-1/job/New-York-New-York-United-States-of-America/Quantitative-Research-Analyst_861871",
-        "locations": [
-            "Stamford, CT",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Franklin-Templeton",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Invisible Technologies",
-        "id": "193ee989-9f75-4b69-9aea-78de5c7e8c3a",
-        "title": "Hebrew Translator - AI Trainer",
-        "active": false,
-        "date_updated": 1760145269,
-        "date_posted": 1760145269,
-        "url": "https://job-boards.eu.greenhouse.io/agency/jobs/4651790101",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Invisible-Technologies",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -339887,5 +339812,47 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Smithfield Foods",
+        "id": "ec77de01-167d-46aa-8664-665e8f9bb621",
+        "title": "Associate AI Enablement Analyst",
+        "active": true,
+        "date_updated": 1780881331,
+        "date_posted": 1780880781,
+        "url": "https://smithfieldfoods.wd1.myworkdayjobs.com/Careers/job/Smithfield-VA/Associate-AI-Enablement-Analyst_R-2026-7552",
+        "locations": [
+            "Suffolk, VA",
+            "Newport News, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Smithfield-Foods",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Smithfield Foods",
+        "id": "db980a0f-d55b-4030-8e3f-2759d0156e13",
+        "title": "AI Enablement Analyst",
+        "active": true,
+        "date_updated": 1780881121,
+        "date_posted": 1780880783,
+        "url": "https://smithfieldfoods.wd1.myworkdayjobs.com/Careers/job/Smithfield-VA/AI-Enablement-Analyst_R-2026-7550",
+        "locations": [
+            "Suffolk, VA",
+            "Newport News, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Smithfield-Foods",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
