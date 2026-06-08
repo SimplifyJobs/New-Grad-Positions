@@ -21,26 +21,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "T-Rex Solutions",
-        "id": "ef598fdb-91d5-4ee8-82fd-8f88781dc7d7",
-        "title": "Junior Software Developer",
-        "active": false,
-        "date_updated": 1760155233,
-        "date_posted": 1760155233,
-        "url": "https://www.trexsolutionsllc.com/current-opportunities-at-trex/?gh_jid=8208235002",
-        "locations": [
-            "District Heights, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/T-Rex-Solutions",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "AIG",
         "id": "3986500a-06d8-42a8-bd17-5f4c65ae8d77",
@@ -37691,24 +37671,6 @@
             "Florence, KY"
         ],
         "company_url": "https://simplify.jobs/c/Peraton",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Wellington Management",
-        "id": "09ef607f-0684-46ec-b8cd-15f653854974",
-        "title": "Investment Analyst",
-        "active": false,
-        "date_updated": 1760153596,
-        "date_posted": 1760153596,
-        "url": "https://wellington.wd5.myworkdayjobs.com/external/job/Boston-MA-United-States/Investment-Analyst_R92755-2",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Wellington",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
