@@ -221123,7 +221123,7 @@
         "company_name": "University of Arkansas",
         "id": "fdb28bed-d2e6-44f2-b305-6599d8d12c2f",
         "title": "Cosmos Extra Help Assistant 1",
-        "active": true,
+        "active": false,
         "date_updated": 1773786839,
         "date_posted": 1773786839,
         "url": "https://uasys.wd5.myworkdayjobs.com/uasys/job/Little-Rock/COSMOS---Extra-Help-Assistant-I_R0082208-1",
@@ -263030,7 +263030,7 @@
         "company_name": "GE Healthcare",
         "id": "f830d1a6-1f54-406a-a400-61ea2ef00bf2",
         "title": "Field Service Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1776080458,
         "date_posted": 1775901481,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1---Roanoke--VA_R4039147-1",
@@ -297142,7 +297142,7 @@
         "company_name": "Astronomer",
         "id": "a13a335f-6165-48db-9b40-c085ca476722",
         "title": "Software Engineer - Data Plane Management",
-        "active": true,
+        "active": false,
         "date_updated": 1778144941,
         "date_posted": 1778144836,
         "url": "https://jobs.ashbyhq.com/astronomer/282736cd-6967-469b-b13d-63b54424ed1c/application",
@@ -316015,7 +316015,7 @@
         "company_name": "The Federal Reserve System",
         "id": "e491e331-9f07-40c3-9189-9f3ed1d074ad",
         "title": "Research Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1779820021,
         "date_posted": 1779528349,
         "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Chicago-IL/Research-Assistant_R-0000032112-1",
@@ -321420,7 +321420,7 @@
         "company_name": "Morgan Stanley",
         "id": "faf0da4e-b3ca-46ed-bf38-1e0ab436f3bd",
         "title": "Investment Management - Emerging Markets Research",
-        "active": false,
+        "active": true,
         "date_updated": 1779877003,
         "date_posted": 1778941689,
         "url": "https://ms.wd5.myworkdayjobs.com/private/job/London-United-Kingdom/Investment-Management---Emerging-Markets-Research-Associate_JR030700",
@@ -322322,7 +322322,7 @@
         "company_name": "LexisNexis Risk Solutions",
         "id": "f7292aa6-7328-4d24-92dd-1c877cb86dce",
         "title": "Solutions Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1779876631,
         "date_posted": 1778922100,
         "url": "https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/United-Kingdom/Solutions-Analyst_R109322",
@@ -330667,7 +330667,7 @@
         "company_name": "RTX",
         "id": "c36abd8b-4428-45a5-8ca0-c1c89e966238",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1780353453,
         "date_posted": 1780351840,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/XMLNAME-2026-Raytheon-Full-Time--Software-Engineer-I---Onsite-_01849599",
@@ -332499,7 +332499,7 @@
         "company_name": "Leidos",
         "id": "99e4e025-a0d3-4f3d-87f1-bd79775e22ec",
         "title": "Electronics Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1780438442,
         "date_posted": 1780437956,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Long-Beach-MS/Electronics-Technician_R-00184650",
@@ -335491,7 +335491,7 @@
         "company_name": "Reach Financial",
         "id": "39349736-2696-42cf-9e4b-deaf9d2b3246",
         "title": "Credit Risk Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1780526126,
         "date_posted": 1780525423,
         "url": "https://job-boards.greenhouse.io/reach/jobs/8573228002",
@@ -337773,7 +337773,7 @@
         "company_name": "GE Healthcare",
         "id": "adaa07c7-76b0-4929-ac78-4d3a5eac0539",
         "title": "Field Service Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1780652622,
         "date_posted": 1780524405,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-I_R4041954",
@@ -339457,7 +339457,7 @@
         "company_name": "Micron Technology",
         "id": "9267fe8e-b590-4842-85e9-0bca2903ec17",
         "title": "Staff Product Yield Enhancement Engineer - High Bandwidth Memory",
-        "active": true,
+        "active": false,
         "date_updated": 1780824303,
         "date_posted": 1780742574,
         "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Staff-Product-Yield-Enhancement-Engineer--HBM_JR86051",
@@ -339903,6 +339903,64 @@
         "degrees": [
             "Bachelor's",
             "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Metropolitan Transportation Authority",
+        "id": "bb38c2b4-980c-4afe-b92c-df899573cea1",
+        "title": "Application Developer 3 - Data and AI Engineering",
+        "active": true,
+        "date_updated": 1780912873,
+        "date_posted": 1780912784,
+        "url": "https://jobs.jobvite.com/metropolitantransportationauthority/job/oygdzfwk?nl=1&nl=1&fr=false",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Metropolitan-Transportation-Authority",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CoStar Group",
+        "id": "ec93819d-4d5f-49c0-bf6f-3584308a5d68",
+        "title": "Associate Research Consultant",
+        "active": true,
+        "date_updated": 1780913236,
+        "date_posted": 1780740161,
+        "url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/US-VA-Richmond/Associate-Research-Consultant---May-2026-Graduates_R37170",
+        "locations": [
+            "Richmond, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/CoStar",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Strala Group",
+        "id": "8fc60c09-fa44-4223-889e-377f0773f697",
+        "title": "Deployment Strategist",
+        "active": true,
+        "date_updated": 1780909936,
+        "date_posted": 1773123083,
+        "url": "https://jobs.ashbyhq.com/strala-ai/4f40b2ca-7e81-45ec-ba3a-e62136410184/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Strala-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
