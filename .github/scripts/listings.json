@@ -283524,7 +283524,7 @@
         "company_name": "JP Morgan Chase",
         "id": "47177d23-e71b-4cfc-b517-406fd55c886c",
         "title": "Data Analyst - Data Visualization",
-        "active": false,
+        "active": true,
         "date_updated": 1777068541,
         "date_posted": 1777068411,
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210739930",
@@ -291711,7 +291711,7 @@
         "company_name": "Northrop Grumman",
         "id": "0cb3f1b1-b819-443b-8a24-fc025156a283",
         "title": "Electronic Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1777903741,
         "date_posted": 1777903600,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/Electronic-Technician-2-3--14088-_R10231497",
@@ -327341,7 +327341,7 @@
         "company_name": "Intel",
         "id": "fc342cad-b3e8-4af0-a552-f4929ef2281a",
         "title": "CPU Formal Verification Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1779963461,
         "date_posted": 1779315001,
         "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/CPU-Formal-Verification-Engineer_JR0284201-1",
@@ -338685,7 +338685,7 @@
         "company_name": "CPI Security",
         "id": "9e1d0c81-c458-4208-9b1f-428a1f0bb32f",
         "title": "Commercial Installation Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1780708237,
         "date_posted": 1780697231,
         "url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4687293006",
@@ -340773,6 +340773,712 @@
             "Austin, TX"
         ],
         "company_url": "https://simplify.jobs/c/OrigisEnergy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cardinal Health",
+        "id": "eeb83090-338b-4b77-affb-66aac27df31a",
+        "title": "Application Development and Maintenance Analyst",
+        "active": true,
+        "date_updated": 1780960407,
+        "date_posted": 1780956597,
+        "url": "https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/OH-Ohio-FIELD/Analyst---Application-Development-and-Maintenance_20181979",
+        "locations": [
+            "Ohio"
+        ],
+        "company_url": "https://simplify.jobs/c/Cardinal-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Medtronic",
+        "id": "c525e0aa-a347-49c1-b32d-72025fc21e9f",
+        "title": "Product Engineer 1 - AiBLE Cranial & Spinal Technologies",
+        "active": true,
+        "date_updated": 1780960371,
+        "date_posted": 1780956577,
+        "url": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Lafayette-Colorado-United-States-of-America/Product-Engineer-I---AiBLE-CST---Remote-within-USA_R66948",
+        "locations": [
+            "Lafayette, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Medtronic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Fifth Third Bank",
+        "id": "897fe0bf-ae7b-450a-aa88-61248a44d033",
+        "title": "FRM Sales & Trading Analyst",
+        "active": true,
+        "date_updated": 1780960142,
+        "date_posted": 1780956490,
+        "url": "https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Chicago-IL/FRM-Sales---Trading-Analyst_R69221",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Fifth-Third-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SOTI",
+        "id": "713173a1-8131-45ff-9b14-d8315618ec38",
+        "title": "Associate Software Developer",
+        "active": true,
+        "date_updated": 1780960305,
+        "date_posted": 1780956614,
+        "url": "https://soti.wd3.myworkdayjobs.com/Careers/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Software-Developer_R10174",
+        "locations": [
+            "Mississauga, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/SOTI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Coca-Cola Company",
+        "id": "4f5a9d5e-f4c1-43ed-b9c6-8f1222060bee",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1780960422,
+        "date_posted": 1780956655,
+        "url": "https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Software-Engineer-I_R-140127",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Coca-Cola-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "3c293010-be3d-4c58-9966-ccad58dae59f",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1780960346,
+        "date_posted": 1780956621,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-ANDOVER-AN0--366-Lowell-St--BLDG-AN0/XMLNAME-2026-Raytheon-Full-Time---Software-Engineer-I---Andover--MA--Onsite-_01850579",
+        "locations": [
+            "Andover, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Flutter",
+        "id": "134aba7d-b76f-451f-89b8-338bbe9203b3",
+        "title": "Graduate Researcher - Frontier Research and Development",
+        "active": true,
+        "date_updated": 1780960305,
+        "date_posted": 1780956613,
+        "url": "https://flutterbe.wd3.myworkdayjobs.com/FlutterUKI_External/job/London-UK/Research-Graduate---Frontier-R-D_JR137091",
+        "locations": [
+            "London, UK",
+            "Leeds, UK",
+            "Dublin, Ireland"
+        ],
+        "company_url": "https://simplify.jobs/c/Flutter",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "EquipmentShare",
+        "id": "c6481f04-42c3-4bc3-a7b9-7ef381ab801b",
+        "title": "Telematics Installer",
+        "active": true,
+        "date_updated": 1780960142,
+        "date_posted": 1780957443,
+        "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=7989636",
+        "locations": [
+            "Sacramento, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Equipment-Share",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "EquipmentShare",
+        "id": "c249703c-f24e-4ea4-af25-c5171af97594",
+        "title": "Telematics Installer",
+        "active": true,
+        "date_updated": 1780960142,
+        "date_posted": 1780957443,
+        "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=7990794",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Equipment-Share",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Boeing Company",
+        "id": "77f8562e-0b84-42d1-a1d0-8f9c4c1fbb5a",
+        "title": "Associate and Experienced Software Engineers - Secure Network & Protocols",
+        "active": true,
+        "date_updated": 1780960142,
+        "date_posted": 1780956667,
+        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Oklahoma-City-OK/Associate-and-Experienced-Software-Engineers---Secure-Network---Protocols_JR2026513995-2",
+        "locations": [
+            "Oklahoma City, OK"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "SpaceX",
+        "id": "6a05b74e-28ae-45f2-9897-9e22330d02ab",
+        "title": "Production Development Technician - Optical",
+        "active": true,
+        "date_updated": 1780960142,
+        "date_posted": 1780957199,
+        "url": "https://boards.greenhouse.io/spacex/jobs/8573588002",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/SpaceX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "EquipmentShare",
+        "id": "6741d414-de6d-4592-ad82-886c18141af5",
+        "title": "Telematics Installer",
+        "active": true,
+        "date_updated": 1780960142,
+        "date_posted": 1780957443,
+        "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=7991497",
+        "locations": [
+            "Chandler, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Equipment-Share",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "EquipmentShare",
+        "id": "5e6390fd-35a6-4edb-81e4-a9ea925c0b37",
+        "title": "Telematics Installer",
+        "active": true,
+        "date_updated": 1780960142,
+        "date_posted": 1780957443,
+        "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=7990797",
+        "locations": [
+            "Kansas City, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Equipment-Share",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "EquipmentShare",
+        "id": "52921b57-e921-4edf-996f-98c60a580751",
+        "title": "Telematics Installer",
+        "active": true,
+        "date_updated": 1780960142,
+        "date_posted": 1780957444,
+        "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=7990771",
+        "locations": [
+            "Carlsbad, NM"
+        ],
+        "company_url": "https://simplify.jobs/c/Equipment-Share",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "EquipmentShare",
+        "id": "43069633-5172-4e1a-baee-d89b9c2ae495",
+        "title": "Low Voltage Technician",
+        "active": true,
+        "date_updated": 1780960142,
+        "date_posted": 1780957441,
+        "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=7990770",
+        "locations": [
+            "Elko, NV"
+        ],
+        "company_url": "https://simplify.jobs/c/Equipment-Share",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Coca-Cola Company",
+        "id": "fe5cd181-d6cc-446e-8f25-c2e7d360873e",
+        "title": "Software Engineering 1",
+        "active": true,
+        "date_updated": 1780960440,
+        "date_posted": 1780956655,
+        "url": "https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Software-Engineering-I_R-140145",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Coca-Cola-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Coca-Cola Company",
+        "id": "efeab7d1-3710-423e-9db4-1601392fce96",
+        "title": "Software Engineer 1 - Customer Relationship Management",
+        "active": true,
+        "date_updated": 1780960418,
+        "date_posted": 1780956655,
+        "url": "https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Software-Engineer-I---CRM_R-140128",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Coca-Cola-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Jabil",
+        "id": "c5d11c80-76e7-498f-934e-3471bac73749",
+        "title": "Diagnostic Technician 1",
+        "active": true,
+        "date_updated": 1780960142,
+        "date_posted": 1780956647,
+        "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Florence-KY/Diagnostic-Technician-1_J2450556-1",
+        "locations": [
+            "Florence, KY"
+        ],
+        "company_url": "https://simplify.jobs/c/Jabil",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Coca-Cola Company",
+        "id": "ba17f333-bf64-4ccf-9451-22956d9a1d62",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1780960416,
+        "date_posted": 1780956655,
+        "url": "https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Software-Engineer-I_R-140126",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Coca-Cola-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Boeing Company",
+        "id": "9daf98b7-77f8-428d-8ea4-41a8485ad657",
+        "title": "Associate and Experienced Software Engineers - Secure Network & Protocols",
+        "active": true,
+        "date_updated": 1780960142,
+        "date_posted": 1780956643,
+        "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Oklahoma-City-OK/Associate-and-Experienced-Software-Engineers---Secure-Network---Protocols_JR2026513995-1",
+        "locations": [
+            "Oklahoma City, OK"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Coca-Cola Company",
+        "id": "6734ad49-b07a-4ab0-8e7e-b0848fe652df",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1780960434,
+        "date_posted": 1780956655,
+        "url": "https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Software-Engineer-I_R-140137",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Coca-Cola-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Trimble",
+        "id": "66485cce-f6e0-4cb2-809d-fb6db92067c0",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1780960142,
+        "date_posted": 1780956623,
+        "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/UK---Remote/Software-Engineer_R56506",
+        "locations": [
+            "Remote in UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Trimble",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Trimble",
+        "id": "4914456a-2ef4-403c-918a-5bf46c8c8626",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1780960142,
+        "date_posted": 1780956624,
+        "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/UK---Remote/Software-Engineer_R56505",
+        "locations": [
+            "Remote in UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Trimble",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Coca-Cola Company",
+        "id": "30a492dd-d015-417a-b388-86deca572dc4",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1780960415,
+        "date_posted": 1780956655,
+        "url": "https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Software-Engineer-I_R-140146-1",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Coca-Cola-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cisco",
+        "id": "2ff0bfa2-c580-4b4f-8ed7-1260ce787fb2",
+        "title": "Software Engineer 1 - Devices Technology Group",
+        "active": true,
+        "date_updated": 1780960265,
+        "date_posted": 1780956605,
+        "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/Software-Engineer-I--Full-Time----Devices-Technology-Group---United-States_2011256",
+        "locations": [
+            "North Carolina"
+        ],
+        "company_url": "https://simplify.jobs/c/Cisco",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Zurn Elkay Water Solutions",
+        "id": "14e1d321-87e3-43d7-86b2-7826d4163a57",
+        "title": "Application Engineer",
+        "active": true,
+        "date_updated": 1780960324,
+        "date_posted": 1780956616,
+        "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Erie-PA/Application-Engineer_REQ-019741",
+        "locations": [
+            "Erie, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Zurn-Elkay-Water-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Medtronic",
+        "id": "04d237cc-b8fd-4b14-b46d-b58025f9858f",
+        "title": "Associate Product Specialist - Growth Factors",
+        "active": true,
+        "date_updated": 1780960393,
+        "date_posted": 1780956579,
+        "url": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Memphis-Tennessee-United-States-of-America/Associate-Product-Specialist---Growth-Factors_R69127",
+        "locations": [
+            "Memphis, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/Medtronic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "KeyBank",
+        "id": "d1b4f04e-b106-4fbd-b7cf-0a9459379b3f",
+        "title": "Quantitative Analytics Associate",
+        "active": true,
+        "date_updated": 1780960225,
+        "date_posted": 1780956530,
+        "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/Quantitative-Analytics-Associate_R-40079",
+        "locations": [
+            "Cheektowaga, NY",
+            "Cleveland, OH",
+            "Remote in USA",
+            "Brooklyn, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/KeyBank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "a3f429c8-b5bb-43c7-9694-3c85955cd554",
+        "title": "Associate Software Engineer/Software Engineer",
+        "active": true,
+        "date_updated": 1780960239,
+        "date_posted": 1780956589,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Associate-Software-Engineer-Software-Engineer_R10235549",
+        "locations": [
+            "Palmdale, CA",
+            "Oklahoma City, OK",
+            "Grand Forks, ND",
+            "San Diego, CA",
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Medtronic",
+        "id": "0c284bcc-c9cc-466b-885c-28792e767178",
+        "title": "Associate Product Specialist - Allografts",
+        "active": true,
+        "date_updated": 1780960236,
+        "date_posted": 1780956579,
+        "url": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Memphis-Tennessee-United-States-of-America/Associate-Product-Specialist---Allografts--Onsite-_R69128",
+        "locations": [
+            "Memphis, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/Medtronic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Flashpoint",
+        "id": "5b713b2a-17d1-419e-a53d-f04d5eb66da0",
+        "title": "Junior Vulnerability Automation Engineer",
+        "active": true,
+        "date_updated": 1780959606,
+        "date_posted": 1780956559,
+        "url": "https://jobs.ashbyhq.com/flashpoint.io/6a31781c-bc40-4044-8adc-06234de8d71c/application",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Flashpoint",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Boeing Company",
+        "id": "68c36b5f-faa2-4c9d-9281-100cac93734f",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1780958162,
+        "date_posted": 1780956645,
+        "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Tukwila-WA/Software-Engineer--Associate-or-Experienced-_JR2026500177",
+        "locations": [
+            "Tukwila, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Tesla",
+        "id": "e0ca14d4-8894-4667-99ee-7383c5d556ae",
+        "title": "Prototype Data Collection Technician - Optimus",
+        "active": true,
+        "date_updated": 1780958140,
+        "date_posted": 1780956416,
+        "url": "https://www.tesla.com/careers/search/job/273224",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Huntington Bancshares",
+        "id": "6ba5380a-7185-4ffb-b79d-502af659a913",
+        "title": "Technology Delivery Analyst - Elevate",
+        "active": true,
+        "date_updated": 1780958162,
+        "date_posted": 1780956468,
+        "url": "https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Technology-Delivery-Analyst--Elevate-_R0072678",
+        "locations": [
+            "Columbus, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Huntington-Bancshares",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Huntington Bancshares",
+        "id": "3d837a28-23cf-4b19-b2a4-b6476946ad1e",
+        "title": "Technology Delivery Analyst - Elevate",
+        "active": true,
+        "date_updated": 1780958162,
+        "date_posted": 1780956467,
+        "url": "https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Technology-Delivery-Analyst--Elevate-_R0072672",
+        "locations": [
+            "Columbus, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Huntington-Bancshares",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
