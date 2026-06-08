@@ -224812,7 +224812,7 @@
         "company_name": "Avnet",
         "id": "0374d942-8b19-45e9-8850-322095453a57",
         "title": "Associate Field Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773959504,
         "date_posted": 1773959504,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -225551,7 +225551,7 @@
         "company_name": "Avnet",
         "id": "49997310-9583-4e8c-981a-385b75e55815",
         "title": "Associate Field Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773959504,
         "date_posted": 1773959504,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Wilmington-Massachusetts-United-States-of-America/Associate-Field-Application-Engineer_JR-022067",
@@ -337735,7 +337735,7 @@
         "company_name": "Cubic",
         "id": "94e301ae-69ea-4c12-a139-32f8e05f9d21",
         "title": "Field Services Technician 2",
-        "active": false,
+        "active": true,
         "date_updated": 1780652126,
         "date_posted": 1780136891,
         "url": "https://cubic.wd1.myworkdayjobs.com/cubic_global_careers/job/United-Kingdom---Remote/Field-Services-Technician-2_REQ_47828",
@@ -339840,6 +339840,46 @@
             "East Midlands, UK"
         ],
         "company_url": "https://simplify.jobs/c/BAE-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "NVIDIA",
+        "id": "ef92a307-7b62-4453-a142-74599fd69e32",
+        "title": "Formal Verification Engineer New College Grad",
+        "active": true,
+        "date_updated": 1780910923,
+        "date_posted": 1780909991,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Formal-Verification-Engineer---New-College-Grad-2026_JR2019447",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Flextronics International",
+        "id": "905701ce-acbf-43fa-9e76-f07fa2c7e241",
+        "title": "Panel Wire Prep",
+        "active": true,
+        "date_updated": 1780910747,
+        "date_posted": 1780740754,
+        "url": "https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-CA-Fontana/Panel-Wire-Prep_WD219027-2",
+        "locations": [
+            "Fontana, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Flextronics-International",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
