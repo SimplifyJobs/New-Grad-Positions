@@ -37530,42 +37530,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Anaplan",
-        "id": "ef1c7b51-06d3-4712-913f-a6754868cefc",
-        "title": "Associate Software Engineer",
-        "active": true,
-        "date_updated": 1760249335,
-        "date_posted": 1760249335,
-        "url": "https://job-boards.greenhouse.io/anaplan/jobs/8208697002",
-        "locations": [
-            "Manchester, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Anaplan",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Anaplan",
-        "id": "b423fc92-80da-423f-b7dc-b911ba67f04c",
-        "title": "Java Associate Software Engineer",
-        "active": false,
-        "date_updated": 1761531958,
-        "date_posted": 1760249334,
-        "url": "https://job-boards.greenhouse.io/anaplan/jobs/8200617002",
-        "locations": [
-            "York, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Anaplan",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Peraton",
         "id": "c1843f57-3688-4f26-8a94-2ead6f65033a",
         "title": "Customer Technical Specialist",
@@ -46288,24 +46252,6 @@
             "El Segundo, CA"
         ],
         "company_url": "https://simplify.jobs/c/Internet-Brands",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "NV5 Global",
-        "id": "abe91c19-9936-46ff-b2c3-1f08cdfb15cb",
-        "title": "Technician",
-        "active": false,
-        "date_updated": 1763162566,
-        "date_posted": 1760250019,
-        "url": "https://careers-nv5.icims.com/jobs/11388/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Lexington, KY"
-        ],
-        "company_url": "https://simplify.jobs/c/NV5-Global",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -94310,7 +94256,7 @@
         "company_name": "PURE Insurance",
         "id": "072b5831-4de4-4667-923b-48f952980c71",
         "title": "Technology Analyst Program",
-        "active": false,
+        "active": true,
         "date_updated": 1766545515,
         "date_posted": 1766545515,
         "url": "https://pureinsurance.wd5.myworkdayjobs.com/pure/job/Warren/Technology-Analyst-Program--September-2026_R2561",
@@ -224738,7 +224684,7 @@
         "company_name": "Avnet",
         "id": "0374d942-8b19-45e9-8850-322095453a57",
         "title": "Associate Field Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773959504,
         "date_posted": 1773959504,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -225477,7 +225423,7 @@
         "company_name": "Avnet",
         "id": "49997310-9583-4e8c-981a-385b75e55815",
         "title": "Associate Field Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773959504,
         "date_posted": 1773959504,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Wilmington-Massachusetts-United-States-of-America/Associate-Field-Application-Engineer_JR-022067",
@@ -330994,7 +330940,7 @@
         "company_name": "Avnet",
         "id": "013d5015-8b47-41a8-b665-239f9ca74772",
         "title": "Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1780351561,
         "date_posted": 1780351528,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Tempe-Arizona-United-States-Of-America/Software-Developer_JR-022614",
@@ -334342,7 +334288,7 @@
         "company_name": "Advanced Technology Services",
         "id": "24510c03-3b39-4878-a00a-748b18799aea",
         "title": "Calibration - Metrology Technician l",
-        "active": false,
+        "active": true,
         "date_updated": 1780524913,
         "date_posted": 1777331482,
         "url": "https://job-boards.greenhouse.io/advancedtechnologyservices/jobs/4675951006",
@@ -335417,7 +335363,7 @@
         "company_name": "Reach Financial",
         "id": "39349736-2696-42cf-9e4b-deaf9d2b3246",
         "title": "Credit Risk Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1780526126,
         "date_posted": 1780525423,
         "url": "https://job-boards.greenhouse.io/reach/jobs/8573228002",
@@ -337432,7 +337378,7 @@
         "company_name": "Anduril",
         "id": "0a20816a-d18d-455c-9e1d-fe6a126bb513",
         "title": "Product Operations Associate - Tier 1",
-        "active": false,
+        "active": true,
         "date_updated": 1780622132,
         "date_posted": 1774574788,
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/5081383007",
@@ -338685,7 +338631,7 @@
         "company_name": "CPI Security",
         "id": "9e1d0c81-c458-4208-9b1f-428a1f0bb32f",
         "title": "Commercial Installation Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1780708237,
         "date_posted": 1780697231,
         "url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4687293006",
@@ -341739,7 +341685,7 @@
         "company_name": "Guidewire",
         "id": "26c16d82-bbf0-4710-9c0b-056a9c652215",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1780967426,
         "date_posted": 1780967182,
         "url": "https://guidewire.wd5.myworkdayjobs.com/external/job/United-States---San-Mateo-CA/Software-Engineer---Cloud_JR_14588",
@@ -341747,6 +341693,46 @@
             "San Mateo, CA"
         ],
         "company_url": "https://simplify.jobs/c/Guidewire",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Guidewire",
+        "id": "c63b87e8-84a1-4497-b097-99f150e6b23b",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1780985226,
+        "date_posted": 1780985153,
+        "url": "https://wd5.myworkdaysite.com/en-US/recruiting/guidewire/external/job/United-States---San-Mateo-CA/Software-Engineer---Cloud_JR_14588",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Guidewire",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Snap Finance",
+        "id": "858cd1c4-c436-43bf-a86d-6e57d52454a4",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1780985362,
+        "date_posted": 1780985074,
+        "url": "https://snapfinance.wd1.myworkdayjobs.com/snap_external_careers/job/Arizona/Software-Engineer-I_R-2796",
+        "locations": [
+            "Arizona"
+        ],
+        "company_url": "https://simplify.jobs/c/3be8000e-c16e-4e18-a0d2-8af3b53e6f02",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
