@@ -334064,14 +334064,14 @@
         "id": "0720bddd-8433-4879-9add-fee7b954416b",
         "title": "Entry Level Frontend Engineer",
         "active": true,
-        "date_updated": 1780496259,
+        "date_updated": 1781004087,
         "date_posted": 1780495680,
         "url": "https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/718439",
         "locations": [
             "San Diego, CA"
         ],
         "company_url": "https://simplify.jobs/c/Albertsons",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": []
     },
