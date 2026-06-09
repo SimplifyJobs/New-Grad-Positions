@@ -333238,14 +333238,14 @@
         "id": "b00d86ec-7d19-4014-888c-ba97cde96d09",
         "title": "Entry Level Front End Engineer",
         "active": true,
-        "date_updated": 1780449110,
+        "date_updated": 1781004110,
         "date_posted": 1780448913,
         "url": "https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/718380",
         "locations": [
             "Greenwich, CT"
         ],
         "company_url": "https://simplify.jobs/c/Albertsons",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": []
     },
