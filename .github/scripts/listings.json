@@ -225423,7 +225423,7 @@
         "company_name": "Avnet",
         "id": "49997310-9583-4e8c-981a-385b75e55815",
         "title": "Associate Field Application Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773959504,
         "date_posted": 1773959504,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Wilmington-Massachusetts-United-States-of-America/Associate-Field-Application-Engineer_JR-022067",
@@ -232175,7 +232175,7 @@
         "company_name": "Robert Bosch Venture Capital",
         "id": "6da32510-fa69-4006-9384-77f9878f49dd",
         "title": "Product Management Specialist - Diablo/Freud Tools",
-        "active": true,
+        "active": false,
         "date_updated": 1773757034,
         "date_posted": 1773757034,
         "url": "https://jobs.smartrecruiters.com/BoschGroup/744000114994315",
@@ -284045,7 +284045,7 @@
         "company_name": "Sanofi",
         "id": "770de51b-ffb8-422f-b6c4-80065f0605ec",
         "title": "MSAT Data Engineer Trainee",
-        "active": true,
+        "active": false,
         "date_updated": 1777269561,
         "date_posted": 1777269248,
         "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/City-of-Singapore/Sanofi-Manufacturing-Innovators-Program-MSAT-Data-Engineer-Trainee_R2855158",
@@ -333820,7 +333820,7 @@
         "company_name": "Stevens Institute of Technology",
         "id": "79e05eca-1049-4e66-b595-48c413a41398",
         "title": "Postdoctoral Associate-Systems Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1780477806,
         "date_posted": 1780131853,
         "url": "https://stevens.wd5.myworkdayjobs.com/External/job/Hoboken-NJ---Main-Campus/Postdoctoral-Associate-Systems-Engineering_RQ29678-1",
@@ -338631,7 +338631,7 @@
         "company_name": "CPI Security",
         "id": "9e1d0c81-c458-4208-9b1f-428a1f0bb32f",
         "title": "Commercial Installation Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1780708237,
         "date_posted": 1780697231,
         "url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4687293006",
@@ -339744,7 +339744,7 @@
         "company_name": "Flextronics International",
         "id": "905701ce-acbf-43fa-9e76-f07fa2c7e241",
         "title": "Panel Wire Prep",
-        "active": true,
+        "active": false,
         "date_updated": 1780910747,
         "date_posted": 1780740754,
         "url": "https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-CA-Fontana/Panel-Wire-Prep_WD219027-2",
@@ -341685,7 +341685,7 @@
         "company_name": "Guidewire",
         "id": "26c16d82-bbf0-4710-9c0b-056a9c652215",
         "title": "Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1780967426,
         "date_posted": 1780967182,
         "url": "https://guidewire.wd5.myworkdayjobs.com/external/job/United-States---San-Mateo-CA/Software-Engineer---Cloud_JR_14588",
@@ -341705,7 +341705,7 @@
         "company_name": "Guidewire",
         "id": "c63b87e8-84a1-4497-b097-99f150e6b23b",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1780985226,
         "date_posted": 1780985153,
         "url": "https://wd5.myworkdaysite.com/en-US/recruiting/guidewire/external/job/United-States---San-Mateo-CA/Software-Engineer---Cloud_JR_14588",
@@ -341779,6 +341779,26 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Experian",
+        "id": "0abd2b6e-a93e-45b8-84b8-c6b1b8c11c39",
+        "title": "Graduate Data Analyst",
+        "active": true,
+        "date_updated": 1780995781,
+        "date_posted": 1780995697,
+        "url": "https://jobs.smartrecruiters.com/Experian/744000131055149",
+        "locations": [
+            "Nottingham, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Experian",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
