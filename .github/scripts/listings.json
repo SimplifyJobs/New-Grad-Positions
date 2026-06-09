@@ -81891,7 +81891,7 @@
         "company_name": "SciTec",
         "id": "4b82692b-c26a-4ef0-a342-fb92e340f1fe",
         "title": "Associate / Staff Mission Data Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1765494685,
         "date_posted": 1765494685,
         "url": "https://apply.workable.com/scitec/j/301788B4BF/apply",
@@ -148509,7 +148509,7 @@
         "company_name": "RTX",
         "id": "4723278f-c8a8-49f1-b88d-8dfa631221e3",
         "title": "Embedded Linux Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1770162296,
         "date_posted": 1770162296,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/Embedded-Linux-Software-Engineer-I--Onsite-_01793223",
@@ -225423,7 +225423,7 @@
         "company_name": "Avnet",
         "id": "49997310-9583-4e8c-981a-385b75e55815",
         "title": "Associate Field Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773959504,
         "date_posted": 1773959504,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Wilmington-Massachusetts-United-States-of-America/Associate-Field-Application-Engineer_JR-022067",
@@ -305520,7 +305520,7 @@
         "company_name": "KLA",
         "id": "47845071-b45b-4818-bd2f-0bdb0db3c2f6",
         "title": "Product Install Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1778796361,
         "date_posted": 1778796356,
         "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Chandler-AZ/Product-Install-Engineer---SWIFT-90--Travel_2635692-1",
@@ -322093,7 +322093,7 @@
         "company_name": "Republic Services",
         "id": "5f21b93c-6d43-4ccd-b7e3-93aa61e4c3f3",
         "title": "Data Scientist 1",
-        "active": false,
+        "active": true,
         "date_updated": 1779844706,
         "date_posted": 1779844181,
         "url": "https://republic.wd5.myworkdayjobs.com/Republic/job/Phoenix-AZ-USA/Data-Scientist-I_R-175645-1",
@@ -322194,7 +322194,7 @@
         "company_name": "LexisNexis Risk Solutions",
         "id": "f7292aa6-7328-4d24-92dd-1c877cb86dce",
         "title": "Solutions Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1779876631,
         "date_posted": 1778922100,
         "url": "https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/United-Kingdom/Solutions-Analyst_R109322",
@@ -330940,7 +330940,7 @@
         "company_name": "Avnet",
         "id": "013d5015-8b47-41a8-b665-239f9ca74772",
         "title": "Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1780351561,
         "date_posted": 1780351528,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Tempe-Arizona-United-States-Of-America/Software-Developer_JR-022614",
@@ -337378,7 +337378,7 @@
         "company_name": "Anduril",
         "id": "0a20816a-d18d-455c-9e1d-fe6a126bb513",
         "title": "Product Operations Associate - Tier 1",
-        "active": false,
+        "active": true,
         "date_updated": 1780622132,
         "date_posted": 1774574788,
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/5081383007",
@@ -342270,6 +342270,217 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Public Service Enterprise Group",
+        "id": "b057bd16-1b4a-4306-8414-57d70ca5935b",
+        "title": "Data Scientist",
+        "active": true,
+        "date_updated": 1781042761,
+        "date_posted": 1781042642,
+        "url": "https://jobs.pseg.com/job/Newark-Data-Scientist-NJ-07101/1398268700/?ats=successfactors",
+        "locations": [
+            "Newark, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Public-Service-Enterprise-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Vanguard",
+        "id": "89536b93-d68a-4fd8-8fe6-dd5094f395fb",
+        "title": "Graduate Software Engineer 1",
+        "active": true,
+        "date_updated": 1781043012,
+        "date_posted": 1781042640,
+        "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/contractors_restricted/job/London-United-Kingdom/Graduate-Software-Engineer-1_176762",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Vanguard",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GlobalFoundries",
+        "id": "4d742081-53a9-4a0d-ab2b-32800b7faeb8",
+        "title": "Senior Design Engineer",
+        "active": true,
+        "date_updated": 1781043819,
+        "date_posted": 1781042769,
+        "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/Santa-Clara/Senior-Staff-Design-Engineer_JR-2602578",
+        "locations": [
+            "Austin, TX",
+            "Santa Clara, CA",
+            "Richardson, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/GlobalFoundries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Western Alliance",
+        "id": "b00373e5-54e1-4446-abe8-08744fbadc47",
+        "title": "Associate Foreign Exchange Sales Trader",
+        "active": true,
+        "date_updated": 1781042761,
+        "date_posted": 1781042725,
+        "url": "https://wd5.myworkdaysite.com/recruiting/westernalliancebank/WAB/job/Boston-MA/Associate-Foreign-Exchange-Sales-Trader_R13232",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Alliance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Kantar",
+        "id": "fe9a5d14-b182-45d8-a0fc-fe9b5746f888",
+        "title": "Associate Analytics",
+        "active": true,
+        "date_updated": 1781043041,
+        "date_posted": 1781042659,
+        "url": "https://kantar.wd3.myworkdayjobs.com/kantar/job/Atlanta-Perimeter/Associate--Analytics_R101653",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Kantar",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "GE Vernova",
+        "id": "9c502fc0-2c84-42be-ae27-4675debe8c98",
+        "title": "Junior Application Engineer",
+        "active": true,
+        "date_updated": 1781042761,
+        "date_posted": 1781042722,
+        "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Rugby/Junior-Application-Engineer_R5043352-1",
+        "locations": [
+            "Rugby, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Vernova",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "UTHealth Houston",
+        "id": "abb19bda-dee4-451d-9a99-8179a324d0c5",
+        "title": "App Sys Prog/Sys Analyst Assoc",
+        "active": true,
+        "date_updated": 1781043011,
+        "date_posted": 1781042639,
+        "url": "https://fa-eomf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/7085",
+        "locations": [
+            "San Antonio, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/UTHealth-Houston",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Eliyan",
+        "id": "1e6137c8-e394-43c1-91f2-162cacb8337f",
+        "title": "Silicon & Photonics IC Validation - Test & Characterization Engineer",
+        "active": true,
+        "date_updated": 1781042761,
+        "date_posted": 1781042659,
+        "url": "https://jobs.lever.co/eliyan/4f033f5a-65ff-413f-b8b3-c24c5aeb7e6b/apply",
+        "locations": [
+            "California"
+        ],
+        "company_url": "https://simplify.jobs/c/Eliyan",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Werfen",
+        "id": "8de735cf-7207-4158-8b05-606819a843de",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1781042761,
+        "date_posted": 1781042732,
+        "url": "https://careers-werfen.icims.com/jobs/10472/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Bedford, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Werfen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Huntington Ingalls Industries",
+        "id": "30eb4d2d-e810-4b79-af7d-2d3eae8a12f8",
+        "title": "Software Development Analyst 1",
+        "active": true,
+        "date_updated": 1781042761,
+        "date_posted": 1781042726,
+        "url": "https://careers.huntingtoningalls.com/job/Pascagoula-SOFTWARE-DEVELOPMENT-ANALYST-1-Miss/1398284100/?ats=successfactors",
+        "locations": [
+            "Biloxi, MS"
+        ],
+        "company_url": "https://simplify.jobs/c/Huntington-Ingalls-Industries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "PhD"
         ]
     }
 ]
