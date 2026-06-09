@@ -1,25 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "AIG",
-        "id": "3986500a-06d8-42a8-bd17-5f4c65ae8d77",
-        "title": "Early Career Analyst - Gen AI - Data Engineering",
-        "active": false,
-        "date_updated": 1760310205,
-        "date_posted": 1760310205,
-        "url": "https://aig.wd1.myworkdayjobs.com/aig/job/GA-Atlanta/XMLNAME-2026-Early-Career---Gen-AI---Data-Engineering-Analyst---United-States--Atlanta--GA--_JR2505609-1",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/AIG",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "date_updated": 1765980595,
         "sponsorship": "Offers Sponsorship",
         "active": false,
@@ -153679,7 +153659,7 @@
         "company_name": "NVIDIA",
         "id": "8ee26259-5914-4601-981d-94d0d0a886ae",
         "title": "ASIC Verification Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1770333984,
         "date_posted": 1770333984,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/ASIC-Verification-Engineer---New-College-Grad-2026_JR2012573",
@@ -215932,7 +215912,7 @@
         "company_name": "SpaceX",
         "id": "77aaa47f-dcc6-487c-82cb-532e620a16d7",
         "title": "Software Engineer - Beam Planning - Starlink",
-        "active": true,
+        "active": false,
         "date_updated": 1773439610,
         "date_posted": 1773439610,
         "url": "https://boards.greenhouse.io/spacex/jobs/8450082002",
@@ -323298,7 +323278,7 @@
         "company_name": "TJX",
         "id": "0810d3d3-0a09-4266-9d3e-7449fe85f886",
         "title": "Online Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1779874202,
         "date_posted": 1779873719,
         "url": "https://tjx.wd1.myworkdayjobs.com/tjx_external/job/Watford-HER-WD17-1TX/Online-Trading-Assistant--12-Months-FTC-_REQ122726",
@@ -343037,6 +343017,260 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northrop Grumman",
+        "id": "9fa3261f-21c2-4784-8835-5cb5660fc109",
+        "title": "Software Engineer 1/2",
+        "active": true,
+        "date_updated": 1781044315,
+        "date_posted": 1781042976,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/GAWR03GC/Engineer-Software-T1-T2_R10235745",
+        "locations": [
+            "Warner Robins, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Entergy",
+        "id": "9f4206b5-342f-4005-83c4-9f6e6b0a21e5",
+        "title": "Data Scientist",
+        "active": true,
+        "date_updated": 1781044021,
+        "date_posted": 1781042852,
+        "url": "https://jobs.entergy.com/job/New-Orleans-Data-Scientist-Loui/1398250100/?ats=successfactors",
+        "locations": [
+            "New Orleans, LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Entergy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "NOV",
+        "id": "85f7c79b-51f9-41aa-ab27-504e76874c81",
+        "title": "Service Technician - Downhole Tools - Tool Training",
+        "active": true,
+        "date_updated": 1781044021,
+        "date_posted": 1781042877,
+        "url": "https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/42067",
+        "locations": [
+            "Clarksburg, WV"
+        ],
+        "company_url": "https://simplify.jobs/c/NOV",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Niagara Bottling",
+        "id": "f7046c7e-2d7c-473c-a7bf-76ce9f709273",
+        "title": "Systems Engineer 1",
+        "active": true,
+        "date_updated": 1781044346,
+        "date_posted": 1781042985,
+        "url": "https://niagarawater.wd5.myworkdayjobs.com/niagara/job/Corp-Main---Diamond-Bar-CA/Systems-Engineer-I_R54815-1",
+        "locations": [
+            "Walnut, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Niagara-Bottling",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Bank of America",
+        "id": "de7c996f-30fb-4606-9f84-5cb0ea6ba29e",
+        "title": "Data Scientist 1 - Fraud Model Governance",
+        "active": true,
+        "date_updated": 1781044308,
+        "date_posted": 1781042979,
+        "url": "https://ghr.wd1.myworkdayjobs.com/us-emplsv/job/Charlotte/Data-Scientist-I----Fraud-Model-Governance_26019387",
+        "locations": [
+            "Boston, MA",
+            "Tampa, FL",
+            "Plano, TX",
+            "Newark, NJ",
+            "Chicago, IL",
+            "Charlotte, NC",
+            "Fort Worth, TX",
+            "Phoenix, AZ",
+            "Jacksonville, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Bank-Of-America",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "PNC Financial Services",
+        "id": "d4f39119-a4b4-4324-8e8f-e86ea1795889",
+        "title": "Senior Reporting Analyst",
+        "active": true,
+        "date_updated": 1781044373,
+        "date_posted": 1781042991,
+        "url": "https://pnc.wd5.myworkdayjobs.com/External/job/Downtown-Orlando---Pine-Street-FL239/Reporting-Analyst-Sr_R224746-1",
+        "locations": [
+            "Orlando, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/PNC-Financial-Services",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Robert Bosch Venture Capital",
+        "id": "c2cf5ed2-2084-49ae-a86e-aba3c2969ed5",
+        "title": "Rotational Development Program - Software Engineer - Power Solutions",
+        "active": true,
+        "date_updated": 1781043313,
+        "date_posted": 1781042812,
+        "url": "https://jobs.smartrecruiters.com/BoschGroup/744000131227160",
+        "locations": [
+            "Southfield, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Bosch",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Leonardo",
+        "id": "bb6f1075-27ec-45a1-8205-9dc357c882cd",
+        "title": "Defence Analytics Engineer",
+        "active": true,
+        "date_updated": 1781043313,
+        "date_posted": 1781042768,
+        "url": "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---London---Whitehall/Defence-Analytics-Engineer_R0030382",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Leonardo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Boeing Company",
+        "id": "ae757f06-5a38-43d3-81dd-beebff28e765",
+        "title": "Entry-Level Software Engineer",
+        "active": true,
+        "date_updated": 1781044021,
+        "date_posted": 1781043013,
+        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Huntington-Beach-CA/Entry-Level-Software-Engineer---Developer_JR2026506063-2",
+        "locations": [
+            "Huntington Beach, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Danaher Corporation",
+        "id": "73ecb617-979e-4f2f-9dbf-ec6a6ee464b1",
+        "title": "Product Engineer 1",
+        "active": true,
+        "date_updated": 1781044069,
+        "date_posted": 1781042856,
+        "url": "https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Pensacola-Florida-United-States/Product-Engineer-I_R1312619",
+        "locations": [
+            "Pensacola, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Danaher-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Vertiv",
+        "id": "176e48c7-7797-497a-a4a8-dc98c751e719",
+        "title": "Electrical Testing Technician",
+        "active": true,
+        "date_updated": 1781043880,
+        "date_posted": 1781042786,
+        "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20274277",
+        "locations": [
+            "Tulsa, OK"
+        ],
+        "company_url": "https://simplify.jobs/c/Vertiv",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "16a486bb-7b8b-4623-aa93-8c631c266294",
+        "title": "Associate Computer Systems Analyst - Linux",
+        "active": true,
+        "date_updated": 1781044021,
+        "date_posted": 1781042978,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Associate-Computer-Systems-Analyst---Linux---Melbourne-FL_R10235619",
+        "locations": [
+            "Melbourne, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "Associate's"
         ]
     }
 ]
