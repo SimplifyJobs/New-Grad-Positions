@@ -333037,14 +333037,14 @@
         "id": "a8c6a354-9e0f-4e7b-abcd-f27a1487d548",
         "title": "Entry Level Front End Engineer",
         "active": true,
-        "date_updated": 1780439623,
+        "date_updated": 1781004133,
         "date_posted": 1780438150,
         "url": "https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/718180",
         "locations": [
             "Fort Huachuca, Sierra Vista, AZ"
         ],
         "company_url": "https://simplify.jobs/c/Albertsons",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": []
     },
