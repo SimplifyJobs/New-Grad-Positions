@@ -224738,7 +224738,7 @@
         "company_name": "Avnet",
         "id": "0374d942-8b19-45e9-8850-322095453a57",
         "title": "Associate Field Application Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773959504,
         "date_posted": 1773959504,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -225477,7 +225477,7 @@
         "company_name": "Avnet",
         "id": "49997310-9583-4e8c-981a-385b75e55815",
         "title": "Associate Field Application Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773959504,
         "date_posted": 1773959504,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Wilmington-Massachusetts-United-States-of-America/Associate-Field-Application-Engineer_JR-022067",
@@ -245923,7 +245923,7 @@
         "company_name": "SpaceX",
         "id": "41449779-f1c5-48a1-ac49-309b2689ebd1",
         "title": "Graduate Electrical Engineer - Electrical",
-        "active": true,
+        "active": false,
         "date_updated": 1775085498,
         "date_posted": 1775081464,
         "url": "https://boards.greenhouse.io/spacex/jobs/8483305002",
@@ -330994,7 +330994,7 @@
         "company_name": "Avnet",
         "id": "013d5015-8b47-41a8-b665-239f9ca74772",
         "title": "Software Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1780351561,
         "date_posted": 1780351528,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Tempe-Arizona-United-States-Of-America/Software-Developer_JR-022614",
@@ -337432,7 +337432,7 @@
         "company_name": "Anduril",
         "id": "0a20816a-d18d-455c-9e1d-fe6a126bb513",
         "title": "Product Operations Associate - Tier 1",
-        "active": true,
+        "active": false,
         "date_updated": 1780622132,
         "date_posted": 1774574788,
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/5081383007",
@@ -341479,6 +341479,274 @@
             "Columbus, OH"
         ],
         "company_url": "https://simplify.jobs/c/Huntington-Bancshares",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Marvell",
+        "id": "d58698e4-9c5d-4a37-b15e-e793a4c16a6a",
+        "title": "Design Verification Engineer",
+        "active": true,
+        "date_updated": 1780967502,
+        "date_posted": 1780967213,
+        "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Ottawa-Canada/Design-Verification-Engineer---Early-Career_2601655",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Marvell",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Hy-Vee",
+        "id": "6859b9b3-115d-4b8a-9ed3-3f1e1fc96f59",
+        "title": "Technician Level 1 - Audio - Video",
+        "active": true,
+        "date_updated": 1780967701,
+        "date_posted": 1780967381,
+        "url": "https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Corporate-Office-Westown-Pkwy-West-Des-Moines-IA/Technician-Level-1--Audio---Video_R236260",
+        "locations": [
+            "West Des Moines, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/Hy-Vee",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "c4cbb70b-0554-4af0-a8b4-cf2d9d66cd5c",
+        "title": "Graduate Research Scientist - Distributed NoSQL Database Systems",
+        "active": true,
+        "date_updated": 1780967739,
+        "date_posted": 1780967470,
+        "url": "https://jobs.bytedance.com/en/position/7520746681299011858/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "General Dynamics Mission Systems",
+        "id": "c1741e0d-dc75-45b8-9c97-2215e0a77040",
+        "title": "Entry Level Software Engineer",
+        "active": true,
+        "date_updated": 1780967500,
+        "date_posted": 1780967271,
+        "url": "https://careers-gdms.icims.com/jobs/72992/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Scottsdale, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Hospital for Special Surgery (HSS)",
+        "id": "6d205503-8ba9-4c04-bf96-31add0b07625",
+        "title": "Epic Cadence Analyst 1",
+        "active": true,
+        "date_updated": 1780967810,
+        "date_posted": 1780967357,
+        "url": "https://hss.wd1.myworkdayjobs.com/HSS_Careers/job/New-York-NY/Epic-Cadence-Analyst-I_JR2026-104921",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/HSS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Chicago Trading Company",
+        "id": "5be19b71-5be3-40a9-ac72-91fc3223c702",
+        "title": "Equities Trading Clerk",
+        "active": true,
+        "date_updated": 1780967341,
+        "date_posted": 1780967197,
+        "url": "https://job-boards.greenhouse.io/chicagotrading/jobs/4703954005",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/ChicagoTradingCo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "DataVisor",
+        "id": "19c2948a-5174-45a4-8f4f-b90a051b1723",
+        "title": "Data Scientist - AI Solutions",
+        "active": true,
+        "date_updated": 1780967701,
+        "date_posted": 1780967347,
+        "url": "https://apply.workable.com/datavisor-jobs/j/FC5ABB4A50/apply",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/DataVisor",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "EOS IT Solutions",
+        "id": "0553744e-da0d-430e-9366-897f4008da27",
+        "title": "Data Center Repair Technician",
+        "active": true,
+        "date_updated": 1780967341,
+        "date_posted": 1780967275,
+        "url": "https://eosits.com/company/careers/?gh_jid=8569691002",
+        "locations": [
+            "Hillsboro, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/EOS-IT-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Marvell",
+        "id": "d69ee784-49a2-4bb3-877d-f3cc25664d2c",
+        "title": "Design Verification Engineer",
+        "active": true,
+        "date_updated": 1780967503,
+        "date_posted": 1780967249,
+        "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Design-Verification-Engineer---Early-Career_2601655-1",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Marvell",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "ASM International",
+        "id": "c85091a2-a380-4492-a9b4-da92fddd4148",
+        "title": "Field Service Engineer - Early Careers",
+        "active": true,
+        "date_updated": 1780967535,
+        "date_posted": 1780967281,
+        "url": "https://www.asm.com/open-vacancies/?gh_jid=4881845101",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/ASM-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Arcadis",
+        "id": "ac63d992-7ee0-4614-80a6-e74520956701",
+        "title": "Data Management Consultant",
+        "active": true,
+        "date_updated": 1780967341,
+        "date_posted": 1780967261,
+        "url": "https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40442",
+        "locations": [
+            "Boston, MA",
+            "Houston, TX",
+            "New Orleans, LA",
+            "Morrisville, NC",
+            "SF",
+            "Austin, TX",
+            "LA",
+            "Tampa, FL",
+            "Miami, FL",
+            "Irvine, CA",
+            "Dallas, TX",
+            "Virginia Beach, VA",
+            "Raleigh, NC",
+            "Philadelphia, PA",
+            "Boca Raton, FL",
+            "Chicago, IL",
+            "Charlotte, NC",
+            "Arlington, VA",
+            "Little Rock, AR",
+            "Hanover, MD",
+            "Albany, NY",
+            "Greensboro, NC",
+            "Highlands Ranch, CO",
+            "Columbus, OH",
+            "Baton Rouge, LA",
+            "Chattanooga, TN",
+            "White Plains, NY",
+            "Atlanta, GA",
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Arcadis",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Guidewire",
+        "id": "26c16d82-bbf0-4710-9c0b-056a9c652215",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1780967426,
+        "date_posted": 1780967182,
+        "url": "https://guidewire.wd5.myworkdayjobs.com/external/job/United-States---San-Mateo-CA/Software-Engineer---Cloud_JR_14588",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Guidewire",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
