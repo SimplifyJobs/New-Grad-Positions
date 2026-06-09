@@ -224684,7 +224684,7 @@
         "company_name": "Avnet",
         "id": "0374d942-8b19-45e9-8850-322095453a57",
         "title": "Associate Field Application Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773959504,
         "date_posted": 1773959504,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -225423,7 +225423,7 @@
         "company_name": "Avnet",
         "id": "49997310-9583-4e8c-981a-385b75e55815",
         "title": "Associate Field Application Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773959504,
         "date_posted": 1773959504,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Wilmington-Massachusetts-United-States-of-America/Associate-Field-Application-Engineer_JR-022067",
@@ -249169,7 +249169,7 @@
         "company_name": "Navan",
         "id": "60e77e60-f207-47e3-aeb5-df57b1674821",
         "title": "New College Grad Software Engineer - Backend",
-        "active": true,
+        "active": false,
         "date_updated": 1775255941,
         "date_posted": 1775254069,
         "url": "https://navan.com/careers/openings?gh_jid=7777949",
@@ -330940,7 +330940,7 @@
         "company_name": "Avnet",
         "id": "013d5015-8b47-41a8-b665-239f9ca74772",
         "title": "Software Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1780351561,
         "date_posted": 1780351528,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Tempe-Arizona-United-States-Of-America/Software-Developer_JR-022614",
@@ -337378,7 +337378,7 @@
         "company_name": "Anduril",
         "id": "0a20816a-d18d-455c-9e1d-fe6a126bb513",
         "title": "Product Operations Associate - Tier 1",
-        "active": true,
+        "active": false,
         "date_updated": 1780622132,
         "date_posted": 1774574788,
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/5081383007",
@@ -340574,7 +340574,7 @@
         "company_name": "Huntington Bancshares",
         "id": "63050d15-1d14-4e7c-b330-c8cd017a6063",
         "title": "Technology Delivery Analyst - Elevate",
-        "active": true,
+        "active": false,
         "date_updated": 1780958162,
         "date_posted": 1780956471,
         "url": "https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Technology-Delivery-Analyst--Elevate-_R0072683",
@@ -341685,7 +341685,7 @@
         "company_name": "Guidewire",
         "id": "26c16d82-bbf0-4710-9c0b-056a9c652215",
         "title": "Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1780967426,
         "date_posted": 1780967182,
         "url": "https://guidewire.wd5.myworkdayjobs.com/external/job/United-States---San-Mateo-CA/Software-Engineer---Cloud_JR_14588",
@@ -341705,7 +341705,7 @@
         "company_name": "Guidewire",
         "id": "c63b87e8-84a1-4497-b097-99f150e6b23b",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1780985226,
         "date_posted": 1780985153,
         "url": "https://wd5.myworkdaysite.com/en-US/recruiting/guidewire/external/job/United-States---San-Mateo-CA/Software-Engineer---Cloud_JR_14588",
@@ -341942,5 +341942,165 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "d316d4d5-6b08-4290-b24d-fa803b41cc07",
+        "title": "Semiconductor Equipment Engineer",
+        "active": true,
+        "date_updated": 1781015189,
+        "date_posted": 1781014588,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-ANDOVER-AR2--362-Lowell-St--AR2-PLYMOUTH-BLDG/Semiconductor-Equipment-Engineer_01851345",
+        "locations": [
+            "Andover, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "3a3e98b0-80ad-4f7e-ac48-7aee0e9d0e72",
+        "title": "Manufacturing Technician B",
+        "active": true,
+        "date_updated": 1781014513,
+        "date_posted": 1781014501,
+        "url": "https://jobs.l3harris.com/job/Rochester-Manufacturing-Technician-B-NY-14623/1397987000/?ats=successfactors",
+        "locations": [
+            "Rochester, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Applied Materials",
+        "id": "34a243c0-f3bc-476f-9dcb-73b975cc6ba2",
+        "title": "Systems Engineer 3",
+        "active": true,
+        "date_updated": 1781015220,
+        "date_posted": 1781014648,
+        "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Systems-Engineer-III--E3-_R2621471",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Materials",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "34093c21-94ad-422d-8392-5c63699fc614",
+        "title": "Embedded Software Engineer - Sensors",
+        "active": true,
+        "date_updated": 1781015183,
+        "date_posted": 1781014588,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513PW--2501-W-University-Dr--PW-BLDG/XMLNAME-2027-Raytheon-Full-Time---Sensors---Software-Engineer-I---McKinney--TX--Onsite-_01849891",
+        "locations": [
+            "McKinney, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Leidos",
+        "id": "cf0e739d-b61e-438d-a273-6b44e880e801",
+        "title": "Junior Linux System Administrator",
+        "active": true,
+        "date_updated": 1781014761,
+        "date_posted": 1781013986,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Bowie-MD/Junior-Linux-System-Administrator_R-00184440",
+        "locations": [
+            "Bowie, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Seer Interactive",
+        "id": "f741fd24-7828-44eb-b3eb-0419978561b9",
+        "title": "Analytics Associate",
+        "active": true,
+        "date_updated": 1781013961,
+        "date_posted": 1781013793,
+        "url": "https://jobs.lever.co/seerinteractive/963de1d5-4ed9-4b14-addf-5f45e133b396/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/SeerInteractive",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Radius Limited",
+        "id": "0fe8df76-acf8-45da-a73e-f1adec8230b2",
+        "title": "Graduate / Junior Java Developer",
+        "active": true,
+        "date_updated": 1781013961,
+        "date_posted": 1781013812,
+        "url": "https://jobs.smartrecruiters.com/RadiusLimited/744000131108389",
+        "locations": [
+            "Northwich, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Radius-Limited",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Pennsylvania",
+        "id": "a1e8a083-f422-4d2b-ba79-2a1b3130b5ef",
+        "title": "Data and Programming Specialist",
+        "active": true,
+        "date_updated": 1781013781,
+        "date_posted": 1781013681,
+        "url": "https://upenn.wd1.myworkdayjobs.com/careers-at-penn/job/Stephen-A-Levin-Building/Data-and-Programming-Specialist_JR00119182",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Pennsylvania",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
