@@ -332516,14 +332516,14 @@
         "id": "676bc79d-7b44-4641-a4cb-dca6826b15c2",
         "title": "Front End Entry Level",
         "active": true,
-        "date_updated": 1780439406,
+        "date_updated": 1781004247,
         "date_posted": 1780438143,
         "url": "https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/717997",
         "locations": [
             "Essex County, MA"
         ],
         "company_url": "https://simplify.jobs/c/Albertsons",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": []
     },
