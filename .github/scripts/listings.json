@@ -334548,14 +334548,14 @@
         "id": "456cd328-7658-4b69-9440-6a6daa368416",
         "title": "Entry Level Front End Engineer",
         "active": true,
-        "date_updated": 1780525882,
+        "date_updated": 1781004069,
         "date_posted": 1780524687,
         "url": "https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/718586",
         "locations": [
             "Elkton Dr, Colorado Springs, CO"
         ],
         "company_url": "https://simplify.jobs/c/Albertsons",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": []
     },
