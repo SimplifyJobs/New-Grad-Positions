@@ -334933,14 +334933,14 @@
         "id": "721109b1-f8d7-4e4a-a9ca-e7d8f9bde744",
         "title": "Entry Level Front End Engineer",
         "active": true,
-        "date_updated": 1780525877,
+        "date_updated": 1781004225,
         "date_posted": 1780524687,
         "url": "https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/718583",
         "locations": [
             "Oregon City, OR"
         ],
         "company_url": "https://simplify.jobs/c/Albertsons",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": []
     },
