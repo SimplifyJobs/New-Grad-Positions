@@ -121456,7 +121456,7 @@
         "company_name": "Ensign-Bickford Aerospace & Defense Company",
         "id": "c18a6a31-6cf7-481a-99f5-cb0c4d069d8a",
         "title": "Soldering Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1768235148,
         "date_posted": 1768235148,
         "url": "https://ebi.wd5.myworkdayjobs.com/ebadcareers/job/Simsbury-CT/Soldering-Technician_REQ106824",
@@ -224684,7 +224684,7 @@
         "company_name": "Avnet",
         "id": "0374d942-8b19-45e9-8850-322095453a57",
         "title": "Associate Field Application Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773959504,
         "date_posted": 1773959504,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -225423,7 +225423,7 @@
         "company_name": "Avnet",
         "id": "49997310-9583-4e8c-981a-385b75e55815",
         "title": "Associate Field Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773959504,
         "date_posted": 1773959504,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Wilmington-Massachusetts-United-States-of-America/Associate-Field-Application-Engineer_JR-022067",
@@ -327411,7 +327411,7 @@
         "company_name": "Micron Technology",
         "id": "91e88b6e-4599-4579-afc5-ee3cb7fc6c65",
         "title": "Electrical Engineer New Grad - Design Engineer - Pathfinding Design",
-        "active": true,
+        "active": false,
         "date_updated": 1779960026,
         "date_posted": 1779529133,
         "url": "https://micron.wd1.myworkdayjobs.com/External/job/Folsom-CA/New-College-Grad---Design-Engineer---Pathfinding-Design_JR92326",
@@ -328087,7 +328087,7 @@
         "company_name": "Deluxe Media",
         "id": "70029fc4-6d0b-4b77-8799-2586055944cf",
         "title": "Cinema Projection Systems Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1780275138,
         "date_posted": 1780131813,
         "url": "https://bydeluxe.wd5.myworkdayjobs.com/en-US/Deluxe_External/job/US-CA-Burbank/Cinema-Projection-Systems-Engineer_R0016104",
@@ -328125,7 +328125,7 @@
         "company_name": "Brink",
         "id": "a999a49c-402d-44ce-b35b-d60c89144761",
         "title": "ATM Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1780274470,
         "date_posted": 1780131751,
         "url": "https://brinks.wd5.myworkdayjobs.com/brinkscareersus/job/Baton-Rouge-LA/ATM-Technician_R72782",
@@ -337567,7 +337567,7 @@
         "company_name": "Magna",
         "id": "b36dd93e-55df-46c6-8350-15f7d2381821",
         "title": "CMM Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1780652834,
         "date_posted": 1780611048,
         "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Northwood-Ohio-US/CMM-Technician_R00246035",
@@ -337607,7 +337607,7 @@
         "company_name": "Cubic",
         "id": "94e301ae-69ea-4c12-a139-32f8e05f9d21",
         "title": "Field Services Technician 2",
-        "active": true,
+        "active": false,
         "date_updated": 1780652126,
         "date_posted": 1780136891,
         "url": "https://cubic.wd1.myworkdayjobs.com/cubic_global_careers/job/United-Kingdom---Remote/Field-Services-Technician-2_REQ_47828",
@@ -339859,7 +339859,7 @@
         "company_name": "Cubic",
         "id": "91f2621e-0c4f-4335-9665-2d1e52383af8",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1780928431,
         "date_posted": 1780927793,
         "url": "https://cubic.wd1.myworkdayjobs.com/cubic_USA_careers/job/Camberley-Surrey/Associate-Software-Engineer_REQ_49108",
@@ -340634,7 +340634,7 @@
         "company_name": "Google",
         "id": "b2188eff-951d-4a9e-afc9-dfcb95e85891",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1780957457,
         "date_posted": 1780956361,
         "url": "https://www.google.com/about/careers/applications/jobs/results/75837135248073414",
@@ -341795,6 +341795,87 @@
             "Nottingham, UK"
         ],
         "company_url": "https://simplify.jobs/c/Experian",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "GE Vernova",
+        "id": "94d62ff6-943b-45ae-bfa9-791cf14bed41",
+        "title": "Global Master Data Analyst",
+        "active": true,
+        "date_updated": 1780997167,
+        "date_posted": 1780743437,
+        "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Greenville/Global-Master-Data-Analyst_R5043055-3",
+        "locations": [
+            "Belfort, France",
+            "Greenville, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Vernova",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Leonardo",
+        "id": "e33b8e1a-7320-4aa5-8e31-a16bc8aa9269",
+        "title": "Defence Analytics Engineer",
+        "active": true,
+        "date_updated": 1780996321,
+        "date_posted": 1780996282,
+        "url": "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---London---Whitehall/Defence-Analytics-Engineer_R0029839-1",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Leonardo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Flex",
+        "id": "91313d6f-c809-49f7-8a99-b55c413308be",
+        "title": "SMT Operator-2",
+        "active": true,
+        "date_updated": 1780997357,
+        "date_posted": 1780741452,
+        "url": "https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-MI-Coopersville/SMT-Operator-2_WD221981",
+        "locations": [
+            "Allendale Charter Twp, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Flex",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CoStar Group",
+        "id": "cd60499a-dfb8-403e-ba59-7ed8d2cba47d",
+        "title": "Bilingual French/English Associate Sales Comparable Researcher",
+        "active": true,
+        "date_updated": 1780998501,
+        "date_posted": 1780740292,
+        "url": "https://costar.wd1.myworkdayjobs.com/en-US/CoStarCareers/job/US-VA-Richmond/Bilingual-French-English-Associate-Sales-Comparable-Researcher_R37248",
+        "locations": [
+            "Richmond, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/CoStar",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
