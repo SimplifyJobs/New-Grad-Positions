@@ -298262,7 +298262,7 @@
         "company_name": "RTX",
         "id": "ecd42cd9-2e5c-4b58-b00e-c37e33d6691a",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1778193687,
         "date_posted": 1778191810,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Software-Engineer-I--Onsite-_01834725",
@@ -336894,7 +336894,7 @@
         "company_name": "RTX",
         "id": "d580ce07-bba3-4543-a3e1-0346a775c096",
         "title": "Software Engineer 1 - Core Systems & Libraries",
-        "active": true,
+        "active": false,
         "date_updated": 1780612791,
         "date_posted": 1780611054,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-124--400-Collins-Rd-NE--BLDG-124/Software-Engineer-1---Core-Systems---Libraries--Onsite-_01847677",
@@ -341738,5 +341738,23 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Anaplan",
+        "id": "ef1c7b51-06d3-4712-913f-a6754868cefc",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1767741212,
+        "date_posted": 1767741212,
+        "url": "https://job-boards.greenhouse.io/anaplan/jobs/8208697002",
+        "locations": [
+            "Manchester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Anaplan",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
