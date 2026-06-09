@@ -308443,7 +308443,7 @@
         "company_name": "Franklin Templeton",
         "id": "2685d633-11b4-4a94-b44f-659a364200b5",
         "title": "Quantitative Research Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1779114242,
         "date_posted": 1779113423,
         "url": "https://franklintempleton.wd5.myworkdayjobs.com/Primary-External-1/job/London-United-Kingdom/Quantitative-Research-Associate_867805",
@@ -318509,7 +318509,7 @@
         "company_name": "Vertiv",
         "id": "88cf64da-56ca-4c84-9ef5-e4589003341b",
         "title": "Test Team Operative/Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1779821821,
         "date_posted": 1778576698,
         "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20271139",
@@ -322194,7 +322194,7 @@
         "company_name": "LexisNexis Risk Solutions",
         "id": "f7292aa6-7328-4d24-92dd-1c877cb86dce",
         "title": "Solutions Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1779876631,
         "date_posted": 1778922100,
         "url": "https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/United-Kingdom/Solutions-Analyst_R109322",
@@ -335363,7 +335363,7 @@
         "company_name": "Reach Financial",
         "id": "39349736-2696-42cf-9e4b-deaf9d2b3246",
         "title": "Credit Risk Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1780526126,
         "date_posted": 1780525423,
         "url": "https://job-boards.greenhouse.io/reach/jobs/8573228002",
@@ -338889,7 +338889,7 @@
         "company_name": "Leidos",
         "id": "a3189576-f66e-4774-83e0-6007daeba5ce",
         "title": "Chinese Open-Source Intelligence Junior/Entry Level - Open-Source Intelligence Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1780753336,
         "date_posted": 1780740025,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Remote-US/Chinese-Open-Source-Intelligence--OSINT--Analyst--Junior-Entry-Level-_R-00184621",
@@ -339036,7 +339036,7 @@
         "company_name": "Applied Information Sciences",
         "id": "d46b2888-cbda-49ba-96ea-c8e17fca0504",
         "title": "Program Analyst - Program Analysis - Data Analysis",
-        "active": true,
+        "active": false,
         "date_updated": 1780748439,
         "date_posted": 1780739790,
         "url": "https://appliedis.wd5.myworkdayjobs.com/ais_careers/job/Client-Site---Alexandria-VA/Program-Analyst_JR2026001186-1",
@@ -342097,6 +342097,175 @@
             "Philadelphia, PA"
         ],
         "company_url": "https://simplify.jobs/c/University-Of-Pennsylvania",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "f0decac3-42e6-41b6-8f73-a954263e1bd7",
+        "title": "System Integration Software Engineer 1 - System Integration Software Engineer I",
+        "active": true,
+        "date_updated": 1781015173,
+        "date_posted": 1781014588,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/XMLNAME-2026-Collins-Full-Time---System-Integration-Software-Engineer-I---Cedar-Rapids--IA--Onsite-_01850421",
+        "locations": [
+            "Cedar Rapids, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "SEI",
+        "id": "aa37cff5-faf9-4fa6-a2dc-2a3f2439c936",
+        "title": "Operations Analyst - Mutual Fund Trading",
+        "active": true,
+        "date_updated": 1781014861,
+        "date_posted": 1781014531,
+        "url": "https://seic.wd1.myworkdayjobs.com/SEI_Global_Services/job/USA---PA---Oaks/Operations-Analyst---Mutual-Fund-Trading_R0036876",
+        "locations": [
+            "Phoenixville, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/SEIC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "9fcf831e-6713-4357-8afc-18b3bbcd8442",
+        "title": "Software Engineer 1 - Rdpl",
+        "active": true,
+        "date_updated": 1781015174,
+        "date_posted": 1781014587,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-FULLERTON-675--1801-Hughes-Dr--BLDG-675/XMLNAME-2026-Raytheon-Full-Time--Software-Engineer-I---RDPL---Onsite--CA-_01850642",
+        "locations": [
+            "Anaheim, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "State Street",
+        "id": "55b468e4-4061-40b0-9d23-5344543b9875",
+        "title": "Full Stack Software Engineer - Officer",
+        "active": true,
+        "date_updated": 1781014861,
+        "date_posted": 1781014575,
+        "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Toronto-Ontario/Full-Stack-Software-Engineer--Officer_R-792055",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/State-Street",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "USAA",
+        "id": "e3632d9b-0b41-4c09-ae1a-a244b64548ba",
+        "title": "Signal Fellowship Program-Data and Analytics",
+        "active": true,
+        "date_updated": 1781014987,
+        "date_posted": 1781014439,
+        "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/USAA-Signal-Fellowship-Program-Data-and-Analytics_R0118277",
+        "locations": [
+            "San Antonio, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/USAA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Excellus BCBS",
+        "id": "030e0c4e-3f6c-467d-9966-5b65027b03da",
+        "title": "AI Engineer 1/2",
+        "active": true,
+        "date_updated": 1781014972,
+        "date_posted": 1781014374,
+        "url": "https://lthc.wd1.myworkdayjobs.com/en-US/ExcellusBCBSCareers/job/Rochester/AI-Engineer-I-II_JR103556-2",
+        "locations": [
+            "Rochester, NY",
+            "Utica, NY",
+            "Albany, NY",
+            "Binghamton, NY",
+            "Syracuse, NY",
+            "Buffalo, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Excellus-BCBS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Dimensional Fund Advisors",
+        "id": "acca8fbe-f291-42c6-8ff3-daf3d1aa10ae",
+        "title": "Analyst/Associate - Investment Engineering - Analytics Platforms",
+        "active": true,
+        "date_updated": 1781014513,
+        "date_posted": 1781014513,
+        "url": "https://dimensional.wd5.myworkdayjobs.com/dfa_careers/job/Charlotte/Analyst-Associate--Investment-Engineering--Analytics-Platforms-_2026-8867-1",
+        "locations": [
+            "Austin, TX",
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/3d361434-7ac4-4284-b2ef-078b0bc92808",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "7db737f1-b67f-477e-a5a6-94674263ada3",
+        "title": "Semiconductor Equipment Engineer",
+        "active": true,
+        "date_updated": 1781015182,
+        "date_posted": 1781014588,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-ANDOVER-AR2--362-Lowell-St--AR2-PLYMOUTH-BLDG/Semiconductor-Equipment-Engineer_01851347",
+        "locations": [
+            "Andover, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
