@@ -339645,7 +339645,7 @@
         "company_name": "GE Healthcare",
         "id": "0f965ade-d8a0-42be-a1dd-cc2ff518efb6",
         "title": "Field Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1780906751,
         "date_posted": 1780437968,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer-1--Central-IL-_R4041220-1",
@@ -341299,7 +341299,7 @@
         "company_name": "Medtronic",
         "id": "0c284bcc-c9cc-466b-885c-28792e767178",
         "title": "Associate Product Specialist - Allografts",
-        "active": false,
+        "active": true,
         "date_updated": 1780960236,
         "date_posted": 1780956579,
         "url": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Memphis-Tennessee-United-States-of-America/Associate-Product-Specialist---Allografts--Onsite-_R69128",
@@ -343493,6 +343493,26 @@
             "Cincinnati, OH"
         ],
         "company_url": "https://simplify.jobs/c/Duke-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Dutch",
+        "id": "183cfb1c-1bc1-441e-bbd0-5f1a5220c9da",
+        "title": "Front-End Engineer - Shopify - Vue.js",
+        "active": true,
+        "date_updated": 1781079481,
+        "date_posted": 1779833225,
+        "url": "https://jobs.lever.co/dutch/bbbd283b-2632-4ad1-8d43-87b072e247c5/apply",
+        "locations": [
+            "Oakland, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Dutch",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
