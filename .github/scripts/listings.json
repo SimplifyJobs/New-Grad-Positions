@@ -155734,7 +155734,7 @@
         "company_name": "Snap",
         "id": "ec986f16-6360-42fc-a3b8-2b31ac65ad50",
         "title": "Embedded Software Engineer - Level 3",
-        "active": false,
+        "active": true,
         "date_updated": 1770420462,
         "date_posted": 1770420462,
         "url": "https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/San-Diego-California/Embedded-Software-Engineer--Level-3_R0044487-1",
@@ -329017,7 +329017,7 @@
         "company_name": "GE Healthcare",
         "id": "d0c9719f-a3d9-4720-acc4-f89f17ec0609",
         "title": "Lead Service Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1780307361,
         "date_posted": 1780134777,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Lead-Service-Engineer_R4041301-1",
@@ -331486,7 +331486,7 @@
         "company_name": "Amgen",
         "id": "db438c18-61af-4391-b139-a94759237734",
         "title": "Senior Manufacturing Systems Engineer - Manufacturing Systems and Integrated Technologies",
-        "active": false,
+        "active": true,
         "date_updated": 1780394275,
         "date_posted": 1780135829,
         "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/US---California---Thousand-Oaks/Senior-Manufacturing-Systems-Engineer---Manufacturing-Systems-and-Integrated-Technologies_R-239125",
@@ -332698,7 +332698,7 @@
         "company_name": "Light & Wonder",
         "id": "6a0d643a-4706-4812-88c9-db42bd577d80",
         "title": "Field Service Tech 3",
-        "active": true,
+        "active": false,
         "date_updated": 1780439318,
         "date_posted": 1780438012,
         "url": "https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Rhode-Island-US/Field-Service-Tech-III_R322152",
@@ -338649,7 +338649,7 @@
         "company_name": "CoStar Group",
         "id": "e9de2def-6691-4fdf-b560-a4a2a8389478",
         "title": "Associate Research Consultant",
-        "active": false,
+        "active": true,
         "date_updated": 1780740818,
         "date_posted": 1780740319,
         "url": "https://costar.wd1.myworkdayjobs.com/en-US/CoStarCareers/job/US-VA-Richmond/Bilingual-Associate-Research-Consultant-French-English_R37800",
@@ -338748,7 +338748,7 @@
         "company_name": "Abbott",
         "id": "ebcf495e-ffc8-41a2-9ced-68da1c5801e4",
         "title": "Design to Cost Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1780747642,
         "date_posted": 1780740902,
         "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---Illinois---Abbott-Park/Design-to-Cost-Engineer_31149181",
@@ -341911,7 +341911,7 @@
         "company_name": "RTX",
         "id": "db2c1adb-4d32-45b3-aabf-49a0b007ceb4",
         "title": "Assembly/Test 1",
-        "active": true,
+        "active": false,
         "date_updated": 1780999134,
         "date_posted": 1780743268,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-MEDLEY-9100--9120-9124-NW-105th-Cir--NW-105TH/Assembly-Test-1--Onsite-_01850135",
@@ -341929,7 +341929,7 @@
         "company_name": "RTX",
         "id": "d316d4d5-6b08-4290-b24d-fa803b41cc07",
         "title": "Semiconductor Equipment Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1781015189,
         "date_posted": 1781014588,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-ANDOVER-AR2--362-Lowell-St--AR2-PLYMOUTH-BLDG/Semiconductor-Equipment-Engineer_01851345",
@@ -343755,6 +343755,105 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Marsh-McLennan",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Rogue Fitness",
+        "id": "3365979a-672a-4368-a6f6-c6d54fa5dd8d",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1781082902,
+        "date_posted": 1781082739,
+        "url": "https://roguefitness.wd1.myworkdayjobs.com/RogueFitness_External_Careers/job/Columbus-Ohio/Data-Analyst_R-102760",
+        "locations": [
+            "Columbus, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Rogue-Fitness",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "UL Solutions",
+        "id": "d2e2aab4-3e44-4feb-87c3-4d7e5e1ffc63",
+        "title": "Associate Data Scientist",
+        "active": true,
+        "date_updated": 1781082181,
+        "date_posted": 1781082140,
+        "url": "https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/9695",
+        "locations": [
+            "Northbrook, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/UL-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "KLA Corporation",
+        "id": "7d344d13-dabd-4e9d-86ba-0e417a8fae79",
+        "title": "HPC Hardware Engineer",
+        "active": true,
+        "date_updated": 1781083556,
+        "date_posted": 1781082861,
+        "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/HPC-Hardware-Engineer_2637260",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/KLA-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "RTX",
+        "id": "dad0ca1d-738f-4aa4-a6f0-82385e963ad1",
+        "title": "Modeling Simulation & Analysis Engineer 1",
+        "active": true,
+        "date_updated": 1781085845,
+        "date_posted": 1780910173,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-9020--9020-S-Rita-Rd--BLDG-9020/XMLNAME-2026-Modeling-Simulation---Analysis-Engineer-I--Onsite_01825180",
+        "locations": [
+            "Tucson, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Darktrace",
+        "id": "79f33ef6-2e84-47c3-bede-0836e7005973",
+        "title": "Product Content Executive",
+        "active": true,
+        "date_updated": 1781082749,
+        "date_posted": 1780438102,
+        "url": "https://darktrace.wd3.myworkdayjobs.com/DarktaceExternal/job/Cambridge-Office-United-Kingdom/Product-Content-Coordinator_JR101825",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Darktrace",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
