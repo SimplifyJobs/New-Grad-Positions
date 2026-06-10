@@ -225403,7 +225403,7 @@
         "company_name": "Avnet",
         "id": "49997310-9583-4e8c-981a-385b75e55815",
         "title": "Associate Field Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773959504,
         "date_posted": 1773959504,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Wilmington-Massachusetts-United-States-of-America/Associate-Field-Application-Engineer_JR-022067",
@@ -242730,7 +242730,7 @@
         "company_name": "Thermo Fisher Scientific",
         "id": "ba2211a6-3041-48aa-9111-edebe44105f2",
         "title": "Field Service Engineer 1 - Asset Management",
-        "active": true,
+        "active": false,
         "date_updated": 1774999551,
         "date_posted": 1774479122,
         "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/West-Greenwich-Rhode-Island-USA/Field-Service-Engineer-I--Asset-Management-_R-01345001",
@@ -268684,7 +268684,7 @@
         "company_name": "GE Healthcare",
         "id": "9df5e2b3-ff4d-403c-aadd-0e2e177b2139",
         "title": "MR Field Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1776302844,
         "date_posted": 1776301614,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/MR---Field-Engineer-1_R4039398-1",
@@ -297239,7 +297239,7 @@
         "company_name": "Rocket Software",
         "id": "8ef9ec94-2cd9-44c1-a0c8-c9d81c946638",
         "title": "Software Engineer - Nextgen",
-        "active": false,
+        "active": true,
         "date_updated": 1778163842,
         "date_posted": 1778162957,
         "url": "https://rocket.wd5.myworkdayjobs.com/en-US/rocket_careers/job/Newbury-United-Kingdom/Software-Engineer---NextGen_R2026-6463",
@@ -322174,7 +322174,7 @@
         "company_name": "LexisNexis Risk Solutions",
         "id": "f7292aa6-7328-4d24-92dd-1c877cb86dce",
         "title": "Solutions Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1779876631,
         "date_posted": 1778922100,
         "url": "https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/United-Kingdom/Solutions-Analyst_R109322",
@@ -323745,7 +323745,7 @@
         "company_name": "Entergy",
         "id": "be9bc872-706d-4c20-a4f3-4c6ae520af97",
         "title": "Revenue Assurance Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1779827406,
         "date_posted": 1779458840,
         "url": "https://jobs.entergy.com/job/Hammond-Analyst-Loui/1369792700/?ats=successfactors",
@@ -328049,7 +328049,7 @@
         "company_name": "Leidos",
         "id": "c2ced759-415c-4430-971e-4945e24dcfcc",
         "title": "Electronics Mechanical Assembly Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1780275161,
         "date_posted": 1780134819,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Electronics-Mechanical-Assembly-Technician_R-00182031",
@@ -332351,7 +332351,7 @@
         "company_name": "Leidos",
         "id": "99e4e025-a0d3-4f3d-87f1-bd79775e22ec",
         "title": "Electronics Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1780438442,
         "date_posted": 1780437956,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Long-Beach-MS/Electronics-Technician_R-00184650",
@@ -334183,7 +334183,7 @@
         "company_name": "Pinterest",
         "id": "836b6c19-97e2-48ec-b0eb-a351d8e837d6",
         "title": "Software Engineer 1 - Backend",
-        "active": true,
+        "active": false,
         "date_updated": 1780525485,
         "date_posted": 1780525040,
         "url": "https://www.pinterestcareers.com/jobs/?gh_jid=6816337",
@@ -338159,7 +338159,7 @@
         "company_name": "RTX",
         "id": "90023565-414f-4613-bacf-b68d9c684ecc",
         "title": "Design Integrity Checker 1",
-        "active": true,
+        "active": false,
         "date_updated": 1780698649,
         "date_posted": 1780697446,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-ANDOVER-AN0--366-Lowell-St--BLDG-AN0/Design-Integrity-Checker-I_01848004",
@@ -339141,7 +339141,7 @@
         "company_name": "CPI Security",
         "id": "43395721-7ee3-4dcf-a055-689297c3edbb",
         "title": "Residential Installation Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1780794636,
         "date_posted": 1780697232,
         "url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4687294006",
@@ -339666,7 +339666,7 @@
         "company_name": "Smarkets",
         "id": "e60e210e-ce9c-46b4-9bac-dcedfdfc5c08",
         "title": "Product Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1780909936,
         "date_posted": 1780909616,
         "url": "https://jobs.ashbyhq.com/smarkets/b024f66f-939d-427e-b08e-c5ca5b1da334/application",
@@ -339724,7 +339724,7 @@
         "company_name": "Flextronics International",
         "id": "905701ce-acbf-43fa-9e76-f07fa2c7e241",
         "title": "Panel Wire Prep",
-        "active": false,
+        "active": true,
         "date_updated": 1780910747,
         "date_posted": 1780740754,
         "url": "https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-CA-Fontana/Panel-Wire-Prep_WD219027-2",
@@ -341828,7 +341828,7 @@
         "company_name": "Flex",
         "id": "91313d6f-c809-49f7-8a99-b55c413308be",
         "title": "SMT Operator-2",
-        "active": true,
+        "active": false,
         "date_updated": 1780997357,
         "date_posted": 1780741452,
         "url": "https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-MI-Coopersville/SMT-Operator-2_WD221981",
@@ -341848,7 +341848,7 @@
         "company_name": "CoStar Group",
         "id": "cd60499a-dfb8-403e-ba59-7ed8d2cba47d",
         "title": "Bilingual French/English Associate Sales Comparable Researcher",
-        "active": true,
+        "active": false,
         "date_updated": 1780998501,
         "date_posted": 1780740292,
         "url": "https://costar.wd1.myworkdayjobs.com/en-US/CoStarCareers/job/US-VA-Richmond/Bilingual-French-English-Associate-Sales-Comparable-Researcher_R37248",
@@ -342802,7 +342802,7 @@
         "company_name": "Huntington Bancshares",
         "id": "5ce68e2e-0a22-457f-92e3-65066069f82e",
         "title": "Technology Delivery Analyst - Elevate",
-        "active": true,
+        "active": false,
         "date_updated": 1781044021,
         "date_posted": 1781042883,
         "url": "https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Technology-Delivery-Analyst--Elevate-_R0072681",
@@ -343857,5 +343857,166 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Confluence Technologies",
+        "id": "f11862e3-75d2-4624-b6ae-6b8d56a70f86",
+        "title": "Data Engineer Associate - Data Platform - Data Pipelines",
+        "active": true,
+        "date_updated": 1781082873,
+        "date_posted": 1781082374,
+        "url": "https://confluence.pinpointhq.com/en/postings/f12906e8-b751-442d-9f52-05c053e1e67a?ats=pinpointhq",
+        "locations": [
+            "Montreal, QC, Canada",
+            "Boston, MA",
+            "Toronto, ON, Canada",
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Confluence-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "KLA Corporation",
+        "id": "e62d8263-f7ca-4282-bde5-d5ec594f3c56",
+        "title": "HPC Hardware Engineer",
+        "active": true,
+        "date_updated": 1781083501,
+        "date_posted": 1781082930,
+        "url": "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/HPC-Hardware-Engineer_2637260-1",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/KLA-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "American Express",
+        "id": "975ff09a-6cc0-4be0-a253-23fac5708a07",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1781082834,
+        "date_posted": 1781082294,
+        "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26008970",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/American-Express",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "American Express",
+        "id": "80020c68-a6f6-4f9e-ace2-ff2bf5d7c282",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1781082823,
+        "date_posted": 1781082292,
+        "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009082",
+        "locations": [
+            "London, UK",
+            "Brighton, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/American-Express",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cerebras",
+        "id": "a83ee9b1-6320-4a23-af58-d406831b6ec4",
+        "title": "New Grad Software Engineer",
+        "active": true,
+        "date_updated": 1781083262,
+        "date_posted": 1781082858,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=7621008003",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Cerebras-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Evolver",
+        "id": "e4a31c6e-717d-4b5a-89d8-666c552afe34",
+        "title": "Generative AI Engineer - Python",
+        "active": true,
+        "date_updated": 1781082853,
+        "date_posted": 1781082360,
+        "url": "https://job-boards.greenhouse.io/evolver/jobs/4092111009",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Evolver",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Walleye Capital",
+        "id": "e03e4fce-69ff-4c7c-9d31-8e33a590167d",
+        "title": "Volatility Quantitative Researcher",
+        "active": true,
+        "date_updated": 1781083275,
+        "date_posted": 1781083266,
+        "url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4586185006",
+        "locations": [
+            "Miami, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Walleye-Capital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Further",
+        "id": "7d735d17-774c-40af-ab76-e77a8f5c0ef2",
+        "title": "Graduate Data Analyst",
+        "active": true,
+        "date_updated": 1781083557,
+        "date_posted": 1781083110,
+        "url": "https://job-boards.greenhouse.io/furtherearlycareer/jobs/8384017002",
+        "locations": [
+            "Cleveland, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Further",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
