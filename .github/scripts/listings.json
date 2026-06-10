@@ -1,45 +1,5 @@
 [
     {
-        "date_updated": 1760379265,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "degrees": [],
-        "url": "https://jobs.ashbyhq.com/lambda/1b1cac37-a29c-46b2-ad1a-a946d1e87d41",
-        "company_name": "Lambda",
-        "title": "Cloud Support Engineer I (Support Response) - Weekend Shift",
-        "locations": [
-            "Remote in USA"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "2c8231b4-2c65-46b0-bd83-9fdc4858dbf0",
-        "date_posted": 1760365345,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1760365603,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "degrees": [],
-        "url": "https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/Spring-Texas-United-States-of-America/Software-Development-Graduate_3152963",
-        "company_name": "Hewlett Packard (HP)",
-        "title": "Software Development",
-        "locations": [
-            "Spring, TX",
-            "Palo Alto, CA",
-            "Boise, ID",
-            "Corvallis, OR",
-            "Vancouver, WA"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "501542cf-69f6-4b4e-b10e-3f40c14f0cee",
-        "date_posted": 1760365603,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "date_updated": 1764748533,
         "sponsorship": "Other",
         "active": false,
@@ -312799,7 +312759,7 @@
         "company_name": "CaptiveAire Systems",
         "id": "75a1c4ee-6cf5-47a7-ba62-eb6954779862",
         "title": "Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1779402781,
         "date_posted": 1779401231,
         "url": "https://www.captiveaire.com/Careers/Opening.asp?id=8560942002&gh_jid=8560942002",
@@ -330498,7 +330458,7 @@
         "company_name": "RTX",
         "id": "c36abd8b-4428-45a5-8ca0-c1c89e966238",
         "title": "Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1780353453,
         "date_posted": 1780351840,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/XMLNAME-2026-Raytheon-Full-Time--Software-Engineer-I---Onsite-_01849599",
@@ -330899,7 +330859,7 @@
         "company_name": "Avnet",
         "id": "013d5015-8b47-41a8-b665-239f9ca74772",
         "title": "Software Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1780351561,
         "date_posted": 1780351528,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Tempe-Arizona-United-States-Of-America/Software-Developer_JR-022614",
@@ -343996,6 +343956,84 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "mthree",
+        "id": "a001d159-2489-4255-a863-93cc6e3d178a",
+        "title": "C++ Junior Software Developer",
+        "active": true,
+        "date_updated": 1781101222,
+        "date_posted": 1781100590,
+        "url": "https://mthree.com/careers/job/?gh_jid=4686871006",
+        "locations": [
+            "United Kingdom"
+        ],
+        "company_url": "https://simplify.jobs/c/Mthree",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Charles Schwab",
+        "id": "792f5349-3f5c-4b32-b464-76ac2574196c",
+        "title": "Software Developer",
+        "active": true,
+        "date_updated": 1781100737,
+        "date_posted": 1781100461,
+        "url": "https://career-schwab.icims.com/jobs/122782/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Westlake, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Charles-Schwab",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "The Toro Company",
+        "id": "1ad8aed1-00ba-40b5-91bf-8f80a7f9b2ac",
+        "title": "Electronics Service Technician 1 - Repair Area - Electronic Devices",
+        "active": true,
+        "date_updated": 1781100596,
+        "date_posted": 1781100250,
+        "url": "https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Perry-SS-OK/Electronics-Service-Technician-I_JR16338",
+        "locations": [
+            "Stillwater, OK"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Toro-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Corpay",
+        "id": "5fa1ef7e-1e1f-42e3-8a74-5475242a39e9",
+        "title": "Graduate Software Engineer",
+        "active": true,
+        "date_updated": 1781100364,
+        "date_posted": 1781100147,
+        "url": "https://corpay.wd103.myworkdayjobs.com/en-US/ext_001/job/London-The-Point---Cross-Border/Graduate-Software-Engineer_R08701",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Corpay",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
