@@ -209382,7 +209382,7 @@
         "company_name": "The Boeing Company",
         "id": "5c0beedb-e9a6-4ed9-833c-0c816e820c8f",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773183944,
         "date_posted": 1773183944,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tukwila-WA/Software-Engineer--Associate-or-Experienced-_JR2026500177-1",
@@ -224664,7 +224664,7 @@
         "company_name": "Avnet",
         "id": "0374d942-8b19-45e9-8850-322095453a57",
         "title": "Associate Field Application Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773959504,
         "date_posted": 1773959504,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -225403,7 +225403,7 @@
         "company_name": "Avnet",
         "id": "49997310-9583-4e8c-981a-385b75e55815",
         "title": "Associate Field Application Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773959504,
         "date_posted": 1773959504,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Wilmington-Massachusetts-United-States-of-America/Associate-Field-Application-Engineer_JR-022067",
@@ -331246,7 +331246,7 @@
         "company_name": "CoStar Group",
         "id": "654a8203-8795-40c6-92f5-76afc4273093",
         "title": "Associate Research Consultant",
-        "active": true,
+        "active": false,
         "date_updated": 1780390666,
         "date_posted": 1780134807,
         "url": "https://costar.wd1.myworkdayjobs.com/en-US/CoStarCareers/job/US-VA-Richmond/Associate-Research-Consultant_R38934",
@@ -341665,7 +341665,7 @@
         "company_name": "Guidewire",
         "id": "26c16d82-bbf0-4710-9c0b-056a9c652215",
         "title": "Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1780967426,
         "date_posted": 1780967182,
         "url": "https://guidewire.wd5.myworkdayjobs.com/external/job/United-States---San-Mateo-CA/Software-Engineer---Cloud_JR_14588",
@@ -341685,7 +341685,7 @@
         "company_name": "Guidewire",
         "id": "c63b87e8-84a1-4497-b097-99f150e6b23b",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1780985226,
         "date_posted": 1780985153,
         "url": "https://wd5.myworkdaysite.com/en-US/recruiting/guidewire/external/job/United-States---San-Mateo-CA/Software-Engineer---Cloud_JR_14588",
@@ -343556,5 +343556,87 @@
         "degrees": [
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Further",
+        "id": "9ff1a230-52f7-4f03-91a4-1263445491ec",
+        "title": "Graduate Leadership Program - AI/Data Engineer",
+        "active": true,
+        "date_updated": 1781083275,
+        "date_posted": 1781083110,
+        "url": "https://job-boards.greenhouse.io/furtherearlycareer/jobs/8384023002",
+        "locations": [
+            "Cleveland, OH",
+            "Dallas, TX",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Further",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Further",
+        "id": "1779c6f7-900e-4cab-8205-1cd90b9853c7",
+        "title": "Entry Level Software Developer \u2013 Graduate Leadership Program",
+        "active": true,
+        "date_updated": 1781083275,
+        "date_posted": 1781083110,
+        "url": "https://job-boards.greenhouse.io/furtherearlycareer/jobs/8384012002",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Further",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Fuze Health",
+        "id": "7d8768dc-f8bf-486b-bcea-cb2578964f69",
+        "title": "Graduate Software Engineer",
+        "active": true,
+        "date_updated": 1781082556,
+        "date_posted": 1781082468,
+        "url": "https://job-boards.eu.greenhouse.io/fuzehealth/jobs/4833389101",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Fuze-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Authorium",
+        "id": "4fcc1403-63ec-409f-9fda-0bac3a85749d",
+        "title": "Software Enginner New Grad",
+        "active": true,
+        "date_updated": 1781082870,
+        "date_posted": 1781082372,
+        "url": "https://jobs.ashbyhq.com/Authorium/e9384068-af40-47b2-83cf-ec76fd8b7222/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Authorium",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
