@@ -37267,44 +37267,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Camlin",
-        "id": "d91bdb1f-6fc2-48b8-bf18-b77b1fb8d8b6",
-        "title": "Software Engineer",
-        "active": false,
-        "date_updated": 1762929556,
-        "date_posted": 1760371502,
-        "url": "https://ats.rippling.com/camlin-careers/jobs/69fb6d08-f069-4459-82e5-0b4c1763bf8f",
-        "locations": [
-            "Belfast, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Camlin",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Camlin",
-        "id": "1e0a1dca-758c-4417-b780-d83ff29dfa5b",
-        "title": "Data Analyst - 12 Month Student Placement",
-        "active": false,
-        "date_updated": 1761832381,
-        "date_posted": 1760371492,
-        "url": "https://ats.rippling.com/camlin-careers/jobs/69a0aa64-6fb6-43b0-b668-b83d18790c6e",
-        "locations": [
-            "Belfast, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Camlin",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Osaic",
         "id": "ac6ab757-7b74-4b95-8705-624672e3c12c",
         "title": "Systems Engineer 1",
