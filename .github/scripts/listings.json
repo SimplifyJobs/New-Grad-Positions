@@ -224271,7 +224271,7 @@
         "company_name": "Avnet",
         "id": "0374d942-8b19-45e9-8850-322095453a57",
         "title": "Associate Field Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773959504,
         "date_posted": 1773959504,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -311269,7 +311269,7 @@
         "company_name": "Quince",
         "id": "69d19395-d090-4600-b5c1-67134602eb6b",
         "title": "Software Development Engineer New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1779316065,
         "date_posted": 1779315237,
         "url": "https://job-boards.greenhouse.io/quince/jobs/5226786008",
@@ -340984,7 +340984,7 @@
         "company_name": "Huntington Bancshares",
         "id": "6ba5380a-7185-4ffb-b79d-502af659a913",
         "title": "Technology Delivery Analyst - Elevate",
-        "active": true,
+        "active": false,
         "date_updated": 1780958162,
         "date_posted": 1780956468,
         "url": "https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Technology-Delivery-Analyst--Elevate-_R0072678",
@@ -341272,7 +341272,7 @@
         "company_name": "Guidewire",
         "id": "26c16d82-bbf0-4710-9c0b-056a9c652215",
         "title": "Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1780967426,
         "date_posted": 1780967182,
         "url": "https://guidewire.wd5.myworkdayjobs.com/external/job/United-States---San-Mateo-CA/Software-Engineer---Cloud_JR_14588",
@@ -341292,7 +341292,7 @@
         "company_name": "Guidewire",
         "id": "c63b87e8-84a1-4497-b097-99f150e6b23b",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1780985226,
         "date_posted": 1780985153,
         "url": "https://wd5.myworkdaysite.com/en-US/recruiting/guidewire/external/job/United-States---San-Mateo-CA/Software-Engineer---Cloud_JR_14588",
@@ -343985,5 +343985,65 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Sysmex",
+        "id": "d42e29eb-3c25-48fc-8919-aae7c8950173",
+        "title": "Technician - Field Service - Regional",
+        "active": true,
+        "date_updated": 1781129161,
+        "date_posted": 1781129099,
+        "url": "https://careers-sysmex.icims.com/jobs/4709/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Sysmex",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Enbridge",
+        "id": "44ead2b8-0be4-45c8-93ff-8ee2ebbaf598",
+        "title": "Leak Detection Engineer in Training 2",
+        "active": true,
+        "date_updated": 1781129437,
+        "date_posted": 1781129157,
+        "url": "https://enbridge.wd3.myworkdayjobs.com/enbridge_careers/job/Edmonton-AB-CAN/Leak-Detection-Engineer-in-Training-II_71587-2",
+        "locations": [
+            "Calgary, AB, Canada",
+            "Edmonton, AB, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Enbridge",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Optiver",
+        "id": "6ae01df6-0806-478f-8d45-3532d0fc2704",
+        "title": "Data Center Engineer",
+        "active": true,
+        "date_updated": 1781129161,
+        "date_posted": 1778796375,
+        "url": "https://www.optiver.com/join-us/jobs/8460733002/?gh_jid=8460733002",
+        "locations": [
+            "Durham, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Optiver",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
