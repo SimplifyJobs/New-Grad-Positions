@@ -1,26 +1,5 @@
 [
     {
-        "date_updated": 1765980595,
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "degrees": [
-            "Master's"
-        ],
-        "url": "https://careers.adobe.com/us/en/job/ADOBUSR158639EXTERNALENUS/2026-University-Graduate-AI-Context-Engineer",
-        "company_name": "Adobe",
-        "title": "AI Context Engineer",
-        "locations": [
-            "San Jose, CA",
-            "San Francisco, CA"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "AlmondCroffle",
-        "id": "a2c9e6fa-3eb2-462f-905a-8d1efb489643",
-        "date_posted": 1760362966,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "date_updated": 1760379265,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
@@ -330035,7 +330014,7 @@
         "company_name": "Huntington Bancshares",
         "id": "420a1731-d505-44d6-af67-bf45748352a2",
         "title": "Technology Delivery Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1780353001,
         "date_posted": 1780351688,
         "url": "https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Technology-Delivery-Analyst--Elevate-_R0072628",
@@ -340038,7 +340017,7 @@
         "company_name": "Huntington Bancshares",
         "id": "2d696ff0-1281-4fff-8e18-5dd919f8b62e",
         "title": "Technology Delivery Analyst - Elevate",
-        "active": true,
+        "active": false,
         "date_updated": 1780927933,
         "date_posted": 1780927630,
         "url": "https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Technology-Delivery-Analyst--Elevate-_R0072671",
@@ -343704,7 +343683,7 @@
         "company_name": "Confluence Technologies",
         "id": "5af2268a-ff2d-4b13-b566-d3b9f116ae9c",
         "title": "Data Engineer Associate - Data Platform - Data Pipelines",
-        "active": true,
+        "active": false,
         "date_updated": 1781082868,
         "date_posted": 1781082374,
         "url": "https://confluence.pinpointhq.com/en/postings/fcbb93f0-38bb-42ba-8f6e-e0141576d0d7?ats=pinpointhq",
@@ -343725,7 +343704,7 @@
         "company_name": "Confluence Technologies",
         "id": "42d98db9-45a7-44a3-8523-8592fa082317",
         "title": "Associate Data Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1781082556,
         "date_posted": 1781082374,
         "url": "https://confluence.pinpointhq.com/en/postings/08e3100e-587f-49b2-be68-98aec8233668?ats=pinpointhq",
