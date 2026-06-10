@@ -224664,7 +224664,7 @@
         "company_name": "Avnet",
         "id": "0374d942-8b19-45e9-8850-322095453a57",
         "title": "Associate Field Application Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773959504,
         "date_posted": 1773959504,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -225403,7 +225403,7 @@
         "company_name": "Avnet",
         "id": "49997310-9583-4e8c-981a-385b75e55815",
         "title": "Associate Field Application Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773959504,
         "date_posted": 1773959504,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Wilmington-Massachusetts-United-States-of-America/Associate-Field-Application-Engineer_JR-022067",
@@ -308133,7 +308133,7 @@
         "company_name": "WeRide",
         "id": "2258ed49-6db7-4693-8fff-d59b54388302",
         "title": "New Grads - Software Engineer - Computer Vision",
-        "active": true,
+        "active": false,
         "date_updated": 1769028031,
         "date_posted": 1769028031,
         "url": "https://jobs.lever.co/weride/d87ddf51-0def-436f-a178-135481b88f96/apply",
@@ -321414,7 +321414,7 @@
         "company_name": "Apex Fintech Solutions",
         "id": "2bbd1cef-2113-4e70-b11d-af7ec1d16701",
         "title": "Software Engineer 1 - Aldp",
-        "active": true,
+        "active": false,
         "date_updated": 1779826685,
         "date_posted": 1779401109,
         "url": "https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions/job/Austin-TX/Software-Engineer-I--ALDP-_JR103501",
@@ -322174,7 +322174,7 @@
         "company_name": "LexisNexis Risk Solutions",
         "id": "f7292aa6-7328-4d24-92dd-1c877cb86dce",
         "title": "Solutions Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1779876631,
         "date_posted": 1778922100,
         "url": "https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/United-Kingdom/Solutions-Analyst_R109322",
@@ -330878,7 +330878,7 @@
         "company_name": "General Motors",
         "id": "95fe52bd-6718-4467-a2b0-76f1071db57d",
         "title": "Software Developer - Test Framework",
-        "active": true,
+        "active": false,
         "date_updated": 1780352904,
         "date_posted": 1780351604,
         "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Markham-Ontario-Canada/Early-Career-Software-Developer---Test-Framework_JR-202612062",
@@ -330920,7 +330920,7 @@
         "company_name": "Avnet",
         "id": "013d5015-8b47-41a8-b665-239f9ca74772",
         "title": "Software Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1780351561,
         "date_posted": 1780351528,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Tempe-Arizona-United-States-Of-America/Software-Developer_JR-022614",
@@ -339141,7 +339141,7 @@
         "company_name": "CPI Security",
         "id": "43395721-7ee3-4dcf-a055-689297c3edbb",
         "title": "Residential Installation Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1780794636,
         "date_posted": 1780697232,
         "url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4687294006",
@@ -341556,7 +341556,7 @@
         "company_name": "EOS IT Solutions",
         "id": "0553744e-da0d-430e-9366-897f4008da27",
         "title": "Data Center Repair Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1780967341,
         "date_posted": 1780967275,
         "url": "https://eosits.com/company/careers/?gh_jid=8569691002",
@@ -341665,7 +341665,7 @@
         "company_name": "Guidewire",
         "id": "26c16d82-bbf0-4710-9c0b-056a9c652215",
         "title": "Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1780967426,
         "date_posted": 1780967182,
         "url": "https://guidewire.wd5.myworkdayjobs.com/external/job/United-States---San-Mateo-CA/Software-Engineer---Cloud_JR_14588",
@@ -341685,7 +341685,7 @@
         "company_name": "Guidewire",
         "id": "c63b87e8-84a1-4497-b097-99f150e6b23b",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1780985226,
         "date_posted": 1780985153,
         "url": "https://wd5.myworkdaysite.com/en-US/recruiting/guidewire/external/job/United-States---San-Mateo-CA/Software-Engineer---Cloud_JR_14588",
@@ -343271,6 +343271,151 @@
             "Bachelor's",
             "Master's",
             "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "NVIDIA",
+        "id": "a81209b2-4977-46bc-aab8-0a3f47a2ce3f",
+        "title": "GPU Architect \u2013 New College Grad",
+        "active": true,
+        "date_updated": 1781053946,
+        "date_posted": 1781053717,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/GPU-Architect---New-College-Grad-2026_JR2019445",
+        "locations": [
+            "California",
+            "Santa Clara, CA",
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "FluidStack",
+        "id": "83145e5f-6fe0-4398-9ced-5ffaed026d6e",
+        "title": "Level 1 Data Center Technician",
+        "active": true,
+        "date_updated": 1781054534,
+        "date_posted": 1781053761,
+        "url": "https://jobs.ashbyhq.com/fluidstack/eddc2d81-1f1e-45e6-ba67-54bc64431a75/application",
+        "locations": [
+            "Lubbock, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Fluidstack",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SpaceX",
+        "id": "ab5425fe-34cf-4b24-ace3-73fdb7eb3b44",
+        "title": "Software Engineer - Test Infrastructure - Application Software",
+        "active": true,
+        "date_updated": 1781053741,
+        "date_posted": 1781053721,
+        "url": "https://boards.greenhouse.io/spacex/jobs/8585072002",
+        "locations": [
+            "West Athens, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/SpaceX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "KLA Corporation",
+        "id": "1995623f-8e76-4000-a296-e7c737caff44",
+        "title": "Software Engineer - Embedded Software/Firmware Development - Embedded Image Processing",
+        "active": true,
+        "date_updated": 1781053741,
+        "date_posted": 1781053662,
+        "url": "https://kla.wd1.myworkdayjobs.com/search/job/Ann-Arbor-MI/Software-Engineer---Embedded-Software-Firmware-Development---Embedded-Image-Processing--_2636711-1",
+        "locations": [
+            "Ann Arbor, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/KLA-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Internet Brands",
+        "id": "18788f91-db0c-454b-bf56-c658db940ecc",
+        "title": "Associate AI Software Engineer",
+        "active": true,
+        "date_updated": 1781054292,
+        "date_posted": 1781053789,
+        "url": "https://jobs.jobvite.com/internetbrands/job/o5zbAfw9?nl=1&nl=1&fr=false",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Internet-Brands",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "KLA Corporation",
+        "id": "4e49b75b-8d0c-4303-9116-f609c29b3324",
+        "title": "Software Engineer - Embedded Software/Firmware Development - Embedded Image Processing",
+        "active": true,
+        "date_updated": 1781053741,
+        "date_posted": 1781053631,
+        "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Ann-Arbor-MI/Software-Engineer---Embedded-Software-Firmware-Development---Embedded-Image-Processing--_2636711",
+        "locations": [
+            "Ann Arbor, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/KLA-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Semtech",
+        "id": "6484f1f6-5a5d-4015-959c-f018f4567aaa",
+        "title": "Field Application Engineer - Semiconductor",
+        "active": true,
+        "date_updated": 1781053561,
+        "date_posted": 1781053517,
+        "url": "https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/USA---San-Jose-CA/Field-Application-Engineer_REQ3375-1",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Semtech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
