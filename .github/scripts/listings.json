@@ -151767,7 +151767,7 @@
         "company_name": "ElevenLabs",
         "id": "2cd12ae6-328a-40e8-8e17-4086d0867044",
         "title": "Full-Stack Engineer - Front-End Leaning",
-        "active": true,
+        "active": false,
         "date_updated": 1770284606,
         "date_posted": 1761876499,
         "url": "https://jobs.ashbyhq.com/elevenlabs/ada7cd2c-8b9f-4f19-a88b-7c2ca1be1fde/application",
@@ -332088,7 +332088,7 @@
         "company_name": "AHEAD",
         "id": "2fa4c836-7d24-4820-ae2c-9da8b36fc885",
         "title": "Product Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1780439406,
         "date_posted": 1780438087,
         "url": "https://jobs.lever.co/thinkahead/e7ad3413-bcb6-4c19-9632-89ad7b5e5146/apply",
@@ -335343,7 +335343,7 @@
         "company_name": "Reach Financial",
         "id": "39349736-2696-42cf-9e4b-deaf9d2b3246",
         "title": "Credit Risk Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1780526126,
         "date_posted": 1780525423,
         "url": "https://job-boards.greenhouse.io/reach/jobs/8573228002",
@@ -339141,7 +339141,7 @@
         "company_name": "CPI Security",
         "id": "43395721-7ee3-4dcf-a055-689297c3edbb",
         "title": "Residential Installation Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1780794636,
         "date_posted": 1780697232,
         "url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4687294006",
@@ -340673,7 +340673,7 @@
         "company_name": "University of Arkansas",
         "id": "2b58866e-0bee-4fc4-81c4-8bbfbd225c71",
         "title": "AI Researcher - Y. Ramena",
-        "active": true,
+        "active": false,
         "date_updated": 1780956613,
         "date_posted": 1780956240,
         "url": "https://uasys.wd5.myworkdayjobs.com/uasys/job/University-of-Arkansas-at-Pine-Bluff/Extra-Help-AI-Researcher-x-2---Y-Ramena_R0086658",
@@ -343517,6 +343517,44 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ElevenLabs",
+        "id": "36feec19-d2ff-4a75-aa63-52340e2b4181",
+        "title": "Full-Stack Engineer - Back-End Leaning",
+        "active": true,
+        "date_updated": 1781080201,
+        "date_posted": 1761896736,
+        "url": "https://jobs.ashbyhq.com/elevenlabs/c7d59014-b918-4c15-ae33-79f5c9f2cf9f/application",
+        "locations": [
+            "Remote in UK"
+        ],
+        "company_url": "https://simplify.jobs/c/ElevenLabs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Intel",
+        "id": "281d456a-7a99-4168-bca5-f4afe8dbf3d0",
+        "title": "Module Development Engineer - Advanced Packaging",
+        "active": true,
+        "date_updated": 1781080269,
+        "date_posted": 1780956453,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Module-Development-Engineer--Adv-Packaging-_JR0284566",
+        "locations": [
+            "Hillsboro, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
         ]
     }
 ]
