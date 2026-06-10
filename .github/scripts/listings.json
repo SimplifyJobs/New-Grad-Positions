@@ -1,46 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Jerry",
-        "id": "91d6eb05-efb8-4ee9-9eca-987fb2a77b26",
-        "title": "Software Engineer 1 - Multiple Teams",
-        "active": false,
-        "date_updated": 1760396742,
-        "date_posted": 1760396742,
-        "url": "https://jobs.ashbyhq.com/jerry.ai/4bc86af6-43aa-433a-bcde-e4c007823ce4/application",
-        "locations": [
-            "Toronto, ON, Canada",
-            "Greater Toronto Area, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Jerry",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Jerry",
-        "id": "81375da9-7d36-4e2a-9e8d-4fb973bf247f",
-        "title": "Software Engineer 1 - Multiple Teams",
-        "active": false,
-        "date_updated": 1760396742,
-        "date_posted": 1760396742,
-        "url": "https://jobs.ashbyhq.com/jerry.ai/8e6b9a39-2ef0-4016-b513-dc54a2048b6d/application",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Jerry",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "date_updated": 1760465226,
         "sponsorship": "Other",
         "active": true,
@@ -3920,25 +3879,6 @@
             "Austin, TX"
         ],
         "company_url": "https://simplify.jobs/c/Apple",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Fireworks AI",
-        "id": "da9805f7-0c21-4388-aecf-44758b8e3842",
-        "title": "Software Engineer \u2013 Early Career - Cloud Infrastructure",
-        "active": false,
-        "date_updated": 1760486475,
-        "date_posted": 1760397777,
-        "url": "https://job-boards.greenhouse.io/fireworksai/jobs/4036755009",
-        "locations": [
-            "San Carlos, CA",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Fireworks-AI",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -38077,7 +38017,7 @@
         "company_name": "Adobe",
         "id": "d3b68096-43ee-4401-8f01-bb4434e599ef",
         "title": "University Graduate - Research Scientist/Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1762918520,
         "date_posted": 1761907928,
         "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Research-Scientist-Engineer_R160690",
@@ -344645,6 +344585,322 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Aptiv",
+        "id": "eca47c4c-7460-4893-b6c5-5d47df6c8040",
+        "title": "Embedded Software Engineer - Next RTOS",
+        "active": true,
+        "date_updated": 1781130241,
+        "date_posted": 1781129298,
+        "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Embedded-Software-Engineer---Wind-River-Next-RTOS_J000699519",
+        "locations": [
+            "Kanata, Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Aptiv",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Truist Bank",
+        "id": "de5b1990-b083-404c-bd80-058800f14942",
+        "title": "Java Software Engineer 1 - Full-Stack - Financial Crimes",
+        "active": true,
+        "date_updated": 1781130804,
+        "date_posted": 1781129457,
+        "url": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Raleigh-NC/Java-Software-Engineer-I---Full-Stack----Financial-Crimes_R0115229",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Truist-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Boeing Company",
+        "id": "6805ad41-b94a-44ef-9bac-4bb826f84abb",
+        "title": "Linux System Administrator - Associate",
+        "active": true,
+        "date_updated": 1781130241,
+        "date_posted": 1781129480,
+        "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Seal-Beach-CA/Linux-System-Administrator--Associate-_JR2026514382",
+        "locations": [
+            "Seal Beach, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "MiTek",
+        "id": "5c0366e3-a45c-4800-a602-ce3f215f68e3",
+        "title": "Supply Chain Data Analyst 1",
+        "active": true,
+        "date_updated": 1781130285,
+        "date_posted": 1781129259,
+        "url": "https://mii.wd5.myworkdayjobs.com/MiTek/job/StCharles-MO-USA/Supply-Chain-Data-Analyst-I_R06378",
+        "locations": [
+            "St Charles, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/MiTek",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Boeing Company",
+        "id": "337cc959-7b73-48b1-a554-663f5dadf462",
+        "title": "Linux System Administrator - Associate",
+        "active": true,
+        "date_updated": 1781130241,
+        "date_posted": 1781129496,
+        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seal-Beach-CA/Linux-System-Administrator--Associate-_JR2026514382-1",
+        "locations": [
+            "Seal Beach, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Peregrine",
+        "id": "0469baa7-6bac-4434-860f-795b5207c1aa",
+        "title": "Software Engineer - Data Governance",
+        "active": true,
+        "date_updated": 1781130241,
+        "date_posted": 1781129460,
+        "url": "https://job-boards.greenhouse.io/peregrinetechnologies/jobs/4704801005",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Peregrine-Tech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "iCapital Network",
+        "id": "c710f8f9-9a7a-4286-81f6-eae6998ab598",
+        "title": "Alternative Data Management Analyst",
+        "active": true,
+        "date_updated": 1781130941,
+        "date_posted": 1781129577,
+        "url": "https://job-boards.greenhouse.io/icapitalnetwork/jobs/8586151002",
+        "locations": [
+            "Stamford, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/ICapital-Network",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SpaceX",
+        "id": "9c5494a4-fb44-4218-bc4d-4a41e1f6f607",
+        "title": "Software Engineer - Hardware-in-the-Loop - Starlink",
+        "active": true,
+        "date_updated": 1781130241,
+        "date_posted": 1781129274,
+        "url": "https://boards.greenhouse.io/spacex/jobs/8583074002",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/SpaceX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "The Boeing Company",
+        "id": "6e492c59-b74c-4063-9fb0-74a7dd8aa10f",
+        "title": "DSP Algorithms Engineer \u2013 Associate or Mid-Level",
+        "active": true,
+        "date_updated": 1781130241,
+        "date_posted": 1781129479,
+        "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---El-Segundo-CA/DSP-Algorithms-Engineer--Associate-or-Mid-Level-_JR2026512386",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Slingshot AI",
+        "id": "d2ead321-1f02-4f12-bf38-e158159c397b",
+        "title": "Associate Member of Technical Staff - Product Team",
+        "active": true,
+        "date_updated": 1781130241,
+        "date_posted": 1781129350,
+        "url": "https://jobs.ashbyhq.com/slingshotai/2ff82ef5-4c42-41d4-8212-ad47be534bb0/application",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Slingshot-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Texas A&M University System",
+        "id": "cae94896-ee37-47f1-96c5-c578f5bbe7ad",
+        "title": "Graduate Assistant Non-Teaching - Institutional Research and Data Analysis",
+        "active": true,
+        "date_updated": 1781129533,
+        "date_posted": 1781129201,
+        "url": "https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/Prairie-View-TX/Graduate-Assistant-Non-Teaching---Institutional-Research-and-Data-Analysis_R-090807",
+        "locations": [
+            "Prairie View, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Texas-AM-University-System",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amgen",
+        "id": "a694adca-179c-44e9-86be-f1f3f3d8f198",
+        "title": "Principal Software Engineer",
+        "active": true,
+        "date_updated": 1781130156,
+        "date_posted": 1781129212,
+        "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/US---Florida---Tampa/Principal-Software-Engineer_R-240843",
+        "locations": [
+            "Tampa, FL",
+            "Thousand Oaks, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amgen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "doTERRA",
+        "id": "973f4559-64c1-439c-b1c3-6702db8c9942",
+        "title": "Business Data Analyst 1",
+        "active": true,
+        "date_updated": 1781130786,
+        "date_posted": 1781129449,
+        "url": "https://doterra.wd1.myworkdayjobs.com/doTERRACareers/job/Pleasant-Grove-UT/Business-Data-Analyst-I_JR2463",
+        "locations": [
+            "American Fork, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/DoTERRA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "iCapital Network",
+        "id": "8bc6b735-2c2e-4433-8242-a5cc3b0406b6",
+        "title": "Alternative Data Management Analyst",
+        "active": true,
+        "date_updated": 1781130939,
+        "date_posted": 1781129577,
+        "url": "https://job-boards.greenhouse.io/icapitalnetwork/jobs/8586138002",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/ICapital-Network",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Arize AI",
+        "id": "d9be5c64-46d9-4537-8703-2cf1bf0f719e",
+        "title": "Forward Deployed AI Engineer",
+        "active": true,
+        "date_updated": 1781130241,
+        "date_posted": 1778537729,
+        "url": "https://job-boards.greenhouse.io/arizeai/jobs/5993755004",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/ArizeAI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Harbor",
+        "id": "d2c0bf0b-c723-408a-83fd-9a51cb89a1f6",
+        "title": "Corporate Legal Technology Consultant - Discovery and Data Management",
+        "active": true,
+        "date_updated": 1781130962,
+        "date_posted": 1774649208,
+        "url": "https://job-boards.greenhouse.io/harborglobal/jobs/5091441007",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Harbor",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
