@@ -1,42 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Aurora Innovation",
-        "id": "4111e6c0-b494-4c0a-a3bd-c2361bf7fb4a",
-        "title": "Software Engineer 1 - Remote Assist",
-        "active": false,
-        "date_updated": 1760640644,
-        "date_posted": 1760385199,
-        "url": "https://aurora.tech/jobs/8209480002?gh_jid=8209480002",
-        "locations": [
-            "Pittsburgh, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Aurora-Innovation",
-        "is_visible": false,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Aurora Innovation",
-        "id": "11a24614-aae6-401d-b591-ee36aef2bd4c",
-        "title": "Software Engineer 1 - Remote Assist",
-        "active": false,
-        "date_updated": 1760640623,
-        "date_posted": 1760385202,
-        "url": "https://aurora.tech/jobs/8191750002?gh_jid=8191750002",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Aurora-Innovation",
-        "is_visible": false,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "The Boeing Company",
         "id": "83414be6-2f14-4ddc-934e-e2f8b5898baf",
@@ -37184,64 +37148,6 @@
             "Midland, TX"
         ],
         "company_url": "https://simplify.jobs/c/ChampionX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Camlin",
-        "id": "7bb1254f-150c-4d81-aa18-b93c85ce5cb1",
-        "title": "Information Security Management System (ISMS)  - 12 Month Student Placement",
-        "active": false,
-        "date_updated": 1761836548,
-        "date_posted": 1760385626,
-        "url": "https://ats.rippling.com/camlin-careers/jobs/a3e71a7a-31ea-47ce-8a91-e39ca8c1e059",
-        "locations": [
-            "Belfast, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Camlin",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Amazon",
-        "id": "1a1c2cd7-9820-42be-9962-aed221f0a1a4",
-        "title": "Agentic AI Teacher - AGI Data Services",
-        "active": false,
-        "date_updated": 1760384115,
-        "date_posted": 1760384115,
-        "url": "https://amazon.jobs/en/jobs/3105047/agentic-ai-teacher-agi-data-services",
-        "locations": [
-            "Boston, MA",
-            "Bellevue, WA",
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Amazon",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Amazon",
-        "id": "8ea7eefb-9a29-4879-9c2a-47bba56e6b31",
-        "title": "Agentic AI Teacher - AGI Data Services",
-        "active": false,
-        "date_updated": 1760384120,
-        "date_posted": 1760384120,
-        "url": "https://amazon.jobs/en/jobs/3105132/agentic-ai-teacher-agi-data-services",
-        "locations": [
-            "Boston, MA",
-            "Bellevue, WA",
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Amazon",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
