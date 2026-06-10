@@ -1,41 +1,5 @@
 [
     {
-        "date_updated": 1760367907,
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "degrees": [],
-        "url": "https://www.quinstreet.com/careers/?gh_jid=7316288",
-        "company_name": "QuinStreet",
-        "title": "Entry-level Software Engineer",
-        "locations": [
-            "Foster City, CA"
-        ],
-        "category": "Software Engineering",
-        "source": "Simplify",
-        "id": "fe1aadb7-e235-4048-b5de-218bf8076a02",
-        "date_posted": 1760367907,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1760481332,
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "degrees": [],
-        "url": "https://job-boards.greenhouse.io/appian/jobs/7287884",
-        "company_name": "Appian",
-        "title": "Product Engineer",
-        "locations": [
-            "McLean, VA"
-        ],
-        "category": "Software Engineering",
-        "source": "Simplify",
-        "id": "874d35ea-9bab-45fa-842c-c3c60eedf72b",
-        "date_posted": 1760368106,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "source": "Simplify",
         "category": "Software",
         "company_name": "Aurora Innovation",
@@ -127713,7 +127677,7 @@
         "company_name": "Formlabs",
         "id": "f90d529d-abb6-48d1-8370-d54daebe40f5",
         "title": "3D Digital Manufacturing Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1769028750,
         "date_posted": 1769028750,
         "url": "https://careers.formlabs.com/job/7552704/apply/?gh_jid=7552704",
@@ -343731,7 +343695,7 @@
         "company_name": "Confluence Technologies",
         "id": "f11862e3-75d2-4624-b6ae-6b8d56a70f86",
         "title": "Data Engineer Associate - Data Platform - Data Pipelines",
-        "active": true,
+        "active": false,
         "date_updated": 1781082873,
         "date_posted": 1781082374,
         "url": "https://confluence.pinpointhq.com/en/postings/f12906e8-b751-442d-9f52-05c053e1e67a?ats=pinpointhq",
