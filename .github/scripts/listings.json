@@ -326174,7 +326174,7 @@
         "company_name": "Howden",
         "id": "ed0cdea7-60b4-4ecf-84ec-32fc477a3b7e",
         "title": "Pricing Graduate",
-        "active": false,
+        "active": true,
         "date_updated": 1779961225,
         "date_posted": 1779959682,
         "url": "https://hyperiongrp.wd3.myworkdayjobs.com/Hyperion_External/job/Pricing-Graduate_R0015065-1",
@@ -338537,7 +338537,7 @@
         "company_name": "Slingshot AI",
         "id": "fa4ffb68-bf57-4be1-b89d-141b032aa96d",
         "title": "AI Native Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1780841524,
         "date_posted": 1780841242,
         "url": "https://jobs.ashbyhq.com/slingshotai/0c62624f-f64d-4a17-9dc3-9abecabed5a3/application",
@@ -344971,5 +344971,25 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "EquipmentShare",
+        "id": "e2881f70-d0a1-4f46-bf22-b6f1c310c40b",
+        "title": "Telematics Installer",
+        "active": true,
+        "date_updated": 1781171642,
+        "date_posted": 1779931408,
+        "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=7962113",
+        "locations": [
+            "Columbus, MS"
+        ],
+        "company_url": "https://simplify.jobs/c/Equipment-Share",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Certificate"
+        ]
     }
 ]
