@@ -36562,42 +36562,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "D2 Consulting",
-        "id": "dba287e6-a2c4-472e-81f1-82f164d0ab78",
-        "title": "Deployment/Hardware Engineer - Skillbridge Fellowship",
-        "active": false,
-        "date_updated": 1761264326,
-        "date_posted": 1760415634,
-        "url": "https://job-boards.greenhouse.io/d2consulting/jobs/4522989008",
-        "locations": [
-            "Fort Belvoir, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/D2-Consulting",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "L3Harris Technologies",
-        "id": "f6caa1be-8cef-42af-893a-01a54454d12c",
-        "title": "DoD Skillbridge",
-        "active": false,
-        "date_updated": 1762917244,
-        "date_posted": 1760415150,
-        "url": "https://jobs.l3harris.com/job/Offutt-AFB-(DoD-SkillBridge),-RC-135-Mission-Systems-Computer-Systems-Administrator-NE-68113/1322034000/?ats=successfactors",
-        "locations": [
-            "Offutt AFB, NE"
-        ],
-        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Trillium",
         "id": "eb01af5e-cdad-4ff4-aee0-7f0aded3e35b",
@@ -339956,7 +339920,7 @@
         "company_name": "RTX",
         "id": "3c293010-be3d-4c58-9966-ccad58dae59f",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1780960346,
         "date_posted": 1780956621,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-ANDOVER-AN0--366-Lowell-St--BLDG-AN0/XMLNAME-2026-Raytheon-Full-Time---Software-Engineer-I---Andover--MA--Onsite-_01850579",
