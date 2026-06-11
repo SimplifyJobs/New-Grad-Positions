@@ -2,44 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "RTX",
-        "id": "cad3e332-fd1e-4aa5-9152-348f0812cd98",
-        "title": "2025 Fulltime Raytheon Software Engineer I - Test Equipment - Onsite",
-        "active": false,
-        "date_updated": 1760477054,
-        "date_posted": 1760477054,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/AZ201-RMS-AP-Bldg-801-1151-East-Hermans-Road-Building-801-Tucson-AZ-85756-USA/XMLNAME-2025-Fulltime-Raytheon-Software-Engineer-I---Test-Equipment---Onsite_01799429",
-        "locations": [
-            "Tucson, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "NVIDIA",
-        "id": "3d39f8ac-1b07-477e-ba27-9e224228e167",
-        "title": "Deep Learning Software Engineer \u2013 New College Grad 2025 - Inference and Model Optimization",
-        "active": false,
-        "date_updated": 1761562417,
-        "date_posted": 1760476888,
-        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Software-Engineer--Inference-and-Model-Optimization---New-College-Grad-2025_JR2004584",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/NVIDIA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "General Dynamics Mission Systems",
         "id": "e5e5ac5c-5851-4ec2-a6f9-e8ad1a41540d",
         "title": "Software Engineer \u2013 Entry Level",
@@ -316521,7 +316483,7 @@
         "company_name": "Pennsylvania State University",
         "id": "097e6f0a-f138-4f9e-abd2-f1b4cf736b44",
         "title": "Research Assistant - Quality Talk",
-        "active": true,
+        "active": false,
         "date_updated": 1779821282,
         "date_posted": 1778945995,
         "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Research-Assistant---Quality-Talk_REQ_0000078270-1",
@@ -332871,7 +332833,7 @@
         "company_name": "Albertsons",
         "id": "0720bddd-8433-4879-9add-fee7b954416b",
         "title": "Entry Level Frontend Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1781004087,
         "date_posted": 1780495680,
         "url": "https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/718439",
@@ -333096,7 +333058,7 @@
         "company_name": "Advanced Technology Services",
         "id": "24510c03-3b39-4878-a00a-748b18799aea",
         "title": "Calibration - Metrology Technician l",
-        "active": true,
+        "active": false,
         "date_updated": 1780524913,
         "date_posted": 1777331482,
         "url": "https://job-boards.greenhouse.io/advancedtechnologyservices/jobs/4675951006",
