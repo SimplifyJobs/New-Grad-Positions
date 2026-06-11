@@ -326021,7 +326021,7 @@
         "company_name": "JP Morgan Chase",
         "id": "8a0bb292-c899-4d22-9f56-18c57402a57e",
         "title": "AI Agents Applied Engineer Senior Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1779959534,
         "date_posted": 1775610554,
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210733723",
@@ -344906,6 +344906,26 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "98d9b4b0-6fc1-4d5a-bc87-f9fa53c75a5c",
+        "title": "Data Scientist Graduate - TikTok Shop DS",
+        "active": true,
+        "date_updated": 1773093233,
+        "date_posted": 1773093233,
+        "url": "https://lifeattiktok.com/search/7535381998677739784",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
