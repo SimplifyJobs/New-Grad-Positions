@@ -5308,7 +5308,7 @@
         "company_name": "Axon",
         "id": "d79bd3b7-c1d4-4bbd-913f-b004edba607b",
         "title": "Embedded Software Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1762441004,
         "date_posted": 1762441004,
         "url": "https://job-boards.greenhouse.io/axon/jobs/6289451003",
@@ -224137,7 +224137,7 @@
         "company_name": "Avnet",
         "id": "0374d942-8b19-45e9-8850-322095453a57",
         "title": "Associate Field Application Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773959504,
         "date_posted": 1773959504,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -224876,7 +224876,7 @@
         "company_name": "Avnet",
         "id": "49997310-9583-4e8c-981a-385b75e55815",
         "title": "Associate Field Application Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773959504,
         "date_posted": 1773959504,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Wilmington-Massachusetts-United-States-of-America/Associate-Field-Application-Engineer_JR-022067",
@@ -321647,7 +321647,7 @@
         "company_name": "LexisNexis Risk Solutions",
         "id": "f7292aa6-7328-4d24-92dd-1c877cb86dce",
         "title": "Solutions Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1779876631,
         "date_posted": 1778922100,
         "url": "https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/United-Kingdom/Solutions-Analyst_R109322",
@@ -330393,7 +330393,7 @@
         "company_name": "Avnet",
         "id": "013d5015-8b47-41a8-b665-239f9ca74772",
         "title": "Software Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1780351561,
         "date_posted": 1780351528,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Tempe-Arizona-United-States-Of-America/Software-Developer_JR-022614",
@@ -334816,7 +334816,7 @@
         "company_name": "Reach Financial",
         "id": "39349736-2696-42cf-9e4b-deaf9d2b3246",
         "title": "Credit Risk Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1780526126,
         "date_posted": 1780525423,
         "url": "https://job-boards.greenhouse.io/reach/jobs/8573228002",
@@ -341138,7 +341138,7 @@
         "company_name": "Guidewire",
         "id": "26c16d82-bbf0-4710-9c0b-056a9c652215",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1780967426,
         "date_posted": 1780967182,
         "url": "https://guidewire.wd5.myworkdayjobs.com/external/job/United-States---San-Mateo-CA/Software-Engineer---Cloud_JR_14588",
@@ -341158,7 +341158,7 @@
         "company_name": "Guidewire",
         "id": "c63b87e8-84a1-4497-b097-99f150e6b23b",
         "title": "Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1780985226,
         "date_posted": 1780985153,
         "url": "https://wd5.myworkdaysite.com/en-US/recruiting/guidewire/external/job/United-States---San-Mateo-CA/Software-Engineer---Cloud_JR_14588",
@@ -344865,6 +344865,209 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Snap Finance",
+        "id": "b98ffd60-8c05-497e-9819-99c265323d17",
+        "title": "Full Stack Engineer",
+        "active": true,
+        "date_updated": 1781140281,
+        "date_posted": 1781139996,
+        "url": "https://snapfinance.wd1.myworkdayjobs.com/snap_external_careers/job/Arizona/Full-Stack-Engineer_R-2788",
+        "locations": [
+            "Arizona"
+        ],
+        "company_url": "https://simplify.jobs/c/3be8000e-c16e-4e18-a0d2-8af3b53e6f02",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Fashion Nova",
+        "id": "919faf35-649e-4802-98f3-ba18cfa2daec",
+        "title": "Product Development Coordinator",
+        "active": true,
+        "date_updated": 1781141041,
+        "date_posted": 1781140965,
+        "url": "https://job-boards.greenhouse.io/fashionnova/jobs/5497777",
+        "locations": [
+            "Culver City, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Fashion-Nova",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Manhattan District Attorney's Office",
+        "id": "fbc507b4-f388-457e-bd06-2b2092a7dad1",
+        "title": "Cryptocurrency Analyst",
+        "active": true,
+        "date_updated": 1781140417,
+        "date_posted": 1781140131,
+        "url": "https://fa-elzs-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3290",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Manhattan-District-Attorneys-Office",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Boeing Company",
+        "id": "aa9c212e-f12f-4f38-814a-62e422b0a714",
+        "title": "Software Engineer Associate - Test & Verification",
+        "active": true,
+        "date_updated": 1781140605,
+        "date_posted": 1781140220,
+        "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Hazelwood-MO/Associate-Software-Engineer---Test---Verification_JR2026511888",
+        "locations": [
+            "Hazelwood, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Stripe",
+        "id": "a55aca04-011d-41fa-949e-be14c4e3956f",
+        "title": "Software Engineer New Grad",
+        "active": true,
+        "date_updated": 1781140735,
+        "date_posted": 1781140488,
+        "url": "https://stripe.com/jobs/search?gh_jid=7991718",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Stripe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Finning",
+        "id": "9d9d0546-dd5c-4f7c-865f-c4d9a1ed420c",
+        "title": "Mining Technology Engineer",
+        "active": true,
+        "date_updated": 1781140141,
+        "date_posted": 1781140024,
+        "url": "https://finning.wd3.myworkdayjobs.com/External/job/Edmonton-AB-CA/Mining-Technology-Engineer_R-2026-2443",
+        "locations": [
+            "Edmonton, AB, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Finning",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Arizona State University",
+        "id": "5ebab3bb-8470-4d39-b277-ccfbd6e7bce9",
+        "title": "Sustainability Analyst",
+        "active": true,
+        "date_updated": 1781139961,
+        "date_posted": 1781139958,
+        "url": "https://asu.wd1.myworkdayjobs.com/ASUStaffCareers/job/Campus-Tempe/Sustainability-Analyst_JR122131",
+        "locations": [
+            "Tempe, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Arizona-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Mariana Minerals",
+        "id": "3f557233-184a-4541-b56e-dec514042429",
+        "title": "Machine Learning Engineer",
+        "active": true,
+        "date_updated": 1781140141,
+        "date_posted": 1781140141,
+        "url": "https://jobs.ashbyhq.com/marianaminerals/44c92dd6-55f2-4e44-9360-bf4676466dac/application",
+        "locations": [
+            "Houston, TX",
+            "SF",
+            "Ann Arbor, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Mariana-Minerals",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Applied Materials",
+        "id": "ad7d7867-e455-490d-8f63-f85d5e3e7490",
+        "title": "Data Scientist - Agentic AI / ML",
+        "active": true,
+        "date_updated": 1781140141,
+        "date_posted": 1781139980,
+        "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Data-Scientist---Agentic-AI---ML_R2621700",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Materials",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "JP Morgan Chase",
+        "id": "77c3487c-9952-46f2-abf3-09ffcc3bd473",
+        "title": "Applied AI ML Engineer Associate",
+        "active": true,
+        "date_updated": 1781140141,
+        "date_posted": 1781140061,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210757900",
+        "locations": [
+            "Columbus, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
