@@ -2,47 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Capital One",
-        "id": "195b7fb1-c9f4-4abb-a06b-62e68bc3ce4c",
-        "title": "Associate \u2013 New Grad - Software Engineer",
-        "active": false,
-        "date_updated": 1760473502,
-        "date_posted": 1760473502,
-        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad_R223350-2",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Capital-One",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Esri",
-        "id": "8a1f8411-6a7a-41fb-9af1-da4beb2e18f1",
-        "title": "Java Software Engineer I",
-        "active": false,
-        "date_updated": 1760473324,
-        "date_posted": 1760473324,
-        "url": "https://www.esri.com/careers/4728895007?gh_jid=4728895007",
-        "locations": [
-            "West Redlands, Redlands, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Esri",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Credit Acceptance Careers",
         "id": "827f0ce0-ab85-465b-89a1-815b0df76eb4",
         "title": "Software Engineer I - Engineering",
@@ -72,26 +31,6 @@
             "Atlanta, GA"
         ],
         "company_url": "https://simplify.jobs/c/Ciena",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "mthree",
-        "id": "f7573d3e-e4fd-464e-9e3f-c2c7c1c7ab72",
-        "title": "Junior Software Developer",
-        "active": false,
-        "date_updated": 1760473791,
-        "date_posted": 1760473791,
-        "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4595457006",
-        "locations": [
-            "Glasgow, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Mthree",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -3787,24 +3726,6 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Glide",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Esri",
-        "id": "80da21ce-b264-439a-a6e9-d6ba68a20436",
-        "title": "Java Software Engineer I - Arcgis Enterprise",
-        "active": false,
-        "date_updated": 1760473396,
-        "date_posted": 1760473396,
-        "url": "https://www.esri.com/careers/4660952007?gh_jid=4660952007",
-        "locations": [
-            "West Redlands, Redlands, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Esri",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
