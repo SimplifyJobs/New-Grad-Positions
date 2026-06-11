@@ -313334,7 +313334,7 @@
         "company_name": "L3Harris Technologies",
         "id": "26cbd8d5-882c-4679-82ab-b2a93fbe8fda",
         "title": "Engineering Technician A",
-        "active": true,
+        "active": false,
         "date_updated": 1779488318,
         "date_posted": 1779487723,
         "url": "https://jobs.l3harris.com/job/Orange-Engineering-Technician-A-VA-22701-8963/1393416700/?ats=successfactors",
@@ -333377,7 +333377,7 @@
         "company_name": "Advanced Technology Services",
         "id": "24510c03-3b39-4878-a00a-748b18799aea",
         "title": "Calibration - Metrology Technician l",
-        "active": false,
+        "active": true,
         "date_updated": 1780524913,
         "date_posted": 1777331482,
         "url": "https://job-boards.greenhouse.io/advancedtechnologyservices/jobs/4675951006",
@@ -339782,7 +339782,7 @@
         "company_name": "University of Arkansas",
         "id": "2b58866e-0bee-4fc4-81c4-8bbfbd225c71",
         "title": "AI Researcher - Y. Ramena",
-        "active": false,
+        "active": true,
         "date_updated": 1780956613,
         "date_posted": 1780956240,
         "url": "https://uasys.wd5.myworkdayjobs.com/uasys/job/University-of-Arkansas-at-Pine-Bluff/Extra-Help-AI-Researcher-x-2---Y-Ramena_R0086658",
@@ -342652,7 +342652,7 @@
         "company_name": "Intel",
         "id": "281d456a-7a99-4168-bca5-f4afe8dbf3d0",
         "title": "Module Development Engineer - Advanced Packaging",
-        "active": true,
+        "active": false,
         "date_updated": 1781080269,
         "date_posted": 1780956453,
         "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Module-Development-Engineer--Adv-Packaging-_JR0284566",
@@ -344782,6 +344782,119 @@
         "sponsorship": "Other",
         "degrees": [
             "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Nokia",
+        "id": "588b3d57-6384-4014-b5df-5d12aeadc993",
+        "title": "Semi Mfg Technician 2",
+        "active": true,
+        "date_updated": 1781167681,
+        "date_posted": 1779267692,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36265",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Nokia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Lithia Motors",
+        "id": "2664a38f-b76f-42f0-82a4-12aecc67d729",
+        "title": "Product Specialist",
+        "active": true,
+        "date_updated": 1781166871,
+        "date_posted": 1781129201,
+        "url": "https://lithia.wd5.myworkdayjobs.com/LithiaCareers/job/BMW-of-Minnetonka-Minnetonka-MN-55391/Product-Specialist_R110644",
+        "locations": [
+            "Hopkins, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Lithia-Motors",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Intuit",
+        "id": "61239fab-9564-48da-9638-7a3831ee594d",
+        "title": "Customer Supportability Professional 1",
+        "active": true,
+        "date_updated": 1781168076,
+        "date_posted": 1778796496,
+        "url": "https://jobs.intuit.com/job/frisco/customer-supportability-professional-1/27595/95097650816",
+        "locations": [
+            "Plano, TX",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Intuit",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CarGurus",
+        "id": "337dcf42-1e47-44d6-a19f-f5f7aea6becb",
+        "title": "Associate Business Systems Analyst",
+        "active": true,
+        "date_updated": 1781166781,
+        "date_posted": 1777068627,
+        "url": "https://careers.cargurus.com/us/en/job/7843572?gh_jid=7843572",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/CarGurus",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Nokia",
+        "id": "4ccce667-a183-4d73-9a53-0d5799b92ba3",
+        "title": "Manufacturing Technician",
+        "active": true,
+        "date_updated": 1781167501,
+        "date_posted": 1776215222,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/33838",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Nokia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Nokia",
+        "id": "305c4174-ed7c-450d-8c1b-dd4e77efeb53",
+        "title": "Photonic Integrated Circuit - Photonic Integrated Circuit - Design Engineer",
+        "active": true,
+        "date_updated": 1781166602,
+        "date_posted": 1766507157,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/29074",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Nokia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
             "PhD"
         ]
     }
