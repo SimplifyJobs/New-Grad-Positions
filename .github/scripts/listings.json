@@ -1,23 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "General Dynamics Mission Systems",
-        "id": "e5e5ac5c-5851-4ec2-a6f9-e8ad1a41540d",
-        "title": "Software Engineer \u2013 Entry Level",
-        "active": false,
-        "date_updated": 1761920420,
-        "date_posted": 1760483916,
-        "url": "https://careers-gdms.icims.com/jobs/68565/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
         "date_updated": 1760640591,
         "sponsorship": "Other",
         "active": true,
@@ -36183,24 +36165,6 @@
             "Jacksonville, FL"
         ],
         "company_url": "https://simplify.jobs/c/Deutsche-Bank",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "SLC",
-        "id": "fe5b16e1-79cd-4b97-bbe6-bb682c1215c9",
-        "title": "Cybersecurity Analyst - Part Time",
-        "active": false,
-        "date_updated": 1760484379,
-        "date_posted": 1760484379,
-        "url": "https://slcgov.wd1.myworkdayjobs.com/en/SLC/job/Plaza-349/Cybersecurity-Analyst---Part-Time_JR5365",
-        "locations": [
-            "Salt Lake City, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/SLC",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -115541,7 +115505,7 @@
         "company_name": "Jabil",
         "id": "e9de983b-ad46-4ca1-a360-c6c57197f6c8",
         "title": "Electrical Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1768346967,
         "date_posted": 1768346967,
         "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Memphis-TN/Electrical-Technician---IRHX_J2436377",
@@ -229438,7 +229402,7 @@
         "company_name": "XPENG Motors",
         "id": "feb67d91-bec4-47ec-8d35-65496cb19c60",
         "title": "Senior Computer Vision Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1774390055,
         "date_posted": 1774390055,
         "url": "https://job-boards.greenhouse.io/xpengmotors/jobs/8477276002",
@@ -316622,7 +316586,7 @@
         "company_name": "iHeartMedia",
         "id": "2d0909f7-6e7c-4401-bae6-aee2b1dff431",
         "title": "Country Format Coordinator",
-        "active": true,
+        "active": false,
         "date_updated": 1779821282,
         "date_posted": 1778941887,
         "url": "https://iheartmedia.wd5.myworkdayjobs.com/External_iHM/job/Virtual-WA/Assistant-Country-Format-Coordinator_Req38417-6",
@@ -320964,7 +320928,7 @@
         "company_name": "LexisNexis Risk Solutions",
         "id": "f7292aa6-7328-4d24-92dd-1c877cb86dce",
         "title": "Solutions Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1779876631,
         "date_posted": 1778922100,
         "url": "https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/United-Kingdom/Solutions-Analyst_R109322",
@@ -341259,7 +341223,7 @@
         "company_name": "RTX",
         "id": "c7dd8eae-b1be-46ed-84b3-672ff470574c",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1781044410,
         "date_posted": 1781042996,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Software-Engineer-I_01845113",
@@ -343794,7 +343758,7 @@
         "company_name": "EXL",
         "id": "f77a321d-6df2-4ed1-b79b-d551173c4c67",
         "title": "Executive",
-        "active": true,
+        "active": false,
         "date_updated": 1781129161,
         "date_posted": 1781129089,
         "url": "https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/15481",
@@ -347686,5 +347650,63 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "ADT",
+        "id": "790f2e77-d057-463e-818b-6f5a21d0a875",
+        "title": "Service Technician",
+        "active": true,
+        "date_updated": 1781216117,
+        "date_posted": 1781215611,
+        "url": "https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3019692",
+        "locations": [
+            "Downers Grove, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/ADT",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Bonterra",
+        "id": "17a6fd0a-4224-47ae-a92c-de7cee11cfaa",
+        "title": "Data Engineer 1 - Data Services",
+        "active": true,
+        "date_updated": 1781217021,
+        "date_posted": 1781215778,
+        "url": "https://bonterra.wd1.myworkdayjobs.com/bonterratech/job/Remote-United-States/EA-Data-Engineer-1--Data-Services_R2026-0253",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Bonterra",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Boeing Company",
+        "id": "025406e5-4311-463c-b925-e11ea4d5da14",
+        "title": "Entry Level Software Engineer",
+        "active": true,
+        "date_updated": 1781216821,
+        "date_posted": 1781215840,
+        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tinker-AFB-OK/Entry-Level-Software-Engineer_JR2026511280-1",
+        "locations": [
+            "Oklahoma City, OK"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
