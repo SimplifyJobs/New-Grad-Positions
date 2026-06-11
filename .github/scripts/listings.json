@@ -90924,24 +90924,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Stellant Systems",
-        "id": "11063ffb-dfe8-495a-a037-21c1c7547318",
-        "title": "Automation Software Engineer",
-        "active": false,
-        "date_updated": 1766233041,
-        "date_posted": 1760453525,
-        "url": "https://careers-stellantsystems.icims.com/jobs/2011/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Carson, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Stellant-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Adobe",
         "id": "3c26b5b3-3449-4b20-a1ae-00ef587ffddf",
@@ -336449,7 +336431,7 @@
         "company_name": "Anduril",
         "id": "0a20816a-d18d-455c-9e1d-fe6a126bb513",
         "title": "Product Operations Associate - Tier 1",
-        "active": false,
+        "active": true,
         "date_updated": 1780622132,
         "date_posted": 1774574788,
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/5081383007",
@@ -343518,7 +343500,7 @@
         "company_name": "Optiver",
         "id": "6ae01df6-0806-478f-8d45-3532d0fc2704",
         "title": "Data Center Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1781129161,
         "date_posted": 1778796375,
         "url": "https://www.optiver.com/join-us/jobs/8460733002/?gh_jid=8460733002",
@@ -346958,5 +346940,83 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "AECOM",
+        "id": "2f93b51d-9768-4ba3-aad0-467ad674f481",
+        "title": "Graduate Geophysicist",
+        "active": true,
+        "date_updated": 1781187481,
+        "date_posted": 1781186654,
+        "url": "https://jobs.smartrecruiters.com/AECOM2/744000131651679",
+        "locations": [
+            "Nottingham, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/AECOM",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "LexisNexis Risk Solutions",
+        "id": "d3531016-1216-4618-820a-79eb7027353c",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1781187017,
+        "date_posted": 1781186686,
+        "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Cardiff/Software-Engineer-I_R112653",
+        "locations": [
+            "Cardiff, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/LexisNexis-Risk-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Viridien",
+        "id": "ba9a6dcc-a160-4ada-a8fb-35dc158ac085",
+        "title": "Seismic Imaging Analyst",
+        "active": true,
+        "date_updated": 1781186761,
+        "date_posted": 1781186582,
+        "url": "https://cgg.wd103.myworkdayjobs.com/viridiencareers/job/Houston-United-States-of-America/Seismic-Imaging-Analyst_JR101333-2",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Viridien",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Parsons",
+        "id": "d2fba3fa-bb83-4710-99aa-88d7f8c825c4",
+        "title": "Engineering Technician 1",
+        "active": true,
+        "date_updated": 1781187717,
+        "date_posted": 1781187022,
+        "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---TX-Field-Location/Engineering-Technician-I_R181836",
+        "locations": [
+            "Texas"
+        ],
+        "company_url": "https://simplify.jobs/c/Parsons",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
