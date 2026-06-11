@@ -1,23 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "RTX",
-        "id": "a6b60fa5-f8a2-4947-9026-e0a8acb16efa",
-        "title": "Software Engineer I - Onsite",
-        "active": false,
-        "date_updated": 1761834961,
-        "date_posted": 1760461253,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HTX36-Richardson-TX-3200-E-Renner-Rd---Richardson-TX-75082-2402-USA/Software-Engineer-I--Onsite-_01799291",
-        "locations": [
-            "Richardson, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
         "date_updated": 1763109775,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": false,
@@ -328433,7 +328415,7 @@
         "company_name": "Freddie Mac",
         "id": "1c0690db-4a46-4ac1-b24d-e0854a175f96",
         "title": "Investment & Capital Markets - Operations Analyst - Data Management Team",
-        "active": true,
+        "active": false,
         "date_updated": 1780351561,
         "date_posted": 1780351520,
         "url": "https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Investment---Capital-Markets---Operations-Analyst--Data-Management-Team-_JR17257",
@@ -341622,7 +341604,7 @@
         "company_name": "Materion",
         "id": "1737c2f8-e0b7-46c4-867c-2071a7676aaa",
         "title": "Product Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1781043313,
         "date_posted": 1781042773,
         "url": "https://materion.wd5.myworkdayjobs.com/Materion/job/Westford-MA/Product-Engineer_2026-R8332",
