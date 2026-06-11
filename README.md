@@ -5,9 +5,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/New-Grad-Positions/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
 ---
-### Browse 236 New Grad Roles by Category
+### Browse 235 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (158)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (157)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (1)
 
@@ -273,13 +273,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Engineer 1</td>
 <td>Atlanta, GA</td>
 <td><div align="center"><a href="https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Software-Engineer-I_R-140146-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/30a492dd-d015-417a-b388-86deca572dc4?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>2d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Cisco?utm_source=GHList&utm_medium=company">Cisco</a></strong></td>
-<td>Software Engineer 1 - Devices Technology Group</td>
-<td>North Carolina</td>
-<td><div align="center"><a href="https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/Software-Engineer-I--Full-Time----Devices-Technology-Group---United-States_2011256?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/2ff0bfa2-c580-4b4f-8ed7-1260ce787fb2?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
 <td>2d</td>
 </tr>
 <tr>
@@ -1190,7 +1183,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (1252)</summary>
+<summary>🗃️ Inactive roles (1253)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -1235,6 +1228,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
 <td>Software Engineer 1</td>
 <td>Andover, MA</td>
+<td>🔒</td>
+<td>2d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Cisco?utm_source=GHList&utm_medium=company">Cisco</a></strong></td>
+<td>Software Engineer 1 - Devices Technology Group</td>
+<td>North Carolina</td>
 <td>🔒</td>
 <td>2d</td>
 </tr>
@@ -3304,7 +3304,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>2mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/General-Dynamics-Mission-Systems?utm_source=GHList&utm_medium=company">General Dynamics Mission Systems</a></strong></td>
 <td>Software Engineer – Entry Level 🇺🇸</td>
 <td>Scottsdale, AZ</td>
 <td>🔒</td>
