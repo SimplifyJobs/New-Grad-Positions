@@ -2,44 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Credit Acceptance Careers",
-        "id": "827f0ce0-ab85-465b-89a1-815b0df76eb4",
-        "title": "Software Engineer I - Engineering",
-        "active": false,
-        "date_updated": 1761920341,
-        "date_posted": 1760475230,
-        "url": "https://creditacceptance.wd5.myworkdayjobs.com/en-US/Credit_Acceptance/job/Michigan--Southfield-Office/Software-Engineer-I--Engineering_R13134",
-        "locations": [
-            "Southfield, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/1ba6d017-f1e1-44ac-af01-0ac2a47a6803",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Ciena",
-        "id": "7b37bddf-4662-466d-9f54-3044feac8f6e",
-        "title": "Software Developer \u2013 2026 Grads",
-        "active": false,
-        "date_updated": 1760474895,
-        "date_posted": 1760474895,
-        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/Software-Developer---2026-Grads_R029193",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Ciena",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "RTX",
         "id": "cad3e332-fd1e-4aa5-9152-348f0812cd98",
         "title": "2025 Fulltime Raytheon Software Engineer I - Test Equipment - Onsite",
@@ -36277,24 +36239,6 @@
             "Salt Lake City, UT"
         ],
         "company_url": "https://simplify.jobs/c/SLC",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "913853fc-9f53-45f9-932a-f04a02df68b6",
-        "title": "Trading Assistant - Local",
-        "active": false,
-        "date_updated": 1760475560,
-        "date_posted": 1760475560,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/jobs/job/400028114",
-        "locations": [
-            "United Kingdom"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
