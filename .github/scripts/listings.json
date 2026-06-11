@@ -36616,24 +36616,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Advanced Energy",
-        "id": "8bb7c80d-98bc-4e8e-a1f7-e40ca308b9d8",
-        "title": "RF Engineer 1",
-        "active": false,
-        "date_updated": 1762938640,
-        "date_posted": 1760411967,
-        "url": "https://jobs.advanced-energy.com/job/Wilmington-RF-Engineer-I-MA-01887/1326739700/?ats=successfactors",
-        "locations": [
-            "Burlington, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Advanced-Energy",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Trillium",
         "id": "eb01af5e-cdad-4ff4-aee0-7f0aded3e35b",
@@ -36651,82 +36633,6 @@
         "degrees": [
             "Master's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "VectorUSA",
-        "id": "c777e67b-f636-4345-9c8b-8d156d43e3eb",
-        "title": "Systems Administrator I",
-        "active": false,
-        "date_updated": 1761846441,
-        "date_posted": 1760411721,
-        "url": "https://www.vectorusa.com/company/jobboard?gh_jid=7476044003",
-        "locations": [
-            "Long Beach, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/VectorUSA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Trillium",
-        "id": "35bad9aa-0d6b-4634-9ffe-03c99b49edaa",
-        "title": "Equity Trader",
-        "active": false,
-        "date_updated": 1760411778,
-        "date_posted": 1760411778,
-        "url": "https://www.trlm.com/apply/4837090007?gh_jid=4837090007",
-        "locations": [
-            "Miami, FL",
-            "Chicago, IL",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Trillium",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Trillium",
-        "id": "152323f1-f90b-4378-aebb-c050c580762d",
-        "title": "Equity Trader",
-        "active": false,
-        "date_updated": 1760411778,
-        "date_posted": 1760411778,
-        "url": "https://www.trlm.com/apply/4788931007?gh_jid=4788931007",
-        "locations": [
-            "Miami, FL",
-            "Chicago, IL",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Trillium",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Trillium",
-        "id": "049b9a0d-2c95-404a-a5c6-6bdfed1b358f",
-        "title": "Equity Trader - Trading - Technology",
-        "active": false,
-        "date_updated": 1760411778,
-        "date_posted": 1760411778,
-        "url": "https://www.trlm.com/apply/4837095007?gh_jid=4837095007",
-        "locations": [
-            "Miami, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Trillium",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -85413,24 +85319,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "Portwest",
-        "id": "ba283465-9d58-44e3-a731-ed32bad56e5e",
-        "title": "Product Graduate Program",
-        "active": false,
-        "date_updated": 1765877641,
-        "date_posted": 1760411731,
-        "url": "https://portwest.com/market/careers?gh_jid=4678944101",
-        "locations": [
-            "Manchester, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Portwest",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Apple",
         "id": "27256e9f-dafd-42fd-a3e6-44fc95d63a7e",
@@ -98250,42 +98138,6 @@
             "Florence, KY"
         ],
         "company_url": "https://simplify.jobs/c/Jabil",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Trexon",
-        "id": "df865cd7-a849-4f72-a20a-cbfbcaf237b0",
-        "title": "Molding Technician",
-        "active": false,
-        "date_updated": 1763509740,
-        "date_posted": 1760411609,
-        "url": "https://job-boards.greenhouse.io/tpcengineeringholdingsllc/jobs/4688875007",
-        "locations": [
-            "Everett, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Trexon",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Trexon",
-        "id": "e16b9944-2572-4257-9e09-42f0be01e74a",
-        "title": "Termination Technician",
-        "active": true,
-        "date_updated": 1762906536,
-        "date_posted": 1760411593,
-        "url": "https://job-boards.greenhouse.io/tpcengineeringholdingsllc/jobs/4594771007",
-        "locations": [
-            "Quincy, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Trexon",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
