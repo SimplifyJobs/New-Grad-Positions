@@ -231141,7 +231141,7 @@
         "company_name": "University of Arkansas",
         "id": "ad639ce0-562f-40b2-8d29-ea4c866cea6e",
         "title": "Cosmos Graduate Research Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1773813920,
         "date_posted": 1773813920,
         "url": "https://uasys.wd5.myworkdayjobs.com/uasys/job/Little-Rock/COSMOS---Graduate-Research-Assistant--Researcher-_R0053889-2",
@@ -241839,7 +241839,7 @@
         "company_name": "Thermo Fisher Scientific",
         "id": "ba2211a6-3041-48aa-9111-edebe44105f2",
         "title": "Field Service Engineer 1 - Asset Management",
-        "active": false,
+        "active": true,
         "date_updated": 1774999551,
         "date_posted": 1774479122,
         "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/West-Greenwich-Rhode-Island-USA/Field-Service-Engineer-I--Asset-Management-_R-01345001",
@@ -267793,7 +267793,7 @@
         "company_name": "GE Healthcare",
         "id": "9df5e2b3-ff4d-403c-aadd-0e2e177b2139",
         "title": "MR Field Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1776302844,
         "date_posted": 1776301614,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/MR---Field-Engineer-1_R4039398-1",
@@ -330355,7 +330355,7 @@
         "company_name": "CoStar Group",
         "id": "654a8203-8795-40c6-92f5-76afc4273093",
         "title": "Associate Research Consultant",
-        "active": false,
+        "active": true,
         "date_updated": 1780390666,
         "date_posted": 1780134807,
         "url": "https://costar.wd1.myworkdayjobs.com/en-US/CoStarCareers/job/US-VA-Richmond/Associate-Research-Consultant_R38934",
@@ -331764,7 +331764,7 @@
         "company_name": "GE Healthcare",
         "id": "a25195a8-f1bb-4453-afd1-1d2bf77834a1",
         "title": "Field Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1780439202,
         "date_posted": 1780437969,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer-1_R4041554-1",
@@ -344935,5 +344935,41 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Jabil",
+        "id": "017376e4-553b-4f7c-b74f-807f5d873a1e",
+        "title": "Electronic Technician 1",
+        "active": true,
+        "date_updated": 1781170427,
+        "date_posted": 1781169596,
+        "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Memphis-TN/Electronic-Technician-I_J2448563",
+        "locations": [
+            "Memphis, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/Jabil",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Goldman Sachs",
+        "id": "f99b0f28-4c34-4e85-8a26-27c6ea7b386a",
+        "title": "Quantitative Strategist - Global Banking & Markets - FICC Resource Management",
+        "active": true,
+        "date_updated": 1781170202,
+        "date_posted": 1781168798,
+        "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/162274",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Goldman-Sachs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
