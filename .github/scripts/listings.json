@@ -176981,7 +176981,7 @@
         "company_name": "Nokia",
         "id": "0fe36706-a7a6-4e9f-bd33-2e2fc16225a8",
         "title": "Photonics Lab Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1771629083,
         "date_posted": 1771629083,
         "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/31831",
@@ -319821,7 +319821,7 @@
         "company_name": "Nokia",
         "id": "07da1af3-2151-411f-a8b5-9b116fca44dd",
         "title": "Assembly and Test Manufacturing",
-        "active": true,
+        "active": false,
         "date_updated": 1779825065,
         "date_posted": 1779267689,
         "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36538",
@@ -328948,7 +328948,7 @@
         "company_name": "Andrew Morgan",
         "id": "027f917c-5000-4389-bdd4-79e2e30d962e",
         "title": "OneStream Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1780353313,
         "date_posted": 1780351728,
         "url": "https://andrew-morgan.com/current-openings/?gh_jid=5237627008",
@@ -332730,7 +332730,7 @@
         "company_name": "Airbus",
         "id": "0a0e8fdf-52bb-42fb-a2d3-f3c051049dd7",
         "title": "Volunteer for International Experience (VIE) - Junior Technology Scouting",
-        "active": true,
+        "active": false,
         "date_updated": 1780474581,
         "date_posted": 1780438148,
         "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Montreal-Area/VIE-2026---Canada---Junior-Technology-Scouting---H-F_JR10407712",
@@ -338754,7 +338754,7 @@
         "company_name": "GE Healthcare",
         "id": "0f965ade-d8a0-42be-a1dd-cc2ff518efb6",
         "title": "Field Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1780906751,
         "date_posted": 1780437968,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer-1--Central-IL-_R4041220-1",
@@ -340338,7 +340338,7 @@
         "company_name": "Medtronic",
         "id": "04d237cc-b8fd-4b14-b46d-b58025f9858f",
         "title": "Associate Product Specialist - Growth Factors",
-        "active": true,
+        "active": false,
         "date_updated": 1780960393,
         "date_posted": 1780956579,
         "url": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Memphis-Tennessee-United-States-of-America/Associate-Product-Specialist---Growth-Factors_R69127",
@@ -344744,6 +344744,45 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Aptiv",
+        "id": "09131d9c-e06e-479d-8ff3-ee165a9fc974",
+        "title": "System Engineer - OS Kernel",
+        "active": true,
+        "date_updated": 1781165881,
+        "date_posted": 1781071648,
+        "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Walnut-Creek-CA---WR/System-Engineer---OS-Kernel_J000699517",
+        "locations": [
+            "Walnut Creek, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Aptiv",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Nokia",
+        "id": "09cbe113-8736-4afb-a110-e301e7f66846",
+        "title": "Senior Product Test Capability Engineer",
+        "active": true,
+        "date_updated": 1781165752,
+        "date_posted": 1776895663,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/35078",
+        "locations": [
+            "Allentown, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Nokia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
         ]
     }
 ]
