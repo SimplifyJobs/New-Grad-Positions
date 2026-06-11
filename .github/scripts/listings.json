@@ -1,23 +1,5 @@
 [
     {
-        "date_updated": 1760465226,
-        "sponsorship": "Other",
-        "active": true,
-        "degrees": [],
-        "url": "https://arrow.wd1.myworkdayjobs.com/en-US/AC/job/IN-KA-Bangalore-India-SKAV-Seethalakshmi-GESC/Apprentice---Cloud-Infrastructure_R236670",
-        "company_name": "Arrow Electronics",
-        "title": "Apprentice - Cloud Infrastructure",
-        "locations": [
-            "Bangalore, IN"
-        ],
-        "category": "Software Engineering",
-        "source": "angie-hue",
-        "id": "698c3131-0f52-4a8e-88c4-32cd4c7ccdab",
-        "date_posted": 1760451473,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
         "source": "Simplify",
         "category": "Hardware",
         "company_name": "RTX",
@@ -223773,7 +223755,7 @@
         "company_name": "Avnet",
         "id": "0374d942-8b19-45e9-8850-322095453a57",
         "title": "Associate Field Application Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773959504,
         "date_posted": 1773959504,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -224512,7 +224494,7 @@
         "company_name": "Avnet",
         "id": "49997310-9583-4e8c-981a-385b75e55815",
         "title": "Associate Field Application Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773959504,
         "date_posted": 1773959504,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Wilmington-Massachusetts-United-States-of-America/Associate-Field-Application-Engineer_JR-022067",
@@ -247973,7 +247955,7 @@
         "company_name": "JP Morgan Chase",
         "id": "d2f9dbe7-74a6-4840-80c6-766c11d15e94",
         "title": "Equity Index Exotics - Trading Services - Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1775226421,
         "date_posted": 1775225458,
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210731979",
@@ -296750,7 +296732,7 @@
         "company_name": "Grafana Labs",
         "id": "fec613b4-97d6-4616-bea4-8025f0e24109",
         "title": "Staff Backend Engineer - Application Core Services - Stacks",
-        "active": true,
+        "active": false,
         "date_updated": 1778191741,
         "date_posted": 1777586747,
         "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/5968728004",
@@ -325475,7 +325457,7 @@
         "company_name": "JP Morgan Chase",
         "id": "89eea7f3-5880-40f8-8adc-920140b46442",
         "title": "Quant Analytics - Multiple Positions Available",
-        "active": true,
+        "active": false,
         "date_updated": 1779959341,
         "date_posted": 1779804294,
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210743458",
@@ -330029,7 +330011,7 @@
         "company_name": "Avnet",
         "id": "013d5015-8b47-41a8-b665-239f9ca74772",
         "title": "Software Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1780351561,
         "date_posted": 1780351528,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Tempe-Arizona-United-States-Of-America/Software-Developer_JR-022614",
@@ -333377,7 +333359,7 @@
         "company_name": "Advanced Technology Services",
         "id": "24510c03-3b39-4878-a00a-748b18799aea",
         "title": "Calibration - Metrology Technician l",
-        "active": false,
+        "active": true,
         "date_updated": 1780524913,
         "date_posted": 1777331482,
         "url": "https://job-boards.greenhouse.io/advancedtechnologyservices/jobs/4675951006",
@@ -334452,7 +334434,7 @@
         "company_name": "Reach Financial",
         "id": "39349736-2696-42cf-9e4b-deaf9d2b3246",
         "title": "Credit Risk Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1780526126,
         "date_posted": 1780525423,
         "url": "https://job-boards.greenhouse.io/reach/jobs/8573228002",
@@ -339601,7 +339583,7 @@
         "company_name": "Goldman Sachs",
         "id": "2e34b863-9eb5-4b1d-b3f1-959a8e16227c",
         "title": "Global Banking & Markets Public - Systematic Trading Strategies Trading - Ana/Aso",
-        "active": false,
+        "active": true,
         "date_updated": 1780958352,
         "date_posted": 1780956560,
         "url": "https://higher.gs.com/roles/175884",
@@ -340774,7 +340756,7 @@
         "company_name": "Guidewire",
         "id": "26c16d82-bbf0-4710-9c0b-056a9c652215",
         "title": "Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1780967426,
         "date_posted": 1780967182,
         "url": "https://guidewire.wd5.myworkdayjobs.com/external/job/United-States---San-Mateo-CA/Software-Engineer---Cloud_JR_14588",
@@ -340794,7 +340776,7 @@
         "company_name": "Guidewire",
         "id": "c63b87e8-84a1-4497-b097-99f150e6b23b",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1780985226,
         "date_posted": 1780985153,
         "url": "https://wd5.myworkdaysite.com/en-US/recruiting/guidewire/external/job/United-States---San-Mateo-CA/Software-Engineer---Cloud_JR_14588",
@@ -346872,6 +346854,104 @@
             "United States"
         ],
         "company_url": "https://simplify.jobs/c/Nokia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RELX",
+        "id": "1c9356a0-8f0b-43b6-acc9-3466330cc6c9",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1781187725,
+        "date_posted": 1781187027,
+        "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Cardiff/Software-Engineer-I_R112653-1",
+        "locations": [
+            "Cardiff, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/RELX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "PROS Holdings, Inc.",
+        "id": "eaf622aa-494d-47e2-8b03-b6ff4438e744",
+        "title": "Machine Learning Engineer 1",
+        "active": true,
+        "date_updated": 1781187387,
+        "date_posted": 1781186884,
+        "url": "https://pros.wd5.myworkdayjobs.com/pros_careers/job/BGR-Sofia-Hybrid/Machine-Learning-Engineer-I_R3566",
+        "locations": [
+            "Bangor, ME"
+        ],
+        "company_url": "https://simplify.jobs/c/PROS-Holdings-Inc",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "DraftKings",
+        "id": "d7bfc632-f8e1-47db-a664-90b1bdad433e",
+        "title": "Referrals - Data Coordinator",
+        "active": true,
+        "date_updated": 1781187372,
+        "date_posted": 1781186863,
+        "url": "https://draftkings.wd1.myworkdayjobs.com/Employee_Referral_Portal/job/Raleigh-NC/NC-Referrals---Data-Coordinator-Associate--Part-Time-_JR14463",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/DraftKings",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Fidelity Investments",
+        "id": "3203ac9f-93b4-493d-bb08-f0559f899800",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1781187005,
+        "date_posted": 1781186687,
+        "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/Westlake-TX/Associate-Software-Engineer_2130779",
+        "locations": [
+            "Westlake, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Fidelity-Investments",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Goldman Sachs",
+        "id": "aa693cdb-f3f2-4ceb-b496-134b2a24595a",
+        "title": "HCM Associate - Data Analytics and Reporting",
+        "active": true,
+        "date_updated": 1781187814,
+        "date_posted": 1781042930,
+        "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/176302",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Goldman-Sachs",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
