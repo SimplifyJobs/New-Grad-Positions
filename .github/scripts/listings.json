@@ -223892,7 +223892,7 @@
         "company_name": "Cisco",
         "id": "a36cbd7f-5da5-4313-8f57-e11698c480c6",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1773959637,
         "date_posted": 1773959637,
         "url": "https://careers.cisco.com/global/en/job/2011256",
@@ -224512,7 +224512,7 @@
         "company_name": "Avnet",
         "id": "49997310-9583-4e8c-981a-385b75e55815",
         "title": "Associate Field Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773959504,
         "date_posted": 1773959504,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Wilmington-Massachusetts-United-States-of-America/Associate-Field-Application-Engineer_JR-022067",
@@ -321283,7 +321283,7 @@
         "company_name": "LexisNexis Risk Solutions",
         "id": "f7292aa6-7328-4d24-92dd-1c877cb86dce",
         "title": "Solutions Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1779876631,
         "date_posted": 1778922100,
         "url": "https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/United-Kingdom/Solutions-Analyst_R109322",
@@ -327158,7 +327158,7 @@
         "company_name": "Leidos",
         "id": "c2ced759-415c-4430-971e-4945e24dcfcc",
         "title": "Electronics Mechanical Assembly Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1780275161,
         "date_posted": 1780134819,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Electronics-Mechanical-Assembly-Technician_R-00182031",
@@ -329987,7 +329987,7 @@
         "company_name": "General Motors",
         "id": "95fe52bd-6718-4467-a2b0-76f1071db57d",
         "title": "Software Developer - Test Framework",
-        "active": false,
+        "active": true,
         "date_updated": 1780352904,
         "date_posted": 1780351604,
         "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Markham-Ontario-Canada/Early-Career-Software-Developer---Test-Framework_JR-202612062",
@@ -330029,7 +330029,7 @@
         "company_name": "Avnet",
         "id": "013d5015-8b47-41a8-b665-239f9ca74772",
         "title": "Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1780351561,
         "date_posted": 1780351528,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Tempe-Arizona-United-States-Of-America/Software-Developer_JR-022614",
@@ -330575,7 +330575,7 @@
         "company_name": "The Toro Company",
         "id": "e09a8a7b-96c7-4b97-baa5-753234702118",
         "title": "Technical Product Support Representative 1",
-        "active": false,
+        "active": true,
         "date_updated": 1780394492,
         "date_posted": 1780133094,
         "url": "https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/Technical-Product-Support-Representative-I---The-Toro-Company_JR16145",
@@ -332909,7 +332909,7 @@
         "company_name": "Stevens Institute of Technology",
         "id": "79e05eca-1049-4e66-b595-48c413a41398",
         "title": "Postdoctoral Associate-Systems Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1780477806,
         "date_posted": 1780131853,
         "url": "https://stevens.wd5.myworkdayjobs.com/External/job/Hoboken-NJ---Main-Campus/Postdoctoral-Associate-Systems-Engineering_RQ29678-1",
@@ -336998,7 +336998,7 @@
         "company_name": "Becton Dickinson",
         "id": "eae99515-fc08-4134-8a31-ea57f634a25f",
         "title": "Vendor Management Reporting Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1780697580,
         "date_posted": 1780697130,
         "url": "https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-NJ---Franklin-Lakes/Vendor-Management-Reporting-Analyst_R-546543-1",
@@ -337857,7 +337857,7 @@
         "company_name": "Abbott",
         "id": "ebcf495e-ffc8-41a2-9ced-68da1c5801e4",
         "title": "Design to Cost Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1780747642,
         "date_posted": 1780740902,
         "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---Illinois---Abbott-Park/Design-to-Cost-Engineer_31149181",
@@ -340774,7 +340774,7 @@
         "company_name": "Guidewire",
         "id": "26c16d82-bbf0-4710-9c0b-056a9c652215",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1780967426,
         "date_posted": 1780967182,
         "url": "https://guidewire.wd5.myworkdayjobs.com/external/job/United-States---San-Mateo-CA/Software-Engineer---Cloud_JR_14588",
@@ -340794,7 +340794,7 @@
         "company_name": "Guidewire",
         "id": "c63b87e8-84a1-4497-b097-99f150e6b23b",
         "title": "Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1780985226,
         "date_posted": 1780985153,
         "url": "https://wd5.myworkdaysite.com/en-US/recruiting/guidewire/external/job/United-States---San-Mateo-CA/Software-Engineer---Cloud_JR_14588",
@@ -342955,7 +342955,7 @@
         "company_name": "Darktrace",
         "id": "79f33ef6-2e84-47c3-bede-0836e7005973",
         "title": "Product Content Executive",
-        "active": true,
+        "active": false,
         "date_updated": 1781082749,
         "date_posted": 1780438102,
         "url": "https://darktrace.wd3.myworkdayjobs.com/DarktaceExternal/job/Cambridge-Office-United-Kingdom/Product-Content-Coordinator_JR101825",
@@ -343192,7 +343192,7 @@
         "company_name": "Corpay",
         "id": "5fa1ef7e-1e1f-42e3-8a74-5475242a39e9",
         "title": "Graduate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1781100364,
         "date_posted": 1781100147,
         "url": "https://corpay.wd103.myworkdayjobs.com/en-US/ext_001/job/London-The-Point---Cross-Border/Graduate-Software-Engineer_R08701",
@@ -344990,6 +344990,1116 @@
         "sponsorship": "Other",
         "degrees": [
             "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Innodata",
+        "id": "fdfb1c4f-1335-43f0-b822-51f89bc6d49f",
+        "title": "Generative AI Associate",
+        "active": true,
+        "date_updated": 1781170202,
+        "date_posted": 1781169537,
+        "url": "https://job-boards.greenhouse.io/innodatainc/jobs/4266660009",
+        "locations": [
+            "Louisiana"
+        ],
+        "company_url": "https://simplify.jobs/c/Innodata",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Innodata",
+        "id": "fa5b40b3-375c-4a30-9bff-69edaefec64d",
+        "title": "Data Annotation",
+        "active": true,
+        "date_updated": 1781170202,
+        "date_posted": 1781169535,
+        "url": "https://job-boards.greenhouse.io/innodatainc/jobs/4235831009",
+        "locations": [
+            "New Mexico"
+        ],
+        "company_url": "https://simplify.jobs/c/Innodata",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Innodata",
+        "id": "fa1cdf9a-7c9c-4127-bbce-c1c902f86e32",
+        "title": "Generative AI Associate",
+        "active": true,
+        "date_updated": 1781170202,
+        "date_posted": 1781169539,
+        "url": "https://job-boards.greenhouse.io/innodatainc/jobs/4248719009",
+        "locations": [
+            "Concord, NH"
+        ],
+        "company_url": "https://simplify.jobs/c/Innodata",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Innodata",
+        "id": "f7db582c-7a38-4f83-8074-0393bdba993b",
+        "title": "Generative AI Associate",
+        "active": true,
+        "date_updated": 1781170202,
+        "date_posted": 1781169538,
+        "url": "https://job-boards.greenhouse.io/innodatainc/jobs/4248725009",
+        "locations": [
+            "Idaho"
+        ],
+        "company_url": "https://simplify.jobs/c/Innodata",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Innodata",
+        "id": "f366a8a6-eda8-4183-91d6-7ddc323fa607",
+        "title": "Generative AI Associate",
+        "active": true,
+        "date_updated": 1781170202,
+        "date_posted": 1781169537,
+        "url": "https://job-boards.greenhouse.io/innodatainc/jobs/4248689009",
+        "locations": [
+            "Oklahoma"
+        ],
+        "company_url": "https://simplify.jobs/c/Innodata",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Innodata",
+        "id": "e97ab4c1-64b9-4afa-a02e-dfa8f2f73ad3",
+        "title": "Applied AI Associate",
+        "active": true,
+        "date_updated": 1781170202,
+        "date_posted": 1781169534,
+        "url": "https://job-boards.greenhouse.io/innodatainc/jobs/4266634009",
+        "locations": [
+            "West Virginia"
+        ],
+        "company_url": "https://simplify.jobs/c/Innodata",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Innodata",
+        "id": "dc9b0e8b-1928-4f3b-8d50-5c43e45b2c36",
+        "title": "Generative AI Associate",
+        "active": true,
+        "date_updated": 1781170923,
+        "date_posted": 1781169538,
+        "url": "https://job-boards.greenhouse.io/innodatainc/jobs/4266674009",
+        "locations": [
+            "South Dakota"
+        ],
+        "company_url": "https://simplify.jobs/c/Innodata",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Innodata",
+        "id": "db3f66eb-8ee7-410b-8042-bcb56e4981d6",
+        "title": "Generative AI Associate",
+        "active": true,
+        "date_updated": 1781170202,
+        "date_posted": 1781169537,
+        "url": "https://job-boards.greenhouse.io/innodatainc/jobs/4248686009",
+        "locations": [
+            "North Dakota"
+        ],
+        "company_url": "https://simplify.jobs/c/Innodata",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Innodata",
+        "id": "d96674f2-4fbb-4eb2-a0f5-96cfeed2f571",
+        "title": "Data Annotation Specialist",
+        "active": true,
+        "date_updated": 1781170202,
+        "date_posted": 1781169534,
+        "url": "https://job-boards.greenhouse.io/innodatainc/jobs/4232501009",
+        "locations": [
+            "Louisiana"
+        ],
+        "company_url": "https://simplify.jobs/c/Innodata",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Innodata",
+        "id": "a8d72e67-23cb-4de7-badf-ecdebeb47df8",
+        "title": "Generative AI Associate",
+        "active": true,
+        "date_updated": 1781170202,
+        "date_posted": 1781169537,
+        "url": "https://job-boards.greenhouse.io/innodatainc/jobs/4248774009",
+        "locations": [
+            "Florida"
+        ],
+        "company_url": "https://simplify.jobs/c/Innodata",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Boeing Company",
+        "id": "9bd29b26-cedc-45df-bc18-c259e11c3e86",
+        "title": "Information & Application Developer \u2013 Entry Level and Associate",
+        "active": true,
+        "date_updated": 1781170202,
+        "date_posted": 1781169523,
+        "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---North-Charleston-SC/Information---Application-Developer--Entry-Level-and-Associate-_JR2026506648",
+        "locations": [
+            "North Charleston, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Innodata",
+        "id": "9720220e-99eb-489e-9f6a-543575bcc2e8",
+        "title": "Data Annotation",
+        "active": true,
+        "date_updated": 1781170202,
+        "date_posted": 1781169534,
+        "url": "https://job-boards.greenhouse.io/innodatainc/jobs/4235828009",
+        "locations": [
+            "Ohio"
+        ],
+        "company_url": "https://simplify.jobs/c/Innodata",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Innodata",
+        "id": "878a5b4f-7d93-4585-98ac-c79568e9f476",
+        "title": "Data AI Annotator",
+        "active": true,
+        "date_updated": 1781171642,
+        "date_posted": 1781169534,
+        "url": "https://job-boards.greenhouse.io/innodatainc/jobs/4266784009",
+        "locations": [
+            "Idaho"
+        ],
+        "company_url": "https://simplify.jobs/c/Innodata",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Innodata",
+        "id": "779d25eb-ab46-48db-99ab-5f4c8122211f",
+        "title": "Generative AI Associate",
+        "active": true,
+        "date_updated": 1781170202,
+        "date_posted": 1781169536,
+        "url": "https://job-boards.greenhouse.io/innodatainc/jobs/4248766009",
+        "locations": [
+            "South Dakota"
+        ],
+        "company_url": "https://simplify.jobs/c/Innodata",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Innodata",
+        "id": "645702a9-9e40-445f-9efd-56b2c67bbeeb",
+        "title": "AI Workflow Specialist",
+        "active": true,
+        "date_updated": 1781170202,
+        "date_posted": 1781169534,
+        "url": "https://job-boards.greenhouse.io/innodatainc/jobs/4266741009",
+        "locations": [
+            "Minnesota"
+        ],
+        "company_url": "https://simplify.jobs/c/Innodata",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Innodata",
+        "id": "5a91397a-6a0d-45a4-b4c5-829dc33e3fe3",
+        "title": "AI Workflow Specialist",
+        "active": true,
+        "date_updated": 1781170202,
+        "date_posted": 1781169534,
+        "url": "https://job-boards.greenhouse.io/innodatainc/jobs/4266793009",
+        "locations": [
+            "Alaska"
+        ],
+        "company_url": "https://simplify.jobs/c/Innodata",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Innodata",
+        "id": "4f16b105-1467-4910-be7f-6e463a6b1036",
+        "title": "Artificial Intelligence Annotation Specialist",
+        "active": true,
+        "date_updated": 1781170763,
+        "date_posted": 1781169532,
+        "url": "https://job-boards.greenhouse.io/innodatainc/jobs/4232726009",
+        "locations": [
+            "Mississippi"
+        ],
+        "company_url": "https://simplify.jobs/c/Innodata",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Boeing Company",
+        "id": "44b92930-220b-4e09-adcf-4e703fe9c518",
+        "title": "Information & Application Developer \u2013 Entry Level and Associate",
+        "active": true,
+        "date_updated": 1781170202,
+        "date_posted": 1781169551,
+        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/Information---Application-Developer--Entry-Level-and-Associate-_JR2026506648-1",
+        "locations": [
+            "North Charleston, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Innodata",
+        "id": "3b2dd727-1374-4160-b486-b2f756445ba4",
+        "title": "Artificial Intelligence Annotation Specialist",
+        "active": true,
+        "date_updated": 1781170755,
+        "date_posted": 1781169532,
+        "url": "https://job-boards.greenhouse.io/innodatainc/jobs/4232730009",
+        "locations": [
+            "North Carolina"
+        ],
+        "company_url": "https://simplify.jobs/c/Innodata",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Innodata",
+        "id": "3579b778-81af-4e4a-b052-0c828b8c4845",
+        "title": "Generative AI Associate",
+        "active": true,
+        "date_updated": 1781170202,
+        "date_posted": 1781169537,
+        "url": "https://job-boards.greenhouse.io/innodatainc/jobs/4248527009",
+        "locations": [
+            "Alabama"
+        ],
+        "company_url": "https://simplify.jobs/c/Innodata",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Innodata",
+        "id": "169be0d9-923f-4071-aa6a-76df3ef9eb2a",
+        "title": "Data Annotation",
+        "active": true,
+        "date_updated": 1781170202,
+        "date_posted": 1781169534,
+        "url": "https://job-boards.greenhouse.io/innodatainc/jobs/4235827009",
+        "locations": [
+            "Arkansas"
+        ],
+        "company_url": "https://simplify.jobs/c/Innodata",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Innodata",
+        "id": "ffbd7781-6420-4766-aca9-0a46cacb3255",
+        "title": "Generative AI Annotator",
+        "active": true,
+        "date_updated": 1781170202,
+        "date_posted": 1781169536,
+        "url": "https://job-boards.greenhouse.io/innodatainc/jobs/4234820009",
+        "locations": [
+            "Wisconsin"
+        ],
+        "company_url": "https://simplify.jobs/c/Innodata",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Innodata",
+        "id": "edfef0ea-e0fe-4174-9a96-1100949c938e",
+        "title": "Generative AI Associate",
+        "active": true,
+        "date_updated": 1781170923,
+        "date_posted": 1781169536,
+        "url": "https://job-boards.greenhouse.io/innodatainc/jobs/4248751009",
+        "locations": [
+            "Utah"
+        ],
+        "company_url": "https://simplify.jobs/c/Innodata",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Innodata",
+        "id": "e8ba2371-914e-4265-b09e-1cca792069e3",
+        "title": "Generative AI Associate",
+        "active": true,
+        "date_updated": 1781170923,
+        "date_posted": 1781169537,
+        "url": "https://job-boards.greenhouse.io/innodatainc/jobs/4266665009",
+        "locations": [
+            "Iowa"
+        ],
+        "company_url": "https://simplify.jobs/c/Innodata",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Innodata",
+        "id": "e662541b-581b-41b7-a669-b4486464c608",
+        "title": "Generative AI Associate",
+        "active": true,
+        "date_updated": 1781170202,
+        "date_posted": 1781169536,
+        "url": "https://job-boards.greenhouse.io/innodatainc/jobs/4248761009",
+        "locations": [
+            "Ohio"
+        ],
+        "company_url": "https://simplify.jobs/c/Innodata",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Innodata",
+        "id": "d71136b8-4c71-4a40-9a37-7cb70f9afaee",
+        "title": "Generative AI Associate",
+        "active": true,
+        "date_updated": 1781170202,
+        "date_posted": 1781169536,
+        "url": "https://job-boards.greenhouse.io/innodatainc/jobs/4248773009",
+        "locations": [
+            "Michigan"
+        ],
+        "company_url": "https://simplify.jobs/c/Innodata",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Innodata",
+        "id": "c3c00a20-30be-47d9-adcf-0c4231b2ae8a",
+        "title": "Generative AI Associate",
+        "active": true,
+        "date_updated": 1781170202,
+        "date_posted": 1781169537,
+        "url": "https://job-boards.greenhouse.io/innodatainc/jobs/4248783009",
+        "locations": [
+            "Vermont"
+        ],
+        "company_url": "https://simplify.jobs/c/Innodata",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Innodata",
+        "id": "b9924f81-622f-4aea-8a48-f2b1aa2914e5",
+        "title": "AI Data Specialist",
+        "active": true,
+        "date_updated": 1781170923,
+        "date_posted": 1781169533,
+        "url": "https://job-boards.greenhouse.io/innodatainc/jobs/4266786009",
+        "locations": [
+            "Ohio"
+        ],
+        "company_url": "https://simplify.jobs/c/Innodata",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Innodata",
+        "id": "ab08b8a3-1f08-433f-b8b6-7ea9fef7b8b3",
+        "title": "Generative AI Associate",
+        "active": true,
+        "date_updated": 1781170923,
+        "date_posted": 1781169537,
+        "url": "https://job-boards.greenhouse.io/innodatainc/jobs/4248787009",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Innodata",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Innodata",
+        "id": "87309ee8-c550-4d3b-b531-a13a9f1a45a2",
+        "title": "Generative AI Associate",
+        "active": true,
+        "date_updated": 1781170923,
+        "date_posted": 1781169536,
+        "url": "https://job-boards.greenhouse.io/innodatainc/jobs/4248763009",
+        "locations": [
+            "Minnesota"
+        ],
+        "company_url": "https://simplify.jobs/c/Innodata",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Innodata",
+        "id": "74faa4a2-0932-4595-bd04-a47c1ae7b14e",
+        "title": "Artificial Intelligence Annotation Specialist",
+        "active": true,
+        "date_updated": 1781170757,
+        "date_posted": 1781169532,
+        "url": "https://job-boards.greenhouse.io/innodatainc/jobs/4232483009",
+        "locations": [
+            "Indiana"
+        ],
+        "company_url": "https://simplify.jobs/c/Innodata",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Innodata",
+        "id": "66e410a1-7469-4536-a3b0-bb5a86f56155",
+        "title": "Generative AI Associate",
+        "active": true,
+        "date_updated": 1781170202,
+        "date_posted": 1781169537,
+        "url": "https://job-boards.greenhouse.io/innodatainc/jobs/4266654009",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Innodata",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Innodata",
+        "id": "56eb3d6e-8ed5-4f7a-bbec-c4d8b063b8b1",
+        "title": "Generative AI Associate",
+        "active": true,
+        "date_updated": 1781170202,
+        "date_posted": 1781169537,
+        "url": "https://job-boards.greenhouse.io/innodatainc/jobs/4266722009",
+        "locations": [
+            "Georgia"
+        ],
+        "company_url": "https://simplify.jobs/c/Innodata",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Innodata",
+        "id": "5625cabb-0039-446c-bc05-ea238aeb17bf",
+        "title": "Generative AI Associate",
+        "active": true,
+        "date_updated": 1781170202,
+        "date_posted": 1781169538,
+        "url": "https://job-boards.greenhouse.io/innodatainc/jobs/4248770009",
+        "locations": [
+            "New Mexico"
+        ],
+        "company_url": "https://simplify.jobs/c/Innodata",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Innodata",
+        "id": "51dc8f47-d346-4272-93b2-7f2c2644530e",
+        "title": "Generative AI Associate",
+        "active": true,
+        "date_updated": 1781170202,
+        "date_posted": 1781169536,
+        "url": "https://job-boards.greenhouse.io/innodatainc/jobs/4248692009",
+        "locations": [
+            "Kentucky"
+        ],
+        "company_url": "https://simplify.jobs/c/Innodata",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Innodata",
+        "id": "42335cd9-30fe-43ae-b785-15d0d358dda8",
+        "title": "Data Annotation",
+        "active": true,
+        "date_updated": 1781170202,
+        "date_posted": 1781169534,
+        "url": "https://job-boards.greenhouse.io/innodatainc/jobs/4235829009",
+        "locations": [
+            "Minnesota"
+        ],
+        "company_url": "https://simplify.jobs/c/Innodata",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Innodata",
+        "id": "3ebd8261-b428-4c0f-8794-2815d0b1eb75",
+        "title": "Generative AI Associate",
+        "active": true,
+        "date_updated": 1781170202,
+        "date_posted": 1781169537,
+        "url": "https://job-boards.greenhouse.io/innodatainc/jobs/4248749009",
+        "locations": [
+            "Texas"
+        ],
+        "company_url": "https://simplify.jobs/c/Innodata",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Innodata",
+        "id": "18d486ba-7847-4071-af9b-c194a73c76ea",
+        "title": "Generative AI Associate",
+        "active": true,
+        "date_updated": 1781170202,
+        "date_posted": 1781169536,
+        "url": "https://job-boards.greenhouse.io/innodatainc/jobs/4248754009",
+        "locations": [
+            "Wisconsin"
+        ],
+        "company_url": "https://simplify.jobs/c/Innodata",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Innodata",
+        "id": "12609da5-d6ae-491f-8261-e877747de72f",
+        "title": "Generative AI Associate",
+        "active": true,
+        "date_updated": 1781170923,
+        "date_posted": 1781169536,
+        "url": "https://job-boards.greenhouse.io/innodatainc/jobs/4248760009",
+        "locations": [
+            "Arkansas"
+        ],
+        "company_url": "https://simplify.jobs/c/Innodata",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Innodata",
+        "id": "0868acf3-1670-4cb2-92b7-83c3c8f3eb31",
+        "title": "Generative AI Associate",
+        "active": true,
+        "date_updated": 1781170202,
+        "date_posted": 1781169538,
+        "url": "https://job-boards.greenhouse.io/innodatainc/jobs/4266677009",
+        "locations": [
+            "Missouri"
+        ],
+        "company_url": "https://simplify.jobs/c/Innodata",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Innodata",
+        "id": "d822056b-4f51-4414-b019-feaa401e5dc6",
+        "title": "Generative AI Associate",
+        "active": true,
+        "date_updated": 1781170202,
+        "date_posted": 1781169537,
+        "url": "https://job-boards.greenhouse.io/innodatainc/jobs/4266622009",
+        "locations": [
+            "Mississippi"
+        ],
+        "company_url": "https://simplify.jobs/c/Innodata",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Innodata",
+        "id": "c62908a1-dbf8-411d-953d-5b7cd882c7f1",
+        "title": "Generative AI Associate",
+        "active": true,
+        "date_updated": 1781170202,
+        "date_posted": 1781169538,
+        "url": "https://job-boards.greenhouse.io/innodatainc/jobs/4224824009",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Innodata",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Innodata",
+        "id": "96647be0-9e6c-483a-86c5-97776a7f3611",
+        "title": "Generative AI Annotator",
+        "active": true,
+        "date_updated": 1781170202,
+        "date_posted": 1781169535,
+        "url": "https://job-boards.greenhouse.io/innodatainc/jobs/4234818009",
+        "locations": [
+            "Utah"
+        ],
+        "company_url": "https://simplify.jobs/c/Innodata",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Innodata",
+        "id": "2ba8103c-3beb-4f2f-af97-f3d927bfa508",
+        "title": "Generative AI Associate - SME on Demand - Contributor Community",
+        "active": true,
+        "date_updated": 1781170202,
+        "date_posted": 1781169536,
+        "url": "https://job-boards.greenhouse.io/innodatainc/jobs/4248758009",
+        "locations": [
+            "Wyoming"
+        ],
+        "company_url": "https://simplify.jobs/c/Innodata",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Innodata",
+        "id": "0b28c923-31e3-4ab8-95eb-f91ee34e3828",
+        "title": "Generative AI Associate",
+        "active": true,
+        "date_updated": 1781170202,
+        "date_posted": 1781169536,
+        "url": "https://job-boards.greenhouse.io/innodatainc/jobs/4248748009",
+        "locations": [
+            "Tennessee"
+        ],
+        "company_url": "https://simplify.jobs/c/Innodata",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "iboss",
+        "id": "09f00af3-f301-47dc-8feb-407479362a10",
+        "title": "Full Stack Java Software Engineer",
+        "active": true,
+        "date_updated": 1781168941,
+        "date_posted": 1781168793,
+        "url": "https://jobs.jobvite.com/iboss/job/orvdAfwt?nl=1&nl=1&fr=false",
+        "locations": [
+            "New Mexico",
+            "Pennsylvania",
+            "Oregon",
+            "California",
+            "Washington, DC",
+            "Austin, TX",
+            "Texas",
+            "Florida",
+            "Nevada",
+            "Arizona",
+            "Concord, NH",
+            "Tennessee",
+            "Virginia",
+            "Minnesota",
+            "Colorado",
+            "Utah",
+            "Massachusetts",
+            "Atlanta, GA",
+            "Ohio",
+            "Michigan",
+            "Illinois"
+        ],
+        "company_url": "https://simplify.jobs/c/Iboss",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TickPick",
+        "id": "1084cdf5-3b7b-46a6-bf6d-10fdfa752e77",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1781168941,
+        "date_posted": 1781168789,
+        "url": "https://apply.workable.com/tickpick/j/5840ECEB50/apply",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/TickPick",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Entergy",
+        "id": "c90479e6-bfa7-47ca-ad95-62c9c9fdcb1b",
+        "title": "GIS Assistant",
+        "active": true,
+        "date_updated": 1781171281,
+        "date_posted": 1779458848,
+        "url": "https://jobs.entergy.com/job/The-Woodlands-GIS-Helper-Assistant-or-GIS-Assistant-Texa/1372897000/?ats=successfactors",
+        "locations": [
+            "The Woodlands, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Entergy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CAI",
+        "id": "8a849022-9763-4117-a1c4-04369a4fe47b",
+        "title": "Image Verifier - Neurodiverse Solutions",
+        "active": true,
+        "date_updated": 1781170299,
+        "date_posted": 1781129230,
+        "url": "https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/Image-Verifier--Neurodiverse-Solutions_R7277",
+        "locations": [
+            "Pennsylvania"
+        ],
+        "company_url": "https://simplify.jobs/c/CAI-Io",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Beth Israel Lahey Health",
+        "id": "81fd3d67-ad59-407d-be3f-f9a0a2079e0d",
+        "title": "Research Assistant 1",
+        "active": true,
+        "date_updated": 1781170673,
+        "date_posted": 1780927748,
+        "url": "https://bilh.wd1.myworkdayjobs.com/External/job/Beth-Israel-Deaconess-Medical-Center/Research-Assistant-I-position_JR97041",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Beth-Israel-Lahey-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TSMG",
+        "id": "f156a6ad-52ae-45dc-a74c-caf3cdb3c09c",
+        "title": "Field Operator - Public Transport Survey Project",
+        "active": true,
+        "date_updated": 1781172607,
+        "date_posted": 1780841130,
+        "url": "https://jobs.lever.co/tsmg/44a2c7e0-eaf6-4a77-8c39-84de459a065d/apply",
+        "locations": [
+            "Birmingham, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/TSMG",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Arkansas",
+        "id": "c738b035-beaf-4294-a78c-c57a39bbe723",
+        "title": "Assistant Professor of Physics",
+        "active": true,
+        "date_updated": 1781171808,
+        "date_posted": 1780739173,
+        "url": "https://uasys.wd5.myworkdayjobs.com/UAF_External_Career_Site/job/Fayetteville/Assistant-Professor-of-Physics_R0077898",
+        "locations": [
+            "Fayetteville, AR"
+        ],
+        "company_url": "https://simplify.jobs/c/1d49378c-2501-4900-8d62-ab3ca8ddadb0",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "FinQuery",
+        "id": "97108d56-7eab-4ad6-9e63-adccea714e91",
+        "title": "Database Engineer / Database Administrator",
+        "active": true,
+        "date_updated": 1781170202,
+        "date_posted": 1779228184,
+        "url": "https://jobs.lever.co/finquery/8d49690f-a2fe-4f7b-8af2-434d0dbeb0e9/apply",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/FinQuery",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Lightship RV",
+        "id": "95f4edde-4488-4fe4-9449-9a1bc722ea4d",
+        "title": "Software Engineer - UI/UX",
+        "active": true,
+        "date_updated": 1781169481,
+        "date_posted": 1776474357,
+        "url": "https://jobs.lever.co/lightship/b9612499-1296-4cc8-9b98-1abc602816c8/apply",
+        "locations": [
+            "San Bruno, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/LightshipRV",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
