@@ -36490,24 +36490,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "591c5b1b-f424-496e-90ac-2e06394a2472",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1760457357,
-        "date_posted": 1760457357,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/jobs/job/400028319",
-        "locations": [
-            "Crawley, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "HMH",
         "id": "c5eba073-dc9c-419a-93ee-5c316b465e86",
@@ -54747,24 +54729,6 @@
         "date_updated": 1763665517,
         "date_posted": 1762817493,
         "url": "https://homeoffice-na-urbn.icims.com/jobs/22644/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Philadelphia, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/URBN",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "URBN",
-        "id": "936de21a-95ba-44f3-8c1f-0ab522920ec4",
-        "title": "Assistant Product Development Coordinator",
-        "active": false,
-        "date_updated": 1763665532,
-        "date_posted": 1760456719,
-        "url": "https://homeoffice-na-urbn.icims.com/jobs/22705/job?mobile=true&needsRedirect=false",
         "locations": [
             "Philadelphia, PA"
         ],
@@ -341104,7 +341068,7 @@
         "company_name": "Seer Interactive",
         "id": "f741fd24-7828-44eb-b3eb-0419978561b9",
         "title": "Analytics Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1781013961,
         "date_posted": 1781013793,
         "url": "https://jobs.lever.co/seerinteractive/963de1d5-4ed9-4b14-addf-5f45e133b396/apply",
@@ -343196,7 +343160,7 @@
         "company_name": "Highmark Health",
         "id": "efe69b3e-cdf9-492c-8c66-ec79f1dc0a37",
         "title": "Associate Application Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1781100737,
         "date_posted": 1781100528,
         "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Associate-Application-Developer_J282115",
