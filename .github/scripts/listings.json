@@ -185400,7 +185400,7 @@
         "company_name": "Nokia",
         "id": "6afded81-0fb2-46fc-982c-db783ffd023d",
         "title": "Hardware Debug Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1772061090,
         "date_posted": 1772061090,
         "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/31726",
@@ -224512,7 +224512,7 @@
         "company_name": "Avnet",
         "id": "49997310-9583-4e8c-981a-385b75e55815",
         "title": "Associate Field Application Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773959504,
         "date_posted": 1773959504,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Wilmington-Massachusetts-United-States-of-America/Associate-Field-Application-Engineer_JR-022067",
@@ -228506,7 +228506,7 @@
         "company_name": "Leidos",
         "id": "8741a52e-0aaf-43bb-949a-85b23902a433",
         "title": "Software Engineer TS/SCI Poly",
-        "active": true,
+        "active": false,
         "date_updated": 1774318559,
         "date_posted": 1774318559,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Software-Engineer-TS-SCI-Poly_R-00179080",
@@ -262144,7 +262144,7 @@
         "company_name": "Hyundai Motor Company",
         "id": "6a15cae4-1550-4132-b530-779bf97e6ab2",
         "title": "Data Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1776080169,
         "date_posted": 1776070905,
         "url": "https://careers-americas.hyundai.com/hatci/job/Irvine-Data-Analyst-(North-American-Quality-Center-NAQC)-CA-92618/1368297900/?ats=successfactors",
@@ -327176,7 +327176,7 @@
         "company_name": "Deluxe Media",
         "id": "70029fc4-6d0b-4b77-8799-2586055944cf",
         "title": "Cinema Projection Systems Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1780275138,
         "date_posted": 1780131813,
         "url": "https://bydeluxe.wd5.myworkdayjobs.com/en-US/Deluxe_External/job/US-CA-Burbank/Cinema-Projection-Systems-Engineer_R0016104",
@@ -330029,7 +330029,7 @@
         "company_name": "Avnet",
         "id": "013d5015-8b47-41a8-b665-239f9ca74772",
         "title": "Software Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1780351561,
         "date_posted": 1780351528,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Tempe-Arizona-United-States-Of-America/Software-Developer_JR-022614",
@@ -333377,7 +333377,7 @@
         "company_name": "Advanced Technology Services",
         "id": "24510c03-3b39-4878-a00a-748b18799aea",
         "title": "Calibration - Metrology Technician l",
-        "active": true,
+        "active": false,
         "date_updated": 1780524913,
         "date_posted": 1777331482,
         "url": "https://job-boards.greenhouse.io/advancedtechnologyservices/jobs/4675951006",
@@ -344896,6 +344896,44 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Aptiv",
+        "id": "647032b4-8501-488e-afe3-4eb66eb85261",
+        "title": "System Engineer - OS Kernel",
+        "active": true,
+        "date_updated": 1781168581,
+        "date_posted": 1781071647,
+        "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Walnut-Creek-CA---WR/System-Engineer---OS-Kernel_J000699510",
+        "locations": [
+            "Walnut Creek, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Aptiv",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Windfall",
+        "id": "68dda974-c613-43e7-bc26-83d5c82b3626",
+        "title": "Data & AI Specialist",
+        "active": true,
+        "date_updated": 1781168221,
+        "date_posted": 1772504339,
+        "url": "https://jobs.lever.co/windfalldata/aa919b80-9247-4135-a356-c3f638c391d1/apply",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Windfall-Data",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
