@@ -36947,24 +36947,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Millennium Space Systems",
-        "id": "f3afcf45-e127-49a0-a388-f54c306e7878",
-        "title": "IT Help Desk Technician - Second Shift",
-        "active": false,
-        "date_updated": 1760402154,
-        "date_posted": 1760402154,
-        "url": "https://job-boards.greenhouse.io/millenniumspacesystems/jobs/4946479008",
-        "locations": [
-            "El Segundo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Millennium-Space-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Osaic",
         "id": "ac6ab757-7b74-4b95-8705-624672e3c12c",
         "title": "Systems Engineer 1",
@@ -343976,7 +343958,7 @@
         "company_name": "Renaissance",
         "id": "ea9f6999-9a91-4541-82bf-d1ed7f71248b",
         "title": "Data Analyst 1",
-        "active": true,
+        "active": false,
         "date_updated": 1781131033,
         "date_posted": 1781130201,
         "url": "https://job-boards.greenhouse.io/renaissancelearning-nam/jobs/5249946008",
