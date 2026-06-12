@@ -1,41 +1,5 @@
 [
     {
-        "date_updated": 1760640591,
-        "sponsorship": "Other",
-        "active": true,
-        "degrees": [],
-        "url": "https://aurora.tech/careers/8191750002?gh_jid=8191750002",
-        "company_name": "Aurora Innovation",
-        "title": "Software Engineer I - Remote Assist",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "category": "Software Engineering",
-        "source": "angie-hue",
-        "id": "f794abf3-e79e-4923-aedb-de0fc28d1119",
-        "date_posted": 1760494951,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1760640434,
-        "sponsorship": "Other",
-        "active": true,
-        "degrees": [],
-        "url": "https://aurora.tech/careers/8209480002?gh_jid=8209480002",
-        "company_name": "Aurora Innovation",
-        "title": "Software Engineer I - Remote Assist",
-        "locations": [
-            "Pittsburgh, PA"
-        ],
-        "category": "Software Engineering",
-        "source": "angie-hue",
-        "id": "2199e407-beea-48a0-92e0-2e9baccabd36",
-        "date_posted": 1760495126,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
         "source": "Simplify",
         "category": "Software",
         "company_name": "The Boeing Company",
@@ -36000,42 +35964,6 @@
             "Columbus, IN"
         ],
         "company_url": "https://simplify.jobs/c/Cummins",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Lewis Brisbois",
-        "id": "b6af341f-8681-401a-825a-5fc62fa50858",
-        "title": "Financial Systems Analyst 1",
-        "active": false,
-        "date_updated": 1762914503,
-        "date_posted": 1760493961,
-        "url": "https://careers-lewisbrisbois.icims.com/jobs/12140/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "St. Louis, MO"
-        ],
-        "company_url": "https://simplify.jobs/c/Lewis-Brisbois",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Lewis Brisbois",
-        "id": "0190c64f-e638-4491-904e-b97aa718c03f",
-        "title": "Financial Systems Analyst 1",
-        "active": false,
-        "date_updated": 1762935255,
-        "date_posted": 1760493941,
-        "url": "https://careers-lewisbrisbois.icims.com/jobs/12141/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Lewis-Brisbois",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -337548,7 +337476,7 @@
         "company_name": "Leidos",
         "id": "a3189576-f66e-4774-83e0-6007daeba5ce",
         "title": "Chinese Open-Source Intelligence Junior/Entry Level - Open-Source Intelligence Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1780753336,
         "date_posted": 1780740025,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Remote-US/Chinese-Open-Source-Intelligence--OSINT--Analyst--Junior-Entry-Level-_R-00184621",
