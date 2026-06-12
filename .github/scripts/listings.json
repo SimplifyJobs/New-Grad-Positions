@@ -313200,7 +313200,7 @@
         "company_name": "RTX",
         "id": "509f18a0-f3db-4632-8167-ec761b4e8e0e",
         "title": "Systems Engineer 1 - Multiple Teams",
-        "active": false,
+        "active": true,
         "date_updated": 1779498606,
         "date_posted": 1779498472,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-PLANO-465--465-Independence-Pkwy--INDEPENDENCE/XMLNAME-2026-Fulltime--Systems-Engineer-I---Onsite-McKinney--Texas_01822465",
@@ -326333,7 +326333,7 @@
         "company_name": "The Boeing Company",
         "id": "56f1432a-b72d-48cc-bee7-a7aab2e1cb4d",
         "title": "Associate Software Engineer DevSecOps",
-        "active": true,
+        "active": false,
         "date_updated": 1779977950,
         "date_posted": 1779977328,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tukwila-WA/Associate-Software-Engineer-DevSecOps_JR2026511961-1",
@@ -333840,7 +333840,7 @@
         "company_name": "Reach Financial",
         "id": "39349736-2696-42cf-9e4b-deaf9d2b3246",
         "title": "Credit Risk Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1780526126,
         "date_posted": 1780525423,
         "url": "https://job-boards.greenhouse.io/reach/jobs/8573228002",
@@ -334171,7 +334171,7 @@
         "company_name": "Salesforce",
         "id": "374e081c-ab1e-42a4-958d-bfb3897bede5",
         "title": "Software Engineer 1 - Service Network - Slack",
-        "active": true,
+        "active": false,
         "date_updated": 1780562020,
         "date_posted": 1780524425,
         "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Washington---Seattle/Software-Engineer-I--Service-Network---Slack_JR342034-1",
@@ -341261,7 +341261,7 @@
         "company_name": "RTX",
         "id": "1fab9d95-fb23-4cf7-81a3-5673b074bb9a",
         "title": "Software Engineer - Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1781044409,
         "date_posted": 1781042995,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-M10--3360-E-Hemisphere-Loop--BLDG-M10/XMLNAME-2026-Raytheon-Full-Time---Software-Engineer-I---Tucson--AZ--Hybrid-_01848436",
@@ -344215,7 +344215,7 @@
         "company_name": "Intuit",
         "id": "61239fab-9564-48da-9638-7a3831ee594d",
         "title": "Customer Supportability Professional 1",
-        "active": true,
+        "active": false,
         "date_updated": 1781168076,
         "date_posted": 1778796496,
         "url": "https://jobs.intuit.com/job/frisco/customer-supportability-professional-1/27595/95097650816",
@@ -344234,7 +344234,7 @@
         "company_name": "CarGurus",
         "id": "337dcf42-1e47-44d6-a19f-f5f7aea6becb",
         "title": "Associate Business Systems Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1781166781,
         "date_posted": 1777068627,
         "url": "https://careers.cargurus.com/us/en/job/7843572?gh_jid=7843572",
@@ -347638,6 +347638,67 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "UHIN",
+        "id": "2e9a0472-fb52-45e3-bd38-94762705f14e",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1781253095,
+        "date_posted": 1781053788,
+        "url": "https://ats.rippling.com/uhin-careers/jobs/8edf21d9-3938-41f5-a5a9-74cbae56a4ef",
+        "locations": [
+            "Murray, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/UHIN",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "AVEVA",
+        "id": "35149121-c96c-4c4e-8960-a72a2420d0f4",
+        "title": "Services Staff Consultant-Simulation",
+        "active": true,
+        "date_updated": 1781253721,
+        "date_posted": 1780610818,
+        "url": "https://aveva.wd3.myworkdayjobs.com/en-US/AVEVA_careers/job/Owings-Mills-MD/Services-Staff-Consultant--Pipeline-Simulation_R013078",
+        "locations": [
+            "Owings Mills, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/AVEVA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Talos",
+        "id": "396814b5-12ff-4fe3-9b91-e67fd53aa047",
+        "title": "Software Engineer - Trading Connectivity",
+        "active": true,
+        "date_updated": 1781253181,
+        "date_posted": 1768234258,
+        "url": "https://jobs.ashbyhq.com/Talos-Trading/c743ff13-4a80-4907-adf4-922a3bfbd30b/application",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Talos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
