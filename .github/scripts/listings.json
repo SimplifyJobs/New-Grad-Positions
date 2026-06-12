@@ -223838,7 +223838,7 @@
         "company_name": "Avnet",
         "id": "49997310-9583-4e8c-981a-385b75e55815",
         "title": "Associate Field Application Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773959504,
         "date_posted": 1773959504,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Wilmington-Massachusetts-United-States-of-America/Associate-Field-Application-Engineer_JR-022067",
@@ -240099,7 +240099,7 @@
         "company_name": "Integrated Resources",
         "id": "094b63fd-a855-4dd9-b36d-489c7a86d490",
         "title": "Data Integration Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1774972621,
         "date_posted": 1771917983,
         "url": "https://jobs.smartrecruiters.com/IntegratedResourcesINC/84273134",
@@ -308848,7 +308848,7 @@
         "company_name": "Proofpoint",
         "id": "5acb27df-8e45-43bd-a8d6-41396015acee",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1779229441,
         "date_posted": 1779228595,
         "url": "https://proofpoint.wd5.myworkdayjobs.com/proofpointcareers/job/Sunnyvale-CA/Software-Engineer-I_R14146-1",
@@ -310158,7 +310158,7 @@
         "company_name": "Nasdaq",
         "id": "538b0d2c-fe88-472e-a87f-a155771e3ad3",
         "title": "Graduate Data Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1779315516,
         "date_posted": 1779314751,
         "url": "https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/USA---Boston---Massachusetts/Data-Scientist---Graduate_R0026144",
@@ -319033,7 +319033,7 @@
         "company_name": "Mizuho Securities USA",
         "id": "59c000df-f9d5-46d2-82bb-a149dc45591c",
         "title": "Derivatives Risk Solutions Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1779832624,
         "date_posted": 1779314778,
         "url": "https://mizuho.wd1.myworkdayjobs.com/mizuhoamericas/job/New-York-NY-1271-AOA6th-Ave/DRS-Analyst_R7049",
@@ -329355,7 +329355,7 @@
         "company_name": "Avnet",
         "id": "013d5015-8b47-41a8-b665-239f9ca74772",
         "title": "Software Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1780351561,
         "date_posted": 1780351528,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Tempe-Arizona-United-States-Of-America/Software-Developer_JR-022614",
@@ -338292,7 +338292,7 @@
         "source": "Simplify",
         "category": "Hardware",
         "company_name": "TTP",
-        "id": "edb319e2-e574-40bd-9fa0-da64c1142067",
+        "id": "1c4edf26-8b8d-4507-83a4-7b06f211012f",
         "title": "FPGA Engineer - Consultant",
         "active": true,
         "date_updated": 1780927933,
@@ -342181,7 +342181,7 @@
         "company_name": "Marsh & McLennan",
         "id": "e33227af-dba6-4917-83fe-2c821f05e691",
         "title": "Enrollment Executive",
-        "active": false,
+        "active": true,
         "date_updated": 1781083235,
         "date_posted": 1781082814,
         "url": "https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Mumbai---Times-Square/Enrollment-Executive_R_351117-1",
@@ -347903,6 +347903,148 @@
         "degrees": [
             "Bachelor's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Stantec",
+        "id": "89a6c4d4-f82c-4c30-8e2c-d07119187154",
+        "title": "Junior Geoscientist",
+        "active": true,
+        "date_updated": 1781273162,
+        "date_posted": 1781273014,
+        "url": "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1006302",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Stantec",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Charles Schwab",
+        "id": "76b319af-7594-41db-8a6a-1e5d1b23c8ec",
+        "title": "Data and Rep Technology Associate",
+        "active": true,
+        "date_updated": 1781273963,
+        "date_posted": 1781273294,
+        "url": "https://career-schwab.icims.com/jobs/122801/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Southlake, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Charles-Schwab",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "AlphaSights",
+        "id": "d6d02f1d-f30b-49c8-9c02-5212411721fb",
+        "title": "Graduate Product Analyst",
+        "active": true,
+        "date_updated": 1781273525,
+        "date_posted": 1781273260,
+        "url": "https://www.alphasights.com/careers/open-roles?gh_jid=7995035",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/AlphaSights",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TD Synnex",
+        "id": "a0ae01ef-cad6-491d-98dc-2e3a937aa0f0",
+        "title": "Imports Associate - Process Automation",
+        "active": true,
+        "date_updated": 1781273525,
+        "date_posted": 1781273321,
+        "url": "https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Leicester-United-Kingdom/Imports-Associate---Process-Automation_R52311",
+        "locations": [
+            "Paris, France",
+            "Leicester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/TD-Synnex",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Fannie Mae",
+        "id": "4489072d-3faf-4330-9ff2-0c2987d60e7a",
+        "title": "Senior Full Stack Software Engineer",
+        "active": true,
+        "date_updated": 1781273525,
+        "date_posted": 1781273181,
+        "url": "https://fanniemae.wd1.myworkdayjobs.com/FannieMaeCareers/job/Reston-VA/Senior-Full-Stack-Software-Engineer_JR2555",
+        "locations": [
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Fannie-Mae",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Iron Mountain",
+        "id": "404b245e-80fc-4c54-9740-aa1d2ec20990",
+        "title": "Bench Technician",
+        "active": true,
+        "date_updated": 1781273860,
+        "date_posted": 1781273198,
+        "url": "https://ironmountain.wd5.myworkdayjobs.com/iron-mountain-jobs/job/US--FL--Brooksville--2005-Broad-St/Bench-Technican_J0103761",
+        "locations": [
+            "Brooksville, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Iron-Mountain",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Lincoln Financial",
+        "id": "a771395a-bba9-45b2-ad4e-a99b513fb968",
+        "title": "Associate \u2013 Actuarial Data Engineer",
+        "active": true,
+        "date_updated": 1781272981,
+        "date_posted": 1781272978,
+        "url": "https://jobs.lincolnfinancial.com/job/Charlotte-Associate,-Actuarial-Data-Engineer-NC-28201/1394446300/?ats=successfactors",
+        "locations": [
+            "Villanova, PA",
+            "Charlotte, NC",
+            "Omaha, NE",
+            "Greensboro, NC",
+            "Fort Wayne, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Lincoln-Financial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
