@@ -223099,7 +223099,7 @@
         "company_name": "Avnet",
         "id": "0374d942-8b19-45e9-8850-322095453a57",
         "title": "Associate Field Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773959504,
         "date_posted": 1773959504,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -320609,7 +320609,7 @@
         "company_name": "LexisNexis Risk Solutions",
         "id": "f7292aa6-7328-4d24-92dd-1c877cb86dce",
         "title": "Solutions Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1779876631,
         "date_posted": 1778922100,
         "url": "https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/United-Kingdom/Solutions-Analyst_R109322",
@@ -325500,7 +325500,7 @@
         "company_name": "Howden",
         "id": "ed0cdea7-60b4-4ecf-84ec-32fc477a3b7e",
         "title": "Pricing Graduate",
-        "active": true,
+        "active": false,
         "date_updated": 1779961225,
         "date_posted": 1779959682,
         "url": "https://hyperiongrp.wd3.myworkdayjobs.com/Hyperion_External/job/Pricing-Graduate_R0015065-1",
@@ -325540,7 +325540,7 @@
         "company_name": "Light & Wonder",
         "id": "cf514607-9f5a-46ba-99be-48c79d3fffd9",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1779962115,
         "date_posted": 1779528348,
         "url": "https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Reno-NV/Software-Engineer_R321148",
@@ -326484,7 +326484,7 @@
         "company_name": "Leidos",
         "id": "c2ced759-415c-4430-971e-4945e24dcfcc",
         "title": "Electronics Mechanical Assembly Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1780275161,
         "date_posted": 1780134819,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Electronics-Mechanical-Assembly-Technician_R-00182031",
@@ -327452,7 +327452,7 @@
         "company_name": "GE Healthcare",
         "id": "d0c9719f-a3d9-4720-acc4-f89f17ec0609",
         "title": "Lead Service Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1780307361,
         "date_posted": 1780134777,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Lead-Service-Engineer_R4041301-1",
@@ -329901,7 +329901,7 @@
         "company_name": "The Toro Company",
         "id": "e09a8a7b-96c7-4b97-baa5-753234702118",
         "title": "Technical Product Support Representative 1",
-        "active": true,
+        "active": false,
         "date_updated": 1780394492,
         "date_posted": 1780133094,
         "url": "https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/Technical-Product-Support-Representative-I---The-Toro-Company_JR16145",
@@ -337084,7 +337084,7 @@
         "company_name": "CoStar Group",
         "id": "e9de2def-6691-4fdf-b560-a4a2a8389478",
         "title": "Associate Research Consultant",
-        "active": true,
+        "active": false,
         "date_updated": 1780740818,
         "date_posted": 1780740319,
         "url": "https://costar.wd1.myworkdayjobs.com/en-US/CoStarCareers/job/US-VA-Richmond/Bilingual-Associate-Research-Consultant-French-English_R37800",
@@ -340777,7 +340777,7 @@
         "company_name": "Kantar",
         "id": "fe9a5d14-b182-45d8-a0fc-fe9b5746f888",
         "title": "Associate Analytics",
-        "active": false,
+        "active": true,
         "date_updated": 1781043041,
         "date_posted": 1781042659,
         "url": "https://kantar.wd3.myworkdayjobs.com/kantar/job/Atlanta-Perimeter/Associate--Analytics_R101653",
@@ -345358,7 +345358,7 @@
         "company_name": "TSMG",
         "id": "f156a6ad-52ae-45dc-a74c-caf3cdb3c09c",
         "title": "Field Operator - Public Transport Survey Project",
-        "active": true,
+        "active": false,
         "date_updated": 1781172607,
         "date_posted": 1780841130,
         "url": "https://jobs.lever.co/tsmg/44a2c7e0-eaf6-4a77-8c39-84de459a065d/apply",
@@ -345376,7 +345376,7 @@
         "company_name": "University of Arkansas",
         "id": "c738b035-beaf-4294-a78c-c57a39bbe723",
         "title": "Assistant Professor of Physics",
-        "active": true,
+        "active": false,
         "date_updated": 1781171808,
         "date_posted": 1780739173,
         "url": "https://uasys.wd5.myworkdayjobs.com/UAF_External_Career_Site/job/Fayetteville/Assistant-Professor-of-Physics_R0077898",
@@ -347798,6 +347798,69 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Teledyne",
+        "id": "f86907c2-3156-415d-850d-49e810279042",
+        "title": "Service Technician",
+        "active": true,
+        "date_updated": 1781259481,
+        "date_posted": 1780740313,
+        "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Hudson-NH/Service-Engineer_REQ33750",
+        "locations": [
+            "Nashua, NH"
+        ],
+        "company_url": "https://simplify.jobs/c/199b3c43-379a-408c-a6a8-980e79183038",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Huntington Bancshares",
+        "id": "fea9b26b-7490-4baf-9dfb-79979a9b2303",
+        "title": "Data & Insights Analyst - Commercial Banking",
+        "active": true,
+        "date_updated": 1781259481,
+        "date_posted": 1781186911,
+        "url": "https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Charlotte-NC/Senior-CML-Data-and-Insights-Analyst_R0066661",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Huntington-Bancshares",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Johnson & Johnson",
+        "id": "eea5d893-6593-430f-8d7c-a94d75fb56ad",
+        "title": "Data Scientist and Application Developer",
+        "active": true,
+        "date_updated": 1781259122,
+        "date_posted": 1781158112,
+        "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Titusville-New-Jersey-United-States-of-America/Data-Scientist-and-Application-Developer_R-079813",
+        "locations": [
+            "New Hope, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Johnson-Johnson",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
             "PhD"
         ]
     }
