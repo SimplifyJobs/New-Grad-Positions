@@ -223361,7 +223361,7 @@
         "company_name": "Avnet",
         "id": "0374d942-8b19-45e9-8850-322095453a57",
         "title": "Associate Field Application Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773959504,
         "date_posted": 1773959504,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -224100,7 +224100,7 @@
         "company_name": "Avnet",
         "id": "49997310-9583-4e8c-981a-385b75e55815",
         "title": "Associate Field Application Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773959504,
         "date_posted": 1773959504,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Wilmington-Massachusetts-United-States-of-America/Associate-Field-Application-Engineer_JR-022067",
@@ -291322,7 +291322,7 @@
         "company_name": "Freeform",
         "id": "0999b412-5456-4f0d-ad17-61e8e0a48dcb",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1777944421,
         "date_posted": 1775524601,
         "url": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7691540003",
@@ -329575,7 +329575,7 @@
         "company_name": "General Motors",
         "id": "95fe52bd-6718-4467-a2b0-76f1071db57d",
         "title": "Software Developer - Test Framework",
-        "active": false,
+        "active": true,
         "date_updated": 1780352904,
         "date_posted": 1780351604,
         "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Markham-Ontario-Canada/Early-Career-Software-Developer---Test-Framework_JR-202612062",
@@ -329617,7 +329617,7 @@
         "company_name": "Avnet",
         "id": "013d5015-8b47-41a8-b665-239f9ca74772",
         "title": "Software Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1780351561,
         "date_posted": 1780351528,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Tempe-Arizona-United-States-Of-America/Software-Developer_JR-022614",
@@ -336055,7 +336055,7 @@
         "company_name": "Anduril",
         "id": "0a20816a-d18d-455c-9e1d-fe6a126bb513",
         "title": "Product Operations Associate - Tier 1",
-        "active": false,
+        "active": true,
         "date_updated": 1780622132,
         "date_posted": 1774574788,
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/5081383007",
@@ -337308,7 +337308,7 @@
         "company_name": "CPI Security",
         "id": "9e1d0c81-c458-4208-9b1f-428a1f0bb32f",
         "title": "Commercial Installation Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1780708237,
         "date_posted": 1780697231,
         "url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4687293006",
@@ -346550,7 +346550,7 @@
         "company_name": "Goldman Sachs",
         "id": "aa693cdb-f3f2-4ceb-b496-134b2a24595a",
         "title": "HCM Associate - Data Analytics and Reporting",
-        "active": false,
+        "active": true,
         "date_updated": 1781187814,
         "date_posted": 1781042930,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/176302",
@@ -347650,6 +347650,74 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Bank of America",
+        "id": "7d743f02-2a21-4dcb-a701-d5ce0f77b685",
+        "title": "Client Quantitative Analyst 1 - Analytics Transformation",
+        "active": true,
+        "date_updated": 1781227335,
+        "date_posted": 1781226626,
+        "url": "https://ghr.wd1.myworkdayjobs.com/us-emplsv/job/New-York/Client-Quantitative-Analyst-I---Analytics-Transformation_26019832",
+        "locations": [
+            "Boston, MA",
+            "Plano, TX",
+            "Charlotte, NC",
+            "NYC",
+            "Jacksonville, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Bank-Of-America",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GE Healthcare",
+        "id": "be43ff91-9943-4a01-a2c4-622e32f55495",
+        "title": "Field Service Engineer 1",
+        "active": true,
+        "date_updated": 1781226781,
+        "date_posted": 1781226497,
+        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1_R4042117-1",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Healthcare",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Texas at Austin",
+        "id": "7775f115-a0de-4049-8fc1-d7b7a2fb84a4",
+        "title": "Data Engineer 1",
+        "active": true,
+        "date_updated": 1781226608,
+        "date_posted": 1781226410,
+        "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/AUSTIN-TX/Data-Engineer-I_R_00045134",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Texas-Austin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
