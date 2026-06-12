@@ -322596,7 +322596,7 @@
         "company_name": "Dallas College",
         "id": "71e59b3e-2709-4af6-a76d-ec162d075d72",
         "title": "Data Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1779920120,
         "date_posted": 1779919520,
         "url": "https://dallascollege.wd1.myworkdayjobs.com/Dallas_College_Careers/job/Dallas-College-Administration/Data-Engineer_R12864",
@@ -337108,7 +337108,7 @@
         "company_name": "CPI Security",
         "id": "9e1d0c81-c458-4208-9b1f-428a1f0bb32f",
         "title": "Commercial Installation Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1780708237,
         "date_posted": 1780697231,
         "url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4687293006",
@@ -347618,6 +347618,26 @@
         "degrees": [
             "Bachelor's",
             "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TC Energy",
+        "id": "1290a086-1afc-4969-ba55-dd26f1bc487f",
+        "title": "Application Developer - Data & Digital Solutions",
+        "active": true,
+        "date_updated": 1781244361,
+        "date_posted": 1781244337,
+        "url": "https://tcenergy.wd3.myworkdayjobs.com/CAREER_SITE_TC/job/Houston-Texas/Application-Developer---Data---Digital-Solutions_JR-10307",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/TC-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
