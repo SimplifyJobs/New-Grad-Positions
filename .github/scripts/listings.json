@@ -3601,25 +3601,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "Uncountable",
-        "id": "5bff7996-9388-4d35-91f2-291c8320b58f",
-        "title": "Product Manager \u2013 New Grad",
-        "active": false,
-        "date_updated": 1760489574,
-        "date_posted": 1760489574,
-        "url": "https://jobs.lever.co/uncountable/0cccea19-b6b7-445b-8895-36b9fc0e502e/apply",
-        "locations": [
-            "SF",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Uncountable",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Glide",
         "id": "d68084c5-ab49-4255-ae22-0c224fc51dfe",
@@ -35962,44 +35943,6 @@
         "locations": [
             "London, UK",
             "Munich, Germany"
-        ],
-        "company_url": "https://simplify.jobs/c/Uncountable",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Uncountable",
-        "id": "63ea9033-9a45-4728-a056-f7132536cb78",
-        "title": "Software Engineer for Chemistry Applications",
-        "active": false,
-        "date_updated": 1762929641,
-        "date_posted": 1760489863,
-        "url": "https://jobs.lever.co/uncountable/6f51161f-fe9b-4ddc-8006-7b13b4cf415a/apply",
-        "locations": [
-            "SF",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Uncountable",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Uncountable",
-        "id": "06de8b66-b94d-493e-ad4d-a70a32ed5fa7",
-        "title": "Scientific Data Engineer",
-        "active": false,
-        "date_updated": 1760489616,
-        "date_posted": 1760489616,
-        "url": "https://jobs.lever.co/uncountable/f634a632-c93e-4110-8cbf-7fb54b8fe244/apply",
-        "locations": [
-            "SF",
-            "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Uncountable",
         "is_visible": true,
@@ -331066,7 +331009,7 @@
         "company_name": "Cisco",
         "id": "dd41795d-26bf-459d-8d69-e77d6ff3a99c",
         "title": "Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1780439527,
         "date_posted": 1780438079,
         "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/London-United-Kingdom/Data-Analyst_2013255",
