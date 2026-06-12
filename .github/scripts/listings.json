@@ -44,26 +44,6 @@
     {
         "source": "Simplify",
         "category": "Hardware",
-        "company_name": "General Dynamics Mission Systems",
-        "id": "d8575087-4761-455e-81d5-76128b7545eb",
-        "title": "Entry Level Infrastructure Software Engineer",
-        "active": false,
-        "date_updated": 1760520636,
-        "date_posted": 1760520636,
-        "url": "https://careers-gdms.icims.com/jobs/68517/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Pittsfield, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
         "company_name": "The Boeing Company",
         "id": "24a99f74-4f12-49c0-992c-7274fafd0e46",
         "title": "Entry Level Software Engineer-Developer - CITS Software - C++, C, Ada, C#",
@@ -223161,7 +223141,7 @@
         "company_name": "Avnet",
         "id": "0374d942-8b19-45e9-8850-322095453a57",
         "title": "Associate Field Application Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773959504,
         "date_posted": 1773959504,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -332297,7 +332277,7 @@
         "company_name": "Stevens Institute of Technology",
         "id": "79e05eca-1049-4e66-b595-48c413a41398",
         "title": "Postdoctoral Associate-Systems Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1780477806,
         "date_posted": 1780131853,
         "url": "https://stevens.wd5.myworkdayjobs.com/External/job/Hoboken-NJ---Main-Campus/Postdoctoral-Associate-Systems-Engineering_RQ29678-1",
@@ -345402,7 +345382,7 @@
         "company_name": "Beth Israel Lahey Health",
         "id": "81fd3d67-ad59-407d-be3f-f9a0a2079e0d",
         "title": "Research Assistant 1",
-        "active": true,
+        "active": false,
         "date_updated": 1781170673,
         "date_posted": 1780927748,
         "url": "https://bilh.wd1.myworkdayjobs.com/External/job/Beth-Israel-Deaconess-Medical-Center/Research-Assistant-I-position_JR97041",
@@ -346350,7 +346330,7 @@
         "company_name": "Goldman Sachs",
         "id": "aa693cdb-f3f2-4ceb-b496-134b2a24595a",
         "title": "HCM Associate - Data Analytics and Reporting",
-        "active": false,
+        "active": true,
         "date_updated": 1781187814,
         "date_posted": 1781042930,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/176302",
@@ -347699,6 +347679,47 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "ASML",
+        "id": "79f0c18b-082f-47c3-973c-94dbac055391",
+        "title": "Optical Fabrication Technician",
+        "active": true,
+        "date_updated": 1781255620,
+        "date_posted": 1780409320,
+        "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Optical-Fabrication-Technician-CWW-Front-End-Nights_J-00342603",
+        "locations": [
+            "Wilton, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/ASML",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Charles Schwab",
+        "id": "975deef6-2f5e-44a1-a6e7-38672d9531d4",
+        "title": "International Trader Service Specialist - Trader Service - International Client Services",
+        "active": true,
+        "date_updated": 1781255784,
+        "date_posted": 1780351676,
+        "url": "https://career-schwab.icims.com/jobs/121940/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Westlake, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Charles-Schwab",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
