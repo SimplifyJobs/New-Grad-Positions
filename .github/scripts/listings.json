@@ -1,26 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "The Boeing Company",
-        "id": "24a99f74-4f12-49c0-992c-7274fafd0e46",
-        "title": "Entry Level Software Engineer-Developer - CITS Software - C++, C, Ada, C#",
-        "active": false,
-        "date_updated": 1760559262,
-        "date_posted": 1760559262,
-        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tinker-AFB-OK/Entry-Level-Software-Engineer-Developer_JR2025467657-1",
-        "locations": [
-            "Oklahoma City, OK"
-        ],
-        "company_url": "https://simplify.jobs/c/Boeing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Divergent Technologies",
         "id": "b192eb3f-479a-4467-8761-5b5b93418ad0",
@@ -35679,24 +35659,6 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Applecart",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Encord",
-        "id": "d0dbd69b-155f-409a-a829-b564326177a8",
-        "title": "Associate Software Engineer \u2013 Graduate",
-        "active": false,
-        "date_updated": 1762438477,
-        "date_posted": 1760560117,
-        "url": "https://jobs.lever.co/CordTechnologies/8c1f2a94-c28a-4ecd-8051-eb6f8fdb5fcb/apply",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Encord",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
