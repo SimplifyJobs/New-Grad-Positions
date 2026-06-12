@@ -294051,7 +294051,7 @@
         "company_name": "Tradeweb",
         "id": "b9121e6a-a07d-4149-bffe-7d52d940e7e9",
         "title": "C++ Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1778105161,
         "date_posted": 1778104997,
         "url": "https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301754",
@@ -331090,7 +331090,7 @@
         "company_name": "GE Healthcare",
         "id": "a25195a8-f1bb-4453-afd1-1d2bf77834a1",
         "title": "Field Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1780439202,
         "date_posted": 1780437969,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer-1_R4041554-1",
@@ -336594,7 +336594,7 @@
         "company_name": "RTX",
         "id": "90023565-414f-4613-bacf-b68d9c684ecc",
         "title": "Design Integrity Checker 1",
-        "active": false,
+        "active": true,
         "date_updated": 1780698649,
         "date_posted": 1780697446,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-ANDOVER-AN0--366-Lowell-St--BLDG-AN0/Design-Integrity-Checker-I_01848004",
@@ -337744,7 +337744,7 @@
         "company_name": "Micron Technology",
         "id": "9267fe8e-b590-4842-85e9-0bca2903ec17",
         "title": "Staff Product Yield Enhancement Engineer - High Bandwidth Memory",
-        "active": true,
+        "active": false,
         "date_updated": 1780824303,
         "date_posted": 1780742574,
         "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Staff-Product-Yield-Enhancement-Engineer--HBM_JR86051",
@@ -338159,7 +338159,7 @@
         "company_name": "Flextronics International",
         "id": "905701ce-acbf-43fa-9e76-f07fa2c7e241",
         "title": "Panel Wire Prep",
-        "active": true,
+        "active": false,
         "date_updated": 1780910747,
         "date_posted": 1780740754,
         "url": "https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-CA-Fontana/Panel-Wire-Prep_WD219027-2",
@@ -338531,7 +338531,7 @@
         "company_name": "Varian",
         "id": "d0cec003-02ca-401b-9382-65962bd57979",
         "title": "Field Service Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1780956361,
         "date_posted": 1780956332,
         "url": "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/SEA-FO/Field-Service-Engineer---HW---Seattle--WA_R-28714-1",
@@ -341257,7 +341257,7 @@
         "company_name": "Bose",
         "id": "b9fe86b3-9c62-49fa-8137-0d4b93673399",
         "title": "PCB Solder Technician 1",
-        "active": false,
+        "active": true,
         "date_updated": 1781044607,
         "date_posted": 1781042840,
         "url": "https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-NY---Binghamton/Solder-Technician-I_R29023",
@@ -341275,7 +341275,7 @@
         "company_name": "The Boeing Company",
         "id": "b8d19a1b-fe40-4bd1-ad28-7a1d34c85eb5",
         "title": "Entry-Level Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1781044021,
         "date_posted": 1781043002,
         "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Huntington-Beach-CA/Entry-Level-Software-Engineer---Developer_JR2026506063-1",
@@ -341632,7 +341632,7 @@
         "company_name": "The Boeing Company",
         "id": "ae757f06-5a38-43d3-81dd-beebff28e765",
         "title": "Entry-Level Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1781044021,
         "date_posted": 1781043013,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Huntington-Beach-CA/Entry-Level-Software-Engineer---Developer_JR2026506063-2",
@@ -346288,7 +346288,7 @@
         "company_name": "Goldman Sachs",
         "id": "aa693cdb-f3f2-4ceb-b496-134b2a24595a",
         "title": "HCM Associate - Data Analytics and Reporting",
-        "active": true,
+        "active": false,
         "date_updated": 1781187814,
         "date_posted": 1781042930,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/176302",
@@ -347422,7 +347422,7 @@
         "company_name": "GE Healthcare",
         "id": "be43ff91-9943-4a01-a2c4-622e32f55495",
         "title": "Field Service Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1781226781,
         "date_posted": 1781226497,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1_R4042117-1",
@@ -347759,6 +347759,46 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Stanley Black & Decker",
+        "id": "a44ee013-aadd-4835-86ab-75fe3e9b47b0",
+        "title": "Engineering Technician - Electrical",
+        "active": true,
+        "date_updated": 1781257184,
+        "date_posted": 1781215466,
+        "url": "https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Valley-City-OH-United-States/Engineering-Technician--Electrical_REQ-1000048988",
+        "locations": [
+            "Strongsville, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Stanley-Black-Decker",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Maryland - College Park",
+        "id": "aded84fb-4d21-4dae-b6fc-4ee782d8a5ec",
+        "title": "Post Doctoral Associate",
+        "active": true,
+        "date_updated": 1781257358,
+        "date_posted": 1781257150,
+        "url": "https://umd.wd1.myworkdayjobs.com/UMCP/job/University-of-Maryland-College-Park/Post-Doctoral-Associate_JR101922",
+        "locations": [
+            "Hyattsville, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Maryland-College-Park",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
         ]
     }
 ]
