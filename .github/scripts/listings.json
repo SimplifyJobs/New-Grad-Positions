@@ -1,48 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Visa",
-        "id": "7a130464-e6c3-48e1-ba3f-77e84ab25749",
-        "title": "Software Engineer \u2013 New College Grad - 2026 - Foster City",
-        "active": false,
-        "date_updated": 1760520984,
-        "date_posted": 1760520984,
-        "url": "https://jobs.smartrecruiters.com/Visa/744000087984042",
-        "locations": [
-            "San Mateo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Visa",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Visa",
-        "id": "3ab0dbd7-e279-4587-af4e-7414f2394295",
-        "title": "Software Engineer \u2013 New College Grad - 2026 - Austin - TX",
-        "active": false,
-        "date_updated": 1760521022,
-        "date_posted": 1760521022,
-        "url": "https://jobs.smartrecruiters.com/Visa/744000087969305",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Visa",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "The Boeing Company",
         "id": "24a99f74-4f12-49c0-992c-7274fafd0e46",
@@ -240157,7 +240115,7 @@
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Lawrence Livermore National Laboratory (LLNL)",
-        "id": "35bdadb3-6dd8-4e23-b36d-a34aa8762510",
+        "id": "5a03e922-9be2-4e12-9821-b01d8c92b5e6",
         "title": "Uncertainty Quantification for Surrogate Models Postdoctoral Researcher",
         "active": true,
         "date_updated": 1774972621,
@@ -336408,7 +336366,7 @@
         "company_name": "BTI Solutions",
         "id": "7be6f499-297b-4d45-90f0-abbc457bbce3",
         "title": "Mobile Device Failure Analysis Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1780697161,
         "date_posted": 1780697078,
         "url": "https://btisolutions.wd12.myworkdayjobs.com/External/job/Plano-TX/Mobile-Device-Failure-Analysis-Engineer--Korean-Bilingual--AM7177518_JR101854-1",
@@ -338969,7 +338927,7 @@
         "company_name": "Goldman Sachs",
         "id": "2e34b863-9eb5-4b1d-b3f1-959a8e16227c",
         "title": "Global Banking & Markets Public - Systematic Trading Strategies Trading - Ana/Aso",
-        "active": false,
+        "active": true,
         "date_updated": 1780958352,
         "date_posted": 1780956560,
         "url": "https://higher.gs.com/roles/175884",
@@ -345362,7 +345320,7 @@
         "company_name": "CAI",
         "id": "8a849022-9763-4117-a1c4-04369a4fe47b",
         "title": "Image Verifier - Neurodiverse Solutions",
-        "active": true,
+        "active": false,
         "date_updated": 1781170299,
         "date_posted": 1781129230,
         "url": "https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/Image-Verifier--Neurodiverse-Solutions_R7277",
@@ -347716,6 +347674,87 @@
             "Westlake, TX"
         ],
         "company_url": "https://simplify.jobs/c/Charles-Schwab",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "KLA",
+        "id": "72607856-ccbb-4ef0-8981-16af3af71bb6",
+        "title": "Field Service Engineer Semiconductor Equipment",
+        "active": true,
+        "date_updated": 1781256094,
+        "date_posted": 1781255655,
+        "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Chandler-AZ/Field-Service-Engineer-Semi-conductor-Equipment_2637284",
+        "locations": [
+            "Chandler, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/KLA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "KLA",
+        "id": "e675320e-527b-4836-a222-75959950a5aa",
+        "title": "Field Service Engineer Semiconductor Equipment",
+        "active": true,
+        "date_updated": 1781256107,
+        "date_posted": 1781255732,
+        "url": "https://kla.wd1.myworkdayjobs.com/search/job/Chandler-AZ/Field-Service-Engineer-Semi-conductor-Equipment_2637284-1",
+        "locations": [
+            "Chandler, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/KLA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "L3Harris Technologies",
+        "id": "aaa1ea39-26cc-459b-b198-b06ba3416e10",
+        "title": "Senior Software Engineer - Software Engineer - Cloud Web Development",
+        "active": true,
+        "date_updated": 1781256883,
+        "date_posted": 1781042840,
+        "url": "https://jobs.l3harris.com/job/Patrick-Air-Force-Base-Senior-Associate,-Software-Engineer-(Cloud-Web-Development)-FL-32925/1397915000/?ats=successfactors",
+        "locations": [
+            "Melbourne, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Probook",
+        "id": "78ed4c00-f810-4174-be06-0382cf25176f",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1781254841,
+        "date_posted": 1777068545,
+        "url": "https://jobs.ashbyhq.com/probook/83a9ab68-0f4c-437f-8d9a-2566eaf9aba6/application",
+        "locations": [
+            "Union City, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Probook",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
