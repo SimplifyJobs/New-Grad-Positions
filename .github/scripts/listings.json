@@ -35952,24 +35952,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Cummins",
-        "id": "9119ae79-fbaf-4e32-8d51-ed4b715d5e9a",
-        "title": "BMS Product Engineer",
-        "active": false,
-        "date_updated": 1760498514,
-        "date_posted": 1760498514,
-        "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2420390",
-        "locations": [
-            "Columbus, IN"
-        ],
-        "company_url": "https://simplify.jobs/c/Cummins",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "RaceTrac",
         "id": "848d628f-a2b1-4819-96a5-fba9093b78c8",
