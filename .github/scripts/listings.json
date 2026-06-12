@@ -342439,7 +342439,7 @@
         "company_name": "American Express",
         "id": "975ff09a-6cc0-4be0-a253-23fac5708a07",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1781082834,
         "date_posted": 1781082294,
         "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26008970",
