@@ -81188,24 +81188,6 @@
     {
         "source": "Simplify",
         "category": "Product",
-        "company_name": "Vetcor",
-        "id": "920bf035-113d-45ba-8cfd-a774bbd34c47",
-        "title": "Veterinarian - Interlachen, FL",
-        "active": false,
-        "date_updated": 1765534632,
-        "date_posted": 1760570204,
-        "url": "https://careers-vet.icims.com/jobs/9849/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Merrimack, NH"
-        ],
-        "company_url": "https://simplify.jobs/c/Vetcor",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
         "company_name": "Turner & Townsend",
         "id": "82ea7f43-65c7-475e-8a2c-9d6ffbffcb4d",
         "title": "SC Cleared Digital Product Manager - Defence - Bristol\", \"London\", \"Manchester",
@@ -329205,7 +329187,7 @@
         "company_name": "Avnet",
         "id": "013d5015-8b47-41a8-b665-239f9ca74772",
         "title": "Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1780351561,
         "date_posted": 1780351528,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Tempe-Arizona-United-States-Of-America/Software-Developer_JR-022614",
@@ -329273,7 +329255,7 @@
         "company_name": "Charles Schwab",
         "id": "fb3953b3-2f53-4568-ad66-ac42ffa5b712",
         "title": "International Trader Service Specialist - Trader Service - International Client Services",
-        "active": true,
+        "active": false,
         "date_updated": 1780362715,
         "date_posted": 1780362506,
         "url": "https://career-schwab.icims.com/jobs/119775/job?mobile=true&needsRedirect=false",
@@ -338777,7 +338759,7 @@
         "company_name": "Goldman Sachs",
         "id": "2e34b863-9eb5-4b1d-b3f1-959a8e16227c",
         "title": "Global Banking & Markets Public - Systematic Trading Strategies Trading - Ana/Aso",
-        "active": false,
+        "active": true,
         "date_updated": 1780958352,
         "date_posted": 1780956560,
         "url": "https://higher.gs.com/roles/175884",
@@ -346138,7 +346120,7 @@
         "company_name": "Goldman Sachs",
         "id": "aa693cdb-f3f2-4ceb-b496-134b2a24595a",
         "title": "HCM Associate - Data Analytics and Reporting",
-        "active": true,
+        "active": false,
         "date_updated": 1781187814,
         "date_posted": 1781042930,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/176302",
@@ -348738,6 +348720,292 @@
         "degrees": [
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Blackhawk Network Holdings",
+        "id": "7a71ece6-7f17-47ea-a182-140670868d14",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1781301961,
+        "date_posted": 1781301941,
+        "url": "https://careers-blackhawknetwork.icims.com/jobs/26648/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Coppell, TX",
+            "SF",
+            "Dallas, TX",
+            "Portland, ME"
+        ],
+        "company_url": "https://simplify.jobs/c/Blackhawk-Network-Holdings",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Medline",
+        "id": "c574098f-068d-49ea-94ed-6a2f2114d073",
+        "title": "Associate Linux Administrator",
+        "active": true,
+        "date_updated": 1781303221,
+        "date_posted": 1781302091,
+        "url": "https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/Northbrook-Illinois/Associate-Linux-Administrator_R2608921",
+        "locations": [
+            "Northbrook, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/f22ab711-4900-472d-be8a-7263e99e49fa",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Rockwell Automation",
+        "id": "a63f8879-51f7-4528-83d8-46b696811b04",
+        "title": "Associate Embedded Software Engineer",
+        "active": true,
+        "date_updated": 1781303522,
+        "date_posted": 1781302195,
+        "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Associate-Software-Engineer-Embedded_R26-3608",
+        "locations": [
+            "Mayfield Heights, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Rockwell-Automation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Manulife Financial",
+        "id": "0c21e692-8348-4dfc-9dc0-35154461f6d5",
+        "title": "Junior Investment Analyst",
+        "active": true,
+        "date_updated": 1781303598,
+        "date_posted": 1781302234,
+        "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Jr-Investment-Analyst_JR26051747",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Manulife-Financial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "MBA"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Sandisk",
+        "id": "c5acd21d-5a30-4ffa-8045-71e24b865ab7",
+        "title": "System Product Engineer New Grad",
+        "active": true,
+        "date_updated": 1781302348,
+        "date_posted": 1781301936,
+        "url": "https://jobs.smartrecruiters.com/Sandisk/744000131987189",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Sandisk",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "General Dynamics Information Technology",
+        "id": "c3b0521a-5d66-4495-9024-ff848506f944",
+        "title": "Software Developer",
+        "active": true,
+        "date_updated": 1781302503,
+        "date_posted": 1781301988,
+        "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Chantilly/Software-Developer---TS-SCI-with-Polygraph_RQ222347-1",
+        "locations": [
+            "Chantilly, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/GDIT",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Vertiv",
+        "id": "34b59017-2163-468c-9501-d09e2c4d5e3e",
+        "title": "Electrical Testing Technician",
+        "active": true,
+        "date_updated": 1781303392,
+        "date_posted": 1781302092,
+        "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20274275",
+        "locations": [
+            "Kansas City, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Vertiv",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "LexisNexis Risk Solutions",
+        "id": "d503b86b-a873-4862-97df-07af3c6aa18a",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1781302253,
+        "date_posted": 1781301911,
+        "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Colorado/Software-Engineer-I_R114780",
+        "locations": [
+            "Colorado"
+        ],
+        "company_url": "https://simplify.jobs/c/LexisNexis-Risk-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Jabil",
+        "id": "9086d968-8da3-49d8-a81a-5297ab57db19",
+        "title": "Conversions Diagnostic Technician 2",
+        "active": true,
+        "date_updated": 1781303693,
+        "date_posted": 1781302299,
+        "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Florence-KY/CVG100-Conversions-Diagnostic-Technician-II---403_J2450467",
+        "locations": [
+            "Florence, KY"
+        ],
+        "company_url": "https://simplify.jobs/c/Jabil",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "7-Eleven",
+        "id": "8dc98d76-f66d-4f0a-84d5-0cf2f3f83720",
+        "title": "Software Engineer - AI SDLC - Platform Teams",
+        "active": true,
+        "date_updated": 1781301961,
+        "date_posted": 1781301947,
+        "url": "https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-Irving-TX/Software-Engineer_R26_3755",
+        "locations": [
+            "Irving, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/7-Eleven",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "The Boeing Company",
+        "id": "b0c5b65e-7019-4d0f-a1ff-3052173df5c3",
+        "title": "Seat Systems Software Certification Engineer",
+        "active": true,
+        "date_updated": 1781303221,
+        "date_posted": 1781302298,
+        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/GBR---Bristol-UK/Seat-Systems-Software-Certification-Engineer--Associate-or-Experienced-level-_JR2026514691",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Microchip Technology",
+        "id": "0a8c5f9b-98ec-4b56-87a0-a5e1bf16f1d9",
+        "title": "Engineer 1 - Product",
+        "active": true,
+        "date_updated": 1781303221,
+        "date_posted": 1781301944,
+        "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/CO---Colorado-Springs---East-Cheyenne-Mountain-Blvd/Engineer-1---Product_R2313-26",
+        "locations": [
+            "Colorado Springs, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Microchip-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Boeing Company",
+        "id": "fa54f173-6844-4253-98d0-da17b04afb26",
+        "title": "Software Engineer Associate",
+        "active": true,
+        "date_updated": 1781303643,
+        "date_posted": 1781302279,
+        "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Tukwila-WA/Associate-or-Mid-Level-Software-Engineer_JR2026514062",
+        "locations": [
+            "Tukwila, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Bank of Montreal",
+        "id": "d2a0a81e-f9bf-40a8-830d-bb9f0efdb5c9",
+        "title": "Personal & Business Banking Development Program New Grad",
+        "active": true,
+        "date_updated": 1781303499,
+        "date_posted": 1781302181,
+        "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Personal---Business-Banking-Development-Program--New-Graduate-_R260017863-3",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/BMO",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
