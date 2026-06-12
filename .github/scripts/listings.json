@@ -263534,9 +263534,9 @@
         "degrees": []
     },
     {
-        "date_updated": 1776158287,
+        "date_updated": 1781274726,
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://careers-gdms.icims.com/jobs/71965/junior-rust-embedded-software-engineer-%28cleared%29/job",
         "company_name": "General Dynamics Mission Systems",
