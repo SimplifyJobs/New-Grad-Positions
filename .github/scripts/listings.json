@@ -36043,24 +36043,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "PennState University",
-        "id": "f870d5b6-a11b-4261-8c01-197544a40274",
-        "title": "Research Assistant",
-        "active": false,
-        "date_updated": 1762920542,
-        "date_posted": 1760493591,
-        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Research-Assistant_REQ_0000072784-1",
-        "locations": [
-            "State College, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Penn-State",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "RaceTrac",
         "id": "848d628f-a2b1-4819-96a5-fba9093b78c8",
         "title": "Business Intelligence & Systems Analyst",
@@ -339189,7 +339171,7 @@
         "company_name": "Goldman Sachs",
         "id": "2e34b863-9eb5-4b1d-b3f1-959a8e16227c",
         "title": "Global Banking & Markets Public - Systematic Trading Strategies Trading - Ana/Aso",
-        "active": false,
+        "active": true,
         "date_updated": 1780958352,
         "date_posted": 1780956560,
         "url": "https://higher.gs.com/roles/175884",
@@ -347718,6 +347700,26 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Boeing Company",
+        "id": "ff3aaaeb-a5a2-4daf-bc88-51b5b43f6ec7",
+        "title": "DevSecOps Software Engineer - Phantom Works",
+        "active": true,
+        "date_updated": 1781227337,
+        "date_posted": 1781226636,
+        "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Saint-Charles-MO/DevSecOps-Software-Engineer--Associate-or-Experienced---Phantom-Works_JR2026511366",
+        "locations": [
+            "St Charles, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
