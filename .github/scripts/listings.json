@@ -35779,24 +35779,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Hitachi Energy",
-        "id": "28f6f8c4-07e7-40bb-8557-7a517a530871",
-        "title": "STEM Global Power+ Graduate Development Program",
-        "active": false,
-        "date_updated": 1762438507,
-        "date_posted": 1760547904,
-        "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Remote---England-United-Kingdom/STEM-Global-Power--Graduate-Development-Program_R0106438",
-        "locations": [
-            "Remote in UK"
-        ],
-        "company_url": "https://simplify.jobs/c/83d28c1e-7f20-4aac-afd9-6bc8a468d7eb",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Uncountable",
         "id": "33cd0f76-5161-443a-9d41-d4a1d6ebb8e9",
         "title": "Software Engineer for Chemistry Applications",
@@ -323878,7 +323860,7 @@
         "company_name": "Werfen",
         "id": "1bf6d1c5-d5a8-40db-8623-b5b804f9c05c",
         "title": "Systems Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1779930721,
         "date_posted": 1779930361,
         "url": "https://careers-werfen.icims.com/jobs/10414/job?mobile=true&needsRedirect=false",
