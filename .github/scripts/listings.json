@@ -128564,7 +128564,7 @@
         "company_name": "Archer",
         "id": "bce73b16-47b6-4170-86c3-8da8216579de",
         "title": "Senior Software Engineer - Back End",
-        "active": true,
+        "active": false,
         "date_updated": 1769135069,
         "date_posted": 1761639305,
         "url": "https://job-boards.greenhouse.io/archer56/jobs/7499031003",
@@ -294835,7 +294835,7 @@
         "company_name": "CLEAR",
         "id": "f5da9e60-f1f5-407b-baaa-28a9a5ceb024",
         "title": "Software Engineer - Infrastructure",
-        "active": false,
+        "active": true,
         "date_updated": 1778106691,
         "date_posted": 1778105781,
         "url": "https://job-boards.greenhouse.io/clear/jobs/7901600",
@@ -315420,7 +315420,7 @@
         "company_name": "University of Chicago",
         "id": "63d0964d-6167-4a3b-9792-27c14ee16a02",
         "title": "Radical Innovation for Social Change Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1779821462,
         "date_posted": 1779527550,
         "url": "https://uchicago.wd5.myworkdayjobs.com/External/job/Hyde-Park-Campus/RISC-Analyst_JR33593",
@@ -334937,7 +334937,7 @@
         "company_name": "Truist Bank",
         "id": "07437a36-0a35-487f-a097-4d0f3837a366",
         "title": "Data Scientist 1 - Card Fraud Analytics",
-        "active": false,
+        "active": true,
         "date_updated": 1780612263,
         "date_posted": 1780610838,
         "url": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Atlanta-GA/Data-Scientist-I----Card-Fraud-Analytics---Atlanta--GA_R0115331-1",
@@ -337463,7 +337463,7 @@
         "company_name": "Tesla",
         "id": "a27fc3b9-e237-40db-b0a8-dbd72197c9fa",
         "title": "Engineering Technician - Cell Qualification - Cell Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1780796014,
         "date_posted": 1780795838,
         "url": "https://www.tesla.com/careers/search/job/268802",
@@ -348130,6 +348130,26 @@
             "Houston, TX"
         ],
         "company_url": "https://simplify.jobs/c/Phillips-66",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Marsh & McLennan",
+        "id": "dcdce5d3-1b82-4cca-8c5e-5f72d69ef940",
+        "title": "Product Analyst - Insurance",
+        "active": true,
+        "date_updated": 1781301859,
+        "date_posted": 1781301779,
+        "url": "https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Malvern---Lancaster/Product-Analyst_R_319429",
+        "locations": [
+            "Malvern, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Marsh-McLennan",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
