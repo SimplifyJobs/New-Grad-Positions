@@ -279824,7 +279824,7 @@
         "company_name": "Huntington Ingalls Industries",
         "id": "0b10b994-c87f-42c0-a42b-3907a7ef7b93",
         "title": "Engineer Test Operations 1",
-        "active": true,
+        "active": false,
         "date_updated": 1776982861,
         "date_posted": 1776982088,
         "url": "https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-TEST-OPERATIONS-1-Virg/1385061600/?ats=successfactors",
@@ -326944,7 +326944,7 @@
         "company_name": "Huntington Ingalls Industries",
         "id": "bc6983f8-6a9c-438e-a579-8b4f2339a712",
         "title": "Software Development Engineer 2",
-        "active": true,
+        "active": false,
         "date_updated": 1780281542,
         "date_posted": 1780178731,
         "url": "https://careers.huntingtoningalls.com/job/Newport-News-SOFTWARE-DEVELOPMENT-ENGINEER-2-Virg/1395362700/?ats=successfactors",
@@ -335190,7 +335190,7 @@
         "company_name": "Sherwin-Williams",
         "id": "b14a2839-20ac-4d35-9da6-f5c6c83fcaed",
         "title": "R&D Accelerated Development Program Chemist",
-        "active": true,
+        "active": false,
         "date_updated": 1780612246,
         "date_posted": 1780610825,
         "url": "https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2533286",
@@ -340604,7 +340604,7 @@
         "company_name": "RTX",
         "id": "f0decac3-42e6-41b6-8f73-a954263e1bd7",
         "title": "System Integration Software Engineer 1 - System Integration Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1781015173,
         "date_posted": 1781014588,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/XMLNAME-2026-Collins-Full-Time---System-Integration-Software-Engineer-I---Cedar-Rapids--IA--Onsite-_01850421",
@@ -347557,5 +347557,23 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Glide",
+        "id": "d68084c5-ab49-4255-ae22-0c224fc51dfe",
+        "title": "Full Stack Engineer",
+        "active": true,
+        "date_updated": 1770074058,
+        "date_posted": 1770074058,
+        "url": "https://jobs.ashbyhq.com/glide/5ece3064-6884-43c2-923c-066d6187b25d/application",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Glide",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
