@@ -223099,7 +223099,7 @@
         "company_name": "Avnet",
         "id": "0374d942-8b19-45e9-8850-322095453a57",
         "title": "Associate Field Application Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773959504,
         "date_posted": 1773959504,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -318242,7 +318242,7 @@
         "company_name": "Colibri Group",
         "id": "ca49d050-f451-4449-9a37-3c27a825d885",
         "title": "Consumer Insights Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1779831181,
         "date_posted": 1779141983,
         "url": "https://jobs.lever.co/colibrigroup/0acf635f-eb60-4d0f-8e38-fde673f4d191/apply",
@@ -333778,7 +333778,7 @@
         "company_name": "Reach Financial",
         "id": "39349736-2696-42cf-9e4b-deaf9d2b3246",
         "title": "Credit Risk Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1780526126,
         "date_posted": 1780525423,
         "url": "https://job-boards.greenhouse.io/reach/jobs/8573228002",
@@ -338927,7 +338927,7 @@
         "company_name": "Goldman Sachs",
         "id": "2e34b863-9eb5-4b1d-b3f1-959a8e16227c",
         "title": "Global Banking & Markets Public - Systematic Trading Strategies Trading - Ana/Aso",
-        "active": true,
+        "active": false,
         "date_updated": 1780958352,
         "date_posted": 1780956560,
         "url": "https://higher.gs.com/roles/175884",
@@ -341572,7 +341572,7 @@
         "company_name": "PNC Financial Services",
         "id": "d4f39119-a4b4-4324-8e8f-e86ea1795889",
         "title": "Senior Reporting Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1781044373,
         "date_posted": 1781042991,
         "url": "https://pnc.wd5.myworkdayjobs.com/External/job/Downtown-Orlando---Pine-Street-FL239/Reporting-Analyst-Sr_R224746-1",
@@ -346288,7 +346288,7 @@
         "company_name": "Goldman Sachs",
         "id": "aa693cdb-f3f2-4ceb-b496-134b2a24595a",
         "title": "HCM Associate - Data Analytics and Reporting",
-        "active": false,
+        "active": true,
         "date_updated": 1781187814,
         "date_posted": 1781042930,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/176302",
@@ -348041,6 +348041,226 @@
             "Fort Wayne, IN"
         ],
         "company_url": "https://simplify.jobs/c/Lincoln-Financial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Louisiana State University (LSU)",
+        "id": "8e3e31ad-6286-416f-b696-1f64bf0de06c",
+        "title": "Research Assistant",
+        "active": true,
+        "date_updated": 1781274509,
+        "date_posted": 1781273006,
+        "url": "https://lsu.wd1.myworkdayjobs.com/lsuwaiver/job/3325-Patrick-F-Taylor-Hall/WAE---Research-Assistant_R00116420",
+        "locations": [
+            "Baton Rouge, LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Louisiana-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Google",
+        "id": "b10b16f8-3c28-49e8-b8c0-d60910cd3f48",
+        "title": "Artificial Intelligence Software Developer - Android XR - Application Compatibility",
+        "active": true,
+        "date_updated": 1781274251,
+        "date_posted": 1781273181,
+        "url": "https://www.google.com/about/careers/applications/jobs/results/87682526201422534",
+        "locations": [
+            "San Jose, CA",
+            "Kitchener, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Google",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Anaplan",
+        "id": "4e95327c-5c8e-4544-8222-30df7d7f2aac",
+        "title": "Associate Backend Software Engineer - Python",
+        "active": true,
+        "date_updated": 1781273525,
+        "date_posted": 1781273415,
+        "url": "https://job-boards.greenhouse.io/anaplan/jobs/8579820002",
+        "locations": [
+            "Manchester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Anaplan",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "NVIDIA",
+        "id": "14a31aec-c177-4340-a706-56acffbff5aa",
+        "title": "Research Scientist New Grad - Efficient Deep Learning",
+        "active": true,
+        "date_updated": 1781274266,
+        "date_posted": 1781273408,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Efficient-Deep-Learning---New-College-Grad-2026_JR2019729-1",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "LivaNova",
+        "id": "faf3795c-c9f0-43c8-afb6-ee061e7f865b",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1781273858,
+        "date_posted": 1781273205,
+        "url": "https://livanova.wd5.myworkdayjobs.com/search/job/Houston-Texas-United-States/Software-Engineer-I_JR-14571",
+        "locations": [
+            "Webster, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/LivaNova",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "RWS",
+        "id": "8a06ac60-67c5-4b37-8130-bc3f9665ece0",
+        "title": "Speech AI Evaluation Specialist",
+        "active": true,
+        "date_updated": 1781273525,
+        "date_posted": 1781273181,
+        "url": "https://jobs.lever.co/rws/5bd8381a-0dd4-4ebb-83e4-05300c55cd7a/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/RWS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Unilever",
+        "id": "57c23260-1926-4274-8b8d-8e508ee63c26",
+        "title": "Product Development Technologist",
+        "active": true,
+        "date_updated": 1781273525,
+        "date_posted": 1781273255,
+        "url": "https://unilever.wd3.myworkdayjobs.com/Unilever_Experienced_Professionals/job/Colworth-Science-Park/Product-Development-Technologist_R-1183001",
+        "locations": [
+            "United Kingdom"
+        ],
+        "company_url": "https://simplify.jobs/c/Unilever",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "University of Chicago",
+        "id": "ff4711b3-3fc3-461b-8ec4-adbe312712c5",
+        "title": "Investment Analyst",
+        "active": true,
+        "date_updated": 1781273162,
+        "date_posted": 1781273121,
+        "url": "https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Investment-Analyst_JR34132",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Chicago",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Ottawa",
+        "id": "712d933e-ce6f-4190-ab56-80d6b22c4bf8",
+        "title": "Research Assistant - Department of Economics - Faculty of Social Sciences",
+        "active": true,
+        "date_updated": 1781274061,
+        "date_posted": 1781273143,
+        "url": "https://uottawa.wd3.myworkdayjobs.com/uOttawa_External_Career_Site/job/Ottawa-ON/Research-Assistant_JR36250",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Ottawa",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "General Dynamics",
+        "id": "32769fa5-0ef4-46f4-b13f-9b3dccca0acc",
+        "title": "Main Propulsion Motor Drives - Multiple Teams",
+        "active": true,
+        "date_updated": 1781273961,
+        "date_posted": 1781273294,
+        "url": "https://careers-gdeb.icims.com/jobs/19443/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Groton, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Phillips 66",
+        "id": "e75ce752-4d23-47b5-b042-15ebc556d68b",
+        "title": "Advisor 1 - Data Science - Product Optimization",
+        "active": true,
+        "date_updated": 1781273661,
+        "date_posted": 1781273187,
+        "url": "https://careers.phillips66.com/job/Houston-Advisor-I,-Product-Optimization-(Data-Science)-TX-77042/1383744700/?ats=successfactors",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Phillips-66",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
