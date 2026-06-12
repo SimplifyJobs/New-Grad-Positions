@@ -347863,5 +347863,46 @@
             "MBA",
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Cengage Group",
+        "id": "f68544e5-012b-4bcb-9751-3ae517d746a5",
+        "title": "Associate Vocabulary Editor",
+        "active": true,
+        "date_updated": 1781259675,
+        "date_posted": 1781042909,
+        "url": "https://cengage.wd5.myworkdayjobs.com/en-US/CengageNorthAmericaCareers/job/California-USA/Associate-Vocabulary-Editor--Remote-_R2026-622",
+        "locations": [
+            "California"
+        ],
+        "company_url": "https://simplify.jobs/c/7361c4f7-cbc1-4a8e-8682-bd3051a4513f",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Wisconsin System",
+        "id": "fcc7a496-c993-4f7c-b5a2-a01704823ccc",
+        "title": "Assistant Professor of Industrial and Systems Engineering",
+        "active": true,
+        "date_updated": 1781259689,
+        "date_posted": 1780739568,
+        "url": "https://wisconsin.wd1.myworkdayjobs.com/UW_Comprehensives/job/Platteville-WI/Assistant-Professor-of-Industrial-and-Systems-Engineering-Notice-of-Filing_JR10011911",
+        "locations": [
+            "Dubuque, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Wisconsin-System",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "PhD"
+        ]
     }
 ]
