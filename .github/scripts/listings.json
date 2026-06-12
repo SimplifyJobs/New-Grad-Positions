@@ -4906,7 +4906,7 @@
         "company_name": "Axon",
         "id": "d79bd3b7-c1d4-4bbd-913f-b004edba607b",
         "title": "Embedded Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1762441004,
         "date_posted": 1762441004,
         "url": "https://job-boards.greenhouse.io/axon/jobs/6289451003",
@@ -35715,25 +35715,6 @@
             "Woodridge, IL"
         ],
         "company_url": "https://simplify.jobs/c/Argonne-National-Laboratory",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Dematic",
-        "id": "86211428-83c5-4e73-823b-83ec240734ad",
-        "title": "Campus Visit Dematic - Placement student",
-        "active": false,
-        "date_updated": 1762905718,
-        "date_posted": 1760554383,
-        "url": "https://kiongroup.wd3.myworkdayjobs.com/kion_scs/job/Stockport-United-Kingdom/Campus-visit-Dematic---Placement-student_JR-0082859",
-        "locations": [
-            "Aberdeen, UK",
-            "Manchester, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Dematic",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -268889,7 +268870,7 @@
         "company_name": "Adelaide Metrics",
         "id": "cfd58a38-a977-499c-8e83-368a1c3aca58",
         "title": "Business Intelligence Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1776378657,
         "date_posted": 1776377486,
         "url": "https://ats.rippling.com/adelaide/jobs/ec52ace1-3a49-4a49-83ac-6121f2f646bb",
@@ -327613,7 +327594,7 @@
         "company_name": "Galaxy",
         "id": "7d897bc1-5ab6-4e70-9e85-2b711356e8ad",
         "title": "Trading Operations Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1780323301,
         "date_posted": 1780006676,
         "url": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6008319004",
