@@ -1141,7 +1141,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (1256)</summary>
+<summary>🗃️ Inactive roles (1255)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -9936,13 +9936,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><strong>Glide</strong></td>
 <td>Full Stack Engineer – Early Career</td>
 <td>New York, NY</br>Hybrid</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Divergent-TechnologiesDivergent?utm_source=GHList&utm_medium=company">Divergent Technologies</a></strong></td>
-<td>Software Engineer – New Grads: Fall 2025/Spring 2026</td>
-<td>Carson, CA</td>
 <td>🔒</td>
 <td>7mo</td>
 </tr>
