@@ -1,25 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Divergent Technologies",
-        "id": "b192eb3f-479a-4467-8761-5b5b93418ad0",
-        "title": "Software Engineer \u2013 New Grads: Fall 2025/Spring 2026",
-        "active": false,
-        "date_updated": 1760563242,
-        "date_posted": 1760563242,
-        "url": "https://job-boards.greenhouse.io/divergent/jobs/4954950008",
-        "locations": [
-            "Carson, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Divergent-TechnologiesDivergent",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "date_updated": 1760568390,
         "sponsorship": "Other",
         "active": true,
@@ -25851,7 +25831,7 @@
         "company_name": "CAE",
         "id": "24a8eb72-3620-477d-bf64-b6936c3a92a2",
         "title": "Simulator Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1761904481,
         "date_posted": 1761904481,
         "url": "https://cae.wd3.myworkdayjobs.com/career/job/Tampa/Simulator-Technician_117989",
@@ -35641,24 +35621,6 @@
             "Boise, ID"
         ],
         "company_url": "https://simplify.jobs/c/Micron-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Applecart",
-        "id": "6c0a9ef0-1c75-4547-8ca1-9dc908800249",
-        "title": "Research Specialist",
-        "active": false,
-        "date_updated": 1760563036,
-        "date_posted": 1760563036,
-        "url": "https://www.applecart.co/careers?gh_jid=7498160003",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Applecart",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -306288,7 +306250,7 @@
         "company_name": "Selene",
         "id": "11289b87-36bf-4255-a702-63c54ab4ceb0",
         "title": "Business Systems Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1778948101,
         "date_posted": 1778944346,
         "url": "https://pretiumenterpriseservices.wd1.myworkdayjobs.com/Selene/job/Remote---Open/Business-Systems-Analyst_JR114401",
@@ -334715,7 +334677,7 @@
         "company_name": "SpaceX",
         "id": "1159cfad-7505-418c-953d-4fb120490a2c",
         "title": "Electromagnetic Effects Test Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1780612475,
         "date_posted": 1780610935,
         "url": "https://boards.greenhouse.io/spacex/jobs/8577601002",
@@ -337501,7 +337463,7 @@
         "company_name": "Tesla",
         "id": "a27fc3b9-e237-40db-b0a8-dbd72197c9fa",
         "title": "Engineering Technician - Cell Qualification - Cell Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1780796014,
         "date_posted": 1780795838,
         "url": "https://www.tesla.com/careers/search/job/268802",
