@@ -222931,7 +222931,7 @@
         "company_name": "Avnet",
         "id": "0374d942-8b19-45e9-8850-322095453a57",
         "title": "Associate Field Application Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773959504,
         "date_posted": 1773959504,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -223670,7 +223670,7 @@
         "company_name": "Avnet",
         "id": "49997310-9583-4e8c-981a-385b75e55815",
         "title": "Associate Field Application Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773959504,
         "date_posted": 1773959504,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Wilmington-Massachusetts-United-States-of-America/Associate-Field-Application-Engineer_JR-022067",
@@ -333610,7 +333610,7 @@
         "company_name": "Reach Financial",
         "id": "39349736-2696-42cf-9e4b-deaf9d2b3246",
         "title": "Credit Risk Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1780526126,
         "date_posted": 1780525423,
         "url": "https://job-boards.greenhouse.io/reach/jobs/8573228002",
@@ -337444,7 +337444,7 @@
         "company_name": "Tesla",
         "id": "370706b8-ca68-4bd2-8a81-dc851f0ba733",
         "title": "Data Collection Operator - Optimus",
-        "active": true,
+        "active": false,
         "date_updated": 1780796016,
         "date_posted": 1780795891,
         "url": "https://www.tesla.com/careers/search/job/272823",
@@ -337462,7 +337462,7 @@
         "company_name": "Tesla",
         "id": "04717815-82d1-4302-86fb-a6af53c3ba93",
         "title": "Data Collection Operator - Optimus",
-        "active": true,
+        "active": false,
         "date_updated": 1780796019,
         "date_posted": 1780795909,
         "url": "https://www.tesla.com/careers/search/job/272816",
@@ -338124,7 +338124,7 @@
         "source": "Simplify",
         "category": "Hardware",
         "company_name": "TTP",
-        "id": "edb319e2-e574-40bd-9fa0-da64c1142067",
+        "id": "1c4edf26-8b8d-4507-83a4-7b06f211012f",
         "title": "FPGA Engineer - Consultant",
         "active": true,
         "date_updated": 1780927933,
@@ -338759,7 +338759,7 @@
         "company_name": "Goldman Sachs",
         "id": "2e34b863-9eb5-4b1d-b3f1-959a8e16227c",
         "title": "Global Banking & Markets Public - Systematic Trading Strategies Trading - Ana/Aso",
-        "active": true,
+        "active": false,
         "date_updated": 1780958352,
         "date_posted": 1780956560,
         "url": "https://higher.gs.com/roles/175884",
@@ -346120,7 +346120,7 @@
         "company_name": "Goldman Sachs",
         "id": "aa693cdb-f3f2-4ceb-b496-134b2a24595a",
         "title": "HCM Associate - Data Analytics and Reporting",
-        "active": false,
+        "active": true,
         "date_updated": 1781187814,
         "date_posted": 1781042930,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/176302",
@@ -349006,6 +349006,47 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Microchip Technology",
+        "id": "f7db7c17-eec2-4c14-8294-2d0bf9c5ff90",
+        "title": "Engineer 1 - Software Development - Python / AI",
+        "active": true,
+        "date_updated": 1781313118,
+        "date_posted": 1781312793,
+        "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/AZ---Chandler/Engineer-I---Software-Development--Python---AI-_R2452-26",
+        "locations": [
+            "Chandler, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Microchip-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Boeing Company",
+        "id": "db473d1a-b3e9-465a-95f8-c8855dc4bad9",
+        "title": "Software Engineer Associate",
+        "active": true,
+        "date_updated": 1781313451,
+        "date_posted": 1781312997,
+        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tukwila-WA/Associate-or-Mid-Level-Software-Engineer_JR2026514062-1",
+        "locations": [
+            "Tukwila, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
