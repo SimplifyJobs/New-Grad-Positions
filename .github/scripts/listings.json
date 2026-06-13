@@ -349030,5 +349030,25 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "D3",
+        "id": "21b95fb5-d489-4032-af81-46650b0e2764",
+        "title": "Frontend Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1765495709,
+        "date_posted": 1765495709,
+        "url": "https://job-boards.greenhouse.io/d3/jobs/4915213008",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/D3",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
