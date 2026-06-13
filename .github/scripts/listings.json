@@ -3388,25 +3388,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Figma",
-        "id": "41de6175-1405-4238-9c83-e2327e158489",
-        "title": "Junior Software Engineer - Software Engineer",
-        "active": false,
-        "date_updated": 1761939710,
-        "date_posted": 1760592790,
-        "url": "https://boards.greenhouse.io/figma/jobs/5616603004",
-        "locations": [
-            "SF",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Figma",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Whoop",
         "id": "e0da206b-f1c0-4af9-9fa2-f7d209331585",
         "title": "Android Engineer 1 - Growth",
@@ -35493,43 +35474,6 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Morgan-Stanley",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Tenstorrent",
-        "id": "093c449a-8dc3-4e20-abaa-56c9a995d9a7",
-        "title": "AI SoC Design Verification",
-        "active": false,
-        "date_updated": 1762819287,
-        "date_posted": 1760594009,
-        "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4946569007",
-        "locations": [
-            "Toronto, ON, Canada",
-            "Ottawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Tenstorrent",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "PennState University",
-        "id": "4330aa6c-6ce8-480a-9937-5c91f1f185e3",
-        "title": "Part-Time Research Assistant - Astronomy Department",
-        "active": false,
-        "date_updated": 1760593182,
-        "date_posted": 1760593182,
-        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Research-Assistant---Astronomy-Department_REQ_0000072794-2",
-        "locations": [
-            "State College, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Penn-State",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -138821,7 +138765,7 @@
         "company_name": "Wells Fargo",
         "id": "2828a338-7d68-4008-8984-a482bb96eff6",
         "title": "Engineering Associate - Middleware Operations",
-        "active": true,
+        "active": false,
         "date_updated": 1769730921,
         "date_posted": 1769730921,
         "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/MINNEAPOLIS-MN/Engineering-Associate---Middleware-Operations_R-518252",
@@ -312934,7 +312878,7 @@
         "company_name": "RTX",
         "id": "509f18a0-f3db-4632-8167-ec761b4e8e0e",
         "title": "Systems Engineer 1 - Multiple Teams",
-        "active": true,
+        "active": false,
         "date_updated": 1779498606,
         "date_posted": 1779498472,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-PLANO-465--465-Independence-Pkwy--INDEPENDENCE/XMLNAME-2026-Fulltime--Systems-Engineer-I---Onsite-McKinney--Texas_01822465",
