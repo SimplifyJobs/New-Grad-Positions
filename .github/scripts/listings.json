@@ -323566,7 +323566,7 @@
         "company_name": "Intel",
         "id": "0f0efd25-01fa-419b-9d3a-916d06967722",
         "title": "Frame Automation Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1779931057,
         "date_posted": 1779930577,
         "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/LTD-Frame-Automation-Software-Engineer_JR0284284",
@@ -326899,7 +326899,7 @@
         "company_name": "Enterprise Bank & Trust",
         "id": "c4e7cf22-f470-4847-b19d-513c59663df4",
         "title": "Portfolio Analyst & Trader",
-        "active": false,
+        "active": true,
         "date_updated": 1780280993,
         "date_posted": 1780131748,
         "url": "https://osv-enterprise.wd1.myworkdayjobs.com/EnterpriseBankTrust_Jobs/job/Clayton-MO/Portfolio-Analyst---Trader_REQ-5278",
@@ -338346,7 +338346,7 @@
         "company_name": "Flex",
         "id": "9a14ad6f-a2b5-4afe-b131-e185b14f2bab",
         "title": "Data Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1780957893,
         "date_posted": 1780956466,
         "url": "https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-TX-Austin/Data-Analyst_WD221318",
@@ -349248,5 +349248,150 @@
         "degrees": [
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Shaw Industries Group",
+        "id": "5828fac0-4245-4903-97a4-94144e5c4a2e",
+        "title": "Analytics Engineer",
+        "active": true,
+        "date_updated": 1781369101,
+        "date_posted": 1781359493,
+        "url": "https://shawinc.wd1.myworkdayjobs.com/External/job/Shaw-Plant-72-900-VD-Parrot-Parkway-Dalton-GA-30721-USA/Analytics-Engineer_R-152814",
+        "locations": [
+            "Calhoun, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Shaw-Industries-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "DraftKings",
+        "id": "489739d5-fffe-4765-8d2d-fd2f3a184b0f",
+        "title": "Analyst 1 - Casino Analytics",
+        "active": true,
+        "date_updated": 1781369851,
+        "date_posted": 1781359859,
+        "url": "https://draftkings.wd1.myworkdayjobs.com/Employee_Referral_Portal/job/Boston-MA/Analyst-I_JR14374",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/DraftKings",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "7e51b99f-d443-46ec-a1ab-90971f3a4d1d",
+        "title": "Software Engineer/Principal Software Engineer - Java",
+        "active": true,
+        "date_updated": 1781369101,
+        "date_posted": 1781362158,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Software-Engineer-Principal-Software-Engineer---JAVA_R10234156",
+        "locations": [
+            "Escondido, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Guidehouse",
+        "id": "73c86849-e681-4218-9129-b45765e95871",
+        "title": "Border Security AI/ML Engineer",
+        "active": true,
+        "date_updated": 1781369101,
+        "date_posted": 1781361222,
+        "url": "https://guidehouse.wd1.myworkdayjobs.com/external/job/US---VA-Sterling/Border-Security-AI-ML-Engineer_40006",
+        "locations": [
+            "Dulles, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Guidehouse",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tencent",
+        "id": "4e2f7d02-24d2-4498-807c-2039373159cd",
+        "title": "3D Model and Scene Generation Algorithm Researcher",
+        "active": true,
+        "date_updated": 1781369598,
+        "date_posted": 1781361420,
+        "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/UK-London/XMLNAME-3D-Model-and-Scene-Generation-Algorithm-Researcher--2026-PhD-Graduate_R107513-1",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Tencent",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "4da0e478-11a4-4860-a88f-c68471e9b088",
+        "title": "Principal Cyber Software Engineer",
+        "active": true,
+        "date_updated": 1781369101,
+        "date_posted": 1781362538,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Annapolis-Junction/Principal-Cyber-Software-Engineer_R10234421",
+        "locations": [
+            "Aurora, CO",
+            "Morrisville, NC",
+            "Annapolis Junction, MD",
+            "San Antonio, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cubic",
+        "id": "1570f8e7-525b-459b-897a-085400bb8bd9",
+        "title": "Service Desk Technician",
+        "active": true,
+        "date_updated": 1781368514,
+        "date_posted": 1781361532,
+        "url": "https://cubic.wd1.myworkdayjobs.com/cubic_global_careers/job/Stockton-On-Tees/Service-Desk-Technician--12-month-FTC-_REQ_48914-1",
+        "locations": [
+            "Durham, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Cubic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
