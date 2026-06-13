@@ -2,24 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "NewsBreak",
-        "id": "65b7b88a-dfaa-44a4-bb60-2668ec00dd55",
-        "title": "Software Engineer \u2013 New Grad Friendly - IOS",
-        "active": false,
-        "date_updated": 1761920497,
-        "date_posted": 1760628067,
-        "url": "https://job-boards.greenhouse.io/newsbreak/jobs/4610466006",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/NewsBreak",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Esri",
         "id": "a2ffb74c-6eec-4c4c-83da-4869659da1f7",
         "title": "Software Engineer I - AI Assistant Framework - Arcgis Enterprise",
@@ -234616,7 +234598,7 @@
         "company_name": "Life Fitness",
         "id": "79a4df81-c89c-4b7f-8604-2e6ce985da17",
         "title": "Embedded Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1774587050,
         "date_posted": 1774574837,
         "url": "https://lifefitness.wd1.myworkdayjobs.com/searchLFN/job/Schaumburg-IL-60173/Embedded-Software-Engineer-I_JR-024894",
@@ -335479,7 +335461,7 @@
         "company_name": "Anduril",
         "id": "0a20816a-d18d-455c-9e1d-fe6a126bb513",
         "title": "Product Operations Associate - Tier 1",
-        "active": false,
+        "active": true,
         "date_updated": 1780622132,
         "date_posted": 1774574788,
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/5081383007",
