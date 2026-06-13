@@ -23032,7 +23032,7 @@
         "company_name": "Marsh & McLennan",
         "id": "61c905e5-2281-4abd-afcc-83089ab79869",
         "title": "Oliver Wyman - Data & Analytics Research Fellowship - Newcastle upon Tyne",
-        "active": false,
+        "active": true,
         "date_updated": 1762907694,
         "date_posted": 1761470150,
         "url": "https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Newcastle---Bank/Oliver-Wyman---Data---Analytics-Research-Fellowship---Newcastle-upon-Tyne_R_327852-1",
@@ -322389,7 +322389,7 @@
         "company_name": "AllianceBernstein",
         "id": "42fecf75-6f31-494b-92cf-fa1cc189bf04",
         "title": "Global Analytics Performance Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1779919381,
         "date_posted": 1779919340,
         "url": "https://abglobal.wd1.myworkdayjobs.com/alliancebernsteincareers/job/Nashville-Tennessee/Global-Analytics-Performance-Analyst_R0018735-2",
@@ -337244,7 +337244,7 @@
         "company_name": "CPI Security",
         "id": "43395721-7ee3-4dcf-a055-689297c3edbb",
         "title": "Residential Installation Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1780794636,
         "date_posted": 1780697232,
         "url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4687294006",
@@ -343087,7 +343087,7 @@
         "company_name": "Huntington Bancshares",
         "id": "7cc53699-8ae9-4ecc-b484-a24c700b87b0",
         "title": "Technology Delivery Analyst - Elevate",
-        "active": true,
+        "active": false,
         "date_updated": 1781129533,
         "date_posted": 1781129336,
         "url": "https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Technology-Delivery-Analyst--Elevate-_R0072679",
@@ -349393,5 +349393,90 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Northrop Grumman",
+        "id": "21c9a108-e5f2-4b65-8bc3-6ff791ef1628",
+        "title": "Software Engineer/Principal Software Engineer - Data Analyst",
+        "active": true,
+        "date_updated": 1781373782,
+        "date_posted": 1781362349,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Software-Engineer-Principal-Software-Engineer---Data-Analyst_R10234157",
+        "locations": [
+            "Escondido, CA",
+            "Palmdale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Schweitzer Engineering Laboratories",
+        "id": "226fa178-4dd8-4d2e-ac13-51bab947bd6c",
+        "title": "Associate Hardware Engineer",
+        "active": true,
+        "date_updated": 1781373782,
+        "date_posted": 1781361487,
+        "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Associate-Hardware-Engineer_2025-17988",
+        "locations": [
+            "Moscow, ID"
+        ],
+        "company_url": "https://simplify.jobs/c/SEL",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Nidec",
+        "id": "1866e9da-3ccc-4dec-bae0-9d84fe202dd4",
+        "title": "Application Engineer 1",
+        "active": true,
+        "date_updated": 1781373925,
+        "date_posted": 1781360790,
+        "url": "https://nidec.wd1.myworkdayjobs.com/nidec/job/North-AmericaUSAMissouriSt-Louis---WPE-MO/Application-Engineer-I_R0015972",
+        "locations": [
+            "St. Louis, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Nidec",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "8bd70b8f-84a0-45a5-a141-6c12e2d84212",
+        "title": "Software Development Engineers - Level 2 or 3",
+        "active": true,
+        "date_updated": 1781373061,
+        "date_posted": 1781362306,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/Software-Development-Engineers--Level-2-or-3-_R10236310",
+        "locations": [
+            "Dulles, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
     }
 ]
