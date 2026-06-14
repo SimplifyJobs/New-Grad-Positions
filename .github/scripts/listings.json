@@ -1,42 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Esri",
-        "id": "a2ffb74c-6eec-4c4c-83da-4869659da1f7",
-        "title": "Software Engineer I - AI Assistant Framework - Arcgis Enterprise",
-        "active": false,
-        "date_updated": 1761920683,
-        "date_posted": 1760660202,
-        "url": "https://www.esri.com/careers/4932485007?gh_jid=4932485007",
-        "locations": [
-            "West Redlands, Redlands, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Esri",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "RELX",
-        "id": "5791ff9b-5300-4df2-8676-42896017cee6",
-        "title": "Software Engineer I - Student Placement  months FTC",
-        "active": false,
-        "date_updated": 1761920640,
-        "date_posted": 1760659303,
-        "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Nottingham/Software-Engineer-I---Student-Placement-12-months-FTC_R101564-2",
-        "locations": [
-            "Nottingham, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/RELX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "RTX",
         "id": "11c5fd85-af9d-4c56-9f38-4c322e57a201",
@@ -35347,43 +35311,6 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/StubHub",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Nordic",
-        "id": "6a9bf325-c06e-480c-a1ad-28ae53569d42",
-        "title": "Optime Analyst",
-        "active": false,
-        "date_updated": 1760660287,
-        "date_posted": 1760660287,
-        "url": "https://nordic.wd1.myworkdayjobs.com/en-US/Nordic/job/US---National/OpTime-Analyst_R5006",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/a4ec1753-d04e-40e9-b85a-3e296ce139c1",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Paramount Global",
-        "id": "bd8b7227-38a8-4cf4-96ae-4118ca257156",
-        "title": "Business Intelligence Analyst",
-        "active": false,
-        "date_updated": 1760660181,
-        "date_posted": 1760660181,
-        "url": "https://careers.paramount.com/job/New-York-Business-Intelligence-Analyst-NY-10036/1335376000/?ats=successfactors",
-        "locations": [
-            "Hollywood, LA",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Paramount-Global",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
