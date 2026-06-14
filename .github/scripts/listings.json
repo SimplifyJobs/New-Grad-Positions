@@ -2,27 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Amazon",
-        "id": "80b49a28-e1da-46aa-80f6-07fe5c497415",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1760742996,
-        "date_posted": 1760742996,
-        "url": "https://amazon.jobs/en/jobs/3111761/software-engineer-i",
-        "locations": [
-            "SF",
-            "Irvine, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Amazon",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Intuit",
         "id": "55a00559-28b9-41bc-b6dc-cda5714e2846",
         "title": "Software Engineer 1",
@@ -3787,24 +3766,6 @@
             "Cambridge, UK"
         ],
         "company_url": "https://simplify.jobs/c/PA-Consulting",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Amazon",
-        "id": "c947e732-5b57-453f-9469-897285a152c3",
-        "title": "Hardware Simulator SDE I - AWS Machine Learning Accelerators - Annapurna Labs",
-        "active": false,
-        "date_updated": 1760743014,
-        "date_posted": 1760743014,
-        "url": "https://amazon.jobs/en/jobs/2940695/hardware-simulator-sde-i-aws-machine-learning-accelerators-annapurna-labs",
-        "locations": [
-            "Cupertino, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Amazon",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -34228,24 +34189,6 @@
             "Saint John, NB, Canada"
         ],
         "company_url": "https://simplify.jobs/c/OSCO",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "542caa5a-c055-4310-ad21-8d5e3e731b82",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1760743022,
-        "date_posted": 1760743022,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/jobs/job/400021007",
-        "locations": [
-            "Essex, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -319229,7 +319172,7 @@
         "company_name": "LexisNexis Risk Solutions",
         "id": "f7292aa6-7328-4d24-92dd-1c877cb86dce",
         "title": "Solutions Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1779876631,
         "date_posted": 1778922100,
         "url": "https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/United-Kingdom/Solutions-Analyst_R109322",
@@ -319249,7 +319192,7 @@
         "company_name": "Marsh",
         "id": "e68aac58-7bc4-4d3f-95cc-01647aad689d",
         "title": "Data & Analytics Analyst - Data & Analytics Consulting",
-        "active": false,
+        "active": true,
         "date_updated": 1779876578,
         "date_posted": 1778940330,
         "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/Berlin---Mittelstrasse/Oliver-Wyman---Data---Analytics-Consulting---Analyst--m-f-d----Berlin_R_326123-1",
