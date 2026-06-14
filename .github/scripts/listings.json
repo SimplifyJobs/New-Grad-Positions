@@ -318895,7 +318895,7 @@
         "company_name": "Harvard University",
         "id": "8ff9f7a3-dcc0-41fc-921c-3637e2f3a14a",
         "title": "Research Associate - General",
-        "active": false,
+        "active": true,
         "date_updated": 1779826685,
         "date_posted": 1779689072,
         "url": "https://jobs.smartrecruiters.com/HarvardUniversity/3743990013259557",
@@ -345275,7 +345275,7 @@
         "company_name": "Western Digital",
         "id": "6a1f8feb-f570-4d70-bb2e-9c27c5dea55c",
         "title": "Hardware Development Engineer - Wafer Optical Metrology",
-        "active": true,
+        "active": false,
         "date_updated": 1781170202,
         "date_posted": 1781168528,
         "url": "https://jobs.smartrecruiters.com/WesternDigital/744000129015575",
@@ -349012,6 +349012,27 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Withum",
+        "id": "9b7de8ac-9ec0-4667-b20c-edcde5abe3f0",
+        "title": "Healthcare Claims Analyst",
+        "active": true,
+        "date_updated": 1781427028,
+        "date_posted": 1781426428,
+        "url": "https://job-boards.greenhouse.io/withumsmithbrown/jobs/8459137002",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Withum",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
