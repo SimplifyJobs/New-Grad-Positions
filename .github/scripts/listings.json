@@ -34665,24 +34665,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Palo Alto Networks",
-        "id": "fcc2a73a-6301-4708-93f9-855f2947458e",
-        "title": "Cortex \u2013 Backend - Software Engineer",
-        "active": false,
-        "date_updated": 1760725739,
-        "date_posted": 1760725739,
-        "url": "https://jobs.smartrecruiters.com/PaloAltoNetworks2/744000088587601",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Palo-Alto-Networks",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "GE Vernova",
         "id": "a340b6e8-f4ac-43a4-9d89-6aaf907a9a30",
         "title": "Software-defined Networking and IPv6 for Secure Distributed Energy Resources Research",
@@ -324897,7 +324879,7 @@
         "company_name": "University of Arkansas",
         "id": "b9bcf351-5da5-411a-9194-d85ff25786a8",
         "title": "Graduate Assistant - Information Science",
-        "active": true,
+        "active": false,
         "date_updated": 1779961464,
         "date_posted": 1779527543,
         "url": "https://uasys.wd5.myworkdayjobs.com/uasys/job/Little-Rock/Graduate-Assistant---Information-Science_R0062021",
