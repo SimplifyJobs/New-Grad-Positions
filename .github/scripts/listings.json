@@ -3219,25 +3219,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Truist Bank",
-        "id": "0dd8db01-6063-456c-96cd-3c906f8eb8d4",
-        "title": "Software Engineer 1 SAS Programmer",
-        "active": false,
-        "date_updated": 1761938856,
-        "date_posted": 1760683033,
-        "url": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Charlotte-NC/Software-Engineer-I_R0107411",
-        "locations": [
-            "Charlotte, NC",
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Truist-Bank",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Whoop",
         "id": "e0da206b-f1c0-4af9-9fa2-f7d209331585",
         "title": "Android Engineer 1 - Growth",
@@ -243873,7 +243854,7 @@
         "company_name": "Franklin Templeton",
         "id": "7bf31ab8-bc49-419e-a312-2f85fc476b06",
         "title": "Investment Associate - Quantitative Research - FT Investment Solutions",
-        "active": true,
+        "active": false,
         "date_updated": 1775085042,
         "date_posted": 1775081371,
         "url": "https://franklintempleton.wd5.myworkdayjobs.com/invitation-only/job/Boston-Massachusetts-United-States-of-America/Investment-Associate--Quantitative-Research---FT-Investment-Solutions-_862786-2",
@@ -319957,7 +319938,7 @@
         "company_name": "LexisNexis Risk Solutions",
         "id": "f7292aa6-7328-4d24-92dd-1c877cb86dce",
         "title": "Solutions Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1779876631,
         "date_posted": 1778922100,
         "url": "https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/United-Kingdom/Solutions-Analyst_R109322",
@@ -328661,7 +328642,7 @@
         "company_name": "General Motors",
         "id": "95fe52bd-6718-4467-a2b0-76f1071db57d",
         "title": "Software Developer - Test Framework",
-        "active": false,
+        "active": true,
         "date_updated": 1780352904,
         "date_posted": 1780351604,
         "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Markham-Ontario-Canada/Early-Career-Software-Developer---Test-Framework_JR-202612062",
@@ -337640,7 +337621,7 @@
         "source": "Simplify",
         "category": "Hardware",
         "company_name": "TTP",
-        "id": "1c4edf26-8b8d-4507-83a4-7b06f211012f",
+        "id": "edb319e2-e574-40bd-9fa0-da64c1142067",
         "title": "FPGA Engineer - Consultant",
         "active": true,
         "date_updated": 1780927933,
@@ -338275,7 +338256,7 @@
         "company_name": "Goldman Sachs",
         "id": "2e34b863-9eb5-4b1d-b3f1-959a8e16227c",
         "title": "Global Banking & Markets Public - Systematic Trading Strategies Trading - Ana/Aso",
-        "active": true,
+        "active": false,
         "date_updated": 1780958352,
         "date_posted": 1780956560,
         "url": "https://higher.gs.com/roles/175884",
@@ -345636,7 +345617,7 @@
         "company_name": "Goldman Sachs",
         "id": "aa693cdb-f3f2-4ceb-b496-134b2a24595a",
         "title": "HCM Associate - Data Analytics and Reporting",
-        "active": true,
+        "active": false,
         "date_updated": 1781187814,
         "date_posted": 1781042930,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/176302",
@@ -349163,7 +349144,7 @@
         "source": "Simplify",
         "category": "Software",
         "company_name": "PA Consulting",
-        "id": "314e1221-0871-4252-99d8-21a93bedcdee",
+        "id": "4b7feeac-2c7a-4260-8556-c8f33800ba50",
         "title": "Salesforce Developer",
         "active": true,
         "date_updated": 1781388924,
@@ -349214,6 +349195,46 @@
         "degrees": [
             "Bachelor's",
             "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "American Electric Power",
+        "id": "1cf29487-acc9-477c-ba4e-b95ce517775c",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1781417522,
+        "date_posted": 1781417152,
+        "url": "https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/New-Albany-OH/Data-Analyst_R16070",
+        "locations": [
+            "New Albany, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/American-Electric-Power",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Vermont Information Processing",
+        "id": "b8c86556-fd0a-4314-a2c6-321f89f7d641",
+        "title": "Product Marketing Associate",
+        "active": true,
+        "date_updated": 1781418364,
+        "date_posted": 1781302996,
+        "url": "https://job-boards.greenhouse.io/vipvermontinformationprocessing2/jobs/5163430007",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Vermont-Information-Processing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
