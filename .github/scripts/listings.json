@@ -34994,43 +34994,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "The Boeing Company",
-        "id": "19152cbc-8d26-4bd5-96c7-6b1c1206521c",
-        "title": "Product Security Engineers",
-        "active": false,
-        "date_updated": 1762909379,
-        "date_posted": 1760684968,
-        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Product-Security-Engineers_JR2025478888",
-        "locations": [
-            "St Charles, MO",
-            "Hazelwood, MO"
-        ],
-        "company_url": "https://simplify.jobs/c/Boeing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "KBR",
-        "id": "f2151d9c-6bc8-440c-be64-dbe022e70e0f",
-        "title": "Engineering Technician",
-        "active": false,
-        "date_updated": 1760684605,
-        "date_posted": 1760684605,
-        "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Aberdeen-Proving-Ground-Maryland/Engineering-Technician_R2113787",
-        "locations": [
-            "Aberdeen, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/KBR",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "FMC Corporation",
         "id": "4a56c778-90f8-4abd-b0ca-65117a31d8de",
