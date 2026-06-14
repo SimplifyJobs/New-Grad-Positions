@@ -34977,24 +34977,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Silna Health",
-        "id": "c496a68d-b745-418d-a3f6-444dbf77e300",
-        "title": "AI Deployment Analyst",
-        "active": false,
-        "date_updated": 1760689332,
-        "date_posted": 1760689332,
-        "url": "https://jobs.ashbyhq.com/silnahealth.com/0f011347-1665-4c7c-b249-1b936fbf3780/application",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Silna-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "FMC Corporation",
         "id": "4a56c778-90f8-4abd-b0ca-65117a31d8de",
         "title": "FMC Data Analyst Intern/Co-op-1",
@@ -101181,26 +101163,6 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "TensorWave",
-        "id": "eac797e0-e67e-4805-967c-120ffd600a75",
-        "title": "Product Manager",
-        "active": false,
-        "date_updated": 1767434223,
-        "date_posted": 1760688258,
-        "url": "https://jobs.ashbyhq.com/tensorwave/5bd8c71a-203f-4925-b4c3-4cadb3756edc/application",
-        "locations": [
-            "Las Vegas, NV"
-        ],
-        "company_url": "https://simplify.jobs/c/TensorWave",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -327566,7 +327528,7 @@
         "company_name": "Andrew Morgan",
         "id": "027f917c-5000-4389-bdd4-79e2e30d962e",
         "title": "OneStream Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1780353313,
         "date_posted": 1780351728,
         "url": "https://andrew-morgan.com/current-openings/?gh_jid=5237627008",
@@ -345459,7 +345421,7 @@
         "source": "Simplify",
         "category": "Hardware",
         "company_name": "Western Digital",
-        "id": "1557a19a-986c-4ab5-a485-a5febb3f17fd",
+        "id": "6a1f8feb-f570-4d70-bb2e-9c27c5dea55c",
         "title": "Hardware Development Engineer - Wafer Optical Metrology",
         "active": true,
         "date_updated": 1781170202,
