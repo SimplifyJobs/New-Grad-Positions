@@ -1,44 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "RTX",
-        "id": "11c5fd85-af9d-4c56-9f38-4c322e57a201",
-        "title": "Software Engineer 1 - Embedded Communications",
-        "active": false,
-        "date_updated": 1761560092,
-        "date_posted": 1760662670,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HIN02-Ft-Wayne-IN-1010-Production-Road---Fort-Wayne-IN-46808-USA/Software-Engineer-I---Embedded-Communications--Onsite-_01799726",
-        "locations": [
-            "Fort Wayne, IN"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Ciena",
-        "id": "383f52ed-0b0d-44de-ad50-61f7de22a158",
-        "title": "Embedded Software Engineer \u2013 New Grad",
-        "active": false,
-        "date_updated": 1760661960,
-        "date_posted": 1760661960,
-        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer---New-Grad_R029246",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Ciena",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "NVIDIA",
         "id": "f2bbd6fe-b223-437d-ab87-208146764b13",
@@ -35292,25 +35254,6 @@
             "Arizona"
         ],
         "company_url": "https://simplify.jobs/c/GE-Healthcare",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "StubHub",
-        "id": "eea70bea-41ce-4a3a-b27c-c6be1731cf4e",
-        "title": "Associate Product Manager",
-        "active": false,
-        "date_updated": 1761832464,
-        "date_posted": 1760662295,
-        "url": "https://job-boards.eu.greenhouse.io/stubhubinc/jobs/4648133101",
-        "locations": [
-            "Santa Monica, CA",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/StubHub",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
