@@ -1,26 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Jerry",
-        "id": "c3667ce0-dab1-4854-9eb2-e84de76af042",
-        "title": "Software Engineer 1 - Multiple Teams",
-        "active": false,
-        "date_updated": 1760732828,
-        "date_posted": 1760732828,
-        "url": "https://jobs.ashbyhq.com/jerry.ai/a4bcf06b-2127-4cbd-ae9c-edd286af40f9/application",
-        "locations": [
-            "Toronto, ON, Canada",
-            "Greater Toronto Area, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Jerry",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "date_updated": 1761562582,
         "sponsorship": "Other",
         "active": false,
@@ -34640,24 +34619,6 @@
             "Kansas City, MO"
         ],
         "company_url": "https://simplify.jobs/c/InMobi",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Accenture",
-        "id": "3508979c-e6b4-427c-92aa-23458d8bdbe0",
-        "title": "SAP Analyst",
-        "active": false,
-        "date_updated": 1760732093,
-        "date_posted": 1760732093,
-        "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Nashville-4101-Charlotte-Ave-Corp/SAP-Analyst_R00291858",
-        "locations": [
-            "Nashville, TN"
-        ],
-        "company_url": "https://simplify.jobs/c/Accenture-FS",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -305211,7 +305172,7 @@
         "company_name": "GE Healthcare",
         "id": "253f1fe6-976c-42d7-abbc-001cbe2eb9f4",
         "title": "Field Service Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1778947875,
         "date_posted": 1778941881,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-I---Kansas_R4041188-1",
@@ -317194,7 +317155,7 @@
         "company_name": "Elekta",
         "id": "2bef8297-48c9-430d-a0a8-4aa0694f67bf",
         "title": "Associate Field Service Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1779819398,
         "date_posted": 1776895743,
         "url": "https://elekta.wd3.myworkdayjobs.com/Elekta_Careers/job/Louisiana--Home-Based/Associate-Field-Service-Engineer_R2026-0169",
@@ -336215,7 +336176,7 @@
         "company_name": "Abbott",
         "id": "ebcf495e-ffc8-41a2-9ced-68da1c5801e4",
         "title": "Design to Cost Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1780747642,
         "date_posted": 1780740902,
         "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---Illinois---Abbott-Park/Design-to-Cost-Engineer_31149181",
@@ -348415,7 +348376,7 @@
         "company_name": "Amgen",
         "id": "f120f861-e92a-472b-88a8-e4979956a891",
         "title": "Senior Manager of Global Forecasting - Obesity",
-        "active": true,
+        "active": false,
         "date_updated": 1781348157,
         "date_posted": 1781347520,
         "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/US---California---Thousand-Oaks/Senior-Manager-of-Global-Forecasting--Obesity_R-234579",
