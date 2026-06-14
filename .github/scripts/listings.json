@@ -35124,24 +35124,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Togetherwork",
-        "id": "5ab9ea11-2a98-45e7-bf54-fe9cb8b3438e",
-        "title": "Migration Specialist",
-        "active": false,
-        "date_updated": 1761969555,
-        "date_posted": 1760674315,
-        "url": "https://togetherwork.com/application/?gh_jid=8200180002",
-        "locations": [
-            "Columbus, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Togetherwork",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "FMC Corporation",
         "id": "4a56c778-90f8-4abd-b0ca-65117a31d8de",
