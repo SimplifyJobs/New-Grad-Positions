@@ -2855,24 +2855,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Cority",
-        "id": "e76ea999-2f81-4e98-9b9e-df7e55f6ef63",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1760739680,
-        "date_posted": 1760739680,
-        "url": "https://jobs.lever.co/cority/8bd60ff1-c879-41a2-b989-48e2fc03b5fa/apply",
-        "locations": [
-            "Remote in UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Cority",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Whoop",
         "id": "e0da206b-f1c0-4af9-9fa2-f7d209331585",
         "title": "Android Engineer 1 - Growth",
@@ -34300,24 +34282,6 @@
             "Winnipeg, MB, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Standard-Aero",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Analog Devices",
-        "id": "4a0406bb-aa53-4580-aebd-ffefc5c2fb22",
-        "title": "CMP Equipment Engineering Technician",
-        "active": false,
-        "date_updated": 1760739196,
-        "date_posted": 1760739196,
-        "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-OR-Beaverton/CMP-Equipment-Maintenance-Technician_R257081",
-        "locations": [
-            "Beaverton, OR"
-        ],
-        "company_url": "https://simplify.jobs/c/Analog-Devices",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
