@@ -35390,24 +35390,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Point72",
-        "id": "8a585588-87f3-4977-8764-60a91e386333",
-        "title": "London Meet and Greet - 2026 Cubist Quant Academy",
-        "active": false,
-        "date_updated": 1760658071,
-        "date_posted": 1760658071,
-        "url": "https://boards.greenhouse.io/point72/jobs/8215008002",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Point72",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Argonne National Laboratory",
         "id": "820dacb2-ed72-4b28-83c3-43e148a90663",
