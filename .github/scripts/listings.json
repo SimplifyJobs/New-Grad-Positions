@@ -1,26 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Safran",
-        "id": "95ba2214-0efb-46cc-ad00-4e847dfe8208",
-        "title": "Junior Full-Stack Software Engineer - Geospatial AI",
-        "active": false,
-        "date_updated": 1760703408,
-        "date_posted": 1760703408,
-        "url": "https://safransed.bamboohr.com/careers/1039/",
-        "locations": [
-            "Arlington, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Safran",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "TD Bank",
         "id": "398629a0-aa3d-427e-a254-4b1d6613f219",
