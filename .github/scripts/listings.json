@@ -34849,42 +34849,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "AeroVironment",
-        "id": "b3d65a68-e1e4-478f-917c-b2414d65732e",
-        "title": "Data Management Analyst 1 - Data Management - Analyst I",
-        "active": false,
-        "date_updated": 1762939974,
-        "date_posted": 1760698465,
-        "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Simi-Valley-CA/Data-Management--DM--Analyst-I_6035",
-        "locations": [
-            "Simi Valley, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/AeroVironment",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "bc4ab905-742d-4579-af6b-1718352d9080",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1760697991,
-        "date_posted": 1760697991,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/jobs/job/400029235",
-        "locations": [
-            "Leicester, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "University of Southern California",
         "id": "f1472558-20a7-424d-8b78-7ba125d49a83",
         "title": "Integration Developer Analyst 1 - Multiple Teams",
@@ -239297,7 +239261,7 @@
         "company_name": "Lawrence Livermore National Laboratory (LLNL)",
         "id": "5a03e922-9be2-4e12-9821-b01d8c92b5e6",
         "title": "Uncertainty Quantification for Surrogate Models Postdoctoral Researcher",
-        "active": true,
+        "active": false,
         "date_updated": 1774972621,
         "date_posted": 1774256481,
         "url": "https://jobs.smartrecruiters.com/LLNL/3743990012255036",
