@@ -1,234 +1,5 @@
 [
     {
-        "date_updated": 1761562582,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [],
-        "url": "https://www.google.com/about/careers/applications/jobs/results/90452041138086598-software-engineer-ii-early-career-google-cloud-ai-catalyst-program",
-        "company_name": "Google",
-        "title": "Software Engineer II, Early Career - Google Cloud AI Catalyst Program",
-        "locations": [
-            "Sunnyvale, CA",
-            "Kirkland, WA",
-            "Seattle, WA"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "angie-hue",
-        "id": "222d836c-b253-401e-a3fe-413f8f2f350d",
-        "date_posted": 1760735095,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1760735211,
-        "sponsorship": "Other",
-        "active": true,
-        "degrees": [],
-        "url": "https://groundswell.wd12.myworkdayjobs.com/groundswell/job/McLean-VA/Technical-Consultant--Campus-Recruiting-Entry-Level-_JR100868",
-        "company_name": "Groundswell",
-        "title": "Technical Consultant",
-        "locations": [
-            "McLean, VA"
-        ],
-        "category": "Software Engineering",
-        "source": "angie-hue",
-        "id": "9bee60af-1346-402b-a520-49daf802c96c",
-        "date_posted": 1760735211,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1760735293,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [],
-        "url": "https://lifeattiktok.com/search/7559731427425257746",
-        "company_name": "TikTok",
-        "title": "Machine Learning Engineer Graduate (BRIC) \u2013 2026 Start (BS/MS)",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "Simplify",
-        "id": "e052a976-5d29-4b93-9b66-71b4fb7eed3d",
-        "date_posted": 1760735293,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1761839644,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [],
-        "url": "https://corebridgefinancial.wd1.myworkdayjobs.com/en-US/corebridgefinancial/job/TX-Houston/Entry-Level---Data-Scientist_JR2501686",
-        "company_name": "Corebridge Financial",
-        "title": "Entry Level \u2013 Data Scientist",
-        "locations": [
-            "Houston, TX",
-            "Woodland Hills, CA",
-            "Jersey City, NJ"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "angie-hue",
-        "id": "c243210f-046a-4db3-9406-7d820e1ae90b",
-        "date_posted": 1760735409,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1765195362,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [],
-        "url": "https://job-boards.greenhouse.io/capco/jobs/7335392",
-        "company_name": "Capco",
-        "title": "Junior AI Engineer",
-        "locations": [
-            "Orlando, FL",
-            "Hybrid"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "angie-hue",
-        "id": "ceb6b24c-1163-438a-96d6-3e87daec2392",
-        "date_posted": 1760735470,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1765980595,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [
-            "Master's"
-        ],
-        "url": "https://tencent.wd1.myworkdayjobs.com/en-US/Tencent_Careers/job/US-California-Palo-Alto/AI-Software-Engineer_R105929-1",
-        "company_name": "Tencent",
-        "title": "Junior AI Software Engineer",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "angie-hue",
-        "id": "d6ff3175-ee24-476e-8858-8600adcad5ab",
-        "date_posted": 1760735546,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1761564226,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [],
-        "url": "https://jabil.wd5.myworkdayjobs.com/en-US/Jabil_Careers/job/St-PetersburgTampa-FL/Associate-Cloud-Engineer_J2429707",
-        "company_name": "Jabil",
-        "title": "Associate Cloud Engineer",
-        "locations": [
-            "St. Petersburg, FL",
-            "Tampa, FL"
-        ],
-        "category": "Software Engineering",
-        "source": "angie-hue",
-        "id": "c391c4d7-b3b5-4117-b806-abd17ca4c657",
-        "date_posted": 1760735616,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1763561375,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [],
-        "url": "https://jobs.lever.co/deltasands/4ae1b9e2-ebbd-416e-810a-58f296666125/",
-        "company_name": "Delta Solutions & Strategies",
-        "title": "Junior Software Engineer",
-        "locations": [
-            "Colorado Springs, CO"
-        ],
-        "category": "Software Engineering",
-        "source": "angie-hue",
-        "id": "bdaf8305-781e-47ff-9f31-67df0006a58c",
-        "date_posted": 1760735998,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1761553447,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [],
-        "url": "https://centene.wd5.myworkdayjobs.com/en-US/Centene_External/job/Remote-MO/Cloud-Platform-Engineer-I_1609134",
-        "company_name": "Centene",
-        "title": "Cloud Platform Engineer I",
-        "locations": [
-            "Remote in MO",
-            "Remote in GA",
-            "Remote in TN",
-            "Remote in FL",
-            "Remote in SC"
-        ],
-        "category": "Software Engineering",
-        "source": "angie-hue",
-        "id": "c0169d49-d859-4eb0-9fae-66deaa5876fb",
-        "date_posted": 1760736096,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1761553298,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": false,
-        "degrees": [],
-        "url": "https://caci.wd1.myworkdayjobs.com/en-US/External/job/Remote-Any-State/Junior-Software-Developer_318599",
-        "company_name": "CACI",
-        "title": "Junior Software Developer",
-        "locations": [
-            "Remote",
-            "Washington, DC"
-        ],
-        "category": "Software Engineering",
-        "source": "angie-hue",
-        "id": "dfbd76dd-d98f-4b51-851c-8e55eb392472",
-        "date_posted": 1760736169,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1761562923,
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "degrees": [],
-        "url": "https://external-telecom-teldta.icims.com/jobs/28150/data-analyst-i---gis/job",
-        "company_name": "TDS",
-        "title": "Data Analyst I - GIS",
-        "locations": [
-            "Madison, WI"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "angie-hue",
-        "id": "f62254af-f510-4248-bb42-b56ef18bd581",
-        "date_posted": 1760736226,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1761553382,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [],
-        "url": "https://microchiphr.wd5.myworkdayjobs.com/en-US/external/job/CA---San-Jose---3850-N-First-St/Engineer-I---Software--FPGA-Place-and-Route-_R1914-25",
-        "company_name": "Microchip Technology",
-        "title": "Engineer I - Software (FPGA Place and Route)",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "category": "Software Engineering",
-        "source": "angie-hue",
-        "id": "6315407b-d0bc-4f43-8ea9-5d2d3d36717e",
-        "date_posted": 1760736347,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "source": "Simplify",
         "category": "Software",
         "company_name": "Amazon",
@@ -248837,7 +248608,7 @@
         "company_name": "Pennsylvania State University",
         "id": "511d6f5f-2c89-4282-b5ab-da8d188ff120",
         "title": "Engineering Designer",
-        "active": false,
+        "active": true,
         "date_updated": 1775303196,
         "date_posted": 1775300138,
         "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Engineering-Designer_REQ_0000076206-2",
@@ -339204,7 +338975,7 @@
         "company_name": "CoStar Group",
         "id": "cd60499a-dfb8-403e-ba59-7ed8d2cba47d",
         "title": "Bilingual French/English Associate Sales Comparable Researcher",
-        "active": false,
+        "active": true,
         "date_updated": 1780998501,
         "date_posted": 1780740292,
         "url": "https://costar.wd1.myworkdayjobs.com/en-US/CoStarCareers/job/US-VA-Richmond/Bilingual-French-English-Associate-Sales-Comparable-Researcher_R37248",
@@ -348488,7 +348259,7 @@
         "company_name": "University of Maryland - College Park",
         "id": "cba5df91-6aa8-4a4e-8f7b-3000a86905a6",
         "title": "Open Rank Professional Track Faculty",
-        "active": true,
+        "active": false,
         "date_updated": 1781360642,
         "date_posted": 1781360173,
         "url": "https://umd.wd1.myworkdayjobs.com/UMCP/job/University-of-Maryland-College-Park/Open-Rank-Professional-Track-Faculty---Postdoctoral-Researcher---Assistant-Research-Scientist-1_JR101669",
@@ -348848,6 +348619,26 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Maryland - College Park",
+        "id": "c16de5ad-b2cf-4941-95e0-0eef613b642b",
+        "title": "Faculty Assistant-3",
+        "active": true,
+        "date_updated": 1781430733,
+        "date_posted": 1781360173,
+        "url": "https://umd.wd1.myworkdayjobs.com/UMCP/job/University-of-Maryland-College-Park/Faculty-Assistant-3_JR101888-1",
+        "locations": [
+            "Hyattsville, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Maryland-College-Park",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
