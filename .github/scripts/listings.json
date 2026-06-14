@@ -1,44 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Sierra Nevada Coporation",
-        "id": "4c40c38c-327e-4e50-b9d7-cbfb16910a7d",
-        "title": "Systems Security Engineer I",
-        "active": false,
-        "date_updated": 1761921287,
-        "date_posted": 1760679817,
-        "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Systems-Security-Engineer-I_R0028693-1",
-        "locations": [
-            "Lone Tree, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Sierra-Nevada-Coporation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "HeyGen",
-        "id": "5b7c2128-2cbc-447f-b60e-685d15101448",
-        "title": "Data Scientist \u2013 New Graduate",
-        "active": false,
-        "date_updated": 1760679378,
-        "date_posted": 1760679378,
-        "url": "https://job-boards.greenhouse.io/heygen/jobs/4279485007",
-        "locations": [
-            "LA"
-        ],
-        "company_url": "https://simplify.jobs/c/HeyGen",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Relativity Space",
         "id": "4eac7c2a-8806-47f7-b8b5-0a246114ef9f",
@@ -328476,7 +328438,7 @@
         "company_name": "Caterpillar Inc.",
         "id": "641935e8-74f0-41c7-9288-51a63a3346a8",
         "title": "Business Intelligence Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1780353001,
         "date_posted": 1780351834,
         "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chicago-Illinois/Business-Intelligence-Analyst_R0000372161",
