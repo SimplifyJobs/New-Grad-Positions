@@ -1,26 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Relativity Space",
-        "id": "4eac7c2a-8806-47f7-b8b5-0a246114ef9f",
-        "title": "Avionics Hardware Engineer I",
-        "active": false,
-        "date_updated": 1760696898,
-        "date_posted": 1760696898,
-        "url": "https://boards.greenhouse.io/relativity/jobs/8216139002",
-        "locations": [
-            "Long Beach, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Relativity-Space",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Safran",
         "id": "95ba2214-0efb-46cc-ad00-4e847dfe8208",
@@ -34898,24 +34878,6 @@
             "Leicester, UK"
         ],
         "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Zoox",
-        "id": "63b2b431-dd8a-4ed5-8d8d-ae9abcc4878a",
-        "title": "Part-Time Software Engineer - 6-month Contract",
-        "active": false,
-        "date_updated": 1760695614,
-        "date_posted": 1760695614,
-        "url": "https://jobs.lever.co/zoox/5f10dfaf-5920-4506-8a09-b39b29e6f48b/apply",
-        "locations": [
-            "San Mateo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Zoox",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
