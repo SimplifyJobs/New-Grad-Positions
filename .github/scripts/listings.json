@@ -35222,24 +35222,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "GE Healthcare",
-        "id": "b1fa1f49-2146-4a6d-a672-b457377155ba",
-        "title": "Field Service Engineer 1 - Northern AZ - Navajo Nation area",
-        "active": false,
-        "date_updated": 1763117150,
-        "date_posted": 1760664733,
-        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-I---Northern-AZ--Navajo-Nation-area_R4030392-2",
-        "locations": [
-            "Arizona"
-        ],
-        "company_url": "https://simplify.jobs/c/GE-Healthcare",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Argonne National Laboratory",
         "id": "820dacb2-ed72-4b28-83c3-43e148a90663",
@@ -335293,7 +335275,7 @@
         "company_name": "Anduril",
         "id": "0a20816a-d18d-455c-9e1d-fe6a126bb513",
         "title": "Product Operations Associate - Tier 1",
-        "active": false,
+        "active": true,
         "date_updated": 1780622132,
         "date_posted": 1774574788,
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/5081383007",
