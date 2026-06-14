@@ -1,24 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "TD Bank",
-        "id": "398629a0-aa3d-427e-a254-4b1d6613f219",
-        "title": "Machine Learning Engineer 1 - Analytics, Insights, & Artificial Intelligence",
-        "active": false,
-        "date_updated": 1761562534,
-        "date_posted": 1760715869,
-        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Machine-Learning-Engineer-I_R_1451546",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/TD-Bank",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Jerry",
         "id": "1c7ef8a6-9671-484a-ad0a-a49cd0017a61",
@@ -303639,7 +303621,7 @@
         "company_name": "Western Digital",
         "id": "b278496b-e98d-485e-b9f2-d14b9bc4ffef",
         "title": "Software Engineer - Apps",
-        "active": true,
+        "active": false,
         "date_updated": 1778807168,
         "date_posted": 1778807101,
         "url": "https://jobs.smartrecruiters.com/WesternDigital/744000126594220",
@@ -348468,7 +348450,7 @@
         "company_name": "GE Healthcare",
         "id": "7ea8709d-abf1-41e7-bae5-ca9fe500d00d",
         "title": "Field Service Engineer 1 Nuclear/CT/PETCT",
-        "active": true,
+        "active": false,
         "date_updated": 1781342231,
         "date_posted": 1781215608,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1-Nuclear-CT-PETCT---Salt-Lake-City--UT_R4042221-1",
