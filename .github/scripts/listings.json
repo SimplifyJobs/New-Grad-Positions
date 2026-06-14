@@ -34958,24 +34958,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "American Express",
-        "id": "ae52adde-6eb0-4433-a1fa-3e85252e1a3f",
-        "title": "Analyst \u2013 Consumer Premium Products",
-        "active": false,
-        "date_updated": 1760691694,
-        "date_posted": 1760691694,
-        "url": "https://aexp.eightfold.ai/careers/job/38462971",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/American-Express",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "FMC Corporation",
         "id": "4a56c778-90f8-4abd-b0ca-65117a31d8de",
@@ -240478,7 +240460,7 @@
         "company_name": "Lawrence Livermore National Laboratory (LLNL)",
         "id": "2d79bc73-d115-4852-8db7-1ff1f64b155a",
         "title": "Machine Learning - Postdoctoral Researcher",
-        "active": true,
+        "active": false,
         "date_updated": 1774985941,
         "date_posted": 1774083837,
         "url": "https://jobs.smartrecruiters.com/LLNL/3743990012255026",
