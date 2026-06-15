@@ -147230,7 +147230,7 @@
         "company_name": "ServiceNow",
         "id": "8d79ff45-51ed-42e1-b0b3-d64480b0290a",
         "title": "Associate Software Engineer - Core Infrastructure - Moveworks",
-        "active": true,
+        "active": false,
         "date_updated": 1770246694,
         "date_posted": 1770246694,
         "url": "https://jobs.smartrecruiters.com/ServiceNow/744000107370955",
@@ -268672,7 +268672,7 @@
         "company_name": "Arthur Grand Technologies",
         "id": "f75f0ef0-4976-4878-ac6d-176ddeea0c1c",
         "title": "Syteline ERP Support",
-        "active": false,
+        "active": true,
         "date_updated": 1776463381,
         "date_posted": 1776463360,
         "url": "https://jobs.smartrecruiters.com/ArthurGrandTechnologiesInc/744000121473057",
@@ -299959,7 +299959,7 @@
         "company_name": "ServiceNow",
         "id": "ce260f13-eca8-4ce4-b243-d56296546ce9",
         "title": "Software Engineer - Agentic AI Systems - Moveworks",
-        "active": false,
+        "active": true,
         "date_updated": 1778720941,
         "date_posted": 1778720777,
         "url": "https://jobs.smartrecruiters.com/ServiceNow/744000126417779",
@@ -321007,7 +321007,7 @@
         "company_name": "General Motors",
         "id": "93d05a3b-2bba-41e7-82de-b586a9f5b075",
         "title": "Early Career Software Developer - Brake Controls and Diagnostics",
-        "active": true,
+        "active": false,
         "date_updated": 1779920284,
         "date_posted": 1779919570,
         "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Markham-Ontario-Canada/Early-Career-Software-Developer---Brake-Controls-and-Diagnostics_JR-202611503",
@@ -336729,7 +336729,7 @@
         "company_name": "TTP",
         "id": "edb319e2-e574-40bd-9fa0-da64c1142067",
         "title": "FPGA Engineer - Consultant",
-        "active": false,
+        "active": true,
         "date_updated": 1780927933,
         "date_posted": 1780927489,
         "url": "https://jobs.smartrecruiters.com/TTP1/744000130799419",
@@ -344723,7 +344723,7 @@
         "company_name": "Goldman Sachs",
         "id": "aa693cdb-f3f2-4ceb-b496-134b2a24595a",
         "title": "HCM Associate - Data Analytics and Reporting",
-        "active": false,
+        "active": true,
         "date_updated": 1781187814,
         "date_posted": 1781042930,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/176302",
@@ -348329,7 +348329,7 @@
         "company_name": "Vermont Information Processing",
         "id": "b8c86556-fd0a-4314-a2c6-321f89f7d641",
         "title": "Product Marketing Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1781418364,
         "date_posted": 1781302996,
         "url": "https://job-boards.greenhouse.io/vipvermontinformationprocessing2/jobs/5163430007",
@@ -348407,5 +348407,43 @@
             "Master's",
             "Certificate"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Computershare",
+        "id": "f23c573e-76bd-4762-8c9d-00b918ebb197",
+        "title": "Graduate AI Analyst",
+        "active": true,
+        "date_updated": 1781487201,
+        "date_posted": 1781485523,
+        "url": "https://fa-evdq-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/11247",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Computershare",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "LEAP Legal Software",
+        "id": "579ac545-972a-424f-9eb8-b7a788226521",
+        "title": "Junior Data Quality Analyst",
+        "active": true,
+        "date_updated": 1781476922,
+        "date_posted": 1781474871,
+        "url": "https://apply.workable.com/leap-legal-software/j/0C6BF25348/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/LEAP-Legal-Software",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
