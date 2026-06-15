@@ -327445,7 +327445,7 @@
         "company_name": "Best Buy",
         "id": "4b18438a-8486-404c-bf8c-951ed22c7e5d",
         "title": "Representative - Field Technical Service Representative - Des services techniques \u00e0 domicile",
-        "active": true,
+        "active": false,
         "date_updated": 1780352915,
         "date_posted": 1780351608,
         "url": "https://bestbuycanada.wd3.myworkdayjobs.com/BestBuyCA_Career/job/11967-LaSalle/Reprsentant-e--des-services-techniques--domicile--Temps-plein----Field-Technical-Service-Representative--Full-Time-_R-50722",
@@ -336289,7 +336289,7 @@
         "company_name": "Johnson & Johnson",
         "id": "4ff50867-f282-4038-9e52-4ae5ef1dede6",
         "title": "R&D Applications",
-        "active": true,
+        "active": false,
         "date_updated": 1780899121,
         "date_posted": 1780898871,
         "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Raynham-Massachusetts-United-States-of-America/R-D-Applications_R-078334-1",
@@ -348284,5 +348284,29 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Intuit",
+        "id": "55a00559-28b9-41bc-b6dc-cda5714e2846",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1780076703,
+        "date_posted": 1776118194,
+        "url": "https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/87369448720",
+        "locations": [
+            "NYC",
+            "Mountain View, CA",
+            "Atlanta, GA",
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Intuit",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
