@@ -24282,7 +24282,7 @@
         "company_name": "TikTok",
         "id": "c89cddfc-ea4d-453c-91cd-3f9293e56a32",
         "title": "Software Engineer Graduate - Data Arch - Data Ecosystem",
-        "active": false,
+        "active": true,
         "date_updated": 1763120754,
         "date_posted": 1761909291,
         "url": "https://lifeattiktok.com/search/7527441329384147208",
@@ -25345,7 +25345,7 @@
         "company_name": "TikTok",
         "id": "f65a57de-c5dd-4b3b-bfdf-5331d7a423c8",
         "title": "Software Engineer Graduate - Data Arch - AI/ML Infrastructure",
-        "active": false,
+        "active": true,
         "date_updated": 1761902300,
         "date_posted": 1761902300,
         "url": "https://lifeattiktok.com/search/7535215880842791176",
@@ -25543,7 +25543,7 @@
         "company_name": "TikTok",
         "id": "504f0b08-afb2-4964-b3cd-5dee1937b1ad",
         "title": "Frontend Software Engineer - Global CRM Platform",
-        "active": false,
+        "active": true,
         "date_updated": 1761902270,
         "date_posted": 1761902270,
         "url": "https://lifeattiktok.com/search/7104433489986734350",
@@ -28837,7 +28837,7 @@
         "company_name": "TikTok",
         "id": "775950e7-6a55-4b1e-8404-d552f09b1618",
         "title": "Creative Product Operations Graduate - International Advertising - Creative and Brand Innovation",
-        "active": false,
+        "active": true,
         "date_updated": 1761777059,
         "date_posted": 1761777059,
         "url": "https://lifeattiktok.com/search/7538828742874122504",
@@ -33796,24 +33796,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Millennium Space Systems",
-        "id": "2766f94e-a35e-4317-8790-09d4d4c68201",
-        "title": "ATLO Engineer",
-        "active": false,
-        "date_updated": 1760769336,
-        "date_posted": 1760769336,
-        "url": "https://job-boards.greenhouse.io/millenniumspacesystems/jobs/4889516008",
-        "locations": [
-            "El Segundo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Millennium-Space-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "John Deere",
         "id": "55d619b8-ec17-40a7-bc2c-de799d1a8355",
@@ -33894,7 +33876,7 @@
         "company_name": "TikTok",
         "id": "8b0f0a57-c19a-494c-9a6e-02dbae9af63b",
         "title": "Graduate Research Scientist Generative AI - Intelligent Creation",
-        "active": false,
+        "active": true,
         "date_updated": 1762916610,
         "date_posted": 1761902269,
         "url": "https://lifeattiktok.com/search/7517442299329300754",
@@ -39809,7 +39791,7 @@
         "company_name": "TikTok",
         "id": "7a8c16e6-b29e-441d-9635-d193fe1c96fa",
         "title": "Software Engineer Graduate - 2026 Start",
-        "active": false,
+        "active": true,
         "date_updated": 1761902303,
         "date_posted": 1761902303,
         "url": "https://lifeattiktok.com/search/7531175534148045063",
@@ -124085,7 +124067,7 @@
         "company_name": "TikTok",
         "id": "691d2914-24b3-4473-8d84-3ea9c6d4ee39",
         "title": "Technical Support Engineer - Android/iOS SDK",
-        "active": false,
+        "active": true,
         "date_updated": 1769048068,
         "date_posted": 1769048068,
         "url": "https://lifeattiktok.com/search/7443902253976570120",
@@ -237410,7 +237392,7 @@
         "company_name": "TikTok",
         "id": "714f26ab-28dd-4f39-8b84-f3869099f68f",
         "title": "Vision Language Models/Vision Language Models Research Scientist Graduate - Trust and Safety - PhD",
-        "active": false,
+        "active": true,
         "date_updated": 1774919992,
         "date_posted": 1774919590,
         "url": "https://lifeattiktok.com/search/7594895259798325557",
@@ -247032,7 +247014,7 @@
         "company_name": "TikTok",
         "id": "f22da764-7308-4324-b842-8abee0e14c08",
         "title": "Graduate Machine Learning Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1775092752,
         "date_posted": 1775092373,
         "url": "https://lifeattiktok.com/search/7533384972704778514",
@@ -252377,7 +252359,7 @@
         "company_name": "TikTok",
         "id": "c9ab7f92-f6ec-42d1-b42e-d04835febdf0",
         "title": "Graduate Research Scientist - Global E-commerce Content Recommendation",
-        "active": false,
+        "active": true,
         "date_updated": 1775629392,
         "date_posted": 1775628705,
         "url": "https://lifeattiktok.com/search/7521987177107589384",
@@ -258165,7 +258147,7 @@
         "company_name": "TikTok",
         "id": "bbc379c0-51e1-4215-ac1f-d18e1fc7c9f8",
         "title": "Graduate Machine Learning Engineer - Data Search TikTok",
-        "active": false,
+        "active": true,
         "date_updated": 1775870768,
         "date_posted": 1775869916,
         "url": "https://lifeattiktok.com/search/7515277586445322503",
@@ -263285,7 +263267,7 @@
         "company_name": "TikTok",
         "id": "f6f93c70-242c-4186-a7d2-07dd6a45694b",
         "title": "Machine Learning Engineer Graduate",
-        "active": false,
+        "active": true,
         "date_updated": 1776216795,
         "date_posted": 1776215468,
         "url": "https://lifeattiktok.com/search/7534641634584185095",
@@ -263324,7 +263306,7 @@
         "company_name": "TikTok",
         "id": "d125b509-7258-4a04-9220-92198ed2d7e5",
         "title": "Machine Learning Engineer Graduate - Multiple Teams",
-        "active": false,
+        "active": true,
         "date_updated": 1776216795,
         "date_posted": 1776215464,
         "url": "https://lifeattiktok.com/search/7534641209890588946",
@@ -267535,7 +267517,7 @@
         "company_name": "TikTok",
         "id": "cd59c8ab-bb78-4dc8-bd88-7203bb950533",
         "title": "Research Scientist - LLM Applications on Search/Ads/Recommendation",
-        "active": false,
+        "active": true,
         "date_updated": 1776406321,
         "date_posted": 1776406269,
         "url": "https://lifeattiktok.com/search/7629235064786127109",
@@ -267555,7 +267537,7 @@
         "company_name": "TikTok",
         "id": "ac4a0664-7251-4c89-828b-5bf31a2ce87d",
         "title": "Research Scientist - E-commerce Recommendation - LLM Applications",
-        "active": false,
+        "active": true,
         "date_updated": 1776406321,
         "date_posted": 1776406270,
         "url": "https://lifeattiktok.com/search/7629184028664563973",
@@ -302849,7 +302831,7 @@
         "company_name": "TikTok",
         "id": "b474b399-bc4e-4fed-a690-7c62e696ab51",
         "title": "Machine Learning Engineer Graduate - Global E-commerce Recommendation/Search",
-        "active": false,
+        "active": true,
         "date_updated": 1775025181,
         "date_posted": 1775024592,
         "url": "https://lifeattiktok.com/search/7550790814831511815",
@@ -310271,7 +310253,7 @@
         "company_name": "TikTok",
         "id": "a25655df-6e19-4c64-8b24-e85f531e94db",
         "title": "Graduate Machine Learning Scientist - Global E-commerce Content Recommendation",
-        "active": false,
+        "active": true,
         "date_updated": 1776417190,
         "date_posted": 1776416990,
         "url": "https://lifeattiktok.com/search/7553175919394638087",
@@ -332052,7 +332034,7 @@
         "company_name": "Reach Financial",
         "id": "39349736-2696-42cf-9e4b-deaf9d2b3246",
         "title": "Credit Risk Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1780526126,
         "date_posted": 1780525423,
         "url": "https://job-boards.greenhouse.io/reach/jobs/8573228002",
@@ -342312,7 +342294,7 @@
         "company_name": "TikTok",
         "id": "98d9b4b0-6fc1-4d5a-bc87-f9fa53c75a5c",
         "title": "Data Scientist Graduate - TikTok Shop DS",
-        "active": false,
+        "active": true,
         "date_updated": 1773093233,
         "date_posted": 1773093233,
         "url": "https://lifeattiktok.com/search/7535381998677739784",
@@ -346527,7 +346509,7 @@
         "company_name": "Phillips 66",
         "id": "e75ce752-4d23-47b5-b042-15ebc556d68b",
         "title": "Advisor 1 - Data Science - Product Optimization",
-        "active": true,
+        "active": false,
         "date_updated": 1781273661,
         "date_posted": 1781273187,
         "url": "https://careers.phillips66.com/job/Houston-Advisor-I,-Product-Optimization-(Data-Science)-TX-77042/1383744700/?ats=successfactors",
@@ -348168,7 +348150,7 @@
         "company_name": "Vermont Information Processing",
         "id": "b8c86556-fd0a-4314-a2c6-321f89f7d641",
         "title": "Product Marketing Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1781418364,
         "date_posted": 1781302996,
         "url": "https://job-boards.greenhouse.io/vipvermontinformationprocessing2/jobs/5163430007",
@@ -348307,6 +348289,211 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "f624cacf-5cd8-42ea-bc15-38f980bc6e29",
+        "title": "CV/NLP/Multimodal LLM Research Scientist Graduate - Trust and Safety",
+        "active": true,
+        "date_updated": 1781504821,
+        "date_posted": 1781503934,
+        "url": "https://lifeattiktok.com/search/7517106896071903496",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "e40f133a-71ab-472d-8ef3-4d156379450f",
+        "title": "Graduate Research Scientist - Multiple Teams",
+        "active": true,
+        "date_updated": 1781504993,
+        "date_posted": 1781503888,
+        "url": "https://lifeattiktok.com/search/7517105710544161032",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "d19126c7-186e-4d14-ae4d-756c4d86041d",
+        "title": "CV/NLP/Multimodal Large Language Model Engineer Graduate - TikTok Trust and Safety - BS/MS",
+        "active": true,
+        "date_updated": 1781504993,
+        "date_posted": 1781503889,
+        "url": "https://lifeattiktok.com/search/7517099008936397064",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "edd1cb2c-2893-4e90-8f8f-af97ec4a0012",
+        "title": "Graduate Research Scientist - Tiktok Recommendation",
+        "active": true,
+        "date_updated": 1781505960,
+        "date_posted": 1781503889,
+        "url": "https://lifeattiktok.com/search/7532216894792222994",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "aecaab63-3c94-4ada-9860-efdc777ef42f",
+        "title": "General Hire \u2013 Research Scientist Graduate - TikTok Recommendation",
+        "active": true,
+        "date_updated": 1781504821,
+        "date_posted": 1781503900,
+        "url": "https://lifeattiktok.com/search/7516697804673190151",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "e1f9f14d-1ffd-4469-b6ad-b476b4d55152",
+        "title": "Graduate Research Scientist - Tiktok Recommendation-Agentic AI",
+        "active": true,
+        "date_updated": 1781504974,
+        "date_posted": 1781503891,
+        "url": "https://lifeattiktok.com/search/7523144222812408071",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "a17e8180-27b9-4820-969b-796affdeddb3",
+        "title": "Data Scientist - TikTok Live",
+        "active": true,
+        "date_updated": 1781504821,
+        "date_posted": 1781503905,
+        "url": "https://lifeattiktok.com/search/7389873473475479817",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "63b0ab3f-3419-4c66-98d1-4d51309dafb7",
+        "title": "Graduate Research Scientist - Trust and Safety",
+        "active": true,
+        "date_updated": 1781504998,
+        "date_posted": 1781503918,
+        "url": "https://lifeattiktok.com/search/7530772847212644616",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "cba3f10a-54b4-46e8-b274-6000b2fccc5a",
+        "title": "Machine Learning Engineer Graduate - TikTok Recommendation",
+        "active": true,
+        "date_updated": 1781505006,
+        "date_posted": 1781503935,
+        "url": "https://lifeattiktok.com/search/7518139910798215442",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "bb7aa421-4cfb-4baa-9fc0-bea49fa9b593",
+        "title": "CV/NLP/Multimodal Large Language Models Machine Learning Engineer Graduate - Tiktok-Trust and Safety",
+        "active": true,
+        "date_updated": 1781504958,
+        "date_posted": 1781503888,
+        "url": "https://lifeattiktok.com/search/7517107684337748242",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
         ]
     }
 ]
