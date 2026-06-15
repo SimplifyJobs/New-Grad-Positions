@@ -2,25 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Sigma Computing",
-        "id": "3b14d946-f1a3-4591-8149-a54cb9fbd609",
-        "title": "Software Engineer \u2013 New Grad Program",
-        "active": false,
-        "date_updated": 1761923501,
-        "date_posted": 1760773536,
-        "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7501719003",
-        "locations": [
-            "SF",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Sigma-Computing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Veeva Systems",
         "id": "ff10df50-35b8-47c4-8138-ff9083746abf",
         "title": "Associate Software Engineer \u2013 Seeking 2025 & 2026 Grads",
