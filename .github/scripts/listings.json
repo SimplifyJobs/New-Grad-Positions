@@ -2,27 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Intuit",
-        "id": "55a00559-28b9-41bc-b6dc-cda5714e2846",
-        "title": "Software Engineer 1",
-        "active": true,
-        "date_updated": 1760765120,
-        "date_posted": 1760765120,
-        "url": "https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/87369448720",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Intuit",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Sigma Computing",
         "id": "3b14d946-f1a3-4591-8149-a54cb9fbd609",
         "title": "Software Engineer \u2013 New Grad Program",
@@ -33847,44 +33826,6 @@
             "Langley, BC, Canada"
         ],
         "company_url": "https://simplify.jobs/c/John-Deere",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Ivy Tech Community College",
-        "id": "a1224952-98d3-45bf-8684-b4575a7b8857",
-        "title": "Lab Technician",
-        "active": false,
-        "date_updated": 1762912162,
-        "date_posted": 1760764557,
-        "url": "https://ivytech.wd1.myworkdayjobs.com/ivy_tech_careers/job/Lafayette-IN/Part-Time-Lab-Tech--School-of-Information-Technology_JR0000100813",
-        "locations": [
-            "West Lafayette, IN"
-        ],
-        "company_url": "https://simplify.jobs/c/Ivy-Tech-Community-College",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Ivy Tech Community College",
-        "id": "cfc711d3-0668-4f50-a7e8-765c18b59259",
-        "title": "Information Technology Lab Technician - IT Lab",
-        "active": false,
-        "date_updated": 1762910408,
-        "date_posted": 1760764261,
-        "url": "https://ivytech.wd1.myworkdayjobs.com/ivy_tech_careers/job/East-Chicago-IN/Information--Technology-Lab-Tech_JR0000105753",
-        "locations": [
-            "Hobart, IN",
-            "Markham, IL",
-            "Merrillville, IN"
-        ],
-        "company_url": "https://simplify.jobs/c/Ivy-Tech-Community-College",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -341073,7 +341014,7 @@
         "company_name": "Qorvo",
         "id": "051453da-6119-49e5-ba0c-150b4d284359",
         "title": "IC Substrate Development Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1781100737,
         "date_posted": 1781100453,
         "url": "https://careers.qorvo.com/job/Greensboro-IC-Substrate-Development-Engineer-NC-27409/1398411000/?ats=successfactors",
