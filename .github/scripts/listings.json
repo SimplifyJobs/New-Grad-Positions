@@ -154,26 +154,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "TeleTracking",
-        "id": "fe22f0f9-715c-43ca-a6f6-0f2997928f32",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1760744103,
-        "date_posted": 1760744103,
-        "url": "https://job-boards.greenhouse.io/teletrackingtechnologiesinc/jobs/4937967008",
-        "locations": [
-            "Pittsburgh, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/TeleTracking",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Nordstrom",
         "id": "be7235e4-5c0a-45ae-a665-084b88935bdd",
         "title": "IOS Engineer 1 - Customer Mobile Applications Team - Hybrid - Seattle - WA",
@@ -34135,60 +34115,6 @@
             "Phoenix, AZ"
         ],
         "company_url": "https://simplify.jobs/c/The-MJ-Companies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Global Payments",
-        "id": "3382bed3-a746-420a-9b19-808ee91e5d4c",
-        "title": "Technical Support Associate 1",
-        "active": false,
-        "date_updated": 1762817933,
-        "date_posted": 1760745397,
-        "url": "https://tsys.wd1.myworkdayjobs.com/TSYS/job/Lindon-Utah-USA/Technical-Support-Associate-I_R0066942",
-        "locations": [
-            "Orem, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/Global-Payments",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Oshkosh",
-        "id": "f2e92dd7-3c8d-4a01-aba4-8ea21b69b8f0",
-        "title": "Product Artificial Intelligence - Engineer",
-        "active": false,
-        "date_updated": 1760745231,
-        "date_posted": 1760745231,
-        "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Pittsburgh-Pennsylvania-United-States/Product-Artificial-Intelligence---Engineer_R41757",
-        "locations": [
-            "Pittsburgh, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Oshkosh",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "OSCO",
-        "id": "1633bf07-8d12-44cf-bb9b-16c677c4ba05",
-        "title": "IT Technical Analyst",
-        "active": false,
-        "date_updated": 1760744897,
-        "date_posted": 1760744897,
-        "url": "https://hdrc.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/4398",
-        "locations": [
-            "Saint John, NB, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/OSCO",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -310258,7 +310184,7 @@
         "company_name": "LexisNexis Legal & Professional",
         "id": "33ff65fe-7dfc-4b78-94f2-5160bccd9138",
         "title": "Data Discovery and Enrichment Expert 1",
-        "active": false,
+        "active": true,
         "date_updated": 1779403140,
         "date_posted": 1779401021,
         "url": "https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Quebec/Data-Discovery-and-Enrichment-Expert-I--Canada-Bilingual-Hybrid-or-Remote-_R113429",
@@ -327876,7 +327802,7 @@
         "company_name": "General Motors",
         "id": "95fe52bd-6718-4467-a2b0-76f1071db57d",
         "title": "Software Developer - Test Framework",
-        "active": true,
+        "active": false,
         "date_updated": 1780352904,
         "date_posted": 1780351604,
         "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Markham-Ontario-Canada/Early-Career-Software-Developer---Test-Framework_JR-202612062",
@@ -340744,7 +340670,7 @@
         "company_name": "Marsh & McLennan",
         "id": "e33227af-dba6-4917-83fe-2c821f05e691",
         "title": "Enrollment Executive",
-        "active": true,
+        "active": false,
         "date_updated": 1781083235,
         "date_posted": 1781082814,
         "url": "https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Mumbai---Times-Square/Enrollment-Executive_R_351117-1",
