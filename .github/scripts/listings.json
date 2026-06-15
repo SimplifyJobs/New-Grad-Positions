@@ -33622,28 +33622,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "ABB",
-        "id": "0e12176e-6aed-4e30-ad17-3df271c22c84",
-        "title": "R&D Early Career Program",
-        "active": false,
-        "date_updated": 1760781404,
-        "date_posted": 1760781404,
-        "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-CT-Bloomfield/R-D-Early-Career-Program--US--2026-Cohort_JR00009935",
-        "locations": [
-            "Florence, SC",
-            "Richmond, VA",
-            "Memphis, TN",
-            "Mebane, NC",
-            "Hartford, CT"
-        ],
-        "company_url": "https://simplify.jobs/c/ABB",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Veeva Systems",
         "id": "6770055a-7548-4e7b-bd26-7cda7d1b59b8",
         "title": "Associate Software Engineer in Test",
