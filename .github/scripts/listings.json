@@ -34012,26 +34012,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Adobe",
-        "id": "7cde46ac-0bf4-4bda-9f9a-b63c78a28567",
-        "title": "2026 University Graduate - Research Scientist",
-        "active": false,
-        "date_updated": 1760757702,
-        "date_posted": 1760757702,
-        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Seattle/XMLNAME-2026-University-Graduate---Research-Scientist_R160687",
-        "locations": [
-            "Seattle, WA",
-            "SF",
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Adobe",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "TikTok",
         "id": "8b0f0a57-c19a-494c-9a6e-02dbae9af63b",
         "title": "Graduate Research Scientist Generative AI - Intelligent Creation",
@@ -332213,7 +332193,7 @@
         "company_name": "Reach Financial",
         "id": "39349736-2696-42cf-9e4b-deaf9d2b3246",
         "title": "Credit Risk Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1780526126,
         "date_posted": 1780525423,
         "url": "https://job-boards.greenhouse.io/reach/jobs/8573228002",
