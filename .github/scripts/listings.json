@@ -1,66 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Veeva Systems",
-        "id": "ff10df50-35b8-47c4-8138-ff9083746abf",
-        "title": "Associate Software Engineer \u2013 Seeking 2025 & 2026 Grads",
-        "active": false,
-        "date_updated": 1760775318,
-        "date_posted": 1760775318,
-        "url": "https://jobs.lever.co/veeva/54f473e7-f225-44b3-beb7-b5d50403fe02/apply",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Veeva-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Veeva Systems",
-        "id": "4f0ce480-21ee-4bdb-a42b-efac41ad8e1a",
-        "title": "Associate Software Engineer \u2013 Seeking 2025 & 2026 Grads",
-        "active": true,
-        "date_updated": 1760776171,
-        "date_posted": 1760776171,
-        "url": "https://jobs.lever.co/veeva/907dccc7-0052-41e9-920b-28e5ba6aaba9/apply",
-        "locations": [
-            "Columbus, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Veeva-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Veeva Systems",
-        "id": "221f4f27-c95d-4fa4-98c1-bbb7b8aa79aa",
-        "title": "Associate Software Engineer \u2013 Seeking 2025 & 2026 Grads",
-        "active": true,
-        "date_updated": 1760776181,
-        "date_posted": 1760776181,
-        "url": "https://jobs.lever.co/veeva/8fe22df0-02b4-453d-919c-c8998cf913f6/apply",
-        "locations": [
-            "Pleasanton, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Veeva-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Centene",
         "id": "c2981a89-e31a-4a64-9ffb-529384a1de21",
@@ -1767,26 +1707,6 @@
         "date_posted": 1761948657,
         "company_url": "",
         "is_visible": true
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Veeva Systems",
-        "id": "d3bdb070-74f3-4fe0-ad6a-508f9dc3d75a",
-        "title": "Associate Software Engineer \u2013 Seeking 2026 Grads",
-        "active": false,
-        "date_updated": 1761845900,
-        "date_posted": 1760775310,
-        "url": "https://jobs.lever.co/veeva/52ba79af-1086-457d-b5d2-8e184f111ffd/apply",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Veeva-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
@@ -33733,42 +33653,6 @@
         "url": "https://jobs.lever.co/veeva/8683a486-a11b-44be-8824-d3afdaa37b2d/apply",
         "locations": [
             "Pleasanton, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Veeva-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Veeva Systems",
-        "id": "5a05b3b2-2805-4fa2-9f98-6346f0932a5d",
-        "title": "Marketing Analytics - Data Analyst - Adp",
-        "active": true,
-        "date_updated": 1760775379,
-        "date_posted": 1760775379,
-        "url": "https://jobs.lever.co/veeva/28c47d34-3ad6-4485-85a9-686b4239b9ea/apply",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Veeva-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Veeva Systems",
-        "id": "5e87eb4b-25a6-4c78-b01a-897e3f2a26b3",
-        "title": "Associate Software Engineer in Test",
-        "active": true,
-        "date_updated": 1762923291,
-        "date_posted": 1760775258,
-        "url": "https://jobs.lever.co/veeva/eea03b21-0e9e-467b-957d-31ba416b4016/apply",
-        "locations": [
-            "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Veeva-Systems",
         "is_visible": true,
