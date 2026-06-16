@@ -284863,7 +284863,7 @@
         "company_name": "Western Digital",
         "id": "678b8d7f-ebd1-46c2-810e-369033816a7e",
         "title": "Software Engineer - Apps",
-        "active": false,
+        "active": true,
         "date_updated": 1777586761,
         "date_posted": 1777586631,
         "url": "https://jobs.smartrecruiters.com/WesternDigital/744000124012539",
@@ -298736,7 +298736,7 @@
         "company_name": "Western Digital",
         "id": "5e02390a-cb89-4c3e-bcb5-d9ef5ed73f13",
         "title": "Software Engineer - Apps & Firmware",
-        "active": false,
+        "active": true,
         "date_updated": 1778707982,
         "date_posted": 1778623482,
         "url": "https://jobs.smartrecruiters.com/WesternDigital/744000126151504",
@@ -302282,7 +302282,7 @@
         "company_name": "Western Digital",
         "id": "d3dfea1b-c649-4bb7-a956-377922e3f9be",
         "title": "Software Engineer - Apps & Firmware",
-        "active": true,
+        "active": false,
         "date_updated": 1778807168,
         "date_posted": 1778807100,
         "url": "https://jobs.smartrecruiters.com/WesternDigital/744000126593979",
@@ -302504,7 +302504,7 @@
         "company_name": "Western Digital",
         "id": "b278496b-e98d-485e-b9f2-d14b9bc4ffef",
         "title": "Software Engineer - Apps",
-        "active": true,
+        "active": false,
         "date_updated": 1778807168,
         "date_posted": 1778807101,
         "url": "https://jobs.smartrecruiters.com/WesternDigital/744000126594220",
@@ -315799,7 +315799,7 @@
         "company_name": "Western Digital",
         "id": "cbc6aac8-b358-411d-941e-1be5063055df",
         "title": "Wafer Manufacturing Equipment Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1779822183,
         "date_posted": 1779718197,
         "url": "https://jobs.smartrecruiters.com/WesternDigital/744000127757317",
@@ -335908,7 +335908,7 @@
         "company_name": "Tesla",
         "id": "bec609da-553d-44eb-86bf-8d2ed96264de",
         "title": "Data Collection Operator - Optimus",
-        "active": true,
+        "active": false,
         "date_updated": 1780824369,
         "date_posted": 1780824026,
         "url": "https://www.tesla.com/careers/search/job/271843",
@@ -344138,7 +344138,7 @@
         "source": "Simplify",
         "category": "Hardware",
         "company_name": "Western Digital",
-        "id": "6a1f8feb-f570-4d70-bb2e-9c27c5dea55c",
+        "id": "1557a19a-986c-4ab5-a485-a5febb3f17fd",
         "title": "Hardware Development Engineer - Wafer Optical Metrology",
         "active": true,
         "date_updated": 1781170202,
@@ -348250,5 +348250,25 @@
         "date_posted": 1781590639,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Lawrence Livermore National Laboratory (LLNL)",
+        "id": "f92c4648-8678-4153-9046-05983c760ad9",
+        "title": "Computational Materials Scientist - Postdoctoral Researcher",
+        "active": true,
+        "date_updated": 1781638741,
+        "date_posted": 1781638695,
+        "url": "https://jobs.smartrecruiters.com/LLNL/3743990013644337",
+        "locations": [
+            "Livermore, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/LLNL",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
     }
 ]
