@@ -1,24 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "RTX",
-        "id": "3d4bcfa0-c3fd-4384-8e5f-d16503e431c2",
-        "title": "Software Engineer I - Onsite",
-        "active": false,
-        "date_updated": 1761834992,
-        "date_posted": 1760845427,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MD440-8170-Maple-Lawn-Blvd-Fulton-MD-8170-Maple-Lawn-Boulevard---Fulton-MD-20759-USA/Software-Engineer-I--Onsite-_01801021",
-        "locations": [
-            "Fulton, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Nordstrom",
         "id": "be7235e4-5c0a-45ae-a665-084b88935bdd",
@@ -33473,24 +33455,6 @@
             "Franklin, MA"
         ],
         "company_url": "https://simplify.jobs/c/Waters-Corporation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "076bbe61-778e-4c9e-b420-d4e275d5a406",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1760845185,
-        "date_posted": 1760845185,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/jobs/job/400029707",
-        "locations": [
-            "Chesterfield, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
