@@ -218889,7 +218889,7 @@
         "company_name": "Arthur Grand Technologies",
         "id": "c5e96a2e-51ca-43d8-aa10-231b3cdc5e3f",
         "title": "ERP Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773871479,
         "date_posted": 1773871479,
         "url": "https://jobs.smartrecruiters.com/ArthurGrandTechnologiesInc/744000115491098",
@@ -268208,7 +268208,7 @@
         "company_name": "Arthur Grand Technologies",
         "id": "f75f0ef0-4976-4878-ac6d-176ddeea0c1c",
         "title": "Syteline ERP Support",
-        "active": false,
+        "active": true,
         "date_updated": 1776463381,
         "date_posted": 1776463360,
         "url": "https://jobs.smartrecruiters.com/ArthurGrandTechnologiesInc/744000121473057",
@@ -348270,5 +348270,140 @@
         "degrees": [
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Ryan",
+        "id": "31d11edc-b830-484f-b2bc-faae10a84958",
+        "title": "Associate Data Engineer - AI/ML",
+        "active": true,
+        "date_updated": 1781641082,
+        "date_posted": 1781639263,
+        "url": "https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Plano/Associate-Data-Engineer_R0017873",
+        "locations": [
+            "Plano, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Ryan",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Palantir",
+        "id": "1f6bee99-9cca-467c-a0b3-899d61139a03",
+        "title": "Forward Deployed Software Engineer New Grad",
+        "active": true,
+        "date_updated": 1781638785,
+        "date_posted": 1781638660,
+        "url": "https://jobs.lever.co/palantir/d1ac83d0-e923-42a5-8e6d-58dd0cab25ca/apply",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "EXL",
+        "id": "f9825cd4-5a5a-4643-a150-970091875b43",
+        "title": "Junior Software Developer",
+        "active": true,
+        "date_updated": 1781639160,
+        "date_posted": 1781638680,
+        "url": "https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/15785",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/EXL",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "EXL",
+        "id": "6236ac4d-5ee0-4387-826e-421f82138b79",
+        "title": "Junior Developer",
+        "active": true,
+        "date_updated": 1781638741,
+        "date_posted": 1781638690,
+        "url": "https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/15730",
+        "locations": [
+            "Indianapolis, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/EXL",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Palantir",
+        "id": "1f372754-6b14-48cf-8c8f-f0cf5c56ae82",
+        "title": "Deployment Strategist New Grad - Intel - US Government",
+        "active": true,
+        "date_updated": 1781639118,
+        "date_posted": 1781638658,
+        "url": "https://jobs.lever.co/palantir/5d8286d6-992a-404b-94af-99c173d40299/apply",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Louisiana State University (LSU)",
+        "id": "6501c31e-355f-48ec-beeb-f97a308d4278",
+        "title": "Postdoctoral Researcher",
+        "active": true,
+        "date_updated": 1781638741,
+        "date_posted": 1781638576,
+        "url": "https://lsu.wd1.myworkdayjobs.com/LSU/job/Argonne-National-Laboratory/Postdoctoral-Researcher_R00116543",
+        "locations": [
+            "Woodridge, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Louisiana-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Palantir",
+        "id": "f6f83b45-cf4c-4a3e-8f32-4c64672610a1",
+        "title": "Forward Deployed Software Engineer New Grad",
+        "active": true,
+        "date_updated": 1781638770,
+        "date_posted": 1781638668,
+        "url": "https://jobs.lever.co/palantir/cbe90327-3e6e-451c-a54c-1d3cbcef5aeb/apply",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
