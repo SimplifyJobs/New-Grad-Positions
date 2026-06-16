@@ -228561,7 +228561,7 @@
         "company_name": "Robert Bosch Venture Capital",
         "id": "6da32510-fa69-4006-9384-77f9878f49dd",
         "title": "Product Management Specialist - Diablo/Freud Tools",
-        "active": false,
+        "active": true,
         "date_updated": 1773757034,
         "date_posted": 1773757034,
         "url": "https://jobs.smartrecruiters.com/BoschGroup/744000114994315",
@@ -268402,7 +268402,7 @@
         "company_name": "First National Bank",
         "id": "819eeba7-630b-4172-b599-40a946a5614b",
         "title": "Investment Analyst 1",
-        "active": true,
+        "active": false,
         "date_updated": 1776463921,
         "date_posted": 1776463773,
         "url": "https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Hermitage-PA/Investment-Analyst-1_2026-00936",
@@ -331117,7 +331117,7 @@
         "company_name": "Cambridge Associates",
         "id": "2ab6e308-075f-4f22-bc2c-89d060ae07bd",
         "title": "Investment Analyst - Hedge Funds",
-        "active": true,
+        "active": false,
         "date_updated": 1780525451,
         "date_posted": 1780524626,
         "url": "https://cambridgeassociates.wd5.myworkdayjobs.com/Handshake/job/Boston/Investment-Analyst--Hedge-Funds_JR0000270",
@@ -337705,7 +337705,7 @@
         "company_name": "Medtronic",
         "id": "0c284bcc-c9cc-466b-885c-28792e767178",
         "title": "Associate Product Specialist - Allografts",
-        "active": true,
+        "active": false,
         "date_updated": 1780960236,
         "date_posted": 1780956579,
         "url": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Memphis-Tennessee-United-States-of-America/Associate-Product-Specialist---Allografts--Onsite-_R69128",
@@ -348405,5 +348405,66 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northside Hospital",
+        "id": "463c058a-22e8-40d0-a453-02ad426e2c59",
+        "title": "Environmental Services Tech Lead",
+        "active": true,
+        "date_updated": 1781638741,
+        "date_posted": 1781638620,
+        "url": "https://careers-northside.icims.com/jobs/108763/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Northside-Hospital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "EPIC Insurance Brokers & Consultants",
+        "id": "3a9edbd2-f846-4e4b-bde5-20faac386bfa",
+        "title": "Product & Case Design Coordinator - Life Insurance",
+        "active": true,
+        "date_updated": 1781642284,
+        "date_posted": 1780611314,
+        "url": "https://job-boards.greenhouse.io/edgewoodpartnersinsurancecenter/jobs/8573885002",
+        "locations": [
+            "Boca Raton, FL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/EPIC-Insurance-Brokers-And-Consultants",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "BrightAI",
+        "id": "88f5a6f1-62c1-4a91-bf47-30e41b086fde",
+        "title": "Computer Vision Engineer",
+        "active": true,
+        "date_updated": 1781641082,
+        "date_posted": 1779326281,
+        "url": "https://job-boards.greenhouse.io/brightai/jobs/6002012004",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/BrightAI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
