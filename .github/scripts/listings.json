@@ -50400,7 +50400,7 @@
         "company_name": "Cisco",
         "id": "c19579ac-cc84-4455-96e5-f56733ea0be3",
         "title": "Software Engineer Backend/Platform Systems 1",
-        "active": false,
+        "active": true,
         "date_updated": 1763664376,
         "date_posted": 1763664376,
         "url": "https://careers.cisco.com/global/en/job/2000046",
@@ -51247,7 +51247,7 @@
         "company_name": "Cisco",
         "id": "aec98da3-3097-4a36-b643-d8a76173f735",
         "title": "Software Engineer Embedded/Network Systems 1",
-        "active": false,
+        "active": true,
         "date_updated": 1763664386,
         "date_posted": 1763664386,
         "url": "https://careers.cisco.com/global/en/job/2000081",
@@ -283605,7 +283605,7 @@
         "company_name": "Wellmark",
         "id": "6b9b43b1-883b-4602-9e88-b3ac1cf2b2b1",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1777500361,
         "date_posted": 1777500240,
         "url": "https://jobs.smartrecruiters.com/WellmarkInc/744000123707284",
@@ -290705,7 +290705,7 @@
         "company_name": "Salesforce",
         "id": "1a2e58cc-f4e5-478e-a272-afd67fbeedd1",
         "title": "AI Builder - Emerging Talent",
-        "active": false,
+        "active": true,
         "date_updated": 1778047794,
         "date_posted": 1778047484,
         "url": "https://salesforce.wd12.myworkdayjobs.com/Futureforce_NewGradRoles/job/California---San-Francisco/AI-Builder--Emerging-Talent_JR341276",
@@ -307865,7 +307865,7 @@
         "company_name": "iCapital Network",
         "id": "00439705-6526-4fb2-a518-d8d34f1efce1",
         "title": "Associate Full Stack Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1779316106,
         "date_posted": 1779315400,
         "url": "https://job-boards.greenhouse.io/icapitalnetwork/jobs/8549590002",
@@ -328777,7 +328777,7 @@
         "company_name": "Daifuku",
         "id": "825bbcae-1fef-45a0-90eb-3b60840d4e20",
         "title": "Software Implementation Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1780440067,
         "date_posted": 1780438019,
         "url": "https://careers-daifuku-america.icims.com/jobs/21278/job?mobile=true&needsRedirect=false",
@@ -340751,7 +340751,7 @@
         "company_name": "Huntington Bancshares",
         "id": "26f04a72-e5d3-45ea-ba0b-e5872e9cc88e",
         "title": "Technology Delivery Analyst - Elevate",
-        "active": true,
+        "active": false,
         "date_updated": 1781100737,
         "date_posted": 1781100445,
         "url": "https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Minnetonka-MN/Technology-Delivery-Analyst--Elevate-_R0072626",
@@ -344909,7 +344909,7 @@
         "company_name": "Otter",
         "id": "e4fd097c-9e48-4910-a075-576034fb9fd5",
         "title": "Strategy & Planning Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1781217544,
         "date_posted": 1781216248,
         "url": "https://job-boards.greenhouse.io/otter/jobs/8568186002",
@@ -349136,5 +349136,352 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "EOS IT Solutions",
+        "id": "9feea1a6-4256-4c37-a7c3-88143f2bff96",
+        "title": "Graduate Data Centre Technician - Data Centre Placement",
+        "active": true,
+        "date_updated": 1781648835,
+        "date_posted": 1781639523,
+        "url": "https://eosits.com/company/careers/?gh_jid=8594075002",
+        "locations": [
+            "Ohio"
+        ],
+        "company_url": "https://simplify.jobs/c/EOS-IT-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "4c808a4b-9dbd-4687-af31-9ee3b355678e",
+        "title": "Engineer or Principal Engineer Systems",
+        "active": true,
+        "date_updated": 1781646858,
+        "date_posted": 1781639440,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Engineer-or-Principal-Engineer-Systems_R10235799",
+        "locations": [
+            "Melbourne, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Papa John's",
+        "id": "3b18bc33-6498-427e-943a-ca5f92121399",
+        "title": "Associate Engineer",
+        "active": true,
+        "date_updated": 1781646123,
+        "date_posted": 1781639239,
+        "url": "https://papajohns.wd1.myworkdayjobs.com/papajohnscareers/job/HQ_Louisville/Associate-Engineer_R26_0000001919",
+        "locations": [
+            "Louisville, KY"
+        ],
+        "company_url": "https://simplify.jobs/c/Papa-Johns",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "BlackRock",
+        "id": "844eb16a-79ea-422c-8e34-590b8cf3f1b3",
+        "title": "Quantitative Modeler - Associate - Qmr",
+        "active": true,
+        "date_updated": 1781646572,
+        "date_posted": 1781639067,
+        "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/New-York-NY/Quantitative-Modeler--Associate---QMR_R264630-1",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/BlackRock",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Lendable",
+        "id": "c32795c2-c6df-475d-88a3-3a8be41137e3",
+        "title": "Graduate Fraud Analyst",
+        "active": true,
+        "date_updated": 1781645419,
+        "date_posted": 1781639017,
+        "url": "https://jobs.ashbyhq.com/lendable/8d272690-aede-40e6-9d63-e7fbc779ecdc/application",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Lendable",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CarGurus",
+        "id": "53699a9b-5ef4-4321-abb6-7e29ffb1f586",
+        "title": "Business Analytics Analyst",
+        "active": true,
+        "date_updated": 1781644697,
+        "date_posted": 1781638944,
+        "url": "https://careers.cargurus.com/us/en/job/8009080?gh_jid=8009080",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/CarGurus",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Palantir",
+        "id": "50390a34-333d-471c-9a4b-c2b34ecb25ad",
+        "title": "Forward Deployed Software Engineer New Grad",
+        "active": true,
+        "date_updated": 1781639126,
+        "date_posted": 1781638659,
+        "url": "https://jobs.lever.co/palantir/fbca0358-083a-4222-bdbb-3bd729b48382/apply",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "KBR",
+        "id": "24855319-14a8-4e4a-8c5a-563897a356cd",
+        "title": "All-Source Analyst",
+        "active": true,
+        "date_updated": 1781646858,
+        "date_posted": 1781639349,
+        "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Township-Ohio/All-Source-Analyst_R2125144",
+        "locations": [
+            "Beavercreek, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/KBR",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Unity",
+        "id": "3164d193-89a8-4bee-b192-990dca998a6f",
+        "title": "Machine Learning Engineer New Grad / PhD - Next-Generation Recommendation Systems",
+        "active": true,
+        "date_updated": 1781646613,
+        "date_posted": 1781639078,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=7992078",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Unity",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Northrop Grumman",
+        "id": "bd19c808-98e2-4a75-baf2-b37e02b87d89",
+        "title": "IT Asset Management Analyst",
+        "active": true,
+        "date_updated": 1781647580,
+        "date_posted": 1781639452,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/IT-Asset-Management-Analyst---Secret_R10236102",
+        "locations": [
+            "Melbourne, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Unity",
+        "id": "87943df8-c77a-42ba-8e88-9b5f445c3c9e",
+        "title": "Machine Learning Engineer New Grad - Next-Generation Recommendation Systems",
+        "active": true,
+        "date_updated": 1781646618,
+        "date_posted": 1781639077,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=7999719",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Unity",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "American Express",
+        "id": "1bb008bf-84e0-4ba8-ac07-b9462ae65772",
+        "title": "Senior AI Engineer 1",
+        "active": true,
+        "date_updated": 1781649877,
+        "date_posted": 1781638910,
+        "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26007181",
+        "locations": [
+            "Florida",
+            "Arizona",
+            "Plantation, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/American-Express",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Citi",
+        "id": "cf470e73-4d00-4eaa-be84-64c3fc426447",
+        "title": "Spread In-Business Risk Trader",
+        "active": true,
+        "date_updated": 1781648674,
+        "date_posted": 1781639483,
+        "url": "https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Spread-In-Business-Risk-Trader---Analyst_26971930",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Citigroup",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jamf",
+        "id": "c5b3e271-bef9-49a8-a67b-374a7ac67ffb",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1781647215,
+        "date_posted": 1781639187,
+        "url": "https://www.jamf.com/about/careers/jobs/?gh_jid=6017936004&gh_jid=6017936004",
+        "locations": [
+            "Eau Claire, WI",
+            "Austin, TX",
+            "Minneapolis, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Jamf",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Motorola",
+        "id": "abec453e-b6ff-4bd3-b6e9-53c6e49d7dd2",
+        "title": "Engineer Associate - Machine Learning",
+        "active": true,
+        "date_updated": 1781647962,
+        "date_posted": 1781639354,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Irvine-CA/Associate-Engineer--Machine-Learning_R65788",
+        "locations": [
+            "LA",
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Medline",
+        "id": "5dff7c2c-6076-4b03-aac7-cc031f0112d4",
+        "title": "Associate Analyst Business Systems - QMS Focus",
+        "active": true,
+        "date_updated": 1781646123,
+        "date_posted": 1781639245,
+        "url": "https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/Remote-US/Associate-Analyst-Business-Systems_R2611970",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/f22ab711-4900-472d-be8a-7263e99e49fa",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Google",
+        "id": "23866e99-c766-4680-b8d1-e9ad71bcb519",
+        "title": "Senior Software Engineer - Chip Workloads on Cloud",
+        "active": true,
+        "date_updated": 1781641082,
+        "date_posted": 1780437978,
+        "url": "https://www.google.com/about/careers/applications/jobs/results/124577974606275270",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Google",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
     }
 ]
