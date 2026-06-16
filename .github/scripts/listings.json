@@ -247220,7 +247220,7 @@
         "company_name": "General Dynamics Information Technology",
         "id": "f56ae791-707f-4f70-adf2-cf83aab72cda",
         "title": "Engineering Technician 1",
-        "active": false,
+        "active": true,
         "date_updated": 1775296515,
         "date_posted": 1775294591,
         "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Chesapeake/Engineering-Technician-I_RQ215211",
@@ -309666,7 +309666,7 @@
         "company_name": "LexisNexis Legal & Professional",
         "id": "33ff65fe-7dfc-4b78-94f2-5160bccd9138",
         "title": "Data Discovery and Enrichment Expert 1",
-        "active": true,
+        "active": false,
         "date_updated": 1779403140,
         "date_posted": 1779401021,
         "url": "https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Quebec/Data-Discovery-and-Enrichment-Expert-I--Canada-Bilingual-Hybrid-or-Remote-_R113429",
@@ -331749,7 +331749,7 @@
         "company_name": "Reach Financial",
         "id": "39349736-2696-42cf-9e4b-deaf9d2b3246",
         "title": "Credit Risk Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1780526126,
         "date_posted": 1780525423,
         "url": "https://job-boards.greenhouse.io/reach/jobs/8573228002",
@@ -337635,7 +337635,7 @@
         "company_name": "Medtronic",
         "id": "04d237cc-b8fd-4b14-b46d-b58025f9858f",
         "title": "Associate Product Specialist - Growth Factors",
-        "active": true,
+        "active": false,
         "date_updated": 1780960393,
         "date_posted": 1780956579,
         "url": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Memphis-Tennessee-United-States-of-America/Associate-Product-Specialist---Growth-Factors_R69127",
@@ -348655,5 +348655,208 @@
         "degrees": [
             "Associate's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Intel",
+        "id": "2bfc6f7c-2155-429b-9c64-d09613f12ef3",
+        "title": "AI Algorithm Engineer",
+        "active": true,
+        "date_updated": 1781647843,
+        "date_posted": 1781639322,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Santa-Clara/AI-Algorithm-Engineer_JR0284868",
+        "locations": [
+            "Santa Clara, CA",
+            "Hillsboro, OR",
+            "Folsom, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cummins",
+        "id": "276b6815-7fb8-46f1-b5aa-156dd9ac093d",
+        "title": "Repower Program: Product Engineering Specialist",
+        "active": true,
+        "date_updated": 1781638741,
+        "date_posted": 1781638685,
+        "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2430952",
+        "locations": [
+            "Leeds, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Cummins",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GlobalFoundries",
+        "id": "d5970422-fe27-4301-85a8-de89cb370b46",
+        "title": "Principal Packaging Integration Engineer New Grad",
+        "active": true,
+        "date_updated": 1781647268,
+        "date_posted": 1781639206,
+        "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/Essex-Junction/Principal-Packaging-Integration-Engineer--2026-New-College-Graduate-_JR-2602418",
+        "locations": [
+            "Burlington, VT"
+        ],
+        "company_url": "https://simplify.jobs/c/GlobalFoundries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "bcbaa5af-ffac-4e7d-bec3-2a331e2d1137",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1781646858,
+        "date_posted": 1781639440,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/Software-DevOps-Engineer---Level-2-3_R10236589",
+        "locations": [
+            "Colorado Springs, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Comcast",
+        "id": "9356f4e3-420d-4308-8084-2f6f7200af8c",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1781646858,
+        "date_posted": 1781639339,
+        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/NY---New-York-1407-Broadway-Floor-12/Software-Engineer-1_R439407",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Comcast",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pennsylvania State University",
+        "id": "859b4ba3-91af-4cf6-8c76-812ad8945733",
+        "title": "Graduate Researcher - Mowen",
+        "active": true,
+        "date_updated": 1781647795,
+        "date_posted": 1781639311,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/P-T-Graduate-Level-Researcher---Mowen_REQ_0000079452-1",
+        "locations": [
+            "State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Boeing Company",
+        "id": "c8f6add4-4034-4426-943d-c8348972af77",
+        "title": "Test and Evaluation Software Engineer \u2013 Associate or Mid-Level",
+        "active": true,
+        "date_updated": 1781647993,
+        "date_posted": 1781639371,
+        "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---El-Segundo-CA/Test-and-Evaluation-Software-Engineer--Associate-or-MId-Level-_JR2026515127",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pfizer",
+        "id": "67ec6280-e4b2-46a5-9328-e8851a813c1e",
+        "title": "Postdoctoral Scientist",
+        "active": true,
+        "date_updated": 1781647754,
+        "date_posted": 1781639306,
+        "url": "https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-States---Connecticut---Groton/Postdoctoral-Scientist---AI---Machine-Learning-for-Predictive-Drug-Absorption_4959379-1",
+        "locations": [
+            "Cambridge, MA",
+            "Groton, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/Pfizer",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Leidos",
+        "id": "5d4b6b01-4f6c-467d-b938-c443966db5c5",
+        "title": "Linux Systems Administrator",
+        "active": true,
+        "date_updated": 1781647706,
+        "date_posted": 1781639292,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Linux-Systems-Administrators---All-Levels_R-00185476",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Amentum",
+        "id": "dbd7025f-3479-44db-85fb-4411b00a060f",
+        "title": "Electronic Technician - Maintenance I",
+        "active": true,
+        "date_updated": 1781644697,
+        "date_posted": 1781638982,
+        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-AK-Fairbanks/Electronic-Technician--Maintenance-I_R0163638",
+        "locations": [
+            "Fairbanks, AK"
+        ],
+        "company_url": "https://simplify.jobs/c/Amentum",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
