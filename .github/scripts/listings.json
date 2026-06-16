@@ -348254,5 +348254,23 @@
             "Master's",
             "PhD"
         ]
+    },
+    {
+        "date_updated": 1781590639,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.ashbyhq.com/people-culture-talent/c1049c49-aea6-4862-a711-a4c78cf6e959",
+        "company_name": "People Culture Talent",
+        "title": "Full-Stack Engineer",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "rahmanMian",
+        "id": "22a341c0-1428-4064-a7c3-2c01961fcee3",
+        "date_posted": 1781590639,
+        "company_url": "",
+        "is_visible": true
     }
 ]
