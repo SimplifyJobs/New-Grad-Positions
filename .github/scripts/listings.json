@@ -318845,7 +318845,7 @@
         "company_name": "Worldwide TechServices",
         "id": "2d50eef5-f589-4edb-8797-11d1b60c64cc",
         "title": "Dynamic PC Support",
-        "active": true,
+        "active": false,
         "date_updated": 1779835502,
         "date_posted": 1779833093,
         "url": "https://jobs.smartrecruiters.com/WorldwideTechServices/744000128539845",
@@ -347293,7 +347293,7 @@
         "company_name": "Wellington Management",
         "id": "09ef607f-0684-46ec-b8cd-15f653854974",
         "title": "Investment Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1781343741,
         "date_posted": 1781343666,
         "url": "https://wellington.wd5.myworkdayjobs.com/external/job/Boston-MA-United-States/Investment-Analyst_R92755-2",
@@ -348855,6 +348855,284 @@
             "Fairbanks, AK"
         ],
         "company_url": "https://simplify.jobs/c/Amentum",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Voxel",
+        "id": "77334296-b10a-4f5a-bdfa-7e946a5d4d1c",
+        "title": "Software Engineer - Applications",
+        "active": true,
+        "date_updated": 1781644697,
+        "date_posted": 1781638995,
+        "url": "https://jobs.ashbyhq.com/voxel/eaed8e6e-fc6e-4d21-91b9-a722fda3997e/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Voxel-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AdvancedMD",
+        "id": "3bd0fc08-d469-4027-89c4-4eae14c85be1",
+        "title": "Technical Client Support Representative",
+        "active": true,
+        "date_updated": 1781640361,
+        "date_posted": 1781639545,
+        "url": "https://www.advancedmd.com/company/careers/?gh_jid=4483531008",
+        "locations": [
+            "South Jordan, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/AdvancedMD",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Oregon State Government",
+        "id": "e317bbf2-88a5-4e4c-953c-717c4ce2b45b",
+        "title": "Research Analyst 2",
+        "active": true,
+        "date_updated": 1781648013,
+        "date_posted": 1781639369,
+        "url": "https://oregon.wd5.myworkdayjobs.com/sor_external_career_site/job/Portland--OHCS/Research-Analyst-2_REQ-201865-1",
+        "locations": [
+            "Portland, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Oregon-State-Government",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Defense Unicorns",
+        "id": "535c1b31-4789-4ff4-a635-635c39a9df20",
+        "title": "Associate Engineer - Data Platform",
+        "active": true,
+        "date_updated": 1781647580,
+        "date_posted": 1781639739,
+        "url": "https://job-boards.greenhouse.io/defenseunicorns/jobs/5164721007",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Defense-Unicorns",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Generac",
+        "id": "6f869718-3182-4927-917b-efe561aab90d",
+        "title": "Product Repair Technician 1",
+        "active": true,
+        "date_updated": 1781649980,
+        "date_posted": 1781639325,
+        "url": "https://generac.wd5.myworkdayjobs.com/en-US/external/job/Jefferson-WI---USA/Product-Repair-Technician-I_JR14992",
+        "locations": [
+            "Oconomowoc, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Generac",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Unity",
+        "id": "5581226c-e5e4-41b2-8e33-228c3bf6d47d",
+        "title": "Machine Learning Engineer New Grad - Next-Generation Recommendation Systems",
+        "active": true,
+        "date_updated": 1781646605,
+        "date_posted": 1781639077,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=7999717",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Unity",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Chan Zuckerberg Initiative",
+        "id": "52ab197c-b6fc-46a3-9cf3-b05fd746d7b1",
+        "title": "Applied AI Engineer - Investments",
+        "active": true,
+        "date_updated": 1781647580,
+        "date_posted": 1781639578,
+        "url": "https://job-boards.greenhouse.io/chanzuckerberginitiative/jobs/7958444",
+        "locations": [
+            "San Carlos, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Chan-Zuckerberg-Initiative",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "TMX Group",
+        "id": "51a3fe75-0213-4918-869d-180083f46e7f",
+        "title": "Index Product Developer",
+        "active": true,
+        "date_updated": 1781646858,
+        "date_posted": 1781639317,
+        "url": "https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/London---2-Gresham-Street/Index-Product-Developer_R-6151",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/TMX-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Texas A&M University System",
+        "id": "f848cab5-c31a-4f46-8d17-06bece8231a0",
+        "title": "Postdoctoral Researcher",
+        "active": true,
+        "date_updated": 1781649196,
+        "date_posted": 1781638743,
+        "url": "https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/College-Station-TX/Postdoctoral-Researcher_R-094245",
+        "locations": [
+            "College Station, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Texas-AM-University-System",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Stewart",
+        "id": "3df19f07-5663-4162-a59c-360b61769df9",
+        "title": "Data and Office Administrator - Informative Research",
+        "active": true,
+        "date_updated": 1781649548,
+        "date_posted": 1781359970,
+        "url": "https://stewart.wd1.myworkdayjobs.com/External/job/USA-TX-Irving---1555-West-Walnut-Hill-Lane/Data---Office-Administrator_JR107964-1",
+        "locations": [
+            "Irving, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Stewart",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Woodward Governor",
+        "id": "230d7c6c-d67d-4885-8ffb-386e233cb9d8",
+        "title": "OEM Sales Application Engineer",
+        "active": true,
+        "date_updated": 1781648284,
+        "date_posted": 1781638814,
+        "url": "https://woodward.wd5.myworkdayjobs.com/woodward/job/Fort-Collins---Lincoln-Campus/OEM-Product-Application-Engineer_JR109956",
+        "locations": [
+            "Lincoln, NE",
+            "Fort Collins, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Woodward-Governor",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Beacon AI",
+        "id": "2d30fb16-0d3f-4f34-a760-250caf8c7d10",
+        "title": "Software Engineer - Frontend/Web App",
+        "active": true,
+        "date_updated": 1781644697,
+        "date_posted": 1781638938,
+        "url": "https://jobs.ashbyhq.com/beaconai/8c8f57a1-0069-43a5-924b-ce2b6eb65340/application",
+        "locations": [
+            "San Carlos, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Beacon-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "EPIC Insurance Brokers & Consultants",
+        "id": "780288c4-b5ba-4b99-ad40-865ae39bc26d",
+        "title": "Product & Case Design Coordinator - Life Insurance",
+        "active": true,
+        "date_updated": 1781648929,
+        "date_posted": 1781639793,
+        "url": "https://job-boards.greenhouse.io/edgewoodpartnersinsurancecenter/jobs/8594283002",
+        "locations": [
+            "Boca Raton, FL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/EPIC-Insurance-Brokers-And-Consultants",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Astreya",
+        "id": "e0a2c0a6-4cc4-49dc-a201-f38434cf8b93",
+        "title": "Hardware Support Technician 1",
+        "active": true,
+        "date_updated": 1781646651,
+        "date_posted": 1781639089,
+        "url": "https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Mountain-View-CA/Hardware-Support-Technician-I_R0015868",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Astreya",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
