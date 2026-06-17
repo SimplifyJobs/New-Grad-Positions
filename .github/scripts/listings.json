@@ -117862,7 +117862,7 @@
         "company_name": "Ensign-Bickford Aerospace & Defense Company",
         "id": "c18a6a31-6cf7-481a-99f5-cb0c4d069d8a",
         "title": "Soldering Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1768235148,
         "date_posted": 1768235148,
         "url": "https://ebi.wd5.myworkdayjobs.com/ebadcareers/job/Simsbury-CT/Soldering-Technician_REQ106824",
@@ -175071,7 +175071,7 @@
         "company_name": "Salesforce",
         "id": "9c9d72e2-4773-4a77-b5c5-5776ba645c14",
         "title": "Software Engineering AMTS/MTS \u2013 College Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1771640186,
         "date_posted": 1771640186,
         "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS-MTS--College-Grad-_JR330400-1",
@@ -309666,7 +309666,7 @@
         "company_name": "LexisNexis Legal & Professional",
         "id": "33ff65fe-7dfc-4b78-94f2-5160bccd9138",
         "title": "Data Discovery and Enrichment Expert 1",
-        "active": true,
+        "active": false,
         "date_updated": 1779403140,
         "date_posted": 1779401021,
         "url": "https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Quebec/Data-Discovery-and-Enrichment-Expert-I--Canada-Bilingual-Hybrid-or-Remote-_R113429",
@@ -315956,7 +315956,7 @@
         "company_name": "Hologic",
         "id": "0c7db345-2e86-486a-9795-d04f4f8ccbb1",
         "title": "Field Service Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1779822183,
         "date_posted": 1778796306,
         "url": "https://ebwb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/11569",
@@ -324511,7 +324511,7 @@
         "company_name": "Brink",
         "id": "a999a49c-402d-44ce-b35b-d60c89144761",
         "title": "ATM Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1780274470,
         "date_posted": 1780131751,
         "url": "https://brinks.wd5.myworkdayjobs.com/brinkscareersus/job/Baton-Rouge-LA/ATM-Technician_R72782",
@@ -324679,7 +324679,7 @@
         "company_name": "ERM",
         "id": "d5c57bdf-b9e1-440f-8906-3392996a41e1",
         "title": "Consulting Associate - Site Investigation and Remediation Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1780277736,
         "date_posted": 1780139365,
         "url": "https://erm.wd3.myworkdayjobs.com/ERM_Careers/job/St-Louis-Missouri/Consulting-Associate--Site-Investigation-and-Remediation-Technician_R00030405-1",
@@ -335055,7 +335055,7 @@
         "company_name": "CoStar Group",
         "id": "e9de2def-6691-4fdf-b560-a4a2a8389478",
         "title": "Associate Research Consultant",
-        "active": true,
+        "active": false,
         "date_updated": 1780740818,
         "date_posted": 1780740319,
         "url": "https://costar.wd1.myworkdayjobs.com/en-US/CoStarCareers/job/US-VA-Richmond/Bilingual-Associate-Research-Consultant-French-English_R37800",
@@ -343311,7 +343311,7 @@
         "company_name": "Beth Israel Lahey Health",
         "id": "81fd3d67-ad59-407d-be3f-f9a0a2079e0d",
         "title": "Research Assistant 1",
-        "active": true,
+        "active": false,
         "date_updated": 1781170673,
         "date_posted": 1780927748,
         "url": "https://bilh.wd1.myworkdayjobs.com/External/job/Beth-Israel-Deaconess-Medical-Center/Research-Assistant-I-position_JR97041",
@@ -345758,7 +345758,7 @@
         "company_name": "University of Maryland - College Park",
         "id": "aded84fb-4d21-4dae-b6fc-4ee782d8a5ec",
         "title": "Post Doctoral Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1781257358,
         "date_posted": 1781257150,
         "url": "https://umd.wd1.myworkdayjobs.com/UMCP/job/University-of-Maryland-College-Park/Post-Doctoral-Associate_JR101922",
@@ -348491,7 +348491,7 @@
         "company_name": "Wash U",
         "id": "afa1bca1-77b4-428d-becb-b447edfa1405",
         "title": "Analyst 1 Epic EHR Application",
-        "active": true,
+        "active": false,
         "date_updated": 1781646859,
         "date_posted": 1781639130,
         "url": "https://wustl.wd1.myworkdayjobs.com/external/job/St-Louis-MO/Analyst-I-Epic-EHR-Application--Remote-_JR95023",
@@ -349225,7 +349225,7 @@
         "company_name": "Lendable",
         "id": "c32795c2-c6df-475d-88a3-3a8be41137e3",
         "title": "Graduate Fraud Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1781645419,
         "date_posted": 1781639017,
         "url": "https://jobs.ashbyhq.com/lendable/8d272690-aede-40e6-9d63-e7fbc779ecdc/application",
@@ -352398,6 +352398,106 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/EPIC-Insurance-Brokers-And-Consultants",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "CACI",
+        "id": "0f6b4bf4-57f6-488e-8464-a006de3c43e2",
+        "title": "Electronics Technician",
+        "active": true,
+        "date_updated": 1781707150,
+        "date_posted": 1781707072,
+        "url": "https://caci.wd1.myworkdayjobs.com/external/job/Fayetteville-NC-US/Electronics-Technician_327879",
+        "locations": [
+            "Fayetteville, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "NextEra Energy",
+        "id": "d0be4713-07d3-47f1-a5b5-5bf574bb71e6",
+        "title": "Associate Data Scientist",
+        "active": true,
+        "date_updated": 1781707150,
+        "date_posted": 1781705250,
+        "url": "https://jobs.nexteraenergy.com/job/Palm-Beach-Gardens-Associate-Data-Scientist-FL-33410/1400701300/?ats=successfactors",
+        "locations": [
+            "Palm Beach Gardens, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/NextEra-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GE Healthcare",
+        "id": "b8df6356-852a-4297-b6d7-4e4dab8e1234",
+        "title": "Field Engineer 1",
+        "active": true,
+        "date_updated": 1781704769,
+        "date_posted": 1781639272,
+        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/FE-1-Bloomington--Illinois-Central-Illinois_R4042298-1",
+        "locations": [
+            "Normal, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Healthcare",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Integer Holdings Corporation",
+        "id": "9f64b9ac-38b2-4871-b188-4c2837cd0c60",
+        "title": "Engineer 1 - Manufacturing",
+        "active": true,
+        "date_updated": 1781704791,
+        "date_posted": 1781647742,
+        "url": "https://integer.wd1.myworkdayjobs.com/External/job/Salem-VA/Engineer-I--Manufacturing-_R34282",
+        "locations": [
+            "Roanoke, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Integer-Holdings-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TNS",
+        "id": "ea1f463a-9109-479d-bf72-f63fc9135ef4",
+        "title": "Risk Analyst",
+        "active": true,
+        "date_updated": 1781706624,
+        "date_posted": 1781361097,
+        "url": "https://tnsi.wd1.myworkdayjobs.com/Search/job/GBR---London/Risk-Manager_R2803",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/TNS",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
