@@ -1,25 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Qualtrics",
-        "id": "42a4a32d-cb17-4adf-ab80-055c8824b4ee",
-        "title": "Software Engineer I - Digital Experience",
-        "active": false,
-        "date_updated": 1761002081,
-        "date_posted": 1761002081,
-        "url": "https://www.qualtrics.com/careers/us/en/job/7340628?gh_jid=7340628",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Qualtrics",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "date_updated": 1761068422,
         "sponsorship": "Other",
         "active": true,
@@ -4974,7 +4954,7 @@
         "company_name": "WebFX",
         "id": "d976fc06-b431-419f-8dcf-be9c0a1ff03e",
         "title": "Junior Front-End Web Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1762911172,
         "date_posted": 1762212140,
         "url": "https://jobs.lever.co/webfx/e424e486-c772-443b-98cf-9088fef288d1/apply",
@@ -5030,7 +5010,7 @@
         "company_name": "WebFX",
         "id": "ab02ee55-a577-453a-bb9f-7cd2320ae755",
         "title": "Junior Back-End Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1762914022,
         "date_posted": 1762212129,
         "url": "https://jobs.lever.co/webfx/497bb548-b7d7-4aff-b87b-da9dcc8fbcc8/apply",
@@ -18880,7 +18860,7 @@
         "company_name": "Advanced Energy",
         "id": "cf26a438-849a-4994-b37e-ab1fdb0e3dc1",
         "title": "Rotational Field Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1762298367,
         "date_posted": 1762298367,
         "url": "https://jobs.advanced-energy.com/job/Milpitas-Rotational-Field-Application-Engineer-CA-95035/1331850100/?ats=successfactors",
@@ -33082,78 +33062,6 @@
             "Carmel, IN"
         ],
         "company_url": "https://simplify.jobs/c/Allied-Solutions",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "bec2555b-305f-41f1-966f-3f21be2a89d2",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1761002021,
-        "date_posted": 1761002021,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400029925",
-        "locations": [
-            "Swansea, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "c5f0e7ef-840b-41f6-b480-13a801bf072d",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1761001823,
-        "date_posted": 1761001823,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/jobs/job/400024638",
-        "locations": [
-            "Dartford District, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "The Voleon Group",
-        "id": "3b9b7e7b-4433-4634-9fce-cf7b9e855df8",
-        "title": "Security Operations Analyst",
-        "active": false,
-        "date_updated": 1761001672,
-        "date_posted": 1761001672,
-        "url": "https://jobs.lever.co/voleon/bf992a0b-3cb8-443e-9139-08c1ab96bbf1/apply",
-        "locations": [
-            "Berkeley, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/The-Voleon-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "WSP",
-        "id": "db40440d-fd0c-4548-acfa-1e0c03dc75bb",
-        "title": "Instrument Operator - Surveying",
-        "active": false,
-        "date_updated": 1761001329,
-        "date_posted": 1761001329,
-        "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/73900",
-        "locations": [
-            "Cohoes, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/WSP",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -65131,7 +65039,7 @@
     {
         "date_updated": 1764604549,
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": false,
+        "active": true,
         "degrees": [],
         "url": "https://job-boards.greenhouse.io/affirm/jobs/7485068003",
         "company_name": "Affirm",
@@ -224676,7 +224584,7 @@
         "company_name": "Pivotal Software",
         "id": "d4cba08a-0968-4988-8fab-29430e78556e",
         "title": "R&D Mechanical Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1774304677,
         "date_posted": 1774304677,
         "url": "https://jobs.lever.co/pivotal/41feeb6e-2f90-4646-95e4-643b1ca130be/apply",
@@ -297099,7 +297007,7 @@
         "company_name": "RTX",
         "id": "9cf6befe-5806-49aa-aed1-c3765502fb5b",
         "title": "Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1778539071,
         "date_posted": 1778537443,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/XMLNAME-2026-Raytheon-Full-Time--Software-Engineer-I---Onsite-_01844595",
@@ -348992,7 +348900,7 @@
         "company_name": "EPIC Insurance Brokers & Consultants",
         "id": "780288c4-b5ba-4b99-ad40-865ae39bc26d",
         "title": "Product & Case Design Coordinator - Life Insurance",
-        "active": true,
+        "active": false,
         "date_updated": 1781648929,
         "date_posted": 1781639793,
         "url": "https://job-boards.greenhouse.io/edgewoodpartnersinsurancecenter/jobs/8594283002",
@@ -352277,7 +352185,7 @@
         "company_name": "EPIC Insurance Brokers & Consultants",
         "id": "aeae336f-ff39-420a-b015-025ab35c2a6c",
         "title": "Product & Case Design Coordinator - Life Insurance",
-        "active": true,
+        "active": false,
         "date_updated": 1781707256,
         "date_posted": 1781639792,
         "url": "https://job-boards.greenhouse.io/edgewoodpartnersinsurancecenter/jobs/8594278002",
@@ -352571,5 +352479,146 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "EquipmentShare",
+        "id": "93686cd8-24ec-49b6-bd93-32c545ea0ea7",
+        "title": "Telematics Installer",
+        "active": true,
+        "date_updated": 1781735941,
+        "date_posted": 1781735098,
+        "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=7946918",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Equipment-Share",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Hewlett Packard (HP)",
+        "id": "67e55145-2d42-436c-bbfd-65255ab341b4",
+        "title": "Embedded Software Engineer",
+        "active": true,
+        "date_updated": 1781735221,
+        "date_posted": 1781734474,
+        "url": "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Vancouver-Washington-United-States-of-America/Embedded-Software-Engineer_3162790-1",
+        "locations": [
+            "Vancouver, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CACI",
+        "id": "10b61966-83aa-4202-8909-27c8bcb4b2d2",
+        "title": "Cyber Software Developer",
+        "active": true,
+        "date_updated": 1781736661,
+        "date_posted": 1781734318,
+        "url": "https://caci.wd1.myworkdayjobs.com/external/job/507-RESTON-VA/Cyber-Software-Developer_327851",
+        "locations": [
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "CoreWeave",
+        "id": "00d06d0f-b085-44d1-8f0a-ecb48cf1dd37",
+        "title": "Data Center Technician",
+        "active": true,
+        "date_updated": 1781735941,
+        "date_posted": 1781734234,
+        "url": "https://coreweave.com/careers/job?4690200006&board=coreweave&gh_jid=4690200006",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/CoreWeave",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "iCapital Network",
+        "id": "fca9f7d1-58c5-4539-bb95-b96780683edb",
+        "title": "Trading Operations Analyst",
+        "active": true,
+        "date_updated": 1781735791,
+        "date_posted": 1781734754,
+        "url": "https://job-boards.greenhouse.io/icapitalnetwork/jobs/8596153002",
+        "locations": [
+            "Boca Raton, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/ICapital-Network",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Northrop Grumman",
+        "id": "91b92f95-4326-4334-a5b7-a1fa57220944",
+        "title": "Configuration Analyst Associate",
+        "active": true,
+        "date_updated": 1781735966,
+        "date_posted": 1781734488,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/XMLNAME-2026-Associate-Configuration-Analyst-Configuration-Analyst---Palmdale-CA_R10229203",
+        "locations": [
+            "Palmdale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Boeing Company",
+        "id": "4b6e81e9-f593-42dc-bbb0-6f700662d151",
+        "title": "Operations Center Fleet Monitoring Engineer",
+        "active": true,
+        "date_updated": 1781735221,
+        "date_posted": 1781734503,
+        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seal-Beach-CA/Operations-Center-Fleet-Monitoring-Engineer--Associate-or-Experienced-_JR2026513985-1",
+        "locations": [
+            "Seal Beach, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
