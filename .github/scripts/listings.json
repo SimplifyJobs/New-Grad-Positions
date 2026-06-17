@@ -1,23 +1,5 @@
 [
     {
-        "date_updated": 1762411356,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": false,
-        "degrees": [],
-        "url": "https://jobs.ashbyhq.com/Rose%20Rocket/c074b14e-ebe0-4a14-beb2-1419eca9d447/application",
-        "company_name": "Roserocket",
-        "title": "Junior Software Engineer",
-        "locations": [
-            "Toronto, ON"
-        ],
-        "category": "Software Engineering",
-        "source": "unvibingcode",
-        "id": "105eff5b-3ca1-493d-b81f-05cf7dde693c",
-        "date_posted": 1760994357,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "source": "Simplify",
         "category": "Software",
         "company_name": "RELX",
@@ -33275,24 +33257,6 @@
         "source": "Simplify",
         "category": "Hardware",
         "company_name": "CACI",
-        "id": "da3d6567-f268-4f5b-b9b5-9bc91ad99fab",
-        "title": "Systems Engineer",
-        "active": false,
-        "date_updated": 1760995465,
-        "date_posted": 1760995465,
-        "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-CO-Colorado-Springs/Systems-Engineer_318783",
-        "locations": [
-            "Colorado Springs, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/CACI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "CACI",
         "id": "78f19a26-effa-4b9a-91b6-69cd1b5fd7b2",
         "title": "Software Engineer",
         "active": false,
@@ -42497,24 +42461,6 @@
             "Fort Worth, TX"
         ],
         "company_url": "https://simplify.jobs/c/Kimley-Horn",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Adtheorant",
-        "id": "485de379-a6c2-43b6-93c1-b49275c62aaa",
-        "title": "Associate Data Scientist",
-        "active": false,
-        "date_updated": 1763161858,
-        "date_posted": 1760994750,
-        "url": "https://careers-cadent.icims.com/jobs/1266/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Adtheorant",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
