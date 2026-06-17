@@ -352258,5 +352258,26 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Mintlify",
+        "id": "52bf00f3-b325-414e-b820-7e50eb8c5314",
+        "title": "Support Engineer",
+        "active": true,
+        "date_updated": 1781694721,
+        "date_posted": 1781694612,
+        "url": "https://jobs.ashbyhq.com/Mintlify/4b5b6945-1a80-49fe-8bcb-64b3075e7b5f/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Mintlify",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Bootcamp"
+        ]
     }
 ]
