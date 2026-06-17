@@ -29814,24 +29814,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "360 IT Professionals",
-        "id": "3683817a-2cd2-4ef1-b58d-ffbb1ea1c354",
-        "title": "Java Developer",
-        "active": false,
-        "date_updated": 1760992116,
-        "date_posted": 1760992116,
-        "url": "https://jobs.smartrecruiters.com/360ITProfessionals1/743999657426860",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/360-IT-Professionals",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Best Buy",
         "id": "c45cde47-34ea-4856-bcee-7430481da9d6",
         "title": "Field Service Representative - E - Des services techniques \u00e0 domicile",
@@ -318520,7 +318502,7 @@
         "company_name": "GM financial",
         "id": "93b31777-7f48-4da3-8edf-22338106d490",
         "title": "Support Technician 1",
-        "active": true,
+        "active": false,
         "date_updated": 1779836771,
         "date_posted": 1779833014,
         "url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260229",
@@ -326925,7 +326907,7 @@
         "company_name": "RTX",
         "id": "c36abd8b-4428-45a5-8ca0-c1c89e966238",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1780353453,
         "date_posted": 1780351840,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/XMLNAME-2026-Raytheon-Full-Time--Software-Engineer-I---Onsite-_01849599",
