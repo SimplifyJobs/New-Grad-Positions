@@ -268208,7 +268208,7 @@
         "company_name": "Arthur Grand Technologies",
         "id": "f75f0ef0-4976-4878-ac6d-176ddeea0c1c",
         "title": "Syteline ERP Support",
-        "active": true,
+        "active": false,
         "date_updated": 1776463381,
         "date_posted": 1776463360,
         "url": "https://jobs.smartrecruiters.com/ArthurGrandTechnologiesInc/744000121473057",
@@ -269062,7 +269062,7 @@
         "company_name": "Vertiv",
         "id": "6bedfbc8-6cc3-47cc-befb-81501fa51e55",
         "title": "Associate Product Engineer - Energy Storage",
-        "active": true,
+        "active": false,
         "date_updated": 1776474541,
         "date_posted": 1776474452,
         "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20269133",
@@ -323613,7 +323613,7 @@
         "company_name": "Liberis",
         "id": "ca0028f3-ad0e-4830-bee0-cde8d97928fd",
         "title": "Product Operations Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1779960513,
         "date_posted": 1779959475,
         "url": "https://job-boards.greenhouse.io/liberis/jobs/7962565",
@@ -335055,7 +335055,7 @@
         "company_name": "CoStar Group",
         "id": "e9de2def-6691-4fdf-b560-a4a2a8389478",
         "title": "Associate Research Consultant",
-        "active": false,
+        "active": true,
         "date_updated": 1780740818,
         "date_posted": 1780740319,
         "url": "https://costar.wd1.myworkdayjobs.com/en-US/CoStarCareers/job/US-VA-Richmond/Bilingual-Associate-Research-Consultant-French-English_R37800",
@@ -339347,7 +339347,7 @@
         "company_name": "Daimler Truck",
         "id": "458d227a-29f0-42c6-a5d3-71533cbcaade",
         "title": "Implementation and Coordination Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1781043979,
         "date_posted": 1781042824,
         "url": "https://dtna.wd5.myworkdayjobs.com/dtna_affiliate/job/Portland-OR-US/Implementation-and-Coordination-Engineer-I_DT-18297-1",
@@ -340332,7 +340332,7 @@
         "company_name": "American Express",
         "id": "80020c68-a6f6-4f9e-ace2-ff2bf5d7c282",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1781082823,
         "date_posted": 1781082292,
         "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009082",
@@ -344700,7 +344700,7 @@
         "company_name": "Sierra Nevada Corporation",
         "id": "7142a80a-8277-4366-b00e-0957b0f0b314",
         "title": "AI Agent Developer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1781216829,
         "date_posted": 1781215662,
         "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Sparks-NV/AI-Agent-Developer-I_R0030085",
@@ -349837,7 +349837,7 @@
         "company_name": "Goldman Sachs",
         "id": "a3ee586e-9f97-4009-92cc-dc4affda3b3a",
         "title": "Asset & Wealth Management - Quantitative Investment Strategies - ETF Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1781648474,
         "date_posted": 1781638708,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/176625",
@@ -350127,6 +350127,253 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Varian",
+        "id": "c75c5bb2-d625-4541-b34d-0e016eba436a",
+        "title": "Field Service Representative Hardware",
+        "active": true,
+        "date_updated": 1781647455,
+        "date_posted": 1781639253,
+        "url": "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/WAS-PA/Field-Service-Rep-HW---Fairfax--VA_R-28802",
+        "locations": [
+            "Fairfax, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/670da3c5-bce0-4621-b519-da7ce7d528e6",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "David Yurman",
+        "id": "55937315-45fc-45b9-93e7-5df6a0795829",
+        "title": "Work Experience Associate",
+        "active": true,
+        "date_updated": 1781646858,
+        "date_posted": 1781639334,
+        "url": "https://davidyurman.wd1.myworkdayjobs.com/DavidYurmanCareers/job/New-York-NY/Work-Experience-Associate_R-100839-1",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/David-Yurman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Varian",
+        "id": "f3fd24a6-e75c-43d8-890f-9cca7fe887fc",
+        "title": "Field Service Engineer",
+        "active": true,
+        "date_updated": 1781647580,
+        "date_posted": 1781344758,
+        "url": "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/GPT-S/Field-Service-Technician---HW---Gulfport--MS_R-27038-1",
+        "locations": [
+            "Gulfport, MS"
+        ],
+        "company_url": "https://simplify.jobs/c/670da3c5-bce0-4621-b519-da7ce7d528e6",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's",
+            "Incomplete"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CVS Health",
+        "id": "e340d0b8-3b18-4ed7-ba7f-cc885f66cdf5",
+        "title": "InnoTech Leadership Development Program - Conversion",
+        "active": true,
+        "date_updated": 1781649085,
+        "date_posted": 1781647574,
+        "url": "https://cvshealth.wd1.myworkdayjobs.com/Private_Postings_Intern_Conversion_ONLY/job/CT---Hartford/InnoTech-Leadership-Development-Program--Conversion-_R0938727",
+        "locations": [
+            "Wheeling, IL",
+            "Smithfield, RI",
+            "Scottsdale, AZ",
+            "Hartford, CT",
+            "NYC",
+            "Irving, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/CVS-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Citizens Financial Group",
+        "id": "b05faab6-7134-4621-a8ae-1738cf6af615",
+        "title": "Data Management Specialist",
+        "active": true,
+        "date_updated": 1781643976,
+        "date_posted": 1781638891,
+        "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/47346",
+        "locations": [
+            "Providence, RI",
+            "Norwood, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Citizens-Financial-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Skild AI",
+        "id": "06e930a3-8384-42bb-9c12-05c2f1775f88",
+        "title": "R&D Assembly Technician",
+        "active": true,
+        "date_updated": 1781658721,
+        "date_posted": 1781658699,
+        "url": "https://job-boards.greenhouse.io/skildai-careers/jobs/5266172008",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Skild-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Oracle",
+        "id": "bca2a975-6520-4a59-a4aa-78eec9cb1292",
+        "title": "Data Center Technician",
+        "active": true,
+        "date_updated": 1781659067,
+        "date_posted": 1781658413,
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/337262",
+        "locations": [
+            "Ashburn, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Oracle",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Sia Partners",
+        "id": "b2959245-200a-4379-9ee1-e5540b963140",
+        "title": "Associate Consultant - Generative AI",
+        "active": true,
+        "date_updated": 1781658361,
+        "date_posted": 1781658245,
+        "url": "https://jobs.smartrecruiters.com/Sia/744000132514319",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Sia-Partners",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Snowflake",
+        "id": "24c586e2-4b8e-49a9-b78f-a304a23cfd6e",
+        "title": "AI Research Scientist New Grad - Agents & Reinforcement Learning",
+        "active": true,
+        "date_updated": 1781659083,
+        "date_posted": 1781658503,
+        "url": "https://jobs.ashbyhq.com/snowflake/1bad12df-f443-426f-9d09-e96fc780d698/application",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Snowflake",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Oracle",
+        "id": "1991cf82-2bb8-49be-89fb-986cb1bf7359",
+        "title": "Data Center Technician",
+        "active": true,
+        "date_updated": 1781659075,
+        "date_posted": 1781658412,
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/336183",
+        "locations": [
+            "Allen, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Oracle",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "EXL",
+        "id": "1c96acc0-2406-4f50-84e1-9e93b712b454",
+        "title": "Data Engineer",
+        "active": true,
+        "date_updated": 1781648284,
+        "date_posted": 1781647498,
+        "url": "https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/15643",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/EXL",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GE Healthcare",
+        "id": "5f17b377-bed5-4587-ae25-c404bbddd382",
+        "title": "Field Service Engineer 1 - Patient Care Solutions",
+        "active": true,
+        "date_updated": 1781643432,
+        "date_posted": 1781344857,
+        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1---Patient-Care-Solutions--NY_R4041252",
+        "locations": [
+            "Jackson Township, NJ",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Healthcare",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
         ]
     }
 ]
