@@ -348432,7 +348432,7 @@
         "company_name": "EPIC Insurance Brokers & Consultants",
         "id": "3a9edbd2-f846-4e4b-bde5-20faac386bfa",
         "title": "Product & Case Design Coordinator - Life Insurance",
-        "active": false,
+        "active": true,
         "date_updated": 1781642284,
         "date_posted": 1780611314,
         "url": "https://job-boards.greenhouse.io/edgewoodpartnersinsurancecenter/jobs/8573885002",
@@ -351974,5 +351974,289 @@
             "Master's",
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Texas Instruments",
+        "id": "46cb7c52-99a0-4012-aca8-43044d9b601a",
+        "title": "Analog IC Design Engineer",
+        "active": true,
+        "date_updated": 1781676663,
+        "date_posted": 1781676233,
+        "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25010344",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Texas-Instruments",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Zebra Technologies",
+        "id": "e197577b-0c72-45ea-aa10-ee6e30c93095",
+        "title": "Radio Frequency Engineer 1",
+        "active": true,
+        "date_updated": 1781677197,
+        "date_posted": 1781676473,
+        "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/RF-Engineer-I_JR101837",
+        "locations": [
+            "Lake Grove, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Zebra-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Texas Instruments",
+        "id": "9e889c71-4e43-4097-ac20-71517c9e1312",
+        "title": "Career Accelerator Program - Design Verification Engineering",
+        "active": true,
+        "date_updated": 1781676721,
+        "date_posted": 1781676241,
+        "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25010234",
+        "locations": [
+            "Knoxville, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/Texas-Instruments",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tauck",
+        "id": "9a822943-37d2-4499-806b-73a851f52143",
+        "title": "Associate Applied AI Engineer",
+        "active": true,
+        "date_updated": 1781676361,
+        "date_posted": 1781676272,
+        "url": "https://fa-emxf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1260",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Tauck",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "AArete",
+        "id": "92141148-a17a-4cd8-abae-d70b0efa99ad",
+        "title": "Data Science Analyst",
+        "active": true,
+        "date_updated": 1781677621,
+        "date_posted": 1781676491,
+        "url": "https://jobs.jobvite.com/aarete/job/o9mkAfw9?nl=1&nl=1&fr=false",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/AArete",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Crumbl",
+        "id": "8f4dcf17-a5a8-4ccb-a664-0d77d12d9679",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1781677621,
+        "date_posted": 1781676380,
+        "url": "https://jobs.lever.co/crumbl/81c7238e-c8f9-4484-850e-8cbd8ee2484e/apply",
+        "locations": [
+            "Provo, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Crumbl",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Zebra Technologies",
+        "id": "65246d26-a423-493a-8f9b-0259161cdc3d",
+        "title": "Enterprise Systems Analyst",
+        "active": true,
+        "date_updated": 1781677542,
+        "date_posted": 1781676473,
+        "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Preston-United-Kingdom/Enterprise-Systems-Analyst--I_111395-1",
+        "locations": [
+            "Blackpool, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Zebra-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Laserfiche",
+        "id": "3937a504-382b-4061-a6ac-e27d6b2f4540",
+        "title": "Support Engineer 1 - I",
+        "active": true,
+        "date_updated": 1781677549,
+        "date_posted": 1781676490,
+        "url": "https://jobs.jobvite.com/laserfiche/job/orDbAfwz?nl=1&nl=1&fr=false",
+        "locations": [
+            "Washington",
+            "Oregon",
+            "California",
+            "Nevada",
+            "Arizona",
+            "Hawaii"
+        ],
+        "company_url": "https://simplify.jobs/c/Laserfiche",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Zebra Technologies",
+        "id": "f3a6ba08-f230-4922-a0a6-2b0b7093814c",
+        "title": "Software Development Engineer 1",
+        "active": true,
+        "date_updated": 1781677198,
+        "date_posted": 1781676469,
+        "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/Software-Development-Engineer-I-1_JR102007",
+        "locations": [
+            "Vernon Hills, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Zebra-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "IQVIA",
+        "id": "3e13bd0e-17a5-420f-b000-e6f16ddd8a3f",
+        "title": "AI Engineer - AI Engineer",
+        "active": true,
+        "date_updated": 1781676721,
+        "date_posted": 1781676518,
+        "url": "https://iqvia.wd1.myworkdayjobs.com/en-US/IQVIA/job/Kirkland-Quebec-Canada/AI-Engineer--IQVIA-Digital-Ingnieur-en-Intelligence-Artificielle--IQVIA-Digital_R1548576-1",
+        "locations": [
+            "Pointe-Claire, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/IQVIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Amazon",
+        "id": "c3f7116b-3f5b-43bf-924f-aa61e804b5e5",
+        "title": "Applied Scientist 1 - Sponsored Products and Brands",
+        "active": true,
+        "date_updated": 1781677043,
+        "date_posted": 1781676372,
+        "url": "https://amazon.jobs/en/jobs/10451121/applied-scientist-i-sponsored-products-and-brands-agent",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Texas Instruments",
+        "id": "710404e9-4478-4459-85c8-c6286e183452",
+        "title": "Career Accelerator Program - Analog Design Engineer",
+        "active": true,
+        "date_updated": 1781676721,
+        "date_posted": 1781676205,
+        "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25011176",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Texas-Instruments",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Texas Instruments",
+        "id": "0b5a17d9-0294-4f5f-8f53-22abb041d6ac",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1781677707,
+        "date_posted": 1781676224,
+        "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25010693",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Texas-Instruments",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Graphcore",
+        "id": "2dc14ab8-95c7-488b-8e78-70a1d6d5f26a",
+        "title": "Electronics Laboratory Technician",
+        "active": true,
+        "date_updated": 1781677010,
+        "date_posted": 1781639427,
+        "url": "https://job-boards.greenhouse.io/graphcore/jobs/8570813002",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Graphcore",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
