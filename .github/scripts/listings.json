@@ -234281,7 +234281,7 @@
         "company_name": "Twilio",
         "id": "1a3785cc-2b8d-42b6-a369-deda02a5e5a9",
         "title": "Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1774649823,
         "date_posted": 1774649823,
         "url": "https://job-boards.greenhouse.io/twilio/jobs/7681338",
@@ -313739,7 +313739,7 @@
         "company_name": "Worldwide TechServices",
         "id": "c1b001fd-cbe5-4c82-9910-29d18d1e7bae",
         "title": "Dynamic PC Support",
-        "active": true,
+        "active": false,
         "date_updated": 1779821462,
         "date_posted": 1778277867,
         "url": "https://jobs.smartrecruiters.com/WorldwideTechServices/744000125392254",
@@ -314690,7 +314690,7 @@
         "company_name": "University of Rochester",
         "id": "351c387c-87bc-4cf3-9313-d19af2051307",
         "title": "Data Analyst 1 - Ambulatory Pharmacy Operations",
-        "active": true,
+        "active": false,
         "date_updated": 1779821462,
         "date_posted": 1778945938,
         "url": "https://rochester.wd5.myworkdayjobs.com/UR_Staff/job/Strong-Memorial-Hospital/Data-Analyst-I---Ambulatory-Pharmacy-Operations_R271054-1",
@@ -317921,7 +317921,7 @@
         "company_name": "Crowdstrike",
         "id": "47fdd6ad-4a2d-45e1-9b23-3f72d93a297d",
         "title": "System Integration Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1779826685,
         "date_posted": 1779401190,
         "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Bend-OR/System-Integration-Technician--Bend--OR-_R28764",
@@ -318600,7 +318600,7 @@
         "company_name": "Marsh",
         "id": "e68aac58-7bc4-4d3f-95cc-01647aad689d",
         "title": "Data & Analytics Analyst - Data & Analytics Consulting",
-        "active": true,
+        "active": false,
         "date_updated": 1779876578,
         "date_posted": 1778940330,
         "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/Berlin---Mittelstrasse/Oliver-Wyman---Data---Analytics-Consulting---Analyst--m-f-d----Berlin_R_326123-1",
@@ -334031,7 +334031,7 @@
         "company_name": "GE Healthcare",
         "id": "adaa07c7-76b0-4929-ac78-4d3a5eac0539",
         "title": "Field Service Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1780652622,
         "date_posted": 1780524405,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-I_R4041954",
@@ -340092,7 +340092,7 @@
         "company_name": "Brink",
         "id": "6955ffaa-10b0-4234-99e4-81d00fe1ab9d",
         "title": "ATM Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1781082252,
         "date_posted": 1779527356,
         "url": "https://brinks.wd5.myworkdayjobs.com/brinkscareersus/job/Albany-NY/ATM-Technician_R72778",
@@ -345903,7 +345903,7 @@
         "company_name": "Charles Schwab",
         "id": "76b319af-7594-41db-8a6a-1e5d1b23c8ec",
         "title": "Data and Rep Technology Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1781273963,
         "date_posted": 1781273294,
         "url": "https://career-schwab.icims.com/jobs/122801/job?mobile=true&needsRedirect=false",
@@ -346465,7 +346465,7 @@
         "company_name": "Smiths Detection Group",
         "id": "74c47017-36eb-491a-8ffc-b8887cbf2bf8",
         "title": "Graduate Software Engineer - Data - Analytics",
-        "active": true,
+        "active": false,
         "date_updated": 1781303221,
         "date_posted": 1781301938,
         "url": "https://jobs.smartrecruiters.com/SmithsGroup2/744000131915694",
@@ -348336,7 +348336,7 @@
         "company_name": "EXL",
         "id": "6236ac4d-5ee0-4387-826e-421f82138b79",
         "title": "Junior Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1781638741,
         "date_posted": 1781638690,
         "url": "https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/15730",
@@ -349891,6 +349891,242 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Duke University",
+        "id": "c08ba31c-f965-41c5-954f-08274bbea6b4",
+        "title": "Data Analytics Fellow",
+        "active": true,
+        "date_updated": 1781649196,
+        "date_posted": 1781638834,
+        "url": "https://careers.duke.edu/job/Durham-Data-Analytics-Fellow-NC-27710/1399809300/?ats=successfactors",
+        "locations": [
+            "Durham, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Duke-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Rogers Behavioral Health",
+        "id": "c6323b29-ccd9-4ad8-88b0-983798afde45",
+        "title": "Therapist",
+        "active": true,
+        "date_updated": 1781649189,
+        "date_posted": 1781647707,
+        "url": "https://rogersbh.wd1.myworkdayjobs.com/rbhcareer/job/Madison-Clinic-Madison-WI/Therapist---PHP-IOP_R7488",
+        "locations": [
+            "Madison, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/b92a810e-00da-4d83-9a36-b7d609699d59",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "AbbVie",
+        "id": "8ff8737a-af04-4d5b-82c5-7b092a7f21f9",
+        "title": "Associate Data Engineer 1",
+        "active": true,
+        "date_updated": 1781650018,
+        "date_posted": 1781647526,
+        "url": "https://jobs.smartrecruiters.com/AbbVie/3743990013652366",
+        "locations": [
+            "Vernon Hills, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/AbbVie",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Criteo",
+        "id": "8a6d5a77-6ca6-4fd8-9087-0fc36afafc30",
+        "title": "Client Focused Data Analyst - Performance Marketing",
+        "active": true,
+        "date_updated": 1781649752,
+        "date_posted": 1781638813,
+        "url": "https://criteo.wd3.myworkdayjobs.com/Criteo_Career_Site/job/Boston/Client-Focused-Data-Analyst--Performance-Marketing_r20736",
+        "locations": [
+            "Boston, MA",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Criteo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CVS Health",
+        "id": "9ccc25c4-90dd-4f09-af7e-e9ada2d5027f",
+        "title": "InnoTech Leadership Development Program - Conversion",
+        "active": true,
+        "date_updated": 1781649073,
+        "date_posted": 1781647561,
+        "url": "https://cvshealth.wd1.myworkdayjobs.com/Private_Postings_Intern_Conversion_ONLY/job/CT---Hartford/InnoTech-Leadership-Development-Program--Conversion-_R0936230",
+        "locations": [
+            "Wheeling, IL",
+            "Smithfield, RI",
+            "Scottsdale, AZ",
+            "Hartford, CT",
+            "NYC",
+            "Irving, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/CVS-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "INTEGRIS Health",
+        "id": "0a0cc437-0aad-4f31-abaf-9df1ba7991ed",
+        "title": "Epic Applications Analyst 1",
+        "active": true,
+        "date_updated": 1781642973,
+        "date_posted": 1781638773,
+        "url": "https://ertr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/114721",
+        "locations": [
+            "Oklahoma City, OK"
+        ],
+        "company_url": "https://simplify.jobs/c/INTEGRIS-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Shell",
+        "id": "d27bf7fc-f6ce-4451-8af8-85d34c21c2ac",
+        "title": "Trading and Supply \u2013 Shell Graduate Programme",
+        "active": true,
+        "date_updated": 1781647631,
+        "date_posted": 1781344665,
+        "url": "https://shell.wd3.myworkdayjobs.com/ShellCareers/job/London---Shell-Centre/Shell-Graduate-Programme-2026---United-Kingdom_R182169",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Shell",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Leidos",
+        "id": "988992bc-d29a-426e-8529-b9ebceca82d7",
+        "title": "Electronics Technician 1",
+        "active": true,
+        "date_updated": 1781647703,
+        "date_posted": 1781639291,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Chesapeake-VA/Electronics-Technician-1_R-00185508",
+        "locations": [
+            "Chesapeake, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Boeing Company",
+        "id": "6c9fcf6b-22c0-42e4-a24d-c4fc6ec9ddca",
+        "title": "Software Engineer - Commercial Modification",
+        "active": true,
+        "date_updated": 1781646858,
+        "date_posted": 1781639432,
+        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/GBR---Bristol-UK/Software-Engineer---Commercial-Modification--Associate-or-Experienced-level-_JR2026514887-2",
+        "locations": [
+            "Bristol, UK",
+            "Fleet, UK",
+            "Camberley, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Baker Hughes",
+        "id": "2bf41995-7c79-4fde-a7a0-ccdb83bd0f12",
+        "title": "Junior Field Services Engineer",
+        "active": true,
+        "date_updated": 1781643976,
+        "date_posted": 1781638869,
+        "url": "https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/US-OH-SHARONVILLE-11988-TRAMWAY-DR/Junior-Field-Services-Engineer_R164520",
+        "locations": [
+            "Sharonville, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Baker-Hughes",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CVS Health",
+        "id": "0402faff-c579-42a1-949b-e77c625d73a6",
+        "title": "InnoTech Leadership Development Program - Conversion",
+        "active": true,
+        "date_updated": 1781649080,
+        "date_posted": 1781647561,
+        "url": "https://cvshealth.wd1.myworkdayjobs.com/Private_Postings_Intern_Conversion_ONLY/job/CT---Hartford/InnoTech-Leadership-Development-Program--Conversion-_R0938767",
+        "locations": [
+            "Wheeling, IL",
+            "Smithfield, RI",
+            "Scottsdale, AZ",
+            "Hartford, CT",
+            "NYC",
+            "Irving, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/CVS-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
