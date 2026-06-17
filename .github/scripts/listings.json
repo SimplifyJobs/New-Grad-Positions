@@ -82496,7 +82496,7 @@
         "company_name": "WSP",
         "id": "84331b99-748e-41d8-ae96-ad480a053962",
         "title": "Assistant Consultant / Consultant - Air Quality - Cardiff",
-        "active": true,
+        "active": false,
         "date_updated": 1765851634,
         "date_posted": 1765851634,
         "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/76989",
@@ -235672,7 +235672,7 @@
         "company_name": "JP Morgan Chase",
         "id": "3b9eae4b-b3bf-439c-b05d-70c6ce13081a",
         "title": "Product Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1774842782,
         "date_posted": 1774649213,
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210729136",
@@ -258566,7 +258566,7 @@
         "company_name": "General Dynamics Information Technology",
         "id": "01787816-8966-4027-a6ce-b97e50dfa2b8",
         "title": "UiPath Robotic Process Automation Developer Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1775975218,
         "date_posted": 1775973903,
         "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-LA-Bossier-City/UiPath-Robotic-Process-Automation-Developer-Associate_RQ218022",
@@ -281311,7 +281311,7 @@
         "company_name": "1X",
         "id": "58ac91fe-38c0-4977-870e-a0a6dac55142",
         "title": "Prototyping Technician - 3D Printing",
-        "active": true,
+        "active": false,
         "date_updated": 1777331521,
         "date_posted": 1777327785,
         "url": "https://1x.recruitee.com/o/prototyping-technician-3d-printing-1",
@@ -312369,7 +312369,7 @@
         "company_name": "Caesars Entertainment",
         "id": "f98a3f52-349c-46cc-90ba-781e6d63c43a",
         "title": "Trader",
-        "active": true,
+        "active": false,
         "date_updated": 1779820021,
         "date_posted": 1777327704,
         "url": "https://edmn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/83458",
@@ -346044,7 +346044,7 @@
         "company_name": "Google",
         "id": "b10b16f8-3c28-49e8-b8c0-d60910cd3f48",
         "title": "Artificial Intelligence Software Developer - Android XR - Application Compatibility",
-        "active": true,
+        "active": false,
         "date_updated": 1781274251,
         "date_posted": 1781273181,
         "url": "https://www.google.com/about/careers/applications/jobs/results/87682526201422534",
@@ -351385,6 +351385,205 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Cincinnati-Childrens-Hospital-And-Medical-Center",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "iTradeNetwork",
+        "id": "b01dc3a9-e336-4fe6-8dc1-16951ee10f7a",
+        "title": "AI/ML Software Engineer",
+        "active": true,
+        "date_updated": 1781645419,
+        "date_posted": 1781639060,
+        "url": "https://www.itradenetwork.com/jobs/5255040008?gh_jid=5255040008",
+        "locations": [
+            "California"
+        ],
+        "company_url": "https://simplify.jobs/c/ITradeNetwork",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Hitachi",
+        "id": "e72dcbfa-b079-4d4f-a2d1-5886413b05b6",
+        "title": "Electron Microscopy Analyst 1-3",
+        "active": true,
+        "date_updated": 1781647036,
+        "date_posted": 1781639133,
+        "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/HTA-NCP-Hillsboro-OR/Electron-Microscopy-Analyst-I-III_R0134280",
+        "locations": [
+            "Hillsboro, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Hitachi",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GE Healthcare",
+        "id": "a8b9f131-aa9e-4ee4-b905-6aded687e45e",
+        "title": "Firmware Engineer",
+        "active": true,
+        "date_updated": 1781647521,
+        "date_posted": 1781639272,
+        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Firmware-Engineer_R4042432-1",
+        "locations": [
+            "Waukesha, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Healthcare",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Hy-Vee",
+        "id": "1da3cad5-508c-4b4f-af1c-417a00abe062",
+        "title": "Retail Product & Pricing Manager",
+        "active": true,
+        "date_updated": 1781643062,
+        "date_posted": 1781638832,
+        "url": "https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Bethany-S-25th-Street-Bethany-MO/Retail-Product---Pricing-Manager_R237122",
+        "locations": [
+            "Sheridan, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Hy-Vee",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Boeing Company",
+        "id": "13642556-3115-449a-8d13-e6615d892f6a",
+        "title": "Entry Level Digital Engineer - Digital Engineering - Process Engineer",
+        "active": true,
+        "date_updated": 1781648224,
+        "date_posted": 1781639430,
+        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Entry-Level-Digital-Engineering--DE--Process-Engineer_JR2026514917-1",
+        "locations": [
+            "Hazelwood, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "EPIC Insurance Brokers & Consultants",
+        "id": "057fae01-8423-44ae-86bc-3cb6e07909f9",
+        "title": "Product & Case Design Coordinator - Life Insurance",
+        "active": true,
+        "date_updated": 1781659361,
+        "date_posted": 1781639792,
+        "url": "https://job-boards.greenhouse.io/edgewoodpartnersinsurancecenter/jobs/8594287002",
+        "locations": [
+            "Greenwich, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/EPIC-Insurance-Brokers-And-Consultants",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Comcast",
+        "id": "c84bf2e6-bd0c-467f-943a-6d51f16b24df",
+        "title": "Technician 1 - ISP Engineering",
+        "active": true,
+        "date_updated": 1781649196,
+        "date_posted": 1781647765,
+        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Duryea-1-Adelphia-Blvd/Technician-1--ISP-Engineering_R438527-1",
+        "locations": [
+            "Dunmore, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Comcast",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Caterpillar Inc.",
+        "id": "a797d9ac-3721-493e-b6fb-6d74dda59834",
+        "title": "Supply Chain Data Analyst",
+        "active": true,
+        "date_updated": 1781646123,
+        "date_posted": 1781639197,
+        "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/Supply-Chain-Data-Analyst_R0000374565",
+        "locations": [
+            "Peoria, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Caterpillar-Inc",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cadence Design Systems",
+        "id": "8d6f5c39-e6de-4f70-8c46-68f2e0341270",
+        "title": "Scientific Software Developer 2 - Modeler",
+        "active": true,
+        "date_updated": 1781649089,
+        "date_posted": 1781647554,
+        "url": "https://cadence.wd1.myworkdayjobs.com/OpenEye_Careers/job/BOSTON-01/Scientific-Software-Developer-II---Modeler_R55132",
+        "locations": [
+            "Boston, MA",
+            "Santa Fe, NM"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "RaceTrac",
+        "id": "1c51d4bf-c150-4396-a588-bed1486b210c",
+        "title": "Business Intelligence & Systems Analyst",
+        "active": true,
+        "date_updated": 1781646858,
+        "date_posted": 1781639351,
+        "url": "https://racetrac.wd5.myworkdayjobs.com/ssc/job/200-Galleria-Parkway-SE-Suite-900-Atlanta-GA-30339/Business-Intelligence---Systems-Analyst_R10013618",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/RaceTrac",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
