@@ -323613,7 +323613,7 @@
         "company_name": "Liberis",
         "id": "ca0028f3-ad0e-4830-bee0-cde8d97928fd",
         "title": "Product Operations Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1779960513,
         "date_posted": 1779959475,
         "url": "https://job-boards.greenhouse.io/liberis/jobs/7962565",
@@ -331810,7 +331810,7 @@
         "company_name": "Asana",
         "id": "ad125cde-512f-426e-a370-7fb65c3cb8ec",
         "title": "Software Engineer Early Career - Product",
-        "active": true,
+        "active": false,
         "date_updated": 1780536276,
         "date_posted": 1780536112,
         "url": "https://www.asana.com/jobs/apply/7979625?gh_jid=7979625",
@@ -346465,7 +346465,7 @@
         "company_name": "Smiths Detection Group",
         "id": "74c47017-36eb-491a-8ffc-b8887cbf2bf8",
         "title": "Graduate Software Engineer - Data - Analytics",
-        "active": false,
+        "active": true,
         "date_updated": 1781303221,
         "date_posted": 1781301938,
         "url": "https://jobs.smartrecruiters.com/SmithsGroup2/744000131915694",
@@ -349104,7 +349104,7 @@
         "company_name": "EPIC Insurance Brokers & Consultants",
         "id": "780288c4-b5ba-4b99-ad40-865ae39bc26d",
         "title": "Product & Case Design Coordinator - Life Insurance",
-        "active": false,
+        "active": true,
         "date_updated": 1781648929,
         "date_posted": 1781639793,
         "url": "https://job-boards.greenhouse.io/edgewoodpartnersinsurancecenter/jobs/8594283002",
@@ -351588,6 +351588,391 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Texas Instruments",
+        "id": "f42fb010-cffe-4db4-90cb-1c479a9e9b03",
+        "title": "Digital IC Design Engineer - Digital Design Engineer",
+        "active": true,
+        "date_updated": 1781677400,
+        "date_posted": 1781676241,
+        "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25010233",
+        "locations": [
+            "Knoxville, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/Texas-Instruments",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Texas Instruments",
+        "id": "e3d6beed-fabe-4d3d-ad0c-05439f8f161d",
+        "title": "Career Accelerator Program - Systems Engineer",
+        "active": true,
+        "date_updated": 1781676721,
+        "date_posted": 1781676233,
+        "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25010151",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Texas-Instruments",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Tyler Technologies",
+        "id": "ba7de260-3aca-4c4c-9334-bd3d9fa6285d",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1781677277,
+        "date_posted": 1781676480,
+        "url": "https://jobs.jobvite.com/tylertech/job/o8NHzfwV?nl=1&nl=1&fr=false",
+        "locations": [
+            "Plano, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Tyler-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Texas Instruments",
+        "id": "9a034015-71e0-4963-b5b2-7d49091af157",
+        "title": "Career Accelerator Program - Design Verification Engineer",
+        "active": true,
+        "date_updated": 1781676721,
+        "date_posted": 1781676231,
+        "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25010812",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Texas-Instruments",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Texas Instruments",
+        "id": "59064f30-dfa0-4d90-bd4a-576cf3536318",
+        "title": "New College Graduate - Information Technology - Software Development Engineer Development Program",
+        "active": true,
+        "date_updated": 1781676721,
+        "date_posted": 1781676238,
+        "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25008815",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Texas-Instruments",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Ritchie Bros.",
+        "id": "5525b708-b3f8-4b78-a546-7b5c638d8fdb",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1781677277,
+        "date_posted": 1781676408,
+        "url": "https://fa-exew-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9146",
+        "locations": [
+            "Brookfield, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Ritchie-Bros",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Texas Instruments",
+        "id": "548d6b44-d147-4c87-a8b8-dc54bfedc920",
+        "title": "Digital IC Design Engineer",
+        "active": true,
+        "date_updated": 1781677375,
+        "date_posted": 1781676219,
+        "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25011031",
+        "locations": [
+            "Tucson, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Texas-Instruments",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Texas Instruments",
+        "id": "3b9dcf6e-e5a2-41dd-a615-ea3bae75731b",
+        "title": "Career Accelerator Program - Systems Engineer",
+        "active": true,
+        "date_updated": 1781676721,
+        "date_posted": 1781676219,
+        "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25011042",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Texas-Instruments",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Intel",
+        "id": "adc9ca22-68d6-4e35-a8c2-2039e097e6fb",
+        "title": "Junior CPU Verification Engineer",
+        "active": true,
+        "date_updated": 1781677228,
+        "date_posted": 1781676478,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Texas-Austin/Junior-CPU-Verification-Engineer_JR0284866",
+        "locations": [
+            "Austin, TX",
+            "Hillsboro, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Collective",
+        "id": "77e7808f-4911-4b76-a14a-520cafb5daf8",
+        "title": "Software Engineer New Grad",
+        "active": true,
+        "date_updated": 1781677293,
+        "date_posted": 1781676499,
+        "url": "https://jobs.ashbyhq.com/collective/40516856-b29c-4b38-b434-68be5241bacf/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Collective",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Texas Instruments",
+        "id": "f5ba13c1-62c8-4820-acd8-2f206b4538c2",
+        "title": "Career Accelerator Program - Digital Design Engineer",
+        "active": true,
+        "date_updated": 1781676361,
+        "date_posted": 1781676222,
+        "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25010815",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Texas-Instruments",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Scotch",
+        "id": "bf6b46fc-b4a0-4b9a-ad6c-79e9d4fbd6e7",
+        "title": "Point of Sale Installation Technician - Point of Sale - Installation Technician",
+        "active": true,
+        "date_updated": 1781677030,
+        "date_posted": 1781676366,
+        "url": "https://job-boards.greenhouse.io/scotch/jobs/5266126008",
+        "locations": [
+            "Boston, MA",
+            "Nashville, TN",
+            "NYC",
+            "Denver, CO",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Scotch",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Texas Instruments",
+        "id": "a9b70357-b1d7-4d19-a35b-c9ef24d16b80",
+        "title": "Digital IC Design Engineer - Digital Design Engineer",
+        "active": true,
+        "date_updated": 1781676755,
+        "date_posted": 1781676209,
+        "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25009593",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Texas-Instruments",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Texas Instruments",
+        "id": "52b32135-cf38-4ba5-abb7-9dcc2d946a58",
+        "title": "Career Accelerator Program",
+        "active": true,
+        "date_updated": 1781676361,
+        "date_posted": 1781676238,
+        "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25010348",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Texas-Instruments",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Texas Instruments",
+        "id": "16712a97-0b3c-446e-a6d8-11a42ec868e8",
+        "title": "Mixed Signal Design Verification Engineer - Mixed Signal Design Verification Engineer",
+        "active": true,
+        "date_updated": 1781676669,
+        "date_posted": 1781676221,
+        "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25010801",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Texas-Instruments",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Texas Instruments",
+        "id": "a5424293-cfb7-43f3-988e-17a214bab051",
+        "title": "Career Accelerator Program - Analog Design Engineer",
+        "active": true,
+        "date_updated": 1781676361,
+        "date_posted": 1781676240,
+        "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25010232",
+        "locations": [
+            "Knoxville, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/Texas-Instruments",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Texas Instruments",
+        "id": "6781e7c7-4a82-4ca8-84d0-5653318ef7d7",
+        "title": "Career Accelerator Program - Digital Design Engineer - Sensing",
+        "active": true,
+        "date_updated": 1781676361,
+        "date_posted": 1781676235,
+        "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25010410",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Texas-Instruments",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Texas Instruments",
+        "id": "37637a1f-f49f-4d0b-8c7f-e47624e05fbe",
+        "title": "Career Accelerator Program - Software Engineer",
+        "active": true,
+        "date_updated": 1781676361,
+        "date_posted": 1781676212,
+        "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25010663",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Texas-Instruments",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Texas Instruments",
+        "id": "058b7d75-3a62-4309-9b1b-27083eeb374d",
+        "title": "Career Accelerator Program - Systems Engineer - MS/PhD",
+        "active": true,
+        "date_updated": 1781676361,
+        "date_posted": 1781676236,
+        "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25005001",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Texas-Instruments",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
         ]
     }
 ]
