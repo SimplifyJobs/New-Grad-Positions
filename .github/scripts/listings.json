@@ -236472,7 +236472,7 @@
         "company_name": "Salesforce",
         "id": "5ffb792a-06f6-4670-b8ba-24c5402f1824",
         "title": "Software Engineering AMTS College Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1774910429,
         "date_posted": 1774908272,
         "url": "https://salesforce.wd12.myworkdayjobs.com/Futureforce_NewGradRoles/job/California---San-Francisco/Software-Engineering-AMTS-MTS--College-Grad-_JR330400",
@@ -316133,7 +316133,7 @@
         "company_name": "Elekta",
         "id": "2bef8297-48c9-430d-a0a8-4aa0694f67bf",
         "title": "Associate Field Service Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1779819398,
         "date_posted": 1776895743,
         "url": "https://elekta.wd3.myworkdayjobs.com/Elekta_Careers/job/Louisiana--Home-Based/Associate-Field-Service-Engineer_R2026-0169",
@@ -327652,7 +327652,7 @@
         "company_name": "CoStar Group",
         "id": "654a8203-8795-40c6-92f5-76afc4273093",
         "title": "Associate Research Consultant",
-        "active": true,
+        "active": false,
         "date_updated": 1780390666,
         "date_posted": 1780134807,
         "url": "https://costar.wd1.myworkdayjobs.com/en-US/CoStarCareers/job/US-VA-Richmond/Associate-Research-Consultant_R38934",
@@ -347640,7 +347640,7 @@
         "company_name": "Tencent",
         "id": "4e2f7d02-24d2-4498-807c-2039373159cd",
         "title": "3D Model and Scene Generation Algorithm Researcher",
-        "active": true,
+        "active": false,
         "date_updated": 1781369598,
         "date_posted": 1781361420,
         "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/UK-London/XMLNAME-3D-Model-and-Scene-Generation-Algorithm-Researcher--2026-PhD-Graduate_R107513-1",
@@ -349701,7 +349701,7 @@
         "company_name": "Tokyo Electron",
         "id": "7d0ffbc8-fa94-4535-899d-8e658f80a0e7",
         "title": "Field Service/Start-Up Engineer - Etch",
-        "active": true,
+        "active": false,
         "date_updated": 1781643062,
         "date_posted": 1781638827,
         "url": "https://tel.wd3.myworkdayjobs.com/tel-careers/job/Phoenix/Field-Service-Start-Up-Engineer---Etch_R26-00858",
@@ -350361,7 +350361,7 @@
         "company_name": "GE Healthcare",
         "id": "5f17b377-bed5-4587-ae25-c404bbddd382",
         "title": "Field Service Engineer 1 - Patient Care Solutions",
-        "active": true,
+        "active": false,
         "date_updated": 1781643432,
         "date_posted": 1781344857,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1---Patient-Care-Solutions--NY_R4041252",
@@ -352300,6 +352300,47 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Axon",
+        "id": "135c5ccd-f27d-427c-b564-06e09bf3b886",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1781695843,
+        "date_posted": 1781695643,
+        "url": "https://job-boards.greenhouse.io/axon/jobs/7690510003",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Axon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Bootcamp"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Canon",
+        "id": "5bf81361-5422-4666-ba65-3598e2e193d9",
+        "title": "Field Service Technician - Field Service I-Ctrl",
+        "active": true,
+        "date_updated": 1781704312,
+        "date_posted": 1781302050,
+        "url": "https://external-canoncareers.icims.com/jobs/34513/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Albany, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Canon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
