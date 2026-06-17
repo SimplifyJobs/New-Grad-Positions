@@ -255903,7 +255903,7 @@
         "company_name": "Uplifter",
         "id": "6b56e690-dbcc-487f-8e75-d04ccec4fb1f",
         "title": "Product Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1775803035,
         "date_posted": 1775802223,
         "url": "https://job-boards.greenhouse.io/uplifter/jobs/4215254009",
@@ -318580,7 +318580,7 @@
         "company_name": "LexisNexis Risk Solutions",
         "id": "f7292aa6-7328-4d24-92dd-1c877cb86dce",
         "title": "Solutions Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1779876631,
         "date_posted": 1778922100,
         "url": "https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/United-Kingdom/Solutions-Analyst_R109322",
@@ -328797,7 +328797,7 @@
         "company_name": "AHEAD",
         "id": "45be3316-dea8-4184-adb4-a96efc341f3d",
         "title": "Engineering Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1780440122,
         "date_posted": 1780438087,
         "url": "https://jobs.lever.co/thinkahead/1c03fbcc-bfbb-4602-a91a-44e6827a100d/apply",
@@ -340092,7 +340092,7 @@
         "company_name": "Brink",
         "id": "6955ffaa-10b0-4234-99e4-81d00fe1ab9d",
         "title": "ATM Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1781082252,
         "date_posted": 1779527356,
         "url": "https://brinks.wd5.myworkdayjobs.com/brinkscareersus/job/Albany-NY/ATM-Technician_R72778",
@@ -345841,7 +345841,7 @@
         "company_name": "Cengage Group",
         "id": "f68544e5-012b-4bcb-9751-3ae517d746a5",
         "title": "Associate Vocabulary Editor",
-        "active": false,
+        "active": true,
         "date_updated": 1781259675,
         "date_posted": 1781042909,
         "url": "https://cengage.wd5.myworkdayjobs.com/en-US/CengageNorthAmericaCareers/job/California-USA/Associate-Vocabulary-Editor--Remote-_R2026-622",
@@ -352278,6 +352278,28 @@
         "degrees": [
             "Bachelor's",
             "Bootcamp"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Becton Dickinson",
+        "id": "1b569ff0-d4e1-41db-812c-5816c103f9bf",
+        "title": "Engineer 2 - Sustaining",
+        "active": true,
+        "date_updated": 1781698287,
+        "date_posted": 1781360524,
+        "url": "https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-UT---Sandy/Engineer-II---Research-and-Development_R-544024-1",
+        "locations": [
+            "Salt Lake City, UT",
+            "Draper, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Becton-Dickinson",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
