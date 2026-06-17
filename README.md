@@ -1057,7 +1057,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (1267)</summary>
+<summary>🗃️ Inactive roles (1266)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -9929,13 +9929,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><strong><a href="https://simplify.jobs/c/RELX?utm_source=GHList&utm_medium=company">RELX</a></strong></td>
 <td>Software Engineer I</td>
 <td>Southampton, UK</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td><strong>Roserocket</strong></td>
-<td>Junior Software Engineer 🛂</td>
-<td>Toronto, ON</td>
 <td>🔒</td>
 <td>7mo</td>
 </tr>
