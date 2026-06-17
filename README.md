@@ -8166,21 +8166,21 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Full-Stack Software Engineer</td>
 <td>San Francisco, CA</br>Remote in USA</td>
 <td>🔒</td>
-<td>6mo</td>
+<td>7mo</td>
 </tr>
 <tr>
 <td><strong>Q2</strong></td>
 <td>Software Engineer 🛂</td>
 <td>Austin, TX</td>
 <td>🔒</td>
-<td>6mo</td>
+<td>7mo</td>
 </tr>
 <tr>
 <td><strong>Amae Health</strong></td>
 <td>Associate Software Engineer</td>
 <td>New York, NY</td>
 <td>🔒</td>
-<td>6mo</td>
+<td>7mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Flexport?utm_source=GHList&utm_medium=company">Flexport</a></strong></td>
