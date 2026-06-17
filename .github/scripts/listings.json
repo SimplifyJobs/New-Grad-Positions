@@ -73129,7 +73129,7 @@
         "company_name": "SpaceX",
         "id": "e53ca27e-ffff-4737-81ca-25899efe102f",
         "title": "Software Engineer - Flight Software C++ - Starshield",
-        "active": true,
+        "active": false,
         "date_updated": 1765223932,
         "date_posted": 1765223932,
         "url": "https://boards.greenhouse.io/spacex/jobs/8322723002",
@@ -209034,7 +209034,7 @@
         "company_name": "TWG Global",
         "id": "91484c21-7d21-4781-8d54-3fe7ea8b1db0",
         "title": "Associate AI Data Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1773325009,
         "date_posted": 1773325009,
         "url": "https://apply.workable.com/twgai/j/469F929A47/apply",
@@ -253195,7 +253195,7 @@
         "company_name": "Anduril",
         "id": "ee7541cd-8918-45d9-9551-e9f11290f62c",
         "title": "LRU Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1775689572,
         "date_posted": 1775686296,
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/5092651007",
@@ -306901,7 +306901,7 @@
         "company_name": "NVIDIA",
         "id": "77cf3c94-1e1a-4efd-b31b-b9fcf510eef0",
         "title": "AI Software Engineer New Grad - Kernel Libraries",
-        "active": false,
+        "active": true,
         "date_updated": 1779229324,
         "date_posted": 1779228506,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Software-Engineer--Kernel-Libraries---New-College-Grad-2026_JR2018472",
@@ -316926,7 +316926,7 @@
         "company_name": "Captivation",
         "id": "71b88a56-d53c-465f-8149-8b28bf441aef",
         "title": "Software Engineer 1 - AWS/Docker/Kubernetes/Java/Javascript/Kibana/Git",
-        "active": true,
+        "active": false,
         "date_updated": 1779831905,
         "date_posted": 1779228461,
         "url": "https://job-boards.greenhouse.io/captivation/jobs/5225182008",
@@ -318600,7 +318600,7 @@
         "company_name": "Marsh",
         "id": "e68aac58-7bc4-4d3f-95cc-01647aad689d",
         "title": "Data & Analytics Analyst - Data & Analytics Consulting",
-        "active": false,
+        "active": true,
         "date_updated": 1779876578,
         "date_posted": 1778940330,
         "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/Berlin---Mittelstrasse/Oliver-Wyman---Data---Analytics-Consulting---Analyst--m-f-d----Berlin_R_326123-1",
@@ -324455,7 +324455,7 @@
         "company_name": "Leidos",
         "id": "c2ced759-415c-4430-971e-4945e24dcfcc",
         "title": "Electronics Mechanical Assembly Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1780275161,
         "date_posted": 1780134819,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Electronics-Mechanical-Assembly-Technician_R-00182031",
@@ -326885,7 +326885,7 @@
         "company_name": "Trane Technologies",
         "id": "3a9cfa03-6faa-4a01-878f-ba744b4fcec1",
         "title": "Junior AI Controls Integrator",
-        "active": true,
+        "active": false,
         "date_updated": 1780352698,
         "date_posted": 1780351706,
         "url": "https://careers.tranetechnologies.com/global/en/job/JR-5112",
@@ -331239,7 +331239,7 @@
         "company_name": "Elsevier",
         "id": "fd27827c-512a-413b-80f3-070b5eac7378",
         "title": "Data Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1780525893,
         "date_posted": 1780524689,
         "url": "https://relx.wd3.myworkdayjobs.com/ElsevierJobs/job/Amsterdam/Data-Scientist_R114330",
@@ -336422,7 +336422,7 @@
         "company_name": "Truist Bank",
         "id": "8fb612b8-d00e-4c1a-a287-e9ede5150c49",
         "title": "Data Scientist 1 - Card Fraud",
-        "active": true,
+        "active": false,
         "date_updated": 1780928422,
         "date_posted": 1780927781,
         "url": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Atlanta-GA/Data-Scientist-I---Card-Fraud_R0115272",
@@ -342106,7 +342106,7 @@
         "company_name": "Lithia Motors",
         "id": "2664a38f-b76f-42f0-82a4-12aecc67d729",
         "title": "Product Specialist",
-        "active": false,
+        "active": true,
         "date_updated": 1781166871,
         "date_posted": 1781129201,
         "url": "https://lithia.wd5.myworkdayjobs.com/LithiaCareers/job/BMW-of-Minnetonka-Minnetonka-MN-55391/Product-Specialist_R110644",
@@ -346485,7 +346485,7 @@
         "company_name": "RTX",
         "id": "703cda76-22ba-4087-a142-4fe4289646b5",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1781303671,
         "date_posted": 1781302293,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineer-I--Onsite-_01851415-1",
@@ -347906,7 +347906,7 @@
         "company_name": "University of Maryland - College Park",
         "id": "c16de5ad-b2cf-4941-95e0-0eef613b642b",
         "title": "Faculty Assistant-3",
-        "active": true,
+        "active": false,
         "date_updated": 1781430733,
         "date_posted": 1781360173,
         "url": "https://umd.wd1.myworkdayjobs.com/UMCP/job/University-of-Maryland-College-Park/Faculty-Assistant-3_JR101888-1",
@@ -349104,7 +349104,7 @@
         "company_name": "EPIC Insurance Brokers & Consultants",
         "id": "780288c4-b5ba-4b99-ad40-865ae39bc26d",
         "title": "Product & Case Design Coordinator - Life Insurance",
-        "active": true,
+        "active": false,
         "date_updated": 1781648929,
         "date_posted": 1781639793,
         "url": "https://job-boards.greenhouse.io/edgewoodpartnersinsurancecenter/jobs/8594283002",
@@ -351089,6 +351089,306 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Arc'teryx Equipment",
+        "id": "d490fc44-6509-4caf-b201-4fd305a071cd",
+        "title": "Product Information Analyst",
+        "active": true,
+        "date_updated": 1781659261,
+        "date_posted": 1781658475,
+        "url": "https://jobs.lever.co/arcteryx.com/b13f7612-34ac-4215-8097-a10367bbe9d9/apply",
+        "locations": [
+            "Portland, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Arcteryx-Equipment",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Liberty Mutual",
+        "id": "e0e32a6c-3727-455d-92c5-458c2b19c493",
+        "title": "Assistant Director - Data Science: Renter's Portfolio",
+        "active": true,
+        "date_updated": 1781643976,
+        "date_posted": 1781638909,
+        "url": "https://careers-libertymutual.icims.com/jobs/76392/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Boston, MA",
+            "Seattle, WA",
+            "Plano, TX",
+            "Portsmouth, NH",
+            "Columbus, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Liberty-Mutual",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "General Dynamics Mission Systems",
+        "id": "b4556f1e-dea1-44c9-a542-678f03840014",
+        "title": "ASIC FPGA Engineer \u2013 Entry Level for Crypto and Cross Domain Solutions",
+        "active": true,
+        "date_updated": 1781643089,
+        "date_posted": 1781638800,
+        "url": "https://careers-gdms.icims.com/jobs/73026/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Scottsdale, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "LivaNova",
+        "id": "b1a9643b-7368-4809-9467-cb88f42969bc",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1781646858,
+        "date_posted": 1781639288,
+        "url": "https://livanova.wd5.myworkdayjobs.com/search/job/US_Remote/Data-Analyst_JR-14561",
+        "locations": [
+            "Boston, MA",
+            "Houston, TX",
+            "Austin, TX",
+            "Detroit, MI",
+            "Miami, FL",
+            "Dallas, TX",
+            "Remote in USA",
+            "Chicago, IL",
+            "Charlotte, NC",
+            "Minneapolis, MN",
+            "Denver, CO",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/LivaNova",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Duke University",
+        "id": "42cbb909-c623-413e-946a-4c1f70030f1b",
+        "title": "Research Technician 2 - Nicholas School",
+        "active": true,
+        "date_updated": 1781643965,
+        "date_posted": 1781638834,
+        "url": "https://careers.duke.edu/job/Durham-Research-Technician-II,-Nicholas-School-NC-27710/1400017800/?ats=successfactors",
+        "locations": [
+            "Durham, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Duke-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "DaVita",
+        "id": "1c549be6-6cb9-4aca-a155-ae169eb1cfb9",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1781647982,
+        "date_posted": 1781639361,
+        "url": "https://davita.wd1.myworkdayjobs.com/DKC_External/job/05555---Casa-del-Mundo-Office-Denver-HQ/ERS-Data-Analyst_R0463911",
+        "locations": [
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/DaVita",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Home Depot",
+        "id": "e4fe1246-7b41-43d4-ae14-874fab3e83aa",
+        "title": "Associate Data Scientist",
+        "active": true,
+        "date_updated": 1781646858,
+        "date_posted": 1781639390,
+        "url": "https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Associate-Data-Scientist_Req183776",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Home-Depot",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Netflix",
+        "id": "e6e2f164-a369-4302-b4df-28307e6e6179",
+        "title": "Research Scientist 4 - Machine Learning and Inference Research - Large Language Model Post-Training",
+        "active": true,
+        "date_updated": 1781649338,
+        "date_posted": 1781638810,
+        "url": "https://explore.jobs.netflix.net/careers/job/790311856514",
+        "locations": [
+            "LA",
+            "Los Gatos, CA",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Netflix",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Bristol Myers Squibb",
+        "id": "6f99e1c0-bfec-450e-b005-708019d6c388",
+        "title": "Associate Engineer - Analytical AI Engineering",
+        "active": true,
+        "date_updated": 1781647988,
+        "date_posted": 1781639363,
+        "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Princeton---NJ---US/Associate-Engineer--Analytical-AI-Engineering_R1603317-1",
+        "locations": [
+            "Princeton, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Bristol-Myers-Squibb",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "TELUS",
+        "id": "5b58cbd6-38b2-4dd0-a32f-6546c971e536",
+        "title": "Investment Analyst",
+        "active": true,
+        "date_updated": 1781649904,
+        "date_posted": 1781647493,
+        "url": "https://lifeworks.wd3.myworkdayjobs.com/External/job/Halifax-Nova-Scotia-Canada/Investment-Analyst--Atlantic-Canada-_R-22428",
+        "locations": [
+            "Halifax Regional Municipality, NS, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/TELUS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Google",
+        "id": "911fcf67-6657-4dd0-be91-9c7db4a640e6",
+        "title": "Software Engineer 3 - Infrastructure - Google Cloud Business Platforms",
+        "active": true,
+        "date_updated": 1781649269,
+        "date_posted": 1781647906,
+        "url": "https://www.google.com/about/careers/applications/jobs/results/125291585569989318",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Google",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "American Institutes for Research",
+        "id": "46559c4a-45e1-49d2-87bb-cca40667e187",
+        "title": "Data Engineer Associate",
+        "active": true,
+        "date_updated": 1781647580,
+        "date_posted": 1781639708,
+        "url": "https://job-boards.greenhouse.io/americaninstitutesforresearch/jobs/5263560008",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/American-Institutes-For-Research",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "University of Chicago",
+        "id": "44741ba8-e41f-4482-be57-c7316565d787",
+        "title": "Web Designer and Developer",
+        "active": true,
+        "date_updated": 1781645419,
+        "date_posted": 1781639125,
+        "url": "https://uchicago.wd5.myworkdayjobs.com/External/job/Illinois-Chicago/Web-Designer-and-Developer_JR33945-1",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Chicago",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Cincinnati Children\u2019s Hospital and Medical Center",
+        "id": "1f8434d4-7955-438a-bf92-ec85eea23c15",
+        "title": "Business Intelligence Analyst 1 - Healthvine",
+        "active": true,
+        "date_updated": 1781640835,
+        "date_posted": 1781638998,
+        "url": "https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Remote/Business-Intelligence-Analyst-II---HealthVine_JR217109-1",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cincinnati-Childrens-Hospital-And-Medical-Center",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
