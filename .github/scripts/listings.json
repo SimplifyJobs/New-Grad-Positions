@@ -68064,7 +68064,7 @@
         "company_name": "Carnegie Mellon University",
         "id": "ebb97515-f54d-472c-ad3e-4c33803310cc",
         "title": "Investment Analyst - Investment Office",
-        "active": false,
+        "active": true,
         "date_updated": 1764729855,
         "date_posted": 1764729855,
         "url": "https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Investment-Analyst---2-Year-Investment-Analyst-Program---Investment-Office_2023904",
@@ -239215,7 +239215,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "3d1b7afa-b8e2-480d-8ea3-dd025fd955be",
         "title": "Graduate Software Developer - C#",
-        "active": true,
+        "active": false,
         "date_updated": 1774987381,
         "date_posted": 1774947936,
         "url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Cambridge-Cambridgeshire-United-Kingdom/Graduate-Software-Developer--C----2-year-Placement_3156191",
@@ -309889,7 +309889,7 @@
         "company_name": "Trane Technologies",
         "id": "522cfed9-2d80-426b-8188-5c1507fd82c1",
         "title": "Custom Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1779412412,
         "date_posted": 1779412087,
         "url": "https://careers.tranetechnologies.com/global/en/job/JR-5107",
@@ -323241,7 +323241,7 @@
         "company_name": "Intel",
         "id": "51a1fa71-e03e-4617-9080-15bc995c65a3",
         "title": "Physical Design Engineer - Neuromorphic Computing",
-        "active": true,
+        "active": false,
         "date_updated": 1779958227,
         "date_posted": 1778945460,
         "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Physical-Design-Engineer---Neuromorphic-Computing_JR0282554",
@@ -323818,7 +323818,7 @@
         "company_name": "University of Arkansas",
         "id": "b9bcf351-5da5-411a-9194-d85ff25786a8",
         "title": "Graduate Assistant - Information Science",
-        "active": false,
+        "active": true,
         "date_updated": 1779961464,
         "date_posted": 1779527543,
         "url": "https://uasys.wd5.myworkdayjobs.com/uasys/job/Little-Rock/Graduate-Assistant---Information-Science_R0062021",
@@ -324995,7 +324995,7 @@
         "company_name": "RTX",
         "id": "663ed937-487e-42f2-a4cd-03232e26911f",
         "title": "Microelectronics Assembly Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1780281490,
         "date_posted": 1780135865,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-ANDOVER-AR1--358-Lowell-St--AR1-DUKES-BLDG/Microelectronics-Assembly-Technician_01848874",
@@ -325141,7 +325141,7 @@
         "company_name": "GE Appliances",
         "id": "8b9e85b8-0cd3-4df7-97e9-62edc68a007a",
         "title": "Edison Engineering Development Program - Edison Engineering Development Program - Software",
-        "active": true,
+        "active": false,
         "date_updated": 1780281147,
         "date_posted": 1780135207,
         "url": "https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Edison-Engineering-Development-Program--EEDP----Software---July-2027_REQ-25807",
@@ -333504,7 +333504,7 @@
         "company_name": "The Walt Disney Company",
         "id": "50ea7249-3391-484e-af33-21116a55a639",
         "title": "Media Replay Operator 1",
-        "active": true,
+        "active": false,
         "date_updated": 1780612687,
         "date_posted": 1780611007,
         "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Charlotte-NC-USA/Part-Time-Media-Replay-Operator-I_10151581-1",
@@ -335442,7 +335442,7 @@
         "company_name": "Google",
         "id": "69a569db-0492-4d86-9612-4eda81524c70",
         "title": "Software Engineer \u2013 Early Career - Embedded Systems and Firmware",
-        "active": true,
+        "active": false,
         "date_updated": 1780736041,
         "date_posted": 1765419559,
         "url": "https://www.google.com/about/careers/applications/jobs/results/96957711316329158",
@@ -335736,7 +335736,7 @@
         "company_name": "RTX",
         "id": "5bf8d0c8-0c92-4a6d-ad96-230620511299",
         "title": "Assembly/Test 1",
-        "active": true,
+        "active": false,
         "date_updated": 1780822487,
         "date_posted": 1780438267,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-KS-LENEXA-885--15701-W-95Th-St--KIN01-W-95TH-885/Assembly-Test-I_01846876",
@@ -341768,7 +341768,7 @@
         "company_name": "Arize AI",
         "id": "d9be5c64-46d9-4537-8703-2cf1bf0f719e",
         "title": "Forward Deployed AI Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1781130241,
         "date_posted": 1778537729,
         "url": "https://job-boards.greenhouse.io/arizeai/jobs/5993755004",
@@ -341988,7 +341988,7 @@
         "company_name": "JP Morgan Chase",
         "id": "77c3487c-9952-46f2-abf3-09ffcc3bd473",
         "title": "Applied AI ML Engineer Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1781140141,
         "date_posted": 1781140061,
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210757900",
@@ -344642,7 +344642,7 @@
         "company_name": "Paramount Global",
         "id": "659eb640-0dc3-4ae3-b7ae-b0b77e0105a2",
         "title": "Analyst \u2013 Advanced Advertising - Advanced Advertising Solutions - National Linear",
-        "active": true,
+        "active": false,
         "date_updated": 1781216117,
         "date_posted": 1781215626,
         "url": "https://careers.paramount.com/job/New-York-Analyst,-Advanced-Advertising-NY-10036/1390959200/?ats=successfactors",
@@ -345494,7 +345494,7 @@
         "company_name": "Amazon",
         "id": "993d72df-8433-4a0e-90ff-ddac9fd609c5",
         "title": "Data Scientist 1 - Demand Forecasting",
-        "active": true,
+        "active": false,
         "date_updated": 1781244524,
         "date_posted": 1781244275,
         "url": "https://amazon.jobs/en/jobs/10438958/data-scientist-i-demand-forecasting",
@@ -347885,7 +347885,7 @@
         "company_name": "Withum",
         "id": "9b7de8ac-9ec0-4667-b20c-edcde5abe3f0",
         "title": "Healthcare Claims Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1781427028,
         "date_posted": 1781426428,
         "url": "https://job-boards.greenhouse.io/withumsmithbrown/jobs/8459137002",
@@ -349482,6 +349482,275 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "CVS Health",
+        "id": "68c000b4-d64f-415f-aeba-5bc510921344",
+        "title": "InnoTech Leadership Development Program - Conversion",
+        "active": true,
+        "date_updated": 1781649790,
+        "date_posted": 1781638850,
+        "url": "https://cvshealth.wd1.myworkdayjobs.com/Private_Postings_Intern_Conversion_ONLY/job/CT---Hartford/InnoTech-Leadership-Development-Program--Conversion-_R0936255",
+        "locations": [
+            "Wheeling, IL",
+            "Smithfield, RI",
+            "Scottsdale, AZ",
+            "Hartford, CT",
+            "NYC",
+            "Irving, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/CVS-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "5960a086-0d69-4263-8775-0b952a7dc63d",
+        "title": "Embedded Software Engineer - Sensors - Software Engineer I",
+        "active": true,
+        "date_updated": 1781647794,
+        "date_posted": 1781639306,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-MCKINNEY-513PW--2501-W-University-Dr--PW-BLDG/XMLNAME-2027-Raytheon-Full-Time---Sensors---Software-Engineer-I---McKinney--TX--Onsite-_01849891-1",
+        "locations": [
+            "McKinney, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Seagate Technology ",
+        "id": "7ae9bc7e-378b-4712-a9eb-e0ffcde162c0",
+        "title": "Engineer \u2013 Early Career - Wafer Photolithography CAD",
+        "active": true,
+        "date_updated": 1781643062,
+        "date_posted": 1780092423,
+        "url": "https://seagatecareers.com/job/Bloomington-Engineer-Wafer-Photolithography-CAD-(Early-Career)-MN/1395217100/?ats=successfactors",
+        "locations": [
+            "Bloomington, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Seagate-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Leidos",
+        "id": "40b2e0ec-6d97-4e16-9939-9d80ac4bb36b",
+        "title": "Data Scientist",
+        "active": true,
+        "date_updated": 1781649190,
+        "date_posted": 1781647719,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Data-Scientist_R-00184909",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Boeing Company",
+        "id": "d95f24e1-7e9a-4727-ac96-1da9aec9b8b3",
+        "title": "Test and Evaluation Software Engineer \u2013 Associate or Mid-Level",
+        "active": true,
+        "date_updated": 1781649240,
+        "date_posted": 1781647841,
+        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Test-and-Evaluation-Software-Engineer--Associate-or-MId-Level-_JR2026515127-1",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "KLA",
+        "id": "d1285005-9c87-44e4-a5da-3ef630da7a53",
+        "title": "Systems Software Engineer",
+        "active": true,
+        "date_updated": 1781649196,
+        "date_posted": 1781638735,
+        "url": "https://kla.wd1.myworkdayjobs.com/annarbor/job/Ann-Arbor-MI/Systems-Software-Engineer_2637710",
+        "locations": [
+            "Ann Arbor, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/KLA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Commonwealth of Massachusetts",
+        "id": "c728b525-c527-4ee5-b92d-ae55bd4bb8ef",
+        "title": "Data Analyst 1",
+        "active": true,
+        "date_updated": 1781649271,
+        "date_posted": 1781647841,
+        "url": "https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=260002ZJ",
+        "locations": [
+            "Massachusetts"
+        ],
+        "company_url": "https://simplify.jobs/c/Commonwealth-Of-Massachusetts",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Raymond James Financial",
+        "id": "65e8b77d-c828-4c44-80d5-27f0bc0af412",
+        "title": "Data Governance Analyst",
+        "active": true,
+        "date_updated": 1781646858,
+        "date_posted": 1781639408,
+        "url": "https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Saint-Petersburg-Florida---United-States/Data-Governance-Analyst_R-0011626",
+        "locations": [
+            "St. Petersburg, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Raymond-James-Financial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "PURE Insurance",
+        "id": "a52713d5-0d33-4104-b263-d7becaeae99b",
+        "title": "Catastrophe Analyst",
+        "active": true,
+        "date_updated": 1781645419,
+        "date_posted": 1781639107,
+        "url": "https://pureinsurance.wd5.myworkdayjobs.com/pure/job/Bloomington/Catastrophe-Analyst_R2683-1",
+        "locations": [
+            "Bloomington, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/fc808eea-5bbd-47f2-b012-c26bad545ecd",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CVS Health",
+        "id": "8b836c0c-ad23-4a3b-bbb7-572483511a25",
+        "title": "InnoTech Leadership Development Program - Conversion",
+        "active": true,
+        "date_updated": 1781649791,
+        "date_posted": 1781638851,
+        "url": "https://cvshealth.wd1.myworkdayjobs.com/Private_Postings_Intern_Conversion_ONLY/job/CT---Hartford/InnoTech-Leadership-Development-Program--Conversion-_R0938737",
+        "locations": [
+            "Wheeling, IL",
+            "Smithfield, RI",
+            "Scottsdale, AZ",
+            "Hartford, CT",
+            "NYC",
+            "Irving, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/CVS-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Tokyo Electron",
+        "id": "7d0ffbc8-fa94-4535-899d-8e658f80a0e7",
+        "title": "Field Service/Start-Up Engineer - Etch",
+        "active": true,
+        "date_updated": 1781643062,
+        "date_posted": 1781638827,
+        "url": "https://tel.wd3.myworkdayjobs.com/tel-careers/job/Phoenix/Field-Service-Start-Up-Engineer---Etch_R26-00858",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Tokyo-Electron",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Berkshire Hathaway Energy",
+        "id": "33d2b21e-e763-4fa0-ba7c-9ca954d0b1bc",
+        "title": "Associate Energy Analyst",
+        "active": true,
+        "date_updated": 1781643958,
+        "date_posted": 1781638833,
+        "url": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10004977",
+        "locations": [
+            "Reno, NV"
+        ],
+        "company_url": "https://simplify.jobs/c/Berkshire-Hathaway-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Chickasaw Nation Industries",
+        "id": "2a31a227-fc48-4788-bf7b-8881ada95949",
+        "title": "Research Engineer",
+        "active": true,
+        "date_updated": 1781649904,
+        "date_posted": 1781638642,
+        "url": "https://cni.wd503.myworkdayjobs.com/CNI/job/Dothan-AL/Research-Engineer_R9142",
+        "locations": [
+            "Dothan, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Chickasaw-Nation-Industries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
