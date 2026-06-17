@@ -217381,7 +217381,7 @@
         "company_name": "University of Arkansas",
         "id": "fdb28bed-d2e6-44f2-b305-6599d8d12c2f",
         "title": "Cosmos Extra Help Assistant 1",
-        "active": true,
+        "active": false,
         "date_updated": 1773786839,
         "date_posted": 1773786839,
         "url": "https://uasys.wd5.myworkdayjobs.com/uasys/job/Little-Rock/COSMOS---Extra-Help-Assistant-I_R0082208-1",
@@ -315622,7 +315622,7 @@
         "company_name": "CLEAR",
         "id": "f153f80d-adbd-46dd-a792-4d7f82783425",
         "title": "Forward Deployed AI Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1779822541,
         "date_posted": 1778894242,
         "url": "https://job-boards.greenhouse.io/clear/jobs/7927496",
@@ -323818,7 +323818,7 @@
         "company_name": "University of Arkansas",
         "id": "b9bcf351-5da5-411a-9194-d85ff25786a8",
         "title": "Graduate Assistant - Information Science",
-        "active": true,
+        "active": false,
         "date_updated": 1779961464,
         "date_posted": 1779527543,
         "url": "https://uasys.wd5.myworkdayjobs.com/uasys/job/Little-Rock/Graduate-Assistant---Information-Science_R0062021",
@@ -323958,7 +323958,7 @@
         "company_name": "SharkNinja",
         "id": "2af4853b-4038-4767-b9fd-6bd676416a0c",
         "title": "Product Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1779978076,
         "date_posted": 1779978012,
         "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4647941006",
@@ -335315,7 +335315,7 @@
         "company_name": "Flutter",
         "id": "a1198b01-bb33-4f9d-a466-703d59e5ee6d",
         "title": "Graduate Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1780755111,
         "date_posted": 1780739912,
         "url": "https://flutterbe.wd3.myworkdayjobs.com/FlutterInt_External/job/Isle-of-Man/Graduate-Analyst_JR139100-1",
@@ -344419,7 +344419,7 @@
         "company_name": "TSC",
         "id": "63108e30-ab23-4b0e-acbf-35e05842e9b9",
         "title": "Embedded Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1781216117,
         "date_posted": 1781215581,
         "url": "https://tsc.wd12.myworkdayjobs.com/en-US/TSC-Careers/job/Aurora-CO/Embedded-Software-Engineer_JR2627-1",
@@ -348277,7 +348277,7 @@
         "company_name": "Ryan",
         "id": "31d11edc-b830-484f-b2bc-faae10a84958",
         "title": "Associate Data Engineer - AI/ML",
-        "active": true,
+        "active": false,
         "date_updated": 1781641082,
         "date_posted": 1781639263,
         "url": "https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Plano/Associate-Data-Engineer_R0017873",
@@ -350005,7 +350005,7 @@
         "company_name": "INTEGRIS Health",
         "id": "0a0cc437-0aad-4f31-abaf-9df1ba7991ed",
         "title": "Epic Applications Analyst 1",
-        "active": true,
+        "active": false,
         "date_updated": 1781642973,
         "date_posted": 1781638773,
         "url": "https://ertr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/114721",
@@ -352503,5 +352503,185 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "BlueCross BlueShield of South Carolina",
+        "id": "77b8edf9-6d78-40f4-a70c-e0c27950ca38",
+        "title": "Statistical Programming Analyst 1",
+        "active": true,
+        "date_updated": 1781707714,
+        "date_posted": 1781707014,
+        "url": "https://ourhrconnect.wd501.myworkdayjobs.com/SCBlues/job/Columbia-South-Carolina/Statistical-Programming-Analyst-I_R1051151",
+        "locations": [
+            "Columbia, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/BlueCross-BlueShield-Of-South-Carolina",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Charles Schwab",
+        "id": "093d0417-7266-448f-bd4e-c814e8dfdb9a",
+        "title": "Trading Operations Associate",
+        "active": true,
+        "date_updated": 1781707869,
+        "date_posted": 1781705690,
+        "url": "https://career-schwab.icims.com/jobs/123091/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Austin, TX",
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Charles-Schwab",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "JP Morgan Chase",
+        "id": "e4e910c3-1384-49ee-a4e8-b2d687b8cfb1",
+        "title": "Markets Asset Servicing Analyst - Global Corporate Actions - Commercial & Investment Bank",
+        "active": true,
+        "date_updated": 1781707424,
+        "date_posted": 1781705361,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210754824",
+        "locations": [
+            "Newark, DE"
+        ],
+        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "a3f73d95-78af-40f1-98a5-e230608dae8c",
+        "title": "Software Engineer - Software Engineer I",
+        "active": true,
+        "date_updated": 1781707810,
+        "date_posted": 1781707135,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/XMLNAME-2026-Raytheon-Full-Time---Software-Engineer-I---McKinney--TX--Onsite-_01853473",
+        "locations": [
+            "McKinney, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Royal Bank of Canada",
+        "id": "1859c6d1-7f1e-41e0-bd52-e92de5ec88d5",
+        "title": "Analyst Leverage Finance Trading",
+        "active": true,
+        "date_updated": 1781707987,
+        "date_posted": 1781707201,
+        "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/London-United-Kingdom-of-Great-Britain-and-Northern-Ireland/Analyst--Leverage-Finance-Trading_R-0000177113-2",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "ASML",
+        "id": "545e6347-3a03-4d96-b8bf-220294acf336",
+        "title": "Field Service Engineer - Human Machine Interface",
+        "active": true,
+        "date_updated": 1781702835,
+        "date_posted": 1781345341,
+        "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Chandler-AZ-USA/Field-Service-Engineer--eBeam_J-00332442-1",
+        "locations": [
+            "Chandler, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/ASML",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Marsh & McLennan",
+        "id": "1489d490-cda0-42d1-98eb-91c014250158",
+        "title": "Investment Analyst",
+        "active": true,
+        "date_updated": 1781707676,
+        "date_posted": 1781706930,
+        "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/Edinburgh---New-Park/Investment-Analyst_R_355695-1",
+        "locations": [
+            "London, UK",
+            "Edinburgh, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Marsh-McLennan",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Data Intellect",
+        "id": "ec031b29-4e12-40b8-b3e6-99b5b95a4b6e",
+        "title": "Graduate STEM Developer",
+        "active": true,
+        "date_updated": 1781707150,
+        "date_posted": 1781705048,
+        "url": "https://jobs.smartrecruiters.com/DataIntellect/744000132642599",
+        "locations": [
+            "Belfast, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Data-Intellect",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Silna Health",
+        "id": "e855ed5c-e613-43b2-9c65-61c5cdc7930b",
+        "title": "AI Deployment Analyst",
+        "active": true,
+        "date_updated": 1781707150,
+        "date_posted": 1781705812,
+        "url": "https://jobs.ashbyhq.com/silnahealth.com/28ba5d0b-b862-4e04-995d-d5eff22d269e/application",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Silna-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
