@@ -247887,7 +247887,7 @@
         "company_name": "Pennsylvania State University",
         "id": "511d6f5f-2c89-4282-b5ab-da8d188ff120",
         "title": "Engineering Designer",
-        "active": true,
+        "active": false,
         "date_updated": 1775303196,
         "date_posted": 1775300138,
         "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Engineering-Designer_REQ_0000076206-2",
@@ -252252,7 +252252,7 @@
         "company_name": "The University of Edinburgh",
         "id": "8b2929dc-adf7-47b9-aede-5d2d87089190",
         "title": "Postdoctoral Research Associate in Solar Radiation Management",
-        "active": true,
+        "active": false,
         "date_updated": 1775640241,
         "date_posted": 1775639201,
         "url": "https://elxw.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/14012",
@@ -281498,7 +281498,7 @@
         "company_name": "Bluestaq",
         "id": "73624c9f-6f6d-468a-8b0d-4b59c8ed5fc0",
         "title": "Senior Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1777330983,
         "date_posted": 1777327823,
         "url": "https://job-boards.greenhouse.io/bluestaq/jobs/4226413009",
@@ -290681,7 +290681,7 @@
         "company_name": "Salesforce",
         "id": "f72e4f9c-46ba-4a77-aa67-a10faac92de9",
         "title": "AI Builder - Emerging Talent",
-        "active": false,
+        "active": true,
         "date_updated": 1778047795,
         "date_posted": 1778047509,
         "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/AI-Builder--Emerging-Talent_JR341276-1",
@@ -292433,7 +292433,7 @@
         "company_name": "Robinhood",
         "id": "40dbaece-74e6-4442-b9b1-318fa726fe72",
         "title": "Salesforce Applications Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1778105521,
         "date_posted": 1778105442,
         "url": "https://boards.greenhouse.io/robinhood/jobs/7896256",
@@ -307783,7 +307783,7 @@
         "company_name": "Gulfstream",
         "id": "b901de91-c4ed-4f56-864b-b7f3073f83c7",
         "title": "Entry-Level ERP Application Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1779315661,
         "date_posted": 1779314797,
         "url": "https://careers.gulfstream.com/job/Savannah-Entry-Level-ERP-Application-Developer-GA-31401/1392553700/?ats=successfactors",
@@ -309666,7 +309666,7 @@
         "company_name": "LexisNexis Legal & Professional",
         "id": "33ff65fe-7dfc-4b78-94f2-5160bccd9138",
         "title": "Data Discovery and Enrichment Expert 1",
-        "active": false,
+        "active": true,
         "date_updated": 1779403140,
         "date_posted": 1779401021,
         "url": "https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Quebec/Data-Discovery-and-Enrichment-Expert-I--Canada-Bilingual-Hybrid-or-Remote-_R113429",
@@ -315602,7 +315602,7 @@
         "company_name": "Leidos",
         "id": "70b7fd95-246f-48f2-9401-337d4f57a0fe",
         "title": "Chinese Language-Enabled OSINT Collector - Junior",
-        "active": true,
+        "active": false,
         "date_updated": 1779822362,
         "date_posted": 1778941871,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Cape-Canaveral-FL/Chinese-Language-Enabled-OSINT-Collector--Junior-_R-00183337",
@@ -316807,7 +316807,7 @@
         "company_name": "Amazon",
         "id": "5353b527-0cda-43e8-a9ef-cdfa8f45bcd8",
         "title": "Front-End Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1779834527,
         "date_posted": 1779487538,
         "url": "https://amazon.jobs/en/jobs/10428762/front-end-engineer-2026-us",
@@ -319308,7 +319308,7 @@
         "company_name": "Jabil",
         "id": "38abf863-f279-4074-9457-990fb917e285",
         "title": "Rework Operator",
-        "active": true,
+        "active": false,
         "date_updated": 1779837662,
         "date_posted": 1779833510,
         "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Salt-Lake-CityGrantsville-UT/Rework-Operator--temp-perm-_J2451797",
@@ -320672,7 +320672,7 @@
         "company_name": "Penn Interactive",
         "id": "56f36a91-5a85-4328-a1f8-7b869f6bd227",
         "title": "Trading Operations Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1779919573,
         "date_posted": 1779919463,
         "url": "https://job-boards.greenhouse.io/penninteractive/jobs/6006258004",
@@ -329104,7 +329104,7 @@
         "company_name": "Light & Wonder",
         "id": "6a0d643a-4706-4812-88c9-db42bd577d80",
         "title": "Field Service Tech 3",
-        "active": true,
+        "active": false,
         "date_updated": 1780439318,
         "date_posted": 1780438012,
         "url": "https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Rhode-Island-US/Field-Service-Tech-III_R322152",
@@ -335375,7 +335375,7 @@
         "company_name": "Google",
         "id": "bfb08a93-2f42-4862-9976-1e856142142e",
         "title": "Software Engineer - PhD - AI/Machine Learning",
-        "active": true,
+        "active": false,
         "date_updated": 1780739922,
         "date_posted": 1761896887,
         "url": "https://www.google.com/about/careers/applications/jobs/results/122258040807137990",
@@ -336755,7 +336755,7 @@
         "company_name": "Waymark",
         "id": "acc27fcd-46e8-4703-9794-59a9b3c79293",
         "title": "Senior Data Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1780957457,
         "date_posted": 1780956390,
         "url": "https://job-boards.greenhouse.io/waymark/jobs/4703612005",
@@ -338748,7 +338748,7 @@
         "company_name": "Kantar",
         "id": "fe9a5d14-b182-45d8-a0fc-fe9b5746f888",
         "title": "Associate Analytics",
-        "active": true,
+        "active": false,
         "date_updated": 1781043041,
         "date_posted": 1781042659,
         "url": "https://kantar.wd3.myworkdayjobs.com/kantar/job/Atlanta-Perimeter/Associate--Analytics_R101653",
@@ -340951,7 +340951,7 @@
         "company_name": "Vertiv",
         "id": "9890544f-9d60-4967-a405-a918d4a3c6fc",
         "title": "Product Engineer - Energy Storage",
-        "active": true,
+        "active": false,
         "date_updated": 1781130273,
         "date_posted": 1781129251,
         "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20274764",
@@ -343311,7 +343311,7 @@
         "company_name": "Beth Israel Lahey Health",
         "id": "81fd3d67-ad59-407d-be3f-f9a0a2079e0d",
         "title": "Research Assistant 1",
-        "active": false,
+        "active": true,
         "date_updated": 1781170673,
         "date_posted": 1780927748,
         "url": "https://bilh.wd1.myworkdayjobs.com/External/job/Beth-Israel-Deaconess-Medical-Center/Research-Assistant-I-position_JR97041",
@@ -350540,5 +350540,148 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Cleveland Clinic",
+        "id": "53282be7-4c53-4e8f-9fa4-5cb818130734",
+        "title": "Research Data Scientist 1",
+        "active": true,
+        "date_updated": 1781649795,
+        "date_posted": 1781638860,
+        "url": "https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Remote-Location/Research-Data-Scientist-I_344534",
+        "locations": [
+            "Florida",
+            "Nevada",
+            "Ohio"
+        ],
+        "company_url": "https://simplify.jobs/c/Cleveland-Clinic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Uhaul",
+        "id": "25b15347-192f-44ac-a85d-232632aaa217",
+        "title": "ETL Developer",
+        "active": true,
+        "date_updated": 1781658721,
+        "date_posted": 1781658603,
+        "url": "https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/Phoenix-Arizona/ETL-Developer_R247910",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Uhaul",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cadence Design Systems",
+        "id": "f0f5d04d-a3b2-4603-8dbb-57f0910de161",
+        "title": "Scientific Software Developer 2 - Modeler",
+        "active": true,
+        "date_updated": 1781649106,
+        "date_posted": 1781647561,
+        "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/BOSTON-01/Scientific-Software-Developer-II---Modeler_R55132-1",
+        "locations": [
+            "Boston, MA",
+            "Santa Fe, NM"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Q2",
+        "id": "2a67b5dd-46b8-4984-b1c2-0abc7cf63c61",
+        "title": "Associate Data Migration Engineer",
+        "active": true,
+        "date_updated": 1781649904,
+        "date_posted": 1781639266,
+        "url": "https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-TX/Associate-Data-Migration-Engineer_REQ-12457",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Q2Software",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Peraton",
+        "id": "0a229ffe-8f9d-408b-b69f-b3305f7b0a6b",
+        "title": "Business Systems Analyst",
+        "active": true,
+        "date_updated": 1781649018,
+        "date_posted": 1781647472,
+        "url": "https://careers-peraton.icims.com/jobs/167621/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Peraton",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "JP Morgan Chase",
+        "id": "e836023a-cc88-4b8c-9d23-7cfd701c6d9d",
+        "title": "Intraday Liquidity Management Associate - Data Analytics and Forecasting",
+        "active": true,
+        "date_updated": 1781649120,
+        "date_posted": 1781647592,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210759643",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "NRG Energy",
+        "id": "14c1660f-ec4a-48de-9f83-a06a3e83206f",
+        "title": "Field Service Professional",
+        "active": true,
+        "date_updated": 1781643062,
+        "date_posted": 1781638808,
+        "url": "https://careers.nrgenergy.com/SMARTHOMES/job/Garden-City-Field-Service-Professional-Garden-City,-KS-KS-67846/1399799800/?ats=successfactors",
+        "locations": [
+            "Holcomb, KS"
+        ],
+        "company_url": "https://simplify.jobs/c/NRG-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
