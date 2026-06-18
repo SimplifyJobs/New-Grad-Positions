@@ -310532,7 +310532,7 @@
         "company_name": "Sanofi",
         "id": "43599b93-3328-4553-9d05-2768931a4a9b",
         "title": "External Manufacturing & Supply Business Data Analyst - VIE Contract",
-        "active": true,
+        "active": false,
         "date_updated": 1779487741,
         "date_posted": 1779487582,
         "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Framingham-MA/External-Manufacturing---Supply-Business-Data-Analyst---VIE-Contract_R2856066",
@@ -322710,7 +322710,7 @@
         "company_name": "Integer Holdings Corporation",
         "id": "384d9167-9b17-415c-8688-f23c28147653",
         "title": "Calibration Technician / CMM Programmer",
-        "active": false,
+        "active": true,
         "date_updated": 1779957283,
         "date_posted": 1778942661,
         "url": "https://integer.wd1.myworkdayjobs.com/External/job/Minneapolis-MN/Calibration-Technician-III_R34989",
@@ -353720,5 +353720,81 @@
         "degrees": [
             "Associate's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "383bd654-246b-40dc-aee6-14221be0fdd8",
+        "title": "Systems Engineer 1",
+        "active": true,
+        "date_updated": 1781772528,
+        "date_posted": 1781639446,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/XMLNAME-2026--Fulltime--Systems-Electronic-Engineer-I--Onsite_01825190",
+        "locations": [
+            "Fort Wayne, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Howden",
+        "id": "5d3b789a-f436-46c4-8c1b-26789924a3f7",
+        "title": "Product Coordinator",
+        "active": true,
+        "date_updated": 1781773630,
+        "date_posted": 1781639291,
+        "url": "https://hyperiongrp.wd3.myworkdayjobs.com/Hyperion_External/job/London/Product-Coordinator_R0016962-1",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Howden",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Amazon",
+        "id": "758e0cb6-eb7a-49c8-8e74-b7476ce44f7c",
+        "title": "Infra Delivery Install Technician",
+        "active": true,
+        "date_updated": 1781773741,
+        "date_posted": 1778738727,
+        "url": "https://amazon.jobs/en/jobs/10419415/infra-delivery-install-technician",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Socket",
+        "id": "633a9ab2-ac2c-4a15-9d67-4c4e36939176",
+        "title": "Senior Software Engineer",
+        "active": true,
+        "date_updated": 1781773357,
+        "date_posted": 1772435571,
+        "url": "https://jobs.ashbyhq.com/socket/c1625d37-2c92-4455-8d3a-5ed3cefe3410/application",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Socket-Dev",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
