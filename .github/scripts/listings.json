@@ -282938,7 +282938,7 @@
         "company_name": "Semtech",
         "id": "7b6c0417-a7c9-4f6f-b819-56e9b9454b5f",
         "title": "Staff Characterisation Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1777471728,
         "date_posted": 1777471521,
         "url": "https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/GBR---Bristol/Staff-Characterisation-Engineer_REQ3285",
@@ -327204,7 +327204,7 @@
         "company_name": "RTX",
         "id": "31b7f70c-a169-487e-a379-b84328b186b8",
         "title": "Configuration Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1780389425,
         "date_posted": 1780351840,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WM--2501-W-University-Dr--WING-M-BLDG/Configuration-Analyst_01849460",
@@ -327224,7 +327224,7 @@
         "company_name": "CoStar Group",
         "id": "654a8203-8795-40c6-92f5-76afc4273093",
         "title": "Associate Research Consultant",
-        "active": false,
+        "active": true,
         "date_updated": 1780390666,
         "date_posted": 1780134807,
         "url": "https://costar.wd1.myworkdayjobs.com/en-US/CoStarCareers/job/US-VA-Richmond/Associate-Research-Consultant_R38934",
@@ -348159,7 +348159,7 @@
         "company_name": "Sardine",
         "id": "48c0960e-1b89-4864-8729-1b42a71be2ee",
         "title": "Senior Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1781645419,
         "date_posted": 1781639042,
         "url": "https://jobs.ashbyhq.com/sardine/69604df3-fb78-4621-a250-4b2bd6af0531/application",
@@ -349409,7 +349409,7 @@
         "company_name": "Goldman Sachs",
         "id": "a3ee586e-9f97-4009-92cc-dc4affda3b3a",
         "title": "Asset & Wealth Management - Quantitative Investment Strategies - ETF Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1781648474,
         "date_posted": 1781638708,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/176625",
@@ -352021,7 +352021,7 @@
         "company_name": "GE Healthcare",
         "id": "b8df6356-852a-4297-b6d7-4e4dab8e1234",
         "title": "Field Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1781704769,
         "date_posted": 1781639272,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/FE-1-Bloomington--Illinois-Central-Illinois_R4042298-1",
@@ -353658,6 +353658,67 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Adobe",
+        "id": "94553853-01a8-4ae7-8aff-21e02d826aa5",
+        "title": "Software Development Engineer 2",
+        "active": true,
+        "date_updated": 1781775165,
+        "date_posted": 1781774746,
+        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Software-Development-Engineer-2_R169364-1",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Adobe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Overlake Hospital Medical Center",
+        "id": "21a8bc56-7e8e-43e2-9948-1b48e375ee7a",
+        "title": "IS Systems Analyst 1",
+        "active": true,
+        "date_updated": 1781771860,
+        "date_posted": 1781344913,
+        "url": "https://overlakemedicalcenter.wd5.myworkdayjobs.com/overlake_external_career_site/job/Beyondsoft-Building/IS-Systems-Analyst-I_R-10879",
+        "locations": [
+            "Washington"
+        ],
+        "company_url": "https://simplify.jobs/c/Overlake-Hospital-Medical-Center",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Orb Aerospace",
+        "id": "0f362c72-fe51-4451-bf64-0491f60b9a4c",
+        "title": "Autonomous Resilient Communications - Technician",
+        "active": true,
+        "date_updated": 1781771041,
+        "date_posted": 1767827977,
+        "url": "https://jobs.lever.co/orbaerospace/2f233c29-a4c8-490e-be99-0feaae9b75dd/apply",
+        "locations": [
+            "Middleville, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Orb-Aerospace",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
         ]
     }
 ]
