@@ -1,59 +1,5 @@
 [
     {
-        "date_updated": 1761553228,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": false,
-        "degrees": [],
-        "url": "https://evolent.wd1.myworkdayjobs.com/External/job/Work-at-Home/Associate-Software-Engineer_JR-914584?source=Linkedin",
-        "company_name": "Evolent",
-        "title": "Associate Software Engineer",
-        "locations": [
-            "Remote"
-        ],
-        "category": "Software Engineering",
-        "source": "DereC4",
-        "id": "f65d4916-fb32-42fd-8d7f-6e675f17c844",
-        "date_posted": 1761068952,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1762271259,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": false,
-        "degrees": [],
-        "url": "https://jobs.battelle.org/us/en/job/BMIBMIUS75654EXTERNALENUS/Early-Career-Software-Engineer",
-        "company_name": "Battelle",
-        "title": "Early Career Software Engineer",
-        "locations": [
-            "Columbus, OH"
-        ],
-        "category": "Software Engineering",
-        "source": "DereC4",
-        "id": "f29707a4-936f-4644-b392-cf44bbbdfbfa",
-        "date_posted": 1761069073,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1761155659,
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "degrees": [],
-        "url": "https://www.spotandtango.com/careers?gh_jid=4620638005",
-        "company_name": "Spot & Tango",
-        "title": "Jr. Software Engineer",
-        "locations": [
-            "New York, NY"
-        ],
-        "category": "Software Engineering",
-        "source": "DereC4",
-        "id": "993ac503-c6ec-4aea-8729-a736a944f3e0",
-        "date_posted": 1761069578,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
         "source": "Simplify",
         "category": "Software",
         "company_name": "Capitolis",
