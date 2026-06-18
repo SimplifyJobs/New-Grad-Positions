@@ -41080,7 +41080,7 @@
         "company_name": "ALTEN Technology",
         "id": "f6f665ec-37eb-4922-9180-758bb53c6bbc",
         "title": "Data Collection Operator 1",
-        "active": false,
+        "active": true,
         "date_updated": 1763163597,
         "date_posted": 1763163597,
         "url": "https://job-boards.greenhouse.io/altentechnologyusa/jobs/4981897007",
@@ -338393,7 +338393,7 @@
         "company_name": "RTX",
         "id": "c7dd8eae-b1be-46ed-84b3-672ff470574c",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1781044410,
         "date_posted": 1781042996,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Software-Engineer-I_01845113",
@@ -345742,7 +345742,7 @@
         "company_name": "Phillips 66",
         "id": "e75ce752-4d23-47b5-b042-15ebc556d68b",
         "title": "Advisor 1 - Data Science - Product Optimization",
-        "active": false,
+        "active": true,
         "date_updated": 1781273661,
         "date_posted": 1781273187,
         "url": "https://careers.phillips66.com/job/Houston-Advisor-I,-Product-Optimization-(Data-Science)-TX-77042/1383744700/?ats=successfactors",
@@ -346732,7 +346732,7 @@
         "company_name": "Varsity Brands",
         "id": "f5e6e2dc-a266-4145-ae2f-57af70ca00ba",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1781331133,
         "date_posted": 1781330907,
         "url": "https://careers.varsitybrands.com/global/en/job/JR113366",
@@ -352208,7 +352208,7 @@
         "company_name": "EquipmentShare",
         "id": "93686cd8-24ec-49b6-bd93-32c545ea0ea7",
         "title": "Telematics Installer",
-        "active": true,
+        "active": false,
         "date_updated": 1781735941,
         "date_posted": 1781735098,
         "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=7946918",
@@ -353949,7 +353949,7 @@
         "company_name": "Blue Yonder",
         "id": "d0419060-9eef-46ca-9f19-59e2a619eebf",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1781792534,
         "date_posted": 1781791759,
         "url": "https://jda.wd5.myworkdayjobs.com/en-US/JDA_Careers/job/Dallas/Software-Engineer-I_260056",
@@ -354020,5 +354020,169 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Boeing Company",
+        "id": "f2b73da7-0a47-4832-bc1e-182627d6c02e",
+        "title": "Entry Level Engineering Data Author",
+        "active": true,
+        "date_updated": 1781821621,
+        "date_posted": 1781820789,
+        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---San-Diego-CA/Entry-Level-Engineering-Data-Author_JR2026515613-1",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Tesla",
+        "id": "1941cf58-d377-4f13-8d66-ee6d978d4f5a",
+        "title": "Frontend Software Engineer - Infrastructure",
+        "active": true,
+        "date_updated": 1781822385,
+        "date_posted": 1781820624,
+        "url": "https://www.tesla.com/careers/search/job/274330",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cadence Design Systems",
+        "id": "917bdb82-e6bf-4230-bbc8-3a888aa9cac5",
+        "title": "Software Engineer 2 New Grad",
+        "active": true,
+        "date_updated": 1781821541,
+        "date_posted": 1781820416,
+        "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/BOSTON-02/Software-Engineer-II--New-College-Grad-2026-_R54895-2",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Cincinnati Children\u2019s Hospital and Medical Center",
+        "id": "5e465ec4-85dc-458a-a5af-3544253b5890",
+        "title": "Business Intelligence Analyst",
+        "active": true,
+        "date_updated": 1781820903,
+        "date_posted": 1781820433,
+        "url": "https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Burnet-Campus/Business-Intelligence-Analyst_JR218729",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Cincinnati-Childrens-Hospital-And-Medical-Center",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "NRG Energy",
+        "id": "159a564b-9bf6-4e38-b25e-8299ea7ff313",
+        "title": "Field Service Professional",
+        "active": true,
+        "date_updated": 1781820361,
+        "date_posted": 1781820322,
+        "url": "https://careers.nrgenergy.com/SMARTHOMES/job/Chicago-Field-Service-Professional-Chicago,-IL-IL-60616/1401327800/?ats=successfactors",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/NRG-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Sony",
+        "id": "98c8c3dd-0c07-41ae-a751-2b31f726b461",
+        "title": "Lead System Engineer",
+        "active": true,
+        "date_updated": 1781820361,
+        "date_posted": 1781820328,
+        "url": "https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/San-Jose/Lead-System-Engineer_JR-119289",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Sony",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Worcester Polytechnic Institute",
+        "id": "0b31eab1-1bbe-4557-aed4-a6942d538e3c",
+        "title": "Temporary Computer Science Developer",
+        "active": true,
+        "date_updated": 1781820181,
+        "date_posted": 1781820095,
+        "url": "https://wpi.wd5.myworkdayjobs.com/WPI_External_Career_Site/job/Worcester/Temporary-Computer-Science-Developer_R0003493",
+        "locations": [
+            "Worcester, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Worcester-Polytechnic-Institute",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CVS Health",
+        "id": "078d035b-c338-49be-ab38-3e466fba59fc",
+        "title": "InnoTech Leadership Development Program - Conversion",
+        "active": true,
+        "date_updated": 1781821832,
+        "date_posted": 1781820548,
+        "url": "https://cvshealth.wd1.myworkdayjobs.com/Private_Postings_Intern_Conversion_ONLY/job/CT---Hartford/InnoTech-Leadership-Development-Program--Conversion-_R0938675",
+        "locations": [
+            "Wheeling, IL",
+            "Smithfield, RI",
+            "Scottsdale, AZ",
+            "Hartford, CT",
+            "NYC",
+            "Irving, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/CVS-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
