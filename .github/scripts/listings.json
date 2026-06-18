@@ -352947,5 +352947,65 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Boeing Company",
+        "id": "970b0685-fc8f-4b92-961a-1182acca7627",
+        "title": "Entry Level Software Engineer - Rotorcraft Training Systems",
+        "active": true,
+        "date_updated": 1781735221,
+        "date_posted": 1781734470,
+        "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Mesa-AZ/Entry-Level-Software-Engineer---Rotorcraft-Training-Systems_JR2026509014",
+        "locations": [
+            "Mesa, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Daikin Applied",
+        "id": "4f132a8b-88b9-4f7a-9634-a57ad835b3eb",
+        "title": "Product Engineer 1",
+        "active": true,
+        "date_updated": 1781736787,
+        "date_posted": 1781734326,
+        "url": "https://daikinapplied.wd1.myworkdayjobs.com/Daikin-Careers/job/Phoenix-AZ-85009/Product-Engineer-I_R002965",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Daikin-Applied",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Amazon",
+        "id": "4390c758-6e51-424d-a81b-424561f1847e",
+        "title": "Data Scientist 1 - SCOT-Inbound - Planning Optimization",
+        "active": true,
+        "date_updated": 1781745544,
+        "date_posted": 1781744758,
+        "url": "https://amazon.jobs/en/jobs/10451969/data-scientist-i-scot-inbound-planning-optimization",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
     }
 ]
