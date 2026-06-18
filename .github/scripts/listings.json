@@ -32938,24 +32938,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Kroll",
-        "id": "da47f510-7ce5-4e26-a889-10dcfdc96afe",
-        "title": "Associate Cyber Risk",
-        "active": false,
-        "date_updated": 1762918859,
-        "date_posted": 1761007156,
-        "url": "https://hcxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/21012829",
-        "locations": [
-            "Remote in UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Kroll",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "TPI Composites ",
         "id": "83f746f3-f87c-4ef3-aba9-44b25a3cbe76",
@@ -349132,7 +349114,7 @@
         "company_name": "Medline",
         "id": "5dff7c2c-6076-4b03-aac7-cc031f0112d4",
         "title": "Associate Analyst Business Systems - QMS Focus",
-        "active": true,
+        "active": false,
         "date_updated": 1781646123,
         "date_posted": 1781639245,
         "url": "https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/Remote-US/Associate-Analyst-Business-Systems_R2611970",
@@ -352824,5 +352806,164 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Scientific Research Corporation",
+        "id": "e7599fb7-d6d6-4f20-84ba-6cde4771e28e",
+        "title": "Engineering Technician",
+        "active": true,
+        "date_updated": 1781736661,
+        "date_posted": 1781734258,
+        "url": "https://careers-scires.icims.com/jobs/11292/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "North Charleston, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/Scientific-Research-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Rogers Behavioral Health",
+        "id": "96cf2022-ba80-4979-ad49-41b8fff0873f",
+        "title": "Therapist Intensive Outpatient/Partial Hospitalization",
+        "active": true,
+        "date_updated": 1781736760,
+        "date_posted": 1781734312,
+        "url": "https://rogersbh.wd1.myworkdayjobs.com/rbhcareer/job/Skokie-Clinic-Skokie-IL/Therapist--IOP-PHP_R7457",
+        "locations": [
+            "Morton Grove, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/b92a810e-00da-4d83-9a36-b7d609699d59",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Scientific Research Corporation",
+        "id": "912dc7db-6775-41da-86aa-37eb4fe22920",
+        "title": "Engineering Technician",
+        "active": true,
+        "date_updated": 1781736661,
+        "date_posted": 1781734257,
+        "url": "https://careers-scires.icims.com/jobs/11295/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "North Charleston, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/Scientific-Research-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Vanguard",
+        "id": "79ded935-a8e1-4ec4-b9ff-ee8ef525c354",
+        "title": "Investment Analyst - Specialist",
+        "active": true,
+        "date_updated": 1781735941,
+        "date_posted": 1781734152,
+        "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Scottsdale-AZ/Investment-Analyst--Specialist_178753-1",
+        "locations": [
+            "Scottsdale, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Vanguard",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "WebFX",
+        "id": "0ea4f09f-a3b4-4a0b-b033-e5123b3762e9",
+        "title": "Junior Full-Stack Software Engineer",
+        "active": true,
+        "date_updated": 1781736683,
+        "date_posted": 1781734264,
+        "url": "https://jobs.lever.co/webfx/3c850193-9429-43fd-9afb-052adea191b3/apply",
+        "locations": [
+            "Ann Arbor, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/WebFX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Worcester Polytechnic Institute",
+        "id": "9427fe09-0aa3-45bf-ad31-47db22681225",
+        "title": "Research Technician in ML in Healthcare",
+        "active": true,
+        "date_updated": 1781736722,
+        "date_posted": 1781733699,
+        "url": "https://wpi.wd5.myworkdayjobs.com/WPI_External_Career_Site/job/Worcester/Temporary-Research-Technician-in-ML-in-Healthcare_R0003498",
+        "locations": [
+            "Worcester, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Worcester-Polytechnic-Institute",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Goldman Sachs",
+        "id": "77482a4b-c4db-430c-9e57-1a5071d06e6b",
+        "title": "Global Banking & Markets - Loan Management - SF Trade Analytics",
+        "active": true,
+        "date_updated": 1781735941,
+        "date_posted": 1781734087,
+        "url": "https://higher.gs.com/roles/176868",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Goldman-Sachs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Royal Bank of Canada",
+        "id": "0c8caf24-6c39-4fff-8606-dac562e2a011",
+        "title": "Data Analyst - Client Data Analytics-1",
+        "active": true,
+        "date_updated": 1781736661,
+        "date_posted": 1781734270,
+        "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Data-Analyst---Client-Data-Analytics-1_R-0000174354-1",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
