@@ -3,46 +3,6 @@
         "source": "Simplify",
         "category": "Software",
         "company_name": "Jerry",
-        "id": "4e1ec0f3-85ff-4f22-b10c-37f8efee27af",
-        "title": "Software Engineer 1 - Multiple Teams",
-        "active": false,
-        "date_updated": 1761006232,
-        "date_posted": 1761006232,
-        "url": "https://jobs.ashbyhq.com/jerry.ai/09f6d3f8-3a52-4f6b-9ba3-c91fec1e6086/application",
-        "locations": [
-            "Toronto, ON, Canada",
-            "Greater Toronto Area, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Jerry",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Revionics",
-        "id": "9873b7c9-836b-4c1f-ac5a-d2e1bd8eb06b",
-        "title": "Machine Learning Engineer \u2013 New Graduate",
-        "active": false,
-        "date_updated": 1761840103,
-        "date_posted": 1761005407,
-        "url": "https://revionics.com/about/careers/open-jobs?gh_jid=7172125",
-        "locations": [
-            "Austin, TX",
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Revionics",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Jerry",
         "id": "7a67807d-c3f0-4885-a552-930c812bb0da",
         "title": "Software Engineer 1 - Multiple Teams",
         "active": false,
@@ -292640,7 +292600,7 @@
         "company_name": "Glean",
         "id": "67b134e0-653d-4b37-bc63-6df9e5585e40",
         "title": "Software Engineer New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1778106690,
         "date_posted": 1778105806,
         "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4592324005",
@@ -333488,7 +333448,7 @@
         "company_name": "Anduril",
         "id": "0a20816a-d18d-455c-9e1d-fe6a126bb513",
         "title": "Product Operations Associate - Tier 1",
-        "active": true,
+        "active": false,
         "date_updated": 1780622132,
         "date_posted": 1774574788,
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/5081383007",
@@ -351542,7 +351502,7 @@
         "company_name": "Scotch",
         "id": "bf6b46fc-b4a0-4b9a-ad6c-79e9d4fbd6e7",
         "title": "Point of Sale Installation Technician - Point of Sale - Installation Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1781677030,
         "date_posted": 1781676366,
         "url": "https://job-boards.greenhouse.io/scotch/jobs/5266126008",
@@ -351971,7 +351931,7 @@
         "company_name": "Graphcore",
         "id": "2dc14ab8-95c7-488b-8e78-70a1d6d5f26a",
         "title": "Electronics Laboratory Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1781677010,
         "date_posted": 1781639427,
         "url": "https://job-boards.greenhouse.io/graphcore/jobs/8570813002",
@@ -352728,5 +352688,141 @@
             "Master's",
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CAE",
+        "id": "774b0fcc-b7d3-460c-a425-b2ee55fa0c0d",
+        "title": "Hiring Event",
+        "active": true,
+        "date_updated": 1781736572,
+        "date_posted": 1781734171,
+        "url": "https://cae.wd3.myworkdayjobs.com/career/job/Binghamton-NY/CAE-USA-Hiring-Event---Binghamton--NY_122474",
+        "locations": [
+            "Binghamton, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/CAE",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Citi",
+        "id": "105f8066-04a5-42b7-98c6-c39192e98103",
+        "title": "Application Development Intermediate Programmer Analyst",
+        "active": true,
+        "date_updated": 1781735221,
+        "date_posted": 1781734512,
+        "url": "https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Apps-Dev-Intmd-Programmer-Analyst---C11---NEW-YORK_26968442",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Citigroup",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "AIG",
+        "id": "871ab4e8-ce93-406f-8cd9-691532d6960b",
+        "title": "Data Engineering Senior Manager",
+        "active": true,
+        "date_updated": 1781736246,
+        "date_posted": 1781733875,
+        "url": "https://aig.wd1.myworkdayjobs.com/aig/job/NJ-Jersey-City/Senior-Manager---Data-Engineering_JR2602637-1",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/AIG",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Comcast",
+        "id": "814bda03-4454-45e2-835a-dd6f377b6b6d",
+        "title": "Data Scientist",
+        "active": true,
+        "date_updated": 1781736661,
+        "date_posted": 1781734396,
+        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Data-Scientist_R439304",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Comcast",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Scientific Research Corporation",
+        "id": "7eaacdbf-2298-43ea-9c3f-9995dcc0cd1d",
+        "title": "Engineering Technician",
+        "active": true,
+        "date_updated": 1781736661,
+        "date_posted": 1781734257,
+        "url": "https://careers-scires.icims.com/jobs/11294/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "North Charleston, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/Scientific-Research-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TD Bank",
+        "id": "20bfb83c-0e76-4623-bc05-76177705dcab",
+        "title": "Software Engineer 1 - Java/JSP/Springboot",
+        "active": true,
+        "date_updated": 1781736431,
+        "date_posted": 1781734038,
+        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-I---Java-JSP-SpringBoot_R_1493868",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/TD-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Maven Securities",
+        "id": "bdf54397-156a-4f4b-b134-c0c4873f07e6",
+        "title": "Junior Floor Trader",
+        "active": true,
+        "date_updated": 1781736165,
+        "date_posted": 1781101088,
+        "url": "https://job-boards.greenhouse.io/emergingtalent/jobs/7966655",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Maven-Securities",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
