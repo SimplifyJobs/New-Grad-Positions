@@ -1,25 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Jerry",
-        "id": "7a67807d-c3f0-4885-a552-930c812bb0da",
-        "title": "Software Engineer 1 - Multiple Teams",
-        "active": false,
-        "date_updated": 1761029265,
-        "date_posted": 1761029265,
-        "url": "https://jobs.ashbyhq.com/jerry.ai/6f0c0817-8062-4c4f-8b45-b495993b7037/application",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Jerry",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "date_updated": 1761553228,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": false,
@@ -347475,7 +347455,7 @@
         "company_name": "Vermont Information Processing",
         "id": "b8c86556-fd0a-4314-a2c6-321f89f7d641",
         "title": "Product Marketing Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1781418364,
         "date_posted": 1781302996,
         "url": "https://job-boards.greenhouse.io/vipvermontinformationprocessing2/jobs/5163430007",
@@ -350361,7 +350341,7 @@
         "company_name": "Truist Bank",
         "id": "b22774be-de7f-4d3e-871a-698856c0dca6",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1781646646,
         "date_posted": 1781639087,
         "url": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Raleigh-NC/Associate-Software-Engineer_R0115845",
@@ -353554,6 +353534,27 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Microsoft",
+        "id": "a6ab1df3-86d8-42bb-b220-97ec8c92cba2",
+        "title": "Software Engineer - Ctj - Poly",
+        "active": true,
+        "date_updated": 1781763081,
+        "date_posted": 1781762785,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
+        "locations": [
+            "Annapolis Junction, MD",
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Microsoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
