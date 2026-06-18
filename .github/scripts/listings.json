@@ -324251,7 +324251,7 @@
         "company_name": "ERM",
         "id": "d5c57bdf-b9e1-440f-8906-3392996a41e1",
         "title": "Consulting Associate - Site Investigation and Remediation Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1780277736,
         "date_posted": 1780139365,
         "url": "https://erm.wd3.myworkdayjobs.com/ERM_Careers/job/St-Louis-Missouri/Consulting-Associate--Site-Investigation-and-Remediation-Technician_R00030405-1",
@@ -344965,7 +344965,7 @@
         "company_name": "GE Healthcare",
         "id": "be43ff91-9943-4a01-a2c4-622e32f55495",
         "title": "Field Service Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1781226781,
         "date_posted": 1781226497,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1_R4042117-1",
@@ -353614,6 +353614,46 @@
             "Albuquerque, NM"
         ],
         "company_url": "https://simplify.jobs/c/AeroVironment",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Nightwing Intelligence Solutions",
+        "id": "9b41dc89-278f-49b2-9445-208d05b10583",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1781775901,
+        "date_posted": 1778943692,
+        "url": "https://nwis.wd12.myworkdayjobs.com/NW/job/Annapolis-Junction-MD/Software-Engineer-1_JR100150",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Nightwing-Intelligence-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Alation",
+        "id": "b089b7c7-0a74-400e-a1bc-507c63dd4f61",
+        "title": "UX Software Engineer 1",
+        "active": true,
+        "date_updated": 1781776749,
+        "date_posted": 1778941642,
+        "url": "https://alation.wd503.myworkdayjobs.com/ExternalSite/job/USA-CA-REDWOOD-CITY/UX-Engineer-Intern--Applied-AI_R10000689",
+        "locations": [
+            "San Carlos, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Alation",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
