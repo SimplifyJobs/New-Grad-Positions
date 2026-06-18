@@ -3187,7 +3187,7 @@
         "company_name": "Graphcore",
         "id": "2a8dc926-14c4-469a-a90b-89ad57e7fc6f",
         "title": "2026 Graduate Software Engineer - Kernel Engineering Team",
-        "active": true,
+        "active": false,
         "date_updated": 1762274143,
         "date_posted": 1762274143,
         "url": "https://job-boards.greenhouse.io/graphcore/jobs/8230202002",
@@ -333789,7 +333789,7 @@
         "company_name": "Cambria",
         "id": "632f88f9-5a99-4ab9-b2cc-8e6a66eeab59",
         "title": "Salesforce Support Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1780697161,
         "date_posted": 1780697145,
         "url": "https://cambria.wd1.myworkdayjobs.com/cambria_careers/job/Eden-Prairie-MN/Salesforce-Support-Associate_R-103173",
@@ -338216,7 +338216,7 @@
         "company_name": "RTX",
         "id": "7db737f1-b67f-477e-a5a6-94674263ada3",
         "title": "Semiconductor Equipment Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1781015182,
         "date_posted": 1781014588,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-ANDOVER-AR2--362-Lowell-St--AR2-PLYMOUTH-BLDG/Semiconductor-Equipment-Engineer_01851347",
@@ -353834,5 +353834,48 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CoStar Group",
+        "id": "2bc5a205-56bd-4f78-b7b0-f67a68066540",
+        "title": "Associate Research Consultant",
+        "active": true,
+        "date_updated": 1781772425,
+        "date_posted": 1781360965,
+        "url": "https://costar.wd1.myworkdayjobs.com/en-US/CoStarCareers/job/UK-London/Associate-Research-Consultant--CoStar---London_R38556",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/CoStar",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Teamworks",
+        "id": "9716a16a-957e-4b0b-808d-978e71b50ae5",
+        "title": "Data Engineer 1",
+        "active": true,
+        "date_updated": 1781775190,
+        "date_posted": 1780351704,
+        "url": "https://jobs.ashbyhq.com/teamworks/317433d0-072d-40ac-822f-0e268fa6b4c3/application",
+        "locations": [
+            "North Carolina"
+        ],
+        "company_url": "https://simplify.jobs/c/Teamworks",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "PhD"
+        ]
     }
 ]
