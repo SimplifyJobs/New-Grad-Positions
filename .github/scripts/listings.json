@@ -240158,7 +240158,7 @@
         "company_name": "Adobe",
         "id": "4ecf87ec-1b44-44fa-a19a-7f1bb05e51ae",
         "title": "Software Development Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1775004841,
         "date_posted": 1774994969,
         "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Software-Development-Engineer_R166829",
@@ -333412,7 +333412,7 @@
         "company_name": "Anduril",
         "id": "0a20816a-d18d-455c-9e1d-fe6a126bb513",
         "title": "Product Operations Associate - Tier 1",
-        "active": false,
+        "active": true,
         "date_updated": 1780622132,
         "date_posted": 1774574788,
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/5081383007",
@@ -352501,7 +352501,7 @@
         "company_name": "NOV",
         "id": "0f9a7a79-ef2b-4618-a3e6-ceafb07b18e2",
         "title": "Service Technician - Downhole Tools - Tool Training",
-        "active": true,
+        "active": false,
         "date_updated": 1781736661,
         "date_posted": 1781734276,
         "url": "https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/41659",
@@ -352777,7 +352777,7 @@
         "company_name": "Maven Securities",
         "id": "bdf54397-156a-4f4b-b134-c0c4873f07e6",
         "title": "Junior Floor Trader",
-        "active": true,
+        "active": false,
         "date_updated": 1781736165,
         "date_posted": 1781101088,
         "url": "https://job-boards.greenhouse.io/emergingtalent/jobs/7966655",
@@ -353006,6 +353006,121 @@
         "sponsorship": "Other",
         "degrees": [
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Leidos",
+        "id": "604e6a3b-69cc-4064-be2a-c231a96870e0",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1781736771,
+        "date_posted": 1781734302,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Software-Engineer_R-00185662",
+        "locations": [
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Aramark",
+        "id": "94f591a5-8fed-4828-afc4-266fe958ac28",
+        "title": "Barista",
+        "active": true,
+        "date_updated": 1781745508,
+        "date_posted": 1781744752,
+        "url": "https://aramarkcareers.com/UnitedStates/job/Overland-Park-Barista-Shamrock-Trading-Corporation-KS-66212/1401010700/?ats=successfactors",
+        "locations": [
+            "Overland Park, KS"
+        ],
+        "company_url": "https://simplify.jobs/c/Aramark",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "William & Mary",
+        "id": "f8e59619-a702-4946-92d6-7050ae4fda63",
+        "title": "HR Solutions Center Coordinator and Data Analyst",
+        "active": true,
+        "date_updated": 1781735941,
+        "date_posted": 1781734135,
+        "url": "https://williammary.wd12.myworkdayjobs.com/WM/job/Posting-Location---William--Mary/HR-Solutions-Center-Coordinator-and-Data-Analyst_JR101839",
+        "locations": [
+            "Williamsburg, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/William-And-Mary",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "iHerb",
+        "id": "8b48207a-f7fb-4439-b0af-65ee44800451",
+        "title": "RPA Developer 1",
+        "active": true,
+        "date_updated": 1781745841,
+        "date_posted": 1781745736,
+        "url": "https://job-boards.greenhouse.io/iherb/jobs/7643037003",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/IHerb",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "FOX",
+        "id": "2795dd6e-18a3-4330-a9bc-8d04975c0b44",
+        "title": "Analyst \u2013 Programmatic Yield",
+        "active": true,
+        "date_updated": 1781736661,
+        "date_posted": 1781734436,
+        "url": "https://fox.wd1.myworkdayjobs.com/Domestic/job/New-York-New-York-USA/Analyst--Programmatic-Yield_R50032877",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/FOX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Newell Brands",
+        "id": "00dea79d-a99b-4b51-9373-02b22d16cba2",
+        "title": "Associate Product Engineer - Home Fragrance",
+        "active": true,
+        "date_updated": 1781735941,
+        "date_posted": 1781734231,
+        "url": "https://jobs.newellbrands.com/job/South-Deerfield-Associate-Product-Engineer,-Home-Fragrance-Mass/1400762300/?ats=successfactors",
+        "locations": [
+            "Amherst, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Newell-Brands",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
