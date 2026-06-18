@@ -247842,7 +247842,7 @@
         "company_name": "Applied Materials",
         "id": "ea8a3e2f-ee56-4534-9227-c86fdd328f5d",
         "title": "Global Product Support Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1775301481,
         "date_posted": 1775299441,
         "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Global-Product-Support-Engineer--Early-in-Career-_R2615694",
@@ -315805,7 +315805,7 @@
         "company_name": "The Boeing Company",
         "id": "75f5cfec-2bd6-40e2-8622-a4724c94d1b1",
         "title": "Flight Simulation Software Engineer Senior",
-        "active": true,
+        "active": false,
         "date_updated": 1779822541,
         "date_posted": 1779529236,
         "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Daytona-Beach-FL/Flight-Simulation-Software-Engineer--Associate--Experienced--and-Senior-_JR2026510755",
@@ -317884,7 +317884,7 @@
         "company_name": "The Boeing Company",
         "id": "968fba0a-94e9-46b9-b3e8-2b92069059af",
         "title": "Flight Simulation Software Engineer Senior",
-        "active": true,
+        "active": false,
         "date_updated": 1779822541,
         "date_posted": 1779529222,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Daytona-Beach-FL/Flight-Simulation-Software-Engineer--Associate--Experienced--and-Senior-_JR2026510755-1",
@@ -331150,7 +331150,7 @@
         "company_name": "General Dynamics",
         "id": "9b7dc29d-a4ca-40f4-860b-013dd638eac2",
         "title": "Embedded Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1780525735,
         "date_posted": 1780524583,
         "url": "https://careers-gdeb.icims.com/jobs/17731/job?mobile=true&needsRedirect=false",
@@ -334160,7 +334160,7 @@
         "company_name": "GXO Logistics",
         "id": "712fa6f0-d617-4251-a0f6-e89ae2973a2b",
         "title": "Business Intelligence Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1780697525,
         "date_posted": 1780697337,
         "url": "https://jobs.gxo.com/job/Union-City-Business-Intelligence-Engineer-1st-Shift-GA-30291-5200/1384699900/?ats=successfactors",
@@ -348106,7 +348106,7 @@
         "company_name": "Cisco",
         "id": "6fb0e2ea-dabd-4c75-8ad3-7a7c830656fb",
         "title": "Software Engineer Embedded/Network Systems 1",
-        "active": true,
+        "active": false,
         "date_updated": 1781645722,
         "date_posted": 1781638938,
         "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Embedded-Network-Systems-I--Full-Time----United-States_2000081",
@@ -348179,7 +348179,7 @@
         "company_name": "Cisco",
         "id": "b79ef152-7b8b-42ee-8bba-e1cd8098d777",
         "title": "Software Engineer Backend/Platform Systems 1",
-        "active": true,
+        "active": false,
         "date_updated": 1781645703,
         "date_posted": 1781638936,
         "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Backend-Platform-Systems-I--Full-Time----United-States_2000046",
@@ -353558,6 +353558,26 @@
         "degrees": [
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Kaiser Permanente",
+        "id": "4ad803af-97f1-41fb-854f-98f5214a00c2",
+        "title": "R Python Programmer / Data Scientist - Epidemiologic Research",
+        "active": true,
+        "date_updated": 1781762941,
+        "date_posted": 1781762889,
+        "url": "https://kp.taleo.net/careersection/external/jobdetail.ftl?job=1388636",
+        "locations": [
+            "California"
+        ],
+        "company_url": "https://simplify.jobs/c/Kaiser-Permanente",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
