@@ -281013,7 +281013,7 @@
         "company_name": "Civis Analytics",
         "id": "041e7acb-b3b1-4d6b-8181-c1b03a0fe8f7",
         "title": "Applied Data Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1777331341,
         "date_posted": 1777331261,
         "url": "https://job-boards.greenhouse.io/civisanalytics/jobs/7858970",
@@ -318228,7 +318228,7 @@
         "company_name": "LexisNexis Risk Solutions",
         "id": "f7292aa6-7328-4d24-92dd-1c877cb86dce",
         "title": "Solutions Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1779876631,
         "date_posted": 1778922100,
         "url": "https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/United-Kingdom/Solutions-Analyst_R109322",
@@ -331397,7 +331397,7 @@
         "company_name": "Reach Financial",
         "id": "39349736-2696-42cf-9e4b-deaf9d2b3246",
         "title": "Credit Risk Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1780526126,
         "date_posted": 1780525423,
         "url": "https://job-boards.greenhouse.io/reach/jobs/8573228002",
@@ -345285,7 +345285,7 @@
         "company_name": "Charles Schwab",
         "id": "975deef6-2f5e-44a1-a6e7-38672d9531d4",
         "title": "International Trader Service Specialist - Trader Service - International Client Services",
-        "active": true,
+        "active": false,
         "date_updated": 1781255784,
         "date_posted": 1780351676,
         "url": "https://career-schwab.icims.com/jobs/121940/job?mobile=true&needsRedirect=false",
@@ -348080,7 +348080,7 @@
         "company_name": "EPIC Insurance Brokers & Consultants",
         "id": "3a9edbd2-f846-4e4b-bde5-20faac386bfa",
         "title": "Product & Case Design Coordinator - Life Insurance",
-        "active": true,
+        "active": false,
         "date_updated": 1781642284,
         "date_posted": 1780611314,
         "url": "https://job-boards.greenhouse.io/edgewoodpartnersinsurancecenter/jobs/8573885002",
@@ -351145,7 +351145,7 @@
         "company_name": "EPIC Insurance Brokers & Consultants",
         "id": "057fae01-8423-44ae-86bc-3cb6e07909f9",
         "title": "Product & Case Design Coordinator - Life Insurance",
-        "active": true,
+        "active": false,
         "date_updated": 1781659361,
         "date_posted": 1781639792,
         "url": "https://job-boards.greenhouse.io/edgewoodpartnersinsurancecenter/jobs/8594287002",
@@ -353117,6 +353117,456 @@
             "Amherst, MA"
         ],
         "company_url": "https://simplify.jobs/c/Newell-Brands",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Citi",
+        "id": "84fa0a5f-8366-48f2-9718-6823090c9978",
+        "title": "Digital Software Engineering Intern",
+        "active": true,
+        "date_updated": 1781736025,
+        "date_posted": 1781734512,
+        "url": "https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Digital-S-W-Engineer-Intm-Analyst-Officer--Irving-_26956642",
+        "locations": [
+            "Irving, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Citigroup",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Memorial Sloan Kettering Cancer Center",
+        "id": "82f2dfc3-f4e9-49c9-812d-bc91c57e302c",
+        "title": "Application Analyst 1 - Epic Healthy Planet",
+        "active": true,
+        "date_updated": 1781736324,
+        "date_posted": 1781733946,
+        "url": "https://msk.wd108.myworkdayjobs.com/MSKCC_Careers_Primary/job/New-York-NY/Application-Analyst-I---Epic-Healthy-Planet_99542",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Memorial-Sloan-Kettering-Cancer-Center",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Hewlett Packard (HP)",
+        "id": "4710d907-886e-410b-837e-6d5ee10e37cd",
+        "title": "Embedded Software Engineer",
+        "active": true,
+        "date_updated": 1781735221,
+        "date_posted": 1781734484,
+        "url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Vancouver-Washington-United-States-of-America/Embedded-Software-Engineer_3162790",
+        "locations": [
+            "Vancouver, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Carrier Global",
+        "id": "2dc61fa2-83ae-4802-a730-ece7b248fe5f",
+        "title": "Senior Engineer-Engineering Services",
+        "active": true,
+        "date_updated": 1781735221,
+        "date_posted": 1781734480,
+        "url": "https://carrier.wd5.myworkdayjobs.com/jobs/job/CAN01-Carrier-Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/Senior-Engineer-Engineering-Services_30208224",
+        "locations": [
+            "Syracuse, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Carrier-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Datalab USA",
+        "id": "ebc85430-6db3-4aec-b94c-f1a42c8f21e8",
+        "title": "Production Programmer \u2013 Entry Level SQL Developer",
+        "active": true,
+        "date_updated": 1781735941,
+        "date_posted": 1781734055,
+        "url": "https://jobs.lever.co/datalabusa/b36ba5ac-4247-4d90-ac90-6df3e9d46885/apply",
+        "locations": [
+            "Germantown, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Datalab-USA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Penn Interactive",
+        "id": "fa00cf35-c9a2-4fd8-8bcf-5ebf925950b9",
+        "title": "Associate Sportsbook Trader",
+        "active": true,
+        "date_updated": 1781736661,
+        "date_posted": 1781734342,
+        "url": "https://job-boards.greenhouse.io/penninteractive/jobs/6092878004",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/PennInteractive",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Elekta",
+        "id": "c153d8b0-b6ce-4a32-989e-4c563b8bf8d0",
+        "title": "Associate Field Service Engineer",
+        "active": true,
+        "date_updated": 1781735941,
+        "date_posted": 1781734206,
+        "url": "https://elekta.wd3.myworkdayjobs.com/Elekta_Careers/job/Washington--Home-Based/Associate-Field-Service-Engineer---Spokane--WA-_R2026-0850",
+        "locations": [
+            "Spokane, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Elekta",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Westinghouse Electric Company",
+        "id": "8fc67d26-2ff6-480b-8bd5-1581415fe9ca",
+        "title": "Probabilistic Risk Assessment Engineer 1",
+        "active": true,
+        "date_updated": 1781736672,
+        "date_posted": 1781734258,
+        "url": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Probabilistic-Risk-Assessment-Engineer-I-NC/1400909900/?ats=successfactors",
+        "locations": [
+            "Grove City, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Westinghouse-Electric-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "CoreWeave",
+        "id": "894b5088-9ef1-416c-b724-d1ce831d0142",
+        "title": "Data Center Technician",
+        "active": true,
+        "date_updated": 1781735941,
+        "date_posted": 1781734232,
+        "url": "https://coreweave.com/careers/job?4689986006&board=coreweave&gh_jid=4689986006",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/CoreWeave",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Serve Robotics",
+        "id": "881769fb-a766-44e8-8a5c-73db94d63c4d",
+        "title": "Service Technician 1",
+        "active": true,
+        "date_updated": 1781736856,
+        "date_posted": 1781734331,
+        "url": "https://jobs.ashbyhq.com/serverobotics/ccd73eb1-a418-40b0-8b19-cdead50420ad/application",
+        "locations": [
+            "North Hollywood, LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Serve-Robotics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Medtronic",
+        "id": "86498724-a3d4-4ac6-9775-bb41eb7fff51",
+        "title": "Software Engineer 1 - Cardiac Rhythm Management",
+        "active": true,
+        "date_updated": 1781735636,
+        "date_posted": 1781734460,
+        "url": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Minneapolis-Minnesota-United-States-of-America/Software-Engineer-I--CRM_R68749",
+        "locations": [
+            "Blaine, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Medtronic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Toyota",
+        "id": "6aa802bc-a852-475f-8502-a8e56befd42b",
+        "title": "Software Engineer \u2013 Early Career Professional",
+        "active": true,
+        "date_updated": 1781735941,
+        "date_posted": 1781734016,
+        "url": "https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Software-Engineer--Early-Career-Professional-_10325075",
+        "locations": [
+            "Plano, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Toyota",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Bootcamp"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "General Dynamics Mission Systems",
+        "id": "6426ba42-ffa6-44f9-878c-a24a507364a2",
+        "title": "Entry Level Software Engineer",
+        "active": true,
+        "date_updated": 1781736258,
+        "date_posted": 1781733882,
+        "url": "https://careers-gdms.icims.com/jobs/73178/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Penn Interactive",
+        "id": "4bd08f93-9b49-4e07-b0a7-8250cfeba213",
+        "title": "Associate Sportsbook Trader",
+        "active": true,
+        "date_updated": 1781736661,
+        "date_posted": 1781734342,
+        "url": "https://job-boards.greenhouse.io/penninteractive/jobs/6092892004",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/PennInteractive",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Jabil",
+        "id": "2bf32c41-4000-4f78-aecb-1d2e95676eb4",
+        "title": "Conversions Rework Operator",
+        "active": true,
+        "date_updated": 1781736564,
+        "date_posted": 1781734171,
+        "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Florence-KY/CVG200-Conversions-Rework-Operator---402_J2454242",
+        "locations": [
+            "Florence, KY"
+        ],
+        "company_url": "https://simplify.jobs/c/Jabil",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Penn Interactive",
+        "id": "ea398e56-a779-4520-9465-1344e0df344e",
+        "title": "Associate Sportsbook Trader",
+        "active": true,
+        "date_updated": 1781736661,
+        "date_posted": 1781734343,
+        "url": "https://job-boards.greenhouse.io/penninteractive/jobs/6092861004",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/PennInteractive",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Autodesk",
+        "id": "ced543e3-cec8-4de8-bd15-70c8ca45cc52",
+        "title": "Mobile Software Developer",
+        "active": true,
+        "date_updated": 1781735941,
+        "date_posted": 1781733804,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/uni/job/AMER---Canada---British-Columbia---Vancouver---Bentall-Centre/Mobile-Software-Developer_26WD97481-2",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Autodesk",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Bootcamp"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Cantor Fitzgerald",
+        "id": "8a89ca48-42b4-47dc-9ac3-d5a61d53588f",
+        "title": "Associate Machine Learning Engineer",
+        "active": true,
+        "date_updated": 1781736723,
+        "date_posted": 1781733745,
+        "url": "https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/248975",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Cantor-Fitzgerald",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "MedImpact",
+        "id": "2af8cb22-829c-4e04-baef-e8e9657aeb03",
+        "title": "Full Stack Software Engineer 1",
+        "active": true,
+        "date_updated": 1781736732,
+        "date_posted": 1781733708,
+        "url": "https://medimpact.wd5.myworkdayjobs.com/medimpact/job/San-Diego-CA/Software-Engineer-I_JR102576",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/MedImpact",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "General Dynamics Mission Systems",
+        "id": "280a5e49-0e6a-44c9-bbe7-2ef6ea19b941",
+        "title": "Entry Level Software Engineer",
+        "active": true,
+        "date_updated": 1781735941,
+        "date_posted": 1781733884,
+        "url": "https://careers-gdms.icims.com/jobs/73179/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northrop Grumman",
+        "id": "2338ff56-ab16-42f0-8584-e0436ac3674d",
+        "title": "Associate Embedded Software Engineer",
+        "active": true,
+        "date_updated": 1781735655,
+        "date_posted": 1781734476,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2026-Associate-Embedded-Software-Engineer---Rolling-Meadows-IL_R10236717",
+        "locations": [
+            "Palatine, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Penn Interactive",
+        "id": "0d5230cc-8c0a-4c11-ba97-dc4d4896641c",
+        "title": "Associate Sportsbook Trader",
+        "active": true,
+        "date_updated": 1781736661,
+        "date_posted": 1781734341,
+        "url": "https://job-boards.greenhouse.io/penninteractive/jobs/6092983004",
+        "locations": [
+            "Remote in UK"
+        ],
+        "company_url": "https://simplify.jobs/c/PennInteractive",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "ASSA ABLOY",
+        "id": "7f57f770-6fcc-4c95-bbbb-cd6b8a838908",
+        "title": "Associate Firmware Engineer",
+        "active": true,
+        "date_updated": 1781735221,
+        "date_posted": 1779228351,
+        "url": "https://assaabloy.jobs2web.com/job/Cypress-Associate-Firmware-Engineer-CA-90630/1395211233/?ats=successfactors",
+        "locations": [
+            "Cypress, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ASSA-ABLOY",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
