@@ -324027,7 +324027,7 @@
         "company_name": "Leidos",
         "id": "c2ced759-415c-4430-971e-4945e24dcfcc",
         "title": "Electronics Mechanical Assembly Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1780275161,
         "date_posted": 1780134819,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Electronics-Mechanical-Assembly-Technician_R-00182031",
@@ -324083,7 +324083,7 @@
         "company_name": "Brink",
         "id": "a999a49c-402d-44ce-b35b-d60c89144761",
         "title": "ATM Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1780274470,
         "date_posted": 1780131751,
         "url": "https://brinks.wd5.myworkdayjobs.com/brinkscareersus/job/Baton-Rouge-LA/ATM-Technician_R72782",
@@ -345310,7 +345310,7 @@
         "company_name": "Stanley Black & Decker",
         "id": "a44ee013-aadd-4835-86ab-75fe3e9b47b0",
         "title": "Engineering Technician - Electrical",
-        "active": true,
+        "active": false,
         "date_updated": 1781257184,
         "date_posted": 1781215466,
         "url": "https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Valley-City-OH-United-States/Engineering-Technician--Electrical_REQ-1000048988",
@@ -345330,7 +345330,7 @@
         "company_name": "University of Maryland - College Park",
         "id": "aded84fb-4d21-4dae-b6fc-4ee782d8a5ec",
         "title": "Post Doctoral Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1781257358,
         "date_posted": 1781257150,
         "url": "https://umd.wd1.myworkdayjobs.com/UMCP/job/University-of-Maryland-College-Park/Post-Doctoral-Associate_JR101922",
@@ -353598,6 +353598,26 @@
         "sponsorship": "Other",
         "degrees": [
             "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "AeroVironment",
+        "id": "aeba307b-a933-4edb-a7ea-55fa39b926cc",
+        "title": "FPGA Engineer",
+        "active": true,
+        "date_updated": 1781776621,
+        "date_posted": 1781361270,
+        "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/1300-Britt-Street-Southeast-Albuquerque-NM/FPGA-Engineer_7801",
+        "locations": [
+            "Albuquerque, NM"
+        ],
+        "company_url": "https://simplify.jobs/c/AeroVironment",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
