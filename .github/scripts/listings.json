@@ -49990,7 +49990,7 @@
         "company_name": "Cisco",
         "id": "c19579ac-cc84-4455-96e5-f56733ea0be3",
         "title": "Software Engineer Backend/Platform Systems 1",
-        "active": true,
+        "active": false,
         "date_updated": 1763664376,
         "date_posted": 1763664376,
         "url": "https://careers.cisco.com/global/en/job/2000046",
@@ -216953,7 +216953,7 @@
         "company_name": "University of Arkansas",
         "id": "fdb28bed-d2e6-44f2-b305-6599d8d12c2f",
         "title": "Cosmos Extra Help Assistant 1",
-        "active": false,
+        "active": true,
         "date_updated": 1773786839,
         "date_posted": 1773786839,
         "url": "https://uasys.wd5.myworkdayjobs.com/uasys/job/Little-Rock/COSMOS---Extra-Help-Assistant-I_R0082208-1",
@@ -273593,7 +273593,7 @@
         "company_name": "Applied Materials",
         "id": "f41272f9-0120-450f-abf0-a8d6cbd6d49d",
         "title": "AI Algorithm Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1776768714,
         "date_posted": 1776523223,
         "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/AI-Algorithm-Developer_R2519827",
@@ -317312,7 +317312,7 @@
         "company_name": "QBE Insurance",
         "id": "f85183dd-d240-40a5-911a-6716225ee702",
         "title": "Product Wordings Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1779876961,
         "date_posted": 1778922850,
         "url": "https://qbe.wd3.myworkdayjobs.com/qbe-careers/job/Dusseldorf-Germany/Product-Wordings-Specialist_350391",
@@ -323043,7 +323043,7 @@
         "company_name": "Howden",
         "id": "ed0cdea7-60b4-4ecf-84ec-32fc477a3b7e",
         "title": "Pricing Graduate",
-        "active": false,
+        "active": true,
         "date_updated": 1779961225,
         "date_posted": 1779959682,
         "url": "https://hyperiongrp.wd3.myworkdayjobs.com/Hyperion_External/job/Pricing-Graduate_R0015065-1",
@@ -334726,7 +334726,7 @@
         "company_name": "Abbott",
         "id": "ebcf495e-ffc8-41a2-9ced-68da1c5801e4",
         "title": "Design to Cost Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1780747642,
         "date_posted": 1780740902,
         "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---Illinois---Abbott-Park/Design-to-Cost-Engineer_31149181",
@@ -345413,7 +345413,7 @@
         "company_name": "Cengage Group",
         "id": "f68544e5-012b-4bcb-9751-3ae517d746a5",
         "title": "Associate Vocabulary Editor",
-        "active": true,
+        "active": false,
         "date_updated": 1781259675,
         "date_posted": 1781042909,
         "url": "https://cengage.wd5.myworkdayjobs.com/en-US/CengageNorthAmericaCareers/job/California-USA/Associate-Vocabulary-Editor--Remote-_R2026-622",
@@ -352062,7 +352062,7 @@
         "company_name": "TNS",
         "id": "ea1f463a-9109-479d-bf72-f63fc9135ef4",
         "title": "Risk Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1781706624,
         "date_posted": 1781361097,
         "url": "https://tnsi.wd1.myworkdayjobs.com/Search/job/GBR---London/Risk-Manager_R2803",
@@ -353578,6 +353578,26 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GE Healthcare",
+        "id": "dfa85167-97c6-4ac9-86f9-6fd4698843bf",
+        "title": "Field Service Engineer 1",
+        "active": true,
+        "date_updated": 1781777910,
+        "date_posted": 1781658513,
+        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer-I---Joplin--MO_R4042292-1",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Healthcare",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
         ]
     }
 ]
