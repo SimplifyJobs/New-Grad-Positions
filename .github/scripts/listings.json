@@ -309140,7 +309140,7 @@
         "company_name": "KeyBank",
         "id": "dfa9e382-4f4f-47fa-bfde-f5ddd445ad6d",
         "title": "Analyst Trader - FX Trading",
-        "active": true,
+        "active": false,
         "date_updated": 1779402469,
         "date_posted": 1779401148,
         "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Cleveland-OH/Analyst-Trader--FX-Trading_R-39790",
@@ -323203,7 +323203,7 @@
         "company_name": "Liberis",
         "id": "ca0028f3-ad0e-4830-bee0-cde8d97928fd",
         "title": "Product Operations Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1779960513,
         "date_posted": 1779959475,
         "url": "https://job-boards.greenhouse.io/liberis/jobs/7962565",
@@ -348913,7 +348913,7 @@
         "company_name": "Northrop Grumman",
         "id": "bd19c808-98e2-4a75-baf2-b37e02b87d89",
         "title": "IT Asset Management Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1781647580,
         "date_posted": 1781639452,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/IT-Asset-Management-Analyst---Secret_R10236102",
@@ -353555,6 +353555,27 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Applied Materials",
+        "id": "01d6602a-2166-4774-a0ad-32e0b28fd5d2",
+        "title": "Lab Software Engineer",
+        "active": true,
+        "date_updated": 1781763479,
+        "date_posted": 1781762728,
+        "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Epic-Lab-Software-Engineer--NCG---Master-s-PhD-_R2622219",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Materials",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
         ]
     }
 ]
