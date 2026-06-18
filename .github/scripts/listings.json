@@ -50837,7 +50837,7 @@
         "company_name": "Cisco",
         "id": "aec98da3-3097-4a36-b643-d8a76173f735",
         "title": "Software Engineer Embedded/Network Systems 1",
-        "active": true,
+        "active": false,
         "date_updated": 1763664386,
         "date_posted": 1763664386,
         "url": "https://careers.cisco.com/global/en/job/2000081",
@@ -315705,7 +315705,7 @@
         "company_name": "Elekta",
         "id": "2bef8297-48c9-430d-a0a8-4aa0694f67bf",
         "title": "Associate Field Service Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1779819398,
         "date_posted": 1776895743,
         "url": "https://elekta.wd3.myworkdayjobs.com/Elekta_Careers/job/Louisiana--Home-Based/Associate-Field-Service-Engineer_R2026-0169",
@@ -318152,7 +318152,7 @@
         "company_name": "LexisNexis Risk Solutions",
         "id": "f7292aa6-7328-4d24-92dd-1c877cb86dce",
         "title": "Solutions Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1779876631,
         "date_posted": 1778922100,
         "url": "https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/United-Kingdom/Solutions-Analyst_R109322",
@@ -318172,7 +318172,7 @@
         "company_name": "Marsh",
         "id": "e68aac58-7bc4-4d3f-95cc-01647aad689d",
         "title": "Data & Analytics Analyst - Data & Analytics Consulting",
-        "active": true,
+        "active": false,
         "date_updated": 1779876578,
         "date_posted": 1778940330,
         "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/Berlin---Mittelstrasse/Oliver-Wyman---Data---Analytics-Consulting---Analyst--m-f-d----Berlin_R_326123-1",
@@ -323185,7 +323185,7 @@
         "company_name": "Liberis",
         "id": "ca0028f3-ad0e-4830-bee0-cde8d97928fd",
         "title": "Product Operations Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1779960513,
         "date_posted": 1779959475,
         "url": "https://job-boards.greenhouse.io/liberis/jobs/7962565",
@@ -329920,7 +329920,7 @@
         "company_name": "Man Group",
         "id": "acff606b-e6f8-4ebb-aceb-9716d4335bd2",
         "title": "Research Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1780478821,
         "date_posted": 1776474425,
         "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4844286101",
@@ -333565,7 +333565,7 @@
         "company_name": "Cubic",
         "id": "94e301ae-69ea-4c12-a139-32f8e05f9d21",
         "title": "Field Services Technician 2",
-        "active": false,
+        "active": true,
         "date_updated": 1780652126,
         "date_posted": 1780136891,
         "url": "https://cubic.wd1.myworkdayjobs.com/cubic_global_careers/job/United-Kingdom---Remote/Field-Services-Technician-2_REQ_47828",
@@ -345816,7 +345816,7 @@
         "company_name": "Marsh & McLennan",
         "id": "dcdce5d3-1b82-4cca-8c5e-5f72d69ef940",
         "title": "Product Analyst - Insurance",
-        "active": true,
+        "active": false,
         "date_updated": 1781301859,
         "date_posted": 1781301779,
         "url": "https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Malvern---Lancaster/Product-Analyst_R_319429",
@@ -353877,5 +353877,62 @@
             "MBA",
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Atlas Energy Solutions",
+        "id": "3d368048-e329-4632-9100-f86205ea53a9",
+        "title": "Electrical Panel Assembly Technician",
+        "active": true,
+        "date_updated": 1781792735,
+        "date_posted": 1781792350,
+        "url": "https://job-boards.greenhouse.io/atlassand/jobs/8485256002",
+        "locations": [
+            "Casper, WY"
+        ],
+        "company_url": "https://simplify.jobs/c/Atlas-Energy-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Illinois Tool Works",
+        "id": "b97ae3ad-679d-49e8-916c-2fef685fd2aa",
+        "title": "Lab Technician",
+        "active": true,
+        "date_updated": 1781775798,
+        "date_posted": 1781330865,
+        "url": "https://careers.itw.com/global/en/job/JR8534",
+        "locations": [
+            "Elmhurst, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Illinois-Tool-Works",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Teamworks",
+        "id": "be6d0d6f-9bd4-4e53-b198-217e9097c785",
+        "title": "Computer Vision Researcher",
+        "active": true,
+        "date_updated": 1781775901,
+        "date_posted": 1780524613,
+        "url": "https://jobs.ashbyhq.com/teamworks/7e11cc46-5f8b-4274-a754-8b74ea3a3769/application",
+        "locations": [
+            "Remote in USA",
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Teamworks",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
