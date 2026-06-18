@@ -296327,7 +296327,7 @@
         "company_name": "ADI Global Distribution",
         "id": "810c6ef0-9d55-49ea-8916-f2d7a43883f7",
         "title": "Associate Product Category Manager",
-        "active": true,
+        "active": false,
         "date_updated": 1778508181,
         "date_posted": 1778508126,
         "url": "https://ehtl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/18473",
@@ -328165,7 +328165,7 @@
         "company_name": "PJM",
         "id": "54b01c4c-d6dd-4954-ac9f-967ae0e0b6c0",
         "title": "Engineer/Analyst 1 - II",
-        "active": false,
+        "active": true,
         "date_updated": 1780439404,
         "date_posted": 1780438036,
         "url": "https://pjm.wd5.myworkdayjobs.com/pjmcareers/job/Audubon-PA-Hybrid/Engineer-Analyst-I--II-_REQ-2026-4184-1",
@@ -339724,7 +339724,7 @@
         "company_name": "Marsh & McLennan",
         "id": "e33227af-dba6-4917-83fe-2c821f05e691",
         "title": "Enrollment Executive",
-        "active": false,
+        "active": true,
         "date_updated": 1781083235,
         "date_posted": 1781082814,
         "url": "https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Mumbai---Times-Square/Enrollment-Executive_R_351117-1",
@@ -347437,7 +347437,7 @@
         "company_name": "Vermont Information Processing",
         "id": "b8c86556-fd0a-4314-a2c6-321f89f7d641",
         "title": "Product Marketing Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1781418364,
         "date_posted": 1781302996,
         "url": "https://job-boards.greenhouse.io/vipvermontinformationprocessing2/jobs/5163430007",
@@ -351738,7 +351738,7 @@
         "company_name": "IQVIA",
         "id": "3e13bd0e-17a5-420f-b000-e6f16ddd8a3f",
         "title": "AI Engineer - AI Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1781676721,
         "date_posted": 1781676518,
         "url": "https://iqvia.wd1.myworkdayjobs.com/en-US/IQVIA/job/Kirkland-Quebec-Canada/AI-Engineer--IQVIA-Digital-Ingnieur-en-Intelligence-Artificielle--IQVIA-Digital_R1548576-1",
@@ -353931,6 +353931,146 @@
             "Remote in Canada"
         ],
         "company_url": "https://simplify.jobs/c/Teamworks",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "RELX",
+        "id": "6626be78-e317-41ce-8cbb-16754b3cb1c3",
+        "title": "Data Analyst 1",
+        "active": true,
+        "date_updated": 1781792710,
+        "date_posted": 1781791883,
+        "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/PHL-RE-Shared-Services-Manila/Data-Analyst-I_R114265",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/RELX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "The Boeing Company",
+        "id": "0a0d64c2-775a-4585-ae6d-3a55b66907e5",
+        "title": "Senior FPGA Design Engineer",
+        "active": true,
+        "date_updated": 1781792255,
+        "date_posted": 1781791858,
+        "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Huntsville-AL/FPGA-Design-Engineer_JR2026503754",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Ralliant",
+        "id": "043c58db-5673-4096-a82e-6fe7477a6dec",
+        "title": "Field Application Engineer - Field Application Engineer",
+        "active": true,
+        "date_updated": 1781791837,
+        "date_posted": 1781791382,
+        "url": "https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/9343",
+        "locations": [
+            "Wenden, Germany",
+            "Bracknell, UK",
+            "France"
+        ],
+        "company_url": "https://simplify.jobs/c/Ralliant",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Blue Yonder",
+        "id": "d0419060-9eef-46ca-9f19-59e2a619eebf",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1781792534,
+        "date_posted": 1781791759,
+        "url": "https://jda.wd5.myworkdayjobs.com/en-US/JDA_Careers/job/Dallas/Software-Engineer-I_260056",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Blue-Yonder",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Lexical Intelligence",
+        "id": "ce1541f7-9a61-42c0-a010-de52ed8698a1",
+        "title": "NLM Software Engineer 1",
+        "active": true,
+        "date_updated": 1781792601,
+        "date_posted": 1781791784,
+        "url": "https://lexical.bamboohr.com/careers/73/",
+        "locations": [
+            "Bethesda, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Lexical-Intelligence",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "The Boeing Company",
+        "id": "6cd2a5b6-1824-41ce-9e5f-b9183e0ba96b",
+        "title": "Senior FPGA Design Engineer",
+        "active": true,
+        "date_updated": 1781792163,
+        "date_posted": 1781791882,
+        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Huntsville-AL/FPGA-Design-Engineer_JR2026503754-1",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Clinical Architecture",
+        "id": "55babc25-ff0e-45b9-9ea9-564dae9b521b",
+        "title": "Product Analyst \u2013 Entry Level",
+        "active": true,
+        "date_updated": 1781793001,
+        "date_posted": 1781792420,
+        "url": "https://job-boards.greenhouse.io/clinicalarchitecture/jobs/5168369007",
+        "locations": [
+            "Carmel, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Clinical-Architecture",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
