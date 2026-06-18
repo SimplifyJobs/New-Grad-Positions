@@ -339664,7 +339664,7 @@
         "company_name": "Brink",
         "id": "6955ffaa-10b0-4234-99e4-81d00fe1ab9d",
         "title": "ATM Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1781082252,
         "date_posted": 1779527356,
         "url": "https://brinks.wd5.myworkdayjobs.com/brinkscareersus/job/Albany-NY/ATM-Technician_R72778",
@@ -346136,7 +346136,7 @@
         "company_name": "KeyBank",
         "id": "e762f82a-4901-4dc4-99bf-72622885027b",
         "title": "Digital 2",
-        "active": true,
+        "active": false,
         "date_updated": 1781303589,
         "date_posted": 1781302225,
         "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Cleveland-OH/Digital-II_R-40237",
@@ -353793,6 +353793,44 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Socket-Dev",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Klaviyo",
+        "id": "72ad42ac-5813-49d3-9be4-1a0eec0b481a",
+        "title": "Software Engineer 2",
+        "active": true,
+        "date_updated": 1781792483,
+        "date_posted": 1781791696,
+        "url": "https://job-boards.greenhouse.io/klaviyojobs/jobs/7764229003",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Klaviyo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Arkansas",
+        "id": "10e5b0cf-c9a9-4365-9d39-fc9ec119e4bf",
+        "title": "Research Assistant - Extra Help",
+        "active": true,
+        "date_updated": 1781771286,
+        "date_posted": 1781343969,
+        "url": "https://uasys.wd5.myworkdayjobs.com/uasys/job/University-of-Arkansas-at-Pine-Bluff/XMLNAME-6-Research-Assistants---Extra-Help---K-Harris-1_R0079826",
+        "locations": [
+            "Pine Bluff, AR"
+        ],
+        "company_url": "https://simplify.jobs/c/1d49378c-2501-4900-8d62-ab3ca8ddadb0",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
