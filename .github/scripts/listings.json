@@ -1,26 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Shield AI",
-        "id": "93c78b5d-5ecf-4eca-a08f-9ac97eb0a260",
-        "title": "Software Engineer I - Hardware Test - R3999",
-        "active": false,
-        "date_updated": 1761165452,
-        "date_posted": 1761165452,
-        "url": "https://jobs.lever.co/shieldai/8ed6bd48-2bf0-44a2-812d-7d8a2ab6b9f0/apply",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Shield-AI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Peraton",
         "id": "1e1617fa-d2a5-4145-accf-02ef70da0cd0",
@@ -32322,43 +32302,6 @@
             "Bachelor's",
             "Master's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "RedHelm",
-        "id": "ef6ca04e-d559-4ad2-a8aa-1b8a5ced8c39",
-        "title": "System Administrator 1 - Deployments",
-        "active": false,
-        "date_updated": 1762816941,
-        "date_posted": 1761166576,
-        "url": "https://job-boards.greenhouse.io/onepath/jobs/4952216007",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/RedHelm",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Walker & Dunlop",
-        "id": "0daf8723-aff2-4daa-b5d7-e4a11aea9207",
-        "title": "Business Systems Analyst",
-        "active": false,
-        "date_updated": 1761935249,
-        "date_posted": 1761166198,
-        "url": "https://walkerdunlop.wd1.myworkdayjobs.com/WD/job/Bethesda-MD-USA/XMLNAME-2026-Business-Systems-Analyst_Req-1701",
-        "locations": [
-            "Needham, MA",
-            "Bethesda, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/Walker-And-Dunlop",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
