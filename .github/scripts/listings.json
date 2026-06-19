@@ -32267,45 +32267,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "John Deere",
-        "id": "fd7a3ed4-43c6-4cfc-9457-684effa3d340",
-        "title": "Part-Time Student - UIUC - Technology (CA)",
-        "active": false,
-        "date_updated": 1761168365,
-        "date_posted": 1761168365,
-        "url": "https://johndeere.eightfold.ai/careers/job/137477469142",
-        "locations": [
-            "Urbana, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/John-Deere",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Castleton Commodities International",
-        "id": "e51251e1-b014-4796-bbd9-8bcafc6be46b",
-        "title": "Associate \u2013 Front Office Software Engineer",
-        "active": false,
-        "date_updated": 1763119714,
-        "date_posted": 1761167432,
-        "url": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/London-UK/Associate--Front-Office-Software-Engineer_R1178-1",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Castleton-Commodities-International",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "JP Morgan Chase",
         "id": "dc5d5724-00b8-4e6f-8ee3-5fdd0456fe8b",
         "title": "Technology Support Senior Specialist",
@@ -321118,24 +321079,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Herald",
-        "id": "43933c9f-ae35-4655-b2a6-54a1e0d6b422",
-        "title": "Frontend Engineer - AI Products",
-        "active": true,
-        "date_updated": 1779931320,
-        "date_posted": 1761167926,
-        "url": "https://job-boards.greenhouse.io/heraldapi/jobs/4962979008",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Herald",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Prairie View A&M University",
         "id": "ace14ae9-e562-4ce6-95df-9e78ab0140c2",
@@ -351741,7 +351684,7 @@
         "company_name": "CACI",
         "id": "10b61966-83aa-4202-8909-27c8bcb4b2d2",
         "title": "Cyber Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1781736661,
         "date_posted": 1781734318,
         "url": "https://caci.wd1.myworkdayjobs.com/external/job/507-RESTON-VA/Cyber-Software-Developer_327851",
