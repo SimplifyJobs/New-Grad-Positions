@@ -32495,42 +32495,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Quantexa",
-        "id": "461bc0a1-3888-407f-8322-a2220c87c548",
-        "title": "Associate Engineer",
-        "active": false,
-        "date_updated": 1761098093,
-        "date_posted": 1761098093,
-        "url": "https://apply.workable.com/quantexa/j/78D672ACCC/apply",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Quantexa",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Adyen",
-        "id": "241a7358-3389-4a6a-9013-cd3dd7371b8d",
-        "title": "Technical Support Engineer",
-        "active": false,
-        "date_updated": 1761097067,
-        "date_posted": 1761097067,
-        "url": "https://job-boards.greenhouse.io/adyen/jobs/7347356",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Adyen",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Wolverine Trading",
         "id": "93f2a86d-ff7e-4542-a2d4-c5f13a17ac5a",
         "title": "Entry-Level C++ Software Engineer",
@@ -40464,24 +40428,6 @@
             "Glasgow, UK"
         ],
         "company_url": "https://simplify.jobs/c/MotorolaSolutions",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Connection",
-        "id": "10130993-d533-4036-b281-e96a5a9e90ef",
-        "title": "Associate Applications Developer",
-        "active": false,
-        "date_updated": 1763161819,
-        "date_posted": 1761096715,
-        "url": "https://careers-connection.icims.com/jobs/9906/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Jeffersonville, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Connection",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
