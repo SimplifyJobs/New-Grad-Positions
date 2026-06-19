@@ -1,46 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Peraton",
-        "id": "1e1617fa-d2a5-4145-accf-02ef70da0cd0",
-        "title": "Software Engineer-Junior",
-        "active": false,
-        "date_updated": 1761170075,
-        "date_posted": 1761170075,
-        "url": "https://careers-peraton.icims.com/jobs/160719/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Reston, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Peraton",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "SMX",
-        "id": "6b0e1cce-1603-4928-8862-c9be2bbf7727",
-        "title": "Junior Data Scientist",
-        "active": false,
-        "date_updated": 1761170320,
-        "date_posted": 1761170320,
-        "url": "https://www.smxtech.com/careers/?gh_jid=7498313003",
-        "locations": [
-            "Patuxent River, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/Smx",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "RTX",
         "id": "b4e24b78-23ad-4be6-9b21-5c568c5a87e9",
@@ -850,26 +810,6 @@
             "Dedham, MA"
         ],
         "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Vermont Information Processing",
-        "id": "ef2a8b85-5f94-4225-a730-1a7860825094",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1761169652,
-        "date_posted": 1761169652,
-        "url": "https://job-boards.greenhouse.io/vipvermontinformationprocessing2/jobs/4953972007",
-        "locations": [
-            "Holland, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/Vermont-Information-Processing",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -32206,60 +32146,6 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Target",
-        "id": "015e62ea-687d-4d7d-a0af-7e77e440bfee",
-        "title": "Assets Protection Specialist - Northern San Antonio - TX",
-        "active": false,
-        "date_updated": 1761169994,
-        "date_posted": 1761169994,
-        "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/746-NW-Loop-410-San-Antonio-TX-78216-5609/Assets-Protection-Specialist---Northern-San-Antonio--TX_R0000420764",
-        "locations": [
-            "San Antonio, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Target",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "The Home Depot",
-        "id": "519bdc57-bd9b-41f5-b06d-b0d09b96d8d9",
-        "title": "Associate Data Scientist - Online Insights",
-        "active": false,
-        "date_updated": 1761169655,
-        "date_posted": 1761169655,
-        "url": "https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/ASSOCIATE-DATA-SCIENTIST_Req159469",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/The-Home-Depot",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Steampunk",
-        "id": "725950be-f0c9-4b1a-87fc-bf7c5b34b1f2",
-        "title": "Service Desk Platform Administrator",
-        "active": false,
-        "date_updated": 1763121008,
-        "date_posted": 1761168809,
-        "url": "https://careers-steampunk.icims.com/jobs/7003/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "McLean, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Steampunk",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
