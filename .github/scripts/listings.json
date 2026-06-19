@@ -1,25 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "RTX",
-        "id": "b4e24b78-23ad-4be6-9b21-5c568c5a87e9",
-        "title": "2026 Full-time - Java Software Engineer I - Onsite - PA",
-        "active": false,
-        "date_updated": 1761172459,
-        "date_posted": 1761172459,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/PA602-302-Science-Park-Road-Bldg-5C-302-Science-Park-Road-Building-5C-State-College-PA-16803-2214-USA/XMLNAME-2026-Full-time---Java-Software-Engineer-I---Onsite--PA-_01801904",
-        "locations": [
-            "State College, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "date_updated": 1761333827,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": false,
@@ -32110,24 +32090,6 @@
             "San Antonio, TX"
         ],
         "company_url": "https://simplify.jobs/c/SWBC",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Susquehanna International Group (SIG)",
-        "id": "49115a2a-7c32-4e3f-b860-60ef111d8a8d",
-        "title": "Trading Operations Analyst - Multiple Teams",
-        "active": false,
-        "date_updated": 1763131292,
-        "date_posted": 1761173070,
-        "url": "https://careers-sig.icims.com/jobs/9928/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Susquehanna",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -95437,24 +95399,6 @@
             "Quincy, WA"
         ],
         "company_url": "https://simplify.jobs/c/Terex",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "GHD",
-        "id": "f28e5a81-c9eb-4b15-8005-441162c1e769",
-        "title": "Graduate Environmental Engineer",
-        "active": false,
-        "date_updated": 1761172617,
-        "date_posted": 1761172617,
-        "url": "https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/23921",
-        "locations": [
-            "St Paul, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/GHD",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
