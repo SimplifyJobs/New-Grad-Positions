@@ -1,29 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "D2L",
-        "id": "a14f5f74-0c3a-4c07-b4b7-e8c7c4737121",
-        "title": "Software Developer Rotation Program \u2013 Spring 2026 New Graduate",
-        "active": false,
-        "date_updated": 1761120299,
-        "date_posted": 1761120299,
-        "url": "https://www.d2l.com/careers/jobs/?job_id=7336031&gh_jid=7336031",
-        "locations": [
-            "Winnipeg, MB, Canada",
-            "Toronto, ON, Canada",
-            "Kitchener, ON, Canada",
-            "Vancouver, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/D2L",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Shield AI",
         "id": "93c78b5d-5ecf-4eca-a08f-9ac97eb0a260",
@@ -355158,5 +355135,25 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Microsoft",
+        "id": "033c38dd-d471-4240-89ac-a3ce744955b1",
+        "title": "Software Engineer/Senior Software Engineer",
+        "active": true,
+        "date_updated": 1781857608,
+        "date_posted": 1780092437,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556869024",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Microsoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
