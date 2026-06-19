@@ -355556,5 +355556,25 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CSX",
+        "id": "6cf76770-8c6b-43a0-b4e9-32f7e726f4b7",
+        "title": "Technology Leadership Development Associate - Artificial Intelligence - Automation or Data Science Focus",
+        "active": true,
+        "date_updated": 1781860681,
+        "date_posted": 1770073874,
+        "url": "https://fa-eowa-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CSXCareers/job/53991",
+        "locations": [
+            "Jacksonville, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/CSX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
