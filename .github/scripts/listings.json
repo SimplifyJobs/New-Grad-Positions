@@ -32134,24 +32134,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "efff8926-9329-483c-9e11-e08f9a6ba987",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1761170735,
-        "date_posted": 1761170735,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/jobs/job/400026260",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "JP Morgan Chase",
         "id": "dc5d5724-00b8-4e6f-8ee3-5fdd0456fe8b",
