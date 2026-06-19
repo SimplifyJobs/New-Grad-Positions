@@ -1,26 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Capitolis",
-        "id": "e55e0b4b-64d9-41cf-bde0-50d494620b07",
-        "title": "Junior Software Engineer",
-        "active": false,
-        "date_updated": 1761092610,
-        "date_posted": 1761092610,
-        "url": "https://capitolis.com/careers/job/?gh_jid=6670061003",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Capitolis",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Hastings Direct",
         "id": "3fcf882e-b106-447c-95fb-7b793b897e9a",
@@ -137,26 +117,6 @@
             "State College, PA"
         ],
         "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "SS&C",
-        "id": "a1410a29-c173-4ed5-8cd4-28db286eea33",
-        "title": "Junior Software Developer",
-        "active": false,
-        "date_updated": 1761092752,
-        "date_posted": 1761092752,
-        "url": "https://wd1.myworkdaysite.com/recruiting/ssctech/SSCTechnologies/job/Windsor-CT/Junior-Software-Developer_R36760",
-        "locations": [
-            "Hartford, CT"
-        ],
-        "company_url": "https://simplify.jobs/c/SSC",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -32718,24 +32678,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Edgehog Trading",
-        "id": "baacc9cc-6c27-4bf7-a455-cab10c7cdac8",
-        "title": "Graduate Trader (March 2026)",
-        "active": false,
-        "date_updated": 1761092756,
-        "date_posted": 1761092756,
-        "url": "https://ats.rippling.com/edgehog-trading/jobs/d7fae9de-8925-418b-b722-eb72ad2ddc4d",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Edgehog-Trading",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Wolverine Trading",
         "id": "93f2a86d-ff7e-4542-a2d4-c5f13a17ac5a",
@@ -32766,24 +32708,6 @@
             "Austin, TX"
         ],
         "company_url": "https://simplify.jobs/c/Base-Power",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Samsung Research America",
-        "id": "c733af2a-0646-4309-96d8-6d8d0d62da4d",
-        "title": "Health Applied Scholar - Digital Health",
-        "active": false,
-        "date_updated": 1762905208,
-        "date_posted": 1761091288,
-        "url": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8215480002",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Samsung-Research-America",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -330333,7 +330257,7 @@
         "company_name": "ADT",
         "id": "79ac8315-18c3-42ba-8946-c7e90c3bd218",
         "title": "Service Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1780524721,
         "date_posted": 1780524489,
         "url": "https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3020665",
@@ -340135,7 +340059,7 @@
         "company_name": "Hawk-Eye Innovations",
         "id": "7c2e1b81-f154-49eb-a253-6fa7e06170ea",
         "title": "Hawk-Eye Systems Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1781100737,
         "date_posted": 1781100490,
         "url": "https://jobs.ashbyhq.com/hawkeyeinnovations/c613b75b-5411-4a07-b023-3751443b1203/application",
@@ -350228,7 +350152,7 @@
         "company_name": "Northrop Grumman",
         "id": "9d681413-112b-4d9c-b04a-306ccb95decb",
         "title": "Hardware Configuration Analyst 2",
-        "active": true,
+        "active": false,
         "date_updated": 1781648269,
         "date_posted": 1781639441,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/Hardware-Configuration-Analyst---Level-1_R10236095",
@@ -352129,7 +352053,7 @@
         "company_name": "ASML",
         "id": "545e6347-3a03-4d96-b8bf-220294acf336",
         "title": "Field Service Engineer - Human Machine Interface",
-        "active": true,
+        "active": false,
         "date_updated": 1781702835,
         "date_posted": 1781345341,
         "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Chandler-AZ-USA/Field-Service-Engineer--eBeam_J-00332442-1",
@@ -354391,6 +354315,185 @@
             "Huntsville, AL"
         ],
         "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Horizon Surgical Systems",
+        "id": "26844180-8da9-464a-8641-539f10c26639",
+        "title": "Data Engineer",
+        "active": true,
+        "date_updated": 1781821621,
+        "date_posted": 1781821287,
+        "url": "https://job-boards.greenhouse.io/horizonsurgicalsystems/jobs/5166527007",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Horizon-Surgical-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Prizeout",
+        "id": "0a27331e-2392-427a-9897-4a79b44a9c52",
+        "title": "Product Operations Associate",
+        "active": true,
+        "date_updated": 1781820361,
+        "date_posted": 1781820302,
+        "url": "https://jobs.lever.co/prizeout/1e3dab04-db41-4e97-9a42-7fb25e548583/apply",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Prizeout",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Louisiana State University (LSU)",
+        "id": "b8e89f5f-19c5-4370-b82f-7b779060b1e3",
+        "title": "Transient \u2013 Research Project",
+        "active": true,
+        "date_updated": 1781820361,
+        "date_posted": 1781820302,
+        "url": "https://lsu.wd1.myworkdayjobs.com/lsuwaiver/job/3207-Patrick-F-Taylor-Hall/Transient---Research-Project_R00116588",
+        "locations": [
+            "Baton Rouge, LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Louisiana-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "BlueCross BlueShield of South Carolina",
+        "id": "5e8e8758-7d24-4adc-bb06-96b79934f520",
+        "title": "Reinsurance Data Analyst",
+        "active": true,
+        "date_updated": 1781821621,
+        "date_posted": 1781820549,
+        "url": "https://ourhrconnect.wd501.myworkdayjobs.com/SCBlues/job/Fort-Wayne-Indiana/Reinsurance-Data-Analyst_R1051211",
+        "locations": [
+            "Fort Wayne, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/BlueCross-BlueShield-Of-South-Carolina",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "State Street",
+        "id": "eb09190f-823e-42bc-bf52-4ddcaab011b0",
+        "title": "Software Engineer New Grad",
+        "active": true,
+        "date_updated": 1781821427,
+        "date_posted": 1781820373,
+        "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Software-Engineer--CRD--New-Graduate_R-792647",
+        "locations": [
+            "Burlington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/State-Street",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SpaceX",
+        "id": "778e1777-fab9-418c-a38b-1acb7ac03dd1",
+        "title": "Software Engineer - Pcba - Starlink",
+        "active": true,
+        "date_updated": 1781821621,
+        "date_posted": 1781821066,
+        "url": "https://boards.greenhouse.io/spacex/jobs/8584271002",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/SpaceX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "United Parcel Service (UPS)",
+        "id": "6813d968-8261-4e68-bf55-826013c51567",
+        "title": "Pricing Supervisor",
+        "active": true,
+        "date_updated": 1781820903,
+        "date_posted": 1781820372,
+        "url": "https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---UPS-SUPPLY-CHAIN-SOLUTIONS-GAAPR/Pricing-Supervisor---20C_R26010457",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/United-Parcel-Service",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Walt Disney Company",
+        "id": "12b0c4cc-55d1-42fd-a6ad-d544d2b42999",
+        "title": "Product Software Engineer 1",
+        "active": true,
+        "date_updated": 1781820801,
+        "date_posted": 1781820331,
+        "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Product-Software-Engineer-I_10151599",
+        "locations": [
+            "Glendale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Disney",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "True Anomaly",
+        "id": "6ba28bad-f6aa-4a8f-a9fc-d5e7f01f4f15",
+        "title": "Machine Learning Engineer",
+        "active": true,
+        "date_updated": 1781820903,
+        "date_posted": 1778882843,
+        "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5138856007",
+        "locations": [
+            "Long Beach, CA",
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/TrueAnomaly",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
