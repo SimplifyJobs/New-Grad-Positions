@@ -268558,7 +268558,7 @@
         "company_name": "University of Texas at Austin",
         "id": "0a2c27c4-783b-47bb-9b5f-ae9f5bf46d0b",
         "title": "Hydrographic Survey Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1776522107,
         "date_posted": 1776521479,
         "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/PICKLE-RESEARCH-CAMPUS/Hydrographic-Survey-Analyst_R_00043224",
@@ -351425,7 +351425,7 @@
         "company_name": "Becton Dickinson",
         "id": "1b569ff0-d4e1-41db-812c-5816c103f9bf",
         "title": "Engineer 2 - Sustaining",
-        "active": true,
+        "active": false,
         "date_updated": 1781698287,
         "date_posted": 1781360524,
         "url": "https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-UT---Sandy/Engineer-II---Research-and-Development_R-544024-1",
@@ -353390,7 +353390,7 @@
         "company_name": "University of Arkansas",
         "id": "10e5b0cf-c9a9-4365-9d39-fc9ec119e4bf",
         "title": "Research Assistant - Extra Help",
-        "active": true,
+        "active": false,
         "date_updated": 1781771286,
         "date_posted": 1781343969,
         "url": "https://uasys.wd5.myworkdayjobs.com/uasys/job/University-of-Arkansas-at-Pine-Bluff/XMLNAME-6-Research-Assistants---Extra-Help---K-Harris-1_R0079826",
@@ -355150,6 +355150,26 @@
             "Redmond, WA"
         ],
         "company_url": "https://simplify.jobs/c/Microsoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jonas Software",
+        "id": "058e376f-60d5-425d-a1dd-6c73a4ad4224",
+        "title": "Customer Support Analyst",
+        "active": true,
+        "date_updated": 1781857643,
+        "date_posted": 1781346653,
+        "url": "https://talentmanagementsolution.wd3.myworkdayjobs.com/JonasSoftwareCanada/job/Canada---Markham---Ontario/Customer-Solution-Analyst_R12522-2",
+        "locations": [
+            "Markham, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Jonas-Software",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
