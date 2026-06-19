@@ -283463,7 +283463,7 @@
         "company_name": "Torc Robotics",
         "id": "d0a815dd-6910-4710-9ce6-ea61f50c038b",
         "title": "ML Engineer - App Engine",
-        "active": true,
+        "active": false,
         "date_updated": 1777501621,
         "date_posted": 1777500829,
         "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8525554002",
@@ -302271,7 +302271,7 @@
         "company_name": "Morgan Lewis",
         "id": "4ecb698e-e9f5-4175-bec8-7df41fe69925",
         "title": "Payroll Data Analytics Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1778883371,
         "date_posted": 1778882852,
         "url": "https://morganlewis.wd5.myworkdayjobs.com/morganlewis/job/Philadelphia-Pennsylvania/Specialist--Payroll-Data-Analytics_R4027",
@@ -317782,7 +317782,7 @@
         "company_name": "LexisNexis Risk Solutions",
         "id": "f7292aa6-7328-4d24-92dd-1c877cb86dce",
         "title": "Solutions Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1779876631,
         "date_posted": 1778922100,
         "url": "https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/United-Kingdom/Solutions-Analyst_R109322",
@@ -330951,7 +330951,7 @@
         "company_name": "Reach Financial",
         "id": "39349736-2696-42cf-9e4b-deaf9d2b3246",
         "title": "Credit Risk Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1780526126,
         "date_posted": 1780525423,
         "url": "https://job-boards.greenhouse.io/reach/jobs/8573228002",
@@ -354809,6 +354809,356 @@
         "degrees": [
             "Bachelor's",
             "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Hyundai Motor Company",
+        "id": "d5ac7a44-0234-482a-86ed-89d7941eed37",
+        "title": "Data Analyst - General Assembly - MFT Data Analysis",
+        "active": true,
+        "date_updated": 1781822345,
+        "date_posted": 1781820334,
+        "url": "https://careers-americas.hyundai.com/hmma/job/Montgomery-Specialist-General-Assembly-(MFT-Data-Analysis)-AL-36101/1401402400/?ats=successfactors",
+        "locations": [
+            "Montgomery, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/b5474c30-ac69-40c8-8387-51dcf3675b12",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Applied Materials",
+        "id": "d506d423-4348-4519-aeeb-bcbc6ad565ad",
+        "title": "Digital Solutions & Innovation New Grad",
+        "active": true,
+        "date_updated": 1781821103,
+        "date_posted": 1781360380,
+        "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2026-NCG---Digital-Solutions---Innovation-IT-Management_R2618396",
+        "locations": [
+            "Austin, TX",
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Materials",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Ping Identity",
+        "id": "6b145d38-1aa1-4b49-94ec-6a8cef7c93dd",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1781831884,
+        "date_posted": 1781831346,
+        "url": "https://job-boards.greenhouse.io/pingidentity/jobs/8582872002",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Ping-Identity",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Everfox",
+        "id": "3d705558-a644-486b-94b4-cf1a5a0ae33f",
+        "title": "Electronics Lab Technician",
+        "active": true,
+        "date_updated": 1781831341,
+        "date_posted": 1781831323,
+        "url": "https://evergreenix.wd1.myworkdayjobs.com/external-careers2/job/UK---London/Electronics-Lab-Technician_JR500667-3",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Everfox",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Mondelez International",
+        "id": "20c84f3b-e778-4116-9397-f2f2470675a0",
+        "title": "Analyst \u2013 Analytics",
+        "active": true,
+        "date_updated": 1781821559,
+        "date_posted": 1781820425,
+        "url": "https://wd3.myworkdaysite.com/recruiting/mdlz/External/job/Toronto-Canada/Analyst--Analytics_R-168267",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Mondelez-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "KLA",
+        "id": "f95698cc-d630-40f7-9ecf-62f7f47fd39a",
+        "title": "Algorithm Engineer",
+        "active": true,
+        "date_updated": 1781821686,
+        "date_posted": 1781820479,
+        "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Algorithm-engineer_2637389",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/KLA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TD Bank",
+        "id": "f3fc4162-9064-4ac7-82c6-abf727ae63fd",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1781820903,
+        "date_posted": 1781820411,
+        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Associate-Software-Engineer_R_1495154",
+        "locations": [
+            "Toronto, ON, Canada",
+            "London, ON, Canada",
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/TD-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD",
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cadence Design Systems",
+        "id": "e849f4c2-737b-476e-8296-765db1bdc056",
+        "title": "Software Engineer 2 New Grad",
+        "active": true,
+        "date_updated": 1781821561,
+        "date_posted": 1781820415,
+        "url": "https://cadence.wd1.myworkdayjobs.com/University_Talent_NCG/job/BOSTON-02/Software-Engineer-II--New-College-Grad-2026-_R54895",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Wyoming",
+        "id": "b2bb67bf-9913-40bf-82d2-c5cee13d5605",
+        "title": "Programmer Analyst - UW Foundation",
+        "active": true,
+        "date_updated": 1781820903,
+        "date_posted": 1781820410,
+        "url": "https://eeik.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/261489",
+        "locations": [
+            "Laramie, WY"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Wyoming",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Caterpillar Inc.",
+        "id": "86fd0c9a-1538-47e9-b046-5145dda93a80",
+        "title": "Data Specialist Associate",
+        "active": true,
+        "date_updated": 1781820790,
+        "date_posted": 1781820330,
+        "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Nashville-Tennessee/Associate-Data-Specialist_R0000377831-1",
+        "locations": [
+            "Nashville, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/Caterpillar-Inc",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cadence Design Systems",
+        "id": "7f77c998-d071-4fa3-979a-a5cb1fcd9fbc",
+        "title": "Software Engineer 2 New Grad",
+        "active": true,
+        "date_updated": 1781821540,
+        "date_posted": 1781820413,
+        "url": "https://cadence.wd1.myworkdayjobs.com/University_Talent/job/BOSTON-02/Software-Engineer-II--New-College-Grad-2026-_R54895-1",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Trustpilot",
+        "id": "b28000f1-01d7-4052-8ad3-e73e8bf916cc",
+        "title": "Software Engineer 1 - Trust Tech",
+        "active": true,
+        "date_updated": 1781822025,
+        "date_posted": 1781820620,
+        "url": "https://corporate.trustpilot.com/careers/job/8015788?gh_jid=8015788",
+        "locations": [
+            "Edinburgh, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Trustpilot",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Trustpilot",
+        "id": "77ad6851-537c-48f4-a303-c011b75a68b1",
+        "title": "Software Engineer 1 - Trust Tech",
+        "active": true,
+        "date_updated": 1781821847,
+        "date_posted": 1781820625,
+        "url": "https://corporate.trustpilot.com/careers/job/7984603?gh_jid=7984603",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Trustpilot",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "State Street",
+        "id": "61a5b2d5-126a-48db-83d3-12380d0a42d3",
+        "title": "Software Engineer New Grad",
+        "active": true,
+        "date_updated": 1781821438,
+        "date_posted": 1781820374,
+        "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Software-Engineer--CRD--New-Graduate_R-792654",
+        "locations": [
+            "Burlington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/State-Street",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Capital One",
+        "id": "56dd38cb-985e-463a-b5fb-ab8944f2c5e2",
+        "title": "Senior Product Manager - Product Management",
+        "active": true,
+        "date_updated": 1781822111,
+        "date_posted": 1781820740,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Associate--Product-Management---Dynamic-Experiences-Technical-Product-Manager_R244965-1",
+        "locations": [
+            "McLean, VA",
+            "Richmond, VA",
+            "Chicago, IL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Capital-One",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Aditude",
+        "id": "ef84a047-4da9-4087-86dd-6e5809967e29",
+        "title": "Yield Analyst",
+        "active": true,
+        "date_updated": 1781821621,
+        "date_posted": 1781820550,
+        "url": "https://jobs.ashbyhq.com/aditude/291d58da-0601-42e6-ad0a-7bf11f14a765/application",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Aditude",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Thorlabs",
+        "id": "7c9cb97e-8415-40e9-b523-73df39f6debe",
+        "title": "Engineering Documentation Specialist 1",
+        "active": true,
+        "date_updated": 1781821951,
+        "date_posted": 1781820584,
+        "url": "https://apply.workable.com/thorlabs/j/FC12102DA5/apply",
+        "locations": [
+            "Ann Arbor, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Thorlabs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "PhD",
+            "Associate's",
+            "JD",
+            "MD"
         ]
     }
 ]
