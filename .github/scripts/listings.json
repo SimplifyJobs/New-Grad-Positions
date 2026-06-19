@@ -32606,78 +32606,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Flock Safety",
-        "id": "a1ec69d0-a6b7-41c1-8a7d-4fc917893375",
-        "title": "Installation Technician - Boston - MA",
-        "active": false,
-        "date_updated": 1763120070,
-        "date_posted": 1761093972,
-        "url": "https://jobs.ashbyhq.com/Flock%20Safety/eefda4a6-7fb3-4cae-b232-465e43a368f9/application",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/FlockSafety",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Keysight Technologies",
-        "id": "49414320-ee8e-44b3-865d-590b0de000ad",
-        "title": "Sales Compensation Data Analyst \u2013 Recent Graduate",
-        "active": false,
-        "date_updated": 1761093922,
-        "date_posted": 1761093922,
-        "url": "https://jobs.keysight.com/jobs/49981?lang=en-us&icims=1",
-        "locations": [
-            "Santa Rosa, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Keysight-Technologies-Inc",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "UT Southwestern Medical Center",
-        "id": "2fcf8f4d-ae1a-408c-9447-0e63a07199d2",
-        "title": "Application Analyst 1 - Health Systems IR",
-        "active": false,
-        "date_updated": 1762939920,
-        "date_posted": 1761093980,
-        "url": "https://utsw.taleo.net/careersection/2/jobdetail.ftl?job=900012",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/UT-Southwestern-Medical-Center",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Metropolitan Transportation Authority",
-        "id": "ebab0b83-653d-44a0-9755-a45eb0b8f210",
-        "title": "Transit Management Analyst Series - Subways - MOW Engineering",
-        "active": false,
-        "date_updated": 1761093077,
-        "date_posted": 1761093077,
-        "url": "https://jobs.jobvite.com/metropolitantransportationauthority/job/oNDKyfws?nl=1&nl=1&fr=false",
-        "locations": [
-            "Brooklyn, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Metropolitan-Transportation-Authority",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Wolverine Trading",
         "id": "93f2a86d-ff7e-4542-a2d4-c5f13a17ac5a",
@@ -348868,7 +348796,7 @@
         "company_name": "Motorola",
         "id": "abec453e-b6ff-4bd3-b6e9-53c6e49d7dd2",
         "title": "Engineer Associate - Machine Learning",
-        "active": true,
+        "active": false,
         "date_updated": 1781647962,
         "date_posted": 1781639354,
         "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Irvine-CA/Associate-Engineer--Machine-Learning_R65788",
@@ -354499,5 +354427,43 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Oracle",
+        "id": "a3b2484c-c68d-46ca-ac1b-30899e81b01f",
+        "title": "Software Developer 3",
+        "active": true,
+        "date_updated": 1781820361,
+        "date_posted": 1781820322,
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/337610",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Oracle",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Arkansas",
+        "id": "0a6e4114-568d-4b32-9b9c-9ecb2b8bb774",
+        "title": "Extra Help AI Researcher-1",
+        "active": true,
+        "date_updated": 1781820737,
+        "date_posted": 1781820301,
+        "url": "https://uasys.wd5.myworkdayjobs.com/uasys/job/University-of-Arkansas-at-Pine-Bluff/Extra-Help-AI-Researcher-1_R0087100",
+        "locations": [
+            "Pine Bluff, AR"
+        ],
+        "company_url": "https://simplify.jobs/c/1d49378c-2501-4900-8d62-ab3ca8ddadb0",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
