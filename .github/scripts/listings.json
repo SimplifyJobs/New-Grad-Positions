@@ -1,27 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Hastings Direct",
-        "id": "3fcf882e-b106-447c-95fb-7b793b897e9a",
-        "title": "Junior Data Scientist - ",
-        "active": false,
-        "date_updated": 1761096036,
-        "date_posted": 1761096036,
-        "url": "https://hastingsdirect.wd3.myworkdayjobs.com/external_careers/job/London/Junior-Data-Scientist_60012560-1",
-        "locations": [
-            "London, UK",
-            "Leicester, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Hastings-Direct",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "D2L",
         "id": "a14f5f74-0c3a-4c07-b4b7-e8c7c4737121",
@@ -32545,61 +32524,6 @@
             "Chicago, IL"
         ],
         "company_url": "https://simplify.jobs/c/Adyen",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "a5feb749-b412-4449-9ff9-89b96b8864fa",
-        "title": "Visual Perception Algorithm Engineer Graduate - Human Body Perception Direction",
-        "active": false,
-        "date_updated": 1761096490,
-        "date_posted": 1761096490,
-        "url": "https://jobs.bytedance.com/en/position/7561662675321096509/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Datacor",
-        "id": "0191873f-3aaa-4b2e-99e9-eb794c771719",
-        "title": "Systems Administrator",
-        "active": false,
-        "date_updated": 1761888995,
-        "date_posted": 1761096204,
-        "url": "https://job-boards.greenhouse.io/datacor/jobs/4945943007",
-        "locations": [
-            "Corpus Christi, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Datacor",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Crowdstrike",
-        "id": "2cc53880-7a9b-4fb0-8f47-52805c67d189",
-        "title": "Analyst 1 \u2013 Falcon Complete - St. Louis",
-        "active": false,
-        "date_updated": 1762927321,
-        "date_posted": 1761094910,
-        "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Analyst-I--Falcon-Complete--Hybrid--St-Louis-_R25259",
-        "locations": [
-            "Remote in USA",
-            "St. Louis, MO"
-        ],
-        "company_url": "https://simplify.jobs/c/Crowdstrike",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -93131,26 +93055,6 @@
             "McCarran, NV"
         ],
         "company_url": "https://simplify.jobs/c/Redwood-Materials",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Analytic Partners",
-        "id": "1be82b3f-41fd-406c-91f2-30139ee6803e",
-        "title": "Marketing Science Analyst - February 16th - 2026 Start",
-        "active": false,
-        "date_updated": 1761096000,
-        "date_posted": 1761096000,
-        "url": "https://jobs.lever.co/analyticpartners/f7d06503-9067-4fbe-833c-089db235cb8e/apply",
-        "locations": [
-            "Colorado",
-            "Denver, CO",
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/Analytic-Partners",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
