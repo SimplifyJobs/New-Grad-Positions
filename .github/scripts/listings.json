@@ -32079,24 +32079,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "SWBC",
-        "id": "709410bd-166d-49d0-baca-971847e557e2",
-        "title": "Identity and Access Analyst",
-        "active": false,
-        "date_updated": 1761174133,
-        "date_posted": 1761174133,
-        "url": "https://swbc.wd1.myworkdayjobs.com/swbccareers/job/San-Antonio-TX/Identity-and-Access-Analyst_R0014039-1",
-        "locations": [
-            "San Antonio, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/SWBC",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "JP Morgan Chase",
         "id": "dc5d5724-00b8-4e6f-8ee3-5fdd0456fe8b",
         "title": "Technology Support Senior Specialist",
@@ -317383,7 +317365,7 @@
         "company_name": "Marsh",
         "id": "e68aac58-7bc4-4d3f-95cc-01647aad689d",
         "title": "Data & Analytics Analyst - Data & Analytics Consulting",
-        "active": false,
+        "active": true,
         "date_updated": 1779876578,
         "date_posted": 1778940330,
         "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/Berlin---Mittelstrasse/Oliver-Wyman---Data---Analytics-Consulting---Analyst--m-f-d----Berlin_R_326123-1",
@@ -329294,7 +329276,7 @@
         "company_name": "ZOLL Medical Corporation",
         "id": "353f3195-ac34-42c7-8ae2-2956421933e4",
         "title": "Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1780495714,
         "date_posted": 1780495437,
         "url": "https://zoll.wd5.myworkdayjobs.com/en-US/ZOLLMedicalCorp/job/US-CO-Broomfield/Software-Engineer-I_R18788",
@@ -347238,7 +347220,7 @@
         "company_name": "Lumos",
         "id": "b2821d77-c646-49ef-b41c-529b3aa9a13a",
         "title": "CAD Associate 1",
-        "active": true,
+        "active": false,
         "date_updated": 1781643958,
         "date_posted": 1781638833,
         "url": "https://job-boards.greenhouse.io/lumosfiber/jobs/5262625008",
@@ -347690,7 +347672,7 @@
         "company_name": "Defense Unicorns",
         "id": "535c1b31-4789-4ff4-a635-635c39a9df20",
         "title": "Associate Engineer - Data Platform",
-        "active": true,
+        "active": false,
         "date_updated": 1781647580,
         "date_posted": 1781639739,
         "url": "https://job-boards.greenhouse.io/defenseunicorns/jobs/5164721007",
@@ -349732,7 +349714,7 @@
         "company_name": "Protiviti",
         "id": "ea2387e3-16b7-4f82-9b85-f219f448c9e9",
         "title": "Technology Consulting Consultant",
-        "active": true,
+        "active": false,
         "date_updated": 1781647416,
         "date_posted": 1781639255,
         "url": "https://roberthalf.wd1.myworkdayjobs.com/ProtivitiNA/job/PRO-TAMPA/Tampa-Technology-Consulting-Consultant---2027_JR-260503-2",
@@ -354193,7 +354175,7 @@
         "company_name": "Goldman Sachs",
         "id": "9c889bbe-3176-45bf-96fc-ce726765f959",
         "title": "Compliance Associate - Data Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1781831523,
         "date_posted": 1781831227,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/171671",
@@ -354972,7 +354954,7 @@
         "company_name": "Smiths Detection Group",
         "id": "98adc934-fcbc-4896-ae04-c27a5d8880bc",
         "title": "Graduate Software Engineer - Data - Analytics - Automation & AI - 2 Years FTC",
-        "active": true,
+        "active": false,
         "date_updated": 1781881741,
         "date_posted": 1781877948,
         "url": "https://jobs.smartrecruiters.com/SmithsGroup2/744000132141649",
@@ -355197,6 +355179,127 @@
             "Jacksonville, FL"
         ],
         "company_url": "https://simplify.jobs/c/CSX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Boeing Company",
+        "id": "9cad5652-cd7f-411a-a609-2964b4428f74",
+        "title": "Entry-Level Illustrated Parts Catalog Data Author",
+        "active": true,
+        "date_updated": 1781908562,
+        "date_posted": 1781907267,
+        "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Seal-Beach-CA/Entry-Level-Illustrated-Parts-Catalog-Data-Author_JR2026498373-1",
+        "locations": [
+            "Seal Beach, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AllianceBernstein",
+        "id": "38f5e07d-e077-4145-ace5-85e4eb815a92",
+        "title": "Developer - Wealth Planning Tools - Wealth Forecasting System",
+        "active": true,
+        "date_updated": 1781907841,
+        "date_posted": 1781906909,
+        "url": "https://abglobal.wd1.myworkdayjobs.com/alliancebernsteincareers/job/Nashville-Tennessee/Developer_R0019142-2",
+        "locations": [
+            "Nashville, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/AllianceBernstein",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "33c76abf-c180-4765-b5b6-ac462699871b",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1781908677,
+        "date_posted": 1781907278,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MD-FULTON-8170--8170-Maple-Lawn-Blvd--MAPLE-LAWN-Ste-190-200--300/Software-Engineer-1--Onsite-_01853876",
+        "locations": [
+            "Fulton, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Emerson Electric",
+        "id": "cd2d84ef-5bc1-484b-82a8-b1d56a6d8d53",
+        "title": "Application Engineer 1",
+        "active": true,
+        "date_updated": 1781908810,
+        "date_posted": 1781906727,
+        "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26006819",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Emerson-Electric",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Mendix",
+        "id": "25232394-29df-44cb-b46f-e0a78b9da897",
+        "title": "Application Support Engineer",
+        "active": true,
+        "date_updated": 1781907841,
+        "date_posted": 1781906786,
+        "url": "https://jobs.lever.co/mendix/acd9f6de-8c4a-4226-b5fc-c164ebe39760/apply",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Mendix",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Peraton",
+        "id": "240a7035-37a2-46df-807a-e4b98a6e2d7f",
+        "title": "Java Software Engineer",
+        "active": true,
+        "date_updated": 1781908562,
+        "date_posted": 1781906794,
+        "url": "https://careers-peraton.icims.com/jobs/167686/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Peraton",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
