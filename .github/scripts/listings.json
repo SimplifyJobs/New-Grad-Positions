@@ -32417,24 +32417,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Stripe",
-        "id": "7976909a-f482-4a74-983f-25d80417dbf7",
-        "title": "Software Engineer - Payouts",
-        "active": false,
-        "date_updated": 1761158510,
-        "date_posted": 1761158510,
-        "url": "https://stripe.com/jobs/search?gh_jid=7208537",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Stripe",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "JP Morgan Chase",
         "id": "dc5d5724-00b8-4e6f-8ee3-5fdd0456fe8b",
         "title": "Technology Support Senior Specialist",
