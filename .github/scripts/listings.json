@@ -55536,27 +55536,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Intuit",
-        "id": "02419a40-bdee-41bb-90f4-75ad890cb839",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1763883611,
-        "date_posted": 1761118292,
-        "url": "https://jobs.intuit.com/job/mountain-view/principal-product-manager-mid-market-payments/27595/87369450768",
-        "locations": [
-            "NYC",
-            "Mountain View, CA",
-            "Atlanta, GA",
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Intuit",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Rivian",
         "id": "2a522a3e-4157-4c4b-840e-4d00cf65e342",
@@ -79714,25 +79693,6 @@
             "Fort Bragg, NC"
         ],
         "company_url": "https://simplify.jobs/c/KPH-Healthcare-Services",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Analytic Partners",
-        "id": "9f0fd84f-597c-4486-8f83-0a5529611597",
-        "title": "Marketing Science Analyst - February 16th - 2026 Start",
-        "active": false,
-        "date_updated": 1761119352,
-        "date_posted": 1761119352,
-        "url": "https://jobs.lever.co/analyticpartners/c161367a-dd4b-447c-b112-d0a2de5d6b67/apply",
-        "locations": [
-            "NYC",
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/Analytic-Partners",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
