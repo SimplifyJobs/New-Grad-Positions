@@ -322277,7 +322277,7 @@
         "company_name": "Integer Holdings Corporation",
         "id": "384d9167-9b17-415c-8688-f23c28147653",
         "title": "Calibration Technician / CMM Programmer",
-        "active": true,
+        "active": false,
         "date_updated": 1779957283,
         "date_posted": 1778942661,
         "url": "https://integer.wd1.myworkdayjobs.com/External/job/Minneapolis-MN/Calibration-Technician-III_R34989",
@@ -333005,7 +333005,7 @@
         "company_name": "Greenheck Group",
         "id": "82c179b5-8eab-4417-abf4-e81dbfe9c09b",
         "title": "Application Engineer 1/2 Senior",
-        "active": false,
+        "active": true,
         "date_updated": 1780651156,
         "date_posted": 1780131835,
         "url": "https://greenheckgroup.wd5.myworkdayjobs.com/external/job/Minneapolis-MN/Application-Engineer-II-Sr_JR103698",
@@ -337783,7 +337783,7 @@
         "company_name": "RTX",
         "id": "7db737f1-b67f-477e-a5a6-94674263ada3",
         "title": "Semiconductor Equipment Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1781015182,
         "date_posted": 1781014588,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-ANDOVER-AR2--362-Lowell-St--AR2-PLYMOUTH-BLDG/Semiconductor-Equipment-Engineer_01851347",
@@ -338592,7 +338592,7 @@
         "company_name": "Entergy",
         "id": "9f4206b5-342f-4005-83c4-9f6e6b0a21e5",
         "title": "Data Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1781044021,
         "date_posted": 1781042852,
         "url": "https://jobs.entergy.com/job/New-Orleans-Data-Scientist-Loui/1398250100/?ats=successfactors",
@@ -341245,7 +341245,7 @@
         "company_name": "Lithia Motors",
         "id": "2664a38f-b76f-42f0-82a4-12aecc67d729",
         "title": "Product Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1781166871,
         "date_posted": 1781129201,
         "url": "https://lithia.wd5.myworkdayjobs.com/LithiaCareers/job/BMW-of-Minnetonka-Minnetonka-MN-55391/Product-Specialist_R110644",
@@ -343925,7 +343925,7 @@
         "company_name": "RTX",
         "id": "70a25a5c-fceb-42fd-8775-06160a182225",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1781217309,
         "date_posted": 1781215848,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/XMLNAME-2026-Raytheon-Full-Time--Software-Engineer-I---Onsite-_01852152",
@@ -344877,7 +344877,7 @@
         "company_name": "Stanley Black & Decker",
         "id": "a44ee013-aadd-4835-86ab-75fe3e9b47b0",
         "title": "Engineering Technician - Electrical",
-        "active": false,
+        "active": true,
         "date_updated": 1781257184,
         "date_posted": 1781215466,
         "url": "https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Valley-City-OH-United-States/Engineering-Technician--Electrical_REQ-1000048988",
@@ -348282,7 +348282,7 @@
         "company_name": "EOS IT Solutions",
         "id": "9feea1a6-4256-4c37-a7c3-88143f2bff96",
         "title": "Graduate Data Centre Technician - Data Centre Placement",
-        "active": true,
+        "active": false,
         "date_updated": 1781648835,
         "date_posted": 1781639523,
         "url": "https://eosits.com/company/careers/?gh_jid=8594075002",
@@ -353314,7 +353314,7 @@
         "company_name": "Howden",
         "id": "5d3b789a-f436-46c4-8c1b-26789924a3f7",
         "title": "Product Coordinator",
-        "active": true,
+        "active": false,
         "date_updated": 1781773630,
         "date_posted": 1781639291,
         "url": "https://hyperiongrp.wd3.myworkdayjobs.com/Hyperion_External/job/London/Product-Coordinator_R0016962-1",
@@ -355214,6 +355214,47 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GE Healthcare",
+        "id": "24ee3d12-9b35-4c67-a394-f7756e2d8ef9",
+        "title": "Field Service Engineer 1",
+        "active": true,
+        "date_updated": 1781858628,
+        "date_posted": 1781344839,
+        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1_R4041924-1",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Healthcare",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University Health Network",
+        "id": "3a5c9aed-3bae-4805-9863-2a9cecef7650",
+        "title": "Postdoctoral Researcher",
+        "active": true,
+        "date_updated": 1781859061,
+        "date_posted": 1776261798,
+        "url": "https://jobs.smartrecruiters.com/UniversityHealthNetwork/744000132936089",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Health-Network",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
         ]
     }
 ]
