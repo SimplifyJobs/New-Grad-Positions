@@ -3031,7 +3031,7 @@
         "company_name": "Graphcore",
         "id": "b1bea4c8-6a49-481a-b7df-344e8de8ae75",
         "title": "2026 Graduate Software Engineer - Pytorch",
-        "active": true,
+        "active": false,
         "date_updated": 1762274142,
         "date_posted": 1762274142,
         "url": "https://job-boards.greenhouse.io/graphcore/jobs/8235270002",
@@ -171948,7 +171948,7 @@
         "company_name": "DellFor Technologies",
         "id": "b95085e2-8361-490f-ab61-0871fb589712",
         "title": "Entry-Level Java Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1771600821,
         "date_posted": 1771600821,
         "url": "https://jobs.smartrecruiters.com/DellforTechnologies/102098119",
@@ -186208,7 +186208,7 @@
         "company_name": "USM Business Systems",
         "id": "bd8b3c20-c588-4db1-907f-4692e65390ff",
         "title": "Risk Analyst Quant Background",
-        "active": false,
+        "active": true,
         "date_updated": 1772205378,
         "date_posted": 1772205378,
         "url": "https://jobs.smartrecruiters.com/USM2/96166945",
@@ -239254,7 +239254,7 @@
         "company_name": "SA Technologies",
         "id": "ba18bed8-4c58-492b-9fe2-23a2145c4bd0",
         "title": "Support Engineer - Python",
-        "active": false,
+        "active": true,
         "date_updated": 1774981261,
         "date_posted": 1772090306,
         "url": "https://jobs.smartrecruiters.com/SATechnologiesInc4/85774799",
@@ -292884,7 +292884,7 @@
         "company_name": "JP Morgan Chase",
         "id": "ef0ea6b9-1400-447e-8937-f085133bc273",
         "title": "Reporting and Governance Associate - Artificial Intelligence Program Management",
-        "active": true,
+        "active": false,
         "date_updated": 1778162761,
         "date_posted": 1778162735,
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210739028",
@@ -302007,7 +302007,7 @@
         "company_name": "WSP",
         "id": "c6d72504-c45d-4e3a-9d24-7420bb8aecf8",
         "title": "Assistant Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1778854501,
         "date_posted": 1778854334,
         "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/87106",
@@ -302478,7 +302478,7 @@
         "company_name": "JP Morgan Chase",
         "id": "bbc42737-f451-42e3-88ab-8d86b3d69524",
         "title": "Discretionary and Advisory Product Development - Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1778882941,
         "date_posted": 1778882777,
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210748752",
@@ -314377,7 +314377,7 @@
         "company_name": "Hologic",
         "id": "bf4c59c7-655e-4ecf-b795-31bc060316e4",
         "title": "Field Service Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1779821821,
         "date_posted": 1778623589,
         "url": "https://ebwb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/11603",
@@ -317739,7 +317739,7 @@
         "company_name": "Marsh",
         "id": "e68aac58-7bc4-4d3f-95cc-01647aad689d",
         "title": "Data & Analytics Analyst - Data & Analytics Consulting",
-        "active": true,
+        "active": false,
         "date_updated": 1779876578,
         "date_posted": 1778940330,
         "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/Berlin---Mittelstrasse/Oliver-Wyman---Data---Analytics-Consulting---Analyst--m-f-d----Berlin_R_326123-1",
@@ -330888,7 +330888,7 @@
         "company_name": "Reach Financial",
         "id": "39349736-2696-42cf-9e4b-deaf9d2b3246",
         "title": "Credit Risk Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1780526126,
         "date_posted": 1780525423,
         "url": "https://job-boards.greenhouse.io/reach/jobs/8573228002",
@@ -336016,7 +336016,7 @@
         "company_name": "GE Healthcare",
         "id": "36e9ff78-3874-4c00-8071-cf878030a4c2",
         "title": "Field Service Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1780956849,
         "date_posted": 1780956345,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-I_R4041630-1",
@@ -344937,7 +344937,7 @@
         "company_name": "Huntington Bancshares",
         "id": "fea9b26b-7490-4baf-9dfb-79979a9b2303",
         "title": "Data & Insights Analyst - Commercial Banking",
-        "active": true,
+        "active": false,
         "date_updated": 1781259481,
         "date_posted": 1781186911,
         "url": "https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Charlotte-NC/Senior-CML-Data-and-Insights-Analyst_R0066661",
@@ -345604,7 +345604,7 @@
         "company_name": "Smiths Detection Group",
         "id": "74c47017-36eb-491a-8ffc-b8887cbf2bf8",
         "title": "Graduate Software Engineer - Data - Analytics",
-        "active": true,
+        "active": false,
         "date_updated": 1781303221,
         "date_posted": 1781301938,
         "url": "https://jobs.smartrecruiters.com/SmithsGroup2/744000131915694",
@@ -351285,7 +351285,7 @@
         "company_name": "Zebra Technologies",
         "id": "f3a6ba08-f230-4922-a0a6-2b0b7093814c",
         "title": "Software Development Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1781677198,
         "date_posted": 1781676469,
         "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/Software-Development-Engineer-I-1_JR102007",
@@ -355256,5 +355256,183 @@
         "degrees": [
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Phoenix Group",
+        "id": "0dc4edbc-25bb-469a-b20f-2c4a0ec2165f",
+        "title": "P&S Data Governance Analyst",
+        "active": true,
+        "date_updated": 1781877961,
+        "date_posted": 1781877959,
+        "url": "https://fa-enor-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20391",
+        "locations": [
+            "London, UK",
+            "Edinburgh, UK",
+            "Birmingham, UK",
+            "Stoke-on-Trent, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Phoenix-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Synchrony Financial",
+        "id": "209e60d7-b96b-416f-b67c-ab7fc9448615",
+        "title": "API Software Development Engineer 1",
+        "active": true,
+        "date_updated": 1781878692,
+        "date_posted": 1781878090,
+        "url": "https://synchronyfinancial.wd5.myworkdayjobs.com/careers/job/Stamford-Engagement-Hub-CT/API-Software-Development-Engineer---I_2601817",
+        "locations": [
+            "Stamford, CT",
+            "Charlotte, NC",
+            "Alpharetta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Synchrony-Financial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AG Technologies",
+        "id": "bbcbb302-5fc7-46a5-bb7c-8be2ad950ce0",
+        "title": "TIBCO Spotfire",
+        "active": true,
+        "date_updated": 1781877961,
+        "date_posted": 1781877913,
+        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/85322486",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/AG-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "BRG",
+        "id": "b25e2a86-313d-4532-921f-0a7b4e2d020c",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1781878330,
+        "date_posted": 1781878182,
+        "url": "https://thinkbrg.wd5.myworkdayjobs.com/en-US/BRG_External_Career_Site/job/Remote---USA/Data-Analyst_JR100906",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/BRG",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Smiths Detection Group",
+        "id": "98adc934-fcbc-4896-ae04-c27a5d8880bc",
+        "title": "Graduate Software Engineer - Data - Analytics - Automation & AI - 2 Years FTC",
+        "active": true,
+        "date_updated": 1781881741,
+        "date_posted": 1781877948,
+        "url": "https://jobs.smartrecruiters.com/SmithsGroup2/744000132141649",
+        "locations": [
+            "Birmingham, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Smiths-Detection-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "STEM Xpert",
+        "id": "bc3f825c-7fc7-4aa3-bb51-40befc128f05",
+        "title": "Data Architect",
+        "active": true,
+        "date_updated": 1781878442,
+        "date_posted": 1781878044,
+        "url": "https://jobs.smartrecruiters.com/StemXpert1/92601843",
+        "locations": [
+            "East Lansing, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/STEM-Xpert",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Marshall Wace",
+        "id": "941207da-c567-4965-aca1-c135d3773bd4",
+        "title": "Quantitative Associate Programme - Quant Associate Programme",
+        "active": true,
+        "date_updated": 1781877907,
+        "date_posted": 1781877778,
+        "url": "https://job-boards.greenhouse.io/mw-tech-grad/jobs/8600515002",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Marshall-Wace",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Teledyne",
+        "id": "f09ca8a5-8a71-4b34-9eec-3896456fd3a4",
+        "title": "Calibration Technician/Engineer",
+        "active": true,
+        "date_updated": 1781878862,
+        "date_posted": 1781878352,
+        "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/UK---Chelmsford-TDY/Calibration-Technician-Engineer_REQ35175",
+        "locations": [
+            "Essex, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/199b3c43-379a-408c-a6a8-980e79183038",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "KRG Technologies",
+        "id": "b4b8249f-b8fd-491d-a1cb-5466b6ec5f88",
+        "title": "Java Developer",
+        "active": true,
+        "date_updated": 1781877961,
+        "date_posted": 1781877951,
+        "url": "https://jobs.smartrecruiters.com/KrgTechnologyInc/100733740",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/KRG-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
