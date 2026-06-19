@@ -32362,60 +32362,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "JP Morgan Chase",
-        "id": "c2aed4f1-df7b-4af4-b34e-4b3bc59c2339",
-        "title": "Quant Model Risk Analyst/Associate",
-        "active": false,
-        "date_updated": 1762436878,
-        "date_posted": 1761165029,
-        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210679051",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Becton Dickinson",
-        "id": "0fae1baa-74ec-43be-b935-e132ed7073a9",
-        "title": "Molding Electro-Mechanical Technician - C Shift",
-        "active": false,
-        "date_updated": 1761164469,
-        "date_posted": 1761164469,
-        "url": "https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-NE---Columbus-West/Molding-Electro-Mechanical-Technician---C-Shift_R-530626",
-        "locations": [
-            "Norfolk, NE"
-        ],
-        "company_url": "https://simplify.jobs/c/Becton-Dickinson",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Thermo Fisher Scientific",
-        "id": "54fdda43-9cd8-48ab-908c-d05a4269f4c3",
-        "title": "Field Service Engineer 1 - Electron Microscopy",
-        "active": false,
-        "date_updated": 1761935294,
-        "date_posted": 1761164286,
-        "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-California-USA/Field-Service-Engineer_R-01330800-1",
-        "locations": [
-            "California"
-        ],
-        "company_url": "https://simplify.jobs/c/Thermo-Fisher-Scientific",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "JP Morgan Chase",
         "id": "dc5d5724-00b8-4e6f-8ee3-5fdd0456fe8b",
