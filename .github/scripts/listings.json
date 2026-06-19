@@ -292661,7 +292661,7 @@
         "company_name": "ALSO",
         "id": "f1b6d19e-a261-4ec6-a1f3-85fc7c152178",
         "title": "Dyno Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1778147461,
         "date_posted": 1765581520,
         "url": "https://jobs.ashbyhq.com/Ridealso/8e9d8dca-faae-4c1e-9f5a-8214898aeb45/application",
@@ -320565,7 +320565,7 @@
         "company_name": "Applied Fluid Power",
         "id": "3737778e-8068-405d-a485-54ae6d46d2aa",
         "title": "Master Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1779920281,
         "date_posted": 1779919687,
         "url": "https://applied.wd501.myworkdayjobs.com/applied/job/Sherwood-OR/Master-Data-Analyst_JR104426-1",
@@ -330821,7 +330821,7 @@
         "company_name": "Interwell Health",
         "id": "d8f3b40f-7488-4eef-a14f-70ca05c4e50c",
         "title": "Senior Data Analyst - Data Infrastructure",
-        "active": true,
+        "active": false,
         "date_updated": 1780525911,
         "date_posted": 1780524693,
         "url": "https://job-boards.greenhouse.io/interwellhealth/jobs/5234251008",
@@ -355159,6 +355159,26 @@
             "Associate's",
             "JD",
             "MD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Texas Instruments",
+        "id": "f2af9d1e-3614-4c95-bdd0-d3441623bfec",
+        "title": "Career Accelerator Program - Software Engineer",
+        "active": true,
+        "date_updated": 1781831341,
+        "date_posted": 1781831169,
+        "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25011161",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Texas-Instruments",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
