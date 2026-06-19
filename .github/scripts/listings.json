@@ -354184,5 +354184,217 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "EOS IT Solutions",
+        "id": "f60d2a89-6453-4548-add1-cb3a87970f57",
+        "title": "Data Center Repair Technician 1 - Mal",
+        "active": true,
+        "date_updated": 1781822319,
+        "date_posted": 1781821007,
+        "url": "https://eosits.com/company/careers/?gh_jid=8599391002",
+        "locations": [
+            "Alabama"
+        ],
+        "company_url": "https://simplify.jobs/c/EOS-IT-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "c132b3b8-5721-4f53-b400-26be945a65e8",
+        "title": "Engineer Aeronautical / Principal Engineer Aeronautical",
+        "active": true,
+        "date_updated": 1781821621,
+        "date_posted": 1781820775,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/Engineer-Aeronautical---Principal-Engineer-Aeronautical_R10235662",
+        "locations": [
+            "Palmdale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SpaceX",
+        "id": "32f28caf-1112-476e-abf0-98d17b1d1c30",
+        "title": "Software Engineer - High Assurance Test - Starshield",
+        "active": true,
+        "date_updated": 1781821621,
+        "date_posted": 1781821063,
+        "url": "https://boards.greenhouse.io/spacex/jobs/8550675002",
+        "locations": [
+            "West Athens, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/SpaceX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Emergent Holdings ",
+        "id": "27b62683-1f1a-4a24-b53d-aa43e1630f00",
+        "title": "Associate Data Analyst",
+        "active": true,
+        "date_updated": 1781820361,
+        "date_posted": 1781820237,
+        "url": "https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_5/job/14366",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Emergent-Holdings",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CenterWell",
+        "id": "dd031f1c-d024-4b6f-b219-420cba04150e",
+        "title": "Business Intelligence Engineer",
+        "active": true,
+        "date_updated": 1781820903,
+        "date_posted": 1781820635,
+        "url": "https://humana.wd5.myworkdayjobs.com/centerwell_external_career_site/job/Remote-Nationwide/Business-Intelligence-Engineer_R-416276",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/CenterWell",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GE Healthcare",
+        "id": "d2ff1270-eca5-47c9-b13a-781c17317939",
+        "title": "Field Engineer 1",
+        "active": true,
+        "date_updated": 1781822050,
+        "date_posted": 1781820703,
+        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/El-Paso/Field-Engineer-1_R4042436-1",
+        "locations": [
+            "El Paso, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Healthcare",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Insperity",
+        "id": "bb29677a-3aad-4ed5-85d0-20dbc0181cc0",
+        "title": "Associate Software Implementation Analyst",
+        "active": true,
+        "date_updated": 1781821621,
+        "date_posted": 1781820248,
+        "url": "https://insperity.wd12.myworkdayjobs.com/NSP/job/Kennesaw-GA/Associate-Software-Implementation-Analyst_JR102796",
+        "locations": [
+            "Madison, WI",
+            "Bloomington, MN",
+            "Texas",
+            "Kingwood, Houston, TX",
+            "Minnesota",
+            "Wauwatosa, WI",
+            "Wisconsin",
+            "Kennesaw, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Insperity",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Cushman & Wakefield",
+        "id": "b6623374-8222-4483-84e4-f1159c3508b3",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1781821621,
+        "date_posted": 1781820625,
+        "url": "https://cw.wd1.myworkdayjobs.com/external/job/San-Jose-California-USA/Data-Analyst_R318761",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cushman-And-Wakefield",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Eudia",
+        "id": "8bbac63d-a6c1-46b4-8d52-7f6ef3971f4a",
+        "title": "Forward Deployed Engineer",
+        "active": true,
+        "date_updated": 1781821698,
+        "date_posted": 1777414518,
+        "url": "https://job-boards.greenhouse.io/eudia/jobs/4234585009",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Eudia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Leidos",
+        "id": "14d9a1e5-5664-4e2b-92e4-6b1814c5aa6b",
+        "title": "Radio Frequency Engineer",
+        "active": true,
+        "date_updated": 1781822399,
+        "date_posted": 1781820719,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/RF-Engineer_R-00185737",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
