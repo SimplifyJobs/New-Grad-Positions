@@ -280180,7 +280180,7 @@
         "company_name": "Priceline",
         "id": "a2c49b6b-8470-421d-9534-d51cb85c1549",
         "title": "Associate Data Developer - Fintech",
-        "active": false,
+        "active": true,
         "date_updated": 1777331590,
         "date_posted": 1777327653,
         "url": "https://priceline.wd1.myworkdayjobs.com/Priceline/job/Toronto/Associate-Data-Developer--FinTech_R5619",
@@ -345212,7 +345212,7 @@
         "company_name": "Smiths Detection Group",
         "id": "74c47017-36eb-491a-8ffc-b8887cbf2bf8",
         "title": "Graduate Software Engineer - Data - Analytics",
-        "active": true,
+        "active": false,
         "date_updated": 1781303221,
         "date_posted": 1781301938,
         "url": "https://jobs.smartrecruiters.com/SmithsGroup2/744000131915694",
@@ -354954,7 +354954,7 @@
         "company_name": "Smiths Detection Group",
         "id": "98adc934-fcbc-4896-ae04-c27a5d8880bc",
         "title": "Graduate Software Engineer - Data - Analytics - Automation & AI - 2 Years FTC",
-        "active": false,
+        "active": true,
         "date_updated": 1781881741,
         "date_posted": 1781877948,
         "url": "https://jobs.smartrecruiters.com/SmithsGroup2/744000132141649",
@@ -355711,5 +355711,26 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "PNC Financial Services",
+        "id": "a6ea2666-3546-4bae-96c6-8f5a881a064b",
+        "title": "Software Engineer Associate",
+        "active": true,
+        "date_updated": 1781918043,
+        "date_posted": 1781917807,
+        "url": "https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Software-Engineer-Associate_R225875-1",
+        "locations": [
+            "Downers Grove, IL",
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/PNC-Financial-Services",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
