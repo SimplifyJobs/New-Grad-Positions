@@ -5,9 +5,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/New-Grad-Positions/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
 ---
-### Browse 224 New Grad Roles by Category
+### Browse 223 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (157)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (156)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (3)
 
@@ -983,13 +983,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>3mo</td>
 </tr>
 <tr>
-<td><strong>Baton Corporation</strong></td>
-<td>Junior Full Stack Engineer</td>
-<td>New York, NY</td>
-<td><a href="https://jobs.ashbyhq.com/batoncorporation/bb3ab630-5e59-48b5-9794-00a225879a66?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td>4mo</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/NOV?utm_source=GHList&utm_medium=company">NOV</a></strong></td>
 <td>Product Engineer 1</td>
 <td>Houston, TX</td>
@@ -1183,7 +1176,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (1251)</summary>
+<summary>🗃️ Inactive roles (1252)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -5253,6 +5246,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><strong><a href="https://simplify.jobs/c/USAA?utm_source=GHList&utm_medium=company">USAA</a></strong></td>
 <td>Software Engineer 1</td>
 <td>Phoenix, AZ</td>
+<td>🔒</td>
+<td>4mo</td>
+</tr>
+<tr>
+<td><strong>Baton Corporation</strong></td>
+<td>Junior Full Stack Engineer</td>
+<td>New York, NY</td>
 <td>🔒</td>
 <td>4mo</td>
 </tr>
@@ -11295,7 +11295,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>3mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Travelers?utm_source=GHList&utm_medium=company">The Travelers Companies</a></strong></td>
+<td>↳</td>
 <td>Data Engineer 1 - Multiple Teams</td>
 <td>Hartford, CT</br>St Paul, MN</td>
 <td>🔒</td>
@@ -11845,21 +11845,21 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Data Scientist I - Hybrid</td>
 <td>New York, NY</td>
 <td>🔒</td>
-<td>5mo</td>
+<td>6mo</td>
 </tr>
 <tr>
 <td><strong>CliftonLarsonAllen</strong></td>
 <td>Data Analyst Associate</td>
 <td>St Louis, MO</td>
 <td>🔒</td>
-<td>5mo</td>
+<td>6mo</td>
 </tr>
 <tr>
 <td><strong>First Financial Bank</strong></td>
 <td>AI Developer I- Call Center</td>
 <td>Abilene, TX</td>
 <td>🔒</td>
-<td>5mo</td>
+<td>6mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Sayari?utm_source=GHList&utm_medium=company">Sayari</a></strong></td>
