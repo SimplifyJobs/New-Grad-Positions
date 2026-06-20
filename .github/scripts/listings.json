@@ -256250,7 +256250,7 @@
         "company_name": "Intel",
         "id": "516b5302-4ca0-4cdb-a862-4364e6a4c011",
         "title": "Post-silicon Validation and Debug Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1775861240,
         "date_posted": 1775858943,
         "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Post-silicon-Validation-and-Debug-Engineer_JR0282304",
@@ -274252,7 +274252,7 @@
         "company_name": "Johnson & Johnson",
         "id": "28729fe5-5a9a-4375-bf42-228fe34e4f0e",
         "title": "Postdoctoral Scientist Data Science AI/ML & DH",
-        "active": false,
+        "active": true,
         "date_updated": 1776820141,
         "date_posted": 1776820106,
         "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Neuss-North-Rhine-Westphalia-Germany/Postdoctoral-Scientist-Data-Science-AI-ML---DH_R-071295-1",
@@ -280263,7 +280263,7 @@
         "company_name": "Bluestaq",
         "id": "73624c9f-6f6d-468a-8b0d-4b59c8ed5fc0",
         "title": "Senior Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1777330983,
         "date_posted": 1777327823,
         "url": "https://job-boards.greenhouse.io/bluestaq/jobs/4226413009",
@@ -317345,7 +317345,7 @@
         "company_name": "LexisNexis Risk Solutions",
         "id": "f7292aa6-7328-4d24-92dd-1c877cb86dce",
         "title": "Solutions Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1779876631,
         "date_posted": 1778922100,
         "url": "https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/United-Kingdom/Solutions-Analyst_R109322",
@@ -322360,7 +322360,7 @@
         "company_name": "Liberis",
         "id": "ca0028f3-ad0e-4830-bee0-cde8d97928fd",
         "title": "Product Operations Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1779960513,
         "date_posted": 1779959475,
         "url": "https://job-boards.greenhouse.io/liberis/jobs/7962565",
@@ -326597,7 +326597,7 @@
         "company_name": "Goldman Sachs",
         "id": "d8f3b21b-ca53-4c69-99d4-ca2ffec5ce73",
         "title": "Global Banking & Markets - Fund Finance Strats - Analyst/Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1780393615,
         "date_posted": 1772234400,
         "url": "https://higher.gs.com/roles/164535",
@@ -348584,7 +348584,7 @@
         "company_name": "Goldman Sachs",
         "id": "a3ee586e-9f97-4009-92cc-dc4affda3b3a",
         "title": "Asset & Wealth Management - Quantitative Investment Strategies - ETF Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1781648474,
         "date_posted": 1781638708,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/176625",
@@ -353059,7 +353059,7 @@
         "company_name": "Atlas Energy Solutions",
         "id": "3d368048-e329-4632-9100-f86205ea53a9",
         "title": "Electrical Panel Assembly Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1781792735,
         "date_posted": 1781792350,
         "url": "https://job-boards.greenhouse.io/atlassand/jobs/8485256002",
@@ -355300,6 +355300,254 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Peraton",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TD Bank",
+        "id": "ffbfdba0-6a46-484c-a614-c32e784325e2",
+        "title": "Business Insights Analyst 1",
+        "active": true,
+        "date_updated": 1781908456,
+        "date_posted": 1781906841,
+        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Montral-Qubec/Business-Insights-Analyst-I_R_1495705",
+        "locations": [
+            "Montreal, QC, Canada",
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/TD-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Primetals Technologies",
+        "id": "eb1172e1-919e-4b58-97c7-3fee4ddf9008",
+        "title": "Project Support Engineer 1",
+        "active": true,
+        "date_updated": 1781908544,
+        "date_posted": 1781906969,
+        "url": "https://mhicareers.com/job/Orlando-Project-Support-Engineer-I-FL-32809/1406621533/?ats=successfactors",
+        "locations": [
+            "Orlando, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Primetals-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "c9536506-69db-490b-b03f-a262ebf6c170",
+        "title": "Software Engineer 1 - Tactical Communications",
+        "active": true,
+        "date_updated": 1781908674,
+        "date_posted": 1781907276,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineer-1---Tactical-Communications--Onsite-_01851404-1",
+        "locations": [
+            "Cedar Rapids, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Vanasse Hangen Brustlin (VHB)",
+        "id": "0842a18f-1f7b-4b21-bd34-42782f2772cb",
+        "title": "Data Scientist",
+        "active": true,
+        "date_updated": 1781907841,
+        "date_posted": 1781906838,
+        "url": "https://careers-vhb.icims.com/jobs/6107/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Washington, DC",
+            "Vienna, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Vanasse-Hangen-Brustlin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "UL Solutions",
+        "id": "01ee53be-2028-4c20-94bf-ef56ad2f8735",
+        "title": "Business Data Analyst Associate",
+        "active": true,
+        "date_updated": 1781906780,
+        "date_posted": 1781906579,
+        "url": "https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/9932",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/UL-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Toyota",
+        "id": "fb333a4b-1816-4848-9493-840161835c85",
+        "title": "Talent Mobility Technology Analyst",
+        "active": true,
+        "date_updated": 1781907841,
+        "date_posted": 1781906915,
+        "url": "https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Talent-Mobility-Technology-Analyst_10329379",
+        "locations": [
+            "Plano, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Toyota",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "PhD",
+            "JD",
+            "MD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Granite Construction",
+        "id": "5e853f47-8506-4e4c-96f3-88bd7c4ce574",
+        "title": "Regional Technology Associate",
+        "active": true,
+        "date_updated": 1781907841,
+        "date_posted": 1781906919,
+        "url": "https://granite.wd1.myworkdayjobs.com/careers/job/Tucson-Arizona/Regional-Technology-Associate_R0000007670",
+        "locations": [
+            "Tucson, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Granite-Construction",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "EquipmentShare",
+        "id": "7d22953a-c095-4ba3-909b-476b21ade401",
+        "title": "Telematics Installer",
+        "active": true,
+        "date_updated": 1781909108,
+        "date_posted": 1781907948,
+        "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=7958380",
+        "locations": [
+            "Columbus, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Equipment-Share",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "EquipmentShare",
+        "id": "63c7a822-8e1e-40be-b1ad-2c313ace6beb",
+        "title": "Telematics Installer",
+        "active": true,
+        "date_updated": 1781908562,
+        "date_posted": 1781907948,
+        "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=7994041",
+        "locations": [
+            "Cheyenne, WY"
+        ],
+        "company_url": "https://simplify.jobs/c/Equipment-Share",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Texas Instruments",
+        "id": "5d85b71c-4968-414b-b646-2596ac1e1c72",
+        "title": "Career Accelerator Program - Analog Design Engineer",
+        "active": true,
+        "date_updated": 1781906762,
+        "date_posted": 1781906690,
+        "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25009792",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Texas-Instruments",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Markon",
+        "id": "ce00053f-eecf-4aee-aa60-157679e25a0f",
+        "title": "Software Engineer Level 0",
+        "active": true,
+        "date_updated": 1781907841,
+        "date_posted": 1781906937,
+        "url": "https://careers-markon.icims.com/jobs/8439/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Odenton, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Markon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Canon",
+        "id": "f4ad704c-86be-4c36-bcb2-cdd53569377a",
+        "title": "Service Technician 1",
+        "active": true,
+        "date_updated": 1781906713,
+        "date_posted": 1781906507,
+        "url": "https://external-canoncareers.icims.com/jobs/34493/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Coppell, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Canon",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
