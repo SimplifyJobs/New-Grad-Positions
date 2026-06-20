@@ -31587,24 +31587,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Adelphi Real World",
-        "id": "e2101fa8-1ed1-4933-8ebb-465cf5f0b3b9",
-        "title": "Associate Data Processing Analyst",
-        "active": false,
-        "date_updated": 1761254064,
-        "date_posted": 1761254064,
-        "url": "https://job-boards.greenhouse.io/adelphirealworld/jobs/4940321008",
-        "locations": [
-            "Buxton, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Adelphi-Real-World",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "JP Morgan Chase",
         "id": "dc5d5724-00b8-4e6f-8ee3-5fdd0456fe8b",
@@ -347179,7 +347161,7 @@
         "company_name": "Oregon State Government",
         "id": "e317bbf2-88a5-4e4c-953c-717c4ce2b45b",
         "title": "Research Analyst 2",
-        "active": false,
+        "active": true,
         "date_updated": 1781648013,
         "date_posted": 1781639369,
         "url": "https://oregon.wd5.myworkdayjobs.com/sor_external_career_site/job/Portland--OHCS/Research-Analyst-2_REQ-201865-1",
