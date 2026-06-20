@@ -195320,7 +195320,7 @@
         "company_name": "The Boeing Company",
         "id": "5a804625-fd1e-4461-b447-6689e4932d26",
         "title": "Entry Level Illustrated Parts Catalog Data Author",
-        "active": false,
+        "active": true,
         "date_updated": 1772672571,
         "date_posted": 1772672571,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seal-Beach-CA/Entry-Level-Illustrated-Parts-Catalog-Data-Author_JR2026498373-2",
@@ -280180,7 +280180,7 @@
         "company_name": "Priceline",
         "id": "a2c49b6b-8470-421d-9534-d51cb85c1549",
         "title": "Associate Data Developer - Fintech",
-        "active": true,
+        "active": false,
         "date_updated": 1777331590,
         "date_posted": 1777327653,
         "url": "https://priceline.wd1.myworkdayjobs.com/Priceline/job/Toronto/Associate-Data-Developer--FinTech_R5619",
@@ -345212,7 +345212,7 @@
         "company_name": "Smiths Detection Group",
         "id": "74c47017-36eb-491a-8ffc-b8887cbf2bf8",
         "title": "Graduate Software Engineer - Data - Analytics",
-        "active": false,
+        "active": true,
         "date_updated": 1781303221,
         "date_posted": 1781301938,
         "url": "https://jobs.smartrecruiters.com/SmithsGroup2/744000131915694",
@@ -351914,7 +351914,7 @@
         "company_name": "Rogers Behavioral Health",
         "id": "96cf2022-ba80-4979-ad49-41b8fff0873f",
         "title": "Therapist Intensive Outpatient/Partial Hospitalization",
-        "active": true,
+        "active": false,
         "date_updated": 1781736760,
         "date_posted": 1781734312,
         "url": "https://rogersbh.wd1.myworkdayjobs.com/rbhcareer/job/Skokie-Clinic-Skokie-IL/Therapist--IOP-PHP_R7457",
@@ -355553,5 +355553,163 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Vertiv",
+        "id": "65ebadfe-3812-4947-b8e7-ec568101bb13",
+        "title": "Electrical Testing Technician",
+        "active": true,
+        "date_updated": 1781907065,
+        "date_posted": 1781906681,
+        "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20273464",
+        "locations": [
+            "Austin, TX",
+            "San Antonio, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Vertiv",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Mars",
+        "id": "4654f268-c3f9-47f1-b7fa-6686e534b593",
+        "title": "Industrial Data Engineer",
+        "active": true,
+        "date_updated": 1781907157,
+        "date_posted": 1781906756,
+        "url": "https://mars.wd3.myworkdayjobs.com/external/job/USA-South-Dakota-North-Sioux-City/Site-Industrial-Data-Engineer_R158037",
+        "locations": [
+            "Sioux City, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/Mars",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Jackson Laboratory",
+        "id": "6c8d14fe-8e0f-4f59-8901-19e3e245548a",
+        "title": "Research Data Analyst",
+        "active": true,
+        "date_updated": 1781906762,
+        "date_posted": 1781906590,
+        "url": "https://thejacksonlaboratory.wd503.myworkdayjobs.com/External_JAX/job/Bar-Harbor-Maine/Research-Data-Analyst_JR006004",
+        "locations": [
+            "Bangor, ME"
+        ],
+        "company_url": "https://simplify.jobs/c/daa2f0b8-9146-4be9-90ed-1bd7fd73664c",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Ooma",
+        "id": "5df6db23-9beb-4235-8d56-2c2385ae64c3",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1781908562,
+        "date_posted": 1781907727,
+        "url": "https://job-boards.greenhouse.io/ooma/jobs/5120235007",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Ooma",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Worldwide TechServices",
+        "id": "5b35fe1a-ac46-4c8b-90f4-e6563c1ce913",
+        "title": "Dynamic Server Support",
+        "active": true,
+        "date_updated": 1781906762,
+        "date_posted": 1781906646,
+        "url": "https://jobs.smartrecruiters.com/WorldwideTechServices/744000133089187",
+        "locations": [
+            "South Bend, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Worldwide-TechServices",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Pallet",
+        "id": "a5d959e8-8117-421c-a107-9eec1e9bbee0",
+        "title": "Product & Deployment Engineer",
+        "active": true,
+        "date_updated": 1781908562,
+        "date_posted": 1781907414,
+        "url": "https://job-boards.greenhouse.io/pallet/jobs/5169659007",
+        "locations": [
+            "SF",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Pallet",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "BlackRock",
+        "id": "7daec5d5-b6a4-44a3-af41-283e03a04ea7",
+        "title": "Associate Repo Trading",
+        "active": true,
+        "date_updated": 1781907017,
+        "date_posted": 1781906648,
+        "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/New-York-NY/Associate--Repo-Trading_R264888",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/BlackRock",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Zebra Technologies",
+        "id": "401100f3-1cf3-43a4-8914-b66e746a91cb",
+        "title": "Repair Technician - Government Contract - Support I",
+        "active": true,
+        "date_updated": 1781906762,
+        "date_posted": 1781906739,
+        "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Bentonville-Arkansas/Repair-Technician---Government-Contract--Support-I_JR102118",
+        "locations": [
+            "Bentonville, AR"
+        ],
+        "company_url": "https://simplify.jobs/c/Zebra-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
