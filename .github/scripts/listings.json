@@ -304732,7 +304732,7 @@
         "company_name": "Vertiv",
         "id": "e5e23d68-f701-4d24-9372-0bf58a82ba57",
         "title": "Application Engineer - Field Sales",
-        "active": true,
+        "active": false,
         "date_updated": 1779229261,
         "date_posted": 1779228457,
         "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20272451",
@@ -315691,7 +315691,7 @@
         "company_name": "RELX",
         "id": "0a7ac917-236f-4c01-8c5d-45d74731949d",
         "title": "Solutions Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1779869572,
         "date_posted": 1778922944,
         "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/United-Kingdom/Solutions-Analyst_R109322-1",
@@ -316928,7 +316928,7 @@
         "company_name": "Marsh",
         "id": "e68aac58-7bc4-4d3f-95cc-01647aad689d",
         "title": "Data & Analytics Analyst - Data & Analytics Consulting",
-        "active": false,
+        "active": true,
         "date_updated": 1779876578,
         "date_posted": 1778940330,
         "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/Berlin---Mittelstrasse/Oliver-Wyman---Data---Analytics-Consulting---Analyst--m-f-d----Berlin_R_326123-1",
@@ -326863,7 +326863,7 @@
         "company_name": "Neuberger Berman",
         "id": "f0a11a13-2381-4a71-80f1-7dcacdf1794c",
         "title": "Developer 2 - Full Stack Python Developer - Equities Investment Technology",
-        "active": false,
+        "active": true,
         "date_updated": 1780438778,
         "date_posted": 1780437998,
         "url": "https://nb.wd1.myworkdayjobs.com/en-US/NBCareers/job/New-York-NY/Full-Stack-Python-Developer---Equities-Investments_R0011530",
@@ -328516,7 +328516,7 @@
         "company_name": "Stevens Institute of Technology",
         "id": "79e05eca-1049-4e66-b595-48c413a41398",
         "title": "Postdoctoral Associate-Systems Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1780477806,
         "date_posted": 1780131853,
         "url": "https://stevens.wd5.myworkdayjobs.com/External/job/Hoboken-NJ---Main-Campus/Postdoctoral-Associate-Systems-Engineering_RQ29678-1",
@@ -350557,7 +350557,7 @@
         "company_name": "Graphcore",
         "id": "2dc14ab8-95c7-488b-8e78-70a1d6d5f26a",
         "title": "Electronics Laboratory Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1781677010,
         "date_posted": 1781639427,
         "url": "https://job-boards.greenhouse.io/graphcore/jobs/8570813002",
@@ -351020,7 +351020,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "67e55145-2d42-436c-bbfd-65255ab341b4",
         "title": "Embedded Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1781735221,
         "date_posted": 1781734474,
         "url": "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Vancouver-Washington-United-States-of-America/Embedded-Software-Engineer_3162790-1",
@@ -354434,7 +354434,7 @@
         "company_name": "Phoenix Group",
         "id": "0dc4edbc-25bb-469a-b20f-2c4a0ec2165f",
         "title": "P&S Data Governance Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1781877961,
         "date_posted": 1781877959,
         "url": "https://fa-enor-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20391",
@@ -355314,6 +355314,26 @@
         "sponsorship": "Other",
         "degrees": [
             "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "MSIG USA ",
+        "id": "30e9f237-19bd-4c7d-af75-133899dda357",
+        "title": "Reinsurance Underwriting Analyst - Junior / Entry-Level",
+        "active": true,
+        "date_updated": 1781944882,
+        "date_posted": 1781733981,
+        "url": "https://msigna.wd5.myworkdayjobs.com/gbl/job/NJ-Warren/Reinsurance-Underwriting-Analyst-Junior---Entry-Level-_JR-000895",
+        "locations": [
+            "Middlesex, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/MSIG-USA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
