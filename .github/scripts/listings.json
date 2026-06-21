@@ -326645,7 +326645,7 @@
         "company_name": "PJM",
         "id": "54b01c4c-d6dd-4954-ac9f-967ae0e0b6c0",
         "title": "Engineer/Analyst 1 - II",
-        "active": false,
+        "active": true,
         "date_updated": 1780439404,
         "date_posted": 1780438036,
         "url": "https://pjm.wd5.myworkdayjobs.com/pjmcareers/job/Audubon-PA-Hybrid/Engineer-Analyst-I--II-_REQ-2026-4184-1",
@@ -328079,7 +328079,7 @@
         "company_name": "Airbus",
         "id": "0a0e8fdf-52bb-42fb-a2d3-f3c051049dd7",
         "title": "Volunteer for International Experience (VIE) - Junior Technology Scouting",
-        "active": true,
+        "active": false,
         "date_updated": 1780474581,
         "date_posted": 1780438148,
         "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Montreal-Area/VIE-2026---Canada---Junior-Technology-Scouting---H-F_JR10407712",
@@ -355104,7 +355104,7 @@
         "company_name": "TSMG",
         "id": "818d7212-d544-47e1-a3e0-05efa0b42fdf",
         "title": "Field Operator - Public Transport Survey Project",
-        "active": true,
+        "active": false,
         "date_updated": 1781946419,
         "date_posted": 1780841128,
         "url": "https://jobs.lever.co/tsmg/1a2c6e99-4761-4039-94af-64dbcbe17d68/apply",
@@ -355514,6 +355514,24 @@
             "Tarrytown, NY"
         ],
         "company_url": "https://simplify.jobs/c/Attention-Arc",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Alkami Technology",
+        "id": "90cfe2f6-c44f-403a-acff-207760cfdce7",
+        "title": "Technical Consultant 1",
+        "active": true,
+        "date_updated": 1782036337,
+        "date_posted": 1781820312,
+        "url": "https://alkami.wd12.myworkdayjobs.com/alkami/job/US-Remote/Technical-Consultant-I_JR-000716",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Alkami-Technology",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
