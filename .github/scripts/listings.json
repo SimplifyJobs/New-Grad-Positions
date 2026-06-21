@@ -352421,7 +352421,7 @@
         "company_name": "RELX",
         "id": "6626be78-e317-41ce-8cbb-16754b3cb1c3",
         "title": "Data Analyst 1",
-        "active": true,
+        "active": false,
         "date_updated": 1781792710,
         "date_posted": 1781791883,
         "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/PHL-RE-Shared-Services-Manila/Data-Analyst-I_R114265",
@@ -355532,6 +355532,24 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Alkami-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Agiliti",
+        "id": "6cc7cd90-45bc-4be8-8aa6-a0f060f3ab93",
+        "title": "Surgical Equipment Technician \u2013 Entry Level",
+        "active": true,
+        "date_updated": 1782034853,
+        "date_posted": 1780524697,
+        "url": "https://agiliti.wd5.myworkdayjobs.com/careers/job/Roanoke-TX---Lab/Flex-Surgical-Equipment-Technician_JR43489-1",
+        "locations": [
+            "Westlake, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Agiliti",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
