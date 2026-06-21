@@ -333865,7 +333865,7 @@
         "company_name": "Smithfield Foods",
         "id": "db980a0f-d55b-4030-8e3f-2759d0156e13",
         "title": "AI Enablement Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1780881121,
         "date_posted": 1780880783,
         "url": "https://smithfieldfoods.wd1.myworkdayjobs.com/Careers/job/Smithfield-VA/AI-Enablement-Analyst_R-2026-7550",
@@ -336387,7 +336387,7 @@
         "company_name": "RTX",
         "id": "d316d4d5-6b08-4290-b24d-fa803b41cc07",
         "title": "Semiconductor Equipment Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1781015189,
         "date_posted": 1781014588,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-ANDOVER-AR2--362-Lowell-St--AR2-PLYMOUTH-BLDG/Semiconductor-Equipment-Engineer_01851345",
@@ -337379,7 +337379,7 @@
         "company_name": "Cox",
         "id": "d0da6dfb-12bc-4775-b847-0d07256a65bc",
         "title": "Entry Level Data Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1781044175,
         "date_posted": 1781042887,
         "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Data-Engineer-I---11361_R202678512",
@@ -338263,7 +338263,7 @@
         "company_name": "KLA Corporation",
         "id": "7d344d13-dabd-4e9d-86ba-0e417a8fae79",
         "title": "HPC Hardware Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1781083556,
         "date_posted": 1781082861,
         "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/HPC-Hardware-Engineer_2637260",
@@ -338304,7 +338304,7 @@
         "company_name": "Darktrace",
         "id": "79f33ef6-2e84-47c3-bede-0836e7005973",
         "title": "Product Content Executive",
-        "active": false,
+        "active": true,
         "date_updated": 1781082749,
         "date_posted": 1780438102,
         "url": "https://darktrace.wd3.myworkdayjobs.com/DarktaceExternal/job/Cambridge-Office-United-Kingdom/Product-Content-Coordinator_JR101825",
@@ -352829,7 +352829,7 @@
         "company_name": "GE Healthcare",
         "id": "d2ff1270-eca5-47c9-b13a-781c17317939",
         "title": "Field Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1781822050,
         "date_posted": 1781820703,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/El-Paso/Field-Engineer-1_R4042436-1",
@@ -355084,7 +355084,7 @@
         "company_name": "Becton Dickinson",
         "id": "aa35ab04-a301-41e9-bf2f-fc58de23b838",
         "title": "Product Development Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1781958458,
         "date_posted": 1781952928,
         "url": "https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-RI---Warwick/Product-Development-Engineer-I_R-542366-1",
@@ -355572,6 +355572,27 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Iowa State University",
+        "id": "cbfeef3e-9b1c-4335-a876-5175843ac797",
+        "title": "Chemical Engineering Assistant/Associate/Full Professor",
+        "active": true,
+        "date_updated": 1782038261,
+        "date_posted": 1781950261,
+        "url": "https://isu.wd1.myworkdayjobs.com/IowaStateJobs/job/Ames-IA/Chemical-Engineering---Assistant-Associate-Full-Professor_R19314",
+        "locations": [
+            "Ames, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/Iowa-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "PhD"
         ]
     }
 ]
