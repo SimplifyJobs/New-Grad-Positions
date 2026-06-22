@@ -22744,7 +22744,7 @@
         "company_name": "Maven Securities",
         "id": "75588cc9-e212-482e-9239-d04e0f730d0a",
         "title": "Graduate Trader",
-        "active": true,
+        "active": false,
         "date_updated": 1762819309,
         "date_posted": 1761910844,
         "url": "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/7050392",
@@ -297576,7 +297576,7 @@
         "company_name": "Duke University",
         "id": "5eb32e09-d017-4970-9d5b-b364e1725160",
         "title": "Investment Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1778708497,
         "date_posted": 1778623610,
         "url": "https://careers.duke.edu/job/Durham-Investment-Analyst,-DUMAC-NC-27710/1387455400/?ats=successfactors",
@@ -307588,7 +307588,7 @@
         "company_name": "LexisNexis Legal & Professional",
         "id": "33ff65fe-7dfc-4b78-94f2-5160bccd9138",
         "title": "Data Discovery and Enrichment Expert 1",
-        "active": true,
+        "active": false,
         "date_updated": 1779403140,
         "date_posted": 1779401021,
         "url": "https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Quebec/Data-Discovery-and-Enrichment-Expert-I--Canada-Bilingual-Hybrid-or-Remote-_R113429",
@@ -316566,7 +316566,7 @@
         "company_name": "University of Texas at Austin",
         "id": "4ab36df9-7ea0-4864-8025-fc02dd2bba1c",
         "title": "Postdoctoral Fellow - Nuclear Engineering Teaching Lab - Cockrell School of Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1779871540,
         "date_posted": 1778940838,
         "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/PICKLE-RESEARCH-CAMPUS/Postdoctoral-Fellow--Nuclear-Engineering-Teaching-Lab--Cockrell-School-of-Engineering_R_00028498",
@@ -325754,7 +325754,7 @@
         "company_name": "Goldman Sachs",
         "id": "d8f3b21b-ca53-4c69-99d4-ca2ffec5ce73",
         "title": "Global Banking & Markets - Fund Finance Strats - Analyst/Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1780393615,
         "date_posted": 1772234400,
         "url": "https://higher.gs.com/roles/164535",
@@ -344369,7 +344369,7 @@
         "company_name": "Smiths Detection Group",
         "id": "74c47017-36eb-491a-8ffc-b8887cbf2bf8",
         "title": "Graduate Software Engineer - Data - Analytics",
-        "active": false,
+        "active": true,
         "date_updated": 1781303221,
         "date_posted": 1781301938,
         "url": "https://jobs.smartrecruiters.com/SmithsGroup2/744000131915694",
@@ -347109,7 +347109,7 @@
         "company_name": "BlackRock",
         "id": "844eb16a-79ea-422c-8e34-590b8cf3f1b3",
         "title": "Quantitative Modeler - Associate - Qmr",
-        "active": true,
+        "active": false,
         "date_updated": 1781646572,
         "date_posted": 1781639067,
         "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/New-York-NY/Quantitative-Modeler--Associate---QMR_R264630-1",
@@ -351230,7 +351230,7 @@
         "company_name": "Daikin Applied",
         "id": "4f132a8b-88b9-4f7a-9634-a57ad835b3eb",
         "title": "Product Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1781736787,
         "date_posted": 1781734326,
         "url": "https://daikinapplied.wd1.myworkdayjobs.com/Daikin-Careers/job/Phoenix-AZ-85009/Product-Engineer-I_R002965",
@@ -354111,7 +354111,7 @@
         "company_name": "Smiths Detection Group",
         "id": "98adc934-fcbc-4896-ae04-c27a5d8880bc",
         "title": "Graduate Software Engineer - Data - Analytics - Automation & AI - 2 Years FTC",
-        "active": true,
+        "active": false,
         "date_updated": 1781881741,
         "date_posted": 1781877948,
         "url": "https://jobs.smartrecruiters.com/SmithsGroup2/744000132141649",
@@ -355686,6 +355686,206 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Amazon",
+        "id": "2c2aafd9-d2b4-4c8e-a730-7169cb5ae715",
+        "title": "Catalog Specialist",
+        "active": true,
+        "date_updated": 1782137529,
+        "date_posted": 1782137261,
+        "url": "https://amazon.jobs/en/jobs/10449772/catalog-specialist-rcx",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Texas A&M University System",
+        "id": "263f198b-2169-4ff2-bfd5-465b3b33e059",
+        "title": "Associate Software Applications Developer 1",
+        "active": true,
+        "date_updated": 1782137654,
+        "date_posted": 1782137105,
+        "url": "https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/College-Station-TX/Associate-Software-Applications-Developer-I_R-094102",
+        "locations": [
+            "College Station, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Texas-AM-University-System",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "General Dynamics Mission Systems",
+        "id": "e286f41d-d303-4de6-a4aa-dddb294ccdef",
+        "title": "ASIC FPGA Engineer \u2013 Entry Level",
+        "active": true,
+        "date_updated": 1782138686,
+        "date_posted": 1782137114,
+        "url": "https://careers-gdms.icims.com/jobs/73210/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Bloomington, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AG Technologies",
+        "id": "034a9d93-f51a-4886-b0fe-c2f771263fa5",
+        "title": "Entry Level Software Engineer",
+        "active": true,
+        "date_updated": 1782137161,
+        "date_posted": 1782137101,
+        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/100730616",
+        "locations": [
+            "Chesterfield, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/AG-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Broadview Federal Credit Union",
+        "id": "30ae5e0c-0c23-455c-ab4a-85b5d8f32999",
+        "title": "Digital Operations Analyst",
+        "active": true,
+        "date_updated": 1782138241,
+        "date_posted": 1782137170,
+        "url": "https://broadviewfcu.wd1.myworkdayjobs.com/broadviewfcucareers/job/Albany-NY/Digital-Operations-Analyst_R4023",
+        "locations": [
+            "Albany, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Broadview-FCU",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "PNC Financial Services",
+        "id": "768e4d7c-d1fc-4490-94ba-51a4efdf2cb3",
+        "title": "Associate Software Engineer - Test",
+        "active": true,
+        "date_updated": 1782138166,
+        "date_posted": 1782137385,
+        "url": "https://pnc.wd5.myworkdayjobs.com/External/job/Two-PNC-Plaza-PA374/Associate-Software-Engineer---Test_R221948-1",
+        "locations": [
+            "Birmingham, AL",
+            "Dallas, TX",
+            "Pittsburgh, PA",
+            "Strongsville, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/PNC-Financial-Services",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Zebra Technologies",
+        "id": "40eb3488-ec91-4e73-b1ef-60df0dcdff21",
+        "title": "Repair Technician 1",
+        "active": true,
+        "date_updated": 1782138152,
+        "date_posted": 1782137387,
+        "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Bentonville-Arkansas/Repair-Technician-I_JR102115-1",
+        "locations": [
+            "Bentonville, AR"
+        ],
+        "company_url": "https://simplify.jobs/c/Zebra-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "3b43666d-68f7-4b25-846d-19796648f61c",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1782138590,
+        "date_posted": 1782137668,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineer-1---Engine-Indication---Crew-Alerting-Systems--Onsite-_01848535",
+        "locations": [
+            "Cedar Rapids, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Randstad",
+        "id": "08974d19-8b88-4794-99a2-565644239206",
+        "title": "Data Miner",
+        "active": true,
+        "date_updated": 1782137161,
+        "date_posted": 1782137147,
+        "url": "https://jobs.smartrecruiters.com/Randstad4/87770811",
+        "locations": [
+            "Franklin, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/Randstad",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Prosidian Consulting",
+        "id": "037b975c-a205-4233-a14e-db1ef66822d9",
+        "title": "Application Systems Analyst 1",
+        "active": true,
+        "date_updated": 1782137752,
+        "date_posted": 1782137265,
+        "url": "https://jobs.smartrecruiters.com/prosidianconsulting/82849870",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/ProSidian-Consulting",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
