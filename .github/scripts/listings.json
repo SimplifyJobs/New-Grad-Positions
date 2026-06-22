@@ -325792,7 +325792,7 @@
         "company_name": "Goldman Sachs",
         "id": "d8f3b21b-ca53-4c69-99d4-ca2ffec5ce73",
         "title": "Global Banking & Markets - Fund Finance Strats - Analyst/Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1780393615,
         "date_posted": 1772234400,
         "url": "https://higher.gs.com/roles/164535",
@@ -331706,7 +331706,7 @@
         "company_name": "Anduril",
         "id": "0a20816a-d18d-455c-9e1d-fe6a126bb513",
         "title": "Product Operations Associate - Tier 1",
-        "active": false,
+        "active": true,
         "date_updated": 1780622132,
         "date_posted": 1774574788,
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/5081383007",
@@ -344166,7 +344166,7 @@
         "company_name": "Phillips 66",
         "id": "e75ce752-4d23-47b5-b042-15ebc556d68b",
         "title": "Advisor 1 - Data Science - Product Optimization",
-        "active": true,
+        "active": false,
         "date_updated": 1781273661,
         "date_posted": 1781273187,
         "url": "https://careers.phillips66.com/job/Houston-Advisor-I,-Product-Optimization-(Data-Science)-TX-77042/1383744700/?ats=successfactors",
@@ -349381,7 +349381,7 @@
         "company_name": "GE Healthcare",
         "id": "a8b9f131-aa9e-4ee4-b905-6aded687e45e",
         "title": "Firmware Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1781647521,
         "date_posted": 1781639272,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Firmware-Engineer_R4042432-1",
@@ -352254,7 +352254,7 @@
         "company_name": "Atlas Energy Solutions",
         "id": "3d368048-e329-4632-9100-f86205ea53a9",
         "title": "Electrical Panel Assembly Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1781792735,
         "date_posted": 1781792350,
         "url": "https://job-boards.greenhouse.io/atlassand/jobs/8485256002",
@@ -352883,7 +352883,7 @@
         "company_name": "BlueCross BlueShield of South Carolina",
         "id": "5e8e8758-7d24-4adc-bb06-96b79934f520",
         "title": "Reinsurance Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1781821621,
         "date_posted": 1781820549,
         "url": "https://ourhrconnect.wd501.myworkdayjobs.com/SCBlues/job/Fort-Wayne-Indiana/Reinsurance-Data-Analyst_R1051211",
@@ -353370,7 +353370,7 @@
         "company_name": "Goldman Sachs",
         "id": "9c889bbe-3176-45bf-96fc-ce726765f959",
         "title": "Compliance Associate - Data Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1781831523,
         "date_posted": 1781831227,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/171671",
@@ -355543,5 +355543,69 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Southwest Airlines",
+        "id": "c0b2c7a6-d22e-48fc-a4a3-7c139fd3a14c",
+        "title": "Meteorologist",
+        "active": true,
+        "date_updated": 1782108902,
+        "date_posted": 1782108766,
+        "url": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Meteorologist_R-2026-69167",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Southwest-Airlines",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "General Dynamics Mission Systems",
+        "id": "6507515a-808f-4502-b19f-ead22fbf63d3",
+        "title": "Entry Level Software Engineer",
+        "active": true,
+        "date_updated": 1782108361,
+        "date_posted": 1782108324,
+        "url": "https://careers-gdms.icims.com/jobs/73193/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Scottsdale, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Applied Materials",
+        "id": "3e1824f1-5725-4981-a47f-ecec4729f482",
+        "title": "Field Service Engineer New College Graduate Rotational Program",
+        "active": true,
+        "date_updated": 1782108868,
+        "date_posted": 1782108674,
+        "url": "https://amat.wd1.myworkdayjobs.com/External/job/PhoenixAZ/XMLNAME-2027-Field-Service-Engineer---New-College-Graduate-Rotational-Program---Bachelor-s-Degree_R2614610",
+        "locations": [
+            "Austin, TX",
+            "Hillsboro, OR",
+            "Boise, ID",
+            "Albany, NY",
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Materials",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
