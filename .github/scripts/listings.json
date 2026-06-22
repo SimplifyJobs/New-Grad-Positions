@@ -31218,24 +31218,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Wyetech",
-        "id": "7e21a66e-4d5b-4bf3-837b-8c1477e2c4ff",
-        "title": "Database Engineer 0",
-        "active": false,
-        "date_updated": 1761434595,
-        "date_posted": 1761434595,
-        "url": "https://jobs.lever.co/wyetechllc/686d2ecb-f9df-4775-b26f-253c889b1452/apply",
-        "locations": [
-            "Annapolis Junction, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/Wyetech-LLC",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "JP Morgan Chase",
         "id": "dc5d5724-00b8-4e6f-8ee3-5fdd0456fe8b",
         "title": "Technology Support Senior Specialist",
@@ -309326,7 +309308,7 @@
         "company_name": "Capco",
         "id": "de2b07d1-c59d-4fb4-a947-7f09e20942a5",
         "title": "Full Stack Developer - SQL Power Apps Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1779747399,
         "date_posted": 1779747273,
         "url": "https://job-boards.greenhouse.io/capco/jobs/7769320",
@@ -321436,7 +321418,7 @@
         "company_name": "Johnson Controls",
         "id": "f2d9608f-8b8e-45e1-98d7-b9c1b645a9dc",
         "title": "Hardware Engineer - Controls",
-        "active": true,
+        "active": false,
         "date_updated": 1779963075,
         "date_posted": 1779228389,
         "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Milwaukee-Wisconsin-United-States-of-America/NextGen-Hardware-Engineer---Controls_WD30270114",
@@ -325754,7 +325736,7 @@
         "company_name": "Goldman Sachs",
         "id": "d8f3b21b-ca53-4c69-99d4-ca2ffec5ce73",
         "title": "Global Banking & Markets - Fund Finance Strats - Analyst/Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1780393615,
         "date_posted": 1772234400,
         "url": "https://higher.gs.com/roles/164535",
@@ -356002,6 +355984,170 @@
             "SF"
         ],
         "company_url": "https://simplify.jobs/c/Quantcast",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Castleton Commodities International",
+        "id": "ac473203-bb78-466f-91f1-49134f01dfe5",
+        "title": "Front Office Software Engineer Associate",
+        "active": true,
+        "date_updated": 1782166772,
+        "date_posted": 1782166008,
+        "url": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/London-UK/Associate--Front-Office-Software-Engineer_R1316-1",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Castleton-Commodities-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "BAE Systems",
+        "id": "8cc1b7df-a36d-497d-9d33-2607aac36cbf",
+        "title": "Junior Software Engineer",
+        "active": true,
+        "date_updated": 1782167041,
+        "date_posted": 1782166318,
+        "url": "https://baesystems.taleo.net/careersection/2/jobdetail.ftl?job=00136162",
+        "locations": [
+            "Girvan, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/BAE-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "KLA Corporation",
+        "id": "ef6f5d6b-14e1-4e49-b76d-061a76076bdf",
+        "title": "Applications Development Engineer",
+        "active": true,
+        "date_updated": 1782167761,
+        "date_posted": 1782167538,
+        "url": "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Applications-Development-Engineer_2637888-1",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/KLA-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "KLA",
+        "id": "e51c9740-5833-4cde-9afd-23b440bfe8d8",
+        "title": "Applications Development Engineer",
+        "active": true,
+        "date_updated": 1782167041,
+        "date_posted": 1782165928,
+        "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Applications-Development-Engineer_2637888",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/KLA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Sony Interactive Entertainment",
+        "id": "854b7fbf-6a94-4938-b966-149a71aca887",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1782167354,
+        "date_posted": 1782166571,
+        "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6099045004",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Sony-Interactive-Entertainment",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Latitude AI",
+        "id": "3eea0447-d4b3-42bc-8386-bdb02d73fc29",
+        "title": "Triage Associate 1 - Contractor",
+        "active": true,
+        "date_updated": 1782167389,
+        "date_posted": 1782166773,
+        "url": "https://job-boards.greenhouse.io/latitude/jobs/8021962",
+        "locations": [
+            "Palo Alto, CA",
+            "Taylor, MI",
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/LatitudeAI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Quince",
+        "id": "37a68980-82f2-4c55-b307-c8baff3b2fb8",
+        "title": "Software Development Engineer 2 - Planning and Forecasting",
+        "active": true,
+        "date_updated": 1782167858,
+        "date_posted": 1782166901,
+        "url": "https://job-boards.greenhouse.io/quince/jobs/5264916008",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Quince",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "dunnhumby",
+        "id": "049a8794-a763-459d-b757-ab11ab9d4bb6",
+        "title": "Shopper Insights Client Associate",
+        "active": true,
+        "date_updated": 1782167041,
+        "date_posted": 1782166888,
+        "url": "https://job-boards.greenhouse.io/dunnhumby/jobs/7779122003",
+        "locations": [
+            "Bentonville, AR"
+        ],
+        "company_url": "https://simplify.jobs/c/dunnhumby",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
