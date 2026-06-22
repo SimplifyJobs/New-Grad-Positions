@@ -183876,7 +183876,7 @@
         "company_name": "GlobalFoundries",
         "id": "a72cc85c-44b1-4e45-842a-98493d67356f",
         "title": "Engineer \u2013 2026 New College Graduate - Test Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1772148599,
         "date_posted": 1772148599,
         "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/Engineer--Test-Engineering--2026-New-College-Graduate-_JR-2502376",
@@ -299647,7 +299647,7 @@
         "company_name": "DAT Freight & Analytics",
         "id": "cccfbe41-42b5-4bfa-816c-d5d554982df3",
         "title": "Analyst 1",
-        "active": true,
+        "active": false,
         "date_updated": 1778797919,
         "date_posted": 1778797053,
         "url": "https://careers.dat.com/jobs/5990555004?gh_jid=5990555004",
@@ -311920,7 +311920,7 @@
         "company_name": "The Boeing Company",
         "id": "8ee27bcf-2599-4880-93c6-07e3d3819916",
         "title": "Flight Simulation Software Engineers \u2013 Senior",
-        "active": false,
+        "active": true,
         "date_updated": 1779821101,
         "date_posted": 1779531373,
         "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Berkeley-MO/Flight-Simulation-Software-Engineers--Associate--Experienced--and-Senior-_JR2026507695",
@@ -321517,7 +321517,7 @@
         "company_name": "Liberis",
         "id": "ca0028f3-ad0e-4830-bee0-cde8d97928fd",
         "title": "Product Operations Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1779960513,
         "date_posted": 1779959475,
         "url": "https://job-boards.greenhouse.io/liberis/jobs/7962565",
@@ -342953,7 +342953,7 @@
         "company_name": "Elwood Technologies",
         "id": "05183a5d-b79a-4f8d-8c99-16ef6feeaf84",
         "title": "Graduate Portfolio Management System Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1781217412,
         "date_posted": 1781216509,
         "url": "https://job-boards.greenhouse.io/elwoodtechnologies/jobs/6019929004",
@@ -353332,7 +353332,7 @@
         "company_name": "Goldman Sachs",
         "id": "9c889bbe-3176-45bf-96fc-ce726765f959",
         "title": "Compliance Associate - Data Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1781831523,
         "date_posted": 1781831227,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/171671",
@@ -355656,7 +355656,7 @@
         "company_name": "Freeform",
         "id": "a3c60fbb-e07a-4b6b-b5e2-3b17d08108a3",
         "title": "Materials Lab - General Helper",
-        "active": true,
+        "active": false,
         "date_updated": 1782121912,
         "date_posted": 1778019815,
         "url": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7725222003",
@@ -355667,5 +355667,25 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CoStar Group",
+        "id": "1752e2db-89d2-42d9-a338-a18f3585942c",
+        "title": "Associate Research Consultant",
+        "active": true,
+        "date_updated": 1782138532,
+        "date_posted": 1782137593,
+        "url": "https://costar.wd1.myworkdayjobs.com/confidential/job/US-VA-Richmond/Associate-Research-Consultant---May-2026-Graduates_R37170-2",
+        "locations": [
+            "Richmond, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/CoStar",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
