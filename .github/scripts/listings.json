@@ -222394,7 +222394,7 @@
         "company_name": "Ensign-Bickford Aerospace & Defense Company",
         "id": "52a8aef6-27c3-42ae-91db-64ac88874f03",
         "title": "Development Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1774276119,
         "date_posted": 1774276119,
         "url": "https://ebi.wd5.myworkdayjobs.com/ebadcareers/job/Simsbury-CT/Development-Technician_REQ107097",
@@ -236128,7 +236128,7 @@
         "company_name": "Tech Tammina",
         "id": "03f2c610-a842-40bc-ab25-3e6baa86544c",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1774981261,
         "date_posted": 1772158248,
         "url": "https://jobs.smartrecruiters.com/TecTammina/82784193",
@@ -322415,7 +322415,7 @@
         "company_name": "Brink",
         "id": "a999a49c-402d-44ce-b35b-d60c89144761",
         "title": "ATM Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1780274470,
         "date_posted": 1780131751,
         "url": "https://brinks.wd5.myworkdayjobs.com/brinkscareersus/job/Baton-Rouge-LA/ATM-Technician_R72782",
@@ -325536,7 +325536,7 @@
         "company_name": "RTX",
         "id": "31b7f70c-a169-487e-a379-b84328b186b8",
         "title": "Configuration Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1780389425,
         "date_posted": 1780351840,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WM--2501-W-University-Dr--WING-M-BLDG/Configuration-Analyst_01849460",
@@ -346971,7 +346971,7 @@
         "company_name": "Woodward Governor",
         "id": "230d7c6c-d67d-4885-8ffb-386e233cb9d8",
         "title": "OEM Sales Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1781648284,
         "date_posted": 1781638814,
         "url": "https://woodward.wd5.myworkdayjobs.com/woodward/job/Fort-Collins---Lincoln-Campus/OEM-Product-Application-Engineer_JR109956",
@@ -352173,7 +352173,7 @@
         "company_name": "CoStar Group",
         "id": "2bc5a205-56bd-4f78-b7b0-f67a68066540",
         "title": "Associate Research Consultant",
-        "active": true,
+        "active": false,
         "date_updated": 1781772425,
         "date_posted": 1781360965,
         "url": "https://costar.wd1.myworkdayjobs.com/en-US/CoStarCareers/job/UK-London/Associate-Research-Consultant--CoStar---London_R38556",
@@ -352216,7 +352216,7 @@
         "company_name": "Atlas Energy Solutions",
         "id": "3d368048-e329-4632-9100-f86205ea53a9",
         "title": "Electrical Panel Assembly Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1781792735,
         "date_posted": 1781792350,
         "url": "https://job-boards.greenhouse.io/atlassand/jobs/8485256002",
@@ -355885,6 +355885,46 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cardinal Health",
+        "id": "75074de7-551a-43d4-b58b-36873a029e62",
+        "title": "Analyst \u2013 Application Development & Maintenance",
+        "active": true,
+        "date_updated": 1782120608,
+        "date_posted": 1782120505,
+        "url": "https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/IND07/Analyst--Application-Development---Maintenance_20182485",
+        "locations": [
+            "Indianapolis, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Cardinal-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AG Technologies",
+        "id": "01864a29-f685-449a-8b9a-abcaf7bc9c15",
+        "title": "Entry Level Software Engineer",
+        "active": true,
+        "date_updated": 1782137242,
+        "date_posted": 1782137098,
+        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/108734797",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/AG-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
             "Master's"
         ]
     }
