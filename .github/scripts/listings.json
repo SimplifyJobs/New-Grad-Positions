@@ -312512,7 +312512,7 @@
         "company_name": "Worldwide TechServices",
         "id": "0407f758-05a7-42dc-bcb0-57152093c678",
         "title": "Dynamic Server Support",
-        "active": true,
+        "active": false,
         "date_updated": 1779822002,
         "date_posted": 1778709878,
         "url": "https://jobs.smartrecruiters.com/WorldwideTechServices/744000126327529",
@@ -322359,7 +322359,7 @@
         "company_name": "Leidos",
         "id": "c2ced759-415c-4430-971e-4945e24dcfcc",
         "title": "Electronics Mechanical Assembly Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1780275161,
         "date_posted": 1780134819,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Electronics-Mechanical-Assembly-Technician_R-00182031",
@@ -355611,5 +355611,43 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "University of Wisconsin System",
+        "id": "34eb8acd-fa7d-4f59-936b-5651f64951e4",
+        "title": "Assistant Professor - Engineering & Engineering Technology",
+        "active": true,
+        "date_updated": 1782118850,
+        "date_posted": 1781360374,
+        "url": "https://wisconsin.wd1.myworkdayjobs.com/UW_Comprehensives/job/River-Falls-WI/Assistant-Professor---Engineering---Engineer-Technology_JR10008623",
+        "locations": [
+            "River Falls, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Wisconsin-System",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Legit Script",
+        "id": "43f50528-e0c9-4966-b605-bb702b1fe5f0",
+        "title": "Analyst 1 - Certification",
+        "active": true,
+        "date_updated": 1782119153,
+        "date_posted": 1781226609,
+        "url": "https://ats.rippling.com/legitscript-careers/jobs/2557a567-a711-4ecc-b5a3-5ba3c446c237",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Legit-Script",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
