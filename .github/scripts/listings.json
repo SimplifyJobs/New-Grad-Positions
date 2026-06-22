@@ -324187,7 +324187,7 @@
         "company_name": "Andrew Morgan",
         "id": "027f917c-5000-4389-bdd4-79e2e30d962e",
         "title": "OneStream Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1780353313,
         "date_posted": 1780351728,
         "url": "https://andrew-morgan.com/current-openings/?gh_jid=5237627008",
@@ -333993,7 +333993,7 @@
         "company_name": "GE Healthcare",
         "id": "0f965ade-d8a0-42be-a1dd-cc2ff518efb6",
         "title": "Field Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1780906751,
         "date_posted": 1780437968,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer-1--Central-IL-_R4041220-1",
@@ -340048,7 +340048,7 @@
         "company_name": "Lithia Motors",
         "id": "2664a38f-b76f-42f0-82a4-12aecc67d729",
         "title": "Product Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1781166871,
         "date_posted": 1781129201,
         "url": "https://lithia.wd5.myworkdayjobs.com/LithiaCareers/job/BMW-of-Minnetonka-Minnetonka-MN-55391/Product-Specialist_R110644",
@@ -353965,7 +353965,7 @@
         "company_name": "Jonas Software",
         "id": "058e376f-60d5-425d-a1dd-6c73a4ad4224",
         "title": "Customer Support Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1781857643,
         "date_posted": 1781346653,
         "url": "https://talentmanagementsolution.wd3.myworkdayjobs.com/JonasSoftwareCanada/job/Canada---Markham---Ontario/Customer-Solution-Analyst_R12522-2",
@@ -355606,6 +355606,48 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Acrisure",
+        "id": "17eb8a6f-67ab-442f-927c-a803b6d8f192",
+        "title": "Product Success Specialist",
+        "active": true,
+        "date_updated": 1782117830,
+        "date_posted": 1781917892,
+        "url": "https://acrisure.wd1.myworkdayjobs.com/Acrisure/job/816-Congress-Ave-Ste-1800----AUSTIN-TX/Product-Success-Specialist_JR113606",
+        "locations": [
+            "Austin, TX",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Acrisure",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "25d15539-9462-46c0-af26-63c8a53df5b0",
+        "title": "Member Engineering Staff - Embedded Software",
+        "active": true,
+        "date_updated": 1782117901,
+        "date_posted": 1781186897,
+        "url": "https://jobs.l3harris.com/job/Camden-Member-Engineering-Staff-Embedded-Software-NJ-08103/1398893900/?ats=successfactors",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
