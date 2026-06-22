@@ -2375,24 +2375,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "PA Consulting",
-        "id": "7838a9b4-c1bf-4918-9cb8-a74a89e33a66",
-        "title": "2026 Graduate - Software & Controls Engineer - Cambridge",
-        "active": false,
-        "date_updated": 1761367073,
-        "date_posted": 1761367073,
-        "url": "https://jobs.smartrecruiters.com/PAConsulting/744000087635223",
-        "locations": [
-            "Cambridge, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/PA-Consulting",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Esri",
         "id": "af006b99-f0cd-40b6-aa02-cf5333840403",
