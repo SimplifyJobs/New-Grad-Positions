@@ -355927,5 +355927,83 @@
         "degrees": [
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "WellSky",
+        "id": "e93e54ef-8346-4df2-bd91-dd2a9f14956a",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1782166333,
+        "date_posted": 1782166129,
+        "url": "https://wellsky.wd1.myworkdayjobs.com/WellSkyCareers/job/Overland-Park-KS/Associate-Software-Engineer---Onsite_JR4907",
+        "locations": [
+            "Overland Park, KS"
+        ],
+        "company_url": "https://simplify.jobs/c/WellSky",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Draper",
+        "id": "89d1bccd-2b24-401a-af31-daa233ff2c6d",
+        "title": "Entry Level Radio Frequency Engineer",
+        "active": true,
+        "date_updated": 1782166872,
+        "date_posted": 1782166062,
+        "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Entry-Level-RF-Engineer_JR002626",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Draper",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Snap Finance",
+        "id": "51513216-6e4c-41c3-becf-4f1894713925",
+        "title": "Data Analyst 1",
+        "active": true,
+        "date_updated": 1782166739,
+        "date_posted": 1782165978,
+        "url": "https://snapfinance.wd1.myworkdayjobs.com/snap_external_careers/job/Metro-9---West-Valley-City/Data-Analyst-I_R-2803",
+        "locations": [
+            "West Valley City, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/3be8000e-c16e-4e18-a0d2-8af3b53e6f02",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Quantcast",
+        "id": "4e62702d-5d60-456c-8db4-e845a948cd06",
+        "title": "Machine Learning Engineer",
+        "active": true,
+        "date_updated": 1782166333,
+        "date_posted": 1782166029,
+        "url": "https://jobs.lever.co/quantcast/85c49bea-f862-4972-a334-a8e24d47fec7/apply",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Quantcast",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
