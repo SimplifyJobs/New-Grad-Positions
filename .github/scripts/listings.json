@@ -31235,24 +31235,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Northumbria University",
-        "id": "16223b54-b0d8-4d13-bb03-fb3a4f9276fe",
-        "title": "Research Fellow in Ice Sheet Modelling",
-        "active": false,
-        "date_updated": 1762928916,
-        "date_posted": 1761388177,
-        "url": "https://fa-etnb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/3629",
-        "locations": [
-            "Newcastle upon Tyne, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Northumbria-University",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "JP Morgan Chase",
         "id": "dc5d5724-00b8-4e6f-8ee3-5fdd0456fe8b",
