@@ -339355,7 +339355,7 @@
         "company_name": "Aptiv",
         "id": "2d0da458-f138-42e4-83ba-008c47df599c",
         "title": "Embedded Software Engineer - Wind River Next RTOS",
-        "active": true,
+        "active": false,
         "date_updated": 1781130241,
         "date_posted": 1781129297,
         "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Embedded-Software-Engineer---Wind-River-Next-RTOS_J000699512-1",
@@ -356596,6 +356596,84 @@
             "Salt Lake City, UT"
         ],
         "company_url": "https://simplify.jobs/c/e05ef31f-f120-4063-adad-2b2fdde995cb",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Conagra Brands",
+        "id": "ee75a9f6-6400-4ed0-af4a-687312912d3a",
+        "title": "Data Management Organization - Business Services Analyst",
+        "active": true,
+        "date_updated": 1782166333,
+        "date_posted": 1782166259,
+        "url": "https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Omaha-Nebraska/Data-Management-Organization---Associate-Business-Services-Analyst_Req-038829",
+        "locations": [
+            "Omaha, NE"
+        ],
+        "company_url": "https://simplify.jobs/c/Conagra-Brands",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cox",
+        "id": "a56f7c52-2e58-4520-8e9e-c112ea2c96df",
+        "title": "Entry Level Software Engineer",
+        "active": true,
+        "date_updated": 1782166333,
+        "date_posted": 1782166244,
+        "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Burlington-VT/Entry-Level-Software-Engineer--Burlington--VT-_R202679034",
+        "locations": [
+            "Burlington, VT"
+        ],
+        "company_url": "https://simplify.jobs/c/Cox",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "DAT Freight & Analytics",
+        "id": "3859ee3a-9bd7-4c36-98c9-4e3c8984ced5",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1782167393,
+        "date_posted": 1782166893,
+        "url": "https://careers.dat.com/jobs/6099144004?gh_jid=6099144004",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/DATFreight",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Draper",
+        "id": "25768372-33ac-4aaa-8269-c3b15e2272a8",
+        "title": "Embedded Software Engineer",
+        "active": true,
+        "date_updated": 1782166333,
+        "date_posted": 1782166062,
+        "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Embedded-Software-Engineer_JR002634",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Draper",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
