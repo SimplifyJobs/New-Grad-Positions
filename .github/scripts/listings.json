@@ -30827,42 +30827,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Akima",
-        "id": "0cddedf4-8d4d-4bd8-adaa-cee8f065c6c9",
-        "title": "Service Desk Administrator - Active Secret Clearance required",
-        "active": false,
-        "date_updated": 1761488547,
-        "date_posted": 1761488547,
-        "url": "https://careers.akima.com/jobs/19811?lang=en-us&icims=1",
-        "locations": [
-            "Oakland, SC"
-        ],
-        "company_url": "https://simplify.jobs/c/Akima",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Mass General Brigham",
-        "id": "8214a891-8c58-415c-929f-dd35d28753f3",
-        "title": "Application Coordinator",
-        "active": false,
-        "date_updated": 1762935823,
-        "date_posted": 1761488405,
-        "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Somerville-MA/Grand-Central-Prelude-Application-Coordinator_RQ4036097",
-        "locations": [
-            "Cambridge, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Mass-General-Brigham",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Western Alliance",
         "id": "da62d0bc-bc28-4a33-bc31-15757e2df5eb",
@@ -92479,25 +92443,6 @@
             "Austin, TX"
         ],
         "company_url": "https://simplify.jobs/c/Vertiv",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Flock Safety",
-        "id": "4a83a7c2-e85f-4f50-8342-28fb3b079b21",
-        "title": "Install Technician - Chicago - IL",
-        "active": false,
-        "date_updated": 1765878120,
-        "date_posted": 1761488837,
-        "url": "https://jobs.ashbyhq.com/Flock%20Safety/927fe12e-9a8d-4c50-827e-ed09840ee156/application",
-        "locations": [
-            "Rockford, IL",
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/FlockSafety",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -352647,7 +352592,7 @@
         "company_name": "University of Arkansas",
         "id": "0a6e4114-568d-4b32-9b9c-9ecb2b8bb774",
         "title": "Extra Help AI Researcher-1",
-        "active": false,
+        "active": true,
         "date_updated": 1781820737,
         "date_posted": 1781820301,
         "url": "https://uasys.wd5.myworkdayjobs.com/uasys/job/University-of-Arkansas-at-Pine-Bluff/Extra-Help-AI-Researcher-1_R0087100",
@@ -356429,6 +356374,26 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Empower-Advisory-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cox",
+        "id": "124c16b4-a879-4e83-b93b-b6ae05424710",
+        "title": "Entry Level Software Engineer",
+        "active": true,
+        "date_updated": 1782166333,
+        "date_posted": 1782166243,
+        "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Irvine-CA/Entry-Level-Software-Engineer--Irvine--CA-_R202679078-1",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cox",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
