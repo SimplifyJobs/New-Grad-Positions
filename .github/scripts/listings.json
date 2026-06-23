@@ -238984,7 +238984,7 @@
         "company_name": "SpaceX",
         "id": "6e8159ec-d2dc-4dfb-bf59-a1c0dd5075f6",
         "title": "Simulation Software Engineer - Application Software",
-        "active": true,
+        "active": false,
         "date_updated": 1775004841,
         "date_posted": 1774995102,
         "url": "https://boards.greenhouse.io/spacex/jobs/8488034002",
@@ -241585,7 +241585,7 @@
         "company_name": "Intel",
         "id": "2e2e284e-a016-4be4-9dd1-40ea71fd871f",
         "title": "Post-silicon Validation and Debug Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1775140816,
         "date_posted": 1775138926,
         "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Post-silicon-Validation-and-Debug-Engineer_JR0282307",
@@ -247479,7 +247479,7 @@
         "company_name": "SpaceX",
         "id": "36daf7eb-ea98-48ef-9177-6dba74ebd722",
         "title": "Full Stack Software Engineer - Application Software",
-        "active": true,
+        "active": false,
         "date_updated": 1775516941,
         "date_posted": 1775513995,
         "url": "https://boards.greenhouse.io/spacex/jobs/8495131002",
@@ -301717,7 +301717,7 @@
         "company_name": "Solace Health",
         "id": "01803d7d-9afd-4b37-bed7-baf760c063fa",
         "title": "Associate Researcher - Impact Analytics",
-        "active": true,
+        "active": false,
         "date_updated": 1778893741,
         "date_posted": 1778893698,
         "url": "https://jobs.ashbyhq.com/solace/51a448f3-6abc-49ac-81eb-128bea38fd8b/application",
@@ -346972,7 +346972,7 @@
         "company_name": "Beacon AI",
         "id": "2d30fb16-0d3f-4f34-a760-250caf8c7d10",
         "title": "Software Engineer - Frontend/Web App",
-        "active": true,
+        "active": false,
         "date_updated": 1781644697,
         "date_posted": 1781638938,
         "url": "https://jobs.ashbyhq.com/beaconai/8c8f57a1-0069-43a5-924b-ce2b6eb65340/application",
@@ -356318,5 +356318,84 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Becton Dickinson",
+        "id": "f5283c9a-d26a-42df-a1f0-a7b16c58e7dd",
+        "title": "Field Service Engineer 1",
+        "active": true,
+        "date_updated": 1782177228,
+        "date_posted": 1782176771,
+        "url": "https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA---California---Los-Angeles/Field-Service-Engineer-1--Los-Angeles--CA_R-548238-1",
+        "locations": [
+            "LA",
+            "Ventura, CA",
+            "Simi Valley, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Becton-Dickinson",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GlobalFoundries",
+        "id": "cc79044e-a401-4c7c-8fa2-08933d224061",
+        "title": "AI/ML Systems Engineer \u2013 New College Graduate",
+        "active": true,
+        "date_updated": 1782176961,
+        "date_posted": 1782176713,
+        "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/AI-ML-Systems-Engineer---2026-New-College-Graduate-_JR-2602829",
+        "locations": [
+            "Richardson, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/GlobalFoundries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Argonne National Laboratory",
+        "id": "4fac63c8-0f56-4273-96aa-0c11b48a752f",
+        "title": "Postdoctoral Appointee - Materials Informatics and Autonomous Synthesis",
+        "active": true,
+        "date_updated": 1782177121,
+        "date_posted": 1782176972,
+        "url": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---Materials-Informatics-and-Autonomous-Synthesis_422966",
+        "locations": [
+            "Woodridge, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Argonne-National-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Best Buy",
+        "id": "498a92b8-e8e4-46c3-96fc-54daad8b48d9",
+        "title": "Field Technical Service Representative",
+        "active": true,
+        "date_updated": 1782176941,
+        "date_posted": 1782176885,
+        "url": "https://bestbuycanada.wd3.myworkdayjobs.com/BestBuyCA_Career/job/11929-Langley/Field-Technical-Service-Representative--Full-Time-_R-51141",
+        "locations": [
+            "Langley, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Best-Buy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
