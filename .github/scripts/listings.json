@@ -331589,7 +331589,7 @@
         "company_name": "LG Ad Solutions",
         "id": "2a08e727-7fe9-4b87-8657-8bed78f1d4df",
         "title": "Entry Level Global Reporting & Analytics Analyst - Digital Campaign Management - Product Strategy and Business Intelligence",
-        "active": true,
+        "active": false,
         "date_updated": 1780622064,
         "date_posted": 1780621852,
         "url": "https://jobs.ashbyhq.com/lgads/e5e78b30-13dc-4d12-b0ec-eb819de7d53a/application",
@@ -333976,7 +333976,7 @@
         "company_name": "BAE Systems",
         "id": "5ed438fb-5fdc-49d8-bce0-3159eb5fbd5a",
         "title": "Asset Gateway Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1780909742,
         "date_posted": 1780909604,
         "url": "https://baesystems.taleo.net/careersection/2/jobdetail.ftl?job=00136421",
@@ -356151,5 +356151,49 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Radiance Technologies",
+        "id": "fabd8915-928a-4b5a-bbdd-c40bfea3c5f0",
+        "title": "Entry Level Microelectronics R&D Engineer",
+        "active": true,
+        "date_updated": 1782167428,
+        "date_posted": 1782165782,
+        "url": "https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Ruston-LA/Entry-level-Microelectronics-R-D-Engineer_HR102264-1",
+        "locations": [
+            "Monroe, LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Radiance-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Aerospace Corporation",
+        "id": "9a45b0e0-e9bb-4032-a3fb-fe8189ffe12d",
+        "title": "Network Modelling and Simulation Engineer \u2013 Mts/Sr Mts",
+        "active": true,
+        "date_updated": 1782165961,
+        "date_posted": 1782165866,
+        "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/Network-Modelling-and-Simulation-Engineer---MTS-Sr-MTS_R015708",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Aerospace-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
     }
 ]
