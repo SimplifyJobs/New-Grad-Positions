@@ -1176,7 +1176,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (1249)</summary>
+<summary>🗃️ Inactive roles (1248)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -9925,13 +9925,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>🔒</td>
 <td>7mo</td>
 </tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/wolverine-trading?utm_source=GHList&utm_medium=company">Wolverine Trading</a></strong></td>
-<td>Entry Level C# Software Engineer</td>
-<td>Chicago, IL</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
 </tbody>
 </table>
 
@@ -14783,7 +14776,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Engineer 1</td>
 <td>Phoenix, AZ</td>
 <td>🔒</td>
-<td>6mo</td>
+<td>7mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/General-Dynamics?utm_source=GHList&utm_medium=company">General Dynamics</a></strong></td>
