@@ -356397,5 +356397,26 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Microsoft",
+        "id": "902db6d9-7c81-4410-82c0-aec596f39447",
+        "title": "Software Engineer: AI Development Acceleration Program",
+        "active": true,
+        "date_updated": 1782181498,
+        "date_posted": 1782181296,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556899565",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Microsoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
