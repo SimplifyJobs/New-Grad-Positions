@@ -325695,7 +325695,7 @@
         "company_name": "Intel",
         "id": "a9a4159d-ed39-4ba2-a937-f9e00a7c9e24",
         "title": "Metrology Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1780392855,
         "date_posted": 1780137167,
         "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Metrology-Engineer_JR0283779-1",
@@ -356194,6 +356194,47 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Eataly",
+        "id": "e76331d3-e63d-4e1e-a4fe-e0fccbb126c8",
+        "title": "Master Data Associate - Eataly Corporate",
+        "active": true,
+        "date_updated": 1782165961,
+        "date_posted": 1782165895,
+        "url": "https://jobs.smartrecruiters.com/Eataly/744000133451175",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Eataly",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ZOLL Medical Corporation",
+        "id": "4094133f-5f18-4aff-9d72-ecf4280916d4",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1782165961,
+        "date_posted": 1782165866,
+        "url": "https://zoll.wd5.myworkdayjobs.com/en-US/ZOLLMedicalCorp/job/Chelmsford-MA/Software-Engineer_R19423",
+        "locations": [
+            "Lowell, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Zoll",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
